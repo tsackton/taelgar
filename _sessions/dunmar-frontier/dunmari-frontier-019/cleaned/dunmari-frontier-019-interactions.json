@@ -1,0 +1,2472 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "25d5cddc862dbcafdb869494f751b26e8a80e356383981ae674fa35fca1b09d2"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-entity-map.json",
+      "sha256": "5b0795db103db97a3293c4dbdbdaf2be928ab64ffef0c101b3aa84f6fc4060d5"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Candrosa’s fear and guilt",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0426",
+        "endUid": "u0470"
+      },
+      "lines": [
+        "%% u0426:0-30, u0427:0-50 %%",
+        "Seeker: I feel puzzled about Candrosa. There's something not right about how he's acting.",
+        "",
+        "%% u0428:0-10, u0429:0-19, u0430:0-64, u0431:0-33, u0432:0-35, u0433:0-12, u0434:0-34, u0435:0-21, u0436:0-190, u0437:0-115 %%",
+        "Kenzo: Yeah, well, certainly the—he's… I don't think he's being deceptive with us, I'll put it that way. Everything that I sense from him, he's genuinely scared. He's fearful. I think the loss of connection with Shakun is traumatizing for him. Now he has said to us himself in a straightforward way, there's clearly a history and a deeper understanding that he's aware of that it's not shared with us. I think he he will at some point. He doesn't want to share it to us now. Actually can convince him to share it to us before we leave, I don't know, but…",
+        "",
+        "%% u0438:0-75, u0439:0-58, u0440:0-10 %%",
+        "Seeker: Has he ever, to you, seemed guilty or ashamed, as though something that you or the people of the cult of Shakun did could have caused this loss?",
+        "",
+        "%% u0441:0-58, u0442:0-73 %%",
+        "Kenzo: ((Aside)) Has he ever felt guilty or ashamed?",
+        "",
+        "%% u0443:0-29, u0444:0-34, u0445:0-20, u0446:0-8, u0447:0-24, u0448:0-12, u0449:0-24, u0450:0-5, u0451:0-31, u0452:0-24, u0453:0-43, u0454:0-5 %%",
+        "((Insight checks and table setup))",
+        "",
+        "%% u0455:0-22, u0456:0-12, u0457:0-68, u0458:0-91, u0459:0-22 %%",
+        "Kenzo: ((Aside)) I wouldn't say he's felt shame, but he's definitely felt felt guilt. Though it may have been some mistakes that he or his clan or his probably mystai made that feels regretful about.",
+        "",
+        "%% u0460:0-132, u0461:0-83 %%",
+        "Seeker: Well, this great protection that they were responsible for has failed, so undoubtedly, someone in charge of it, would feel responsible. Question whether they're hiding something from us, if they know about that they did.",
+        "",
+        "%% u0462:0-5, u0463:0-61, u0464:0-37, u0465:0-17, u0466:0-95, u0467:0-16, u0468:0-37, u0469:0-32, u0470:0-40 %%",
+        "Kenzo: Yeah. Well, I think this also you know, going back to the just the loss of protection of Shakun. Somehow god's powers are connected to us. They're connected to our ability to communicate with them, to commune with them. And so somehow either that connection was disrupted, or somehow Shakun themselves is in peril, or try—trapped. Trapped, exactly.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: That mystery cults are are entirely separate from the priesthood.",
+          "Unknown: I see.",
+          "Kenzo: This is this is, this is just a priesthood, or this like this the mystery…?",
+          "DM: Mystery cult.",
+          "Kenzo: Yeah, this is this is this is this is kind of this is like Kenzo’s area."
+        ],
+        "after": [
+          "Seeker: What what form did that protection take? As any of you seen or heard about what it was like? It was either a wall or illusion or force, wind, or…?",
+          "Kenzo: And I'm going to say some stuff, and you tell me if this is actually— I think Kenzo would have an understanding. Well, for example, beasts. I think Shakun might act in different ways, but the beasts might lose their ability to travel into these lands, somehow become increasingly sick or tired or weakened in some state, and unable to navigate within the realms under Shakun's protection. Does that sound reasonable?",
+          "DM: Yeah, there's also like an illusion component. Like those who wander around with intending harm get caught in box canyons that seem to go nowhere, and…",
+          "Kenzo: Oh wow, okay. So and so, sometimes you know physical forms of impairment, but also psychological forms of impairment. And so, with…",
+          "Unknown: Loss of that connection."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "How Shakun’s protection worked",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0471",
+        "endUid": "u0490"
+      },
+      "lines": [
+        "%% u0471:0-54, u0472:0-61, u0473:0-12, u0474:0-14 %%",
+        "Seeker: What what form did that protection take? As any of you seen or heard about what it was like? It was either a wall or illusion or force, wind, or…?",
+        "",
+        "%% u0475:0-110, u0476:0-34, u0477:0-185, u0478:0-53, u0479:0-27 %%",
+        "Kenzo: ((Aside)) I think Shakun might act in different ways, but the beasts might lose their ability to travel into these lands, somehow become increasingly sick or tired or weakened in some state, and unable to navigate within the realms under Shakun's protection. Does that sound reasonable?",
+        "",
+        "%% u0480:0-61, u0481:0-7, u0482:0-81 %%",
+        "DM: Yeah, there's also like an illusion component. Like those who wander around with intending harm get caught in box canyons that seem to go nowhere, and…",
+        "",
+        "%% u0483:0-12, u0484:0-31, u0485:0-18, u0486:0-55, u0487:0-13 %%",
+        "Kenzo: Oh wow, okay. So and so, sometimes you know physical forms of impairment, but also psychological forms of impairment. And so, with…",
+        "",
+        "%% u0488:0-24 %%",
+        "Unknown: Loss of that connection.",
+        "",
+        "%% u0489:0-24 %%",
+        "Kenzo: That protection is also…",
+        "",
+        "%% u0490:0-10 %%",
+        "Unknown: Disappear.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: What am I rolling? Oh yeah, okay. Oh, I'm insightful a lot. I have advantage; I gotta do it again, right?",
+          "Unknown: Yeah.",
+          "Kenzo: All right, insightful. Experienced. I wouldn't say he's felt shame, but he's definitely felt felt guilt. Though it may have been some mistakes that he or his clan or his probably mystai made that feels regretful about.",
+          "Seeker: Well, this great protection that they were responsible for has failed, so undoubtedly, someone in charge of it, would feel responsible. Question whether they're hiding something from us, if they know about that they did.",
+          "Kenzo: Yeah. Well, I think this also you know, going back to the just the loss of protection of Shakun. Somehow god's powers are connected to us. They're connected to our ability to communicate with them, to commune with them. And so somehow either that connection was disrupted, or somehow Shakun themselves is in peril, or try—trapped. Trapped, exactly."
+        ],
+        "after": [
+          "Kenzo: I do have a question, though. Just we're sitting around a campfire right now, yeah? Where's the mirror?",
+          "Seeker: It's like 20 foot-tall pile of stuff that we carry.",
+          "Delwath: Yeah actually that's what Delwath is gonna do. I'm gonna find somewhere to store our stuff. I mean we can't use the mirror for a week.",
+          "Kenzo: Actually, is it is all of our stuff just like by the campfire right now? We kind of had all…",
+          "Seeker: Yeah basically."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "The mirror is not ready yet",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0511",
+        "endUid": "u0525"
+      },
+      "lines": [
+        "%% u0511:0-125 %%",
+        "Kenzo: But doesn't it doesn't charge differently depending on if it's near like sources of magic, like a fucking powerful temple and…?",
+        "",
+        "%% u0512:0-26 %%",
+        "Delwath: I don't—that—I don't know.",
+        "",
+        "%% u0513:0-67 %%",
+        "Seeker: Oh yeah, we’re near a node at this point, so it should charge faster.",
+        "",
+        "%% u0514:0-56 %%",
+        "Kenzo: Look, can you check out when when can we use that again?",
+        "",
+        "%% u0515:0-45, u0516:0-56 %%",
+        "Delwath: I don't—I can, I can look at it with Feysight. Can I see anything different, Tim? Does it look more full?",
+        "",
+        "%% u0517:0-3, u0518:0-89, u0519:0-27, u0520:0-24 %%",
+        "DM: Um yeah, maybe it does seem to be perhaps charging slightly faster than you would anticipate. It's hard to judge exactly. But it's definitely not…",
+        "",
+        "%% u0521:0-7 %%",
+        "Unknown: Usable.",
+        "",
+        "%% u0522:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u0523:0-18 %%",
+        "Kenzo: What do you think?",
+        "",
+        "%% u0524:0-99, u0525:0-27 %%",
+        "Delwath: It's hard to tell. I mean it—could it be usable before we before it's time for us to leave? Perhaps. But I wouldn't count on it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Yeah.",
+          "Kenzo: It's all kind of— Kenzo just—it's like kind of looking at the mirror. Delwath, how much can you see? Can you see how how much I guess energy is in that thing, or when can we use that again?",
+          "Delwath: I think a week. I think it was five— I guess a couple days, five days, a week. It was when do we use it last time? It was like five— two days ago, something like that.",
+          "DM: You use that two days ago.",
+          "Delwath: Yeah so it'd be like a week basically."
+        ],
+        "after": [
+          "Kenzo: Look.",
+          "Delwath: Is there something you are hoping to learn?",
+          "Kenzo: I am. There—there is. There is, I think, I think, as you well know, part of why why I'm here you know connects back to— just as I've shared with you, you've also had strange visions of places that you, you don't understand. And I've had many such dreams and visions over the course of my life. And I don't know, it's hard to say, but I think some of the some of these things are connected to the token that I've had with me since I was a child. And you know, as he was just kind of like fingering this little this little necklace that he has. Now, was that…",
+          "Delwath: Is it Kenzo’s is his necklace at all interesting via Feysight? Do you know what that necklace is?",
+          "Kenzo: I'm learning about it, but it's very dear to me and it's something I've carried with me always. And it's I have to say, it's very ever since we found this mirror, I've been thinking about I've been thinking about using it. I'll say it that much. And I think for me, at least, our journey out to the east— I'm for it. For it and ready to lend my hand to it, but I think being able to learn something about my past… and that did this—I never had the ability to learn and understand something about about myself, and now feels like I can, so…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Kenzo’s jade and its broken surface",
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e025",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0528",
+        "endUid": "u0588"
+      },
+      "lines": [
+        "%% u0528:0-92, u0529:0-31, u0530:0-101, u0531:0-69, u0532:0-247, u0533:0-9 %%",
+        "Kenzo: I am. There—there is. There is, I think, I think, as you well know, part of why why I'm here you know connects back to— just as I've shared with you, you've also had strange visions of places that you, you don't understand. And I've had many such dreams and visions over the course of my life. And I don't know, it's hard to say, but I think some of the some of these things are connected to the token that I've had with me since I was a child. And you know, as he was just kind of like fingering this little this little necklace that he has. Now, was that…",
+        "",
+        "%% u0534:0-6, u0535:0-24, u0536:0-32, u0537:0-3, u0538:0-19, u0539:0-12 %%",
+        "Delwath: Is it Kenzo’s is his necklace at all interesting via Feysight? Do you know what that necklace is?",
+        "",
+        "%% u0540:0-98, u0541:0-29, u0542:0-32, u0543:0-25, u0544:0-34, u0545:0-79, u0546:0-11, u0547:0-43, u0548:0-8, u0549:0-36, u0550:0-26, u0551:0-85, u0552:0-20 %%",
+        "Kenzo: I'm learning about it, but it's very dear to me and it's something I've carried with me always. And it's I have to say, it's very ever since we found this mirror, I've been thinking about I've been thinking about using it. I'll say it that much. And I think for me, at least, our journey out to the east— I'm for it. For it and ready to lend my hand to it, but I think being able to learn something about my past… and that did this—I never had the ability to learn and understand something about about myself, and now feels like I can, so…",
+        "",
+        "%% u0553:0-32 %%",
+        "Delwath: Where did you get that necklace?",
+        "",
+        "%% u0554:0-19 %%",
+        "Kenzo: I've always had it.",
+        "",
+        "%% u0555:0-12, u0556:0-51, u0557:0-29 %%",
+        "((Examining the jade: checks and banter))",
+        "",
+        "%% u0558:0-23 %%",
+        "Delwath: It seems quite magical.",
+        "",
+        "%% u0559:0-16 %%",
+        "Kenzo: Oh, I know that.",
+        "",
+        "%% u0560:0-28, u0561:0-20, u0562:0-18, u0563:0-23 %%",
+        "((Examining the jade: checks and banter))",
+        "",
+        "%% u0564:0-41 %%",
+        "Kenzo: What do you see when you when you see it?",
+        "",
+        "%% u0565:0-13, u0566:0-13, u0567:0-7, u0568:0-17, u0569:0-5, u0570:0-7 %%",
+        "Seeker: It's a piece of something larger. Something larger. Like, broken.",
+        "",
+        "%% u0571:0-31, u0572:0-8, u0573:0-13, u0574:0-44, u0575:0-19, u0576:0-7 %%",
+        "Delwath: I see magic that reminds me of my home. Specifically, that reminds me of the powerful magic's the elven elders would invoke.",
+        "",
+        "%% u0577:0-40 %%",
+        "Seeker: Can we get a physical description of it?",
+        "",
+        "%% u0578:0-6 %%",
+        "Unknown: Again.",
+        "",
+        "%% u0579:0-35 %%",
+        "Kenzo: It's it's it's literally like this.",
+        "",
+        "%% u0580:0-26 %%",
+        "Seeker: Little piece of jade yeah.",
+        "",
+        "%% u0581:0-150 %%",
+        "Kenzo: Kenzo’s not like you know gonna let you touch it. Like you can tell he's like a little, a little bit PC showing it to you. It's it's it's literally this…",
+        "",
+        "%% u0582:0-53 %%",
+        "Seeker: I'm like I got my face like up as close as I can get.",
+        "",
+        "%% u0583:0-136, u0584:0-232 %%",
+        "DM: You can I mean you can see, Seeker, that is from a distance that looks just like a nice polished piece of jade, but with your goggles on, the side that's facing out is like a nice piece of jade, but the backside has been polished more recently, or rather differently, or worn. So it's like there wasn't—part of it used to be an outside, and part of it used to be an inside.",
+        "",
+        "%% u0585:0-11, u0586:0-48, u0587:0-90, u0588:0-24 %%",
+        "Kenzo: Anyways, um I'm eager to use this mirror when we're able to. Perhaps— I don't know if any of you have another object that you think would be meaningful to us before we depart.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Right.",
+          "Kenzo: What do you think?",
+          "Delwath: It's hard to tell. I mean it—could it be usable before we before it's time for us to leave? Perhaps. But I wouldn't count on it.",
+          "Kenzo: Look.",
+          "Delwath: Is there something you are hoping to learn?"
+        ],
+        "after": [
+          "Seeker: Well, we've got this giant block of adamantine. What can you make with that stuff? Can I make it? I'm not a metalworker, really.",
+          "Unknown: Now.",
+          "DM: Talented smith, like you might find in a city— could—not even Chardon, like Tokra— could definitely make it into armor.",
+          "Seeker: But nobody here? Well, nobody is here anymore, right?",
+          "DM: There's nobody here. Probably even you could make it into something that's…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Possible armor from the adamantine",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0589",
+        "endUid": "u0604"
+      },
+      "lines": [
+        "%% u0589:0-20, u0590:0-61, u0591:0-43 %%",
+        "Seeker: Well, we've got this giant block of adamantine. What can you make with that stuff? Can I make it? I'm not a metalworker, really.",
+        "",
+        "%% u0592:0-4 %%",
+        "((Equipment aside))",
+        "",
+        "%% u0593:0-40, u0594:0-75 %%",
+        "DM: Talented smith, like you might find in a city— could—not even Chardon, like Tokra— could definitely make it into armor.",
+        "",
+        "%% u0595:0-52, u0596:0-75 %%",
+        "((Equipment aside))",
+        "",
+        "%% u0597:0-6, u0598:0-25, u0599:0-61, u0600:0-97, u0601:0-32 %%",
+        "Delwath: Right. Who used to be here, but I do think we should find a safe storage spot for our things. I don't think it's worth bringing a giant block of adamantine, and possibly not even the mirror. A lot to carry on an expedition.",
+        "",
+        "%% u0602:0-5 %%",
+        "Unknown: Good.",
+        "",
+        "%% u0603:0-26 %%",
+        "Seeker: Candrosa could store them.",
+        "",
+        "%% u0604:0-44 %%",
+        "DM: Candrosa for sure would be willing to store.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Little piece of jade yeah.",
+          "Kenzo: Kenzo’s not like you know gonna let you touch it. Like you can tell he's like a little, a little bit PC showing it to you. It's it's it's literally this…",
+          "Seeker: I'm like I got my face like up as close as I can get.",
+          "DM: You can I mean you can see, Seeker, that is from a distance that looks just like a nice polished piece of jade, but with your goggles on, the side that's facing out is like a nice piece of jade, but the backside has been polished more recently, or rather differently, or worn. So it's like there wasn't—part of it used to be an outside, and part of it used to be an inside.",
+          "Kenzo: Anyways, um I'm eager to use this mirror when we're able to. Perhaps— I don't know if any of you have another object that you think would be meaningful to us before we depart."
+        ],
+        "after": [
+          "Seeker: As we're digging through stuff, I find a two small pieces of amber, and I put the goggles on briefly to just stare at those and see if there's anything weird about them. Are very nice.",
+          "DM: I mean you're—you also are—you don't need the goggles to realize from—you are—you know just your crafting skill that these are just nice pieces of amber.",
+          "Seeker: They're just.",
+          "DM: They're just amber yeah.",
+          "Wellby: It's a good time to ask: I got a gold ring from the chimera nest, I've got a gold ring from a halfling killed by a chimera. I forget if that was magical or not. I think was their wedding ring."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Havdar sets the expedition’s goals",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0661",
+        "endUid": "u0738"
+      },
+      "lines": [
+        "%% u0661:0-176, u0662:0-47, u0663:0-38, u0664:0-111, u0665:0-183, u0666:0-97, u0667:0-38, u0668:0-42, u0669:0-33 %%",
+        "DM: ((Aside)) while you're kind of gathering up your stuff the next morning, Havdar comes over to to speak with you briefly((Aside)) And he he approaches and he says:",
+        "",
+        "%% u0670:0-3, u0671:0-115, u0672:0-93, u0673:0-61, u0674:0-20 %%",
+        "DM: So, I think we should discuss briefly our route and goals for this expedition. As I'm not sure— I greatly appreciate the skill that you may bring to whatever we may face out on the plains, but we have a particular intention and and plan, and I, I want to be clear as to what your intentions are.",
+        "",
+        "%% u0675:0-8, u0676:0-50, u0677:0-23, u0678:0-21, u0679:0-54, u0680:0-93, u0681:0-35, u0682:0-24, u0683:0-138 %%",
+        "DM: My plan: head southeast from here to the ruins of Bas Udda, and then turn due east. Travel for four days to roughly the point where Alesh reported seeing orcs. I believe, from my discussions with Alesh, there's a place near there we can camp with water. And I intend to send my scouts out to see what we can find. If there are orcs, there's 20 of us plus you four is 24—believe, as long as there's fewer than 100 of them, we should be able to take them.",
+        "",
+        "%% u0684:0-45 %%",
+        "DM: With my troops and your skills and my skills.",
+        "",
+        "%% u0685:0-23 %%",
+        "DM: If there's more, we run.",
+        "",
+        "%% u0686:0-37 %%",
+        "Seeker: Long ago did Alesh report them there?",
+        "",
+        "%% u0687:0-37 %%",
+        "DM: It was some time ago, a week or more.",
+        "",
+        "%% u0688:0-29 %%",
+        "Seeker: They could be far from there.",
+        "",
+        "%% u0689:0-38 %%",
+        "DM: Well, if we find none, all the better.",
+        "",
+        "%% u0690:0-26 %%",
+        "Seeker: Perhaps we can track them.",
+        "",
+        "%% u0691:0-103 %%",
+        "Wellby: Yeah I mean if it's a large enough band, even if it's a week past we may still be able to pick them up.",
+        "",
+        "%% u0692:0-5, u0693:0-31, u0694:0-98, u0695:0-26, u0696:0-43, u0697:0-35 %%",
+        "DM: Yeah, I agree. I think that would be worth doing as well. I have some scouts, and perhaps some of you are skilled in those arts as well. But we ride hard and fast. I will have supplies of water. You are all acceptable on the horseback, I hope?",
+        "",
+        "%% u0698:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u0699:0-41, u0700:0-30, u0701:0-32 %%",
+        "DM: If there is, if there is anything coming, this town has suffered enough. We’ll find it, and we’ll kill it.",
+        "",
+        "%% u0702:0-17, u0703:0-16, u0704:0-88 %%",
+        "Seeker: Yes, so we had a couple of other points along the way that we had hoped to hit as well, perhaps after what you described.",
+        "",
+        "%% u0705:0-38 %%",
+        "Delwath: Think on our return, we may part ways.",
+        "",
+        "%% u0706:0-5, u0707:0-79, u0708:0-8, u0709:0-3, u0710:0-39, u0711:0-26 %%",
+        "DM: Okay. Well, our return will either be a desperate mad rush to safety or a victorious journey. So if it's a desperate mad rush to safety, you make your own choices.",
+        "",
+        "%% u0712:0-71 %%",
+        "Wellby: Wellby looks for for a minute and says, 'We could also all die out there.'",
+        "",
+        "%% u0713:0-10, u0714:0-37 %%",
+        "DM: It's true. Then there would be no return at all.",
+        "",
+        "%% u0715:0-74, u0716:0-9, u0717:0-75, u0718:0-90, u0719:0-12, u0720:0-96, u0721:0-5, u0722:0-41, u0723:0-84, u0724:0-6, u0725:0-20 %%",
+        "((Private planning aside))",
+        "",
+        "%% u0726:0-80, u0727:0-79, u0728:0-4, u0729:0-163, u0730:0-46, u0731:0-18 %%",
+        "DM: So we intend to leave the day after tomorrow. I will—first thing at first light. The last thing I need to do is organize some of my warriors to return to Tokra. For if there is some larger force out of the desert that we are fleeing in terror from, I would like to be able to lead them to a bigger army coming across the plains. That will require some arrangement in advance. Will you be ready?",
+        "",
+        "%% u0732:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u0733:0-36, u0734:0-13, u0735:0-19, u0736:0-26, u0737:0-8, u0738:0-12 %%",
+        "DM: If anything—if there's anything you must discuss, I am, I am in camp. Otherwise, I will see you morning of April 27.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Kenzo wants to go talk to Candrosa, and Kenzo also like basically kind of every every like few hours like finds Delwath and it's like, so, how's the mirror looking? At you like he's like very… like.",
+          "DM: Wanting to.",
+          "Kenzo: Wanting to use that mirror before before we leave.",
+          "Unknown: Whoo.",
+          "DM: Okay um."
+        ],
+        "after": [
+          "Seeker: Very good.",
+          "Kenzo: Meta game for a moment: so looking at the map, our route is what? Were we going?",
+          "Seeker: Karawa, Bas Udda, and then the red X in the blue.",
+          "Unknown: So.",
+          "DM: Yeah, so from Karawa southeast to Bas Udda. [garbled]."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Candrosa holds something back; Alesh leaves with the lieutenant",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0779",
+        "endUid": "u0783"
+      },
+      "lines": [
+        "%% u0779:0-82, u0780:0-141, u0781:0-94, u0782:0-76, u0783:0-149 %%",
+        "DM: Speak a few times briefly with Candrosa, so who every time you see him seems more, more haggard, and more like something is on the tip of his tongue that he really wants to say, but he keeps holding it back. And he just seems on edge. But he seems also glad that you are traveling with Havdar and feels like you need to—we need to know what's out there in the desert. Alesh is going with Havdar’s you know, lieutenant, who's going to Tokra to round up an army. ((Aside))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I thought we were gonna we're gonna look for the orcs with him, and then once we figured out what's going there, we're gonna go do our own thing. Got it.",
+          "Kenzo: Okay cool.",
+          "Seeker: I didn't make sense.",
+          "Kenzo: Kenzo’s like not totally disinterested, but also is like just sort of like, all right, whatever whatever you guys want to do in the desert.",
+          "DM: Okay, so over the course of the next couple of days you you know gather supplies. You find a secure spot to store your your most of your beyond what you absolutely need for the journey into the desert, trusting Havdar to provide, as he told you, to provide food and and water and sufficient supplies for the horses and and you to survive. And you know."
+        ],
+        "after": [
+          "DM: There's any news you'd like to send to Tokra, you have an opportunity to send a message. I guess if Kenzo wanted to send any news back to the monastery, that's would be an option.",
+          "Kenzo: Yeah, he does that. He explains like what's going on with Shakun and and you know the overall like kind of state of affairs to, I guess, his mentor in the monastery.",
+          "DM: So now, a few days later. So what exactly—are you taking the mirror with you?",
+          "Delwath: Well, is it a great.",
+          "DM: It's like a wall mirror yeah pretty big."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "News for Kenzo’s monastery mentor",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0784",
+        "endUid": "u0786"
+      },
+      "lines": [
+        "%% u0784:0-87, u0785:0-89 %%",
+        "DM: There's any news you'd like to send to Tokra, you have an opportunity to send a message. I guess if Kenzo wanted to send any news back to the monastery, that's would be an option.",
+        "",
+        "%% u0786:0-161 %%",
+        "Kenzo: Yeah, he does that. He explains like what's going on with Shakun and and you know the overall like kind of state of affairs to, I guess, his mentor in the monastery.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Okay cool.",
+          "Seeker: I didn't make sense.",
+          "Kenzo: Kenzo’s like not totally disinterested, but also is like just sort of like, all right, whatever whatever you guys want to do in the desert.",
+          "DM: Okay, so over the course of the next couple of days you you know gather supplies. You find a secure spot to store your your most of your beyond what you absolutely need for the journey into the desert, trusting Havdar to provide, as he told you, to provide food and and water and sufficient supplies for the horses and and you to survive. And you know.",
+          "DM: Speak a few times briefly with Candrosa, so who every time you see him seems more, more haggard, and more like something is on the tip of his tongue that he really wants to say, but he keeps holding it back. And he just seems on edge. But he seems also glad that you are traveling with Havdar and feels like you need to—we need to know what's out there in the desert. Alesh is going with Havdar’s you know, lieutenant, who's going to Tokra to round up an army. So any messages you would like— not that you have anybody send messages to Karawa, but…"
+        ],
+        "after": [
+          "DM: So now, a few days later. So what exactly—are you taking the mirror with you?",
+          "Delwath: Well, is it a great.",
+          "DM: It's like a wall mirror yeah pretty big.",
+          "Kenzo: But it is it is a charged? Like… Kenzo’s like praying is like.",
+          "Delwath: Like, pre—I assume it is not yet charged."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Kenzo goes alone to check the charged mirror",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0792",
+        "endUid": "u0804"
+      },
+      "lines": [
+        "%% u0792:0-27, u0793:0-34 %%",
+        "Kenzo: But it is it is a charged? Like… Kenzo’s like praying is like.",
+        "",
+        "%% u0794:0-40 %%",
+        "Delwath: Like, pre—I assume it is not yet charged.",
+        "",
+        "%% u0795:0-45 %%",
+        "DM: No, cause Kong really want that to be charged.",
+        "",
+        "%% u0796:0-9 %%",
+        "Kenzo: For it's.",
+        "",
+        "%% u0797:0-38, u0798:0-17 %%",
+        "DM: No, it's charged. I’ll just metagame it. Have your moment.",
+        "",
+        "%% u0799:0-4 %%",
+        "((Table aside))",
+        "",
+        "%% u0800:0-38 %%",
+        "Kenzo: Are we going to do this right now, or…?",
+        "",
+        "%% u0801:0-10 %%",
+        "DM: Your last.",
+        "",
+        "%% u0802:0-9 %%",
+        "Unknown: The last.",
+        "",
+        "%% u0803:0-200 %%",
+        "DM: The last day before, like the last morning, just before you're getting ready to go, Kenzo sort of slips off to check the mirror. Are you going by—is everybody coming with you, are you going by yourself?",
+        "",
+        "%% u0804:0-95 %%",
+        "Kenzo: No, no, I'm doing this. I'm going by myself. I like like wake up early, or, you know— okay, I go. I go.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: There's any news you'd like to send to Tokra, you have an opportunity to send a message. I guess if Kenzo wanted to send any news back to the monastery, that's would be an option.",
+          "Kenzo: Yeah, he does that. He explains like what's going on with Shakun and and you know the overall like kind of state of affairs to, I guess, his mentor in the monastery.",
+          "DM: So now, a few days later. So what exactly—are you taking the mirror with you?",
+          "Delwath: Well, is it a great.",
+          "DM: It's like a wall mirror yeah pretty big."
+        ],
+        "after": [
+          "DM: I'm—ah, OK so let's see. I also have a message for… so let's um let's so after that couple of busy days of getting organized, your last evening is sort of quiet. You know you speak briefly with Candrosa, you have some food, you…",
+          "DM: Oh, Wellby, give me another Animal Handling check, by the way. So the axebeak is get—is like quite getting quite comfortable around you. I'm definitely still you know you've been spending a lot of time like trying to get it used to the the saddle and things, and it will let you put the saddle on for short periods of time. It definitely getting there, but it still doesn't—it's still not comfortable with you in the saddle. So you've now at the point of where you're sort of getting it used to you know the gear and everything, but it's not quite ready for you to be riding it. Probably no more than another week of training and it will be ready to ride.",
+          "Wellby: Wellby’s in no rush. He’s a positive-rewards-only trainer.",
+          "DM: Okay. I'm sorry, your last night, then, you all sort of you know you settle in, prepare to rise early in the morning. And I'm going to do like a quick, like less-than 10 minute breakout room with with Kong, but first I have… so I'll do that right now, just to do this one thing and make a message. How do I do this? So so this will take…",
+          "Unknown: Five to 10 minutes, at most, hopefully, less than that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The axebeak accepts its saddle",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0810",
+        "endUid": "u0815"
+      },
+      "lines": [
+        "%% u0810:0-61, u0811:0-77, u0812:0-247, u0813:0-105, u0814:0-158 %%",
+        "DM: ((Aside)) So the axebeak is get—is like quite getting quite comfortable around you.((Aside)) it will let you put the saddle on for short periods of time.((Aside)) it still doesn't—it's still not comfortable with you in the saddle. ((Aside))",
+        "",
+        "%% u0815:0-57 %%",
+        "Wellby: Wellby’s in no rush. He’s a positive-rewards-only trainer.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Your last.",
+          "Unknown: The last.",
+          "DM: The last day before, like the last morning, just before you're getting ready to go, Kenzo sort of slips off to check the mirror. Are you going by—is everybody coming with you, are you going by yourself?",
+          "Kenzo: No, no, I'm doing this. I'm going by myself. I like like wake up early, or, you know— okay, I go. I go.",
+          "DM: I'm—ah, OK so let's see. I also have a message for… so let's um let's so after that couple of busy days of getting organized, your last evening is sort of quiet. You know you speak briefly with Candrosa, you have some food, you…"
+        ],
+        "after": [
+          "DM: Okay. I'm sorry, your last night, then, you all sort of you know you settle in, prepare to rise early in the morning. And I'm going to do like a quick, like less-than 10 minute breakout room with with Kong, but first I have… so I'll do that right now, just to do this one thing and make a message. How do I do this? So so this will take…",
+          "Unknown: Five to 10 minutes, at most, hopefully, less than that.",
+          "Seeker: So the rest of us will just take a break.",
+          "DM: Take a break, or, you know. Early morning, Kenzo slips off as the rest of you are getting organized.",
+          "Unknown: Cool."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Recapping the secret society lead",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0837",
+        "endUid": "u0839"
+      },
+      "lines": [
+        "%% u0837:0-175, u0838:0-228 %%",
+        "Wellby: Well, we're—while they're doing that, recap the plot threads again just for a second?((Aside)) So so the things that we know are: there some like there's the Chardonian secret-society people running around, facts there's something that's summoning demons, there's something that's building, presumably, like an orc army that is at a minimum allied to the demon-summoning people.",
+        "",
+        "%% u0839:0-61 %%",
+        "Delwath: But we don’t know if it's building an orc armies. Okay, so we…",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Take a break, or, you know. Early morning, Kenzo slips off as the rest of you are getting organized.",
+          "Unknown: Cool.",
+          "Seeker: Hover over the thing at the top right of it. Says 'Join' until you hover over it.",
+          "Wellby: When you're.",
+          "DM: At the breakout room and not invite myself to this."
+        ],
+        "after": [
+          "Seeker: Need to say.",
+          "Delwath: We think that there's— what do we know? We know Agata Dustmother’s out there doing something.",
+          "Wellby: Who, what do we know? Okay.",
+          "Delwath: She's some sort of dark fey. And she apparently was an ally of Cha'mutte.",
+          "Wellby: Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Agata’s uncertain alliances",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0841",
+        "endUid": "u0877"
+      },
+      "lines": [
+        "%% u0841:0-92 %%",
+        "Delwath: We think that there's— what do we know? We know Agata Dustmother’s out there doing something.",
+        "",
+        "%% u0842:0-21, u0843:0-5 %%",
+        "Wellby: Who, what do we know? Okay.",
+        "",
+        "%% u0844:0-28, u0845:0-44 %%",
+        "Delwath: She's some sort of dark fey. And she apparently was an ally of Cha'mutte.",
+        "",
+        "%% u0846:0-5 %%",
+        "Wellby: Okay.",
+        "",
+        "%% u0847:0-51 %%",
+        "Delwath: And has been living in the desert, for a long time.",
+        "",
+        "%% u0848:0-5 %%",
+        "Seeker: It's.",
+        "",
+        "%% u0849:0-70, u0850:0-25, u0851:0-10 %%",
+        "Wellby: Just been chilling for a long time, and then recently she's decided to— what what are the thing we're not…",
+        "",
+        "%% u0852:0-10 %%",
+        "Delwath: Sure what.",
+        "",
+        "%% u0853:0-18, u0854:0-38 %%",
+        "Seeker: She's up to. ((Aside))",
+        "",
+        "%% u0855:0-12, u0856:0-23, u0857:0-116 %%",
+        "((Looking up notes))",
+        "",
+        "%% u0858:0-40 %%",
+        "Wellby: Vola’s captors were taking her to Agata.",
+        "",
+        "%% u0859:0-53, u0860:0-102, u0861:0-35 %%",
+        "Delwath: Right, so I don't think we've really figured out the so the deal with what she— like the centaurs were concerned, right? That what was she doing north of the the line of the ancient road? Right.",
+        "",
+        "%% u0862:0-182 %%",
+        "Wellby: Do we know anything? Do we—do we know anything about her her? Have we heard anything from people who know of her besides Vola’s captors? Like that's the contemporary reference we have.",
+        "",
+        "%% u0863:0-84, u0864:0-71, u0865:0-17, u0866:0-50 %%",
+        "Delwath: Now there was like a story we had from some— I mean, it's hearsay, but it was fairly… what the Candrosa was like told us stories of like the guy who went to the guy who went to heal his daughter, and then some sacrifice and…",
+        "",
+        "%% u0867:0-44, u0868:0-30 %%",
+        "Seeker: Nightmares. Tharandros was talking about the deal between the centaurs and…",
+        "",
+        "%% u0869:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u0870:0-6 %%",
+        "Unknown: Agata.",
+        "",
+        "%% u0871:0-82, u0872:0-23, u0873:0-23 %%",
+        "Delwath: Yeah, I mean Tharandros knew her and had made a deal with her to keep her south of—different what's below or some various people.",
+        "",
+        "%% u0874:0-82, u0875:0-172 %%",
+        "Wellby: So, so what I'm hearing, that, though, is the like there's also the possibility— so so we think of like all like the powers, of the players, like Agata is one, but we still don't exactly know Agata’s relationship with the demon-summoning people or the orcs.",
+        "",
+        "%% u0876:0-60, u0877:0-46 %%",
+        "Delwath: Really know. For all we know she's on our side at some level. Because the other thing we weren't—now I have…",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: When you're.",
+          "DM: At the breakout room and not invite myself to this.",
+          "Wellby: Well, we're—while they're doing that, recap the plot threads again just for a second? I'm trying to think of this earlier today. So so the things that we know are: there some like there's the Chardonian secret-society people running around, facts there's something that's summoning demons, there's something that's building, presumably, like an orc army that is at a minimum allied to the demon-summoning people.",
+          "Delwath: But we don’t know if it's building an orc armies. Okay, so we…",
+          "Seeker: Need to say."
+        ],
+        "after": [
+          "Seeker: Cha’mutte.",
+          "Delwath: Well, sure, but I mean she might be you know not really that bad. You know I mean he was he was trying to free the Firstborn from their ghetto enslavement.",
+          "Seeker: So, like a centrist Cha’mutte.",
+          "Delwath: Well, well, more specifically, we don't know. We learned that the that there's some dark, evil whole blackness thing here in in the temple.",
+          "Seeker: In the temple there's some void yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Delwath’s patron and the doubtful Shakun vision",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0906",
+        "endUid": "u0918"
+      },
+      "lines": [
+        "%% u0906:0-206, u0907:0-110, u0908:0-53 %%",
+        "Delwath: Yes, right. Again, that it's emanating from something that is not here. Right, and then we had this whole conversation about how Delwath saw a vision before the game started that was supposed to be Shakun, but some creature—whatever creature powers his magic drove away the creature that was supposed to be Shakun, which shouldn't have been possible if it was really Shakun.",
+        "",
+        "%% u0909:0-32 %%",
+        "Seeker: Creature that powers what magic?",
+        "",
+        "%% u0910:0-80 %%",
+        "Delwath: Delwath has like a buddy who gives him his magic, who, with the mystery creature.",
+        "",
+        "%% u0911:0-42 %%",
+        "Seeker: I don't think we really talked about this.",
+        "",
+        "%% u0912:0-47 %%",
+        "Delwath: Well, he doesn't know much about it right, but.",
+        "",
+        "%% u0913:0-18, u0914:0-4 %%",
+        "Seeker: Is that good? It's bad?",
+        "",
+        "%% u0915:0-51, u0916:0-34 %%",
+        "Delwath: We had a whole— well, I think Kenzo right up and the idea was totally with us, we know…",
+        "",
+        "%% u0917:0-137 %%",
+        "Wellby: The game that this character isn’t evil, because this was like Mike's out-of-game requirement of Tim, that his patron isn’t secretly evil.",
+        "",
+        "%% u0918:0-35 %%",
+        "Delwath: Yes, that is true, we do know that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Session notes.",
+          "Delwath: And the session, it's 'The party learned that Agata…' all right, there's the silence. No, he did write—so then it says, 'There's something wrong here, a silence where there should be echoes and reverberations.' Something's missing, right? There's something wrong with the land. There's supposed to be these echoes; the centaurs are supposed to be hearing these echoes of the land. That's like we don't know what exactly, but there's like I don't know they can like feel something. And there's something missing, there's like a void, a silence where there should be light, where there should be…",
+          "Seeker: Oh, and and Seeker's speculation was that there's it's an artifact, that's like a planar-energy antenna, some kind of [garbled] reflector.",
+          "Delwath: Somehow, right. So we think that the that the—bat—that this thing that the centaurs are worried about is related to the collapse of the illusion wall that was keeping this part of Dunmar safe.",
+          "Seeker: That seems it all lines up with that."
+        ],
+        "after": [
+          "Seeker: Okay, okay. You're just always hexing things, which…",
+          "Delwath: You could be like a little bit on the dark side, without being totally evil.",
+          "Seeker: You'll be centrist evil, yeah. Yeah, I'm…",
+          "Wellby: George W. Bush evil.",
+          "Unknown: Money."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The orcs’ god of endless war",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0930",
+        "endUid": "u0935"
+      },
+      "lines": [
+        "%% u0930:0-57, u0931:0-206 %%",
+        "((Plot recap))",
+        "",
+        "%% u0932:0-32, u0933:0-59 %%",
+        "Delwath: There's not supposed to be orcs. Orcs are like a horde, or, you know, they wake they they are…",
+        "",
+        "%% u0934:0-9 %%",
+        "Unknown: There as.",
+        "",
+        "%% u0935:0-157 %%",
+        "Delwath: Well, they're like the spawn of a god of endless war who wants nothing except to overrun all of the land with the orcs. Well they’re never by themselves, yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Money.",
+          "Delwath: George W. Bush was pretty deep in the evil.",
+          "Wellby: Side he still went to the UN, or he said, you know.",
+          "Seeker: You felt like you could have a beer with them, you know.",
+          "Delwath: Like, killed a few million Iraqis, who cares about them?"
+        ],
+        "after": [
+          "Seeker: We got it all figured out guys.",
+          "DM: So Kenzo returns to camp as the rest of you are packing up, getting waiting for Havdar and his troop to get ready to head out.",
+          "Seeker: And my scratching and scratching of the mesa didn't turn up anything this time?",
+          "Delwath: I'm—are the centaurs still around, by the way?",
+          "Unknown: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Tharandros warns about the Feywild",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0945",
+        "endUid": "u0988"
+      },
+      "lines": [
+        "%% u0945:0-134, u0946:0-92, u0947:0-36, u0948:0-29, u0949:0-25, u0950:0-14 %%",
+        "Delwath: Delwath is going to when he wakes up, he's gonna walk a little bit. He clearly something on his mind, when he wakes up and he's going to tell everybody else there's just there's a there's a question he has to ask the Tharandros. And you know, keep getting ready. To that the centaur, Tharandros— just combined two people. And that he's…",
+        "",
+        "%% u0951:0-54 %%",
+        "Wellby: Gonna come along. I think I have a question to ask too.",
+        "",
+        "%% u0952:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u0953:0-35 %%",
+        "Delwath: Um, well, he's gonna come along. Okay.",
+        "",
+        "%% u0954:0-151, u0955:0-49, u0956:0-31, u0957:0-131, u0958:0-67 %%",
+        "((Simultaneous errands))",
+        "",
+        "%% u0959:0-10, u0960:0-43 %%",
+        "DM: Ah, OK so Wellby, what do you want to ask Tharandros?",
+        "",
+        "%% u0961:0-4, u0962:0-191, u0963:0-187, u0964:0-65 %%",
+        "Wellby: I'm game, because my memories of last session apparently a little fuzzy: like he was the one who is telling us about the way to get into the Feywild? But there's like a connection point to go into? So they asked him is, how do you travel safely in that land? Like is there time? Is there water? Can you eat the food there? Like if we travel there, what do we need to do to travel safely? How do you show appropriate respect to the people who live there?",
+        "",
+        "%% u0965:0-7, u0966:0-9, u0967:0-9, u0968:0-13, u0969:0-23, u0970:0-9, u0971:0-177 %%",
+        "DM: Laughs. We don't. They are—they are not—they are not my allies. They are the people of the Feywild that the people who could not be convinced to treat this world with the respect it deserves, and so were banished to keep this world from falling apart.",
+        "",
+        "%% u0972:0-8, u0973:0-31, u0974:0-46, u0975:0-34, u0976:0-9, u0977:0-10, u0978:0-25, u0979:0-37 %%",
+        "DM: Be wary if you do follow that path, for nothing is as it seems. And the people there, the creatures that live there, are… they are different. Not see the world in the way that you or I might. They’re not.",
+        "",
+        "%% u0980:0-2, u0981:0-60, u0982:0-48, u0983:0-94, u0984:0-17, u0985:0-10, u0986:0-10 %%",
+        "DM: A a deadly poison might be as a harmless prank in their minds. Might die because somebody thought it was funny. Or you might be given wishes beyond imagining because somebody was tickled by your appearance. It is a place of chaos and confusion.",
+        "",
+        "%% u0987:0-10 %%",
+        "Wellby: Very good.",
+        "",
+        "%% u0988:0-24 %%",
+        "Delwath: I'll just thank him and.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: And my scratching and scratching of the mesa didn't turn up anything this time?",
+          "Delwath: I'm—are the centaurs still around, by the way?",
+          "Unknown: Yeah.",
+          "Delwath: Sorry, this is slightly annoying. Delwath is gonna excuse— is gonna—we don't need to do this at a breakout room, Tim, I'll just…",
+          "DM: Today, but."
+        ],
+        "after": [
+          "DM: So everyone returns to camp after their last-minute missions.",
+          "Wellby: Wait, Delwath, did you not— you didn’t ask him anything after?",
+          "Delwath: Now I am sending you separately. Very good.",
+          "DM: Um and Havdar and about roughly 20 people now ride up. They have about 35, 40 horses, half of which are loaded with— well, handful of packhorses are loaded with food and water, some spares in case any go lame. Plenty of supplies and gear. Most of them seemed armed with a shield and spear, some sword some bows. A few more obvious scouts or outriders who have… this there, I mean Havdar clearly well liked by his by his people. He's clearly…",
+          "Unknown: You know."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Havdar’s mounted company",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0993",
+        "endUid": "u1004"
+      },
+      "lines": [
+        "%% u0993:0-3, u0994:0-203, u0995:0-100, u0996:0-48, u0997:0-79 %%",
+        "DM: Um and Havdar and about roughly 20 people now ride up. They have about 35, 40 horses, half of which are loaded with— well, handful of packhorses are loaded with food and water, some spares in case any go lame. Plenty of supplies and gear. Most of them seemed armed with a shield and spear, some sword some bows. A few more obvious scouts or outriders who have… this there, I mean Havdar clearly well liked by his by his people. He's clearly…",
+        "",
+        "%% u0998:0-9 %%",
+        "Unknown: You know.",
+        "",
+        "%% u0999:0-8, u1000:0-37, u1001:0-76, u1002:0-62, u1003:0-112 %%",
+        "DM: Clearly used to being in command, and clearly you know trusted and respected by his warriors, who are prepared to you know trust him with their lives and expect him to have their lives. And they're obviously also ready to move quickly across the land, being all skilled riders and and familiar with…",
+        "",
+        "%% u1004:0-14 %%",
+        "Unknown: With the land.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Very good.",
+          "Delwath: I'll just thank him and.",
+          "DM: So everyone returns to camp after their last-minute missions.",
+          "Wellby: Wait, Delwath, did you not— you didn’t ask him anything after?",
+          "Delwath: Now I am sending you separately. Very good."
+        ],
+        "after": [
+          "DM: And so you set off. The ride initially, as you begin to head southeast of Karawa, is—the land is not so different than then, where you, you know, then Karawa: right, it's it's sort of dry canyon land, it's you know occasional scrub. And all through the long first day, as you ride hard directly southwest along the track that leads to Bas Udda, the bulk of the Red Mesa is hanging in the I guess on your right-hand side and somewhat behind you. This I mean this mesa is huge, it's miles across, maybe maybe 20 even 20, 30 miles long and half that wide, and it really dominates the horizon for quite some distance as you travel south. I'm.",
+          "DM: The first day you make camp—about let's see, it's how far is this? So it's about 60 miles to Bas Udda, and you can you let you cover about two-thirds of that on the first day. So you make camp about about 15, 20 miles from Bas Udda, intending to arrive there by midday midday the next day and have some time to investigate and take a look at the town before turning east into the barren wastes of the blasted plain of the Nashtkar, where everything is dryer and dustier and there is little shelter from the heat, especially now, the driest part of the year before before you know before the rains of summer comes. So, and if there's any like if there's anything you want to do on the journey before you get the Bas Udda, I feel free to interrupt me. But otherwise I'll just narrate it, because it doesn't seem worth role playing every moment.",
+          "DM: The next morning, so this would be— let me make sure I'm keeping track of time here— so this would be so April 28. You approach around mid day after lunch, after just a quick break for some food and a short rest and to water the horses.",
+          "DM: That the travel pattern has usually been: rise before dawn, travel for five, six hours, have lunch, travel for another hour until about 11 and then rest for two or three hours during the hottest part of the day, and in in what shade you can find. And then continue to travel past sunset, making camp and falling into your you know, falling asleep quickly. And so you arrive at Bas Udda just in that hours journey after lunch, as you're approaching the hottest part of the day. The plan being to rest in the shade in Bas Udda and then spend the cooler afternoon seeing what's happened to the town. Because Havdar and his troops— more warriors than he has with them were involved in the rearguard action that protected the people retreating from Bas Udda. But.",
+          "DM: Nobody has been back to the town since the gnolls came north. So so everybody is you know a bit nervous. Has scouts kind of ride out to make sure there's no danger lurking. But as you approach…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Amil’s task and his masters",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1511",
+        "endUid": "u1693"
+      },
+      "lines": [
+        "%% u1511:0-26, u1512:0-34, u1513:0-106, u1514:0-33, u1515:0-104, u1516:0-12, u1517:0-213 %%",
+        "DM: Seeker, as the combat ends, you see the inside of the temple. There, there is so besides this, this young man, probably clearly Dunmari, you probably in his early 20s at oldest, if not a teenager, wearing traveling gear with a gray-ish robe draped over it— has a little camp set up inside the temple, it seems. And you see, arranged across the temple— it's been sort of cleaned out a little bit, and all the like you know pews and seating and everything is gone— the the altars of the five divides—of the five siblings have been cleaned up.",
+        "",
+        "%% u1518:0-96, u1519:0-64, u1520:0-35, u1521:0-118, u1522:0-79 %%",
+        "((Other temple details and table discussion))",
+        "",
+        "%% u1523:0-8, u1524:0-27, u1525:0-76, u1526:0-33, u1527:0-19 %%",
+        "DM: And the person that Dunmari who is kind of cowering in here, seeing a dwarf enter, hearing the sounds of battle— presumably the rest of you enter relatively shortly…",
+        "",
+        "%% u1528:0-6 %%",
+        "Unknown: After.",
+        "",
+        "%% u1529:0-22, u1530:0-16, u1531:0-77, u1532:0-15, u1533:0-14, u1534:0-71 %%",
+        "DM: Just his eyes just go incredibly wide. And then you see as Kenzo walk in and he, like immediately latches on to you. And he sort of looks up like, 'Myths and legends walking the land! What what is this? What's happening?'",
+        "",
+        "%% u1535:0-19, u1536:0-39 %%",
+        "Kenzo: You tell us, friend. What happened here? Looking directly at…",
+        "",
+        "%% u1537:0-26 %%",
+        "DM: Is Kenzo speaking Dunmari?",
+        "",
+        "%% u1538:0-20 %%",
+        "Unknown: Your companions you.",
+        "",
+        "%% u1539:0-29 %%",
+        "DM: Out and he's like staring at…",
+        "",
+        "%% u1540:0-38 %%",
+        "Kenzo: Kenzo like stands in front of Delwath.",
+        "",
+        "%% u1541:0-35 %%",
+        "Unknown: They're really not that impressive.",
+        "",
+        "%% u1542:0-18 %%",
+        "Kenzo: Tell us, young one.",
+        "",
+        "%% u1543:0-20 %%",
+        "DM: That's a long story.",
+        "",
+        "%% u1544:0-16 %%",
+        "((Other temple details and table discussion))",
+        "",
+        "%% u1545:0-54, u1546:0-84, u1547:0-21, u1548:0-24, u1549:0-10, u1550:0-15, u1551:0-13 %%",
+        "DM: He's like shaking, and he sort of staggers over to his to like a little seat, that's a little like like area that's been cleared out with a some water and stuff. And he sits down. And he, 'Are those creatures gone? The vultures?'",
+        "",
+        "%% u1552:0-24 %%",
+        "Kenzo: We dispatched them, yeah.",
+        "",
+        "%% u1553:0-192, u1554:0-18, u1555:0-32, u1556:0-23, u1557:0-31, u1558:0-44 %%",
+        "DM: 'That is good.' And as he's talking, he keeps sort of looking back like despite what Kenzo said, he keeps his only talking to Kenzo, but he keeps looking back at Delwath, like, what's happening? And he's he then says, 'I've been here for maybe a week. There are so many dead. So many dead who have not been tended, whose souls have not been cared for.'",
+        "",
+        "%% u1559:0-7 %%",
+        "DM: I came…",
+        "",
+        "%% u1560:0-25, u1561:0-24 %%",
+        "DM: Maybe eight days ago now, sent here by my masters.",
+        "",
+        "%% u1562:0-21 %%",
+        "Kenzo: Who are your masters?",
+        "",
+        "%% u1563:0-6, u1564:0-60 %%",
+        "DM: 'Can I, can I talk around them?' Looking at your companions. 'Are they…?'",
+        "",
+        "%% u1565:0-20 %%",
+        "Kenzo: Speak freely, freely.",
+        "",
+        "%% u1566:0-20 %%",
+        "DM: They're not Dunmari.",
+        "",
+        "%% u1567:0-15 %%",
+        "Kenzo: It's all right.",
+        "",
+        "%% u1568:0-13 %%",
+        "DM: Are you sure?",
+        "",
+        "%% u1569:0-13 %%",
+        "Unknown: I'm positive.",
+        "",
+        "%% u1570:0-28, u1571:0-10, u1572:0-19, u1573:0-19, u1574:0-37, u1575:0-82, u1576:0-37, u1577:0-86, u1578:0-9, u1579:0-87, u1580:0-22, u1581:0-39 %%",
+        "DM: My master's Pava and Avaras, they live south east of here. My order is not— um we have no real home. We we travel. We we tend to the lost stories of the Dunmari, to the history that is missing, to the… I don't know how much you know about the history of this land. And again, is assuming you know, but looking at everybody else. Share so so, so many people died unmarked, unnoticed out in the blasted plains, in the cursed land, hundreds of years ago. And there are still lost souls to find.",
+        "",
+        "%% u1582:0-39, u1583:0-43, u1584:0-14, u1585:0-53 %%",
+        "DM: And even those who have faded and gone, there are memories to remember. There are tales to mark. And so, as I've been trained, we've taken this as our…",
+        "",
+        "%% u1586:0-5 %%",
+        "Unknown: Duty.",
+        "",
+        "%% u1587:0-14, u1588:0-7, u1589:0-17, u1590:0-19, u1591:0-7, u1592:0-31, u1593:0-27, u1594:0-6, u1595:0-21, u1596:0-6, u1597:0-22 %%",
+        "DM: When we heard of the loss here, of the of the battle here, I came to see, to make sure that those who died are not forgotten. It is it is difficult work. It is a learning experience.",
+        "",
+        "%% u1598:0-28, u1599:0-38, u1600:0-46, u1601:0-17, u1602:0-27, u1603:0-36, u1604:0-104, u1605:0-78, u1606:0-12, u1607:0-26, u1608:0-41, u1609:0-49 %%",
+        "DM: But I can sense their peace as the bodies burn and their souls go to sit with the gods and with Bhishma, Kotana. But this morning I was preparing the latest batch of buried bodies I had found, partially just just buried in houses that had collapsed. And I had exposed the bodies out of the rubble and was preparing to burn them this evening when those birds started circling. One of them dove down at me and I ran. I didn’t know what else to do. I, I had—I there were a lot of them, and they were very big.",
+        "",
+        "%% u1610:0-61 %%",
+        "Kenzo: Have you seen any any vultures like that before in the area?",
+        "",
+        "%% u1611:0-48, u1612:0-26, u1613:0-68, u1614:0-41, u1615:0-29 %%",
+        "DM: They are not a common sight, but not unheard of. I have been warned, but I… it is a lot of work, and I wanted to treat each one with respect, to make sure that nobody was forgotten, that the gods could see everybody.",
+        "",
+        "%% u1616:0-27, u1617:0-53 %%",
+        "Kenzo: You've done well. Done well. ((Aside))",
+        "",
+        "%% u1618:0-14, u1619:0-3, u1620:0-25, u1621:0-34, u1622:0-8, u1623:0-30 %%",
+        "((Other temple details and table discussion))",
+        "",
+        "%% u1624:0-27 %%",
+        "Kenzo: What's your name, young one?",
+        "",
+        "%% u1625:0-11 %%",
+        "Unknown: Amil, Amil.",
+        "",
+        "%% u1626:0-105 %%",
+        "Kenzo: I'm Kenzo. These are my companions. I sort of gesture you all, like, introduce yourself to the kid, typically.",
+        "",
+        "%% u1627:0-11 %%",
+        "Seeker: I'm Seeker.",
+        "",
+        "%% u1628:0-4 %%",
+        "Unknown: Yes.",
+        "",
+        "%% u1629:0-5 %%",
+        "DM: Amil.",
+        "",
+        "%% u1630:0-8 %%",
+        "Unknown: Delwath.",
+        "",
+        "%% u1631:0-9 %%",
+        "Wellby: Laughing.",
+        "",
+        "%% u1632:0-26 %%",
+        "DM: Has seen your kind before.",
+        "",
+        "%% u1633:0-40, u1634:0-42 %%",
+        "((Other temple details and table discussion))",
+        "",
+        "%% u1635:0-22, u1636:0-12, u1637:0-28 %%",
+        "Delwath: Delwath nods slightly. 'I'm Delwath. I'm a visitor to your lands.'",
+        "",
+        "%% u1638:0-43, u1639:0-10, u1640:0-27, u1641:0-23, u1642:0-27, u1643:0-32, u1644:0-14 %%",
+        "DM: His eyes sort of go wide. 'I, I can see. I've I've only heard rumor once of an elf. My, my masters say they found an elf in the desert a long time ago— well, months ago. Never saw him.'",
+        "",
+        "%% u1645:0-4, u1646:0-35 %%",
+        "Delwath: Tim, yeah you have to tell me who found…",
+        "",
+        "%% u1647:0-52 %%",
+        "DM: All you remember is a shepherd. There was a shepherd…",
+        "",
+        "%% u1648:0-18 %%",
+        "Delwath: Taken care of you.",
+        "",
+        "%% u1649:0-72, u1650:0-100, u1651:0-181 %%",
+        "DM: I mean you don't have very clear memories. You remember appearing in the desert and seeing this ruined town with a giant arch, you know, a giant monument of like a horse, and sort of delirious with thirst and passing in and out of consciousness. And delirious and then you remember gradually come becoming aware of this shepherd family who's taking care of.",
+        "",
+        "%% u1652:0-32, u1653:0-16, u1654:0-46 %%",
+        "Delwath: Your masters found me about 200 miles from here. Where where did this event occur, if I may ask?",
+        "",
+        "%% u1654:46-58 %%",
+        "DM: Which event?",
+        "",
+        "%% u1655:0-23 %%",
+        "Delwath: The finding of the elf.",
+        "",
+        "%% u1656:0-17, u1657:0-2, u1658:0-36, u1659:0-22, u1660:0-9, u1661:0-16, u1662:0-54, u1663:0-31 %%",
+        "DM: In in the desert. I I only joined them a few months ago. I came from the north. This was this was before. This must have been during the rainy season last year. Right in the desert, they said.",
+        "",
+        "%% u1664:0-53 %%",
+        "Kenzo: Which god, which god of Dunmar do you serve? Although.",
+        "",
+        "%% u1665:0-56, u1666:0-2, u1667:0-35, u1668:0-5, u1669:0-13, u1670:0-39 %%",
+        "DM: We serve all the gods, of course, but I think it is not a forbidden truth for me to say that I am particularly devotee of the mystery cult of Bhishma.",
+        "",
+        "%% u1671:0-30, u1672:0-34 %%",
+        "Kenzo: Kenzo kind of serious at that. 'I will help you today your tasks.'",
+        "",
+        "%% u1673:0-13, u1674:0-19 %%",
+        "Delwath: Your masters— where are they now?",
+        "",
+        "%% u1675:0-79 %%",
+        "DM: Still in their house south of here, on the edge of the desert. Southeast of here.",
+        "",
+        "%% u1676:0-5, u1677:0-6 %%",
+        "Wellby: Soon where?",
+        "",
+        "%% u1678:0-70 %%",
+        "DM: So a few days' journey to the east and south, on the edge of the desert.",
+        "",
+        "%% u1679:0-47, u1680:0-40, u1681:0-12, u1682:0-20, u1683:0-19, u1684:0-12, u1685:0-7 %%",
+        "((Other temple details and table discussion))",
+        "",
+        "%% u1686:0-89 %%",
+        "DM: Right, that would be about a two-day journey south east of here. Yeah, it's about 40 miles.",
+        "",
+        "%% u1687:0-79, u1688:0-6, u1689:0-20, u1690:0-20, u1691:0-27 %%",
+        "Delwath: That's weird. I'm I think fate may have brought me to this village at this time. I was found in the desert some six months ago, but I do not recall by who.",
+        "",
+        "%% u1692:0-13 %%",
+        "DM: You are that…?",
+        "",
+        "%% u1693:0-18 %%",
+        "Delwath: I can only assume.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah that kills that. Ah, Delwath if you take you take two points of falling damage. Kenzo you take none obviously.",
+          "Kenzo: Kenzo like like in this like one move you basically see him like flip up is like on top of the vulture, surfing without having like grabbed it. And then, also like one motion, like falls off the vulture like jumps off the vulture magically takes his elbow and like you know cracks the skull of the vulture and then like gracefully lands like land. Like keep balls lands and then like the carcass of the vulture lands, and then Delwath— lands like in that in that order approximately that order. Well, actually, actually, sorry sorry, Kenzo lands last.",
+          "Delwath: First, first the carcass is of.",
+          "Kenzo: Of the vulture lands. And then Delwath like right lands right there like also, and then Kenzo, like, gracefully.",
+          "DM: Doesn't even really land. It's like he's walking down a staircase in the air; he likes steps down out of the sky. Havdar looks around. 'That was interesting.' Ah, as the rest of his troops unleash their arrows, killing one more of the vultures while the other—before the other two are too high up to be targeted. And he says, 'Let me go speak with my troops briefly; will set a watch. I do not think they'll be returning, and if they do, I do not think they will like the welcome they receive. Give me a moment. I'll meet you inside the temple.' So."
+        ],
+        "after": [
+          "DM: Amazing. I am I am stunned. Yeah, sure, making Insight check. Delwath, you said your name was? Kenzo… and at this moment, the door opens and Havdar and a woman who you've seen around in his troops, who seems to be like one of his you know more trusted advisors both slam open the door and stride into the temple. And the woman stops for a moment, like puts her arm on on Havdar’s shoulder, and walks to the to the altar of Aagir, which is like again, like all of them, is like coated with hundreds of these little icons. And she kneels briefly before and bends her head. And Havdar walks over to you and says, 'What's this?'",
+          "Wellby: Because I have to step up just for a couple minutes, but I think you should keep rolling. Like, unless you are really want to take a break for a couple minutes, I'm totally fine if you keep rolling.",
+          "Seeker: Okay.",
+          "Unknown: Okay.",
+          "DM: Um so Amil gets like tells them the same story he just told you. And and Havdar sort of pats his head and says, 'We are grateful, young one. My warriors will assist you in this task for this afternoon. We're also keeping our eyes and bows at the ready should those birds return, so I believe it is safe to continue your work when you are ready. I will spend a moment in prayer…'"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The recovered divine icons",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1518",
+        "endUid": "u1522"
+      },
+      "lines": [
+        "%% u1518:0-96, u1519:0-64, u1520:0-35, u1521:0-118, u1522:0-79 %%",
+        "DM: And arranged on each altar, there are hundreds of little statues, like maybe this big, of each god. Little—so these are—this is like a Dunmari tradition. They each—many Dunmari, as they travel around, don't regularly come to temples, and so they carry these little icons of the gods. And this seems to be a collection of hundreds of them that have been cleaned and sorted and arranged in this temple.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Kenzo like like in this like one move you basically see him like flip up is like on top of the vulture, surfing without having like grabbed it. And then, also like one motion, like falls off the vulture like jumps off the vulture magically takes his elbow and like you know cracks the skull of the vulture and then like gracefully lands like land. Like keep balls lands and then like the carcass of the vulture lands, and then Delwath— lands like in that in that order approximately that order. Well, actually, actually, sorry sorry, Kenzo lands last.",
+          "Delwath: First, first the carcass is of.",
+          "Kenzo: Of the vulture lands. And then Delwath like right lands right there like also, and then Kenzo, like, gracefully.",
+          "DM: Doesn't even really land. It's like he's walking down a staircase in the air; he likes steps down out of the sky. Havdar looks around. 'That was interesting.' Ah, as the rest of his troops unleash their arrows, killing one more of the vultures while the other—before the other two are too high up to be targeted. And he says, 'Let me go speak with my troops briefly; will set a watch. I do not think they'll be returning, and if they do, I do not think they will like the welcome they receive. Give me a moment. I'll meet you inside the temple.' So.",
+          "DM: Seeker, as the combat ends, you see the inside of the temple. There, there is so besides this, this young man, probably clearly Dunmari, you probably in his early 20s at oldest, if not a teenager, wearing traveling gear with a gray-ish robe draped over it— has a little camp set up inside the temple, it seems. And you see, arranged across the temple— it's been sort of cleaned out a little bit, and all the like you know pews and seating and everything is gone— the the altars of the five divides—of the five siblings have been cleaned up."
+        ],
+        "after": [
+          "DM: And the person that Dunmari who is kind of cowering in here, seeing a dwarf enter, hearing the sounds of battle— presumably the rest of you enter relatively shortly…",
+          "Unknown: After.",
+          "DM: Just his eyes just go incredibly wide. And then you see as Kenzo walk in and he, like immediately latches on to you. And he sort of looks up like, 'Myths and legends walking the land! What what is this? What's happening?'",
+          "Kenzo: You tell us, friend. What happened here? Looking directly at…",
+          "DM: Is Kenzo speaking Dunmari?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Havdar offers help to Amil",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1694",
+        "endUid": "u1715"
+      },
+      "lines": [
+        "%% u1694:0-8, u1695:0-5, u1696:0-13, u1697:0-31, u1698:0-203, u1699:0-79, u1700:0-139, u1701:0-80, u1702:0-38, u1703:0-12 %%",
+        "DM: ((Aside)) and at this moment, the door opens and Havdar and a woman who you've seen around in his troops, who seems to be like one of his you know more trusted advisors both slam open the door and stride into the temple. And the woman stops for a moment, like puts her arm on on Havdar’s shoulder, and walks to the to the altar of Aagir, which is like again, like all of them, is like coated with hundreds of these little icons. And she kneels briefly before and bends her head. And Havdar walks over to you and says, 'What's this?'",
+        "",
+        "%% u1704:0-195, u1705:0-5, u1706:0-5 %%",
+        "((Table break))",
+        "",
+        "%% u1707:0-3, u1708:0-69, u1709:0-38, u1710:0-86, u1711:0-76, u1712:0-65, u1713:0-32 %%",
+        "DM: Um so Amil gets like tells them the same story he just told you. And and Havdar sort of pats his head and says, 'We are grateful, young one. My warriors will assist you in this task for this afternoon. We're also keeping our eyes and bows at the ready should those birds return, so I believe it is safe to continue your work when you are ready. I will spend a moment in prayer…'",
+        "",
+        "%% u1714:0-38 %%",
+        "DM: And then bring word to my to my troop.",
+        "",
+        "%% u1715:0-54 %%",
+        "DM: And Amil kind of thanks them, and then Havdar goes off.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: That's.",
+          "DM: Right, that would be about a two-day journey south east of here. Yeah, it's about 40 miles.",
+          "Delwath: That's weird. I'm I think fate may have brought me to this village at this time. I was found in the desert some six months ago, but I do not recall by who.",
+          "DM: You are that…?",
+          "Delwath: I can only assume."
+        ],
+        "after": [
+          "Seeker: Tim, Bhishma’s not one of the five siblings?",
+          "DM: No, Bhishma is the, the—she's another like demigod. She’s sort of like the founder of…",
+          "Seeker: Oh, Kotana, and…",
+          "Unknown: Yeah.",
+          "Delwath: Me, which one is she?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Bhishma’s mortal origin and family",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1716",
+        "endUid": "u1731"
+      },
+      "lines": [
+        "%% u1716:0-4, u1717:0-39 %%",
+        "Seeker: Tim, Bhishma’s not one of the five siblings?",
+        "",
+        "%% u1718:0-18, u1719:0-65 %%",
+        "DM: No, Bhishma is the, the—she's another like demigod. She’s sort of like the founder of…",
+        "",
+        "%% u1720:0-14 %%",
+        "Seeker: Oh, Kotana, and…",
+        "",
+        "%% u1721:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u1722:0-20 %%",
+        "Delwath: Me, which one is she?",
+        "",
+        "%% u1723:0-52 %%",
+        "DM: Is she the one he's the like founder of Dunmar. Okay.",
+        "",
+        "%% u1724:0-34 %%",
+        "Seeker: And she is the one who supposedly…",
+        "",
+        "%% u1725:0-46 %%",
+        "Delwath: To volley back to right, right, right. Right and.",
+        "",
+        "%% u1726:0-29, u1727:0-7 %%",
+        "DM: Supposedly is the mother of Shakun…",
+        "",
+        "%% u1728:0-33 %%",
+        "Unknown: If you believe the story is that…",
+        "",
+        "%% u1729:0-45 %%",
+        "DM: Laka and her together, had two kids together.",
+        "",
+        "%% u1730:0-15 %%",
+        "Delwath: She was mortal?",
+        "",
+        "%% u1731:0-24 %%",
+        "DM: She was mortal, yes. Okay.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Okay.",
+          "Unknown: Okay.",
+          "DM: Um so Amil gets like tells them the same story he just told you. And and Havdar sort of pats his head and says, 'We are grateful, young one. My warriors will assist you in this task for this afternoon. We're also keeping our eyes and bows at the ready should those birds return, so I believe it is safe to continue your work when you are ready. I will spend a moment in prayer…'",
+          "DM: And then bring word to my to my troop.",
+          "DM: And Amil kind of thanks them, and then Havdar goes off."
+        ],
+        "after": [
+          "Kenzo: Um I think I will also take a two-minute break. I'm going to check on my mom real quick.",
+          "DM: Okay, let's just take a…",
+          "Delwath: Break then. Perfect.",
+          "DM: I could use some water. Cool.",
+          "Kenzo: The temple…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Kenzo prays at Laka’s altar",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1760",
+        "endUid": "u1762"
+      },
+      "lines": [
+        "%% u1760:0-92, u1761:0-78, u1762:0-150 %%",
+        "Kenzo: Yeah Kenzo Kenzo will will take some time and go go around to each each altar and you know I do some prayer, and spend a special particular time in front of the Laka one. ((Aside))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: What's the denomination or whatever?",
+          "DM: So this is just a sort of standard temple to the five siblings. It's a it's not a like a mystery cult. So pretty much all that Dunmari unless it's the like a monastery or another temple that's a that's a like a home base for one of these, are pretty much all five siblings. There's like a few exceptions. Like a like a library might have like a shrine to Laka attached to it, because he's like the god of knowledge, and military forts might have shrines to Aagir, the god of war, right things like that. But mostly temples are just to all five of them, except for the mystery cults, which are focused on single god's.",
+          "Kenzo: Any notable about that the temple?",
+          "DM: Nothing particularly amazing. I mean it's um it's it was clearly damaged. Ah, before it's you know, before it was damaged, it may have been you know slightly bigger a nicer than the one in Karawa, even, because much of the attention there is taken up by Shakun’s cult. But even though the roof did not collapse, it was you know definitely took some damage. A lot—some of the windows are knocked out. Right it's not fully intact, and it's been picked up with care, but not completely. So there's still some you know.",
+          "DM: The area around the so so it's sort of arranged as a as like like hexagon, almost, where one of the six faces is the entry way. There's a little bit of like a sort of entry area that then leads into the main temple. And then around the five faces, the other five faces of the main temple, there’s one sort of chapel slash altar slash kind of worship area for each of the five siblings. Doesn't seem like he's given special attention to any particular one of them. They've all been sort of cleaned up as best he could equally, and the little icons that that have been arranged have been sorted by by god, so each god has a little cluster of the icons that represent them in front of them around the altars."
+        ],
+        "after": [
+          "DM: I mean it definitely looks like battle damage, or a combination of battle damage and fire damage, yeah.",
+          "Kenzo: What's the name again? Amil?",
+          "Unknown: Problem.",
+          "Kenzo: Amil, do you know what did this? Was the source of all of this chaos here?",
+          "DM: I—there was an attack, I heard. I wasn't not here for a such event. But some sort of beast out of the desert that should not be. This is what my masters told me."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Helping Amil finish his work",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1764",
+        "endUid": "u1843"
+      },
+      "lines": [
+        "%% u1764:0-27 %%",
+        "Kenzo: What's the name again? Amil?",
+        "",
+        "%% u1765:0-8 %%",
+        "Unknown: Problem.",
+        "",
+        "%% u1766:0-72 %%",
+        "Kenzo: Amil, do you know what did this? Was the source of all of this chaos here?",
+        "",
+        "%% u1767:0-2, u1768:0-29, u1769:0-35, u1770:0-4, u1771:0-57, u1772:0-32 %%",
+        "DM: I—there was an attack, I heard. I wasn't not here for a such event. But some sort of beast out of the desert that should not be. This is what my masters told me.",
+        "",
+        "%% u1773:0-44 %%",
+        "Kenzo: What kind of beast, and when did this happen?",
+        "",
+        "%% u1774:0-12, u1775:0-15, u1776:0-27, u1777:0-34, u1778:0-23, u1779:0-3, u1780:0-10, u1781:0-53 %%",
+        "DM: It happened some weeks ago, perhaps almost a month ago. But we only learned of this event maybe three weeks ago, and I arrived a few days, maybe four or five days after that. About…",
+        "",
+        "%% u1782:0-12 %%",
+        "Unknown: 10 days ago.",
+        "",
+        "%% u1783:0-37 %%",
+        "Kenzo: How did you learn what happened here?",
+        "",
+        "%% u1784:0-39, u1785:0-19, u1786:0-68 %%",
+        "DM: My masters told me that there had been an attack, and that it was it was west, not east, which was surprising, but meant it was…",
+        "",
+        "%% u1787:0-21 %%",
+        "Unknown: Well, should be safe.",
+        "",
+        "%% u1788:0-27, u1789:0-19 %%",
+        "DM: Or safer than heading east. Or south, the worst.",
+        "",
+        "%% u1790:0-48 %%",
+        "Kenzo: When are you supposed to return to your masters?",
+        "",
+        "%% u1791:0-21 %%",
+        "DM: When my task is done.",
+        "",
+        "%% u1792:0-28, u1793:0-26, u1794:0-24, u1795:0-52 %%",
+        "Kenzo: He kind of looks at Delwath. 'Perhaps we can all aid in completing Amil’s tasks. And perhaps it may be worthwhile returning with him.'",
+        "",
+        "%% u1796:0-4, u1797:0-55 %%",
+        "Delwath: Yes. I owe your masters a debt. I would be honored to pay it.",
+        "",
+        "%% u1798:0-2 %%",
+        "Unknown: I.",
+        "",
+        "%% u1799:0-8 %%",
+        "DM: Oh okay.",
+        "",
+        "%% u1800:0-19 %%",
+        "Kenzo: Just like laughing.",
+        "",
+        "%% u1801:0-23, u1802:0-12 %%",
+        "DM: I'm sure I'm sure they welcome you.",
+        "",
+        "%% u1803:0-40 %%",
+        "Kenzo: What are the names of your masters, Amil?",
+        "",
+        "%% u1804:0-11 %%",
+        "Unknown: And Avaras.",
+        "",
+        "%% u1805:0-50 %%",
+        "Kenzo: How long have you how long have you studied under…",
+        "",
+        "%% u1806:0-5, u1807:0-29, u1808:0-37, u1809:0-45, u1810:0-27, u1811:0-24 %%",
+        "DM: Them? Only a few months, as I said. I did my early training in our order up north, and had just come here to the heart of the blasted plains were for the next step of my…",
+        "",
+        "%% u1812:0-9, u1813:0-14 %%",
+        "Unknown: Learning. Where I could…",
+        "",
+        "%% u1814:0-59, u1815:0-160, u1816:0-64, u1817:0-11, u1818:0-16, u1819:0-46, u1820:0-5, u1821:0-18 %%",
+        "DM: Do more than listen to stories, but actually tend to souls. Not that those who collect stories are unimportant by any means. He sort of seems like it's sort of like catching himself of something he wasn't supposed to say. 'Collecting the stories of those still alive is also our mission. But for me, putting to rest those cursed to wander in darkness has always been been why I'm here.'",
+        "",
+        "%% u1822:0-35, u1823:0-15, u1824:0-19, u1825:0-15 %%",
+        "Kenzo: And he puts a hand on the shoulder. 'Indeed, a noble, noble purpose life. We’ll help you.'",
+        "",
+        "%% u1826:0-26 %%",
+        "Unknown: I greatly appreciate that.",
+        "",
+        "%% u1827:0-11, u1828:0-36 %%",
+        "DM: Has been a more difficult path than I expected.",
+        "",
+        "%% u1829:0-117 %%",
+        "Kenzo: Tim, does Kenzo understand like the nature of the task that he's doing? Is just how to sort of like kind of standard…?",
+        "",
+        "%% u1830:0-56 %%",
+        "DM: Like monks? Yeah, I mean, basically the idea is… you know.",
+        "",
+        "%% u1831:0-5 %%",
+        "Unknown: He's…",
+        "",
+        "%% u1832:0-276 %%",
+        "DM: Still, like you know I'd Dunmari like funeral would be you know would basically be a pyre and burning the bodies and saying a few prayers. And yeah, that's effectively all he's doing, is saying some prayers, finding that—leaving—trying not to leave any dead unburied, basically. So.",
+        "",
+        "%% u1833:0-111, u1834:0-155 %%",
+        "Kenzo: I guess my point is just like Kenzo was interested in making this as expeditious a process as possible. Though yeah he be the one to like kind of go to Havdar and be like, hey, like—and he would start like working with Havdar to like just make this logistically quick.",
+        "",
+        "%% u1835:0-107, u1836:0-42 %%",
+        "DM: Because I mean the the burning the bodies and saying a prayer is actually not the hard part, right? It's the uncovering the bodies from the rubble and…",
+        "",
+        "%% u1837:0-7 %%",
+        "Kenzo: Got it.",
+        "",
+        "%% u1838:0-28, u1839:0-83, u1840:0-159 %%",
+        "DM: Right, and bringing you know wrapping them in in cloth or whatever, in and getting them to a place where you can have a pyre and say prayers. Like if if you could magically teleport all the bodies to a funeral pyre, wouldn’t take very long. So Havdar troop is perfectly… yeah.",
+        "",
+        "%% u1841:0-7 %%",
+        "Kenzo: Got it.",
+        "",
+        "%% u1842:0-32 %%",
+        "DM: Organized for this kind of task.",
+        "",
+        "%% u1843:0-85 %%",
+        "Kenzo: Okay, so so basically we kind of get to work on that. They they just start doing that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Any notable about that the temple?",
+          "DM: Nothing particularly amazing. I mean it's um it's it was clearly damaged. Ah, before it's you know, before it was damaged, it may have been you know slightly bigger a nicer than the one in Karawa, even, because much of the attention there is taken up by Shakun’s cult. But even though the roof did not collapse, it was you know definitely took some damage. A lot—some of the windows are knocked out. Right it's not fully intact, and it's been picked up with care, but not completely. So there's still some you know.",
+          "DM: The area around the so so it's sort of arranged as a as like like hexagon, almost, where one of the six faces is the entry way. There's a little bit of like a sort of entry area that then leads into the main temple. And then around the five faces, the other five faces of the main temple, there’s one sort of chapel slash altar slash kind of worship area for each of the five siblings. Doesn't seem like he's given special attention to any particular one of them. They've all been sort of cleaned up as best he could equally, and the little icons that that have been arranged have been sorted by by god, so each god has a little cluster of the icons that represent them in front of them around the altars.",
+          "Kenzo: Yeah Kenzo Kenzo will will take some time and go go around to each each altar and you know I do some prayer, and spend a special particular time in front of the Laka one. Was it—how was it clear what it was I did obvious like what the source of destruction was? Like some kind of humanoid like weapons breaking shit? Like.",
+          "DM: I mean it definitely looks like battle damage, or a combination of battle damage and fire damage, yeah."
+        ],
+        "after": [
+          "DM: So he is super grateful. I mean, nobody's really working— everybody takes a break after the battle in and like most intense heat of the, of the day of the sun. But by you know the middle of the afternoon, as it starts to cool down a bit, right is everybody's operating pretty efficiently, and his his you know his warriors his his troop is pretty well kind of organized. You know, mostly it's it's like you know all of the sort of easy people to recover have have been recovered, and he's already done with that. And now there's one section of the village where the you know the roofs had all collapsed, and there seems to be a number of people who who had died in in that collapse. Though that’s his past few days. So with the addition of 20 you know skilled warriors and Seeker’s shaping ability…",
+          "Seeker: I think this goes…",
+          "DM: Right, this goes quite quickly. And by by evening, you know he's feeling pretty— you know there's he has you know you can have a big pyre. He does sort of a big like prayer right with the sun setting. And you know, probably he would be ready to leave by the next afternoon, after just spending the early part of the morning making sure that he didn't miss anybody. But he's been here a while, and he has a pretty good sense of things. And it was just time it took to clear rubble and get the body, you know, and that was just very labor-intensive for like one young guy, even though he looks pretty fit. Right but.",
+          "Wellby: Logo.",
+          "Unknown: A."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Amil’s sunset funeral service",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1856",
+        "endUid": "u1875"
+      },
+      "lines": [
+        "%% u1856:0-31, u1857:0-27, u1858:0-29, u1859:0-43, u1860:0-71, u1861:0-247, u1862:0-162 %%",
+        "DM: Right, this goes quite quickly. And by by evening, you know he's feeling pretty— you know there's he has you know you can have a big pyre. He does sort of a big like prayer right with the sun setting. ((Aside))",
+        "",
+        "%% u1863:0-5, u1864:0-2, u1865:0-50, u1866:0-69, u1867:0-30, u1868:0-51, u1869:0-8 %%",
+        "((Recap for a returning player))",
+        "",
+        "%% u1870:0-22 %%",
+        "Unknown: As the sun is setting.",
+        "",
+        "%% u1871:0-9, u1872:0-120, u1873:0-91, u1874:0-207, u1875:0-132 %%",
+        "DM: Amil, the monk, priest, whatever, is you know, has collected a bunch of people now, and and sort of doing saying some prayers and and doing a little bit of a service as the body is burning, the smoke goes up into the sky. And he is clearly like really grateful. That I mean, not that he was like you know unhappy with his task, but this was a lot more work than he anticipated. And having these people to help him and share this moment you know, certainly meant a lot to him, and he is very grateful, especially to Kenzo, who you know he currently has a connection with.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Got it.",
+          "DM: Organized for this kind of task.",
+          "Kenzo: Okay, so so basically we kind of get to work on that. They they just start doing that.",
+          "DM: So he is super grateful. I mean, nobody's really working— everybody takes a break after the battle in and like most intense heat of the, of the day of the sun. But by you know the middle of the afternoon, as it starts to cool down a bit, right is everybody's operating pretty efficiently, and his his you know his warriors his his troop is pretty well kind of organized. You know, mostly it's it's like you know all of the sort of easy people to recover have have been recovered, and he's already done with that. And now there's one section of the village where the you know the roofs had all collapsed, and there seems to be a number of people who who had died in in that collapse. Though that’s his past few days. So with the addition of 20 you know skilled warriors and Seeker’s shaping ability…",
+          "Seeker: I think this goes…"
+        ],
+        "after": [
+          "Kenzo: And just to say, Tim, we did— we, I mean I’m glancing around at Wellby in particular, and the rest of them— we did not loot the bodies, right? Like we just just burn them. Like.",
+          "Delwath: Not loot the bodies.",
+          "Kenzo: I mean liberate the bodies. Sorry, liberate the bodies of any unwanted items.",
+          "DM: Yeah, cough. Recovering history when you do it, and looting when the party rogue do that.",
+          "Unknown: Liberty."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Escort for Amil and a parting agreement with Havdar",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1888",
+        "endUid": "u1952"
+      },
+      "lines": [
+        "%% u1888:0-3, u1889:0-13, u1890:0-113, u1891:0-30 %%",
+        "DM: So that evening, Amil is sort of packing up a little bit, and says he's making preparations to leave tomorrow afternoon. He says, 'So, are you—will you come with me?'",
+        "",
+        "%% u1892:0-57 %%",
+        "Kenzo: Of course. We would be—we were eager to meet your masters.",
+        "",
+        "%% u1893:0-8, u1894:0-49, u1895:0-50 %%",
+        "DM: I would I would certainly appreciate the company. I feel in the week since I got here, the desert has grown…",
+        "",
+        "%% u1896:0-13 %%",
+        "Kenzo: Inhospitable.",
+        "",
+        "%% u1897:0-28 %%",
+        "DM: Inhospitable is a good word.",
+        "",
+        "%% u1898:0-5 %%",
+        "Unknown: I am.",
+        "",
+        "%% u1899:0-40 %%",
+        "DM: I was nervous of the journey back alone.",
+        "",
+        "%% u1900:0-42 %%",
+        "Kenzo: That—again, where's Havdar going from here?",
+        "",
+        "%% u1901:0-10 %%",
+        "Unknown: East okay.",
+        "",
+        "%% u1902:0-74 %%",
+        "DM: So so he'll he'll come up and he'll be like, 'So our paths are parting here?'",
+        "",
+        "%% u1903:0-16, u1904:0-69 %%",
+        "Kenzo: Would appear so. Will accompany the boy to his masters, to learn what we can from them.",
+        "",
+        "%% u1905:0-9 %%",
+        "Wellby: Deserted?",
+        "",
+        "%% u1906:0-220, u1907:0-3, u1908:0-207, u1909:0-25 %%",
+        "DM: Alesh didn't see anybody there, assuming it's the same house, but it was it was clearly not deserted. Right she said there was like you know, water, there was animals; everything looked very lived in, just nobody was there. Um Havdar you know torn. He, on tHe, one hand, clearly thinks this poor boy should not be wandering the desert alone, but also you know, was a little bit counting on you, and after seeing you fight in that battle, is like newfound respect.",
+        "",
+        "%% u1910:0-93, u1911:0-19, u1912:0-54, u1913:0-73, u1914:0-109, u1915:0-96, u1916:0-15, u1917:0-77 %%",
+        "DM: For the four of you, but he says, 'I understand your path takes you with this boy, and indeed the thought of him wandering alone the desert does not sit well with me. I could send a few of my troops to escort him if needed, but if you are intending on talking with his masters, then I would feel more comfortable knowing he was not traveling alone. That said, if there is a party of orcs out in the desert, I still feel like I could use your aid in that battle. Will you turn east or somewhere else after you speak with this boys masters?'",
+        "",
+        "%% u1918:0-19 %%",
+        "DM: Or do you not know?",
+        "",
+        "%% u1919:0-142 %%",
+        "Wellby: I think our intent is to turn east, even to try and rejoin you, but it may be that we find something that sends us elsewhere. Don't wait for us.",
+        "",
+        "%% u1920:0-4 %%",
+        "Unknown: Yes.",
+        "",
+        "%% u1921:0-11, u1922:0-210, u1923:0-31, u1924:0-10, u1925:0-82, u1926:0-71 %%",
+        "DM: He he says like speaks a moment with you, Wellby, kind of gives you the lay of the land and says, you know that landmarks and things you need to find and follow to get to the place where he's intending to set his base camp. 'Should you intend to rejoin me, I believe that should be sufficient directions to allow you to find where we intend to camp. And if you do not find us there, it's either because of great danger or…'",
+        "",
+        "%% u1927:0-41 %%",
+        "Unknown: We were killed, which means great danger.",
+        "",
+        "%% u1928:0-14, u1929:0-42, u1930:0-47, u1931:0-32 %%",
+        "Wellby: I'll tell him, 'Now, where these giant vultures, okay. But leave the regular-size non-evil vultures alive, and they'll help lead us to you.'",
+        "",
+        "%% u1932:0-78, u1933:0-17 %%",
+        "DM: I hunt to only what is needed to feed our troops, unless they are, as you say, malicious intent.",
+        "",
+        "%% u1934:0-21 %%",
+        "((Table aside))",
+        "",
+        "%% u1935:0-3, u1936:0-7, u1937:0-57, u1938:0-95, u1939:0-48, u1940:0-34, u1941:0-55, u1942:0-89, u1943:0-10, u1944:0-39 %%",
+        "DM: And should thousand-strong horde of orcs be coming over the horizon, we will do our best to send riders in your direction to warn you and this boy and his masters. As, whoever they are, living alone in the desert, perhaps they have a way of hiding, but otherwise I expect they will need to flee as well. And then says, 'I will leave you to your preparations. We will depart early in the morning. Good luck. I hope to fight with you again someday.'",
+        "",
+        "%% u1945:0-9 %%",
+        "Wellby: With you.",
+        "",
+        "%% u1946:0-53 %%",
+        "Kenzo: Personally, I think that will be too likely the case.",
+        "",
+        "%% u1947:0-154, u1948:0-30, u1949:0-26, u1950:0-98, u1951:0-143, u1952:0-47 %%",
+        "DM: He rides on—he walks off to sort of set his troops' camp and get them prepared for an early departure before dawn, while you settle in for the evening with with Amil, planning on leaving Bas Udda in the afternoon. Oh, and Havdar divvies up the supplies so that you get and you get an extra horse, which Amil can ride or walk beside, and you know, a cask of water and a good a good chunk of supplies for a few days, a few days' journey without you having to worry about foraging or anything in the desert.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: I mean liberate the bodies. Sorry, liberate the bodies of any unwanted items.",
+          "DM: Yeah, cough. Recovering history when you do it, and looting when the party rogue do that.",
+          "Unknown: Liberty.",
+          "Wellby: I will say I think of the four of us, Wellby has the deepest respect for customs of the dead. But when you find in the abandoned wizards tower, like who are you disrespecting by stealing from it, right?",
+          "Kenzo: I'm all for it. Okay."
+        ],
+        "after": [
+          "Seeker: Take Kenzo aside the evening and I said, 'This, this kid seems to have an affinity for you. But I'm a bit worried about the association in this place to Agata, who— we don't know quite what type of a person or villain she might be, and who she might associated with. And so it's worth finding out if the kid knows anything about her or…'",
+          "Kenzo: Not guys.",
+          "Seeker: My intentions are pure.",
+          "Kenzo: Leia I don't think that now that, now that we've met Amil— he's a pretty— Tim, tell me if I'm reading this correctly, but he seems like the Dunmari…",
+          "Unknown: Is."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Amil has not heard of Agata",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1953",
+        "endUid": "u2038"
+      },
+      "lines": [
+        "%% u1953:0-5, u1954:0-24, u1955:0-16, u1956:0-43, u1957:0-71, u1958:0-108, u1959:0-62 %%",
+        "Seeker: Take Kenzo aside the evening and I said, 'This, this kid seems to have an affinity for you. But I'm a bit worried about the association in this place to Agata, who— we don't know quite what type of a person or villain she might be, and who she might associated with. And so it's worth finding out if the kid knows anything about her or…'",
+        "",
+        "%% u1960:0-9, u1961:0-23, u1962:0-5, u1963:0-28, u1964:0-85, u1965:0-14, u1966:0-12, u1967:0-3, u1968:0-64, u1969:0-35, u1970:0-14, u1971:0-8, u1972:0-77, u1973:0-49, u1974:0-66, u1975:0-10, u1976:0-15, u1977:0-123, u1978:0-86, u1979:0-33, u1980:0-68, u1981:0-52, u1982:0-53, u1983:0-4, u1984:0-23, u1985:0-4, u1986:0-30, u1987:0-79 %%",
+        "((Discussion of whether to trust Amil))",
+        "",
+        "%% u1988:0-97 %%",
+        "Kenzo: You know, Seeker, yeah, you're right. It may be worth— I'll take Amil aside and see what I can learn.",
+        "",
+        "%% u1989:0-78 %%",
+        "Seeker: Appearances can be deceiving, and I see that you intuitively trust this person.",
+        "",
+        "%% u1990:0-116, u1991:0-136, u1992:0-37, u1993:0-19, u1994:0-88, u1995:0-16, u1996:0-20 %%",
+        "((Discussion of whether to trust Amil))",
+        "",
+        "%% u1997:0-166, u1998:0-171, u1999:0-16 %%",
+        "Kenzo: ((Aside)) 'Um, Amil, let me, let me ask you something. Our companions, we're we're here in the desert trying to understand more about the strange happenstances that have been occurring, but I think I got a…'",
+        "",
+        "%% u2000:0-13 %%",
+        "Seeker: Question for…",
+        "",
+        "%% u2001:0-75 %%",
+        "Kenzo: Have you heard of a guy something somebody someone called Agata Dustmother?",
+        "",
+        "%% u2002:0-102 %%",
+        "DM: No. That's a strange name. Is she Dunmari? Doesn't sound like it Dunmari name. Is that means that Dwarven?",
+        "",
+        "%% u2003:0-67 %%",
+        "Kenzo: Yes, I don't quite know what it is either, to be honest. I've been…",
+        "",
+        "%% u2004:0-42 %%",
+        "DM: Halfling? That's not a halfling name, is it?",
+        "",
+        "%% u2005:0-44 %%",
+        "Kenzo: You've not heard of this before, sounds like.",
+        "",
+        "%% u2006:0-30, u2007:0-77, u2008:0-36 %%",
+        "DM: No, I don't know who that is. I could ask my masters, or you could ask my masters if you're coming with me. They they know a lot more than I do.",
+        "",
+        "%% u2009:0-29 %%",
+        "Kenzo: Tell me more of your masters.",
+        "",
+        "%% u2010:0-12, u2011:0-17, u2012:0-41, u2013:0-17 %%",
+        "DM: Hmm they're wise and old, and they've lived together in the desert for, well, many years.",
+        "",
+        "%% u2014:0-24 %%",
+        "Kenzo: 40 years old, or…? They're.",
+        "",
+        "%% u2015:0-32, u2016:0-43, u2017:0-5, u2018:0-41, u2019:0-59, u2020:0-36, u2021:0-9, u2022:0-22, u2023:0-48, u2024:0-67 %%",
+        "DM: There they're old. They must be—there must be more than three times my age. They they say if I study and practice and can focus the my energy, that maybe someday I could learn to do some of the things that they can do. They can—they say they can see— it's hard to describe how they describe it. It's they can see is something about me, about what I'm feeling. They can.",
+        "",
+        "%% u2025:0-16, u2026:0-53, u2027:0-29, u2028:0-32, u2029:0-6, u2030:0-19 %%",
+        "DM: There's more to people than what's here, they tell me. Part part of us resides elsewhere, resides in the far beyond, and the place of souls. And there's a echo…",
+        "",
+        "%% u2031:0-8 %%",
+        "Unknown: Of that…",
+        "",
+        "%% u2032:0-18, u2033:0-97, u2034:0-38, u2035:0-23, u2036:0-8 %%",
+        "DM: Part of us. But I cannot see it enough. I—maybe if I just prove myself worthy of the gods, if Bhishma would bless me, she would open my eyes to that vision. Look at their wise and see far.",
+        "",
+        "%% u2037:0-52, u2038:0-11 %%",
+        "Kenzo: Thank you. I’ll look forward to meeting your masters. Here we go.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: I'm with you on that.",
+          "DM: And should thousand-strong horde of orcs be coming over the horizon, we will do our best to send riders in your direction to warn you and this boy and his masters. As, whoever they are, living alone in the desert, perhaps they have a way of hiding, but otherwise I expect they will need to flee as well. And then says, 'I will leave you to your preparations. We will depart early in the morning. Good luck. I hope to fight with you again someday.'",
+          "Wellby: With you.",
+          "Kenzo: Personally, I think that will be too likely the case.",
+          "DM: He rides on—he walks off to sort of set his troops' camp and get them prepared for an early departure before dawn, while you settle in for the evening with with Amil, planning on leaving Bas Udda in the afternoon. Oh, and Havdar divvies up the supplies so that you get and you get an extra horse, which Amil can ride or walk beside, and you know, a cask of water and a good a good chunk of supplies for a few days, a few days' journey without you having to worry about foraging or anything in the desert."
+        ],
+        "after": [
+          "Seeker: Let's go, yeah.",
+          "DM: Okay, so next morning you spend a little bit of time with him, just making sure that the village is as clean as you know, as possible, and sort of or you know everything's you know there's nobody left to find. Like every you know he's not trying to repair any of the houses or anything, but he does… you know.",
+          "Kenzo: Yeah, we tend to tidy it up so it's not…",
+          "DM: Yeah, you know right. Um and he then collects all of the the little icons of the gods that are around the temple and and says he'll bring them back to his masters, and they'll they'll know how to honor them properly. And also, just kind of anything that's there's not much left in the temple, but anything that is sort of sacred or or valuable, he says he will take. He's not going to leave here for scavengers and looters and…",
+          "Seeker: I believe in stuff for scavengers."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i026",
+      "title": "Amil takes the sacred icons",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2044",
+        "endUid": "u2048"
+      },
+      "lines": [
+        "%% u2044:0-23, u2045:0-32, u2046:0-158, u2047:0-194, u2048:0-12 %%",
+        "DM: Yeah, you know right. Um and he then collects all of the the little icons of the gods that are around the temple and and says he'll bring them back to his masters, and they'll they'll know how to honor them properly. And also, just kind of anything that's there's not much left in the temple, but anything that is sort of sacred or or valuable, he says he will take. He's not going to leave here for scavengers and looters and…",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Part of us. But I cannot see it enough. I—maybe if I just prove myself worthy of the gods, if Bhishma would bless me, she would open my eyes to that vision. Look at their wise and see far.",
+          "Kenzo: Thank you. I’ll look forward to meeting your masters. Here we go.",
+          "Seeker: Let's go, yeah.",
+          "DM: Okay, so next morning you spend a little bit of time with him, just making sure that the village is as clean as you know, as possible, and sort of or you know everything's you know there's nobody left to find. Like every you know he's not trying to repair any of the houses or anything, but he does… you know.",
+          "Kenzo: Yeah, we tend to tidy it up so it's not…"
+        ],
+        "after": [
+          "Seeker: I believe in stuff for scavengers.",
+          "DM: And he will take them to his masters, who will know what to do with them as well. So so as you leave, you actually leave with you know, a fairly heavily loaded set of horses. I'm—after the the the heat of the midday sun has passed, you're hoping to get a little bit of travel in in the in the afternoon, and then it's probably a solid day and a half of travel there. So you'll hope to arrive two afternoons from now. The rest of this afternoon is…",
+          "Unknown: Relatively…",
+          "DM: Quiet, hot, just passing through the desert, heading sort of south-southwest— roughly south-southeast, roughly. The terrain here is very you know it's lots of open expanses of just dry, rocky sand, and then there's the occasional canyon. And you find more life and vegetation in this canyons, as there's more shade, and what little moisture there is collects. You know, hardy trees sometimes grow, and there does seem to be some little lakes, you know fingers of underground water that stretch out from Bas Udda, because occasionally you'll find a canyon that has a little bit of a spring in it or something like that. I'm in the evening of the second day, as you're approaching towards heading towards {{bass}}…",
+          "DM: You're following the the route of one of these of these canyons, and Wellby, you notice up ahead that there are like the exoskeleton of a giant scorpion that's been cracked in half and tossed. And you know the you see a few bones of some large bird, kind of relatively freshly cracked and drying in the desert sun. And Amil is sort of starting to look around nervous. It."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i027",
+      "title": "Amil grows afraid in the canyon",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2094",
+        "endUid": "u2147"
+      },
+      "lines": [
+        "%% u2094:0-140, u2095:0-63, u2096:0-15, u2097:0-24 %%",
+        "DM: Yeah, he was leading you, and he's sort of um but has gotten quiet in this canyon. I mean you've been following these canyons because it's um it's shady and it's easier to walk, and you can find some water. It's like, 'This, this wasn't here before.'",
+        "",
+        "%% u2098:0-19 %%",
+        "Kenzo: Wasn't here before?",
+        "",
+        "%% u2099:0-43, u2100:0-43 %%",
+        "DM: All these bones. Are you sure this is safe? He's kind of like creeping back behind you.",
+        "",
+        "%% u2101:0-36, u2102:0-155, u2103:0-35, u2104:0-3, u2105:0-65, u2106:0-62, u2107:0-4, u2108:0-242, u2109:0-20, u2110:0-3, u2111:0-60, u2112:0-28, u2113:0-98, u2114:0-27, u2115:0-90, u2116:0-5, u2117:0-21, u2118:0-22, u2119:0-159, u2120:0-252, u2121:0-121, u2122:0-35 %%",
+        "((Tracking and table discussion))",
+        "",
+        "%% u2123:0-25, u2124:0-23, u2125:0-7, u2126:0-29 %%",
+        "DM: Should we— this is about—should we find another way? To don’t like how you’re acting.",
+        "",
+        "%% u2127:0-28 %%",
+        "Kenzo: But he said, 'Don't like what?'",
+        "",
+        "%% u2128:0-35 %%",
+        "DM: I don't like how you're all acting.",
+        "",
+        "%% u2129:0-5, u2130:0-267, u2131:0-9 %%",
+        "Wellby: Yeah. Well, one of the important things is you know range weapons can go a lot farther than you think. So when you start running, don't feel like you should stop running just because you think you're at a safe distance. You should just keep just keep going till you're good. ((Aside))",
+        "",
+        "%% u2132:0-33 %%",
+        "DM: Wet—or are—what are you gonna do?",
+        "",
+        "%% u2133:0-32 %%",
+        "Unknown: Why aren't you gonna be running?",
+        "",
+        "%% u2134:0-15 %%",
+        "Wellby: Out of the way.",
+        "",
+        "%% u2135:0-61, u2136:0-5, u2137:0-4, u2138:0-37 %%",
+        "((Tracking and table discussion))",
+        "",
+        "%% u2139:0-32, u2140:0-201, u2141:0-4 %%",
+        "DM: Okay, I am going behind you all. Follow this canyon down for a way as it comes to a little spring, and then there's an easy slope up, and our way continues just beyond the spring. I was hoping to rest at the spring, to get some water, and but…",
+        "",
+        "%% u2142:0-45 %%",
+        "Kenzo: Can we get to this going through this canyon?",
+        "",
+        "%% u2143:0-44, u2144:0-26 %%",
+        "DM: We could turn around and go a different way. Oh sure we could find one.",
+        "",
+        "%% u2145:0-90 %%",
+        "Wellby: I'll look up at him, probably about twice my height, and said, 'Just stay behind me for cover.'",
+        "",
+        "%% u2146:0-21, u2147:0-8 %%",
+        "DM: He looks at you like, 'Oh. Okay.'",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I asked if you continue walking down the canyon.",
+          "Kenzo: We're following him, right?",
+          "DM: At this point, has now become a little bit unclear who's following who.",
+          "Wellby: I think we shouldn't put them in the front of the order.",
+          "Kenzo: But isn't Amil leading us to where it is?"
+        ],
+        "after": [
+          "Wellby: What, do you guys want to see what's up there? Let's go to him for us.",
+          "DM: Okay.",
+          "Kenzo: What about Taster, or…?",
+          "DM: I don't think you have Taster with you. You’re slimmed down on this trip into the desert.",
+          "Delwath: Well."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i028",
+      "title": "Taster stayed at the temple",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2151",
+        "endUid": "u2160"
+      },
+      "lines": [
+        "%% u2151:0-21 %%",
+        "Kenzo: What about Taster, or…?",
+        "",
+        "%% u2152:0-89 %%",
+        "DM: I don't think you have Taster with you. You’re slimmed down on this trip into the desert.",
+        "",
+        "%% u2153:0-5 %%",
+        "Delwath: Well.",
+        "",
+        "%% u2154:0-32 %%",
+        "Seeker: In the luxury accommodations in…",
+        "",
+        "%% u2155:0-42, u2156:0-100 %%",
+        "DM: Taster’s having a having a wonderful life, living in you know that being allowed into the temple of Shakun were none of the rest of you can go.",
+        "",
+        "%% u2157:0-12, u2158:0-23 %%",
+        "((Spy-gear joke))",
+        "",
+        "%% u2159:0-18, u2160:0-31 %%",
+        "DM: Or possibly being readied for dinner by Candrosa.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: We could turn around and go a different way. Oh sure we could find one.",
+          "Wellby: I'll look up at him, probably about twice my height, and said, 'Just stay behind me for cover.'",
+          "DM: He looks at you like, 'Oh. Okay.'",
+          "Wellby: What, do you guys want to see what's up there? Let's go to him for us.",
+          "DM: Okay."
+        ],
+        "after": [
+          "Kenzo: Like a flying familiar, or like a… you know, like a.",
+          "Delwath: Wellby.",
+          "Wellby: Yeah, would you…?",
+          "Delwath: Prefer to be unseen on your scouting mission?",
+          "Wellby: Let me know— oh, what's—I always prefer to be unseen. What's happening? I think I do a pretty good job, thank you very much."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i029",
+      "title": "Finding Amil after the ogre fight",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3135",
+        "endUid": "u3144"
+      },
+      "lines": [
+        "%% u3135:0-52 %%",
+        "Seeker: We should we should go make sure our friend is okay.",
+        "",
+        "%% u3136:0-4 %%",
+        "Unknown: Yes.",
+        "",
+        "%% u3137:0-54 %%",
+        "((Table aside))",
+        "",
+        "%% u3138:0-23, u3139:0-52, u3140:0-55 %%",
+        "DM: You you find him about 400 feet back, hiding against the side of the canyon. Is it—'I did what you said. What’s happening? Is it okay?'",
+        "",
+        "%% u3141:0-111 %%",
+        "Wellby: Yeah, you did really good. You know one thing I didn't say before it's next time you should also climb up a ways.",
+        "",
+        "%% u3142:0-5, u3143:0-18, u3144:0-35 %%",
+        "DM: Okay. Could we could we like get somewhere safe now, please?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Sorry about that, guys.",
+          "Kenzo: The last ogre falls down, Kenzo just like, 'What happened? Is like we're never sending you scouting again. You don't get to…' the.",
+          "Wellby: Last time we talked to a giant, reasonableness and politeness carry the day.",
+          "Kenzo: What the fuck did you say to them?",
+          "Wellby: I said, 'I'm so sorry to wake you up here now, um but but can we have safe passage here?' And then he said something like, 'Snack, you.' Yeah."
+        ],
+        "after": [
+          "Wellby: Is the camp by the spring ahead. We could rest.",
+          "DM: I was hoping to rest there, yes.",
+          "Wellby: [garbled].",
+          "DM: Yeah so as you head up the canyon, you see the ogres' camp. There's like a giant vulture with a javelin sticking out of it, I'm dead, rotting, drying in the sun. There's like hide large hide curtain thats hanging sort of incompletely down casting some shade under an overhang. There is a spring, which seems like it would be nice except for the refuse pile that's inexplicably placed directly next to the water source, and the whole place smells awful. There's nothing really to find here. There's just dead animals and trash. Doesn't seem like these, this camp has encountered any humanoids anytime recently. And Amil look sort of shocked and disgusted, and he was like, 'It's only another few hours. Maybe we just press on.'",
+          "Wellby: We searched the giants' camp before we go."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i030",
+      "title": "Amil wants to leave the filthy spring",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3148",
+        "endUid": "u3153"
+      },
+      "lines": [
+        "%% u3148:0-42, u3149:0-191, u3150:0-212, u3151:0-214, u3152:0-38, u3153:0-14 %%",
+        "DM: Yeah so as you head up the canyon, you see the ogres' camp.((Aside)) There is a spring, which seems like it would be nice except for the refuse pile that's inexplicably placed directly next to the water source, and the whole place smells awful.((Aside)) And Amil look sort of shocked and disgusted, and he was like, 'It's only another few hours. Maybe we just press on.'",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Yeah, you did really good. You know one thing I didn't say before it's next time you should also climb up a ways.",
+          "DM: Okay. Could we could we like get somewhere safe now, please?",
+          "Wellby: Is the camp by the spring ahead. We could rest.",
+          "DM: I was hoping to rest there, yes.",
+          "Wellby: [garbled]."
+        ],
+        "after": [
+          "Wellby: We searched the giants' camp before we go.",
+          "DM: Yeah, sure, I'm making a Perception check. I mean there's—it doesn't seem like it's been here for that long. Um you know there's a handful of of animal bones scattered around, mostly it seems like you know vultures, both giant and normal, that they shoot down as they soar past. The occasional bones of a larger animal, maybe some sort of antelope or something like that. But you know it seems like this as this group whatever it is moved in relatively recently and has been just killing whatever came to drink from the spring, eating it and not getting that much to eat, so were presumably hungry and happy to eat fresh meat of some kind. But it doesn't you know it smells horrible, and there's nothing there's no like treasure information other than that to find. Amil is eager to press on despite the heat of the day. So.",
+          "Delwath: I'm.",
+          "DM: Given almost at one o'clock…",
+          "Delwath: Yeah, I was gonna say, I think it's um I don't think I can do what I can do the…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i031",
+      "title": "Amil brings the party to his masters",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3179",
+        "endUid": "u3190"
+      },
+      "lines": [
+        "%% u3179:0-34, u3180:0-21, u3181:0-53, u3182:0-33, u3183:0-73, u3184:0-102, u3185:0-12, u3186:0-8, u3187:0-23, u3188:0-184, u3189:0-93, u3190:0-40 %%",
+        "DM: Amil looks excited to be here and and pleased, and says, 'I'll I'll tell them I'll tell them were here, and and and I'm sure there'll be excited.' And as he rushes up and start speaking at the door, stepping out from the door of the stone house and waving and greeting to you are two old men wearing gray-silver robes like like Amil’s. Why one maybe slightly younger, and weathered skin, bald, leaning on a staff; the other slightly older, paler skin, with short-cropped gray hair, standing against the side of the wall. And as they look, seeing you approach, the older ones eyes fall on Delwath, and he lights up, and you can tell that he recognizes you. And with that, we will end for the night.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, sure, I'm making a Perception check. I mean there's—it doesn't seem like it's been here for that long. Um you know there's a handful of of animal bones scattered around, mostly it seems like you know vultures, both giant and normal, that they shoot down as they soar past. The occasional bones of a larger animal, maybe some sort of antelope or something like that. But you know it seems like this as this group whatever it is moved in relatively recently and has been just killing whatever came to drink from the spring, eating it and not getting that much to eat, so were presumably hungry and happy to eat fresh meat of some kind. But it doesn't you know it smells horrible, and there's nothing there's no like treasure information other than that to find. Amil is eager to press on despite the heat of the day. So.",
+          "Delwath: I'm.",
+          "DM: Given almost at one o'clock…",
+          "Delwath: Yeah, I was gonna say, I think it's um I don't think I can do what I can do the…",
+          "DM: We're not going to do— I'm just gonna get you to the door, and we're gonna stop. So um yeah we're definitely not going to do that tonight. So as you continue, now in the afternoon of your second day of travel after leaving Bas Udda, you head now into sandier, sandier desert, turning more directly south after the top of this canyon. And despite the heat of the sun, after about a you know a few hours' travel, by four, 4:30 in the afternoon, as the sun's rays are beginning to sink a little bit, you see the stone house in front of you. The long shadows cast from this two-story building with a like a small pen out front, colorful awnings casting shade for the livestock, a well, and a you know a little outbuilding at a store of grain or water or something in a few barrels in the back."
+        ],
+        "after": [
+          "Seeker: Yeah.",
+          "Unknown: That's fun.",
+          "Delwath: Awesome, yeah.",
+          "Kenzo: We're getting really good at killing things.",
+          "Seeker: Yes, and also creating situations and…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-time-markers.json",
+    "sha256": "514447951f5090f6dadcec22b91e1b6c00c233c7b33a849dc782227586b01944"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-transcript.md",
+    "sha256": "25d5cddc862dbcafdb869494f751b26e8a80e356383981ae674fa35fca1b09d2"
+  },
+  "dateAssessment": "Working dates preserve the human decisions in the existing Session 19 timeline review: April 24 opening, April 25–26 preparations, April 27 departure, April 29 Bas Udda arrival after a full April 28 travel day, April 30 departure, and May 2 arrival at the masters’ house. The transcript says April 28 at t12 and compresses that first journey; its transcript-only time extraction reports a conflict with the YAML end, because that spoken date implies an April 30 or May 1 endpoint. The preserved human chronology decision already resolves this discrepancy for campaign use; it is not a new open review issue. The adopted second-day reading counts full days after the partial April 30 departure. At t19, the later late-morning description supersedes “evening.” All watches are approximate where no clock is spoken; the private mirror breakout is absent from the registered transcript.",
+  "watches": [
+    {
+      "day": "April 24, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Early-evening camp conversation continues into sunset.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-04-24",
+      "endDate": "1748-04-24"
+    },
+    {
+      "day": "April 25, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Havdar visits while the party gathers belongings the next morning.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-04-25",
+      "endDate": "1748-04-25"
+    },
+    {
+      "day": "April 25–26, 1748",
+      "startWatch": null,
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "The preparation montage ends with the quiet final evening before departure.",
+      "markers": [
+        "t04",
+        "t06"
+      ],
+      "startDate": "1748-04-25",
+      "endDate": "1748-04-26"
+    },
+    {
+      "day": "April 27, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Early-morning errands precede Havdar’s first-light departure; everyone returns to camp.",
+      "markers": [
+        "t05",
+        "t07",
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "startDate": "1748-04-27",
+      "endDate": "1748-04-27",
+      "sourceRanges": [
+        [
+          "u0726",
+          "u0738"
+        ]
+      ]
+    },
+    {
+      "day": "April 27, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The long first riding day ends in camp; the travel pattern places camp after sunset.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-04-27",
+      "endDate": "1748-04-27"
+    },
+    {
+      "day": "April 29, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "A lunch short rest precedes arrival around midday; the postbattle break follows in the heat.",
+      "markers": [
+        "t12",
+        "t13",
+        "t14"
+      ],
+      "startDate": "1748-04-29",
+      "endDate": "1748-04-29"
+    },
+    {
+      "day": "April 29, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Body recovery is working efficiently by the middle of the afternoon.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1748-04-29",
+      "endDate": "1748-04-29"
+    },
+    {
+      "day": "April 29, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The pyre and Amil’s funeral service are ready by sunset.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1748-04-29",
+      "endDate": "1748-04-29"
+    },
+    {
+      "day": "April 30, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The morning body check follows the village overnight; eight-hour long-rest credit applies retrospectively.",
+      "markers": [
+        "t17",
+        "t20"
+      ],
+      "startDate": "1748-04-30",
+      "endDate": "1748-04-30"
+    },
+    {
+      "day": "April 30, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Leave Bas Udda after the midday heat; only the remaining afternoon is traveled.",
+      "markers": [
+        "t18"
+      ],
+      "startDate": "1748-04-30",
+      "endDate": "1748-04-30"
+    },
+    {
+      "day": "May 2, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Canyon approach is corrected to late morning, before the customary shade break.",
+      "markers": [
+        "t19"
+      ],
+      "startDate": "1748-05-02",
+      "endDate": "1748-05-02"
+    },
+    {
+      "day": "May 2, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "A few more hours of travel end at the stone house around 4–4:30 p.m.",
+      "markers": [
+        "t21"
+      ],
+      "startDate": "1748-05-02",
+      "endDate": "1748-05-02"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Preserved human chronology decisions",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-timeline-review.json",
+      "sha256": "e4d8f6cc190b8d13eaf4e8ddb8043c0c0f74c28ee6cdbd2c51728607b9453bab"
+    }
+  ]
+}

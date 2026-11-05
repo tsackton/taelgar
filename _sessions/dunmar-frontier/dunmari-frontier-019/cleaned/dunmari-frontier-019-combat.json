@@ -1,0 +1,604 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-019",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+    "sessionYamlSha256": "ffc202d12600498d5220ac9a02f0c0c1306ef026f9c718f8585075cd8b66e023",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-transcript.md",
+    "transcriptSha256": "25d5cddc862dbcafdb869494f751b26e8a80e356383981ae674fa35fca1b09d2",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-segments.json",
+      "sha256": "226b35982869837c4e9a5871d1f1071d33ed22752cdcb14eddefb669aa0da5df",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s011",
+      "encounter": "Giant vultures at Bas Udda",
+      "note": "The two diving vultures receive attacks before the regular initiative cycle; the other five act after Kenzo.",
+      "openingActions": [
+        {
+          "actor": "Two diving giant vultures",
+          "kind": "turn",
+          "summary": "Attack Wellby with talons for 5 damage; the second grapples him after an Acrobatics check but has no movement left.",
+          "evidence": [
+            {
+              "startUid": "u1247",
+              "endUid": "u1260"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Shatter between the two vultures; both fail Constitution saves and are badly wounded. Wellby is sheltered from the effect. Moves to the temple entrance but cannot yet enter.",
+              "evidence": [
+                {
+                  "startUid": "u1267",
+                  "endUid": "u1292"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Kills the ungrappling vulture with his quarterstaff, then kills the one holding Wellby with a bonus unarmed strike, freeing Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u1293",
+                  "endUid": "u1311"
+                }
+              ]
+            },
+            {
+              "actor": "Five remaining giant vultures",
+              "kind": "turn",
+              "summary": "One dives at Kenzo: its beak misses, but it grapples him after an Acrobatics check and carries him 10 feet into the air. The other four fly away.",
+              "evidence": [
+                {
+                  "startUid": "u1313",
+                  "endUid": "u1345"
+                }
+              ]
+            },
+            {
+              "actor": "Havdar",
+              "kind": "turn",
+              "summary": "Orders an arrow volley, rushes forward and throws a spear at Kenzo’s captor. Hits despite disadvantage for 5 damage, then commands Kenzo to make a weapon attack using his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u1341",
+                  "endUid": "u1367"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Uses Havdar’s granted reaction attack to make an unarmed strike for 12 bludgeoning damage, including 6 additional damage from the command; remains grappled.",
+              "evidence": [
+                {
+                  "startUid": "u1369",
+                  "endUid": "u1401"
+                }
+              ]
+            },
+            {
+              "actor": "Havdar’s troops",
+              "kind": "turn",
+              "summary": "Their arrow volley kills one fleeing vulture and wounds the others. They deliberately avoid shooting Kenzo’s captor.",
+              "evidence": [
+                {
+                  "startUid": "u1391",
+                  "endUid": "u1401"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Teleports onto the vulture carrying Kenzo and hits with his shadow blade using Booming Blade, badly wounding it. No curse or additional Booming Blade damage applies.",
+              "evidence": [
+                {
+                  "startUid": "u1402",
+                  "endUid": "u1434"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Stays still and uses Steady Aim to cancel long-range disadvantage against a fleeing vulture about 100 feet up; his shortbow shot misses.",
+              "evidence": [
+                {
+                  "startUid": "u1435",
+                  "endUid": "u1445"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Enters the temple and discovers a person cowering inside, later introduced as Amil.",
+              "evidence": [
+                {
+                  "startUid": "u1446",
+                  "endUid": "u1455"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Breaks free of the grapple with Acrobatics and succeeds on another easy Acrobatics check to climb onto the vulture’s back. Kills it with an unarmed strike. Delwath takes 2 falling damage; Kenzo takes none.",
+              "evidence": [
+                {
+                  "startUid": "u1456",
+                  "endUid": "u1501"
+                }
+              ]
+            },
+            {
+              "actor": "Havdar’s troops",
+              "kind": "turn",
+              "summary": "Unleash another volley, killing one more vulture; the two survivors escape beyond bow range.",
+              "evidence": [
+                {
+                  "startUid": "u1502",
+                  "endUid": "u1510"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Five of the seven vultures are killed and two escape. Havdar goes to organize a watch before joining the party in the temple.",
+        "evidence": [
+          {
+            "startUid": "u1502",
+            "endUid": "u1510"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s015",
+      "encounter": "Three ogres in the canyon",
+      "note": "The pursuit uses repeated movement turns before the initiative roll. Two additional ogres join the regular cycle in round 3, acting before Delwath.",
+      "openingActions": [
+        {
+          "actor": "Wellby and chain-wielding ogre",
+          "kind": "turn",
+          "summary": "Wellby retreats at 75 feet per turn with Cunning Action while the ogre runs at 80. Over four turns the ogre closes 20 feet of the initial 40-foot gap; Wellby reaches his companions with it 20 feet behind.",
+          "evidence": [
+            {
+              "startUid": "u2248",
+              "endUid": "u2290"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath",
+          "kind": "turn",
+          "summary": "Casts Armor of Agathys before Wellby comes around the corner.",
+          "evidence": [
+            {
+              "startUid": "u2291",
+              "endUid": "u2292"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Climbs a canyon wall to a ledge about 20 feet high, with climbing treated as difficult terrain, then uses Soulsight on the chain-wielding ogre. Its result is not spoken aloud.",
+              "evidence": [
+                {
+                  "startUid": "u2323",
+                  "endUid": "u2355"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Mirror Image, producing three shifting duplicates, and stays where he is.",
+              "evidence": [
+                {
+                  "startUid": "u2371",
+                  "endUid": "u2398"
+                }
+              ]
+            },
+            {
+              "actor": "Chain-wielding ogre",
+              "kind": "turn",
+              "summary": "Runs toward Wellby and hits him with its chain for 12 damage. Wellby receives advantage on the Constitution save after the chase adjudication and succeeds, avoiding unconsciousness.",
+              "evidence": [
+                {
+                  "startUid": "u2399",
+                  "endUid": "u2438"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Undoes the proposed move and casts Heat Metal on the chain. The ogre keeps holding it as its hands burn, suffers disadvantage on attacks, and is ruled to keep taking fire damage each turn until it drops the chain. Gives Wellby a living inspiration rune: a d6 added to a d20 roll, with additional effects.",
+              "evidence": [
+                {
+                  "startUid": "u2493",
+                  "endUid": "u2519"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hides successfully in the shadows beside the rocks, then emerges to shoot the ogre for 14 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2520",
+                  "endUid": "u2528"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs along the ledge, easily jumps the five-foot gap, and launches an energy blast from within 30 feet. The ogre succeeds on its save, takes 11 damage (half), and is not knocked over or back.",
+              "evidence": [
+                {
+                  "startUid": "u2532",
+                  "endUid": "u2557"
+                }
+              ]
+            },
+            {
+              "actor": "Other two ogres",
+              "kind": "event",
+              "summary": "Thudding footsteps announce their approach from the other side of the canyon.",
+              "evidence": [
+                {
+                  "startUid": "u2555",
+                  "endUid": "u2558"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves beside Wellby and readies a step forward and sword attack when the ogre comes within 10 feet; the DM allows this combined movement and attack. Does not curse it.",
+              "evidence": [
+                {
+                  "startUid": "u2559",
+                  "endUid": "u2581"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "As the ogre advances, steps forward and hits it before the chain sweep. Damage is corrected from 10 to 8 because the ogre is not cursed.",
+              "evidence": [
+                {
+                  "startUid": "u2582",
+                  "endUid": "u2592"
+                }
+              ]
+            },
+            {
+              "actor": "Chain-wielding ogre",
+              "kind": "turn",
+              "summary": "Advances and sweeps its chain at Wellby and Delwath. Wellby succeeds on his Dexterity save and takes 5 damage, half. One of Delwath’s duplicates is destroyed, leaving two, and Delwath is unharmed. The ogre also takes 11 fire damage from Heat Metal on this turn.",
+              "evidence": [
+                {
+                  "startUid": "u2582",
+                  "endUid": "u2602"
+                },
+                {
+                  "startUid": "u2612",
+                  "endUid": "u2620"
+                }
+              ],
+              "note": "The later Mirror Image rules discussion does not reverse the resolved loss of one duplicate."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Abandons Suggestion to preserve concentration on Heat Metal. Climbs partway up the difficult canyon wall, then uses Mold Earth to raise a five-foot sand barrier at the choke point and asks Kenzo to distract the ogres.",
+              "evidence": [
+                {
+                  "startUid": "u2603",
+                  "endUid": "u2662"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Climbs, uses Cunning Action to climb farther, and shoots without advantage. Sneak Attack still applies because Delwath is adjacent; the arrow kills the chain-wielding ogre.",
+              "evidence": [
+                {
+                  "startUid": "u2663",
+                  "endUid": "u2687"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves along the ledge about 20 feet above the canyon, uses Soulsight on the leading new ogre, and loudly draws its attention. The Soulsight result is sent privately.",
+              "evidence": [
+                {
+                  "startUid": "u2692",
+                  "endUid": "u2739"
+                }
+              ]
+            },
+            {
+              "actor": "Amil",
+              "kind": "event",
+              "summary": "Has run more than 50 feet back around the canyon corner and is out of sight, intending to continue to safety farther away.",
+              "evidence": [
+                {
+                  "startUid": "u2743",
+                  "endUid": "u2752"
+                }
+              ]
+            },
+            {
+              "actor": "Leading ogre",
+              "kind": "turn",
+              "summary": "Comes around the corner and throws a javelin at Kenzo; a 17 hits.",
+              "evidence": [
+                {
+                  "startUid": "u2748",
+                  "endUid": "u2755"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Uses Deflect Missiles, reducing the javelin’s damage to 1. Cannot catch or return it because damage was not reduced to zero; no ki is spent.",
+              "evidence": [
+                {
+                  "startUid": "u2756",
+                  "endUid": "u2768"
+                }
+              ]
+            },
+            {
+              "actor": "Rear ogre",
+              "kind": "turn",
+              "summary": "Runs up and throws a javelin at Kenzo, missing with a 13. Kenzo has already used his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u2765",
+                  "endUid": "u2773"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Abandons crossing the five-foot wall, stays in place, curses the front ogre and casts Eldritch Blast at it.",
+              "evidence": [
+                {
+                  "startUid": "u2775",
+                  "endUid": "u2798"
+                }
+              ],
+              "note": "The response to the blast is garbled; hit and damage are not recoverable."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Climbs beside Kenzo and casts Suggestion at the leading ogre, telling it to fight its companion over the snack. The ogre succeeds on its Wisdom save and ignores the suggestion. Gives Kenzo inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u2799",
+                  "endUid": "u2828"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes careful aim and shoots, but misses after Halfling Luck rerolls a natural 1 into another 1.",
+              "evidence": [
+                {
+                  "startUid": "u2829",
+                  "endUid": "u2866"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Remains on the ledge and makes a ranged attack that misses.",
+              "evidence": [
+                {
+                  "startUid": "u2867",
+                  "endUid": "u2900"
+                }
+              ],
+              "note": "The attack’s specific ability is unclear in the recorded speech; the jump into melee remains a proposal this turn."
+            },
+            {
+              "actor": "Leading ogre",
+              "kind": "turn",
+              "summary": "Charges the sand wall, trips and falls, ending its forward movement. Stands and throws its last javelin at Kenzo, hitting for 12 damage before deflection.",
+              "evidence": [
+                {
+                  "startUid": "u2901",
+                  "endUid": "u2914"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Catches the javelin, reducing its damage to zero, and spends ki to return it. The returned javelin hits the ogre’s shoulder; damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u2915",
+                  "endUid": "u2929"
+                }
+              ]
+            },
+            {
+              "actor": "Rear ogre",
+              "kind": "turn",
+              "summary": "Cannot advance past its companion, so throws its remaining javelin at Delwath and misses. Possible half cover does not affect the outcome.",
+              "evidence": [
+                {
+                  "startUid": "u2932",
+                  "endUid": "u2939"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Charges the cursed front ogre and hits with Green-Flame Blade for 12 damage; green fire deals 4 fire damage to the rear ogre.",
+              "evidence": [
+                {
+                  "startUid": "u2940",
+                  "endUid": "u2964"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Examines the rock briefly with Intelligence plus proficiency, then casts Shatter at both ogres; both fail Constitution saves. Wins the contested spellcasting check automatically against the DM’s roll of 4, triggering a rockslide. An ogre succeeds on its Dexterity save and dodges the falling rubble; rubble creates difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u2965",
+                  "endUid": "u3017"
+                }
+              ],
+              "note": "Spell damage is not spoken, and the map-pointed rockslide target is not unambiguously identified."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes careful aim and shoots the front ogre through the skull, killing it.",
+              "evidence": [
+                {
+                  "startUid": "u3018",
+                  "endUid": "u3024"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Jumps down onto and behind the remaining ogre. Chooses disadvantage with doubled damage for the staff strike and hits for 14 (7 doubled), then hits with a bonus unarmed strike; that strike’s damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u3030",
+                  "endUid": "u3060"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining ogre",
+              "kind": "turn",
+              "summary": "Turns and swings its greatclub at Kenzo, missing with 16 against AC 17.",
+              "evidence": [
+                {
+                  "startUid": "u3058",
+                  "endUid": "u3064"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves up and hits with Booming Blade. The damage is corrected to 15 slashing; no movement-triggered extra damage is applied.",
+              "evidence": [
+                {
+                  "startUid": "u3065",
+                  "endUid": "u3082"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts first-level Healing Word on Wellby, healing 8.",
+              "evidence": [
+                {
+                  "startUid": "u3083",
+                  "endUid": "u3092"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves closer and shoots without advantage. The initial miss becomes a hit after adding the inspiration d6; Seeker’s rune travels with the arrow and explodes for 5 additional damage, killing the final ogre.",
+              "evidence": [
+                {
+                  "startUid": "u3093",
+                  "endUid": "u3121"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All three ogres are dead, each finished by Wellby’s arrows; Seeker’s inspiration rune helps deliver the final killing shot.",
+        "evidence": [
+          {
+            "startUid": "u3111",
+            "endUid": "u3121"
+          }
+        ]
+      }
+    }
+  ]
+}

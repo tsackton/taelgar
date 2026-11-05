@@ -1,0 +1,767 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-019",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+    "sessionYamlSha256": "ffc202d12600498d5220ac9a02f0c0c1306ef026f9c718f8585075cd8b66e023",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-transcript.md",
+    "transcriptSha256": "25d5cddc862dbcafdb869494f751b26e8a80e356383981ae674fa35fca1b09d2"
+  },
+  "places": {
+    "p01": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0316",
+          "endUid": "u0322",
+          "quote": "DM: We'll pick up in the early evening, as you are sitting together in the in your small camp in Karawa, yeah the ruined remains of Ikram's caravanserai. After spending most the afternoon first talking to Candrosa, and then you stop for a moment, briefly to speak with Havdar, who is grateful to hear that you, at least for now, intend to travel with him. He still needs a few days, one or perhaps three, to finish gathering supplies and organizing this expedition. So you have at least a little bit of time in Karawa before the journey begins."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p02": {
+      "label": "Camp in the ruins of Ikram’s caravanserai",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0316",
+          "endUid": "u0322",
+          "quote": "DM: We'll pick up in the early evening, as you are sitting together in the in your small camp in Karawa, yeah the ruined remains of Ikram's caravanserai. After spending most the afternoon first talking to Candrosa, and then you stop for a moment, briefly to speak with Havdar, who is grateful to hear that you, at least for now, intend to travel with him. He still needs a few days, one or perhaps three, to finish gathering supplies and organizing this expedition. So you have at least a little bit of time in Karawa before the journey begins."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Ikram's.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0316",
+              "endUid": "u0322",
+              "quote": "DM: We'll pick up in the early evening, as you are sitting together in the in your small camp in Karawa, yeah the ruined remains of Ikram's caravanserai. After spending most the afternoon first talking to Candrosa, and then you stop for a moment, briefly to speak with Havdar, who is grateful to hear that you, at least for now, intend to travel with him. He still needs a few days, one or perhaps three, to finish gathering supplies and organizing this expedition. So you have at least a little bit of time in Karawa before the journey begins."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Temple of Shakun",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0626",
+          "endUid": "u0633",
+          "quote": "Seeker: Well, Seeker will just kind of like awkwardly linger in near the temple, especially searching for that the grain boundary that shows you that weird age difference between the mesa and the temple."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0617",
+              "endUid": "u0633",
+              "quote": "DM: Yeah, so that is there anything you— besides speaking to… so you can find stuff you know where you want to store—speak to Havdar in the morning. Is there anything else you want to do in Karawa before you head out? Oh."
+            }
+          ]
+        },
+        {
+          "relation": "partly_within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0629",
+              "endUid": "u0633",
+              "quote": "the front that's carved into mesa"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Forecourt of the Temple of Shakun",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u0629",
+          "endUid": "u0643",
+          "quote": "DM: Ah, OK I'm just standing around just like standing around the front of the temple. So the temple is like so there's a there's like the front that's carved into mesa, kind of like that in my background, and then there's like along the sides there's a couple of have like one- or two-story outbuildings. And that's where like you know the the temple itself sticks out from the mesa, and then these outbuildings are sort of where this conference room where you've met Candrosa a few times are you know there's like a public chapel to Shakun."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0634",
+              "endUid": "u0639",
+              "quote": "DM: But there's like a little plaza in between the main face of the temple, where the doors— there's like you can go inside some columns get down their doors are all shut— and these outbuildings. It's kind of a little bit of a separate space apart from the from the from the oasis, which is next to it. And, as your sort of set your sort of standing there and inspecting the the walls, that you had after like this evening, like after…"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Red Mesa",
+      "kind": "mesa",
+      "evidence": [
+        {
+          "startUid": "u1005",
+          "endUid": "u1016",
+          "quote": "DM: And so you set off. The ride initially, as you begin to head southeast of Karawa, is—the land is not so different than then, where you, you know, then Karawa: right, it's it's sort of dry canyon land, it's you know occasional scrub. And all through the long first day, as you ride hard directly southwest along the track that leads to Bas Udda, the bulk of the Red Mesa is hanging in the I guess on your right-hand side and somewhat behind you. This I mean this mesa is huge, it's miles across, maybe maybe 20 even 20, 30 miles long and half that wide, and it really dominates the horizon for quite some distance as you travel south. I'm."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md"
+    },
+    "p06": {
+      "label": "Bas Udda",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u1026",
+          "endUid": "u1039",
+          "quote": "DM: The next morning, so this would be— let me make sure I'm keeping track of time here— so this would be so April 28. You approach around mid day after lunch, after just a quick break for some food and a short rest and to water the horses."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Bas Udda.md"
+    },
+    "p07": {
+      "label": "Temple of the Five Siblings",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u1065",
+          "endUid": "u1068",
+          "quote": "DM: The only part of it that is still standing really seems to be the temple in the center of town, the temple of the five divine siblings of the Dunmari. A there's a small cluster of houses near the temple that still have intact roofs, but the temple itself seems to have been cleaned up a bit, actually. Um."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1065",
+              "endUid": "u1068",
+              "quote": "the temple in the center of town"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Canyon on the route to the stone house",
+      "kind": "canyon",
+      "evidence": [
+        {
+          "startUid": "u2057",
+          "endUid": "u2066",
+          "quote": "DM: Quiet, hot, just passing through the desert, heading sort of south-southwest— roughly south-southeast, roughly. The terrain here is very you know it's lots of open expanses of just dry, rocky sand, and then there's the occasional canyon. And you find more life and vegetation in this canyons, as there's more shade, and what little moisture there is collects. You know, hardy trees sometimes grow, and there does seem to be some little lakes, you know fingers of underground water that stretch out from Bas Udda, because occasionally you'll find a canyon that has a little bit of a spring in it or something like that. I'm in the evening of the second day, as you're approaching towards heading towards {{bass}}…"
+        }
+      ],
+      "note": "Unnamed canyon reached while traveling from Bas Udda toward the masters’ house; no canonical canyon identity or coordinates are established."
+    },
+    "p09": {
+      "label": "Spring and ogres’ camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u2176",
+          "endUid": "u2199",
+          "quote": "DM: So so Wellby like creeps along in the shadows. So it's actually not—it's actually a relatively good place for a halfling to hide, because pressed up against the wall of the canyon, the shadows, even with the noon sun, the shadows are sufficient that you can just kind of creep along. And you travel maybe three 400 feet up to the to where the the spring is that that Amil was was telling you about. And there is a little spring bubbling out, and there's a rock overhang that provide some shade. And draped in front of the rock overhang is like crudely stitched-together like curtain of hide and skin, like falling down, like very poorly made. Like lights coming through it, and it seems to be like blocking off a little area around the— you know somebody or somebody is sleeping underneath that rock overhang. And then sort of resting, snoring…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u2176",
+              "endUid": "u2185",
+              "quote": "the wall of the canyon"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Shelter behind the hide curtain",
+      "kind": "shelter",
+      "evidence": [
+        {
+          "startUid": "u2176",
+          "endUid": "u2185",
+          "quote": "DM: So so Wellby like creeps along in the shadows. So it's actually not—it's actually a relatively good place for a halfling to hide, because pressed up against the wall of the canyon, the shadows, even with the noon sun, the shadows are sufficient that you can just kind of creep along. And you travel maybe three 400 feet up to the to where the the spring is that that Amil was was telling you about. And there is a little spring bubbling out, and there's a rock overhang that provide some shade. And draped in front of the rock overhang is like crudely stitched-together like curtain of hide and skin, like falling down, like very poorly made. Like lights coming through it, and it seems to be like blocking off a little area around the— you know somebody or somebody is sleeping underneath that rock overhang. And then sort of resting, snoring…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2176",
+              "endUid": "u2185",
+              "quote": "DM: So so Wellby like creeps along in the shadows. So it's actually not—it's actually a relatively good place for a halfling to hide, because pressed up against the wall of the canyon, the shadows, even with the noon sun, the shadows are sufficient that you can just kind of creep along. And you travel maybe three 400 feet up to the to where the the spring is that that Amil was was telling you about. And there is a little spring bubbling out, and there's a rock overhang that provide some shade. And draped in front of the rock overhang is like crudely stitched-together like curtain of hide and skin, like falling down, like very poorly made. Like lights coming through it, and it seems to be like blocking off a little area around the— you know somebody or somebody is sleeping underneath that rock overhang. And then sort of resting, snoring…"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Pava and Avaras’ stone house",
+      "kind": "house",
+      "evidence": [
+        {
+          "startUid": "u1570",
+          "endUid": "u1581",
+          "quote": "My master's Pava and Avaras, they live south east of here."
+        },
+        {
+          "startUid": "u3169",
+          "endUid": "u3190",
+          "quote": "DM: We're not going to do— I'm just gonna get you to the door, and we're gonna stop. So um yeah we're definitely not going to do that tonight. So as you continue, now in the afternoon of your second day of travel after leaving Bas Udda, you head now into sandier, sandier desert, turning more directly south after the top of this canyon. And despite the heat of the sun, after about a you know a few hours' travel, by four, 4:30 in the afternoon, as the sun's rays are beginning to sink a little bit, you see the stone house in front of you. The long shadows cast from this two-story building with a like a small pen out front, colorful awnings casting shade for the livestock, a well, and a you know a little outbuilding at a store of grain or water or something in a few barrels in the back."
+        }
+      ],
+      "note": "The vault confirms the named residence. The transcript establishes arrival at the house and a doorstep greeting, not entry.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0316",
+        "endUid": "u0322"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is camped in the ruined caravanserai in Karawa.",
+      "evidence": [
+        {
+          "startUid": "u0316",
+          "endUid": "u0322",
+          "quote": "DM: We'll pick up in the early evening, as you are sitting together in the in your small camp in Karawa, yeah the ruined remains of Ikram's caravanserai. After spending most the afternoon first talking to Candrosa, and then you stop for a moment, briefly to speak with Havdar, who is grateful to hear that you, at least for now, intend to travel with him. He still needs a few days, one or perhaps three, to finish gathering supplies and organizing this expedition. So you have at least a little bit of time in Karawa before the journey begins."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0626",
+        "endUid": "u0643"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker inspects the temple walls from the forecourt; the scene is moved from evening to morning, without establishing access to the closed interior.",
+      "evidence": [
+        {
+          "startUid": "u0626",
+          "endUid": "u0628",
+          "quote": "Seeker: Well, Seeker will just kind of like awkwardly linger in near the temple, especially searching for that the grain boundary that shows you that weird age difference between the mesa and the temple."
+        },
+        {
+          "startUid": "u0634",
+          "endUid": "u0639",
+          "quote": "DM: But there's like a little plaza in between the main face of the temple, where the doors— there's like you can go inside some columns get down their doors are all shut— and these outbuildings. It's kind of a little bit of a separate space apart from the from the from the oasis, which is next to it. And, as your sort of set your sort of standing there and inspecting the the walls, that you had after like this evening, like after…"
+        },
+        {
+          "startUid": "u0640",
+          "endUid": "u0643",
+          "quote": "Seeker: I’ll do it in the morning."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0803",
+        "endUid": "u0804"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo leaves the camp alone to check the mirror; the off-record breakout provides no visible endpoint or vision contents.",
+      "evidence": [
+        {
+          "startUid": "u0803",
+          "endUid": "u0804",
+          "quote": "DM: The last day before, like the last morning, just before you're getting ready to go, Kenzo sort of slips off to check the mirror. Are you going by—is everybody coming with you, are you going by yourself?"
+        }
+      ],
+      "from": "p02",
+      "to": null,
+      "completion": "underway"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0937",
+        "endUid": "u0938"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo returns to the departure camp.",
+      "evidence": [
+        {
+          "startUid": "u0937",
+          "endUid": "u0938",
+          "quote": "DM: So Kenzo returns to camp as the rest of you are packing up, getting waiting for Havdar and his troop to get ready to head out."
+        }
+      ],
+      "from": null,
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0945",
+        "endUid": "u0955"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Before departure, Delwath and Wellby leave the camp to speak to Tharandros in Karawa; the precise meeting site is not stated.",
+      "evidence": [
+        {
+          "startUid": "u0945",
+          "endUid": "u0950",
+          "quote": "Delwath: Delwath is going to when he wakes up, he's gonna walk a little bit. He clearly something on his mind, when he wakes up and he's going to tell everybody else there's just there's a there's a question he has to ask the Tharandros. And you know, keep getting ready. To that the centaur, Tharandros— just combined two people. And that he's…"
+        },
+        {
+          "startUid": "u0951",
+          "endUid": "u0955",
+          "quote": "Wellby: Gonna come along. I think I have a question to ask too."
+        },
+        {
+          "startUid": "u0959",
+          "endUid": "u0971",
+          "quote": "DM: Ah, OK so Wellby, what do you want to ask Tharandros?"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0954",
+        "endUid": "u0958"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "While the others are on their morning errands, Seeker takes a final look at the temple using Stone Sight. No new observed interior or physical entry is described.",
+      "evidence": [
+        {
+          "startUid": "u0939",
+          "endUid": "u0939",
+          "quote": "Seeker: And my scratching and scratching of the mesa didn't turn up anything this time?"
+        },
+        {
+          "startUid": "u0954",
+          "endUid": "u0958",
+          "quote": "DM: So while Kenzo’s off doing something, Delwath wanders off to speak with Tharandros, and Wellby follows. And Seeker takes one last— what are you using your your Stone Sight, or or are you just like looking?"
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0989",
+        "endUid": "u0989"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Everyone returns to camp after the last-minute errands.",
+      "evidence": [
+        {
+          "startUid": "u0989",
+          "endUid": "u0989",
+          "quote": "DM: So everyone returns to camp after their last-minute missions."
+        }
+      ],
+      "from": null,
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1005",
+        "endUid": "u1016"
+      },
+      "actors": [
+        "party",
+        "Havdar",
+        "Havdar’s troops"
+      ],
+      "reading": "Ride from Karawa to Bas Udda, camping en route and arriving in the ruined town after lunch.",
+      "evidence": [
+        {
+          "startUid": "u1005",
+          "endUid": "u1016",
+          "quote": "DM: And so you set off. The ride initially, as you begin to head southeast of Karawa, is—the land is not so different than then, where you, you know, then Karawa: right, it's it's sort of dry canyon land, it's you know occasional scrub. And all through the long first day, as you ride hard directly southwest along the track that leads to Bas Udda, the bulk of the Red Mesa is hanging in the I guess on your right-hand side and somewhat behind you. This I mean this mesa is huge, it's miles across, maybe maybe 20 even 20, 30 miles long and half that wide, and it really dominates the horizon for quite some distance as you travel south. I'm."
+        },
+        {
+          "startUid": "u1017",
+          "endUid": "u1025",
+          "quote": "DM: The first day you make camp—about let's see, it's how far is this? So it's about 60 miles to Bas Udda, and you can you let you cover about two-thirds of that on the first day. So you make camp about about 15, 20 miles from Bas Udda, intending to arrive there by midday midday the next day and have some time to investigate and take a look at the town before turning east into the barren wastes of the blasted plain of the Nashtkar, where everything is dryer and dustier and there is little shelter from the heat, especially now, the driest part of the year before before you know before the rains of summer comes. So, and if there's any like if there's anything you want to do on the journey before you get the Bas Udda, I feel free to interrupt me. But otherwise I'll just narrate it, because it doesn't seem worth role playing every moment."
+        },
+        {
+          "startUid": "u1026",
+          "endUid": "u1039",
+          "quote": "DM: The next morning, so this would be— let me make sure I'm keeping track of time here— so this would be so April 28. You approach around mid day after lunch, after just a quick break for some food and a short rest and to water the horses."
+        },
+        {
+          "startUid": "u1173",
+          "endUid": "u1174",
+          "quote": "DM: We’re in town, I mean…"
+        }
+      ],
+      "from": "p02",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Follow the southward track; narration says southeast and southwest without resolving that compass discrepancy."
+        },
+        {
+          "reading": "Pass with the Red Mesa on the right and behind; no ascent is narrated.",
+          "place": "p05"
+        },
+        {
+          "reading": "Camp for the night about 15–20 miles from Bas Udda."
+        }
+      ],
+      "distance": {
+        "value": 60,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s stated distance from Karawa to Bas Udda."
+      }
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1446",
+        "endUid": "u1455"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker enters the temple during the vulture fight and finds a frightened young man inside.",
+      "evidence": [
+        {
+          "startUid": "u1446",
+          "endUid": "u1455",
+          "quote": "Seeker: Oh. Um I sort of look up at the now two people hanging off of the flying vulture, which is also squirting blood out, and chuckle a little bit and enter the temple."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1523",
+        "endUid": "u1534"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "The other PCs join Seeker inside the temple shortly after the battle; Kenzo’s entry is explicit.",
+      "evidence": [
+        {
+          "startUid": "u1523",
+          "endUid": "u1527",
+          "quote": "DM: And the person that Dunmari who is kind of cowering in here, seeing a dwarf enter, hearing the sounds of battle— presumably the rest of you enter relatively shortly…"
+        },
+        {
+          "startUid": "u1529",
+          "endUid": "u1534",
+          "quote": "DM: Just his eyes just go incredibly wide. And then you see as Kenzo walk in and he, like immediately latches on to you. And he sort of looks up like, 'Myths and legends walking the land! What what is this? What's happening?'"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u1844",
+        "endUid": "u1862"
+      },
+      "actors": [
+        "party",
+        "Amil",
+        "Havdar’s troops"
+      ],
+      "reading": "The party and warriors work among Bas Udda’s collapsed houses to recover bodies, then gather for Amil’s sunset pyre service.",
+      "evidence": [
+        {
+          "startUid": "u1844",
+          "endUid": "u1854",
+          "quote": "DM: So he is super grateful. I mean, nobody's really working— everybody takes a break after the battle in and like most intense heat of the, of the day of the sun. But by you know the middle of the afternoon, as it starts to cool down a bit, right is everybody's operating pretty efficiently, and his his you know his warriors his his troop is pretty well kind of organized. You know, mostly it's it's like you know all of the sort of easy people to recover have have been recovered, and he's already done with that. And now there's one section of the village where the you know the roofs had all collapsed, and there seems to be a number of people who who had died in in that collapse. Though that’s his past few days. So with the addition of 20 you know skilled warriors and Seeker’s shaping ability…"
+        },
+        {
+          "startUid": "u1856",
+          "endUid": "u1862",
+          "quote": "DM: Right, this goes quite quickly. And by by evening, you know he's feeling pretty— you know there's he has you know you can have a big pyre. He does sort of a big like prayer right with the sun setting. And you know, probably he would be ready to leave by the next afternoon, after just spending the early part of the morning making sure that he didn't miss anybody. But he's been here a while, and he has a pretty good sense of things. And it was just time it took to clear rubble and get the body, you know, and that was just very labor-intensive for like one young guy, even though he looks pretty fit. Right but."
+        },
+        {
+          "startUid": "u1871",
+          "endUid": "u1875",
+          "quote": "DM: Amil, the monk, priest, whatever, is you know, has collected a bunch of people now, and and sort of doing saying some prayers and and doing a little bit of a service as the body is burning, the smoke goes up into the sky. And he is clearly like really grateful. That I mean, not that he was like you know unhappy with his task, but this was a lot more work than he anticipated. And having these people to help him and share this moment you know, certainly meant a lot to him, and he is very grateful, especially to Kenzo, who you know he currently has a connection with."
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2050",
+        "endUid": "u2066"
+      },
+      "actors": [
+        "party",
+        "Amil"
+      ],
+      "reading": "Leave Bas Udda with loaded horses and travel through the desert to the canyon on the way to the masters’ house.",
+      "evidence": [
+        {
+          "startUid": "u2050",
+          "endUid": "u2055",
+          "quote": "DM: And he will take them to his masters, who will know what to do with them as well. So so as you leave, you actually leave with you know, a fairly heavily loaded set of horses. I'm—after the the the heat of the midday sun has passed, you're hoping to get a little bit of travel in in the in the afternoon, and then it's probably a solid day and a half of travel there. So you'll hope to arrive two afternoons from now. The rest of this afternoon is…"
+        },
+        {
+          "startUid": "u2057",
+          "endUid": "u2066",
+          "quote": "DM: Quiet, hot, just passing through the desert, heading sort of south-southwest— roughly south-southeast, roughly. The terrain here is very you know it's lots of open expanses of just dry, rocky sand, and then there's the occasional canyon. And you find more life and vegetation in this canyons, as there's more shade, and what little moisture there is collects. You know, hardy trees sometimes grow, and there does seem to be some little lakes, you know fingers of underground water that stretch out from Bas Udda, because occasionally you'll find a canyon that has a little bit of a spring in it or something like that. I'm in the evening of the second day, as you're approaching towards heading towards {{bass}}…"
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "The initial south-southwest direction is immediately corrected to roughly south-southeast."
+        },
+        {
+          "reading": "Follow canyons for shade and occasional water."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2176",
+        "endUid": "u2185"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby scouts alone 300–400 feet ahead along the canyon and reaches the spring and hide-curtained camp.",
+      "evidence": [
+        {
+          "startUid": "u2176",
+          "endUid": "u2185",
+          "quote": "DM: So so Wellby like creeps along in the shadows. So it's actually not—it's actually a relatively good place for a halfling to hide, because pressed up against the wall of the canyon, the shadows, even with the noon sun, the shadows are sufficient that you can just kind of creep along. And you travel maybe three 400 feet up to the to where the the spring is that that Amil was was telling you about. And there is a little spring bubbling out, and there's a rock overhang that provide some shade. And draped in front of the rock overhang is like crudely stitched-together like curtain of hide and skin, like falling down, like very poorly made. Like lights coming through it, and it seems to be like blocking off a little area around the— you know somebody or somebody is sleeping underneath that rock overhang. And then sort of resting, snoring…"
+        },
+        {
+          "startUid": "u2217",
+          "endUid": "u2219",
+          "quote": "Delwath: Are they visible from here when it stands up?"
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "sneak",
+      "distance": {
+        "min": 300,
+        "minInclusive": true,
+        "max": 400,
+        "maxInclusive": true,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM’s narrated scouting distance."
+      }
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u2202",
+        "endUid": "u2216"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby crosses to the curtain and looks behind it, seeing two more sleeping ogres. The source establishes looking, not entry into the shelter.",
+      "evidence": [
+        {
+          "startUid": "u2202",
+          "endUid": "u2206",
+          "quote": "Wellby: Oh, can I see what's behind the curtain?"
+        },
+        {
+          "startUid": "u2208",
+          "endUid": "u2216",
+          "quote": "DM: So you you cross the cross as quickly as you can in the bright sun. You're pretty sure you weren't seen, but the one who's sleeping kind of starts a little bit, and like blinks, and looks up, a little bit opening its eyes just as you dart into the shadows. And like looks around and and stands up. That it doesn't seem to see you, but it seems to have been a woken by some sense of your movement. And, as he was looking around, it picks up what looks like a you know lying on the ground, like an enormous chain, like a 10 foot-long spiked chain, and starts like kind of looking around a little bit, blinking his eyes, like confused."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p09"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2247",
+        "endUid": "u2290"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Flees the camp back around the canyon corner to his companions, pursued by the chain-wielding ogre.",
+      "evidence": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2249",
+          "quote": "Wellby: Take the opposite direction."
+        },
+        {
+          "startUid": "u2285",
+          "endUid": "u2290",
+          "quote": "DM: So here's what you see. Let's see, where's Wellby? Wellby comes running right here."
+        }
+      ],
+      "from": "p09",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u3138",
+        "endUid": "u3144"
+      },
+      "actors": [
+        "party",
+        "Amil"
+      ],
+      "reading": "After the fight, the party finds Amil hiding against the canyon side about 400 feet back and reunites with him.",
+      "evidence": [
+        {
+          "startUid": "u3135",
+          "endUid": "u3144",
+          "quote": "Seeker: We should we should go make sure our friend is okay."
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u3148",
+        "endUid": "u3164"
+      },
+      "actors": [
+        "party",
+        "Amil"
+      ],
+      "reading": "The reunited party reaches and searches the spring camp. They decline the proposed rest because of the filth and continue onward.",
+      "evidence": [
+        {
+          "startUid": "u3148",
+          "endUid": "u3153",
+          "quote": "DM: Yeah so as you head up the canyon, you see the ogres' camp. There's like a giant vulture with a javelin sticking out of it, I'm dead, rotting, drying in the sun. There's like hide large hide curtain thats hanging sort of incompletely down casting some shade under an overhang. There is a spring, which seems like it would be nice except for the refuse pile that's inexplicably placed directly next to the water source, and the whole place smells awful. There's nothing really to find here. There's just dead animals and trash. Doesn't seem like these, this camp has encountered any humanoids anytime recently. And Amil look sort of shocked and disgusted, and he was like, 'It's only another few hours. Maybe we just press on.'"
+        },
+        {
+          "startUid": "u3154",
+          "endUid": "u3164",
+          "quote": "Wellby: We searched the giants' camp before we go."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u3169",
+        "endUid": "u3190"
+      },
+      "actors": [
+        "party",
+        "Amil"
+      ],
+      "reading": "Travel beyond the canyon through sandier desert, turn more directly south and arrive outside Pava and Avaras’ house; Amil goes to the door and both masters greet them.",
+      "evidence": [
+        {
+          "startUid": "u3169",
+          "endUid": "u3178",
+          "quote": "DM: We're not going to do— I'm just gonna get you to the door, and we're gonna stop. So um yeah we're definitely not going to do that tonight. So as you continue, now in the afternoon of your second day of travel after leaving Bas Udda, you head now into sandier, sandier desert, turning more directly south after the top of this canyon. And despite the heat of the sun, after about a you know a few hours' travel, by four, 4:30 in the afternoon, as the sun's rays are beginning to sink a little bit, you see the stone house in front of you. The long shadows cast from this two-story building with a like a small pen out front, colorful awnings casting shade for the livestock, a well, and a you know a little outbuilding at a store of grain or water or something in a few barrels in the back."
+        },
+        {
+          "startUid": "u3179",
+          "endUid": "u3190",
+          "quote": "DM: Amil looks excited to be here and and pleased, and says, 'I'll I'll tell them I'll tell them were here, and and and I'm sure there'll be excited.' And as he rushes up and start speaking at the door, stepping out from the door of the stone house and waving and greeting to you are two old men wearing gray-silver robes like like Amil’s. Why one maybe slightly younger, and weathered skin, bald, leaning on a staff; the other slightly older, paler skin, with short-cropped gray hair, standing against the side of the wall. And as they look, seeing you approach, the older ones eyes fall on Delwath, and he lights up, and you can tell that he recognizes you. And with that, we will end for the night."
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Continue past the top of the canyon into sandier desert, turning more directly south."
+        }
+      ],
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated final afternoon travel."
+      }
+    }
+  ]
+}
