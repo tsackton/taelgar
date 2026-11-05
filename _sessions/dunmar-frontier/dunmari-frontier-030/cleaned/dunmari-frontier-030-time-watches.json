@@ -1,0 +1,184 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-time-markers.json",
+    "sha256": "79443d84df0a5738b08fe8f02137e42ec17fc0a3f77cd798e5421e2906191234"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-transcript.md",
+    "sha256": "6f7eb6279b36585a15fcf170b372acd4dd83a0220c4253a521c700dfdcca3f37"
+  },
+  "dateAssessment": "Working dates are June 2–4, 1748, following the dated Session 30 timeline within the YAML’s June 1–4 span. The transcript independently establishes dawn departure and two subsequent mornings, but no absolute date. The time extraction remains compatible, not matched: it does not account for the YAML’s June 1 start boundary. The final camp clock is about 1:30–2 p.m., despite “evening” in the session note. Cumulative boulder clocks overlap the flight, rescue, and exploration; they are not added as separate elapsed intervals. The final chair transformation begins after camp arrival; its ending watch is open.",
+  "watches": [
+    {
+      "day": "June 2, 1748",
+      "startDate": "1748-06-02",
+      "endDate": "1748-06-02",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Party wakes at dawn and rides out of Karawa in dawn light.",
+      "markers": [
+        "t01",
+        "t02"
+      ]
+    },
+    {
+      "day": "June 2, 1748",
+      "startDate": "1748-06-02",
+      "endDate": "1748-06-02",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Seeker examines the necklace on the first travel morning.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "June 2, 1748",
+      "startDate": "1748-06-02",
+      "endDate": "1748-06-02",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "First travel day ends at an evening camp halfway to Bas Udda.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "During June 2–3, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "Scepter discussion is explicitly corrected to late night in camp.",
+      "markers": [
+        "t05"
+      ],
+      "dateWindow": [
+        "1748-06-02",
+        "1748-06-03"
+      ]
+    },
+    {
+      "day": "June 3, 1748",
+      "startDate": "1748-06-03",
+      "endDate": "1748-06-03",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The next morning begins as the sun rises.",
+      "markers": [
+        "t06"
+      ]
+    },
+    {
+      "day": "June 3, 1748",
+      "startDate": "1748-06-03",
+      "endDate": "1748-06-03",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Another travel day ends with evening camp in Bas Udda’s ruined temple.",
+      "markers": [
+        "t07"
+      ]
+    },
+    {
+      "day": "June 4, 1748",
+      "startDate": "1748-06-04",
+      "endDate": "1748-06-04",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The next morning begins before dawn; departure is later confirmed at dawn.",
+      "markers": [
+        "t08"
+      ]
+    },
+    {
+      "day": "June 4, 1748",
+      "startDate": "1748-06-04",
+      "endDate": "1748-06-04",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Lookout reached around 9 a.m.; shadow scouting brings twenty to thirty minutes of waiting, then an unquantified extension.",
+      "markers": [
+        "t09",
+        "t10"
+      ]
+    },
+    {
+      "day": "June 4, 1748",
+      "startDate": "1748-06-04",
+      "endDate": "1748-06-04",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Boulder found around 11 a.m.; its first hour covers flight, Garret’s rescue, and much of the lair exploration.",
+      "markers": [
+        "t11",
+        "t12",
+        "t13",
+        "t14",
+        "t15",
+        "t16",
+        "t17",
+        "t18",
+        "t19",
+        "t20",
+        "t21",
+        "t22"
+      ]
+    },
+    {
+      "day": "June 4, 1748",
+      "startDate": "1748-06-04",
+      "endDate": "1748-06-04",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The reunited party reaches the canyon camp around 1:30–2 p.m., at the midday/afternoon boundary.",
+      "markers": [
+        "t23"
+      ]
+    },
+    {
+      "day": "June 4, 1748",
+      "startDate": "1748-06-04",
+      "endDate": "1748-06-04",
+      "startWatch": "midday",
+      "endWatch": null,
+      "basis": "open",
+      "summary": "After camp arrival, the chair transformation lasts longer than Garret’s three-to-four-minute change; its ending watch is unspecified.",
+      "markers": [
+        "t24"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated session note",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 30 (DuFr).md",
+      "sha256": "d9461747f21e7e61724f66d464be335ae75b3a4689768365068ab5cd994b76d9"
+    },
+    {
+      "label": "Garret note",
+      "path": "People/Halflings/Garret Tealeaf.md",
+      "sha256": "c6d4c63e60ba896903e4a3492a7b94330f11e13bbd39019e739bcfa5d6d2b003"
+    },
+    {
+      "label": "Shandar note",
+      "path": "People/Dunmari/Shandar.md",
+      "sha256": "86530974be641aafb273a2f653d95d3e1271d9ffdbf7a8f91442c7621001ebf1"
+    },
+    {
+      "label": "Kaya note",
+      "path": "People/Dunmari/Kaya.md",
+      "sha256": "493ce038205eeff363d9f2fd9cb5cd3ead96dda78e82884ceb43c54d5e7bfe05"
+    }
+  ]
+}

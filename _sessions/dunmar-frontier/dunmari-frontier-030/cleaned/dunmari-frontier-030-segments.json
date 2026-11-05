@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-030",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+    "sessionYamlSha256": "a76c798d0e9692a236e0fd0a31d9e2d20080596b74857b7bc1f9b774db872163",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-transcript.md",
+    "transcriptSha256": "6f7eb6279b36585a15fcf170b372acd4dd83a0220c4253a521c700dfdcca3f37"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u1101"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1102",
+        "endUid": "u1273"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1274",
+        "endUid": "u2001"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2002",
+        "endUid": "u2057"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2058",
+        "endUid": "u3509"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u3510",
+        "endUid": "u3518"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
