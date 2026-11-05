@@ -2,11 +2,11 @@
 
 ## Review flags
 
-- Decide the final arrival boundary in time-markers.json t16 and boundaryUncertainties: u2244–u2246 says arrival on the sixth travel day, while u2260–u2265 says six days after leaving the stone house. Conditional on the YAML start, these support May 23 or May 24. Apply the chosen reading to the owning time extraction before rebuilding this review; do not silently normalize the May 23 YAML end.
+- Review the Karawa arrival date in t16. DF25 says both “on the sixth day” (u2244–u2246, May 23) and six days after departure (u2260–u2265, May 24). On the same approach, the DM explicitly says May 23 and about five days since departure (DF26 u0005–u0009), supporting the YAML end date. Both readings remain open in the time extraction pending human review.
 
 ## In-world time
 
-Working dates use the YAML opening of May 13, 1748. No absolute date is spoken. The narrated nights and two-day trip place the stone-house stay on May 17–18. The final montage supports either May 23 (inclusive sixth travel day, compatible with YAML) or May 24 (six elapsed days after departure). Both remain open in t16; no calendar correction has been applied.
+Working dates use the YAML opening of May 13, 1748. The narrated nights and travel place the stone-house stay on May 17–18. DF25 leaves May 23 and May 24 open for the return to Karawa. The DM dates the same approach to May 23 in DF26 (u0005–u0009), which agrees with the YAML end date.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
@@ -21,7 +21,7 @@ Working dates use the YAML opening of May 13, 1748. No absolute date is spoken. 
 | May 16, 1748 | Dawn | mixed | Morning dawns; Wellby investigates tracks for about half an hour while Delwath prepares breakfast. | t13 |
 | May 17, 1748 | Dusk | mixed | Two narrated travel days end at the stone house as the sun sets. | t14 |
 | May 17–18, 1748 | Dusk → open | inferred | Overnight stay follows the sunset welcome; departure is later, without a stated morning clock. | t15 |
-| May 23 or May 24, 1748 | Afternoon | mixed | Late-afternoon arrival: sixth travel day versus six days after departure leaves the civil date unresolved. | t16 |
+| May 23 or May 24, 1748 | Afternoon | mixed | Late-afternoon arrival. DF25 gives two travel counts. DF26 dates the approach to May 23. | t16 |
 
 ## Locations
 
@@ -89,4 +89,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:26** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-025-transcript.md) · [Time Markers](dunmari-frontier-025-time-markers.json) · [Location Markers](dunmari-frontier-025-location-markers.json) · [Entity Map](dunmari-frontier-025-entity-map.json) · [Interactions](dunmari-frontier-025-interactions.json) · [Combat](dunmari-frontier-025-combat.json) · [Segments](dunmari-frontier-025-segments.json) · [Watch data](dunmari-frontier-025-time-watches.json)
+Sources · [Transcript](dunmari-frontier-025-transcript.md) · [Time Markers](dunmari-frontier-025-time-markers.json) · [Location Markers](dunmari-frontier-025-location-markers.json) · [Entity Map](dunmari-frontier-025-entity-map.json) · [Interactions](dunmari-frontier-025-interactions.json) · [Combat](dunmari-frontier-025-combat.json) · [Segments](dunmari-frontier-025-segments.json) · [Watch data](dunmari-frontier-025-time-watches.json) · [DF26 opening transcript](../../dunmari-frontier-026/cleaned/dunmari-frontier-026-transcript.md)

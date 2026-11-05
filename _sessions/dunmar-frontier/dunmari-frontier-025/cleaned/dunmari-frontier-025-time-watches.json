@@ -3,13 +3,13 @@
   "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-session.yaml",
   "source": {
     "path": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-time-markers.json",
-    "sha256": "588f0945bc6d8f9fcae43de8c47c3ccfc46148fccb92da69e8062033eefe49d5"
+    "sha256": "2945caa0e710ac89a1e754b718b378a98482340cb117dc44d1c139557d176e6f"
   },
   "transcript": {
     "path": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-transcript.md",
     "sha256": "13394df3a69f1a25a62c5b8b40c7bbceafd184081561c895ada31df434508337"
   },
-  "dateAssessment": "Working dates use the YAML opening of May 13, 1748. No absolute date is spoken. The narrated nights and two-day trip place the stone-house stay on May 17–18. The final montage supports either May 23 (inclusive sixth travel day, compatible with YAML) or May 24 (six elapsed days after departure). Both remain open in t16; no calendar correction has been applied.",
+  "dateAssessment": "Working dates use the YAML opening of May 13, 1748. The narrated nights and travel place the stone-house stay on May 17–18. DF25 leaves May 23 and May 24 open for the return to Karawa. The DM dates the same approach to May 23 in DF26 (u0005–u0009), which agrees with the YAML end date.",
   "watches": [
     {
       "day": "May 13, 1748",
@@ -153,10 +153,17 @@
       "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "mixed",
-      "summary": "Late-afternoon arrival: sixth travel day versus six days after departure leaves the civil date unresolved.",
+      "summary": "Late-afternoon arrival. DF25 gives two travel counts. DF26 dates the approach to May 23.",
       "markers": [
         "t16"
       ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "DF26 opening transcript",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-transcript.md",
+      "sha256": "4fb4a28eb11795bf7ab769f0ae0458c38e6a367f4e02cb8e702d8502a97baf9f"
     }
   ]
 }
