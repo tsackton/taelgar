@@ -1,0 +1,1542 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "c6e8fb5c63ec990d83449cfec74d9ff78da0f4d6aea0445b9d03db50892aef85"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-entity-map.json",
+      "sha256": "b4e82ed9c5687e0f2055e65e6ca6f221de5c57725379a910effa9e9cfe119b2a"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The temple’s five gods",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0888",
+        "endUid": "u0895"
+      },
+      "lines": [
+        "%% u0888:0-58, u0889:0-112, u0890:0-79, u0891:0-274, u0892:0-55, u0893:0-41, u0894:0-260, u0895:0-23 %%",
+        "DM: ((Other description)) it's clearly a temple to the Five Siblings, the Dunmari pantheon. Each of the five walls has an altar to one of the gods. Jeevali, the goddess of life and rebirth, home, and family; Laka, the god of knowledge, the seasons, and time; Aagir, the god of war, fire, and death—and that is the wall that has the flame burning on it; Sonkar, the goddess of beauty, truth, and justice; and Chidya, the goddess of nature and animals. ((Other description))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The walls that you're inside. The door doesn't doesn't seem to be locked or anything, it's a it's a double wooden door. It's, you know, dried out some but doesn't seem to have like rotted away or anything in the dry desert air.",
+          "Delwath: We should open.",
+          "Wellby: Is it locked?",
+          "DM: It's not locked. Who’s pushing it open?",
+          "Delwath: Why don't we step back? Delwath sort of motions for everybody to stand back a little bit, like 30 feet away from the door. And hell. Let's stand to the side a little bit too. And then he'll wave his arm a little bit, and you see a small hand float across the 30 feet and push the door open."
+        ],
+        "after": [
+          "Unknown: Cracked.",
+          "DM: The tapestries and artwork are sort of crumbled and destroyed.",
+          "DM: But on this altar to Aagir—now, is Kenzo going in? So I can describe it, or do you want to wait?",
+          "Unknown: [garbled] Okay.",
+          "DM: There's a small silver statue, about the size of a hand, of a spearpoint decorated with an etched flame design, and the tip of it is burning with fire."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The flaming spearpoint: recovery and sacred use",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0900",
+        "endUid": "u1020"
+      },
+      "lines": [
+        "%% u0900:0-151 %%",
+        "DM: There's a small silver statue, about the size of a hand, of a spearpoint decorated with an etched flame design, and the tip of it is burning with fire.",
+        "",
+        "%% u0901:0-23 %%",
+        "Delwath: That's the light we saw?",
+        "",
+        "%% u0902:0-25 %%",
+        "DM: That's the light you saw.",
+        "",
+        "%% u0903:0-71, u0904:0-23, u0905:0-77, u0906:0-26, u0907:0-40, u0908:0-112, u0909:0-44, u0910:0-19, u0911:0-95, u0912:0-27, u0913:0-167, u0914:0-53, u0915:0-26, u0916:0-15, u0917:0-19, u0918:0-4, u0919:0-26, u0920:0-13, u0921:0-17, u0922:0-58, u0923:0-3, u0924:0-74, u0925:0-7, u0926:0-42, u0927:0-25, u0928:0-26, u0929:0-10, u0930:0-29, u0931:0-47, u0932:0-25, u0933:0-193, u0934:0-67, u0935:0-73, u0936:0-30, u0937:0-14, u0938:0-38, u0939:0-17, u0940:0-3, u0941:0-42, u0942:0-5, u0943:0-10, u0944:0-13, u0945:0-63, u0946:0-23, u0947:0-32, u0948:0-39, u0949:0-9 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u0950:0-120, u0951:0-3, u0952:0-23, u0953:0-64, u0954:0-180 %%",
+        "DM: So, the spearpoint that you see—the small silver statue of a spearpoint with a flame on top of it—is definitely magical. ((Other description))",
+        "",
+        "%% u0955:0-18, u0956:0-134, u0957:0-3, u0958:0-25, u0959:0-81, u0960:0-63, u0961:0-17, u0962:0-170, u0963:0-4, u0964:0-159, u0965:0-82, u0966:0-57, u0967:0-15, u0968:0-8, u0969:0-106, u0970:0-33, u0971:0-28, u0972:0-139, u0973:0-28, u0974:0-10, u0975:0-170, u0976:0-57, u0977:0-19 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u0978:0-15, u0979:0-25, u0980:0-48 %%",
+        "Seeker: Can we get that spearpoint with the fire? So it's something we could take with us or carry?",
+        "",
+        "%% u0981:0-48, u0982:0-30 %%",
+        "DM: Yes, it says it's a statue, it's like, this big. You could definitely carry it.",
+        "",
+        "%% u0983:0-26 %%",
+        "Delwath: What sort of magic was it?",
+        "",
+        "%% u0984:0-3, u0985:0-10 %%",
+        "DM: I'm—evocation.",
+        "",
+        "%% u0986:0-24 %%",
+        "Kenzo: What's the statue again?",
+        "",
+        "%% u0987:0-190 %%",
+        "DM: It's a silver statue about this big of the point of a spear. It has an etched flame design on it, and the top of the spearpoint has a flame sitting on it, burning without consuming anything.",
+        "",
+        "%% u0988:0-53, u0989:0-12, u0990:0-57, u0991:0-32, u0992:0-4, u0993:0-12, u0994:0-169, u0995:0-3, u0996:0-12, u0997:0-26, u0998:0-4, u0999:0-50, u1000:0-23 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u1001:0-155, u1002:0-36, u1003:0-138 %%",
+        "DM: Now looking at this, it makes you think of things that you saw in your—like, relics or artifacts you saw in your monastery. Not this design, because a Laka symbol wouldn't be a spearpoint, but fire that does not burn, that does not consume what it's on, that lasts continually is something that you have seen around temples before um.",
+        "",
+        "%% u1004:0-55 %%",
+        "Kenzo: Do I know what what god they're they're associated with?",
+        "",
+        "%% u1005:0-32, u1006:0-44 %%",
+        "DM: The, the spear design is—that is—is Aagir, the god of war and fire and death.",
+        "",
+        "%% u1007:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u1008:0-35 %%",
+        "Kenzo: So I convey that to you to you all.",
+        "",
+        "%% u1009:0-104 %%",
+        "Delwath: So is it just continual flame or does it have some other use? Have you seen these used for other things?",
+        "",
+        "%% u1010:0-83, u1011:0-33, u1012:0-143, u1013:0-174, u1014:0-24 %%",
+        "DM: Ah, you've just seen them used as sort of sacred objects, sacred flame, particularly rituals. I mean, if this were the—were the sort of main temple for a fort housing soldiers, then Aagir would likely be the one who many of them would have prayed to and revered. And so these sorts of things were often or or often still are kind of used to mark, you know, particular dedication or particular you know desire for favor of have a specific one of the Five Siblings.",
+        "",
+        "%% u1015:0-82 %%",
+        "Kenzo: So the statue is more ceremonial, not like something that you would use in battle?",
+        "",
+        "%% u1016:0-5, u1017:0-59, u1018:0-82 %%",
+        "DM: Yeah. It doesn't. I mean, it's made of silver, it wouldn't really—it probably wouldn't work so well in battle, and it's not the right—it’s not sharp.",
+        "",
+        "%% u1019:0-35 %%",
+        "Seeker: It's literally a light fixture also.",
+        "",
+        "%% u1020:0-14 %%",
+        "DM: Literally, yes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: As the door swings open you can see inside the building is mostly dark except for there seems to be on on one of the walls, what you can see from this distance, anyway, is a flame, about the size of your hand, that seems to be burning touching nothing kind of just floating in the air, casting light around. And from the light of this flame, you can see the area inside looks as if a large earthquake has struck it. It's been shaken and things are cracked, but it's clearly a temple to the Five Siblings, the Dunmari pantheon. Each of the five walls has an altar to one of the gods. Jeevali, the goddess of life and rebirth, home, and family; Laka, the god of knowledge, the seasons, and time; Aagir, the god of war, fire, and death—and that is the wall that has the flame burning on it; Sonkar, the goddess of beauty, truth, and justice; and Chidya, the goddess of nature and animals. A few of the altars are.",
+          "Unknown: Cracked.",
+          "DM: The tapestries and artwork are sort of crumbled and destroyed.",
+          "DM: But on this altar to Aagir—now, is Kenzo going in? So I can describe it, or do you want to wait?",
+          "Unknown: [garbled] Okay."
+        ],
+        "after": [
+          "Seeker: I'm noticing something here magically. This building is extra strong. It's also the only building in this whole complex, I think that's intact with respect to walls and roof. So I wonder if whatever it was that caused the rest of the structures to collapse or be destroyed was unable to take this structure down perhaps because of its magical protection.",
+          "Delwath: I think that's likely.",
+          "Seeker: Who are the enemies of the Five Siblings?",
+          "DM: So, I mean, the gods don't really have enemies, exactly. I mean, the enemies of the Dunmari, I guess.",
+          "Seeker: From this point—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "The old scout’s horse-decorated horn",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1149",
+        "endUid": "u1205"
+      },
+      "lines": [
+        "%% u1149:0-24, u1150:0-45, u1151:0-39, u1152:0-78, u1153:0-130, u1154:0-128 %%",
+        "DM: It it mostly seems to be full of rubble. The one thing that you do see that sort of catches your eye as you're turning to leave after sort of looking around is a mostly decomposed skeleton. Most of its items and equipment, whatever it had, rusted away. But what catches your eye is a little bit of a glint from a, like a horn made out of a ram's horn, but with a silver filigree design on it, and the glint of the silver in the sun catches your eye.",
+        "",
+        "%% u1155:0-31, u1156:0-24 %%",
+        "Wellby: I'll bring it out with me, and—we suppose this thing is?",
+        "",
+        "%% u1157:0-97 %%",
+        "DM: So bringing it out in the sun, you can see that the silver is in the design of a galloping horse.",
+        "",
+        "%% u1158:0-91, u1159:0-34, u1160:0-9, u1161:0-30, u1162:0-7, u1163:0-22 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u1164:0-5, u1165:0-122, u1166:0-48, u1167:0-178, u1168:0-32 %%",
+        "DM: Okay. So, I mean, Kenzo—yeah, Delwath doesn't know anything; this is outside of your area. But Kenzo, you do recognize this as a relatively common motif that you've seen in very various artifacts—like banners and standards and things—of the Dunmari army. In particular, it's associated with the army from around the time of the Great War and shortly after: the sort of running horse motif.",
+        "",
+        "%% u1169:0-35, u1170:0-20, u1171:0-42, u1172:0-47, u1173:0-12, u1174:0-3, u1175:0-9, u1176:0-33 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u1177:0-61, u1178:0-20, u1179:0-58, u1180:0-10 %%",
+        "DM: ((Other description)) Ah, yes, it is in fact does seem to be magical. ((Other description))",
+        "",
+        "%% u1181:0-121, u1182:0-5, u1183:0-42, u1184:0-4, u1185:0-3, u1186:0-80, u1187:0-3, u1188:0-72, u1189:0-162, u1190:0-170, u1191:0-78, u1192:0-32, u1193:0-41, u1194:0-3, u1195:0-66, u1196:0-222, u1197:0-32, u1198:0-19 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u1199:0-47 %%",
+        "Seeker: What can I find out about its magical qualities?",
+        "",
+        "%% u1200:0-17, u1201:0-73, u1202:0-23, u1203:0-63, u1204:0-45, u1205:0-39 %%",
+        "DM: So it seems to be that the magic that you sense running through it seems to be some sort of you know, protective or defensive kind of magic, not, not necessarily like a, you know shielding like strong kind of protection, but you know, almost like a like alarm type—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Nice.",
+          "DM: The inside is very clearly just full of rubble. Nothing really, as far as you can tell. You look straight up; you can see the sky above you, it's kind of nice and cool actually against the stone wall but—nothing really to see but rubble. I lied.",
+          "Wellby: It's very relaxing. But there's nothing—",
+          "Unknown: Yeah.",
+          "DM: Tower on the right is in somewhat better shape. Only the roof seems to have collapsed, and the top little bit has fallen not down into the middle but off to the side, so you can see some rubble and stuff strewn across the ground here sort of pointing in the direction of the cistern. The door—the entryway—has rotted away. And essentially collapse so you can just kind of look in. There are still a bunch of rocks kind of strewn around, but not nearly quite the—you know, not, not nearly so full of rubble—full of rubble as the other one. You want to also search in there? Um—"
+        ],
+        "after": [
+          "Kenzo: Wellby, I dare you to blow on it. I'm kidding, friend. I'm tempted, though, I'm tempted, though. What shall we do?",
+          "Delwath: I think we go investigate the tunnel. Yeah, let's take the light. Let's take the horn and go in.",
+          "Seeker: Nice.",
+          "DM: Okay, um, so,",
+          "Kenzo: In terms of music."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The broken human statue",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1263",
+        "endUid": "u1335"
+      },
+      "lines": [
+        "%% u1263:0-124, u1264:0-46, u1265:0-81, u1266:0-117, u1267:0-34, u1268:0-56, u1269:0-134, u1270:0-29, u1271:0-80 %%",
+        "DM: ((Other description)) standing in front of you in this sort of opening, looking away from you, you see a statue of a human man, wearing a leather armor and cloak. In one hand is a dagger, the other arm is is broken off.((Other description)) On the floor, you can see the other arm of the statue, which is holding a torch.",
+        "",
+        "%% u1272:0-5, u1273:0-5 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u1274:0-162 %%",
+        "Kenzo: Does it look like it was a dude that was down here that somehow got turned into a statue, as opposed to somebody came and built the statue of a dude with a torch?",
+        "",
+        "%% u1275:0-3, u1276:0-15 %%",
+        "DM: Ah, yeah, probably.",
+        "",
+        "%% u1277:0-3, u1278:0-10, u1279:0-7, u1280:0-12, u1281:0-165, u1282:0-5, u1283:0-42, u1284:0-19, u1285:0-5, u1286:0-7, u1287:0-20, u1288:0-10, u1289:0-6, u1290:0-9 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u1291:0-100 %%",
+        "DM: It's hard to tell. I mean it is definitely an extremely detailed statue, sort of unnaturally detailed.",
+        "",
+        "%% u1292:0-3 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u1293:0-45, u1294:0-41, u1295:0-34 %%",
+        "DM: The face looks quite surprised and is looking down the left-hand corridor at something. You don't see anything down there.",
+        "",
+        "%% u1296:0-59, u1297:0-26, u1298:0-31, u1299:0-45, u1300:0-47, u1301:0-52, u1302:0-73, u1303:0-34, u1304:0-39, u1305:0-10, u1306:0-36, u1307:0-5, u1308:0-69, u1309:0-36, u1310:0-77, u1311:0-17, u1312:0-116, u1313:0-5, u1314:0-10, u1315:0-16, u1316:0-12, u1317:0-39, u1318:0-41, u1319:0-67 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u1320:0-102, u1321:0-116, u1322:0-29 %%",
+        "Seeker: So Tim, the statue work here—this is the shaping of stone, being an area of my interest and expertise—is impressive to me. Do I know of any existing phenomenon that would either create something of this detail level or transform somebody like that?",
+        "",
+        "%% u1323:0-39 %%",
+        "DM: Yeah, so I mean you've definitely heard—",
+        "",
+        "%% u1324:0-169, u1325:0-35, u1326:0-11, u1327:0-85 %%",
+        "DM: Yeah, so, I mean, you've definitely heard of various kinds of creatures that will turn you to stone. What seems a little bit odd is that nothing here seems to be intact. Right. Like you've heard legends of things like you know, legendary creatures like Medusa that can turn you to stone with their gaze.",
+        "",
+        "%% u1328:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u1329:0-100, u1330:0-4, u1331:0-67, u1332:0-104 %%",
+        "DM: But everything that stone here, it looks like almost like it was dead before it was turned to stone. Like—the, the arm that's broken off doesn't seem like it was broken off and, and then turn to stone. I mean, it doesn't seem like it was turned to stone and then the stone broke.",
+        "",
+        "%% u1333:0-3 %%",
+        "Seeker: No,",
+        "",
+        "%% u1334:0-103 %%",
+        "DM: It seems like the arm was cut or ripped or bitten off, and then the dying creature was turned to stone.",
+        "",
+        "%% u1335:0-13 %%",
+        "Seeker: Very strange.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay. So—that was his intent.",
+          "Delwath: I think we should be spaced out enough so that Delwath is 45 feet in front of Kenzo.",
+          "DM: Okay.",
+          "Delwath: So that means I'm still in the dark.",
+          "DM: You're still in the dark. Okay. So,"
+        ],
+        "after": [
+          "Kenzo: What manner of strange magic is going on down here? I do not like this.",
+          "Seeker: While we're standing here, I think I'm going to use Stone Sense.",
+          "DM: Okay.",
+          "Seeker: It has a 300-foot range, but I can only do this once per day, I guess. Yep. Okay.",
+          "DM: Okay, let's see. Let me see how—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Recovering and detecting magic on the heavy coin",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1296",
+        "endUid": "u1392"
+      },
+      "lines": [
+        "%% u1296:0-59 %%",
+        "DM: And, Delwath, you notice a small golden coin on the ground.",
+        "",
+        "%% u1297:0-26, u1298:0-31, u1299:0-45, u1300:0-47, u1301:0-52, u1302:0-73, u1303:0-34 %%",
+        "((Statue examination, Stone Sense, and casting discussion))",
+        "",
+        "%% u1304:0-39 %%",
+        "Delwath: I will pick up the coin with Mage Hand.",
+        "",
+        "%% u1305:0-10 %%",
+        "((Statue examination, Stone Sense, and casting discussion))",
+        "",
+        "%% u1306:0-36 %%",
+        "Delwath: And bring it in close to look at it.",
+        "",
+        "%% u1307:0-5, u1308:0-69, u1309:0-36, u1310:0-77, u1311:0-17, u1312:0-116, u1313:0-5, u1314:0-10, u1315:0-16, u1316:0-12 %%",
+        "((Statue examination, Stone Sense, and casting discussion))",
+        "",
+        "%% u1317:0-39, u1318:0-41, u1319:0-67 %%",
+        "DM: Heavier than you would expect for size. It's only it's small, but it feels dense. There's a portrait on the front face and three columns on the back.",
+        "",
+        "%% u1320:0-102, u1321:0-116, u1322:0-29, u1323:0-39, u1324:0-169, u1325:0-35, u1326:0-11, u1327:0-85, u1328:0-6, u1329:0-100, u1330:0-4, u1331:0-67, u1332:0-104, u1333:0-3, u1334:0-103, u1335:0-13, u1336:0-71, u1337:0-51, u1338:0-11, u1339:0-5, u1340:0-70, u1341:0-10, u1342:0-16, u1343:0-14, u1344:0-10, u1345:0-41, u1346:0-5, u1347:0-39, u1348:0-6, u1349:0-34, u1350:0-28, u1351:0-19, u1352:0-27, u1353:0-19, u1354:0-8, u1355:0-36, u1356:0-135, u1357:0-81, u1358:0-3, u1359:0-21, u1360:0-48, u1361:0-48, u1362:0-19, u1363:0-21, u1364:0-41, u1365:0-38, u1366:0-10, u1367:0-36, u1368:0-102, u1369:0-4, u1370:0-8, u1371:0-36, u1372:0-4, u1373:0-11, u1374:0-20, u1375:0-83, u1376:0-30, u1377:0-125, u1378:0-209, u1379:0-29, u1380:0-5, u1381:0-49, u1382:0-52, u1383:0-4, u1384:0-15, u1385:0-21, u1386:0-66, u1387:0-27, u1388:0-11 %%",
+        "((Statue examination, Stone Sense, and casting discussion))",
+        "",
+        "%% u1389:0-26, u1390:0-68, u1391:0-48, u1392:0-37 %%",
+        "Delwath: So Delwath sort of starts—goes into a little bit of a trance and starts kind of looking at the—after about 10 minutes he says, \"It is magical.\" Seems to be related to transmutation.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Now, okay.",
+          "DM: Um, so—there are—",
+          "DM: It's hard to tell. I mean it is definitely an extremely detailed statue, sort of unnaturally detailed.",
+          "Unknown: Um,",
+          "DM: The face looks quite surprised and is looking down the left-hand corridor at something. You don't see anything down there."
+        ],
+        "after": [
+          "Seeker: Transmutation.",
+          "Delwath: Modifies something.",
+          "Seeker: The coin itself modifies things, or has been modified?",
+          "Kenzo: Or protects you from being modified?",
+          "Wellby: Turns things to stone."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Could the statue be the missing camper?",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1456",
+        "endUid": "u1470"
+      },
+      "lines": [
+        "%% u1456:0-22, u1457:0-56, u1458:0-23 %%",
+        "DM: The statue is standing. It’s like—I guess I would say on one knee. I mean, it's—yeah, it's on one knee.",
+        "",
+        "%% u1459:0-128 %%",
+        "Seeker: I wonder if the statue is our friend who we tracked and who camped outside, came in here, tangled with something that ripped his—",
+        "",
+        "%% u1460:0-34 %%",
+        "Wellby: Arm off. Does he have his pack on?",
+        "",
+        "%% u1461:0-31, u1462:0-26 %%",
+        "DM: That it does not have a pack on. It does have a water skin.",
+        "",
+        "%% u1463:0-89, u1464:0-13, u1465:0-57 %%",
+        "Kenzo: Is it dressed in garb that would give any indication of when it got turned into a statue? Like age like—whatever era. Yeah, like is the statue been here for like—",
+        "",
+        "%% u1466:0-37 %%",
+        "Seeker: 100 years, 500? It was like last week?",
+        "",
+        "%% u1467:0-161 %%",
+        "DM: It hasn't been here for 100 years. It clearly hasn't weathered even a tiny bit, so it could have been maybe up to a year, at most, but probably much more recent.",
+        "",
+        "%% u1468:0-16 %%",
+        "Wellby: This is our guy.",
+        "",
+        "%% u1469:0-23 %%",
+        "Kenzo: Like a week, two weeks?",
+        "",
+        "%% u1470:0-41 %%",
+        "DM: It could have easily been that soon. Yes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Small with claws and more than one.",
+          "Kenzo: But—",
+          "Kenzo: I don't know how to say this in a in a elegant way, but there's something out here that’s fucking with these beasts and whatever it is, it feels like it's down here and yes, I don't—I asked myself every day why I left the city basically, is what I coming back to. I don't like these tunnels. I don't like what's going on down here.",
+          "Kenzo: I don't like this strange stone statue here. I don't know what's going on here, gentlemen, but this is a—",
+          "Delwath: Isn't it standing up? Yeah."
+        ],
+        "after": [
+          "Kenzo: So if there's something down this tunnel that turns turns humans into stone. I mean, this is this is a—I don't like this at all.",
+          "Delwath: Does he look Dunmari?",
+          "DM: Ah, make a perception check.",
+          "Kenzo: Check on that.",
+          "Seeker: I love stone. You want to be stone?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "A Chardonian coin becomes a floating disk",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1518",
+        "endUid": "u1621"
+      },
+      "lines": [
+        "%% u1518:0-32, u1519:0-57, u1520:0-140 %%",
+        "Wellby: Means beware of Medusa chickens. You know what's strange here is I do recognize this coin. Yeah, a Chardonian coin from 200 years ago, 300 years ago. I mean, they haven't minted these in ages. But it's definitely a coin of Chardon.",
+        "",
+        "%% u1521:0-4, u1522:0-3, u1523:0-20, u1524:0-10, u1525:0-18, u1526:0-5 %%",
+        "((Interruptions and speculation about the petrified explorer))",
+        "",
+        "%% u1527:0-32 %%",
+        "Kenzo: I mean, I'm from Chardon. Is it—",
+        "",
+        "%% u1528:0-83, u1529:0-37, u1530:0-113, u1531:0-30, u1532:0-56 %%",
+        "DM: It's, it's not like a denomination that you would normally see, like this is not the the right size at least modern coins. But of course the size and shape of of coins has changed over the years. And if it's if it's right that it's from several hundred years ago that it wouldn't look exactly like what you're familiar with.",
+        "",
+        "%% u1533:0-9 %%",
+        "((Interruptions and speculation about the petrified explorer))",
+        "",
+        "%% u1534:0-25, u1535:0-93 %%",
+        "DM: The portrait on one side. The portrait on one side and the design on the reverse are common in coins minted by Chardon.",
+        "",
+        "%% u1536:0-83, u1537:0-4, u1538:0-28, u1539:0-26 %%",
+        "((Interruptions and speculation about the petrified explorer))",
+        "",
+        "%% u1540:0-48, u1541:0-48 %%",
+        "Seeker: I mean I'm I'm getting curious about it. I'll um—I'll reach out and pinch it between two fingers.",
+        "",
+        "%% u1542:0-2 %%",
+        "Wellby: Do—",
+        "",
+        "%% u1543:0-14 %%",
+        "Unknown: Back up, kids.",
+        "",
+        "%% u1544:0-32, u1545:0-29, u1546:0-28 %%",
+        "DM: It feels like a heavy gold coin. Definitely feels heavier than coins should be for the size.",
+        "",
+        "%% u1547:0-55, u1548:0-22 %%",
+        "Delwath: How heavy is it like, like is it does it feel like it’s, like a pound, or like—",
+        "",
+        "%% u1549:0-27, u1550:0-28 %%",
+        "DM: A pound. No, no, like, like half a pound, a pound maybe.",
+        "",
+        "%% u1551:0-70 %%",
+        "Seeker: So, and given that it's like the size of a quarter, that’s remarkable.",
+        "",
+        "%% u1552:0-71 %%",
+        "Wellby: Yes, exactly. Seeker, flip it. Heads, we go left; columns, we go right.",
+        "",
+        "%% u1553:0-65, u1554:0-19 %%",
+        "Seeker: Like the way you think. Now let's raise the stakes. Just kidding. I flipped the coin.",
+        "",
+        "%% u1555:0-252, u1556:0-25, u1557:0-24 %%",
+        "DM: As it's flipping in the air, it flips over, and the coin does not fall back to the ground. But as it's beginning to fall, it grows, becomes thinner, and becomes translucent, and is now like a hovering platform of force—a disk of energy in front of you. Just like standing there. Hovering next to Seeker.",
+        "",
+        "%% u1558:0-24, u1559:0-9, u1560:0-8, u1561:0-4, u1562:0-26, u1563:0-14, u1564:0-20, u1565:0-18, u1566:0-8, u1567:0-34, u1568:0-46 %%",
+        "((Interruptions and speculation about the petrified explorer))",
+        "",
+        "%% u1569:0-85 %%",
+        "DM: Three feet in diameter and one inch thick. It's floating three feet above the ground.",
+        "",
+        "%% u1570:0-96, u1571:0-50 %%",
+        "((Interruptions and speculation about the petrified explorer))",
+        "",
+        "%% u1572:0-13, u1573:0-30 %%",
+        "Seeker: That's right. I'll attempt to flip it again.",
+        "",
+        "%% u1574:0-33 %%",
+        "Delwath: The coin vanished, though, right?",
+        "",
+        "%% u1575:0-22, u1576:0-20 %%",
+        "DM: The coin flattened out and became the disk.",
+        "",
+        "%% u1577:0-4, u1578:0-92, u1579:0-136, u1580:0-7, u1581:0-33, u1582:0-31, u1583:0-33, u1584:0-17, u1585:0-60 %%",
+        "((Interruptions and speculation about the petrified explorer))",
+        "",
+        "%% u1586:0-51 %%",
+        "Seeker: No, hmm, can we move the disk around by pushing it?",
+        "",
+        "%% u1587:0-38, u1588:0-53, u1589:0-14, u1590:0-28 %%",
+        "DM: It seems to want to follow you, Seeker. You can push it, but then it just kind of comes back. Alright hovers about 20 feet away from you.",
+        "",
+        "%% u1591:0-39 %%",
+        "Kenzo: Well, Seeker's holding the coin, right?",
+        "",
+        "%% u1592:0-17 %%",
+        "DM: The coin is gone.",
+        "",
+        "%% u1593:0-40 %%",
+        "Kenzo: Seeker flipped it up into the air and it—",
+        "",
+        "%% u1594:0-56 %%",
+        "DM: When it was coming back down spread itself out into this—",
+        "",
+        "%% u1595:0-188 %%",
+        "Seeker: Well, so, now, now we have this platform. So I'm experimenting with it moving around. It’s following me. I press down on it with all my weight and I cannot cause it to lower probably, right?",
+        "",
+        "%% u1596:0-31 %%",
+        "DM: No, you can't cause it to lower.",
+        "",
+        "%% u1597:0-31, u1598:0-11, u1599:0-5 %%",
+        "Wellby: I'm going to climb up on to it. Okay, yeah. Yeah.",
+        "",
+        "%% u1600:0-56, u1601:0-26 %%",
+        "DM: You can ride on it. It can definitely carry your weight. Okay, doesn't seem to move.",
+        "",
+        "%% u1602:0-95, u1603:0-30, u1604:0-133, u1605:0-37, u1606:0-9, u1607:0-19, u1608:0-84, u1609:0-23, u1610:0-95, u1611:0-14, u1612:0-7, u1613:0-50, u1614:0-5, u1615:0-51 %%",
+        "((Interruptions and speculation about the petrified explorer))",
+        "",
+        "%% u1616:0-3, u1617:0-204 %%",
+        "Seeker: So—I had joked about trying to flip it again. I'm actually going to try to make the same gesture to it again to see if I can turn it back into a coin by like flicking it upward with my thumb from underneath.",
+        "",
+        "%% u1618:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u1619:0-41 %%",
+        "Seeker: It simply fails to turn back into a coin.",
+        "",
+        "%% u1620:0-38 %%",
+        "DM: And in fact it turns back into a coin.",
+        "",
+        "%% u1621:0-9 %%",
+        "Wellby: Said left.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You get 16. Okay.",
+          "Seeker: Cool.",
+          "DM: Okay, so, um,",
+          "Wellby: So I look at it and then sort of pause, and my eyes unfocus a little bit, like I'm just lost in thought, deep in remembering something.",
+          "DM: Hold on, I'm messaging you."
+        ],
+        "after": [
+          "Seeker: Okay, anybody needs anything they want carried because I cannot carry a lot of stuff?",
+          "Delwath: We can use it to carry all the altars and things that we were going to bring back to the village.",
+          "Kenzo: Alright.",
+          "Seeker: So back into a marching order.",
+          "Kenzo: Yeah, absolutely. At some point in—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The undead hobgoblin claims the staff’s power and falls",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2202",
+        "endUid": "u2503"
+      },
+      "lines": [
+        "%% u2202:0-69, u2203:0-9, u2204:0-23, u2205:0-21, u2206:0-51, u2207:0-35, u2208:0-63, u2209:0-100, u2210:0-13, u2211:0-12, u2212:0-52 %%",
+        "DM: ((Other description)) a hobgoblin of sorts, flesh rotting, pieces of its uniform falling apart. In one hand is holding a black iron staff, fixed to the top of which is a sphere of black obsidian. The obsidian is both drawing darkness to it and also pulsing darkness away from it, almost radiating a sense of of of darkness. ((Other description))",
+        "",
+        "%% u2213:0-22, u2214:0-4, u2215:0-49, u2216:0-2, u2217:0-3, u2218:0-3 %%",
+        "((Combat actions, mechanics, and tactical discussion))",
+        "",
+        "%% u2219:0-23, u2220:0-102, u2221:0-42, u2222:0-24 %%",
+        "DM: It looks around at you. As it steps into the cave, it speaks in a rapidly hissing voice, in archaic but understandable Common: \"Run, puny creatures. This power is mine.\" ((Other description))",
+        "",
+        "%% u2223:0-11, u2224:0-35, u2225:0-14, u2226:0-13, u2227:0-15, u2227:15-20, u2228:0-4, u2229:0-20, u2230:0-3, u2231:0-11, u2232:0-253, u2233:0-13, u2234:0-39, u2235:0-91, u2236:0-5, u2237:0-6, u2238:0-4, u2239:0-15, u2240:0-10, u2241:0-84, u2242:0-59, u2243:0-34, u2244:0-16, u2245:0-30, u2246:0-40, u2247:0-5, u2248:0-15, u2249:0-57, u2250:0-14, u2251:0-12, u2252:0-25, u2253:0-47, u2254:0-41, u2255:0-27, u2256:0-130, u2257:0-119, u2258:0-28, u2259:0-4, u2260:0-6, u2261:0-67, u2262:0-14, u2263:0-60, u2264:0-47, u2265:0-8, u2266:0-67, u2267:0-15, u2268:0-45, u2269:0-10, u2270:0-11, u2271:0-60, u2272:0-24, u2273:0-8, u2274:0-9, u2275:0-75, u2276:0-14, u2277:0-12, u2278:0-15, u2279:0-63, u2280:0-5, u2281:0-13, u2282:0-53, u2283:0-25, u2284:0-149, u2285:0-93, u2286:0-25, u2287:0-33, u2288:0-9, u2289:0-12, u2290:0-34, u2291:0-10, u2292:0-5, u2293:0-21, u2294:0-29, u2295:0-11, u2296:0-5, u2297:0-9, u2298:0-42, u2299:0-5, u2300:0-13, u2301:0-24, u2302:0-13, u2303:0-26, u2304:0-52, u2305:0-25, u2306:0-2, u2307:0-41, u2308:0-78, u2309:0-7, u2310:0-29, u2311:0-72, u2312:0-20, u2313:0-22, u2314:0-31, u2315:0-27, u2316:0-45, u2317:0-11, u2318:0-13, u2319:0-15, u2320:0-78, u2321:0-3, u2322:0-17, u2323:0-30, u2324:0-41, u2325:0-62, u2326:0-24, u2327:0-12, u2328:0-10, u2329:0-3, u2330:0-6, u2331:0-27, u2332:0-6, u2333:0-3, u2334:0-3, u2335:0-10, u2336:0-8, u2337:0-1, u2338:0-12, u2339:0-40, u2340:0-17, u2341:0-43, u2342:0-6, u2343:0-4, u2344:0-7, u2345:0-2, u2346:0-9, u2347:0-10, u2348:0-20, u2349:0-7, u2350:0-26, u2351:0-28, u2352:0-5, u2353:0-30, u2354:0-19, u2355:0-16, u2356:0-15, u2357:0-13, u2358:0-83, u2359:0-32, u2360:0-21, u2361:0-31, u2362:0-50, u2363:0-51, u2364:0-17, u2365:0-17, u2366:0-8, u2367:0-7, u2368:0-23, u2369:0-71, u2370:0-90, u2371:0-3, u2372:0-39, u2373:0-18, u2374:0-48, u2375:0-81, u2376:0-12, u2377:0-26, u2378:0-24, u2379:0-2, u2380:0-7, u2381:0-46, u2382:0-78, u2383:0-30, u2384:0-18, u2385:0-10, u2386:0-52, u2387:0-48, u2388:0-30, u2389:0-27, u2390:0-8, u2391:0-5, u2392:0-26, u2393:0-81, u2394:0-64, u2395:0-86, u2396:0-4, u2397:0-7, u2398:0-15, u2399:0-35, u2400:0-4, u2401:0-12, u2402:0-43, u2403:0-20, u2404:0-13, u2405:0-14, u2406:0-12, u2407:0-8, u2408:0-24, u2409:0-31, u2410:0-18, u2411:0-14, u2412:0-61, u2413:0-19, u2414:0-125, u2415:0-8, u2416:0-46, u2417:0-11, u2418:0-194, u2419:0-6, u2420:0-7, u2421:0-13, u2422:0-81, u2423:0-148, u2424:0-10, u2425:0-27, u2426:0-5, u2427:0-30, u2428:0-5, u2429:0-17, u2430:0-66, u2431:0-28, u2432:0-18, u2433:0-30, u2434:0-34, u2435:0-24, u2436:0-24, u2437:0-9, u2438:0-24, u2439:0-7, u2440:0-40, u2441:0-5, u2442:0-7, u2443:0-217, u2444:0-44, u2445:0-30, u2446:0-2, u2447:0-51, u2448:0-8, u2449:0-12, u2450:0-31, u2451:0-4, u2452:0-8, u2453:0-3, u2454:0-5, u2455:0-8, u2456:0-23, u2457:0-13, u2458:0-8, u2459:0-47, u2460:0-4, u2461:0-168, u2462:0-138, u2463:0-8, u2464:0-47, u2465:0-38, u2466:0-5, u2467:0-64, u2468:0-17, u2469:0-8, u2470:0-12, u2471:0-34, u2472:0-22, u2473:0-5, u2474:0-13, u2475:0-26, u2476:0-9, u2477:0-17, u2478:0-9, u2479:0-4, u2480:0-117, u2481:0-7, u2482:0-148, u2483:0-94, u2484:0-214, u2485:0-9, u2486:0-39, u2487:0-16, u2488:0-13, u2489:0-22, u2490:0-12, u2491:0-92 %%",
+        "((Combat actions, mechanics, and tactical discussion))",
+        "",
+        "%% u2492:0-4, u2493:0-22, u2494:0-53, u2495:0-156, u2496:0-50 %%",
+        "DM: ((Other description)) you feel it slump and begin to crumble to the ground as whatever animating force that was keeping it alive fades, and it just sort of slumps over, the staff clattering to the ground on the ground next to me.",
+        "",
+        "%% u2497:0-241, u2498:0-90 %%",
+        "((Combat actions, mechanics, and tactical discussion))",
+        "",
+        "%% u2499:0-83, u2500:0-4, u2501:0-21, u2502:0-98, u2503:0-56 %%",
+        "DM: But there seems to be nothing out here. The black obsidian is still sort of pulsing this darkness, the sort of you can sense the sort of feeling of like anger and rage is still is still radiating out from this crystal—polished glass obsidian—on the top of its staff.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I'm just having what is perhaps a normal, rational response to being confronted with undead skeletons, which is to try to get something between myself and them.",
+          "DM: Yeah. Yes. Do you want to do anything else? I'm—bonus action? Bonus action. Okay, Wellby.",
+          "Wellby: I'm going to shoot at the topmost of two skeletons.",
+          "DM: Okay. That's going to miss, sadly. Bonus action stay where you are?",
+          "Wellby: Yeah."
+        ],
+        "after": [
+          "Kenzo: So wait, I just kind of look around. How's everyone? Anybody injured?",
+          "Delwath: Somewhat.",
+          "Seeker: I'm cool.",
+          "Unknown: I'm good.",
+          "Kenzo: Don't touch that staff. This thing has runes I recognize on it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The staff’s inscription, influence, and uncertain age",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2520",
+        "endUid": "u2606"
+      },
+      "lines": [
+        "%% u2520:0-160 %%",
+        "Kenzo: Yeah, I recognize these words. It says, \"I bind you to the black wind. I bind you to my flame. I bind you in my power until the sun fails and the moon is dead.\"",
+        "",
+        "%% u2521:0-5, u2522:0-29 %%",
+        "Wellby: Black—like flame? What does it say?",
+        "",
+        "%% u2523:0-120, u2524:0-36 %%",
+        "Kenzo: \"I bind you to the black wind. I bind you to my flame. I bind you in my power until the sun fails and the moon is dead.\" Whose power? Don’t touch that thing.",
+        "",
+        "%% u2525:0-17, u2526:0-22 %%",
+        "Seeker: Who's I in there? Wow, very interesting.",
+        "",
+        "%% u2527:0-52 %%",
+        "Kenzo: We should take this with us, but put it on the disk.",
+        "",
+        "%% u2528:0-36, u2529:0-31 %%",
+        "Seeker: Yeah, I was thinking the same thing. Who's gonna put it on the disk?",
+        "",
+        "%% u2530:0-22 %%",
+        "Delwath: I'll use my Mage Hand.",
+        "",
+        "%% u2531:0-29 %%",
+        "Unknown: Yeah, I'm just gonna say okay.",
+        "",
+        "%% u2532:0-8, u2533:0-27, u2534:0-18, u2535:0-29, u2536:0-81 %%",
+        "Delwath: And this—I mean, do we get the sense—that was—I'll say—it was the sense of anger and like almost a driving force urging me to crush and kill when I came in this room.",
+        "",
+        "%% u2537:0-37 %%",
+        "Seeker: I noticed something weird, too. Yeah.",
+        "",
+        "%% u2538:0-34 %%",
+        "Kenzo: I think it's because of the staff.",
+        "",
+        "%% u2539:0-96 %%",
+        "Delwath: It struck me that that same driving force seems to have been animating all the creatures we met.",
+        "",
+        "%% u2540:0-40, u2541:0-23 %%",
+        "Seeker: I wonder if we could destroy this thing. Is that the thing, Tim?",
+        "",
+        "%% u2542:0-21, u2543:0-22 %%",
+        "DM: That's why the thing—like, starting things?",
+        "",
+        "%% u2544:0-91 %%",
+        "Seeker: Is there magic imbuing power in this piece of obsidian, which is acting as a magical focus?",
+        "",
+        "%% u2545:0-4 %%",
+        "Unknown: It's—",
+        "",
+        "%% u2546:0-23 %%",
+        "DM: Certainly possible it's—",
+        "",
+        "%% u2547:0-7, u2548:0-45, u2549:0-53, u2550:0-23, u2551:0-26, u2552:0-19, u2553:0-52, u2554:0-47, u2555:0-35, u2556:0-4, u2557:0-19, u2558:0-31, u2559:0-41, u2560:0-11, u2561:0-68, u2562:0-33, u2563:0-109, u2564:0-4, u2565:0-62, u2566:0-52, u2567:0-41, u2568:0-75, u2569:0-32, u2570:0-132, u2571:0-71, u2572:0-34, u2573:0-24, u2574:0-36, u2575:0-65, u2576:0-47, u2577:0-51, u2578:0-88, u2579:0-28, u2580:0-62, u2581:0-5, u2582:0-43, u2583:0-5, u2584:0-3, u2585:0-16 %%",
+        "((Detect Magic discussion and exploration of the cave))",
+        "",
+        "%% u2586:0-96 %%",
+        "DM: Ah, I mean the whole the staff and the obsidian crystal on top of it are are clearly magical and—",
+        "",
+        "%% u2587:0-9 %%",
+        "((Detect Magic discussion and exploration of the cave))",
+        "",
+        "%% u2588:0-89, u2589:0-97 %%",
+        "DM: The sort of way that darkness kind of collects around the obsidian certainly doesn't seem you know, it's not normal, it's definitely magical and you clearly see that it is in fact magical.",
+        "",
+        "%% u2590:0-88 %%",
+        "Kenzo: And any sense of its history—when did it come from, how old is it, is it a famous relic?",
+        "",
+        "%% u2591:0-45, u2592:0-3, u2593:0-4 %%",
+        "DM: It's nothing you recognize as a famous relic. It—it's—",
+        "",
+        "%% u2594:0-21, u2595:0-31 %%",
+        "Kenzo: Everything is a poem. Do I recognize the inscription?",
+        "",
+        "%% u2596:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u2597:0-7, u2598:0-17, u2599:0-1 %%",
+        "((Detect Magic discussion and exploration of the cave))",
+        "",
+        "%% u2600:0-21, u2601:0-4 %%",
+        "Kenzo: Before the Great War. It's—",
+        "",
+        "%% u2602:0-220, u2603:0-31 %%",
+        "DM: It's not. I mean, it's not within the past generation, you don't you don't really know how old it is beyond that it doesn't seem ancient, you know, it's not like a ancient relic from 1000 years ago or anything like that. You don't have a great sense of—",
+        "",
+        "%% u2604:0-34 %%",
+        "Seeker: Would it have been made by dwarfs?",
+        "",
+        "%% u2605:0-43 %%",
+        "Kenzo: Yeah, I was gonna say: hobgoblins? Dwarves?",
+        "",
+        "%% u2606:0-31 %%",
+        "DM: Definitely not made by dwarves.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay.",
+          "DM: You sort of feel a momentary wave of anger pass over you as you step into the cave, but—",
+          "Delwath: The—",
+          "Seeker: Low—",
+          "DM: It fades quickly."
+        ],
+        "after": [
+          "Unknown: Um,",
+          "Delwath: Is there anything on the hobgoblin skeletons body?",
+          "DM: Yes.",
+          "Seeker: Nice.",
+          "DM: Hold on. Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "A necklace reminiscent of Cha’mutte’s symbol",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2615",
+        "endUid": "u2632"
+      },
+      "lines": [
+        "%% u2615:0-57, u2616:0-20, u2617:0-17, u2618:0-37 %%",
+        "DM: On the undead's body there's—I mean, it's mostly rotting. However, you do find around its neck a like a silver necklace that's twisted.",
+        "",
+        "%% u2619:0-137 %%",
+        "DM: Almost—you could imagine it's like two wings and fire coming out from in between the wings, with a black pearl set in the middle of that.",
+        "",
+        "%% u2620:0-23 %%",
+        "Delwath: That symbolize anything?",
+        "",
+        "%% u2621:0-30, u2622:0-24 %%",
+        "DM: Nothing that you recognize I'm—actually, hold on a sec.",
+        "",
+        "%% u2623:0-18 %%",
+        "((Unrelated discussion and table mechanics))",
+        "",
+        "%% u2624:0-28, u2625:0-42, u2626:0-43 %%",
+        "Delwath: Delwath looks a little pale, and kind of points to the symbol and says: “This looks like one of Cha'mutte's symbols.”",
+        "",
+        "%% u2627:0-6, u2628:0-23 %%",
+        "Seeker: Really? What makes you say that?",
+        "",
+        "%% u2629:0-36, u2630:0-19, u2631:0-33 %%",
+        "Delwath: I fought in the Great War, remember? Reminiscent of what what his, his armies carried then.",
+        "",
+        "%% u2632:0-31 %%",
+        "Kenzo: We should destroy these things.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Is there anything on the hobgoblin skeletons body?",
+          "DM: Yes.",
+          "Seeker: Nice.",
+          "DM: Hold on. Yeah.",
+          "Kenzo: Wow. Okay."
+        ],
+        "after": [
+          "Delwath: Should—",
+          "Seeker: Are there no other exits to this cave room that we’re in?",
+          "DM: There it. There is another exit. There's an exit on the north east side, which if you can kind of imagine your spatial geometry, would lead into baby cockatrice room.",
+          "Seeker: Oh, it forms a kind of loop.",
+          "DM: It forms a kind of loop, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Zendra and the Shakun Mysteries",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2670",
+        "endUid": "u2686"
+      },
+      "lines": [
+        "%% u2670:0-24, u2671:0-29 %%",
+        "Kenzo: What was the name of the the guy back in town? Zendra.",
+        "",
+        "%% u2672:0-10 %%",
+        "DM: Zendra, so.",
+        "",
+        "%% u2673:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u2674:0-27 %%",
+        "Kenzo: Do any of you trust Zendra?",
+        "",
+        "%% u2675:0-25, u2676:0-22 %%",
+        "Delwath: I have not met Zendra, so trust is very elusive.",
+        "",
+        "%% u2677:0-3 %%",
+        "Unknown: Not—",
+        "",
+        "%% u2678:0-35, u2679:0-3, u2680:0-88 %%",
+        "Delwath: I trust anybody associated with the, the—what are they called? I forget the name of the cult, the magic—the cult of magic people.",
+        "",
+        "%% u2681:0-9 %%",
+        "Wellby: Say sorry?",
+        "",
+        "%% u2682:0-9 %%",
+        "Delwath: Yeah, the—",
+        "",
+        "%% u2683:0-17 %%",
+        "DM: Shakun Mysteries.",
+        "",
+        "%% u2684:0-15, u2685:0-15, u2686:0-30 %%",
+        "Delwath: Mysteries, yes. They seem quite attached to their own secrets.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Just about but—",
+          "Delwath: I guess that he's been down here since the since the war. Seems like—I mean, we—did we have any sense of when this fort was last a real fort?",
+          "DM: Not that long ago.",
+          "Delwath: And—",
+          "DM: Your sense was that it would. So it was constructed you knew from your history from last session that in the in the sort of time of the Great War series of forts were constructed along the northern trade route through Dunmar to protect against a series of hobgoblin incursions coming from the north, and this was probably part of that network. How soon—whether it was occupied for a generation after the Great War or just a few years—you don't really know. It certainly fell into ruin at least 100 years ago."
+        ],
+        "after": [
+          "Kenzo: We need to learn more about these items, but the horn, too, but—",
+          "Unknown: No.",
+          "Delwath: I just asked you a question.",
+          "Wellby: Well, we've seen everything there is to see down here except the cockatrices closer up, so I think we should get out of here now.",
+          "Delwath: Yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "A flaw in the obsidian and a possible Great War weapon",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2720",
+        "endUid": "u2734"
+      },
+      "lines": [
+        "%% u2720:0-75, u2721:0-14, u2722:0-130 %%",
+        "DM: As you sort of are looking at it and thinking about glass and obsidian, and you know, it's—it does seem like actually the way it's constructed, there is a point where if you could strike it at that point it would shatter.",
+        "",
+        "%% u2723:0-263 %%",
+        "DM: Now whether this is protected in some way or there's something about it that would prevent that from working, it’s hard to tell but sort of in your just kind of like sort of pondering it, you can see that it's it's not a perfect crystal. There seems to be a flaw.",
+        "",
+        "%% u2724:0-71, u2725:0-39, u2726:0-51, u2727:0-14, u2728:0-49, u2729:0-111 %%",
+        "Delwath: So, Delwath's been kind of looking at the thing for a bit, and he says: This really seems to me—this reminds me like nothing so much as the magic of the Great War. I think it's a it could be a—strikes me, it could be a weapon of Cha'mutte, or a relic left behind—some unused magic to drive the opposing armies mad and tear each other apart.",
+        "",
+        "%% u2730:0-34 %%",
+        "Seeker: It does seem to have a flaw in it.",
+        "",
+        "%% u2731:0-20, u2732:0-11, u2733:0-8 %%",
+        "Delwath: What I don't know is how did it get free?",
+        "",
+        "%% u2734:0-62 %%",
+        "Seeker: Perhaps it was put here by some more powerful malevolent actor.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Nice.",
+          "Kenzo: Oh, should I make an Arcana check too?",
+          "DM: No, just Seeker.",
+          "Delwath: Ask you another question.",
+          "DM: I got it. Um, so—"
+        ],
+        "after": [
+          "Delwath: Can you tell with your Stone Sense how recent the tunnel into the cave is? Do we have any way of knowing if that was—",
+          "Seeker: The tunnel. So great question.",
+          "Unknown: Wake—",
+          "Delwath: Been here for, yeah, yeah, but—",
+          "Seeker: What?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Resisting and destroying the obsidian staff",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2761",
+        "endUid": "u3033"
+      },
+      "lines": [
+        "%% u2761:0-57 %%",
+        "Delwath: If it does feel like maybe we should do this in sunlight.",
+        "",
+        "%% u2762:0-10 %%",
+        "Wellby: Hmm, let's—",
+        "",
+        "%% u2763:0-23, u2764:0-25 %%",
+        "Kenzo: We can take it outside. I think we should. Let's—",
+        "",
+        "%% u2765:0-73, u2766:0-19 %%",
+        "Seeker: Let's, let's get it up onto the disk. We can float it up out of the cave. Get some fresh air.",
+        "",
+        "%% u2767:0-88, u2768:0-13, u2769:0-52, u2770:0-25, u2771:0-5 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2772:0-77, u2773:0-46 %%",
+        "Seeker: The relative ages of the different features here would be interesting to know. Good question. Okay, so we're floating it out.",
+        "",
+        "%% u2774:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u2775:0-38, u2776:0-30, u2777:0-9, u2778:0-35, u2779:0-21 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2780:0-72 %%",
+        "DM: Let's put them on the disk. As soon as you start walking away from here—",
+        "",
+        "%% u2781:0-56, u2782:0-42 %%",
+        "Delwath: Delwath throws up his hand as soon as we start to leave. I think it's better if we destroy it here.",
+        "",
+        "%% u2783:0-20 %%",
+        "Seeker: Oh yeah, why is that?",
+        "",
+        "%% u2784:0-9 %%",
+        "Delwath: Intuition.",
+        "",
+        "%% u2785:0-287, u2786:0-67, u2787:0-21, u2788:0-40 %%",
+        "Seeker: Hmm, well, and just, just, just to point out, generally speaking, when we're doing heavy duty stone work under the ground, anything that could create any kind of like concussion type of you know explosion or implosion, you want to have as much open space around you as possible, obviously. And so just think about what might happen when we attack this flaw. You know, better to be not confined—confined is all I'm saying.",
+        "",
+        "%% u2789:0-5, u2790:0-10, u2791:0-27, u2792:0-36 %%",
+        "Delwath: Yeah. Who knows? Who knows what will happen if it sees the light of day, though.",
+        "",
+        "%% u2793:0-9 %%",
+        "Seeker: Oh, yeah.",
+        "",
+        "%% u2794:0-51, u2795:0-38 %%",
+        "Delwath: Could it, in fact, affect more people, more things? It feels maybe a bit dangerous and, and—",
+        "",
+        "%% u2796:0-17, u2797:0-38 %%",
+        "Kenzo: I'm with Delwath. We destroy—we destroy this thing here.",
+        "",
+        "%% u2798:0-30 %%",
+        "Delwath: I think the sooner the better.",
+        "",
+        "%% u2799:0-56, u2800:0-8, u2801:0-4, u2802:0-105 %%",
+        "Seeker: So just—so just to review the options I have an idea for taking a—some sturdy metal object and striking it precisely on its point of flaw, and then Kenzo has some idea as well.",
+        "",
+        "%% u2803:0-98 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2804:0-24, u2805:0-19, u2806:0-73, u2807:0-26 %%",
+        "DM: As you as you're talking you can see there's some centipedes that are starting to like crawl out of the ground. Do you—start to head towards you.",
+        "",
+        "%% u2808:0-14, u2809:0-15 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2810:0-27, u2811:0-8 %%",
+        "DM: Not—just, like normal little agitated.",
+        "",
+        "%% u2812:0-8, u2813:0-27, u2814:0-16, u2815:0-62, u2816:0-8, u2817:0-27, u2818:0-26 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2819:0-87, u2820:0-199, u2821:0-109, u2822:0-195, u2823:0-54 %%",
+        "Kenzo: So you—if you all just kind of get like you know 10 or 15 feet back away from me. Yeah. You see Kenzo pull something from his neck. It's a little hard to see what he's pulling, but he rips something off of his neck. And then, Tim, I take the—you know what—and bring it close to the flaw. And just, you can type me and tell me what I’m feeling as I get closer and closer to it. And then I basically if it's feeling right—and I'm relying very strongly on my intuition right now—if it's feeling like a good thing to do, I jam the flaw with the you-know-what and basically shove it into that spot. And then we'll just tell me, tell me what happens as I—",
+        "",
+        "%% u2824:0-4, u2825:0-31, u2826:0-20, u2827:0-19, u2828:0-70, u2829:0-15, u2830:0-3, u2831:0-37, u2832:0-66, u2833:0-21, u2834:0-6 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2835:0-62 %%",
+        "Kenzo: So, Tim, I am not getting the feeling like my plan is working.",
+        "",
+        "%% u2836:0-37 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2837:0-14 %%",
+        "Seeker: What happened?",
+        "",
+        "%% u2838:0-99, u2839:0-22 %%",
+        "Kenzo: I had a feeling about the staff, but it's trying to speak to me. It's trying to tell me to take it. Knows things about me.",
+        "",
+        "%% u2840:0-21 %%",
+        "Wellby: It knows things about?",
+        "",
+        "%% u2841:0-39, u2842:0-95 %%",
+        "Kenzo: It does. We have to destroy this thing. It's gonna affect all of us. We have to destroy it. I don't know how. What if we could use the—",
+        "",
+        "%% u2843:0-7 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2844:0-11 %%",
+        "Unknown: Spearpoint.",
+        "",
+        "%% u2845:0-23, u2846:0-34 %%",
+        "Seeker: Oh, that's interesting. Is silver metal enough to do this?",
+        "",
+        "%% u2847:0-100, u2848:0-11, u2849:0-45, u2850:0-31 %%",
+        "Kenzo: Well, I did the same thing, Tim. I take the—because I'm holding it. It's got the flame on it, right? Yeah, [garbled]—if I bring that closer to the flaw, does that do anything, feel like anything?",
+        "",
+        "%% u2851:0-99, u2852:0-37 %%",
+        "DM: It doesn't feel like just touching it with anything, it’s gonna do anything like you almost have to—I mean, you need to strike the thing.",
+        "",
+        "%% u2853:0-120 %%",
+        "Seeker: I can tell you pretty precisely: it's going to need to be, you know, a sledgehammer blow to shatter something like that.",
+        "",
+        "%% u2854:0-120, u2855:0-45, u2856:0-24, u2857:0-17, u2858:0-15, u2859:0-11 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2860:0-74, u2861:0-51 %%",
+        "Kenzo: Yeah, I take, I take the spearpoint, put it into the—the defect, and then— rear it back and take a smack with my quarterstaff.",
+        "",
+        "%% u2862:0-46, u2863:0-20, u2864:0-13, u2865:0-5, u2866:0-5, u2867:0-3, u2868:0-25, u2869:0-85, u2870:0-27, u2871:0-30, u2872:0-3 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2873:0-34, u2874:0-114 %%",
+        "DM: You—there’s a—you feel like this horrible pain in your mind, as there's this feedback backlash of psychic energy, ((Damage bookkeeping))",
+        "",
+        "%% u2875:0-95, u2876:0-49, u2877:0-61 %%",
+        "DM: But the, the blow seems to have done something as a crack begins to appear in the center of the—in the center of what was before a solid crystal. Almost like a crack that's starting to form from that strike.",
+        "",
+        "%% u2878:0-3 %%",
+        "Seeker: Um—",
+        "",
+        "%% u2879:0-45, u2880:0-10 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2881:0-75, u2882:0-18, u2883:0-34, u2884:0-25 %%",
+        "Kenzo: You see Kenzo kind of stumble back, blood starting to come out of his nose. Just like stunned. Well, definitely didn't like that. I'm gonna try to do that.",
+        "",
+        "%% u2885:0-31 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2886:0-50 %%",
+        "Seeker: I get out my—what's it called?—my mason's toolkit.",
+        "",
+        "%% u2887:0-10 %%",
+        "DM: Huh, yeah.",
+        "",
+        "%% u2888:0-13, u2889:0-15, u2890:0-20 %%",
+        "Seeker: I have like a stone trimmers? A hammer and chisel.",
+        "",
+        "%% u2891:0-22, u2892:0-51 %%",
+        "Kenzo: That I can use anybody—that might be nice, to—as I'm almost dead right now.",
+        "",
+        "%% u2893:0-39 %%",
+        "Seeker: Yeah, I don't have any ability to that.",
+        "",
+        "%% u2894:0-60, u2895:0-138, u2896:0-20 %%",
+        "Seeker: I think I got this. So I get out my kit, lay everything out, screw together a little jig to hold it in place, line it all up, and I'm just going to give it one very powerful tap in exactly the right—just as you start to—",
+        "",
+        "%% u2897:0-177 %%",
+        "DM: Just as you start to swing down on it, it's almost like there's something around the obsidian. Your hammer—your mason's tool—can't quite even make contact; it just bounces back.",
+        "",
+        "%% u2898:0-32, u2899:0-33 %%",
+        "Seeker: Um, well, that's not gonna work. Kenzo, can I see that spearpoint?",
+        "",
+        "%% u2900:0-38, u2901:0-60, u2902:0-8, u2903:0-50, u2904:0-10, u2905:0-29, u2906:0-5, u2907:0-60, u2908:0-44, u2909:0-105, u2910:0-25, u2911:0-35, u2912:0-5, u2913:0-31 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2914:0-84 %%",
+        "Seeker: Okay, so, Kenzo, can I see the spearpoint? Yeah, so I just swap it in for my chisel.",
+        "",
+        "%% u2915:0-14, u2916:0-41, u2917:0-20, u2918:0-6, u2919:0-35, u2920:0-12, u2921:0-53, u2922:0-72, u2923:0-28, u2924:0-6, u2925:0-9, u2926:0-27, u2927:0-17 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2928:0-27, u2929:0-22, u2930:0-11, u2931:0-46, u2932:0-14 %%",
+        "DM: Your blow goes wide and the spearpoint shifts, but but doesn't—but you don't get a solid enough blow on it to do any damage.",
+        "",
+        "%% u2933:0-19, u2934:0-13, u2935:0-20, u2936:0-38, u2937:0-67, u2938:0-56, u2939:0-54, u2940:0-23, u2941:0-3, u2942:0-32, u2943:0-13, u2944:0-6, u2945:0-29 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2946:0-53, u2947:0-80 %%",
+        "Seeker: It’s, it’s trying to—it’s, uh huh. That's interesting. I think that this thing is quite malevolent, and it's trying to persuade us that—",
+        "",
+        "%% u2948:0-33 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2949:0-35 %%",
+        "Seeker: That we should take its, its power.",
+        "",
+        "%% u2950:0-81 %%",
+        "Kenzo: Seeker, yes, it's trying to manipulate us. That's why we have to fucking kill it.",
+        "",
+        "%% u2951:0-7 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2952:0-55 %%",
+        "Kenzo: Go next with the spearpoint and try to fucking kill it.",
+        "",
+        "%% u2953:0-57 %%",
+        "Seeker: Maybe, maybe I should step by step away from, from that or—",
+        "",
+        "%% u2954:0-39, u2955:0-69, u2956:0-17 %%",
+        "Wellby: Reach out. Can you toss me that hammer? ((Other description))",
+        "",
+        "%% u2957:0-70, u2958:0-36, u2959:0-5, u2960:0-14, u2961:0-18, u2962:0-56, u2963:0-57, u2964:0-13, u2965:0-15, u2966:0-9, u2967:0-20, u2968:0-23, u2969:0-7, u2970:0-24, u2971:0-15, u2972:0-21, u2973:0-6, u2974:0-3, u2975:0-3, u2976:0-3, u2977:0-10, u2978:0-29 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2979:0-83, u2980:0-24, u2981:0-9, u2982:0-229 %%",
+        "DM: You are not so familiar with how to handle a mason's hammer and a silver spearpoint enchanted with continual flame and manage to strike it. It's a pretty solid blow, but it's not very well aimed, and as another chip flies and the crack widens, again a blast of energy—like backlash static—hits your mind, ((Damage bookkeeping))",
+        "",
+        "%% u2983:0-46, u2984:0-24, u2985:0-55, u2986:0-3, u2987:0-96, u2988:0-23, u2989:0-55, u2990:0-38, u2991:0-38, u2992:0-7 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u2993:0-8, u2994:0-22, u2995:0-13, u2996:0-6, u2997:0-87, u2998:0-36, u2999:0-85 %%",
+        "Delwath: That was—Delwath steps forward, and you see a like a shadowy form of a longsword appearing in his hand, and then it slowly coalesces into an actual weapon. Let me try with this. Never—I mean, it just appears out of nowhere, he swings. I'll swing it at the, at the—",
+        "",
+        "%% u3000:0-24, u3001:0-5, u3002:0-25, u3003:0-29, u3004:0-33, u3005:0-78, u3006:0-24 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u3007:0-50, u3008:0-45, u3009:0-148 %%",
+        "DM: As you swing down with this shadowy sword onto the, the obsidian crystal aiming for the flaw that, that Wellby pointed out, you strike it perfectly dead-on. And the entire thing shatters into about 500 small shards, and all of you feel a sense of—",
+        "",
+        "%% u3010:0-32, u3011:0-106, u3012:0-12, u3013:0-36 %%",
+        "DM: ((Comparison)) This tension kind of drains from you as something fades as this obsidian is destroyed.",
+        "",
+        "%% u3014:0-5 %%",
+        "Seeker: Whoa.",
+        "",
+        "%% u3015:0-76 %%",
+        "DM: And with that strike, the shadowy weapon starts to fade from Delwath's hand.",
+        "",
+        "%% u3016:0-42 %%",
+        "Kenzo: Why didn't you use that thing before, man?",
+        "",
+        "%% u3017:0-18 %%",
+        "Seeker: What was that, oh—",
+        "",
+        "%% u3018:0-11 %%",
+        "Kenzo: Before now?",
+        "",
+        "%% u3019:0-25, u3020:0-34 %%",
+        "Delwath: I didn't know how before. My, my intuition showed me the way.",
+        "",
+        "%% u3021:0-2 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u3022:0-174, u3023:0-24 %%",
+        "DM: As a sort of sense of calm passes over you, you notice that the centipedes and some insects that had been clustered close around you and sort of nipping at your legs begin to fade back into the cave.",
+        "",
+        "%% u3024:0-16, u3025:0-12, u3026:0-9, u3027:0-73, u3028:0-5, u3029:0-22, u3030:0-54, u3031:0-29 %%",
+        "((Repeated planning, interruptions, checks, and damage bookkeeping))",
+        "",
+        "%% u3032:0-62 %%",
+        "Seeker: Does it seem safe to take an obsidian shard for my collection?",
+        "",
+        "%% u3033:0-96 %%",
+        "DM: Ah, yeah, it seems that as you reach out and pick it up, it just seems like normal obsidian now.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: That's what I'm thinking too, but I just had an intuition on something here.",
+          "Seeker: Well, what kind of intuition?",
+          "Kenzo: Just stand back and give me a little space for a moment, if that's all right.",
+          "Wellby: That's the thing we should do in a cave?",
+          "Seeker: This is my area, by the way. I just mean manipulating stone things."
+        ],
+        "after": [
+          "Unknown: I'm—",
+          "Delwath: I'm getting pretty tired, it would be good to wrap up soon.",
+          "Seeker: And I think we, that was a good—",
+          "Delwath: I think that was a good—",
+          "DM: Spot to wrap up."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Keeping the nonmagical symbol necklace",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3039",
+        "endUid": "u3041"
+      },
+      "lines": [
+        "%% u3039:0-51 %%",
+        "Kenzo: What about the artifacts—the symbol necklace thing?",
+        "",
+        "%% u3040:0-90 %%",
+        "Delwath: We should take that just for historical curiosity, if nothing else, it's not magical, right?",
+        "",
+        "%% u3041:0-20 %%",
+        "DM: No, it’s not magical.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: I'm—",
+          "Delwath: I'm getting pretty tired, it would be good to wrap up soon.",
+          "Seeker: And I think we, that was a good—",
+          "Delwath: I think that was a good—",
+          "DM: Spot to wrap up."
+        ],
+        "after": [
+          "Wellby: What if we take that and take the statue up and then take a long rest in the temple, so—",
+          "Kenzo: Yes, don't do that.",
+          "Seeker: I support that plan. We can park the statue at—no, park the statue inside there with us. Yeah.",
+          "Delwath: Let's just take a long rest somewhere where the wind—oh, yes, yeah.",
+          "Kenzo: Yeah inside."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Taking the petrified explorer to the temple",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3042",
+        "endUid": "u3055"
+      },
+      "lines": [
+        "%% u3042:0-87 %%",
+        "Wellby: What if we take that and take the statue up and then take a long rest in the temple, so—",
+        "",
+        "%% u3043:0-19 %%",
+        "Kenzo: Yes, don't do that.",
+        "",
+        "%% u3044:0-20, u3045:0-25, u3046:0-48 %%",
+        "Seeker: I support that plan. We can park the statue at—no, park the statue inside there with us. Yeah.",
+        "",
+        "%% u3047:0-67 %%",
+        "Delwath: Let's just take a long rest somewhere where the wind—oh, yes, yeah.",
+        "",
+        "%% u3048:0-11 %%",
+        "Kenzo: Yeah inside.",
+        "",
+        "%% u3049:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u3050:0-73, u3051:0-10, u3052:0-3, u3053:0-12 %%",
+        "((Horse epilogue introduction))",
+        "",
+        "%% u3054:0-31, u3055:0-42 %%",
+        "DM: Let's say you take a long rest. And then, when you wake up in the morning,",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I think that was a good—",
+          "DM: Spot to wrap up.",
+          "Kenzo: What about the artifacts—the symbol necklace thing?",
+          "Delwath: We should take that just for historical curiosity, if nothing else, it's not magical, right?",
+          "DM: No, it’s not magical."
+        ],
+        "after": [
+          "Seeker: Scrambled cockatrice eggs.",
+          "DM: That the sun comes up.",
+          "DM: But the the desert feels very different, like before, where you had seen you know scorpions fighting each other and all of these things. It almost seems like there's, you know, a calm has spread across this area, and it doesn't feel entirely safe, but it doesn't feel—",
+          "DM: It feels—again, it feels like you didn't realize quite how on edge you had been ever since getting to this fort, and now you sort of take a deep breath and relax.",
+          "DM: And as you head back to your camp, climbing up the cliff, you hear neighing. That is a good spot to end."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The camp horse survives",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u3050",
+        "endUid": "u3072"
+      },
+      "lines": [
+        "%% u3050:0-73, u3051:0-10, u3052:0-3 %%",
+        "DM: Okay, so just in the interest of resolving the key question of the night: the horse. You—",
+        "",
+        "%% u3053:0-12 %%",
+        "((Descriptions of the desert, reactions, and closing chatter))",
+        "",
+        "%% u3054:0-31, u3055:0-42 %%",
+        "DM: Let's say you take a long rest. And then, when you wake up in the morning,",
+        "",
+        "%% u3056:0-26 %%",
+        "((Descriptions of the desert, reactions, and closing chatter))",
+        "",
+        "%% u3057:0-22 %%",
+        "DM: That the sun comes up.",
+        "",
+        "%% u3058:0-79, u3059:0-119, u3060:0-45, u3061:0-19, u3062:0-120, u3063:0-41 %%",
+        "((Descriptions of the desert, reactions, and closing chatter))",
+        "",
+        "%% u3064:0-34, u3065:0-41, u3066:0-27 %%",
+        "DM: And as you head back to your camp, climbing up the cliff, you hear neighing. That is a good spot to end.",
+        "",
+        "%% u3067:0-43, u3068:0-26 %%",
+        "((Descriptions of the desert, reactions, and closing chatter))",
+        "",
+        "%% u3069:0-50 %%",
+        "DM: I gotta go to bed. Like, the key for the horse is—",
+        "",
+        "%% u3070:0-5 %%",
+        "Kenzo: Gonna—",
+        "",
+        "%% u3071:0-85, u3072:0-5 %%",
+        "DM: Like, if you took a long rest before destroying the crystal, the horse was gonna die. Okay.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yes, don't do that.",
+          "Seeker: I support that plan. We can park the statue at—no, park the statue inside there with us. Yeah.",
+          "Delwath: Let's just take a long rest somewhere where the wind—oh, yes, yeah.",
+          "Kenzo: Yeah inside.",
+          "Delwath: Yes."
+        ],
+        "after": [
+          "Unknown: So—",
+          "Kenzo: All right, gentlemen, are we doing this in two weeks on a Friday now?",
+          "Unknown: So—",
+          "DM: Yeah. What are you guys schedules? I mean, I was—so I could do that.",
+          "Wellby: To—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

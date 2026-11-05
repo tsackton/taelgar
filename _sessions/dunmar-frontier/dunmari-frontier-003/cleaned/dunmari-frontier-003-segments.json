@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-003",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+    "sessionYamlSha256": "2e49563a04579e23073f13480075573551d8c4dfdbbf5d137e7454e792ee3c91",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-transcript.md",
+    "transcriptSha256": "c6e8fb5c63ec990d83449cfec74d9ff78da0f4d6aea0445b9d03db50892aef85"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0008"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0009",
+        "endUid": "u0055"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0056",
+        "endUid": "u0496"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0497",
+        "endUid": "u0721"
+      },
+      "category": "combat",
+      "note": "Includes the ambush and readied Eldritch Blast immediately before initiative."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0722",
+        "endUid": "u0764"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0765",
+        "endUid": "u0783"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0784",
+        "endUid": "u1816"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1817",
+        "endUid": "u1889"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1890",
+        "endUid": "u1968"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1969",
+        "endUid": "u2503"
+      },
+      "category": "combat",
+      "note": "Includes the immediate ambush/setup before initiative; ends when the enemies are defeated. The later work to destroy the staff has no repeated ordered turn cycle."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2504",
+        "endUid": "u3034"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u3035",
+        "endUid": "u3038"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u3039",
+        "endUid": "u3067"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u3068",
+        "endUid": "u3098"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

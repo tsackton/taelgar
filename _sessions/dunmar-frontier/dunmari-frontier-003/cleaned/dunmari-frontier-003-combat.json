@@ -1,0 +1,475 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-003",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+    "sessionYamlSha256": "2e49563a04579e23073f13480075573551d8c4dfdbbf5d137e7454e792ee3c91",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-transcript.md",
+    "transcriptSha256": "c6e8fb5c63ec990d83449cfec74d9ff78da0f4d6aea0445b9d03db50892aef85",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-segments.json",
+      "sha256": "d080d45aaaff7b407e7acd8377d4c38c737097e1774cdd3d5f3c9c2546603c0f",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Burrowing ankheg ambush in the fort",
+      "openingActions": [
+        {
+          "actor": "Ankheg",
+          "kind": "event",
+          "summary": "Bursts from beneath Wellby, bites for 5 slashing and 3 acid damage, and grapples him in its mandibles.",
+          "evidence": [
+            {
+              "startUid": "u0497",
+              "endUid": "u0510"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath",
+          "kind": "reaction",
+          "summary": "Fires his readied Eldritch Blast at the ankheg; it misses.",
+          "evidence": [
+            {
+              "startUid": "u0497",
+              "endUid": "u0514"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Runs toward the fight from the cistern and casts Sleep at the ankheg. The DM explains how to exclude Wellby from its area; the roll produces no effect.",
+              "evidence": [
+                {
+                  "startUid": "u0528",
+                  "endUid": "u0570"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Rushes beside Wellby. His quarterstaff misses; Flurry of Blows connects and damages the ankheg, which continues holding Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u0573",
+                  "endUid": "u0603"
+                }
+              ],
+              "note": "The spoken record does not give damage totals or separate outcomes for both Flurry strikes."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Tries to escape with Acrobatics and fails, remaining grappled.",
+              "evidence": [
+                {
+                  "startUid": "u0605",
+                  "endUid": "u0614"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Advances with sword drawn but cannot reach melee; hits the ankheg with a green blast of energy.",
+              "evidence": [
+                {
+                  "startUid": "u0615",
+                  "endUid": "u0618"
+                }
+              ]
+            },
+            {
+              "actor": "Ankheg",
+              "kind": "turn",
+              "summary": "Bites down on Wellby again but cannot secure a damaging grip: no additional damage, and the grapple continues.",
+              "evidence": [
+                {
+                  "startUid": "u0619",
+                  "endUid": "u0629"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Healing Word, restoring 6 hit points to Wellby. Moves within 30 feet and uses Mold Earth beneath the ankheg’s rear legs; the DM sets DC 12 and resolves it falling prone, still holding Wellby beneath its front.",
+              "evidence": [
+                {
+                  "startUid": "u0633",
+                  "endUid": "u0674"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Strikes the mandibles with his quarterstaff to free Wellby instead of dealing damage, then hits with one unarmed strike. The DM later confirms prone granted melee advantage; the successful attacks stand. The proposed Flurry is corrected to one ordinary strike because no ki remains.",
+              "evidence": [
+                {
+                  "startUid": "u0677",
+                  "endUid": "u0698"
+                },
+                {
+                  "startUid": "u0704",
+                  "endUid": "u0706"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Cunning Action to disengage, retreats, and shoots his shortbow. Kenzo’s melee presence permits Sneak Attack; prone imposes disadvantage, so he rerolls. The shot leaves the ankheg badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u0699",
+                  "endUid": "u0712"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Steps forward and kills the prone ankheg with a longsword strike through its chitin.",
+              "evidence": [
+                {
+                  "startUid": "u0713",
+                  "endUid": "u0721"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The ankheg is dead; Wellby has been freed and healed.",
+        "evidence": [
+          {
+            "startUid": "u0685",
+            "endUid": "u0698"
+          },
+          {
+            "startUid": "u0716",
+            "endUid": "u0721"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s010",
+      "encounter": "Skeletons and the staff-bearing undead hobgoblin",
+      "openingActions": [
+        {
+          "actor": "Obsidian staff’s influence",
+          "kind": "event",
+          "summary": "Delwath makes a Wisdom save on approaching the cavern and freezes momentarily. He identifies a source of the animals’ rage nearby; his later account describes an urge to crush and kill.",
+          "evidence": [
+            {
+              "startUid": "u1969",
+              "endUid": "u1998"
+            },
+            {
+              "startUid": "u2021",
+              "endUid": "u2022"
+            },
+            {
+              "startUid": "u2532",
+              "endUid": "u2539"
+            }
+          ]
+        },
+        {
+          "actor": "Skeletons",
+          "kind": "event",
+          "summary": "Three skeletons drop from the ceiling and approach Delwath at the cave entrance; the party enters initiative.",
+          "evidence": [
+            {
+              "startUid": "u1992",
+              "endUid": "u2010"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves six squares into view of the skeletons and resolves a Wisdom save with only a momentary shudder. Declines the ki-costing Dash and throws one dart, which misses.",
+              "evidence": [
+                {
+                  "startUid": "u2041",
+                  "endUid": "u2078"
+                }
+              ]
+            },
+            {
+              "actor": "First skeleton",
+              "kind": "turn",
+              "summary": "Advances and hits Delwath with a shortsword: attack 24, dealing 8 piercing damage despite Shield.",
+              "evidence": [
+                {
+                  "startUid": "u2079",
+                  "endUid": "u2095"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield in reaction to the first skeleton’s attack. It cannot stop that hit but blocks the next skeleton; the table ends it at the start of Delwath’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u2090",
+                  "endUid": "u2098"
+                },
+                {
+                  "startUid": "u2133",
+                  "endUid": "u2143"
+                }
+              ]
+            },
+            {
+              "actor": "Second skeleton",
+              "kind": "turn",
+              "summary": "Advances and attacks Delwath; its attack strikes his force shield and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2096",
+                  "endUid": "u2098"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Hex on the first, one-armed skeleton, then strikes it with his sword. Adding 6 Hex damage kills it; Hex can move on a subsequent turn.",
+              "evidence": [
+                {
+                  "startUid": "u2099",
+                  "endUid": "u2132"
+                }
+              ]
+            },
+            {
+              "actor": "Third skeleton",
+              "kind": "turn",
+              "summary": "Advances after Delwath’s turn, when Shield has expired, and punches him for 1 bludgeoning damage, prompting a DC 10 Constitution concentration save for Hex.",
+              "evidence": [
+                {
+                  "startUid": "u2133",
+                  "endUid": "u2153"
+                }
+              ],
+              "note": "The roll result is not spoken; Delwath’s subsequent transfer of Hex confirms it remained available."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses Mage Hand to tap the nearest skeleton’s skull; it looks behind itself, then resumes looking at Delwath. Steps back and moves the floating disk in front of himself as a barrier; it tends to drift 10–20 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u2154",
+                  "endUid": "u2195"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots at the upper of the two remaining skeletons and misses; stays in place.",
+              "evidence": [
+                {
+                  "startUid": "u2196",
+                  "endUid": "u2201"
+                }
+              ]
+            },
+            {
+              "actor": "Undead hobgoblin",
+              "kind": "event",
+              "summary": "Enters from the rear passage carrying the black iron staff with pulsing obsidian. Demands the party flee and claims the power. Delwath makes another Wisdom save, reporting 16.",
+              "evidence": [
+                {
+                  "startUid": "u2202",
+                  "endUid": "u2222"
+                }
+              ],
+              "note": "No explicit outcome is spoken for this particular save."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Smashes one remaining skeleton apart with his quarterstaff and hits the other with an unarmed strike, shattering several bones.",
+              "evidence": [
+                {
+                  "startUid": "u2226",
+                  "endUid": "u2245"
+                }
+              ]
+            },
+            {
+              "actor": "Undead hobgoblin",
+              "kind": "turn",
+              "summary": "Raises its staff and orders the party to flee. Delwath and Kenzo both resist with Wisdom saves; the attempted effect does nothing.",
+              "evidence": [
+                {
+                  "startUid": "u2253",
+                  "endUid": "u2259"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Transfers Hex to the undead hobgoblin, imposing disadvantage on Dexterity checks, then destroys the last skeleton with his melee attack.",
+              "evidence": [
+                {
+                  "startUid": "u2260",
+                  "endUid": "u2268"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Shoots the hobgoblin with his light crossbow for a glancing hit, then gives Kenzo runic inspiration: one d6 usable after seeing a roll within the next ten minutes.",
+              "evidence": [
+                {
+                  "startUid": "u2286",
+                  "endUid": "u2326"
+                }
+              ],
+              "note": "Damage is rolled but its numerical result is not spoken."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves forward and makes a Wisdom save; uncontrollable anger comes over him. His shot at the hobgoblin misses on 11. Uses his bonus action to hide against the rock after confirming Kenzo, not he, carries the light.",
+              "evidence": [
+                {
+                  "startUid": "u2328",
+                  "endUid": "u2367"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Charges the hobgoblin and makes a quarterstaff attack followed by two Flurry strikes. Two attacks hit in total; quarterstaff damage is corrected to 4 rather than 6 or 10. Retains his inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u2369",
+                  "endUid": "u2404"
+                }
+              ]
+            },
+            {
+              "actor": "Undead hobgoblin",
+              "kind": "turn",
+              "summary": "Disappears and reappears farther into the darkness, its staff faintly glowing. Fires two dark-energy bolts at Kenzo; he dodges both.",
+              "evidence": [
+                {
+                  "startUid": "u2405",
+                  "endUid": "u2420"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves closer, applies Hexblade’s Curse (+2 damage and critical hits on 19–20), and lands a critical Eldritch Blast.",
+              "evidence": [
+                {
+                  "startUid": "u2421",
+                  "endUid": "u2438"
+                }
+              ],
+              "note": "The transcript supplies no resolved damage total."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Fires his crossbow again and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2440",
+                  "endUid": "u2442"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots from hiding. The initial darkness-disadvantage ruling is corrected because the target is in dim light; the table grants advantage from hiding. His arrow deals 13 damage and badly staggers the hobgoblin. Moves and tries to hide again, less successfully.",
+              "evidence": [
+                {
+                  "startUid": "u2443",
+                  "endUid": "u2468"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses his inspiration d6 to turn a quarterstaff miss into a hit for 6 damage. His first unarmed strike misses; spends ki for another, which hits and destroys the hobgoblin. The staff falls beside the body, still radiating darkness, anger, and rage.",
+              "evidence": [
+                {
+                  "startUid": "u2469",
+                  "endUid": "u2503"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All three skeletons and the undead hobgoblin are destroyed. The fallen staff’s obsidian continues radiating rage; its later destruction happens after the fight.",
+        "evidence": [
+          {
+            "startUid": "u2260",
+            "endUid": "u2266"
+          },
+          {
+            "startUid": "u2492",
+            "endUid": "u2503"
+          }
+        ]
+      }
+    }
+  ]
+}

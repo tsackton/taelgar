@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-time-markers.json",
+    "sha256": "894dfa0b29ed089772a678b35d8372f3f8ae9e8bb326416265c33abcf7c5f722"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-transcript.md",
+    "sha256": "c6e8fb5c63ec990d83449cfec74d9ff78da0f4d6aea0445b9d03db50892aef85"
+  },
+  "dateAssessment": "No absolute date is spoken; YAML supplies March 25–26, 1748, and the completed rest followed by the next sunrise supports that one-day boundary conditional on the YAML start.",
+  "watches": [
+    {
+      "day": "March 25, 1748 (YAML)",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Morning approach lasted three to four hours; campsite investigation is mid-to-late morning, before noon.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-03-25",
+      "endDate": "1748-03-25"
+    },
+    {
+      "day": "March 25, 1748 (YAML)",
+      "startWatch": "midday",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "After lunch, an hour’s rest precedes rituals and scouting; the party reaches the cistern cavern in midafternoon.",
+      "markers": [
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-03-25",
+      "endDate": "1748-03-25"
+    },
+    {
+      "day": "March 25 → 26, 1748 (YAML)",
+      "startWatch": null,
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Rest starts at an unstated hour; eight-hour convention and waking at the next sunrise establish one overnight boundary.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-03-25",
+      "endDate": "1748-03-26"
+    }
+  ]
+}
