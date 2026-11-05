@@ -1,0 +1,1215 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "b8309f0157d02801b49c283853d385097f54a2b7f8852c4794e8a573b623c8a4"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-entity-map.json",
+      "sha256": "ddcbec0dda673940b687f9cba05c33605a17fdb6a1baa647d766217ec90a1045"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Candrosa is the temple’s head",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0046"
+      },
+      "lines": [
+        "%% u0041:0-42, u0042:0-72 %%",
+        "Kenzo: So what, what was the name again of the... So I'm, I'm, I'm there, and now I'm gonna go look for the temple, right?",
+        "",
+        "%% u0043:0-58 %%",
+        "DM: Uh, yeah, the Temple of Shakun is what you're looking for.",
+        "",
+        "%% u0044:0-11, u0045:0-30 %%",
+        "Kenzo: The person- And what's the name of... Yep.",
+        "",
+        "%% u0046:0-110 %%",
+        "DM: Uh, Speaker Candrosa is the, is the person that you would be looking for, who's, like, the head of the temple."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But you hardly notice as your steps slow, then stop, and you realize that you are staring at an image out of your dreams. A temple is carved into the side of the mesa, and extends from it. The oasis is enclosed in a stone pool and surrounded by swaying palms. There's a small village that seems to have sprung up around, of mud houses and narrow streets, punctuated by a few larger buildings and a large sandstone plaza.",
+          "DM: All of this has grown up from the desert of your dreams. A bustling tavern caravanserai stands on the outskirts of town. But take away the buildings, and the scene in front of you is unmistakably one you have seen many times over the past week of travel. Unsure of what it might mean, but drawn by an immediate connection to this place that seems at once deeply familiar and completely new, you start to head down in towards town, uh, heading down, uh, towards the caravanserai to find a room for the night, thinking about what this might mean.",
+          "DM: As you approach, you hear f- ahead of you, shouts and cries of help, breaking your reverie and snapping your attention to something that seems quite far ahead. A giant beast—two of them, hyena-like in form, but much larger than any hyena you've seen—charging into the village, people shouting, and cries as the villagers scatter in the face of these, uh, beasts appearing. And I'm gonna leave you there.",
+          "Kenzo: [laughs] Cool. Um, Tim, really quick.",
+          "Unknown: Yeah."
+        ],
+        "after": [
+          "Kenzo: Okay. Perfect. Great. So you got it. My name is, my name, my character's name is Kenzo.",
+          "DM: Kenzo. It's awesome. I like it.",
+          "Kenzo: Yeah.",
+          "DM: Okay. So send me a, um, uh, send me a, a token, by the way. Just email it to me. Send me an image of your guy.",
+          "Unknown: Okay. Uh-"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The temple’s public face and secret initiations",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0088",
+        "endUid": "u0102"
+      },
+      "lines": [
+        "%% u0088:0-23, u0089:0-138, u0090:0-77, u0091:0-152 %%",
+        "DM: Uh, you haven't been... You've been, uh, you know, asking around about the, the temple, and there's—a number of, like, lay acolytes and, and other sort of people associated with it who are perfectly happy to say they're associated with it. And you do occasionally meet, um, see, and have talked to a few times in the past, uh, Speaker Candrosa, who's the sort of public face, um, of the temp-",
+        "",
+        "%% u0092:0-6 %%",
+        "Unknown: Right.",
+        "",
+        "%% u0093:0-15, u0094:0-24, u0095:0-53, u0096:0-94, u0097:0-28 %%",
+        "DM: People do join. Um, there are, you know, uh, you've at least heard, although you don't have... You haven't heard firsthand from anybody of initiation ceremonies, usually a few times a year. But they're, they're secret.",
+        "",
+        "%% u0098:0-66, u0099:0-166, u0100:0-4 %%",
+        "DM: It's sort of like a combination of a monastery and the Freemasons. So it's not... The existence of it isn't secret, and, you know, people talk about their affiliation with it occasionally, but what actually goes along, goes on behind the-",
+        "",
+        "%% u0101:0-5 %%",
+        "Unknown: Right",
+        "",
+        "%% u0102:0-45 %%",
+        "DM: ... edifice of the, of the temple is unclear."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The breakout rooms?",
+          "Delwath: Nah, just the tech setup.",
+          "Unknown: It's good.",
+          "DM: In the past few months, you've settled into a routine in the village. After the Dunmari got over the shock of seeing a real elf in their midst, probably the first one many of them had ever seen in their lives, and learned you could be useful around the village, you found lodging in the top of a small, top floor of a small house above the tea hou- above a, a small house above a tea house, and began exploring what you could of, of these mysteries of, of Shakun.",
+          "DM: The village is small, but seems to suit your needs for now. The oasis, surrounded by a short marble wall, is the center of town, and the shade of the swaying palms dotting the plaza around it is a pleasant place to pass the time out of the heat. Surrounding the oasis, there are small clusters of mud houses and narrow streets that stretch in three dirac- directions, while to the south stands the imposing edifice of the Temple of Shakun, partially carved into the red cliffs of the mesa to the south of town."
+        ],
+        "after": [
+          "DM: Um, your lodging is at the edge of town, near the sprawling caravanserai that serves as, um, a marketplace and social center for travelers, and the place where you shop and, you know, um, a sort of trading area. During the winter months, not that many people pass through, um, because most of the Dunmar are out with their herds, um, when there's the, the rains and, and the desert is more hospitable.",
+          "DM: Um, but in the past few weeks, traffl- traffic has increased. You even heard rumors of a halfling who arrived a few days ago alone, which is unusual.",
+          "DM: However, more troubling in the past couple of weeks have been the attacks. Rarely if ever do wild animals venture into town, but twice in the past two weeks, small packs of hyenas, wild with furry, fury, have charged into town looking for prey.",
+          "DM: These are... The attacks are the talk of the town, and your status in the eyes of many have gone up after you helped drive off one, the hyenas in the first attack. Um, you're often known around town as just the elf, or elf, since, you know, most people have-",
+          "Unknown: Right"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Badya is entrusted with the injured villager",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1065",
+        "endUid": "u1088"
+      },
+      "lines": [
+        "%% u1065:0-23, u1066:0-42, u1067:0-38 %%",
+        "DM: Oh, you mean... Uh, so, um, a few customers ran out the back door. Um, but, uh, Badya, who, who you know-",
+        "",
+        "%% u1068:0-6 %%",
+        "Unknown: Mm-hmm",
+        "",
+        "%% u1069:0-24, u1070:0-36, u1071:0-81 %%",
+        "DM: ... who works there, um, uh, didn't, would not have run away. She's sort of hiding behind, um, some chairs and a table in the, in the tea room.",
+        "",
+        "%% u1072:0-77, u1073:0-52, u1074:0-48, u1075:0-54 %%",
+        "Delwath: All right. Well, I'll g- I'll go in, I'll bring him into the, into the tea... So you, so everybody sees the elf basically pick up, uh, this injured guy and run into this building. Or, or not run, but, but carry him into this building.",
+        "",
+        "%% u1076:0-54 %%",
+        "Wellby: I'll follow you in since this is the guy I stabilized.",
+        "",
+        "%% u1077:0-11 %%",
+        "((Brief interjections and departure logistics))",
+        "",
+        "%% u1078:0-85, u1079:0-161, u1080:0-50 %%",
+        "Delwath: Um, and I'll, I'll just get Badya's attention and, and just, um, find a place on the, um, you know, find a place in the tea room that I can, you know, put him down on a cushion or something and, and ask her to, to look after him, and you know, um, make sure he wakes up soon, and, and I'll be back.",
+        "",
+        "%% u1081:0-8, u1082:0-11 %%",
+        "((Brief interjections and departure logistics))",
+        "",
+        "%% u1083:0-83 %%",
+        "Delwath: The, these, th- these, this attack was much worse than the last one, I'll tell her.",
+        "",
+        "%% u1084:0-5, u1085:0-35 %%",
+        "((Brief interjections and departure logistics))",
+        "",
+        "%% u1086:0-73, u1087:0-27, u1088:0-114 %%",
+        "DM: She's probably surprised at that. Like, the first one was so bad already. ((Brief interjections and departure logistics))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: All right. Um, I'll bring him under, just underneath the awning. Uh, is there somebody in the tea room or did everybody flee?",
+          "DM: Um, so yes, uh, pretty much everybody fled. Anybody who was-",
+          "Unknown: Yeah",
+          "DM: ... anywhere close, um, fled.",
+          "Delwath: But, I mean, did they flee out of the buildings? Like, was... If... I'm, I'm gonna, I'm gonna bring him into the tea room."
+        ],
+        "after": [
+          "Delwath: Well, I wanna go look at the body.",
+          "Unknown: That's what I was- Well, we should all-",
+          "DM: ... I was about to do, yeah.",
+          "Kenzo: Yeah, 'cause what are Eric and Schwartz doing? I, I went, I was walking over to just, to... I was limping over to where, where, uh, where Mike's character was going.",
+          "Seeker: Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Cha’mutte and the devastation of Dunmar",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1510",
+        "endUid": "u1514"
+      },
+      "lines": [
+        "%% u1510:0-173, u1511:0-39, u1512:0-3, u1513:0-19, u1514:0-50 %%",
+        "DM: ((Climate history)) On top of, of course, Cha'mutte killing everybody."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: I say, uh, I'm something of a mapmaker myself. It's—",
+          "Seeker: Oh, really?",
+          "Wellby: ... part of what brings me in this direction. There's so much blank on the map to the east of here. I've always been curious.",
+          "Seeker: Indeed, and the history of this region is, is quite strange as well, from what I'm told, uh, with respect to, um, sudden, rather cataclysmic change.",
+          "DM: This is something you all would have known. Like, 200 years ago, uh, this, like, the western coastal part of Dunmar just, like, rose up out of the ocean, and these mountain chains were created, um, were sort of pushed up. Some of them are older, but there are some very new parts of the mountain, and that completely changed the climate of Dunmar."
+        ],
+        "after": [
+          "Unknown: Hm. Hm.",
+          "Kenzo: So, Wellby, you're here seeking maps? Yeah, tell me more.",
+          "Wellby: Well, uh, uh, I'm here looking for interesting things, you know?",
+          "Seeker: Hm.",
+          "Wellby: Here exploring. I mean, here just seeking out n- new experiences. I, I spent all my life wandering around the Green Sea. I, I went from one end of the Green Sea to the middle, because nobody goes past the middle, uh, uh, so... But I've never been south."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Beli heals Delwath and Kenzo and takes the wounded man",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1574",
+        "endUid": "u1617"
+      },
+      "lines": [
+        "%% u1574:0-14, u1575:0-126, u1576:0-3, u1577:0-3, u1578:0-73, u1579:0-117, u1580:0-110 %%",
+        "DM: Um, a- as, um, as they both enter, uh, the teahouse, um, the first thing, um, the, uh, the woman who fought with you does is she, um, runs up to, uh, to Delwath, the elf, and, um, pulls out, uh, from a pouch this, like, um, vial, this, like, um, almost, like, test tube, like, little glass tube, um, that has some, uh, uh, like, almost like, it almost looks like mud- It's like, it's like powder but that's been mixed with water or something like that.",
+        "",
+        "%% u1581:0-28, u1582:0-101, u1583:0-24, u1584:0-29, u1585:0-35, u1586:0-39, u1587:0-3, u1588:0-59 %%",
+        "DM: It's this reddish ochre mud. And she takes it out and she spreads it on her hands, um, and she says, uh, to Delwath, \"Thanks, elf. Um, we owe you so much.\" And she kind of rubs the, um, this ochre mud on y- on your wound. And, and the rest of you see the wound, um, begins to, to close as, um, as this mud is sort of applied.",
+        "",
+        "%% u1589:0-3, u1590:0-32, u1591:0-3 %%",
+        "((Healing totals and brief interjections))",
+        "",
+        "%% u1592:0-24 %%",
+        "Delwath: I'll nod slightly and...",
+        "",
+        "%% u1593:0-75, u1594:0-48 %%",
+        "Delwath: Or I'll, I'll sort of bow, like nod my head graciously and say, \"Thank you. I hesitated to ask, but it is much appreciated.\"",
+        "",
+        "%% u1595:0-48, u1596:0-75, u1597:0-31, u1598:0-56 %%",
+        "DM: She then, um, looks around and says, \"Before we, uh, before we talk, uh, thank you strangers, travelers to our, to our town. With... This help unlooked for. Does a- is anybody else wounded and in need of healing?\"",
+        "",
+        "%% u1599:0-182, u1600:0-20 %%",
+        "Kenzo: Uh, Kenzo kind of leans back in his chair to reveal this, like, gash across his chest that's, like, you know, looking better thanks to, thanks to Seeker, but, but definitely still... And he sort of like—",
+        "",
+        "%% u1601:0-10 %%",
+        "DM: She takes-",
+        "",
+        "%% u1602:0-48, u1603:0-21 %%",
+        "Kenzo: ... leans back and he's like, he sort of points. [laughs] He's like...",
+        "",
+        "%% u1604:0-3 %%",
+        "DM: Um,",
+        "",
+        "%% u1605:0-134, u1606:0-24, u1607:0-96, u1608:0-71 %%",
+        "DM: She takes another one of these, um, sort of vials of this sort of muddy, muddy sort of powder, and again kind of rubs it on the wound. Um, and she says, \"I...\" She, like, looks up at you slightly, in awe, and, um, rec- recognizes you as, you know, Dunmari, uh, natively from here, even though y- she doesn't know you personally.",
+        "",
+        "%% u1609:0-17, u1610:0-51, u1611:0-30, u1612:0-50 %%",
+        "DM: And she says, um, \"That was...\" Almost, like, breathlessly, \"That was very impressive in the fight.\" ((Healing totals and brief interjections))",
+        "",
+        "%% u1613:0-34, u1614:0-85, u1615:0-140, u1616:0-56, u1617:0-35 %%",
+        "DM: And then she, um, a couple of, uh, sort of other acolytes who have been hanging out in the back sort of come in briefly. And she, with them, helps carry the body of the, um, stable but badly wounded villager, and, like, sort of nods to the man as she walks out, um, saying, \"We- we'll take care of him while you chat.\" And then she leaves with the other-"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Are you, are you, are you... What, what's your connection to Chardon?",
+          "Delwath: It was an important place long ago.",
+          "Kenzo: It was. It was an important place long ago.",
+          "DM: So, so as you're talking, um, the, the woman who was in the fight with you returns with, um, two people. Um, one is a tall, uh, pretty handsome man, darker skin and short curly black hair. Um, he's wearing this ocher-colored robe trimmed in silver and walking slowly on a staff. He seems, you know, in the, you know, uh, healthy and strong, but just kind of looking around him as he moves.",
+          "DM: Um, the other is an older woman, um, sort of walking slowly with a cane, bent back, uh, clearly, um, you know, needing the cane to walk, and sort of leaning on the, the man's arm as she goes. Graying hair, weathered skin."
+        ],
+        "after": [
+          "Unknown: Kenzo?",
+          "Kenzo: Yep. How... Just, just, uh, at this time, how rare is it for there... Like how rare are elves, dwarves, and halflings? Is this like, is this gathering, like, common or is there any particular reason that's like-",
+          "DM: Elves are super like-",
+          "Unknown: Okay.",
+          "DM: Um, I mean, everybody-"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Kisa asks for help; Candrosa reacts to the magical disturbance",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1651",
+        "endUid": "u1786"
+      },
+      "lines": [
+        "%% u1651:0-51, u1652:0-74, u1653:0-3, u1654:0-57 %%",
+        "DM: Uh, okay. So as, as, um, the woman and the two, uh, a- assistants, and her two assistants leave with the wounded villager, um, the taller man and the bent older woman introduce themselves.",
+        "",
+        "%% u1655:0-95, u1656:0-85, u1657:0-3 %%",
+        "DM: Um, the man, although he doesn't speak much, introduces himself as Candrosa, Speaker of Shakun, and then sort of turns to the older woman, and, who introduces herself as Elder Kisa. Um,",
+        "",
+        "%% u1658:0-107, u1659:0-15, u1660:0-23, u1661:0-76, u1662:0-26, u1663:0-86, u1664:0-25 %%",
+        "DM: And Elder Kisa begins speaking to you, and, and starts, um, speaking in a sort of slow, uh, deliberate way. Um, \"Travelers, and our friend the elf, could have not have asked for a, uh, a more blessed coincidence than to have you all here at this time. I hesitate to even think what would have happened if you had not leapt to our defense. Many m- would have died.\"",
+        "",
+        "%% u1665:0-59, u1666:0-95, u1667:0-49, u1668:0-34, u1669:0-24 %%",
+        "DM: And then she looks, um, again at, towards Delwath and says, \"You must also think, m- must also suspect, elf, that these beasts seem to be growing stronger. One could be chance, and twice might be bad luck, but three times cannot be ignored. Something is happening.\"",
+        "",
+        "%% u1670:0-10 %%",
+        "Unknown: Yes. Yeah.",
+        "",
+        "%% u1671:0-36, u1672:0-73, u1673:0-4, u1674:0-3, u1675:0-10, u1676:0-3, u1677:0-40 %%",
+        "DM: \"And the festival is almost upon us. I would hate to think what three or four of these could do to the market. Elf, and travelers, uh, do you have any idea what is happening?\"",
+        "",
+        "%% u1678:0-33, u1679:0-138, u1680:0-51 %%",
+        "Seeker: I'd certainly like to learn more. The blood on the bodies of one of the h- of, of the, of these, uh, creatures suggests that they've been, uh, attacking others, uh, nearby. Have you heard anything, heard anything about that?",
+        "",
+        "%% u1681:0-17, u1682:0-53, u1683:0-34, u1684:0-41, u1685:0-28, u1686:0-49, u1687:0-5, u1688:0-15 %%",
+        "DM: Attacking others. There is not much else besides wandering herders and, and, uh, shepherds in these parts. We're the only village for some distance. Water is scarce, and it's... You know, without the oasis, we wouldn't be here. I am, I am surprised.",
+        "",
+        "%% u1689:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1690:0-45 %%",
+        "DM: How, how did you... What did you say you saw?",
+        "",
+        "%% u1691:0-83 %%",
+        "Seeker: Uh, just the dried blood on the, on the corpse of one of the hyenas that we killed.",
+        "",
+        "%% u1692:0-12, u1693:0-56, u1694:0-15, u1695:0-61, u1696:0-3, u1697:0-7, u1698:0-59 %%",
+        "DM: Interesting. I am concerned primarily for the safety of this village. I don't know... The fact that there was others, you say, who are hurt is, uh, um, is, uh, comes as a, as, uh, grave news and a, and a surprise to me.",
+        "",
+        "%% u1699:0-45, u1700:0-27, u1701:0-29, u1702:0-20, u1703:0-19, u1704:0-83, u1705:0-31 %%",
+        "DM: And, and as she's sort of talking to you, um, Candrosa looks over at, um, at, uh, at Ken- at Kenzo, and kind of looks at him again more, more... In a sort of more deliberate and, and concentrated way, and gives a long, slow nod, and says, \"My friend, welcome.\"",
+        "",
+        "%% u1706:0-33, u1707:0-6, u1708:0-17, u1709:0-3, u1710:0-46, u1711:0-186, u1712:0-8, u1713:0-68 %%",
+        "DM: Uh, and then turns back and says, \"Kisa, you were saying?\" Um, and then she picks up again, and she says, uh, uh... She sort of is, seems almost at a loss for words, and she, and she then turns again, like, listening to you, and sort of paying attention to everybody, but seemingly to direct her, her, uh, um, her attention mostly at the elf, and says, \"Ca- can you help us?",
+        "",
+        "%% u1714:0-44, u1715:0-113, u1716:0-10 %%",
+        "DM: Maybe if this was attacking others, somebody in the village has, has seen or, or somebody who has, who has family who have returned recently for the festival. Would you—\"",
+        "",
+        "%% u1717:0-10, u1718:0-27, u1719:0-8, u1720:0-44, u1721:0-51 %%",
+        "Delwath: We should. Yes, we should investigate. I think, um, Delwath will look towards, um, Candrosa. Do we, do I know the name of the acolyte who was...",
+        "",
+        "%% u1722:0-3, u1723:0-6 %%",
+        "((Brief interjections and table interruptions))",
+        "",
+        "%% u1724:0-63, u1725:0-3, u1726:0-19, u1727:0-58 %%",
+        "DM: Yeah, I mean, you, you've s- you've se- you've seen her around. Um, uh, you would have, you probably would have, like, um, been introduced to her-",
+        "",
+        "%% u1728:0-5 %%",
+        "((Brief interjections and table interruptions))",
+        "",
+        "%% u1729:0-28, u1730:0-25 %%",
+        "DM: ... you know, once or twice. Her na- her name is Beli.",
+        "",
+        "%% u1731:0-5 %%",
+        "Delwath: Beli?",
+        "",
+        "%% u1732:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1733:0-79, u1734:0-77 %%",
+        "Delwath: Um, so Delwath will say, \"During, d- there seems to be some magic at work here. During the fight, Beli was s- trying to do something, and it wasn't working.\"",
+        "",
+        "%% u1735:0-32 %%",
+        "Seeker: Yes, I was wondering about that.",
+        "",
+        "%% u1736:0-38 %%",
+        "Delwath: Do you know what that might have been?",
+        "",
+        "%% u1737:0-43, u1738:0-9, u1739:0-13, u1740:0-3, u1741:0-86, u1742:0-40, u1743:0-43, u1744:0-45 %%",
+        "DM: He, like, takes a deep breath, and kind of, \"That is, that is news. Um, that is news that perhaps touches upon some mysteries I may not speak of openly today. But thank you for, for that information. There are, there are secrets that puzzle me about these events, as I am sure puzzle you.\"",
+        "",
+        "%% u1745:0-30 %%",
+        "Delwath: There was a disturbance I saw.",
+        "",
+        "%% u1746:0-14 %%",
+        "DM: A disturbance?",
+        "",
+        "%% u1747:0-42, u1748:0-12 %%",
+        "((Brief interjections and table interruptions))",
+        "",
+        "%% u1749:0-31 %%",
+        "Delwath: Like a distortion of the weave.",
+        "",
+        "%% u1750:0-28, u1751:0-28, u1752:0-55, u1753:0-3, u1754:0-14 %%",
+        "DM: He... When you say that, um, he seem, he kind of looks... He almost starts to go a little bit pale, and he looks, um, n- nervous, m-",
+        "",
+        "%% u1755:0-39, u1756:0-3, u1757:0-54 %%",
+        "DM: And kind of takes a step back and says, \"I, I do not like the sound of such thing, my friend elf.\"",
+        "",
+        "%% u1758:0-41, u1759:0-38, u1760:0-23 %%",
+        "Delwath: It reminded me so much as nothing like... It reminded me like nothing so much as memory of my childhood.",
+        "",
+        "%% u1761:0-15, u1762:0-43 %%",
+        "DM: Your childhood? I've not heard you speak much of that time.",
+        "",
+        "%% u1763:0-26 %%",
+        "Delwath: You're right. That's true.",
+        "",
+        "%% u1764:0-8 %%",
+        "((Brief interjections and table interruptions))",
+        "",
+        "%% u1765:0-42 %%",
+        "Kenzo: Wait, what reminded you of your childhood?",
+        "",
+        "%% u1766:0-6 %%",
+        "Delwath: Magic.",
+        "",
+        "%% u1767:0-4, u1768:0-10 %%",
+        "Unknown: Hmm. Something-",
+        "",
+        "%% u1769:0-41, u1770:0-19 %%",
+        "Seeker: There was a disruption in your childhood? We have to dive in.",
+        "",
+        "%% u1771:0-8, u1772:0-3 %%",
+        "((Brief interjections and table interruptions))",
+        "",
+        "%% u1773:0-18, u1774:0-7, u1775:0-19, u1776:0-8, u1777:0-10, u1778:0-35, u1779:0-25 %%",
+        "Delwath: It reminded me so, more... Not the distortion. The, uh, the flavor reminded me like nothing so much as the elven masters of old.",
+        "",
+        "%% u1780:0-18 %%",
+        "Seeker: The elven masters?",
+        "",
+        "%% u1781:0-90 %%",
+        "Delwath: And Delwath kind of goes quiet, like he's probably not gonna say anything else about that.",
+        "",
+        "%% u1782:0-3, u1783:0-3 %%",
+        "((Brief interjections and table interruptions))",
+        "",
+        "%% u1784:0-42, u1785:0-3, u1786:0-37 %%",
+        "DM: Candrosa also kind of goes silent at this, and kind of looks to, to Kisa, and, um..."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Halflings travel frequently around. Le- I mean, not so common here, but there would, you know, there would be a few, um, uh, you know, there would be a few that come through every year.",
+          "DM: And dwarves would, dwarves would be irregular visitors for like the, the festival, right? They'd... There's a dwarven, you know, several dwarven cities and towns in the mountains to the, um, to the southwest. And typically there would be d- you know, parties of dwarven merchants and traders who would come into town, even a relatively small town like this, for the, like, yearly big market. And people would buy their, you know, anvils and metal tools and things and stuff like that. Um.",
+          "Kenzo: Sure.",
+          "DM: Um,",
+          "DM: But yeah, elves are, elves are definitely quite rare."
+        ],
+        "after": [
+          "DM: Oh, hold on. Uh.",
+          "Kenzo: I'm doing an arcana check.",
+          "DM: Yep, I got it. I got it. Um. I will say this is a lot more efficient than writing on note cards.",
+          "Unknown: [laughs] [laughs]",
+          "DM: Um,"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Kisa defends Karawa and Wellby apologizes",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1833",
+        "endUid": "u1872"
+      },
+      "lines": [
+        "%% u1833:0-136 %%",
+        "Wellby: Let me, let me assure you, as a person who's been in this town for two weeks, there is not two weeks worth of things to do in this town.",
+        "",
+        "%% u1834:0-8, u1835:0-8, u1836:0-5, u1837:0-3 %%",
+        "((Brief interjections and connection trouble))",
+        "",
+        "%% u1838:0-80, u1839:0-7 %%",
+        "DM: ... you say that, um, Kisa and, and Candrosa kind of look at each other and, um- Oh, no.",
+        "",
+        "%% u1840:0-10, u1841:0-15, u1842:0-16, u1843:0-26 %%",
+        "((Brief interjections and connection trouble))",
+        "",
+        "%% u1844:0-116 %%",
+        "Wellby: As, as he turns to me to say something, I suddenly catch myself remembering [laughs] that he is sitting right there.",
+        "",
+        "%% u1845:0-16, u1846:0-4, u1847:0-4 %%",
+        "((Brief interjections and connection trouble))",
+        "",
+        "%% u1848:0-9, u1849:0-75, u1850:0-47, u1851:0-5, u1852:0-49 %%",
+        "DM: Okay. Um, so, so, uh, Kisa kind of frowns when you say this and, and says, \"I, I will forgive such comments for your valor today, but we... There is, there is much to love about this town.\"",
+        "",
+        "%% u1853:0-44, u1854:0-95, u1855:0-28, u1856:0-8, u1857:0-21, u1858:0-13, u1859:0-58, u1860:0-44, u1861:0-8, u1862:0-32, u1863:0-5, u1864:0-110, u1865:0-36, u1866:0-5, u1867:0-3 %%",
+        "((Delwath’s response about village life and discussion of his age))",
+        "",
+        "%% u1868:0-54, u1869:0-66, u1870:0-38, u1871:0-89, u1872:0-19 %%",
+        "Wellby: I'll hastily try and walk it back and say, \"Well, I... Forgive me. Forgive me. Obviously, I'm a traveler passing through. My interests are different than yours. It's rude of me to cast aspersions on a city that's offered nothing but kind hospitality. Please forgive me.\""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Maybe a few weeks.",
+          "Unknown: Um,",
+          "Kenzo: Now, Ra-",
+          "Unknown: [clears throat]",
+          "DM: As you're talking, um-"
+        ],
+        "after": [
+          "Seeker: 100 years before the War.",
+          "DM: So as y- as this conversation is, is, um, continuing, um, Candrosa, who's looked, um, kind of, uh, sort of nervous ever since the conversation about magic, turns to Kisa and turns to Delwath and says, um, \"I must go check on, um, on Beli and, and my acolytes and the wounded.\"",
+          "DM: And he then turns to Kenzo, and he gives you another slow nod and says, um, \"We will speak later, my friend.\"",
+          "Unknown: Hmm.",
+          "DM: And then walks out."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Candrosa invites a later meeting; Kisa entrusts the investigation",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1874",
+        "endUid": "u1905"
+      },
+      "lines": [
+        "%% u1874:0-94, u1875:0-3, u1876:0-130, u1877:0-46 %%",
+        "DM: So as y- as this conversation is, is, um, continuing, um, Candrosa, who's looked, um, kind of, uh, sort of nervous ever since the conversation about magic, turns to Kisa and turns to Delwath and says, um, \"I must go check on, um, on Beli and, and my acolytes and the wounded.\"",
+        "",
+        "%% u1878:0-109 %%",
+        "DM: And he then turns to Kenzo, and he gives you another slow nod and says, um, \"We will speak later, my friend.\"",
+        "",
+        "%% u1879:0-4 %%",
+        "Unknown: Hmm.",
+        "",
+        "%% u1880:0-19 %%",
+        "DM: And then walks out.",
+        "",
+        "%% u1881:0-32, u1882:0-50, u1883:0-39, u1884:0-96, u1885:0-12, u1886:0-29, u1887:0-12, u1888:0-19, u1889:0-20, u1890:0-45, u1891:0-20 %%",
+        "((Clarification of Kenzo’s arrival and lodging))",
+        "",
+        "%% u1892:0-86 %%",
+        "Kenzo: I... Wait, before Candrosa leaves, I, I just say to him, um, \"Where shall I find you?\"",
+        "",
+        "%% u1893:0-40, u1894:0-23 %%",
+        "DM: \"I, I am at the temple most of the time. You will know the way.\"",
+        "",
+        "%% u1895:0-26 %%",
+        "Kenzo: Okay. I'll seek you there.",
+        "",
+        "%% u1896:0-8 %%",
+        "Unknown: Be well.",
+        "",
+        "%% u1897:0-12, u1898:0-25, u1899:0-51, u1900:0-9, u1901:0-65, u1902:0-73, u1903:0-56 %%",
+        "DM: Um, and then a- as he leaves, uh, Kisa also looks, looks at Delwath and says, um, \"I must, I must go attend to the, to the villagers and try and calm, calm them down. You have aided us several times before, but the third time pays for all. Can I leave this matter in your capable hands, good elf?\"",
+        "",
+        "%% u1904:0-10 %%",
+        "Delwath: Of course.",
+        "",
+        "%% u1905:0-22 %%",
+        "DM: And then she'll leave."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I was born 100 years before the War.",
+          "Unknown: Whoa.",
+          "DM: Uh-",
+          "Wellby: I'll hastily try and walk it back and say, \"Well, I... Forgive me. Forgive me. Obviously, I'm a traveler passing through. My interests are different than yours. It's rude of me to cast aspersions on a city that's offered nothing but kind hospitality. Please forgive me.\"",
+          "Seeker: 100 years before the War."
+        ],
+        "after": [
+          "Unknown: Hmm.",
+          "Delwath: So Delwath will sort of turn to the three of you and say, \"I could use some assistance in, uh, tracking these things down. You all, I think, have reasons to be here, but perhaps you could spare a day to, uh, see if we can learn anything.\"",
+          "Kenzo: Delwath, I, I'll be honest, I, I think the last time I saw an elf was when I was a young boy, and, uh, it's, it's, it's quite a, quite, quite something to meet you and see you. So I, I'd be delighted to spend more time, yes.",
+          "Delwath: You know Candrosa?",
+          "Kenzo: I know of Candrosa. I know of Candrosa."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Kenzo obtains a room from the tavern owner",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2056",
+        "endUid": "u2057"
+      },
+      "lines": [
+        "%% u2056:0-147, u2057:0-12 %%",
+        "Kenzo: Kenzo goes, uh, Kenzo goes, makes friends with the, the, uh, uh, the tavern owner, and, um, you know, explains he might be here for a little while. Gets a room."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Kenzo's taking his time, man. This is, this is... We're gonna be here for... What's the name of the town again?",
+          "DM: Karawa.",
+          "Kenzo: Karawa.",
+          "DM: Yeah.",
+          "Unknown: So-"
+        ],
+        "after": [
+          "DM: Okay. So, so that's what you're gonna do. We're gonna have to do more breakout rooms. But, um, here, I'll, uh, um...",
+          "DM: I'll just do it by text, 'cause that's probably more efficient. What... So you're going to the, to the tavern across the way. Kong is doing that. Eric's going to the temple. Mike's resting.",
+          "Kenzo: Wait, where's... Mike, where are you resting? Are you resting at the tavern-",
+          "Unknown: Yeah",
+          "Kenzo: ... or are you re-"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The temple interior remains secret",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2263",
+        "endUid": "u2275"
+      },
+      "lines": [
+        "%% u2263:0-58, u2264:0-28, u2265:0-8 %%",
+        "Seeker: Perhaps we can arrange, uh, a temple tour from the Speaker at some point in the future. Perhaps.",
+        "",
+        "%% u2266:0-44 %%",
+        "Delwath: I have not been able to so far, but perhaps.",
+        "",
+        "%% u2267:0-42 %%",
+        "Seeker: Hmm. They're secretive about the interior.",
+        "",
+        "%% u2268:0-6 %%",
+        "Delwath: Quite.",
+        "",
+        "%% u2269:0-47, u2270:0-3 %%",
+        "Seeker: Guess they don't call it mysteries for nothing. Ah.",
+        "",
+        "%% u2271:0-4 %%",
+        "Unknown: Hmm.",
+        "",
+        "%% u2272:0-98, u2273:0-5 %%",
+        "Seeker: I wish these religious types would be more open to the, uh, benefit of free scholarly transaction. Alas.",
+        "",
+        "%% u2274:0-23 %%",
+        "Kenzo: There's always secrets.",
+        "",
+        "%% u2275:0-41 %%",
+        "Seeker: I guess that's what keeps it interesting."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I did also notice, uh, that there's, uh, some kind of, uh, uh, concentration of valuable stone. Uh, but I, I, I couldn't, I couldn't quite pin down what it was. Something in there.",
+          "Unknown: Hmm.",
+          "Seeker: I don't know if that's relevant or not.",
+          "Kenzo: What kind of stone?",
+          "Seeker: I, I couldn't quite figure it out. Um,"
+        ],
+        "after": [
+          "Delwath: Should we perhaps, um, go investigate these, uh, giant hyenas?",
+          "Seeker: Yeah. Who, who's got a skill in, in tracking the, the movements of animals among us?",
+          "Unknown: I do.",
+          "Seeker: Oh, very good.",
+          "DM: Oh, there we go. It's a good roll, too."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Speculation about the mystery cult’s planar connection",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2489",
+        "endUid": "u2516"
+      },
+      "lines": [
+        "%% u2489:0-35 %%",
+        "Kenzo: What do you all know of the Shakun?",
+        "",
+        "%% u2490:0-18 %%",
+        "Seeker: Well, from what I-",
+        "",
+        "%% u2491:0-4, u2492:0-3 %%",
+        "((Table interruptions))",
+        "",
+        "%% u2493:0-15, u2494:0-18 %%",
+        "Delwath: No, no, Seeker, share your wisdom.",
+        "",
+        "%% u2495:0-38 %%",
+        "Seeker: [laughs] I think you know more than I.",
+        "",
+        "%% u2496:0-27 %%",
+        "Kenzo: I know, I know very little.",
+        "",
+        "%% u2497:0-3 %%",
+        "DM: Hm.",
+        "",
+        "%% u2498:0-48, u2499:0-44, u2500:0-13 %%",
+        "Delwath: I've been, um, curious about them for some time, but they've revealed their secrets very, um, begrudgingly.",
+        "",
+        "%% u2501:0-3 %%",
+        "Seeker: Mm.",
+        "",
+        "%% u2502:0-3 %%",
+        "Unknown: Hm.",
+        "",
+        "%% u2503:0-42, u2504:0-50 %%",
+        "Seeker: While, uh, residing in that town, Delwath, did it ever happen that you've had strange dreams?",
+        "",
+        "%% u2505:0-15 %%",
+        "Wellby: Why do you ask?",
+        "",
+        "%% u2506:0-37, u2507:0-7, u2508:0-133, u2509:0-41, u2510:0-68, u2511:0-13 %%",
+        "Seeker: I have reason to suspect a connection between the realm of magical powers that forms the ley lines, and is the source of many of our abilities, and another realm of magical power. And that perhaps, if the rumors are true, this mystery cult has something to do with that point of connection. Could all be-",
+        "",
+        "%% u2512:0-45, u2513:0-8 %%",
+        "((Table interruptions))",
+        "",
+        "%% u2514:0-7, u2515:0-143, u2516:0-33 %%",
+        "Seeker: Perhaps I traveled hundreds of miles to get here, nearly got killed by a couple of gigantic hyenas, just to investigate a connection that wasn't there, and I'll keep, keep traveling on."
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Right. I assume.",
+          "Kenzo: What do you all know of the, what do you all know of...",
+          "DM: Oh, you froze again there, Kong.",
+          "Unknown: No, I heard him.",
+          "DM: No, no, you're good. What did you say?"
+        ],
+        "after": [
+          "Kenzo: What, what dreams have you had then, Seeker?",
+          "Seeker: Oh, I long to explore that world. I spent some time with the lizard folk, who have a deep connection to that area, but they couldn't tell me much about the architecture, you might say, how it's made up, and how it connects to the other parts of our world.",
+          "Delwath: So Delwath looks kind of lost in thought, like he's sort of, um, sorta seems to be staring off into space a bit, and, like, he looks a little, like...",
+          "Delwath: You, you... Anybody who would be paying attention, you, you know what, Kong, you have a good insight roll. I'll tell you what he, what he, uh-",
+          "Unknown: Yeah"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Alesh’s scouting, missing herders, and the return of danger",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2814",
+        "endUid": "u2940"
+      },
+      "lines": [
+        "%% u2814:0-10, u2815:0-87, u2816:0-75, u2817:0-40 %%",
+        "DM: Um, it's a younger woman riding at a medium trot who kind of notices you coming and, um, pulls up, and kind of looks at you a bit strangely, s- keeping her distance, and, um, and h- and sort of hails you in Dunmari.",
+        "",
+        "%% u2818:0-16, u2819:0-24 %%",
+        "DM: \"Ho, travelers.\" Again, staying far away.",
+        "",
+        "%% u2820:0-104, u2821:0-39 %%",
+        "Delwath: I'll, I'll respond back, um, also in Dunmari, greeting her and telling her we, um, we've set out from... I'm blanking on the name. Kara- Karawa?",
+        "",
+        "%% u2822:0-7, u2823:0-12, u2824:0-7 %%",
+        "((Clarification of Karawa’s name))",
+        "",
+        "%% u2825:0-3, u2826:0-30, u2827:0-56 %%",
+        "Delwath: Um, we've set out from Karawa, um, uh, in the last few hours, tracking some strange beasts.",
+        "",
+        "%% u2828:0-3 %%",
+        "Unknown: Um-",
+        "",
+        "%% u2829:0-23 %%",
+        "Delwath: Have you seen anything-",
+        "",
+        "%% u2830:0-14 %%",
+        "DM: Sh- she, like-",
+        "",
+        "%% u2831:0-22 %%",
+        "Delwath: ... out on the plains?",
+        "",
+        "%% u2832:0-26, u2833:0-103, u2834:0-9, u2835:0-85, u2836:0-20, u2837:0-11 %%",
+        "DM: ... looks at you all, and, you know, kind of a little bit taken aback by this sight, and stares at you in particular, um, Delwath. And then, uh, kind of thinks for a minute, and realization dawns on her and she says, \"The elf. You must be the elf. Greetings.\"",
+        "",
+        "%% u2838:0-15 %%",
+        "Delwath: I nod slightly.",
+        "",
+        "%% u2839:0-18, u2840:0-3, u2841:0-6, u2842:0-42, u2843:0-3, u2844:0-27, u2845:0-24, u2846:0-24, u2847:0-28 %%",
+        "DM: \"My name is Alesh. Uh, it is, um, it is unexpected to meet you out here. Uh, but interesting that you've reported strange beasts. Um, I am a, I'm a scout. I've been, uh, riding ahead.",
+        "",
+        "%% u2848:0-23, u2849:0-51, u2850:0-75, u2851:0-8, u2852:0-18 %%",
+        "DM: I'm returning from, um, investigating the area around the, the Gomat Oasis. Uh, there's been reports of people going missing, of herders and shepherds. And, um, I, I am concerned.",
+        "",
+        "%% u2853:0-118 %%",
+        "DM: There's strange rumors traveling among the scouts and pastoralists that are, um, you know, that wander in these lands.",
+        "",
+        "%% u2854:0-15, u2855:0-132, u2856:0-153 %%",
+        "DM: And despite the good quality of the grazing over there, um, you know, my family's been quite skeptical of, of heading in that direction without, uh, investigating. But I was just d- I was, I'm just riding, riding back from the Gomat Oasis itself, and have not seen anything the past day along the road.",
+        "",
+        "%% u2857:0-4 %%",
+        "Unknown: How-",
+        "",
+        "%% u2858:0-40 %%",
+        "DM: Where did you say you saw these animals?\"",
+        "",
+        "%% u2859:0-45, u2860:0-26 %%",
+        "Delwath: Uh, two, two hyenas the size of small horses. That's about right, right?",
+        "",
+        "%% u2861:0-3 %%",
+        "Unknown: Um-",
+        "",
+        "%% u2862:0-8 %%",
+        "DM: Uh, yeah",
+        "",
+        "%% u2863:0-13, u2864:0-53 %%",
+        "Delwath: ... uh, were, uh, rampaging in Karawa, Karawa at dawn this morning.",
+        "",
+        "%% u2865:0-37, u2866:0-95, u2867:0-44, u2868:0-16 %%",
+        "DM: Um, she looks, she looks kind of, uh, um, shocked when you say that, and she, and, like, the blood drains from her face and she says, \"Were people killed? I, I have family there. I have friends.\"",
+        "",
+        "%% u2869:0-6, u2870:0-68, u2871:0-18, u2872:0-40 %%",
+        "Delwath: No. M- One, one man was badly injured, but, um, he's under the care of the, of the Shakun now, and I believe will make a full recovery.",
+        "",
+        "%% u2873:0-25, u2874:0-32 %%",
+        "DM: Um, she, she kind of, um, relaxes a little bit and says...",
+        "",
+        "%% u2875:0-175, u2876:0-7, u2877:0-37, u2878:0-39, u2879:0-25 %%",
+        "DM: And, and she's now, she's sort of, um, inched closer to you as you've been talking, and moved, you know, from a, a, a stance of basically being ready to gallop away any second to, uh, um, to just kind of talking normally. Although, she's, she hasn't dismounted. She's still on her horse.",
+        "",
+        "%% u2880:0-3, u2881:0-87, u2882:0-44, u2883:0-31 %%",
+        "DM: Um, and sh- and she says, \"And you're, you know, you're out here hunting the, these beasts? Do you, do you suspect there's more of them? Should w- should I be worried?\"",
+        "",
+        "%% u2884:0-42 %%",
+        "Delwath: I think from all you've just told us, yes.",
+        "",
+        "%% u2885:0-40, u2886:0-11, u2887:0-41, u2888:0-26, u2889:0-38, u2890:0-11 %%",
+        "DM: She kind of sighs a little bit and says, \"It seemed, it seemed like maybe the danger was past. I had heard rumors, but I, I travel these roads quite frequently. There's...\"",
+        "",
+        "%% u2891:0-105, u2892:0-31, u2893:0-18 %%",
+        "DM: Um, and her eyes light up a little and she says, \"There's lots of old battle sites along these roads, and things to find, spears, arrows, shields sometimes.",
+        "",
+        "%% u2894:0-3, u2895:0-12, u2896:0-69, u2897:0-115, u2898:0-38, u2899:0-39 %%",
+        "DM: Uh, and although years ago in my childhood people would say, 'Oh, it's too dangerous,' um, it's, it's felt safer recently, and, and I've been on the r- I've been tr- ranging wide with my family over the past six months, and I did not realize the danger had, I guess, has returned.\"",
+        "",
+        "%% u2900:0-33 %%",
+        "Kenzo: What do you mean by has returned?",
+        "",
+        "%% u2901:0-56, u2902:0-39, u2903:0-74, u2904:0-21 %%",
+        "DM: \"Well, the, you know, the, people when, when I was a kid, when I was growing up 15, 20 years ago, people would go missing. We never, we never went into the, into the, um...\" ((Table interruptions))",
+        "",
+        "%% u2905:0-52, u2906:0-110 %%",
+        "DM: \"We never went into the Nashtkar, the Blasted Plains. You know, as a, as a kid who tr- who traveled around here, I was, you know, you know there's a lot of history.\"",
+        "",
+        "%% u2907:0-49, u2908:0-120, u2909:0-3, u2910:0-56, u2911:0-29 %%",
+        "DM: And she, and she looks sort of specifically at... Well, she kind of looks at all of you, like, kind of questioning, you know, are, are these people interested in history? Um, and then looks at, at Kenzo, who is, uh, who is Dunmari. ((Table interruptions))",
+        "",
+        "%% u2912:0-3, u2913:0-8, u2914:0-61, u2915:0-36, u2916:0-90, u2917:0-14 %%",
+        "((Language logistics))",
+        "",
+        "%% u2918:0-3, u2919:0-39, u2920:0-116, u2921:0-8, u2922:0-36, u2923:0-41, u2924:0-46 %%",
+        "DM: ((Table interruptions)) And, um, uh, and she says, \"So, you know, my, the, the history here is, is fascinating. I don't know how much you know about, well...\"",
+        "",
+        "%% u2925:0-122, u2926:0-13, u2927:0-3, u2928:0-33 %%",
+        "DM: And then she kind of stops herself and, and looks at, um, looks at Delwath and says, \"I guess the elf would know the most, more than me. Um, people say that you're very old.\"",
+        "",
+        "%% u2929:0-32 %%",
+        "Delwath: Delwath just kind of nods a bit.",
+        "",
+        "%% u2930:0-27, u2931:0-23, u2932:0-99, u2933:0-35, u2934:0-25, u2935:0-43 %%",
+        "DM: And, and then she says, um, \"You know, but the, the history is so fascinating, and I, I was always told, 'Oh, don't go digging around those old graves. You don't know what you might find. Those battle sites are... Who knows what, what could still be there.'",
+        "",
+        "%% u2936:0-147, u2937:0-3, u2938:0-155, u2939:0-17, u2940:0-16 %%",
+        "DM: But it, but in the past few years, it's felt safer, and people have been grazing as far, actually east of, of Gomat, um, as far as the canyon even. Uh, but if what you said is true and danger is coming out of the east again, I fear that, that, um, you know, maybe those days of my childhood are coming back. There's a few...\" Sorry, go ahead."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So it looks like y- it's probably, you know, if you angle your dir- you could make a guess to angle your direction of travel, so you would kind of cut off the whatever's moving up there. But it's not that far away. It's like an hour or two travel at most.",
+          "Wellby: Okay. Let's do it.",
+          "Unknown: Okay.",
+          "DM: Um, so you head sort of, now you're kind of heading northwest actually, um, because of the direction of travel of this, um, o- of this dust cloud, and kind of get back out of the canyon lands and, um, sort of head across the scrub desert.",
+          "DM: And as you get, as you get closer, um, you can, you can see when you're, um, not too far off that, um, this is a, it's definitely a Dunmari on horseback."
+        ],
+        "after": [
+          "Wellby: Is there a path from the Gomat Oasis to the canyon that doesn't pass through the Badlands?",
+          "DM: Yeah, just follow the road east. You're now... I mean, you're on this ancient, this sort of old trade road where you can see occasionally, like, um, it's mostly just a track kind of kicked up through the, you know, s- through the sand, but every now and then there's, like, a paving stone or a, um, you know, kind of a, a little bit of ancient history suggesting that it's, um, uh, you know, uh... Uh, you can sort of, you can sense, you can sort of see the history of the road.",
+          "DM: Like, you can tell that this used to be, many, many years ago, well-traveled. It's just been worn down and broken up, and the, and the paving stones have all cracked and everything, but there's definitely a road you can follow.",
+          "DM: So the road'll take you straight to Gomat, and, and from there, um, there's not a, there's not a way across the canyon that I know of. The road sort of ends. But certainly it'll take you to the canyon. I've been as far as that before.",
+          "DM: In fact, there was a, just, um, just last night, I, I spent the night with a, a couple of, um, herding families and their flocks of sheep, uh, around Gomat, uh, and, and I, uh, uh, just came straight on the road this morning."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Alesh describes the road to Gomat and fears for nearby families",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2941",
+        "endUid": "u2996"
+      },
+      "lines": [
+        "%% u2941:0-90 %%",
+        "Wellby: Is there a path from the Gomat Oasis to the canyon that doesn't pass through the Badlands?",
+        "",
+        "%% u2942:0-32, u2943:0-145, u2944:0-172, u2945:0-25, u2946:0-19, u2947:0-80 %%",
+        "DM: Yeah, just follow the road east. You're now... I mean, you're on this ancient, this sort of old trade road where you can see occasionally, like, um, it's mostly just a track kind of kicked up through the, you know, s- through the sand, but every now and then there's, like, a paving stone or a, um, you know, kind of a, a little bit of ancient history suggesting that it's, um, uh, you know, uh... Uh, you can sort of, you can sense, you can sort of see the history of the road.",
+        "",
+        "%% u2948:0-77, u2949:0-149 %%",
+        "DM: Like, you can tell that this used to be, many, many years ago, well-traveled. It's just been worn down and broken up, and the, and the paving stones have all cracked and everything, but there's definitely a road you can follow.",
+        "",
+        "%% u2950:0-134, u2951:0-22, u2952:0-43, u2953:0-32 %%",
+        "DM: So the road'll take you straight to Gomat, and, and from there, um, there's not a, there's not a way across the canyon that I know of. The road sort of ends. But certainly it'll take you to the canyon. I've been as far as that before.",
+        "",
+        "%% u2954:0-31, u2955:0-124, u2956:0-8, u2957:0-59 %%",
+        "DM: In fact, there was a, just, um, just last night, I, I spent the night with a, a couple of, um, herding families and their flocks of sheep, uh, around Gomat, uh, and, and I, uh, uh, just came straight on the road this morning.",
+        "",
+        "%% u2958:0-11, u2959:0-60, u2960:0-42, u2961:0-3, u2962:0-32 %%",
+        "DM: It's, it's, you know, no more than a, a day's walk to the, to the oasis. Maybe two, depending on how fast you walk. Um, eight hours on, on a fast horse.",
+        "",
+        "%% u2963:0-58, u2964:0-40, u2965:0-21, u2966:0-34, u2967:0-11 %%",
+        "DM: But it'll take you straight through the, the canyon lands. I, I wouldn't wander south of here much. It's trackless there. It's... Sometimes even I get lost. Hm. Mm-hmm.",
+        "",
+        "%% u2968:0-50, u2969:0-9, u2970:0-56, u2971:0-29 %%",
+        "Kenzo: Well, we seek the origins of these strange hyenas. It's, uh, unclear if you've seen anything related to their origin. Sounds like you may not have.",
+        "",
+        "%% u2972:0-102 %%",
+        "DM: I haven't seen anything related to those, but strange beasts, I always say, must be the Blasted Lands.",
+        "",
+        "%% u2973:0-24, u2974:0-20 %%",
+        "Wellby: Would there be anyone... Oh, go ahead, sorry.",
+        "",
+        "%% u2975:0-34 %%",
+        "DM: Who knows what comes out of there?",
+        "",
+        "%% u2976:0-109, u2977:0-44, u2978:0-12, u2979:0-80, u2980:0-30 %%",
+        "Wellby: Hmm. Beside the Gomat Oasis and the road east toward the canyon from there, are there any families or herders or anyone east or east by northeast of here? No one goes- When the creature, when the creature came into town and had blood on it, that it must have come from somewhere.",
+        "",
+        "%% u2981:0-10, u2982:0-54, u2983:0-16, u2984:0-72 %%",
+        "DM: She looks, um, a little bit pale when you say that, and she says, \"A straight line from Gomat to Karawa would pass through the edge of those canyon lands.\"",
+        "",
+        "%% u2985:0-36 %%",
+        "Wellby: I think we should push to the oasis.",
+        "",
+        "%% u2986:0-46, u2987:0-69, u2988:0-12, u2989:0-58 %%",
+        "DM: There were defi- there's definitely, you know, people coming in, gathering at Gomat and heading into Karawa for the, for the, um, for the festival. Uh, you said they attacked this morning?",
+        "",
+        "%% u2990:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u2991:0-78, u2992:0-68, u2993:0-75 %%",
+        "DM: She kind of breathes a sigh of relief in, uh, when you say that, and she says, \"They couldn't have traveled from Gomat to town in only a few hours, less than an hour. The f- the families that left this morning must be safe.",
+        "",
+        "%% u2994:0-3, u2995:0-19, u2996:0-37 %%",
+        "DM: But others around here, you do make, you do make me nervous.\""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Um, yeah, so everybody understands Dunmari. I mean, Wellby's been traveling long enough and, and Seeker, you've both been traveling enough to have picked it up. And, um, uh, and she says, \"So, you know, my, the, the history here is, is fascinating. I don't know how much you know about, well...\"",
+          "DM: And then she kind of stops herself and, and looks at, um, looks at Delwath and says, \"I guess the elf would know the most, more than me. Um, people say that you're very old.\"",
+          "Delwath: Delwath just kind of nods a bit.",
+          "DM: And, and then she says, um, \"You know, but the, the history is so fascinating, and I, I was always told, 'Oh, don't go digging around those old graves. You don't know what you might find. Those battle sites are... Who knows what, what could still be there.'",
+          "DM: But it, but in the past few years, it's felt safer, and people have been grazing as far, actually east of, of Gomat, um, as far as the canyon even. Uh, but if what you said is true and danger is coming out of the east again, I fear that, that, um, you know, maybe those days of my childhood are coming back. There's a few...\" Sorry, go ahead."
+        ],
+        "after": [
+          "Unknown: Hmm.",
+          "Kenzo: I glance at the, the company. Where do you think we should go?",
+          "Wellby: I think we should push to the oasis. If there's anyone who would have been out in this land, you know, to the east or to the northeast of here, presumably some word of that would have come to the people gathering at the oasis. I, I feel like that's our best bet-",
+          "Unknown: Yeah",
+          "Wellby: ... to learn more."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Alesh’s farewell and recommendation of Akan",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3091",
+        "endUid": "u3137"
+      },
+      "lines": [
+        "%% u3091:0-6, u3092:0-59, u3093:0-18, u3094:0-28, u3095:0-46 %%",
+        "Kenzo: \"Alesh, my companions and I, I think we're gonna head to the oasis. Are you safe here? You should be, you should be careful. These are, these are dangerous times.\"",
+        "",
+        "%% u3096:0-59, u3097:0-39, u3098:0-37 %%",
+        "DM: \"I'm fast. There's few things that can catch me on my horse.\" She has, like, a pretty confident look. I mean, she was, you know, she looks-",
+        "",
+        "%% u3099:0-4 %%",
+        "Unknown: Yeah",
+        "",
+        "%% u3100:0-40 %%",
+        "DM: ... comf- very comfortable on horseback.",
+        "",
+        "%% u3101:0-3, u3102:0-58, u3103:0-138, u3104:0-137 %%",
+        "DM: Um, and she says, \"And I need to get back to my family anyway. They've been, we've been, uh, looking for more pasture land that seems safe, and I'm not gonna take them east after hearing these stories. I think we're gonna head north for, for a bit more grazing and fatten up our, our animals before taking them into town for the festival.\"",
+        "",
+        "%% u3105:0-9, u3106:0-24, u3107:0-27 %%",
+        "Kenzo: Hm. Good. Well then, safe travels. Uh, please, please be safe.",
+        "",
+        "%% u3108:0-3, u3109:0-6 %%",
+        "Kenzo: And if we—",
+        "",
+        "%% u3110:0-2 %%",
+        "Unknown: Um",
+        "",
+        "%% u3111:0-43 %%",
+        "Kenzo: ... we hear word in the oasis, uh, we'll...",
+        "",
+        "%% u3112:0-9, u3113:0-95 %%",
+        "Kenzo: Actually, are you, do you have friends in the oasis that you might recommend we speak with to learn more?",
+        "",
+        "%% u3114:0-61, u3115:0-23, u3116:0-62 %%",
+        "DM: Uh, uh, there was a f- there was a few, uh, uh, folks that I, I spent the night with. Um, they seemed, they seemed welcoming, and we traded stories.",
+        "",
+        "%% u3117:0-64, u3118:0-52, u3119:0-55 %%",
+        "DM: Uh, if you are, if you are looking for anybody, there's not a... There's, just to be clear, there's not a town there. It's like, it's, it's not a built-up oasis like Karawa.",
+        "",
+        "%% u3120:0-71 %%",
+        "DM: It's just a sort of a place where, where people set up camp for a week-",
+        "",
+        "%% u3121:0-6 %%",
+        "Unknown: Mm-hmm",
+        "",
+        "%% u3122:0-49, u3123:0-3 %%",
+        "DM: ... when they're grazing their animals and stuff. Um-",
+        "",
+        "%% u3124:0-43 %%",
+        "Kenzo: Oh, so it's not, like, permanent dwellings.",
+        "",
+        "%% u3125:0-117, u3126:0-115, u3127:0-76 %%",
+        "DM: It's not permanent dwellings, but, but, um, uh, when I was there, um, yeah, ask for, um, ask for Akan and his family. Um, they were camped there last night and were planning on spending a few more days, uh, grazing their herds there. Uh, and they seemed friendly and, and, and, uh, we shared some good stories.",
+        "",
+        "%% u3128:0-25 %%",
+        "Kenzo: Perfect. We'll seek them.",
+        "",
+        "%% u3129:0-142, u3130:0-83, u3131:0-38 %%",
+        "DM: Um, and as she's, she goes to ride off, uh, \"I must,\" she says, \"I must hurry,\" and then goes to ride off and then says, \"And if you find any, any battle sites or any relics of ancient Dunmore, Dunmar, I'll be at the festival. Come find me. I'd be curious to know.\"",
+        "",
+        "%% u3132:0-3 %%",
+        "Unknown: Hm.",
+        "",
+        "%% u3133:0-101 %%",
+        "DM: And with that, she calls over her shoulder, \"Stay safe,\" as she gallops off, um, down the road again.",
+        "",
+        "%% u3134:0-59 %%",
+        "Kenzo: Is there, is there, like, a Dunmari greeting or a farewell?",
+        "",
+        "%% u3135:0-13 %%",
+        "DM: Um, yeah, uh-",
+        "",
+        "%% u3136:0-46 %%",
+        "Kenzo: Whatever it is, I do. Whatever it is, I do it.",
+        "",
+        "%% u3137:0-6 %%",
+        "Unknown: Right."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I think we should go to the oasis, but with haste.",
+          "Kenzo: All right then.",
+          "Kenzo: Um, I, I glance over at the Dunmari, uh, uh, horse rider. Um, \"Friend, what's your name? I'm Kenzo. Also, also D- also Dunmari. It's good to seem, see you here.\"",
+          "DM: Uh, her, her name is Alesh.",
+          "Unknown: Alesh."
+        ],
+        "after": [
+          "DM: Um, how much longer do you guys wanna keep going, by the way?",
+          "Unknown: Mm.",
+          "DM: Should we wrap up and, like-",
+          "Unknown: I'm-",
+          "DM: ... you know, the next-"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

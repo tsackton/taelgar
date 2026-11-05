@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-time-markers.json",
+    "sha256": "3982d4f891789def87ef37b13b9fa3483e95af77f4310c0f6fd66e46ae6f7026"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-transcript.md",
+    "sha256": "b8309f0157d02801b49c283853d385097f54a2b7f8852c4794e8a573b623c8a4"
+  },
+  "dateAssessment": "The transcript establishes morning, one completed overnight, and the next moonlit evening; March 22–23, 1748 is YAML-only, while the opening tentatively says “maybe mid-April”.",
+  "watches": [
+    {
+      "day": "Day 1 (March 22, YAML)",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Morning opening; twenty minutes since arrival, then Delwath’s hour-long rest including earlier refreshments.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-03-22",
+      "endDate": "1748-03-22"
+    },
+    {
+      "day": "Day 1 (March 22, YAML)",
+      "startWatch": "morning",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Three–four hours across scrub, a brief ritual, then roughly one hour in rocky terrain.",
+      "markers": [
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "sourceRanges": [
+        [
+          "u2710",
+          "u2710"
+        ]
+      ],
+      "startDate": "1748-03-22",
+      "endDate": "1748-03-22"
+    },
+    {
+      "day": "Day 1 (March 22, YAML)",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Lookout corrected to early afternoon; after scanning, the Alesh meeting is about 4 p.m.",
+      "markers": [
+        "t11",
+        "t12",
+        "t13"
+      ],
+      "startDate": "1748-03-22",
+      "endDate": "1748-03-22"
+    },
+    {
+      "day": "Day 1 → Day 2 (March 22–23, YAML)",
+      "startWatch": null,
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Eight-hour roadside long rest ends before dawn next day; starting watch is unstated.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1748-03-22",
+      "endDate": "1748-03-23"
+    },
+    {
+      "day": "Day 2 (March 23, YAML)",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Party rises before dawn and resumes the march after the completed overnight.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1748-03-23",
+      "endDate": "1748-03-23"
+    },
+    {
+      "day": "Day 2 (March 23, YAML)",
+      "startWatch": "dawn",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Predawn departure and a long hot day lead to Gomat’s approach in moonlit evening.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1748-03-23",
+      "endDate": "1748-03-23"
+    }
+  ]
+}

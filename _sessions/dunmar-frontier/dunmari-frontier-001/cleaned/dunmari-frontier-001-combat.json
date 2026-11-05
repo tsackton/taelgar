@@ -1,0 +1,402 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-001",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-session.yaml",
+    "sessionYamlSha256": "971a2615c4eb8256f2487a10a090566cb674018e8312c875c0a373bb5217c44f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-transcript.md",
+    "transcriptSha256": "b8309f0157d02801b49c283853d385097f54a2b7f8852c4794e8a573b623c8a4",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-segments.json",
+      "sha256": "34d0f230ab63f8000115ac727911325f8552004d379a98eaa7ce4df923980660",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s012",
+      "encounter": "Giant hyenas attack Karawa",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Villagers",
+              "kind": "turn",
+              "summary": "Scatter and run away from the two giant hyenas.",
+              "evidence": [
+                {
+                  "startUid": "u0453",
+                  "endUid": "u0456"
+                }
+              ]
+            },
+            {
+              "actor": "Giant hyena near Delwath",
+              "kind": "turn",
+              "summary": "Charges the nearest young man and tears open his shoulder, throwing him down. The initial apparent killing is corrected: he is unconscious and failing death saves, not instantly killed.",
+              "evidence": [
+                {
+                  "startUid": "u0457",
+                  "endUid": "u0460"
+                },
+                {
+                  "startUid": "u0722",
+                  "endUid": "u0726"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves toward the threatened villagers while remaining outside melee range and fires a crackling magical blast from his gem-bearing hand; it misses.",
+              "evidence": [
+                {
+                  "startUid": "u0479",
+                  "endUid": "u0493"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Abandons the proposed magical terrain manipulation and shoots his crossbow at the nearby giant hyena; the bolt misses and flies into the distance.",
+              "evidence": [
+                {
+                  "startUid": "u0584",
+                  "endUid": "u0625"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Rushes up to the other giant hyena and hits with his quarterstaff for 6 damage, then lands a bonus-action unarmed strike for another 6.",
+              "evidence": [
+                {
+                  "startUid": "u0627",
+                  "endUid": "u0657"
+                }
+              ]
+            },
+            {
+              "actor": "Villagers",
+              "kind": "turn",
+              "summary": "A young woman hides behind Delwath while another villager dashes away.",
+              "evidence": [
+                {
+                  "startUid": "u0661",
+                  "endUid": "u0666"
+                }
+              ],
+              "note": "The same narration calls an unspecified map token dead; the young man’s condition is explicitly corrected at u0722–u0726."
+            },
+            {
+              "actor": "Giant hyena fighting Kenzo",
+              "kind": "turn",
+              "summary": "Bites at Kenzo but misses as he sidesteps. The DM corrects the description: its eyes are not literally glowing red.",
+              "evidence": [
+                {
+                  "startUid": "u0667",
+                  "endUid": "u0676"
+                },
+                {
+                  "startUid": "u0680",
+                  "endUid": "u0690"
+                }
+              ]
+            },
+            {
+              "actor": "Villager",
+              "kind": "turn",
+              "summary": "Continues running from the attack.",
+              "evidence": [
+                {
+                  "startUid": "u0679",
+                  "endUid": "u0679"
+                }
+              ]
+            },
+            {
+              "actor": "Beli",
+              "kind": "turn",
+              "summary": "Steps back and raises a hand to invoke magic; nothing happens, leaving her shocked.",
+              "evidence": [
+                {
+                  "startUid": "u0693",
+                  "endUid": "u0703"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves toward Delwath and uses his action for additional movement, aiming to reach the injured villager; he has not yet stabilized him.",
+              "evidence": [
+                {
+                  "startUid": "u0708",
+                  "endUid": "u0734"
+                }
+              ]
+            },
+            {
+              "actor": "Villagers",
+              "kind": "turn",
+              "summary": "Continue scattering and running away.",
+              "evidence": [
+                {
+                  "startUid": "u0735",
+                  "endUid": "u0737"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Giant hyena near Delwath",
+              "kind": "turn",
+              "summary": "Charges a woman and hits, gouging her arm and bringing her badly wounded to one knee, but not killing her.",
+              "evidence": [
+                {
+                  "startUid": "u0738",
+                  "endUid": "u0744"
+                }
+              ],
+              "note": "The map-pointed woman is not named in this attack; do not assert that she is Beli."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the giant hyena with another magical blast, then closes with it and tries to look threatening. It snarls and turns toward him; damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0745",
+                  "endUid": "u0759"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Creates a Minor Illusion of a limping baby antelope within thirty feet, sized to fit a five-foot space, to tempt the hyena away.",
+              "evidence": [
+                {
+                  "startUid": "u0760",
+                  "endUid": "u0785"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits his hyena with a downward quarterstaff strike and then an unarmed blow, leaving it limping and badly staggered; numerical damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u0786",
+                  "endUid": "u0808"
+                }
+              ]
+            },
+            {
+              "actor": "Injured young villager",
+              "kind": "event",
+              "summary": "Continues bleeding out; the DM warns that there is probably one round left to save him.",
+              "evidence": [
+                {
+                  "startUid": "u0809",
+                  "endUid": "u0811"
+                }
+              ]
+            },
+            {
+              "actor": "Giant hyena fighting Kenzo",
+              "kind": "turn",
+              "summary": "Bites Kenzo, just hitting his corrected AC of 16, for 6 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0812",
+                  "endUid": "u0823"
+                }
+              ]
+            },
+            {
+              "actor": "Villager",
+              "kind": "turn",
+              "summary": "Runs off the battlefield.",
+              "evidence": [
+                {
+                  "startUid": "u0824",
+                  "endUid": "u0824"
+                }
+              ]
+            },
+            {
+              "actor": "Beli",
+              "kind": "turn",
+              "summary": "Again attempts to strike a creature with divine power; nothing happens and she becomes frightened.",
+              "evidence": [
+                {
+                  "startUid": "u0825",
+                  "endUid": "u0832"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves to the wounded young man and stabilizes him with a natural-20 Medicine check. The man remains unconscious but is no longer dying.",
+              "evidence": [
+                {
+                  "startUid": "u0833",
+                  "endUid": "u0840"
+                }
+              ]
+            },
+            {
+              "actor": "Villagers",
+              "kind": "turn",
+              "summary": "Flee off the map and around a corner.",
+              "evidence": [
+                {
+                  "startUid": "u0841",
+                  "endUid": "u0842"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Giant hyena near Delwath",
+              "kind": "turn",
+              "summary": "Confused by the antelope illusion, bites Delwath for 7 damage. After his retaliatory flames, it runs toward the antelope, passing Beli’s dagger swipe, then runs through the illusion and bellows in confusion.",
+              "evidence": [
+                {
+                  "startUid": "u0843",
+                  "endUid": "u0889"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Hellish Rebuke when bitten, surrounding the hyena with dark flames. A Dexterity save is called for, but neither its outcome nor the rebuke’s damage is spoken. Having spent his reaction, Delwath does not take the offered opportunity attack when it moves away.",
+              "evidence": [
+                {
+                  "startUid": "u0851",
+                  "endUid": "u0881"
+                }
+              ]
+            },
+            {
+              "actor": "Beli",
+              "kind": "reaction",
+              "summary": "Swipes with her dagger as the hyena runs away, but the blade fails to penetrate its hide.",
+              "evidence": [
+                {
+                  "startUid": "u0884",
+                  "endUid": "u0885"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the fleeing hyena with another crackling blast; it staggers, nearly dead, but remains standing.",
+              "evidence": [
+                {
+                  "startUid": "u0890",
+                  "endUid": "u0898"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses Mold Earth to excavate a five-foot cube beneath that hyena’s front paws and place the earth between himself and it. The hyena falls prone into the hole; the DM later confirms it cannot stand up.",
+              "evidence": [
+                {
+                  "startUid": "u0899",
+                  "endUid": "u0918"
+                },
+                {
+                  "startUid": "u0970",
+                  "endUid": "u0972"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Just hits his own hyena with the quarterstaff, killing it. Still badly hurt, he moves up to thirty feet to a shaded building corner to recover.",
+              "evidence": [
+                {
+                  "startUid": "u0919",
+                  "endUid": "u0941"
+                }
+              ]
+            },
+            {
+              "actor": "Villagers",
+              "kind": "turn",
+              "summary": "The remaining mobile commoners flee; the previously stabilized young man is still alive.",
+              "evidence": [
+                {
+                  "startUid": "u0942",
+                  "endUid": "u0947"
+                }
+              ],
+              "note": "The “this one is dead” map references are not sufficiently identified to add a casualty count; Delwath later reports no deaths at u2869–u2872."
+            },
+            {
+              "actor": "Beli",
+              "kind": "turn",
+              "summary": "Tries a third divine blast; again nothing happens.",
+              "evidence": [
+                {
+                  "startUid": "u0948",
+                  "endUid": "u0950"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Telepathically asks Delwath to cover him, runs up to the prone hyena, and hits with his sword. The DM corrects the initial ruling to grant advantage and sneak attack because it is prone; the stab kills it. No damage total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0951",
+                  "endUid": "u0978"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both giant hyenas are dead; the four adventurers remain on the battlefield as villagers scatter. The wounded young man has been stabilized. Beli’s divine attacks failed throughout; later healing at the teahouse occurs after this combat.",
+        "evidence": [
+          {
+            "startUid": "u0833",
+            "endUid": "u0840"
+          },
+          {
+            "startUid": "u0948",
+            "endUid": "u0950"
+          },
+          {
+            "startUid": "u0977",
+            "endUid": "u0989"
+          }
+        ]
+      },
+      "note": "The two hyenas and anonymous villagers are distinguished by their narrated targets and positions, not invented names. Unidentified “dead” map tokens do not establish extra casualties."
+    }
+  ]
+}
