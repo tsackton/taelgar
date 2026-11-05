@@ -1,0 +1,970 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-016",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
+    "sessionYamlSha256": "2a9067200fff07421eec99a5c19c4483eb2cd263a2eb52f52ae917a34ecf5f75",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-transcript.md",
+    "transcriptSha256": "f71f3abaa930b9d72c00ca7ea15e10dd9f37126626cbd4681da1ce859f88b991"
+  },
+  "places": {
+    "p01": {
+      "label": "White marble tower",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0006",
+          "quote": "a white marble tower in the center of the massive storm"
+        }
+      ],
+      "kind": "building",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md"
+    },
+    "p02": {
+      "label": "Giant’s top chamber",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0006",
+          "quote": "Now you find yourself standing at the top of a white marble tower"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0003",
+              "endUid": "u0006",
+              "quote": "at the top of a white marble tower"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Bust and pillar rooms, fourth floor",
+      "evidence": [
+        {
+          "startUid": "u0226",
+          "endUid": "u0240",
+          "quote": "So, heading down from the top floor you come out again on the—in the—so you come down into the room with the bust of the giant with—that, that's, has a drawing that's in the drawings folder, that's very nice. That has like a crown with like points around that seem to be missing something, that have empty sockets, and then empty eye sockets, mouth etched in, in silver, and more gold and silver kind of decorating the pedestal. Um, so that's, that's the sort of room that you come out of—at—into as you come down. But of course, the other side of this tower is the, the entrance to the platform that extends out over the, over the, over the granite below. And that side of the room, that entrance, has five large marble pillars that extend about halfway to the ceiling, um, each also topped with a—some kind of like intricate silver, iron metal design that twists up to it again, an empty socket."
+        }
+      ],
+      "kind": "rooms",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0226",
+              "endUid": "u0240",
+              "quote": "the other side of this tower"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Third-floor library",
+      "evidence": [
+        {
+          "startUid": "u0311",
+          "endUid": "u0329",
+          "quote": "So as you head down to the, to the third floor you come out. So coming down the steps, you, you come out in what's sort of a small sort of corridor entry way where the door that—a door in the wall sort of coming down. So on your right—not that there's like a dividing wall that splits the, the tower room on this floor of the tower in half, and there is a door in that wall that goes to what would be beneath this part of the tower and then in the area beneath this part of the tower, which is where you come out, um, there's a library."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0311",
+              "endUid": "u0316",
+              "quote": "this floor of the tower"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Wind-and-stone garden",
+      "evidence": [
+        {
+          "startUid": "u0504",
+          "endUid": "u0520",
+          "quote": "Okay, um, so this is—you step in to the other room, and what you're presented with is a—so the floor. It's a, it's almost like stepping into a work of art. The floor itself is multicolored hues, different shades of red and purple and green sort of mixing together, swirling in the, in the floor. The, ah, so windows here are not sort of the normal sort of square-cut, narrow windows of a tower, but almost looked like marble net. Like, there's like, you know, chiseled tracery through them so that they almost form like a net in marble, and every time the wind blows, you can hear faint chimes and the colors in the floor shift in response to the movement of the air. In a few spots throughout the room, there's short stone pillars of different heights, each have different polished stone."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0499",
+              "endUid": "u0500",
+              "quote": "another room on this floor"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Second-floor corridor and small rooms",
+      "evidence": [
+        {
+          "startUid": "u0580",
+          "endUid": "u0591",
+          "quote": "Um, OK, so the corridor here. So it's a straight corridor: three doors on one side, one door on the other. The, the doors on the side—the three to the that has three doors are wide—one is like slightly ajar, the one closest to you, and the other two are just sort of plain wood and shut. The one door is more elaborate. It's like wood and iron sort of bound together in a, in a elaborate decoration. Um, so the three small rooms along the, the three doors, all of those doors are easy to open. So do you want to search those rooms first? None of them are locked, so give me, I guess, three Perception checks."
+        }
+      ],
+      "kind": "rooms",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0499",
+              "endUid": "u0500",
+              "quote": "The second floor is a corridor with three doors on one side"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "First-floor ruined hall",
+      "evidence": [
+        {
+          "startUid": "u0701",
+          "endUid": "u0718",
+          "quote": "So, Riswynn, on the first floor, you make a Perception check. Um, I mean this, this floor is a mess. What you can tell is that there are—so this seems like it was once like the main hall. There's a large hearth on the, on the, on the floor. There's like—there were tapestries, there's, you know, table and chairs that have been smashed, but now it looks like just scattered rubble, scattered bits of wood, bits of stone. Almost like a tornado has blasted through this place, um…"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0701",
+              "endUid": "u0707",
+              "quote": "on the first floor"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Sealed bedchamber and study",
+      "evidence": [
+        {
+          "startUid": "u0825",
+          "endUid": "u0840",
+          "quote": "Okay, so this, this, um, this is a surprisingly intact bedchamber. There's a bed, a wardrobe, a small table and chair, and a chest and there's like a divider that splits the room, with the sort of southern half of the room beings like a bedroom and the other half being a study. There are tapestries that hang between, and there's three windows that look out over the plains, or over the granite, um, that's, that's one floor down. Oh, but last time when you jumped, you Misty Stepped, which helped you not take a ton of damage. Interesting. Um, the—there's tapestries that hang between the windows, and then there's two paintings that are hanging on either side of the door on that wall."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0861",
+              "endUid": "u0864",
+              "quote": "from the window, how far down is it to the ground?"
+            },
+            {
+              "startUid": "u0825",
+              "endUid": "u0840",
+              "quote": "Okay, so this, this, um, this is a surprisingly intact bedchamber. There's a bed, a wardrobe, a small table and chair, and a chest and there's like a divider that splits the room, with the sort of southern half of the room beings like a bedroom and the other half being a study. There are tapestries that hang between, and there's three windows that look out over the plains, or over the granite, um, that's, that's one floor down. Oh, but last time when you jumped, you Misty Stepped, which helped you not take a ton of damage. Interesting. Um, the—there's tapestries that hang between the windows, and then there's two paintings that are hanging on either side of the door on that wall."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Platform and pool",
+      "evidence": [
+        {
+          "startUid": "u0247",
+          "endUid": "u0249",
+          "quote": "This is the level that we were—the pool of water is, right? Yeah."
+        }
+      ],
+      "kind": "platform",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0226",
+              "endUid": "u0240",
+              "quote": "the entrance to the platform that extends out over the, over the, over the granite below."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Ground below the tower",
+      "evidence": [
+        {
+          "startUid": "u1886",
+          "endUid": "u1891",
+          "quote": "Okay. Um, so you all converge on the bottom. As you've reached the bottom, the sky has faded, the wind has picked up. The constellation, the Fox and Hunter, is now gone from the sky, and you can see the storm beginning to get stronger as the wall of wind…"
+        }
+      ],
+      "kind": "grounds",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1886",
+              "endUid": "u1891",
+              "quote": "Okay. Um, so you all converge on the bottom. As you've reached the bottom, the sky has faded, the wind has picked up. The constellation, the Fox and Hunter, is now gone from the sky, and you can see the storm beginning to get stronger as the wall of wind…"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Storm surrounding the tower",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0006",
+          "quote": "in the center of the massive storm"
+        }
+      ],
+      "kind": "region",
+      "relations": [
+        {
+          "relation": "surrounds",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0003",
+              "endUid": "u0006",
+              "quote": "a white marble tower in the center of the massive storm"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Mountain-side edge of the storm",
+      "evidence": [
+        {
+          "startUid": "u2040",
+          "endUid": "u2056",
+          "quote": "The morning dawn is peaceful. You did not see your camp. You're not—you seem to have come out of the storm on the far side from where you set your camp, the, the mountain side as opposed to the south side of the storm. The—the weather, now that you've sort of emerged out from the clouds and the mist and the rain, is reasonably nice, although still right here on the edge of the storm, the occasional burst of wind and—and rain kind of strikes you, occasionally making a rainbow as the bits of cloud drift out into the dawn. You're not entirely sure how much time has passed."
+        }
+      ],
+      "kind": "plain",
+      "relations": [
+        {
+          "relation": "edge_of",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2040",
+              "endUid": "u2053",
+              "quote": "The morning dawn is peaceful. You did not see your camp. You're not—you seem to have come out of the storm on the far side from where you set your camp, the, the mountain side as opposed to the south side of the storm. The—the weather, now that you've sort of emerged out from the clouds and the mist and the rain, is reasonably nice, although still right here on the edge of the storm, the occasional burst of wind and—and rain kind of strikes you, occasionally making a rainbow as the bits of cloud drift out into the dawn. You're not entirely sure how much time has passed."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Original horse camp south of the storm",
+      "evidence": [
+        {
+          "startUid": "u2149",
+          "endUid": "u2157",
+          "quote": "So Riswynn rides back. And yes, as you come to camp, you see Vola. Vola is like, you know, packing up her breakfast, cleaning up the sort of morning from the morning, seemingly getting possibly like getting ready to go or preparing to, you know, pack stuff up for the day or keep watch. But she has not left, and your horses are there. And as she sees you coming around, she's like, she's sort of waves to you, and that's not where you went into the storm."
+        }
+      ],
+      "kind": "camp",
+      "note": "The current transcript establishes the horse camp on the other side of the storm from the mountain-side exit; it is distinct from the proposed sheltered camp under a jutting stone inside the storm.",
+      "relations": [
+        {
+          "relation": "south_of",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2040",
+              "endUid": "u2053",
+              "quote": "the, the mountain side as opposed to the south side of the storm"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Karawa",
+      "evidence": [
+        {
+          "startUid": "u2245",
+          "endUid": "u2247",
+          "quote": "So our commitment now is to return to…"
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p15": {
+      "label": "Chardon",
+      "evidence": [
+        {
+          "startUid": "u2164",
+          "endUid": "u2165",
+          "quote": "Are you—you're headed back to Chardon, Vola?"
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p16": {
+      "label": "Yuvanti Mountains",
+      "evidence": [
+        {
+          "startUid": "u2375",
+          "endUid": "u2376",
+          "quote": "And Riswynn, you're heading west as well?"
+        }
+      ],
+      "kind": "mountains",
+      "vaultPath": "Gazetteer/Greater Dunmar/Yuvanti Mountains.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0006"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party faces chained Hralgar in the tower’s top chamber.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0006",
+          "quote": "Now you find yourself standing at the top of a white marble tower in the center of the massive storm, staring at the chained body of Hralgar, a nearly 30 foot-tall giant of immense proportions, dressed in tattered silk robes and bound to the floor of the chamber with massive silver manacles dancing with magical energy. The room itself is in total disarray, perhaps once a sculpture garden or some other kind of artistic enclave long ago, that's now a barren, empty space, a few broken pieces of statuary pushed to the sides to make room for the massive giant and the chains that hold him down. The roof, perhaps once an elegant glass structure, is shattered completely, and the dome at the top of the tower is open to the sky."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0226",
+        "endUid": "u0240"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The searchers descend to the fourth-floor bust and pillar rooms; Kenzo remains with Hralgar.",
+      "evidence": [
+        {
+          "startUid": "u0226",
+          "endUid": "u0240",
+          "quote": "So, heading down from the top floor you come out again on the—in the—so you come down into the room with the bust of the giant with—that, that's, has a drawing that's in the drawings folder, that's very nice. That has like a crown with like points around that seem to be missing something, that have empty sockets, and then empty eye sockets, mouth etched in, in silver, and more gold and silver kind of decorating the pedestal. Um, so that's, that's the sort of room that you come out of—at—into as you come down. But of course, the other side of this tower is the, the entrance to the platform that extends out over the, over the, over the granite below. And that side of the room, that entrance, has five large marble pillars that extend about halfway to the ceiling, um, each also topped with a—some kind of like intricate silver, iron metal design that twists up to it again, an empty socket."
+        },
+        {
+          "startUid": "u0281",
+          "endUid": "u0281",
+          "quote": "Yes, so I'm writing a note some, I think I'm going to stay in the room with Hralgar and try to vibe out with him. I'm sending you some details what I'm going to try here."
+        }
+      ],
+      "to": "p03",
+      "completion": "arrived",
+      "from": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0281",
+        "endUid": "u0281"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo stays in the top chamber to meditate with Hralgar.",
+      "evidence": [
+        {
+          "startUid": "u0281",
+          "endUid": "u0281",
+          "quote": "Yes, so I'm writing a note some, I think I'm going to stay in the room with Hralgar and try to vibe out with him. I'm sending you some details what I'm going to try here."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0308",
+        "endUid": "u0329"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The searchers descend to the third-floor library.",
+      "evidence": [
+        {
+          "startUid": "u0308",
+          "endUid": "u0329",
+          "quote": "Okay. So you're all—so Delwath is heading down as everybody else?"
+        }
+      ],
+      "to": "p04",
+      "completion": "arrived",
+      "from": "p03"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0496",
+        "endUid": "u0520"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The three other searchers enter the wind-and-stone garden while Delwath reads.",
+      "evidence": [
+        {
+          "startUid": "u0496",
+          "endUid": "u0520",
+          "quote": "So there's the other. There's another—so Delwath is gonna stay here, and…"
+        },
+        {
+          "startUid": "u0504",
+          "endUid": "u0515",
+          "quote": "you step in to the other room"
+        }
+      ],
+      "to": "p05",
+      "completion": "arrived",
+      "from": "p04"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0536",
+        "endUid": "u0540"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn goes to search the ruined first floor.",
+      "evidence": [
+        {
+          "startUid": "u0536",
+          "endUid": "u0540",
+          "quote": "If I’m ever an amazing wizard, I will build a room like this, or steal this one. But I think that we should keep exploring. I'm going to go all the way down to the ransacked first floor and just…"
+        },
+        {
+          "startUid": "u0701",
+          "endUid": "u0707",
+          "quote": "Riswynn, on the first floor"
+        }
+      ],
+      "to": "p07",
+      "completion": "arrived",
+      "from": "p05"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0537",
+        "endUid": "u0540"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Seeker and Wellby descend to search the second-floor corridor and three small rooms.",
+      "evidence": [
+        {
+          "startUid": "u0537",
+          "endUid": "u0540",
+          "quote": "Delwath didn't have much time. Okay. Um, so Delwath’s reading, Riswynn’s gonna poke around the first floor. Wellby and Seeker heading down to the…"
+        },
+        {
+          "startUid": "u0580",
+          "endUid": "u0591",
+          "quote": "Um, OK, so the corridor here. So it's a straight corridor: three doors on one side, one door on the other. The, the doors on the side—the three to the that has three doors are wide—one is like slightly ajar, the one closest to you, and the other two are just sort of plain wood and shut. The one door is more elaborate. It's like wood and iron sort of bound together in a, in a elaborate decoration. Um, so the three small rooms along the, the three doors, all of those doors are easy to open. So do you want to search those rooms first? None of them are locked, so give me, I guess, three Perception checks."
+        }
+      ],
+      "to": "p06",
+      "completion": "arrived",
+      "from": "p05"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0663",
+        "endUid": "u0669"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "They look beneath the sealed door into a bedchamber without entering.",
+      "evidence": [
+        {
+          "startUid": "u0663",
+          "endUid": "u0669",
+          "quote": "Yeah, you can look through the crack. There's, like, I mean there's light coming in from the window—oh, it's night, so—but I guess you're carrying your drift globe, you must be, otherwise you wouldn’t see anything. So, um, there's windows on the other side. There's, like, I mean, there's like a—it's hard to see much, but it seems like…"
+        }
+      ],
+      "place": "p08",
+      "observerPlace": "p06",
+      "mode": "local"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0770",
+        "endUid": "u0777"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The searchers reunite in the library; Kenzo remains upstairs.",
+      "evidence": [
+        {
+          "startUid": "u0770",
+          "endUid": "u0777",
+          "quote": "No, but he does—this description. I mean, does seem like a storm giant from, from the description that you get in this book. Okay, so at that point, um, it's been about—it's been about 20 minutes since, um, since everybody left the room, and you all reconvene. Riswynn too, presuming you will head back up after having searched downstairs as much as you could."
+        }
+      ],
+      "to": "p04",
+      "completion": "arrived",
+      "from": null
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0801",
+        "endUid": "u0840"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath goes to the sealed door and teleports into the bedchamber.",
+      "evidence": [
+        {
+          "startUid": "u0801",
+          "endUid": "u0840",
+          "quote": "You saw room with the door you couldn't get through?"
+        },
+        {
+          "startUid": "u0825",
+          "endUid": "u0832",
+          "quote": "Okay, so this, this, um, this is a surprisingly intact bedchamber. There's a bed, a wardrobe, a small table and chair, and a chest and there's like a divider that splits the room, with the sort of southern half of the room beings like a bedroom and the other half being a study. There are tapestries that hang between, and there's three windows that look out over the plains, or over the granite, um, that's, that's one floor down. Oh, but last time when you jumped, you Misty Stepped, which helped you not take a ton of damage. Interesting. Um, the—there's tapestries that hang between the windows, and then there's two paintings that are hanging on either side of the door on that wall."
+        }
+      ],
+      "to": "p08",
+      "mode": "teleport",
+      "completion": "arrived",
+      "from": "p06"
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u0847",
+        "endUid": "u0850"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby knocks from outside the sealed door.",
+      "evidence": [
+        {
+          "startUid": "u0847",
+          "endUid": "u0850",
+          "quote": "And what you will—Wellby will knock on the door from outside."
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u0998",
+        "endUid": "u1025"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "The mirror shows earlier occupants entering this bedchamber; Delwath stays in the present room.",
+      "evidence": [
+        {
+          "startUid": "u0998",
+          "endUid": "u1025",
+          "quote": "So, as you look in the mirror and think about how to open the door, your reflection fades."
+        }
+      ],
+      "place": "p08",
+      "observerPlace": "p08",
+      "mode": "vision"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1098",
+        "endUid": "u1122"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Seeker and Wellby briefly enter beneath the shrunken door, then leave with Delwath before it closes.",
+      "evidence": [
+        {
+          "startUid": "u1098",
+          "endUid": "u1122",
+          "quote": "Walk in, like doesn't really have to do…"
+        },
+        {
+          "startUid": "u1119",
+          "endUid": "u1122",
+          "quote": "as you all roll out underneath the door"
+        }
+      ],
+      "to": "p06",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Brief search and object recovery inside the bedchamber.",
+          "place": "p08"
+        }
+      ],
+      "from": "p06"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1112",
+        "endUid": "u1128"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath leaves the bedchamber beneath the reduced door with the recovered objects.",
+      "evidence": [
+        {
+          "startUid": "u1112",
+          "endUid": "u1128",
+          "quote": "Takes you about a minute."
+        }
+      ],
+      "to": "p06",
+      "completion": "arrived",
+      "from": "p08"
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u1203",
+        "endUid": "u1239"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Seeker and Riswynn work on the pool’s sphere from the platform entrance, then fight there with Delwath and Wellby.",
+      "evidence": [
+        {
+          "startUid": "u1203",
+          "endUid": "u1239",
+          "quote": "So I stand at a perfectly safe distance."
+        },
+        {
+          "startUid": "u1235",
+          "endUid": "u1239",
+          "quote": "you'd be just like right in the entrance."
+        },
+        {
+          "startUid": "u1308",
+          "endUid": "u1314",
+          "quote": "Whatever you want to do. I’ll close in here and attack this one with my sword, and I'll cast Booming Blade as part of the attack. Okay. Actually, wow, they might be immune to fire damage. Yeah, well, I'll try. I'll try Green-Flame Blade. Yeah. Anything instead of Booming Blade. See if I hit."
+        },
+        {
+          "startUid": "u1326",
+          "endUid": "u1328",
+          "quote": "I'm shooting one with an arrow. I don't think it's anything, but… So…"
+        }
+      ],
+      "place": "p09"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1675",
+        "endUid": "u1678"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby goes upstairs to fetch Kenzo from his meditation.",
+      "evidence": [
+        {
+          "startUid": "u1675",
+          "endUid": "u1678",
+          "quote": "Go up the stairs. Kenzo, it has been an unmitigated success."
+        }
+      ],
+      "to": "p02",
+      "completion": "arrived",
+      "from": "p09"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1832",
+        "endUid": "u1838"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn"
+      ],
+      "reading": "Delwath and Riswynn leave by the tower’s ground-level door.",
+      "evidence": [
+        {
+          "startUid": "u1832",
+          "endUid": "u1838",
+          "quote": "Shoulder. Okay, start out with Delwath is heading to the bottom. You're now sort of coming out the door. You two are still standing by the—discussing what you're going to do with the rope, but you haven't gotten out anywhere yet. Yes, Riswynn, where are you?"
+        }
+      ],
+      "to": "p10",
+      "completion": "arrived",
+      "from": "p01"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1864",
+        "endUid": "u1891"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Kenzo jumps down, Seeker takes the stairs, and Wellby descends by rope; all reunite below the tower.",
+      "evidence": [
+        {
+          "startUid": "u1864",
+          "endUid": "u1891",
+          "quote": "As you—as you guys are debating, you see me like fall from the window like drifting slowly down, like from…"
+        },
+        {
+          "startUid": "u1886",
+          "endUid": "u1891",
+          "quote": "you all converge on the bottom."
+        }
+      ],
+      "to": "p10",
+      "completion": "arrived",
+      "from": "p01"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1957",
+        "endUid": "u2056"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Roped together, the party escapes through the storm and emerges on its mountain side, opposite the horse camp.",
+      "evidence": [
+        {
+          "startUid": "u1957",
+          "endUid": "u2056",
+          "quote": "So you tie yourselves all together to a rope. And again, the wall of wind, the sort of eyewall of the storm that you—that knocked over before, it's not nearly as—as an—as intense as it was initially, but it seems to be picking up speed. So the wind is like—is blowing, but it seems to be getting slowly getting stronger as you push your way through. The thunder and lightning are ever-present, but the ground itself is much clearer than when you came in. So although there's rain now on the other side of the wall, the mist and fog seem to be not nearly so intense, and you can—you can sort of see off in the distance to the, you know, through the storm a little bit to navigate."
+        },
+        {
+          "startUid": "u2040",
+          "endUid": "u2048",
+          "quote": "you seem to have come out of the storm on the far side from where you set your camp"
+        }
+      ],
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Push through the wind wall, lose light and orientation, and emerge at dawn.",
+          "place": "p11"
+        }
+      ],
+      "from": "p10"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2087",
+        "endUid": "u2157"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party walks around the storm to the horse camp, finding Riswynn’s horse halfway; Riswynn rides the remainder.",
+      "evidence": [
+        {
+          "startUid": "u2087",
+          "endUid": "u2157",
+          "quote": "Would you help explain to me, your, your, your reasoning for this? But maybe I should run ahead and see if the horses are still there [garbled]. Can you all keep it—keep up? We got to make sure that Vola doesn't leave on us."
+        },
+        {
+          "startUid": "u2149",
+          "endUid": "u2157",
+          "quote": "as you come to camp, you see Vola."
+        }
+      ],
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk; Riswynn rides after recovering her horse",
+      "route": [
+        {
+          "reading": "Circle the storm rather than reenter it; recover the grazing horse halfway."
+        }
+      ],
+      "from": "p12"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2483",
+        "endUid": "u2492"
+      },
+      "actors": [
+        "Vola"
+      ],
+      "reading": "Vola and Riswynn depart west together; Chardon is Vola’s destination, while Riswynn intends the Yuvanti Mountains.",
+      "evidence": [
+        {
+          "startUid": "u2483",
+          "endUid": "u2492",
+          "quote": "So with that, as Riswynn and Vola turn to ride off, um, Vola gives sort of one last look back at you all and then heads west with Riswynn as well. And you all turn— well, possibly take a few moments to short rest, and then turn south for Karawa and Alesh, and rumors of the—what's been happening to the south that Alesh is supposed to be bringing. And we will end there."
+        },
+        {
+          "startUid": "u2375",
+          "endUid": "u2376",
+          "quote": "And Riswynn, you're heading west as well?"
+        }
+      ],
+      "to": "p15",
+      "completion": "underway",
+      "mode": "ride",
+      "from": "p13",
+      "note": "Shared westward departure does not establish Riswynn traveling all the way to Chardon."
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2483",
+        "endUid": "u2492"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn departs west with Vola, intending to return her heirlooms to the Yuvanti Mountains.",
+      "evidence": [
+        {
+          "startUid": "u2483",
+          "endUid": "u2492",
+          "quote": "So with that, as Riswynn and Vola turn to ride off, um, Vola gives sort of one last look back at you all and then heads west with Riswynn as well. And you all turn— well, possibly take a few moments to short rest, and then turn south for Karawa and Alesh, and rumors of the—what's been happening to the south that Alesh is supposed to be bringing. And we will end there."
+        },
+        {
+          "startUid": "u2375",
+          "endUid": "u2376",
+          "quote": "And Riswynn, you're heading west as well?"
+        }
+      ],
+      "to": "p16",
+      "completion": "underway",
+      "mode": "ride",
+      "from": "p13"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2483",
+        "endUid": "u2492"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The remaining party turns south for Karawa and Alesh; arrival is not played.",
+      "evidence": [
+        {
+          "startUid": "u2483",
+          "endUid": "u2492",
+          "quote": "So with that, as Riswynn and Vola turn to ride off, um, Vola gives sort of one last look back at you all and then heads west with Riswynn as well. And you all turn— well, possibly take a few moments to short rest, and then turn south for Karawa and Alesh, and rumors of the—what's been happening to the south that Alesh is supposed to be bringing. And we will end there."
+        }
+      ],
+      "to": "p14",
+      "completion": "underway",
+      "from": "p13"
+    }
+  ]
+}

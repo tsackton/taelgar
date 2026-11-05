@@ -1,0 +1,459 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-016",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
+    "sessionYamlSha256": "2a9067200fff07421eec99a5c19c4483eb2cd263a2eb52f52ae917a34ecf5f75",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-transcript.md",
+    "transcriptSha256": "f71f3abaa930b9d72c00ca7ea15e10dd9f37126626cbd4681da1ce859f88b991",
+    "yamlDates": {
+      "start": "1748-04-15",
+      "end": "1748-04-16"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0130",
+        "endUid": "u0137"
+      },
+      "reading": "The conversation with lucid Hralgar occurs under a night sky.",
+      "evidence": [
+        {
+          "startUid": "u0130",
+          "endUid": "u0137",
+          "quote": "The stars look like you'd expect, the Fox and Hunter prominently hanging overhead."
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Narrated local time"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0466",
+        "endUid": "u0473"
+      },
+      "reading": "Delwath spends no more than a minute skimming the poetry book.",
+      "evidence": [
+        {
+          "startUid": "u0466",
+          "endUid": "u0473",
+          "quote": "flipping through it quickly, not taking more than a minute"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "max": 1,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated skimming bound"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0492",
+        "endUid": "u0492"
+      },
+      "reading": "About twenty minutes of tower searching have passed since the time pool began.",
+      "evidence": [
+        {
+          "startUid": "u0492",
+          "endUid": "u0492",
+          "quote": "So we know it's about 20 minutes so far."
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM establishes elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0719",
+        "endUid": "u0722"
+      },
+      "reading": "Delwath reads storm-giant lore for fifteen to twenty minutes while the others search.",
+      "evidence": [
+        {
+          "startUid": "u0719",
+          "endUid": "u0722",
+          "quote": "in the, in the, like 15–20 minutes that you've been reading"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "min": 15,
+        "max": 20,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Retrospective reading duration"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0770",
+        "endUid": "u0777"
+      },
+      "reading": "The searchers reconvene at the library about twenty minutes after separating.",
+      "evidence": [
+        {
+          "startUid": "u0770",
+          "endUid": "u0777",
+          "quote": "it's been about 20 minutes since, um, since everybody left the room, and you all reconvene."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Riswynn",
+        "Seeker",
+        "Wellby"
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM establishes elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0871",
+        "endUid": "u0872"
+      },
+      "reading": "Delwath’s invisibility has expired after approximately an hour; the casting preceded this search.",
+      "evidence": [
+        {
+          "startUid": "u0871",
+          "endUid": "u0872",
+          "quote": "Um, since my invisibility is probably up, because I assume that's been an hour…"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Player elapsed estimate affirmed by DM"
+      },
+      "completion": "completed",
+      "note": "This measures the spell interval, not an additional hour after the preceding search."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0933",
+        "endUid": "u0942"
+      },
+      "reading": "Delwath takes ten minutes to activate fey sight and then identifies magical objects.",
+      "evidence": [
+        {
+          "startUid": "u0933",
+          "endUid": "u0942",
+          "quote": "I'm going to take 10 minutes to look again with fey sight."
+        },
+        {
+          "startUid": "u0940",
+          "endUid": "u0942",
+          "quote": "The, the mirror and the stone are both magical."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM establishes elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0998",
+        "endUid": "u1025"
+      },
+      "reading": "The mirror shifts Delwath’s view into earlier episodes at the bedchamber door.",
+      "evidence": [
+        {
+          "startUid": "u0998",
+          "endUid": "u1025",
+          "quote": "You see the—you see the room around you fade"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1020",
+        "endUid": "u1025"
+      },
+      "reading": "The door-history images fade and the mirror again reflects the present room.",
+      "evidence": [
+        {
+          "startUid": "u1020",
+          "endUid": "u1025",
+          "quote": "And then the image fades. The mirror returns to reflecting the room."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t07"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1112",
+        "endUid": "u1122"
+      },
+      "reading": "The recovered objects and searchers pass beneath the reduced door in about a minute before it closes.",
+      "evidence": [
+        {
+          "startUid": "u1112",
+          "endUid": "u1122",
+          "quote": "Takes you about a minute."
+        },
+        {
+          "startUid": "u1119",
+          "endUid": "u1122",
+          "quote": "Yeah, okay, um, I mean, you're searching really quickly, just kind of glancing around before the door slams shut and you're trapped in here as this spell ends, so you don't really see much beyond what I've already described. So, as you all roll out underneath the door, just as the spell ends, it slams back into place. But you do have the mirror…"
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM establishes elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1912",
+        "endUid": "u1920"
+      },
+      "reading": "The three rope-pullers spend a few minutes bringing down the sphere.",
+      "evidence": [
+        {
+          "startUid": "u1912",
+          "endUid": "u1920",
+          "quote": "for a few minutes, nothing's happening"
+        }
+      ],
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Wellby"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated pulling interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1977",
+        "endUid": "u1982"
+      },
+      "reading": "It remains night during the escape through the storm.",
+      "evidence": [
+        {
+          "startUid": "u1977",
+          "endUid": "u1982",
+          "quote": "it's night, right?"
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Narrated local time"
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2018",
+        "endUid": "u2053"
+      },
+      "reading": "The party emerges from the storm at dawn after an unmeasurable interval in darkness.",
+      "evidence": [
+        {
+          "startUid": "u2018",
+          "endUid": "u2053",
+          "quote": "you stumble out into the light of morning."
+        },
+        {
+          "startUid": "u2040",
+          "endUid": "u2053",
+          "quote": "You're not entirely sure how much time has passed."
+        },
+        {
+          "startUid": "u2161",
+          "endUid": "u2162",
+          "quote": "Just, just a day."
+        }
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "Narrated local time"
+      },
+      "completion": "completed",
+      "note": "The DM initially leaves open whether a night or days passed; Vola later says they were gone just a day."
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2149",
+        "endUid": "u2162"
+      },
+      "reading": "At the morning reunion, Vola confirms the whole absence in the storm was about a day.",
+      "evidence": [
+        {
+          "startUid": "u2149",
+          "endUid": "u2162",
+          "quote": "Just, just a day."
+        },
+        {
+          "startUid": "u2149",
+          "endUid": "u2157",
+          "quote": "Vola is like, you know, packing up her breakfast"
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Breakfast on arrival; later clear-morning departure"
+      },
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Vola’s retrospective answer; includes time before the opening of this session"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2201",
+        "endUid": "u2207"
+      },
+      "reading": "Play returns to the approach walk to resolve what the party agreed to tell Vola.",
+      "evidence": [
+        {
+          "startUid": "u2201",
+          "endUid": "u2207",
+          "quote": "before we talked about Vola, can we'd have like a pre-conversation"
+        }
+      ],
+      "context": "flashback"
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2337",
+        "endUid": "u2340"
+      },
+      "reading": "The approach conversation ends and the party resumes questioning Vola.",
+      "evidence": [
+        {
+          "startUid": "u2337",
+          "endUid": "u2340",
+          "quote": "Okay, so conversation that happened. Yep."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t14"
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2429",
+        "endUid": "u2435"
+      },
+      "reading": "Vola prepares to leave during a clear, still-young morning.",
+      "evidence": [
+        {
+          "startUid": "u2429",
+          "endUid": "u2435",
+          "quote": "it's a clear morning. The day is young."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Narrated local time"
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute date is spoken. April 15–16, 1748 comes from YAML; night-to-dawn passage and Vola’s one-day absence confirmation support that relative span.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t12",
+      "t13",
+      "t14",
+      "t17"
+    ],
+    "explanation": "The opening tower night advances to dawn and morning outside the storm. Vola resolves the initial fear that days might have passed. Her whole-day absence includes entry before this session and is not added to the night. The mirror’s historical images do not extend the adventure interval; the optional closing short rest is not established as completed."
+  }
+}

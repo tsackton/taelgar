@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-016",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
+    "sessionYamlSha256": "2a9067200fff07421eec99a5c19c4483eb2cd263a2eb52f52ae917a34ecf5f75",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-transcript.md",
+    "transcriptSha256": "f71f3abaa930b9d72c00ca7ea15e10dd9f37126626cbd4681da1ce859f88b991"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0002"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u1261"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1262",
+        "endUid": "u1655"
+      },
+      "category": "combat",
+      "note": "No initiative roll is recorded; repeated party turns alternate with enemy turns through the defeat of the steam and dust creatures."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1656",
+        "endUid": "u2492"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2493",
+        "endUid": "u2494"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
