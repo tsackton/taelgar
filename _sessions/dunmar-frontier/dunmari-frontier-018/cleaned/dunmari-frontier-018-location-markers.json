@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-018",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-session.yaml",
+    "sessionYamlSha256": "b19ef55cfd16d6a6f6902d353f4e7384694811cca9cbe141f990f47e5fc8b0ef",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-transcript.md",
+    "transcriptSha256": "6bcaa0fb42f5eca243f5e1fde1ea17952cea879ad85cb3744e293e925b2f4f17"
+  },
+  "places": {
+    "karawa": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0008",
+          "quote": "DM: Earlier this morning you all reached Karawa after a week's journey across the plains, finding the town in shambles. Many of the most notable landmarks—the caravanserai, Ikram's place, the block of apartments and shops where Delwath lived, even the Temple of the Five Siblings—are partially or completely destroyed. Still standing, largely thanks to Seeker's defenses and timely intervention of the centaurs, is the Temple of Shakun, where you are sitting now. It's been just about a month since you met in Karawa, before the Festival of Rebirth, before the gnolls, before the evacuation, and it's been quite an eventful month."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "temple": {
+      "label": "Temple of Shakun",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0008",
+          "quote": "DM: Earlier this morning you all reached Karawa after a week's journey across the plains, finding the town in shambles. Many of the most notable landmarks—the caravanserai, Ikram's place, the block of apartments and shops where Delwath lived, even the Temple of the Five Siblings—are partially or completely destroyed. Still standing, largely thanks to Seeker's defenses and timely intervention of the centaurs, is the Temple of Shakun, where you are sitting now. It's been just about a month since you met in Karawa, before the Festival of Rebirth, before the gnolls, before the evacuation, and it's been quite an eventful month."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "karawa",
+          "evidence": [
+            {
+              "startUid": "u0005",
+              "endUid": "u0008",
+              "quote": "DM: Earlier this morning you all reached Karawa after a week's journey across the plains, finding the town in shambles. Many of the most notable landmarks—the caravanserai, Ikram's place, the block of apartments and shops where Delwath lived, even the Temple of the Five Siblings—are partially or completely destroyed. Still standing, largely thanks to Seeker's defenses and timely intervention of the centaurs, is the Temple of Shakun, where you are sitting now. It's been just about a month since you met in Karawa, before the Festival of Rebirth, before the gnolls, before the evacuation, and it's been quite an eventful month."
+            }
+          ]
+        }
+      ]
+    },
+    "council-room": {
+      "label": "Bare sandstone meeting room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "DM: We open tonight. Room, the walls dull red sandstone, the floor bare. The only light from a small window and four flickering torches in wall sconces. A few chairs are arranged in a rough circle around a small table. On the table a map is unfurled, and small illusionary figures of gnolls are standing to mark sightings and movements of armies, directed by Seeker, who is this close to inventing battle maps for his legendary Stealth and Caster, and..."
+        },
+        {
+          "startUid": "u0092",
+          "endUid": "u0098",
+          "quote": "DM: So, picking back up back in the bare room, Candrosa, who is the Speaker of Shakun and the leader, or at least the public face, of the Shakun Mystai, looks haggard and exhausted. He's a man in his prime, a striking figure with dark skin, neat, short-cropped curly hair, wearing an ochre robe trimmed in silver. But now he looks nervous, his eyes bloodshot, his hair a mess, seemingly exhausted and not having slept in a week, possibly. Could be explained by being besieged by gnolls, but there seems to be a lot on his mind. He's just finished speaking about the Old Woman of the Dusts, an old woman who lives on the edge of the Garamjala Desert and supposedly can solve problems of magic that no one else can, but always requiring a painful cost in exchange. Also sitting in the room... Maybe you could just ask her to solve all the problems. She'd probably just ask for your eye or something."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "temple",
+          "evidence": [
+            {
+              "startUid": "u0005",
+              "endUid": "u0008",
+              "quote": "DM: Earlier this morning you all reached Karawa after a week's journey across the plains, finding the town in shambles. Many of the most notable landmarks—the caravanserai, Ikram's place, the block of apartments and shops where Delwath lived, even the Temple of the Five Siblings—are partially or completely destroyed. Still standing, largely thanks to Seeker's defenses and timely intervention of the centaurs, is the Temple of Shakun, where you are sitting now. It's been just about a month since you met in Karawa, before the Festival of Rebirth, before the gnolls, before the evacuation, and it's been quite an eventful month."
+            }
+          ]
+        }
+      ]
+    },
+    "temple-exterior": {
+      "label": "Outside the Temple of Shakun",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u1323",
+          "endUid": "u1324",
+          "quote": "Seeker: Oh, Tim, while that's happening, I'm gonna be looking through the goggles at the temple, as we look at the outside."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "temple",
+          "evidence": [
+            {
+              "startUid": "u1323",
+              "endUid": "u1324",
+              "quote": "Seeker: Oh, Tim, while that's happening, I'm gonna be looking through the goggles at the temple, as we look at the outside."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "karawa",
+          "evidence": [
+            {
+              "startUid": "u0005",
+              "endUid": "u0008",
+              "quote": "DM: Earlier this morning you all reached Karawa after a week's journey across the plains, finding the town in shambles. Many of the most notable landmarks—the caravanserai, Ikram's place, the block of apartments and shops where Delwath lived, even the Temple of the Five Siblings—are partially or completely destroyed. Still standing, largely thanks to Seeker's defenses and timely intervention of the centaurs, is the Temple of Shakun, where you are sitting now. It's been just about a month since you met in Karawa, before the Festival of Rebirth, before the gnolls, before the evacuation, and it's been quite an eventful month."
+            }
+          ]
+        }
+      ]
+    },
+    "centaur-camp": {
+      "label": "Centaur camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1394",
+          "endUid": "u1396",
+          "quote": "Kenzo: Yeah, that's troubling. So, we talked to the centaurs soon? So you'll find the centaurs' tent."
+        },
+        {
+          "startUid": "u1397",
+          "endUid": "u1400",
+          "quote": "DM: Okay, so they're camped bit separate from the—from the Dunmari. So there's sort of... On one side of town is, is Havdar's camp, well the other..."
+        },
+        {
+          "startUid": "u1429",
+          "endUid": "u1429",
+          "quote": "DM: So, as you begin to approach the centaur camp..."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "karawa",
+          "evidence": [
+            {
+              "startUid": "u1394",
+              "endUid": "u1396",
+              "quote": "Kenzo: Yeah, that's troubling. So, we talked to the centaurs soon? So you'll find the centaurs' tent."
+            },
+            {
+              "startUid": "u1397",
+              "endUid": "u1400",
+              "quote": "DM: Okay, so they're camped bit separate from the—from the Dunmari. So there's sort of... On one side of town is, is Havdar's camp, well the other..."
+            }
+          ]
+        }
+      ]
+    },
+    "centaur-tent": {
+      "label": "Sheltered tent and stone table",
+      "kind": "tent",
+      "evidence": [
+        {
+          "startUid": "u1449",
+          "endUid": "u1451",
+          "quote": "DM: And he rides into like through the camp into a sort of, like sort of sheltered area underneath a tent, where he you know kind of sits down. And there's a like a little bit of a stone table, portable table, set up. And another centaur bring some some roasted antelope and jugs of wine, and serves us all around, and then and then rides off."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "centaur-camp",
+          "evidence": [
+            {
+              "startUid": "u1449",
+              "endUid": "u1451",
+              "quote": "DM: And he rides into like through the camp into a sort of, like sort of sheltered area underneath a tent, where he you know kind of sits down. And there's a like a little bit of a stone table, portable table, set up. And another centaur bring some some roasted antelope and jugs of wine, and serves us all around, and then and then rides off."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0008"
+      },
+      "actors": [
+        "party",
+        "Candrosa",
+        "Alesh"
+      ],
+      "reading": "The party meets Candrosa and Alesh in the bare room inside the surviving Temple of Shakun in Karawa.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "DM: We open tonight. Room, the walls dull red sandstone, the floor bare. The only light from a small window and four flickering torches in wall sconces. A few chairs are arranged in a rough circle around a small table. On the table a map is unfurled, and small illusionary figures of gnolls are standing to mark sightings and movements of armies, directed by Seeker, who is this close to inventing battle maps for his legendary Stealth and Caster, and..."
+        },
+        {
+          "startUid": "u0005",
+          "endUid": "u0008",
+          "quote": "DM: Earlier this morning you all reached Karawa after a week's journey across the plains, finding the town in shambles. Many of the most notable landmarks—the caravanserai, Ikram's place, the block of apartments and shops where Delwath lived, even the Temple of the Five Siblings—are partially or completely destroyed. Still standing, largely thanks to Seeker's defenses and timely intervention of the centaurs, is the Temple of Shakun, where you are sitting now. It's been just about a month since you met in Karawa, before the Festival of Rebirth, before the gnolls, before the evacuation, and it's been quite an eventful month."
+        },
+        {
+          "startUid": "u0083",
+          "endUid": "u0084",
+          "quote": "DM: Right now you're sitting with Alesh and Candrosa, so let's sort of pick it up."
+        }
+      ],
+      "place": "council-room"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u1310",
+        "endUid": "u1310"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath’s conversation with Havdar is accepted and then resolved in compressed narration; the exact meeting spot is not explicitly placed.",
+      "evidence": [
+        {
+          "startUid": "u1310",
+          "endUid": "u1310",
+          "quote": "DM: So, so while Delwath is speaking to Havdar, what does anybody else...?"
+        },
+        {
+          "startUid": "u1358",
+          "endUid": "u1369",
+          "quote": "DM: So, I'll just briefly, unless you want to—just in the interest of time, I'd say let's not play a whole thing with Havdar, yeah and then do centaurs. So I mean you know he has... There are people in this troop who are, you know, have some skill with repairs. But you know even with Riswynn's work on the armor in the few days you are traveling to the to the tower, it would still probably take at least a week, and they would need you know, a forge and equipment and stuff that's not really readily available in, in Karawa at the moment. And plus, Havdar is quite concerned about room about this news of orcs that Alesh brought. And he's currently trying to convince Candrosa and Alesh and everybody, you know anybody who's around, basically, to ride out—or let him ride out—and hunt them down with his troop. And so far, has not been able to convince the centaurs to either come or stay and protect the town. And he's slightly reluctant to go herring off into the desert after rumors of orcs without with no protection from the town whatsoever. But even if... He even if."
+        },
+        {
+          "startUid": "u1370",
+          "endUid": "u1370",
+          "quote": "DM: He you know they did have the materials, which you could probably scratch... He doesn't he's not planning on being here for a whole week, because he's worried about this, these new threats in the east. So you can't really spare them."
+        }
+      ],
+      "place": "karawa",
+      "note": "Havdar’s camp is described later, but the dialogue does not explicitly place this conversation inside it."
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u1323",
+        "endUid": "u1330"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker examines the temple from outside; the DM redirects the attempted goggles inspection toward architectural knowledge.",
+      "evidence": [
+        {
+          "startUid": "u1323",
+          "endUid": "u1324",
+          "quote": "Seeker: Oh, Tim, while that's happening, I'm gonna be looking through the goggles at the temple, as we look at the outside."
+        },
+        {
+          "startUid": "u1325",
+          "endUid": "u1326",
+          "quote": "DM: Ah, yeah, I think that's more—that's more like not so much Arcana as like your geology, and like nature, and dwarven architecture training. So the goggles goggles are really more specifically about items."
+        }
+      ],
+      "place": "temple",
+      "observerPlace": "temple-exterior",
+      "mode": "local"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1394",
+        "endUid": "u1400"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party approaches the separate centaur camp, accepts Tharandros’s hospitality, and sits under a tent for food and wine.",
+      "evidence": [
+        {
+          "startUid": "u1394",
+          "endUid": "u1396",
+          "quote": "Kenzo: Yeah, that's troubling. So, we talked to the centaurs soon? So you'll find the centaurs' tent."
+        },
+        {
+          "startUid": "u1397",
+          "endUid": "u1400",
+          "quote": "DM: Okay, so they're camped bit separate from the—from the Dunmari. So there's sort of... On one side of town is, is Havdar's camp, well the other..."
+        },
+        {
+          "startUid": "u1429",
+          "endUid": "u1429",
+          "quote": "DM: So, as you begin to approach the centaur camp..."
+        },
+        {
+          "startUid": "u1433",
+          "endUid": "u1446",
+          "quote": "Would you care for food or drink?"
+        },
+        {
+          "startUid": "u1447",
+          "endUid": "u1447",
+          "quote": "Kenzo: Thank you kindly for your offer. I think we'd be delighted to."
+        },
+        {
+          "startUid": "u1449",
+          "endUid": "u1451",
+          "quote": "DM: And he rides into like through the camp into a sort of, like sort of sheltered area underneath a tent, where he you know kind of sits down. And there's a like a little bit of a stone table, portable table, set up. And another centaur bring some some roasted antelope and jugs of wine, and serves us all around, and then and then rides off."
+        }
+      ],
+      "from": "karawa",
+      "to": "centaur-tent",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Approach the centaur camp, separate from the Dunmari camp.",
+          "place": "centaur-camp"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u2615",
+        "endUid": "u2634"
+      },
+      "actors": [
+        "Kenzo",
+        "Tharandros"
+      ],
+      "reading": "Later in the evening Kenzo meets Tharandros privately after the others go to organize supplies.",
+      "evidence": [
+        {
+          "startUid": "u2615",
+          "endUid": "u2615",
+          "quote": "Kenzo: So, presumably you know later in the evening... You know."
+        },
+        {
+          "startUid": "u2616",
+          "endUid": "u2617",
+          "quote": "DM: Yeah, just like they go off to organize stuff, and you kind of slip away, and we'll pick up my."
+        },
+        {
+          "startUid": "u2619",
+          "endUid": "u2620",
+          "quote": "Kenzo: Tharandros, I I'm glad you, you have made some additional time to speak with me, as I have some matters that I believe you will be interested in. And perhaps some of what I've seen or what I've dreamed or what have experienced may somehow connect to the mysteries of this temple."
+        }
+      ],
+      "place": "karawa",
+      "note": "The renewed conversation is established; returning to the same tent or another exact spot is not stated."
+    }
+  ]
+}
