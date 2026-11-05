@@ -1,0 +1,376 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-005",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-session.yaml",
+    "sessionYamlSha256": "55a051d5d706dd8748343cecb71533f126ab9af606cc4114d0cb888d674f5055",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-transcript.md",
+    "transcriptSha256": "08a0a5a8413612984912d26d89d01f66456f251a05e5358920717bc917b6a0b5",
+    "yamlDates": {
+      "start": "1748-03-30",
+      "end": "1748-04-04"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0010"
+      },
+      "reading": "Kenzo wakes before dawn after roughly half a night asleep.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0010",
+          "quote": "in the predawn hours, after you've been asleep maybe half the night, Kenzo, you awake suddenly to a gentle tapping on your door."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "partOfDay": "predawn",
+        "precision": "approximate",
+        "basis": "Narrated time of day."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0022"
+      },
+      "reading": "Kenzo and Candrosa reach the mesa summit at sunrise.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0022",
+          "quote": "The climb is very steep but short, and just as the sun is rising you ascend to the top, catching the first rays of the morning light."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "partOfDay": "sunrise",
+        "precision": "approximate",
+        "basis": "Narrated time of day."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0079",
+        "endUid": "u0082"
+      },
+      "reading": "Kenzo enters a separately experienced dreamlike frame when the staff touches his forehead.",
+      "evidence": [
+        {
+          "startUid": "u0079",
+          "endUid": "u0082",
+          "quote": "He sort of holds up the staff and touches it to your forehead, and you feel yourself falling away from your body, the world turning faint and insubstantial as everything fades to mist, except for the staff, now a pulsing, glowing kind of icon in the ground."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0123",
+        "endUid": "u0127"
+      },
+      "reading": "Kenzo returns to his body; the encounter seems to have taken only a moment outside the vision.",
+      "evidence": [
+        {
+          "startUid": "u0123",
+          "endUid": "u0127",
+          "quote": "And you blink. Seemingly but a moment you are gone, and as your eyes open, you realize that you could still sense something of the energy of wherever you were."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t02"
+        }
+      ],
+      "duration": {
+        "text": "seemingly a moment",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Apparent outside duration on returning, not a measured duration inside the vision."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0307",
+        "endUid": "u0319"
+      },
+      "reading": "The other three PCs gather for breakfast in the morning while Kenzo is absent.",
+      "evidence": [
+        {
+          "startUid": "u0307",
+          "endUid": "u0315",
+          "quote": "As you awake and sort of gather in the morning, you can tell—you can hear that the sounds of the market and the sort of sounds of the pre-festival fair starting up carry from across the, across the village"
+        },
+        {
+          "startUid": "u0316",
+          "endUid": "u0319",
+          "quote": "DM: And so as you gather at breakfast, perusing the letter from Candrosa, we open our session. And again, Kenzo is not there."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Narrated time of day."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0442",
+        "endUid": "u0444"
+      },
+      "reading": "The other PCs reach Kenzo on the mesa around nine in the morning.",
+      "evidence": [
+        {
+          "startUid": "u0442",
+          "endUid": "u0444",
+          "quote": "DM: Top of this—now it's, you know, it's—it's probably, you know, a little bit after—after sunrise now, like sort of nine-ish or something like that, so it's starting to get hot. But you see, as you cross the summit of this mesa, this expansive view out over the desert, and you see Kenzo sitting on the edge of the mesa in meditation."
+        }
+      ],
+      "time": {
+        "clock": "09:00",
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM qualifies the clock as nine-ish."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1000",
+        "endUid": "u1010"
+      },
+      "reading": "The party visits Jasu after lunch that afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1000",
+          "endUid": "u1002",
+          "quote": "DM: Okay, so—so why don't we, why don't we say—so this act—what, how about this afternoon? You, you hit up the smith and then—as you want to do that first, yeah."
+        },
+        {
+          "startUid": "u1005",
+          "endUid": "u1010",
+          "quote": "Okay, so we'll say after lunch you, you sort of head back towards Jasu's shop."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Narrated time of day."
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1351",
+        "endUid": "u1362"
+      },
+      "reading": "The next morning, later in the morning, Ikram brings the party gifts at breakfast.",
+      "evidence": [
+        {
+          "startUid": "u1351",
+          "endUid": "u1362",
+          "quote": "After, you know, the next morning, that—the day after this one, as you are gathering for breakfast, sort of set out on your various goals and missions, and if, you know, maybe you slept in a little—it's kind of later morning—Ikram comes over"
+        }
+      ],
+      "time": {
+        "partOfDay": "late morning",
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "relative": {
+          "relation": "after",
+          "reference": "t07",
+          "anchor": "The day after the smith visit."
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1448",
+        "endUid": "u1450"
+      },
+      "reading": "A roughly three-day highlights montage covers training and festival preparation before the staff contest and subsequent evening.",
+      "evidence": [
+        {
+          "startUid": "u1448",
+          "endUid": "u1450",
+          "quote": "DM: Okay. So over the next, like, let's say three days, I'll just sort of hit the highlights to keep things moving. So—okay, let's see, first let's—Eric, I'm going to send you a message about your runes, and then I'll come back to—"
+        },
+        {
+          "startUid": "u1649",
+          "endUid": "u1650",
+          "quote": "Seeker: I thought the plan on Team Wellby was that we were getting too rigorous—of the previous three days, we were going to be doing rigorous training, developer a whole—"
+        }
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM announces three days of highlights; subsequent training refers to the previous three days."
+      },
+      "completion": "completed",
+      "note": "The narration does not specify whether this begins before or after the gift breakfast, or whether its day count is inclusive; do not add three new date boundaries mechanically."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1659",
+        "endUid": "u1661"
+      },
+      "reading": "The party is back at Ikram's at the end of the staff-contest day.",
+      "evidence": [
+        {
+          "startUid": "u1659",
+          "endUid": "u1661",
+          "quote": "Back in Ikram's at the end of the day, sort of talking about everything."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Narrated time of day."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1809",
+        "endUid": "u1811"
+      },
+      "reading": "After going to sleep, the next morning brings the axebeak competition.",
+      "evidence": [
+        {
+          "startUid": "u1796",
+          "endUid": "u1797",
+          "quote": "DM: Okay, so, so you go—you go to sleep."
+        },
+        {
+          "startUid": "u1809",
+          "endUid": "u1811",
+          "quote": "DM: Okay, so in the morning, the day of the axebeak competition arrives."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Narrated time of day."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2050",
+        "endUid": "u2058"
+      },
+      "reading": "Alesh greets the party at the inn late after dinner on the riding-contest day.",
+      "evidence": [
+        {
+          "startUid": "u2050",
+          "endUid": "u2058",
+          "quote": "And, you know, the day continues, and that evening, there's, there's a sort of commotion at the inn as Alesh comes in late after dinner."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Narrated time of day."
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2067",
+        "endUid": "u2075"
+      },
+      "reading": "The party wakes the following morning and attends the council convened for ten o'clock.",
+      "evidence": [
+        {
+          "startUid": "u2067",
+          "endUid": "u2075",
+          "quote": "DM: When you wake in the morning, the message is waiting for you from Candrosa, saying, \"Come. The, the village council will be meeting,\" and you know the location of the, of the—I forget what they call it, like the meeting hall, like the chamber, right, where you talked to Kisa when you came back. \"The council will be meeting at 10 o'clock. We would very much appreciate your wisdom and your insight in these trying times.\""
+        },
+        {
+          "startUid": "u2110",
+          "endUid": "u2112",
+          "quote": "DM: Okay, so you all approach the—you all head to the village council chambers and enter the council—the council room, where the rest of the council seems to have just gathered or been gathering."
+        }
+      ],
+      "time": {
+        "clock": "10:00",
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Ten is the announced meeting time; the party then enters as the council gathers, without a separately stated arrival clock."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2795",
+        "endUid": "u2800"
+      },
+      "reading": "Seeker spends a few minutes animating a tactical illustration during the council.",
+      "evidence": [
+        {
+          "startUid": "u2795",
+          "endUid": "u2800",
+          "quote": "Seeker: I am— yeah, I rolled my map out on the table and also use Minor Illusion to make some animated characters appear to represent us in the town, a column fleeing it, defenders around it, the infinite lightning storm or whatever, the stream of blood, etc. Like, it's been a few minutes, making it all appear in glowing holographic figures above the table."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Seeker describes elapsed work, not a spell-duration inference."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute adventure date is spoken. March 30–April 4 comes only from YAML; relative days and clocks come from the transcript.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t08",
+      "t09",
+      "t10",
+      "t11",
+      "t12",
+      "t13"
+    ],
+    "explanation": "Three distinct next-morning transitions are clear. The three-day montage overlaps incompletely specified activities and may include the gift day and staff-contest day. It can fit five total boundaries, but neither its inclusive endpoints nor its overlap are explicit enough to establish an exact total. The brief vision adds no calendar days."
+  }
+}
