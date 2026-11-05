@@ -1,0 +1,210 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-time-markers.json",
+    "sha256": "2869637af955ecc82467887dd22af3c425566bbc67016f85073832a595795595"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-transcript.md",
+    "sha256": "66ae3126bc4fb9a91f85675d5c5ae7689276a125a884dad72a7aec58ed104a7c"
+  },
+  "dateAssessment": "Working dates use the session YAML, August 9–21, 1748. Only August is spoken independently. Counting departure as sailing day one places the fifth-day Illoria passage on August 13 and the roughly eighth-day canal approach on August 16; the two canal overnights then reach August 18. The final sea leg is ‘four-ish days’ followed by about half a day upriver. The YAML arrival date is a compatible working date, not an independently verified endpoint; taking that sea estimate as exactly four days would place arrival about a day later. The time extraction therefore remains **compatible**, with the total date-boundary count open. Mirror time is subjective and separate from Wellby’s adventure clock.",
+  "watches": [
+    {
+      "day": "August 9, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Afternoon harbor meeting; later on deck the DM gives about three, two hours before sunset.",
+      "markers": [
+        "t01",
+        "t03"
+      ],
+      "startDate": "1748-08-09",
+      "endDate": "1748-08-09"
+    },
+    {
+      "day": "August 9, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Initial sailing description uses setting sunlight; its relation to the later afternoon anchor remains unresolved.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1748-08-09",
+      "endDate": "1748-08-09",
+      "scope": "Competing departure cue"
+    },
+    {
+      "day": "August 9, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "A couple of hours reach sunset; dinner and stories continue into the late evening.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06"
+      ],
+      "sourceRanges": [
+        [
+          "u1580",
+          "u1581"
+        ]
+      ],
+      "startDate": "1748-08-09",
+      "endDate": "1748-08-09"
+    },
+    {
+      "day": "August 10, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "By the next evening the ship reaches the Isle of Folly and turns northwest.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-08-10",
+      "endDate": "1748-08-10"
+    },
+    {
+      "day": "August 13, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Illoria appears on the fifth morning, correcting an initial fourth-day start.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-08-13",
+      "endDate": "1748-08-13"
+    },
+    {
+      "day": "August 16, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Around sailing day eight, the canal approach is placed in late afternoon.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-08-16",
+      "endDate": "1748-08-16"
+    },
+    {
+      "day": "August 16, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The four PCs enter at sunset; Baxter joins in the retrospectively resolved shrinking sequence.",
+      "markers": [
+        "t10"
+      ],
+      "scope": "Hidden passengers",
+      "startDate": "1748-08-16",
+      "endDate": "1748-08-16"
+    },
+    {
+      "day": "Subjective mirror interval",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "White mist feels like minutes or perhaps an hour; no hunger, thirst or tiredness develops.",
+      "markers": [
+        "t11"
+      ],
+      "clock": "local",
+      "scope": "Kenzo, Delwath, Seeker and Riswynn"
+    },
+    {
+      "day": "August 16–17, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Evening pilot arrangements end in sleep; Wellby wakes before dawn the next morning.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-08-16",
+      "endDate": "1748-08-17",
+      "scope": "Wellby aboard"
+    },
+    {
+      "day": "August 17, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Wellby wakes in pre-dawn darkness; magical wind begins the transit before sunrise.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-08-17",
+      "endDate": "1748-08-17",
+      "scope": "Wellby aboard"
+    },
+    {
+      "day": "August 17, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Lake arrival is nine-ish in the morning, after briefly considering ten.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1748-08-17",
+      "endDate": "1748-08-17",
+      "scope": "Wellby aboard"
+    },
+    {
+      "day": "August 17, 1748",
+      "startWatch": "dusk",
+      "endWatch": null,
+      "basis": "mixed",
+      "summary": "Sunset reveals the sea; Fort Varian docking follows in full darkness, well past sunset.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1748-08-17",
+      "endDate": "1748-08-17",
+      "scope": "Wellby aboard"
+    },
+    {
+      "day": "August 17–18, 1748",
+      "startWatch": null,
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "The ship spends the night at anchor; four PCs emerge as it leaves next morning.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1748-08-17",
+      "endDate": "1748-08-18"
+    },
+    {
+      "day": "August 18–21, 1748",
+      "startWatch": "morning",
+      "endWatch": null,
+      "basis": "inferred",
+      "summary": "About four days of sailing follow the morning departure; the river arrival watch is unstated.",
+      "markers": [
+        "t17"
+      ],
+      "startDate": "1748-08-18",
+      "endDate": "1748-08-21"
+    },
+    {
+      "day": "August 21, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The upriver approach takes about half a day; departure and arrival watches are unstated.",
+      "markers": [
+        "t18"
+      ],
+      "startDate": "1748-08-21",
+      "endDate": "1748-08-21"
+    }
+  ]
+}

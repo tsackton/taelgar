@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-047",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-session.yaml",
+    "sessionYamlSha256": "d6a7ddc3d3aca6fb866f906a418573455703dccb887f7621c550d92ec185816a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-transcript.md",
+    "transcriptSha256": "66ae3126bc4fb9a91f85675d5c5ae7689276a125a884dad72a7aec58ed104a7c"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0017"
+      },
+      "category": "session_framing",
+      "note": "Opening recap and the proposed starting point end before the architecture tour is resolved in play."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0796"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0797",
+        "endUid": "u0988"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0989",
+        "endUid": "u1485"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1486",
+        "endUid": "u1489"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1490",
+        "endUid": "u1501"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1502",
+        "endUid": "u1523"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1524",
+        "endUid": "u1590"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1591",
+        "endUid": "u1643"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1644",
+        "endUid": "u1763"
+      },
+      "category": "meta_discussion",
+      "note": "Sustained out-of-character city institutions and worldbuilding; the brief Arcane recommendation stays within the discussion."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1764",
+        "endUid": "u2318"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2319",
+        "endUid": "u2476"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2477",
+        "endUid": "u2525"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2526",
+        "endUid": "u2530"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
