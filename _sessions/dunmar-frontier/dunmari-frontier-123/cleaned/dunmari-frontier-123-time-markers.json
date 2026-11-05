@@ -1,0 +1,272 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-123",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+    "sessionYamlSha256": "d13a3a3e116c05eb1489f1f5fe991a751adcc9d4d188d26cd78f3c0dc5e21c99",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-transcript.md",
+    "transcriptSha256": "6f8938494ad2622c5547268e3ced9af0627ad3e43157d97b35d542b72b3448d8",
+    "yamlDates": {
+      "start": "1749-06-13",
+      "end": "1749-06-14"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0315",
+        "endUid": "u0319"
+      },
+      "reading": "A few minutes pass releasing and calming Wellby’s wyvern before departure.",
+      "duration": {
+        "text": "a few",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated preparation, not a spell-duration estimate."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0315",
+          "endUid": "u0319",
+          "quote": "so you take a few minutes to put down, open the portable hole, lift the mirror out, release the wyvern, calm it down, remind it of who you are"
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0608",
+        "endUid": "u0613"
+      },
+      "reading": "The mounted lead group gains distance during an hour of flight; Seeker and Riswynn travel separately behind the pursuers during the same interval.",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated next hour, confirmed by the expiring longstrider and invisibility."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0608",
+          "endUid": "u0613",
+          "quote": "But slowly, over the course of the next hour, you begin to put more distance behind them"
+        },
+        {
+          "startUid": "u0634",
+          "endUid": "u0634",
+          "quote": "DM: Now an hour is almost up as you are—"
+        },
+        {
+          "startUid": "u0652",
+          "endUid": "u0656",
+          "quote": "just before the invisibility wears off"
+        },
+        {
+          "startUid": "u0662",
+          "endUid": "u0662",
+          "quote": "DM: Longstrider begins to fade."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Valeris",
+        "Seeker",
+        "Riswynn"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0726",
+        "endUid": "u0731"
+      },
+      "reading": "The lead group flies about another half hour along the river before the mist thickens and color returns.",
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated flying after longstrider fades."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0726",
+          "endUid": "u0731",
+          "quote": "after about maybe half an hour of flying"
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Valeris"
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0752",
+        "endUid": "u0753"
+      },
+      "reading": "The lead group completes the final roughly ten-minute approach into the Prismwell’s cloud sanctuary.",
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Estimate is adopted as the narrated last ten minutes and followed through arrival."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0749",
+          "endUid": "u0750",
+          "quote": "DM: 6 or 7 miles an hour, so a mile is maybe 10 min."
+        },
+        {
+          "startUid": "u0752",
+          "endUid": "u0753",
+          "quote": "So you begin racing the last 10 min."
+        },
+        {
+          "startUid": "u0755",
+          "endUid": "u0759",
+          "quote": "when suddenly you burst through the clouds and see, swirling below you, a pool of what seems like liquid color."
+        },
+        {
+          "startUid": "u0760",
+          "endUid": "u0762",
+          "quote": "DM: From the inside, now, just gray clouds surrounding you. Everything is sort of misty and shadowy. Have no idea whether any of these creatures that are chasing you can enter this space or not, but I presume you land."
+        },
+        {
+          "startUid": "u0763",
+          "endUid": "u0763",
+          "quote": "Delwath: Yeah."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Valeris"
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0804",
+        "endUid": "u0809"
+      },
+      "reading": "About half a minute passes positioning and lifting Cloudspinner’s crystal prison from the portable hole.",
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s estimate of the performed extraction."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0804",
+          "endUid": "u0809",
+          "quote": "maybe takes half a minute to just get everything in position and lift everything out"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0862",
+        "endUid": "u0865"
+      },
+      "reading": "Cloudspinner’s crystal prison disappears into the pool for about a minute before the attack and her emergence.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated disappearance; subsequent “a moment” is loose rather than a precise clock."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0862",
+          "endUid": "u0865",
+          "quote": "The crystal prison vanishes for a minute."
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0868",
+          "quote": "A moment, nothing seems to happen, and then there's a whir of an arrow flying through the cloud. 3 arrows."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1111",
+        "endUid": "u1112"
+      },
+      "reading": "Cloudspinner pauses for about a minute while magically examining the crown or Riswynn.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit narrated pause during the examination."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1111",
+          "endUid": "u1112",
+          "quote": "DM: And she stops for a minute and closes her eyes, as if soul sighting the crown or Riswynn, or you get the sense that she's reaching out somehow, magically."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1243",
+        "endUid": "u1249"
+      },
+      "reading": "Valeris hesitates for a few minutes before answering Cloudspinner.",
+      "duration": {
+        "text": "a few",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narration explicitly measures his effort to avoid speaking."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1243",
+          "endUid": "u1249",
+          "quote": "And he blinks for a few minutes, like, really trying not to speak."
+        }
+      ],
+      "actors": [
+        "Valeris"
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "June 13–14, 1749 comes only from YAML; no date or usable civil clock is spoken in this transcript.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08"
+    ],
+    "explanation": "The played interval runs from the lit chamber through the pursuit, restoration, crown rededication, and return to the ship. About 100 minutes of flight and several short intervals are established, but no overnight or civil-date transition is narrated. The moon necklace’s two or three weeks and four or five sleeps describe the entire earlier Feywild trip (u1183–u1194), not additional elapsed time in this session. Feywild light supplies no civil clock; missing coverage does not contradict the YAML span."
+  }
+}

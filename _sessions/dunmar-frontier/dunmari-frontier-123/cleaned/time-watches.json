@@ -1,0 +1,32 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-time-markers.json",
+    "sha256": "78e05abaa886ff5f3863bb08a8fe63321cc820d72b75c3064b9427bbeb83c449"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-transcript.md",
+    "sha256": "6f8938494ad2622c5547268e3ced9af0627ad3e43157d97b35d542b72b3448d8"
+  },
+  "dateAssessment": "June 13–14, 1749 is YAML-only; the transcript establishes elapsed intervals but neither a usable civil clock nor a date transition, so no contradictory date is inferred.",
+  "watches": [
+    {
+      "day": "Feywild interval (civil date unanchored)",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Lead flight totals about 100 minutes; preparations and shared pauses add minutes, including Valeris’s later hesitation.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08"
+      ]
+    }
+  ]
+}

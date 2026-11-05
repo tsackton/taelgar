@@ -1,0 +1,971 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "729d67f07e7047304300396fa46268140cf1e27e5046db081d0ed3eec7aa9fd1",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "6f8938494ad2622c5547268e3ced9af0627ad3e43157d97b35d542b72b3448d8",
+        "transcriptProcessing.artifacts.cleaned": "3145a81f964131e9f6ab420ae19fc8ae548544f6e7b20e2aa828a0c676c98773"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "label": "Count Vashan",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0002",
+            "endUid": "u0020"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Count Vashan.md"
+    },
+    {
+      "id": "e002",
+      "label": "Cloudspinner",
+      "kind": "npc",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0002",
+            "endUid": "u0020"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0775",
+            "endUid": "u0809"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0977",
+            "endUid": "u1022"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1068",
+            "endUid": "u1095"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1103",
+            "endUid": "u1177"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1240",
+            "endUid": "u1266"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1267",
+            "endUid": "u1312"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md"
+    },
+    {
+      "id": "e003",
+      "label": "Harrow",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0002",
+            "endUid": "u0016"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Harrow.md",
+      "confidenceExplanation": "Separate named references follow the vault pages while preserving the transcript’s uncertainty about whether Harrow and Wend are two beings or aspects of one."
+    },
+    {
+      "id": "e004",
+      "label": "Wend",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0002",
+            "endUid": "u0016"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Wend.md",
+      "confidenceExplanation": "Separate named references follow the vault pages while preserving the transcript’s uncertainty about whether Harrow and Wend are two beings or aspects of one."
+    },
+    {
+      "id": "e005",
+      "label": "Gloom Shaper",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0021",
+            "endUid": "u0028"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Archfey/Lord Umbraeth.md",
+      "names": [
+        "Gloom Shaper"
+      ]
+    },
+    {
+      "id": "e006",
+      "label": "Dark entity above the beacon chamber",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0029",
+            "endUid": "u0030"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A specific unseen channeler is distinguished from the surrounding monsters, but its personal identity and degree of individuality remain unresolved."
+    },
+    {
+      "id": "e007",
+      "label": "Lady Eventide",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0060",
+            "endUid": "u0061"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0381",
+            "endUid": "u0384"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0988",
+            "endUid": "u1008"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Lady Eventide.md"
+    },
+    {
+      "id": "e008",
+      "label": "Valeris",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0062",
+            "endUid": "u0066"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0434",
+            "endUid": "u0435"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1240",
+            "endUid": "u1266"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1310",
+            "endUid": "u1312"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Valeris.md"
+    },
+    {
+      "id": "e009",
+      "label": "Wellby’s wyvern",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0312",
+            "endUid": "u0319"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0434",
+            "endUid": "u0435"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0578",
+            "endUid": "u0595"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e010",
+      "label": "Cloudspinner’s crystal prison",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0804",
+            "endUid": "u0809"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0862",
+            "endUid": "u0865"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "crystal prism",
+        "crystal prison"
+      ]
+    },
+    {
+      "id": "e011",
+      "label": "Apollyon",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1024",
+            "endUid": "u1037"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md"
+    },
+    {
+      "id": "e012",
+      "label": "Cha'mutte",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1031",
+            "endUid": "u1033"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "e013",
+      "label": "Wellby’s shimmering hat",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1079",
+            "endUid": "u1095"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1285",
+            "endUid": "u1288"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e014",
+      "label": "Riswynn’s crown",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1099",
+            "endUid": "u1102"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1103",
+            "endUid": "u1177"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Crown of Purity.md",
+      "names": [
+        "crown"
+      ]
+    },
+    {
+      "id": "e015",
+      "label": "People of the Rainbow",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1124",
+            "endUid": "u1139"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1158",
+            "endUid": "u1166"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1316",
+            "endUid": "u1320"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Orc Hordes/People of the Rainbow.md"
+    },
+    {
+      "id": "e016",
+      "label": "Thark",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1132",
+            "endUid": "u1139"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1158",
+            "endUid": "u1166"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Thark.md",
+      "names": [
+        "fearsome god"
+      ]
+    },
+    {
+      "id": "e017",
+      "label": "Kadmos",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1167",
+            "endUid": "u1177"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Kadmos.md"
+    },
+    {
+      "id": "e018",
+      "label": "Kadmos’s mentor",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1167",
+            "endUid": "u1177"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Fausto’s crown ownership makes him plausible, but the inspected notes do not explicitly establish that he is the mentor named here.",
+      "candidates": [
+        "People/Chardonians/Fausto.md"
+      ]
+    },
+    {
+      "id": "e019",
+      "label": "Vindristjarna",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1195",
+            "endUid": "u1207"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1214",
+            "endUid": "u1234"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1324",
+            "endUid": "u1328"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1343",
+            "endUid": "u1354"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Ships/Vindristjarna.md",
+      "names": [
+        "Star on the Wind",
+        "stormship of the giants"
+      ]
+    },
+    {
+      "id": "e020",
+      "label": "Faldrak",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1342",
+            "endUid": "u1342"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1350",
+            "endUid": "u1354"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Faldrak Bronzehammer.md"
+    },
+    {
+      "id": "e021",
+      "label": "Pava",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1346",
+            "endUid": "u1354"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Pava.md"
+    },
+    {
+      "id": "e022",
+      "label": "Avaras",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1346",
+            "endUid": "u1348"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Avaras.md"
+    },
+    {
+      "id": "e023",
+      "label": "Amil",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1350",
+            "endUid": "u1354"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Amil.md"
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Shadow beasts, grasping darkness, duskhounds and wargs",
+      "reason": "Generic hostile creatures and magical hazards; no individual identities or separate persistent organization are established in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0205",
+            "endUid": "u0211"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0220",
+            "endUid": "u0232"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0261",
+            "endUid": "u0263"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0732",
+            "endUid": "u0738"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0962",
+            "endUid": "u0970"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1313",
+            "endUid": "u1314"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Peacock-like griffins",
+      "reason": "Collective trained mounts without individually distinguished identities; intelligence and routine coordinated transport do not alone establish individual companions.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0062",
+            "endUid": "u0066"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0578",
+            "endUid": "u0580"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0764",
+            "endUid": "u0765"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Boots of speed, winged armor, seeking bow/arrow and slowing glove",
+      "reason": "Routine use or proposed use of existing PC equipment, without a separate acquisition, loss, or original item history.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0163",
+            "endUid": "u0163"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0213",
+            "endUid": "u0216"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0298",
+            "endUid": "u0308"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0381",
+            "endUid": "u0384"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Portable hole and soul-trapping mirror",
+      "reason": "Routine storage and release of the wyvern/prison; the mirror’s prisoners are mentioned without a new mirror property or acquisition.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0315",
+            "endUid": "u0319"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0804",
+            "endUid": "u0809"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1167",
+            "endUid": "u1177"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Longstrider rune",
+      "reason": "Ordinary activation of an existing PC rune and discussion of its standard duration; no new in-world item lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0438",
+            "endUid": "u0446"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0560",
+            "endUid": "u0567"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Delwath’s insect spirit",
+      "reason": "Routine summoned spirit, without an independently established ongoing companion identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0928",
+            "endUid": "u0941"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0959",
+            "endUid": "u0961"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Moon necklace",
+      "reason": "Routine time-checking item; its reading concerns the whole Feywild journey and establishes no new item history.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1188",
+            "endUid": "u1194"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Rainbow Bridge prism",
+      "reason": "Routine portal activation to return to the ship, without a separate item acquisition or newly established lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1297",
+            "endUid": "u1299"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1324",
+            "endUid": "u1328"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ancient visiting storm ship",
+      "reason": "An unnamed historical vessel recalled briefly; the source supplies no distinct object identity and explicitly doubts it was Vindristjarna.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1220",
+            "endUid": "u1234"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Prismwell and portals",
+      "reason": "Places and passages rather than inventory entities; the played and viewed Prismwell is represented in location markers.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0047",
+            "endUid": "u0059"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1272",
+            "endUid": "u1283"
+          }
+        }
+      ]
+    }
+  ]
+}
