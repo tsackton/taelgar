@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-time-markers.json",
+    "sha256": "266e44363c559376b459123f0eeac698a17e39c6a490a71b3678b6765c45a82f"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-transcript.md",
+    "sha256": "2daf90011b2b1a190aff19e77d9683635e4ebc10d8d33d7026a25a08aa346072"
+  },
+  "dateAssessment": "Working dates use the session YAML’s July 1–2, 1748 span. July 2 morning is spoken at t10; the opening date and year remain YAML-derived. The time extraction matches one overnight boundary. Dusk estimates carry the continuous archives scene from sunset; short nested intervals and Wellby’s parallel scouting are not added as consecutive hours. The long rest uses the eight-hour convention and the stated morning endpoint; the proposed 4–5 a.m. return is not a confirmed bedtime. The fort ride’s two-hour forecast is not completed, and the later excavation/walk have no sufficiently fixed civil watch.",
+  "watches": [
+    {
+      "day": "July 1, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sunset is half an hour away at entry; 15–20 minutes of conversation reach sunset.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01"
+    },
+    {
+      "day": "July 1, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "One-minute spell expiry; a few minutes preparing; about five minutes of ritual and one minute recovering.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06",
+        "t18"
+      ],
+      "scope": "Archives ritual",
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01"
+    },
+    {
+      "day": "July 1, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Howls fade after another 10–15 minutes listening and a few more minutes of conversation.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "scope": "Wellby and the archives group",
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01"
+    },
+    {
+      "day": "July 1, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "Kenzo arrives at the monastery just before midnight.",
+      "markers": [
+        "t09"
+      ],
+      "scope": "Kenzo",
+      "startDate": "1748-07-01",
+      "endDate": "1748-07-01"
+    },
+    {
+      "day": "Overnight into July 2, 1748",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Eight-hour rest convention reaches July 2 morning; individual bedtimes are not stated.",
+      "markers": [
+        "t10"
+      ],
+      "scope": "All four, in separate lodgings"
+    },
+    {
+      "day": "July 2, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "After-breakfast reunion; the veterans’ stories end with about a minute of silence.",
+      "markers": [
+        "t11",
+        "t12"
+      ],
+      "startDate": "1748-07-02",
+      "endDate": "1748-07-02"
+    },
+    {
+      "day": "July 2, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Illyan finishes breakfast; one or two quiet minutes, then a one-minute absence before returning with Drusa.",
+      "markers": [
+        "t13",
+        "t14"
+      ],
+      "scope": "Seeker’s remote observation",
+      "startDate": "1748-07-02",
+      "endDate": "1748-07-02"
+    },
+    {
+      "day": "July 2, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "The party rides north just after lunch.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1748-07-02",
+      "endDate": "1748-07-02"
+    },
+    {
+      "day": "July 2, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Two-minute excavation and 20-minute tunnel walk follow the diverted ride; the precise watch remains open.",
+      "markers": [
+        "t16",
+        "t17"
+      ],
+      "startDate": "1748-07-02",
+      "endDate": "1748-07-02"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Iron Swan proprietor",
+      "path": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Iron Swan.md",
+      "sha256": "1da7beaf1d7f65a1d79ce3082d460645a4edf74ec35809ad6d26df722a2fc496"
+    },
+    {
+      "label": "Vistra identity",
+      "path": "People/Dwarves/Vistra Fireforge.md",
+      "sha256": "72cba3d548ed67dd563d3e65122b41cfdc087a6ff02f0c7ad15942fb1b60c951"
+    },
+    {
+      "label": "Kassi’s established post",
+      "path": "People/Dunmari/Kassi.md",
+      "sha256": "279eaf8a52bc0a512ca98be2b17562432e1f5802099f4e4bc255a18cbd5c59c4"
+    }
+  ]
+}

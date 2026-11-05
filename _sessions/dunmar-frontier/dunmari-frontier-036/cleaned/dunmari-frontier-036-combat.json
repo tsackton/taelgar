@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-036",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-session.yaml",
+    "sessionYamlSha256": "41b67c1f0241de53daaeb31226afef46771beaaeae7a39235a91739a176d8649",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-transcript.md",
+    "transcriptSha256": "2daf90011b2b1a190aff19e77d9683635e4ebc10d8d33d7026a25a08aa346072",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-segments.json",
+      "sha256": "da14ac373242ea8d34e4dcbf738fb9732036dff3de43f33386dc4783dca54a76",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Escaped wolf in the archives basement",
+      "note": "The repeated order is Kenzo, Wellby, shadow beast/Delwath, wolf, Seeker. The final subdual is accepted in compressed narration; no unspoken later turns are supplied. Dag’s identity is established after the encounter.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Reconsiders leaving after Delig’s warning, advances to see the wolf and uses Soul Sight (CR 3, Strength highest and Charisma lowest). Its retrospectively resolved Soul Sight save succeeds, dealing no psychic damage. Fires the acid-arrow wand for 12 acid damage.",
+              "evidence": [
+                {
+                  "startUid": "u0879",
+                  "endUid": "u0932"
+                },
+                {
+                  "startUid": "u0933",
+                  "endUid": "u0966"
+                },
+                {
+                  "startUid": "u1127",
+                  "endUid": "u1132"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots the wolf. The arrow hits even after the d4 penalty, producing a glancing wound; no final numeric damage is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0982",
+                  "endUid": "u1000"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow beast",
+              "kind": "turn",
+              "summary": "Flies in and makes Chilling Rend with advantage from being small and hidden in shadow, but misses and reveals itself. Retreats into the dim hallway to hide; the brightly lit workshop and low ceiling prevent the proposed ceiling concealment.",
+              "evidence": [
+                {
+                  "startUid": "u1002",
+                  "endUid": "u1026"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves into position and readies a nonlethal melee attack if the wolf comes within weapon reach.",
+              "evidence": [
+                {
+                  "startUid": "u1027",
+                  "endUid": "u1032"
+                }
+              ]
+            },
+            {
+              "actor": "Wolf (Dag)",
+              "kind": "turn",
+              "summary": "Takes another 4 acid damage at the start of its turn, runs from the workshop into the hallway, swipes at Wellby (10 to hit, no hit resolved) and bites at Kenzo (6 to hit, misses). Its movement triggers Delwath’s readied attack before the attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1032",
+                  "endUid": "u1035"
+                },
+                {
+                  "startUid": "u1044",
+                  "endUid": "u1059"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Takes the readied attack as the wolf enters reach. His comment suggests a poor roll, but the transcript supplies no explicit hit/miss or damage result.",
+              "evidence": [
+                {
+                  "startUid": "u1034",
+                  "endUid": "u1037"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Moves half his movement after the wolf’s turn ends; the DM corrects his attempt to take this reaction before the wolf finishes attacking.",
+              "evidence": [
+                {
+                  "startUid": "u1038",
+                  "endUid": "u1043"
+                },
+                {
+                  "startUid": "u1059",
+                  "endUid": "u1063"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Runs down the hall, glimpsing the distressed dwarven woman and her companion in the kitchen. Casts Quicksand, turning the floor to sticky mud; a Strength save is called for and the wolf sinks into the mud. Gives Bardic Inspiration to Wellby. The mud lasts one minute and later returns to stone.",
+              "evidence": [
+                {
+                  "startUid": "u1064",
+                  "endUid": "u1093"
+                },
+                {
+                  "startUid": "u1388",
+                  "endUid": "u1394"
+                }
+              ],
+              "note": "The Strength save’s numerical result is not spoken; the resolved sinking and later restrained description are retained."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits the wolf three times with unarmed/Aura strikes. It fails its Constitution save against Stunning Strike and becomes stunned until the start of Kenzo’s next turn; subsequent attacks have advantage. The last 18 hits. It is restrained, bloodied and whimpering; damage totals are not spoken. The optional extra Soul Sight damage is rejected as already resolved on the first turn.",
+              "evidence": [
+                {
+                  "startUid": "u1097",
+                  "endUid": "u1144"
+                },
+                {
+                  "startUid": "u1160",
+                  "endUid": "u1165"
+                }
+              ]
+            },
+            {
+              "actor": "Fallthra",
+              "kind": "event",
+              "summary": "Calls from the living area, “Don’t hurt him” and “Don’t hurt my baby,” causing the party to recognize that this wolf is not Govir.",
+              "evidence": [
+                {
+                  "startUid": "u1145",
+                  "endUid": "u1154"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves back to the stairs to prevent anyone from leaving the basement.",
+              "evidence": [
+                {
+                  "startUid": "u1155",
+                  "endUid": "u1167"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Knocks the stunned wolf unconscious, with the DM allowing easy nonlethal subdual and stating an expected 1d4 hours unconscious. Lifts the back-door bar, lets the shadow beast out to scout and patrol the building, then closes the door. The narration confirms the wolf’s unconscious body hits the hallway floor during this.",
+              "evidence": [
+                {
+                  "startUid": "u1169",
+                  "endUid": "u1194"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The wolf is subdued alive and lies unconscious in the basement hallway. The cure occurs later, outside ordered combat.",
+        "evidence": [
+          {
+            "startUid": "u1160",
+            "endUid": "u1173"
+          },
+          {
+            "startUid": "u1185",
+            "endUid": "u1194"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1677 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-036",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-session.yaml",
+    "sessionYamlSha256": "41b67c1f0241de53daaeb31226afef46771beaaeae7a39235a91739a176d8649",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-transcript.md",
+    "transcriptSha256": "2daf90011b2b1a190aff19e77d9683635e4ebc10d8d33d7026a25a08aa346072"
+  },
+  "places": {
+    "p01": {
+      "label": "Tokra",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "Okay. So as the sun sets you find yourself walking across Jita Square, the largest and most central plaza in Tokra."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    },
+    "p02": {
+      "label": "Jita Square",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "Okay. So as the sun sets you find yourself walking across Jita Square, the largest and most central plaza in Tokra."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0006",
+              "quote": "Okay. So as the sun sets you find yourself walking across Jita Square, the largest and most central plaza in Tokra."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Archives",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0026",
+          "quote": "So you approach the archives. They're quiet, empty, but guarded. The guards allow you to pass, recognizing you from earlier and knowing that Ardan will be—but the chief archivist of somewhat dubious skill will be eager to see you back and perhaps speak with you, if you have more questions for him."
+        },
+        {
+          "startUid": "u0298",
+          "endUid": "u0305",
+          "quote": "You know there's there's like a mix of forges and shops and you know the one tavern that Mr. Fireforge runs. There are—but there's nothing—so the Iron Swan is the dwarven tavern, ah. But it's like so there's the Plaza and there's three buildings on the Plaza there's the temple on the West side the archives on the east side and like an old Palace on the South side. And then further east from the archives is like the dwarven, the sort of dwarven quarter of the city."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0298",
+              "endUid": "u0305",
+              "quote": "You know there's there's like a mix of forges and shops and you know the one tavern that Mr. Fireforge runs. There are—but there's nothing—so the Iron Swan is the dwarven tavern, ah. But it's like so there's the Plaza and there's three buildings on the Plaza there's the temple on the West side the archives on the east side and like an old Palace on the South side. And then further east from the archives is like the dwarven, the sort of dwarven quarter of the city."
+            },
+            {
+              "startUid": "u0306",
+              "endUid": "u0312",
+              "quote": "How close is the archives to either the city wall or a gate? Like, how much of the city would you have to cross to get from the archives to—\n\nDM: Maybe a third of it. Less than a third or a quarter, I mean you're pretty close to the main East gate and you're actually not far from the from the north gate either or.\n\nDelwath: So is that, like 500 feet like presumably the city's not that big of it?\n\nDM: Yeah certainly you know, certainly under 1000 feet."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Main open stacks",
+      "kind": "library floor",
+      "evidence": [
+        {
+          "startUid": "u0160",
+          "endUid": "u0162",
+          "quote": "Um, so this, the like main floor of the archives is a big open building with stacks, with like carrels where scholars can work. This is like where the main—there's an antechamber, and then it sort of opens into this main area where where people work, and you know, there was the the most of the area of the library is taken over by the by the religious records and the military records are relatively small part of the archive and that's where these scribes were apparently working late. That's where they were killed."
+        },
+        {
+          "startUid": "u0497",
+          "endUid": "u0499",
+          "quote": "Where are we right now? You're in the archive.\n\nDM: Archives main open stacks."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0160",
+              "endUid": "u0162",
+              "quote": "Um, so this, the like main floor of the archives is a big open building with stacks, with like carrels where scholars can work. This is like where the main—there's an antechamber, and then it sort of opens into this main area where where people work, and you know, there was the the most of the area of the library is taken over by the by the religious records and the military records are relatively small part of the archive and that's where these scribes were apparently working late. That's where they were killed."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Basement corridors",
+      "kind": "basement",
+      "evidence": [
+        {
+          "startUid": "u0571",
+          "endUid": "u0581",
+          "quote": "So the two of you head down the stairs and, and you come—so the stairs descend to a a corridor, a torchlit corridor that leads that leads like, like, turn a corner, and that leads straight ahead. It goes maybe 15 feet before there's a door on the right and the left, and then another 10 or 15 feet beyond that it opens up into a, into a like a four-way intersection with a wider corridor.\n\nDM: This is all sort of carved stone lit with torches you can hear uh—let's see. Yeah, Wellby, you've got quite a high passive Perception. You can, you can hear muffled noises. Sounds, sounds like it sounds like, like kids being shuffled to bed. It's like that go, go, go, quick, like go type muffled noises, um, coming from the left, and then somewhere straight ahead you hear a muffled howl, yelp, and then thump and the sound of metal clanging on stone."
+        },
+        {
+          "startUid": "u0642",
+          "endUid": "u0648",
+          "quote": "No, it was—well, it was—you are standing facing like if the—um, um, let's see, west—basically you're facing south. The main entrance to the archives is to the west. The exterior door, the basement door, is to the east. The stairs are on the north wall of the archives, and you came into a corridor looking. Corridor looking south which is maybe 120 feet long, lit with torches flickering, and you heard the howl and the yelp and the noises maybe from the, from the south-southeast, basically down the corridor, down the corridor and a little bit to the, to the left.\n\nDM: The shadow beast scouted to the end of the corridor and just saw three doors. On the last corridor on the right, okay."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0642",
+              "endUid": "u0648",
+              "quote": "No, it was—well, it was—you are standing facing like if the—um, um, let's see, west—basically you're facing south. The main entrance to the archives is to the west. The exterior door, the basement door, is to the east. The stairs are on the north wall of the archives, and you came into a corridor looking. Corridor looking south which is maybe 120 feet long, lit with torches flickering, and you heard the howl and the yelp and the noises maybe from the, from the south-southeast, basically down the corridor, down the corridor and a little bit to the, to the left.\n\nDM: The shadow beast scouted to the end of the corridor and just saw three doors. On the last corridor on the right, okay."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Dwarven workshop",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u0629",
+          "endUid": "u0634",
+          "quote": "Okay um it doesn't see anything. It doesn't last as—yeah, yeah, okay. So, so it passes through this wide corridor towards the back door. The back door is not disturbed, it's still barred. There's like the path, the entrance to the like the workshop area where the dwarves have like a bunch of mechanical contraptions, like clocks. There seems to be a lot of clocks.\n\nDM: But there's also some you know a few books and things and."
+        },
+        {
+          "startUid": "u0668",
+          "endUid": "u0692",
+          "quote": "There was a door. There's the, an open entrance to the workshop, um to the right, south, or left, on the right, but to the south—\n\nDM: It'd be the right if you're heading down the corridor. So you turn left and then on your right, which would be—\n\nDelwath: Right right right.\n\nDM: Then there's another door on the on the north wall.\n\nDelwath: Which, and where was the muffled noise, like putting kids to bed?\n\nDM: That was on the that's like the north that like north east corner corner—\n\nDelwath: Of the building, yeah, so there’s like, there’s like a section between where we are. Is this the right visualization? There’s like—here, can I draw?\n\nWellby: Can you just drop them is that—\n\nKenzo: Just put them on the map to wherever they are that'd be great drop.\n\nDM: A blank Roll20 map, you can draw.\n\nUnknown: Great.\n\nDelwath: But like we came in here there's a four way intersection here, we went That way, there was doors here—\n\nDM: Yeah.\n\nDelwath: We went that way, this is the outside door. Yeah, and in this section is where both the muffled noise and the werewolf noise—\n\nDM: No, the werewolf noise is coming from like somewhere like here or here.\n\nDelwath: Okay, but what what is?\n\nDM: What is that? The workshop.\n\nDelwath: Workshop OK OK so there's a workshop door here so there's a corner.\n\nDM: Okay, no door just opening."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0182",
+              "endUid": "u0186",
+              "quote": "So that’s like basically where the, where this, like the half of it is sort of given over to storage, books that are not being active, you know, the like off-site storage basically. And there's, and there's like a cellar with like wine and barrels of water and a cistern and a well and things like that, but the other half of it is the sort of dwarven quarters. There's a workshop, there's like their living space, their storerooms, and then there's a back door that leads out in like sort of into a back alley that the dwarves use to, you know, come and go, and bring things into their area without having to come up to the library."
+            },
+            {
+              "startUid": "u0629",
+              "endUid": "u0634",
+              "quote": "Okay um it doesn't see anything. It doesn't last as—yeah, yeah, okay. So, so it passes through this wide corridor towards the back door. The back door is not disturbed, it's still barred. There's like the path, the entrance to the like the workshop area where the dwarves have like a bunch of mechanical contraptions, like clocks. There seems to be a lot of clocks.\n\nDM: But there's also some you know a few books and things and."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Dwarven kitchen and living quarters",
+      "kind": "living quarters",
+      "evidence": [
+        {
+          "startUid": "u1065",
+          "endUid": "u1074",
+          "quote": "Okay. It's like a corridor that opens up into like a kitchen area. Okay, and there's sort of in the back of the kitchen there's a dwarven woman in like, you know, you know,, a nightshirt, like bed, you know, pajamas kind of, um, sitting at the table like with her head in her hands kind of crying and ah another older male dwarf. Ah, ah, this one, this one maybe more middle-aged, not, not that old, maybe 150 or so, fit, with shaggy black hair and a long braided beard, who's like sitting and like comforting her, sort of patting her on the back."
+        },
+        {
+          "startUid": "u1654",
+          "endUid": "u1656",
+          "quote": "So. What do you want to do? The dwarves are kind of gathering to like sleep at this point, like Fallthra has taken Dag into the like living quarters and is trying to get him settled in a bed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0182",
+              "endUid": "u0186",
+              "quote": "So that’s like basically where the, where this, like the half of it is sort of given over to storage, books that are not being active, you know, the like off-site storage basically. And there's, and there's like a cellar with like wine and barrels of water and a cistern and a well and things like that, but the other half of it is the sort of dwarven quarters. There's a workshop, there's like their living space, their storerooms, and then there's a back door that leads out in like sort of into a back alley that the dwarves use to, you know, come and go, and bring things into their area without having to come up to the library."
+            },
+            {
+              "startUid": "u1065",
+              "endUid": "u1074",
+              "quote": "Okay. It's like a corridor that opens up into like a kitchen area. Okay, and there's sort of in the back of the kitchen there's a dwarven woman in like, you know, you know,, a nightshirt, like bed, you know, pajamas kind of, um, sitting at the table like with her head in her hands kind of crying and ah another older male dwarf. Ah, ah, this one, this one maybe more middle-aged, not, not that old, maybe 150 or so, fit, with shaggy black hair and a long braided beard, who's like sitting and like comforting her, sort of patting her on the back."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Well / cistern hallway",
+      "kind": "hallway",
+      "evidence": [
+        {
+          "startUid": "u1381",
+          "endUid": "u1383",
+          "quote": "We can yeah I can get some water. There's a well just down the end of the hallway connects to an underground cistern supplies the archives and the palace and the temple."
+        },
+        {
+          "startUid": "u1416",
+          "endUid": "u1424",
+          "quote": "Altar, so yeah, that, the space here is like a sort of like an open wide hallway maybe 20 feet wide. To the—this is like the library portion so there's a series of like store rooms, to the right and the left that you know that store both food and barrels of beer or barrels of wine and things like that, and also like the books stored as well, or scrolls stored. So where there's like disorganized—you can see kind of, when you're down here, the state of the organization of the library. There's just like disorganized piles of of papers in no particular order, right? No, nothing sort of marked or labeled or anything, just papers kind of stuffed in shelves.\n\nSeeker: It's not great.\n\nDM: And but there's, you know, there's material as well, like the dwarves are responsible for upkeep of the, of the building, which is, right, you know, hundreds of years old and, and stone, and so there's certainly material to, to, you know, that they would use for masonry repairs that you could repurpose."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1381",
+              "endUid": "u1383",
+              "quote": "We can yeah I can get some water. There's a well just down the end of the hallway connects to an underground cistern supplies the archives and the palace and the temple."
+            },
+            {
+              "startUid": "u1416",
+              "endUid": "u1424",
+              "quote": "Altar, so yeah, that, the space here is like a sort of like an open wide hallway maybe 20 feet wide. To the—this is like the library portion so there's a series of like store rooms, to the right and the left that you know that store both food and barrels of beer or barrels of wine and things like that, and also like the books stored as well, or scrolls stored. So where there's like disorganized—you can see kind of, when you're down here, the state of the organization of the library. There's just like disorganized piles of of papers in no particular order, right? No, nothing sort of marked or labeled or anything, just papers kind of stuffed in shelves.\n\nSeeker: It's not great.\n\nDM: And but there's, you know, there's material as well, like the dwarves are responsible for upkeep of the, of the building, which is, right, you know, hundreds of years old and, and stone, and so there's certainly material to, to, you know, that they would use for masonry repairs that you could repurpose."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Archives roof",
+      "kind": "roof",
+      "evidence": [
+        {
+          "startUid": "u0433",
+          "endUid": "u0435",
+          "quote": "What about the roof, the roof of the archives, then?\n\nDM: The archive archive roof is easily accessible. You might have to climb the last 10 feet up from the window on the top floor."
+        },
+        {
+          "startUid": "u1573",
+          "endUid": "u1580",
+          "quote": "While this has been happening down below, Wellby, you've been you know scouting from the roof. Now you don't have dark vision, but it is a full moon and honestly you're probably relying on hearing, more than anything else, at this point, um, trying to just listen for anything suspicious any sounds any noises. And you do hear, carrying faintly in the still air—maybe it could be coyotes, but you're skeptical. A series of howls from far to the north."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0433",
+              "endUid": "u0435",
+              "quote": "What about the roof, the roof of the archives, then?\n\nDM: The archive archive roof is easily accessible. You might have to climb the last 10 feet up from the window on the top floor."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Lakan monastery",
+      "kind": "monastery",
+      "evidence": [
+        {
+          "startUid": "u1323",
+          "endUid": "u1323",
+          "quote": "It's about four miles, so at a, at a quick march, an hour."
+        },
+        {
+          "startUid": "u1830",
+          "endUid": "u1836",
+          "quote": "Ah yes. Yes, it's actually a pretty quiet night, especially once you get south of the city. You arrive back to the monastery maybe and just before midnight. The monastery is still and calm.\n\nKenzo: Good.\n\nDM: Nothing seems to have disturbed the night's sleep here."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "relations": [
+        {
+          "relation": "south_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1830",
+              "endUid": "u1834",
+              "quote": "Ah yes. Yes, it's actually a pretty quiet night, especially once you get south of the city. You arrive back to the monastery maybe and just before midnight. The monastery is still and calm."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Kirian's",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u1564",
+          "endUid": "u1565",
+          "quote": "We are staying at Kirian's. You can reach us there when he is recovered."
+        },
+        {
+          "startUid": "u1861",
+          "endUid": "u1865",
+          "quote": "And you wake up the morning of July 2 now, um, Seeker, Wellby and Delwath in Kirian's, in your rooms at Kirian's, Kenzo in the monastery."
+        },
+        {
+          "startUid": "u2243",
+          "endUid": "u2248",
+          "quote": "So when you, when you approach, you come back to the city, and as you approach Kirian's, there are six soldiers kind of loitering outside of the inn. And as they see you approach, one of them, ah, kind of looks up and sort of nudges another one and they they approach you and you know, one of them sort of captain like bows and says, “I'm glad we caught you. Kirian said you'd be back soon.”"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2243",
+              "endUid": "u2248",
+              "quote": "So when you, when you approach, you come back to the city, and as you approach Kirian's, there are six soldiers kind of loitering outside of the inn. And as they see you approach, one of them, ah, kind of looks up and sort of nudges another one and they they approach you and you know, one of them sort of captain like bows and says, “I'm glad we caught you. Kirian said you'd be back soon.”"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Rooms at Kirian's",
+      "kind": "lodging rooms",
+      "evidence": [
+        {
+          "startUid": "u1861",
+          "endUid": "u1865",
+          "quote": "And you wake up the morning of July 2 now, um, Seeker, Wellby and Delwath in Kirian's, in your rooms at Kirian's, Kenzo in the monastery."
+        },
+        {
+          "startUid": "u2356",
+          "endUid": "u2367",
+          "quote": "Kenzo goes over to the, to, goes over to the troops. Look, we'll come with you. Just give us a few minutes to settle, settle, settle some affairs we have to handle for now, but we'll come with you in 10 minutes, okay? We're just going to be upstairs in our rooms right now. All right.\n\nKenzo: When I go—\n\nDM: Out you—\n\nKenzo: [garbled] what's what's your name?\n\nDM: I've run out of names on my list of names oh wait, I have one more. He is Amay.\n\nKenzo: Amay, we'll be back in a moment. You have my word, okay? We'll, we'll be back in just a few moments. We're just headed back up to our rooms. We'll come, we'll come back down shortly.\n\nSeeker: All right, okay I—\n\nDM: Will be here.\n\nSeeker: I will cast—so we are less than a mile from the camp so I'll cast clairvoyance."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1861",
+              "endUid": "u1865",
+              "quote": "And you wake up the morning of July 2 now, um, Seeker, Wellby and Delwath in Kirian's, in your rooms at Kirian's, Kenzo in the monastery."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Caravanserai on the west side of Tokra",
+      "kind": "caravanserai",
+      "evidence": [
+        {
+          "startUid": "u1894",
+          "endUid": "u1894",
+          "quote": "So it's on the West side of town just outside the walls—"
+        },
+        {
+          "startUid": "u1920",
+          "endUid": "u1929",
+          "quote": "Actually, I can throw this on Roll20 and you meet now on the west side of Tokra, um at the outskirts of the, of the caravanserai, um, this is a big like open area that serves that handles a lot of merchant traffic and also serves as a as a marketplace for like out of towners and travelers and anybody who doesn't want to like pay the fees and the tolls to, to sell in the market square in town. It’s like a big courtyard with like rooms and shops, stables, and then like tables and gathering places inside, um.\n\nDM: It's run by Darshana, a middle-aged Dunmari woman.\n\nDM: And she sees you all approach recognizes you immediately from you know rumors are now racing around town of you arriving the day before. She says, “Looks like we've got some heroes for breakfast. Come, come. I'm sure the crowd would love a tale.”"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Darshana's Caravanserai.md",
+      "relations": [
+        {
+          "relation": "west_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1894",
+              "endUid": "u1894",
+              "quote": "So it's on the West side of town just outside the walls—"
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1920",
+              "endUid": "u1924",
+              "quote": "Actually, I can throw this on Roll20 and you meet now on the west side of Tokra, um at the outskirts of the, of the caravanserai, um, this is a big like open area that serves that handles a lot of merchant traffic and also serves as a as a marketplace for like out of towners and travelers and anybody who doesn't want to like pay the fees and the tolls to, to sell in the market square in town. It’s like a big courtyard with like rooms and shops, stables, and then like tables and gathering places inside, um."
+            }
+          ]
+        }
+      ],
+      "note": "Outside the city walls; not a contained room or district of the walled city."
+    },
+    "p14": {
+      "label": "Army camp outside the north gates",
+      "kind": "military camp",
+      "evidence": [
+        {
+          "startUid": "u2339",
+          "endUid": "u2342",
+          "quote": "Me like half a mile, like the camp is right outside the north gates of the—\n\nUnknown: City.\n\nDM: Half a mile."
+        },
+        {
+          "startUid": "u2551",
+          "endUid": "u2553",
+          "quote": "Um they they lead you out of the city and, um, to the army camp. It's probably five to eight hundred soldiers camped in rows. Takes you to a tent which you recognize from Seeker's—well, Seeker recognizes."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "north_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2339",
+              "endUid": "u2342",
+              "quote": "Me like half a mile, like the camp is right outside the north gates of the—\n\nUnknown: City.\n\nDM: Half a mile."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Outside Illyan’s tent",
+      "kind": "tent approach",
+      "evidence": [
+        {
+          "startUid": "u2556",
+          "endUid": "u2561",
+          "quote": "Um, standing outside the tent um is a sort of young like valet, and this Chardonian woman, and the valet sort of stops you about 20 feet away from, from the tent and motions the Chardonian over, and she like says, “Yeah, they're carrying a lot of magic,” and he says—\n\nDM: I am, I am sorry. He's like sort of stammering and a bit awestruck by you, the valet, and he says, I am, I am sorry to ask this, but there was just an attempt to spy on us, I am told, by magic, and Illyan has declared that no magic can be brought into his presence until we better understand what has happened.\n\nDM: So I am I'm sorry but I must ask you to leave your whatever magic items, you are carrying behind. I promise, they will be safe—"
+        },
+        {
+          "startUid": "u2648",
+          "endUid": "u2655",
+          "quote": "Like you're like you're stopped like about 30 feet from the entrance to the tent is where the—and as he puts some stuff down you know, Drusa walks with you, yeah, perfect, and as soon as she gets to the entrance of the tent, she nods to the valet, like he’s clear, like once she’s about 35 feet away from the pile of stuff and the rest of you.\n\nDM: And motions you forward and it's on you. You talk to them."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u2551",
+              "endUid": "u2558",
+              "quote": "Um they they lead you out of the city and, um, to the army camp. It's probably five to eight hundred soldiers camped in rows. Takes you to a tent which you recognize from Seeker's—well, Seeker recognizes.\n\nSeeker: So are we going to deny the Clairvoyance or not?\n\nKenzo: No well we'll say.\n\nDM: Um, standing outside the tent um is a sort of young like valet, and this Chardonian woman, and the valet sort of stops you about 20 feet away from, from the tent and motions the Chardonian over, and she like says, “Yeah, they're carrying a lot of magic,” and he says—"
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u2556",
+              "endUid": "u2561",
+              "quote": "Um, standing outside the tent um is a sort of young like valet, and this Chardonian woman, and the valet sort of stops you about 20 feet away from, from the tent and motions the Chardonian over, and she like says, “Yeah, they're carrying a lot of magic,” and he says—\n\nDM: I am, I am sorry. He's like sort of stammering and a bit awestruck by you, the valet, and he says, I am, I am sorry to ask this, but there was just an attempt to spy on us, I am told, by magic, and Illyan has declared that no magic can be brought into his presence until we better understand what has happened.\n\nDM: So I am I'm sorry but I must ask you to leave your whatever magic items, you are carrying behind. I promise, they will be safe—"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Illyan’s tent",
+      "kind": "tent",
+      "evidence": [
+        {
+          "startUid": "u2371",
+          "endUid": "u2403",
+          "quote": "It's just a glowing ball or whatever, um, yeah, it's true. It's interesting, if the friends are there, they'll know. Maybe anyway they probably aren't Chardonians, um, I'm going to place it in the commander's tent. With—start with vision.\n\nDM: Okay ah, can you—where does the actual target—can you like, I mean, you have not seen the commander's tent, right?\n\nSeeker: So in the—\n\nDM: Obvious. I would say that's a little bit—just saying like the commander's tent is not an obvious location, because how do you know which is the commander's.\n\nUnknown: Tent, and that’s just a.\n\nDM: You could say, like in the middle of the army camp, or in the biggest tent in the army camp or.\n\nKenzo: The fanciest tent.\n\nSeeker: Right like have we seen a?\n\nKenzo: Most lavish. In the most lavish tent.\n\nSeeker: Have we seen a Dunmari army encampment?\n\nDM: You know, I could probably just—make a, make an Intelligence check with advantage. Just straight intelligence with advantage.\n\nSeeker: Oh God.\n\nKenzo: Lucky bitch.\n\nDM: Yeah I mean you're guessing here. But I mean you can let's roll let's roll a D 20. If it's above a ten, you get it in the, in the tent.\n\nKenzo: Yes—\n\nSeeker: Nice did not accidentally clairvoyance the latrine. Okay.\n\nDM: Okay, so um so you're just you're just listening right now?\n\nSeeker: I put, I’ll say vision first, and then I’ll switch to listening, yes.\n\nDM: Okay, so this is, yeah, the tent of a Dunmari commander. There's like papers spread around. There's, um, it's still relatively early in the morning, and he seems to be just finishing up a meal."
+        },
+        {
+          "startUid": "u2657",
+          "endUid": "u2666",
+          "quote": "Okay, so you you walk into the tent and and Illyan is sort of pacing back and forth.\n\nDM: I mean he's like you know clearly a, you know, a somewhat experienced soldier. Not obvious that he's seen a lot of combat. He's not as old as—he's not like in his 60s. He's probably in his late 30s, early 40s, um, but he's well built, wearing armor.\n\nDM: You can see that the he's not wearing any jewelry. There's no rings on his fingers um.\n\nDM: And ah, is he has a sword like like out, and he’s sort of like pacing with a sword slung over his shoulder like this, um.\n\nDM: Turns as you enter. Where are the rest of them?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u2382",
+              "endUid": "u2397",
+              "quote": "You could say, like in the middle of the army camp, or in the biggest tent in the army camp or.\n\nKenzo: The fanciest tent.\n\nSeeker: Right like have we seen a?\n\nKenzo: Most lavish. In the most lavish tent.\n\nSeeker: Have we seen a Dunmari army encampment?\n\nDM: You know, I could probably just—make a, make an Intelligence check with advantage. Just straight intelligence with advantage.\n\nSeeker: Oh God.\n\nKenzo: Lucky bitch.\n\nDM: Yeah I mean you're guessing here. But I mean you can let's roll let's roll a D 20. If it's above a ten, you get it in the, in the tent."
+            },
+            {
+              "startUid": "u2551",
+              "endUid": "u2553",
+              "quote": "Um they they lead you out of the city and, um, to the army camp. It's probably five to eight hundred soldiers camped in rows. Takes you to a tent which you recognize from Seeker's—well, Seeker recognizes."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Ruined fort marked with a red X",
+      "kind": "ruins",
+      "evidence": [
+        {
+          "startUid": "u2013",
+          "endUid": "u2024",
+          "quote": "I don't think this was what he was looking for, but he, he thought it was this. There is a spot about 10 miles north of the city. I think there was an old fort there once, but now all that remains is like maybe one tower.\n\nDM: But if you walk through if you spend too long in that area people say you'll have nightmares for weeks, horrible nightmares. Dreams of killing your family and enjoying it. Your kids turning into monsters that attack you only to turn back into your kids once you've killed them. So no nobody goes there.\n\nDM: But he was excited. He thought this was, this was the place that his map—the place where the Fraternity of the Empty Moon was driven off. Wanting to go search thought, maybe he could find what it was—what—how the gods protected our ancestors what allowed them to avoid these nightmares."
+        },
+        {
+          "startUid": "u2089",
+          "endUid": "u2121",
+          "quote": "This was 50 years ago now. I was young, brash, invincible warrior before the gnolls emerged across the border to the east, before the summer of red storms.\n\nDM: Nothing else to keep us entertained. All I remember is a fort, well, two towers and a deep gash in the earth like a sinkhole pit that seemed to drop away to infinity and that scared me and I ran.\n\nKenzo: Understandable.\n\nDelwath: Wise.\n\nDM: It almost seemed like the towers were—fort was not built to look outward. It was looking inward.\n\nUnknown: Gosh.\n\nDM: I would not go back. Every night for weeks, I dreamed. I don't remember most of them. But every night I woke up in a sweat. The one I do remember—well, everyone in my unit turned—\n\nUnknown: To—\n\nDM: Some sort of mad tentacle thing and I fought them and as each one died, their faces reappeared. My friends. And yet I kept stabbing them and stabbing them and stabbing them.\n\nDM: No, I would not go back there again. It was a stupid dare."
+        }
+      ],
+      "note": "Reported fort and nightmare site north of Tokra. The party approaches but diverts before reaching it. Distinct from the tunnel and urban lair; the map points to a separate northern fort, not a verified place-note target."
+    },
+    "p18": {
+      "label": "Lightly used trail north of the city",
+      "kind": "trail",
+      "evidence": [
+        {
+          "startUid": "u3225",
+          "endUid": "u3243",
+          "quote": "Um Okay, make a Survival check. You do actually find, Wellby, as you’re sort of—you head out of town through the north gate, go through the army encampment, and then turn sort of west, curving to the north.\n\nDM: And when you're still may be about two miles from the from the red X from this Fort um you do pick up what seems to be a lightly used trail.\n\nDM: Running sort of north, south, not directly back towards the city running like if it kept—if you follow the trail you'd hit the road, maybe half a mile west of the city and then running North towards the towards the fort. And it's, it's not really a marked trail or anything. You're probably only noticing it because you see fresh—a mix, actually, of boot prints and claw prints.\n\nDM: Recent from maybe a day or two ago.\n\nDM: As there’s people traveling—yeah, all the prints are recent, but the claw prints and the boot prints—the people traveling here were not traveling particularly cautiously, which is the only reason you notice the you know the the disturbed grass, the occasional heel print in the dirt, the, the kicked rock.\n\nDM: But these, the boot prints just look like normal boot prints, but the claws are large. This is not a normal animal.\n\nDM: It's definitely not a coyote."
+        },
+        {
+          "startUid": "u3251",
+          "endUid": "u3253",
+          "quote": "You're about two miles from the X yeah.\n\nDelwath: So we're already what three miles from the city?\n\nUnknown: Yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3251",
+              "endUid": "u3253",
+              "quote": "You're about two miles from the X yeah.\n\nDelwath: So we're already what three miles from the city?\n\nUnknown: Yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Small dell with rubble over a tunnel entrance",
+      "kind": "dell",
+      "evidence": [
+        {
+          "startUid": "u3264",
+          "endUid": "u3273",
+          "quote": "You follow the trail South for maybe a mile, two miles, two and a half miles, you can see the walls of the city now. You’re a bit to the west of the city, and there’s—still a bit west of the city and a bit north of the of the road, maybe maybe half mile from the city when the trail turns abruptly east. Continues for about 200 yards and then stops in—there's like a little—the terrain here, like, it's mostly plains. You're sort of to the, to the west of the city. There's not so much farms. The farms just run up and down the river pretty much exclusively where there's water and irrigation.\n\nDM: And, and you come to the trail sort of ends in a little bit of a like a, just a small, small dell where there’s a pile of rocks, like rubble kind of strewn on the south edge of this dell."
+        },
+        {
+          "startUid": "u3284",
+          "endUid": "u3296",
+          "quote": "One is that these boulders have been moved within the past—have been rolled into place within the past 24 hours—\n\nDM: Like you can see the grass around here has been slightly flattened as they've been rolled and like sort of walking around when you come up to the, like, so there’s a, there’s a like a little bit of a dell in the ground, and those boulders on the south end, you sort of walk up to the top of the lip and there is a tiny gap like between the where the boulders are piled up in the top that's like you're looking down into a tunnel.\n\nDM: And then um you also see that—so, so you're sort of walking up here, you come up to the top, you're sort of looking down through the boulders and you can see what looks like the floor of the tunnel.\n\nDM: And as you're sort of poking around in there, trying to figure this all out um you can also see that there seems to be like you see a glint of like a chain, or something on the inside, like on the inside behind there's like clearly space behind these boulders. So it's like there's a tunnel behind the boulders and there's a chain sort of on the ground, behind the tunnel."
+        },
+        {
+          "startUid": "u3304",
+          "endUid": "u3308",
+          "quote": "It—yeah, it's probably not—if it's probably not actually half mile, to be honest, like I mean you're you're sort of—it's a—it was clearly some distance right like you're not 100 feet, right, but you're like somewhere between a few hundred and 50—like a few, you know, 1000 feet, 2000 feet something like that probably not quite half a mile."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "west_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3264",
+              "endUid": "u3271",
+              "quote": "You follow the trail South for maybe a mile, two miles, two and a half miles, you can see the walls of the city now. You’re a bit to the west of the city, and there’s—still a bit west of the city and a bit north of the of the road, maybe maybe half mile from the city when the trail turns abruptly east. Continues for about 200 yards and then stops in—there's like a little—the terrain here, like, it's mostly plains. You're sort of to the, to the west of the city. There's not so much farms. The farms just run up and down the river pretty much exclusively where there's water and irrigation."
+            }
+          ]
+        }
+      ],
+      "note": "The initial half-mile distance is revised to an uncertain few hundred to roughly 1,000–2,000 feet at u3304–u3308."
+    },
+    "p20": {
+      "label": "Dirt tunnel ending at a steel door",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u3319",
+          "endUid": "u3325",
+          "quote": "So it flies down the tunnel and it comes after some distance to a—\n\nUnknown: I'm.\n\nDM: Like a blank door that's a steel, a metal door.\n\nDM: It flies back out and like scratches a metal door on the ground."
+        },
+        {
+          "startUid": "u3383",
+          "endUid": "u3403",
+          "quote": "Okay, you walk about 1,500 feet through this dirt passageway. At times you need to like get down and crawl, like there’s been parts that have been shored up.\n\nDM: But this is a you know, this is a crude excavation. It goes pretty deep like slopes down pretty steeply from here, and then it's just passing through the sort of the Earth.\n\nDM: And—\n\nSeeker: Is it safe to say it was not done by dwarves, then?\n\nDM: This was not, this does not look like dwarven work.\n\nDM: Although like this sort of thing is not like unheard of right, because this is a sort of unusually long escape tunnel, but like a you know, a rich noble or something might have a way of sort of secret way to get outside the walls of the city.\n\nDM: Um you—\n\nSeeker: Oh, and how old is it likely?\n\nDM: It's, it's been recently shored up, but how old the tunnel was originally is impossible to say.\n\nDM: Okay, but there's clearly places where like um part of it had been collapsed and it's been recently um, shored up.\n\nDM: And you can see that there’s clearly tracks here, right? Like this is not, this is a—this is used with some regularity.\n\nDM: After you know 20 minutes walking through the tunnel um you come to the back of this—to this steel door."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u3286",
+              "endUid": "u3296",
+              "quote": "Like you can see the grass around here has been slightly flattened as they've been rolled and like sort of walking around when you come up to the, like, so there’s a, there’s a like a little bit of a dell in the ground, and those boulders on the south end, you sort of walk up to the top of the lip and there is a tiny gap like between the where the boulders are piled up in the top that's like you're looking down into a tunnel.\n\nDM: And then um you also see that—so, so you're sort of walking up here, you come up to the top, you're sort of looking down through the boulders and you can see what looks like the floor of the tunnel.\n\nDM: And as you're sort of poking around in there, trying to figure this all out um you can also see that there seems to be like you see a glint of like a chain, or something on the inside, like on the inside behind there's like clearly space behind these boulders. So it's like there's a tunnel behind the boulders and there's a chain sort of on the ground, behind the tunnel."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u3400",
+              "endUid": "u3403",
+              "quote": "After you know 20 minutes walking through the tunnel um you come to the back of this—to this steel door."
+            },
+            {
+              "startUid": "u3419",
+              "endUid": "u3426",
+              "quote": "Is a 15-by-15-foot, um, stone room.\n\nDM: The the room is bare except that in each of the four corners of the room there is like a grotesque statue. Like um, on one corner there's a like a sort of bear with wings that’s standing and leering. In one corner there’s what looks like a sort of Notre Dame gargoyle type, like devil horns, like a long nose, clawed fingers like this out in front. In, in one corner there is a what almost looks like a like a goat head type thing, but with bat wings and then in the fourth corner there's another statue like this that has the head of a snake, and then the body of of a wolf like rearing up. There all seem to be looking at the center of the room. Statues made of stone.\n\nDM: And then there is a—directly opposite the door there is a passage way that leaves the room and curves upwards, and to the right."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Stone room with four grotesque statues",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u3419",
+          "endUid": "u3430",
+          "quote": "Is a 15-by-15-foot, um, stone room.\n\nDM: The the room is bare except that in each of the four corners of the room there is like a grotesque statue. Like um, on one corner there's a like a sort of bear with wings that’s standing and leering. In one corner there’s what looks like a sort of Notre Dame gargoyle type, like devil horns, like a long nose, clawed fingers like this out in front. In, in one corner there is a what almost looks like a like a goat head type thing, but with bat wings and then in the fourth corner there's another statue like this that has the head of a snake, and then the body of of a wolf like rearing up. There all seem to be looking at the center of the room. Statues made of stone.\n\nDM: And then there is a—directly opposite the door there is a passage way that leaves the room and curves upwards, and to the right.\n\nSeeker: Any arcane knowledge of the four creatures represented, because those are all pretty weird?\n\nDM: Make an Arcana check. I mean these, they don't seem to represent any real creatures um you know these are this is this this these look like they're sort of intentionally grotesque designs to you."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p22",
+          "evidence": [
+            {
+              "startUid": "u3419",
+              "endUid": "u3426",
+              "quote": "Is a 15-by-15-foot, um, stone room.\n\nDM: The the room is bare except that in each of the four corners of the room there is like a grotesque statue. Like um, on one corner there's a like a sort of bear with wings that’s standing and leering. In one corner there’s what looks like a sort of Notre Dame gargoyle type, like devil horns, like a long nose, clawed fingers like this out in front. In, in one corner there is a what almost looks like a like a goat head type thing, but with bat wings and then in the fourth corner there's another statue like this that has the head of a snake, and then the body of of a wolf like rearing up. There all seem to be looking at the center of the room. Statues made of stone.\n\nDM: And then there is a—directly opposite the door there is a passage way that leaves the room and curves upwards, and to the right."
+            }
+          ]
+        }
+      ],
+      "note": "Seen through the closed steel door before it is opened. Entry is not established at the cutoff."
+    },
+    "p22": {
+      "label": "Underground complex beyond the steel door",
+      "kind": "underground site",
+      "evidence": [
+        {
+          "startUid": "u3419",
+          "endUid": "u3426",
+          "quote": "Is a 15-by-15-foot, um, stone room.\n\nDM: The the room is bare except that in each of the four corners of the room there is like a grotesque statue. Like um, on one corner there's a like a sort of bear with wings that’s standing and leering. In one corner there’s what looks like a sort of Notre Dame gargoyle type, like devil horns, like a long nose, clawed fingers like this out in front. In, in one corner there is a what almost looks like a like a goat head type thing, but with bat wings and then in the fourth corner there's another statue like this that has the head of a snake, and then the body of of a wolf like rearing up. There all seem to be looking at the center of the room. Statues made of stone.\n\nDM: And then there is a—directly opposite the door there is a passage way that leaves the room and curves upwards, and to the right."
+        },
+        {
+          "startUid": "u3459",
+          "endUid": "u3462",
+          "quote": "As you open the door—swings open down the passageway and the four statues come— come alive."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lair of the Fraternity of the Empty Moon.md",
+      "note": "The public Lair of the Fraternity of the Empty Moon note identifies the Session 36 statuary entrance. The transcript only speculates about the cult (u3440–u3443); its later urban location and other rooms are not imported into transcript-backed geography."
+    },
+    "p23": {
+      "label": "Distant ground northwest of Tokra",
+      "kind": "auditory location",
+      "evidence": [
+        {
+          "startUid": "u1573",
+          "endUid": "u1598",
+          "quote": "While this has been happening down below, Wellby, you've been you know scouting from the roof. Now you don't have dark vision, but it is a full moon and honestly you're probably relying on hearing, more than anything else, at this point, um, trying to just listen for anything suspicious any sounds any noises. And you do hear, carrying faintly in the still air—maybe it could be coyotes, but you're skeptical. A series of howls from far to the north.\n\nWellby: They're coming towards the town? But outside the walls, probably, or in—?\n\nDM: This is like like the edge of your hearing. This is probably a mile or two away. Not necessarily getting closer. And there's 1000 strong army camped between the noise and the town. And you listen for another 10, 15 minutes and there's one more long echoing howl that again maybe could be a coyote but there's a chill to it that strikes you as something different.\n\nDM: And then the noise goes silent.\n\nDM: Coming almost directly northwest of where you are and probably a good mile off."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "northwest_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1597",
+              "endUid": "u1598",
+              "quote": "Coming almost directly northwest of where you are and probably a good mile off."
+            }
+          ]
+        }
+      ],
+      "note": "Howls heard at an estimated mile or two; no visually identified site or arrival."
+    },
+    "p24": {
+      "label": "Archives in Kassi’s morning handoff (location unresolved)",
+      "kind": "library",
+      "evidence": [
+        {
+          "startUid": "u1902",
+          "endUid": "u1911",
+          "quote": "Okay, so you meet Kenzo, you know, probably, you know just after breakfast here, so, um. Oh, by the way, Kenzo it in the morning um, as you’re leaving the archives, um, Kassi comes up to you and says, “Kenzo, hold up a minute. I'm still working on those questions about Rai and, and, and the gods, but I, but I do have a map for your, for your friend Wellby. This was easy to copy.”\n\nKenzo: Hey, great.\n\nDM: And she hands you a map. I didn't manage to put this on Roll20, but it is it is here."
+        }
+      ],
+      "note": "The spoken label is archives, but Kenzo last slept at the Lakan monastery (u1861–u1865), where Kassi is librarian. This may mean its internal archives rather than the city Archives; neither reading is adopted as a confirmed parent or journey."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party walks across Jita Square in Tokra.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "Okay. So as the sun sets you find yourself walking across Jita Square, the largest and most central plaza in Tokra."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0030"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The guards admit the party to the archives, where they remain in the main open stacks.",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0030",
+          "quote": "So you approach the archives. They're quiet, empty, but guarded. The guards allow you to pass, recognizing you from earlier and knowing that Ardan will be—but the chief archivist of somewhat dubious skill will be eager to see you back and perhaps speak with you, if you have more questions for him.\n\nSeeker: As, as we enter, Seeker sort of clears his throat nervously, looking around, speaking slightly too loud in the quiet of the dusk: Can we just review what we know about vanquishing lycanthropes? I think there's—"
+        },
+        {
+          "startUid": "u0062",
+          "endUid": "u0065",
+          "quote": "I mean, sunset’s in like half an hour. The sun is setting in the sky as you enter the archives."
+        },
+        {
+          "startUid": "u0497",
+          "endUid": "u0499",
+          "quote": "Where are we right now? You're in the archive.\n\nDM: Archives main open stacks."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0515",
+        "endUid": "u0524"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Kenzo and Seeker go outside through the front entrance into the plaza.",
+      "evidence": [
+        {
+          "startUid": "u0515",
+          "endUid": "u0524",
+          "quote": "See okay. So Kenzo and Seeker head out the front door into Jita Square, the open plaza now. You’re just beginning to see the faint glimmer of moonlight as the moon rises above the walls of the city.\n\nDM: Um nothing is there's no—no sign of activity. Nothing’s visible. There’s no like giant beast rushing across the plaza at you or anything like that.\n\nDM: Um you see the like four guards coming your way from the temple, with the fifth guard from the temple from the archives leading them yeah."
+        }
+      ],
+      "from": "p04",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0544",
+        "endUid": "u0581"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Wellby and Delwath descend to the torchlit basement corridors and hear noises ahead.",
+      "evidence": [
+        {
+          "startUid": "u0544",
+          "endUid": "u0551",
+          "quote": "So, so, okay, back to Wellby and Delwath. You're going down the stairs to come to the basement door.\n\nDelwath: Yeah.\n\nDM: You're like—\n\nDelwath: Two things yeah go ahead, but hold on I.\n\nDM: Just wanted to know if you're going down the stairs if you're going out the front door like around the back?\n\nDelwath: No let's go to the down the stairs. OK, but."
+        },
+        {
+          "startUid": "u0571",
+          "endUid": "u0581",
+          "quote": "So the two of you head down the stairs and, and you come—so the stairs descend to a a corridor, a torchlit corridor that leads that leads like, like, turn a corner, and that leads straight ahead. It goes maybe 15 feet before there's a door on the right and the left, and then another 10 or 15 feet beyond that it opens up into a, into a like a four-way intersection with a wider corridor.\n\nDM: This is all sort of carved stone lit with torches you can hear uh—let's see. Yeah, Wellby, you've got quite a high passive Perception. You can, you can hear muffled noises. Sounds, sounds like it sounds like, like kids being shuffled to bed. It's like that go, go, go, quick, like go type muffled noises, um, coming from the left, and then somewhere straight ahead you hear a muffled howl, yelp, and then thump and the sound of metal clanging on stone."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0598",
+        "endUid": "u0604"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Kenzo and Seeker run back into the archives and reach the foot of the basement stairs.",
+      "evidence": [
+        {
+          "startUid": "u0598",
+          "endUid": "u0604",
+          "quote": "Okay, I look at Seeker. Wellby, Wellby is calling for help. I think we need to go back inside. I tell the guards just very quickly: It seems like there may be a disturbance inside, so, um, keep scanning the perimeter, but be aware that there may be some trouble inside the building.\n\nSeeker: So we're running we're running on towards the. OK OK that's.\n\nKenzo: I relay that to the commander. And start running inside.\n\nDM: Okay, so you two are running inside. What are—"
+        },
+        {
+          "startUid": "u0636",
+          "endUid": "u0640",
+          "quote": "But it doesn't see anything else, and at the moment um all is quiet. At this point, Seeker and Kenzo, you've reached the inside of the archives and are heading towards the stairs to head down, um. Wellby, are you doing anything?"
+        },
+        {
+          "startUid": "u0700",
+          "endUid": "u0715",
+          "quote": "At this moment um two things happen at the same time—well, three things happen at the same time—\n\nSeeker: And all, all really good things.\n\nDM: Seeker and Kenzo come down the steps. You see this torchlit corridor. At the end of the corridor you see Delwath standing. You do not see Wellby or the shadow beast.\n\nSeeker: We're in the corridor at the other end of that?\n\nDM: You're at the bottom, you're like right here, you're right there. Basically, just came down the stairs, um. The doorway right here, now in between Kenzo and Wellby and, um, and Delwath, swings open. And a older male dwarf head sticks out and yells. Like stage whispers, like yells but keeping his voice down, \"What are you doing down here? Go!\" When there's a loud crack as if there is like—um, it sounds like something heavy and strong breaking."
+        }
+      ],
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "run",
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "l04",
+          "note": "The DM explicitly synchronizes the plaza contact and basement scouting at u0592–u0596."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0649",
+        "endUid": "u0699"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Wellby advances toward the noises by the workshop; Delwath follows to the corridor corner. This does not put them inside the room from which the wolf emerges.",
+      "evidence": [
+        {
+          "startUid": "u0649",
+          "endUid": "u0659",
+          "quote": "I'm gonna stealth my way towards the noise.\n\nDM: Okay, make a Stealth check.\n\nKenzo: Where's the archivist?\n\nDM: Ah upstairs upstairs at the moment.\n\nWellby: Oh, that is atrocious. D4, right?\n\nDM: Yeah, minus the d4.\n\nWellby: 10.\n\nDM: As you, as you begin stomping along, you hear a—like a bang, like chain hitting against stone, [garbled]."
+        },
+        {
+          "startUid": "u0693",
+          "endUid": "u0699",
+          "quote": "So I'm going to send the shadow beast to scout the workshop.\n\nDM: And this is, this is sort of the direction that Wellby is going as well.\n\nDelwath: Okay, and I'll go up to the up to the corner, basically. Up to here—oops you can't see where's the little—up to, but, but this side of the corner, right, so I'm not going around the bend, but I'll send the shadow beast over my— Basically, I'll follow, follow Wellby."
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Approach the opening of the workshop without a supported entry into the wolf’s holding room.",
+          "place": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0786",
+        "endUid": "u0794"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby sees the chained wolf break out of the workshop-area back room.",
+      "evidence": [
+        {
+          "startUid": "u0781",
+          "endUid": "u0794",
+          "quote": "Okay, you should be able to control that Hawk now. Um, okay, Seeker—or, sorry, um, Wellby, you see, um. The door—there's a door back here. There's a series of doors actually um like one here—\n\nDelwath: Kid.\n\nUnknown: Yeah.\n\nDM: Well, one there one there. And this door in the back um breaks open as a large, large wolf leaps out of that door.\n\nKenzo: Which door?\n\nDM: There's chains trailing behind that."
+        }
+      ],
+      "place": "p06",
+      "observerPlace": "p05",
+      "mode": "local",
+      "observedActors": [
+        "wolf (later identified as Dag)"
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1064",
+        "endUid": "u1074"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "While running past the doorway, Seeker sees a distressed dwarf woman and a male relative in the kitchen.",
+      "evidence": [
+        {
+          "startUid": "u1064",
+          "endUid": "u1074",
+          "quote": "I’m gonna run down the hall. I’m going to look into the door where the dwarf came out just to see what’s in there or what’s going on as I pass by.\n\nDM: Okay. It's like a corridor that opens up into like a kitchen area. Okay, and there's sort of in the back of the kitchen there's a dwarven woman in like, you know, you know,, a nightshirt, like bed, you know, pajamas kind of, um, sitting at the table like with her head in her hands kind of crying and ah another older male dwarf. Ah, ah, this one, this one maybe more middle-aged, not, not that old, maybe 150 or so, fit, with shaggy black hair and a long braided beard, who's like sitting and like comforting her, sort of patting her on the back."
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p05",
+      "mode": "local",
+      "observedActors": [
+        "Fallthra",
+        "Fallthra’s brother"
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1166",
+        "endUid": "u1167"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby withdraws to guard the basement stairs.",
+      "evidence": [
+        {
+          "startUid": "u1166",
+          "endUid": "u1167",
+          "quote": "I think at this point I'll I'll just move back and take a position on the stairs in case anyone down here tries to leave. I'm not gonna let them out."
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Back along the corridor to the stairs."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1366",
+        "endUid": "u1373"
+      },
+      "actors": [
+        "Fallthra"
+      ],
+      "reading": "Fallthra retrieves Dag’s first clock from the workshop and hands it over.",
+      "evidence": [
+        {
+          "startUid": "u1366",
+          "endUid": "u1373",
+          "quote": "Fallthra, we're going to try a ritual now to bring back your son and remove this curse once and for all. We're going to need, I think, his favorite clock. Is there one among them, that is most special?\n\nDM: Maybe the first one he made all by himself without any help. Sort of walks slowly over and takes definitely one of the smaller and less fancy clocks that are on the wall, hands it to you.\n\nSeeker: I turn it over admiring the stone and glass craftsmanship. Indeed, the boy shows promise."
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Retrieves a clock from the workshop wall and returns with it.",
+          "place": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1381",
+        "endUid": "u1396"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Dag",
+        "Delig",
+        "Fallthra’s brother"
+      ],
+      "reading": "The group brings the unconscious Dag to the well and prepares the ritual there.",
+      "evidence": [
+        {
+          "startUid": "u1381",
+          "endUid": "u1396",
+          "quote": "We can yeah I can get some water. There's a well just down the end of the hallway connects to an underground cistern supplies the archives and the palace and the temple.\n\nDelwath: Let's bring him there.\n\nDM: Okay.\n\nUnknown: So we.\n\nSeeker: It's still a little sticky so just watch your feet yeah.\n\nDM: No, that spell only lasts for a minute, so it’s turned back into regular stone now. The two the two other dwarves you saw, the sort of older dwarf who's who's her husband and the other male dwarf who’s like, you know, kind of fit with black hair, who, who you, Seeker, recognize as as Fallthra's brother.\n\nSeeker: The boy’s uncle.\n\nDM: The boy's uncle, yeah. The two of them help carry him."
+        },
+        {
+          "startUid": "u1416",
+          "endUid": "u1424",
+          "quote": "Altar, so yeah, that, the space here is like a sort of like an open wide hallway maybe 20 feet wide. To the—this is like the library portion so there's a series of like store rooms, to the right and the left that you know that store both food and barrels of beer or barrels of wine and things like that, and also like the books stored as well, or scrolls stored. So where there's like disorganized—you can see kind of, when you're down here, the state of the organization of the library. There's just like disorganized piles of of papers in no particular order, right? No, nothing sort of marked or labeled or anything, just papers kind of stuffed in shelves.\n\nSeeker: It's not great.\n\nDM: And but there's, you know, there's material as well, like the dwarves are responsible for upkeep of the, of the building, which is, right, you know, hundreds of years old and, and stone, and so there's certainly material to, to, you know, that they would use for masonry repairs that you could repurpose."
+        },
+        {
+          "startUid": "u1432",
+          "endUid": "u1448",
+          "quote": "Alright. So I'll put the—I will fetch some water from the well and put some water on the altar.\n\nSeeker: [garbled] should know what to do—\n\nDelwath: Yeah like anybody who you know knows how to talk to god's or what their magic is like.\n\nKenzo: That part I could do, like Kenzo is hyper comfortable with that, but you want to try this, try this first.\n\nDelwath: I just think that my hope is that Aaviskar can in some way infuse the magic I pull with the ability to remove this curse.\n\nKenzo: All right, go for it.\n\nSeeker: And remember, we have to use the clock too. I place the clock on the altar.\n\nDelwath: So I will place the chicken and the water and the clock on the altar."
+        }
+      ],
+      "from": "p05",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "carry Dag"
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u1492",
+        "endUid": "u1523"
+      },
+      "actors": [
+        "Fallthra"
+      ],
+      "reading": "Fallthra reaches Dag beside the altar and well during the cure.",
+      "evidence": [
+        {
+          "startUid": "u1492",
+          "endUid": "u1502",
+          "quote": "Until maybe five minutes, as, as now the water begins to freeze more and more, Fallthra, unable to hold herself back, just rushes forward and starts crying.\n\nDelwath: I'll I'll make sure she doesn't like hold up my hand, “Wait.”\n\nSeeker: Wait is there magical Armor appearing on—\n\nUnknown: The know—\n\nDM: Um and, as you hold up your hand you hear a whisper in your mind: “Let her go.”\n\nDelwath: Okay I'll let her go.\n\nDM: And as her tears fall on the body of the wolf, the chicken starts to smoke."
+        },
+        {
+          "startUid": "u1504",
+          "endUid": "u1523",
+          "quote": "Flashes into fire. And as the ash burns away, you see the fur of the wolf also begin to— Not exactly smolder, it's, it begins to—her tears are landing on this fur and freezing as they hit, and it's like little drops of like liquid nitrogen, right? You see the like little, little vapors coming up. Until there was a crack and it's like the skin of this creature falls away and lying on on the ground, next to the altar is a dwarven boy. Not not even 20. Naked, curled up, and Fallthra just starts sobbing, gathers him up in her arms. And you hear—you— Delwath—there's a—it's not exactly—what would it be like? So, um, you sense your shadow beast, your connection to the shadow beast and suddenly as if there's like a backlash of the power that washed through you as the as the sacrifice burns and you feel like almost stunned for a minute, as if like a loud bell was rung right next to your ear, and."
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1573",
+        "endUid": "u1580"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby has reached the archives roof and scouts while events continue below.",
+      "evidence": [
+        {
+          "startUid": "u1341",
+          "endUid": "u1342",
+          "quote": "I think I'll head back up to the roof and keep just—"
+        },
+        {
+          "startUid": "u1568",
+          "endUid": "u1580",
+          "quote": "Up on the roof, are there any sights or sounds or anything?\n\nDM: Make a perception check.\n\nKenzo: Gonna head back to the monastery after a perception check.\n\nDM: While this has been happening down below, Wellby, you've been you know scouting from the roof. Now you don't have dark vision, but it is a full moon and honestly you're probably relying on hearing, more than anything else, at this point, um, trying to just listen for anything suspicious any sounds any noises. And you do hear, carrying faintly in the still air—maybe it could be coyotes, but you're skeptical. A series of howls from far to the north."
+        }
+      ],
+      "from": "p05",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u1583",
+        "endUid": "u1598"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby hears distant howls northwest of the city from the roof; the source does not establish a physical visit.",
+      "evidence": [
+        {
+          "startUid": "u1583",
+          "endUid": "u1598",
+          "quote": "This is like like the edge of your hearing. This is probably a mile or two away. Not necessarily getting closer. And there's 1000 strong army camped between the noise and the town. And you listen for another 10, 15 minutes and there's one more long echoing howl that again maybe could be a coyote but there's a chill to it that strikes you as something different.\n\nDM: And then the noise goes silent.\n\nDM: Coming almost directly northwest of where you are and probably a good mile off."
+        }
+      ],
+      "place": "p23",
+      "observerPlace": "p09",
+      "mode": "local"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1636",
+        "endUid": "u1638"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo leaves for the Lakan monastery and arrives there just before midnight.",
+      "evidence": [
+        {
+          "startUid": "u1323",
+          "endUid": "u1323",
+          "quote": "It's about four miles, so at a, at a quick march, an hour."
+        },
+        {
+          "startUid": "u1636",
+          "endUid": "u1638",
+          "quote": "Yeah, I just headed back to the monastery.\n\nDelwath: And Kenzo was headed back to the monastery. Oh, you should, so I guess—"
+        },
+        {
+          "startUid": "u1830",
+          "endUid": "u1836",
+          "quote": "Ah yes. Yes, it's actually a pretty quiet night, especially once you get south of the city. You arrive back to the monastery maybe and just before midnight. The monastery is still and calm.\n\nKenzo: Good.\n\nDM: Nothing seems to have disturbed the night's sleep here."
+        }
+      ],
+      "from": "p03",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "overland",
+      "distance": {
+        "value": 4,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "The earlier route estimate at u1323"
+      },
+      "note": "The four-mile route was estimated at u1323; arrival is separately narrated.",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Forecast at u1323 for a quick march, not an independently measured travel interval"
+      }
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1753",
+        "endUid": "u1766"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "Seeker and Delwath go back upstairs, reassure the guards and ask Ardan to arrange research.",
+      "evidence": [
+        {
+          "startUid": "u1746",
+          "endUid": "u1766",
+          "quote": "Now let's go back up. Are we going to cover—Delwath looks at Seeker—are we going to cover this up for the dwarves? I guess we are.\n\nSeeker: They would prefer that. No, no, it's a bit of a shame shameful—\n\nUnknown: Affliction.\n\nSeeker: I think for, for, for the boy's sake it's better not to spread the word, I think.\n\nUnknown: Yes, I think that's right.\n\nDelwath: We'll go back up and basically trying to calm down, you know basically try to de escalate the guards right like did we ever tell them we told them there's disturbance right.\n\nDM: Yeah but nobody really knew anything other than that you were gone for a while to guard the back door, and there was a few thumps and noises but the guards didn't hear the noises. Because they were outside. Basically, they when you come back up they like ask, “Is everything okay?”\n\nDelwath: Right yeah so reassure them. We’ll, we’ll tell Ardan that it seems like nothing approached the walls. No danger came from outside.\n\nDelwath: And—\n\nDM: Okay, and—\n\nDelwath: Mentioned that there was some we heard some potential trouble way off to the north, but it, it does not seem like the archive is a target.\n\nDM: Right."
+        }
+      ],
+      "from": "p08",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1853",
+        "endUid": "u1865"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "The three return to their rooms at Kirian’s, sleep and wake there on July 2.",
+      "evidence": [
+        {
+          "startUid": "u1853",
+          "endUid": "u1865",
+          "quote": "This is gonna be the transition to morning so yeah.\n\nDelwath: Just moving ahead so—\n\nDM: So, as you all drift off to sleep in your respective places um ah, you get a long rest.\n\nDM: Seeker, Wellby, you have dreams. I'm sending you messages.\n\nUnknown: Yeah.\n\nDM: And you wake up the morning of July 2 now, um, Seeker, Wellby and Delwath in Kirian's, in your rooms at Kirian's, Kenzo in the monastery."
+        }
+      ],
+      "from": "p03",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l18",
+      "type": "presence",
+      "source": {
+        "startUid": "u1902",
+        "endUid": "u1911"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kassi gives Kenzo a map as he leaves the place called “the archives” in this morning handoff.",
+      "evidence": [
+        {
+          "startUid": "u1861",
+          "endUid": "u1865",
+          "quote": "And you wake up the morning of July 2 now, um, Seeker, Wellby and Delwath in Kirian's, in your rooms at Kirian's, Kenzo in the monastery."
+        },
+        {
+          "startUid": "u1902",
+          "endUid": "u1911",
+          "quote": "Okay, so you meet Kenzo, you know, probably, you know just after breakfast here, so, um. Oh, by the way, Kenzo it in the morning um, as you’re leaving the archives, um, Kassi comes up to you and says, “Kenzo, hold up a minute. I'm still working on those questions about Rai and, and, and the gods, but I, but I do have a map for your, for your friend Wellby. This was easy to copy.”\n\nKenzo: Hey, great.\n\nDM: And she hands you a map. I didn't manage to put this on Roll20, but it is it is here."
+        }
+      ],
+      "place": "p24",
+      "note": "The city Archives and the monastery’s internal archives are competing location readings. No unspoken journey is inferred."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1920",
+        "endUid": "u1929"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All four reunite at the caravanserai outside the west walls of Tokra.",
+      "evidence": [
+        {
+          "startUid": "u1894",
+          "endUid": "u1894",
+          "quote": "So it's on the West side of town just outside the walls—"
+        },
+        {
+          "startUid": "u1900",
+          "endUid": "u1907",
+          "quote": "So you're meeting there and then going to the archives.\n\nDelwath: Yes.\n\nDM: Okay, so you meet Kenzo, you know, probably, you know just after breakfast here, so, um. Oh, by the way, Kenzo it in the morning um, as you’re leaving the archives, um, Kassi comes up to you and says, “Kenzo, hold up a minute. I'm still working on those questions about Rai and, and, and the gods, but I, but I do have a map for your, for your friend Wellby. This was easy to copy.”"
+        },
+        {
+          "startUid": "u1920",
+          "endUid": "u1929",
+          "quote": "Actually, I can throw this on Roll20 and you meet now on the west side of Tokra, um at the outskirts of the, of the caravanserai, um, this is a big like open area that serves that handles a lot of merchant traffic and also serves as a as a marketplace for like out of towners and travelers and anybody who doesn't want to like pay the fees and the tolls to, to sell in the market square in town. It’s like a big courtyard with like rooms and shops, stables, and then like tables and gathering places inside, um.\n\nDM: It's run by Darshana, a middle-aged Dunmari woman.\n\nDM: And she sees you all approach recognizes you immediately from you know rumors are now racing around town of you arriving the day before. She says, “Looks like we've got some heroes for breakfast. Come, come. I'm sure the crowd would love a tale.”"
+        }
+      ],
+      "from": null,
+      "to": "p13",
+      "completion": "arrived"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2243",
+        "endUid": "u2248"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns into the city and reaches the outside of Kirian’s, where soldiers wait.",
+      "evidence": [
+        {
+          "startUid": "u2243",
+          "endUid": "u2248",
+          "quote": "So when you, when you approach, you come back to the city, and as you approach Kirian's, there are six soldiers kind of loitering outside of the inn. And as they see you approach, one of them, ah, kind of looks up and sort of nudges another one and they they approach you and you know, one of them sort of captain like bows and says, “I'm glad we caught you. Kirian said you'd be back soon.”"
+        }
+      ],
+      "from": "p13",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2356",
+        "endUid": "u2367"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party goes up to its rooms at Kirian’s, where Seeker casts Clairvoyance.",
+      "evidence": [
+        {
+          "startUid": "u2356",
+          "endUid": "u2367",
+          "quote": "Kenzo goes over to the, to, goes over to the troops. Look, we'll come with you. Just give us a few minutes to settle, settle, settle some affairs we have to handle for now, but we'll come with you in 10 minutes, okay? We're just going to be upstairs in our rooms right now. All right.\n\nKenzo: When I go—\n\nDM: Out you—\n\nKenzo: [garbled] what's what's your name?\n\nDM: I've run out of names on my list of names oh wait, I have one more. He is Amay.\n\nKenzo: Amay, we'll be back in a moment. You have my word, okay? We'll, we'll be back in just a few moments. We're just headed back up to our rooms. We'll come, we'll come back down shortly.\n\nSeeker: All right, okay I—\n\nDM: Will be here.\n\nSeeker: I will cast—so we are less than a mile from the camp so I'll cast clairvoyance."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l22",
+      "type": "observation",
+      "source": {
+        "startUid": "u2371",
+        "endUid": "u2425"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker remotely sees and hears Illyan in the command tent, then observes his glowing ring and Drusa’s response.",
+      "evidence": [
+        {
+          "startUid": "u2371",
+          "endUid": "u2403",
+          "quote": "It's just a glowing ball or whatever, um, yeah, it's true. It's interesting, if the friends are there, they'll know. Maybe anyway they probably aren't Chardonians, um, I'm going to place it in the commander's tent. With—start with vision.\n\nDM: Okay ah, can you—where does the actual target—can you like, I mean, you have not seen the commander's tent, right?\n\nSeeker: So in the—\n\nDM: Obvious. I would say that's a little bit—just saying like the commander's tent is not an obvious location, because how do you know which is the commander's.\n\nUnknown: Tent, and that’s just a.\n\nDM: You could say, like in the middle of the army camp, or in the biggest tent in the army camp or.\n\nKenzo: The fanciest tent.\n\nSeeker: Right like have we seen a?\n\nKenzo: Most lavish. In the most lavish tent.\n\nSeeker: Have we seen a Dunmari army encampment?\n\nDM: You know, I could probably just—make a, make an Intelligence check with advantage. Just straight intelligence with advantage.\n\nSeeker: Oh God.\n\nKenzo: Lucky bitch.\n\nDM: Yeah I mean you're guessing here. But I mean you can let's roll let's roll a D 20. If it's above a ten, you get it in the, in the tent.\n\nKenzo: Yes—\n\nSeeker: Nice did not accidentally clairvoyance the latrine. Okay.\n\nDM: Okay, so um so you're just you're just listening right now?\n\nSeeker: I put, I’ll say vision first, and then I’ll switch to listening, yes.\n\nDM: Okay, so this is, yeah, the tent of a Dunmari commander. There's like papers spread around. There's, um, it's still relatively early in the morning, and he seems to be just finishing up a meal."
+        },
+        {
+          "startUid": "u2406",
+          "endUid": "u2425",
+          "quote": "Okay um footsteps as as somebody approaches and says, “What did you want, sir?” “Does—does a—has Amay come back yet with those folks? It's been an hour since they left. Where could they be?” Like, “I don't know, Sir, I can go check.”\n\nDM: Do you want me to ask? We ask Drusa to send them a message? Flagging—no need to involve her yet. I’m sure she’ll want to meet them too, but let's keep the Chardonians out of it for now.\n\nDM: Just tell me when they get back.\n\nDM: I need to speak with them.\n\nDM: Yes, sir. Goes quiet.\n\nSeeker: What was the name, Teresa, Drusa?\n\nDM: Drusa, sir.\n\nKenzo: Do I recognize the name, so—?\n\nDM: No."
+        },
+        {
+          "startUid": "u2431",
+          "endUid": "u2456",
+          "quote": "Nothing seems to be happening for a minute or two—\n\nUnknown: Last—\n\nDM: 10 minutes and then he like looks down at his hand, and you can see that he has a ring that’s glowing, and he curses some expletive and he gets up and runs out of the tent.\n\nDelwath: Good job.\n\nSeeker: So maybe we were just detected, but he didn't like look up at the spell.\n\nDelwath: No, it's probably something that tells him he's being spied on.\n\nSeeker: I see. Well yeah okay okay. I well—\n\nDM: A minute later um he comes back with a Chardonian woman a young ish woman who like is looking around and then points up directly—\n\nSeeker: Yeah um.\n\nDM: And starts like—to him she's whispering directly into his ear super quietly.\n\nSeeker: She knows what it is. Can I click—I can’t hear?\n\nDM: You just hear—you can't hear what they're saying. So they walk outside of the tent again."
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p12",
+      "mode": "remote",
+      "observedActors": [
+        "Illyan",
+        "Drusa"
+      ]
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2551",
+        "endUid": "u2561"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The guards lead the party out to the army camp, stopping them outside Illyan’s tent for the dispute over magic.",
+      "evidence": [
+        {
+          "startUid": "u2551",
+          "endUid": "u2561",
+          "quote": "Um they they lead you out of the city and, um, to the army camp. It's probably five to eight hundred soldiers camped in rows. Takes you to a tent which you recognize from Seeker's—well, Seeker recognizes.\n\nSeeker: So are we going to deny the Clairvoyance or not?\n\nKenzo: No well we'll say.\n\nDM: Um, standing outside the tent um is a sort of young like valet, and this Chardonian woman, and the valet sort of stops you about 20 feet away from, from the tent and motions the Chardonian over, and she like says, “Yeah, they're carrying a lot of magic,” and he says—\n\nDM: I am, I am sorry. He's like sort of stammering and a bit awestruck by you, the valet, and he says, I am, I am sorry to ask this, but there was just an attempt to spy on us, I am told, by magic, and Illyan has declared that no magic can be brought into his presence until we better understand what has happened.\n\nDM: So I am I'm sorry but I must ask you to leave your whatever magic items, you are carrying behind. I promise, they will be safe—"
+        },
+        {
+          "startUid": "u2648",
+          "endUid": "u2655",
+          "quote": "Like you're like you're stopped like about 30 feet from the entrance to the tent is where the—and as he puts some stuff down you know, Drusa walks with you, yeah, perfect, and as soon as she gets to the entrance of the tent, she nods to the valet, like he’s clear, like once she’s about 35 feet away from the pile of stuff and the rest of you.\n\nDM: And motions you forward and it's on you. You talk to them."
+        }
+      ],
+      "from": "p12",
+      "to": "p15",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Leave Tokra for the army camp outside its north gates.",
+          "place": "p14"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u2648",
+        "endUid": "u2666"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "After leaving his magic and weapons outside, Kenzo enters Illyan’s tent; his companions remain outside.",
+      "evidence": [
+        {
+          "startUid": "u2627",
+          "endUid": "u2658",
+          "quote": "Perfect, let's do that. I'll propose a compromise, friend, I will leave all of my—as the one Dunmari member of our party as well, I’ll leave all of my materials and items here under your, under your care, and I can meet the, I can meet Illyan and share, answer any questions, whatever discussion he’d like to have.\n\nDM: The valet is just like kind of looking around like have no idea what to do and and—\n\nKenzo: Kenzo lays all the stuff down wherever the valet wants and just points to the valet and is like, let’s go inside.\n\nDM: It just kind of like like stammers slightly and amen and, like the guards are kind of standing around not sure what they should do—\n\nKenzo: And so, like, like takes the staff and gives it to the valet, pulls all like the wand out, pulls all the shit out, all his stuff, and just leaves it, gives it to them. It’s like, let’s go inside.\n\nUnknown: What.\n\nSeeker: How many magic items and weapons does Kenzo have on him?\n\nKenzo: So I was—\n\nSeeker: I was picturing Seeker doing this and it taking like two hours and the pile—\n\nKenzo: You just—he just takes his backpack off and puts his staff down and just, just—\n\nDelwath: Know.\n\nKenzo: Just started walking.\n\nDelwath: Detect Magic can’t see through—?\n\nDM: It it tells you—\n\nDelwath: How you see it right right—\n\nDM: It's not you can't see an aura, but you can sense the presence of magic right right.\n\nKenzo: So Kenzo literally just takes off—\n\nDM: Like you're like you're stopped like about 30 feet from the entrance to the tent is where the—and as he puts some stuff down you know, Drusa walks with you, yeah, perfect, and as soon as she gets to the entrance of the tent, she nods to the valet, like he’s clear, like once she’s about 35 feet away from the pile of stuff and the rest of you.\n\nDM: And motions you forward and it's on you. You talk to them.\n\nKenzo: I will. Thank you.\n\nDM: Okay, so you you walk into the tent and and Illyan is sort of pacing back and forth."
+        },
+        {
+          "startUid": "u2665",
+          "endUid": "u2672",
+          "quote": "Turns as you enter. Where are the rest of them?\n\nKenzo: They’re still outside. Kenzo says, they're still outside, but Illyan, first allow me to apologize for the use of magic in your space, and it was—I think the valet may have already communicated this, but it was a member of our party, that was a member of our party that that was trying to investigate ahead to see if there were any traps, again we apologize for the use of magic in this way, but I hope you'll appreciate over the past several months being out at the frontiers and Karawa and facing the myriad dangers that we've had to deal with. Gnolls, warlocks, all kinds of stuff with, you know, creatures with strange magic. Um, it's been an incredibly stressful and dangerous time, so."
+        }
+      ],
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived"
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u2878",
+        "endUid": "u2882"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo steps outside to confer with the other three.",
+      "evidence": [
+        {
+          "startUid": "u2878",
+          "endUid": "u2882",
+          "quote": "I shall step outside. Look around to the guards. Mind if we have a moment, companions?\n\nUnknown: Yeah they'll a little little.\n\nKenzo: Share what what what happened."
+        }
+      ],
+      "from": "p16",
+      "to": "p15",
+      "completion": "arrived"
+    },
+    {
+      "id": "l26",
+      "type": "presence",
+      "source": {
+        "startUid": "u3020",
+        "endUid": "u3037"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo brings the proposed Sending message to Illyan for approval; the transcript does not restate which side of the tent entrance they occupy.",
+      "evidence": [
+        {
+          "startUid": "u3020",
+          "endUid": "u3037",
+          "quote": "This is a good message here, friends. I’ll share this draft with—so explain to Illyan, Illyan, you know, we have this, we have the ability to send a message with Sending scrolls, be like—I think that they would know about.\n\nDelwath: Yeah he—\n\nDM: I mean, yeah, he knows about Sending. He just doesn't have anybody who can cast Sending.\n\nKenzo: Notice so—\n\nDM: Sir.\n\nKenzo: I explain it, explain to him that we have the scroll, that we can actually reach out to her right away. This is the message we propose to send. What do you think?\n\nDM: That's gonna save you a lot of riding if it works.\n\nUnknown: It will.\n\nKenzo: Do you approve this message?\n\nDM: Yeah he's fine with that.\n\nKenzo: And you also agree on because again will will close will conclude the message with them sending a messenger as well, so that a more direct communication can be, a direct, a more direct communication can be held between, between your parties.\n\nDM: That would be ideal, even if only to help make sure the truce can hold and figure out how to discern the gods' will.\n\nWellby: Can he promise safe conduct? That could be our last two words.\n\nDM: I can promise safe conduct for a messenger, not for her."
+        }
+      ],
+      "place": "p14",
+      "note": "No renewed entry for all four is inferred from this conversation."
+    },
+    {
+      "id": "l27",
+      "type": "movement",
+      "source": {
+        "startUid": "u3156",
+        "endUid": "u3167"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to Kirian’s for gear and receives Fallthra’s message about Dag.",
+      "evidence": [
+        {
+          "startUid": "u3156",
+          "endUid": "u3167",
+          "quote": "Ah there's there's no message from—well, there's no—there is a message. So you go back to the inn to like sort of recover your gear and, um, you know, there's a message from, from Fallthra, like, um.\n\nDM: He's awake—he, he awoke briefly this morning and ate, but is sleeping again now, dreaming and fitful. I think he needs another day or two to rest before he'll be able to speak, he doesn't remember last night but it seems much of the past month is is now fuzzy in his mind, and I hope that rest—\n\nDM: And calm will restore him, please, if you don't mind waiting at least a day.\n\nDelwath: Yeah, let’s not bother him. He doesn’t remember last night.\n\nSeeker: Checking this—we'll check on, check in on you all when we come back through town.\n\nWellby: Maybe that his forgetting is the best thing for his healing."
+        }
+      ],
+      "from": "p14",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l28",
+      "type": "movement",
+      "source": {
+        "startUid": "u3215",
+        "endUid": "u3253"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party rides toward the red-X fort, leaves through the north gate, passes through the army camp, curves west and north, and finds the lightly used trail before reaching the fort.",
+      "evidence": [
+        {
+          "startUid": "u3215",
+          "endUid": "u3226",
+          "quote": "So you leave Tokra, riding north just after lunch.\n\nKenzo: Perfect it's—\n\nDM: It's maybe only a two-hour ride to the fort, and, um, and as you, as you sort of head in that direction, um you pass quickly through like the sort of farmland at the outskirts of Tokra and come to an area that seems like there's no people around. There's no herds in the distance. There's not even any animals. It just seems quiet.\n\nDM: And you can see, like when you’re maybe three, four miles off, um, you can see the sort of low rise in the distance, this low hill that sort of comes up slightly from the horizon too far away to see the details of any towers, or anything like that um.\n\nDM: Continuing to approach, stopping when you’re like a mile away? Is that your plan?\n\nWellby: Yeah and if we're coming from the west and south, then, in principle, we should, if there were tracks going from the city back there again we should cross them at some point so I'm—\n\nDM: Um Okay, make a Survival check. You do actually find, Wellby, as you’re sort of—you head out of town through the north gate, go through the army encampment, and then turn sort of west, curving to the north."
+        },
+        {
+          "startUid": "u3227",
+          "endUid": "u3253",
+          "quote": "And when you're still may be about two miles from the from the red X from this Fort um you do pick up what seems to be a lightly used trail.\n\nDM: Running sort of north, south, not directly back towards the city running like if it kept—if you follow the trail you'd hit the road, maybe half a mile west of the city and then running North towards the towards the fort. And it's, it's not really a marked trail or anything. You're probably only noticing it because you see fresh—a mix, actually, of boot prints and claw prints.\n\nDM: Recent from maybe a day or two ago.\n\nDM: As there’s people traveling—yeah, all the prints are recent, but the claw prints and the boot prints—the people traveling here were not traveling particularly cautiously, which is the only reason you notice the you know the the disturbed grass, the occasional heel print in the dirt, the, the kicked rock.\n\nDM: But these, the boot prints just look like normal boot prints, but the claws are large. This is not a normal animal.\n\nDM: It's definitely not a coyote.\n\nWellby: I’d say we tend to follow—\n\nDM: North or south?\n\nSeeker: Oh that's interesting.\n\nWellby: I think North because the howls appeared to be getting more distant which they—\n\nDelwath: How far to that? We’re like two miles from the—\n\nUnknown: X.\n\nDM: You're about two miles from the X yeah.\n\nDelwath: So we're already what three miles from the city?\n\nUnknown: Yeah."
+        }
+      ],
+      "from": "p01",
+      "to": "p17",
+      "completion": "interrupted",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Pass through the army camp after leaving the north gate.",
+          "place": "p14"
+        },
+        {
+          "reading": "Curve west, then north, and pick up the boot-and-claw trail about two miles short of the fort.",
+          "place": "p18"
+        }
+      ],
+      "note": "Arrival at the fort is not established; the next movement follows the trail south."
+    },
+    {
+      "id": "l29",
+      "type": "movement",
+      "source": {
+        "startUid": "u3254",
+        "endUid": "u3273"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party follows the trail south, then east for about 200 yards, reaching the rubble-filled dell west of the city.",
+      "evidence": [
+        {
+          "startUid": "u3254",
+          "endUid": "u3273",
+          "quote": "Yeah although it'd be interesting to see where the other end of this trail goes to.\n\nDelwath: Yeah I think we should go south.\n\nSeeker: So it's going to intersect the road—\n\nWellby: And if it continues does it like go to some access point to the city or? Yeah. Or, yeah, I'm convinced. Without me— We know what’s out the north end.\n\nSeeker: If—\n\nDM: You follow the trail South for maybe a mile, two miles, two and a half miles, you can see the walls of the city now. You’re a bit to the west of the city, and there’s—still a bit west of the city and a bit north of the of the road, maybe maybe half mile from the city when the trail turns abruptly east. Continues for about 200 yards and then stops in—there's like a little—the terrain here, like, it's mostly plains. You're sort of to the, to the west of the city. There's not so much farms. The farms just run up and down the river pretty much exclusively where there's water and irrigation.\n\nDM: And, and you come to the trail sort of ends in a little bit of a like a, just a small, small dell where there’s a pile of rocks, like rubble kind of strewn on the south edge of this dell."
+        }
+      ],
+      "from": "p18",
+      "to": "p19",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Follow the lightly used trail south for a roughly narrated mile to two and a half miles, then turn east."
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "type": "observation",
+      "source": {
+        "startUid": "u3284",
+        "endUid": "u3296"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Looking through a gap among the boulders, the party sees a tunnel floor and a chain before entering.",
+      "evidence": [
+        {
+          "startUid": "u3284",
+          "endUid": "u3296",
+          "quote": "One is that these boulders have been moved within the past—have been rolled into place within the past 24 hours—\n\nDM: Like you can see the grass around here has been slightly flattened as they've been rolled and like sort of walking around when you come up to the, like, so there’s a, there’s a like a little bit of a dell in the ground, and those boulders on the south end, you sort of walk up to the top of the lip and there is a tiny gap like between the where the boulders are piled up in the top that's like you're looking down into a tunnel.\n\nDM: And then um you also see that—so, so you're sort of walking up here, you come up to the top, you're sort of looking down through the boulders and you can see what looks like the floor of the tunnel.\n\nDM: And as you're sort of poking around in there, trying to figure this all out um you can also see that there seems to be like you see a glint of like a chain, or something on the inside, like on the inside behind there's like clearly space behind these boulders. So it's like there's a tunnel behind the boulders and there's a chain sort of on the ground, behind the tunnel."
+        }
+      ],
+      "place": "p20",
+      "observerPlace": "p19",
+      "mode": "local"
+    },
+    {
+      "id": "l31",
+      "type": "observation",
+      "source": {
+        "startUid": "u3311",
+        "endUid": "u3325"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath’s summoned scout explores the tunnel and returns a report of a metal door.",
+      "evidence": [
+        {
+          "startUid": "u3311",
+          "endUid": "u3325",
+          "quote": "So I will summon shadow Hawk inside the tunnel.\n\nDM: Nice okay.\n\nDelwath: And I will send it as far as it can fly towards the city.\n\nDM: Okay ah—\n\nDelwath: 30 miles an hour, so it can go pretty far in and out. I mean, I want it to actually come back after a half hour, so it can—it can’t talk, but we could find a way to get it to tell us what it saw.\n\nDM: So it flies down the tunnel and it comes after some distance to a—\n\nUnknown: I'm.\n\nDM: Like a blank door that's a steel, a metal door.\n\nDM: It flies back out and like scratches a metal door on the ground."
+        }
+      ],
+      "place": "p20",
+      "observerPlace": "p19",
+      "mode": "remote",
+      "note": "Information comes from the shadow hawk’s physical scouting and scratched report, not shared vision through its eyes."
+    },
+    {
+      "id": "l32",
+      "type": "movement",
+      "source": {
+        "startUid": "u3351",
+        "endUid": "u3403"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After opening the tunnel roof, Wellby descends first and the party walks/crawls roughly 1,500 feet to the steel door.",
+      "evidence": [
+        {
+          "startUid": "u3351",
+          "endUid": "u3360",
+          "quote": "Okay, it takes you like a two minutes to blast a hole through the top of the tunnel.\n\nDM: And—\n\nUnknown: Climb down.\n\nKenzo: We all come down do we?\n\nDM: Oh, you—that's what I'm asking. Do you, are—\n\nWellby: 100% First one in.\n\nUnknown: Nice.\n\nSeeker: Go ahead, Wellby. Um—"
+        },
+        {
+          "startUid": "u3373",
+          "endUid": "u3386",
+          "quote": "No there's no nothing in the tunnel.\n\nDelwath: Did not see anything in the tunnel. That's all I meant, is we're not dropping through the tunnel onto—\n\nDM: No.\n\nDelwath: Let's go to the door yeah.\n\nDM: Yeah so that, so the booby trap is it's um like if it's basically just if the boulder is pulled, moved out, okay, the chain pulls a lever, and there’s like a, there’s a like a bolt, like a crossbow, that flies out and stabs you.\n\nDelwath: Let's go to the door.\n\nDM: But it’s easy to avoid.\n\nDM: Okay, you walk about 1,500 feet through this dirt passageway. At times you need to like get down and crawl, like there’s been parts that have been shored up.\n\nDM: But this is a you know, this is a crude excavation. It goes pretty deep like slopes down pretty steeply from here, and then it's just passing through the sort of the Earth."
+        },
+        {
+          "startUid": "u3400",
+          "endUid": "u3403",
+          "quote": "After you know 20 minutes walking through the tunnel um you come to the back of this—to this steel door."
+        }
+      ],
+      "from": "p19",
+      "to": "p20",
+      "completion": "arrived",
+      "mode": "climb, walk and crawl",
+      "distance": {
+        "value": 1500,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM’s tunnel length"
+      },
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated walk to the steel door"
+      }
+    },
+    {
+      "id": "l33",
+      "type": "observation",
+      "source": {
+        "startUid": "u3406",
+        "endUid": "u3438"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath uses Ghostly Gaze through the closed door to see the four-statue room and upward-curving exit passage.",
+      "evidence": [
+        {
+          "startUid": "u3406",
+          "endUid": "u3408",
+          "quote": "Ah, but let’s use my Ghostly Gaze to look through the door.\n\nDM: Okay, you can use your Ghostly Gaze."
+        },
+        {
+          "startUid": "u3412",
+          "endUid": "u3438",
+          "quote": "I just wanted to know what's on the other side of the door, do Ghostly Gaze. I need to stop shortly.\n\nDM: Okay, so—\n\nDelwath: But I could take three minutes to hear what they see.\n\nDM: Yeah if you want to open the door, you can open the door before we stop.\n\nWellby: Yeah absolutely.\n\nDelwath: Let's find out what's, on the other side first—on the other side, before we open it.\n\nDM: Is a 15-by-15-foot, um, stone room.\n\nDM: The the room is bare except that in each of the four corners of the room there is like a grotesque statue. Like um, on one corner there's a like a sort of bear with wings that’s standing and leering. In one corner there’s what looks like a sort of Notre Dame gargoyle type, like devil horns, like a long nose, clawed fingers like this out in front. In, in one corner there is a what almost looks like a like a goat head type thing, but with bat wings and then in the fourth corner there's another statue like this that has the head of a snake, and then the body of of a wolf like rearing up. There all seem to be looking at the center of the room. Statues made of stone.\n\nDM: And then there is a—directly opposite the door there is a passage way that leaves the room and curves upwards, and to the right.\n\nSeeker: Any arcane knowledge of the four creatures represented, because those are all pretty weird?\n\nDM: Make an Arcana check. I mean these, they don't seem to represent any real creatures um you know these are this is this this these look like they're sort of intentionally grotesque designs to you.\n\nSeeker: There's no mythology or occult belief associated with these things, sort of?\n\nDelwath: Does the door seem to be locked?\n\nDM: It is not locked.\n\nSeeker: I wouldn't even go through this.\n\nDelwath: No, we just looked.\n\nSeeker: Does the room have a floor?\n\nDM: Yeah."
+        }
+      ],
+      "place": "p21",
+      "observerPlace": "p20",
+      "mode": "remote"
+    },
+    {
+      "id": "l34",
+      "type": "presence",
+      "source": {
+        "startUid": "u3459",
+        "endUid": "u3462"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party remains at the tunnel door as Wellby opens it and the four statues animate. Entering the room is not established.",
+      "evidence": [
+        {
+          "startUid": "u3452",
+          "endUid": "u3462",
+          "quote": "Open the door, Wellby.\n\nWellby: Oh—\n\nUnknown: Yeah oh.\n\nWellby: [garbled].\n\nDelwath: Now for now—I'm kidding. Okay.\n\nUnknown: The door.\n\nDM: As you open the door—swings open down the passageway and the four statues come— come alive."
+        }
+      ],
+      "place": "p20"
+    }
+  ]
+}
