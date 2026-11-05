@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-10-08 - Dwarven Wizard Character Premise
 
 *[Editorial note: Cut 32 messages about vault and website tooling, climate-model workflow, and adventure-selection logistics.]*
