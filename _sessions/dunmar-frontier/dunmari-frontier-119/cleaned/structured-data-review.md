@@ -27,7 +27,11 @@ May 30–31, 1749 is YAML-only; the transcript gives neither a spoken civil date
 
 | Location | Present | Markers |
 | --- | --- | --- |
-| Vindristjarna → Bitterwine Oak — desert side → Emberwine portal hill → Red river and its bank → Auntie Mulberry’s cottage clearing | Party | l01–l03, l05, l07, l11 |
+| Vindristjarna | Party | l01 |
+| Bitterwine Oak — desert side | Party | l02–l03 |
+| Emberwine portal hill | Party | l03 |
+| Red river and its bank | Party | l05, l07 |
+| Auntie Mulberry’s cottage clearing | Party | l11 |
 | Auntie Mulberry’s cottage clearing → Auntie Mulberry’s kitchen → Auntie Mulberry’s cottage clearing | Wellby and Kenzo | l13 |
 
 | Observed location | Observer | From | Markers |
