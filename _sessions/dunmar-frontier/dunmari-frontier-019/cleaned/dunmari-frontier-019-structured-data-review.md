@@ -2,11 +2,12 @@
 
 ## Review flags
 
+- Review the Bas Udda date in t12 (u1026–u1031) and its consequences for t17–t21. The marker gives April 28. A separate timeline records an April 29 campaign arrival and a May 2 finish. Any change to the extraction belongs in human review.
 - Confirm the recipient identity for e008 (Kenzo’s monastery mentor, u0784–u0786): choose Lara or Rishi if known, or retain the unresolved candidates. Neither is silently selected.
 
 ## In-world time
 
-Working dates preserve the human decisions in the existing Session 19 timeline review: April 24 opening, April 25–26 preparations, April 27 departure, April 29 Bas Udda arrival after a full April 28 travel day, April 30 departure, and May 2 arrival at the masters’ house. The transcript says April 28 at t12 and compresses that first journey; its transcript-only time extraction reports a conflict with the YAML end, because that spoken date implies an April 30 or May 1 endpoint. The preserved human chronology decision already resolves this discrepancy for campaign use; it is not a new open review issue. The adopted second-day reading counts full days after the partial April 30 departure. At t19, the later late-morning description supersedes “evening.” All watches are approximate where no clock is spoken; the private mirror breakout is absent from the registered transcript.
+YAML supplies the year 1748 and a compatible April 24 opening. The DM schedules the departure for April 27 and names April 28 on arrival at Bas Udda (t05, t12). The village overnight puts departure on April 29. The canyon and stone house fall on the same “second day” of travel, April 30 if the partial departure day counts, or May 1 if the count starts the following morning. Both readings end before the YAML endpoint of May 2. The private mirror scene is absent from the transcript.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
@@ -15,13 +16,13 @@ Working dates preserve the human decisions in the existing Session 19 timeline r
 | April 25–26, 1748 | Open → dusk | mixed | The preparation montage ends with the quiet final evening before departure. | t04, t06 |
 | April 27, 1748 | Dawn | inferred | Early-morning errands precede Havdar’s first-light departure; everyone returns to camp. | t05, t07–t10 |
 | April 27, 1748 | Dusk | inferred | The long first riding day ends in camp; the travel pattern places camp after sunset. | t11 |
-| April 29, 1748 | Midday | mixed | A lunch short rest precedes arrival around midday; the postbattle break follows in the heat. | t12–t14 |
-| April 29, 1748 | Afternoon | stated | Body recovery is working efficiently by the middle of the afternoon. | t15 |
-| April 29, 1748 | Dusk | stated | The pyre and Amil’s funeral service are ready by sunset. | t16 |
-| April 30, 1748 | Morning | stated | The morning body check follows the village overnight; eight-hour long-rest credit applies retrospectively. | t17, t20 |
-| April 30, 1748 | Afternoon | stated | Leave Bas Udda after the midday heat; only the remaining afternoon is traveled. | t18 |
-| May 2, 1748 | Midday | inferred | Canyon approach is corrected to late morning, before the customary shade break. | t19 |
-| May 2, 1748 | Afternoon | stated | A few more hours of travel end at the stone house around 4–4:30 p.m. | t21 |
+| April 28, 1748 | Midday | mixed | The DM names April 28 as the party approaches Bas Udda around midday after its lunch stop. | t12–t14 |
+| April 28, 1748 | Afternoon | stated | Body recovery is working efficiently by the middle of the afternoon. | t15 |
+| April 28, 1748 | Dusk | stated | The pyre and Amil’s funeral service are ready by sunset. | t16 |
+| April 29, 1748 | Morning | stated | The morning body check follows the village overnight; eight-hour long-rest credit applies retrospectively. | t17, t20 |
+| April 29, 1748 | Afternoon | stated | Leave Bas Udda after the midday heat; only the remaining afternoon is traveled. | t18 |
+| During April 30–May 1, 1748 | Midday | inferred | Canyon approach is corrected to late morning, before the customary shade break. | t19 |
+| During April 30–May 1, 1748 | Afternoon | stated | A few more hours of travel end at the stone house around 4–4:30 p.m. | t21 |
 
 ## Locations
 
@@ -97,4 +98,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:05:04** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-019-transcript.md) · [Time Markers](dunmari-frontier-019-time-markers.json) · [Location Markers](dunmari-frontier-019-location-markers.json) · [Entity Map](dunmari-frontier-019-entity-map.json) · [Interactions](dunmari-frontier-019-interactions.json) · [Combat](dunmari-frontier-019-combat.json) · [Segments](dunmari-frontier-019-segments.json) · [Watch data](dunmari-frontier-019-time-watches.json) · [Preserved human chronology decisions](dunmari-frontier-019-timeline-review.json)
+Sources · [Transcript](dunmari-frontier-019-transcript.md) · [Time Markers](dunmari-frontier-019-time-markers.json) · [Location Markers](dunmari-frontier-019-location-markers.json) · [Entity Map](dunmari-frontier-019-entity-map.json) · [Interactions](dunmari-frontier-019-interactions.json) · [Combat](dunmari-frontier-019-combat.json) · [Segments](dunmari-frontier-019-segments.json) · [Watch data](dunmari-frontier-019-time-watches.json) · [Campaign chronology for comparison with t12 and t17–t21](dunmari-frontier-019-timeline-review.json)

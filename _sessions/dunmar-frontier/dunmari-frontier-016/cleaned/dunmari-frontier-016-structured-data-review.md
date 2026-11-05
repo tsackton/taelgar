@@ -4,14 +4,15 @@
 
 - Identify “Speaker” (e022) at u2268–u2269 before linking it to a vault entity; the transcript establishes a named companion receiving a pet, but no species or secure identity.
 - Confirm which deity “Runemaster” (e026) denotes at u2415–u2428 before linking or merging the identity; the extraction retains the spoken title without a guessed match.
+- Review the mirror’s disposition (e015, i021, u2095–u2118). The DM says the mirror is missing and later restores the disk. The inventory clarification cited in i021 says both were kept, with the silver and copper coins lost.
 
 ## In-world time
 
-Working dates are April 15–16, 1748 DR from the session YAML, compatible with the night-to-dawn transition and Vola’s one-day absence report. The dated Session 16 timeline agrees but does not independently verify those absolute dates. Opening dusk is a rough carry-forward from Session 15’s late-evening timeline and the uninterrupted Hralgar conversation (Session 15 u2292–u2298; Session 16 u0050–u0058). Short searches overlap where stated; the expired invisibility and Vola’s whole absence are not added again. The mirror’s historical scenes do not advance the adventure clock. The approach conversation is played retrospectively before the morning camp reunion. No completed closing short rest is established in this transcript.
+YAML supplies the dates April 15–16, 1748. The escape crosses from night into dawn, and Vola says the party was gone a day. In Session 15, twilight and about an hour of exploration precede the conversation with Hralgar (u0001–u0005, u1159, u2292–u2298). That conversation continues here under the stars. Short searches overlap where stated; the expired invisibility and Vola’s whole absence are not added again. The mirror’s historical scenes do not advance the adventure clock. The approach conversation is played retrospectively before the morning camp reunion. No completed closing short rest is established in this transcript.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
-| April 15, 1748 | Dusk | inferred | Session 15’s late evening carries into the tower conversation and short, partly overlapping searches. | t01–t11 |
+| April 15, 1748 | Dusk | inferred | About an hour after twilight in Session 15, Hralgar’s conversation continues here under the stars. | t01–t11 |
 | April 15–16, 1748 | Dusk → dawn | mixed | Escape begins at night; uncertain passage through the storm ends at directly narrated dawn. | t12–t13 |
 | April 16, 1748 | Morning | inferred | **Approach flashback** · Retrospective approach conversation precedes the breakfast-time reunion with Vola. | t15 |
 | April 16, 1748 | Morning | stated | Vola is packing breakfast; the departure follows while the morning is still young. | t14, t16–t17 |
@@ -52,7 +53,7 @@ Stars 1 · Supporting 4
 | Hralgar | star | Warns that his dreams become dangerous when lucidity fails; asks for his missing eyes and for news of his plight to spread. Briefly calms the storm. Kenzo’s meditation eases his burden but cannot free him; after escape his consciousness is out of reach. | e001 |
 | Iron sphere | supporting | Hralgar believes the iron sphere bound his spirit but doubts destroying it would help. Dislodging it provokes the steam and dust fight; pulling it down later injures the rope-pullers and leaves it inert and undamaged below the tower. | e004 |
 | On the Ordering of Giants | supporting | Delwath reads about powerful storm giants becoming storms, their interest in omens, and mountain versus underwater forms. Drankorian marginalia emphasize transformation; the book supplies no specific method for trapping or freeing Hralgar. | e008 |
-| Magic mirror | supporting | Shows earlier people opening the sealed bedchamber door, including the presumed Eudomes, but reveals no audible password. Its magic is spent, with possible later recharge. Recovered and retained: the protected October 16 human clarification keeps both this mirror and the Floating Disc Coin, while silver and copper coins are lost; i021 preserves the superseded spoken ruling. | e015 |
+| Magic mirror | supporting | Shows earlier people opening the sealed bedchamber, including the presumed Eudomes, but reveals no audible password. Its magic is spent and may recharge. After the storm the DM says the mirror is missing, then lets the party keep the disk. The mirror’s fate is flagged above. | e015 |
 | Vola | supporting | Confirms the party was gone about a day and plans to report Agata’s artifact gathering in Chardon. Describes the Society’s collection mission and an acceleration ordered three or four years earlier, while admitting limited knowledge. The party withholds the tower discoveries; both sides agree to send further news of Agata. | e018 |
 
 ## Combat
@@ -86,4 +87,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:05** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-016-transcript.md) · [Time Markers](dunmari-frontier-016-time-markers.json) · [Location Markers](dunmari-frontier-016-location-markers.json) · [Entity Map](dunmari-frontier-016-entity-map.json) · [Interactions](dunmari-frontier-016-interactions.json) · [Combat](dunmari-frontier-016-combat.json) · [Segments](dunmari-frontier-016-segments.json) · [Watch data](dunmari-frontier-016-time-watches.json) · [Session 15 dated timeline](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2015%20%28DuFr%29.md) · [Session 15 handoff](../../dunmari-frontier-015/cleaned/dunmari-frontier-015-transcript.md) · [Session 16 dated timeline](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%2016%20%28DuFr%29.md) · [Retained human inventory clarification](dunmari-frontier-016-review-decisions.json)
+Sources · [Transcript](dunmari-frontier-016-transcript.md) · [Time Markers](dunmari-frontier-016-time-markers.json) · [Location Markers](dunmari-frontier-016-location-markers.json) · [Entity Map](dunmari-frontier-016-entity-map.json) · [Interactions](dunmari-frontier-016-interactions.json) · [Combat](dunmari-frontier-016-combat.json) · [Segments](dunmari-frontier-016-segments.json) · [Watch data](dunmari-frontier-016-time-watches.json) · [Session 15 twilight, elapsed hour, and handoff](../../dunmari-frontier-015/cleaned/dunmari-frontier-015-transcript.md) · [Inventory clarification for comparison with i021](dunmari-frontier-016-review-decisions.json)

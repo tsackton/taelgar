@@ -7,7 +7,7 @@
 
 ## In-world time
 
-Working dates use the compatible YAML calendar, April 13–15, 1748. The transcript opens at sunset, crosses two completed nights, and ends with a sunset short rest; it independently establishes the two-day span, not absolute dates. The existing dated timeline agrees with this sequence but is not an independent date anchor. Overnight watches are inferred from eight-hour long rests ending in the morning; storm travel is cumulative, not added again for its nested intervals. The table’s “1230” is a real-world stopping time; the missing constellations do not establish a time jump.
+Working dates use the compatible YAML calendar, April 13–15, 1748. The transcript opens at sunset, crosses two completed nights, and ends with a sunset short rest; it independently establishes the two-day span, not absolute dates. Overnight watches are inferred from eight-hour long rests ending in the morning; storm travel is cumulative, not added again for its nested intervals. The table’s “1230” is a real-world stopping time; the missing constellations do not establish a time jump.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ Stars 1 · Supporting 4
 | Society of the Open Scroll | supporting | Vola describes its missions to recover old knowledge and artifacts, especially Drankorian or early Dunmari material; the party challenges its secrecy and motives. | e003 |
 | Great Library | supporting | Vola presents the Library as the Society’s parent institution, repository of dangerous knowledge, and possible source of information about Agata. She believes its leaders do not yet know about the plains’ attacks. | e004 |
 | Taster | supporting | Wellby reports Taster’s agreement to scout, but the rabbit becomes lost in the storm and flees into the darkness; its return is not established. | e015 |
-| Unseen intelligence behind the runes and tower voice | supporting | Ash runes compel Delwath to attack Seeker and press for a question. Delwath later reports a tower voice’s answer about desert power and revenge. Identified later as Hralgar; the runes–voice connection remains a party hypothesis. | e016 |
+| Unseen intelligence behind the runes and tower voice | supporting | Ash runes compel Delwath to attack Seeker. Delwath hears a voice in the tower speak of desert power and revenge. The party suspects a connection. The later Hralgar identification applies to the voice, while the source of the runes remains open. | e016 |
 
 ## Combat
 
@@ -81,4 +81,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:12** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-014-transcript.md) · [Time Markers](dunmari-frontier-014-time-markers.json) · [Location Markers](dunmari-frontier-014-location-markers.json) · [Entity Map](dunmari-frontier-014-entity-map.json) · [Interactions](dunmari-frontier-014-interactions.json) · [Combat](dunmari-frontier-014-combat.json) · [Segments](dunmari-frontier-014-segments.json) · [Watch data](dunmari-frontier-014-time-watches.json) · [Existing dated timeline review](dunmari-frontier-014-timeline-review.json)
+Sources · [Transcript](dunmari-frontier-014-transcript.md) · [Time Markers](dunmari-frontier-014-time-markers.json) · [Location Markers](dunmari-frontier-014-location-markers.json) · [Entity Map](dunmari-frontier-014-entity-map.json) · [Interactions](dunmari-frontier-014-interactions.json) · [Combat](dunmari-frontier-014-combat.json) · [Segments](dunmari-frontier-014-segments.json) · [Watch data](dunmari-frontier-014-time-watches.json)

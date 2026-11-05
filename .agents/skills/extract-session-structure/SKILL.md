@@ -14,7 +14,7 @@ Use the installed component skills as the owners of inclusion rules, schemas, ev
 - [Classification](../classify-transcript-segments/SKILL.md)
 - [Combat](../extract-combat/SKILL.md)
 
-Read these skills and their required format references before extraction. Keep all six JSON files independently usable. A full run ends with two derived products, `cleaned/<stem>-structured-data-review.md` and `cleaned/<stem>-time-watches.json`.
+Read these skills and their required format references before extraction. Keep all six JSON files independently usable. Only human review can resolve conflicting evidence by changing the owning structured JSON. The agent may infer from compatible evidence, preserve an unresolved reading, and flag a conflict. Follow the same boundary when rebuilding a review. A full run ends with two derived products, `cleaned/<stem>-structured-data-review.md` and `cleaned/<stem>-time-watches.json`.
 
 **Review only.** When asked to summarize existing structured data or refresh the review, go directly to [Build the session review](references/session-review.md). Use the current six extractions, including their retained evidence and interaction text; check relevant transcript passages only where needed. A complete transcript reread is not required. Report missing or stale inputs by component.
 
@@ -39,7 +39,7 @@ Temporary working notes can carry unresolved references, open exchanges, split-p
 
 ## Complete the dependent work
 
-After the shared read, resolve entity identities with vault evidence and finalize importance and exclusions. Preserve accepted human decisions. Finalize classification, time relationships and YAML assessment, and location references. Assess session-time coverage regardless of narration order; retrospective session events are not automatically excluded. Do not use YAML end dates to fill missing elapsed time or label missing coverage a contradiction.
+After the shared read, resolve entity identities with vault evidence and finalize importance and exclusions. Preserve decisions already applied through human review in the owning extraction. A separate file reporting a decision cannot authorize an agent to apply it. Finalize classification, time relationships and YAML assessment, and location references. Assess session-time coverage regardless of narration order; retrospective session events are not automatically excluded. Do not use YAML end dates to fill missing elapsed time or label missing coverage a contradiction.
 
 After classification is finalized, perform the combat skill's **mandatory dedicated second pass**: reopen and read the original polished text of every labeled combat segment in full, even when a shared-read action draft exists. Use the classification's UID ranges as the worklist, not candidate action citations or keyword matches. Apply the combat format's detail and sequence checks while reconciling the draft, including enemy turns, saving throws, advantage/disadvantage, concrete benefits, and retrospectively corrected reactions. Adjacent source may settle boundaries. Do not substitute spot checks or a review of the draft JSON for this source pass. Preserve the continuous ordered-turn encounter and prioritize correct actions over inferred round placement.
 

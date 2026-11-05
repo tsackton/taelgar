@@ -9,7 +9,7 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-transcript.md",
     "sha256": "a6d67e25277b5556d148a4aa68cd8e7a9fbd09381e6a04a9de7193dedabb5342"
   },
-  "dateAssessment": "Working dates use the compatible YAML calendar, April 13–15, 1748. The transcript opens at sunset, crosses two completed nights, and ends with a sunset short rest; it independently establishes the two-day span, not absolute dates. The existing dated timeline agrees with this sequence but is not an independent date anchor. Overnight watches are inferred from eight-hour long rests ending in the morning; storm travel is cumulative, not added again for its nested intervals. The table’s “1230” is a real-world stopping time; the missing constellations do not establish a time jump.",
+  "dateAssessment": "Working dates use the compatible YAML calendar, April 13–15, 1748. The transcript opens at sunset, crosses two completed nights, and ends with a sunset short rest; it independently establishes the two-day span, not absolute dates. Overnight watches are inferred from eight-hour long rests ending in the morning; storm travel is cumulative, not added again for its nested intervals. The table’s “1230” is a real-world stopping time; the missing constellations do not establish a time jump.",
   "watches": [
     {
       "day": "April 13, 1748",
@@ -101,13 +101,6 @@
       ],
       "startDate": "1748-04-15",
       "endDate": "1748-04-15"
-    }
-  ],
-  "contextSources": [
-    {
-      "label": "Existing dated timeline review",
-      "path": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-timeline-review.json",
-      "sha256": "2e8cfbe55bdc83e6728d9076bc740a7649bb14e71f9702d5d6696b8ea9e20232"
     }
   ]
 }
