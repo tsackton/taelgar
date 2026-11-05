@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-10-23 - Dwarven Kingdoms Void Mind and Elves
 
 *[Editorial note: Cut 41 messages about website and vault tooling and review coordination.]*

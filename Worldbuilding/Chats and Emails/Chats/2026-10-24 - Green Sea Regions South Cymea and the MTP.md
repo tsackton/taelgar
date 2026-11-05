@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-10-24 - Green Sea Regions South Cymea and the MTP
 
 *[Editorial note: Cut 23 messages about website and vault tooling and personal logistics.]*

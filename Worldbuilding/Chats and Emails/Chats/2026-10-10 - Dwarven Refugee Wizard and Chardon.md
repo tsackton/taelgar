@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-10-10 - Dwarven Refugee Wizard and Chardon
 
 [2026-10-10 05:09 PM] Deciusmus: Basic idea for a character....

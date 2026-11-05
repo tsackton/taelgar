@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-10-22 - Dwarven History and the Sundering
 
 [2026-10-22 07:39 AM] rsulfuratus: any concerns / comments on any of this? in the new dwarves note:
