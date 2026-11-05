@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-045",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-session.yaml",
+    "sessionYamlSha256": "59b2b90f92eb7c97bc9278997420394282dec81fcfa9f7395e938e97d9fd87ba",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-transcript.md",
+    "transcriptSha256": "3a87bce054ff6b78c4cb4408465dec1ecb59fda824d6b1764e06ff5148cbc5e8",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-segments.json",
+      "sha256": "74e581765301bdca98db91a5f8e79ffd26a6c68ffd6bcddb095fca6af01c68c5",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Poison troll beside the smoldering wyvern nest",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "While invisible and hidden at a distance, readies an arrow shot if the plan goes badly.",
+              "evidence": [
+                {
+                  "startUid": "u0268",
+                  "endUid": "u0270"
+                },
+                {
+                  "startUid": "u0392",
+                  "endUid": "u0402"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Silently presents the visible mirror while remaining invisible himself. The troll makes its initial trapping save.",
+              "evidence": [
+                {
+                  "startUid": "u0275",
+                  "endUid": "u0292"
+                },
+                {
+                  "startUid": "u0305",
+                  "endUid": "u0305"
+                },
+                {
+                  "startUid": "u0392",
+                  "endUid": "u0402"
+                }
+              ]
+            },
+            {
+              "actor": "Poison troll",
+              "kind": "turn",
+              "summary": "Moves toward the sound and visible mirror, resists its pull, and swings its long stick at the mirror. Kenzo interposes; the resolved melee hit deals him 16 bludgeoning damage. The troll steps forward and the stick has 10-foot reach.",
+              "evidence": [
+                {
+                  "startUid": "u0275",
+                  "endUid": "u0292"
+                },
+                {
+                  "startUid": "u0373",
+                  "endUid": "u0390"
+                },
+                {
+                  "startUid": "u0392",
+                  "endUid": "u0406"
+                }
+              ],
+              "note": "The attack is stated as 25. Invisibility disadvantage is raised at u0378–u0385, but no separate reroll or revised attack value is resolved before the final damage narration."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "event",
+              "summary": "Spins his body between the stick and the mirror, protecting the mirror while taking the hit; the mirror now faces the opposite way.",
+              "evidence": [
+                {
+                  "startUid": "u0330",
+                  "endUid": "u0332"
+                },
+                {
+                  "startUid": "u0359",
+                  "endUid": "u0372"
+                },
+                {
+                  "startUid": "u0392",
+                  "endUid": "u0402"
+                },
+                {
+                  "startUid": "u0416",
+                  "endUid": "u0419"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Releases the readied arrow with advantage, becomes visible and hits the troll. A jet of poison erupts from the wound but does not reach Kenzo ten feet away. Wellby later specifies four charges from the fire arrow and an additional save at the beginning of the troll’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0412",
+                  "endUid": "u0415"
+                },
+                {
+                  "startUid": "u0428",
+                  "endUid": "u0440"
+                },
+                {
+                  "startUid": "u0490",
+                  "endUid": "u0492"
+                }
+              ],
+              "note": "The damaged wording at u0490 supplies neither a usable damage total nor the saving-throw ability. No later next-turn save is resolved before the capture."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Fly, ending the recon group’s invisibility, and rises 60 feet; Kenzo’s subsequent flight confirms that he also benefits. Delwath blows the recovered Horn of Silent Alarm for Riswynn, but she and Seeker are still at the mines about half a mile away, beyond its effective reach here.",
+              "evidence": [
+                {
+                  "startUid": "u0441",
+                  "endUid": "u0466"
+                },
+                {
+                  "startUid": "u0478",
+                  "endUid": "u0484"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "With Wellby’s regular turn temporarily deferred, flies about 30 feet above the troll, holds the mirror toward it and calls for it to look up.",
+              "evidence": [
+                {
+                  "startUid": "u0465",
+                  "endUid": "u0487"
+                },
+                {
+                  "startUid": "u0494",
+                  "endUid": "u0494"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Continues shooting while the troll remains outside the mirror; the DM describes another arrow sticking out as Kenzo lifts the mirror. No additional damage total is stated.",
+              "evidence": [
+                {
+                  "startUid": "u0488",
+                  "endUid": "u0494"
+                }
+              ],
+              "note": "The second embedded arrow is narrated, but a separate attack roll is not supplied."
+            },
+            {
+              "actor": "Poison troll / Mirror of Soul Trapping",
+              "kind": "event",
+              "summary": "The confused troll looks up and prepares to hurl its stick, then vanishes into the mirror before resolving the throw. Kenzo speaks the command word to turn the mirror off.",
+              "evidence": [
+                {
+                  "startUid": "u0494",
+                  "endUid": "u0500"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The troll is trapped alive in the mirror, and Kenzo deactivates it. No stick throw or further troll turn resolves.",
+        "evidence": [
+          {
+            "startUid": "u0494",
+            "endUid": "u0500"
+          }
+        ]
+      },
+      "note": "The surprise opening and readied-action dispute are reconciled by the DM’s u0392–u0402 narration. Kenzo’s interposition is an adjudicated event; the transcript does not explicitly call it a mechanical reaction."
+    }
+  ]
+}

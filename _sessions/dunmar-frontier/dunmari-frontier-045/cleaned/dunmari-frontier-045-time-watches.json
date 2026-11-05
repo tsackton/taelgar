@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-time-markers.json",
+    "sha256": "c0373bc86bcbbc03d25f3b611524c1943ad55e06087fa829521562586be7de34"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-transcript.md",
+    "sha256": "3a87bce054ff6b78c4cb4408465dec1ecb59fda824d6b1764e06ff5148cbc5e8"
+  },
+  "dateAssessment": "Working dates use the YAML calendar (July 23–August 8, 1748) and the dated Session 45 (DuFr) record: Vandar search July 24, Padma’s waystation July 26, diamond examination August 1, and Darba arrival August 8. The transcript itself states early August, about two in the afternoon at the Vandar return, two travel days to the waystation, and about ten more to Darba. It does not independently establish every day in the recorded span; the time extraction remains compatible, with an incomplete boundary total. Historical scenes within the diamond vision do not extend that span. The opening search is estimated in midday from the nearby afternoon reunion; it is not a continuous watch inherited from session 44, whose closing nighttime confrontation is separated by events summarized only in the dated record.",
+  "watches": [
+    {
+      "day": "July 24, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Half-hour temple search precedes the afternoon reunion; midday is estimated.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-07-24",
+      "endDate": "1748-07-24",
+      "sourceRanges": [
+        [
+          "u0602",
+          "u0610"
+        ]
+      ]
+    },
+    {
+      "day": "July 24, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Return about 2 p.m.; the remainder of the day is reserved for rest, exploration and limited travel.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1748-07-24",
+      "endDate": "1748-07-24"
+    },
+    {
+      "day": "July 25–26, 1748",
+      "startWatch": null,
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Two travel days end at the stockaded waystation near sunset.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1748-07-25",
+      "endDate": "1748-07-26"
+    },
+    {
+      "day": "August 1, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Appraisal is placed in the morning; the ownership vision follows, then fades.",
+      "markers": [
+        "t05",
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-08-01",
+      "endDate": "1748-08-01",
+      "scope": "Present-day examination; the historical images are a separate narrative frame."
+    },
+    {
+      "day": "August 8, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "About ten days from the inn; a few hours of coastal approach end in late afternoon.",
+      "markers": [
+        "t08",
+        "t09"
+      ],
+      "startDate": "1748-08-08",
+      "endDate": "1748-08-08"
+    },
+    {
+      "day": "August 8, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Evening traffic reaches the gates; closing narration carries the party through.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-08-08",
+      "endDate": "1748-08-08"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated session record and Vandar identification",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 45 (DuFr).md",
+      "sha256": "5e3205117a76555d93c97dbb187b256c34899ad330e18e5ec3ca0051ca6846c5"
+    },
+    {
+      "label": "Dated diamond-vision record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Extravagant Diamond Vision.md",
+      "sha256": "bc3c8ab73fc08eee22c93a88b78c6b95d3ec5b7faf215bc67ef35b9702785b4e"
+    }
+  ]
+}
