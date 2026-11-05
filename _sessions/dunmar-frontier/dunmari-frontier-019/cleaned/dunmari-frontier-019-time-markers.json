@@ -1,0 +1,661 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-019",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+    "sessionYamlSha256": "ffc202d12600498d5220ac9a02f0c0c1306ef026f9c718f8585075cd8b66e023",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-transcript.md",
+    "transcriptSha256": "25d5cddc862dbcafdb869494f751b26e8a80e356383981ae674fa35fca1b09d2",
+    "yamlDates": {
+      "start": "1748-04-24",
+      "end": "1748-05-02"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0316",
+        "endUid": "u0322"
+      },
+      "reading": "Play opens in early evening at the Karawa camp after the afternoon conversations.",
+      "evidence": [
+        {
+          "startUid": "u0316",
+          "endUid": "u0322",
+          "quote": "We'll pick up in the early evening, as you are sitting together in the in your small camp in Karawa"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "early evening"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0328",
+        "endUid": "u0332"
+      },
+      "reading": "The camp conversation continues as the sun begins to set.",
+      "evidence": [
+        {
+          "startUid": "u0328",
+          "endUid": "u0332",
+          "quote": "as you sit and chat with your companions as the sun begins to set"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0661",
+        "endUid": "u0669"
+      },
+      "reading": "Havdar visits while the party gathers its belongings the next morning.",
+      "evidence": [
+        {
+          "startUid": "u0661",
+          "endUid": "u0669",
+          "quote": "while you're kind of gathering up your stuff the next morning, Havdar comes over"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t02"
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0772",
+        "endUid": "u0778"
+      },
+      "reading": "The next couple of days of preparations are compressed; the later “few days later” resumes this same interval.",
+      "evidence": [
+        {
+          "startUid": "u0772",
+          "endUid": "u0778",
+          "quote": "over the course of the next couple of days"
+        },
+        {
+          "startUid": "u0787",
+          "endUid": "u0789",
+          "quote": "a few days later"
+        }
+      ],
+      "duration": {
+        "text": "a couple of days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Accepted preparation montage; later resumption is not additional downtime."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0803",
+        "endUid": "u0804"
+      },
+      "reading": "Kenzo leaves alone to check the mirror early on departure morning. Havdar previously scheduled this departure for April 27.",
+      "evidence": [
+        {
+          "startUid": "u0803",
+          "endUid": "u0803",
+          "quote": "the last morning, just before you're getting ready to go"
+        },
+        {
+          "startUid": "u0804",
+          "endUid": "u0804",
+          "quote": "wake up early"
+        },
+        {
+          "startUid": "u0733",
+          "endUid": "u0738",
+          "quote": "morning of April 27"
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Morning explicitly established; April 27 inherited from Havdar’s departure appointment, not a fresh spoken arrival date.",
+        "partOfDay": "early morning",
+        "date": {
+          "month": 4,
+          "day": 27
+        }
+      },
+      "completion": "begun"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0805",
+        "endUid": "u0809"
+      },
+      "reading": "Narration backs up to the quiet final evening of preparations, then the party settles in for its final night before departure.",
+      "evidence": [
+        {
+          "startUid": "u0805",
+          "endUid": "u0809",
+          "quote": "after that couple of busy days of getting organized, your last evening is sort of quiet"
+        },
+        {
+          "startUid": "u0816",
+          "endUid": "u0825",
+          "quote": "your last night, then, you all sort of you know you settle in, prepare to rise early in the morning"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "evening",
+        "relative": {
+          "relation": "before",
+          "reference": "t05",
+          "anchor": "Evening before the departure morning."
+        }
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0828",
+        "endUid": "u0830"
+      },
+      "reading": "Narration returns to early departure morning as Kenzo slips off and the others organize themselves.",
+      "evidence": [
+        {
+          "startUid": "u0828",
+          "endUid": "u0830",
+          "quote": "Early morning, Kenzo slips off as the rest of you are getting organized."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "early morning"
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t05"
+        }
+      ],
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0937",
+        "endUid": "u0938"
+      },
+      "reading": "Kenzo returns while the others are packing for departure; no elapsed duration or private-scene contents are recorded.",
+      "evidence": [
+        {
+          "startUid": "u0937",
+          "endUid": "u0938",
+          "quote": "DM: So Kenzo returns to camp as the rest of you are packing up, getting waiting for Havdar and his troop to get ready to head out."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Continuation of the departure-morning frame at t07.",
+        "partOfDay": "early morning"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t07"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0945",
+        "endUid": "u0950"
+      },
+      "reading": "Departure-morning errands are inserted retrospectively: Delwath and Wellby visit Tharandros while Kenzo is away; Seeker looks into the temple stone.",
+      "evidence": [
+        {
+          "startUid": "u0945",
+          "endUid": "u0950",
+          "quote": "when he wakes up"
+        },
+        {
+          "startUid": "u0954",
+          "endUid": "u0955",
+          "quote": "DM: So while Kenzo’s off doing something, Delwath wanders off to speak with Tharandros, and Wellby follows. And Seeker takes one last— what are you using your your Stone Sight, or or are you just like looking?"
+        },
+        {
+          "startUid": "u0956",
+          "endUid": "u0958",
+          "quote": "We’re about to travel today, so I will do it again today"
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Wellby",
+        "Seeker"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "early morning",
+        "relative": {
+          "relation": "same_time",
+          "reference": "t05"
+        }
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0989",
+        "endUid": "u0989"
+      },
+      "reading": "Everyone returns from the last-minute errands and the shared departure frame resumes.",
+      "evidence": [
+        {
+          "startUid": "u0989",
+          "endUid": "u0989",
+          "quote": "DM: So everyone returns to camp after their last-minute missions."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Reunion following the simultaneous departure-morning errands.",
+        "partOfDay": "early morning"
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1005",
+        "endUid": "u1016"
+      },
+      "reading": "The party rides for a long first day and camps near Bas Udda. The stated travel pattern places camp after sunset.",
+      "evidence": [
+        {
+          "startUid": "u1005",
+          "endUid": "u1016",
+          "quote": "all through the long first day"
+        },
+        {
+          "startUid": "u1017",
+          "endUid": "u1025",
+          "quote": "The first day you make camp"
+        },
+        {
+          "startUid": "u1032",
+          "endUid": "u1039",
+          "quote": "continue to travel past sunset, making camp"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "One narrated travel day, not 24 hours of continuous riding."
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "The narration describes the usual travel pattern including camp after sunset.",
+        "partOfDay": "after sunset"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1026",
+        "endUid": "u1031"
+      },
+      "reading": "Travel resumes the next morning, called April 28; the party approaches Bas Udda after lunch. Arrival is described as midday and also about 11, so retain a broad late-morning/midday anchor.",
+      "evidence": [
+        {
+          "startUid": "u1026",
+          "endUid": "u1031",
+          "quote": "DM: The next morning, so this would be— let me make sure I'm keeping track of time here— so this would be so April 28. You approach around mid day after lunch, after just a quick break for some food and a short rest and to water the horses."
+        },
+        {
+          "startUid": "u1032",
+          "endUid": "u1039",
+          "quote": "you arrive at Bas Udda just in that hours journey after lunch"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Explicit spoken April 28; arrival wording varies between midday and the post-lunch hour ending about 11.",
+        "partOfDay": "late morning / midday",
+        "date": {
+          "month": 4,
+          "day": 28
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1026",
+        "endUid": "u1031"
+      },
+      "reading": "The food-and-horse-watering break before approaching Bas Udda includes a short rest, not another day of travel.",
+      "evidence": [
+        {
+          "startUid": "u1026",
+          "endUid": "u1031",
+          "quote": "after just a quick break for some food and a short rest and to water the horses"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention."
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "before midday arrival",
+        "relative": {
+          "relation": "before",
+          "reference": "t12"
+        }
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1844",
+        "endUid": "u1854"
+      },
+      "reading": "After the vulture fight, everyone breaks during the most intense midday heat.",
+      "evidence": [
+        {
+          "startUid": "u1844",
+          "endUid": "u1854",
+          "quote": "everybody takes a break after the battle in and like most intense heat of the, of the day of the sun"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "midday"
+      }
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1844",
+        "endUid": "u1854"
+      },
+      "reading": "By the middle of the afternoon, the party and Havdar’s troops are recovering bodies efficiently.",
+      "evidence": [
+        {
+          "startUid": "u1844",
+          "endUid": "u1854",
+          "quote": "by you know the middle of the afternoon, as it starts to cool down a bit"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "middle of the afternoon"
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1856",
+        "endUid": "u1862"
+      },
+      "reading": "By evening the pyre is ready and Amil leads the funeral service at sunset.",
+      "evidence": [
+        {
+          "startUid": "u1856",
+          "endUid": "u1862",
+          "quote": "by by evening"
+        },
+        {
+          "startUid": "u1856",
+          "endUid": "u1862",
+          "quote": "prayer right with the sun setting"
+        },
+        {
+          "startUid": "u1871",
+          "endUid": "u1875",
+          "quote": "saying some prayers and and doing a little bit of a service as the body is burning"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2040",
+        "endUid": "u2042"
+      },
+      "reading": "The next morning the party helps Amil make a final check for bodies before leaving Bas Udda.",
+      "evidence": [
+        {
+          "startUid": "u2040",
+          "endUid": "u2042",
+          "quote": "next morning you spend a little bit of time with him"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "morning"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2050",
+        "endUid": "u2055"
+      },
+      "reading": "The party leaves Bas Udda after the midday heat, traveling that afternoon. The day-and-a-half estimate and “two afternoons from now” are forecasts, not exact elapsed durations.",
+      "evidence": [
+        {
+          "startUid": "u2050",
+          "endUid": "u2055",
+          "quote": "DM: And he will take them to his masters, who will know what to do with them as well. So so as you leave, you actually leave with you know, a fairly heavily loaded set of horses. I'm—after the the the heat of the midday sun has passed, you're hoping to get a little bit of travel in in the in the afternoon, and then it's probably a solid day and a half of travel there. So you'll hope to arrive two afternoons from now. The rest of this afternoon is…"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "afternoon"
+      },
+      "completion": "begun"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u2057",
+        "endUid": "u2060"
+      },
+      "reading": "The travel montage reaches a canyon on the “second day”; the initial “evening” is corrected to late morning before the shade break. Whether the partial departure day is counted is not explicit.",
+      "evidence": [
+        {
+          "startUid": "u2057",
+          "endUid": "u2060",
+          "quote": "in the evening of the second day"
+        },
+        {
+          "startUid": "u2102",
+          "endUid": "u2103",
+          "quote": "this is like probably like late morning, like just before you would normally take a break"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Later direct correction at u2102–u2103 supersedes evening.",
+        "partOfDay": "late morning"
+      },
+      "duration": {
+        "text": "to the second travel day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "The partial departure afternoon makes day-counting ambiguous."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2079",
+        "endUid": "u2081"
+      },
+      "reading": "Long-rest benefits are credited retrospectively to the night already spent in Bas Udda, before t17; this is not an extra rest in the canyon.",
+      "evidence": [
+        {
+          "startUid": "u2079",
+          "endUid": "u2079",
+          "quote": "Delwath: It's been to it, we spent the night in the village, right?"
+        },
+        {
+          "startUid": "u2080",
+          "endUid": "u2081",
+          "quote": "DM: Yeah yeah. So if any of you took damage or used spells, take a long rest to get your abilities back."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention applied to the completed village overnight."
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "relative": {
+          "relation": "before",
+          "reference": "t17",
+          "anchor": "Overnight in Bas Udda before the final morning check."
+        }
+      }
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u3169",
+        "endUid": "u3178"
+      },
+      "reading": "Continuing that second travel day, the party travels a few afternoon hours and reaches the stone house around 4–4:30 p.m.",
+      "evidence": [
+        {
+          "startUid": "u3169",
+          "endUid": "u3178",
+          "quote": "now in the afternoon of your second day of travel after leaving Bas Udda"
+        },
+        {
+          "startUid": "u3169",
+          "endUid": "u3178",
+          "quote": "after about a you know a few hours' travel, by four, 4:30 in the afternoon"
+        }
+      ],
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated afternoon travel to the house."
+      },
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Lower end of the approximate arrival clock range.",
+          "clock": "16:00"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Upper end of the approximate arrival clock range.",
+          "clock": "16:30"
+        }
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day.",
+        "partOfDay": "afternoon"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "April 27 is the scheduled departure and April 28 is the spoken Bas Udda approach date; the transcript does not state a year, opening date, or final arrival date. YAML supplies 1748-04-24 through 1748-05-02.",
+    "expectedDateBoundaries": 8,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t03",
+      "t04",
+      "t05",
+      "t11",
+      "t12",
+      "t17",
+      "t18",
+      "t19",
+      "t21"
+    ],
+    "explanation": "Taking the spoken April 28 Bas Udda arrival literally puts the next-morning departure on April 29 and the second travel-day arrival on April 30 or May 1, depending on whether the partial departure day counts. Neither supported reading reaches the YAML end of May 2. The exact boundary total remains ambiguous. The existing human chronology decision resolves this for campaign use by adopting April 29 at Bas Udda, April 30 departure and May 2 arrival; the review preserves that correction without changing transcript evidence."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t12",
+        "t17",
+        "t18",
+        "t19",
+        "t21"
+      ],
+      "reading": "The final second-travel-day arrival depends on whether the partial departure afternoon is counted, before applying the separately adopted human chronology correction.",
+      "alternatives": [
+        {
+          "reading": "Count the partial departure day as day one: April 30, conditional on spoken April 28 arrival and next-morning April 29 departure.",
+          "date": "1748-04-30"
+        },
+        {
+          "reading": "Count two travel days after the partial departure afternoon: May 1, conditional on spoken April 28 arrival and April 29 departure.",
+          "date": "1748-05-01"
+        }
+      ]
+    }
+  ]
+}

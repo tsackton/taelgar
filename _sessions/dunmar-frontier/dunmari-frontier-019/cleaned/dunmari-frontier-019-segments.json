@@ -1,0 +1,158 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-019",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+    "sessionYamlSha256": "ffc202d12600498d5220ac9a02f0c0c1306ef026f9c718f8585075cd8b66e023",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-transcript.md",
+    "transcriptSha256": "25d5cddc862dbcafdb869494f751b26e8a80e356383981ae674fa35fca1b09d2"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0194"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0195",
+        "endUid": "u0213"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0214",
+        "endUid": "u0264"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0315"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0316",
+        "endUid": "u0739"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0740",
+        "endUid": "u0770"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0771",
+        "endUid": "u0831"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0832",
+        "endUid": "u0836"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0837",
+        "endUid": "u0936"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0937",
+        "endUid": "u1219"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1220",
+        "endUid": "u1510"
+      },
+      "category": "combat",
+      "note": "Initiative begins here; the immediately preceding missed Eldritch Blast and diving vultures precipitate the encounter."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1511",
+        "endUid": "u1731"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1732",
+        "endUid": "u1737"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1738",
+        "endUid": "u2247"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2248",
+        "endUid": "u3121"
+      },
+      "category": "combat",
+      "note": "The resolved repeated movement cycle of the pursuit precedes the initiative roll; the chase and ensuing fight form one continuous ordered encounter."
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u3122",
+        "endUid": "u3190"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u3191",
+        "endUid": "u3210"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u3211",
+        "endUid": "u3232"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
