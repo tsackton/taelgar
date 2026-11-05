@@ -1,0 +1,230 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-018",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-session.yaml",
+    "sessionYamlSha256": "b19ef55cfd16d6a6f6902d353f4e7384694811cca9cbe141f990f47e5fc8b0ef",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-transcript.md",
+    "transcriptSha256": "6bcaa0fb42f5eca243f5e1fde1ea17952cea879ad85cb3744e293e925b2f4f17",
+    "yamlDates": {
+      "start": "1748-04-24",
+      "end": "1748-04-24"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0008"
+      },
+      "reading": "Opening temple meeting follows the party’s arrival earlier this morning; the recap does not establish the meeting’s clock.",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "arrival in Karawa earlier this morning"
+        },
+        "precision": "approximate",
+        "basis": "Opening recap places the arrival earlier today."
+      },
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0008",
+          "quote": "Earlier this morning you all reached Karawa after a week's journey across the plains, finding the town in shambles."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0589",
+        "endUid": "u0608"
+      },
+      "reading": "The current meeting is on the 24th; the earlier demon battle is corrected to eleven days ago, not seven.",
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 4,
+          "day": 24
+        },
+        "precision": "exact",
+        "basis": "DM explicitly says the 24th; month and year come from the session YAML."
+      },
+      "evidence": [
+        {
+          "startUid": "u0589",
+          "endUid": "u0589",
+          "quote": "DM: Wait, when did you kill this demon?"
+        },
+        {
+          "startUid": "u0590",
+          "endUid": "u0591",
+          "quote": "Delwath: It was about seven nights ago."
+        },
+        {
+          "startUid": "u0592",
+          "endUid": "u0594",
+          "quote": "DM: Is like, yeah, more like 10 because you spend a few nights in the—you spend a few nights in the—in the tower."
+        },
+        {
+          "startUid": "u0598",
+          "endUid": "u0598",
+          "quote": "Delwath: On the 13th."
+        },
+        {
+          "startUid": "u0599",
+          "endUid": "u0599",
+          "quote": "DM: And it's now the 24th."
+        },
+        {
+          "startUid": "u0601",
+          "endUid": "u0608",
+          "quote": "So 11 days 11 days ago, yeah."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1294",
+        "endUid": "u1309"
+      },
+      "reading": "Three checks retrospectively resolve Wellby’s axe-beak training over the already completed week of southward travel; this does not advance the current Karawa scene.",
+      "actors": [
+        "Wellby"
+      ],
+      "context": "flashback",
+      "duration": {
+        "value": 7,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM resolves training over the week already spent traveling south; not seven additional days."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1294",
+          "endUid": "u1295",
+          "quote": "DM: I want to lie down... Reminds me, I'm... Schwartz can you can you do like three Animal Handling checks, just to represent the training of—of what was the axe beak's name?"
+        },
+        {
+          "startUid": "u1299",
+          "endUid": "u1301",
+          "quote": "DM: Sensible. So over the over the week that you, you know were traveling south, you've..."
+        },
+        {
+          "startUid": "u1303",
+          "endUid": "u1307",
+          "quote": "DM: Okay, you've got your axe beak trained well enough to eat out of your hand and come when you call, but still a little bit skittish about you riding it. So most of the journey you've been sort of walking. It'll follow you very happily. It's probably going to still require a little bit more taming and familiarity before you can ride it in comfort, but in a pinch, you can jump on that and and run off, and it won't it won't toss you."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1310",
+        "endUid": "u1310"
+      },
+      "reading": "Narration returns to current Karawa activity, with Delwath speaking to Havdar, after resolving training during the earlier journey.",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t02"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1310",
+          "endUid": "u1310",
+          "quote": "DM: So, so while Delwath is speaking to Havdar, what does anybody else...?"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1429",
+        "endUid": "u1431"
+      },
+      "reading": "The approach to the centaur camp takes place while it is bright outside; no precise watch is established.",
+      "time": {
+        "partOfDay": "daylight",
+        "precision": "approximate",
+        "basis": "Seeker describes the accepted outdoor approach as bright."
+      },
+      "evidence": [
+        {
+          "startUid": "u1429",
+          "endUid": "u1429",
+          "quote": "DM: So, as you begin to approach the centaur camp..."
+        },
+        {
+          "startUid": "u1430",
+          "endUid": "u1431",
+          "quote": "Seeker: It's kind of bright out, so I'll wear my goggles."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2615",
+        "endUid": "u2617"
+      },
+      "reading": "Later in the evening Kenzo slips away from the others’ preparations to speak privately with Tharandros.",
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Kenzo proposes later in the evening and the DM accepts the transition."
+      },
+      "evidence": [
+        {
+          "startUid": "u2615",
+          "endUid": "u2615",
+          "quote": "Kenzo: So, presumably you know later in the evening... You know."
+        },
+        {
+          "startUid": "u2616",
+          "endUid": "u2617",
+          "quote": "DM: Yeah, just like they go off to organize stuff, and you kind of slip away, and we'll pick up my."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "The current day is explicitly the 24th; April and DR 1748 are inherited from YAML. Retrospective training does not independently date its week.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05"
+    ],
+    "explanation": "Current Karawa play proceeds from a same-day meeting to evening with no overnight. The later training checks resolve a prior travel week; whether that retrospective resolution extends the extracted adventure interval remains a start-boundary choice."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t03"
+      ],
+      "reading": "The training roll resolves activity during a journey already recapped as completed before the opening.",
+      "alternatives": [
+        {
+          "reading": "Treat the training as an update to previously covered travel; current-play start remains April 24 under YAML.",
+          "date": "1748-04-24"
+        },
+        {
+          "reading": "Include the retrospectively resolved training week in this session’s adventure coverage; its precise first day is unstated."
+        }
+      ]
+    }
+  ]
+}
