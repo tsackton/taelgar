@@ -152,8 +152,8 @@ class IndividualEntityTest(unittest.TestCase):
         bundle = dict(data=dict(campaign='Entity fixture', sessionNumber=2), source=Path('/fixture/transcript.md'))
         paths = {key: Path('/fixture') / f'{key}.json' for key in review.VERSIONS}
         result = review.render(bundle, paths, self.sources, self.edit, Path('/fixture'), dict(recording=None, notes=[]))
-        self.assertIn('| Silver locket | Found inside the altar. | e01 |', result)
-        self.assertIn('| Pirate documents | Read for clues to the pirate hideout. | e02 |', result)
+        self.assertIn('| Silver locket | supporting | Found inside the altar. | e01 |', result)
+        self.assertIn('| Pirate documents | supporting | Read for clues to the pirate hideout. | e02 |', result)
         self.assertEqual(result.count('| e02 |'), 1)
 
     def test_individual_rows_still_require_summaries_valid_ids_and_unique_entities(self):
@@ -166,6 +166,38 @@ class IndividualEntityTest(unittest.TestCase):
                     review.check_rows(self.edit, self.sources, {})
         self.edit['entities'] = [dict(ids=['e01'], summary='A role.')] * 2
         with self.assertRaisesRegex(ValueError, 'Invalid entity references'):
+            review.check_rows(self.edit, self.sources, {})
+
+    def test_star_and_supporting_classifications_appear_without_cameos_or_exclusions(self):
+        self.sources['entity-map']['entities'].extend([
+            dict(id='e03', label='Manor ghost', importance='star'),
+            dict(id='e04', label='Passing sailor', importance='cameo')])
+        self.sources['entity-map']['exclusions'] = [dict(label='Generic guard', reason='Incidental.')]
+        self.edit.update(flags=[], dates='', entities=[
+            dict(ids=['e03'], summary='Bargains for the locket.'),
+            dict(ids=['e01'], summary='Found inside the altar.')])
+        review.check_rows(self.edit, self.sources, {})
+        bundle = dict(data=dict(campaign='Entity fixture', sessionNumber=2), source=Path('/fixture/transcript.md'))
+        paths = {key: Path('/fixture') / f'{key}.json' for key in review.VERSIONS}
+        result = review.render(bundle, paths, self.sources, self.edit, Path('/fixture'), dict(recording=None, notes=[]))
+        self.assertIn('| Entity | Importance | Role in this session | IDs |', result)
+        self.assertIn('| Manor ghost | star | Bargains for the locket. | e03 |', result)
+        self.assertIn('| Silver locket | supporting | Found inside the altar. | e01 |', result)
+        self.assertIn('Stars 1 · Supporting 2', result)
+        for omitted in ('Passing sailor', 'Generic guard', 'Cameos'):
+            self.assertNotIn(omitted, result)
+
+    def test_cameo_and_unassessed_classifications_cannot_be_authored_into_summary(self):
+        for importance in ('cameo', None):
+            with self.subTest(importance=importance):
+                self.sources['entity-map']['entities'][0]['importance'] = importance
+                self.edit['entities'] = [dict(ids=['e01'], summary='An incidental role.')]
+                with self.assertRaisesRegex(ValueError, 'Only star and supporting'):
+                    review.check_rows(self.edit, self.sources, {})
+
+    def test_missing_star_is_still_rejected(self):
+        self.sources['entity-map']['entities'][0]['importance'] = 'star'
+        with self.assertRaisesRegex(ValueError, 'Missing star'):
             review.check_rows(self.edit, self.sources, {})
 
 
