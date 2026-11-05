@@ -1,0 +1,466 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-021",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-session.yaml",
+    "sessionYamlSha256": "c4aabeef76bc34f45ea12f9ba9b369a65cd06bd76c9ff5df85559860fddea793",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-transcript.md",
+    "transcriptSha256": "6345680713f098abbc00319ff49326f55adc314759dcd1c434f669ccf3804e96",
+    "yamlDates": {
+      "start": "1748-05-05",
+      "end": "1748-05-11"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0193",
+        "endUid": "u0197"
+      },
+      "reading": "The party spends a little time searching the dead orcs.",
+      "evidence": [
+        {
+          "startUid": "u0193",
+          "endUid": "u0197",
+          "quote": "Failure, yeah. That I mean you, you spend a little bit of time rooting through them. The one thing you do notice is that they all you know all of these orcs do have the same I mean the same sort of like dark red face paint tattoos as the one that you have tied up. The sort of motif that looks like a rising sun, and then with a—almost like you know, a Van Gogh, the scream kind of face above that—or not Van Gogh. Who is the guy who did the scream?\n\n"
+        }
+      ],
+      "duration": {
+        "text": "a little bit of time",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated elapsed activity"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0324",
+        "endUid": "u0328"
+      },
+      "reading": "Sunset frames the interrogation and funeral preparations; later sunset descriptions confirm the same evening.",
+      "evidence": [
+        {
+          "startUid": "u0324",
+          "endUid": "u0328",
+          "quote": "Listen, the sun is beginning to set. I think in an hour or so, my—my troops will be ready for the funeral of those who died. Should we wake this orc now, or would you like to interrogate it in the morning?\n\n"
+        },
+        {
+          "startUid": "u0782",
+          "endUid": "u0786",
+          "quote": "You now can see over his shoulder like flickering fires of a giant pyre, as Aram and Havdar have finished dragging the orcs' bodies on to this just giant like pile, fed by the palm tree that was knocked down in the battle, which they have dragged from the tops of the cliffs and chopped up for wood. And the sun is beginning to set as the smoke rises, and you can smell the burning flesh of the orcs being charred and turned to ash.\n\n"
+        },
+        {
+          "startUid": "u1084",
+          "endUid": "u1088",
+          "quote": "And as the—as the funeral winds down and people sort of dispersed to you know eat to take their evening meal as the sun sets, Havdar comes over to you. And he's carrying a bow with him, and he turns to to you, Wellby, and he says,\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Stated in narration"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1188",
+        "endUid": "u1192"
+      },
+      "reading": "Kenzo and Wellby practice with flaming arrows at night.",
+      "evidence": [
+        {
+          "startUid": "u1188",
+          "endUid": "u1192",
+          "quote": "Okay, all right. Well so let's just start. So like you know at night, you guys see like, you know, you know it's like...\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Stated in narration"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1244",
+        "endUid": "u1256"
+      },
+      "reading": "Dinner and music extend into the night, then the party wakes at dawn with long-rest benefits.",
+      "evidence": [
+        {
+          "startUid": "u1247",
+          "endUid": "u1250",
+          "quote": "Okay, so you you know you hang out. You have have you know your dinner with with Havdar's troop, and you hear stories about the four who died, and you know, stay up kind of you know, with music and drinking and stuff a bit into the night. Guards are posted, obviously, but nobody expects any of you to watch. With the bodies safely burned, nothing terrible happens at night. Maybe nothing terrible would have happened anyway.\n\n"
+        },
+        {
+          "startUid": "u1251",
+          "endUid": "u1256",
+          "quote": "And as the morning dawns, you you kind of go about the sort of routines of the camp, cleaning up, helping everybody get things fixed and settled. Delwath, you fall a little bit into your kind of—so everybody go ahead and take a long rest on your character sheets as well, by the way. You know this is, this is a familiar routine to you from your long ago days in that elven army, falling a little bit back into your you know old quartermaster roles, you know, helping sort out camp and things like that, and…\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "Stated in narration"
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Completed long-rest convention; overnight and dawn are separately narrated"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1257",
+        "endUid": "u1258"
+      },
+      "reading": "Havdar’s scouts return around midmorning.",
+      "evidence": [
+        {
+          "startUid": "u1257",
+          "endUid": "u1258",
+          "quote": "Until you know, maybe mid morning, just before the you know the days really starts to get hot, um, a couple of Havdar's scouts return.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "midmorning",
+        "precision": "approximate",
+        "basis": "Stated in narration"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1394",
+        "endUid": "u1401"
+      },
+      "reading": "The party leaves after the heat of the day and travels three or four hours into the night.",
+      "evidence": [
+        {
+          "startUid": "u1394",
+          "endUid": "u1401",
+          "quote": "Yeah, so you cover you cover maybe 60 miles between the rest of the—leaving after the hottest part of the day, so getting in three, four hours of travel into the night here. Saying farewell to Havdar. He, he does—you—I mean he'll be here for another week, so if you are back, he'd be happy to travel west with you. Um. If not, he expects to see you back in Kharsan.\n\n"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "afternoon",
+          "precision": "approximate",
+          "basis": "Stated in narration"
+        },
+        "end": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "Stated in narration"
+        }
+      },
+      "duration": {
+        "min": 3,
+        "max": 4,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates departure-day travel"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t07"
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1436",
+        "endUid": "u1449"
+      },
+      "reading": "Over the next couple of travel days, Wellby trains Baxter enough to ride him; combat confidence still needs work.",
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "duration": {
+        "text": "the next couple of days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM resolves training success over the upcoming travel montage"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t07"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1436",
+          "endUid": "u1436",
+          "quote": "And Tim, can I finish training Baxter in these last few days, before we start sneaking?\n\n"
+        },
+        {
+          "startUid": "u1437",
+          "endUid": "u1438",
+          "quote": "Um yeah, give me an animal handling check. Yeah over between you know the—to the next couple of days, you definitely get enough training in that you can ride him now. Fully trained mount.\n\n"
+        },
+        {
+          "startUid": "u1440",
+          "endUid": "u1441",
+          "quote": "Yeah, you to train them to improve. I mean right now he's pretty skittish and combat, so if you tried to ride him into battle, he'd probably run away. But you can ride him up to battle and then leap off to fight. If you want to continue to train them, you can get them used to it, you can get them doing tricks, or you know used to enough comfortable enough to actually ride into combat.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1468",
+        "endUid": "u1476"
+      },
+      "reading": "The departure afternoon and the next two days are spent riding south.",
+      "evidence": [
+        {
+          "startUid": "u1468",
+          "endUid": "u1476",
+          "quote": "Um so you spend the afternoon that you leave camp and then the next two days, um, traveling south as you know, quickly as you can, pushing yourself, maybe hitting 30 miles a day. You know all on horses, you've got your—you've got supplies again from Havdar, you're able to refill your many water skins from the oasis he was camped out things like that. Um.\n\n"
+        },
+        {
+          "startUid": "u1472",
+          "endUid": "u1476",
+          "quote": "You know the terrain is the same sort of like canyonlands. There's the occasional small spring you can refill your water at, scrub, dry and hot. Every—all the vegetation is pretty much dead. There's a lot of the springs are dried up. Very little animal life, mostly just you know vultures and the occasional desert hawks soaring high in the sky. And every now and then you'll see the dried, bleach bones of a large lizard or something like that. But you're now sort of coming in May to the hottest, driest part of the year before the fun summer thunderstorms arrive, and so everything is brown and dormant. Um.\n\n"
+        }
+      ],
+      "duration": {
+        "text": "departure afternoon and the next two days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated elapsed activity"
+      },
+      "dateBoundaries": 2,
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1480",
+        "endUid": "u1484"
+      },
+      "reading": "On the following day the party continues south more slowly into barren desert.",
+      "evidence": [
+        {
+          "startUid": "u1480",
+          "endUid": "u1484",
+          "quote": "After traveling yeah about 60 miles, the next day you continue south, but maybe only going 25 or so miles, not pushing yourself quite as hard. And now you're heading into the sort of—the real desert desert. I mean, this is the barren, barren sands. Pretty much everything's dry. There's no life, there's no plants, is just rock and sand, as you as you sort of cross that transition point, which is just about parallel with Kharsan, this sort of transition point between the more hospitable desert and just open expanse of sand. So going as a little bit slower here. Um you know it's kind of hard you can't really conceal yourself very well, you've got you know with your horses and your gear, and just traveling across the sand. There's not much you can do, but you're at least keeping a sharp eye out for anything that might be moving.\n\n"
+        }
+      ],
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1485",
+        "endUid": "u1491"
+      },
+      "reading": "At sunrise on the fifth day including departure, the party turns east toward the Kharja.",
+      "evidence": [
+        {
+          "startUid": "u1485",
+          "endUid": "u1491",
+          "quote": "And really, it's even more barren and dry then, then what you've been passing through before. And on the—now let's see, 1, 2, 3, 4—on the fifth day of—since you left camp, including the day you left camp, um, as the morning sun rises, and you begin to turn east, looking to find the Kharja river, and or the dry river, and search for signs of water, and then turn north to the monastery. And Wellby, can you give me a survival check? Um.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunrise",
+        "precision": "approximate",
+        "basis": "Stated in narration",
+        "relative": {
+          "relation": "after",
+          "reference": "t06",
+          "anchor": "Fifth calendar day including the departure day"
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1492",
+        "endUid": "u1500"
+      },
+      "reading": "After most of the day traveling east, the party reaches the dry riverbed late in the day.",
+      "evidence": [
+        {
+          "startUid": "u1492",
+          "endUid": "u1500",
+          "quote": "You travel for most of the day before coming to a—a drop, like the, the—and terrain of the desert just sort of drops out underneath from you, and below you, you see the expanse of a dry riverbed um, running north—north, south. There is nothing growing here. Why don't you give me perception checks?\n\n"
+        },
+        {
+          "startUid": "u1508",
+          "endUid": "u1514",
+          "quote": "So you—it's now—it's late in the day as you reach the river. Reach this riverbed that kind of the, the east—the western side seems to be higher than the eastern side, and so you you come up on the sort of banks of this dry riverbed, looking around north, south. You can see in the sort of as the sun is now beginning to get low in the sky and you know the the heat of the day is beginning to pass, the haze clears a little bit, and you do see far to the south what seems like it could be trees. A—you know, like like it's like that just that like little patch of something, something dark that's not...\n\n"
+        }
+      ],
+      "duration": {
+        "text": "most of the day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated elapsed activity"
+      },
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "Arrival narration: late day, sun low, heat passing"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1551",
+        "endUid": "u1560"
+      },
+      "reading": "The sun is setting as the party camps and decides to continue north.",
+      "evidence": [
+        {
+          "startUid": "u1551",
+          "endUid": "u1560",
+          "quote": "Oh um. Yeah, it's I mean now with the setting sun, it's a bit hard to see if there's any. I mean nothing that you can see. Um. Certainly no large fires anywhere. If there were small, not super smoky campfires or something, then the smoke trail they left might not be very visible in the—depends on which direction they were, right? I don't know which way would smoke would be more visible, into the sun or away from the sun. But you don't see any obvious smoke signals in the sky, or smoke trails from fires in the sky.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Stated in narration"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1566",
+        "endUid": "u1571"
+      },
+      "reading": "The party resumes north along the dry river the next morning.",
+      "evidence": [
+        {
+          "startUid": "u1566",
+          "endUid": "u1571",
+          "quote": "So you turn north the next morning, following—following the dry river. Um. Now I assume traveling you know quietly and as stealthily as you can. The geology stays largely constant as you head north, the—you know the cliffs on the on the left sometimes dropping lower, sometimes rising higher, the gravel floodplains across stretching out to your right.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Stated in narration"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1572",
+        "endUid": "u1580"
+      },
+      "reading": "By late morning the party pauses in the shade of the bluff walls.",
+      "evidence": [
+        {
+          "startUid": "u1572",
+          "endUid": "u1580",
+          "quote": "By late morning, you still find yourself um, unsure of how far north Kharsan is, and resting for a moment in the sun—coming out of the sun in the shade of the bluff walls. Until maybe three, four in the afternoon, a few hours after you've started up again, you see—the first thing that you can see on the horizon to the north is what looks like the side of an enormous statue.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "late morning",
+        "precision": "approximate",
+        "basis": "Stated in narration"
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1572",
+        "endUid": "u1580"
+      },
+      "reading": "A few hours after resuming travel, the party sees the statue and distant Kharsan sites at about four in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1572",
+          "endUid": "u1580",
+          "quote": "By late morning, you still find yourself um, unsure of how far north Kharsan is, and resting for a moment in the sun—coming out of the sun in the shade of the bluff walls. Until maybe three, four in the afternoon, a few hours after you've started up again, you see—the first thing that you can see on the horizon to the north is what looks like the side of an enormous statue.\n\n"
+        },
+        {
+          "startUid": "u1629",
+          "endUid": "u1636",
+          "quote": "A temple shrine type thing that reminds me a little bit, at least from a distance, of the temple of Shakun. Like columnar pillars at the entrance, and then two tall towers standing out from the grounds. Other details can't be discerned from this distance. Then beyond that, in between that and the city, um there is... Let's see, it's four in the afternoon, so there's a, there is a building or fort of some kind, of a—walls and twisting, twisting walls, a sort of almost warren-like fort being constructed. It seems to be four fifths finished, and you can see that there's some activity around it at the moment.\n\n"
+        }
+      ],
+      "time": {
+        "clock": "16:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Initial three/four afternoon estimate confirmed as four during description"
+      },
+      "duration": {
+        "text": "a few hours after starting again",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated elapsed activity"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1737",
+        "endUid": "u1742"
+      },
+      "reading": "Wellby spends a while scouting through the hawk and sketches a map afterward.",
+      "evidence": [
+        {
+          "startUid": "u1737",
+          "endUid": "u1742",
+          "quote": "Wellby spends a while flying over the land...\n\n"
+        }
+      ],
+      "duration": {
+        "text": "a while",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated elapsed activity"
+      },
+      "completion": "completed",
+      "actors": [
+        "Wellby"
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No full absolute date is spoken. Narration identifies May; the working May 5 opening and year come from YAML.",
+    "expectedDateBoundaries": 6,
+    "supportedDateBoundaries": 6,
+    "evidence": [
+      "t04",
+      "t07",
+      "t08",
+      "t09",
+      "t12"
+    ],
+    "explanation": "The camp overnight advances one date, departure afternoon plus two following days advances two, the subsequent southbound day and fifth-day sunrise add one each, and the river camp overnight adds one. Six transitions match May 5–11 conditional on the YAML start; no historical reports or forecasts extend that interval."
+  }
+}
