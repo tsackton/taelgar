@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-004",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
+    "sessionYamlSha256": "435751c0b05a7f75ca68906c38e3030eeccef799e554a5cb13902d1d8c03a3c5",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-transcript.md",
+    "transcriptSha256": "4d6c2412f3ecfbeeeb7ce93bf6be2a79c32ba4731de436a2dcfdbb589eac7df9"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0011"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0012",
+        "endUid": "u0939"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0940",
+        "endUid": "u1028"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1029",
+        "endUid": "u1390"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1391",
+        "endUid": "u2029"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2030",
+        "endUid": "u2164"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2165",
+        "endUid": "u2914"
+      },
+      "category": "combat",
+      "note": "Includes the immediate opening fire volley before initiative; the DM explicitly confirms it occurred before the regular turn cycle at u2331–u2346."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2915",
+        "endUid": "u3188"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u3189",
+        "endUid": "u3192"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
