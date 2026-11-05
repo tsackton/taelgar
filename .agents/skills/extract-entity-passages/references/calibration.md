@@ -84,6 +84,39 @@ Mirror of the Past in session 79; the mirror itself and other items seen within
 that vision do not acquire the flag merely from their presence. Ordinary rules
 descriptions do not become original lore simply because they are narrated by the DM.
 
+### Into the Chasm 3: minimal combat, no routine companion attacks
+
+Manifest: `_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml`.
+
+The November 4 review found combat overrepresented. These accepted extraction
+criteria refer to the existing interaction IDs; they do not attest that the saved
+passages have already been revised or that their current cuts are human-reviewed.
+
+- **Rala, i002 and i005:** u0295–u0315 and u1160–u1179 are routine commanded
+  attacks with damage arithmetic. Omit them as standalone interactions. Her mapped
+  identity and importance do not require a passage when she is only fighting.
+- **Labyrinth beast, i001, i004, and i006:** the appearance at u0051–u0138,
+  combat at u0518–u1032, and defeat at u1237–u1383 should become one brief
+  encounter passage. Retain minimal identification, defeat, and the opening of
+  the exit; cut the intervening combat, gaze effects, snow defenses, tactical
+  discussion, and all mechanics. Vivid or unusual abilities do not warrant a
+  sequence of combat highlights. Preserve original words and mark the cuts.
+- **Kalima hiding, i003:** u0384–u0393 establishes concealment behind an
+  illusion, not a standalone substantive interaction. Omit this record; retain
+  any necessary survival context with the encounter or her aftermath.
+- **Kalima's response, i007:** u1392–u1464 contains her recognition of the exit,
+  fear of losing it, and the party's response. Preserve that character interaction
+  at its appropriate depth, cutting incidental mechanics.
+- **Beast lore, i009:** u1493–u1524 reveals its origin, master, and inability to
+  die permanently. Preserve the substantive lore and relevant responses; learning
+  it after a battle does not make it combat bookkeeping.
+
+Routine companion assistance does not qualify just because it contributes to
+victory. A refusal, unexpected decision, meaningful rescue, sacrifice, or
+consequential loss can qualify without dialogue. Meaningful conversation during
+a fight remains eligible, but table tactics and brief taunts do not justify
+retaining the surrounding battle.
+
 ## Dunmari Frontier 10
 
 Manifest: `_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml`.
@@ -111,8 +144,11 @@ Manifest: `_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-fronti
   orient the discovery. `I'm going to take the.` does not prove a completed
   transfer; do not invent its missing object or a later identification.
 - **Unnamed orc:** introduction u1843–u1888, fight u2102–u2521, body search
-  u2559–u2564. Retain appearance/movement, Heat Metal, darkness and dispelling,
-  threats, flight, and death; cut routine mechanics and irrelevant scouting.
+  u2559–u2564. Apply the minimal-combat rule: retain only enough appearance and
+  outcome to establish the encounter. Keep substantive threats, responses, or
+  consequential escape attempts when they independently matter; do not preserve
+  Heat Metal, darkness, dispelling, or other abilities merely as combat highlights.
+  Cut combat mechanics, attack sequences, and irrelevant scouting.
   The transforming guard is not the orc. Vola's collective account of the captors
   at u2779–u2793 remains her claim, with Agata's antecedent made clear.
 
