@@ -63,7 +63,7 @@ Require `place` referencing the dictionary. Use for opening presence, a meaningf
 
 Require `from` and `to` (place IDs or null), and `completion`:
 
-- `arrived`: destination reached in narration or an explicitly accepted compressed transition.
+- `arrived`: the marker’s `evidence` must quote narration or an accepted compressed transition that places its actors at `to`. A later passage placing them there can supply that quote. If the evidence ends on the approach, use `underway`.
 - `underway`: movement begun, destination not yet reached in the available evidence.
 - `planned`: proposed/intended movement, not established as begun.
 - `interrupted`: started but interrupted; destination arrival not established.

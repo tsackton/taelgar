@@ -1,6 +1,22 @@
 # Time assertion records — draft format 0.4
 
-This format defines a single `time-markers.json` inventory whose core record is **source UID → inferred time or duration → evidence**. Preserve each temporal assertion separately. Additional structure exists only to interpret these records and assess YAML dates; never combine markers or compress the extracted evidence. It replaces the experimental time A/B pair for new extractions. It does not migrate old maps or define a chronological event database. Examples below are synthetic schema examples, not session evidence.
+This format defines a single `time-markers.json` inventory of **session-time evidence**, whose core record is **source UID → inferred time or duration → evidence**. Apply the skill's session-event inclusion rule before preserving each qualifying assertion separately. Additional structure exists only to interpret these records and assess YAML dates; never combine qualifying markers or compress the extracted evidence. It replaces the experimental time A/B pair for new extractions. It does not migrate old maps or define a chronological event database. Examples below are synthetic schema examples, not session evidence.
+
+## Session-time scope
+
+Every marker must identify a session event or interval that it dates, measures, or connects. Include played actions, resolved downtime, summarized journeys, and events established retrospectively. Exclude unrelated history, cosmology, philosophical discussion, jokes, and hypothetical future activities. A forecast or possible spell duration may support an established timing constraint but is not a standalone elapsed-time marker. Context labels do not authorize retaining out-of-scope statements.
+
+Source order is not chronological order. An opening date anchors its scene, not everything subsequently narrated. Retrospective session events remain in scope; identify their interval and supported relationship to other markers. Keep a played historical scene's or vision's temporal frame distinct from the party's adventure chronology. Do not infer elapsed adventure time from the gap between frames. If session-event membership is genuinely unclear and materially affects chronology, retain the relevant candidate with a specific uncertainty.
+
+Examples of the inclusion boundary:
+
+| Source assertion and context | Treatment |
+| --- | --- |
+| Opening on January 8; later resolving the party's roughly 2½ days in Tollen before that morning | Keep both the date anchor and earlier downtime duration; source order does not place the downtime after January 8. |
+| A character spent those same few days gardening | Keep the separate duration confirmation, linked to the downtime when supported; do not add more days. |
+| A character left home about a year ago, mentioned during that downtime | Exclude character history; it does not measure the downtime. |
+| Time began with planar separation | Exclude cosmology; it does not anchor a session event. |
+| A spell can last an hour; later narration establishes it expired after its full duration during scouting | The possible duration alone is not a marker; the established expiration can support a scouting duration, with the relevant evidence and basis. |
 
 ## File envelope
 
@@ -8,7 +24,7 @@ Required fields:
 
 - `schemaVersion`: `0.4-time-markers-draft`.
 - `provenance`: session ID, session YAML path/SHA-256, transcript path/SHA-256, and captured YAML start/end dates. Use the existing manifest's session identity. Source-local UIDs are not globally unique; session + transcript revision + UID identifies evidence.
-- `markers`: source-ordered array of separate temporal assertions defined below; no marker-count or compression target.
+- `markers`: source-ordered array of separate qualifying session-time assertions defined below; no marker-count or compression target.
 - `yamlCheck`: the date assessment defined below.
 
 Optional top-level `limitations` is a string describing concrete source or reading limitations that affect this extraction, such as an unread portion or missing source material. Identify the affected UID range when known and explain the impact. Omit generic disclaimers about source status, self-review, or lack of human approval. Reading the complete transcript remains an extraction requirement, not a `fullRead` field. Do not emit `review`, `readWindows`, or a review-status lifecycle.
@@ -25,12 +41,12 @@ Every marker has:
 | --- | --- |
 | `id` | File-local stable reference such as `t01`; not a replacement transcript UID. |
 | `source` | `{startUid, endUid}` identifying where this assertion occurs; inclusive, aligned to whole polished turns. Use the original transcript identifiers, not a newly minted UUID. A correction has its own marker at its own source position. This is not an exhaustive event-occupancy span. |
-| `reading` | Inferred time or duration in plain language, separate from quotation; explicitly retain uncertainty when no value can be established. Add the structured fields below wherever supported. |
+| `reading` | Inferred time or duration in plain language, identifying the session event or interval it dates, measures, or connects. Keep it separate from quotation and retain uncertainty when no value can be established. Add the structured fields below wherever supported. |
 | `evidence` | Nonempty array of `{startUid, endUid, quote}`. Quotes are exact contiguous excerpts from the cited turns. Include question/answer and correction context when needed. Shared-UID turns retain their complete UID boundaries. |
 
-Order markers by `source.startUid`, preserving assertion order within a shared UID. Every temporal assertion gets its own marker, including repetitions, confirmations, and immediate corrections. Multiple assertions within one polished turn retain the same whole-turn source boundaries but have separate IDs and assertion-specific quotations. Do not merge them because their date, interval, event, actor, or source UID is shared.
+Order markers by `source.startUid`, preserving assertion order within a shared UID; this is evidence order, not a chronological sequence. Every qualifying session-time assertion gets its own marker, including repetitions, confirmations, and immediate corrections. Multiple qualifying assertions within one polished turn retain the same whole-turn source boundaries but have separate IDs and assertion-specific quotations. Do not merge them because their date, interval, event, actor, or source UID is shared.
 
-Supporting evidence can occur earlier or later: a question can clarify an answer, or a later date can support an explicitly labeled inference. That supporting citation does not replace the later assertion's own marker. A bare question with no temporal assertion need not become a marker. Preserve an original claim's value even when corrected; put the new value in a separate marker linked with `revises`. Markers may have only the core fields when the time/duration reading cannot be further structured honestly.
+Supporting evidence can occur earlier or later: a question can clarify an answer, or a later date can support an explicitly labeled inference. Supporting citations do not replace the separate markers of qualifying assertions; an excluded forecast may appear as supporting evidence without acquiring its own marker. A bare question with no temporal assertion is not a marker. Preserve an original qualifying claim's value even when corrected; put the new value in a separate marker linked with `revises`. Markers may have only the core fields when the time/duration reading cannot be further structured honestly.
 
 Examples of the required granularity:
 
@@ -51,7 +67,7 @@ Examples of the required granularity:
 | `duration` | Quantity object defined below; actual, estimated, or conventional basis must be explicit. |
 | `dateBoundaries` | Nonnegative integer only when this marker establishes that many calendar transitions. Not inferred from rest mechanics or YAML end. Overlapping/same-interval markers are not additive. |
 | `actors` | Explicit character/group labels when the claim is limited to those actors. Omitted means the shared current-play context, not proof that every character participated. |
-| `context` | Omit for current play. Otherwise `flashback`, `reported`, `vision`, or `planned`. A retrospective statement about current-play elapsed time can remain current; statement tense alone does not determine context. |
+| `context` | Omit for the shared adventure context. Otherwise `flashback`, `reported`, `vision`, or `planned`. These labels describe narration, not eligibility or exclusion from the session span. Retrospective session downtime/travel can remain in the shared context; tense alone does not determine context. The retained `planned` value does not authorize standalone forecasts or hypothetical activities. |
 | `completion` | For an action/interval whose status matters: `completed`, `begun`, `planned`, `interrupted`, or `uncertain`. Estimates are not completed intervals. |
 | `note` | Material uncertainty or qualification not already expressed by the reading, structured fields, or basis. No generic extraction instructions. |
 
@@ -67,7 +83,7 @@ A quantity has `unit` (`minute`, `hour`, or `day`), `precision` (`exact`, `appro
 - `min` and/or `max`: supported numerical bounds, with `minInclusive` / `maxInclusive` required for each supplied bound; or
 - `text`: a vague quantity such as “a few days,” without invented numerical limits.
 
-Examples: `{ "max": 1, "maxInclusive": false, "unit": "hour", "precision": "exact", "basis": "DM says less than an hour" }` preserves a strict bound. A short-rest duration uses `value: 1`, `unit: "hour"`, and `basis: "short-rest convention"`; it is not an independent clock measurement. Distinguish narrated elapsed time from forecasts in `basis` and action status. A corrected forecast can be retained as `context: "planned"` and `completion: "planned"`; evidence of later travel does not make the forecast exact elapsed time.
+Examples: `{ "max": 1, "maxInclusive": false, "unit": "hour", "precision": "exact", "basis": "DM says less than an hour" }` preserves a strict bound. A short-rest duration uses `value: 1`, `unit: "hour"`, and `basis: "short-rest convention"`; it is not an independent clock measurement. Distinguish narrated elapsed time from any supporting forecast in `basis` and action status. Evidence of later travel does not by itself make a forecast exact elapsed time; retain only an established timing constraint and label any inference.
 
 ## Essential relationships only
 
@@ -83,7 +99,7 @@ Optional `relations` is an array of `{type, target}` with an optional `note`; `t
 
 Use one directional link rather than reciprocal duplicates. Do not emit routine before/after edges just to reconstruct chronology; use a time point's `relative` field when the source actually provides such a relation. Different actors do not prove concurrency. Containment and revisions must not cycle; same-interval links need not be transitively expanded.
 
-For a flashback, retain the entry marker with `context: "flashback"` and the relative time when supported. An identifiable return marker uses `returns_to`; without an identifiable return, state the uncertainty. Use flashback context on time claims made inside the scene. A retcon inserting previously unnarrated action does not require `revises` unless it actually supersedes a prior claim. A self-correction always retains separate original and correcting markers, even within one turn. Relationships explain how assertions interact; they never authorize consolidation or deletion of their markers.
+For a flashback that enacts or resolves session events, retain the entry marker with `context: "flashback"` and the relative time when supported. An identifiable return marker uses `returns_to`; without an identifiable return, state the uncertainty. Use flashback context on time claims made inside the scene. Merely mentioning history does not create a flashback marker. Returning from an earlier scene does not itself advance time, and recounting an interval does not create another interval. A retcon inserting previously unnarrated action does not require `revises` unless it actually supersedes a prior claim. A self-correction of a qualifying assertion always retains separate original and correcting markers, even within one turn. Relationships explain how qualifying assertions interact; they never authorize consolidation or deletion of their markers.
 
 Example of actor-specific overlap (assuming `t06` records the supported study interval):
 
@@ -102,7 +118,7 @@ Example of actor-specific overlap (assuming `t06` records the supported study in
 
 ## YAML date check
 
-`yamlCheck` assesses current play, excluding retrospective scenes. It contains:
+`yamlCheck` assesses the adventure interval covered by the session, including downtime, travel, and earlier events established through nonlinear narration. Explain which events belong to that interval; do not restrict it to events after the opening scene or derive it from the earliest/latest dates mentioned. Keep separate historical or vision frames from extending the adventure span without supporting evidence. It contains:
 
 - `status`: exactly `matched`, `compatible`, or `conflict`.
 - `dateAnchor`: explanation of independently spoken dates versus assumptions taken from YAML, including inherited years.
@@ -117,11 +133,11 @@ Example of actor-specific overlap (assuming `t06` records the supported study in
 | `compatible` | No established contradiction, but missing days, uncertain boundaries, incomplete reading, missing YAML dates, or unresolved evidence prevent an exact match. A possible match is not a confirmed match. |
 | `conflict` | Supported narration contradicts a YAML date or span under every reasonable evidence-supported boundary reading. A definite contradiction can be reported even if other coverage is incomplete; disclose the limitation. |
 
-Test both narrated dates and elapsed span: matching the number of nights cannot override a contradictory explicit date. Do not sum durations across parallel groups, nested intervals, repetitions, revisions, or flashbacks. An exact span need not have every intervening day narrated individually: an explicit six-day montage can account for six boundaries. Conversely, “no overnight found” in incomplete or loosely framed material does not prove a zero-day span. Never use `drEnd` to supply missing days and then call the result a match. Missing clocks alone do not prevent matching a date span.
+Test both narrated dates and elapsed span: matching the number of nights cannot override a contradictory explicit date. Do not double-count parallel groups, nested intervals, repetitions, revisions, or events recounted in flashbacks. Earlier adventure events established retrospectively can contribute to coverage without adding time after the opening scene. An exact span need not have every intervening day narrated individually: an explicit six-day montage can account for six boundaries. Missing coverage is not a contradiction, and “no overnight found” in incomplete or loosely framed material does not prove a zero-day span. Use `supportedDateBoundaries: null` for an incomplete or ambiguous total. Never use `drEnd` to supply missing days and then call the result a match. Missing clocks alone do not prevent matching a date span.
 
 ### Overnight boundaries and later normalization
 
-YAML normally covers **current-play moments reached in narration**, excluding retrospective scenes. Going to bed ends on that evening's date. Explicitly waking after a completed overnight reaches the next date. Awarding long-rest benefits alone does not establish arrival at morning. Opening rest credit may refer to a night before current play begins. A long rest need not happen overnight at all.
+Assess the session's covered adventure interval regardless of narration order. An earlier scene or downtime established later in the transcript can affect its start boundary. Going to bed ends on that evening's date. Explicitly waking after a completed overnight reaches the next date. Awarding long-rest benefits alone does not establish arrival at morning. Opening rest credit may refer to a night outside the covered session interval; establish its role rather than assuming inclusion or exclusion. A long rest need not happen overnight at all.
 
 Historical records used more than one boundary convention. Preserve reasonable alternatives rather than silently normalizing them. Each optional `boundaryUncertainties` entry has `boundary` (`start` or `end`), `evidence` (marker IDs), `reading`, and `alternatives` (array of `{reading, date?}`). Supply an ISO `date` only if supported, with its conditional basis in the reading; relative alternatives are sufficient otherwise. Preserve this record even if another independent issue makes the overall assessment `conflict`. With no other contradiction, an unresolved boundary that affects the YAML comparison normally yields `compatible`.
 
@@ -129,6 +145,10 @@ Adjacent sessions may share a morning date or end/start on successive evening/mo
 
 ## Verification and revision
 
-Check actual JSON parsing; required fields and enum values; numeric bounds and valid date/clock components; unique marker IDs; existing relation and assessment targets; source order; exact quote membership; and full-turn UID boundaries. Review assertion coverage as well as validity: each distinct temporal assertion must retain its own source-positioned marker, including repeated, corrected, and separately stated endpoint claims. A quote retained only as supporting evidence in another marker does not satisfy this requirement. Verify that inferred values apply to the marker's own moment or interval, rather than silently importing another assertion's clock. Review relationship semantics and evidence, not just references; repeated or superseded markers must not inflate elapsed time. Confirm hashes still match, and distinguish complete source reading from semantic certainty. Disclose incomplete reading in `limitations`; it cannot produce `matched`. Check that notes contain material qualifications rather than repeated explanations or generic extraction rules. Preserve human decisions and IDs on revision; recheck the YAML assessment and affected relationships after changed evidence.
+Check relevance before coverage: every marker must date, measure, or connect a session event or interval, and context labels must not hide unrelated history or speculation. Check actual JSON parsing; required fields and enum values; numeric bounds and valid date/clock components; unique marker IDs; existing relation and assessment targets; source order; exact quote membership; and full-turn UID boundaries. Review qualifying assertion coverage as well as validity: each distinct session-time assertion must retain its own source-positioned marker, including repeated, corrected, and separately stated endpoint claims. A qualifying assertion retained only as supporting evidence in another marker does not satisfy this requirement. Verify that inferred values apply to the marker's own moment or interval, rather than silently importing another assertion's clock. Review relationship semantics and evidence, not just references; repeated or superseded markers must not inflate elapsed time, and nonlinear narration must not exclude earlier session events. Confirm hashes still match, and distinguish complete source reading from semantic certainty. Disclose incomplete reading in `limitations`; it cannot produce `matched`. Check that notes contain material qualifications rather than repeated explanations or generic extraction rules. Preserve human decisions and IDs on revision; recheck the YAML assessment and affected relationships after changed evidence.
 
 This draft specifies the checks but has no general-purpose extractor or schema validator yet. The existing A/B pilot builders are not validators for it. Do not claim their success validates a new-format extraction.
+
+## Review table
+
+Present every JSON marker in source order in a simple table: **time marker | brief explanation of the session event it anchors or measures | transcript UID range**. Include material uncertainty and nonlinear relationships briefly in the explanation. Render the saved records directly; do not silently filter them or substitute a reconstructed timeline. This display does not require a separate maintained file.

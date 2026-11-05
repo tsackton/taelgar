@@ -56,7 +56,7 @@ Check these against the complete labeled source segment, including enemy and sum
 
 These details belong in the existing `summary`, evidence, and optional local `note`; no new fields or roll/HP/resource ledger are required. Details can appear in other extraction products as well, but those products do not replace a complete combat summary.
 
-Evidence ranges are inclusive, aligned to complete polished turns/shared-UID groups, and contained within the referenced combat segment. Use source order, not numerical UID arithmetic, to establish membership. Ranges may overlap when several actions occur in one turn of speech or a reaction interrupts another actor. Multiple ranges can support a single entry. Exact quotes are not required in this condensed product; the cited transcript remains the evidence.
+Evidence ranges are inclusive and aligned to complete polished turns/shared-UID groups. Each action entry requires at least one range inside its combat segment. An additional range after the segment is permitted only when a later passage of the same session explicitly corrects or confirms that action or its outcome. Cite it separately in the same entry’s `evidence`. For example, confirmation after combat that a spell is still active establishes its later state. The casting turn can remain uncertain. Keep `ending.evidence` inside the combat segment. Use source order, not numerical UID arithmetic, to establish membership. Ranges may overlap when several actions occur in one turn of speech or a reaction interrupts another actor. Multiple ranges can support a single entry. Exact quotes are not required in this condensed product; the cited transcript remains the evidence.
 
 Illustrative record shape, not an extraction from a real session:
 
@@ -89,7 +89,7 @@ The ending must state whether the encounter actually resolved in the available s
 
 ## Verification and revisions
 
-Validate required fields/enums, ID uniqueness, consecutive round numbering, all `segmentId` references, one record per included combat segment, and complete whole-session combat coverage unless a subset or limitation is declared. Check every evidence range against whole polished turns and the containing segment. Verify all source and dependency hashes.
+Validate required fields/enums, ID uniqueness, consecutive round numbering, all `segmentId` references, one record per included combat segment, and complete whole-session combat coverage unless a subset or limitation is declared. Check every range against whole polished turns in the registered transcript. Verify that each action has in-segment evidence and that any range outside the segment occurs later and explicitly supports a correction or confirmation for that entry. Verify all source and dependency hashes.
 
 Complete the combat skill's mandatory dedicated second source pass after classification/shared reading, using the detail checklist above. Compare source to entries for missing actions and resolution details, and entries to source for unsupported claims. Confirm corrections applied once, proposals not promoted into fact, reactions correctly positioned beside their triggers, summons distinguished from summoning, and a supported ending. Record concrete unread-source limitations, not a pass-status field. Reuse unchanged IDs and human decisions on revision. Changes in classification boundaries require checking affected entries and endings before refreshing the bound hash.
 
