@@ -1,0 +1,274 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-044",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-session.yaml",
+    "sessionYamlSha256": "42aee13e111c10580096bc4f55803b588c0eaa81bbd46f1ec8482564fece53c9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-transcript.md",
+    "transcriptSha256": "dde85ed252ffd332020b2eab31de9660d1a7af3bbecdba192017199d69319c66",
+    "yamlDates": {
+      "start": "1748-07-23",
+      "end": "1748-07-23"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0020"
+      },
+      "reading": "The opening roadside confrontation is in the afternoon; the preceding five-day journey describes the Chardonian expedition in the recap, not elapsed party travel.",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0020",
+          "quote": "the heat of the morning vanishing in the afternoon."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "afternoon",
+        "basis": "DM opening narration dates the shared roadside confrontation."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0982",
+        "endUid": "u0984"
+      },
+      "reading": "About an hour passes in the roadside confrontation and negotiation, ending as the remaining charms wear off.",
+      "evidence": [
+        {
+          "startUid": "u0982",
+          "endUid": "u0984",
+          "quote": "I think we're almost an hour into this whole conversation, by the way."
+        },
+        {
+          "startUid": "u1026",
+          "endUid": "u1026",
+          "quote": "It's been a solid hour."
+        },
+        {
+          "startUid": "u1027",
+          "endUid": "u1028",
+          "quote": "Just about now the charm is wearing off."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Player estimates and DM confirmation of the charm expiring during this conversation."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1164",
+        "endUid": "u1170"
+      },
+      "reading": "Before leaving for the hills, the DM corrects the party’s middle-of-day impression to late afternoon, approximately 4:30 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1164",
+          "endUid": "u1166",
+          "quote": "But it's not it's like the middle of the day, yep."
+        },
+        {
+          "startUid": "u1167",
+          "endUid": "u1167",
+          "quote": "Just like late afternoon."
+        },
+        {
+          "startUid": "u1169",
+          "endUid": "u1170",
+          "quote": "Probably 430 or something like that."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "16:30",
+        "partOfDay": "late afternoon",
+        "basis": "Approximate DM clock reading, explicitly correcting the player’s midday suggestion."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1446",
+        "endUid": "u1452"
+      },
+      "reading": "It is getting dark as the travelers reach the broken road on the ascent toward the ruined village.",
+      "evidence": [
+        {
+          "startUid": "u1446",
+          "endUid": "u1452",
+          "quote": "So yeah it's getting dark at this sort of approach, the hills"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "dusk",
+        "basis": "DM says it is getting dark on the approach; no precise clock is given."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1719",
+        "endUid": "u1738"
+      },
+      "reading": "The party approaches the ruined village at sunset; it is fully dark by the camp discussion.",
+      "evidence": [
+        {
+          "startUid": "u1719",
+          "endUid": "u1734",
+          "quote": "as you begin to approach this ruined town as the sunsets"
+        },
+        {
+          "startUid": "u1815",
+          "endUid": "u1816",
+          "quote": "it's dark now"
+        },
+        {
+          "startUid": "u1961",
+          "endUid": "u1964",
+          "quote": "It's after dark already"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "sunset",
+        "basis": "DM explicitly places the approach at sunset, with later confirmation of darkness."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2187",
+        "endUid": "u2198"
+      },
+      "reading": "The party begins its overnight watch arrangement at the temple, with Wellby taking first watch; his watch subsequently passes without incident.",
+      "evidence": [
+        {
+          "startUid": "u2187",
+          "endUid": "u2187",
+          "quote": "Okay So who is keeping her first watch."
+        },
+        {
+          "startUid": "u2188",
+          "endUid": "u2189",
+          "quote": "Like first, then a couple of the other people."
+        },
+        {
+          "startUid": "u2269",
+          "endUid": "u2275",
+          "quote": "your watch seems to pass, without incident."
+        },
+        {
+          "startUid": "u2277",
+          "endUid": "u2277",
+          "quote": "A few hours, I would think there's a decent number of you so."
+        },
+        {
+          "startUid": "u2278",
+          "endUid": "u2278",
+          "quote": "I mean you only you only really needs to be an hour and a half"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM estimates watch length; the player suggests an hour and a half without a final numeric adjudication."
+      },
+      "completion": "completed",
+      "note": "The two duration suggestions do not establish an exact length for the first watch."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2280",
+        "endUid": "u2289"
+      },
+      "reading": "Kenzo’s succeeding watch approaches midnight, with the DM giving roughly 10, 10:30, or 11 p.m.; the theft occurs toward its end.",
+      "evidence": [
+        {
+          "startUid": "u2280",
+          "endUid": "u2289",
+          "quote": "it's getting towards now towards say 10, 10:30, 11, beginning to approach midnight."
+        },
+        {
+          "startUid": "u2290",
+          "endUid": "u2293",
+          "quote": "Towards the end of your watch Kenzo"
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "late night",
+        "basis": "DM’s approximate alternatives are 22:00–23:00, approaching midnight; no midnight crossing is stated."
+      },
+      "note": "The accepted theft staging is replayed at u2378–u2424 after the camp layout is clarified; that replay does not add elapsed time."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2436",
+        "endUid": "u2439"
+      },
+      "reading": "The interrupted camp interval qualifies for a short rest, but no completed long rest. Kenzo later receives the same retrospective rest credit for sleep, camp-making, and dinner.",
+      "evidence": [
+        {
+          "startUid": "u2436",
+          "endUid": "u2437",
+          "quote": "Did I get long rest already? Nope no."
+        },
+        {
+          "startUid": "u2439",
+          "endUid": "u2439",
+          "quote": "Short rest, you haven't finished the long rest."
+        },
+        {
+          "startUid": "u2715",
+          "endUid": "u2715",
+          "quote": "So we slept for long enough to count it as a short rest are making camp and eating dinner and."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "One-hour short-rest convention for the credited rest; this is nested credit within the already narrated camp interval, not another hour after the theft."
+      },
+      "completion": "completed",
+      "note": "The long rest is interrupted. Later hit-die and ki bookkeeping does not establish another rest or morning."
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute campaign date is spoken. The date July 23, 1748 comes from YAML; the transcript independently supports afternoon through the same night, before any established midnight crossing.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08"
+    ],
+    "explanation": "The session resumes the roadside encounter, advances to the village at sunset, and ends after an interrupted night watch and combat. It establishes no midnight crossing, waking next morning, or completed overnight. The five-day opening journey belongs to the Chardonian recap, and “late in the morning” at u4107–u4112 concerns real-world play, not a new adventure date."
+  }
+}

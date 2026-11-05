@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-time-markers.json",
+    "sha256": "e8da751eef2427ca44dd5894bb3fe01328997f55d3b7d77a8639606b7cd095b5"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-transcript.md",
+    "sha256": "dde85ed252ffd332020b2eab31de9660d1a7af3bbecdba192017199d69319c66"
+  },
+  "dateAssessment": "Working calendar: session YAML supplies July 23, 1748 (no absolute date is spoken). The time extraction matches its zero-boundary span: afternoon confrontation, sunset arrival, and an interrupted watch approaching midnight. The theft staging is replayed after camp-layout clarification, not advanced in time; short-rest credit is retrospective within camp. The session note’s “after midnight” differs from t07’s approximately 10–11 p.m., approaching midnight; the transcript reading is retained pending human chronology review. The five-day opening trip belongs to the other adventurers’ recap, and the late-morning remark at u4107–u4112 concerns the real-world session.",
+  "watches": [
+    {
+      "day": "July 23, 1748",
+      "startDate": "1748-07-23",
+      "endDate": "1748-07-23",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Afternoon opening; roughly an hour of negotiation ends before the corrected 4:30 p.m. departure anchor.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ]
+    },
+    {
+      "day": "July 23, 1748",
+      "startDate": "1748-07-23",
+      "endDate": "1748-07-23",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Darkening hills approach; the village is reached at sunset, with camp arranged after dark.",
+      "markers": [
+        "t04",
+        "t05"
+      ]
+    },
+    {
+      "day": "July 23, 1748",
+      "startDate": "1748-07-23",
+      "endDate": "1748-07-23",
+      "startWatch": "dusk",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "After-dark camp: Wellby’s first watch passes before Kenzo’s late watch; retrospective short-rest credit belongs within camp.",
+      "markers": [
+        "t06",
+        "t08"
+      ]
+    },
+    {
+      "day": "July 23, 1748",
+      "startDate": "1748-07-23",
+      "endDate": "1748-07-23",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "Kenzo’s watch reaches about 10–11 p.m., approaching midnight; the theft comes toward its end.",
+      "markers": [
+        "t07"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 44 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 44 (DuFr).md",
+      "sha256": "dd4b068d959c28128b1f862d483eb409ff0958398c2112e93dd07fc16efe15d6"
+    }
+  ]
+}
