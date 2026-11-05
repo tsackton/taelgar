@@ -1,0 +1,433 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-008",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+    "sessionYamlSha256": "1e52c117b26217bbacdf7fde55f9d2e440c37246a8110ad901524dc75ddb7c50",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-transcript.md",
+    "transcriptSha256": "9a7ad28d52b1fa88043c203b09deeec09134eef003b5cb692208a40f695288e7",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-segments.json",
+      "sha256": "ad2ae67ce84ce09aacf0c032c92ded8e99e0b1df98b187efd7b13e0644fe0eb7",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s008",
+      "encounter": "Stony tentacled creature in the dwarven marketplace",
+      "openingActions": [
+        {
+          "actor": "Stony tentacled creature",
+          "kind": "event",
+          "summary": "Ambushes Wellby with a sticky, roughly 50-foot tendril and grapples him before initiative is rolled.",
+          "evidence": [
+            {
+              "startUid": "u1847",
+              "endUid": "u1853"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Hex on the creature, imposing disadvantage on Dexterity checks, then strikes its tendril with his sword; the blade skitters off without damage.",
+              "evidence": [
+                {
+                  "startUid": "u1877",
+                  "endUid": "u1894"
+                },
+                {
+                  "startUid": "u1989",
+                  "endUid": "u1990"
+                }
+              ]
+            },
+            {
+              "actor": "Stony tentacled creature",
+              "kind": "turn",
+              "summary": "Pulls the already caught Wellby 25 feet closer, then hits Delwath with another tendril and grapples him. The tendrils also restrain their captives.",
+              "evidence": [
+                {
+                  "startUid": "u1895",
+                  "endUid": "u1904"
+                },
+                {
+                  "startUid": "u1914",
+                  "endUid": "u1921"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Guiding Bolt at the creature; the spell splashes harmlessly off its stony body and does no damage.",
+              "evidence": [
+                {
+                  "startUid": "u1905",
+                  "endUid": "u1912"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Restrained, with speed zero and disadvantage on attacks, attempts to escape using Dexterity (Acrobatics); the attempt fails and he remains caught.",
+              "evidence": [
+                {
+                  "startUid": "u1914",
+                  "endUid": "u1945"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves beside Delwath and uses Help for his next escape attempt, granting advantage.",
+              "evidence": [
+                {
+                  "startUid": "u1953",
+                  "endUid": "u1973"
+                },
+                {
+                  "startUid": "u1988",
+                  "endUid": "u1993"
+                },
+                {
+                  "startUid": "u2090",
+                  "endUid": "u2101"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Gives Wellby Bardic Inspiration as a glowing calamari rune. Moves behind a rock for half cover and casts second-level Thunderwave on Delwath’s tendril. It fails its Constitution save and cracks but is not severed; damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1994",
+                  "endUid": "u2018"
+                },
+                {
+                  "startUid": "u2054",
+                  "endUid": "u2085"
+                }
+              ],
+              "note": "The rejected proposal to extend Thunderwave through stone-shaping is not a separate casting."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Escapes with advantage on Acrobatics from Kenzo’s Help, applies Hexblade’s Curse through the tendril within 30 feet, and moves behind a rock for partial cover.",
+              "evidence": [
+                {
+                  "startUid": "u2086",
+                  "endUid": "u2119"
+                }
+              ]
+            },
+            {
+              "actor": "Stony tentacled creature",
+              "kind": "turn",
+              "summary": "Drags Wellby into its mouth and bites him for 14 piercing damage. Fires two more tendrils: one hits a rock and the other catches Delwath again.",
+              "evidence": [
+                {
+                  "startUid": "u2120",
+                  "endUid": "u2142"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves up and swings her warhammer at the tendril holding Delwath. The attack skims off without damage; the discussion clarifies that contact was not a successful hit, so the proposed Smite is not applied.",
+              "evidence": [
+                {
+                  "startUid": "u2143",
+                  "endUid": "u2165"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Acrobatics and the calamari inspiration rune to escape. The inspiration is a d6 rolled twice, taking the higher result for this ability check. Drops his torch, then uses Cunning Action to Disengage and moves 25 feet behind a stalagmite.",
+              "evidence": [
+                {
+                  "startUid": "u2166",
+                  "endUid": "u2226"
+                }
+              ],
+              "note": "The proposed Skirmisher reaction on his own turn is rejected and replaced by Cunning Action."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Soul Sight to learn the creature has 83 hit points, and spends a ki point to learn it has no vulnerabilities or resistances, while its tendrils are immune to poison and psychic damage. Calls out the result; no bonus-action Dodge is confirmed.",
+              "evidence": [
+                {
+                  "startUid": "u2227",
+                  "endUid": "u2319"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Healing Word on Wellby as a bonus action; the healing amount is not spoken. Uses his action to investigate the rock garden and learns the creature displaced a sculpture rather than being created from one, and has small tendrils that likely allow slow movement.",
+              "evidence": [
+                {
+                  "startUid": "u2321",
+                  "endUid": "u2354"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Misty Step to escape the grapple and appear on the building’s roof, moves farther away, then fires Eldritch Blast; it bounces off without damage.",
+              "evidence": [
+                {
+                  "startUid": "u2362",
+                  "endUid": "u2414"
+                }
+              ]
+            },
+            {
+              "actor": "Stony tentacled creature",
+              "kind": "turn",
+              "summary": "Fires four tendrils. Riswynn is hit and becomes grappled and restrained; Wellby’s cover provides +2 AC and blocks his tendril, while attacks on Kenzo and Seeker also miss. The missed tendrils retract, so Wellby gains no Skirmisher reaction.",
+              "evidence": [
+                {
+                  "startUid": "u2415",
+                  "endUid": "u2437"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Attempts an escape using Athletics or Acrobatics, but the check fails and she remains restrained.",
+              "evidence": [
+                {
+                  "startUid": "u2438",
+                  "endUid": "u2457"
+                }
+              ],
+              "note": "The transcript does not identify which of the two permitted skills she rolled."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves back, using his bonus action for additional movement, to obtain a clear shot. His arrow hits for 4 damage; it is a glancing blow and does not remain embedded.",
+              "evidence": [
+                {
+                  "startUid": "u2458",
+                  "endUid": "u2487"
+                },
+                {
+                  "startUid": "u2557",
+                  "endUid": "u2567"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Fist of Planar Power on the tendril holding Riswynn, dealing 17 damage and splitting it in half, freeing her. Retreats afterward; this movement is supplied later when the DM reminds him.",
+              "evidence": [
+                {
+                  "startUid": "u2492",
+                  "endUid": "u2495"
+                },
+                {
+                  "startUid": "u2537",
+                  "endUid": "u2554"
+                },
+                {
+                  "startUid": "u2590",
+                  "endUid": "u2598"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Gives Riswynn a calamari inspiration rune, retreats, and fires his crossbow; the bolt misses and clatters off the creature.",
+              "evidence": [
+                {
+                  "startUid": "u2568",
+                  "endUid": "u2587"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Fires Eldritch Blast again and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2588",
+                  "endUid": "u2591"
+                }
+              ]
+            },
+            {
+              "actor": "Stony tentacled creature",
+              "kind": "turn",
+              "summary": "Makes four tendril attacks against Riswynn; all miss, with rolls of 15, 16, 15, and 8 bouncing off armor or being dodged.",
+              "evidence": [
+                {
+                  "startUid": "u2599",
+                  "endUid": "u2612"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts an attack spell at the creature and misses. The roll is seven; she decides to save her inspiration because even adding it would not make the attack hit.",
+              "evidence": [
+                {
+                  "startUid": "u2613",
+                  "endUid": "u2622"
+                },
+                {
+                  "startUid": "u2627",
+                  "endUid": "u2632"
+                }
+              ],
+              "note": "The spell name is not spoken in the polished transcript; it is not inferred from her earlier Guiding Bolt."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and uses Cunning Action for more movement rather than hiding. Shoots an arrow for 12 damage; it remains embedded in the creature, enabling Seeker’s next spell.",
+              "evidence": [
+                {
+                  "startUid": "u2623",
+                  "endUid": "u2626"
+                },
+                {
+                  "startUid": "u2633",
+                  "endUid": "u2643"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Readies an attack against a tendril if Riswynn is hit again before his next turn. No triggered reaction is subsequently recorded.",
+              "evidence": [
+                {
+                  "startUid": "u2650",
+                  "endUid": "u2685"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Steps within 60 feet, casts Heat Metal on Wellby’s embedded arrowhead for 12 damage, then moves back. The heat can be reapplied on later turns while the arrow remains lodged. The creature succeeds on its Constitution save and does not suffer the proposed disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u2686",
+                  "endUid": "u2716"
+                },
+                {
+                  "startUid": "u2766",
+                  "endUid": "u2770"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Repositions on the roof before firing Eldritch Blast, then deals 11 damage with Hex and Hexblade’s Curse included. Pulls the creature 10 feet toward his revised position, around a stalactite, rather than toward the other party members, finishes his movement, and drops prone.",
+              "evidence": [
+                {
+                  "startUid": "u2717",
+                  "endUid": "u2764"
+                },
+                {
+                  "startUid": "u2767",
+                  "endUid": "u2768"
+                }
+              ],
+              "note": "The transcript’s separate claim that 19 hit points remain is inconsistent with the preceding spoken arithmetic; the resolved damage statement is retained without reconstructing an HP ledger."
+            },
+            {
+              "actor": "Stony tentacled creature",
+              "kind": "turn",
+              "summary": "Moves slowly across the cavern; no attack is resolved on this turn.",
+              "evidence": [
+                {
+                  "startUid": "u2765",
+                  "endUid": "u2777"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves to improve her line around a stalactite and casts Sacred Flame. The creature rolls a natural 20 on its Dexterity save (19 after its modifier) and avoids the flame.",
+              "evidence": [
+                {
+                  "startUid": "u2778",
+                  "endUid": "u2796"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "The DM resolves the remaining fight as roughly another minute of ranged attacks and heat from the embedded arrow. The creature’s 10-foot movement cannot close the safe distance; it is worn down and collapses.",
+              "evidence": [
+                {
+                  "startUid": "u2797",
+                  "endUid": "u2807"
+                }
+              ],
+              "note": "The closing narration lists arrows, Sacred Flame, Eldritch Blast, the heated arrow, and force/fire, without enumerating further individual turns."
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The party kills the creature by staying outside its reach and wearing it down with ranged attacks and the heated arrow; it cracks and falls to the floor.",
+        "evidence": [
+          {
+            "startUid": "u2797",
+            "endUid": "u2807"
+          }
+        ]
+      }
+    }
+  ]
+}

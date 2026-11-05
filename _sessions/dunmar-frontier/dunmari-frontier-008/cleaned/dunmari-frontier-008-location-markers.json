@@ -1,0 +1,828 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-008",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+    "sessionYamlSha256": "1e52c117b26217bbacdf7fde55f9d2e440c37246a8110ad901524dc75ddb7c50",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-transcript.md",
+    "transcriptSha256": "9a7ad28d52b1fa88043c203b09deeec09134eef003b5cb692208a40f695288e7"
+  },
+  "places": {
+    "p01": {
+      "label": "Road at the mountain edge",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "you stand looking north at the mountain wall in front of you."
+        },
+        {
+          "startUid": "u0280",
+          "endUid": "u0286",
+          "quote": "you're on the road, which goes up into which starts to slope up towards the towards a pass"
+        }
+      ]
+    },
+    "p02": {
+      "label": "Raven’s Hold",
+      "kind": "fort",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0011",
+          "quote": "a long wall guarding the approach to the valley of Raven's Hold."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+      "note": "The opening view is of the valley mouth and outer wall, not entry into the Dunmari fort. The transcript sometimes uses Raven’s Hold for the wider valley; the dwarven outpost is kept separate."
+    },
+    "p03": {
+      "label": "Volcanic marker boulder",
+      "kind": "landmark",
+      "evidence": [
+        {
+          "startUid": "u0355",
+          "endUid": "u0359",
+          "quote": "Volcanic erratics or whatever, right? So big, like sort of clearly volcanic rock about 300 feet before you get to the stream, roughly"
+        },
+        {
+          "startUid": "u0379",
+          "endUid": "u0386",
+          "quote": "Dwarven runes indicating the number 2300."
+        }
+      ]
+    },
+    "p04": {
+      "label": "Stream gorge entrance",
+      "kind": "gorge",
+      "evidence": [
+        {
+          "startUid": "u0469",
+          "endUid": "u0481",
+          "quote": "Instead of a number, it says 'enter.'"
+        },
+        {
+          "startUid": "u0522",
+          "endUid": "u0523",
+          "quote": "it's like a, it's like a gorge that runs into the side, like um into the mountain, basically."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u0522",
+              "endUid": "u0523",
+              "quote": "it's like a, it's like a gorge that runs into the side, like um into the mountain, basically."
+            }
+          ]
+        }
+      ],
+      "note": "This is the intermediate valley west of Raven’s Hold, not the stream cascading from that fort’s valley (u0613–u0619)."
+    },
+    "p05": {
+      "label": "Flooded entrance tunnel",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u0709",
+          "endUid": "u0720",
+          "quote": "the gorge that then becomes the tunnel"
+        },
+        {
+          "startUid": "u0766",
+          "endUid": "u0774",
+          "quote": "if you step further from here, the water level rises to the ceiling."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u0601",
+              "endUid": "u0612",
+              "quote": "the stream now continues in this four-foot tunnel heading into the mountain."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Metal barrier and chain",
+      "kind": "tunnel mechanism",
+      "evidence": [
+        {
+          "startUid": "u0903",
+          "endUid": "u0909",
+          "quote": "there's a metal door thing, that's like a steel plate that's diagonally across the the tunnel"
+        },
+        {
+          "startUid": "u0911",
+          "endUid": "u0914",
+          "quote": "There's a chain on the wall"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0903",
+              "endUid": "u0909",
+              "quote": "there's a metal door thing, that's like a steel plate that's diagonally across the the tunnel"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Guard chamber and trapdoor",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1095",
+          "endUid": "u1106",
+          "quote": "you eventually come out into a small chamber"
+        },
+        {
+          "startUid": "u1095",
+          "endUid": "u1106",
+          "quote": "There's a rusty lever that's sort of set near one wall and then there's a trap door in the ceiling"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1086",
+              "endUid": "u1094",
+              "quote": "continues on into the mountains"
+            }
+          ]
+        }
+      ],
+      "note": "On the tunnel approach to the dwarven outpost; the transcript does not establish the site’s exact enclosing boundary here."
+    },
+    "p08": {
+      "label": "Illusory rubble passage",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u1281",
+          "endUid": "u1287",
+          "quote": "you can see a large pile of rubble blocking the passage ahead."
+        },
+        {
+          "startUid": "u1293",
+          "endUid": "u1296",
+          "quote": "your hand goes straight through the rock like it's not even there"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1281",
+              "endUid": "u1287",
+              "quote": "you must be getting close to the other side of this spur of the mountain."
+            },
+            {
+              "startUid": "u1729",
+              "endUid": "u1732",
+              "quote": "The map. Riswynn, you're home."
+            }
+          ]
+        }
+      ],
+      "note": "On the tunnel approach to the dwarven outpost; the map locates this approach beyond its depicted rooms (u1170–u1173)."
+    },
+    "p09": {
+      "label": "Pool cavern",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u1381",
+          "endUid": "u1396",
+          "quote": "what was once an underground pool or pond or something like that."
+        },
+        {
+          "startUid": "u1398",
+          "endUid": "u1399",
+          "quote": "there's a two separate pools."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1668",
+              "endUid": "u1683",
+              "quote": "you cross across this this passageway and come to the far side of the cavern."
+            },
+            {
+              "startUid": "u1729",
+              "endUid": "u1732",
+              "quote": "Living space, marketplace."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Marketplace cavern",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u1718",
+          "endUid": "u1728",
+          "quote": "it looks like a maybe a former marketplace or something."
+        },
+        {
+          "startUid": "u1718",
+          "endUid": "u1728",
+          "quote": "yeah, you're on the map."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1781",
+              "endUid": "u1787",
+              "quote": "The market on the dwarven outpost drawing."
+            },
+            {
+              "startUid": "u1718",
+              "endUid": "u1728",
+              "quote": "yeah, you're on the map."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Stone building roof",
+      "kind": "roof",
+      "evidence": [
+        {
+          "startUid": "u2021",
+          "endUid": "u2027",
+          "quote": "this is like a two-story building"
+        },
+        {
+          "startUid": "u2379",
+          "endUid": "u2379",
+          "quote": "Delwath just takes a step and ends up on the roof."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1718",
+              "endUid": "u1728",
+              "quote": "a building in the cavern"
+            },
+            {
+              "startUid": "u2021",
+              "endUid": "u2027",
+              "quote": "this is like a two-story building"
+            }
+          ]
+        }
+      ],
+      "note": "The roof’s height is described variously as about 15 or 20 feet; the map gestures do not establish a precise position."
+    },
+    "p12": {
+      "label": "Dwarven outpost",
+      "kind": "fort",
+      "evidence": [
+        {
+          "startUid": "u0266",
+          "endUid": "u0268",
+          "quote": "the dwarven outpost is at the top left of the map"
+        },
+        {
+          "startUid": "u0269",
+          "endUid": "u0271",
+          "quote": "the dwarf fortress on the left, which is the dwarven outpost."
+        },
+        {
+          "startUid": "u1784",
+          "endUid": "u1784",
+          "quote": "The market on the dwarven outpost drawing."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1086",
+              "endUid": "u1094",
+              "quote": "continues on into the mountains"
+            },
+            {
+              "startUid": "u1281",
+              "endUid": "u1287",
+              "quote": "you must be getting close to the other side of this spur of the mountain."
+            },
+            {
+              "startUid": "u1718",
+              "endUid": "u1728",
+              "quote": "yeah, you're on the map."
+            }
+          ]
+        }
+      ],
+      "note": "Identified from the outpost map in play; distinct from the nearby Dunmari fort."
+    },
+    "p13": {
+      "label": "Central mountain range",
+      "kind": "mountain range",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "the massive central mountain range that divides the continent in two."
+        }
+      ],
+      "vaultPath": "Gazetteer/Sentinel Range.md",
+      "note": "Identified in the vault as the Sentinel Range; the name is not spoken here."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0011"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins on the road at the mountain edge, considering routes into Raven’s Hold.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "you stand looking north at the mountain wall in front of you."
+        },
+        {
+          "startUid": "u0007",
+          "endUid": "u0011",
+          "quote": "The road you're on continues into the mountains north from here."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0011"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the road the party can see the outer wall and valley mouth of Raven’s Hold to the east; this does not establish entry.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0011",
+          "quote": "a few miles distant, a long wall guarding the approach to the valley of Raven's Hold."
+        },
+        {
+          "startUid": "u0280",
+          "endUid": "u0286",
+          "quote": "All you can see from here is the sort of the very mouth of the valley"
+        }
+      ],
+      "place": "p02",
+      "mode": "local",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0345",
+        "endUid": "u0386"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Walk toward the stream and stop to investigate the anomalous volcanic boulder, roughly 300 feet short of the water.",
+      "evidence": [
+        {
+          "startUid": "u0355",
+          "endUid": "u0359",
+          "quote": "maybe half an hour, to sort of walk towards the stream."
+        },
+        {
+          "startUid": "u0367",
+          "endUid": "u0367",
+          "quote": "I'm going to go up to it and scratch and sniff."
+        },
+        {
+          "startUid": "u0379",
+          "endUid": "u0386",
+          "quote": "Dwarven runes indicating the number 2300."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated walk toward the stream."
+      }
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0436",
+        "endUid": "u0481"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the counting-down stones northeast up the intermediate valley, keeping the stream on the right, until reaching the gorge marked “enter.”",
+      "evidence": [
+        {
+          "startUid": "u0436",
+          "endUid": "u0441",
+          "quote": "a few hundred feet away you do find"
+        },
+        {
+          "startUid": "u0454",
+          "endUid": "u0462",
+          "quote": "you can follow this sort of path of unusual stones that seemed to be leading up into the valley until you get down to about 500 or so"
+        },
+        {
+          "startUid": "u0469",
+          "endUid": "u0481",
+          "quote": "Instead of a number, it says 'enter.'"
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass the granite marker numbered 2100, then follow successive marked stones uphill along the left side of the stream."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0597",
+        "endUid": "u0612"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Enter the gorge and continue until its narrowing tunnel becomes too tight for the horses.",
+      "evidence": [
+        {
+          "startUid": "u0597",
+          "endUid": "u0599",
+          "quote": "So heading into the gorge."
+        },
+        {
+          "startUid": "u0601",
+          "endUid": "u0612",
+          "quote": "The horses can go no further, and the stream now continues in this four-foot tunnel heading into the mountain."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0707",
+        "endUid": "u0730"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Tie the horses near the stream at the sheltered gorge entrance, then return into the tunnel and advance to the point where water fills it.",
+      "evidence": [
+        {
+          "startUid": "u0634",
+          "endUid": "u0635",
+          "quote": "the entry way to the gorge is pretty sheltered"
+        },
+        {
+          "startUid": "u0709",
+          "endUid": "u0720",
+          "quote": "tie up the horses, you know, what other foods you can provide, there within reach of the stream to drink, and head back into the the gorge that then becomes the tunnel"
+        },
+        {
+          "startUid": "u0724",
+          "endUid": "u0730",
+          "quote": "you get to a point where the water, if you keep going any further, is going to reach the ceiling."
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Return to secure the horses near water; leave them there before heading back into the tunnel."
+        }
+      ],
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0896",
+        "endUid": "u0980"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Swim ahead to inspect the metal barrier and chain, then swim back and report to the party.",
+      "evidence": [
+        {
+          "startUid": "u0896",
+          "endUid": "u0901",
+          "quote": "you swim up."
+        },
+        {
+          "startUid": "u0903",
+          "endUid": "u0909",
+          "quote": "there's a metal door thing, that's like a steel plate"
+        },
+        {
+          "startUid": "u0978",
+          "endUid": "u0980",
+          "quote": "All right, I'll swim back okay and describe best..."
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "swim",
+      "route": [
+        {
+          "place": "p06",
+          "reading": "Reach and inspect the barrier before returning."
+        }
+      ],
+      "distance": {
+        "value": 60,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "One-way separation described at u0902–u0909; not total round-trip distance."
+      }
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1017",
+        "endUid": "u1067"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn reaches the chain, frees its stuck mechanism and drains the water, remaining at the opened barrier.",
+      "evidence": [
+        {
+          "startUid": "u1023",
+          "endUid": "u1024",
+          "quote": "you get to the chain and you start to pull on it"
+        },
+        {
+          "startUid": "u1039",
+          "endUid": "u1052",
+          "quote": "the metal plate just slides into the floor"
+        },
+        {
+          "startUid": "u1061",
+          "endUid": "u1067",
+          "quote": "leaning against the wall, holding on to this supporting yourself with this chain"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk underwater"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1081",
+        "endUid": "u1106"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Pass the drained barrier and waterfall opening, continue along the narrow tunnel, and climb the spiral to the guard chamber.",
+      "evidence": [
+        {
+          "startUid": "u1081",
+          "endUid": "u1084",
+          "quote": "Presumably, it's easy to jump over the hole."
+        },
+        {
+          "startUid": "u1083",
+          "endUid": "u1084",
+          "quote": "Yes. Okay."
+        },
+        {
+          "startUid": "u1095",
+          "endUid": "u1106",
+          "quote": "you eventually come out into a small chamber"
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p06",
+          "reading": "Pass the opened metal plate and jump the waterfall opening."
+        },
+        {
+          "reading": "Follow roughly a quarter-mile corridor, then ascend the spiral for 30–40 minutes."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1271",
+        "endUid": "u1328"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Climb the trapdoor ladder, follow the broader passage, and investigate the apparent rubble; Seeker steps safely through the illusion.",
+      "evidence": [
+        {
+          "startUid": "u1271",
+          "endUid": "u1273",
+          "quote": "there's a ladder that sort of slides down"
+        },
+        {
+          "startUid": "u1276",
+          "endUid": "u1280",
+          "quote": "Let's go up the ladder, right, to get into this fortress."
+        },
+        {
+          "startUid": "u1281",
+          "endUid": "u1287",
+          "quote": "you can see a large pile of rubble blocking the passage ahead."
+        },
+        {
+          "startUid": "u1326",
+          "endUid": "u1328",
+          "quote": "You step across the other side with no ill effects."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The party reaches the rubble; only Seeker’s first step through it is individually narrated. The group’s continued travel follows at u1341–u1347."
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1341",
+        "endUid": "u1433"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue downhill about 500 yards to a blank wall; Wellby opens its mechanism, revealing the pool cavern and its inhabitants at the entrance platform.",
+      "evidence": [
+        {
+          "startUid": "u1345",
+          "endUid": "u1347",
+          "quote": "another 500 yards or so, and the ceiling now has gotten higher to about five and a half feet, until you come to a blank wall."
+        },
+        {
+          "startUid": "u1363",
+          "endUid": "u1367",
+          "quote": "the blank wall in front of you slides open."
+        },
+        {
+          "startUid": "u1401",
+          "endUid": "u1413",
+          "quote": "you see on this platform that you're standing on"
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Stop at the blank wall to locate and open its hidden knob."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1657",
+        "endUid": "u1733"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the white-haired woman across the pools’ central walkway and into the marketplace cavern where she demands they fight.",
+      "evidence": [
+        {
+          "startUid": "u1657",
+          "endUid": "u1667",
+          "quote": "she she leads you then down the sort of central passageway"
+        },
+        {
+          "startUid": "u1668",
+          "endUid": "u1683",
+          "quote": "you cross across this this passageway and come to the far side of the cavern."
+        },
+        {
+          "startUid": "u1733",
+          "endUid": "u1733",
+          "quote": "let's see what's here in the market with us."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2365",
+        "endUid": "u2414"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Misty Step out of the tendril onto the stone building’s roof, then reposition there for ranged attacks.",
+      "evidence": [
+        {
+          "startUid": "u2379",
+          "endUid": "u2379",
+          "quote": "Delwath just takes a step and ends up on the roof."
+        },
+        {
+          "startUid": "u2398",
+          "endUid": "u2400",
+          "quote": "Misty steps a spell."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "Misty Step"
+    }
+  ]
+}

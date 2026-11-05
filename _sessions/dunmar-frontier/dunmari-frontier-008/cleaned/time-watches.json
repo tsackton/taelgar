@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-time-markers.json",
+    "sha256": "733373fc9e852e5b01166e7ad1893c385e5776602ef10295914e0cc92152022c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-transcript.md",
+    "sha256": "9a7ad28d52b1fa88043c203b09deeec09134eef003b5cb692208a40f695288e7"
+  },
+  "dateAssessment": "April is spoken; the day and DR year in 1748-04-12 are YAML-only. The spoken “211 after the Great War” is retained without an inferred calendar conversion.",
+  "watches": [
+    {
+      "day": "1748-04-12 (YAML date)",
+      "startWatch": "midday",
+      "endWatch": null,
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12",
+      "basis": "mixed",
+      "summary": "Party leaves about 10:00, enters at noon, then climbs 30–40 minutes; later searches leave the closing watch open.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,572 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "52d9f9dc92300bbd5ba907328c69a6bef85a0c182880c6f178159cb81b1d3550",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "9a7ad28d52b1fa88043c203b09deeec09134eef003b5cb692208a40f695288e7",
+        "transcriptProcessing.artifacts.cleaned": "1b6f212977814d5c1c2f33011b43f4be77d382f2c6b92049d24c0f0f4cb1c482"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "organization",
+      "label": "Centaurs fleeing the eastern lands",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0001",
+            "endUid": "u0006"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0035",
+            "endUid": "u0041"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0087",
+            "endUid": "u0096"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Candrosa",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0001",
+            "endUid": "u0006"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0026",
+            "endUid": "u0027"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Candrosa.md"
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Elder Kisa",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0133",
+            "endUid": "u0144"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Kisa.md",
+      "names": [
+        "Kisa"
+      ]
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Riswynn’s great-uncle",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0206",
+            "endUid": "u0207"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Eberk Brawnanvil.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e005",
+      "kind": "item",
+      "label": "Map of Raven’s Hold",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0263",
+            "endUid": "u0275"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0294",
+            "endUid": "u0296"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e006",
+      "kind": "item",
+      "label": "Riswynn’s map of the dwarven outpost",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0206",
+            "endUid": "u0207"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0242",
+            "endUid": "u0243"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0263",
+            "endUid": "u0271"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1170",
+            "endUid": "u1173"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1781",
+            "endUid": "u1792"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Taster",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0563",
+            "endUid": "u0564"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0578",
+            "endUid": "u0596"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0707",
+            "endUid": "u0708"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1305",
+            "endUid": "u1306"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Taster.md"
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Tasty",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0545",
+            "endUid": "u0550"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0584",
+            "endUid": "u0596"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "White-haired woman",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1417",
+            "endUid": "u1433"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1472",
+            "endUid": "u1529"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1643",
+            "endUid": "u1654"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1684",
+            "endUid": "u1706"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2810",
+            "endUid": "u2835"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Inakara.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e010",
+      "kind": "organization",
+      "label": "The white-haired woman’s kingdom",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1480",
+            "endUid": "u1491"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1657",
+            "endUid": "u1683"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2810",
+            "endUid": "u2817"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Stony tentacled creature",
+      "reason": "An unnamed monster encounter without an individual identity beyond its predation and combat abilities; retained in combat extraction, not the entity inventory.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1691",
+            "endUid": "u1703"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1847",
+            "endUid": "u1853"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2343",
+            "endUid": "u2349"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2797",
+            "endUid": "u2807"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Armored attendant and other pool inhabitants",
+      "reason": "The armored attendant has no distinct identity beyond an anonymous guard. The continuing kingdom is represented collectively, without inventing individual NPCs.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1458",
+            "endUid": "u1470"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1657",
+            "endUid": "u1683"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Continual Light spearpoint",
+      "reason": "Routine use of existing PC equipment to illuminate the tunnel and caverns; no acquisition or original item lore in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0721",
+            "endUid": "u0730"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1542",
+            "endUid": "u1544"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Kenzo’s staff",
+      "reason": "A brief equipment reminder and proposed throw through an illusion, without a distinct plot-object role.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0081",
+            "endUid": "u0085"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1314",
+            "endUid": "u1314"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Seeker’s hypothetical world maps",
+      "reason": "Drawings illustrate his speculative shifting-world theory; the maps themselves receive no distinct history, powers, acquisition, or plot role.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0167",
+            "endUid": "u0176"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Trapdoor ladder",
+      "reason": "A fixed architectural mechanism, not one of the party’s ladder companions covered by the campaign exception.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1271",
+            "endUid": "u1277"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Horses and unnamed sacrificed rabbit",
+      "reason": "Unnamed transport animals and a recollection of an unnamed expendable rabbit; neither has an individual identity like Taster and Tasty.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0545",
+            "endUid": "u0550"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0593",
+            "endUid": "u0596"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0707",
+            "endUid": "u0720"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Previously encountered Dunmari refugees",
+      "reason": "An unnamed recollection of travelers; the current source does not individually identify the woman or establish a continuing organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0148",
+            "endUid": "u0159"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Maw creatures and hyena-headed creatures",
+      "reason": "Generic creature groups discussed in retrospective lore and speculation, without distinct individual referents.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0073",
+            "endUid": "u0076"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0124",
+            "endUid": "u0144"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md"
+  ]
+}

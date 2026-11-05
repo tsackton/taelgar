@@ -1,0 +1,913 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "9a7ad28d52b1fa88043c203b09deeec09134eef003b5cb692208a40f695288e7"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-entity-map.json",
+      "sha256": "3da42cf26456eee9008846f0c43ad2752ed9cdd402a6684efa05c58dde232216"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Recalling the centaurs’ warning",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0035",
+        "endUid": "u0096"
+      },
+      "lines": [
+        "%% u0035:0-109, u0036:0-12, u0037:0-68 %%",
+        "DM: Well, basically, yes. I mean, they said they were fleeing. They were leaving their lands to the east because some sort of poison or corruption had been spreading from Raven's Hold, you know. I...",
+        "",
+        "%% u0038:0-16, u0039:0-228, u0040:0-27, u0041:0-35 %%",
+        "Wellby: Remember about a disease and poison flowing from a rope that binds the land to another plane, poisoned water flowing from Raven's Hold and contaminating more and more land, if I remember right. Demons that sicken the earth, and how all the infinite imaginings of people exist in the infinity of the Divine Void.",
+        "",
+        "%% u0042:0-33, u0043:0-12, u0044:0-16, u0045:0-11, u0046:0-9, u0047:0-25, u0048:0-85, u0049:0-41, u0050:0-163, u0051:0-12, u0052:0-24, u0053:0-31, u0054:0-10, u0055:0-20, u0056:0-5, u0057:0-56, u0058:0-14, u0059:0-5, u0060:0-55, u0061:0-3, u0062:0-30, u0063:0-188, u0064:0-79, u0065:0-44, u0066:0-82, u0067:0-103, u0068:0-28, u0069:0-21, u0070:0-43, u0071:0-51, u0072:0-63, u0073:0-58, u0074:0-269, u0075:0-151, u0076:0-154, u0077:0-38, u0078:0-18, u0079:0-26, u0080:0-50, u0081:0-21, u0082:0-18, u0083:0-24, u0084:0-6, u0085:0-39, u0086:0-12 %%",
+        "((Recap asides and session-note discussion))",
+        "",
+        "%% u0087:0-9, u0088:0-170 %%",
+        "Wellby: So we, we don't know definitively that this like binding or portal or whatever to the other plane is in Raven's.' Hold. We know—is that true? Didn't say, like, 'That portal is in Raven's.'",
+        "",
+        "%% u0089:0-24, u0090:0-73, u0091:0-145, u0092:0-85, u0093:0-120, u0094:0-14, u0095:0-36, u0096:0-25 %%",
+        "DM: So it wasn't some—I mean, yeah. They didn't say specifically where anything was, but it was more of a, you know, there's other plane where these creatures come from, was—it was created long ago by human belief and is now sustained by their sort of the fear and the terror that these creatures generate, and people's nightmares. And the corruption that they were fleeing was coming from Raven's Hold, but whether those were necessarily directly connected to the gnolls and demonic influence and all of that is—was never entirely clear."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: The water. It's the problem with the water, right?",
+          "Riswynn: Keep that in mind.",
+          "Seeker: This—we should be very careful about that, actually.",
+          "Delwath: All right. They told us not to drink the water. Did—I think so.",
+          "Riswynn: Witness."
+        ],
+        "after": [
+          "Kenzo: All right, should we get into character?",
+          "DM: So, what do you want to do?",
+          "Seeker: Contemplate the mountains.",
+          "Wellby: Seems like we have two possible avenues for entry. One is to go through the front, and one is which has the disadvantage of poison water, deadly insanity vines, and being out in the open for a good long while as we go to it. And the other is trying to find the backdoor into the dwarven stronghold, disadvantage being we have no idea where it is.",
+          "Seeker: There, there is a third option involving the water route."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Kisa’s account of earlier raids",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0129",
+        "endUid": "u0144"
+      },
+      "lines": [
+        "%% u0129:0-21, u0130:0-50, u0131:0-48, u0132:0-62 %%",
+        "Seeker: The, the hyena-headed men, by contrast, do those relate to anything that we've seen—people, folks have seen in this world? Or might those also have come from another plane of existence?",
+        "",
+        "%% u0133:0-11, u0134:0-84, u0135:0-11, u0136:0-51, u0137:0-29, u0138:0-3, u0139:0-61, u0140:0-8, u0141:0-118, u0142:0-89 %%",
+        "DM: Is that you—that Kisa, Elder Kisa told you about 30 some-odd years ago, 30, 40 years ago, there was a summer of attacks where similar creatures had come across the border of the Blasted Plains and had sort of raided in small numbers, not not in large numbers, and does—but then had sort of faded after a month or so. And nobody really quite knew exactly why or what the cause of that was. I mean, they're not things you just see sort of walking down the street, right? They're not...",
+        "",
+        "%% u0143:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u0144:0-41 %%",
+        "DM: But not totally unheard of in this world."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Can we talk about the maw creatures for a moment? Yeah.",
+          "Unknown: Please.",
+          "Seeker: Do we have any evidence to suggest that point of origin for those?",
+          "Kenzo: Not that I—I don't think, unless Delwath knows something more about them.",
+          "Delwath: I've never heard of them before. That's right. Right."
+        ],
+        "after": [
+          "Riswynn: Now, with during our encounter, we had been tracing back from the maw creatures in the hyenas as we set out on our journey. And then we got to that place where there had been a splitting of the ways, and there were multiple paths that various tracks took. At this point, do we have any point of reference about whether they came from Raven's Hold or the storm or anywhere, based on when back when you had their trail?",
+          "Kenzo: Yeah, we tracked them. We tracked them—so this is meta game again—we tracked them where?",
+          "DM: I mean, you track them all the way... You sort of followed their—you didn't continue following their tracks past the road, right? So you track them from Karawa, sort of on a relatively straight but a little bit of twisting path to the...",
+          "Unknown: Road.",
+          "DM: And then you turn north on the road after you encountered—what was her name? The Dunmari people who were coming south, who had missed the festival because of the fire started by the storm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Comparing the outpost and Raven’s Hold maps",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0206",
+        "endUid": "u0296"
+      },
+      "lines": [
+        "%% u0206:0-115, u0207:0-28 %%",
+        "Riswynn: We may be able to pick up traces of the Long Road north, which is on my grandfather's map—the great-uncle's map—and use that to set our bearings.",
+        "",
+        "%% u0208:0-56, u0209:0-103 %%",
+        "Seeker: That's an interesting idea. You're saying there might be covert entry or exit from the road itself that we could use and then work our way back to the fortress?",
+        "",
+        "%% u0210:0-3, u0211:0-87, u0212:0-57, u0213:0-29, u0214:0-3, u0215:0-110, u0216:0-13, u0217:0-61, u0218:0-59, u0219:0-33, u0220:0-6, u0221:0-41, u0222:0-100, u0223:0-91, u0224:0-52, u0225:0-34, u0226:0-17, u0227:0-2, u0228:0-213, u0229:0-11, u0230:0-32, u0231:0-4, u0232:0-58, u0233:0-6, u0234:0-69, u0235:0-23, u0236:0-16, u0237:0-39, u0238:0-15, u0239:0-52, u0240:0-35, u0241:0-27 %%",
+        "((General tunnel architecture and map-interface discussion))",
+        "",
+        "%% u0242:0-171, u0243:0-106 %%",
+        "Riswynn: Here, how it indicates that the escape route is not far from the part of the fortress that connects Long Road north. So if we can find one, we would find the other, perhaps. But both are difficult to imagine identifying from the outside because they were not designed to be found.",
+        "",
+        "%% u0244:0-17, u0245:0-36, u0246:0-277, u0247:0-47, u0248:0-41, u0249:0-230, u0250:0-31, u0251:0-8, u0252:0-44, u0253:0-30, u0254:0-9, u0255:0-3, u0256:0-68, u0257:0-61, u0258:0-16, u0259:0-31, u0260:0-35, u0261:0-49, u0262:0-42 %%",
+        "((General tunnel architecture and map-interface discussion))",
+        "",
+        "%% u0263:0-79, u0264:0-133, u0265:0-33 %%",
+        "Kenzo: It's just a feeling, but I like having the dual—I like having both of you here, given given our destination. One question on the actual maps: what's the what's the relationship between these two maps? Where's the—how did these two maps intersect?",
+        "",
+        "%% u0266:0-19, u0267:0-61, u0268:0-26 %%",
+        "Seeker: Oh yeah, so the the the dwarven outpost is at the top left of the map of Raven's if I understand correctly.",
+        "",
+        "%% u0269:0-59, u0270:0-143, u0271:0-200 %%",
+        "DM: Yeah, so those the like waterfall, there's a pool of water on the right, which is the Dunmari fort, and the dwarf fortress on the left, which is the dwarven outpost. There's a road that goes between them. Whether there are other connections underground is not something that was indicated on the maps. But if they traded with each other or were engaged in mutual defense, would certainly not be impossible.",
+        "",
+        "%% u0272:0-151 %%",
+        "Wellby: What's the scale like on that map, like the scale of Raven's Hold, but presumably the castle itself isn't to scale; how far across, say, is that valley?",
+        "",
+        "%% u0273:0-19, u0274:0-42, u0275:0-68 %%",
+        "DM: So this is probably between half and three quarters of a mile. Probably closer to half, like 2,000, 2,500 feet, something like that.",
+        "",
+        "%% u0276:0-44, u0277:0-19 %%",
+        "Seeker: What's the height of the waterfall features, just so we're clear?",
+        "",
+        "%% u0278:0-28 %%",
+        "DM: None of you have been there.",
+        "",
+        "%% u0279:0-73, u0280:0-40, u0281:0-48, u0282:0-21, u0283:0-37, u0284:0-121, u0285:0-185, u0286:0-175, u0287:0-288, u0288:0-86, u0289:0-195, u0290:0-70, u0291:0-43, u0292:0-70, u0293:0-88 %%",
+        "((General tunnel architecture and map-interface discussion))",
+        "",
+        "%% u0294:0-100, u0295:0-50 %%",
+        "Kenzo: So when people say Raven's Hold, are they referring to all of the stuff that's above the waterfall? I think that all of that is considered Raven's Hold.",
+        "",
+        "%% u0296:0-5 %%",
+        "Unknown: Yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Perhaps that's that's wise. Yeah.",
+          "Riswynn: The mountains. What say you, Seeker?",
+          "Seeker: They're home, aren't they? Might feel comfortable, if familiar, to travel in the mountains. Again, the question is how easily we can find an entrance to this place. I haven't visited before.",
+          "Riswynn: I was not averse to a route through the mountains.",
+          "Kenzo: Intuitively, I'm heartened by the fact that before meeting you all, I've never met a dwarf before. Now here we have two. I do feel a—I don't know. It feels like we have some some bit of advantage there with both of your wisdom and your your connections to your ancestry. It feels like their mid—I—maybe, I don't know, if we're choosing between two bad choices, it might be a little more... Maybe a little bit more, you know, benefit there. I don't know."
+        ],
+        "after": [
+          "Seeker: Well, we might learn something by entering this first valley and sniffing around the stream to see any evidence of the poison on the surrounding vegetation and wildlife. And from there you could imagine we might pass, instead of going out and around, up and over the wall of mountains between the valleys, and then to come out near the dwarf fortress.",
+          "Kenzo: Is there a way to show that on like in in a Roll20? You know, like you can like press a thing and it'll make a little—like right. Can we point at features on the small map?",
+          "Seeker: That's good question.",
+          "DM: Ah, that is a good question. Hold on.",
+          "Kenzo: Look like you can..."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Testing the water and naming the rabbits",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0563",
+        "endUid": "u0592"
+      },
+      "lines": [
+        "%% u0563:0-64, u0564:0-99 %%",
+        "Seeker: While you're doing that, I will carefully scoop up some water in, I don't know, a little drinking vessel and set it just within the cage of one of the bunnies. It is...",
+        "",
+        "%% u0565:0-61, u0566:0-52, u0567:0-19, u0568:0-232, u0569:0-20, u0570:0-31, u0571:0-18, u0572:0-7, u0573:0-8, u0574:0-5, u0575:0-64, u0576:0-16, u0577:0-27, u0578:0-80, u0579:0-54, u0580:0-28, u0581:0-3, u0582:0-28, u0583:0-5 %%",
+        "((Water inspection and ability checks))",
+        "",
+        "%% u0584:0-238, u0585:0-88 %%",
+        "DM: There's—yeah, the water seems fine. The rabbit laps it up and nothing happens, you know. It smells like clear stream water and looks like clear stream water, you know. As far as you can see from both your experiment on your poor bunnies and just kind of looking at at it, it doesn't seem like there's anything unusual about that.",
+        "",
+        "%% u0586:0-49 %%",
+        "Seeker: Previously unnamed rabbit, I now dub thee Taster.",
+        "",
+        "%% u0587:0-42 %%",
+        "Kenzo: You can't, you can't—we can't eat it now.",
+        "",
+        "%% u0588:0-10, u0589:0-42 %%",
+        "Seeker: No, sooner. He'll stay with us for the long haul now.",
+        "",
+        "%% u0590:0-4 %%",
+        "Kenzo: Now...",
+        "",
+        "%% u0591:0-33 %%",
+        "Riswynn: We'll call them Taster and Tasty.",
+        "",
+        "%% u0592:0-13 %%",
+        "Seeker: Hungry later."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: The rabbit.",
+          "Delwath: Delwath—oh, will...",
+          "Unknown: You know...",
+          "Kenzo: Give me a few moments.",
+          "Delwath: I can certainly walk..."
+        ],
+        "after": [
+          "DM: When you get hungry, you throw it at something you're fighting against.",
+          "Seeker: Well, that was what the first one was for.",
+          "DM: That was the first one.",
+          "DM: So heading into the gorge.",
+          "Seeker: Let's do it. Safe enough."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Seeker protects Taster at the illusion",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1300",
+        "endUid": "u1306"
+      },
+      "lines": [
+        "%% u1300:0-59, u1301:0-25, u1302:0-26, u1303:0-36, u1304:0-34 %%",
+        "Seeker: Um, but it could be the kind of illusion that masks a trap. I step back away from it. How can we find out what's behind this illusory wall of rubble without simply walking through it?",
+        "",
+        "%% u1305:0-26 %%",
+        "Kenzo: Well, we do have a Taster.",
+        "",
+        "%% u1306:0-30 %%",
+        "Seeker: Stroke the rabbit defensively."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah, it's gonna say, can you just move that?",
+          "Seeker: Mold Earth.",
+          "DM: So make a make an Investigation check. You got to look around. There doesn't seem to be an obvious cause, and as you like, go to sort of move the rubble around and see what you can find, your hand goes straight through the rock like it's not even there, and you find yourself feeling along the floor of the tunnel. Like, everywhere you touch, it's like there's no rubble there at all.",
+          "Seeker: It's an illusion. Good.",
+          "DM: Seems like it. Yes."
+        ],
+        "after": [
+          "Kenzo: Don't you have that that that disk? Seeker, it's—just push the disc forward and push it through the wall. See what happens to it. Or can we just throw some objects through this wall?",
+          "DM: That—the disc is immobile when it's within 20 feet of you.",
+          "Unknown: Yeah.",
+          "Seeker: It's sort of follows me around. I get...",
+          "Kenzo: You know, pulled the staff out of—I could throw my staff through the wall and see what happens."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Meeting the white-haired woman and bargaining for passage",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1414",
+        "endUid": "u1574"
+      },
+      "lines": [
+        "%% u1414:0-12 %%",
+        "Unknown: Not a dwarf.",
+        "",
+        "%% u1415:0-50 %%",
+        "DM: But a creature that's roughly the size of a dwarf,",
+        "",
+        "%% u1416:0-8 %%",
+        "Unknown: But with",
+        "",
+        "%% u1417:0-41, u1418:0-147, u1419:0-64, u1420:0-215, u1421:0-7, u1422:0-28, u1423:0-7, u1424:0-55 %%",
+        "DM: Like, she has like shocking white hair and black nails and sort of gray and purple skin that looks bruised, and she's sitting along with two other, three other creatures. She's sitting on—like I wouldn't call it, you couldn't really call it a throne, it's a—it's a pile of stones, basically, that have been just piled up to form a chair, and she's sitting and she's kind of has long fingernails, and she's sort of sitting like this, and as as the door slides open she jumps and is like sort of looks at you in this kind of shocked way, like almost like, 'How did you appear?' And she—.",
+        "",
+        "%% u1425:0-120, u1426:0-4, u1427:0-8, u1428:0-142, u1429:0-5, u1430:0-5, u1431:0-25, u1432:0-233, u1433:0-54 %%",
+        "DM: There she says and sort of broken Dwarven, and she, she's like her fingers are sort of shaking, and she says this in her like dropping you know, clicking and sort of hissing a little bit, and she turns and looks over you in this sort of very uncertain way and just like points. 'Where? Where? Where did that come from?' And then, as she is motioning, you start these other creatures that look like her are starting to move around in a circle in front of you. Oh, man. You can see now in the distance that there's many more of them, maybe 15 or 20 sort of spread out in the shadows near the edges of this pool.",
+        "",
+        "%% u1434:0-33, u1435:0-58, u1436:0-123 %%",
+        "((Tactical checks, table asides and rolls))",
+        "",
+        "%% u1437:0-203, u1438:0-51 %%",
+        "Riswynn: I am deeply unnerved by the creepy appearance of this Dwarvish creature. And so my instinct is to is to reach for a holy object that I have with me and speak a prayer to protect myself from the undead, to to cast undead spirits away from me and all of us.",
+        "",
+        "%% u1439:0-52 %%",
+        "Seeker: Oh, undead. Does it seem like that's what these are?",
+        "",
+        "%% u1440:0-5 %%",
+        "Unknown: Well...",
+        "",
+        "%% u1441:0-36 %%",
+        "Riswynn: It comes to me. I don't know, but is...",
+        "",
+        "%% u1442:0-53 %%",
+        "Seeker: The nails, the bruised skin, the white haired—could be.",
+        "",
+        "%% u1443:0-33 %%",
+        "Riswynn: I try it because I'm creeped out.",
+        "",
+        "%% u1444:0-11 %%",
+        "DM: Not undead.",
+        "",
+        "%% u1445:0-9 %%",
+        "Riswynn: Not dead.",
+        "",
+        "%% u1446:0-4, u1447:0-20, u1448:0-24, u1449:0-50, u1450:0-1, u1451:0-3, u1452:0-18, u1453:0-6 %%",
+        "((Tactical checks, table asides and rolls))",
+        "",
+        "%% u1454:0-69, u1455:0-26 %%",
+        "Kenzo: I sort of lean over to the dwarves, to Riswynn and to Seeker, and say, 'Are we fighting or talking?'",
+        "",
+        "%% u1456:0-52, u1457:0-17 %%",
+        "Riswynn: She's surprised. She doesn't know where we came from. That's all I got.",
+        "",
+        "%% u1458:0-62, u1459:0-23, u1460:0-32, u1461:0-20 %%",
+        "DM: She's holding a quarter staff in one hand. The other ones—the wow, do they have metal, I'm—that one of the ones that is that is next to her...",
+        "",
+        "%% u1462:0-10 %%",
+        "Unknown: Let's see.",
+        "",
+        "%% u1463:0-13, u1464:0-103, u1465:0-59 %%",
+        "DM: Is is wearing wearing metal armor and has like a is sort of reaching for a big spear that's leaning against the wall, as they're starting to kind of move move in your direction.",
+        "",
+        "%% u1466:0-19 %%",
+        "Delwath: How many are there?",
+        "",
+        "%% u1467:0-32, u1468:0-76, u1469:0-4, u1470:0-52 %%",
+        "DM: Well, there's four of them here. But in the shadows, you know, around the edges of the pool, there seem to be more. There's four of them up on the platform next to you.",
+        "",
+        "%% u1471:0-86 %%",
+        "Kenzo: Feels like we can talk our way out of this. Might be good to try that first. Yeah, see...",
+        "",
+        "%% u1472:0-41, u1473:0-101, u1474:0-8, u1475:0-4 %%",
+        "Seeker: So let me maybe make a peaceful overture. I hold up my empty hands and say, 'We came from south of here, and we come in in in peace and mission of inquiry.' Like...",
+        "",
+        "%% u1476:0-56, u1477:0-24, u1478:0-129, u1479:0-240 %%",
+        "DM: You—and she gets up off of her what passes for a throne, and as—as she is sort of you know, getting up, you can see around her there's like this is like sort of a living area, like living quarters, like there's a—there's a chest that's kind of shoved into one corner, and there's sort of a small covered area that has, a, you know, not a bed exactly, but like a pile of straw that's been sort of pulled together into you know, some sort of sleeping area.",
+        "",
+        "%% u1480:0-256, u1481:0-4, u1482:0-8, u1483:0-40, u1484:0-13, u1485:0-42, u1486:0-32, u1487:0-57, u1488:0-2, u1489:0-16, u1490:0-25, u1491:0-13 %%",
+        "DM: And there's a little bit of like a sort of cooking area off the side too, and she moves. She gets down off of the throne and sort of moves sort of quickly till she's right up in your face, and she like licks her finger and then holds it up to you. She says, 'From outside?' She like looks horrified at the thought. 'But why here?' She like reaches with her nail, and sort of not quite touching you, but like moving moving it through the air like near your forehead. 'My kingdom. Why you?' She licks another finger. 'Not outsiders.'",
+        "",
+        "%% u1492:0-5, u1493:0-2 %%",
+        "Seeker: Well, we...",
+        "",
+        "%% u1494:0-23 %%",
+        "Delwath: This is all in Dwarven?",
+        "",
+        "%% u1495:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1496:0-14 %%",
+        "Seeker: Well, you see.",
+        "",
+        "%% u1497:0-37 %%",
+        "Kenzo: Maybe maybe asked her if we can pass.",
+        "",
+        "%% u1498:0-42 %%",
+        "Seeker: Oh, oh, that's a very good idea, um, yeah.",
+        "",
+        "%% u1499:0-45 %%",
+        "Riswynn: We're happy to leave if we just go around the...",
+        "",
+        "%% u1500:0-5 %%",
+        "Unknown: Door.",
+        "",
+        "%% u1501:0-126, u1502:0-7, u1503:0-38 %%",
+        "Seeker: We are on a quest of healing. We've noticed some problems with the local water supply, and we would like to pass through cavern. And, and we ask nothing of you but safe passage.",
+        "",
+        "%% u1504:0-7, u1505:0-52, u1506:0-89, u1507:0-12, u1508:0-16, u1509:0-70 %%",
+        "((Tactical checks, table asides and rolls))",
+        "",
+        "%% u1510:0-44 %%",
+        "DM: She's sort of like hissing to herself a bit.",
+        "",
+        "%% u1511:0-6 %%",
+        "Riswynn: There.",
+        "",
+        "%% u1512:0-26, u1513:0-84, u1514:0-17, u1515:0-22 %%",
+        "DM: Like a—what, a ball bearing? And she's like, like flicking her tongue every now and then, like licking, and she's, 'Passage, maybe yes. But must help us first.'",
+        "",
+        "%% u1516:0-63 %%",
+        "Seeker: Oh, of course we can help you, what, what—how can we help you?",
+        "",
+        "%% u1517:0-130, u1518:0-128, u1519:0-14 %%",
+        "DM: She likes spins around and sort of walks back to her throne, gets her staff and sort of taps it on the ground, and then but picks up like a piece of sort of chalky white rock that next that's next to her throne, and she sort of licks it and looks at it and says, 'Can you fight?'",
+        "",
+        "%% u1520:0-47, u1521:0-17 %%",
+        "Seeker: We, we do have the ability to defend ourselves at times of need.",
+        "",
+        "%% u1522:0-4, u1523:0-22, u1524:0-4 %%",
+        "DM: 'Then you will help us. Yes. Come.'",
+        "",
+        "%% u1525:0-27, u1526:0-62 %%",
+        "Seeker: I turned back to the other. 'Not sure what she's asking us to do here, but involves fighting.'",
+        "",
+        "%% u1527:0-54 %%",
+        "Riswynn: Think Seeker just hired us on as mercenaries. Come on.",
+        "",
+        "%% u1528:0-9 %%",
+        "Seeker: Let's go.",
+        "",
+        "%% u1529:0-5 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u1530:0-42 %%",
+        "Kenzo: We were fighting for them? These are these...",
+        "",
+        "%% u1531:0-8 %%",
+        "Unknown: Dwarves.",
+        "",
+        "%% u1532:0-14 %%",
+        "Kenzo: These dwarves...",
+        "",
+        "%% u1533:0-7 %%",
+        "DM: Are not...",
+        "",
+        "%% u1534:0-10 %%",
+        "Riswynn: Dead. What...",
+        "",
+        "%% u1535:0-8 %%",
+        "Wellby: Are they?",
+        "",
+        "%% u1536:0-57 %%",
+        "Seeker: They're dwarf-sized, speak Dwarvish, and look very strange.",
+        "",
+        "%% u1537:0-75 %%",
+        "Delwath: Is she looking at who she's talking to? It doesn't look like she can't see?",
+        "",
+        "%% u1538:0-28 %%",
+        "Seeker: That's interesting question.",
+        "",
+        "%% u1539:0-42 %%",
+        "DM: No, she is looking at who she's talking to.",
+        "",
+        "%% u1540:0-33 %%",
+        "Seeker: And she held up a piece of chalk?",
+        "",
+        "%% u1541:0-28 %%",
+        "Riswynn: She tasted a piece of chalk.",
+        "",
+        "%% u1542:0-10, u1543:0-69 %%",
+        "Delwath: Yes, is it—I mean, it's dark in here, except for the light that Kenzo is carrying?",
+        "",
+        "%% u1544:0-54 %%",
+        "DM: Pitch black and the light that Kenzo is carrying, yes.",
+        "",
+        "%% u1545:0-39, u1546:0-30 %%",
+        "Seeker: Is there natural—is there natural chalk formation likely in this area?",
+        "",
+        "%% u1547:0-3, u1548:0-247 %%",
+        "DM: Um, no. I mean, there certainly like chalk. It wouldn't be totally unreasonable that there is a piece of chalk around, but that seems more like something that she found or scavenged from somewhere then like something that just fell off the cavern wall.",
+        "",
+        "%% u1549:0-6 %%",
+        "Unknown: Right.",
+        "",
+        "%% u1550:0-163 %%",
+        "Kenzo: But just back to some more fundamental questions: who are these? What kind of creatures are these, coming up—we all—can we all do some kind of a wonderful check to...",
+        "",
+        "%% u1551:0-13 %%",
+        "Delwath: Kind of help.",
+        "",
+        "%% u1552:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u1553:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1554:0-14 %%",
+        "DM: So I would say...",
+        "",
+        "%% u1555:0-59 %%",
+        "Delwath: Have I ever seen them something, anything like this before?",
+        "",
+        "%% u1556:0-44, u1557:0-19, u1558:0-6, u1559:0-39, u1560:0-37, u1561:0-20, u1562:0-8, u1563:0-9, u1564:0-5, u1565:0-5 %%",
+        "((Tactical checks, table asides and rolls))",
+        "",
+        "%% u1566:0-7, u1567:0-44, u1568:0-56, u1569:0-221, u1570:0-116, u1571:0-103, u1572:0-33, u1573:0-64 %%",
+        "DM: Ah, OK. So you think about it, and you can't imagine it, like this. These are not creatures that you have seen anytime before, like this is not—these are not things that are particularly familiar to you. But you are sort of thinking now about sort of lore that you've read and things you've read of, of, you know, creatures that are dwell deep underground. So not dwarves, but, you know, not not creatures created by the Divine, but created by other other forces underground, and there's a lot you know, this fits with what you might expect of the sort of you know, strange things that are found deep under the earth. And I'm also typing something to you.",
+        "",
+        "%% u1574:0-5 %%",
+        "Unknown: Okay."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The door slides slides quietly open as you as you wiggle this lever. The wall kind of clicks a little bit, and you can just sort of gently push it as it swings open. You are looking into a—well, Riswynn, you can—you are looking into what seems like what was once an underground pool or pond or something like that. So you're looking, there's a there's a raised area in front of you that's maybe 10, 20 feet wide by 40 feet long, and then to the left diagonally to the left and diagonally to the right, the the ground slopes down, and there's sort of shallow walls, shallow walls that sort of slide down towards some murky water at the bottom, but it seems like one point the water level was much higher. The cavern that you're looking into itself is quite large, maybe 100 feet across, so Riswynn is the only one who can see to the far walls. And there's a sort of a walkway along the edge that goes all around, at—as the door slides open... he—you also see...",
+          "Riswynn: There's a wide peninsula directly ahead through the middle, but it doesn't go all the way across, and then their paths along the edges that do go all the way across?",
+          "DM: No, there's one that goes all the way across this way, straight, and then around the sides, right? So it's like there's a two separate pools. This way, this way. Pathway that goes across, pathway that goes around the side.",
+          "Riswynn: When it's across.",
+          "DM: As far as I can—so ceiling is much higher here, you know, maybe 50 feet up, like this is a big cavern. As you sort of take in this underground grotto, pool area, you also take in that it has been just trashed. There's like lots of of refuse piled up around. There's lots of straw sort of laid out. There's piles of you know, bones kind of scattered around, like from small animals and things like rats. And you see on this platform that you're standing on... A—"
+        ],
+        "after": [
+          "Kenzo: Randomly, for everybody, the image that in my mind that I have for this creature is is that from The Dark Crystal, you know, the Aughra, that—that's what I have in my mind.",
+          "Seeker: I was—yeah, it fits. I love that. She's kind of like purple with scraggly hair, and old crone, yeah.",
+          "Kenzo: Yeah.",
+          "Seeker: She's one, I think.",
+          "Kenzo: She does—she like takes out and looks at stuff."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Kenzo reads the woman’s intentions",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1614",
+        "endUid": "u1655"
+      },
+      "lines": [
+        "%% u1614:0-65, u1615:0-65, u1616:0-65 %%",
+        "Kenzo: Actually, wait, can I, can we do the—time I'm going to do the thing, Tim, can we—can somebody do something like sense evil type shit? Tim, can I do, what do I do? Oh, dude, I'm going to do Soul Sight.",
+        "",
+        "%% u1617:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1618:0-23 %%",
+        "DM: Ah, that's a good idea.",
+        "",
+        "%% u1619:0-28 %%",
+        "Kenzo: Hell yeah, it's a good idea.",
+        "",
+        "%% u1620:0-24, u1621:0-111, u1622:0-17, u1623:0-59, u1624:0-40, u1625:0-4, u1626:0-3, u1627:0-52, u1628:0-34, u1629:0-3, u1630:0-97, u1631:0-17, u1632:0-214, u1633:0-245, u1634:0-22, u1635:0-85, u1636:0-117, u1637:0-50, u1638:0-5, u1639:0-25, u1640:0-10, u1641:0-34, u1642:0-36 %%",
+        "((Soul Sight mechanics and Insight roll))",
+        "",
+        "%% u1643:0-75, u1644:0-30, u1645:0-17, u1646:0-36, u1647:0-16, u1648:0-31, u1649:0-49 %%",
+        "DM: Ah, so as you as you sort of turn and look at her and concentrate with your ability to perceive beyond the beyond the normal, you can see you know, this is not a well-adjusted or particularly nice creature, but she really does seem to want you to do something.",
+        "",
+        "%% u1650:0-16 %%",
+        "Seeker: And doesn't seem...",
+        "",
+        "%% u1651:0-12 %%",
+        "Unknown: Particularly...",
+        "",
+        "%% u1652:0-93, u1653:0-82 %%",
+        "DM: I wouldn't say it doesn't seem dishonest, because she seems slightly paranoid and crazy, but um you don't get the sense that she's leading you into a trap or something like that.",
+        "",
+        "%% u1654:0-36 %%",
+        "Kenzo: Good enough. That's fine. All right.",
+        "",
+        "%% u1655:0-25 %%",
+        "Seeker: She's my new friend, right?"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Cuz he got a good roll, um, Okay, so are you following? This, this creature is sort of tapping her staff impatiently.",
+          "Seeker: What, what are we—okay, what are we gonna fight?",
+          "DM: 'You'll see. You'll see.'",
+          "Kenzo: What?",
+          "Seeker: She's perfectly trustworthy to me, and we can always we can always run away and pull the lever on our way out if we need to."
+        ],
+        "after": [
+          "Unknown: We didn't pass.",
+          "DM: Ah, OK, so um sorry, let me grab it again. Okay, so she she leads you then down the sort of central passageway, like tapping her staff as she goes, and every now and then turning back to look at you, and she'll like sort of suck on her teeth a little bit and just kind of tap, tap, and whenever she glances towards Kenzo with the light, she she like shies away and just, 'Put that out,' muttering under her breath. On the central passageway sort of there's a slight rise, like a bridge, goes over water that's flowing in between the left-hand pool on the right-hand pool. And you can see as you're passing through here, the you know, there's probably 30 of these creatures kind of scattered around this room, sort of, mostly huddled along the edges of the of the floor, and seem to be all kind of looking at you as you go past. Just just you know 60 eyes just kind of staring, watching your every movement, glinting in the darkness as you walk past. And like every time she taps her staff on the ground, like everybody immediately turns to attention there.",
+          "DM: And you—you cross across this this passageway and come to the far side of the cavern. And you can see there's so the the walls extend to the left and the right, and you can see in the distance there's sort of an open area to your left and then a sort of open area right, and then ahead of you there's a huge cavern opening up, in the let's see, about 40 feet ahead of you, and there's a few more of these of these creatures kind of standing around that the sort of entry way to this huge cavern. And when she walks past, they sort of all turn in and look at her, and she: 'They're gonna kill it. You back. They'll kill it.' And she waves you forward and just points into the shadows of this huge, massive cavern in front of you.",
+          "Seeker: And...",
+          "Kenzo: Kill what, Seeker? What are we trying to kill?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "A demand to kill the cavern predator",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u1657",
+        "endUid": "u1747"
+      },
+      "lines": [
+        "%% u1657:0-3, u1658:0-9, u1659:0-187, u1660:0-163, u1661:0-43, u1662:0-3, u1663:0-198, u1664:0-131, u1665:0-27, u1666:0-241, u1667:0-25 %%",
+        "DM: Ah, OK, so um sorry, let me grab it again. Okay, so she she leads you then down the sort of central passageway, like tapping her staff as she goes, and every now and then turning back to look at you, and she'll like sort of suck on her teeth a little bit and just kind of tap, tap, and whenever she glances towards Kenzo with the light, she she like shies away and just, 'Put that out,' muttering under her breath. On the central passageway sort of there's a slight rise, like a bridge, goes over water that's flowing in between the left-hand pool on the right-hand pool. And you can see as you're passing through here, the you know, there's probably 30 of these creatures kind of scattered around this room, sort of, mostly huddled along the edges of the of the floor, and seem to be all kind of looking at you as you go past. Just just you know 60 eyes just kind of staring, watching your every movement, glinting in the darkness as you walk past. And like every time she taps her staff on the ground, like everybody immediately turns to attention there.",
+        "",
+        "%% u1668:0-85, u1669:0-15, u1670:0-120, u1671:0-42, u1672:0-52, u1673:0-10, u1674:0-6, u1675:0-41, u1676:0-54, u1677:0-87, u1678:0-48, u1679:0-22, u1680:0-26, u1681:0-26, u1682:0-33, u1683:0-44 %%",
+        "DM: And you—you cross across this this passageway and come to the far side of the cavern. And you can see there's so the the walls extend to the left and the right, and you can see in the distance there's sort of an open area to your left and then a sort of open area right, and then ahead of you there's a huge cavern opening up, in the let's see, about 40 feet ahead of you, and there's a few more of these of these creatures kind of standing around that the sort of entry way to this huge cavern. And when she walks past, they sort of all turn in and look at her, and she: 'They're gonna kill it. You back. They'll kill it.' And she waves you forward and just points into the shadows of this huge, massive cavern in front of you.",
+        "",
+        "%% u1684:0-3 %%",
+        "Seeker: And...",
+        "",
+        "%% u1685:0-46 %%",
+        "Kenzo: Kill what, Seeker? What are we trying to kill?",
+        "",
+        "%% u1686:0-4 %%",
+        "Delwath: Now...",
+        "",
+        "%% u1687:0-15 %%",
+        "Seeker: You want to ask?",
+        "",
+        "%% u1688:0-11 %%",
+        "Unknown: Can you ask?",
+        "",
+        "%% u1689:0-19, u1690:0-59 %%",
+        "Seeker: What is this thing that you want us to kill? Maybe we should talk to it first.",
+        "",
+        "%% u1691:0-3, u1692:0-15, u1693:0-9, u1694:0-7, u1695:0-20, u1696:0-17 %%",
+        "DM: Ah, 'Does not speak. Just eats. Eats us. Eats us no more. You, you will kill it.'",
+        "",
+        "%% u1697:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1698:0-27 %%",
+        "Riswynn: Does it fly, doesn't have to...?",
+        "",
+        "%% u1699:0-16 %%",
+        "DM: 'Beware its bite.'",
+        "",
+        "%% u1700:0-25 %%",
+        "Riswynn: Jumping, flying, swimming?",
+        "",
+        "%% u1701:0-17 %%",
+        "Wellby: That's what kills...",
+        "",
+        "%% u1702:0-39 %%",
+        "Seeker: Yeah, what, how can we hurt this thing?",
+        "",
+        "%% u1703:0-26 %%",
+        "DM: 'If I knew, I would kill it.'",
+        "",
+        "%% u1704:0-4 %%",
+        "Unknown: Huh.",
+        "",
+        "%% u1705:0-13, u1706:0-15 %%",
+        "DM: As we go past: 'Do not like it.'",
+        "",
+        "%% u1707:0-21, u1708:0-21, u1709:0-22, u1710:0-25, u1711:0-73, u1712:0-125, u1713:0-3, u1714:0-54, u1715:0-6, u1716:0-70, u1717:0-89, u1718:0-8, u1719:0-12, u1720:0-15, u1721:0-60, u1722:0-114, u1723:0-79, u1724:0-39, u1725:0-98, u1726:0-269, u1727:0-14, u1728:0-24, u1729:0-25, u1730:0-25, u1731:0-31, u1732:0-29, u1733:0-62, u1734:0-8, u1735:0-20, u1736:0-4, u1737:0-63, u1738:0-9, u1739:0-14 %%",
+        "((Questions, lighting and marketplace orientation))",
+        "",
+        "%% u1740:0-110 %%",
+        "DM: Know, she's standing behind you and she's sort of like has her—she's like, tapping her fingers like this now.",
+        "",
+        "%% u1741:0-59 %%",
+        "Delwath: So when it eats the people it eats, does it come from where?",
+        "",
+        "%% u1742:0-14, u1743:0-55, u1744:0-15 %%",
+        "DM: 'You fight now.' She likes starts shoving it—those of you who are back with the staff.",
+        "",
+        "%% u1745:0-121 %%",
+        "Seeker: Hmm, she she might be trying to simply give it a snack so that it's less likely to eat her folks, assuming it will eat us.",
+        "",
+        "%% u1746:0-53 %%",
+        "Riswynn: She'd prefer if we kill it if we can. Otherwise, yeah.",
+        "",
+        "%% u1747:0-13 %%",
+        "Seeker: I suppose so."
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Particularly...",
+          "DM: I wouldn't say it doesn't seem dishonest, because she seems slightly paranoid and crazy, but um you don't get the sense that she's leading you into a trap or something like that.",
+          "Kenzo: Good enough. That's fine. All right.",
+          "Seeker: She's my new friend, right?",
+          "Unknown: We didn't pass."
+        ],
+        "after": [
+          "Riswynn: When, when",
+          "Wellby: One of my torches, just straight in front of us, as far as I can throw it.",
+          "DM: I like that idea. Okay, so like to hear or something.",
+          "Wellby: So I'm going to move up, you know, in line, next...",
+          "Riswynn: Pointing to here because we're supposed to be able to see something on our screens? Because I have a solid black area."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The map’s tunnel and overhead markings",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1781",
+        "endUid": "u1792"
+      },
+      "lines": [
+        "%% u1781:0-62, u1782:0-19 %%",
+        "Seeker: So there's something underneath this market marked on the map, does that the case?",
+        "",
+        "%% u1783:0-25 %%",
+        "DM: Something underneath what?",
+        "",
+        "%% u1784:0-41 %%",
+        "Seeker: The market on the dwarven outpost drawing.",
+        "",
+        "%% u1785:0-37 %%",
+        "Delwath: Wait, are we sure we're in the right...?",
+        "",
+        "%% u1786:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1787:0-45 %%",
+        "DM: And there is something marked underneath that.",
+        "",
+        "%% u1788:0-27 %%",
+        "Riswynn: A hidden tunnel to a vault.",
+        "",
+        "%% u1789:0-35, u1790:0-29 %%",
+        "DM: Underneath it, and then there's like something—this is actually a...",
+        "",
+        "%% u1791:0-4 %%",
+        "Seeker: Blue.",
+        "",
+        "%% u1792:0-28 %%",
+        "DM: Dotted-line circle as above."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: These are like stalactites or stalagmites, these things.",
+          "Seeker: I'm super interested in whatever that is, but it's obviously not the important thing at this moment. But those are sculptures, essentially?",
+          "DM: They're—yeah, they're they're like dwarven rock garden type thing.",
+          "Wellby: How high is the ceiling? Is it within the...?",
+          "DM: The ceiling is—no, it's probably 50. It's more than 40 feet up."
+        ],
+        "after": [
+          "Kenzo: Can—you should turn on some music. I just did.",
+          "Delwath: So, I mean, what else can we do except kind of...?",
+          "Wellby: Can we listen? Can we hear anything? Any sounds?",
+          "Seeker: In the spirit of calm combat.",
+          "DM: Yeah, you can. Yeah, you can listen, hear the sounds of water dripping in the distance. You hear some footsteps behind you as these Dwarvish-like creatures kind of all gather, sort of it but well behind you, kind of a little bit of chattering and sort of whispering, and then every now and then that's yes hissing from the, the woman who was talking to you. You hear the occasional of bat wings in the distance. Otherwise it is quiet."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The woman claims credit and points onward",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2809",
+        "endUid": "u2835"
+      },
+      "lines": [
+        "%% u2809:0-39 %%",
+        "Seeker: What's the reaction of our friend who's...?",
+        "",
+        "%% u2810:0-24, u2811:0-8, u2812:0-189, u2813:0-34, u2814:0-3, u2815:0-116, u2816:0-16, u2817:0-50 %%",
+        "DM: Watching in the side, and once you once you sort of figure it out and are sort of spending your time at a distance just taking potshots on it, they sort of look rapt. And then when it cracks, there's like sort of cheering and yeah, sort of whoops of laughter. And the sort of white-haired woman turns and sort of points at them all instead, and sort of looks and says, 'I told you. We would fix it.' Is like taking credit for your success, basically.",
+        "",
+        "%% u2818:0-32, u2819:0-10, u2820:0-49, u2821:0-4, u2822:0-5 %%",
+        "Seeker: Glad, glad we could help you out. And so now, as we agreed, you'll give us safe passage over to—two. Guys?",
+        "",
+        "%% u2823:0-131 %%",
+        "Wellby: Into the fortress on the other side of that, and see if they'll show us the underground passages that we can use to get into Raven's",
+        "",
+        "%% u2824:0-28, u2825:0-11 %%",
+        "Seeker: Safe passage to Raven's Hold underground.",
+        "",
+        "%% u2826:0-48, u2827:0-57 %%",
+        "DM: She she sort of looks up at you as you say that. 'The door is that way; you make safe passage for yourself.'",
+        "",
+        "%% u2828:0-25 %%",
+        "Seeker: Which way is she pointing?",
+        "",
+        "%% u2829:0-43 %%",
+        "DM: Like on the other side of this big cavern.",
+        "",
+        "%% u2830:0-21 %%",
+        "Seeker: Look straight across?",
+        "",
+        "%% u2831:0-31 %%",
+        "Wellby: Is she pointing to the theater?",
+        "",
+        "%% u2832:0-104 %%",
+        "DM: You can't see that far away. I mean, she's pointing across the darkness to the other side of the cavern.",
+        "",
+        "%% u2833:0-25 %%",
+        "Wellby: We know based on the map.",
+        "",
+        "%% u2834:0-28 %%",
+        "Delwath: Yeah, for someone or market.",
+        "",
+        "%% u2835:0-5 %%",
+        "DM: Yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: With a 19 just slip...",
+          "DM: Out of the blast of your flame.",
+          "Seeker: I'm...",
+          "DM: Okay, at this point, though, you've kind of got it trapped, and you know, in the interest of time, I think between Wellby potshotting it with arrows and Sacred Flame and Eldritch Blast, there's no way it can catch up to any of you with its pitiful 10 feet of movement. So over the next minute or so, you just slowly wear it down between arrows, the heat of the burning arrow that's embedded into it, and the blast of force and fire from Riswynn and Kenzo, until it sort of—you know, it's moving around like this, it moves like basically 10 feet every turn, just sort of trying to find somebody. But with its tiny little legs, that just has no ability to—once you've figured out the safe radius to be away from it, it just has no ability to get close to you. And you have too much ranged damage potential for it to survive, and it cracks down, falling on the floor.",
+          "Wellby: Well..."
+        ],
+        "after": [
+          "Unknown: Assuming you're on the longer...",
+          "Delwath: I need to go to bed, yeah.",
+          "DM: Yes.",
+          "Kenzo: This is a good stopping point.",
+          "Delwath: Yeah, that's what I was gonna suggest."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
