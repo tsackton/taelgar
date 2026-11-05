@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-time-markers.json",
+    "sha256": "846f6413b9f0dd84dedbdb8b9954167bdabced9b0e77c5ddfbd974d12f76438f"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+    "sha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff"
+  },
+  "dateAssessment": "Working waking/adventure date: July 3, 1748, from session YAML; no current calendar date is independently spoken. The time JSON is compatible, with an unresolved opening boundary: including the narrated sleep begins on July 2, while treating it as the previous session’s handoff begins with July 3 waking. The overnight watch below is conditional on that waking date. Later historical testimony and August 1 forecasts do not extend the played span. The closing return has no independently stated clock; no second overnight is established.",
+  "watches": [
+    {
+      "day": "July 2–3, 1748",
+      "startDate": "1748-07-02",
+      "endDate": "1748-07-03",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Eight-hour long-rest convention ending before dawn implies a dusk start; opening session boundary remains unresolved.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "July 3, 1748",
+      "startDate": "1748-07-03",
+      "endDate": "1748-07-03",
+      "startWatch": "dawn",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Exit at sunrise; two successive journeys of about an hour reach the fort’s southern approach.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "July 3, 1748",
+      "startDate": "1748-07-03",
+      "endDate": "1748-07-03",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Clairvoyance continues for a few minutes at the stop reached after the sunrise journey.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "July 3, 1748",
+      "startDate": "1748-07-03",
+      "endDate": "1748-07-03",
+      "startWatch": "morning",
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Interrogation includes one hour of short-rest credit; no later clock fixes the ending watch.",
+      "markers": [
+        "t04"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Avani",
+      "path": "People/Dunmari/Avani.md",
+      "sha256": "eb1b66fac02f9dc619ecdd5181ff93bacda50c03acf8b9a6bfc124cb12be7aca"
+    },
+    {
+      "label": "Session 39 (DuFr)",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 39 (DuFr).md",
+      "sha256": "aeb2e3045bae1ef3d51c04678dc127a20145e20f4402b7a29dc138c9cd368d07"
+    }
+  ]
+}

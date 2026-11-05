@@ -1,0 +1,676 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-039",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+    "sessionYamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+    "transcriptSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-segments.json",
+      "sha256": "a8ba05ad4217703bc7a914f030a19502cd9eb22476381b0a288c860e1a242765",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Werewolves and manifestations at the ruined tower",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Entangle as quicksand, concentrating. The woman fails her Strength save and is restrained; the other two succeed. The area remains difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u0827",
+                  "endUid": "u0860"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf man",
+              "kind": "turn",
+              "summary": "Takes a sword, advances through the difficult terrain, demands to know who the intruders are, and begins transforming into a werewolf.",
+              "evidence": [
+                {
+                  "startUid": "u0862",
+                  "endUid": "u0867"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Calls for surrender and offers a cure, shaking the man without obtaining surrender yet. Moves closer and uses Soul Sight: Strength is the man’s strongest ability, and he is confused and nervous. The man fails the Wisdom save and takes 8 psychic damage; the initial 28 is corrected.",
+              "evidence": [
+                {
+                  "startUid": "u0868",
+                  "endUid": "u0910"
+                },
+                {
+                  "startUid": "u0924",
+                  "endUid": "u0939"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves up with sword pointed and demands surrender. His Intimidation has advantage from Kenzo’s preparation; the man remains on the edge of breaking.",
+              "evidence": [
+                {
+                  "startUid": "u0940",
+                  "endUid": "u0954"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Aims his shortbow without firing and threatens the man, making Intimidation with advantage. The man finally believes the party and his shoulders slump in surrender.",
+              "evidence": [
+                {
+                  "startUid": "u0955",
+                  "endUid": "u0975"
+                },
+                {
+                  "startUid": "u1076",
+                  "endUid": "u1077"
+                }
+              ]
+            },
+            {
+              "actor": "Muttering captive",
+              "kind": "turn",
+              "summary": "Declares the ritual premature but insists something will still come. Draws the silver dagger from his neck sheath and stabs it into his own chest; his flesh sizzles, he gives a final warning about whispers and dies.",
+              "evidence": [
+                {
+                  "startUid": "u0977",
+                  "endUid": "u0992"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves closer and asks both survivors what their companion meant, offering healing and another life. The restrained woman is terrified of what has been unleashed.",
+              "evidence": [
+                {
+                  "startUid": "u1007",
+                  "endUid": "u1022"
+                }
+              ]
+            },
+            {
+              "actor": "Restrained woman",
+              "kind": "turn",
+              "summary": "Fails to break out of the quicksand.",
+              "evidence": [
+                {
+                  "startUid": "u1027",
+                  "endUid": "u1029"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Sacrifice’s body",
+              "kind": "event",
+              "summary": "At the start of Seeker’s turn, the spilled blood congeals into mouths and teeth and tentacles emerge from the corpse; the dead man’s babble continues through its mouths.",
+              "evidence": [
+                {
+                  "startUid": "u1032",
+                  "endUid": "u1052"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Erupting Earth on the emerging creature and surrendered man, avoiding the restrained woman. Both fail Dexterity saves; the eruption batters them and leaves the man badly hurt. No numeric damage is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1060",
+                  "endUid": "u1077"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf man",
+              "kind": "turn",
+              "summary": "Runs through the difficult terrain and dashes behind the tower; he survives Delwath’s intervening nonlethal opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u1081",
+                  "endUid": "u1100"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Hits the fleeing man with a nonlethal melee opportunity attack; he is still able to continue his dash behind the tower.",
+              "evidence": [
+                {
+                  "startUid": "u1090",
+                  "endUid": "u1100"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends a ki for Step of the Wind and dashes after the man. Makes two regular attacks, not Flurry of Blows: first misses; second deals 10 and knocks him unconscious behind the tower.",
+              "evidence": [
+                {
+                  "startUid": "u1101",
+                  "endUid": "u1126"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Succeeds on the Wisdom save against the mouth-creature’s whispers. Applies Hexblade’s Curse before slashing it twice; the spoken damage is “13 plus nine,” after adding six from the curse. No concentration check is required for the curse.",
+              "evidence": [
+                {
+                  "startUid": "u1129",
+                  "endUid": "u1158"
+                },
+                {
+                  "startUid": "u1334",
+                  "endUid": "u1342"
+                }
+              ],
+              "note": "The earlier shorthand “hex” is explicitly clarified as Hexblade’s Curse later; the damage arithmetic is retained without inventing another total."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes careful aim and fires with two charges: hits for 21 total damage, including 4 fire, setting the mouth-creature burning.",
+              "evidence": [
+                {
+                  "startUid": "u1159",
+                  "endUid": "u1166"
+                },
+                {
+                  "startUid": "u1327",
+                  "endUid": "u1330"
+                }
+              ]
+            },
+            {
+              "actor": "Mouth-covered creature",
+              "kind": "turn",
+              "summary": "Lunges at the adjacent opponent with advantage and misses. Spits an exploding flash beside Delwath and Riswynn; both fail the Dexterity saves and are blinded.",
+              "evidence": [
+                {
+                  "startUid": "u1167",
+                  "endUid": "u1188"
+                }
+              ],
+              "note": "The lunge’s target is only described as the creature next to it; Delwath is the nearby attacker, but the source does not name him here."
+            },
+            {
+              "actor": "Shadow creature",
+              "kind": "turn",
+              "summary": "Emerges from the mist and whispers at Delwath and Riswynn. Riswynn succeeds on Wisdom; Delwath fails, takes 7 psychic damage and is compelled to attack her.",
+              "evidence": [
+                {
+                  "startUid": "u1195",
+                  "endUid": "u1219"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses his compelled reaction to swing at Riswynn while blind; misses her armor.",
+              "evidence": [
+                {
+                  "startUid": "u1211",
+                  "endUid": "u1219"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts restoration on herself, ending her blindness, and moves to stand in front of Seeker. The proposed bonus-action attack/spell is not available.",
+              "evidence": [
+                {
+                  "startUid": "u1220",
+                  "endUid": "u1258"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow creature",
+              "kind": "turn",
+              "summary": "Takes its explicitly granted second turn: advances and howls. Riswynn is unaffected after her Wisdom save; Wellby and Seeker take 10 psychic damage and are stunned until the end of its next turn. Seeker loses concentration on a Constitution save, ending Entangle and freeing the woman.",
+              "evidence": [
+                {
+                  "startUid": "u1259",
+                  "endUid": "u1291"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Is stunned and cannot act.",
+              "evidence": [
+                {
+                  "startUid": "u1287",
+                  "endUid": "u1291"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends another ki to dash back around the tower. Declines to cure Delwath and punches the mouth-covered creature twice; both hit and leave the corpse close to disintegration.",
+              "evidence": [
+                {
+                  "startUid": "u1300",
+                  "endUid": "u1330"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Still blind, plans Armor of Agathys, but a failed beginning-of-turn Wisdom save replaces the casting with compelled movement north around Kenzo. He does not cast the defensive spell.",
+              "evidence": [
+                {
+                  "startUid": "u1331",
+                  "endUid": "u1361"
+                },
+                {
+                  "startUid": "u1517",
+                  "endUid": "u1518"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Is still stunned and cannot act.",
+              "evidence": [
+                {
+                  "startUid": "u1363",
+                  "endUid": "u1370"
+                }
+              ]
+            },
+            {
+              "actor": "Mouth-covered creature",
+              "kind": "turn",
+              "summary": "Fails the DC 13 Constitution save against burning and takes 4 fire damage. Bites Delwath with advantage because he is blind, but misses with an 8. Its next flash targets Delwath and Kenzo: Delwath succeeds without disadvantage after the DM corrects that ruling; Kenzo is blinded. Delwath’s previous blindness expires at the end of this turn.",
+              "evidence": [
+                {
+                  "startUid": "u1363",
+                  "endUid": "u1393"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow creature",
+              "kind": "turn",
+              "summary": "Touches stunned Seeker with advantage, hitting for 13 psychic damage, then ends its turn.",
+              "evidence": [
+                {
+                  "startUid": "u1388",
+                  "endUid": "u1401"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Searing Smite and hits the shadow creature with one-handed Shatterstorm. The hammer connects despite incorporeality; the stated 12 fire damage is partly resisted, but sets the creature alight.",
+              "evidence": [
+                {
+                  "startUid": "u1402",
+                  "endUid": "u1422"
+                },
+                {
+                  "startUid": "u1432",
+                  "endUid": "u1433"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Recovers from the stun and casts Polymorph to turn the shadow creature into a fish; it succeeds on the save. Gives Bardic Inspiration to Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u1434",
+                  "endUid": "u1446"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Succeeds on the retrospectively requested Wisdom save. Spends two ki to cleanse his blindness, then makes the permitted bonus-action strike that destroys the mouth-covered creature; it collapses into slime without ever fully forming.",
+              "evidence": [
+                {
+                  "startUid": "u1447",
+                  "endUid": "u1469"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves as far as he can toward the shadow creature and casts Bane. The transcript gives no saving-throw result or confirmation that Bane takes hold.",
+              "evidence": [
+                {
+                  "startUid": "u1470",
+                  "endUid": "u1478"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and fires at the shadow creature with another two charges. His 17 hits and ignites it; the fire again has reduced effect.",
+              "evidence": [
+                {
+                  "startUid": "u1479",
+                  "endUid": "u1494"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow creature",
+              "kind": "turn",
+              "summary": "At the start of its turn, fails the Constitution save against Riswynn’s fire and takes the stated 6 fire before resistance, while succeeding against Wellby’s burning effect, extinguishing that source. Whispers at Wellby, Delwath and Riswynn; Wellby fails Wisdom despite considering Inspiration and receives one temporary hit point from that use. He is compelled to attack Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u1488",
+                  "endUid": "u1504"
+                },
+                {
+                  "startUid": "u1523",
+                  "endUid": "u1538"
+                }
+              ],
+              "note": "The two separate fire saves are resolved retrospectively and belong at this turn’s start. No numerical resistance reduction is supplied."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Under the whispers’ compulsion, drops his bow, draws his vicious short sword and critically hits Delwath. The corrected result is 18 damage with the extra vicious-weapon damage and doubled die, without Sneak Attack.",
+              "evidence": [
+                {
+                  "startUid": "u1502",
+                  "endUid": "u1519"
+                }
+              ],
+              "note": "The source resolves this off-turn forced attack during the shadow creature’s turn; its exact action-economy label is not repeated as it was for Delwath’s earlier forced reaction."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Spirit Guardians, choosing radiant damage in a 15-foot aura; no additional weapon attack or cantrip is taken.",
+              "evidence": [
+                {
+                  "startUid": "u1539",
+                  "endUid": "u1568"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow creature",
+              "kind": "turn",
+              "summary": "On its second turn fails the DC 15 Wisdom save against Spirit Guardians and takes 11 radiant damage. Howls at Riswynn, Delwath and Wellby: only Delwath is affected, becoming stunned by the secrets. Retreats toward the mist, provoking opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1569",
+                  "endUid": "u1581"
+                },
+                {
+                  "startUid": "u1602",
+                  "endUid": "u1606"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Hits with a short-sword opportunity attack, but the mundane blade does not penetrate the shadow’s misty form.",
+              "evidence": [
+                {
+                  "startUid": "u1582",
+                  "endUid": "u1600"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "reaction",
+              "summary": "Hits the retreating shadow with a Shatterstorm opportunity attack; the magic hammer connects and it shrinks.",
+              "evidence": [
+                {
+                  "startUid": "u1591",
+                  "endUid": "u1606"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Erupting Earth on the lightly obscured shadow creature; it fails the Dexterity save and is battered by rocks. Gives Wellby Inspiration again, then moves back.",
+              "evidence": [
+                {
+                  "startUid": "u1610",
+                  "endUid": "u1631"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends ki to dash up to the shadow creature and makes two unarmed attacks; the second hits. Succeeds on the Wisdom save prompted by proximity to the mist, suffering no compulsion.",
+              "evidence": [
+                {
+                  "startUid": "u1632",
+                  "endUid": "u1659"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Is stunned and loses his turn; the condition is then cleared as play moves to Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u1654",
+                  "endUid": "u1660"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and hits with a 23, leaving the shadow creature flaking apart and smaller.",
+              "evidence": [
+                {
+                  "startUid": "u1661",
+                  "endUid": "u1666"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow creature",
+              "kind": "turn",
+              "summary": "Now has only one turn. Fails its Constitution save against Riswynn’s continuing Searing Smite and takes partly resisted fire damage. Critically touches Kenzo for 34 psychic damage, leaving him standing with 11 hit points. Retreats farther into the mist and becomes heavily obscured.",
+              "evidence": [
+                {
+                  "startUid": "u1668",
+                  "endUid": "u1696"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Takes the offered opportunity attack as the shadow retreats. It survives, very close to destruction.",
+              "evidence": [
+                {
+                  "startUid": "u1687",
+                  "endUid": "u1696"
+                }
+              ],
+              "note": "The transcript gives the survival result but no spoken attack roll or damage value."
+            },
+            {
+              "actor": "Restrained woman",
+              "kind": "event",
+              "summary": "After Entangle ends, runs to hide cowering in a corner of the tower.",
+              "evidence": [
+                {
+                  "startUid": "u1707",
+                  "endUid": "u1710"
+                }
+              ],
+              "note": "Her earlier movement is confirmed here; no separate regular turn is narrated."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Dashes into the mist with Spirit Guardians. Fails Wisdom and becomes compelled to spend her full movement going deeper, vanishing from companions’ sight. Casts Spiritual Weapon; its attack against the heavily obscured shadow has disadvantage and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1704",
+                  "endUid": "u1788"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Gives Inspiration to Riswynn at the edge of the mist. Cannot target the unseen creature with Vicious Mockery. Moves closer and succeeds on the Dexterity check to throw a 30-foot rope near Riswynn, who does not pick it up; he holds his end.",
+              "evidence": [
+                {
+                  "startUid": "u1792",
+                  "endUid": "u1837"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Fist of Planar Power from outside the mist without needing sight. The shadow fails its Strength save with a 4 and dissipates into nothingness. Calls Riswynn toward his voice, but she remains compelled deeper into the mist.",
+              "evidence": [
+                {
+                  "startUid": "u1838",
+                  "endUid": "u1864"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses Mage Hand and a spellcasting check to tie Seeker’s rope around Riswynn’s waist; the knot holds. Helps Seeker pull her short, allowing another save.",
+              "evidence": [
+                {
+                  "startUid": "u1865",
+                  "endUid": "u1873"
+                },
+                {
+                  "startUid": "u1885",
+                  "endUid": "u1900"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Turns back to cover the surviving woman cowering in the tower.",
+              "evidence": [
+                {
+                  "startUid": "u1874",
+                  "endUid": "u1881"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Succeeds on the new Wisdom save without needing Inspiration. The rope’s pull restores her awareness and she pulls herself back out of the mist, ending the compulsion.",
+              "evidence": [
+                {
+                  "startUid": "u1882",
+                  "endUid": "u1884"
+                },
+                {
+                  "startUid": "u1901",
+                  "endUid": "u1908"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The mouth-covered creature is destroyed and the shadow dissipates. Riswynn is rescued from the continuing mist compulsion. The mad captive is dead; the werewolf man is unconscious behind the tower and the woman remains cowering in the tower.",
+        "evidence": [
+          {
+            "startUid": "u1459",
+            "endUid": "u1469"
+          },
+          {
+            "startUid": "u1849",
+            "endUid": "u1855"
+          },
+          {
+            "startUid": "u1905",
+            "endUid": "u1908"
+          },
+          {
+            "startUid": "u1120",
+            "endUid": "u1124"
+          },
+          {
+            "startUid": "u1707",
+            "endUid": "u1710"
+          }
+        ]
+      },
+      "note": "The shadow explicitly acts twice per cycle until it shrinks and loses one turn. The apparent initial surrender does not end the continuous ordered encounter."
+    }
+  ]
+}

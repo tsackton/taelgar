@@ -1,0 +1,215 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-039",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+    "sessionYamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+    "transcriptSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff",
+    "yamlDates": {
+      "start": "1748-07-03",
+      "end": "1748-07-03"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0014"
+      },
+      "reading": "The party sleeps after the werewolf fighting and wakes at the inn in pre-dawn darkness with long-rest benefits.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0014",
+          "quote": "So, as you drift to sleep in the comfortable beds at the inn recovering from a long day of fighting werewolves, the full moon climbs higher in the night sky."
+        },
+        {
+          "startUid": "u0001",
+          "endUid": "u0014",
+          "quote": "And you awake in the pre-dawn darkness, how would you like to start your day? Kong, I just sent you a quick message and remember: long rest."
+        },
+        {
+          "startUid": "u0121",
+          "endUid": "u0135",
+          "quote": "as you get there it's—it's still dark, but the moon is bright"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "opening sleep narration"
+        },
+        "end": {
+          "partOfDay": "pre-dawn",
+          "precision": "approximate",
+          "basis": "explicit waking narration"
+        }
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention"
+      },
+      "completion": "completed",
+      "dateBoundaries": 1,
+      "note": "The overnight itself crosses a date boundary; whether its sleeping start belongs to this session or the previous session remains open."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0347",
+        "endUid": "u0381"
+      },
+      "reading": "Leave the tunnels at sunrise and travel north toward the fort for about two hours, reaching a scouting position roughly half a mile south of the summit.",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "You travel through these tunnels and emerge, just as the sun is beginning to rise over the horizon."
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "So you begin to travel and you can see, after couple miles, maybe three miles, maybe close to an hour's journey as the sun starts to get a bit higher in the sky."
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0381",
+          "quote": "Continue for another two, three miles, another hour, maybe the sun rises higher in the sky until you're maybe a little less than a mile maybe half a mile south of the summit of this hill"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "sunrise",
+          "precision": "approximate",
+          "basis": "explicit tunnel exit"
+        },
+        "end": {
+          "relative": {
+            "relation": "after",
+            "anchor": "sunrise at tunnel exit",
+            "offset": {
+              "value": 2,
+              "unit": "hour",
+              "precision": "approximate",
+              "basis": "two narrated legs of about an hour each"
+            }
+          },
+          "precision": "approximate",
+          "basis": "elapsed journey; no numerical sunrise clock"
+        }
+      },
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "two successive narrated legs of roughly an hour"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0549",
+        "endUid": "u0558"
+      },
+      "reading": "Seeker watches the tower occupants through Clairvoyance for a few minutes.",
+      "evidence": [
+        {
+          "startUid": "u0549",
+          "endUid": "u0558",
+          "quote": "This goes on for a few minutes, the muttering sometimes—while you can't hear anything, you can just see his mouth moving."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates continuing observation"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2204",
+        "endUid": "u2223"
+      },
+      "reading": "The party takes a short rest while interrogating the prisoners; later hit-die recovery confirms the rest credit.",
+      "evidence": [
+        {
+          "startUid": "u2204",
+          "endUid": "u2204",
+          "quote": "I mean, can we take a short rest while we're doing this, too?"
+        },
+        {
+          "startUid": "u2222",
+          "endUid": "u2223",
+          "quote": "Take a short rest and interrogate them"
+        },
+        {
+          "startUid": "u2685",
+          "endUid": "u2686",
+          "quote": "We should take a short rest and spend hit dice and get up there."
+        },
+        {
+          "startUid": "u2724",
+          "endUid": "u2724",
+          "quote": "No, that was fine I between hit dice and my."
+        },
+        {
+          "startUid": "u2759",
+          "endUid": "u2760",
+          "quote": "Kenzo: Now is I'm full."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed",
+      "note": "The closing short-rest/hit-die discussion does not unambiguously establish a second separate rest; credit is counted once."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No current calendar date is spoken. July 3, 1748 comes from YAML; the overnight leads into the pre-dawn adventure. August 1 is a future ritual date, and the prisoner’s years/months concern background.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04"
+    ],
+    "explanation": "The waking-to-closing adventure is compatible with one day. Including the opening sleep extends the covered start to the preceding night; its session boundary remains unresolved. No additional overnight is completed in closing play."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01"
+      ],
+      "reading": "Opening narration explicitly traverses sleep and waking, but may bridge the previous session’s closing rest rather than add a new starting day.",
+      "alternatives": [
+        {
+          "reading": "Treat sleep as the previous session’s handoff and start the covered adventure with waking on the YAML date.",
+          "date": "1748-07-03"
+        },
+        {
+          "reading": "Include the opening sleeping scene; conditional on the YAML waking date, begin on the preceding evening.",
+          "date": "1748-07-02"
+        }
+      ]
+    }
+  ]
+}

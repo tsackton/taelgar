@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-039",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-session.yaml",
+    "sessionYamlSha256": "bd95c9119048dee1cb89fa24453f746a85672484760c4bdd8461c5e9ccf85f3a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-transcript.md",
+    "transcriptSha256": "0f5c6b4ef78acd8f9b6f1a6a406bf220105cf66e2b05c46c9c9903241e4249ff"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0243"
+      },
+      "category": "gameplay",
+      "note": "Opening narration includes the played overnight transition and waking; the inseparable turn is gameplay."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0244",
+        "endUid": "u0254"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0255",
+        "endUid": "u0734"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0735",
+        "endUid": "u1917"
+      },
+      "category": "combat",
+      "note": "One continuous initiative cycle includes the apparent surrender, manifestations, and rescue from the mist; quiet returns only afterward."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1918",
+        "endUid": "u2525"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2526",
+        "endUid": "u2540"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2541",
+        "endUid": "u2665"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2666",
+        "endUid": "u2672"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2673",
+        "endUid": "u2768"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2769",
+        "endUid": "u2803"
+      },
+      "category": "meta_discussion"
+    }
+  ]
+}
