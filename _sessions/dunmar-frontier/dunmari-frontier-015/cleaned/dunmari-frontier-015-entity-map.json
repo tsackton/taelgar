@@ -1,0 +1,885 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "f598288db34e3e9a40571dde323225f1362c0ab808d3aa0547073a9e484b1fa5",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "6a243e0974b88cff1733dbc5ba095db43a04c714235c991c4c31638db0c13aea",
+        "transcriptProcessing.artifacts.cleaned": "7bd41545fead6d9090f6a65306b0c37ea3b48d9d6e3ed98e2bfdae185cac7928"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "label": "Hralgar",
+      "kind": "npc",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0438",
+            "endUid": "u0446",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1243",
+            "endUid": "u1273",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1613",
+            "endUid": "u1648",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1852",
+            "endUid": "u1915",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2066",
+            "endUid": "u2088",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2127",
+            "endUid": "u2170",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2292",
+            "endUid": "u2324",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Giants/Hralgar.md",
+      "confidenceExplanation": "The giant’s identity is secure; linking the earlier, gentler trapped-storm communication to him remains provisional, distinct from the contrasting hostile voice.",
+      "names": [
+        "Blind giant",
+        "Trapped storm"
+      ]
+    },
+    {
+      "id": "e002",
+      "label": "Iron-banded sphere",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0513",
+            "endUid": "u0522",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0835",
+            "endUid": "u0842",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0894",
+            "endUid": "u0904",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1041",
+            "endUid": "u1051",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2254",
+            "endUid": "u2261",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "globe",
+        "iron ball"
+      ]
+    },
+    {
+      "id": "e003",
+      "label": "Missing eyes of Hralgar’s statue",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u1394",
+            "endUid": "u1406",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2215",
+            "endUid": "u2225",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2292",
+            "endUid": "u2305",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes.md",
+      "names": [
+        "eyes",
+        "two gems"
+      ]
+    },
+    {
+      "id": "e004",
+      "label": "Eudomes",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u1866",
+            "endUid": "u1915",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2072",
+            "endUid": "u2081",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2172",
+            "endUid": "u2211",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Eudomes.md"
+    },
+    {
+      "id": "e005",
+      "label": "Apollyon",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u2178",
+            "endUid": "u2193",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md",
+      "names": [
+        "High Emperor of Drankor"
+      ]
+    },
+    {
+      "id": "e006",
+      "label": "Occulta Ludum",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u2199",
+            "endUid": "u2203",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Drankorian Societies/Occulta Ludum.md"
+    },
+    {
+      "id": "e007",
+      "label": "Sigga",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u1287",
+            "endUid": "u1324",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1709",
+            "endUid": "u1723",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e008",
+      "label": "Beryl",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0167",
+            "endUid": "u0189",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Beryl.md"
+    },
+    {
+      "id": "e009",
+      "label": "Cha’mutte",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0173",
+            "endUid": "u0176",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0251",
+            "endUid": "u0256",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1730",
+            "endUid": "u1734",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "e010",
+      "label": "Agata Dustmother",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0017",
+            "endUid": "u0021",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0202",
+            "endUid": "u0202",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1137",
+            "endUid": "u1150",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1822",
+            "endUid": "u1827",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1998",
+            "endUid": "u2001",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Agata.md"
+    },
+    {
+      "id": "e011",
+      "label": "Vola",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0302",
+            "endUid": "u0305",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Vola.md"
+    },
+    {
+      "id": "e012",
+      "label": "The Sibyl",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0312",
+            "endUid": "u0317",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0364",
+            "endUid": "u0364",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Sibyl.md"
+    },
+    {
+      "id": "e013",
+      "label": "Human man in the grave",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0396",
+            "endUid": "u0433",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2222",
+            "endUid": "u2225",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Alban.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e014",
+      "label": "Great Library",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0106",
+            "endUid": "u0110",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2242",
+            "endUid": "u2244",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md"
+    },
+    {
+      "id": "e015",
+      "label": "Society of the Open Scroll",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u2240",
+            "endUid": "u2252",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2411",
+            "endUid": "u2425",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Society of the Open Scroll.md"
+    },
+    {
+      "id": "e016",
+      "label": "Kai",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0907",
+            "endUid": "u0909",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Kenzo’s language teacher fits Kaeso’s documented mentoring role, but the isolated transcript label “Kai” does not establish that match by itself.",
+      "candidates": [
+        "People/Chardonians/Kaeso.md"
+      ]
+    },
+    {
+      "id": "e017",
+      "label": "Giant bust with empty eyes and crown sockets",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u1390",
+            "endUid": "u1406",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1422",
+            "endUid": "u1426",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2217",
+            "endUid": "u2221",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "statue"
+      ]
+    },
+    {
+      "id": "e018",
+      "label": "Arcus",
+      "kind": "npc",
+      "importance": "cameo",
+      "note": "People/Chardonians/Arcus.md",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1422",
+            "endUid": "u1426"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e019",
+      "label": "Hostile storm voice",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1349",
+            "endUid": "u1366"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The DM distinguishes this voice’s attitude from the preceding communication, but whether it is an independent being or another manifestation of Hralgar remains unresolved."
+    },
+    {
+      "id": "e020",
+      "label": "Robed man in Wellby’s image",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0438",
+            "endUid": "u0446"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Water snake guardian",
+      "reason": "The unnamed pool guardian has no distinct personal identity beyond its protective hazard and attacks. Its actions remain in the source and sphere interactions.",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0587",
+            "endUid": "u0619",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0714",
+            "endUid": "u0729",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0824",
+            "endUid": "u0830",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1057",
+            "endUid": "u1088",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Oil of Slipperiness and healing potions",
+      "reason": "Routine use and standard mechanical effects of consumable PC equipment; no acquisition or independent item history is established.",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0929",
+            "endUid": "u1021",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1090",
+            "endUid": "u1098",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u1428",
+            "endUid": "u1432",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Horn, ley-line goggles, telescope, and magical hammer",
+      "reason": "Existing equipment mentioned or used for its ordinary function; no new acquisition, original lore, or independent plot-object role is established.",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0006",
+            "endUid": "u0007",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0046",
+            "endUid": "u0065",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0203",
+            "endUid": "u0203",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0884",
+            "endUid": "u0904",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2329",
+            "endUid": "u2331",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Red gem believed to contain a fire elemental",
+      "reason": "Brief inventory reminder and hypothetical use; no new acquisition, examination, or substantive original lore beyond the previously held belief.",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u1120",
+            "endUid": "u1123",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Chardonian treasure-hunting party",
+      "reason": "A hypothesized expedition is not a persistent organization; the named Society and the later-identified grave occupant are retained separately.",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u2224",
+            "endUid": "u2230",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2240",
+            "endUid": "u2252",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Eightfold Way and Ocean of Souls",
+      "reason": "Religious system and afterlife setting, not separately established organizations or divine individuals. The named deity Sibyl is included.",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0314",
+            "endUid": "u0317",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u0326",
+            "endUid": "u0337",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Marshmallow and real-world names",
+      "reason": "Table conversation concerns a real cat and players’ families, not characters in the fiction.",
+      "occurrences": [
+        {
+          "source": {
+            "startUid": "u0540",
+            "endUid": "u0548",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        },
+        {
+          "source": {
+            "startUid": "u2333",
+            "endUid": "u2407",
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes.md",
+    "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Eastern Dunmar.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Sibyl.md",
+    "Groups/Chardonian Organizations/Society of the Open Scroll.md",
+    "Groups/Drankorian Societies/Occulta Ludum.md",
+    "People/Chardonians/Alban.md",
+    "People/Chardonians/Arcus.md",
+    "People/Chardonians/Kaeso.md",
+    "People/Chardonians/Vola.md",
+    "People/Extraplanar Powers/Cha'mutte.md",
+    "People/Fey/Agata.md",
+    "People/Giants/Hralgar.md",
+    "People/Historical Figures/Eudomes.md",
+    "People/Historical Figures/Drankorian Emperors/Apollyon.md",
+    "People/PCs/Dunmar Fellowship/Wellby.md",
+    "People/PCs/Great War/Beryl.md"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-time-markers.json",
+    "sha256": "d1db9db765961dfbfd53a235bbc005d05a71978067b757a1ac73f53abf48c197"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-transcript.md",
+    "sha256": "6a243e0974b88cff1733dbc5ba095db43a04c714235c991c4c31638db0c13aea"
+  },
+  "dateAssessment": "Working date: 15 April 1748, from compatible session YAML; only the year 1748 is independently spoken. Twilight plus about an hour supports dusk continuing into night without a date boundary. The opening short rest was already complete. The party’s 5881 dwarven year and Hralgar’s claimed 5031 are retained as differing reckonings; the apparent mountain daylight does not establish time travel or a civil watch.",
+  "watches": [
+    {
+      "day": "April 15, 1748",
+      "startDate": "1748-04-15",
+      "endDate": "1748-04-15",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Twilight opening; roughly an hour of tower investigation, including meditation. The continuous conversation returns to the night sky.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t07",
+        "t08"
+      ]
+    },
+    {
+      "day": "Apparent mountain frame",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Hralgar’s illusory mountain",
+      "summary": "Apparent daylight and Hralgar’s claimed year 5031 belong to the illusion; neither supplies elapsed adventure days or a civil watch.",
+      "markers": [
+        "t05",
+        "t06"
+      ]
+    }
+  ]
+}
