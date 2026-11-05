@@ -1,6 +1,6 @@
 ---
 name: extract-session-structure
-description: Coordinate the six structured transcript extractions through one shared sequential read, followed by focused combat and interaction work. Produces the existing independent outputs, without scene extraction or transcript rewriting.
+description: Run the six structured transcript extractions through a shared sequential read and focused combat and interaction passes. Produce a session review and grouped time watches, or rebuild the review from current extractions.
 ---
 
 # Structured transcript extraction coordinator
@@ -14,7 +14,9 @@ Use the installed component skills as the owners of inclusion rules, schemas, ev
 - [Classification](../classify-transcript-segments/SKILL.md)
 - [Combat](../extract-combat/SKILL.md)
 
-Read these skills and their required format references before extraction. This coordinator changes how their reading is shared; it does not change their products or interpretation rules. Keep all six files independently usable. No consolidated event ledger, scene map, or seventh semantic output is required.
+Read these skills and their required format references before extraction. Keep all six JSON files independently usable. A full run ends with two derived products, `cleaned/structured-data-review.md` and `cleaned/time-watches.json`.
+
+**Review only.** When asked to summarize existing structured data or refresh the review, go directly to [Build the session review](references/session-review.md). Use the current six extractions and check relevant transcript passages. Report missing or stale inputs by component.
 
 ## Prepare once
 
@@ -49,7 +51,7 @@ The full combat-segment reread is required; other focused reads depend on the wo
 
 Run each component's structural and source checks. Check references across files only where their schemas define a dependency: entities to interactions, classification to combat, and optional time links in location. All must share the same session and source revision. Do a substantive check of uncertain decisions and boundaries; validation does not establish semantic completeness or human review.
 
-Deliver the time skill's simple review table directly from its JSON markers alongside the time/date assessment; sharing the read does not remove that review surface.
+After verifying the six extractions, [build the session review](references/session-review.md). Deliver the review page and its watch data alongside the six source products. The page groups time evidence by day and watch. Use the time skill’s per-marker table when a detailed timing audit is requested.
 
 Use the owning validators without changing installed code. If a validator hard-codes ordinary output locations, an isolated trial harness may bind its in-memory bundle to the explicit trial path while preserving every other check. Disclose that adaptation; do not write experimental files to ordinary locations just to satisfy it.
 
