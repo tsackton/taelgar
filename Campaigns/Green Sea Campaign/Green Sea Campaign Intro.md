@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 Pitch:
 
 Our story begins with the survivors of a shipwreck, strangers thrown together by chance and fate, now lost and stranded somewhere in the Green Sea. Our campaign will begin with their story of survival, as they forge an adventuring party and find their way home. Our campaign will continue with the character's stories, as they make their way back to safety and follow the adventures that took them to sea in the first place. 
@@ -20,7 +23,15 @@ Links:
 
 [[Playable Species of Taelgar]]
 
-
+```taelgar-map
+version: 2
+id: green-sea-campaign-intro
+source: assets/_incoming/green-sea-labeled.map.json
+height: 520px
+fitBounds: false
+minZoom: -2.75
+maxZoom: 2
+```
 
 | Species                 | Key Question(s)                                                     | **Details**              | Starting Languages |
 | ----------------------- | ------------------------------------------------------------------- | ------------------------ | ------------------ |
@@ -51,3 +62,7 @@ Links:
 > [!image|hero]
 > ![[south-cymea-cotton-estate.webp]]
 > *Cotton fields beneath a fortified estate in South Cymea.*
+
+> [!image|hero]
+> ![[stone-coast-walled-port.webp]]
+> *A walled trading town on the stone coast.*
