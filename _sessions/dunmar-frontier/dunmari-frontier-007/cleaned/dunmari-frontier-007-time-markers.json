@@ -1,0 +1,567 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-007",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml",
+    "sessionYamlSha256": "8dc760e24e6aef98cddf34da2b8465bdb4a2c0e96f411506395a04b38239d0e7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-transcript.md",
+    "transcriptSha256": "4b969e6a5857c19f8ab0236f3d981b5a5d03f36b90f12f78e6c2b404e58add25",
+    "yamlDates": {
+      "start": "1748-04-07",
+      "end": "1748-04-12"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0011"
+      },
+      "reading": "Departure preparations begin before dawn after the attack; the party says goodbye within a few hours.",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0011",
+          "quote": "Now, the next morning, in the pre-dawn light"
+        },
+        {
+          "startUid": "u0010",
+          "endUid": "u0011",
+          "quote": "within a few hours you say your last goodbyes."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Spoken pre-dawn; calendar date comes only from YAML",
+        "date": {
+          "year": 1748,
+          "month": 4,
+          "day": 7
+        },
+        "partOfDay": "pre-dawn"
+      },
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated elapsed preparations before departure"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0170",
+        "endUid": "u0176"
+      },
+      "reading": "The first morning is spent following the northward tracks near the evacuating column.",
+      "evidence": [
+        {
+          "startUid": "u0170",
+          "endUid": "u0176",
+          "quote": "over the course of the morning they sort of meander a bit across the plains"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "morning"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0177",
+        "endUid": "u0182"
+      },
+      "reading": "The tracks cross the ancient trade road at midday or early afternoon; the DM immediately favors early afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0177",
+          "endUid": "u0182",
+          "quote": "by mid day, you know, the—or early afternoon, the tracks cross the main road"
+        },
+        {
+          "startUid": "u0197",
+          "endUid": "u0198",
+          "quote": "after lunch, can you make another check?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Immediate midday-to-early-afternoon qualification, corroborated by after-lunch tracking",
+        "partOfDay": "early afternoon"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0204",
+        "endUid": "u0211"
+      },
+      "reading": "The party reaches the kill and divided-track site in mid-afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0204",
+          "endUid": "u0211",
+          "quote": "Mid, mid-afternoon, sort of just past the road, you come to an area"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "mid-afternoon"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0329",
+        "endUid": "u0335"
+      },
+      "reading": "After examining the camp and tracks, it is late afternoon; further riding is still proposed.",
+      "evidence": [
+        {
+          "startUid": "u0329",
+          "endUid": "u0335",
+          "quote": "with the time kind of looking around this camp area, and, you know, the time it takes tracking and everything, it's, it's, you know, late afternoon."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "late afternoon"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0393",
+        "endUid": "u0394"
+      },
+      "reading": "The first travel day has ended at camp, where Riswynn brings out the maps.",
+      "evidence": [
+        {
+          "startUid": "u0393",
+          "endUid": "u0394",
+          "quote": "You've now camped for the night after your first day of travel"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "night"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0502",
+        "endUid": "u0505"
+      },
+      "reading": "Morning after the first camp: the party resumes the journey.",
+      "evidence": [
+        {
+          "startUid": "u0502",
+          "endUid": "u0505",
+          "quote": "Okay, so in the morning"
+        },
+        {
+          "startUid": "u0507",
+          "endUid": "u0508",
+          "quote": "in the morning, kind of look over your maps a bit and figure out a course."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Morning following the first night at camp",
+        "partOfDay": "morning"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0525",
+        "endUid": "u0542"
+      },
+      "reading": "The next day of hard riding passes and reaches sunset.",
+      "evidence": [
+        {
+          "startUid": "u0525",
+          "endUid": "u0535",
+          "quote": "as the day passes and you know, continue riding on these plains"
+        },
+        {
+          "startUid": "u0536",
+          "endUid": "u0542",
+          "quote": "And as evening approaches, sun sets, having traveled—made quite good time"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Resumed morning travel at t07",
+          "partOfDay": "morning"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Narrated time of day",
+          "partOfDay": "sunset"
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0543",
+        "endUid": "u0549"
+      },
+      "reading": "On the following day, the party approaches the road and notices distant travelers.",
+      "evidence": [
+        {
+          "startUid": "u0543",
+          "endUid": "u0549",
+          "quote": "The next day, as you continue holding this course"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Explicit next-day transition",
+        "relative": {
+          "relation": "after",
+          "reference": "t08",
+          "anchor": "The sunset ending the previous riding day"
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1052",
+        "endUid": "u1053"
+      },
+      "reading": "After meeting Shani, the DM places the party in mid-afternoon, with about two travel days still projected.",
+      "evidence": [
+        {
+          "startUid": "u1052",
+          "endUid": "u1053",
+          "quote": "mid-afternoon, two days after that."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "mid-afternoon"
+      },
+      "note": "The nearby day-count restart at u1048–u1051 is unfinished; the explicit earlier day transitions are retained."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1091",
+        "endUid": "u1096"
+      },
+      "reading": "Continued northward riding reaches evening and the setting sun before the ambush camp.",
+      "evidence": [
+        {
+          "startUid": "u1091",
+          "endUid": "u1096",
+          "quote": "So as evening approaches"
+        },
+        {
+          "startUid": "u1091",
+          "endUid": "u1096",
+          "quote": "catching the setting sun like little bit of smoke rising up"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1114",
+        "endUid": "u1114"
+      },
+      "reading": "The night watch is placed at about 3 a.m. just before the ambush.",
+      "evidence": [
+        {
+          "startUid": "u1114",
+          "endUid": "u1114",
+          "quote": "around maybe 3am"
+        },
+        {
+          "startUid": "u1123",
+          "endUid": "u1123",
+          "quote": "And this is the same day as we encountered the travelers?"
+        },
+        {
+          "startUid": "u1124",
+          "endUid": "u1124",
+          "quote": "Ah yes, you have not completed a long rest."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Overnight ambush: stated 03:00 conflicts with the later just-past-midnight aftermath; no accepted numeric clock",
+        "partOfDay": "overnight"
+      },
+      "dateBoundaries": 1,
+      "note": "The aftermath at t14 is instead called just past midnight; no explicit correction resolves the clock order."
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2153",
+        "endUid": "u2153"
+      },
+      "reading": "The DM retrospectively measures the rabbit bait’s distraction during the fight as about eight seconds.",
+      "evidence": [
+        {
+          "startUid": "u2153",
+          "endUid": "u2153",
+          "quote": "Distracted it for about eight seconds."
+        }
+      ],
+      "duration": {
+        "value": 0.13333333333333333,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit eight-second estimate converted to minutes; contained within the ambush, not extra post-combat time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2163",
+        "endUid": "u2164"
+      },
+      "reading": "After the fight, the DM calls the time just past midnight and permits the party to finish resting.",
+      "evidence": [
+        {
+          "startUid": "u2163",
+          "endUid": "u2164",
+          "quote": "It's just past midnight."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "just past midnight"
+      },
+      "note": "This conflicts with the preceding approximate 03:00 ambush clock at t12; preserve both pending reconciliation."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2173",
+        "endUid": "u2179"
+      },
+      "reading": "The party finishes the interrupted overnight long rest, waking recovered at eight or nine in the morning.",
+      "evidence": [
+        {
+          "startUid": "u2163",
+          "endUid": "u2164",
+          "quote": "If you, you know, maybe sleep in a little bit in the morning, you can get a full long rest."
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2172",
+          "quote": "The morning is—the rest of the rest of the night is uneventful, Wellby."
+        },
+        {
+          "startUid": "u2173",
+          "endUid": "u2179",
+          "quote": "Sleeping in a little bit, you rise recovered from your nighttime exertion. Say, you know, eight or nine, sort of mid-morning-ish."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention for the completed rest as a whole, including rest before the interruption; not eight new hours after combat"
+      },
+      "completion": "completed",
+      "note": "The overnight date boundary is already counted by t12; this completion adds no second midnight.",
+      "time": {
+        "precision": "approximate",
+        "basis": "Waking is estimated at eight or nine in the morning; this is a time-point uncertainty, not an hour-long waking interval",
+        "partOfDay": "morning"
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2192",
+        "endUid": "u2192"
+      },
+      "reading": "While packing camp, the party sees vultures around nine to nine-thirty.",
+      "evidence": [
+        {
+          "startUid": "u2192",
+          "endUid": "u2192",
+          "quote": "as you're packing up camp like by nine, 9:30"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Packing is placed around nine to nine-thirty; this is an uncertain time point, not a measured half-hour interval",
+        "partOfDay": "morning"
+      }
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2196",
+        "endUid": "u2198"
+      },
+      "reading": "Seeker accepts the ten-minute ritual casting of Speak with Animals before speaking to the vulture.",
+      "evidence": [
+        {
+          "startUid": "u2196",
+          "endUid": "u2196",
+          "quote": "You can just take 10 minutes to, to cast it"
+        },
+        {
+          "startUid": "u2197",
+          "endUid": "u2197",
+          "quote": "Oh, nice. Yeah, I'll do that."
+        },
+        {
+          "startUid": "u2216",
+          "endUid": "u2221",
+          "quote": "So as you begin speaking to a vulture"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Accepted ritual duration followed by the enacted conversation"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2307",
+        "endUid": "u2319"
+      },
+      "reading": "A hot, quiet riding day is narrated as “the next day” after the recovered morning; it is unclear whether this resumes that morning’s travel or skips to another day.",
+      "evidence": [
+        {
+          "startUid": "u2307",
+          "endUid": "u2319",
+          "quote": "So, ride. The next day is hot and quiet. Silent ride across the, across the plains"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "A day of riding is narrated; no extra overnight can be asserted from the ambiguous transition"
+      },
+      "completion": "completed",
+      "note": "Do not force an additional date boundary merely to reach the YAML end date."
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u2326",
+        "endUid": "u2334"
+      },
+      "reading": "At sunset after that ride, the party sees the waterfall and the valley wall from a distance.",
+      "evidence": [
+        {
+          "startUid": "u2326",
+          "endUid": "u2334",
+          "quote": "as the sun is setting"
+        },
+        {
+          "startUid": "u2347",
+          "endUid": "u2350",
+          "quote": "as you set up camp for the night"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2395",
+        "endUid": "u2400"
+      },
+      "reading": "After a quiet night at the foothill approach camp, morning brings the centaur encounter.",
+      "evidence": [
+        {
+          "startUid": "u2392",
+          "endUid": "u2394",
+          "quote": "you drift off to sleep one by one."
+        },
+        {
+          "startUid": "u2395",
+          "endUid": "u2400",
+          "quote": "And as the morning comes, a quiet night"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Morning following the explicitly completed final camp night",
+        "partOfDay": "morning"
+      },
+      "dateBoundaries": 1
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No month/day/year is spoken. April 7–12, 1748 comes from YAML; April 7 is only a conditional opening anchor.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t07",
+      "t09",
+      "t12",
+      "t14",
+      "t15",
+      "t18",
+      "t20"
+    ],
+    "explanation": "Four clear overnight transitions are supported. The “next day” ride after the recovery morning (t18) may compress an additional day, but does not unambiguously establish it. The final morning is therefore conditionally April 11 or April 12 from the YAML start. The 03:00 / just-past-midnight discrepancy affects the ambush clock, not the count of nights. Background journeys, forecasts, and historical events do not extend this span."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t18",
+        "t20"
+      ],
+      "reading": "The last morning follows the final quiet camp; its absolute date depends on the compressed post-ambush travel transition.",
+      "alternatives": [
+        {
+          "reading": "If “next day” resumes the recovered morning’s ride, four transitions from the YAML opening reach April 11.",
+          "date": "1748-04-11"
+        },
+        {
+          "reading": "If it advances past that morning to another riding day, five transitions reach April 12.",
+          "date": "1748-04-12"
+        }
+      ]
+    }
+  ]
+}

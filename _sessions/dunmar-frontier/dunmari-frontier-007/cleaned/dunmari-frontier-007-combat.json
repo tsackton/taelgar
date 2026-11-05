@@ -1,0 +1,557 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-007",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml",
+    "sessionYamlSha256": "8dc760e24e6aef98cddf34da2b8465bdb4a2c0e96f411506395a04b38239d0e7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-transcript.md",
+    "transcriptSha256": "4b969e6a5857c19f8ab0236f3d981b5a5d03f36b90f12f78e6c2b404e58add25",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-segments.json",
+      "sha256": "647bf08feb69d5c275fbddbd21cab062595e8a59295559ab8fbd8cb054b1150e",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Gnoll ambush at the roadside rock camp",
+      "openingActions": [
+        {
+          "actor": "Unseen gnoll archer",
+          "kind": "event",
+          "summary": "An arrow from the darkness hits the watchful Delwath for 6 piercing before initiative is rolled.",
+          "evidence": [
+            {
+              "startUid": "u1126",
+              "endUid": "u1134"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Wakes at Delwath’s alarm, stands, takes his bow, moves behind a rock and hides; shoots a visible gnoll with advantage and hits. Damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1199",
+                  "endUid": "u1242"
+                },
+                {
+                  "startUid": "u1279",
+                  "endUid": "u1280"
+                }
+              ]
+            },
+            {
+              "actor": "Poison-arrow gnoll",
+              "kind": "turn",
+              "summary": "Fires two arrows from hiding with advantage at Delwath; one hits for 3 piercing. A Constitution save is called, followed by 2 poison damage and poisoned until the end of Delwath’s next turn. The archer becomes visible.",
+              "evidence": [
+                {
+                  "startUid": "u1243",
+                  "endUid": "u1260"
+                },
+                {
+                  "startUid": "u1309",
+                  "endUid": "u1309"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Stands and climbs a rock using his remaining movement; throws a dart at Wellby’s target with disadvantage for range and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1268",
+                  "endUid": "u1299"
+                }
+              ]
+            },
+            {
+              "actor": "Barbed-arrow gnoll A",
+              "kind": "turn",
+              "summary": "Shoots Delwath from hiding with advantage. The unpoisoned barbed arrow hits and reduces his speed by 10 feet; the stated ending condition trails off. Delwath reports 4 hit points remaining, but the damage amount is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1300",
+                  "endUid": "u1311"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves beside Delwath’s rock and readies Cure Wounds for when he comes within reach.",
+              "evidence": [
+                {
+                  "startUid": "u1312",
+                  "endUid": "u1354"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves off the rock into reach of Riswynn’s readied healing, then drops prone. Casts Hex on a gnoll, choosing Dexterity disadvantage as stated at the table, and Eldritch Blast with disadvantage from poison/prone. The blast result is not spoken; poison ends after this turn.",
+              "evidence": [
+                {
+                  "startUid": "u1355",
+                  "endUid": "u1383"
+                },
+                {
+                  "startUid": "u1601",
+                  "endUid": "u1608"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "reaction",
+              "summary": "Releases the readied Cure Wounds when Delwath reaches her, restoring 7 hit points during his movement, before he drops prone and casts.",
+              "evidence": [
+                {
+                  "startUid": "u1350",
+                  "endUid": "u1359"
+                }
+              ]
+            },
+            {
+              "actor": "Spear gnoll A",
+              "kind": "turn",
+              "summary": "Runs and throws a spear at Kenzo on the rock, hitting for 4 damage, then draws another spear.",
+              "evidence": [
+                {
+                  "startUid": "u1381",
+                  "endUid": "u1388"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Stands, uses a coin to form a floating disc bearing a caged rabbit as bait, and moves behind Wellby. Grants Kenzo runic inspiration: one d6 added to a roll within 10 minutes; attack use adds damage equal to the die, save use grants temporary hit points, and skill use permits rolling twice and taking the better result. Heat Metal was considered but not cast this turn.",
+              "evidence": [
+                {
+                  "startUid": "u1389",
+                  "endUid": "u1452"
+                }
+              ]
+            },
+            {
+              "actor": "Barbed-arrow gnoll B",
+              "kind": "turn",
+              "summary": "Moves forward and shoots Kenzo without advantage despite his partial cover, hitting for 10 piercing and reducing speed by 10 feet until the end of Kenzo’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1453",
+                  "endUid": "u1471"
+                }
+              ]
+            },
+            {
+              "actor": "Spear gnoll B",
+              "kind": "turn",
+              "summary": "Runs forward and throws a spear at Wellby, who is visible after shooting; misses.",
+              "evidence": [
+                {
+                  "startUid": "u1468",
+                  "endUid": "u1479"
+                }
+              ]
+            },
+            {
+              "actor": "Spear gnoll C",
+              "kind": "turn",
+              "summary": "Runs toward the rabbit bait.",
+              "evidence": [
+                {
+                  "startUid": "u1477",
+                  "endUid": "u1480"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the same gnoll again, hits and leaves it nearly dead with two arrows in it, then moves left out of sight of two enemies; another can still see him.",
+              "evidence": [
+                {
+                  "startUid": "u1485",
+                  "endUid": "u1500"
+                }
+              ]
+            },
+            {
+              "actor": "Poison-arrow gnoll",
+              "kind": "turn",
+              "summary": "Moves forward, howls to its companions and fires once each at Kenzo and Riswynn; both arrows miss.",
+              "evidence": [
+                {
+                  "startUid": "u1506",
+                  "endUid": "u1515"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Directs blue force at an unwounded gnoll, slamming it into a rock and knocking it prone, badly hurting it; then moves behind the rock. No numerical damage or saving-throw result is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1516",
+                  "endUid": "u1542"
+                }
+              ]
+            },
+            {
+              "actor": "Barbed-arrow gnoll A",
+              "kind": "turn",
+              "summary": "Before moving, shoots Seeker for 6 piercing and reduces his speed by 10 feet until the end of his next turn. Moves to see Delwath, shoots at disadvantage and misses, then continues around the rock.",
+              "evidence": [
+                {
+                  "startUid": "u1543",
+                  "endUid": "u1557"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Summons a warhammer-shaped Spiritual Weapon and misses the chosen wounded gnoll, then kills that same gnoll with Sacred Flame. Stays in place; no save result or damage amount is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1568",
+                  "endUid": "u1600"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "With poison already expired, stands and blasts the hexed gnoll, missing; then moves farther behind cover.",
+              "evidence": [
+                {
+                  "startUid": "u1601",
+                  "endUid": "u1629"
+                }
+              ]
+            },
+            {
+              "actor": "Spear gnoll A",
+              "kind": "turn",
+              "summary": "Stands after being knocked prone and throws its spear at Seeker for 8 piercing. The initial account of running into melee is withdrawn; a proposed replacement Dash is also superseded by the final thrown-spear ruling.",
+              "evidence": [
+                {
+                  "startUid": "u1627",
+                  "endUid": "u1637"
+                },
+                {
+                  "startUid": "u1668",
+                  "endUid": "u1686"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Disengages and retreats with movement reduced by the barbed arrow; casts Healing Word on himself for 5 hit points. Additional inspiration is explicitly disallowed because the healing used his bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u1638",
+                  "endUid": "u1667"
+                },
+                {
+                  "startUid": "u1684",
+                  "endUid": "u1696"
+                }
+              ]
+            },
+            {
+              "actor": "Barbed-arrow gnoll B",
+              "kind": "turn",
+              "summary": "Uses its entire turn to run to the indicated position.",
+              "evidence": [
+                {
+                  "startUid": "u1697",
+                  "endUid": "u1707"
+                }
+              ],
+              "note": "The map destination is not recoverable from speech."
+            },
+            {
+              "actor": "Spear gnoll C",
+              "kind": "turn",
+              "summary": "Runs past the floating disc, grabs the rabbit and bites its head off while continuing toward the party.",
+              "evidence": [
+                {
+                  "startUid": "u1697",
+                  "endUid": "u1707"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves in a crouch, hides and fires at the lower-right hunter, then retreats with remaining movement. No explicit hit or damage result is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1710",
+                  "endUid": "u1732"
+                }
+              ]
+            },
+            {
+              "actor": "Poison-arrow gnoll",
+              "kind": "turn",
+              "summary": "Runs to a position hidden from Wellby and Kenzo, though the others can see it.",
+              "evidence": [
+                {
+                  "startUid": "u1740",
+                  "endUid": "u1746"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Charges the badly wounded gnoll he had slammed into the rock and kills it with his quarterstaff. Retreats behind the rock and drinks his potion of healing as a bonus action; the rolled healing total is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1747",
+                  "endUid": "u1802"
+                }
+              ]
+            },
+            {
+              "actor": "Barbed-arrow gnoll A",
+              "kind": "turn",
+              "summary": "Comes around the rock and fires twice at Delwath, whose partial cover gives AC 19; both arrows miss.",
+              "evidence": [
+                {
+                  "startUid": "u1805",
+                  "endUid": "u1810"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Makes an unspecified attack against the wounded enemy below her and misses; moves Spiritual Weapon 20 feet to that enemy and is permitted its attack. Its result is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1811",
+                  "endUid": "u1825"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves to blast a gnoll, reports “10 plus 15 damage,” and uses remaining movement. Adds a 10-foot pull toward himself; the spoken map references do not uniquely identify the target.",
+              "evidence": [
+                {
+                  "startUid": "u1826",
+                  "endUid": "u1842"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Heat Metal on the rabbit-holding gnoll’s armor buckle: 4 damage and a failed Constitution save; it drops the rabbit, howling as the buckle heats. Moves back and grants runic inspiration, whose attack effect deals thunder damage.",
+              "evidence": [
+                {
+                  "startUid": "u1848",
+                  "endUid": "u1874"
+                }
+              ],
+              "note": "Seeker names Kenzo while announcing inspiration, but Delwath immediately asks about using it; the recipient of this additional grant is unclear."
+            },
+            {
+              "actor": "Barbed-arrow gnoll B",
+              "kind": "turn",
+              "summary": "Runs forward, fires twice at Riswynn, and moves again. One arrow is a natural-20 hit for 11 piercing, reducing speed by 10 feet; the other misses. The narration reverses which arrow was first/second.",
+              "evidence": [
+                {
+                  "startUid": "u1875",
+                  "endUid": "u1887"
+                }
+              ]
+            },
+            {
+              "actor": "Spear gnoll C",
+              "kind": "turn",
+              "summary": "Runs over and attacks Delwath with a spear; 16 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1888",
+                  "endUid": "u1895"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and shoots the gnoll engaging Delwath; the DM says neither rolled result hits.",
+              "evidence": [
+                {
+                  "startUid": "u1896",
+                  "endUid": "u1907"
+                }
+              ]
+            },
+            {
+              "actor": "Poison-arrow gnoll",
+              "kind": "event",
+              "summary": "Is no longer visible to anyone at its initiative point; no further action is narrated.",
+              "evidence": [
+                {
+                  "startUid": "u1908",
+                  "endUid": "u1912"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves between the wounded enemies and hits the one directly below him with his quarterstaff, leaving it alive. Follows with another strike, using runic inspiration to turn the roll into a hit. The Rune of Destruction triggers Constitution saves and an explosion that kills both nearby gnolls; individual save outcomes are not spoken. Moves his remaining 5 feet.",
+              "evidence": [
+                {
+                  "startUid": "u1943",
+                  "endUid": "u1994"
+                }
+              ]
+            },
+            {
+              "actor": "Barbed-arrow gnoll A",
+              "kind": "turn",
+              "summary": "Rounds the corner, drops its longbow and lunges twice with a spear at Riswynn; both attacks deflect off her armor.",
+              "evidence": [
+                {
+                  "startUid": "u1998",
+                  "endUid": "u2003"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Strikes at the adjacent gnoll with her warhammer, with no explicit outcome spoken. Moves Spiritual Weapon closer; it is too far away to attack.",
+              "evidence": [
+                {
+                  "startUid": "u2004",
+                  "endUid": "u2012"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves to a more protected position, transfers Hex to the adjacent gnoll and hits with his one-handed longsword for 15 total damage including Hex, leaving it badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u2013",
+                  "endUid": "u2026"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Announces Healing Word and runic inspiration for Riswynn and continues seeking cover behind Wellby; play advances without a correction or a spoken healing amount.",
+              "evidence": [
+                {
+                  "startUid": "u2030",
+                  "endUid": "u2049"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Cannot see the hidden gnoll with the darkness penalty to passive Perception; instead shoots and kills the visible wounded enemy.",
+              "evidence": [
+                {
+                  "startUid": "u2050",
+                  "endUid": "u2073"
+                }
+              ],
+              "note": "The target is indicated by the map; continuity points to the enemy fighting Riswynn and Delwath, but speech does not name it."
+            },
+            {
+              "actor": "Poison-arrow gnoll",
+              "kind": "turn",
+              "summary": "Becomes visible as it runs away down the path.",
+              "evidence": [
+                {
+                  "startUid": "u2074",
+                  "endUid": "u2079"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves 40 feet to pursue the fleeing gnoll and throws a dart; no clear result or damage amount is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2080",
+                  "endUid": "u2088"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves out from behind the boulder for line of sight and hits the fleeing gnoll with a guiding blast of holy energy, killing it.",
+              "evidence": [
+                {
+                  "startUid": "u2089",
+                  "endUid": "u2108"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Riswynn kills the fleeing final gnoll; the ambush is over and the party survives.",
+        "evidence": [
+          {
+            "startUid": "u2100",
+            "endUid": "u2111"
+          }
+        ]
+      },
+      "note": "Enemy labels distinguish repeated initiative positions and weapon roles; map-only pointers do not establish all individual targets. Unspoken damage and resolutions remain unstated."
+    }
+  ]
+}

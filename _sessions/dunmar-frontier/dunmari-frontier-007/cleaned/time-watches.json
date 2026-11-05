@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-time-markers.json",
+    "sha256": "18162e94a7164bceac5bd84ddc0ca317b1372567bf550f8a7d96d7794507add2"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-transcript.md",
+    "sha256": "4b969e6a5857c19f8ab0236f3d981b5a5d03f36b90f12f78e6c2b404e58add25"
+  },
+  "dateAssessment": "No calendar date is spoken. YAML gives April 7–12, 1748; four clear overnight transitions and the ambiguous post-ambush “next day” support a conditional final morning of April 11 or 12.",
+  "watches": [
+    {
+      "day": "Departure day — April 7 from YAML",
+      "startWatch": "dawn",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Pre-dawn preparations take a few hours; tracks are followed through the morning.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-04-07",
+      "endDate": "1748-04-07"
+    },
+    {
+      "day": "Departure day — April 7 from YAML",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Road crossing corrected to early afternoon; kill site midafternoon; tracking continues until late afternoon.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-04-07",
+      "endDate": "1748-04-07"
+    },
+    {
+      "day": "First camp night",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "First day’s camp and neighboring campfires place the map discussion around the evening halt.",
+      "markers": [
+        "t06"
+      ],
+      "sourceRanges": [
+        [
+          "u0493",
+          "u0501"
+        ]
+      ]
+    },
+    {
+      "day": "Second travel day — April 8 conditionally",
+      "startWatch": "morning",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Next morning departure; a full day’s ride ends at sunset.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "startDate": "1748-04-08",
+      "endDate": "1748-04-08"
+    },
+    {
+      "day": "Third travel day — April 9 conditionally",
+      "startWatch": null,
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Following day’s travel leads to the herders; departure from their meeting is midafternoon.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "endDate": "1748-04-09"
+    },
+    {
+      "day": "Third travel day, evening",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Setting sun accompanies the northward ride before the ambush camp.",
+      "markers": [
+        "t11"
+      ]
+    },
+    {
+      "day": "Ambush night — next civil day",
+      "startWatch": "midnight",
+      "endWatch": "dawn",
+      "basis": "open",
+      "summary": "Ambush is said to start at 03:00; aftermath says just past midnight. Rabbit distraction lasts eight seconds within combat.",
+      "markers": [
+        "t12",
+        "t13",
+        "t14"
+      ],
+      "scope": "Conflicting clock anchors, not a measured interval"
+    },
+    {
+      "day": "Recovery morning — April 10 conditionally",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Interrupted long rest finishes at 08:00–09:00; packing at 09:00–09:30 precedes Seeker’s ten-minute ritual.",
+      "markers": [
+        "t15",
+        "t16",
+        "t17"
+      ],
+      "startDate": "1748-04-10",
+      "endDate": "1748-04-10"
+    },
+    {
+      "day": "Post-ambush riding day — April 10 or 11",
+      "startWatch": null,
+      "endWatch": "dusk",
+      "basis": "open",
+      "summary": "“The next day” may advance a day or resume that morning; riding ends at sunset and camp.",
+      "markers": [
+        "t18",
+        "t19"
+      ]
+    },
+    {
+      "day": "Final morning — April 11 or 12",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "A quiet camp night ends with the centaurs’ arrival the next morning.",
+      "markers": [
+        "t20"
+      ]
+    }
+  ]
+}
