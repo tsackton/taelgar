@@ -24,15 +24,22 @@ YAML gives 1730-01-25 for both endpoints; the transcript supplies elapsed interv
 
 | Location | Present | Markers |
 | --- | --- | --- |
-| Icy entrance bridge → Open snowy entrance room → Four-branch room → Ice-blocked dead end → Four-branch room → Cracked chamber, entrance side | Party | l01, l03–l06 |
-| Cracked chamber, entrance side → Cracked chamber, far side | Ekko, Eolo, Finnan, Jrain, Kalima | l07–l10 |
-| Cracked chamber, entrance side → Dark fissure below the cracked chamber → Cracked chamber, far side | Justas | l11–l12 |
-| Cracked chamber, far side → Frozen warrior’s chamber → Booming corridor | Party | l13–l15 |
-| Booming corridor → Shifting snowy junction → Booming corridor → Circular snowy room → Ice-curtain corridor → Nonreflective ice slide → Large chamber, air above the floor | Party | l17–l21, l23 |
-| Large chamber, upper ice wall → Large chamber, black-stone floor | Justas | l24, l28 |
-| Large chamber, upper ice wall → Illusory hiding place below Justas | Kalima | l24, l27 |
-| Large chamber, air above the floor → Large chamber, black-stone floor | Jrain | l25 |
+| Icy entrance bridge | Party | l01 |
+| Open snowy entrance room | Party | l03–l04 |
+| Four-branch room | Party | l04–l06 |
+| Ice-blocked dead end | Party | l05 |
+| Cracked chamber, entrance side | Party | l06 |
+| Cracked chamber, far side | Ekko, Eolo, Finnan, Jrain, Kalima | l07–l10 |
+| Dark fissure below the cracked chamber | Justas | l11–l12 |
+| Cracked chamber, far side | Party | l12–l14 |
+| Frozen warrior’s chamber | Party | l14–l15 |
+| Booming corridor | Party | l15–l17, l19–l20 |
+| Shifting snowy junction | Party | l17–l19 |
+| Ice-curtain corridor | Party | l21–l23 |
+| Large chamber, upper ice wall | Justas and Kalima | l24 |
+| Large chamber, black-stone floor | Jrain and Justas | l25, l28 |
 | Large chamber, air above the floor | Ekko, Eolo, Finnan | l26 |
+| Illusory hiding place below Justas | Kalima | l27 |
 
 | Observed location | Observer | From | Markers |
 | --- | --- | --- | --- |
