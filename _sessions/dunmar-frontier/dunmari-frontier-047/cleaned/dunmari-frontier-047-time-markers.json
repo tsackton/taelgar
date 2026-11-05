@@ -1,0 +1,563 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-047",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-session.yaml",
+    "sessionYamlSha256": "d6a7ddc3d3aca6fb866f906a418573455703dccb887f7621c550d92ec185816a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-transcript.md",
+    "transcriptSha256": "66ae3126bc4fb9a91f85675d5c5ae7689276a125a884dad72a7aec58ed104a7c",
+    "yamlDates": {
+      "start": "1748-08-09",
+      "end": "1748-08-21"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0010"
+      },
+      "reading": "Departure-day business in Darba is resolved before the afternoon harbor meeting; the DM identifies the current month as August.",
+      "evidence": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0010",
+          "quote": "DM: That's why I just want to circle back. So the—your last day in Darba the day that you depart, right? So Kenzo and Wellby and Delwath spend most of their time selling stuff and there was the side quests that you passed on. So."
+        },
+        {
+          "startUid": "u0018",
+          "endUid": "u0028",
+          "quote": "Seeker got a brief architecture tour basically, you know, learning a bit about the history of Darba."
+        },
+        {
+          "startUid": "u0036",
+          "endUid": "u0040",
+          "quote": "As you finish your tasks at Darba and come to the meet together again at the harbor as the afternoon rains clear and the sun emerges from the clouds"
+        },
+        {
+          "startUid": "u0096",
+          "endUid": "u0097",
+          "quote": "DM: Because it's now it's now like it now August, right? Time is passing."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "August and afternoon are spoken; year and day are not independently established",
+        "partOfDay": "afternoon",
+        "date": {
+          "month": 8
+        }
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0231",
+        "endUid": "u0240"
+      },
+      "reading": "Departure sailing is initially described in setting sunlight. The subsequent on-deck anchor is about three in the afternoon, two hours before sunset; the source does not explicitly settle whether the first sunset is anticipatory narration.",
+      "evidence": [
+        {
+          "startUid": "u0231",
+          "endUid": "u0240",
+          "quote": "And surprisingly, soon you're rushing across the water under full sail with the setting sun turns the spray off the bow to gold racing across the Nevos Sea fading behind you with surprising speed."
+        },
+        {
+          "startUid": "u0360",
+          "endUid": "u0371",
+          "quote": "it's probably two hours before sunset, right? So it's like three in the afternoon or something."
+        }
+      ],
+      "note": "Retain the competing departure-light cue rather than silently changing the earlier description."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0360",
+        "endUid": "u0371"
+      },
+      "reading": "The party disperses on deck about three in the afternoon, approximately two hours before sunset.",
+      "evidence": [
+        {
+          "startUid": "u0360",
+          "endUid": "u0371",
+          "quote": "it's probably two hours before sunset, right? So it's like three in the afternoon or something."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "afternoon",
+        "clock": "15:00"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0374",
+        "endUid": "u0385"
+      },
+      "reading": "A couple of hours pass aboard ship; Darba and then the coast are out of sight by sunset.",
+      "evidence": [
+        {
+          "startUid": "u0374",
+          "endUid": "u0385",
+          "quote": "over the course of the next couple hours as you start to watch the horizon, introduce everybody to Baxter you know, sit and fiddle with things basically do your do your thing."
+        },
+        {
+          "startUid": "u0374",
+          "endUid": "u0385",
+          "quote": "So Darba is out of sight, by the time the sun begins to set. In fact the coast is out of sight now by the time the sun begins to set"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "sunset"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0455",
+        "endUid": "u0464"
+      },
+      "reading": "The party heads down to dinner at sunset.",
+      "evidence": [
+        {
+          "startUid": "u0455",
+          "endUid": "u0464",
+          "quote": "As the sun sets, you head down to dinner."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1480",
+        "endUid": "u1485"
+      },
+      "reading": "After the meal and exchanged stories it is getting late, and most passengers and crew have gone to bed.",
+      "evidence": [
+        {
+          "startUid": "u1480",
+          "endUid": "u1485",
+          "quote": "DM: A sort of slowly gets to his feet and walks like perfectly balanced, despite the sway of the ship like totally unaffected by the movement of the ocean heading to his hammock and that you know, it is starting to get—with all the time with Wellby telling a story and telling stories and stuff—it's starting to get on the late side now I'm. Probably Pearl the cook and Harol the captain are still happily keeping up the music but I'm. Jasmine and and Oswalt have drifted off to their cabin at. Lyle has gone to bed. It's basically just you and me, you asked."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "late evening"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1591",
+        "endUid": "u1599"
+      },
+      "reading": "Sailing continues through the next evening, when the ship reaches the Isle of Folly and turns toward Illoria; the surrounding narration compresses the next few days.",
+      "evidence": [
+        {
+          "startUid": "u1591",
+          "endUid": "u1599",
+          "quote": "So over the course of the next few days, you—by the next evening you reach the Isle of Folly and on the northwest of Darba and turn west Northwest towards Illoria."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "evening",
+        "relative": {
+          "relation": "after",
+          "reference": "t05",
+          "anchor": "the following evening after departure-day dinner"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1785",
+        "endUid": "u1789"
+      },
+      "reading": "The ship passes Illoria in the distance on the morning of the fifth sailing day, correcting an initial fourth-day start.",
+      "evidence": [
+        {
+          "startUid": "u1785",
+          "endUid": "u1789",
+          "quote": "And and around the fourth—the morning of the fifth day you, you can see the island of Illoria off your starboard bow to the West."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t01",
+          "anchor": "fifth sailing day, counting departure as day one"
+        }
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1946",
+        "endUid": "u1957"
+      },
+      "reading": "After the next couple of days, around the eighth sailing day, the ship approaches the canal estuary in late afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1946",
+          "endUid": "u1957",
+          "quote": "Next next couple of days approach your like eighth day of sailing roughly"
+        },
+        {
+          "startUid": "u1946",
+          "endUid": "u1957",
+          "quote": "You're getting there late afternoon"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "late afternoon",
+        "relative": {
+          "relation": "after",
+          "reference": "t01",
+          "anchor": "approximately the eighth sailing day"
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1978",
+        "endUid": "u1988"
+      },
+      "reading": "At sunset the four PCs enter the mirror before the evening windcaller arrangements; Baxter joins through the retrospective shrinking sequence.",
+      "evidence": [
+        {
+          "startUid": "u1978",
+          "endUid": "u1984",
+          "quote": "the ships coming and going, the sun setting"
+        },
+        {
+          "startUid": "u1985",
+          "endUid": "u1988",
+          "quote": "As one by one, you vanish into the mirror."
+        },
+        {
+          "startUid": "u2071",
+          "endUid": "u2072",
+          "quote": "DM: And he vanishes as the rest of you—men as—Wellby you are now left after all your friends disappear into the mirror you put the mirror in—turn off the mirror. Put the mirror in the portable hole, fold up portable hole, put the portable hole in your lead-lined box."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "sunset"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Riswynn",
+        "Baxter"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1989",
+        "endUid": "u2001"
+      },
+      "reading": "Inside the mirror the narration first says no time passes, then describes a vague subjective few minutes or perhaps an hour until emergence; hunger, thirst and tiredness are absent.",
+      "evidence": [
+        {
+          "startUid": "u1989",
+          "endUid": "u1993",
+          "quote": "DM: No time passes. You are you are just in this white mist I'm. You know, you just see these you know, the looks like fog drifting past occasionally."
+        },
+        {
+          "startUid": "u1994",
+          "endUid": "u2001",
+          "quote": "DM: You have a vague sense of time passing, but you never seem to get hungry or tired or thirsty. And it feels like you know, it feels like it feels like you know, a couple of minutes or maybe an hour. When you emerge, one by one on the."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Riswynn"
+      ],
+      "note": "This is the subjective mirror frame; Wellby’s separately narrated overnights establish the adventure-time interval."
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2086"
+      },
+      "reading": "Wellby is aboard when the ship docks at the southern fort that evening; the pilot arrangement ends and everyone sleeps until the next pre-dawn awakening.",
+      "evidence": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2079",
+          "quote": "So you are now the only one at on deck that evening when you dock at the at the fort."
+        },
+        {
+          "startUid": "u2080",
+          "endUid": "u2086",
+          "quote": "And then they depart and everybody goes to sleep."
+        },
+        {
+          "startUid": "u2087",
+          "endUid": "u2094",
+          "quote": "Until the next morning in the pre dawn light before it's even light out you're awakened by the sound of wind picking up in the sails."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "stated by the DM",
+          "partOfDay": "evening"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "stated by the DM",
+          "partOfDay": "pre-dawn",
+          "relative": {
+            "relation": "after",
+            "anchor": "the following morning"
+          }
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2087",
+        "endUid": "u2098"
+      },
+      "reading": "Wellby wakes before dawn to windcaller-driven departure; the first gorge is traversed as the sun rises.",
+      "evidence": [
+        {
+          "startUid": "u2087",
+          "endUid": "u2094",
+          "quote": "Until the next morning in the pre dawn light before it's even light out you're awakened by the sound of wind picking up in the sails."
+        },
+        {
+          "startUid": "u2099",
+          "endUid": "u2109",
+          "quote": "The first part of the journey is in the dark. But as the sun begins to rise you find yourself passing through a narrow gorge through hills"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "pre-dawn"
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2110",
+        "endUid": "u2124"
+      },
+      "reading": "The ship emerges into Stillwater Lake around nine in the morning, with ten briefly considered before nine-ish is retained.",
+      "evidence": [
+        {
+          "startUid": "u2110",
+          "endUid": "u2116",
+          "quote": "Until by nine in the morning, or something like that you emerge, maybe 10. Nine ish in the morning I'm you emerge from this narrow gorge into a lake."
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2124",
+          "quote": "as you navigate to the dock"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "morning",
+        "clock": "09:00"
+      }
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2167",
+        "endUid": "u2177"
+      },
+      "reading": "The northern transit continues for most of the day; the Endless Sea appears at sunset, and Fort Varian is passed and docked at in full darkness.",
+      "evidence": [
+        {
+          "startUid": "u2167",
+          "endUid": "u2177",
+          "quote": "DM: Ah, after it exits the second cut you know, you pass you start to pass through a bit more of a winding stretch. It seems like you're you're maybe now following the route of a river or something like that, and you come out on what clearly looks like a natural lake. And follow them for most of the rest of the day, into the night, the course of the course of a river that's been dredged and widened but it's clearly following the course of a river and by the time the sun sets, you can see the expanse of the Endless Sea, on the other side of the canal. It's full dark and the moon has risen. Stars are out by the time you pass Fort Varian in sort of salt marsh area at the north of the north entrance of the canal. Where the windcaller you dock again or the windcaller departs and then. Because it is now well past dark the."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "stated by the DM",
+          "partOfDay": "sunset"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "stated by the DM",
+          "partOfDay": "night"
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2178",
+        "endUid": "u2186"
+      },
+      "reading": "The crew spends the night at anchor for maintenance; next morning the ship leaves Fort Varian behind and the four PCs emerge in the cabin, while Baxter remains in the mirror.",
+      "evidence": [
+        {
+          "startUid": "u2178",
+          "endUid": "u2180",
+          "quote": "DM: Halflings the captain decides to give the crew a break here because it's been a long day and so I'm spend the night at anchor to do some maintenance."
+        },
+        {
+          "startUid": "u2181",
+          "endUid": "u2186",
+          "quote": "DM: The next morning, as you sail out of sight of the Fort Varian, the rest of you emerge in the cabin. Baxter Baxter is still in the mirror. So the rest of you emerge in the cabin. Wellby gives you a brief rundown of what he saw."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "stated by the DM",
+          "partOfDay": "night"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "stated by the DM",
+          "partOfDay": "morning",
+          "relative": {
+            "relation": "after",
+            "anchor": "the next morning after the northern canal anchorage"
+          }
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "actors": [
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Riswynn"
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2477",
+        "endUid": "u2483"
+      },
+      "reading": "Another four-ish days of sailing bring the ship to Chardon’s tidal river.",
+      "evidence": [
+        {
+          "startUid": "u2477",
+          "endUid": "u2483",
+          "quote": "So after another, like four ish days of sailing you come to the to the the tidal river that that flows past Chardon."
+        }
+      ],
+      "duration": {
+        "value": 4,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "note": "Approximate narration; this does not independently establish an absolute arrival date."
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2494",
+        "endUid": "u2499"
+      },
+      "reading": "The upriver approach with the incoming tide takes about half a day before Chardon itself comes into view.",
+      "evidence": [
+        {
+          "startUid": "u2484",
+          "endUid": "u2488",
+          "quote": "even as you begin to sail up river with the incoming tide"
+        },
+        {
+          "startUid": "u2494",
+          "endUid": "u2499",
+          "quote": "And it's a decent you know, it's half a day ish traveling up up river with the tide to before you see the bulk of the city of Chardon itself"
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "note": "No starting or ending civil watch is established for the upriver leg."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "Only August is independently spoken (t01). The year and absolute departure/arrival days come from YAML; sailing-day numbers and two completed canal overnights come from the transcript.",
+    "expectedDateBoundaries": 12,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t07",
+      "t08",
+      "t09",
+      "t12",
+      "t16",
+      "t17",
+      "t18"
+    ],
+    "explanation": "Departure day, next evening, fifth and roughly eighth sailing days, then two overnight transitions are established. The final four-ish-day sea leg and half-day upriver leg are approximate and do not settle an exact total. They can fit the YAML span; treating four-ish as exactly four would instead place arrival about a day later. No missing day is supplied from drEnd."
+  }
+}

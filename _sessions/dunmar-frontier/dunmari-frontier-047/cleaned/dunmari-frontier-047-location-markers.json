@@ -1,0 +1,1095 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-047",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-session.yaml",
+    "sessionYamlSha256": "d6a7ddc3d3aca6fb866f906a418573455703dccb887f7621c550d92ec185816a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-transcript.md",
+    "transcriptSha256": "66ae3126bc4fb9a91f85675d5c5ae7689276a125a884dad72a7aec58ed104a7c"
+  },
+  "places": {
+    "p01": {
+      "label": "Darba",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0028",
+          "quote": "DM: Ah yeah so Seeker got a brief architecture tour basically, you know, learning a bit about the history of Darba. You know, the different the different ages of building, right? So it was originally a Drankorian fort and that's the oldest—the fort itself is the oldest part of the city and then you know, the walls were soon after. But a lot of them, but there's a lot of new construction, so—and Vondal Redpeak who is giving you the tour is a mason—is in the midst of constructing this big big expansion of the large central market, so there's a lot of tour, um and he is very excited to sort of show off all the like fancy new architectural innovations that are being put into this. But I didn't do a deep Wikipedia dive about structural engineering, so I don't have I can't tell you what those innovations were. Talking. But you get a sense of the history right? So I mean, if that ever becomes relevant you can assume you know, what. Um."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/Darba.md"
+    },
+    "p02": {
+      "label": "Darba harbor",
+      "evidence": [
+        {
+          "startUid": "u0036",
+          "endUid": "u0040",
+          "quote": "come to the meet together again at the harbor"
+        }
+      ],
+      "kind": "harbor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0036",
+              "endUid": "u0040",
+              "quote": "DM: As you finish your tasks at Darba and come to the meet together again at the harbor as the afternoon rains clear and the sun emerges from the clouds, you are greeted at the dock by a young halfling woman, probably, you know, older than Wellby with curly blonde hair bleached by the sun and face wrinkled and tan by the wind of the open ocean dressed in bright, greens and yellows. She has just finished loading, the last of the cargo that the ship has taken on here in Darba as well as the other two passengers both halflings and motions for you, for the five of you to hurry and she glances with each of you and."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Emerald Song",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0035",
+          "quote": "DM: And then you all meet up now pretty rich after having sold a bunch of treasure. And um about ready to set sail on the halfling ship the Emerald Song which is your ride to Chardon. So."
+        }
+      ],
+      "kind": "vessel",
+      "vaultPath": "Things/Ships/Emerald Song.md",
+      "mobile": true
+    },
+    "p04": {
+      "label": "Deck",
+      "evidence": [
+        {
+          "startUid": "u0351",
+          "endUid": "u0353",
+          "quote": "Seeker: Seeker is sprawled out on the deck alternating between contemplating the horizon and the beautiful ocean and thoughtfully scribbling notes in a notebook and tumbling a stone cube."
+        }
+      ],
+      "kind": "deck",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0360",
+              "endUid": "u0371",
+              "quote": "on the deck of the ship"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Mess hall",
+      "evidence": [
+        {
+          "startUid": "u0760",
+          "endUid": "u0761",
+          "quote": "DM: You're you're inside you're in the you're in the like mess hall, which is at the back of the boat but there's windows, so you can see."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0760",
+              "endUid": "u0761",
+              "quote": "You're you're inside you're in the you're in the like mess hall, which is at the back of the boat but there's windows"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Small passenger cabin",
+      "evidence": [
+        {
+          "startUid": "u0287",
+          "endUid": "u0289",
+          "quote": "DM: There are, there are two passenger cabins one is occupied by the other two passengers right one is one is empty, but any of you who are under four feet or under would be welcome to take it. But the cabins are built smaller size you can the ceilings are four feet."
+        }
+      ],
+      "kind": "cabin",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0287",
+              "endUid": "u0289",
+              "quote": "DM: There are, there are two passenger cabins one is occupied by the other two passengers right one is one is empty, but any of you who are under four feet or under would be welcome to take it. But the cabins are built smaller size you can the ceilings are four feet."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Nevos Sea",
+      "evidence": [
+        {
+          "startUid": "u0231",
+          "endUid": "u0240",
+          "quote": "racing across the Nevos Sea"
+        }
+      ],
+      "kind": "sea",
+      "vaultPath": "Gazetteer/Nevos and Apporia/Nevos Sea.md"
+    },
+    "p08": {
+      "label": "Isle of Folly",
+      "evidence": [
+        {
+          "startUid": "u1591",
+          "endUid": "u1599",
+          "quote": "by the next evening you reach the Isle of Folly"
+        }
+      ],
+      "kind": "island",
+      "vaultPath": "Gazetteer/Nevos and Apporia/Isle of Folly.md"
+    },
+    "p09": {
+      "label": "Illoria",
+      "evidence": [
+        {
+          "startUid": "u1785",
+          "endUid": "u1789",
+          "quote": "DM: And and around the fourth—the morning of the fifth day you, you can see the island of Illoria off your starboard bow to the West. You do pass it, you know, in the distance a couple of you know, clearly Chardonian navy ships, you know, there's other traders there's especially near Illoria, lori others, you know, traffic right but but."
+        }
+      ],
+      "kind": "island",
+      "vaultPath": "Gazetteer/Nevos and Apporia/Illoria.md",
+      "note": "Seen and passed at a distance; no landing is narrated."
+    },
+    "p10": {
+      "label": "Chardon canal",
+      "evidence": [
+        {
+          "startUid": "u1112",
+          "endUid": "u1119",
+          "quote": "DM: Pick up one at Fort Ameli where we enter the canal and they will depart in Stillwater Lake. Pick up a second one there to take us the remaining 50 ish miles to Fort Varian on the far side. So one to two days."
+        },
+        {
+          "startUid": "u1946",
+          "endUid": "u1957",
+          "quote": "the entrance to the canal"
+        }
+      ],
+      "kind": "canal",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Old Chardon Canal.md",
+      "note": "The Old Chardon Canal note verifies the identity; contemporary entrance geometry is retained from the transcript."
+    },
+    "p11": {
+      "label": "Southern canal estuary",
+      "evidence": [
+        {
+          "startUid": "u1946",
+          "endUid": "u1957",
+          "quote": "The entrance to the canal is basically just a tidal is a tidal estuary"
+        }
+      ],
+      "kind": "estuary",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1946",
+              "endUid": "u1957",
+              "quote": "DM: Next next couple of days approach your like eighth day of sailing roughly um you can see the the coast of Chardon in the distance. You can see the—the entrance to the canal—canal. The entrance to the canal is basically just a tidal is a tidal estuary and about 10 miles in there is a large fort overlooking the water like a basically a castle. With docks you can see the several ships. There's a small city that's kind of set along the coast here as well. You can see there's, you know, as you even from a distance, you can see that there's several ships docked. You're getting there late afternoon, so you could conceivably make the transit in one day if you anchor overnight here you know, get up pre dawn and you know, make your arrangement make arrangements tonight for the windcallers to board in the morning and get out pre dawn at sail into the night after you know, from the Stillwater Lake halfway through."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Southern fort dock",
+      "evidence": [
+        {
+          "startUid": "u1112",
+          "endUid": "u1119",
+          "quote": "Pick up one at Fort Ameli where we enter the canal"
+        },
+        {
+          "startUid": "u2075",
+          "endUid": "u2079",
+          "quote": "when you dock at the at the fort"
+        }
+      ],
+      "kind": "docks",
+      "note": "The southern fort is named in the route briefing; the later dock is identified by that function, without asserting anyone went ashore.",
+      "relations": [
+        {
+          "relation": "on",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1112",
+              "endUid": "u1119",
+              "quote": "DM: Pick up one at Fort Ameli where we enter the canal and they will depart in Stillwater Lake. Pick up a second one there to take us the remaining 50 ish miles to Fort Varian on the far side. So one to two days."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p22",
+          "evidence": [
+            {
+              "startUid": "u1112",
+              "endUid": "u1119",
+              "quote": "Pick up one at Fort Ameli where we enter the canal"
+            },
+            {
+              "startUid": "u2075",
+              "endUid": "u2079",
+              "quote": "when you dock at the at the fort"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Stillwater Lake",
+      "evidence": [
+        {
+          "startUid": "u1112",
+          "endUid": "u1119",
+          "quote": "they will depart in Stillwater Lake"
+        },
+        {
+          "startUid": "u2110",
+          "endUid": "u2116",
+          "quote": "you emerge from this narrow gorge into a lake."
+        }
+      ],
+      "kind": "lake",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1112",
+              "endUid": "u1119",
+              "quote": "DM: Pick up one at Fort Ameli where we enter the canal and they will depart in Stillwater Lake. Pick up a second one there to take us the remaining 50 ish miles to Fort Varian on the far side. So one to two days."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Northern fort anchorage",
+      "evidence": [
+        {
+          "startUid": "u2167",
+          "endUid": "u2177",
+          "quote": "DM: Ah, after it exits the second cut you know, you pass you start to pass through a bit more of a winding stretch. It seems like you're you're maybe now following the route of a river or something like that, and you come out on what clearly looks like a natural lake. And follow them for most of the rest of the day, into the night, the course of the course of a river that's been dredged and widened but it's clearly following the course of a river and by the time the sun sets, you can see the expanse of the Endless Sea, on the other side of the canal. It's full dark and the moon has risen. Stars are out by the time you pass Fort Varian in sort of salt marsh area at the north of the north entrance of the canal. Where the windcaller you dock again or the windcaller departs and then. Because it is now well past dark the."
+        },
+        {
+          "startUid": "u2178",
+          "endUid": "u2180",
+          "quote": "DM: Halflings the captain decides to give the crew a break here because it's been a long day and so I'm spend the night at anchor to do some maintenance."
+        }
+      ],
+      "kind": "anchorage",
+      "note": "The ship docks and anchors by Fort Varian in the played account. The modern fort note places merchant harbor services near Nevium; that vault-only orientation does not relocate the session anchorage.",
+      "relations": [
+        {
+          "relation": "at_northern_entrance_of",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2167",
+              "endUid": "u2177",
+              "quote": "Fort Varian in sort of salt marsh area at the north of the north entrance of the canal"
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p23",
+          "evidence": [
+            {
+              "startUid": "u2167",
+              "endUid": "u2177",
+              "quote": "DM: Ah, after it exits the second cut you know, you pass you start to pass through a bit more of a winding stretch. It seems like you're you're maybe now following the route of a river or something like that, and you come out on what clearly looks like a natural lake. And follow them for most of the rest of the day, into the night, the course of the course of a river that's been dredged and widened but it's clearly following the course of a river and by the time the sun sets, you can see the expanse of the Endless Sea, on the other side of the canal. It's full dark and the moon has risen. Stars are out by the time you pass Fort Varian in sort of salt marsh area at the north of the north entrance of the canal. Where the windcaller you dock again or the windcaller departs and then. Because it is now well past dark the."
+            },
+            {
+              "startUid": "u2178",
+              "endUid": "u2180",
+              "quote": "DM: Halflings the captain decides to give the crew a break here because it's been a long day and so I'm spend the night at anchor to do some maintenance."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "White-mist cells inside the mirror",
+      "evidence": [
+        {
+          "startUid": "u1989",
+          "endUid": "u2001",
+          "quote": "DM: No time passes. You are you are just in this white mist I'm. You know, you just see these you know, the looks like fog drifting past occasionally."
+        }
+      ],
+      "kind": "extradimensional prison",
+      "vaultPath": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md",
+      "note": "Separate cells are not mapped as shared physical space; Baxter stays confined after the four PCs emerge."
+    },
+    "p16": {
+      "label": "Endless Sea",
+      "evidence": [
+        {
+          "startUid": "u2167",
+          "endUid": "u2177",
+          "quote": "the expanse of the Endless Sea, on the other side of the canal"
+        }
+      ],
+      "kind": "sea",
+      "vaultPath": "Gazetteer/Endless Ocean.md",
+      "note": "The transcript’s Endless Sea is the Endless Ocean in the vault reference."
+    },
+    "p17": {
+      "label": "Tidal river at Chardon",
+      "evidence": [
+        {
+          "startUid": "u2477",
+          "endUid": "u2488",
+          "quote": "DM: So after another, like four ish days of sailing you come to the to the the tidal river that that flows past Chardon. Then you can see, even from the coast I'm the just the bulk of this extinct—possibly any way extinct volcano that that sits on the North bank of the river looming over the city of Chardon. The."
+        }
+      ],
+      "kind": "river",
+      "vaultPath": "Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa.md",
+      "note": "The river is unnamed in this session; Chardon and Chasa verify its identity. No extra route detail is imported."
+    },
+    "p18": {
+      "label": "Chardon",
+      "evidence": [
+        {
+          "startUid": "u2494",
+          "endUid": "u2499",
+          "quote": "DM: And it's a decent you know, it's half a day ish traveling up up river with the tide to before you see the bulk of the city of Chardon itself the wall stretching for miles, the large naval force base, shipyard, shipyard, something enclosed within its own walls at the entrance sort of entrance to the city."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p19": {
+      "label": "Lifting river bridge",
+      "evidence": [
+        {
+          "startUid": "u2500",
+          "endUid": "u2506",
+          "quote": "DM: The great bridge that the that Dani described a wide enough four carts to travel abreast. Made of black stone. Possibly volcanic and you can see a ship is ahead of you and the large part of the bridge just lifts up let it pass. There's a brief warning, so that people get get off the the seams but it doesn't even you know, people crossing the bridge barely even stop. They just hold on to the sides as as they're carried up into the sky, the ship sails past, and then it lowers slowly down clicking into place and everybody resumes their journey back and forth across the river."
+        }
+      ],
+      "kind": "bridge",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/River Bridge (Chardon).md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u2494",
+              "endUid": "u2499",
+              "quote": "DM: And it's a decent you know, it's half a day ish traveling up up river with the tide to before you see the bulk of the city of Chardon itself the wall stretching for miles, the large naval force base, shipyard, shipyard, something enclosed within its own walls at the entrance sort of entrance to the city."
+            },
+            {
+              "startUid": "u2500",
+              "endUid": "u2506",
+              "quote": "DM: The great bridge that the that Dani described a wide enough four carts to travel abreast. Made of black stone. Possibly volcanic and you can see a ship is ahead of you and the large part of the bridge just lifts up let it pass. There's a brief warning, so that people get get off the the seams but it doesn't even you know, people crossing the bridge barely even stop. They just hold on to the sides as as they're carried up into the sky, the ship sails past, and then it lowers slowly down clicking into place and everybody resumes their journey back and forth across the river."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Chardon docks",
+      "evidence": [
+        {
+          "startUid": "u2516",
+          "endUid": "u2528",
+          "quote": "DM: And as you pull into the docks disembark saying goodbye to the crew and captain of the Emerald Song. Seeing Jasmine and Oswalt as they not planning on spending any time in the city itself—they've decided to head north. See what—see what—where the road takes them."
+        }
+      ],
+      "kind": "docks",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u2516",
+              "endUid": "u2528",
+              "quote": "DM: And as you pull into the docks disembark saying goodbye to the crew and captain of the Emerald Song. Seeing Jasmine and Oswalt as they not planning on spending any time in the city itself—they've decided to head north. See what—see what—where the road takes them."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Lower-deck crew quarters",
+      "evidence": [
+        {
+          "startUid": "u0217",
+          "endUid": "u0223",
+          "quote": "DM: Oh, as you sneak your way onto the ship, Dani the halfling woman gets you settled below decks. There's not much privacy on this ship, especially for big folk. There's there are a couple cabins for travelers but they're designed for halflings so. At least Delwath and and Kenzo cannot really fit. In the main deck below you know, the the main the main deck has you know, hammocks and stuff and is tall enough that you can at least walk around without you know, with your head bent slightly and there's a little bit more space in like the mess hall and stuff but basically you're you know, you're sleeping on hammocks among the crew right you don't really have a private room or anything. You know, just to keep in mind in case you want to remove anything from the portable hole."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0217",
+              "endUid": "u0223",
+              "quote": "DM: Oh, as you sneak your way onto the ship, Dani the halfling woman gets you settled below decks. There's not much privacy on this ship, especially for big folk. There's there are a couple cabins for travelers but they're designed for halflings so. At least Delwath and and Kenzo cannot really fit. In the main deck below you know, the the main the main deck has you know, hammocks and stuff and is tall enough that you can at least walk around without you know, with your head bent slightly and there's a little bit more space in like the mess hall and stuff but basically you're you know, you're sleeping on hammocks among the crew right you don't really have a private room or anything. You know, just to keep in mind in case you want to remove anything from the portable hole."
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Fort Ameli",
+      "evidence": [
+        {
+          "startUid": "u1112",
+          "endUid": "u1119",
+          "quote": "Pick up one at Fort Ameli where we enter the canal"
+        },
+        {
+          "startUid": "u2075",
+          "endUid": "u2079",
+          "quote": "when you dock at the at the fort"
+        }
+      ],
+      "kind": "fort",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Fort Ameli.md"
+    },
+    "p23": {
+      "label": "Fort Varian",
+      "evidence": [
+        {
+          "startUid": "u2167",
+          "endUid": "u2177",
+          "quote": "DM: Ah, after it exits the second cut you know, you pass you start to pass through a bit more of a winding stretch. It seems like you're you're maybe now following the route of a river or something like that, and you come out on what clearly looks like a natural lake. And follow them for most of the rest of the day, into the night, the course of the course of a river that's been dredged and widened but it's clearly following the course of a river and by the time the sun sets, you can see the expanse of the Endless Sea, on the other side of the canal. It's full dark and the moon has risen. Stars are out by the time you pass Fort Varian in sort of salt marsh area at the north of the north entrance of the canal. Where the windcaller you dock again or the windcaller departs and then. Because it is now well past dark the."
+        },
+        {
+          "startUid": "u2178",
+          "endUid": "u2180",
+          "quote": "DM: Halflings the captain decides to give the crew a break here because it's been a long day and so I'm spend the night at anchor to do some maintenance."
+        }
+      ],
+      "kind": "fort",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Fort Varian.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0028"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker’s architecture tour takes place in Darba; fort, walls and market construction are parts of the summarized tour.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0028",
+          "quote": "DM: Ah yeah so Seeker got a brief architecture tour basically, you know, learning a bit about the history of Darba. You know, the different the different ages of building, right? So it was originally a Drankorian fort and that's the oldest—the fort itself is the oldest part of the city and then you know, the walls were soon after. But a lot of them, but there's a lot of new construction, so—and Vondal Redpeak who is giving you the tour is a mason—is in the midst of constructing this big big expansion of the large central market, so there's a lot of tour, um and he is very excited to sort of show off all the like fancy new architectural innovations that are being put into this. But I didn't do a deep Wikipedia dive about structural engineering, so I don't have I can't tell you what those innovations were. Talking. But you get a sense of the history right? So I mean, if that ever becomes relevant you can assume you know, what. Um."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0036",
+        "endUid": "u0040"
+      },
+      "actors": [
+        "party",
+        "Baxter"
+      ],
+      "reading": "The five PCs meet at Darba harbor before boarding; Baxter accompanies Wellby.",
+      "evidence": [
+        {
+          "startUid": "u0036",
+          "endUid": "u0040",
+          "quote": "DM: As you finish your tasks at Darba and come to the meet together again at the harbor as the afternoon rains clear and the sun emerges from the clouds, you are greeted at the dock by a young halfling woman, probably, you know, older than Wellby with curly blonde hair bleached by the sun and face wrinkled and tan by the wind of the open ocean dressed in bright, greens and yellows. She has just finished loading, the last of the cargo that the ship has taken on here in Darba as well as the other two passengers both halflings and motions for you, for the five of you to hurry and she glances with each of you and."
+        },
+        {
+          "startUid": "u0082",
+          "endUid": "u0088",
+          "quote": "Wellby: Wellby walking up to the ship dwarfed by the nine-foot-tall owlbear who is slowly following behind, although not super happy about all the water and sea. He's three feet tall wearing well worn studded leather armor breastplate shoulder pads heavy leather bracers almost completely covering the forearm with the hilt of a shortsword sticking up over one shoulder and a quiver of arrows on the other."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0047",
+        "endUid": "u0051"
+      },
+      "actors": [
+        "party",
+        "Baxter"
+      ],
+      "reading": "The party boards the Emerald Song and is settled below decks; Baxter is aboard with Wellby.",
+      "evidence": [
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "as she waves you onto the deck"
+        },
+        {
+          "startUid": "u0217",
+          "endUid": "u0223",
+          "quote": "DM: Oh, as you sneak your way onto the ship, Dani the halfling woman gets you settled below decks. There's not much privacy on this ship, especially for big folk. There's there are a couple cabins for travelers but they're designed for halflings so. At least Delwath and and Kenzo cannot really fit. In the main deck below you know, the the main the main deck has you know, hammocks and stuff and is tall enough that you can at least walk around without you know, with your head bent slightly and there's a little bit more space in like the mess hall and stuff but basically you're you know, you're sleeping on hammocks among the crew right you don't really have a private room or anything. You know, just to keep in mind in case you want to remove anything from the portable hole."
+        },
+        {
+          "startUid": "u0354",
+          "endUid": "u0356",
+          "quote": "Wellby: Is with Baxter making sure that he's well but also doing his best to introduce him to all the crew who come by and like reassure them that he's not gonna. Like a person with a very dangerous pet who wants you to be friends with it."
+        }
+      ],
+      "from": "p02",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0224",
+        "endUid": "u0240"
+      },
+      "actors": [
+        "party",
+        "Baxter"
+      ],
+      "reading": "Aboard Emerald Song, the party leaves Darba harbor and reaches open water in the Nevos Sea.",
+      "evidence": [
+        {
+          "startUid": "u0224",
+          "endUid": "u0230",
+          "quote": "DM: But as you get settled you know, stow your gear all that stuff and the Emerald Song set sail leaving Darba and Dunmar behind I'm leaving Dunmar for the first time since you all met each other. The ship starts creeping slowly out of the harbor on the tide, the light wind caught by these two triangles large triangular sails. You know, after the bustle of leaving port and everything um you know, your for a moment, it almost feels as if you're becalmed, your does that point where you drift off the docks but haven't really you know, the sails are still furled but, as you reach open water."
+        },
+        {
+          "startUid": "u0231",
+          "endUid": "u0240",
+          "quote": "DM: Hear from the deck above you the halflings bursting into song and climbing on the rigging, as more and more canvas spreads across the masts. For a moment as the halfling shanty continues and the crew bustles around the sails hang limp, but then suddenly the wind catches and you begin to pick up speed. And surprisingly, soon you're rushing across the water under full sail with the setting sun turns the spray off the bow to gold racing across the Nevos Sea fading behind you with surprising speed. So."
+        }
+      ],
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "sailing_in",
+          "target": "p07"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0324",
+        "endUid": "u0342"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath tries to help in the galley but cannot fit; the cook’s refusal does not establish entry.",
+      "evidence": [
+        {
+          "startUid": "u0324",
+          "endUid": "u0327",
+          "quote": "Delwath: So Delwath's then gonna go scout out the deck, right? Like find a place that he's out of the way and can just watch. Watch [garbled] I also actually before does that I'm going to go find the cook and check out the galley and see if I can be of any assistance in preparing dinner. You—"
+        },
+        {
+          "startUid": "u0328",
+          "endUid": "u0328",
+          "quote": "DM: Cannot fit in the galley."
+        },
+        {
+          "startUid": "u0333",
+          "endUid": "u0342",
+          "quote": "DM: So the cook like introduces herself. Her name's Pearl Copperharp. She's like the main cook. Woman in her mid 50s. And she kind of looks up at you, and just kind of laugh. Um some other time, maybe. She doesn't really look like she wants anybody in the galley, with her, right? Um but yeah you can't really comfortably fit inside, I mean, this is this ship and clearly been optimized for. They can they can carry more cargo if everything is small."
+        }
+      ],
+      "from": "p21",
+      "to": null,
+      "completion": "interrupted",
+      "note": "The galley remains route text because no physical entry is established."
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0351",
+        "endUid": "u0371"
+      },
+      "actors": [
+        "party",
+        "Baxter"
+      ],
+      "reading": "The party spreads out on deck, looking out, working and introducing Baxter to passing crew.",
+      "evidence": [
+        {
+          "startUid": "u0351",
+          "endUid": "u0353",
+          "quote": "Seeker: Seeker is sprawled out on the deck alternating between contemplating the horizon and the beautiful ocean and thoughtfully scribbling notes in a notebook and tumbling a stone cube."
+        },
+        {
+          "startUid": "u0354",
+          "endUid": "u0356",
+          "quote": "Wellby: Is with Baxter making sure that he's well but also doing his best to introduce him to all the crew who come by and like reassure them that he's not gonna. Like a person with a very dangerous pet who wants you to be friends with it."
+        },
+        {
+          "startUid": "u0360",
+          "endUid": "u0371",
+          "quote": "DM: So you you all sort of go off your separate ways to you know, on the deck of the ship it's it's probably two hours before sunset, right? So it's like three in the afternoon or something. You know, now that the that the sails are up and the ship has caught the wind though you know, the you know, the you're heading, basically, you know, almost due north at this point along the coast, but sort of cutting cutting a bit away right from the coast is rocky here and there's lots of shoals that you're sort of turning out. And moving quickly like under full sail this ship is the you know, it's not the fastest ship ever right but it's it's pretty good so I'm. Dani is that you know, at the moment she's like bustling around like out, you know, getting things stowed, helping to deal with stuff doesn't really have much time to talk, but did invite you all down to the mess hall for dinner so. Have a chance to talk then, if you want to join them for dinner. Soon, at this point invisibility has worn off or been dropped."
+        }
+      ],
+      "place": "p04",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "sailing_in",
+          "target": "p07"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0455",
+        "endUid": "u0514"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five PCs go down to the mess hall for dinner with crew and fellow passengers.",
+      "evidence": [
+        {
+          "startUid": "u0455",
+          "endUid": "u0464",
+          "quote": "As the sun sets, you head down to dinner."
+        },
+        {
+          "startUid": "u0493",
+          "endUid": "u0514",
+          "quote": "DM: An older an older man maybe 100 definitely on the old side um. And he seemed sort of sitting in a corner you know, kind of dozing a little bit. Waiting for for food and for conversation. And then there's a— another halfling man maybe in his late 40s. Kind of somber sunburnt look wearing dark clothes. And as you all come in so there's you know, 1234 there's six of them sitting there um and the five of you that's something of a crowd."
+        },
+        {
+          "startUid": "u0760",
+          "endUid": "u0761",
+          "quote": "DM: You're you're inside you're in the you're in the like mess hall, which is at the back of the boat but there's windows, so you can see."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1591",
+        "endUid": "u1599"
+      },
+      "actors": [
+        "party",
+        "Baxter"
+      ],
+      "reading": "The ship reaches the Isle of Folly as a turning landmark and sails toward Illoria, passing Illoria at a distance before approaching the canal.",
+      "evidence": [
+        {
+          "startUid": "u1591",
+          "endUid": "u1599",
+          "quote": "DM: So over the course of the next few days, you—by the next evening you reach the Isle of Folly and on the northwest of Darba and turn west Northwest towards Illoria. The sailing is the ship is the wind, has been very good and so you are going faster than expected. You know, conceivably could make the journey in more like two weeks, instead of twenty days at this at this rate, if things keep up. And during this time, you, you get a map of Chardon from from Lyle. So this is your rough map of Chardon."
+        },
+        {
+          "startUid": "u1785",
+          "endUid": "u1799",
+          "quote": "DM: And and around the fourth—the morning of the fifth day you, you can see the island of Illoria off your starboard bow to the West. You do pass it, you know, in the distance a couple of you know, clearly Chardonian navy ships, you know, there's other traders there's especially near Illoria, lori others, you know, traffic right but but."
+        },
+        {
+          "startUid": "u1946",
+          "endUid": "u1957",
+          "quote": "DM: Next next couple of days approach your like eighth day of sailing roughly um you can see the the coast of Chardon in the distance. You can see the—the entrance to the canal—canal. The entrance to the canal is basically just a tidal is a tidal estuary and about 10 miles in there is a large fort overlooking the water like a basically a castle. With docks you can see the several ships. There's a small city that's kind of set along the coast here as well. You can see there's, you know, as you even from a distance, you can see that there's several ships docked. You're getting there late afternoon, so you could conceivably make the transit in one day if you anchor overnight here you know, get up pre dawn and you know, make your arrangement make arrangements tonight for the windcallers to board in the morning and get out pre dawn at sail into the night after you know, from the Stillwater Lake halfway through."
+        }
+      ],
+      "from": "p07",
+      "to": "p11",
+      "completion": "underway",
+      "mode": "sail",
+      "vehicle": "p03",
+      "route": [
+        {
+          "place": "p08",
+          "reading": "Reach the Isle of Folly as a turning landmark; no landing."
+        },
+        {
+          "place": "p09",
+          "reading": "Pass Illoria in the distance without entering port."
+        }
+      ],
+      "note": "Onboard map conversations do not establish physical visits to the mapped city places."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1974",
+        "endUid": "u1988"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Riswynn",
+        "Baxter"
+      ],
+      "reading": "Four PCs deliberately enter the mirror; Baxter is reduced and brought below to join them in the retrospectively resolved sequence.",
+      "evidence": [
+        {
+          "startUid": "u1974",
+          "endUid": "u1977",
+          "quote": "Delwath: Gonna we're gonna go look in the mirror and we're going to intentionally fail our saves and then, Wellby's gonna stick the mirror in back in the portable hole. The hole back in the lead box, put the lead box in his backpack."
+        },
+        {
+          "startUid": "u1985",
+          "endUid": "u1988",
+          "quote": "DM: So, the last thing you see is the is the coastline, the sort of tidal estuary salt marsh to the to the east, the small walled port city to the West this Chardonian castle overlooking a series, you know, a series of weirs on the tidal flow. As one by one, you vanish into the mirror."
+        },
+        {
+          "startUid": "u2063",
+          "endUid": "u2072",
+          "quote": "Seeker: But yes Okay, so I surreptitiously cast reduce on Baxter."
+        }
+      ],
+      "from": "p03",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "magical imprisonment",
+      "note": "The initial all-aboard reference to Baxter is clarified by shrinking him. The cabin/hold wording is not precise enough to choose a different boarding room."
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2086"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby stays aboard Emerald Song as it docks at the southern fort and the first pilot arranges the passage.",
+      "evidence": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2079",
+          "quote": "DM: So you are now the only one at on deck that evening when you dock at the at the fort. And you are, I mean, you are sort of trying to blend in with basically the able seamen, right? Like you're not stand out just you know, and you know, your way around your ships, right? Like you sailed plenty before so it's not too hard."
+        },
+        {
+          "startUid": "u2080",
+          "endUid": "u2086",
+          "quote": "DM: You you see this Chardonian dressed in sky blue robes with a hood shadowing their entire face step on. You can't see their eyes and their face or any anything. And you can't tell if it's a man or a woman. They speak softly, to the captain and a purse of gold is exchanged. And then they depart and everybody goes to sleep."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "docked_at",
+          "target": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2079"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby is the only PC remaining aboard Emerald Song while his companions are hidden; he works among the sailors during the canal passage.",
+      "evidence": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2079",
+          "quote": "DM: So you are now the only one at on deck that evening when you dock at the at the fort. And you are, I mean, you are sort of trying to blend in with basically the able seamen, right? Like you're not stand out just you know, and you know, your way around your ships, right? Like you sailed plenty before so it's not too hard."
+        },
+        {
+          "startUid": "u2087",
+          "endUid": "u2098",
+          "quote": "DM: Until the next morning in the pre dawn light before it's even light out you're awakened by the sound of wind picking up in the sails. Creeping making your way on onto deck and sort of working with the other halflings um you can see that that this sky blue robe individual is sitting in a circle that has been constructed of some powder around. So there's like a big circle and some powdered gemstone or something like that around this person and the person is sitting in the middle of the circle, and you know, clearly, doing magic of some kind."
+        },
+        {
+          "startUid": "u2125",
+          "endUid": "u2129",
+          "quote": "DM: Working on the on the you know, up in the rigging sort of working the sails you see approaching a second individual or possibly the same one. It's very hard to tell right because they have again have put that sky blue robes. This one is you have good enough perception, you probably say this one is a hair taller so probably not the same one unless they put on you know, platform boots or something."
+        }
+      ],
+      "place": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "docked_at",
+          "target": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2087",
+        "endUid": "u2124"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Before dawn the ship leaves the southern fort, traverses the first gorge and docks at Stillwater Lake for the pilot change.",
+      "evidence": [
+        {
+          "startUid": "u2087",
+          "endUid": "u2098",
+          "quote": "DM: Until the next morning in the pre dawn light before it's even light out you're awakened by the sound of wind picking up in the sails. Creeping making your way on onto deck and sort of working with the other halflings um you can see that that this sky blue robe individual is sitting in a circle that has been constructed of some powder around. So there's like a big circle and some powdered gemstone or something like that around this person and the person is sitting in the middle of the circle, and you know, clearly, doing magic of some kind."
+        },
+        {
+          "startUid": "u2099",
+          "endUid": "u2116",
+          "quote": "DM: The first part of the journey is in the dark. But as the sun begins to rise you find yourself passing through a narrow gorge through hills with cliff walls that stretch smooth as if sliced with a massive like thousand foot sword, just like smooth cliffs stretching up 300 feet high. Almost polished stone. The canal here is narrow maybe only 40–50 feet wide, definitely not wide enough for more than one ship to transit at a time and in the morning it's all the northbound traffic right um. This continues for like six miles in semi darkness, as the sun has climbed into the sky, but you're in deep shadow at the bottom of this this gorge."
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2124",
+          "quote": "DM: But with these with the shape of the bowl there's again there's no wind and, as you navigate to the dock you can see that the circle of of whatever it was the gemstone that was around this windcaller is is now completely gone. There's a few little specks left that this person sweeps off and then puts into a pouch at their side, bows slightly to the captain and then just turns and leaves the ship without a word. You never haven't seen their face or really any part of their body this entire time."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "sail under magical wind",
+      "vehicle": "p03",
+      "route": [
+        {
+          "reading": "Pass the narrow, smooth-sided first gorge in deep shadow."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "docked_at",
+          "target": "p13"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2157",
+        "endUid": "u2180"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "The convoy crosses the second cut, a natural lake and a widened river; Emerald Song docks by Fort Varian and anchors for the night.",
+      "evidence": [
+        {
+          "startUid": "u2157",
+          "endUid": "u2158",
+          "quote": "DM: And then they they make the circle again and they sit down and they begin to chant and again the little bits of this dust begin to float up into the sky and create the wind and somehow it seems like they are working harder. There's more. The wind is blowing stronger and the other two sky sky blue robed people on the other two ships that are traveling north, at the same time, seem to be somehow helping to gather and direct it to the sails of all three ships."
+        },
+        {
+          "startUid": "u2159",
+          "endUid": "u2177",
+          "quote": "DM: The journey north is past, you know, immediately exiting the lake you pass through a second, cut even narrower than the first. The your ship is a relatively narrow ship. So you have a fair bit of room on the on both sides of the boat, but one of the one of the other ships passing through the one in front of you is a large heavily laden Chardonian galleon and it barely fits, right? Um you know, this this ship is like approaching Panamax, right? The maximum size of boats that can pass through the canal um."
+        },
+        {
+          "startUid": "u2178",
+          "endUid": "u2180",
+          "quote": "DM: Halflings the captain decides to give the crew a break here because it's been a long day and so I'm spend the night at anchor to do some maintenance."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "sail under magical wind",
+      "vehicle": "p03",
+      "route": [
+        {
+          "reading": "Traverse the second cut, then a natural lake and dredged river."
+        },
+        {
+          "place": "p16",
+          "reading": "See the Endless Sea at sunset as the canal opens northward."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "anchored_at",
+          "target": "p14"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2181",
+        "endUid": "u2186"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "The four PCs emerge in the cabin after the ship sails out of sight of Fort Varian; Baxter remains in the mirror.",
+      "evidence": [
+        {
+          "startUid": "u2181",
+          "endUid": "u2186",
+          "quote": "DM: The next morning, as you sail out of sight of the Fort Varian, the rest of you emerge in the cabin. Baxter Baxter is still in the mirror. So the rest of you emerge in the cabin. Wellby gives you a brief rundown of what he saw."
+        }
+      ],
+      "from": "p15",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "release from mirror"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2477",
+        "endUid": "u2488"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Riswynn",
+        "Wellby"
+      ],
+      "reading": "After further sailing, Emerald Song reaches Chardon’s tidal river and begins the upriver approach.",
+      "evidence": [
+        {
+          "startUid": "u2477",
+          "endUid": "u2483",
+          "quote": "DM: So after another, like four ish days of sailing you come to the to the the tidal river that that flows past Chardon. Then you can see, even from the coast I'm the just the bulk of this extinct—possibly any way extinct volcano that that sits on the North bank of the river looming over the city of Chardon. The."
+        },
+        {
+          "startUid": "u2484",
+          "endUid": "u2488",
+          "quote": "DM: The tidal flow here the tidal estuary is very is like marshy and unsettled. But even as you begin to sail up river with the incoming tide, you can see, you know, every now and then a. You know, there's."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p03",
+      "duration": {
+        "value": 4,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      }
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2494",
+        "endUid": "u2528"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Riswynn",
+        "Wellby"
+      ],
+      "reading": "The ship sails upriver, passes under the lifting bridge and reaches Chardon docks. Disembarkation is mentioned before the closing frame defers getting into the city.",
+      "evidence": [
+        {
+          "startUid": "u2494",
+          "endUid": "u2499",
+          "quote": "DM: And it's a decent you know, it's half a day ish traveling up up river with the tide to before you see the bulk of the city of Chardon itself the wall stretching for miles, the large naval force base, shipyard, shipyard, something enclosed within its own walls at the entrance sort of entrance to the city."
+        },
+        {
+          "startUid": "u2507",
+          "endUid": "u2512",
+          "quote": "DM: And as you pass under this bridge now your turn, you can see on your left on the North bank of the river the slums and the the greenish water that flows, the outflow of these mines. It's a clear day. The wind is. The wind is blowing."
+        },
+        {
+          "startUid": "u2516",
+          "endUid": "u2528",
+          "quote": "DM: And as you pull into the docks disembark saying goodbye to the crew and captain of the Emerald Song. Seeing Jasmine and Oswalt as they not planning on spending any time in the city itself—they've decided to head north. See what—see what—where the road takes them."
+        }
+      ],
+      "from": "p17",
+      "to": "p20",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p03",
+      "duration": {
+        "value": 0.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "route": [
+        {
+          "place": "p19",
+          "reading": "Pass under the raised river bridge; no stop on the bridge."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "docked_at",
+          "target": "p20"
+        }
+      ],
+      "note": "Arrival at the docks is clear. No distinct inland visit or release of Baxter is established before the cutoff."
+    }
+  ]
+}
