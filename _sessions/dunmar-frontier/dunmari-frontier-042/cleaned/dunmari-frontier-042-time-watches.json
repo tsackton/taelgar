@@ -1,0 +1,193 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-time-markers.json",
+    "sha256": "8f43bb7dd65089995e971f3b944e742a9de3783208b1ede7da15486df0951bc7"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-transcript.md",
+    "sha256": "7f95def7ea832749d4f77fba67694204bfa7184525ec48df20136a803a6d78e7"
+  },
+  "dateAssessment": "Working calendar: session YAML (1748-07-13–1748-07-18). The transcript independently gives July 13, July 14 morning, and July 16 morning; its third travel day reaches July 18. The year comes from YAML. The time extraction matches the five-boundary span without adding an overnight at the closing inn. Logistics and Rishi’s parallel gift scene are loosely placed within July 14–15. The dated Session 42 record assigns the final handover to July 15 morning; that is the working placement below, not an additional transcript date. No usable opening watch was found in the Session 41 handoff or this opening. The crossroads arrival is before dark in the transcript; the older record calls it evening, so the afternoon watch is approximate. The mirror’s historical frame remains undated.",
+  "watches": [
+    {
+      "day": "Undated mirror history",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The scroll’s past opens in the mirror; internal time jumps are unmeasured.",
+      "markers": [
+        "t01"
+      ],
+      "clock": "local",
+      "scope": "Mirror vision"
+    },
+    {
+      "day": "July 13, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Mirror returns to the room; DM dates the examination July 13, without a clock.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1748-07-13",
+      "endDate": "1748-07-13"
+    },
+    {
+      "day": "July 14, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Next-morning tree visit; Kenzo spends about an hour communing there.",
+      "markers": [
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-07-14",
+      "endDate": "1748-07-14"
+    },
+    {
+      "day": "During July 14–15, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Seeker and Delwath spend a working day shopping; its exact date remains loose.",
+      "markers": [
+        "t06"
+      ],
+      "dateWindow": [
+        "1748-07-14",
+        "1748-07-15"
+      ],
+      "scope": "Seeker and Delwath"
+    },
+    {
+      "day": "July 15, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "The next-morning frame covers final business and Basu’s handover; dated record supplies July 15.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-07-15",
+      "endDate": "1748-07-15"
+    },
+    {
+      "day": "July 16, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "DM states July 16; the party and Johar depart first thing.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-07-16",
+      "endDate": "1748-07-16"
+    },
+    {
+      "day": "July 16, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "First travel day ends after about twenty miles at the first inn.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-07-16",
+      "endDate": "1748-07-16"
+    },
+    {
+      "day": "July 17, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Second travel day ends as the sun sets beside the glowing bridge.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-07-17",
+      "endDate": "1748-07-17"
+    },
+    {
+      "day": "July 18, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Three travel days reach the crossroads; DM places the approach before dark.",
+      "markers": [
+        "t10",
+        "t12"
+      ],
+      "startDate": "1748-07-18",
+      "endDate": "1748-07-18"
+    },
+    {
+      "day": "July 18, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Conversation ends late; the source does not fix dusk versus midnight.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-07-18",
+      "endDate": "1748-07-18"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated session record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 42 (DuFr).md",
+      "sha256": "c2d413b84cc13186edf5437266d3e6b846f15c1a8b690b1fedcc7c610b3efd88"
+    },
+    {
+      "label": "Session 41 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-transcript.md",
+      "sha256": "e2299384a8ef774a746661a1ccc01ca63fbfb9a0c94201427e09c215dc336671"
+    },
+    {
+      "label": "Fraternity provenance",
+      "path": "Groups/Fraternity of the Empty Moon.md",
+      "sha256": "eb4e34bbeed1231f41dcedb27354eeb69fc59a60ec1efebf59cc9986a8b9d847"
+    },
+    {
+      "label": "Scepter provenance",
+      "path": "Things/Artifacts of Power/Scepter of Command.md",
+      "sha256": "13649ecb9ad0efd4f44cdf7f5a92ebc74a8cec1b64237b8d4574f90c5a8f17f3"
+    },
+    {
+      "label": "Alton reference",
+      "path": "People/Halflings/Alton Greenleaf.md",
+      "sha256": "2a8711c3667d1b74ccca9197d8c6e8999a67216f69587d2b0a403c1d782d934d"
+    },
+    {
+      "label": "Lyle reference",
+      "path": "People/Halflings/Lyle Greenleaf.md",
+      "sha256": "0dd82961c55e01b8543a5ca9588d9031ab6c6ca836eccc6fc1d02808f43ca5a3"
+    },
+    {
+      "label": "Greenleaf family reference",
+      "path": "Groups/Halfling Families/Greenleafs.md",
+      "sha256": "e599d18b178a04678db3e98f0de48142be12af6f461819ba9d5400436baa21f7"
+    },
+    {
+      "label": "White-dragon candidate",
+      "path": "People/Other Nonhumans/Iagharaz.md",
+      "sha256": "dca5a5aa68ce3a6a69276f71fcfb5bb076ff6a505c1c4e97e3afbe699d9ff406"
+    },
+    {
+      "label": "Mentor-name comparison",
+      "path": "People/Dunmari/Ardan.md",
+      "sha256": "09eca224c69edbcb8e3507a5d0a6bed7545adc6b51b871635cb6ca7c55e6a676"
+    },
+    {
+      "label": "Marcus comparison",
+      "path": "People/Chardonians/Marcus Tuso.md",
+      "sha256": "100a1973cb829d2310b9e634b8a5afc03f25b5b3745c418a3d5b0da2356f8782"
+    }
+  ]
+}

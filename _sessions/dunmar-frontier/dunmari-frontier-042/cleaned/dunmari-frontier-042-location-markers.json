@@ -1,0 +1,1024 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-042",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-session.yaml",
+    "sessionYamlSha256": "5d6bea642639a29eca01074117251722d1599fb2dbe905bcd352d8fe746c66ea",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-transcript.md",
+    "transcriptSha256": "7f95def7ea832749d4f77fba67694204bfa7184525ec48df20136a803a6d78e7"
+  },
+  "places": {
+    "p01": {
+      "label": "Room used for the mirror examination",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0239",
+          "endUid": "u0239",
+          "quote": "DM: And the mirror returns to reflecting the room around you."
+        }
+      ],
+      "note": "The polished source leaves the room and its building unnamed. Session 42 (DuFr) places the opening business in Tokra, without identifying a room."
+    },
+    "p02": {
+      "label": "Tokra",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0339",
+          "endUid": "u0347",
+          "quote": "DM: Okay, so so you head down let's say the morning of the 14 so the next morning, spending some time you know, some time just kind of dealing with getting ready to go. And this is, you know, about now four or five days after the rain started. And you know, once the monsoon season comes the rains are pretty constant every afternoon there's there's a thunderstorm basically and and as you—so this giant tree is maybe 200 ish feet tall something like that it's nearly the tallest thing in Tokra and the only thing that's taller is the Dome of the temple. And as you know, as you approach it you can see—"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    },
+    "p03": {
+      "label": "Giant tree and its plaza",
+      "kind": "landmark",
+      "evidence": [
+        {
+          "startUid": "u0355",
+          "endUid": "u0360",
+          "quote": "DM: Ah, so, but you can see, like little hints of green starting to appear from the top, and although at the base of the tree like you can feel the bark so that you know, the diameter is is quite wide it's it's probably I don't know 20 feet around or something 20 feet across. And it sort of in the middle of it there's like a plaza around it right there's no buildings that are particularly close to the tree ah, and you can the the bark like I don't know if you call it bark, right or something that the feeling of the of the skin at the bottom feels just like stone—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0339",
+              "endUid": "u0347",
+              "quote": "DM: Okay, so so you head down let's say the morning of the 14 so the next morning, spending some time you know, some time just kind of dealing with getting ready to go. And this is, you know, about now four or five days after the rain started. And you know, once the monsoon season comes the rains are pretty constant every afternoon there's there's a thunderstorm basically and and as you—so this giant tree is maybe 200 ish feet tall something like that it's nearly the tallest thing in Tokra and the only thing that's taller is the Dome of the temple. And as you know, as you approach it you can see—"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Crown of the giant tree",
+      "kind": "tree crown",
+      "evidence": [
+        {
+          "startUid": "u0409",
+          "endUid": "u0411",
+          "quote": "DM: So you can see up here now it's very clear that there's all these like little leaves beginning to bud out right, so all along the top branches of the tree there's. Tons of little little buds like little leaf buds that are beginning to unfurl and in the smell of sort of wet earth is very strong up here like that smell of like—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0402",
+              "endUid": "u0411",
+              "quote": "DM: It's not an easy it's not an easy climb, and I know at one point as you're towards sort of close to the top it's just it's difficult and you lose your grip—the, you know, especially at the top it's almost at the bark is starting to is almost at this transition point where sort of the stone becomes almost slippery and muddy. You just slip and lose your grip and there's like this gasp from the sort of crowd below they see this person falling 100 feet, but he just kind of you know, hold out your hand and kind of like slow your fall off of the off of the bark of the tree and land just on your feet. And kind of look around like nothing really seemed to happen and then try again. And eventually make it to the top."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Lakan monastery",
+      "kind": "monastery",
+      "evidence": [
+        {
+          "startUid": "u1000",
+          "endUid": "u1001",
+          "quote": "Kenzo: Actually no, the monk’s journal I'll keep with me because that's also like a there aren't really like Mystai of Bhishma anywhere why, because this is actually the Lakan monastery it's not like, there is no the Order of Bhishma has basically like you know, me and Drikod and—"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "note": "The monastery named at u1000–u1001 identifies the earlier monastery scene. The vault places it on a hill south of Tokra; that orientation is not a transcript-established containment relation."
+    },
+    "p06": {
+      "label": "Rishi’s chambers",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0903",
+          "endUid": "u0909",
+          "quote": "DM: So, in the meantime Kenzo well, you are back in the monastery waiting for them to kind of sort out all of this out of this shopping and things. I'm—your old teacher Rishi pulls you aside for a moment. And he's got this something wrapped up in a like a long item that's wrapped up in cloth and he says come here Kenzo he's sort of sitting he's sitting in his his chambers and invites you in he's been praying and he stands up and he says—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0903",
+              "endUid": "u0909",
+              "quote": "DM: So, in the meantime Kenzo well, you are back in the monastery waiting for them to kind of sort out all of this out of this shopping and things. I'm—your old teacher Rishi pulls you aside for a moment. And he's got this something wrapped up in a like a long item that's wrapped up in cloth and he says come here Kenzo he's sort of sitting he's sitting in his his chambers and invites you in he's been praying and he stands up and he says—"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Western gates of Tokra",
+      "kind": "gate",
+      "evidence": [
+        {
+          "startUid": "u1207",
+          "endUid": "u1211",
+          "quote": "DM: Ah, July, the morning of July 16 you meet Riswynn and Johar at the Western gates of Tokra as you prepare to leave. The you leave first thing in the morning the ground still wet from the rains the evening before the day before."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1207",
+              "endUid": "u1211",
+              "quote": "DM: Ah, July, the morning of July 16 you meet Riswynn and Johar at the Western gates of Tokra as you prepare to leave. The you leave first thing in the morning the ground still wet from the rains the evening before the day before."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Old Drankorian trade road",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u1212",
+          "endUid": "u1215",
+          "quote": "DM: But the road itself that runs west this old Drankorian road is is paved and smooth and concrete. It seems to be maintained in such a way that the water runs off of that, and you can see, like rivulets flowing along the side, but this wide road leading west provides clear safe travel. And—"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Roads/Stoneway.md",
+      "note": "Stoneway identity verified against Stoneway and the dated Session 42 (DuFr) itinerary. The session calls Songara “Sungar”; that does not change its narrated route."
+    },
+    "p10": {
+      "label": "First roadside inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u1291",
+          "endUid": "u1302",
+          "quote": "DM: Yeah so that the first the first one you come to and I and all of these have a similar layout to Ikram's inn in Karawa just all usually bigger because it's. Like there's often like almost a little village around them right so it's like usually a big courtyard that has space for for wagons and horses. And then you know, there's a like it like and then there's kitchen, there's rooms, but there's usually a little market some of that there's often like a smith there's something somebody who can repair horseshoes and mend wagons there's often like Woodworkers and things just sort of general—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "along",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1269",
+              "endUid": "u1269",
+              "quote": "DM: About 20 miles your first day coming out of out of the sort of hinterlands of Tokra um you can see out ahead of you on the road on this, and now that the general way these work is you can either spend—"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Second roadside inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u1348",
+          "endUid": "u1350",
+          "quote": "DM: Not much else not not much different that you hear in the second night, so another two gold there, but I'm notable here, as you approach as you come as the rains begin to stop at the end of your second day of travel—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "along",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1393",
+              "endUid": "u1394",
+              "quote": "Seeker: Are we, in the middle of nowhere kind of other other ancient stone structures around or was there a city?"
+            },
+            {
+              "startUid": "u1394",
+              "endUid": "u1394",
+              "quote": "DM: Well, I mean, there's the road you're traveling—"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Glowing Drankorian bridge",
+      "kind": "bridge",
+      "evidence": [
+        {
+          "startUid": "u1351",
+          "endUid": "u1352",
+          "quote": "DM: There is a bridge over what is normally a dry wash but is now beginning to run with water. And it's a it's made of a single smooth piece of stone no seams no joins and it makes one soaring arch that goes over this wash like a few little arches that lead up to it, but the central part is just this one soaring arch."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1354",
+              "endUid": "u1356",
+              "quote": "DM: No statues or decorations but the stone itself seems to almost glow and as the sun sets as you approach the the inn for the evening, you can see that the stone is casting back some of the light of the sun casting a glow on the water beneath it, casting a glow on the on the inn. Clearly old—"
+            }
+          ]
+        },
+        {
+          "relation": "along",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1393",
+              "endUid": "u1394",
+              "quote": "Seeker: Are we, in the middle of nowhere kind of other other ancient stone structures around or was there a city?"
+            },
+            {
+              "startUid": "u1394",
+              "endUid": "u1394",
+              "quote": "DM: Well, I mean, there's the road you're traveling—"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Crossroads inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u1419",
+          "endUid": "u1420",
+          "quote": "DM: And the third day of travel now you come to um this is the crossroads inn basically so again almost this is this is actually even bigger than the other two um—"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Melavan Caravanserai.md",
+      "note": "Verified as Melavan Caravanserai by Session 42 (DuFr), Alton Greenleaf and Lyle Greenleaf; its authored name remains tentative in the place note. The transcript uses only crossroads inn.",
+      "relations": [
+        {
+          "relation": "along",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1424",
+              "endUid": "u1429",
+              "quote": "DM: I mean, this map isn't really quite detailed enough for any of this to show up but you've been traveling along this road for like where's the ruler? You know, so—"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Common room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1439",
+          "endUid": "u1446",
+          "quote": "DM: And this inn has a has a sort of a more diverse group staying in it. You see a couple of other halflings sitting. There is there's a couple of traveling musicians playing so, as you sit in the common room there's music. There's a few there's you know, more non Dunmari as well there's you know, a—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1430",
+              "endUid": "u1446",
+              "quote": "DM: So this third inn the sort of crossroads inn is so you can you know, a few things of note, as you approach again not not really dark when you approach, even though you've potentially you know, maybe you've been resting for a bit during the height of the rainstorm every afternoon ah, the—"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Guest rooms",
+      "kind": "rooms",
+      "evidence": [
+        {
+          "startUid": "u2301",
+          "endUid": "u2301",
+          "quote": "DM: And you head for your rooms, as it is getting late now."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2301",
+              "endUid": "u2301",
+              "quote": "DM: And you head for your rooms, as it is getting late now."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Dark extraplanar crevasse and path",
+      "kind": "landscape",
+      "evidence": [
+        {
+          "startUid": "u0227",
+          "endUid": "u0238",
+          "quote": "DM: That your sense of time passing in the image seems to jump and you can't quite tell how long it's taking for them to walk there will be a moment when they don't seem to—the scene doesn’t seem to be changing at all, and then it will skip and jump to some other some other view and they seem to be descending into like a crevasse like this is not a cliff with open sky, on the other side but they're they're descending deep into some crack. And then as they—"
+        }
+      ],
+      "note": "The table favors an extraplanar location and notes that howling wind fits Pandemonium (u0274–u0295), but does not confirm the plane. No definite Pandemonium containment or vault match is asserted."
+    },
+    "p17": {
+      "label": "Tower at the cliff top",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0198",
+          "endUid": "u0208",
+          "quote": "DM: And you watch as this, this figure continues to struggle up the path, and your view, follows behind this figure as it seems to climb higher and higher until you see it occasionally sort of almost through a break in the darkness, or the mist and or the dimness that's blowing around you the glint of what looks like a tower standing at the top of this sort of cliff face that this figure is climbing up."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0227",
+              "endUid": "u0230",
+              "quote": "DM: That your sense of time passing in the image seems to jump and you can't quite tell how long it's taking for them to walk there will be a moment when they don't seem to—the scene doesn’t seem to be changing at all, and then it will skip and jump to some other some other view and they seem to be descending into like a crevasse like this is not a cliff with open sky, on the other side but they're they're descending deep into some crack. And then as they—"
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Shimmering portal at the bottom of the crevasse",
+      "kind": "portal",
+      "evidence": [
+        {
+          "startUid": "u0231",
+          "endUid": "u0238",
+          "quote": "DM: Sort of come to the bottom of this switch back trail that cuts down this this crevasse there's a just complete darkness now, except for a faint glow seemingly down this narrow trail at the bottom of this deep crack maybe five feet wide and almost sheer walls standing up but there's a light some hundreds of feet in the distance and this figure walks towards the light."
+        },
+        {
+          "startUid": "u0234",
+          "endUid": "u0238",
+          "quote": "DM: And as they get closer to the light, you can see that, like every part of them it's just coated in dust like gray dust. Like the cloak is now just caked in this dust the the gleam of the brief gleam of metal you saw before is gone, everything is just dust and as they reach the this light, you can see, almost it, it looks like like a mirror like a shimmering surface almost like a pool of mercury that's reflecting back their face. Um which you can't see of course because of the shadows and they step forward into this pool and vanish."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0231",
+              "endUid": "u0238",
+              "quote": "DM: Sort of come to the bottom of this switch back trail that cuts down this this crevasse there's a just complete darkness now, except for a faint glow seemingly down this narrow trail at the bottom of this deep crack maybe five feet wide and almost sheer walls standing up but there's a light some hundreds of feet in the distance and this figure walks towards the light."
+            },
+            {
+              "startUid": "u0234",
+              "endUid": "u0238",
+              "quote": "DM: And as they get closer to the light, you can see that, like every part of them it's just coated in dust like gray dust. Like the cloak is now just caked in this dust the the gleam of the brief gleam of metal you saw before is gone, everything is just dust and as they reach the this light, you can see, almost it, it looks like like a mirror like a shimmering surface almost like a pool of mercury that's reflecting back their face. Um which you can't see of course because of the shadows and they step forward into this pool and vanish."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Darba",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u1665",
+          "endUid": "u1671",
+          "quote": "DM: Fair enough. West or north? West perhaps will be companions on the road you're heading west? I’m heading north. Indeed."
+        },
+        {
+          "startUid": "u1669",
+          "endUid": "u1669",
+          "quote": "Wellby: Is it faster than to go overland rather than to Darba and by boat?"
+        },
+        {
+          "startUid": "u1670",
+          "endUid": "u1671",
+          "quote": "DM: Depends on the time of year it's probably faster to go to Darba this time but we had some business in Sungar to finish up."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/Darba.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0130",
+        "endUid": "u0133"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group conducts the scroll examination in an unnamed room.",
+      "evidence": [
+        {
+          "startUid": "u0130",
+          "endUid": "u0133",
+          "quote": "Seeker: I flip it around so that it's facing the written part is facing the mirror and now we're going to ask it. Oh, we decided that the question is going to be what, what are we asking the mirror?"
+        },
+        {
+          "startUid": "u0174",
+          "endUid": "u0178",
+          "quote": "DM: [garbled] as Kenzo holds up the scroll here, um. The image in the mirror the reflection of the of the scroll begins to fade. And the mirror turns dark."
+        },
+        {
+          "startUid": "u0239",
+          "endUid": "u0239",
+          "quote": "DM: And the mirror returns to reflecting the room around you."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0174",
+        "endUid": "u0178"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Through the mirror, the group watches a hooded figure reach a tower on a dark cliff path.",
+      "evidence": [
+        {
+          "startUid": "u0174",
+          "endUid": "u0181",
+          "quote": "DM: [garbled] as Kenzo holds up the scroll here, um. The image in the mirror the reflection of the of the scroll begins to fade. And the mirror turns dark."
+        },
+        {
+          "startUid": "u0198",
+          "endUid": "u0208",
+          "quote": "DM: And you watch as this, this figure continues to struggle up the path, and your view, follows behind this figure as it seems to climb higher and higher until you see it occasionally sort of almost through a break in the darkness, or the mist and or the dimness that's blowing around you the glint of what looks like a tower standing at the top of this sort of cliff face that this figure is climbing up."
+        },
+        {
+          "startUid": "u0213",
+          "endUid": "u0226",
+          "quote": "DM: The door slides open. And the figure um in the cloak and breastplate and gauntlets sort of bows their head and hold out—pulls from a sack that was on their on their on their waist sort of around the cloak a head. Just a severed head. Humanoid again, but you can't see any features and hands it to this figure in the cloak."
+        }
+      ],
+      "place": "p17",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Hooded armored traveler",
+        "Figure inside the tower"
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0227",
+        "endUid": "u0238"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The mirror follows the traveler down the crevasse to a shimmering portal; the traveler vanishes through it.",
+      "evidence": [
+        {
+          "startUid": "u0227",
+          "endUid": "u0230",
+          "quote": "DM: That your sense of time passing in the image seems to jump and you can't quite tell how long it's taking for them to walk there will be a moment when they don't seem to—the scene doesn’t seem to be changing at all, and then it will skip and jump to some other some other view and they seem to be descending into like a crevasse like this is not a cliff with open sky, on the other side but they're they're descending deep into some crack. And then as they—"
+        },
+        {
+          "startUid": "u0231",
+          "endUid": "u0238",
+          "quote": "DM: Sort of come to the bottom of this switch back trail that cuts down this this crevasse there's a just complete darkness now, except for a faint glow seemingly down this narrow trail at the bottom of this deep crack maybe five feet wide and almost sheer walls standing up but there's a light some hundreds of feet in the distance and this figure walks towards the light."
+        },
+        {
+          "startUid": "u0234",
+          "endUid": "u0238",
+          "quote": "DM: And as they get closer to the light, you can see that, like every part of them it's just coated in dust like gray dust. Like the cloak is now just caked in this dust the the gleam of the brief gleam of metal you saw before is gone, everything is just dust and as they reach the this light, you can see, almost it, it looks like like a mirror like a shimmering surface almost like a pool of mercury that's reflecting back their face. Um which you can't see of course because of the shadows and they step forward into this pool and vanish."
+        }
+      ],
+      "place": "p18",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Hooded armored traveler"
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0339",
+        "endUid": "u0347"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The tree-visiting group reaches the plaza around the giant tree in Tokra.",
+      "evidence": [
+        {
+          "startUid": "u0339",
+          "endUid": "u0347",
+          "quote": "DM: Okay, so so you head down let's say the morning of the 14 so the next morning, spending some time you know, some time just kind of dealing with getting ready to go. And this is, you know, about now four or five days after the rain started. And you know, once the monsoon season comes the rains are pretty constant every afternoon there's there's a thunderstorm basically and and as you—so this giant tree is maybe 200 ish feet tall something like that it's nearly the tallest thing in Tokra and the only thing that's taller is the Dome of the temple. And as you know, as you approach it you can see—"
+        },
+        {
+          "startUid": "u0355",
+          "endUid": "u0371",
+          "quote": "DM: Ah, so, but you can see, like little hints of green starting to appear from the top, and although at the base of the tree like you can feel the bark so that you know, the diameter is is quite wide it's it's probably I don't know 20 feet around or something 20 feet across. And it sort of in the middle of it there's like a plaza around it right there's no buildings that are particularly close to the tree ah, and you can the the bark like I don't know if you call it bark, right or something that the feeling of the of the skin at the bottom feels just like stone—"
+        },
+        {
+          "startUid": "u0368",
+          "endUid": "u0371",
+          "quote": "DM: So you're you're all sort of standing around just kind of looking up at it, you know, there's people coming through right, so this is a fairly, especially now that the rains have started right, you know, the people are wandering past checking on the tree the tree. Things like that."
+        }
+      ],
+      "from": null,
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0390",
+        "endUid": "u0390"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby uses the Raven whistle to reach the top of the tree and perches on a branch over the city.",
+      "evidence": [
+        {
+          "startUid": "u0390",
+          "endUid": "u0390",
+          "quote": "Wellby: In that case, I'll use the Raven whistle and flit to the top, wait for Kenzo."
+        },
+        {
+          "startUid": "u0529",
+          "endUid": "u0529",
+          "quote": "Wellby: So, in the meantime, Wellby has perched himself far out on some limb Overhanging the city and is sketching the city from above, to try and get a good up to date map of it."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "Raven whistle"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0392",
+        "endUid": "u0408"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo climbs the tree, slips and lands unharmed, then tries again and reaches the top.",
+      "evidence": [
+        {
+          "startUid": "u0392",
+          "endUid": "u0395",
+          "quote": "DM: So so Kenzo it's it's slow going, because this is not, this is not an easy climb not going to make you roll, because with your monk ability, even if you fall you're unlikely to take any damage, unless you fall all the way at the top so maybe I'll make you roll once. Somebody want to roll a d20 for Kenzo? Who do you trust, Kong?"
+        },
+        {
+          "startUid": "u0402",
+          "endUid": "u0408",
+          "quote": "DM: It's not an easy it's not an easy climb, and I know at one point as you're towards sort of close to the top it's just it's difficult and you lose your grip—the, you know, especially at the top it's almost at the bark is starting to is almost at this transition point where sort of the stone becomes almost slippery and muddy. You just slip and lose your grip and there's like this gasp from the sort of crowd below they see this person falling 100 feet, but he just kind of you know, hold out your hand and kind of like slow your fall off of the off of the bark of the tree and land just on your feet. And kind of look around like nothing really seemed to happen and then try again. And eventually make it to the top."
+        },
+        {
+          "startUid": "u0532",
+          "endUid": "u0539",
+          "quote": "DM: Kenzo while you're you know, at the top of this tree kind of um communing with it, you, you can You can feel it. It's not doesn't give you a branch or anything like that, but you can feel the—you can sort of feel it awake right, you can feel the sap starting to flow, you can feel almost feel the buds beginning to open. The the roots coming awake um reaching out in the distance for water and nutrients that beginning to flow up into the into the branches and into the leaves as they begin to bud."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u0863",
+        "endUid": "u0867"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "Seeker and Delwath travel around Tokra buying supplies and selling treasure.",
+      "evidence": [
+        {
+          "startUid": "u0863",
+          "endUid": "u0867",
+          "quote": "DM: Okay, so Seeker and Delwath spend a day actually, I guess, many most of you spend the day sort of traveling around and buying stuff selling stuff you got about 290 gold for all of these items that you're selling. Take away 80 for—"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0903",
+        "endUid": "u0909"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "While the others handle shopping, Kenzo joins Rishi in his monastery chambers to receive the branch.",
+      "evidence": [
+        {
+          "startUid": "u0903",
+          "endUid": "u0909",
+          "quote": "DM: So, in the meantime Kenzo well, you are back in the monastery waiting for them to kind of sort out all of this out of this shopping and things. I'm—your old teacher Rishi pulls you aside for a moment. And he's got this something wrapped up in a like a long item that's wrapped up in cloth and he says come here Kenzo he's sort of sitting he's sitting in his his chambers and invites you in he's been praying and he stands up and he says—"
+        },
+        {
+          "startUid": "u0910",
+          "endUid": "u0918",
+          "quote": "DM: I have a gift I've been waiting to give you, for some time. I've never seen I've never trained anyone who had such promise as you. And I think you deserve this. And he unwrapped it and it's it's a branch like maybe seven feet long. And he hands it to you and he says and you can tell immediately as soon as you touch it that's from the tree—"
+        },
+        {
+          "startUid": "u0935",
+          "endUid": "u0938",
+          "quote": "Kenzo: Kenzo, Kenzo bows deeply and receives the branch, and you know, for a moment kind of reaches into his his own kind of solid presence and then connects to the life within the branch itself and um you know, says I don't know what to say this is, this is an amazing gifts, we spent the morning with the tree earlier and I could feel its presence, as I do now within this branch. How do I learn how to fashion?"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1007",
+        "endUid": "u1035"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath obtains an appraisal of the two paintings in Tokra; the source names no specific shop.",
+      "evidence": [
+        {
+          "startUid": "u1007",
+          "endUid": "u1018",
+          "quote": "Delwath: Is there an art market here?"
+        },
+        {
+          "startUid": "u1021",
+          "endUid": "u1035",
+          "quote": "DM: These are the sorts of things that if you find somebody who really like who collects Drankorian art these would be extremely valuable because there is very little new Drankorian art that gets uncovered. They are not done by particularly a particularly notable or famous painter so they're not something that there's an immediate market, for he would he would. You know, the art dealer or the sort of you know, guy you're talking to you know, would—"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1039",
+        "endUid": "u1040"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Basu hands the portable hole to the party before departure; its precise handover room is not stated.",
+      "evidence": [
+        {
+          "startUid": "u1039",
+          "endUid": "u1040",
+          "quote": "DM: So before you go Basu hands you the hole and lectures you strongly the four things you never do. Open extra dimensional portals inside extradimensional portals."
+        },
+        {
+          "startUid": "u1197",
+          "endUid": "u1197",
+          "quote": "DM: He turns it over reluctantly handing it to Kenzo."
+        }
+      ],
+      "place": "p05",
+      "note": "Lakan monastery setting inferred from the ongoing predeparture monastery business and Basu’s verified role; no particular workshop or room is asserted."
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u1207",
+        "endUid": "u1211"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "The party meets Riswynn and Johar at Tokra’s western gates before leaving.",
+      "evidence": [
+        {
+          "startUid": "u1207",
+          "endUid": "u1211",
+          "quote": "DM: Ah, July, the morning of July 16 you meet Riswynn and Johar at the Western gates of Tokra as you prepare to leave. The you leave first thing in the morning the ground still wet from the rains the evening before the day before."
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1212",
+        "endUid": "u1215"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "The group leaves Tokra westward on the paved trade road and stays at the first roadside inn after about twenty miles.",
+      "evidence": [
+        {
+          "startUid": "u1207",
+          "endUid": "u1215",
+          "quote": "DM: Ah, July, the morning of July 16 you meet Riswynn and Johar at the Western gates of Tokra as you prepare to leave. The you leave first thing in the morning the ground still wet from the rains the evening before the day before."
+        },
+        {
+          "startUid": "u1269",
+          "endUid": "u1269",
+          "quote": "DM: About 20 miles your first day coming out of out of the sort of hinterlands of Tokra um you can see out ahead of you on the road on this, and now that the general way these work is you can either spend—"
+        },
+        {
+          "startUid": "u1296",
+          "endUid": "u1302",
+          "quote": "DM: Artisans you can sort of keep trade caravans maintained as they pass through, and the first one you come to the first night is actually pretty crowded there's usually a lot of traffic on the roads. Around the monsoon and so you know, people who had been waiting for better weather to travel. I mean, when it's super dry right there's there's no water for animals, like the grass is all dead it's much harder for people to just kind of travel. The first one, you know, mostly mostly Dunmari I'll say make a charisma investigation check for, you know, rumor gathering anybody anybody who wants to make a charisma check and then add your proficiency if you're proficient in investigation."
+        },
+        {
+          "startUid": "u1309",
+          "endUid": "u1313",
+          "quote": "DM: So you know, sitting around the first inn so it's a relatively small amount of money, but somebody should take off like two gold for food and lodging. As you're sitting around there's a lot of a lot of Dunmari here at this first inn and—"
+        },
+        {
+          "startUid": "u1434",
+          "endUid": "u1438",
+          "quote": "DM: But the the road that Darba road that branches west from here is like more of a marked track in the plains than like a nice wide paved road where you know, two wagons can crop can pass each other abreast you know, it's muddy it's sort of ruts wagon ruts shouldn't be too bad just on your horses and it's but you know, probably not a lot of wagon trains pass through right at the start of the monsoon season here if you had a you know, a train of several carts of wagons you’d probably go the long way during the the worst of the monsoons um—"
+        }
+      ],
+      "from": "p08",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "mounted travel",
+      "route": [
+        {
+          "reading": "Follow the paved old Drankorian road west through Tokra’s populated hinterland.",
+          "place": "p09"
+        }
+      ],
+      "distance": {
+        "value": 20,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM gives about twenty miles for the first day."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "First travel day, not a measured 24 hours."
+      }
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1331",
+        "endUid": "u1336"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "The group continues along the trade road and spends the second night at an inn beside the glowing bridge.",
+      "evidence": [
+        {
+          "startUid": "u1331",
+          "endUid": "u1336",
+          "quote": "DM: You settle into a routine over the course of you know, the next couple of days so it's about three days to the turning point where you go where the west road the Darba road turns off the old trade road. The travelers are less and, if you want to stop and talk to anybody again like feel free to interrupt other travelers as you as you leave the first inn—"
+        },
+        {
+          "startUid": "u1348",
+          "endUid": "u1356",
+          "quote": "DM: Not much else not not much different that you hear in the second night, so another two gold there, but I'm notable here, as you approach as you come as the rains begin to stop at the end of your second day of travel—"
+        },
+        {
+          "startUid": "u1397",
+          "endUid": "u1397",
+          "quote": "DM: I mean, you know, you can sort of pick up details from from the innkeeper here right—"
+        },
+        {
+          "startUid": "u1434",
+          "endUid": "u1438",
+          "quote": "DM: But the the road that Darba road that branches west from here is like more of a marked track in the plains than like a nice wide paved road where you know, two wagons can crop can pass each other abreast you know, it's muddy it's sort of ruts wagon ruts shouldn't be too bad just on your horses and it's but you know, probably not a lot of wagon trains pass through right at the start of the monsoon season here if you had a you know, a train of several carts of wagons you’d probably go the long way during the the worst of the monsoons um—"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "mounted travel",
+      "route": [
+        {
+          "reading": "Continue along the trade road; approach a glowing stone bridge near the second inn.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1357",
+        "endUid": "u1360"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "Seeker investigates the glowing bridge and Delwath examines its magic.",
+      "evidence": [
+        {
+          "startUid": "u1357",
+          "endUid": "u1373",
+          "quote": "Seeker: I investigate what is going on with this thing, how is this done?"
+        },
+        {
+          "startUid": "u1385",
+          "endUid": "u1387",
+          "quote": "Seeker: There any noticeable like warmth touching it?"
+        }
+      ],
+      "place": "p12"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1419",
+        "endUid": "u1420"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "On the third day the group reaches the crossroads inn, about fifty miles along the road from Tokra.",
+      "evidence": [
+        {
+          "startUid": "u1419",
+          "endUid": "u1429",
+          "quote": "DM: And the third day of travel now you come to um this is the crossroads inn basically so again almost this is this is actually even bigger than the other two um—"
+        },
+        {
+          "startUid": "u1439",
+          "endUid": "u1459",
+          "quote": "DM: And this inn has a has a sort of a more diverse group staying in it. You see a couple of other halflings sitting. There is there's a couple of traveling musicians playing so, as you sit in the common room there's music. There's a few there's you know, more non Dunmari as well there's you know, a—"
+        },
+        {
+          "startUid": "u1457",
+          "endUid": "u1457",
+          "quote": "Seeker: And we have Johar with us too right?"
+        },
+        {
+          "startUid": "u1459",
+          "endUid": "u1459",
+          "quote": "DM: So there's six of you."
+        },
+        {
+          "startUid": "u1434",
+          "endUid": "u1438",
+          "quote": "DM: But the the road that Darba road that branches west from here is like more of a marked track in the plains than like a nice wide paved road where you know, two wagons can crop can pass each other abreast you know, it's muddy it's sort of ruts wagon ruts shouldn't be too bad just on your horses and it's but you know, probably not a lot of wagon trains pass through right at the start of the monsoon season here if you had a you know, a train of several carts of wagons you’d probably go the long way during the the worst of the monsoons um—"
+        }
+      ],
+      "from": "p11",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "mounted travel",
+      "route": [
+        {
+          "reading": "Continue on the paved trade road to its junction with the muddy Darba track.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u1439",
+        "endUid": "u1446"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "The group sits in the crossroads inn’s common room, where Wellby meets the Greenleaf brothers and Marcella joins the table.",
+      "evidence": [
+        {
+          "startUid": "u1439",
+          "endUid": "u1459",
+          "quote": "DM: And this inn has a has a sort of a more diverse group staying in it. You see a couple of other halflings sitting. There is there's a couple of traveling musicians playing so, as you sit in the common room there's music. There's a few there's you know, more non Dunmari as well there's you know, a—"
+        },
+        {
+          "startUid": "u1466",
+          "endUid": "u1471",
+          "quote": "DM: This is a Greenleaf clan sitting in the inn right now are Alton and Lyle two brothers. They they're happy quite happy to see you they you know, smile and sort of wave as soon as they see another halfling come in and like smile and wave you over."
+        },
+        {
+          "startUid": "u1654",
+          "endUid": "u1659",
+          "quote": "DM: She walked over and she gives a little bit of a flourish and kind of bows and she approaches you. Marcella you must be she looks, she’s looking at sort of between Kenzo and Johar like uncertain as to which one and she looks at Johar and says, \"Kenzo\" and then looks to Seeker and says, \"Seeker\" and looks at Wellby and says, \"Wellby\" and then turns Kenzo and Riswynn and says, I don't believe I know, two of you."
+        },
+        {
+          "startUid": "u1457",
+          "endUid": "u1457",
+          "quote": "Seeker: And we have Johar with us too right?"
+        },
+        {
+          "startUid": "u1459",
+          "endUid": "u1459",
+          "quote": "DM: So there's six of you."
+        }
+      ],
+      "place": "p14"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1665",
+        "endUid": "u1668"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "The party intends to take the Darba road after the crossroads stop; departure on that track is not played in this session.",
+      "evidence": [
+        {
+          "startUid": "u1665",
+          "endUid": "u1671",
+          "quote": "DM: Fair enough. West or north? West perhaps will be companions on the road you're heading west? I’m heading north. Indeed."
+        },
+        {
+          "startUid": "u2093",
+          "endUid": "u2096",
+          "quote": "Delwath: We are we are heading that way, I think—"
+        },
+        {
+          "startUid": "u2094",
+          "endUid": "u2096",
+          "quote": "DM: Oh yeah so so your halfling friend said towards Darba west and heard the road is dangerous I discount these stories of a dragon but there's definitely bandits and—"
+        }
+      ],
+      "from": "p13",
+      "to": "p19",
+      "completion": "planned",
+      "context": "planned"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2301",
+        "endUid": "u2301"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "The party heads to its rooms after the common-room conversation; Johar joins the subsequent discussion.",
+      "evidence": [
+        {
+          "startUid": "u2301",
+          "endUid": "u2301",
+          "quote": "DM: And you head for your rooms, as it is getting late now."
+        },
+        {
+          "startUid": "u2397",
+          "endUid": "u2400",
+          "quote": "DM: Johar chimes in: \"Don't know much about this conversation, but I will say, you know, that mention that there's been rumors for years that Karnas has made some deal with the Chardonians.\""
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived"
+    }
+  ]
+}
