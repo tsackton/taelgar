@@ -1,0 +1,353 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-045",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-session.yaml",
+    "sessionYamlSha256": "59b2b90f92eb7c97bc9278997420394282dec81fcfa9f7395e938e97d9fd87ba",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-transcript.md",
+    "transcriptSha256": "3a87bce054ff6b78c4cb4408465dec1ecb59fda824d6b1764e06ff5148cbc5e8",
+    "yamlDates": {
+      "start": "1748-07-23",
+      "end": "1748-08-08"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0035",
+        "endUid": "u0038"
+      },
+      "reading": "The recon group spends about half an hour entering the burning temple, searching and getting out.",
+      "evidence": [
+        {
+          "startUid": "u0035",
+          "endUid": "u0038",
+          "quote": "So that takes you maybe half an hour to get into the temple, find all that stuff and get out."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM estimates actual completed search and exit"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0602",
+        "endUid": "u0610"
+      },
+      "reading": "The recon group is back from town at about two in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0539",
+          "endUid": "u0539",
+          "quote": "All right, then we go and rejoin our companions yeah."
+        },
+        {
+          "startUid": "u0540",
+          "endUid": "u0540",
+          "quote": "We'll take the Turquoise we'll rejoin our companions."
+        },
+        {
+          "startUid": "u0541",
+          "endUid": "u0542",
+          "quote": "Way, we have a story to tell you guys. Guess what's inside the mirror now? We added a poison troll."
+        },
+        {
+          "startUid": "u0602",
+          "endUid": "u0610",
+          "quote": "given it's already like two in the afternoon by the time you get back from the town."
+        }
+      ],
+      "time": {
+        "clock": "14:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM explicitly dates the return to about two in the afternoon"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0602",
+        "endUid": "u0610"
+      },
+      "reading": "The party spends the rest of that day resting and exploring, with at most a few hours of travel away from town.",
+      "evidence": [
+        {
+          "startUid": "u0602",
+          "endUid": "u0610",
+          "quote": "you basically spend the rest of the day, just, you maybe you maybe you get a little bit away from the town before camping, but effectively you're going to spend this this this day kind of just as a rest, explore day, and not try to push super far"
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t02"
+        },
+        "precision": "approximate",
+        "basis": "Accepted narration of the remainder of the return day"
+      },
+      "completion": "completed",
+      "note": "This is a narrated rest/explore day, not an explicit mechanical short or long rest."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0602",
+        "endUid": "u0610"
+      },
+      "reading": "After the return day, two days of westward travel bring the party to the stockaded waystation near sunset.",
+      "evidence": [
+        {
+          "startUid": "u0602",
+          "endUid": "u0610",
+          "quote": "it takes you another two days of travel across the plains"
+        },
+        {
+          "startUid": "u0602",
+          "endUid": "u0610",
+          "quote": "after the next two days of travel, as evening begins to—the sun begins to sink"
+        },
+        {
+          "startUid": "u0618",
+          "endUid": "u0629",
+          "quote": "as as the sun begins to approach sunset"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "DM narrates two completed travel days"
+      },
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM dates approach and entry to the waystation near sunset"
+      },
+      "completion": "completed",
+      "note": "Two travel days are explicit; the preceding remainder of the return day is recorded separately as t03."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0956",
+        "endUid": "u0958"
+      },
+      "reading": "Seeker’s diamond appraisal is resolved retrospectively as a morning activity on the road.",
+      "evidence": [
+        {
+          "startUid": "u0956",
+          "endUid": "u0957",
+          "quote": "I mean, let's look let's say we spend the morning sometime yeah with it to appraise it."
+        },
+        {
+          "startUid": "u0958",
+          "endUid": "u0958",
+          "quote": "Good we did that on the road."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Players place the appraisal in a morning on the road; its specific day is not stated"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1030",
+        "endUid": "u1038"
+      },
+      "reading": "The diamond examination opens a historical vision, moving from the gemcutter forward through its ownership history.",
+      "evidence": [
+        {
+          "startUid": "u1024",
+          "endUid": "u1026",
+          "quote": "So you hold the this beautiful cut diamond up to the to the mirror and tell it—ask it again, you know, the same question you've asked you before, you know, whereas—how did Agata come and what's the story of Agata's acquisition of ownership of this thing or something."
+        },
+        {
+          "startUid": "u1027",
+          "endUid": "u1029",
+          "quote": "That is coming into her possession from being in the possession of another person."
+        },
+        {
+          "startUid": "u1030",
+          "endUid": "u1033",
+          "quote": "And the the image fades and the scene turns black for a moment and then you see Agata…"
+        },
+        {
+          "startUid": "u1034",
+          "endUid": "u1034",
+          "quote": "Sitting in her—well, actually, see, it'll go forward in time, right? So you see first, you see a…"
+        },
+        {
+          "startUid": "u1035",
+          "endUid": "u1038",
+          "quote": "You see a series of images that kind of flashed before the mirror. The first one is is a dwarf sitting in in a workshop and you're sort of staring up at this like massively enlarged dwarven eye like through the back of the lens right and."
+        }
+      ],
+      "context": "vision",
+      "note": "The 70–100-year caravan estimate at u1082–u1085 and the 20–50-year Agata exchange at u1144–u1145 date different historical stages, not elapsed adventure time."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1159",
+        "endUid": "u1162"
+      },
+      "reading": "The diamond vision fades and narration resumes the journey toward Darba.",
+      "evidence": [
+        {
+          "startUid": "u1159",
+          "endUid": "u1162",
+          "quote": "There is a feat that lets you read lips somebody could try and learn it. So, then, the scene fades and…"
+        },
+        {
+          "startUid": "u1163",
+          "endUid": "u1165",
+          "quote": "Unless there's anything else you're desperate to do on the road, I think, given as we're approaching midnight here yeah with with the approach to Darba so we can start next session in Darba."
+        },
+        {
+          "startUid": "u1166",
+          "endUid": "u1166",
+          "quote": "Awesome perfect."
+        },
+        {
+          "startUid": "u1167",
+          "endUid": "u1171",
+          "quote": "So after, you know, about 10 days on the road from the inn where you rejoin civilization, as you've approached these increasingly densely populated and civilized areas, I'm— you find yourself on the afternoon of some time in early August—will have the exact date once I calculate out stuff— about approaching the walled city of Darba in the late afternoon as the rains have cleared and the sun has come out behind the clouds."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1167",
+        "endUid": "u1171"
+      },
+      "reading": "About ten days on the road from the inn bring the party to Darba’s approach in the late afternoon of early August.",
+      "evidence": [
+        {
+          "startUid": "u1167",
+          "endUid": "u1171",
+          "quote": "So after, you know, about 10 days on the road from the inn where you rejoin civilization, as you've approached these increasingly densely populated and civilized areas, I'm— you find yourself on the afternoon of some time in early August—will have the exact date once I calculate out stuff— about approaching the walled city of Darba in the late afternoon as the rains have cleared and the sun has come out behind the clouds."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM gives approximate elapsed travel from the inn"
+      },
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "Month and part of day are spoken; year is inherited from session YAML; day remains unstated",
+        "date": {
+          "year": 1748,
+          "month": 8
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1172",
+        "endUid": "u1174"
+      },
+      "reading": "The approaching party has been looking out at the ocean for a few hours.",
+      "evidence": [
+        {
+          "startUid": "u1172",
+          "endUid": "u1174",
+          "quote": "Set on a rocky coastline, perched above the flooded swamps of the Rudhan River, as it at its river mouth, as it flows into the sea. And as you for a few hours now, you've come around sort of over over a rise and have been looking out at the ocean which…"
+        }
+      ],
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM describes actual elapsed coastal approach"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1237",
+        "endUid": "u1249"
+      },
+      "reading": "The session closes at the Darba gates in the evening, with the final narration taking the party through them.",
+      "evidence": [
+        {
+          "startUid": "u1237",
+          "endUid": "u1241",
+          "quote": "And we will end as you approach the gates in the evening in this flow of traffic, I'm— with, you know, you have your letter of introduction to the— and you've learned the administrator, the high priest of Darba, his name Navin."
+        },
+        {
+          "startUid": "u1247",
+          "endUid": "u1249",
+          "quote": "So you have many destinations, and I'll remind you have all this when you play next. So— the— so we'll stop as you step through the gates and decide where to go next."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM explicitly dates the gate approach to evening; this continues the same arrival"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "The transcript states early August at Darba but no absolute day; the year and precise July 23–August 8 span are from YAML. Historical dates in the mirror are separate from the adventure.",
+    "expectedDateBoundaries": 16,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10"
+    ],
+    "explanation": "The registered source begins during the temple search, then establishes the remainder of that day, two travel days to the inn, and about ten more to Darba. Exact overnight boundaries, the specific opening day and the approximation’s extent remain open. This does not verify all sixteen YAML boundaries or establish a contradiction; no missing days are supplied from drEnd."
+  }
+}

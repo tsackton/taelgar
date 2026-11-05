@@ -1,0 +1,1657 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-045",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-session.yaml",
+    "sessionYamlSha256": "59b2b90f92eb7c97bc9278997420394282dec81fcfa9f7395e938e97d9fd87ba",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-transcript.md",
+    "transcriptSha256": "3a87bce054ff6b78c4cb4408465dec1ecb59fda824d6b1764e06ff5148cbc5e8"
+  },
+  "places": {
+    "p01": {
+      "label": "Temple",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0017",
+          "endUid": "u0020",
+          "quote": "Um, so— right, you are searching the temple. And yeah so."
+        },
+        {
+          "startUid": "u0021",
+          "endUid": "u0023",
+          "quote": "So, Wellby, that fire gets too hot and you got to duck out before you find anything. Kenzo, you're fine searching but don't turn up anything. Kenzo, you are sat—Delwath, you do see two bits of shiny metal buried among the ash. One is…"
+        },
+        {
+          "startUid": "u0035",
+          "endUid": "u0038",
+          "quote": "So that takes you maybe half an hour to get into the temple, find all that stuff and get out. Standing kind of looking down with still some time on your invisibility at that, the sort of troll-like creature that's still sort of now—it seems to be doing a slow circle around this big smoldering pile of wyvern's nest and just kind of poking at it occasionally to like pick up you know some weapon or smoldering you know piece of wood or something and kind of toss it aside."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0017",
+              "endUid": "u0020",
+              "quote": "Um, so— right, you are searching the temple. And yeah so."
+            },
+            {
+              "startUid": "u0021",
+              "endUid": "u0023",
+              "quote": "So, Wellby, that fire gets too hot and you got to duck out before you find anything. Kenzo, you're fine searching but don't turn up anything. Kenzo, you are sat—Delwath, you do see two bits of shiny metal buried among the ash. One is…"
+            },
+            {
+              "startUid": "u0529",
+              "endUid": "u0532",
+              "quote": "And that—but the the town itself, other than the than the wyverns' nest, is basically just you know ruin. Hardly even—I mean, there's no other buildings that are even intact, right? These are just—these are just like, like low walls, basically, where you can see the outline of where buildings used to be um, you do notice, you know, this has—a lot of this has been fairly recently smashed. Like, the wyverns have probably been…"
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Ruined town",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0529",
+          "endUid": "u0532",
+          "quote": "And that—but the the town itself, other than the than the wyverns' nest, is basically just you know ruin. Hardly even—I mean, there's no other buildings that are even intact, right? These are just—these are just like, like low walls, basically, where you can see the outline of where buildings used to be um, you do notice, you know, this has—a lot of this has been fairly recently smashed. Like, the wyverns have probably been…"
+        },
+        {
+          "startUid": "u0533",
+          "endUid": "u0533",
+          "quote": "I'm."
+        },
+        {
+          "startUid": "u0534",
+          "endUid": "u0537",
+          "quote": "Not here for long. Right um like the nest seems like it's been fairly recently constructed um but…"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Vandar.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0597",
+              "endUid": "u0601",
+              "quote": "Um, it's a journey of about 12 days, assuming you continue at a relatively normal pace. The first couple days I'm still passing through the the Copper Hills here. It's gonna take you, let's see, one, two."
+            },
+            {
+              "startUid": "u0602",
+              "endUid": "u0610",
+              "quote": "So you—I'm assuming you basically spend the rest of the day, just, you maybe you maybe you get a little bit away from the town before camping, but effectively you're going to spend this this this day kind of just as a rest, explore day, and not try to push super far, given it's already like two in the afternoon by the time you get back from the town. Right so maybe a few hours of travel at most. And then… So it takes you another two days of travel across the plains, sort of cutting cutting a straight path almost due west to reach—to sort of get through the Copper Hills and fight, you know, find yourself now in in the next—after the next two days of travel, as evening begins to—the sun begins to sink, rejoining the sort of rough trade road at a point close to…"
+            }
+          ]
+        }
+      ],
+      "note": "Identified as Vandar by Session 45 (DuFr), which records this same temple search and poison-troll capture; the transcript uses only “town.” The reference note’s pre-fire description is not a claim about its condition now."
+    },
+    "p03": {
+      "label": "Smoldering wyvern’s nest and adjacent slope",
+      "kind": "site",
+      "evidence": [
+        {
+          "startUid": "u0035",
+          "endUid": "u0038",
+          "quote": "So that takes you maybe half an hour to get into the temple, find all that stuff and get out. Standing kind of looking down with still some time on your invisibility at that, the sort of troll-like creature that's still sort of now—it seems to be doing a slow circle around this big smoldering pile of wyvern's nest and just kind of poking at it occasionally to like pick up you know some weapon or smoldering you know piece of wood or something and kind of toss it aside."
+        },
+        {
+          "startUid": "u0039",
+          "endUid": "u0040",
+          "quote": "Kinda seems to be like looking for, where the wyverns are, although you know it doesn't make sense, because the wyverns are quite big and would be super obvious if they were still there."
+        },
+        {
+          "startUid": "u0244",
+          "endUid": "u0245",
+          "quote": "Natural 20. Ah, so, so, as you begin to approach it, when you get maybe about 40 feet away, it stops, stops its poking. You, you know, you're you're heading down this slope towards the towards the ruins of the wyvern nest, and, you know—"
+        },
+        {
+          "startUid": "u0246",
+          "endUid": "u0246",
+          "quote": "Delwath like you know there's some loose rocks and you notice a few loose rocks making a sound rolling rolling down and it looks up like sort of looking around trying to find the source of the sound."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0521",
+              "endUid": "u0527",
+              "quote": "You know, what's not destroyed in the wyvern's nest is mostly, you know, whatever copper coins you didn't take before. The the one thing, Delwath, that you find that seems to have survived the flames that you didn't notice in your previous— in your previous searching is A small but fairly— but fairly nice turquoise gemstone that seems to have rolled into a corner."
+            },
+            {
+              "startUid": "u0528",
+              "endUid": "u0528",
+              "quote": "All right, we'll take that."
+            },
+            {
+              "startUid": "u0529",
+              "endUid": "u0532",
+              "quote": "And that—but the the town itself, other than the than the wyverns' nest, is basically just you know ruin. Hardly even—I mean, there's no other buildings that are even intact, right? These are just—these are just like, like low walls, basically, where you can see the outline of where buildings used to be um, you do notice, you know, this has—a lot of this has been fairly recently smashed. Like, the wyverns have probably been…"
+            },
+            {
+              "startUid": "u0533",
+              "endUid": "u0533",
+              "quote": "I'm."
+            },
+            {
+              "startUid": "u0534",
+              "endUid": "u0537",
+              "quote": "Not here for long. Right um like the nest seems like it's been fairly recently constructed um but…"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Abandoned copper mines",
+      "kind": "site",
+      "evidence": [
+        {
+          "startUid": "u0453",
+          "endUid": "u0454",
+          "quote": "Half a mile away so anyway."
+        },
+        {
+          "startUid": "u0455",
+          "endUid": "u0456",
+          "quote": "I thought they were? No."
+        },
+        {
+          "startUid": "u0457",
+          "endUid": "u0457",
+          "quote": "They were still at the mines."
+        },
+        {
+          "startUid": "u0458",
+          "endUid": "u0458",
+          "quote": "Yeah it's pretty far."
+        },
+        {
+          "startUid": "u0459",
+          "endUid": "u0459",
+          "quote": "Half a mile to bed."
+        },
+        {
+          "startUid": "u0580",
+          "endUid": "u0580",
+          "quote": "We didn't do the stone sense in the mine, but if there's nothing interesting there's something interesting that probably is like you see some copper."
+        },
+        {
+          "startUid": "u0581",
+          "endUid": "u0583",
+          "quote": "Yeah there's so there's not that the mine has been pretty well tapped out at this point that you can sense that there is still some copper you know, right at the edge of the range but it's not much and it's not in a convenient position to mine."
+        },
+        {
+          "startUid": "u0584",
+          "endUid": "u0585",
+          "quote": "Yeah everything that sort of easily accessible, has been mined already. So there's not—it does seem like this town was probably in, at least in large part, abandoned because the easily accessible copper was no longer—had been mined out. That's your sort of professional opinion based on what you can sense."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0453",
+              "endUid": "u0454",
+              "quote": "Half a mile away so anyway."
+            },
+            {
+              "startUid": "u0455",
+              "endUid": "u0456",
+              "quote": "I thought they were? No."
+            },
+            {
+              "startUid": "u0457",
+              "endUid": "u0457",
+              "quote": "They were still at the mines."
+            },
+            {
+              "startUid": "u0458",
+              "endUid": "u0458",
+              "quote": "Yeah it's pretty far."
+            },
+            {
+              "startUid": "u0459",
+              "endUid": "u0459",
+              "quote": "Half a mile to bed."
+            }
+          ],
+          "note": "The mines are about half a mile from the recon encounter, rather than inside the ruined town."
+        }
+      ]
+    },
+    "p05": {
+      "label": "Copper Hills",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0597",
+          "endUid": "u0601",
+          "quote": "Um, it's a journey of about 12 days, assuming you continue at a relatively normal pace. The first couple days I'm still passing through the the Copper Hills here. It's gonna take you, let's see, one, two."
+        },
+        {
+          "startUid": "u0602",
+          "endUid": "u0610",
+          "quote": "So you—I'm assuming you basically spend the rest of the day, just, you maybe you maybe you get a little bit away from the town before camping, but effectively you're going to spend this this this day kind of just as a rest, explore day, and not try to push super far, given it's already like two in the afternoon by the time you get back from the town. Right so maybe a few hours of travel at most. And then… So it takes you another two days of travel across the plains, sort of cutting cutting a straight path almost due west to reach—to sort of get through the Copper Hills and fight, you know, find yourself now in in the next—after the next two days of travel, as evening begins to—the sun begins to sink, rejoining the sort of rough trade road at a point close to…"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Darba Highlands/Copper Hills.md"
+    },
+    "p06": {
+      "label": "Padma’s stockaded manor waystation",
+      "kind": "compound",
+      "evidence": [
+        {
+          "startUid": "u0611",
+          "endUid": "u0613",
+          "quote": "You can see in the distance a small encampment enclosed with a wooden wall, another of these sort of Dunmari manors that function as inns and small trading posts and, you know, re mounts for messengers and things like that. So, if you would like to speak with people or spend the night in an inn you can approach you can of course certainly avoid it if you'd like to as well."
+        },
+        {
+          "startUid": "u0614",
+          "endUid": "u0614",
+          "quote": "Had a rough couple of days."
+        },
+        {
+          "startUid": "u0615",
+          "endUid": "u0615",
+          "quote": "Yeah I think spending a night, in the inn, would be sensible."
+        },
+        {
+          "startUid": "u0616",
+          "endUid": "u0616",
+          "quote": "For spreading the word that the bandits and the wyverns are taken care of."
+        },
+        {
+          "startUid": "u0617",
+          "endUid": "u0617",
+          "quote": "Yeah."
+        },
+        {
+          "startUid": "u0618",
+          "endUid": "u0629",
+          "quote": "Okay, so, as as the sun begins to approach sunset, you, you know, walk up to this palisade, and there's there's a fair bit of excitement here because there hasn't been any travelers that have come from the from the east in a week or more. And there's actually, you know, as you sort of enter this small stockade and— ah you know, you get the sense that there's a fair number of people that have been sort of waiting here to travel east until news has passed of the safety on the road, right? Like, they don't—you know, they're, of course, aware of the wyverns, and there hasn't been a lot of, um— but, but nobody is—few people have ventured forth, and— so there's, like, traffic that's built up, basically, as people wait for some of these— um so you know the…"
+        },
+        {
+          "startUid": "u0666",
+          "endUid": "u0669",
+          "quote": "Right? Not really an inn exactly, so much as like a compound, and they usually have a temple, right, places people will stay, often like a little mini trading post and things. Um, and so the the woman who is the you know, the lord of the manor or whatever, the innkeeper, the sort of head of the household here, I'm— names."
+        },
+        {
+          "startUid": "u0670",
+          "endUid": "u0670",
+          "quote": "But name just."
+        },
+        {
+          "startUid": "u0671",
+          "endUid": "u0671",
+          "quote": "Named Padma."
+        },
+        {
+          "startUid": "u0672",
+          "endUid": "u0676",
+          "quote": "She is she's a sort of an older woman, you know, maybe in her early 60s. Long gray hair, hair in a ponytail. Seems in good shape, healthy, sort of walking, you know— looks, looks— fitter fit for her age."
+        }
+      ],
+      "note": "The head of this household is named Padma at u0671. People/Dunmari/Padma.md identifies her caravanserai as the Darba Gateway Inn on the Tokra-Darba Road; no separate place page was found. That vault orientation is not additional played geography."
+    },
+    "p07": {
+      "label": "Common room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0775",
+          "endUid": "u0777",
+          "quote": "So she kind of busies herself a little bit and gets you settled in some rooms and then heads back to sort of spread the news of the opening of the road. And of course you're welcome to take your food in your rooms or head to the common room as you'd like."
+        },
+        {
+          "startUid": "u0778",
+          "endUid": "u0784",
+          "quote": "I'll go to the common room, I mean mostly just to listen and I'd actually like to just chat people up a little bit and find out anything, any stories people would love to tell about Darba. What's it like there? Who's the— who are the important people? You know where's the good inns? Where's the dangerous parts of town? You know, just anything, any kind of intel we can gather on. Do we have to role play that out right like?"
+        },
+        {
+          "startUid": "u0785",
+          "endUid": "u0789",
+          "quote": "Yeah, I mean, so you, you know, you— you attract a lot of attention, and and now everybody's realized there's an elf around, so it's like, you know— you know, people are asking you for stories too, and and anybody else is in the common room and certainly getting like a, you know, A 'Hey, you know, what were the what were the wyverns like? You know, what was the road like?' All of us, right, um—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0775",
+              "endUid": "u0777",
+              "quote": "So she kind of busies herself a little bit and gets you settled in some rooms and then heads back to sort of spread the news of the opening of the road. And of course you're welcome to take your food in your rooms or head to the common room as you'd like."
+            },
+            {
+              "startUid": "u0778",
+              "endUid": "u0784",
+              "quote": "I'll go to the common room, I mean mostly just to listen and I'd actually like to just chat people up a little bit and find out anything, any stories people would love to tell about Darba. What's it like there? Who's the— who are the important people? You know where's the good inns? Where's the dangerous parts of town? You know, just anything, any kind of intel we can gather on. Do we have to role play that out right like?"
+            },
+            {
+              "startUid": "u0785",
+              "endUid": "u0789",
+              "quote": "Yeah, I mean, so you, you know, you— you attract a lot of attention, and and now everybody's realized there's an elf around, so it's like, you know— you know, people are asking you for stories too, and and anybody else is in the common room and certainly getting like a, you know, A 'Hey, you know, what were the what were the wyverns like? You know, what was the road like?' All of us, right, um—"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Darba",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u1167",
+          "endUid": "u1171",
+          "quote": "So after, you know, about 10 days on the road from the inn where you rejoin civilization, as you've approached these increasingly densely populated and civilized areas, I'm— you find yourself on the afternoon of some time in early August—will have the exact date once I calculate out stuff— about approaching the walled city of Darba in the late afternoon as the rains have cleared and the sun has come out behind the clouds."
+        },
+        {
+          "startUid": "u1172",
+          "endUid": "u1174",
+          "quote": "Set on a rocky coastline, perched above the flooded swamps of the Rudhan River, as it at its river mouth, as it flows into the sea. And as you for a few hours now, you've come around sort of over over a rise and have been looking out at the ocean which…"
+        },
+        {
+          "startUid": "u1192",
+          "endUid": "u1194",
+          "quote": "So you can see, this expanse of rocky coastline and the coastline is rocky here right a lot of the coastline is cliffs like white limestone cliffs that drop to the sea. Though the city of Darba itself is is an on an area where you know it's not quite so steep a drop right but it's still set slightly above the…"
+        },
+        {
+          "startUid": "u1195",
+          "endUid": "u1196",
+          "quote": "The flooded swamps. And from a distance you can still see the white walls of the old Drankorian fort that guards the entrance to the harbor. The harbor itself is sat in the river mouth, the six towers of this old fort gleaming in the sun and commanding view across the whole bustling city."
+        },
+        {
+          "startUid": "u1197",
+          "endUid": "u1198",
+          "quote": "Old trade road you're on follows the sort of height of the land north of the river, and the city itself is all pretty much set north of the river, I'm—avoiding this sort of river delta area and approaching the old gates, the Drankorian gates. Wrought iron motifs of confronted lions framing the gate visible even from a distance of nearly a mile."
+        },
+        {
+          "startUid": "u1199",
+          "endUid": "u1201",
+          "quote": "The city itself, though, even outside the walls, is pretty densely settled, right? So there's a, like, shanty town of wooden dwellings and flooded muddy streets on the south side of the river. Now, in the monsoon flood there's small boats that are you can see in the distance going back and forth from the sort of main harbor on the North side to the sort of more informal harbor on the South side."
+        },
+        {
+          "startUid": "u1202",
+          "endUid": "u1205",
+          "quote": "Many of these are distinctive high-prowed Illorian-hulled boats that that form of ferry service going back and forth. And this, you've heard people tell this: outside the walls to the south of the river is really that often the Illorian district. It's where a lot of Illorians, the people settled the islands in the Nevos Sea and also, at one point were the rulers briefly after the Great War conquered Darba and many of them live in the sort of swamp slums now."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/Darba.md"
+    },
+    "p09": {
+      "label": "Old Drankorian city gates",
+      "kind": "gate",
+      "evidence": [
+        {
+          "startUid": "u1197",
+          "endUid": "u1198",
+          "quote": "Old trade road you're on follows the sort of height of the land north of the river, and the city itself is all pretty much set north of the river, I'm—avoiding this sort of river delta area and approaching the old gates, the Drankorian gates. Wrought iron motifs of confronted lions framing the gate visible even from a distance of nearly a mile."
+        },
+        {
+          "startUid": "u1237",
+          "endUid": "u1241",
+          "quote": "And we will end as you approach the gates in the evening in this flow of traffic, I'm— with, you know, you have your letter of introduction to the— and you've learned the administrator, the high priest of Darba, his name Navin."
+        },
+        {
+          "startUid": "u1242",
+          "endUid": "u1244",
+          "quote": "His base of operations is in the old Drankorian Fort which has been taken over for city administration."
+        },
+        {
+          "startUid": "u1245",
+          "endUid": "u1246",
+          "quote": "You have many inns around the bustling market square and then of course down in the docks area. There is a large Dunmari style caravanserai outside the walls and also one in a sort of area of the old open green."
+        },
+        {
+          "startUid": "u1247",
+          "endUid": "u1249",
+          "quote": "So you have many destinations, and I'll remind you have all this when you play next. So— the— so we'll stop as you step through the gates and decide where to go next."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1197",
+              "endUid": "u1198",
+              "quote": "Old trade road you're on follows the sort of height of the land north of the river, and the city itself is all pretty much set north of the river, I'm—avoiding this sort of river delta area and approaching the old gates, the Drankorian gates. Wrought iron motifs of confronted lions framing the gate visible even from a distance of nearly a mile."
+            },
+            {
+              "startUid": "u1247",
+              "endUid": "u1249",
+              "quote": "So you have many destinations, and I'll remind you have all this when you play next. So— the— so we'll stop as you step through the gates and decide where to go next."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Chardon",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u1064",
+          "endUid": "u1068",
+          "quote": "Next chart—next you see the brief glimpse of the city of Chardon from a you know, as you're being held and placed into a locked chest. Hardly hardly just a flash, right? You only recognize it as Chardon from the silhouette of this enormous, this like extinct volcano and just the sort of black glass of the mouth of the obsidian mountain that looms over the city itself, on the other side of the River."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p11": {
+      "label": "Tokra",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u1090",
+          "endUid": "u1091",
+          "quote": "And then you recognize the city of Tokra. Again put in a store room there."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    },
+    "p12": {
+      "label": "Underground dwarven gemcutting workshop",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u1035",
+          "endUid": "u1038",
+          "quote": "You see a series of images that kind of flashed before the mirror. The first one is is a dwarf sitting in in a workshop and you're sort of staring up at this like massively enlarged dwarven eye like through the back of the lens right and."
+        },
+        {
+          "startUid": "u1039",
+          "endUid": "u1039",
+          "quote": "Familiar? Any idea, like, what family the dwarf is from? Like, any kind of, you know, what—you know, we got two dwarves here. Like, are they like, 'Oh shit, it's like a Thorn Burger'?"
+        },
+        {
+          "startUid": "u1040",
+          "endUid": "u1041",
+          "quote": "You don't you don't recognize this particular dwarf, and I um."
+        },
+        {
+          "startUid": "u1042",
+          "endUid": "u1043",
+          "quote": "But whoever it is seems to be paying an inordinate amount of attention to sort of crafting and shaping this this diamond, and occasionally, like, holding it up and examining it. And, you know, you're in a underground, you know, workshop. Like, clearly some gem cutters. And this seems to be…"
+        },
+        {
+          "startUid": "u1044",
+          "endUid": "u1046",
+          "quote": "You know, you know enough about kind of dwarven architecture and dwarven history that this isn't a— this doesn't look Yuvanti, right? So this isn't a super recent event, right? This is in some city that looks unfamiliar to both of you, so, so probably not from either the Nardith kingdom in the rocky mountains or from Seeker's."
+        },
+        {
+          "startUid": "u1047",
+          "endUid": "u1048",
+          "quote": "But of course there's many other places where where dwarves are, and in fact the one that's most known for gem cutting is sort of to the west of the West of Seeker's homeland's like in the mountains."
+        }
+      ],
+      "note": "The city is unfamiliar to both dwarves. The suggested gemcutting region is not a verified identity or an established enclosing city."
+    },
+    "p13": {
+      "label": "River road through immense forest",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u1049",
+          "endUid": "u1053",
+          "quote": "And then, just like a, you know, a flash of images passed by: being traded, you know, first two other dwarves. Then the flash of sun and forest as you travel along a road through…"
+        },
+        {
+          "startUid": "u1054",
+          "endUid": "u1054",
+          "quote": "Big forests massive trees like redwoods stretching to the sky, as you follow the course of a river down from the mountains."
+        },
+        {
+          "startUid": "u1055",
+          "endUid": "u1055",
+          "quote": "That's where we're going."
+        },
+        {
+          "startUid": "u1056",
+          "endUid": "u1056",
+          "quote": "Then a flash again."
+        },
+        {
+          "startUid": "u1057",
+          "endUid": "u1057",
+          "quote": "We're doing current places. That sounds like a river that's flowing down towards Chardon?"
+        },
+        {
+          "startUid": "u1058",
+          "endUid": "u1058",
+          "quote": "Ah yes, this is, this is probably in the, this is probably the forest that you've been talking about this."
+        },
+        {
+          "startUid": "u1059",
+          "endUid": "u1060",
+          "quote": "Year yeah where the {{secret where where the secret Copyright Office}}? And that's where we got to go there."
+        },
+        {
+          "startUid": "u1061",
+          "endUid": "u1061",
+          "quote": "Yeah I thought that was our next destination."
+        },
+        {
+          "startUid": "u1062",
+          "endUid": "u1062",
+          "quote": "That means this then is headed towards Chardon right now."
+        },
+        {
+          "startUid": "u1063",
+          "endUid": "u1063",
+          "quote": "Ah yes."
+        }
+      ],
+      "note": "The DM tentatively connects this to the forest previously discussed by the party; no precise forest or river identity is established here."
+    },
+    "p14": {
+      "label": "Storeroom and locked chest in Chardon",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1064",
+          "endUid": "u1068",
+          "quote": "Next chart—next you see the brief glimpse of the city of Chardon from a you know, as you're being held and placed into a locked chest. Hardly hardly just a flash, right? You only recognize it as Chardon from the silhouette of this enormous, this like extinct volcano and just the sort of black glass of the mouth of the obsidian mountain that looms over the city itself, on the other side of the River."
+        },
+        {
+          "startUid": "u1069",
+          "endUid": "u1072",
+          "quote": "And then a flash again: some store room, chests of coin, elaborate wooden locked chests, and darkness, then as the gem is locked in a chest."
+        },
+        {
+          "startUid": "u1073",
+          "endUid": "u1074",
+          "quote": "And then just blackness for a long time then…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1064",
+              "endUid": "u1068",
+              "quote": "Next chart—next you see the brief glimpse of the city of Chardon from a you know, as you're being held and placed into a locked chest. Hardly hardly just a flash, right? You only recognize it as Chardon from the silhouette of this enormous, this like extinct volcano and just the sort of black glass of the mouth of the obsidian mountain that looms over the city itself, on the other side of the River."
+            },
+            {
+              "startUid": "u1069",
+              "endUid": "u1072",
+              "quote": "And then a flash again: some store room, chests of coin, elaborate wooden locked chests, and darkness, then as the gem is locked in a chest."
+            },
+            {
+              "startUid": "u1073",
+              "endUid": "u1074",
+              "quote": "And then just blackness for a long time then…"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Storeroom in Tokra",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1090",
+          "endUid": "u1091",
+          "quote": "And then you recognize the city of Tokra. Again put in a store room there."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1090",
+              "endUid": "u1091",
+              "quote": "And then you recognize the city of Tokra. Again put in a store room there."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Agata’s room in her hut",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1092",
+          "endUid": "u1100",
+          "quote": "And then the final vision: sitting in Agata's room in her hut, tea—drinking tea, an older Dunmari man holding the diamond and speaking urgently and quickly to Agata, almost seeming almost pleading and anxious, and handing it over."
+        }
+      ],
+      "note": "This is a historical image of Agata’s hut, not a present-day party visit; the vision does not establish its geographical parent.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u1092",
+              "endUid": "u1100",
+              "quote": "And then the final vision: sitting in Agata's room in her hut, tea—drinking tea, an older Dunmari man holding the diamond and speaking urgently and quickly to Agata, almost seeming almost pleading and anxious, and handing it over."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Rudhan River",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u0846",
+          "endUid": "u0849",
+          "quote": "Rudhan River is the main river that flows past Darba, and it has many small tributaries, and the headwaters are not far from this inn, actually. Once you keep going—when you keep going west about— I don't know, about half the journey west, you'll come to them. Half the distance between here and Darba, you come to the headwaters of the Rudhan, and the and the road sort of follows the river, I'm—much of the rest of the way, although tending to stick to the higher ground, not down in the river valley itself."
+        },
+        {
+          "startUid": "u1172",
+          "endUid": "u1174",
+          "quote": "Set on a rocky coastline, perched above the flooded swamps of the Rudhan River, as it at its river mouth, as it flows into the sea. And as you for a few hours now, you've come around sort of over over a rise and have been looking out at the ocean which…"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Rivers/Rudhan.md"
+    },
+    "p18": {
+      "label": "Illorian district south of the river",
+      "kind": "district",
+      "evidence": [
+        {
+          "startUid": "u1199",
+          "endUid": "u1201",
+          "quote": "The city itself, though, even outside the walls, is pretty densely settled, right? So there's a, like, shanty town of wooden dwellings and flooded muddy streets on the south side of the river. Now, in the monsoon flood there's small boats that are you can see in the distance going back and forth from the sort of main harbor on the North side to the sort of more informal harbor on the South side."
+        },
+        {
+          "startUid": "u1202",
+          "endUid": "u1205",
+          "quote": "Many of these are distinctive high-prowed Illorian-hulled boats that that form of ferry service going back and forth. And this, you've heard people tell this: outside the walls to the south of the river is really that often the Illorian district. It's where a lot of Illorians, the people settled the islands in the Nevos Sea and also, at one point were the rulers briefly after the Great War conquered Darba and many of them live in the sort of swamp slums now."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1199",
+              "endUid": "u1201",
+              "quote": "The city itself, though, even outside the walls, is pretty densely settled, right? So there's a, like, shanty town of wooden dwellings and flooded muddy streets on the south side of the river. Now, in the monsoon flood there's small boats that are you can see in the distance going back and forth from the sort of main harbor on the North side to the sort of more informal harbor on the South side."
+            },
+            {
+              "startUid": "u1202",
+              "endUid": "u1205",
+              "quote": "Many of these are distinctive high-prowed Illorian-hulled boats that that form of ferry service going back and forth. And this, you've heard people tell this: outside the walls to the south of the river is really that often the Illorian district. It's where a lot of Illorians, the people settled the islands in the Nevos Sea and also, at one point were the rulers briefly after the Great War conquered Darba and many of them live in the sort of swamp slums now."
+            }
+          ],
+          "note": "Outside the walls and south of the river; this does not place the district inside the walled city."
+        }
+      ]
+    },
+    "p19": {
+      "label": "Agata’s hut",
+      "kind": "building",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair.md",
+      "evidence": [
+        {
+          "startUid": "u1092",
+          "endUid": "u1100",
+          "quote": "And then the final vision: sitting in Agata's room in her hut, tea—drinking tea, an older Dunmari man holding the diamond and speaking urgently and quickly to Agata, almost seeming almost pleading and anxious, and handing it over."
+        }
+      ],
+      "note": "The diamond recovered from Agata is being traced back through her ownership; this identifies her known lair. The current vault note describes a later looted state, not this historical image."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0017",
+        "endUid": "u0038"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "The recon group searches the burning temple and emerges above the nest area.",
+      "evidence": [
+        {
+          "startUid": "u0017",
+          "endUid": "u0020",
+          "quote": "Um, so— right, you are searching the temple. And yeah so."
+        },
+        {
+          "startUid": "u0021",
+          "endUid": "u0023",
+          "quote": "So, Wellby, that fire gets too hot and you got to duck out before you find anything. Kenzo, you're fine searching but don't turn up anything. Kenzo, you are sat—Delwath, you do see two bits of shiny metal buried among the ash. One is…"
+        },
+        {
+          "startUid": "u0035",
+          "endUid": "u0038",
+          "quote": "So that takes you maybe half an hour to get into the temple, find all that stuff and get out. Standing kind of looking down with still some time on your invisibility at that, the sort of troll-like creature that's still sort of now—it seems to be doing a slow circle around this big smoldering pile of wyvern's nest and just kind of poking at it occasionally to like pick up you know some weapon or smoldering you know piece of wood or something and kind of toss it aside."
+        },
+        {
+          "startUid": "u0046",
+          "endUid": "u0046",
+          "quote": "So it clearly hasn't noticed you as long as you're staying up by the temple."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0053",
+        "endUid": "u0088"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo sneaks down close enough to study the troll and returns to the recon group at the temple.",
+      "evidence": [
+        {
+          "startUid": "u0053",
+          "endUid": "u0055",
+          "quote": "So you'd have to get a lot—but you'd have to get a lot closer to it. You're like 300 feet away right now you have to get a lot closer to him, and if you want to soul sight it. Your choice."
+        },
+        {
+          "startUid": "u0063",
+          "endUid": "u0063",
+          "quote": "I could only get one better, but it's not going to—ya know, you sneak up close to it and use soul sight, um."
+        },
+        {
+          "startUid": "u0088",
+          "endUid": "u0088",
+          "quote": "I go back and convey all that information to the squad to the recon squad."
+        }
+      ],
+      "from": "p01",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "sneak",
+      "route": [
+        {
+          "reading": "Approaches the troll by the smoldering nest, then returns.",
+          "place": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0236",
+        "endUid": "u0253"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Kenzo and Delwath approach the troll on the slope beside the ruined nest; Wellby remains hidden at a distance.",
+      "evidence": [
+        {
+          "startUid": "u0227",
+          "endUid": "u0227",
+          "quote": "But you're not you're not getting Riswynn and Seeker you're just leaving."
+        },
+        {
+          "startUid": "u0228",
+          "endUid": "u0228",
+          "quote": "No, no, just the three of you just."
+        },
+        {
+          "startUid": "u0229",
+          "endUid": "u0229",
+          "quote": "Just executing the plan."
+        },
+        {
+          "startUid": "u0230",
+          "endUid": "u0230",
+          "quote": "Yeah we're just gonna black ops right now."
+        },
+        {
+          "startUid": "u0231",
+          "endUid": "u0231",
+          "quote": "Why get wiser heads to talk…"
+        },
+        {
+          "startUid": "u0232",
+          "endUid": "u0234",
+          "quote": "To her, oh no, no, no. So you're going to surprise them with the with the troll that we found."
+        },
+        {
+          "startUid": "u0235",
+          "endUid": "u0235",
+          "quote": "Yeah you're out playing with rocks."
+        },
+        {
+          "startUid": "u0236",
+          "endUid": "u0237",
+          "quote": "Yeah. Yeah Delwath and Kenzo, you need to get within 30 feet of the troll make one more stealth check."
+        },
+        {
+          "startUid": "u0244",
+          "endUid": "u0245",
+          "quote": "Natural 20. Ah, so, so, as you begin to approach it, when you get maybe about 40 feet away, it stops, stops its poking. You, you know, you're you're heading down this slope towards the towards the ruins of the wyvern nest, and, you know—"
+        },
+        {
+          "startUid": "u0246",
+          "endUid": "u0246",
+          "quote": "Delwath like you know there's some loose rocks and you notice a few loose rocks making a sound rolling rolling down and it looks up like sort of looking around trying to find the source of the sound."
+        },
+        {
+          "startUid": "u0247",
+          "endUid": "u0247",
+          "quote": "Perfect and as it looks over."
+        },
+        {
+          "startUid": "u0248",
+          "endUid": "u0248",
+          "quote": "Your."
+        },
+        {
+          "startUid": "u0249",
+          "endUid": "u0249",
+          "quote": "Okay, you pull the mirror out it sees the…"
+        },
+        {
+          "startUid": "u0250",
+          "endUid": "u0251",
+          "quote": "Maybe 30 feet close enough? We're 30 feet away now right okay?"
+        },
+        {
+          "startUid": "u0252",
+          "endUid": "u0253",
+          "quote": "Yeah, it's—it's moving in a direction to, so it's actually, as you're pulling in the mirror out, it's probably maybe 15 feet away. I know a…"
+        },
+        {
+          "startUid": "u0268",
+          "endUid": "u0268",
+          "quote": "Kenzo pulling the mirror is gonna be like the beginning of the initiative order, right? So, Wellby, you're just hiding off in the distance. You go first. You're not doing anything."
+        },
+        {
+          "startUid": "u0269",
+          "endUid": "u0269",
+          "quote": "I'm actually I'm gonna ready an action to shoot it if things go badly."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "sneak"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0453",
+        "endUid": "u0475"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker"
+      ],
+      "reading": "Riswynn and Seeker remain at the mines, about half a mile from the encounter.",
+      "evidence": [
+        {
+          "startUid": "u0448",
+          "endUid": "u0448",
+          "quote": "Or is it nice and quiet? Blow the side of the Horn of Silent Alarm, somebody. I'm gonna blow the Horn of Silent Alarm that I took."
+        },
+        {
+          "startUid": "u0449",
+          "endUid": "u0449",
+          "quote": "Yes."
+        },
+        {
+          "startUid": "u0450",
+          "endUid": "u0452",
+          "quote": "And I will think of Riswynn. [garbled]. Wow is not."
+        },
+        {
+          "startUid": "u0453",
+          "endUid": "u0454",
+          "quote": "Half a mile away so anyway."
+        },
+        {
+          "startUid": "u0455",
+          "endUid": "u0456",
+          "quote": "I thought they were? No."
+        },
+        {
+          "startUid": "u0457",
+          "endUid": "u0457",
+          "quote": "They were still at the mines."
+        },
+        {
+          "startUid": "u0458",
+          "endUid": "u0458",
+          "quote": "Yeah it's pretty far."
+        },
+        {
+          "startUid": "u0459",
+          "endUid": "u0459",
+          "quote": "Half a mile to bed."
+        },
+        {
+          "startUid": "u0471",
+          "endUid": "u0471",
+          "quote": "Do we miss these people haven't been gone long?"
+        },
+        {
+          "startUid": "u0472",
+          "endUid": "u0472",
+          "quote": "They haven't been gone longer than you would."
+        },
+        {
+          "startUid": "u0473",
+          "endUid": "u0473",
+          "quote": "Expect."
+        },
+        {
+          "startUid": "u0474",
+          "endUid": "u0474",
+          "quote": "Like, we did back to that or something. This is very boring for our companions."
+        },
+        {
+          "startUid": "u0475",
+          "endUid": "u0475",
+          "quote": "I'm still studying rocks I'm fine."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0505",
+        "endUid": "u0538"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "After capturing the troll, the recon group searches the ruined town and nest again.",
+      "evidence": [
+        {
+          "startUid": "u0505",
+          "endUid": "u0506",
+          "quote": "God. Let's thoroughly re-search the town."
+        },
+        {
+          "startUid": "u0507",
+          "endUid": "u0507",
+          "quote": "Good let's do that."
+        },
+        {
+          "startUid": "u0508",
+          "endUid": "u0508",
+          "quote": "Nice okay."
+        },
+        {
+          "startUid": "u0509",
+          "endUid": "u0510",
+          "quote": "So me Wellby yeah so at all, so we do perception checks are we doing?"
+        },
+        {
+          "startUid": "u0511",
+          "endUid": "u0511",
+          "quote": "Yeah I'm perception."
+        },
+        {
+          "startUid": "u0512",
+          "endUid": "u0512",
+          "quote": "Or for Delwath or Wellby?"
+        },
+        {
+          "startUid": "u0513",
+          "endUid": "u0514",
+          "quote": "Yeah. I'll roll for Wellby."
+        },
+        {
+          "startUid": "u0515",
+          "endUid": "u0515",
+          "quote": "Or said this, I can—Delwath, natural 20."
+        },
+        {
+          "startUid": "u0516",
+          "endUid": "u0516",
+          "quote": "Yep."
+        },
+        {
+          "startUid": "u0517",
+          "endUid": "u0517",
+          "quote": "You see all to."
+        },
+        {
+          "startUid": "u0518",
+          "endUid": "u0518",
+          "quote": "Feast or famine today."
+        },
+        {
+          "startUid": "u0519",
+          "endUid": "u0520",
+          "quote": "Um. There there's honestly there's not that much to find I mean you do find um…"
+        },
+        {
+          "startUid": "u0521",
+          "endUid": "u0527",
+          "quote": "You know, what's not destroyed in the wyvern's nest is mostly, you know, whatever copper coins you didn't take before. The the one thing, Delwath, that you find that seems to have survived the flames that you didn't notice in your previous— in your previous searching is A small but fairly— but fairly nice turquoise gemstone that seems to have rolled into a corner."
+        },
+        {
+          "startUid": "u0529",
+          "endUid": "u0532",
+          "quote": "And that—but the the town itself, other than the than the wyverns' nest, is basically just you know ruin. Hardly even—I mean, there's no other buildings that are even intact, right? These are just—these are just like, like low walls, basically, where you can see the outline of where buildings used to be um, you do notice, you know, this has—a lot of this has been fairly recently smashed. Like, the wyverns have probably been…"
+        },
+        {
+          "startUid": "u0533",
+          "endUid": "u0533",
+          "quote": "I'm."
+        },
+        {
+          "startUid": "u0534",
+          "endUid": "u0537",
+          "quote": "Not here for long. Right um like the nest seems like it's been fairly recently constructed um but…"
+        },
+        {
+          "startUid": "u0538",
+          "endUid": "u0538",
+          "quote": "But really honestly there's not a lot to find in this."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0539",
+        "endUid": "u0542"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "The recon group rejoins its companions at the mines and reports the captured troll.",
+      "evidence": [
+        {
+          "startUid": "u0539",
+          "endUid": "u0539",
+          "quote": "All right, then we go and rejoin our companions yeah."
+        },
+        {
+          "startUid": "u0540",
+          "endUid": "u0540",
+          "quote": "We'll take the Turquoise we'll rejoin our companions."
+        },
+        {
+          "startUid": "u0541",
+          "endUid": "u0542",
+          "quote": "Way, we have a story to tell you guys. Guess what's inside the mirror now? We added a poison troll."
+        },
+        {
+          "startUid": "u0453",
+          "endUid": "u0454",
+          "quote": "Half a mile away so anyway."
+        },
+        {
+          "startUid": "u0455",
+          "endUid": "u0456",
+          "quote": "I thought they were? No."
+        },
+        {
+          "startUid": "u0457",
+          "endUid": "u0457",
+          "quote": "They were still at the mines."
+        },
+        {
+          "startUid": "u0458",
+          "endUid": "u0458",
+          "quote": "Yeah it's pretty far."
+        },
+        {
+          "startUid": "u0459",
+          "endUid": "u0459",
+          "quote": "Half a mile to bed."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0602",
+        "endUid": "u0629"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the rest/explore day, the party travels west through the Copper Hills to Padma’s stockaded waystation near sunset.",
+      "evidence": [
+        {
+          "startUid": "u0602",
+          "endUid": "u0610",
+          "quote": "So you—I'm assuming you basically spend the rest of the day, just, you maybe you maybe you get a little bit away from the town before camping, but effectively you're going to spend this this this day kind of just as a rest, explore day, and not try to push super far, given it's already like two in the afternoon by the time you get back from the town. Right so maybe a few hours of travel at most. And then… So it takes you another two days of travel across the plains, sort of cutting cutting a straight path almost due west to reach—to sort of get through the Copper Hills and fight, you know, find yourself now in in the next—after the next two days of travel, as evening begins to—the sun begins to sink, rejoining the sort of rough trade road at a point close to…"
+        },
+        {
+          "startUid": "u0611",
+          "endUid": "u0613",
+          "quote": "You can see in the distance a small encampment enclosed with a wooden wall, another of these sort of Dunmari manors that function as inns and small trading posts and, you know, re mounts for messengers and things like that. So, if you would like to speak with people or spend the night in an inn you can approach you can of course certainly avoid it if you'd like to as well."
+        },
+        {
+          "startUid": "u0614",
+          "endUid": "u0614",
+          "quote": "Had a rough couple of days."
+        },
+        {
+          "startUid": "u0615",
+          "endUid": "u0615",
+          "quote": "Yeah I think spending a night, in the inn, would be sensible."
+        },
+        {
+          "startUid": "u0616",
+          "endUid": "u0616",
+          "quote": "For spreading the word that the bandits and the wyverns are taken care of."
+        },
+        {
+          "startUid": "u0617",
+          "endUid": "u0617",
+          "quote": "Yeah."
+        },
+        {
+          "startUid": "u0618",
+          "endUid": "u0629",
+          "quote": "Okay, so, as as the sun begins to approach sunset, you, you know, walk up to this palisade, and there's there's a fair bit of excitement here because there hasn't been any travelers that have come from the from the east in a week or more. And there's actually, you know, as you sort of enter this small stockade and— ah you know, you get the sense that there's a fair number of people that have been sort of waiting here to travel east until news has passed of the safety on the road, right? Like, they don't—you know, they're, of course, aware of the wyverns, and there hasn't been a lot of, um— but, but nobody is—few people have ventured forth, and— so there's, like, traffic that's built up, basically, as people wait for some of these— um so you know the…"
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "May travel a few hours away from town before camping; no particular campsite is identified."
+        },
+        {
+          "reading": "Travels west for the next two days, leaves the Copper Hills and rejoins the rough trade road."
+        }
+      ],
+      "duration": {
+        "text": "remainder of one day, then two days of travel",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated rest/explore remainder plus two completed travel days"
+      }
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u0775",
+        "endUid": "u0789"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is hosted at the waystation; Delwath goes to the common room to gather Darba news, and the DM includes the others in the attention there.",
+      "evidence": [
+        {
+          "startUid": "u0775",
+          "endUid": "u0777",
+          "quote": "So she kind of busies herself a little bit and gets you settled in some rooms and then heads back to sort of spread the news of the opening of the road. And of course you're welcome to take your food in your rooms or head to the common room as you'd like."
+        },
+        {
+          "startUid": "u0778",
+          "endUid": "u0784",
+          "quote": "I'll go to the common room, I mean mostly just to listen and I'd actually like to just chat people up a little bit and find out anything, any stories people would love to tell about Darba. What's it like there? Who's the— who are the important people? You know where's the good inns? Where's the dangerous parts of town? You know, just anything, any kind of intel we can gather on. Do we have to role play that out right like?"
+        },
+        {
+          "startUid": "u0785",
+          "endUid": "u0789",
+          "quote": "Yeah, I mean, so you, you know, you— you attract a lot of attention, and and now everybody's realized there's an elf around, so it's like, you know— you know, people are asking you for stories too, and and anybody else is in the common room and certainly getting like a, you know, A 'Hey, you know, what were the what were the wyverns like? You know, what was the road like?' All of us, right, um—"
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0899",
+        "endUid": "u0900"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The continuing journey from the inn reaches Darba’s gates; after the coastal approach, the closing narration takes the party through them.",
+      "evidence": [
+        {
+          "startUid": "u0833",
+          "endUid": "u0833",
+          "quote": "What's the what's the landscape like is it like a city on a flat plain it's on the water too and on the ocean or?"
+        },
+        {
+          "startUid": "u0834",
+          "endUid": "u0836",
+          "quote": "On the coast, yeah. Yo, yo, so it—so the land is much, much hillier, and it's on a river, actually. Um— you know, as you pass as you sort of cross through the you know, as you cross…"
+        },
+        {
+          "startUid": "u0837",
+          "endUid": "u0838",
+          "quote": "Plains here, and and sort of come—the Yuvanti Mountains are sort of creeping up to the south here, and as you come to this gap in the mountains, so, if you look at the map, you can see that, like, as you approach, as you approach Darba, there's sort of gap between the two mountain chains, the north and south, because of the Yuvanti Mountains are to the south."
+        },
+        {
+          "startUid": "u0839",
+          "endUid": "u0843",
+          "quote": "And as you sort of come into this gap, the climate becomes much wetter. There's sort of rivers. There's forests. Small forest, patchy forests, but still much more forests. There's no forest in central Dunmar. Even the area that you're sort of passing through here is— is not—"
+        },
+        {
+          "startUid": "u0844",
+          "endUid": "u0845",
+          "quote": "You know it's rockier there's like pockets of these monsoon forests and then there's like river gorges and sort of sheltered valleys that are dry up in the in the dry season and then turn into waterfalls and, you know, cascading rivers in the wet season. The, you know, the the river floors flood and then, you know, people tend to move up elevation in the wet season, down elevation in the dry season."
+        },
+        {
+          "startUid": "u0846",
+          "endUid": "u0849",
+          "quote": "Rudhan River is the main river that flows past Darba, and it has many small tributaries, and the headwaters are not far from this inn, actually. Once you keep going—when you keep going west about— I don't know, about half the journey west, you'll come to them. Half the distance between here and Darba, you come to the headwaters of the Rudhan, and the and the road sort of follows the river, I'm—much of the rest of the way, although tending to stick to the higher ground, not down in the river valley itself."
+        },
+        {
+          "startUid": "u0850",
+          "endUid": "u0851",
+          "quote": "And you get into a much more lush landscape, as you approach the coast sort of like um you know cliffs with with trees sort of grown up the cliffs and then waterfalls cascading down here kind of like…"
+        },
+        {
+          "startUid": "u0852",
+          "endUid": "u0852",
+          "quote": "This doesn't matter it."
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0853",
+          "quote": "Sort of like this."
+        },
+        {
+          "startUid": "u0854",
+          "endUid": "u0854",
+          "quote": "Huh."
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0855",
+          "quote": "[garbled]?"
+        },
+        {
+          "startUid": "u0856",
+          "endUid": "u0859",
+          "quote": "Parts of it are yeah I mean the forest is very, very patchy right so you'll there will be you know a little chunk of forest and then there will be plains around it, some of which has been cleared for pasture. But yeah, there's definitely a lot more trees as you as you cross across the sort of Yuvanti gap, the Yuvanti gap towards the coastal plain, as you as the, you know, you're descending an elevation to, off the high plateaus of central Dunmar."
+        },
+        {
+          "startUid": "u0869",
+          "endUid": "u0871",
+          "quote": "Still raining the monsoon season is still quite robust, right? It rains almost every afternoon. All the rivers are in flood, the streams are full, the roads are kind of a mess, although once you get on the old Drankorian road, that road is in pretty good shape. A lot of people travel by boat, but you can't go far by boat because there's the rivers all cascade down these waterfalls so you can often not cannot go more than a day's journey by boat."
+        },
+        {
+          "startUid": "u0872",
+          "endUid": "u0872",
+          "quote": "I'm."
+        },
+        {
+          "startUid": "u0873",
+          "endUid": "u0876",
+          "quote": "Still, as you get onto the the road on the sort of main river here there's you know trees in abundance there's you know there's A timber industry, that is, you know people do you know forestry with logs being sent down river to to Darba."
+        },
+        {
+          "startUid": "u0877",
+          "endUid": "u0882",
+          "quote": "There's just a lot that, you know—there's a lot more economic diversity here. There's more agricultural diversity. You know, central Dunmar's basically horses and then it's small handful of crops in the river valleys that can be supported by irrigation. You've got—right here you've got timber. You've got, you know, diverse, diversified agriculture. You've got cattle and and as well as sheep and goats, which are the things common on the plains. Fewer horses, a lot more more boats. You know, there's a lot more wood to make boats than there is in central Dunmar. Wood is precious commodity."
+        },
+        {
+          "startUid": "u0883",
+          "endUid": "u0885",
+          "quote": "The land just feels more richer and lusher than the Highlands is you sort of head down and down the coast to the Darba itself."
+        },
+        {
+          "startUid": "u0899",
+          "endUid": "u0900",
+          "quote": "So, I mean, this is a combination, I guess, of both the rumors and information you get, but also a bit of a narration of the journey itself, right? So, hey, I'm— let's just say what What else do you want to look at in the mirror?"
+        },
+        {
+          "startUid": "u1167",
+          "endUid": "u1171",
+          "quote": "So after, you know, about 10 days on the road from the inn where you rejoin civilization, as you've approached these increasingly densely populated and civilized areas, I'm— you find yourself on the afternoon of some time in early August—will have the exact date once I calculate out stuff— about approaching the walled city of Darba in the late afternoon as the rains have cleared and the sun has come out behind the clouds."
+        },
+        {
+          "startUid": "u1172",
+          "endUid": "u1174",
+          "quote": "Set on a rocky coastline, perched above the flooded swamps of the Rudhan River, as it at its river mouth, as it flows into the sea. And as you for a few hours now, you've come around sort of over over a rise and have been looking out at the ocean which…"
+        },
+        {
+          "startUid": "u1197",
+          "endUid": "u1198",
+          "quote": "Old trade road you're on follows the sort of height of the land north of the river, and the city itself is all pretty much set north of the river, I'm—avoiding this sort of river delta area and approaching the old gates, the Drankorian gates. Wrought iron motifs of confronted lions framing the gate visible even from a distance of nearly a mile."
+        },
+        {
+          "startUid": "u1247",
+          "endUid": "u1249",
+          "quote": "So you have many destinations, and I'll remind you have all this when you play next. So— the— so we'll stop as you step through the gates and decide where to go next."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived",
+      "duration": {
+        "value": 10,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM gives approximate actual journey from the inn at u1167–u1171"
+      },
+      "route": [
+        {
+          "reading": "Passes the gap near the Yuvanti Mountains into wetter, more wooded country."
+        },
+        {
+          "reading": "Reaches the Rudhan headwaters and follows the river on the higher old road.",
+          "place": "p17"
+        },
+        {
+          "reading": "Approaches Darba north of the flooded river delta; passes villages, fields and mills without separate played stops."
+        }
+      ],
+      "note": "The geographical account is explicitly a mix of travelers’ information and journey narration. Arrival through the gates is established only by the final u1247–u1249 transition, after the historical vision."
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1035",
+        "endUid": "u1048"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The diamond’s history shows an unknown dwarf shaping it in an underground workshop.",
+      "evidence": [
+        {
+          "startUid": "u1035",
+          "endUid": "u1038",
+          "quote": "You see a series of images that kind of flashed before the mirror. The first one is is a dwarf sitting in in a workshop and you're sort of staring up at this like massively enlarged dwarven eye like through the back of the lens right and."
+        },
+        {
+          "startUid": "u1039",
+          "endUid": "u1039",
+          "quote": "Familiar? Any idea, like, what family the dwarf is from? Like, any kind of, you know, what—you know, we got two dwarves here. Like, are they like, 'Oh shit, it's like a Thorn Burger'?"
+        },
+        {
+          "startUid": "u1040",
+          "endUid": "u1041",
+          "quote": "You don't you don't recognize this particular dwarf, and I um."
+        },
+        {
+          "startUid": "u1042",
+          "endUid": "u1043",
+          "quote": "But whoever it is seems to be paying an inordinate amount of attention to sort of crafting and shaping this this diamond, and occasionally, like, holding it up and examining it. And, you know, you're in a underground, you know, workshop. Like, clearly some gem cutters. And this seems to be…"
+        },
+        {
+          "startUid": "u1044",
+          "endUid": "u1046",
+          "quote": "You know, you know enough about kind of dwarven architecture and dwarven history that this isn't a— this doesn't look Yuvanti, right? So this isn't a super recent event, right? This is in some city that looks unfamiliar to both of you, so, so probably not from either the Nardith kingdom in the rocky mountains or from Seeker's."
+        },
+        {
+          "startUid": "u1047",
+          "endUid": "u1048",
+          "quote": "But of course there's many other places where where dwarves are, and in fact the one that's most known for gem cutting is sort of to the west of the West of Seeker's homeland's like in the mountains."
+        }
+      ],
+      "place": "p12",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u1049",
+        "endUid": "u1063"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The diamond’s history follows a forest river road, tentatively recognized as the forest the party has discussed.",
+      "evidence": [
+        {
+          "startUid": "u1049",
+          "endUid": "u1053",
+          "quote": "And then, just like a, you know, a flash of images passed by: being traded, you know, first two other dwarves. Then the flash of sun and forest as you travel along a road through…"
+        },
+        {
+          "startUid": "u1054",
+          "endUid": "u1054",
+          "quote": "Big forests massive trees like redwoods stretching to the sky, as you follow the course of a river down from the mountains."
+        },
+        {
+          "startUid": "u1055",
+          "endUid": "u1055",
+          "quote": "That's where we're going."
+        },
+        {
+          "startUid": "u1056",
+          "endUid": "u1056",
+          "quote": "Then a flash again."
+        },
+        {
+          "startUid": "u1057",
+          "endUid": "u1057",
+          "quote": "We're doing current places. That sounds like a river that's flowing down towards Chardon?"
+        },
+        {
+          "startUid": "u1058",
+          "endUid": "u1058",
+          "quote": "Ah yes, this is, this is probably in the, this is probably the forest that you've been talking about this."
+        },
+        {
+          "startUid": "u1059",
+          "endUid": "u1060",
+          "quote": "Year yeah where the {{secret where where the secret Copyright Office}}? And that's where we got to go there."
+        },
+        {
+          "startUid": "u1061",
+          "endUid": "u1061",
+          "quote": "Yeah I thought that was our next destination."
+        },
+        {
+          "startUid": "u1062",
+          "endUid": "u1062",
+          "quote": "That means this then is headed towards Chardon right now."
+        },
+        {
+          "startUid": "u1063",
+          "endUid": "u1063",
+          "quote": "Ah yes."
+        }
+      ],
+      "place": "p13",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1064",
+        "endUid": "u1074"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The vision shows Chardon briefly, then a storeroom and a locked chest.",
+      "evidence": [
+        {
+          "startUid": "u1064",
+          "endUid": "u1068",
+          "quote": "Next chart—next you see the brief glimpse of the city of Chardon from a you know, as you're being held and placed into a locked chest. Hardly hardly just a flash, right? You only recognize it as Chardon from the silhouette of this enormous, this like extinct volcano and just the sort of black glass of the mouth of the obsidian mountain that looms over the city itself, on the other side of the River."
+        },
+        {
+          "startUid": "u1069",
+          "endUid": "u1072",
+          "quote": "And then a flash again: some store room, chests of coin, elaborate wooden locked chests, and darkness, then as the gem is locked in a chest."
+        },
+        {
+          "startUid": "u1073",
+          "endUid": "u1074",
+          "quote": "And then just blackness for a long time then…"
+        }
+      ],
+      "place": "p14",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1090",
+        "endUid": "u1091"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The diamond’s journey reaches Tokra and another storeroom in the vision.",
+      "evidence": [
+        {
+          "startUid": "u1090",
+          "endUid": "u1091",
+          "quote": "And then you recognize the city of Tokra. Again put in a store room there."
+        }
+      ],
+      "place": "p15",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u1092",
+        "endUid": "u1119"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The final image shows an older Dunmari man anxiously handing the diamond to Agata in her hut.",
+      "evidence": [
+        {
+          "startUid": "u1092",
+          "endUid": "u1100",
+          "quote": "And then the final vision: sitting in Agata's room in her hut, tea—drinking tea, an older Dunmari man holding the diamond and speaking urgently and quickly to Agata, almost seeming almost pleading and anxious, and handing it over."
+        },
+        {
+          "startUid": "u1101",
+          "endUid": "u1101",
+          "quote": "Who's the man?"
+        },
+        {
+          "startUid": "u1102",
+          "endUid": "u1102",
+          "quote": "Nobody you recognize."
+        },
+        {
+          "startUid": "u1103",
+          "endUid": "u1103",
+          "quote": "What did he look like any distinctive characteristics?"
+        },
+        {
+          "startUid": "u1104",
+          "endUid": "u1104",
+          "quote": "They are…"
+        },
+        {
+          "startUid": "u1105",
+          "endUid": "u1108",
+          "quote": "Maybe in their late 50s. Short cropped gray hair. Look to have been— like red eyes from long nights of no sleep or tears or some combination of the of the both."
+        },
+        {
+          "startUid": "u1109",
+          "endUid": "u1110",
+          "quote": "Wrinkled face seem to be not not no particularly elaborate clothes or anything. Like, this is incongruous, the amount of wealth that they're holding in your hand compared to…"
+        },
+        {
+          "startUid": "u1111",
+          "endUid": "u1112",
+          "quote": "What their person looks like and what they're wearing typical sort of Dunmari traveling clothes sort of grays and browns. No weapons."
+        },
+        {
+          "startUid": "u1113",
+          "endUid": "u1115",
+          "quote": "But just from a pure intuition, Tim, does this look like a person of, like— you know, either nobility? You know, obviously they're dressing travel cloak. Whoever whoever is doing this is moving in, you know, they're not wearing like royal insignia and shit, but do they have like a presence about them do they do, they seem like a person that you know, has been in fucking you know, do they seem like nobility or or somebody of prestige just based on like how they're how they're holding themselves?"
+        },
+        {
+          "startUid": "u1116",
+          "endUid": "u1116",
+          "quote": "No."
+        },
+        {
+          "startUid": "u1117",
+          "endUid": "u1119",
+          "quote": "If anything, this looks like this looks like a— definitely not that. The way they're sort of carrying themselves and walking and holding this conversation, this seems like somebody who is desperate and out of their depth."
+        }
+      ],
+      "place": "p16",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Agata",
+        "Desperate older Dunmari man"
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u1199",
+        "endUid": "u1205"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "On the Darba approach, the party sees the Illorian district across the flooded river, outside the city walls.",
+      "evidence": [
+        {
+          "startUid": "u1199",
+          "endUid": "u1201",
+          "quote": "The city itself, though, even outside the walls, is pretty densely settled, right? So there's a, like, shanty town of wooden dwellings and flooded muddy streets on the south side of the river. Now, in the monsoon flood there's small boats that are you can see in the distance going back and forth from the sort of main harbor on the North side to the sort of more informal harbor on the South side."
+        },
+        {
+          "startUid": "u1202",
+          "endUid": "u1205",
+          "quote": "Many of these are distinctive high-prowed Illorian-hulled boats that that form of ferry service going back and forth. And this, you've heard people tell this: outside the walls to the south of the river is really that often the Illorian district. It's where a lot of Illorians, the people settled the islands in the Nevos Sea and also, at one point were the rulers briefly after the Great War conquered Darba and many of them live in the sort of swamp slums now."
+        }
+      ],
+      "place": "p18",
+      "mode": "local"
+    }
+  ]
+}
