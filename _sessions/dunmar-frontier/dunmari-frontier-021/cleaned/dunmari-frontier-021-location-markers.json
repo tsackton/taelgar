@@ -1,0 +1,806 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-021",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-session.yaml",
+    "sessionYamlSha256": "c4aabeef76bc34f45ea12f9ba9b369a65cd06bd76c9ff5df85559860fddea793",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-transcript.md",
+    "transcriptSha256": "6345680713f098abbc00319ff49326f55adc314759dcd1c434f669ccf3804e96"
+  },
+  "places": {
+    "p01": {
+      "label": "Canyon rim above Havdar’s camp",
+      "kind": "cliff",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "You're standing at the lip of a small canyon, looking down at the camp of Havdar's warriors about 30–40 feet below. There's a small spring that trickles out of the side of the canyon, filling a narrow pool with clean water now dirtied with the blood of orcs and people; a row of tents, a cooking area, the horses tethered in the distance. The sort of normal detritus and and gear that get scattered around the camp give an echo of what used to be a sort of peaceful setup, now thrown into chaos by this battle.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0007",
+              "quote": "You're standing at the lip of a small canyon, looking down at the camp of Havdar's warriors about 30–40 feet below. There's a small spring that trickles out of the side of the canyon, filling a narrow pool with clean water now dirtied with the blood of orcs and people; a row of tents, a cooking area, the horses tethered in the distance. The sort of normal detritus and and gear that get scattered around the camp give an echo of what used to be a sort of peaceful setup, now thrown into chaos by this battle.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Havdar’s oasis camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "You're standing at the lip of a small canyon, looking down at the camp of Havdar's warriors about 30–40 feet below. There's a small spring that trickles out of the side of the canyon, filling a narrow pool with clean water now dirtied with the blood of orcs and people; a row of tents, a cooking area, the horses tethered in the distance. The sort of normal detritus and and gear that get scattered around the camp give an echo of what used to be a sort of peaceful setup, now thrown into chaos by this battle.\n\n"
+        },
+        {
+          "startUid": "u0213",
+          "endUid": "u0219",
+          "quote": "Yep, okay. So you sort of roughly slings—you know you're all pretty weak, but between two of you, you can sort of manage to manhandle the orc down to—down the—off the side of a cliff. So the you know the canyon sort of slopes down a bit, so you go around the long way and then and then come, you know, down into Havdar's camp. And, as you come down to the camp, you can see you know this looking pretty rough. Like there's some you know there's it looks like four of Havdar's warriors are dead, and a number are badly wounded. And he is you know, after having sort of cleaned himself up, he is sort of just going around to his troops, you know sort of offering words of support encouragement. But when he sees you you know coming down, especially with the orc, he walks over to you.\n\n"
+        }
+      ],
+      "note": "The unnamed small canyon is not identified as Daraar Canyon. The prior session’s campaign record (Campaigns/Dunmari Frontier Campaign/Session Notes/Session 20 (DuFr).md) places this episode in Nashtkar; that is supplementary orientation, not transcript-established containment.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0007",
+              "quote": "You're standing at the lip of a small canyon, looking down at the camp of Havdar's warriors about 30–40 feet below. There's a small spring that trickles out of the side of the canyon, filling a narrow pool with clean water now dirtied with the blood of orcs and people; a row of tents, a cooking area, the horses tethered in the distance. The sort of normal detritus and and gear that get scattered around the camp give an echo of what used to be a sort of peaceful setup, now thrown into chaos by this battle.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Small canyon at Havdar’s camp",
+      "kind": "canyon",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "You're standing at the lip of a small canyon, looking down at the camp of Havdar's warriors about 30–40 feet below. There's a small spring that trickles out of the side of the canyon, filling a narrow pool with clean water now dirtied with the blood of orcs and people; a row of tents, a cooking area, the horses tethered in the distance. The sort of normal detritus and and gear that get scattered around the camp give an echo of what used to be a sort of peaceful setup, now thrown into chaos by this battle.\n\n"
+        }
+      ]
+    },
+    "p04": {
+      "label": "Funeral pyres south of camp",
+      "kind": "funeral ground",
+      "evidence": [
+        {
+          "startUid": "u1066",
+          "endUid": "u1072",
+          "quote": "So um separately, so the orcs are burning in this large, large pyre, but separately from from where the orcs are, sort of four individual pyres have been set up kind of along the the canyon wall south of where the camp was. And on each one is a body that's been wrapped, their gear removed in and packed. And um, Aram is sort of standing over each one and speak some, you know, began to sort of speak of them. Havdar says a few words, you know, wishing them peace in their journey to Arkaash, to be blessed and gathered by the gods.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "south_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1066",
+              "endUid": "u1072",
+              "quote": "So um separately, so the orcs are burning in this large, large pyre, but separately from from where the orcs are, sort of four individual pyres have been set up kind of along the the canyon wall south of where the camp was. And on each one is a body that's been wrapped, their gear removed in and packed. And um, Aram is sort of standing over each one and speak some, you know, began to sort of speak of them. Havdar says a few words, you know, wishing them peace in their journey to Arkaash, to be blessed and gathered by the gods.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Dry Kharja river valley",
+      "kind": "river valley",
+      "evidence": [
+        {
+          "startUid": "u1485",
+          "endUid": "u1500",
+          "quote": "And really, it's even more barren and dry then, then what you've been passing through before. And on the—now let's see, 1, 2, 3, 4—on the fifth day of—since you left camp, including the day you left camp, um, as the morning sun rises, and you begin to turn east, looking to find the Kharja river, and or the dry river, and search for signs of water, and then turn north to the monastery. And Wellby, can you give me a survival check? Um.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Kharja.md"
+    },
+    "p06": {
+      "label": "Sheltered riverbank camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1518",
+          "endUid": "u1532",
+          "quote": "And as you be—as you set your camp down in the shelter of the valley, you can you, you can almost smell, you can tell that there's water somewhere, right? Even though everything's dry and dusty, there's just this sort of feeling in the air. That there's a few like little pieces of like little bits of like woody shrubs kind of growing up in the shelter of the of the bluffs. You know it definitely has a feeling like this dry riverbed is not entirely dry.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1518",
+              "endUid": "u1532",
+              "quote": "And as you be—as you set your camp down in the shelter of the valley, you can you, you can almost smell, you can tell that there's water somewhere, right? Even though everything's dry and dusty, there's just this sort of feeling in the air. That there's a few like little pieces of like little bits of like woody shrubs kind of growing up in the shelter of the of the bluffs. You know it definitely has a feeling like this dry riverbed is not entirely dry.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "River approach south of Kharsan",
+      "kind": "lookout",
+      "evidence": [
+        {
+          "startUid": "u1572",
+          "endUid": "u1580",
+          "quote": "By late morning, you still find yourself um, unsure of how far north Kharsan is, and resting for a moment in the sun—coming out of the sun in the shade of the bluff walls. Until maybe three, four in the afternoon, a few hours after you've started up again, you see—the first thing that you can see on the horizon to the north is what looks like the side of an enormous statue.\n\n"
+        },
+        {
+          "startUid": "u1748",
+          "endUid": "u1749",
+          "quote": "On this, I think I set the scale so this is correct in miles, yes. So you are—this is the fort that's—this is the fort that's under construction. This is the city itself. I'll tell you what you see in the city in a minute. This is the monastery. You're you're now another three miles south of this point.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1566",
+              "endUid": "u1580",
+              "quote": "So you turn north the next morning, following—following the dry river. Um. Now I assume traveling you know quietly and as stealthily as you can. The geology stays largely constant as you head north, the—you know the cliffs on the on the left sometimes dropping lower, sometimes rising higher, the gravel floodplains across stretching out to your right.\n\n"
+            }
+          ]
+        },
+        {
+          "relation": "south_of",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1748",
+              "endUid": "u1749",
+              "quote": "On this, I think I set the scale so this is correct in miles, yes. So you are—this is the fort that's—this is the fort that's under construction. This is the city itself. I'll tell you what you see in the city in a minute. This is the monastery. You're you're now another three miles south of this point.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Kharsan",
+      "kind": "ruined city",
+      "evidence": [
+        {
+          "startUid": "u1591",
+          "endUid": "u1607",
+          "quote": "Um. So this, this is just—it's like the top of the stack of a statue poking up on the horizon, on the on these bluffs. And as you continue, you see now ahead of you in the distance the city of Kharsan. And closer than this, so—let me just let me see if I can set the scene. So.\n\n"
+        },
+        {
+          "startUid": "u1748",
+          "endUid": "u1760",
+          "quote": "On this, I think I set the scale so this is correct in miles, yes. So you are—this is the fort that's—this is the fort that's under construction. This is the city itself. I'll tell you what you see in the city in a minute. This is the monastery. You're you're now another three miles south of this point.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Kharsan.md"
+    },
+    "p09": {
+      "label": "Fort under construction south of Kharsan",
+      "kind": "fort",
+      "evidence": [
+        {
+          "startUid": "u1629",
+          "endUid": "u1636",
+          "quote": "A temple shrine type thing that reminds me a little bit, at least from a distance, of the temple of Shakun. Like columnar pillars at the entrance, and then two tall towers standing out from the grounds. Other details can't be discerned from this distance. Then beyond that, in between that and the city, um there is... Let's see, it's four in the afternoon, so there's a, there is a building or fort of some kind, of a—walls and twisting, twisting walls, a sort of almost warren-like fort being constructed. It seems to be four fifths finished, and you can see that there's some activity around it at the moment.\n\n"
+        },
+        {
+          "startUid": "u1876",
+          "endUid": "u1891",
+          "quote": "Yeah, so it's—it almost looks like you know somebody dropped some noodles on a plate, and then everywhere where a noodle stuck out from the center, they just built a wall. Basically it's like um it's almost like a spider web of construction. Like there's you know there's there's like a little wall that'll that'll you know go out like you know, like that, um, like that, and then you know, there will be—I'm doing a very bad job drawing, but but you got the the basic idea, is there's like um, you know it's just it's very like webby mass of construction, almost like somebody trying to recreate like a cave complex or something like that. And then parts of it are roofed over.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "south_of",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1629",
+              "endUid": "u1636",
+              "quote": "A temple shrine type thing that reminds me a little bit, at least from a distance, of the temple of Shakun. Like columnar pillars at the entrance, and then two tall towers standing out from the grounds. Other details can't be discerned from this distance. Then beyond that, in between that and the city, um there is... Let's see, it's four in the afternoon, so there's a, there is a building or fort of some kind, of a—walls and twisting, twisting walls, a sort of almost warren-like fort being constructed. It seems to be four fifths finished, and you can see that there's some activity around it at the moment.\n\n"
+            },
+            {
+              "startUid": "u1637",
+              "endUid": "u1641",
+              "quote": "And then further north from there is the city itself. And so this the elevation is such that the these 12 monuments, the step pyramids with statues and things, are high up, sort of looking down across the water. And then there's the plains, and then the plains the floodplains begin to slope up gradually. And so the presumably monastery, the fort under construction, and the ruin city itself are all sat um on the sort of upslope of this floodplain. You are certainly far enough away that you know, nobody has seen you or is aware of you, maybe seven to 10 miles from the city.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Ancient royal tombs",
+      "kind": "necropolis",
+      "evidence": [
+        {
+          "startUid": "u1591",
+          "endUid": "u1622",
+          "quote": "Um. So this, this is just—it's like the top of the stack of a statue poking up on the horizon, on the on these bluffs. And as you continue, you see now ahead of you in the distance the city of Kharsan. And closer than this, so—let me just let me see if I can set the scene. So.\n\n"
+        },
+        {
+          "startUid": "u1816",
+          "endUid": "u1829",
+          "quote": "Is there anything you want more detail on? Besides whatever—and then there's the monuments here, which I already sort of described. So there's three that are substantially larger. There's this one, which is the, the Bhishma monument, there’s this one which is the like three tiered one, and then there's this one, which is the one furthest to the north. Um and is large but seems unfinished, like it's designed to be bigger than, at least as big as, as this one. But there's a statue on top that is um, hastily and imprecisely finished, and it looks like there’s supposed to be some sort of building resting near the statue that was never built. It seems incomplete.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1597",
+              "endUid": "u1602",
+              "quote": "Maybe 10 miles north of here, the city of Kharsan itself, lying in this sort of—not directly in the floodplain, but on the, on the—you're right, on the eastern side, much of it in rubble. It's far enough away that you can't really discern details. Um. You see directly ahead of you again, this is all about 10 miles away, so everything's kind of just fuzzy in the distance, right? It's like it's like you know the view of of Boston from that hill on Route 2 right you're just looking far away. You're not really seeing a lot. Um. The—but you do see the bridge, Delwath, where you believe you first appeared.\n\n"
+            },
+            {
+              "startUid": "u1603",
+              "endUid": "u1607",
+              "quote": "And then a row along the bluffs on your left of—it's hard to know how to describe the monuments temples, tombs, something. And each one of them is different in architecture and form, but they share a few similarities. So all of them have designs that are—they're almost like step pyramids, but they have five, five, five staircases leading up to a platform between 30 and 60–70 feet off the ground. So shaped like…\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Monastery of Bhishma",
+      "kind": "monastery",
+      "evidence": [
+        {
+          "startUid": "u1624",
+          "endUid": "u1628",
+          "quote": "That's to your left. On your right, about three miles, four miles from here, so maybe—say maybe five miles from here, maybe three miles south of the, of the city, is another building, complex of buildings.\n\n"
+        },
+        {
+          "startUid": "u1906",
+          "endUid": "u1915",
+          "quote": "Ok, so the monastery the monastery is a complex of five buildings, all of which seems surprisingly, like significantly more intact than the city of Kharsan itself. Um, the, um, probably most—the largest building is—so there's two kind of smaller, like two-, three-storey buildings without any particularly like fancy decorations. And all—I, you know what before we play next time, I'll make you a map of the monastery as well and throw that up on Roll20 um.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma.md",
+      "relations": [
+        {
+          "relation": "south_of",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1624",
+              "endUid": "u1628",
+              "quote": "That's to your left. On your right, about three miles, four miles from here, so maybe—say maybe five miles from here, maybe three miles south of the, of the city, is another building, complex of buildings.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Central palace",
+      "kind": "palace",
+      "evidence": [
+        {
+          "startUid": "u1756",
+          "endUid": "u1760",
+          "quote": "Most of the buildings are are just foundations, and it looks like stone has been carted away. Like it's not just rubble, it's not things have fallen, it's that it's that you know the sandstone was quarried and taken somewhere. You can see like the like the little bits, like edge of a dock like up here where there used to be you know a port. Like there's some foundations around here, what was presumably like the sort of warehouses, and and and maybe the areas where people were, many of the people who didn't live here permanently but pass through and and settled for a season would live. But again, everything sort of to the north has been sort of cleared out. In the very center of the city, there is what looks like a palace, surrounded by its own walls, that's right here, that seems to be actually in quite good shape. But it also is dark, like unusually dark. Like it seems to be like shadow seems to cling to it.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1756",
+              "endUid": "u1760",
+              "quote": "Most of the buildings are are just foundations, and it looks like stone has been carted away. Like it's not just rubble, it's not things have fallen, it's that it's that you know the sandstone was quarried and taken somewhere. You can see like the like the little bits, like edge of a dock like up here where there used to be you know a port. Like there's some foundations around here, what was presumably like the sort of warehouses, and and and maybe the areas where people were, many of the people who didn't live here permanently but pass through and and settled for a season would live. But again, everything sort of to the north has been sort of cleared out. In the very center of the city, there is what looks like a palace, surrounded by its own walls, that's right here, that seems to be actually in quite good shape. But it also is dark, like unusually dark. Like it seems to be like shadow seems to cling to it.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Bhishma fountain",
+      "kind": "fountain",
+      "evidence": [
+        {
+          "startUid": "u1931",
+          "endUid": "u1938",
+          "quote": "And that, in the center of this all, there is a fountain flowing. Everything, all the architecture is like smooth, flowing, like no square edges, no hard facets. Everything looks like sort of waterfalls, looks like you know flowing water. Looks like, um, you know, and and the fountain itself is sort of built around a representation of Bhishma, and the water flows down from her cheeks to form the fountain. And it's still—there is water still flowing in this fountain, flowing down from her cheeks, collecting at the bottom of the sort of waterfall of stone, pooling there. There must be some mechanism that recycles the water, because it keeps flowing in a circle.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1931",
+              "endUid": "u1936",
+              "quote": "And that, in the center of this all, there is a fountain flowing. Everything, all the architecture is like smooth, flowing, like no square edges, no hard facets. Everything looks like sort of waterfalls, looks like you know flowing water. Looks like, um, you know, and and the fountain itself is sort of built around a representation of Bhishma, and the water flows down from her cheeks to form the fountain. And it's still—there is water still flowing in this fountain, flowing down from her cheeks, collecting at the bottom of the sort of waterfall of stone, pooling there. There must be some mechanism that recycles the water, because it keeps flowing in a circle.\n\n"
+            },
+            {
+              "startUid": "u1937",
+              "endUid": "u1938",
+              "quote": "And that's in the center of that, of these—that is sort of, of these four buildings. From this distance and at this time of day, you see nothing moving in the monastery.\n\n"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is at the lip of a small canyon above Havdar’s camp.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "You're standing at the lip of a small canyon, looking down at the camp of Havdar's warriors about 30–40 feet below. There's a small spring that trickles out of the side of the canyon, filling a narrow pool with clean water now dirtied with the blood of orcs and people; a row of tents, a cooking area, the horses tethered in the distance. The sort of normal detritus and and gear that get scattered around the camp give an echo of what used to be a sort of peaceful setup, now thrown into chaos by this battle.\n\n"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0213",
+        "endUid": "u0219"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party carries the captive around and down into Havdar’s camp.",
+      "evidence": [
+        {
+          "startUid": "u0213",
+          "endUid": "u0219",
+          "quote": "Yep, okay. So you sort of roughly slings—you know you're all pretty weak, but between two of you, you can sort of manage to manhandle the orc down to—down the—off the side of a cliff. So the you know the canyon sort of slopes down a bit, so you go around the long way and then and then come, you know, down into Havdar's camp. And, as you come down to the camp, you can see you know this looking pretty rough. Like there's some you know there's it looks like four of Havdar's warriors are dead, and a number are badly wounded. And he is you know, after having sort of cleaned himself up, he is sort of just going around to his troops, you know sort of offering words of support encouragement. But when he sees you you know coming down, especially with the orc, he walks over to you.\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1060",
+        "endUid": "u1077"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party joins the funeral south of camp along the canyon wall.",
+      "evidence": [
+        {
+          "startUid": "u1060",
+          "endUid": "u1065",
+          "quote": "So so Havdar's still sitting there, and he says, \"I, you know, perhaps there is time for more planning in the morning. At the moment, Aram is gonna say some words to put to rest the four of our companions who died. It's up to you. You did not know them, but if you would like to join us for a moment, I'm sure it would be appreciated.\"\n\n"
+        },
+        {
+          "startUid": "u1066",
+          "endUid": "u1077",
+          "quote": "So um separately, so the orcs are burning in this large, large pyre, but separately from from where the orcs are, sort of four individual pyres have been set up kind of along the the canyon wall south of where the camp was. And on each one is a body that's been wrapped, their gear removed in and packed. And um, Aram is sort of standing over each one and speak some, you know, began to sort of speak of them. Havdar says a few words, you know, wishing them peace in their journey to Arkaash, to be blessed and gathered by the gods.\n\n"
+        },
+        {
+          "startUid": "u1064",
+          "endUid": "u1065",
+          "quote": "We’ll join.\n\n"
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u1084",
+        "endUid": "u1088"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party shares the evening meal with Havdar’s troop at camp.",
+      "evidence": [
+        {
+          "startUid": "u1084",
+          "endUid": "u1088",
+          "quote": "And as the—as the funeral winds down and people sort of dispersed to you know eat to take their evening meal as the sun sets, Havdar comes over to you. And he's carrying a bow with him, and he turns to to you, Wellby, and he says,\n\n"
+        },
+        {
+          "startUid": "u1247",
+          "endUid": "u1250",
+          "quote": "Okay, so you you know you hang out. You have have you know your dinner with with Havdar's troop, and you hear stories about the four who died, and you know, stay up kind of you know, with music and drinking and stuff a bit into the night. Guards are posted, obviously, but nobody expects any of you to watch. With the bodies safely burned, nothing terrible happens at night. Maybe nothing terrible would have happened anyway.\n\n"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1394",
+        "endUid": "u1401"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party rides south across canyonlands and barren desert, then east to the dry Kharja and makes camp in the sheltered valley.",
+      "evidence": [
+        {
+          "startUid": "u1394",
+          "endUid": "u1401",
+          "quote": "Yeah, so you cover you cover maybe 60 miles between the rest of the—leaving after the hottest part of the day, so getting in three, four hours of travel into the night here. Saying farewell to Havdar. He, he does—you—I mean he'll be here for another week, so if you are back, he'd be happy to travel west with you. Um. If not, he expects to see you back in Kharsan.\n\n"
+        },
+        {
+          "startUid": "u1468",
+          "endUid": "u1476",
+          "quote": "Um so you spend the afternoon that you leave camp and then the next two days, um, traveling south as you know, quickly as you can, pushing yourself, maybe hitting 30 miles a day. You know all on horses, you've got your—you've got supplies again from Havdar, you're able to refill your many water skins from the oasis he was camped out things like that. Um.\n\n"
+        },
+        {
+          "startUid": "u1480",
+          "endUid": "u1491",
+          "quote": "After traveling yeah about 60 miles, the next day you continue south, but maybe only going 25 or so miles, not pushing yourself quite as hard. And now you're heading into the sort of—the real desert desert. I mean, this is the barren, barren sands. Pretty much everything's dry. There's no life, there's no plants, is just rock and sand, as you as you sort of cross that transition point, which is just about parallel with Kharsan, this sort of transition point between the more hospitable desert and just open expanse of sand. So going as a little bit slower here. Um you know it's kind of hard you can't really conceal yourself very well, you've got you know with your horses and your gear, and just traveling across the sand. There's not much you can do, but you're at least keeping a sharp eye out for anything that might be moving.\n\n"
+        },
+        {
+          "startUid": "u1492",
+          "endUid": "u1500",
+          "quote": "You travel for most of the day before coming to a—a drop, like the, the—and terrain of the desert just sort of drops out underneath from you, and below you, you see the expanse of a dry riverbed um, running north—north, south. There is nothing growing here. Why don't you give me perception checks?\n\n"
+        },
+        {
+          "startUid": "u1518",
+          "endUid": "u1522",
+          "quote": "And as you be—as you set your camp down in the shelter of the valley, you can you, you can almost smell, you can tell that there's water somewhere, right? Even though everything's dry and dusty, there's just this sort of feeling in the air. That there's a few like little pieces of like little bits of like woody shrubs kind of growing up in the shelter of the of the bluffs. You know it definitely has a feeling like this dry riverbed is not entirely dry.\n\n"
+        }
+      ],
+      "from": "p02",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Ride south through canyonlands for departure afternoon and two further days; about sixty miles in all."
+        },
+        {
+          "reading": "Continue south roughly twenty-five miles the following day, into barren sand."
+        },
+        {
+          "reading": "On the fifth day including departure, turn east and reach the dry river late in the day.",
+          "place": "p05"
+        }
+      ],
+      "duration": {
+        "text": "departure afternoon through the fifth day including departure",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Explicit compressed travel narration"
+      }
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1566",
+        "endUid": "u1580"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party follows the dry river north, pauses in shade, then reaches a distant lookout south of Kharsan.",
+      "evidence": [
+        {
+          "startUid": "u1566",
+          "endUid": "u1580",
+          "quote": "So you turn north the next morning, following—following the dry river. Um. Now I assume traveling you know quietly and as stealthily as you can. The geology stays largely constant as you head north, the—you know the cliffs on the on the left sometimes dropping lower, sometimes rising higher, the gravel floodplains across stretching out to your right.\n\n"
+        },
+        {
+          "startUid": "u1748",
+          "endUid": "u1749",
+          "quote": "On this, I think I set the scale so this is correct in miles, yes. So you are—this is the fort that's—this is the fort that's under construction. This is the city itself. I'll tell you what you see in the city in a minute. This is the monastery. You're you're now another three miles south of this point.\n\n"
+        },
+        {
+          "startUid": "u1572",
+          "endUid": "u1580",
+          "quote": "By late morning, you still find yourself um, unsure of how far north Kharsan is, and resting for a moment in the sun—coming out of the sun in the shade of the bluff walls. Until maybe three, four in the afternoon, a few hours after you've started up again, you see—the first thing that you can see on the horizon to the north is what looks like the side of an enormous statue.\n\n"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Follow the dry river north, resting under bluff walls during the heat.",
+          "place": "p05"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1591",
+        "endUid": "u1607"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees distant Kharsan without entering it.",
+      "evidence": [
+        {
+          "startUid": "u1591",
+          "endUid": "u1607",
+          "quote": "Um. So this, this is just—it's like the top of the stack of a statue poking up on the horizon, on the on these bluffs. And as you continue, you see now ahead of you in the distance the city of Kharsan. And closer than this, so—let me just let me see if I can set the scene. So.\n\n"
+        }
+      ],
+      "place": "p08",
+      "mode": "local",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1608",
+        "endUid": "u1622"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees monumental tombs across the river, including a Bhishma statue.",
+      "evidence": [
+        {
+          "startUid": "u1603",
+          "endUid": "u1619",
+          "quote": "And then a row along the bluffs on your left of—it's hard to know how to describe the monuments temples, tombs, something. And each one of them is different in architecture and form, but they share a few similarities. So all of them have designs that are—they're almost like step pyramids, but they have five, five, five staircases leading up to a platform between 30 and 60–70 feet off the ground. So shaped like…\n\n"
+        },
+        {
+          "startUid": "u1621",
+          "endUid": "u1622",
+          "quote": "So um, the—don't—the only one that has a statue of a person, a large statue a person is the kneeling woman, who you recognize as Bhishma.\n\n"
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1623",
+        "endUid": "u1628"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees the monastery at a distance.",
+      "evidence": [
+        {
+          "startUid": "u1624",
+          "endUid": "u1628",
+          "quote": "That's to your left. On your right, about three miles, four miles from here, so maybe—say maybe five miles from here, maybe three miles south of the, of the city, is another building, complex of buildings.\n\n"
+        },
+        {
+          "startUid": "u1629",
+          "endUid": "u1636",
+          "quote": "A temple shrine type thing that reminds me a little bit, at least from a distance, of the temple of Shakun. Like columnar pillars at the entrance, and then two tall towers standing out from the grounds. Other details can't be discerned from this distance. Then beyond that, in between that and the city, um there is... Let's see, it's four in the afternoon, so there's a, there is a building or fort of some kind, of a—walls and twisting, twisting walls, a sort of almost warren-like fort being constructed. It seems to be four fifths finished, and you can see that there's some activity around it at the moment.\n\n"
+        }
+      ],
+      "place": "p11",
+      "mode": "local",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1629",
+        "endUid": "u1659"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The fort is visible between monastery and city; Wellby uses his spyglass to inspect its builders.",
+      "evidence": [
+        {
+          "startUid": "u1629",
+          "endUid": "u1659",
+          "quote": "A temple shrine type thing that reminds me a little bit, at least from a distance, of the temple of Shakun. Like columnar pillars at the entrance, and then two tall towers standing out from the grounds. Other details can't be discerned from this distance. Then beyond that, in between that and the city, um there is... Let's see, it's four in the afternoon, so there's a, there is a building or fort of some kind, of a—walls and twisting, twisting walls, a sort of almost warren-like fort being constructed. It seems to be four fifths finished, and you can see that there's some activity around it at the moment.\n\n"
+        },
+        {
+          "startUid": "u1646",
+          "endUid": "u1646",
+          "quote": "Use the spyglass and look at the—what's the fort thing that's being built, see if there's any more detail that's visible.\n\n"
+        },
+        {
+          "startUid": "u1653",
+          "endUid": "u1659",
+          "quote": "And it seems like there are humanoids—at this distance is impossible to tell what they, what humanoids they are—carting stone from the city. From the ruins of the city, like taking the the stone from the city to build this fort, whatever it is. There's definitely people, humanoids actively working on it. Not a lot. You can you count maybe 20 or so people moving in the landscape, half of which are hauling a, you know lined up in rows, right? So 10 little little rows of these tiny dots pulling on a sledge with giant blocks of stone.\n\n"
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u1752",
+        "endUid": "u1791"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby scouts the ruined city through the hawk’s senses and sees the palace and occupied fort beyond.",
+      "evidence": [
+        {
+          "startUid": "u1737",
+          "endUid": "u1738",
+          "quote": "Wellby spends a while flying over the land...\n\n"
+        },
+        {
+          "startUid": "u1748",
+          "endUid": "u1749",
+          "quote": "On this, I think I set the scale so this is correct in miles, yes. So you are—this is the fort that's—this is the fort that's under construction. This is the city itself. I'll tell you what you see in the city in a minute. This is the monastery. You're you're now another three miles south of this point.\n\n"
+        },
+        {
+          "startUid": "u1752",
+          "endUid": "u1755",
+          "quote": "Wow, so the city itself is large, and the thing that strikes you most about the city flying over, and from an aerial view, is both: it is clearly a city of monumental architecture, and it's also a city that has been looted many times. So the entire like northern half seems to have been... Like most of the northern parts of the walls are just gone.\n\n"
+        },
+        {
+          "startUid": "u1756",
+          "endUid": "u1760",
+          "quote": "Most of the buildings are are just foundations, and it looks like stone has been carted away. Like it's not just rubble, it's not things have fallen, it's that it's that you know the sandstone was quarried and taken somewhere. You can see like the like the little bits, like edge of a dock like up here where there used to be you know a port. Like there's some foundations around here, what was presumably like the sort of warehouses, and and and maybe the areas where people were, many of the people who didn't live here permanently but pass through and and settled for a season would live. But again, everything sort of to the north has been sort of cleared out. In the very center of the city, there is what looks like a palace, surrounded by its own walls, that's right here, that seems to be actually in quite good shape. But it also is dark, like unusually dark. Like it seems to be like shadow seems to cling to it.\n\n"
+        },
+        {
+          "startUid": "u1778",
+          "endUid": "u1782",
+          "quote": "So there are orcs carrying stone back and forth. You can see more orcs in this fort, um, probably less than 100 in total, but more than... Not a massive horde, but not a... You know the the the if it was like 40-ish orcs that were sent out by um, you know that attacked Havdar's camp, that would have been a significant fraction of their of their warriors, but there's not nobody left.\n\n"
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1816",
+        "endUid": "u1846"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby surveys royal tombs and divine shrines through the hawk.",
+      "evidence": [
+        {
+          "startUid": "u1816",
+          "endUid": "u1846",
+          "quote": "Is there anything you want more detail on? Besides whatever—and then there's the monuments here, which I already sort of described. So there's three that are substantially larger. There's this one, which is the, the Bhishma monument, there’s this one which is the like three tiered one, and then there's this one, which is the one furthest to the north. Um and is large but seems unfinished, like it's designed to be bigger than, at least as big as, as this one. But there's a statue on top that is um, hastily and imprecisely finished, and it looks like there’s supposed to be some sort of building resting near the statue that was never built. It seems incomplete.\n\n"
+        },
+        {
+          "startUid": "u1823",
+          "endUid": "u1829",
+          "quote": "Yeah, so this one is Bhishma. Um but in general, these aren't monuments of gods. These are tombs of rulers. But some of them do have a—do have like shrines to the gods on them. Like this one, the three tiered one, the middle tier that you can see now, Wellby, flying as a hawk with your sharp vision, has a statue of each of the five divine siblings arrayed at the top of each one of the staircases that forms the step pyramid. Another one, let's see...\n\n"
+        },
+        {
+          "startUid": "u1837",
+          "endUid": "u1839",
+          "quote": "This one that's sort of isolated on this point seems to be particularly devoted to Aagir. So there's a—it has the, the, the spear point motif that you found, that flame, the spear point with continual flame a while ago. That's Aagir's motif. And um, you know, has a large shrine to Aagir kind of on top of it, but it's not as grand scale as these three that are bigger.\n\n"
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1876",
+        "endUid": "u1902"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby surveys the orc fort through the hawk; the bird refuses to approach bow-bearing guards closely.",
+      "evidence": [
+        {
+          "startUid": "u1876",
+          "endUid": "u1902",
+          "quote": "Yeah, so it's—it almost looks like you know somebody dropped some noodles on a plate, and then everywhere where a noodle stuck out from the center, they just built a wall. Basically it's like um it's almost like a spider web of construction. Like there's you know there's there's like a little wall that'll that'll you know go out like you know, like that, um, like that, and then you know, there will be—I'm doing a very bad job drawing, but but you got the the basic idea, is there's like um, you know it's just it's very like webby mass of construction, almost like somebody trying to recreate like a cave complex or something like that. And then parts of it are roofed over.\n\n"
+        },
+        {
+          "startUid": "u1884",
+          "endUid": "u1886",
+          "quote": "The central area is open. There's like almost like a parade ground. You can see that there's some orcs training there. Um you know there's there's pits on the outside where there's animals roasting. There's—yeah what else do you want to know? I mean that's basically the your impression, but again, it's like less than 100 orcs, for sure.\n\n"
+        },
+        {
+          "startUid": "u1888",
+          "endUid": "u1889",
+          "quote": "Yes, you see a—there is a flag with this screaming face motif, and below it the rising sun motif.\n\n"
+        },
+        {
+          "startUid": "u1895",
+          "endUid": "u1897",
+          "quote": "Don't want to get too close, because you, I mean, the hawk refuses to get too close, because there are, you can see with its keen sight that there are orcs with bows mounted on the walls. And your sense from the hawk is that they shoot birds and eat them. So he won't get—the bird you're riding in won't get very close to the fort. But still, with a hawk eyesight, you have good eyesight. Um.\n\n"
+        },
+        {
+          "startUid": "u1898",
+          "endUid": "u1902",
+          "quote": "Yeah there's there's definitely you know some of the enclosed areas that seem like—yeah it's it's it's hard to judge, but there's, I mean you can pick out like three or four kind of enclosed spaces that seemed to have you know guards posted, or you know people kind of milling about, that would suggest that they are somewhat more important than just the common spaces. Whether those are treasuries or weapons stores or commanders' quarters, it is a little bit hard to judge. But there's definitely like four, four spaces where you can see guards posted. And all enclosed, so all sort of in these—often there will be—so, like, in these webbing, webby things that go out, there was a roof on top of that, and then there will be guards posted in front. So it's almost like a like a room that extends off the side of the fort.\n\n"
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p07",
+      "observedActors": [
+        "Grash's orcs"
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u1906",
+        "endUid": "u1945"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby views the intact monastery buildings and flowing Bhishma fountain through the hawk; no movement is seen.",
+      "evidence": [
+        {
+          "startUid": "u1906",
+          "endUid": "u1945",
+          "quote": "Ok, so the monastery the monastery is a complex of five buildings, all of which seems surprisingly, like significantly more intact than the city of Kharsan itself. Um, the, um, probably most—the largest building is—so there's two kind of smaller, like two-, three-storey buildings without any particularly like fancy decorations. And all—I, you know what before we play next time, I'll make you a map of the monastery as well and throw that up on Roll20 um.\n\n"
+        },
+        {
+          "startUid": "u1931",
+          "endUid": "u1936",
+          "quote": "And that, in the center of this all, there is a fountain flowing. Everything, all the architecture is like smooth, flowing, like no square edges, no hard facets. Everything looks like sort of waterfalls, looks like you know flowing water. Looks like, um, you know, and and the fountain itself is sort of built around a representation of Bhishma, and the water flows down from her cheeks to form the fountain. And it's still—there is water still flowing in this fountain, flowing down from her cheeks, collecting at the bottom of the sort of waterfall of stone, pooling there. There must be some mechanism that recycles the water, because it keeps flowing in a circle.\n\n"
+        },
+        {
+          "startUid": "u1937",
+          "endUid": "u1938",
+          "quote": "And that's in the center of that, of these—that is sort of, of these four buildings. From this distance and at this time of day, you see nothing moving in the monastery.\n\n"
+        }
+      ],
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p07"
+    }
+  ]
+}

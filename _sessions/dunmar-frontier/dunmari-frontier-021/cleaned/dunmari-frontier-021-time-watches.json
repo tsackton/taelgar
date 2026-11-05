@@ -1,0 +1,173 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-time-markers.json",
+    "sha256": "e06b0a475d4a3f894e7e817fc15952f341fc941b887d2af95dc81b734e782b4c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-transcript.md",
+    "sha256": "6345680713f098abbc00319ff49326f55adc314759dcd1c434f669ccf3804e96"
+  },
+  "dateAssessment": "Working dates use YAML May 5–11, 1748. The transcript establishes May and six date transitions, matching that span conditional on the YAML start, but does not independently state the absolute opening date. Watches are stated or inferred from the retained anchors; the multi-day montage has no stated finishing watch. The short opening search is placed near the following sunset, and nighttime arrow practice before the completed overnight is estimated as dusk. The eight-hour long-rest convention ending at dawn implies a preceding dusk start.",
+  "watches": [
+    {
+      "day": "May 5, 1748",
+      "startDate": "1748-05-05",
+      "endDate": "1748-05-05",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "A brief search precedes the sunset interrogation; arrow practice follows at night.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "sourceRanges": [
+        [
+          "u0324",
+          "u0328"
+        ],
+        [
+          "u1188",
+          "u1192"
+        ]
+      ]
+    },
+    {
+      "day": "May 5–6, 1748",
+      "startDate": "1748-05-05",
+      "endDate": "1748-05-06",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Completed overnight long rest: eight hours by convention, ending as morning dawns.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "May 6, 1748",
+      "startDate": "1748-05-06",
+      "endDate": "1748-05-06",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Scouts return around midmorning after the party’s dawn camp chores.",
+      "markers": [
+        "t05"
+      ]
+    },
+    {
+      "day": "May 6, 1748",
+      "startDate": "1748-05-06",
+      "endDate": "1748-05-06",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Departure after the hottest hours; three or four hours of riding into night.",
+      "markers": [
+        "t06"
+      ]
+    },
+    {
+      "day": "May 8, 1748",
+      "startDate": "1748-05-08",
+      "endDate": "1748-05-08",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Departure afternoon and two following days of southbound travel; Baxter trains during this interval. Final watch unspecified.",
+      "markers": [
+        "t16",
+        "t07"
+      ]
+    },
+    {
+      "day": "May 9, 1748",
+      "startDate": "1748-05-09",
+      "endDate": "1748-05-09",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The next day brings slower southbound travel; no watch is stated.",
+      "markers": [
+        "t08"
+      ]
+    },
+    {
+      "day": "May 10, 1748",
+      "startDate": "1748-05-10",
+      "endDate": "1748-05-10",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Sunrise on the fifth day including departure; the party turns east.",
+      "markers": [
+        "t09"
+      ]
+    },
+    {
+      "day": "May 10, 1748",
+      "startDate": "1748-05-10",
+      "endDate": "1748-05-10",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Most of the day traveling; the dry river is reached with sun low and heat passing.",
+      "markers": [
+        "t10"
+      ]
+    },
+    {
+      "day": "May 10, 1748",
+      "startDate": "1748-05-10",
+      "endDate": "1748-05-10",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Setting sun at the sheltered river camp.",
+      "markers": [
+        "t11"
+      ]
+    },
+    {
+      "day": "May 11, 1748",
+      "startDate": "1748-05-11",
+      "endDate": "1748-05-11",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The next morning, travel resumes north along the dry river.",
+      "markers": [
+        "t12"
+      ]
+    },
+    {
+      "day": "May 11, 1748",
+      "startDate": "1748-05-11",
+      "endDate": "1748-05-11",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Late-morning pause in bluff-wall shade before resuming travel.",
+      "markers": [
+        "t13"
+      ]
+    },
+    {
+      "day": "May 11, 1748",
+      "startDate": "1748-05-11",
+      "endDate": "1748-05-11",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Distant lookout at about four; Wellby spends a while scouting through the hawk.",
+      "markers": [
+        "t14",
+        "t15"
+      ]
+    }
+  ]
+}
