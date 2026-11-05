@@ -9,12 +9,10 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-transcript.md",
     "sha256": "6f7eb6279b36585a15fcf170b372acd4dd83a0220c4253a521c700dfdcca3f37"
   },
-  "dateAssessment": "Working dates are June 2–4, 1748, following the dated Session 30 timeline within the YAML’s June 1–4 span. The transcript independently establishes dawn departure and two subsequent mornings, but no absolute date. The time extraction remains compatible, not matched: it does not account for the YAML’s June 1 start boundary. The final camp clock is about 1:30–2 p.m., despite “evening” in the session note. Cumulative boulder clocks overlap the flight, rescue, and exploration; they are not added as separate elapsed intervals. The final chair transformation begins after camp arrival; its ending watch is open.",
+  "dateAssessment": "The absolute dates remain unresolved. Within the YAML’s June 1–4, 1748 span, the three played days can occupy June 1–3 or June 2–4; the windows below preserve these linked alternatives, not independent choices for each row. Session 29 plans departure the next morning (u2688 and u2775–u2778) and closes at sunset before sleep (u3489–u3490); Session 30 opens at dawn (u0004–u0007). This handoff supports an intervening night but supplies no independent absolute date. The separate Session 30 timeline assigns June 2–4; it does not resolve the owning time extraction’s open boundary. That extraction remains compatible, not matched, with two explicit overnight transitions and an unresolved relationship to the YAML start. The final camp clock is about 1:30–2 p.m., despite “evening” in the session note. Cumulative boulder clocks overlap the flight, rescue, and exploration; they are not added as separate elapsed intervals. The final chair transformation begins after camp arrival; its ending watch is open.",
   "watches": [
     {
-      "day": "June 2, 1748",
-      "startDate": "1748-06-02",
-      "endDate": "1748-06-02",
+      "day": "During June 1–2, 1748",
       "startWatch": "dawn",
       "endWatch": "dawn",
       "basis": "stated",
@@ -22,34 +20,42 @@
       "markers": [
         "t01",
         "t02"
+      ],
+      "dateWindow": [
+        "1748-06-01",
+        "1748-06-02"
       ]
     },
     {
-      "day": "June 2, 1748",
-      "startDate": "1748-06-02",
-      "endDate": "1748-06-02",
+      "day": "During June 1–2, 1748",
       "startWatch": "morning",
       "endWatch": "morning",
       "basis": "stated",
       "summary": "Seeker examines the necklace on the first travel morning.",
       "markers": [
         "t03"
+      ],
+      "dateWindow": [
+        "1748-06-01",
+        "1748-06-02"
       ]
     },
     {
-      "day": "June 2, 1748",
-      "startDate": "1748-06-02",
-      "endDate": "1748-06-02",
+      "day": "During June 1–2, 1748",
       "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "inferred",
       "summary": "First travel day ends at an evening camp halfway to Bas Udda.",
       "markers": [
         "t04"
+      ],
+      "dateWindow": [
+        "1748-06-01",
+        "1748-06-02"
       ]
     },
     {
-      "day": "During June 2–3, 1748",
+      "day": "During June 1–3, 1748",
       "startWatch": "midnight",
       "endWatch": "midnight",
       "basis": "inferred",
@@ -58,50 +64,54 @@
         "t05"
       ],
       "dateWindow": [
-        "1748-06-02",
+        "1748-06-01",
         "1748-06-03"
       ]
     },
     {
-      "day": "June 3, 1748",
-      "startDate": "1748-06-03",
-      "endDate": "1748-06-03",
+      "day": "During June 2–3, 1748",
       "startWatch": "dawn",
       "endWatch": "dawn",
       "basis": "stated",
       "summary": "The next morning begins as the sun rises.",
       "markers": [
         "t06"
+      ],
+      "dateWindow": [
+        "1748-06-02",
+        "1748-06-03"
       ]
     },
     {
-      "day": "June 3, 1748",
-      "startDate": "1748-06-03",
-      "endDate": "1748-06-03",
+      "day": "During June 2–3, 1748",
       "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "inferred",
       "summary": "Another travel day ends with evening camp in Bas Udda’s ruined temple.",
       "markers": [
         "t07"
+      ],
+      "dateWindow": [
+        "1748-06-02",
+        "1748-06-03"
       ]
     },
     {
-      "day": "June 4, 1748",
-      "startDate": "1748-06-04",
-      "endDate": "1748-06-04",
+      "day": "During June 3–4, 1748",
       "startWatch": "dawn",
       "endWatch": "dawn",
       "basis": "stated",
       "summary": "The next morning begins before dawn; departure is later confirmed at dawn.",
       "markers": [
         "t08"
+      ],
+      "dateWindow": [
+        "1748-06-03",
+        "1748-06-04"
       ]
     },
     {
-      "day": "June 4, 1748",
-      "startDate": "1748-06-04",
-      "endDate": "1748-06-04",
+      "day": "During June 3–4, 1748",
       "startWatch": "morning",
       "endWatch": "morning",
       "basis": "mixed",
@@ -109,12 +119,14 @@
       "markers": [
         "t09",
         "t10"
+      ],
+      "dateWindow": [
+        "1748-06-03",
+        "1748-06-04"
       ]
     },
     {
-      "day": "June 4, 1748",
-      "startDate": "1748-06-04",
-      "endDate": "1748-06-04",
+      "day": "During June 3–4, 1748",
       "startWatch": "midday",
       "endWatch": "midday",
       "basis": "mixed",
@@ -132,30 +144,38 @@
         "t20",
         "t21",
         "t22"
+      ],
+      "dateWindow": [
+        "1748-06-03",
+        "1748-06-04"
       ]
     },
     {
-      "day": "June 4, 1748",
-      "startDate": "1748-06-04",
-      "endDate": "1748-06-04",
+      "day": "During June 3–4, 1748",
       "startWatch": "midday",
       "endWatch": "midday",
       "basis": "stated",
       "summary": "The reunited party reaches the canyon camp around 1:30–2 p.m., at the midday/afternoon boundary.",
       "markers": [
         "t23"
+      ],
+      "dateWindow": [
+        "1748-06-03",
+        "1748-06-04"
       ]
     },
     {
-      "day": "June 4, 1748",
-      "startDate": "1748-06-04",
-      "endDate": "1748-06-04",
+      "day": "During June 3–4, 1748",
       "startWatch": "midday",
       "endWatch": null,
       "basis": "open",
       "summary": "After camp arrival, the chair transformation lasts longer than Garret’s three-to-four-minute change; its ending watch is unspecified.",
       "markers": [
         "t24"
+      ],
+      "dateWindow": [
+        "1748-06-03",
+        "1748-06-04"
       ]
     }
   ],
@@ -179,6 +199,11 @@
       "label": "Kaya note",
       "path": "People/Dunmari/Kaya.md",
       "sha256": "493ce038205eeff363d9f2fd9cb5cd3ead96dda78e82884ceb43c54d5e7bfe05"
+    },
+    {
+      "label": "Session 29 transcript handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-transcript.md",
+      "sha256": "d76ef21497dc9e26eab6ea86b6ca229eb40645c7e9a8c441113f19dfc75810bc"
     }
   ]
 }
