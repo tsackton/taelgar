@@ -1,0 +1,105 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-time-markers.json",
+    "sha256": "2e5efcc292a7bbc60e428fc0226fb8a44a9116532ba6c740617a4eaf970b8c31"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-transcript.md",
+    "sha256": "f320fe953e37965c146ce7e4e88a7a61a8bf6ad3081facd14e50107c87995dd1"
+  },
+  "dateAssessment": "Working Darba dates use the YAML and Session 46 (DuFr): arrival August 8, 1748, then August 9 after the overnight. Earlier played Sendings are counted backward from that arrival: the second is the preceding night, and the first about a week earlier. The transcript supplies no independent civil date. The time extraction flags a conflict because those played journey events exceed the YAML’s one-day span; it does not assign missing elapsed time from drEnd. The session note instead dates Marcella’s reply to August 8; that competing reading remains unresolved.",
+  "watches": [
+    {
+      "day": "About a week before August 7, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "First Sending explicitly mid-morning, about a week before the later contact.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Riswynn’s journey Sending"
+    },
+    {
+      "day": "August 7, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Second Sending late at night, about a week later and one day before arrival.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1748-08-07",
+      "endDate": "1748-08-07",
+      "scope": "Riswynn’s journey Sending"
+    },
+    {
+      "day": "August 8, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Late-afternoon approach; pre-gates conversation resumed. Dock group arrives about an hour before sunset.",
+      "markers": [
+        "t03",
+        "t04",
+        "t07"
+      ],
+      "startDate": "1748-08-08",
+      "endDate": "1748-08-08"
+    },
+    {
+      "day": "August 8, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Evening entry, fifteen-minute tavern wait, dinner-time Green Leaf visit, inn reunion, and retrospective onboard trade.",
+      "markers": [
+        "t05",
+        "t06",
+        "t08",
+        "t09",
+        "t12"
+      ],
+      "startDate": "1748-08-08",
+      "endDate": "1748-08-08",
+      "scope": "Distinct Darba groups; no synchronization of their intervening actions"
+    },
+    {
+      "day": "August 8–9, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Explicit overnight reaches the following morning; ship and dwarven lodging remain separate. No eight-hour rest is stated.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-08-08",
+      "endDate": "1748-08-09"
+    },
+    {
+      "day": "August 9, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Most-day selling resumes after the flashback; about one hour, then fifteen minutes, remain before the scheduled sailing.",
+      "markers": [
+        "t11",
+        "t13",
+        "t14",
+        "t15"
+      ],
+      "startDate": "1748-08-09",
+      "endDate": "1748-08-09",
+      "scope": "Delwath’s market and bookseller clock"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated Session 46 record and competing retrospective claims",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 46 (DuFr).md",
+      "sha256": "8873bad5d61d530a245f4537a4c8728d74c2f35b058d48a9c149e57c90a376a5"
+    }
+  ]
+}

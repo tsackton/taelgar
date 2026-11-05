@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-046",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-session.yaml",
+    "sessionYamlSha256": "29a149852aa04c9bd934be1cafab603d178a20dfe803e8641fe59f0bc5695081",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-transcript.md",
+    "transcriptSha256": "f320fe953e37965c146ce7e4e88a7a61a8bf6ad3081facd14e50107c87995dd1"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0020"
+      },
+      "category": "table_talk",
+      "note": "Opening housekeeping includes the DM’s brief out-of-character reminder about archival resources; resolved journey activities begin in the next block."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u1672"
+      },
+      "category": "gameplay",
+      "note": "Character-framed strategy and party pitches remain active gameplay; brief jokes, rules checks, and work interruptions do not split the block."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1673",
+        "endUid": "u1704"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1705",
+        "endUid": "u2192"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2193",
+        "endUid": "u2200"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2201",
+        "endUid": "u2787"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2788",
+        "endUid": "u2796"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2797",
+        "endUid": "u3032"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u3033",
+        "endUid": "u3104"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u3105",
+        "endUid": "u3119"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u3120",
+        "endUid": "u3158"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u3159",
+        "endUid": "u3160"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

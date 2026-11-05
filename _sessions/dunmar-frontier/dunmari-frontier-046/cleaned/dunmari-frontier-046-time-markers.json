@@ -1,0 +1,569 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-046",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-session.yaml",
+    "sessionYamlSha256": "29a149852aa04c9bd934be1cafab603d178a20dfe803e8641fe59f0bc5695081",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-transcript.md",
+    "transcriptSha256": "f320fe953e37965c146ce7e4e88a7a61a8bf6ad3081facd14e50107c87995dd1",
+    "yamlDates": {
+      "start": "1748-08-08",
+      "end": "1748-08-09"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0301",
+        "endUid": "u0308"
+      },
+      "reading": "Riswynn sends the first message to Marcella in mid-morning, about a week into the journey when the party rejoins the trade route.",
+      "evidence": [
+        {
+          "startUid": "u0301",
+          "endUid": "u0301",
+          "quote": "DM: Okay, but it is important, so this is you're going to send this a week after—"
+        },
+        {
+          "startUid": "u0302",
+          "endUid": "u0304",
+          "quote": "Delwath: Well, how long does it take? Wait, what's the timeline for getting to Darba? Two weeks?"
+        },
+        {
+          "startUid": "u0306",
+          "endUid": "u0308",
+          "quote": "DM: Okay, so this would be like you know just about when you rejoined the trade route, so when you're a week right about there. Um you would expect them to be somewhere near Songara at this point. And what time of day or night are you sending this message at?"
+        },
+        {
+          "startUid": "u0334",
+          "endUid": "u0334",
+          "quote": "Riswynn: Mid-morning."
+        }
+      ],
+      "actors": [
+        "Riswynn"
+      ],
+      "time": {
+        "partOfDay": "mid-morning",
+        "precision": "approximate",
+        "basis": "The table accepts a week-after-departure Sending and Riswynn specifies mid-morning.",
+        "relative": {
+          "relation": "after",
+          "anchor": "Departure on the journey to Darba",
+          "offset": {
+            "value": 7,
+            "unit": "day",
+            "precision": "approximate",
+            "basis": "Accepted placement a week into the journey."
+          }
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0356",
+        "endUid": "u0374"
+      },
+      "reading": "About a week after the first Sending, Riswynn contacts Marcella late at night on the day before the party reaches Darba.",
+      "evidence": [
+        {
+          "startUid": "u0357",
+          "endUid": "u0360",
+          "quote": "DM: Day before you arrive at Darba, right?"
+        },
+        {
+          "startUid": "u0361",
+          "endUid": "u0363",
+          "quote": "Riswynn: This time we'll try late at night, just in case it helps. Not too late, like, okay, she's asleep but then it's more like my original message, like, checking on your progress towards Sembara. Are you traveling alone yet?"
+        },
+        {
+          "startUid": "u0369",
+          "endUid": "u0374",
+          "quote": "DM: She—you hear Marcella’s voice whispering back to you: “On watch. Raiding a kobold lair tomorrow morning. To flee in the chaos of battle. Heading east. Speak in a few days.”"
+        },
+        {
+          "startUid": "u0358",
+          "endUid": "u0358",
+          "quote": "Riswynn: A week later."
+        },
+        {
+          "startUid": "u0359",
+          "endUid": "u0360",
+          "quote": "DM: About yeah. And what are you—when and what are you saying in this message?"
+        }
+      ],
+      "actors": [
+        "Riswynn"
+      ],
+      "time": {
+        "partOfDay": "late night",
+        "precision": "approximate",
+        "basis": "Late night is chosen for the second Sending; DM dates it to the day before arrival.",
+        "relative": {
+          "relation": "after",
+          "reference": "t01",
+          "offset": {
+            "value": 7,
+            "unit": "day",
+            "precision": "approximate",
+            "basis": "Riswynn says a week later; DM accepts approximately."
+          }
+        }
+      },
+      "duration": {
+        "value": 7,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Approximately a week elapses between the two played Sendings."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0392",
+        "endUid": "u0401"
+      },
+      "reading": "The party approaches Darba in the late afternoon after the journey.",
+      "evidence": [
+        {
+          "startUid": "u0392",
+          "endUid": "u0401",
+          "quote": "DM: Okay, okay, so as you approach in the late afternoon, the sun creeping towards the vast expanse of the Nevos Sea to the west, you can see or imagine the layers of history that sit on the land here. So as you walk, you're traveling along the low rise of the land north of the river. So above where it sort of slopes down to a river valley, in the land here is lush and green and full of life. And while the ancient forests that once spread across Dunmar are gone, you can see echoes here in the trees of the river valley, of the riparian valley along the river floor, and the occasional stand of forest nestled among the gentle hills on both sides of the river. This is, you know, especially in the past few days, as you—as you've descended down from the foothills of the rocky mountains towards this coastal plain, this is the most trees you've seen in a long time. And while most of the forest here is managed for timber, which is obvious from the lumber barges that pass along the river and the water driven sawmills that are, you know, occasionally pass, and little small weirs and diversions along the ancient road, you can still feel a hint of this, of the land that used to be here. This, this is not—this, this land has been here for for a long time. This is not—you have to go further south to get to the new land that rose up out of the ocean when the plateau of the Dunmari desert and the Yuvanti Mountains."
+        },
+        {
+          "startUid": "u0357",
+          "endUid": "u0357",
+          "quote": "DM: Day before you arrive at Darba, right?"
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM directly narrates the approach; the second Sending was the previous night."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0455",
+        "endUid": "u0456"
+      },
+      "reading": "The table returns to the party’s conversation just before reaching the gates, while deciding how to enter Darba.",
+      "evidence": [
+        {
+          "startUid": "u0455",
+          "endUid": "u0456",
+          "quote": "Kenzo: I almost feel like maybe we should do a quick like retcon of like the conversation we had right before we showed up at the gates for like a gift yeah now do X y&z."
+        },
+        {
+          "startUid": "u0458",
+          "endUid": "u0458",
+          "quote": "Kenzo: What do you think we should do upon arrival?"
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t03",
+          "anchor": "Gate approach, immediately before arrival"
+        },
+        "precision": "approximate",
+        "basis": "Kenzo explicitly requests the pre-gates conversation as a retcon."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1330",
+        "endUid": "u1334"
+      },
+      "reading": "The pre-entry discussion ends and the party enters Darba in three groups in the evening.",
+      "evidence": [
+        {
+          "startUid": "u1330",
+          "endUid": "u1334",
+          "quote": "DM: The so so you all you you split up before you reach the gates, and you filter into the city in three groups. You know, in the evening fair bit of traffic going back and forth, like it's pretty easy. I mean there's there's dwarves coming and going, right? Does a fair bit of dwarven trade. There's the—outside the gates as a bunch of like warehouses and things there's a lot of dwarven, a lot of dwarven metal, iron and steel gets traded to Darba, and then it's made into weapons and things that are traded all over the world, right? So the dwarven smith's here are pretty well known, um."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM states evening on the accepted city entry."
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1371",
+        "endUid": "u1374"
+      },
+      "reading": "Seeker and Riswynn wait fifteen minutes at the dwarven tavern before Travok arrives.",
+      "evidence": [
+        {
+          "startUid": "u1371",
+          "endUid": "u1374",
+          "quote": "DM: You sit and you wait, and 15 minutes later this like middle aged ish dwarf, also a man blonde beard, blonde hair, wearing a helmet and and chain mail, axe strapped to his back. Like, you know, clearly somebody who's not unused to combat but probably not as strong as you all are."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM says fifteen minutes later."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1730",
+        "endUid": "u1735"
+      },
+      "reading": "The narration cuts to Kenzo, Delwath, and Johar arriving at the docks about an hour before sunset, earlier in the same evening’s split-party action.",
+      "evidence": [
+        {
+          "startUid": "u1697",
+          "endUid": "u1697",
+          "quote": "DM: Who else is up? Let's go to the human, then we'll cut back and forth more frequently so nobody has to wait quite a long."
+        },
+        {
+          "startUid": "u1725",
+          "endUid": "u1735",
+          "quote": "DM: Walking along the streets it's not a big deal. So where you guys headed? The docks with Johar."
+        },
+        {
+          "startUid": "u1730",
+          "endUid": "u1735",
+          "quote": "DM: Okay, so it's um you know it's like an hour before sunset and there's a fair bit of of activity on the docks actually because it is the tide is going out, so there's a bunch of—there's a number of boats that are, you know, trying to set sail, basically get out of the harbor and the estuary with the tide, and they'll probably anchor off off coast for the night. There's a lot of diversity of you know there's a bunch of different kinds of ships in harbor, right? There's Chardonian merchant ships there's you know, a handful of have Dunmari ships. There's the Illorian ships. There's some halfling ships. It's pretty bustling and active, and there's you know people shouting and loading stuff, there's like halflings bustling around trying to get there, you know, wares loaded there's you know just a fair bit of activity as you make your way to the docks."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Johar"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "Sunset on the Darba arrival day",
+          "offset": {
+            "value": 1,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "DM states about an hour before sunset."
+          }
+        },
+        "precision": "approximate",
+        "basis": "This dates the dock group, independently of the dwarves’ lodging arrangements."
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1811",
+        "endUid": "u1814"
+      },
+      "reading": "Wellby reaches the Green Leaf close to dinner time.",
+      "evidence": [
+        {
+          "startUid": "u1807",
+          "endUid": "u1814",
+          "quote": "DM: But yeah yeah so usually like you know at this inn I mean things work differently in Sembara right because there's things are just organized differently right, but you know you walk into the to the halfling inn the what is a good name for a halfling inn?"
+        },
+        {
+          "startUid": "u1811",
+          "endUid": "u1814",
+          "quote": "DM: The Green Leaf um and you know it's it's close to dinner time so it's pretty active right, but you know, basically, the way just from spending a little bit of time, you know watching the scene here, your background feature comes into play, right? You're like pick up new cultures. Like, you get the sense the way this works is, um—"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "partOfDay": "dinner time",
+        "precision": "approximate",
+        "basis": "DM places the Green Leaf scene close to dinner; no numerical clock is supplied."
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2143",
+        "endUid": "u2157"
+      },
+      "reading": "The table confirms that the inn reunion is still the first evening; Riswynn has turned in, while Seeker meets the others.",
+      "evidence": [
+        {
+          "startUid": "u2143",
+          "endUid": "u2143",
+          "quote": "Seeker: I’m confused about the timeline. Are we still in the first evening? Yeah."
+        },
+        {
+          "startUid": "u2157",
+          "endUid": "u2157",
+          "quote": "Seeker: And she's—she turned in for the night. We found a really nice private dwarven home to stay."
+        },
+        {
+          "startUid": "u2144",
+          "endUid": "u2152",
+          "quote": "DM: Or are you just staying with the dwarves and you're expecting I mean I assume you would have made plans to meet this evening because."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Delwath"
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Seeker explicitly checks that this remains the first evening; the accepted reunion follows."
+      },
+      "note": "The earlier compressed lodging narration at u1667–u1671 does not move the other actors to the following morning."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2501",
+        "endUid": "u2505"
+      },
+      "reading": "The party spends the night in Darba and play moves to the following morning.",
+      "evidence": [
+        {
+          "startUid": "u2448",
+          "endUid": "u2458",
+          "quote": "DM: Are okay. Okay, so um any other. Where are you staying the night?"
+        },
+        {
+          "startUid": "u2490",
+          "endUid": "u2505",
+          "quote": "So you spend the night"
+        },
+        {
+          "startUid": "u2501",
+          "endUid": "u2505",
+          "quote": "DM: So you spend the night um selling treasure, whose—so in the morning, let's see, what do you want to—what is—what is on the docket for the morning? Seeker is gonna get up at the crack of dawn and get a tour of the masonry. Masonry nerd. Delwath's gonna sell stuff. Wellby, do you have any goals to accomplish? Just hanging out on the ship learn the ropes—"
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM explicitly transitions from spending the night to the morning."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "No eight-hour rest is independently declared; dawn masonry touring is announced as Seeker’s plan and its details are deferred later."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2507",
+        "endUid": "u2510"
+      },
+      "reading": "Delwath’s treasure selling occupies essentially the whole following day, within the ship’s departure deadline.",
+      "evidence": [
+        {
+          "startUid": "u2507",
+          "endUid": "u2510",
+          "quote": "DM: And I think Kong is checking on his mom, so we will come back to Kenzo. Ah, just going to deal with selling stuff first, because that should be pretty quick so you're—basically this is going to take you essentially the whole day. Right, and you're gonna—you just kind of wander, does like there's this big market, right? So like it's pretty easy to find people who will sell stuff, um, so let me see that. The just."
+        },
+        {
+          "startUid": "u2520",
+          "endUid": "u2524",
+          "quote": "DM: Right right right right right. Okay um. Okay, so you go through, and you know make your way around the market selling these things up all up in a minute, the total worth but."
+        },
+        {
+          "startUid": "u2824",
+          "endUid": "u2827",
+          "quote": "DM: I mean it's taken you most of the day to sell all this stuff you have you know you have maybe an hour to you don't really have time to go back to. You could have taken us, you could have—"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "essentially the whole day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM resolves the accepted selling activity as taking most of the day, not twenty-four hours."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2534",
+        "endUid": "u2538"
+      },
+      "reading": "Play returns to the previous night for an onboard first-refusal offer to the captain.",
+      "evidence": [
+        {
+          "startUid": "u2534",
+          "endUid": "u2538",
+          "quote": "Delwath: Um one other thing before last night."
+        },
+        {
+          "startUid": "u2540",
+          "endUid": "u2545",
+          "quote": "Delwath: Not our whole collection, but the things we're going to sell."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t10",
+          "anchor": "The overnight-to-morning transition"
+        },
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Delwath explicitly inserts an event before last night; the captain’s trade is then resolved."
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2606",
+        "endUid": "u2609"
+      },
+      "reading": "The narration resumes next-day market selling after resolving the previous-night trade.",
+      "evidence": [
+        {
+          "startUid": "u2606",
+          "endUid": "u2611",
+          "quote": "DM: Okay, so um yeah the next day you sort of go through go through selling things you find somebody who's willing to offer 800 for the for the pendant. If you want to take that price."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "relative": {
+          "relation": "same_time",
+          "reference": "t11",
+          "anchor": "Resumption of the next-day selling interval"
+        },
+        "precision": "approximate",
+        "basis": "DM explicitly says the next day on returning to the market."
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2824",
+        "endUid": "u2827"
+      },
+      "reading": "After most of the day selling, Delwath has approximately one hour before the ship’s scheduled departure.",
+      "evidence": [
+        {
+          "startUid": "u2824",
+          "endUid": "u2827",
+          "quote": "DM: I mean it's taken you most of the day to sell all this stuff you have you know you have maybe an hour to you don't really have time to go back to. You could have taken us, you could have—"
+        },
+        {
+          "startUid": "u2326",
+          "endUid": "u2328",
+          "quote": "DM: Yeah come by tomorrow we we leave three hours before sunset. Don't be late."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "Scheduled departure, three hours before sunset",
+          "offset": {
+            "value": 1,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "DM gives maybe an hour remaining after selling."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Actual time remaining is stated; sunset relation comes from the agreed sailing schedule."
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2970",
+        "endUid": "u2979"
+      },
+      "reading": "After the bookseller visit, Delwath has at most roughly fifteen minutes before missing the boat; Riswynn’s antiquities errand is delegated.",
+      "evidence": [
+        {
+          "startUid": "u2970",
+          "endUid": "u2979",
+          "quote": "DM: Okay, yeah, you've got like maybe 15 minutes max before you miss the boat."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "Scheduled departure, three hours before sunset",
+          "offset": {
+            "max": 15,
+            "maxInclusive": true,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM says maybe fifteen minutes maximum before missing the boat."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Current remaining time after the completed Albus conversation; no actual sailing is narrated."
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "No exact civil date is independently spoken. The agreed August context is consistent with the YAML season, but its August 8–9 bounds cover only the Darba arrival and following day. Earlier played Sendings remain part of this extraction.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t10",
+      "t11",
+      "t14",
+      "t15"
+    ],
+    "explanation": "The two played Sendings are about a week apart, and the later one is the night before arrival. Darba then has an explicit overnight and a following day. This exceeds a one-day session span under any supported opening boundary. The first journey activity and exact total boundaries remain open; drEnd has not supplied unrecorded elapsed time."
+  }
+}
