@@ -1,0 +1,1358 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-013",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+    "sessionYamlSha256": "188efd3d92c5c3978f3fd392a584778405a271e353ddea4f057c19783a287a4c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-transcript.md",
+    "transcriptSha256": "8ea110dde5deab1517d950bea0071df4577d82e38a6d638f4a2a999a57c98019"
+  },
+  "places": {
+    "p01": {
+      "label": "Raven's Hold",
+      "kind": "fortress",
+      "evidence": [
+        {
+          "startUid": "u0687",
+          "endUid": "u0689",
+          "quote": "nothing really strong here, right over Raven's Hold."
+        },
+        {
+          "startUid": "u1396",
+          "endUid": "u1401",
+          "quote": "I'll come along. So ah you head down. So the, the Raven's Hold itself is set sort of on the, on the, like partway up the mountain on, on like a sort of flat area with the cliffy walls of the of the mountain behind it. And this, you know part of the reason why this is such a strong defensive position is this gate complex and then switch back road that leads down in three switchbacks down the side of the mountain, passing through additional gates at each turning. And so this is a very strong position to defend from."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+      "note": "The vault’s Raven's Hold note places the fort in the Sentinel Range; that is vault orientation, not a region named by this transcript."
+    },
+    "p02": {
+      "label": "Breakfast plaza",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u0017",
+          "endUid": "u0017",
+          "quote": "So you are, you are out here on—in this, this plaza."
+        },
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "in an abandoned fortress perched above a river valley, a group of adventurers is finishing a late breakfast."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0004",
+              "quote": "in an abandoned fortress perched above a river valley, a group of adventurers is finishing a late breakfast."
+            },
+            {
+              "startUid": "u0017",
+              "endUid": "u0017",
+              "quote": "So you are, you are out here on—in this, this plaza."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Ruined barracks against the cliffs",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0090",
+          "endUid": "u0098",
+          "quote": "Okay, um, so, there's two. So the way that this is—this, the sort of outer outbuildings, outer forts, whatever—um, the one that's closer to the cliffs, so this one over here. So both of them are set up so that there's stairs that go up to the second floor, and then the door, the doorway in enters on the second floor. There's no entrance on the ground level."
+        },
+        {
+          "startUid": "u0118",
+          "endUid": "u0129",
+          "quote": "And Riswynn's in, okay. So as you, as you climb the stairs, you can see—and you, I forget who briefly explored this last time, but, but I remember one of you looked around briefly—and, and the impression that the three of you get, kind of climbing up the stairs and looking around, is the same as before. It's—so this was maybe once a hall, or a sort of a, you know, mess hall, like great hall of the, of the barracks, and there's stairs that go down."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0008",
+              "endUid": "u0010",
+              "quote": "The barracks and outbuildings: a locked room, crates of weapons, a ruined building with old blast marks."
+            },
+            {
+              "startUid": "u0090",
+              "endUid": "u0098",
+              "quote": "Okay, um, so, there's two. So the way that this is—this, the sort of outer outbuildings, outer forts, whatever—um, the one that's closer to the cliffs, so this one over here. So both of them are set up so that there's stairs that go up to the second floor, and then the door, the doorway in enters on the second floor. There's no entrance on the ground level."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Intact barracks against the outer wall",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0095",
+          "endUid": "u0098",
+          "quote": "The one that is up against the cliffs, the second floor is largely in, in ruins. Like, it's—the roof is shattered. It seems to... [garbled]—and you can look down on the sort of mists and fog from the roof. The one that's against the outer wall is, is still intact and, and, and in good shape."
+        },
+        {
+          "startUid": "u0233",
+          "endUid": "u0245",
+          "quote": "Right, right. So, ah, let's, uh, let's cut to the Wellby and Delwath exploring the—and Vola exploring the better-preserved building. So as you head up, I'm—Delwath, you—let me do it. Let's do it. You want to give me your Perception check?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0008",
+              "endUid": "u0010",
+              "quote": "The barracks and outbuildings: a locked room, crates of weapons, a ruined building with old blast marks."
+            },
+            {
+              "startUid": "u0095",
+              "endUid": "u0098",
+              "quote": "The one that is up against the cliffs, the second floor is largely in, in ruins. Like, it's—the roof is shattered. It seems to... [garbled]—and you can look down on the sort of mists and fog from the roof. The one that's against the outer wall is, is still intact and, and, and in good shape."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Riswynn’s temporary item workbench",
+      "kind": "work area",
+      "evidence": [
+        {
+          "startUid": "u0369",
+          "endUid": "u0373",
+          "quote": "So, so, Wellby, after you pass the key off to Riswynn, you're concentrating on the locket. Okay. While I type this, Riswynn, you're identifying—that you're just sitting in identifying items?"
+        },
+        {
+          "startUid": "u0606",
+          "endUid": "u0608",
+          "quote": "Everybody gathers back ah where Riswynn had set up her brief little workbench, identifying items, and, and Vola is still sort of pressing you about the helm. You know, saying, \"This is this is quite old. I think Drankorian.\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0313",
+              "endUid": "u0314",
+              "quote": "So we reunite in this in this tower."
+            },
+            {
+              "startUid": "u0369",
+              "endUid": "u0373",
+              "quote": "So, so, Wellby, after you pass the key off to Riswynn, you're concentrating on the locket. Okay. While I type this, Riswynn, you're identifying—that you're just sitting in identifying items?"
+            }
+          ]
+        }
+      ],
+      "note": "The party reunites after searching the intact building (Kenzo calls the reunion spot a tower). The workbench’s precise room and floor are not stated."
+    },
+    "p06": {
+      "label": "Locked hobgoblin storeroom",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0274",
+          "endUid": "u0280",
+          "quote": "Okay. Ah, so that's the top floor. None of this equipment is magical. Going down the stairs, the downstairs here seems not to be barracks so much as like a series of, of store rooms of, like, pantry, you know, food storage, that, that sort of thing. Mostly completely empty and dusty except for one room where the door has been locked with a rusting chain and a padlock through the chain."
+        },
+        {
+          "startUid": "u0540",
+          "endUid": "u0544",
+          "quote": "Um so this seems to be a storeroom of the more valuable materials of war of the Blackened Claw tribes. So there are suits of armor—chain mail, plate, half plate—all rusting and bad conditions, but with this Blackened Claw emblem visible on them. A number of pole arms and greatswords. Some potion bottles, eight in total. And this..."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0274",
+              "endUid": "u0280",
+              "quote": "Okay. Ah, so that's the top floor. None of this equipment is magical. Going down the stairs, the downstairs here seems not to be barracks so much as like a series of, of store rooms of, like, pantry, you know, food storage, that, that sort of thing. Mostly completely empty and dusty except for one room where the door has been locked with a rusting chain and a padlock through the chain."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Gate lookout",
+      "kind": "gate",
+      "evidence": [
+        {
+          "startUid": "u0672",
+          "endUid": "u0674",
+          "quote": "Just looked at the gate."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1396",
+              "endUid": "u1401",
+              "quote": "I'll come along. So ah you head down. So the, the Raven's Hold itself is set sort of on the, on the, like partway up the mountain on, on like a sort of flat area with the cliffy walls of the of the mountain behind it. And this, you know part of the reason why this is such a strong defensive position is this gate complex and then switch back road that leads down in three switchbacks down the side of the mountain, passing through additional gates at each turning. And so this is a very strong position to defend from."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Vola’s valley lookout",
+      "kind": "lookout",
+      "evidence": [
+        {
+          "startUid": "u0638",
+          "endUid": "u0640",
+          "quote": "Well, I, I am gonna go keep an eye on that valley. I'm a little suspect—I'm a little nervous. Feels too quiet now."
+        },
+        {
+          "startUid": "u1104",
+          "endUid": "u1105",
+          "quote": "She, she is a—like over here. Whoops. Over—why is this not working? Over here, like that the—keeping an eye on the valley."
+        }
+      ],
+      "note": "Her precise map position is not recoverable from the transcript; it is not assumed to be Delwath’s gate lookout."
+    },
+    "p08": {
+      "label": "Misty courtyard and ruined forge",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u1245",
+          "endUid": "u1253",
+          "quote": "No, and it's—so as you head into the sort of inner, this outdoor courtyard area where the unexplored mist and fog are... So the mists almost seem to be sort of rising off of this, of this pool of water here and sort of collecting in what's a bit of a, bit of a, like a dip, a depression in the ground. And also in this there's like a ruined, like forge, like, you know, armor, weapon smith area here that seems to have been, you know, ruined by the walls being—the walls of this barracks that were knocked down and burned fell onto this forge and kind of cracked it and then broke down. And there was a bit of a sort of low point of the, of the ground here. Ah, and the mists are sort of bubbling off of this pool and, and sort of almost flowing down hill and collecting and that depression."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0005",
+              "endUid": "u0007",
+              "quote": "Across the inner courtyard of the castle, mists drift from pools of dark water, carrying the stench of rotting flesh and sulfur."
+            },
+            {
+              "startUid": "u1245",
+              "endUid": "u1253",
+              "quote": "No, and it's—so as you head into the sort of inner, this outdoor courtyard area where the unexplored mist and fog are... So the mists almost seem to be sort of rising off of this, of this pool of water here and sort of collecting in what's a bit of a, bit of a, like a dip, a depression in the ground. And also in this there's like a ruined, like forge, like, you know, armor, weapon smith area here that seems to have been, you know, ruined by the walls being—the walls of this barracks that were knocked down and burned fell onto this forge and kind of cracked it and then broke down. And there was a bit of a sort of low point of the, of the ground here. Ah, and the mists are sort of bubbling off of this pool and, and sort of almost flowing down hill and collecting and that depression."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Valley below Raven's Hold",
+      "kind": "valley",
+      "evidence": [
+        {
+          "startUid": "u1396",
+          "endUid": "u1401",
+          "quote": "I'll come along. So ah you head down. So the, the Raven's Hold itself is set sort of on the, on the, like partway up the mountain on, on like a sort of flat area with the cliffy walls of the of the mountain behind it. And this, you know part of the reason why this is such a strong defensive position is this gate complex and then switch back road that leads down in three switchbacks down the side of the mountain, passing through additional gates at each turning. And so this is a very strong position to defend from."
+        },
+        {
+          "startUid": "u1413",
+          "endUid": "u1432",
+          "quote": "The—so as you head down, you—the road itself, after you pass through the final gates, is in extremely good repair. This is, you know, high-quality dwarven construction, super precise pavers, I'm—forming just a straight line that goes across the valley, wide enough for three to ride abreast. The dwarven outpost here is about, about a mile distant, and about half way across there's a sweeping, sweeping like an arch bridge that crosses, crosses the river. And as you begin to head in this direction, you can see, I'm—so the sort of vines and growth..."
+        }
+      ],
+      "note": "The valley links the distinct Dunmari fortress and dwarven outpost; it is not a room or courtyard of either fort."
+    },
+    "p10": {
+      "label": "Riverbank summoning circle beside the bridge",
+      "kind": "riverbank",
+      "evidence": [
+        {
+          "startUid": "u1680",
+          "endUid": "u1684",
+          "quote": "That we can—no, beyond the summoning. So, okay, so you are standing on the dwarven road, yeah, looking west towards the bridge and north towards the lake, where the, the pool at the bottom of the waterfall. In between you and the lake, on the shore of the, of the river, is this circle, 10 foot in diameter, runes. Ah, I'm—almost looks like it is sort of painted on the, on the ground, on the sand. Just beyond the circle in the river is sort of mists and shapes. You can see looming in the midst, like, you know, a sort of dead tree stump coming up and like little bits of like vine and cattails and things kind of clog—almost like clogging the river at that point, just beyond that, the summoning circle."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1413",
+              "endUid": "u1418",
+              "quote": "The—so as you head down, you—the road itself, after you pass through the final gates, is in extremely good repair. This is, you know, high-quality dwarven construction, super precise pavers, I'm—forming just a straight line that goes across the valley, wide enough for three to ride abreast. The dwarven outpost here is about, about a mile distant, and about half way across there's a sweeping, sweeping like an arch bridge that crosses, crosses the river. And as you begin to head in this direction, you can see, I'm—so the sort of vines and growth..."
+            },
+            {
+              "startUid": "u1680",
+              "endUid": "u1684",
+              "quote": "That we can—no, beyond the summoning. So, okay, so you are standing on the dwarven road, yeah, looking west towards the bridge and north towards the lake, where the, the pool at the bottom of the waterfall. In between you and the lake, on the shore of the, of the river, is this circle, 10 foot in diameter, runes. Ah, I'm—almost looks like it is sort of painted on the, on the ground, on the sand. Just beyond the circle in the river is sort of mists and shapes. You can see looming in the midst, like, you know, a sort of dead tree stump coming up and like little bits of like vine and cattails and things kind of clog—almost like clogging the river at that point, just beyond that, the summoning circle."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1677",
+              "endUid": "u1677",
+              "quote": "So can I interrupt? So just to see. And so we're here, we are right near the bridge. There's a summoning circle about 10 feet in diameter..."
+            },
+            {
+              "startUid": "u1680",
+              "endUid": "u1684",
+              "quote": "That we can—no, beyond the summoning. So, okay, so you are standing on the dwarven road, yeah, looking west towards the bridge and north towards the lake, where the, the pool at the bottom of the waterfall. In between you and the lake, on the shore of the, of the river, is this circle, 10 foot in diameter, runes. Ah, I'm—almost looks like it is sort of painted on the, on the ground, on the sand. Just beyond the circle in the river is sort of mists and shapes. You can see looming in the midst, like, you know, a sort of dead tree stump coming up and like little bits of like vine and cattails and things kind of clog—almost like clogging the river at that point, just beyond that, the summoning circle."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "White-quartz dwarven bridge",
+      "kind": "bridge",
+      "evidence": [
+        {
+          "startUid": "u1701",
+          "endUid": "u1709",
+          "quote": "The, the bridge itself is beautiful. It's white quartz. It's made of white quartz, or lined with like white quartz, so it almost like with daylight with the Daylight spell it almost glows with this sort of inner, inner light as your as the magic kind of radiates up through it. You can see almost like little you know abstract designs running through the stone that was used to construct this, all illuminated by your by your light."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1413",
+              "endUid": "u1418",
+              "quote": "The—so as you head down, you—the road itself, after you pass through the final gates, is in extremely good repair. This is, you know, high-quality dwarven construction, super precise pavers, I'm—forming just a straight line that goes across the valley, wide enough for three to ride abreast. The dwarven outpost here is about, about a mile distant, and about half way across there's a sweeping, sweeping like an arch bridge that crosses, crosses the river. And as you begin to head in this direction, you can see, I'm—so the sort of vines and growth..."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Animal stables",
+      "kind": "stables",
+      "evidence": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0035",
+          "quote": "in the stables are the—are the, you know, five dozen or so animals, hungry and howling and making the only sound, really, that's echoing across this place."
+        },
+        {
+          "startUid": "u2322",
+          "endUid": "u2333",
+          "quote": "So um you head back up to the to the castle to free the animals. Seeker, what do you want to do?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2322",
+              "endUid": "u2323",
+              "quote": "So um you head back up to the to the castle to free the animals. Seeker, what do you want to do?"
+            },
+            {
+              "startUid": "u0027",
+              "endUid": "u0035",
+              "quote": "You haven't explored this at all. And you've only sort of briefly glanced through the barracks, but not—but not really explored them any depth. And you haven't been down to the valley. In the, in this outer courtyard, there are still three hyenas in pits that Seeker made, that of—whoa. That in the stables are the—are the, you know, five dozen or so animals, hungry and howling and making the only sound, really, that's echoing across this place."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Dwarven outpost",
+      "kind": "fortress",
+      "evidence": [
+        {
+          "startUid": "u1413",
+          "endUid": "u1418",
+          "quote": "The dwarven outpost here is about, about a mile distant"
+        },
+        {
+          "startUid": "u2438",
+          "endUid": "u2442",
+          "quote": "Yes, that's right. Ah, you head back into the dwarven caves and approach the—so, so Wellby had described this, right? There was a sort of—in these caves where Inakara, the, the crazy dwarf person, dwarf-like person, lead you—there was a sort of a side passage that was partially blocked off, like barricaded, like the hobgoblins had—had this is as far as they've gotten and built a sort of defensive position here. And Wellby leads you here and then down the corridor."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md",
+      "note": "The vault identifies the outpost as a Sentinel Range trading post, mine, and forge. It is distinct from the Dunmari fortress; vault orientation does not place it inside that fortress."
+    },
+    "p14": {
+      "label": "Guardian passage near the mines and forge",
+      "kind": "passage",
+      "evidence": [
+        {
+          "startUid": "u2438",
+          "endUid": "u2450",
+          "quote": "Yes, that's right. Ah, you head back into the dwarven caves and approach the—so, so Wellby had described this, right? There was a sort of—in these caves where Inakara, the, the crazy dwarf person, dwarf-like person, lead you—there was a sort of a side passage that was partially blocked off, like barricaded, like the hobgoblins had—had this is as far as they've gotten and built a sort of defensive position here. And Wellby leads you here and then down the corridor."
+        },
+        {
+          "startUid": "u2456",
+          "endUid": "u2462",
+          "quote": "So this is this is like near the forge on the map."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2438",
+              "endUid": "u2442",
+              "quote": "Yes, that's right. Ah, you head back into the dwarven caves and approach the—so, so Wellby had described this, right? There was a sort of—in these caves where Inakara, the, the crazy dwarf person, dwarf-like person, lead you—there was a sort of a side passage that was partially blocked off, like barricaded, like the hobgoblins had—had this is as far as they've gotten and built a sort of defensive position here. And Wellby leads you here and then down the corridor."
+            },
+            {
+              "startUid": "u2459",
+              "endUid": "u2462",
+              "quote": "Yeah, the mines and the forge. Right. So you're going underneath. You basically gone well, this map is not really particularly perfect. There's a there's a passageway underneath the market area that is not that is not on this map that comes out sort of near this mines, forge area, which is not a not a place you have been."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Ruined mineshaft entrance",
+      "kind": "mine entrance",
+      "evidence": [
+        {
+          "startUid": "u2556",
+          "endUid": "u2567",
+          "quote": "So I gotta pop my old, old notes here. Um, so what you see as you head past this statue, this guardian, is what looks like room that was once a—to a mineshaft. But the equipment and, I'm, you know, the notes and—sorry, the equipment in the, and the sort of all the scaffolding and everything has been destroyed. But there's just giant cracks in the floor going down."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2459",
+              "endUid": "u2462",
+              "quote": "Yeah, the mines and the forge. Right. So you're going underneath. You basically gone well, this map is not really particularly perfect. There's a there's a passageway underneath the market area that is not that is not on this map that comes out sort of near this mines, forge area, which is not a not a place you have been."
+            },
+            {
+              "startUid": "u2556",
+              "endUid": "u2573",
+              "quote": "So I gotta pop my old, old notes here. Um, so what you see as you head past this statue, this guardian, is what looks like room that was once a—to a mineshaft. But the equipment and, I'm, you know, the notes and—sorry, the equipment in the, and the sort of all the scaffolding and everything has been destroyed. But there's just giant cracks in the floor going down."
+            }
+          ]
+        }
+      ],
+      "note": "The party surveys the wrecked shaft but does not descend. Kenzo explicitly withdraws his proposal to jump."
+    },
+    "p16": {
+      "label": "Horse camp outside the secret back entrance",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u2630",
+          "endUid": "u2645",
+          "quote": "You come out through the clear water of the mountain stream protecting the back entrance to the dwarven hold, to your horses, the camp you had set up"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2630",
+              "endUid": "u2645",
+              "quote": "You come out through the clear water of the mountain stream protecting the back entrance to the dwarven hold, to your horses, the camp you had set up"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Evening camp south of the outpost",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u2630",
+          "endUid": "u2645",
+          "quote": "And turn, riding south for a few hours to some place to camp for the evening. As we will end our session there."
+        }
+      ]
+    },
+    "p18": {
+      "label": "Waterfall pool north of the bridge",
+      "kind": "pool",
+      "evidence": [
+        {
+          "startUid": "u1419",
+          "endUid": "u1422",
+          "quote": "That the valley itself, is like up where you are right now, just coming down from the mountain, is, is pretty barren. It's it's sort of dirt and dust mostly, but along the river valley there's um, you know trees growing, there's you know clusters of, of these vines. And the river itself, although it... So there's a waterfall that comes down off the mountains and cascades down into this pool. And that actually, in the morning light, is, you know the sun is catching it, looks quite pretty, this cascading silvery waterfall. It being or, you know middle spring, the winter rains and snow melt from the top of the mountain have swelled the, the flow of the water. And so you get this you know beautiful cascading—from the water coming off the mountain seems to be clear and pure as it cascades down into this pool."
+        },
+        {
+          "startUid": "u1680",
+          "endUid": "u1685",
+          "quote": "That we can—no, beyond the summoning. So, okay, so you are standing on the dwarven road, yeah, looking west towards the bridge and north towards the lake, where the, the pool at the bottom of the waterfall. In between you and the lake, on the shore of the, of the river, is this circle, 10 foot in diameter, runes. Ah, I'm—almost looks like it is sort of painted on the, on the ground, on the sand. Just beyond the circle in the river is sort of mists and shapes. You can see looming in the midst, like, you know, a sort of dead tree stump coming up and like little bits of like vine and cattails and things kind of clog—almost like clogging the river at that point, just beyond that, the summoning circle."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1419",
+              "endUid": "u1422",
+              "quote": "That the valley itself, is like up where you are right now, just coming down from the mountain, is, is pretty barren. It's it's sort of dirt and dust mostly, but along the river valley there's um, you know trees growing, there's you know clusters of, of these vines. And the river itself, although it... So there's a waterfall that comes down off the mountains and cascades down into this pool. And that actually, in the morning light, is, you know the sun is catching it, looks quite pretty, this cascading silvery waterfall. It being or, you know middle spring, the winter rains and snow melt from the top of the mountain have swelled the, the flow of the water. And so you get this you know beautiful cascading—from the water coming off the mountain seems to be clear and pure as it cascades down into this pool."
+            }
+          ]
+        },
+        {
+          "relation": "north_of",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1680",
+              "endUid": "u1684",
+              "quote": "That we can—no, beyond the summoning. So, okay, so you are standing on the dwarven road, yeah, looking west towards the bridge and north towards the lake, where the, the pool at the bottom of the waterfall. In between you and the lake, on the shore of the, of the river, is this circle, 10 foot in diameter, runes. Ah, I'm—almost looks like it is sort of painted on the, on the ground, on the sand. Just beyond the circle in the river is sort of mists and shapes. You can see looming in the midst, like, you know, a sort of dead tree stump coming up and like little bits of like vine and cattails and things kind of clog—almost like clogging the river at that point, just beyond that, the summoning circle."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Top of the tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u1103",
+          "endUid": "u1103",
+          "quote": "Before we go to the mists, I'll climb up onto the top of the tower and look for Vola. Where is she?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1103",
+              "endUid": "u1103",
+              "quote": "Before we go to the mists, I'll climb up onto the top of the tower and look for Vola. Where is she?"
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Master’s workshop beyond the mineshaft",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u2568",
+          "endUid": "u2573",
+          "quote": "And beyond the mine shaft, you can see a what looks like a the remains of a master's workshop. There's like hunks of unrefined ore. There are bellows and anvils, a smelter. Most of it is you know iron, steel, things like that, but there is one I'm relatively large piece of dull of this sort of dull, matte iron metal that, that, Seeker, strikes you immediately as something different."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2459",
+              "endUid": "u2462",
+              "quote": "Yeah, the mines and the forge. Right. So you're going underneath. You basically gone well, this map is not really particularly perfect. There's a there's a passageway underneath the market area that is not that is not on this map that comes out sort of near this mines, forge area, which is not a not a place you have been."
+            },
+            {
+              "startUid": "u2568",
+              "endUid": "u2573",
+              "quote": "And beyond the mine shaft, you can see a what looks like a the remains of a master's workshop. There's like hunks of unrefined ore. There are bellows and anvils, a smelter. Most of it is you know iron, steel, things like that, but there is one I'm relatively large piece of dull of this sort of dull, matte iron metal that, that, Seeker, strikes you immediately as something different."
+            }
+          ]
+        },
+        {
+          "relation": "beyond",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u2568",
+              "endUid": "u2573",
+              "quote": "And beyond the mine shaft, you can see a what looks like a the remains of a master's workshop. There's like hunks of unrefined ore. There are bellows and anvils, a smelter. Most of it is you know iron, steel, things like that, but there is one I'm relatively large piece of dull of this sort of dull, matte iron metal that, that, Seeker, strikes you immediately as something different."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0017"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party finishes breakfast in the castle plaza.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "in an abandoned fortress perched above a river valley, a group of adventurers is finishing a late breakfast."
+        },
+        {
+          "startUid": "u0017",
+          "endUid": "u0017",
+          "quote": "So you are, you are out here on—in this, this plaza."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0104",
+        "endUid": "u0129"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "Search the ruined barracks by the cliffs, entering upstairs and then inspecting the sleeping quarters below.",
+      "evidence": [
+        {
+          "startUid": "u0104",
+          "endUid": "u0104",
+          "quote": "To the rubble one."
+        },
+        {
+          "startUid": "u0108",
+          "endUid": "u0108",
+          "quote": "I'm going with going with Seeker. Okay."
+        },
+        {
+          "startUid": "u0115",
+          "endUid": "u0123",
+          "quote": "No, Wellby’s coming with Delwath."
+        },
+        {
+          "startUid": "u0118",
+          "endUid": "u0129",
+          "quote": "And Riswynn's in, okay. So as you, as you climb the stairs, you can see—and you, I forget who briefly explored this last time, but, but I remember one of you looked around briefly—and, and the impression that the three of you get, kind of climbing up the stairs and looking around, is the same as before. It's—so this was maybe once a hall, or a sort of a, you know, mess hall, like great hall of the, of the barracks, and there's stairs that go down."
+        },
+        {
+          "startUid": "u0163",
+          "endUid": "u0177",
+          "quote": "And on that—so, so, poking around on the lower floor, so you can go down there. So this looks like it was used as sleeping quarters, or or or there's like piles of straw and dirt sort of pushed into beds. It smells kind of foul. Scattered around, there's you know, the, you know, like a couple sort of pouches and things just tossed you know carelessly around, and there's some sort of scattered coins. Don't seem to be have been carefully collected or treasure, just like you know a pouch was like sort of thrown carelessly aside and sort of coins scattered across..."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Climb the exterior stairs to the ruined hall; later inspect the lower sleeping quarters."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0233",
+        "endUid": "u0280"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby",
+        "Vola"
+      ],
+      "reading": "Enter the intact barracks, inspect its upstairs weapon stores, and descend to the storerooms outside the locked door.",
+      "evidence": [
+        {
+          "startUid": "u0233",
+          "endUid": "u0245",
+          "quote": "Right, right. So, ah, let's, uh, let's cut to the Wellby and Delwath exploring the—and Vola exploring the better-preserved building. So as you head up, I'm—Delwath, you—let me do it. Let's do it. You want to give me your Perception check?"
+        },
+        {
+          "startUid": "u0274",
+          "endUid": "u0280",
+          "quote": "Okay. Ah, so that's the top floor. None of this equipment is magical. Going down the stairs, the downstairs here seems not to be barracks so much as like a series of, of store rooms of, like, pantry, you know, food storage, that, that sort of thing. Mostly completely empty and dusty except for one room where the door has been locked with a rusting chain and a padlock through the chain."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0309",
+        "endUid": "u0373"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "Reunite with the other searchers in the intact building, where Riswynn establishes her item workbench.",
+      "evidence": [
+        {
+          "startUid": "u0313",
+          "endUid": "u0314",
+          "quote": "So we reunite in this in this tower."
+        },
+        {
+          "startUid": "u0369",
+          "endUid": "u0373",
+          "quote": "So, so, Wellby, after you pass the key off to Riswynn, you're concentrating on the locket. Okay. While I type this, Riswynn, you're identifying—that you're just sitting in identifying items?"
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0392",
+        "endUid": "u0401"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Leaves the item work area to examine the mists from the gate lookout.",
+      "evidence": [
+        {
+          "startUid": "u0392",
+          "endUid": "u0393",
+          "quote": "Um, Tim? Yeah, I'm gonna kind of wander outside while they're doing this and more closely with my fey sight at the unexplored mists."
+        },
+        {
+          "startUid": "u0672",
+          "endUid": "u0674",
+          "quote": "Just looked at the gate."
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0540",
+        "endUid": "u0544"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Enter and search the unlocked Blackened Claw storeroom. The DM later clarifies that Riswynn and Vola remain at her workbench.",
+      "evidence": [
+        {
+          "startUid": "u0540",
+          "endUid": "u0544",
+          "quote": "Um so this seems to be a storeroom of the more valuable materials of war of the Blackened Claw tribes. So there are suits of armor—chain mail, plate, half plate—all rusting and bad conditions, but with this Blackened Claw emblem visible on them. A number of pole arms and greatswords. Some potion bottles, eight in total. And this..."
+        },
+        {
+          "startUid": "u0589",
+          "endUid": "u0595",
+          "quote": "Riswynn is just finishing identifying items with Vola standing by her. Seeker, Wellby and Kenzo are now in this hobgoblin storeroom."
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0599",
+        "endUid": "u0608"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby",
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "The searchers and Delwath return to Riswynn and Vola at the item workbench.",
+      "evidence": [
+        {
+          "startUid": "u0605",
+          "endUid": "u0605",
+          "quote": "Back in as well."
+        },
+        {
+          "startUid": "u0606",
+          "endUid": "u0608",
+          "quote": "Everybody gathers back ah where Riswynn had set up her brief little workbench, identifying items, and, and Vola is still sort of pressing you about the helm. You know, saying, \"This is this is quite old. I think Drankorian.\""
+        }
+      ],
+      "from": null,
+      "to": "p05",
+      "completion": "arrived",
+      "note": "The three searchers return from the storeroom; Delwath returns from his separate lookout excursion."
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0638",
+        "endUid": "u0644"
+      },
+      "actors": [
+        "Vola"
+      ],
+      "reading": "Leaves the item discussion to keep watch on the valley; Wellby later locates her at the lookout.",
+      "evidence": [
+        {
+          "startUid": "u0638",
+          "endUid": "u0640",
+          "quote": "Well, I, I am gonna go keep an eye on that valley. I'm a little suspect—I'm a little nervous. Feels too quiet now."
+        },
+        {
+          "startUid": "u1104",
+          "endUid": "u1105",
+          "quote": "She, she is a—like over here. Whoops. Over—why is this not working? Over here, like that the—keeping an eye on the valley."
+        }
+      ],
+      "from": "p05",
+      "to": "p19",
+      "completion": "arrived",
+      "note": "The later map-pointing description identifies the lookout function, but does not locate her exact spot on the gate complex."
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0647",
+        "endUid": "u0674"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Reports seeing an angry extraplanar echo concentrated where the road crosses the river, with only a faint echo in the castle mists.",
+      "evidence": [
+        {
+          "startUid": "u0647",
+          "endUid": "u0674",
+          "quote": "There's a, there's a something from another, another world, some energy. It came it came to this earth from, from somewhere else. Sort of now in the valley, where the road crosses."
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p07",
+      "mode": "remote",
+      "note": "This account reports the earlier fey-sight observation; Delwath does not physically enter the distant crossing or another plane."
+    },
+    {
+      "id": "l23",
+      "type": "presence",
+      "source": {
+        "startUid": "u1103",
+        "endUid": "u1105"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Climbs the tower to locate Vola watching the valley.",
+      "evidence": [
+        {
+          "startUid": "u1103",
+          "endUid": "u1103",
+          "quote": "Before we go to the mists, I'll climb up onto the top of the tower and look for Vola. Where is she?"
+        },
+        {
+          "startUid": "u1104",
+          "endUid": "u1105",
+          "quote": "She, she is a—like over here. Whoops. Over—why is this not working? Over here, like that the—keeping an eye on the valley."
+        }
+      ],
+      "place": "p20"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1128",
+        "endUid": "u1141"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Inspects the storeroom’s banner and equipment before leaving; the party takes the eight potions and half plate.",
+      "evidence": [
+        {
+          "startUid": "u1128",
+          "endUid": "u1128",
+          "quote": "As we're going back—I mean, have we left the storeroom?"
+        },
+        {
+          "startUid": "u1130",
+          "endUid": "u1130",
+          "quote": "How are you so there's still the... So what else do you want? You're taking the eight potions and the rusty half plate, on floating on your disk. Are you taking the banner? Are you taking anything else from the storeroom?"
+        },
+        {
+          "startUid": "u1131",
+          "endUid": "u1141",
+          "quote": "It's better not to leave the banner here, right, for somebody else to take? Is it is it is it heavy? I mean, is it what kind of magic is it?"
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1245",
+        "endUid": "u1253"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group goes to the edge of the courtyard mists by the pool and ruined forge to sample the water.",
+      "evidence": [
+        {
+          "startUid": "u1245",
+          "endUid": "u1253",
+          "quote": "No, and it's—so as you head into the sort of inner, this outdoor courtyard area where the unexplored mist and fog are... So the mists almost seem to be sort of rising off of this, of this pool of water here and sort of collecting in what's a bit of a, bit of a, like a dip, a depression in the ground. And also in this there's like a ruined, like forge, like, you know, armor, weapon smith area here that seems to have been, you know, ruined by the walls being—the walls of this barracks that were knocked down and burned fell onto this forge and kind of cracked it and then broke down. And there was a bit of a sort of low point of the, of the ground here. Ah, and the mists are sort of bubbling off of this pool and, and sort of almost flowing down hill and collecting and that depression."
+        },
+        {
+          "startUid": "u1305",
+          "endUid": "u1312",
+          "quote": "standing on the edge of the mists."
+        }
+      ],
+      "from": "p04",
+      "to": "p08",
+      "completion": "arrived",
+      "note": "The sample is retrieved with Mage Hand. Kenzo’s joking proposal to run into the mist is not narrated as completed."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1381",
+        "endUid": "u1684"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "Descend the switchback road through the gates and reach the riverbank summoning circle beside the dwarven bridge.",
+      "evidence": [
+        {
+          "startUid": "u1381",
+          "endUid": "u1381",
+          "quote": "So you're gonna head out the gates, heading following the road down into the valley?"
+        },
+        {
+          "startUid": "u1396",
+          "endUid": "u1401",
+          "quote": "I'll come along. So ah you head down. So the, the Raven's Hold itself is set sort of on the, on the, like partway up the mountain on, on like a sort of flat area with the cliffy walls of the of the mountain behind it. And this, you know part of the reason why this is such a strong defensive position is this gate complex and then switch back road that leads down in three switchbacks down the side of the mountain, passing through additional gates at each turning. And so this is a very strong position to defend from."
+        },
+        {
+          "startUid": "u1680",
+          "endUid": "u1684",
+          "quote": "That we can—no, beyond the summoning. So, okay, so you are standing on the dwarven road, yeah, looking west towards the bridge and north towards the lake, where the, the pool at the bottom of the waterfall. In between you and the lake, on the shore of the, of the river, is this circle, 10 foot in diameter, runes. Ah, I'm—almost looks like it is sort of painted on the, on the ground, on the sand. Just beyond the circle in the river is sort of mists and shapes. You can see looming in the midst, like, you know, a sort of dead tree stump coming up and like little bits of like vine and cattails and things kind of clog—almost like clogging the river at that point, just beyond that, the summoning circle."
+        }
+      ],
+      "from": "p01",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Descend three switchbacks, passing gates at the turns."
+        },
+        {
+          "reading": "Follow the dwarven road across the valley toward the bridge.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1419",
+        "endUid": "u1443"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "See the clear waterfall and pool, then the mist-covered obstruction and sluggish water below the bridge.",
+      "evidence": [
+        {
+          "startUid": "u1419",
+          "endUid": "u1443",
+          "quote": "That the valley itself, is like up where you are right now, just coming down from the mountain, is, is pretty barren. It's it's sort of dirt and dust mostly, but along the river valley there's um, you know trees growing, there's you know clusters of, of these vines. And the river itself, although it... So there's a waterfall that comes down off the mountains and cascades down into this pool. And that actually, in the morning light, is, you know the sun is catching it, looks quite pretty, this cascading silvery waterfall. It being or, you know middle spring, the winter rains and snow melt from the top of the mountain have swelled the, the flow of the water. And so you get this you know beautiful cascading—from the water coming off the mountain seems to be clear and pure as it cascades down into this pool."
+        }
+      ],
+      "place": "p18",
+      "mode": "local",
+      "note": "Seeing the pool during the approach does not establish that the party enters or drinks from it."
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2256",
+        "endUid": "u2271"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Walks onto the center of the bridge to use Stone Sense.",
+      "evidence": [
+        {
+          "startUid": "u2256",
+          "endUid": "u2256",
+          "quote": "I stroll up onto the bridge and stand in the center of the bridge."
+        },
+        {
+          "startUid": "u2258",
+          "endUid": "u2258",
+          "quote": "Oh, and I'll do Stone Sense."
+        },
+        {
+          "startUid": "u2271",
+          "endUid": "u2271",
+          "quote": "If there's anything interesting directly beneath us in the earth. And also, if there's anything interesting in the structure of the bridge."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2322",
+        "endUid": "u2333"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to the castle to free the animals in the stables.",
+      "evidence": [
+        {
+          "startUid": "u2322",
+          "endUid": "u2333",
+          "quote": "So um you head back up to the to the castle to free the animals. Seeker, what do you want to do?"
+        },
+        {
+          "startUid": "u2341",
+          "endUid": "u2342",
+          "quote": "Seeker, I'm gonna come over I'm coming over with you and sort of watching and looking at you with the animals."
+        }
+      ],
+      "from": "p10",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2393",
+        "endUid": "u2442"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Rides a lion with the freed animals down the valley as they disperse, then rejoins the group before leading it into the dwarven caves.",
+      "evidence": [
+        {
+          "startUid": "u2393",
+          "endUid": "u2393",
+          "quote": "So once, once we get them free, turn to you, Seeker, and say, \"I'm going to go down with them and make sure that they get out okay.\" And I'll climb on the back of one of the lions and ride off with them."
+        },
+        {
+          "startUid": "u2402",
+          "endUid": "u2405",
+          "quote": "That, that's what seems to happen when you watch Wellby: that he stands there looking at the lion for a moment, and then the lion stops and looks at him."
+        },
+        {
+          "startUid": "u2415",
+          "endUid": "u2422",
+          "quote": "So the rest of you stand and watch as this procession of, of animals with halfling riding a lion—and it's a very tame lion that seems to be moving with—behaving quite oddly for a lion, like almost like a sheep dog would, right? Like, you know, pacing up and down the sides of this, of this herd of predators, like roaring at them, sort of moving to sort of keep them in line and, and direct, you know, direct the, the, the group away from you and down through the valley. Wellby riding on its back this entire time as they move down the river and out into the valley and begin to disperse."
+        },
+        {
+          "startUid": "u2438",
+          "endUid": "u2442",
+          "quote": "Wellby leads you here and then down the corridor."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "ride a lion, then return on an unstated route",
+      "route": [
+        {
+          "reading": "Accompanies the predator procession down the river through the valley until it begins dispersing.",
+          "place": "p09"
+        },
+        {
+          "reading": "Returns to the party, then leads the approach through the dwarven caves.",
+          "place": "p13"
+        }
+      ],
+      "note": "His return is implicit in the later accepted narration placing him back with the party; the exact reunion point is unstated. The proposed dawn-tomorrow instruction does not delay the narrated departure."
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2438",
+        "endUid": "u2450"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return into the dwarven caves and approach the damaged guardian via the partly barricaded side passage.",
+      "evidence": [
+        {
+          "startUid": "u2438",
+          "endUid": "u2450",
+          "quote": "Yes, that's right. Ah, you head back into the dwarven caves and approach the—so, so Wellby had described this, right? There was a sort of—in these caves where Inakara, the, the crazy dwarf person, dwarf-like person, lead you—there was a sort of a side passage that was partially blocked off, like barricaded, like the hobgoblins had—had this is as far as they've gotten and built a sort of defensive position here. And Wellby leads you here and then down the corridor."
+        }
+      ],
+      "from": "p01",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Take the passage beneath the market area toward the mines and forge.",
+          "place": "p13"
+        }
+      ],
+      "note": "The intervening route from the castle back into the outpost is compressed; this does not establish a surface crossing of the bridge."
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2468",
+        "endUid": "u2484"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker"
+      ],
+      "reading": "Approach the stone guardian while companions hold back.",
+      "evidence": [
+        {
+          "startUid": "u2468",
+          "endUid": "u2475",
+          "quote": "I'm definitely going to approach it."
+        },
+        {
+          "startUid": "u2476",
+          "endUid": "u2484",
+          "quote": "Okay, um, as it, as it begins to—its—so it seems to be not like fully functioning properly, like, as it—as you begin to approach it sort of turns, turns, notices you and start to try to walk forward and begins to try to lift up it's, its axe, but it can't get—it's can't get his arms above, like, you know, it's shoulders. So it's like keeps going like this and sort of trying to, to struggle towards you. And then it, it pauses for a moment. And says, “Stop,” in Dwarven."
+        }
+      ],
+      "from": "p14",
+      "to": "p14",
+      "completion": "arrived",
+      "note": "Seeker accompanies Riswynn; Delwath and Wellby explicitly stay back. No ordered combat begins."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2546",
+        "endUid": "u2567"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After Riswynn presents the clan shield, pass the guardian into the ruined mineshaft entrance.",
+      "evidence": [
+        {
+          "startUid": "u2546",
+          "endUid": "u2548",
+          "quote": "I’ll hold up the shield of the Brawnanvils and say, you know, “My family have been part of this community for generations.”"
+        },
+        {
+          "startUid": "u2549",
+          "endUid": "u2551",
+          "quote": "When it sees the shield, it again—it's like eyes sort of slightly whir and points toward, you know, look towards you, and it, it says now more confidently in Dwarven. And it's voice when it speaks, it sounds, it sounds like stone sort of grating on stone. And it says, 'Yes, my dwarves,' and steps aside."
+        },
+        {
+          "startUid": "u2556",
+          "endUid": "u2567",
+          "quote": "So I gotta pop my old, old notes here. Um, so what you see as you head past this statue, this guardian, is what looks like room that was once a—to a mineshaft. But the equipment and, I'm, you know, the notes and—sorry, the equipment in the, and the sort of all the scaffolding and everything has been destroyed. But there's just giant cracks in the floor going down."
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u2568",
+        "endUid": "u2580"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Survey the master’s workshop beyond the shaft and collect the unusual metal for the floating disk.",
+      "evidence": [
+        {
+          "startUid": "u2568",
+          "endUid": "u2573",
+          "quote": "And beyond the mine shaft, you can see a what looks like a the remains of a master's workshop. There's like hunks of unrefined ore. There are bellows and anvils, a smelter. Most of it is you know iron, steel, things like that, but there is one I'm relatively large piece of dull of this sort of dull, matte iron metal that, that, Seeker, strikes you immediately as something different."
+        },
+        {
+          "startUid": "u2574",
+          "endUid": "u2574",
+          "quote": "It's is this the stuff that we saw before? Yeah, I forget what it's called."
+        },
+        {
+          "startUid": "u2575",
+          "endUid": "u2575",
+          "quote": "Adamantine."
+        },
+        {
+          "startUid": "u2576",
+          "endUid": "u2576",
+          "quote": "And that's super valuable. So we should chuck that onto the disk."
+        },
+        {
+          "startUid": "u2577",
+          "endUid": "u2577",
+          "quote": "Yes."
+        }
+      ],
+      "from": "p15",
+      "to": "p21",
+      "completion": "arrived",
+      "note": "The accepted collection of the ore supplies the physical arrival; no separate doorway crossing is narrated."
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u2581",
+        "endUid": "u2601"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn",
+        "Kenzo"
+      ],
+      "reading": "Look into the ruined shaft, deeper than Riswynn’s 120-foot darkvision; Kenzo explicitly decides not to jump.",
+      "evidence": [
+        {
+          "startUid": "u2581",
+          "endUid": "u2585",
+          "quote": "Can we do anything else to see here? We look down into the pit."
+        },
+        {
+          "startUid": "u2599",
+          "endUid": "u2601",
+          "quote": "How deep is this hole?"
+        }
+      ],
+      "place": "p15",
+      "observerPlace": "p15",
+      "mode": "local"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2620",
+        "endUid": "u2645"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "Leave through the secret passage and stream to the camp with their horses and stored equipment.",
+      "evidence": [
+        {
+          "startUid": "u2620",
+          "endUid": "u2624",
+          "quote": "So as you head out quietly through the secret door, back down the passageway, Vola following silently behind, in the afternoon you return..."
+        },
+        {
+          "startUid": "u2630",
+          "endUid": "u2645",
+          "quote": "You come out through the clear water of the mountain stream protecting the back entrance to the dwarven hold, to your horses, the camp you had set up, your giant barrel of oil to burn down the, the plants, you know your, your tents, your you know all the equipment you hadn't bothered to lug with you through the you know, through the mountains."
+        }
+      ],
+      "from": "p13",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2630",
+        "endUid": "u2645"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride south for a few hours to an evening campsite.",
+      "evidence": [
+        {
+          "startUid": "u2630",
+          "endUid": "u2645",
+          "quote": "And turn, riding south for a few hours to some place to camp for the evening. As we will end our session there."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "ride",
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Explicit narrated ride to the evening camp."
+      }
+    }
+  ]
+}

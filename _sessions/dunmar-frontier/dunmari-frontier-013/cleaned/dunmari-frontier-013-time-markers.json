@@ -1,0 +1,341 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-013",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+    "sessionYamlSha256": "188efd3d92c5c3978f3fd392a584778405a271e353ddea4f057c19783a287a4c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-transcript.md",
+    "transcriptSha256": "8ea110dde5deab1517d950bea0071df4577d82e38a6d638f4a2a999a57c98019",
+    "yamlDates": {
+      "start": "1748-04-13",
+      "end": "1748-04-13"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0004"
+      },
+      "reading": "The party finishes a late breakfast after the morning gnoll fight and short rest.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "a group of adventurers is finishing a late breakfast."
+        },
+        {
+          "startUid": "u0008",
+          "endUid": "u0010",
+          "quote": "As you eat and rest, small clues and hints of the mystery of this place drift across your minds."
+        },
+        {
+          "startUid": "u0011",
+          "endUid": "u0013",
+          "quote": "As you finish your breakfast, Kenzo—or sorry, Wellby—looks up, having just completed his sketch of the ruins."
+        },
+        {
+          "startUid": "u1508",
+          "endUid": "u1508",
+          "quote": "you fought the gnolls like first thing in the morning, then you short rested, and it's been a while exploring."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Late breakfast is narrated; the date is not independently spoken."
+      },
+      "note": "The later short-rest reference places a completed rest before exploration; its one-hour convention does not establish that the entire rest occurs after this transcript opens."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0392",
+        "endUid": "u0401"
+      },
+      "reading": "Delwath spends a few minutes examining the mists with fey sight while the others handle the items.",
+      "evidence": [
+        {
+          "startUid": "u0392",
+          "endUid": "u0393",
+          "quote": "Um, Tim? Yeah, I'm gonna kind of wander outside while they're doing this and more closely with my fey sight at the unexplored mists."
+        },
+        {
+          "startUid": "u0401",
+          "endUid": "u0401",
+          "quote": "I will spend a few minutes."
+        },
+        {
+          "startUid": "u0647",
+          "endUid": "u0650",
+          "quote": "There's a, there's a something from another, another world, some energy. It came it came to this earth from, from somewhere else. Sort of now in the valley, where the road crosses."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Declared investigation is followed by its narrated findings."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0437",
+        "endUid": "u0437"
+      },
+      "reading": "Riswynn spends about 10–15 minutes praying over each of the three newly identified items.",
+      "evidence": [
+        {
+          "startUid": "u0437",
+          "endUid": "u0437",
+          "quote": "Yeah, it takes like 10–15 minutes praying over each one to get a sense. Um."
+        },
+        {
+          "startUid": "u0589",
+          "endUid": "u0595",
+          "quote": "Riswynn is just finishing identifying items with Vola standing by her."
+        }
+      ],
+      "actors": [
+        "Riswynn"
+      ],
+      "duration": {
+        "min": 10,
+        "max": 15,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM gives the duration per item, not the aggregate duration."
+      },
+      "completion": "completed",
+      "note": "Overlaps the surrounding item conversation and split-party searching; do not add the conversation time again."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0693",
+        "endUid": "u0695"
+      },
+      "reading": "Seeker spends a minute estimating where the ley lines cross.",
+      "evidence": [
+        {
+          "startUid": "u0693",
+          "endUid": "u0695",
+          "quote": "They, if you—so Seeker spends a minute sort of concentrating and like doing a little bit of like trigonometry in his head. And, you know, based on the way that they're crossing here, you would think they would probably cross each other and create a node where the dwarven fort is."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly narrates a minute of concentration."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0879",
+        "endUid": "u0880"
+      },
+      "reading": "Delwath briefly reads the hobgoblin logbook and scouting papers; the DM revises the initial fifteen-minute estimate to about ten minutes.",
+      "evidence": [
+        {
+          "startUid": "u0879",
+          "endUid": "u0880",
+          "quote": "spending 15 minutes kind of flipping through it"
+        },
+        {
+          "startUid": "u0893",
+          "endUid": "u0893",
+          "quote": "I mean, I'm only gonna spend a few minutes flipping..."
+        },
+        {
+          "startUid": "u0894",
+          "endUid": "u0896",
+          "quote": "Yeah, this is basically what you get into—in, like, 10 minutes kind of flipping through."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Later DM estimate corrects the initial fifteen minutes."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1419",
+        "endUid": "u1422"
+      },
+      "reading": "The bridge approach is in morning light, subsequently placed at about 10:30–11 and nearing noon.",
+      "evidence": [
+        {
+          "startUid": "u1419",
+          "endUid": "u1422",
+          "quote": "And that actually, in the morning light, is, you know the sun is catching it, looks quite pretty, this cascading silvery waterfall."
+        },
+        {
+          "startUid": "u1505",
+          "endUid": "u1506",
+          "quote": "It's like 10:30, 11."
+        },
+        {
+          "startUid": "u1508",
+          "endUid": "u1508",
+          "quote": "It's still morning. Man. You probably mean, that you fought the gnolls like first thing in the morning, then you short rested, and it's been a while exploring. Is probably just before lunchtime."
+        },
+        {
+          "startUid": "u1514",
+          "endUid": "u1525",
+          "quote": "It's getting close towards noon, so there's there's not a ton of shadows."
+        }
+      ],
+      "note": "“Morning” is the table’s description; these clock values fall in the review’s midday watch (10–14).",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Narrated morning; the DM gives an uncertain 10:30–11 clock estimate, both within the review’s midday watch."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2127",
+        "endUid": "u2130"
+      },
+      "reading": "After the fight, Delwath and Seeker finish erasing the runes in less than roughly 15–20 seconds.",
+      "evidence": [
+        {
+          "startUid": "u2127",
+          "endUid": "u2130",
+          "quote": "Okay. Between you and you sort of slashing at them with your sword and Seeker erupting the earth around them, within a few, you know less than you know, 15–20 seconds, you've now sort of eliminated any sign that they were there. And the mists continue to blow away as you do this."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "duration": {
+        "max": 0.3333333333333333,
+        "maxInclusive": false,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM says less than 15–20 seconds; twenty seconds is one-third of a minute."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2165",
+        "endUid": "u2166"
+      },
+      "reading": "Delwath takes ten minutes to check the remaining magic, finding residue in the ash.",
+      "evidence": [
+        {
+          "startUid": "u2165",
+          "endUid": "u2166",
+          "quote": "Magic gone, the angry...? I mean, I'll take 10 minutes to..."
+        },
+        {
+          "startUid": "u2167",
+          "endUid": "u2177",
+          "quote": "Yes. Ah, so it is—yes, it is gone, except for—you see on the, on the ground, there is—you do sense that there is like a small residual magic left"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Declared ten-minute examination is accepted and resolved by the DM."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2620",
+        "endUid": "u2624"
+      },
+      "reading": "The party returns through the secret exit to its horses in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u2620",
+          "endUid": "u2624",
+          "quote": "So as you head out quietly through the secret door, back down the passageway, Vola following silently behind, in the afternoon you return..."
+        },
+        {
+          "startUid": "u2630",
+          "endUid": "u2645",
+          "quote": "You come out through the clear water of the mountain stream protecting the back entrance to the dwarven hold, to your horses, the camp you had set up"
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Explicit DM time-of-day anchor."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2630",
+        "endUid": "u2645"
+      },
+      "reading": "The party rides south for a few hours and reaches a place to camp for the evening.",
+      "evidence": [
+        {
+          "startUid": "u2630",
+          "endUid": "u2645",
+          "quote": "And turn, riding south for a few hours to some place to camp for the evening. As we will end our session there."
+        }
+      ],
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated completed ride."
+      },
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Explicit arrival/camp description."
+      },
+      "completion": "completed",
+      "dateBoundaries": 0
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "The calendar date 1748-04-13 comes entirely from YAML. The transcript establishes morning, a near-noon bridge approach, afternoon return, and evening camp.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t06",
+      "t09",
+      "t10"
+    ],
+    "explanation": "Continuous same-day play ends at evening camp without an overnight. Yesterday’s demon fight, the earlier long rest, historical occupation dates, and Delwath’s backstory are recalled history. “At dawn tomorrow” is a proposed animal instruction; the accepted narration immediately sends the animals away (u2393–u2422), followed by the afternoon return."
+  }
+}
