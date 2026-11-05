@@ -1,0 +1,231 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-time-markers.json",
+    "sha256": "3a26dceed68f624e7774c86dfcfee8947ed7c3c09ccd7e3e87e1c629525ef705"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-transcript.md",
+    "sha256": "1327c9364464c829ad7990da41f6b00e21f423bdf730c9c924e3481e5cdb5a68"
+  },
+  "dateAssessment": "Working dates begin with the YAML’s July 19, 1748; no absolute date is spoken. Four clear transitions fit July 19–23 if t14 repeats the dawn in t13. At u2122–u2130, “another uneventful day” and “the next morning” can instead add a day. The dated Session 43 record assigns the watched ride and sheltered camp to July 22 and the wyverns to July 23; it supports the shorter reading without resolving the transcript’s wording. Later rows retain July 22/23 and July 23/24 alternatives, rather than silently selecting one. Historical life stories, travel forecasts and proposed spell durations do not add days.",
+  "watches": [
+    {
+      "day": "July 19, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The westward departure is explicitly in the morning sun.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-07-19",
+      "endDate": "1748-07-19"
+    },
+    {
+      "day": "July 19, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Wellby’s distant herder sighting follows lunch.",
+      "markers": [
+        "t23"
+      ],
+      "scope": "Wellby",
+      "startDate": "1748-07-19",
+      "endDate": "1748-07-19"
+    },
+    {
+      "day": "July 19, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Afternoon rain begins during the first riding day.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1748-07-19",
+      "endDate": "1748-07-19"
+    },
+    {
+      "day": "July 19, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sunset arrival; about an hour until dark, then Delwath’s hour-long walk.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-07-19",
+      "endDate": "1748-07-19"
+    },
+    {
+      "day": "July 19–20, 1748",
+      "startDate": "1748-07-19",
+      "endDate": "1748-07-20",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Sleep at the inn ends with an explicit cut to the next morning.",
+      "markers": [
+        "t06"
+      ]
+    },
+    {
+      "day": "July 20, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The first day beyond the inn ends after about thirty miles.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-07-20",
+      "endDate": "1748-07-20"
+    },
+    {
+      "day": "July 21, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Next riding day reaches midday; afternoon rain remains an hour or two away.",
+      "markers": [
+        "t08",
+        "t09"
+      ],
+      "startDate": "1748-07-21",
+      "endDate": "1748-07-21"
+    },
+    {
+      "day": "July 21, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Flanking setup takes a few hours; Justan’s story begins around three.",
+      "markers": [
+        "t10",
+        "t24",
+        "t11"
+      ],
+      "startDate": "1748-07-21",
+      "endDate": "1748-07-21"
+    },
+    {
+      "day": "July 21, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Recruitment day ends in camp; the bandits receive their first night’s pay.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-07-21",
+      "endDate": "1748-07-21"
+    },
+    {
+      "day": "July 22, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The next day explicitly dawns after the bandit camp.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-07-22",
+      "endDate": "1748-07-22"
+    },
+    {
+      "day": "During July 22–23, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "open",
+      "summary": "Another next-morning cue may repeat dawn or follow an additional uneventful day.",
+      "markers": [
+        "t14"
+      ],
+      "dateWindow": [
+        "1748-07-22",
+        "1748-07-23"
+      ]
+    },
+    {
+      "day": "During July 22–23, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Northern movement is initially called afternoon, then clarified as around noon.",
+      "markers": [
+        "t15"
+      ],
+      "dateWindow": [
+        "1748-07-22",
+        "1748-07-23"
+      ]
+    },
+    {
+      "day": "During July 22–23, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Evening approaches as the party finds overhead shelter for camp.",
+      "markers": [
+        "t16"
+      ],
+      "dateWindow": [
+        "1748-07-22",
+        "1748-07-23"
+      ]
+    },
+    {
+      "day": "July 22→23 or July 23→24, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "The watched sheltered night passes uneventfully; morning brings a return to the road.",
+      "markers": [
+        "t17"
+      ]
+    },
+    {
+      "day": "During July 23–24, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "The dead horse is found around lunch, clarified as after lunch.",
+      "markers": [
+        "t18"
+      ],
+      "dateWindow": [
+        "1748-07-23",
+        "1748-07-24"
+      ]
+    },
+    {
+      "day": "During July 23–24, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "After lunch, 1–1½ hours to rain; attack thirty minutes later; riders twenty minutes after combat.",
+      "markers": [
+        "t19",
+        "t20",
+        "t21",
+        "t22"
+      ],
+      "dateWindow": [
+        "1748-07-23",
+        "1748-07-24"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated Session 43 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 43 (DuFr).md",
+      "sha256": "7dd671d3ec1d136c9c7873cd120a2ccb2b5115444450fdc3fdfbf11178cc0823"
+    }
+  ]
+}

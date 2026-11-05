@@ -1,0 +1,1917 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "e06c63ee23e02ee2c626ca5dbfcc77b6a2ea75fe83da067c16f87463d1e5fa8e",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "1327c9364464c829ad7990da41f6b00e21f423bdf730c9c924e3481e5cdb5a68",
+        "transcriptProcessing.artifacts.cleaned": "a06c9f5f6eb71c6dc092418cd4552fc93eeccec210d0b23291326f1d4107055e"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Johar",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0009",
+            "endUid": "u0046"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0367",
+            "endUid": "u0379"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0725",
+            "endUid": "u0730"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0855",
+            "endUid": "u0867"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1205",
+            "endUid": "u1217"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Johar.md"
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Rishi",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0023",
+            "endUid": "u0029"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Rishi.md"
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Karnas",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0030",
+            "endUid": "u0046"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0855",
+            "endUid": "u0867"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Nayan Karnas.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Cha'mutte",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0086",
+            "endUid": "u0096"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0521",
+            "endUid": "u0526"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md",
+      "confidenceExplanation": "The elder-wyrm reference supports NPC classification, while the table also describes this primordial being among dragon gods."
+    },
+    {
+      "id": "e005",
+      "kind": "item",
+      "label": "Cloak sought in Darba",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0115",
+            "endUid": "u0145"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0869",
+            "endUid": "u0871"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Cloak of Rainbows.md"
+    },
+    {
+      "id": "e006",
+      "kind": "item",
+      "label": "Letter about evacuating the Kharsan treasury",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0122",
+            "endUid": "u0140"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Archives Letter.md"
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Grash",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0141",
+            "endUid": "u0145"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Grash.md"
+    },
+    {
+      "id": "e008",
+      "kind": "item",
+      "label": "Ring of undeath",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0141",
+            "endUid": "u0145"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Ring of Undying.md",
+      "confidenceExplanation": "The age speculation and death-cheating story fit the Ring of Undying, but this recalled fragment does not state its identity fully."
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Marcella",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0001",
+            "endUid": "u0005"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0347",
+            "endUid": "u0349"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3208",
+            "endUid": "u3233"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3266",
+            "endUid": "u3278"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Marcella.md"
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Kaleha",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0146",
+            "endUid": "u0158"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Kaleha.md"
+    },
+    {
+      "id": "e011",
+      "kind": "organization",
+      "label": "Aagir's mystai",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0177",
+            "endUid": "u0184"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0592",
+            "endUid": "u0598"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0764",
+            "endUid": "u0846"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1423",
+            "endUid": "u1430"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Aagir Mystai.md"
+    },
+    {
+      "id": "e012",
+      "kind": "divine",
+      "label": "Aagir",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0177",
+            "endUid": "u0184"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0791",
+            "endUid": "u0794"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0845",
+            "endUid": "u0846"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0952",
+            "endUid": "u0969"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Aagir.md"
+    },
+    {
+      "id": "e013",
+      "kind": "divine",
+      "label": "Shakun",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0328",
+            "endUid": "u0330"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md"
+    },
+    {
+      "id": "e014",
+      "kind": "divine",
+      "label": "Bhishma",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0328",
+            "endUid": "u0330"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0615",
+            "endUid": "u0633"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0990",
+            "endUid": "u1001"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1492",
+            "endUid": "u1497"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3199",
+            "endUid": "u3202"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md"
+    },
+    {
+      "id": "e015",
+      "kind": "divine",
+      "label": "Laka",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0328",
+            "endUid": "u0330"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md"
+    },
+    {
+      "id": "e016",
+      "kind": "organization",
+      "label": "Shakun mystai",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0328",
+            "endUid": "u0330"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Shakun Mystai.md"
+    },
+    {
+      "id": "e017",
+      "kind": "npc",
+      "label": "Amar",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0418",
+            "endUid": "u0456"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0540",
+            "endUid": "u0579"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0609",
+            "endUid": "u0633"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0939",
+            "endUid": "u1001"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Amar.md"
+    },
+    {
+      "id": "e018",
+      "kind": "organization",
+      "label": "Order of Bhishma",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0615",
+            "endUid": "u0633"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0990",
+            "endUid": "u1001"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1444",
+            "endUid": "u1445"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1492",
+            "endUid": "u1497"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Bhishma's mystai"
+      ],
+      "note": "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md"
+    },
+    {
+      "id": "e019",
+      "kind": "npc",
+      "label": "Speaker Lara",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0855",
+            "endUid": "u0867"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Lara.md"
+    },
+    {
+      "id": "e020",
+      "kind": "organization",
+      "label": "Lakan monks",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0855",
+            "endUid": "u0867"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Lakan Mystai.md"
+    },
+    {
+      "id": "e021",
+      "kind": "npc",
+      "label": "Taster",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1046",
+            "endUid": "u1064"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Taster.md"
+    },
+    {
+      "id": "e022",
+      "kind": "npc",
+      "label": "Baxter",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1112",
+            "endUid": "u1115"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1798",
+            "endUid": "u1800"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2368",
+            "endUid": "u2409"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2914",
+            "endUid": "u2916"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2972",
+            "endUid": "u2975"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Baxter.md"
+    },
+    {
+      "id": "e023",
+      "kind": "organization",
+      "label": "Copper Hills bandits",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0766",
+            "endUid": "u0813"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1132",
+            "endUid": "u1144"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1315",
+            "endUid": "u1329"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1410",
+            "endUid": "u1421"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1694",
+            "endUid": "u1734"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1841",
+            "endUid": "u1862"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1972",
+            "endUid": "u2006"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3078",
+            "endUid": "u3079"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The continuing roadside toll operation, separate base, scouts and recruited troop establish a persistent group rather than a temporary gathering."
+    },
+    {
+      "id": "e024",
+      "kind": "npc",
+      "label": "Horn-bearing bandit scout",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1254",
+            "endUid": "u1293"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1294",
+            "endUid": "u1403"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The archer with the horn is distinguished from the chain-mail captain later named Justan; the interrogation retains his separate unnamed identity."
+    },
+    {
+      "id": "e025",
+      "kind": "item",
+      "label": "Bandit’s soundless signaling horn",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1254",
+            "endUid": "u1257"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1281",
+            "endUid": "u1283"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1378",
+            "endUid": "u1386"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Magic Items/Horn of Silent Alarm (Dunmari).md",
+      "confidenceExplanation": "Its soundless alarm matches the Dunmari horn type; the later ownership account does not identify its present wielder as Justan."
+    },
+    {
+      "id": "e026",
+      "kind": "npc",
+      "label": "Justan",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1455",
+            "endUid": "u1555"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1590",
+            "endUid": "u1597"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1630",
+            "endUid": "u1734"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1848",
+            "endUid": "u1862"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Justan.md"
+    },
+    {
+      "id": "e027",
+      "kind": "npc",
+      "label": "Sura",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1572",
+            "endUid": "u1580"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Sura.md"
+    },
+    {
+      "id": "e028",
+      "kind": "npc",
+      "label": "Kirian",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1602",
+            "endUid": "u1609"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1638",
+            "endUid": "u1645"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Kirian.md"
+    },
+    {
+      "id": "e029",
+      "kind": "item",
+      "label": "Scepter of Command",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0902",
+            "endUid": "u0907"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1892",
+            "endUid": "u1895"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3471",
+            "endUid": "u3472"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3582",
+            "endUid": "u3610"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3668",
+            "endUid": "u3698"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "scepter of power"
+      ],
+      "note": "Things/Artifacts of Power/Scepter of Command.md"
+    },
+    {
+      "id": "e030",
+      "kind": "npc",
+      "label": "Hobgoblin mage in the mirror",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1906",
+            "endUid": "u1911"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "identifiedLater": true,
+      "note": "People/Other Nonhumans/Revaka.md"
+    },
+    {
+      "id": "e031",
+      "kind": "npc",
+      "label": "Orc in the mirror",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1906",
+            "endUid": "u1911"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "identifiedLater": true,
+      "note": "People/Orcs/Nogu.md"
+    },
+    {
+      "id": "e032",
+      "kind": "npc",
+      "label": "Fifty-foot rope ladder / Captain Ropey",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2142",
+            "endUid": "u2143"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2802",
+            "endUid": "u2818"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The source distinguishes the larger ladder from the experienced fifteen-foot ladder; it is not the one ultimately animated."
+    },
+    {
+      "id": "e033",
+      "kind": "npc",
+      "label": "Original fifteen-foot heroic ladder",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2813",
+            "endUid": "u2828"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3087",
+            "endUid": "u3088"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Ropey"
+      ],
+      "note": "People/PCs/Dunmar Fellowship/Companions/Ladder.md"
+    },
+    {
+      "id": "e034",
+      "kind": "npc",
+      "label": "Wyvern captured as a turtle",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2368",
+            "endUid": "u2409"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2475",
+            "endUid": "u2512"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3106",
+            "endUid": "u3135"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3159",
+            "endUid": "u3187"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Its continuing identity as the new mirror captive, beyond generic combat participation, independently qualifies it for the inventory."
+    },
+    {
+      "id": "e035",
+      "kind": "item",
+      "label": "Mirror of Soul Trapping",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1866",
+            "endUid": "u1957"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3106",
+            "endUid": "u3155"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3167",
+            "endUid": "u3187"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md",
+      "confidenceExplanation": "The new captive and deliberate collection plan give the mirror a plot role, although the trapping action also uses its normal power."
+    },
+    {
+      "id": "e036",
+      "kind": "npc",
+      "label": "Kadmos",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3215",
+            "endUid": "u3224"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3404",
+            "endUid": "u3407"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3455",
+            "endUid": "u3467"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3504",
+            "endUid": "u3539"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3660",
+            "endUid": "u3662"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Kadmos.md"
+    },
+    {
+      "id": "e037",
+      "kind": "npc",
+      "label": "Casian",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3215",
+            "endUid": "u3224"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3271",
+            "endUid": "u3347"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3374",
+            "endUid": "u3428"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3480",
+            "endUid": "u3487"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Casian.md"
+    },
+    {
+      "id": "e038",
+      "kind": "npc",
+      "label": "Hektor",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3215",
+            "endUid": "u3224"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3271",
+            "endUid": "u3274"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Hektor.md"
+    },
+    {
+      "id": "e039",
+      "kind": "npc",
+      "label": "Antonia",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3221",
+            "endUid": "u3224"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Antonia.md"
+    },
+    {
+      "id": "e040",
+      "kind": "organization",
+      "label": "Great Library",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3412",
+            "endUid": "u3415"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3480",
+            "endUid": "u3482"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3502",
+            "endUid": "u3502"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md"
+    },
+    {
+      "id": "e041",
+      "kind": "organization",
+      "label": "Society of the Open Scroll",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3700",
+            "endUid": "u3700"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Society of the Open Scroll.md"
+    },
+    {
+      "id": "e042",
+      "kind": "item",
+      "label": "Protective Dunmari saddle offered by Casian",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3327",
+            "endUid": "u3333"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e043",
+      "kind": "item",
+      "label": "Potion of resistance to all damage offered by Casian",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3334",
+            "endUid": "u3338"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e044",
+      "kind": "item",
+      "label": "Boots that make the wearer fast",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3339",
+            "endUid": "u3342"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e045",
+      "kind": "item",
+      "label": "Ring of haste offered by Casian",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3343",
+            "endUid": "u3347"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3365",
+            "endUid": "u3367"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e046",
+      "kind": "item",
+      "label": "Delwath’s ring of displacement",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3348",
+            "endUid": "u3366"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Ring of Displacement.md"
+    },
+    {
+      "id": "e047",
+      "kind": "item",
+      "label": "Kenzo’s ring of jumping",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3348",
+            "endUid": "u3366"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e048",
+      "kind": "item",
+      "label": "Chalice of the rune priests",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3376",
+            "endUid": "u3380"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3502",
+            "endUid": "u3502"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Chalice of the Runepriest.md"
+    },
+    {
+      "id": "e049",
+      "kind": "npc",
+      "label": "Agata",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3275",
+            "endUid": "u3315"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3684",
+            "endUid": "u3692"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Agata.md"
+    },
+    {
+      "id": "e050",
+      "kind": "npc",
+      "label": "Govir",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3672",
+            "endUid": "u3683"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Govir.md"
+    },
+    {
+      "id": "e051",
+      "kind": "npc",
+      "label": "Havdar",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3249",
+            "endUid": "u3255"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Havdar.md"
+    },
+    {
+      "id": "e052",
+      "kind": "npc",
+      "label": "Werewolf prisoner who spread the scepter story",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3678",
+            "endUid": "u3683"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Wild hawk and ravens",
+      "reason": "Transient wild animals used for information and scouting; the source establishes no ongoing companion identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1091",
+            "endUid": "u1115"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2030",
+            "endUid": "u2072"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Unnamed slain archer and other anonymous bandits",
+      "reason": "The casualty and routine troop roles lack separate individual identities; retain their actions and loss with the bandit group and combat.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2416",
+            "endUid": "u2431"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3078",
+            "endUid": "u3079"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Wyvern killed on the road",
+      "reason": "A generic combat opponent without a separately developed ongoing identity. Its fight and defeat remain fully recorded in combat; the surviving captive has a distinct continuing role.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2586",
+            "endUid": "u2641"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3022",
+            "endUid": "u3031"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Raven whistle, message stones, Ring of the Warded Mind, Caustic Wand and Mote of Fate",
+      "reason": "Routine use, proposed use, or rules discussion of existing PC equipment, without separate acquisition or original item lore in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1186",
+            "endUid": "u1190"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2294",
+            "endUid": "u2305"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2757",
+            "endUid": "u2761"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3517",
+            "endUid": "u3535"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3664",
+            "endUid": "u3667"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Portable Hole",
+      "reason": "Routine storage and discussion of its ordinary handling; the source does not establish a new acquisition, independent lore, or separate plot-object development.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1795",
+            "endUid": "u1797"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1933",
+            "endUid": "u1946"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3146",
+            "endUid": "u3153"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Drikod",
+      "reason": "Named only to orient the location of an earlier dwarven kingdom, without a substantive personal reference in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0078",
+            "endUid": "u0084"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Amar’s and Justan’s unnamed families",
+      "reason": "Secondhand family background supplies no independently developed individual identities; preserve the accounts and their qualifications in the focal men’s interactions.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0943",
+            "endUid": "u0988"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1499",
+            "endUid": "u1555"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1592",
+            "endUid": "u1597"
+          }
+        }
+      ]
+    },
+    {
+      "label": "First wooden figurine given to Amar",
+      "reason": "An ordinary PC-crafted personal gift whose meaning belongs to Amar’s response; it is not independently developed as a significant plot object.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0990",
+            "endUid": "u1001"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Traveler and prior-campaign dragon factions",
+      "reason": "Brief uncertain recollection of a different campaign; no secure current-session referent is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0508",
+            "endUid": "u0526"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Orders of Jeevali, Chidya and Sonkar",
+      "reason": "A geographic checklist of possible monasteries, without meaningful independent institutional involvement.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0183",
+            "endUid": "u0184"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Eudomes",
+      "reason": "His name identifies the tower supplying desired treasure; the negotiation does not meaningfully discuss Eudomes himself.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3370",
+            "endUid": "u3375"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3388",
+            "endUid": "u3393"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 43 (DuFr).md",
+    "Things/Artifacts of Power/Cloak of Rainbows.md",
+    "People/Other Nonhumans/Grash.md"
+  ]
+}
