@@ -1,0 +1,757 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-041",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml",
+    "sessionYamlSha256": "15e8b2ee17ff086eba3393e4283a06722fccf7aff07ce7f261166eee492fed9e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-transcript.md",
+    "transcriptSha256": "e2299384a8ef774a746661a1ccc01ca63fbfb9a0c94201427e09c215dc336671"
+  },
+  "places": {
+    "p01": {
+      "label": "Saka’s camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0017",
+          "endUid": "u0023",
+          "quote": "And as the gods watch Dunmar, we zoom in on that camp in the north where the four of you are gathered having just finished your conversation among yourselves outside of Saka's, having shared a meal with her, exchange—exchanged your pleasantries, given greetings and small tokens, and preparing now to return to Tokra, having learned what you came here for."
+        }
+      ],
+      "note": "The current transcript locates the camp in northern Dunmar. People/Dunmari/Saka.md places her traveling family on Varashan in 1748; that is vault-only orientation, not a current-session containment claim."
+    },
+    "p02": {
+      "label": "Tokra",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u0111",
+          "endUid": "u0119",
+          "quote": "So it's—leave on the, like, afternoon of the sixth. That's about a two and a half day journey back to Tokra, if you you know if you sort of ride straight and don't get distracted, which will assume, for the sake of brevity, that is what happens. I just refuse to describe anything that might distract you, then you can't get distracted. And so you return to to Tokra on the on the evening of July eighth.\n\nDM: You return as the sun is beginning to drop low in the sky over the city. You know, the, the walls and the dome of the temple rising above, catching the light, the tower of the, of the palace and the archives, the three buildings that dominate the skyline. And as you approach the gates, where are you going to head?"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    },
+    "p03": {
+      "label": "Kirian’s",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u0181",
+          "endUid": "u0192",
+          "quote": "So you ride through the city arrived—arriving at, at Kirian's on the evening of the eighth, and he—you know, you attract some attention, right? You're not riding incognito through the city, so, you know, those people kind of, you know, talking about you. Certainly your, your—rumors of your deeds have now spread much more widely. Given that it's been [garbled]—like, it's now, like, more than a week since you arrived in town.\n\nDM: And you know there's a small number of people in the common room of of the inn and Kirian the bartender kind of looks up as you, as you return, says, ‘Friends.’ I've been wondering when you'd come back. I have a number of messages for you. Oh, sorry, you're going to be staying past tonight? Because I believe your rooms are only paid for through this evening."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0181",
+              "endUid": "u0186",
+              "quote": "So you ride through the city arrived—arriving at, at Kirian's on the evening of the eighth, and he—you know, you attract some attention, right? You're not riding incognito through the city, so, you know, those people kind of, you know, talking about you. Certainly your, your—rumors of your deeds have now spread much more widely. Given that it's been [garbled]—like, it's now, like, more than a week since you arrived in town."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Iron Swan / dwarven inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u0257",
+          "endUid": "u0263",
+          "quote": "One from Riswynn saying, I guess: hey, I'm still in town. I'm at the—was the name of the dwarven inn? I'm at the—\n\nRiswynn: Iron Swan.\n\nDM: Iron Swan. Let's talk when you get back."
+        },
+        {
+          "startUid": "u0325",
+          "endUid": "u0327",
+          "quote": "Yeah. Well, I can just jump really far. I can run really fast, jump really far, yeah. Okay, Kenzo goes to the dwarven inn. Greets Riswynn warmly and invites them to dine at the—what's the name of the inn?"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Iron Swan.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0318",
+              "endUid": "u0327",
+              "quote": "How far, how far is it to get Riswynn here?\n\nDM: Not far I mean you're 10 blocks at most.\n\nKenzo: Kenzo's a go getter. Kenzo needs some exercise.\n\nDM: Needs to get his steps.\n\nKenzo: Yeah needs to get—\n\nSeeker: A ring that lets you like jump over entire buildings and stuff so—\n\nKenzo: Yeah. Well, I can just jump really far. I can run really fast, jump really far, yeah. Okay, Kenzo goes to the dwarven inn. Greets Riswynn warmly and invites them to dine at the—what's the name of the inn?"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Red Lily Inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u0695",
+          "endUid": "u0708",
+          "quote": "Can we stop by the Red Lily Inn, the halfling inn on the way? I want to check in on the Charmhearts and on the guy who we—\n\nDM: Garret Tealeaf.\n\nKenzo: Tealeaf right who knows stuff about us and is telling everybody about—\n\nDM: That's not him. That's whatever halfling storyteller happened to have been—\n\nDelwath: Present right again.\n\nUnknown: Yeah.\n\nDM: Yeah okay. He's at the Red—\n\nWellby: Is the storyteller there as we go?\n\nDM: Ah, so it's still relatively early in the morning. There's not that many people are awake. In fact, all you see is Garret Tealeaf sort of nursing his tea and eggs for breakfast. Otherwise the inn is pretty empty. Probably just too early."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Red Lily Inn.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0691",
+              "endUid": "u0708",
+              "quote": "So where to?\n\nKenzo: Go to the plaza where the where the archives are.\n\nDM: So there's the big plaza. There's temple on one side of the plaza, the archives on the other side.\n\nWellby: Can we stop by the Red Lily Inn, the halfling inn on the way? I want to check in on the Charmhearts and on the guy who we—\n\nDM: Garret Tealeaf.\n\nKenzo: Tealeaf right who knows stuff about us and is telling everybody about—\n\nDM: That's not him. That's whatever halfling storyteller happened to have been—\n\nDelwath: Present right again.\n\nUnknown: Yeah.\n\nDM: Yeah okay. He's at the Red—\n\nWellby: Is the storyteller there as we go?\n\nDM: Ah, so it's still relatively early in the morning. There's not that many people are awake. In fact, all you see is Garret Tealeaf sort of nursing his tea and eggs for breakfast. Otherwise the inn is pretty empty. Probably just too early."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "archives",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0821",
+          "endUid": "u0827",
+          "quote": "So you head across to the archives. You—so when you when you first sort of knock and there's still a temple—there's still a couple temple guards stationed at the, at the door now, um, just kind of keeping watch, keeping an eye on things. They recognize you and they let you in, and you can see that there's, like, a corner of—\n\nDM: So the main room is like shelves and like storage for books and scrolls, but then there's also some desks, like, carrels things like that. And you can see that one corner is just like, um, covered in papers. It looks like somebody is in the midst of like spring cleaning or some kind of massive reorganization. There's just, like, thing, you know, books stacked, scrolls, like, spread out across five different tables, and they've all been pushed together, notes just kind of written everywhere."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0691",
+              "endUid": "u0694",
+              "quote": "So where to?\n\nKenzo: Go to the plaza where the where the archives are.\n\nDM: So there's the big plaza. There's temple on one side of the plaza, the archives on the other side."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Hardstones’ downstairs quarters",
+      "kind": "quarters",
+      "evidence": [
+        {
+          "startUid": "u0841",
+          "endUid": "u0852",
+          "quote": "The Hardstones are are in their quarters usually.\n\nDelwath: I'll nod over towards the giant pile. His, that work?\n\nDM: I mostly stand outside but yes, I think so.\n\nDelwath: Thank you. Let's—I mean, let's start by going downstairs and talking to the Hardstones.\n\nDM: That they're, you know, sort of sitting around. The father and uncle are in the workshop. Fallthra is sitting talking quietly with Dag. Looks up is, as you come in, um, kind of smiles. “Seeker!” And kind of waves that at you and Riswynn, um: “You met? Great.”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0821",
+              "endUid": "u0852",
+              "quote": "So you head across to the archives. You—so when you when you first sort of knock and there's still a temple—there's still a couple temple guards stationed at the, at the door now, um, just kind of keeping watch, keeping an eye on things. They recognize you and they let you in, and you can see that there's, like, a corner of—\n\nDM: So the main room is like shelves and like storage for books and scrolls, but then there's also some desks, like, carrels things like that. And you can see that one corner is just like, um, covered in papers. It looks like somebody is in the midst of like spring cleaning or some kind of massive reorganization. There's just, like, thing, you know, books stacked, scrolls, like, spread out across five different tables, and they've all been pushed together, notes just kind of written everywhere.\n\nDM: And the guard.\n\nSeeker: Govir.\n\nDM: Who lets you in asks who you're here to see.\n\nSeeker: Maybe we should talk to Govir first?\n\nDelwath: Let's talk to that. I—Govir might take some time. I would, I would talk to the—what, I talked to the dwarf. I mean, we're here to see—you guys, I'll just tell them, the guard, where we're here to see. I forgot his name again. Stone, Stone heart.\n\nDM: Hardstone.\n\nDelwath: Hardstone. We're here to see the Hardstones and also Govir.\n\nDM: Ah, yes, both have expect—been expecting you. Feel free. Waves you in. Govir is, I believe still in his chambers at the moment.\n\nDM: The Hardstones are are in their quarters usually.\n\nDelwath: I'll nod over towards the giant pile. His, that work?\n\nDM: I mostly stand outside but yes, I think so.\n\nDelwath: Thank you. Let's—I mean, let's start by going downstairs and talking to the Hardstones.\n\nDM: That they're, you know, sort of sitting around. The father and uncle are in the workshop. Fallthra is sitting talking quietly with Dag. Looks up is, as you come in, um, kind of smiles. “Seeker!” And kind of waves that at you and Riswynn, um: “You met? Great.”"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Govir’s room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1021",
+          "quote": "So, moving on to talk to Govir.\n\nDelwath: Yes, yes.\n\nDM: Okay, so he is—he's sitting, he's like in his room. He's got more papers spread out, and it looks like he's trying to, like, invent the Dewey decimal system, basically. He's, like, has a bunch of lists of stuff, like different categories, and he's, like, trying to organize things into categories. And he looks up when you, when you come in, and he says, Oh. You got my note. I—so much that I could tell you. It's been—I haven't slept. I can't—I've just been working, and there's, there's a lot in those notes that you, you gave me, Delwath, right?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1011",
+              "endUid": "u1021",
+              "quote": "So, moving on to talk to Govir.\n\nDelwath: Yes, yes.\n\nDM: Okay, so he is—he's sitting, he's like in his room. He's got more papers spread out, and it looks like he's trying to, like, invent the Dewey decimal system, basically. He's, like, has a bunch of lists of stuff, like different categories, and he's, like, trying to organize things into categories. And he looks up when you, when you come in, and he says, Oh. You got my note. I—so much that I could tell you. It's been—I haven't slept. I can't—I've just been working, and there's, there's a lot in those notes that you, you gave me, Delwath, right?"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "plaza between archives and temple",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u0691",
+          "endUid": "u0694",
+          "quote": "So where to?\n\nKenzo: Go to the plaza where the where the archives are.\n\nDM: So there's the big plaza. There's temple on one side of the plaza, the archives on the other side."
+        }
+      ],
+      "note": "Tokra.md calls this Jita’s Square, while Archives.md uses Dharajun Plaza and flags their equivalence as unresolved. The transcript’s descriptive label is retained.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0691",
+              "endUid": "u0694",
+              "quote": "So where to?\n\nKenzo: Go to the plaza where the where the archives are.\n\nDM: So there's the big plaza. There's temple on one side of the plaza, the archives on the other side."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "temple of the Five Siblings",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0143",
+          "endUid": "u0147",
+          "quote": "It's a temple of Bhishma?\n\nDM: Well, no it's for five siblings. All the gods.\n\nSeeker: And we haven't been into the temple?\n\nDM: Yeah that's where that's where Kaleha's based."
+        },
+        {
+          "startUid": "u1353",
+          "endUid": "u1360",
+          "quote": "Like, as you enter the temple, like, people are, like—even the, like administrators and then the guards and stuff were kind of streaming out. Every—everybody's like quite excited that the long delayed monsoon seems to have arrived. And\n\nDM: You see Kaleha standing—like, there's a, you know, there's a little walkway balcony area, like two thirds of the way up near the roof, and, and you see her standing out there, kind of in prayer, just looking up at the sky. And she kind of hears or sees or senses that commotion as you approach the guards and they're sort of—lead us—and she sort of waves, you know, send them off, basically. The guards are sort of trying to turn you away, like, she's praying, but she kind of waves at you, and you, you head up and stand out on the balcony with her."
+        }
+      ],
+      "note": "The temple complex is described in Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md#Temple; no separate temple note was found.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0111",
+              "endUid": "u0119",
+              "quote": "So it's—leave on the, like, afternoon of the sixth. That's about a two and a half day journey back to Tokra, if you you know if you sort of ride straight and don't get distracted, which will assume, for the sake of brevity, that is what happens. I just refuse to describe anything that might distract you, then you can't get distracted. And so you return to to Tokra on the on the evening of July eighth.\n\nDM: You return as the sun is beginning to drop low in the sky over the city. You know, the, the walls and the dome of the temple rising above, catching the light, the tower of the, of the palace and the archives, the three buildings that dominate the skyline. And as you approach the gates, where are you going to head?"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "upper temple balcony",
+      "kind": "balcony",
+      "evidence": [
+        {
+          "startUid": "u1357",
+          "endUid": "u1364",
+          "quote": "You see Kaleha standing—like, there's a, you know, there's a little walkway balcony area, like two thirds of the way up near the roof, and, and you see her standing out there, kind of in prayer, just looking up at the sky. And she kind of hears or sees or senses that commotion as you approach the guards and they're sort of—lead us—and she sort of waves, you know, send them off, basically. The guards are sort of trying to turn you away, like, she's praying, but she kind of waves at you, and you, you head up and stand out on the balcony with her.\n\nDM: That the glistening stone of the dome of the temple, now, like water running down in rivulets, washing the dust away. Not so much wind, just like rain falling. And she is like has a big smile on her face."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1357",
+              "endUid": "u1360",
+              "quote": "You see Kaleha standing—like, there's a, you know, there's a little walkway balcony area, like two thirds of the way up near the roof, and, and you see her standing out there, kind of in prayer, just looking up at the sky. And she kind of hears or sees or senses that commotion as you approach the guards and they're sort of—lead us—and she sort of waves, you know, send them off, basically. The guards are sort of trying to turn you away, like, she's praying, but she kind of waves at you, and you, you head up and stand out on the balcony with her."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Lakan monastery",
+      "kind": "monastery",
+      "evidence": [
+        {
+          "startUid": "u1574",
+          "endUid": "u1593",
+          "quote": "So you head to the monastery where you spend the next few days before preparing to leave for Darba.\n\nDM: So the next day, this day of renewal is, is, is a quiet day at the monastery. Um, it is—I'm gonna wait a minute for Kong to come back for.\n\nRiswynn: That's it. I don't know if there's much of a time zone difference between here in the Yuvanti mountains, I doubt that. If we're back around dinner time it's not too late to—\n\nDM: Reach out my send your message, yes.\n\nDM: Anyway, yeah, you spend, you spend a few days at the monastery. A couple of notable events, which I'm going to wait for Kong, happen while you're there.\n\nDM: The day of renewal itself passes quietly, um. You know, the—there's a monastery has some, you know, has a small feast, nothing too elaborate, but, um, a—you know, you know, some special food reserved. Some, some, like, date cake and sweet wine that's been saved for this, this occasion, and it's like, you know—Kassi is excited to talk to you, but, like, not on this day, right? Like, the focus is something else. She's like, you know, come by, come by tomorrow, and I can show you what I found."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "note": "The monastery is the Tokra-area setting. Its canonical note places it south of the city; the current transcript does not establish a precise distance or containment within the city walls."
+    },
+    "p13": {
+      "label": "Kassi’s office in the small library",
+      "kind": "office",
+      "evidence": [
+        {
+          "startUid": "u1608",
+          "endUid": "u1614",
+          "quote": "So, um, let's see. So let's jump to that. So you had asked her to, to identify, track down what information she could in the archives of the Lakan monastery about Rai, and then also about Yezali, Aaviskar, Anida. Whatever she could find about, you know, supposed ancient gods. And she, she's, you know, she comes back and she's, you know, she brings you back to her little office area in the in the small library in you know."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1608",
+              "endUid": "u1614",
+              "quote": "So, um, let's see. So let's jump to that. So you had asked her to, to identify, track down what information she could in the archives of the Lakan monastery about Rai, and then also about Yezali, Aaviskar, Anida. Whatever she could find about, you know, supposed ancient gods. And she, she's, you know, she comes back and she's, you know, she brings you back to her little office area in the in the small library in you know."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "great tree of Tokra",
+      "kind": "landmark",
+      "evidence": [
+        {
+          "startUid": "u0148",
+          "endUid": "u0164",
+          "quote": "Oh yeah. And what's the tree look like?\n\nDM: The tree? That is a good question. I have notes about the tree.\n\nDM: So it is currently seemingly stone and seems unchanged, when you first, first saw it, so it looks like a giant petrified tree, basically. It looks like it is coated—just like every part of it is coated in stone. There's no leaves, there's no—no buds, no flowers. It seems dead.\n\nSeeker: And it's like, hundreds of feet tall or 10s if not?\n\nDM: Hundreds of feet. It is actually—I should be clear—it actually dominates the skyline. It's, it's, it's maybe 100 and hundred, hundred and 50 feet tall. Maybe 200 feet tall, something like that. It's, it's sort of just above the height of the dome of the temple, which is otherwise the highest point in the city.\n\nSeeker: It's this sort of enormous skeletal looking stone tree, that is, bare?\n\nUnknown: Yes."
+        },
+        {
+          "startUid": "u1444",
+          "endUid": "u1449",
+          "quote": "Oh we're interested in learning more about the great tree of Tokra.\n\nKenzo: Yeah yes very interested.\n\nDM: Wow, first rains are again an auspicious time. If you wait, you wait a few days, you will see a bloom."
+        }
+      ],
+      "note": "Observed on the city skyline. Later meditation and staff acquisition remain intentions; no arrival at the tree is established.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1444",
+              "endUid": "u1449",
+              "quote": "Oh we're interested in learning more about the great tree of Tokra.\n\nKenzo: Yeah yes very interested.\n\nDM: Wow, first rains are again an auspicious time. If you wait, you wait a few days, you will see a bloom."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0017",
+        "endUid": "u0023"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The four travelers finish their visit outside Saka’s in the northern camp.",
+      "evidence": [
+        {
+          "startUid": "u0017",
+          "endUid": "u0023",
+          "quote": "And as the gods watch Dunmar, we zoom in on that camp in the north where the four of you are gathered having just finished your conversation among yourselves outside of Saka's, having shared a meal with her, exchange—exchanged your pleasantries, given greetings and small tokens, and preparing now to return to Tokra, having learned what you came here for."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0109",
+        "endUid": "u0119"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Ride directly from Saka’s camp to Tokra and reach the city gates.",
+      "evidence": [
+        {
+          "startUid": "u0109",
+          "endUid": "u0115",
+          "quote": "Turns to all of you: safe journeys. And you ride off.\n\nDM: So it's—leave on the, like, afternoon of the sixth. That's about a two and a half day journey back to Tokra, if you you know if you sort of ride straight and don't get distracted, which will assume, for the sake of brevity, that is what happens. I just refuse to describe anything that might distract you, then you can't get distracted. And so you return to to Tokra on the on the evening of July eighth."
+        },
+        {
+          "startUid": "u0116",
+          "endUid": "u0119",
+          "quote": "You return as the sun is beginning to drop low in the sky over the city. You know, the, the walls and the dome of the temple rising above, catching the light, the tower of the, of the palace and the archives, the three buildings that dominate the skyline. And as you approach the gates, where are you going to head?"
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "ride",
+      "duration": {
+        "value": 2.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "The DM accepts direct uninterrupted riding and narrates arrival on July 8."
+      }
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0148",
+        "endUid": "u0164"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker asks about the giant petrified-looking tree visible above the city.",
+      "evidence": [
+        {
+          "startUid": "u0148",
+          "endUid": "u0164",
+          "quote": "Oh yeah. And what's the tree look like?\n\nDM: The tree? That is a good question. I have notes about the tree.\n\nDM: So it is currently seemingly stone and seems unchanged, when you first, first saw it, so it looks like a giant petrified tree, basically. It looks like it is coated—just like every part of it is coated in stone. There's no leaves, there's no—no buds, no flowers. It seems dead.\n\nSeeker: And it's like, hundreds of feet tall or 10s if not?\n\nDM: Hundreds of feet. It is actually—I should be clear—it actually dominates the skyline. It's, it's, it's maybe 100 and hundred, hundred and 50 feet tall. Maybe 200 feet tall, something like that. It's, it's sort of just above the height of the dome of the temple, which is otherwise the highest point in the city.\n\nSeeker: It's this sort of enormous skeletal looking stone tree, that is, bare?\n\nUnknown: Yes."
+        }
+      ],
+      "place": "p14",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0181",
+        "endUid": "u0192"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Ride through Tokra to Kirian’s, where the innkeeper greets them and hands over messages.",
+      "evidence": [
+        {
+          "startUid": "u0181",
+          "endUid": "u0192",
+          "quote": "So you ride through the city arrived—arriving at, at Kirian's on the evening of the eighth, and he—you know, you attract some attention, right? You're not riding incognito through the city, so, you know, those people kind of, you know, talking about you. Certainly your, your—rumors of your deeds have now spread much more widely. Given that it's been [garbled]—like, it's now, like, more than a week since you arrived in town.\n\nDM: And you know there's a small number of people in the common room of of the inn and Kirian the bartender kind of looks up as you, as you return, says, ‘Friends.’ I've been wondering when you'd come back. I have a number of messages for you. Oh, sorry, you're going to be staying past tonight? Because I believe your rooms are only paid for through this evening."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "ride"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0325",
+        "endUid": "u0331"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo goes to the dwarven inn and greets Riswynn there.",
+      "evidence": [
+        {
+          "startUid": "u0325",
+          "endUid": "u0331",
+          "quote": "Yeah. Well, I can just jump really far. I can run really fast, jump really far, yeah. Okay, Kenzo goes to the dwarven inn. Greets Riswynn warmly and invites them to dine at the—what's the name of the inn?\n\nDM: Just Kirian.\n\nUnknown: Kirian's.\n\nKenzo: Riswynn, do you, do—would you like to join us for dinner?\n\nRiswynn: And would love to hear what you've been experiencing."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0332",
+        "endUid": "u0354"
+      },
+      "actors": [
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "Walk back through town to Kirian’s common room and join the dinner table.",
+      "evidence": [
+        {
+          "startUid": "u0332",
+          "endUid": "u0354",
+          "quote": "Well, let's, let's enjoy a nice stroll through town back to, back to the backyard, it's—\n\nDM: A very nice sunset, actually. Unusual: some actual clouds and sky.\n\nKenzo: [garbled].\n\nDelwath: Like rain clouds?\n\nSeeker: [garbled].\n\nDM: No, they're just, like, clouds when the sun itself—in the distance, like just little tiny clouds, but still clouds. Different.\n\nRiswynn: Unusual for this part of the world, but not necessarily for—\n\nDM: Yeah yeah for this part.\n\nDM: So you return back to the common room at Kirian's and he sets you up with a meal as you kind of settle in, um. You know, some people coming, going, but this is—you know, this isn't the local inn, right? This is where the, like, rich merchants traveling from Chardon or wherever stay, mostly. There's definitely a pair, a couple of Chardonians. You know, probably—probably merchants of some kind. There's, like, a small group of Dunmari talking quietly. Handful of people just kind of loitering around, like one person that looks like they're begging for food, and Kirian kind of shoves them out. Um—not super crowded. It's no entertainment or anything.\n\nKenzo: Then, before we leave Kenzo will do a little little interview of Kirian and learn more of his stories and write a little little chapter about him.\n\nDM: Okay ah, but first, you want to talk to Riswynn.\n\nDelwath: Yes, yeah.\n\nKenzo: So Kenzo arrives, finds that the table where everybody settled, and walks over with, with Riswynn."
+        }
+      ],
+      "from": "p04",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u0545",
+        "endUid": "u0558"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Narration returns to the prior evening’s innkeeper interview at Kirian’s.",
+      "evidence": [
+        {
+          "startUid": "u0545",
+          "endUid": "u0558",
+          "quote": "Before we go to bed, though I do my interview with the keeper.\n\nDM: Okay, so, why do you ask?\n\nKenzo: If we can role play later too—\n\nKenzo: But, you know, I asked him about his life. I asked him about, you know, how long he's had the inn. I asked him, you know, just, just some, some normal, you know, non hero talk.\n\nDM: Okay. I mean, why don't we just do five minutes right now?\n\nDM: It's like—sits down, kind of, kind of looks at you: thanks for asking. I was born 46 years ago here in Tokra. Dad was a temple guard; my mom's a seamstress. It's kind of a boring life."
+        },
+        {
+          "startUid": "u0638",
+          "endUid": "u0655",
+          "quote": "So dutifully writes down the contents of the story.\n\nDM: Thanks for thanks for listening. Thank you for sharing it.\n\nKenzo: You won't be for—you won't be forgotten, at least amongst the order of Bhishma for sure. Thank you.\n\nDM: Sort of smiles and he doesn't quite know what you mean by order of Bhishma but—\n\nKenzo: Amongst the awakened soul order, the Awakened Soul.\n\nDM: “Oh, that”—he sort of looks, looks; his eyes sort of light up—“but I thought they were all gone. [garbled] used to tell stories of when they would come into towns and camps and record people's lives. They're back.” Sort of smiles. “So nice to meet you.”\n\nKenzo: We are back. Well, we're actually quite a group of storytellers, except for Delwath. He's like a black hole for stories. Doesn't really record them or tell them, just things happen around everybody else.\n\nDM: Sort of smiles. Well, appreciate it. Hope you enjoyed the meal. Let me know if you want to stay longer."
+        }
+      ],
+      "context": "flashback",
+      "place": "p03"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0691",
+        "endUid": "u0718"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Stop at the Red Lily during morning errands and join Garret at breakfast.",
+      "evidence": [
+        {
+          "startUid": "u0691",
+          "endUid": "u0718",
+          "quote": "So where to?\n\nKenzo: Go to the plaza where the where the archives are.\n\nDM: So there's the big plaza. There's temple on one side of the plaza, the archives on the other side.\n\nWellby: Can we stop by the Red Lily Inn, the halfling inn on the way? I want to check in on the Charmhearts and on the guy who we—\n\nDM: Garret Tealeaf.\n\nKenzo: Tealeaf right who knows stuff about us and is telling everybody about—\n\nDM: That's not him. That's whatever halfling storyteller happened to have been—\n\nDelwath: Present right again.\n\nUnknown: Yeah.\n\nDM: Yeah okay. He's at the Red—\n\nWellby: Is the storyteller there as we go?\n\nDM: Ah, so it's still relatively early in the morning. There's not that many people are awake. In fact, all you see is Garret Tealeaf sort of nursing his tea and eggs for breakfast. Otherwise the inn is pretty empty. Probably just too early.\n\nUnknown: Let's see here.\n\nDM: Um, I guess probably—yeah, now it's pretty—I would love, just for simplicity, say it's pretty empty.\n\nWellby: Sit down here and say how are you doing?\n\nDM: He'll look up as you come in sort of wave to you. Ah, wow are you—come to say hi?"
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0811",
+        "endUid": "u0840"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the Red Lily and enter the archives after speaking with the guards.",
+      "evidence": [
+        {
+          "startUid": "u0811",
+          "endUid": "u0840",
+          "quote": "So, as you leave the Red Lily, what else is on your agenda? So that's the locket, the ring, the garnets and your shortsword. Yep, okay.\n\nDelwath: Should we go talk to the dwarf? I forget his name.\n\nDM: Dag Hardstone yeah.\n\nSeeker: And his mother.\n\nDelwath: I mean, I think at this point it's mostly just to reassure them and make sure everything's okay, right? Like, we don't need information anymore, as far as I know, but we should still stop in yeah.\n\nSeeker: Can be brief.\n\nDM: So you head across to the archives. You—so when you when you first sort of knock and there's still a temple—there's still a couple temple guards stationed at the, at the door now, um, just kind of keeping watch, keeping an eye on things. They recognize you and they let you in, and you can see that there's, like, a corner of—\n\nDM: So the main room is like shelves and like storage for books and scrolls, but then there's also some desks, like, carrels things like that. And you can see that one corner is just like, um, covered in papers. It looks like somebody is in the midst of like spring cleaning or some kind of massive reorganization. There's just, like, thing, you know, books stacked, scrolls, like, spread out across five different tables, and they've all been pushed together, notes just kind of written everywhere.\n\nDM: And the guard.\n\nSeeker: Govir.\n\nDM: Who lets you in asks who you're here to see.\n\nSeeker: Maybe we should talk to Govir first?\n\nDelwath: Let's talk to that. I—Govir might take some time. I would, I would talk to the—what, I talked to the dwarf. I mean, we're here to see—you guys, I'll just tell them, the guard, where we're here to see. I forgot his name again. Stone, Stone heart.\n\nDM: Hardstone.\n\nDelwath: Hardstone. We're here to see the Hardstones and also Govir.\n\nDM: Ah, yes, both have expect—been expecting you. Feel free. Waves you in. Govir is, I believe still in his chambers at the moment."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0841",
+        "endUid": "u0852"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Go downstairs to the Hardstones’ quarters, where Fallthra and Dag are present.",
+      "evidence": [
+        {
+          "startUid": "u0841",
+          "endUid": "u0852",
+          "quote": "The Hardstones are are in their quarters usually.\n\nDelwath: I'll nod over towards the giant pile. His, that work?\n\nDM: I mostly stand outside but yes, I think so.\n\nDelwath: Thank you. Let's—I mean, let's start by going downstairs and talking to the Hardstones.\n\nDM: That they're, you know, sort of sitting around. The father and uncle are in the workshop. Fallthra is sitting talking quietly with Dag. Looks up is, as you come in, um, kind of smiles. “Seeker!” And kind of waves that at you and Riswynn, um: “You met? Great.”"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1011",
+        "endUid": "u1021"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Go to Govir’s room and find him amid his research and cataloguing papers.",
+      "evidence": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1021",
+          "quote": "So, moving on to talk to Govir.\n\nDelwath: Yes, yes.\n\nDM: Okay, so he is—he's sitting, he's like in his room. He's got more papers spread out, and it looks like he's trying to, like, invent the Dewey decimal system, basically. He's, like, has a bunch of lists of stuff, like different categories, and he's, like, trying to organize things into categories. And he looks up when you, when you come in, and he says, Oh. You got my note. I—so much that I could tell you. It's been—I haven't slept. I can't—I've just been working, and there's, there's a lot in those notes that you, you gave me, Delwath, right?"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1211",
+        "endUid": "u1242"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Visit Ardan to secure Govir’s administrative authority, then return to Govir.",
+      "evidence": [
+        {
+          "startUid": "u1211",
+          "endUid": "u1225",
+          "quote": "Let's do it. I'm going to—I think we should go talk to Ardan. Delwath, I'll go talk to.\n\nDM: Her. Okay, let's just—rather than—will—\n\nUnknown: Make it persuasion roll.\n\nSeeker: Nice.\n\nKenzo: With advantage, since this is a great idea.\n\nDM: Yeah, you can help. It can be with advantage.\n\nWellby: Yeah.\n\nSeeker: Nice.\n\nDM: Ah yeah, he buys it. I mean, willing to give in, when you know, given that he feels he owes you greatly for essentially saving the archives he's happy—not happy about it, but—\n\nDelwath: Well, I mean, that was basically suggesting that he should, you know, keep taking all the public credit for the archive and be the important person, and Govir should do all the work, because.\n\nDM: Right, no, I mean, actually, that he buys into completely."
+        },
+        {
+          "startUid": "u1235",
+          "endUid": "u1242",
+          "quote": "And honestly, well, well, I have them suggest that it might be good to get Govir an assistant or two, especially since then his assistant did get brutally murdered by the werewolves. Yeah, he probably could use a couple of new assistants, right? Like, and it would be, it would be good for his mental health to have a few, a couple—not just one, but, like, two or three people he could work with to start to atone for some of the trauma of his assistant being killed. I'm sure that Ardan's budget can stretch to three assistants.\n\nDM: Well, in fact, there were three people who were murdered, and so he can stretch a little bit even more than three. He was—Ardan, yes, he was already planning on on recruiting a few additional people to help.\n\nDelwath: Okay, so having orchestrated this, we'll go back and tell Govir about the—you know, basically, I want Govir to keep us in mind if he finds anything interesting."
+        }
+      ],
+      "from": "p08",
+      "to": "p08",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Visit Ardan at the archives; no particular office is identified.",
+          "place": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1318",
+        "endUid": "u1364"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the archives, cross the plaza in the first monsoon rain, enter the temple and climb to Kaleha’s balcony.",
+      "evidence": [
+        {
+          "startUid": "u1318",
+          "endUid": "u1322",
+          "quote": "So, just moving things along, assuming there's nothing else you want to talk to Govir about, what's next on your list? It must be getting towards mid afternoon by now.\n\nKenzo: Probably cross the square and go talk to Kaleha.\n\nDM: As you leave the archives, you hear a large crack of thunder. You notice it's been cloudy—it's now cloudy. It was sunny when you left this morning, but in the past hour clouds have rolled in, and as you start walking across the plaza, the skies open up and rain just begins pouring from the sky, like heavy downpour. And everybody starts, like, coming out of their house, just kind of looking up. Like, crowds begin to gather. Everybody's, like, pretty pleased, you know, happy about—"
+        },
+        {
+          "startUid": "u1353",
+          "endUid": "u1364",
+          "quote": "Like, as you enter the temple, like, people are, like—even the, like administrators and then the guards and stuff were kind of streaming out. Every—everybody's like quite excited that the long delayed monsoon seems to have arrived. And\n\nDM: You see Kaleha standing—like, there's a, you know, there's a little walkway balcony area, like two thirds of the way up near the roof, and, and you see her standing out there, kind of in prayer, just looking up at the sky. And she kind of hears or sees or senses that commotion as you approach the guards and they're sort of—lead us—and she sort of waves, you know, send them off, basically. The guards are sort of trying to turn you away, like, she's praying, but she kind of waves at you, and you, you head up and stand out on the balcony with her.\n\nDM: That the glistening stone of the dome of the temple, now, like water running down in rivulets, washing the dust away. Not so much wind, just like rain falling. And she is like has a big smile on her face."
+        }
+      ],
+      "from": "p06",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Cross the plaza as the rain begins.",
+          "place": "p09"
+        },
+        {
+          "reading": "Enter the temple and head upstairs.",
+          "place": "p10"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1491",
+        "endUid": "u1577"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the temple area, discuss plans while walking through town, and settle at the monastery for the next few days.",
+      "evidence": [
+        {
+          "startUid": "u1491",
+          "endUid": "u1495",
+          "quote": "So that at this point the sun is getting low in the sky. So you are heading to back to the monastery now, is that your plan, to spend the next week of your stay? Yeah, I'm sorry.\n\nDelwath: I think we'll—yeah, I think so. I mean we might go into town for—but I think so yeah.\n\nKenzo: So we go back to close the bill at the inn, then.\n\nDM: Yes, wow, so you've already paid, yeah, paid up front for the week, so you don't owe them anything at this point. You just need to pay more if you stay long."
+        },
+        {
+          "startUid": "u1507",
+          "endUid": "u1508",
+          "quote": "One detail, as we're walking down the street discussing this, perhaps we could come up with a code phrase, so that we're not saying Scepter of Power this Scepter of power that?"
+        },
+        {
+          "startUid": "u1574",
+          "endUid": "u1577",
+          "quote": "So you head to the monastery where you spend the next few days before preparing to leave for Darba."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "An inn stop is proposed at u1493 and discussed; no separate completed return to Kirian’s is narrated."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1608",
+        "endUid": "u1614"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kassi brings the party to her office area in the monastery’s small library.",
+      "evidence": [
+        {
+          "startUid": "u1608",
+          "endUid": "u1614",
+          "quote": "So, um, let's see. So let's jump to that. So you had asked her to, to identify, track down what information she could in the archives of the Lakan monastery about Rai, and then also about Yezali, Aaviskar, Anida. Whatever she could find about, you know, supposed ancient gods. And she, she's, you know, she comes back and she's, you know, she brings you back to her little office area in the in the small library in you know."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived"
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u1940",
+        "endUid": "u1957"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After several days at the monastery the party welcomes Lara’s return and is drawn into her conversation.",
+      "evidence": [
+        {
+          "startUid": "u1940",
+          "endUid": "u1957",
+          "quote": "So, um, a few days before you leave, and we'll retcon back whatever you want to do while you're waiting. Um—the party of about 25 mystai returns, and the temple fills up again, right, like this was—the monastery fills up. This was, um, you know, clearly the—you know, it was me—it felt empty before, and now it's like most of the—you know, the, like, that the house is full again, basically. Like, it's, it's more—it's not quite doubled in size. There were probably 30 people around and now they're, like, 25 come back, so you're now like, maybe 35, 25, you're up to, like, 60 mystai now. So it feels like much more full.\n\nDM: Especially with all the sort of laity running around. Um—Speaker Lara is quite happy to see that you are here, Kenzo, and she, um, you know, asks after, like, because, of course, you were—she's—she originally sent you to Karawa to find out about it.\n\nKenzo: Yeah, I'm sure there's, there's lots of old friends in the in the crew and everything. So lots of warm welcomes and.\n\nDM: Like a batch of like small talk, hello, and she is, like—I mean, she's probably in her mid 40s but looks pretty young, like long black hair sort of done up in a bun, and green eyes, sort of light, you know, light brown skin, wearing of these flowing robes, like blue trimmed robes, like blue designs on them, like. Tired from the journey but focused and, you know, after making small talk—\n\nDM: She, you know, pulls, pulls you aside and, and it's basically like, you know, I would speak with you briefly if, if you have the time, for I believe that you have been involved in many events, many events that are of significance."
+        }
+      ],
+      "place": "p12"
+    }
+  ]
+}

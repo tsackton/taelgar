@@ -1,0 +1,402 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-041",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml",
+    "sessionYamlSha256": "15e8b2ee17ff086eba3393e4283a06722fccf7aff07ce7f261166eee492fed9e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-transcript.md",
+    "transcriptSha256": "e2299384a8ef774a746661a1ccc01ca63fbfb9a0c94201427e09c215dc336671",
+    "yamlDates": {
+      "start": "1748-07-06",
+      "end": "1748-07-13"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0111",
+        "endUid": "u0115"
+      },
+      "reading": "Ride from Saka’s camp on July 6 afternoon to Tokra on July 8, about two and a half days later.",
+      "evidence": [
+        {
+          "startUid": "u0111",
+          "endUid": "u0115",
+          "quote": "So it's—leave on the, like, afternoon of the sixth. That's about a two and a half day journey back to Tokra, if you you know if you sort of ride straight and don't get distracted, which will assume, for the sake of brevity, that is what happens. I just refuse to describe anything that might distract you, then you can't get distracted. And so you return to to Tokra on the on the evening of July eighth."
+        },
+        {
+          "startUid": "u0172",
+          "endUid": "u0173",
+          "quote": "No, I'm just asking where you're, like—not, not where you would, like, not what are you going to do over the next week—but where are you going at 430 in the evening after you spent two and a half days riding across the plains?"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Stated in the transcript; year inherited from YAML.",
+          "date": {
+            "year": 1748,
+            "month": 7,
+            "day": 6
+          },
+          "partOfDay": "afternoon"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "July 8 and evening stated; later DM gives about 4:30 for the city arrival; year from YAML.",
+          "date": {
+            "year": 1748,
+            "month": 7,
+            "day": 8
+          },
+          "partOfDay": "evening",
+          "clock": "16:30"
+        }
+      },
+      "duration": {
+        "value": 2.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM accepts uninterrupted direct riding and narrates completed travel."
+      },
+      "dateBoundaries": 2,
+      "completion": "completed",
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "note": "The later 4:30 clock and broad evening description concern arrival; sunset is separately established during Kenzo’s subsequent walk."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0333",
+        "endUid": "u0333"
+      },
+      "reading": "Sunset during Kenzo and Riswynn’s return walk to Kirian’s.",
+      "evidence": [
+        {
+          "startUid": "u0333",
+          "endUid": "u0333",
+          "quote": "A very nice sunset, actually. Unusual: some actual clouds and sky."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Sunset stated during the return walk; date inherited from the established July 8 arrival.",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 8
+        },
+        "partOfDay": "sunset"
+      },
+      "actors": [
+        "Kenzo",
+        "Riswynn"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0543",
+        "endUid": "u0544"
+      },
+      "reading": "Narration advances to the next morning, before the table returns to Kenzo’s prior-evening interview.",
+      "evidence": [
+        {
+          "startUid": "u0543",
+          "endUid": "u0544",
+          "quote": "The next morning.\n\nRiswynn: Where am I meeting you all the next morning?"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Next morning follows the established July 8 evening.",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 9
+        },
+        "partOfDay": "morning"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0545",
+        "endUid": "u0545"
+      },
+      "reading": "Return to the prior evening to play Kenzo’s interview of Kirian before bed.",
+      "evidence": [
+        {
+          "startUid": "u0545",
+          "endUid": "u0545",
+          "quote": "Before we go to bed, though I do my interview with the keeper."
+        },
+        {
+          "startUid": "u0549",
+          "endUid": "u0558",
+          "quote": "But, you know, I asked him about his life. I asked him about, you know, how long he's had the inn. I asked him, you know, just, just some, some normal, you know, non hero talk.\n\nDM: Okay. I mean, why don't we just do five minutes right now?\n\nDM: It's like—sits down, kind of, kind of looks at you: thanks for asking. I was born 46 years ago here in Tokra. Dad was a temple guard; my mom's a seamstress. It's kind of a boring life."
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Kenzo explicitly interrupts the next-morning transition with his before-bed interview.",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 8
+        },
+        "partOfDay": "evening"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0691",
+        "endUid": "u0708"
+      },
+      "reading": "Resume the morning errands; Garret is eating breakfast early in the morning at the Red Lily.",
+      "evidence": [
+        {
+          "startUid": "u0691",
+          "endUid": "u0708",
+          "quote": "So where to?\n\nKenzo: Go to the plaza where the where the archives are.\n\nDM: So there's the big plaza. There's temple on one side of the plaza, the archives on the other side.\n\nWellby: Can we stop by the Red Lily Inn, the halfling inn on the way? I want to check in on the Charmhearts and on the guy who we—\n\nDM: Garret Tealeaf.\n\nKenzo: Tealeaf right who knows stuff about us and is telling everybody about—\n\nDM: That's not him. That's whatever halfling storyteller happened to have been—\n\nDelwath: Present right again.\n\nUnknown: Yeah.\n\nDM: Yeah okay. He's at the Red—\n\nWellby: Is the storyteller there as we go?\n\nDM: Ah, so it's still relatively early in the morning. There's not that many people are awake. In fact, all you see is Garret Tealeaf sort of nursing his tea and eggs for breakfast. Otherwise the inn is pretty empty. Probably just too early."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Morning errands resume after the inserted evening interview; early morning stated at the Red Lily.",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 9
+        },
+        "partOfDay": "morning"
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1318",
+        "endUid": "u1318"
+      },
+      "reading": "The archives business has brought the party to mid-afternoon on July 9; rain begins as they cross the plaza.",
+      "evidence": [
+        {
+          "startUid": "u1318",
+          "endUid": "u1318",
+          "quote": "So, just moving things along, assuming there's nothing else you want to talk to Govir about, what's next on your list? It must be getting towards mid afternoon by now."
+        },
+        {
+          "startUid": "u1320",
+          "endUid": "u1322",
+          "quote": "As you leave the archives, you hear a large crack of thunder. You notice it's been cloudy—it's now cloudy. It was sunny when you left this morning, but in the past hour clouds have rolled in, and as you start walking across the plaza, the skies open up and rain just begins pouring from the sky, like heavy downpour. And everybody starts, like, coming out of their house, just kind of looking up. Like, crowds begin to gather. Everybody's, like, pretty pleased, you know, happy about—"
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1340",
+          "quote": "So it's July nine, so the, the 15th is when it's ready. So, like, six more days."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Mid-afternoon stated at departure from the archives; July nine explicitly confirmed shortly afterward.",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 9
+        },
+        "partOfDay": "afternoon"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1491",
+        "endUid": "u1491"
+      },
+      "reading": "The sun is getting low as the party prepares to move to the monastery.",
+      "evidence": [
+        {
+          "startUid": "u1491",
+          "endUid": "u1491",
+          "quote": "So that at this point the sun is getting low in the sky. So you are heading to back to the monastery now, is that your plan, to spend the next week of your stay? Yeah, I'm sorry."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Low sun stated after the temple conversation on July 9.",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 9
+        },
+        "partOfDay": "late afternoon"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1574",
+        "endUid": "u1577"
+      },
+      "reading": "The party moves to the monastery and spends the next few days there before preparing to leave for Darba.",
+      "evidence": [
+        {
+          "startUid": "u1574",
+          "endUid": "u1577",
+          "quote": "So you head to the monastery where you spend the next few days before preparing to leave for Darba."
+        },
+        {
+          "startUid": "u1585",
+          "endUid": "u1587",
+          "quote": "Anyway, yeah, you spend, you spend a few days at the monastery. A couple of notable events, which I'm going to wait for Kong, happen while you're there."
+        }
+      ],
+      "duration": {
+        "text": "a few days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Accepted narrated downtime at the monastery, subsequently expanded into individual scenes."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1578",
+        "endUid": "u1580"
+      },
+      "reading": "The next day is the quiet Day of Renewal at the monastery, with a small feast.",
+      "evidence": [
+        {
+          "startUid": "u1371",
+          "endUid": "u1385",
+          "quote": "This would be—tomorrow will be the day of renewal, then.\n\nKenzo: What does that entail?\n\nDM: So this is—you would, you would know this, Kenzo, you're Dunmari. It's like one of the sort of religious part of the Dunmari religious cycle. It's always celebrated the day after the first of the monsoon rains, and it's essentially like a remembrance of Jeevali's tears and the sacrifice and the renewal of the land, represented by by Jeevali's sacrifice. Sort of the counterpart to the festival rebirth, which is like when Jeevali's reborn. This is like when Jeevali sacrificed herself for Dunmar.\n\nDM: Um, it's not really a big public thing, right? It's like people save some sort of treat or some special something to have as part of their evening meal and it's generally a very sort of personal feast, and it's not a lot of public—people don't return to towns for it or anything. They typically just celebrate with their families or, you know, in their camps, and—what—nobody, you know, nobody will, will really do anything tomorrow, so everything's gonna be—everybody will just be sort of saying their personal prayers, and then and then having these meals with their family. Ah, but she continues."
+        },
+        {
+          "startUid": "u1578",
+          "endUid": "u1580",
+          "quote": "So the next day, this day of renewal is, is, is a quiet day at the monastery. Um, it is—I'm gonna wait a minute for Kong to come back for."
+        },
+        {
+          "startUid": "u1588",
+          "endUid": "u1593",
+          "quote": "The day of renewal itself passes quietly, um. You know, the—there's a monastery has some, you know, has a small feast, nothing too elaborate, but, um, a—you know, you know, some special food reserved. Some, some, like, date cake and sweet wine that's been saved for this, this occasion, and it's like, you know—Kassi is excited to talk to you, but, like, not on this day, right? Like, the focus is something else. She's like, you know, come by, come by tomorrow, and I can show you what I found."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Day of Renewal is the day after the July 9 first rains; next-day transition enacted.",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 10
+        }
+      },
+      "dateBoundaries": 1,
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1608",
+        "endUid": "u1614"
+      },
+      "reading": "Narration jumps to Kassi’s research meeting after her invitation to come by the day after Renewal.",
+      "evidence": [
+        {
+          "startUid": "u1588",
+          "endUid": "u1593",
+          "quote": "The day of renewal itself passes quietly, um. You know, the—there's a monastery has some, you know, has a small feast, nothing too elaborate, but, um, a—you know, you know, some special food reserved. Some, some, like, date cake and sweet wine that's been saved for this, this occasion, and it's like, you know—Kassi is excited to talk to you, but, like, not on this day, right? Like, the focus is something else. She's like, you know, come by, come by tomorrow, and I can show you what I found."
+        },
+        {
+          "startUid": "u1608",
+          "endUid": "u1614",
+          "quote": "So, um, let's see. So let's jump to that. So you had asked her to, to identify, track down what information she could in the archives of the Lakan monastery about Rai, and then also about Yezali, Aaviskar, Anida. Whatever she could find about, you know, supposed ancient gods. And she, she's, you know, she comes back and she's, you know, she brings you back to her little office area in the in the small library in you know."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Renewal falls July 10; Kassi invites them tomorrow and the table jumps to that meeting.",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 11
+        }
+      },
+      "dateBoundaries": 1,
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1940",
+        "endUid": "u1949"
+      },
+      "reading": "A few days before the planned departure, Lara and the mystai return and the party meets her at the monastery.",
+      "evidence": [
+        {
+          "startUid": "u1940",
+          "endUid": "u1949",
+          "quote": "So, um, a few days before you leave, and we'll retcon back whatever you want to do while you're waiting. Um—the party of about 25 mystai returns, and the temple fills up again, right, like this was—the monastery fills up. This was, um, you know, clearly the—you know, it was me—it felt empty before, and now it's like most of the—you know, the, like, that the house is full again, basically. Like, it's, it's more—it's not quite doubled in size. There were probably 30 people around and now they're, like, 25 come back, so you're now like, maybe 35, 25, you're up to, like, 60 mystai now. So it feels like much more full.\n\nDM: Especially with all the sort of laity running around. Um—Speaker Lara is quite happy to see that you are here, Kenzo, and she, um, you know, asks after, like, because, of course, you were—she's—she originally sent you to Karawa to find out about it."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "the party’s planned departure from Tokra"
+        },
+        "precision": "approximate",
+        "basis": "DM places the return a few days before departure without naming its civil day or watch."
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "July 6 departure, July 8 arrival and July 9 errands are spoken. The year 1748 comes from YAML. Renewal and Kassi’s meeting follow relative next-day transitions; Lara’s return has no spoken civil date.",
+    "expectedDateBoundaries": 7,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t03",
+      "t08",
+      "t09",
+      "t10",
+      "t11"
+    ],
+    "explanation": "Two travel boundaries plus the next morning, Renewal and Kassi’s following-day meeting establish five transitions to July 11. The few-day monastery interval and Lara’s return can fit July 13, but their exact extent remains unmeasured. The planned July 15 item readiness and future departure do not extend completed session play."
+  }
+}

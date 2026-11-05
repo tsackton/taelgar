@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-time-markers.json",
+    "sha256": "5ccedc8934e452d26bdda9267d5fd47cf13e95be37e919323838ca6b43605a6c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-transcript.md",
+    "sha256": "e2299384a8ef774a746661a1ccc01ca63fbfb9a0c94201427e09c215dc336671"
+  },
+  "dateAssessment": "Working calendar: YAML supplies DR 1748 and July 6–13. The transcript independently names July 6 departure, July 8 arrival and July 9 errands. The Day of Renewal and Kassi’s next-day meeting reach July 10–11; the dated Session 41 record supplies July 13 for Lara’s return. That supplementary calendar places the review’s monastery interval without upgrading the time extraction’s compatible assessment to matched. The July 8 arrival is broadly called evening and later put around 4:30; this review uses the clock for an afternoon arrival and the separately narrated sunset for dusk. The interview is played retrospectively, so the next-morning transition is counted once. Renewal’s feast watch is inferred from the stated evening-meal custom. No July 15 acquisition, departure for Darba, or completed execution is established in the available transcript.",
+  "watches": [
+    {
+      "day": "July 6–8, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Leave July 6 afternoon; about two-and-a-half days riding; July 8 arrival later specified around 4:30.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-07-06",
+      "endDate": "1748-07-08"
+    },
+    {
+      "day": "July 8, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sunset return with Riswynn; Kenzo’s before-bed interview is inserted retrospectively into the same evening.",
+      "markers": [
+        "t02",
+        "t04"
+      ],
+      "startDate": "1748-07-08",
+      "endDate": "1748-07-08",
+      "scope": "Kenzo and Riswynn’s walk; Kenzo’s later interview"
+    },
+    {
+      "day": "July 9, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Next-morning errands resume after the interview; Garret is having breakfast early in the morning.",
+      "markers": [
+        "t03",
+        "t05"
+      ],
+      "startDate": "1748-07-09",
+      "endDate": "1748-07-09"
+    },
+    {
+      "day": "July 9, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "July nine: mid-afternoon departure from the archives; low sun follows the temple conversation before the monastery move.",
+      "markers": [
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-07-09",
+      "endDate": "1748-07-09"
+    },
+    {
+      "day": "July 9–13, 1748",
+      "startWatch": "afternoon",
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Several days at the monastery; later conversations expand this interval without timing its final watch.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-07-09",
+      "endDate": "1748-07-13"
+    },
+    {
+      "day": "July 10, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Renewal follows the first rains; the small monastery feast fits the stated evening-meal custom.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-07-10",
+      "endDate": "1748-07-10",
+      "sourceRanges": [
+        [
+          "u1381",
+          "u1385"
+        ]
+      ]
+    },
+    {
+      "day": "July 11, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Kassi’s meeting follows her Renewal-day invitation to return tomorrow; no watch is stated.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-07-11",
+      "endDate": "1748-07-11"
+    },
+    {
+      "day": "July 13, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Lara returns a few days before departure; the dated session record assigns July 13, with watch open.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-07-13",
+      "endDate": "1748-07-13"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated Session 41 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 41 (DuFr).md",
+      "sha256": "7489163fcb1a99c002ef50114fab98b7817a8377f597720b09377f6340ea8cfe"
+    }
+  ]
+}
