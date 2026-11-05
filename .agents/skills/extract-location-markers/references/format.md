@@ -34,6 +34,8 @@ Reuse IDs for repeat visits and supported co-reference. Do not merge two unnamed
 
 Include only places needed to interpret markers, route references, or necessary physical context. Incidental hills, crossings, or landmarks can remain route text without dictionary entries. Do not require canonical notes for local places or catalog every room description. Place evidence may use a later naming passage to establish identity while markers preserve the earlier occurrence.
 
+An enclosing site is necessary context when omitting it would leave only anonymous rooms or grounds. Retain supported named settings and regions in this dictionary and connect their local places with `within` evidence, without requiring extra markers for the parents. For example, a later identification of a family villa can identify the manor estate already containing the played grounds; it does not put the gardens inside the main house or establish a new arrival. Preserve a verified `vaultPath` for that site. The link resolves identity; it does not authorize importing modern whereabouts or containment from the note. Attribute useful vault-only orientation explicitly in `note`, including its source and temporal qualification, and keep it out of transcript-backed `relations`. Unknown parentage stays unknown.
+
 ## Marker core
 
 Every marker requires:
