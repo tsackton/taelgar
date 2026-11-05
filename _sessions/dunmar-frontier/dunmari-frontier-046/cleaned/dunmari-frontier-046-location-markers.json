@@ -1,0 +1,1159 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-046",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-session.yaml",
+    "sessionYamlSha256": "29a149852aa04c9bd934be1cafab603d178a20dfe803e8641fe59f0bc5695081",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-transcript.md",
+    "transcriptSha256": "f320fe953e37965c146ce7e4e88a7a61a8bf6ad3081facd14e50107c87995dd1"
+  },
+  "places": {
+    "p01": {
+      "label": "Trade road toward Darba",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u0306",
+          "endUid": "u0308",
+          "quote": "DM: Okay, so this would be like you know just about when you rejoined the trade route, so when you're a week right about there. Um you would expect them to be somewhere near Songara at this point. And what time of day or night are you sending this message at?"
+        },
+        {
+          "startUid": "u0392",
+          "endUid": "u0405",
+          "quote": "DM: Okay, okay, so as you approach in the late afternoon, the sun creeping towards the vast expanse of the Nevos Sea to the west, you can see or imagine the layers of history that sit on the land here. So as you walk, you're traveling along the low rise of the land north of the river. So above where it sort of slopes down to a river valley, in the land here is lush and green and full of life. And while the ancient forests that once spread across Dunmar are gone, you can see echoes here in the trees of the river valley, of the riparian valley along the river floor, and the occasional stand of forest nestled among the gentle hills on both sides of the river. This is, you know, especially in the past few days, as you—as you've descended down from the foothills of the rocky mountains towards this coastal plain, this is the most trees you've seen in a long time. And while most of the forest here is managed for timber, which is obvious from the lumber barges that pass along the river and the water driven sawmills that are, you know, occasionally pass, and little small weirs and diversions along the ancient road, you can still feel a hint of this, of the land that used to be here. This, this is not—this, this land has been here for for a long time. This is not—you have to go further south to get to the new land that rose up out of the ocean when the plateau of the Dunmari desert and the Yuvanti Mountains."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Roads/Darba-Songara Road.md",
+      "note": "The Darba-Songara Road note identifies the old Drankorian approach road. Earlier travel through the Copper Hills is mentioned retrospectively; this does not establish an extra current visit there."
+    },
+    "p02": {
+      "label": "Darba",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u0402",
+          "endUid": "u0405",
+          "quote": "DM: You're traveling along an old Drankorian road, which of course has its own layer of history. And what is now Darba was once a small trading post and fortification at the mouth of a little known or cared about river, a way station on the way to the coast of the Emerald Bay to the north, of backwater, really, marked only by the fort and then eventually the road. While there's very little, if anything left of this Drankorian settlement, now that fort itself still stands and the shining white walls and towers of the fort loom over the city of Darba perched on a hill above the harbor. And the road still passes through the ancient iron gates of the outer walls. Drankorian construction, when not destroyed by war or disaster, seems to last for a very long time."
+        },
+        {
+          "startUid": "u1330",
+          "endUid": "u1334",
+          "quote": "DM: The so so you all you you split up before you reach the gates, and you filter into the city in three groups. You know, in the evening fair bit of traffic going back and forth, like it's pretty easy. I mean there's there's dwarves coming and going, right? Does a fair bit of dwarven trade. There's the—outside the gates as a bunch of like warehouses and things there's a lot of dwarven, a lot of dwarven metal, iron and steel gets traded to Darba, and then it's made into weapons and things that are traded all over the world, right? So the dwarven smith's here are pretty well known, um."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/Darba.md"
+    },
+    "p03": {
+      "label": "Dwarven quarter",
+      "kind": "district",
+      "evidence": [
+        {
+          "startUid": "u1335",
+          "endUid": "u1338",
+          "quote": "DM: So Seeker when you sort of slip into the crowd just kind of mingling passing through the gates and then passing through the you know, following this this ancient road that goes that goes sort of so the dwarves—the dwarven quarter is so, if you think of the city is like a circle with like the coast on one side and the inland and the other dwarven quarter is like on the coast, but on the northern end of the city, so it's like one, like the upper left corner of the city, basically."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1335",
+              "endUid": "u1338",
+              "quote": "DM: So Seeker when you sort of slip into the crowd just kind of mingling passing through the gates and then passing through the you know, following this this ancient road that goes that goes sort of so the dwarves—the dwarven quarter is so, if you think of the city is like a circle with like the coast on one side and the inland and the other dwarven quarter is like on the coast, but on the northern end of the city, so it's like one, like the upper left corner of the city, basically."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Dwarven tavern",
+      "kind": "tavern",
+      "evidence": [
+        {
+          "startUid": "u1339",
+          "endUid": "u1350",
+          "quote": "DM: You it's not too hard, like a lot of the construction work is kind of ending as you enter the city and so you you can it's pretty easily without having to roll or anything blend in with a bunch of the dwarven masons and people who are leaving this big central there's this huge market in the middle of town like it's like like the mercado central or something in Florence or and it's one of these big like European enclosed markets. And in the front there's a whole new wing that's being added to it, and so the city has hired a bunch of dwarves to manage the construction of this. So you kind of slip in and head towards the dwarven quarter. I assume that you would have communicated either by Sending or before you left where there's some place in the dwarven quarter you're supposed to meet this person. So you, you reach—you reach this, this dwarven inn, dwarven tavern, really popular with sort of after work mason crowd, rights, does it. There's a decent crowding the tavern, but you sort of, you know, go in and you—mentioned that you're that you're looking for you know you probably have to give your name right Riswynn to because they won't be expecting you to travel incognito right but I guess you probably feel fairly safe."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1339",
+              "endUid": "u1350",
+              "quote": "DM: You it's not too hard, like a lot of the construction work is kind of ending as you enter the city and so you you can it's pretty easily without having to roll or anything blend in with a bunch of the dwarven masons and people who are leaving this big central there's this huge market in the middle of town like it's like like the mercado central or something in Florence or and it's one of these big like European enclosed markets. And in the front there's a whole new wing that's being added to it, and so the city has hired a bunch of dwarves to manage the construction of this. So you kind of slip in and head towards the dwarven quarter. I assume that you would have communicated either by Sending or before you left where there's some place in the dwarven quarter you're supposed to meet this person. So you, you reach—you reach this, this dwarven inn, dwarven tavern, really popular with sort of after work mason crowd, rights, does it. There's a decent crowding the tavern, but you sort of, you know, go in and you—mentioned that you're that you're looking for you know you probably have to give your name right Riswynn to because they won't be expecting you to travel incognito right but I guess you probably feel fairly safe."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Torgga Redpeak’s home",
+      "kind": "house",
+      "evidence": [
+        {
+          "startUid": "u1663",
+          "endUid": "u1671",
+          "quote": "DM: Sure, I'm sure she'd be happy to. Torgga Redpeak. So just in the interest of time, I don't think we need to roleplay that. And Kate, you probably want to go to bed soon. I don't know if you want to go to bed soon, but. No, I do okay."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1667",
+              "endUid": "u1671",
+              "quote": "DM: So we will say you go, yeah, travel down the road a little bit, um. Torgga Redpeak is like—she's like the matriarch of a big dwarven mason clan. So she's got it she's got a fairly large the dwarven quarter is a lot of it's fairly wealthy and there's a lot of fairly large houses and she's got plenty of space. Travok has like six guards that are staying like in, you know, cramped into, you know, the outbuildings, but you've got rooms for each of you. And so, spend the night, we will cut to—"
+            }
+          ]
+        }
+      ],
+      "note": "Travok’s cousin’s house is established at u1663–u1671 and Seeker calls it a private dwarven home at u2157. The return narration at u2490–u2494 calls the lodging an inn; it does not independently establish another address."
+    },
+    "p06": {
+      "label": "North-bank docks",
+      "kind": "harbor district",
+      "evidence": [
+        {
+          "startUid": "u1296",
+          "endUid": "u1304",
+          "quote": "DM: First question is, do you want to, are you looking for ships in the like fancy docks or the like slummy docks, right? Because those docks on both sides of the river, the main harbour is on the north side of the river with the city, and that's where like the the old like— historic port and all the commerce comes in, but of course there's a bunch of rickety old rickety new probably less well you know. Easier to hide, but perhaps harder to find the ship that is fast and right right so."
+        },
+        {
+          "startUid": "u1730",
+          "endUid": "u1735",
+          "quote": "DM: Okay, so it's um you know it's like an hour before sunset and there's a fair bit of of activity on the docks actually because it is the tide is going out, so there's a bunch of—there's a number of boats that are, you know, trying to set sail, basically get out of the harbor and the estuary with the tide, and they'll probably anchor off off coast for the night. There's a lot of diversity of you know there's a bunch of different kinds of ships in harbor, right? There's Chardonian merchant ships there's you know, a handful of have Dunmari ships. There's the Illorian ships. There's some halfling ships. It's pretty bustling and active, and there's you know people shouting and loading stuff, there's like halflings bustling around trying to get there, you know, wares loaded there's you know just a fair bit of activity as you make your way to the docks."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1296",
+              "endUid": "u1301",
+              "quote": "DM: First question is, do you want to, are you looking for ships in the like fancy docks or the like slummy docks, right? Because those docks on both sides of the river, the main harbour is on the north side of the river with the city, and that's where like the the old like— historic port and all the commerce comes in, but of course there's a bunch of rickety old rickety new probably less well you know. Easier to hide, but perhaps harder to find the ship that is fast and right right so."
+            },
+            {
+              "startUid": "u1330",
+              "endUid": "u1334",
+              "quote": "DM: The so so you all you you split up before you reach the gates, and you filter into the city in three groups. You know, in the evening fair bit of traffic going back and forth, like it's pretty easy. I mean there's there's dwarves coming and going, right? Does a fair bit of dwarven trade. There's the—outside the gates as a bunch of like warehouses and things there's a lot of dwarven, a lot of dwarven metal, iron and steel gets traded to Darba, and then it's made into weapons and things that are traded all over the world, right? So the dwarven smith's here are pretty well known, um."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "The Green Leaf",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u1787",
+          "endUid": "u1793",
+          "quote": "DM: Yeah so um yeah, there is. I mean, there's like—there's like a halfling inn in the in the docks district that tends to be the sort of organizing point for—and it's, it's—this is a place that's really defined as a halfling inn, right? There's no—"
+        },
+        {
+          "startUid": "u1807",
+          "endUid": "u1814",
+          "quote": "DM: But yeah yeah so usually like you know at this inn I mean things work differently in Sembara right because there's things are just organized differently right, but you know you walk into the to the halfling inn the what is a good name for a halfling inn?"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/The Green Leaf.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1787",
+              "endUid": "u1789",
+              "quote": "DM: Yeah so um yeah, there is. I mean, there's like—there's like a halfling inn in the in the docks district that tends to be the sort of organizing point for—and it's, it's—this is a place that's really defined as a halfling inn, right? There's no—"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Business inn near the docks",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u2068",
+          "endUid": "u2075",
+          "quote": "Kenzo: So yeah, I soul-sight, I soul-sight our way to a, you know, a quiet part of town, looking for not shady people, and, you know."
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2090",
+          "quote": "DM: Yeah I mean there's like you know, there's a lot, a lot of the inns along the, you know, on this side are a bit more rowdy, but like there's a, you know, you—it's easy to find a sort of slightly nicer inn, you know. There's the— I mean plenty of like—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2056",
+              "endUid": "u2060",
+              "quote": "DM: Yeah I mean the the dock that you know, basically, the ships, the evening ships that are leaving are now mostly left and so the traffic on the piers themselves is basically disappearing and so you're going to be conspicuous relatively soon like. People aren't—any sailors on ships not leaving tonight are now kind of filtering into the bars and and taverns for the night. And so, you know, this—the sort of docks themselves are clearing out. Nobody's loading ships anymore, right? Like— What's going away."
+            },
+            {
+              "startUid": "u2069",
+              "endUid": "u2069",
+              "quote": "Delwath: Let's just pick one of the inns and there must be is near the dock that are more—"
+            },
+            {
+              "startUid": "u2088",
+              "endUid": "u2090",
+              "quote": "Kenzo: Alright, so we find we find one of those yeah. I'm Delwath and I post up there, message the location to to Wellby right."
+            }
+          ]
+        }
+      ],
+      "note": "A separate unnamed inn where Kenzo and Delwath arrange a private meeting; it is not identified as the Green Leaf or the dwarven tavern."
+    },
+    "p09": {
+      "label": "Halfling ship booked for Chardon",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u2452",
+          "endUid": "u2476",
+          "quote": "Wellby: We could stay on the ship—"
+        },
+        {
+          "startUid": "u2501",
+          "endUid": "u2506",
+          "quote": "DM: So you spend the night um selling treasure, whose—so in the morning, let's see, what do you want to—what is—what is on the docket for the morning? Seeker is gonna get up at the crack of dawn and get a tour of the masonry. Masonry nerd. Delwath's gonna sell stuff. Wellby, do you have any goals to accomplish? Just hanging out on the ship learn the ropes—"
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Emerald Song.md",
+      "note": "Unnamed in this transcript. The Emerald Song note and Session 46 (DuFr) identify the booked vessel retrospectively; its later itinerary is not imported into the markers."
+    },
+    "p10": {
+      "label": "Darba market",
+      "kind": "market",
+      "evidence": [
+        {
+          "startUid": "u1339",
+          "endUid": "u1350",
+          "quote": "DM: You it's not too hard, like a lot of the construction work is kind of ending as you enter the city and so you you can it's pretty easily without having to roll or anything blend in with a bunch of the dwarven masons and people who are leaving this big central there's this huge market in the middle of town like it's like like the mercado central or something in Florence or and it's one of these big like European enclosed markets. And in the front there's a whole new wing that's being added to it, and so the city has hired a bunch of dwarves to manage the construction of this. So you kind of slip in and head towards the dwarven quarter. I assume that you would have communicated either by Sending or before you left where there's some place in the dwarven quarter you're supposed to meet this person. So you, you reach—you reach this, this dwarven inn, dwarven tavern, really popular with sort of after work mason crowd, rights, does it. There's a decent crowding the tavern, but you sort of, you know, go in and you—mentioned that you're that you're looking for you know you probably have to give your name right Riswynn to because they won't be expecting you to travel incognito right but I guess you probably feel fairly safe."
+        },
+        {
+          "startUid": "u2507",
+          "endUid": "u2510",
+          "quote": "DM: And I think Kong is checking on his mom, so we will come back to Kenzo. Ah, just going to deal with selling stuff first, because that should be pretty quick so you're—basically this is going to take you essentially the whole day. Right, and you're gonna—you just kind of wander, does like there's this big market, right? So like it's pretty easy to find people who will sell stuff, um, so let me see that. The just."
+        },
+        {
+          "startUid": "u2520",
+          "endUid": "u2524",
+          "quote": "DM: Right right right right right. Okay um. Okay, so you go through, and you know make your way around the market selling these things up all up in a minute, the total worth but."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1339",
+              "endUid": "u1350",
+              "quote": "DM: You it's not too hard, like a lot of the construction work is kind of ending as you enter the city and so you you can it's pretty easily without having to roll or anything blend in with a bunch of the dwarven masons and people who are leaving this big central there's this huge market in the middle of town like it's like like the mercado central or something in Florence or and it's one of these big like European enclosed markets. And in the front there's a whole new wing that's being added to it, and so the city has hired a bunch of dwarves to manage the construction of this. So you kind of slip in and head towards the dwarven quarter. I assume that you would have communicated either by Sending or before you left where there's some place in the dwarven quarter you're supposed to meet this person. So you, you reach—you reach this, this dwarven inn, dwarven tavern, really popular with sort of after work mason crowd, rights, does it. There's a decent crowding the tavern, but you sort of, you know, go in and you—mentioned that you're that you're looking for you know you probably have to give your name right Riswynn to because they won't be expecting you to travel incognito right but I guess you probably feel fairly safe."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Albus’s bookselling premises",
+      "kind": "shop",
+      "evidence": [
+        {
+          "startUid": "u2842",
+          "endUid": "u2857",
+          "quote": "Delwath: Good um. I will go start with Albus okay same persona curious about antiquities. Asked him—wait, well, I'm losing track of exactly what somebody told me about Albus, because—"
+        },
+        {
+          "startUid": "u2943",
+          "endUid": "u2968",
+          "quote": "DM: I've got a few. Travelogues where?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2812",
+              "endUid": "u2827",
+              "quote": "Delwath: It I'm not my favorite place. Anyway, it's been nice talking to you. Know certainly I’m heatwave, so I have two names, Albus and—"
+            },
+            {
+              "startUid": "u2842",
+              "endUid": "u2857",
+              "quote": "Delwath: Good um. I will go start with Albus okay same persona curious about antiquities. Asked him—wait, well, I'm losing track of exactly what somebody told me about Albus, because—"
+            }
+          ]
+        }
+      ],
+      "note": "The meeting with the bookseller establishes a local selling venue; a dedicated shop building and exact relation to the central market are not described."
+    },
+    "p12": {
+      "label": "Finellen Silverstone’s antiquities business",
+      "kind": "business",
+      "evidence": [
+        {
+          "startUid": "u2667",
+          "endUid": "u2670",
+          "quote": "DM: Then nobody's come back, but if you want to if you want to buy stuff you should you should talk to Finellen Silverstone, and she is a dwarven antiquities dealer. Okay, your best bet for the purchasing of items."
+        },
+        {
+          "startUid": "u2816",
+          "endUid": "u2819",
+          "quote": "DM: Albus, as the Chardonian bookseller, and—"
+        },
+        {
+          "startUid": "u2975",
+          "endUid": "u2979",
+          "quote": "Delwath: Just be upfront has anybody come here trying to force you to sell things? That's really someone like Riswynn needs to talk to can we do that instead?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2667",
+              "endUid": "u2670",
+              "quote": "DM: Then nobody's come back, but if you want to if you want to buy stuff you should you should talk to Finellen Silverstone, and she is a dwarven antiquities dealer. Okay, your best bet for the purchasing of items."
+            },
+            {
+              "startUid": "u2849",
+              "endUid": "u2852",
+              "quote": "Delwath: But you know the other thing I'm gonna do is I'm gonna see if he's interested in buying the Lyrics of a New Age. I mean, actually that's my excuse we're going to talk to him: Lyrics of a New Age. My book of elvish poetry I'm going to say I heard his name from somebody else in the market and I hadn't thought that there was anybody in this town who'd be interested in a book of poetry, but I heard he was from Chardon, and Chardonians, they're sophisticated, and I'm curious if you'd be interested."
+            }
+          ]
+        }
+      ],
+      "note": "A referred local destination. The transcript delegates an errand to Riswynn but does not show its outcome or establish arrival."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0306",
+        "endUid": "u0308"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "The party is on the trade route during the first Sending, about a week into the journey.",
+      "evidence": [
+        {
+          "startUid": "u0306",
+          "endUid": "u0308",
+          "quote": "DM: Okay, so this would be like you know just about when you rejoined the trade route, so when you're a week right about there. Um you would expect them to be somewhere near Songara at this point. And what time of day or night are you sending this message at?"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0392",
+        "endUid": "u0432"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "The party approaches Darba along the ancient road north of the Rudhan, with the gates still ahead.",
+      "evidence": [
+        {
+          "startUid": "u0392",
+          "endUid": "u0401",
+          "quote": "DM: Okay, okay, so as you approach in the late afternoon, the sun creeping towards the vast expanse of the Nevos Sea to the west, you can see or imagine the layers of history that sit on the land here. So as you walk, you're traveling along the low rise of the land north of the river. So above where it sort of slopes down to a river valley, in the land here is lush and green and full of life. And while the ancient forests that once spread across Dunmar are gone, you can see echoes here in the trees of the river valley, of the riparian valley along the river floor, and the occasional stand of forest nestled among the gentle hills on both sides of the river. This is, you know, especially in the past few days, as you—as you've descended down from the foothills of the rocky mountains towards this coastal plain, this is the most trees you've seen in a long time. And while most of the forest here is managed for timber, which is obvious from the lumber barges that pass along the river and the water driven sawmills that are, you know, occasionally pass, and little small weirs and diversions along the ancient road, you can still feel a hint of this, of the land that used to be here. This, this is not—this, this land has been here for for a long time. This is not—you have to go further south to get to the new land that rose up out of the ocean when the plateau of the Dunmari desert and the Yuvanti Mountains."
+        },
+        {
+          "startUid": "u0402",
+          "endUid": "u0405",
+          "quote": "DM: You're traveling along an old Drankorian road, which of course has its own layer of history. And what is now Darba was once a small trading post and fortification at the mouth of a little known or cared about river, a way station on the way to the coast of the Emerald Bay to the north, of backwater, really, marked only by the fort and then eventually the road. While there's very little, if anything left of this Drankorian settlement, now that fort itself still stands and the shining white walls and towers of the fort loom over the city of Darba perched on a hill above the harbor. And the road still passes through the ancient iron gates of the outer walls. Drankorian construction, when not destroyed by war or disaster, seems to last for a very long time."
+        },
+        {
+          "startUid": "u0422",
+          "endUid": "u0432",
+          "quote": "DM: So, as you approach the city, unlike anything most of you have seen for quite some time, since—you know, at least since—for Wellby, at least since leaving Sembara. For Kenzo, since leaving Chardon. There's, you know, a lot more traffic on the road. There's people coming and going, the gates stand open, nobody's—you know, there's no tolls or fees, at least to enter the city. There's no—doesn't seem to be much in the way of—you know, there's a handful of guard standing just kind of watching people go by, but the gates don't seem to be shut much if ever. And you see a much more mixed crowd, not just Dunmari, not even just dwarves and halflings, but lizard folk. Chardonians, Illorians."
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "underway",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Descend from the rocky foothills toward the coastal plain over the preceding days."
+        },
+        {
+          "reading": "Follow the old Drankorian road along the low rise north of the river, approaching the open gates."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1330",
+        "endUid": "u1334"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "After splitting outside the gates, the party filters into Darba in three groups.",
+      "evidence": [
+        {
+          "startUid": "u1330",
+          "endUid": "u1334",
+          "quote": "DM: The so so you all you you split up before you reach the gates, and you filter into the city in three groups. You know, in the evening fair bit of traffic going back and forth, like it's pretty easy. I mean there's there's dwarves coming and going, right? Does a fair bit of dwarven trade. There's the—outside the gates as a bunch of like warehouses and things there's a lot of dwarven, a lot of dwarven metal, iron and steel gets traded to Darba, and then it's made into weapons and things that are traded all over the world, right? So the dwarven smith's here are pretty well known, um."
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1335",
+        "endUid": "u1350"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Seeker and Riswynn pass through the city to the dwarven tavern in its dwarven quarter.",
+      "evidence": [
+        {
+          "startUid": "u1335",
+          "endUid": "u1338",
+          "quote": "DM: So Seeker when you sort of slip into the crowd just kind of mingling passing through the gates and then passing through the you know, following this this ancient road that goes that goes sort of so the dwarves—the dwarven quarter is so, if you think of the city is like a circle with like the coast on one side and the inland and the other dwarven quarter is like on the coast, but on the northern end of the city, so it's like one, like the upper left corner of the city, basically."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1350",
+          "quote": "DM: You it's not too hard, like a lot of the construction work is kind of ending as you enter the city and so you you can it's pretty easily without having to roll or anything blend in with a bunch of the dwarven masons and people who are leaving this big central there's this huge market in the middle of town like it's like like the mercado central or something in Florence or and it's one of these big like European enclosed markets. And in the front there's a whole new wing that's being added to it, and so the city has hired a bunch of dwarves to manage the construction of this. So you kind of slip in and head towards the dwarven quarter. I assume that you would have communicated either by Sending or before you left where there's some place in the dwarven quarter you're supposed to meet this person. So you, you reach—you reach this, this dwarven inn, dwarven tavern, really popular with sort of after work mason crowd, rights, does it. There's a decent crowding the tavern, but you sort of, you know, go in and you—mentioned that you're that you're looking for you know you probably have to give your name right Riswynn to because they won't be expecting you to travel incognito right but I guess you probably feel fairly safe."
+        },
+        {
+          "startUid": "u1351",
+          "endUid": "u1351",
+          "quote": "Riswynn: Going to the tavern that I was told to go to yes."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p03",
+          "reading": "Head through the northern coastal dwarven quarter to the tavern."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1663",
+        "endUid": "u1671"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Travok brings Seeker and Riswynn to his cousin Torgga’s spacious home in the dwarven quarter.",
+      "evidence": [
+        {
+          "startUid": "u1663",
+          "endUid": "u1666",
+          "quote": "DM: Sure, I'm sure she'd be happy to. Torgga Redpeak. So just in the interest of time, I don't think we need to roleplay that. And Kate, you probably want to go to bed soon. I don't know if you want to go to bed soon, but. No, I do okay."
+        },
+        {
+          "startUid": "u1667",
+          "endUid": "u1671",
+          "quote": "DM: So we will say you go, yeah, travel down the road a little bit, um. Torgga Redpeak is like—she's like the matriarch of a big dwarven mason clan. So she's got it she's got a fairly large the dwarven quarter is a lot of it's fairly wealthy and there's a lot of fairly large houses and she's got plenty of space. Travok has like six guards that are staying like in, you know, cramped into, you know, the outbuildings, but you've got rooms for each of you. And so, spend the night, we will cut to—"
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1730",
+        "endUid": "u1735"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Johar"
+      ],
+      "reading": "The separate group reaches the busy north-bank docks to seek Johar a ship.",
+      "evidence": [
+        {
+          "startUid": "u1302",
+          "endUid": "u1304",
+          "quote": "Delwath: Let's um let's take Johar and get him on a ship at the nice docks and use that as a way of scouting what it's like how expensive it is, whether we see something like whether it feels like—just to learn something and then we can regroup, right?"
+        },
+        {
+          "startUid": "u1730",
+          "endUid": "u1735",
+          "quote": "DM: Okay, so it's um you know it's like an hour before sunset and there's a fair bit of of activity on the docks actually because it is the tide is going out, so there's a bunch of—there's a number of boats that are, you know, trying to set sail, basically get out of the harbor and the estuary with the tide, and they'll probably anchor off off coast for the night. There's a lot of diversity of you know there's a bunch of different kinds of ships in harbor, right? There's Chardonian merchant ships there's you know, a handful of have Dunmari ships. There's the Illorian ships. There's some halfling ships. It's pretty bustling and active, and there's you know people shouting and loading stuff, there's like halflings bustling around trying to get there, you know, wares loaded there's you know just a fair bit of activity as you make your way to the docks."
+        }
+      ],
+      "from": "p02",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1783",
+        "endUid": "u1814"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby goes to the halfling inn on the docks and enters the Green Leaf to investigate passage.",
+      "evidence": [
+        {
+          "startUid": "u1783",
+          "endUid": "u1786",
+          "quote": "Wellby: I am making my way to like the stair like a is there a caravanserai equivalent for sea trade is there, like a like towns would have a sailor's hall, but specifically for halflings, or—"
+        },
+        {
+          "startUid": "u1787",
+          "endUid": "u1789",
+          "quote": "DM: Yeah so um yeah, there is. I mean, there's like—there's like a halfling inn in the in the docks district that tends to be the sort of organizing point for—and it's, it's—this is a place that's really defined as a halfling inn, right? There's no—"
+        },
+        {
+          "startUid": "u1794",
+          "endUid": "u1794",
+          "quote": "Wellby: Well, go in and get the lay of the land and find people."
+        },
+        {
+          "startUid": "u1807",
+          "endUid": "u1809",
+          "quote": "DM: But yeah yeah so usually like you know at this inn I mean things work differently in Sembara right because there's things are just organized differently right, but you know you walk into the to the halfling inn the what is a good name for a halfling inn?"
+        },
+        {
+          "startUid": "u1811",
+          "endUid": "u1814",
+          "quote": "DM: The Green Leaf um and you know it's it's close to dinner time so it's pretty active right, but you know, basically, the way just from spending a little bit of time, you know watching the scene here, your background feature comes into play, right? You're like pick up new cultures. Like, you get the sense the way this works is, um—"
+        }
+      ],
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u1826",
+        "endUid": "u1837"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath hangs back in an inconspicuous dockside position to watch the harbor.",
+      "evidence": [
+        {
+          "startUid": "u1826",
+          "endUid": "u1837",
+          "quote": "Delwath: Well Kenzo and Johar like wandering around looking at the boats I'm just going to like find like a bench or like quiet out of the way spot somewhere around the docks—"
+        },
+        {
+          "startUid": "u1833",
+          "endUid": "u1837",
+          "quote": "Delwath: And then I'm also going to just use my eyes of Elmerca to just, I don't know, maybe somebody has magic. Why not find out? Okay, and then just observe, right? I'm just trying to see, like, is there anything to—a, the ship seem particularly busy? Do any of the ships seem like— are there—up—keep an eye out for anybody booking passage, especially last minute, right? Like— Just anything that seems interesting, and maybe, you know, get up and stroll and look out at the sea at some point or—but just, you know— Inconspicuous as much as possible."
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1935",
+        "endUid": "u1953"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby rejoins Kenzo and Johar at the docks and approves the departing Dunmari ship.",
+      "evidence": [
+        {
+          "startUid": "u1935",
+          "endUid": "u1937",
+          "quote": "Wellby: I'm right behind you tap you on the knee. Kenzo."
+        },
+        {
+          "startUid": "u1951",
+          "endUid": "u1953",
+          "quote": "Wellby: Alright, that sounds good enough to me let's do it so I'll link back up with you. Kenzo yeah I think it's all good, I mean the halflings are better, of course, but these guys are leaving now."
+        }
+      ],
+      "from": "p07",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2001",
+        "endUid": "u2001"
+      },
+      "actors": [
+        "Johar"
+      ],
+      "reading": "Johar leaves his companions for the little boat taking him out to the ship as it begins leaving on the tide.",
+      "evidence": [
+        {
+          "startUid": "u1988",
+          "endUid": "u1988",
+          "quote": "DM: Yeah I guess I better go catch my ship."
+        },
+        {
+          "startUid": "u2001",
+          "endUid": "u2001",
+          "quote": "DM: And he turns towards the the little boat to head out head out to the ship, as it begins to leave on the tide."
+        }
+      ],
+      "from": "p06",
+      "to": null,
+      "completion": "underway",
+      "mode": "boat",
+      "note": "This establishes departure toward his ship, not arrival in Nayahar."
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u2004",
+        "endUid": "u2022"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Narration returns to Seeker’s conversation with Vondal among the Redpeaks at the dwarven lodging.",
+      "evidence": [
+        {
+          "startUid": "u2004",
+          "endUid": "u2004",
+          "quote": "DM: Okay Seeker if there's anything else you want to do with dwarves let's cut back to you, sir."
+        },
+        {
+          "startUid": "u2007",
+          "endUid": "u2012",
+          "quote": "DM: Yeah the fortress and the walls are almost there's so yeah I'm one of the Redpeak one of the like big Redpeak clan let's say Vondal Redpeak."
+        },
+        {
+          "startUid": "u2013",
+          "endUid": "u2021",
+          "quote": "DM: He is like you know, one of the one of the masons, you know, who's—who's responsible for, you know, is, you know, one of the construction workers basically, but it's also like super interested in— just the layers of history here, and he you know gives you the whole rundown about there's the the wall, and there's the fort, and then there was this whole Drankorian bath complex that got, you know, most of the stones there have been reused for giant—there's a giant cistern where there's water that's pumped from the hinterlands, so there's a big like— cistern of water and in the city that's like a public well. And yeah, like a bunch of people have built mansions from it. And he's going on and on about, you know, all the stones in the city and exactly where each one came from, and then it's like— Oh, sorry, yeah, I'm happy to show you when it's light out in the morning, if you'd like have to be at first light because I've got to you know, get to work, but."
+        }
+      ],
+      "place": "p05",
+      "note": "The morning tour is proposed, not a present visit to the fort, walls, cistern, or bath ruins."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2088",
+        "endUid": "u2090"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Kenzo and Delwath settle into a business inn near the docks and send its location to Wellby.",
+      "evidence": [
+        {
+          "startUid": "u2068",
+          "endUid": "u2069",
+          "quote": "Kenzo: So yeah, I soul-sight, I soul-sight our way to a, you know, a quiet part of town, looking for not shady people, and, you know."
+        },
+        {
+          "startUid": "u2073",
+          "endUid": "u2075",
+          "quote": "Delwath: Go to some decent looking, some inn that looks at first glance relatively pricey and you know, send Kenzo in to ask for a you know say you're hosting a small dinner with for a couple of—"
+        },
+        {
+          "startUid": "u2088",
+          "endUid": "u2090",
+          "quote": "Kenzo: Alright, so we find we find one of those yeah. I'm Delwath and I post up there, message the location to to Wellby right."
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2141",
+        "endUid": "u2157"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker joins Kenzo and Delwath at the business inn, after Johar’s departure.",
+      "evidence": [
+        {
+          "startUid": "u2141",
+          "endUid": "u2142",
+          "quote": "DM: Yeah we'll cut over to the inn so Seeker I assume you're you've somehow found them at the inn right I don't want to deal with the complications of."
+        },
+        {
+          "startUid": "u2149",
+          "endUid": "u2149",
+          "quote": "Seeker: Will meet down at the docks because we—we all should have seen Johar off, but actually maybe the plan was we didn't know exactly what time that would happen. So I'll arrive after that's occurred."
+        },
+        {
+          "startUid": "u2150",
+          "endUid": "u2153",
+          "quote": "DM: Yeah I think you would arrive after that's occurred, but."
+        },
+        {
+          "startUid": "u2157",
+          "endUid": "u2157",
+          "quote": "Seeker: And she's—she turned in for the night. We found a really nice private dwarven home to stay."
+        }
+      ],
+      "from": "p05",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2389",
+        "endUid": "u2393"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "After negotiating passage, Wellby meets the others at their arranged inn.",
+      "evidence": [
+        {
+          "startUid": "u2066",
+          "endUid": "u2066",
+          "quote": "Wellby: Listen, you, in the interest of keeping our heads down, you two go find a quiet inn. Message me once you find it. I'm gonna go arrange for passage for us and then Seeker, then we'll match up there sometime."
+        },
+        {
+          "startUid": "u2389",
+          "endUid": "u2389",
+          "quote": "Wellby: All right, I'll meet up with everyone else."
+        },
+        {
+          "startUid": "u2391",
+          "endUid": "u2393",
+          "quote": "Wellby: Got us passage. Halfling ship. No other non-halfling passengers. Sail tomorrow, three hours before sunset. Don't be late. 18 days, 19 days."
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "note": "The mate’s precise negotiation location is unstated; this marker does not assert that Wellby inspected or boarded the ship before the later overnight arrangements."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2456",
+        "endUid": "u2506"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo goes invisibly with Wellby to the booked halfling ship for the night.",
+      "evidence": [
+        {
+          "startUid": "u2473",
+          "endUid": "u2476",
+          "quote": "Delwath: I just mostly I'm thinking if somebody comes to the docks and a week and says to people who hang around the docks, ‘Hey, did you see a group of five people or a group of four people, an elf and—’ board ship? Nobody's like, ‘Yes.’ Good. Right, but yeah, now I'll fall—I'll be back, so I'll fall, I'll— send Kenzo invisible with him, with Wellby I'll see what boat it is and then follow follow Seeker back invisible, so like but, you know, back 300 paces or something and just keep an eye on."
+        },
+        {
+          "startUid": "u2501",
+          "endUid": "u2506",
+          "quote": "DM: So you spend the night um selling treasure, whose—so in the morning, let's see, what do you want to—what is—what is on the docket for the morning? Seeker is gonna get up at the crack of dawn and get a tour of the masonry. Masonry nerd. Delwath's gonna sell stuff. Wellby, do you have any goals to accomplish? Just hanging out on the ship learn the ropes—"
+        },
+        {
+          "startUid": "u2576",
+          "endUid": "u2576",
+          "quote": "Delwath: He did see us come on board invisible."
+        },
+        {
+          "startUid": "u2577",
+          "endUid": "u2577",
+          "quote": "DM: Yeah you might need to try that trick again."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p09",
+          "relation": "moored_at",
+          "target": "p06"
+        }
+      ],
+      "note": "The captain conversation at u2576–u2577 confirms the invisible boarding."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2473",
+        "endUid": "u2498"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "Seeker heads back toward the dwarven lodging while invisible Delwath follows through the dwarven quarter to check for a tail.",
+      "evidence": [
+        {
+          "startUid": "u2473",
+          "endUid": "u2476",
+          "quote": "Delwath: I just mostly I'm thinking if somebody comes to the docks and a week and says to people who hang around the docks, ‘Hey, did you see a group of five people or a group of four people, an elf and—’ board ship? Nobody's like, ‘Yes.’ Good. Right, but yeah, now I'll fall—I'll be back, so I'll fall, I'll— send Kenzo invisible with him, with Wellby I'll see what boat it is and then follow follow Seeker back invisible, so like but, you know, back 300 paces or something and just keep an eye on."
+        },
+        {
+          "startUid": "u2490",
+          "endUid": "u2494",
+          "quote": "DM: So you follow Seeker, but you break up your little group breaks up you follow Seeker back to the inn invisibly just kind of you know, watching your backside back to the dwarven quarter just kind of watching the crowds um there's you know, nobody really seems to take note of a dwarf walking through town from the docks to the dwarven quarter, right? Like, he's—"
+        },
+        {
+          "startUid": "u2495",
+          "endUid": "u2498",
+          "quote": "DM: Definitely you know behaving as people expect dwarves to behave in Darba right you don't you don't notice anybody really giving him a second look. There's nobody that you see tailing him. It all everything seems pretty aboveboard."
+        }
+      ],
+      "from": "p08",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The shared endpoint is the dwarven quarter; this does not place Delwath inside Torgga’s house. The return narration calls Seeker’s established lodging an inn."
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2499",
+        "endUid": "u2506"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "After checking Seeker’s return, Delwath goes back to the ship and spends the night there.",
+      "evidence": [
+        {
+          "startUid": "u2499",
+          "endUid": "u2499",
+          "quote": "Delwath: I will then head back to the boat."
+        },
+        {
+          "startUid": "u2501",
+          "endUid": "u2505",
+          "quote": "DM: So you spend the night um selling treasure, whose—so in the morning, let's see, what do you want to—what is—what is on the docket for the morning? Seeker is gonna get up at the crack of dawn and get a tour of the masonry. Masonry nerd. Delwath's gonna sell stuff. Wellby, do you have any goals to accomplish? Just hanging out on the ship learn the ropes—"
+        },
+        {
+          "startUid": "u2576",
+          "endUid": "u2577",
+          "quote": "Delwath: He did see us come on board invisible."
+        }
+      ],
+      "from": "p03",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "locationContext": [
+        {
+          "subject": "p09",
+          "relation": "moored_at",
+          "target": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "type": "presence",
+      "source": {
+        "startUid": "u2501",
+        "endUid": "u2506"
+      },
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "The next-morning ship scene has Wellby settling Baxter aboard.",
+      "place": "p09",
+      "evidence": [
+        {
+          "startUid": "u2501",
+          "endUid": "u2506",
+          "quote": "DM: So you spend the night um selling treasure, whose—so in the morning, let's see, what do you want to—what is—what is on the docket for the morning? Seeker is gonna get up at the crack of dawn and get a tour of the masonry. Masonry nerd. Delwath's gonna sell stuff. Wellby, do you have any goals to accomplish? Just hanging out on the ship learn the ropes—"
+        },
+        {
+          "startUid": "u2506",
+          "endUid": "u2506",
+          "quote": "Wellby: Yeah exactly get Baxter settled in and comfortable."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p09",
+          "relation": "moored_at",
+          "target": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2507",
+        "endUid": "u2524"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath works through Darba’s market selling treasure and asking for collecting leads.",
+      "evidence": [
+        {
+          "startUid": "u2507",
+          "endUid": "u2510",
+          "quote": "DM: And I think Kong is checking on his mom, so we will come back to Kenzo. Ah, just going to deal with selling stuff first, because that should be pretty quick so you're—basically this is going to take you essentially the whole day. Right, and you're gonna—you just kind of wander, does like there's this big market, right? So like it's pretty easy to find people who will sell stuff, um, so let me see that. The just."
+        },
+        {
+          "startUid": "u2520",
+          "endUid": "u2524",
+          "quote": "DM: Right right right right right. Okay um. Okay, so you go through, and you know make your way around the market selling these things up all up in a minute, the total worth but."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l19",
+      "type": "presence",
+      "source": {
+        "startUid": "u2534",
+        "endUid": "u2592"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "A flashback resolves the previous-night offer of treasure to the halfling captain aboard the ship.",
+      "evidence": [
+        {
+          "startUid": "u2534",
+          "endUid": "u2538",
+          "quote": "Delwath: Um one other thing before last night."
+        },
+        {
+          "startUid": "u2550",
+          "endUid": "u2554",
+          "quote": "DM: He is particularly impressed by the—well, he spends a little bit of time looking at them, and it's like— “Hold on a second,” and he waves somebody else over, in this lake— older woman comes over and sort of starts like peering at everything and kind of sorting it through particularly impressed with the the fancier pendants from werewolf."
+        },
+        {
+          "startUid": "u2576",
+          "endUid": "u2576",
+          "quote": "Delwath: He did see us come on board invisible."
+        }
+      ],
+      "place": "p09",
+      "context": "flashback",
+      "locationContext": [
+        {
+          "subject": "p09",
+          "relation": "moored_at",
+          "target": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2842",
+        "endUid": "u2968"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath visits Albus’s bookselling premises, sells his elvish poetry, and asks about expeditions and travelogues.",
+      "evidence": [
+        {
+          "startUid": "u2842",
+          "endUid": "u2846",
+          "quote": "Delwath: Good um. I will go start with Albus okay same persona curious about antiquities. Asked him—wait, well, I'm losing track of exactly what somebody told me about Albus, because—"
+        },
+        {
+          "startUid": "u2849",
+          "endUid": "u2852",
+          "quote": "Delwath: But you know the other thing I'm gonna do is I'm gonna see if he's interested in buying the Lyrics of a New Age. I mean, actually that's my excuse we're going to talk to him: Lyrics of a New Age. My book of elvish poetry I'm going to say I heard his name from somebody else in the market and I hadn't thought that there was anybody in this town who'd be interested in a book of poetry, but I heard he was from Chardon, and Chardonians, they're sophisticated, and I'm curious if you'd be interested."
+        },
+        {
+          "startUid": "u2853",
+          "endUid": "u2857",
+          "quote": "DM: Make a a deception oh. Wow very interesting, yes I I would be interested in purchasing that if you are selling."
+        },
+        {
+          "startUid": "u2864",
+          "endUid": "u2872",
+          "quote": "DM: Yeah there's always people coming and going the marissa south of Illoria is not one I've heard much traffic to those various rumors give you a 220 gold for that book."
+        },
+        {
+          "startUid": "u2943",
+          "endUid": "u2959",
+          "quote": "DM: I've got a few. Travelogues where?"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2975",
+        "endUid": "u2979"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "The party delegates the conversation with Finellen to Riswynn; its outcome is deferred to next session.",
+      "evidence": [
+        {
+          "startUid": "u2975",
+          "endUid": "u2978",
+          "quote": "Delwath: Just be upfront has anybody come here trying to force you to sell things? That's really someone like Riswynn needs to talk to can we do that instead?"
+        },
+        {
+          "startUid": "u2979",
+          "endUid": "u2979",
+          "quote": "DM: Yeah, you can send Riswynn to talk to the dwarf. She'll tell you what happens next session."
+        }
+      ],
+      "from": null,
+      "to": "p12",
+      "completion": "planned",
+      "context": "planned"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2980",
+        "endUid": "u3027"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath returns invisibly to the booked ship at the docks.",
+      "evidence": [
+        {
+          "startUid": "u2980",
+          "endUid": "u2981",
+          "quote": "Delwath: Yeah that's fine and then I'll cast Invisibility go back to the boat. I find it convenient spot because."
+        },
+        {
+          "startUid": "u3022",
+          "endUid": "u3024",
+          "quote": "DM: Hey well at the moment, you are all meeting at the dock oh so you're gonna learn about the history news right um and stonework."
+        },
+        {
+          "startUid": "u3025",
+          "endUid": "u3027",
+          "quote": "Delwath: Delwath has also been casting Invisibility anytime any of you, Seeker or Delwath, goes on or off the boat on the theory that it would be better if if anybody who's watching the docks thought that the only person on the boat was a halfling."
+        }
+      ],
+      "from": "p11",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "locationContext": [
+        {
+          "subject": "p09",
+          "relation": "moored_at",
+          "target": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "type": "presence",
+      "source": {
+        "startUid": "u3022",
+        "endUid": "u3027"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group meets at the dock before sailing; the boat has not departed in the available play.",
+      "evidence": [
+        {
+          "startUid": "u3022",
+          "endUid": "u3024",
+          "quote": "DM: Hey well at the moment, you are all meeting at the dock oh so you're gonna learn about the history news right um and stonework."
+        },
+        {
+          "startUid": "u3025",
+          "endUid": "u3027",
+          "quote": "Delwath: Delwath has also been casting Invisibility anytime any of you, Seeker or Delwath, goes on or off the boat on the theory that it would be better if if anybody who's watching the docks thought that the only person on the boat was a halfling."
+        }
+      ],
+      "place": "p06",
+      "note": "Seeker’s on/off-ship movement is mentioned without a complete itinerary; no played masonry tour or Finellen arrival is inferred."
+    }
+  ]
+}
