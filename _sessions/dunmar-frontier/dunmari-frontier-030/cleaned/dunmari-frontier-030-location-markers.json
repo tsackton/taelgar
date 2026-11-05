@@ -1,0 +1,3767 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-030",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+    "sessionYamlSha256": "a76c798d0e9692a236e0fd0a31d9e2d20080596b74857b7bc1f9b774db872163",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-transcript.md",
+    "transcriptSha256": "6f7eb6279b36585a15fcf170b372acd4dd83a0220c4253a521c700dfdcca3f37"
+  },
+  "places": {
+    "p01": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "DM: Dawn comes to a very changed Karawa. You awake in your camp on the edge of the oasis, still the center public square of Karawa, to the sounds of hope: the chatter of people mixing mud into bricks to dry in the sun, the bang of hammers as rubble is broken into smaller pieces to be cleared or reused for new construction, the regular click of shovels as dirt is dug for building materials."
+        },
+        {
+          "startUid": "u0008",
+          "endUid": "u0009",
+          "quote": "DM: It seems that overnight, the news of Agata's death and the restoration of safety to Karawa, even though many don't know exactly how that safety is provided, has traveled throughout the few people who remain in the village. And news has already left, riders have already left to Tokra to try to tell the refugees that it's safe to come home."
+        },
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "DM: And you awaken to a bounty of what little meager fruit and meat is still available in town piled outside your camp in thanks. Everybody who you see, as you begin the morning riding out of town, greets you with praise and joy and thanks for your deeds bringing—bringing protection back to this part of the world."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p02": {
+      "label": "Oasis public square camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "DM: Dawn comes to a very changed Karawa. You awake in your camp on the edge of the oasis, still the center public square of Karawa, to the sounds of hope: the chatter of people mixing mud into bricks to dry in the sun, the bang of hammers as rubble is broken into smaller pieces to be cleared or reused for new construction, the regular click of shovels as dirt is dug for building materials."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0007",
+              "quote": "DM: Dawn comes to a very changed Karawa. You awake in your camp on the edge of the oasis, still the center public square of Karawa, to the sounds of hope: the chatter of people mixing mud into bricks to dry in the sun, the bang of hammers as rubble is broken into smaller pieces to be cleared or reused for new construction, the regular click of shovels as dirt is dug for building materials."
+            },
+            {
+              "startUid": "u0008",
+              "endUid": "u0009",
+              "quote": "DM: It seems that overnight, the news of Agata's death and the restoration of safety to Karawa, even though many don't know exactly how that safety is provided, has traveled throughout the few people who remain in the village. And news has already left, riders have already left to Tokra to try to tell the refugees that it's safe to come home."
+            },
+            {
+              "startUid": "u0010",
+              "endUid": "u0013",
+              "quote": "DM: And you awaken to a bounty of what little meager fruit and meat is still available in town piled outside your camp in thanks. Everybody who you see, as you begin the morning riding out of town, greets you with praise and joy and thanks for your deeds bringing—bringing protection back to this part of the world."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Roadside camp halfway to Bas Udda",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0255",
+          "endUid": "u0262",
+          "quote": "DM: Great, the rest of the day passes and eventually, as you travel south along the road through the desert, making camp about halfway to Bas Udda along the side of this path, and this is still—there is still, nobody else who is quite yet brave enough to venture out to resettle Bas Udda. So this is a—the road is pretty empty. And you haven't really—you haven't passed any travelers or, for that matter, seen anything moving in the air or the—beyond a few small—small birds and a couple, not the giant vultures, but just normal-size, like desert vultures and, um, one hawk. It's been a quiet day as you make camp for the evening."
+        }
+      ]
+    },
+    "p04": {
+      "label": "Bas Udda",
+      "kind": "ruins",
+      "evidence": [
+        {
+          "startUid": "u0545",
+          "endUid": "u0552",
+          "quote": "DM: It's another quiet journey, although you seem to now on your second day of travel have slightly outpaced the growing—the growing web of Shakun's protection that Drikod and Kenzo can still feel now behind them. So you sort of leave this aura of peace that you had been feeling yesterday, as you continue to travel. But the road is still empty, and—and no signs of disturbance until you reach the—the now barren and quiet ruins of Bas Udda, the bodies that had been left for dead after the gnoll attack a few months ago now all buried, many with your help. But the town itself in ruins, largely burned, but the main temple still providing shelter and rest. As you make your evening camp there, do you want to identify another item?"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Bas Udda.md"
+    },
+    "p05": {
+      "label": "Ruined temple camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0545",
+          "endUid": "u0552",
+          "quote": "DM: It's another quiet journey, although you seem to now on your second day of travel have slightly outpaced the growing—the growing web of Shakun's protection that Drikod and Kenzo can still feel now behind them. So you sort of leave this aura of peace that you had been feeling yesterday, as you continue to travel. But the road is still empty, and—and no signs of disturbance until you reach the—the now barren and quiet ruins of Bas Udda, the bodies that had been left for dead after the gnoll attack a few months ago now all buried, many with your help. But the town itself in ruins, largely burned, but the main temple still providing shelter and rest. As you make your evening camp there, do you want to identify another item?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0545",
+              "endUid": "u0552",
+              "quote": "DM: It's another quiet journey, although you seem to now on your second day of travel have slightly outpaced the growing—the growing web of Shakun's protection that Drikod and Kenzo can still feel now behind them. So you sort of leave this aura of peace that you had been feeling yesterday, as you continue to travel. But the road is still empty, and—and no signs of disturbance until you reach the—the now barren and quiet ruins of Bas Udda, the bodies that had been left for dead after the gnoll attack a few months ago now all buried, many with your help. But the town itself in ruins, largely burned, but the main temple still providing shelter and rest. As you make your evening camp there, do you want to identify another item?"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Canyon lookout and horse camp north of the trees",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0690",
+          "endUid": "u0691",
+          "quote": "DM: So you head south out in the desert, or you're just traveling with all your gear and camp and everything? I assume, or are you leaving stuff in Bas Udda?"
+        },
+        {
+          "startUid": "u0692",
+          "endUid": "u0692",
+          "quote": "Delwath: I mean, most of the stuff we left it."
+        },
+        {
+          "startUid": "u0693",
+          "endUid": "u0693",
+          "quote": "DM: Right, just your food and your horses, basically."
+        },
+        {
+          "startUid": "u0694",
+          "endUid": "u0694",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u0695",
+          "endUid": "u0695",
+          "quote": "Delwath: Is there an advantage in approaching on foot?"
+        },
+        {
+          "startUid": "u0696",
+          "endUid": "u0696",
+          "quote": "Unknown: Think so."
+        },
+        {
+          "startUid": "u0697",
+          "endUid": "u0699",
+          "quote": "Delwath: It might be worth leaving a cache of food, though, just in case our horses get spooked or something goes horribly wrong so that we're not left out here, with nothing."
+        },
+        {
+          "startUid": "u0700",
+          "endUid": "u0704",
+          "quote": "Drikod: Drikod nods. As an experienced traveler in the wilderness, we should probably set something aside, just in case. The long—long walk back. The desert is dry and water is heavy."
+        },
+        {
+          "startUid": "u0705",
+          "endUid": "u0706",
+          "quote": "Delwath: Yeah, I think we should set aside, like half our food—"
+        },
+        {
+          "startUid": "u0707",
+          "endUid": "u0707",
+          "quote": "Unknown: And water."
+        },
+        {
+          "startUid": "u0708",
+          "endUid": "u0708",
+          "quote": "Delwath: Well hidden in some cache or something."
+        },
+        {
+          "startUid": "u0709",
+          "endUid": "u0709",
+          "quote": "Wellby: You know yeah."
+        },
+        {
+          "startUid": "u0710",
+          "endUid": "u0710",
+          "quote": "Delwath: Then I think going forward on horses probably makes sense. We'll cover ground faster—"
+        },
+        {
+          "startUid": "u0711",
+          "endUid": "u0711",
+          "quote": "Kenzo: We could escape."
+        },
+        {
+          "startUid": "u0712",
+          "endUid": "u0712",
+          "quote": "Delwath: If we have to run be able to run faster."
+        },
+        {
+          "startUid": "u0713",
+          "endUid": "u0716",
+          "quote": "DM: So you—Baxter—travel south and after, you know, even a, are you going, you know, on horseback you're not going to be super stealthy no matter what you do. Are you just, like, you know, trying to be at least a little quiet, or just pushing as fast as you can?"
+        },
+        {
+          "startUid": "u0717",
+          "endUid": "u0717",
+          "quote": "Wellby: I think a stealthy approach is good."
+        },
+        {
+          "startUid": "u0718",
+          "endUid": "u0719",
+          "quote": "Kenzo: Well, I think, as we've done in the past, but I think, you know, either Wellby or myself doing some reconnaissance [garbled]."
+        },
+        {
+          "startUid": "u0720",
+          "endUid": "u0722",
+          "quote": "Delwath: I mean how close? Like—like, what's the horizon? What's the terrain like?"
+        },
+        {
+          "startUid": "u0723",
+          "endUid": "u0726",
+          "quote": "DM: Are we, no, yeah, these kind of canyons. Right, I mean, you're sort of rocky desert at this point. You're not in the sort of open barren sands of the Garamjala Desert, which is to the south and the east a little bit from here, so this is kind of like the kind of badlands scrublands. You know you can't be, you can't be—you know this, this kind of desert basically."
+        },
+        {
+          "startUid": "u0727",
+          "endUid": "u0729",
+          "quote": "Drikod: I can send a bird ahead to communicate back to us once we are three hours round trip out, I have the bird for three hours. Right. So as long as it has time to fly there and fly back, we can get—"
+        },
+        {
+          "startUid": "u0730",
+          "endUid": "u0730",
+          "quote": "Unknown: A little more context."
+        },
+        {
+          "startUid": "u0731",
+          "endUid": "u0733",
+          "quote": "Delwath: Basically, I was thinking, could we get within two or three miles of the line of trees, without being—without riding fast, but without being very visible, just by trying to stay behind rocks and go into the bottoms of canyons?"
+        },
+        {
+          "startUid": "u0734",
+          "endUid": "u0735",
+          "quote": "DM: Yeah you can kind of navigate a little I mean it gets more open, as you go further south right um. But around Bas Udda—"
+        },
+        {
+          "startUid": "u0736",
+          "endUid": "u0736",
+          "quote": "Delwath: Basically I thinking if we get to the point where we can see the line of trees on the horizon—"
+        },
+        {
+          "startUid": "u0737",
+          "endUid": "u0737",
+          "quote": "DM: Right it's—"
+        },
+        {
+          "startUid": "u0738",
+          "endUid": "u0738",
+          "quote": "Delwath: Gonna be easy for us to, like, we'd like to get as close as possible before it's like, hey, look, there's the line of trees right ahead. Movement will be more obvious, then we maybe leave the horses, send in the bird."
+        },
+        {
+          "startUid": "u0739",
+          "endUid": "u0741",
+          "quote": "DM: So, so after about two and a half hours of travel, kind of maybe three hours of travel. So, so, like, you know, maybe nine in the morning, having left right at dawn, you know, picking your way through the rocky desert, you can see ahead of you now, as you sort of come through this rocky terrain, um, there's not been any plant life, but you can see ahead this line of trees, maybe about two, two and a half miles' distance to the south."
+        },
+        {
+          "startUid": "u3408",
+          "endUid": "u3409",
+          "quote": "DM: So your last trip on the boulder you fly again, leaving the House as it is."
+        },
+        {
+          "startUid": "u3410",
+          "endUid": "u3410",
+          "quote": "Kenzo: Right, right, last, last moment—"
+        },
+        {
+          "startUid": "u3411",
+          "endUid": "u3412",
+          "quote": "DM: [garbled], and then you—where are you making camp?"
+        },
+        {
+          "startUid": "u3413",
+          "endUid": "u3413",
+          "quote": "Kenzo: Why are these questions, saying why are you asking all these questions?"
+        },
+        {
+          "startUid": "u3414",
+          "endUid": "u3414",
+          "quote": "Delwath: I think we should be making camp back at the canyon, wherever we were, like when we were having our—"
+        },
+        {
+          "startUid": "u3415",
+          "endUid": "u3415",
+          "quote": "DM: Site, like three miles away—"
+        },
+        {
+          "startUid": "u3416",
+          "endUid": "u3417",
+          "quote": "Drikod: Yeah yeah. That's where our horses are and the extra food."
+        },
+        {
+          "startUid": "u3418",
+          "endUid": "u3418",
+          "quote": "DM: The extra food is back at Bas Udda, but you have—"
+        },
+        {
+          "startUid": "u3419",
+          "endUid": "u3419",
+          "quote": "Unknown: Oh."
+        },
+        {
+          "startUid": "u3420",
+          "endUid": "u3424",
+          "quote": "DM: With only one extra person, you can squeeze on. That's fine. Oh, you're gonna possibly have more extra people if you turn. So you arrive back at camp. It's like 1:30, two by the time you get there. Garret is just totally wiped out and just slumps against the side of a canyon and, you know, nods off, basically. It's hot, it's tiring work. So what do you want to do?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u3408",
+              "endUid": "u3409",
+              "quote": "DM: So your last trip on the boulder you fly again, leaving the House as it is."
+            },
+            {
+              "startUid": "u3410",
+              "endUid": "u3410",
+              "quote": "Kenzo: Right, right, last, last moment—"
+            },
+            {
+              "startUid": "u3411",
+              "endUid": "u3412",
+              "quote": "DM: [garbled], and then you—where are you making camp?"
+            },
+            {
+              "startUid": "u3413",
+              "endUid": "u3413",
+              "quote": "Kenzo: Why are these questions, saying why are you asking all these questions?"
+            },
+            {
+              "startUid": "u3414",
+              "endUid": "u3414",
+              "quote": "Delwath: I think we should be making camp back at the canyon, wherever we were, like when we were having our—"
+            },
+            {
+              "startUid": "u3415",
+              "endUid": "u3415",
+              "quote": "DM: Site, like three miles away—"
+            },
+            {
+              "startUid": "u3416",
+              "endUid": "u3417",
+              "quote": "Drikod: Yeah yeah. That's where our horses are and the extra food."
+            },
+            {
+              "startUid": "u3418",
+              "endUid": "u3418",
+              "quote": "DM: The extra food is back at Bas Udda, but you have—"
+            },
+            {
+              "startUid": "u3419",
+              "endUid": "u3419",
+              "quote": "Unknown: Oh."
+            },
+            {
+              "startUid": "u3420",
+              "endUid": "u3424",
+              "quote": "DM: With only one extra person, you can squeeze on. That's fine. Oh, you're gonna possibly have more extra people if you turn. So you arrive back at camp. It's like 1:30, two by the time you get there. Garret is just totally wiped out and just slumps against the side of a canyon and, you know, nods off, basically. It's hot, it's tiring work. So what do you want to do?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Agata’s lair",
+      "kind": "site",
+      "evidence": [
+        {
+          "startUid": "u1351",
+          "endUid": "u1356",
+          "quote": "DM: Yeah so as you—as you drop down in elevation you actually all see this now, and as you sort of skim across the top of the trees and the boulder now flies along that, like just at the very top of the path you can see there is a plain dark brown mud hut, seemingly fairly shabbily made at the end of this path, sitting on the top of this hill, a large circular center room and then, like, two little side extensions that branch off, chimney at the top, door, but no windows from this perspective."
+        },
+        {
+          "startUid": "u1357",
+          "endUid": "u1363",
+          "quote": "DM: You can see next to the house that garden of thorns and rock, tangled briars and such, but somehow incongruously there's, like, a flock of hens that are running around pecking at dust in the garden, and a stone wall surrounds it. And you can see perched in the—actually, I do have a map of this so—so here's what you see as your—as you're flying and—I'm—there are, there's a—so there's that. Over here there's a hill. You're flying, your approach from, like, right here, basically, and you're sort of skimming low."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair.md",
+      "note": "The vault places the lair in Garamjala; current narration distinguishes these rocky badlands from the open Garamjala sands. No regional containment is inferred."
+    },
+    "p08": {
+      "label": "Avenue of dead trees",
+      "kind": "approach",
+      "evidence": [
+        {
+          "startUid": "u0742",
+          "endUid": "u0744",
+          "quote": "DM: And there's no other features in the landscape. It's not like it's a line of trees that leads to anywhere. It's just this line of dead trees, maybe, you know, 15 or so dead trees that form a path like lining two sides of a road like—like in Italy, those like roads that have Cypress trees along the side, right?"
+        },
+        {
+          "startUid": "u0745",
+          "endUid": "u0745",
+          "quote": "DM: But there's no other obvious landmarks."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0038",
+              "endUid": "u0044",
+              "quote": "DM: Ask for more information, but he did report a few things that were relevant. So one thing is everybody, the sort of common understanding that many people say, or the rumor that many have heard, is that the approach to Agata's lair is lined with a row of dead trees in the desert. And when she was alive supplicants asking for her favor would be led to these dead trees, to this path by, um, by flies or scorpions who would appear as a swarm out of the desert when you traveled south from Bas Udda and lead you to this path. But Candrosa suspects, and you suspect as well, that this was some—some sign of the will of Agata and is probably no longer there, but the line of trees may remain and would be a landmark. The other thing that Candrosa says is the lair can only be approached from the north. If you circle around and approach it from the south, it is not there, what that means, nobody really knows, but those who have gone exploring, trying to find a secret hidden path to Agata's lair, have never succeeded and found just dry desert instead."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Garden and well outside the hut",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u1351",
+          "endUid": "u1356",
+          "quote": "DM: Yeah so as you—as you drop down in elevation you actually all see this now, and as you sort of skim across the top of the trees and the boulder now flies along that, like just at the very top of the path you can see there is a plain dark brown mud hut, seemingly fairly shabbily made at the end of this path, sitting on the top of this hill, a large circular center room and then, like, two little side extensions that branch off, chimney at the top, door, but no windows from this perspective."
+        },
+        {
+          "startUid": "u1357",
+          "endUid": "u1363",
+          "quote": "DM: You can see next to the house that garden of thorns and rock, tangled briars and such, but somehow incongruously there's, like, a flock of hens that are running around pecking at dust in the garden, and a stone wall surrounds it. And you can see perched in the—actually, I do have a map of this so—so here's what you see as your—as you're flying and—I'm—there are, there's a—so there's that. Over here there's a hill. You're flying, your approach from, like, right here, basically, and you're sort of skimming low."
+        },
+        {
+          "startUid": "u1364",
+          "endUid": "u1365",
+          "quote": "Delwath: See when you say here."
+        },
+        {
+          "startUid": "u1366",
+          "endUid": "u1368",
+          "quote": "DM: Sorry, I need to put your characters on. It doesn't, it doesn't show you unless you."
+        },
+        {
+          "startUid": "u1369",
+          "endUid": "u1369",
+          "quote": "Seeker: Okay."
+        },
+        {
+          "startUid": "u1370",
+          "endUid": "u1371",
+          "quote": "DM: Oops, hold on, sorry, I'm a sinner. Okay, now can you see the map?"
+        },
+        {
+          "startUid": "u1372",
+          "endUid": "u1372",
+          "quote": "Wellby: Yeah yeah yeah."
+        },
+        {
+          "startUid": "u1373",
+          "endUid": "u1373",
+          "quote": "Unknown: It's um."
+        },
+        {
+          "startUid": "u1374",
+          "endUid": "u1376",
+          "quote": "DM: And you're all coming from, like, right over here. So yeah there's a scarecrow in the field."
+        },
+        {
+          "startUid": "u1775",
+          "endUid": "u1778",
+          "quote": "DM: Okay, he sits there for a moment like eating, taking about another five minutes, and then kind of gets up and slowly ambles over towards the well, which is in the back of the house, ties—ties the rope and kind of slides down into the well. Make—he makes himself a little like rope chair to sit on. Seems, um, very good with knots."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1351",
+              "endUid": "u1356",
+              "quote": "DM: Yeah so as you—as you drop down in elevation you actually all see this now, and as you sort of skim across the top of the trees and the boulder now flies along that, like just at the very top of the path you can see there is a plain dark brown mud hut, seemingly fairly shabbily made at the end of this path, sitting on the top of this hill, a large circular center room and then, like, two little side extensions that branch off, chimney at the top, door, but no windows from this perspective."
+            },
+            {
+              "startUid": "u1357",
+              "endUid": "u1363",
+              "quote": "DM: You can see next to the house that garden of thorns and rock, tangled briars and such, but somehow incongruously there's, like, a flock of hens that are running around pecking at dust in the garden, and a stone wall surrounds it. And you can see perched in the—actually, I do have a map of this so—so here's what you see as your—as you're flying and—I'm—there are, there's a—so there's that. Over here there's a hill. You're flying, your approach from, like, right here, basically, and you're sort of skimming low."
+            },
+            {
+              "startUid": "u1364",
+              "endUid": "u1365",
+              "quote": "Delwath: See when you say here."
+            },
+            {
+              "startUid": "u1366",
+              "endUid": "u1368",
+              "quote": "DM: Sorry, I need to put your characters on. It doesn't, it doesn't show you unless you."
+            },
+            {
+              "startUid": "u1369",
+              "endUid": "u1369",
+              "quote": "Seeker: Okay."
+            },
+            {
+              "startUid": "u1370",
+              "endUid": "u1371",
+              "quote": "DM: Oops, hold on, sorry, I'm a sinner. Okay, now can you see the map?"
+            },
+            {
+              "startUid": "u1372",
+              "endUid": "u1372",
+              "quote": "Wellby: Yeah yeah yeah."
+            },
+            {
+              "startUid": "u1373",
+              "endUid": "u1373",
+              "quote": "Unknown: It's um."
+            },
+            {
+              "startUid": "u1374",
+              "endUid": "u1376",
+              "quote": "DM: And you're all coming from, like, right over here. So yeah there's a scarecrow in the field."
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1351",
+              "endUid": "u1356",
+              "quote": "DM: Yeah so as you—as you drop down in elevation you actually all see this now, and as you sort of skim across the top of the trees and the boulder now flies along that, like just at the very top of the path you can see there is a plain dark brown mud hut, seemingly fairly shabbily made at the end of this path, sitting on the top of this hill, a large circular center room and then, like, two little side extensions that branch off, chimney at the top, door, but no windows from this perspective."
+            },
+            {
+              "startUid": "u1357",
+              "endUid": "u1363",
+              "quote": "DM: You can see next to the house that garden of thorns and rock, tangled briars and such, but somehow incongruously there's, like, a flock of hens that are running around pecking at dust in the garden, and a stone wall surrounds it. And you can see perched in the—actually, I do have a map of this so—so here's what you see as your—as you're flying and—I'm—there are, there's a—so there's that. Over here there's a hill. You're flying, your approach from, like, right here, basically, and you're sort of skimming low."
+            },
+            {
+              "startUid": "u1364",
+              "endUid": "u1365",
+              "quote": "Delwath: See when you say here."
+            },
+            {
+              "startUid": "u1366",
+              "endUid": "u1368",
+              "quote": "DM: Sorry, I need to put your characters on. It doesn't, it doesn't show you unless you."
+            },
+            {
+              "startUid": "u1369",
+              "endUid": "u1369",
+              "quote": "Seeker: Okay."
+            },
+            {
+              "startUid": "u1370",
+              "endUid": "u1371",
+              "quote": "DM: Oops, hold on, sorry, I'm a sinner. Okay, now can you see the map?"
+            },
+            {
+              "startUid": "u1372",
+              "endUid": "u1372",
+              "quote": "Wellby: Yeah yeah yeah."
+            },
+            {
+              "startUid": "u1373",
+              "endUid": "u1373",
+              "quote": "Unknown: It's um."
+            },
+            {
+              "startUid": "u1374",
+              "endUid": "u1376",
+              "quote": "DM: And you're all coming from, like, right over here. So yeah there's a scarecrow in the field."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Mud hut",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1351",
+          "endUid": "u1356",
+          "quote": "DM: Yeah so as you—as you drop down in elevation you actually all see this now, and as you sort of skim across the top of the trees and the boulder now flies along that, like just at the very top of the path you can see there is a plain dark brown mud hut, seemingly fairly shabbily made at the end of this path, sitting on the top of this hill, a large circular center room and then, like, two little side extensions that branch off, chimney at the top, door, but no windows from this perspective."
+        },
+        {
+          "startUid": "u1357",
+          "endUid": "u1363",
+          "quote": "DM: You can see next to the house that garden of thorns and rock, tangled briars and such, but somehow incongruously there's, like, a flock of hens that are running around pecking at dust in the garden, and a stone wall surrounds it. And you can see perched in the—actually, I do have a map of this so—so here's what you see as your—as you're flying and—I'm—there are, there's a—so there's that. Over here there's a hill. You're flying, your approach from, like, right here, basically, and you're sort of skimming low."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1351",
+              "endUid": "u1356",
+              "quote": "DM: Yeah so as you—as you drop down in elevation you actually all see this now, and as you sort of skim across the top of the trees and the boulder now flies along that, like just at the very top of the path you can see there is a plain dark brown mud hut, seemingly fairly shabbily made at the end of this path, sitting on the top of this hill, a large circular center room and then, like, two little side extensions that branch off, chimney at the top, door, but no windows from this perspective."
+            },
+            {
+              "startUid": "u1357",
+              "endUid": "u1363",
+              "quote": "DM: You can see next to the house that garden of thorns and rock, tangled briars and such, but somehow incongruously there's, like, a flock of hens that are running around pecking at dust in the garden, and a stone wall surrounds it. And you can see perched in the—actually, I do have a map of this so—so here's what you see as your—as you're flying and—I'm—there are, there's a—so there's that. Over here there's a hill. You're flying, your approach from, like, right here, basically, and you're sort of skimming low."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Hut doorway",
+      "kind": "threshold",
+      "evidence": [
+        {
+          "startUid": "u1783",
+          "endUid": "u1787",
+          "quote": "DM: So the door to the, um, as you approach the house, um, you can see the door is just a plain wooden door. This looks like just a sort of mud house. There's, like, eaves that stretch out about three, four feet, or maybe even a little bit more. Yeah, like maybe almost five feet, these eaves that stretch out over the door. So this is the door right here. The door's shut. You don't see any locks; there's not like a big lock or anything. It looks like you could probably just push it open."
+        },
+        {
+          "startUid": "u1788",
+          "endUid": "u1789",
+          "quote": "Delwath: And I assume the magic it's still like—there's no—something's preventing any sense of magic."
+        },
+        {
+          "startUid": "u1790",
+          "endUid": "u1790",
+          "quote": "DM: Ah yes."
+        },
+        {
+          "startUid": "u1791",
+          "endUid": "u1791",
+          "quote": "Delwath: Is anybody particularly perceptive and adept at seeing if there's little needles or springs there?"
+        },
+        {
+          "startUid": "u1792",
+          "endUid": "u1792",
+          "quote": "Seeker: I can investigate."
+        },
+        {
+          "startUid": "u1793",
+          "endUid": "u1793",
+          "quote": "Delwath: Would you like to take a look, Wellby?"
+        },
+        {
+          "startUid": "u1794",
+          "endUid": "u1794",
+          "quote": "Wellby: For traps."
+        },
+        {
+          "startUid": "u1795",
+          "endUid": "u1795",
+          "quote": "DM: Make a Perception check."
+        },
+        {
+          "startUid": "u1796",
+          "endUid": "u1796",
+          "quote": "Wellby: Yeah."
+        },
+        {
+          "startUid": "u1797",
+          "endUid": "u1801",
+          "quote": "DM: There's—doesn't seem to be anything unusual about the door really. It's like, I mean, there's these—like the eaves hang over, sort of cast a bit of a shadow over it. But it's quiet, it seems like nothing's really moving, um."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1783",
+              "endUid": "u1787",
+              "quote": "DM: So the door to the, um, as you approach the house, um, you can see the door is just a plain wooden door. This looks like just a sort of mud house. There's, like, eaves that stretch out about three, four feet, or maybe even a little bit more. Yeah, like maybe almost five feet, these eaves that stretch out over the door. So this is the door right here. The door's shut. You don't see any locks; there's not like a big lock or anything. It looks like you could probably just push it open."
+            },
+            {
+              "startUid": "u1788",
+              "endUid": "u1789",
+              "quote": "Delwath: And I assume the magic it's still like—there's no—something's preventing any sense of magic."
+            },
+            {
+              "startUid": "u1790",
+              "endUid": "u1790",
+              "quote": "DM: Ah yes."
+            },
+            {
+              "startUid": "u1791",
+              "endUid": "u1791",
+              "quote": "Delwath: Is anybody particularly perceptive and adept at seeing if there's little needles or springs there?"
+            },
+            {
+              "startUid": "u1792",
+              "endUid": "u1792",
+              "quote": "Seeker: I can investigate."
+            },
+            {
+              "startUid": "u1793",
+              "endUid": "u1793",
+              "quote": "Delwath: Would you like to take a look, Wellby?"
+            },
+            {
+              "startUid": "u1794",
+              "endUid": "u1794",
+              "quote": "Wellby: For traps."
+            },
+            {
+              "startUid": "u1795",
+              "endUid": "u1795",
+              "quote": "DM: Make a Perception check."
+            },
+            {
+              "startUid": "u1796",
+              "endUid": "u1796",
+              "quote": "Wellby: Yeah."
+            },
+            {
+              "startUid": "u1797",
+              "endUid": "u1801",
+              "quote": "DM: There's—doesn't seem to be anything unusual about the door really. It's like, I mean, there's these—like the eaves hang over, sort of cast a bit of a shadow over it. But it's quiet, it seems like nothing's really moving, um."
+            },
+            {
+              "startUid": "u1802",
+              "endUid": "u1802",
+              "quote": "Seeker: I'd like to just walk around the whole structure."
+            },
+            {
+              "startUid": "u1803",
+              "endUid": "u1803",
+              "quote": "Unknown: Okay."
+            },
+            {
+              "startUid": "u1804",
+              "endUid": "u1804",
+              "quote": "Delwath: Are there any windows?"
+            },
+            {
+              "startUid": "u1805",
+              "endUid": "u1805",
+              "quote": "DM: That there are no windows, there is a chimney."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Roof and chimney",
+      "kind": "roof",
+      "evidence": [
+        {
+          "startUid": "u2167",
+          "endUid": "u2167",
+          "quote": "Kenzo: Like, Kenzo just jumps onto the roof from the ground."
+        },
+        {
+          "startUid": "u2168",
+          "endUid": "u2168",
+          "quote": "Seeker: Yeah I am—"
+        },
+        {
+          "startUid": "u2169",
+          "endUid": "u2170",
+          "quote": "DM: Yeah that's his ability."
+        },
+        {
+          "startUid": "u2171",
+          "endUid": "u2171",
+          "quote": "Seeker: I navigate the stone carefully up to be alongside the chimney—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2167",
+              "endUid": "u2167",
+              "quote": "Kenzo: Like, Kenzo just jumps onto the roof from the ground."
+            },
+            {
+              "startUid": "u2168",
+              "endUid": "u2168",
+              "quote": "Seeker: Yeah I am—"
+            },
+            {
+              "startUid": "u2169",
+              "endUid": "u2170",
+              "quote": "DM: Yeah that's his ability."
+            },
+            {
+              "startUid": "u2171",
+              "endUid": "u2171",
+              "quote": "Seeker: I navigate the stone carefully up to be alongside the chimney—"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Main room / kitchen",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2344",
+          "endUid": "u2349",
+          "quote": "DM: Dark but not super dark. The doors are wide open and there's light streaming in from the outside, so most of the—what you can see, so you're lying underneath a table. You're looking away from the door. There are—so you're keeping your back to the door and you're looking across the other side of the room, there's a, there's a hearth which is cold—"
+        },
+        {
+          "startUid": "u2350",
+          "endUid": "u2350",
+          "quote": "DM: Hanging on a wooden spit above the cold fire is a black iron tea kettle, and then there's, like, a small end table that has a porcelain tea set and a few stoppered ceramic jars."
+        },
+        {
+          "startUid": "u2351",
+          "endUid": "u2352",
+          "quote": "DM: Against the far wall that's, like, the opposite side of the door, there's a big shelf that's covered in little knickknacks carved from stone and wood and bone, a few small chests, a couple of candles. Like, dice, just all sorts of things, a few dried insect carcasses, a few jars on the top shelf, some with liquid, one which seems to have a preserved human eye floating in it."
+        },
+        {
+          "startUid": "u2353",
+          "endUid": "u2353",
+          "quote": "Unknown: Wasn't."
+        },
+        {
+          "startUid": "u2354",
+          "endUid": "u2354",
+          "quote": "DM: Lying on the ground is a lantern that's been knocked over, which is what you bumped into, and you can still hear these faint moans of agony coming from it—"
+        },
+        {
+          "startUid": "u2355",
+          "endUid": "u2355",
+          "quote": "Kenzo: From the lantern?"
+        },
+        {
+          "startUid": "u2356",
+          "endUid": "u2356",
+          "quote": "Unknown: Yep."
+        },
+        {
+          "startUid": "u2357",
+          "endUid": "u2357",
+          "quote": "Kenzo: And that's where you think the hand came from to?"
+        },
+        {
+          "startUid": "u2358",
+          "endUid": "u2358",
+          "quote": "Unknown: One."
+        },
+        {
+          "startUid": "u2359",
+          "endUid": "u2359",
+          "quote": "Kenzo: Oh, shit happens."
+        },
+        {
+          "startUid": "u2360",
+          "endUid": "u2361",
+          "quote": "DM: Then. Still keeping your back to the door, you can see one nice sort of fancy chair and two less fancy chairs—"
+        },
+        {
+          "startUid": "u2362",
+          "endUid": "u2362",
+          "quote": "Kenzo: I describe all this to Drikod and, you know—"
+        },
+        {
+          "startUid": "u2363",
+          "endUid": "u2363",
+          "quote": "DM: Seeker, and then, um—"
+        },
+        {
+          "startUid": "u2364",
+          "endUid": "u2372",
+          "quote": "DM: Sort of jumbled in the back up against the shelf, some weapons and clothes, a nice, well-made sword and some other stuff tossed in there, and then there's the doorway that leads into another room. Actually, two other rooms right, um, one—right, so the shelf is like here, actually, we can—like, so, like this is the chimney this is—this entire plan is not quite right. This is another room and this is another room. It's the best I could find. Didn't want to make something, and this is, this is a straight hall, this is where the shelf is, and this is like a corridor that goes back and then there's like this is a, this is a wall and there's like a door back here, um. This is a door that leads into another room, but you can't really see into these other rooms. And then, Kenzo, the one thing you haven't looked at is the door behind you, so there's the chair, like, right here, and you're looking this way, this way, and this way but haven't turned around to look at the Chair."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2344",
+              "endUid": "u2349",
+              "quote": "DM: Dark but not super dark. The doors are wide open and there's light streaming in from the outside, so most of the—what you can see, so you're lying underneath a table. You're looking away from the door. There are—so you're keeping your back to the door and you're looking across the other side of the room, there's a, there's a hearth which is cold—"
+            },
+            {
+              "startUid": "u2350",
+              "endUid": "u2350",
+              "quote": "DM: Hanging on a wooden spit above the cold fire is a black iron tea kettle, and then there's, like, a small end table that has a porcelain tea set and a few stoppered ceramic jars."
+            },
+            {
+              "startUid": "u2351",
+              "endUid": "u2352",
+              "quote": "DM: Against the far wall that's, like, the opposite side of the door, there's a big shelf that's covered in little knickknacks carved from stone and wood and bone, a few small chests, a couple of candles. Like, dice, just all sorts of things, a few dried insect carcasses, a few jars on the top shelf, some with liquid, one which seems to have a preserved human eye floating in it."
+            },
+            {
+              "startUid": "u2353",
+              "endUid": "u2353",
+              "quote": "Unknown: Wasn't."
+            },
+            {
+              "startUid": "u2354",
+              "endUid": "u2354",
+              "quote": "DM: Lying on the ground is a lantern that's been knocked over, which is what you bumped into, and you can still hear these faint moans of agony coming from it—"
+            },
+            {
+              "startUid": "u2355",
+              "endUid": "u2355",
+              "quote": "Kenzo: From the lantern?"
+            },
+            {
+              "startUid": "u2356",
+              "endUid": "u2356",
+              "quote": "Unknown: Yep."
+            },
+            {
+              "startUid": "u2357",
+              "endUid": "u2357",
+              "quote": "Kenzo: And that's where you think the hand came from to?"
+            },
+            {
+              "startUid": "u2358",
+              "endUid": "u2358",
+              "quote": "Unknown: One."
+            },
+            {
+              "startUid": "u2359",
+              "endUid": "u2359",
+              "quote": "Kenzo: Oh, shit happens."
+            },
+            {
+              "startUid": "u2360",
+              "endUid": "u2361",
+              "quote": "DM: Then. Still keeping your back to the door, you can see one nice sort of fancy chair and two less fancy chairs—"
+            },
+            {
+              "startUid": "u2362",
+              "endUid": "u2362",
+              "quote": "Kenzo: I describe all this to Drikod and, you know—"
+            },
+            {
+              "startUid": "u2363",
+              "endUid": "u2363",
+              "quote": "DM: Seeker, and then, um—"
+            },
+            {
+              "startUid": "u2364",
+              "endUid": "u2372",
+              "quote": "DM: Sort of jumbled in the back up against the shelf, some weapons and clothes, a nice, well-made sword and some other stuff tossed in there, and then there's the doorway that leads into another room. Actually, two other rooms right, um, one—right, so the shelf is like here, actually, we can—like, so, like this is the chimney this is—this entire plan is not quite right. This is another room and this is another room. It's the best I could find. Didn't want to make something, and this is, this is a straight hall, this is where the shelf is, and this is like a corridor that goes back and then there's like this is a, this is a wall and there's like a door back here, um. This is a door that leads into another room, but you can't really see into these other rooms. And then, Kenzo, the one thing you haven't looked at is the door behind you, so there's the chair, like, right here, and you're looking this way, this way, and this way but haven't turned around to look at the Chair."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Mirror prison cells",
+      "kind": "extradimensional cells",
+      "evidence": [
+        {
+          "startUid": "u2568",
+          "endUid": "u2569",
+          "quote": "DM: Anybody who views their reflection in the mirror is at least potentially trapped."
+        },
+        {
+          "startUid": "u2570",
+          "endUid": "u2570",
+          "quote": "Seeker: So nasty here."
+        },
+        {
+          "startUid": "u2571",
+          "endUid": "u2571",
+          "quote": "Kenzo: How do we release them?"
+        },
+        {
+          "startUid": "u2572",
+          "endUid": "u2572",
+          "quote": "DM: Well—"
+        },
+        {
+          "startUid": "u2573",
+          "endUid": "u2574",
+          "quote": "Seeker: I send away for the manual for the Mirror of Life Trapping. Look at the troubleshooting section."
+        },
+        {
+          "startUid": "u2575",
+          "endUid": "u2578",
+          "quote": "DM: There—that, well, there's—so, yes, how do you release them? Um, let me just see."
+        },
+        {
+          "startUid": "u2579",
+          "endUid": "u2579",
+          "quote": "Drikod: Like."
+        },
+        {
+          "startUid": "u2580",
+          "endUid": "u2580",
+          "quote": "Wellby: Half of the script was like plastic bags are not a toy—"
+        },
+        {
+          "startUid": "u2581",
+          "endUid": "u2581",
+          "quote": "DM: Please yeah."
+        },
+        {
+          "startUid": "u2582",
+          "endUid": "u2582",
+          "quote": "Wellby: Packaging responsibly."
+        },
+        {
+          "startUid": "u2583",
+          "endUid": "u2588",
+          "quote": "DM: So, so there are, there are—you, you get the sense that that's—there's like complex magic here that you'd have to study it for some time to know all of the ins and outs of this item, but there are two clear ways to release people from this mirror. If it's broken, if it's destroyed, everybody trapped in it will be freed. Alternatively, if you know the—the cell that the creature is trapped in and you call out a cell by number the creature trapped in that cell will be released."
+        },
+        {
+          "startUid": "u2589",
+          "endUid": "u2589",
+          "quote": "Seeker: Wow."
+        },
+        {
+          "startUid": "u2590",
+          "endUid": "u2590",
+          "quote": "DM: There are 12 cells in total."
+        },
+        {
+          "startUid": "u2591",
+          "endUid": "u2591",
+          "quote": "Wellby: Do the cells fill in numerical order?"
+        },
+        {
+          "startUid": "u2592",
+          "endUid": "u2594",
+          "quote": "DM: You would guess yes, but you don't know for sure. I guess with that Arcana and with Identify, yes, they fill in numerical."
+        },
+        {
+          "startUid": "u2625",
+          "endUid": "u2626",
+          "quote": "Drikod: Yeah it was very white, a strange mist. I could only see about 10 feet around me. It was weird, not unpleasant, just."
+        },
+        {
+          "startUid": "u2627",
+          "endUid": "u2628",
+          "quote": "Kenzo: Did you—did you see our companions?"
+        },
+        {
+          "startUid": "u2629",
+          "endUid": "u2629",
+          "quote": "Drikod: I saw no one else."
+        }
+      ]
+    },
+    "p15": {
+      "label": "Storeroom",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2786",
+          "endUid": "u2786",
+          "quote": "Delwath: All right, I'm gonna push it open with Mage Hand, but I'm not gonna walk through just yet."
+        },
+        {
+          "startUid": "u2787",
+          "endUid": "u2787",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u2788",
+          "endUid": "u2788",
+          "quote": "Seeker: We learned our lesson about looking."
+        },
+        {
+          "startUid": "u2789",
+          "endUid": "u2789",
+          "quote": "DM: Slides open."
+        },
+        {
+          "startUid": "u2790",
+          "endUid": "u2790",
+          "quote": "Wellby: I'll look through."
+        },
+        {
+          "startUid": "u2791",
+          "endUid": "u2797",
+          "quote": "DM: There's, there's, like—this seems to be like, like a storage area. There's like three large sacks of like flour, one's, like, flour, one's barley, there's grains spilling out of the top of them. There's also a couple of barrels of something in here. And three heavy steel shields decorated with rearing horses are piled in the corner."
+        },
+        {
+          "startUid": "u2798",
+          "endUid": "u2798",
+          "quote": "Delwath: Couple things: is anything magical?"
+        },
+        {
+          "startUid": "u2799",
+          "endUid": "u2799",
+          "quote": "DM: Nothing in this room is magical."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2786",
+              "endUid": "u2786",
+              "quote": "Delwath: All right, I'm gonna push it open with Mage Hand, but I'm not gonna walk through just yet."
+            },
+            {
+              "startUid": "u2787",
+              "endUid": "u2787",
+              "quote": "DM: Okay."
+            },
+            {
+              "startUid": "u2788",
+              "endUid": "u2788",
+              "quote": "Seeker: We learned our lesson about looking."
+            },
+            {
+              "startUid": "u2789",
+              "endUid": "u2789",
+              "quote": "DM: Slides open."
+            },
+            {
+              "startUid": "u2790",
+              "endUid": "u2790",
+              "quote": "Wellby: I'll look through."
+            },
+            {
+              "startUid": "u2791",
+              "endUid": "u2797",
+              "quote": "DM: There's, there's, like—this seems to be like, like a storage area. There's like three large sacks of like flour, one's, like, flour, one's barley, there's grains spilling out of the top of them. There's also a couple of barrels of something in here. And three heavy steel shields decorated with rearing horses are piled in the corner."
+            },
+            {
+              "startUid": "u2798",
+              "endUid": "u2798",
+              "quote": "Delwath: Couple things: is anything magical?"
+            },
+            {
+              "startUid": "u2799",
+              "endUid": "u2799",
+              "quote": "DM: Nothing in this room is magical."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Bedroom",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2880",
+          "endUid": "u2888",
+          "quote": "DM: Um, the next room, ah. So this one doesn't have a door, um, so just sort of peeking inside slightly, this looks like a bedroom. There's a bed, um, there is a bed, a chair and a small table and, like, a table slash like workbench area. Sitting on the floor next to the bed is a—what looks like a young woman with like sort of vacant eyes and indistinct features kind of blobby almost, um, which doesn't seem to move. Just sitting there. There's a faint like buzzing sound coming from it."
+        },
+        {
+          "startUid": "u2889",
+          "endUid": "u2889",
+          "quote": "Delwath: Like, is this flesh? Does it look like she's not made of wood or?"
+        },
+        {
+          "startUid": "u2890",
+          "endUid": "u2890",
+          "quote": "DM: No, no, made of flesh."
+        },
+        {
+          "startUid": "u2891",
+          "endUid": "u2892",
+          "quote": "Drikod: Could I, um—is there any magic? Doesn't show it."
+        },
+        {
+          "startUid": "u2893",
+          "endUid": "u2894",
+          "quote": "DM: There is, so there is magic in this room, the, in particular the workbench has on it a jar of, like, a putty-like brown substance which is magical."
+        },
+        {
+          "startUid": "u2895",
+          "endUid": "u2895",
+          "quote": "Delwath: But she's not?"
+        },
+        {
+          "startUid": "u2896",
+          "endUid": "u2896",
+          "quote": "DM: She is not."
+        },
+        {
+          "startUid": "u2897",
+          "endUid": "u2897",
+          "quote": "Delwath: Does she look at all, like the young woman with dark brown skin?"
+        },
+        {
+          "startUid": "u2898",
+          "endUid": "u2898",
+          "quote": "Unknown: No."
+        },
+        {
+          "startUid": "u2899",
+          "endUid": "u2900",
+          "quote": "Drikod: Um, Drikod's a healer, so his instinct is a Medicine check, just—is that the right check for that, just to, like?"
+        },
+        {
+          "startUid": "u2901",
+          "endUid": "u2901",
+          "quote": "DM: Yeah you can do medicine check."
+        },
+        {
+          "startUid": "u2902",
+          "endUid": "u2903",
+          "quote": "Drikod: As a sick person."
+        },
+        {
+          "startUid": "u2904",
+          "endUid": "u2906",
+          "quote": "DM: This doesn't really seem to be a person. Like, you prod at it, it's not moving in the way flesh should move, and in fact every time you come close to it and try and lift up its arm, you hear this buzzing noise gets louder. But it's, like, totally inert. Like, when you pick up an arm and then drop the arm, it doesn't do anything."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2880",
+              "endUid": "u2888",
+              "quote": "DM: Um, the next room, ah. So this one doesn't have a door, um, so just sort of peeking inside slightly, this looks like a bedroom. There's a bed, um, there is a bed, a chair and a small table and, like, a table slash like workbench area. Sitting on the floor next to the bed is a—what looks like a young woman with like sort of vacant eyes and indistinct features kind of blobby almost, um, which doesn't seem to move. Just sitting there. There's a faint like buzzing sound coming from it."
+            },
+            {
+              "startUid": "u2889",
+              "endUid": "u2889",
+              "quote": "Delwath: Like, is this flesh? Does it look like she's not made of wood or?"
+            },
+            {
+              "startUid": "u2890",
+              "endUid": "u2890",
+              "quote": "DM: No, no, made of flesh."
+            },
+            {
+              "startUid": "u2891",
+              "endUid": "u2892",
+              "quote": "Drikod: Could I, um—is there any magic? Doesn't show it."
+            },
+            {
+              "startUid": "u2893",
+              "endUid": "u2894",
+              "quote": "DM: There is, so there is magic in this room, the, in particular the workbench has on it a jar of, like, a putty-like brown substance which is magical."
+            },
+            {
+              "startUid": "u2895",
+              "endUid": "u2895",
+              "quote": "Delwath: But she's not?"
+            },
+            {
+              "startUid": "u2896",
+              "endUid": "u2896",
+              "quote": "DM: She is not."
+            },
+            {
+              "startUid": "u2897",
+              "endUid": "u2897",
+              "quote": "Delwath: Does she look at all, like the young woman with dark brown skin?"
+            },
+            {
+              "startUid": "u2898",
+              "endUid": "u2898",
+              "quote": "Unknown: No."
+            },
+            {
+              "startUid": "u2899",
+              "endUid": "u2900",
+              "quote": "Drikod: Um, Drikod's a healer, so his instinct is a Medicine check, just—is that the right check for that, just to, like?"
+            },
+            {
+              "startUid": "u2901",
+              "endUid": "u2901",
+              "quote": "DM: Yeah you can do medicine check."
+            },
+            {
+              "startUid": "u2902",
+              "endUid": "u2903",
+              "quote": "Drikod: As a sick person."
+            },
+            {
+              "startUid": "u2904",
+              "endUid": "u2906",
+              "quote": "DM: This doesn't really seem to be a person. Like, you prod at it, it's not moving in the way flesh should move, and in fact every time you come close to it and try and lift up its arm, you hear this buzzing noise gets louder. But it's, like, totally inert. Like, when you pick up an arm and then drop the arm, it doesn't do anything."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Moonlit forest pool in Wellby’s bow vision",
+      "kind": "vision",
+      "evidence": [
+        {
+          "startUid": "u0307",
+          "endUid": "u0314",
+          "quote": "Wellby: Back to you. It's funny, I think this might have been held by a halfling before. I could see hundreds of years ago, more. Was weird, I was in a pool in the shadow forest with moonlight shining and other people carrying a deer towards this pool. I was watching them do it. And I know."
+        },
+        {
+          "startUid": "u0315",
+          "endUid": "u0315",
+          "quote": "Kenzo: You've always had these visions when you hold objects? Well, you—"
+        },
+        {
+          "startUid": "u0316",
+          "endUid": "u0316",
+          "quote": "Unknown: Know."
+        },
+        {
+          "startUid": "u0317",
+          "endUid": "u0317",
+          "quote": "Wellby: Something funny about it."
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0318",
+          "quote": "Kenzo: But just the shadow objects from Delwath's shadowlands."
+        },
+        {
+          "startUid": "u0319",
+          "endUid": "u0319",
+          "quote": "Wellby: Was the only one I've held."
+        },
+        {
+          "startUid": "u0320",
+          "endUid": "u0323",
+          "quote": "Delwath: Hands you a shadow—shadow dagger. Does this also seem—any hint of familiarity?"
+        },
+        {
+          "startUid": "u0324",
+          "endUid": "u0326",
+          "quote": "DM: No. You don't know whether it's something about the bow or something about your personal connection to bows in general, or just something about the vision you saw but the dagger doesn't seem to trigger anything."
+        }
+      ]
+    },
+    "p18": {
+      "label": "Animated boulder",
+      "kind": "vehicle",
+      "evidence": [
+        {
+          "startUid": "u2171",
+          "endUid": "u2171",
+          "quote": "Seeker: I navigate the stone carefully up to be alongside the chimney—"
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2172",
+          "quote": "DM: So that it's level."
+        },
+        {
+          "startUid": "u2173",
+          "endUid": "u2173",
+          "quote": "Seeker: With the top of the chimney."
+        },
+        {
+          "startUid": "u2174",
+          "endUid": "u2174",
+          "quote": "DM: Okay you're on the—"
+        }
+      ],
+      "mobile": true
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party wakes at its public-square camp in Karawa.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "DM: Dawn comes to a very changed Karawa. You awake in your camp on the edge of the oasis, still the center public square of Karawa, to the sounds of hope: the chatter of people mixing mud into bricks to dry in the sun, the bang of hammers as rubble is broken into smaller pieces to be cleared or reused for new construction, the regular click of shovels as dirt is dug for building materials."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0049",
+        "endUid": "u0065"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride south from Karawa and camp halfway to Bas Udda by evening.",
+      "evidence": [
+        {
+          "startUid": "u0049",
+          "endUid": "u0052",
+          "quote": "DM: So as you travel now out of the desert. It's about a two-day journey to the ruins of Bas Udda, and then the lair is maybe a half a day's journey. Supposedly, the rumor, the lair's maybe a half a day's journey south—south from Bas Udda."
+        },
+        {
+          "startUid": "u0053",
+          "endUid": "u0053",
+          "quote": "DM: And the road is, is quiet and—and those of you who have—"
+        },
+        {
+          "startUid": "u0054",
+          "endUid": "u0058",
+          "quote": "DM: So Kenzo and Drikod, as you leave Karawa riding on the road to Bas Udda, um, you can almost feel Shakun's power traveling with you, and you can feel the—the, you can almost see the nets kind of reknitting themselves and moving out from the desert slowly and you feel safer riding in the desert than you have before."
+        },
+        {
+          "startUid": "u0059",
+          "endUid": "u0059",
+          "quote": "DM: Everything is quiet."
+        },
+        {
+          "startUid": "u0060",
+          "endUid": "u0060",
+          "quote": "Drikod: It's hot."
+        },
+        {
+          "startUid": "u0061",
+          "endUid": "u0062",
+          "quote": "DM: It's dry. This is the hottest and driest time of the year, as the sun is in the sky for, the days are long and the—and it's been now almost nine months since the last rains."
+        },
+        {
+          "startUid": "u0063",
+          "endUid": "u0065",
+          "quote": "DM: But there's a sense of—there's a sense of peace that you two especially feel that you have not felt before on this road."
+        },
+        {
+          "startUid": "u0255",
+          "endUid": "u0262",
+          "quote": "DM: Great, the rest of the day passes and eventually, as you travel south along the road through the desert, making camp about halfway to Bas Udda along the side of this path, and this is still—there is still, nobody else who is quite yet brave enough to venture out to resettle Bas Udda. So this is a—the road is pretty empty. And you haven't really—you haven't passed any travelers or, for that matter, seen anything moving in the air or the—beyond a few small—small birds and a couple, not the giant vultures, but just normal-size, like desert vultures and, um, one hawk. It's been a quiet day as you make camp for the evening."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "ride"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0307",
+        "endUid": "u0326"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby recounts the bow’s vision of a forest pool and deer ritual; this is not a physical visit.",
+      "evidence": [
+        {
+          "startUid": "u0307",
+          "endUid": "u0314",
+          "quote": "Wellby: Back to you. It's funny, I think this might have been held by a halfling before. I could see hundreds of years ago, more. Was weird, I was in a pool in the shadow forest with moonlight shining and other people carrying a deer towards this pool. I was watching them do it. And I know."
+        },
+        {
+          "startUid": "u0315",
+          "endUid": "u0315",
+          "quote": "Kenzo: You've always had these visions when you hold objects? Well, you—"
+        },
+        {
+          "startUid": "u0316",
+          "endUid": "u0316",
+          "quote": "Unknown: Know."
+        },
+        {
+          "startUid": "u0317",
+          "endUid": "u0317",
+          "quote": "Wellby: Something funny about it."
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0318",
+          "quote": "Kenzo: But just the shadow objects from Delwath's shadowlands."
+        },
+        {
+          "startUid": "u0319",
+          "endUid": "u0319",
+          "quote": "Wellby: Was the only one I've held."
+        },
+        {
+          "startUid": "u0320",
+          "endUid": "u0323",
+          "quote": "Delwath: Hands you a shadow—shadow dagger. Does this also seem—any hint of familiarity?"
+        },
+        {
+          "startUid": "u0324",
+          "endUid": "u0326",
+          "quote": "DM: No. You don't know whether it's something about the bow or something about your personal connection to bows in general, or just something about the vision you saw but the dagger doesn't seem to trigger anything."
+        }
+      ],
+      "place": "p17",
+      "mode": "vision",
+      "context": "reported",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0545",
+        "endUid": "u0552"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue the second day’s ride and camp at the ruined temple in Bas Udda.",
+      "evidence": [
+        {
+          "startUid": "u0545",
+          "endUid": "u0552",
+          "quote": "DM: It's another quiet journey, although you seem to now on your second day of travel have slightly outpaced the growing—the growing web of Shakun's protection that Drikod and Kenzo can still feel now behind them. So you sort of leave this aura of peace that you had been feeling yesterday, as you continue to travel. But the road is still empty, and—and no signs of disturbance until you reach the—the now barren and quiet ruins of Bas Udda, the bodies that had been left for dead after the gnoll attack a few months ago now all buried, many with your help. But the town itself in ruins, largely burned, but the main temple still providing shelter and rest. As you make your evening camp there, do you want to identify another item?"
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "ride"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0690",
+        "endUid": "u0741"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave supplies at Bas Udda and ride south to a canyon lookout with the horses.",
+      "evidence": [
+        {
+          "startUid": "u0690",
+          "endUid": "u0691",
+          "quote": "DM: So you head south out in the desert, or you're just traveling with all your gear and camp and everything? I assume, or are you leaving stuff in Bas Udda?"
+        },
+        {
+          "startUid": "u0692",
+          "endUid": "u0692",
+          "quote": "Delwath: I mean, most of the stuff we left it."
+        },
+        {
+          "startUid": "u0693",
+          "endUid": "u0693",
+          "quote": "DM: Right, just your food and your horses, basically."
+        },
+        {
+          "startUid": "u0694",
+          "endUid": "u0694",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u0695",
+          "endUid": "u0695",
+          "quote": "Delwath: Is there an advantage in approaching on foot?"
+        },
+        {
+          "startUid": "u0696",
+          "endUid": "u0696",
+          "quote": "Unknown: Think so."
+        },
+        {
+          "startUid": "u0697",
+          "endUid": "u0699",
+          "quote": "Delwath: It might be worth leaving a cache of food, though, just in case our horses get spooked or something goes horribly wrong so that we're not left out here, with nothing."
+        },
+        {
+          "startUid": "u0700",
+          "endUid": "u0704",
+          "quote": "Drikod: Drikod nods. As an experienced traveler in the wilderness, we should probably set something aside, just in case. The long—long walk back. The desert is dry and water is heavy."
+        },
+        {
+          "startUid": "u0705",
+          "endUid": "u0706",
+          "quote": "Delwath: Yeah, I think we should set aside, like half our food—"
+        },
+        {
+          "startUid": "u0707",
+          "endUid": "u0707",
+          "quote": "Unknown: And water."
+        },
+        {
+          "startUid": "u0708",
+          "endUid": "u0708",
+          "quote": "Delwath: Well hidden in some cache or something."
+        },
+        {
+          "startUid": "u0709",
+          "endUid": "u0709",
+          "quote": "Wellby: You know yeah."
+        },
+        {
+          "startUid": "u0710",
+          "endUid": "u0710",
+          "quote": "Delwath: Then I think going forward on horses probably makes sense. We'll cover ground faster—"
+        },
+        {
+          "startUid": "u0711",
+          "endUid": "u0711",
+          "quote": "Kenzo: We could escape."
+        },
+        {
+          "startUid": "u0712",
+          "endUid": "u0712",
+          "quote": "Delwath: If we have to run be able to run faster."
+        },
+        {
+          "startUid": "u0713",
+          "endUid": "u0716",
+          "quote": "DM: So you—Baxter—travel south and after, you know, even a, are you going, you know, on horseback you're not going to be super stealthy no matter what you do. Are you just, like, you know, trying to be at least a little quiet, or just pushing as fast as you can?"
+        },
+        {
+          "startUid": "u0717",
+          "endUid": "u0717",
+          "quote": "Wellby: I think a stealthy approach is good."
+        },
+        {
+          "startUid": "u0718",
+          "endUid": "u0719",
+          "quote": "Kenzo: Well, I think, as we've done in the past, but I think, you know, either Wellby or myself doing some reconnaissance [garbled]."
+        },
+        {
+          "startUid": "u0720",
+          "endUid": "u0722",
+          "quote": "Delwath: I mean how close? Like—like, what's the horizon? What's the terrain like?"
+        },
+        {
+          "startUid": "u0723",
+          "endUid": "u0726",
+          "quote": "DM: Are we, no, yeah, these kind of canyons. Right, I mean, you're sort of rocky desert at this point. You're not in the sort of open barren sands of the Garamjala Desert, which is to the south and the east a little bit from here, so this is kind of like the kind of badlands scrublands. You know you can't be, you can't be—you know this, this kind of desert basically."
+        },
+        {
+          "startUid": "u0727",
+          "endUid": "u0729",
+          "quote": "Drikod: I can send a bird ahead to communicate back to us once we are three hours round trip out, I have the bird for three hours. Right. So as long as it has time to fly there and fly back, we can get—"
+        },
+        {
+          "startUid": "u0730",
+          "endUid": "u0730",
+          "quote": "Unknown: A little more context."
+        },
+        {
+          "startUid": "u0731",
+          "endUid": "u0733",
+          "quote": "Delwath: Basically, I was thinking, could we get within two or three miles of the line of trees, without being—without riding fast, but without being very visible, just by trying to stay behind rocks and go into the bottoms of canyons?"
+        },
+        {
+          "startUid": "u0734",
+          "endUid": "u0735",
+          "quote": "DM: Yeah you can kind of navigate a little I mean it gets more open, as you go further south right um. But around Bas Udda—"
+        },
+        {
+          "startUid": "u0736",
+          "endUid": "u0736",
+          "quote": "Delwath: Basically I thinking if we get to the point where we can see the line of trees on the horizon—"
+        },
+        {
+          "startUid": "u0737",
+          "endUid": "u0737",
+          "quote": "DM: Right it's—"
+        },
+        {
+          "startUid": "u0738",
+          "endUid": "u0738",
+          "quote": "Delwath: Gonna be easy for us to, like, we'd like to get as close as possible before it's like, hey, look, there's the line of trees right ahead. Movement will be more obvious, then we maybe leave the horses, send in the bird."
+        },
+        {
+          "startUid": "u0739",
+          "endUid": "u0741",
+          "quote": "DM: So, so after about two and a half hours of travel, kind of maybe three hours of travel. So, so, like, you know, maybe nine in the morning, having left right at dawn, you know, picking your way through the rocky desert, you can see ahead of you now, as you sort of come through this rocky terrain, um, there's not been any plant life, but you can see ahead this line of trees, maybe about two, two and a half miles' distance to the south."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "ride",
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time",
+        "min": 2.5,
+        "minInclusive": true,
+        "max": 3,
+        "maxInclusive": true
+      },
+      "route": [
+        {
+          "reading": "Through rocky badlands, stopping north of the line of dead trees."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0790",
+        "endUid": "u0804"
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "reading": "Drikod’s bird familiar scouts the trees and hill and returns; this does not put the party at the lair.",
+      "evidence": [
+        {
+          "startUid": "u0790",
+          "endUid": "u0791",
+          "quote": "Drikod: I send the bird—I summon the bird and then I send it to scout ahead."
+        },
+        {
+          "startUid": "u0792",
+          "endUid": "u0798",
+          "quote": "DM: Okay, so it flies over the trees and flies around for a bit, and I mean you can see it flying, right? And flies back and—well, actually, make a Perception check. I guess I'll say just use your perception. I'm—so, so this line of trees that seems to go up a hill and then stop in, like, the bare desert hill, and there's nothing else around."
+        },
+        {
+          "startUid": "u0799",
+          "endUid": "u0801",
+          "quote": "Drikod: We assume that the lair is in the hill or beneath that and it can only be approached from the north. How big is the hill?"
+        },
+        {
+          "startUid": "u0802",
+          "endUid": "u0802",
+          "quote": "DM: Um."
+        },
+        {
+          "startUid": "u0803",
+          "endUid": "u0803",
+          "quote": "Drikod: Okay, so it's like a—"
+        },
+        {
+          "startUid": "u0804",
+          "endUid": "u0804",
+          "quote": "DM: Yeah it's like it's like a sort of rocky outcrop almost."
+        }
+      ],
+      "place": "p08",
+      "observerPlace": "p06",
+      "mode": "remote"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0912",
+        "endUid": "u0932"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby hears the remote shadow scout’s screams near the trees; the scout dies and the party remains at the lookout.",
+      "evidence": [
+        {
+          "startUid": "u0912",
+          "endUid": "u0918",
+          "quote": "DM: If you want. It sounds like—it sounds like I'm—like a rapid fire. I'm—like a, like a—like darts or something, and then, like, what you're mostly hearing are snarls of the shadow beast. And then, like, you know, in the distance, like the sound of, like, a few thwacks. And then silence."
+        },
+        {
+          "startUid": "u0919",
+          "endUid": "u0919",
+          "quote": "Seeker: That's strange. Stranger still that only Wellby could hear it."
+        },
+        {
+          "startUid": "u0920",
+          "endUid": "u0920",
+          "quote": "DM: Well, he has the best hearing of all of you."
+        },
+        {
+          "startUid": "u0921",
+          "endUid": "u0922",
+          "quote": "Seeker: By a fair bit. It's just far away."
+        },
+        {
+          "startUid": "u0923",
+          "endUid": "u0924",
+          "quote": "DM: It's just far away, like two miles away or a mile and a half away, like not easy to hear loud noises from that far back. Probably by, like, laws of physics, Wellby shouldn't be able to hear it, but—by laws of D&D fantasy, it's more fun if you can."
+        },
+        {
+          "startUid": "u0925",
+          "endUid": "u0925",
+          "quote": "Seeker: What would make a thwack, thwack, thwack like that, though?"
+        },
+        {
+          "startUid": "u0926",
+          "endUid": "u0926",
+          "quote": "Kenzo: Darts triggered."
+        },
+        {
+          "startUid": "u0927",
+          "endUid": "u0928",
+          "quote": "Seeker: Or really big hornets. Was there any buzzing?"
+        },
+        {
+          "startUid": "u0929",
+          "endUid": "u0929",
+          "quote": "DM: I mean, it's far away. Like, really mostly what you heard was the sounds of the screams of the shadow beast echoing in the desert."
+        },
+        {
+          "startUid": "u0930",
+          "endUid": "u0930",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u0931",
+          "endUid": "u0931",
+          "quote": "Delwath: Is it dead?"
+        },
+        {
+          "startUid": "u0932",
+          "endUid": "u0932",
+          "quote": "DM: It's dead."
+        }
+      ],
+      "place": "p08",
+      "observerPlace": "p06",
+      "mode": "remote"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1303",
+        "endUid": "u1313"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kenzo flies by spell; Seeker carries the others on the animated boulder, with Drikod in scorpion form. They bypass the trees and land by the lair.",
+      "evidence": [
+        {
+          "startUid": "u1303",
+          "endUid": "u1303",
+          "quote": "DM: So if Drikod shifts, you can get four out of five of you to fly—"
+        },
+        {
+          "startUid": "u1304",
+          "endUid": "u1305",
+          "quote": "Seeker: How do you spell? Yeah. I land the boulder."
+        },
+        {
+          "startUid": "u1306",
+          "endUid": "u1306",
+          "quote": "Unknown: [garbled]."
+        },
+        {
+          "startUid": "u1307",
+          "endUid": "u1307",
+          "quote": "Delwath: Would you like to be the one—"
+        },
+        {
+          "startUid": "u1308",
+          "endUid": "u1308",
+          "quote": "Kenzo: You know I love flying, Delwath."
+        },
+        {
+          "startUid": "u1309",
+          "endUid": "u1309",
+          "quote": "Delwath: Delwath will gently touch you on the shoulder. You now can fly."
+        },
+        {
+          "startUid": "u1310",
+          "endUid": "u1310",
+          "quote": "Drikod: Drikod looks at Seeker and turns into a scorpion, just."
+        },
+        {
+          "startUid": "u1311",
+          "endUid": "u1311",
+          "quote": "Delwath: Don't turn to a scorpion; we might mix you up with the evil Scorpions."
+        },
+        {
+          "startUid": "u1312",
+          "endUid": "u1313",
+          "quote": "Seeker: Alright, I try doing this on the Drikod scorpion."
+        },
+        {
+          "startUid": "u1314",
+          "endUid": "u1327",
+          "quote": "DM: So say you fly up. The Fly spell itself only lasts 10 minutes, but you can go fast. Like, you guys can both go fast. Right. The boulder's fly speed is, like, 60 feet. Right, so that means you can fly, like you can fly over the trees, but before the spell ends and as you're flying over the trees, you can see, actually down below that the one of the trees is lying like broken on the path. And it almost looks like—it almost looks like there's two arms stretching out from the tree. And there's another tree that's, and this is a small tree; it's like one of the bushes right? And there's another small tree that has—that has a couple branches broken off that are lying, and the broken off branches are covered in, in, like, thorns. And you fly overhead, I presume, or do you stop down to investigate?"
+        },
+        {
+          "startUid": "u1351",
+          "endUid": "u1356",
+          "quote": "DM: Yeah so as you—as you drop down in elevation you actually all see this now, and as you sort of skim across the top of the trees and the boulder now flies along that, like just at the very top of the path you can see there is a plain dark brown mud hut, seemingly fairly shabbily made at the end of this path, sitting on the top of this hill, a large circular center room and then, like, two little side extensions that branch off, chimney at the top, door, but no windows from this perspective."
+        },
+        {
+          "startUid": "u1357",
+          "endUid": "u1363",
+          "quote": "DM: You can see next to the house that garden of thorns and rock, tangled briars and such, but somehow incongruously there's, like, a flock of hens that are running around pecking at dust in the garden, and a stone wall surrounds it. And you can see perched in the—actually, I do have a map of this so—so here's what you see as your—as you're flying and—I'm—there are, there's a—so there's that. Over here there's a hill. You're flying, your approach from, like, right here, basically, and you're sort of skimming low."
+        },
+        {
+          "startUid": "u1385",
+          "endUid": "u1393",
+          "quote": "DM: That has, like, dense tangled brush, almost forming, like, a bit of sheltered sort of cave, sort of dark area. The hut is here. Um, this, I couldn't find exactly the hut, but the center area here, where these two pieces meet, is actually kind of circular. And then there's an extension to this way and extension to this way, this is the main door right here; there's a chimney in the middle, then there's the field here, and then a scarecrow and the rest of it is just kind of bare dirt. Everything looks sort of a bit bleak, dusty. The barren rock is broken only by the occasional dead tree. Something like that. And it's been now 10 minutes, so Kenzo lands. You still have—you still have like 45 minutes on the boulder."
+        },
+        {
+          "startUid": "u1394",
+          "endUid": "u1394",
+          "quote": "Seeker: I land the boulder next to Kenzo."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Fly over the dead-tree approach; do not enter it on foot.",
+          "place": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1783",
+        "endUid": "u1801"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath",
+        "Drikod"
+      ],
+      "reading": "Wellby, Delwath, and Drikod approach the hut door; Seeker circles the house and backs onto the boulder.",
+      "evidence": [
+        {
+          "startUid": "u1783",
+          "endUid": "u1787",
+          "quote": "DM: So the door to the, um, as you approach the house, um, you can see the door is just a plain wooden door. This looks like just a sort of mud house. There's, like, eaves that stretch out about three, four feet, or maybe even a little bit more. Yeah, like maybe almost five feet, these eaves that stretch out over the door. So this is the door right here. The door's shut. You don't see any locks; there's not like a big lock or anything. It looks like you could probably just push it open."
+        },
+        {
+          "startUid": "u1788",
+          "endUid": "u1789",
+          "quote": "Delwath: And I assume the magic it's still like—there's no—something's preventing any sense of magic."
+        },
+        {
+          "startUid": "u1790",
+          "endUid": "u1790",
+          "quote": "DM: Ah yes."
+        },
+        {
+          "startUid": "u1791",
+          "endUid": "u1791",
+          "quote": "Delwath: Is anybody particularly perceptive and adept at seeing if there's little needles or springs there?"
+        },
+        {
+          "startUid": "u1792",
+          "endUid": "u1792",
+          "quote": "Seeker: I can investigate."
+        },
+        {
+          "startUid": "u1793",
+          "endUid": "u1793",
+          "quote": "Delwath: Would you like to take a look, Wellby?"
+        },
+        {
+          "startUid": "u1794",
+          "endUid": "u1794",
+          "quote": "Wellby: For traps."
+        },
+        {
+          "startUid": "u1795",
+          "endUid": "u1795",
+          "quote": "DM: Make a Perception check."
+        },
+        {
+          "startUid": "u1796",
+          "endUid": "u1796",
+          "quote": "Wellby: Yeah."
+        },
+        {
+          "startUid": "u1797",
+          "endUid": "u1801",
+          "quote": "DM: There's—doesn't seem to be anything unusual about the door really. It's like, I mean, there's these—like the eaves hang over, sort of cast a bit of a shadow over it. But it's quiet, it seems like nothing's really moving, um."
+        },
+        {
+          "startUid": "u1802",
+          "endUid": "u1802",
+          "quote": "Seeker: I'd like to just walk around the whole structure."
+        },
+        {
+          "startUid": "u1803",
+          "endUid": "u1803",
+          "quote": "Unknown: Okay."
+        },
+        {
+          "startUid": "u1804",
+          "endUid": "u1804",
+          "quote": "Delwath: Are there any windows?"
+        },
+        {
+          "startUid": "u1805",
+          "endUid": "u1805",
+          "quote": "DM: That there are no windows, there is a chimney."
+        },
+        {
+          "startUid": "u1806",
+          "endUid": "u1806",
+          "quote": "Kenzo: Fly over and look into the chimney from above—"
+        },
+        {
+          "startUid": "u1807",
+          "endUid": "u1807",
+          "quote": "Delwath: You can't fly; flies gone."
+        },
+        {
+          "startUid": "u1808",
+          "endUid": "u1808",
+          "quote": "Kenzo: Fly's out."
+        },
+        {
+          "startUid": "u1809",
+          "endUid": "u1809",
+          "quote": "Wellby: Should someone open the door?"
+        },
+        {
+          "startUid": "u1810",
+          "endUid": "u1810",
+          "quote": "Seeker: You can tell the boulder."
+        },
+        {
+          "startUid": "u1811",
+          "endUid": "u1811",
+          "quote": "Unknown: I'll be."
+        },
+        {
+          "startUid": "u1812",
+          "endUid": "u1812",
+          "quote": "Delwath: Delwath will summon his magical hand. At least open the door without your own hand."
+        },
+        {
+          "startUid": "u1813",
+          "endUid": "u1813",
+          "quote": "Wellby: No more Elf riddles."
+        },
+        {
+          "startUid": "u1814",
+          "endUid": "u1814",
+          "quote": "Delwath: Let's all stand to the side, and I'll push the door open with Mage Hand."
+        },
+        {
+          "startUid": "u1815",
+          "endUid": "u1815",
+          "quote": "Seeker: I'll back up and get on the boulder."
+        },
+        {
+          "startUid": "u1842",
+          "endUid": "u1846",
+          "quote": "DM: He's gone. I'm—OK, so the door opens. Let's see."
+        },
+        {
+          "startUid": "u1847",
+          "endUid": "u1847",
+          "quote": "Delwath: I see any magic through the door?"
+        },
+        {
+          "startUid": "u1848",
+          "endUid": "u1848",
+          "quote": "Unknown: Um."
+        },
+        {
+          "startUid": "u1849",
+          "endUid": "u1849",
+          "quote": "DM: Yes, as the door swings open a few things happen, um—"
+        },
+        {
+          "startUid": "u1850",
+          "endUid": "u1850",
+          "quote": "Kenzo: Wellby."
+        },
+        {
+          "startUid": "u1851",
+          "endUid": "u1854",
+          "quote": "DM: Um, Wellby vanishes. And you hear this buzzing noise as four wasps come flying out and—I'm."
+        },
+        {
+          "startUid": "u1855",
+          "endUid": "u1855",
+          "quote": "Delwath: Man I should put on the insect repellent."
+        },
+        {
+          "startUid": "u1856",
+          "endUid": "u1856",
+          "quote": "Seeker: That's tough."
+        },
+        {
+          "startUid": "u1857",
+          "endUid": "u1862",
+          "quote": "DM: And let's see one of them flies towards y'all. Let's see, one of them flies towards Delwath, two of them fly towards Delwath, one of them flies towards Drikod and one of them flies towards Seeker, who are the three closest, um. Let's see, as they buzz out, one of them stings you, Delwath. What's your, actually, what's your AC? 18, okay, does not sting you, bounces off your breastplate. Second one bounces off your breastplate. Drikod, you do get stung. Um, Seeker. 11. What's your AC?"
+        },
+        {
+          "startUid": "u1863",
+          "endUid": "u1863",
+          "quote": "Seeker: Armor Class, it says 13."
+        },
+        {
+          "startUid": "u1864",
+          "endUid": "u1865",
+          "quote": "DM: Okay, so 11 misses then, so just Drikod gets stung. You take one point of damage and you need to make a Constitution saving throw—"
+        },
+        {
+          "startUid": "u1866",
+          "endUid": "u1866",
+          "quote": "Drikod: What is—um, does Armor class impact that or?"
+        },
+        {
+          "startUid": "u1867",
+          "endUid": "u1867",
+          "quote": "DM: He rolled, that was, rolled an attack—"
+        },
+        {
+          "startUid": "u1868",
+          "endUid": "u1868",
+          "quote": "Unknown: Ah."
+        },
+        {
+          "startUid": "u1869",
+          "endUid": "u1869",
+          "quote": "Drikod: So I do a what check?"
+        },
+        {
+          "startUid": "u1870",
+          "endUid": "u1871",
+          "quote": "DM: Saving, Constitution save. On save—"
+        },
+        {
+          "startUid": "u1872",
+          "endUid": "u1872",
+          "quote": "Kenzo: Critical, Drikod."
+        },
+        {
+          "startUid": "u1873",
+          "endUid": "u1874",
+          "quote": "Delwath: Oh yeah good job. Nat 20, he's fine."
+        },
+        {
+          "startUid": "u1875",
+          "endUid": "u1876",
+          "quote": "DM: Okay, so you just take one point of piercing damage. And the door's now open. Wellby is gone."
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1842",
+        "endUid": "u1876"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby disappears at the doorway and is trapped in a mirror cell; the later identification establishes the destination.",
+      "evidence": [
+        {
+          "startUid": "u1842",
+          "endUid": "u1846",
+          "quote": "DM: He's gone. I'm—OK, so the door opens. Let's see."
+        },
+        {
+          "startUid": "u1847",
+          "endUid": "u1847",
+          "quote": "Delwath: I see any magic through the door?"
+        },
+        {
+          "startUid": "u1848",
+          "endUid": "u1848",
+          "quote": "Unknown: Um."
+        },
+        {
+          "startUid": "u1849",
+          "endUid": "u1849",
+          "quote": "DM: Yes, as the door swings open a few things happen, um—"
+        },
+        {
+          "startUid": "u1850",
+          "endUid": "u1850",
+          "quote": "Kenzo: Wellby."
+        },
+        {
+          "startUid": "u1851",
+          "endUid": "u1854",
+          "quote": "DM: Um, Wellby vanishes. And you hear this buzzing noise as four wasps come flying out and—I'm."
+        },
+        {
+          "startUid": "u1855",
+          "endUid": "u1855",
+          "quote": "Delwath: Man I should put on the insect repellent."
+        },
+        {
+          "startUid": "u1856",
+          "endUid": "u1856",
+          "quote": "Seeker: That's tough."
+        },
+        {
+          "startUid": "u1857",
+          "endUid": "u1862",
+          "quote": "DM: And let's see one of them flies towards y'all. Let's see, one of them flies towards Delwath, two of them fly towards Delwath, one of them flies towards Drikod and one of them flies towards Seeker, who are the three closest, um. Let's see, as they buzz out, one of them stings you, Delwath. What's your, actually, what's your AC? 18, okay, does not sting you, bounces off your breastplate. Second one bounces off your breastplate. Drikod, you do get stung. Um, Seeker. 11. What's your AC?"
+        },
+        {
+          "startUid": "u1863",
+          "endUid": "u1863",
+          "quote": "Seeker: Armor Class, it says 13."
+        },
+        {
+          "startUid": "u1864",
+          "endUid": "u1865",
+          "quote": "DM: Okay, so 11 misses then, so just Drikod gets stung. You take one point of damage and you need to make a Constitution saving throw—"
+        },
+        {
+          "startUid": "u1866",
+          "endUid": "u1866",
+          "quote": "Drikod: What is—um, does Armor class impact that or?"
+        },
+        {
+          "startUid": "u1867",
+          "endUid": "u1867",
+          "quote": "DM: He rolled, that was, rolled an attack—"
+        },
+        {
+          "startUid": "u1868",
+          "endUid": "u1868",
+          "quote": "Unknown: Ah."
+        },
+        {
+          "startUid": "u1869",
+          "endUid": "u1869",
+          "quote": "Drikod: So I do a what check?"
+        },
+        {
+          "startUid": "u1870",
+          "endUid": "u1871",
+          "quote": "DM: Saving, Constitution save. On save—"
+        },
+        {
+          "startUid": "u1872",
+          "endUid": "u1872",
+          "quote": "Kenzo: Critical, Drikod."
+        },
+        {
+          "startUid": "u1873",
+          "endUid": "u1874",
+          "quote": "Delwath: Oh yeah good job. Nat 20, he's fine."
+        },
+        {
+          "startUid": "u1875",
+          "endUid": "u1876",
+          "quote": "DM: Okay, so you just take one point of piercing damage. And the door's now open. Wellby is gone."
+        },
+        {
+          "startUid": "u2568",
+          "endUid": "u2569",
+          "quote": "DM: Anybody who views their reflection in the mirror is at least potentially trapped."
+        },
+        {
+          "startUid": "u2570",
+          "endUid": "u2570",
+          "quote": "Seeker: So nasty here."
+        },
+        {
+          "startUid": "u2571",
+          "endUid": "u2571",
+          "quote": "Kenzo: How do we release them?"
+        },
+        {
+          "startUid": "u2572",
+          "endUid": "u2572",
+          "quote": "DM: Well—"
+        },
+        {
+          "startUid": "u2573",
+          "endUid": "u2574",
+          "quote": "Seeker: I send away for the manual for the Mirror of Life Trapping. Look at the troubleshooting section."
+        },
+        {
+          "startUid": "u2575",
+          "endUid": "u2578",
+          "quote": "DM: There—that, well, there's—so, yes, how do you release them? Um, let me just see."
+        },
+        {
+          "startUid": "u2579",
+          "endUid": "u2579",
+          "quote": "Drikod: Like."
+        },
+        {
+          "startUid": "u2580",
+          "endUid": "u2580",
+          "quote": "Wellby: Half of the script was like plastic bags are not a toy—"
+        },
+        {
+          "startUid": "u2581",
+          "endUid": "u2581",
+          "quote": "DM: Please yeah."
+        },
+        {
+          "startUid": "u2582",
+          "endUid": "u2582",
+          "quote": "Wellby: Packaging responsibly."
+        },
+        {
+          "startUid": "u2583",
+          "endUid": "u2588",
+          "quote": "DM: So, so there are, there are—you, you get the sense that that's—there's like complex magic here that you'd have to study it for some time to know all of the ins and outs of this item, but there are two clear ways to release people from this mirror. If it's broken, if it's destroyed, everybody trapped in it will be freed. Alternatively, if you know the—the cell that the creature is trapped in and you call out a cell by number the creature trapped in that cell will be released."
+        },
+        {
+          "startUid": "u2589",
+          "endUid": "u2589",
+          "quote": "Seeker: Wow."
+        },
+        {
+          "startUid": "u2590",
+          "endUid": "u2590",
+          "quote": "DM: There are 12 cells in total."
+        },
+        {
+          "startUid": "u2591",
+          "endUid": "u2591",
+          "quote": "Wellby: Do the cells fill in numerical order?"
+        },
+        {
+          "startUid": "u2592",
+          "endUid": "u2594",
+          "quote": "DM: You would guess yes, but you don't know for sure. I guess with that Arcana and with Identify, yes, they fill in numerical."
+        },
+        {
+          "startUid": "u2608",
+          "endUid": "u2609",
+          "quote": "Seeker: Wait, okay, okay, let's just open them up one, at a time. Okay, we're gonna, cell 12."
+        },
+        {
+          "startUid": "u2610",
+          "endUid": "u2610",
+          "quote": "DM: Nothing happens."
+        },
+        {
+          "startUid": "u2611",
+          "endUid": "u2611",
+          "quote": "Kenzo: Right let's go let's go."
+        },
+        {
+          "startUid": "u2612",
+          "endUid": "u2612",
+          "quote": "DM: One, two, three, 11. 11, nothing happens—"
+        },
+        {
+          "startUid": "u2613",
+          "endUid": "u2613",
+          "quote": "Kenzo: Don't worry."
+        },
+        {
+          "startUid": "u2614",
+          "endUid": "u2614",
+          "quote": "DM: 10 nothing happens."
+        },
+        {
+          "startUid": "u2615",
+          "endUid": "u2615",
+          "quote": "Seeker: So good."
+        },
+        {
+          "startUid": "u2616",
+          "endUid": "u2616",
+          "quote": "DM: One, two, three, nine. Nothing happens."
+        },
+        {
+          "startUid": "u2617",
+          "endUid": "u2617",
+          "quote": "Seeker: And Okay, and eight."
+        },
+        {
+          "startUid": "u2618",
+          "endUid": "u2618",
+          "quote": "DM: Eight, Drikod appears."
+        },
+        {
+          "startUid": "u2619",
+          "endUid": "u2619",
+          "quote": "Kenzo: Oh yeah."
+        },
+        {
+          "startUid": "u2620",
+          "endUid": "u2620",
+          "quote": "Seeker: Where does he show up actually?"
+        },
+        {
+          "startUid": "u2621",
+          "endUid": "u2622",
+          "quote": "DM: Like on top of—well, like five feet away from the mirror. Okay, I'm—towards the door."
+        },
+        {
+          "startUid": "u2623",
+          "endUid": "u2623",
+          "quote": "Drikod: [garbled]—"
+        },
+        {
+          "startUid": "u2624",
+          "endUid": "u2624",
+          "quote": "Seeker: Yep hey okay."
+        },
+        {
+          "startUid": "u2625",
+          "endUid": "u2626",
+          "quote": "Drikod: Yeah it was very white, a strange mist. I could only see about 10 feet around me. It was weird, not unpleasant, just."
+        },
+        {
+          "startUid": "u2627",
+          "endUid": "u2628",
+          "quote": "Kenzo: Did you—did you see our companions?"
+        },
+        {
+          "startUid": "u2629",
+          "endUid": "u2629",
+          "quote": "Drikod: I saw no one else."
+        },
+        {
+          "startUid": "u2630",
+          "endUid": "u2630",
+          "quote": "Kenzo: Well you're about to see 123."
+        },
+        {
+          "startUid": "u2631",
+          "endUid": "u2631",
+          "quote": "DM: Actually say 123."
+        },
+        {
+          "startUid": "u2632",
+          "endUid": "u2632",
+          "quote": "Unknown: No."
+        },
+        {
+          "startUid": "u2633",
+          "endUid": "u2633",
+          "quote": "DM: Delwath appears."
+        },
+        {
+          "startUid": "u2634",
+          "endUid": "u2634",
+          "quote": "Unknown: Thank goodness."
+        },
+        {
+          "startUid": "u2635",
+          "endUid": "u2635",
+          "quote": "Seeker: Okay, and six."
+        },
+        {
+          "startUid": "u2636",
+          "endUid": "u2636",
+          "quote": "DM: Six, Wellby appears."
+        }
+      ],
+      "from": "p11",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "magical trapping"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1898",
+        "endUid": "u1934"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath looks through the doorway and vanishes into a separate mirror cell.",
+      "evidence": [
+        {
+          "startUid": "u1898",
+          "endUid": "u1900",
+          "quote": "Delwath: Like he's not just invisible? Well, maybe he is. If I walked to like there, so I can kind of look in the door, what can I see?"
+        },
+        {
+          "startUid": "u1901",
+          "endUid": "u1901",
+          "quote": "DM: You—you're sort of trying to peek around the corner into the door, yeah?"
+        },
+        {
+          "startUid": "u1902",
+          "endUid": "u1902",
+          "quote": "Kenzo: Are you able to send in an animal? And Seeker's also."
+        },
+        {
+          "startUid": "u1903",
+          "endUid": "u1903",
+          "quote": "Delwath: Ah."
+        },
+        {
+          "startUid": "u1904",
+          "endUid": "u1904",
+          "quote": "Unknown: Yes."
+        },
+        {
+          "startUid": "u1905",
+          "endUid": "u1908",
+          "quote": "Drikod: Not very fast, but I wanna, I wanna, I want to save that spell slot. Wait can I send it my—new wild companion again?"
+        },
+        {
+          "startUid": "u1909",
+          "endUid": "u1909",
+          "quote": "Seeker: Delwath, I—"
+        },
+        {
+          "startUid": "u1910",
+          "endUid": "u1910",
+          "quote": "DM: So now you've used it twice already, you can only use it twice per short rest."
+        },
+        {
+          "startUid": "u1911",
+          "endUid": "u1911",
+          "quote": "Drikod: No, I used Wild Shape."
+        },
+        {
+          "startUid": "u1912",
+          "endUid": "u1912",
+          "quote": "DM: What—same thing, same ability."
+        },
+        {
+          "startUid": "u1913",
+          "endUid": "u1913",
+          "quote": "Unknown: Oh."
+        },
+        {
+          "startUid": "u1914",
+          "endUid": "u1914",
+          "quote": "Seeker: Kenzo, what do we do?"
+        },
+        {
+          "startUid": "u1915",
+          "endUid": "u1916",
+          "quote": "Kenzo: Well, I don't think we should get near the door unless we want to vanish, or we intentionally go to the door to go wherever Wellby went."
+        },
+        {
+          "startUid": "u1917",
+          "endUid": "u1918",
+          "quote": "Seeker: Delwath's gone too, and—where are they? What?"
+        },
+        {
+          "startUid": "u1919",
+          "endUid": "u1919",
+          "quote": "Kenzo: Kenzo takes, like, a rock that is near him and just throws it at the door. What happens to the rock?"
+        },
+        {
+          "startUid": "u1920",
+          "endUid": "u1920",
+          "quote": "DM: Like at the outside of the door?"
+        },
+        {
+          "startUid": "u1921",
+          "endUid": "u1921",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u1922",
+          "endUid": "u1922",
+          "quote": "DM: It hits the door."
+        },
+        {
+          "startUid": "u1923",
+          "endUid": "u1923",
+          "quote": "Kenzo: But isn't the door open?"
+        },
+        {
+          "startUid": "u1924",
+          "endUid": "u1924",
+          "quote": "DM: The door's open."
+        },
+        {
+          "startUid": "u1925",
+          "endUid": "u1925",
+          "quote": "Kenzo: If I try to throw it to like go and throw it into the door—"
+        },
+        {
+          "startUid": "u1926",
+          "endUid": "u1927",
+          "quote": "DM: So, so, like, you gotta walk till you have a point where you can see inside if you want to throw it inside, unless you're, like, right up by the door and then, like, hook it around the corner or something."
+        },
+        {
+          "startUid": "u1928",
+          "endUid": "u1929",
+          "quote": "Kenzo: Well, wait, when Wellby and also when—when Delwath disappeared, did they disappear when they looked into the door? Like, when did they disappear? When they looked in?"
+        },
+        {
+          "startUid": "u1930",
+          "endUid": "u1930",
+          "quote": "DM: Wellby was standing in front of the door when it opened."
+        },
+        {
+          "startUid": "u1931",
+          "endUid": "u1933",
+          "quote": "Kenzo: Right right right. As I'm not—yeah, so—"
+        },
+        {
+          "startUid": "u1934",
+          "endUid": "u1934",
+          "quote": "DM: Delwath vanished when he was, he, like, peeked around to—"
+        },
+        {
+          "startUid": "u2568",
+          "endUid": "u2569",
+          "quote": "DM: Anybody who views their reflection in the mirror is at least potentially trapped."
+        },
+        {
+          "startUid": "u2570",
+          "endUid": "u2570",
+          "quote": "Seeker: So nasty here."
+        },
+        {
+          "startUid": "u2571",
+          "endUid": "u2571",
+          "quote": "Kenzo: How do we release them?"
+        },
+        {
+          "startUid": "u2572",
+          "endUid": "u2572",
+          "quote": "DM: Well—"
+        },
+        {
+          "startUid": "u2573",
+          "endUid": "u2574",
+          "quote": "Seeker: I send away for the manual for the Mirror of Life Trapping. Look at the troubleshooting section."
+        },
+        {
+          "startUid": "u2575",
+          "endUid": "u2578",
+          "quote": "DM: There—that, well, there's—so, yes, how do you release them? Um, let me just see."
+        },
+        {
+          "startUid": "u2579",
+          "endUid": "u2579",
+          "quote": "Drikod: Like."
+        },
+        {
+          "startUid": "u2580",
+          "endUid": "u2580",
+          "quote": "Wellby: Half of the script was like plastic bags are not a toy—"
+        },
+        {
+          "startUid": "u2581",
+          "endUid": "u2581",
+          "quote": "DM: Please yeah."
+        },
+        {
+          "startUid": "u2582",
+          "endUid": "u2582",
+          "quote": "Wellby: Packaging responsibly."
+        },
+        {
+          "startUid": "u2583",
+          "endUid": "u2588",
+          "quote": "DM: So, so there are, there are—you, you get the sense that that's—there's like complex magic here that you'd have to study it for some time to know all of the ins and outs of this item, but there are two clear ways to release people from this mirror. If it's broken, if it's destroyed, everybody trapped in it will be freed. Alternatively, if you know the—the cell that the creature is trapped in and you call out a cell by number the creature trapped in that cell will be released."
+        },
+        {
+          "startUid": "u2589",
+          "endUid": "u2589",
+          "quote": "Seeker: Wow."
+        },
+        {
+          "startUid": "u2590",
+          "endUid": "u2590",
+          "quote": "DM: There are 12 cells in total."
+        },
+        {
+          "startUid": "u2591",
+          "endUid": "u2591",
+          "quote": "Wellby: Do the cells fill in numerical order?"
+        },
+        {
+          "startUid": "u2592",
+          "endUid": "u2594",
+          "quote": "DM: You would guess yes, but you don't know for sure. I guess with that Arcana and with Identify, yes, they fill in numerical."
+        },
+        {
+          "startUid": "u2608",
+          "endUid": "u2609",
+          "quote": "Seeker: Wait, okay, okay, let's just open them up one, at a time. Okay, we're gonna, cell 12."
+        },
+        {
+          "startUid": "u2610",
+          "endUid": "u2610",
+          "quote": "DM: Nothing happens."
+        },
+        {
+          "startUid": "u2611",
+          "endUid": "u2611",
+          "quote": "Kenzo: Right let's go let's go."
+        },
+        {
+          "startUid": "u2612",
+          "endUid": "u2612",
+          "quote": "DM: One, two, three, 11. 11, nothing happens—"
+        },
+        {
+          "startUid": "u2613",
+          "endUid": "u2613",
+          "quote": "Kenzo: Don't worry."
+        },
+        {
+          "startUid": "u2614",
+          "endUid": "u2614",
+          "quote": "DM: 10 nothing happens."
+        },
+        {
+          "startUid": "u2615",
+          "endUid": "u2615",
+          "quote": "Seeker: So good."
+        },
+        {
+          "startUid": "u2616",
+          "endUid": "u2616",
+          "quote": "DM: One, two, three, nine. Nothing happens."
+        },
+        {
+          "startUid": "u2617",
+          "endUid": "u2617",
+          "quote": "Seeker: And Okay, and eight."
+        },
+        {
+          "startUid": "u2618",
+          "endUid": "u2618",
+          "quote": "DM: Eight, Drikod appears."
+        },
+        {
+          "startUid": "u2619",
+          "endUid": "u2619",
+          "quote": "Kenzo: Oh yeah."
+        },
+        {
+          "startUid": "u2620",
+          "endUid": "u2620",
+          "quote": "Seeker: Where does he show up actually?"
+        },
+        {
+          "startUid": "u2621",
+          "endUid": "u2622",
+          "quote": "DM: Like on top of—well, like five feet away from the mirror. Okay, I'm—towards the door."
+        },
+        {
+          "startUid": "u2623",
+          "endUid": "u2623",
+          "quote": "Drikod: [garbled]—"
+        },
+        {
+          "startUid": "u2624",
+          "endUid": "u2624",
+          "quote": "Seeker: Yep hey okay."
+        },
+        {
+          "startUid": "u2625",
+          "endUid": "u2626",
+          "quote": "Drikod: Yeah it was very white, a strange mist. I could only see about 10 feet around me. It was weird, not unpleasant, just."
+        },
+        {
+          "startUid": "u2627",
+          "endUid": "u2628",
+          "quote": "Kenzo: Did you—did you see our companions?"
+        },
+        {
+          "startUid": "u2629",
+          "endUid": "u2629",
+          "quote": "Drikod: I saw no one else."
+        },
+        {
+          "startUid": "u2630",
+          "endUid": "u2630",
+          "quote": "Kenzo: Well you're about to see 123."
+        },
+        {
+          "startUid": "u2631",
+          "endUid": "u2631",
+          "quote": "DM: Actually say 123."
+        },
+        {
+          "startUid": "u2632",
+          "endUid": "u2632",
+          "quote": "Unknown: No."
+        },
+        {
+          "startUid": "u2633",
+          "endUid": "u2633",
+          "quote": "DM: Delwath appears."
+        },
+        {
+          "startUid": "u2634",
+          "endUid": "u2634",
+          "quote": "Unknown: Thank goodness."
+        },
+        {
+          "startUid": "u2635",
+          "endUid": "u2635",
+          "quote": "Seeker: Okay, and six."
+        },
+        {
+          "startUid": "u2636",
+          "endUid": "u2636",
+          "quote": "DM: Six, Wellby appears."
+        }
+      ],
+      "from": "p11",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "magical trapping"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2167",
+        "endUid": "u2170"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo jumps onto the hut roof.",
+      "evidence": [
+        {
+          "startUid": "u2167",
+          "endUid": "u2167",
+          "quote": "Kenzo: Like, Kenzo just jumps onto the roof from the ground."
+        },
+        {
+          "startUid": "u2168",
+          "endUid": "u2168",
+          "quote": "Seeker: Yeah I am—"
+        },
+        {
+          "startUid": "u2169",
+          "endUid": "u2170",
+          "quote": "DM: Yeah that's his ability."
+        }
+      ],
+      "from": "p09",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "jump"
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u2171",
+        "endUid": "u2174"
+      },
+      "actors": [
+        "Seeker",
+        "Drikod"
+      ],
+      "reading": "Seeker and Drikod are on the boulder alongside the chimney, not inside the hut.",
+      "evidence": [
+        {
+          "startUid": "u2171",
+          "endUid": "u2171",
+          "quote": "Seeker: I navigate the stone carefully up to be alongside the chimney—"
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2172",
+          "quote": "DM: So that it's level."
+        },
+        {
+          "startUid": "u2173",
+          "endUid": "u2173",
+          "quote": "Seeker: With the top of the chimney."
+        },
+        {
+          "startUid": "u2174",
+          "endUid": "u2174",
+          "quote": "DM: Okay you're on the—"
+        },
+        {
+          "startUid": "u2076",
+          "endUid": "u2078",
+          "quote": "Seeker: Kenzo, I'm wondering if we should just take the stone up on top. Drikod, you want to hop on the stone with us, or do you think it would be safer if we split up?"
+        },
+        {
+          "startUid": "u2079",
+          "endUid": "u2080",
+          "quote": "Drikod: Drikod will join you, but he just has very bad vibes, so he's just gonna [garbled]."
+        }
+      ],
+      "place": "p18",
+      "locationContext": [
+        {
+          "subject": "p18",
+          "relation": "alongside",
+          "target": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2237",
+        "endUid": "u2251"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo enters blindfolded and falls into the main room without being trapped.",
+      "evidence": [
+        {
+          "startUid": "u2237",
+          "endUid": "u2241",
+          "quote": "Kenzo: Kenzo ties himself a blindfold. And you guys stay around the corner, so stay within your sight, earshot. You can still hear me, so just land the stone around the corner from the [garbled]. Kenzo is relying on all of his, you know, training back in Tokra. Yeah all of the blindfolded martial artists training that he did as a part of his—"
+        },
+        {
+          "startUid": "u2242",
+          "endUid": "u2242",
+          "quote": "DM: Make a Dexterity check."
+        },
+        {
+          "startUid": "u2243",
+          "endUid": "u2244",
+          "quote": "Kenzo: Like this. Oh, not a saving throw?"
+        },
+        {
+          "startUid": "u2245",
+          "endUid": "u2246",
+          "quote": "DM: Just a straight check, just whatever plus for whatever your—six, okay, so—"
+        },
+        {
+          "startUid": "u2247",
+          "endUid": "u2247",
+          "quote": "Seeker: You."
+        },
+        {
+          "startUid": "u2248",
+          "endUid": "u2251",
+          "quote": "DM: You walk in moving slowly into the space and I'm—trip over something, falling to the ground, and you hear a clattering sound and a buzzing."
+        },
+        {
+          "startUid": "u2253",
+          "endUid": "u2258",
+          "quote": "DM: I'm—as you sense—I'm—the light going out and you hear this, um, you can see the light going from light to dark and you hear the sort of, sort of faint whispers, you know, not really in language, more like moaning sounds, like, um, like pain, sort of a painful moan of agony, and you are prone on the ground and you feel a hand reaching out and touching your shoulder."
+        },
+        {
+          "startUid": "u2259",
+          "endUid": "u2259",
+          "quote": "Kenzo: Kenzo just sort of screams, “I've fallen and I can't get up.”"
+        },
+        {
+          "startUid": "u2260",
+          "endUid": "u2261",
+          "quote": "DM: Grabbing on to you. Can I move? Ah, yeah."
+        },
+        {
+          "startUid": "u2262",
+          "endUid": "u2262",
+          "quote": "Kenzo: Yeah I just yell and said, like, “I—I tripped.”"
+        },
+        {
+          "startUid": "u2263",
+          "endUid": "u2263",
+          "quote": "Seeker: Get up, get—come back out—"
+        },
+        {
+          "startUid": "u2264",
+          "endUid": "u2265",
+          "quote": "Kenzo: Acrobatics, come on, looking, whoa, whoa. All right."
+        },
+        {
+          "startUid": "u2266",
+          "endUid": "u2267",
+          "quote": "DM: Yeah, you, you—you roll out of the way of this—of this hand."
+        },
+        {
+          "startUid": "u2268",
+          "endUid": "u2268",
+          "quote": "Kenzo: Can't see you."
+        },
+        {
+          "startUid": "u2269",
+          "endUid": "u2269",
+          "quote": "DM: You bump into something else, like a table leg maybe."
+        },
+        {
+          "startUid": "u2270",
+          "endUid": "u2270",
+          "quote": "Kenzo: Kenzo just says, like, “Who's there? Who's there?”"
+        },
+        {
+          "startUid": "u2271",
+          "endUid": "u2271",
+          "quote": "DM: Nobody responds, but you're kind of disoriented now at this point. The other two see that the light that was shining out of the door is now out—"
+        },
+        {
+          "startUid": "u2272",
+          "endUid": "u2272",
+          "quote": "Seeker: Kenzo, the light's out."
+        },
+        {
+          "startUid": "u2273",
+          "endUid": "u2276",
+          "quote": "Kenzo: I still can't see anything. I tripped over something. I felt a hand reach out to touch me. I yell out, [garbled]. Delwath! Wellby!"
+        },
+        {
+          "startUid": "u2277",
+          "endUid": "u2277",
+          "quote": "DM: Nervous."
+        },
+        {
+          "startUid": "u2278",
+          "endUid": "u2278",
+          "quote": "Seeker: Well, the big thing here—"
+        },
+        {
+          "startUid": "u2279",
+          "endUid": "u2279",
+          "quote": "Kenzo: [garbled]."
+        },
+        {
+          "startUid": "u2280",
+          "endUid": "u2283",
+          "quote": "DM: You can feel now sort of feeling around the ground, you can feel there's like you're underneath the table; there's something on the ground that feels cold to the touch, and as you sort of reach towards it, you can feel almost like this cold mist, and that's what the sound is coming from, the moaning sound, and you kind of pull back from that. There's chairs around the table. One of the chairs has turned to be, so, like, there's four chairs. One is bigger and smoother than the other, bigger legs, two little chairs, and then the fourth chair is turned to be facing the door, so it's not aligned with the table, it's aligned with the door."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk through doorway"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2393",
+        "endUid": "u2399"
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "reading": "Drikod steps around the corner toward the door and is trapped in the mirror.",
+      "evidence": [
+        {
+          "startUid": "u2393",
+          "endUid": "u2393",
+          "quote": "Drikod: Drikod takes a breath and then turns to face the door."
+        },
+        {
+          "startUid": "u2394",
+          "endUid": "u2394",
+          "quote": "Seeker: Seeker bravely waits to see what happens to—"
+        },
+        {
+          "startUid": "u2395",
+          "endUid": "u2395",
+          "quote": "DM: Make that Charisma saving—"
+        },
+        {
+          "startUid": "u2396",
+          "endUid": "u2396",
+          "quote": "Drikod: This."
+        },
+        {
+          "startUid": "u2397",
+          "endUid": "u2397",
+          "quote": "Seeker: No, oh, I forgot to give you inspiration, Drikod."
+        },
+        {
+          "startUid": "u2398",
+          "endUid": "u2398",
+          "quote": "Drikod: Oh."
+        },
+        {
+          "startUid": "u2399",
+          "endUid": "u2399",
+          "quote": "DM: Drikod vanishes."
+        },
+        {
+          "startUid": "u2421",
+          "endUid": "u2422",
+          "quote": "DM: Drikod, you don't see this, but Seeker, you see Drikod step around the corner and begin to walk towards the door and then just vanish, like everybody else, as you still haven't looked around the corner, so you can't see Kenzo. Kenzo, you don't see anything because you're looking in the opposite direction, you have not turned around to look out the door."
+        },
+        {
+          "startUid": "u2625",
+          "endUid": "u2626",
+          "quote": "Drikod: Yeah it was very white, a strange mist. I could only see about 10 feet around me. It was weird, not unpleasant, just."
+        },
+        {
+          "startUid": "u2627",
+          "endUid": "u2628",
+          "quote": "Kenzo: Did you—did you see our companions?"
+        },
+        {
+          "startUid": "u2629",
+          "endUid": "u2629",
+          "quote": "Drikod: I saw no one else."
+        }
+      ],
+      "from": null,
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "magical trapping"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2450",
+        "endUid": "u2468"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker enters blindfolded from outside and backs into Kenzo in the main room.",
+      "evidence": [
+        {
+          "startUid": "u2450",
+          "endUid": "u2452",
+          "quote": "Seeker: Kenzo, I'm gonna come in blindfolded, so I find a scrap of something. Okay, I blindfold myself. I'm also just going to try to walk backwards—"
+        },
+        {
+          "startUid": "u2453",
+          "endUid": "u2453",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u2454",
+          "endUid": "u2455",
+          "quote": "Seeker: Into the door. No chance of seeing anything, but I'm gonna go slowly. Kenzo, let me know if I'm going to step on you."
+        },
+        {
+          "startUid": "u2456",
+          "endUid": "u2457",
+          "quote": "Kenzo: I can't see you, so I don't know. But, listen to the sound of my voice."
+        },
+        {
+          "startUid": "u2458",
+          "endUid": "u2458",
+          "quote": "DM: Okay we're getting closer."
+        },
+        {
+          "startUid": "u2459",
+          "endUid": "u2460",
+          "quote": "Seeker: Okay. So you're facing back, right, Kenzo? Okay."
+        },
+        {
+          "startUid": "u2461",
+          "endUid": "u2462",
+          "quote": "DM: Yeah, he's facing away from the door, make a—you're getting closer—"
+        },
+        {
+          "startUid": "u2463",
+          "endUid": "u2463",
+          "quote": "Kenzo: Kenzo takes his quarterstaff and taps out in front. This is where my staff is. The staff is about two feet away."
+        },
+        {
+          "startUid": "u2464",
+          "endUid": "u2465",
+          "quote": "DM: Okay. You back up into a staff."
+        },
+        {
+          "startUid": "u2466",
+          "endUid": "u2466",
+          "quote": "Seeker: Okay okay."
+        },
+        {
+          "startUid": "u2467",
+          "endUid": "u2468",
+          "quote": "DM: The chair on the ground is right behind you. Okay, as is this metal square."
+        }
+      ],
+      "from": null,
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk through doorway"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2608",
+        "endUid": "u2636"
+      },
+      "actors": [
+        "Drikod",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "The command words free Drikod, Delwath, and Wellby into the main room.",
+      "evidence": [
+        {
+          "startUid": "u2608",
+          "endUid": "u2609",
+          "quote": "Seeker: Wait, okay, okay, let's just open them up one, at a time. Okay, we're gonna, cell 12."
+        },
+        {
+          "startUid": "u2610",
+          "endUid": "u2610",
+          "quote": "DM: Nothing happens."
+        },
+        {
+          "startUid": "u2611",
+          "endUid": "u2611",
+          "quote": "Kenzo: Right let's go let's go."
+        },
+        {
+          "startUid": "u2612",
+          "endUid": "u2612",
+          "quote": "DM: One, two, three, 11. 11, nothing happens—"
+        },
+        {
+          "startUid": "u2613",
+          "endUid": "u2613",
+          "quote": "Kenzo: Don't worry."
+        },
+        {
+          "startUid": "u2614",
+          "endUid": "u2614",
+          "quote": "DM: 10 nothing happens."
+        },
+        {
+          "startUid": "u2615",
+          "endUid": "u2615",
+          "quote": "Seeker: So good."
+        },
+        {
+          "startUid": "u2616",
+          "endUid": "u2616",
+          "quote": "DM: One, two, three, nine. Nothing happens."
+        },
+        {
+          "startUid": "u2617",
+          "endUid": "u2617",
+          "quote": "Seeker: And Okay, and eight."
+        },
+        {
+          "startUid": "u2618",
+          "endUid": "u2618",
+          "quote": "DM: Eight, Drikod appears."
+        },
+        {
+          "startUid": "u2619",
+          "endUid": "u2619",
+          "quote": "Kenzo: Oh yeah."
+        },
+        {
+          "startUid": "u2620",
+          "endUid": "u2620",
+          "quote": "Seeker: Where does he show up actually?"
+        },
+        {
+          "startUid": "u2621",
+          "endUid": "u2622",
+          "quote": "DM: Like on top of—well, like five feet away from the mirror. Okay, I'm—towards the door."
+        },
+        {
+          "startUid": "u2623",
+          "endUid": "u2623",
+          "quote": "Drikod: [garbled]—"
+        },
+        {
+          "startUid": "u2624",
+          "endUid": "u2624",
+          "quote": "Seeker: Yep hey okay."
+        },
+        {
+          "startUid": "u2625",
+          "endUid": "u2626",
+          "quote": "Drikod: Yeah it was very white, a strange mist. I could only see about 10 feet around me. It was weird, not unpleasant, just."
+        },
+        {
+          "startUid": "u2627",
+          "endUid": "u2628",
+          "quote": "Kenzo: Did you—did you see our companions?"
+        },
+        {
+          "startUid": "u2629",
+          "endUid": "u2629",
+          "quote": "Drikod: I saw no one else."
+        },
+        {
+          "startUid": "u2630",
+          "endUid": "u2630",
+          "quote": "Kenzo: Well you're about to see 123."
+        },
+        {
+          "startUid": "u2631",
+          "endUid": "u2631",
+          "quote": "DM: Actually say 123."
+        },
+        {
+          "startUid": "u2632",
+          "endUid": "u2632",
+          "quote": "Unknown: No."
+        },
+        {
+          "startUid": "u2633",
+          "endUid": "u2633",
+          "quote": "DM: Delwath appears."
+        },
+        {
+          "startUid": "u2634",
+          "endUid": "u2634",
+          "quote": "Unknown: Thank goodness."
+        },
+        {
+          "startUid": "u2635",
+          "endUid": "u2635",
+          "quote": "Seeker: Okay, and six."
+        },
+        {
+          "startUid": "u2636",
+          "endUid": "u2636",
+          "quote": "DM: Six, Wellby appears."
+        }
+      ],
+      "from": "p14",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "mirror release"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u2786",
+        "endUid": "u2799"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby looks through the opened side-room door into the storeroom.",
+      "evidence": [
+        {
+          "startUid": "u2786",
+          "endUid": "u2786",
+          "quote": "Delwath: All right, I'm gonna push it open with Mage Hand, but I'm not gonna walk through just yet."
+        },
+        {
+          "startUid": "u2787",
+          "endUid": "u2787",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u2788",
+          "endUid": "u2788",
+          "quote": "Seeker: We learned our lesson about looking."
+        },
+        {
+          "startUid": "u2789",
+          "endUid": "u2789",
+          "quote": "DM: Slides open."
+        },
+        {
+          "startUid": "u2790",
+          "endUid": "u2790",
+          "quote": "Wellby: I'll look through."
+        },
+        {
+          "startUid": "u2791",
+          "endUid": "u2797",
+          "quote": "DM: There's, there's, like—this seems to be like, like a storage area. There's like three large sacks of like flour, one's, like, flour, one's barley, there's grains spilling out of the top of them. There's also a couple of barrels of something in here. And three heavy steel shields decorated with rearing horses are piled in the corner."
+        },
+        {
+          "startUid": "u2798",
+          "endUid": "u2798",
+          "quote": "Delwath: Couple things: is anything magical?"
+        },
+        {
+          "startUid": "u2799",
+          "endUid": "u2799",
+          "quote": "DM: Nothing in this room is magical."
+        }
+      ],
+      "place": "p15",
+      "observerPlace": "p13",
+      "mode": "local"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2802",
+        "endUid": "u2806"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath pokes around inside the storeroom.",
+      "evidence": [
+        {
+          "startUid": "u2802",
+          "endUid": "u2802",
+          "quote": "Delwath: Poke around. I mean, I'm proficient in cook's utensils, presumably I have some good judgment."
+        },
+        {
+          "startUid": "u2803",
+          "endUid": "u2803",
+          "quote": "Seeker: Um let's—"
+        },
+        {
+          "startUid": "u2804",
+          "endUid": "u2806",
+          "quote": "DM: See, so the sacks are—they seem—they, like, clink oddly when you poke around."
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u2880",
+        "endUid": "u2906"
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "reading": "The other side room contains a buzzing humanoid decoy and magical putty; Drikod investigates.",
+      "evidence": [
+        {
+          "startUid": "u2880",
+          "endUid": "u2888",
+          "quote": "DM: Um, the next room, ah. So this one doesn't have a door, um, so just sort of peeking inside slightly, this looks like a bedroom. There's a bed, um, there is a bed, a chair and a small table and, like, a table slash like workbench area. Sitting on the floor next to the bed is a—what looks like a young woman with like sort of vacant eyes and indistinct features kind of blobby almost, um, which doesn't seem to move. Just sitting there. There's a faint like buzzing sound coming from it."
+        },
+        {
+          "startUid": "u2889",
+          "endUid": "u2889",
+          "quote": "Delwath: Like, is this flesh? Does it look like she's not made of wood or?"
+        },
+        {
+          "startUid": "u2890",
+          "endUid": "u2890",
+          "quote": "DM: No, no, made of flesh."
+        },
+        {
+          "startUid": "u2891",
+          "endUid": "u2892",
+          "quote": "Drikod: Could I, um—is there any magic? Doesn't show it."
+        },
+        {
+          "startUid": "u2893",
+          "endUid": "u2894",
+          "quote": "DM: There is, so there is magic in this room, the, in particular the workbench has on it a jar of, like, a putty-like brown substance which is magical."
+        },
+        {
+          "startUid": "u2895",
+          "endUid": "u2895",
+          "quote": "Delwath: But she's not?"
+        },
+        {
+          "startUid": "u2896",
+          "endUid": "u2896",
+          "quote": "DM: She is not."
+        },
+        {
+          "startUid": "u2897",
+          "endUid": "u2897",
+          "quote": "Delwath: Does she look at all, like the young woman with dark brown skin?"
+        },
+        {
+          "startUid": "u2898",
+          "endUid": "u2898",
+          "quote": "Unknown: No."
+        },
+        {
+          "startUid": "u2899",
+          "endUid": "u2900",
+          "quote": "Drikod: Um, Drikod's a healer, so his instinct is a Medicine check, just—is that the right check for that, just to, like?"
+        },
+        {
+          "startUid": "u2901",
+          "endUid": "u2901",
+          "quote": "DM: Yeah you can do medicine check."
+        },
+        {
+          "startUid": "u2902",
+          "endUid": "u2903",
+          "quote": "Drikod: As a sick person."
+        },
+        {
+          "startUid": "u2904",
+          "endUid": "u2906",
+          "quote": "DM: This doesn't really seem to be a person. Like, you prod at it, it's not moving in the way flesh should move, and in fact every time you come close to it and try and lift up its arm, you hear this buzzing noise gets louder. But it's, like, totally inert. Like, when you pick up an arm and then drop the arm, it doesn't do anything."
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p13",
+      "mode": "local",
+      "note": "The examination does not clearly narrate crossing the bedroom threshold."
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u3258",
+        "endUid": "u3268"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party brings the magical and valuable items outside before departing.",
+      "evidence": [
+        {
+          "startUid": "u3258",
+          "endUid": "u3258",
+          "quote": "DM: So, so you take out everything that looks valuable and it's magical—"
+        },
+        {
+          "startUid": "u3259",
+          "endUid": "u3259",
+          "quote": "Wellby: Yeah yeah."
+        },
+        {
+          "startUid": "u3260",
+          "endUid": "u3260",
+          "quote": "Delwath: Right yep."
+        },
+        {
+          "startUid": "u3261",
+          "endUid": "u3262",
+          "quote": "DM: Lay it all out on the ground. And then."
+        },
+        {
+          "startUid": "u3263",
+          "endUid": "u3263",
+          "quote": "Unknown: We're like oh—"
+        },
+        {
+          "startUid": "u3264",
+          "endUid": "u3268",
+          "quote": "DM: Yeah, all the coins, all the figurines, as there's a bunch of like there's like the porcelain tea kettle—I mean, tea service—there's like a bunch of things that seem to be valuable on this like giant shelf of knickknacks in addition to a bunch of magic. So you take everything out, like, you know, organize it on the ground using Mage Hand as much as possible. Go convince Garret to come out of the well."
+        },
+        {
+          "startUid": "u3276",
+          "endUid": "u3280",
+          "quote": "DM: Now he's, you know, yeah, Kenzo's soothing and, you know, he's, I mean, he's just—like, the whole thing is just too much for him, like too many you know, stories from the past, tales of grandeur and magic is just one step too far, and he, um. But Kenzo kind of soothes him and he comes out of the well, and he's pretty skeptical of this plan, but as long as Wellby and Kenzo are on the—"
+        },
+        {
+          "startUid": "u3281",
+          "endUid": "u3281",
+          "quote": "Kenzo: Boulder."
+        },
+        {
+          "startUid": "u3282",
+          "endUid": "u3284",
+          "quote": "DM: Are on the boulder with him he's willing to—he can tolerate, like, 20 minutes. He's not going to like sit on the boulder much longer, but um. I guess actually Seeker is the one who freed him, so he does trust Seeker, actually. As long as it's Seeker's magic, he's on board with that."
+        }
+      ],
+      "from": "p13",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "carry"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u3286",
+        "endUid": "u3295"
+      },
+      "actors": [
+        "Drikod",
+        "Wellby",
+        "Garret Tealeaf"
+      ],
+      "reading": "The first boulder load carries Drikod, Wellby, Garret, the table and small loot to the horse camp. Seeker is assigned to the second trip.",
+      "evidence": [
+        {
+          "startUid": "u3286",
+          "endUid": "u3287",
+          "quote": "DM: And then Seeker spends a spell slot to animate the boulder again. And who's, who's going first?"
+        },
+        {
+          "startUid": "u3288",
+          "endUid": "u3288",
+          "quote": "Drikod: Drikod can start helping set up the camp because of his Survival skills and background."
+        },
+        {
+          "startUid": "u3289",
+          "endUid": "u3289",
+          "quote": "Unknown: Great."
+        },
+        {
+          "startUid": "u3290",
+          "endUid": "u3291",
+          "quote": "DM: So, Drikod and the table and maybe some of the knickknacks and stuff could go on the first trip."
+        },
+        {
+          "startUid": "u3292",
+          "endUid": "u3292",
+          "quote": "Drikod: Yeah at least one other person, just in case."
+        },
+        {
+          "startUid": "u3293",
+          "endUid": "u3293",
+          "quote": "DM: Yeah, you could fit the halflings under the table."
+        },
+        {
+          "startUid": "u3294",
+          "endUid": "u3295",
+          "quote": "Kenzo: So, so—oh, and actually you've got the communication stone to so we can talk. Yeah, Kenzo will stay at the house bit with Delwath."
+        },
+        {
+          "startUid": "u3298",
+          "endUid": "u3298",
+          "quote": "DM: Yeah, second trip, who's going on the second trip?"
+        },
+        {
+          "startUid": "u3299",
+          "endUid": "u3300",
+          "quote": "Kenzo: So everybody else right? What?"
+        },
+        {
+          "startUid": "u3301",
+          "endUid": "u3301",
+          "quote": "Delwath: Seeker, Delwath, all go on the second trip."
+        },
+        {
+          "startUid": "u3302",
+          "endUid": "u3302",
+          "quote": "Kenzo: Yeah, we all go on the second, like we all leave, and then we come back tomorrow and burn the house."
+        },
+        {
+          "startUid": "u3408",
+          "endUid": "u3409",
+          "quote": "DM: So your last trip on the boulder you fly again, leaving the House as it is."
+        },
+        {
+          "startUid": "u3410",
+          "endUid": "u3410",
+          "quote": "Kenzo: Right, right, last, last moment—"
+        },
+        {
+          "startUid": "u3411",
+          "endUid": "u3412",
+          "quote": "DM: [garbled], and then you—where are you making camp?"
+        },
+        {
+          "startUid": "u3413",
+          "endUid": "u3413",
+          "quote": "Kenzo: Why are these questions, saying why are you asking all these questions?"
+        },
+        {
+          "startUid": "u3414",
+          "endUid": "u3414",
+          "quote": "Delwath: I think we should be making camp back at the canyon, wherever we were, like when we were having our—"
+        },
+        {
+          "startUid": "u3415",
+          "endUid": "u3415",
+          "quote": "DM: Site, like three miles away—"
+        },
+        {
+          "startUid": "u3416",
+          "endUid": "u3417",
+          "quote": "Drikod: Yeah yeah. That's where our horses are and the extra food."
+        },
+        {
+          "startUid": "u3418",
+          "endUid": "u3418",
+          "quote": "DM: The extra food is back at Bas Udda, but you have—"
+        },
+        {
+          "startUid": "u3419",
+          "endUid": "u3419",
+          "quote": "Unknown: Oh."
+        },
+        {
+          "startUid": "u3420",
+          "endUid": "u3424",
+          "quote": "DM: With only one extra person, you can squeeze on. That's fine. Oh, you're gonna possibly have more extra people if you turn. So you arrive back at camp. It's like 1:30, two by the time you get there. Garret is just totally wiped out and just slumps against the side of a canyon and, you know, nods off, basically. It's hot, it's tiring work. So what do you want to do?"
+        }
+      ],
+      "from": "p09",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "animated boulder"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u3298",
+        "endUid": "u3302"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "The second boulder load carries Seeker, Kenzo, and Delwath out; the lair is left intact.",
+      "evidence": [
+        {
+          "startUid": "u3298",
+          "endUid": "u3298",
+          "quote": "DM: Yeah, second trip, who's going on the second trip?"
+        },
+        {
+          "startUid": "u3299",
+          "endUid": "u3300",
+          "quote": "Kenzo: So everybody else right? What?"
+        },
+        {
+          "startUid": "u3301",
+          "endUid": "u3301",
+          "quote": "Delwath: Seeker, Delwath, all go on the second trip."
+        },
+        {
+          "startUid": "u3302",
+          "endUid": "u3302",
+          "quote": "Kenzo: Yeah, we all go on the second, like we all leave, and then we come back tomorrow and burn the house."
+        },
+        {
+          "startUid": "u3408",
+          "endUid": "u3409",
+          "quote": "DM: So your last trip on the boulder you fly again, leaving the House as it is."
+        },
+        {
+          "startUid": "u3410",
+          "endUid": "u3410",
+          "quote": "Kenzo: Right, right, last, last moment—"
+        },
+        {
+          "startUid": "u3411",
+          "endUid": "u3412",
+          "quote": "DM: [garbled], and then you—where are you making camp?"
+        },
+        {
+          "startUid": "u3413",
+          "endUid": "u3413",
+          "quote": "Kenzo: Why are these questions, saying why are you asking all these questions?"
+        },
+        {
+          "startUid": "u3414",
+          "endUid": "u3414",
+          "quote": "Delwath: I think we should be making camp back at the canyon, wherever we were, like when we were having our—"
+        },
+        {
+          "startUid": "u3415",
+          "endUid": "u3415",
+          "quote": "DM: Site, like three miles away—"
+        },
+        {
+          "startUid": "u3416",
+          "endUid": "u3417",
+          "quote": "Drikod: Yeah yeah. That's where our horses are and the extra food."
+        },
+        {
+          "startUid": "u3418",
+          "endUid": "u3418",
+          "quote": "DM: The extra food is back at Bas Udda, but you have—"
+        },
+        {
+          "startUid": "u3419",
+          "endUid": "u3419",
+          "quote": "Unknown: Oh."
+        },
+        {
+          "startUid": "u3420",
+          "endUid": "u3424",
+          "quote": "DM: With only one extra person, you can squeeze on. That's fine. Oh, you're gonna possibly have more extra people if you turn. So you arrive back at camp. It's like 1:30, two by the time you get there. Garret is just totally wiped out and just slumps against the side of a canyon and, you know, nods off, basically. It's hot, it's tiring work. So what do you want to do?"
+        }
+      ],
+      "from": "p09",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "animated boulder"
+    }
+  ]
+}

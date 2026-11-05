@@ -1,0 +1,1043 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-030",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+    "sessionYamlSha256": "a76c798d0e9692a236e0fd0a31d9e2d20080596b74857b7bc1f9b774db872163",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-transcript.md",
+    "transcriptSha256": "6f7eb6279b36585a15fcf170b372acd4dd83a0220c4253a521c700dfdcca3f37",
+    "yamlDates": {
+      "start": "1748-06-01",
+      "end": "1748-06-04"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0007"
+      },
+      "reading": "The party wakes at dawn in Karawa.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "DM: Dawn comes to a very changed Karawa. You awake in your camp on the edge of the oasis, still the center public square of Karawa, to the sounds of hope: the chatter of people mixing mud into bricks to dry in the sun, the bang of hammers as rubble is broken into smaller pieces to be cleared or reused for new construction, the regular click of shovels as dirt is dug for building materials."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor",
+        "partOfDay": "dawn"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0045",
+        "endUid": "u0065"
+      },
+      "reading": "The party sets off south in the dawn light; the two-day Bas Udda estimate is a forecast, not additional elapsed time.",
+      "evidence": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0048",
+          "quote": "DM: So now, as you ride out of Karawa with that information in the dawn light, there's no avoiding the thoughts of the journey ahead, that trial, potential trials of Agata's lair, and what may be hidden there, what may need to be recovered or protected before wanderers in the desert stumble upon it for good or ill. Who is trapped there, turned to wood and bound in a curse tied to the small carved statues you carry now, recovered from Agata's person? Can they be saved? And what dangers or traps prepared for unwary guests may still lurk in her lair now, days after her death?"
+        },
+        {
+          "startUid": "u0049",
+          "endUid": "u0052",
+          "quote": "DM: So as you travel now out of the desert. It's about a two-day journey to the ruins of Bas Udda, and then the lair is maybe a half a day's journey. Supposedly, the rumor, the lair's maybe a half a day's journey south—south from Bas Udda."
+        },
+        {
+          "startUid": "u0053",
+          "endUid": "u0053",
+          "quote": "DM: And the road is, is quiet and—and those of you who have—"
+        },
+        {
+          "startUid": "u0054",
+          "endUid": "u0058",
+          "quote": "DM: So Kenzo and Drikod, as you leave Karawa riding on the road to Bas Udda, um, you can almost feel Shakun's power traveling with you, and you can feel the—the, you can almost see the nets kind of reknitting themselves and moving out from the desert slowly and you feel safer riding in the desert than you have before."
+        },
+        {
+          "startUid": "u0059",
+          "endUid": "u0059",
+          "quote": "DM: Everything is quiet."
+        },
+        {
+          "startUid": "u0060",
+          "endUid": "u0060",
+          "quote": "Drikod: It's hot."
+        },
+        {
+          "startUid": "u0061",
+          "endUid": "u0062",
+          "quote": "DM: It's dry. This is the hottest and driest time of the year, as the sun is in the sky for, the days are long and the—and it's been now almost nine months since the last rains."
+        },
+        {
+          "startUid": "u0063",
+          "endUid": "u0065",
+          "quote": "DM: But there's a sense of—there's a sense of peace that you two especially feel that you have not felt before on this road."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor",
+        "partOfDay": "dawn"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0068",
+        "endUid": "u0076"
+      },
+      "reading": "Seeker examines the necklace during the first travel morning.",
+      "evidence": [
+        {
+          "startUid": "u0068",
+          "endUid": "u0069",
+          "quote": "DM: So on the first day of your journey, what would you like to identify?"
+        },
+        {
+          "startUid": "u0070",
+          "endUid": "u0073",
+          "quote": "Seeker: Okay, so. We should be looking. Oh, I see a signal from Kenzo. Um. Yes, yeah."
+        },
+        {
+          "startUid": "u0074",
+          "endUid": "u0074",
+          "quote": "Unknown: [garbled]."
+        },
+        {
+          "startUid": "u0075",
+          "endUid": "u0076",
+          "quote": "Seeker: Seeker's been kind of poking at them disgustedly, but now one morning of the journey puts on the purple goggles and and gazes at them intently. He sort of sets the Tongue down in the dust and puts the goggles on to stare at them from a foot away."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor",
+        "partOfDay": "morning"
+      },
+      "actors": [
+        "Seeker"
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0255",
+        "endUid": "u0262"
+      },
+      "reading": "The rest of the first travel day passes; the party camps halfway to Bas Udda in the evening.",
+      "evidence": [
+        {
+          "startUid": "u0255",
+          "endUid": "u0262",
+          "quote": "DM: Great, the rest of the day passes and eventually, as you travel south along the road through the desert, making camp about halfway to Bas Udda along the side of this path, and this is still—there is still, nobody else who is quite yet brave enough to venture out to resettle Bas Udda. So this is a—the road is pretty empty. And you haven't really—you haven't passed any travelers or, for that matter, seen anything moving in the air or the—beyond a few small—small birds and a couple, not the giant vultures, but just normal-size, like desert vultures and, um, one hawk. It's been a quiet day as you make camp for the evening."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor",
+        "partOfDay": "evening"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0467",
+        "endUid": "u0470"
+      },
+      "reading": "The scepter discussion is explicitly placed in camp late at night, correcting the suggestion that it happens while riding.",
+      "evidence": [
+        {
+          "startUid": "u0467",
+          "endUid": "u0468",
+          "quote": "Kenzo: Are we riding horses? Are we walking? What are we doing right now? We're talking and riding horses yeah."
+        },
+        {
+          "startUid": "u0469",
+          "endUid": "u0469",
+          "quote": "DM: No, no, you're in camp late."
+        },
+        {
+          "startUid": "u0470",
+          "endUid": "u0470",
+          "quote": "Delwath: Night."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor",
+        "partOfDay": "late night"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0541",
+        "endUid": "u0544"
+      },
+      "reading": "The next sunrise begins the second travel day.",
+      "evidence": [
+        {
+          "startUid": "u0541",
+          "endUid": "u0544",
+          "quote": "DM: So the next morning you wake up early as the sun rises to another hot dry day. And you have about another 20–25 miles of riding through the dust along the dusty road before you reach the ruins of Bas Udda, where you plan to camp for the night before setting off south to look for Agata's lair."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor",
+        "partOfDay": "sunrise"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0545",
+        "endUid": "u0552"
+      },
+      "reading": "Another day of travel ends at Bas Udda in the evening.",
+      "evidence": [
+        {
+          "startUid": "u0545",
+          "endUid": "u0552",
+          "quote": "DM: It's another quiet journey, although you seem to now on your second day of travel have slightly outpaced the growing—the growing web of Shakun's protection that Drikod and Kenzo can still feel now behind them. So you sort of leave this aura of peace that you had been feeling yesterday, as you continue to travel. But the road is still empty, and—and no signs of disturbance until you reach the—the now barren and quiet ruins of Bas Udda, the bodies that had been left for dead after the gnoll attack a few months ago now all buried, many with your help. But the town itself in ruins, largely burned, but the main temple still providing shelter and rest. As you make your evening camp there, do you want to identify another item?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor",
+        "partOfDay": "evening"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0610",
+        "endUid": "u0615"
+      },
+      "reading": "The next morning begins before dawn at Bas Udda.",
+      "evidence": [
+        {
+          "startUid": "u0610",
+          "endUid": "u0615",
+          "quote": "DM: So the next morning ah, another hot sunny day as you wake before dawn to—what's your plan? Here is where you would, you know, Agata's lair is half a day's journey south. But nobody knows exactly where except this landmark, the line of trees, and you know you can only approach it from the north. If you come from the south, it's not there."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor",
+        "partOfDay": "before dawn"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0690",
+        "endUid": "u0741"
+      },
+      "reading": "After roughly two and a half to three hours south, the party reaches the lookout around 9 a.m.",
+      "evidence": [
+        {
+          "startUid": "u0690",
+          "endUid": "u0691",
+          "quote": "DM: So you head south out in the desert, or you're just traveling with all your gear and camp and everything? I assume, or are you leaving stuff in Bas Udda?"
+        },
+        {
+          "startUid": "u0692",
+          "endUid": "u0692",
+          "quote": "Delwath: I mean, most of the stuff we left it."
+        },
+        {
+          "startUid": "u0693",
+          "endUid": "u0693",
+          "quote": "DM: Right, just your food and your horses, basically."
+        },
+        {
+          "startUid": "u0694",
+          "endUid": "u0694",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u0695",
+          "endUid": "u0695",
+          "quote": "Delwath: Is there an advantage in approaching on foot?"
+        },
+        {
+          "startUid": "u0696",
+          "endUid": "u0696",
+          "quote": "Unknown: Think so."
+        },
+        {
+          "startUid": "u0697",
+          "endUid": "u0699",
+          "quote": "Delwath: It might be worth leaving a cache of food, though, just in case our horses get spooked or something goes horribly wrong so that we're not left out here, with nothing."
+        },
+        {
+          "startUid": "u0700",
+          "endUid": "u0704",
+          "quote": "Drikod: Drikod nods. As an experienced traveler in the wilderness, we should probably set something aside, just in case. The long—long walk back. The desert is dry and water is heavy."
+        },
+        {
+          "startUid": "u0705",
+          "endUid": "u0706",
+          "quote": "Delwath: Yeah, I think we should set aside, like half our food—"
+        },
+        {
+          "startUid": "u0707",
+          "endUid": "u0707",
+          "quote": "Unknown: And water."
+        },
+        {
+          "startUid": "u0708",
+          "endUid": "u0708",
+          "quote": "Delwath: Well hidden in some cache or something."
+        },
+        {
+          "startUid": "u0709",
+          "endUid": "u0709",
+          "quote": "Wellby: You know yeah."
+        },
+        {
+          "startUid": "u0710",
+          "endUid": "u0710",
+          "quote": "Delwath: Then I think going forward on horses probably makes sense. We'll cover ground faster—"
+        },
+        {
+          "startUid": "u0711",
+          "endUid": "u0711",
+          "quote": "Kenzo: We could escape."
+        },
+        {
+          "startUid": "u0712",
+          "endUid": "u0712",
+          "quote": "Delwath: If we have to run be able to run faster."
+        },
+        {
+          "startUid": "u0713",
+          "endUid": "u0716",
+          "quote": "DM: So you—Baxter—travel south and after, you know, even a, are you going, you know, on horseback you're not going to be super stealthy no matter what you do. Are you just, like, you know, trying to be at least a little quiet, or just pushing as fast as you can?"
+        },
+        {
+          "startUid": "u0717",
+          "endUid": "u0717",
+          "quote": "Wellby: I think a stealthy approach is good."
+        },
+        {
+          "startUid": "u0718",
+          "endUid": "u0719",
+          "quote": "Kenzo: Well, I think, as we've done in the past, but I think, you know, either Wellby or myself doing some reconnaissance [garbled]."
+        },
+        {
+          "startUid": "u0720",
+          "endUid": "u0722",
+          "quote": "Delwath: I mean how close? Like—like, what's the horizon? What's the terrain like?"
+        },
+        {
+          "startUid": "u0723",
+          "endUid": "u0726",
+          "quote": "DM: Are we, no, yeah, these kind of canyons. Right, I mean, you're sort of rocky desert at this point. You're not in the sort of open barren sands of the Garamjala Desert, which is to the south and the east a little bit from here, so this is kind of like the kind of badlands scrublands. You know you can't be, you can't be—you know this, this kind of desert basically."
+        },
+        {
+          "startUid": "u0727",
+          "endUid": "u0729",
+          "quote": "Drikod: I can send a bird ahead to communicate back to us once we are three hours round trip out, I have the bird for three hours. Right. So as long as it has time to fly there and fly back, we can get—"
+        },
+        {
+          "startUid": "u0730",
+          "endUid": "u0730",
+          "quote": "Unknown: A little more context."
+        },
+        {
+          "startUid": "u0731",
+          "endUid": "u0733",
+          "quote": "Delwath: Basically, I was thinking, could we get within two or three miles of the line of trees, without being—without riding fast, but without being very visible, just by trying to stay behind rocks and go into the bottoms of canyons?"
+        },
+        {
+          "startUid": "u0734",
+          "endUid": "u0735",
+          "quote": "DM: Yeah you can kind of navigate a little I mean it gets more open, as you go further south right um. But around Bas Udda—"
+        },
+        {
+          "startUid": "u0736",
+          "endUid": "u0736",
+          "quote": "Delwath: Basically I thinking if we get to the point where we can see the line of trees on the horizon—"
+        },
+        {
+          "startUid": "u0737",
+          "endUid": "u0737",
+          "quote": "DM: Right it's—"
+        },
+        {
+          "startUid": "u0738",
+          "endUid": "u0738",
+          "quote": "Delwath: Gonna be easy for us to, like, we'd like to get as close as possible before it's like, hey, look, there's the line of trees right ahead. Movement will be more obvious, then we maybe leave the horses, send in the bird."
+        },
+        {
+          "startUid": "u0739",
+          "endUid": "u0741",
+          "quote": "DM: So, so after about two and a half hours of travel, kind of maybe three hours of travel. So, so, like, you know, maybe nine in the morning, having left right at dawn, you know, picking your way through the rocky desert, you can see ahead of you now, as you sort of come through this rocky terrain, um, there's not been any plant life, but you can see ahead this line of trees, maybe about two, two and a half miles' distance to the south."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor",
+        "clock": "09:00"
+      },
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time",
+        "min": 2.5,
+        "minInclusive": true,
+        "max": 3,
+        "maxInclusive": true
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0896",
+        "endUid": "u0906"
+      },
+      "reading": "The party waits twenty or thirty minutes while the shadow scouts; further waiting is not quantified.",
+      "evidence": [
+        {
+          "startUid": "u0896",
+          "endUid": "u0898",
+          "quote": "DM: So, some time passes. More time passes. Hold on, let me check something here—"
+        },
+        {
+          "startUid": "u0899",
+          "endUid": "u0899",
+          "quote": "Seeker: Seeker's got a coil of rope in front of him that he's playing with."
+        },
+        {
+          "startUid": "u0900",
+          "endUid": "u0906",
+          "quote": "DM: More time passes. Maybe 20 minutes, half an hour. I mean it would now be approaching the line of trees. More time passes. I'll send you a message, Schwartz. More time passes. How long does that last?"
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time",
+        "min": 20,
+        "minInclusive": true,
+        "max": 30,
+        "maxInclusive": true
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1070",
+        "endUid": "u1073"
+      },
+      "reading": "The boulder search takes about forty-five minutes; the current clock is now about 11 a.m.",
+      "evidence": [
+        {
+          "startUid": "u1070",
+          "endUid": "u1070",
+          "quote": "DM: Not the lowest you can possibly roll, but that just means it takes you longer. It takes you maybe 45 minutes."
+        },
+        {
+          "startUid": "u1071",
+          "endUid": "u1071",
+          "quote": "Seeker: [garbled]?"
+        },
+        {
+          "startUid": "u1072",
+          "endUid": "u1073",
+          "quote": "DM: Turn up a nice large size boulder. Though it's now it's like 11 basically."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor",
+        "clock": "11:00"
+      },
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time",
+        "value": 45
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1280",
+        "endUid": "u1284"
+      },
+      "reading": "The fly encounter has used only a few seconds, not the table’s discussion time.",
+      "evidence": [
+        {
+          "startUid": "u1280",
+          "endUid": "u1282",
+          "quote": "Seeker: How much time passed? Because our flying boulder for an hour—seconds. Okay."
+        },
+        {
+          "startUid": "u1283",
+          "endUid": "u1283",
+          "quote": "Delwath: And that was pretty fast."
+        },
+        {
+          "startUid": "u1284",
+          "endUid": "u1284",
+          "quote": "DM: It appeared, you smashed it a few times, Kenzo grabbed it and said the words, and it shrunk back into—"
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "text": "a few seconds",
+        "basis": "DM explicitly describes elapsed encounter time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1385",
+        "endUid": "u1393"
+      },
+      "reading": "The flight has used ten minutes when Kenzo lands by the lair.",
+      "evidence": [
+        {
+          "startUid": "u1385",
+          "endUid": "u1393",
+          "quote": "DM: That has, like, dense tangled brush, almost forming, like, a bit of sheltered sort of cave, sort of dark area. The hut is here. Um, this, I couldn't find exactly the hut, but the center area here, where these two pieces meet, is actually kind of circular. And then there's an extension to this way and extension to this way, this is the main door right here; there's a chimney in the middle, then there's the field here, and then a scarecrow and the rest of it is just kind of bare dirt. Everything looks sort of a bit bleak, dusty. The barren rock is broken only by the occasional dead tree. Something like that. And it's been now 10 minutes, so Kenzo lands. You still have—you still have like 45 minutes on the boulder."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time",
+        "value": 10
+      },
+      "completion": "completed",
+      "actors": [
+        "Kenzo"
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1385",
+        "endUid": "u1394"
+      },
+      "reading": "Seeker lands the animated boulder with about forty-five minutes remaining of its hour; approximately fifteen minutes have elapsed since animation.",
+      "evidence": [
+        {
+          "startUid": "u1385",
+          "endUid": "u1393",
+          "quote": "DM: That has, like, dense tangled brush, almost forming, like, a bit of sheltered sort of cave, sort of dark area. The hut is here. Um, this, I couldn't find exactly the hut, but the center area here, where these two pieces meet, is actually kind of circular. And then there's an extension to this way and extension to this way, this is the main door right here; there's a chimney in the middle, then there's the field here, and then a scarecrow and the rest of it is just kind of bare dirt. Everything looks sort of a bit bleak, dusty. The barren rock is broken only by the occasional dead tree. Something like that. And it's been now 10 minutes, so Kenzo lands. You still have—you still have like 45 minutes on the boulder."
+        },
+        {
+          "startUid": "u1394",
+          "endUid": "u1394",
+          "quote": "Seeker: I land the boulder next to Kenzo."
+        },
+        {
+          "startUid": "u1074",
+          "endUid": "u1082",
+          "quote": "Seeker: All right, I will inscribe arcane runic magic upon the boulder's surface to animate it. Check off my Animating Performance, so Dancing Item stat block, one hour, obeys commands, so without visibly moving or awakening, something changes about the boulder such that it has the kind of presence of intelligence in a strange and subtle way. I walk around to the other side of it, where I—where I think it's facing now that it has woken and suggests that several of us would like to ride on it, and that we might like it to lift in the air slowly and steadily without upending us, whereupon we'll guide it as to where to go. Can I say all that to it? Yeah, it understands."
+        },
+        {
+          "startUid": "u1083",
+          "endUid": "u1083",
+          "quote": "DM: It obeys your commands. You can command it to do whatever you want and it will do it."
+        },
+        {
+          "startUid": "u1084",
+          "endUid": "u1084",
+          "quote": "Unknown: It's like."
+        },
+        {
+          "startUid": "u1085",
+          "endUid": "u1085",
+          "quote": "Seeker: Is it big enough for all of us?"
+        },
+        {
+          "startUid": "u1086",
+          "endUid": "u1086",
+          "quote": "DM: Ah, I don't think it's big enough for all of you. I would say it's big enough for, like, a dwarf, a halfling and one other creature."
+        },
+        {
+          "startUid": "u1087",
+          "endUid": "u1087",
+          "quote": "Seeker: And—"
+        },
+        {
+          "startUid": "u1088",
+          "endUid": "u1089",
+          "quote": "DM: Plus, if Drikod wants to turn small. Drikod."
+        },
+        {
+          "startUid": "u1090",
+          "endUid": "u1090",
+          "quote": "Delwath: So then somebody else could ride the giant fly and Delwath could save a spell."
+        },
+        {
+          "startUid": "u1403",
+          "endUid": "u1403",
+          "quote": "Seeker: The boulder, we're not all flying out of here unless we fly out of here within less than an hour."
+        },
+        {
+          "startUid": "u1404",
+          "endUid": "u1406",
+          "quote": "DM: Yeah, because you can only do the boulder once per day. Um, as you land, the scarecrow turns and looks at you, and you can see, as it turns, it's, um. Sorry, so it says it's—it almost looks like a human child or halfling-sized wooden puppet made of bleached wood, all white and light gray."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Inferred elapsed animation from one-hour effect and forty-five minutes remaining",
+        "value": 15
+      },
+      "completion": "completed",
+      "actors": [
+        "Seeker"
+      ],
+      "note": "This running spell clock includes the fly encounter and overlaps the flight; do not add it to those intervals."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1600",
+        "endUid": "u1607"
+      },
+      "reading": "Garret’s wooden form changes over three or four minutes after the dispel.",
+      "evidence": [
+        {
+          "startUid": "u1600",
+          "endUid": "u1607",
+          "quote": "DM: That's great. As Seeker holds the statue of Garret Tealeaf and casts this rune on it and sort of stretches the rune from the statue to this wooden scarecrow, you can see the scarecrow begins to melt. Like the wood, all this wood begins to turn almost to liquid, and starting around the eyes you start to see flesh appear as it begins to, like, drip away. Slowly, like it takes, like, three or four minutes for this to happen, and as his face is exposed, um, you see this older halfling man that looks exactly like the statue. And as the last bits of this wood kind of drain off of his body, the statue cracks in half. And he stands up like looking at his hands almost in wonder, tears streaming down his face. Like, just amazed, just staring, like, just staring around staring at his hands."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time",
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true
+      },
+      "completion": "completed",
+      "actors": [
+        "Garret Tealeaf"
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1631",
+        "endUid": "u1632"
+      },
+      "reading": "Delwath begins a ten-minute Detect Magic ritual; later magical inspection establishes its completion.",
+      "evidence": [
+        {
+          "startUid": "u1631",
+          "endUid": "u1631",
+          "quote": "Delwath: What—while these guys are talking, I am going to do the—"
+        },
+        {
+          "startUid": "u1632",
+          "endUid": "u1632",
+          "quote": "Unknown: Ritual, okay."
+        },
+        {
+          "startUid": "u1541",
+          "endUid": "u1545",
+          "quote": "Delwath: You totally—yes, that's a great idea. Okay, so I can—hold on before you cast something that lasts for an hour. I am tempted, I think, being able to see magic will be helpful. But it takes me 10 minutes to turn that ability on. So worth doing that, first, I mean it'll burn some of our time with—"
+        },
+        {
+          "startUid": "u1716",
+          "endUid": "u1717",
+          "quote": "Delwath: What's magic? Anything? Everything? Nice."
+        },
+        {
+          "startUid": "u1718",
+          "endUid": "u1718",
+          "quote": "Wellby: Nice huh."
+        },
+        {
+          "startUid": "u1719",
+          "endUid": "u1720",
+          "quote": "Delwath: Are the chickens magic? So, learn."
+        },
+        {
+          "startUid": "u1721",
+          "endUid": "u1726",
+          "quote": "DM: The door is um—so yeah the whole place seems quite strange. The, like—just looking around everywhere, you can see, I'm—just complete absence of any sign of magic. Like, everywhere you look it's just totally non magical."
+        },
+        {
+          "startUid": "u1727",
+          "endUid": "u1727",
+          "quote": "Drikod: Does—"
+        },
+        {
+          "startUid": "u1728",
+          "endUid": "u1728",
+          "quote": "Delwath: The Drankorian ring I'm wearing that I know is magical?"
+        },
+        {
+          "startUid": "u1729",
+          "endUid": "u1729",
+          "quote": "DM: Not magical."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Ritual duration stated in the same exchange",
+        "value": 10
+      },
+      "completion": "completed",
+      "actors": [
+        "Delwath"
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1769",
+        "endUid": "u1770"
+      },
+      "reading": "Thirty minutes remain on the animated boulder; its running clock has reached about thirty minutes elapsed.",
+      "evidence": [
+        {
+          "startUid": "u1769",
+          "endUid": "u1770",
+          "quote": "DM: You have about half an hour left on the boulder and about 25, 20 minutes left, 25 minutes left on Detect Magic."
+        },
+        {
+          "startUid": "u1074",
+          "endUid": "u1082",
+          "quote": "Seeker: All right, I will inscribe arcane runic magic upon the boulder's surface to animate it. Check off my Animating Performance, so Dancing Item stat block, one hour, obeys commands, so without visibly moving or awakening, something changes about the boulder such that it has the kind of presence of intelligence in a strange and subtle way. I walk around to the other side of it, where I—where I think it's facing now that it has woken and suggests that several of us would like to ride on it, and that we might like it to lift in the air slowly and steadily without upending us, whereupon we'll guide it as to where to go. Can I say all that to it? Yeah, it understands."
+        },
+        {
+          "startUid": "u1083",
+          "endUid": "u1083",
+          "quote": "DM: It obeys your commands. You can command it to do whatever you want and it will do it."
+        },
+        {
+          "startUid": "u1084",
+          "endUid": "u1084",
+          "quote": "Unknown: It's like."
+        },
+        {
+          "startUid": "u1085",
+          "endUid": "u1085",
+          "quote": "Seeker: Is it big enough for all of us?"
+        },
+        {
+          "startUid": "u1086",
+          "endUid": "u1086",
+          "quote": "DM: Ah, I don't think it's big enough for all of you. I would say it's big enough for, like, a dwarf, a halfling and one other creature."
+        },
+        {
+          "startUid": "u1087",
+          "endUid": "u1087",
+          "quote": "Seeker: And—"
+        },
+        {
+          "startUid": "u1088",
+          "endUid": "u1089",
+          "quote": "DM: Plus, if Drikod wants to turn small. Drikod."
+        },
+        {
+          "startUid": "u1090",
+          "endUid": "u1090",
+          "quote": "Delwath: So then somebody else could ride the giant fly and Delwath could save a spell."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "One-hour animation less thirty minutes remaining",
+        "value": 30
+      },
+      "completion": "completed",
+      "note": "Cumulative animation time overlaps t12–t16; it is not an additional half-hour."
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1775",
+        "endUid": "u1778"
+      },
+      "reading": "Garret spends five minutes eating before the well investigation continues.",
+      "evidence": [
+        {
+          "startUid": "u1775",
+          "endUid": "u1778",
+          "quote": "DM: Okay, he sits there for a moment like eating, taking about another five minutes, and then kind of gets up and slowly ambles over towards the well, which is in the back of the house, ties—ties the rope and kind of slides down into the well. Make—he makes himself a little like rope chair to sit on. Seems, um, very good with knots."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time",
+        "value": 5
+      },
+      "completion": "completed",
+      "actors": [
+        "Garret Tealeaf"
+      ]
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u2212",
+        "endUid": "u2212"
+      },
+      "reading": "Ten minutes remain on the animated boulder, so about fifty minutes have elapsed on its running clock.",
+      "evidence": [
+        {
+          "startUid": "u2212",
+          "endUid": "u2212",
+          "quote": "DM: You still have, like, maybe 10 minutes left on the Animate—"
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "One-hour animation less ten minutes remaining",
+        "value": 50
+      },
+      "completion": "completed",
+      "note": "Cumulative animation time, overlapping t12–t18."
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2562",
+        "endUid": "u2566"
+      },
+      "reading": "Seeker spends an unspecified substantial interval examining and identifying the mirror.",
+      "evidence": [
+        {
+          "startUid": "u2562",
+          "endUid": "u2566",
+          "quote": "DM: It's convenient, Seeker, that you only use your skills that you have plus 10. So you spend—you spend it some good amount of time examining the mirror and there's this—there's, there's script running all along the edge of the back of the mirror like in a number of different languages, all kind of blending together in a way that you can't, you can't quite read but it's—but it's obvious that this mirror is, is highly magical and, although you are not entirely sure completely all of its properties. I'm—with the aid of magic and your sort of skill in Arcana, you are able to identify this as a Mirror of Life Trapping. And as such—"
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "text": "some good amount of time",
+        "basis": "DM explicitly narrates time spent examining the mirror"
+      },
+      "completion": "completed",
+      "actors": [
+        "Seeker"
+      ]
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u3120",
+        "endUid": "u3120"
+      },
+      "reading": "Less than five minutes remain on the boulder; its hour is almost spent.",
+      "evidence": [
+        {
+          "startUid": "u3120",
+          "endUid": "u3120",
+          "quote": "DM: I think you've got like maybe less than five minutes left on the rock at this point."
+        }
+      ],
+      "duration": {
+        "min": 55,
+        "minInclusive": false,
+        "max": 60,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Inferred running animation clock from fewer than five minutes remaining"
+      },
+      "completion": "completed",
+      "note": "Cumulative clock; not an extra interval after t19."
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u3368",
+        "endUid": "u3371"
+      },
+      "reading": "The party spends an unquantified interval searching again and finds papers in the bedroom.",
+      "evidence": [
+        {
+          "startUid": "u3368",
+          "endUid": "u3371",
+          "quote": "DM: Um, so, yeah, I mean, you spend some time searching around. There's not a lot of notes. It seemed like she didn't write out contracts, she sort of kept things in her head. Um, you do find a sheaf of papers tucked in the end, in the bedroom that you can grab."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "text": "some time",
+        "basis": "DM narrates the completed additional search"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u3408",
+        "endUid": "u3424"
+      },
+      "reading": "After ferrying everyone and the rescued furniture back to the horse camp, the party arrives around 1:30–2 p.m.",
+      "evidence": [
+        {
+          "startUid": "u3408",
+          "endUid": "u3409",
+          "quote": "DM: So your last trip on the boulder you fly again, leaving the House as it is."
+        },
+        {
+          "startUid": "u3410",
+          "endUid": "u3410",
+          "quote": "Kenzo: Right, right, last, last moment—"
+        },
+        {
+          "startUid": "u3411",
+          "endUid": "u3412",
+          "quote": "DM: [garbled], and then you—where are you making camp?"
+        },
+        {
+          "startUid": "u3413",
+          "endUid": "u3413",
+          "quote": "Kenzo: Why are these questions, saying why are you asking all these questions?"
+        },
+        {
+          "startUid": "u3414",
+          "endUid": "u3414",
+          "quote": "Delwath: I think we should be making camp back at the canyon, wherever we were, like when we were having our—"
+        },
+        {
+          "startUid": "u3415",
+          "endUid": "u3415",
+          "quote": "DM: Site, like three miles away—"
+        },
+        {
+          "startUid": "u3416",
+          "endUid": "u3417",
+          "quote": "Drikod: Yeah yeah. That's where our horses are and the extra food."
+        },
+        {
+          "startUid": "u3418",
+          "endUid": "u3418",
+          "quote": "DM: The extra food is back at Bas Udda, but you have—"
+        },
+        {
+          "startUid": "u3419",
+          "endUid": "u3419",
+          "quote": "Unknown: Oh."
+        },
+        {
+          "startUid": "u3420",
+          "endUid": "u3424",
+          "quote": "DM: With only one extra person, you can squeeze on. That's fine. Oh, you're gonna possibly have more extra people if you turn. So you arrive back at camp. It's like 1:30, two by the time you get there. Garret is just totally wiped out and just slumps against the side of a canyon and, you know, nods off, basically. It's hot, it's tiring work. So what do you want to do?"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "DM’s current-scene anchor",
+          "clock": "13:30"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM’s current-scene anchor",
+          "clock": "14:00"
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t24",
+      "source": {
+        "startUid": "u3460",
+        "endUid": "u3471"
+      },
+      "reading": "The chair’s transformation takes longer than Garret’s three-to-four-minute change; the freed man collapses alive.",
+      "evidence": [
+        {
+          "startUid": "u3460",
+          "endUid": "u3464",
+          "quote": "DM: Okay, so, um, the chair begins to again—it sort of melts the same way as before, um, [garbled], but this takes longer than the scarecrow, and it starts to melt a little bit, and you start to see a face of a middle-aged man, maybe 50 or 60 just sort of start to appear and it's almost like he's, he's—as the wood starts to melt around him, he is like standing in the position of a chair and just falls over backwards, um, basically as soon as the—way, did you set up the mirror so that he's looking straight at the mirror?"
+        },
+        {
+          "startUid": "u3465",
+          "endUid": "u3466",
+          "quote": "Drikod: So, in case something goes wrong. Contingency yeah."
+        },
+        {
+          "startUid": "u3467",
+          "endUid": "u3467",
+          "quote": "Unknown: I'm."
+        },
+        {
+          "startUid": "u3468",
+          "endUid": "u3469",
+          "quote": "DM: [garbled], he just sort of collapses backwards, um, silently moaning slightly, just whimpering slightly, and then kind of doesn't move—"
+        },
+        {
+          "startUid": "u3470",
+          "endUid": "u3470",
+          "quote": "Kenzo: Is he alive?"
+        },
+        {
+          "startUid": "u3471",
+          "endUid": "u3471",
+          "quote": "DM: Yeah he's alive."
+        },
+        {
+          "startUid": "u1600",
+          "endUid": "u1607",
+          "quote": "DM: That's great. As Seeker holds the statue of Garret Tealeaf and casts this rune on it and sort of stretches the rune from the statue to this wooden scarecrow, you can see the scarecrow begins to melt. Like the wood, all this wood begins to turn almost to liquid, and starting around the eyes you start to see flesh appear as it begins to, like, drip away. Slowly, like it takes, like, three or four minutes for this to happen, and as his face is exposed, um, you see this older halfling man that looks exactly like the statue. And as the last bits of this wood kind of drain off of his body, the statue cracks in half. And he stands up like looking at his hands almost in wonder, tears streaming down his face. Like, just amazed, just staring, like, just staring around staring at his hands."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "text": "longer than the scarecrow transformation",
+        "basis": "Explicit comparison with Garret’s transformation; no exact duration stated"
+      },
+      "completion": "completed",
+      "actors": [
+        "Man trapped as the chair"
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute calendar date is spoken. The opening dawn and two next-morning transitions establish three played days; YAML alone supplies June 1–4.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t04",
+      "t06",
+      "t07",
+      "t08",
+      "t23"
+    ],
+    "explanation": "Two overnight transitions are explicit. The opening dawn’s relationship to the YAML start boundary is unresolved, so the transcript does not establish the entire three-boundary YAML span. Missing coverage is not a contradiction; the final camp does not reach another morning."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-030",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+    "sessionYamlSha256": "a76c798d0e9692a236e0fd0a31d9e2d20080596b74857b7bc1f9b774db872163",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-transcript.md",
+    "transcriptSha256": "6f7eb6279b36585a15fcf170b372acd4dd83a0220c4253a521c700dfdcca3f37",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-segments.json",
+      "sha256": "5cf273cf8d74a8788adbd15ad0fdfd6c0ade415228af39637656747c8313ee2b",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Hostile obsidian fly",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Gets the first turn before the lunging fly attacks and hits it with Produce Flame. It is not badly hurt; no damage number is stated.",
+              "evidence": [
+                {
+                  "startUid": "u1140",
+                  "endUid": "u1165"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Mounts the animated boulder and uses a bonus action to command it to squash the fly.",
+              "evidence": [
+                {
+                  "startUid": "u1173",
+                  "endUid": "u1181"
+                }
+              ]
+            },
+            {
+              "actor": "Animated boulder",
+              "kind": "turn",
+              "summary": "Clips the fly with its slam for 8 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1182",
+                  "endUid": "u1203"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Earthen Grasp. The fly fails its Strength saving throw, takes 5 bludgeoning damage, and is restrained.",
+              "evidence": [
+                {
+                  "startUid": "u1204",
+                  "endUid": "u1215"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Speaks telepathically with the beast and attempts intimidation: serve the party or be destroyed. He senses regret and compulsory loyalty to Agata; the fly does not submit. He declines a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u1216",
+                  "endUid": "u1251"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "The spoken reversion command alone has no effect. After the touch requirement is clarified, Kenzo grabs the restrained fly and repeats the command; it shrinks back into its stone figurine.",
+              "evidence": [
+                {
+                  "startUid": "u1252",
+                  "endUid": "u1273"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The fly returns to stone, ending the encounter without killing it. No fly attack or Delwath turn resolves before reversion.",
+        "evidence": [
+          {
+            "startUid": "u1269",
+            "endUid": "u1273"
+          }
+        ]
+      }
+    }
+  ]
+}
