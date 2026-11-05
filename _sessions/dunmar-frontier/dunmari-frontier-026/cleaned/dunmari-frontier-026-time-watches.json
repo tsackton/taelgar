@@ -1,0 +1,154 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-time-markers.json",
+    "sha256": "1853f773bc5d3d04f701bed2d88ff8c1e8bd34d95ed3d8687caed8a62b46d276"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-transcript.md",
+    "sha256": "4fb4a28eb11795bf7ab769f0ae0458c38e6a367f4e02cb8e702d8502a97baf9f"
+  },
+  "dateAssessment": "Working calendar: May 23 is spoken; the year 1748 comes from YAML. The following evening is May 24. The time extraction remains compatible, not matched: the five-day travel retrospective includes resolved training and leaves the formal starting boundary open. Vision-local seasons and sunset are separate; the wrap-up reference to midnight is the real-world session clock.",
+  "watches": [
+    {
+      "day": "Approximately five days before the May 23 opening",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Journey and training occupy the preceding five days; their formal session-boundary status remains open.",
+      "markers": [
+        "t02"
+      ],
+      "scope": "Travel retrospective"
+    },
+    {
+      "day": "May 23, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Long afternoon shadows establish the roadside opening; the patrol approaches within minutes.",
+      "markers": [
+        "t01",
+        "t03"
+      ],
+      "startDate": "1748-05-23",
+      "endDate": "1748-05-23"
+    },
+    {
+      "day": "May 23, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "One-hour ride reaches Karawa; the subsequent temple conference is explicitly corrected to evening.",
+      "markers": [
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-05-23",
+      "endDate": "1748-05-23"
+    },
+    {
+      "day": "May 23, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Camp preparations and the hawk inquiry occur this evening, after the temple conference.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1748-05-23",
+      "endDate": "1748-05-23"
+    },
+    {
+      "day": "Undated glass history",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Many days flicker past; the glass’s destruction falls in late spring or early summer.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "clock": "local",
+      "scope": "Mirror vision"
+    },
+    {
+      "day": "May 23–24, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "A day in town includes the intervening night before the following evening’s ritual.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "startDate": "1748-05-23",
+      "endDate": "1748-05-24"
+    },
+    {
+      "day": "May 24, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The following evening brings the temple ritual; shared visions begin after submersion.",
+      "markers": [
+        "t11",
+        "t12"
+      ],
+      "startDate": "1748-05-24",
+      "endDate": "1748-05-24"
+    },
+    {
+      "day": "Undated shared memories",
+      "startWatch": "dusk",
+      "endWatch": null,
+      "basis": "mixed",
+      "summary": "Shipboard sunset becomes starry night within a vision, without advancing the adventure calendar.",
+      "markers": [
+        "t13"
+      ],
+      "clock": "local",
+      "scope": "Initiation vision",
+      "sourceRanges": [
+        [
+          "u1674",
+          "u1678"
+        ]
+      ]
+    },
+    {
+      "day": "Undated mesa vision",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The mesa vision is explicitly evening; the woman’s plea fades into darkness.",
+      "markers": [
+        "t14"
+      ],
+      "clock": "local",
+      "scope": "Initiation vision"
+    },
+    {
+      "day": "May 24, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Awaken to the attack; ceremony lasts at most about thirty minutes; return after sunset.",
+      "markers": [
+        "t15",
+        "t16",
+        "t17"
+      ],
+      "startDate": "1748-05-24",
+      "endDate": "1748-05-24"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Later Mavdyr identity evidence",
+      "path": "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Scepter of Command Vision.md",
+      "sha256": "cba98291b78c5bf52e2610d7628477249724cc3d2744463debebde73b0c9f0ca"
+    }
+  ]
+}

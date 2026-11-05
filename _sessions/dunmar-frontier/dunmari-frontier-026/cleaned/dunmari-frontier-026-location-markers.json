@@ -1,0 +1,2475 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-026",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-session.yaml",
+    "sessionYamlSha256": "fead6bf1e5877463da7e39ad2eb5350ee4ab19ad751a00eac1c8c23376709513",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-transcript.md",
+    "transcriptSha256": "4fb4a28eb11795bf7ab769f0ae0458c38e6a367f4e02cb8e702d8502a97baf9f"
+  },
+  "places": {
+    "p01": {
+      "label": "Road from Bas Udda to Karawa",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0009",
+          "quote": "DM: Okay, so. Okay, so the sun is just beginning to sink in the sky as you ride along the road from Bas Udda north to Karawa, the Red Mesa looming on your left. It's been—it's May 23, so it's been about five days since you left the company of of Avaras and Pava at the stone house, about 10 days since you fled the orcs outside of Kharsan, and nearly a month since you left Karawa with Havdar to investigate rumors of orcs and the remains of the gnoll bands and whatever else might be lurking in the desert."
+        },
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "DM: The journey over the past five days from the stone house has been largely uneventful, although given the shadow attacks from a week ago, it's hard not to imagine you're seeing movement in the darkness every time you rest. And you've all gotten used to sleeping with the bright light of the drift globes as a constant evening companion. You're down to only three horses and Baxter, the shadows having taken two of them, and so it's been a hot, tiring journey as you've mostly had to walk alongside the animals, who are loaded with water and food for the desert trek."
+        },
+        {
+          "startUid": "u0014",
+          "endUid": "u0016",
+          "quote": "DM: So now, as the long afternoon shadows cast by the Red Mesa begin to stretch across the desert, only a few hours from Karawa—the possibility of a fresh meal, maybe even a bath—you are anticipating your return."
+        }
+      ],
+      "kind": "road"
+    },
+    "p02": {
+      "label": "Karawa",
+      "evidence": [
+        {
+          "startUid": "u0114",
+          "endUid": "u0120",
+          "quote": "DM: So as you ride through town—so, you know, it's—it's still largely in ruins, as it was when you left. But you know there's been some some work to kind of clear some of the grounds a little bit and—and you know set up some temporary camps and things like that. So, so you pass from the east, you pass where the ruins of Ikram's caravanserai is—is—is pretty—that's been sort of taken over by Havdar's troops. The Dunmari camp is set there, um. So of horses, people milling about tending animals, signs of weapons being sharpened and—and armor beaten back into shape."
+        },
+        {
+          "startUid": "u0121",
+          "endUid": "u0125",
+          "quote": "DM: The centaurs are—rather are sort of camp off to the west; you don't pass pass their camp. And then the oasis were—just outside of the temple has been sort of set up as a shelter for many of the mystai who have remained. And they've started constructing, along the ruins of the old temple to the five siblings that was on the edge of the oasis square and was destroyed in the original gnoll attack, kind of a temporary dorm. The centaur and the Dunmari leave you as you approach the mystai camp, where there is some excitement to see you, perhaps having somewhat less confidence in your ability to survive in the desert than the soldiers of Havdar's band, who had seen you in action, so to speak."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+      "kind": "settlement"
+    },
+    "p03": {
+      "label": "Red Mesa",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0009",
+          "quote": "DM: Okay, so. Okay, so the sun is just beginning to sink in the sky as you ride along the road from Bas Udda north to Karawa, the Red Mesa looming on your left. It's been—it's May 23, so it's been about five days since you left the company of of Avaras and Pava at the stone house, about 10 days since you fled the orcs outside of Kharsan, and nearly a month since you left Karawa with Havdar to investigate rumors of orcs and the remains of the gnoll bands and whatever else might be lurking in the desert."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md",
+      "kind": "landform"
+    },
+    "p04": {
+      "label": "Pava and Avaras’ stone house",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0009",
+          "quote": "DM: Okay, so. Okay, so the sun is just beginning to sink in the sky as you ride along the road from Bas Udda north to Karawa, the Red Mesa looming on your left. It's been—it's May 23, so it's been about five days since you left the company of of Avaras and Pava at the stone house, about 10 days since you fled the orcs outside of Kharsan, and nearly a month since you left Karawa with Havdar to investigate rumors of orcs and the remains of the gnoll bands and whatever else might be lurking in the desert."
+        },
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "DM: The journey over the past five days from the stone house has been largely uneventful, although given the shadow attacks from a week ago, it's hard not to imagine you're seeing movement in the darkness every time you rest. And you've all gotten used to sleeping with the bright light of the drift globes as a constant evening companion. You're down to only three horses and Baxter, the shadows having taken two of them, and so it's been a hot, tiring journey as you've mostly had to walk alongside the animals, who are loaded with water and food for the desert trek."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md",
+      "kind": "building"
+    },
+    "p05": {
+      "label": "Bas Udda",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0009",
+          "quote": "DM: Okay, so. Okay, so the sun is just beginning to sink in the sky as you ride along the road from Bas Udda north to Karawa, the Red Mesa looming on your left. It's been—it's May 23, so it's been about five days since you left the company of of Avaras and Pava at the stone house, about 10 days since you fled the orcs outside of Kharsan, and nearly a month since you left Karawa with Havdar to investigate rumors of orcs and the remains of the gnoll bands and whatever else might be lurking in the desert."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Bas Udda.md",
+      "kind": "settlement"
+    },
+    "p06": {
+      "label": "Mystai camp beside the oasis",
+      "evidence": [
+        {
+          "startUid": "u0121",
+          "endUid": "u0125",
+          "quote": "DM: The centaurs are—rather are sort of camp off to the west; you don't pass pass their camp. And then the oasis were—just outside of the temple has been sort of set up as a shelter for many of the mystai who have remained. And they've started constructing, along the ruins of the old temple to the five siblings that was on the edge of the oasis square and was destroyed in the original gnoll attack, kind of a temporary dorm. The centaur and the Dunmari leave you as you approach the mystai camp, where there is some excitement to see you, perhaps having somewhat less confidence in your ability to survive in the desert than the soldiers of Havdar's band, who had seen you in action, so to speak."
+        },
+        {
+          "startUid": "u0126",
+          "endUid": "u0137",
+          "quote": "DM: And there's a fair fair number of mystai who remain. There's probably 40 or so people in this camp, in, you know various kind of setup around the—around the oasis. And as you approach you know, everybody recognizes you and and a sort of call goes out, and you see—um—walking out of the temple Candrosa, who seems quite pleased to see you return. As—so he looks as he approaches, he sort of beckons you forward and he thanks the mystai who have kind of greeted you and taken you here, and he—he's leaning on his staff. He looks exhausted, like circles under his eyes. He's—his robes, is ochre robes, are sort of unkempt. It doesn't look like he's slept much in—in days. And he takes you. He says..."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0114",
+              "endUid": "u0120",
+              "quote": "DM: So as you ride through town—so, you know, it's—it's still largely in ruins, as it was when you left. But you know there's been some some work to kind of clear some of the grounds a little bit and—and you know set up some temporary camps and things like that. So, so you pass from the east, you pass where the ruins of Ikram's caravanserai is—is—is pretty—that's been sort of taken over by Havdar's troops. The Dunmari camp is set there, um. So of horses, people milling about tending animals, signs of weapons being sharpened and—and armor beaten back into shape."
+            },
+            {
+              "startUid": "u0121",
+              "endUid": "u0125",
+              "quote": "DM: The centaurs are—rather are sort of camp off to the west; you don't pass pass their camp. And then the oasis were—just outside of the temple has been sort of set up as a shelter for many of the mystai who have remained. And they've started constructing, along the ruins of the old temple to the five siblings that was on the edge of the oasis square and was destroyed in the original gnoll attack, kind of a temporary dorm. The centaur and the Dunmari leave you as you approach the mystai camp, where there is some excitement to see you, perhaps having somewhat less confidence in your ability to survive in the desert than the soldiers of Havdar's band, who had seen you in action, so to speak."
+            },
+            {
+              "startUid": "u0126",
+              "endUid": "u0137",
+              "quote": "DM: And there's a fair fair number of mystai who remain. There's probably 40 or so people in this camp, in, you know various kind of setup around the—around the oasis. And as you approach you know, everybody recognizes you and and a sort of call goes out, and you see—um—walking out of the temple Candrosa, who seems quite pleased to see you return. As—so he looks as he approaches, he sort of beckons you forward and he thanks the mystai who have kind of greeted you and taken you here, and he—he's leaning on his staff. He looks exhausted, like circles under his eyes. He's—his robes, is ochre robes, are sort of unkempt. It doesn't look like he's slept much in—in days. And he takes you. He says..."
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0121",
+              "endUid": "u0125",
+              "quote": "DM: The centaurs are—rather are sort of camp off to the west; you don't pass pass their camp. And then the oasis were—just outside of the temple has been sort of set up as a shelter for many of the mystai who have remained. And they've started constructing, along the ruins of the old temple to the five siblings that was on the edge of the oasis square and was destroyed in the original gnoll attack, kind of a temporary dorm. The centaur and the Dunmari leave you as you approach the mystai camp, where there is some excitement to see you, perhaps having somewhat less confidence in your ability to survive in the desert than the soldiers of Havdar's band, who had seen you in action, so to speak."
+            },
+            {
+              "startUid": "u0126",
+              "endUid": "u0137",
+              "quote": "DM: And there's a fair fair number of mystai who remain. There's probably 40 or so people in this camp, in, you know various kind of setup around the—around the oasis. And as you approach you know, everybody recognizes you and and a sort of call goes out, and you see—um—walking out of the temple Candrosa, who seems quite pleased to see you return. As—so he looks as he approaches, he sort of beckons you forward and he thanks the mystai who have kind of greeted you and taken you here, and he—he's leaning on his staff. He looks exhausted, like circles under his eyes. He's—his robes, is ochre robes, are sort of unkempt. It doesn't look like he's slept much in—in days. And he takes you. He says..."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Temple of Shakun",
+      "evidence": [
+        {
+          "startUid": "u0138",
+          "endUid": "u0146",
+          "quote": "DM: I am so glad to see you. It has been... The past few days have been—well, sorry, the past month has not been easy. I would speak in private, briefly, I think. There are things we have to discuss. Was leaning on his staff as he kind of walks. So he takes you the same place you've spoken with him before kind of into the temple. And like not—not into the main part of the temple, but there's this like little office, conference room off off on the side as you enter the temple. And he sits and he says—hold on one sec."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "kind": "temple",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0114",
+              "endUid": "u0120",
+              "quote": "DM: So as you ride through town—so, you know, it's—it's still largely in ruins, as it was when you left. But you know there's been some some work to kind of clear some of the grounds a little bit and—and you know set up some temporary camps and things like that. So, so you pass from the east, you pass where the ruins of Ikram's caravanserai is—is—is pretty—that's been sort of taken over by Havdar's troops. The Dunmari camp is set there, um. So of horses, people milling about tending animals, signs of weapons being sharpened and—and armor beaten back into shape."
+            },
+            {
+              "startUid": "u0121",
+              "endUid": "u0125",
+              "quote": "DM: The centaurs are—rather are sort of camp off to the west; you don't pass pass their camp. And then the oasis were—just outside of the temple has been sort of set up as a shelter for many of the mystai who have remained. And they've started constructing, along the ruins of the old temple to the five siblings that was on the edge of the oasis square and was destroyed in the original gnoll attack, kind of a temporary dorm. The centaur and the Dunmari leave you as you approach the mystai camp, where there is some excitement to see you, perhaps having somewhat less confidence in your ability to survive in the desert than the soldiers of Havdar's band, who had seen you in action, so to speak."
+            },
+            {
+              "startUid": "u0126",
+              "endUid": "u0137",
+              "quote": "DM: And there's a fair fair number of mystai who remain. There's probably 40 or so people in this camp, in, you know various kind of setup around the—around the oasis. And as you approach you know, everybody recognizes you and and a sort of call goes out, and you see—um—walking out of the temple Candrosa, who seems quite pleased to see you return. As—so he looks as he approaches, he sort of beckons you forward and he thanks the mystai who have kind of greeted you and taken you here, and he—he's leaning on his staff. He looks exhausted, like circles under his eyes. He's—his robes, is ochre robes, are sort of unkempt. It doesn't look like he's slept much in—in days. And he takes you. He says..."
+            },
+            {
+              "startUid": "u0138",
+              "endUid": "u0146",
+              "quote": "DM: I am so glad to see you. It has been... The past few days have been—well, sorry, the past month has not been easy. I would speak in private, briefly, I think. There are things we have to discuss. Was leaning on his staff as he kind of walks. So he takes you the same place you've spoken with him before kind of into the temple. And like not—not into the main part of the temple, but there's this like little office, conference room off off on the side as you enter the temple. And he sits and he says—hold on one sec."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Candrosa’s side office",
+      "evidence": [
+        {
+          "startUid": "u0138",
+          "endUid": "u0146",
+          "quote": "DM: I am so glad to see you. It has been... The past few days have been—well, sorry, the past month has not been easy. I would speak in private, briefly, I think. There are things we have to discuss. Was leaning on his staff as he kind of walks. So he takes you the same place you've spoken with him before kind of into the temple. And like not—not into the main part of the temple, but there's this like little office, conference room off off on the side as you enter the temple. And he sits and he says—hold on one sec."
+        },
+        {
+          "startUid": "u0147",
+          "endUid": "u0148",
+          "quote": "Kenzo: My Soul Sight. Okay, so second."
+        },
+        {
+          "startUid": "u0149",
+          "endUid": "u0150",
+          "quote": "DM: Sorry, give me one sec. Salsa."
+        },
+        {
+          "startUid": "u0151",
+          "endUid": "u0151",
+          "quote": "Unknown: Okay."
+        },
+        {
+          "startUid": "u0152",
+          "endUid": "u0158",
+          "quote": "DM: So he takes you into this little office and he sits down, puts his staff down, and just kind of pauses for a moment and and and looks at all of you and—and he looks—I mean, when you first met him, you know, he was—this was a, you know he's like the sort of middle-aged guy, but he looked he looked younger. He had sort of a youthful, handsome face sort of, you know, black curly hair without no gray or anything is, you know, um—young-looking skin. He looks like he's aged maybe, you know, 10 years in the past, since you last saw him. It's like Barack Obama before presidency, Barack Obama after presidency."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0138",
+              "endUid": "u0146",
+              "quote": "DM: I am so glad to see you. It has been... The past few days have been—well, sorry, the past month has not been easy. I would speak in private, briefly, I think. There are things we have to discuss. Was leaning on his staff as he kind of walks. So he takes you the same place you've spoken with him before kind of into the temple. And like not—not into the main part of the temple, but there's this like little office, conference room off off on the side as you enter the temple. And he sits and he says—hold on one sec."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Drikod’s camp by the centaurs",
+      "evidence": [
+        {
+          "startUid": "u0498",
+          "endUid": "u0501",
+          "quote": "DM: So you walk through town. Um—walk with Candrosa through the towards the centaurs' camp, where apparently this stoneborn has been staying. Um, and..."
+        },
+        {
+          "startUid": "u0502",
+          "endUid": "u0502",
+          "quote": "Wellby: Oh."
+        },
+        {
+          "startUid": "u0503",
+          "endUid": "u0508",
+          "quote": "DM: And he says, I will let you introduce yourselves, but I will be waiting back at the temple when you're ready to speak more. So, um—John, you see Candrosa and four strangers walking towards your your camp in the—in the over by the centaurs. Would you like to describe what the four of them see as they begin to approach?"
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0498",
+              "endUid": "u0501",
+              "quote": "DM: So you walk through town. Um—walk with Candrosa through the towards the centaurs' camp, where apparently this stoneborn has been staying. Um, and..."
+            },
+            {
+              "startUid": "u0502",
+              "endUid": "u0502",
+              "quote": "Wellby: Oh."
+            },
+            {
+              "startUid": "u0503",
+              "endUid": "u0508",
+              "quote": "DM: And he says, I will let you introduce yourselves, but I will be waiting back at the temple when you're ready to speak more. So, um—John, you see Candrosa and four strangers walking towards your your camp in the—in the over by the centaurs. Would you like to describe what the four of them see as they begin to approach?"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Party camp",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1192",
+          "quote": "DM: So make Animal Handling check. So, you are—you are able to—to, you know, you're skilled enough that you can pretty much always get a hawk to come. You know, some sort of bird or—or, this evening, this time of day is as the rest of you are setting up camp. You know there's some some hawks soaring on there, you know returning to their—to their roosts, and you are able to attract a hawk. Not one that is necessarily very clear and it's—in it's sort of visuals that it that it presents you about the mesa, um. The one thing that you do pick—you don't, you don't get a sense. You don't really get a sense from it. It doesn't really understand the geography of what you're trying to convey about kind of where this place is that you want it to report on, um. You do get a sense that the mesa—the mesa is quiet."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1181",
+              "endUid": "u1192",
+              "quote": "DM: So make Animal Handling check. So, you are—you are able to—to, you know, you're skilled enough that you can pretty much always get a hawk to come. You know, some sort of bird or—or, this evening, this time of day is as the rest of you are setting up camp. You know there's some some hawks soaring on there, you know returning to their—to their roosts, and you are able to attract a hawk. Not one that is necessarily very clear and it's—in it's sort of visuals that it that it presents you about the mesa, um. The one thing that you do pick—you don't, you don't get a sense. You don't really get a sense from it. It doesn't really understand the geography of what you're trying to convey about kind of where this place is that you want it to report on, um. You do get a sense that the mesa—the mesa is quiet."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Storeroom with the mirror",
+      "evidence": [
+        {
+          "startUid": "u1240",
+          "endUid": "u1243",
+          "quote": "DM: So, ah, so the rest of you have seen this before, but but Drikod, you see as the you know you follow them, sort of trailing behind as they approach a store and you go to a store room basically, where you see a bunch of weird stuff. Um—a giant hunk of some sort of metal ore and a like—a wall mirror like a like a full-size mirror frame or the two most notable things stored here. And as—as Delwath holds up these sort of pieces of glass to the mirror like images start flickering in the mirror."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1222",
+              "endUid": "u1222",
+              "quote": "Delwath: While Wellby is off looking at the hawk, I'm going to show the glass blowers broken glass to the mirror."
+            },
+            {
+              "startUid": "u1223",
+              "endUid": "u1224",
+              "quote": "DM: Okay, I'm just—I'm not gonna write this in a message. I'm just gonna say. Yeah, so..."
+            },
+            {
+              "startUid": "u1225",
+              "endUid": "u1225",
+              "quote": "Delwath: John, specifically I'm thinking about..."
+            },
+            {
+              "startUid": "u1226",
+              "endUid": "u1226",
+              "quote": "Unknown: The question."
+            },
+            {
+              "startUid": "u1227",
+              "endUid": "u1227",
+              "quote": "Delwath: How did this all fall? How this gets destroyed?"
+            },
+            {
+              "startUid": "u1228",
+              "endUid": "u1228",
+              "quote": "DM: How did this all—okay, I'm..."
+            },
+            {
+              "startUid": "u1229",
+              "endUid": "u1229",
+              "quote": "Wellby: For the sake of simplicity, can we all just come with you do that?"
+            },
+            {
+              "startUid": "u1230",
+              "endUid": "u1231",
+              "quote": "Delwath: Me. Something's not working with my Beyond20 rolling."
+            },
+            {
+              "startUid": "u1232",
+              "endUid": "u1232",
+              "quote": "Seeker: This being..."
+            },
+            {
+              "startUid": "u1233",
+              "endUid": "u1233",
+              "quote": "Wellby: The same, yeah."
+            },
+            {
+              "startUid": "u1234",
+              "endUid": "u1234",
+              "quote": "Drikod: Yeah, same."
+            },
+            {
+              "startUid": "u1235",
+              "endUid": "u1235",
+              "quote": "DM: Well, just rolling the..."
+            },
+            {
+              "startUid": "u1236",
+              "endUid": "u1236",
+              "quote": "Delwath: [garbled]. I'm..."
+            },
+            {
+              "startUid": "u1237",
+              "endUid": "u1238",
+              "quote": "DM: Just go grab a d20. Okay, there you go."
+            },
+            {
+              "startUid": "u1239",
+              "endUid": "u1239",
+              "quote": "Kenzo: Okay, how...?"
+            },
+            {
+              "startUid": "u1240",
+              "endUid": "u1243",
+              "quote": "DM: So, ah, so the rest of you have seen this before, but but Drikod, you see as the you know you follow them, sort of trailing behind as they approach a store and you go to a store room basically, where you see a bunch of weird stuff. Um—a giant hunk of some sort of metal ore and a like—a wall mirror like a like a full-size mirror frame or the two most notable things stored here. And as—as Delwath holds up these sort of pieces of glass to the mirror like images start flickering in the mirror."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Glassblower’s shop in the vision",
+      "evidence": [
+        {
+          "startUid": "u1253",
+          "endUid": "u1258",
+          "quote": "DM: And then you see flickering flames again. Um sort of in the distance. Like you're in a in a on a shop counter in a stall outside of shop, and it's a building in the distance that's burning. And then a something comes swinging down towards you. It's an axe about the size of somewhere between Kenzo and Drikod."
+        },
+        {
+          "startUid": "u1259",
+          "endUid": "u1259",
+          "quote": "Delwath: Like the axe?"
+        },
+        {
+          "startUid": "u1260",
+          "endUid": "u1260",
+          "quote": "DM: The axe."
+        },
+        {
+          "startUid": "u1261",
+          "endUid": "u1261",
+          "quote": "Delwath: That size?"
+        },
+        {
+          "startUid": "u1262",
+          "endUid": "u1263",
+          "quote": "DM: Swinging down towards the stall, and shatters as the blade of the axe just—it's like the vision of the blade coming straight at your eyes. And then as the blade touches the surface of the mirror, it fades to black."
+        }
+      ],
+      "kind": "shop",
+      "note": "Glass came from Kharsan; the vision itself provides no independently verified location, so this shop is not merged with a canonical building."
+    },
+    "p13": {
+      "label": "Main shrine",
+      "evidence": [
+        {
+          "startUid": "u1583",
+          "endUid": "u1592",
+          "quote": "DM: So as he leads you into the temple, he takes you through into the sort of main hall of the temple, the sort of central sacred space, and he says, “Normally initiates would be blindfolded as they enter, and all would be dark. And they would—the first thing they would see as they enter the under the temple would be the Heart of Shakun. Because the Heart is gone, and because this not is not an initiation ritual, because I've already told you our secrets, I will escort you unblindfolded through the temple.”"
+        },
+        {
+          "startUid": "u1593",
+          "endUid": "u1598",
+          "quote": "DM: And he leads you. So be—so there's where you are right now, where you sort of initially walk in his—you know, his—you sort of pass through. You're sort of in this shrine/temple area. It's a big room stretching back into the into the center of the—of the mesa, and there's light shining from like big—these big columns that light, let light in on the second floor. But on three sides, you know it's inside the mesa, so there's only windows on one side. And on the far wall there are like two archways that lead down into the darkness. And he lights a torch, which which burns with a blue flame."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1570",
+              "endUid": "u1576",
+              "quote": "DM: And he holds out—he has like a bunch of um—sort of pale gray robes, and he he looks at Wellby and at Drikod, it's like—and Seeker, actually—is like, I—I've done what I could. And he asks you to change into these robes. And then he takes this red ochre stone and paints like a crescent on each of your foreheads. And then he leads you into the temple."
+            },
+            {
+              "startUid": "u1577",
+              "endUid": "u1579",
+              "quote": "Kenzo: By the way, it's in this kind of random, but like after my initiations for both Bhishma and Laka, can I can I get like some like weird tattoos or something like that? Like, as we talk about here, is why."
+            },
+            {
+              "startUid": "u1580",
+              "endUid": "u1580",
+              "quote": "DM: Yeah, definitely."
+            },
+            {
+              "startUid": "u1581",
+              "endUid": "u1581",
+              "quote": "Kenzo: Mystai branding."
+            },
+            {
+              "startUid": "u1582",
+              "endUid": "u1582",
+              "quote": "Unknown: Um."
+            },
+            {
+              "startUid": "u1583",
+              "endUid": "u1592",
+              "quote": "DM: So as he leads you into the temple, he takes you through into the sort of main hall of the temple, the sort of central sacred space, and he says, “Normally initiates would be blindfolded as they enter, and all would be dark. And they would—the first thing they would see as they enter the under the temple would be the Heart of Shakun. Because the Heart is gone, and because this not is not an initiation ritual, because I've already told you our secrets, I will escort you unblindfolded through the temple.”"
+            },
+            {
+              "startUid": "u1593",
+              "endUid": "u1598",
+              "quote": "DM: And he leads you. So be—so there's where you are right now, where you sort of initially walk in his—you know, his—you sort of pass through. You're sort of in this shrine/temple area. It's a big room stretching back into the into the center of the—of the mesa, and there's light shining from like big—these big columns that light, let light in on the second floor. But on three sides, you know it's inside the mesa, so there's only windows on one side. And on the far wall there are like two archways that lead down into the darkness. And he lights a torch, which which burns with a blue flame."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1583",
+              "endUid": "u1592",
+              "quote": "DM: So as he leads you into the temple, he takes you through into the sort of main hall of the temple, the sort of central sacred space, and he says, “Normally initiates would be blindfolded as they enter, and all would be dark. And they would—the first thing they would see as they enter the under the temple would be the Heart of Shakun. Because the Heart is gone, and because this not is not an initiation ritual, because I've already told you our secrets, I will escort you unblindfolded through the temple.”"
+            },
+            {
+              "startUid": "u1593",
+              "endUid": "u1598",
+              "quote": "DM: And he leads you. So be—so there's where you are right now, where you sort of initially walk in his—you know, his—you sort of pass through. You're sort of in this shrine/temple area. It's a big room stretching back into the into the center of the—of the mesa, and there's light shining from like big—these big columns that light, let light in on the second floor. But on three sides, you know it's inside the mesa, so there's only windows on one side. And on the far wall there are like two archways that lead down into the darkness. And he lights a torch, which which burns with a blue flame."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Cloister",
+      "evidence": [
+        {
+          "startUid": "u1599",
+          "endUid": "u1603",
+          "quote": "DM: And he takes you down one of these corridors into another room like a sort of almost like an indoor cloisters in some sort of weird sense, that has these large skylights cut into them—into the ceiling like going up hundreds of feet, these shafts into the to the earth. And now, because it's evening, there's only a sort of pale reddish light shining, and everything seems to be glowing slightly with this reddish light. And there's two—one sort of chamb—one passageway that exits leading up, one passage that exits leading down. He points towards the one leading down and says, “Seeker, that is the rock garden. Someday perhaps we'll have time to explore it together and think about its mysteries.”"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1583",
+              "endUid": "u1592",
+              "quote": "DM: So as he leads you into the temple, he takes you through into the sort of main hall of the temple, the sort of central sacred space, and he says, “Normally initiates would be blindfolded as they enter, and all would be dark. And they would—the first thing they would see as they enter the under the temple would be the Heart of Shakun. Because the Heart is gone, and because this not is not an initiation ritual, because I've already told you our secrets, I will escort you unblindfolded through the temple.”"
+            },
+            {
+              "startUid": "u1593",
+              "endUid": "u1598",
+              "quote": "DM: And he leads you. So be—so there's where you are right now, where you sort of initially walk in his—you know, his—you sort of pass through. You're sort of in this shrine/temple area. It's a big room stretching back into the into the center of the—of the mesa, and there's light shining from like big—these big columns that light, let light in on the second floor. But on three sides, you know it's inside the mesa, so there's only windows on one side. And on the far wall there are like two archways that lead down into the darkness. And he lights a torch, which which burns with a blue flame."
+            },
+            {
+              "startUid": "u1599",
+              "endUid": "u1603",
+              "quote": "DM: And he takes you down one of these corridors into another room like a sort of almost like an indoor cloisters in some sort of weird sense, that has these large skylights cut into them—into the ceiling like going up hundreds of feet, these shafts into the to the earth. And now, because it's evening, there's only a sort of pale reddish light shining, and everything seems to be glowing slightly with this reddish light. And there's two—one sort of chamb—one passageway that exits leading up, one passage that exits leading down. He points towards the one leading down and says, “Seeker, that is the rock garden. Someday perhaps we'll have time to explore it together and think about its mysteries.”"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Ritual cave and pool",
+      "evidence": [
+        {
+          "startUid": "u1605",
+          "endUid": "u1616",
+          "quote": "DM: And he leads you forward past the cloisters, going down again um—into a chamber that is dark, a cave glowing only with a faint blue light from four torches lit again around the walls that are casting blue light everywhere. One of the acolytes, um, who is—so the three other initiates who are sort of helping with this ritual have gone ahead. And as you enter the cave, um—one of them is standing with a with a blue—with a mask that makes them seem faceless, and again with a blue torch, and still standing in front of a pool of water. And he or she, it's hard to tell with the mask, thrusts the torch into the pool of water, and it is not extinguished, but the water burst forth in flames and blue lights flickering across the surface."
+        },
+        {
+          "startUid": "u1617",
+          "endUid": "u1629",
+          "quote": "DM: And he walks around to each of you, and he has a bottle of a potion bottle of some sort of thick liquid in his hand, and he holds it up for you each to sip. And he says, “You are stripped bare before the goddess,” as he passes the bottle to each of you. And then Candrosa takes his staff and leads each one of you into this pool, where he touches the like puts you down in the pool so you're laying underwater. But you find it's—it's not clear whether you're breathing water or whether you just don't need to breathe anymore. But you find that the lack of air is no barrier to you. And as he touches his staff to each one of you, you feel—and the fire does not burn. It cast light, but it does not seem to burn you, although you can feel the heat. You feel the pressure of the cool metal touching you, and everything fades to black."
+        }
+      ],
+      "kind": "cave",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1599",
+              "endUid": "u1603",
+              "quote": "DM: And he takes you down one of these corridors into another room like a sort of almost like an indoor cloisters in some sort of weird sense, that has these large skylights cut into them—into the ceiling like going up hundreds of feet, these shafts into the to the earth. And now, because it's evening, there's only a sort of pale reddish light shining, and everything seems to be glowing slightly with this reddish light. And there's two—one sort of chamb—one passageway that exits leading up, one passage that exits leading down. He points towards the one leading down and says, “Seeker, that is the rock garden. Someday perhaps we'll have time to explore it together and think about its mysteries.”"
+            },
+            {
+              "startUid": "u1604",
+              "endUid": "u1604",
+              "quote": "Seeker: I look forward to that day."
+            },
+            {
+              "startUid": "u1605",
+              "endUid": "u1616",
+              "quote": "DM: And he leads you forward past the cloisters, going down again um—into a chamber that is dark, a cave glowing only with a faint blue light from four torches lit again around the walls that are casting blue light everywhere. One of the acolytes, um, who is—so the three other initiates who are sort of helping with this ritual have gone ahead. And as you enter the cave, um—one of them is standing with a with a blue—with a mask that makes them seem faceless, and again with a blue torch, and still standing in front of a pool of water. And he or she, it's hard to tell with the mask, thrusts the torch into the pool of water, and it is not extinguished, but the water burst forth in flames and blue lights flickering across the surface."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u1599",
+              "endUid": "u1603",
+              "quote": "DM: And he takes you down one of these corridors into another room like a sort of almost like an indoor cloisters in some sort of weird sense, that has these large skylights cut into them—into the ceiling like going up hundreds of feet, these shafts into the to the earth. And now, because it's evening, there's only a sort of pale reddish light shining, and everything seems to be glowing slightly with this reddish light. And there's two—one sort of chamb—one passageway that exits leading up, one passage that exits leading down. He points towards the one leading down and says, “Seeker, that is the rock garden. Someday perhaps we'll have time to explore it together and think about its mysteries.”"
+            },
+            {
+              "startUid": "u1604",
+              "endUid": "u1604",
+              "quote": "Seeker: I look forward to that day."
+            },
+            {
+              "startUid": "u1605",
+              "endUid": "u1616",
+              "quote": "DM: And he leads you forward past the cloisters, going down again um—into a chamber that is dark, a cave glowing only with a faint blue light from four torches lit again around the walls that are casting blue light everywhere. One of the acolytes, um, who is—so the three other initiates who are sort of helping with this ritual have gone ahead. And as you enter the cave, um—one of them is standing with a with a blue—with a mask that makes them seem faceless, and again with a blue torch, and still standing in front of a pool of water. And he or she, it's hard to tell with the mask, thrusts the torch into the pool of water, and it is not extinguished, but the water burst forth in flames and blue lights flickering across the surface."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1583",
+              "endUid": "u1592",
+              "quote": "DM: So as he leads you into the temple, he takes you through into the sort of main hall of the temple, the sort of central sacred space, and he says, “Normally initiates would be blindfolded as they enter, and all would be dark. And they would—the first thing they would see as they enter the under the temple would be the Heart of Shakun. Because the Heart is gone, and because this not is not an initiation ritual, because I've already told you our secrets, I will escort you unblindfolded through the temple.”"
+            },
+            {
+              "startUid": "u1593",
+              "endUid": "u1598",
+              "quote": "DM: And he leads you. So be—so there's where you are right now, where you sort of initially walk in his—you know, his—you sort of pass through. You're sort of in this shrine/temple area. It's a big room stretching back into the into the center of the—of the mesa, and there's light shining from like big—these big columns that light, let light in on the second floor. But on three sides, you know it's inside the mesa, so there's only windows on one side. And on the far wall there are like two archways that lead down into the darkness. And he lights a torch, which which burns with a blue flame."
+            },
+            {
+              "startUid": "u1599",
+              "endUid": "u1603",
+              "quote": "DM: And he takes you down one of these corridors into another room like a sort of almost like an indoor cloisters in some sort of weird sense, that has these large skylights cut into them—into the ceiling like going up hundreds of feet, these shafts into the to the earth. And now, because it's evening, there's only a sort of pale reddish light shining, and everything seems to be glowing slightly with this reddish light. And there's two—one sort of chamb—one passageway that exits leading up, one passage that exits leading down. He points towards the one leading down and says, “Seeker, that is the rock garden. Someday perhaps we'll have time to explore it together and think about its mysteries.”"
+            },
+            {
+              "startUid": "u1604",
+              "endUid": "u1604",
+              "quote": "Seeker: I look forward to that day."
+            },
+            {
+              "startUid": "u1605",
+              "endUid": "u1616",
+              "quote": "DM: And he leads you forward past the cloisters, going down again um—into a chamber that is dark, a cave glowing only with a faint blue light from four torches lit again around the walls that are casting blue light everywhere. One of the acolytes, um, who is—so the three other initiates who are sort of helping with this ritual have gone ahead. And as you enter the cave, um—one of them is standing with a with a blue—with a mask that makes them seem faceless, and again with a blue torch, and still standing in front of a pool of water. And he or she, it's hard to tell with the mask, thrusts the torch into the pool of water, and it is not extinguished, but the water burst forth in flames and blue lights flickering across the surface."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Dunmar",
+      "evidence": [
+        {
+          "startUid": "u1637",
+          "endUid": "u1643",
+          "quote": "DM: The land is moving quicker now, a blur almost, as if you are—as if it's like somebody sped up the film. And you begin to drift higher and higher, and you can see across the entire sweep of Dunmar as if you're floating far up in the sky. You can see a river glittering in the distance, tall mountains rising out of the plains to the north, open fields below, tall grass blowing in the wind. Everything seems like you know child's toys laid out below you, and you see the rain falling, a summer thunderstorm washing the earth clean. And as you begin to fall back towards the earth, the image changes."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md",
+      "kind": "region"
+    },
+    "p17": {
+      "label": "Ancient forest",
+      "evidence": [
+        {
+          "startUid": "u1644",
+          "endUid": "u1653",
+          "quote": "DM: And you see the faint flicker of a vast forest of unimaginable trees superimposed on the land, growing above and as part of the plains, stretching as far as you can see, reaching the mountains. Still in shadow, still through a veil, but every now and then pierced by lights, and you can hear the sound of singing in a strange language. Flickering trees slow, and they steady for a moment, almost as if you're paused above the world, and you can see clearly this forest of trees stretching. Until time pauses. And with a flash, ash and fire spreads across the land, and everything is red with the flame. You see nothing but ash and dead trees across the land. You see burning, fighting, the smell of blood and death, until the image fades again."
+        }
+      ],
+      "kind": "forest"
+    },
+    "p18": {
+      "label": "Impossible city",
+      "evidence": [
+        {
+          "startUid": "u1654",
+          "endUid": "u1655",
+          "quote": "DM: And you drift closer, and you're looking at a huge city that's spreading out below you, growing, stretching, covering all that you can see. An impossible city, which then melts and begins to ooze across the land like red blood, until a light cuts across it, water falling, washing it clean."
+        }
+      ],
+      "kind": "city"
+    },
+    "p19": {
+      "label": "Mountain village",
+      "evidence": [
+        {
+          "startUid": "u1665",
+          "endUid": "u1669",
+          "quote": "DM: And then suddenly you feel like you're being stretched in five different directions, almost like you're being pulled apart, until you burst forth, images flashing. Seeing yourself turning the corner on a narrow track high in the mountains, watching small trails of smoke rising in the distance from the cook fires of the small village. And feeling the anticipation of hearing again the sounds of hammers against stone, the soft patter of young feet running over the earth, the background murmur of life. And as you walk forward approaching the village, you take a step and are falling through the mountains, through the stone, emerging on an enormous white fur rug by a fireplace, looking up at a vaulted ceiling covered in complex patterns of tile."
+        }
+      ],
+      "kind": "vision setting"
+    },
+    "p20": {
+      "label": "Lantern on an ancient mantel",
+      "evidence": [
+        {
+          "startUid": "u1670",
+          "endUid": "u1673",
+          "quote": "DM: Until you turn in anticipation as you hear the distant roaring of water growing louder, and then watch as water starts cascading down the facade of the building you are in, a roaring current. And as you are enveloped by the joy of this sight, you notice the water is driving a number of small stone and glass automata, which starts to move. And you're drawn into them, zoom in closer as they begin to come to life. And you are drawn into one of them, a glowing crystal lantern, as your vision pulls out, and you can see now that this lantern is sitting on a beautiful and intricately carved mantel. It seems ancient, and as your gaze falls upon it, you feel a sense of loss and melancholy as you stare at the light."
+        }
+      ],
+      "kind": "vision setting"
+    },
+    "p21": {
+      "label": "Departing ship",
+      "evidence": [
+        {
+          "startUid": "u1674",
+          "endUid": "u1678",
+          "quote": "DM: And as you focus on the light, it becomes the sun setting behind you as you're on a ship at sea, cutting through green waters, watching the waves, the wind in the sails, as you leave the port. Watching the sun set behind you on the shore, a sense of happiness and contentment at setting off for somewhere new. And as the sun sets, the image fades into the night sky full of stars, clear and bright, and a sense of calm washes over you. As for a moment you feel a sense of profound peace, and everything slows and pauses."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true
+    },
+    "p22": {
+      "label": "Heart of the Mountain",
+      "evidence": [
+        {
+          "startUid": "u1679",
+          "endUid": "u1682",
+          "quote": "DM: And your vision clears for a moment, and you see a great empty cavern, vast but dark, the only light coming coming from shimmering crystals surrounding seven carved thrones of stone, an intricate design etched on the rocks below. A strange mineral-y taste in your mouth, almost like placing your tongue against the vein of some metal in an ancient rock face. And as you rushed towards the floor and crashed through it, for the briefest of briefest of moments, you can see everything."
+        },
+        {
+          "startUid": "u2674",
+          "endUid": "u2677",
+          "quote": "Seeker: And then we also saw the seven thrones of the dwarven firstborn. What was that?"
+        },
+        {
+          "startUid": "u2678",
+          "endUid": "u2680",
+          "quote": "DM: I mean, that was—it was what, you know, what Seeker saw as part of—I mean, it was basically Seekers vision of the heart of the mountain when you—when, as part of the dwarven coming of age."
+        },
+        {
+          "startUid": "u2681",
+          "endUid": "u2681",
+          "quote": "Seeker: Oh yeah."
+        },
+        {
+          "startUid": "u2682",
+          "endUid": "u2682",
+          "quote": "DM: I think I messaged you that."
+        },
+        {
+          "startUid": "u2683",
+          "endUid": "u2683",
+          "quote": "Seeker: Right, you didn't—I wasn't sure what that meant."
+        },
+        {
+          "startUid": "u2684",
+          "endUid": "u2684",
+          "quote": "DM: Ah, sorry, I should have reminded you."
+        }
+      ],
+      "vaultPath": "Cosmology/Spiritual Realms/Heart of the Mountain.md",
+      "kind": "divine realm"
+    },
+    "p23": {
+      "label": "Wellspring of Shakun",
+      "evidence": [
+        {
+          "startUid": "u0857",
+          "endUid": "u0858",
+          "quote": "Seeker: Can you tell us about this place that the Oracle was taking it to?"
+        },
+        {
+          "startUid": "u0859",
+          "endUid": "u0861",
+          "quote": "DM: Yes, the—the Wellspring. It's at the southern edge of the of the mesa."
+        },
+        {
+          "startUid": "u0862",
+          "endUid": "u0862",
+          "quote": "Delwath: So that..."
+        },
+        {
+          "startUid": "u0863",
+          "endUid": "u0863",
+          "quote": "DM: Sounds like..."
+        },
+        {
+          "startUid": "u0864",
+          "endUid": "u0864",
+          "quote": "Delwath: That's like—this is the mesa, right? This?"
+        },
+        {
+          "startUid": "u0865",
+          "endUid": "u0880",
+          "quote": "DM: Well, it's not precisely to scale, but yes. It's like it's like 30 to 50 miles, roughly. It's hard to—yeah, maybe like maybe like 40 miles or something, somewhere in that range. It is a—many places around this mesa are sacred to Shakun and have been kept secret and protected for many generations. The—the Wellspring is a hidden grove around a pool that can be reached through steps that lead down into a narrow slot canyon, which continues to the far southern edge of the mesa, where a enormous bowl is open to the sky, maybe 700, 800 feet across. And in the center of that opening in this canyon is this grove."
+        },
+        {
+          "startUid": "u0881",
+          "endUid": "u0881",
+          "quote": "Seeker: So it's reached by going over the top of the mesa?"
+        },
+        {
+          "startUid": "u0882",
+          "endUid": "u0883",
+          "quote": "DM: Yeah, over the top of the mesa, find the stairs, go down the stairs, go through the canyon. Hmm, or, you know, scale down a..."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Shakun’s Wellspring.md",
+      "kind": "sacred site",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0857",
+              "endUid": "u0858",
+              "quote": "Seeker: Can you tell us about this place that the Oracle was taking it to?"
+            },
+            {
+              "startUid": "u0859",
+              "endUid": "u0861",
+              "quote": "DM: Yes, the—the Wellspring. It's at the southern edge of the of the mesa."
+            },
+            {
+              "startUid": "u0862",
+              "endUid": "u0862",
+              "quote": "Delwath: So that..."
+            },
+            {
+              "startUid": "u0863",
+              "endUid": "u0863",
+              "quote": "DM: Sounds like..."
+            },
+            {
+              "startUid": "u0864",
+              "endUid": "u0864",
+              "quote": "Delwath: That's like—this is the mesa, right? This?"
+            },
+            {
+              "startUid": "u0865",
+              "endUid": "u0880",
+              "quote": "DM: Well, it's not precisely to scale, but yes. It's like it's like 30 to 50 miles, roughly. It's hard to—yeah, maybe like maybe like 40 miles or something, somewhere in that range. It is a—many places around this mesa are sacred to Shakun and have been kept secret and protected for many generations. The—the Wellspring is a hidden grove around a pool that can be reached through steps that lead down into a narrow slot canyon, which continues to the far southern edge of the mesa, where a enormous bowl is open to the sky, maybe 700, 800 feet across. And in the center of that opening in this canyon is this grove."
+            },
+            {
+              "startUid": "u0881",
+              "endUid": "u0881",
+              "quote": "Seeker: So it's reached by going over the top of the mesa?"
+            },
+            {
+              "startUid": "u0882",
+              "endUid": "u0883",
+              "quote": "DM: Yeah, over the top of the mesa, find the stairs, go down the stairs, go through the canyon. Hmm, or, you know, scale down a..."
+            }
+          ]
+        }
+      ]
+    },
+    "p24": {
+      "label": "Vaulted room with white fur rug",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1665",
+          "endUid": "u1669",
+          "quote": "DM: And then suddenly you feel like you're being stretched in five different directions, almost like you're being pulled apart, until you burst forth, images flashing. Seeing yourself turning the corner on a narrow track high in the mountains, watching small trails of smoke rising in the distance from the cook fires of the small village. And feeling the anticipation of hearing again the sounds of hammers against stone, the soft patter of young feet running over the earth, the background murmur of life. And as you walk forward approaching the village, you take a step and are falling through the mountains, through the stone, emerging on an enormous white fur rug by a fireplace, looking up at a vaulted ceiling covered in complex patterns of tile."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0016"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Approach Karawa northward on the Bas Udda road, Red Mesa on the left.",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0009",
+          "quote": "DM: Okay, so. Okay, so the sun is just beginning to sink in the sky as you ride along the road from Bas Udda north to Karawa, the Red Mesa looming on your left. It's been—it's May 23, so it's been about five days since you left the company of of Avaras and Pava at the stone house, about 10 days since you fled the orcs outside of Kharsan, and nearly a month since you left Karawa with Havdar to investigate rumors of orcs and the remains of the gnoll bands and whatever else might be lurking in the desert."
+        },
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "DM: The journey over the past five days from the stone house has been largely uneventful, although given the shadow attacks from a week ago, it's hard not to imagine you're seeing movement in the darkness every time you rest. And you've all gotten used to sleeping with the bright light of the drift globes as a constant evening companion. You're down to only three horses and Baxter, the shadows having taken two of them, and so it's been a hot, tiring journey as you've mostly had to walk alongside the animals, who are loaded with water and food for the desert trek."
+        },
+        {
+          "startUid": "u0014",
+          "endUid": "u0016",
+          "quote": "DM: So now, as the long afternoon shadows cast by the Red Mesa begin to stretch across the desert, only a few hours from Karawa—the possibility of a fresh meal, maybe even a bath—you are anticipating your return."
+        }
+      ],
+      "to": "p02",
+      "completion": "underway",
+      "mode": "ride and walk",
+      "route": [
+        {
+          "place": "p01",
+          "reading": "Travel north along the road."
+        },
+        {
+          "place": "p03",
+          "reading": "Mesa looms on the left; not yet entered."
+        }
+      ],
+      "from": null,
+      "note": "The road is named for Bas Udda and Karawa; this passage does not establish a fresh departure from Bas Udda."
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0013"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Recount the five-day journey from the stone house to the current road approach.",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "DM: The journey over the past five days from the stone house has been largely uneventful, although given the shadow attacks from a week ago, it's hard not to imagine you're seeing movement in the darkness every time you rest. And you've all gotten used to sleeping with the bright light of the drift globes as a constant evening companion. You're down to only three horses and Baxter, the shadows having taken two of them, and so it's been a hot, tiring journey as you've mostly had to walk alongside the animals, who are loaded with water and food for the desert trek."
+        }
+      ],
+      "to": "p01",
+      "completion": "arrived",
+      "context": "flashback",
+      "duration": {
+        "value": 5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Past five days; opening about five days."
+      },
+      "mode": "mostly walk",
+      "from": "p04"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0056",
+        "endUid": "u0057"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride with the patrol into Karawa, passing the former caravanserai occupied by Havdar’s troops.",
+      "evidence": [
+        {
+          "startUid": "u0056",
+          "endUid": "u0057",
+          "quote": "DM: So you ride with the messengers for for an hour into town. If you want to ask them any questions, you're certainly welcome to chat with them as you're traveling. Yeah, um, it was..."
+        },
+        {
+          "startUid": "u0114",
+          "endUid": "u0120",
+          "quote": "DM: So as you ride through town—so, you know, it's—it's still largely in ruins, as it was when you left. But you know there's been some some work to kind of clear some of the grounds a little bit and—and you know set up some temporary camps and things like that. So, so you pass from the east, you pass where the ruins of Ikram's caravanserai is—is—is pretty—that's been sort of taken over by Havdar's troops. The Dunmari camp is set there, um. So of horses, people milling about tending animals, signs of weapons being sharpened and—and armor beaten back into shape."
+        }
+      ],
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "ride",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Narrated elapsed duration"
+      },
+      "route": [
+        {
+          "reading": "Pass the ruined caravanserai and Dunmari camp without a distinct stop."
+        }
+      ],
+      "from": "p01"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0121",
+        "endUid": "u0137"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Bypass the centaur camp and reach the mystai camp beside the oasis to greet Candrosa.",
+      "evidence": [
+        {
+          "startUid": "u0121",
+          "endUid": "u0125",
+          "quote": "DM: The centaurs are—rather are sort of camp off to the west; you don't pass pass their camp. And then the oasis were—just outside of the temple has been sort of set up as a shelter for many of the mystai who have remained. And they've started constructing, along the ruins of the old temple to the five siblings that was on the edge of the oasis square and was destroyed in the original gnoll attack, kind of a temporary dorm. The centaur and the Dunmari leave you as you approach the mystai camp, where there is some excitement to see you, perhaps having somewhat less confidence in your ability to survive in the desert than the soldiers of Havdar's band, who had seen you in action, so to speak."
+        },
+        {
+          "startUid": "u0126",
+          "endUid": "u0137",
+          "quote": "DM: And there's a fair fair number of mystai who remain. There's probably 40 or so people in this camp, in, you know various kind of setup around the—around the oasis. And as you approach you know, everybody recognizes you and and a sort of call goes out, and you see—um—walking out of the temple Candrosa, who seems quite pleased to see you return. As—so he looks as he approaches, he sort of beckons you forward and he thanks the mystai who have kind of greeted you and taken you here, and he—he's leaning on his staff. He looks exhausted, like circles under his eyes. He's—his robes, is ochre robes, are sort of unkempt. It doesn't look like he's slept much in—in days. And he takes you. He says..."
+        }
+      ],
+      "to": "p06",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "The western centaur camp is passed over for now."
+        }
+      ],
+      "from": "p02"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0138",
+        "endUid": "u0146"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Candrosa leads the party into his temple side office for the conference.",
+      "evidence": [
+        {
+          "startUid": "u0138",
+          "endUid": "u0146",
+          "quote": "DM: I am so glad to see you. It has been... The past few days have been—well, sorry, the past month has not been easy. I would speak in private, briefly, I think. There are things we have to discuss. Was leaning on his staff as he kind of walks. So he takes you the same place you've spoken with him before kind of into the temple. And like not—not into the main part of the temple, but there's this like little office, conference room off off on the side as you enter the temple. And he sits and he says—hold on one sec."
+        }
+      ],
+      "to": "p08",
+      "completion": "arrived",
+      "from": "p06"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0484",
+        "endUid": "u0508"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Walk back through town to meet Drikod at his camp beside the centaurs.",
+      "evidence": [
+        {
+          "startUid": "u0484",
+          "endUid": "u0486",
+          "quote": "DM: OK so anything else you want to ask Candrosa as he starts to lead you towards the centaurs' camp?"
+        },
+        {
+          "startUid": "u0487",
+          "endUid": "u0492",
+          "quote": "Wellby: I think Wellby's gonna tell Candrosa—because it's really feeling like Candrosa this failure, like sense of his own failure, and Wellby has a very like sort of fatalistic attitude of like everything that's happened it's just what's supposed to be happening. So I think he's gonna say to Candrosa something like, that—Candrosa, don't—don't doubt your god in putting you here in this moment. I can't possibly imagine why. But surely if things were meant to be otherwise, that would be."
+        },
+        {
+          "startUid": "u0493",
+          "endUid": "u0494",
+          "quote": "DM: Maybe. Like, not totally convinced, but I appreciate the effort."
+        },
+        {
+          "startUid": "u0495",
+          "endUid": "u0496",
+          "quote": "Wellby: Wellby shakes his head. Surely I have no relationship with Shakun whatsoever at all, can't have more faith in their judgment than you. And I'll laugh and leave it at that."
+        },
+        {
+          "startUid": "u0497",
+          "endUid": "u0497",
+          "quote": "DM: Okay, so um."
+        },
+        {
+          "startUid": "u0498",
+          "endUid": "u0501",
+          "quote": "DM: So you walk through town. Um—walk with Candrosa through the towards the centaurs' camp, where apparently this stoneborn has been staying. Um, and..."
+        },
+        {
+          "startUid": "u0502",
+          "endUid": "u0502",
+          "quote": "Wellby: Oh."
+        },
+        {
+          "startUid": "u0503",
+          "endUid": "u0508",
+          "quote": "DM: And he says, I will let you introduce yourselves, but I will be waiting back at the temple when you're ready to speak more. So, um—John, you see Candrosa and four strangers walking towards your your camp in the—in the over by the centaurs. Would you like to describe what the four of them see as they begin to approach?"
+        },
+        {
+          "startUid": "u0526",
+          "endUid": "u0530",
+          "quote": "Wellby: So Wellby's a halfling. He's about three feet tall, so looking up, up at you. With studded leather armor on top and a backpack with everything sort of neatly tucked and packed away just so, with a lot of care. Quiver of arrows on one hip and the hilt of a shortsword sticking behind the shoulder. With a homemade keffiyeh wrapped around his head, and and clearly long time traveling in the desert."
+        },
+        {
+          "startUid": "u0531",
+          "endUid": "u0536",
+          "quote": "Wellby: He's trailed just behind him by an eight-foot-tall—seven-foot-tall—giant flightless bird that's sort of like a cross between an ostrich and one of those extinct terror birds. It's an axe beak with this enormous, giant attack beak that every so often will bend down and nuzzle and try and find treats out of his hand. And he'll raise a hand and—stoneborn have their own language, presumably?"
+        }
+      ],
+      "to": "p09",
+      "completion": "arrived",
+      "note": "Drikod is present at the destination; he was not a companion on the outward walk.",
+      "from": "p08"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0616",
+        "endUid": "u0641"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party, now including Drikod, returns to the same temple chamber.",
+      "evidence": [
+        {
+          "startUid": "u0616",
+          "endUid": "u0616",
+          "quote": "Drikod: So we go back to the temple."
+        },
+        {
+          "startUid": "u0617",
+          "endUid": "u0617",
+          "quote": "Kenzo: You know how to use that thing? Kenzo is pointing at your staff."
+        },
+        {
+          "startUid": "u0618",
+          "endUid": "u0619",
+          "quote": "Drikod: Somewhat. A little better. It helps me walk, no?"
+        },
+        {
+          "startUid": "u0620",
+          "endUid": "u0620",
+          "quote": "Kenzo: You can't—you can't spar with that?"
+        },
+        {
+          "startUid": "u0621",
+          "endUid": "u0621",
+          "quote": "Drikod: There's no need to spar."
+        },
+        {
+          "startUid": "u0622",
+          "endUid": "u0624",
+          "quote": "Kenzo: You change your mind. Oh, always need sparring partners, especially ones—now that I can get big myself."
+        },
+        {
+          "startUid": "u0625",
+          "endUid": "u0625",
+          "quote": "DM: You've been even bigger than..."
+        },
+        {
+          "startUid": "u0626",
+          "endUid": "u0626",
+          "quote": "Unknown: Then."
+        },
+        {
+          "startUid": "u0627",
+          "endUid": "u0627",
+          "quote": "Kenzo: How big is that Enlarge spell make me—how?"
+        },
+        {
+          "startUid": "u0628",
+          "endUid": "u0628",
+          "quote": "Seeker: It's a two X, yeah."
+        },
+        {
+          "startUid": "u0629",
+          "endUid": "u0629",
+          "quote": "DM: Yeah, so like 12 feet tall. That's great."
+        },
+        {
+          "startUid": "u0630",
+          "endUid": "u0641",
+          "quote": "DM: Um, so you—as you walk back through—through camp, you get the sense that, like a number of the centaurs are sort of familiar with with Drikod, and a few wave and say hi and—as he walks past it until you come back to the temple. And, and Candrosa is is waiting in the—in the sort of chamber, chamber room as you all enter and—and he says, “You have met. I'm glad. I will—I will tell the story now, and I will try to give you as much detail as I can. But...”"
+        }
+      ],
+      "to": "p08",
+      "completion": "arrived",
+      "from": "p09"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0857",
+        "endUid": "u0883"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Candrosa describes the route to the Wellspring: southern mesa, stairs, slot canyon and hidden bowl.",
+      "evidence": [
+        {
+          "startUid": "u0857",
+          "endUid": "u0858",
+          "quote": "Seeker: Can you tell us about this place that the Oracle was taking it to?"
+        },
+        {
+          "startUid": "u0859",
+          "endUid": "u0861",
+          "quote": "DM: Yes, the—the Wellspring. It's at the southern edge of the of the mesa."
+        },
+        {
+          "startUid": "u0862",
+          "endUid": "u0862",
+          "quote": "Delwath: So that..."
+        },
+        {
+          "startUid": "u0863",
+          "endUid": "u0863",
+          "quote": "DM: Sounds like..."
+        },
+        {
+          "startUid": "u0864",
+          "endUid": "u0864",
+          "quote": "Delwath: That's like—this is the mesa, right? This?"
+        },
+        {
+          "startUid": "u0865",
+          "endUid": "u0880",
+          "quote": "DM: Well, it's not precisely to scale, but yes. It's like it's like 30 to 50 miles, roughly. It's hard to—yeah, maybe like maybe like 40 miles or something, somewhere in that range. It is a—many places around this mesa are sacred to Shakun and have been kept secret and protected for many generations. The—the Wellspring is a hidden grove around a pool that can be reached through steps that lead down into a narrow slot canyon, which continues to the far southern edge of the mesa, where a enormous bowl is open to the sky, maybe 700, 800 feet across. And in the center of that opening in this canyon is this grove."
+        },
+        {
+          "startUid": "u0881",
+          "endUid": "u0881",
+          "quote": "Seeker: So it's reached by going over the top of the mesa?"
+        },
+        {
+          "startUid": "u0882",
+          "endUid": "u0883",
+          "quote": "DM: Yeah, over the top of the mesa, find the stairs, go down the stairs, go through the canyon. Hmm, or, you know, scale down a..."
+        }
+      ],
+      "to": "p23",
+      "completion": "planned",
+      "context": "planned",
+      "route": [
+        {
+          "place": "p03",
+          "reading": "Proposed crossing of the mesa; no current visit."
+        },
+        {
+          "reading": "Find stairs and a slot canyon leading to a bowl and pool."
+        }
+      ],
+      "distance": {
+        "min": 30,
+        "minInclusive": true,
+        "max": 50,
+        "maxInclusive": true,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Candrosa’s estimated distance, repeated at u0973–u0974."
+      },
+      "from": "p02"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1181",
+        "endUid": "u1192"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby conducts his hawk inquiry while camp is being set up.",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1192",
+          "quote": "DM: So make Animal Handling check. So, you are—you are able to—to, you know, you're skilled enough that you can pretty much always get a hawk to come. You know, some sort of bird or—or, this evening, this time of day is as the rest of you are setting up camp. You know there's some some hawks soaring on there, you know returning to their—to their roosts, and you are able to attract a hawk. Not one that is necessarily very clear and it's—in it's sort of visuals that it that it presents you about the mesa, um. The one thing that you do pick—you don't, you don't get a sense. You don't really get a sense from it. It doesn't really understand the geography of what you're trying to convey about kind of where this place is that you want it to report on, um. You do get a sense that the mesa—the mesa is quiet."
+        }
+      ],
+      "place": "p10"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1193",
+        "endUid": "u1204"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "The hawk reports skeletal humanoids in the southern mesa; it cannot identify an exact destination.",
+      "evidence": [
+        {
+          "startUid": "u1193",
+          "endUid": "u1201",
+          "quote": "DM: It's, you know, there's there's a case you know there's like vultures, but it's hard for for things. Mostly it's hard for things to get up there. Um—the one odd thing that you—the one odd thing that you—you do sort of getting a bit of a visual of is, somewhere towards the south of the of the mesa, some, you know, some sort of creature it's never seen before. Something that is more bones than flesh, just kind of lingering there, been there for weeks on the southern edge of the mesa—mesa, like, several of these creatures that doesn't have a good sense of numbers, but it's more than four and less than 100."
+        },
+        {
+          "startUid": "u1202",
+          "endUid": "u1202",
+          "quote": "Unknown: Some..."
+        },
+        {
+          "startUid": "u1203",
+          "endUid": "u1203",
+          "quote": "Kenzo: Bones of what? Skeletons of beasts? Humans? Even though it's..."
+        },
+        {
+          "startUid": "u1204",
+          "endUid": "u1204",
+          "quote": "DM: Like humanoid skeleton I mean, it's a hawk. It doesn't have a clear—non-animal."
+        }
+      ],
+      "place": "p03",
+      "mode": "remote",
+      "observerPlace": "p10",
+      "note": "Animal impressions are a report, not Wellby’s physical presence on the mesa."
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1240",
+        "endUid": "u1243"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All five companions gather in the storeroom to examine the broken glass in the mirror.",
+      "evidence": [
+        {
+          "startUid": "u1240",
+          "endUid": "u1243",
+          "quote": "DM: So, ah, so the rest of you have seen this before, but but Drikod, you see as the you know you follow them, sort of trailing behind as they approach a store and you go to a store room basically, where you see a bunch of weird stuff. Um—a giant hunk of some sort of metal ore and a like—a wall mirror like a like a full-size mirror frame or the two most notable things stored here. And as—as Delwath holds up these sort of pieces of glass to the mirror like images start flickering in the mirror."
+        }
+      ],
+      "to": "p11",
+      "completion": "arrived",
+      "from": null
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1253",
+        "endUid": "u1267"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See a shop stall destroyed by an enormous axe through the glass’s history.",
+      "evidence": [
+        {
+          "startUid": "u1253",
+          "endUid": "u1258",
+          "quote": "DM: And then you see flickering flames again. Um sort of in the distance. Like you're in a in a on a shop counter in a stall outside of shop, and it's a building in the distance that's burning. And then a something comes swinging down towards you. It's an axe about the size of somewhere between Kenzo and Drikod."
+        },
+        {
+          "startUid": "u1259",
+          "endUid": "u1259",
+          "quote": "Delwath: Like the axe?"
+        },
+        {
+          "startUid": "u1260",
+          "endUid": "u1260",
+          "quote": "DM: The axe."
+        },
+        {
+          "startUid": "u1261",
+          "endUid": "u1261",
+          "quote": "Delwath: That size?"
+        },
+        {
+          "startUid": "u1262",
+          "endUid": "u1263",
+          "quote": "DM: Swinging down towards the stall, and shatters as the blade of the axe just—it's like the vision of the blade coming straight at your eyes. And then as the blade touches the surface of the mirror, it fades to black."
+        },
+        {
+          "startUid": "u1264",
+          "endUid": "u1264",
+          "quote": "Delwath: No clue as to what's carrying the axe the size of a person?"
+        },
+        {
+          "startUid": "u1265",
+          "endUid": "u1265",
+          "quote": "DM: You, you are not able to see that."
+        },
+        {
+          "startUid": "u1266",
+          "endUid": "u1266",
+          "quote": "Seeker: Oh."
+        },
+        {
+          "startUid": "u1267",
+          "endUid": "u1267",
+          "quote": "DM: But it is an axe the size of a person, so..."
+        }
+      ],
+      "place": "p12",
+      "mode": "vision",
+      "observerPlace": "p11",
+      "context": "vision"
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u1430",
+        "endUid": "u1481"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Downtime and the barding commission occur in Karawa; the craftsman’s exact workshop is not established.",
+      "evidence": [
+        {
+          "startUid": "u1430",
+          "endUid": "u1430",
+          "quote": "DM: So all right, so you have basically a day in town if there's anything you want to do. Um—also, we can just skip right over that if..."
+        },
+        {
+          "startUid": "u1431",
+          "endUid": "u1431",
+          "quote": "Delwath: I'm—I know I'd like to talk to Tharandros briefly."
+        },
+        {
+          "startUid": "u1432",
+          "endUid": "u1432",
+          "quote": "DM: Tharandros."
+        },
+        {
+          "startUid": "u1433",
+          "endUid": "u1433",
+          "quote": "Delwath: Tharandros."
+        },
+        {
+          "startUid": "u1434",
+          "endUid": "u1434",
+          "quote": "Drikod: The centaur, yeah."
+        },
+        {
+          "startUid": "u1435",
+          "endUid": "u1435",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u1436",
+          "endUid": "u1436",
+          "quote": "Wellby: Like to see if I can adapt horse barding, if the Dunmari use it, for Baxter."
+        },
+        {
+          "startUid": "u1437",
+          "endUid": "u1437",
+          "quote": "DM: Yeah, definitely."
+        },
+        {
+          "startUid": "u1438",
+          "endUid": "u1438",
+          "quote": "Wellby: It's like horse armor."
+        },
+        {
+          "startUid": "u1439",
+          "endUid": "u1439",
+          "quote": "Seeker: Oh, that's..."
+        },
+        {
+          "startUid": "u1440",
+          "endUid": "u1440",
+          "quote": "Delwath: A good use of armor."
+        },
+        {
+          "startUid": "u1441",
+          "endUid": "u1441",
+          "quote": "Drikod: Baxter's your horse or the bird?"
+        },
+        {
+          "startUid": "u1442",
+          "endUid": "u1442",
+          "quote": "Seeker: Axe beak."
+        },
+        {
+          "startUid": "u1443",
+          "endUid": "u1443",
+          "quote": "Wellby: Yeah, Baxter the axe beak."
+        },
+        {
+          "startUid": "u1444",
+          "endUid": "u1444",
+          "quote": "Delwath: He rides the bird. Sounds—so you basically have a choco."
+        },
+        {
+          "startUid": "u1445",
+          "endUid": "u1445",
+          "quote": "Wellby: Choco—that's...?"
+        },
+        {
+          "startUid": "u1446",
+          "endUid": "u1446",
+          "quote": "Drikod: Like Final Fantasy. They're giant birds you ride and can have barding."
+        },
+        {
+          "startUid": "u1447",
+          "endUid": "u1447",
+          "quote": "Wellby: Oh yeah, totally."
+        },
+        {
+          "startUid": "u1448",
+          "endUid": "u1450",
+          "quote": "DM: Yeah, it's basically that, yes. Um, okay, so let's see, ah. Anyone else want to do anything? I..."
+        },
+        {
+          "startUid": "u1451",
+          "endUid": "u1451",
+          "quote": "Kenzo: Guess, they can get more potions and stuff like this? We don't, like..."
+        },
+        {
+          "startUid": "u1452",
+          "endUid": "u1452",
+          "quote": "Unknown: I mean..."
+        },
+        {
+          "startUid": "u1453",
+          "endUid": "u1454",
+          "quote": "DM: The mesa has stopped producing potions, so now. Yeah I mean that's the problem."
+        },
+        {
+          "startUid": "u1455",
+          "endUid": "u1455",
+          "quote": "Kenzo: Doesn't—doesn't Candrosa feel really bad for like you know being deceptive to us for like months and, like...?"
+        },
+        {
+          "startUid": "u1456",
+          "endUid": "u1458",
+          "quote": "DM: He's given his whole stock to Havdar in the end. I mean, it—he gave you a bunch early on, and that was after it was—had already stopped producing more. So in retrospect, more generous than it seemed at the time. But now he has no more spare potions. There's not much to be had in town, I mean, there's basically just Havdar's camp in the centaurs."
+        },
+        {
+          "startUid": "u1459",
+          "endUid": "u1465",
+          "quote": "DM: Okay, so let's see, um. Wellby, it is certainly possible to adapt horse armor. There's not a lot of horse armor to spare—well, actually, that's not true. Enough people have died that there is actually a horse armor to spare. So it just is somebody's time to to you know craft at which is, you know, probably take a few days, and ideally they you know, ask for a favor or something in return, if you have anything to trade."
+        },
+        {
+          "startUid": "u1466",
+          "endUid": "u1466",
+          "quote": "Kenzo: We have like a lot of money, like..."
+        },
+        {
+          "startUid": "u1467",
+          "endUid": "u1467",
+          "quote": "Delwath: We have a lot of money."
+        },
+        {
+          "startUid": "u1468",
+          "endUid": "u1468",
+          "quote": "DM: I don't think you have that much money."
+        },
+        {
+          "startUid": "u1469",
+          "endUid": "u1469",
+          "quote": "Kenzo: Yeah, but like treasure."
+        },
+        {
+          "startUid": "u1470",
+          "endUid": "u1470",
+          "quote": "DM: Wellby's got like random trinkets and things."
+        },
+        {
+          "startUid": "u1471",
+          "endUid": "u1471",
+          "quote": "Wellby: I do have random things, but I think what I'll offer them is a map, a copy of a map of everywhere we've been between here and Kharsan."
+        },
+        {
+          "startUid": "u1472",
+          "endUid": "u1472",
+          "quote": "DM: Oh, that he..."
+        },
+        {
+          "startUid": "u1473",
+          "endUid": "u1473",
+          "quote": "Seeker: Definitely will take that. Nice."
+        },
+        {
+          "startUid": "u1474",
+          "endUid": "u1476",
+          "quote": "DM: Um, but it'll take—it'll take a couple of—it'll take probably three days. It takes—takes the first day to like..."
+        },
+        {
+          "startUid": "u1477",
+          "endUid": "u1477",
+          "quote": "Wellby: A holiday this week."
+        },
+        {
+          "startUid": "u1478",
+          "endUid": "u1479",
+          "quote": "DM: It takes the first day to like get—to get things fit and kind of set up, but then it's going to take another couple of days to kind of get it into shape. So it'll be—it'll be like two, three days from now before you can you actually can use the..."
+        },
+        {
+          "startUid": "u1480",
+          "endUid": "u1480",
+          "quote": "Wellby: Maybe when we get back."
+        },
+        {
+          "startUid": "u1481",
+          "endUid": "u1481",
+          "quote": "DM: Together—definitely when you get back, unless something goes horribly wrong."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1499",
+        "endUid": "u1516"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath speaks with Tharandros during the Karawa downtime; the specific camp or room is not stated.",
+      "evidence": [
+        {
+          "startUid": "u1499",
+          "endUid": "u1500",
+          "quote": "DM: Um. Okay, so speaking to Tharandros, just in the interest of time like what do you, what is your...?"
+        },
+        {
+          "startUid": "u1501",
+          "endUid": "u1505",
+          "quote": "Delwath: Um, we don't have to role play it out. I just wanted to confirm that he—that Candrosa talk to him. Yes. Yeah, and when we last talked, when we left, he had asked us to share information. And I mean Delwath will tell the story of—he was telling us about the Heart, I mean, we had learned the secret from Candrosa, right like I have no issue telling, right?"
+        },
+        {
+          "startUid": "u1506",
+          "endUid": "u1508",
+          "quote": "DM: Yeah, right, right, he's heard this. He says he has heard this story, he has heard this from Candrosa, and many things makes sense now. He is uncertain as to whether it is wise to reveal this information further."
+        },
+        {
+          "startUid": "u1509",
+          "endUid": "u1510",
+          "quote": "Delwath: And the big thing I want to know is if this—is what he thinks—last time we talked he talked very eloquently about there being something wrong here, this—is this it? Is this what he thinks is wrong, the walk—the lack of the Heart?"
+        },
+        {
+          "startUid": "u1511",
+          "endUid": "u1515",
+          "quote": "DM: Yes. Yes. I mean he he felt something—he felt an absence very strong, and that's what he feels. This is what he thinks this is missing, some some divine presence that should be here. And he asked if you've noticed the mesa is hurting. He says the mesa is suffering."
+        },
+        {
+          "startUid": "u1516",
+          "endUid": "u1516",
+          "quote": "Seeker: Oh yes, it's wearing far faster than you might think."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1518",
+        "endUid": "u1534"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo climbs to the top of the mesa in several bounds.",
+      "evidence": [
+        {
+          "startUid": "u1518",
+          "endUid": "u1518",
+          "quote": "Kenzo: How tall is the mesa?"
+        },
+        {
+          "startUid": "u1519",
+          "endUid": "u1519",
+          "quote": "DM: How tall is the mesa? Yeah, between 200 and 400 feet."
+        },
+        {
+          "startUid": "u1520",
+          "endUid": "u1520",
+          "quote": "Kenzo: Think Kenzo would practice like running up the mesa."
+        },
+        {
+          "startUid": "u1521",
+          "endUid": "u1521",
+          "quote": "DM: Well, there's a path that leads up near the temple that you know of."
+        },
+        {
+          "startUid": "u1522",
+          "endUid": "u1522",
+          "quote": "Kenzo: No, like like he wants to like jump up it like like do some crazy like kung fu shit like fucking practice like jumping."
+        },
+        {
+          "startUid": "u1523",
+          "endUid": "u1523",
+          "quote": "DM: Right, okay."
+        },
+        {
+          "startUid": "u1524",
+          "endUid": "u1524",
+          "quote": "Kenzo: Ah jump in parkour. Parkour, jumping up."
+        },
+        {
+          "startUid": "u1525",
+          "endUid": "u1526",
+          "quote": "DM: Is—yeah, I mean that's enough handholds and things. Make an Acrobatics check. Yes, with advantage because of your ring of jumping."
+        },
+        {
+          "startUid": "u1527",
+          "endUid": "u1528",
+          "quote": "Kenzo: The one skill, but actually have a plus seven at that I like don't use enough. I'm going to do fighting. I rolled 25 or higher [garbled]."
+        },
+        {
+          "startUid": "u1529",
+          "endUid": "u1532",
+          "quote": "DM: Miles—yeah, I mean you know you you you sort of—you're not quite good enough to run up straight walls. You'll be—you'll get that power later. But when when there's you know footholds that you can end like there's like ledges and cliffs and things, and you can you can jump you know pretty far, especially if you're, you know—you know, with your ring and and you can you can jump you know you can make it up in three or four big bounds, maybe a few more than that. But yeah, okay look pretty impressive."
+        },
+        {
+          "startUid": "u1533",
+          "endUid": "u1534",
+          "quote": "Kenzo: Yeah, I just wanted like you know Kenzo wants to practice doing this shit like like you know mountain parkour if we—if we ever end up in a city, that'd be cool like, parkour, roofs and buildings like you know set the thing. So nice."
+        }
+      ],
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "jump and climb",
+      "from": "p02"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1539",
+        "endUid": "u1598"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns the following evening, receives robes, and enters the main shrine within the mesa.",
+      "evidence": [
+        {
+          "startUid": "u1539",
+          "endUid": "u1543",
+          "quote": "DM: The following evening, you return to the temple, and Candrosa is there along with a couple other mystai of Shakun, they are wearing—they are both wearing—um—all of them are wearing these ochre robes. Candrosa is carrying his staff, but the other three mystai are you know carrying nothing, just just the robes. And, and Candrosa says to you as you approach..."
+        },
+        {
+          "startUid": "u1544",
+          "endUid": "u1557",
+          "quote": "DM: As part of our usual initiation into the mysteries of the goddess Shakun, we are exposed, we are become in some real way... And he sort of stops. I—I need to show you. This will not be the—this is not the full initiation, because the full initiation into the mystai is not possible without the Heart. Hope maybe you can understand how its absence has affected us. I think without it, maybe it is hard even for me to think straight, having so long been in the presence of its magic. And while I cannot perform the full ritual for you, I can do enough to show you to show you the magic of the Heart, even its absence. And hopefully then you will see how it works and why it is important."
+        },
+        {
+          "startUid": "u1558",
+          "endUid": "u1569",
+          "quote": "DM: And I should warn you: part of the magic of this place, part of the ritual of—of the initiation, is tying us mystai together in a shared experience of Dunmar, by sharing all our experiences together of this place we have called home for generations. None of you grew up in this land, and I do not know exactly what will happen, as—for this part of the ritual. I can promise no harm will come to you. I do not know what you will see. Are you prepared to go forward?"
+        },
+        {
+          "startUid": "u1570",
+          "endUid": "u1576",
+          "quote": "DM: And he holds out—he has like a bunch of um—sort of pale gray robes, and he he looks at Wellby and at Drikod, it's like—and Seeker, actually—is like, I—I've done what I could. And he asks you to change into these robes. And then he takes this red ochre stone and paints like a crescent on each of your foreheads. And then he leads you into the temple."
+        },
+        {
+          "startUid": "u1577",
+          "endUid": "u1579",
+          "quote": "Kenzo: By the way, it's in this kind of random, but like after my initiations for both Bhishma and Laka, can I can I get like some like weird tattoos or something like that? Like, as we talk about here, is why."
+        },
+        {
+          "startUid": "u1580",
+          "endUid": "u1580",
+          "quote": "DM: Yeah, definitely."
+        },
+        {
+          "startUid": "u1581",
+          "endUid": "u1581",
+          "quote": "Kenzo: Mystai branding."
+        },
+        {
+          "startUid": "u1582",
+          "endUid": "u1582",
+          "quote": "Unknown: Um."
+        },
+        {
+          "startUid": "u1583",
+          "endUid": "u1592",
+          "quote": "DM: So as he leads you into the temple, he takes you through into the sort of main hall of the temple, the sort of central sacred space, and he says, “Normally initiates would be blindfolded as they enter, and all would be dark. And they would—the first thing they would see as they enter the under the temple would be the Heart of Shakun. Because the Heart is gone, and because this not is not an initiation ritual, because I've already told you our secrets, I will escort you unblindfolded through the temple.”"
+        },
+        {
+          "startUid": "u1593",
+          "endUid": "u1598",
+          "quote": "DM: And he leads you. So be—so there's where you are right now, where you sort of initially walk in his—you know, his—you sort of pass through. You're sort of in this shrine/temple area. It's a big room stretching back into the into the center of the—of the mesa, and there's light shining from like big—these big columns that light, let light in on the second floor. But on three sides, you know it's inside the mesa, so there's only windows on one side. And on the far wall there are like two archways that lead down into the darkness. And he lights a torch, which which burns with a blue flame."
+        }
+      ],
+      "to": "p13",
+      "completion": "arrived",
+      "from": null
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1599",
+        "endUid": "u1603"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Pass through the skylit cloister; the passage to the rock garden is pointed out, not entered.",
+      "evidence": [
+        {
+          "startUid": "u1599",
+          "endUid": "u1603",
+          "quote": "DM: And he takes you down one of these corridors into another room like a sort of almost like an indoor cloisters in some sort of weird sense, that has these large skylights cut into them—into the ceiling like going up hundreds of feet, these shafts into the to the earth. And now, because it's evening, there's only a sort of pale reddish light shining, and everything seems to be glowing slightly with this reddish light. And there's two—one sort of chamb—one passageway that exits leading up, one passage that exits leading down. He points towards the one leading down and says, “Seeker, that is the rock garden. Someday perhaps we'll have time to explore it together and think about its mysteries.”"
+        }
+      ],
+      "to": "p14",
+      "completion": "arrived",
+      "from": "p13"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1605",
+        "endUid": "u1629"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend to the cave and submerge in the ritual pool.",
+      "evidence": [
+        {
+          "startUid": "u1605",
+          "endUid": "u1616",
+          "quote": "DM: And he leads you forward past the cloisters, going down again um—into a chamber that is dark, a cave glowing only with a faint blue light from four torches lit again around the walls that are casting blue light everywhere. One of the acolytes, um, who is—so the three other initiates who are sort of helping with this ritual have gone ahead. And as you enter the cave, um—one of them is standing with a with a blue—with a mask that makes them seem faceless, and again with a blue torch, and still standing in front of a pool of water. And he or she, it's hard to tell with the mask, thrusts the torch into the pool of water, and it is not extinguished, but the water burst forth in flames and blue lights flickering across the surface."
+        },
+        {
+          "startUid": "u1617",
+          "endUid": "u1629",
+          "quote": "DM: And he walks around to each of you, and he has a bottle of a potion bottle of some sort of thick liquid in his hand, and he holds it up for you each to sip. And he says, “You are stripped bare before the goddess,” as he passes the bottle to each of you. And then Candrosa takes his staff and leads each one of you into this pool, where he touches the like puts you down in the pool so you're laying underwater. But you find it's—it's not clear whether you're breathing water or whether you just don't need to breathe anymore. But you find that the lack of air is no barrier to you. And as he touches his staff to each one of you, you feel—and the fire does not burn. It cast light, but it does not seem to burn you, although you can feel the heat. You feel the pressure of the cool metal touching you, and everything fades to black."
+        }
+      ],
+      "to": "p15",
+      "completion": "arrived",
+      "from": "p14"
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u1630",
+        "endUid": "u1643"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Shared vision crosses scrubland and then Dunmar.",
+      "evidence": [
+        {
+          "startUid": "u1630",
+          "endUid": "u1635",
+          "quote": "DM: Until your eyes snap open in darkness, and your vision begins to adjust. Everything is gray and shadow, as if you're watching the world through a thin, dark curtain, like a veil that sort of preventing you from seeing clearly. And you seem to be floating above a tumbled scrub land of rock and grass and low hills, and you can sense your companions with you, but you can't see them. You can just feel their presence next to you. The ground is moving beneath you, but you don't feel a sense of movement. It's as if you're stationary and the ground is scrolling. And as you're scrolling across the land, you come to a road cutting through the scrub, and you sort of float along at the ground picking up speed beneath you."
+        },
+        {
+          "startUid": "u1636",
+          "endUid": "u1636",
+          "quote": "DM: Will occasionally send you messages, so look at the chat."
+        },
+        {
+          "startUid": "u1637",
+          "endUid": "u1643",
+          "quote": "DM: The land is moving quicker now, a blur almost, as if you are—as if it's like somebody sped up the film. And you begin to drift higher and higher, and you can see across the entire sweep of Dunmar as if you're floating far up in the sky. You can see a river glittering in the distance, tall mountains rising out of the plains to the north, open fields below, tall grass blowing in the wind. Everything seems like you know child's toys laid out below you, and you see the rain falling, a summer thunderstorm washing the earth clean. And as you begin to fall back towards the earth, the image changes."
+        }
+      ],
+      "place": "p16",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u1644",
+        "endUid": "u1653"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See an ancient forest burn.",
+      "evidence": [
+        {
+          "startUid": "u1644",
+          "endUid": "u1653",
+          "quote": "DM: And you see the faint flicker of a vast forest of unimaginable trees superimposed on the land, growing above and as part of the plains, stretching as far as you can see, reaching the mountains. Still in shadow, still through a veil, but every now and then pierced by lights, and you can hear the sound of singing in a strange language. Flickering trees slow, and they steady for a moment, almost as if you're paused above the world, and you can see clearly this forest of trees stretching. Until time pauses. And with a flash, ash and fire spreads across the land, and everything is red with the flame. You see nothing but ash and dead trees across the land. You see burning, fighting, the smell of blood and death, until the image fades again."
+        }
+      ],
+      "place": "p17",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l21",
+      "type": "observation",
+      "source": {
+        "startUid": "u1654",
+        "endUid": "u1655"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the strange city cleansed of red ooze.",
+      "evidence": [
+        {
+          "startUid": "u1654",
+          "endUid": "u1655",
+          "quote": "DM: And you drift closer, and you're looking at a huge city that's spreading out below you, growing, stretching, covering all that you can see. An impossible city, which then melts and begins to ooze across the land like red blood, until a light cuts across it, water falling, washing it clean."
+        }
+      ],
+      "place": "p18",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l22",
+      "type": "observation",
+      "source": {
+        "startUid": "u1665",
+        "endUid": "u1669"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See a mountain village with cook fires in the shared vision.",
+      "evidence": [
+        {
+          "startUid": "u1665",
+          "endUid": "u1669",
+          "quote": "DM: And then suddenly you feel like you're being stretched in five different directions, almost like you're being pulled apart, until you burst forth, images flashing. Seeing yourself turning the corner on a narrow track high in the mountains, watching small trails of smoke rising in the distance from the cook fires of the small village. And feeling the anticipation of hearing again the sounds of hammers against stone, the soft patter of young feet running over the earth, the background murmur of life. And as you walk forward approaching the village, you take a step and are falling through the mountains, through the stone, emerging on an enormous white fur rug by a fireplace, looking up at a vaulted ceiling covered in complex patterns of tile."
+        }
+      ],
+      "place": "p19",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l30",
+      "type": "observation",
+      "source": {
+        "startUid": "u1665",
+        "endUid": "u1669"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The vision falls through the mountains into a vaulted room with patterned tiles and a white fur rug.",
+      "evidence": [
+        {
+          "startUid": "u1665",
+          "endUid": "u1669",
+          "quote": "DM: And then suddenly you feel like you're being stretched in five different directions, almost like you're being pulled apart, until you burst forth, images flashing. Seeing yourself turning the corner on a narrow track high in the mountains, watching small trails of smoke rising in the distance from the cook fires of the small village. And feeling the anticipation of hearing again the sounds of hammers against stone, the soft patter of young feet running over the earth, the background murmur of life. And as you walk forward approaching the village, you take a step and are falling through the mountains, through the stone, emerging on an enormous white fur rug by a fireplace, looking up at a vaulted ceiling covered in complex patterns of tile."
+        }
+      ],
+      "place": "p24",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l23",
+      "type": "observation",
+      "source": {
+        "startUid": "u1670",
+        "endUid": "u1673"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See water-powered automata and the lantern on a mantel.",
+      "evidence": [
+        {
+          "startUid": "u1670",
+          "endUid": "u1673",
+          "quote": "DM: Until you turn in anticipation as you hear the distant roaring of water growing louder, and then watch as water starts cascading down the facade of the building you are in, a roaring current. And as you are enveloped by the joy of this sight, you notice the water is driving a number of small stone and glass automata, which starts to move. And you're drawn into them, zoom in closer as they begin to come to life. And you are drawn into one of them, a glowing crystal lantern, as your vision pulls out, and you can see now that this lantern is sitting on a beautiful and intricately carved mantel. It seems ancient, and as your gaze falls upon it, you feel a sense of loss and melancholy as you stare at the light."
+        }
+      ],
+      "place": "p20",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l24",
+      "type": "observation",
+      "source": {
+        "startUid": "u1674",
+        "endUid": "u1678"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Experience a ship leaving port at sunset.",
+      "evidence": [
+        {
+          "startUid": "u1674",
+          "endUid": "u1678",
+          "quote": "DM: And as you focus on the light, it becomes the sun setting behind you as you're on a ship at sea, cutting through green waters, watching the waves, the wind in the sails, as you leave the port. Watching the sun set behind you on the shore, a sense of happiness and contentment at setting off for somewhere new. And as the sun sets, the image fades into the night sky full of stars, clear and bright, and a sense of calm washes over you. As for a moment you feel a sense of profound peace, and everything slows and pauses."
+        }
+      ],
+      "place": "p21",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l25",
+      "type": "observation",
+      "source": {
+        "startUid": "u1679",
+        "endUid": "u1682"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the cavern and seven thrones, later identified as Seeker’s Heart of the Mountain vision.",
+      "evidence": [
+        {
+          "startUid": "u1679",
+          "endUid": "u1682",
+          "quote": "DM: And your vision clears for a moment, and you see a great empty cavern, vast but dark, the only light coming coming from shimmering crystals surrounding seven carved thrones of stone, an intricate design etched on the rocks below. A strange mineral-y taste in your mouth, almost like placing your tongue against the vein of some metal in an ancient rock face. And as you rushed towards the floor and crashed through it, for the briefest of briefest of moments, you can see everything."
+        }
+      ],
+      "place": "p22",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l26",
+      "type": "observation",
+      "source": {
+        "startUid": "u1683",
+        "endUid": "u1695"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the mystai’s failing web stretch across Dunmar.",
+      "evidence": [
+        {
+          "startUid": "u1683",
+          "endUid": "u1687",
+          "quote": "DM: You can see the world below you, lines of energy twisting across it, points of thought super imposed too complex to understand. But for a moment you feel as if everything is clear, and you can see people. You can see the mystai of Shakun. From each one a light stretches into a web, and that web stretches together into a complex interweave of energy that reaches out across Dunmar and stretches for the border and piles up. But as you watch this web, you can see that there are holes in it. You can see that it's tearing. It's beginning to pull apart. And you follow these strands, and you can see that this energy is coming both from here, from Dunmar, and from elsewhere."
+        },
+        {
+          "startUid": "u1688",
+          "endUid": "u1695",
+          "quote": "DM: And it's tied together into this web of power, shifting and shimmering with the thoughts of the people whose dedication supports that. But at the center, where there should be energy, where there should be light, where there should be life, where there should be the pulsing of blood through this web, there is just emptiness. There's just nothing. It's not darkness so much as just the absence of energy, the absence of such such sustenance. And that that emptiness is spreading through the web, and the knots are beginning to crumble and flicker and fail and tear, and you can see cracks stretching across the land."
+        }
+      ],
+      "place": "p16",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l27",
+      "type": "observation",
+      "source": {
+        "startUid": "u1696",
+        "endUid": "u1709"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Stand on the cracking mesa within the vision and hear the woman’s plea.",
+      "evidence": [
+        {
+          "startUid": "u1696",
+          "endUid": "u1704",
+          "quote": "DM: And the veil slams down again, and the clarity you had is gone, and you're now standing on the top of the Red Mesa. It's evening, and everything is again distorted by grey, the ground itself unsteady under your feet. And it cracks open beneath you, the rock shifting as if you are traversing an unstable glacier and not solid ground, solid rock. And you can feel now here the absence of something. You can feel this is where the Heart should be. This is where the blood flows. This is where the energy that powers that web of people, that web of thought, that web of souls that protects Dunmar, is ripped loose. And the web, the energy is flapping in the wind. The connections between these people that bind Dunmar together and hold this energy is gone."
+        },
+        {
+          "startUid": "u1705",
+          "endUid": "u1709",
+          "quote": "DM: And as you—as the scene grows darker, you have the feeling that something is reaching for you, a vague impression of a woman who is maybe also a mesa. And a whisper breath as darkness grows: “Please. Will you help me?” And then..."
+        }
+      ],
+      "place": "p03",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l28",
+      "type": "presence",
+      "source": {
+        "startUid": "u1710",
+        "endUid": "u1820"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Awaken physically in the ritual pool under attack; the encounter remains in the cave.",
+      "evidence": [
+        {
+          "startUid": "u1710",
+          "endUid": "u1710",
+          "quote": "DM: Your eyes snap open to shouts in the darkness, screams, as through a veil of blue flames you can vaguely see a shadowy form detaching from the wall as it grabs one of the mystai. Her body crumbling and she begins to shrivel and wither, and a new shadow begins to rise from her dead form."
+        },
+        {
+          "startUid": "u1711",
+          "endUid": "u1711",
+          "quote": "Delwath: Ah, the shadows followed us."
+        },
+        {
+          "startUid": "u1712",
+          "endUid": "u1712",
+          "quote": "DM: And I need everybody to roll initiative."
+        },
+        {
+          "startUid": "u1713",
+          "endUid": "u1713",
+          "quote": "Seeker: There's lots of..."
+        },
+        {
+          "startUid": "u1714",
+          "endUid": "u1714",
+          "quote": "Kenzo: How many did we kill, and how many are left?"
+        },
+        {
+          "startUid": "u1715",
+          "endUid": "u1715",
+          "quote": "Delwath: Ah."
+        },
+        {
+          "startUid": "u1716",
+          "endUid": "u1716",
+          "quote": "DM: Good question. You killed two, and there were eight."
+        },
+        {
+          "startUid": "u1717",
+          "endUid": "u1717",
+          "quote": "Kenzo: And six of them now pop up and—hold on, wait till now? Show up like right now?"
+        },
+        {
+          "startUid": "u1718",
+          "endUid": "u1718",
+          "quote": "Seeker: Well, we kept the lights on, dude."
+        },
+        {
+          "startUid": "u1719",
+          "endUid": "u1719",
+          "quote": "DM: You kept the lights on."
+        },
+        {
+          "startUid": "u1720",
+          "endUid": "u1720",
+          "quote": "Unknown: But it's..."
+        },
+        {
+          "startUid": "u1721",
+          "endUid": "u1722",
+          "quote": "Delwath: Dark. We got a dark initiation here."
+        },
+        {
+          "startUid": "u1723",
+          "endUid": "u1723",
+          "quote": "Seeker: The lights on and..."
+        },
+        {
+          "startUid": "u1724",
+          "endUid": "u1724",
+          "quote": "DM: Yeah, let me..."
+        },
+        {
+          "startUid": "u1725",
+          "endUid": "u1725",
+          "quote": "Wellby: Tim, what weapons or do we have with us under these?"
+        },
+        {
+          "startUid": "u1726",
+          "endUid": "u1726",
+          "quote": "DM: None."
+        },
+        {
+          "startUid": "u1727",
+          "endUid": "u1727",
+          "quote": "Seeker: Oh boy."
+        },
+        {
+          "startUid": "u1728",
+          "endUid": "u1728",
+          "quote": "Unknown: Yeah, [garbled]."
+        },
+        {
+          "startUid": "u1729",
+          "endUid": "u1729",
+          "quote": "Delwath: We didn't—where—we're not wearing armor, are we?"
+        },
+        {
+          "startUid": "u1730",
+          "endUid": "u1730",
+          "quote": "DM: You're not wearing armor."
+        },
+        {
+          "startUid": "u1731",
+          "endUid": "u1731",
+          "quote": "Seeker: Boy."
+        },
+        {
+          "startUid": "u1732",
+          "endUid": "u1733",
+          "quote": "DM: You do have your, like, you know—your, you know arcane focus and stuff, so you can cast spells."
+        },
+        {
+          "startUid": "u1734",
+          "endUid": "u1735",
+          "quote": "Unknown: Mm-hmm. Oh no."
+        },
+        {
+          "startUid": "u1736",
+          "endUid": "u1736",
+          "quote": "DM: Okay, so..."
+        },
+        {
+          "startUid": "u1737",
+          "endUid": "u1738",
+          "quote": "Delwath: I don't have—I don't need an arcane focus. My my pact weapon is my arcane..."
+        },
+        {
+          "startUid": "u1739",
+          "endUid": "u1739",
+          "quote": "DM: Focus, I know."
+        },
+        {
+          "startUid": "u1740",
+          "endUid": "u1740",
+          "quote": "Delwath: I cannot have that."
+        },
+        {
+          "startUid": "u1741",
+          "endUid": "u1741",
+          "quote": "DM: I just, you know..."
+        },
+        {
+          "startUid": "u1742",
+          "endUid": "u1742",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u1743",
+          "endUid": "u1743",
+          "quote": "Unknown: You might."
+        },
+        {
+          "startUid": "u1744",
+          "endUid": "u1746",
+          "quote": "DM: So let us, let me just get to that. Let me just get to this way I've got it on..."
+        },
+        {
+          "startUid": "u1747",
+          "endUid": "u1747",
+          "quote": "Kenzo: The card in the middle."
+        },
+        {
+          "startUid": "u1748",
+          "endUid": "u1752",
+          "quote": "DM: That says you in the middle. Sorry, hold on, let me just make sure I get initiative setup here. Somehow I didn't seem to get everybody on the turn order. Ah. Okay, hold on."
+        },
+        {
+          "startUid": "u1753",
+          "endUid": "u1753",
+          "quote": "Kenzo: One second."
+        },
+        {
+          "startUid": "u1754",
+          "endUid": "u1756",
+          "quote": "DM: Yeah, I'm ready. Okay, so let's see what else we got. Well, we got..."
+        },
+        {
+          "startUid": "u1757",
+          "endUid": "u1757",
+          "quote": "Unknown: But I think I'm actually [garbled] 14."
+        },
+        {
+          "startUid": "u1758",
+          "endUid": "u1758",
+          "quote": "DM: Okay, sorry, Seeker, what did you get?"
+        },
+        {
+          "startUid": "u1759",
+          "endUid": "u1759",
+          "quote": "Seeker: 17, 17."
+        },
+        {
+          "startUid": "u1760",
+          "endUid": "u1764",
+          "quote": "DM: Kenzo was—whereas Kenzo—nine. Whereas Drikod is 17. I don't know why these numbers are coming up. And Delwath with seven. Okay then, let's see."
+        },
+        {
+          "startUid": "u1765",
+          "endUid": "u1765",
+          "quote": "Seeker: Once again, it's like, what's the brightest non-technological light source you can think?"
+        },
+        {
+          "startUid": "u1766",
+          "endUid": "u1766",
+          "quote": "Drikod: Does light damage these?"
+        },
+        {
+          "startUid": "u1767",
+          "endUid": "u1767",
+          "quote": "Seeker: They flee from it."
+        },
+        {
+          "startUid": "u1768",
+          "endUid": "u1768",
+          "quote": "Delwath: Well, they can they can become invisible in dim light. So it's not so much that light damages them as..."
+        },
+        {
+          "startUid": "u1769",
+          "endUid": "u1772",
+          "quote": "DM: Without—wow. You got the sense the last time you were fighting them it wasn't just that they can become invisible. And that was the dogs, not the shadow hunters. They really didn't like light. Like, right, they were very ineffective in light."
+        },
+        {
+          "startUid": "u1773",
+          "endUid": "u1773",
+          "quote": "Wellby: How far are we from our stuff?"
+        },
+        {
+          "startUid": "u1774",
+          "endUid": "u1776",
+          "quote": "DM: Ah, like, you know it's like a 50, 60 feet up to the cloister and then 100 feet across the cloister, and then like 20 feet across the—30 feet across the shrine. Probably about 200 feet, maybe."
+        },
+        {
+          "startUid": "u1777",
+          "endUid": "u1777",
+          "quote": "Unknown: Um."
+        },
+        {
+          "startUid": "u1778",
+          "endUid": "u1778",
+          "quote": "DM: I mean..."
+        },
+        {
+          "startUid": "u1779",
+          "endUid": "u1779",
+          "quote": "Wellby: Much too far."
+        },
+        {
+          "startUid": "u1780",
+          "endUid": "u1783",
+          "quote": "DM: Ah. It is possible for Mike, for Delwath, to create light."
+        },
+        {
+          "startUid": "u1784",
+          "endUid": "u1787",
+          "quote": "Seeker: Um. Is there any metal or other objects on any of—people?"
+        },
+        {
+          "startUid": "u1788",
+          "endUid": "u1788",
+          "quote": "DM: At—the shadows? No."
+        },
+        {
+          "startUid": "u1789",
+          "endUid": "u1789",
+          "quote": "Seeker: Or do we have any? Probably not. Nothing in that room."
+        },
+        {
+          "startUid": "u1790",
+          "endUid": "u1790",
+          "quote": "DM: Maybe Candrosa's..."
+        },
+        {
+          "startUid": "u1791",
+          "endUid": "u1791",
+          "quote": "Unknown: Staff."
+        },
+        {
+          "startUid": "u1792",
+          "endUid": "u1792",
+          "quote": "Delwath: Wait, is Candrosa down here?"
+        },
+        {
+          "startUid": "u1793",
+          "endUid": "u1794",
+          "quote": "DM: Candrosa, right here. That—there's two mystai who are alive and one mystai who is dead, and a shadow just rose from the dead body of the mystai who died."
+        },
+        {
+          "startUid": "u1795",
+          "endUid": "u1796",
+          "quote": "Wellby: We think these can only—only be affected by magic, we think?"
+        },
+        {
+          "startUid": "u1797",
+          "endUid": "u1797",
+          "quote": "Delwath: We think so—well, we have—think they're probably—I don't know if they're immune or now because Kenzo was hurting that."
+        },
+        {
+          "startUid": "u1798",
+          "endUid": "u1798",
+          "quote": "DM: Much—they're not immune."
+        },
+        {
+          "startUid": "u1799",
+          "endUid": "u1801",
+          "quote": "Delwath: And there was probably resistant, taking half damage. I'm—right."
+        },
+        {
+          "startUid": "u1802",
+          "endUid": "u1803",
+          "quote": "Seeker: So I can make like a—what's that called when the Viking dies and they make a ship that's on fire?"
+        },
+        {
+          "startUid": "u1804",
+          "endUid": "u1804",
+          "quote": "Drikod: Oh."
+        },
+        {
+          "startUid": "u1805",
+          "endUid": "u1805",
+          "quote": "Seeker: A funeral pyre."
+        },
+        {
+          "startUid": "u1806",
+          "endUid": "u1806",
+          "quote": "Unknown: Pyre."
+        },
+        {
+          "startUid": "u1807",
+          "endUid": "u1807",
+          "quote": "Delwath: That's—that seems useful."
+        },
+        {
+          "startUid": "u1808",
+          "endUid": "u1808",
+          "quote": "Seeker: I can make actually a tiny one."
+        },
+        {
+          "startUid": "u1809",
+          "endUid": "u1809",
+          "quote": "Delwath: Is less useful."
+        },
+        {
+          "startUid": "u1810",
+          "endUid": "u1810",
+          "quote": "DM: You cannot make a full-size..."
+        },
+        {
+          "startUid": "u1811",
+          "endUid": "u1813",
+          "quote": "Seeker: But it'd be in—will burn bright. And then I can hold up my little homemade burning lenses to focus light on..."
+        },
+        {
+          "startUid": "u1814",
+          "endUid": "u1814",
+          "quote": "Drikod: And we're in a stone cave type area?"
+        },
+        {
+          "startUid": "u1815",
+          "endUid": "u1820",
+          "quote": "DM: Yeah, you're in a stone cave. You're—right now, just—I will say you all just stood up. You're in the shallow pool. Well, shallow as in Wellby would be drowning if it wasn't for the fact that you seem to be able to breathe water at the moment. Maybe about three-and-a-half-foot-deep pool. And the pool itself is glowing with this blue flame that doesn't seem to harm you, but you can feel the heat radiating off of off of it. Seems like it is in fact fire, if you needed to light something on fire. Candrosa is shouting. The other two mystai who are sort of guiding this ritual—one is dead, and these two are freaking out."
+        }
+      ],
+      "place": "p15"
+    },
+    {
+      "id": "l29",
+      "type": "movement",
+      "source": {
+        "startUid": "u2747",
+        "endUid": "u2761"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return through the darkened cloister to the main shrine and settle for the funeral.",
+      "evidence": [
+        {
+          "startUid": "u2747",
+          "endUid": "u2755",
+          "quote": "DM: About—so just—and again, like, if you guys want to chat, I'm fine. But just to, you know, wrap things around as the, you know, the—you return up the, the passage way through the, the cloisters, now in darkness as the sun has set. Come out back to the sort of main shrine, as you know, Candrosa and several more mystai, as news is spreading and the sort of, you know, sadness of this moment. But also as you—as you watch and see the people that the priests and acolytes and initiates of Shakun moving around, they look somehow different to you like, as each moves, you can see how—how, as they move, the others are also moving together. And you can almost see these connections between them that kind of shimmer, but many of the edges are frayed and cut. And—and you can, and you can sort of see how this kind of network reaches out, but then just reaches into dust and kind of frayed ends and, you know, pieces blown away without a center, instead of a tight web that misdirects and you know blocks the passage of enemies of Dunmar."
+        },
+        {
+          "startUid": "u2756",
+          "endUid": "u2761",
+          "quote": "DM: And as you settle in for the evening and the funeral of these two mystai who died, and contemplate your next steps in the morning and what you've seen—well, we'll wrap up and pick up next time. But again, like you know I'm on vacation. I'll stay on as long as you want if anybody wants to discuss anything, so..."
+        }
+      ],
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p14",
+          "reading": "Return through the cloister after sunset."
+        }
+      ],
+      "from": "p15"
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-026",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-session.yaml",
+    "sessionYamlSha256": "fead6bf1e5877463da7e39ad2eb5350ee4ab19ad751a00eac1c8c23376709513",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-transcript.md",
+    "transcriptSha256": "4fb4a28eb11795bf7ab769f0ae0458c38e6a367f4e02cb8e702d8502a97baf9f",
+    "yamlDates": {
+      "start": "1748-05-23",
+      "end": "1748-05-24"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0009"
+      },
+      "reading": "Opening approach to Karawa on May 23, with the sun beginning to sink.",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0009",
+          "quote": "DM: Okay, so. Okay, so the sun is just beginning to sink in the sky as you ride along the road from Bas Udda north to Karawa, the Red Mesa looming on your left. It's been—it's May 23, so it's been about five days since you left the company of of Avaras and Pava at the stone house, about 10 days since you fled the orcs outside of Kharsan, and nearly a month since you left Karawa with Havdar to investigate rumors of orcs and the remains of the gnoll bands and whatever else might be lurking in the desert."
+        },
+        {
+          "startUid": "u0014",
+          "endUid": "u0016",
+          "quote": "DM: So now, as the long afternoon shadows cast by the Red Mesa begin to stretch across the desert, only a few hours from Karawa—the possibility of a fresh meal, maybe even a bath—you are anticipating your return."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Spoken May 23 and long afternoon shadows; year inherited from YAML.",
+        "date": {
+          "year": 1748,
+          "month": 5,
+          "day": 23
+        }
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0013"
+      },
+      "reading": "Five-day journey from the stone house is recounted, with training and lens experiments resolved retrospectively.",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "DM: The journey over the past five days from the stone house has been largely uneventful, although given the shadow attacks from a week ago, it's hard not to imagine you're seeing movement in the darkness every time you rest. And you've all gotten used to sleeping with the bright light of the drift globes as a constant evening companion. You're down to only three horses and Baxter, the shadows having taken two of them, and so it's been a hot, tiring journey as you've mostly had to walk alongside the animals, who are loaded with water and food for the desert trek."
+        },
+        {
+          "startUid": "u0017",
+          "endUid": "u0019",
+          "quote": "DM: And actually, before we continue, is there anything you wanted to do on the trip? Wellby, are you doing more training? Or is it—have any...?"
+        },
+        {
+          "startUid": "u0020",
+          "endUid": "u0021",
+          "quote": "Wellby: So, train—practicing shooting while mounted, and then I also want Baxter to teach me, like axe beak cries, so like as an animal signal, you know, if you're out of range or something."
+        },
+        {
+          "startUid": "u0022",
+          "endUid": "u0023",
+          "quote": "DM: Right, ah, make an Animal Handling check to kind of represent that. Actually, make two so we can get an average of the two of them."
+        },
+        {
+          "startUid": "u0024",
+          "endUid": "u0028",
+          "quote": "DM: See how—okay, so it's been, you know, it's been a decent week of training. Um, I would say you've picked up a few cries, so you can call like danger and food. Axe beaks don't have a complicated vocabulary. Ah, there's basically an alert cry, there's a all-clear cry, and there's a something-interesting cry. So you can communicate those three things to Baxter without having to be in visual range or in telepathy."
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0033",
+          "quote": "Seeker: Um, I—Seeker has been experimenting with burning lenses. Having gotten excited about the whole magnesium flare concept and playing with glass blowing at night by the fire is experimenting making little lenses to harness the power of the sun or other light sources to catch things on fire."
+        }
+      ],
+      "context": "flashback",
+      "duration": {
+        "value": 5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM says past five days; opening says about five days."
+      },
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t01"
+        },
+        "precision": "approximate",
+        "basis": "Journey leads to the opening May 23 approach."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0043"
+      },
+      "reading": "Narration resumes the road approach; the patrol draws near within a few minutes.",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0043",
+          "quote": "DM: Okay, so as you continue along the road, you see ahead of you a cloud of dust signifying riders are coming your way. You haven't been particularly trying to be stealthy, so they spot you and are headed in your direction. And within a few minutes you see, growing on the road before you, a group of five travelers: two centaurs riding with three Dunmari dressed in sort of patrol gear, armor and spears and bows. And one of the Dunmari sees you approaching, calls out, “Hail, travelers! We've been told to watch for your return.”"
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates the riders’ approach."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0056",
+        "endUid": "u0057"
+      },
+      "reading": "Ride with the messengers for an hour into Karawa.",
+      "evidence": [
+        {
+          "startUid": "u0056",
+          "endUid": "u0057",
+          "quote": "DM: So you ride with the messengers for for an hour into town. If you want to ask them any questions, you're certainly welcome to chat with them as you're traveling. Yeah, um, it was..."
+        },
+        {
+          "startUid": "u0114",
+          "endUid": "u0120",
+          "quote": "DM: So as you ride through town—so, you know, it's—it's still largely in ruins, as it was when you left. But you know there's been some some work to kind of clear some of the grounds a little bit and—and you know set up some temporary camps and things like that. So, so you pass from the east, you pass where the ruins of Ikram's caravanserai is—is—is pretty—that's been sort of taken over by Havdar's troops. The Dunmari camp is set there, um. So of horses, people milling about tending animals, signs of weapons being sharpened and—and armor beaten back into shape."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Narrated elapsed duration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0975",
+        "endUid": "u0980"
+      },
+      "reading": "The temple conference is still the evening of the arrival day; the momentary morning claim is corrected.",
+      "evidence": [
+        {
+          "startUid": "u0975",
+          "endUid": "u0975",
+          "quote": "Delwath: It's probably morning now."
+        },
+        {
+          "startUid": "u0976",
+          "endUid": "u0976",
+          "quote": "DM: It's morning, yeah."
+        },
+        {
+          "startUid": "u0977",
+          "endUid": "u0977",
+          "quote": "Delwath: And he's proposing this ritual..."
+        },
+        {
+          "startUid": "u0978",
+          "endUid": "u0980",
+          "quote": "DM: Tomorrow—no, sorry, no, it's evening. He's proposing it tomorrow night, yeah. But it's still the same day you got into town, like you've basically done nothing, haven't even set up camp or checked on your belongings or anything."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM explicitly corrects morning to evening on the same arrival day.",
+        "relative": {
+          "relation": "after",
+          "reference": "t04"
+        }
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1181",
+        "endUid": "u1192"
+      },
+      "reading": "Camp preparations and Wellby’s hawk inquiry take place this evening.",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1192",
+          "quote": "DM: So make Animal Handling check. So, you are—you are able to—to, you know, you're skilled enough that you can pretty much always get a hawk to come. You know, some sort of bird or—or, this evening, this time of day is as the rest of you are setting up camp. You know there's some some hawks soaring on there, you know returning to their—to their roosts, and you are able to attract a hawk. Not one that is necessarily very clear and it's—in it's sort of visuals that it that it presents you about the mesa, um. The one thing that you do pick—you don't, you don't get a sense. You don't really get a sense from it. It doesn't really understand the geography of what you're trying to convey about kind of where this place is that you want it to report on, um. You do get a sense that the mesa—the mesa is quiet."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM’s stated time of day"
+      },
+      "actors": [
+        "Wellby"
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1244",
+        "endUid": "u1252"
+      },
+      "reading": "Mirror vision enters the glass’s past, compressing many days between its manufacture and destruction.",
+      "evidence": [
+        {
+          "startUid": "u1244",
+          "endUid": "u1252",
+          "quote": "DM: You see—first you see what looks like fire, like intense heat and um—and, ah, a metal rod. It's like you're looking from inside of fire out a metal rod. And that image flashes flashes past past quite quickly. And then you you feel more than see like a succession of days just going past. Days and days and days and days and days flickering quickly, like, um—sun, sat, sun—sunrises, sunsets, sunrises. You know happening like five times a second or something like that."
+        }
+      ],
+      "context": "vision",
+      "duration": {
+        "text": "many days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Days repeatedly flicker past in the vision; no elapsed adventure duration."
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1296",
+        "endUid": "u1306"
+      },
+      "reading": "The glass’s destruction is inferred to have occurred in late spring or early summer, with no historical year established.",
+      "evidence": [
+        {
+          "startUid": "u1296",
+          "endUid": "u1300",
+          "quote": "DM: Kong, I sent you a message. Um, so you know thinking back about the images you saw, I mean you have no context whatsoever to put this in a time period in history. But just based on kind of like paying attention to the you know the the the length of time of the of the day going past, you get the sense that at least when it was destroyed was actually, hold on, let me double-check my notes."
+        },
+        {
+          "startUid": "u1301",
+          "endUid": "u1302",
+          "quote": "Unknown: One second, sorry. So slow to load."
+        },
+        {
+          "startUid": "u1303",
+          "endUid": "u1306",
+          "quote": "DM: Ah, like summer, or late like about this time of year, actually. Late spring, early summer is when you guess the bottle the bottle was destroyed. And it seems to have been in like a glass blowers shop, right? Like, there's a number of different glass things around that. Other than that, it's hard to—it's hard to tell much about—I mean, what other context that you're trying to get back?"
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "precision": "approximate",
+        "basis": "Drikod’s inspection establishes season only.",
+        "relative": {
+          "relation": "before",
+          "anchor": "current mirror examination"
+        }
+      },
+      "note": "Season is stated in the reading because the schema has no season field; no numeric date is inferred."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1430",
+        "endUid": "u1435"
+      },
+      "reading": "After the mirror discussion, narration resumes available time in Karawa before the following evening’s ritual.",
+      "evidence": [
+        {
+          "startUid": "u1430",
+          "endUid": "u1430",
+          "quote": "DM: So all right, so you have basically a day in town if there's anything you want to do. Um—also, we can just skip right over that if..."
+        },
+        {
+          "startUid": "u1431",
+          "endUid": "u1431",
+          "quote": "Delwath: I'm—I know I'd like to talk to Tharandros briefly."
+        },
+        {
+          "startUid": "u1432",
+          "endUid": "u1432",
+          "quote": "DM: Tharandros."
+        },
+        {
+          "startUid": "u1433",
+          "endUid": "u1433",
+          "quote": "Delwath: Tharandros."
+        },
+        {
+          "startUid": "u1434",
+          "endUid": "u1434",
+          "quote": "Drikod: The centaur, yeah."
+        },
+        {
+          "startUid": "u1435",
+          "endUid": "u1435",
+          "quote": "Unknown: Yeah."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1483",
+        "endUid": "u1487"
+      },
+      "reading": "The previous night’s sleeping arrangements are established retrospectively; they do not add another night after the ritual.",
+      "evidence": [
+        {
+          "startUid": "u1483",
+          "endUid": "u1484",
+          "quote": "DM: Sorry, I meant to ask before you all sleep the previous night: are you keeping up your driftglobe bright-light situation in town?"
+        },
+        {
+          "startUid": "u1485",
+          "endUid": "u1485",
+          "quote": "Seeker: Oh yeah."
+        },
+        {
+          "startUid": "u1486",
+          "endUid": "u1486",
+          "quote": "Unknown: Yes."
+        },
+        {
+          "startUid": "u1487",
+          "endUid": "u1487",
+          "quote": "DM: Okay."
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Question explicitly refers to sleeping last night.",
+        "relative": {
+          "relation": "before",
+          "anchor": "the current pre-ritual downtime conversation"
+        }
+      },
+      "note": "The compressed downtime does not precisely locate the conversation; this night is not counted as a second boundary."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1539",
+        "endUid": "u1543"
+      },
+      "reading": "The following evening the party returns to the temple for the ritual.",
+      "evidence": [
+        {
+          "startUid": "u1539",
+          "endUid": "u1543",
+          "quote": "DM: The following evening, you return to the temple, and Candrosa is there along with a couple other mystai of Shakun, they are wearing—they are both wearing—um—all of them are wearing these ochre robes. Candrosa is carrying his staff, but the other three mystai are you know carrying nothing, just just the robes. And, and Candrosa says to you as you approach..."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Explicit following evening, relative to the arrival-day conversation.",
+        "relative": {
+          "relation": "after",
+          "reference": "t05",
+          "offset": {
+            "value": 1,
+            "unit": "day",
+            "precision": "exact",
+            "basis": "Following evening"
+          }
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1617",
+        "endUid": "u1635"
+      },
+      "reading": "Submersion shifts narration into the shared initiation vision.",
+      "evidence": [
+        {
+          "startUid": "u1617",
+          "endUid": "u1629",
+          "quote": "DM: And he walks around to each of you, and he has a bottle of a potion bottle of some sort of thick liquid in his hand, and he holds it up for you each to sip. And he says, “You are stripped bare before the goddess,” as he passes the bottle to each of you. And then Candrosa takes his staff and leads each one of you into this pool, where he touches the like puts you down in the pool so you're laying underwater. But you find it's—it's not clear whether you're breathing water or whether you just don't need to breathe anymore. But you find that the lack of air is no barrier to you. And as he touches his staff to each one of you, you feel—and the fire does not burn. It cast light, but it does not seem to burn you, although you can feel the heat. You feel the pressure of the cool metal touching you, and everything fades to black."
+        },
+        {
+          "startUid": "u1630",
+          "endUid": "u1635",
+          "quote": "DM: Until your eyes snap open in darkness, and your vision begins to adjust. Everything is gray and shadow, as if you're watching the world through a thin, dark curtain, like a veil that sort of preventing you from seeing clearly. And you seem to be floating above a tumbled scrub land of rock and grass and low hills, and you can sense your companions with you, but you can't see them. You can just feel their presence next to you. The ground is moving beneath you, but you don't feel a sense of movement. It's as if you're stationary and the ground is scrolling. And as you're scrolling across the land, you come to a road cutting through the scrub, and you sort of float along at the ground picking up speed beneath you."
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1674",
+        "endUid": "u1678"
+      },
+      "reading": "Within the vision, a ship departs as the sun sets and the sky becomes starry night.",
+      "evidence": [
+        {
+          "startUid": "u1674",
+          "endUid": "u1678",
+          "quote": "DM: And as you focus on the light, it becomes the sun setting behind you as you're on a ship at sea, cutting through green waters, watching the waves, the wind in the sails, as you leave the port. Watching the sun set behind you on the shore, a sense of happiness and contentment at setting off for somewhere new. And as the sun sets, the image fades into the night sky full of stars, clear and bright, and a sense of calm washes over you. As for a moment you feel a sense of profound peace, and everything slows and pauses."
+        }
+      ],
+      "context": "vision",
+      "timeRange": {
+        "start": {
+          "partOfDay": "sunset",
+          "precision": "approximate",
+          "basis": "Vision-local sunset"
+        },
+        "end": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "Vision-local stars"
+        }
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1696",
+        "endUid": "u1709"
+      },
+      "reading": "The vision shifts to the Red Mesa in evening light and then grows dark.",
+      "evidence": [
+        {
+          "startUid": "u1696",
+          "endUid": "u1704",
+          "quote": "DM: And the veil slams down again, and the clarity you had is gone, and you're now standing on the top of the Red Mesa. It's evening, and everything is again distorted by grey, the ground itself unsteady under your feet. And it cracks open beneath you, the rock shifting as if you are traversing an unstable glacier and not solid ground, solid rock. And you can feel now here the absence of something. You can feel this is where the Heart should be. This is where the blood flows. This is where the energy that powers that web of people, that web of thought, that web of souls that protects Dunmar, is ripped loose. And the web, the energy is flapping in the wind. The connections between these people that bind Dunmar together and hold this energy is gone."
+        },
+        {
+          "startUid": "u1705",
+          "endUid": "u1709",
+          "quote": "DM: And as you—as the scene grows darker, you have the feeling that something is reaching for you, a vague impression of a woman who is maybe also a mesa. And a whisper breath as darkness grows: “Please. Will you help me?” And then..."
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Explicit evening within the vision; no extra adventure date."
+      }
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1710",
+        "endUid": "u1710"
+      },
+      "reading": "Eyes open and the party returns from the vision to the ritual pool under attack.",
+      "evidence": [
+        {
+          "startUid": "u1710",
+          "endUid": "u1710",
+          "quote": "DM: Your eyes snap open to shouts in the darkness, screams, as through a veil of blue flames you can vaguely see a shadowy form detaching from the wall as it grabs one of the mystai. Her body crumbling and she begins to shrivel and wither, and a new shadow begins to rise from her dead form."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2599",
+        "endUid": "u2601"
+      },
+      "reading": "After combat it is still evening; the ceremony is retrospectively estimated at no more than thirty minutes.",
+      "evidence": [
+        {
+          "startUid": "u2599",
+          "endUid": "u2599",
+          "quote": "Delwath: Still evening, right?"
+        },
+        {
+          "startUid": "u2600",
+          "endUid": "u2601",
+          "quote": "DM: Yeah, I mean the whole—you know, it felt like a long time, but in actual reality the initiation was—or the ceremony you were part of, was probably no more than 30 minutes, so it's not much longer than when you came down. So it's getting towards midnight that I wanted to give you a moment to like discuss and wrap..."
+        },
+        {
+          "startUid": "u2602",
+          "endUid": "u2602",
+          "quote": "Drikod: Up, but..."
+        },
+        {
+          "startUid": "u2603",
+          "endUid": "u2603",
+          "quote": "Unknown: You know."
+        },
+        {
+          "startUid": "u2604",
+          "endUid": "u2604",
+          "quote": "DM: Just aware of the time. This will be kind of where we are, and then we'll pick up with crossing the mesa next time."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM answers the in-world evening question."
+      },
+      "duration": {
+        "max": 30,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM estimates the ceremony at probably no more than thirty minutes."
+      },
+      "completion": "completed",
+      "note": "“Getting towards midnight” shifts to the real-world wrap-up clock, corroborated by u2604; it is not an adventure clock advance."
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2747",
+        "endUid": "u2761"
+      },
+      "reading": "Return through the now-dark cloister to the main shrine after sunset; settle for the evening and funeral.",
+      "evidence": [
+        {
+          "startUid": "u2747",
+          "endUid": "u2755",
+          "quote": "DM: About—so just—and again, like, if you guys want to chat, I'm fine. But just to, you know, wrap things around as the, you know, the—you return up the, the passage way through the, the cloisters, now in darkness as the sun has set. Come out back to the sort of main shrine, as you know, Candrosa and several more mystai, as news is spreading and the sort of, you know, sadness of this moment. But also as you—as you watch and see the people that the priests and acolytes and initiates of Shakun moving around, they look somehow different to you like, as each moves, you can see how—how, as they move, the others are also moving together. And you can almost see these connections between them that kind of shimmer, but many of the edges are frayed and cut. And—and you can, and you can sort of see how this kind of network reaches out, but then just reaches into dust and kind of frayed ends and, you know, pieces blown away without a center, instead of a tight web that misdirects and you know blocks the passage of enemies of Dunmar."
+        },
+        {
+          "startUid": "u2756",
+          "endUid": "u2761",
+          "quote": "DM: And as you settle in for the evening and the funeral of these two mystai who died, and contemplate your next steps in the morning and what you've seen—well, we'll wrap up and pick up next time. But again, like you know I'm on vacation. I'll stay on as long as you want if anybody wants to discuss anything, so..."
+        }
+      ],
+      "time": {
+        "partOfDay": "after sunset",
+        "precision": "approximate",
+        "basis": "DM explicitly says the sun has set and they settle for the evening."
+      },
+      "note": "Next steps in the morning are prospective; morning is not reached."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "May 23 is spoken at the opening; 1748 comes from YAML. The following evening supports May 24 independently of the YAML end.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t05",
+      "t10",
+      "t11",
+      "t16",
+      "t17"
+    ],
+    "explanation": "The main forward sequence spans one boundary, May 23–24. Retrospectively resolved journey activities cover about five preceding days; whether that montage belongs to the formal start boundary remains open. Vision time and real-world midnight do not extend adventure dates."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02"
+      ],
+      "reading": "Travel is introduced as recap but the table resolves training during those five days; retain both plausible start conventions.",
+      "alternatives": [
+        {
+          "reading": "Use the explicitly framed May 23 opening and treat the travel as retrospective setup.",
+          "date": "1748-05-23"
+        },
+        {
+          "reading": "Include the resolved travel interval, beginning approximately five days before May 23 (about May 18); no exact earlier date is asserted."
+        }
+      ]
+    }
+  ]
+}
