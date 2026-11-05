@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-time-markers.json",
+    "sha256": "15f80ed3e65615e0f1c06246d6f1458640057f95a19a21371151f927d32ab86f"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-transcript.md",
+    "sha256": "724edad1d2f40545a983a1f8032432fbbf7e7548fae9a6653415a80ef4f5b1df"
+  },
+  "dateAssessment": "The working Chardon calendar is August 21–22, DR 1748, from the session YAML. No month, day or year is independently spoken; Tuesday is the stated weekday during Kenzo’s first visit. Afternoon arrival, the evening meeting with Vola, the explicit next-morning skip and Chapterhouse lunch fit one overnight. The time extraction remains **compatible**, because the two earlier journey examinations are played retrospectively without a date: they could fall on arrival day or before it. Their historical visions have separate local clocks and do not extend elapsed adventure time. The proposed four-o’clock tea, future library loan and Illoria expedition are future plans.",
+  "watches": [
+    {
+      "day": "Historical whistle vision; date unknown",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The raven reaches Bas Udda at sunset and Agata’s hut in twilight.",
+      "markers": [
+        "t02"
+      ],
+      "scope": "Whistle vision",
+      "clock": "local"
+    },
+    {
+      "day": "Historical fan vision; date unknown",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Sura leaves the tent into desert night; the particular night watch is unspecified.",
+      "markers": [
+        "t03"
+      ],
+      "scope": "Fan vision",
+      "clock": "local"
+    },
+    {
+      "day": "Approach journey before Chardon; date open",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Two Mirror examinations are placed on the approach journey; day and watch remain open.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Retrospectively played examinations"
+    },
+    {
+      "day": "August 21, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Afternoon arrival; Kenzo walks about forty minutes; the reunited party travels towards late afternoon.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06"
+      ],
+      "startDate": "1748-08-21",
+      "endDate": "1748-08-21"
+    },
+    {
+      "day": "August 21, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Vola’s meeting follows dinner in the tavern’s early post-dinner lull; evening watch inferred.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-08-21",
+      "endDate": "1748-08-21"
+    },
+    {
+      "day": "August 22, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Explicit next-morning skip establishes one overnight; Ulfgar’s office visit is still morning.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-08-22",
+      "endDate": "1748-08-22"
+    },
+    {
+      "day": "August 22, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Dee and Dain are eating lunch when the party arrives at the Chapterhouse.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-08-22",
+      "endDate": "1748-08-22"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Hralgar's Eyes",
+      "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes.md",
+      "sha256": "b02acc9459cb468a35aa24f96361cf15676c47d11b1026335604c4695b7afe42"
+    },
+    {
+      "label": "Binding Stones",
+      "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Binding Stones.md",
+      "sha256": "8b09b34fa5b3dd6d68f353118a02c8cccba8e8ccb34bc46d9cb3fe4c1b145279"
+    },
+    {
+      "label": "Dee Wildcloak",
+      "path": "People/Halflings/Dee Wildcloak.md",
+      "sha256": "911633166fac39b9bc1de153be66b8e5f6b249117a2494a7be425b6b5d6938ca"
+    },
+    {
+      "label": "Dain Goldhammer",
+      "path": "People/Dwarves/Dain Goldhammer.md",
+      "sha256": "cca47abc22bae878b7636992c4880f924f8d32a12611d6a0618fcaccdbd835ab"
+    }
+  ]
+}

@@ -1,0 +1,941 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-048",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-session.yaml",
+    "sessionYamlSha256": "92c3e6326c4d60d01c92de2a875d5bb84401abe17ef0cd1916bb770d2ef218b4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-transcript.md",
+    "transcriptSha256": "724edad1d2f40545a983a1f8032432fbbf7e7548fae9a6653415a80ef4f5b1df"
+  },
+  "places": {
+    "p01": {
+      "label": "Chardon",
+      "evidence": [
+        {
+          "startUid": "u0245",
+          "endUid": "u0261",
+          "quote": "Sailing up the broad stretch of the Chasa river to the vibrant, bustling port of Chardon."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p02": {
+      "label": "Emerald Song",
+      "evidence": [
+        {
+          "startUid": "u0245",
+          "endUid": "u0261",
+          "quote": "As you as the Emerald Song slides into a berth in what seems to be the halfling section of the wharves"
+        }
+      ],
+      "kind": "vessel",
+      "vaultPath": "Things/Ships/Emerald Song.md",
+      "mobile": true
+    },
+    "p03": {
+      "label": "Chasa river",
+      "evidence": [
+        {
+          "startUid": "u0245",
+          "endUid": "u0261",
+          "quote": "Sailing up the broad stretch of the Chasa river to the vibrant, bustling port of Chardon."
+        }
+      ],
+      "kind": "river",
+      "vaultPath": "Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa.md"
+    },
+    "p04": {
+      "label": "Halfling wharves",
+      "evidence": [
+        {
+          "startUid": "u0245",
+          "endUid": "u0261",
+          "quote": "As you as the Emerald Song slides into a berth in what seems to be the halfling section of the wharves"
+        }
+      ],
+      "kind": "port",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0245",
+              "endUid": "u0261",
+              "quote": "the busy wharves of the port come into view."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Customs house on the wharf",
+      "evidence": [
+        {
+          "startUid": "u0470",
+          "endUid": "u0480",
+          "quote": "This agent sort of pulls you into the customs house which is sort of a you know blocky structure on the wharf"
+        }
+      ],
+      "kind": "building",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0470",
+              "endUid": "u0480",
+              "quote": "the customs house which is sort of a you know blocky structure on the wharf"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Salty Squid",
+      "evidence": [
+        {
+          "startUid": "u0544",
+          "endUid": "u0553",
+          "quote": "The—the Salty Squid looks promising."
+        }
+      ],
+      "kind": "inn",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Salty Squid.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0537",
+              "endUid": "u0553",
+              "quote": "DM: The rest of you are coming off the ship in small groups or singly and heading where?\n\n\nRiswynn: He said it was going to be around the docks or he said it was going to meet us.\n\n\nDM: Well, you can talk to Wellby whenever you want so.\n\n\nRiswynn: Yeah, it's true.\n\n\nSeeker: Right so we'll rendezvous at a an inn that Wellby chooses maybe?\n\n\nWellby: Scout something out.\n\n\nDM: Yeah, they're good there's a good number of inns around here I mean. This is a pretty sort of bustling part of the city. The—the Salty Squid looks promising. It has a relatively quiet clientele not too crowded but looks on the nicer end of things for the port. So. The rest of you are just waiting at. You sort of come off in small groups and then are waiting at the gather at the inn is that I'm just trying to understand your point, or are you going to are you going to find your Professor friend or?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Kaeso’s house",
+      "evidence": [
+        {
+          "startUid": "u0760",
+          "endUid": "u0761",
+          "quote": "you arrive at Kaeso's house"
+        }
+      ],
+      "kind": "apartment",
+      "note": "The played apartment is in Chardon in this session; Kaeso’s later residence in Hamri is not imported from his biography.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u0245",
+              "endUid": "u0261",
+              "quote": "Kaeso, Kenzo's former mentor who lives in the south of the city in the Panemsgate neighborhood near the Kylos Market"
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0303",
+              "endUid": "u0303",
+              "quote": "DM: Well, this is the Kylos Market and his place would be like just south of that like here."
+            }
+          ],
+          "note": "South of the market is proximity, not containment within the market."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Kylos Market",
+      "evidence": [
+        {
+          "startUid": "u0596",
+          "endUid": "u0603",
+          "quote": "you pass out of the the old city and through the Kylos Market"
+        }
+      ],
+      "kind": "market",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Kylos Market.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0596",
+              "endUid": "u0603",
+              "quote": "you pass out of the the old city and through the Kylos Market"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Academy district",
+      "evidence": [
+        {
+          "startUid": "u1478",
+          "endUid": "u1479",
+          "quote": "a Grad student bar over in the Academy district"
+        }
+      ],
+      "kind": "district",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1555",
+              "endUid": "u1571",
+              "quote": "you sort of wander through the city now heading towards the sort of academic area"
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Precinct IV.md"
+    },
+    "p10": {
+      "label": "Thirsty Scholar",
+      "evidence": [
+        {
+          "startUid": "u1555",
+          "endUid": "u1571",
+          "quote": "you approach the Thirsty Scholar"
+        }
+      ],
+      "kind": "tavern",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Thirsty Scholar.md",
+      "note": "The DM explicitly says this tavern has no rooms. The next-morning pickup calls its message stop an inn without naming it; that stop is kept unresolved separately.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1478",
+              "endUid": "u1479",
+              "quote": "a Grad student bar over in the Academy district"
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1555",
+              "endUid": "u1571",
+              "quote": "a few blocks from the University itself"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "University of Chardon",
+      "evidence": [
+        {
+          "startUid": "u0245",
+          "endUid": "u0261",
+          "quote": "on the Faculty of metaphysics at the University of Chardon"
+        }
+      ],
+      "kind": "university",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/University of Chardon.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0245",
+              "endUid": "u0261",
+              "quote": "DM: Sailing up the broad stretch of the Chasa river to the vibrant, bustling port of Chardon. The city stretches for miles along the south bank of a river with smaller outposts on the north on the shoulders of Mount Nera, whose dark slopes loom over the city. South of the river, the city gleams with the dazzling colors of hundreds, what seems sometimes like thousands of towers. Some the muted colors of natural stone: gray, white, black, but others shine like the setting sun or blaze with the violet of a field of flowers or the bright gold of the sun in the middle of the day, or even swirl with patterns of stars or waves. And all of these towers are dominated—looming over all of them—is the twisting spire the Great Library itself reaching 600 feet in the sky, to the east, and the huge imposing facade of the Imperial Palace, to the west, with the great octagonal dome of the Cathedral of the Way between these landmarks.\n\nThe north bank, this time in the afternoon is partially hidden by a low fog that hangs on the slopes of Mount Nera and carries a faint acrid stench over the water when the winds briefly shift.\n\nThe two sides of the city are separated by a great arching bridge wide enough for four carts to pass abreast and enchanted to rise from its anchors to allow ships with tall masts past. As you sail under the bridge the noise from above briefly pauses as the central part of the stone arch creaks and then raises into the sky, to allow your masts to clear the span. And as the bridge settles back into place behind you, you can see the river widen ahead, the busy wharves of the port come into view. Dozens upon dozens of ships of all sizes shapes and colors fill the harbor, some loading or unloading on the docks others that anchorage.\n\nAs you as the Emerald Song slides into a berth in what seems to be the halfling section of the wharves and you look out across the vastness city you do get your one hint from your DM, but you are not totally without contacts or information, so you have Kaeso, Kenzo's former mentor who lives in the south of the city in the Panemsgate neighborhood near the Kylos Market which Kenzo knows the way to.\n\nThe name Crispus was mentioned to you by Marcella as the person who is the senior archivist at the Great Library and supposedly a major patron and sponsor of treasure hunting. Sorry, I just saw your message. You, of course, know Vola the adventurer and explorer you rescued at Raven's Hold who must have presumably, return to Chardon by now.\n\nSeeker has his friend from his first brief stint in Chardon. Ulfgar Frostbeard dwarven scholar on the Faculty of metaphysics at the University of Chardon with."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Ulfgar’s office",
+      "evidence": [
+        {
+          "startUid": "u2005",
+          "endUid": "u2019",
+          "quote": "more likely find him in his office at the university"
+        }
+      ],
+      "kind": "office",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2005",
+              "endUid": "u2019",
+              "quote": "his office at the university"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Chapterhouse",
+      "evidence": [
+        {
+          "startUid": "u2586",
+          "endUid": "u2609",
+          "quote": "you head to the Chapterhouse"
+        }
+      ],
+      "kind": "tavern",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Chapterhouse.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2586",
+              "endUid": "u2609",
+              "quote": "this little area of the colleges of the university"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Red Mesa",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0040",
+          "quote": "near the Red Mesa flying across the rocky outcroppings"
+        }
+      ],
+      "kind": "landmark",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md"
+    },
+    "p15": {
+      "label": "Bas Udda",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0040",
+          "quote": "you reach Bas Udda"
+        }
+      ],
+      "kind": "village",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Bas Udda.md"
+    },
+    "p16": {
+      "label": "Agata’s hut",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0040",
+          "quote": "plain brown mud hut, with a dome roof and chimney beside a garden of thorns and rocks."
+        }
+      ],
+      "kind": "hut",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair.md",
+      "note": "Seen historically through the mirror; the source places it south along a line of dead trees, without establishing a containing region for the hut."
+    },
+    "p17": {
+      "label": "Dunmari market stall in the fan vision",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0089",
+          "quote": "maybe Darba or Tokra some sun some Dunmari markets"
+        }
+      ],
+      "kind": "market stall",
+      "note": "The opening possibilities Darba/Tokra are later paraphrased Tokra/Karawa at u0096; the exact market is unresolved, so no town identity is selected."
+    },
+    "p18": {
+      "label": "Sura’s desert tent",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0089",
+          "quote": "you're in a tent with Sura"
+        }
+      ],
+      "kind": "tent",
+      "note": "The vision establishes a desert camp but does not identify its settlement or exact region."
+    },
+    "p19": {
+      "label": "Message pickup inn",
+      "evidence": [
+        {
+          "startUid": "u1973",
+          "endUid": "u1989",
+          "quote": "stopping to pick up messages at the inn on your way to meet with Ulfgar"
+        }
+      ],
+      "kind": "inn",
+      "note": "Vola’s message was to be left at the Thirsty Scholar, but the compressed pickup calls the stop an unnamed inn. No identification with the Salty Squid or a rooming inn is assumed.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1973",
+              "endUid": "u1989",
+              "quote": "stopping to pick up messages at the inn on your way to meet with Ulfgar"
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Panemsgate neighborhood",
+      "evidence": [
+        {
+          "startUid": "u0245",
+          "endUid": "u0261",
+          "quote": "lives in the south of the city in the Panemsgate neighborhood near the Kylos Market"
+        }
+      ],
+      "kind": "neighborhood",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0245",
+              "endUid": "u0261",
+              "quote": "lives in the south of the city in the Panemsgate neighborhood near the Kylos Market"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "observation",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0040"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The whistle’s historical view begins above the desert near the Red Mesa.",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0040",
+          "quote": "looking down over the desert soaring above it near the Red Mesa flying across the rocky outcroppings in the sunset tones and heading east."
+        }
+      ],
+      "place": "p14",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0040"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The raven’s-eye view reaches Bas Udda at sunset before turning south.",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0040",
+          "quote": "As the sun begins to sink in the sky you reach Bas Udda, the people returning to their homes as the evening begins, small and dark against the setting sun."
+        }
+      ],
+      "place": "p15",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0040"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The view follows dead trees south to the hut and shows Agata tending the dying raven outside it, then making the whistle.",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0040",
+          "quote": "you eventually land outside of plain brown mud hut, with a dome roof and chimney beside a garden of thorns and rocks."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0040",
+          "quote": "A woman comes from the hut, Agata."
+        }
+      ],
+      "place": "p16",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Agata"
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0089"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The fan’s vision shows its purchase at an unidentified Dunmari market.",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0089",
+          "quote": "You are looking out from a market stall maybe Darba or Tokra some sun some Dunmari markets"
+        },
+        {
+          "startUid": "u0096",
+          "endUid": "u0096",
+          "quote": "DM: No, in somewhere in Dunmar, Tokra, Karawa purchased from a trader but."
+        }
+      ],
+      "place": "p17",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0089"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The fan lies on a table in Agata’s hut while she disguises an orc.",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0089",
+          "quote": "you are watching from a table in Agata's hut she is standing next to an orc"
+        }
+      ],
+      "place": "p16",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Agata",
+        "disguised orc"
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0089"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The fan’s view moves to Sura’s tent and follows her out into the desert night with the disguised orc.",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0089",
+          "quote": "you're in a tent with Sura in the hand of this disguised orc."
+        },
+        {
+          "startUid": "u0069",
+          "endUid": "u0089",
+          "quote": "As they walk out of the tent into the darkness of the desert night the orc folds up the fan, places in a pouch and the scene fades to black."
+        }
+      ],
+      "place": "p18",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Sura",
+        "disguised orc"
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0245",
+        "endUid": "u0261"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The Emerald Song sails up the Chasa, passes beneath the lifting bridge, and docks at Chardon’s halfling wharves.",
+      "evidence": [
+        {
+          "startUid": "u0245",
+          "endUid": "u0261",
+          "quote": "Sailing up the broad stretch of the Chasa river to the vibrant, bustling port of Chardon."
+        },
+        {
+          "startUid": "u0245",
+          "endUid": "u0261",
+          "quote": "As you as the Emerald Song slides into a berth in what seems to be the halfling section of the wharves"
+        }
+      ],
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p02",
+      "route": [
+        {
+          "reading": "Pass under the enchanted bridge as its arch rises for the masts."
+        }
+      ],
+      "from": "p03"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u0270",
+        "endUid": "u0275"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party has a few minutes below decks on the docked Emerald Song before Dani’s warning and disembarkation.",
+      "evidence": [
+        {
+          "startUid": "u0270",
+          "endUid": "u0275",
+          "quote": "DM: On as you recall these things I'm. Dani Silversong the quartermaster and trader on the Emerald Song has asked to speak with you briefly before you depart and has also warned you that magic is regulated in Chardon, after having seen your invisibility trick. But, as in the bustle of docking and making the ship secure, you have a few minutes to yourself below decks before you speak with her and before. That yeah, getting off the boat. So is there anything you want to talk to amongst yourselves?"
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "berthed_at",
+          "target": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0470",
+        "endUid": "u0499"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leaving in ones and twos, the PCs pass through the wharf customs house separately.",
+      "evidence": [
+        {
+          "startUid": "u0470",
+          "endUid": "u0480",
+          "quote": "This agent sort of pulls you into the customs house which is sort of a you know blocky structure on the wharf"
+        },
+        {
+          "startUid": "u0496",
+          "endUid": "u0499",
+          "quote": "DM: You're going in like ones or twos right but you're all still leaving the boat right yeah, so this is not happening all the same time, each one again um. And you are also informed that you know weapons cannot be carried openly so. You got to store your gear."
+        }
+      ],
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "This compressed account applies separately to the PCs rather than placing all of them together at the counter.",
+      "from": "p02"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0535",
+        "endUid": "u0556"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn",
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "The companions other than Kenzo gather at the Salty Squid; subsequent narration confirms both dwarves and the bar patrons.",
+      "evidence": [
+        {
+          "startUid": "u0544",
+          "endUid": "u0553",
+          "quote": "DM: Yeah, they're good there's a good number of inns around here I mean. This is a pretty sort of bustling part of the city. The—the Salty Squid looks promising. It has a relatively quiet clientele not too crowded but looks on the nicer end of things for the port. So. The rest of you are just waiting at. You sort of come off in small groups and then are waiting at the gather at the inn is that I'm just trying to understand your point, or are you going to are you going to find your Professor friend or?"
+        },
+        {
+          "startUid": "u0699",
+          "endUid": "u0711",
+          "quote": "Kenzo: Pops into the inn. On I'm assuming you guys are all like not sitting together or this where's everybody?\n\n\nSeeker: We have a dwarf table that only has dwarves at it doing dwarf things you've written.\n\n\nUnknown: Nice.\n\n\nWellby: Halflings bar trading fashion tips [garbled].\n\n\nKenzo: And where's, where's Delwath?\n\n\nDelwath: Delwath is hanging by I guess Wellby at the bar. Are there any humans here?\n\n\nDM: Yeah, there's, this is a, this is a port port bar there's all sorts of sailors and traders and it's more of a merchant sailor."
+        }
+      ],
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Suggested sightseeing and an exotic-animal visit are not resolved as separate visits.",
+      "from": "p05"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0590",
+        "endUid": "u0637"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo walks from the port to Kaeso’s house, passing the Imperial Palace walls, leaving the old city and crossing Kylos Market.",
+      "evidence": [
+        {
+          "startUid": "u0590",
+          "endUid": "u0590",
+          "quote": "DM: Okay, so Kenzo it takes you maybe a little less than an hour to walk to the city and it's you know the."
+        },
+        {
+          "startUid": "u0596",
+          "endUid": "u0603",
+          "quote": "DM: Like. Like like 40 minutes or something um. You know and it's it's strange being back right, I mean not much has changed you you pass you pass by the like walls of the Imperial Palace you pass out of the the old city and through the Kylos Market which is full of, you know just tons of stuff for sale and that and then has you know this big stone in the middle that's a cleaning stone, so you can sort of touch it and basically, it washes washes your clothes, for you.\n\nPeople going past that the vibe I mean."
+        },
+        {
+          "startUid": "u0627",
+          "endUid": "u0629",
+          "quote": "Kenzo: That's what that's what Kaeso is, that kind of represents, [garbled] yeah, I grew up with him in the poor side of town like what would change my mind that's why Kaeso's even Kenzo's got like a lite version alright, so I get to Kaeso's house.\n\n\nDM: You got to Kaeso's you you you knock on the door and."
+        }
+      ],
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass the Imperial Palace walls and leave the old city."
+        },
+        {
+          "reading": "Pass through Kylos Market.",
+          "place": "p08"
+        }
+      ],
+      "duration": {
+        "value": 40,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM refines less than an hour to about forty minutes; arrival follows"
+      },
+      "distance": {
+        "value": 1.5,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Kenzo estimates a mile and a half; earlier DM says a couple of miles"
+      },
+      "note": "The two distance estimates are approximate; neither supplies a precise measured route.",
+      "from": "p05"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0695",
+        "endUid": "u0711"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo returns from Kaeso’s to the Salty Squid and finds the others inside.",
+      "evidence": [
+        {
+          "startUid": "u0695",
+          "endUid": "u0711",
+          "quote": "Kenzo: Put the hood, hood back on, heads out like on a mission hustling back we're meeting the Salty Squid.\n\n\nDM: Yep yep yep.\n\n\nKenzo: Presumably, gets back to the Salty Squid with no no issues.\n\n\nUnknown: Yeah.\n\n\nKenzo: Pops into the inn. On I'm assuming you guys are all like not sitting together or this where's everybody?\n\n\nSeeker: We have a dwarf table that only has dwarves at it doing dwarf things you've written.\n\n\nUnknown: Nice.\n\n\nWellby: Halflings bar trading fashion tips [garbled].\n\n\nKenzo: And where's, where's Delwath?\n\n\nDelwath: Delwath is hanging by I guess Wellby at the bar. Are there any humans here?\n\n\nDM: Yeah, there's, this is a, this is a port port bar there's all sorts of sailors and traders and it's more of a merchant sailor."
+        }
+      ],
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "from": "p07"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u0733",
+        "endUid": "u0761"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party regroups in the alley behind the inn, follows Kenzo at a distance, buys bread on the way, and arrives at Kaeso’s apartment.",
+      "evidence": [
+        {
+          "startUid": "u0733",
+          "endUid": "u0739",
+          "quote": "Kenzo: Yeah, so Kenzo, Kenzo just described the you know first goes to the dwarf table, you know, meet me outside of the alley around the back in five minutes just communicates that just like walk through quickly and just mentioned that everybody, and then it goes to the.\n\n\nWellby: [garbled] see them come over. I'll follow the rest of you and see if we're being tailed.\n\n\nKenzo: Thank you Wellby perfect. Meet you outside in five. Kenzo goes away from the alley.\n\n\nSeeker: We join you discreetly."
+        },
+        {
+          "startUid": "u0741",
+          "endUid": "u0748",
+          "quote": "Kenzo: All right, Kaeso's here and we can meet at his place let's I'm going to take a lead, you guys I'll walk slow just a follow me keep it keep keep distance and we'll meet in this house.\n\n\nSeeker: Right sounds good.\n\n\nKenzo: So Kenzo heads off at a brisk pace, but kind of you know, keeping an eye out, making sure that the companions are following him.\n\n\nDM: Yeah, I mean the city is busy getting now towards late afternoon um. You know the there's a lot of there's a lot of activity, but it's not hard to to follow and. Nobody nobody seems to be tailing you, although Wellby why don't you make a perception check?"
+        },
+        {
+          "startUid": "u0754",
+          "endUid": "u0761",
+          "quote": "Riswynn: Do we perceive any you know bakeries, we can grab some nice bread or something to bring as a hospitality.\n\n\nSeeker: Gift now that's.\n\n\nKenzo: So sweet.\n\n\nDM: Oh yeah, there's definitely bakeries get a few loaves.\n\n\nKenzo: Riswynn's almost always my favorite.\n\n\nDM: So you arrive at Kaeso's house and he motions you all in and then you said is it's not it's not a big place it's a small two storey apartment but he's got a you know, a sitting room and a in a kitchen small kitchen on the first floor with a study and then a bedroom upstairs and there's there's enough space for you all to kind of sit around the table and the sitting room."
+        }
+      ],
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Regroup in the back alley."
+        },
+        {
+          "reading": "Buy bread from a bakery on the way; no separately played bakery scene is established."
+        }
+      ],
+      "from": "p06"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1533",
+        "endUid": "u1571"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After dinner the party walks across Chardon’s academic district to the Thirsty Scholar, where Vola waits at a table.",
+      "evidence": [
+        {
+          "startUid": "u1533",
+          "endUid": "u1535",
+          "quote": "DM: So. Ah. After a light dinner with Kaeso you all head out into the city to go meet Vola, Riswynn's friend."
+        },
+        {
+          "startUid": "u1555",
+          "endUid": "u1571",
+          "quote": "you sort of wander through the city now heading towards the sort of academic area"
+        },
+        {
+          "startUid": "u1555",
+          "endUid": "u1571",
+          "quote": "So you approach go in and you see Vola sitting by herself at a table"
+        }
+      ],
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "from": "p07"
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u1973",
+        "endUid": "u1989"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The next morning, the compressed transition includes collecting Vola’s message at an inn en route to Ulfgar.",
+      "evidence": [
+        {
+          "startUid": "u1973",
+          "endUid": "u1989",
+          "quote": "stopping to pick up messages at the inn on your way to meet with Ulfgar"
+        }
+      ],
+      "place": "p19"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2005",
+        "endUid": "u2026"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party goes to Ulfgar’s university office and is invited inside.",
+      "evidence": [
+        {
+          "startUid": "u2005",
+          "endUid": "u2019",
+          "quote": "DM: Ah, so. What the morning is, you are going to find Ulfgar. So Seeker you, you know where he lives, he lives in a. Although actually, this this time of day you'd actually, more likely find him in his office at the university which you also know where they are, because you spent some time there um.\n\nSo you you sort of walk up and like knock on his door and he's got you know, six books kind of spread out on a desk he's a he's an older dwarf, maybe in the two hundreds or something and you know he's got a neatly trimmed white beard wavy white hair sort of you know fidgeting with his papers and he looks up when he sees Seeker sort of peering around the door. Oh, oh. Seeker."
+        },
+        {
+          "startUid": "u2025",
+          "endUid": "u2026",
+          "quote": "Seeker: Bring friends, indeed, we would love to sit and chat with you for a few minutes if you're willing.\n\n\nDM: Oh yes please come in I have nothing on the schedule this morning."
+        }
+      ],
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Overnight accommodation and the journey to the message pickup are not established, so no lodging visit or precise morning origin is invented.",
+      "from": "p19"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2586",
+        "endUid": "u2618"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the university visit and reaches the Chapterhouse in the colleges’ area, joining Dee and Dain for lunch.",
+      "evidence": [
+        {
+          "startUid": "u2586",
+          "endUid": "u2609",
+          "quote": "DM: Dee and Dain, nice, nice. So yeah, so you, you head to the Chapterhouse and you [garbled] so so this little area of the colleges of the university is um let's see. The Sibyl's college, the Sibyl is one of the eight Divines that's one of the older and or I guess Sibyl Hall, is one of the older and like oldest of the like colleges within the university but hasn't really had a patron or a sponsor for for a while so it's kind of. You know, on the more rundown sides of the like little inns and and taverns around to tend to be not incredibly busy, and so it's an easy place for you know people who don't want to be in the crowds hang out it's also a plausible place for like fallen discredited academic to end up as an undergraduate tutor.\n\nAh, so you head to. You head to the Chapterhouse and and there's about seven or eight people in the—scattered little groups of people eating lunch, but Dee and Dain are immediately recognizable.\n\nThere is. Dain is Dain Goldhammer is a you know, a young sort of athletic dwarf with a braided blond beard long blonde hair back in a ponytail wearing sort of you know, nice traveling clothes, no weapons or armor on him but not surprising given the environment um he's like drinking a beer and like you know wolfing down a bowl of stew with bread.\n\nDee is a young halfling woman short, even for a halfling you know barely hits three feet and with lots of freckles with curly brown hair and she is kind of cheerfully smiling, and like twirling and she has like a little, not even the dagger which is like a little knife that she's sort of twirling and and and fidgeting with.\n\nAnd, and you know, everybody looks up when you. You come in and and they sort of whisper to each other and then he kind of. He kind of waves, you over. You must be the travelers."
+        },
+        {
+          "startUid": "u2611",
+          "endUid": "u2618",
+          "quote": "DM: Glances over you she like looks Wellby like up and down slowly. Nice to meet you have a seat she pulls the chair next to her open in like motions for Wellby next to her that kind of sit around the table. So. You wanted. Vola said, you wanted to chat venture."
+        }
+      ],
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk",
+      "from": "p12"
+    }
+  ]
+}
