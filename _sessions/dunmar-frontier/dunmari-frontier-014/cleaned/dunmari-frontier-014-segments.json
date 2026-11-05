@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-014",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
+    "sessionYamlSha256": "f02b847b40bbf3c093fb104cd5857c76cbe7d99909efec88da458185331f0f09",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-transcript.md",
+    "transcriptSha256": "a6d67e25277b5556d148a4aa68cd8e7a9fbd09381e6a04a9de7193dedabb5342"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0058"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0059",
+        "endUid": "u0223"
+      },
+      "category": "meta_discussion",
+      "note": "Explicit out-of-character review of prior discoveries, followed by a timing clarification before in-character planning resumes."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0224",
+        "endUid": "u2093"
+      },
+      "category": "gameplay",
+      "note": "The storm-rune compulsion and rescue resolve without initiative or a repeated ordered turn cycle."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2094",
+        "endUid": "u2115"
+      },
+      "category": "table_talk",
+      "note": "Mixed lead-in turns to sustained computer troubleshooting and stopping-time discussion."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2116",
+        "endUid": "u2126"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2127",
+        "endUid": "u2180"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2181",
+        "endUid": "u2461"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2462",
+        "endUid": "u2467"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
