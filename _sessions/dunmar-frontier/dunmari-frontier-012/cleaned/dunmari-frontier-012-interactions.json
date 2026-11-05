@@ -1,0 +1,944 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "a9f0a2be70f8dce0cc26111313f8403e8aed14712e43341f0e431461cadba98f"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-entity-map.json",
+      "sha256": "953e9ec590b06009220091d869de1ae76bfa5377536708e832524584a0fbae07"
+    }
+  },
+  "interactions": [
+    {
+      "title": "Riswynn checks her family shield",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0059",
+        "endUid": "u0068"
+      },
+      "lines": [
+        "%% u0059:0-105, u0060:0-4, u0061:0-9, u0062:0-96, u0063:0-41, u0064:0-53, u0065:0-60, u0066:0-254, u0067:0-36, u0068:0-59 %%",
+        "Riswynn: ((Morning armor routine))You know, she can't help to take out and look and check on the the shield that tells her family's history and which has brought her onto this onto this journey, and she's finally, you know, carrying it with her everywhere as we make our way through all of these travails, to ensure that eventually gets back to her family.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Just after sunrise.",
+          "Kenzo: And how big is the room that we're in?",
+          "DM: It's about maybe 40 feet across, a circle.",
+          "Kenzo: Okay, small room. Yeah. So, Kenzo—Kenzo's about, you know, six-foot-tall human wearing a light tunic, actually probably not too dissimilar to like what I'm, what I'm wearing right now. I'm like, light tunic, could—smaller pack with just like his staff, like two staffs, he still—I'm still carrying around that that other [garbled] that other staff that—um, anyways, two large, large staffs like kind of next to the pack on the ground. Longer hair tied back into into a bit of a touch of a topknot and, and yeah, and—",
+          "Kenzo: Kenzo's kind of splitting his consciousness, occasionally looking over at Seeker and his maps with some curiosity at what Seeker's doing, and then also with spending most of his consciousness just kind of peering carefully outside of the window and just really trying to observe and just see what is going on out there? Who—what is the vibe outside? And really trying to sense the energetics of the moment."
+        ],
+        "after": [
+          "DM: Vola is shaken, but looks more well rested than some of the rest of you. She's been sitting quietly by her bedroll, occasionally like brushing short brown hair out of her eyes, but otherwise not seeming to move much as she methodically oils her armor, tightening down every strap, making sure that there's nothing that could make a strange noise, no buckles loose that would clank as she moves.",
+          "DM: Um, as the early morning sun casts the pale line of light from the eastern window, as you all begin to sort of start your day—who was—Delwath and Kenzo, who have been pacing back and forth and keeping an eye out of the window, you see a band of gnolls begin to approach from in the distance. So, looking out over the courtyard. The out—this is the outer court, right on the map that we're looking at right here.",
+          "Unknown: This—",
+          "DM: Back here is the inner courtyard, where the keep is and the dead demon. Out here where this—",
+          "Seeker: Is—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i001"
+    },
+    {
+      "title": "Vola prepares in silence",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0071"
+      },
+      "lines": [
+        "%% u0069:0-72, u0070:0-148, u0071:0-169 %%",
+        "DM: Vola is shaken, but looks more well rested than some of the rest of you. She's been sitting quietly by her bedroll, occasionally like brushing short brown hair out of her eyes, but otherwise not seeming to move much as she methodically oils her armor, tightening down every strap, making sure that there's nothing that could make a strange noise, no buckles loose that would clank as she moves.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: And how big is the room that we're in?",
+          "DM: It's about maybe 40 feet across, a circle.",
+          "Kenzo: Okay, small room. Yeah. So, Kenzo—Kenzo's about, you know, six-foot-tall human wearing a light tunic, actually probably not too dissimilar to like what I'm, what I'm wearing right now. I'm like, light tunic, could—smaller pack with just like his staff, like two staffs, he still—I'm still carrying around that that other [garbled] that other staff that—um, anyways, two large, large staffs like kind of next to the pack on the ground. Longer hair tied back into into a bit of a touch of a topknot and, and yeah, and—",
+          "Kenzo: Kenzo's kind of splitting his consciousness, occasionally looking over at Seeker and his maps with some curiosity at what Seeker's doing, and then also with spending most of his consciousness just kind of peering carefully outside of the window and just really trying to observe and just see what is going on out there? Who—what is the vibe outside? And really trying to sense the energetics of the moment.",
+          "Riswynn: Riswynn has woken up from a pretty good sleep and is getting herself very organized, going over her armor. As a dwarf and cleric with with with tinkering skills, she's very methodical about a routine of going over her—her armor and making sure that any little connections are, are tight and ready to hold fast and make sure that she has the most treasured possession of this quest of hers securely fastened. You know, she can't help to take out and look and check on the the shield that tells her family's history and which has brought her onto this onto this journey, and she's finally, you know, carrying it with her everywhere as we make our way through all of these travails, to ensure that eventually gets back to her family."
+        ],
+        "after": [
+          "DM: Um, as the early morning sun casts the pale line of light from the eastern window, as you all begin to sort of start your day—who was—Delwath and Kenzo, who have been pacing back and forth and keeping an eye out of the window, you see a band of gnolls begin to approach from in the distance. So, looking out over the courtyard. The out—this is the outer court, right on the map that we're looking at right here.",
+          "Unknown: This—",
+          "DM: Back here is the inner courtyard, where the keep is and the dead demon. Out here where this—",
+          "Seeker: Is—",
+          "Riswynn: Not seeing this."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i002"
+    },
+    {
+      "title": "The gnoll leader and flying demon fall",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0102",
+        "endUid": "u1213"
+      },
+      "lines": [
+        "%% u0102:0-22, u0103:0-146, u0104:0-22, u0105:0-53 %%",
+        "DM: A group of nine gnolls, um, moving quickly down the path, several small hyenas following after them, and flying in the air next to the—what seems to be the leader, a small bat-like creature with a long tail and demon wings, but no bigger than a bat.",
+        "",
+        "%% u0106:0-26, u0107:0-50, u0108:0-7, u0109:0-4, u0110:0-3, u0111:0-4, u0112:0-16, u0113:0-55, u0113:55-78, u0114:0-7, u0115:0-42, u0116:0-67, u0117:0-48, u0118:0-95, u0119:0-48, u0120:0-7, u0121:0-44, u0122:0-26, u0123:0-16, u0124:0-38, u0125:0-4, u0126:0-5, u0127:0-65, u0128:0-11, u0129:0-4, u0130:0-36, u0131:0-119, u0132:0-5, u0133:0-43, u0134:0-167, u0135:0-20, u0136:0-58, u0137:0-70, u0138:0-43, u0139:0-28, u0140:0-23, u0141:0-5, u0142:0-17, u0143:0-37, u0144:0-82, u0145:0-38, u0146:0-5, u0147:0-139, u0148:0-57, u0149:0-85, u0150:0-18, u0151:0-48, u0152:0-5, u0153:0-34, u0154:0-108, u0155:0-80, u0156:0-36, u0157:0-8, u0158:0-43, u0159:0-75, u0160:0-25, u0161:0-19, u0162:0-39, u0163:0-48, u0164:0-35, u0165:0-17, u0166:0-35, u0167:0-93, u0168:0-70, u0169:0-45, u0170:0-2, u0171:0-23, u0172:0-158, u0173:0-68, u0174:0-14, u0175:0-10, u0176:0-13, u0177:0-169, u0178:0-70, u0179:0-102, u0180:0-8, u0181:0-35, u0182:0-40, u0183:0-161, u0184:0-31, u0185:0-53, u0186:0-158, u0187:0-5, u0188:0-29, u0189:0-3, u0190:0-17, u0191:0-122, u0192:0-84, u0193:0-12, u0194:0-16, u0195:0-43, u0196:0-80, u0197:0-7, u0198:0-178, u0199:0-166, u0200:0-3, u0201:0-32, u0202:0-31, u0203:0-20, u0204:0-16, u0205:0-48, u0206:0-90, u0207:0-30, u0208:0-3, u0209:0-9, u0210:0-9, u0211:0-40, u0212:0-35, u0213:0-36, u0214:0-13, u0215:0-17, u0216:0-19, u0217:0-33, u0218:0-47, u0219:0-23, u0220:0-44, u0221:0-56, u0222:0-33, u0223:0-62, u0224:0-23, u0225:0-22, u0226:0-37, u0227:0-15, u0228:0-52, u0228:52-107, u0228:107-111, u0229:0-3, u0230:0-30, u0231:0-4, u0232:0-8, u0233:0-180, u0234:0-94, u0235:0-20, u0236:0-33, u0237:0-11, u0238:0-52, u0239:0-57, u0240:0-36, u0241:0-20, u0242:0-65, u0243:0-34, u0244:0-3, u0245:0-38, u0246:0-1, u0247:0-29, u0248:0-8, u0249:0-60, u0250:0-83, u0251:0-6, u0252:0-171, u0253:0-50, u0254:0-5, u0255:0-26, u0256:0-39, u0257:0-29, u0258:0-101, u0259:0-94, u0260:0-24, u0261:0-17, u0262:0-21, u0263:0-12, u0264:0-49, u0265:0-26, u0266:0-121, u0267:0-49, u0268:0-7, u0269:0-34, u0270:0-55, u0271:0-64, u0272:0-9, u0273:0-36, u0274:0-39, u0275:0-11, u0276:0-50, u0277:0-3, u0278:0-40, u0279:0-52, u0280:0-7, u0281:0-19, u0282:0-29, u0283:0-70, u0284:0-9, u0285:0-9, u0286:0-69, u0287:0-9, u0288:0-14, u0289:0-73, u0290:0-34, u0291:0-27, u0292:0-30, u0293:0-68, u0294:0-5, u0295:0-38, u0296:0-101, u0297:0-3, u0298:0-63, u0299:0-5, u0300:0-8, u0301:0-19, u0302:0-119, u0303:0-24, u0304:0-14, u0305:0-5, u0306:0-83, u0307:0-67, u0308:0-29, u0309:0-3, u0310:0-86, u0311:0-261, u0312:0-10, u0313:0-260, u0314:0-38, u0315:0-12, u0316:0-45, u0317:0-64, u0318:0-110, u0319:0-30, u0320:0-82, u0321:0-4, u0322:0-122, u0323:0-13, u0324:0-13, u0325:0-10, u0326:0-5, u0327:0-17, u0328:0-30, u0329:0-44, u0330:0-33, u0331:0-49, u0332:0-35, u0333:0-25, u0334:0-46, u0335:0-8, u0336:0-32, u0337:0-13, u0338:0-93, u0339:0-41, u0340:0-81, u0341:0-51, u0342:0-5, u0343:0-12, u0344:0-19, u0345:0-17, u0346:0-71, u0347:0-54, u0348:0-7, u0349:0-12, u0350:0-38, u0351:0-18, u0352:0-12, u0353:0-18, u0354:0-106, u0355:0-5, u0356:0-12, u0357:0-20, u0358:0-52, u0359:0-49, u0360:0-72, u0361:0-53, u0362:0-28, u0363:0-31, u0364:0-15, u0365:0-40, u0366:0-7, u0367:0-39, u0368:0-25, u0369:0-3, u0370:0-47, u0371:0-9, u0372:0-47, u0373:0-30, u0374:0-9, u0375:0-8, u0376:0-3, u0377:0-95, u0378:0-33, u0379:0-58, u0380:0-55, u0381:0-18, u0382:0-5, u0383:0-3, u0384:0-18, u0385:0-13, u0386:0-37, u0387:0-31, u0388:0-12, u0389:0-12, u0390:0-7, u0391:0-50, u0392:0-43, u0393:0-28 %%",
+        "((Battle preparation and combat))",
+        "",
+        "%% u0394:0-56, u0395:0-61, u0396:0-71, u0397:0-32, u0398:0-13, u0399:0-52 %%",
+        "DM: ((Opening shot))And it just dissipates in this puff of flame and smoke, and all of these—the gnolls start looking around in a bit of a confusion. ((Initiative mechanics))",
+        "",
+        "%% u0400:0-14, u0401:0-5, u0402:0-26, u0403:0-12, u0404:0-131, u0405:0-13, u0406:0-11, u0407:0-2, u0408:0-8, u0409:0-19, u0410:0-22, u0411:0-6, u0412:0-31, u0413:0-62, u0414:0-5, u0415:0-7, u0416:0-43, u0417:0-18, u0418:0-6, u0419:0-122, u0420:0-17, u0421:0-30, u0422:0-14, u0423:0-21, u0424:0-10, u0425:0-13, u0426:0-93, u0427:0-19, u0428:0-32, u0429:0-8, u0430:0-26, u0431:0-68, u0432:0-22, u0433:0-14, u0434:0-90, u0435:0-3, u0436:0-3, u0437:0-8, u0438:0-51, u0439:0-4, u0440:0-18, u0441:0-17, u0442:0-3, u0443:0-17, u0444:0-25, u0445:0-31, u0446:0-5, u0447:0-6, u0448:0-68, u0449:0-16, u0450:0-14, u0451:0-22, u0452:0-30, u0453:0-5, u0454:0-3, u0455:0-22, u0456:0-9, u0457:0-23, u0458:0-15, u0459:0-8, u0460:0-8, u0461:0-3, u0462:0-45, u0463:0-33, u0464:0-9, u0465:0-29, u0466:0-71, u0467:0-2, u0468:0-35, u0469:0-31, u0470:0-22, u0471:0-4, u0472:0-43, u0473:0-23, u0474:0-35, u0475:0-41, u0476:0-5, u0477:0-17, u0478:0-15, u0479:0-20, u0480:0-68, u0481:0-14, u0482:0-53, u0483:0-40, u0484:0-24, u0485:0-14, u0486:0-3, u0487:0-34, u0488:0-21, u0489:0-7, u0490:0-16, u0491:0-18, u0492:0-8, u0493:0-31, u0494:0-3, u0495:0-32, u0496:0-64, u0497:0-8, u0498:0-37, u0499:0-5, u0500:0-68, u0501:0-35, u0502:0-24, u0503:0-56, u0504:0-13, u0505:0-166, u0506:0-40, u0507:0-34, u0508:0-25, u0509:0-28, u0510:0-11, u0511:0-38, u0512:0-206, u0513:0-216, u0514:0-104, u0515:0-27, u0516:0-77, u0517:0-49, u0518:0-5, u0519:0-58, u0520:0-32, u0521:0-5, u0522:0-32, u0523:0-25, u0524:0-62, u0525:0-116, u0526:0-48, u0527:0-70, u0528:0-120, u0529:0-37, u0530:0-7, u0531:0-52, u0532:0-15, u0533:0-36, u0534:0-2, u0535:0-31, u0536:0-155, u0537:0-34, u0538:0-53, u0539:0-6, u0540:0-91, u0541:0-26, u0542:0-51, u0543:0-3, u0544:0-20, u0545:0-2, u0546:0-13, u0547:0-13, u0548:0-9, u0549:0-29, u0550:0-52, u0551:0-6, u0552:0-16, u0553:0-19, u0554:0-8, u0555:0-14, u0556:0-20, u0557:0-16, u0558:0-12, u0559:0-12, u0560:0-53, u0561:0-37, u0562:0-5, u0563:0-12, u0564:0-21, u0565:0-5, u0566:0-56, u0567:0-22, u0568:0-68, u0569:0-62, u0570:0-16, u0571:0-136, u0572:0-4, u0573:0-7, u0574:0-8, u0575:0-53, u0576:0-27, u0577:0-121, u0578:0-24, u0579:0-21, u0580:0-68, u0581:0-22, u0582:0-24, u0583:0-60, u0584:0-76, u0585:0-2, u0586:0-23, u0587:0-16, u0588:0-22, u0589:0-13, u0590:0-13, u0591:0-27, u0592:0-4, u0593:0-22, u0594:0-33, u0595:0-22, u0596:0-70, u0597:0-9, u0598:0-4, u0599:0-20, u0600:0-7, u0601:0-14, u0602:0-49, u0603:0-18, u0604:0-20, u0605:0-68, u0606:0-58, u0607:0-48, u0608:0-63, u0609:0-5, u0610:0-53, u0611:0-34, u0612:0-47, u0613:0-24, u0614:0-6, u0615:0-4, u0616:0-53, u0617:0-17, u0618:0-21, u0619:0-32, u0620:0-11, u0621:0-117, u0622:0-129, u0623:0-11, u0624:0-2, u0625:0-32, u0626:0-97, u0627:0-6, u0628:0-6, u0629:0-23, u0630:0-7, u0631:0-21, u0632:0-19, u0633:0-5, u0634:0-3, u0635:0-50, u0636:0-79, u0637:0-3, u0638:0-94, u0639:0-14, u0640:0-3, u0641:0-62, u0642:0-17, u0643:0-89, u0644:0-56, u0645:0-32, u0646:0-77, u0647:0-41, u0648:0-73, u0649:0-63, u0650:0-6, u0651:0-9, u0652:0-9, u0653:0-25, u0654:0-6, u0655:0-44, u0656:0-15, u0657:0-70, u0658:0-5, u0659:0-10, u0660:0-25, u0661:0-12, u0662:0-10, u0663:0-21, u0664:0-25, u0665:0-47, u0666:0-43, u0667:0-119, u0668:0-8, u0669:0-22, u0670:0-45, u0671:0-12, u0672:0-3, u0673:0-23, u0674:0-11, u0675:0-13, u0676:0-27, u0677:0-48, u0678:0-18, u0679:0-15, u0680:0-10, u0681:0-27, u0682:0-29, u0683:0-20, u0684:0-38, u0685:0-20, u0686:0-3, u0687:0-2, u0688:0-49, u0689:0-40, u0690:0-20, u0691:0-34, u0692:0-59, u0693:0-75, u0694:0-106, u0695:0-62, u0696:0-11, u0697:0-14, u0698:0-18, u0699:0-112, u0700:0-25, u0701:0-68, u0702:0-102, u0703:0-46, u0704:0-78, u0705:0-6, u0706:0-35, u0707:0-84, u0708:0-24, u0709:0-3, u0710:0-10, u0711:0-63, u0712:0-3, u0713:0-18, u0714:0-3, u0715:0-55, u0716:0-11, u0717:0-82, u0718:0-10, u0719:0-81, u0720:0-130, u0721:0-47, u0722:0-60, u0723:0-23, u0724:0-22, u0725:0-3, u0726:0-55, u0727:0-4, u0728:0-6, u0729:0-3, u0730:0-8, u0731:0-35, u0732:0-21, u0733:0-25, u0734:0-24, u0735:0-114, u0736:0-68, u0737:0-79, u0738:0-32, u0739:0-94, u0740:0-20, u0741:0-39, u0742:0-5, u0743:0-38, u0744:0-5, u0745:0-10, u0746:0-65, u0747:0-126, u0748:0-41, u0749:0-10, u0750:0-30, u0751:0-40, u0752:0-4, u0753:0-82, u0754:0-23, u0755:0-89, u0756:0-37, u0757:0-16, u0758:0-7, u0759:0-6, u0760:0-30, u0761:0-36, u0762:0-9, u0763:0-35, u0764:0-18, u0765:0-34, u0766:0-42, u0767:0-8, u0768:0-4, u0769:0-37, u0770:0-8, u0771:0-87, u0772:0-7, u0773:0-8, u0774:0-15, u0775:0-36, u0776:0-30, u0777:0-18, u0778:0-18, u0779:0-9, u0780:0-139, u0781:0-25, u0782:0-25, u0783:0-30, u0784:0-31, u0785:0-52, u0786:0-55, u0787:0-12, u0788:0-18, u0789:0-5, u0790:0-134, u0791:0-3, u0792:0-107, u0793:0-96, u0794:0-50, u0795:0-6, u0796:0-68, u0797:0-27, u0798:0-11, u0799:0-12, u0800:0-48, u0801:0-40, u0802:0-158, u0803:0-21, u0804:0-64, u0805:0-19, u0806:0-40, u0807:0-65, u0808:0-114, u0809:0-37, u0810:0-24, u0811:0-39, u0812:0-46, u0813:0-7, u0814:0-53, u0815:0-50, u0816:0-34, u0817:0-80, u0818:0-267, u0819:0-27, u0820:0-3, u0821:0-30, u0822:0-34, u0823:0-4, u0824:0-5, u0825:0-10, u0826:0-122, u0827:0-5, u0828:0-11, u0829:0-45, u0830:0-49, u0831:0-57, u0832:0-12, u0833:0-26, u0834:0-56, u0835:0-17, u0836:0-39, u0837:0-109, u0838:0-28, u0839:0-22, u0840:0-28, u0841:0-66, u0842:0-14, u0843:0-31, u0844:0-20, u0845:0-7, u0846:0-18, u0847:0-12, u0848:0-8, u0849:0-8, u0850:0-60, u0851:0-17, u0852:0-40, u0853:0-10, u0854:0-13, u0855:0-13, u0856:0-18, u0857:0-4, u0858:0-3, u0859:0-78, u0860:0-41, u0861:0-21, u0862:0-33, u0863:0-55, u0864:0-41, u0865:0-28, u0866:0-10, u0867:0-46, u0868:0-11, u0869:0-9, u0870:0-5, u0871:0-33, u0872:0-54, u0873:0-8, u0874:0-20, u0875:0-5, u0876:0-43, u0877:0-40, u0878:0-19, u0879:0-56, u0880:0-44, u0881:0-24, u0882:0-35, u0883:0-135, u0884:0-3, u0885:0-26, u0886:0-11, u0887:0-51, u0888:0-3, u0889:0-17, u0890:0-215, u0891:0-3, u0892:0-20, u0893:0-50, u0894:0-7, u0895:0-36, u0896:0-36, u0897:0-9, u0898:0-136, u0899:0-42, u0900:0-46, u0901:0-16, u0902:0-12, u0903:0-12, u0904:0-48, u0905:0-51, u0906:0-18, u0907:0-17, u0908:0-10, u0909:0-19, u0910:0-9, u0911:0-61, u0912:0-44, u0913:0-12, u0914:0-74, u0915:0-66, u0916:0-7, u0917:0-20, u0918:0-34, u0919:0-67, u0920:0-15, u0921:0-76, u0922:0-13, u0923:0-83, u0924:0-11, u0925:0-39, u0926:0-20, u0927:0-57, u0928:0-11, u0929:0-15, u0930:0-15, u0931:0-48, u0932:0-68, u0933:0-55, u0934:0-19, u0935:0-24, u0936:0-40, u0937:0-30, u0938:0-6, u0939:0-77, u0940:0-5, u0941:0-10, u0942:0-25, u0943:0-46, u0944:0-88, u0945:0-17, u0946:0-38, u0947:0-21, u0948:0-57, u0949:0-37, u0950:0-9, u0951:0-14, u0952:0-27, u0953:0-105, u0954:0-33, u0955:0-19, u0956:0-16, u0957:0-20, u0958:0-8, u0959:0-64, u0960:0-6, u0961:0-82, u0962:0-18, u0963:0-25, u0964:0-15, u0965:0-168, u0966:0-117, u0967:0-36, u0968:0-18, u0969:0-7, u0970:0-7, u0971:0-33, u0972:0-23, u0973:0-14, u0974:0-66, u0975:0-8, u0976:0-12, u0977:0-36, u0978:0-123, u0979:0-44, u0980:0-20, u0981:0-3, u0982:0-12, u0983:0-25, u0984:0-42, u0985:0-36, u0986:0-20, u0987:0-112, u0988:0-22, u0989:0-56, u0990:0-5, u0991:0-57, u0992:0-20, u0993:0-29, u0994:0-11, u0995:0-65, u0996:0-14, u0997:0-9, u0998:0-111, u0999:0-13, u1000:0-48, u1001:0-15, u1002:0-30, u1003:0-11, u1004:0-79, u1005:0-59, u1006:0-74, u1007:0-150, u1008:0-5, u1009:0-5, u1010:0-43, u1011:0-5, u1012:0-35, u1013:0-27, u1014:0-9, u1015:0-33, u1016:0-2, u1017:0-5, u1018:0-19, u1019:0-19, u1020:0-15, u1021:0-44, u1022:0-16, u1023:0-29, u1024:0-17, u1025:0-5, u1026:0-14, u1027:0-60, u1028:0-35, u1029:0-25, u1030:0-13, u1031:0-4, u1032:0-13, u1033:0-4, u1034:0-15, u1035:0-150, u1036:0-26, u1037:0-53, u1038:0-18, u1039:0-22, u1040:0-15, u1041:0-8, u1042:0-27, u1043:0-30, u1044:0-8, u1045:0-15, u1046:0-51, u1047:0-5, u1048:0-46, u1049:0-49, u1050:0-56, u1051:0-28, u1052:0-7, u1053:0-28, u1054:0-8, u1055:0-13, u1056:0-30, u1057:0-16, u1058:0-13, u1059:0-5, u1060:0-25, u1061:0-20, u1062:0-122, u1063:0-157, u1064:0-106, u1065:0-30, u1066:0-6, u1067:0-13, u1068:0-100, u1069:0-17, u1070:0-74, u1071:0-7, u1072:0-36, u1073:0-5, u1074:0-42, u1075:0-4, u1076:0-36, u1077:0-18, u1078:0-5, u1079:0-90, u1080:0-25, u1081:0-34, u1082:0-91, u1083:0-37, u1084:0-44, u1085:0-23, u1086:0-34, u1087:0-26, u1088:0-35, u1089:0-42, u1090:0-10, u1091:0-32, u1092:0-56, u1093:0-68, u1094:0-42, u1095:0-141, u1096:0-5, u1097:0-10, u1098:0-11, u1099:0-38, u1100:0-8, u1101:0-10, u1102:0-4, u1103:0-3, u1104:0-13, u1105:0-31, u1106:0-52, u1107:0-23, u1108:0-25, u1109:0-33, u1110:0-17, u1111:0-9, u1112:0-36, u1113:0-2, u1114:0-14, u1115:0-7, u1116:0-4, u1117:0-42, u1118:0-22, u1119:0-20, u1120:0-36, u1121:0-72, u1122:0-191, u1123:0-100, u1124:0-29, u1125:0-54, u1126:0-23, u1127:0-37, u1128:0-17, u1129:0-15, u1130:0-62, u1131:0-3, u1132:0-4, u1133:0-25, u1134:0-8, u1135:0-151, u1136:0-25, u1137:0-8, u1138:0-21, u1139:0-20, u1140:0-10, u1141:0-21, u1142:0-22, u1143:0-15, u1144:0-13, u1145:0-4, u1146:0-9, u1147:0-47, u1148:0-4, u1149:0-73, u1150:0-32, u1151:0-15, u1152:0-26, u1153:0-18, u1154:0-29, u1155:0-29, u1156:0-16, u1157:0-24, u1158:0-179, u1159:0-54, u1160:0-31, u1161:0-38, u1162:0-20, u1163:0-164, u1164:0-16, u1165:0-159, u1166:0-5, u1167:0-42, u1168:0-140, u1169:0-54, u1170:0-19, u1171:0-13, u1172:0-10, u1173:0-8, u1174:0-26, u1175:0-11, u1176:0-30, u1177:0-41, u1178:0-13, u1179:0-12, u1180:0-77, u1181:0-12, u1182:0-112, u1183:0-75, u1184:0-131, u1185:0-34, u1186:0-6, u1187:0-44, u1188:0-8, u1189:0-17, u1190:0-69, u1191:0-32, u1192:0-9, u1193:0-5, u1194:0-21, u1195:0-10, u1196:0-15, u1197:0-20, u1198:0-66, u1199:0-41, u1200:0-14, u1201:0-10, u1202:0-4, u1203:0-2, u1204:0-25, u1205:0-11, u1206:0-21, u1207:0-24 %%",
+        "((Battle preparation and combat))",
+        "",
+        "%% u1208:0-65, u1209:0-16, u1210:0-32 %%",
+        "DM: ((Shot distance))Wellby's arrow just slides straight and true, and you see this gnoll in the distance fall over.",
+        "",
+        "%% u1211:0-18, u1212:0-24 %%",
+        "((Battle preparation and combat))",
+        "",
+        "%% u1213:0-82 %%",
+        "Delwath: Yeah, the leader we got.((Escaping escort discussion))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: What?",
+          "Kenzo: Is—what is green and weird? I know.",
+          "Seeker: It's like—",
+          "DM: There's, so, mists and vapors sort of gathered over the—the ground. Pools of of dark, fetid water, dead trees. And this is, you know, this is where you've been—this sort of area is where you've sort of, you know, the—the smells, the sort of burnt, sulfuric rot smell has sort of been drifting up from here and you can see now, coming in the distance from this far gate here down this path, avoiding these mists as best they can, kind of edging along the side here. Um, a group of—",
+          "Unknown: Let's count as—"
+        ],
+        "after": [
+          "Kenzo: But that's okay, but that's—I think the the leaders, the one that's probably the one able to communicate something. I don't—",
+          "Delwath: Yeah, I—yeah, we'll see.",
+          "DM: Okay, Delwath.",
+          "Delwath: What's the state of these two hunter dudes?",
+          "DM: One of them, the one that got—that his own arrow was shot into them—is on the left, is wounded. The other one is not. All right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i003"
+    },
+    {
+      "title": "Seeker strokes Taster",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0166",
+        "endUid": "u0166"
+      },
+      "lines": [
+        "%% u0166:0-35 %%",
+        "Seeker: Pensively stroke Taster, the bunny.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You have not really seen this part, no, and—",
+          "Seeker: The sort of big scorched areas are like ruined buildings or something else?",
+          "DM: Which big scorched areas?",
+          "Seeker: Here, and then those—",
+          "DM: Are—those are pools of—these are water. Oh, and then that's—these are dead trees. Nice. Okay, these are pools of like black, like fetid water."
+        ],
+        "after": [
+          "Delwath: So, I mean, presumably there's an opportunity to ambush the gnolls here from the arrow slits. Like we're in a defensive gatehouse on the walls of the castle, right?",
+          "Wellby: Definitely. Just let them get close [garbled].",
+          "Seeker: Or see what they're doing.",
+          "Kenzo: As I was gonna say, do we want to try to learn more what they're up to, this event. There's a commander, there's—you seem like there's any intelligence? What's—",
+          "DM: Um, yeah, so there's one sort of in the front that seems to be, ah, maybe carrying—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i004"
+    },
+    {
+      "title": "Taster is asleep in the tower",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2243",
+        "endUid": "u2247"
+      },
+      "lines": [
+        "%% u2243:0-25, u2244:0-31, u2245:0-1 %%",
+        "Kenzo: Sure, I think absolutely. I mean, well, there's Taster, but I—",
+        "",
+        "%% u2246:0-37, u2247:0-9 %%",
+        "DM: He's just sleeping back in the tower. That mean—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Ah, OK, so, so Seeker, as you begin to—you and Kenzo begin to approach the stables, what you can see here is that there—this is the, you know, there's a pack of maybe 70 to 100 wild animals. They're mostly, mostly hyenas, some jackals, some mountain lions, a few actual lions, wild dogs.",
+          "DM: And they're split across about 25 stalls, you know, stables that, that used to be for horses about, you know, between two and five to a pen and they are chained so they can barely move, with thick iron bands around their, their necks; in some cases, like ropes, and some cases, you know, they almost seem to be just like rubble was piled on their front legs like this is a—it's not—this isn't an organized, you know, every animal is carefully tied—",
+          "Seeker: Up in a—",
+          "DM: In some way they're just penned in some—some are not even chained, but there's just been rubble push so they basically can't move up against the side of the stables and they all look incredibly gaunt and hungry, and they're constantly whining and growling and, you know, both at each other and their situation and just, you know, trying to get food or get out or, or something.",
+          "Seeker: Huh, Kenzo, maybe we can offer them something to eat if they give us some information. Do we have anything in kind of thing on you, something?"
+        ],
+        "after": [
+          "Kenzo: I pull out a bit, a bit of like kind of dried, dried, dried rations.",
+          "Seeker: Alright, so we'll approach nearby one that doesn't look too hysterical.",
+          "DM: Okay, so there's a, you know, there's a pen sort of on the—seems to be like the, the—they've been filling it from back to front, so the ones closest to you seem to be in the sort of best shape. And there's a stall kind of near to the front that has four hyenas in it that are front paws are tied up with rope and then kind of looped around the outside of the stables and they're sort of growling at each other, but don't, don't seem too badly off.",
+          "Seeker: Mm hmm.",
+          "DM: And don't seem too hysterical, right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i005"
+    },
+    {
+      "title": "The captive hyena asks for food",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2250",
+        "endUid": "u2306"
+      },
+      "lines": [
+        "%% u2250:0-83, u2251:0-108, u2252:0-13, u2253:0-67, u2254:0-170 %%",
+        "DM: Okay, so there's a, you know, there's a pen sort of on the—seems to be like the, the—they've been filling it from back to front, so the ones closest to you seem to be in the sort of best shape. And there's a stall kind of near to the front that has four hyenas in it that are front paws are tied up with rope and then kind of looped around the outside of the stables and they're sort of growling at each other, but don't, don't seem too badly off.",
+        "",
+        "%% u2255:0-7 %%",
+        "Seeker: Mm hmm.",
+        "",
+        "%% u2256:0-37 %%",
+        "DM: And don't seem too hysterical, right.",
+        "",
+        "%% u2257:0-34, u2258:0-69 %%",
+        "Seeker: So, no, I'm going to say in a, in a—“Hello, friends. We can offer a snack if you'll answer some questions.”",
+        "",
+        "%% u2259:0-61, u2260:0-53, u2261:0-234, u2262:0-6, u2263:0-46, u2264:0-27, u2265:0-21, u2266:0-5, u2267:0-5, u2268:0-5, u2269:0-8, u2270:0-46, u2271:0-82, u2272:0-61 %%",
+        "((Kenzo listens meditatively))",
+        "",
+        "%% u2273:0-27, u2274:0-55 %%",
+        "Seeker: Oh, I said it a minute ago. “Will offer—we have some food if you answer questions.”",
+        "",
+        "%% u2275:0-12 %%",
+        "DM: “Yes, please.”",
+        "",
+        "%% u2276:0-42 %%",
+        "Seeker: “How did you get here? Who brought you here?”",
+        "",
+        "%% u2277:0-29, u2278:0-9, u2279:0-12 %%",
+        "DM: “The beasts with the two legs caught us on our home.”",
+        "",
+        "%% u2280:0-31 %%",
+        "Seeker: “How many days’ travel from here?”",
+        "",
+        "%% u2281:0-13 %%",
+        "DM: “Several suns.”",
+        "",
+        "%% u2282:0-2, u2283:0-13, u2284:0-24 %%",
+        "Seeker: Um, Kenzo, can—you might be able to answer.",
+        "",
+        "%% u2285:0-47 %%",
+        "Kenzo: What did—if they know what’s happening to them.",
+        "",
+        "%% u2286:0-3 %%",
+        "Seeker: Oh.",
+        "",
+        "%% u2287:0-20 %%",
+        "Kenzo: That's what I'm—what—",
+        "",
+        "%% u2288:0-49 %%",
+        "Seeker: “What are they doing to you and your friends here?”",
+        "",
+        "%% u2289:0-9, u2290:0-11 %%",
+        "DM: “Starving. Starving us.”",
+        "",
+        "%% u2291:0-3 %%",
+        "Seeker: “Why?”",
+        "",
+        "%% u2292:0-10 %%",
+        "DM: “So hungry.”",
+        "",
+        "%% u2293:0-2 %%",
+        "Kenzo: Um—",
+        "",
+        "%% u2294:0-10, u2295:0-12 %%",
+        "DM: “Can’t move. Please, food.”",
+        "",
+        "%% u2296:0-56, u2297:0-44, u2298:0-23 %%",
+        "Seeker: Offer them, offer them one little chunk of the rations. Wonder. “Have you seen anything weird happen while you've been here?”",
+        "",
+        "%% u2299:0-63 %%",
+        "DM: You get the sense he doesn't really know what you mean by weird.",
+        "",
+        "%% u2300:0-7 %%",
+        "Unknown: Mm hmm.",
+        "",
+        "%% u2301:0-18 %%",
+        "Seeker: “What have you seen?”",
+        "",
+        "%% u2302:0-30, u2303:0-6, u2304:0-6 %%",
+        "DM: “They come, but not enough food. I see stone.”",
+        "",
+        "%% u2305:0-4, u2306:0-8 %%",
+        "Unknown: “Rope. Nothing.”",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Huh, Kenzo, maybe we can offer them something to eat if they give us some information. Do we have anything in kind of thing on you, something?",
+          "Kenzo: Sure, I think absolutely. I mean, well, there's Taster, but I—",
+          "DM: He's just sleeping back in the tower. That mean—",
+          "Kenzo: I pull out a bit, a bit of like kind of dried, dried, dried rations.",
+          "Seeker: Alright, so we'll approach nearby one that doesn't look too hysterical."
+        ],
+        "after": [
+          "Seeker: Whole thing is such a puzzle, though. They're collecting these creatures. Did they turn into gnolls, or they just using them for this ritual? Is that about summoning?",
+          "Unknown: Feels like learns—",
+          "Kenzo: Feels like the gnolls are either being transmuted from these, these hyenas, or they're—or there—the hyenas or, or the gnolls are coming directly from whatever portal.",
+          "Seeker: We just don't have the answers. And all those terrible creatures that we fought in the desert.",
+          "Kenzo: You know, next time we should not kill all the gnolls. We should try to keep one for interrogation, now that I think about it. That way we—"
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The DM answers as a hyena, but the source does not consistently distinguish the respondent from the four animals sharing the pen."
+      },
+      "id": "i006"
+    },
+    {
+      "title": "Blackened Claw symbols in the barracks",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2346",
+        "endUid": "u2355"
+      },
+      "lines": [
+        "%% u2346:0-2, u2347:0-36, u2348:0-48, u2349:0-20, u2350:0-60, u2351:0-30, u2352:0-35, u2353:0-140, u2354:0-94, u2355:0-18 %%",
+        "DM: Um, Riswynn, Riswynn, the building to the, to the west that's kind of up against the wall, is better preserved. It doesn't seem to have been used as much recently, although in the top floor, um, you see—so this was possibly used as like a training ground or something by hobgoblins. So you see the same symbols that you've been seeing—seeing the Blackened Claw((Nearby crates))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Golden Hour.",
+          "DM: While you're—while you're talking to the animals, um, ah, so Riswynn, um, the—let's see—you both you and Wellby are sort of exploring the, the buildings. Wellby just got out, um, you—you're also—you're also exploring the buildings, Wellby? Okay, so you sort of split up, and Riswynn, you take the building to the south and or to the west—and Wellby, you take the building to the, to the east, that sort of up against the cliff and these both seem to be you know, you don't spend, you don't explore extensively, um, but they both seem to be sort of barracks areas, there's, you know, they're not, you know, you go up to the second floor, and you can go down to the first floor from there. Um, I don't know how long you want to spend poking around, but just from a very quick glance—",
+          "DM: Wellby, the buildings that you're in seem to have been used, you know, at some point as kind of barracks or sleeping areas for creatures that didn't really care about where or what they slept in, um, you know, just like bits of filth and, you know, grass and, and just kind of piled up. You're not doing a careful search; you're just trying to get a lay of the land at this point, um—",
+          "Unknown: The—",
+          "DM: The—up. So that's the downstairs area. The upstairs area where you enter, um, you know, seems to—it almost looks like it's been burned at some point. There's scorch marks on, on the walls, and the roof has a giant hole in it, has been smashed in. Cracked walls, very weathered, though; it seems like this is old damage."
+        ],
+        "after": [
+          "DM: And then sort of haphazardly piled also, a number of sort of shields, like bits of leather armor. Like, this is not stuff that's in good shape. This is like, you know, scavenged and repaired equipment mostly, you know, scattered off, but definitely like a fair bit of, of crates and of armor just kind of piled in here. On the bottom floor, um, ah, it's pretty much empty except for one room that has a rusting chain and a lock that seems to have been—that's still closed and locked.",
+          "DM: And again, you're not searching super carefully, so you're only seeing what's on the—yes. Um, Delwath, you see little on the plains.",
+          "Unknown: Seems quiet.",
+          "Wellby: There's no more of those bat things flying around anywhere now? If all that's done, I just want to take a look at the leaders body and like search the, search the—his corpse.",
+          "DM: Okay, um, make, let's say, and then—Investigation check. Okay, so, um, the leader is carrying several things. So first of all, um, the spear that it was going to like pull out of its back—or out of a sheath on his back, when you look at it more carefully, it is—so it's caked in blood. It's—the, the haft has been sort of like mud and sort of streaks of red and stuff have been worked into it. The point itself seems like it's, you know, been almost like dipped in, in blood that's been left dry and then dipped again, but—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i007"
+    },
+    {
+      "title": "The blood-caked spear and familiar horse design",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2368",
+        "endUid": "u2381"
+      },
+      "lines": [
+        "%% u2368:0-8, u2369:0-45, u2370:0-131, u2371:0-102, u2372:0-229 %%",
+        "DM: ((Investigation check))the leader is carrying several things. So first of all, um, the spear that it was going to like pull out of its back—or out of a sheath on his back, when you look at it more carefully, it is—so it's caked in blood. It's—the, the haft has been sort of like mud and sort of streaks of red and stuff have been worked into it. The point itself seems like it's, you know, been almost like dipped in, in blood that's been left dry and then dipped again, but—",
+        "",
+        "%% u2373:0-48, u2374:0-57, u2375:0-68, u2376:0-45, u2377:0-93 %%",
+        "DM: Sort of shining out from underneath this you see a very, you know, bits—hints of a sort of carefully made spearpoint and you see like one little bit underneath the blood of a running-horse design that you've seen before on the horn you've been carrying and have refused to blow for something like seven sessions.",
+        "",
+        "%% u2378:0-15, u2379:0-94 %%",
+        "Kenzo: Yeah, so people are saying, “Oh, there's, there's a—there's an insignia of the, of the horse on the, on the horn?”",
+        "",
+        "%% u2380:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u2381:0-5 %%",
+        "Unknown: Yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Um, Riswynn, Riswynn, the building to the, to the west that's kind of up against the wall, is better preserved. It doesn't seem to have been used as much recently, although in the top floor, um, you see—so this was possibly used as like a training ground or something by hobgoblins. So you see the same symbols that you've been seeing—seeing the Blackened Claw, and there are also about 10 crates that seemed to have been dragged, you know, carried or dragged in here recently. Um, wooden crates.",
+          "DM: And then sort of haphazardly piled also, a number of sort of shields, like bits of leather armor. Like, this is not stuff that's in good shape. This is like, you know, scavenged and repaired equipment mostly, you know, scattered off, but definitely like a fair bit of, of crates and of armor just kind of piled in here. On the bottom floor, um, ah, it's pretty much empty except for one room that has a rusting chain and a lock that seems to have been—that's still closed and locked.",
+          "DM: And again, you're not searching super carefully, so you're only seeing what's on the—yes. Um, Delwath, you see little on the plains.",
+          "Unknown: Seems quiet.",
+          "Wellby: There's no more of those bat things flying around anywhere now? If all that's done, I just want to take a look at the leaders body and like search the, search the—his corpse."
+        ],
+        "after": [
+          "DM: Um, the leader also has, um, so—",
+          "Unknown: Let's see.",
+          "Kenzo: Do you think that blowing the horn causes an army of gnolls to come?",
+          "Seeker: Probably the longer we wait, the more powerful the effect, and that'll be—",
+          "Unknown: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i008"
+    },
+    {
+      "title": "Speculation about the unblown horn",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2386",
+        "endUid": "u2393"
+      },
+      "lines": [
+        "%% u2386:0-67 %%",
+        "Kenzo: Do you think that blowing the horn causes an army of gnolls to come?",
+        "",
+        "%% u2387:0-8, u2388:0-63 %%",
+        "Seeker: Probably the longer we wait, the more powerful the effect, and that'll be—",
+        "",
+        "%% u2389:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u2390:0-120 %%",
+        "Kenzo: We—yeah, we save it for a cataclysmic battle in the—in our, in our moment of most dire need, and then we see what happens.",
+        "",
+        "%% u2391:0-37 %%",
+        "Wellby: It'll end up just like casting light.",
+        "",
+        "%% u2392:0-13 %%",
+        "Unknown: Or something.",
+        "",
+        "%% u2393:0-10 %%",
+        "Seeker: Totally, um—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah, so people are saying, “Oh, there's, there's a—there's an insignia of the, of the horse on the, on the horn?”",
+          "DM: Yeah.",
+          "Unknown: Yeah.",
+          "DM: Um, the leader also has, um, so—",
+          "Unknown: Let's see."
+        ],
+        "after": [
+          "Unknown: So—",
+          "DM: Yeah, the leader also has—in a sort of not exactly a locket, but like a chain—a chain around its neck that has like a sort of metal clasp sort of metal teardrop shape or locket shape thing, closed, hanging off.",
+          "Wellby: What's inside it?",
+          "DM: Okay, you want to open it?",
+          "Wellby: Now when you ask—yes, yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i009"
+    },
+    {
+      "title": "Wellby opens the metal locket",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2395",
+        "endUid": "u2421"
+      },
+      "lines": [
+        "%% u2395:0-25, u2396:0-12, u2397:0-77, u2398:0-14, u2399:0-76 %%",
+        "DM: Yeah, the leader also has—in a sort of not exactly a locket, but like a chain—a chain around its neck that has like a sort of metal clasp sort of metal teardrop shape or locket shape thing, closed, hanging off.",
+        "",
+        "%% u2400:0-17 %%",
+        "Wellby: What's inside it?",
+        "",
+        "%% u2401:0-26 %%",
+        "DM: Okay, you want to open it?",
+        "",
+        "%% u2402:0-16, u2403:0-9 %%",
+        "Wellby: Now when you ask—yes, yes.",
+        "",
+        "%% u2404:0-54, u2405:0-57 %%",
+        "DM: Ah, so you'd like work—you sort of working on it to, to, to flip it open,((Dexterity saving throw))",
+        "",
+        "%% u2406:0-4, u2407:0-41 %%",
+        "((Glove-box joke))",
+        "",
+        "%% u2408:0-3, u2409:0-213, u2410:0-66 %%",
+        "DM: Um, you managed to flip it open, and there's like a—there's an acrid smell and there's this sort of, sort of hissing sound of some sort of liquid, steam coming out of it and managed to open it without getting any on you. Smell—rotting-flesh smell, sulfur smell, kind of rises up out of it.",
+        "",
+        "%% u2411:0-66 %%",
+        "Wellby: That's gross. Is there anything inside besides just the steam that—?",
+        "",
+        "%% u2412:0-105 %%",
+        "DM: Yes, there's like, there's like liquid inside that's kind of boiling like giving up vapors a little bit.",
+        "",
+        "%% u2413:0-29 %%",
+        "Wellby: Close it back up again. Okay.",
+        "",
+        "%% u2414:0-25, u2415:0-48, u2416:0-34 %%",
+        "Kenzo: Why does he have a locket full of like noxious gas like acrid flesh in his—who carries lots of burning flesh?",
+        "",
+        "%% u2417:0-25, u2418:0-42 %%",
+        "Seeker: To be part of the ritual, or it could just be a weapon, and a leader—",
+        "",
+        "%% u2419:0-14 %%",
+        "Wellby: Demonic thing.",
+        "",
+        "%% u2420:0-51 %%",
+        "Kenzo: Or maybe it's like a suicide thing, like, you know.",
+        "",
+        "%% u2421:0-6 %%",
+        "Seeker: Freaky.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: We—yeah, we save it for a cataclysmic battle in the—in our, in our moment of most dire need, and then we see what happens.",
+          "Wellby: It'll end up just like casting light.",
+          "Unknown: Or something.",
+          "Seeker: Totally, um—",
+          "Unknown: So—"
+        ],
+        "after": [
+          "DM: So,",
+          "Wellby: Well, I head back towards the animals with that stuff and Kenzo, give you the spear, and whoever can take a look at the locket and then I'll—I think I'm on my way back, I'll try and drag one of the gnolls from the courtyard with me.",
+          "DM: Okay.",
+          "Wellby: To feed to the animals.",
+          "Riswynn: I was thinking we should put the corpses outside of the keep and then let the animals loose and try to get them attracted out of their pen towards the—just—for the corpses that are far from us."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i010"
+    },
+    {
+      "title": "Wellby brings the spear and locket back",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2423",
+        "endUid": "u2424"
+      },
+      "lines": [
+        "%% u2423:0-86, u2424:0-144 %%",
+        "Wellby: Well, I head back towards the animals with that stuff and Kenzo, give you the spear, and whoever can take a look at the locket((Corpse feeding plan))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: To be part of the ritual, or it could just be a weapon, and a leader—",
+          "Wellby: Demonic thing.",
+          "Kenzo: Or maybe it's like a suicide thing, like, you know.",
+          "Seeker: Freaky.",
+          "DM: So,"
+        ],
+        "after": [
+          "DM: Okay.",
+          "Wellby: To feed to the animals.",
+          "Riswynn: I was thinking we should put the corpses outside of the keep and then let the animals loose and try to get them attracted out of their pen towards the—just—for the corpses that are far from us.",
+          "Wellby: I think the animals have to get out of the valley, though, without drinking the like—the water, like the poison water.",
+          "Unknown: Um..."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i011"
+    },
+    {
+      "title": "Remembering the halfling at the festival",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2494",
+        "endUid": "u2497"
+      },
+      "lines": [
+        "%% u2494:0-76 %%",
+        "Kenzo: Well, but then also what happened to the other—the halfling at the festival?",
+        "",
+        "%% u2495:0-27 %%",
+        "Seeker: That was the vines, though.",
+        "",
+        "%% u2496:0-17 %%",
+        "Wellby: It was the vines.",
+        "",
+        "%% u2497:0-113 %%",
+        "Kenzo: Oh, it was the plants. So we don't know what happens to people would—with any, any life form that drinks the water.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: If we give them food and water here, in the form of gnoll corpses and some fresh water, then maybe they could make it somewhere like, if they're smart enough not to drink the water was your—",
+          "Kenzo: Dream. Do we know what the water is going to do them if they drink? Because it feels inevitable that they're going to drink this water. Do we know what the, what the water will do to them?",
+          "Seeker: I don't think we've learned anything about the aside from what the centaur said about it, and we—",
+          "Kenzo: Believe what—how you flew—",
+          "Seeker: What the centaur said, so—"
+        ],
+        "after": [
+          "Seeker: May just need—",
+          "Riswynn: One. We could say—",
+          "Delwath: Let's let loose one to start.",
+          "Riswynn: See if it avoids the water or drinks the water. See, if it drinks the water, what it does to it. It could avoid the water. If it's smart enough to avoid the water, we could give it some good water.",
+          "Kenzo: So, so before—because I, I agree—are we all together now, by the way?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i012"
+    },
+    {
+      "title": "Was the slain demon directing the ritual?",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2510",
+        "endUid": "u2517"
+      },
+      "lines": [
+        "%% u2510:0-131 %%",
+        "Delwath: There's gotta be something else here or somebody can—I mean, these, these, these gnolls are not the masterminds of the demonic ritual.",
+        "",
+        "%% u2511:0-18 %%",
+        "Seeker: Was the demon guy?",
+        "",
+        "%% u2512:0-24 %%",
+        "Kenzo: Well, we killed the demon.",
+        "",
+        "%% u2513:0-75 %%",
+        "Delwath: But I don't think that, do you think that gnolls were working for the demon?",
+        "",
+        "%% u2514:0-11 %%",
+        "Seeker: Yeah, yeah, I—",
+        "",
+        "%% u2515:0-35 %%",
+        "Kenzo: Mean like they weren't—weren't they?",
+        "",
+        "%% u2516:0-87, u2517:0-72 %%",
+        "Wellby: Rounding is like the most—bringing the animals here to transform them, sending them out. In retrospect, we should have asked these questions before killing every—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: We're all together. Yeah, come—",
+          "Kenzo: On—I. Well, I certainly agree we should—we should release all of the hyenas before we go, and if we've, we've killed all the gnolls when we killed that fucking demon. I mean, you know, it feels like we've cleaned this place out pretty well. What the hell is going on still?",
+          "Seeker: That's like—took to my point about all these questions.",
+          "Kenzo: So, like, what is the ritual? Do we know what the ritual is? Is the ritual then turning these hyenas into gnolls?",
+          "Seeker: It's possibly—"
+        ],
+        "after": [
+          "DM: Sorry, that was not for you.",
+          "Kenzo: That was—",
+          "DM: A sports.",
+          "Unknown: Okay.",
+          "Riswynn: Yes, we've all agreed we probably killed one too many gnolls."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The discussion appears to recall the larger slain demon, but does not name it; the speculative hierarchy remains unresolved."
+      },
+      "id": "i013"
+    },
+    {
+      "title": "Remembering Vola’s captors and Agata",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2523",
+        "endUid": "u2530"
+      },
+      "lines": [
+        "%% u2523:0-2, u2524:0-21 %%",
+        "Seeker: We—didn't we see an orc?",
+        "",
+        "%% u2525:0-17 %%",
+        "DM: You killed an orc.",
+        "",
+        "%% u2526:0-53 %%",
+        "Kenzo: Well, the, the shapeshifter yet—we killed two of them.",
+        "",
+        "%% u2527:0-51, u2528:0-17, u2529:0-44 %%",
+        "DM: You killed an orc and two shapeshifting jackalweres, who were, who were Vola's captors, who were talking about Agata—",
+        "",
+        "%% u2530:0-10 %%",
+        "Delwath: Dustmother.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Sorry, that was not for you.",
+          "Kenzo: That was—",
+          "DM: A sports.",
+          "Unknown: Okay.",
+          "Riswynn: Yes, we've all agreed we probably killed one too many gnolls."
+        ],
+        "after": [
+          "Kenzo: Okay, yes, let's try to put this all together. Who has been here? You've got demons, you've got gnolls, you got hyenas, you've got the orc, and you've got the shape shifters and they're all working together somehow, right?",
+          "Seeker: We're all—the little bat guy.",
+          "Kenzo: And a little bat demons. So they're all working together somehow. The demons are either being transmuted from something or they're coming from somewhere else. So either they're directly coming over from this like portal, abyss from hell, or they're being transformed. One idea might be that these hyenas are being turned into gnolls. That might be possible, but we haven't seen any evidence for that yet, right? And we don't know what the ritual either, right?",
+          "Seeker: Tim, do we know anything about gnolls? Like, do they actually come from corrupted hyenas, or—?",
+          "DM: Let's see, you can make a Arcana check."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i014"
+    },
+    {
+      "title": "Speculation about the little bat demon",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2531",
+        "endUid": "u2537"
+      },
+      "lines": [
+        "%% u2531:0-117, u2532:0-18, u2533:0-80 %%",
+        "Kenzo: Okay, yes, let's try to put this all together. Who has been here? You've got demons, you've got gnolls, you got hyenas, you've got the orc, and you've got the shape shifters and they're all working together somehow, right?",
+        "",
+        "%% u2534:0-29 %%",
+        "Seeker: We're all—the little bat guy.",
+        "",
+        "%% u2535:0-64, u2536:0-198, u2537:0-189 %%",
+        "Kenzo: And a little bat demons. So they're all working together somehow. The demons are either being transmuted from something or they're coming from somewhere else. So either they're directly coming over from this like portal, abyss from hell, or they're being transformed. One idea might be that these hyenas are being turned into gnolls. That might be possible, but we haven't seen any evidence for that yet, right? And we don't know what the ritual either, right?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: We—didn't we see an orc?",
+          "DM: You killed an orc.",
+          "Kenzo: Well, the, the shapeshifter yet—we killed two of them.",
+          "DM: You killed an orc and two shapeshifting jackalweres, who were, who were Vola's captors, who were talking about Agata—",
+          "Delwath: Dustmother."
+        ],
+        "after": [
+          "Seeker: Tim, do we know anything about gnolls? Like, do they actually come from corrupted hyenas, or—?",
+          "DM: Let's see, you can make a Arcana check.",
+          "Kenzo: Alright.",
+          "Seeker: Cool, check. Make an Arcana check.",
+          "Kenzo: Seeker's Arcana is strong."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i015"
+    },
+    {
+      "title": "The demon’s claws and poisoned antelopes",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2590",
+        "endUid": "u2607"
+      },
+      "lines": [
+        "%% u2590:0-56, u2591:0-179 %%",
+        "Riswynn: Practice the line on this whole theory: if they needed to—it's—all they need to do is give the animals water to drink that would make them transform, then why would they need a demon that like, did the whole claw-ripping fingernail thing?",
+        "",
+        "%% u2592:0-38 %%",
+        "Seeker: Fingernail thing. Good question, Riswynn.",
+        "",
+        "%% u2593:0-35 %%",
+        "Kenzo: Was the claws and fingernail thing?",
+        "",
+        "%% u2594:0-56 %%",
+        "Seeker: So the demon was like raking its claws over the corpses.",
+        "",
+        "%% u2595:0-4 %%",
+        "Unknown: Yes.",
+        "",
+        "%% u2596:0-22, u2597:0-117 %%",
+        "Seeker: Animals, one at a time, and then was like sort of poisoning them in a way that you were poisoned, actually, Kenzo. It—was at the same poisoning?",
+        "",
+        "%% u2598:0-127, u2599:0-141, u2600:0-187, u2601:0-30 %%",
+        "DM: I mean, what you remember from—I forgot who was—I think, was Wellby who is watching that, right? What you remember is that it was the—it almost made—so it's like a pile of antelopes and things like that. And would drag its claws through the antelope, and it would start to sort of rot and crack at the wound a little bit and blacken and then it was throwing it in a pile, like, it was just methodically doing several of these and then tossing them in a pile, and continue to do so until it was—",
+        "",
+        "%% u2602:0-46 %%",
+        "Delwath: That could be the source of corruption, right?",
+        "",
+        "%% u2603:0-13 %%",
+        "Kenzo: Yeah, it'd be—",
+        "",
+        "%% u2604:0-15, u2605:0-105 %%",
+        "Delwath: A demon's claw could have been creating the poison in the antelope to feed the hyenas. I mean, yeah, that's interesting.",
+        "",
+        "%% u2606:0-29, u2607:0-86 %%",
+        "DM: There are still four of those poisoned antelope sitting in the inner courtyard—keep. You never did anything to them.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yes, yes.",
+          "Seeker: Oh yeah, those are a nearby.",
+          "Unknown: They're closer.",
+          "Seeker: Let's check those out.",
+          "Delwath: Um, is it worth taking a short rest before we go further, just to—?"
+        ],
+        "after": [
+          "Riswynn: So experiment with feeding these poor animals poisoned antelope or poisoned water, or both, and see if we can make a gnoll. And then kill it.",
+          "Seeker: Then finally we could ask them those questions.",
+          "Riswynn: For gnoll insights.",
+          "Delwath: Here they have racial memory or something.",
+          "Seeker: Oh my gosh. No—anything—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i016"
+    }
+  ]
+}

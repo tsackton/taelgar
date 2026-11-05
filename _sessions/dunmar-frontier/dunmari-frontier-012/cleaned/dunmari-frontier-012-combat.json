@@ -1,0 +1,883 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-012",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+    "sessionYamlSha256": "e13ac9acd0f72405fe6d84cb9e00ae23b557ed74cd160244a55158efd9085d80",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-transcript.md",
+    "transcriptSha256": "a9f0a2be70f8dce0cc26111313f8403e8aed14712e43341f0e431461cadba98f",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-segments.json",
+      "sha256": "f02eca5a1fdc8cd1c2679f604420b2c7a895bcb18f2caf8a8b0366daaed2f7ed",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s006",
+      "encounter": "Gnoll attack on the gatehouse",
+      "openingActions": [
+        {
+          "actor": "Wellby",
+          "kind": "turn",
+          "summary": "Shoots the small flying demon from the tower window for 11 damage; it dissipates in flame and smoke, surprising the gnolls.",
+          "evidence": [
+            {
+              "startUid": "u0383",
+              "endUid": "u0399"
+            }
+          ],
+          "note": "The surprise attack was declared with advantage before initiative at u0334–u0335; the resolved shot is recorded here before the regular cycle."
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Throws two shimmering blades at the closest gnoll: the first hits for 5 damage, the offhand blade misses.",
+              "evidence": [
+                {
+                  "startUid": "u0400",
+                  "endUid": "u0417"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Soul Sight on the gnoll leader after learning the demon is already dead, obtaining its current hit points; takes no bonus action. The later ruling confirms Soul Sight costs no ki.",
+              "evidence": [
+                {
+                  "startUid": "u0419",
+                  "endUid": "u0446"
+                },
+                {
+                  "startUid": "u1616",
+                  "endUid": "u1621"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hexes the leader, imposing disadvantage on Wisdom checks, and hits it with Eldritch Blast for 5 total damage including Hex.",
+              "evidence": [
+                {
+                  "startUid": "u0448",
+                  "endUid": "u0464"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Summons a spectral warhammer as a bonus action and hits the leader for 7 damage; casts Sacred Flame at a front henchman, around whom flames appear.",
+              "evidence": [
+                {
+                  "startUid": "u0461",
+                  "endUid": "u0504"
+                }
+              ],
+              "note": "No Sacred Flame save or damage total is audible."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts second-level Sleep in a 20-foot radius centered on the hyenas, rolling 33; all three hyenas fall asleep and no gnolls are affected.",
+              "evidence": [
+                {
+                  "startUid": "u0505",
+                  "endUid": "u0561"
+                }
+              ]
+            },
+            {
+              "actor": "Gnoll hunters",
+              "kind": "turn",
+              "summary": "Fire two arrows at Delwath, both missing against three-quarters cover; fire two at Vola, one hitting and one bouncing off the walls. They turn to retreat.",
+              "evidence": [
+                {
+                  "startUid": "u0563",
+                  "endUid": "u0577"
+                }
+              ]
+            },
+            {
+              "actor": "Gnolls",
+              "kind": "turn",
+              "summary": "Fire at the tower, with narrated misses including shots at Wellby, then run away, abandoning the sleeping hyenas.",
+              "evidence": [
+                {
+                  "startUid": "u0578",
+                  "endUid": "u0588"
+                }
+              ],
+              "note": "The final 17 against Wellby prompts an AC question but no clear outcome or damage follows."
+            },
+            {
+              "actor": "Gnoll leader",
+              "kind": "turn",
+              "summary": "Fires at Delwath with a 19 against the stated base AC 17, then misses Vola with a second arrow and starts running.",
+              "evidence": [
+                {
+                  "startUid": "u0589",
+                  "endUid": "u0596"
+                }
+              ],
+              "note": "Cover was previously +5; the source does not explicitly resolve the first arrow or state damage, so no hit is inferred."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Holds an attack for enemies returning to the gate.",
+              "evidence": [
+                {
+                  "startUid": "u0648",
+                  "endUid": "u0650"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Jumps down from the wall using Slow Fall and spends his turn lifting the heavy bar and opening the gate.",
+              "evidence": [
+                {
+                  "startUid": "u0632",
+                  "endUid": "u0650"
+                },
+                {
+                  "startUid": "u0817",
+                  "endUid": "u0819"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Changes windows and hides, exploiting the leader’s Hex-impaired perception, then hits the fleeing leader from normal maximum range.",
+              "evidence": [
+                {
+                  "startUid": "u0651",
+                  "endUid": "u0669"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the leader with Eldritch Blast for 13 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0673",
+                  "endUid": "u0678"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "An initial attack roll of 10 misses. Moves the existing Spiritual Weapon 20 feet to strike a nearby gnoll, hitting heavily; corrects an accidental extra spell-slot charge rather than casting a new weapon.",
+              "evidence": [
+                {
+                  "startUid": "u0679",
+                  "endUid": "u0704"
+                },
+                {
+                  "startUid": "u0719",
+                  "endUid": "u0721"
+                }
+              ],
+              "note": "The source does not identify the initial attack or state the weapon damage total."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves to a window and hits the leader with a crossbow for 8 piercing damage at 80 feet; the table confirms this is normal range, without disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u0705",
+                  "endUid": "u0726"
+                }
+              ]
+            },
+            {
+              "actor": "Gnolls",
+              "kind": "turn",
+              "summary": "Turn and sprint toward the open gate.",
+              "evidence": [
+                {
+                  "startUid": "u0722",
+                  "endUid": "u0758"
+                }
+              ]
+            },
+            {
+              "actor": "Gnoll leader and escort",
+              "kind": "turn",
+              "summary": "Continue retreating instead of joining the charge; the leader calls the nearest gnoll to keep pace.",
+              "evidence": [
+                {
+                  "startUid": "u0769",
+                  "endUid": "u0774"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Moves out for a better angle and misses with both thrown blades.",
+              "evidence": [
+                {
+                  "startUid": "u0781",
+                  "endUid": "u0789"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Closes the gate but cannot seat its heavy bar properly after a Strength check; holds it unsecured.",
+              "evidence": [
+                {
+                  "startUid": "u0790",
+                  "endUid": "u0804"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hides so advantage cancels long-range disadvantage, then spends a d6 Bardic Inspiration to turn a miss into a hit on the leader for 7 damage, without Sneak Attack. The thunder note stays around Wellby and does not travel with the arrow.",
+              "evidence": [
+                {
+                  "startUid": "u0822",
+                  "endUid": "u0903"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "With the leader out of range, changes target to a visible gnoll and hits with Eldritch Blast, staggering it.",
+              "evidence": [
+                {
+                  "startUid": "u0904",
+                  "endUid": "u0916"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Misses the fleeing leader with a long-range crossbow shot at disadvantage, then moves her Spiritual Weapon and hits a reachable gnoll with a 14, using the damage already rolled.",
+              "evidence": [
+                {
+                  "startUid": "u0917",
+                  "endUid": "u0961"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Misses the leader with a crossbow at disadvantage. Moves to see Kenzo and grants him one d6 Bardic Inspiration usable on a d20 roll within 10 minutes.",
+              "evidence": [
+                {
+                  "startUid": "u0965",
+                  "endUid": "u0995"
+                }
+              ]
+            },
+            {
+              "actor": "Gnoll hunters",
+              "kind": "turn",
+              "summary": "One hunter hits Vola twice through her half cover, leaving her badly wounded. The other readies shots for when the gate opens.",
+              "evidence": [
+                {
+                  "startUid": "u0996",
+                  "endUid": "u1006"
+                }
+              ]
+            },
+            {
+              "actor": "Gnolls",
+              "kind": "turn",
+              "summary": "Rush the gate in pairs. Kenzo spends his inspiration, rolling twice and taking 5, reversing the first apparent breach and holding it shut; a tied Strength check keeps it shut against the next pair. The last gnoll forces it open and pushes Kenzo back. All use their actions breaching the gate and cannot also rush in and attack.",
+              "evidence": [
+                {
+                  "startUid": "u1007",
+                  "endUid": "u1065"
+                }
+              ]
+            },
+            {
+              "actor": "Readied gnoll hunter",
+              "kind": "reaction",
+              "summary": "Releases two arrows at Kenzo when the gate opens: one misses; the second critically hits for 14 before deflection.",
+              "evidence": [
+                {
+                  "startUid": "u1062",
+                  "endUid": "u1070"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Uses Deflect Missiles to reduce the critical arrow’s damage to zero, spends one ki to return it, and hits with a 13, leaving the wounded hunter nearly dead.",
+              "evidence": [
+                {
+                  "startUid": "u1071",
+                  "endUid": "u1126"
+                }
+              ]
+            },
+            {
+              "actor": "Gnoll leader and escort",
+              "kind": "turn",
+              "summary": "Continue running away.",
+              "evidence": [
+                {
+                  "startUid": "u1132",
+                  "endUid": "u1134"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Hits the wounded enemy below with one psychic blade, misses with the offhand blade, then moves and dashes toward Riswynn while badly hurt, asking for help.",
+              "evidence": [
+                {
+                  "startUid": "u1139",
+                  "endUid": "u1160"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves underneath the gatehouse and strikes a gnoll with a two-handed quarterstaff, leaving it nearly dead; his follow-up unarmed strike misses and he stays there.",
+              "evidence": [
+                {
+                  "startUid": "u1161",
+                  "endUid": "u1186"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Changes arrow slits and hides again, then kills the fleeing leader with a crossbow shot from about 200 feet.",
+              "evidence": [
+                {
+                  "startUid": "u1187",
+                  "endUid": "u1217"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Transfers Hex to the wounded hunter, moves to an arrow slit with line of sight, and kills it with Eldritch Blast for 14 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1219",
+                  "endUid": "u1238"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Sacred Flame on the remaining hunter, which fails its Dexterity save. Her Spiritual Weapon also hits it; the hunter survives. The accidental crossbow button press is treated as the weapon attack roll, not an extra shot.",
+              "evidence": [
+                {
+                  "startUid": "u1280",
+                  "endUid": "u1327"
+                }
+              ],
+              "note": "Damage totals are not spoken; the source distinguishes this previously unwounded hunter from the one Delwath killed."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves to the front and uses his insulting rune cantrip on the remaining hunter for 1 psychic damage and disadvantage on its next attack. The proposed crossbow follow-up is disallowed.",
+              "evidence": [
+                {
+                  "startUid": "u1328",
+                  "endUid": "u1362"
+                }
+              ]
+            },
+            {
+              "actor": "Gnoll hunter",
+              "kind": "turn",
+              "summary": "Shoots twice at Kenzo: disadvantage changes the first shot from a 21 to an 8 and a miss; the second hits for 9 damage before deflection.",
+              "evidence": [
+                {
+                  "startUid": "u1365",
+                  "endUid": "u1380"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the second arrow, reducing damage to zero, then throws it back and hits the hunter in the leg, leaving it nearly dead. The reduction is corrected to d10 plus Dexterity modifier and monk level, here +8.",
+              "evidence": [
+                {
+                  "startUid": "u1381",
+                  "endUid": "u1398"
+                }
+              ]
+            },
+            {
+              "actor": "Gnolls",
+              "kind": "turn",
+              "summary": "Three rush Kenzo with spears: two miss and one critically hits for 14 damage. Another shoots Delwath through an arrow slit with a critical hit for 13; another moves back and misses Wellby. A later concentration check is accepted for Delwath’s Hex.",
+              "evidence": [
+                {
+                  "startUid": "u1411",
+                  "endUid": "u1442"
+                },
+                {
+                  "startUid": "u1532",
+                  "endUid": "u1541"
+                }
+              ]
+            },
+            {
+              "actor": "Fleeing gnoll escort",
+              "kind": "turn",
+              "summary": "Continues retreating; the table later corrects the token that should already have moved.",
+              "evidence": [
+                {
+                  "startUid": "u1496",
+                  "endUid": "u1505"
+                }
+              ],
+              "note": "The correction explicitly concerns its prior movement and is applied here, not counted as an additional turn."
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Misses with a psychic blade at a wounded gnoll, then hides as a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u1452",
+                  "endUid": "u1458"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the unwounded gnoll to his left with his staff, then misses an unarmed strike against the wounded one in front. A further Flurry of Blows strike kills the front gnoll. Remains in place rather than disengaging.",
+              "evidence": [
+                {
+                  "startUid": "u1461",
+                  "endUid": "u1494"
+                }
+              ],
+              "note": "The staff attack’s result is not explicitly stated."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Abandons the long shot at the escaping escort. Fails to hide and shoots a wounded nearby gnoll for 7 damage without Sneak Attack; it survives.",
+              "evidence": [
+                {
+                  "startUid": "u1506",
+                  "endUid": "u1524"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves Hex to the remaining hunter and kills it with Eldritch Blast. The missed concentration check from the prior hit is resolved successfully.",
+              "evidence": [
+                {
+                  "startUid": "u1525",
+                  "endUid": "u1541"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Sacred Flame deals no damage because the nearby gnoll succeeds on its Dexterity save. Moves Spiritual Weapon between the enemies and kills a gnoll with its strike.",
+              "evidence": [
+                {
+                  "startUid": "u1542",
+                  "endUid": "u1553"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "With Kenzo hidden beneath the gate tunnel, uses his insulting rune on a visible gnoll for 4 psychic damage and disadvantage on its next attack.",
+              "evidence": [
+                {
+                  "startUid": "u1554",
+                  "endUid": "u1571"
+                }
+              ]
+            },
+            {
+              "actor": "Gnolls",
+              "kind": "turn",
+              "summary": "One spear misses Kenzo; the next hits for 4 damage. A third gnoll moves under the gate and misses at disadvantage. The last fleeing gnoll escapes the battlefield; the three hyenas remain asleep for roughly 20 more seconds.",
+              "evidence": [
+                {
+                  "startUid": "u1564",
+                  "endUid": "u1581"
+                }
+              ],
+              "note": "Kenzo’s garbled reply mentions two points, apparently his remaining health; the DM’s stated damage is retained."
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Moves above the gate, retrieves a rope and grappling hook from the packs, secures it to the crenellations and drops it for Kenzo and the others.",
+              "evidence": [
+                {
+                  "startUid": "u1583",
+                  "endUid": "u1596"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "At two hit points, chooses to stay and fight rather than take the offered rope. Misses the unwounded gnoll with his staff and the badly wounded gnoll with his first Flurry strike, then kills the wounded gnoll with the second.",
+              "evidence": [
+                {
+                  "startUid": "u1606",
+                  "endUid": "u1652"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses movement and dashes to reach the rope and descend, dropping the last 15 feet. Takes 6 damage but lands on his feet after an Acrobatics check.",
+              "evidence": [
+                {
+                  "startUid": "u1653",
+                  "endUid": "u1679"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Climbs over the lip and hangs from the rope to gain line of sight, moves Hex to a gnoll and hits it with Eldritch Blast, adding 5 Hex damage.",
+              "evidence": [
+                {
+                  "startUid": "u1681",
+                  "endUid": "u1713"
+                }
+              ],
+              "note": "The base blast damage is not spoken; 5 is the Hex addition, not an asserted total."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Dashes to the wall and drops a second rope. Moves Spiritual Weapon under the gate and hits an unseen gnoll at disadvantage, wounding it.",
+              "evidence": [
+                {
+                  "startUid": "u1714",
+                  "endUid": "u1752"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Leaves the room to see Delwath on the rope and Wellby below. Cannot see Kenzo to heal him and gives nonmagical encouragement instead.",
+              "evidence": [
+                {
+                  "startUid": "u1753",
+                  "endUid": "u1770"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining two gnolls",
+              "kind": "turn",
+              "summary": "Attack Kenzo with spears; rolls of 10 and 7 both miss. They cannot reach Delwath on the rope.",
+              "evidence": [
+                {
+                  "startUid": "u1771",
+                  "endUid": "u1781"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits the gnoll in front with his quarterstaff, then lands an unarmed strike and spends ki on a further Flurry strike, finishing the remaining gate opponents. Emerges from behind the gate wounded but standing.",
+              "evidence": [
+                {
+                  "startUid": "u1782",
+                  "endUid": "u1811"
+                }
+              ],
+              "note": "The final narration compresses the two deaths; individual damage totals are not reconstructed."
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Kenzo finishes the remaining gate attackers and emerges alive. The leader and small demon have fallen; one gnoll has escaped and the three hyenas remain asleep.",
+        "evidence": [
+          {
+            "startUid": "u1576",
+            "endUid": "u1581"
+          },
+          {
+            "startUid": "u1802",
+            "endUid": "u1811"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s009",
+      "encounter": "Pursuit into the outer plaza",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs up to the fleeing gnoll and hits with his quarterstaff and an unarmed strike; it survives.",
+              "evidence": [
+                {
+                  "startUid": "u1979",
+                  "endUid": "u1987"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves 30 feet closer, Hexes the fleeing gnoll and misses with Eldritch Blast on a 12.",
+              "evidence": [
+                {
+                  "startUid": "u1988",
+                  "endUid": "u1994"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Continues running toward the fight and cannot yet attack.",
+              "evidence": [
+                {
+                  "startUid": "u1993",
+                  "endUid": "u1994"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Cannot hide in the open but shoots the gnoll beside Kenzo, gaining Sneak Attack from the nearby ally and killing it.",
+              "evidence": [
+                {
+                  "startUid": "u1995",
+                  "endUid": "u2008"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Keeps running toward the fight, not yet within spell range.",
+              "evidence": [
+                {
+                  "startUid": "u2009",
+                  "endUid": "u2016"
+                }
+              ]
+            },
+            {
+              "actor": "Two gnolls",
+              "kind": "turn",
+              "summary": "Advance and throw spears at Kenzo; the second is explicitly a hit.",
+              "evidence": [
+                {
+                  "startUid": "u2009",
+                  "endUid": "u2022"
+                }
+              ],
+              "note": "No outcome is stated for the first spear and no damage amount is given for the second."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the spear and spends ki to throw it back; the return attack rolls 5 and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2025",
+                  "endUid": "u2037"
+                }
+              ],
+              "note": "The return is accepted, but a damage-reduction roll or amount is not spoken."
+            },
+            {
+              "actor": "Remaining gnoll",
+              "kind": "turn",
+              "summary": "Fires a longbow at Wellby and misses his AC 15.",
+              "evidence": [
+                {
+                  "startUid": "u2034",
+                  "endUid": "u2038"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits a fresh gnoll with his two-handed quarterstaff for 6 damage and follows with a successful unarmed strike, leaving it badly hurt.",
+              "evidence": [
+                {
+                  "startUid": "u2042",
+                  "endUid": "u2052"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves another 30 feet; the table corrects his position to 40 feet from the indicated point and about 70 feet from Kenzo. Moves Hex to Kenzo’s target and hits with Eldritch Blast for 6 total damage; it survives.",
+              "evidence": [
+                {
+                  "startUid": "u2053",
+                  "endUid": "u2067"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Advances to roughly 75 feet without dashing and kills the wounded gnoll in front of Kenzo with his crossbow.",
+              "evidence": [
+                {
+                  "startUid": "u2065",
+                  "endUid": "u2081"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fires another shot and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2082",
+                  "endUid": "u2084"
+                }
+              ],
+              "note": "The target is indicated on the map rather than named."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "From about 75 feet, hits and kills a gnoll with Guiding Bolt.",
+              "evidence": [
+                {
+                  "startUid": "u2085",
+                  "endUid": "u2095"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining gnoll",
+              "kind": "turn",
+              "summary": "Moves into spear range and throws at Kenzo, missing.",
+              "evidence": [
+                {
+                  "startUid": "u2100",
+                  "endUid": "u2102"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs forward and hits the final gnoll with his staff for 15 damage, then kills it with an unarmed strike.",
+              "evidence": [
+                {
+                  "startUid": "u2103",
+                  "endUid": "u2120"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All four gnolls in the plaza fight are dead; only the captive animals are heard.",
+        "evidence": [
+          {
+            "startUid": "u2113",
+            "endUid": "u2120"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-time-markers.json",
+    "sha256": "e4f9260c76f873e00e17fd01b0e67ec973fef261b252032d090c70ee66c37ccd"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-transcript.md",
+    "sha256": "a9f0a2be70f8dce0cc26111313f8403e8aed14712e43341f0e431461cadba98f"
+  },
+  "dateAssessment": "Working date: April 13, 1748, from the session YAML. The transcript establishes sunrise, about 08:00, and a completed morning short rest without a date transition; it does not independently state the calendar date. The opening night and earlier events are recollections, not extra played days.",
+  "watches": [
+    {
+      "day": "April 13, 1748",
+      "startDate": "1748-04-13",
+      "endDate": "1748-04-13",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "The party wakes just after sunrise; dawn is a watch estimate, without a numerical clock.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "April 13, 1748",
+      "startDate": "1748-04-13",
+      "endDate": "1748-04-13",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "About 08:00 after the plaza fight; Seeker’s ten-minute ritual and the later one-hour rest remain in morning.",
+      "markers": [
+        "t02",
+        "t03",
+        "t04",
+        "t05"
+      ]
+    }
+  ]
+}
