@@ -1,0 +1,333 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-004",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
+    "sessionYamlSha256": "435751c0b05a7f75ca68906c38e3030eeccef799e554a5cb13902d1d8c03a3c5",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-transcript.md",
+    "transcriptSha256": "4d6c2412f3ecfbeeeb7ce93bf6be2a79c32ba4731de436a2dcfdbb589eac7df9",
+    "yamlDates": {
+      "start": "1747-11-08",
+      "end": "1747-11-09"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0044",
+        "endUid": "u0049"
+      },
+      "reading": "Reunion at Ryu’s tower in late morning, early November.",
+      "evidence": [
+        {
+          "startUid": "u0044",
+          "endUid": "u0049",
+          "quote": "Late morning."
+        },
+        {
+          "startUid": "u0012",
+          "endUid": "u0019",
+          "quote": "it's early November"
+        }
+      ],
+      "time": {
+        "partOfDay": "late morning",
+        "precision": "approximate",
+        "basis": "Stated narrative anchor."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0450",
+        "endUid": "u0453"
+      },
+      "reading": "Preparations and the trip into town are completed; departure is early the next morning.",
+      "evidence": [
+        {
+          "startUid": "u0450",
+          "endUid": "u0453",
+          "quote": "So the next morning, the cloudy grey but at least the rain has stopped."
+        }
+      ],
+      "time": {
+        "partOfDay": "early morning",
+        "precision": "approximate",
+        "basis": "Stated narrative anchor."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0458",
+        "endUid": "u0461"
+      },
+      "reading": "Five or six hours of sailing brings the party to the salt-marsh approach to Eskorola.",
+      "evidence": [
+        {
+          "startUid": "u0458",
+          "endUid": "u0461",
+          "quote": "And after about— you know, five, six hours sailing you cut through the Channel of these barrier barrier islands and see the expanse of salt marsh stretching before you, that is where the village, the lizard folk village of Eskorola is, is situated, sort of at the southern end of this, the salt marsh."
+        }
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "min": 5,
+        "max": 6,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "basis": "Narrated completed sailing, approximately five or six hours."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0519",
+        "endUid": "u0524"
+      },
+      "reading": "A few minutes pass while the party waits for Itzal in the communal building.",
+      "evidence": [
+        {
+          "startUid": "u0516",
+          "endUid": "u0518",
+          "quote": "So there's like there's off right off the dock there's like sort of a big communal building that has you know, sort of— set up a little bit like almost like a cafe like a tea house type place. There's like a few tables where you can sit. There's a big fire pit in the middle. There's always a pot of something cooking there and the messenger like gets you seated and waves somebody over to you know, get you out of the cold bring you a hot drink, while he goes off to get Itzal."
+        },
+        {
+          "startUid": "u0519",
+          "endUid": "u0524",
+          "quote": "And a few minutes later this old lizard man"
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "text": "a few minutes",
+        "precision": "vague",
+        "basis": "Narrated wait."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05",
+          "note": "The later total explicitly includes the talking and traveling since Blu left."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0788",
+        "endUid": "u0791"
+      },
+      "reading": "About three hours have passed since Blu departed, including the village conversation and travel to the attack site.",
+      "evidence": [
+        {
+          "startUid": "u0788",
+          "endUid": "u0789",
+          "quote": "I mean how how how long has it been now Tim since Blu?"
+        },
+        {
+          "startUid": "u0790",
+          "endUid": "u0791",
+          "quote": "Blu, it's been about three hours. And counting the talking and the traveling."
+        }
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "value": 3,
+        "basis": "DM explicitly totals talking and traveling since Blu departed."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0799",
+        "endUid": "u0802"
+      },
+      "reading": "Blu returns with the sun sinking low; the later time check confirms sunset.",
+      "evidence": [
+        {
+          "startUid": "u0799",
+          "endUid": "u0802",
+          "quote": "Yeah. Um, okay, so you kind of so you're hanging out like I mean, basically he returns, as the sun is sinking low in the sky right so it's you know, it's approaching—to say it's mid November right the sun sets fairly early here um."
+        },
+        {
+          "startUid": "u0928",
+          "endUid": "u0928",
+          "quote": "Should we do it in the morning?"
+        },
+        {
+          "startUid": "u0929",
+          "endUid": "u0929",
+          "quote": "What time is it now?"
+        },
+        {
+          "startUid": "u0930",
+          "endUid": "u0930",
+          "quote": "It's like sunset yeah."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Return described with sinking sun; subsequent explicit sunset check confirms the evening anchor."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0934",
+        "endUid": "u0939"
+      },
+      "reading": "The party stays overnight, rests, and gets up at the break of dawn before departure.",
+      "evidence": [
+        {
+          "startUid": "u0934",
+          "endUid": "u0934",
+          "quote": "So they put you up for the night. The lizardfolk do attempt a gatza ceremony just to try and reach the spirit of the dead warrior, but—"
+        },
+        {
+          "startUid": "u0935",
+          "endUid": "u0936",
+          "quote": "No luck. And you now, and you rest and prepare for the morning."
+        },
+        {
+          "startUid": "u0937",
+          "endUid": "u0939",
+          "quote": "as you get up at the you know, the break of dawn"
+        }
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "Stated narrative anchor."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1073",
+        "endUid": "u1075"
+      },
+      "reading": "A couple of hours of paddling north have elapsed before the warmer approach to the mound.",
+      "evidence": [
+        {
+          "startUid": "u1073",
+          "endUid": "u1075",
+          "quote": "So, as you swim, paddle, fly forward you can actually you know, after a couple hours of paddling you can actually feel the temperature getting warmer."
+        }
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "value": 2,
+        "basis": "Approximate narrated couple of hours since setting off at dawn."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1305",
+        "endUid": "u1308"
+      },
+      "reading": "Another twenty to thirty minutes passes during the final quiet canoe approach.",
+      "evidence": [
+        {
+          "startUid": "u1305",
+          "endUid": "u1308",
+          "quote": "So you you paddle slowly quietly drifting down this wide channel. Another 20, 30 minutes passes, as you approaches as quietly, as you can in the stillness of this mist."
+        },
+        {
+          "startUid": "u1112",
+          "endUid": "u1112",
+          "quote": "All right, I cast it. I'll see through his eyes."
+        },
+        {
+          "startUid": "u1366",
+          "endUid": "u1366",
+          "quote": "Yes, you're now where Turk is beneath you; your spell has worn off, so you can't see through his eyes anymore."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "min": 20,
+        "max": 30,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "basis": "Explicit elapsed approach interval."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10",
+          "note": "This approach occurs after Beast Sense is cast and before its expiry is reported."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1366",
+        "endUid": "u1366"
+      },
+      "reading": "Beast Sense has worn off at the pool, implying its one-hour duration has elapsed since casting.",
+      "evidence": [
+        {
+          "startUid": "u1108",
+          "endUid": "u1108",
+          "quote": "How long does the—how long does it last when I do the whole like, I can see the his eyes thing?"
+        },
+        {
+          "startUid": "u1109",
+          "endUid": "u1109",
+          "quote": "An hour."
+        },
+        {
+          "startUid": "u1112",
+          "endUid": "u1112",
+          "quote": "All right, I cast it. I'll see through his eyes."
+        },
+        {
+          "startUid": "u1366",
+          "endUid": "u1366",
+          "quote": "Yes, you're now where Turk is beneath you; your spell has worn off, so you can't see through his eyes anymore."
+        }
+      ],
+      "duration": {
+        "unit": "hour",
+        "value": 1,
+        "precision": "approximate",
+        "basis": "Inferred from stated one-hour duration and narrated expiry, rather than an independent clock measurement."
+      },
+      "completion": "completed",
+      "actors": [
+        "Ryu"
+      ],
+      "note": "Includes the final twenty-to-thirty-minute approach; do not add that interval again."
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "Only early November (later loosely mid November) is spoken. The year and precise opening day are YAML-only; conditional on November 8, the second dawn is November 10.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t07"
+    ],
+    "explanation": "At least two completed overnight transitions separate the reunion, sailing day, and rescue day; YAML allows only one. The final return to Hamri has no stated duration, so an exact total for the closing interval cannot be proved. This open ending cannot remove the two established transitions."
+  }
+}

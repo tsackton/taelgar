@@ -1,0 +1,854 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-004",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
+    "sessionYamlSha256": "435751c0b05a7f75ca68906c38e3030eeccef799e554a5cb13902d1d8c03a3c5",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-transcript.md",
+    "transcriptSha256": "4d6c2412f3ecfbeeeb7ce93bf6be2a79c32ba4731de436a2dcfdbb589eac7df9",
+    "segments": {
+      "path": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-segments.json",
+      "sha256": "3c0948504c4d612ad75981093bf9f2cea28ec15d9926e6006c6165611893d7b3",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s005",
+      "encounter": "Steam creatures and armored fire warrior at the misty pool",
+      "openingActions": [
+        {
+          "actor": "Nerissa",
+          "kind": "event",
+          "summary": "Completes Faerie Fire before the regular turns: two steam creatures make Dexterity saves and become outlined in faint green light; the other two remain unseen.",
+          "evidence": [
+            {
+              "startUid": "u1391",
+              "endUid": "u1429"
+            }
+          ]
+        },
+        {
+          "actor": "Ander",
+          "kind": "event",
+          "summary": "Durandal warns that enemies are coming, granting advantage on initiative.",
+          "evidence": [
+            {
+              "startUid": "u1395",
+              "endUid": "u1403"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Uses Dissonant Whispers on the farther visible steam creature: it fails its Wisdom save, takes the announced 21 psychic damage, and flees beyond clear visibility. Gives Ander Bardic Inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u1430",
+                  "endUid": "u1468"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Throws his returning spear twice at the remaining visible steam creature; both attacks hit and it bursts into steam.",
+              "evidence": [
+                {
+                  "startUid": "u1469",
+                  "endUid": "u1494"
+                }
+              ]
+            },
+            {
+              "actor": "Blu / Turk",
+              "kind": "turn",
+              "summary": "Rises from the water into osprey form and attacks the nearest unseen steam creature. Advantage from hiding cancels disadvantage from the unseen target; the straight attack hits for 1d4 + 6 damage, with no rolled total spoken. Flies 30 feet away without an opportunity attack using Flyby.",
+              "evidence": [
+                {
+                  "startUid": "u1495",
+                  "endUid": "u1515"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Readies one melee attack against a creature coming within reach.",
+              "evidence": [
+                {
+                  "startUid": "u1516",
+                  "endUid": "u1524"
+                }
+              ]
+            },
+            {
+              "actor": "First advancing steam creature",
+              "kind": "turn",
+              "summary": "Flies forward and breathes scalding steam over Ryu, Nerissa, and Ander. All three succeed on Dexterity saves and each takes 2 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u1525",
+                  "endUid": "u1536"
+                }
+              ]
+            },
+            {
+              "actor": "Second advancing steam creature",
+              "kind": "turn",
+              "summary": "Moves into reach and then breathes a second cone after Ander’s readied strike. Ryu and Nerissa succeed on Dexterity saves and each takes 2 fire damage; Ander fails and takes 4.",
+              "evidence": [
+                {
+                  "startUid": "u1532",
+                  "endUid": "u1561"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "reaction",
+              "summary": "Hits the approaching steam creature with his single readied attack before its breath. The proposed damage-die reroll is withdrawn when his fighting style is confirmed as Defense.",
+              "evidence": [
+                {
+                  "startUid": "u1538",
+                  "endUid": "u1558"
+                }
+              ]
+            },
+            {
+              "actor": "Fleeing steam creature",
+              "kind": "turn",
+              "summary": "Flies back into visible range.",
+              "evidence": [
+                {
+                  "startUid": "u1562",
+                  "endUid": "u1564"
+                }
+              ]
+            },
+            {
+              "actor": "Armored fire warrior",
+              "kind": "turn",
+              "summary": "Lunges beside the canoe through six-foot-deep water. Tries to capsize it, but Ryu braces successfully on a Strength check. Hits Nerissa for 4 piercing and 4 fire damage; after Ander’s intervening Sentinel attack, strikes at Ander with a 17 and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1565",
+                  "endUid": "u1614"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "reaction",
+              "summary": "Hits the warrior with a Sentinel reaction after the attack on Nerissa and before the swing at Ander. Damage is confirmed but no amount is spoken; this does not prevent Nerissa’s injury.",
+              "evidence": [
+                {
+                  "startUid": "u1599",
+                  "endUid": "u1613"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Abandons Shatter and hits the armored warrior with her sword and Blade Flourish for 7 + 6 damage (13); takes no bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u1615",
+                  "endUid": "u1661"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Kills a steam creature with a one-handed spear hit for 9 damage. Its explosion prompts a Dexterity save and deals Ryu 8 fire damage. Throws his second spear attack at the warrior and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1662",
+                  "endUid": "u1690"
+                }
+              ],
+              "note": "The Dexterity save outcome is not spoken separately from the resulting damage."
+            },
+            {
+              "actor": "Blu / Turk",
+              "kind": "turn",
+              "summary": "Flies to the armored warrior, misses against his armor, and flies away.",
+              "evidence": [
+                {
+                  "startUid": "u1691",
+                  "endUid": "u1702"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Kills a steam creature, succeeds in avoiding its exploding steam on a Dexterity save, and takes no damage. Uses his remaining attack and the kill-granted bonus attack on the warrior: one deals damage, the other misses; no damage total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1703",
+                  "endUid": "u1727"
+                }
+              ]
+            },
+            {
+              "actor": "Armored fire warrior",
+              "kind": "turn",
+              "summary": "Stabs a hole in the canoe. After Ander’s intervening Sentinel reaction, moves and stabs a second hole; no additional opportunity attack is allowed because Ander used his reaction. A third attack at Ryu rolls 8 and misses. The canoe sinks: Nerissa stands on the water, Ryu swims, and Ander sinks into six-foot-deep water but can breathe.",
+              "evidence": [
+                {
+                  "startUid": "u1728",
+                  "endUid": "u1777"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "reaction",
+              "summary": "Uses Sentinel when the warrior attacks the canoe. Adds a d8 Precision Attack to turn the initial miss into a hit, damaging the warrior before he moves to make the second hole.",
+              "evidence": [
+                {
+                  "startUid": "u1737",
+                  "endUid": "u1753"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Misses the warrior with her sword.",
+              "evidence": [
+                {
+                  "startUid": "u1778",
+                  "endUid": "u1789"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Attacks in the water without swimming penalties: his first spear attack misses and his second hits. Demands surrender in Primordial and that the lizardfolk be left alone; the warrior offers only not to pursue a retreat. Ryu’s intimidation does not move him.",
+              "evidence": [
+                {
+                  "startUid": "u1790",
+                  "endUid": "u1820"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Moves one square through difficult water terrain. Feinting Attack cancels the first attack’s disadvantage, but it misses. His second attack has disadvantage and still misses after Precision Attack raises the result to 16.",
+              "evidence": [
+                {
+                  "startUid": "u1819",
+                  "endUid": "u1847"
+                }
+              ]
+            },
+            {
+              "actor": "Armored fire warrior",
+              "kind": "turn",
+              "summary": "Moves out of Ryu’s reach, provoking a hit. Attacks Nerissa; her attempt to reduce the roll by 1 is insufficient, and she takes 6 piercing and 1 fire damage. After Ander’s Sentinel reaction, attacks Ander twice (19 and 10), both missing. Retreats toward the tunnel, provoking Nerissa’s hit, then calls “Intruders!” into it.",
+              "evidence": [
+                {
+                  "startUid": "u1854",
+                  "endUid": "u1901"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "reaction",
+              "summary": "Hits the departing warrior with an opportunity attack before he strikes Nerissa; no damage total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1856",
+                  "endUid": "u1866"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "reaction",
+              "summary": "Tries to reduce the warrior’s attack roll with a d8, rolling 1; it still hits her.",
+              "evidence": [
+                {
+                  "startUid": "u1867",
+                  "endUid": "u1878"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "reaction",
+              "summary": "Uses Sentinel after the attack on Nerissa; his attack with disadvantage misses before the warrior’s two swings at him.",
+              "evidence": [
+                {
+                  "startUid": "u1879",
+                  "endUid": "u1886"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "reaction",
+              "summary": "Hits the retreating warrior with an opportunity attack, rolling 18 to hit and dealing 11 damage without Blade Flourish, before he reaches the mist and shouts.",
+              "evidence": [
+                {
+                  "startUid": "u1890",
+                  "endUid": "u1901"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Steps closer to see the warrior and hits with Fire Bolt, but its fire washes over him harmlessly.",
+              "evidence": [
+                {
+                  "startUid": "u1902",
+                  "endUid": "u1918"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Swims beside the warrior and attacks with his spear. A miss is explicit; subsequent narration describes hits getting through the armor without a complete spoken attack or damage breakdown.",
+              "evidence": [
+                {
+                  "startUid": "u1919",
+                  "endUid": "u1939"
+                }
+              ],
+              "note": "The reminder about Blu overlaps the attack resolution. No distinct Blu result can be securely assigned from this passage."
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Moves to shallower water, still difficult terrain but no longer imposing attack disadvantage; one attack misses and one hits the warrior.",
+              "evidence": [
+                {
+                  "startUid": "u1940",
+                  "endUid": "u1949"
+                }
+              ]
+            },
+            {
+              "actor": "Armored fire warrior",
+              "kind": "turn",
+              "summary": "Calls “Be warned” down the tunnel (correcting “Hurry”), then misses Ander twice with 14 and 16 and attacks Ryu with an 11, also below his established armor class.",
+              "evidence": [
+                {
+                  "startUid": "u1950",
+                  "endUid": "u1958"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "reaction",
+              "summary": "Uses Sentinel after the warrior attacks Ryu. Scores a critical hit; the corrected extra dice are 2d6, and the final damage is 15. No bonus attack is allowed because this is a reaction on the enemy’s turn.",
+              "evidence": [
+                {
+                  "startUid": "u1959",
+                  "endUid": "u1984"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Steps closer and hits with her sword and Blade Flourish for 13 damage. The warrior’s fiery heart and glowing armor become visible.",
+              "evidence": [
+                {
+                  "startUid": "u1985",
+                  "endUid": "u1992"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Demands surrender and control of the beast. The warrior refuses, declaring he will die in glory for his master, and will not identify that master. Ryu’s spear hits, leaving him barely standing but alive.",
+              "evidence": [
+                {
+                  "startUid": "u1993",
+                  "endUid": "u2012"
+                }
+              ]
+            },
+            {
+              "actor": "Blu / Turk",
+              "kind": "turn",
+              "summary": "Attacks the warrior and misses, then dives away.",
+              "evidence": [
+                {
+                  "startUid": "u2010",
+                  "endUid": "u2014"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Kills the warrior with an overhead sword strike. He explodes into armor shrapnel, prompting Dexterity saves from everyone: Ryu takes 26 piercing damage and Nerissa partially dodges, taking 13.",
+              "evidence": [
+                {
+                  "startUid": "u2015",
+                  "endUid": "u2029"
+                }
+              ],
+              "note": "Ander’s own save and explosion damage are not stated; no value is reconstructed."
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The armored warrior dies in a shrapnel explosion after sinking the canoe. The party survives and subsequently heals before exploring the mound. Three steam-creature deaths are explicit; the returned fourth creature’s individual fate is not separately resolved in speech.",
+        "evidence": [
+          {
+            "startUid": "u2023",
+            "endUid": "u2029"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s007",
+      "encounter": "Fire mage and captive dragon turtle beneath the vegetation dome",
+      "openingActions": [
+        {
+          "actor": "Fire mage",
+          "kind": "event",
+          "summary": "Fires three blasts through the roof opening at Ryu’s face. All miss because the vegetation provides cover; the DM later confirms this volley preceded the regular turn cycle.",
+          "evidence": [
+            {
+              "startUid": "u2165",
+              "endUid": "u2183"
+            },
+            {
+              "startUid": "u2331",
+              "endUid": "u2346"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Moves cautiously across the roof toward the mage and casts third-level Dissonant Whispers. He succeeds on his save and takes half of the rolled 21 damage. Grants Blu a d8 Bardic Inspiration for removing the embedded arrow.",
+              "evidence": [
+                {
+                  "startUid": "u2215",
+                  "endUid": "u2320"
+                }
+              ],
+              "note": "The save ability and rounded damage total are not restated in this passage."
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Runs along the outside of the roof toward the mage without falling through.",
+              "evidence": [
+                {
+                  "startUid": "u2321",
+                  "endUid": "u2327"
+                }
+              ]
+            },
+            {
+              "actor": "Dragon turtle (Chaessenth)",
+              "kind": "turn",
+              "summary": "Dives and bursts up from the water into the roof, collapsing a large section and exposing Ryu to the mage’s line of sight.",
+              "evidence": [
+                {
+                  "startUid": "u2347",
+                  "endUid": "u2360"
+                }
+              ]
+            },
+            {
+              "actor": "Fire mage",
+              "kind": "turn",
+              "summary": "Moves into shallow water for an angle and fires three more blasts at Ryu. Ryu receives +5 AC from cover (AC 22); two blasts miss and the middle attack, described as rolling 20, hits for 5 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u2361",
+                  "endUid": "u2393"
+                }
+              ],
+              "note": "The source does not explicitly call the roll a critical hit or apply critical damage."
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Jumps through the roof onto the turtle, landing prone for 3 bludgeoning damage. Tries to pull the embedded arrow/spear out, taking 7 fire damage; loosens it but cannot remove it. Fails to keep hold after the Constitution save and lets go. His sheet’s apparent death is corrected to 13 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u2394",
+                  "endUid": "u2447"
+                }
+              ]
+            },
+            {
+              "actor": "Blu / Turk",
+              "kind": "turn",
+              "summary": "Uses the granted Bardic Inspiration while pulling the arrow. Loosens it further but cannot detach it, then flies away. The immediate narration gives 5 fire damage for grasping it.",
+              "evidence": [
+                {
+                  "startUid": "u2448",
+                  "endUid": "u2463"
+                },
+                {
+                  "startUid": "u2597",
+                  "endUid": "u2601"
+                }
+              ],
+              "note": "Later bookkeeping at u2597–u2601 instead attributes 9 to this grasp and 5 to the earlier scouting wound, leaving Blu at 14. The source never explicitly resolves the differing grasp damage."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Misty Steps onto the turtle, takes 9 fire damage while gripping the arrow, and removes it with a Strength check of 16. A Constitution save is requested; she drops the arrow into the water, where it steams.",
+              "evidence": [
+                {
+                  "startUid": "u2465",
+                  "endUid": "u2510"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Continues running closer along the roof and does not fall through.",
+              "evidence": [
+                {
+                  "startUid": "u2511",
+                  "endUid": "u2519"
+                },
+                {
+                  "startUid": "u2464",
+                  "endUid": "u2464"
+                }
+              ]
+            },
+            {
+              "actor": "Dragon turtle (Chaessenth)",
+              "kind": "turn",
+              "summary": "Looks around in confusion and takes no action after the arrow is removed; the controlling spell has not ended.",
+              "evidence": [
+                {
+                  "startUid": "u2514",
+                  "endUid": "u2522"
+                }
+              ]
+            },
+            {
+              "actor": "Fire mage",
+              "kind": "turn",
+              "summary": "Casts Fireball over Nerissa and Ryu, calling for Dexterity saves. Nerissa takes 22 fire damage; Ryu’s initial 11 is subsequently reduced to 5 by Absorb Elements. The mage then moves.",
+              "evidence": [
+                {
+                  "startUid": "u2533",
+                  "endUid": "u2549"
+                },
+                {
+                  "startUid": "u2551",
+                  "endUid": "u2561"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "reaction",
+              "summary": "Retroactively casts Absorb Elements as the Fireball reaction, reducing his 11 fire damage to 5 and retaining energy for a future attack. This correction belongs to the Fireball, before his turn.",
+              "evidence": [
+                {
+                  "startUid": "u2550",
+                  "endUid": "u2561"
+                },
+                {
+                  "startUid": "u2537",
+                  "endUid": "u2542"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Chooses Speak with Animals instead of Animal Friendship and asks the turtle for help after removing its arrow. It does not understand him.",
+              "evidence": [
+                {
+                  "startUid": "u2562",
+                  "endUid": "u2588"
+                }
+              ]
+            },
+            {
+              "actor": "Blu / Turk",
+              "kind": "turn",
+              "summary": "Flies to the mage using enough movement that he cannot retreat afterward, attacks, and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2589",
+                  "endUid": "u2610"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Speaks Draconic to the turtle, identifying the shared pain from the removed arrow and asking for help. A natural 20 yields 30 Persuasion: the juvenile struggles against the remaining spell, says it is not free until the spell ends, and promises to try to protect them. This conversation uses her action; she gives Ander Bardic Inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u2611",
+                  "endUid": "u2668"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Crashes through the roof. Bardic Inspiration lets him land upright, but he takes 10 bludgeoning damage. Closes on the mage and makes an advantaged Feinting/Great Weapon Master attack: a critical hit, with 27 announced and a garbled possible 28; the mage passes the stated DC 14 concentration check with 18. His second hit deals 9 and the mage passes DC 10 with 15. Action Surge adds a hit for 8 that breaks concentration, freeing the turtle, then another Great Weapon Master hit. The mage’s fiery cloak deals Ander 18 fire damage across the first three hits and 6 more on the fourth.",
+              "evidence": [
+                {
+                  "startUid": "u2670",
+                  "endUid": "u2748"
+                }
+              ],
+              "note": "The first damage total varies in the spoken adjudication; fourth-hit damage is not separately clear. Ander estimates 66 overall, but no exact total is reconstructed."
+            },
+            {
+              "actor": "Dragon turtle (Chaessenth)",
+              "kind": "turn",
+              "summary": "Warns the riders that he hopes they can swim, dives away, and breathes scalding water at the mage while avoiding the party. The mage’s fire resistance reduces 46 damage to 23. Ryu is left swimming; Nerissa stands on the water.",
+              "evidence": [
+                {
+                  "startUid": "u2749",
+                  "endUid": "u2769"
+                }
+              ]
+            },
+            {
+              "actor": "Fire mage",
+              "kind": "turn",
+              "summary": "Casts a dazzling pattern over Nerissa and the turtle. The Wisdom-save resolution leaves both charmed and incapacitated; Nerissa’s proposed Shield is ineffective and Counterspell is only discussed afterward. The mage remains in place.",
+              "evidence": [
+                {
+                  "startUid": "u2773",
+                  "endUid": "u2800"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Swims closer and throws his spear twice. The first misses; the second would hit but is blocked by the mage’s Shield.",
+              "evidence": [
+                {
+                  "startUid": "u2801",
+                  "endUid": "u2818"
+                }
+              ]
+            },
+            {
+              "actor": "Fire mage",
+              "kind": "reaction",
+              "summary": "Casts Shield against Ryu’s second spear attack, causing it to bounce off. The protection remains for subsequent attacks until the mage’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u2818",
+                  "endUid": "u2818"
+                },
+                {
+                  "startUid": "u2826",
+                  "endUid": "u2832"
+                }
+              ]
+            },
+            {
+              "actor": "Blu / Turk",
+              "kind": "turn",
+              "summary": "Attacks the mage and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2820",
+                  "endUid": "u2823"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Cannot act while incapacitated; someone must shake her awake.",
+              "evidence": [
+                {
+                  "startUid": "u2824",
+                  "endUid": "u2824"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Makes two attacks, beginning with Great Weapon Master; both miss against the mage’s active Shield (17 and 16).",
+              "evidence": [
+                {
+                  "startUid": "u2825",
+                  "endUid": "u2833"
+                }
+              ]
+            },
+            {
+              "actor": "Dragon turtle (Chaessenth)",
+              "kind": "turn",
+              "summary": "Cannot act while incapacitated.",
+              "evidence": [
+                {
+                  "startUid": "u2834",
+                  "endUid": "u2834"
+                }
+              ]
+            },
+            {
+              "actor": "Fire mage",
+              "kind": "turn",
+              "summary": "Rejects escape through the water and casts another Fireball targeting Ander and Ryu. Dexterity saves are called; both initially take 11 fire damage. Ryu reduces his damage to 5 with another Absorb Elements.",
+              "evidence": [
+                {
+                  "startUid": "u2839",
+                  "endUid": "u2868"
+                }
+              ],
+              "note": "The individual save outcomes are not explicitly spoken apart from the resolved damage."
+            },
+            {
+              "actor": "Ryu",
+              "kind": "reaction",
+              "summary": "Casts Absorb Elements again as a reaction, reducing the Fireball damage from 11 to 5 and leaving him at 3 hit points; Ander reports 5 remaining.",
+              "evidence": [
+                {
+                  "startUid": "u2857",
+                  "endUid": "u2867"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Closes and attacks the mage with his spear. The explicit 14 misses Mage Armor after Shield has expired; no additional successful attack is established.",
+              "evidence": [
+                {
+                  "startUid": "u2869",
+                  "endUid": "u2875"
+                }
+              ]
+            },
+            {
+              "actor": "Blu / Turk",
+              "kind": "turn",
+              "summary": "Chooses the turtle instead of the initially suggested Nerissa, lands on it and pecks it awake.",
+              "evidence": [
+                {
+                  "startUid": "u2876",
+                  "endUid": "u2890"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Makes two attacks, first using Great Weapon Master; both miss. He takes no retaliatory fire damage because neither melee attack hit.",
+              "evidence": [
+                {
+                  "startUid": "u2891",
+                  "endUid": "u2902"
+                }
+              ]
+            },
+            {
+              "actor": "Dragon turtle (Chaessenth)",
+              "kind": "turn",
+              "summary": "Lunges from the water and scores a natural-20 bite for the stated 15 damage, ripping off the mage’s head. Swims to Nerissa and gently nudges her awake.",
+              "evidence": [
+                {
+                  "startUid": "u2903",
+                  "endUid": "u2914"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The freed dragon turtle kills the mage and wakes Nerissa. The party survives; the controlling spell was broken by Ander earlier in the fight, and the removed arrow remains dropped in the water.",
+        "evidence": [
+          {
+            "startUid": "u2721",
+            "endUid": "u2736"
+          },
+          {
+            "startUid": "u2906",
+            "endUid": "u2914"
+          }
+        ]
+      }
+    }
+  ]
+}

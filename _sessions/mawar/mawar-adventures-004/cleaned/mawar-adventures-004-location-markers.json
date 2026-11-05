@@ -1,0 +1,1356 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-004",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
+    "sessionYamlSha256": "435751c0b05a7f75ca68906c38e3030eeccef799e554a5cb13902d1d8c03a3c5",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-transcript.md",
+    "transcriptSha256": "4d6c2412f3ecfbeeeb7ce93bf6be2a79c32ba4731de436a2dcfdbb589eac7df9",
+    "timeMarkers": {
+      "path": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-time-markers.json",
+      "sha256": "4060da816b3e5ae8c4d6d6680881b3bbb0fbf6cabdb2f8c438478d1661f0dc34",
+      "schemaVersion": "0.5-time-markers-draft"
+    }
+  },
+  "places": {
+    "p01": {
+      "label": "Peninsula of coastal watchtowers",
+      "kind": "peninsula",
+      "evidence": [
+        {
+          "startUid": "u0012",
+          "endUid": "u0019",
+          "quote": "Ah, sorry, let me grab some music here. Um let's see. We can start with— okay, so I would say it's maybe, right, so it's early November, and you know, I think Ander you've sort of just gotten your bearings and have come to reconnect. Or you've you've learned that you're probably staying somewhere in town. So, so the setup here, right? So where on this this main Roll20 map, right, where Ryu and Nerissa live are sort of on this peninsula and these abandoned towers."
+        },
+        {
+          "startUid": "u0032",
+          "endUid": "u0034",
+          "quote": "There. So, yeah, on—because, as Ander probably would remember from his youth, you know, there's a series of watchtowers up along the edge of the coast and—"
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/North Cliffs.md",
+      "note": "Matched to North Cliffs using the existing North Cliffs and Ryu notes. The canonical name is not spoken here; its separation from Hamri proper is vault orientation, not an extra transcript containment claim."
+    },
+    "p02": {
+      "label": "Ryu’s watchtower",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0028",
+          "quote": "Oh, where is he walking up to? Are we in town or is he coming to my watchtower?"
+        },
+        {
+          "startUid": "u0044",
+          "endUid": "u0049",
+          "quote": "And if you kind of like go like around the edge of the Tower there's like a little deck area like on the second level that's just out out, and you know, there's a little fire pit and kind of has this really be beautiful view of the ocean. And so what time of day is it right now, Ander?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0012",
+              "endUid": "u0019",
+              "quote": "Ah, sorry, let me grab some music here. Um let's see. We can start with— okay, so I would say it's maybe, right, so it's early November, and you know, I think Ander you've sort of just gotten your bearings and have come to reconnect. Or you've you've learned that you're probably staying somewhere in town. So, so the setup here, right? So where on this this main Roll20 map, right, where Ryu and Nerissa live are sort of on this peninsula and these abandoned towers."
+            },
+            {
+              "startUid": "u0021",
+              "endUid": "u0026",
+              "quote": "But you have— you know, just to get things started I'll say you've come out here to this you know, this peninsula to reconnect with Ryu. So, in a typical cold rainy November day, what is Ryu doing? Going to describe your character as Ander walks up?"
+            },
+            {
+              "startUid": "u0027",
+              "endUid": "u0027",
+              "quote": "Oh, where is he walking up to? Are we in town or is he coming to my watchtower?"
+            },
+            {
+              "startUid": "u0028",
+              "endUid": "u0028",
+              "quote": "No he's coming to your watchtower."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Nerissa’s tower",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0348",
+          "endUid": "u0350",
+          "quote": "So you know, grab a few things hop down the tower and start like kind of trudging through the rain headed over to Nerissa's. Where Nerissa had been— the tower that she had bought."
+        },
+        {
+          "startUid": "u0357",
+          "endUid": "u0361",
+          "quote": "Oh— my tower is not quite as Nice as Ryu yet, because I haven't been working on it for as long. But it's you know, definitely livable. This is the home of somebody who pays attention to taking care of business, and the windows give a good view and, since you know, absorbing the surroundings, as part of my daily practice I definitely see that I have some guests coming."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0012",
+              "endUid": "u0019",
+              "quote": "Ah, sorry, let me grab some music here. Um let's see. We can start with— okay, so I would say it's maybe, right, so it's early November, and you know, I think Ander you've sort of just gotten your bearings and have come to reconnect. Or you've you've learned that you're probably staying somewhere in town. So, so the setup here, right? So where on this this main Roll20 map, right, where Ryu and Nerissa live are sort of on this peninsula and these abandoned towers."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Hamri",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0391",
+          "endUid": "u0393",
+          "quote": "Well, I was staying in Mendin for a while. But I moved up here to Hamri a couple of couple months ago. Did you pass through the Tawir Forest on your way?"
+        },
+        {
+          "startUid": "u0507",
+          "endUid": "u0510",
+          "quote": "So this is a Ryu from from Hamri and with friends here also from Hamri. We are— Well, we got word that— your village may actually be potentially in some distress facing some anomalies in the ocean that may be causing some trouble. And we're here to, we're here to help."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Hamri.md"
+    },
+    "p05": {
+      "label": "Leviathan Inn",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0020",
+          "endUid": "u0020",
+          "quote": "And I would say you've probably you know, taken rooms in in town, possibly, at Wazir's inn. Wazir is the—Mike's character— owns one of the main inns in town, the Leviathan."
+        },
+        {
+          "startUid": "u0162",
+          "endUid": "u0165",
+          "quote": "Yeah to meet my buddy Trok. Probably met Wazir if you've been in the Leviathan, yet the inn, the inn in town?"
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Leviathan Inn.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0162",
+              "endUid": "u0163",
+              "quote": "Yeah to meet my buddy Trok. Probably met Wazir if you've been in the Leviathan, yet the inn, the inn in town?"
+            },
+            {
+              "startUid": "u0391",
+              "endUid": "u0393",
+              "quote": "Well, I was staying in Mendin for a while. But I moved up here to Hamri a couple of couple months ago. Did you pass through the Tawir Forest on your way?"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Splinters",
+      "kind": "shoals",
+      "evidence": [
+        {
+          "startUid": "u0454",
+          "endUid": "u0457",
+          "quote": "And so, as you sail— as you sail north— you know, Ryu, a talented sailor so managed to to you know, you skirt the coast, follow along the coastline, which stays rocky cliffs for a while. There's a few like there's the splinters which are like these little little sort of jagged points of stone just off shore. You skirt around the shoals from the splinters, in the splinters gradually get bigger and bigger and turn into the sort of barrier islands."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Splinters.md"
+    },
+    "p07": {
+      "label": "Salt marsh north of Hamri",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0458",
+          "endUid": "u0466",
+          "quote": "And after about— you know, five, six hours sailing you cut through the Channel of these barrier barrier islands and see the expanse of salt marsh stretching before you, that is where the village, the lizard folk village of Eskorola is, is situated, sort of at the southern end of this, the salt marsh."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Tzingola.md",
+      "note": "Matched to Tzingola from the existing Tzingola and Eskorola notes. This marsh name is vault-only; the source establishes Eskorola at its southern end."
+    },
+    "p08": {
+      "label": "Eskorola",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0458",
+          "endUid": "u0466",
+          "quote": "And after about— you know, five, six hours sailing you cut through the Channel of these barrier barrier islands and see the expanse of salt marsh stretching before you, that is where the village, the lizard folk village of Eskorola is, is situated, sort of at the southern end of this, the salt marsh."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Eskorola.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0458",
+              "endUid": "u0466",
+              "quote": "And after about— you know, five, six hours sailing you cut through the Channel of these barrier barrier islands and see the expanse of salt marsh stretching before you, that is where the village, the lizard folk village of Eskorola is, is situated, sort of at the southern end of this, the salt marsh."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Communal teahouse by the dock",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0486",
+          "endUid": "u0487",
+          "quote": "They swim or canoe, but there's a sort of a communal area on the edge of this deeper pool that has a small dock where, you know, humans from Hamri or other travelers can tie up as like a bigger Community building there."
+        },
+        {
+          "startUid": "u0516",
+          "endUid": "u0518",
+          "quote": "So there's like there's off right off the dock there's like sort of a big communal building that has you know, sort of— set up a little bit like almost like a cafe like a tea house type place. There's like a few tables where you can sit. There's a big fire pit in the middle. There's always a pot of something cooking there and the messenger like gets you seated and waves somebody over to you know, get you out of the cold bring you a hot drink, while he goes off to get Itzal."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0504",
+              "endUid": "u0506",
+              "quote": "Comes in comes to greet you and, \"Travelers, what is your business in Eskorola today?\" Um, asks."
+            },
+            {
+              "startUid": "u0516",
+              "endUid": "u0518",
+              "quote": "So there's like there's off right off the dock there's like sort of a big communal building that has you know, sort of— set up a little bit like almost like a cafe like a tea house type place. There's like a few tables where you can sit. There's a big fire pit in the middle. There's always a pot of something cooking there and the messenger like gets you seated and waves somebody over to you know, get you out of the cold bring you a hot drink, while he goes off to get Itzal."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Second attack site on the marsh side of an island",
+      "kind": "shore",
+      "evidence": [
+        {
+          "startUid": "u0714",
+          "endUid": "u0720",
+          "quote": "Well, let me, let me take you to where you want to go. And she's clearly very skilled with the canoes she loads you all up into her like double wide outrigger canoe and navigates through the marsh and, and you know, she waves to a few of the folks collecting shellfish and they all look kind of you know, look up like \"Where she going?\" And then see as you all, she takes you. She lands on the on the Marsh side of the island, said that the ocean side is all sandy breaking waves that inland side is is marsh. And she says, you know, she disembarks \"This is where we—this is where the the burst of steam was seen at the second attack. Don't know much else. About five, six, six, seven days ago.\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0714",
+              "endUid": "u0720",
+              "quote": "Well, let me, let me take you to where you want to go. And she's clearly very skilled with the canoes she loads you all up into her like double wide outrigger canoe and navigates through the marsh and, and you know, she waves to a few of the folks collecting shellfish and they all look kind of you know, look up like \"Where she going?\" And then see as you all, she takes you. She lands on the on the Marsh side of the island, said that the ocean side is all sandy breaking waves that inland side is is marsh. And she says, you know, she disembarks \"This is where we—this is where the the burst of steam was seen at the second attack. Don't know much else. About five, six, six, seven days ago.\""
+            },
+            {
+              "startUid": "u0744",
+              "endUid": "u0750",
+              "quote": "So you you start to sort of poke around the edges of this marsh and I mean, it seems like most of whatever happened occurred in the water and there's really not much to find except you see one enormous footprint, claw print it looks like. Ah, about a five foot wide six foot wide claw that's been pressed into the mud of the of the salt marsh and you know, the plants are sort of growing around it, but just poking through."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Steaming mound of vegetation",
+      "kind": "site",
+      "evidence": [
+        {
+          "startUid": "u0824",
+          "endUid": "u0835",
+          "quote": "So Blu gets back. And you so you're gonna use speak with animals to talk to Blu, yes? Okay. So, so you cast the spell and Blu says you know, he had he explains he had to stay quite high because um, the—you know, he didn't want to get too close to the steam, but it was clearly there's like a giant earth—it, giant mound of vegetation. And there is there's steam and mists swirling around the entire thing. He couldn't see the ground at all, you could just see little bits of the top of this, mound of vegetation but everywhere else for like hundreds of feet around it was just surrounded by mist and heat, rising from the water. It's hot even 500 feet up."
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0854",
+          "quote": "While the whole marshes, sort of there's you know bits of solid ground but then there's tons of little canals that cut through it and, in this sort of area surrounded by mists there was it looked like there was a giant mound, almost like a like a you know, massively enlarged beaver house or something like that, but like 100 times bigger, just like pile vegetation. That's that the very top of which, like peak slightly out of the mists."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0908",
+              "endUid": "u0908",
+              "quote": "But the creatures lair nest thing is further out?"
+            },
+            {
+              "startUid": "u0909",
+              "endUid": "u0909",
+              "quote": "No it's in the Marsh."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Outer pool and tunnel mouth",
+      "kind": "pool",
+      "evidence": [
+        {
+          "startUid": "u1113",
+          "endUid": "u1121",
+          "quote": "Okay um so diving into the you sort of dive down to the mists splash into the water and now are sort of swimming underneath the water, and you can see this channel goes straight ahead into—coming into up up coming out like into a sort of um deeper area and then there's like a wide tunnel, that seems to cut underneath a bank. Maybe a 20 foot diameter tunnel."
+        },
+        {
+          "startUid": "u1333",
+          "endUid": "u1335",
+          "quote": "So you can't unless you've jumped into the water you can't move out of the canoe yeah obviously. And this is, this is a salt marsh landscape, but as you come into this pool right here, it is completely covered in mist. Your visibility is maybe five or 10 feet. Great at the most um."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1333",
+              "endUid": "u1335",
+              "quote": "So you can't unless you've jumped into the water you can't move out of the canoe yeah obviously. And this is, this is a salt marsh landscape, but as you come into this pool right here, it is completely covered in mist. Your visibility is maybe five or 10 feet. Great at the most um."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Mound roof",
+      "kind": "roof",
+      "evidence": [
+        {
+          "startUid": "u2117",
+          "endUid": "u2125",
+          "quote": "I can take the lead. Yeah, make a survival check. Okay, you pick your way up through this matted vegetation avoiding a couple of weak spots, that would have—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2110",
+              "endUid": "u2112",
+              "quote": "So the mound is like up here and it continues—I couldn't find a perfect map. It's bigger than what's on this map, right here. Okay it's like you can't see—you can just see the the edge of it here, but it goes up and around probably 100 feet, at least."
+            },
+            {
+              "startUid": "u2117",
+              "endUid": "u2125",
+              "quote": "I can take the lead. Yeah, make a survival check. Okay, you pick your way up through this matted vegetation avoiding a couple of weak spots, that would have—"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Pool inside the mound",
+      "kind": "pool",
+      "evidence": [
+        {
+          "startUid": "u2134",
+          "endUid": "u2134",
+          "quote": "Yeah pull myself out and then look through the hole that's there. What's in there?"
+        },
+        {
+          "startUid": "u2135",
+          "endUid": "u2135",
+          "quote": "Um there is a large pool maybe 60 feet across."
+        },
+        {
+          "startUid": "u2136",
+          "endUid": "u2141",
+          "quote": "With a ah with like a dry area that's like a matted beach of vegetation of—you know, kind of like a basically a sort of beach that's been made of this rotting matted vegetation, on the other side at this large pool um just bubbling above the surface of the pool you see a—let's see we got to have music for this."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2128",
+              "endUid": "u2130",
+              "quote": "Actually I'll say make a dexterity saving throw. No, just Ryu. Um you fall now as you take a step forward, um up basically up to your thigh right? Like your leg smashes through the roof here. And you can feel like air, on the other side of where your leg is is the vegetation is maybe a foot thick here."
+            },
+            {
+              "startUid": "u2134",
+              "endUid": "u2134",
+              "quote": "Yeah pull myself out and then look through the hole that's there. What's in there?"
+            },
+            {
+              "startUid": "u2135",
+              "endUid": "u2135",
+              "quote": "Um there is a large pool maybe 60 feet across."
+            },
+            {
+              "startUid": "u2136",
+              "endUid": "u2141",
+              "quote": "With a ah with like a dry area that's like a matted beach of vegetation of—you know, kind of like a basically a sort of beach that's been made of this rotting matted vegetation, on the other side at this large pool um just bubbling above the surface of the pool you see a—let's see we got to have music for this."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Matted beach inside the mound",
+      "kind": "shore",
+      "evidence": [
+        {
+          "startUid": "u2136",
+          "endUid": "u2141",
+          "quote": "With a ah with like a dry area that's like a matted beach of vegetation of—you know, kind of like a basically a sort of beach that's been made of this rotting matted vegetation, on the other side at this large pool um just bubbling above the surface of the pool you see a—let's see we got to have music for this."
+        },
+        {
+          "startUid": "u2154",
+          "endUid": "u2159",
+          "quote": "um standing on the shore, looking up at you as this hole is a another somewhat abnormally large human. Um, not, not wearing Armor this one wearing a with a cloak."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2128",
+              "endUid": "u2130",
+              "quote": "Actually I'll say make a dexterity saving throw. No, just Ryu. Um you fall now as you take a step forward, um up basically up to your thigh right? Like your leg smashes through the roof here. And you can feel like air, on the other side of where your leg is is the vegetation is maybe a foot thick here."
+            },
+            {
+              "startUid": "u2134",
+              "endUid": "u2134",
+              "quote": "Yeah pull myself out and then look through the hole that's there. What's in there?"
+            },
+            {
+              "startUid": "u2135",
+              "endUid": "u2135",
+              "quote": "Um there is a large pool maybe 60 feet across."
+            },
+            {
+              "startUid": "u2136",
+              "endUid": "u2141",
+              "quote": "With a ah with like a dry area that's like a matted beach of vegetation of—you know, kind of like a basically a sort of beach that's been made of this rotting matted vegetation, on the other side at this large pool um just bubbling above the surface of the pool you see a—let's see we got to have music for this."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Chaessenth’s back",
+      "kind": "mobile platform",
+      "evidence": [
+        {
+          "startUid": "u2415",
+          "endUid": "u2417",
+          "quote": "Or make a make Athletics check. Okay. Ah, you land prone on the back of the turtle."
+        },
+        {
+          "startUid": "u2418",
+          "endUid": "u2420",
+          "quote": "And you take, you take three points of bludgeoning damage from the fall. But you are on the turtles back now."
+        },
+        {
+          "startUid": "u3116",
+          "endUid": "u3118",
+          "quote": "He like thinks for a minute and then he says, \"I will do that for you, yes. Your friends may come along as well.\""
+        },
+        {
+          "startUid": "u3121",
+          "endUid": "u3127",
+          "quote": "Okay, wait, wait so as we're riding back to the lizard man village, can we ask him to like—what are what like are there other are there other friends in the deep ocean? is that—we can meet?"
+        }
+      ],
+      "mobile": true
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0049"
+      },
+      "actors": [
+        "Ryu",
+        "Ander",
+        "Blu"
+      ],
+      "reading": "Ander reconnects with Ryu at the watchtower; Blu is perched on top.",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0026",
+          "quote": "But you have— you know, just to get things started I'll say you've come out here to this you know, this peninsula to reconnect with Ryu. So, in a typical cold rainy November day, what is Ryu doing? Going to describe your character as Ander walks up?"
+        },
+        {
+          "startUid": "u0028",
+          "endUid": "u0028",
+          "quote": "No he's coming to your watchtower."
+        },
+        {
+          "startUid": "u0046",
+          "endUid": "u0049",
+          "quote": "Late morning. Perfect. Yeah. So if you if you come out, you know, late morning and you know, Ryu is often and he is right now, just like sitting on that little kind of second deck there with a fire going and it's you know, the fire is like just covered, but you know a couple seats up there, and you see like a little you know, some some some tea or something brewing on top of the fire, and Ryu is just kind of like sitting there and then you see, at the very, very top of this tower perched, at the very top of the tower, this beautiful blue osprey just kind of perched over there and just like staring out at the ocean."
+        }
+      ],
+      "place": "p02",
+      "timeRefs": [
+        "t01"
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0162",
+        "endUid": "u0165"
+      },
+      "actors": [
+        "Ander"
+      ],
+      "reading": "Ander reports having stayed at the Leviathan for a few nights before this reunion.",
+      "evidence": [
+        {
+          "startUid": "u0162",
+          "endUid": "u0163",
+          "quote": "Yeah to meet my buddy Trok. Probably met Wazir if you've been in the Leviathan, yet the inn, the inn in town?"
+        },
+        {
+          "startUid": "u0164",
+          "endUid": "u0164",
+          "quote": "Do they're more probably yes yeah stayed there are a few nights."
+        }
+      ],
+      "place": "p05",
+      "context": "reported"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0348",
+        "endUid": "u0372"
+      },
+      "actors": [
+        "Ryu",
+        "Ander"
+      ],
+      "reading": "Ryu and Ander walk over to Nerissa’s tower and are welcomed inside.",
+      "evidence": [
+        {
+          "startUid": "u0348",
+          "endUid": "u0350",
+          "quote": "So you know, grab a few things hop down the tower and start like kind of trudging through the rain headed over to Nerissa's. Where Nerissa had been— the tower that she had bought."
+        },
+        {
+          "startUid": "u0367",
+          "endUid": "u0370",
+          "quote": "I come down from my from my window to— down down to the— entryway of the tower and I'm gonna open the door say, \"Whatever—what a beautiful morning for visitors!\""
+        },
+        {
+          "startUid": "u0371",
+          "endUid": "u0371",
+          "quote": "Mind if we come in? Yeah, out of the rain?"
+        },
+        {
+          "startUid": "u0372",
+          "endUid": "u0372",
+          "quote": "Come on in. It's good to see you and is this Captain Ander?"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0357",
+        "endUid": "u0372"
+      },
+      "actors": [
+        "Nerissa"
+      ],
+      "reading": "Nerissa is at home in her tower when her visitors arrive.",
+      "evidence": [
+        {
+          "startUid": "u0357",
+          "endUid": "u0361",
+          "quote": "Oh— my tower is not quite as Nice as Ryu yet, because I haven't been working on it for as long. But it's you know, definitely livable. This is the home of somebody who pays attention to taking care of business, and the windows give a good view and, since you know, absorbing the surroundings, as part of my daily practice I definitely see that I have some guests coming."
+        },
+        {
+          "startUid": "u0367",
+          "endUid": "u0370",
+          "quote": "I come down from my from my window to— down down to the— entryway of the tower and I'm gonna open the door say, \"Whatever—what a beautiful morning for visitors!\""
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0449",
+        "endUid": "u0453"
+      },
+      "actors": [
+        "Ryu",
+        "Ander"
+      ],
+      "reading": "The agreed supply trip into town and back is compressed into completed preparations.",
+      "evidence": [
+        {
+          "startUid": "u0449",
+          "endUid": "u0449",
+          "quote": "Um yeah why don't we go and on Ander we can head back down to the village pick up some supplies for just a couple days journey and then you know, you can say bye to your horse. I'll leave some word for Wazir, Wazir and for Trok, just in case. And yeah let's hit the ocean."
+        },
+        {
+          "startUid": "u0450",
+          "endUid": "u0453",
+          "quote": "Okay, so you take your time to get organized. You know, do all you're taking care of horses and things and I guess probably leave early the next morning, given that you have to go to town, come back all that. So the next morning, the cloudy grey but at least the rain has stopped."
+        }
+      ],
+      "from": "p03",
+      "to": "p01",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Go into Hamri for supplies and horse care, then return to the peninsula before departure.",
+          "place": "p04"
+        }
+      ],
+      "timeRefs": [
+        "t02"
+      ],
+      "note": "No explicit entry into the Leviathan is established by the compressed horse-care narration."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0454",
+        "endUid": "u0518"
+      },
+      "actors": [
+        "Ryu",
+        "Nerissa",
+        "Ander"
+      ],
+      "reading": "Sail north, skirt the Splinters, reach Eskorola, dock and take seats in its communal teahouse.",
+      "evidence": [
+        {
+          "startUid": "u0454",
+          "endUid": "u0457",
+          "quote": "And so, as you sail— as you sail north— you know, Ryu, a talented sailor so managed to to you know, you skirt the coast, follow along the coastline, which stays rocky cliffs for a while. There's a few like there's the splinters which are like these little little sort of jagged points of stone just off shore. You skirt around the shoals from the splinters, in the splinters gradually get bigger and bigger and turn into the sort of barrier islands."
+        },
+        {
+          "startUid": "u0458",
+          "endUid": "u0461",
+          "quote": "And after about— you know, five, six hours sailing you cut through the Channel of these barrier barrier islands and see the expanse of salt marsh stretching before you, that is where the village, the lizard folk village of Eskorola is, is situated, sort of at the southern end of this, the salt marsh."
+        },
+        {
+          "startUid": "u0496",
+          "endUid": "u0496",
+          "quote": "Okay, all right so kind of pull up to the dock and you know, sensing the atmosphere, so a little bit weird here, are there any lizard folk that kind of greet us or like our content, you know?"
+        },
+        {
+          "startUid": "u0516",
+          "endUid": "u0518",
+          "quote": "So there's like there's off right off the dock there's like sort of a big communal building that has you know, sort of— set up a little bit like almost like a cafe like a tea house type place. There's like a few tables where you can sit. There's a big fire pit in the middle. There's always a pot of something cooking there and the messenger like gets you seated and waves somebody over to you know, get you out of the cold bring you a hot drink, while he goes off to get Itzal."
+        }
+      ],
+      "from": "p01",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "sail",
+      "route": [
+        {
+          "reading": "Skirt the shoals, without landing.",
+          "place": "p06"
+        },
+        {
+          "reading": "Pass through the barrier-island channel to Eskorola and its dock.",
+          "place": "p08"
+        }
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "min": 5,
+        "max": 6,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "basis": "Narrated sailing to the salt-marsh approach, before docking."
+      },
+      "timeRefs": [
+        "t03",
+        "t04"
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0469",
+        "endUid": "u0474"
+      },
+      "actors": [
+        "Ryu",
+        "Nerissa",
+        "Ander"
+      ],
+      "reading": "A distant column of smoke or steam is visible to the north; no arrival is implied.",
+      "evidence": [
+        {
+          "startUid": "u0469",
+          "endUid": "u0472",
+          "quote": "And hold on, let me just look at something here. And Ryu you can see in the distance to the north, maybe another 10 miles, just like a thin column of smoke or steam or something rising on the horizon."
+        },
+        {
+          "startUid": "u0473",
+          "endUid": "u0473",
+          "quote": "Ryu is kind of like perched at the edge of the of the boat, you guys see that?"
+        },
+        {
+          "startUid": "u0474",
+          "endUid": "u0474",
+          "quote": "Maybe once he pointed out, you can sort of see it but it's really at the edge of the of the horizon."
+        },
+        {
+          "startUid": "u0824",
+          "endUid": "u0835",
+          "quote": "So Blu gets back. And you so you're gonna use speak with animals to talk to Blu, yes? Okay. So, so you cast the spell and Blu says you know, he had he explains he had to stay quite high because um, the—you know, he didn't want to get too close to the steam, but it was clearly there's like a giant earth—it, giant mound of vegetation. And there is there's steam and mists swirling around the entire thing. He couldn't see the ground at all, you could just see little bits of the top of this, mound of vegetation but everywhere else for like hundreds of feet around it was just surrounded by mist and heat, rising from the water. It's hot even 500 feet up."
+        }
+      ],
+      "place": "p11",
+      "mode": "local",
+      "note": "Later Blu’s report identifies the steaming mound; the initial sight alone does not establish its detailed form."
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u0491",
+        "endUid": "u0492"
+      },
+      "actors": [
+        "Benat",
+        "Azar"
+      ],
+      "reading": "The DM reports Benat staying here with Azar; the party does not meet them in the played scene.",
+      "evidence": [
+        {
+          "startUid": "u0491",
+          "endUid": "u0491",
+          "quote": "Yeah so actually, this is where um where Benat has been staying with. It's it's like Benat's home village. It's where he's from the like lizard folk historian that you met in town a few adventures ago and so he's actually staying here with with Azar, the"
+        },
+        {
+          "startUid": "u0492",
+          "endUid": "u0492",
+          "quote": "warlock dude who you captured was like trying to recover from his past life."
+        }
+      ],
+      "place": "p08",
+      "context": "reported"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0704",
+        "endUid": "u0720"
+      },
+      "actors": [
+        "Ryu",
+        "Nerissa",
+        "Ander",
+        "Amaya"
+      ],
+      "reading": "Amaya guides the party by canoe to the second attack site, landing on the island’s marsh side.",
+      "evidence": [
+        {
+          "startUid": "u0704",
+          "endUid": "u0706",
+          "quote": "So she she takes you out to a to a canoe and she is you know, um—as, as you watch she's like, \"So you're adventurers. What do you do even?\""
+        },
+        {
+          "startUid": "u0714",
+          "endUid": "u0720",
+          "quote": "Well, let me, let me take you to where you want to go. And she's clearly very skilled with the canoes she loads you all up into her like double wide outrigger canoe and navigates through the marsh and, and you know, she waves to a few of the folks collecting shellfish and they all look kind of you know, look up like \"Where she going?\" And then see as you all, she takes you. She lands on the on the Marsh side of the island, said that the ocean side is all sandy breaking waves that inland side is is marsh. And she says, you know, she disembarks \"This is where we—this is where the the burst of steam was seen at the second attack. Don't know much else. About five, six, six, seven days ago.\""
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "canoe"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0824",
+        "endUid": "u0854"
+      },
+      "actors": [
+        "Ryu"
+      ],
+      "reading": "Ryu receives Blu’s aerial report of the steaming mound, obscured ground and underwater trail.",
+      "evidence": [
+        {
+          "startUid": "u0824",
+          "endUid": "u0835",
+          "quote": "So Blu gets back. And you so you're gonna use speak with animals to talk to Blu, yes? Okay. So, so you cast the spell and Blu says you know, he had he explains he had to stay quite high because um, the—you know, he didn't want to get too close to the steam, but it was clearly there's like a giant earth—it, giant mound of vegetation. And there is there's steam and mists swirling around the entire thing. He couldn't see the ground at all, you could just see little bits of the top of this, mound of vegetation but everywhere else for like hundreds of feet around it was just surrounded by mist and heat, rising from the water. It's hot even 500 feet up."
+        },
+        {
+          "startUid": "u0837",
+          "endUid": "u0842",
+          "quote": "No, no sign of of humans or anything, um. No, no boats, although something were hidden in the mist it would have been hard or impossible to see um. No just outside the mists, it just look like the salt marsh like everywhere else. He could see bits and pieces of this trail cut through the Marsh but, again, it dipped underwater or or went into the mists and didn't couldn't see where it came from inside the mists."
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0851",
+          "quote": "While the whole marshes, sort of there's you know bits of solid ground but then there's tons of little canals that cut through it and, in this sort of area surrounded by mists there was it looked like there was a giant mound, almost like a like a you know, massively enlarged beaver house or something like that, but like 100 times bigger, just like pile vegetation. That's that the very top of which, like peak slightly out of the mists."
+        },
+        {
+          "startUid": "u0852",
+          "endUid": "u0852",
+          "quote": "Like a big nest?"
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0854",
+          "quote": "Like a big nest of some kind yeah. But like a dome, right, so it would be like an inverted nest, right, so something underneath was underneath."
+        }
+      ],
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p10",
+      "note": "Ryu hears Blu’s report through Speak with Animals; the party has not entered the mound. No return from the attack site is narrated before this report."
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0934",
+        "endUid": "u0939"
+      },
+      "actors": [
+        "Ryu",
+        "Nerissa",
+        "Ander"
+      ],
+      "reading": "The party is put up for the night by the villagers, then gets up at dawn.",
+      "evidence": [
+        {
+          "startUid": "u0934",
+          "endUid": "u0934",
+          "quote": "So they put you up for the night. The lizardfolk do attempt a gatza ceremony just to try and reach the spirit of the dead warrior, but—"
+        },
+        {
+          "startUid": "u0935",
+          "endUid": "u0936",
+          "quote": "No luck. And you now, and you rest and prepare for the morning."
+        },
+        {
+          "startUid": "u0937",
+          "endUid": "u0939",
+          "quote": "So as morning dawn's it's another gray day. Rain threatening the clouds hanging low over the horizon occasional sort of morning the morning mists blowing off from the ocean and making everything look almost ghostly. Um, as you get up at the you know, the break of dawn in the chill. Have a quick breakfast before setting off."
+        }
+      ],
+      "from": "p10",
+      "to": "p08",
+      "completion": "arrived",
+      "timeRefs": [
+        "t07"
+      ],
+      "note": "The return leg is compressed; the lodging is not specifically placed inside the communal teahouse."
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1112",
+        "endUid": "u1127"
+      },
+      "actors": [
+        "Ryu"
+      ],
+      "reading": "Through Beast Sense, Ryu sees the outer pool and tunnel via Blu scouting underwater.",
+      "evidence": [
+        {
+          "startUid": "u1112",
+          "endUid": "u1112",
+          "quote": "All right, I cast it. I'll see through his eyes."
+        },
+        {
+          "startUid": "u1113",
+          "endUid": "u1121",
+          "quote": "Okay um so diving into the you sort of dive down to the mists splash into the water and now are sort of swimming underneath the water, and you can see this channel goes straight ahead into—coming into up up coming out like into a sort of um deeper area and then there's like a wide tunnel, that seems to cut underneath a bank. Maybe a 20 foot diameter tunnel."
+        }
+      ],
+      "place": "p12",
+      "mode": "remote",
+      "note": "Ryu remains with the approaching party; Blu’s scouting does not place the party at the pool."
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1305",
+        "endUid": "u1366"
+      },
+      "actors": [
+        "Ryu",
+        "Nerissa",
+        "Ander"
+      ],
+      "reading": "After paddling north through the beast-cut channel, the canoe enters the mist-covered outer pool.",
+      "evidence": [
+        {
+          "startUid": "u1061",
+          "endUid": "u1067",
+          "quote": "So you paddle north. Ah the clouds open a little bit and the rain begins to drizzle on you as you push your way through the sort of edge of this marsh. Fall—I mean, are you staying out in the water? There's a there's a pat like a little bit north of the villages this wide path that's been cut through the Marsh like the vegetation is all been torn up and there's like a 15 foot wide channel?"
+        },
+        {
+          "startUid": "u1305",
+          "endUid": "u1308",
+          "quote": "So you you paddle slowly quietly drifting down this wide channel. Another 20, 30 minutes passes, as you approaches as quietly, as you can in the stillness of this mist."
+        },
+        {
+          "startUid": "u1333",
+          "endUid": "u1335",
+          "quote": "So you can't unless you've jumped into the water you can't move out of the canoe yeah obviously. And this is, this is a salt marsh landscape, but as you come into this pool right here, it is completely covered in mist. Your visibility is maybe five or 10 feet. Great at the most um."
+        },
+        {
+          "startUid": "u1344",
+          "endUid": "u1345",
+          "quote": "Yeah so I mean, the water has has you've now gotten into a spot where the narrow canal has has opened up um and you can sense that there's more water to your right, and your left, but you can't—you can't see anything clearly."
+        }
+      ],
+      "from": "p08",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "canoe",
+      "timeRefs": [
+        "t08",
+        "t09",
+        "t10"
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2110",
+        "endUid": "u2132"
+      },
+      "actors": [
+        "Ryu",
+        "Nerissa",
+        "Ander"
+      ],
+      "reading": "The party climbs onto the mound’s roof; Ryu briefly breaks through with a leg and pulls back out.",
+      "evidence": [
+        {
+          "startUid": "u2100",
+          "endUid": "u2100",
+          "quote": "Why don't we stick together and climb on the nest?"
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2118",
+          "quote": "I can take the lead. Yeah, make a survival check. Okay, you pick your way up through this matted vegetation avoiding a couple of weak spots, that would have—"
+        },
+        {
+          "startUid": "u2119",
+          "endUid": "u2122",
+          "quote": "Where the the roof would have collapsed and you seem to be climbing now on like some vast dome of have something, like you pass through an area that's like spongy like it goes up a bit, and then it sort of stays flat for a while. You're maybe 20, 20 feet up. And clearly and you're sort of right at the edge like right above the mists now. The mists are maybe 15, 20 feet up from the surface of the water."
+        },
+        {
+          "startUid": "u2128",
+          "endUid": "u2130",
+          "quote": "Actually I'll say make a dexterity saving throw. No, just Ryu. Um you fall now as you take a step forward, um up basically up to your thigh right? Like your leg smashes through the roof here. And you can feel like air, on the other side of where your leg is is the vegetation is maybe a foot thick here."
+        },
+        {
+          "startUid": "u2131",
+          "endUid": "u2131",
+          "quote": "But I quickly pull myself out."
+        },
+        {
+          "startUid": "u2132",
+          "endUid": "u2132",
+          "quote": "Ah yeah."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u2134",
+        "endUid": "u2164"
+      },
+      "actors": [
+        "Ryu",
+        "Nerissa",
+        "Ander"
+      ],
+      "reading": "Through the roof opening, the party sees the turtle in the inner pool and a fiery humanoid on the beach.",
+      "evidence": [
+        {
+          "startUid": "u2134",
+          "endUid": "u2134",
+          "quote": "Yeah pull myself out and then look through the hole that's there. What's in there?"
+        },
+        {
+          "startUid": "u2135",
+          "endUid": "u2135",
+          "quote": "Um there is a large pool maybe 60 feet across."
+        },
+        {
+          "startUid": "u2136",
+          "endUid": "u2141",
+          "quote": "With a ah with like a dry area that's like a matted beach of vegetation of—you know, kind of like a basically a sort of beach that's been made of this rotting matted vegetation, on the other side at this large pool um just bubbling above the surface of the pool you see a—let's see we got to have music for this."
+        },
+        {
+          "startUid": "u2145",
+          "endUid": "u2149",
+          "quote": "No like basically three things happen at once, first of all in the pool you see this enormous turtle. Like maybe 15 feet across and just are 15 feet long and almost as wide, um just like. You know matted spiky shell."
+        },
+        {
+          "startUid": "u2150",
+          "endUid": "u2153",
+          "quote": "But its head looks more like the head of a dragon. As it looks as it lifts out of the water and sort of like moaning and bellowing, um, and stuck into its neck there's a black arrow that's like penetrating from its neck. Glows faintly with red fire. There's like little arcs of fire running along the back of its neck."
+        },
+        {
+          "startUid": "u2154",
+          "endUid": "u2159",
+          "quote": "um standing on the shore, looking up at you as this hole is a another somewhat abnormally large human. Um, not, not wearing Armor this one wearing a with a cloak."
+        },
+        {
+          "startUid": "u2161",
+          "endUid": "u2164",
+          "quote": "Like of fire sort of stretching down off of the cloak again sort of cracked with magma. It seems to be yelling something at this turtle creature, um—"
+        }
+      ],
+      "place": "p14",
+      "observerPlace": "p13",
+      "mode": "local",
+      "observedActors": [
+        "Dragon turtle"
+      ],
+      "note": "The beach is also visible; this opening observation precedes the separate descents into the mound."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2415",
+        "endUid": "u2420"
+      },
+      "actors": [
+        "Ryu"
+      ],
+      "reading": "Ryu jumps down onto the dragon turtle’s back.",
+      "evidence": [
+        {
+          "startUid": "u2415",
+          "endUid": "u2417",
+          "quote": "Or make a make Athletics check. Okay. Ah, you land prone on the back of the turtle."
+        },
+        {
+          "startUid": "u2418",
+          "endUid": "u2420",
+          "quote": "And you take, you take three points of bludgeoning damage from the fall. But you are on the turtles back now."
+        }
+      ],
+      "from": "p13",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "jump",
+      "locationContext": [
+        {
+          "subject": "p16",
+          "relation": "within",
+          "target": "p14"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2470",
+        "endUid": "u2473"
+      },
+      "actors": [
+        "Nerissa"
+      ],
+      "reading": "Nerissa uses Misty Step to join Ryu on the turtle.",
+      "evidence": [
+        {
+          "startUid": "u2470",
+          "endUid": "u2471",
+          "quote": "Oh I'm not gonna attack it. Okay I'm gonna Misty Step to it."
+        },
+        {
+          "startUid": "u2472",
+          "endUid": "u2473",
+          "quote": "Okay so that's your bonus action. You appear on its back."
+        }
+      ],
+      "from": "p13",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "teleport",
+      "locationContext": [
+        {
+          "subject": "p16",
+          "relation": "within",
+          "target": "p14"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2670",
+        "endUid": "u2689"
+      },
+      "actors": [
+        "Ander"
+      ],
+      "reading": "Ander jumps down from the roof to engage the mage on the inner beach.",
+      "evidence": [
+        {
+          "startUid": "u2670",
+          "endUid": "u2670",
+          "quote": "All right, Tim, what I want to do is leap like jump forward crash down through the roof and close the distance with the rest of my move and then attack. Is that—"
+        },
+        {
+          "startUid": "u2678",
+          "endUid": "u2680",
+          "quote": "You jump and awkwardly crashed through, but instead of landing prone you manage to right yourself at the last."
+        },
+        {
+          "startUid": "u2682",
+          "endUid": "u2685",
+          "quote": "You're still going to take, you're still going to take 10 points of bludgeoning damages you land awkwardly on your legs but you are not prone you still have the rest of your movement."
+        },
+        {
+          "startUid": "u2688",
+          "endUid": "u2689",
+          "quote": "Uh I will close. I'm going to do a great weapon master attack can take the minus five. Okay, and then I'm also going to do a Feinting attack to get—that's my last superiority die and to get advantage on it."
+        },
+        {
+          "startUid": "u2154",
+          "endUid": "u2159",
+          "quote": "um standing on the shore, looking up at you as this hole is a another somewhat abnormally large human. Um, not, not wearing Armor this one wearing a with a cloak."
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "jump"
+    },
+    {
+      "id": "l23",
+      "type": "presence",
+      "source": {
+        "startUid": "u3012",
+        "endUid": "u3013"
+      },
+      "actors": [
+        "Ander"
+      ],
+      "reading": "The DM places the party on the beach, except Nerissa on the water; Ryu then swims over to Chaessenth.",
+      "evidence": [
+        {
+          "startUid": "u3012",
+          "endUid": "u3013",
+          "quote": "You're I mean, he's, he's in the water, you're sort of on the beach I would assume more I mean, Nerissa's like standing on the water."
+        },
+        {
+          "startUid": "u3014",
+          "endUid": "u3016",
+          "quote": "Yeah Ryu swims over just to like kind of be like right up next to the Chaessenth, so he can he can see and, you know, with Turk to Turks kind of like right here as well, on—Nerissa, can you can you introduce us?"
+        }
+      ],
+      "place": "p15",
+      "note": "The DM qualifies the beach placement with “I would assume”; Ander’s earlier landing is separately established."
+    },
+    {
+      "id": "l19",
+      "type": "presence",
+      "source": {
+        "startUid": "u3012",
+        "endUid": "u3016"
+      },
+      "actors": [
+        "Ryu",
+        "Nerissa"
+      ],
+      "reading": "After the battle Ryu swims with Turk and Nerissa stands on the inner pool’s water.",
+      "evidence": [
+        {
+          "startUid": "u3012",
+          "endUid": "u3013",
+          "quote": "You're I mean, he's, he's in the water, you're sort of on the beach I would assume more I mean, Nerissa's like standing on the water."
+        },
+        {
+          "startUid": "u3014",
+          "endUid": "u3016",
+          "quote": "Yeah Ryu swims over just to like kind of be like right up next to the Chaessenth, so he can he can see and, you know, with Turk to Turks kind of like right here as well, on—Nerissa, can you can you introduce us?"
+        }
+      ],
+      "place": "p14"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u3109",
+        "endUid": "u3151"
+      },
+      "actors": [
+        "Ryu",
+        "Nerissa",
+        "Ander"
+      ],
+      "reading": "Chaessenth agrees to carry the party back to the lizardfolk village and lets them off there.",
+      "evidence": [
+        {
+          "startUid": "u3110",
+          "endUid": "u3113",
+          "quote": "To—we don't have a boat. Yeah, our canoe sank, so actually, uh, but let's ask him for a ride. For a ride back to Hamri? Or to the to the to the lizard man village because that's where my boat is?"
+        },
+        {
+          "startUid": "u3114",
+          "endUid": "u3115",
+          "quote": "Yeah or at least close by. Um can you start your journey by bringing us a little bit closer to the, the shore before you get to the deep waters, please?"
+        },
+        {
+          "startUid": "u3116",
+          "endUid": "u3118",
+          "quote": "He like thinks for a minute and then he says, \"I will do that for you, yes. Your friends may come along as well.\""
+        },
+        {
+          "startUid": "u3120",
+          "endUid": "u3120",
+          "quote": "Everybody ride the giant turtle."
+        },
+        {
+          "startUid": "u3121",
+          "endUid": "u3127",
+          "quote": "Okay, wait, wait so as we're riding back to the lizard man village, can we ask him to like—what are what like are there other are there other friends in the deep ocean? is that—we can meet?"
+        },
+        {
+          "startUid": "u3148",
+          "endUid": "u3151",
+          "quote": "So, as he swims back you like standing clearly on the top like waving like signaling to everybody that this is not a threat. Yeah as the as the beast approaches lets you off. You explain what happened to the lizard folk."
+        }
+      ],
+      "from": "p14",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "ride",
+      "vehicle": "p16"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u3152",
+        "endUid": "u3159"
+      },
+      "actors": [
+        "Chaessenth",
+        "Blu"
+      ],
+      "reading": "Chaessenth swims out to sea and Blu joins him; no deep-ocean destination arrival is shown.",
+      "evidence": [
+        {
+          "startUid": "u3152",
+          "endUid": "u3153",
+          "quote": "He is, and then the turtle turns to the ocean, dives once more. And swims out to sea."
+        },
+        {
+          "startUid": "u3154",
+          "endUid": "u3155",
+          "quote": "Tim, I have, I have Blu just I'm just like, \"Blu, go have fun. Go, go, go, go enjoy go go have fun journey with the turtle and learn what you can and take your time coming back.\""
+        },
+        {
+          "startUid": "u3156",
+          "endUid": "u3157",
+          "quote": "Okay good just swims out."
+        }
+      ],
+      "from": "p08",
+      "to": null,
+      "completion": "underway",
+      "mode": "swim"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u3184",
+        "endUid": "u3188"
+      },
+      "actors": [
+        "Ryu",
+        "Nerissa",
+        "Ander"
+      ],
+      "reading": "The closing narration compresses the party’s return to town, understood as Hamri.",
+      "evidence": [
+        {
+          "startUid": "u3184",
+          "endUid": "u3186",
+          "quote": "So, as you return to town you, you know, say your goodbyes. You may make it back contemplating these experiences um."
+        },
+        {
+          "startUid": "u3187",
+          "endUid": "u3188",
+          "quote": "Considering notes to share with Wazir, also recalling as you return to town that someday you'll have to mention to, to Yaz the old ocean watcher who lives with the Wanui Teora and see if he knows anything of that."
+        },
+        {
+          "startUid": "u3164",
+          "endUid": "u3165",
+          "quote": "Hamri is, right here. This is the treasure map you got from Hiyasa."
+        }
+      ],
+      "from": "p08",
+      "to": "p04",
+      "completion": "arrived",
+      "note": "No travel duration or additional overnight is stated. Wazir and Yaz are contemplated contacts, not encounters."
+    }
+  ]
+}
