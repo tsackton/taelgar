@@ -1,0 +1,1401 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-050",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-session.yaml",
+    "sessionYamlSha256": "8af0ea264e054689d20c42e953f629bb226168c59e50e9105b7049d55b00c595",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-transcript.md",
+    "transcriptSha256": "e33d480370a34ebee9dfb247f9ff2d0889935687ec60931089bcb6fc14a37f2b",
+    "yamlDates": {
+      "start": "1748-08-24",
+      "end": "1748-08-29"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0393",
+        "endUid": "u0394"
+      },
+      "reading": "The party resumes play behind the barn at about 10 a.m.",
+      "evidence": [
+        {
+          "startUid": "u0393",
+          "endUid": "u0394",
+          "quote": "DM: Like a half mile south ... turn now, it's like 10:00 in the morning."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "clock": "10:00",
+        "partOfDay": "morning"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0411",
+        "endUid": "u0419"
+      },
+      "reading": "Wellby searches through the farms and around to the river, finding shelter over the course of the day.",
+      "evidence": [
+        {
+          "startUid": "u0411",
+          "endUid": "u0419",
+          "quote": "DM: No problem. Okay. Just, just for simplicity's sake, let's say that you spend ... Wellby spends the day ... No. Just, you know, keep, you know, walking through the farms, doing a big, long circle back around to the river and finds a sheltered, like, a spot along the riverbank where we can rest and hide."
+        }
+      ],
+      "completion": "completed",
+      "actors": [
+        "Wellby"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0422",
+        "endUid": "u0427"
+      },
+      "reading": "Delwath takes a short rest at the riverbank before maintaining invisibility for the others to sleep.",
+      "evidence": [
+        {
+          "startUid": "u0422",
+          "endUid": "u0427",
+          "quote": "Delwath: So but then—at least, that's what they at least expect. If we take one... If we take a sh- I mean, realistically what we should do is take... Yeah, we'll take a short rest. Delwath will then cycle invisibility on everybody. Right."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed",
+      "actors": [
+        "Delwath"
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0428",
+        "endUid": "u0465"
+      },
+      "reading": "The party completes the overnight rest in shifts; Delwath takes his four-hour rest late in the night, ending around dawn.",
+      "evidence": [
+        {
+          "startUid": "u0428",
+          "endUid": "u0455",
+          "quote": "DM: You guys can sleep. Delwath will watch.\n\nDelwath: At 3:00 in the morning, right, everybody will have had a long rest. Delwath will wake somebody up, right, and actually take a—\n\nDM: ... Like, we can't concentrate on spells when we're, you know, when—\n\nDelwath: We transition, you know? Sure. Yes. That would be sort of... But I think in the middle of, like, at 3:00 in the morning, nobody's gonna...\n\nDM: I think it's safe to take a ...\n\nDelwath: The point is Delwath needs four hours for a long rest. Yeah. So let's, when's sunrise?\n\nDM: 7:00, 6:00? Or maybe 8:00, 6:00. So at 2:00 in the morning, we'll trade out, right? And—\n\nDelwath: Um, we'll stop. We'll give up on the invisibility because the middle of the night is not a bad time. Like, we would probably—\n\nDM: Be able to do Delwath's 4:00 AM thing, um, and Delwath can get a long rest. And then it'll be dawn, and we'll switch back to invisibility, and we're invisibly up a river—\n\nDelwath: Until we get to—\n\nDM: A town or some, you know, a market where we can buy horses. That's the plan."
+        },
+        {
+          "startUid": "u0456",
+          "endUid": "u0456",
+          "quote": "Seeker: Oh. That's the plan. All right. I will activate my long rest."
+        },
+        {
+          "startUid": "u0457",
+          "endUid": "u0465",
+          "quote": "Yeah. So everybody take a long rest."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention for the non-elves; Delwath explicitly needs four hours"
+      },
+      "completion": "completed",
+      "dateBoundaries": 1,
+      "timeRange": {
+        "start": null,
+        "end": {
+          "precision": "approximate",
+          "basis": "completed overnight and subsequent sunrise breakfast",
+          "partOfDay": "dawn"
+        }
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0539",
+        "endUid": "u0544"
+      },
+      "reading": "Breakfast is first placed an hour after dawn, then corrected to sunrise at the same camp.",
+      "evidence": [
+        {
+          "startUid": "u0539",
+          "endUid": "u0544",
+          "quote": "DM: That's what it is. Um, let me just... This is a nice... So we'll start as dawn, as dawn, say an hour after dawn."
+        },
+        {
+          "startUid": "u0569",
+          "endUid": "u0572",
+          "quote": "DM: Half an hour before dawn, you know, prepares a cold breakfast of nuts and hard-boiled eggs and, uh, some porridge or something."
+        },
+        {
+          "startUid": "u0574",
+          "endUid": "u0618",
+          "quote": "It's probably right at sunrise. So yeah, sunrise, you all stumble out of the mirror"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM corrects the initial hour-after-dawn estimate",
+        "partOfDay": "sunrise"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0684",
+        "endUid": "u0686"
+      },
+      "reading": "Kenzo dates his dream of the storm giant to the preceding night, just before waking.",
+      "evidence": [
+        {
+          "startUid": "u0684",
+          "endUid": "u0686",
+          "quote": "Kenzo: When did I have this dream, Tim?\n\nDM: Last night. Just now, as he woke up."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision",
+      "time": {
+        "precision": "approximate",
+        "basis": "DM places Kenzo’s dream last night, just before waking",
+        "partOfDay": "night",
+        "relative": {
+          "relation": "before",
+          "reference": "t05",
+          "anchor": "the sunrise breakfast"
+        }
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1850",
+        "endUid": "u1871"
+      },
+      "reading": "Fausto finishes breakfast while Delwath watches for a few minutes; this occurs while Wellby is buying horses, not after riding begins.",
+      "evidence": [
+        {
+          "startUid": "u1850",
+          "endUid": "u1871",
+          "quote": "Um, you watch him for a few minutes"
+        },
+        {
+          "startUid": "u1978",
+          "endUid": "u1984",
+          "quote": "Delwath: He Scryed somebody, but we're still by the river. What we really want is for him to not follow us.\n\nWellby: Yeah, we're by the river. Yeah. We were just talking about, um, Seeker casting Wall of Stone in the surroundings.\n\nDelwath: But you're off buying horses."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly describes the observation interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2003",
+        "endUid": "u2008"
+      },
+      "reading": "Wellby returns with the horses roughly an hour and a half to two hours after leaving camp.",
+      "evidence": [
+        {
+          "startUid": "u2003",
+          "endUid": "u2008",
+          "quote": "DM: An hour and a half later, maybe two hours later, Wellby comes back with four horses, and you are talking there. And kind of sees a—"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "min": 1.5,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s return estimate"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2055",
+        "endUid": "u2066"
+      },
+      "reading": "Wellby passes Metium after lunch, in midafternoon, during the first riding day.",
+      "evidence": [
+        {
+          "startUid": "u2055",
+          "endUid": "u2066",
+          "quote": "maybe soon after, a bit after lunchtime, middle of the afternoon, um, you pass Metium"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "partOfDay": "afternoon"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2074",
+        "endUid": "u2096"
+      },
+      "reading": "The first ride began about 9 a.m.; by 5 p.m. eight hours have passed and the horses pause for a couple of hours.",
+      "evidence": [
+        {
+          "startUid": "u2074",
+          "endUid": "u2096",
+          "quote": "Uh, so you left maybe 9:00 AM. By 5:00 PM, about eight hours"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "stated by the table",
+          "clock": "09:00",
+          "partOfDay": "morning"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "stated by the table",
+          "clock": "17:00",
+          "partOfDay": "afternoon"
+        }
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2074",
+        "endUid": "u2096"
+      },
+      "reading": "After the roughly two-hour horse break, Wellby resumes east at about 7–7:30 p.m. as the sun sets.",
+      "evidence": [
+        {
+          "startUid": "u2074",
+          "endUid": "u2096",
+          "quote": "pause for a couple of hours"
+        },
+        {
+          "startUid": "u2074",
+          "endUid": "u2096",
+          "quote": "starting up again at say 7:00, 7:30, and begin riding further east as the sun sets."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "stated by the table",
+          "clock": "17:00"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM gives 7–7:30 p.m. restart",
+          "partOfDay": "sunset"
+        }
+      },
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated horse break, approximately 5 to 7–7:30 p.m."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2110",
+        "endUid": "u2125"
+      },
+      "reading": "The first riding day ends around or just after midnight; the horses cannot continue before dawn.",
+      "evidence": [
+        {
+          "startUid": "u2110",
+          "endUid": "u2116",
+          "quote": "DM: Just thinking can we, like, how easy are they gonna be to sky there? By midnight, the horses are completely winded. Like, you cannot push further—\n\nDelwath: Without a substantial risk of maiming or injuring a horse through riding.\n\nDM: Really all horses, they need a, a decent three, three, four hours at least."
+        },
+        {
+          "startUid": "u2120",
+          "endUid": "u2125",
+          "quote": "DM: It's now, it's now past midnight, and you've traveled about 70 miles on this day. But-\n\nDelwath: We have 500 to go.\n\nKenzo: That's actually pretty good.\n\nDM: And the horses, like, you know, you probably won't be able to ride again till dawn."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "partOfDay": "midnight"
+      },
+      "completion": "completed",
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2142",
+        "endUid": "u2143"
+      },
+      "reading": "The first road camp has about five hours until dawn for horse recovery.",
+      "evidence": [
+        {
+          "startUid": "u2142",
+          "endUid": "u2143",
+          "quote": "DM: How many, how long do we have till dawn? Five hours."
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s interval to dawn"
+      },
+      "completion": "completed",
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "stated by the table",
+          "partOfDay": "midnight"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "stated by the table",
+          "partOfDay": "dawn"
+        }
+      },
+      "note": "The interval reaches the next morning already counted at t12; it is not another overnight boundary. Wellby later confirms only four hours of sleep at u2293–u2307."
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2166"
+      },
+      "reading": "Marcella is scryed asleep in the mountains; the table retcons this to after Delwath’s long rest, around the party’s dawn.",
+      "evidence": [
+        {
+          "startUid": "u2152",
+          "endUid": "u2156",
+          "quote": "Wellby: That's creepy. She is sleeping.\n\nKenzo: That's creepy. I just wanna make sure she's not- No, no, I know. Sleeping where?"
+        },
+        {
+          "startUid": "u2166",
+          "endUid": "u2166",
+          "quote": "DM: Outside in the mountains somewhere."
+        },
+        {
+          "startUid": "u2202",
+          "endUid": "u2202",
+          "quote": "DM: Three in the morning."
+        },
+        {
+          "startUid": "u2210",
+          "endUid": "u2216",
+          "quote": "Delwath: ... where she is. Right? I'm actually gonna scry, like, uh, retcon scry after the long rest, and then short rest.\n\nDM: Sure.\n\nDelwath: So then it would be, would be morning. And if it's 5:00 in the morning in Chardon, right, the mountains are probably one hour at least.\n\nDM: [laughs] It is, it is..."
+        },
+        {
+          "startUid": "u2234",
+          "endUid": "u2239",
+          "quote": "Wellby: I feel like you could still say yes, though, if it is farther east, even if it's incrementally lighter.\n\nDM: Yeah, it's a little bit lighter. Not, not so much you can, like, judge exactly where.\n\nDelwath: I'm not trying to just... I'm, I'm looking for a clue that says she's not, that she's made it in the mountains of the east.\n\nDM: Yes."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "accepted after-long-rest retcon; the 3 a.m. wording is superseded",
+        "partOfDay": "dawn"
+      },
+      "note": "The slightly lighter remote sky gives no reliable local clock or mountain identity."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2326",
+        "endUid": "u2327"
+      },
+      "reading": "Wellby sets out again following the short overnight stop, on the second riding day.",
+      "evidence": [
+        {
+          "startUid": "u2293",
+          "endUid": "u2307",
+          "quote": "DM: We just do a rest. Ah, you haven't gotten a long rest. You could wait three or four hours. Well, we got four hours of sleep.\n\nDelwath: It doesn't need a long rest. We didn't lose any magic.\n\nWellby: Uh, do you worry about exhaustion? Is that a thing?\n\nDM: Eventually.\n\nKenzo: Like-\n\nDM: Yes. I mean-\n\nDelwath: My theory is that an adventurer certainly can go with four hours of sleep for a couple of days.\n\nWellby: Okay. Yeah.\n\nDM: It seems ridiculous.\n\nWellby: I think so. I think it's... Yeah."
+        },
+        {
+          "startUid": "u2326",
+          "endUid": "u2327",
+          "quote": "DM: Uh, just that for now. So, you set out again."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "departure follows the overnight-to-dawn interval",
+        "partOfDay": "dawn",
+        "relative": {
+          "relation": "after",
+          "reference": "t13",
+          "anchor": "the dawn endpoint"
+        }
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2384",
+        "endUid": "u2391"
+      },
+      "reading": "The second day’s first riding stretch takes roughly three to four hours.",
+      "evidence": [
+        {
+          "startUid": "u2384",
+          "endUid": "u2391",
+          "quote": "DM: Hot. I mean, Chardon is almost exactly the same latitude as San Francisco, so. But just you're not central, it's not like Central Valley dry. It's, it's, but that's the vibe. Um, you go for, you know, about three, four hours, um, making another 20, 20-ish miles, um, yeah. Uh-"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates the stretch"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2406",
+        "endUid": "u2414"
+      },
+      "reading": "The horses break around 9 a.m.; the next riding stretch runs from about 10 a.m. to 1 p.m., followed by another substantial break.",
+      "evidence": [
+        {
+          "startUid": "u2406",
+          "endUid": "u2414",
+          "quote": "DM: Um, you need a longer break around nine to refresh and water the horses. Um, you only make about 15 miles from 10 to 1. Um, I don't know, five miles. And ano- have another long, decently long rest to keep the horses, um, healthy and, and together. Uh..."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "stated by the table",
+          "clock": "09:00",
+          "partOfDay": "morning"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "stated by the table",
+          "clock": "13:00",
+          "partOfDay": "midday"
+        }
+      },
+      "note": "Only the 10-to-1 riding portion is explicitly timed; the following break has no stated duration."
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2417",
+        "endUid": "u2427"
+      },
+      "reading": "Wellby sees the monolith near the road at sunset on the second riding day.",
+      "evidence": [
+        {
+          "startUid": "u2417",
+          "endUid": "u2427",
+          "quote": "DM: So you're... And as you, as the sun is setting, you see, um, you know, you've passed a bunch of little towns and stuff, and mostly been riding like along this road that follows the course of the river that's going entirely through farmland.\n\nBut as the sun is setting and the light catches on this, um, huge, maybe 160 to 80 foot high gray-white monolithic stone that stands sort of on a slight bank of the river, um, tapers to, to a point maybe 15, 20 foot diameter at the base. This is a massive, so- solid stone just standing there off the road, up on a small hill."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u2499",
+        "endUid": "u2517"
+      },
+      "reading": "Wellby becomes exhausted around 8 p.m., then stops about 9 p.m. after riding beyond the monolith.",
+      "evidence": [
+        {
+          "startUid": "u2499",
+          "endUid": "u2505",
+          "quote": "DM: By, by 8:00 PM, you are just bone tired. You are now one level exhausted.\n\nWellby: All right.\n\nDM: You've been riding almost nonstop for the past 36 hours, roughly."
+        },
+        {
+          "startUid": "u2507",
+          "endUid": "u2517",
+          "quote": "DM: Um, and you are wiped. The horses are wiped too now, after about two hours past the sunset. Just panting, um, you know—\n\nKenzo: Feeding them some apples and some—\n\nDM: Oats and other sorts of high protein stuff stashed in the, um... You make, make another 10 miles before—\n\nWellby: I'll find some relatively quiet place and pull everybody out of the mirror. Try to hide the outside, but done. Just absolutely done.\n\nDM: So it's about, say, 9:00 PM."
+        },
+        {
+          "startUid": "u2564",
+          "endUid": "u2566",
+          "quote": "Delwath: Yeah. Um, what time of day is it? 9:00 PM. Um—"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "clock": "21:00",
+        "partOfDay": "night"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed",
+      "note": "The rough statement “past 36 hours” describes the preceding travel effort, not 36 newly elapsed hours."
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2774",
+        "endUid": "u2776"
+      },
+      "reading": "Delwath receives a short rest while maintaining the camp’s invisibility.",
+      "evidence": [
+        {
+          "startUid": "u2774",
+          "endUid": "u2776",
+          "quote": "Delwath: That'll be sweet. So we're invisible. Delwath has short rest, invisibility continues."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u2786",
+        "endUid": "u2791"
+      },
+      "reading": "Seeker reads the Feywild book for about an hour before sleeping at the second road camp.",
+      "evidence": [
+        {
+          "startUid": "u2786",
+          "endUid": "u2791",
+          "quote": "Seeker: Seeker will spend the first hour or so continuing to read the thing.\n\nKenzo: Okay. Uh...\n\nDM: Wellby. You all, uh, who else is sleeping?\n\nSeeker: I'm gonna read a little bit and then go to sleep."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Seeker’s accepted reading activity"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u2809",
+        "endUid": "u2830"
+      },
+      "reading": "The red-masked hunter torments Wellby and Seeker during sleep; Seeker loses the rest. The DM later relocates this first nightmare to the night immediately before the shadow-dog fight.",
+      "evidence": [
+        {
+          "startUid": "u2809",
+          "endUid": "u2822",
+          "quote": "DM: In the middle of the night as you two are sleeping, um, you both see in your dreams a, um, a humanoid looking creature with a spear that has like, you know, some black flames spilling across the top. A red, bright red mask covering its face. And it, it begins to charge towards you with a spear held like this. And it says, um, \"You cannot run forever.\" And then it runs through you.\n\nAnd Wellby, you sort of wake with a start and then, um, pass it off. Uh, Seeker, you take four points of psychic damage and are shaken by the nightmare such that you do not get, you do not get any benefit of your sleep."
+        },
+        {
+          "startUid": "u2829",
+          "endUid": "u2830",
+          "quote": "DM: Basically, you spend the entire night with this shadow creature chasing you, and every time it comes close, it throws the spear and it pierces through your body, and you wake up with a start only to find the shadow creature still chasing you."
+        },
+        {
+          "startUid": "u3629",
+          "endUid": "u3646",
+          "quote": "Seeker: Seven. Oh, haven't I had a long rest since... Had the dream damage?\n\nDM: No.\n\nSeeker: Okay.\n\nKenzo: Um, didn't you long rest last night?\n\nDM: Well, the, the dream damage was last night.\n\nKenzo: Oh, so I have to go.\n\nDM: No, it should've been last night, 'cause otherwise it would actually work. Okay. So, um... [paper rustles]\n\nOkay, so you don't see anything at the moment, but, um, you, you do of course hear, um, uh, Delwath and, and Seeker fall off their horses as their horses rear up in fright, and Kenzo, this is the first thing that, that you, you react quickly to this. You hear the, um, you hear the two of them fall off and-"
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Seeker"
+      ],
+      "context": "vision",
+      "time": {
+        "precision": "approximate",
+        "basis": "later explicit DM correction at u3635–u3646 overrides its initial placement in the second road camp",
+        "partOfDay": "night",
+        "relative": {
+          "relation": "before",
+          "anchor": "the fourth riding day’s shadow-dog encounter"
+        }
+      },
+      "note": "Its original source-order placement and the later rest-night correction are both retained; no extra night is added."
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u2835",
+        "endUid": "u2835"
+      },
+      "reading": "The second road camp reaches about 5 a.m.; Wellby wakes and resumes riding.",
+      "evidence": [
+        {
+          "startUid": "u2835",
+          "endUid": "u2835",
+          "quote": "DM: So around 5:00 in the morning-"
+        },
+        {
+          "startUid": "u2855",
+          "endUid": "u2863",
+          "quote": "Delwath: So it's 5:00 in the morning.\n\nDM: It's 5:00 in the morning.\n\nWellby: Wellby wakes up. Wellby wakes up.\n\nDM: Wellby wakes up. Wellby wakes up.\n\nUnknown: [yawns]\n\nWellby: That removes the level of exhaustion?\n\nDelwath: Yep. Now, Wellby, Seeker, a little bit tired."
+        },
+        {
+          "startUid": "u2887",
+          "endUid": "u2892",
+          "quote": "DM: Everybody else back in there? Yep. Mm-hmm. Okay. 25.\n\nKenzo: So you set off again—\n\nDM: The gallop."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "clock": "05:00",
+        "partOfDay": "dawn"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t24",
+      "source": {
+        "startUid": "u2912",
+        "endUid": "u2933"
+      },
+      "reading": "On the third riding day, the first four-hour stretch reaches 9 a.m.; a horse strains its leg by lunchtime.",
+      "evidence": [
+        {
+          "startUid": "u2912",
+          "endUid": "u2933",
+          "quote": "The first four hours or so, manage to maintain steady gallop."
+        },
+        {
+          "startUid": "u2912",
+          "endUid": "u2933",
+          "quote": "Get about, get about 30 miles by 9:00 AM."
+        },
+        {
+          "startUid": "u2912",
+          "endUid": "u2933",
+          "quote": "by lunchtime, after gone maybe 50 miles or so"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "stated by the table",
+          "clock": "05:00",
+          "partOfDay": "dawn"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "stated by the table",
+          "clock": "09:00",
+          "partOfDay": "morning"
+        }
+      },
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "note": "Lunchtime is a distinct later anchor in t25; it does not extend this four-hour interval."
+    },
+    {
+      "id": "t25",
+      "source": {
+        "startUid": "u2912",
+        "endUid": "u2933"
+      },
+      "reading": "The injured horse slows the ride around lunchtime; the orchard encounter follows at about 2 p.m.",
+      "evidence": [
+        {
+          "startUid": "u2912",
+          "endUid": "u2933",
+          "quote": "by lunchtime"
+        },
+        {
+          "startUid": "u2938",
+          "endUid": "u2942",
+          "quote": "DM: 45 miles before, um, before the horse threw a leg, and it's another three miles. So you're about one mile, one mile in, you get to this outskirts of this small market town. Around 2:00 PM, 3:00 PM now, so it's been days. We've been traveling, this is the third day of traveling."
+        },
+        {
+          "startUid": "u3004",
+          "endUid": "u3011",
+          "quote": "at 2:00 in the afternoon"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s orchard clock, after the lunchtime injury",
+        "clock": "14:00",
+        "partOfDay": "afternoon"
+      }
+    },
+    {
+      "id": "t26",
+      "source": {
+        "startUid": "u3167",
+        "endUid": "u3171"
+      },
+      "reading": "The horses receive an hour-long breather while Wellby scouts through the hawk.",
+      "evidence": [
+        {
+          "startUid": "u3167",
+          "endUid": "u3171",
+          "quote": "DM: Okay. Um, so it's about 2:00 in the afternoon. You can, um... Uh, so you've got three horses now. Your pace is gonna be a bit slow. Although they had a good hour long breather while you were scouting, so it's like-"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM grants an hour during the scouting"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t27",
+      "source": {
+        "startUid": "u3173",
+        "endUid": "u3174"
+      },
+      "reading": "The scouting stop ends about 4 p.m., with roughly three hours of daylight left.",
+      "evidence": [
+        {
+          "startUid": "u3173",
+          "endUid": "u3174",
+          "quote": "DM: S- Okay. It's now like 4:00 in the afternoon. You've got maybe three hours of daylight left."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "clock": "16:00",
+        "partOfDay": "afternoon"
+      },
+      "actors": [
+        "Wellby"
+      ]
+    },
+    {
+      "id": "t28",
+      "source": {
+        "startUid": "u3317",
+        "endUid": "u3319"
+      },
+      "reading": "The third riding day is followed by a night at camp and an early-morning start; the later correction places the first nightmare in this night for Seeker.",
+      "evidence": [
+        {
+          "startUid": "u3311",
+          "endUid": "u3319",
+          "quote": "Delwath: So for the night, Tim? Yeah. Uh, Delwath will take, will sleep first.\n\nWellby: Okay.\n\nDelwath: And then keep everybody invisible for the rest of the night.\n\nDM: Okay. So just in the interest of time, um, you pass the night uneventfully. Early in the morning, who's going into town?"
+        },
+        {
+          "startUid": "u3634",
+          "endUid": "u3646",
+          "quote": "Kenzo: Um, didn't you long rest last night?\n\nDM: Well, the, the dream damage was last night.\n\nKenzo: Oh, so I have to go.\n\nDM: No, it should've been last night, 'cause otherwise it would actually work. Okay. So, um... [paper rustles]\n\nOkay, so you don't see anything at the moment, but, um, you, you do of course hear, um, uh, Delwath and, and Seeker fall off their horses as their horses rear up in fright, and Kenzo, this is the first thing that, that you, you react quickly to this. You hear the, um, you hear the two of them fall off and-"
+        }
+      ],
+      "timeRange": {
+        "start": null,
+        "end": {
+          "precision": "approximate",
+          "basis": "stated by the table",
+          "partOfDay": "early morning"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "The original “uneventfully” transition does not override the later explicit nightmare correction. Rest benefits for Seeker remain denied."
+    },
+    {
+      "id": "t29",
+      "source": {
+        "startUid": "u3335",
+        "endUid": "u3338"
+      },
+      "reading": "The sale and replacement of horses occupies most of the fourth day’s morning.",
+      "evidence": [
+        {
+          "startUid": "u3335",
+          "endUid": "u3338",
+          "quote": "DM: And then, so, so this is gonna take like most of the morning.\n\nDelwath: Yeah. Somebody else will go. Kenzo will go into town and buy new horses.\n\nKenzo: Yeah, Kenzo goes and buys new horses."
+        }
+      ],
+      "duration": {
+        "text": "most of the morning",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM’s completed market transition"
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "partOfDay": "morning"
+      }
+    },
+    {
+      "id": "t30",
+      "source": {
+        "startUid": "u3398",
+        "endUid": "u3400"
+      },
+      "reading": "Kenzo begins the fourth day’s ride around noon.",
+      "evidence": [
+        {
+          "startUid": "u3398",
+          "endUid": "u3400",
+          "quote": "DM: Okay, so you set off around noon. Um, what is this thinking? Uh."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "clock": "12:00",
+        "partOfDay": "midday"
+      }
+    },
+    {
+      "id": "t31",
+      "source": {
+        "startUid": "u3435",
+        "endUid": "u3484"
+      },
+      "reading": "Kenzo reaches the desolate riverside after a substantial ride. Nightfall/nine hours from noon competes with a 5 p.m. clock; neither numeric endpoint is adopted.",
+      "evidence": [
+        {
+          "startUid": "u3435",
+          "endUid": "u3448",
+          "quote": "DM: You manage to get another, um, uh, another like 45 miles by nightfall. Um, or I guess this is a little bit into the night now. Um, but until you sort of get tired. Uh, and you, as you sort of come to a, a place where you need to rest the camp, you can see, um, on the south it's... Like, you've got to an area that's actually now about 250 mile, 250... We're halfway.\n\nKenzo: Four days, that's pretty good.\n\nDM: About 255 miles from Chardon. You come to an area that is now actually desolate. Like, you haven't seen... You realize that since the sunset you haven't seen anybody on the road."
+        },
+        {
+          "startUid": "u3479",
+          "endUid": "u3484",
+          "quote": "DM: On the south side. It's 5:00 PM.\n\nKenzo: Um, and I've been riding for how long?\n\nDM: About nine hours.\n\nKenzo: So it's about time to rest.\n\nDM: Yeah. I mean, you might be able to push the horses a bit more, but, um."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "note": "No duration or single clock is serialized because noon plus nine hours, nightfall, and 5 p.m. cannot all date the same stop. Later darkness supports night for the encounter without resolving this stop’s clock."
+    },
+    {
+      "id": "t32",
+      "source": {
+        "startUid": "u3981",
+        "endUid": "u3991"
+      },
+      "reading": "The party rides for the full hour of Kenzo’s daylight, leaving the dead zone behind while the dogs follow.",
+      "evidence": [
+        {
+          "startUid": "u3981",
+          "endUid": "u3991",
+          "quote": "Delwath: Okay. For the hour of the driftglobe, but we're probably galloping at a horse. You...\n\nDM: Yeah, you're just going at a normal, normal fast pace. You get up there another four miles. After about another first half mile or so, the weird mists and dead zone of the other bank end, and slowly you get back to something that's more farmlandy, but the howls of these dogs are still following you.\n\nKenzo: After how long?\n\nDM: For the full hour. They're trailing about 300 feet behind you, but, but you can see them, you can hear them barking."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM confirms the full hour of daylight was spent riding"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t33",
+      "source": {
+        "startUid": "u4003",
+        "endUid": "u4003"
+      },
+      "reading": "After the hour-long pursuit, the table places the party at about 9 p.m.; they prepare the second confrontation.",
+      "evidence": [
+        {
+          "startUid": "u4003",
+          "endUid": "u4003",
+          "quote": "DM: It's 9:00 PM."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "clock": "21:00",
+        "partOfDay": "night"
+      }
+    },
+    {
+      "id": "t34",
+      "source": {
+        "startUid": "u4989",
+        "endUid": "u4994"
+      },
+      "reading": "Tracking down the frightened horses takes most of the next hour after defeating the dogs.",
+      "evidence": [
+        {
+          "startUid": "u4989",
+          "endUid": "u4994",
+          "quote": "DM: ... it's dark, although you have the daylight spell, it takes you most of the next hour to track down the horses. Um, and one of them has, um... It's not, uh, it, it ha- it's not completely lame, but it has definitely g- injured itself in the, in the, uh, in its flight in the dark from these, uh, from these dogs, and won't be able to maintain a gallop for as long as the rest."
+        }
+      ],
+      "duration": {
+        "text": "most of the next hour",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM narrates the recovery interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t35",
+      "source": {
+        "startUid": "u5003",
+        "endUid": "u5004"
+      },
+      "reading": "After horse recovery the table places the party around midnight.",
+      "evidence": [
+        {
+          "startUid": "u5003",
+          "endUid": "u5004",
+          "quote": "DM: It's now probably about midnight."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "partOfDay": "midnight"
+      },
+      "note": "Approximate midnight is left on the overnight boundary; t36 records the completed transition to the next morning."
+    },
+    {
+      "id": "t36",
+      "source": {
+        "startUid": "u5038",
+        "endUid": "u5139"
+      },
+      "reading": "The party rests until morning after the shadow-dog fight; Seeker’s eight-hour attempt is spoiled by another nightmare. Departure is placed at 8 a.m.",
+      "evidence": [
+        {
+          "startUid": "u5038",
+          "endUid": "u5049",
+          "quote": "Wellby: Well, let's rest till morning then.\n\nDelwath: I mean, then everybody could well rest.\n\nWellby: Yeah.\n\nSeeker: That would be good, because otherwise I will only be using vicious mockery from now on.\n\nKenzo: [laughs] All right. And we're where... But, but he's resting if he's in the hole.\n\nDM: I mean, we can... One person can probably rest in the hole. We, we can do the four hours and then-\n\nKenzo: Kenzo doesn't actually need rest anymore. Now that he cast the spells, I can just be-- I can just go back into the, into the mirror.\n\nSeeker: I definitely need to rest and get my spells back."
+        },
+        {
+          "startUid": "u5082",
+          "endUid": "u5098",
+          "quote": "Delwath: He's sleeping for eight hours. Twelve. I'm gonna scry Fausto, though.\n\nKenzo: Have you-- Has anybody drawn a picture of him yet?\n\nSeeker: I've seen him at a bad time too, but...\n\nDM: Yeah. Seeker, you take sixteen points of psychic damage. Sixteen? And toss and turn all night—that's terrible—... with nightmares of wolves tearing you apart, and a, the same creature you saw before with the red mask and the spear standing and laughing and saying over and over again, \"Time to surrender.\"\n\nWhat's the red mask look like? Um, it's like, almost like a, it's like, um, like a piece like this, and then like stripes along the space covering his mouth—"
+        },
+        {
+          "startUid": "u5112",
+          "endUid": "u5139",
+          "quote": "DM: Seven. So morning comes. Um, horses are healed, but Seeker's in rough shape. Yeah, yeah. Uh, let me see. So what are you doing? Just riding to the inn? It kind of goes up on riding. Yep. Everybody hops in the mirror. Seeker doesn't have any spells.\n\nSeeker: That's true. Oh, so I don't get my long rest?\n\nDM: Yeah, you don't get a long rest.\n\nSeeker: Shit. We should have a look around in daylight at that s- scarred area of the earth behind us now. See how far it extends.\n\nDM: I mean, we got past it. We left it.\n\nSeeker: We did.\n\nDM: Yeah. Yeah, you're-- So you've left it well behind at this point. So if you're-- So you're starting, you're not getting a super early start this morning if you're trying to get your long rest in and everything. So starting at eight AM. Well, if Seeker's having terrible nightmares, might as well just get started early. It's four hours, right? But Seeker doesn't wake up. Yeah. He's still out.\n\nSo Kenzo is— Everybody hops in the mirror, and Kenzo starts riding [crosstalk]"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "t35’s post-recovery anchor",
+          "partOfDay": "midnight"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM’s departure anchor; proposed earlier departure is not confirmed",
+          "clock": "08:00",
+          "partOfDay": "morning"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "Seeker takes 16 psychic damage and receives no long-rest benefit; sleeping duration does not establish a successful rest."
+    },
+    {
+      "id": "t37",
+      "source": {
+        "startUid": "u5141",
+        "endUid": "u5153"
+      },
+      "reading": "A replacement horse badly sprains a leg after the first couple of hours of Kenzo’s fifth-day ride.",
+      "evidence": [
+        {
+          "startUid": "u5141",
+          "endUid": "u5153",
+          "quote": "DM: Um. You start- Ten. Ten total? Yeah. You start riding at a gallop, but the road is-- You know, whether it was your rough night the night before, the horses are just-- You've pushed them too hard, or you, um, you know, fed them the wrong thing. After the first couple of hours of the gallop, um, one of-- one horse, uh, throws a leg again, sprains a-- badly sprains its leg. Um, can basically can hardly move. Just a very slow walk. And the other horses just seem tired and uncooperative and-"
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s “first couple of hours” of galloping"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t38",
+      "source": {
+        "startUid": "u5156",
+        "endUid": "u5171"
+      },
+      "reading": "The slowed fifth-day ride reaches roughly 16 miles by noon, correcting an initial 1 p.m./14-mile estimate.",
+      "evidence": [
+        {
+          "startUid": "u5156",
+          "endUid": "u5171",
+          "quote": "made about 16, 16 miles by, by, you know, 1:00 PM or so, by noon, say. The noon."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "clock": "12:00",
+        "partOfDay": "midday"
+      }
+    },
+    {
+      "id": "t39",
+      "source": {
+        "startUid": "u5156",
+        "endUid": "u5171"
+      },
+      "reading": "By about 6 p.m. Kenzo has made roughly 30 miles during the difficult fifth travel day.",
+      "evidence": [
+        {
+          "startUid": "u5156",
+          "endUid": "u5171",
+          "quote": "by, by evening, you know, you just have not been a fast day. You've made about 30 miles by 6:00 PM."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "clock": "18:00",
+        "partOfDay": "evening"
+      }
+    },
+    {
+      "id": "t40",
+      "source": {
+        "startUid": "u5193",
+        "endUid": "u5204"
+      },
+      "reading": "Delwath takes a short rest around the evening horse break before scrying Sura and Kadmos.",
+      "evidence": [
+        {
+          "startUid": "u5193",
+          "endUid": "u5204",
+          "quote": "Delwath: If, if we're taking a short break, um, if there's an opportunity during the day, uh, where, like, the horses are resting or something, uh, where we could take a short rest.\n\nKenzo: Yeah.\n\nDelwath: I'd like to do two scries for a short rest.\n\nDM: Okay.\n\nDelwath: Not a fast one. I'm gonna scry Sura. We-\n\nDM: Okay.\n\nDelwath: Uh, tell me if that succeeds or I'll tell you if it succeeds.\n\nDM: That succeeds.\n\nDelwath: Is what Sura will do, middle of the day."
+        },
+        {
+          "startUid": "u5205",
+          "endUid": "u5239",
+          "quote": "Well, it's not middle of the day. It's like evening."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "accepted short-rest convention"
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "DM explicitly corrects midday to evening for these scries",
+        "partOfDay": "evening"
+      }
+    },
+    {
+      "id": "t41",
+      "source": {
+        "startUid": "u5205",
+        "endUid": "u5239"
+      },
+      "reading": "About five minutes into the evening scry, a messenger arrives in Sura’s tent.",
+      "evidence": [
+        {
+          "startUid": "u5205",
+          "endUid": "u5239",
+          "quote": "about five minutes into the scry, she looks up"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM dates the messenger’s arrival relative to the scry beginning"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t42",
+      "source": {
+        "startUid": "u5349",
+        "endUid": "u5354"
+      },
+      "reading": "Kadmos’s scry ends around 6 p.m.; Wellby has had a couple-hour break before taking over.",
+      "evidence": [
+        {
+          "startUid": "u5349",
+          "endUid": "u5354",
+          "quote": "DM: Um, that ends your scry. It's, like, uh, 6:00 PM. What's your plan?\n\nDelwath: Wellby's gonna keep riding.\n\nDM: Yeah.\n\nDelwath: He made a good mention.\n\nDM: So, of course, he's got a second wind after a couple hour break."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "clock": "18:00",
+        "partOfDay": "evening"
+      },
+      "note": "The evening scrying/rest montage is approximate; the short rest in t40 occurs within the break, not in addition to it."
+    },
+    {
+      "id": "t43",
+      "source": {
+        "startUid": "u5355",
+        "endUid": "u5370"
+      },
+      "reading": "Wellby’s evening ride continues until around midnight, when he must stop to avoid exhaustion.",
+      "evidence": [
+        {
+          "startUid": "u5355",
+          "endUid": "u5367",
+          "quote": "Delwath: Um, you're able to keep going till about—\n\nDM: Um, past midnight.\n\nDelwath: Is it still super populated with farmland or has it gotten more-\n\nDM: It's still super, it's still quite populated with farmland. Make a constitution check.\n\nWellby: 13.\n\nDM: Um, uh, you can make it to about midnight, but you get the sense, you get the feeling if you, if you try and go any further you're gonna be, wipe yourself out tonight. You didn't sleep. You didn't take a long rest last night. Is it just- Right, right, right. So you're, you're running, running pretty ragged at this point."
+        },
+        {
+          "startUid": "u5368",
+          "endUid": "u5370",
+          "quote": "Wellby: All right. Let's camp, long rest, and then I'll double up the next two days.\n\nDM: We're about 310 miles or something like that. You've got another, like, four hours of game, but not in a super fast pace 'cause-"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "partOfDay": "midnight"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t44",
+      "source": {
+        "startUid": "u5442",
+        "endUid": "u5463"
+      },
+      "reading": "The party makes a sheltered pasture camp around midnight and begins watches and sleep.",
+      "evidence": [
+        {
+          "startUid": "u5442",
+          "endUid": "u5463",
+          "quote": "so you set camp. Yeah, at something like midnight-ish."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the table",
+        "partOfDay": "midnight"
+      },
+      "completion": "begun"
+    },
+    {
+      "id": "t45",
+      "source": {
+        "startUid": "u5470",
+        "endUid": "u5506"
+      },
+      "reading": "During Wellby’s first watch, Seeker and Kenzo dream of the red-masked hunter; real howls wake the party around midnight to 1 a.m.",
+      "evidence": [
+        {
+          "startUid": "u5470",
+          "endUid": "u5499",
+          "quote": "DM: Okay. Uh, so you, who's taking first watch? Okay, so everybody's, everybody's sleeping but Wellby. Um, Seeker and Kenzo make wisdom checks, please.\n\nKenzo: 18. 18 plus 5, 24.\n\nDM: Yeah. 15. Okay. You both, um, see now, um, this, uh, still the same shadow hunter with two, um, what look like much larger dogs on a leash, and it, um, it, the shadow hunter, this creature with its spear is, like, running towards you, and it lets go of the dogs, and they start barking, and then it says, \"And now I've found you,\" and throws the spear.\n\nWellby: Am I seeing this in the dream bowl?\n\nDM: You're seeing this in the dream bowl, yeah.\n\nWellby: Uh, I'm gonna wake him up as soon as, like, there's obvious dogs and-\n\nDM: You hear- That howling of dogs in the distance.\n\nWellby: Oh, well, we can-\n\nKenzo: I rolled a 24, dude.\n\nDM: You still see it, you just don't take damage.\n\nKenzo: Okay.\n\nDM: Neither of you take damage. You still see the nightmare.\n\nSeeker: Right, and so it works.\n\nDM: But you s- but you don't suffer from it.\n\nSeeker: Mm.\n\nWellby: Saving throws from-\n\nKenzo: But the, uh, uh, but there are actual dogs now in the distance, or we just, we just... Like, they hear dogs?\n\nDM: Yeah, Wellby hears dogs in the distance now."
+        },
+        {
+          "startUid": "u5501",
+          "endUid": "u5506",
+          "quote": "DM: And, um, and Wellby make a wisdom saving throw.\n\nWellby: Five.\n\nDM: Um, you... as you, as you hear the howling, you, uh, are frightened."
+        },
+        {
+          "startUid": "u5527",
+          "endUid": "u5529",
+          "quote": "DM: ... Delwath wakes up. Seeker and Kenzo wake up—\n\nDelwath: But Seeker still hasn't had a long rest."
+        },
+        {
+          "startUid": "u5548",
+          "endUid": "u5550",
+          "quote": "Kenzo: In, in, in the game.\n\nDM: It's, like, midnight or 1:00 AM. You could, you could leave this, leave it on a cliffhanger right here if you want to."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM gives midnight or 1 a.m.; exact civil date remains open",
+        "partOfDay": "midnight"
+      },
+      "completion": "interrupted",
+      "note": "The final rest does not complete. Passing midnight could put the cutoff on the civil day after YAML’s end date."
+    },
+    {
+      "id": "t46",
+      "source": {
+        "startUid": "u5575",
+        "endUid": "u5580"
+      },
+      "reading": "At the cliffhanger, Seeker is explicitly granted short-rest benefits despite the interrupted long rest.",
+      "evidence": [
+        {
+          "startUid": "u5575",
+          "endUid": "u5580",
+          "quote": "DM: I'll let you do a short rest for sure. Um, wait. Shoot. You've gotta force it down the spout. It's not moving. So what are we doing, folks?"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention, awarded retrospectively for time at camp"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t44"
+        }
+      ],
+      "note": "This is credit for the existing camp interval, not an additional hour after the howls."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "August/end of August is spoken at u0396–u0400 and u2622–u2626; year and numbered dates come only from YAML. Starting August 24 gives breakfast August 25 and the fifth riding day August 29.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t04",
+      "t12",
+      "t23",
+      "t28",
+      "t36",
+      "t43",
+      "t45"
+    ],
+    "explanation": "Five transitions through the fifth travel day are supported. The final approximate midnight/1 a.m. cutoff leaves a possible sixth civil-date transition into August 30. The fourth-day 5 p.m./nightfall conflict affects clocks, not the counted riding days. No missing time is filled from drEnd."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t43",
+        "t44",
+        "t45"
+      ],
+      "reading": "The closing camp and interruption straddle an approximate midnight; the recorded session may use its evening-date convention.",
+      "alternatives": [
+        {
+          "reading": "Late-night closing convention on the fifth riding day, conditional on YAML start.",
+          "date": "1748-08-29"
+        },
+        {
+          "reading": "Civil midnight passes before the interrupted rest, conditional on YAML start.",
+          "date": "1748-08-30"
+        }
+      ]
+    }
+  ]
+}

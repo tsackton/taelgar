@@ -1,0 +1,1585 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-050",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-session.yaml",
+    "sessionYamlSha256": "8af0ea264e054689d20c42e953f629bb226168c59e50e9105b7049d55b00c595",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-transcript.md",
+    "transcriptSha256": "e33d480370a34ebee9dfb247f9ff2d0889935687ec60931089bcb6fc14a37f2b"
+  },
+  "places": {
+    "p01": {
+      "label": "Chasa River Valley",
+      "evidence": [
+        {
+          "startUid": "u3209",
+          "endUid": "u3213",
+          "quote": "Chasa River Valley"
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Chasa River Valley.md"
+    },
+    "p02": {
+      "label": "Chasa River",
+      "evidence": [
+        {
+          "startUid": "u0161",
+          "endUid": "u0165",
+          "quote": "this is the Chasa River."
+        }
+      ],
+      "kind": "river",
+      "vaultPath": "Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa.md"
+    },
+    "p03": {
+      "label": "Road along the Chasa",
+      "evidence": [
+        {
+          "startUid": "u2417",
+          "endUid": "u2427",
+          "quote": "this road that follows the course of the river"
+        }
+      ],
+      "kind": "road",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Barn south of Chardon",
+      "evidence": [
+        {
+          "startUid": "u0384",
+          "endUid": "u0400",
+          "quote": "Seeker: Well, Delwath. So maybe we could work forward, actually, from exactly how we ended the last session, which was that—\n\nDM: We ended the last session hidden, crouching behind a barn.\n\nSeeker: Right. I had been a raven and-\n\nDM: Yes.\n\nSeeker: ... changed back.\n\nDM: Seeker had been a raven and changed back, and you all climbed out of a portable hole behind a barn. Right. And that's where we ended.\n\nSeeker: So maybe we should just-\n\nDM: Like a half mile south ... turn now, it's like 10:00 in the morning.\n\nDelwath: Is there anybody immediately there?\n\nDM: No. I mean, it's a farmer's, it's a field, right? It's, uh, it's August, so, you know, that's- So for me, like, it's not a terrible place to hide as long as nobody comes to harvest."
+        }
+      ],
+      "kind": "farm",
+      "note": "The party’s starting shelter is about half a mile south of Chardon, not inside the city."
+    },
+    "p05": {
+      "label": "Sheltered riverside ditch camp",
+      "evidence": [
+        {
+          "startUid": "u0574",
+          "endUid": "u0618",
+          "quote": "hidden in this ditch among the trees and bushes"
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0574",
+              "endUid": "u0618",
+              "quote": "There's the riverbank, and then it sort of drops down"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            },
+            {
+              "startUid": "u0574",
+              "endUid": "u0618",
+              "quote": "hidden in this ditch among the trees and bushes"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Small market town near the first camp",
+      "evidence": [
+        {
+          "startUid": "u0574",
+          "endUid": "u0618",
+          "quote": "about a mile from a small market town where you can buy horses"
+        }
+      ],
+      "kind": "settlement",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0574",
+              "endUid": "u0618",
+              "quote": "about a mile from a small market town"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Mirror cells",
+      "evidence": [
+        {
+          "startUid": "u0548",
+          "endUid": "u0568",
+          "quote": "Wellby: Do you think it's right that there's a command word for putting creatures from two cells together in there?\n\nDM: Um, not putting them together. It's like opening, you know, between two cells.\n\nWellby: All right. Can you please open the door so that-\n\nDM: Yeah, yeah.\n\nWellby: ... that's your next.\n\nDelwath: Yes. Uh.\n\nUnknown: [laughs]\n\nDelwath: So that's your next. I was gonna say, yeah, the three of you.\n\nDM: No, no. It's only between two cells.\n\nDelwath: So Sal can't have two.\n\nKenzo: Yeah, you can check it out.\n\nDelwath: That's just visual?\n\nDM: Yeah, you can just see. So...\n\nDelwath: But Well- so you guys all went into the mirror in the middle of the night after rest. Wellby's been training up the rest of the citizens. And like—"
+        }
+      ],
+      "kind": "extradimensional cells",
+      "mobile": true,
+      "vaultPath": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md",
+      "note": "The container travels with the rider; its cells are not a geographic part of each roadside stop."
+    },
+    "p08": {
+      "label": "Bar in the horse-buying town",
+      "evidence": [
+        {
+          "startUid": "u1988",
+          "endUid": "u1995",
+          "quote": "Wellby: I'll go to the inside of a bar.\n\nDelwath: Go somewhere nondescript. Go somewhere very nondescript for 10 minutes right now.\n\nWellby: And just stand at a bar and have a drink.\n\nDelwath: Okay. Um...\n\nDM: Give it half an hour I'd say."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1988",
+              "endUid": "u1995",
+              "quote": "go to the inside of a bar"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Fausto’s tower",
+      "evidence": [
+        {
+          "startUid": "u0938",
+          "endUid": "u0941",
+          "quote": "Delwath: That's what, that's what Marcella told us.\n\nSeeker: But what place would do that?\n\nDelwath: Well, perhaps Fausto's tower.\n\nDM: Yeah."
+        }
+      ],
+      "kind": "building",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Fausto's Tower.md"
+    },
+    "p10": {
+      "label": "Fausto’s breakfast / entry room",
+      "evidence": [
+        {
+          "startUid": "u1850",
+          "endUid": "u1871",
+          "quote": "the like room where you met him first, the like in the alley, table and stuff"
+        }
+      ],
+      "kind": "room",
+      "note": "The current co-reference to the earlier meeting identifies Fausto’s tower. Session 49’s registered transcript, u2148–u2165 and u2176–u2186, confirms the audience chamber with its table inside that site; this session only views it remotely.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1850",
+              "endUid": "u1871",
+              "quote": "the like room where you met him first"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "First road camp, roughly 70 miles traveled",
+      "evidence": [
+        {
+          "startUid": "u2110",
+          "endUid": "u2125",
+          "quote": "DM: Just thinking can we, like, how easy are they gonna be to sky there? By midnight, the horses are completely winded. Like, you cannot push further—\n\nDelwath: Without a substantial risk of maiming or injuring a horse through riding.\n\nDM: Really all horses, they need a, a decent three, three, four hours at least.\n\nWellby: What's the protocol? Everyone comes out of the mirror as a mob like this?\n\nDelwath: We didn't discuss it. I'll bring everybody out here.\n\nDM: It's now, it's now past midnight, and you've traveled about 70 miles on this day. But-\n\nDelwath: We have 500 to go.\n\nKenzo: That's actually pretty good.\n\nDM: And the horses, like, you know, you probably won't be able to ride again till dawn."
+        }
+      ],
+      "kind": "camp",
+      "note": "The later “eight miles east” wording at u2356–u2371 conflicts with this journey’s roughly 70 miles; no replacement distance is inferred.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            },
+            {
+              "startUid": "u2110",
+              "endUid": "u2125",
+              "quote": "DM: Just thinking can we, like, how easy are they gonna be to sky there? By midnight, the horses are completely winded. Like, you cannot push further—\n\nDelwath: Without a substantial risk of maiming or injuring a horse through riding.\n\nDM: Really all horses, they need a, a decent three, three, four hours at least.\n\nWellby: What's the protocol? Everyone comes out of the mirror as a mob like this?\n\nDelwath: We didn't discuss it. I'll bring everybody out here.\n\nDM: It's now, it's now past midnight, and you've traveled about 70 miles on this day. But-\n\nDelwath: We have 500 to go.\n\nKenzo: That's actually pretty good.\n\nDM: And the horses, like, you know, you probably won't be able to ride again till dawn."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Marcella’s mountain clearing",
+      "evidence": [
+        {
+          "startUid": "u2166",
+          "endUid": "u2187",
+          "quote": "DM: Outside in the mountains somewhere.\n\nWellby: Okay, that's good. Very good. All right, mountains are good enough.\n\nKenzo: Do we recognize the mountains?\n\nDelwath: No. I mean, there's only one-\n\nKenzo: No cap? Yeah, great question.\n\nDM: It's, it's the middle of the night. It's dark. There's nothing.\n\nKenzo: Does darkvision, darkvision doesn't—\n\nDelwath: Apply?\n\nDM: It's 60 feet. We can see Marcella at 60 feet.\n\nDelwath: I mean, what's the immediate... Is it, is she in a pass high up, like-\n\nDM: It's boosted elevation. She's high, um, on sort of a loose stone gravel. Um, just not in a town or anything, just more like in a clearing. Um, not a lot of vegetation around. Probably fairly high up."
+        }
+      ],
+      "kind": "camp",
+      "note": "The mountain range is not identified. The lighter remote sky supplies no precise longitude or local time."
+    },
+    "p13": {
+      "label": "Gray-white monolithic stone",
+      "evidence": [
+        {
+          "startUid": "u2417",
+          "endUid": "u2435",
+          "quote": "DM: So you're... And as you, as the sun is setting, you see, um, you know, you've passed a bunch of little towns and stuff, and mostly been riding like along this road that follows the course of the river that's going entirely through farmland.\n\nBut as the sun is setting and the light catches on this, um, huge, maybe 160 to 80 foot high gray-white monolithic stone that stands sort of on a slight bank of the river, um, tapers to, to a point maybe 15, 20 foot diameter at the base. This is a massive, so- solid stone just standing there off the road, up on a small hill.\n\nWellby: Like something that's ancient or like part of a network of Chardonian teleportation circles?\n\nDM: No, like something that's ancient.\n\nSeeker: You said it tapers?\n\nDM: Yeah, it's like a big, it's like an obelisk like this.\n\nDelwath: It's like the Washington Monument.\n\nSeeker: Is it, uh, rounded and smooth or squared, rough?\n\nDM: Um, I mean you're, you're like—galloping on a horse... On a horse, yeah. I have no idea."
+        }
+      ],
+      "kind": "monolith",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Harmony Stone (Chasa).md",
+      "note": "Identified as the Harmony Stone from its distinctive tapering gray-white form and route context, corroborated by Session 50. Its treaty purpose is later knowledge, not established by this sighting; the height wording differs from the modern note.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2417",
+              "endUid": "u2427",
+              "quote": "standing there off the road, up on a small hill."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Second road camp, about 145 miles from Chardon",
+      "evidence": [
+        {
+          "startUid": "u2514",
+          "endUid": "u2522",
+          "quote": "Wellby: I'll find some relatively quiet place and pull everybody out of the mirror. Try to hide the outside, but done. Just absolutely done.\n\nDM: So it's about, say, 9:00 PM.\n\nWellby: Wellby, where are we?\n\nDM: Uh, we're about 145 miles from Chardon.\n\nWellby: The route? How far? I'll pull out a map and show on the map where we were. Holy fuck."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            },
+            {
+              "startUid": "u2514",
+              "endUid": "u2522",
+              "quote": "Wellby: I'll find some relatively quiet place and pull everybody out of the mirror. Try to hide the outside, but done. Just absolutely done.\n\nDM: So it's about, say, 9:00 PM.\n\nWellby: Wellby, where are we?\n\nDM: Uh, we're about 145 miles from Chardon.\n\nWellby: The route? How far? I'll pull out a map and show on the map where we were. Holy fuck."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Apricot estate",
+      "evidence": [
+        {
+          "startUid": "u2987",
+          "endUid": "u3002",
+          "quote": "DM: It's, it, it's true, yeah. Yeah. The-- This area is, it's pretty, um, uh, so, so you've gotten a little bit out of, a little bit out of-- There's still some, some wineries and stuff, but this particular area where the horse threw its leg, uh, are orchards.\n\nApricots, mostly, um, which are, which are now ripe. So as you, as you, like, walk to the-- this little, um, it's not really a little farm. Like, a lot of the, um, a lot of the farms are owned by wealthy thieves, right? So it's actually a fairly big estate that has a, a handful of, like, small houses, um, outbuildings where the, um, uh, you know, the tenant farmers, uh, tenants, the tenders and fruit pickers live. Um, so you wanna go to the, like, estate or one of the small houses?"
+        }
+      ],
+      "kind": "estate",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            },
+            {
+              "startUid": "u2987",
+              "endUid": "u3002",
+              "quote": "DM: It's, it, it's true, yeah. Yeah. The-- This area is, it's pretty, um, uh, so, so you've gotten a little bit out of, a little bit out of-- There's still some, some wineries and stuff, but this particular area where the horse threw its leg, uh, are orchards.\n\nApricots, mostly, um, which are, which are now ripe. So as you, as you, like, walk to the-- this little, um, it's not really a little farm. Like, a lot of the, um, a lot of the farms are owned by wealthy thieves, right? So it's actually a fairly big estate that has a, a handful of, like, small houses, um, outbuildings where the, um, uh, you know, the tenant farmers, uh, tenants, the tenders and fruit pickers live. Um, so you wanna go to the, like, estate or one of the small houses?"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Marcus’s apricot-picking grounds",
+      "evidence": [
+        {
+          "startUid": "u3004",
+          "endUid": "u3011",
+          "quote": "DM: Okay. Um, at 2:00 in the afternoon, most people are out in the fields. But, but you see, like, um, farmer harvesting, like, up in a tree picking apricots. Hops down as you two approach and kind of doffs his cap at you and says, \"Traveler.\""
+        }
+      ],
+      "kind": "orchard",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u2987",
+              "endUid": "u3002",
+              "quote": "this particular area where the horse threw its leg, uh, are orchards."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "City with the large coliseum",
+      "evidence": [
+        {
+          "startUid": "u3186",
+          "endUid": "u3207",
+          "quote": "DM: So you continue, um, heading, uh, you sort of bypass the city. Um, you know, this is, uh, your, the land is now starting to turn from, from vine and fruit and wheat. There's still a lot of wheat, but you're s- seeing more cattle, more pasture here. Um, uh, the city itself, um, it's, looks rich.\n\nWellby: Like everything is, like, new.\n\nDM: It's, there's a huge coliseum in the middle of town. There's, uh, lots of, lots of traffic coming and going. Um, uh, you know. Uh, just, just, um, this seems to be a, a center of commerce and activity in this area. There's people leading cattle to market. There's, you know, people leaving the town. It's got new walls, relatively new as far as you can tell.\n\nSo, so there is, uh, no, there's not a, there's not a cross. I mean, there is, there are road, there is a road that goes north from here that connects, that goes through the sort of lightly wooded area that connects, but this isn't, not, not from the city specifically."
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Erlona.md",
+      "note": "The current transcript leaves this city unnamed. Erlona’s note and the Session 50 record identify the prosperous coliseum city on this route; no modern mileage is substituted.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            },
+            {
+              "startUid": "u3186",
+              "endUid": "u3207",
+              "quote": "DM: So you continue, um, heading, uh, you sort of bypass the city. Um, you know, this is, uh, your, the land is now starting to turn from, from vine and fruit and wheat. There's still a lot of wheat, but you're s- seeing more cattle, more pasture here. Um, uh, the city itself, um, it's, looks rich.\n\nWellby: Like everything is, like, new.\n\nDM: It's, there's a huge coliseum in the middle of town. There's, uh, lots of, lots of traffic coming and going. Um, uh, you know. Uh, just, just, um, this seems to be a, a center of commerce and activity in this area. There's people leading cattle to market. There's, you know, people leaving the town. It's got new walls, relatively new as far as you can tell.\n\nSo, so there is, uh, no, there's not a, there's not a cross. I mean, there is, there are road, there is a road that goes north from here that connects, that goes through the sort of lightly wooded area that connects, but this isn't, not, not from the city specifically."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Legion’s camp outside the city",
+      "evidence": [
+        {
+          "startUid": "u3134",
+          "endUid": "u3138",
+          "quote": "DM: Um, the, uh, there's like a, a whole legion of troops s- setting up a evening camp outside the city. They seem like they've been on the march for, from Chardon for a while now."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u3158",
+              "endUid": "u3164",
+              "quote": "But outside the city."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Third road camp near the city",
+      "evidence": [
+        {
+          "startUid": "u3282",
+          "endUid": "u3319",
+          "quote": "Delwath: I think we should go into the town. We should sell the horses, pretend to join a halfling caravan, and somebody else should pick up the riding from here.\n\nWellby: Sounds good. Mm-hmm.\n\nSeeker: So we pass the whole city that has the leader?\n\nWellby: By that goat? Yeah, but not too far.\n\nSeeker: Just go back.\n\nWellby: A couple hours in the morning.\n\nSeeker: So we rest tonight?\n\nDM: Yeah.\n\nKenzo: Why are there-\n\nWellby: In comparison with that, yeah, I think it's—\n\nDelwath: Unrelated. So we've probably moved quicker than any of us, and we're counting on the fact that Fausto isn't gonna send out a letter to all provincial governors saying, \"Arrest these people.\"\n\nSeeker: Right. Right.\n\nDelwath: If that happens, we're in trouble. So we'll, we'll rest tonight. Everybody can get a rest.\n\nDM: Tomorrow—\n\nDelwath: Wellby will go sell the horses, buy, and then somebody else will go into town and buy new horses.\n\nDM: Mm-hmm.\n\nDelwath: And we'll trade stories.\n\nKenzo: Yeah. There, there being anybody who's followed our tr- trail of a halfling gets lost.\n\nWellby: Done.\n\nDelwath: Who's to... Who's next up?\n\nKenzo: I can do it.\n\nDelwath: So for the night, Tim? Yeah. Uh, Delwath will take, will sleep first.\n\nWellby: Okay.\n\nDelwath: And then keep everybody invisible for the rest of the night.\n\nDM: Okay. So just in the interest of time, um, you pass the night uneventfully. Early in the morning, who's going into town?"
+        }
+      ],
+      "kind": "camp",
+      "note": "Reached after passing the city, around 210 miles from Chardon; the source gives no precise camp boundary.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u3286",
+              "endUid": "u3288",
+              "quote": "Yeah, but not too far."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "North-bank road beside the dead zone",
+      "evidence": [
+        {
+          "startUid": "u3450",
+          "endUid": "u3479",
+          "quote": "DM: Um, and you can see across the river, on the south side of the river, um, there are like the whole area, there's like a strip maybe 100 feet wide that's been stretched, stretching for at least the last quarter mile that's just, everything's just completely dead.\n\nKenzo: Oh.\n\nDM: Just like mist sort of ha- And you, sort of creeps up on you that this is on the other side of the river. Like, you've been... It's getting dark and you've just been riding.\n\nKenzo: Are we, we on the south side of the river?\n\nDM: The road is on the north side.\n\nDelwath: Oh, okay. So we would have crossed the river at some point.\n\nDM: You would have crossed the river to follow the road. Yeah, yeah, yeah. Um, the... Like, it just sort of creeps up on you that, wait a minute, it's really quiet. There's nobody on the road.\n\nAnd then wait a minute, there's this, like, strange mist clinging to the land across the river, and it's all dead. But it's just a mi- It's like 100 feet. Like, there's trees growing right along the river, and then you go up the riverbank and then there's just this, like, bare patch of-\n\nKenzo: How big is the patch?\n\nDM: About 100 feet wide.\n\nKenzo: Just 100 feet wide?\n\nDM: Yep.\n\nKenzo: Sh-\n\nDM: And it's, and you, you come, you, you sort of reach the end of the horse's endurance after traveling along this river for-\n\nKenzo: Is it in front of me or is it across the river?\n\nDM: No, it's across the river.\n\nKenzo: Okay. On the south side.\n\nDM: On the south side. It's 5:00 PM."
+        }
+      ],
+      "kind": "roadside",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u3454",
+              "endUid": "u3457",
+              "quote": "The road is on the north side."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            },
+            {
+              "startUid": "u3450",
+              "endUid": "u3479",
+              "quote": "DM: Um, and you can see across the river, on the south side of the river, um, there are like the whole area, there's like a strip maybe 100 feet wide that's been stretched, stretching for at least the last quarter mile that's just, everything's just completely dead.\n\nKenzo: Oh.\n\nDM: Just like mist sort of ha- And you, sort of creeps up on you that this is on the other side of the river. Like, you've been... It's getting dark and you've just been riding.\n\nKenzo: Are we, we on the south side of the river?\n\nDM: The road is on the north side.\n\nDelwath: Oh, okay. So we would have crossed the river at some point.\n\nDM: You would have crossed the river to follow the road. Yeah, yeah, yeah. Um, the... Like, it just sort of creeps up on you that, wait a minute, it's really quiet. There's nobody on the road.\n\nAnd then wait a minute, there's this, like, strange mist clinging to the land across the river, and it's all dead. But it's just a mi- It's like 100 feet. Like, there's trees growing right along the river, and then you go up the riverbank and then there's just this, like, bare patch of-\n\nKenzo: How big is the patch?\n\nDM: About 100 feet wide.\n\nKenzo: Just 100 feet wide?\n\nDM: Yep.\n\nKenzo: Sh-\n\nDM: And it's, and you, you come, you, you sort of reach the end of the horse's endurance after traveling along this river for-\n\nKenzo: Is it in front of me or is it across the river?\n\nDM: No, it's across the river.\n\nKenzo: Okay. On the south side.\n\nDM: On the south side. It's 5:00 PM."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Misty barren strip across the river",
+      "evidence": [
+        {
+          "startUid": "u3450",
+          "endUid": "u3479",
+          "quote": "DM: Um, and you can see across the river, on the south side of the river, um, there are like the whole area, there's like a strip maybe 100 feet wide that's been stretched, stretching for at least the last quarter mile that's just, everything's just completely dead.\n\nKenzo: Oh.\n\nDM: Just like mist sort of ha- And you, sort of creeps up on you that this is on the other side of the river. Like, you've been... It's getting dark and you've just been riding.\n\nKenzo: Are we, we on the south side of the river?\n\nDM: The road is on the north side.\n\nDelwath: Oh, okay. So we would have crossed the river at some point.\n\nDM: You would have crossed the river to follow the road. Yeah, yeah, yeah. Um, the... Like, it just sort of creeps up on you that, wait a minute, it's really quiet. There's nobody on the road.\n\nAnd then wait a minute, there's this, like, strange mist clinging to the land across the river, and it's all dead. But it's just a mi- It's like 100 feet. Like, there's trees growing right along the river, and then you go up the riverbank and then there's just this, like, bare patch of-\n\nKenzo: How big is the patch?\n\nDM: About 100 feet wide.\n\nKenzo: Just 100 feet wide?\n\nDM: Yep.\n\nKenzo: Sh-\n\nDM: And it's, and you, you come, you, you sort of reach the end of the horse's endurance after traveling along this river for-\n\nKenzo: Is it in front of me or is it across the river?\n\nDM: No, it's across the river.\n\nKenzo: Okay. On the south side.\n\nDM: On the south side. It's 5:00 PM."
+        }
+      ],
+      "kind": "battlefield",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Scar of Shadowfire.md",
+      "note": "The Scar of Shadowfire note verifies the identity of the south-bank barren strip. Its battle history and ruins are not observed in this session.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u3450",
+              "endUid": "u3455",
+              "quote": "across the river, on the south side of the river"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            },
+            {
+              "startUid": "u3450",
+              "endUid": "u3479",
+              "quote": "DM: Um, and you can see across the river, on the south side of the river, um, there are like the whole area, there's like a strip maybe 100 feet wide that's been stretched, stretching for at least the last quarter mile that's just, everything's just completely dead.\n\nKenzo: Oh.\n\nDM: Just like mist sort of ha- And you, sort of creeps up on you that this is on the other side of the river. Like, you've been... It's getting dark and you've just been riding.\n\nKenzo: Are we, we on the south side of the river?\n\nDM: The road is on the north side.\n\nDelwath: Oh, okay. So we would have crossed the river at some point.\n\nDM: You would have crossed the river to follow the road. Yeah, yeah, yeah. Um, the... Like, it just sort of creeps up on you that, wait a minute, it's really quiet. There's nobody on the road.\n\nAnd then wait a minute, there's this, like, strange mist clinging to the land across the river, and it's all dead. But it's just a mi- It's like 100 feet. Like, there's trees growing right along the river, and then you go up the riverbank and then there's just this, like, bare patch of-\n\nKenzo: How big is the patch?\n\nDM: About 100 feet wide.\n\nKenzo: Just 100 feet wide?\n\nDM: Yep.\n\nKenzo: Sh-\n\nDM: And it's, and you, you come, you, you sort of reach the end of the horse's endurance after traveling along this river for-\n\nKenzo: Is it in front of me or is it across the river?\n\nDM: No, it's across the river.\n\nKenzo: Okay. On the south side.\n\nDM: On the south side. It's 5:00 PM."
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Farmland ambush site beyond the dead zone",
+      "evidence": [
+        {
+          "startUid": "u4093",
+          "endUid": "u4100",
+          "quote": "Kenzo: So we go to a place where there's no villagers nearby, no people who can get harmed.\n\nDelwath: Yeah, I mean, so you ride up a little bit. You, um... We're gonna form, like... I'm gonna, I'm gonna, while I'm, while we're here, since I'm guessing we're gonna be resting, not gonna save this spot."
+        }
+      ],
+      "kind": "roadside",
+      "note": "The party chooses a spot away from villagers after riding back into farmland; the subsequent horse recovery and attempted rest do not establish a named campsite.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            },
+            {
+              "startUid": "u4093",
+              "endUid": "u4100",
+              "quote": "Kenzo: So we go to a place where there's no villagers nearby, no people who can get harmed.\n\nDelwath: Yeah, I mean, so you ride up a little bit. You, um... We're gonna form, like... I'm gonna, I'm gonna, while I'm, while we're here, since I'm guessing we're gonna be resting, not gonna save this spot."
+            }
+          ]
+        }
+      ]
+    },
+    "p23": {
+      "label": "Fifth-day evening horse-change stop",
+      "evidence": [
+        {
+          "startUid": "u5172",
+          "endUid": "u5191",
+          "quote": "Kenzo: All right. We know, we know what we gotta do.\n\nDM: Uh, and that puts you, I mean, that still puts you more than 300 miles from, uh, from Chardon and your, your... Still making progress. You have, you know, less than 12 and a half left. Um, but it's been a, it's just been a tough, hard day.\n\nKenzo: Yeah, Kenzo is, uh, ready to get Wellby back in the saddle.\n\nDelwath: You gonna keep riding into the night?\n\nKenzo: Um. Right, so different.\n\nWellby: So you're gonna, Kenzo—\n\nDM: Swaps out.\n\nKenzo: Yeah.\n\nDM: Puts Wellby in. Okay, Wellby, making him check. Take a few hours to-"
+        }
+      ],
+      "kind": "roadside",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            },
+            {
+              "startUid": "u5172",
+              "endUid": "u5191",
+              "quote": "Kenzo: All right. We know, we know what we gotta do.\n\nDM: Uh, and that puts you, I mean, that still puts you more than 300 miles from, uh, from Chardon and your, your... Still making progress. You have, you know, less than 12 and a half left. Um, but it's been a, it's just been a tough, hard day.\n\nKenzo: Yeah, Kenzo is, uh, ready to get Wellby back in the saddle.\n\nDelwath: You gonna keep riding into the night?\n\nKenzo: Um. Right, so different.\n\nWellby: So you're gonna, Kenzo—\n\nDM: Swaps out.\n\nKenzo: Yeah.\n\nDM: Puts Wellby in. Okay, Wellby, making him check. Take a few hours to-"
+            }
+          ]
+        }
+      ]
+    },
+    "p24": {
+      "label": "Sura’s elaborate tent",
+      "evidence": [
+        {
+          "startUid": "u5205",
+          "endUid": "u5239",
+          "quote": "Sura is sitting in a tent."
+        }
+      ],
+      "kind": "tent",
+      "note": "Remote view; the transcript does not identify the tent’s geographic location."
+    },
+    "p25": {
+      "label": "Kadmos’s roadside dinner camp",
+      "evidence": [
+        {
+          "startUid": "u5288",
+          "endUid": "u5302",
+          "quote": "DM: Kadmos is, um, sitting on a road, uh, making dinner, talking to, or sitting with, um, uh, Casian, uh, Antonia. And Hektor. But that should do. And he's, he's sitting a little bit apart from them, and he is like, is just kind of staring at the three, at the three paintings. Seems almost like he's watching them. It's always, it's like constantly sort of looking at them.\n\nAnd then he looks up, and stares right at you."
+        }
+      ],
+      "kind": "camp",
+      "note": "Remote view; no road or geographic placement is identified."
+    },
+    "p26": {
+      "label": "Final sheltered pasture camp",
+      "evidence": [
+        {
+          "startUid": "u5442",
+          "endUid": "u5463",
+          "quote": "a corner of a pasture"
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3209",
+              "endUid": "u3213",
+              "quote": "Chasa River Valley"
+            },
+            {
+              "startUid": "u5442",
+              "endUid": "u5463",
+              "quote": "a corner of a pasture"
+            }
+          ]
+        }
+      ]
+    },
+    "p27": {
+      "label": "Metium",
+      "evidence": [
+        {
+          "startUid": "u2055",
+          "endUid": "u2066",
+          "quote": "you pass Metium"
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Metium.md",
+      "note": "A passed route landmark; this session does not establish entry into the city."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0384",
+        "endUid": "u0400"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Play resumes behind the barn in a field south of Chardon.",
+      "evidence": [
+        {
+          "startUid": "u0384",
+          "endUid": "u0400",
+          "quote": "Seeker: Well, Delwath. So maybe we could work forward, actually, from exactly how we ended the last session, which was that—\n\nDM: We ended the last session hidden, crouching behind a barn.\n\nSeeker: Right. I had been a raven and-\n\nDM: Yes.\n\nSeeker: ... changed back.\n\nDM: Seeker had been a raven and changed back, and you all climbed out of a portable hole behind a barn. Right. And that's where we ended.\n\nSeeker: So maybe we should just-\n\nDM: Like a half mile south ... turn now, it's like 10:00 in the morning.\n\nDelwath: Is there anybody immediately there?\n\nDM: No. I mean, it's a farmer's, it's a field, right? It's, uh, it's August, so, you know, that's- So for me, like, it's not a terrible place to hide as long as nobody comes to harvest."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0404",
+        "endUid": "u0419"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Carries his companions in the mirror through the farms, looping back to a sheltered riverbank camp.",
+      "evidence": [
+        {
+          "startUid": "u0404",
+          "endUid": "u0419",
+          "quote": "Delwath: I think the immediate plan then would be all of us except one person, whoever's—\n\nDM: Probably Wellby, all of us climbing in the mirror except Wellby.\n\nSeeker: Yeah.\n\nDelwath: You, you get us- You get us somewhere where we can rest.\n\nDM: It would take us a few hours of climbing to get to the top.\n\nWellby: Yeah, totally. [laughs]\n\nDM: No problem. Okay. Just, just for simplicity's sake, let's say that you spend ... Wellby spends the day ... No. Just, you know, keep, you know, walking through the farms, doing a big, long circle back around to the river and finds a sheltered, like, a spot along the riverbank where we can rest and hide."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "A circuit through the farms back toward the river."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0422",
+        "endUid": "u0465"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "At the sheltered riverbank the party rests in shifts under invisibility before the next morning’s breakfast.",
+      "evidence": [
+        {
+          "startUid": "u0422",
+          "endUid": "u0455",
+          "quote": "Delwath: So but then—at least, that's what they at least expect. If we take one... If we take a sh- I mean, realistically what we should do is take... Yeah, we'll take a short rest. Delwath will then cycle invisibility on everybody. Right.\n\nDM: You guys can sleep. Delwath will watch.\n\nDelwath: At 3:00 in the morning, right, everybody will have had a long rest. Delwath will wake somebody up, right, and actually take a—\n\nDM: ... Like, we can't concentrate on spells when we're, you know, when—\n\nDelwath: We transition, you know? Sure. Yes. That would be sort of... But I think in the middle of, like, at 3:00 in the morning, nobody's gonna...\n\nDM: I think it's safe to take a ...\n\nDelwath: The point is Delwath needs four hours for a long rest. Yeah. So let's, when's sunrise?\n\nDM: 7:00, 6:00? Or maybe 8:00, 6:00. So at 2:00 in the morning, we'll trade out, right? And—\n\nDelwath: Um, we'll stop. We'll give up on the invisibility because the middle of the night is not a bad time. Like, we would probably—\n\nDM: Be able to do Delwath's 4:00 AM thing, um, and Delwath can get a long rest. And then it'll be dawn, and we'll switch back to invisibility, and we're invisibly up a river—\n\nDelwath: Until we get to—\n\nDM: A town or some, you know, a market where we can buy horses. That's the plan."
+        },
+        {
+          "startUid": "u0457",
+          "endUid": "u0465",
+          "quote": "Yeah. So everybody take a long rest."
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0574",
+        "endUid": "u0620"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party emerges from the mirror into the riverside ditch camp for breakfast.",
+      "evidence": [
+        {
+          "startUid": "u0574",
+          "endUid": "u0618",
+          "quote": "sunrise, you all stumble out of the mirror into"
+        },
+        {
+          "startUid": "u0619",
+          "endUid": "u0620",
+          "quote": "Kenzo: So we all get out of the mirror?\n\nDM: Yeah."
+        }
+      ],
+      "from": "p07",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1585",
+        "endUid": "u1587"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby goes to the nearby town to buy four horses while his companions remain by the river.",
+      "evidence": [
+        {
+          "startUid": "u1585",
+          "endUid": "u1587",
+          "quote": "So Wellby sets off."
+        },
+        {
+          "startUid": "u1981",
+          "endUid": "u1987",
+          "quote": "Wellby: Yeah, we're by the river. Yeah. We were just talking about, um, Seeker casting Wall of Stone in the surroundings.\n\nDelwath: But you're off buying horses.\n\nSeeker: Yeah.\n\nDelwath: Kenzo's gonna tell you that Fausto's a Scryer. He might have Scryed."
+        },
+        {
+          "startUid": "u2003",
+          "endUid": "u2008",
+          "quote": "DM: An hour and a half later, maybe two hours later, Wellby comes back with four horses, and you are talking there. And kind of sees a—"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u1850",
+        "endUid": "u1893"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scries Fausto finishing breakfast and beginning a scrying spell in the entry room; no physical party visit occurs.",
+      "evidence": [
+        {
+          "startUid": "u1850",
+          "endUid": "u1871",
+          "quote": "DM: Fausto is, Fausto is, um, sitting in the, uh—\n\nKenzo: The like, um—\n\nDM: Entry chi- the like room where you met him first, the like in the alley, table and stuff, um, eating a soft-boiled egg. [laughs] As he watches the scry. Um, Scarlett, you see, um, here, right? See him, yeah.\n\nUm, you watch him for a few minutes, um, and he is, uh... So for a few minutes he's, he's just eating. Pushes the, uh, pushes his breakfast dishes away. Um, they are s- uh, something unseen picks them up and carries them off. Um, then he, uh, take- He s- he sits down. He takes out a, um..."
+        },
+        {
+          "startUid": "u1876",
+          "endUid": "u1893",
+          "quote": "DM: He takes out a, um, a, a round silver mirror that has, um, sort of black and, uh, black and red like twisting snakes going around the edge of it. It looks, um, extremely expensive to me. To kinda hit.\n\nHe begins casting a spell. Cool. What spell? Um, make a, a con check. [dice rolling] Not very high, but 10 plus your mod plus this die. 11.\n\nKenzo: Plus five. Oh, that's not terrible. 13.\n\nDM: Um, he's casting Scry. Ah, okay. The casting time's 10 minutes, so your Scry ends before his spell finishes. Yeah, so..."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p05",
+      "observedActors": [
+        "Fausto"
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1988",
+        "endUid": "u1995"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Stops inside a nondescript bar during the horse-buying trip after being warned of possible scrying.",
+      "evidence": [
+        {
+          "startUid": "u1988",
+          "endUid": "u1995",
+          "quote": "Wellby: I'll go to the inside of a bar.\n\nDelwath: Go somewhere nondescript. Go somewhere very nondescript for 10 minutes right now.\n\nWellby: And just stand at a bar and have a drink.\n\nDelwath: Okay. Um...\n\nDM: Give it half an hour I'd say."
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM says to give it half an hour"
+      }
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2003",
+        "endUid": "u2008"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Returns to the riverside camp with four purchased horses.",
+      "evidence": [
+        {
+          "startUid": "u2003",
+          "endUid": "u2008",
+          "quote": "DM: An hour and a half later, maybe two hours later, Wellby comes back with four horses, and you are talking there. And kind of sees a—"
+        }
+      ],
+      "from": "p06",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "ride"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2048",
+        "endUid": "u2125"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Rides east up the Chasa through wine country, past Metium, with breaks for the horses, until the first road camp around midnight.",
+      "evidence": [
+        {
+          "startUid": "u2048",
+          "endUid": "u2066",
+          "quote": "DM: I'm not that interested in trying to see a demon's dreams, but you all do what you want. So Wellby starts riding, galloping across the—oh no. Oh no... Up, up river, um. Oh no.\n\nSeeker: But the music's not gonna change because-\n\nDM: Going... So going, your first couple of hours switching horses off, you make rapid progress. Um, your, the, the area you're riding through is densely settled, and this is, this is definitely part of Chardonian wine country, so there's vineyards up and down the slopes.\n\nUm, within, uh, you know, maybe soon after, a bit after lunchtime, middle of the afternoon, um, you pass Metium, the large, large town, city with the, um, center of, of wine production, now having traveled about 40 miles from breakfast. Horses are definitely getting tired, and you take a short breather to let them rest, um, so no one throws a, um—"
+        },
+        {
+          "startUid": "u2074",
+          "endUid": "u2096",
+          "quote": "DM: Uh, so you left maybe 9:00 AM. By 5:00 PM, about eight hours, um, after having gone say about 50 miles, pause for a couple of hours to give the, um, to give the horses, um, a, a breather and, and recover a bit. Push on as it gets dark. Going, uh, starting up again at say 7:00, 7:30, and begin riding further east as the sun sets.\n\nUm, y- you know, you've passed a, a fair bit of traffic, right? And most people coming down your way as you ride hard at a gallop up the, up the river. There's... But this is a, this is settled country right here. A halfling galloping to somewhere, it's not-"
+        },
+        {
+          "startUid": "u2110",
+          "endUid": "u2125",
+          "quote": "DM: Just thinking can we, like, how easy are they gonna be to sky there? By midnight, the horses are completely winded. Like, you cannot push further—\n\nDelwath: Without a substantial risk of maiming or injuring a horse through riding.\n\nDM: Really all horses, they need a, a decent three, three, four hours at least.\n\nWellby: What's the protocol? Everyone comes out of the mirror as a mob like this?\n\nDelwath: We didn't discuss it. I'll bring everybody out here.\n\nDM: It's now, it's now past midnight, and you've traveled about 70 miles on this day. But-\n\nDelwath: We have 500 to go.\n\nKenzo: That's actually pretty good.\n\nDM: And the horses, like, you know, you probably won't be able to ride again till dawn."
+        }
+      ],
+      "from": "p05",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Passes Metium in midafternoon without an established city visit.",
+          "place": "p27"
+        },
+        {
+          "reading": "Stops for the horses in late afternoon, then resumes east as the sun sets."
+        }
+      ],
+      "distance": {
+        "value": 70,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s total traveled on the first riding day"
+      }
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u2117",
+        "endUid": "u2125"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Kenzo"
+      ],
+      "reading": "The three companions are carried in mirror cells during Wellby’s first ride, before he brings them out at the road camp.",
+      "evidence": [
+        {
+          "startUid": "u2117",
+          "endUid": "u2119",
+          "quote": "Wellby: What's the protocol? Everyone comes out of the mirror as a mob like this?\n\nDelwath: We didn't discuss it. I'll bring everybody out here."
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2117",
+        "endUid": "u2125"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Kenzo"
+      ],
+      "reading": "Wellby brings his companions out of the mirror at the first road camp.",
+      "evidence": [
+        {
+          "startUid": "u2117",
+          "endUid": "u2119",
+          "quote": "Wellby: What's the protocol? Everyone comes out of the mirror as a mob like this?\n\nDelwath: We didn't discuss it. I'll bring everybody out here."
+        },
+        {
+          "startUid": "u2120",
+          "endUid": "u2125",
+          "quote": "DM: It's now, it's now past midnight, and you've traveled about 70 miles on this day. But-\n\nDelwath: We have 500 to go.\n\nKenzo: That's actually pretty good.\n\nDM: And the horses, like, you know, you probably won't be able to ride again till dawn."
+        }
+      ],
+      "from": "p07",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2239"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scries Marcella asleep on bare gravel high in an unidentified mountain clearing.",
+      "evidence": [
+        {
+          "startUid": "u2152",
+          "endUid": "u2187",
+          "quote": "Wellby: That's creepy. She is sleeping.\n\nKenzo: That's creepy. I just wanna make sure she's not- No, no, I know. Sleeping where?\n\nDelwath: Um...\n\nKenzo: I'm gonna look up at the stars. No, no, but where, where is she sleeping?\n\nDelwath: Yeah.\n\nDM: You can't look... I mean, you don't have control. You can look around a little bit, but not, um... Well, where is she sleeping?\n\nKenzo: Outside, inside?\n\nDM: Outside in the mountains somewhere.\n\nWellby: Okay, that's good. Very good. All right, mountains are good enough.\n\nKenzo: Do we recognize the mountains?\n\nDelwath: No. I mean, there's only one-\n\nKenzo: No cap? Yeah, great question.\n\nDM: It's, it's the middle of the night. It's dark. There's nothing.\n\nKenzo: Does darkvision, darkvision doesn't—\n\nDelwath: Apply?\n\nDM: It's 60 feet. We can see Marcella at 60 feet.\n\nDelwath: I mean, what's the immediate... Is it, is she in a pass high up, like-\n\nDM: It's boosted elevation. She's high, um, on sort of a loose stone gravel. Um, just not in a town or anything, just more like in a clearing. Um, not a lot of vegetation around. Probably fairly high up."
+        },
+        {
+          "startUid": "u2210",
+          "endUid": "u2216",
+          "quote": "Delwath: ... where she is. Right? I'm actually gonna scry, like, uh, retcon scry after the long rest, and then short rest.\n\nDM: Sure.\n\nDelwath: So then it would be, would be morning. And if it's 5:00 in the morning in Chardon, right, the mountains are probably one hour at least.\n\nDM: [laughs] It is, it is..."
+        },
+        {
+          "startUid": "u2234",
+          "endUid": "u2239",
+          "quote": "Wellby: I feel like you could still say yes, though, if it is farther east, even if it's incrementally lighter.\n\nDM: Yeah, it's a little bit lighter. Not, not so much you can, like, judge exactly where.\n\nDelwath: I'm not trying to just... I'm, I'm looking for a clue that says she's not, that she's made it in the mountains of the east.\n\nDM: Yes."
+        }
+      ],
+      "place": "p12",
+      "mode": "remote",
+      "observerPlace": "p11",
+      "observedActors": [
+        "Marcella"
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2326",
+        "endUid": "u2519"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Continues east through farmland and wine country to the second road camp, about 145 miles from Chardon; observes the monolith from the road without visiting it.",
+      "evidence": [
+        {
+          "startUid": "u2326",
+          "endUid": "u2327",
+          "quote": "DM: Uh, just that for now. So, you set out again."
+        },
+        {
+          "startUid": "u2356",
+          "endUid": "u2371",
+          "quote": "DM: So, okay, so at the moment, as you get started, you are about eight miles east of Chardon. That's where you—the horses collapse and die... Right. Um, the, uh... So this is, so you pass, like, like, you pass Lundakers. And of course, there's many, like, little towns, like, market towns everywhere. The, the further... A- and here now, you've passed the, that, like, uh, confluence—mm-hmm—... of those two rivers, and you're, like, deep in the heart of wine country. Um, as you're heading, continuing to head east."
+        },
+        {
+          "startUid": "u2417",
+          "endUid": "u2435",
+          "quote": "DM: So you're... And as you, as the sun is setting, you see, um, you know, you've passed a bunch of little towns and stuff, and mostly been riding like along this road that follows the course of the river that's going entirely through farmland.\n\nBut as the sun is setting and the light catches on this, um, huge, maybe 160 to 80 foot high gray-white monolithic stone that stands sort of on a slight bank of the river, um, tapers to, to a point maybe 15, 20 foot diameter at the base. This is a massive, so- solid stone just standing there off the road, up on a small hill.\n\nWellby: Like something that's ancient or like part of a network of Chardonian teleportation circles?\n\nDM: No, like something that's ancient.\n\nSeeker: You said it tapers?\n\nDM: Yeah, it's like a big, it's like an obelisk like this.\n\nDelwath: It's like the Washington Monument.\n\nSeeker: Is it, uh, rounded and smooth or squared, rough?\n\nDM: Um, I mean you're, you're like—galloping on a horse... On a horse, yeah. I have no idea."
+        },
+        {
+          "startUid": "u2499",
+          "endUid": "u2519",
+          "quote": "DM: By, by 8:00 PM, you are just bone tired. You are now one level exhausted.\n\nWellby: All right.\n\nDM: You've been riding almost nonstop for the past 36 hours, roughly.\n\nWellby: Time to tag out.\n\nDM: Um, and you are wiped. The horses are wiped too now, after about two hours past the sunset. Just panting, um, you know—\n\nKenzo: Feeding them some apples and some—\n\nDM: Oats and other sorts of high protein stuff stashed in the, um... You make, make another 10 miles before—\n\nWellby: I'll find some relatively quiet place and pull everybody out of the mirror. Try to hide the outside, but done. Just absolutely done.\n\nDM: So it's about, say, 9:00 PM.\n\nWellby: Wellby, where are we?\n\nDM: Uh, we're about 145 miles from Chardon."
+        }
+      ],
+      "from": "p11",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Passes the confluence and towns along the valley road."
+        },
+        {
+          "reading": "Sees the monolith off the road but continues, declining a hill detour.",
+          "place": "p13"
+        }
+      ],
+      "note": "The u2356 “eight miles” wording is incompatible with the prior travel total; it is not used to replace that total."
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u2417",
+        "endUid": "u2492"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Sees the gray-white monolith on a hill about half a mile from the road, asks a rabbit about it, and rides on.",
+      "evidence": [
+        {
+          "startUid": "u2417",
+          "endUid": "u2492",
+          "quote": "DM: So you're... And as you, as the sun is setting, you see, um, you know, you've passed a bunch of little towns and stuff, and mostly been riding like along this road that follows the course of the river that's going entirely through farmland.\n\nBut as the sun is setting and the light catches on this, um, huge, maybe 160 to 80 foot high gray-white monolithic stone that stands sort of on a slight bank of the river, um, tapers to, to a point maybe 15, 20 foot diameter at the base. This is a massive, so- solid stone just standing there off the road, up on a small hill.\n\nWellby: Like something that's ancient or like part of a network of Chardonian teleportation circles?\n\nDM: No, like something that's ancient.\n\nSeeker: You said it tapers?\n\nDM: Yeah, it's like a big, it's like an obelisk like this.\n\nDelwath: It's like the Washington Monument.\n\nSeeker: Is it, uh, rounded and smooth or squared, rough?\n\nDM: Um, I mean you're, you're like—galloping on a horse... On a horse, yeah. I have no idea.\n\nWellby: What, I know. This is, this is like catnip for all of us.\n\nDelwath: Shut the hell up. How, um... Oh man, what point are the horses at?\n\nWellby: This is the natural resting point for them?\n\nDM: Um-\n\nWellby: [laughs]\n\nDM: You're, you're, you could, you could go another couple of hours before they need to rest.\n\nWellby: But I feel like I could... Like it's not far off the road, right?\n\nDM: It's like a half mile.\n\nWellby: Like I could do like a flyby without losing more than a few minutes.\n\nSeeker: And you, you, it's not like I'm gonna check into that.\n\nDM: Well, no, because it's awkward. I mean-\n\nWellby: It's like-\n\nKenzo: You can't gallop.\n\nWellby: ... predictable.\n\nDM: Right? It's, you gotta scramble up this, this hill.\n\nWellby: Okay, here's the compromise I'm gonna do. While riding, I'm gonna see if I can call a hawk down, uh, or like a rabbit nearby or whatever might have been there. Let's see if I can find out what the deal is.\n\nKenzo: To ask it or to have it?\n\nWellby: No, to ask it. Or to have a go-to. Those are the questions.\n\nDM: Uh, there's definitely some, there's, you know, there's small animals around. Nothing that's gonna be able to [sneezes] ... scout for you, so if you ask something. What's the deal? Yeah, absolutely. Um, there's, uh, there's some, a couple rabbits passing by. You call out to one of them.\n\nWellby: Hey, uh, uh, uh, Mr. Jew here. How...\n\nDelwath: [laughs] Why the big stone?\n\nWellby: Safe, dangerous, friendly?\n\nDM: Cool shade. Sweet, nice, good grass.\n\nWellby: Good dreams?\n\nDM: What? Dreams. Right. Uh, uh, uh, safe? We eat. Yes.\n\nWellby: People do it?\n\nDM: Always. Those things are heavy chunks of air.\n\nWellby: Yeah. Two legs at the rock, two legs in the shade.\n\nDM: Sometimes.\n\nWellby: I'm too. Two legs inside the rock.\n\nDM: Inside?\n\nWellby: What's with this?\n\nDM: It's like some sort... Oh, fuck. No. Okay, make a constitution saving throw."
+        }
+      ],
+      "place": "p13",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2514",
+        "endUid": "u2522"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Kenzo"
+      ],
+      "reading": "Wellby brings the other party members out at the quiet second road camp.",
+      "evidence": [
+        {
+          "startUid": "u2514",
+          "endUid": "u2522",
+          "quote": "Wellby: I'll find some relatively quiet place and pull everybody out of the mirror. Try to hide the outside, but done. Just absolutely done.\n\nDM: So it's about, say, 9:00 PM.\n\nWellby: Wellby, where are we?\n\nDM: Uh, we're about 145 miles from Chardon.\n\nWellby: The route? How far? I'll pull out a map and show on the map where we were. Holy fuck."
+        }
+      ],
+      "from": "p07",
+      "to": "p14",
+      "completion": "arrived"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2887",
+        "endUid": "u3011"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Rides on the third day until an injured horse slows him near a market town; approaches the apricot estate’s working grounds and meets Marcus.",
+      "evidence": [
+        {
+          "startUid": "u2887",
+          "endUid": "u2892",
+          "quote": "DM: Everybody else back in there? Yep. Mm-hmm. Okay. 25.\n\nKenzo: So you set off again—\n\nDM: The gallop."
+        },
+        {
+          "startUid": "u2912",
+          "endUid": "u2942",
+          "quote": "DM: The first four hours or so, manage to maintain steady gallop. Um, uh, give the horses a bit of a rest. Get about, get about 30 miles by 9:00 AM. Uh, push again, um, after rest. Again, as is typical, like the horses are still-- we've been pushing hard and we're still struggling.\n\nUm, by lunchtime, after gone maybe 50 miles or so, um, the, one of the trailing horses, strain, sprains a muscle and just starts limping. We're just traveling up? Um, there's a town three miles away. That's why I can't believe you're gonna be going at a slow walk. Um, it's just—\n\nKenzo: The road gets a lot slower.\n\nWellby: I'll move where we can.\n\nKenzo: Uh, it's, it's about, uh, you made it about—\n\nDM: 45 miles before, um, before the horse threw a leg, and it's another three miles. So you're about one mile, one mile in, you get to this outskirts of this small market town. Around 2:00 PM, 3:00 PM now, so it's been days. We've been traveling, this is the third day of traveling."
+        },
+        {
+          "startUid": "u2987",
+          "endUid": "u3011",
+          "quote": "DM: It's, it, it's true, yeah. Yeah. The-- This area is, it's pretty, um, uh, so, so you've gotten a little bit out of, a little bit out of-- There's still some, some wineries and stuff, but this particular area where the horse threw its leg, uh, are orchards.\n\nApricots, mostly, um, which are, which are now ripe. So as you, as you, like, walk to the-- this little, um, it's not really a little farm. Like, a lot of the, um, a lot of the farms are owned by wealthy thieves, right? So it's actually a fairly big estate that has a, a handful of, like, small houses, um, outbuildings where the, um, uh, you know, the tenant farmers, uh, tenants, the tenders and fruit pickers live. Um, so you wanna go to the, like, estate or one of the small houses?\n\nKenzo: Ooh, small house.\n\nDM: Okay. Um, at 2:00 in the afternoon, most people are out in the fields. But, but you see, like, um, farmer harvesting, like, up in a tree picking apricots. Hops down as you two approach and kind of doffs his cap at you and says, \"Traveler.\""
+        }
+      ],
+      "from": "p14",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Reaches the small town’s outskirts at a slow walk after a horse strains a leg."
+        },
+        {
+          "reading": "Approaches the apricot estate’s working grounds after choosing the smaller worker-house area.",
+          "place": "p15"
+        }
+      ],
+      "note": "The DM briefly says “you two approach” without identifying a second traveler; only Wellby is established as the active rider."
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u3062",
+        "endUid": "u3164"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "From the road uses a hawk’s senses to scout ahead and behind; sees a legion setting camp outside the large city, without visiting the legion.",
+      "evidence": [
+        {
+          "startUid": "u3062",
+          "endUid": "u3063",
+          "quote": "Wellby: All right. Well, I'll head down the road and call a hawk and see if anything's following."
+        },
+        {
+          "startUid": "u3074",
+          "endUid": "u3087",
+          "quote": "DM: Uh, roll a twenty. Um, yeah, you find a hawk. You throw it to your hand. Are you beast sensing or just gonna talk to it?\n\nWellby: Uh, I'll talk to it, and then I'll beast sense, and then send it back up to look around.\n\nDM: Uh, fast rider somewhere? Some.\n\nWellby: Mm.\n\nDM: Shiny riders?\n\nWellby: Like metal armor?\n\nDM: Far.\n\nWellby: Which way?\n\nDM: Upriver."
+        },
+        {
+          "startUid": "u3100",
+          "endUid": "u3164",
+          "quote": "Wellby: I'll try beast sensing, so I'll send my perception into it and send it-\n\nDM: Okay.\n\nWellby: ... uh, I wanna look both ahead and behind. So maybe just up over where we are and circle.\n\nDM: Okay. Yeah. Um, I mean, there's a fair bit of traffic on the road. There's a big city about 50 miles east of here, and there's a fair bit of traffic now leaving the city, uh, like farmers having sold their, their goods. It's the end of the market day now, so, uh, you know, it's-- things are, are clearing out. Um, no, no, like large, you know, nobody riding a fast horse, like chasing you or anything.\n\nWellby: Yeah.\n\nDM: No large, um, uh-\n\nWellby: Militias or-\n\nDM: Militias or anything. There are-- I mean, there are troops somewhere. There seem to be, especially, um, it's a small group of the rear guard of some legion heading east. And you can see in the distance, um, say you're looking through it. Which way are you facing? Go behind you first. Um, yeah, there's nothing really, there's nothing really behind you.\n\nUm, but when you, when you circle around ahead, like camped outside this city and about 15 miles, which is about getting to the city. I mean, you-\n\nWellby: Yeah.\n\nDM: Um, the, uh, there's like a, a whole legion of troops s- setting up a evening camp outside the city. They seem like they've been on the march for, from Chardon for a while now.\n\nWellby: On the road?\n\nDM: Yeah, you just-\n\nWellby: There's a road.\n\nDM: ... you've been heading east.\n\nKenzo: To fucking where? Like, this road goes into the forest, right?\n\nDelwath: Well, there's a whole bunch of... I mean, the city that we're heading towards is-\n\nKenzo: Oh, it's a big city, yeah.\n\nDM: ... a big city.\n\nSeeker: How big is a legion?\n\nDM: Um, this particular configuration of troops is maybe 500 soldiers. We can take it. [laughs] Uh, what are the two of them?\n\nSeeker: Is there a way we can use scrying to find out if—\n\nKenzo: Hard to scry people you've never met—\n\nDelwath: Or a place. You cannot scry a place you've never been.\n\nDM: Or is there-\n\nWellby: Was there, was there a checkpoint on the road where they stopped the people or anything, or there's just in a camp?\n\nDM: No, I mean, right now the troops seem to be setting up a temporary, like they're, they're just setting their tents and, and setting up a picket patrol. But outside the city.\n\nKenzo: If we can get a little closer.\n\nDM: Few miles outside the city.\n\nWellby: Not like across the road or something.\n\nDM: No."
+        }
+      ],
+      "place": "p18",
+      "mode": "remote",
+      "observerPlace": "p03",
+      "observedActors": [
+        "Chardonian legion"
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u3175",
+        "endUid": "u3319"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Bypasses the wealthy coliseum city, continues a little beyond, and camps after three days’ travel totaling about 210 miles.",
+      "evidence": [
+        {
+          "startUid": "u3175",
+          "endUid": "u3207",
+          "quote": "Wellby: Uh, might as just keep on pushing.\n\nDM: Okay.\n\nWellby: Let's get to the far side of the city.\n\nDM: So you get-\n\nWellby: What I... Once I get, like, within sight of the city, I'm gonna slow down to a trot, just to be less conspicuous.\n\nDM: Okay. So you pass, you want to get into the city?\n\nWellby: Um, are we gonna sell the horses?\n\nDelwath: I guess we can strategize.\n\nDM: So you continue, um, heading, uh, you sort of bypass the city. Um, you know, this is, uh, your, the land is now starting to turn from, from vine and fruit and wheat. There's still a lot of wheat, but you're s- seeing more cattle, more pasture here. Um, uh, the city itself, um, it's, looks rich.\n\nWellby: Like everything is, like, new.\n\nDM: It's, there's a huge coliseum in the middle of town. There's, uh, lots of, lots of traffic coming and going. Um, uh, you know. Uh, just, just, um, this seems to be a, a center of commerce and activity in this area. There's people leading cattle to market. There's, you know, people leaving the town. It's got new walls, relatively new as far as you can tell.\n\nSo, so there is, uh, no, there's not a, there's not a cross. I mean, there is, there are road, there is a road that goes north from here that connects, that goes through the sort of lightly wooded area that connects, but this isn't, not, not from the city specifically."
+        },
+        {
+          "startUid": "u3238",
+          "endUid": "u3239",
+          "quote": "DM: Uh, okay, so you, you went another, like, 15 or so miles before passing this town."
+        },
+        {
+          "startUid": "u3261",
+          "endUid": "u3278",
+          "quote": "DM: I know, but he's, you've ridden, you've, he's, he's traveled 210 miles in three days. That's- That is- Yeah. Extremely impressive.\n\nUnknown: [laughs]\n\nKenzo: Apparently not to elves.\n\nDM: No, it is impressive.\n\nUnknown: [laughs]\n\nDM: I mean, that's almost-\n\nDelwath: For a halfling ... a fastest. [laughs] I didn't add for a halfling. It's the dwarves who think halflings can't travel fast.\n\nDM: [laughs] Um, but you get the sense, like these horses can't, can't be pushed further. Like, you've lost one, and the other three are-"
+        },
+        {
+          "startUid": "u3282",
+          "endUid": "u3319",
+          "quote": "Delwath: I think we should go into the town. We should sell the horses, pretend to join a halfling caravan, and somebody else should pick up the riding from here.\n\nWellby: Sounds good. Mm-hmm.\n\nSeeker: So we pass the whole city that has the leader?\n\nWellby: By that goat? Yeah, but not too far.\n\nSeeker: Just go back.\n\nWellby: A couple hours in the morning.\n\nSeeker: So we rest tonight?\n\nDM: Yeah.\n\nKenzo: Why are there-\n\nWellby: In comparison with that, yeah, I think it's—\n\nDelwath: Unrelated. So we've probably moved quicker than any of us, and we're counting on the fact that Fausto isn't gonna send out a letter to all provincial governors saying, \"Arrest these people.\"\n\nSeeker: Right. Right.\n\nDelwath: If that happens, we're in trouble. So we'll, we'll rest tonight. Everybody can get a rest.\n\nDM: Tomorrow—\n\nDelwath: Wellby will go sell the horses, buy, and then somebody else will go into town and buy new horses.\n\nDM: Mm-hmm.\n\nDelwath: And we'll trade stories.\n\nKenzo: Yeah. There, there being anybody who's followed our tr- trail of a halfling gets lost.\n\nWellby: Done.\n\nDelwath: Who's to... Who's next up?\n\nKenzo: I can do it.\n\nDelwath: So for the night, Tim? Yeah. Uh, Delwath will take, will sleep first.\n\nWellby: Okay.\n\nDelwath: And then keep everybody invisible for the rest of the night.\n\nDM: Okay. So just in the interest of time, um, you pass the night uneventfully. Early in the morning, who's going into town?"
+        }
+      ],
+      "from": "p16",
+      "to": "p19",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Passes the city rather than entering it during this riding leg.",
+          "place": "p17"
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "type": "presence",
+      "source": {
+        "startUid": "u3311",
+        "endUid": "u3319"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reunites to rest overnight just beyond the city before the next morning’s horse exchange.",
+      "evidence": [
+        {
+          "startUid": "u3311",
+          "endUid": "u3319",
+          "quote": "Delwath: So for the night, Tim? Yeah. Uh, Delwath will take, will sleep first.\n\nWellby: Okay.\n\nDelwath: And then keep everybody invisible for the rest of the night.\n\nDM: Okay. So just in the interest of time, um, you pass the night uneventfully. Early in the morning, who's going into town?"
+        }
+      ],
+      "place": "p19"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u3320",
+        "endUid": "u3335"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Goes into the city to sell the worn horses and close out his halfling-caravan cover story, then leaves.",
+      "evidence": [
+        {
+          "startUid": "u3320",
+          "endUid": "u3335",
+          "quote": "Wellby: I'll go into town.\n\nDM: Wellby goes into town, so, um, sells their horses, buys, and then leaves.\n\nKenzo: We.\n\nDM: Leaves.\n\nWellby: What's the plan?\n\nDelwath: The plan is Wellby is gonna pretend to join a halfling caravan. A halfling... You gotta close out the story, right? We're rushing to catch up to some halflings.\n\nKenzo: Yeah.\n\nDM: You should sell your horses to some halflings. So it must be-\n\nSeeker: Or just disappear into a halfling caravan.\n\nDelwath: Yeah.\n\nDM: Exactly.\n\nDelwath: Yeah, you don't have to actually sell them, but yeah.\n\nDM: And then, so, so this is gonna take like most of the morning."
+        }
+      ],
+      "from": "p19",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "ride",
+      "note": "Leaving the city is narrated; a separate return to a specific camp is not."
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u3336",
+        "endUid": "u3388"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Goes into the city and buys replacement horses before taking over as rider.",
+      "evidence": [
+        {
+          "startUid": "u3336",
+          "endUid": "u3338",
+          "quote": "Delwath: Yeah. Somebody else will go. Kenzo will go into town and buy new horses.\n\nKenzo: Yeah, Kenzo goes and buys new horses."
+        },
+        {
+          "startUid": "u3369",
+          "endUid": "u3388",
+          "quote": "Delwath: So what's our horse swap gonna cost us?\n\nDM: Another, another 200 gold.\n\nDelwath: That's including what we get for selling these horses?\n\nDM: I mean, these horses are... You've, you've beat these horses.\n\nDelwath: I mean, you've worn them down, right?\n\nDM: You can get... And you're not, I mean, how long do you want to spend like on a saddle?\n\nKenzo: God, hell yeah.\n\nDM: Like, if you, as long, you can certainly get a much better deal than that if you want to spend more time in the marketplace.\n\nKenzo: Uh, no, no. We're, we're trying to stay ahead of the NPCs that you have chasing us, so we're gonna do it as quickly as possible. We have to sell some. We're gonna want enough money.\n\nDelwath: We have to sell some gems.\n\nKenzo: Okay. Um...\n\nDM: And then who's riding now?\n\nKenzo: Kenzo.\n\nDelwath: Kenzo.\n\nDM: Okay."
+        }
+      ],
+      "from": "p19",
+      "to": "p17",
+      "completion": "arrived"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u3398",
+        "endUid": "u3485"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Rides east from the city to the road opposite a desolate strip on the Chasa’s south bank, about 255 miles from Chardon.",
+      "evidence": [
+        {
+          "startUid": "u3398",
+          "endUid": "u3400",
+          "quote": "DM: Okay, so you set off around noon. Um, what is this thinking? Uh."
+        },
+        {
+          "startUid": "u3406",
+          "endUid": "u3414",
+          "quote": "DM: Um, you set off around noon. Now, you are not... I mean, Wellby knows how to get the most out of these horses. You are not, you're not bad, but you know, you can't talk to them. You can't, like encourage, you know, speak their language. Like, you just haven't spent as much time working it as Wellby has."
+        },
+        {
+          "startUid": "u3435",
+          "endUid": "u3485",
+          "quote": "DM: You manage to get another, um, uh, another like 45 miles by nightfall. Um, or I guess this is a little bit into the night now. Um, but until you sort of get tired. Uh, and you, as you sort of come to a, a place where you need to rest the camp, you can see, um, on the south it's... Like, you've got to an area that's actually now about 250 mile, 250... We're halfway.\n\nKenzo: Four days, that's pretty good.\n\nDM: About 255 miles from Chardon. You come to an area that is now actually desolate. Like, you haven't seen... You realize that since the sunset you haven't seen anybody on the road.\n\nKenzo: Mm.\n\nDM: Um, and you can see across the river, on the south side of the river, um, there are like the whole area, there's like a strip maybe 100 feet wide that's been stretched, stretching for at least the last quarter mile that's just, everything's just completely dead.\n\nKenzo: Oh.\n\nDM: Just like mist sort of ha- And you, sort of creeps up on you that this is on the other side of the river. Like, you've been... It's getting dark and you've just been riding.\n\nKenzo: Are we, we on the south side of the river?\n\nDM: The road is on the north side.\n\nDelwath: Oh, okay. So we would have crossed the river at some point.\n\nDM: You would have crossed the river to follow the road. Yeah, yeah, yeah. Um, the... Like, it just sort of creeps up on you that, wait a minute, it's really quiet. There's nobody on the road.\n\nAnd then wait a minute, there's this, like, strange mist clinging to the land across the river, and it's all dead. But it's just a mi- It's like 100 feet. Like, there's trees growing right along the river, and then you go up the riverbank and then there's just this, like, bare patch of-\n\nKenzo: How big is the patch?\n\nDM: About 100 feet wide.\n\nKenzo: Just 100 feet wide?\n\nDM: Yep.\n\nKenzo: Sh-\n\nDM: And it's, and you, you come, you, you sort of reach the end of the horse's endurance after traveling along this river for-\n\nKenzo: Is it in front of me or is it across the river?\n\nDM: No, it's across the river.\n\nKenzo: Okay. On the south side.\n\nDM: On the south side. It's 5:00 PM.\n\nKenzo: Um, and I've been riding for how long?\n\nDM: About nine hours.\n\nKenzo: So it's about time to rest.\n\nDM: Yeah. I mean, you might be able to push the horses a bit more, but, um.\n\nKenzo: Eh, I don't know. Let's just get everybody out of the mirror and have a peek at this little weird thing over here, too."
+        }
+      ],
+      "from": "p17",
+      "to": "p20",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Has crossed the river at some point to follow the north-bank road; the precise crossing is not identified."
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "observation",
+      "source": {
+        "startUid": "u3450",
+        "endUid": "u3479"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "From the north-bank road sees the barren, misty strip across the river; does not cross into or investigate it.",
+      "evidence": [
+        {
+          "startUid": "u3450",
+          "endUid": "u3479",
+          "quote": "DM: Um, and you can see across the river, on the south side of the river, um, there are like the whole area, there's like a strip maybe 100 feet wide that's been stretched, stretching for at least the last quarter mile that's just, everything's just completely dead.\n\nKenzo: Oh.\n\nDM: Just like mist sort of ha- And you, sort of creeps up on you that this is on the other side of the river. Like, you've been... It's getting dark and you've just been riding.\n\nKenzo: Are we, we on the south side of the river?\n\nDM: The road is on the north side.\n\nDelwath: Oh, okay. So we would have crossed the river at some point.\n\nDM: You would have crossed the river to follow the road. Yeah, yeah, yeah. Um, the... Like, it just sort of creeps up on you that, wait a minute, it's really quiet. There's nobody on the road.\n\nAnd then wait a minute, there's this, like, strange mist clinging to the land across the river, and it's all dead. But it's just a mi- It's like 100 feet. Like, there's trees growing right along the river, and then you go up the riverbank and then there's just this, like, bare patch of-\n\nKenzo: How big is the patch?\n\nDM: About 100 feet wide.\n\nKenzo: Just 100 feet wide?\n\nDM: Yep.\n\nKenzo: Sh-\n\nDM: And it's, and you, you come, you, you sort of reach the end of the horse's endurance after traveling along this river for-\n\nKenzo: Is it in front of me or is it across the river?\n\nDM: No, it's across the river.\n\nKenzo: Okay. On the south side.\n\nDM: On the south side. It's 5:00 PM."
+        }
+      ],
+      "place": "p21",
+      "mode": "local",
+      "observerPlace": "p20"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u3485",
+        "endUid": "u3498"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The other companions emerge from the mirror beside Kenzo; Delwath applies the invisibility protocol.",
+      "evidence": [
+        {
+          "startUid": "u3485",
+          "endUid": "u3498",
+          "quote": "Kenzo: Eh, I don't know. Let's just get everybody out of the mirror and have a peek at this little weird thing over here, too.\n\nDM: Okay.\n\nKenzo: So making progress, but, um, I don't know what the hell that is over there. Visibility? Do we always do visibility with what I think- Yes, yes. Protocol.\n\nDelwath: Protocol.\n\nKenzo: Protocol.\n\nDelwath: Right. Delwath comes out first, and then invisibles everybody as they come out.\n\nKenzo: Protocol.\n\nDelwath: Actually, I have to wait till we're all out, then. That's all."
+        }
+      ],
+      "from": "p07",
+      "to": "p20",
+      "completion": "arrived"
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u3981",
+        "endUid": "u4100"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the first dog confrontation, rides for an hour into farmland while pursued, then chooses an unoccupied roadside spot for an ambush.",
+      "evidence": [
+        {
+          "startUid": "u3981",
+          "endUid": "u3998",
+          "quote": "Delwath: Okay. For the hour of the driftglobe, but we're probably galloping at a horse. You...\n\nDM: Yeah, you're just going at a normal, normal fast pace. You get up there another four miles. After about another first half mile or so, the weird mists and dead zone of the other bank end, and slowly you get back to something that's more farmlandy, but the howls of these dogs are still following you.\n\nKenzo: After how long?\n\nDM: For the full hour. They're trailing about 300 feet behind you, but, but you can see them, you can hear them barking.\n\nKenzo: Aren't we, like, near villages and shit?\n\nDM: Yeah, like, people are, like, barring their doors and, like, everybody's waking up and, like, some, you know, you pass through a farm with this giant globe of sunlight.\n\nUnknown: [laughs]\n\nDM: Somebody's like, \"Lights out,\" hears the barking, then slams their shutters. Yeah, you're, you're passing back into farmland, for sure. Pastures, there's, like, cattle."
+        },
+        {
+          "startUid": "u4091",
+          "endUid": "u4100",
+          "quote": "Kenzo: Let's do it.\n\nDM: Okay.\n\nKenzo: So we go to a place where there's no villagers nearby, no people who can get harmed.\n\nDelwath: Yeah, I mean, so you ride up a little bit. You, um... We're gonna form, like... I'm gonna, I'm gonna, while I'm, while we're here, since I'm guessing we're gonna be resting, not gonna save this spot."
+        }
+      ],
+      "from": "p20",
+      "to": "p22",
+      "completion": "arrived",
+      "mode": "ride",
+      "distance": {
+        "value": 4,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s distance during the hour-long escape"
+      },
+      "note": "The first half mile leaves the dead zone behind. The dogs continue following; leaving the scar is not the end of the pursuit."
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u4933",
+        "endUid": "u5020"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Tracks down the frightened horses after the ambush; the source resolves their recovery but does not specify a precise return point.",
+      "evidence": [
+        {
+          "startUid": "u4933",
+          "endUid": "u4956",
+          "quote": "Delwath: Um, we should go find our lost horses. Yeah.\n\nDM: I want to scout the surroundings.\n\nKenzo: Okay. The shadows are scary.\n\nDM: Yeah, when the dive is here.\n\nWellby: Oh, were those—\n\nDelwath: Shadows?\n\nDM: Um, make, um-\n\nDelwath: Arcana? ... survival.\n\nDM: Well, yeah, arcana check if you wanna know what they are. Survival to find your horses.\n\nDelwath: 20.\n\nSeeker: Rolled a 16 and then it's plus eight, I think, so it's 24.\n\nDM: For arcana?\n\nKenzo: Yeah. 19 plus 13.\n\nSeeker: Oh, no, it's, it's plus 13. Yeah.\n\nDelwath: Why, why does Delwath try? 29. [laughs] I rolled a six. Uh, you rolled well too, actually.\n\nKenzo: I got a 20.\n\nDM: Okay.\n\nKenzo: Um, Wellby, are you tracking the horses?\n\nWellby: I definitely am. I have to get back my driftglobe."
+        },
+        {
+          "startUid": "u4989",
+          "endUid": "u4994",
+          "quote": "DM: ... it's dark, although you have the daylight spell, it takes you most of the next hour to track down the horses. Um, and one of them has, um... It's not, uh, it, it ha- it's not completely lame, but it has definitely g- injured itself in the, in the, uh, in its flight in the dark from these, uh, from these dogs, and won't be able to maintain a gallop for as long as the rest."
+        },
+        {
+          "startUid": "u5018",
+          "endUid": "u5020",
+          "quote": "DM: So you, by the time you've gathered up the horses, it's five.\n\nKenzo: Fuck, let's roll it up. Three, five, eight.\n\nDM: Heal him and the horse, and that's all we need."
+        }
+      ],
+      "from": "p22",
+      "to": null,
+      "completion": "uncertain",
+      "mode": "walk"
+    },
+    {
+      "id": "l26",
+      "type": "movement",
+      "source": {
+        "startUid": "u5129",
+        "endUid": "u5191"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Resumes riding on the fifth day, slowed by another injured horse, and reaches the evening stop where Wellby takes over.",
+      "evidence": [
+        {
+          "startUid": "u5129",
+          "endUid": "u5171",
+          "quote": "DM: Yeah. Yeah, you're-- So you've left it well behind at this point. So if you're-- So you're starting, you're not getting a super early start this morning if you're trying to get your long rest in and everything. So starting at eight AM. Well, if Seeker's having terrible nightmares, might as well just get started early. It's four hours, right? But Seeker doesn't wake up. Yeah. He's still out.\n\nSo Kenzo is— Everybody hops in the mirror, and Kenzo starts riding [crosstalk]\n\nKenzo: Seven plus...\n\nDM: Um. You start- Ten. Ten total? Yeah. You start riding at a gallop, but the road is-- You know, whether it was your rough night the night before, the horses are just-- You've pushed them too hard, or you, um, you know, fed them the wrong thing. After the first couple of hours of the gallop, um, one of-- one horse, uh, throws a leg again, sprains a-- badly sprains its leg. Um, can basically can hardly move. Just a very slow walk. And the other horses just seem tired and uncooperative and-\n\nKenzo: Keep rolling back in the saddle. Yeah.\n\nDM: Maybe it's just not as, uh- Some aftereffect of the fear, or maybe it's that these are just not quite as robust horses as, um, the ones you got last night, or maybe they also didn't sleep well. But, um, it's tough going, and by, um, midday you've, you've, uh, not made more than 14, sorry, s- made about 16, 16 miles by, by, you know, 1:00 PM or so, by noon, say. The noon. Yeah. Um, and, you know, even taking some time to, to tend to the, um, the injured horse, you know, by, by evening, you know, you just have not been a fast day. You've made about 30 miles by 6:00 PM."
+        },
+        {
+          "startUid": "u5172",
+          "endUid": "u5191",
+          "quote": "Kenzo: All right. We know, we know what we gotta do.\n\nDM: Uh, and that puts you, I mean, that still puts you more than 300 miles from, uh, from Chardon and your, your... Still making progress. You have, you know, less than 12 and a half left. Um, but it's been a, it's just been a tough, hard day.\n\nKenzo: Yeah, Kenzo is, uh, ready to get Wellby back in the saddle.\n\nDelwath: You gonna keep riding into the night?\n\nKenzo: Um. Right, so different.\n\nWellby: So you're gonna, Kenzo—\n\nDM: Swaps out.\n\nKenzo: Yeah.\n\nDM: Puts Wellby in. Okay, Wellby, making him check. Take a few hours to-"
+        }
+      ],
+      "from": "p22",
+      "to": "p23",
+      "completion": "arrived",
+      "mode": "ride",
+      "distance": {
+        "value": 30,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s fifth-day distance by 6 p.m."
+      }
+    },
+    {
+      "id": "l27",
+      "type": "observation",
+      "source": {
+        "startUid": "u5205",
+        "endUid": "u5279"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scries Sura reading prayers in her tent and receiving a messenger’s report about an unresolved petrification.",
+      "evidence": [
+        {
+          "startUid": "u5205",
+          "endUid": "u5279",
+          "quote": "DM: Well, it's not middle of the day. It's like evening. Um, uh, Sura is sitting in a tent. Um, a, uh, pretty substantial, elaborate tent. You can't see her in it because she's inside the tent. It looks like, uh, it's like a big, you know, there's like room for eight people or something. Um, and she is, um, uh, sh- she is currently, um, it looks like she's waiting for, uh, for somebody. She is, um, flipping through, um, a prayer book, like a, a book of daily, of daily prayers.\n\nUm, about five minutes into the scry, she looks up and you see a, um, uh, a messenger come in. Um, he's been, uh, looks like he's been, um, riding hard. He's tired. And Sura looks up. When she looks up, she looks concerned and anxious to see this, this messenger. And she says, uh, \"Any word? Can, can anybody at the... Does anybody seem to know what to do?\" Uh, and the messenger, they, they talk for a moment, and the messenger says, um, \"I rode all the way to Tokra. But the walking ones are not sure how to turn something back from stone. I don't know how you think you can be stopped from that.\"\n\nSeeker: Who's been turned to stone?\n\nDM: Well, what do you say?\n\nKenzo: Uh, what?\n\nDM: What turned Tokra to stone?\n\nWellby: The person.\n\nDM: She, um, uh-\n\nWellby: Looses back a message, she says.\n\nDM: No, she, she keeps, she, she's positive. \"I will continue to pray. Uh, let me, let me see that she... There is no...\" Why would the sword do that?\n\nSeeker: Sword did that.\n\nDM: Do we know what sword did?\n\nSeeker: Wait, what sword did we give?\n\nDM: Uh- The sword we took from Agata.\n\nDelwath: We told him where it came from.\n\nSeeker: But it has some...\n\nWellby: It's like a reptile or something.\n\nDM: Yes. Identified it.\n\nSeeker: It will do.\n\nDM: Identified as an agathis. Ugh. That's pretty funny. [laughs] So that's totally Agata. Um, with some ease. [laughs] She, she says, uh, the, that, uh, the messenger says that man Govir at the archives was very helpful, he said. He will look, but until we know more, I'm not sure that—\n\nSeeker: Who can remove curses? Or is it just dispel magic?\n\nDM: No, it can remove curses.\n\nKenzo: Done with.\n\nDM: Great.\n\nSeeker: Over. [laughs]\n\nDM: Of course. And then the scry ends."
+        }
+      ],
+      "place": "p24",
+      "mode": "remote",
+      "observerPlace": "p23",
+      "observedActors": [
+        "Sura",
+        "Sura’s returning messenger"
+      ]
+    },
+    {
+      "id": "l28",
+      "type": "observation",
+      "source": {
+        "startUid": "u5288",
+        "endUid": "u5350"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scries Kadmos dining by an unidentified road with Casian, Antonia and Hektor; Kadmos looks at the sensor and displays the spinning top.",
+      "evidence": [
+        {
+          "startUid": "u5288",
+          "endUid": "u5302",
+          "quote": "DM: Kadmos is, um, sitting on a road, uh, making dinner, talking to, or sitting with, um, uh, Casian, uh, Antonia. And Hektor. But that should do. And he's, he's sitting a little bit apart from them, and he is like, is just kind of staring at the three, at the three paintings. Seems almost like he's watching them. It's always, it's like constantly sort of looking at them.\n\nAnd then he looks up, and stares right at you."
+        },
+        {
+          "startUid": "u5315",
+          "endUid": "u5332",
+          "quote": "DM: ... he just looks, and then he, he reaches into his bag, and he holds up the top in his hand, closes his eyes, and then just looks at them, and it continues to spin. And he opens his eyes and he says, \"You should have this now.\" And he puts it down. Puts it down at a distance.\n\nSeeker: So he's saying, \"I know it's you.\"\n\nDM: It's a joke. Well, of course he doesn't know actually that it's us, right? He's guessing.\n\nKenzo: Accurately.\n\nDM: Maybe he's said this to, like, four other people who have scryed him, but no idea.\n\nKenzo: [laughs] They're like scrying him. Yes, I guess.\n\nDM: He's just, he's just saving this line for every time he sees a scry detector. Man, permanent see invisibility is really useful."
+        },
+        {
+          "startUid": "u5347",
+          "endUid": "u5350",
+          "quote": "DM: Oh, wait. Sorry, I forgot.\n\nDelwath: Wow.\n\nDM: Um, that ends your scry. It's, like, uh, 6:00 PM. What's your plan?"
+        }
+      ],
+      "place": "p25",
+      "mode": "remote",
+      "observerPlace": "p23",
+      "observedActors": [
+        "Kadmos",
+        "Casian",
+        "Antonia",
+        "Hektor"
+      ]
+    },
+    {
+      "id": "l29",
+      "type": "movement",
+      "source": {
+        "startUid": "u5349",
+        "endUid": "u5463"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Takes over the evening ride and stops around midnight at a sheltered pasture camp in still-settled farmland.",
+      "evidence": [
+        {
+          "startUid": "u5349",
+          "endUid": "u5370",
+          "quote": "DM: Um, that ends your scry. It's, like, uh, 6:00 PM. What's your plan?\n\nDelwath: Wellby's gonna keep riding.\n\nDM: Yeah.\n\nDelwath: He made a good mention.\n\nDM: So, of course, he's got a second wind after a couple hour break.\n\nDelwath: Um, you're able to keep going till about—\n\nDM: Um, past midnight.\n\nDelwath: Is it still super populated with farmland or has it gotten more-\n\nDM: It's still super, it's still quite populated with farmland. Make a constitution check.\n\nWellby: 13.\n\nDM: Um, uh, you can make it to about midnight, but you get the sense, you get the feeling if you, if you try and go any further you're gonna be, wipe yourself out tonight. You didn't sleep. You didn't take a long rest last night. Is it just- Right, right, right. So you're, you're running, running pretty ragged at this point.\n\nWellby: All right. Let's camp, long rest, and then I'll double up the next two days.\n\nDM: We're about 310 miles or something like that. You've got another, like, four hours of game, but not in a super fast pace 'cause-"
+        },
+        {
+          "startUid": "u5442",
+          "endUid": "u5463",
+          "quote": "DM: No, but... Uh, so you set camp. Yeah, at something like midnight-ish. Um, it is still, uh, it is still quite, um, it's still quite, um, uh, it's still quite settled here, so, but you've been, like, usually finding... I mean, everything is, um, there's, like, a lot of pastures. There's, uh, you know, oftentimes you can find a corner of a pasture with some t- you know, there's all these, like, little stands of wood lots, right? Some people, you know, will have, like, pastures, fields, and then, like, little wood lots. So you usually will be able to find, um, a, a place to camp, um, with some trees, like, a little bit sheltered. And tonight is, you know, no exception.\n\nUm... Get that. Uh, yeah. Um, you, so you set your camp. And who's, so who's sleeping again? I think everybody's, everybody's sleeping. I'm just keeping watch."
+        }
+      ],
+      "from": "p23",
+      "to": "p26",
+      "completion": "arrived",
+      "mode": "ride",
+      "note": "The table gives an approximate total of 310 miles here; no exact leg distance is inferred from that rough total."
+    },
+    {
+      "id": "l30",
+      "type": "presence",
+      "source": {
+        "startUid": "u5442",
+        "endUid": "u5474"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The reunited party camps in a sheltered pasture with scattered trees; Wellby takes the first watch while the others sleep.",
+      "evidence": [
+        {
+          "startUid": "u5442",
+          "endUid": "u5474",
+          "quote": "DM: No, but... Uh, so you set camp. Yeah, at something like midnight-ish. Um, it is still, uh, it is still quite, um, it's still quite, um, uh, it's still quite settled here, so, but you've been, like, usually finding... I mean, everything is, um, there's, like, a lot of pastures. There's, uh, you know, oftentimes you can find a corner of a pasture with some t- you know, there's all these, like, little stands of wood lots, right? Some people, you know, will have, like, pastures, fields, and then, like, little wood lots. So you usually will be able to find, um, a, a place to camp, um, with some trees, like, a little bit sheltered. And tonight is, you know, no exception.\n\nUm... Get that. Uh, yeah. Um, you, so you set your camp. And who's, so who's sleeping again? I think everybody's, everybody's sleeping. I'm just keeping watch.\n\nDelwath: Well, we, normal watch schedule.\n\nDM: Um...\n\nDelwath: But whoever's awake for the watch will dream bowl.\n\nWellby: You can only dream bowl one sleeper.\n\nDelwath: Yeah, but I think Seeker now, because he needs the rest the most.\n\nDM: Okay. Uh, so you, who's taking first watch? Okay, so everybody's, everybody's sleeping but Wellby. Um, Seeker and Kenzo make wisdom checks, please."
+        }
+      ],
+      "place": "p26"
+    }
+  ]
+}
