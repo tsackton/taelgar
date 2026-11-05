@@ -1,0 +1,1070 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-001",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-session.yaml",
+    "sessionYamlSha256": "971a2615c4eb8256f2487a10a090566cb674018e8312c875c0a373bb5217c44f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-transcript.md",
+    "transcriptSha256": "b8309f0157d02801b49c283853d385097f54a2b7f8852c4794e8a573b623c8a4"
+  },
+  "places": {
+    "p01": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0026",
+          "quote": "As you approach Karawa, the first thing you see from a distance in the morning light is a red sandstone mesa standing above the rocky desert ground."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p02": {
+      "label": "Northeastern village edge",
+      "kind": "village outskirts",
+      "evidence": [
+        {
+          "startUid": "u1018",
+          "endUid": "u1019",
+          "quote": "This is like... This is the tavern here, the caravanserai with the courtyard and where sort of, uh, merchant stalls and stuff. This is, like, the edge of the village, basically."
+        },
+        {
+          "startUid": "u1973",
+          "endUid": "u1979",
+          "quote": "like, but, you know, this is pretty much the edge of town."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1972",
+              "endUid": "u1979",
+              "quote": "the topography of the town is such that if they had come straight from out, you know, if they had come from due east, basically, the first, and just came across the desert, the first place in the town they would've hit would've been this."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Teahouse and front awning",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1065",
+          "endUid": "u1071",
+          "quote": "... who works there, um, uh, didn't, would not have run away. She's sort of hiding behind, um, some chairs and a table in the, in the tea room."
+        },
+        {
+          "startUid": "u1375",
+          "endUid": "u1383",
+          "quote": "There's a... I mean, looking around, yes, you would see, I mean, there's, like, under the awn- So there's this awning in front of this tearoom, and under the awning there would be a few chairs."
+        }
+      ],
+      "note": "Initial seating is explicitly under the awning; later speech describes the same meeting as inside the teahouse. The shared site is retained without inventing an interior transition.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0103",
+              "endUid": "u0106",
+              "quote": "Um, your lodging is at the edge of town, near the sprawling caravanserai that serves as, um, a marketplace and social center for travelers, and the place where you shop and, you know, um, a sort of trading area."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Caravanserai",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0032",
+          "quote": "A bustling tavern caravanserai stands on the outskirts of town."
+        },
+        {
+          "startUid": "u2031",
+          "endUid": "u2039",
+          "quote": "There's just one tavern."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Ikram's.md",
+      "note": "The Ikram's note identifies the establishment; its later rebuilt building is not imported into this session.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0027",
+              "endUid": "u0032",
+              "quote": "A bustling tavern caravanserai stands on the outskirts of town."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Red sandstone mesa",
+      "kind": "mesa",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0026",
+          "quote": "A temple is carved into the side of the mesa, and extends from it."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0084",
+              "endUid": "u0087",
+              "quote": "the red cliffs of the mesa to the south of town."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Temple of Shakun",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0043",
+          "endUid": "u0043",
+          "quote": "Uh, yeah, the Temple of Shakun is what you're looking for."
+        },
+        {
+          "startUid": "u0084",
+          "endUid": "u0087",
+          "quote": "while to the south stands the imposing edifice of the Temple of Shakun, partially carved into the red cliffs of the mesa to the south of town."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2009",
+              "endUid": "u2010",
+              "quote": "you're sort of at the northeast side of town, and the temple is the southeast- South center of town,"
+            }
+          ]
+        },
+        {
+          "relation": "partly_within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0084",
+              "endUid": "u0087",
+              "quote": "while to the south stands the imposing edifice of the Temple of Shakun, partially carved into the red cliffs of the mesa to the south of town."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Temple exterior",
+      "kind": "temple surroundings",
+      "evidence": [
+        {
+          "startUid": "u2250",
+          "endUid": "u2252",
+          "quote": "Well, I'm not sure about that, actually. I didn't go inside. The convergence is, is surely inside of the mesa itself."
+        }
+      ],
+      "note": "Seeker explicitly says he did not go inside the temple.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2009",
+              "endUid": "u2010",
+              "quote": "the temple is the southeast- South center of town,"
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2247",
+              "endUid": "u2252",
+              "quote": "Well, I'm not sure about that, actually. I didn't go inside. The convergence is, is surely inside of the mesa itself."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Scrub desert northeast of Karawa",
+      "kind": "terrain",
+      "evidence": [
+        {
+          "startUid": "u2332",
+          "endUid": "u2333",
+          "quote": "You have ink and maps. Um, you head off into the, sort of into the, um, desert, heading sort of east, slightly north of east."
+        },
+        {
+          "startUid": "u2347",
+          "endUid": "u2352",
+          "quote": "So the, the desert here is mostly sort of, uh, you know, s- sort of scrubby plants, thorn bushes, the, you know, the occasional, like, um, rocky boulder cliff, uh- Lots of, lots of stuff in bloom. It's been a relatively wet winter, and so, um, the, the plants are thriving. Like, you even see some, some patches that almost look green."
+        }
+      ]
+    },
+    "p09": {
+      "label": "Rocky canyon lands",
+      "kind": "terrain",
+      "evidence": [
+        {
+          "startUid": "u2390",
+          "endUid": "u2396",
+          "quote": "Uh, you can look, you can certainly look around. You can, and make another survival check, but it can, it's, it's like, uh, you've gone from a kind of, um, uh, you've, you've gone from a, um, a desert area that's mostly, like, scrub and rock and sand to basically one that's hard rock, and, um, extending into sort of in the distance, you see... I mean, the rock continues for a while. It's not like a, like a, a, a rock outcropping with sand on the other side. It's like you're coming, uh, it's like the terrain is shifting."
+        },
+        {
+          "startUid": "u2555",
+          "endUid": "u2557",
+          "quote": "The... It's almost as if you're entering more of a, almost, like, more of a badlands than a, um, than a desert, right? It's like little canyons, like little, like, you know, more kind of ru- not rubble exactly, but, like, rock formations. Like, um, it's very pretty."
+        }
+      ]
+    },
+    "p10": {
+      "label": "Box canyon",
+      "kind": "canyon",
+      "evidence": [
+        {
+          "startUid": "u2690",
+          "endUid": "u2692",
+          "quote": "So you climb up to the top and, um, so you're, you've sort of found your way into this sort of box canyon. You managed to climb up to the top of the canyon, and also, um, sort of there's one kind of lower wall and one higher wall, and you're climbed up the top of the higher wall, and there's sort of a loose stone hill on top of that which you can scramble on top of."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2606",
+              "endUid": "u2610",
+              "quote": "So, so you sort of, m- uh, ended up, uh, kind of, sort of almost down in like these little sort of canyon land areas."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "High canyon wall and lookout hill",
+      "kind": "lookout",
+      "evidence": [
+        {
+          "startUid": "u2690",
+          "endUid": "u2692",
+          "quote": "So you climb up to the top and, um, so you're, you've sort of found your way into this sort of box canyon. You managed to climb up to the top of the canyon, and also, um, sort of there's one kind of lower wall and one higher wall, and you're climbed up the top of the higher wall, and there's sort of a loose stone hill on top of that which you can scramble on top of."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2690",
+              "endUid": "u2692",
+              "quote": "You managed to climb up to the top of the canyon, and also, um, sort of there's one kind of lower wall and one higher wall, and you're climbed up the top of the higher wall, and there's sort of a loose stone hill on top of that which you can scramble on top of."
+            }
+          ]
+        },
+        {
+          "relation": "above",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2690",
+              "endUid": "u2692",
+              "quote": "You managed to climb up to the top of the canyon,"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Distant eastern canyon",
+      "kind": "canyon",
+      "evidence": [
+        {
+          "startUid": "u2703",
+          "endUid": "u2708",
+          "quote": "It's a little less obvious what's to the east. Like, this sort of, um, canyon land seems to, seems to carry on for a distance and it, um, some ways ahead, considerably further than the mesa of the village is from your current vantage point, um, you can see just the sort of shadow of what looks like a much deeper canyon sort of cutting through the... Not like Grand Canyon in scale, but that kind of style, right? Like a river valley type canyon cutting through the terrain, and beyond it's all sort of hazy and misty."
+        },
+        {
+          "startUid": "u2950",
+          "endUid": "u2953",
+          "quote": "So the road'll take you straight to Gomat, and, and from there, um, there's not a, there's not a way across the canyon that I know of. The road sort of ends. But certainly it'll take you to the canyon. I've been as far as that before."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Daraar Canyon.md",
+      "note": "The Gomat note identifies the canyon east of the oasis as Daraar Canyon. The session does not name it or establish its origin; no visit is recorded."
+    },
+    "p13": {
+      "label": "Old trade road — meeting with Alesh",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u2942",
+          "endUid": "u2947",
+          "quote": "Yeah, just follow the road east. You're now... I mean, you're on this ancient, this sort of old trade road where you can see occasionally, like, um, it's mostly just a track kind of kicked up through the, you know, s- through the sand, but every now and then there's, like, a paving stone or a, um, you know, kind of a, a little bit of ancient history suggesting that it's, um, uh, you know, uh... Uh, you can sort of, you can sense, you can sort of see the history of the road."
+        }
+      ]
+    },
+    "p14": {
+      "label": "Sheltered roadside camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u3173",
+          "endUid": "u3174",
+          "quote": "You spend a cold, quiet night, um, sheltered off the road, long resting so you all get your spell slots back and everything, and your, get your charges back for your, the thing we were talking about earlier, Eric."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u3173",
+              "endUid": "u3174",
+              "quote": "You spend a cold, quiet night, um, sheltered off the road,"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Gomat Oasis",
+      "kind": "oasis",
+      "evidence": [
+        {
+          "startUid": "u2771",
+          "endUid": "u2772",
+          "quote": "You know, you would have heard people talking about the Gomat Oasis, which is kind of north and east of the town on the old trade road. So there used to be, uh, of course, lots of roads going through Dunmar."
+        },
+        {
+          "startUid": "u3117",
+          "endUid": "u3127",
+          "quote": "There's, just to be clear, there's not a town there. It's like, it's, it's not a built-up oasis like Karawa."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Gomat.md"
+    },
+    "p16": {
+      "label": "Delwath’s room above the teahouse",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0116",
+          "endUid": "u0119",
+          "quote": "And this is on your mind as you prepare for the day, um, above the, in your room above the teahouse, when you hear out the window cries of \"Help! Help!\" and \"Somebody get the elf!\" And that is where we'll leave."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2071",
+              "endUid": "u2072",
+              "quote": "My, my rooms are above this tea house."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0080",
+              "endUid": "u0083",
+              "quote": "In the past few months, you've settled into a routine in the village."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0037"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Descends toward the caravanserai and reaches the village-edge attack.",
+      "evidence": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0032",
+          "quote": "you start to head down in towards town, uh, heading down, uh, towards the caravanserai to find a room for the night, thinking about what this might mean."
+        },
+        {
+          "startUid": "u0233",
+          "endUid": "u0240",
+          "quote": "as you all look down, running out of the, um, your respective inns and homes and, uh, down the hill,"
+        },
+        {
+          "startUid": "u0630",
+          "endUid": "u0633",
+          "quote": "rush over to the, the nearest h- hyena out in this clearing, and he strikes at him with his staff."
+        }
+      ],
+      "from": null,
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0116",
+        "endUid": "u0119"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Prepares for the day in his room above the teahouse.",
+      "evidence": [
+        {
+          "startUid": "u0116",
+          "endUid": "u0119",
+          "quote": "And this is on your mind as you prepare for the day, um, above the, in your room above the teahouse, when you hear out the window cries of \"Help! Help!\" and \"Somebody get the elf!\" And that is where we'll leave."
+        }
+      ],
+      "place": "p16"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0277",
+        "endUid": "u0301"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Runs downstairs from his lodging and joins the defense at the village edge.",
+      "evidence": [
+        {
+          "startUid": "u0277",
+          "endUid": "u0279",
+          "quote": "Yeah. Uh, looking across, running down the steps, um, of one of these, uh, small, um, baked mud houses, you see Mike."
+        },
+        {
+          "startUid": "u0300",
+          "endUid": "u0301",
+          "quote": "Um, and then he's wearing a suit of, uh, chain mail. Sort of comes rushing up pr- looking prepared for, for a fight of some kind."
+        }
+      ],
+      "from": "p16",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0302",
+        "endUid": "u0316"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Emerge from the caravanserai courtyard into the attack.",
+      "evidence": [
+        {
+          "startUid": "u0302",
+          "endUid": "u0304",
+          "quote": "And across the way, emerging from the courtyard of the caravanserai, you see one of you, Schwartz and Eric. Eric, why don't you go first?"
+        },
+        {
+          "startUid": "u0306",
+          "endUid": "u0309",
+          "quote": "Um, a great big, uh, beard appears first, uh, blonde braided beard, uh, preceding, um, a scurrying, uh, scholarly looking dwarf who's, um, working on getting his, uh, short sword out of its sheath, uh, while with the other hand, um, consulting a small notebook, uh, and-"
+        },
+        {
+          "startUid": "u0313",
+          "endUid": "u0316",
+          "quote": "Next to him is a halfling also loosening his short sword in the sheath, uh, in a green coat and a wide brimmed hat. Uh, s- uh, sort of quick moving, uh, uh, diminutive figure, uh, deeply tanned, uh, starting to move faster towards the danger."
+        }
+      ],
+      "from": "p04",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1062",
+        "endUid": "u1080"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Carry the stabilized villager into the teahouse and leave him in Badya’s care.",
+      "evidence": [
+        {
+          "startUid": "u1072",
+          "endUid": "u1075",
+          "quote": "All right. Well, I'll g- I'll go in, I'll bring him into the, into the tea... So you, so everybody sees the elf basically pick up, uh, this injured guy and run into this building. Or, or not run, but, but carry him into this building."
+        },
+        {
+          "startUid": "u1076",
+          "endUid": "u1076",
+          "quote": "I'll follow you in since this is the guy I stabilized."
+        },
+        {
+          "startUid": "u1078",
+          "endUid": "u1080",
+          "quote": "Um, and I'll, I'll just get Badya's attention and, and just, um, find a place on the, um, you know, find a place in the tea room that I can, you know, put him down on a cushion or something and, and ask her to, to look after him, and you know, um, make sure he wakes up soon, and, and I'll be back."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1086",
+        "endUid": "u1118"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Return outside to join Kenzo and Seeker by the hyena bodies.",
+      "evidence": [
+        {
+          "startUid": "u1086",
+          "endUid": "u1088",
+          "quote": "She's probably surprised at that. Like, the first one was so bad already. Okay, so then you head out. So where... So everybody's, you're all now I guess kind of congregating near that fountain or something like that."
+        },
+        {
+          "startUid": "u1097",
+          "endUid": "u1104",
+          "quote": "but then I'll go back out, and then I'll kind of look around at whoever's out."
+        },
+        {
+          "startUid": "u1116",
+          "endUid": "u1118",
+          "quote": "So, I'm, I followed... When the elf grabbed my patient, very bad form to move a spine injury, first of all, elf. Uh, once I know that he's okay outside, [laughs] I'll go and, and see that that, that dude's stable inside and I'll come back out to gather with the rest of you again."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1386",
+        "endUid": "u1432"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Gather at the teahouse table, first under its awning; Delwath joins the other three.",
+      "evidence": [
+        {
+          "startUid": "u1375",
+          "endUid": "u1383",
+          "quote": "there's this awning in front of this tearoom, and under the awning there would be a few chairs."
+        },
+        {
+          "startUid": "u1392",
+          "endUid": "u1394",
+          "quote": "I find a table of that. I find a table like that where there's like some, some, you know, half eaten food and like some drink or whatever, and I sit down [laughs] and start, I just start helping myself to some breakfast as I, as I'm like, just like, kind of like keeled over on the staff, like still wounded, but, but, you know, just starting to eat something."
+        },
+        {
+          "startUid": "u1398",
+          "endUid": "u1398",
+          "quote": "I join you at the table and, uh, and, um, pull out a little notebook and start, uh, sketching a, a star shaped diagram."
+        },
+        {
+          "startUid": "u1400",
+          "endUid": "u1400",
+          "quote": "I grab a pot of tea and a tea cup off, off some other abandoned table and join you in a sip."
+        },
+        {
+          "startUid": "u1424",
+          "endUid": "u1426",
+          "quote": "Just as you're saying that, the elf walks in. Okay. [laughs] I'm holding up a- And sort of perks up at that statement a bit, um, and sort of glances over."
+        },
+        {
+          "startUid": "u1430",
+          "endUid": "u1432",
+          "quote": "Um, and he comes in and he like s- sits, he goes to sit down and he like clears off the table, is like, \"Let's, let's be civilized, folks. We could eat some fresh food.\""
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2046",
+        "endUid": "u2047"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Makes a solo outing to the temple exterior and returns to the teahouse; he does not enter the temple.",
+      "evidence": [
+        {
+          "startUid": "u2046",
+          "endUid": "u2047",
+          "quote": "Okay. I mean, yeah, okay. So, uh, Seeker's gonna go look at the temple."
+        },
+        {
+          "startUid": "u2214",
+          "endUid": "u2214",
+          "quote": "Okay, so I come, uh, hustling back, panting a little bit, and, um, stuffing scrolls back into a s- scroll case."
+        },
+        {
+          "startUid": "u2243",
+          "endUid": "u2244",
+          "quote": "Okay, so you're all returning back to the, to the tea house."
+        },
+        {
+          "startUid": "u2247",
+          "endUid": "u2252",
+          "quote": "Well, I'm not sure about that, actually. I didn't go inside. The convergence is, is surely inside of the mesa itself."
+        }
+      ],
+      "from": "p03",
+      "to": "p03",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p07",
+          "reading": "Examines the temple from outside before returning."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2056",
+        "endUid": "u2057"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Gets a room at the caravanserai across the street, then returns to Delwath’s teahouse table.",
+      "evidence": [
+        {
+          "startUid": "u2034",
+          "endUid": "u2039",
+          "quote": "It's across the street."
+        },
+        {
+          "startUid": "u2056",
+          "endUid": "u2057",
+          "quote": "Kenzo goes, uh, Kenzo goes, makes friends with the, the, uh, uh, the tavern owner, and, um, you know, explains he might be here for a little while. Gets a room."
+        },
+        {
+          "startUid": "u2081",
+          "endUid": "u2089",
+          "quote": "Yeah, I'm sitting here. Like, you come back, he's just... I'm not sleeping or anything."
+        },
+        {
+          "startUid": "u2243",
+          "endUid": "u2244",
+          "quote": "Okay, so you're all returning back to the, to the tea house."
+        }
+      ],
+      "from": "p03",
+      "to": "p03",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Obtains lodging at the caravanserai."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u2247",
+        "endUid": "u2257"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Reports sensing a ley-line convergence inside the mesa and a concentration of valuable stone while remaining outside.",
+      "evidence": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2257",
+          "quote": "Well, I'm not sure about that, actually. I didn't go inside. The convergence is, is surely inside of the mesa itself."
+        },
+        {
+          "startUid": "u2253",
+          "endUid": "u2257",
+          "quote": "I did also notice, uh, that there's, uh, some kind of, uh, uh, concentration of valuable stone. Uh, but I, I, I couldn't, I couldn't quite pin down what it was. Something in there."
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p07",
+      "mode": "remote",
+      "note": "Retrospectively reported findings from Seeker’s just-completed outing, not a physical visit inside the mesa."
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2288",
+        "endUid": "u2366"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Find the tracks at the town edge and walk east-northeast through scrub desert until the terrain becomes hard rock.",
+      "evidence": [
+        {
+          "startUid": "u2292",
+          "endUid": "u2295",
+          "quote": "But the, um, you know, taking a sort of survey around the outskirts of town, just kind of following, um, back to, uh, where the, the... You can sort of see the entry point where they sort of came into the town. And, um, you do indeed see the tracks of two of these beasts, large, um, claw prints of something that matches what this, uh, what this beast must have been, um, heading to the east."
+        },
+        {
+          "startUid": "u2315",
+          "endUid": "u2315",
+          "quote": "Okay. So you set out of town, um, heading east into the desert."
+        },
+        {
+          "startUid": "u2332",
+          "endUid": "u2339",
+          "quote": "I assume you're walking. The horse is probably just carrying supplies."
+        },
+        {
+          "startUid": "u2361",
+          "endUid": "u2366",
+          "quote": "Um, until after about three, four hours travel, um, following these tracks, uh, the, the... You sort of climb up a little bit and get to a, a stretch of hard rock. And it's not entire- I mean, you can look around if you'd like, but the tracks which, um, were relatively straightforward to follow now seem to just kind of disappear into the rock."
+        }
+      ],
+      "from": "p03",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p02",
+          "reading": "Find the beasts’ entry tracks at the outskirts."
+        },
+        {
+          "place": "p08",
+          "reading": "Follow the tracks east-northeast across scrub and sand; do not reach the distant trade road yet."
+        }
+      ],
+      "duration": {
+        "min": 3,
+        "max": 4,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated travel to the hard-rock transition."
+      }
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2535",
+        "endUid": "u2599"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue through increasingly convoluted canyon lands and become turned around in a box canyon.",
+      "evidence": [
+        {
+          "startUid": "u2535",
+          "endUid": "u2537",
+          "quote": "So as this conversation is happening, you're still kind of s- heading across the hard stone desert, like, just kind of heading roughly northeast, hoping that you will s- see something kinda relevant to, that might help you find the trail again."
+        },
+        {
+          "startUid": "u2549",
+          "endUid": "u2557",
+          "quote": "the terrain is getting more, um, more sort of convoluted, and you occasionally see these, like, little slot canyons going off in sort of blind alleys."
+        },
+        {
+          "startUid": "u2598",
+          "endUid": "u2599",
+          "quote": "You now have been maybe going an hour into this rock, and you're pretty sure you could find your way back to the sort of sandy scrub desert, but you're starting to question yourself a little bit."
+        },
+        {
+          "startUid": "u2606",
+          "endUid": "u2610",
+          "quote": "Yeah, definitely. So, so you sort of, m- uh, ended up, uh, kind of, sort of almost down in like these little sort of canyon land areas. Um, you could definitely climb up. It would, uh... To get to the..."
+        },
+        {
+          "startUid": "u2690",
+          "endUid": "u2692",
+          "quote": "So you climb up to the top and, um, so you're, you've sort of found your way into this sort of box canyon."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Cumulative hour into the rocky terrain."
+      }
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2676",
+        "endUid": "u2692"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Climbs the rope to the higher canyon wall and lookout hill; the other three remain below.",
+      "evidence": [
+        {
+          "startUid": "u2676",
+          "endUid": "u2680",
+          "quote": "So you climb... So okay, so you're, like, climbing up the rope. Um, it's actually a lot harder to climb ropes than you, um, you know, that are just hooked on top. So make an athletics check just to climb the rope."
+        },
+        {
+          "startUid": "u2690",
+          "endUid": "u2692",
+          "quote": "So you climb up to the top and, um, so you're, you've sort of found your way into this sort of box canyon. You managed to climb up to the top of the canyon, and also, um, sort of there's one kind of lower wall and one higher wall, and you're climbed up the top of the higher wall, and there's sort of a loose stone hill on top of that which you can scramble on top of."
+        },
+        {
+          "startUid": "u2729",
+          "endUid": "u2731",
+          "quote": "Well, I'll shout back down to the three of you at the bottom of the canyon everything."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u2698",
+        "endUid": "u2708"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "From the lookout sees Karawa’s mesa and a deeper canyon far to the east, without entering either.",
+      "evidence": [
+        {
+          "startUid": "u2698",
+          "endUid": "u2702",
+          "quote": "And so from this perspective, like you can see the village in the distance. You can see the mesa anyway. The village itself is a little— Yeah. So it's like obvious how you get home."
+        },
+        {
+          "startUid": "u2703",
+          "endUid": "u2708",
+          "quote": "It's a little less obvious what's to the east. Like, this sort of, um, canyon land seems to, seems to carry on for a distance and it, um, some ways ahead, considerably further than the mesa of the village is from your current vantage point, um, you can see just the sort of shadow of what looks like a much deeper canyon sort of cutting through the... Not like Grand Canyon in scale, but that kind of style, right? Like a river valley type canyon cutting through the terrain, and beyond it's all sort of hazy and misty."
+        }
+      ],
+      "place": "p12",
+      "observerPlace": "p11",
+      "mode": "local",
+      "note": "Karawa’s mesa is also visible; the village itself is obscured. The eastern canyon’s nature remains uncertain."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2809",
+        "endUid": "u2817"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Reunite and head northwest out of the canyon lands across scrub desert to meet Alesh on the old trade road.",
+      "evidence": [
+        {
+          "startUid": "u2809",
+          "endUid": "u2810",
+          "quote": "Um, so you head sort of, now you're kind of heading northwest actually, um, because of the direction of travel of this, um, o- of this dust cloud, and kind of get back out of the canyon lands and, um, sort of head across the scrub desert."
+        },
+        {
+          "startUid": "u2814",
+          "endUid": "u2817",
+          "quote": "Um, it's a younger woman riding at a medium trot who kind of notices you coming and, um, pulls up, and kind of looks at you a bit strangely, s- keeping her distance, and, um, and h- and sort of hails you in Dunmari."
+        },
+        {
+          "startUid": "u2942",
+          "endUid": "u2947",
+          "quote": "Yeah, just follow the road east. You're now... I mean, you're on this ancient, this sort of old trade road where you can see occasionally, like, um, it's mostly just a track kind of kicked up through the, you know, s- through the sand, but every now and then there's, like, a paving stone or a, um, you know, kind of a, a little bit of ancient history suggesting that it's, um, uh, you know, uh... Uh, you can sort of, you can sense, you can sort of see the history of the road."
+        }
+      ],
+      "from": "p10",
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p08",
+          "reading": "Cross the scrub desert after leaving the canyon lands."
+        }
+      ],
+      "note": "Wellby’s descent is compressed into the accepted group departure; no separate climbing event or duration is supplied."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u3158",
+        "endUid": "u3172"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the old road toward Gomat through a recently cleared passage in the canyon lands, with an overnight stop; end close to the oasis rather than inside its camp.",
+      "evidence": [
+        {
+          "startUid": "u3158",
+          "endUid": "u3165",
+          "quote": "Cool. Okay. So, um, you set out, uh, heading towards the oasis, following the road. As you, as you travel, you can s- you get a sense of the, the sort of history of this place and how violent the cataclysms were that, that shook this land, as every now and then you'll see, you know, a stretch of, of, you know, stone tile that's not cracked, but a large stone paver that's just tilted straight upright, sitting vertical in the sand."
+        },
+        {
+          "startUid": "u3166",
+          "endUid": "u3172",
+          "quote": "when you come to the, um, to sort of the edge of the canyon lands, the road cuts straight, and it seems like it's been cleared, but more recently."
+        },
+        {
+          "startUid": "u3173",
+          "endUid": "u3178",
+          "quote": "You spend a cold, quiet night, um, sheltered off the road,"
+        },
+        {
+          "startUid": "u3234",
+          "endUid": "u3238",
+          "quote": "So you get close to the oasis, see in the moonlight, um, the tents, and the quiet scene, palm trees swaying."
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "underway",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p09",
+          "reading": "Traverse the canyon lands on the old road’s cleared path."
+        },
+        {
+          "place": "p14",
+          "reading": "Shelter off the road for the night, then resume before dawn."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "presence",
+      "source": {
+        "startUid": "u3173",
+        "endUid": "u3174"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Spend the night sheltered off the road during the journey to Gomat.",
+      "evidence": [
+        {
+          "startUid": "u3173",
+          "endUid": "u3174",
+          "quote": "You spend a cold, quiet night, um, sheltered off the road, long resting so you all get your spell slots back and everything, and your, get your charges back for your, the thing we were talking about earlier, Eric."
+        }
+      ],
+      "place": "p14",
+      "relations": [
+        {
+          "type": "during",
+          "target": "l16"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u3234",
+        "endUid": "u3258"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the approach see Gomat’s tents, palms, dead sheep, and three enormous lizards feeding; the creatures seem unaware of the party.",
+      "evidence": [
+        {
+          "startUid": "u3234",
+          "endUid": "u3238",
+          "quote": "So you get close to the oasis, see in the moonlight, um, the tents, and the quiet scene, palm trees swaying."
+        },
+        {
+          "startUid": "u3239",
+          "endUid": "u3243",
+          "quote": "A few, um, y- you hear the flapping in the breeze of the tents in f- of the, um, tents and the camp in front of you."
+        },
+        {
+          "startUid": "u3250",
+          "endUid": "u3258",
+          "quote": "Three, four of them. And in front of the sheep, like chewing on them in the darkness, three enormous lizards."
+        },
+        {
+          "startUid": "u3256",
+          "endUid": "u3258",
+          "quote": "Much bigger than what you'd expect a lizard to be. Um, tearing into these things, seemingly unaware of your presence."
+        }
+      ],
+      "place": "p15",
+      "mode": "local"
+    }
+  ]
+}

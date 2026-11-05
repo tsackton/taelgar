@@ -1,0 +1,521 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-001",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-session.yaml",
+    "sessionYamlSha256": "971a2615c4eb8256f2487a10a090566cb674018e8312c875c0a373bb5217c44f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-transcript.md",
+    "transcriptSha256": "b8309f0157d02801b49c283853d385097f54a2b7f8852c4794e8a573b623c8a4",
+    "yamlDates": {
+      "start": "1748-03-22",
+      "end": "1748-03-23"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0022"
+      },
+      "reading": "Kenzo approaches Karawa in morning light; the attack is subsequently placed in early morning, with Delwath later calling it dawn.",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0022",
+          "quote": "As you approach Karawa, the first thing you see from a distance in the morning light is a red sandstone mesa standing above the rocky desert ground."
+        },
+        {
+          "startUid": "u0257",
+          "endUid": "u0262",
+          "quote": "So it's morning. It would be early enough that it's not the middle of the blazing heat. It's, but it's, it's still, I think it's still ear, you know, early spring, right? So, you know, maybe mid-April, something like that. So it's not the heat of the summer yet."
+        },
+        {
+          "startUid": "u0453",
+          "endUid": "u0456",
+          "quote": "the villagers who are sort of out on their early morning errands are just scattering."
+        },
+        {
+          "startUid": "u2863",
+          "endUid": "u2864",
+          "quote": "... uh, were, uh, rampaging in Karawa, Karawa at dawn this morning."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Repeated DM morning anchors; later PC report says dawn.",
+        "partOfDay": "early morning"
+      },
+      "note": "The DM tentatively compares the season to “maybe mid-April”; no calendar day or year is spoken. This differs from the YAML March placement without settling an alternative date."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0287",
+        "endUid": "u0301"
+      },
+      "reading": "Delwath has a few minutes to put on his armor before rushing out to the attack.",
+      "evidence": [
+        {
+          "startUid": "u0287",
+          "endUid": "u0287",
+          "quote": "You would have a few minutes while-"
+        },
+        {
+          "startUid": "u0290",
+          "endUid": "u0291",
+          "quote": "Like somebody was yelling for help and it was clear there was some attack going on."
+        },
+        {
+          "startUid": "u0300",
+          "endUid": "u0301",
+          "quote": "Um, and then he's wearing a suit of, uh, chain mail. Sort of comes rushing up pr- looking prepared for, for a fight of some kind."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM allows a few minutes; Delwath then describes coming out in chain mail.",
+        "text": "a few minutes"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1152",
+        "endUid": "u1156"
+      },
+      "reading": "Delwath spends about a minute inspecting the hyena body before concentrating on magic.",
+      "evidence": [
+        {
+          "startUid": "u1131",
+          "endUid": "u1136",
+          "quote": "So actually, I will... First I wanna go investigate the body for a, just for a minute. Like, is it, is it natural? Does it seem to be, like, um, a... Is it, like, naturally grown this big or does it seem to be enchanted or cursed or somehow magically whatever?"
+        },
+        {
+          "startUid": "u1152",
+          "endUid": "u1156",
+          "quote": "And after I kind of poke at the body for a minute, um, uh, I'm gonna go, um, you s- see, uh, Delwath start to, like, take a few deep breaths and kind of, um, uh, close his eyes briefly and, um, start, like, concentrating on, you know, looking like he's concentrating on something."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Player confirms poking at the body for a minute.",
+        "value": 1
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1274",
+        "endUid": "u1275"
+      },
+      "reading": "Delwath describes roughly a minute looking for the unseen magical disturbance while the others talk.",
+      "evidence": [
+        {
+          "startUid": "u1274",
+          "endUid": "u1275",
+          "quote": "After about, after about a few, a minute of that, or, or while you guys are talking, after... Well, you could say something at the moment."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Player’s approximate elapsed description; his search overlaps the ongoing conversation.",
+        "value": 1
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1881",
+        "endUid": "u1883"
+      },
+      "reading": "About twenty minutes have passed since Kenzo arrived, correcting his suggestion that he arrived yesterday.",
+      "evidence": [
+        {
+          "startUid": "u1881",
+          "endUid": "u1882",
+          "quote": "Wait, um, w- uh, I, I've only... I've been here a day, right? I got here yesterday?"
+        },
+        {
+          "startUid": "u1883",
+          "endUid": "u1883",
+          "quote": "No, you got here, like, 20 minutes ago."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly corrects the arrival interval.",
+        "value": 20
+      },
+      "completion": "completed",
+      "note": "This is cumulative time since arrival, including the fight and conversation, not another twenty minutes afterward."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1958",
+        "endUid": "u1959"
+      },
+      "reading": "Delwath completes his short rest at the teahouse while the others gear up or visit the temple; the remaining half-hour is part of the rest.",
+      "evidence": [
+        {
+          "startUid": "u1958",
+          "endUid": "u1959",
+          "quote": "I think, um, maybe we should, uh, take a short refreshment and, and, um, take a short rest, in D&D terms."
+        },
+        {
+          "startUid": "u2011",
+          "endUid": "u2011",
+          "quote": "Well, I wanna take another 30 minutes and finish the short rest and get my spell slot back."
+        },
+        {
+          "startUid": "u2063",
+          "endUid": "u2066",
+          "quote": "I'll just do it by text, 'cause that's probably more efficient. What... So you're going to the, to the tavern across the way. Kong is doing that. Eric's going to the temple. Mike's resting."
+        },
+        {
+          "startUid": "u2071",
+          "endUid": "u2074",
+          "quote": "No, no, I'm... This... My, my rooms are above this tea house. I'm just staying in the tea house."
+        },
+        {
+          "startUid": "u2243",
+          "endUid": "u2244",
+          "quote": "Okay, so you're all returning back to the, to the tea house."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; accepted remaining thirty minutes and reconvening establish completion.",
+        "value": 1
+      },
+      "completion": "completed",
+      "note": "The full rest includes prior refreshments; do not add the remaining thirty minutes again. The temple round-trip duration remains an estimate, not a separately measured interval."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2288",
+        "endUid": "u2290"
+      },
+      "reading": "The trackers spend an unspecified interval searching for the hyenas’ tracks around town.",
+      "evidence": [
+        {
+          "startUid": "u2288",
+          "endUid": "u2290",
+          "quote": "Um, so the two of you, um, spend some time searching around for tracks. Um, so the..."
+        }
+      ],
+      "actors": [
+        "trackers"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated elapsed time",
+        "text": "some time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2341",
+        "endUid": "u2342"
+      },
+      "reading": "The party walks from Karawa through scrub desert to hard rock in about three to four hours; this refines the earlier half-day description.",
+      "evidence": [
+        {
+          "startUid": "u2341",
+          "endUid": "u2342",
+          "quote": "You, you continue for sort of maybe half a day, uh, uh, traveling through the sort of desert landscape, s- uh, sort of scrubby brush most of-"
+        },
+        {
+          "startUid": "u2355",
+          "endUid": "u2357",
+          "quote": "But the tracks are heading more in a northeasterly direction. It's relatively easy travel for, you know, two, three hours or so. Um,"
+        },
+        {
+          "startUid": "u2361",
+          "endUid": "u2366",
+          "quote": "Um, until after about three, four hours travel, um, following these tracks, uh, the, the... You sort of climb up a little bit and get to a, a stretch of hard rock. And it's not entire- I mean, you can look around if you'd like, but the tracks which, um, were relatively straightforward to follow now seem to just kind of disappear into the rock."
+        }
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "The endpoint narration states three or four hours of travel.",
+        "min": 3,
+        "max": 4,
+        "minInclusive": true,
+        "maxInclusive": true
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2456",
+        "endUid": "u2457"
+      },
+      "reading": "Seeker’s earlier check for ley lines is clarified as a Detect Magic ritual taking a few minutes.",
+      "evidence": [
+        {
+          "startUid": "u2405",
+          "endUid": "u2407",
+          "quote": "there aren't any ley lines immediately in, within 30 feet of you."
+        },
+        {
+          "startUid": "u2456",
+          "endUid": "u2457",
+          "quote": "[laughs] Y- I mean, so in order to sense ley lines, you would've, uh, you would've ca- I mean, you would've had to take a few minutes to cast Detect Magic as a ritual."
+        },
+        {
+          "startUid": "u2459",
+          "endUid": "u2461",
+          "quote": "Right? So you can't just see the ley lines. And so if there was magic, you would've sensed it. You don't sense any magic."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM retrospectively explains the elapsed ritual needed for the resolved check.",
+        "text": "a few minutes"
+      },
+      "completion": "completed",
+      "note": "This resolves the earlier check; source position does not establish a second casting or its precise overlap with travel."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2549",
+        "endUid": "u2554"
+      },
+      "reading": "The party progresses into the rocky canyon lands for about an hour in all, including the earlier twenty-to-thirty-minute stretch.",
+      "evidence": [
+        {
+          "startUid": "u2549",
+          "endUid": "u2554",
+          "quote": "So, you know, o- over the, over the past 20 or 30 minutes or so, the terrain is getting more, um, more sort of convoluted, and you occasionally see these, like, little slot canyons going off in sort of blind alleys. Um, and, uh, it's becoming rockier and sort of harder to, to keep going forward. Um,"
+        },
+        {
+          "startUid": "u2598",
+          "endUid": "u2599",
+          "quote": "You now have been maybe going an hour into this rock, and you're pretty sure you could find your way back to the sort of sandy scrub desert, but you're starting to question yourself a little bit."
+        }
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Later cumulative statement: “maybe going an hour into this rock”.",
+        "value": 1
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2710",
+        "endUid": "u2710"
+      },
+      "reading": "Wellby reaches the lookout in early afternoon; the DM immediately corrects “noon”.",
+      "evidence": [
+        {
+          "startUid": "u2710",
+          "endUid": "u2710",
+          "quote": "As now you're sort of in the noon- you're in the early afternoon sun, so you know, it's, even though it's still spring, it's-"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated time",
+        "partOfDay": "early afternoon"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2713",
+        "endUid": "u2725"
+      },
+      "reading": "Wellby spends a while scanning the distance from the lookout before detecting northern dust.",
+      "evidence": [
+        {
+          "startUid": "u2713",
+          "endUid": "u2725",
+          "quote": "so you spend a while just kind of concentrating and sort of squinting in the distance."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated elapsed time",
+        "text": "a while"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u3020",
+        "endUid": "u3022"
+      },
+      "reading": "The roadside meeting with Alesh is at about four in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u3020",
+          "endUid": "u3022",
+          "quote": "You could, you could be at the... Eh, well, it's already like 4:00 in the afternoon by now."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated time",
+        "partOfDay": "afternoon",
+        "clock": "16:00"
+      },
+      "note": "Alesh’s eight-hour ride and the forecast onward walk measure other travel, not elapsed party travel to this meeting."
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u3173",
+        "endUid": "u3174"
+      },
+      "reading": "The party spends a cold night resting off the road; the subsequent predawn departure establishes the next calendar day.",
+      "evidence": [
+        {
+          "startUid": "u3173",
+          "endUid": "u3174",
+          "quote": "You spend a cold, quiet night, um, sheltered off the road, long resting so you all get your spell slots back and everything, and your, get your charges back for your, the thing we were talking about earlier, Eric."
+        },
+        {
+          "startUid": "u3176",
+          "endUid": "u3178",
+          "quote": "Um, get up very early, pre-dawn the following day to, for, to press on, um, traveling as hard and fast as you can to get to the oasis."
+        }
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; the DM explicitly narrates an overnight long rest.",
+        "value": 8
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u3176",
+        "endUid": "u3178"
+      },
+      "reading": "The party rises before dawn the following day and resumes the forced march toward Gomat.",
+      "evidence": [
+        {
+          "startUid": "u3176",
+          "endUid": "u3178",
+          "quote": "Um, get up very early, pre-dawn the following day to, for, to press on, um, traveling as hard and fast as you can to get to the oasis."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated time",
+        "partOfDay": "pre-dawn",
+        "relative": {
+          "relation": "after",
+          "reference": "t14",
+          "anchor": "the completed roadside overnight"
+        }
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u3179",
+        "endUid": "u3181"
+      },
+      "reading": "The party travels from predawn through a long hot day into moonlit evening, reaching the approach to Gomat.",
+      "evidence": [
+        {
+          "startUid": "u3176",
+          "endUid": "u3178",
+          "quote": "Um, get up very early, pre-dawn the following day to, for, to press on, um, traveling as hard and fast as you can to get to the oasis."
+        },
+        {
+          "startUid": "u3179",
+          "endUid": "u3181",
+          "quote": "It's a long day, traveling in the heat of the sun. Um- ... pushing on, uh, into the, the moonlight evening."
+        },
+        {
+          "startUid": "u3199",
+          "endUid": "u3207",
+          "quote": "Um, so in the moonlight, like, the heat of the day just beats down on you. The pushing yourself, exerting yourself in the desert, um, even those of you who are, who are used to traveling in these conditions, you are, you are pushing yourself, um, harder and, and further to get to this oasis as fast as you can."
+        },
+        {
+          "startUid": "u3234",
+          "endUid": "u3238",
+          "quote": "So you get close to the oasis, see in the moonlight, um, the tents, and the quiet scene, palm trees swaying."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Departure established immediately beforehand.",
+          "partOfDay": "pre-dawn"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM narrates travel into moonlight and the final approach.",
+          "partOfDay": "moonlit evening"
+        }
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "March 22–23, 1748 comes from YAML only. The transcript establishes morning, an overnight, and the following moonlit evening, but tentatively says “maybe mid-April” during opening weather description.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t14",
+      "t15",
+      "t16"
+    ],
+    "explanation": "One completed overnight supports the YAML relative span. The tentative spoken seasonal date leaves the absolute month unresolved; no definite replacement date is established."
+  }
+}
