@@ -1,0 +1,3003 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "7b5be40a65a642abf5d9eaf5daa32eafabe514f8f2b086b36da16a2386a3ed00"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-entity-map.json",
+      "sha256": "697c1c4a72328cbcadf2e729b7888a094ec5ad4d33810a53dd3d7364c53f27f4"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Seeking Saka and the Mystai libraries",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0009",
+        "endUid": "u0014"
+      },
+      "lines": [
+        "%% u0009:0-132, u0010:0-157, u0011:0-5, u0012:0-75, u0013:0-59, u0014:0-36 %%",
+        "DM: Your destination: Tokra, about 240 miles west along the road. There, among other things, you hope to find Saka, an elder of the Mystai, who perhaps, if you can find her, may be able to tell you more about the events on the Blasted Plains 30 years ago and what happened out in the deserts to the east. Tokra also houses a large archives and the libraries of the Lakan Mystai, where perhaps answers to many other riddles may lie hidden in some ancient scroll or lost text.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, since we are kind of starting a new Arc I had to go back to a classic.",
+          "Seeker: Nice.",
+          "Unknown: Nice.",
+          "DM: Okay, so.",
+          "DM: Setting off west as the sun rises towards mid morning, nearly three months to the day since you first met in Karawa, you find yourself on the road again. Heading somewhere new. Heading west for new places, new adventures."
+        ],
+        "after": [
+          "DM: You leave Karawa behind, damaged, but not broken. And with the restoration of the defenses on the eastern border of Dunmar, the people are safe, at least for now, from whatever might lurk on the Blasted Plains: Grash and his allies, whoever they may be. They may not be so safe from internal divisions, though, as you also, like, leave behind in Karawa the woman Nayan Sura, claimant to the throne of Dunmar, freed from Agata's traps and gathering support to perhaps overthrow her brother, the current ruler of Dunmar, Nayan Karnas.",
+          "DM: Now, though, with the wind in your hair and the open road in front of you and a long journey ahead, the road beckons, as you begin to travel.",
+          "DM: So, as you set out towards— towards Tokra. I presume that you've acquired some sort of cart or wagon to lug your massive pile of looted goods.",
+          "Kenzo: Liberated, liberated.",
+          "Delwath: But we're not bringing that much of our massive pile of looted goods, right? Didn't we give it all away?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Sura’s challenge to Karnas",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0019"
+      },
+      "lines": [
+        "%% u0015:0-24, u0016:0-226, u0017:0-101, u0018:0-17, u0019:0-155 %%",
+        "DM: You leave Karawa behind, damaged, but not broken. And with the restoration of the defenses on the eastern border of Dunmar, the people are safe, at least for now, from whatever might lurk on the Blasted Plains: Grash and his allies, whoever they may be. They may not be so safe from internal divisions, though, as you also, like, leave behind in Karawa the woman Nayan Sura, claimant to the throne of Dunmar, freed from Agata's traps and gathering support to perhaps overthrow her brother, the current ruler of Dunmar, Nayan Karnas.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Nice.",
+          "Unknown: Nice.",
+          "DM: Okay, so.",
+          "DM: Setting off west as the sun rises towards mid morning, nearly three months to the day since you first met in Karawa, you find yourself on the road again. Heading somewhere new. Heading west for new places, new adventures.",
+          "DM: Your destination: Tokra, about 240 miles west along the road. There, among other things, you hope to find Saka, an elder of the Mystai, who perhaps, if you can find her, may be able to tell you more about the events on the Blasted Plains 30 years ago and what happened out in the deserts to the east. Tokra also houses a large archives and the libraries of the Lakan Mystai, where perhaps answers to many other riddles may lie hidden in some ancient scroll or lost text."
+        ],
+        "after": [
+          "DM: Now, though, with the wind in your hair and the open road in front of you and a long journey ahead, the road beckons, as you begin to travel.",
+          "DM: So, as you set out towards— towards Tokra. I presume that you've acquired some sort of cart or wagon to lug your massive pile of looted goods.",
+          "Kenzo: Liberated, liberated.",
+          "Delwath: But we're not bringing that much of our massive pile of looted goods, right? Didn't we give it all away?",
+          "DM: You're bringing you're bringing just to. We have two mirrors."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Could Cintra protect the wagon?",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0049",
+        "endUid": "u0075"
+      },
+      "lines": [
+        "%% u0049:0-41, u0050:0-227 %%",
+        "Kenzo: We get like a Cintra or any like anybody? Yeah Cintra would be good for like tasks help, like, like give us like a little, you know, abjuration charm or something. It's like doesn't look like a wagon, or like people that look at it, like, don't see anything in it, or you know.",
+        "",
+        "%% u0051:0-90 %%",
+        "Seeker: There are not a lot of spells that can create like permanent effects like that or they're.",
+        "",
+        "%% u0052:0-46, u0053:0-35 %%",
+        "DM: Not really I mean not that you have access to. Because, not a lot Cintra could do.",
+        "",
+        "%% u0054:0-153, u0055:0-26, u0056:0-24, u0057:0-39, u0058:0-10 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0059:0-119, u0060:0-24 %%",
+        "Kenzo: Can we ask, can we ask Cintra, just like anybody that knows magic stuff in Karawa what for their advice on how to like best protect this wagon?",
+        "",
+        "%% u0061:0-43 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0062:0-53 %%",
+        "DM: Haha ah yeah I see if there's anything Cintra can do.",
+        "",
+        "%% u0063:0-30, u0064:0-17, u0065:0-70, u0066:0-6, u0067:0-33, u0068:0-27, u0069:0-260, u0070:0-100, u0071:0-93 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0072:0-61, u0073:0-46 %%",
+        "DM: That there's not a there's not a ton that you can do to like permanently alter a wagon to be hard to steal.",
+        "",
+        "%% u0074:0-5 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0075:0-24 %%",
+        "DM: You just gotta guard it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, I mean, you have two paintings from Eudomes's Tower. You have, you know, a handful of things like that.",
+          "Unknown: Right.",
+          "DM: I'm not you know you don't have a wagon piled high with stuff but like you know.",
+          "Kenzo: Alone. Should we, like— like, this wagons totally getting a fucking stolen. That's gonna suck. Like, how do we protect it better, this wagon?",
+          "Seeker: Can we get it."
+        ],
+        "after": [
+          "Seeker: Yeah we can try to make it look inconspicuous like it does not contain valuable things.",
+          "Kenzo: I mean I.",
+          "Delwath: Think, yeah. I think the only— I mean, I'm just walking through our treasure, like, we mostly just have gems. And we didn't— did we even keep all of the, like, heavy silver stuff? I thought we only kept like two to 3000 gold, mostly in gems.",
+          "DM: Yeah you didn't even take all the silver.",
+          "Unknown: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Allocating Candrosa’s potions",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0168",
+        "endUid": "u0192"
+      },
+      "lines": [
+        "%% u0168:0-58, u0169:0-60, u0170:0-10 %%",
+        "DM: Um, by the way, before I forget, who take— who's taking the— So Candrosa was— that gave you all those potions at the end of session.",
+        "",
+        "%% u0171:0-116, u0172:0-128 %%",
+        "DM: I already added the regular healing to everybody's character sheet, but somebody needs to take the elixir of health. Which cures diseases and some and poison in a bunch of other stuff and someone needs to take that potion of necrotic resistance.",
+        "",
+        "%% u0173:0-88 %%",
+        "Kenzo: Potion of necrotic resistance probably me or Delwath since we're getting like hacked by.",
+        "",
+        "%% u0174:0-4 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0175:0-33 %%",
+        "Delwath: Yeah you could you could take it.",
+        "",
+        "%% u0176:0-11, u0177:0-17 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0178:0-64 %%",
+        "Delwath: Whoever has it gets pushed to the front right so go ahead Kenzo.",
+        "",
+        "%% u0179:0-35 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0180:0-30, u0181:0-26 %%",
+        "Delwath: Potion of necrotic resistance. And then elixir of health.",
+        "",
+        "%% u0182:0-49 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0183:0-14, u0184:0-112 %%",
+        "Delwath: That's useful. I mean, it really doesn't— whoever's most mobile and can most easily use it to save somebody is probably the best.",
+        "",
+        "%% u0185:0-25, u0186:0-16 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0187:0-43 %%",
+        "Delwath: Maybe you know what I mean I could take it.",
+        "",
+        "%% u0188:0-25, u0189:0-17, u0190:0-13, u0191:0-13 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0192:0-17 %%",
+        "Delwath: Elixir of health.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You know, there's some large predators, but few will attack even a lone human. Even fewer will attack a traveling party, and you're following a road, so it's pretty straightforward.",
+          "Kenzo: We're not know right right.",
+          "Delwath: I don't think we're at a particular rush now.",
+          "Kenzo: Like we're just as always confused and looking for answers.",
+          "Wellby: Yeah."
+        ],
+        "after": [
+          "Kenzo: Oh yeah.",
+          "Wellby: What's the teleporting part?",
+          "Delwath: Misty Step you've seen him cast Misty Step.",
+          "Wellby: Oh sweet I forgot about.",
+          "Delwath: That sort of vanishes in a silvery blur then appears 30 feet somewhere else."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The dream mirror’s blood and water",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0207",
+        "endUid": "u0218"
+      },
+      "lines": [
+        "%% u0207:0-54, u0208:0-4 %%",
+        "Kenzo: Tim, I have a dream mirror in my backpack what's that? Yep.",
+        "",
+        "%% u0209:0-57 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0210:0-41 %%",
+        "Delwath: Oh, that's what you use somebody's blood.",
+        "",
+        "%% u0211:0-7, u0212:0-124 %%",
+        "DM: If you if you use somebody's blood— if you fill the bowl of water and put a drop of blood in it, you can see what they're dreaming.",
+        "",
+        "%% u0213:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0214:0-15 %%",
+        "Seeker: That's intense.",
+        "",
+        "%% u0215:0-46, u0216:0-47, u0217:0-125, u0218:0-19 %%",
+        "DM: That was one of the things from Agata's hoard. ((Discussion of the other mirror’s recharge.))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Wellby has realized just how little attention he pays.",
+          "Delwath: In fairness, I haven't cast it in a while.",
+          "DM: So, so you're just heading out. It's sort of a normal pace, yeah? Not pushing, but not like dawdling particularly, or—",
+          "Wellby: A pace.",
+          "Unknown: Pace."
+        ],
+        "after": [
+          "Kenzo: We show it?",
+          "Delwath: I think we should do the Scorpions. Just because I want to know what they are.",
+          "Wellby: Agree we've also got the sludge vial back from Raven's Hold.",
+          "Delwath: Right yeah.",
+          "Unknown: Or that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Choosing the Society’s coin",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0227",
+        "endUid": "u0242"
+      },
+      "lines": [
+        "%% u0227:0-131, u0228:0-18, u0229:0-21 %%",
+        "Seeker: Go ahead. Oh, I was just gonna say we've not discussed this before, but it occurred to me we've had this coin, for a long time that it turns into the whatever it's called.",
+        "",
+        "%% u0230:0-23 %%",
+        "Wellby: Tenser's Floating Disk.",
+        "",
+        "%% u0231:0-56, u0232:0-27, u0233:0-95 %%",
+        "Seeker: Disk. That coin was most likely in the possession of the Society of the Open Scroll. Just a quarter— we don't know. We would, we would love to know more about what they've been doing.",
+        "",
+        "%% u0234:0-3, u0235:0-27, u0236:0-16 %%",
+        "Kenzo: Oh. I love I love this idea to go for the coin.",
+        "",
+        "%% u0237:0-6 %%",
+        "Wellby: Right.",
+        "",
+        "%% u0238:0-26 %%",
+        "Delwath: Yeah we could do the coin.",
+        "",
+        "%% u0239:0-66 %%",
+        "Seeker: Or do we have any other like artifacts related to the Open Scroll?",
+        "",
+        "%% u0240:0-41 %%",
+        "Delwath: So we're all agreeing on something let's.",
+        "",
+        "%% u0241:0-5 %%",
+        "Unknown: Stop.",
+        "",
+        "%% u0242:0-10 %%",
+        "Delwath: We agreed.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Agree we've also got the sludge vial back from Raven's Hold.",
+          "Delwath: Right yeah.",
+          "Unknown: Or that.",
+          "Kenzo: What's the sludge vial from again?",
+          "Delwath: Whenever I get one of the."
+        ],
+        "after": [
+          "DM: [garbled]. That's.",
+          "DM: Like narrate a bit of the journey is going forward, because you know Garret.",
+          "Unknown: Comments.",
+          "DM: So the first day passes largely uneventfully. You're, you're traveling now, heading, heading sort of northwest basically to connect to the— there's sort of two roads that lead from Karawa: one to the northwest, one to the northeast. The one to the Northeast will eventually fade away into a track that leads to Raven's Hold and then eventually to the mountains and the passes. That's the direction that Drikod has gone. You are heading north west again, along with what's really not, not really even a road. It's just a sort of a beaten track through the desert.",
+          "DM: Which will connect with this main, main trade route, the old Drankorian trade route that cuts across the center of Dunmar. And the first you know Day, a day or two you know until you connect to this road probably you'll you'll get to the main road at this evening, but it's it's. You know, leaving Karawa now it's—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The worn gold coin and Arcus",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0275",
+        "endUid": "u0292"
+      },
+      "lines": [
+        "%% u0275:0-91, u0276:0-144, u0277:0-3, u0278:0-140 %%",
+        "Seeker: Seeker sort of thoughtfully pulls it out of his pocket, ((Pocket contents.)) and he pulls it out and holds it up to the sunlight. And I want to just briefly talk about what we do know about it already. Like, what does that even look like? ((Character sheet lookup.))",
+        "",
+        "%% u0279:0-10, u0280:0-7, u0281:0-14 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0282:0-118 %%",
+        "DM: It's a golden coin. It's— it looks like a, just a gold piece, but it's very old and worn smooth without obvious markings.",
+        "",
+        "%% u0283:0-41, u0284:0-13, u0285:0-45, u0286:0-23, u0287:0-37 %%",
+        "Seeker: When we, we found this in the underground lair of some— what was that place? Was among the effects of that turned into stone. Right member of the Society, I think.",
+        "",
+        "%% u0288:0-27 %%",
+        "DM: Arcus you later learned is—",
+        "",
+        "%% u0289:0-6 %%",
+        "Unknown: Arcus.",
+        "",
+        "%% u0290:0-138 %%",
+        "Seeker: And so perhaps we'll, we'll learn where he got this coin from, or perhaps it was never his in the first place and happened to be there, but.",
+        "",
+        "%% u0291:0-4 %%",
+        "Delwath: Yep.",
+        "",
+        "%% u0292:0-42 %%",
+        "Seeker: Well let's see what we can learn about it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Which will connect with this main, main trade route, the old Drankorian trade route that cuts across the center of Dunmar. And the first you know Day, a day or two you know until you connect to this road probably you'll you'll get to the main road at this evening, but it's it's. You know, leaving Karawa now it's—",
+          "DM: Still passing through sort of rolling, rocky desert hills, dry scrub plants, dried up, the— you know, everything sort of baking in the hot sun. You do pass a few Dunmari on their way back from Tokra. You know, everybody is sort of eager to get to Karawa before nightfall and so. You know you just kind of greet people on the road. And on your first night of travel, in the evening of the first night, you do reach this main, main trade route and turn west.",
+          "DM: And over the next day, second day of your travel, following the road now you start to, you know, get into the— you know, get a little away from the desert. There's more plants, you— you're, you're gradually descending a tiny bit off the dry high plateaus of the, of the central Dunmar into the—",
+          "DM: You know you're not in flowing grasslands, yet you need to go a bit further West or north to get there, but. You can see you can see how this terrain could, you know, support pastoralists and, and herders. And you see, you know, the occasional herd of antelope crossing the, the terrain and, and things like that.",
+          "DM: And as you make camp on the second day. The mirror has recharged. If you would like to show something to the mirror."
+        ],
+        "after": [
+          "DM: OK so again as a reminder you pick a question and then somebody needs to make a wisdom check.",
+          "Kenzo: Got the best wisdom check?",
+          "Delwath: What's fun.",
+          "Seeker: Was.",
+          "DM: Kenzo probably going to be you."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The coin’s four bearers",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0358",
+        "endUid": "u0483"
+      },
+      "lines": [
+        "%% u0358:0-93, u0359:0-76 %%",
+        "DM: Okay, so you take out the mirror from its hidden compartment set it up as you're making camp hold up the coin and concentrate on who has used it. ((Check request.))",
+        "",
+        "%% u0360:0-29, u0361:0-65, u0362:0-12, u0363:0-79, u0364:0-10, u0365:0-21, u0366:0-56, u0367:0-11, u0368:0-12, u0369:0-38, u0370:0-165, u0371:0-7, u0372:0-17 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0373:0-25, u0374:0-49 %%",
+        "Seeker: ((Roll commentary.)) Kenzo's looking confident in front of the mirror.",
+        "",
+        "%% u0375:0-40, u0376:0-56, u0377:0-25, u0378:0-8, u0379:0-192, u0380:0-7, u0381:0-7 %%",
+        "DM: The scene, the reflection of the, of the campfire and the plains behind you fades, and you see, um, standing in front of you kind of— it's a strange perspective. It almost looks like somebody's flipping the coin up in the air, and so you'll see, like, basically a face, and then it— that the image in the mirror does this tumbling. It's a— it's a—",
+        "",
+        "%% u0382:0-46, u0383:0-101, u0384:0-106, u0385:0-56, u0386:0-68, u0387:0-100, u0388:0-31, u0389:0-17 %%",
+        "DM: Sort of a indeterminately aged Chardonian man. You can't see much about his surroundings, he seems to be wearing what you would sort of think of as adventuring gear or sort of almost like, like rogues gear almost, like cloaks, shadows. He, he seems to have a hood over his face, so you can't see that much detail. There is a sense of movement almost like you're traveling on a road. Walking at night. It's dark. Um, just this flipping, flipping, and after about 10, 15 seconds of this, um, on the top of one of the flips, the image shifts.",
+        "",
+        "%% u0390:0-18, u0391:0-123 %%",
+        "DM: And you see again now, a person, a different person. This a much older man, white beard, short cropped white beard, sort of angular looking face.",
+        "",
+        "%% u0392:0-98 %%",
+        "Kenzo: Quick question Tim in the first one yet was it the dude that we've whose body we found like do we?",
+        "",
+        "%% u0393:0-20 %%",
+        "Seeker: Probably only Arcus.",
+        "",
+        "%% u0394:0-32 %%",
+        "DM: It's hard to be 100% sure um so.",
+        "",
+        "%% u0395:0-210 %%",
+        "Kenzo: Sorry sorry just it for both the Arcus, Arcus and then this guy like Are there things in the scene that like have indicated when this is like is it like recent there's a look like super old is it like you know?",
+        "",
+        "%% u0396:0-46, u0397:0-82 %%",
+        "DM: It's hard to tell I mean it's hard to tell on. There's no there's not you know convenient subtitles like 25 years ago in Chardon.",
+        "",
+        "%% u0398:0-67 %%",
+        "Kenzo: But, but I mean like if they're flipping it in the city like is it?",
+        "",
+        "%% u0399:0-23, u0400:0-68 %%",
+        "DM: It's not, he's walking walking in an open area at night, like on a road at night, was what.",
+        "",
+        "%% u0401:0-6 %%",
+        "Seeker: [garbled].",
+        "",
+        "%% u0402:0-28, u0403:0-9, u0404:0-77, u0405:0-16 %%",
+        "DM: You know moon light shining you know. It could be this road, it could it could be any road sort of through an open wilderness area.",
+        "",
+        "%% u0406:0-182, u0407:0-43, u0408:0-110, u0409:0-49, u0410:0-26, u0411:0-150, u0412:0-206, u0413:0-58, u0414:0-9 %%",
+        "DM: As the, as the scene shifts, now looking at this older man, sort of angular face, short cropped white beard, short cropped white hair, um, looking, looking down, like sort of peering down at, at the, at the coin, tapping it a little bit every now and then, like sort of examining it, looking around. Seems to be almost studying it, wearing dark robes. But without without a hood just kind of you know up to the shoulders looks, a, you know, probably in his 60s and seems to be scratching notes on something on some piece of paper or some log book or something that's just out of out of view of the mirror, but you'll see a quill occasionally as he goes, as he goes over. And this, in this, clearly his face is lit by firelight, by torches or lanterns or a fireplace. You're inside somewhere. That you can you can see the reflected glow of the flames. And then.",
+        "",
+        "%% u0415:0-136, u0416:0-29, u0417:0-129, u0418:0-13, u0419:0-63, u0420:0-8, u0421:0-12, u0422:0-261, u0423:0-61, u0424:0-20 %%",
+        "DM: As, as he goes closer to look at it once more, it's almost as if the view kind of falls through his face, and you see about another person. This, this time again outside. And, and now somebody is like holding it at the waist so you can't see their face you can't see the details of them as they walk. But they are, by their stride in sort of general sort of body shape, probably a woman. Again human. Out wearing traveling clothes, muddy boots or that, like long calf length muddy boots. A sword at their side. She's sort of next to you, like your, you as the, as the coin are kind of swinging around their waist, leather belt, coin purse. They seem to be walking through farmland, pasture land, pastureland maybe, um, following a river, traveling somewhere.",
+        "",
+        "%% u0425:0-17, u0426:0-23, u0427:0-28, u0428:0-2, u0429:0-50, u0430:0-15, u0431:0-33 %%",
+        "DM: And then finally that scene fades again. And you see one more person. A— another human. Everyone you've seen has been human. This person is wearing your you know it sort of—",
+        "",
+        "%% u0432:0-189, u0433:0-13 %%",
+        "DM: How would it— what would the perspective be? OK, so the coin is floating behind this person, and so you're looking at somebody's back. There's a shield slung over their back, chain mail armor. Ah, a helmet.",
+        "",
+        "%% u0434:0-38 %%",
+        "Kenzo: Do you see any insignia on the shield?",
+        "",
+        "%% u0435:0-32 %%",
+        "DM: Uh oh that's a good question um.",
+        "",
+        "%% u0436:0-5 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0437:0-31, u0438:0-3, u0439:0-93 %%",
+        "DM: Yes, there is insignia yeah um. So. I reserve the right to change what it looks like if I come up with something cooler later um.",
+        "",
+        "%% u0440:0-29 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0441:0-16, u0442:0-27, u0443:0-17, u0444:0-18, u0445:0-13, u0446:0-32, u0447:0-5, u0448:0-57, u0449:0-23, u0450:0-23 %%",
+        "DM: ((Joke.)) So, so the the insignia is— what would it be? I will say it's a— it's a tower like stat— like a straight tower with sun behind it, and then like rays coming out from the sun. So it's all sitting on all sitting on a cloud.",
+        "",
+        "%% u0451:0-116 %%",
+        "DM: Like a cloud with a tower, cloud at the bottom, the tower coming up from it, and then sun with rays coming out from it.",
+        "",
+        "%% u0452:0-27 %%",
+        "Kenzo: Awesome do we recognize it?",
+        "",
+        "%% u0453:0-65, u0454:0-8, u0455:0-12, u0456:0-3, u0457:0-3 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0458:0-32, u0459:0-32, u0460:0-55, u0461:0-4 %%",
+        "DM: ((Proficiency ruling.)) But no you don't recognize that. Not something that Seeker has seen in any of his books. I'm.",
+        "",
+        "%% u0462:0-8 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0463:0-118, u0464:0-56, u0465:0-124, u0466:0-138 %%",
+        "DM: And so, this this person armored helm, you can see, like some longish red hair kind of coming out from below the helm, a great sword slung on their back by next to the shield. Seems to be walking through a cave, through some, some underground tunnel. There is a, there is a light source up ahead that's throwing their back into shadows because that's floating in front of them. It doesn't seem to be a torch. It seems to be like magical light.",
+        "",
+        "%% u0467:0-11 %%",
+        "Kenzo: Driftglobe.",
+        "",
+        "%% u0468:0-52 %%",
+        "DM: Something like that or the Light spell or some some—",
+        "",
+        "%% u0469:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0470:0-55 %%",
+        "DM: Something along those lines, and then the mirror fades.",
+        "",
+        "%% u0471:0-105 %%",
+        "Seeker: That's it so at the last one was a human chain mail the shield using it to bring something out of a cave?",
+        "",
+        "%% u0472:0-30, u0473:0-41, u0474:0-10, u0475:0-23 %%",
+        "DM: Or some somewhere underground. It wasn't it wasn't clear you're clearly traveling through a tunnel right.",
+        "",
+        "%% u0476:0-43 %%",
+        "Kenzo: None of you recognize that insignia either?",
+        "",
+        "%% u0477:0-68 %%",
+        "Seeker: It is a very interesting image, but not one that I have seen before.",
+        "",
+        "%% u0478:0-40 %%",
+        "Kenzo: Have you visited a flying Castle before?",
+        "",
+        "%% u0479:0-46, u0480:0-24 %%",
+        "Seeker: Or any kind of city or other built structures. Not one in in the cloud.",
+        "",
+        "%% u0481:0-63 %%",
+        "Delwath: Rock guy's castle used to be flying till it crashed, didn't it?",
+        "",
+        "%% u0482:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u0483:0-36 %%",
+        "Delwath: Don't know that that's relevant but.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Which might also be set up.",
+          "Kenzo: I mean, but both are very interesting, right? Like, because the other items that it's held, that's also pretty fucking interesting, although I wouldn't know what they are, what they mean.",
+          "Seeker: There. Yeah let's let's start with the owners, the owner or the users of the.",
+          "Kenzo: Coin yeah yeah who has used you.",
+          "Seeker: Mm hmm."
+        ],
+        "after": [
+          "Seeker: You could also imagine it an insignia like that, for a keep that's high in the mountains so often appear to be floating in the clouds.",
+          "Kenzo: Wellby.",
+          "Wellby: I say we jot it down and ask people who know. Actually, no, no, let's show it to them. Let's show it to him. What's his name? He's been around.",
+          "Seeker: [garbled].",
+          "DM: Yeah so actually that's as you're doing this, he you know once once the mirror has gone dark he he looks up at you, and he says. He's been he's been quiet for most of the trip like just kind of chatting occasionally ah but not, you know, not getting too involved in, in your conversation. Just kind of— it seems like he's been enjoying being on the road, just kind of traveling in the sun, in the wind, kind of remembering what."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Garret on magic, captivity, and returning to family",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0488",
+        "endUid": "u0685"
+      },
+      "lines": [
+        "%% u0488:0-128, u0489:0-87, u0490:0-3, u0491:0-201 %%",
+        "DM: Yeah so actually that's as you're doing this, he you know once once the mirror has gone dark he he looks up at you, and he says. He's been he's been quiet for most of the trip like just kind of chatting occasionally ah but not, you know, not getting too involved in, in your conversation. Just kind of— it seems like he's been enjoying being on the road, just kind of traveling in the sun, in the wind, kind of remembering what.",
+        "",
+        "%% u0492:0-37 %%",
+        "Kenzo: You're not being a scarecrow anymore.",
+        "",
+        "%% u0493:0-64 %%",
+        "DM: Yeah exactly what like wind in hair and sun on flesh feels like.",
+        "",
+        "%% u0494:0-69 %%",
+        "DM: But when you pull out the mirror he kind of backs away, and when you—",
+        "",
+        "%% u0495:0-48 %%",
+        "Wellby: When it's gone, oh no this mirror is cool still.",
+        "",
+        "%% u0496:0-34, u0497:0-20 %%",
+        "DM: When when it goes dark he he says across the campfire.",
+        "",
+        "%% u0498:0-39, u0499:0-18 %%",
+        "DM: Wish you wouldn't mess with that magic. Doesn't feel safe.",
+        "",
+        "%% u0500:0-50 %%",
+        "Kenzo: You recognize anything in the mirror that you saw?",
+        "",
+        "%% u0501:0-8, u0502:0-11 %%",
+        "DM: No it's not that I.",
+        "",
+        "%% u0503:0-51, u0504:0-69 %%",
+        "DM: How much do you really understand about this magic? Do you know where it came from? You know what purpose it was made for?",
+        "",
+        "%% u0505:0-24 %%",
+        "Seeker: Now that you mention it.",
+        "",
+        "%% u0506:0-29 %%",
+        "Wellby: You pose some good questions.",
+        "",
+        "%% u0507:0-28 %%",
+        "Delwath: You know where it came from.",
+        "",
+        "%% u0508:0-56, u0509:0-17 %%",
+        "DM: If being Agata's slave has taught me anything it's that no magic is safe.",
+        "",
+        "%% u0510:0-21, u0511:0-16, u0512:0-10, u0513:0-43 %%",
+        "Seeker: And the wizard whose castle we took down, this— is, is he still abroad in the land in power?",
+        "",
+        "%% u0514:0-14 %%",
+        "Delwath: Eudomes was a.",
+        "",
+        "%% u0515:0-6 %%",
+        "Kenzo: Right.",
+        "",
+        "%% u0516:0-68 %%",
+        "Delwath: No, he was, he was a high ranking Drankorian. He died many years ago.",
+        "",
+        "%% u0517:0-15 %%",
+        "Seeker: Many years ago.",
+        "",
+        "%% u0518:0-41 %%",
+        "Delwath: Hundreds of years, hundreds of years ago.",
+        "",
+        "%% u0519:0-29 %%",
+        "DM: And so, did you see his body?",
+        "",
+        "%% u0520:0-4 %%",
+        "Wellby: Sir.",
+        "",
+        "%% u0521:0-14 %%",
+        "Seeker: Good question.",
+        "",
+        "%% u0522:0-26, u0523:0-96, u0524:0-25 %%",
+        "DM: How do you know he's dead? How do you know he's not looking out from the other side of that mirror every time you use that? Do not like these things.",
+        "",
+        "%% u0525:0-15 %%",
+        "Seeker: Understandable.",
+        "",
+        "%% u0526:0-68, u0527:0-34 %%",
+        "Wellby: Do you recognize this insignia? And I'll draw it in the dirt for him. We saw this and couldn't place it.",
+        "",
+        "%% u0528:0-34, u0529:0-3, u0530:0-29, u0531:0-22 %%",
+        "DM: Not seen that exact design before. Of— yeah, looks old to me, though. Before the war, maybe.",
+        "",
+        "%% u0532:0-6 %%",
+        "Kenzo: Where.",
+        "",
+        "%% u0533:0-13, u0534:0-41 %%",
+        "DM: I don't know. Probably a book, you could look it up in.",
+        "",
+        "%% u0535:0-9, u0536:0-6 %%",
+        "Kenzo: In Tokra. Tokra.",
+        "",
+        "%% u0537:0-11 %%",
+        "DM: Or Chardon.",
+        "",
+        "%% u0538:0-13 %%",
+        "Kenzo: I'm not sure.",
+        "",
+        "%% u0539:0-26 %%",
+        "DM: Why did you leave Chardon?",
+        "",
+        "%% u0540:0-24 %%",
+        "Kenzo: Why did I leave Chardon?",
+        "",
+        "%% u0541:0-44, u0542:0-29 %%",
+        "DM: Yeah you're a strange group of people to be traveling together in Dunmar.",
+        "",
+        "%% u0543:0-69 %%",
+        "Kenzo: Well, short version of the story is a bunch people trying to kill me.",
+        "",
+        "%% u0544:0-28 %%",
+        "DM: It's a good reason to leave.",
+        "",
+        "%% u0545:0-52 %%",
+        "Kenzo: But it wasn't the best place to hang around anymore.",
+        "",
+        "%% u0546:0-48 %%",
+        "Wellby: I've gotten better since coming this way, Kenzo.",
+        "",
+        "%% u0547:0-98, u0548:0-54, u0549:0-103, u0550:0-117 %%",
+        "Kenzo: You know, it feels like it's only gotten worse, especially since I've been around all of you, but. And the variety of things, trying to kill us now it's like it's expansive now compared to what it was like in Chardon. Chardon was more you know these other you know unsavory types stuff and honestly pretty harmless in scope of things, but at the time I was pretty young so.",
+        "",
+        "%% u0551:0-27, u0552:0-23 %%",
+        "Wellby: Who was trying to kill you? The thieves in Chardon?",
+        "",
+        "%% u0553:0-35, u0554:0-15, u0555:0-9, u0556:0-223 %%",
+        "Kenzo: I mean not necessarily thieves but let's just say you know growing up, there was a pretty unpleasant experience, largely because of— and Kenzo kind of gestures at the mirror— and, you know, the people that keep these things. It's funny that we're now— I'm now one of these people, but uh.",
+        "",
+        "%% u0557:0-18, u0558:0-133, u0559:0-13 %%",
+        "Kenzo: But yeah a lot of— I think, I think a lot of people with these items— and Chardon has many of these items, it's kind of crazy— and makes you kinda a little power-hungry.",
+        "",
+        "%% u0560:0-51 %%",
+        "DM: Yeah Chardon was always a good place to make money.",
+        "",
+        "%% u0561:0-30 %%",
+        "Kenzo: You spend a lot of time there?",
+        "",
+        "%% u0562:0-12, u0563:0-19, u0564:0-12, u0565:0-42, u0566:0-10, u0567:0-51, u0568:0-19 %%",
+        "DM: Not a lot. I would pass through, come up the— sail up from, from Darba through the canal, crossover, spend a month in Chardon selling everything before heading East again.",
+        "",
+        "%% u0569:0-40 %%",
+        "DM: Never liked to stay in the city, though.",
+        "",
+        "%% u0570:0-29 %%",
+        "Kenzo: Was last time you were there?",
+        "",
+        "%% u0571:0-13, u0572:0-10, u0573:0-12, u0574:0-33 %%",
+        "DM: 15 years ago. I think I forget what year it is now have to remind me.",
+        "",
+        "%% u0575:0-35 %%",
+        "Kenzo: Again, how long as a the scarecrow?",
+        "",
+        "%% u0576:0-20 %%",
+        "DM: 12 years, I believe.",
+        "",
+        "%% u0577:0-82, u0578:0-77 %%",
+        "Kenzo: Well, I think we would have, would have been in Chardon the same time, funny enough. Might have tried to say— you might have, might have tried to pick your pocket.",
+        "",
+        "%% u0579:0-35, u0580:0-21 %%",
+        "DM: Indeed, that would have been funny. Maybe it was destiny.",
+        "",
+        "%% u0581:0-81 %%",
+        "Kenzo: Should have spent more time with halflings when I was in Chardon that's for sure.",
+        "",
+        "%% u0582:0-16, u0583:0-38 %%",
+        "DM: You should have. I cannot, I cannot disagree with that.",
+        "",
+        "%% u0584:0-31 %%",
+        "Kenzo: Not much for humans these days.",
+        "",
+        "%% u0585:0-32, u0586:0-6, u0587:0-28, u0588:0-10, u0589:0-36 %%",
+        "DM: Ah, some of them aren't too bad. Those folks in Karawa didn't seem— seem fine. Took care of all of Agata's victims.",
+        "",
+        "%% u0590:0-53 %%",
+        "Kenzo: Yeah they're they're good people they're good people.",
+        "",
+        "%% u0591:0-5, u0592:0-31, u0593:0-16, u0594:0-7, u0595:0-52 %%",
+        "DM: Well. I am glad that the four of you and your friend Drikod did meet up, otherwise I might still be a scarecrow.",
+        "",
+        "%% u0596:0-59 %%",
+        "Kenzo: Where you are Where are you Where are you headed next here?",
+        "",
+        "%% u0597:0-5 %%",
+        "DM: Well.",
+        "",
+        "%% u0598:0-56, u0599:0-31, u0600:0-21, u0601:0-35, u0602:0-15, u0603:0-26, u0604:0-43, u0605:0-33 %%",
+        "DM: Not sure where the Tealeafs are right now, to be honest. I figure if I get get to Tokra I can probably get a— find my way to to Darba from there. Wait there for— based on the time of year, should be arriving soon in Darba my family. Like to get back to them somehow.",
+        "",
+        "%% u0606:0-30 %%",
+        "Kenzo: It's gonna be quite a reunion.",
+        "",
+        "%% u0607:0-7 %%",
+        "DM: Indeed.",
+        "",
+        "%% u0608:0-10, u0609:0-77, u0610:0-38, u0611:0-13, u0612:0-40, u0613:0-61 %%",
+        "DM: There's a few folks in Tokra I knew from back in the day might still be kicking around. Maybe provide a place to stay in some direction or help me get, get west. I won't ask you to escort me all the way to Darba that might be out of your way.",
+        "",
+        "%% u0614:0-11, u0615:0-46, u0616:0-110 %%",
+        "DM: So another almost 400 miles from Tokra as the crow flies. Across the plains, though, from there it's not a bad sail to Chardon if you're ever heading in that direction.",
+        "",
+        "%% u0617:0-24 %%",
+        "Seeker: Kind of a town is Darba?",
+        "",
+        "%% u0618:0-11, u0619:0-46, u0620:0-39, u0621:0-102 %%",
+        "DM: Darba, it's— you know that Dunmari towns tend to be pretty— well, a little monotonous, I would say. All full of big monumental architecture and no people, really. Everybody is scattered out on the plains.",
+        "",
+        "%% u0622:0-39, u0623:0-37, u0624:0-55, u0625:0-91, u0626:0-38 %%",
+        "DM: But Darba's pretty cosmopolitan that's got some trade has got some sea folk. It's got, even a small little halfling Community there. Some Chardonians. That's got some Illorians from the islands. Kind of got everybody, actually. Nice place to pick up some fried fish.",
+        "",
+        "%% u0627:0-26 %%",
+        "Seeker: Where the people from now.",
+        "",
+        "%% u0628:0-6 %%",
+        "DM: Sorry.",
+        "",
+        "%% u0629:0-56, u0630:0-59 %%",
+        "Seeker: The people from the islands, was the name of that again? Illorians, Illorians. Okay, is that something we know about?",
+        "",
+        "%% u0631:0-23, u0632:0-3, u0633:0-118 %%",
+        "DM: I mean you've heard of so west of Dunmar like off the coast there's this large island called the Illoria and then a chain of smaller islands in.",
+        "",
+        "%% u0634:0-23 %%",
+        "Seeker: In the sort of oh yeah.",
+        "",
+        "%% u0635:0-77 %%",
+        "DM: Let's see there right so you've heard of them you don't know much about them.",
+        "",
+        "%% u0636:0-10, u0637:0-44, u0638:0-18, u0639:0-31, u0640:0-52, u0641:0-58, u0642:0-29 %%",
+        "DM: Ah, Darba. Might be one of my favorite cities actually. Good market there obviously not like Chardon but people are a little more down to earth, I would say. And, of course, can get a boat to anywhere from there, so. One of the few Dunmari ports.",
+        "",
+        "%% u0643:0-9 %%",
+        "Wellby: Anywhere?",
+        "",
+        "%% u0644:0-25 %%",
+        "DM: Yeah I mean I don't know.",
+        "",
+        "%% u0645:0-46, u0646:0-78, u0647:0-79, u0648:0-85 %%",
+        "DM: If you really want to go North up to you know, the Mawar Confederacy or even further north that you got to go to Chardon but. You can go I've seen some some ships coming from the far South lands and Darba. From Illoria from the you know from the peninsula across the bay cross the Nevos Sea.",
+        "",
+        "%% u0649:0-25, u0650:0-86, u0651:0-27, u0652:0-34 %%",
+        "DM: Not a lot of people sail sail along the coast to the south, because that's all you know marshy jungle and then you know the haunted lands. And the sea storms can be trouble.",
+        "",
+        "%% u0653:0-243, u0654:0-3, u0655:0-11, u0656:0-65, u0657:0-74, u0658:0-10, u0659:0-47, u0660:0-8, u0661:0-8 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0662:0-15, u0663:0-51, u0664:0-19 %%",
+        "DM: Yeah, so if you— do you want to go to Darba, it's highly recommended. Or something to do.",
+        "",
+        "%% u0665:0-22 %%",
+        "Kenzo: This sounds appealing.",
+        "",
+        "%% u0666:0-25 %%",
+        "DM: [garbled].",
+        "",
+        "%% u0667:0-33, u0668:0-35 %%",
+        "Kenzo: I don't think I've eaten fish in a long time. Have I eaten fish? Yeah.",
+        "",
+        "%% u0669:0-61, u0670:0-15, u0671:0-14 %%",
+        "DM: So all this dried meat and cheese and— yeah, I got bored of it. Yeah the coast that's for me.",
+        "",
+        "%% u0672:0-54 %%",
+        "Kenzo: Wellby have you been have you sailed out there before?",
+        "",
+        "%% u0673:0-116 %%",
+        "Wellby: No, I only ever sailed the Green Sea back and forth and up and down but I've never been to the southwest never seen.",
+        "",
+        "%% u0674:0-47 %%",
+        "DM: Never even you've never seen the endless ocean.",
+        "",
+        "%% u0675:0-12, u0676:0-83 %%",
+        "Wellby: No, not yet. I was headed that direction, but I've been a little bit busy these last few months.",
+        "",
+        "%% u0677:0-16, u0678:0-18 %%",
+        "DM: Yeah you should. It's worth a look.",
+        "",
+        "%% u0679:0-44 %%",
+        "Wellby: What's on the far side of the endless ocean?",
+        "",
+        "%% u0680:0-13, u0681:0-22 %%",
+        "DM: No one knows. Ships never come back.",
+        "",
+        "%% u0682:0-10, u0683:0-24 %%",
+        "Seeker: Which was endless Ocean is really.",
+        "",
+        "%% u0684:0-42 %%",
+        "Wellby: Really great then if they never come back.",
+        "",
+        "%% u0685:0-47 %%",
+        "DM: That's that's west of Chardon that's the ocean.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Don't know that that's relevant but.",
+          "Seeker: You could also imagine it an insignia like that, for a keep that's high in the mountains so often appear to be floating in the clouds.",
+          "Kenzo: Wellby.",
+          "Wellby: I say we jot it down and ask people who know. Actually, no, no, let's show it to them. Let's show it to him. What's his name? He's been around.",
+          "Seeker: [garbled]."
+        ],
+        "after": [
+          "Seeker: To the Northwest.",
+          "DM: Yeah I mean it it's not there's that you don't really know what's on— you know, Wellby hasn't ever— this is Wellby's map, right? So you picked up a lot of this you got from Garret. In that couple weeks of downtime in Karawa so he described the Nevos Sea neither you nor he has ever seen the other coast so there's this there's this if you zoom way out on the map on Roll20 there's this peninsula here like over here. Something is, on the other side of that but nobody's been over there so just the coast.",
+          "DM: And then up here is the Endless Ocean that just goes West as far as anybody has ever been.",
+          "Kenzo: So there's this big landmass like west of the Emerald Bay?",
+          "Seeker: Yep."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Garret turns in",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0826",
+        "endUid": "u0830"
+      },
+      "lines": [
+        "%% u0826:0-38, u0827:0-32, u0828:0-26, u0829:0-12, u0830:0-18 %%",
+        "DM: So he kind of kicks the fire and says this is getting too dark for me. Talking about plagues and destruction. I'm gonna turn in.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Well, the red mist came back. Same plague probably, right? Wait for it. Cha'mutte's strain probably destroyed Drankor. I don't know if we ever discovered that.",
+          "Seeker: Mist, mist variant.",
+          "Kenzo: I'm. The delta plague.",
+          "Seeker: I guess I tried to make a subtler version of it.",
+          "Kenzo: All right."
+        ],
+        "after": [
+          "Wellby: Feel like with the coin, we got some really useful, important information that we do not understand what it is or how it fits with anything else.",
+          "Delwath: No yeah.",
+          "Kenzo: Feels like a theme.",
+          "Seeker: Yeah, just the chronology. Do we know anything about the chronology typically shown in the mirror? For example, was that last thing that we saw the most recent thing?",
+          "Kenzo: Good question I think so, oh no actually I remember when I when I showed a piece of jade I felt like it went, like all the way the history first and then, when forwards."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The mirror’s chronological order",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e040",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0834",
+        "endUid": "u0846"
+      },
+      "lines": [
+        "%% u0834:0-164 %%",
+        "Seeker: Yeah, just the chronology. Do we know anything about the chronology typically shown in the mirror? For example, was that last thing that we saw the most recent thing?",
+        "",
+        "%% u0835:0-73, u0836:0-96 %%",
+        "Kenzo: Good question I think so, oh no actually I remember when I when I showed a piece of jade I felt like it went, like all the way the history first and then, when forwards.",
+        "",
+        "%% u0837:0-7 %%",
+        "Seeker: Mm hmm.",
+        "",
+        "%% u0838:0-27, u0839:0-78, u0840:0-113 %%",
+        "DM: You have that that is that that every time you've looked in the mirror, it has— the scenes have proceeded, have not been jumbled up, but whether it starts with the most recent or ends with the most recent is not obvious.",
+        "",
+        "%% u0841:0-25 %%",
+        "Seeker: So they're in some order.",
+        "",
+        "%% u0842:0-127, u0843:0-27, u0844:0-35, u0845:0-30 %%",
+        "DM: Like the first time you ever went down, Wellby asked the mirror, how does the door open, I think it went from oldest to newest. But when you looked at the when you looked at the the scepter it went from newest to oldest.",
+        "",
+        "%% u0846:0-172 %%",
+        "DM: So it seems to be so hard to predict whether it's going to go newest to oldest or oldest to newest, but it does seem to stay— doesn't jump around. It doesn't go old, new, or—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: All right.",
+          "DM: So he kind of kicks the fire and says this is getting too dark for me. Talking about plagues and destruction. I'm gonna turn in.",
+          "Wellby: Feel like with the coin, we got some really useful, important information that we do not understand what it is or how it fits with anything else.",
+          "Delwath: No yeah.",
+          "Kenzo: Feels like a theme."
+        ],
+        "after": [
+          "Seeker: I was also thinking it's funny how we were just discussing, as we set out, how to make sure that in the event the wagon itself containing the mirror is stolen, we might find out where it's gone. We hadn't considered that the mirror which we ourselves have arguably stolen could be reporting our position or something about us back to someone that does have it.",
+          "Delwath: Hasn't occurred to somebody yeah.",
+          "Wellby: But I mean I also feel like Eudomes is many centuries dead.",
+          "Delwath: Yeah Garret, is not the most reliable narrator for everything that can happen with magic.",
+          "Kenzo: Well, or many centuries trapped?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Hralgar, the statue, and the missing eyes",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0861",
+        "endUid": "u0893"
+      },
+      "lines": [
+        "%% u0861:0-67, u0862:0-49, u0863:0-12, u0864:0-39 %%",
+        "Seeker: What was the story of that tower? So the tower is the locus of the infinite electrical storm, where the storm giant was trapped. Yep and that was Eudomes's former home.",
+        "",
+        "%% u0865:0-54, u0866:0-31 %%",
+        "Wellby: And Eudomes trapped the storm giant and took its eyes. That's a way of controlling it.",
+        "",
+        "%% u0867:0-33 %%",
+        "Seeker: But then later died. Is that true?",
+        "",
+        "%% u0868:0-45, u0869:0-229 %%",
+        "DM: You don't your your understanding is that um Eudomes somehow— so there was that statue of a giant's head, right? And somehow Eudomes, like, linked the giant to the statue, so its eyes were the statue's eyes, its mind was the statue's mind. And that is how Eudomes controlled that.",
+        "",
+        "%% u0870:0-82 %%",
+        "Wellby: And then, what triggered the storm, because the storm hasn't been there 500 years?",
+        "",
+        "%% u0871:0-27 %%",
+        "Seeker: Or anything to do with the.",
+        "",
+        "%% u0872:0-6 %%",
+        "Unknown: Giant.",
+        "",
+        "%% u0873:0-47, u0874:0-5 %%",
+        "DM: You don't— you never know— you don't really know. Yeah.",
+        "",
+        "%% u0875:0-66 %%",
+        "DM: What you were you know that the eyes were removed from the statue.",
+        "",
+        "%% u0876:0-9, u0877:0-30, u0878:0-29 %%",
+        "Delwath: And it's— didn't we have this idea that the giant was losing control.",
+        "",
+        "%% u0879:0-12 %%",
+        "DM: Yes, so the.",
+        "",
+        "%% u0880:0-85 %%",
+        "Delwath: Storm could have been the giant was, right? Possibly because— this is what did he tell.",
+        "",
+        "%% u0881:0-4 %%",
+        "Wellby: You.",
+        "",
+        "%% u0882:0-39 %%",
+        "Delwath: He was losing control, because this is—",
+        "",
+        "%% u0883:0-21, u0884:0-27 %%",
+        "DM: What he told us, yes. Yeah he was losing control.",
+        "",
+        "%% u0885:0-101, u0886:0-107, u0887:0-59 %%",
+        "Kenzo: But the onset of the crazy electrical storms just was coincided with eyes being stolen, right? Because— We found the body of the Chardonian like like Chardonian treasure raiders again somehow like went in there got the eyes out giant get went crazy and he's still there.",
+        "",
+        "%% u0888:0-8 %%",
+        "DM: Correct.",
+        "",
+        "%% u0889:0-38, u0890:0-60 %%",
+        "Kenzo: Zaps and trying to not be crazy right? Yes, and we're hoping at some point to go and find his eyes.",
+        "",
+        "%% u0891:0-8 %%",
+        "Delwath: Correct.",
+        "",
+        "%% u0892:0-59 %%",
+        "Wellby: Give them back and then return him home, destroy the tower.",
+        "",
+        "%% u0893:0-20 %%",
+        "Delwath: Something like that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah Garret, is not the most reliable narrator for everything that can happen with magic.",
+          "Kenzo: Well, or many centuries trapped?",
+          "Unknown: I.",
+          "Wellby: Mean yeah. Eudomes but.",
+          "Delwath: Eudomes. Yeah I mean he could be trapped somewhere I think it's unlikely."
+        ],
+        "after": [
+          "Kenzo: Hmm.",
+          "Delwath: So.",
+          "Wellby: So.",
+          "DM: The next morning, um, third day on the road, um. You have now clearly crossed into the, the plains, right? Yeah, you know, as you— every day, it seems to get a little bit more, a little bit more vegetation. Um, you know, the road, road itself, you know a little bit more ah you know, it, it just— it's starting to feel a little bit more like these big open expanses of grassland and kind of more fertile terrain, as you ride in, um.",
+          "DM: Ah, there's again still some traffic on the road. Um, hold on one sec. Ah, OK just sent you a message um there's more traffic on the— occasional traffic. And, and here it's not so much like you don't pass people heading to Karawa necessarily. Um, you know, you'll pass, you'll, you'll pass people who are— you see, you know. A few Dunmari hunters following a herd of antelope or you know."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The ring’s voice claims to be Typhina",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e035",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0912",
+        "endUid": "u1086"
+      },
+      "lines": [
+        "%% u0912:0-112, u0913:0-24, u0914:0-4, u0915:0-35 %%",
+        "Seeker: At some point Seeker looks extremely unsettled and looks around like with his hands kind of towards his temples and goes over to Wellby. Who could be speaking in my mind to me?",
+        "",
+        "%% u0916:0-24, u0917:0-2, u0918:0-90 %%",
+        "Wellby: Sure me but it's not me. A— or someone else. What do they sound like? What are they saying? I could also be going crazy.",
+        "",
+        "%% u0919:0-35, u0920:0-3 %%",
+        "Seeker: A little worried about that Wellby. Um.",
+        "",
+        "%% u0921:0-73, u0922:0-13 %%",
+        "Seeker: Voice said, is she— \"Is it safe to talk?\" And then said, \"My name is Typhina.\" Typhina yeah.",
+        "",
+        "%% u0923:0-8, u0924:0-25, u0925:0-65, u0926:0-19, u0927:0-39, u0928:0-34 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0929:0-56, u0930:0-165 %%",
+        "Seeker: I start to pat my various pockets and pouches and think. Gosh, they're all those figurines at Agata's place, some of which literally contains the trapped bodies and souls of people. Perhaps there are more than we knew about?",
+        "",
+        "%% u0931:0-61, u0932:0-24 %%",
+        "Wellby: I think you should talk to her, to say and it's safe to talk. And how you doing today.",
+        "",
+        "%% u0933:0-46, u0934:0-42, u0935:0-12 %%",
+        "Seeker: Okay yeah I I did tell her that Agata is dead. And she asks if we killed her I'll say um yes, we did.",
+        "",
+        "%% u0936:0-14 %%",
+        "Wellby: Burn the body.",
+        "",
+        "%% u0937:0-59, u0938:0-34, u0939:0-76 %%",
+        "Seeker: And okay so I'm communicating with Typhina. That is, we've we've gotten rid of Agata and and we're working on freeing those entrapped by her. Perhaps you're one of those.",
+        "",
+        "%% u0940:0-32, u0941:0-7, u0942:0-15, u0943:0-43, u0944:0-20, u0945:0-12 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0946:0-75 %%",
+        "DM: Um, so she— well, assuming you're going to just tell everybody what she says.",
+        "",
+        "%% u0947:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u0948:0-17, u0949:0-69, u0950:0-31 %%",
+        "DM: She, she responds: I have been here for a long time, I think, but Agata did not trap me. She is truly dead you are sure?",
+        "",
+        "%% u0951:0-17, u0952:0-10, u0953:0-43 %%",
+        "Seeker: By our own hands. And where where is here for you, where Where are you?",
+        "",
+        "%% u0954:0-18 %%",
+        "DM: What is your name?",
+        "",
+        "%% u0955:0-3 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0956:0-21 %%",
+        "DM: Who am I speaking to?",
+        "",
+        "%% u0957:0-77, u0958:0-34, u0959:0-32, u0960:0-12, u0961:0-28, u0962:0-13, u0963:0-26, u0964:0-9, u0965:0-5, u0966:0-57 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u0967:0-27 %%",
+        "Seeker: And you can call me Seeker.",
+        "",
+        "%% u0968:0-7, u0969:0-18, u0970:0-8 %%",
+        "DM: Seeker. Hold up your hand. Fingers.",
+        "",
+        "%% u0971:0-31 %%",
+        "Seeker: Are you seeing through my eyes?",
+        "",
+        "%% u0972:0-23 %%",
+        "DM: No, that is where I am.",
+        "",
+        "%% u0973:0-19 %%",
+        "Seeker: And there's a ring.",
+        "",
+        "%% u0974:0-5, u0975:0-10 %%",
+        "Wellby: What. What what.",
+        "",
+        "%% u0976:0-12, u0977:0-38 %%",
+        "Seeker: So I've got what's the which ring is that oh geez?",
+        "",
+        "%% u0978:0-107 %%",
+        "Kenzo: It's the one that can't be seen right, the one that you can't one that like weirdly makes itself invisible.",
+        "",
+        "%% u0979:0-28 %%",
+        "Wellby: The Ring of the Warded Mind.",
+        "",
+        "%% u0980:0-78, u0981:0-217 %%",
+        "Seeker: There were a bunch of rings, but yeah, this is the it's a dwarven silver ring that your eyes just slide off of, and it protects you against— that's what, when the reason I was puzzled, actually, I meant to ask Tim about that, is that this ring is supposed to protect you from people reading your mind.",
+        "",
+        "%% u0982:0-67 %%",
+        "DM: Nobody can speak to you telepathically unless you let them, except—",
+        "",
+        "%% u0983:0-4, u0984:0-47, u0985:0-23, u0986:0-33, u0987:0-23 %%",
+        "Seeker: Now. I and so now I'm addressing the ring so you're— you're you're in there. I mean it's a beautiful ring but. You must be very small.",
+        "",
+        "%% u0988:0-26, u0989:0-6, u0990:0-13, u0991:0-28, u0992:0-13 %%",
+        "DM: Not all of me is in there. I was— I was killed. But this ring, your ring now, held my soul.",
+        "",
+        "%% u0993:0-79, u0994:0-17, u0995:0-44, u0996:0-37 %%",
+        "Seeker: More precious than we realized this ring and so will it indeed protect me from those willing to communicate or control my mind, directly or or or is that you doing those things?",
+        "",
+        "%% u0997:0-24, u0998:0-4, u0999:0-12 %%",
+        "DM: No, it will protect you. Has many powers.",
+        "",
+        "%% u1000:0-39 %%",
+        "Seeker: What what are some of the other powers?",
+        "",
+        "%% u1001:0-9, u1002:0-46, u1003:0-52 %%",
+        "DM: Well, it will keep you from being possessed or charmed. From anyone reading your thoughts against your will.",
+        "",
+        "%% u1004:0-7 %%",
+        "Unknown: Mm hmm.",
+        "",
+        "%% u1005:0-23 %%",
+        "DM: Intruding on your mind.",
+        "",
+        "%% u1006:0-182 %%",
+        "Seeker: I do tend to like to keep my mind private. And, and, and speaking of which, as, as a result of having acquired this ring, I was— it was especially unexpected to, to hear you enter my mind.",
+        "",
+        "%% u1007:0-73 %%",
+        "DM: Yes, the ring cannot prevent a soul in the ring from reaching the bearer.",
+        "",
+        "%% u1008:0-7 %%",
+        "Unknown: Mm hmm.",
+        "",
+        "%% u1009:0-44 %%",
+        "Seeker: And, and how did you come to be in the ring?",
+        "",
+        "%% u1010:0-4, u1011:0-32, u1012:0-14, u1013:0-169 %%",
+        "DM: Wow. I'm not sure I should trust you. You have some— have a good feeling about you, but I need some assurance that Agata is truly dead before I can speak freely. How do I know? How am I sure that this is not a trick of hers?",
+        "",
+        "%% u1014:0-5 %%",
+        "Seeker: Well.",
+        "",
+        "%% u1015:0-36 %%",
+        "Wellby: Well, what was Agata to this person?",
+        "",
+        "%% u1016:0-49, u1017:0-20, u1018:0-47, u1019:0-62, u1020:0-238 %%",
+        "Seeker: Perhaps Agata is the one to put her in there, we we've brought we um upon dispatching Agata we went to her lair and destroyed or took most of the powerful things that were there. And we still have many of the artifacts that were in the lair, such as— well, I can't, I'm not going to look at it now, but this mirror that traps souls. And oh, Garret over there was a scarecrow in the yard, and if you've ever got to meet him.",
+        "",
+        "%% u1021:0-29, u1022:0-64, u1023:0-36, u1024:0-36, u1025:0-105, u1026:0-115, u1027:0-38 %%",
+        "DM: This all happened, I believe after I tangled with the creature, you know as Agata Dustmother. A fey creature, not from this realm. But she was banished many years ago. Exiled from the Feywild for seeking to twist the promise bonded in solemn oath and sealed with blood. And— she always had a knack for promising less than it seemed and getting more than she asked for in return somehow, but. Caught up with her and she was exiled.",
+        "",
+        "%% u1028:0-41 %%",
+        "Seeker: What was the promise she sought to twist?",
+        "",
+        "%% u1029:0-20, u1030:0-139, u1031:0-29, u1032:0-161, u1033:0-72 %%",
+        "DM: That, I do not know. What I do know is when she fled, she took something she was not supposed to take. A branch of a tree, no more, but this was no ordinary tree. The living essence of a tree. This tree was the living essence of wood itself, and from such an item many powerful magic's could be worked of transformation or destruction. For to control even a piece of this tree is to control the elemental essence of wood itself.",
+        "",
+        "%% u1034:0-32 %%",
+        "DM: I was the guardian of this tree.",
+        "",
+        "%% u1035:0-34, u1036:0-33 %%",
+        "Seeker: And you were the guardian of this tree of all trees in the Feywild.",
+        "",
+        "%% u1037:0-7, u1038:0-24, u1039:0-58, u1040:0-22 %%",
+        "DM: Indeed. And I failed in my duty. And was sent to retrieve the branch that Agata had stolen. I failed in this task.",
+        "",
+        "%% u1041:0-36 %%",
+        "Seeker: And did Agata trap you in this ring?",
+        "",
+        "%% u1042:0-121, u1043:0-190 %%",
+        "DM: Agata does not know. She thought she had killed me, destroyed my body, erased all traces from this plane and all its echoes. But she failed in that goal. She did not know that this ring I wore, a gift given to me long ago by dwarven wizard who came seeking knowledge of the Feywild, had the power to preserve my soul.",
+        "",
+        "%% u1044:0-28 %%",
+        "Seeker: Who is this wonderful dwarf?",
+        "",
+        "%% u1045:0-19, u1046:0-43, u1047:0-9, u1048:0-7, u1049:0-11, u1050:0-11 %%",
+        "DM: Was many years ago. ((The DM searches for the name.)) he was, he was old, older than.",
+        "",
+        "%% u1051:0-77, u1052:0-40, u1053:0-17, u1054:0-18 %%",
+        "DM: Much older than any dwarf, I had known before or since and he seemed to have studied the true essence of many things: of iron, of steel, of stone and rock.",
+        "",
+        "%% u1055:0-54, u1056:0-74 %%",
+        "DM: But something eluded him, I believe, for when he came seeking knowledge in the Feywild of the essence of those things that live.",
+        "",
+        "%% u1057:0-54 %%",
+        "Seeker: I can relate somehow and so he came seeking your tree.",
+        "",
+        "%% u1058:0-36, u1059:0-4, u1060:0-40, u1061:0-45 %%",
+        "DM: I do not believe he knew of my tree. But. Yes, when he arrived in the Feywild and heard of such things he came and spoke to me.",
+        "",
+        "%% u1062:0-28, u1063:0-24, u1064:0-74, u1065:0-64 %%",
+        "DM: We spoke at length. We were, dare I say, friends even. He knew much that was hidden to me and I knew much that was hidden to him. And when we parted he gave me this ring you now bear as a token.",
+        "",
+        "%% u1066:0-7, u1067:0-52, u1068:0-58, u1069:0-83 %%",
+        "DM: And so when I died in this world, I hid from Agata waiting until someone should claim this ring. And your name, Seeker, reminded me of this dwarven friend from ages past coming to seek knowledge from me.",
+        "",
+        "%% u1070:0-26, u1071:0-25, u1072:0-3 %%",
+        "Seeker: Indeed, there seems to be this theme among dwarves and—",
+        "",
+        "%% u1073:0-17, u1074:0-10, u1075:0-7, u1076:0-8, u1077:0-22, u1078:0-52, u1079:0-15 %%",
+        "DM: I will trust you with this secret. Believe if you are willing to take this on, if you can somehow return me, this ring, to the Feywild.",
+        "",
+        "%% u1080:0-44, u1081:0-137 %%",
+        "DM: I believe that I can return to life renewed. But if Agata is truly dead, there is no rush. My mission is ended, thanks to you, and time does not pass for me in this state as it does for.",
+        "",
+        "%% u1082:0-7 %%",
+        "Seeker: Others.",
+        "",
+        "%% u1083:0-28, u1084:0-59, u1085:0-22, u1086:0-37 %%",
+        "DM: But if you know of a way to reach, the Feywild from here, or have such powers yourself I would appreciate it if you would consider such a journey.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: So.",
+          "Wellby: So.",
+          "DM: The next morning, um, third day on the road, um. You have now clearly crossed into the, the plains, right? Yeah, you know, as you— every day, it seems to get a little bit more, a little bit more vegetation. Um, you know, the road, road itself, you know a little bit more ah you know, it, it just— it's starting to feel a little bit more like these big open expanses of grassland and kind of more fertile terrain, as you ride in, um.",
+          "DM: Ah, there's again still some traffic on the road. Um, hold on one sec. Ah, OK just sent you a message um there's more traffic on the— occasional traffic. And, and here it's not so much like you don't pass people heading to Karawa necessarily. Um, you know, you'll pass, you'll, you'll pass people who are— you see, you know. A few Dunmari hunters following a herd of antelope or you know.",
+          "DM: You pass early the morning on the third day on the road, um, um, like family of Dunmari herders with flocks of sheep, sort of not on the road, right? These are people could just live out on these plains, who are you sort of into the— passing into the more settled regions."
+        ],
+        "after": [
+          "Kenzo: A quick meta game: what if we chose only side quests? Time— do this one, go find the giants eyes. Like we just only pursue side quests.",
+          "Seeker: It's like pure procrastination. I love it.",
+          "Kenzo: I feel I'm kind of leaning that way. Like, go visit— go visit Drikod.",
+          "Seeker: Yeah.",
+          "Kenzo: You know, like only side quests."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Questions about the stolen branch and wooden victims",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e035",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1139",
+        "endUid": "u1163"
+      },
+      "lines": [
+        "%% u1139:0-32, u1140:0-71 %%",
+        "Seeker: Typhina, what, what became of the branch from the tree stolen by Agata? Did she bring it into this world?",
+        "",
+        "%% u1141:0-38 %%",
+        "DM: Yes, that's why I came here after her.",
+        "",
+        "%% u1142:0-19 %%",
+        "Seeker: In retrospect yeah.",
+        "",
+        "%% u1143:0-24 %%",
+        "Delwath: It was gross wood— wood.",
+        "",
+        "%% u1144:0-118 %%",
+        "Seeker: Or is it the grove that she made defending her lair that we did not destroy? Well, I don't remember exactly what we did.",
+        "",
+        "%% u1145:0-80, u1146:0-60 %%",
+        "Delwath: We did not destroy her grove. There were two, two things that could be this wood. Yeah, found one, yeah, was the small pot that turned creatures.",
+        "",
+        "%% u1147:0-6, u1148:0-24 %%",
+        "Seeker: Right. We destroyed that stuff.",
+        "",
+        "%% u1149:0-58 %%",
+        "Delwath: We did destroy that. The other was a grove of cursed trees.",
+        "",
+        "%% u1150:0-35, u1151:0-65 %%",
+        "Seeker: Yeah that attacked, so I asked her if she if either those things seem like they came from your tree.",
+        "",
+        "%% u1152:0-12, u1153:0-11, u1154:0-50, u1155:0-28 %%",
+        "DM: Yes, either— either one. Trees that walk in such a way as you describe are quite common in the Feywild.",
+        "",
+        "%% u1156:0-7 %%",
+        "Unknown: Mm hmm.",
+        "",
+        "%% u1157:0-3 %%",
+        "Seeker: And—",
+        "",
+        "%% u1158:0-36, u1159:0-46, u1160:0-23 %%",
+        "DM: Turning people to wood, less so but of course, such a power could be created from this tree of all trees.",
+        "",
+        "%% u1161:0-131 %%",
+        "Seeker: And Agata seemed to in particular have a hobby of trapping people inside of things, which is why I assume she had done that to you.",
+        "",
+        "%% u1162:0-3 %%",
+        "Kenzo: And—",
+        "",
+        "%% u1163:0-93 %%",
+        "Seeker: Many of them wooden figurines she also trapped a bunch of people in this mirror that we have.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: We're radically free. We could settle down and start a little nonprofit in Tokra and be happy and—",
+          "Wellby: Tim saying that we just beat the game, and now we just perfect it.",
+          "Seeker: Like speed run it, we should go back to begin.",
+          "DM: You guys have the worst speedrun record that I think that's ever been recorded last.",
+          "Unknown: Nice."
+        ],
+        "after": [
+          "Kenzo: Is the, is the all powerful fucking thing that we stole for no good reason, that Delwath's holding, that— what is that thing?",
+          "DM: The Scepter of command.",
+          "Kenzo: That's I'm.",
+          "Seeker: Still, I still got that.",
+          "Kenzo: Oh yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Who carries the Scepter of Command?",
+      "entities": [
+        {
+          "id": "e040",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1164",
+        "endUid": "u1174"
+      },
+      "lines": [
+        "%% u1164:0-121 %%",
+        "Kenzo: Is the, is the all powerful fucking thing that we stole for no good reason, that Delwath's holding, that— what is that thing?",
+        "",
+        "%% u1165:0-23 %%",
+        "DM: The Scepter of command.",
+        "",
+        "%% u1166:0-11 %%",
+        "Kenzo: That's I'm.",
+        "",
+        "%% u1167:0-24 %%",
+        "Seeker: Still, I still got that.",
+        "",
+        "%% u1168:0-8 %%",
+        "Kenzo: Oh yeah.",
+        "",
+        "%% u1169:0-15, u1170:0-24 %%",
+        "Delwath: It's— yeah, what? Did you, did you keep it?",
+        "",
+        "%% u1171:0-45, u1172:0-79 %%",
+        "Kenzo: I think that's {{for back}} as far as I know. Wellby kept it [garbled] where's the is that made out of wood?",
+        "",
+        "%% u1173:0-117, u1174:0-36 %%",
+        "Seeker: We should— no, that's, that's metal. We should check on the scepter status every morning at breakfast, though, because I'm— Wow we have a friend, this is great.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: And—",
+          "DM: Turning people to wood, less so but of course, such a power could be created from this tree of all trees.",
+          "Seeker: And Agata seemed to in particular have a hobby of trapping people inside of things, which is why I assume she had done that to you.",
+          "Kenzo: And—",
+          "Seeker: Many of them wooden figurines she also trapped a bunch of people in this mirror that we have."
+        ],
+        "after": [
+          "Wellby: This fabulous.",
+          "Delwath: I'm gonna go to the Sentinels, but, but I think the whole finding what's going on in Tokra is basically a side quest. I think we should make sure not to get involved in the Dunmari civil war.",
+          "Wellby: Agreed.",
+          "Delwath: A great fight.",
+          "Wellby: And we committed to get to Tokra with Garret so."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The mirror’s remaining prisoners",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e044",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1186",
+        "endUid": "u1198"
+      },
+      "lines": [
+        "%% u1186:0-35, u1187:0-37 %%",
+        "Seeker: Yeah and I still have some awesome bad guys trapped in the mirror right.",
+        "",
+        "%% u1188:0-163, u1189:0-20 %%",
+        "DM: You have an orc that you don't know what they are, and you have a, this hobgoblin from before the Great War, who was, like, wanted to run her own little slave empire. Without interfering.",
+        "",
+        "%% u1190:0-36, u1191:0-36 %%",
+        "Seeker: Oh, so we can still do the trick of talking to people inside the mirror?",
+        "",
+        "%% u1192:0-23 %%",
+        "DM: If you know their name.",
+        "",
+        "%% u1193:0-35 %%",
+        "Seeker: Yeah That was the thing and we get.",
+        "",
+        "%% u1194:0-26, u1195:0-46, u1196:0-87, u1197:0-218 %%",
+        "DM: To know the hobgoblin you guessed her name with some extreme luck right. Right you don't know the orc's name and you don't know nearly as much about orc naming. Basically Delwath knows enough, has fought enough and knows enough hobgoblin he could take a reasonable guess at what some hobgoblin names might be. Orcs are tougher. None of you have nearly as much experience with orcs.",
+        "",
+        "%% u1198:0-117 %%",
+        "DM: Can always just release them, though, right? Because you just need the cell number. You don't need their name to release.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: And we committed to get to Tokra with Garret so.",
+          "Delwath: Yeah and.",
+          "Wellby: We immediately go to the.",
+          "Delwath: I think we'll learn something in Tokra and then we can sort of try and figure out what the best next move would be but.",
+          "Kenzo: We still have to, we have to understand, like, what the fuck happened in like when Rai and a bunch of Bhishma people try to open up some portal, but maybe they did or not. Yeah that's what we're trying to find that the person that actually knows what the fuck was going on."
+        ],
+        "after": [
+          "Seeker: Typhina how did you come to be the guardian of the tree?",
+          "DM: I was born into it. Father was the Guardian and his mother before him. Passes down the generations, we have always been the guardians of the tree.",
+          "Seeker: And is there now a guardian since your passing? Perhaps you don't know.",
+          "DM: I have not been back. My brother was the temporary defender of the tree when I left after Agata, and I can only assume he is still guarding it. Or perhaps his daughter.",
+          "Seeker: I wonder what became of that illustrious dwarf— or saying that, um, do I know any of the history? Do I recognize the name of this person?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Typhina’s account of the guardian family",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1199",
+        "endUid": "u1211"
+      },
+      "lines": [
+        "%% u1199:0-56 %%",
+        "Seeker: Typhina how did you come to be the guardian of the tree?",
+        "",
+        "%% u1200:0-19, u1201:0-24, u1202:0-26, u1203:0-75 %%",
+        "DM: I was born into it. Father was the Guardian and his mother before him. Passes down the generations, we have always been the guardians of the tree.",
+        "",
+        "%% u1204:0-47, u1205:0-23 %%",
+        "Seeker: And is there now a guardian since your passing? Perhaps you don't know.",
+        "",
+        "%% u1206:0-21, u1207:0-19, u1208:0-61, u1209:0-41, u1210:0-11, u1211:0-13 %%",
+        "DM: I have not been back. My brother was the temporary defender of the tree when I left after Agata, and I can only assume he is still guarding it. Or perhaps his daughter.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh, so we can still do the trick of talking to people inside the mirror?",
+          "DM: If you know their name.",
+          "Seeker: Yeah That was the thing and we get.",
+          "DM: To know the hobgoblin you guessed her name with some extreme luck right. Right you don't know the orc's name and you don't know nearly as much about orc naming. Basically Delwath knows enough, has fought enough and knows enough hobgoblin he could take a reasonable guess at what some hobgoblin names might be. Orcs are tougher. None of you have nearly as much experience with orcs.",
+          "DM: Can always just release them, though, right? Because you just need the cell number. You don't need their name to release."
+        ],
+        "after": [
+          "Seeker: I wonder what became of that illustrious dwarf— or saying that, um, do I know any of the history? Do I recognize the name of this person?",
+          "DM: Make a history check.",
+          "DM: So you don't know a lot. The name, though, is recorded in— so, this would have been actually before even the Great War. So many of— so Daruk was from the Kingdom of— God, where am I now. Wait which one, are you from? Remember their names, but you're from the— are, Seeker, from like that kingdom that was like once the big old thing that, like, most famous one is like now kind of.",
+          "Seeker: Decided this, but it can.",
+          "DM: Be I can't remember either."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Daruk’s search for lost transformation magic",
+      "entities": [
+        {
+          "id": "e036",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1212",
+        "endUid": "u1239"
+      },
+      "lines": [
+        "%% u1212:0-135 %%",
+        "Seeker: I wonder what became of that illustrious dwarf— or saying that, um, do I know any of the history? Do I recognize the name of this person?",
+        "",
+        "%% u1213:0-21 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1214:0-24, u1215:0-33, u1216:0-60, u1217:0-64, u1218:0-29, u1219:0-161 %%",
+        "DM: So you don't know a lot. The name, though, is recorded in— so, this would have been actually before even the Great War. So many of— so Daruk was from the Kingdom of— ((Kingdom-name lookup.))",
+        "",
+        "%% u1220:0-25, u1221:0-27 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1222:0-63, u1223:0-2, u1224:0-153, u1225:0-56 %%",
+        "DM: Well, anyway, he is from is from the northern Kingdom that was a— that was largely destroyed by the, like, collapse of Urlich monastery and all the devastation to the west of Sembara. That was once a major dwarven kingdom. I see and so not very many records of him have survived.",
+        "",
+        "%% u1226:0-138, u1227:0-34 %%",
+        "DM: So all that you can remember from from what you could you know read when you were studying was that um Yes, he traveled widely and he was he was he was seeking kind of the—",
+        "",
+        "%% u1228:0-66, u1229:0-209, u1230:0-75, u1231:0-51, u1232:0-186 %%",
+        "DM: So then a lot of dwarven runic magic has been had been lost, right? Like, there's a lot of especially, you know, rune— the sort of, the sort of magic that can permanently transform things, right? So this was supposedly once part of, like, the dwarven legends was like magic that could. A rune that you could carve on something to permanently transform its form. And this knowledge had been lost, and that was the record of him that you have had seen was this— was seeking— was trying to find, seeking after this lost knowledge, that the key to unlocking the sort of permanent transformation of things.",
+        "",
+        "%% u1233:0-54 %%",
+        "Seeker: And hence the essences of things is what he was after.",
+        "",
+        "%% u1234:0-6, u1235:0-12 %%",
+        "Unknown: Right. That's cool.",
+        "",
+        "%% u1236:0-5, u1237:0-62, u1238:0-104 %%",
+        "Seeker: Well. Won't be long before the mirror is recharged Eudomes's mirror. And I personally would be interested to learn about exactly why Daruk made this ring in the first place.",
+        "",
+        "%% u1239:0-16 %%",
+        "Kenzo: Sounds like fun.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Can always just release them, though, right? Because you just need the cell number. You don't need their name to release.",
+          "Seeker: Typhina how did you come to be the guardian of the tree?",
+          "DM: I was born into it. Father was the Guardian and his mother before him. Passes down the generations, we have always been the guardians of the tree.",
+          "Seeker: And is there now a guardian since your passing? Perhaps you don't know.",
+          "DM: I have not been back. My brother was the temporary defender of the tree when I left after Agata, and I can only assume he is still guarding it. Or perhaps his daughter."
+        ],
+        "after": [
+          "DM: Okay. Ah.",
+          "DM: The next— the next few days pass quietly. You're about halfway there. It's me it's it's been an easy journey.",
+          "DM: Again, the road is not crowded, but you never, you know— clearly this is a— people are feeling safe. A lot of people are spreading back out across the plains. You know, especially as you begin to cross over the halfway point and begin to approach Tokra like you know you get a sense of how of like what life in Dunmar was like. You know back a year ago, before all of the devastation and the danger and everything happened, you know.",
+          "DM: On the fifth day around lunchtime you pass another small family encampments set off— set up a little bit off the road. Um, there is a— there is a ruined like piece of an aqueduct that runs along the road maybe about a mile north of the road, but clearly visible across the plains, was like a little Dunmari encampments setup there, sheltering in the shade of the, of the aqueduct from the midday sun.",
+          "DM: You know that evening of the fifth day you know, you, you pass again— unless you want to go investigate the aqueduct?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "The aqueduct hostess shares news of Tokra",
+      "entities": [
+        {
+          "id": "e045",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1318",
+        "endUid": "u1411"
+      },
+      "lines": [
+        "%% u1318:0-78, u1319:0-10, u1320:0-7 %%",
+        "DM: So as you're looking, this woman rides up, or kind of comes out of her tent and— Travelers, welcome.",
+        "",
+        "%% u1321:0-10 %%",
+        "Delwath: Greetings.",
+        "",
+        "%% u1322:0-10, u1323:0-27, u1324:0-5, u1325:0-23, u1326:0-22 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1327:0-14, u1328:0-52, u1329:0-7, u1330:0-7, u1331:0-53, u1332:0-26 %%",
+        "DM: Yeah friendly. Is particularly interested in this weird assemblage brings such a unusual collection of people out on the plains today? Where are you coming from?",
+        "",
+        "%% u1333:0-29, u1334:0-75, u1335:0-33 %%",
+        "Seeker: We were in Karawa but but we— I, in particular, I should say I'm especially interested in the historical interest of these aqueduct ruins.",
+        "",
+        "%% u1336:0-4, u1337:0-27 %%",
+        "DM: Old Drankorian it's all I know.",
+        "",
+        "%% u1338:0-61 %%",
+        "Seeker: And, and what brings you folks out to this part of the world?",
+        "",
+        "%% u1339:0-49, u1340:0-42, u1341:0-33 %%",
+        "DM: She like opens her hands out on the, the flock of goats and horses. We live here, of course. Just camping here for a few days.",
+        "",
+        "%% u1342:0-45, u1343:0-20 %%",
+        "Delwath: We're heading to Tokra you had any news from from there recently?",
+        "",
+        "%% u1344:0-22 %%",
+        "DM: We left two weeks ago.",
+        "",
+        "%% u1345:0-4 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1346:0-19, u1347:0-56, u1348:0-22, u1349:0-24, u1350:0-34 %%",
+        "DM: Or just a week ago. When we heard the news that it was safe to travel again. Have to say it wasn't wasn't too thrilled was spending so much time in the city.",
+        "",
+        "%% u1351:0-10, u1352:0-25 %%",
+        "Delwath: Excuse me. See any foreigners there?",
+        "",
+        "%% u1353:0-65, u1354:0-15, u1355:0-12, u1356:0-25, u1357:0-10 %%",
+        "DM: Yeah there's some Chardonians who arrived recently with the army or, helping to protect the, the border, I guess, but. Skeptical.",
+        "",
+        "%% u1358:0-84, u1359:0-18 %%",
+        "DM: Well, I guess that's now the border of Dunmar, according to our great Samraat Karnas. Haven't you heard?",
+        "",
+        "%% u1360:0-4, u1361:0-8, u1362:0-15, u1363:0-17, u1364:0-27, u1365:0-102, u1366:0-35 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1367:0-136, u1368:0-40 %%",
+        "Delwath: And his form of screw you people was not so much actually to attack them or do anything bad, but it was just to say Tokra is the border. Anybody east of Tokra can die in a fire.",
+        "",
+        "%% u1369:0-24, u1370:0-8 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1371:0-63, u1372:0-89, u1373:0-24 %%",
+        "DM: Heard some strange rumors from the north, though lots of fires like an unusual amount of burning for this time of year, I mean we always got fires, but. You've been up that way?",
+        "",
+        "%% u1374:0-23 %%",
+        "Kenzo: What part of the North?",
+        "",
+        "%% u1375:0-25, u1376:0-27, u1377:0-56 %%",
+        "DM: Northeast of here, maybe I don't know hundred miles, couple of hundred and 50 miles like up by the mountains.",
+        "",
+        "%% u1378:0-16 %%",
+        "Seeker: It doesn't rain.",
+        "",
+        "%% u1379:0-12, u1380:0-25 %%",
+        "Delwath: Storm there seems fixed on the earth.",
+        "",
+        "%% u1381:0-13, u1382:0-10 %%",
+        "DM: Indeed, that seems bad.",
+        "",
+        "%% u1383:0-10 %%",
+        "Delwath: I suspect.",
+        "",
+        "%% u1384:0-22, u1385:0-7 %%",
+        "DM: A lot of the land has burned.",
+        "",
+        "%% u1386:0-21 %%",
+        "Delwath: Has spread the fires.",
+        "",
+        "%% u1387:0-21, u1388:0-13, u1389:0-6 %%",
+        "DM: It's gonna be a hard fall without grass.",
+        "",
+        "%% u1390:0-59, u1391:0-17 %%",
+        "Wellby: Have you seen many Chardonians traveling West toward Tokra? Adventurers West?",
+        "",
+        "%% u1392:0-25 %%",
+        "Unknown: Coming out of the desert.",
+        "",
+        "%% u1393:0-9 %%",
+        "DM: You know.",
+        "",
+        "%% u1394:0-76, u1395:0-49, u1396:0-29, u1397:0-26, u1398:0-42, u1399:0-14 %%",
+        "DM: So I heard a story from him when we were in Tokra together. He had a little bar I guess you'd call it set up along the river. Very good, I guess there was a group of folks who came in— came into Tokra, maybe three weeks ago, I want to say.",
+        "",
+        "%% u1400:0-109, u1401:0-48, u1402:0-60, u1403:0-34 %%",
+        "DM: Chardonians coming from, from out this way, from out in the desert. Had been out in the desert for a long time. I never saw them. I just, I just heard secondhand. Yeah, maybe, maybe early June, beginning of June, they came in. Don't know if they're still there.",
+        "",
+        "%% u1404:0-17 %%",
+        "Kenzo: How many of them?",
+        "",
+        "%% u1405:0-31 %%",
+        "DM: Oh, a handful maybe 10 I heard.",
+        "",
+        "%% u1406:0-42 %%",
+        "Delwath: Have many other folks left Tokra like you?",
+        "",
+        "%% u1407:0-29, u1408:0-31, u1409:0-62 %%",
+        "DM: Yeah most of us emptying out. Cities aren't really our thing. I mean when you have this, why lock yourself up in a building?",
+        "",
+        "%% u1410:0-17 %%",
+        "Kenzo: Make sense to me.",
+        "",
+        "%% u1411:0-50 %%",
+        "DM: You can stay stay the afternoon happy to feed you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: And was all this is part of the wasn't as part of the the great elven empire like when this— this used to be like fucking huge forest and shit.",
+          "DM: That was.",
+          "Delwath: Before Drankor.",
+          "Seeker: Even longer ago.",
+          "Unknown: Yeah."
+        ],
+        "after": [
+          "Kenzo: Are we hungry?",
+          "DM: You got plenty of food.",
+          "Wellby: Authentic Dunmari pastoralist meal like that's a it's a new cultural experience.",
+          "Seeker: What, Wellby, are you saying our endless supply from this tea kettle of water, vinegar, ketchup and mayonnaise is inadequate to your tastes?",
+          "DM: Well, you got a quart a day so."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Garret explains his companions’ magic obsession",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1486",
+        "endUid": "u1487"
+      },
+      "lines": [
+        "%% u1486:0-57, u1487:0-95 %%",
+        "DM: Exactly and and Garret also kind of looking at them like. I know what is happening. And then, like, starts— goes over, he's like, they're obsessed with magic.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: It's it's how it's 20 feet up?",
+          "DM: Yeah yeah.",
+          "Delwath: Delwath'll look around for a minute and then just kind of shrug and step up.",
+          "DM: Dunmari now looking like: What is happening?",
+          "Delwath: Well, Delwath'll shrug like what's the point here."
+        ],
+        "after": [
+          "Delwath: Yeah we're totally becoming the people we hate. What, now that I'm up here I'm going to use sight of Elmerca to detect if it's magical.",
+          "DM: There is a faint there is a very faint magic and almost it feels like it's faded, but just.",
+          "Delwath: A little echo. I assume the runes actually say something about creating water.",
+          "DM: They— what they say is, they say it's, it's almost like replicate water or enhance, like duplicate water. Not create out of thin air, but make it— make more, double something that exists.",
+          "Unknown: Whoa."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Helping the hostess use the aqueduct",
+      "entities": [
+        {
+          "id": "e045",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e047",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1559",
+        "endUid": "u1600"
+      },
+      "lines": [
+        "%% u1559:0-84, u1560:0-86 %%",
+        "Delwath: I'll jump back down and I'll tell— walk back over to the one we were talking to, you know ask her if she's ever noticed this particular good fertile lush piece of pasture.",
+        "",
+        "%% u1561:0-15, u1562:0-74, u1563:0-35 %%",
+        "DM: Yeah it's this. Always come here to graze it's good territory and when it rains the water you know pours down off that thing.",
+        "",
+        "%% u1564:0-6, u1565:0-25, u1566:0-5 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1567:0-17, u1568:0-16, u1569:0-37 %%",
+        "DM: Be careful don't don't ruin this. What are your friends doing up there?",
+        "",
+        "%% u1570:0-36 %%",
+        "Delwath: They just want to know how it works.",
+        "",
+        "%% u1571:0-32 %%",
+        "DM: Oh, I have no idea how it works.",
+        "",
+        "%% u1572:0-55, u1573:0-42, u1574:0-52 %%",
+        "Delwath: But it is that, as you sound like you may suspect, that that ancient piece of Drankorian aqueduct increases the rain that spills on it by quite a bit.",
+        "",
+        "%% u1575:0-72, u1576:0-14 %%",
+        "DM: It does? I thought it just— I thought there was just a pool up there that gathers water.",
+        "",
+        "%% u1577:0-27 %%",
+        "Wellby: Magic aqueduct, then again.",
+        "",
+        "%% u1578:0-62 %%",
+        "Delwath: Any water you pour there will be increased, when it comes off.",
+        "",
+        "%% u1579:0-4 %%",
+        "DM: Wow.",
+        "",
+        "%% u1580:0-68 %%",
+        "Delwath: Bring a barrel up there and dump it will have more water at the end.",
+        "",
+        "%% u1581:0-76 %%",
+        "Wellby: Seeker can you shore up this thing? There are parts of it that look rickety.",
+        "",
+        "%% u1582:0-125, u1583:0-9 %%",
+        "Seeker: I was thinking, I might even make a set of stairs to help you get up to the high end and perhaps a little basin at the lower you know.",
+        "",
+        "%% u1584:0-19, u1585:0-12 %%",
+        "DM: That that would be very useful.",
+        "",
+        "%% u1586:0-82, u1587:0-16 %%",
+        "Seeker: I set to work on that ((Mold Earth mechanics.))",
+        "",
+        "%% u1588:0-92, u1589:0-25, u1590:0-192 %%",
+        "DM: ((Mold Earth mechanics.)) it'll take you a, you know, most of the rest of the afternoon, but once they realize what you're doing, you know, several of the like, you know, teenagers running around camp come to help.",
+        "",
+        "%% u1591:0-55 %%",
+        "Seeker: So I direct the operation, creating a big yeah sort of—",
+        "",
+        "%% u1592:0-41 %%",
+        "DM: Like an earthen berm that goes up to the.",
+        "",
+        "%% u1593:0-38 %%",
+        "Seeker: Mm hmm sort of ramp so you can get up.",
+        "",
+        "%% u1594:0-3 %%",
+        "DM: And—",
+        "",
+        "%% u1595:0-89 %%",
+        "Seeker: A little channel, so that the water spills out into something that you can gather it and.",
+        "",
+        "%% u1596:0-45 %%",
+        "DM: This is this is quite nice of you, thank you.",
+        "",
+        "%% u1597:0-33, u1598:0-67 %%",
+        "Delwath: Magic is ancient and fading so I cannot tell you how long it will last but hopefully years at least.",
+        "",
+        "%% u1599:0-35, u1600:0-59 %%",
+        "DM: Only the gods can tell us that but as long as Jeevali smiles on us the water will keep coming.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: To identify it or to do an Arcana check to try and figure out more about that.",
+          "Seeker: Oh, I was thinking to do identify.",
+          "DM: Cast Identify.",
+          "Unknown: Okay.",
+          "DM: So, so yes, this is basically a repeater. It's like water is going on really long distance, but it's, you know, subtropical and evaporates, and so every some number of miles, this is a stretch that can be act— that activates to, when water flows over it, to increase the amount of water that is flowing."
+        ],
+        "after": [
+          "Seeker: I am also while we're up there in a in a break in a moment of you know resting I dig out the kettle and see if it will multiply the content, the quantity of other liquids.",
+          "DM: So it doesn't seem to— no, it doesn't. And actually, you notice now that once Seeker, or once Wellby, poured his waterskin, it seems to require some time to recharge. So, like, even if you pour water over it now, nothing happens. Possibly it's a— the magic has faded enough that it's not constant or it requires some recharge or something like that. So.",
+          "Wellby: Side quest complete.",
+          "Seeker: Good work guys.",
+          "DM: So you spend the night."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "The hostess’s grateful meal",
+      "entities": [
+        {
+          "id": "e045",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1612",
+        "endUid": "u1624"
+      },
+      "lines": [
+        "%% u1612:0-39 %%",
+        "Kenzo: Wait we eat their food with them right?",
+        "",
+        "%% u1613:0-70, u1614:0-26 %%",
+        "DM: Oh yeah yeah so so she's right she's very grateful for all of this um you know what you've done.",
+        "",
+        "%% u1615:0-74 %%",
+        "Delwath: I'll go poke around and help them cook slash see if I can learn something.",
+        "",
+        "%% u1616:0-32, u1617:0-146, u1618:0-140, u1619:0-40, u1620:0-141, u1621:0-172, u1622:0-97 %%",
+        "DM: So they so so so she brings out the, like, the nice stuff, right? So they have some, some dried, some dried fruit and, um, just like a nice platter of, like, like flat breads, dried fruit. They've got goat here because they slaughtered a goat a couple days ago, and so they've got goat skewers cooked over the fire, nicely spiced. Some, like like honey cakes for dessert. It's a, it's a pretty good spread. It's, it's like, you know, better. It's all fresh, right? You're mostly eating trail rations, which is pretty much you know, hard goats cheese, hard goat's cheese and, and dried jerky and, like, hard bread or cracker type things, right? So it's nice to get some fresh food, some especially some. You know the the freshly cooked meat and then the honey cake for dessert is a nice treat as well.",
+        "",
+        "%% u1623:0-20, u1624:0-213 %%",
+        "DM: So it's a nice meal. Everybody's pleased. Like, the, the kids are like running up the ramp and, like, look— poking around and look at it. Pretty disappointed that, like, anything they pour, nothing happens. Like, try it in the morning, you know.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So it doesn't seem to— no, it doesn't. And actually, you notice now that once Seeker, or once Wellby, poured his waterskin, it seems to require some time to recharge. So, like, even if you pour water over it now, nothing happens. Possibly it's a— the magic has faded enough that it's not constant or it requires some recharge or something like that. So.",
+          "Wellby: Side quest complete.",
+          "Seeker: Good work guys.",
+          "DM: So you spend the night.",
+          "Delwath: Yep."
+        ],
+        "after": [
+          "Seeker: Don't pee in there.",
+          "Unknown: Yeah.",
+          "DM: Of course, every single one of them is going to. So.",
+          "Wellby: I'll take this opportunity to heat up some dinner but I'm still here and listening.",
+          "Unknown: Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "The scorpion reflects a giant form and is destroyed",
+      "entities": [
+        {
+          "id": "e048",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1703",
+        "endUid": "u1756"
+      },
+      "lines": [
+        "%% u1703:0-49 %%",
+        "DM: So you are taking the Scorpions out of the pouch.",
+        "",
+        "%% u1704:0-30 %%",
+        "Delwath: Yeah use Mage Hand like oh is—",
+        "",
+        "%% u1705:0-25 %%",
+        "Seeker: And what's our questions?",
+        "",
+        "%% u1706:0-78, u1707:0-44 %%",
+        "Delwath: These are totally normal Scorpions that I just used for food or something but. I want to think about how they were created.",
+        "",
+        "%% u1708:0-26, u1709:0-71, u1710:0-18, u1711:0-38, u1712:0-88, u1713:0-25, u1714:0-21, u1715:0-4 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1716:0-36 %%",
+        "DM: So you hold up the scorpion Delwath.",
+        "",
+        "%% u1717:0-44, u1718:0-36, u1719:0-23, u1720:0-36 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1721:0-25, u1722:0-24, u1723:0-72, u1724:0-47, u1725:0-43, u1726:0-45, u1727:0-42, u1728:0-105, u1729:0-3 %%",
+        "DM: You hold up the scorpion scorpion with Mage hand and you see reflected in the mirror a giant scorpion struggling against your hand, struggling, like railing against this invisible force that's holding it in place. And as that's that's reflected in the mirror you see, the tail begin to come up, and it— the tail strikes down and hits whatever seems to be holding the reflection of the scorpion in the mirror and—",
+        "",
+        "%% u1730:0-18, u1731:0-31, u1732:0-34, u1733:0-98 %%",
+        "DM: You pause the, the— the vision pauses for a second. The scorpion sort of turns around looking back and forth, and you see the scorpion that you're holding with Mage hand begin to turn.",
+        "",
+        "%% u1734:0-10, u1735:0-8, u1736:0-15, u1737:0-30, u1738:0-15, u1739:0-5, u1740:0-20, u1741:0-29, u1742:0-5, u1743:0-124, u1744:0-12, u1745:0-36, u1746:0-42, u1747:0-26, u1748:0-11, u1749:0-7, u1750:0-15, u1751:0-17, u1752:0-13, u1753:0-22, u1754:0-25 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1755:0-132, u1756:0-28 %%",
+        "DM: Just as it starts to move, as this little scorpion starts to turn and it turns back to look at all of you, an arrow from Wellby just flies out and destroys that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah.",
+          "Wellby: Few more weeks doesn't make a difference that's.",
+          "Seeker: Okay I'll do the Scorpions who's gonna, who's gonna go?",
+          "Kenzo: Delwath.",
+          "Seeker: Delwath okay."
+        ],
+        "after": [
+          "Seeker: So that was that was alarming.",
+          "Kenzo: How many of those were there?",
+          "DM: There were four.",
+          "Kenzo: We have three more.",
+          "Unknown: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Destroying the remaining scorpions",
+      "entities": [
+        {
+          "id": "e048",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1757",
+        "endUid": "u1810"
+      },
+      "lines": [
+        "%% u1757:0-30 %%",
+        "Seeker: So that was that was alarming.",
+        "",
+        "%% u1758:0-29 %%",
+        "Kenzo: How many of those were there?",
+        "",
+        "%% u1759:0-16 %%",
+        "DM: There were four.",
+        "",
+        "%% u1760:0-19 %%",
+        "Kenzo: We have three more.",
+        "",
+        "%% u1761:0-5, u1762:0-24 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1763:0-72, u1764:0-15, u1765:0-98 %%",
+        "Wellby: We learned there are giant Scorpions stuffed inside these little things. Yeah and if we look at them or move them or think too hard about them, they turn back into giant Scorpions again.",
+        "",
+        "%% u1766:0-27 %%",
+        "Delwath: Possibly if we attack them.",
+        "",
+        "%% u1767:0-41 %%",
+        "Wellby: No, it started wiggling before I shot it.",
+        "",
+        "%% u1768:0-15 %%",
+        "Delwath: Ah that's true.",
+        "",
+        "%% u1769:0-68 %%",
+        "Seeker: Yeah that bag is tied really tightly though right so should be fine?",
+        "",
+        "%% u1770:0-112 %%",
+        "Kenzo: Well, it was when it saw itself in the mirror that it became aware of itself and started activating again, right?",
+        "",
+        "%% u1771:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u1772:0-26 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1773:0-46 %%",
+        "Kenzo: We should probably burn this bag of Scorpions.",
+        "",
+        "%% u1774:0-50, u1775:0-8 %%",
+        "Delwath: I was just thinking, what are we keeping them for, exactly?",
+        "",
+        "%% u1776:0-108 %%",
+        "Kenzo: It doesn't seem like these are gonna do anything useful for us, other than potentially kill us in our sleep.",
+        "",
+        "%% u1777:0-17 %%",
+        "Delwath: I'm I'm with you.",
+        "",
+        "%% u1778:0-52 %%",
+        "Seeker: Or you could throw them in the fire activating them.",
+        "",
+        "%% u1779:0-152 %%",
+        "Wellby: I think we should chop them up in their current form. Like, to me the arrow suggests that if we just destroy them when they're small, they won't activate.",
+        "",
+        "%% u1780:0-33, u1781:0-25 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1782:0-24 %%",
+        "Delwath: Let's just destroy them.",
+        "",
+        "%% u1783:0-43 %%",
+        "DM: So how are you how are you destroying them?",
+        "",
+        "%% u1784:0-7, u1785:0-31 %%",
+        "Delwath: I will I will dump them on the ground.",
+        "",
+        "%% u1786:0-9 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1787:0-11, u1788:0-94 %%",
+        "Kenzo: No, no, no. Keep it in the bag. Let me keep them in the bag and do terrible things to them inside the bag.",
+        "",
+        "%% u1789:0-48, u1790:0-82 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1791:0-14, u1792:0-7, u1793:0-7, u1794:0-44, u1795:0-9, u1796:0-25 %%",
+        "Delwath: In their form. I will— I will— Delwath will create a giant two handed maul and just smash them with the maul.",
+        "",
+        "%% u1797:0-15, u1798:0-120 %%",
+        "DM: You hear a few crunching sounds as you gradually turn the Scorpions, the bag that contains the Scorpions, the ground around the bag that.",
+        "",
+        "%% u1799:0-14 %%",
+        "Wellby: Contains into.",
+        "",
+        "%% u1800:0-5 %%",
+        "Unknown: Dust.",
+        "",
+        "%% u1801:0-55, u1802:0-26 %%",
+        "DM: And then kick the dust into the fire and watch it burn. The Scorpions are no more.",
+        "",
+        "%% u1803:0-49, u1804:0-22, u1805:0-194, u1806:0-38 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1807:0-72, u1808:0-33 %%",
+        "DM: You touch them or expose them to direct magical effects, they reanimated. Well non cantrip magical effects.",
+        "",
+        "%% u1809:0-60 %%",
+        "Delwath: So the Mage Hand cantrip was fine to have contact with this?",
+        "",
+        "%% u1810:0-4 %%",
+        "DM: Yes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Steady Aim.",
+          "DM: Oh wow. Okay nevermind.",
+          "Seeker: Your arrows like.",
+          "DM: The scorpion shatters it into dust as the mirror goes black.",
+          "DM: Just as it starts to move, as this little scorpion starts to turn and it turns back to look at all of you, an arrow from Wellby just flies out and destroys that."
+        ],
+        "after": [
+          "Seeker: But casting reduce on them would have caused them to enlarge thereby perhaps having no effect at all.",
+          "DM: Well, enlarge and then have to make a saving throw or I guess being reduced again.",
+          "Unknown: Right.",
+          "Wellby: Really horrible man.",
+          "Kenzo: What other things of that, of that we have that we're carrying around with this? Just adds to my dread."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Wellby hopes the obsidian fly can be a friend",
+      "entities": [
+        {
+          "id": "e049",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1823",
+        "endUid": "u1827"
+      },
+      "lines": [
+        "%% u1823:0-84, u1824:0-66 %%",
+        "Delwath: Had we— Delwath was fairly careful. So for some reason that I still don't understand, Wellby wants to keep the crazy fly that's going to try to kill us.",
+        "",
+        "%% u1825:0-143 %%",
+        "Wellby: I feel very strongly like this fly is going to be a friend, and it's under a compulsion to do what it's doing, but that it wants to be a friend.",
+        "",
+        "%% u1826:0-60, u1827:0-61 %%",
+        "Seeker: I mean, I think we just have to like introduce it to Baxter. You know, get them behaving together as friends of the party.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Likes.",
+          "Delwath: Or anything, no.",
+          "Wellby: With the swarm bubble.",
+          "Seeker: A way like.",
+          "DM: Most of what you're carrying wasn't was just stuff, so—."
+        ],
+        "after": [
+          "Delwath: And then we have a creepy bottle. I don't know why we're keeping the creepy bottle?",
+          "DM: To bottle.",
+          "Seeker: Oh yeah and what's this swarm bottle again?",
+          "DM: Wait, did you use that or no, you use the leech, though.",
+          "Delwath: Preserved leech and it creates locusts. She used this against us yes, 42, this is the— this creates the locusts that tore apart one of us."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i026",
+      "title": "The necklace of tongues was discarded",
+      "entities": [
+        {
+          "id": "e050",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1847",
+        "endUid": "u1849"
+      },
+      "lines": [
+        "%% u1847:0-43, u1848:0-26 %%",
+        "Kenzo: Also, have we kept the necklace of tongues? I mean we've learned that.",
+        "",
+        "%% u1849:0-18 %%",
+        "Delwath: I got rid of that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: They're securely, you know as long as I just don't trip and fall and break the bottle against my clothing by accident.",
+          "Wellby: As long as you're never in combat or dangerous or urgent situations.",
+          "Seeker: Right, I can always just use the amber web item.",
+          "Delwath: Wait why are we keeping— you have an amber web too? What is that?",
+          "Seeker: Creates a web. I should— I shouldn't even mentioned that. That's also similarly just a little bit of insurance for my personal well being."
+        ],
+        "after": [
+          "Seeker: Yeah and the blacklight candle is just in case we need to like have some darkness. Nothing wrong with that.",
+          "Delwath: Delwath'll probably say, these are things she took with her from when she came from the.",
+          "Wellby: Amber web radiates conjuration magic and has a spider inside it.",
+          "Delwath: Yeah we know what it does it summons a web.",
+          "DM: It summons a web."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i027",
+      "title": "Unease about spying on dreams",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1859",
+        "endUid": "u1868"
+      },
+      "lines": [
+        "%% u1859:0-5, u1860:0-141 %%",
+        "Delwath: Link. If you want to be so cautious about anything, you should really wonder why we're kicking around a mirror that lets you spy on people's dreams.",
+        "",
+        "%% u1861:0-36 %%",
+        "DM: It's true using their blood no less.",
+        "",
+        "%% u1862:0-5, u1863:0-10 %%",
+        "Unknown: Yeah. Like that.",
+        "",
+        "%% u1864:0-77, u1865:0-17 %%",
+        "Wellby: Yeah but that's like when we need to go into the dream world and, like sorry super handy yeah.",
+        "",
+        "%% u1866:0-68 %%",
+        "Delwath: That's actually— that's the origin— no, we should mirror that mirror?",
+        "",
+        "%% u1867:0-8 %%",
+        "Wellby: Oh yeah.",
+        "",
+        "%% u1868:0-10 %%",
+        "Seeker: It's good.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Amber web radiates conjuration magic and has a spider inside it.",
+          "Delwath: Yeah we know what it does it summons a web.",
+          "DM: It summons a web.",
+          "Delwath: Oh yeah super.",
+          "DM: Seeker identified all of these. Like."
+        ],
+        "after": [
+          "Wellby: I could have used the Raven whistle to fly up to the aqueduct.",
+          "Unknown: Yeah.",
+          "DM: What does that mean? The Raven Whistle lets you fly for as long as you can continually blow out a whistle, which is, I think, five plus your Constitution modifier rounds. Wow and it's only once per day.",
+          "Unknown: That's.",
+          "Wellby: Three times per—."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i028",
+      "title": "Garret’s warning vindicated",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1877",
+        "endUid": "u1879"
+      },
+      "lines": [
+        "%% u1877:0-61, u1878:0-23 %%",
+        "DM: Right so Garret watching this whole scene is like I told you that magic is bad news.",
+        "",
+        "%% u1879:0-32 %%",
+        "Wellby: Yeah we're not arguing with you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: What does that mean? The Raven Whistle lets you fly for as long as you can continually blow out a whistle, which is, I think, five plus your Constitution modifier rounds. Wow and it's only once per day.",
+          "Unknown: That's.",
+          "Wellby: Three times per—.",
+          "DM: Three, it says three, three times per day.",
+          "Seeker: So wherever you fly it can fly back."
+        ],
+        "after": [
+          "DM: So continuing on do you have any more conversations tonight?",
+          "Kenzo: Do you want that, and guys I got maybe like 15 minutes, yes please 15, 20.",
+          "DM: That's what I'm aiming. You'll get— we'll stop when we get to Tokra. Nice that should work out perfectly.",
+          "Seeker: Actually, I like super duper have to pee. Can we pause for like two minutes?",
+          "Delwath: Yeah yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i029",
+      "title": "Kenzo’s barkeep friend and Vimal’s",
+      "entities": [
+        {
+          "id": "e052",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1932",
+        "endUid": "u1952"
+      },
+      "lines": [
+        "%% u1932:0-76, u1933:0-3, u1934:0-22, u1935:0-21, u1936:0-61, u1937:0-21 %%",
+        "Kenzo: You know, as you all know, spent many years in Tokra, so I know pretty well. ((Monastery lodging.)) I also have a friend.",
+        "",
+        "%% u1938:0-222 %%",
+        "Kenzo: A barkeep at an inn that's a bit on the outskirts of the city, which I used to kind of traveled to, you know, a little bit here and there, and when I was at the monastery. And so I don't know if, if you all have a preference?",
+        "",
+        "%% u1939:0-101, u1940:0-8, u1941:0-67, u1942:0-202, u1943:0-9, u1944:0-67, u1945:0-31, u1946:0-14, u1947:0-100, u1948:0-188, u1949:0-3 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u1950:0-53 %%",
+        "Seeker: You wouldn't be referring to the Iron Swan would you?",
+        "",
+        "%% u1951:0-4 %%",
+        "Kenzo: Tim.",
+        "",
+        "%% u1952:0-34 %%",
+        "DM: No, the place you know is Vimal's.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Alright I'm back.",
+          "DM: Okay, so the next morning right you ride again, through the plains. Another uneventful day, uneventful day.",
+          "Kenzo: Well, just as we ride to Tim I'm just going to share the—",
+          "DM: Video.",
+          "Kenzo: So just, it's like, you know, at some point during the journey, you know, Kenzo, though, as we're kind of riding or camping— let's say it's over a meal and so—"
+        ],
+        "after": [
+          "Unknown: You.",
+          "Kenzo: Know what you— what— what's— I've heard of the Iron Swan, Tim, probably, right?",
+          "DM: Maybe, yeah, name rings a bell. It's a dwarven tavern. There's like a small dwarven quarter.",
+          "Kenzo: Yeah yeah and yeah.",
+          "Seeker: That's the place that I know."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i030",
+      "title": "Vistra’s dwarven inn",
+      "entities": [
+        {
+          "id": "e053",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1963",
+        "endUid": "u1969"
+      },
+      "lines": [
+        "%% u1963:0-13, u1964:0-13, u1965:0-17, u1966:0-30 %%",
+        "Seeker: Yes, I'm— the keeper there, Vistra Fireforge. Solid dwarf seems trustworthy.",
+        "",
+        "%% u1967:0-30 %%",
+        "Kenzo: Can humans stay there, though?",
+        "",
+        "%% u1968:0-61 %%",
+        "DM: You've never seen any humans stay there, but maybe you could.",
+        "",
+        "%% u1969:0-84 %%",
+        "Seeker: Specifically a dwarvish place you know, but I could do I could talk to her about it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Of you, you said that before.",
+          "Seeker: I have stayed there before.",
+          "DM: I assume you what.",
+          "Seeker: Yeah cuz you pass.",
+          "DM: Through Tokra, so you would have stayed there for a few days."
+        ],
+        "after": [
+          "Kenzo: Um my vote would be to leave our you know, Kenzo kind of nods his head towards the wagon. To, like, it might be a little bit safer at the monastery just a little bit out of the way a little bit more, and you know I'm so— I don't know, I feel like it might be a good place to, to— I sent word ahead to let them know that we may be coming, so I'm— might not be a bad place to at least have that be our home base for a little bit while we figure out what's going on.",
+          "Kenzo: We want, we can always move into the city if we, if we feel like it. I mean, this is more money than I've ever had my entire life, I've ever seen in my entire life recently, so sure we could find some nice lodgings if you really wanted that.",
+          "Seeker: Perhaps even more important than the physical security is just keeping a low profile. Like, we don't want to attract attention of people that will— certainly that would just be interested in theft, but maybe more importantly, that have Chardonian affiliations. Yeah we don't want to attract the attention of treasure hunters I don't think.",
+          "Unknown: Yeah.",
+          "Kenzo: I mean, you know, the one good thing for us is that there's a lot going on. There's a lot of drama in Tokra seems like right now so I'm not sure how much we are going to be on the radar."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i031",
+      "title": "Alesh’s news and Candrosa’s introduction",
+      "entities": [
+        {
+          "id": "e054",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1999",
+        "endUid": "u2001"
+      },
+      "lines": [
+        "%% u1999:0-229 %%",
+        "DM: Yeah, I mean, so remember, as soon as you came back from having killed Agata and saved everything, Alesh rode to Tokra to tell everybody these amazing heroes saved, killed Agata and saved everybody. It's safe to come back to town now.",
+        "",
+        "%% u2000:0-128 %%",
+        "DM: So, yes it's very, very likely that pretty much everybody like anybody who cares to know in Tokra would know of the four of you.",
+        "",
+        "%% u2001:0-86 %%",
+        "Delwath: We also have a letter of introduction from Candrosa, to the head priest of the temple.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: That we want to stay.",
+          "Delwath: There and then, if needed, establish another place— we could even establish more showy place in town that we don't really stay at, we needed some misdirection or we're worried about thieves trying to steal our things.",
+          "Seeker: We don't need to overcomplicate it, I think the monastery is a good start.",
+          "Delwath: To begin with, I think, keeping a low profile and staying at the monastery is a good start.",
+          "Kenzo: Tim, meta game, or just— I mean, do we— you know, because we, we like kind of saved Karawa and we were all like fucking heroes and shit. Like, are there— is it like— like, do people know about us, or they're like— are the people like, oh, the four heroes and blah blah blah? Like, is this like something that, like, in Tokra, they would actually know about us because—"
+        ],
+        "after": [
+          "Unknown: Yes.",
+          "Kenzo: Right which is different than the monastery because the temple is a political operation and the monastery is the the—",
+          "DM: Cult one right.",
+          "Delwath: We also have the fancy letter which we're not going to use, but we have our.",
+          "Kenzo: Letter the letter that's going to get us killed if we show anybody in Tokra."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i032",
+      "title": "Darshana and Ikram’s recommendation",
+      "entities": [
+        {
+          "id": "e055",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e056",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2036",
+        "endUid": "u2048"
+      },
+      "lines": [
+        "%% u2036:0-127, u2037:0-166, u2038:0-39, u2039:0-87 %%",
+        "DM: Outside the walls, so not on the river side, on the other side, there's like a huge open caravanserai, sort of like Ikram's, that handles a lot, most of the merchant traffic that's coming from Darba or Songara or Chardon or anything like that so like all the merchant caravans tend to come there. So that's like a big bustling you know you know, it's run by a woman named Darshana. It's like, it's sort of like the Ikram's of—",
+        "",
+        "%% u2040:0-109, u2041:0-3, u2042:0-163, u2043:0-185, u2044:0-195 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u2045:0-53 %%",
+        "Kenzo: Which one's the one that Ikram has relationship with?",
+        "",
+        "%% u2046:0-40, u2047:0-173, u2048:0-121 %%",
+        "DM: A I think Ikram would probably honestly I don't think he'd be close to either of them, because he was only— I mean, he was in town for like a couple months. I mean, he set up his own little refugee bar near the river. Right, but he would— Darshana. If you had asked him, like, where should I stay, he would have said, oh yeah, go to Darshana's.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah.",
+          "Kenzo: You know what I mean it's sort of like the what's the equivalent in Boston not like that it's it's like one of those hotels at Copley or something like that, you know? I mean, it's like, it's like in— harness it was.",
+          "Delwath: Or something.",
+          "DM: Right.",
+          "DM: So there's not actually a ton of inns in Tokra, because most, most Dunmari, you know, don't bother with inns. So they'll just show up, though. They carry their house with them. They'll just camp on the plains, right, if they're coming to Tokra. So you say you really have like a couple choices. So on the west side of town,."
+        ],
+        "after": [
+          "Delwath: I think the other place sounds like the kind of place people would think we would be staying.",
+          "Kenzo: The—",
+          "Delwath: Fancy one and yeah it feels like the place where the weird adventurer heroes would stay.",
+          "DM: It is definitely the place where the weird adventurers would stay yes that's like the caters to foreigners place.",
+          "Kenzo: So why don't we we get our— get a couple of rooms there and just not stay there. But if people want to send us messages, we go and check it out."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i033",
+      "title": "Garret’s plans at the Red Lily and farewell",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e057",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e058",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2155",
+        "endUid": "u2170"
+      },
+      "lines": [
+        "%% u2155:0-18, u2156:0-102, u2157:0-4, u2158:0-38, u2159:0-77 %%",
+        "DM: So you turn south. And head up for the monastery. I guess it actually— Garret knows there is a small halfling inn in town. The, the Red Lily on the West side of town. Garret's gonna go there and see if he can connect with anybody he knows from—",
+        "",
+        "%% u2160:0-23, u2161:0-47, u2162:0-37, u2163:0-141 %%",
+        "DM: It's run— he knows the— Lily Strongbones, who is the woman who runs it and her husband Wes. So he's gonna go— he's gonna go there and hope— he says he'll be there for a while. If, you know, he'll, he'll send you— asks where he should send you messages.",
+        "",
+        "%% u2164:0-120, u2165:0-8 %%",
+        "Kenzo: If you don't tell them the monastery, we tell them, like, we don't tell them the monastery, we're talking, we tell them the, the inn.",
+        "",
+        "%% u2166:0-35 %%",
+        "DM: The place you're staying yeah okay.",
+        "",
+        "%% u2167:0-16 %%",
+        "Kenzo: Somewhere there.",
+        "",
+        "%% u2168:0-137 %%",
+        "DM: He says, you know, let me know where you're going next. If you happen to decide to go to Darba, be happy to travel along the road with you.",
+        "",
+        "%% u2169:0-48 %%",
+        "Kenzo: Will see you for certain before we depart Tokra.",
+        "",
+        "%% u2170:0-50 %%",
+        "DM: And he— thank you again for everything you've done.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And as you as you reach the the far end the guard, you know the guard contingent here is, you know, as basically they're not paying too much attention to everybody who crosses, but they do collect a toll. And so when you approach, the Dunmari kind of looks up, is like, yeah, kind of looks confused from his odd company you're keeping, dwarf, elf, and a halfling traveling together.",
+          "Kenzo: We're just on the way to city.",
+          "Unknown: Very awful.",
+          "Kenzo: Just hands over the whatever the toll is yeah.",
+          "DM: It's I mean it's not very much so you know, whatever, um, take some— figure out how you'll pay for all this next time. We don't need to worry about that right now, because I want to wrap up."
+        ],
+        "after": [
+          "Wellby: Very good.",
+          "DM: And you turn and ride up the road to the monastery arriving around sunset.",
+          "DM: The monastery itself is it's you know it's a cluster of buildings set on set on this hill.",
+          "DM: And as you approach you, with the sun setting and the light catching the buildings, there's a sort of sense of, of peace and also sort of a sense of hidden depths here. And you pass, you, you know, you ride along the road and you pass on— you can see sort of to the north of the road there's a like a spiral of stones in different colors that radiate in towards a— not towards a statue— um, not a statue of a, of a person. A statue that looks almost like— what it reminds you of a little bit, actually, Seeker, is that, is what you saw in your dream, like these twisting spheres nested in each other.",
+          "DM: To the south of the road you see a sort of a geometric garden planted with plants that you know this, these aren't like typical you know, desert plants or plains plants. They seem almost like forest understory plants that are growing without the forest above them in this sort of geometric pattern as if they were paths that were criss— like trails crisscrossing a forest and the underbrush growing around them."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i034",
+      "title": "Kenzo’s former master welcomes him home",
+      "entities": [
+        {
+          "id": "e059",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2189",
+        "endUid": "u2196"
+      },
+      "lines": [
+        "%% u2189:0-20, u2190:0-69, u2191:0-22, u2192:0-54, u2193:0-31, u2194:0-19 %%",
+        "DM: And as you approach this— entering the monastery, this old, maybe 85 year old man walks out, wearing robes, walking surprisingly lightly on his feet, given how old he is. And bows to greet you and says, \"Kenzo, welcome home.\".",
+        "",
+        "%% u2195:0-37 %%",
+        "((Omitted peripheral discussion.))",
+        "",
+        "%% u2196:0-96 %%",
+        "Kenzo: Kenzo kind of, you know, drops his bag and then, you know, bows deeply and greets his former master.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Very good.",
+          "DM: And you turn and ride up the road to the monastery arriving around sunset.",
+          "DM: The monastery itself is it's you know it's a cluster of buildings set on set on this hill.",
+          "DM: And as you approach you, with the sun setting and the light catching the buildings, there's a sort of sense of, of peace and also sort of a sense of hidden depths here. And you pass, you, you know, you ride along the road and you pass on— you can see sort of to the north of the road there's a like a spiral of stones in different colors that radiate in towards a— not towards a statue— um, not a statue of a, of a person. A statue that looks almost like— what it reminds you of a little bit, actually, Seeker, is that, is what you saw in your dream, like these twisting spheres nested in each other.",
+          "DM: To the south of the road you see a sort of a geometric garden planted with plants that you know this, these aren't like typical you know, desert plants or plains plants. They seem almost like forest understory plants that are growing without the forest above them in this sort of geometric pattern as if they were paths that were criss— like trails crisscrossing a forest and the underbrush growing around them."
+        ],
+        "after": [
+          "Seeker: Next.",
+          "Unknown: Cool."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

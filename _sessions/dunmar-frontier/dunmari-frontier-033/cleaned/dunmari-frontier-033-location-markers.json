@@ -1,0 +1,1608 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-033",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-session.yaml",
+    "sessionYamlSha256": "7c4dee4614b357da1e6d27865a734e024d61b2e484e5573f4995a7353efc250c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-transcript.md",
+    "transcriptSha256": "7b5be40a65a642abf5d9eaf5daa32eafabe514f8f2b086b36da16a2386a3ed00"
+  },
+  "places": {
+    "p01": {
+      "label": "Dunmar",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0019",
+          "quote": "DM: You leave Karawa behind, damaged, but not broken. And with the restoration of the defenses on the eastern border of Dunmar, the people are safe, at least for now, from whatever might lurk on the Blasted Plains: Grash and his allies, whoever they may be. They may not be so safe from internal divisions, though, as you also, like, leave behind in Karawa the woman Nayan Sura, claimant to the throne of Dunmar, freed from Agata's traps and gathering support to perhaps overthrow her brother, the current ruler of Dunmar, Nayan Karnas."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+    },
+    "p02": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0008",
+          "quote": "DM: Setting off west as the sun rises towards mid morning, nearly three months to the day since you first met in Karawa, you find yourself on the road again. Heading somewhere new. Heading west for new places, new adventures."
+        },
+        {
+          "startUid": "u0009",
+          "endUid": "u0014",
+          "quote": "DM: Your destination: Tokra, about 240 miles west along the road. There, among other things, you hope to find Saka, an elder of the Mystai, who perhaps, if you can find her, may be able to tell you more about the events on the Blasted Plains 30 years ago and what happened out in the deserts to the east. Tokra also houses a large archives and the libraries of the Lakan Mystai, where perhaps answers to many other riddles may lie hidden in some ancient scroll or lost text."
+        },
+        {
+          "startUid": "u0015",
+          "endUid": "u0019",
+          "quote": "DM: You leave Karawa behind, damaged, but not broken. And with the restoration of the defenses on the eastern border of Dunmar, the people are safe, at least for now, from whatever might lurk on the Blasted Plains: Grash and his allies, whoever they may be. They may not be so safe from internal divisions, though, as you also, like, leave behind in Karawa the woman Nayan Sura, claimant to the throne of Dunmar, freed from Agata's traps and gathering support to perhaps overthrow her brother, the current ruler of Dunmar, Nayan Karnas."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0015",
+              "endUid": "u0019",
+              "quote": "DM: You leave Karawa behind, damaged, but not broken. And with the restoration of the defenses on the eastern border of Dunmar, the people are safe, at least for now, from whatever might lurk on the Blasted Plains: Grash and his allies, whoever they may be. They may not be so safe from internal divisions, though, as you also, like, leave behind in Karawa the woman Nayan Sura, claimant to the throne of Dunmar, freed from Agata's traps and gathering support to perhaps overthrow her brother, the current ruler of Dunmar, Nayan Karnas."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Old Drankorian trade road",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u0253",
+          "endUid": "u0256",
+          "quote": "DM: Which will connect with this main, main trade route, the old Drankorian trade route that cuts across the center of Dunmar. And the first you know Day, a day or two you know until you connect to this road probably you'll you'll get to the main road at this evening, but it's it's. You know, leaving Karawa now it's—"
+        },
+        {
+          "startUid": "u0257",
+          "endUid": "u0262",
+          "quote": "DM: Still passing through sort of rolling, rocky desert hills, dry scrub plants, dried up, the— you know, everything sort of baking in the hot sun. You do pass a few Dunmari on their way back from Tokra. You know, everybody is sort of eager to get to Karawa before nightfall and so. You know you just kind of greet people on the road. And on your first night of travel, in the evening of the first night, you do reach this main, main trade route and turn west."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Roads/Stoneway.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0253",
+              "endUid": "u0256",
+              "quote": "DM: Which will connect with this main, main trade route, the old Drankorian trade route that cuts across the center of Dunmar. And the first you know Day, a day or two you know until you connect to this road probably you'll you'll get to the main road at this evening, but it's it's. You know, leaving Karawa now it's—"
+            }
+          ]
+        }
+      ],
+      "note": "The public Stoneway note identifies the ancient route and the aqueduct; the transcript calls it the old Drankorian trade route."
+    },
+    "p04": {
+      "label": "Second-day roadside camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0272",
+          "endUid": "u0274",
+          "quote": "DM: And as you make camp on the second day. The mirror has recharged. If you would like to show something to the mirror."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0263",
+              "endUid": "u0268",
+              "quote": "DM: And over the next day, second day of your travel, following the road now you start to, you know, get into the— you know, get a little away from the desert. There's more plants, you— you're, you're gradually descending a tiny bit off the dry high plateaus of the, of the central Dunmar into the—"
+            },
+            {
+              "startUid": "u0269",
+              "endUid": "u0271",
+              "quote": "DM: You know you're not in flowing grasslands, yet you need to go a bit further West or north to get there, but. You can see you can see how this terrain could, you know, support pastoralists and, and herders. And you see, you know, the occasional herd of antelope crossing the, the terrain and, and things like that."
+            },
+            {
+              "startUid": "u0272",
+              "endUid": "u0274",
+              "quote": "DM: And as you make camp on the second day. The mirror has recharged. If you would like to show something to the mirror."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Night road in the coin vision",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u0382",
+          "endUid": "u0389",
+          "quote": "DM: Sort of a indeterminately aged Chardonian man. You can't see much about his surroundings, he seems to be wearing what you would sort of think of as adventuring gear or sort of almost like, like rogues gear almost, like cloaks, shadows. He, he seems to have a hood over his face, so you can't see that much detail. There is a sense of movement almost like you're traveling on a road. Walking at night. It's dark. Um, just this flipping, flipping, and after about 10, 15 seconds of this, um, on the top of one of the flips, the image shifts."
+        },
+        {
+          "startUid": "u0390",
+          "endUid": "u0391",
+          "quote": "DM: And you see again now, a person, a different person. This a much older man, white beard, short cropped white beard, sort of angular looking face."
+        },
+        {
+          "startUid": "u0392",
+          "endUid": "u0392",
+          "quote": "Kenzo: Quick question Tim in the first one yet was it the dude that we've whose body we found like do we?"
+        },
+        {
+          "startUid": "u0393",
+          "endUid": "u0393",
+          "quote": "Seeker: Probably only Arcus."
+        },
+        {
+          "startUid": "u0394",
+          "endUid": "u0394",
+          "quote": "DM: It's hard to be 100% sure um so."
+        },
+        {
+          "startUid": "u0395",
+          "endUid": "u0395",
+          "quote": "Kenzo: Sorry sorry just it for both the Arcus, Arcus and then this guy like Are there things in the scene that like have indicated when this is like is it like recent there's a look like super old is it like you know?"
+        },
+        {
+          "startUid": "u0396",
+          "endUid": "u0397",
+          "quote": "DM: It's hard to tell I mean it's hard to tell on. There's no there's not you know convenient subtitles like 25 years ago in Chardon."
+        },
+        {
+          "startUid": "u0398",
+          "endUid": "u0398",
+          "quote": "Kenzo: But, but I mean like if they're flipping it in the city like is it?"
+        },
+        {
+          "startUid": "u0399",
+          "endUid": "u0400",
+          "quote": "DM: It's not, he's walking walking in an open area at night, like on a road at night, was what."
+        },
+        {
+          "startUid": "u0401",
+          "endUid": "u0401",
+          "quote": "Seeker: [garbled]."
+        },
+        {
+          "startUid": "u0402",
+          "endUid": "u0405",
+          "quote": "DM: You know moon light shining you know. It could be this road, it could it could be any road sort of through an open wilderness area."
+        }
+      ],
+      "note": "The DM explicitly says this could be any wilderness road; do not identify it with the party’s road."
+    },
+    "p06": {
+      "label": "Interior where the old man studies the coin",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0406",
+          "endUid": "u0414",
+          "quote": "DM: As the, as the scene shifts, now looking at this older man, sort of angular face, short cropped white beard, short cropped white hair, um, looking, looking down, like sort of peering down at, at the, at the coin, tapping it a little bit every now and then, like sort of examining it, looking around. Seems to be almost studying it, wearing dark robes. But without without a hood just kind of you know up to the shoulders looks, a, you know, probably in his 60s and seems to be scratching notes on something on some piece of paper or some log book or something that's just out of out of view of the mirror, but you'll see a quill occasionally as he goes, as he goes over. And this, in this, clearly his face is lit by firelight, by torches or lanterns or a fireplace. You're inside somewhere. That you can you can see the reflected glow of the flames. And then."
+        }
+      ]
+    },
+    "p07": {
+      "label": "Riverside pasture in the coin vision",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0415",
+          "endUid": "u0424",
+          "quote": "DM: As, as he goes closer to look at it once more, it's almost as if the view kind of falls through his face, and you see about another person. This, this time again outside. And, and now somebody is like holding it at the waist so you can't see their face you can't see the details of them as they walk. But they are, by their stride in sort of general sort of body shape, probably a woman. Again human. Out wearing traveling clothes, muddy boots or that, like long calf length muddy boots. A sword at their side. She's sort of next to you, like your, you as the, as the coin are kind of swinging around their waist, leather belt, coin purse. They seem to be walking through farmland, pasture land, pastureland maybe, um, following a river, traveling somewhere."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Underground tunnel in the coin vision",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u0463",
+          "endUid": "u0466",
+          "quote": "DM: And so, this this person armored helm, you can see, like some longish red hair kind of coming out from below the helm, a great sword slung on their back by next to the shield. Seems to be walking through a cave, through some, some underground tunnel. There is a, there is a light source up ahead that's throwing their back into shadows because that's floating in front of them. It doesn't seem to be a torch. It seems to be like magical light."
+        },
+        {
+          "startUid": "u0467",
+          "endUid": "u0467",
+          "quote": "Kenzo: Driftglobe."
+        },
+        {
+          "startUid": "u0468",
+          "endUid": "u0468",
+          "quote": "DM: Something like that or the Light spell or some some—"
+        },
+        {
+          "startUid": "u0469",
+          "endUid": "u0469",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u0470",
+          "endUid": "u0470",
+          "quote": "DM: Something along those lines, and then the mirror fades."
+        },
+        {
+          "startUid": "u0471",
+          "endUid": "u0471",
+          "quote": "Seeker: That's it so at the last one was a human chain mail the shield using it to bring something out of a cave?"
+        },
+        {
+          "startUid": "u0472",
+          "endUid": "u0475",
+          "quote": "DM: Or some somewhere underground. It wasn't it wasn't clear you're clearly traveling through a tunnel right."
+        }
+      ]
+    },
+    "p09": {
+      "label": "Aqueduct herders’ camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1269",
+          "endUid": "u1270",
+          "quote": "DM: So you ride turn off the road riding North for about a mile and approaching the the aqueduct. There is a group of about eight Dunmari, maybe 10, kind of set up in a camp. Looks like they've been here for maybe a day or two. They've got goats, a big herd of goats, and horses."
+        },
+        {
+          "startUid": "u1271",
+          "endUid": "u1271",
+          "quote": "Unknown: Um."
+        },
+        {
+          "startUid": "u1272",
+          "endUid": "u1275",
+          "quote": "DM: One one woman rides up and waves at you as as Seeker kind of keeps peering around like looking at the aqueduct. Yeah go ahead and make a— guess a history check with advantage."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1269",
+              "endUid": "u1270",
+              "quote": "DM: So you ride turn off the road riding North for about a mile and approaching the the aqueduct. There is a group of about eight Dunmari, maybe 10, kind of set up in a camp. Looks like they've been here for maybe a day or two. They've got goats, a big herd of goats, and horses."
+            },
+            {
+              "startUid": "u1271",
+              "endUid": "u1271",
+              "quote": "Unknown: Um."
+            },
+            {
+              "startUid": "u1272",
+              "endUid": "u1275",
+              "quote": "DM: One one woman rides up and waves at you as as Seeker kind of keeps peering around like looking at the aqueduct. Yeah go ahead and make a— guess a history check with advantage."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1292",
+              "endUid": "u1295",
+              "quote": "DM: Wow, that landscape has been radically reshaped since Dunmar, right? This whole area used to be all of— sorry, since Drankor, all of this used to be— that when the mountains, when the Yuvanti Mountains are raised up at the end, during the chaos at the end of the Great War, the whole interior plain of Dunmar was also raised up. That's how you get this high desert."
+            },
+            {
+              "startUid": "u1296",
+              "endUid": "u1296",
+              "quote": "Seeker: I see, and there are currently you know rivers to east and west, coast to the West but that may have changed."
+            },
+            {
+              "startUid": "u1297",
+              "endUid": "u1302",
+              "quote": "DM: You know the River to the east, was still there because that's where— that was the River Hara. It may not have still been there, may have flowed— it's its course may have changed, but the the Kharja river that Kharsan is on was— ah, no, actually, because Tokra predate the great war as well, right? So both of these rivers were still there."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Ruined Drankorian aqueduct",
+      "kind": "ruin",
+      "evidence": [
+        {
+          "startUid": "u1251",
+          "endUid": "u1254",
+          "quote": "DM: On the fifth day around lunchtime you pass another small family encampments set off— set up a little bit off the road. Um, there is a— there is a ruined like piece of an aqueduct that runs along the road maybe about a mile north of the road, but clearly visible across the plains, was like a little Dunmari encampments setup there, sheltering in the shade of the, of the aqueduct from the midday sun."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "north_of",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1251",
+              "endUid": "u1254",
+              "quote": "DM: On the fifth day around lunchtime you pass another small family encampments set off— set up a little bit off the road. Um, there is a— there is a ruined like piece of an aqueduct that runs along the road maybe about a mile north of the road, but clearly visible across the plains, was like a little Dunmari encampments setup there, sheltering in the shade of the, of the aqueduct from the midday sun."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1292",
+              "endUid": "u1295",
+              "quote": "DM: Wow, that landscape has been radically reshaped since Dunmar, right? This whole area used to be all of— sorry, since Drankor, all of this used to be— that when the mountains, when the Yuvanti Mountains are raised up at the end, during the chaos at the end of the Great War, the whole interior plain of Dunmar was also raised up. That's how you get this high desert."
+            },
+            {
+              "startUid": "u1296",
+              "endUid": "u1296",
+              "quote": "Seeker: I see, and there are currently you know rivers to east and west, coast to the West but that may have changed."
+            },
+            {
+              "startUid": "u1297",
+              "endUid": "u1302",
+              "quote": "DM: You know the River to the east, was still there because that's where— that was the River Hara. It may not have still been there, may have flowed— it's its course may have changed, but the the Kharja river that Kharsan is on was— ah, no, actually, because Tokra predate the great war as well, right? So both of these rivers were still there."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Top of the aqueduct",
+      "kind": "structure",
+      "evidence": [
+        {
+          "startUid": "u1421",
+          "endUid": "u1421",
+          "quote": "Wellby: Oh, I want to scale the aqueduct how tall is the thing?"
+        },
+        {
+          "startUid": "u1422",
+          "endUid": "u1423",
+          "quote": "DM: Yeah ah. Alright don't know 20 feet up."
+        },
+        {
+          "startUid": "u1424",
+          "endUid": "u1424",
+          "quote": "Wellby: Yeah yeah let's stay and eat, come up there and see what's up there and."
+        },
+        {
+          "startUid": "u1425",
+          "endUid": "u1425",
+          "quote": "Seeker: I'll join it via clairvoyance."
+        },
+        {
+          "startUid": "u1426",
+          "endUid": "u1426",
+          "quote": "Kenzo: Kenzo'll jump up there."
+        },
+        {
+          "startUid": "u1427",
+          "endUid": "u1428",
+          "quote": "DM: Yeah. He doesn't bother to scale he just jumps."
+        },
+        {
+          "startUid": "u1429",
+          "endUid": "u1430",
+          "quote": "Delwath: Delwath'll kind of just look at your antics, stay on the ground like a sensible person."
+        },
+        {
+          "startUid": "u1431",
+          "endUid": "u1436",
+          "quote": "DM: It's pretty unstable at the top. There's but there's you know there's a channel where water runs and there's and there's a lot more runes, like the whole— so, like, there's the sides, right, and then there's the bottom. But all along those two sides where the water runs through, that's just as decorative pattern, almost like waves flowing and then there will be a chunk of runes, and then a decorative pattern again. Um just kind of carved into the stone. One side is sort of weathered and worn out, but the other side seems more protected, the, the— yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1421",
+              "endUid": "u1421",
+              "quote": "Wellby: Oh, I want to scale the aqueduct how tall is the thing?"
+            },
+            {
+              "startUid": "u1422",
+              "endUid": "u1423",
+              "quote": "DM: Yeah ah. Alright don't know 20 feet up."
+            },
+            {
+              "startUid": "u1424",
+              "endUid": "u1424",
+              "quote": "Wellby: Yeah yeah let's stay and eat, come up there and see what's up there and."
+            },
+            {
+              "startUid": "u1425",
+              "endUid": "u1425",
+              "quote": "Seeker: I'll join it via clairvoyance."
+            },
+            {
+              "startUid": "u1426",
+              "endUid": "u1426",
+              "quote": "Kenzo: Kenzo'll jump up there."
+            },
+            {
+              "startUid": "u1427",
+              "endUid": "u1428",
+              "quote": "DM: Yeah. He doesn't bother to scale he just jumps."
+            },
+            {
+              "startUid": "u1429",
+              "endUid": "u1430",
+              "quote": "Delwath: Delwath'll kind of just look at your antics, stay on the ground like a sensible person."
+            },
+            {
+              "startUid": "u1431",
+              "endUid": "u1436",
+              "quote": "DM: It's pretty unstable at the top. There's but there's you know there's a channel where water runs and there's and there's a lot more runes, like the whole— so, like, there's the sides, right, and then there's the bottom. But all along those two sides where the water runs through, that's just as decorative pattern, almost like waves flowing and then there will be a chunk of runes, and then a decorative pattern again. Um just kind of carved into the stone. One side is sort of weathered and worn out, but the other side seems more protected, the, the— yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Ninth-day roadside camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1681",
+          "endUid": "u1684",
+          "quote": "DM: Wow, um, so, you know, it's been about a week. It's been eight— you've been on the road for eight days now, nine days. The mirror having recharged during the course of your travels and looking at the looking at the coin."
+        },
+        {
+          "startUid": "u1685",
+          "endUid": "u1685",
+          "quote": "DM: And here, as you sort of make camp, the afternoon, evening, a couple days out from Tokra, you have another opportunity to use the mirror if you'd like."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1663",
+              "endUid": "u1673",
+              "quote": "DM: The next— the next, you know, three or four days, say the next— the next four days are uneventful as you travel along along this road. Continuing towards Tokra, you're now maybe two days out from Tokra, um, approaching you're still like 50 miles away so you can't like see the River really clearly yet. On clear days it's still like Tokra still a little bit, but beyond the horizon right, so you can't can't quite see it even even given a clear day but with that, like with the days delay to explore the aqueduct at you know your your maybe you'll get there, and about two days from now um. The—"
+            },
+            {
+              "startUid": "u1674",
+              "endUid": "u1677",
+              "quote": "DM: You know, it's, it's definitely— the population density has increased as you've gotten closer towards Tokra. Like, you know, many, many more families now kind of heading out east. You know, a lot of people didn't leave absolutely immediately, so there's been a trickle that's now sort of turning more into a flood as, you know, the whole population that spent— that sort of lived on these plains more or less withhold was like hiding in Tokra during the gnoll attacks. Very crowded, like full of people. Right now they're all slowly starting to spread out."
+            },
+            {
+              "startUid": "u1678",
+              "endUid": "u1678",
+              "quote": "Kenzo: It's like it's like the anti pandemic."
+            },
+            {
+              "startUid": "u1679",
+              "endUid": "u1679",
+              "quote": "Unknown: Exactly."
+            },
+            {
+              "startUid": "u1680",
+              "endUid": "u1680",
+              "quote": "DM: Exactly."
+            },
+            {
+              "startUid": "u1681",
+              "endUid": "u1684",
+              "quote": "DM: Wow, um, so, you know, it's been about a week. It's been eight— you've been on the road for eight days now, nine days. The mirror having recharged during the course of your travels and looking at the looking at the coin."
+            },
+            {
+              "startUid": "u1685",
+              "endUid": "u1685",
+              "quote": "DM: And here, as you sort of make camp, the afternoon, evening, a couple days out from Tokra, you have another opportunity to use the mirror if you'd like."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "High ground east of Tokra",
+      "kind": "lookout",
+      "evidence": [
+        {
+          "startUid": "u2070",
+          "endUid": "u2073",
+          "quote": "DM: I would say it's probably about early afternoon, 11 days after you left Karawa. You cross the highland and you can see, stretching a few miles beyond, the River Hara winding slowly from north to south, really barely more than a trickle at this time of year before the rains of the monsoon season come. The city of Tokra itself lies just beyond the river, on the other side of a huge arching bridge made of solid greystone that's— that is the only crossing of the Hara for miles in either direction, although realistically you could probably ford it fairly easily. Oh, I guess with your wagon, it— with your cart, it might be trouble, um."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u2119",
+              "endUid": "u2121",
+              "quote": "DM: Around the city and this sort of mid afternoon, there's, there's a fair bit of activity. You know, you can see, you know, travelers coming and going on the bridge. There are— what looks like on the far side of the bridge there's you know, a handful of Dunmari soldiers or guards milling about that seemed to be collecting tolls from from everybody who passes."
+            },
+            {
+              "startUid": "u2122",
+              "endUid": "u2124",
+              "quote": "DM: And you know there's some activity in the army camp in the distance of— seems to be, can see the plumes of dust rising up from horses riding, doing drills or patrols or something like that, and just the general bustle of activity. You can hear, you know, echoing from the distance, the clang of metal on metal of somebody you know hammering horseshoes or the the general bustle of city life rises up from the River Valley."
+            },
+            {
+              "startUid": "u2125",
+              "endUid": "u2126",
+              "quote": "DM: You are now— so you're coming on the crest of the hill. You're going to descend now on a gentle slope to the bridge, maybe a mile from where you are now. So just go across the bridge?"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Hara",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u2070",
+          "endUid": "u2073",
+          "quote": "DM: I would say it's probably about early afternoon, 11 days after you left Karawa. You cross the highland and you can see, stretching a few miles beyond, the River Hara winding slowly from north to south, really barely more than a trickle at this time of year before the rains of the monsoon season come. The city of Tokra itself lies just beyond the river, on the other side of a huge arching bridge made of solid greystone that's— that is the only crossing of the Hara for miles in either direction, although realistically you could probably ford it fairly easily. Oh, I guess with your wagon, it— with your cart, it might be trouble, um."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Hara.md"
+    },
+    "p15": {
+      "label": "Tokra",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u2070",
+          "endUid": "u2073",
+          "quote": "DM: I would say it's probably about early afternoon, 11 days after you left Karawa. You cross the highland and you can see, stretching a few miles beyond, the River Hara winding slowly from north to south, really barely more than a trickle at this time of year before the rains of the monsoon season come. The city of Tokra itself lies just beyond the river, on the other side of a huge arching bridge made of solid greystone that's— that is the only crossing of the Hara for miles in either direction, although realistically you could probably ford it fairly easily. Oh, I guess with your wagon, it— with your cart, it might be trouble, um."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "note": "The city is seen beyond the Hara; the party’s completed movement is across its bridge and south to the monastery, without an established city visit."
+    },
+    "p16": {
+      "label": "West end of the Hara bridge",
+      "kind": "bridge",
+      "evidence": [
+        {
+          "startUid": "u2143",
+          "endUid": "u2144",
+          "quote": "DM: Okay, so you ride across the bridge. The bridge itself is you know it's clearly old but it's also clearly seen better days."
+        },
+        {
+          "startUid": "u2145",
+          "endUid": "u2148",
+          "quote": "DM: And as you as you reach the the far end the guard, you know the guard contingent here is, you know, as basically they're not paying too much attention to everybody who crosses, but they do collect a toll. And so when you approach, the Dunmari kind of looks up, is like, yeah, kind of looks confused from his odd company you're keeping, dwarf, elf, and a halfling traveling together."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u2070",
+              "endUid": "u2073",
+              "quote": "DM: I would say it's probably about early afternoon, 11 days after you left Karawa. You cross the highland and you can see, stretching a few miles beyond, the River Hara winding slowly from north to south, really barely more than a trickle at this time of year before the rains of the monsoon season come. The city of Tokra itself lies just beyond the river, on the other side of a huge arching bridge made of solid greystone that's— that is the only crossing of the Hara for miles in either direction, although realistically you could probably ford it fairly easily. Oh, I guess with your wagon, it— with your cart, it might be trouble, um."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Lakan Monastery",
+      "kind": "monastery",
+      "evidence": [
+        {
+          "startUid": "u2172",
+          "endUid": "u2173",
+          "quote": "DM: And you turn and ride up the road to the monastery arriving around sunset."
+        },
+        {
+          "startUid": "u2174",
+          "endUid": "u2176",
+          "quote": "DM: The monastery itself is it's you know it's a cluster of buildings set on set on this hill."
+        },
+        {
+          "startUid": "u2177",
+          "endUid": "u2184",
+          "quote": "DM: And as you approach you, with the sun setting and the light catching the buildings, there's a sort of sense of, of peace and also sort of a sense of hidden depths here. And you pass, you, you know, you ride along the road and you pass on— you can see sort of to the north of the road there's a like a spiral of stones in different colors that radiate in towards a— not towards a statue— um, not a statue of a, of a person. A statue that looks almost like— what it reminds you of a little bit, actually, Seeker, is that, is what you saw in your dream, like these twisting spheres nested in each other."
+        },
+        {
+          "startUid": "u2185",
+          "endUid": "u2188",
+          "quote": "DM: To the south of the road you see a sort of a geometric garden planted with plants that you know this, these aren't like typical you know, desert plants or plains plants. They seem almost like forest understory plants that are growing without the forest above them in this sort of geometric pattern as if they were paths that were criss— like trails crisscrossing a forest and the underbrush growing around them."
+        },
+        {
+          "startUid": "u2189",
+          "endUid": "u2194",
+          "quote": "DM: And as you approach this— entering the monastery, this old, maybe 85 year old man walks out, wearing robes, walking surprisingly lightly on his feet, given how old he is. And bows to greet you and says, \"Kenzo, welcome home.\"."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "relations": [
+        {
+          "relation": "south_of",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u2089",
+              "endUid": "u2090",
+              "quote": "DM: To the south, the land rises in a series of small hills, the Lakan monastery visible on a hill overlooking the city and the river, perhaps five miles south of Tokra at most. The city itself is largely hidden behind the walls."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Red Lily Inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u2155",
+          "endUid": "u2159",
+          "quote": "DM: So you turn south. And head up for the monastery. I guess it actually— Garret knows there is a small halfling inn in town. The, the Red Lily on the West side of town. Garret's gonna go there and see if he can connect with anybody he knows from—"
+        },
+        {
+          "startUid": "u2160",
+          "endUid": "u2163",
+          "quote": "DM: It's run— he knows the— Lily Strongbones, who is the woman who runs it and her husband Wes. So he's gonna go— he's gonna go there and hope— he says he'll be there for a while. If, you know, he'll, he'll send you— asks where he should send you messages."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Red Lily Inn.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u2155",
+              "endUid": "u2159",
+              "quote": "DM: So you turn south. And head up for the monastery. I guess it actually— Garret knows there is a small halfling inn in town. The, the Red Lily on the West side of town. Garret's gonna go there and see if he can connect with anybody he knows from—"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0019"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave Karawa northwest along a desert track, reaching the old main road and turning west on the first evening.",
+      "evidence": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0008",
+          "quote": "DM: Setting off west as the sun rises towards mid morning, nearly three months to the day since you first met in Karawa, you find yourself on the road again. Heading somewhere new. Heading west for new places, new adventures."
+        },
+        {
+          "startUid": "u0009",
+          "endUid": "u0014",
+          "quote": "DM: Your destination: Tokra, about 240 miles west along the road. There, among other things, you hope to find Saka, an elder of the Mystai, who perhaps, if you can find her, may be able to tell you more about the events on the Blasted Plains 30 years ago and what happened out in the deserts to the east. Tokra also houses a large archives and the libraries of the Lakan Mystai, where perhaps answers to many other riddles may lie hidden in some ancient scroll or lost text."
+        },
+        {
+          "startUid": "u0015",
+          "endUid": "u0019",
+          "quote": "DM: You leave Karawa behind, damaged, but not broken. And with the restoration of the defenses on the eastern border of Dunmar, the people are safe, at least for now, from whatever might lurk on the Blasted Plains: Grash and his allies, whoever they may be. They may not be so safe from internal divisions, though, as you also, like, leave behind in Karawa the woman Nayan Sura, claimant to the throne of Dunmar, freed from Agata's traps and gathering support to perhaps overthrow her brother, the current ruler of Dunmar, Nayan Karnas."
+        },
+        {
+          "startUid": "u0247",
+          "endUid": "u0252",
+          "quote": "DM: So the first day passes largely uneventfully. You're, you're traveling now, heading, heading sort of northwest basically to connect to the— there's sort of two roads that lead from Karawa: one to the northwest, one to the northeast. The one to the Northeast will eventually fade away into a track that leads to Raven's Hold and then eventually to the mountains and the passes. That's the direction that Drikod has gone. You are heading north west again, along with what's really not, not really even a road. It's just a sort of a beaten track through the desert."
+        },
+        {
+          "startUid": "u0253",
+          "endUid": "u0256",
+          "quote": "DM: Which will connect with this main, main trade route, the old Drankorian trade route that cuts across the center of Dunmar. And the first you know Day, a day or two you know until you connect to this road probably you'll you'll get to the main road at this evening, but it's it's. You know, leaving Karawa now it's—"
+        },
+        {
+          "startUid": "u0257",
+          "endUid": "u0262",
+          "quote": "DM: Still passing through sort of rolling, rocky desert hills, dry scrub plants, dried up, the— you know, everything sort of baking in the hot sun. You do pass a few Dunmari on their way back from Tokra. You know, everybody is sort of eager to get to Karawa before nightfall and so. You know you just kind of greet people on the road. And on your first night of travel, in the evening of the first night, you do reach this main, main trade route and turn west."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "riding with a cart",
+      "route": [
+        {
+          "reading": "Follow the northwest desert track, then turn west on the main trade road."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0263",
+        "endUid": "u0274"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Travel west along the main road and make camp on the second day.",
+      "evidence": [
+        {
+          "startUid": "u0263",
+          "endUid": "u0268",
+          "quote": "DM: And over the next day, second day of your travel, following the road now you start to, you know, get into the— you know, get a little away from the desert. There's more plants, you— you're, you're gradually descending a tiny bit off the dry high plateaus of the, of the central Dunmar into the—"
+        },
+        {
+          "startUid": "u0269",
+          "endUid": "u0271",
+          "quote": "DM: You know you're not in flowing grasslands, yet you need to go a bit further West or north to get there, but. You can see you can see how this terrain could, you know, support pastoralists and, and herders. And you see, you know, the occasional herd of antelope crossing the, the terrain and, and things like that."
+        },
+        {
+          "startUid": "u0272",
+          "endUid": "u0274",
+          "quote": "DM: And as you make camp on the second day. The mirror has recharged. If you would like to show something to the mirror."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "riding"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0375",
+        "endUid": "u0405"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The coin vision shows a hooded man on an unidentified moonlit road.",
+      "evidence": [
+        {
+          "startUid": "u0375",
+          "endUid": "u0381",
+          "quote": "DM: The scene, the reflection of the, of the campfire and the plains behind you fades, and you see, um, standing in front of you kind of— it's a strange perspective. It almost looks like somebody's flipping the coin up in the air, and so you'll see, like, basically a face, and then it— that the image in the mirror does this tumbling. It's a— it's a—"
+        },
+        {
+          "startUid": "u0382",
+          "endUid": "u0389",
+          "quote": "DM: Sort of a indeterminately aged Chardonian man. You can't see much about his surroundings, he seems to be wearing what you would sort of think of as adventuring gear or sort of almost like, like rogues gear almost, like cloaks, shadows. He, he seems to have a hood over his face, so you can't see that much detail. There is a sense of movement almost like you're traveling on a road. Walking at night. It's dark. Um, just this flipping, flipping, and after about 10, 15 seconds of this, um, on the top of one of the flips, the image shifts."
+        },
+        {
+          "startUid": "u0390",
+          "endUid": "u0391",
+          "quote": "DM: And you see again now, a person, a different person. This a much older man, white beard, short cropped white beard, sort of angular looking face."
+        },
+        {
+          "startUid": "u0392",
+          "endUid": "u0392",
+          "quote": "Kenzo: Quick question Tim in the first one yet was it the dude that we've whose body we found like do we?"
+        },
+        {
+          "startUid": "u0393",
+          "endUid": "u0393",
+          "quote": "Seeker: Probably only Arcus."
+        },
+        {
+          "startUid": "u0394",
+          "endUid": "u0394",
+          "quote": "DM: It's hard to be 100% sure um so."
+        },
+        {
+          "startUid": "u0395",
+          "endUid": "u0395",
+          "quote": "Kenzo: Sorry sorry just it for both the Arcus, Arcus and then this guy like Are there things in the scene that like have indicated when this is like is it like recent there's a look like super old is it like you know?"
+        },
+        {
+          "startUid": "u0396",
+          "endUid": "u0397",
+          "quote": "DM: It's hard to tell I mean it's hard to tell on. There's no there's not you know convenient subtitles like 25 years ago in Chardon."
+        },
+        {
+          "startUid": "u0398",
+          "endUid": "u0398",
+          "quote": "Kenzo: But, but I mean like if they're flipping it in the city like is it?"
+        },
+        {
+          "startUid": "u0399",
+          "endUid": "u0400",
+          "quote": "DM: It's not, he's walking walking in an open area at night, like on a road at night, was what."
+        },
+        {
+          "startUid": "u0401",
+          "endUid": "u0401",
+          "quote": "Seeker: [garbled]."
+        },
+        {
+          "startUid": "u0402",
+          "endUid": "u0405",
+          "quote": "DM: You know moon light shining you know. It could be this road, it could it could be any road sort of through an open wilderness area."
+        }
+      ],
+      "place": "p05",
+      "mode": "vision",
+      "observerPlace": "p04",
+      "context": "vision",
+      "observedActors": [
+        "Hooded Chardonian coin-bearer"
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0406",
+        "endUid": "u0414"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The coin vision shifts to a white-bearded man studying it inside by firelight.",
+      "evidence": [
+        {
+          "startUid": "u0406",
+          "endUid": "u0414",
+          "quote": "DM: As the, as the scene shifts, now looking at this older man, sort of angular face, short cropped white beard, short cropped white hair, um, looking, looking down, like sort of peering down at, at the, at the coin, tapping it a little bit every now and then, like sort of examining it, looking around. Seems to be almost studying it, wearing dark robes. But without without a hood just kind of you know up to the shoulders looks, a, you know, probably in his 60s and seems to be scratching notes on something on some piece of paper or some log book or something that's just out of out of view of the mirror, but you'll see a quill occasionally as he goes, as he goes over. And this, in this, clearly his face is lit by firelight, by torches or lanterns or a fireplace. You're inside somewhere. That you can you can see the reflected glow of the flames. And then."
+        }
+      ],
+      "place": "p06",
+      "mode": "vision",
+      "observerPlace": "p04",
+      "context": "vision"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0415",
+        "endUid": "u0424"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The coin vision shows a probable woman traveling through pasture along a river.",
+      "evidence": [
+        {
+          "startUid": "u0415",
+          "endUid": "u0424",
+          "quote": "DM: As, as he goes closer to look at it once more, it's almost as if the view kind of falls through his face, and you see about another person. This, this time again outside. And, and now somebody is like holding it at the waist so you can't see their face you can't see the details of them as they walk. But they are, by their stride in sort of general sort of body shape, probably a woman. Again human. Out wearing traveling clothes, muddy boots or that, like long calf length muddy boots. A sword at their side. She's sort of next to you, like your, you as the, as the coin are kind of swinging around their waist, leather belt, coin purse. They seem to be walking through farmland, pasture land, pastureland maybe, um, following a river, traveling somewhere."
+        }
+      ],
+      "place": "p07",
+      "mode": "vision",
+      "observerPlace": "p04",
+      "context": "vision"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0463",
+        "endUid": "u0475"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The coin vision ends with a red-haired armored bearer in an underground tunnel.",
+      "evidence": [
+        {
+          "startUid": "u0463",
+          "endUid": "u0466",
+          "quote": "DM: And so, this this person armored helm, you can see, like some longish red hair kind of coming out from below the helm, a great sword slung on their back by next to the shield. Seems to be walking through a cave, through some, some underground tunnel. There is a, there is a light source up ahead that's throwing their back into shadows because that's floating in front of them. It doesn't seem to be a torch. It seems to be like magical light."
+        },
+        {
+          "startUid": "u0467",
+          "endUid": "u0467",
+          "quote": "Kenzo: Driftglobe."
+        },
+        {
+          "startUid": "u0468",
+          "endUid": "u0468",
+          "quote": "DM: Something like that or the Light spell or some some—"
+        },
+        {
+          "startUid": "u0469",
+          "endUid": "u0469",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u0470",
+          "endUid": "u0470",
+          "quote": "DM: Something along those lines, and then the mirror fades."
+        },
+        {
+          "startUid": "u0471",
+          "endUid": "u0471",
+          "quote": "Seeker: That's it so at the last one was a human chain mail the shield using it to bring something out of a cave?"
+        },
+        {
+          "startUid": "u0472",
+          "endUid": "u0475",
+          "quote": "DM: Or some somewhere underground. It wasn't it wasn't clear you're clearly traveling through a tunnel right."
+        }
+      ],
+      "place": "p08",
+      "mode": "vision",
+      "observerPlace": "p04",
+      "context": "vision"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0897",
+        "endUid": "u0911"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue west through more settled plains, then leave the road for the aqueduct camp on the fifth day.",
+      "evidence": [
+        {
+          "startUid": "u0897",
+          "endUid": "u0902",
+          "quote": "DM: The next morning, um, third day on the road, um. You have now clearly crossed into the, the plains, right? Yeah, you know, as you— every day, it seems to get a little bit more, a little bit more vegetation. Um, you know, the road, road itself, you know a little bit more ah you know, it, it just— it's starting to feel a little bit more like these big open expanses of grassland and kind of more fertile terrain, as you ride in, um."
+        },
+        {
+          "startUid": "u0903",
+          "endUid": "u0908",
+          "quote": "DM: Ah, there's again still some traffic on the road. Um, hold on one sec. Ah, OK just sent you a message um there's more traffic on the— occasional traffic. And, and here it's not so much like you don't pass people heading to Karawa necessarily. Um, you know, you'll pass, you'll, you'll pass people who are— you see, you know. A few Dunmari hunters following a herd of antelope or you know."
+        },
+        {
+          "startUid": "u0909",
+          "endUid": "u0911",
+          "quote": "DM: You pass early the morning on the third day on the road, um, um, like family of Dunmari herders with flocks of sheep, sort of not on the road, right? These are people could just live out on these plains, who are you sort of into the— passing into the more settled regions."
+        },
+        {
+          "startUid": "u1251",
+          "endUid": "u1254",
+          "quote": "DM: On the fifth day around lunchtime you pass another small family encampments set off— set up a little bit off the road. Um, there is a— there is a ruined like piece of an aqueduct that runs along the road maybe about a mile north of the road, but clearly visible across the plains, was like a little Dunmari encampments setup there, sheltering in the shade of the, of the aqueduct from the midday sun."
+        },
+        {
+          "startUid": "u1269",
+          "endUid": "u1270",
+          "quote": "DM: So you ride turn off the road riding North for about a mile and approaching the the aqueduct. There is a group of about eight Dunmari, maybe 10, kind of set up in a camp. Looks like they've been here for maybe a day or two. They've got goats, a big herd of goats, and horses."
+        },
+        {
+          "startUid": "u1271",
+          "endUid": "u1271",
+          "quote": "Unknown: Um."
+        },
+        {
+          "startUid": "u1272",
+          "endUid": "u1275",
+          "quote": "DM: One one woman rides up and waves at you as as Seeker kind of keeps peering around like looking at the aqueduct. Yeah go ahead and make a— guess a history check with advantage."
+        },
+        {
+          "startUid": "u1318",
+          "endUid": "u1320",
+          "quote": "DM: So as you're looking, this woman rides up, or kind of comes out of her tent and— Travelers, welcome."
+        },
+        {
+          "startUid": "u1321",
+          "endUid": "u1321",
+          "quote": "Delwath: Greetings."
+        },
+        {
+          "startUid": "u1322",
+          "endUid": "u1323",
+          "quote": "Kenzo: Greetings. Somebody that's not trying."
+        },
+        {
+          "startUid": "u1324",
+          "endUid": "u1324",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1325",
+          "endUid": "u1325",
+          "quote": "DM: She's you know curious."
+        },
+        {
+          "startUid": "u1326",
+          "endUid": "u1326",
+          "quote": "Kenzo: Not trying to kill us."
+        },
+        {
+          "startUid": "u1327",
+          "endUid": "u1332",
+          "quote": "DM: Yeah friendly. Is particularly interested in this weird assemblage brings such a unusual collection of people out on the plains today? Where are you coming from?"
+        },
+        {
+          "startUid": "u1333",
+          "endUid": "u1335",
+          "quote": "Seeker: We were in Karawa but but we— I, in particular, I should say I'm especially interested in the historical interest of these aqueduct ruins."
+        },
+        {
+          "startUid": "u1336",
+          "endUid": "u1337",
+          "quote": "DM: Old Drankorian it's all I know."
+        },
+        {
+          "startUid": "u1338",
+          "endUid": "u1338",
+          "quote": "Seeker: And, and what brings you folks out to this part of the world?"
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1341",
+          "quote": "DM: She like opens her hands out on the, the flock of goats and horses. We live here, of course. Just camping here for a few days."
+        }
+      ],
+      "from": "p04",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "riding",
+      "route": [
+        {
+          "reading": "Continue along the trade road.",
+          "place": "p03"
+        },
+        {
+          "reading": "Leave the road for the aqueduct about one mile north.",
+          "place": "p10"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1421",
+        "endUid": "u1436"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Wellby climbs and Kenzo jumps to the top of the aqueduct.",
+      "evidence": [
+        {
+          "startUid": "u1421",
+          "endUid": "u1421",
+          "quote": "Wellby: Oh, I want to scale the aqueduct how tall is the thing?"
+        },
+        {
+          "startUid": "u1422",
+          "endUid": "u1423",
+          "quote": "DM: Yeah ah. Alright don't know 20 feet up."
+        },
+        {
+          "startUid": "u1424",
+          "endUid": "u1424",
+          "quote": "Wellby: Yeah yeah let's stay and eat, come up there and see what's up there and."
+        },
+        {
+          "startUid": "u1425",
+          "endUid": "u1425",
+          "quote": "Seeker: I'll join it via clairvoyance."
+        },
+        {
+          "startUid": "u1426",
+          "endUid": "u1426",
+          "quote": "Kenzo: Kenzo'll jump up there."
+        },
+        {
+          "startUid": "u1427",
+          "endUid": "u1428",
+          "quote": "DM: Yeah. He doesn't bother to scale he just jumps."
+        },
+        {
+          "startUid": "u1429",
+          "endUid": "u1430",
+          "quote": "Delwath: Delwath'll kind of just look at your antics, stay on the ground like a sensible person."
+        },
+        {
+          "startUid": "u1431",
+          "endUid": "u1436",
+          "quote": "DM: It's pretty unstable at the top. There's but there's you know there's a channel where water runs and there's and there's a lot more runes, like the whole— so, like, there's the sides, right, and then there's the bottom. But all along those two sides where the water runs through, that's just as decorative pattern, almost like waves flowing and then there will be a chunk of runes, and then a decorative pattern again. Um just kind of carved into the stone. One side is sort of weathered and worn out, but the other side seems more protected, the, the— yeah."
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "climb/jump"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1450",
+        "endUid": "u1452"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker uses Clairvoyance to see the top while physically remaining below beside Delwath.",
+      "evidence": [
+        {
+          "startUid": "u1450",
+          "endUid": "u1450",
+          "quote": "Seeker: So if I'm clairvoyancing up there, can I copy, while down standing next to Delwath, copy out the runes as best I can so he can have a look?"
+        },
+        {
+          "startUid": "u1451",
+          "endUid": "u1452",
+          "quote": "DM: I'm sure."
+        }
+      ],
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p09"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1482",
+        "endUid": "u1489"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath teleports to join the investigation on the aqueduct.",
+      "evidence": [
+        {
+          "startUid": "u1482",
+          "endUid": "u1482",
+          "quote": "Delwath: Delwath'll look around for a minute and then just kind of shrug and step up."
+        },
+        {
+          "startUid": "u1483",
+          "endUid": "u1484",
+          "quote": "DM: Dunmari now looking like: What is happening?"
+        },
+        {
+          "startUid": "u1485",
+          "endUid": "u1485",
+          "quote": "Delwath: Well, Delwath'll shrug like what's the point here."
+        },
+        {
+          "startUid": "u1486",
+          "endUid": "u1487",
+          "quote": "DM: Exactly and and Garret also kind of looking at them like. I know what is happening. And then, like, starts— goes over, he's like, they're obsessed with magic."
+        },
+        {
+          "startUid": "u1488",
+          "endUid": "u1489",
+          "quote": "Delwath: Yeah we're totally becoming the people we hate. What, now that I'm up here I'm going to use sight of Elmerca to detect if it's magical."
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1559",
+        "endUid": "u1563"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath jumps down and returns to the hostess at camp.",
+      "evidence": [
+        {
+          "startUid": "u1559",
+          "endUid": "u1560",
+          "quote": "Delwath: I'll jump back down and I'll tell— walk back over to the one we were talking to, you know ask her if she's ever noticed this particular good fertile lush piece of pasture."
+        },
+        {
+          "startUid": "u1561",
+          "endUid": "u1563",
+          "quote": "DM: Yeah it's this. Always come here to graze it's good territory and when it rains the water you know pours down off that thing."
+        }
+      ],
+      "from": "p11",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "jump/walk"
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u1601",
+        "endUid": "u1607"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker later describes being up on the aqueduct while testing the kettle; the ascent is not narrated.",
+      "evidence": [
+        {
+          "startUid": "u1601",
+          "endUid": "u1602",
+          "quote": "Seeker: I am also while we're up there in a in a break in a moment of you know resting I dig out the kettle and see if it will multiply the content, the quantity of other liquids."
+        },
+        {
+          "startUid": "u1603",
+          "endUid": "u1607",
+          "quote": "DM: So it doesn't seem to— no, it doesn't. And actually, you notice now that once Seeker, or once Wellby, poured his waterskin, it seems to require some time to recharge. So, like, even if you pour water over it now, nothing happens. Possibly it's a— the magic has faded enough that it's not constant or it requires some recharge or something like that. So."
+        }
+      ],
+      "place": "p11"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1631",
+        "endUid": "u1631"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the aqueduct overnight, return to the road and reach another roadside camp on the ninth journey day.",
+      "evidence": [
+        {
+          "startUid": "u1631",
+          "endUid": "u1631",
+          "quote": "DM: So the next morning break camp return to the road."
+        },
+        {
+          "startUid": "u1663",
+          "endUid": "u1673",
+          "quote": "DM: The next— the next, you know, three or four days, say the next— the next four days are uneventful as you travel along along this road. Continuing towards Tokra, you're now maybe two days out from Tokra, um, approaching you're still like 50 miles away so you can't like see the River really clearly yet. On clear days it's still like Tokra still a little bit, but beyond the horizon right, so you can't can't quite see it even even given a clear day but with that, like with the days delay to explore the aqueduct at you know your your maybe you'll get there, and about two days from now um. The—"
+        },
+        {
+          "startUid": "u1681",
+          "endUid": "u1684",
+          "quote": "DM: Wow, um, so, you know, it's been about a week. It's been eight— you've been on the road for eight days now, nine days. The mirror having recharged during the course of your travels and looking at the looking at the coin."
+        },
+        {
+          "startUid": "u1685",
+          "endUid": "u1685",
+          "quote": "DM: And here, as you sort of make camp, the afternoon, evening, a couple days out from Tokra, you have another opportunity to use the mirror if you'd like."
+        }
+      ],
+      "from": "p09",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "riding",
+      "route": [
+        {
+          "reading": "Return to the trade road and continue west toward Tokra.",
+          "place": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1924",
+        "endUid": "u1927"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Resume travel and reach high ground overlooking the Hara and Tokra.",
+      "evidence": [
+        {
+          "startUid": "u1924",
+          "endUid": "u1927",
+          "quote": "DM: Okay, so the next morning right you ride again, through the plains. Another uneventful day, uneventful day."
+        },
+        {
+          "startUid": "u2070",
+          "endUid": "u2073",
+          "quote": "DM: I would say it's probably about early afternoon, 11 days after you left Karawa. You cross the highland and you can see, stretching a few miles beyond, the River Hara winding slowly from north to south, really barely more than a trickle at this time of year before the rains of the monsoon season come. The city of Tokra itself lies just beyond the river, on the other side of a huge arching bridge made of solid greystone that's— that is the only crossing of the Hara for miles in either direction, although realistically you could probably ford it fairly easily. Oh, I guess with your wagon, it— with your cart, it might be trouble, um."
+        },
+        {
+          "startUid": "u2119",
+          "endUid": "u2121",
+          "quote": "DM: Around the city and this sort of mid afternoon, there's, there's a fair bit of activity. You know, you can see, you know, travelers coming and going on the bridge. There are— what looks like on the far side of the bridge there's you know, a handful of Dunmari soldiers or guards milling about that seemed to be collecting tolls from from everybody who passes."
+        },
+        {
+          "startUid": "u2122",
+          "endUid": "u2124",
+          "quote": "DM: And you know there's some activity in the army camp in the distance of— seems to be, can see the plumes of dust rising up from horses riding, doing drills or patrols or something like that, and just the general bustle of activity. You can hear, you know, echoing from the distance, the clang of metal on metal of somebody you know hammering horseshoes or the the general bustle of city life rises up from the River Valley."
+        },
+        {
+          "startUid": "u2125",
+          "endUid": "u2126",
+          "quote": "DM: You are now— so you're coming on the crest of the hill. You're going to descend now on a gentle slope to the bridge, maybe a mile from where you are now. So just go across the bridge?"
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "riding"
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u2070",
+        "endUid": "u2073"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "View the Hara and Tokra across the bridge from the eastern high ground; seeing the city is not entering it.",
+      "evidence": [
+        {
+          "startUid": "u2070",
+          "endUid": "u2073",
+          "quote": "DM: I would say it's probably about early afternoon, 11 days after you left Karawa. You cross the highland and you can see, stretching a few miles beyond, the River Hara winding slowly from north to south, really barely more than a trickle at this time of year before the rains of the monsoon season come. The city of Tokra itself lies just beyond the river, on the other side of a huge arching bridge made of solid greystone that's— that is the only crossing of the Hara for miles in either direction, although realistically you could probably ford it fairly easily. Oh, I guess with your wagon, it— with your cart, it might be trouble, um."
+        },
+        {
+          "startUid": "u2074",
+          "endUid": "u2074",
+          "quote": "Seeker: But it's no big deal or something that important in the part don't worry about the."
+        },
+        {
+          "startUid": "u2075",
+          "endUid": "u2076",
+          "quote": "DM: Bridge is worn and has definitely seen better days. Its old decorative pillars that once lined the crossing, like on either side, are clearly missing. And only on the far side of the river have they been replaced by statues of two rearing horses with like manes flowing down the back. Not, not, no riders, just horses."
+        },
+        {
+          "startUid": "u2077",
+          "endUid": "u2079",
+          "quote": "DM: So, as you take in this scene, you can see, um, stretching north of the city along the river, there's like a small dockyard that sort of mostly quiet, not much activity happening there and the— dry heat of late summer. And beyond you've got fields of the summer season crops, what little can be grown in the heat without rain by irrigation from the river. Mostly like watermelon, bitter melon kind of things like that that are hot dry fruits and awaiting the harvest that comes with the monsoon rains and in maybe a month or less."
+        },
+        {
+          "startUid": "u2080",
+          "endUid": "u2084",
+          "quote": "DM: The city itself is surrounded by a solid thick wall of stone. With several gates that you can see from here, one river gate, one to the south. Must be more to the north into the west as well. Um, does that scattering of buildings that are outside the walls, mostly in, you know, there's the small, that inn that, that Kenzo knows. There's like store houses and sort of stables, a few kind of merchant warehouse type type buildings and some some houses of people too poor or uninterested in living inside the walls."
+        },
+        {
+          "startUid": "u2085",
+          "endUid": "u2088",
+          "quote": "DM: To the north inland not right along the river where which is mostly farmland, you can see, camped a small Dunmari army. Row after row after row of tents and horses, perhaps at least a few hundred maybe as many as 500 soldiers here."
+        },
+        {
+          "startUid": "u2089",
+          "endUid": "u2090",
+          "quote": "DM: To the south, the land rises in a series of small hills, the Lakan monastery visible on a hill overlooking the city and the river, perhaps five miles south of Tokra at most. The city itself is largely hidden behind the walls."
+        },
+        {
+          "startUid": "u2091",
+          "endUid": "u2092",
+          "quote": "DM: But a few things dominate the skyline that you can see, even on the other side of the walls."
+        },
+        {
+          "startUid": "u2093",
+          "endUid": "u2093",
+          "quote": "DM: First, three buildings: the dome of a large temple that rises in the center of town, presumably the main temple of the five Siblings in Tokra, which is also the center of the civil administration of the city."
+        },
+        {
+          "startUid": "u2094",
+          "endUid": "u2095",
+          "quote": "DM: Near the temple two other buildings stand both. One a large square building with a significant tower that rises maybe 300 feet above the city."
+        },
+        {
+          "startUid": "u2096",
+          "endUid": "u2098",
+          "quote": "DM: This is a— this looks newer and more recently reconstructed than the temple which which seems extremely old. And there's touches of sort of dwarven architectural style in this building."
+        },
+        {
+          "startUid": "u2099",
+          "endUid": "u2099",
+          "quote": "DM: And then, ah, a third tall building, not reaching nearly so high, but the city, but a big bulky rectangular building, um."
+        },
+        {
+          "startUid": "u2100",
+          "endUid": "u2104",
+          "quote": "DM: Standing south of the big bulky rectangular building and sort of in between that building and the southern wall of the city is a enormous tree that grows— I should have looked up. Hold on, sorry, um, that grows, maybe 300 feet tall."
+        },
+        {
+          "startUid": "u2105",
+          "endUid": "u2105",
+          "quote": "Seeker: Whoo."
+        },
+        {
+          "startUid": "u2106",
+          "endUid": "u2110",
+          "quote": "DM: Just one lone tree standing in the middle of the city. It stretches for you know, maybe— the bottom third is just an enormous— while you can't really see the bottom third. It's just an enormous trunk and then there's a close-set of leaves going up until at the end there's sort of more droopy branches um. It is—"
+        },
+        {
+          "startUid": "u2111",
+          "endUid": "u2112",
+          "quote": "DM: From a distance that almost looks like stone. The leaves are faintly tinged with green. I mean, it's clearly alive, right? Like, you know, the branches, there's leaves you can see. I mean, you're still some distance off, so it's not super clear, but the bark looks almost like stone, almost like it's a tree growing inside of stone shell."
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "Seeker: Deciduous looking tree?"
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2114",
+          "quote": "DM: Yeah yeah."
+        },
+        {
+          "startUid": "u2115",
+          "endUid": "u2116",
+          "quote": "Wellby: Is this something that's like known and in the stories of the city? Yeah it's amazing but not surprising."
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2118",
+          "quote": "DM: It's not surprising, it's not— yes, Kenzo, you would know this tree exists. Like, it's not something that you're caught off guard by. Nobody quite understands how is it, how it grows. But it's just this part of Tokra that everybody knows about is this giant tree."
+        }
+      ],
+      "place": "p15",
+      "mode": "local",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u2089",
+        "endUid": "u2090"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the monastery on a hill south of Tokra.",
+      "evidence": [
+        {
+          "startUid": "u2089",
+          "endUid": "u2090",
+          "quote": "DM: To the south, the land rises in a series of small hills, the Lakan monastery visible on a hill overlooking the city and the river, perhaps five miles south of Tokra at most. The city itself is largely hidden behind the walls."
+        }
+      ],
+      "place": "p17",
+      "mode": "local",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2143",
+        "endUid": "u2148"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride across the Hara bridge and reach the toll guards at its far end.",
+      "evidence": [
+        {
+          "startUid": "u2143",
+          "endUid": "u2144",
+          "quote": "DM: Okay, so you ride across the bridge. The bridge itself is you know it's clearly old but it's also clearly seen better days."
+        },
+        {
+          "startUid": "u2145",
+          "endUid": "u2148",
+          "quote": "DM: And as you as you reach the the far end the guard, you know the guard contingent here is, you know, as basically they're not paying too much attention to everybody who crosses, but they do collect a toll. And so when you approach, the Dunmari kind of looks up, is like, yeah, kind of looks confused from his odd company you're keeping, dwarf, elf, and a halfling traveling together."
+        }
+      ],
+      "from": "p13",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "riding",
+      "route": [
+        {
+          "reading": "Cross the Hara on the stone bridge.",
+          "place": "p14"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2155",
+        "endUid": "u2170"
+      },
+      "actors": [
+        "Garret"
+      ],
+      "reading": "Garret intends to seek his old contacts at the Red Lily Inn; arrival is not played here.",
+      "evidence": [
+        {
+          "startUid": "u2155",
+          "endUid": "u2159",
+          "quote": "DM: So you turn south. And head up for the monastery. I guess it actually— Garret knows there is a small halfling inn in town. The, the Red Lily on the West side of town. Garret's gonna go there and see if he can connect with anybody he knows from—"
+        },
+        {
+          "startUid": "u2160",
+          "endUid": "u2163",
+          "quote": "DM: It's run— he knows the— Lily Strongbones, who is the woman who runs it and her husband Wes. So he's gonna go— he's gonna go there and hope— he says he'll be there for a while. If, you know, he'll, he'll send you— asks where he should send you messages."
+        },
+        {
+          "startUid": "u2164",
+          "endUid": "u2165",
+          "quote": "Kenzo: If you don't tell them the monastery, we tell them, like, we don't tell them the monastery, we're talking, we tell them the, the inn."
+        },
+        {
+          "startUid": "u2166",
+          "endUid": "u2166",
+          "quote": "DM: The place you're staying yeah okay."
+        },
+        {
+          "startUid": "u2167",
+          "endUid": "u2167",
+          "quote": "Kenzo: Somewhere there."
+        },
+        {
+          "startUid": "u2168",
+          "endUid": "u2168",
+          "quote": "DM: He says, you know, let me know where you're going next. If you happen to decide to go to Darba, be happy to travel along the road with you."
+        },
+        {
+          "startUid": "u2169",
+          "endUid": "u2169",
+          "quote": "Kenzo: Will see you for certain before we depart Tokra."
+        },
+        {
+          "startUid": "u2170",
+          "endUid": "u2170",
+          "quote": "DM: And he— thank you again for everything you've done."
+        }
+      ],
+      "from": "p16",
+      "to": "p18",
+      "completion": "planned",
+      "context": "planned"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2172",
+        "endUid": "u2194"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Ride south and enter the Lakan Monastery around sunset, where Kenzo’s former master greets the party.",
+      "evidence": [
+        {
+          "startUid": "u2172",
+          "endUid": "u2173",
+          "quote": "DM: And you turn and ride up the road to the monastery arriving around sunset."
+        },
+        {
+          "startUid": "u2174",
+          "endUid": "u2176",
+          "quote": "DM: The monastery itself is it's you know it's a cluster of buildings set on set on this hill."
+        },
+        {
+          "startUid": "u2177",
+          "endUid": "u2184",
+          "quote": "DM: And as you approach you, with the sun setting and the light catching the buildings, there's a sort of sense of, of peace and also sort of a sense of hidden depths here. And you pass, you, you know, you ride along the road and you pass on— you can see sort of to the north of the road there's a like a spiral of stones in different colors that radiate in towards a— not towards a statue— um, not a statue of a, of a person. A statue that looks almost like— what it reminds you of a little bit, actually, Seeker, is that, is what you saw in your dream, like these twisting spheres nested in each other."
+        },
+        {
+          "startUid": "u2185",
+          "endUid": "u2188",
+          "quote": "DM: To the south of the road you see a sort of a geometric garden planted with plants that you know this, these aren't like typical you know, desert plants or plains plants. They seem almost like forest understory plants that are growing without the forest above them in this sort of geometric pattern as if they were paths that were criss— like trails crisscrossing a forest and the underbrush growing around them."
+        },
+        {
+          "startUid": "u2189",
+          "endUid": "u2194",
+          "quote": "DM: And as you approach this— entering the monastery, this old, maybe 85 year old man walks out, wearing robes, walking surprisingly lightly on his feet, given how old he is. And bows to greet you and says, \"Kenzo, welcome home.\"."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "riding",
+      "note": "The transcript does not explicitly split Wellby off with Garret. Session 33’s narrative note does; that competing actor account awaits human review."
+    }
+  ]
+}

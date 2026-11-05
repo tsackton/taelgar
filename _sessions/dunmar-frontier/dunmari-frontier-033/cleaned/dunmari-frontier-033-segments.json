@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-033",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-session.yaml",
+    "sessionYamlSha256": "7c4dee4614b357da1e6d27865a734e024d61b2e484e5573f4995a7353efc250c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-transcript.md",
+    "transcriptSha256": "7b5be40a65a642abf5d9eaf5daa32eafabe514f8f2b086b36da16a2386a3ed00"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0652"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0653",
+        "endUid": "u0661"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0662",
+        "endUid": "u0686"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0687",
+        "endUid": "u0825"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0826",
+        "endUid": "u0830"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0831",
+        "endUid": "u0896"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0897",
+        "endUid": "u1086"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1087",
+        "endUid": "u1138"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1139",
+        "endUid": "u1880"
+      },
+      "category": "gameplay",
+      "note": "The scorpion at u1703–u1814 is an isolated readied attack and item destruction, with no initiative or repeating ordered combat cycle."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1881",
+        "endUid": "u1886"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1887",
+        "endUid": "u1923"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1924",
+        "endUid": "u2196"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2197",
+        "endUid": "u2198"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
