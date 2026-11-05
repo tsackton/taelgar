@@ -1,12 +1,12 @@
 # Gameplay time markers — draft format 0.5
 
-A marker records an established anchor, advance, or change of narrative time with the passage that supports it. Source order lets a reader find the evidence. Gameplay can remain unplaced between markers. The session's played interval determines its YAML assessment.
+A marker records an established anchor, advance, or change of narrative time with the passage that supports it. Before turning a summary into a duration, identify the words that advance the scene or establish how long the played action took. The period a report covers can differ from time established for play. Source order lets a reader find the evidence. Gameplay can remain unplaced between markers. The session's played interval determines its YAML assessment.
 
 ## Calibration
 
 | Passage | Expected markers |
 | --- | --- |
-| Dawn. The players plan. Two PCs shop and play out a lunch encounter. The DM later resolves another PC's rumor gathering with a roll. | Exactly two: dawn and the shoppers' lunch. Omit the planning and roll. Leave the rumor gathering unplaced relative to lunch. An explicit advance to dusk would add a marker. |
+| Dawn. The players plan. Two PCs shop and play out a lunch encounter. The DM later asks the third PC for a roll and summarizes what they learned “over the course of the day.” | Exactly two: dawn and the shoppers' lunch. Omit the planning and roll. Leave the rumor gathering unplaced relative to lunch. An explicit advance to dusk would add a marker. |
 | Kenzo recognizes a mesa in the morning light after dreaming of it every night for a week. | Morning on the approach. The dream history supplies neither elapsed session time nor an alternative opening boundary. |
 | Alesh describes her eight-hour ride in answer to a distance question. The DM places the meeting at about four. The party later marches for a day. | About four for the meeting, and the party's day of marching. Omit Alesh's previous ride. |
 | “You search for a minute.” | One minute of elapsed search time. |
