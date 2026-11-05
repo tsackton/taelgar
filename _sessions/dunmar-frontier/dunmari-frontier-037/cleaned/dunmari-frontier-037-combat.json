@@ -1,0 +1,1398 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-037",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-session.yaml",
+    "sessionYamlSha256": "ae6080a96867d6b42358183bf856edc1e0828405f17b0888f9ccf5b18d09c5e4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-transcript.md",
+    "transcriptSha256": "55dfb5f759f73f2126c1df94ab8fe78985d32933faaf6db76e6862c5f110fa4b",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-segments.json",
+      "sha256": "9133532ec46665c86d410719906525061177a6c1e404de298867123e150e8eef",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s005",
+      "encounter": "Four grotesque animal-statue guardians",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Shadow of Moil, becoming heavily obscured in shadowy flames. The shadow beast and its proposed 12-damage flyby attack are explicitly retconned away because both spells require concentration.",
+              "evidence": [
+                {
+                  "startUid": "u0346",
+                  "endUid": "u0367"
+                },
+                {
+                  "startUid": "u0393",
+                  "endUid": "u0409"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Throws his driftglobe into the room and casts Daylight, which does not harm the guardians. Asks to pass peacefully in Celestial, Dunmari, and Sylvan.",
+              "evidence": [
+                {
+                  "startUid": "u0384",
+                  "endUid": "u0392"
+                },
+                {
+                  "startUid": "u0415",
+                  "endUid": "u0423"
+                }
+              ]
+            },
+            {
+              "actor": "Statue guardian",
+              "kind": "turn",
+              "summary": "Refuses entry in a raspy voice and slams the door shut.",
+              "evidence": [
+                {
+                  "startUid": "u0424",
+                  "endUid": "u0432"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Attempts to hold the door against the guardian but fails; the door closes.",
+              "evidence": [
+                {
+                  "startUid": "u0433",
+                  "endUid": "u0439"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts his cold protective spell, reopens the door, enters the room and readies an attack against a guardian that attacks a companion. Daylight is ended, leaving the room dark.",
+              "evidence": [
+                {
+                  "startUid": "u0520",
+                  "endUid": "u0554"
+                }
+              ],
+              "note": "The casting is not clearly named here; the subsequent 20-cold-damage retaliation establishes its resolved benefit."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Dashes through the room using Cunning Action, then shoots a guardian in darkness with disadvantage for 7 damage; Sneak Attack is explicitly denied.",
+              "evidence": [
+                {
+                  "startUid": "u0555",
+                  "endUid": "u0564"
+                },
+                {
+                  "startUid": "u0587",
+                  "endUid": "u0602"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "His readied attack triggers before the bottom guardian attacks Wellby; the source later confirms the reaction was used, but does not clearly state its roll or damage.",
+              "evidence": [
+                {
+                  "startUid": "u0565",
+                  "endUid": "u0568"
+                },
+                {
+                  "startUid": "u0615",
+                  "endUid": "u0619"
+                }
+              ]
+            },
+            {
+              "actor": "Four statue guardians",
+              "kind": "reaction",
+              "summary": "Make opportunity attacks as Wellby runs past: one hits for 6 slashing, one misses, the crab-lion hits for 7 slashing before Uncanny Dodge, and the ram-headed guardian hits for 5 bludgeoning.",
+              "evidence": [
+                {
+                  "startUid": "u0570",
+                  "endUid": "u0586"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the 7-slashing hit, reducing it to 3.",
+              "evidence": [
+                {
+                  "startUid": "u0580",
+                  "endUid": "u0583"
+                }
+              ]
+            },
+            {
+              "actor": "Right-hand statue guardian",
+              "kind": "turn",
+              "summary": "Bite and claw both miss Delwath, against AC 19.",
+              "evidence": [
+                {
+                  "startUid": "u0604",
+                  "endUid": "u0610"
+                }
+              ]
+            },
+            {
+              "actor": "Second right-hand statue guardian",
+              "kind": "turn",
+              "summary": "Misses once, then claws Delwath for 7 slashing. Takes 20 cold and 8 necrotic retaliation and shatters. The table keeps this hit after remembering that attacks against Delwath should have disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u0611",
+                  "endUid": "u0627"
+                },
+                {
+                  "startUid": "u0631",
+                  "endUid": "u0641"
+                }
+              ]
+            },
+            {
+              "actor": "Guardian chasing Wellby",
+              "kind": "turn",
+              "summary": "Chases Wellby and deals 6 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0626",
+                  "endUid": "u0630"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining guardian",
+              "kind": "turn",
+              "summary": "Two attacks against Delwath miss with disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u0642",
+                  "endUid": "u0644"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Brings in his driftglobe, making the darkness dim light. Hits twice with his quarterstaff; the first damage roll of 3 receives a +4 correction, and the second deals 9. Both Flurry of Blows unarmed strikes miss.",
+              "evidence": [
+                {
+                  "startUid": "u0651",
+                  "endUid": "u0682"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Earthen Grasp at the bottom-left guardian, which succeeds on its Strength save and escapes the hand. Gives Bardic Inspiration to Wellby. The hand remains available to try again.",
+              "evidence": [
+                {
+                  "startUid": "u0683",
+                  "endUid": "u0702"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks a guardian and misses.",
+              "evidence": [
+                {
+                  "startUid": "u0703",
+                  "endUid": "u0709"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim with his shortsword in dim light, gaining advantage and leaving his target badly damaged; the spoken roll/result is 22.",
+              "evidence": [
+                {
+                  "startUid": "u0713",
+                  "endUid": "u0723"
+                }
+              ],
+              "note": "The source does not distinguish whether 22 is the attack total or damage."
+            },
+            {
+              "actor": "Guardian fighting Delwath",
+              "kind": "turn",
+              "summary": "Bite and claws miss with disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u0724",
+                  "endUid": "u0733"
+                }
+              ]
+            },
+            {
+              "actor": "Snake-headed guardian",
+              "kind": "turn",
+              "summary": "Hits Kenzo for 8 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0724",
+                  "endUid": "u0738"
+                }
+              ],
+              "note": "The DM first calls this a bite for piercing damage, then repeats the same 8 as slashing; the type remains unresolved."
+            },
+            {
+              "actor": "Crab-lion guardian",
+              "kind": "turn",
+              "summary": "Hits Wellby for 8 piercing with a bite and 8 slashing with its claws.",
+              "evidence": [
+                {
+                  "startUid": "u0738",
+                  "endUid": "u0743"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Continues attacking the same guardian; staff attacks miss, then an unarmed strike is narrated wearing it down. The table corrects his pre-fight health to full, leaving 37 after the earlier 8-damage hit.",
+              "evidence": [
+                {
+                  "startUid": "u0744",
+                  "endUid": "u0779"
+                }
+              ],
+              "note": "The unarmed damage is not spoken."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Retries Earthen Grasp; the goat-headed guardian fails its Strength save with a 6 and becomes restrained. Damage is rolled again after an initial mention of 6. The slot is corrected from third to second level because upcasting gives no benefit.",
+              "evidence": [
+                {
+                  "startUid": "u0780",
+                  "endUid": "u0809"
+                }
+              ],
+              "note": "The final damage reroll is not spoken."
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves away from the restrained guardian and attacks the unrestrained guardian threatening Wellby. A 15 hits; the second attack is also announced without a clear separate result.",
+              "evidence": [
+                {
+                  "startUid": "u0810",
+                  "endUid": "u0822"
+                }
+              ]
+            },
+            {
+              "actor": "Goat-headed guardian",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack at Delwath with disadvantage and misses on a natural 1.",
+              "evidence": [
+                {
+                  "startUid": "u0811",
+                  "endUid": "u0815"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Repeats Steady Aim and strikes the crab-lion guardian with his shortsword: 19 hits for 24 damage, taking its head off and destroying it.",
+              "evidence": [
+                {
+                  "startUid": "u0823",
+                  "endUid": "u0831"
+                }
+              ]
+            },
+            {
+              "actor": "Snake-headed guardian",
+              "kind": "turn",
+              "summary": "Attacks Kenzo twice; 15 and 16 both miss AC 17.",
+              "evidence": [
+                {
+                  "startUid": "u0832",
+                  "endUid": "u0842"
+                }
+              ]
+            },
+            {
+              "actor": "Restrained goat-headed guardian",
+              "kind": "turn",
+              "summary": "Despite disadvantage, rams Delwath for 5 bludgeoning and takes 20 cold and 9 additional shadow retaliation, becoming nearly destroyed.",
+              "evidence": [
+                {
+                  "startUid": "u0835",
+                  "endUid": "u0854"
+                },
+                {
+                  "startUid": "u0860",
+                  "endUid": "u0862"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Shadow Rebuke for a stated 13 damage. The guardian is entitled to a Dexterity save at disadvantage because restrained, against DC 15.",
+              "evidence": [
+                {
+                  "startUid": "u0853",
+                  "endUid": "u0862"
+                }
+              ],
+              "note": "The Dexterity save outcome is garbled; no independent final damage adjustment is supplied."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Misses with a 13, then hits the snake-headed guardian for 12 damage. Further unarmed strikes, including one using ki, break off more pieces without destroying it.",
+              "evidence": [
+                {
+                  "startUid": "u0864",
+                  "endUid": "u0879"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses Runic Disparagement to criticize the snake-headed statue. It fails its save and crumbles with only 2 hit points remaining.",
+              "evidence": [
+                {
+                  "startUid": "u0880",
+                  "endUid": "u0899"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul-sights the remaining restrained guardian; it has no soul or sentience.",
+              "evidence": [
+                {
+                  "startUid": "u0903",
+                  "endUid": "u0921"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Asks whom it serves; it repeats its refusal. Withdraws the proposed stabbing and disengages to let Seeker inspect it.",
+              "evidence": [
+                {
+                  "startUid": "u0912",
+                  "endUid": "u0936"
+                }
+              ]
+            },
+            {
+              "actor": "Restrained goat-headed guardian",
+              "kind": "turn",
+              "summary": "Struggles against the earthen hand as Delwath steps away.",
+              "evidence": [
+                {
+                  "startUid": "u0935",
+                  "endUid": "u0936"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Inspects the guardian with a History check and recognizes a resemblance to non-sentient, password-controlled stone defenders, while the DM explicitly rejects dwarven manufacture here. Finally closes the earthen hand and crushes it to dust.",
+              "evidence": [
+                {
+                  "startUid": "u0937",
+                  "endUid": "u0955"
+                },
+                {
+                  "startUid": "u0964",
+                  "endUid": "u0982"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All four guardians are destroyed; the final restrained guardian crumbles in Seeker’s Earthen Grasp and silence falls.",
+        "evidence": [
+          {
+            "startUid": "u0978",
+            "endUid": "u0982"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s007",
+      "encounter": "Breda, the male guard, and Edmur in the subbasement",
+      "openingActions": [
+        {
+          "actor": "Wellby",
+          "kind": "reaction",
+          "summary": "Releases his readied arrow while Delwath challenges the guard. It hits for 28 damage, confirmed after initiative is rolled.",
+          "evidence": [
+            {
+              "startUid": "u1283",
+              "endUid": "u1307"
+            },
+            {
+              "startUid": "u1355",
+              "endUid": "u1359"
+            }
+          ]
+        },
+        {
+          "actor": "Male guard",
+          "kind": "event",
+          "summary": "Calls for Edmur as the arrow strikes and begins transforming into a wolf-human hybrid; Breda starts lowering the ladder.",
+          "evidence": [
+            {
+              "startUid": "u1317",
+              "endUid": "u1324"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Strikes the male guard four times: the ordinary staff causes no damage despite hitting, while his magical unarmed strikes hurt it, including a final 10 damage after spending ki.",
+              "evidence": [
+                {
+                  "startUid": "u1345",
+                  "endUid": "u1393"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks the male guard twice and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1395",
+                  "endUid": "u1412"
+                }
+              ]
+            },
+            {
+              "actor": "Male guard",
+              "kind": "turn",
+              "summary": "Claws Kenzo for 10 slashing and bites into his shoulder, requiring a secret Constitution save. Stillness of Mind is discussed but no charm or fear is present.",
+              "evidence": [
+                {
+                  "startUid": "u1413",
+                  "endUid": "u1432"
+                }
+              ],
+              "note": "The bite passage says “a 21. Points of damage” without a clear separation of attack total and damage; the numeric bite damage remains unresolved."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes aim and shoots the wounded male guard dead; 19 is spoken during resolution.",
+              "evidence": [
+                {
+                  "startUid": "u1434",
+                  "endUid": "u1440"
+                }
+              ]
+            },
+            {
+              "actor": "Breda",
+              "kind": "turn",
+              "summary": "Lowers the rope ladder and climbs its first 5 feet, attempting to escape upward.",
+              "evidence": [
+                {
+                  "startUid": "u1441",
+                  "endUid": "u1442"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Animates the rope ladder instead of using the proposed web item. Commands it to shake Breda off; the initial attack fails on a natural 1. Grants Bardic Inspiration to Kenzo after the DM corrects that this can accompany commanding the ladder.",
+              "evidence": [
+                {
+                  "startUid": "u1444",
+                  "endUid": "u1512"
+                }
+              ]
+            },
+            {
+              "actor": "Flying rope ladder",
+              "kind": "turn",
+              "summary": "Tries to shake Breda off but fails on a natural 1; it remains attached.",
+              "evidence": [
+                {
+                  "startUid": "u1480",
+                  "endUid": "u1501"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves through the doorway with the driftglobe and soul-sights Breda, finding fear and desperation. Offers to avoid further bloodshed; she promises the joy of madness. Hits with Stunning Strike: Constitution 12 fails DC 14, leaving her stunned. Continues unarmed attacks with advantage.",
+              "evidence": [
+                {
+                  "startUid": "u1522",
+                  "endUid": "u1587"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves closer and hits Breda with two blasts.",
+              "evidence": [
+                {
+                  "startUid": "u1589",
+                  "endUid": "u1596"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Cunning Action to close the distance and shoots stunned Breda for 21 damage with Sneak Attack; the table corrects that all attacks against a stunned target have advantage.",
+              "evidence": [
+                {
+                  "startUid": "u1597",
+                  "endUid": "u1617"
+                }
+              ]
+            },
+            {
+              "actor": "Edmur",
+              "kind": "turn",
+              "summary": "Bursts through the door with spear and shield. Two spear attacks miss Delwath; shield 22 hits for 6 bludgeoning and he fails a Strength save, falling prone. Bites with advantage, 23 hitting for 7 damage, requiring a secret Constitution save against the curse. Takes 20 cold retaliation for each hit.",
+              "evidence": [
+                {
+                  "startUid": "u1618",
+                  "endUid": "u1680"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Shadow Rebuke after the shield hit for 9 psychic damage; Edmur rolls Dexterity 14, treated as a failure.",
+              "evidence": [
+                {
+                  "startUid": "u1638",
+                  "endUid": "u1647"
+                }
+              ]
+            },
+            {
+              "actor": "Breda",
+              "kind": "turn",
+              "summary": "Cannot take her turn because stunned.",
+              "evidence": [
+                {
+                  "startUid": "u1676",
+                  "endUid": "u1680"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Withdraws the proposed Polymorph because werewolves are shapechangers. Instead casts fourth-level Erupting Earth at Edmur: Dexterity 19 succeeds for half, resolved as 17 damage. Creates difficult terrain and blows the doors open, exposing the cells and workshop.",
+              "evidence": [
+                {
+                  "startUid": "u1681",
+                  "endUid": "u1722"
+                }
+              ]
+            },
+            {
+              "actor": "Flying rope ladder",
+              "kind": "turn",
+              "summary": "Breda is adjudicated to have slipped down while stunned. The ladder pulls free of its attachment and circles in the room; no wrapping restraint is established.",
+              "evidence": [
+                {
+                  "startUid": "u1723",
+                  "endUid": "u1737"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Kills stunned Breda with an advantaged unarmed hit for 6 damage. Moves to Edmur; Bardic Inspiration turns a 14 miss into a hit for 7, but Edmur succeeds on Constitution against the exploding rune, taking no extra damage. A Flurry of Blows hit frightens Edmur and prevents reactions; its second swing misses. Fright imposes disadvantage while Kenzo is visible until the start of Kenzo’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1741",
+                  "endUid": "u1810"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Stands, applies Hexblade’s Curse, and attacks Edmur: one miss and one hit, with +3 curse damage added to the unstated weapon roll.",
+              "evidence": [
+                {
+                  "startUid": "u1811",
+                  "endUid": "u1824"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Cunning Action to disengage and shoot from farther away; the shot misses Edmur, who has slight cover.",
+              "evidence": [
+                {
+                  "startUid": "u1826",
+                  "endUid": "u1838"
+                }
+              ]
+            },
+            {
+              "actor": "Edmur",
+              "kind": "turn",
+              "summary": "Flees in fear toward the absent ladder, provoking both Kenzo and Delwath. Dies before escaping and reverts to human form.",
+              "evidence": [
+                {
+                  "startUid": "u1839",
+                  "endUid": "u1852"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Hits fleeing Edmur with an opportunity attack; combined with Delwath’s attack the damage is stated as 14.",
+              "evidence": [
+                {
+                  "startUid": "u1841",
+                  "endUid": "u1849"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Hits fleeing Edmur for 10 damage, completing the combined 14 that kills him. Later confirms that the cursed enemy’s death restores him to full health.",
+              "evidence": [
+                {
+                  "startUid": "u1841",
+                  "endUid": "u1852"
+                },
+                {
+                  "startUid": "u1868",
+                  "endUid": "u1869"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All three werewolves die and revert to human bodies. The detached flying rope ladder remains under Seeker’s control, with a stated one-hour animation duration.",
+        "evidence": [
+          {
+            "startUid": "u1851",
+            "endUid": "u1860"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c003",
+      "segmentId": "s011",
+      "encounter": "Ladder ambush of two returning werewolf guards",
+      "openingActions": [
+        {
+          "actor": "Flying rope ladder",
+          "kind": "event",
+          "summary": "Drops both descending guards 15 feet after one notices Delwath’s head. Both land prone, unaffected by falling damage. Dropping is counted as the ladder’s opening action.",
+          "evidence": [
+            {
+              "startUid": "u2708",
+              "endUid": "u2722"
+            },
+            {
+              "startUid": "u2804",
+              "endUid": "u2814"
+            }
+          ]
+        },
+        {
+          "actor": "Seeker",
+          "kind": "turn",
+          "summary": "Casts Erupting Earth: both guards fail Dexterity saves, rolling 5 and 3, and each takes 18 damage. The ground becomes difficult terrain.",
+          "evidence": [
+            {
+              "startUid": "u2742",
+              "endUid": "u2766"
+            }
+          ]
+        },
+        {
+          "actor": "Kenzo",
+          "kind": "turn",
+          "summary": "Hits the male guard with three advantaged unarmed strikes while it is prone, leaving him badly hurt.",
+          "evidence": [
+            {
+              "startUid": "u2767",
+              "endUid": "u2785"
+            }
+          ]
+        },
+        {
+          "actor": "Wellby",
+          "kind": "turn",
+          "summary": "Uses Steady Aim to cancel ranged disadvantage against the prone guard. Hits with a 16 and deals 27 including Sneak Attack, which is allowed because Kenzo is adjacent, killing the guard.",
+          "evidence": [
+            {
+              "startUid": "u2788",
+              "endUid": "u2800"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Slashes the remaining prone guard; the second strike is explicitly a hit and 15 damage is stated.",
+              "evidence": [
+                {
+                  "startUid": "u2815",
+                  "endUid": "u2823"
+                }
+              ],
+              "note": "The following DM narration says Seeker, but Delwath announces the attacks and damage before Seeker begins mockery."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses mockery on the remaining woman, who fails her save and has disadvantage on her next attack.",
+              "evidence": [
+                {
+                  "startUid": "u2824",
+                  "endUid": "u2833"
+                }
+              ]
+            },
+            {
+              "actor": "Flying rope ladder",
+              "kind": "turn",
+              "summary": "Hits the woman for 5 damage and wraps around her legs to reduce speed by 10 feet. The table also notes Kenzo can gain 10 feet of speed when starting within 10 feet of the animated object.",
+              "evidence": [
+                {
+                  "startUid": "u2835",
+                  "endUid": "u2852"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the prone woman with advantage and kills her before needing a third strike.",
+              "evidence": [
+                {
+                  "startUid": "u2853",
+                  "endUid": "u2868"
+                }
+              ],
+              "note": "Seven is spoken after the first hit; subsequent 15/16 wording does not clearly distinguish attack rolls from damage."
+            },
+            {
+              "actor": "Party and Govir",
+              "kind": "event",
+              "summary": "Kenzo jumps up through the hole and the party brings Govir with them, intending to continue with the animated ladder.",
+              "evidence": [
+                {
+                  "startUid": "u2869",
+                  "endUid": "u2882"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both guards die in human form without taking regular turns or transforming. The party begins climbing out with Govir.",
+        "evidence": [
+          {
+            "startUid": "u2865",
+            "endUid": "u2882"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c004",
+      "segmentId": "s015",
+      "encounter": "Werewolf leader and four reinforcements in the dining room",
+      "openingActions": [
+        {
+          "actor": "Wellby",
+          "kind": "turn",
+          "summary": "Shoots from invisibility with advantage, spending all four Flaming Bolt charges. A 19 hits for 39 combined arrow/fire damage and sets up repeated DC 13 Constitution saves against 4d4 fire at the start of the leader’s turns.",
+          "evidence": [
+            {
+              "startUid": "u3139",
+              "endUid": "u3163"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath",
+          "kind": "turn",
+          "summary": "Appears from invisibility, applies Hexblade’s Curse, and hits twice with critical longsword attacks. The first roll is 15 with a further +3 discussed; the second damage is 14.",
+          "evidence": [
+            {
+              "startUid": "u3164",
+              "endUid": "u3182"
+            }
+          ],
+          "note": "The spoken “60 points” aggregate does not reconcile clearly with the separate damage declarations, so no reconstructed total is asserted."
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Werewolf leader",
+              "kind": "turn",
+              "summary": "Takes 14 ongoing fire damage after failing Constitution with a 4 against DC 13, then stands, shifts into bipedal werewolf form holding his shortsword, and calls everyone to him.",
+              "evidence": [
+                {
+                  "startUid": "u3183",
+                  "endUid": "u3192"
+                },
+                {
+                  "startUid": "u3211",
+                  "endUid": "u3220"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Heat Metal on the leader’s shortsword for 2 fire damage. The leader drops it; its absence is confirmed on his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u3226",
+                  "endUid": "u3240"
+                },
+                {
+                  "startUid": "u3460",
+                  "endUid": "u3460"
+                }
+              ]
+            },
+            {
+              "actor": "Flying rope ladder",
+              "kind": "turn",
+              "summary": "Attempts to grapple the leader but fails.",
+              "evidence": [
+                {
+                  "startUid": "u3242",
+                  "endUid": "u3257"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes careful aim and hits the leader for 26 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3259",
+                  "endUid": "u3269"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits for 13 with a 22. A 14 initially misses, then Bardic Inspiration raises it to 21, hitting for 16. No additional rune damage is established. Activates Ring of Displacement, imposing disadvantage on attacks against him.",
+              "evidence": [
+                {
+                  "startUid": "u3270",
+                  "endUid": "u3299"
+                }
+              ]
+            },
+            {
+              "actor": "Front-room werewolf",
+              "kind": "turn",
+              "summary": "Rushes through the front door and attacks Seeker: claws hit with an 18 for 8 damage, and a critical bite brings the stated total to 18. Seeker must make a secret Constitution save.",
+              "evidence": [
+                {
+                  "startUid": "u3302",
+                  "endUid": "u3333"
+                }
+              ]
+            },
+            {
+              "actor": "First wolf from upstairs",
+              "kind": "turn",
+              "summary": "Runs down the stairs, leaps onto the table, and bites Delwath; disadvantage yields a 17 and misses.",
+              "evidence": [
+                {
+                  "startUid": "u3334",
+                  "endUid": "u3371"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Critically stabs the passing wolf with his dagger as an opportunity attack, but deals no damage. Wellby cannot make a bow opportunity attack, and Kenzo is not eligible at this movement.",
+              "evidence": [
+                {
+                  "startUid": "u3342",
+                  "endUid": "u3365"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the leader from invisibility, with advantage on the first attack only. Two Stunning Strikes fail to stun because the leader rolls Constitution 21 and 22; the first hit still deals 7 damage. Spends his final ki on Flurry of Blows; one swing misses and no clear final damage is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u3373",
+                  "endUid": "u3417"
+                }
+              ]
+            },
+            {
+              "actor": "Second wolf from upstairs",
+              "kind": "turn",
+              "summary": "Enters and leaps onto the table toward Delwath. The proposed 23 bite is reduced by disadvantage to a miss (7/10).",
+              "evidence": [
+                {
+                  "startUid": "u3425",
+                  "endUid": "u3432"
+                }
+              ]
+            },
+            {
+              "actor": "Sword-carrying reinforcement",
+              "kind": "turn",
+              "summary": "Comes down the stairs, hits Seeker with a shortsword for 9 damage on an 18, then misses with its bite against AC 13.",
+              "evidence": [
+                {
+                  "startUid": "u3425",
+                  "endUid": "u3447"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Werewolf leader",
+              "kind": "turn",
+              "summary": "Fails another ongoing-fire Constitution save with an 11; the additional damage is not clearly spoken. Howls, misses Kenzo with a 13 bite, misses Delwath with an 11 claw through his blurring defense, and claws at Kenzo with a 14. Drinks a potion, becomes a small pool of water, and tries to escape through a crack in the wall.",
+              "evidence": [
+                {
+                  "startUid": "u3448",
+                  "endUid": "u3487"
+                }
+              ],
+              "note": "Kenzo’s established AC is 17; the 14 claw does not establish a hit."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack on the fleeing water form: 26 hits for 14 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3488",
+                  "endUid": "u3503"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Hits the water form with a 19 for 6 bludgeoning, using Bardic Inspiration. The leader fails Constitution with a 14 against Seeker’s DC 15; the exploding rune’s thunder destroys it before escape. The corpse then recongeals.",
+              "evidence": [
+                {
+                  "startUid": "u3499",
+                  "endUid": "u3536"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim to cancel ranged disadvantage from an adjacent foe and shoots at the werewolf between him and Seeker, without a confirmed hit.",
+              "evidence": [
+                {
+                  "startUid": "u3539",
+                  "endUid": "u3557"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Retreats up the stairs to the upper landing, discussing Disengage to avoid opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u3558",
+                  "endUid": "u3582"
+                }
+              ]
+            },
+            {
+              "actor": "Flying rope ladder",
+              "kind": "turn",
+              "summary": "Flies toward the werewolf near Seeker and hits for 9 damage. Its flying speed is corrected to 30 feet.",
+              "evidence": [
+                {
+                  "startUid": "u3584",
+                  "endUid": "u3604"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks the wolf in front of him twice, dealing 9 and 8 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3605",
+                  "endUid": "u3611"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf fighting the ladder",
+              "kind": "turn",
+              "summary": "Hits the ladder. The damage wording is unclear; the table establishes 50 initial hit points and that it need not save against lycanthropy.",
+              "evidence": [
+                {
+                  "startUid": "u3612",
+                  "endUid": "u3623"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf retaliating against Kenzo",
+              "kind": "turn",
+              "summary": "Bites Kenzo on a 19 for 3 damage and requires a secret Constitution save; claws miss.",
+              "evidence": [
+                {
+                  "startUid": "u3624",
+                  "endUid": "u3635"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the wounded wolf in front of him, which remains close to death. The DM says no immediate urge to attack the party is present.",
+              "evidence": [
+                {
+                  "startUid": "u3640",
+                  "endUid": "u3667"
+                }
+              ]
+            },
+            {
+              "actor": "Another werewolf fighting the ladder",
+              "kind": "turn",
+              "summary": "Two attacks, 9 and 7, both miss.",
+              "evidence": [
+                {
+                  "startUid": "u3668",
+                  "endUid": "u3669"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf biting Delwath",
+              "kind": "turn",
+              "summary": "Hits Delwath for 7 damage absorbed by temporary hit points, takes 20 cold retaliation and dies. A secret Constitution save is still required. Delwath proposes Shadow Rebuke, but it is not resolved because the foe is already dead.",
+              "evidence": [
+                {
+                  "startUid": "u3673",
+                  "endUid": "u3697"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Disengages with Cunning Action, moves, picks up a shortsword and attempts to stab the wolf Kenzo nearly killed; misses.",
+              "evidence": [
+                {
+                  "startUid": "u3698",
+                  "endUid": "u3706"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves down the stairs and back up while using mockery on the almost-dead wolf. It fails its Wisdom save, takes the stated 6 damage and has disadvantage on its next attack, but survives.",
+              "evidence": [
+                {
+                  "startUid": "u3707",
+                  "endUid": "u3731"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attempts Green Flame Blade but misses, producing no damage.",
+              "evidence": [
+                {
+                  "startUid": "u3734",
+                  "endUid": "u3737"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf fighting the ladder",
+              "kind": "turn",
+              "summary": "Both attacks hit the ladder for 15 damage. It is wounded but still functioning.",
+              "evidence": [
+                {
+                  "startUid": "u3738",
+                  "endUid": "u3744"
+                }
+              ]
+            },
+            {
+              "actor": "Almost-dead werewolf",
+              "kind": "turn",
+              "summary": "Attacks Delwath: bite 17 misses, claw 22 hits for 9 damage. Takes 20 cold retaliation and dies; Delwath’s cold protection remains with 10 temporary hit points.",
+              "evidence": [
+                {
+                  "startUid": "u3745",
+                  "endUid": "u3755"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks a remaining werewolf; the first attack misses and the second hits, leaving it almost dead.",
+              "evidence": [
+                {
+                  "startUid": "u3758",
+                  "endUid": "u3765"
+                }
+              ]
+            },
+            {
+              "actor": "Werewolf stepping toward Kenzo",
+              "kind": "turn",
+              "summary": "Bites Kenzo on a 19 for 3 damage, requiring another secret Constitution save. Claws roll 11 and miss.",
+              "evidence": [
+                {
+                  "startUid": "u3766",
+                  "endUid": "u3770"
+                }
+              ]
+            },
+            {
+              "actor": "Other remaining werewolf",
+              "kind": "turn",
+              "summary": "Bites at Delwath and claws at Kenzo; both rolls are natural 1s and miss.",
+              "evidence": [
+                {
+                  "startUid": "u3772",
+                  "endUid": "u3777"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Returns to the bow, takes Steady Aim, and shoots a werewolf off the table, killing it; 16 is spoken as it falls and reverts to human form.",
+              "evidence": [
+                {
+                  "startUid": "u3779",
+                  "endUid": "u3786"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Mocks the remaining wolf from the stair landing; its Wisdom save of 15 succeeds, so the spell has no effect.",
+              "evidence": [
+                {
+                  "startUid": "u3787",
+                  "endUid": "u3799"
+                }
+              ]
+            },
+            {
+              "actor": "Flying rope ladder",
+              "kind": "turn",
+              "summary": "Takes its current attack plus the previously omitted attack awarded by the DM. The proposed grapple is converted into a pummel, followed by another pummel; the target is left almost dead.",
+              "evidence": [
+                {
+                  "startUid": "u3780",
+                  "endUid": "u3781"
+                },
+                {
+                  "startUid": "u3800",
+                  "endUid": "u3821"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the remaining target for 8 damage; it survives.",
+              "evidence": [
+                {
+                  "startUid": "u3822",
+                  "endUid": "u3839"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining werewolf",
+              "kind": "turn",
+              "summary": "Claws the ladder for 4 damage; the table reports 14 hit points remaining for it.",
+              "evidence": [
+                {
+                  "startUid": "u3846",
+                  "endUid": "u3848"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Fights beside the flying ladder and lands an attack narrated as lethal. A proposed additional enemy turn is explicitly withdrawn as already taken.",
+              "evidence": [
+                {
+                  "startUid": "u3849",
+                  "endUid": "u3861"
+                }
+              ],
+              "note": "The subsequent source still resolves further party actions against a surviving werewolf; this lethal narration is retained without inventing an extra enemy."
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and shoots; no numeric roll or damage is stated before the final ladder blow.",
+              "evidence": [
+                {
+                  "startUid": "u3862",
+                  "endUid": "u3865"
+                }
+              ]
+            },
+            {
+              "actor": "Flying rope ladder",
+              "kind": "turn",
+              "summary": "Flies up, spins, and whips through the final werewolf on a 20, receiving the killing blow.",
+              "evidence": [
+                {
+                  "startUid": "u3866",
+                  "endUid": "u3877"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The leader and his four reinforcements are dead; the ladder survives. The leader’s watery escape was stopped by the thunder rune, and the remaining wolves fought on after his death. Secret bite-save outcomes remain unrevealed.",
+        "evidence": [
+          {
+            "startUid": "u3866",
+            "endUid": "u3877"
+          }
+        ]
+      }
+    }
+  ]
+}
