@@ -102,7 +102,9 @@ action, or the substantive subject of discussion/description. This is a local
 selection rule, not a requirement for an existing `importance: star` rating. A
 minor session entity can be the focus of one sentence; an absent entity can be the
 focus of a discussion. Presence, a name drop, or a name embedded in a place label
-alone is insufficient.
+alone is insufficient. Map inclusion does not require an extracted interaction.
+Routine combat participation alone does not qualify as a substantive interaction;
+apply the [combat rules](#combat-minimal-encounter-records-meaningful-exchanges).
 
 - Start with the core exchange: what the focal entity says, does, reveals, undergoes, or
   is substantively described as, plus the other participants' relevant responses.
@@ -127,6 +129,7 @@ alone is insufficient.
   to its narrative. Do not remove those stretches merely because the focal entity
   is not the grammatical subject of every line. Cut table interruptions around
   the account; retain its development, transitions, and natural endpoint.
+  This does not require preserving a played battle's sequence of attacks.
 - Retain revealing gestures as well as major actions. Speech, action, and description
   do not need separate mandatory categories.
 - For explicitly selected co-focal entities, one shared passage may serve both. Otherwise
@@ -172,6 +175,9 @@ Classify each entity's involvement relative to the party:
 - `mentioned`: discussed or described without establishing participation in the
   current encounter. An absent entity can be the star of a discussion.
 
+These action labels classify retained material; they do not make routine fighting
+eligible for its own interaction.
+
 Use the most substantive supported involvement within the exchange, rather than
 separate entries for seeing and then speaking to the same entity. Recaps, reported
 history, speculation, prayer, and attributed divine intervention alone are mentions;
@@ -181,6 +187,44 @@ text itself. `seen` is not a separate action value.
 
 ## Snip irrelevant material; never rewrite
 
+### Combat: minimal encounter records, meaningful exchanges
+
+For combat without substantive in-world conversation, retain a very short source
+excerpt establishing the encounter and its outcome or lasting consequence. Default
+to one brief record for the continuous encounter, with the intervening combat cut;
+do not split it into records for attacks, abilities, or rounds. Retain only enough
+original description to identify the encounter and understand the result. Do not
+invent an outcome for an unfinished fight. This tighter depth applies at every
+session importance tier, including a star or the main enemy in a climactic battle.
+
+Remove all combat mechanics: rolls, damage, saves, AC, initiative, action economy,
+movement measurements, resource accounting, rules explanations, and tactical
+discussion. Cut the sequence of attacks and routine maneuvers, including narrated
+hits, misses, and ability effects. A vivid description or unusual power does not
+by itself warrant retention. Keep a meaningful fictional consequence in original
+wording while cutting the mechanics that resolved it; a choice or consequence is
+not a reason to restore those mechanics.
+
+Preserve substantive conversation during combat, including demands, revelations,
+negotiation, surrender, and relevant responses, with only the battle context needed
+to understand it. Tactical table talk is not such a conversation, and a brief taunt
+does not justify retaining the surrounding fight. Independently meaningful character
+actions can also merit extraction without dialogue: a refusal, unexpected decision,
+meaningful rescue, sacrifice, or consequential loss. Routine combat assistance does
+not qualify merely because it helped the party win.
+
+Do not create standalone interactions for companions merely attacking, moving,
+following combat commands, or using their ordinary abilities. A mapped companion
+may have no qualifying interaction in the session. Include one in a retained
+encounter's entities only when its retained involvement warrants it; do not keep
+extra combat text to ensure a companion is represented.
+
+Preserve substantive lore discoveries and character responses in the aftermath at
+their appropriate depth. Proximity to a fight does not make them combat bookkeeping.
+Keep these distinct exchanges separate from the brief combat record. Use original
+text and marked cuts throughout, not a generated battle summary or a cut label
+standing in for the encounter's meaningful outcome.
+
 ### Items: brief use or acquisition, complete original lore
 
 For items, default to a much tighter passage than for a character: the minimum
@@ -188,7 +232,8 @@ original wording needed to understand how the item was used or acquired, by whom
 and the relevant result or limitation. Apply the same economy to transfers,
 discoveries, losses, and destruction. A higher importance tier does not by itself
 justify keeping the surrounding encounter, equipment discussion, repeated rules,
-or hypothetical uses. Preserve only mechanics needed to understand this action.
+or hypothetical uses. Outside combat, preserve only mechanics needed to understand
+this action; combat uses follow the tighter rules above.
 
 The exception is original in-world history or lore invented for the setting:
 usually extract that account fully, with its continuous narration, transitions,
@@ -222,8 +267,10 @@ For each retained stretch, ask: does this show the focal interaction, or is it
 part of its coherent narration, or indispensable to understanding it? If none,
 cut it. Preparation that merely
 enables reaching the focal entity is usually dispensable. For each cut, ask: did this
-remove the focal entity's speech, action, response, or a necessary counterpart? If so,
-restore the original words. A passage dominated by setup while the focal entity's actual
+remove substantive dialogue, an independently meaningful action or response, or a
+necessary counterpart? If so, restore the original words. Do not restore routine
+combat actions or mechanics merely because they belong to the focal entity.
+A passage dominated by setup while the focal entity's actual
 interaction is missing or reduced to a cut label fails even if every word is exact.
 
 Mark every internal omission with `((short description))`. Inline and whole-turn
@@ -234,10 +281,9 @@ irrelevant.
 
 Usually snip dice arithmetic, initiative, interface issues, unrelated banter,
 redundant planning, repeated explanations, other entities' unrelated business,
-and verbal scaffolding that adds nothing. Keep mechanics that explain a meaningful
-property, limitation, uncertainty, choice, action, or consequence. In combat retain
-the entity's distinctive actions, threats, responses, attempted escape, defeat,
-and aftermath; cut routine attacks and bookkeeping.
+and verbal scaffolding that adds nothing. Outside combat, keep mechanics only when
+needed to explain a meaningful property, limitation, uncertainty, choice, action,
+or consequence. For combat, apply the tighter rules above.
 
 Cut labels are the only generated connective text inside an excerpt. They describe
 omitted material briefly, e.g. `((Spell mechanics))`. An omitted action/outcome may
@@ -319,6 +365,9 @@ Make a distinct second pass over each selected original range and its neighbors:
 1. Check the declared focal entities, mapped importance, and completeness: minimal necessary setup,
    substantial exchange, relevant responses, and the actual endpoint. Would a
    reader learn mostly about preparations or supporting entities? If so, refocus.
+   For combat, check that routine companion participation has not become a standalone
+   interaction, mechanics and attack sequences are cut, and only a brief encounter
+   record remains unless substantive conversation or character action warrants more.
 2. Inspect every cut and retained stretch. Restore lost qualifiers, attribution,
    corrections, needed replies, or meaningful actions; cut remaining irrelevant
    material. Verify descriptions of cuts against the omitted source.
