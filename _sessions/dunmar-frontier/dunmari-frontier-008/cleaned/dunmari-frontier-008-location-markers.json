@@ -22,6 +22,19 @@
           "endUid": "u0286",
           "quote": "you're on the road, which goes up into which starts to slope up towards the towards a pass"
         }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0006",
+              "quote": "you stand looking north at the mountain wall in front of you."
+            }
+          ]
+        }
       ]
     },
     "p02": {
@@ -51,6 +64,24 @@
           "endUid": "u0386",
           "quote": "Dwarven runes indicating the number 2300."
         }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0355",
+              "endUid": "u0359",
+              "quote": "Volcanic erratics or whatever, right? So big, like sort of clearly volcanic rock about 300 feet before you get to the stream, roughly"
+            },
+            {
+              "startUid": "u0454",
+              "endUid": "u0462",
+              "quote": "path of unusual stones that seemed to be leading up into the valley"
+            }
+          ]
+        }
       ]
     },
     "p04": {
@@ -77,6 +108,27 @@
               "startUid": "u0522",
               "endUid": "u0523",
               "quote": "it's like a, it's like a gorge that runs into the side, like um into the mountain, basically."
+            }
+          ]
+        },
+        {
+          "relation": "approach_to",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1171",
+              "endUid": "u1171",
+              "quote": "or of the dwarven outpost, I mean."
+            },
+            {
+              "startUid": "u0266",
+              "endUid": "u0268",
+              "quote": "the dwarven outpost is at the top left of the map"
+            },
+            {
+              "startUid": "u0469",
+              "endUid": "u0481",
+              "quote": "Instead of a number, it says 'enter.'"
             }
           ]
         }
@@ -107,6 +159,17 @@
               "startUid": "u0601",
               "endUid": "u0612",
               "quote": "the stream now continues in this four-foot tunnel heading into the mountain."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0601",
+              "endUid": "u0612",
+              "quote": "The horses can go no further, and the stream now continues in this four-foot tunnel heading into the mountain."
             }
           ]
         }
@@ -165,6 +228,22 @@
               "startUid": "u1086",
               "endUid": "u1094",
               "quote": "continues on into the mountains"
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1271",
+              "endUid": "u1273",
+              "quote": "there's a ladder that sort of slides down"
+            },
+            {
+              "startUid": "u1281",
+              "endUid": "u1287",
+              "quote": "you can see a large pile of rubble blocking the passage ahead."
             }
           ]
         }

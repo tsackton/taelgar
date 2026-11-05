@@ -9,10 +9,10 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-transcript.md",
     "sha256": "0a013a58f656787bc8b9f993bf0099af11ac389cb8bbb4dccccb44791d15de87"
   },
-  "dateAssessment": "No absolute date is spoken. The three narrated day transitions match April 4–7, 1748 only conditional on the YAML opening date; the final departure is explicitly at first light.",
+  "dateAssessment": "YAML dates the session to April 4–7, 1748. Three narrated day changes place the first-light departure on April 7.",
   "watches": [
     {
-      "day": "1748-04-04",
+      "day": "April 4, 1748",
       "startDate": "1748-04-04",
       "endDate": "1748-04-04",
       "startWatch": "afternoon",
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "day": "1748-04-04",
+      "day": "April 4, 1748",
       "startDate": "1748-04-04",
       "endDate": "1748-04-04",
       "startWatch": "dusk",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "day": "1748-04-05",
+      "day": "April 5, 1748",
       "startDate": "1748-04-05",
       "endDate": "1748-04-05",
       "startWatch": "morning",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "day": "1748-04-06",
+      "day": "April 6, 1748",
       "startDate": "1748-04-06",
       "endDate": "1748-04-06",
       "startWatch": "morning",
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "day": "1748-04-06",
+      "day": "April 6, 1748",
       "startDate": "1748-04-06",
       "endDate": "1748-04-06",
       "startWatch": "afternoon",
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "day": "1748-04-06",
+      "day": "April 6, 1748",
       "startDate": "1748-04-06",
       "endDate": "1748-04-06",
       "startWatch": "dusk",
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "day": "1748-04-07",
+      "day": "April 7, 1748",
       "startDate": "1748-04-07",
       "endDate": "1748-04-07",
       "startWatch": "dawn",

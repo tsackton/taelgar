@@ -6,16 +6,16 @@
 
 ## In-world time
 
-The transcript establishes morning, one completed overnight, and the next moonlit evening; March 22–23, 1748 is YAML-only, while the opening tentatively says “maybe mid-April”.
+YAML dates this journey to March 22–23, 1748. The roadside overnight supports that span. The DM tentatively suggests mid-April while describing the opening weather.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
-| Day 1 (March 22, YAML) | Morning | mixed | Morning opening; twenty minutes since arrival, then Delwath’s hour-long rest including earlier refreshments. | t01–t07 |
-| Day 1 (March 22, YAML) | Morning → afternoon | mixed | Three–four hours across scrub, a brief ritual, then roughly one hour in rocky terrain. | t08–t10 |
-| Day 1 (March 22, YAML) | Afternoon | stated | Lookout corrected to early afternoon; after scanning, the Alesh meeting is about 4 p.m. | t11–t13 |
-| Day 1 → Day 2 (March 22–23, YAML) | Open → dawn | mixed | Eight-hour roadside long rest ends before dawn next day; starting watch is unstated. | t14 |
-| Day 2 (March 23, YAML) | Dawn | inferred | Party rises before dawn and resumes the march after the completed overnight. | t15 |
-| Day 2 (March 23, YAML) | Dawn → dusk | mixed | Predawn departure and a long hot day lead to Gomat’s approach in moonlit evening. | t16 |
+| March 22, 1748 | Morning | mixed | Morning opening; twenty minutes since arrival, then Delwath’s hour-long rest including earlier refreshments. | t01–t07 |
+| March 22, 1748 | Morning → afternoon | mixed | Three–four hours across scrub, a brief ritual, then roughly one hour in rocky terrain. | t08–t10 |
+| March 22, 1748 | Afternoon | stated | Lookout corrected to early afternoon; after scanning, the Alesh meeting is about 4 p.m. | t11–t13 |
+| March 22–23, 1748 | Dusk → dawn | mixed | Eight hours back from the predawn departure puts the start of the roadside long rest at dusk. | t14 |
+| March 23, 1748 | Dawn | inferred | Party rises before dawn and resumes the march after the completed overnight. | t15 |
+| March 23, 1748 | Dawn → dusk | mixed | Predawn departure and a long hot day lead to Gomat’s approach in moonlit evening. | t16 |
 
 ## Locations
 
@@ -23,19 +23,19 @@ The transcript establishes morning, one completed overnight, and the next moonli
 | --- | --- | --- | --- |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Northeastern village edge | Kenzo, Delwath, Seeker, Wellby | l01, l03–l04, l06 |  |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Teahouse and front awning | Party | l07 | Teahouse and front awning: Initial seating is explicitly under the awning; later speech describes the same meeting as inside the teahouse. The shared site is retained without inventing an interior transition. |
-| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Temple exterior | Seeker | l08 | Temple exterior: Seeker explicitly says he did not go inside the temple. |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Temple of Shakun](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Temple%20of%20Shakun.md) — Temple exterior | Seeker | l08 | Temple exterior: Seeker explicitly says he did not go inside the temple. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Caravanserai](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Ikram%27s.md) | Kenzo | l09 | Caravanserai: The Ikram's note identifies the establishment; its later rebuilt building is not imported into this session. |
 | Rocky canyon lands | Party | l11 |  |
 | Rocky canyon lands › Box canyon | Party | l12 |  |
 | Rocky canyon lands › High canyon wall and lookout hill | Wellby | l13 |  |
-| Old trade road — meeting with Alesh | Party | l15 |  |
-| Sheltered roadside camp | Party | l17 |  |
+| [Stoneway](../../../../Gazetteer/Greater%20Dunmar/Roads/Stoneway.md) | Party | l15 | Old trade road — meeting with Alesh: The eastbound paved trade road to Gomat follows the Stoneway. The party meets Alesh on this stretch. |
+| [Stoneway](../../../../Gazetteer/Greater%20Dunmar/Roads/Stoneway.md) — Sheltered roadside camp | Party | l17 |  |
 | Approach to [Gomat Oasis](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Gomat.md) | Party | l16 |  |
 
 | Observed location | Observer | From | Markers | Context |
 | --- | --- | --- | --- | --- |
-| [Red sandstone mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) | Seeker (magical sensing) | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Temple exterior | l10 | Temple exterior: Seeker explicitly says he did not go inside the temple. |
-| [Distant eastern canyon](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Daraar%20Canyon.md) · [Red sandstone mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) | Wellby | Rocky canyon lands › High canyon wall and lookout hill | l14 | Distant eastern canyon: The Gomat note identifies the canyon east of the oasis as Daraar Canyon. The session does not name it or establish its origin; no visit is recorded. |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — [Red Mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) | Seeker (magical sensing) | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Temple of Shakun](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Temple%20of%20Shakun.md) — Temple exterior | l10 | Temple exterior: Seeker explicitly says he did not go inside the temple. |
+| [Daraar Canyon](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Daraar%20Canyon.md) · [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — [Red Mesa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Red%20Mesa.md) | Wellby | Rocky canyon lands › High canyon wall and lookout hill | l14 | Distant eastern canyon: The Gomat note identifies the canyon east of the oasis as Daraar Canyon. The session does not name it or establish its origin; no visit is recorded. |
 | [Gomat Oasis](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Gomat.md) | Party | — | l18 |  |
 
 ## Entities
@@ -79,4 +79,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:49** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-001-transcript.md) · [Time Markers](dunmari-frontier-001-time-markers.json) · [Location Markers](dunmari-frontier-001-location-markers.json) · [Entity Map](dunmari-frontier-001-entity-map.json) · [Interactions](dunmari-frontier-001-interactions.json) · [Combat](dunmari-frontier-001-combat.json) · [Segments](dunmari-frontier-001-segments.json) · [Watch data](time-watches.json)
+Sources · [Transcript](dunmari-frontier-001-transcript.md) · [Time Markers](dunmari-frontier-001-time-markers.json) · [Location Markers](dunmari-frontier-001-location-markers.json) · [Entity Map](dunmari-frontier-001-entity-map.json) · [Interactions](dunmari-frontier-001-interactions.json) · [Combat](dunmari-frontier-001-combat.json) · [Segments](dunmari-frontier-001-segments.json) · [Watch data](dunmari-frontier-001-time-watches.json)

@@ -6,37 +6,37 @@
 
 ## In-world time
 
-No absolute date is spoken. The three narrated day transitions match April 4–7, 1748 only conditional on the YAML opening date; the final departure is explicitly at first light.
+YAML dates the session to April 4–7, 1748. Three narrated day changes place the first-light departure on April 7.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
-| 1748-04-04 | Afternoon | stated | Opening clarified to early afternoon; separate errands occupy most of that afternoon. | t01–t02 |
-| 1748-04-04 | Dusk | inferred | Alesh meets the party that evening before leaving before dark. | t03 |
-| 1748-04-05 | Morning → dusk | mixed | Seeker’s next-day fortification and one-hour cleanup lead into the first evening ceremony. | t04–t06 |
-| 1748-04-06 | Morning | stated | After overnight rest, the party rises for the morning procession. | t07 |
-| 1748-04-06 | Afternoon | mixed | Late-afternoon shrine blessing is interrupted; the captive is bound within roughly thirty seconds of combat ending. | t08–t09 |
-| 1748-04-06 | Dusk | mixed | Evacuation preparations follow the fight; the DM confirms evening with the sun setting. | t10–t11 |
-| 1748-04-07 | Dawn | inferred | The party wakes at first light, then follows the tracks north. | t12 |
+| April 4, 1748 | Afternoon | stated | Opening clarified to early afternoon; separate errands occupy most of that afternoon. | t01–t02 |
+| April 4, 1748 | Dusk | inferred | Alesh meets the party that evening before leaving before dark. | t03 |
+| April 5, 1748 | Morning → dusk | mixed | Seeker’s next-day fortification and one-hour cleanup lead into the first evening ceremony. | t04–t06 |
+| April 6, 1748 | Morning | stated | After overnight rest, the party rises for the morning procession. | t07 |
+| April 6, 1748 | Afternoon | mixed | Late-afternoon shrine blessing is interrupted; the captive is bound within roughly thirty seconds of combat ending. | t08–t09 |
+| April 6, 1748 | Dusk | mixed | Evacuation preparations follow the fight; the DM confirms evening with the sun setting. | t10–t11 |
+| April 7, 1748 | Dawn | inferred | The party wakes at first light, then follows the tracks north. | t12 |
 
 ## Locations
 
 | Location | Present | Markers | Context |
 | --- | --- | --- | --- |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) | Party | l01, l08 |  |
-| Halfling encampment outside Karawa’s market | Wellby | l02 |  |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — Halfling encampment outside the market | Wellby | l02 |  |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Ikram's Caravanserai](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Ikram%27s.md) | Seeker | l04, l10 |  |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Temple of Shakun](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Temple%20of%20Shakun.md) | Seeker | l05, l09 | Temple of Shakun: Markers establish the exterior, stonework and fortifications; they do not imply entry into restricted chambers. |
 | Approach to [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Temple of Shakun](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Temple%20of%20Shakun.md) | Kenzo | l06 | Temple of Shakun: Markers establish the exterior, stonework and fortifications; they do not imply entry into restricted chambers. |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Market | Delwath | l07 |  |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › [Ikram's Caravanserai](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Ikram%27s.md) | Party | l11 |  |
-| Jeevali's festival grounds near Karawa | Party | l12–l13 |  |
-| Western outskirts of Karawa’s northern camp | Party | l14–l15 |  |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — Jeevali’s festival grounds | Party | l12–l13 |  |
+| [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — Western outskirts of the northern camp | Party | l14–l15 |  |
 | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) › Oasis | Kenzo | l16 |  |
 | Approach to [Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) | Party | l17 |  |
 
 | Observed location | Observer | From | Markers |
 | --- | --- | --- | --- |
-| [Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) | Wellby (Ander’s memories) | Halfling encampment outside Karawa’s market | l03 |
+| [Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) | Wellby (Ander’s memories) | [Karawa](../../../../Gazetteer/Greater%20Dunmar/Realms/Dunmar/Eastern%20Dunmar/Karawa.md) — Halfling encampment outside the market | l03 |
 
 ## Entities
 
@@ -93,4 +93,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:09** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-006-transcript.md) · [Time Markers](dunmari-frontier-006-time-markers.json) · [Location Markers](dunmari-frontier-006-location-markers.json) · [Entity Map](dunmari-frontier-006-entity-map.json) · [Interactions](dunmari-frontier-006-interactions.json) · [Combat](dunmari-frontier-006-combat.json) · [Segments](dunmari-frontier-006-segments.json) · [Watch data](time-watches.json)
+Sources · [Transcript](dunmari-frontier-006-transcript.md) · [Time Markers](dunmari-frontier-006-time-markers.json) · [Location Markers](dunmari-frontier-006-location-markers.json) · [Entity Map](dunmari-frontier-006-entity-map.json) · [Interactions](dunmari-frontier-006-interactions.json) · [Combat](dunmari-frontier-006-combat.json) · [Segments](dunmari-frontier-006-segments.json) · [Watch data](dunmari-frontier-006-time-watches.json)

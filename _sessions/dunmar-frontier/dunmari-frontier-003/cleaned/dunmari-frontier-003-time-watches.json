@@ -9,10 +9,10 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-transcript.md",
     "sha256": "c6e8fb5c63ec990d83449cfec74d9ff78da0f4d6aea0445b9d03db50892aef85"
   },
-  "dateAssessment": "No absolute date is spoken; YAML supplies March 25–26, 1748, and the completed rest followed by the next sunrise supports that one-day boundary conditional on the YAML start.",
+  "dateAssessment": "The campaign calendar opens on March 25, 1748. The party rests overnight and wakes at sunrise on March 26, matching the YAML span.",
   "watches": [
     {
-      "day": "March 25, 1748 (YAML)",
+      "day": "March 25, 1748",
       "startWatch": "morning",
       "endWatch": "midday",
       "basis": "mixed",
@@ -24,7 +24,7 @@
       "endDate": "1748-03-25"
     },
     {
-      "day": "March 25, 1748 (YAML)",
+      "day": "March 25, 1748",
       "startWatch": "midday",
       "endWatch": "afternoon",
       "basis": "mixed",
@@ -41,11 +41,11 @@
       "endDate": "1748-03-25"
     },
     {
-      "day": "March 25 → 26, 1748 (YAML)",
-      "startWatch": null,
+      "day": "March 25–26, 1748",
+      "startWatch": "dusk",
       "endWatch": "dawn",
       "basis": "mixed",
-      "summary": "Rest starts at an unstated hour; eight-hour convention and waking at the next sunrise establish one overnight boundary.",
+      "summary": "Eight hours back from waking at sunrise puts the start of the temple long rest at dusk.",
       "markers": [
         "t08"
       ],

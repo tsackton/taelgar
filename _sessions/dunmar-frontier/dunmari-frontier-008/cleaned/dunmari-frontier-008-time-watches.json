@@ -9,16 +9,16 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-transcript.md",
     "sha256": "9a7ad28d52b1fa88043c203b09deeec09134eef003b5cb692208a40f695288e7"
   },
-  "dateAssessment": "April is spoken; the day and DR year in 1748-04-12 are YAML-only. The spoken “211 after the Great War” is retained without an inferred calendar conversion.",
+  "dateAssessment": "The transcript names April and the year 211 after the Great War. YAML supplies April 12, 1748, and the campaign timeline places the roper fight that afternoon.",
   "watches": [
     {
-      "day": "1748-04-12 (YAML date)",
+      "day": "April 12, 1748",
       "startWatch": "midday",
-      "endWatch": null,
+      "endWatch": "afternoon",
       "startDate": "1748-04-12",
       "endDate": "1748-04-12",
       "basis": "mixed",
-      "summary": "Party leaves about 10:00, enters at noon, then climbs 30–40 minutes; later searches leave the closing watch open.",
+      "summary": "Leave around ten, enter the gorge at noon, and finish at the roper fight, dated early afternoon in the campaign timeline.",
       "markers": [
         "t01",
         "t02",
@@ -31,6 +31,13 @@
         "t09",
         "t10"
       ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 8 campaign timeline",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md",
+      "sha256": "d69058678a564028f431010fe0f385b510b1e5eadcdbd1412507c155e6171fec"
     }
   ]
 }

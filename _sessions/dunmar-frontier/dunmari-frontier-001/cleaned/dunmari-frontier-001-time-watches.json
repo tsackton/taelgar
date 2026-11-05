@@ -9,10 +9,10 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-transcript.md",
     "sha256": "b8309f0157d02801b49c283853d385097f54a2b7f8852c4794e8a573b623c8a4"
   },
-  "dateAssessment": "The transcript establishes morning, one completed overnight, and the next moonlit evening; March 22–23, 1748 is YAML-only, while the opening tentatively says “maybe mid-April”.",
+  "dateAssessment": "YAML dates this journey to March 22–23, 1748. The roadside overnight supports that span. The DM tentatively suggests mid-April while describing the opening weather.",
   "watches": [
     {
-      "day": "Day 1 (March 22, YAML)",
+      "day": "March 22, 1748",
       "startWatch": "morning",
       "endWatch": "morning",
       "basis": "mixed",
@@ -30,7 +30,7 @@
       "endDate": "1748-03-22"
     },
     {
-      "day": "Day 1 (March 22, YAML)",
+      "day": "March 22, 1748",
       "startWatch": "morning",
       "endWatch": "afternoon",
       "basis": "mixed",
@@ -50,7 +50,7 @@
       "endDate": "1748-03-22"
     },
     {
-      "day": "Day 1 (March 22, YAML)",
+      "day": "March 22, 1748",
       "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "stated",
@@ -64,11 +64,11 @@
       "endDate": "1748-03-22"
     },
     {
-      "day": "Day 1 → Day 2 (March 22–23, YAML)",
-      "startWatch": null,
+      "day": "March 22–23, 1748",
+      "startWatch": "dusk",
       "endWatch": "dawn",
       "basis": "mixed",
-      "summary": "Eight-hour roadside long rest ends before dawn next day; starting watch is unstated.",
+      "summary": "Eight hours back from the predawn departure puts the start of the roadside long rest at dusk.",
       "markers": [
         "t14"
       ],
@@ -76,7 +76,7 @@
       "endDate": "1748-03-23"
     },
     {
-      "day": "Day 2 (March 23, YAML)",
+      "day": "March 23, 1748",
       "startWatch": "dawn",
       "endWatch": "dawn",
       "basis": "inferred",
@@ -88,7 +88,7 @@
       "endDate": "1748-03-23"
     },
     {
-      "day": "Day 2 (March 23, YAML)",
+      "day": "March 23, 1748",
       "startWatch": "dawn",
       "endWatch": "dusk",
       "basis": "mixed",

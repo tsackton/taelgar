@@ -7,12 +7,12 @@
 
 ## In-world time
 
-April 12, 1748 comes only from YAML; continuous same-day exploration matches that span conditionally, with mid-afternoon explicitly stated after the short rest.
+YAML gives April 12, 1748. Play resumes moments after DF08’s roper fight, placed in early afternoon by its campaign timeline, and the DM confirms midafternoon after the short rest.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
-| April 12, 1748 (YAML) | Open → afternoon | mixed | Opening clock unknown; half-hour investigation and one-hour rest precede Wellby’s explicit mid-afternoon lookout. | t01–t09 |
-| April 12, 1748 (YAML) | Afternoon | inferred | **Delwath scouting** · After the afternoon anchor, Delwath scouts at least five minutes, then pauses one minute. | t10–t11 |
+| April 12, 1748 | Afternoon | mixed | DF08’s early-afternoon roper fight has just ended. A half-hour investigation and an hour’s rest lead to the stated midafternoon lookout. | t01–t09 |
+| April 12, 1748 | Afternoon | inferred | **Delwath scouting** · After the afternoon anchor, Delwath scouts at least five minutes, then pauses one minute. | t10–t11 |
 
 ## Locations
 
@@ -26,7 +26,7 @@ April 12, 1748 comes only from YAML; continuous same-day exploration matches tha
 | Valley of Raven's Hold › [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Outer vault | Party | l13 |
 | Valley of Raven's Hold › [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Outer vault | Kenzo | l17 |
 | Valley of Raven's Hold › [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Ruined inner vault | Seeker | l15 |
-| Mineshaft lip | Delwath | l18 |
+| [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) — Mineshaft lip | Delwath | l18 |
 | Valley of Raven's Hold › [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Locked eastern tunnel gate | Party | l22 |
 
 | Observed location | Observer | From | Markers |
@@ -34,8 +34,8 @@ April 12, 1748 comes only from YAML; continuous same-day exploration matches tha
 | Valley of Raven's Hold | Wellby | Valley of Raven's Hold › [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Main entrance hall | l07 |
 | Valley of Raven's Hold › [Raven's Hold stronghold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) | Wellby | Valley of Raven's Hold › [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Main entrance hall | l08 |
 | Valley of Raven's Hold › [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Ruined inner vault | Riswynn, Seeker, Delwath | Valley of Raven's Hold › [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Outer vault | l14 |
-| Westward fissure tunnel | Seeker | Valley of Raven's Hold › [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Ruined inner vault | l16 |
-| Vertical mineshaft | Delwath | Mineshaft lip | l19 |
+| [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) — Westward fissure tunnel | Seeker | Valley of Raven's Hold › [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Ruined inner vault | l16 |
+| [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) — Vertical mineshaft | Delwath | [Dwarven outpost at Raven's Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) — Mineshaft lip | l19 |
 
 ## Entities
 
@@ -70,4 +70,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:18** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-009-transcript.md) · [Time Markers](dunmari-frontier-009-time-markers.json) · [Location Markers](dunmari-frontier-009-location-markers.json) · [Entity Map](dunmari-frontier-009-entity-map.json) · [Interactions](dunmari-frontier-009-interactions.json) · [Combat](dunmari-frontier-009-combat.json) · [Segments](dunmari-frontier-009-segments.json) · [Watch data](time-watches.json)
+Sources · [Transcript](dunmari-frontier-009-transcript.md) · [Time Markers](dunmari-frontier-009-time-markers.json) · [Location Markers](dunmari-frontier-009-location-markers.json) · [Entity Map](dunmari-frontier-009-entity-map.json) · [Interactions](dunmari-frontier-009-interactions.json) · [Combat](dunmari-frontier-009-combat.json) · [Segments](dunmari-frontier-009-segments.json) · [Watch data](dunmari-frontier-009-time-watches.json) · [Session 8 campaign timeline](../../../../Campaigns/Dunmari%20Frontier%20Campaign/Session%20Notes/Session%208%20%28DuFr%29.md)

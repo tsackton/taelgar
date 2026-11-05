@@ -330,7 +330,9 @@
           "endUid": "u2947",
           "quote": "Yeah, just follow the road east. You're now... I mean, you're on this ancient, this sort of old trade road where you can see occasionally, like, um, it's mostly just a track kind of kicked up through the, you know, s- through the sand, but every now and then there's, like, a paving stone or a, um, you know, kind of a, a little bit of ancient history suggesting that it's, um, uh, you know, uh... Uh, you can sort of, you can sense, you can sort of see the history of the road."
         }
-      ]
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Roads/Stoneway.md",
+      "note": "The eastbound paved trade road to Gomat follows the Stoneway. The party meets Alesh on this stretch."
     },
     "p14": {
       "label": "Sheltered roadside camp",

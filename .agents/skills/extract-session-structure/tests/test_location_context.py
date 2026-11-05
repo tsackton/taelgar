@@ -31,7 +31,7 @@ class LocationContextTest(unittest.TestCase):
         self.edit = dict(flags=[], dates='', watches=[], locations=[
             dict(kind='presence', places=['room'], actors=['party'], markers=['l01'])],
             entities=[], combats=[])
-        self.bundle = dict(data=dict(campaign='Context fixture', sessionNumber=2),
+        self.bundle = dict(manifest=Path('fixture-002-session.yaml'), data=dict(campaign='Context fixture', sessionNumber=2),
                            source=self.root / 'transcript.md')
 
     def render(self):
@@ -79,6 +79,21 @@ class LocationContextTest(unittest.TestCase):
         self.assertIn('Vault-only orientation: modern Gazetteer/Manor.md', result)
         self.assertNotIn('Western Cymea ›', result)
         self.assertIn('| Context |', result)
+
+    def test_selected_market_locality_applies_to_an_observer_and_nested_places(self):
+        self.parent(linked=True)
+        self.places['market'] = dict(label='Market', relations=[within('manor')])
+        self.places['camp'] = dict(label='Camp', relations=[dict(within('market'), relation='near')])
+        self.places['wagon'] = dict(label='Wagon', relations=[within('camp')])
+        self.markers[0].update(type='observation', observerPlace='wagon', mode='remote')
+        self.edit['locations'][0].update(kind='observation', **{'from': 'wagon'})
+        self.edit['settingPaths'] = {'camp': ['market', 'manor']}
+        result = self.render()
+        self.assertIn('Perdoli%20Manor.md) — Camp › Wagon | l01', result)
+        self.assertNotIn('| Location | Present |', result)
+        self.edit['settingPaths'] = {'camp': ['manor']}
+        with self.assertRaisesRegex(ValueError, 'evidenced place relation'):
+            self.render()
 
     def test_two_supported_parents_are_not_silently_chosen_between(self):
         self.parent()
@@ -149,7 +164,7 @@ class IndividualEntityTest(unittest.TestCase):
             dict(ids=['e01'], summary='Found inside the altar.'),
             dict(ids=['e02'], summary='Read for clues to the pirate hideout.')])
         review.check_rows(self.edit, self.sources, {})
-        bundle = dict(data=dict(campaign='Entity fixture', sessionNumber=2), source=Path('/fixture/transcript.md'))
+        bundle = dict(manifest=Path('fixture-002-session.yaml'), data=dict(campaign='Entity fixture', sessionNumber=2), source=Path('/fixture/transcript.md'))
         paths = {key: Path('/fixture') / f'{key}.json' for key in review.VERSIONS}
         result = review.render(bundle, paths, self.sources, self.edit, Path('/fixture'), dict(recording=None, notes=[]))
         self.assertIn('| Silver locket | supporting | Found inside the altar. | e01 |', result)
@@ -177,7 +192,7 @@ class IndividualEntityTest(unittest.TestCase):
             dict(ids=['e03'], summary='Bargains for the locket.'),
             dict(ids=['e01'], summary='Found inside the altar.')])
         review.check_rows(self.edit, self.sources, {})
-        bundle = dict(data=dict(campaign='Entity fixture', sessionNumber=2), source=Path('/fixture/transcript.md'))
+        bundle = dict(manifest=Path('fixture-002-session.yaml'), data=dict(campaign='Entity fixture', sessionNumber=2), source=Path('/fixture/transcript.md'))
         paths = {key: Path('/fixture') / f'{key}.json' for key in review.VERSIONS}
         result = review.render(bundle, paths, self.sources, self.edit, Path('/fixture'), dict(recording=None, notes=[]))
         self.assertIn('| Entity | Importance | Role in this session | IDs |', result)

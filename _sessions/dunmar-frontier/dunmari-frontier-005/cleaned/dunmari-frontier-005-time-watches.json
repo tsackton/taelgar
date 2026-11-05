@@ -9,10 +9,10 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-transcript.md",
     "sha256": "08a0a5a8413612984912d26d89d01f66456f251a05e5358920717bc917b6a0b5"
   },
-  "dateAssessment": "No absolute date is spoken: March 30–April 4 is YAML-only; March 31 is inferred from its opening date, while montage endpoints prevent confirming the five-boundary span.",
+  "dateAssessment": "YAML gives March 30–April 4, 1748. The campaign timeline dates the gifts, staff contest, riding contest, and council. The transcript compresses the preparation days and leaves their exact overlap open.",
   "watches": [
     {
-      "day": "1748-03-30 (YAML opening date)",
+      "day": "March 30, 1748",
       "startWatch": "dawn",
       "endWatch": "dawn",
       "basis": "mixed",
@@ -28,7 +28,7 @@
       "endDate": "1748-03-30"
     },
     {
-      "day": "1748-03-30 (YAML opening date)",
+      "day": "March 30, 1748",
       "startWatch": "morning",
       "endWatch": "morning",
       "basis": "mixed",
@@ -42,7 +42,7 @@
       "endDate": "1748-03-30"
     },
     {
-      "day": "1748-03-30 (YAML opening date)",
+      "day": "March 30, 1748",
       "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "stated",
@@ -54,7 +54,7 @@
       "endDate": "1748-03-30"
     },
     {
-      "day": "1748-03-31 (relative to YAML opening)",
+      "day": "March 31, 1748",
       "startWatch": "midday",
       "endWatch": "midday",
       "basis": "inferred",
@@ -66,47 +66,57 @@
       "endDate": "1748-03-31"
     },
     {
-      "day": "Festival preparation montage; endpoints unresolved",
+      "day": "During March 30–April 2, 1748",
       "startWatch": null,
       "endWatch": null,
       "basis": "open",
-      "summary": "Three-day highlights montage; overlap with the gift breakfast and staff-contest day is unresolved.",
+      "summary": "Training and preparations take roughly three days around the gift breakfast and staff contest. Individual watches are unspecified.",
       "markers": [
         "t09"
+      ],
+      "dateWindow": [
+        "1748-03-30",
+        "1748-04-02"
       ]
     },
     {
-      "day": "Staff-contest day",
+      "day": "April 2, 1748",
       "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "inferred",
       "summary": "The party is back at Ikram’s at the end of the staff-contest day.",
       "markers": [
         "t10"
-      ]
+      ],
+      "startDate": "1748-04-02",
+      "endDate": "1748-04-02"
     },
     {
-      "day": "Riding-contest day (next day)",
+      "day": "April 3, 1748",
       "startWatch": "morning",
       "endWatch": "morning",
       "basis": "stated",
       "summary": "After sleeping, the party reaches the morning of the axebeak competition.",
       "markers": [
         "t11"
-      ]
+      ],
+      "startDate": "1748-04-03",
+      "endDate": "1748-04-03"
     },
     {
-      "day": "Riding-contest day",
+      "day": "April 3, 1748",
       "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "inferred",
       "summary": "Alesh reaches the inn late after dinner that evening.",
       "markers": [
         "t12"
-      ]
+      ],
+      "startDate": "1748-04-03",
+      "endDate": "1748-04-03"
     },
     {
-      "day": "Council day (day after riding contests)",
+      "day": "April 4, 1748",
       "startWatch": "midday",
       "endWatch": "midday",
       "basis": "mixed",
@@ -114,7 +124,16 @@
       "markers": [
         "t13",
         "t14"
-      ]
+      ],
+      "startDate": "1748-04-04",
+      "endDate": "1748-04-04"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 5 campaign timeline",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 5 (DuFr).md",
+      "sha256": "b5dd4a914eeccc83ceeae91038c9beb800bf255900de18124fef6ae235004498"
     }
   ]
 }

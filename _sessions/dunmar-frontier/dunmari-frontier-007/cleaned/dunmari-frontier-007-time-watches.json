@@ -9,10 +9,10 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-transcript.md",
     "sha256": "4b969e6a5857c19f8ab0236f3d981b5a5d03f36b90f12f78e6c2b404e58add25"
   },
-  "dateAssessment": "No calendar date is spoken. YAML gives April 7–12, 1748; four clear overnight transitions and the ambiguous post-ambush “next day” support a conditional final morning of April 11 or 12.",
+  "dateAssessment": "YAML and the campaign timeline put departure on April 7, the last full riding day on April 11, and the centaur meeting on April 12, 1748. The transcript compresses the ride after the ambush.",
   "watches": [
     {
-      "day": "Departure day — April 7 from YAML",
+      "day": "April 7, 1748",
       "startWatch": "dawn",
       "endWatch": "morning",
       "basis": "mixed",
@@ -25,7 +25,7 @@
       "endDate": "1748-04-07"
     },
     {
-      "day": "Departure day — April 7 from YAML",
+      "day": "April 7, 1748",
       "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "stated",
@@ -39,7 +39,7 @@
       "endDate": "1748-04-07"
     },
     {
-      "day": "First camp night",
+      "day": "April 7, 1748",
       "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "inferred",
@@ -52,10 +52,12 @@
           "u0493",
           "u0501"
         ]
-      ]
+      ],
+      "startDate": "1748-04-07",
+      "endDate": "1748-04-07"
     },
     {
-      "day": "Second travel day — April 8 conditionally",
+      "day": "April 8, 1748",
       "startWatch": "morning",
       "endWatch": "dusk",
       "basis": "stated",
@@ -68,29 +70,32 @@
       "endDate": "1748-04-08"
     },
     {
-      "day": "Third travel day — April 9 conditionally",
-      "startWatch": null,
+      "day": "April 9, 1748",
+      "startWatch": "morning",
       "endWatch": "afternoon",
       "basis": "mixed",
-      "summary": "Following day’s travel leads to the herders; departure from their meeting is midafternoon.",
+      "summary": "After the overnight halt, the party resumes its usual day’s ride and meets the herders before midafternoon.",
       "markers": [
         "t09",
         "t10"
       ],
-      "endDate": "1748-04-09"
+      "endDate": "1748-04-09",
+      "startDate": "1748-04-09"
     },
     {
-      "day": "Third travel day, evening",
+      "day": "April 9, 1748",
       "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "stated",
       "summary": "Setting sun accompanies the northward ride before the ambush camp.",
       "markers": [
         "t11"
-      ]
+      ],
+      "startDate": "1748-04-09",
+      "endDate": "1748-04-09"
     },
     {
-      "day": "Ambush night — next civil day",
+      "day": "April 10, 1748",
       "startWatch": "midnight",
       "endWatch": "dawn",
       "basis": "open",
@@ -100,10 +105,12 @@
         "t13",
         "t14"
       ],
-      "scope": "Conflicting clock anchors, not a measured interval"
+      "scope": "Conflicting clock anchors, not a measured interval",
+      "startDate": "1748-04-10",
+      "endDate": "1748-04-10"
     },
     {
-      "day": "Recovery morning — April 10 conditionally",
+      "day": "April 10, 1748",
       "startWatch": "morning",
       "endWatch": "morning",
       "basis": "mixed",
@@ -117,25 +124,36 @@
       "endDate": "1748-04-10"
     },
     {
-      "day": "Post-ambush riding day — April 10 or 11",
-      "startWatch": null,
+      "day": "April 11, 1748",
+      "startWatch": "morning",
       "endWatch": "dusk",
-      "basis": "open",
-      "summary": "“The next day” may advance a day or resume that morning; riding ends at sunset and camp.",
+      "basis": "inferred",
+      "summary": "A further day’s ride across the plains, dated April 11 in the campaign timeline, ends at sunset.",
       "markers": [
         "t18",
         "t19"
-      ]
+      ],
+      "startDate": "1748-04-11",
+      "endDate": "1748-04-11"
     },
     {
-      "day": "Final morning — April 11 or 12",
+      "day": "April 12, 1748",
       "startWatch": "morning",
       "endWatch": "morning",
       "basis": "stated",
       "summary": "A quiet camp night ends with the centaurs’ arrival the next morning.",
       "markers": [
         "t20"
-      ]
+      ],
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 7 campaign timeline",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 7 (DuFr).md",
+      "sha256": "088a1db32111486700470ab217a3b5019af564cfaa20408563debae52f342eb7"
     }
   ]
 }

@@ -63,6 +63,19 @@
           "endUid": "u0417",
           "quote": "From the top of the canyon"
         }
+      ],
+      "relations": [
+        {
+          "relation": "on_rim_of",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0407",
+              "endUid": "u0417",
+              "quote": "From the top of the canyon"
+            }
+          ]
+        }
       ]
     },
     "p04": {
@@ -358,6 +371,19 @@
           ]
         }
       ]
+    },
+    "p16": {
+      "label": "Canyon",
+      "kind": "canyon",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Daraar Canyon.md",
+      "evidence": [
+        {
+          "startUid": "u0407",
+          "endUid": "u0417",
+          "quote": "From the top of the canyon"
+        }
+      ],
+      "note": "The Session 4 campaign timeline names this return crossing of Daraar Canyon."
     }
   },
   "markers": [

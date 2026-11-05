@@ -7,7 +7,7 @@
 
 ## In-world time
 
-No absolute dates are spoken; March 23–25, 1748 uses the YAML opening date and two narrated overnight transitions, matching the YAML span conditionally.
+YAML dates play to March 23–25, 1748, and the transcript establishes two nights. The older campaign note places the opening and the meeting with Akan one day earlier.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
@@ -24,23 +24,23 @@ No absolute dates are spoken; March 23–25, 1748 uses the YAML opening date and
 | Location | Present | Markers | Context |
 | --- | --- | --- | --- |
 | [Gomat Oasis](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Gomat.md) › Herders’ camp | Party | l01 |  |
-| Dead peccaries beside the road | Party | l03 |  |
-| Western rim and ruined waystation | Party | l04, l07 |  |
-| [Great canyon](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Daraar%20Canyon.md) › Top of the basalt cliff | Party | l06, l08 | Great canyon: The source does not name the canyon. Gomat and Stoneway identify the eastward crossing as Daraar Canyon; no modern vault geography is imported into the marker evidence. |
-| [Great canyon](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Daraar%20Canyon.md) › Canyon floor | Party | l09 | Great canyon: The source does not name the canyon. Gomat and Stoneway identify the eastward crossing as Daraar Canyon; no modern vault geography is imported into the marker evidence. |
+| [Stoneway](../../../../Gazetteer/Greater%20Dunmar/Roads/Stoneway.md) — Dead peccaries beside the road | Party | l03 |  |
+| [Daraar Canyon](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Daraar%20Canyon.md) — Western rim and ruined waystation | Party | l04, l07 |  |
+| [Daraar Canyon](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Daraar%20Canyon.md) › Top of the basalt cliff | Party | l06, l08 | Great canyon: The source does not name the canyon. Gomat and Stoneway identify the eastward crossing as Daraar Canyon; no modern vault geography is imported into the marker evidence. |
+| [Daraar Canyon](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Daraar%20Canyon.md) › Canyon floor | Party | l09 | Great canyon: The source does not name the canyon. Gomat and Stoneway identify the eastward crossing as Daraar Canyon; no modern vault geography is imported into the marker evidence. |
 | [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › Giant scorpion and injured hyena beside the trail | Party | l12 |  |
-| [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › Excavated mound outside the fort | Party | l13 | Excavated mound outside the fort: The party remains outside the fortification during the battle and mound investigation (u3954–u3955). |
+| [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) — Excavated mound outside the fort | Party | l13 | Excavated mound outside the fort: The party remains outside the fortification during the battle and mound investigation (u3954–u3955). |
 | [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) › Outer fort wall | Seeker | l14 | Ruined Dunmari fort: The session-era description matches the fort east of Gomat documented in Session 2 (DuFr) and Session 3 (DuFr). The exterior mounds are outside its walls. |
 | Approach to [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) | Party | l16 | Ruined Dunmari fort: The session-era description matches the fort east of Gomat documented in Session 2 (DuFr) and Session 3 (DuFr). The exterior mounds are outside its walls. |
 
 | Observed location | Observer | From | Markers | Context |
 | --- | --- | --- | --- | --- |
 | [Gomat Oasis](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Gomat.md) › Stone shelters, pen and wells | Delwath | [Gomat Oasis](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Gomat.md) | l02 |  |
-| [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) | Party | Western rim and ruined waystation | l05 |  |
+| [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) | Party | [Daraar Canyon](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Daraar%20Canyon.md) — Western rim and ruined waystation | l05 |  |
 | [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) | Party | [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) | l11 | Ruined Dunmari fort: The session-era description matches the fort east of Gomat documented in Session 2 (DuFr) and Session 3 (DuFr). The exterior mounds are outside its walls. |
-| [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › Grassy mound outside the fort | Seeker | — | l15 |  |
-| [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) › Central headquarters | Party | [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › Gate causeway | l17 | Ruined Dunmari fort: The session-era description matches the fort east of Gomat documented in Session 2 (DuFr) and Session 3 (DuFr). The exterior mounds are outside its walls. |
-| [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) › Pentagonal building with metal dome | Party | [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › Gate causeway | l18 | Ruined Dunmari fort: The session-era description matches the fort east of Gomat documented in Session 2 (DuFr) and Session 3 (DuFr). The exterior mounds are outside its walls. |
+| [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) — Grassy mound outside the fort | Seeker | — | l15 |  |
+| [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) › Central headquarters | Party | [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) — Gate causeway | l17 | Ruined Dunmari fort: The session-era description matches the fort east of Gomat documented in Session 2 (DuFr) and Session 3 (DuFr). The exterior mounds are outside its walls. |
+| [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) › Pentagonal building with metal dome | Party | [Blasted Plains](../../../../Gazetteer/Greater%20Dunmar/Nashtkar.md) › [Ruined Dunmari fort](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dunmari%20Fort%20%28Gomat%29.md) — Gate causeway | l18 | Ruined Dunmari fort: The session-era description matches the fort east of Gomat documented in Session 2 (DuFr) and Session 3 (DuFr). The exterior mounds are outside its walls. |
 
 ## Entities
 
@@ -88,4 +88,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:22** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-002-transcript.md) · [Time Markers](dunmari-frontier-002-time-markers.json) · [Location Markers](dunmari-frontier-002-location-markers.json) · [Entity Map](dunmari-frontier-002-entity-map.json) · [Interactions](dunmari-frontier-002-interactions.json) · [Combat](dunmari-frontier-002-combat.json) · [Segments](dunmari-frontier-002-segments.json) · [Watch data](time-watches.json)
+Sources · [Transcript](dunmari-frontier-002-transcript.md) · [Time Markers](dunmari-frontier-002-time-markers.json) · [Location Markers](dunmari-frontier-002-location-markers.json) · [Entity Map](dunmari-frontier-002-entity-map.json) · [Interactions](dunmari-frontier-002-interactions.json) · [Combat](dunmari-frontier-002-combat.json) · [Segments](dunmari-frontier-002-segments.json) · [Watch data](dunmari-frontier-002-time-watches.json)

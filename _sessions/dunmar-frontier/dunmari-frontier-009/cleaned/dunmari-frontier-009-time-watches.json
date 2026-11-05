@@ -9,16 +9,16 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-transcript.md",
     "sha256": "c2216028f3a35988cc8bd0e5b1b313c522f0c401f28c87a0acfe2b5736885039"
   },
-  "dateAssessment": "April 12, 1748 comes only from YAML; continuous same-day exploration matches that span conditionally, with mid-afternoon explicitly stated after the short rest.",
+  "dateAssessment": "YAML gives April 12, 1748. Play resumes moments after DF08’s roper fight, placed in early afternoon by its campaign timeline, and the DM confirms midafternoon after the short rest.",
   "watches": [
     {
-      "day": "April 12, 1748 (YAML)",
+      "day": "April 12, 1748",
       "startDate": "1748-04-12",
       "endDate": "1748-04-12",
-      "startWatch": null,
+      "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "mixed",
-      "summary": "Opening clock unknown; half-hour investigation and one-hour rest precede Wellby’s explicit mid-afternoon lookout.",
+      "summary": "DF08’s early-afternoon roper fight has just ended. A half-hour investigation and an hour’s rest lead to the stated midafternoon lookout.",
       "markers": [
         "t01",
         "t02",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "day": "April 12, 1748 (YAML)",
+      "day": "April 12, 1748",
       "startDate": "1748-04-12",
       "endDate": "1748-04-12",
       "startWatch": "afternoon",
@@ -50,6 +50,13 @@
           "u0687"
         ]
       ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 8 campaign timeline",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md",
+      "sha256": "d69058678a564028f431010fe0f385b510b1e5eadcdbd1412507c155e6171fec"
     }
   ]
 }

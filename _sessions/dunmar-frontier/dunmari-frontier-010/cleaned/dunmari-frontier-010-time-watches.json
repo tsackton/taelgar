@@ -9,24 +9,23 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-transcript.md",
     "sha256": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4"
   },
-  "dateAssessment": "1748-04-12 is YAML-only; the transcript establishes late afternoon through about 19:00, with no completed overnight, matching the zero-date-boundary span.",
+  "dateAssessment": "Play continues on April 12, 1748, the date shared with DF09 in YAML. The transcript moves from the afternoon gate crossing to sunset and a conversation around 7 p.m.",
   "watches": [
     {
-      "day": "1748-04-12 (YAML)",
+      "day": "April 12, 1748",
       "startDate": "1748-04-12",
       "endDate": "1748-04-12",
-      "startWatch": null,
-      "endWatch": null,
-      "basis": "open",
-      "summary": "Lock work takes a while; the ongoing outing is described as about six hours old.",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "DF09 ends at the rusty gate after afternoon scouting. Kenzo resumes at the same lock before the late-afternoon lookout.",
       "markers": [
         "t01",
         "t02"
-      ],
-      "scope": "Opening, clock unanchored"
+      ]
     },
     {
-      "day": "1748-04-12 (YAML)",
+      "day": "April 12, 1748",
       "startDate": "1748-04-12",
       "endDate": "1748-04-12",
       "startWatch": "afternoon",
@@ -42,7 +41,7 @@
       "scope": "Delwath"
     },
     {
-      "day": "1748-04-12 (YAML)",
+      "day": "April 12, 1748",
       "startDate": "1748-04-12",
       "endDate": "1748-04-12",
       "startWatch": "afternoon",
@@ -54,7 +53,7 @@
       ]
     },
     {
-      "day": "1748-04-12 (YAML)",
+      "day": "April 12, 1748",
       "startDate": "1748-04-12",
       "endDate": "1748-04-12",
       "startWatch": "dusk",
@@ -66,6 +65,13 @@
         "t10",
         "t11"
       ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "DF09 closing scene",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-transcript.md",
+      "sha256": "c2216028f3a35988cc8bd0e5b1b313c522f0c401f28c87a0acfe2b5736885039"
     }
   ]
 }
