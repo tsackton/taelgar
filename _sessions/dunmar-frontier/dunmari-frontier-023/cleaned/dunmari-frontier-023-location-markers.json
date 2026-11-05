@@ -1,0 +1,1447 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-023",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-session.yaml",
+    "sessionYamlSha256": "2af7123169ef912e597e5cb987fbf0aeca3ac2a38ac8dc31266ba546e7132574",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-transcript.md",
+    "transcriptSha256": "5915da8115c21d95138adb58558b0010a254ba01e40de6bd1a7af8427f7cecea"
+  },
+  "places": {
+    "p01": {
+      "label": "Monastery of Bhishma",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "DM: So, for the moment, all is quiet in the late afternoon sun at the Monastery of Bhishma. About three hours before sunset. Wellby and Delwath are sitting in the middle of the main dining hall, waiting for Seeker and Kenzo to return from their journey deeper into the mysteries of the Monastery of Bhishma. About an hour ago, this was the lair of a manticore family. The bodies of the four dead manticores—two adults and two young—lie where you killed them, the foul smell of their blood beginning to drift through the large room in the still air. Outside, the distant banging of the sole survivor of the battle, left locked in the bath house, has faded. Because dead companions lying with the—[garbled]."
+        }
+      ],
+      "kind": "monastery",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma.md"
+    },
+    "p02": {
+      "label": "Main dining hall",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "DM: So, for the moment, all is quiet in the late afternoon sun at the Monastery of Bhishma. About three hours before sunset. Wellby and Delwath are sitting in the middle of the main dining hall, waiting for Seeker and Kenzo to return from their journey deeper into the mysteries of the Monastery of Bhishma. About an hour ago, this was the lair of a manticore family. The bodies of the four dead manticores—two adults and two young—lie where you killed them, the foul smell of their blood beginning to drift through the large room in the still air. Outside, the distant banging of the sole survivor of the battle, left locked in the bath house, has faded. Because dead companions lying with the—[garbled]."
+        },
+        {
+          "startUid": "u0018",
+          "endUid": "u0025",
+          "quote": "DM: But I will, I will add that to the session notes or to Seeker's journal. Before you can explore the Hall of Stories, though, you'll have to find a way to get past the ghosts that your orc prisoner told you haunt the halls of the monastery, protecting its secrets. So, Delwath and Wellby, you've been sitting around for about an hour, so you can take a short rest if you want. And as you're contemplating your next move, Kenzo and Seeker return. So, Kenzo and, and Seeker, why don't you describe how you look as you emerge from the hall that you had journeyed down, back into this main dining area?"
+        }
+      ],
+      "kind": "hall",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0006",
+              "quote": "DM: So, for the moment, all is quiet in the late afternoon sun at the Monastery of Bhishma. About three hours before sunset. Wellby and Delwath are sitting in the middle of the main dining hall, waiting for Seeker and Kenzo to return from their journey deeper into the mysteries of the Monastery of Bhishma. About an hour ago, this was the lair of a manticore family. The bodies of the four dead manticores—two adults and two young—lie where you killed them, the foul smell of their blood beginning to drift through the large room in the still air. Outside, the distant banging of the sole survivor of the battle, left locked in the bath house, has faded. Because dead companions lying with the—[garbled]."
+            },
+            {
+              "startUid": "u0018",
+              "endUid": "u0025",
+              "quote": "DM: But I will, I will add that to the session notes or to Seeker's journal. Before you can explore the Hall of Stories, though, you'll have to find a way to get past the ghosts that your orc prisoner told you haunt the halls of the monastery, protecting its secrets. So, Delwath and Wellby, you've been sitting around for about an hour, so you can take a short rest if you want. And as you're contemplating your next move, Kenzo and Seeker return. So, Kenzo and, and Seeker, why don't you describe how you look as you emerge from the hall that you had journeyed down, back into this main dining area?"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Dormitories",
+      "evidence": [
+        {
+          "startUid": "u0419",
+          "endUid": "u0431",
+          "quote": "DM: Okay, so it's pretty cursory search within each one. Um, the bathhouse is where the orc is tied up. You already kind of looked in there when you left that orc. Um, I don't know if you want to open the doors or not. So, starting in the dormitories—I mean, these are—there are three-story like sandstone buildings. They've both been fairly well looted, presumably in part recently by the orcs, but some of the damage seems to be quite old, so this has probably been looted multiple times. Um, you do find, poking around, a few hundred sort of scattered small silver and copper coins. A total of 24 silver and 160 copper, just like you know little kick—you know, things kicked in the dust, hidden around a little bit. Um, and the other thing you find is a small diary, written in Dunmari."
+        },
+        {
+          "startUid": "u0433",
+          "endUid": "u0442",
+          "quote": "DM: An unnamed monk who seemed to have lived here perhaps just before the Great War. You sort of flip through it really quickly, and it's sort of describing like life in the monastery. I'm—skipping to the end: growing militarization, attacks, news of distant heroes and great councils. Then no news, which is worse. Then everybody running. And the last entry is, I'm choosing to stay here with the others, contribute what I can to protecting our great work. Bhishma, watch over my soul. And there are no further entries."
+        }
+      ],
+      "kind": "building",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0419",
+              "endUid": "u0431",
+              "quote": "DM: Okay, so it's pretty cursory search within each one. Um, the bathhouse is where the orc is tied up. You already kind of looked in there when you left that orc. Um, I don't know if you want to open the doors or not. So, starting in the dormitories—I mean, these are—there are three-story like sandstone buildings. They've both been fairly well looted, presumably in part recently by the orcs, but some of the damage seems to be quite old, so this has probably been looted multiple times. Um, you do find, poking around, a few hundred sort of scattered small silver and copper coins. A total of 24 silver and 160 copper, just like you know little kick—you know, things kicked in the dust, hidden around a little bit. Um, and the other thing you find is a small diary, written in Dunmari."
+            },
+            {
+              "startUid": "u0433",
+              "endUid": "u0442",
+              "quote": "DM: An unnamed monk who seemed to have lived here perhaps just before the Great War. You sort of flip through it really quickly, and it's sort of describing like life in the monastery. I'm—skipping to the end: growing militarization, attacks, news of distant heroes and great councils. Then no news, which is worse. Then everybody running. And the last entry is, I'm choosing to stay here with the others, contribute what I can to protecting our great work. Bhishma, watch over my soul. And there are no further entries."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Paper workshops",
+      "evidence": [
+        {
+          "startUid": "u0446",
+          "endUid": "u0457",
+          "quote": "DM: Is their great work. I'm—in the—so the, the two small buildings seems to be workshops, as you kind of look around. There's actually two—these two buildings that are still standing, and then two additional ones that are—have been knocked down and the stone taken for some other purpose, and so not obvious from the air. And these are workshops that were used for making paper from animal skin and plant material that grew along the river. There's not much left inside the buildings, but you can see, like the bits of frame that animal skins were stretched on and scraped to make vellum, and like mallet and things and presses that were used to pound out plant material is—I'm—all like the stone in the end the sort of wooden bits are left, but no paper."
+        },
+        {
+          "startUid": "u0458",
+          "endUid": "u0462",
+          "quote": "DM: And, ah, except tucked in the corner, you do find an odd piece of vellum that seems to be in unusually good condition. I'm—blank, nothing's written on it that you can see, anyway. But you would not expect it necessarily to have lasted, and sort of tucked away um you know, on a bench. And then anything else you wanted to—what else did you want to search?"
+        }
+      ],
+      "kind": "workshops",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0446",
+              "endUid": "u0457",
+              "quote": "DM: Is their great work. I'm—in the—so the, the two small buildings seems to be workshops, as you kind of look around. There's actually two—these two buildings that are still standing, and then two additional ones that are—have been knocked down and the stone taken for some other purpose, and so not obvious from the air. And these are workshops that were used for making paper from animal skin and plant material that grew along the river. There's not much left inside the buildings, but you can see, like the bits of frame that animal skins were stretched on and scraped to make vellum, and like mallet and things and presses that were used to pound out plant material is—I'm—all like the stone in the end the sort of wooden bits are left, but no paper."
+            },
+            {
+              "startUid": "u0458",
+              "endUid": "u0462",
+              "quote": "DM: And, ah, except tucked in the corner, you do find an odd piece of vellum that seems to be in unusually good condition. I'm—blank, nothing's written on it that you can see, anyway. But you would not expect it necessarily to have lasted, and sort of tucked away um you know, on a bench. And then anything else you wanted to—what else did you want to search?"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Well behind the bath house",
+      "evidence": [
+        {
+          "startUid": "u0466",
+          "endUid": "u0475",
+          "quote": "DM: Ah, OK, the well. The one that was sort of back behind the bathhouse? Yeah, um, yeah. It connects—that it, it, it goes down at that—it's dry now, but it looks like it was connected to some sort of underwater—underground cistern water works, so you stick your head down, and you can see—well, you can't really. I guess you could drop your driftglobe down, and then it would bounce back up, because if it's more than 60 feet away from you, it goes to within 60 feet. So there's like a large empty cistern at the bottom of the well, and seems to be connected to a—like a—an inflow tunnel and another outflow tunnel, all dry now. There's—possibly connecting to the bathhouse somehow, although there's no well in the bath house or possibly connecting to the fountain that you saw that's, that's here, that's sort of in the middle."
+        }
+      ],
+      "kind": "well",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0466",
+              "endUid": "u0475",
+              "quote": "DM: Ah, OK, the well. The one that was sort of back behind the bathhouse? Yeah, um, yeah. It connects—that it, it, it goes down at that—it's dry now, but it looks like it was connected to some sort of underwater—underground cistern water works, so you stick your head down, and you can see—well, you can't really. I guess you could drop your driftglobe down, and then it would bounce back up, because if it's more than 60 feet away from you, it goes to within 60 feet. So there's like a large empty cistern at the bottom of the well, and seems to be connected to a—like a—an inflow tunnel and another outflow tunnel, all dry now. There's—possibly connecting to the bathhouse somehow, although there's no well in the bath house or possibly connecting to the fountain that you saw that's, that's here, that's sort of in the middle."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Dry cistern",
+      "evidence": [
+        {
+          "startUid": "u0464",
+          "endUid": "u0465",
+          "quote": "Wellby: Let's see, we talked about the two dormitories, the two workshops. I'd love to stick my head down the well, in case it's an extra like escape route in an emergency."
+        },
+        {
+          "startUid": "u0466",
+          "endUid": "u0475",
+          "quote": "DM: Ah, OK, the well. The one that was sort of back behind the bathhouse? Yeah, um, yeah. It connects—that it, it, it goes down at that—it's dry now, but it looks like it was connected to some sort of underwater—underground cistern water works, so you stick your head down, and you can see—well, you can't really. I guess you could drop your driftglobe down, and then it would bounce back up, because if it's more than 60 feet away from you, it goes to within 60 feet. So there's like a large empty cistern at the bottom of the well, and seems to be connected to a—like a—an inflow tunnel and another outflow tunnel, all dry now. There's—possibly connecting to the bathhouse somehow, although there's no well in the bath house or possibly connecting to the fountain that you saw that's, that's here, that's sort of in the middle."
+        }
+      ],
+      "kind": "cistern",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0464",
+              "endUid": "u0465",
+              "quote": "Wellby: Let's see, we talked about the two dormitories, the two workshops. I'd love to stick my head down the well, in case it's an extra like escape route in an emergency."
+            },
+            {
+              "startUid": "u0466",
+              "endUid": "u0475",
+              "quote": "DM: Ah, OK, the well. The one that was sort of back behind the bathhouse? Yeah, um, yeah. It connects—that it, it, it goes down at that—it's dry now, but it looks like it was connected to some sort of underwater—underground cistern water works, so you stick your head down, and you can see—well, you can't really. I guess you could drop your driftglobe down, and then it would bounce back up, because if it's more than 60 feet away from you, it goes to within 60 feet. So there's like a large empty cistern at the bottom of the well, and seems to be connected to a—like a—an inflow tunnel and another outflow tunnel, all dry now. There's—possibly connecting to the bathhouse somehow, although there's no well in the bath house or possibly connecting to the fountain that you saw that's, that's here, that's sort of in the middle."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Fountain courtyard",
+      "evidence": [
+        {
+          "startUid": "u0518",
+          "endUid": "u0528",
+          "quote": "DM: So the central courtyard here is—it has the spiral labyrinth, a path that twists in a spiral in towards the center, made of crushed stone, sort of decorative. With these stone baths—the stone benches, sorry—on the sides. The fountain itself is still—water is still flowing and seems to, um—although some of the, the stone benches have been, you know, sort of—the orcs have like chipped at them, and there's one that has like graffiti scrawled on it. I'm—the fountain itself seems to be still pure water and not particularly harmed in any way. And there's like—I'm—trickles of water that flow out from the fountain and collecting in small streams that flow towards the benches on the outside of the labyrinth and then collect in these pools. But the water doesn't go anywhere from there, and you can't see any—there's no like waterworks mechanism here. I'm—I'm—"
+        },
+        {
+          "startUid": "u0529",
+          "endUid": "u0529",
+          "quote": "Kenzo: Do the benches say like Grash on them and, like spray paint, or there's, there's—they're like orc like street art isn't like little, little or you know—"
+        }
+      ],
+      "kind": "courtyard",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0518",
+              "endUid": "u0528",
+              "quote": "DM: So the central courtyard here is—it has the spiral labyrinth, a path that twists in a spiral in towards the center, made of crushed stone, sort of decorative. With these stone baths—the stone benches, sorry—on the sides. The fountain itself is still—water is still flowing and seems to, um—although some of the, the stone benches have been, you know, sort of—the orcs have like chipped at them, and there's one that has like graffiti scrawled on it. I'm—the fountain itself seems to be still pure water and not particularly harmed in any way. And there's like—I'm—trickles of water that flow out from the fountain and collecting in small streams that flow towards the benches on the outside of the labyrinth and then collect in these pools. But the water doesn't go anywhere from there, and you can't see any—there's no like waterworks mechanism here. I'm—I'm—"
+            },
+            {
+              "startUid": "u0529",
+              "endUid": "u0529",
+              "quote": "Kenzo: Do the benches say like Grash on them and, like spray paint, or there's, there's—they're like orc like street art isn't like little, little or you know—"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Tower",
+      "evidence": [
+        {
+          "startUid": "u0590",
+          "endUid": "u0593",
+          "quote": "DM: Um, yeah, that took about 15, 10–15 minutes, and now you have like an hour and 45 minutes till sunset. So, as you approach the tower—and so, so the tower and the, and the Hall of Stories are, are connected, so the tower stands maybe five, six stories tall, and in the front. And it is, like everything in this complex, made of sandstone and, and decorated, carved in sort of intricate shapes that run up an abstract geometric shapes running up the side of the tower."
+        },
+        {
+          "startUid": "u0634",
+          "endUid": "u0639",
+          "quote": "DM: The tower connected to the Hall of Stories, which is sort of behind it. And the hall of story is, is—so there's a, there's like the tower that goes up, and then there's like connecting from the tower on the ground floor into the Hall Stories. Hall Stories itself is maybe like two and a half stories tall. I'm—facing the fountain, so facing you on the tower, are these large double doors, wooden doors that are closed. And then you know from Wellby-hawk's scouting that there are also two doors into the Hall of Stories itself, bypassing the tower."
+        }
+      ],
+      "kind": "tower",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0590",
+              "endUid": "u0593",
+              "quote": "DM: Um, yeah, that took about 15, 10–15 minutes, and now you have like an hour and 45 minutes till sunset. So, as you approach the tower—and so, so the tower and the, and the Hall of Stories are, are connected, so the tower stands maybe five, six stories tall, and in the front. And it is, like everything in this complex, made of sandstone and, and decorated, carved in sort of intricate shapes that run up an abstract geometric shapes running up the side of the tower."
+            },
+            {
+              "startUid": "u0634",
+              "endUid": "u0639",
+              "quote": "DM: The tower connected to the Hall of Stories, which is sort of behind it. And the hall of story is, is—so there's a, there's like the tower that goes up, and then there's like connecting from the tower on the ground floor into the Hall Stories. Hall Stories itself is maybe like two and a half stories tall. I'm—facing the fountain, so facing you on the tower, are these large double doors, wooden doors that are closed. And then you know from Wellby-hawk's scouting that there are also two doors into the Hall of Stories itself, bypassing the tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Hall of Stories",
+      "evidence": [
+        {
+          "startUid": "u0634",
+          "endUid": "u0639",
+          "quote": "DM: The tower connected to the Hall of Stories, which is sort of behind it. And the hall of story is, is—so there's a, there's like the tower that goes up, and then there's like connecting from the tower on the ground floor into the Hall Stories. Hall Stories itself is maybe like two and a half stories tall. I'm—facing the fountain, so facing you on the tower, are these large double doors, wooden doors that are closed. And then you know from Wellby-hawk's scouting that there are also two doors into the Hall of Stories itself, bypassing the tower."
+        },
+        {
+          "startUid": "u0878",
+          "endUid": "u0887",
+          "quote": "DM: Okay, so, um, you walk forward and open the, the large doors that at the end of the hall, and this, this enters into our sort of a short passage way. Some windows slits allows the late afternoon sun to shine down, and there's another door just shortly beyond that. Seems like, again, perhaps once—seems like a relatively straightforward passageway into the Hall of Stories from this tower. The door is not magical. Neither doors magical. Um, so, as you push forward—"
+        },
+        {
+          "startUid": "u0888",
+          "endUid": "u0899",
+          "quote": "DM: Opening the doors that lead into the Hall of Stories, you see in front of you a massive chamber. The building just consists of one enormous open room. And the way it's been designed, the high ceilings and then windows cut into the top allow the light to cascade down, letting light stream into the room and yet keeping the ceiling in shadow, giving you a feeling that there's like an endless expanse above you. Throughout the room there's about 10 tall pillars—roughly that I can—maybe 10–12 tall pillars that are sort of lined up in rows. I'm—stretching up all the way, as far as you can tell, into the light of the ceiling. All written—carved with names, some large, some very small, just thousands and thousands of names carved on these pillars as—well, at the moment you're 10–15 pillars, and all you can—you just get the sense of names. I'm—as you step into the room, the—I need everybody to make a Perception check and a Charisma saving—oh geez."
+        }
+      ],
+      "kind": "hall",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0634",
+              "endUid": "u0639",
+              "quote": "DM: The tower connected to the Hall of Stories, which is sort of behind it. And the hall of story is, is—so there's a, there's like the tower that goes up, and then there's like connecting from the tower on the ground floor into the Hall Stories. Hall Stories itself is maybe like two and a half stories tall. I'm—facing the fountain, so facing you on the tower, are these large double doors, wooden doors that are closed. And then you know from Wellby-hawk's scouting that there are also two doors into the Hall of Stories itself, bypassing the tower."
+            },
+            {
+              "startUid": "u0878",
+              "endUid": "u0887",
+              "quote": "DM: Okay, so, um, you walk forward and open the, the large doors that at the end of the hall, and this, this enters into our sort of a short passage way. Some windows slits allows the late afternoon sun to shine down, and there's another door just shortly beyond that. Seems like, again, perhaps once—seems like a relatively straightforward passageway into the Hall of Stories from this tower. The door is not magical. Neither doors magical. Um, so, as you push forward—"
+            },
+            {
+              "startUid": "u0888",
+              "endUid": "u0899",
+              "quote": "DM: Opening the doors that lead into the Hall of Stories, you see in front of you a massive chamber. The building just consists of one enormous open room. And the way it's been designed, the high ceilings and then windows cut into the top allow the light to cascade down, letting light stream into the room and yet keeping the ceiling in shadow, giving you a feeling that there's like an endless expanse above you. Throughout the room there's about 10 tall pillars—roughly that I can—maybe 10–12 tall pillars that are sort of lined up in rows. I'm—stretching up all the way, as far as you can tell, into the light of the ceiling. All written—carved with names, some large, some very small, just thousands and thousands of names carved on these pillars as—well, at the moment you're 10–15 pillars, and all you can—you just get the sense of names. I'm—as you step into the room, the—I need everybody to make a Perception check and a Charisma saving—oh geez."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0590",
+              "endUid": "u0593",
+              "quote": "DM: Um, yeah, that took about 15, 10–15 minutes, and now you have like an hour and 45 minutes till sunset. So, as you approach the tower—and so, so the tower and the, and the Hall of Stories are, are connected, so the tower stands maybe five, six stories tall, and in the front. And it is, like everything in this complex, made of sandstone and, and decorated, carved in sort of intricate shapes that run up an abstract geometric shapes running up the side of the tower."
+            },
+            {
+              "startUid": "u0634",
+              "endUid": "u0639",
+              "quote": "DM: The tower connected to the Hall of Stories, which is sort of behind it. And the hall of story is, is—so there's a, there's like the tower that goes up, and then there's like connecting from the tower on the ground floor into the Hall Stories. Hall Stories itself is maybe like two and a half stories tall. I'm—facing the fountain, so facing you on the tower, are these large double doors, wooden doors that are closed. And then you know from Wellby-hawk's scouting that there are also two doors into the Hall of Stories itself, bypassing the tower."
+            }
+          ],
+          "note": "Connected on the ground floor; the hall also has exterior doors bypassing the tower."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Hall of Stories.md"
+    },
+    "p10": {
+      "label": "Ground-floor library and study",
+      "evidence": [
+        {
+          "startUid": "u0837",
+          "endUid": "u0840",
+          "quote": "DM: I'm—so you're standing here in a corridor that stretches the length of the tower. On the both the left and the right side, there are three doors set in the wall. So six doors total, three on the left, three on the right. And then ahead of you there is another large double door that seems to lead into the passage way that connects to the Hall of Stories. So where do you want to go?"
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0872",
+          "quote": "DM: The door, so you, you push on a door as you go past, and it swings open. I'm—one of the ones on the right. This seems to be—just glancing past, it looks like perhaps a library, although few books remain. It's like empty shelves, basically, but it seems like one big room. I'm—all three doors connect to this one big room. Ah, other side is similar like all three doors connect to this one big room, which looks like a study. There's like reading desks, like carrels where you could put a book in and read it, a small table, a few empty shelves."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0837",
+              "endUid": "u0840",
+              "quote": "DM: I'm—so you're standing here in a corridor that stretches the length of the tower. On the both the left and the right side, there are three doors set in the wall. So six doors total, three on the left, three on the right. And then ahead of you there is another large double door that seems to lead into the passage way that connects to the Hall of Stories. So where do you want to go?"
+            },
+            {
+              "startUid": "u0866",
+              "endUid": "u0872",
+              "quote": "DM: The door, so you, you push on a door as you go past, and it swings open. I'm—one of the ones on the right. This seems to be—just glancing past, it looks like perhaps a library, although few books remain. It's like empty shelves, basically, but it seems like one big room. I'm—all three doors connect to this one big room. Ah, other side is similar like all three doors connect to this one big room, which looks like a study. There's like reading desks, like carrels where you could put a book in and read it, a small table, a few empty shelves."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Second-floor writing room",
+      "evidence": [
+        {
+          "startUid": "u2085",
+          "endUid": "u2085",
+          "quote": "DM: Now you head out, you leave the, the hall."
+        },
+        {
+          "startUid": "u2092",
+          "endUid": "u2098",
+          "quote": "DM: So they both, they both actually lead to the same, the same place. The second floor is a large open room filled with writing desks, maybe 10 in total, with shelves with like little like scroll cubbies around the side. It—um, most of the them are empty, although a few have, again, another couple of those blank scrolls that you saw before or that you found the vellum one; these are parchment, seem you know, perhaps somewhat less elaborate—elaborately prepared than the, than the vellum one you find in the workshop. On—the writing desks are ink-stained and clearly well-used, and there is a—the stairs up as well from here."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u2085",
+              "endUid": "u2085",
+              "quote": "DM: Now you head out, you leave the, the hall."
+            },
+            {
+              "startUid": "u2092",
+              "endUid": "u2098",
+              "quote": "DM: So they both, they both actually lead to the same, the same place. The second floor is a large open room filled with writing desks, maybe 10 in total, with shelves with like little like scroll cubbies around the side. It—um, most of the them are empty, although a few have, again, another couple of those blank scrolls that you saw before or that you found the vellum one; these are parchment, seem you know, perhaps somewhat less elaborate—elaborately prepared than the, than the vellum one you find in the workshop. On—the writing desks are ink-stained and clearly well-used, and there is a—the stairs up as well from here."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Upper library behind the trapped stone doors",
+      "evidence": [
+        {
+          "startUid": "u2141",
+          "endUid": "u2145",
+          "quote": "DM: Okay, so you continue up the tower. The next floor, you come out into a sort of an empty chamber, tiled with an abstract design of flowing—stairs continuing up, and two large stone doors—I'm—standing on the far side of the chamber, entry to some sort of room which must take up most of the floor."
+        },
+        {
+          "startUid": "u2176",
+          "endUid": "u2179",
+          "quote": "DM: Um, so as the doors open, you can see beyond them another library, several large stone shelves—I'm—mostly all empty, with like chains hanging off of them. That seems to be where like the secret or more magical books were stored, that were like chained up and, and kept protected. And there's a smaller shelf that contains cubbies for scrolls."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u2141",
+              "endUid": "u2145",
+              "quote": "DM: Okay, so you continue up the tower. The next floor, you come out into a sort of an empty chamber, tiled with an abstract design of flowing—stairs continuing up, and two large stone doors—I'm—standing on the far side of the chamber, entry to some sort of room which must take up most of the floor."
+            },
+            {
+              "startUid": "u2176",
+              "endUid": "u2179",
+              "quote": "DM: Um, so as the doors open, you can see beyond them another library, several large stone shelves—I'm—mostly all empty, with like chains hanging off of them. That seems to be where like the secret or more magical books were stored, that were like chained up and, and kept protected. And there's a smaller shelf that contains cubbies for scrolls."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Karmana’s top-floor bedroom",
+      "evidence": [
+        {
+          "startUid": "u2268",
+          "endUid": "u2281",
+          "quote": "DM: Just the scrolls. The next floor up is like, is like a meeting room, a council chamber. Large table in the center, a few chairs, but otherwise empty. And when you head out to the final floor, the—this seems to be—so every other floor that you've passed through has been like one large room or a few large rooms. When you come up the final stairs to the top, you come into a small entry way, a hallway with a, with a door that leads into a like an archway open door that leads into a corridor with three doors: one, the left, um, one straight ahead, and one to the right. And you can hear faintly, from the, from the straight ahead—the room straight ahead—a sort of almost like a faint, faint breeze like a rustling, like—nothing to distinct, but like you know sort of faint, faint sort of breezy rustling sound."
+        },
+        {
+          "startUid": "u2300",
+          "endUid": "u2303",
+          "quote": "DM: So, as the door swings open, you can see that this was a bedroom. There's a simple wooden bed, not particularly ornate, a wardrobe that similarly plain, and a small table with a brass candelabra on it, holding—designed to hold six thin tapers, and an ivory box that has been—that is carved with a rendition of riders on horseback herding flocks of goats. And drifting across the bed, sort of pacing back and forth but moving through the bed each time a paces back and forth, is a ghostly figure who turns to look at you, surprised, as you enter."
+        },
+        {
+          "startUid": "u2603",
+          "endUid": "u2603",
+          "quote": "DM: This is the top floor."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u2268",
+              "endUid": "u2281",
+              "quote": "DM: Just the scrolls. The next floor up is like, is like a meeting room, a council chamber. Large table in the center, a few chairs, but otherwise empty. And when you head out to the final floor, the—this seems to be—so every other floor that you've passed through has been like one large room or a few large rooms. When you come up the final stairs to the top, you come into a small entry way, a hallway with a, with a door that leads into a like an archway open door that leads into a corridor with three doors: one, the left, um, one straight ahead, and one to the right. And you can hear faintly, from the, from the straight ahead—the room straight ahead—a sort of almost like a faint, faint breeze like a rustling, like—nothing to distinct, but like you know sort of faint, faint sort of breezy rustling sound."
+            },
+            {
+              "startUid": "u2300",
+              "endUid": "u2303",
+              "quote": "DM: So, as the door swings open, you can see that this was a bedroom. There's a simple wooden bed, not particularly ornate, a wardrobe that similarly plain, and a small table with a brass candelabra on it, holding—designed to hold six thin tapers, and an ivory box that has been—that is carved with a rendition of riders on horseback herding flocks of goats. And drifting across the bed, sort of pacing back and forth but moving through the bed each time a paces back and forth, is a ghostly figure who turns to look at you, surprised, as you enter."
+            },
+            {
+              "startUid": "u2603",
+              "endUid": "u2603",
+              "quote": "DM: This is the top floor."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Initiation hall and cloisters",
+      "evidence": [
+        {
+          "startUid": "u0924",
+          "endUid": "u0930",
+          "quote": "DM: Until a moment later, the door opens and another monk comes in and says, it's time. And the first monk looks nervous and puts down his book and—are you sure I'm ready? Yes, you'll do fine. Just remember what you've read. Remember the story of Bhishma. I have faith in you. And they begin to walk out of the monastery."
+        },
+        {
+          "startUid": "u0934",
+          "endUid": "u0945",
+          "quote": "DM: I'm—they're Dunmari. Um, it's hard to tell exactly when this is happening, but the live—the study is full of books. Um, you know, the—everything is, you know, there's activity as the monks—two monks walk out of the tower and begin to walk across the monastery. There's you know there's people crossing back and forth. You can hear the bells of the tower ringing. You can hear you know the sound of the fountain, you can hear water trickling from the little streams that run down as you walk past. And then, you know, you, you—the, the collapsed stairs of the dining room are intact. And there seems—as you follow this monk—I'm—walking forward, you—there seems to be a little small group of, of other young monks, men and women of each are sort of gathered outside of the, of the door that you must pray for it to open."
+        },
+        {
+          "startUid": "u0946",
+          "endUid": "u0953",
+          "quote": "DM: And as they pray, the door swings open, and they all put on robes and anoint themselves with oil and, I'm—take some of the holy water. And then, as, as they begin to step into the, the, the sort of antechamber to Hall of Initiation, there's an older monk there wearing dark robes who starts to give a speech and as, as, as the older monk begins to talk, you sort of lose the thread a little bit, in, and this, the feeling of sort of nervousness and uncertainty. Can't remember the words exactly that they were—that the monk was saying. And as, as this was happening, you have this feeling that you are in somebody's memory. You're watching what they remember of this day, of the day of their initiation."
+        },
+        {
+          "startUid": "u1676",
+          "endUid": "u1688",
+          "quote": "DM: Hearing noises from the, from the, the pentagon, from the chamber beyond the hall—the Halls of Initiation, he turns, kind of looks at the fountain in the middle of the, of the, of the, of the circle, right, the fountain that you saw—kind of gives it a little look and then heads for the, for the wall. Um, this is, you know this monk, whoever they are, clearly a fairly dexterous and acrobatic monk, because you have the memory of scaling up the wall and sort of lying on, on the roof of the cloisters where you can see, and well, you can't see, but you can hear what's happening in the open space in the middle. And there's a debate going on."
+        }
+      ],
+      "kind": "hall",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0924",
+              "endUid": "u0930",
+              "quote": "DM: Until a moment later, the door opens and another monk comes in and says, it's time. And the first monk looks nervous and puts down his book and—are you sure I'm ready? Yes, you'll do fine. Just remember what you've read. Remember the story of Bhishma. I have faith in you. And they begin to walk out of the monastery."
+            },
+            {
+              "startUid": "u0934",
+              "endUid": "u0945",
+              "quote": "DM: I'm—they're Dunmari. Um, it's hard to tell exactly when this is happening, but the live—the study is full of books. Um, you know, the—everything is, you know, there's activity as the monks—two monks walk out of the tower and begin to walk across the monastery. There's you know there's people crossing back and forth. You can hear the bells of the tower ringing. You can hear you know the sound of the fountain, you can hear water trickling from the little streams that run down as you walk past. And then, you know, you, you—the, the collapsed stairs of the dining room are intact. And there seems—as you follow this monk—I'm—walking forward, you—there seems to be a little small group of, of other young monks, men and women of each are sort of gathered outside of the, of the door that you must pray for it to open."
+            },
+            {
+              "startUid": "u0946",
+              "endUid": "u0953",
+              "quote": "DM: And as they pray, the door swings open, and they all put on robes and anoint themselves with oil and, I'm—take some of the holy water. And then, as, as they begin to step into the, the, the sort of antechamber to Hall of Initiation, there's an older monk there wearing dark robes who starts to give a speech and as, as, as the older monk begins to talk, you sort of lose the thread a little bit, in, and this, the feeling of sort of nervousness and uncertainty. Can't remember the words exactly that they were—that the monk was saying. And as, as this was happening, you have this feeling that you are in somebody's memory. You're watching what they remember of this day, of the day of their initiation."
+            },
+            {
+              "startUid": "u1676",
+              "endUid": "u1688",
+              "quote": "DM: Hearing noises from the, from the, the pentagon, from the chamber beyond the hall—the Halls of Initiation, he turns, kind of looks at the fountain in the middle of the, of the, of the, of the circle, right, the fountain that you saw—kind of gives it a little look and then heads for the, for the wall. Um, this is, you know this monk, whoever they are, clearly a fairly dexterous and acrobatic monk, because you have the memory of scaling up the wall and sort of lying on, on the roof of the cloisters where you can see, and well, you can't see, but you can hear what's happening in the open space in the middle. And there's a debate going on."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Drankor",
+      "evidence": [
+        {
+          "startUid": "u1118",
+          "endUid": "u1128",
+          "quote": "DM: You turn and leave, confused, until your companion says, I know what we have to do. I know how we can fix what's gone wrong with our country. And you step out from the—from this room into a ruined city, a vast ruined city. Stone like just monumental architecture everywhere, almost too enormous to take in. Temples, a giant statue, huge coliseum, a long, open, paved road wide enough for five horses to ride abreast. And you huddled together with your companions as you, as you hurry out of this city."
+        },
+        {
+          "startUid": "u1155",
+          "endUid": "u1155",
+          "quote": "Delwath: Did the city look at all like Drankor?"
+        }
+      ],
+      "kind": "ruined city",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Drankor.md",
+      "note": "The party identifies this ruined city as Drankor; the DM initially confirms Drankorian architecture, and the subsequent route discussion uses Drankor (u1498–u1513)."
+    },
+    "p16": {
+      "label": "Domed chamber seen before the ruined-city departure",
+      "evidence": [
+        {
+          "startUid": "u1098",
+          "endUid": "u1116",
+          "quote": "DM: So, so—I'm—all of you remember this story that Seeker told once of his dead brother, and for a minute you are there, standing, you know, on the, on the, on the, on the mountain side. I'm—the, you know, considering the, you know, the forbidden knowledge of, of, of Frank, Frankar. And then the scene fades, and you are—I'm—looking across a large circular room with a high and domed roof, towards shadows. A small, lizard-like winged creature, scales a faded purple trending to pale white, like a threadbare purple robe stretched thin over frosted glass—I'm—flies out of the shadow towards you—I'm—pacing slowly back and forth. You kneel, see a glimpse in the shadows of something green, and a voice begins to crack, echo out a little bit, um, but the words don't mean anything to you. You don't understand the words. But you kneel before it, and your companion looks up as this creature in the shadows is speaking, and his face looks in awe."
+        },
+        {
+          "startUid": "u1118",
+          "endUid": "u1128",
+          "quote": "DM: You turn and leave, confused, until your companion says, I know what we have to do. I know how we can fix what's gone wrong with our country. And you step out from the—from this room into a ruined city, a vast ruined city. Stone like just monumental architecture everywhere, almost too enormous to take in. Temples, a giant statue, huge coliseum, a long, open, paved road wide enough for five horses to ride abreast. And you huddled together with your companions as you, as you hurry out of this city."
+        }
+      ],
+      "kind": "room",
+      "note": "A green figure and Dimitaur are seen here. The party later questions whether a portal separated this chamber from Drankor (u1437–u1440); precise containment remains unresolved."
+    },
+    "p17": {
+      "label": "River valley and high cliffs north of the ruined city",
+      "evidence": [
+        {
+          "startUid": "u1118",
+          "endUid": "u1128",
+          "quote": "DM: You turn and leave, confused, until your companion says, I know what we have to do. I know how we can fix what's gone wrong with our country. And you step out from the—from this room into a ruined city, a vast ruined city. Stone like just monumental architecture everywhere, almost too enormous to take in. Temples, a giant statue, huge coliseum, a long, open, paved road wide enough for five horses to ride abreast. And you huddled together with your companions as you, as you hurry out of this city."
+        },
+        {
+          "startUid": "u1147",
+          "endUid": "u1154",
+          "quote": "DM: Through a—along a river through a coastal plain. And as night falls, you see in front of you on cliffs rising out of this coastal—not really plain. There's like lots of vegetation. This is lush, right? There's almost—junk out—savannah jungle, right? Like parts in, in to the left and right, you can see, you know, dense jungles spreading around. Right around the river valley is more rough terrain, more like savannah. But then you come to cliffs in front of you that rise steeply into the hundreds of feet into the air. And that is where the memory ends."
+        }
+      ],
+      "kind": "landscape"
+    },
+    "p18": {
+      "label": "Army’s riverside camp near Drankor",
+      "evidence": [
+        {
+          "startUid": "u1293",
+          "endUid": "u1304",
+          "quote": "DM: You—so, so, as you, as you reach—as you hold this kind of thought and reach out for this memory, um, you feel something outside the memories reaching as well. Some, some other force that is here that kind of latches on to the darkness that you're imagining. I—then the scene shifts, and you are walking towards the campfire. There is—so there's a, there's a, there's a—it's like a camp fire of an army. This is sort of familiar to, to Delwath, anyway, from your time as a quartermaster. It's night, with an army camped on a—on an open field along a river."
+        },
+        {
+          "startUid": "u1305",
+          "endUid": "u1326",
+          "quote": "DM: The air is warm. It's a, it's a summer night. The breeze is blowing, but the atmosphere is tense. And as you approach you, you're—you can feel now, you—towards your troops, a command—you're a commander, a leader of this particular division of the army. And people are nervous, and you're nervous too. And you approach them, and you begin whispering in Dunmari to several of them, this is a mistake. We should turn back. I know, I know that is not what we are taught. That is not how an army should behave. But fighting on the edge of Drankor now seems like a terrible idea. We should be protecting the borders. Trust me, this is not what we want to be doing. Dasa is wrong. Please, I want you all to live. And as you turn—and then, we must, we must go now, in the night, before the battle is, is."
+        }
+      ],
+      "kind": "camp"
+    },
+    "p19": {
+      "label": "Summer camp on the plains",
+      "evidence": [
+        {
+          "startUid": "u1452",
+          "endUid": "u1474",
+          "quote": "DM: Okay, make Charisma saving—okay, so—I'm—scene shifts, and, and again as, as always, you see Wellby briefly, and then you see—I'm—sitting in a, in a camp—you are, you are on the plains, herd of goats around you. The camp fire—it's, it's the middle of summer, it's warm, and, and you're roasting, you know, roasting some freshly hunted antelope over the fire, and the smells of the antelope roasting. And as you come to this memory, you, you realize it's the memory of a maybe a teenager like a youngish person who is now turning to listen to the stories that their grandfather is telling. And there's old guy kind of walks up and he starts talking about when he used to travel, back in the day when, when he was young—well, younger. And he says—"
+        },
+        {
+          "startUid": "u1498",
+          "endUid": "u1503",
+          "quote": "DM: And he, like in your memory, he's like now sketching this out like on a map in the dirt like with charcoal like drawing exactly how they went. Like, this is where we are now, and marks the spot—I'm—kind of southwest of Bas Udda kind of south of the Red Mesa. And I went down, all the way down this river. So basically, like this going to the role 20 map, right, I went all the way down this river here, following it down."
+        },
+        {
+          "startUid": "u1505",
+          "endUid": "u1513",
+          "quote": "DM: Drankor's on the map, yep. I'm—haha—till we got to these cliffs right about here. And he's you know, describing the journey, basically, and you get the sense this was something that happened, you know, maybe 10 years ago, so there was—and, and from the implication of the fact that the memory is stored, this person must have—this kid must have met up with monks before the monastery failed, so they must have talked—they must have taken this journey, um, some time before they attempted whatever they attempted. And, and you get, like, you can pick up from this memory, Wellby paying attention, like some details, right? So should you ever wish to make the journey to Drankor, you would have some information that might be useful in terms of like where there's water and how to get to the desert and things like that. But in the interest of time, and the fact that I didn't write a long narration for this—"
+        }
+      ],
+      "kind": "camp",
+      "note": "Remembered family campsite southwest of Bas Udda and south of the Red Mesa (u1498–u1503). The father’s earlier expedition is a story within this vision, not a party journey."
+    },
+    "p20": {
+      "label": "Battlefield of the shadow army",
+      "evidence": [
+        {
+          "startUid": "u1532",
+          "endUid": "u1535",
+          "quote": "DM: So you have begin to imagine that sort of feeling of this sense of purpose. And the scene shifts, and you see—I'm—before you a vast battlefield."
+        },
+        {
+          "startUid": "u1537",
+          "endUid": "u1548",
+          "quote": "DM: Everything is dark. The sun is not shining. It's—whether it's night or just an endless darkness is hard to tell. In the distance, you can see, you can see, like clouds of red mist kind of clumping on the horizon. Great—and you are, you are in a, in a line of cavalry charging against this enormous wall of just all sorts of evil creatures like some hobgoblins, yes, but demons—I'm—some undead, just like a many, many, many sort of shadow creatures, like—I'm—like almost humanoid shadows that are kind of lined up. And you charge, and the charge breaks, and you retreat and charge again, until—make a Wisdom saving throw. Ah, until one of the shadows strikes you."
+        },
+        {
+          "startUid": "u1549",
+          "endUid": "u1567",
+          "quote": "DM: Ah, taking six points of psychic damage. And the charge breaks, and these—and you turn and flee, unable to withstand the terror of this—of these shadows swarming out of the darkness behind you. And you can see, as you turn to flee this memory, um, it's almost like you have this sort of mirror vision. Like, every—like a kaleidoscope almost of every vision of this battle. Every—like from 10–15 different perspectives. Everybody who fled, the only ones who came back alive, those who broke and, and fled and—I'm—memories. Different memories: sadness, shame, hatred, fear—I'm—just every dark emotion you can, you can think of. And you can—you see this kind of vision, not so much a memory, but what you sense is, is now the kind of fears of another mind, of this horde sweeping across the land, the Dunmari gone forever, none alive. Just death and destruction pouring out of, pouring out of Dunmar and, and conquering the world, and the sun never rising and very dark vision of apocalypse—I'm—building upon these memories of the fear and, and terror of this battle."
+        }
+      ],
+      "kind": "battlefield"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Wellby and Delwath wait in the monastery dining hall.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "DM: So, for the moment, all is quiet in the late afternoon sun at the Monastery of Bhishma. About three hours before sunset. Wellby and Delwath are sitting in the middle of the main dining hall, waiting for Seeker and Kenzo to return from their journey deeper into the mysteries of the Monastery of Bhishma. About an hour ago, this was the lair of a manticore family. The bodies of the four dead manticores—two adults and two young—lie where you killed them, the foul smell of their blood beginning to drift through the large room in the still air. Outside, the distant banging of the sole survivor of the battle, left locked in the bath house, has faded. Because dead companions lying with the—[garbled]."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0025"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Kenzo and Seeker return from deeper in the monastery to the dining hall.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0025",
+          "quote": "DM: But I will, I will add that to the session notes or to Seeker's journal. Before you can explore the Hall of Stories, though, you'll have to find a way to get past the ghosts that your orc prisoner told you haunt the halls of the monastery, protecting its secrets. So, Delwath and Wellby, you've been sitting around for about an hour, so you can take a short rest if you want. And as you're contemplating your next move, Kenzo and Seeker return. So, Kenzo and, and Seeker, why don't you describe how you look as you emerge from the hall that you had journeyed down, back into this main dining area?"
+        }
+      ],
+      "from": null,
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0392",
+        "endUid": "u0481"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby makes an hour-long scouting circuit while the others rest, searching dormitories and workshops and looking down the well before returning to report.",
+      "evidence": [
+        {
+          "startUid": "u0392",
+          "endUid": "u0393",
+          "quote": "Wellby: Tim, can I scout while they're resting and healing?"
+        },
+        {
+          "startUid": "u0394",
+          "endUid": "u0394",
+          "quote": "DM: Yeah, Yeah, sure. Where do you want to scout?"
+        },
+        {
+          "startUid": "u0414",
+          "endUid": "u0417",
+          "quote": "DM: So, um, I use—you spend, I guess, what, most of the hour searching, or do you want to go somewhere else?"
+        },
+        {
+          "startUid": "u0419",
+          "endUid": "u0431",
+          "quote": "DM: Okay, so it's pretty cursory search within each one. Um, the bathhouse is where the orc is tied up. You already kind of looked in there when you left that orc. Um, I don't know if you want to open the doors or not. So, starting in the dormitories—I mean, these are—there are three-story like sandstone buildings. They've both been fairly well looted, presumably in part recently by the orcs, but some of the damage seems to be quite old, so this has probably been looted multiple times. Um, you do find, poking around, a few hundred sort of scattered small silver and copper coins. A total of 24 silver and 160 copper, just like you know little kick—you know, things kicked in the dust, hidden around a little bit. Um, and the other thing you find is a small diary, written in Dunmari."
+        },
+        {
+          "startUid": "u0446",
+          "endUid": "u0457",
+          "quote": "DM: Is their great work. I'm—in the—so the, the two small buildings seems to be workshops, as you kind of look around. There's actually two—these two buildings that are still standing, and then two additional ones that are—have been knocked down and the stone taken for some other purpose, and so not obvious from the air. And these are workshops that were used for making paper from animal skin and plant material that grew along the river. There's not much left inside the buildings, but you can see, like the bits of frame that animal skins were stretched on and scraped to make vellum, and like mallet and things and presses that were used to pound out plant material is—I'm—all like the stone in the end the sort of wooden bits are left, but no paper."
+        },
+        {
+          "startUid": "u0458",
+          "endUid": "u0462",
+          "quote": "DM: And, ah, except tucked in the corner, you do find an odd piece of vellum that seems to be in unusually good condition. I'm—blank, nothing's written on it that you can see, anyway. But you would not expect it necessarily to have lasted, and sort of tucked away um you know, on a bench. And then anything else you wanted to—what else did you want to search?"
+        },
+        {
+          "startUid": "u0464",
+          "endUid": "u0465",
+          "quote": "Wellby: Let's see, we talked about the two dormitories, the two workshops. I'd love to stick my head down the well, in case it's an extra like escape route in an emergency."
+        },
+        {
+          "startUid": "u0479",
+          "endUid": "u0479",
+          "quote": "DM: Um, I think at this point you've probably spent about an hour, and you need to be getting back. You now only have about two hours until sunset."
+        },
+        {
+          "startUid": "u0480",
+          "endUid": "u0481",
+          "quote": "Wellby: I relay all of this to all of you. Show you the journal, the sheet of paper."
+        }
+      ],
+      "from": "p02",
+      "to": "p02",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p03",
+          "reading": "Searches the dormitories and finds a diary."
+        },
+        {
+          "place": "p04",
+          "reading": "Searches surviving workshops and finds vellum."
+        },
+        {
+          "place": "p05",
+          "reading": "Looks down the well behind the bath house; no descent established."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM says about an hour spent scouting"
+      }
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0464",
+        "endUid": "u0477"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby sees the dry cistern and its inflow/outflow while looking down the well.",
+      "evidence": [
+        {
+          "startUid": "u0464",
+          "endUid": "u0465",
+          "quote": "Wellby: Let's see, we talked about the two dormitories, the two workshops. I'd love to stick my head down the well, in case it's an extra like escape route in an emergency."
+        },
+        {
+          "startUid": "u0466",
+          "endUid": "u0475",
+          "quote": "DM: Ah, OK, the well. The one that was sort of back behind the bathhouse? Yeah, um, yeah. It connects—that it, it, it goes down at that—it's dry now, but it looks like it was connected to some sort of underwater—underground cistern water works, so you stick your head down, and you can see—well, you can't really. I guess you could drop your driftglobe down, and then it would bounce back up, because if it's more than 60 feet away from you, it goes to within 60 feet. So there's like a large empty cistern at the bottom of the well, and seems to be connected to a—like a—an inflow tunnel and another outflow tunnel, all dry now. There's—possibly connecting to the bathhouse somehow, although there's no well in the bath house or possibly connecting to the fountain that you saw that's, that's here, that's sort of in the middle."
+        },
+        {
+          "startUid": "u0477",
+          "endUid": "u0477",
+          "quote": "DM: Yeah, that's the idea. All right."
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0510",
+        "endUid": "u0528"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The reunited party goes to the courtyard fountain and investigates it.",
+      "evidence": [
+        {
+          "startUid": "u0510",
+          "endUid": "u0510",
+          "quote": "Wellby: Let's take a look to a closer look at the fountain before we go into the tower."
+        },
+        {
+          "startUid": "u0518",
+          "endUid": "u0528",
+          "quote": "DM: So the central courtyard here is—it has the spiral labyrinth, a path that twists in a spiral in towards the center, made of crushed stone, sort of decorative. With these stone baths—the stone benches, sorry—on the sides. The fountain itself is still—water is still flowing and seems to, um—although some of the, the stone benches have been, you know, sort of—the orcs have like chipped at them, and there's one that has like graffiti scrawled on it. I'm—the fountain itself seems to be still pure water and not particularly harmed in any way. And there's like—I'm—trickles of water that flow out from the fountain and collecting in small streams that flow towards the benches on the outside of the labyrinth and then collect in these pools. But the water doesn't go anywhere from there, and you can't see any—there's no like waterworks mechanism here. I'm—I'm—"
+        }
+      ],
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0590",
+        "endUid": "u0639"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reaches the tower exterior and examines the tower and Hall entrances.",
+      "evidence": [
+        {
+          "startUid": "u0590",
+          "endUid": "u0593",
+          "quote": "DM: Um, yeah, that took about 15, 10–15 minutes, and now you have like an hour and 45 minutes till sunset. So, as you approach the tower—and so, so the tower and the, and the Hall of Stories are, are connected, so the tower stands maybe five, six stories tall, and in the front. And it is, like everything in this complex, made of sandstone and, and decorated, carved in sort of intricate shapes that run up an abstract geometric shapes running up the side of the tower."
+        },
+        {
+          "startUid": "u0634",
+          "endUid": "u0639",
+          "quote": "DM: The tower connected to the Hall of Stories, which is sort of behind it. And the hall of story is, is—so there's a, there's like the tower that goes up, and then there's like connecting from the tower on the ground floor into the Hall Stories. Hall Stories itself is maybe like two and a half stories tall. I'm—facing the fountain, so facing you on the tower, are these large double doors, wooden doors that are closed. And then you know from Wellby-hawk's scouting that there are also two doors into the Hall of Stories itself, bypassing the tower."
+        },
+        {
+          "startUid": "u0640",
+          "endUid": "u0640",
+          "quote": "Delwath: Is any magic anything with magical? The doors, the sculptures?"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "note": "Exterior approach; tower entry is separately established in l08."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0640",
+        "endUid": "u0700"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "Delwath checks the Hall’s exterior side doors; Kenzo tries a warded door and recoils from its flash without entering.",
+      "evidence": [
+        {
+          "startUid": "u0654",
+          "endUid": "u0654",
+          "quote": "Delwath: I will walk around the whole building just quickly."
+        },
+        {
+          "startUid": "u0655",
+          "endUid": "u0656",
+          "quote": "DM: Okay, both of the doors are magical. The—not the door into the tower. The other two doors are magical."
+        },
+        {
+          "startUid": "u0674",
+          "endUid": "u0676",
+          "quote": "DM: It seems to be solidly locked. It's like it doesn't move when you push on it at all."
+        },
+        {
+          "startUid": "u0687",
+          "endUid": "u0689",
+          "quote": "Kenzo: Kenzo's kind of watching Delwath pushing against the door, and Kenzo kind of walks over. Should I try? Let me give it a shot as a new initiate of Mystai of Bhishma. Maybe that's something."
+        },
+        {
+          "startUid": "u0691",
+          "endUid": "u0691",
+          "quote": "Kenzo: Kenzo reaches over and put his hand on the door and tries to give it a push."
+        },
+        {
+          "startUid": "u0694",
+          "endUid": "u0698",
+          "quote": "DM: So, as you sort of grasp onto it and sort of tried to try to pull the door open, it doesn't—it does not move. And this—you, you feel this sort of radiant heat kind of collecting and then—I'm—almost like blasting out from the handles. A—just like a brief flash of this radiant energy, which you jump out of the way before it strikes you."
+        },
+        {
+          "startUid": "u0700",
+          "endUid": "u0700",
+          "quote": "Kenzo: Okay. Apparently doesn't seem to matter if you're in Mystai."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "interrupted",
+      "note": "The attempted shortcut does not establish entry into the Hall."
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0766",
+        "endUid": "u0821"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The ghost gatekeeper recognizes Kenzo and admits all four companions into the tower.",
+      "evidence": [
+        {
+          "startUid": "u0766",
+          "endUid": "u0778",
+          "quote": "DM: So, as you pull this ponderous wooden door open, it begins—it begins to swing, swing out. Drifting forward are four ghostly figures. They are—it's hard to see their features because there's—they're robed and hooded, and the hoods are covering, covering their faces. And they're holding their arms kind of in their sleeves a little bit like this. One holding a quarter staff. One—two holding quarterstaffs, the other two unarmed. And as the door swings open, they drift forward and kind of form a phalanx blocking the door. And one holding a staff kind of comes forward and stands on the stairs and puts the staff down in front, and you hear this kind of ghostly sort of faint voice echoing: Turn back. This tower is protected."
+        },
+        {
+          "startUid": "u0783",
+          "endUid": "u0786",
+          "quote": "Kenzo: Are your posture, like I mean because, you know, also you don't remember how like Lakan Mystai have like—yeah. It does, it does. He gives, he gives them the some."
+        },
+        {
+          "startUid": "u0800",
+          "endUid": "u0802",
+          "quote": "Kenzo: Seek knowledge. We seek to understand what happened thirty years ago."
+        },
+        {
+          "startUid": "u0818",
+          "endUid": "u0821",
+          "quote": "DM: As the last of you enter the tower, the doors slam shut behind you, and the, the ghostly figures fade almost into the walls you, it seems like to you. It's hard to say. They kind of sort of drift back, and what you're looking at right now as you come into the—"
+        }
+      ],
+      "from": null,
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0862",
+        "endUid": "u0875"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party glances into the ground-floor library and study while proceeding toward the Hall.",
+      "evidence": [
+        {
+          "startUid": "u0862",
+          "endUid": "u0864",
+          "quote": "Seeker: I, I'll just push and pull on one of the doors as we go past, to see if anything—I can see anything it."
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0872",
+          "quote": "DM: The door, so you, you push on a door as you go past, and it swings open. I'm—one of the ones on the right. This seems to be—just glancing past, it looks like perhaps a library, although few books remain. It's like empty shelves, basically, but it seems like one big room. I'm—all three doors connect to this one big room. Ah, other side is similar like all three doors connect to this one big room, which looks like a study. There's like reading desks, like carrels where you could put a book in and read it, a small table, a few empty shelves."
+        },
+        {
+          "startUid": "u0874",
+          "endUid": "u0875",
+          "quote": "DM: I mean, you're just glancing in as you walk past. Hard to say."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0878",
+        "endUid": "u0899"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party follows the tower passage into the Hall of Stories.",
+      "evidence": [
+        {
+          "startUid": "u0878",
+          "endUid": "u0887",
+          "quote": "DM: Okay, so, um, you walk forward and open the, the large doors that at the end of the hall, and this, this enters into our sort of a short passage way. Some windows slits allows the late afternoon sun to shine down, and there's another door just shortly beyond that. Seems like, again, perhaps once—seems like a relatively straightforward passageway into the Hall of Stories from this tower. The door is not magical. Neither doors magical. Um, so, as you push forward—"
+        },
+        {
+          "startUid": "u0888",
+          "endUid": "u0899",
+          "quote": "DM: Opening the doors that lead into the Hall of Stories, you see in front of you a massive chamber. The building just consists of one enormous open room. And the way it's been designed, the high ceilings and then windows cut into the top allow the light to cascade down, letting light stream into the room and yet keeping the ceiling in shadow, giving you a feeling that there's like an endless expanse above you. Throughout the room there's about 10 tall pillars—roughly that I can—maybe 10–12 tall pillars that are sort of lined up in rows. I'm—stretching up all the way, as far as you can tell, into the light of the ceiling. All written—carved with names, some large, some very small, just thousands and thousands of names carved on these pillars as—well, at the moment you're 10–15 pillars, and all you can—you just get the sense of names. I'm—as you step into the room, the—I need everybody to make a Perception check and a Charisma saving—oh geez."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u0912",
+        "endUid": "u0953"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker’s library recollection opens into a young initiate’s remembered library and walk through the monastery to initiation.",
+      "evidence": [
+        {
+          "startUid": "u0912",
+          "endUid": "u0923",
+          "quote": "DM: So you see as the scene that you're looking at fades, you see for a brief moment, I'm—a young dwarf sitting in a library reading. Just a flicker of that image. And then the scene sort of begins to, to morph and shift, and you see before you instead—the dwarf, the young dwarf turns into—who was, Seeker, you recognize as yourself, turns into a monk sitting in the library that you just passed through, reading a book, but seemingly distracted, looking up every now and then. I'm—anxious about something."
+        },
+        {
+          "startUid": "u0924",
+          "endUid": "u0930",
+          "quote": "DM: Until a moment later, the door opens and another monk comes in and says, it's time. And the first monk looks nervous and puts down his book and—are you sure I'm ready? Yes, you'll do fine. Just remember what you've read. Remember the story of Bhishma. I have faith in you. And they begin to walk out of the monastery."
+        },
+        {
+          "startUid": "u0934",
+          "endUid": "u0945",
+          "quote": "DM: I'm—they're Dunmari. Um, it's hard to tell exactly when this is happening, but the live—the study is full of books. Um, you know, the—everything is, you know, there's activity as the monks—two monks walk out of the tower and begin to walk across the monastery. There's you know there's people crossing back and forth. You can hear the bells of the tower ringing. You can hear you know the sound of the fountain, you can hear water trickling from the little streams that run down as you walk past. And then, you know, you, you—the, the collapsed stairs of the dining room are intact. And there seems—as you follow this monk—I'm—walking forward, you—there seems to be a little small group of, of other young monks, men and women of each are sort of gathered outside of the, of the door that you must pray for it to open."
+        },
+        {
+          "startUid": "u0946",
+          "endUid": "u0953",
+          "quote": "DM: And as they pray, the door swings open, and they all put on robes and anoint themselves with oil and, I'm—take some of the holy water. And then, as, as they begin to step into the, the, the sort of antechamber to Hall of Initiation, there's an older monk there wearing dark robes who starts to give a speech and as, as, as the older monk begins to talk, you sort of lose the thread a little bit, in, and this, the feeling of sort of nervousness and uncertainty. Can't remember the words exactly that they were—that the monk was saying. And as, as this was happening, you have this feeling that you are in somebody's memory. You're watching what they remember of this day, of the day of their initiation."
+        }
+      ],
+      "place": "p14",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "context": "vision"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u0999",
+        "endUid": "u1053"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Delwath leads the group through Karmana’s memory of defending the monastery doors and returning as a ghost to store the memory in the Hall.",
+      "evidence": [
+        {
+          "startUid": "u0999",
+          "endUid": "u1010",
+          "quote": "DM: Okay, make a, make a Charisma check. So, as, as the—as this old—this monk is kind of droning on a little bit, and the memory of the young initiate-to-be is turning, you know as faded from the speech and as—I'm—turning to you know his worries about what's going to happen next, Delwath kind of reaches out and the scene shifts. And for a minute, you see a battlefield. I'm—dead elves, dead hob goblins scattered across. One elf kind of beginning to push himself up from among the dead, wipe his face. And then the scene shifts, and you are standing outside the monastery."
+        },
+        {
+          "startUid": "u1011",
+          "endUid": "u1024",
+          "quote": "DM: You are strong. You are fighting what seems like a sea of undead. Skeletons 20, 30 more of them coming for the doors, some blasting with magic, and your companions are falling around you. The, the small group of monks that are sort of guarding the doors—to the dark version here—the small group of monks that are guarding the doors begin to fall. One, two, three. The scallop—the skeleton army parts, and walking down among you know, with 10—the 10–15 skeletons that are surviving is a skeletal creature, but with intelligence in its eyes."
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1053",
+          "quote": "DM: Bhishma will watch over your souls. And as they coalesce into spirit form, um, you drift, passing through walls, passing into the Hall of Stories, remembering the darkness that lurks there, feeling the spider web of memories, and then reaching out and placing one gently into the web. And then blackness."
+        }
+      ],
+      "place": "p01",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "context": "vision",
+      "observedActors": [
+        "Karmana"
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1098",
+        "endUid": "u1116"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees a domed chamber, Dimitaur, and a green figure in shadow through the monks’ memory.",
+      "evidence": [
+        {
+          "startUid": "u1098",
+          "endUid": "u1116",
+          "quote": "DM: So, so—I'm—all of you remember this story that Seeker told once of his dead brother, and for a minute you are there, standing, you know, on the, on the, on the, on the mountain side. I'm—the, you know, considering the, you know, the forbidden knowledge of, of, of Frank, Frankar. And then the scene fades, and you are—I'm—looking across a large circular room with a high and domed roof, towards shadows. A small, lizard-like winged creature, scales a faded purple trending to pale white, like a threadbare purple robe stretched thin over frosted glass—I'm—flies out of the shadow towards you—I'm—pacing slowly back and forth. You kneel, see a glimpse in the shadows of something green, and a voice begins to crack, echo out a little bit, um, but the words don't mean anything to you. You don't understand the words. But you kneel before it, and your companion looks up as this creature in the shadows is speaking, and his face looks in awe."
+        },
+        {
+          "startUid": "u1437",
+          "endUid": "u1440",
+          "quote": "DM: That is entirely—be—the—what, what you actually saw in the vision was not Rai—was a shadowy something. Dimitaur came out of it, and then a voice and a glimpse of jade and right? But that makes more sense."
+        }
+      ],
+      "place": "p16",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "context": "vision",
+      "observedActors": [
+        "Dimitaur",
+        "unidentified green figure"
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u1118",
+        "endUid": "u1158"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The memory follows monks out through the ruined city identified as Drankor, north along a river to high cliffs at nightfall.",
+      "evidence": [
+        {
+          "startUid": "u1118",
+          "endUid": "u1128",
+          "quote": "DM: You turn and leave, confused, until your companion says, I know what we have to do. I know how we can fix what's gone wrong with our country. And you step out from the—from this room into a ruined city, a vast ruined city. Stone like just monumental architecture everywhere, almost too enormous to take in. Temples, a giant statue, huge coliseum, a long, open, paved road wide enough for five horses to ride abreast. And you huddled together with your companions as you, as you hurry out of this city."
+        },
+        {
+          "startUid": "u1144",
+          "endUid": "u1145",
+          "quote": "DM: I will, I will help you convince the masters. And you're right—now you're riding north—"
+        },
+        {
+          "startUid": "u1147",
+          "endUid": "u1154",
+          "quote": "DM: Through a—along a river through a coastal plain. And as night falls, you see in front of you on cliffs rising out of this coastal—not really plain. There's like lots of vegetation. This is lush, right? There's almost—junk out—savannah jungle, right? Like parts in, in to the left and right, you can see, you know, dense jungles spreading around. Right around the river valley is more rough terrain, more like savannah. But then you come to cliffs in front of you that rise steeply into the hundreds of feet into the air. And that is where the memory ends."
+        },
+        {
+          "startUid": "u1155",
+          "endUid": "u1155",
+          "quote": "Delwath: Did the city look at all like Drankor?"
+        },
+        {
+          "startUid": "u1158",
+          "endUid": "u1158",
+          "quote": "DM: Yes, Drankorian architecture."
+        }
+      ],
+      "place": "p15",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "context": "vision",
+      "note": "The river valley and cliffs are p17. These are viewed travels, not party arrivals."
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u1293",
+        "endUid": "u1339"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath follows a commander’s memory of desertion from an army camp near Drankor, followed by a montage of other fleeing soldiers.",
+      "evidence": [
+        {
+          "startUid": "u1293",
+          "endUid": "u1304",
+          "quote": "DM: You—so, so, as you, as you reach—as you hold this kind of thought and reach out for this memory, um, you feel something outside the memories reaching as well. Some, some other force that is here that kind of latches on to the darkness that you're imagining. I—then the scene shifts, and you are walking towards the campfire. There is—so there's a, there's a, there's a—it's like a camp fire of an army. This is sort of familiar to, to Delwath, anyway, from your time as a quartermaster. It's night, with an army camped on a—on an open field along a river."
+        },
+        {
+          "startUid": "u1305",
+          "endUid": "u1326",
+          "quote": "DM: The air is warm. It's a, it's a summer night. The breeze is blowing, but the atmosphere is tense. And as you approach you, you're—you can feel now, you—towards your troops, a command—you're a commander, a leader of this particular division of the army. And people are nervous, and you're nervous too. And you approach them, and you begin whispering in Dunmari to several of them, this is a mistake. We should turn back. I know, I know that is not what we are taught. That is not how an army should behave. But fighting on the edge of Drankor now seems like a terrible idea. We should be protecting the borders. Trust me, this is not what we want to be doing. Dasa is wrong. Please, I want you all to live. And as you turn—and then, we must, we must go now, in the night, before the battle is, is."
+        },
+        {
+          "startUid": "u1328",
+          "endUid": "u1339",
+          "quote": "DM: And you're now riding, and you see now a quick succession of images of 15, 20, 30 different people all running from battle. Whether because, like this commander who doesn't want to fight in Drankor and think some ruler name Dasa's wrong, they think they're doing the right thing, or whether they're just afraid, or whether they are—whether they are, you know, just to, you know, unwilling to risk their lives, selfish, greedy—I'm—caught in the moment of fear. Just three, four, five, ten, fifteen memories in quick succession of fleeing battle. And then stabilize again, and there is now an argument."
+        }
+      ],
+      "place": "p18",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "context": "vision"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u1340",
+        "endUid": "u1392"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The remembered scene changes to two masters arguing at the monastery about the expedition’s risk.",
+      "evidence": [
+        {
+          "startUid": "u1340",
+          "endUid": "u1347",
+          "quote": "DM: I'm—a woman, an old monk, an older woman—I'm—a master, saying, this is too great a risk. Arguing with—standing now in this monastery, arguing with somebody. I know some great sorcerer of the past thinks that we can do this. But what if we fail?"
+        },
+        {
+          "startUid": "u1386",
+          "endUid": "u1392",
+          "quote": "DM: How do you know that if this fails, things will not get worse? And the other monk says, but council has decided. Some must stay to protect the monastery, but we have to try this. It's our best chance. And then they hug in and she's like, I hope to see you again. And the memory fades."
+        }
+      ],
+      "place": "p01",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "context": "vision"
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u1452",
+        "endUid": "u1513"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby’s memory thread opens into a family campsite on the plains; the father narrates his earlier journey south.",
+      "evidence": [
+        {
+          "startUid": "u1452",
+          "endUid": "u1474",
+          "quote": "DM: Okay, make Charisma saving—okay, so—I'm—scene shifts, and, and again as, as always, you see Wellby briefly, and then you see—I'm—sitting in a, in a camp—you are, you are on the plains, herd of goats around you. The camp fire—it's, it's the middle of summer, it's warm, and, and you're roasting, you know, roasting some freshly hunted antelope over the fire, and the smells of the antelope roasting. And as you come to this memory, you, you realize it's the memory of a maybe a teenager like a youngish person who is now turning to listen to the stories that their grandfather is telling. And there's old guy kind of walks up and he starts talking about when he used to travel, back in the day when, when he was young—well, younger. And he says—"
+        },
+        {
+          "startUid": "u1476",
+          "endUid": "u1484",
+          "quote": "DM: I guess it's not a grandfather, it's like the kid's father, right? Because if his grandfather be too far in the past; he wouldn't get this memory in here, um. And he says—and he starts to, he starts to talk about the longest journey he ever took, which was traveling south with some monks a few years ago, maybe, maybe 10 years ago, just before he was born—the kid who you're talking to was born—and—"
+        },
+        {
+          "startUid": "u1505",
+          "endUid": "u1513",
+          "quote": "DM: Drankor's on the map, yep. I'm—haha—till we got to these cliffs right about here. And he's you know, describing the journey, basically, and you get the sense this was something that happened, you know, maybe 10 years ago, so there was—and, and from the implication of the fact that the memory is stored, this person must have—this kid must have met up with monks before the monastery failed, so they must have talked—they must have taken this journey, um, some time before they attempted whatever they attempted. And, and you get, like, you can pick up from this memory, Wellby paying attention, like some details, right? So should you ever wish to make the journey to Drankor, you would have some information that might be useful in terms of like where there's water and how to get to the desert and things like that. But in the interest of time, and the fact that I didn't write a long narration for this—"
+        }
+      ],
+      "place": "p19",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "context": "vision"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u1532",
+        "endUid": "u1575"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo’s memory thread shows soldiers fleeing a shadow army, then expands into another mind’s apocalyptic fears.",
+      "evidence": [
+        {
+          "startUid": "u1532",
+          "endUid": "u1535",
+          "quote": "DM: So you have begin to imagine that sort of feeling of this sense of purpose. And the scene shifts, and you see—I'm—before you a vast battlefield."
+        },
+        {
+          "startUid": "u1537",
+          "endUid": "u1548",
+          "quote": "DM: Everything is dark. The sun is not shining. It's—whether it's night or just an endless darkness is hard to tell. In the distance, you can see, you can see, like clouds of red mist kind of clumping on the horizon. Great—and you are, you are in a, in a line of cavalry charging against this enormous wall of just all sorts of evil creatures like some hobgoblins, yes, but demons—I'm—some undead, just like a many, many, many sort of shadow creatures, like—I'm—like almost humanoid shadows that are kind of lined up. And you charge, and the charge breaks, and you retreat and charge again, until—make a Wisdom saving throw. Ah, until one of the shadows strikes you."
+        },
+        {
+          "startUid": "u1549",
+          "endUid": "u1567",
+          "quote": "DM: Ah, taking six points of psychic damage. And the charge breaks, and these—and you turn and flee, unable to withstand the terror of this—of these shadows swarming out of the darkness behind you. And you can see, as you turn to flee this memory, um, it's almost like you have this sort of mirror vision. Like, every—like a kaleidoscope almost of every vision of this battle. Every—like from 10–15 different perspectives. Everybody who fled, the only ones who came back alive, those who broke and, and fled and—I'm—memories. Different memories: sadness, shame, hatred, fear—I'm—just every dark emotion you can, you can think of. And you can—you see this kind of vision, not so much a memory, but what you sense is, is now the kind of fears of another mind, of this horde sweeping across the land, the Dunmari gone forever, none alive. Just death and destruction pouring out of, pouring out of Dunmar and, and conquering the world, and the sun never rising and very dark vision of apocalypse—I'm—building upon these memories of the fear and, and terror of this battle."
+        }
+      ],
+      "place": "p20",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "context": "vision"
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u1665",
+        "endUid": "u1734"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker follows an apprentice from the dormitories past the fountain to the cloister roof to overhear the masters’ council.",
+      "evidence": [
+        {
+          "startUid": "u1665",
+          "endUid": "u1675",
+          "quote": "DM: The darkness fades. I'm—I'm—the sense of dread, of the extinction of the Dunmari and the end of civilization, fades. And you see—I'm—in now a, a small, like, bedchamber like, like just a small room with a, with a bare cot and you know, a chest enough and some clothes and like, like basically like a monk's, you know, like a dorm room, whatever. And tossing and turning, unable to sleep. I'm—a young apprentice who then gets up and walks out of the dormitories and begins to walk in circles around the—it—after his monastery, in circles around the fountain, unable to sleep. I'm—"
+        },
+        {
+          "startUid": "u1676",
+          "endUid": "u1688",
+          "quote": "DM: Hearing noises from the, from the, the pentagon, from the chamber beyond the hall—the Halls of Initiation, he turns, kind of looks at the fountain in the middle of the, of the, of the, of the circle, right, the fountain that you saw—kind of gives it a little look and then heads for the, for the wall. Um, this is, you know this monk, whoever they are, clearly a fairly dexterous and acrobatic monk, because you have the memory of scaling up the wall and sort of lying on, on the roof of the cloisters where you can see, and well, you can't see, but you can hear what's happening in the open space in the middle. And there's a debate going on."
+        },
+        {
+          "startUid": "u1689",
+          "endUid": "u1703",
+          "quote": "DM: You don't quite—with the wind and, and you know, conversation trying to—you know, they're not being super loud, right? They're trying to be not exactly stealthy, you know, you know. Everybody's not whispering, but it's not shouted to the wind, so you don't catch every bit. But you remember the feeling of uncertainty and fear as it slowly dawns on you that, that what they're discussing is an expedition to the east to find something that will—and you sort of get lost a little bit on the metaphysics. But there's some sort of infiltration, some kind of tendrils of corruption left behind by the events many years ago that are not of this world that are."
+        }
+      ],
+      "place": "p14",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "context": "vision"
+    },
+    {
+      "id": "l20",
+      "type": "presence",
+      "source": {
+        "startUid": "u2066",
+        "endUid": "u2082"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The visions fade; the party remains physically in the darkening Hall as the presence’s despair grows.",
+      "evidence": [
+        {
+          "startUid": "u2066",
+          "endUid": "u2082",
+          "quote": "DM: Sitting in the darkness having this conversation, you can feel the sort of madness of the—of this—so you—as you shifted—Seeker shifted the image to this apprentice listening in on the masters, um, but then, as that faded, you can, you can feel the sort of madness of the—of this—well, not exactly menace—the despair of this dark entity that also seems to be trapped here—growing. And it's—you, you get the feeling that you probably don't want to sit here much longer in the darkness talking as the, as the—so as the vision fades, right, it's, you know, that's—now, now you probably have about an hour until sunset, having spent about 40 minutes in the, in the temple and, and the sun has now sunk low enough that only the top part of the, of the, of the monastery is lit, and there's deep shadows kind of falling across the, the ground where you are, cast by these large pillars. And you can feel this just sense of despair getting stronger."
+        }
+      ],
+      "place": "p09",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "l10"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2085",
+        "endUid": "u2098"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the Hall, returns through the tower library, and climbs to the second-floor writing room.",
+      "evidence": [
+        {
+          "startUid": "u2085",
+          "endUid": "u2085",
+          "quote": "DM: Now you head out, you leave the, the hall."
+        },
+        {
+          "startUid": "u2087",
+          "endUid": "u2089",
+          "quote": "DM: So, returning to the, to the tower. So there's—so, so you pass the library and the study. There's stairs up in both, in both of those rooms."
+        },
+        {
+          "startUid": "u2092",
+          "endUid": "u2098",
+          "quote": "DM: So they both, they both actually lead to the same, the same place. The second floor is a large open room filled with writing desks, maybe 10 in total, with shelves with like little like scroll cubbies around the side. It—um, most of the them are empty, although a few have, again, another couple of those blank scrolls that you saw before or that you found the vellum one; these are parchment, seem you know, perhaps somewhat less elaborate—elaborately prepared than the, than the vellum one you find in the workshop. On—the writing desks are ink-stained and clearly well-used, and there is a—the stairs up as well from here."
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p10",
+          "reading": "Returns through the library to the stairs."
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2141",
+        "endUid": "u2196"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party climbs another floor, triggers lightning at the stone doors, and searches the library beyond.",
+      "evidence": [
+        {
+          "startUid": "u2141",
+          "endUid": "u2145",
+          "quote": "DM: Okay, so you continue up the tower. The next floor, you come out into a sort of an empty chamber, tiled with an abstract design of flowing—stairs continuing up, and two large stone doors—I'm—standing on the far side of the chamber, entry to some sort of room which must take up most of the floor."
+        },
+        {
+          "startUid": "u2148",
+          "endUid": "u2149",
+          "quote": "DM: Okay, the—let's see, everybody make a Dex save."
+        },
+        {
+          "startUid": "u2176",
+          "endUid": "u2179",
+          "quote": "DM: Um, so as the doors open, you can see beyond them another library, several large stone shelves—I'm—mostly all empty, with like chains hanging off of them. That seems to be where like the secret or more magical books were stored, that were like chained up and, and kept protected. And there's a smaller shelf that contains cubbies for scrolls."
+        },
+        {
+          "startUid": "u2184",
+          "endUid": "u2192",
+          "quote": "DM: I'm—so, can—use—you do find—I'm—searching around, among, among all of you, it now being 40 minutes until sunset, three spell scrolls that have been sort of tucked—"
+        },
+        {
+          "startUid": "u2194",
+          "endUid": "u2196",
+          "quote": "DM: Let me see. I think—let's see. Seeker recognizes them all. They are Tongues, Sending, and Speak with Dead."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2268",
+        "endUid": "u2315"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party ascends through the council chamber to the top-floor hallway, opens a bedroom, and meets Karmana.",
+      "evidence": [
+        {
+          "startUid": "u2268",
+          "endUid": "u2281",
+          "quote": "DM: Just the scrolls. The next floor up is like, is like a meeting room, a council chamber. Large table in the center, a few chairs, but otherwise empty. And when you head out to the final floor, the—this seems to be—so every other floor that you've passed through has been like one large room or a few large rooms. When you come up the final stairs to the top, you come into a small entry way, a hallway with a, with a door that leads into a like an archway open door that leads into a corridor with three doors: one, the left, um, one straight ahead, and one to the right. And you can hear faintly, from the, from the straight ahead—the room straight ahead—a sort of almost like a faint, faint breeze like a rustling, like—nothing to distinct, but like you know sort of faint, faint sort of breezy rustling sound."
+        },
+        {
+          "startUid": "u2300",
+          "endUid": "u2303",
+          "quote": "DM: So, as the door swings open, you can see that this was a bedroom. There's a simple wooden bed, not particularly ornate, a wardrobe that similarly plain, and a small table with a brass candelabra on it, holding—designed to hold six thin tapers, and an ivory box that has been—that is carved with a rendition of riders on horseback herding flocks of goats. And drifting across the bed, sort of pacing back and forth but moving through the bed each time a paces back and forth, is a ghostly figure who turns to look at you, surprised, as you enter."
+        },
+        {
+          "startUid": "u2603",
+          "endUid": "u2603",
+          "quote": "DM: This is the top floor."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Passes the fourth-floor council chamber and reaches the top-floor hallway."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-023",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-session.yaml",
+    "sessionYamlSha256": "2af7123169ef912e597e5cb987fbf0aeca3ac2a38ac8dc31266ba546e7132574",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-transcript.md",
+    "transcriptSha256": "5915da8115c21d95138adb58558b0010a254ba01e40de6bd1a7af8427f7cecea"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0017"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0593"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0594",
+        "endUid": "u0633"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0634",
+        "endUid": "u1766"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1767",
+        "endUid": "u2065"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2066",
+        "endUid": "u2603"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2604",
+        "endUid": "u2888"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2889",
+        "endUid": "u2891"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

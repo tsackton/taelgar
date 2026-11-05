@@ -1,0 +1,609 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-023",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-session.yaml",
+    "sessionYamlSha256": "2af7123169ef912e597e5cb987fbf0aeca3ac2a38ac8dc31266ba546e7132574",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-transcript.md",
+    "transcriptSha256": "5915da8115c21d95138adb58558b0010a254ba01e40de6bd1a7af8427f7cecea",
+    "yamlDates": {
+      "start": "1748-05-11",
+      "end": "1748-05-11"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "reading": "Opening: Wellby and Delwath wait in the dining hall in late afternoon, about three hours before sunset.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "DM: So, for the moment, all is quiet in the late afternoon sun at the Monastery of Bhishma. About three hours before sunset. Wellby and Delwath are sitting in the middle of the main dining hall, waiting for Seeker and Kenzo to return from their journey deeper into the mysteries of the Monastery of Bhishma. About an hour ago, this was the lair of a manticore family. The bodies of the four dead manticores—two adults and two young—lie where you killed them, the foul smell of their blood beginning to drift through the large room in the still air. Outside, the distant banging of the sole survivor of the battle, left locked in the bath house, has faded. Because dead companions lying with the—[garbled]."
+        },
+        {
+          "startUid": "u0300",
+          "endUid": "u0300",
+          "quote": "DM: Three hours till sunset."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset on the current adventure day",
+          "offset": {
+            "value": 180,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM’s approximate narrated duration"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM’s stated time remaining before sunset",
+        "partOfDay": "late afternoon"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0025"
+      },
+      "reading": "Wellby and Delwath receive short-rest credit for the preceding hour of waiting; this is retrospective time before the opening reunion.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0025",
+          "quote": "DM: But I will, I will add that to the session notes or to Seeker's journal. Before you can explore the Hall of Stories, though, you'll have to find a way to get past the ghosts that your orc prisoner told you haunt the halls of the monastery, protecting its secrets. So, Delwath and Wellby, you've been sitting around for about an hour, so you can take a short rest if you want. And as you're contemplating your next move, Kenzo and Seeker return. So, Kenzo and, and Seeker, why don't you describe how you look as you emerge from the hall that you had journeyed down, back into this main dining area?"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM credits the hour already spent sitting"
+      },
+      "completion": "completed",
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0331",
+        "endUid": "u0355"
+      },
+      "reading": "Kenzo and Seeker rest while Wellby searches the monastery; Delwath also rests. The concurrent hour ends about two hours before sunset.",
+      "evidence": [
+        {
+          "startUid": "u0351",
+          "endUid": "u0351",
+          "quote": "Kenzo: I'll roll. Let's—what are, what are—"
+        },
+        {
+          "startUid": "u0353",
+          "endUid": "u0353",
+          "quote": "DM: Click on short rest in D&D Beyond. There's a little button that says Roll Dice, right?"
+        },
+        {
+          "startUid": "u0392",
+          "endUid": "u0393",
+          "quote": "Wellby: Tim, can I scout while they're resting and healing?"
+        },
+        {
+          "startUid": "u0394",
+          "endUid": "u0394",
+          "quote": "DM: Yeah, Yeah, sure. Where do you want to scout?"
+        },
+        {
+          "startUid": "u0400",
+          "endUid": "u0401",
+          "quote": "Delwath: Cost anything. I could take a second short rest, get my stuff back."
+        },
+        {
+          "startUid": "u0414",
+          "endUid": "u0417",
+          "quote": "DM: So, um, I use—you spend, I guess, what, most of the hour searching, or do you want to go somewhere else?"
+        },
+        {
+          "startUid": "u0479",
+          "endUid": "u0479",
+          "quote": "DM: Um, I think at this point you've probably spent about an hour, and you need to be getting back. You now only have about two hours until sunset."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM explicitly advances an hour; scouting occurs while the others rest"
+      },
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset on the current adventure day",
+          "offset": {
+            "value": 120,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM’s approximate narrated duration"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM’s stated time remaining before sunset"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0590",
+        "endUid": "u0593"
+      },
+      "reading": "The fountain investigation takes ten to fifteen minutes; the party approaches the tower about one hour forty-five minutes before sunset.",
+      "evidence": [
+        {
+          "startUid": "u0590",
+          "endUid": "u0593",
+          "quote": "DM: Um, yeah, that took about 15, 10–15 minutes, and now you have like an hour and 45 minutes till sunset. So, as you approach the tower—and so, so the tower and the, and the Hall of Stories are, are connected, so the tower stands maybe five, six stories tall, and in the front. And it is, like everything in this complex, made of sandstone and, and decorated, carved in sort of intricate shapes that run up an abstract geometric shapes running up the side of the tower."
+        }
+      ],
+      "duration": {
+        "min": 10,
+        "minInclusive": true,
+        "max": 15,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s elapsed investigation estimate"
+      },
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset on the current adventure day",
+          "offset": {
+            "value": 105,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM’s approximate narrated duration"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM’s stated time remaining before sunset"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0747",
+        "endUid": "u0751"
+      },
+      "reading": "While examining the tower exterior, a little more than an hour and a half remains before sunset.",
+      "evidence": [
+        {
+          "startUid": "u0747",
+          "endUid": "u0747",
+          "quote": "DM: You can spend a long time studying it, and given that you have only about—"
+        },
+        {
+          "startUid": "u0749",
+          "endUid": "u0749",
+          "quote": "DM: You know a little more than an hour and a half until sunset, um—"
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset",
+          "offset": {
+            "min": 90,
+            "minInclusive": false,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM says a little more than an hour and a half"
+          }
+        },
+        "precision": "approximate",
+        "basis": "Approximate exterior-investigation anchor"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0851",
+        "endUid": "u0851"
+      },
+      "reading": "Inside the tower, about one hour forty minutes remains before sunset.",
+      "evidence": [
+        {
+          "startUid": "u0851",
+          "endUid": "u0851",
+          "quote": "DM: You have about an hour and 40 minutes right now."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset on the current adventure day",
+          "offset": {
+            "value": 100,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM’s approximate narrated duration"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM’s stated time remaining before sunset"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0912",
+        "endUid": "u0923"
+      },
+      "reading": "Seeker’s personal library recollection gives way to an unnamed young monk’s initiation memory.",
+      "evidence": [
+        {
+          "startUid": "u0912",
+          "endUid": "u0923",
+          "quote": "DM: So you see as the scene that you're looking at fades, you see for a brief moment, I'm—a young dwarf sitting in a library reading. Just a flicker of that image. And then the scene sort of begins to, to morph and shift, and you see before you instead—the dwarf, the young dwarf turns into—who was, Seeker, you recognize as yourself, turns into a monk sitting in the library that you just passed through, reading a book, but seemingly distracted, looking up every now and then. I'm—anxious about something."
+        },
+        {
+          "startUid": "u0954",
+          "endUid": "u0962",
+          "quote": "DM: And you can see kind of floating around you now hundreds or thousands of memories, the thread of this one going forward, this sort of like golden-silvery trail which you could follow, but many others kind of branching out almost like a spider web glistening in dewdrops glistening with morning dew, of thousands of stories, images like this. And you feel like you could almost reach out and grab one if you could—if you could find something to connect you to that story, find one of your memories that would bring you to a story you wanted to find, you could travel along these webs. Or you could just grab at random."
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Seeker"
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0999",
+        "endUid": "u1010"
+      },
+      "reading": "Delwath’s battlefield recollection gives way to Karmana’s last defense of the monastery.",
+      "evidence": [
+        {
+          "startUid": "u0999",
+          "endUid": "u1010",
+          "quote": "DM: Okay, make a, make a Charisma check. So, as, as the—as this old—this monk is kind of droning on a little bit, and the memory of the young initiate-to-be is turning, you know as faded from the speech and as—I'm—turning to you know his worries about what's going to happen next, Delwath kind of reaches out and the scene shifts. And for a minute, you see a battlefield. I'm—dead elves, dead hob goblins scattered across. One elf kind of beginning to push himself up from among the dead, wipe his face. And then the scene shifts, and you are standing outside the monastery."
+        },
+        {
+          "startUid": "u1011",
+          "endUid": "u1024",
+          "quote": "DM: You are strong. You are fighting what seems like a sea of undead. Skeletons 20, 30 more of them coming for the doors, some blasting with magic, and your companions are falling around you. The, the small group of monks that are sort of guarding the doors—to the dark version here—the small group of monks that are guarding the doors begin to fall. One, two, three. The scallop—the skeleton army parts, and walking down among you know, with 10—the 10–15 skeletons that are surviving is a skeletal creature, but with intelligence in its eyes."
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1053",
+          "quote": "DM: Bhishma will watch over your souls. And as they coalesce into spirit form, um, you drift, passing through walls, passing into the Hall of Stories, remembering the darkness that lurks there, feeling the spider web of memories, and then reaching out and placing one gently into the web. And then blackness."
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Delwath"
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1098",
+        "endUid": "u1116"
+      },
+      "reading": "Frankar’s mountaintop recollection opens into the monks’ departure from the ruined city; their remembered journey reaches cliffs at nightfall, about thirty years before current play.",
+      "evidence": [
+        {
+          "startUid": "u1098",
+          "endUid": "u1116",
+          "quote": "DM: So, so—I'm—all of you remember this story that Seeker told once of his dead brother, and for a minute you are there, standing, you know, on the, on the, on the, on the mountain side. I'm—the, you know, considering the, you know, the forbidden knowledge of, of, of Frank, Frankar. And then the scene fades, and you are—I'm—looking across a large circular room with a high and domed roof, towards shadows. A small, lizard-like winged creature, scales a faded purple trending to pale white, like a threadbare purple robe stretched thin over frosted glass—I'm—flies out of the shadow towards you—I'm—pacing slowly back and forth. You kneel, see a glimpse in the shadows of something green, and a voice begins to crack, echo out a little bit, um, but the words don't mean anything to you. You don't understand the words. But you kneel before it, and your companion looks up as this creature in the shadows is speaking, and his face looks in awe."
+        },
+        {
+          "startUid": "u1147",
+          "endUid": "u1154",
+          "quote": "DM: Through a—along a river through a coastal plain. And as night falls, you see in front of you on cliffs rising out of this coastal—not really plain. There's like lots of vegetation. This is lush, right? There's almost—junk out—savannah jungle, right? Like parts in, in to the left and right, you can see, you know, dense jungles spreading around. Right around the river valley is more rough terrain, more like savannah. But then you come to cliffs in front of you that rise steeply into the hundreds of feet into the air. And that is where the memory ends."
+        },
+        {
+          "startUid": "u1217",
+          "endUid": "u1217",
+          "quote": "DM: 30 years ago."
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "partOfDay": "nightfall",
+        "precision": "approximate",
+        "basis": "Nightfall at the end of the viewed journey, not the observers’ clock"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1278",
+        "endUid": "u1304"
+      },
+      "reading": "The Hall shifts to a summer-night army camp in Dasa’s era, followed by a montage of other soldiers fleeing.",
+      "evidence": [
+        {
+          "startUid": "u1278",
+          "endUid": "u1286",
+          "quote": "DM: I didn't want to make it too hard. I'm—so the darkness lasts for a few long beats—have no—beats of, of your heart, and then—I'm—the scene shifts, and you see—I'm—you see a campfire that you are walking towards. Um, I should ask first, like, what are you—is there anything you're specifically trying to reach out here?"
+        },
+        {
+          "startUid": "u1293",
+          "endUid": "u1304",
+          "quote": "DM: You—so, so, as you, as you reach—as you hold this kind of thought and reach out for this memory, um, you feel something outside the memories reaching as well. Some, some other force that is here that kind of latches on to the darkness that you're imagining. I—then the scene shifts, and you are walking towards the campfire. There is—so there's a, there's a, there's a—it's like a camp fire of an army. This is sort of familiar to, to Delwath, anyway, from your time as a quartermaster. It's night, with an army camped on a—on an open field along a river."
+        },
+        {
+          "startUid": "u1305",
+          "endUid": "u1326",
+          "quote": "DM: The air is warm. It's a, it's a summer night. The breeze is blowing, but the atmosphere is tense. And as you approach you, you're—you can feel now, you—towards your troops, a command—you're a commander, a leader of this particular division of the army. And people are nervous, and you're nervous too. And you approach them, and you begin whispering in Dunmari to several of them, this is a mistake. We should turn back. I know, I know that is not what we are taught. That is not how an army should behave. But fighting on the edge of Drankor now seems like a terrible idea. We should be protecting the borders. Trust me, this is not what we want to be doing. Dasa is wrong. Please, I want you all to live. And as you turn—and then, we must, we must go now, in the night, before the battle is, is."
+        },
+        {
+          "startUid": "u1328",
+          "endUid": "u1339",
+          "quote": "DM: And you're now riding, and you see now a quick succession of images of 15, 20, 30 different people all running from battle. Whether because, like this commander who doesn't want to fight in Drankor and think some ruler name Dasa's wrong, they think they're doing the right thing, or whether they're just afraid, or whether they are—whether they are, you know, just to, you know, unwilling to risk their lives, selfish, greedy—I'm—caught in the moment of fear. Just three, four, five, ten, fifteen memories in quick succession of fleeing battle. And then stabilize again, and there is now an argument."
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "The remembered army camp is explicitly a summer night"
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1340",
+        "endUid": "u1347"
+      },
+      "reading": "A later monastery memory shows two masters disputing the planned expedition and ritual.",
+      "evidence": [
+        {
+          "startUid": "u1340",
+          "endUid": "u1347",
+          "quote": "DM: I'm—a woman, an old monk, an older woman—I'm—a master, saying, this is too great a risk. Arguing with—standing now in this monastery, arguing with somebody. I know some great sorcerer of the past thinks that we can do this. But what if we fail?"
+        },
+        {
+          "startUid": "u1386",
+          "endUid": "u1392",
+          "quote": "DM: How do you know that if this fails, things will not get worse? And the other monk says, but council has decided. Some must stay to protect the monastery, but we have to try this. It's our best chance. And then they hug in and she's like, I hope to see you again. And the memory fades."
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Delwath"
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1452",
+        "endUid": "u1484"
+      },
+      "reading": "Wellby’s family-memory thread shifts to a summer campsite where a father recounts his expedition; the DM corrects grandfather to father.",
+      "evidence": [
+        {
+          "startUid": "u1452",
+          "endUid": "u1474",
+          "quote": "DM: Okay, make Charisma saving—okay, so—I'm—scene shifts, and, and again as, as always, you see Wellby briefly, and then you see—I'm—sitting in a, in a camp—you are, you are on the plains, herd of goats around you. The camp fire—it's, it's the middle of summer, it's warm, and, and you're roasting, you know, roasting some freshly hunted antelope over the fire, and the smells of the antelope roasting. And as you come to this memory, you, you realize it's the memory of a maybe a teenager like a youngish person who is now turning to listen to the stories that their grandfather is telling. And there's old guy kind of walks up and he starts talking about when he used to travel, back in the day when, when he was young—well, younger. And he says—"
+        },
+        {
+          "startUid": "u1476",
+          "endUid": "u1484",
+          "quote": "DM: I guess it's not a grandfather, it's like the kid's father, right? Because if his grandfather be too far in the past; he wouldn't get this memory in here, um. And he says—and he starts to, he starts to talk about the longest journey he ever took, which was traveling south with some monks a few years ago, maybe, maybe 10 years ago, just before he was born—the kid who you're talking to was born—and—"
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Wellby"
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1532",
+        "endUid": "u1567"
+      },
+      "reading": "Kenzo’s battlefield memory turns into imagined future devastation; psychic harm occurs now, but the depicted apocalypse is not an established future event.",
+      "evidence": [
+        {
+          "startUid": "u1532",
+          "endUid": "u1535",
+          "quote": "DM: So you have begin to imagine that sort of feeling of this sense of purpose. And the scene shifts, and you see—I'm—before you a vast battlefield."
+        },
+        {
+          "startUid": "u1549",
+          "endUid": "u1567",
+          "quote": "DM: Ah, taking six points of psychic damage. And the charge breaks, and these—and you turn and flee, unable to withstand the terror of this—of these shadows swarming out of the darkness behind you. And you can see, as you turn to flee this memory, um, it's almost like you have this sort of mirror vision. Like, every—like a kaleidoscope almost of every vision of this battle. Every—like from 10–15 different perspectives. Everybody who fled, the only ones who came back alive, those who broke and, and fled and—I'm—memories. Different memories: sadness, shame, hatred, fear—I'm—just every dark emotion you can, you can think of. And you can—you see this kind of vision, not so much a memory, but what you sense is, is now the kind of fears of another mind, of this horde sweeping across the land, the Dunmari gone forever, none alive. Just death and destruction pouring out of, pouring out of Dunmar and, and conquering the world, and the sun never rising and very dark vision of apocalypse—I'm—building upon these memories of the fear and, and terror of this battle."
+        },
+        {
+          "startUid": "u1569",
+          "endUid": "u1571",
+          "quote": "DM: Well, I mean this started as the memory of, of a soldier who turned and fled from a shadow army with clouds of red mist hanging over it."
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Kenzo"
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1665",
+        "endUid": "u1688"
+      },
+      "reading": "An apprentice’s sleepless night becomes a remembered rooftop view of the council, roughly thirty years earlier.",
+      "evidence": [
+        {
+          "startUid": "u1665",
+          "endUid": "u1675",
+          "quote": "DM: The darkness fades. I'm—I'm—the sense of dread, of the extinction of the Dunmari and the end of civilization, fades. And you see—I'm—in now a, a small, like, bedchamber like, like just a small room with a, with a bare cot and you know, a chest enough and some clothes and like, like basically like a monk's, you know, like a dorm room, whatever. And tossing and turning, unable to sleep. I'm—a young apprentice who then gets up and walks out of the dormitories and begins to walk in circles around the—it—after his monastery, in circles around the fountain, unable to sleep. I'm—"
+        },
+        {
+          "startUid": "u1676",
+          "endUid": "u1688",
+          "quote": "DM: Hearing noises from the, from the, the pentagon, from the chamber beyond the hall—the Halls of Initiation, he turns, kind of looks at the fountain in the middle of the, of the, of the, of the circle, right, the fountain that you saw—kind of gives it a little look and then heads for the, for the wall. Um, this is, you know this monk, whoever they are, clearly a fairly dexterous and acrobatic monk, because you have the memory of scaling up the wall and sort of lying on, on the roof of the cloisters where you can see, and well, you can't see, but you can hear what's happening in the open space in the middle. And there's a debate going on."
+        },
+        {
+          "startUid": "u1704",
+          "endUid": "u1712",
+          "quote": "DM: And, and you sort of—you kind of remember—you remember the words, which you, Seeker, listening to the words, can make sense of, but you, apprentice listening to them 30 years ago, don't understand. It's describing—I'm—not exactly sort of like the equivalent of ley lines, but of some kind of, some kind of extraplanar realm that is not a pleasant one. Whether it's—nobody has quite a name for it, right? It's called in Dunmari, um, you know, the Evil Realm, but—or Cha'mutte's Realm. And the debate is about, can, can we close these? Can we, can we cut them? Can we seal them off?"
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "The apprentice leaves bed during a sleepless night"
+      }
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2066",
+        "endUid": "u2082"
+      },
+      "reading": "Return to current play in the dark Hall: about forty minutes have passed there and sunset is about an hour away.",
+      "evidence": [
+        {
+          "startUid": "u2066",
+          "endUid": "u2082",
+          "quote": "DM: Sitting in the darkness having this conversation, you can feel the sort of madness of the—of this—so you—as you shifted—Seeker shifted the image to this apprentice listening in on the masters, um, but then, as that faded, you can, you can feel the sort of madness of the—of this—well, not exactly menace—the despair of this dark entity that also seems to be trapped here—growing. And it's—you, you get the feeling that you probably don't want to sit here much longer in the darkness talking as the, as the—so as the vision fades, right, it's, you know, that's—now, now you probably have about an hour until sunset, having spent about 40 minutes in the, in the temple and, and the sun has now sunk low enough that only the top part of the, of the, of the monastery is lit, and there's deep shadows kind of falling across the, the ground where you are, cast by these large pillars. And you can feel this just sense of despair getting stronger."
+        }
+      ],
+      "duration": {
+        "value": 40,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s approximate narrated duration"
+      },
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset on the current adventure day",
+          "offset": {
+            "value": 60,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM’s approximate narrated duration"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM’s stated time remaining before sunset"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2184",
+        "endUid": "u2196"
+      },
+      "reading": "After the upper-library trap and search, about forty minutes remain before sunset.",
+      "evidence": [
+        {
+          "startUid": "u2184",
+          "endUid": "u2192",
+          "quote": "DM: I'm—so, can—use—you do find—I'm—searching around, among, among all of you, it now being 40 minutes until sunset, three spell scrolls that have been sort of tucked—"
+        },
+        {
+          "startUid": "u2194",
+          "endUid": "u2196",
+          "quote": "DM: Let me see. I think—let's see. Seeker recognizes them all. They are Tongues, Sending, and Speak with Dead."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset on the current adventure day",
+          "offset": {
+            "value": 40,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM’s approximate narrated duration"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM’s stated time remaining before sunset"
+      }
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2826",
+        "endUid": "u2830"
+      },
+      "reading": "During closing plans, the DM confirms that sunset is still about half an hour away; no overnight rest has occurred.",
+      "evidence": [
+        {
+          "startUid": "u2826",
+          "endUid": "u2830",
+          "quote": "DM: I was just asking whether we should—so I mean you have about half an hour till sunset at the moment. Ah, I was just wondering if we should like rush—if you're gonna rush back to camp and sleep, and we'll start in the morning, or if you want to—"
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset on the current adventure day",
+          "offset": {
+            "value": 30,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM’s approximate narrated duration"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM’s stated time remaining before sunset"
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No independent calendar date is spoken. May 11, 1748 is the YAML working date; the match is conditional on that start.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t06",
+      "t15",
+      "t16",
+      "t17"
+    ],
+    "explanation": "The established adventure interval includes the retrospectively credited afternoon rest and continues to half an hour before sunset that same day. Historical visions do not extend it. Tomorrow’s journey and overnight rest are plans, not elapsed play."
+  }
+}
