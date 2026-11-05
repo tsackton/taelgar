@@ -14,9 +14,9 @@
     {
       "day": "March 25, 1748",
       "startWatch": "morning",
-      "endWatch": "midday",
-      "basis": "mixed",
-      "summary": "Morning approach lasted three to four hours; campsite investigation is mid-to-late morning, before noon.",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The canyon approach takes three or four hours. At the campsite the DM says it is mid-to-late morning, before noon.",
       "markers": [
         "t01"
       ],
@@ -26,11 +26,22 @@
     {
       "day": "March 25, 1748",
       "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The party examines the pit in the headquarters just after lunch.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1748-03-25",
+      "endDate": "1748-03-25"
+    },
+    {
+      "day": "March 25, 1748",
+      "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "mixed",
-      "summary": "After lunch, an hour’s rest precedes rituals and scouting; the party reaches the cistern cavern in midafternoon.",
+      "summary": "The hour-long temple rest ends in early afternoon. After the ritual and scouting, midafternoon sunlight reaches the cavern below the cistern.",
       "markers": [
-        "t02",
         "t03",
         "t04",
         "t05",

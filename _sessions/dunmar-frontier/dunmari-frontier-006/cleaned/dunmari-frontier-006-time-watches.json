@@ -40,12 +40,23 @@
       "day": "April 5, 1748",
       "startDate": "1748-04-05",
       "endDate": "1748-04-05",
-      "startWatch": "morning",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Seeker spends most of the day fortifying the temple and finishes with an hour to spare before the evening festival.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "April 5, 1748",
+      "startDate": "1748-04-05",
+      "endDate": "1748-04-05",
+      "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "mixed",
-      "summary": "Seeker’s next-day fortification and one-hour cleanup lead into the first evening ceremony.",
+      "summary": "Seeker has an hour to clean up at the inn before the party attends the first evening ceremony.",
       "markers": [
-        "t04",
         "t05",
         "t06"
       ]

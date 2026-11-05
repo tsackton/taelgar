@@ -11,11 +11,11 @@ YAML dates this journey to March 22–23, 1748. The roadside overnight supports 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
 | March 22, 1748 | Morning | mixed | Morning opening; twenty minutes since arrival, then Delwath’s hour-long rest including earlier refreshments. | t01–t07 |
-| March 22, 1748 | Morning → afternoon | mixed | Three–four hours across scrub, a brief ritual, then roughly one hour in rocky terrain. | t08–t10 |
-| March 22, 1748 | Afternoon | stated | Lookout corrected to early afternoon; after scanning, the Alesh meeting is about 4 p.m. | t11–t13 |
+| March 22, 1748 | Midday | inferred | After three or four hours across the scrub, the tracks vanish on hard rock. Seeker checks for ley lines. | t08–t09 |
+| March 22, 1748 | Afternoon | mixed | After about an hour in the rocks, Wellby scouts in early afternoon. The meeting with Alesh is around 4 p.m. | t10–t13 |
 | March 22–23, 1748 | Dusk → dawn | mixed | Eight hours back from the predawn departure puts the start of the roadside long rest at dusk. | t14 |
 | March 23, 1748 | Dawn | inferred | Party rises before dawn and resumes the march after the completed overnight. | t15 |
-| March 23, 1748 | Dawn → dusk | mixed | Predawn departure and a long hot day lead to Gomat’s approach in moonlit evening. | t16 |
+| March 23, 1748 | Dusk | mixed | After a long day on the road, the party approaches Gomat in the moonlit evening. | t16 |
 
 ## Locations
 

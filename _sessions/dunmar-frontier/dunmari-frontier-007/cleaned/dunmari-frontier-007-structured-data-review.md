@@ -10,13 +10,16 @@ YAML and the campaign timeline put departure on April 7, the last full riding da
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
-| April 7, 1748 | Dawn → morning | mixed | Pre-dawn preparations take a few hours; tracks are followed through the morning. | t01–t02 |
+| April 7, 1748 | Dawn | stated | Preparations begin in the predawn light. The party says its goodbyes within a few hours. | t01 |
+| April 7, 1748 | Morning | stated | The party follows the tracks north through the morning, near the evacuating column. | t02 |
 | April 7, 1748 | Afternoon | stated | Road crossing corrected to early afternoon; kill site midafternoon; tracking continues until late afternoon. | t03–t05 |
 | April 7, 1748 | Dusk | inferred | First day’s camp and neighboring campfires place the map discussion around the evening halt. | t06 |
-| April 8, 1748 | Morning → dusk | stated | Next morning departure; a full day’s ride ends at sunset. | t07–t08 |
-| April 9, 1748 | Morning → afternoon | mixed | After the overnight halt, the party resumes its usual day’s ride and meets the herders before midafternoon. | t09–t10 |
+| April 8, 1748 | Morning | stated | The party consults its maps in the morning and picks a course north. | t07 |
+| April 8, 1748 | Dusk | stated | A full day of hard riding across the plains ends at sunset. | t08 |
+| April 9, 1748 | Afternoon | mixed | On the next day’s ride the party meets Shani’s group. The DM places their departure from the meeting in midafternoon. | t09–t10 |
 | April 9, 1748 | Dusk | stated | Setting sun accompanies the northward ride before the ambush camp. | t11 |
-| April 10, 1748 | Midnight → dawn | — | **Conflicting clock anchors, not a measured interval** · Ambush is said to start at 03:00; aftermath says just past midnight. Rabbit distraction lasts eight seconds within combat. | t12–t14 |
+| April 10, 1748 | Dawn | stated | **Ambush, disputed clock** · The DM puts the ambush at about 3 a.m. The rabbit distracts an attacker for eight seconds during the fight. | t12–t13 |
+| April 10, 1748 | Midnight | stated | **Aftermath, disputed clock** · After the fight, the DM says it is just past midnight and allows the party to finish resting. This conflicts with the ambush clock. | t14 |
 | April 10, 1748 | Morning | mixed | Interrupted long rest finishes at 08:00–09:00; packing at 09:00–09:30 precedes Seeker’s ten-minute ritual. | t15–t17 |
 | April 11, 1748 | Morning → dusk | inferred | A further day’s ride across the plains, dated April 11 in the campaign timeline, ends at sunset. | t18–t19 |
 | April 12, 1748 | Morning | stated | A quiet camp night ends with the centaurs’ arrival the next morning. | t20 |

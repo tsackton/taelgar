@@ -10,7 +10,8 @@ The transcript names April and the year 211 after the Great War. YAML supplies A
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
-| April 12, 1748 | Midday → afternoon | mixed | Leave around ten, enter the gorge at noon, and finish at the roper fight, dated early afternoon in the campaign timeline. | t01–t10 |
+| April 12, 1748 | Midday | mixed | The party leaves around ten and enters the gorge at noon. The tunnel climb takes 30–40 minutes before the guard-chamber search. | t01–t08 |
+| April 12, 1748 | Afternoon | inferred | Wellby finds the door mechanism in about a minute. The campaign timeline places the encounter beyond it and the roper fight in early afternoon. | t09–t10 |
 
 ## Locations
 

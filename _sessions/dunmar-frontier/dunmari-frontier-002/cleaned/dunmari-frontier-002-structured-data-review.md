@@ -14,7 +14,7 @@ YAML dates play to March 23–25, 1748, and the transcript establishes two night
 | March 23, 1748 | Dusk | stated | Opening clarified as about 9 p.m.; Seeker later completes a ten-minute ritual. | t01–t02 |
 | March 23–24, 1748 | Dusk → dawn | mixed | Party sleeps through the night; long-rest credit implies eight hours, followed by sunrise. | t03 |
 | March 24, 1748 | Morning | mixed | After sunrise, dissection takes an hour; the eastward journey is underway by midmorning. | t04–t05 |
-| March 24, 1748 | Morning → dusk | mixed | Midmorning travel reaches the canyon before sunset; a 15–20-minute descent ends about forty minutes before sunset. | t06–t07 |
+| March 24, 1748 | Afternoon | stated | After the day’s travel, the party reaches Daraar Canyon in late afternoon. A 15–20-minute descent leaves about forty minutes until sunset. | t06–t07 |
 | March 24–25, 1748 | Dusk → morning | inferred | After returning to camp near sunset, the party sleeps uninterrupted until the next morning. | t08 |
 | March 25, 1748 | Morning | inferred | Seeker builds the horse enclosure in a couple of minutes before the morning descent. | t09 |
 | March 25, 1748 | Midday | inferred | After the canyon crossing, the injured-hyena stop is explicitly about lunchtime. | t10 |
