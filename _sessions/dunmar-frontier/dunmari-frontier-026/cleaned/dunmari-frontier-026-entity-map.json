@@ -1,0 +1,1287 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "736c684b5af32aab9ab524dd62d79dc66801e1bbbb4a633232aea91131121355",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "4fb4a28eb11795bf7ab769f0ae0458c38e6a367f4e02cb8e702d8502a97baf9f",
+        "transcriptProcessing.artifacts.cleaned": "0a504194e9e438e249bd128d0832d89992cfec92afcdaaba42bf832655a11688"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "label": "Candrosa",
+      "kind": "npc",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0126",
+            "endUid": "u0146"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0161",
+            "endUid": "u0218"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0311",
+            "endUid": "u0357"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0630",
+            "endUid": "u0677"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0692",
+            "endUid": "u0764"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1085",
+            "endUid": "u1124"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1539",
+            "endUid": "u1629"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1934",
+            "endUid": "u1946"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2193",
+            "endUid": "u2216"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2404",
+            "endUid": "u2422"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2516",
+            "endUid": "u2583"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Candrosa.md"
+    },
+    {
+      "id": "e002",
+      "label": "Heart of Shakun",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0178",
+            "endUid": "u0194"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0249",
+            "endUid": "u0310"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0359",
+            "endUid": "u0387"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0678",
+            "endUid": "u0691"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0701",
+            "endUid": "u0728"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0759",
+            "endUid": "u0782"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0812",
+            "endUid": "u0855"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0894",
+            "endUid": "u0916"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1544",
+            "endUid": "u1569"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1683",
+            "endUid": "u1695"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Heart of Shakun.md"
+    },
+    {
+      "id": "e003",
+      "label": "Shakun",
+      "kind": "divine",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0487",
+            "endUid": "u0496"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0642",
+            "endUid": "u0691"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1696",
+            "endUid": "u1709"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2747",
+            "endUid": "u2761"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md"
+    },
+    {
+      "id": "e004",
+      "label": "Mystai of Shakun",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0121",
+            "endUid": "u0137"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0249",
+            "endUid": "u0310"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0642",
+            "endUid": "u0677"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1544",
+            "endUid": "u1629"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1683",
+            "endUid": "u1695"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1710",
+            "endUid": "u1710"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2516",
+            "endUid": "u2583"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2732",
+            "endUid": "u2761"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Shakun Mystai.md"
+    },
+    {
+      "id": "e005",
+      "label": "Tharandros",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0311",
+            "endUid": "u0357"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1085",
+            "endUid": "u1124"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1499",
+            "endUid": "u1516"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Tharandros.md"
+    },
+    {
+      "id": "e006",
+      "label": "Havdar's band",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0038",
+            "endUid": "u0057"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0059",
+            "endUid": "u0108"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0114",
+            "endUid": "u0120"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Havdar's Warband.md"
+    },
+    {
+      "id": "e007",
+      "label": "Unnamed patrol archer",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0059",
+            "endUid": "u0080"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0089",
+            "endUid": "u0100"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Her sustained patrol briefing distinguishes a speaker, but she may be intended as an anonymous representative rather than an individual NPC."
+    },
+    {
+      "id": "e008",
+      "label": "Baxter",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0020",
+            "endUid": "u0028"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0531",
+            "endUid": "u0536"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1436",
+            "endUid": "u1481"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Baxter.md"
+    },
+    {
+      "id": "e009",
+      "label": "Avaras",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0005",
+            "endUid": "u0009"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Avaras.md"
+    },
+    {
+      "id": "e010",
+      "label": "Pava",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0005",
+            "endUid": "u0009"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Pava.md"
+    },
+    {
+      "id": "e011",
+      "label": "Havdar",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0045",
+            "endUid": "u0053"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0075",
+            "endUid": "u0080"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0112",
+            "endUid": "u0120"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Havdar.md"
+    },
+    {
+      "id": "e012",
+      "label": "Karnas",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0059",
+            "endUid": "u0080"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Nayan Karnas.md"
+    },
+    {
+      "id": "e013",
+      "label": "Alesh",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0112",
+            "endUid": "u0112"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Alesh.md"
+    },
+    {
+      "id": "e014",
+      "label": "Bhishma",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0187",
+            "endUid": "u0194"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md"
+    },
+    {
+      "id": "e015",
+      "label": "Rai",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0388",
+            "endUid": "u0408"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Rai.md"
+    },
+    {
+      "id": "e016",
+      "label": "Initiates who collaborated with Rai",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0388",
+            "endUid": "u0408"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md",
+      "confidenceExplanation": "The portal collaboration matches the Order of the Awakened Soul, but the speaker calls them initiates of Bhishma rather than naming the order."
+    },
+    {
+      "id": "e017",
+      "label": "Hralgar",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0450",
+            "endUid": "u0482"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1321",
+            "endUid": "u1337"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Giants/Hralgar.md"
+    },
+    {
+      "id": "e018",
+      "label": "Seeker’s rabbit",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0539",
+            "endUid": "u0547"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Taster.md",
+      "confidenceExplanation": "The continuing rabbit companion fits Taster, but this passage does not name the animal.",
+      "identifiedLater": true
+    },
+    {
+      "id": "e019",
+      "label": "Kotana",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0678",
+            "endUid": "u0691"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Dunmari Rulers/Kotana.md"
+    },
+    {
+      "id": "e020",
+      "label": "Cintra",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0692",
+            "endUid": "u0764"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0765",
+            "endUid": "u0807"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0894",
+            "endUid": "u0916"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2688",
+            "endUid": "u2703"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Cintra.md"
+    },
+    {
+      "id": "e021",
+      "label": "Cintra’s daughter",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0701",
+            "endUid": "u0713"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0765",
+            "endUid": "u0807"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0894",
+            "endUid": "u0916"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Jumi.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e022",
+      "label": "Agata Dustmother",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0808",
+            "endUid": "u0809"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2688",
+            "endUid": "u2703"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Agata.md"
+    },
+    {
+      "id": "e023",
+      "label": "Laka",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1013",
+            "endUid": "u1035"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md"
+    },
+    {
+      "id": "e024",
+      "label": "Lakan Mystai",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1013",
+            "endUid": "u1035"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Lakan Mystai.md"
+    },
+    {
+      "id": "e025",
+      "label": "Broken glass from Kharsan",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1166",
+            "endUid": "u1175"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1240",
+            "endUid": "u1267"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1288",
+            "endUid": "u1320"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "examinedInMirrorOfPast": true
+    },
+    {
+      "id": "e026",
+      "label": "Giant with a flaming axe",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1253",
+            "endUid": "u1286"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1312",
+            "endUid": "u1320"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Mavdyr.md",
+      "confidenceExplanation": "The later Scepter vision identifies Mavdyr burning Kharsan with a flaming axe; the unseen wielder here is probably the same giant, but that equivalence remains inferential.",
+      "identifiedLater": true
+    },
+    {
+      "id": "e027",
+      "label": "Glowing crystal lantern",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1670",
+            "endUid": "u1673"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The individually described lantern is a distinctive vision object, but its identity and significance remain unresolved."
+    },
+    {
+      "id": "e028",
+      "label": "Grash",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2609",
+            "endUid": "u2665"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Grash.md"
+    },
+    {
+      "id": "e029",
+      "label": "Seven dwarven firstborn",
+      "kind": "divine",
+      "importance": "cameo",
+      "note": "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2674",
+            "endUid": "u2684"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e030",
+      "label": "Candrosa’s staff",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0210",
+            "endUid": "u0218"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1617",
+            "endUid": "u1629"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Dreamweaver Staff.md",
+      "identifiedLater": true
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Shadow attackers",
+      "reason": "Anonymous monsters distinguished tactically, without individual identities beyond this encounter.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1710",
+            "endUid": "u1719"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2494",
+            "endUid": "u2512"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Unnamed mystai acolytes",
+      "reason": "The two casualties and survivor matter to the encounter, but no distinct individual character identity is established beyond their ritual roles.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1605",
+            "endUid": "u1629"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1710",
+            "endUid": "u1710"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1845",
+            "endUid": "u1858"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2346",
+            "endUid": "u2347"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Patrol herald and centaur speaker",
+      "reason": "Brief anonymous patrol functions, without distinguishing individual identities beyond their reporting roles.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0038",
+            "endUid": "u0057"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0101",
+            "endUid": "u0108"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Beryl",
+      "reason": "Incidental out-of-character comparison of another PC’s mentors; no meaningful in-world involvement or discussion.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0466",
+            "endUid": "u0468"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mirror of the Past",
+      "reason": "Routine activation and discussion of standard powers, including hypothetical transport; no new acquisition or distinct in-world history established for the mirror.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1222",
+            "endUid": "u1243"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1268",
+            "endUid": "u1271"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1365",
+            "endUid": "u1428"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2704",
+            "endUid": "u2731"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Driftglobes, ring of jumping and shadow armor",
+      "reason": "Routine protective lighting, jumping and worn PC equipment do not establish qualifying item involvement.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0010",
+            "endUid": "u0013"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0548",
+            "endUid": "u0554"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1483",
+            "endUid": "u1498"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1518",
+            "endUid": "u1534"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Conjured shadow bow and magnesium fire pit",
+      "reason": "Temporary equipment created through PC abilities and used routinely in combat, without independent object identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1890",
+            "endUid": "u1933"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2000",
+            "endUid": "u2012"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Hawk",
+      "reason": "Wild animal contacted for a single scouting report, without an established continuing companion identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1181",
+            "endUid": "u1204"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Rumored demon of flame and fire giants",
+      "reason": "Vague secondhand creature rumors with no location or individuating identity; not enough to establish a particular NPC.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1347",
+            "endUid": "u1364"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Baxter’s barding",
+      "reason": "Ordinary equipment commissioned in trade; no distinct plot identity beyond fitting the mount.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1436",
+            "endUid": "u1481"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Dreams and Visions/The Shakun Mystai Initiation.md",
+    "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Kharsan Broken Glassware Vision.md",
+    "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Scepter of Command Vision.md"
+  ]
+}

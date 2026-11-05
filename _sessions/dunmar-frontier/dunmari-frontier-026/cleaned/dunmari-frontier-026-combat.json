@@ -1,0 +1,394 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-026",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-session.yaml",
+    "sessionYamlSha256": "fead6bf1e5877463da7e39ad2eb5350ee4ab19ad751a00eac1c8c23376709513",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-transcript.md",
+    "transcriptSha256": "4fb4a28eb11795bf7ab769f0ae0458c38e6a367f4e02cb8e702d8502a97baf9f",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-segments.json",
+      "sha256": "9f1414cd5b4f5ca7b24450ad3d8512a09653036687e9cda3c9c0e06387f4f5ee",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Shadows attack the Shakun initiation",
+      "openingActions": [
+        {
+          "actor": "Shadow",
+          "kind": "event",
+          "summary": "Kills a mystai as the party awakens; a new shadow rises from her withered body before initiative is rolled.",
+          "evidence": [
+            {
+              "startUid": "u1710",
+              "endUid": "u1712"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Shadows",
+              "kind": "turn",
+              "summary": "Two shadows rush a mystai: the first hits and badly injures him; the next attack kills him, leaving his body shriveled.",
+              "evidence": [
+                {
+                  "startUid": "u1845",
+                  "endUid": "u1858"
+                }
+              ]
+            },
+            {
+              "actor": "Surviving mystai",
+              "kind": "turn",
+              "summary": "Panics and runs away from everyone into the dark.",
+              "evidence": [
+                {
+                  "startUid": "u1852",
+                  "endUid": "u1858"
+                }
+              ]
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Leaves the pool, lines up two shadows and casts Lightning Bolt for a rolled 31 lightning damage. The nearest fails its save and disintegrates; the second succeeds, takes damage and survives. The flash reveals six remaining shadows.",
+              "evidence": [
+                {
+                  "startUid": "u1861",
+                  "endUid": "u1888"
+                }
+              ],
+              "note": "The saving-throw ability is not stated in this first casting; no external rules are supplied."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Creates a floating magnesium fire pit in the flaming pool; it ignites and sheds about 30 feet of bright light. Warns everyone to stay in the light and gives Wellby a d8 Bardic Inspiration as a glowing arrow rune.",
+              "evidence": [
+                {
+                  "startUid": "u1890",
+                  "endUid": "u1933"
+                }
+              ]
+            },
+            {
+              "actor": "Candrosa",
+              "kind": "turn",
+              "summary": "Bonds Kenzo and Delwath (correcting an initial reference to Seeker): while within 30 feet of each other they may add a d4 to one attack roll, ability check or saving throw per turn. Steps into the illuminated pool.",
+              "evidence": [
+                {
+                  "startUid": "u1934",
+                  "endUid": "u1946"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves beside Delwath and readies an attack for when he has a weapon.",
+              "evidence": [
+                {
+                  "startUid": "u1948",
+                  "endUid": "u1963"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Wades out to engage a shadow while staying within the bond’s range. One near miss becomes a 17 hit with the d4; further unarmed strikes leave it barely alive, then he spends ki and finishes it.",
+              "evidence": [
+                {
+                  "startUid": "u1956",
+                  "endUid": "u1998"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hands Wellby a magical shadow bow and hits the shadow in front of him with two Eldritch Blasts; it remains barely alive.",
+              "evidence": [
+                {
+                  "startUid": "u2000",
+                  "endUid": "u2012"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Releases his held bow attack at Delwath’s wounded target. It misses even with the inspiration d8. The expended rune explodes; the shadow fails its Constitution save, takes thunder damage equal to that inspiration roll, and survives.",
+              "evidence": [
+                {
+                  "startUid": "u2015",
+                  "endUid": "u2052"
+                }
+              ]
+            },
+            {
+              "actor": "Shadows attacking Seeker",
+              "kind": "turn",
+              "summary": "Two shadows close and attack in bright light. Disadvantage prevents the first hit from being a critical: Seeker takes 9 necrotic damage and loses 1 Strength. The second attack also hits for 6 necrotic and another 2 Strength, total loss 3.",
+              "evidence": [
+                {
+                  "startUid": "u2054",
+                  "endUid": "u2081"
+                }
+              ]
+            },
+            {
+              "actor": "Shadows attacking Delwath",
+              "kind": "turn",
+              "summary": "Two shadows move toward Delwath with disadvantage. The first misses AC 12 with rolls 11 and 7; the next deals 10 necrotic damage and reduces his Strength by 3.",
+              "evidence": [
+                {
+                  "startUid": "u2075",
+                  "endUid": "u2095"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "After the last nearby enemy’s turn, uses his reaction to move without provoking opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2101",
+                  "endUid": "u2103"
+                }
+              ],
+              "note": "Declared retrospectively after the mystai narration; placed immediately after the triggering enemy turn."
+            },
+            {
+              "actor": "Surviving mystai",
+              "kind": "turn",
+              "summary": "Tries to return toward the light without running toward the shadows.",
+              "evidence": [
+                {
+                  "startUid": "u2099",
+                  "endUid": "u2100"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Lines up three shadows with a second Lightning Bolt, rolled 34 lightning damage. The nearest fails its save; the other two succeed. One already-damaged shadow is vaporized; the shadow by Kenzo is badly hurt, the one by Delwath less so. Lightning resistance reduces damage; later clarification gives the twice-reduced damage as 7. Returns to the water.",
+              "evidence": [
+                {
+                  "startUid": "u2136",
+                  "endUid": "u2163"
+                },
+                {
+                  "startUid": "u2319",
+                  "endUid": "u2323"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Shatter on two shadows: one succeeds and one fails the Constitution save. Gives Candrosa Bardic Inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u2166",
+                  "endUid": "u2183"
+                }
+              ]
+            },
+            {
+              "actor": "Candrosa",
+              "kind": "turn",
+              "summary": "Calls the surviving mystai close and casts Sanctuary on Seeker: an attacker must pass a Wisdom save; Seeker attacking, damaging or casting an enemy-affecting spell ends it. A burst of radiant energy targets the shadow beside Delwath; it fails a Dexterity save and takes 1 radiant damage, which is unusually effective.",
+              "evidence": [
+                {
+                  "startUid": "u2193",
+                  "endUid": "u2216"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Stays still for Steady Aim and shoots with advantage. A 16 hits the shadow near Seeker and the surviving mystai for 20 stated damage; the bow’s +1 damage is acknowledged afterward. The shadow survives.",
+              "evidence": [
+                {
+                  "startUid": "u2217",
+                  "endUid": "u2246"
+                }
+              ],
+              "note": "The source does not explicitly settle a revised total after the +1 reminder."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Fist of the Planar on the shadow across the pool: it fails its Strength save and is destroyed. A bonus-action punch hits the adjacent shadow; resistance halves the damage and it survives. The proposed additional flurry is disallowed after this action.",
+              "evidence": [
+                {
+                  "startUid": "u2253",
+                  "endUid": "u2273"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Abandons the proposed curse and point-blank attack after learning Eldritch Blast would have disadvantage. Teleports away instead, then fires twice at the same shadow; the first deals 2 damage and the second leaves it nearly dead.",
+              "evidence": [
+                {
+                  "startUid": "u2284",
+                  "endUid": "u2317"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow targeting Seeker",
+              "kind": "turn",
+              "summary": "Fails the Wisdom save to attack Seeker through Sanctuary, moves to Delwath and hits despite disadvantage. Deals 10 damage and drains 2 more Strength, leaving Delwath at 3 Strength.",
+              "evidence": [
+                {
+                  "startUid": "u2319",
+                  "endUid": "u2333"
+                }
+              ]
+            },
+            {
+              "actor": "Two shadows attacking Kenzo",
+              "kind": "turn",
+              "summary": "Both miss Kenzo with disadvantage; they reposition so another straight lightning bolt cannot catch both.",
+              "evidence": [
+                {
+                  "startUid": "u2335",
+                  "endUid": "u2343"
+                }
+              ]
+            },
+            {
+              "actor": "Surviving mystai",
+              "kind": "turn",
+              "summary": "Moves beside Candrosa and takes the Dodge action.",
+              "evidence": [
+                {
+                  "startUid": "u2346",
+                  "endUid": "u2347"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Creates a Flaming Sphere and slams a shadow. It succeeds on its Dexterity save, takes half the fire damage and remains alive. Drikod moves next to the weakened ally.",
+              "evidence": [
+                {
+                  "startUid": "u2360",
+                  "endUid": "u2387"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Withdraws from the shadow, which attempts an opportunity attack, and casts second-level Healing Word on Delwath for 9 healing.",
+              "evidence": [
+                {
+                  "startUid": "u2389",
+                  "endUid": "u2400"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow",
+              "kind": "reaction",
+              "summary": "Attempts the opportunity attack triggered by Seeker’s withdrawal but fails the Wisdom save against Sanctuary and cannot make the attack.",
+              "evidence": [
+                {
+                  "startUid": "u2389",
+                  "endUid": "u2400"
+                }
+              ],
+              "note": "Occurs during Seeker’s movement, before the remainder of his turn."
+            },
+            {
+              "actor": "Candrosa",
+              "kind": "turn",
+              "summary": "Withdraws the proposed Protection from Good and Evil and casts Warding Bond on Delwath instead: +1 AC and saving throws, resistance to all damage, with Candrosa sharing damage Delwath takes.",
+              "evidence": [
+                {
+                  "startUid": "u2404",
+                  "endUid": "u2422"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and fires with advantage, but misses; he has no inspiration remaining.",
+              "evidence": [
+                {
+                  "startUid": "u2425",
+                  "endUid": "u2439"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Fist of the Planar on the shadow beside Delwath. It fails its Strength save, survives the initial damage and is pulled 20 feet toward Kenzo. His bonus-action punch kills it.",
+              "evidence": [
+                {
+                  "startUid": "u2460",
+                  "endUid": "u2492"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Curses the shadow beside Kenzo and kills it with Eldritch Blast force damage. Healing is described without a number. A second Eldritch Blast destroys the last shadow; the stated 15 is enough to kill it.",
+              "evidence": [
+                {
+                  "startUid": "u2494",
+                  "endUid": "u2512"
+                }
+              ],
+              "note": "The speaker says Kenzo looks healed after the curse kill; the beneficiary is internally unclear and has not been silently reassigned to Delwath."
+            }
+          ]
+        }
+      ],
+      "note": "The party begins unarmored and without weapons but can use spell foci; ritual water breathing and harmless blue flames remain active. The opening and early enemy turns precede the first fully narrated PC cycle; grouping preserves resolved sequence without deriving elapsed time.",
+      "ending": {
+        "summary": "The last shadow is destroyed and the encounter ends. Seven shadows fought here (six pursuers plus one spawned from the first slain mystai); two mystai died and one survived. Delwath and Seeker suffered Strength drain.",
+        "evidence": [
+          {
+            "startUid": "u2494",
+            "endUid": "u2512"
+          },
+          {
+            "startUid": "u1845",
+            "endUid": "u1858"
+          }
+        ]
+      }
+    }
+  ]
+}
