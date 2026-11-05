@@ -1,0 +1,454 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-042",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-session.yaml",
+    "sessionYamlSha256": "5d6bea642639a29eca01074117251722d1599fb2dbe905bcd352d8fe746c66ea",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-transcript.md",
+    "transcriptSha256": "7f95def7ea832749d4f77fba67694204bfa7184525ec48df20136a803a6d78e7",
+    "yamlDates": {
+      "start": "1748-07-13",
+      "end": "1748-07-18"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0174",
+        "endUid": "u0178"
+      },
+      "reading": "The mirror opens an undated historical vision of the scroll; apparent time jumps during the descent are unmeasurable.",
+      "evidence": [
+        {
+          "startUid": "u0174",
+          "endUid": "u0178",
+          "quote": "DM: [garbled] as Kenzo holds up the scroll here, um. The image in the mirror the reflection of the of the scroll begins to fade. And the mirror turns dark."
+        },
+        {
+          "startUid": "u0227",
+          "endUid": "u0230",
+          "quote": "DM: That your sense of time passing in the image seems to jump and you can't quite tell how long it's taking for them to walk there will be a moment when they don't seem to—the scene doesn’t seem to be changing at all, and then it will skip and jump to some other some other view and they seem to be descending into like a crevasse like this is not a cliff with open sky, on the other side but they're they're descending deep into some crack. And then as they—"
+        },
+        {
+          "startUid": "u0240",
+          "endUid": "u0242",
+          "quote": "Kenzo: Is there any sense at all like what is this when this is happening? Any indications?"
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0239",
+        "endUid": "u0239"
+      },
+      "reading": "The mirror returns to the room and the current examination.",
+      "evidence": [
+        {
+          "startUid": "u0239",
+          "endUid": "u0239",
+          "quote": "DM: And the mirror returns to reflecting the room around you."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0317",
+        "endUid": "u0320"
+      },
+      "reading": "The DM places the mirror examination on July 13, the day Speaker Lara returned.",
+      "evidence": [
+        {
+          "startUid": "u0317",
+          "endUid": "u0320",
+          "quote": "DM: So I'll say that's that's probably the same same day so you've got a few days, basically until until the portable hole is ready so we'll say that's that's July 13, which is the same day that Speaker Lara returned to you spoke to at the end of last session. So that'll be—"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "July 13 spoken; year inherited from session YAML.",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 13
+        }
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0339",
+        "endUid": "u0347"
+      },
+      "reading": "The party visits the giant tree the next morning, July 14.",
+      "evidence": [
+        {
+          "startUid": "u0339",
+          "endUid": "u0347",
+          "quote": "DM: Okay, so so you head down let's say the morning of the 14 so the next morning, spending some time you know, some time just kind of dealing with getting ready to go. And this is, you know, about now four or five days after the rain started. And you know, once the monsoon season comes the rains are pretty constant every afternoon there's there's a thunderstorm basically and and as you—so this giant tree is maybe 200 ish feet tall something like that it's nearly the tallest thing in Tokra and the only thing that's taller is the Dome of the temple. And as you know, as you approach it you can see—"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "DM says morning of the 14th and next morning; July follows t03, year from YAML.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 14
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0557",
+        "endUid": "u0569"
+      },
+      "reading": "Kenzo spends about an hour sitting with and sensing the tree before the visit wraps up.",
+      "evidence": [
+        {
+          "startUid": "u0557",
+          "endUid": "u0560",
+          "quote": "Kenzo: Yeah I'm going to a purely on intuition and feeling like as if, like I'm really trying to sense the totality of the tree. And the tree it's sort of like you know, if I get a sense that I should move to a certain part of the tree, then I will, but if I don't that's fine too I'll just stay there, and kind of continue to just sense its its totality and. Then yeah if it if it if it feels like this is the wrong time in the cycle, then I just you know, continue to spend like you know, probably an hour, just like sitting with the tree and then, if it if it if it's if I sense it moves me to tell to move me to like go to a part of it or to touch a part of it or do anything I will but otherwise I'll just stay stay at the top and—"
+        },
+        {
+          "startUid": "u0561",
+          "endUid": "u0568",
+          "quote": "DM: You sort of you just feel the sort of aware of the sort of flows of energy like from the sun up from the roots like just the sort of entirety of the cycle of the water that's falling you know, the rains that have come. Get almost you know, feel the distance that the clouds have traveled to get here and all of that, as part of this sort of energy of the tree, but again you're sort of observing that you feel like you're observing this cycle like you're being let into a window of this. Of this rhythm of the life of this thing."
+        },
+        {
+          "startUid": "u0569",
+          "endUid": "u0569",
+          "quote": "Kenzo: Beautiful Kenzo, Kenzo basks in awe in the tree."
+        },
+        {
+          "startUid": "u0570",
+          "endUid": "u0572",
+          "quote": "DM: Anybody else want to do anything at the tree before wrapping up?"
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Kenzo describes an hour of sitting; the DM responds to the communion and wraps up the visit."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0813",
+        "endUid": "u0817"
+      },
+      "reading": "Seeker and Delwath spend a day shopping and selling; the DM calls the logistics a good part of the next day.",
+      "evidence": [
+        {
+          "startUid": "u0813",
+          "endUid": "u0817",
+          "quote": "DM: Okay, so assuming you're going to basically take a whole day to just kind of try and get get the best prices, you can get from this I'm going to say. Either well I'll say Seeker make a what is it your tool tool check? So so roll a D 20 add your intelligence plus your proficiency and Delwath, make a persuasion check and whoever rolls higher will be the roll we use assuming you're both going together Seeker knows how much everything’s worth, and Delwath can."
+        },
+        {
+          "startUid": "u0863",
+          "endUid": "u0867",
+          "quote": "DM: Okay, so Seeker and Delwath spend a day actually, I guess, many most of you spend the day sort of traveling around and buying stuff selling stuff you got about 290 gold for all of these items that you're selling. Take away 80 for—"
+        },
+        {
+          "startUid": "u0901",
+          "endUid": "u0902",
+          "quote": "DM: Okay, so that takes you a good part of the next day and so—"
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM resolves a day of buying and selling; this is a working day, not a measured 24 hours."
+      },
+      "completion": "completed",
+      "note": "The narration does not cleanly distinguish July 14 from July 15 for all logistics. Kenzo refers to the tree earlier that morning during the parallel gift scene (u0935–u0938)."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0968",
+        "endUid": "u0969"
+      },
+      "reading": "Narration moves to the next morning for final business and the portable-hole handover.",
+      "evidence": [
+        {
+          "startUid": "u0968",
+          "endUid": "u0969",
+          "quote": "DM: So the next morning to—"
+        },
+        {
+          "startUid": "u1039",
+          "endUid": "u1040",
+          "quote": "DM: So before you go Basu hands you the hole and lectures you strongly the four things you never do. Open extra dimensional portals inside extradimensional portals."
+        },
+        {
+          "startUid": "u1197",
+          "endUid": "u1197",
+          "quote": "DM: He turns it over reluctantly handing it to Kenzo."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "DM opens a next-morning frame before the final donations and Basu scene.",
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t06",
+          "anchor": "morning following the logistics frame"
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1207",
+        "endUid": "u1211"
+      },
+      "reading": "The party, Riswynn and Johar meet at Tokra’s western gates and leave first thing on July 16.",
+      "evidence": [
+        {
+          "startUid": "u1207",
+          "endUid": "u1211",
+          "quote": "DM: Ah, July, the morning of July 16 you meet Riswynn and Johar at the Western gates of Tokra as you prepare to leave. The you leave first thing in the morning the ground still wet from the rains the evening before the day before."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "DM explicitly says morning of July 16; year from YAML.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1748,
+          "month": 7,
+          "day": 16
+        }
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1257",
+        "endUid": "u1268"
+      },
+      "reading": "The first travel day covers about twenty miles and ends with a night at the first roadside inn.",
+      "evidence": [
+        {
+          "startUid": "u1257",
+          "endUid": "u1268",
+          "quote": "DM: And this road, as I said, is well maintained and and there's that you know, you're for the first day or so you're kind of in the in the hinterlands of Tokra so you're passing through small villages, you know, there's a few farms. But the road is is fairly populated here. And it's not until you reach close to the end of the first day that you find yourself traveling alone. Not surrounded by you know, there's people going to the market in Tokra people coming back, there's just a lot of foot traffic on the western edge of Tokra I'm, especially now with the rains. And you and you see now these these like caravanserai that are placed about a 15–20 mile distance across the road you're the first after traveling about—"
+        },
+        {
+          "startUid": "u1269",
+          "endUid": "u1269",
+          "quote": "DM: About 20 miles your first day coming out of out of the sort of hinterlands of Tokra um you can see out ahead of you on the road on this, and now that the general way these work is you can either spend—"
+        },
+        {
+          "startUid": "u1296",
+          "endUid": "u1302",
+          "quote": "DM: Artisans you can sort of keep trade caravans maintained as they pass through, and the first one you come to the first night is actually pretty crowded there's usually a lot of traffic on the roads. Around the monsoon and so you know, people who had been waiting for better weather to travel. I mean, when it's super dry right there's there's no water for animals, like the grass is all dead it's much harder for people to just kind of travel. The first one, you know, mostly mostly Dunmari I'll say make a charisma investigation check for, you know, rumor gathering anybody anybody who wants to make a charisma check and then add your proficiency if you're proficient in investigation."
+        },
+        {
+          "startUid": "u1309",
+          "endUid": "u1313",
+          "quote": "DM: So you know, sitting around the first inn so it's a relatively small amount of money, but somebody should take off like two gold for food and lodging. As you're sitting around there's a lot of a lot of Dunmari here at this first inn and—"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "End of the first day and first night narrated.",
+        "partOfDay": "evening",
+        "relative": {
+          "relation": "after",
+          "reference": "t08",
+          "anchor": "end of the first travel day, on the same civil date"
+        }
+      },
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "First day of travel, not a full 24-hour interval."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1331",
+        "endUid": "u1336"
+      },
+      "reading": "The compressed journey to the turnoff takes three travel days, reaching the crossroads on the third day.",
+      "evidence": [
+        {
+          "startUid": "u1331",
+          "endUid": "u1336",
+          "quote": "DM: You settle into a routine over the course of you know, the next couple of days so it's about three days to the turning point where you go where the west road the Darba road turns off the old trade road. The travelers are less and, if you want to stop and talk to anybody again like feel free to interrupt other travelers as you as you leave the first inn—"
+        },
+        {
+          "startUid": "u1419",
+          "endUid": "u1420",
+          "quote": "DM: And the third day of travel now you come to um this is the crossroads inn basically so again almost this is this is actually even bigger than the other two um—"
+        },
+        {
+          "startUid": "u1427",
+          "endUid": "u1429",
+          "quote": "DM: About that star like if you can see, can you see that ruler yep perfect about 50 miles right so. You haven't been making super fast progress because you've been staying at these inns right and they're only about 15 to 18 miles apart, you can easily go 25 if you are just pushing yourself, but there will be time to push yourself when you're on the road to the hills the—"
+        }
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM narrates three inclusive travel days, confirmed by the third-day arrival; not 72 hours."
+      },
+      "dateBoundaries": 2,
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1348",
+        "endUid": "u1356"
+      },
+      "reading": "At the end of the second travel day the rain stops and the party approaches the bridge inn as the sun sets.",
+      "evidence": [
+        {
+          "startUid": "u1348",
+          "endUid": "u1350",
+          "quote": "DM: Not much else not not much different that you hear in the second night, so another two gold there, but I'm notable here, as you approach as you come as the rains begin to stop at the end of your second day of travel—"
+        },
+        {
+          "startUid": "u1354",
+          "endUid": "u1356",
+          "quote": "DM: No statues or decorations but the stone itself seems to almost glow and as the sun sets as you approach the the inn for the evening, you can see that the stone is casting back some of the light of the sun casting a glow on the water beneath it, casting a glow on the on the inn. Clearly old—"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Second day and sunset explicitly narrated.",
+        "partOfDay": "sunset",
+        "relative": {
+          "relation": "after",
+          "reference": "t08",
+          "anchor": "end of the second travel day"
+        }
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1419",
+        "endUid": "u1420"
+      },
+      "reading": "On the third day the party reaches the crossroads inn before dark.",
+      "evidence": [
+        {
+          "startUid": "u1419",
+          "endUid": "u1420",
+          "quote": "DM: And the third day of travel now you come to um this is the crossroads inn basically so again almost this is this is actually even bigger than the other two um—"
+        },
+        {
+          "startUid": "u1427",
+          "endUid": "u1429",
+          "quote": "DM: About that star like if you can see, can you see that ruler yep perfect about 50 miles right so. You haven't been making super fast progress because you've been staying at these inns right and they're only about 15 to 18 miles apart, you can easily go 25 if you are just pushing yourself, but there will be time to push yourself when you're on the road to the hills the—"
+        },
+        {
+          "startUid": "u1430",
+          "endUid": "u1433",
+          "quote": "DM: So this third inn the sort of crossroads inn is so you can you know, a few things of note, as you approach again not not really dark when you approach, even though you've potentially you know, maybe you've been resting for a bit during the height of the rainstorm every afternoon ah, the—"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Third day stated; DM says not really dark on approach.",
+        "partOfDay": "before dark",
+        "relative": {
+          "relation": "after",
+          "reference": "t08",
+          "anchor": "third travel day, two civil dates after departure"
+        }
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2301",
+        "endUid": "u2301"
+      },
+      "reading": "After the inn conversation it is getting late and the party heads to its rooms; no overnight completion is narrated.",
+      "evidence": [
+        {
+          "startUid": "u2301",
+          "endUid": "u2301",
+          "quote": "DM: And you head for your rooms, as it is getting late now."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM says getting late; exact dusk/midnight watch is not established.",
+        "partOfDay": "late evening",
+        "relative": {
+          "relation": "after",
+          "reference": "t12",
+          "anchor": "later during the same inn stay"
+        }
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "July 13, July 14 and July 16 are spoken; 1748 comes from YAML. The third travel day after July 16 is July 18, independently of drEnd.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": 5,
+    "evidence": [
+      "t03",
+      "t04",
+      "t06",
+      "t07",
+      "t08",
+      "t10",
+      "t12",
+      "t13"
+    ],
+    "explanation": "The current-play span runs from July 13 through the late third-travel-day inn stay, July 18. The tree next morning, intervening logistics/final-business mornings, explicit July 16 departure, and three inclusive travel days fit five civil transitions. Exact logistics placement within July 14–15 remains loose; no extra overnight is added at the end. The undated mirror history does not extend the adventure span."
+  }
+}
