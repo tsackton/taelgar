@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-time-markers.json",
+    "sha256": "fb8bdb6246f6b47049615e16eb4e428ec913978c1135f91c94d18a998fe442eb"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-transcript.md",
+    "sha256": "675451f5c4c3f77a1fd9fe27e83527e7e2ed1968af3d0a6a82ac9fc86f6f83fe"
+  },
+  "dateAssessment": "Working dates use the session YAML’s May 27–29, 1748 span. The transcript independently supports two overnight boundaries, but speaks no absolute date. The existing Session 28 note shares that date span; its midday divination and “traveling with” wording conflict with t11’s midafternoon and “trapped with” answer. The final dusk watch follows the dawn/dusk portal cycle; unchanging realm light and Kenzo’s recalled eight hours do not independently measure Material Plane time.",
+  "watches": [
+    {
+      "day": "May 27, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Before sunset through full darkness; pool and concealment develop. Short-rest credit covers the preceding wait.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-05-27",
+      "endDate": "1748-05-27"
+    },
+    {
+      "day": "During May 27–28, 1748",
+      "startWatch": "dusk",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "A few hours digging the pit after nightfall; completed before morning, with no precise midnight crossing.",
+      "markers": [
+        "t08"
+      ],
+      "dateWindow": [
+        "1748-05-27",
+        "1748-05-28"
+      ]
+    },
+    {
+      "day": "May 28, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Morning sleep and waking; Kenzo scouts the portal and returns within a few minutes.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "startDate": "1748-05-28",
+      "endDate": "1748-05-28"
+    },
+    {
+      "day": "May 28, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Cintra’s divination is explicitly midafternoon; Shakun answers that Jumi is trapped with Agata.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-05-28",
+      "endDate": "1748-05-28"
+    },
+    {
+      "day": "May 28–29, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Dusk rest completes before dawn entry; the confirmed long rest supplies eight conventional hours.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-05-28",
+      "endDate": "1748-05-29"
+    },
+    {
+      "day": "May 29, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The party explicitly steps through the portal at dawn after its overnight rest.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-05-29",
+      "endDate": "1748-05-29"
+    },
+    {
+      "day": "May 29, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Next opening implies dusk; girl arrives fifteen minutes after refilling. Kenzo recalls eight hours in unchanging light.",
+      "markers": [
+        "t14",
+        "t15"
+      ],
+      "startDate": "1748-05-29",
+      "endDate": "1748-05-29"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 28 note",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 28 (DuFr).md",
+      "sha256": "c039a82c02cb30d265ef1e3066466edc2ea17326a1bbcf1f072112388eb89d3e"
+    },
+    {
+      "label": "Flaming Bowstring note",
+      "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Flaming Bowstring.md",
+      "sha256": "11ba48a8a7dc8738ce2eb364d5fe780513368e007a9a3853c96bb5a0b3b4c884"
+    }
+  ]
+}

@@ -1,0 +1,524 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-028",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
+    "sessionYamlSha256": "27533fdfdd07f2f4efb2633f29ef47fe17b6b276b6a72876cbd8c6a5c705f2c4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-transcript.md",
+    "transcriptSha256": "675451f5c4c3f77a1fd9fe27e83527e7e2ed1968af3d0a6a82ac9fc86f6f83fe",
+    "yamlDates": {
+      "start": "1748-05-27",
+      "end": "1748-05-29"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0018"
+      },
+      "reading": "Opening hiding positions just before sunset.",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0018",
+          "quote": "As dusk approaches, at least for the moment the desert seems quiet."
+        },
+        {
+          "startUid": "u0051",
+          "endUid": "u0052",
+          "quote": "DM: It's probably 45 minutes to an hour before sunset."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset",
+          "offset": {
+            "min": 45,
+            "minInclusive": true,
+            "max": 60,
+            "maxInclusive": true,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM estimates 45 minutes to an hour"
+          }
+        },
+        "precision": "approximate",
+        "basis": "Opening dusk approach clarified by the DM"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0206",
+        "endUid": "u0214"
+      },
+      "reading": "About twenty minutes of hiding pass before Samerki catches the shadow diversion.",
+      "evidence": [
+        {
+          "startUid": "u0206",
+          "endUid": "u0214",
+          "quote": "You know, halfway towards maybe 20, 20 minutes later as you're all just kind of hidden, crouched"
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed hiding time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0276",
+        "endUid": "u0279"
+      },
+      "reading": "Sunset begins the wellspring’s filling.",
+      "evidence": [
+        {
+          "startUid": "u0276",
+          "endUid": "u0279",
+          "quote": "as the sun touches the horizon"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM’s narrated time"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0280",
+        "endUid": "u0284"
+      },
+      "reading": "Over fifteen to twenty minutes of sunset, the pool fills and Cintra lifts the Heart.",
+      "evidence": [
+        {
+          "startUid": "u0280",
+          "endUid": "u0284",
+          "quote": "DM: Around the around the pool and as it you know, as this, the water sort of it's almost like it's sort of pulsing and each pulse that grows a little bigger and then it retracts and then it goes a little bigger and retracts and as the as the glow of the sunset lights up the canyon over the next like 15 or 20 minutes um. As the pool begins to fill, Cintra goes over to the pool and lifts something out of it a small fist-sized red ochre stone and holds it up."
+        }
+      ],
+      "duration": {
+        "min": 15,
+        "minInclusive": true,
+        "max": 20,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated filling interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0293",
+        "endUid": "u0298"
+      },
+      "reading": "The concealment spreads over the next twenty to thirty minutes; stars appear and Cintra announces safety until dawn.",
+      "evidence": [
+        {
+          "startUid": "u0293",
+          "endUid": "u0298",
+          "quote": "DM: And over the course of the next 20–30 minutes, um, you now, you Seeker and and Kenzo are looking up at the stars seeing everything perfectly normally. Wellby and Delwath, you are now looking at, not a canyon but a massive jumbled broken pile of collapsed desert walls of twisting scars running through the surface of like pile debris dead trees, just like as if a massive flood just washed a ton of debris and and filled up this entire 500-foot-deep bowl. And Cintra then comes over to the tent and says it's safe now. For the next eight hours anyway. Or longer till till till dawn I can keep this up."
+        }
+      ],
+      "duration": {
+        "min": 20,
+        "minInclusive": true,
+        "max": 30,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated spread of the illusion"
+      },
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Stars and completed sunset at the interval’s end"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0339",
+        "endUid": "u0343"
+      },
+      "reading": "The waiting through sunset earns a short rest; this credits the preceding hiding interval, not a new hour afterward.",
+      "evidence": [
+        {
+          "startUid": "u0266",
+          "endUid": "u0266",
+          "quote": "DM: It hasn't been an hour yet."
+        },
+        {
+          "startUid": "u0268",
+          "endUid": "u0272",
+          "quote": "I mean, it does count as a short rest yes, but it hasn't been an hour"
+        },
+        {
+          "startUid": "u0339",
+          "endUid": "u0343",
+          "quote": "DM: So at this point, given the sun has set—I'm—given the sun has set, you have completed a short rest. So anybody who wants to use, you know, get anything back from a short rest, so for example, you could use your Arcane Recovery, Drikod, to get back a few spell slots."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed",
+      "note": "Rest credit encompasses the earlier wait and sunset changes; do not add it to t02–t05 as a further hour."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0517",
+        "endUid": "u0520"
+      },
+      "reading": "The separated companions reunite on the canyon floor in full darkness.",
+      "evidence": [
+        {
+          "startUid": "u0517",
+          "endUid": "u0520",
+          "quote": "DM: You convene now at the bottom of the canyon. The stars above, as the full dark of night has set in. Possibly some invisible creature flying above you keeping watch not at your concern at the moment."
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "DM says full dark of night"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1783",
+        "endUid": "u1784"
+      },
+      "reading": "The accepted pit-trap excavation takes a few hours during the night, confirmed complete when morning arrives.",
+      "evidence": [
+        {
+          "startUid": "u1783",
+          "endUid": "u1784",
+          "quote": "DM: Just a hole, hole I mean, if you spend a few hours on it, you can dig up you could just dig the sandy dirt ground of the slot canyon 40 feet down."
+        },
+        {
+          "startUid": "u1785",
+          "endUid": "u1785",
+          "quote": "Delwath: That's great why don't we just do that."
+        },
+        {
+          "startUid": "u1805",
+          "endUid": "u1805",
+          "quote": "Seeker: Alright, so we're making a giant pit trap halfway up the slot canyon."
+        },
+        {
+          "startUid": "u1827",
+          "endUid": "u1829",
+          "quote": "DM: So let's let's move through this in the morning. You all hide in the tent and actually maybe sleep, because you stayed up for a good part of the night."
+        },
+        {
+          "startUid": "u1831",
+          "endUid": "u1832",
+          "quote": "DM: Debating and delving a pit trap Oh, make it make a dexterity check plus proficiency for your pit trap Wellby."
+        }
+      ],
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Accepted excavation estimate followed by confirmation of the night’s completed digging"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1827",
+        "endUid": "u1829"
+      },
+      "reading": "After staying up much of the night, the party hides and sleeps in the tent in the morning; Cintra reports when they wake. This crosses the first overnight boundary without establishing a full long rest.",
+      "evidence": [
+        {
+          "startUid": "u1827",
+          "endUid": "u1829",
+          "quote": "DM: So let's let's move through this in the morning. You all hide in the tent and actually maybe sleep, because you stayed up for a good part of the night."
+        },
+        {
+          "startUid": "u1845",
+          "endUid": "u1847",
+          "quote": "DM: And skeletons aren't renowned for their passive perception so you know, it probably would do some good. So in the morning as you're sleeping as when you when you awake Cintra reports on her conversation and says."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM’s narrated time"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1861",
+        "endUid": "u1861"
+      },
+      "reading": "Kenzo’s morning scouting visit to Shakun’s realm lasts a few minutes before his return.",
+      "evidence": [
+        {
+          "startUid": "u1861",
+          "endUid": "u1861",
+          "quote": "Kenzo: Hey in the morning um, Tim when like the when it actually because you know, we have two opportunities to go into a wellspring to be like—could I like going to the wellspring just to see what the hell it is and go in and out like go in and then come back out?"
+        },
+        {
+          "startUid": "u1871",
+          "endUid": "u1873",
+          "quote": "DM: No, I was ready for this I'm. Kenzo steps into the waters and you all watch him vanish."
+        },
+        {
+          "startUid": "u1885",
+          "endUid": "u1887",
+          "quote": "Kenzo: Um, yeah, I just kind of take a take a quick scan around and then actually, you know, I'll spend a moment just a moment in kind of you know, grateful meditation in you know, just full-on acknowledging where I am give Shakun some shout outs, to the whole thing yeah. I step back through the portal."
+        },
+        {
+          "startUid": "u1889",
+          "endUid": "u1890",
+          "quote": "DM: [garbled]. He emerges again a few minutes later."
+        },
+        {
+          "startUid": "u1897",
+          "endUid": "u1897",
+          "quote": "DM: A few minutes like."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Kenzo specifies the morning portal opening; visit is accepted"
+      },
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM states and confirms the elapsed visit"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1895",
+        "endUid": "u1895"
+      },
+      "reading": "Cintra’s divination takes place in midafternoon.",
+      "evidence": [
+        {
+          "startUid": "u1895",
+          "endUid": "u1895",
+          "quote": "DM: So around mid afternoon."
+        },
+        {
+          "startUid": "u1900",
+          "endUid": "u1903",
+          "quote": "DM: Ah, mid afternoon Cintra sits down for a moment and meditates briefly and asks Shakun, “Is Jumi traveling with Agata?” And a moment later."
+        },
+        {
+          "startUid": "u1907",
+          "endUid": "u1911",
+          "quote": "DM: So yeah, so so um that the message the message that that emerges that comes back from Shakun is that Jumi is trapped with Agata. Emphasizing the with Agata."
+        }
+      ],
+      "time": {
+        "partOfDay": "midafternoon",
+        "precision": "approximate",
+        "basis": "DM’s narrated time"
+      },
+      "actors": [
+        "Cintra"
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1916",
+        "endUid": "u1918"
+      },
+      "reading": "Dusk arrives and the party gets a good night’s rest, completed before entering the portal at the following dawn. This crosses the second overnight boundary.",
+      "evidence": [
+        {
+          "startUid": "u1916",
+          "endUid": "u1918",
+          "quote": "DM: The day passes slowly dusk falling. The illusion closing again, and you are getting a good night's rest. Are you planning on going into the wellspring in the morning and staying or are you going to try and sneak in just before Agata arrives?"
+        },
+        {
+          "startUid": "u2067",
+          "endUid": "u2074",
+          "quote": "So you step into the portal at dawn."
+        },
+        {
+          "startUid": "u2102",
+          "endUid": "u2102",
+          "quote": "Seeker: The light at some point we had a long rest I gotta do that."
+        },
+        {
+          "startUid": "u2103",
+          "endUid": "u2104",
+          "quote": "DM: Yeah, yeah,"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "dusk",
+          "precision": "approximate",
+          "basis": "DM’s narrated time"
+        },
+        "end": {
+          "partOfDay": "dawn",
+          "precision": "approximate",
+          "basis": "DM’s narrated time"
+        }
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2067",
+        "endUid": "u2074"
+      },
+      "reading": "The party enters Shakun’s realm at dawn after that night’s rest.",
+      "evidence": [
+        {
+          "startUid": "u2067",
+          "endUid": "u2074",
+          "quote": "So you step into the portal at dawn."
+        }
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "DM’s narrated time"
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2079"
+      },
+      "reading": "The party waits in unchanging light until the portal refills; Kenzo describes spending the whole day in communion and later calls it eight hours. The next opening is inferred to be dusk from the stated dawn/dusk cycle, not from this realm’s light.",
+      "evidence": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2079",
+          "quote": "DM: And then, as time passes the light unchanging in this realm the mists occasionally blowing across the sun and clouds moving across the light fades from bright to dim from bright to dim seemingly random the reflection of the trees fades as well, and the pool begins to dry up closing, turning to a bare patch of dirt. And you wait."
+        },
+        {
+          "startUid": "u2103",
+          "endUid": "u2104",
+          "quote": "DM: Yeah, yeah, the light fades and gets brighter and fades and gets brighter and with this unchanging horizon and just a flat grasslands you sort of lose track of time until you see where this bare patch of dirt has remained behind you water begins to spring up the same way that did in the sand."
+        },
+        {
+          "startUid": "u2109",
+          "endUid": "u2109",
+          "quote": "Kenzo: Just the whole day I'm like fucking Shakun, Shakun, Shakun we're best friends here here's the plan."
+        },
+        {
+          "startUid": "u2521",
+          "endUid": "u2524",
+          "quote": "I spent eight hours communing with fucking Shakun"
+        },
+        {
+          "startUid": "u1161",
+          "endUid": "u1169",
+          "quote": "DM: Yes, the wellspring—the hour around dusk and the hour around dawn when the wellspring fills and drains—this pool is not here. It is in Shakun's realm the place where those who get lost trying to find their way past her defenses go. It is not of this plane."
+        },
+        {
+          "startUid": "u1171",
+          "endUid": "u1174",
+          "quote": "DM: As long as you as long as you put it in the hour around dusk or dawn and take it out same time the port, the connection to Shakun's realm is only open for those two hours of the day."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Kenzo’s retrospective estimate of his communion within the wait"
+      },
+      "completion": "completed",
+      "note": "The eight hours describes Kenzo’s experience, not an independently measured Material Plane interval; the portal cycle supplies the external endpoint."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2140",
+        "endUid": "u2148"
+      },
+      "reading": "About fifteen minutes after the pool finishes refilling, a puppet-like toddler arrives and signals the party to emerge.",
+      "evidence": [
+        {
+          "startUid": "u2140",
+          "endUid": "u2148",
+          "quote": "DM: So the water then begins to creep back into the dirt. The pool starts to fill the heart solidifies and turns back into stone but stays remaining there floating three feet above and then about 15 minutes after the pool has spread to its fullest extent you see stepping through— floating up from the [garbled] from the top of the it to the top of the pool a—what looks like a girl, a little girl, a toddler. But her body, except for her face is made of wood, it looks like she's a puppet except her face just her face not her whole head just her face is a human face. And she steps through she looks up at you and she says “Now.”"
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "the returning portal pool reaches its fullest extent",
+          "offset": {
+            "value": 15,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM’s narrated interval"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM places the girl’s arrival fifteen minutes after the pool fills"
+      },
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated interval after the pool fills"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute adventure date is spoken. The relative span matches conditionally on the YAML start of 1748-05-27.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t09",
+      "t12",
+      "t13",
+      "t14",
+      "t15"
+    ],
+    "explanation": "Play opens before sunset, reaches the following morning after night preparation, then completes a second overnight before the dawn ambush vigil. The next portal opening and fight occur that same third day. Recapped travel and historical Summer of Red Storms do not extend this session’s played interval."
+  }
+}
