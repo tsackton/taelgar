@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-002",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
+    "sessionYamlSha256": "f2ffcf05a3fd3010ce7a1ee4128da80b9b795fb8178b4597655fd266af6afb3f",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-transcript.md",
+    "transcriptSha256": "cf11e97e7d36f726ce088f3b7a8330fcf9d2d0434dd8a32e66bb506fbe260ce5",
+    "yamlDates": {
+      "start": "1730-01-25",
+      "end": "1730-01-25"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0045"
+      },
+      "reading": "The party begins with a completed short rest already credited; its placement within the session boundary is uncertain.",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "one-hour short-rest convention; not a measured interval"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0045",
+          "quote": "You've all short-rested, so I think everybody dealt with that."
+        },
+        {
+          "startUid": "u0046",
+          "endUid": "u0046",
+          "quote": "Finnan: Yep."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0239",
+        "endUid": "u0243"
+      },
+      "reading": "Finnan takes about a minute to compare the air flowing through the four branches.",
+      "actors": [
+        "Finnan"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Finnan proposes taking a minute; the DM resolves the investigation and reports its result"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0239",
+          "endUid": "u0239",
+          "quote": "Finnan: I'll just take a minute and do the Gandalf thing, is like, is there any difference in the wind coming from any of the passageways?"
+        },
+        {
+          "startUid": "u0242",
+          "endUid": "u0243",
+          "quote": "DM: The two passageways, like, these two, like, again, it's like a hand, these two passageways here seem very still. There's a wind blowing… you notice a wind blowing down, like, there's some air flowing down this passageway and up this passageway. So, like, as you're standing, sort of feeling at the passageways, you can feel a breeze going down this one and coming back into the room from this one."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1413",
+        "endUid": "u1417"
+      },
+      "reading": "The first curved passage from the seven-way snowy junction takes a few minutes; the later answer puts travel between these apparent rooms at two or three minutes.",
+      "duration": {
+        "min": 2,
+        "minInclusive": true,
+        "max": 3,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated few-minute passage, clarified by the later answer about walking between these rooms"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1413",
+          "endUid": "u1417",
+          "quote": "DM: You take the rightmost, and you go, and it's… and it's… It's turning, and you come out into another room. It kind of curves, and you curve for a few minutes. You come out into… A room? Looks maybe similar? But there's only 5 passages out."
+        },
+        {
+          "startUid": "u1488",
+          "endUid": "u1489",
+          "quote": "Finnan: I mean… I suggest we retreat into the corridor. A little bit. Like, how long are these passageways in between rooms? How long does it take us to walk?"
+        },
+        {
+          "startUid": "u1490",
+          "endUid": "u1490",
+          "quote": "DM: 2 or 3 minutes."
+        }
+      ],
+      "note": "Further loops are played, but their aggregate duration is not stated; this is not a total for the loop sequence."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1740",
+        "endUid": "u1741"
+      },
+      "reading": "The party slides into the darkness for about a minute before emerging into the large chamber.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates a minute of sliding"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1740",
+          "endUid": "u1741",
+          "quote": "DM: You jump down into the darkness, and you slide for a minute."
+        },
+        {
+          "startUid": "u1758",
+          "endUid": "u1759",
+          "quote": "DM: You come out, you slide down, you come out, and you're standing in a room… I'm just thinking about timing."
+        }
+      ],
+      "note": "The subsequent music-search interruption does not establish an additional slide interval."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "January 25, 1730 comes only from session YAML; no date or clock is independently spoken for current play.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04"
+    ],
+    "explanation": "Continuous labyrinth exploration is compatible with the same-day YAML span, but sparse elapsed intervals and no civil-time anchor do not establish an exact date-boundary total. Opening short-rest credit may belong to the preceding session; historical sunrise sacrifices do not date this play."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01"
+      ],
+      "reading": "The opening says everyone has already short-rested without replaying that interval.",
+      "alternatives": [
+        {
+          "reading": "The rest precedes this session’s covered adventure interval."
+        },
+        {
+          "reading": "The opening retrospectively credits a rest included at this session’s start; it supplies no independent civil-date boundary."
+        }
+      ]
+    }
+  ]
+}
