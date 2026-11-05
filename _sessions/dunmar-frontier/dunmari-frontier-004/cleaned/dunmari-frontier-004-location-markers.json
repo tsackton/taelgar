@@ -1,0 +1,742 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-004",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+    "sessionYamlSha256": "eb893f6b37db3f8d459a64722f55ee19873490a3a342f9ee8ebbb61cff2bbe4e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-transcript.md",
+    "transcriptSha256": "3310903b46fdda728b744d6c9e18735ede66a9009735c622ebaf0ad3d92762f6"
+  },
+  "places": {
+    "p01": {
+      "label": "Abandoned Dunmari fort near Gomat",
+      "kind": "fort",
+      "evidence": [
+        {
+          "startUid": "u0719",
+          "endUid": "u0726",
+          "quote": "the temple in the fort was really clearly a temple of Aagir"
+        },
+        {
+          "startUid": "u1716",
+          "endUid": "u1721",
+          "quote": "in the caves northeast of here, beneath an abandoned stronghold"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Dunmari Fort (Gomat).md"
+    },
+    "p02": {
+      "label": "Fort temple of Aagir",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0003",
+          "quote": "DM: So you awaken in the temple. The statue has settled in the night, I'll say; the coin got squirted out to the side, so it's on the ground."
+        },
+        {
+          "startUid": "u0719",
+          "endUid": "u0726",
+          "quote": "the temple in the fort was really clearly a temple of Aagir"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0719",
+              "endUid": "u0726",
+              "quote": "the temple in the fort was really clearly a temple of Aagir"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Canyon top where the horse waits",
+      "kind": "waypoint",
+      "evidence": [
+        {
+          "startUid": "u0407",
+          "endUid": "u0417",
+          "quote": "From the top of the canyon"
+        }
+      ]
+    },
+    "p04": {
+      "label": "Gomat",
+      "kind": "oasis",
+      "evidence": [
+        {
+          "startUid": "u0446",
+          "endUid": "u0453",
+          "quote": "a day back to Gomat"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Gomat.md"
+    },
+    "p05": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0472",
+          "endUid": "u0477",
+          "quote": "this close to Karawa"
+        },
+        {
+          "startUid": "u0564",
+          "endUid": "u0579",
+          "quote": "DM: You—you are quickly directed to this, this council chamber, where you find Kisa walking in shortly after you arrive, slowly. She's, she's older. She has a bit of a limp and, and moves deliberately, but she seems quite pleased to see you back alive, and turns specifically to Delwath and says, \"It's been very quiet the past three days. Do you have good news to report?\"\n\nDelwath: We found a source of these disturbances, we believe. About three days ago we destroyed it.\n\nDM: That is indeed very good to hear. I am—with the rumors that have been, you know, coming in with the travelers gathering for the festival, I've been quite nervous for Karawa."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p06": {
+      "label": "Council chamber",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0555",
+          "endUid": "u0570",
+          "quote": "DM: So in the main part of the village, there's the, you know, there's, like, these sort of mud huts that kind of form small roadways through them. But there's one space that's kind of more open—so there's the area around the oasis that's more open. Then there's another space that's more open that has this, like, big public square. On one side, there's a similar pentagonal building to the one you found in the fortress. That's the Temple of the Five Siblings here, smaller and less grandiose than the Shakun mystai, which are carved—which is this large monastery carved into the side of the red cliffs of the mesa just south of town. But then, on the other end of this plaza, there's a circular building that serves as the council chambers and that sort of meeting hall for, you know, when the town gets together to have discussions and, and make decisions and—\n\nDM: You—you are quickly directed to this, this council chamber, where you find Kisa walking in shortly after you arrive, slowly. She's, she's older. She has a bit of a limp and, and moves deliberately, but she seems quite pleased to see you back alive, and turns specifically to Delwath and says, \"It's been very quiet the past three days. Do you have good news to report?\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0555",
+              "endUid": "u0570",
+              "quote": "DM: So in the main part of the village, there's the, you know, there's, like, these sort of mud huts that kind of form small roadways through them. But there's one space that's kind of more open—so there's the area around the oasis that's more open. Then there's another space that's more open that has this, like, big public square. On one side, there's a similar pentagonal building to the one you found in the fortress. That's the Temple of the Five Siblings here, smaller and less grandiose than the Shakun mystai, which are carved—which is this large monastery carved into the side of the red cliffs of the mesa just south of town. But then, on the other end of this plaza, there's a circular building that serves as the council chambers and that sort of meeting hall for, you know, when the town gets together to have discussions and, and make decisions and—\n\nDM: You—you are quickly directed to this, this council chamber, where you find Kisa walking in shortly after you arrive, slowly. She's, she's older. She has a bit of a limp and, and moves deliberately, but she seems quite pleased to see you back alive, and turns specifically to Delwath and says, \"It's been very quiet the past three days. Do you have good news to report?\""
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Ikram’s caravanserai",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u0772",
+          "endUid": "u0793",
+          "quote": "DM: Inn first, okay. Ah. So the inn is—let's see, what do we got here? The inn is not quiet and peaceful. The inn is bustling and—\n\nUnknown: This is not going to be the right music.\n\nKenzo: Works.\n\nDM: Too Western. We'll go with this. It's not perfect.\n\nDM: Okay, so yeah, so the inn is—it's definitely—when you were here a week ago, there was, you know, probably almost nobody else. A few other people staying there, but not really very many people. Now it seems like almost every room is full. There's a handful of people sort of lounging outside, sitting around with drinks in the afternoon, kind of chatting to each other. There's—the courtyard is, is sort of on the outside, is full of animals. Here we can go back to the map. Back in town.\n\nDM: And just in general, the atmosphere, again, is pretty—pretty, pretty lively, even though there's still sort of an undercurrent of, like, people talking about these rumors about the attacks and, like, do you know anybody who was attacked, and things like that. But Ikram sees you all coming in together and sort of yells across the room. “Kenzo! Look, everybody, it's the one who killed the hyena. Do that thing with your staff. You were supposed to come talk to me and tell me some stories.”"
+        },
+        {
+          "startUid": "u1376",
+          "endUid": "u1380",
+          "quote": "DM: So he takes a few minutes to kind of store his gear and just clean up the, the smithing area and says, “Okay, let's head along.” And you can tell he's probably here a lot. Ikram sees you coming, anyways. He sits back, and Jasu sort of heads to the regular table and sits down. Ikram brings you all more drinks of the same thing you were drinking before. “Okay, so what would you like to talk about?” This is Jasu."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Ikram's.md",
+      "note": "This is the pre-destruction inn in the played session; the linked vault page also describes its later rebuilding.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0518",
+              "endUid": "u0521",
+              "quote": "DM: So it's late afternoon now. You head down the hillside where you, Kenzo, were coming down and first saw the giant hyenas attacking, and find yourself now again on the outskirts of the caravanserai."
+            },
+            {
+              "startUid": "u0759",
+              "endUid": "u0793",
+              "quote": "Kenzo: Should we go speak with the innkeep?\n\nSeeker: With Ikram first. Yes, I think that's a good idea.\n\nKenzo: All right, we go over to the inn.\n\nDM: Okay. Hold on one sec.\n\nUnknown: Just disagree once again.\n\nDM: I just emailed you, though, that map too, if you want to—\n\nWellby: Email myself.\n\nDM: Okay, I'm—okay, so where—where do you want to go, to the inn first or the temple first?\n\nUnknown: Inn.\n\nKenzo: Inn. Yeah.\n\nDM: Inn first, okay. Ah. So the inn is—let's see, what do we got here? The inn is not quiet and peaceful. The inn is bustling and—\n\nUnknown: This is not going to be the right music.\n\nKenzo: Works.\n\nDM: Too Western. We'll go with this. It's not perfect.\n\nDM: Okay, so yeah, so the inn is—it's definitely—when you were here a week ago, there was, you know, probably almost nobody else. A few other people staying there, but not really very many people. Now it seems like almost every room is full. There's a handful of people sort of lounging outside, sitting around with drinks in the afternoon, kind of chatting to each other. There's—the courtyard is, is sort of on the outside, is full of animals. Here we can go back to the map. Back in town.\n\nDM: And just in general, the atmosphere, again, is pretty—pretty, pretty lively, even though there's still sort of an undercurrent of, like, people talking about these rumors about the attacks and, like, do you know anybody who was attacked, and things like that. But Ikram sees you all coming in together and sort of yells across the room. “Kenzo! Look, everybody, it's the one who killed the hyena. Do that thing with your staff. You were supposed to come talk to me and tell me some stories.”"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Jasu’s blacksmith shop",
+      "kind": "shop",
+      "evidence": [
+        {
+          "startUid": "u1356",
+          "endUid": "u1367",
+          "quote": "DM: Ah, he is—as you—so there's the sort of street where Delwath has rooms and the—that the caravanserai is on. There's, like, a series of shops along that street, mostly, like, various craftspeople who live above their shops. So the smith is there, and there's, like, a—what do you call the—tailor—tailor—and, like, hosiery, and a cobbler, and all—that's, like, pretty much the, like, where all the, you know, those people live and—\n\nDM: You get to Jasu's blacksmith shop pretty much as he's finishing up in the—I don't know what I did with my town images as well—as he's finishing up in the—he's, like, just sort of dousing his forge and getting ready to head in for dinner, and he sees Delwath. He sees you coming and he sort of turns and—\"Delwath, can I—can I help you? Do you need something?\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1356",
+              "endUid": "u1367",
+              "quote": "DM: Ah, he is—as you—so there's the sort of street where Delwath has rooms and the—that the caravanserai is on. There's, like, a series of shops along that street, mostly, like, various craftspeople who live above their shops. So the smith is there, and there's, like, a—what do you call the—tailor—tailor—and, like, hosiery, and a cobbler, and all—that's, like, pretty much the, like, where all the, you know, those people live and—\n\nDM: You get to Jasu's blacksmith shop pretty much as he's finishing up in the—I don't know what I did with my town images as well—as he's finishing up in the—he's, like, just sort of dousing his forge and getting ready to head in for dinner, and he sees Delwath. He sees you coming and he sort of turns and—\"Delwath, can I—can I help you? Do you need something?\""
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Festival campground west of the caravanserai",
+      "kind": "campground",
+      "evidence": [
+        {
+          "startUid": "u1538",
+          "endUid": "u1542",
+          "quote": "DM: So, so there's that—there's, like, the inn, the caravanserai. There's—which is, like, a big courtyard. And then, like, west of there, there's, like, this big, flat, open plain where a bunch of Dunmari who come in for the festival sort of set up their little family-group campsites, and the halflings have set up their wagons there. So it's not far from here."
+        }
+      ],
+      "note": "The camp lies on the open plain west of the inn, at the town’s outskirts; it is not assigned to the inn building.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0501",
+              "endUid": "u0517",
+              "quote": "on the outskirts of town"
+            }
+          ]
+        },
+        {
+          "relation": "west_of",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1538",
+              "endUid": "u1542",
+              "quote": "DM: So, so there's that—there's, like, the inn, the caravanserai. There's—which is, like, a big courtyard. And then, like, west of there, there's, like, this big, flat, open plain where a bunch of Dunmari who come in for the festival sort of set up their little family-group campsites, and the halflings have set up their wagons there. So it's not far from here."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Bree’s wagon camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1553",
+          "endUid": "u1571",
+          "quote": "DM: They have, like, three wagons—a number of three sort of goods wagons—and then a couple of horses, a couple of carriages that they ride in. It's a pretty big group, well-equipped. You can see, just sort of as you approach, there's, you know, five or six halflings kind of sitting around the fire. Looks like they're cooking themselves dinner. One of them's taken out a lute-type instrument and is, like, playing kind of a jazzy, upbeat tune. And as they see you approach, you know, once you sort of get within sight, one of them sort of stands up and waves and says, “Ah, fellow travelers, come.”\n\nWellby: I catch her eye and give a traditional halfling—\n\nDM: Yeah, this is—\n\nWellby: Yeah, so I respond in kind. Silently.\n\nDM: So the, the, the sort of—one is—there was, like, a several of them kind of hustling around, you know, in prepping dinner, kind of taking care of the—of the goods, taken care of, you know, the—the campsite. And as you approach, you can see there's, like, three wagons kind of arrayed in a semicircle, and there's one wagon that's kind of set a little in the back. Wellby, can you make a Perception check?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1538",
+              "endUid": "u1542",
+              "quote": "DM: So, so there's that—there's, like, the inn, the caravanserai. There's—which is, like, a big courtyard. And then, like, west of there, there's, like, this big, flat, open plain where a bunch of Dunmari who come in for the festival sort of set up their little family-group campsites, and the halflings have set up their wagons there. So it's not far from here."
+            },
+            {
+              "startUid": "u1553",
+              "endUid": "u1571",
+              "quote": "DM: They have, like, three wagons—a number of three sort of goods wagons—and then a couple of horses, a couple of carriages that they ride in. It's a pretty big group, well-equipped. You can see, just sort of as you approach, there's, you know, five or six halflings kind of sitting around the fire. Looks like they're cooking themselves dinner. One of them's taken out a lute-type instrument and is, like, playing kind of a jazzy, upbeat tune. And as they see you approach, you know, once you sort of get within sight, one of them sort of stands up and waves and says, “Ah, fellow travelers, come.”\n\nWellby: I catch her eye and give a traditional halfling—\n\nDM: Yeah, this is—\n\nWellby: Yeah, so I respond in kind. Silently.\n\nDM: So the, the, the sort of—one is—there was, like, a several of them kind of hustling around, you know, in prepping dinner, kind of taking care of the—of the goods, taken care of, you know, the—the campsite. And as you approach, you can see there's, like, three wagons kind of arrayed in a semicircle, and there's one wagon that's kind of set a little in the back. Wellby, can you make a Perception check?"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Karawa oasis",
+      "kind": "oasis",
+      "evidence": [
+        {
+          "startUid": "u1802",
+          "endUid": "u1812",
+          "quote": "Delwath: Delwath, a little, like—the conversation that—the story about somebody—voices talking to somebody seems like it kind of unnerved his normally somewhat calm manner. Well, there's a rumor, a story, that people who spend the night—by the way, so there's a big oasis in town, right? The town's built—\n\nUnknown: Yeah.\n\nDM: Yeah. Like south of the—where you are, like, in between the mesa and the inn and everything. There's, like, a big oasis that's been rimmed with stone, and it's sort of tamed and used for irrigation and drinking."
+        }
+      ],
+      "note": "The town oasis is distinct from the sacred grove called Shakun’s Wellspring; no identity with that grove is asserted.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1802",
+              "endUid": "u1812",
+              "quote": "Delwath: Delwath, a little, like—the conversation that—the story about somebody—voices talking to somebody seems like it kind of unnerved his normally somewhat calm manner. Well, there's a rumor, a story, that people who spend the night—by the way, so there's a big oasis in town, right? The town's built—\n\nUnknown: Yeah.\n\nDM: Yeah. Like south of the—where you are, like, in between the mesa and the inn and everything. There's, like, a big oasis that's been rimmed with stone, and it's sort of tamed and used for irrigation and drinking."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Temple of Shakun",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0555",
+          "endUid": "u0563",
+          "quote": "DM: So in the main part of the village, there's the, you know, there's, like, these sort of mud huts that kind of form small roadways through them. But there's one space that's kind of more open—so there's the area around the oasis that's more open. Then there's another space that's more open that has this, like, big public square. On one side, there's a similar pentagonal building to the one you found in the fortress. That's the Temple of the Five Siblings here, smaller and less grandiose than the Shakun mystai, which are carved—which is this large monastery carved into the side of the red cliffs of the mesa just south of town. But then, on the other end of this plaza, there's a circular building that serves as the council chambers and that sort of meeting hall for, you know, when the town gets together to have discussions and, and make decisions and—"
+        },
+        {
+          "startUid": "u2066",
+          "endUid": "u2077",
+          "quote": "DM: So you all sort of gather in the oasis and I—and sort of head into the—into the temple, I presume. And the first—like, the entry—Candrosa is, like, waiting in the—in the entry room of the—of the, sort of—so there's, like, this, this monastery. This building is carved into the side of this cliff of this red mesa, which is, like, towering quite a ways above you, right? Like hundreds of feet above you. But there's an area that sticks out and there's, like, a few small chambers and things like that, and there's, like, an entryway, and you can see deeper in there's—you can see there's, like, what you feel like is large open space behind you inside the mesa. But he, he sort of leads you to a little bit of a side room where there are some chairs and a table that you can sit at, and he, when he sees you all there and he sees that he, you know, clearly interrupted tonight, he does, you know, seem slightly apologetic and, you know, looks at you all and says, \"I'm sorry. I didn't mean to disrupt your night like that.\""
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u2066",
+              "endUid": "u2077",
+              "quote": "This building is carved into the side of this cliff of this red mesa"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Temple side room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2066",
+          "endUid": "u2077",
+          "quote": "he, he sort of leads you to a little bit of a side room where there are some chairs and a table that you can sit at"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2066",
+              "endUid": "u2077",
+              "quote": "DM: So you all sort of gather in the oasis and I—and sort of head into the—into the temple, I presume. And the first—like, the entry—Candrosa is, like, waiting in the—in the entry room of the—of the, sort of—so there's, like, this, this monastery. This building is carved into the side of this cliff of this red mesa, which is, like, towering quite a ways above you, right? Like hundreds of feet above you. But there's an area that sticks out and there's, like, a few small chambers and things like that, and there's, like, an entryway, and you can see deeper in there's—you can see there's, like, what you feel like is large open space behind you inside the mesa. But he, he sort of leads you to a little bit of a side room where there are some chairs and a table that you can sit at, and he, when he sees you all there and he sees that he, you know, clearly interrupted tonight, he does, you know, seem slightly apologetic and, you know, looks at you all and says, \"I'm sorry. I didn't mean to disrupt your night like that.\""
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Roadside lunch stop",
+      "kind": "stop",
+      "evidence": [
+        {
+          "startUid": "u0459",
+          "endUid": "u0477",
+          "quote": "Seeker: I'm—Tim, when we stop for meals, or no, maybe at, like, lunchtime. You say—here's the thing. I'm using my Stonecunning, because I know that somebody mentioned that there was, like, weird stuff you could dig up along the road side.\n\nDM: Oh, yeah, that was Alesh, the scout you ran into. Yeah, she was referring to, like, relics of old battles, mostly. So your stone sense detects—it won't detect, like, weapons generally. It's only—it's going to detect, like, minerals or, like, precious metals or gems or something. You could—I guess you could try and find—yeah. Let's see. No, you don't sense anything particularly unusual when you stop.\n\nDM: Well, let me just check one thing. No, it's, it's—you seem to—as you're getting further west, it seems like this area has been more—like, a lot of that—probably a lot of the old artifacts and stuff have been found this far—this close to Karawa. But you don't really get a sense that there's anything particularly unusual within your radius."
+        }
+      ],
+      "note": "An unnamed stop during the return journey; its particular day and position along the route are not fixed."
+    },
+    "p15": {
+      "label": "Red mesa south of Karawa",
+      "kind": "mesa",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md",
+      "evidence": [
+        {
+          "startUid": "u0555",
+          "endUid": "u0563",
+          "quote": "this large monastery carved into the side of the red cliffs of the mesa just south of town"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "south_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0555",
+              "endUid": "u0563",
+              "quote": "the red cliffs of the mesa just south of town"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0005"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party wakes in the fort temple and investigates before departure.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0005",
+          "quote": "DM: So you awaken in the temple. The statue has settled in the night, I'll say; the coin got squirted out to the side, so it's on the ground.\n\nDM: You're all refreshed and restored. And if you want to investigate anything before you head back across the canyon and towards the horse, let me know."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0407",
+        "endUid": "u0417"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Recover the horse, haul the temple goods up the canyon, and return by the road via Gomat to Karawa.",
+      "evidence": [
+        {
+          "startUid": "u0407",
+          "endUid": "u0417",
+          "quote": "DM: So, as—as discussed last time, you do indeed find the horse alive, if a little bit thirsty and annoyed at you for leaving it trapped in an earthen box for, what, 24 hours roughly. But no real worse for wear. From the top of the canyon, the—the—the bit of a hassle getting all of this stuff you have retrieved from the temple up the sheer climb, but your rope is still hanging there, and so that makes it easier to scramble up and, once you get to the top, it's not so bad to start hauling it up on the rope before you head off, and the ride along the road seems—"
+        },
+        {
+          "startUid": "u0418",
+          "endUid": "u0427",
+          "quote": "DM: Well, first of all, you're going along the road instead of cutting through the canyonlands, so it's an easier journey. And it seems just a little bit more—not exactly peaceful, but again, there's, like, that sort of bit of tension, even this far out, seems to have gone. Like, the—you know, the animals are not—not every creature this far away was attacking you, but there were certainly—you know, now that you're riding back, you can see the change in the landscape that—\n\nUnknown: Huh.\n\nDM: What struck—well, things that seemed to be, you know, those of you who maybe were less familiar with the area, maybe seemed to be normal, now seem to have been disturbed. And as you're riding back, you do sense the sort of difference that destroying this thing seems to have made."
+        },
+        {
+          "startUid": "u0446",
+          "endUid": "u0453",
+          "quote": "DM: Okay, so let's see. So it would be—so it's, like, a day back to Gomat from the—from the—the canyonlands. So that would be, like, a day and a half, and then it's maybe another two days from Gomat. So it's about—you know, with the time you spent searching in the morning, I think it's probably about three or four days' journey back to town. Unless you want to, you know, push it as fast as you can."
+        },
+        {
+          "startUid": "u0518",
+          "endUid": "u0521",
+          "quote": "DM: So it's late afternoon now. You head down the hillside where you, Kenzo, were coming down and first saw the giant hyenas attacking, and find yourself now again on the outskirts of the caravanserai."
+        }
+      ],
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "ride and walk",
+      "route": [
+        {
+          "place": "p03",
+          "reading": "Retrieve the horse and haul recovered goods up the canyon using the rope."
+        },
+        {
+          "place": "p04",
+          "reading": "Follow the return route through Gomat; no separate substantive stop is narrated."
+        }
+      ],
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s initial journey estimate, not a confirmed exact travel duration"
+      },
+      "note": "The party asks to travel as quickly as reasonably safe; arrival is established separately at u0518–u0521."
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0459",
+        "endUid": "u0477"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "At a lunchtime roadside stop, Seeker searches for unusual buried materials.",
+      "evidence": [
+        {
+          "startUid": "u0459",
+          "endUid": "u0477",
+          "quote": "Seeker: I'm—Tim, when we stop for meals, or no, maybe at, like, lunchtime. You say—here's the thing. I'm using my Stonecunning, because I know that somebody mentioned that there was, like, weird stuff you could dig up along the road side.\n\nDM: Oh, yeah, that was Alesh, the scout you ran into. Yeah, she was referring to, like, relics of old battles, mostly. So your stone sense detects—it won't detect, like, weapons generally. It's only—it's going to detect, like, minerals or, like, precious metals or gems or something. You could—I guess you could try and find—yeah. Let's see. No, you don't sense anything particularly unusual when you stop.\n\nDM: Well, let me just check one thing. No, it's, it's—you seem to—as you're getting further west, it seems like this area has been more—like, a lot of that—probably a lot of the old artifacts and stuff have been found this far—this close to Karawa. But you don't really get a sense that there's anything particularly unusual within your radius."
+        }
+      ],
+      "place": "p14",
+      "relations": [
+        {
+          "type": "during",
+          "target": "l02"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0549",
+        "endUid": "u0570"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Go through Karawa to the council chamber, where Kisa arrives to receive the report.",
+      "evidence": [
+        {
+          "startUid": "u0549",
+          "endUid": "u0570",
+          "quote": "DM: Okay, so it doesn't take you that long. Once, you know, you let it be known around town that you're back—and certainly people recognize you—and just the sight of the four of you coming into town, anyway, creates a bit of a stir, simply because it's sort of unusual to see an elf, a dwarf, a human, and a halfling all traveling together. And, you know, it doesn't, it doesn't take you long to, to hear that—for Kisa to hear that you're back, and you find your way to, sort of through the—\n\nDM: So in the main part of the village, there's the, you know, there's, like, these sort of mud huts that kind of form small roadways through them. But there's one space that's kind of more open—so there's the area around the oasis that's more open. Then there's another space that's more open that has this, like, big public square. On one side, there's a similar pentagonal building to the one you found in the fortress. That's the Temple of the Five Siblings here, smaller and less grandiose than the Shakun mystai, which are carved—which is this large monastery carved into the side of the red cliffs of the mesa just south of town. But then, on the other end of this plaza, there's a circular building that serves as the council chambers and that sort of meeting hall for, you know, when the town gets together to have discussions and, and make decisions and—\n\nDM: You—you are quickly directed to this, this council chamber, where you find Kisa walking in shortly after you arrive, slowly. She's, she's older. She has a bit of a limp and, and moves deliberately, but she seems quite pleased to see you back alive, and turns specifically to Delwath and says, \"It's been very quiet the past three days. Do you have good news to report?\""
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0759",
+        "endUid": "u0793"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave for the inn and enter the busy caravanserai, where Ikram greets them.",
+      "evidence": [
+        {
+          "startUid": "u0759",
+          "endUid": "u0761",
+          "quote": "Kenzo: Should we go speak with the innkeep?\n\nSeeker: With Ikram first. Yes, I think that's a good idea.\n\nKenzo: All right, we go over to the inn."
+        },
+        {
+          "startUid": "u0772",
+          "endUid": "u0793",
+          "quote": "DM: Inn first, okay. Ah. So the inn is—let's see, what do we got here? The inn is not quiet and peaceful. The inn is bustling and—\n\nUnknown: This is not going to be the right music.\n\nKenzo: Works.\n\nDM: Too Western. We'll go with this. It's not perfect.\n\nDM: Okay, so yeah, so the inn is—it's definitely—when you were here a week ago, there was, you know, probably almost nobody else. A few other people staying there, but not really very many people. Now it seems like almost every room is full. There's a handful of people sort of lounging outside, sitting around with drinks in the afternoon, kind of chatting to each other. There's—the courtyard is, is sort of on the outside, is full of animals. Here we can go back to the map. Back in town.\n\nDM: And just in general, the atmosphere, again, is pretty—pretty, pretty lively, even though there's still sort of an undercurrent of, like, people talking about these rumors about the attacks and, like, do you know anybody who was attacked, and things like that. But Ikram sees you all coming in together and sort of yells across the room. “Kenzo! Look, everybody, it's the one who killed the hyena. Do that thing with your staff. You were supposed to come talk to me and tell me some stories.”"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1352",
+        "endUid": "u1367"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Visit Jasu’s shop as he closes the forge.",
+      "evidence": [
+        {
+          "startUid": "u1352",
+          "endUid": "u1367",
+          "quote": "Wellby: So, blacksmith.\n\nKenzo: Sweet.\n\nSeeker: It's sweet. Let's check out the blacksmith, Jasu.\n\nUnknown: Okay.\n\nDM: Ah, he is—as you—so there's the sort of street where Delwath has rooms and the—that the caravanserai is on. There's, like, a series of shops along that street, mostly, like, various craftspeople who live above their shops. So the smith is there, and there's, like, a—what do you call the—tailor—tailor—and, like, hosiery, and a cobbler, and all—that's, like, pretty much the, like, where all the, you know, those people live and—\n\nDM: You get to Jasu's blacksmith shop pretty much as he's finishing up in the—I don't know what I did with my town images as well—as he's finishing up in the—he's, like, just sort of dousing his forge and getting ready to head in for dinner, and he sees Delwath. He sees you coming and he sort of turns and—\"Delwath, can I—can I help you? Do you need something?\""
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1376",
+        "endUid": "u1380"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return with Jasu to his regular table at Ikram’s.",
+      "evidence": [
+        {
+          "startUid": "u1376",
+          "endUid": "u1380",
+          "quote": "DM: So he takes a few minutes to kind of store his gear and just clean up the, the smithing area and says, “Okay, let's head along.” And you can tell he's probably here a lot. Ikram sees you coming, anyways. He sits back, and Jasu sort of heads to the regular table and sits down. Ikram brings you all more drinks of the same thing you were drinking before. “Okay, so what would you like to talk about?” This is Jasu."
+        }
+      ],
+      "from": "p08",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1534",
+        "endUid": "u1561"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Walk through the festival campground to the halfling wagons and speak with Bree.",
+      "evidence": [
+        {
+          "startUid": "u1534",
+          "endUid": "u1561",
+          "quote": "Wellby: Let's—let's head to their camp. Yeah, they're camped off somewhere.\n\nDM: Yeah, their camp to sort of—\n\nDM: So, so there's that—there's, like, the inn, the caravanserai. There's—which is, like, a big courtyard. And then, like, west of there, there's, like, this big, flat, open plain where a bunch of Dunmari who come in for the festival sort of set up their little family-group campsites, and the halflings have set up their wagons there. So it's not far from here.\n\nDelwath: Yeah.\n\nDM: Okay. Um, so walking through, you're sort of walking through the camp. You can—again, you can tell there's sort of whispers traveling out as you pass, and you get the sense that news has started to spread among these people here that not only have the beasts been quiet, but you're the ones who did it. And, you know, there's a few, a few people will sort of come up and sort of say thank you and, like, give you a little bit of, like, a bow greeting-type thing, and then kind of back off, because they're still a little bit skeptical of, like, the elf, especially the ones who aren't villagers, who aren't from Karawa. But you definitely get the sense that news is beginning to travel, and you probably won't be able to pass through—you probably won't be anonymous at the festival at this rate.\n\nDM: But, you know, people don't hinder you, and you sort of pass through the camp. The crowd—most people seem—there's occasional sort of, you know, from a few campsites, you hear crying and sort of sounds of sadness as people are mourning. You see in the distance Akan and his family, and they seem fairly sober, but the halflings are—for the most part, seem pretty cheery. They've, they've—\n\nDM: They have, like, three wagons—a number of three sort of goods wagons—and then a couple of horses, a couple of carriages that they ride in. It's a pretty big group, well-equipped. You can see, just sort of as you approach, there's, you know, five or six halflings kind of sitting around the fire. Looks like they're cooking themselves dinner. One of them's taken out a lute-type instrument and is, like, playing kind of a jazzy, upbeat tune. And as they see you approach, you know, once you sort of get within sight, one of them sort of stands up and waves and says, “Ah, fellow travelers, come.”"
+        },
+        {
+          "startUid": "u1600",
+          "endUid": "u1606",
+          "quote": "DM: Um, so she steps forward, and she, you know, kind of seems a bit—a bit tired, like clearly has traveled, but seems, like, always happy to talk to people. And she introduces herself. She says, \"Welcome. I'm guessing, fellow travelers? Most of you look like you're not from around here.\" You could say. \"Name's Bree. Bree Charmheart. Would you like to sit and chat?\"\n\nWellby: We would introduce each of them in turn, and then myself, and say it's good, good to sit with the family."
+        }
+      ],
+      "from": "p07",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p09",
+          "reading": "Pass through the festival camps, seeing Akan’s family in the distance."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1865",
+        "endUid": "u1886"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Kenzo and Seeker initially return to the tavern; Seeker looks through his notes there before reconsidering.",
+      "evidence": [
+        {
+          "startUid": "u1865",
+          "endUid": "u1867",
+          "quote": "Kenzo: Yeah, I just gotta see if I go back to the tavern and hang out with Ikram and make jokes about being a drunk monk."
+        },
+        {
+          "startUid": "u1871",
+          "endUid": "u1872",
+          "quote": "Kenzo: What are you doing then, Seeker?\n\nSeeker: I'm going back to the tavern."
+        },
+        {
+          "startUid": "u1882",
+          "endUid": "u1886",
+          "quote": "Seeker: Actually, when I get back to the, to the tavern, I'm looking through my notes of things and thinking, as I so often do as I get ready for sleep, about that one experience I had, and then wondering if this fountain story has anything to do with the mystery cult. Or is it just a story about a fountain?"
+        }
+      ],
+      "from": "p10",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1875",
+        "endUid": "u1878"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Delwath and Wellby are at the oasis; Wellby will keep watch rather than meditate.",
+      "evidence": [
+        {
+          "startUid": "u1868",
+          "endUid": "u1870",
+          "quote": "DM: So who's sleeping at the oasis? It's only Delwath going to the oasis?\n\nWellby: Going to be at the oasis, but not meditating.\n\nUnknown: Okay."
+        },
+        {
+          "startUid": "u1875",
+          "endUid": "u1878",
+          "quote": "DM: So, Wellby and Delwath are at the oasis. Who else? And Seeker and Kenzo are—"
+        },
+        {
+          "startUid": "u1917",
+          "endUid": "u1919",
+          "quote": "DM: Awesome. And Wellby, you're just gonna—you're just sort of hanging out watching them?\n\nWellby: Yeah, I'm going to keep watch because I want to keep—if anyone shows up, keep them from interfering. And I'm just less trusting of oases after a recent experience."
+        }
+      ],
+      "place": "p11"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1893",
+        "endUid": "u1916"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker changes his mind, leaves the tavern, and joins the vigil on the stones by the oasis.",
+      "evidence": [
+        {
+          "startUid": "u1893",
+          "endUid": "u1894",
+          "quote": "Seeker: Because one of the reasons that I came here in the first place was to try to probe these interconnections. So maybe I will go out there and join them."
+        },
+        {
+          "startUid": "u1897",
+          "endUid": "u1900",
+          "quote": "Seeker: I'm the one who ran over just to see the temple before we left out, remember? So, very true. I'll find my way back out there.\n\nDM: Okay.\n\nSeeker: Not exactly a practiced meditator, though."
+        },
+        {
+          "startUid": "u1910",
+          "endUid": "u1916",
+          "quote": "DM: Okay, so those of you who are at the oasis, I assume you get dinner and then head out there eating something. Sure. Who's gonna—who wants to try and meditate?\n\nSeeker: I'm just gonna do—I'm gonna, like, sit on the stones by the edge of the water and, in an effort to keep myself awake, even though I'm sitting perfectly still, you could see patterns start to appear in the stones around me, colored whorls and ridges, as I meditate on my existing knowledge of the structure of the planes."
+        }
+      ],
+      "from": "p07",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1977",
+        "endUid": "u1982"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby leaves the oasis and finds Kenzo at the inn.",
+      "evidence": [
+        {
+          "startUid": "u1977",
+          "endUid": "u1982",
+          "quote": "Wellby: Very good. Head off to get Kenzo.\n\nDM: Um—\n\nWellby: When I find you in the inn, Kenzo, I'm like, \"Candrosa found us, and he is super a dick.\"\n\nKenzo: 1030?\n\nDM: It's like 1030."
+        }
+      ],
+      "from": "p11",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2066",
+        "endUid": "u2077"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reunites at the oasis and enters the Temple of Shakun, following Candrosa into a side room.",
+      "evidence": [
+        {
+          "startUid": "u2066",
+          "endUid": "u2077",
+          "quote": "DM: So you all sort of gather in the oasis and I—and sort of head into the—into the temple, I presume. And the first—like, the entry—Candrosa is, like, waiting in the—in the entry room of the—of the, sort of—so there's, like, this, this monastery. This building is carved into the side of this cliff of this red mesa, which is, like, towering quite a ways above you, right? Like hundreds of feet above you. But there's an area that sticks out and there's, like, a few small chambers and things like that, and there's, like, an entryway, and you can see deeper in there's—you can see there's, like, what you feel like is large open space behind you inside the mesa. But he, he sort of leads you to a little bit of a side room where there are some chairs and a table that you can sit at, and he, when he sees you all there and he sees that he, you know, clearly interrupted tonight, he does, you know, seem slightly apologetic and, you know, looks at you all and says, \"I'm sorry. I didn't mean to disrupt your night like that.\""
+        }
+      ],
+      "from": "p11",
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p12",
+          "reading": "Pass through the temple entry before reaching the side room."
+        }
+      ]
+    }
+  ]
+}

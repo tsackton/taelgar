@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-time-markers.json",
+    "sha256": "b0ca409b2e1e1bd5ecf8aed18f71882467060e54e90397ad56beaadf2e7dec37"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-transcript.md",
+    "sha256": "3310903b46fdda728b744d6c9e18735ede66a9009735c622ebaf0ad3d92762f6"
+  },
+  "dateAssessment": "March 26–29, 1748 is supplied only by YAML; the transcript establishes morning, uncertain return travel, and afternoon-to-night activity in Karawa, with no independently spoken date.",
+  "watches": [
+    {
+      "day": "Opening day — March 26 from YAML",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Party wakes refreshed; later narration explicitly calls the temple search morning.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-03-26",
+      "endDate": "1748-03-26"
+    },
+    {
+      "day": "Return journey — travel day unspecified",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Seeker’s roadside search resolves at a proposed lunchtime stop; the particular travel day is unspecified.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "Karawa arrival day",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Party reaches the caravanserai outskirts in late afternoon after the compressed return journey.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "Karawa evening — apparently the arrival day",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Dinner and sunset frame the evening; Jasu’s few-minute cleanup precedes the oasis vigil.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08"
+      ]
+    },
+    {
+      "day": "Karawa late evening — before any completed overnight",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Candrosa interrupts about 22:30; Delwath pauses roughly one minute during the subsequent temple conversation.",
+      "markers": [
+        "t09",
+        "t10"
+      ]
+    }
+  ]
+}

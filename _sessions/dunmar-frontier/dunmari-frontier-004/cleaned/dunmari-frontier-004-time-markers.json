@@ -1,0 +1,307 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-004",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+    "sessionYamlSha256": "eb893f6b37db3f8d459a64722f55ee19873490a3a342f9ee8ebbb61cff2bbe4e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-transcript.md",
+    "transcriptSha256": "3310903b46fdda728b744d6c9e18735ede66a9009735c622ebaf0ad3d92762f6",
+    "yamlDates": {
+      "start": "1748-03-26",
+      "end": "1748-03-29"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0005"
+      },
+      "reading": "The party wakes refreshed in the fort temple; the subsequent search is explicitly placed in the morning.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0003",
+          "quote": "So you awaken in the temple."
+        },
+        {
+          "startUid": "u0004",
+          "endUid": "u0005",
+          "quote": "DM: You're all refreshed and restored. And if you want to investigate anything before you head back across the canyon and towards the horse, let me know."
+        },
+        {
+          "startUid": "u0446",
+          "endUid": "u0453",
+          "quote": "with the time you spent searching in the morning"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Awakening, with the search later explicitly called morning",
+        "partOfDay": "morning"
+      },
+      "completion": "completed",
+      "note": "The opening grants rest benefits for the preceding night; it does not narrate an additional night after this morning."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0459",
+        "endUid": "u0477"
+      },
+      "reading": "Seeker checks for buried relics during a lunchtime stop on the return journey.",
+      "evidence": [
+        {
+          "startUid": "u0459",
+          "endUid": "u0462",
+          "quote": "Seeker: I'm—Tim, when we stop for meals, or no, maybe at, like, lunchtime. You say—here's the thing. I'm using my Stonecunning, because I know that somebody mentioned that there was, like, weird stuff you could dig up along the road side."
+        },
+        {
+          "startUid": "u0463",
+          "endUid": "u0471",
+          "quote": "No, you don't sense anything particularly unusual when you stop."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Player proposes the actual stop at lunchtime and the DM resolves the search",
+        "partOfDay": "midday"
+      },
+      "note": "The particular travel day is not established."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0518",
+        "endUid": "u0521"
+      },
+      "reading": "The party reaches the outskirts of Karawa’s caravanserai in late afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0518",
+          "endUid": "u0521",
+          "quote": "DM: So it's late afternoon now. You head down the hillside where you, Kenzo, were coming down and first saw the giant hyenas attacking, and find yourself now again on the outskirts of the caravanserai."
+        },
+        {
+          "startUid": "u0446",
+          "endUid": "u0453",
+          "quote": "DM: Okay, so let's see. So it would be—so it's, like, a day back to Gomat from the—from the—the canyonlands. So that would be, like, a day and a half, and then it's maybe another two days from Gomat. So it's about—you know, with the time you spent searching in the morning, I think it's probably about three or four days' journey back to town. Unless you want to, you know, push it as fast as you can."
+        },
+        {
+          "startUid": "u0564",
+          "endUid": "u0570",
+          "quote": "It's been very quiet the past three days. Do you have good news to report?"
+        },
+        {
+          "startUid": "u0571",
+          "endUid": "u0573",
+          "quote": "Delwath: We found a source of these disturbances, we believe. About three days ago we destroyed it."
+        },
+        {
+          "startUid": "u1895",
+          "endUid": "u1896",
+          "quote": "Kenzo: I never want to do this, but just not tonight. Right, like, we, like, just got back into town yesterday, and I'm fucking tired, so—"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "late afternoon"
+      },
+      "note": "The journey is initially estimated at three or four days; the reports of three quiet days and destruction about three days ago do not establish exact departure-to-arrival elapsed time. Kenzo later says they returned yesterday, while the surrounding DM narration continues the same evening."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1066",
+        "endUid": "u1069"
+      },
+      "reading": "During the first conversation at Ikram’s, it is approaching dinnertime.",
+      "evidence": [
+        {
+          "startUid": "u1066",
+          "endUid": "u1069",
+          "quote": "It's getting towards dinnertime."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Approaching dinner, before the smith closes for the evening",
+        "partOfDay": "early evening"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1362",
+        "endUid": "u1374"
+      },
+      "reading": "The party reaches Jasu as he closes his forge at the end of the day and proposes an evening drink.",
+      "evidence": [
+        {
+          "startUid": "u1362",
+          "endUid": "u1367",
+          "quote": "he's, like, just sort of dousing his forge and getting ready to head in for dinner"
+        },
+        {
+          "startUid": "u1368",
+          "endUid": "u1370",
+          "quote": "Delwath: Apologies for catching you at the end of the day, but we had a few questions about a man you might have talked to several weeks ago."
+        },
+        {
+          "startUid": "u1372",
+          "endUid": "u1374",
+          "quote": "I was about to head to Ikram's, just to have a drink in the coolness of the evening."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "evening"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1376",
+        "endUid": "u1380"
+      },
+      "reading": "Jasu spends a few minutes putting his gear away before the party returns with him to Ikram’s.",
+      "evidence": [
+        {
+          "startUid": "u1376",
+          "endUid": "u1380",
+          "quote": "So he takes a few minutes to kind of store his gear and just clean up the, the smithing area and says, “Okay, let's head along.”"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicitly elapsed cleanup time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1777",
+        "endUid": "u1778"
+      },
+      "reading": "After leaving Bree’s camp, the DM confirms that it is night/dinnertime.",
+      "evidence": [
+        {
+          "startUid": "u1777",
+          "endUid": "u1778",
+          "quote": "Delwath: Is it night yet?\n\nDM: Yeah. It's dinnertime."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM answers the explicit question whether it is night, also calling it dinnertime",
+        "partOfDay": "night"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1922",
+        "endUid": "u1923"
+      },
+      "reading": "At the oasis, Delwath and Seeker begin meditating as the sun sets, the moon rises, and it becomes dark.",
+      "evidence": [
+        {
+          "startUid": "u1910",
+          "endUid": "u1912",
+          "quote": "DM: Okay, so those of you who are at the oasis, I assume you get dinner and then head out there eating something. Sure. Who's gonna—who wants to try and meditate?"
+        },
+        {
+          "startUid": "u1922",
+          "endUid": "u1923",
+          "quote": "DM: So, you start to meditate. You start to, like, try to focus on this world, and Delwath, you are trying to focus, sort of—for you, it's just kind of what you do every night, just kind of going into an elvish trance. The sun sets, the moon rises, it gets dark."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated time of day",
+        "partOfDay": "sunset"
+      },
+      "completion": "begun",
+      "note": "This restages the evening vigil after the earlier dinnertime discussion; no completed overnight or additional day is established."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1931",
+        "endUid": "u1934"
+      },
+      "reading": "Candrosa interrupts the oasis vigil late at night, about 22:30; the same clock is confirmed when Wellby fetches Kenzo.",
+      "evidence": [
+        {
+          "startUid": "u1931",
+          "endUid": "u1934",
+          "quote": "DM: I'm—fairly late at night, maybe 1030, 11pm, as, as you start to struggling to kind of keep yourself from drifting off to sleep, Wellby, you see somebody walking across the oasis from the temple towards you."
+        },
+        {
+          "startUid": "u1981",
+          "endUid": "u1982",
+          "quote": "Kenzo: 1030?\n\nDM: It's like 1030."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Initial 22:30–23:00 estimate narrowed to about 22:30 at u1981–u1982",
+        "clock": "22:30"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2189",
+        "endUid": "u2199"
+      },
+      "reading": "Delwath pauses in thought for about a minute during the temple conversation before explaining why he came.",
+      "evidence": [
+        {
+          "startUid": "u2189",
+          "endUid": "u2199",
+          "quote": "After a minute, he kind of looks up at him and says,"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated pause before his answer"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "March 26–29, 1748 comes only from YAML; no absolute date is spoken in this session.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t07",
+      "t08",
+      "t09"
+    ],
+    "explanation": "Play covers waking at the fort, a completed but not precisely timed journey, and afternoon-to-night business in Karawa. Three or four days is a travel estimate; approximately three days since the prior orb destruction does not independently fix the whole span. Kenzo’s isolated yesterday at u1895–u1896 leaves a possible extra local day unresolved against the continuous evening narration. The session closes before any completed rest or next morning."
+  }
+}

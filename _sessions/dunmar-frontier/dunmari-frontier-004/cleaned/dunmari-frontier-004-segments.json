@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-004",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+    "sessionYamlSha256": "eb893f6b37db3f8d459a64722f55ee19873490a3a342f9ee8ebbb61cff2bbe4e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-transcript.md",
+    "transcriptSha256": "3310903b46fdda728b744d6c9e18735ede66a9009735c622ebaf0ad3d92762f6"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0002"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0727"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0728",
+        "endUid": "u0746"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0747",
+        "endUid": "u0758"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0759",
+        "endUid": "u1126"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1127",
+        "endUid": "u1168"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1169",
+        "endUid": "u1268"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1269",
+        "endUid": "u1302"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1303",
+        "endUid": "u1342"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1343",
+        "endUid": "u1351"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1352",
+        "endUid": "u1690"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1691",
+        "endUid": "u1698"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1699",
+        "endUid": "u2481"
+      },
+      "category": "gameplay",
+      "note": "Includes the improvised egg-throwing at the inn (u2012–u2043); no initiative or repeated ordered turn cycle is established."
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2482",
+        "endUid": "u2485"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
