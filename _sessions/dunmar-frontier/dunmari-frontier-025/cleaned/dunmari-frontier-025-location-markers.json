@@ -1,0 +1,864 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-025",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-session.yaml",
+    "sessionYamlSha256": "35bc0798484c781419536844244fd1a019029c300a0d285232d379811c88720c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-transcript.md",
+    "transcriptSha256": "13394df3a69f1a25a62c5b8b40c7bbceafd184081561c895ada31df434508337"
+  },
+  "places": {
+    "p01": {
+      "label": "Kharsan",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "Okay, it is perhaps an hour before noon, as the sun is steadily climbing in the sky and the heat of the day is starting to build to oppressive levels. You are all huddled in the shade and cover of an ancient Dunmari bridge over the now-dry river Kharja, leading to the city of Kharsan, now haunted and home to the skeletal Lord Grash. Across the riverbed, morning bustle of activity around the orc fort has slowed, but a number of orc guards still seem to be pacing the walls and keeping watch on the approaches.\n\n"
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Kharsan.md"
+    },
+    "p02": {
+      "label": "Ancient bridge",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "Okay, it is perhaps an hour before noon, as the sun is steadily climbing in the sky and the heat of the day is starting to build to oppressive levels. You are all huddled in the shade and cover of an ancient Dunmari bridge over the now-dry river Kharja, leading to the city of Kharsan, now haunted and home to the skeletal Lord Grash. Across the riverbed, morning bustle of activity around the orc fort has slowed, but a number of orc guards still seem to be pacing the walls and keeping watch on the approaches.\n\n"
+        }
+      ],
+      "kind": "bridge",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0004",
+              "quote": "Okay, it is perhaps an hour before noon, as the sun is steadily climbing in the sky and the heat of the day is starting to build to oppressive levels. You are all huddled in the shade and cover of an ancient Dunmari bridge over the now-dry river Kharja, leading to the city of Kharsan, now haunted and home to the skeletal Lord Grash. Across the riverbed, morning bustle of activity around the orc fort has slowed, but a number of orc guards still seem to be pacing the walls and keeping watch on the approaches.\n\n"
+            }
+          ]
+        },
+        {
+          "relation": "above",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0004",
+              "quote": "Okay, it is perhaps an hour before noon, as the sun is steadily climbing in the sky and the heat of the day is starting to build to oppressive levels. You are all huddled in the shade and cover of an ancient Dunmari bridge over the now-dry river Kharja, leading to the city of Kharsan, now haunted and home to the skeletal Lord Grash. Across the riverbed, morning bustle of activity around the orc fort has slowed, but a number of orc guards still seem to be pacing the walls and keeping watch on the approaches.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Dry Kharja riverbed",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "Okay, it is perhaps an hour before noon, as the sun is steadily climbing in the sky and the heat of the day is starting to build to oppressive levels. You are all huddled in the shade and cover of an ancient Dunmari bridge over the now-dry river Kharja, leading to the city of Kharsan, now haunted and home to the skeletal Lord Grash. Across the riverbed, morning bustle of activity around the orc fort has slowed, but a number of orc guards still seem to be pacing the walls and keeping watch on the approaches.\n\n"
+        }
+      ],
+      "kind": "riverbed",
+      "vaultPath": "Gazetteer/Greater Dunmar/Kharja.md"
+    },
+    "p04": {
+      "label": "Cliffs beside the riverbed",
+      "evidence": [
+        {
+          "startUid": "u0016",
+          "endUid": "u0018",
+          "quote": "There’s maybe 100 yards of open ground between you by the bridge and the rock canyon walls of the cliffs that loom above the riverbed, on which are perched the ancient tombs of the long-dead rulers of Dunmar.\n\n"
+        }
+      ],
+      "kind": "cliffs",
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0016",
+              "endUid": "u0018",
+              "quote": "There’s maybe 100 yards of open ground between you by the bridge and the rock canyon walls of the cliffs that loom above the riverbed, on which are perched the ancient tombs of the long-dead rulers of Dunmar.\n\n"
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0016",
+              "endUid": "u0018",
+              "quote": "There’s maybe 100 yards of open ground between you by the bridge and the rock canyon walls of the cliffs that loom above the riverbed, on which are perched the ancient tombs of the long-dead rulers of Dunmar.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Hidden horses’ overhang",
+      "evidence": [
+        {
+          "startUid": "u0253",
+          "endUid": "u0257",
+          "quote": "That—there’s definitely—I mean, you know, you're—so certainly the area where you hid your horses was an area where there's like I mean you, you sort of created a little wall to shelter them, but there’s there's like an overhang here, right? So the road comes to this narrow stretch.\n\n"
+        }
+      ],
+      "kind": "camp",
+      "note": "Half a mile from the bridge in the canyon; not established as inside Kharsan.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0013",
+              "endUid": "u0015",
+              "quote": "Now you’re half a mile from your horses, who hopefully remain still hidden in the canyon. Seeker, Wellby, and Kenzo are crouched, hiding in the shadows of the bridge as an invisible Delwath returns from short scouting mission in the city of Kharsan itself, with about 10 minutes left before your invisibility fades.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "First night’s sheltered overhang",
+      "evidence": [
+        {
+          "startUid": "u0579",
+          "endUid": "u0583",
+          "quote": "Here, as you’re you know leading this this pack, you are paying attention and as—as the sun begins to set, you do manage to find a sheltered, sort of—almost, almost a little sort of cave area, like a fairly deep under hang on, um, on a rocky outcrop that is protected from from three sides. You know, still like not not like you know it totally enclosed, but protected, you know sheltered from three sides. So so me—sorry, go ahead. So you’ve made camp now.\n\n"
+        }
+      ],
+      "kind": "camp"
+    },
+    "p07": {
+      "label": "Second night’s camp",
+      "evidence": [
+        {
+          "startUid": "u0666",
+          "endUid": "u0677",
+          "quote": "As we make camp, there are two things Wellby… One is like to fashion himself a keffiyeh, ah, so that is something to keep sun off. The other is to see if I—if there’s a bird to call down, to see if—\n\n"
+        }
+      ],
+      "kind": "camp",
+      "note": "Distinct from the first camp. At u0789–u0796 the DM rejects assuming another overhang was found.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0666",
+              "endUid": "u0677",
+              "quote": "As we make camp, there are two things Wellby… One is like to fashion himself a keffiyeh, ah, so that is something to keep sun off. The other is to see if I—if there’s a bird to call down, to see if—\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Muddy seep",
+      "evidence": [
+        {
+          "startUid": "u0748",
+          "endUid": "u0754",
+          "quote": "It’s not hard to find. There’s not a lot of water here. There’s like a little muddy seep, basically, um, right? Oh, you're not—you’re not going to be getting gallons of water, but you can extend your supply by maybe half a day by you know filling up the—what you can, then particularly, Seeker, by excavating around like basically you like make—you, with Mold Earth, make like a little mini well, basically, so you—\n\n"
+        }
+      ],
+      "kind": "water source",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0724",
+              "endUid": "u0725",
+              "quote": "After about like 10 minutes, five minutes of this conversation, you’re just like not at all sure what the bird was trying to communicate. And Seeker, you’re not entirely sure what the bird was trying to communicate, but you have this diagram drawn in the sand that has like four lines triangulated, that all cross at a point that seems to be what it was describing as where water was, which is about half mile from here.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Havdar’s deserted spring camp",
+      "evidence": [
+        {
+          "startUid": "u1719",
+          "endUid": "u1725",
+          "quote": "So the day passes slowly and hot, as you’re now, you know, taking some breaks to walk by the sides of the horses to give them a rest, as they’re still carrying all your supplies. It’s tiring. It's, you know, the heat is is beating down during the heat of the day, but you push into the night, um, making good progress, and you know, about an hour or two after sunset, you come to the sort of cliff canyon edge where—sorry, let me put you on the map—where Havdar’s camp is. No sign of life anywhere. Not that a camp was slaughtered, just that the people have left. No dead bodies either, though. The spring is still there, um, you know, it's—it's a—it’s a well-defended and sheltered campsite, um, but Havdar seems to have moved on.\n\n"
+        }
+      ],
+      "kind": "camp"
+    },
+    "p10": {
+      "label": "Pava and Avaras’ stone house",
+      "evidence": [
+        {
+          "startUid": "u1913",
+          "endUid": "u1924",
+          "quote": "As you approach the stone house of Pava and Avaras and all the acolytes who study under them, as the sun is setting across the desert. As you approach the slight rise up the hill where this sandstone house with the incongruous pen of of chickens and all, um, is laid out before you are—you can see, um, Pava, who is the—let’s see, I guess check my descriptions here, um. So—so Pava, the slightly older—younger one, but balding, um, sitting outside watching the sunset and as he sees you approach, recognizing you in the distance, he stands, waves, and calls out to you, “Greetings, friends. What brings you back here?”\n\n"
+        }
+      ],
+      "kind": "compound",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md"
+    },
+    "p11": {
+      "label": "House interior",
+      "evidence": [
+        {
+          "startUid": "u1933",
+          "endUid": "u1934",
+          "quote": "Tim, when we—when we get into the kitchen or whatever, I—I do, that—the new Bhishma secret handshake to like you know, let them know that I’ve joined their order.\n\n"
+        }
+      ],
+      "kind": "interior",
+      "note": "Kenzo calls it the kitchen “or whatever”; no specific room is fixed.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1933",
+              "endUid": "u1934",
+              "quote": "Tim, when we—when we get into the kitchen or whatever, I—I do, that—the new Bhishma secret handshake to like you know, let them know that I’ve joined their order.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Outside the stone house",
+      "evidence": [
+        {
+          "startUid": "u2182",
+          "endUid": "u2187",
+          "quote": "Well, easier to get onto Karawa. I'm gonna—I’m gonna step outside and take a scan of the horizon in all directions, and—\n\n"
+        }
+      ],
+      "kind": "grounds",
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2182",
+              "endUid": "u2187",
+              "quote": "Well, easier to get onto Karawa. I'm gonna—I’m gonna step outside and take a scan of the horizon in all directions, and—\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Bas Udda",
+      "evidence": [
+        {
+          "startUid": "u2254",
+          "endUid": "u2259",
+          "quote": "And as you, you know you pass through the ruins of Bas Udda, still ruined, still you know, a destroyed city. Nobody’s come back. This is not a safe place to live anymore, but seems more peaceful than it was when you first, then when you first arrived here. What now, nearly a month ago? It’s been almost a month, it's been about a month that close to a month you’ve been out in the desert. Not, not quite a month, um. Ah.\n\n"
+        }
+      ],
+      "kind": "ruined settlement",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Bas Udda.md"
+    },
+    "p14": {
+      "label": "Karawa",
+      "evidence": [
+        {
+          "startUid": "u2260",
+          "endUid": "u2282",
+          "quote": "And then you come up to the you know, to the to the Red Mesa, now looming above you, stretching miles across the desert, the largest feature around, feeling almost as if you’re returning home as you begin to approach Karawa from the from the south. And on the afternoon, after rest in the shade, um, six days after you you depart the stone house, you approach the town of Karawa.\n\n"
+        }
+      ],
+      "kind": "town",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p15": {
+      "label": "Red Mesa",
+      "evidence": [
+        {
+          "startUid": "u2260",
+          "endUid": "u2265",
+          "quote": "And then you come up to the you know, to the to the Red Mesa, now looming above you, stretching miles across the desert, the largest feature around, feeling almost as if you’re returning home as you begin to approach Karawa from the from the south. And on the afternoon, after rest in the shade, um, six days after you you depart the stone house, you approach the town of Karawa.\n\n"
+        }
+      ],
+      "kind": "mesa",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u2260",
+              "endUid": "u2265",
+              "quote": "And then you come up to the you know, to the to the Red Mesa, now looming above you, stretching miles across the desert, the largest feature around, feeling almost as if you’re returning home as you begin to approach Karawa from the from the south. And on the afternoon, after rest in the shade, um, six days after you you depart the stone house, you approach the town of Karawa.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Orc fort across the riverbed",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "Okay, it is perhaps an hour before noon, as the sun is steadily climbing in the sky and the heat of the day is starting to build to oppressive levels. You are all huddled in the shade and cover of an ancient Dunmari bridge over the now-dry river Kharja, leading to the city of Kharsan, now haunted and home to the skeletal Lord Grash. Across the riverbed, morning bustle of activity around the orc fort has slowed, but a number of orc guards still seem to be pacing the walls and keeping watch on the approaches.\n\n"
+        }
+      ],
+      "kind": "fort",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0004",
+              "quote": "Okay, it is perhaps an hour before noon, as the sun is steadily climbing in the sky and the heat of the day is starting to build to oppressive levels. You are all huddled in the shade and cover of an ancient Dunmari bridge over the now-dry river Kharja, leading to the city of Kharsan, now haunted and home to the skeletal Lord Grash. Across the riverbed, morning bustle of activity around the orc fort has slowed, but a number of orc guards still seem to be pacing the walls and keeping watch on the approaches.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Desert around the second camp",
+      "evidence": [
+        {
+          "startUid": "u0681",
+          "endUid": "u0689",
+          "quote": "So flying up, you see, I mean you can see the desert laid out before you and twilight, um. You know, there—there’s nothing clearly moving across the land. I mean, you don’t see there's no like troop of orcs or anything on the horizon. You do… And you’re too far away to see any signs of Havdar’s camp. You know, even in the night desert air, things seem quiet. Almost peaceful, even. Very little moving anywhere.\n\n"
+        }
+      ],
+      "kind": "desert"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0018"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Seeker, Wellby and Kenzo hide at the bridge over the dry Kharja on the approaches to Kharsan.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "Okay, it is perhaps an hour before noon, as the sun is steadily climbing in the sky and the heat of the day is starting to build to oppressive levels. You are all huddled in the shade and cover of an ancient Dunmari bridge over the now-dry river Kharja, leading to the city of Kharsan, now haunted and home to the skeletal Lord Grash. Across the riverbed, morning bustle of activity around the orc fort has slowed, but a number of orc guards still seem to be pacing the walls and keeping watch on the approaches.\n\n"
+        },
+        {
+          "startUid": "u0013",
+          "endUid": "u0015",
+          "quote": "Now you’re half a mile from your horses, who hopefully remain still hidden in the canyon. Seeker, Wellby, and Kenzo are crouched, hiding in the shadows of the bridge as an invisible Delwath returns from short scouting mission in the city of Kharsan itself, with about 10 minutes left before your invisibility fades.\n\n"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u0015"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Invisible Delwath returns from scouting Kharsan to the others at the bridge.",
+      "evidence": [
+        {
+          "startUid": "u0013",
+          "endUid": "u0015",
+          "quote": "Now you’re half a mile from your horses, who hopefully remain still hidden in the canyon. Seeker, Wellby, and Kenzo are crouched, hiding in the shadows of the bridge as an invisible Delwath returns from short scouting mission in the city of Kharsan itself, with about 10 minutes left before your invisibility fades.\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0167",
+        "endUid": "u0201"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party crosses the exposed ground and reaches cover at the cliffs.",
+      "evidence": [
+        {
+          "startUid": "u0167",
+          "endUid": "u0168",
+          "quote": "Okay, so you just straight-up sprint. Two of you, invisible, are fine, easily make it to the cliffs. Those of you who are sprinting, give me an Athletics check with advantage, because you both fast.\n\n"
+        },
+        {
+          "startUid": "u0183",
+          "endUid": "u0186",
+          "quote": "Kenzo, you flat-out sprint across the end and seem to get… As far as you can tell, nobody’s noticed you. Wellby, you, um, you know, your legs are short and ready to go, not the fast—you’re quick in combat, but not the fastest of sprinters.\n\n"
+        },
+        {
+          "startUid": "u0199",
+          "endUid": "u0201",
+          "quote": "So, so Kenzo, as you get, as you get back, you know, running across at the cliffs, you make it to the cliffs pretty quickly and sort of crouching in the cover as best you can. Look around, and it’s it's pretty far, but you do—I mean, you do see activity at the orc fort, like there seems to be some stirring whether—nobody’s left; there’s not like a group that’s marching out, but you know clearly they’re on alert, and it's gonna be—it’s gonna require some skill to maneuver stealthily back to your horses.\n\n"
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0199",
+        "endUid": "u0201"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo observes activity at the fort from cliff cover; the party does not enter it.",
+      "evidence": [
+        {
+          "startUid": "u0199",
+          "endUid": "u0201",
+          "quote": "So, so Kenzo, as you get, as you get back, you know, running across at the cliffs, you make it to the cliffs pretty quickly and sort of crouching in the cover as best you can. Look around, and it’s it's pretty far, but you do—I mean, you do see activity at the orc fort, like there seems to be some stirring whether—nobody’s left; there’s not like a group that’s marching out, but you know clearly they’re on alert, and it's gonna be—it’s gonna require some skill to maneuver stealthily back to your horses.\n\n"
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p04",
+      "mode": "local"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0216",
+        "endUid": "u0277"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "With an orc patrol pursuing, the party reaches the hidden horses and mounts.",
+      "evidence": [
+        {
+          "startUid": "u0230",
+          "endUid": "u0240",
+          "quote": "So you take off for the horses, um. You are—you have a good—a good half a mile-ish, even a little more than half a mile, head start on the orcs and so um, you know, as you sprint, keeping an eye over your shoulder, you do see that there seems to be some—some watch—somebody on watch seems to have spotted the movement in the cliffs, and a group has broken off from the fort, has exited, coming out around here and around—around here, and starting to head for this this canyon to investigate what they saw. It’s not entirely clear whether they know it was you or not, but clearly somebody is—is, you know, a group of orcs is moving out from this fort, coming to investigate the movement that they saw in the canyon. And as you turn to sprint, it's, you know, sprinting is making it kind of obvious as you’re running up the road, like they can clearly see the four sprinting—well, they can clearly see the two of you sprinting, Delwath and Seeker remaining invisible.\n\n"
+        },
+        {
+          "startUid": "u0253",
+          "endUid": "u0255",
+          "quote": "That—there’s definitely—I mean, you know, you're—so certainly the area where you hid your horses was an area where there's like I mean you, you sort of created a little wall to shelter them, but there’s there's like an overhang here, right? So the road comes to this narrow stretch.\n\n"
+        },
+        {
+          "startUid": "u0261",
+          "endUid": "u0262",
+          "quote": "Yeah, the horses are there. Takes a few minutes—well, I guess, Seeker, you can just in a few moments just clear away your previous handiwork, excavating the…\n\n"
+        },
+        {
+          "startUid": "u0275",
+          "endUid": "u0277",
+          "quote": "Um. So you’re on your horses now.\n\n"
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0393",
+        "endUid": "u0421"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride northwest through rocky scrub and canyon country and stop at the first overnight camp.",
+      "evidence": [
+        {
+          "startUid": "u0393",
+          "endUid": "u0394",
+          "quote": "Good to have a big friend, yeah, and so we ride for Havdar’s camp.\n\n"
+        },
+        {
+          "startUid": "u0397",
+          "endUid": "u0401",
+          "quote": "Take off across the desert. You're—you’re just pushing fast, I assume, so your trail is obvious, like there’s a giant plume of sand being kicked up as you ride northwest for Havdar’s camp. You know, leaving a trail behind you.\n\n"
+        },
+        {
+          "startUid": "u0405",
+          "endUid": "u0408",
+          "quote": "As you push northwest across the desert, the terrain here becoming—as you sort of emerged out of the of the canyons here, you know, you're you’re back into this kind of sort of rocky scrub desert that that you've that you’ve traveled, and less—less—so you’re heading sort of north now, so you’re not in the—like the deep desert of the Garamjala. You’re more you're back into kind of the familiar kind of rocky canyon lands that you spent—that you spend a lot of time traveling in that your very first adventure where you got lost, and yeah you know, in the sort of so you know, kind of like this background, right? Um, so actually, Wellby, can you Survival check?\n\n"
+        },
+        {
+          "startUid": "u0411",
+          "endUid": "u0415",
+          "quote": "No, Wellby’s good at this. Um, so so you—just to see if you get lost and twisted around instead of a straight course, um. Riding across the desert, managing to cover maybe 15–20 miles in the rest of this day. Covering you know, maybe about—what, it's like 50–75 miles? So you probably have you know again like basically two days’ riding to a day and a half, two days from now, and you’ve got about a day and a half of water left at this point, um.\n\n"
+        },
+        {
+          "startUid": "u0420",
+          "endUid": "u0421",
+          "quote": "So that first night, you set camp. I assume your usual watch order?\n\n"
+        },
+        {
+          "startUid": "u0579",
+          "endUid": "u0583",
+          "quote": "Here, as you’re you know leading this this pack, you are paying attention and as—as the sun begins to set, you do manage to find a sheltered, sort of—almost, almost a little sort of cave area, like a fairly deep under hang on, um, on a rocky outcrop that is protected from from three sides. You know, still like not not like you know it totally enclosed, but protected, you know sheltered from three sides. So so me—sorry, go ahead. So you’ve made camp now.\n\n"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "ride",
+      "distance": {
+        "min": 15,
+        "max": 20,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM estimate for the remainder of the first day"
+      }
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0659",
+        "endUid": "u0677"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride another day toward Havdar’s camp and make a second camp at twilight.",
+      "evidence": [
+        {
+          "startUid": "u0659",
+          "endUid": "u0663",
+          "quote": "So unless there’s anything in particular, assuming you’re going to just continue on the next day, at the same as the last day. Okay, um. You continue across the desert, heading again, for for Havdar’s camp, again making good time as you navigate the rocky outcroppings and scrubby land of of the of the desert here.\n\n"
+        },
+        {
+          "startUid": "u0664",
+          "endUid": "u0665",
+          "quote": "As the day comes to a close again you’ve traveled maybe another 30 miles, putting you on within striking distance of reaching Havdar’s camp the following evening, ah, 30. Yeah, just about—so just about 30 miles from Havdar’s camp at this point. Your water is running low, and tomorrow is going to be a a thirsty day, riding through the heat of the sun as you’ve been doing to keep up this momentum, but for now things seem quiet and calm across the desert.\n\n"
+        },
+        {
+          "startUid": "u0666",
+          "endUid": "u0667",
+          "quote": "As we make camp, there are two things Wellby… One is like to fashion himself a keffiyeh, ah, so that is something to keep sun off. The other is to see if I—if there’s a bird to call down, to see if—\n\n"
+        },
+        {
+          "startUid": "u0670",
+          "endUid": "u0677",
+          "quote": "Yeah, definitely, um, so evening, as you make camp in—in twilight, the like hawks and vultures have pretty much gone in for the day, but now is the time when, like things like like desert wrens like the song birds are out and active. So you won’t have quite the range, but you can certainly—you can certainly try. Take some seeds out of your pack and and lure this—a little wren that singing off it—off on the edge of your camp in the desert to your hand. Make Animal Handling check. It’s a little bit skittish as it approaches you, but it starts to eat out of your hand, and you probably won’t be able to get it to travel super far, but it’s willing to let you travel into its mind.\n\n"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "ride",
+      "distance": {
+        "value": 30,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      }
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0678",
+        "endUid": "u0689"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby sees the surrounding desert through a wren; no orc troop is visible and Havdar’s camp is too far away to see.",
+      "evidence": [
+        {
+          "startUid": "u0678",
+          "endUid": "u0678",
+          "quote": "Awesome. So fly like as far as it’s comfortable flying, and take a look around.\n\n"
+        },
+        {
+          "startUid": "u0679",
+          "endUid": "u0679",
+          "quote": "It’s happy to go up and do a circle around the camp. You just—just not gonna go more than half a mile from it from its…\n\n"
+        },
+        {
+          "startUid": "u0681",
+          "endUid": "u0689",
+          "quote": "So flying up, you see, I mean you can see the desert laid out before you and twilight, um. You know, there—there’s nothing clearly moving across the land. I mean, you don’t see there's no like troop of orcs or anything on the horizon. You do… And you’re too far away to see any signs of Havdar’s camp. You know, even in the night desert air, things seem quiet. Almost peaceful, even. Very little moving anywhere.\n\n"
+        }
+      ],
+      "place": "p17",
+      "observerPlace": "p07",
+      "mode": "remote"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0741",
+        "endUid": "u0754"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Delwath and Seeker walk to the half-mile-distant seep and collect some water.",
+      "evidence": [
+        {
+          "startUid": "u0741",
+          "endUid": "u0741",
+          "quote": "Morning… It’s a half a mile away, yeah?\n\n"
+        },
+        {
+          "startUid": "u0743",
+          "endUid": "u0744",
+          "quote": "Yeah, let’s just—somebody, I would send two of us. Yeah.\n\n"
+        },
+        {
+          "startUid": "u0745",
+          "endUid": "u0745",
+          "quote": "The elf and the dwarf.\n\n"
+        },
+        {
+          "startUid": "u0746",
+          "endUid": "u0746",
+          "quote": "Yeah, okay, let’s do it.\n\n"
+        },
+        {
+          "startUid": "u0748",
+          "endUid": "u0750",
+          "quote": "It’s not hard to find. There’s not a lot of water here. There’s like a little muddy seep, basically, um, right? Oh, you're not—you’re not going to be getting gallons of water, but you can extend your supply by maybe half a day by you know filling up the—what you can, then particularly, Seeker, by excavating around like basically you like make—you, with Mold Earth, make like a little mini well, basically, so you—\n\n"
+        },
+        {
+          "startUid": "u0752",
+          "endUid": "u0754",
+          "quote": "You know, fill up a little bit of your—your water canteens. So that’ll get you an extra half day of water, which should mean that you’ll have no trouble getting Havdar’s camp tomorrow, assuming nothing goes wrong.\n\n"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0756",
+        "endUid": "u0762"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Delwath and Seeker return to Wellby and Kenzo at camp.",
+      "evidence": [
+        {
+          "startUid": "u0761",
+          "endUid": "u0762",
+          "quote": "When Delwath and—and Seeker return, it's like, it's like what— Wellby and Kenzo are like kind of startled like really happy to see you, like, “Oh!”\n\n"
+        }
+      ],
+      "from": "p08",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1719",
+        "endUid": "u1725"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reaches Havdar’s spring camp after sunset and finds it deserted.",
+      "evidence": [
+        {
+          "startUid": "u1719",
+          "endUid": "u1725",
+          "quote": "So the day passes slowly and hot, as you’re now, you know, taking some breaks to walk by the sides of the horses to give them a rest, as they’re still carrying all your supplies. It’s tiring. It's, you know, the heat is is beating down during the heat of the day, but you push into the night, um, making good progress, and you know, about an hour or two after sunset, you come to the sort of cliff canyon edge where—sorry, let me put you on the map—where Havdar’s camp is. No sign of life anywhere. Not that a camp was slaughtered, just that the people have left. No dead bodies either, though. The spring is still there, um, you know, it's—it's a—it’s a well-defended and sheltered campsite, um, but Havdar seems to have moved on.\n\n"
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "ride and walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1902",
+        "endUid": "u1932"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The two-day journey ends at the stone house, where Pava welcomes the party and sends Amil to the horses.",
+      "evidence": [
+        {
+          "startUid": "u1902",
+          "endUid": "u1906",
+          "quote": "Okay, it’s about a two-day journey. You easily resupply at the spring here, so you don’t need to worry about water. Even even down some horses, you’re not like carrying giant loads of treasure back from Kharsan or anything like you did from the tower, so you’re basically fine. You know, you probably can’t carry weeks’ worth of water anymore, but a few days to get to the stone house, not an issue. You set out, and again, the first day passes uneventfully and I just need one—let's see—one more Wisdom save from Seeker.\n\n"
+        },
+        {
+          "startUid": "u1909",
+          "endUid": "u1912",
+          "quote": "The next day passes uneventfully as well as you approach the stone house. Let’s see. I’m just keeping notes of time.\n\n"
+        },
+        {
+          "startUid": "u1913",
+          "endUid": "u1924",
+          "quote": "As you approach the stone house of Pava and Avaras and all the acolytes who study under them, as the sun is setting across the desert. As you approach the slight rise up the hill where this sandstone house with the incongruous pen of of chickens and all, um, is laid out before you are—you can see, um, Pava, who is the—let’s see, I guess check my descriptions here, um. So—so Pava, the slightly older—younger one, but balding, um, sitting outside watching the sunset and as he sees you approach, recognizing you in the distance, he stands, waves, and calls out to you, “Greetings, friends. What brings you back here?”\n\n"
+        },
+        {
+          "startUid": "u1930",
+          "endUid": "u1932",
+          "quote": "Sort of calls out into the into the house, “Our strange group of friends are back, Avaras. Amil, see to their horses, please.”\n\n"
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      }
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1933",
+        "endUid": "u1934"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the house for the meal and conversation.",
+      "evidence": [
+        {
+          "startUid": "u1933",
+          "endUid": "u1934",
+          "quote": "Tim, when we—when we get into the kitchen or whatever, I—I do, that—the new Bhishma secret handshake to like you know, let them know that I’ve joined their order.\n\n"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2182",
+        "endUid": "u2187"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby steps outside to scan the horizon and feed Baxter; the others are not thereby moved.",
+      "evidence": [
+        {
+          "startUid": "u2182",
+          "endUid": "u2182",
+          "quote": "Well, easier to get onto Karawa. I'm gonna—I’m gonna step outside and take a scan of the horizon in all directions, and—\n\n"
+        },
+        {
+          "startUid": "u2184",
+          "endUid": "u2185",
+          "quote": "To keep an eye on… Feed Baxter and see if there’s anything out there.\n\n"
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2244",
+        "endUid": "u2282"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party travels through the desert and Bas Udda’s ruins, approaches Karawa from the south beneath the Red Mesa, then is escorted into town.",
+      "evidence": [
+        {
+          "startUid": "u2244",
+          "endUid": "u2246",
+          "quote": "So, ah, over the—it’s about, let’s see, it's, it's 130 ish miles, so you know not—not going at a at a crazy pace, you know it's it’s going to take you about a little bit more than five days. Say about five days’ travel, and you arrive sort of late afternoon on the—on the sixth day.\n\n"
+        },
+        {
+          "startUid": "u2254",
+          "endUid": "u2259",
+          "quote": "And as you, you know you pass through the ruins of Bas Udda, still ruined, still you know, a destroyed city. Nobody’s come back. This is not a safe place to live anymore, but seems more peaceful than it was when you first, then when you first arrived here. What now, nearly a month ago? It’s been almost a month, it's been about a month that close to a month you’ve been out in the desert. Not, not quite a month, um. Ah.\n\n"
+        },
+        {
+          "startUid": "u2260",
+          "endUid": "u2265",
+          "quote": "And then you come up to the you know, to the to the Red Mesa, now looming above you, stretching miles across the desert, the largest feature around, feeling almost as if you’re returning home as you begin to approach Karawa from the from the south. And on the afternoon, after rest in the shade, um, six days after you you depart the stone house, you approach the town of Karawa.\n\n"
+        },
+        {
+          "startUid": "u2278",
+          "endUid": "u2282",
+          "quote": "Havdar arrived a few days ago. Tharandros, the leader of the centaurs, is eager to speak with you. And as they escort you into town, we will end there, picking up in Karawa next session.\n\n"
+        }
+      ],
+      "from": "p10",
+      "to": "p14",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p13",
+          "reading": "Pass through the ruins; no separate substantive stop is played."
+        },
+        {
+          "place": "p15",
+          "reading": "Approach the town with the mesa looming above; no ascent or entry into the mesa is established."
+        }
+      ],
+      "duration": {
+        "text": "about five days, arriving on the sixth; also called six days after departure",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM montage with unresolved elapsed versus inclusive day count"
+      }
+    }
+  ]
+}

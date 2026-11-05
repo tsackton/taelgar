@@ -1,0 +1,566 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-025",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-session.yaml",
+    "sessionYamlSha256": "35bc0798484c781419536844244fd1a019029c300a0d285232d379811c88720c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-transcript.md",
+    "transcriptSha256": "13394df3a69f1a25a62c5b8b40c7bbceafd184081561c895ada31df434508337",
+    "yamlDates": {
+      "start": "1748-05-13",
+      "end": "1748-05-23"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0004"
+      },
+      "reading": "At the bridge, about one hour before noon; later confirmed as just before noon.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "Okay, it is perhaps an hour before noon, as the sun is steadily climbing in the sky and the heat of the day is starting to build to oppressive levels. You are all huddled in the shade and cover of an ancient Dunmari bridge over the now-dry river Kharja, leading to the city of Kharsan, now haunted and home to the skeletal Lord Grash. Across the riverbed, morning bustle of activity around the orc fort has slowed, but a number of orc guards still seem to be pacing the walls and keeping watch on the approaches.\n\n"
+        },
+        {
+          "startUid": "u0093",
+          "endUid": "u0094",
+          "quote": "What time is it right now? Let’s have a [garbled].\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "before noon",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u0261",
+        "endUid": "u0262"
+      },
+      "reading": "Seeker clears the horses’ sheltering berm in a few moments; the DM immediately revises the initial few-minutes estimate.",
+      "duration": {
+        "text": "a few moments",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Immediate DM correction"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0261",
+          "endUid": "u0262",
+          "quote": "Yeah, the horses are there. Takes a few minutes—well, I guess, Seeker, you can just in a few moments just clear away your previous handiwork, excavating the…\n\n"
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0411",
+        "endUid": "u0421"
+      },
+      "reading": "The remaining travel day ends at the first overnight camp.",
+      "evidence": [
+        {
+          "startUid": "u0411",
+          "endUid": "u0415",
+          "quote": "No, Wellby’s good at this. Um, so so you—just to see if you get lost and twisted around instead of a straight course, um. Riding across the desert, managing to cover maybe 15–20 miles in the rest of this day. Covering you know, maybe about—what, it's like 50–75 miles? So you probably have you know again like basically two days’ riding to a day and a half, two days from now, and you’ve got about a day and a half of water left at this point, um.\n\n"
+        },
+        {
+          "startUid": "u0420",
+          "endUid": "u0421",
+          "quote": "So that first night, you set camp. I assume your usual watch order?\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0486",
+        "endUid": "u0490"
+      },
+      "reading": "The sun is setting at the first camp.",
+      "evidence": [
+        {
+          "startUid": "u0486",
+          "endUid": "u0486",
+          "quote": "And the sun is already setting?\n\n"
+        },
+        {
+          "startUid": "u0487",
+          "endUid": "u0488",
+          "quote": "Yeah, the sun is—is that, at this point, I would say.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0620",
+        "endUid": "u0625"
+      },
+      "reading": "Delwath completes the first half of his night watch and wakes Seeker just past midnight.",
+      "evidence": [
+        {
+          "startUid": "u0620",
+          "endUid": "u0625",
+          "quote": "So Delwath, you, you watch—spend, spend your first half of the night, um, staring out into the darkness of the desert, seeing nothing moving, until around just past midnight you go to wake Seeker, who also needs to roll a Perception check.\n\n"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "partOfDay": "just past midnight",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0647",
+        "endUid": "u0657"
+      },
+      "reading": "The first uneventful night ends in morning; Kenzo’s lingering death effects clear.",
+      "evidence": [
+        {
+          "startUid": "u0647",
+          "endUid": "u0650",
+          "quote": "You—you also watch the night, again looking out into the darkness without much seeming to move across the desert, and go to wake everybody in the morning, having passed an uneventful night.\n\n"
+        },
+        {
+          "startUid": "u0652",
+          "endUid": "u0657",
+          "quote": "Kenzo, as you wake, you feel refreshed and, although still you know occasionally shaken as you think about it, um, healed from the—the rigors and the trauma of dying, and you’ve now managed to remove the—all of the effects that have been lingering. So I just—I just—if you reload your character sheet, I just cleared that for you. It should pop up.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0659",
+        "endUid": "u0665"
+      },
+      "reading": "Another day of riding ends at the second camp, around thirty miles short of Havdar’s camp.",
+      "evidence": [
+        {
+          "startUid": "u0659",
+          "endUid": "u0663",
+          "quote": "So unless there’s anything in particular, assuming you’re going to just continue on the next day, at the same as the last day. Okay, um. You continue across the desert, heading again, for for Havdar’s camp, again making good time as you navigate the rocky outcroppings and scrubby land of of the of the desert here.\n\n"
+        },
+        {
+          "startUid": "u0664",
+          "endUid": "u0665",
+          "quote": "As the day comes to a close again you’ve traveled maybe another 30 miles, putting you on within striking distance of reaching Havdar’s camp the following evening, ah, 30. Yeah, just about—so just about 30 miles from Havdar’s camp at this point. Your water is running low, and tomorrow is going to be a a thirsty day, riding through the heat of the sun as you’ve been doing to keep up this momentum, but for now things seem quiet and calm across the desert.\n\n"
+        },
+        {
+          "startUid": "u0670",
+          "endUid": "u0677",
+          "quote": "Yeah, definitely, um, so evening, as you make camp in—in twilight, the like hawks and vultures have pretty much gone in for the day, but now is the time when, like things like like desert wrens like the song birds are out and active. So you won’t have quite the range, but you can certainly—you can certainly try. Take some seeds out of your pack and and lure this—a little wren that singing off it—off on the edge of your camp in the desert to your hand. Make Animal Handling check. It’s a little bit skittish as it approaches you, but it starts to eat out of your hand, and you probably won’t be able to get it to travel super far, but it’s willing to let you travel into its mind.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "end of day",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0724",
+        "endUid": "u0725"
+      },
+      "reading": "Seeker and Wellby’s bird conversation takes roughly five to ten minutes, within the second campsite evening.",
+      "evidence": [
+        {
+          "startUid": "u0724",
+          "endUid": "u0725",
+          "quote": "After about like 10 minutes, five minutes of this conversation, you’re just like not at all sure what the bird was trying to communicate. And Seeker, you’re not entirely sure what the bird was trying to communicate, but you have this diagram drawn in the sand that has like four lines triangulated, that all cross at a point that seems to be what it was describing as where water was, which is about half mile from here.\n\n"
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Wellby"
+      ],
+      "duration": {
+        "min": 5,
+        "max": 10,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM varies the estimate from ten to five minutes"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0739",
+        "endUid": "u0740"
+      },
+      "reading": "It is nighttime when Delwath and Seeker set out for the seep.",
+      "evidence": [
+        {
+          "startUid": "u0739",
+          "endUid": "u0739",
+          "quote": "It’s nighttime again?\n\n"
+        },
+        {
+          "startUid": "u0740",
+          "endUid": "u0740",
+          "quote": "Yeah, it’s nighttime again.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0790",
+        "endUid": "u0796"
+      },
+      "reading": "Delwath approaches Seeker to change watches around midnight when the ambush begins.",
+      "evidence": [
+        {
+          "startUid": "u0790",
+          "endUid": "u0796",
+          "quote": "Uh I guess you didn’t really try. To fit—you're busy scouting with looking for animal talking targets, yeah. Ah. You, you, um—Delwath, as you’re walking over to—to wake Seeker just just around midnight, um…\n\n"
+        },
+        {
+          "startUid": "u1552",
+          "endUid": "u1558",
+          "quote": "Now, it being still somewhere just past midnight, the darkness of the unquiet of the desert returns. The darkness—I guess the magnesium has probably burned out by now, but the bright light of the—of the drift globes and the sunlight still a glowing beacon in the middle of the desert, blotting out the night. As two dead horses…\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "around midnight",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "dateBoundaries": 1,
+      "note": "After-combat confirmation places the scene just past midnight, resolving which side of the civil boundary it reaches."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1693",
+        "endUid": "u1697"
+      },
+      "reading": "Wellby receives at least a short-rest credit during the resumed watches and bandages Baxter.",
+      "evidence": [
+        {
+          "startUid": "u1693",
+          "endUid": "u1693",
+          "quote": "So we’ve had at least a short rest, though?\n\n"
+        },
+        {
+          "startUid": "u1694",
+          "endUid": "u1694",
+          "quote": "Yes.\n\n"
+        },
+        {
+          "startUid": "u1695",
+          "endUid": "u1695",
+          "quote": "Yeah, I’m gonna bandage up Baxter.\n\n"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1698",
+        "endUid": "u1715"
+      },
+      "reading": "The interrupted second camp night reaches dawn; all receive long-rest benefits and Delwath’s Strength returns.",
+      "evidence": [
+        {
+          "startUid": "u1698",
+          "endUid": "u1700",
+          "quote": "Okay, um. The rest of the night passes uneventfully, and…\n\n"
+        },
+        {
+          "startUid": "u1701",
+          "endUid": "u1707",
+          "quote": "As the dawn rises, realizing that you are still you know within striking distance of Havdar’s camp, but now without your pack horses, it’s either gonna be—it's gonna be slower going. You won’t be able to switch mounts. You won't be able to—you’re gonna have to… Although, I guess now in your your Strength goes back as—the color comes back into Delwath over the course of the—as he wakes up. He’s—doesn't—is not, you know, hobbling along under the weight of his armor anymore, just just his normal weak self.\n\n"
+        },
+        {
+          "startUid": "u1709",
+          "endUid": "u1715",
+          "quote": "Ah. You know, it’s gonna be you know it's gonna be a bit a bit of a stretch to get to to Havdar’s camp today in your with your reduced—these mounts. Did want to say something? So you can all take long rest and heal up and everything, get your spells and everything back. But if you’re willing to ride some you know, partly into the night, you certainly can still make it there, make it there today.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "completion": "completed",
+      "note": "Long-rest benefits credit the overnight interval containing the interrupted watches; Wellby’s short-rest credit is nested, not added after dawn. Eight hours is the conventional rest credit, not a measured duration of the resumed watch.",
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention for the awarded overnight rest; not an independent measurement or a new interval beginning after combat"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1719",
+        "endUid": "u1725"
+      },
+      "reading": "A hot travel day ends at Havdar’s deserted camp one or two hours after sunset.",
+      "evidence": [
+        {
+          "startUid": "u1719",
+          "endUid": "u1725",
+          "quote": "So the day passes slowly and hot, as you’re now, you know, taking some breaks to walk by the sides of the horses to give them a rest, as they’re still carrying all your supplies. It’s tiring. It's, you know, the heat is is beating down during the heat of the day, but you push into the night, um, making good progress, and you know, about an hour or two after sunset, you come to the sort of cliff canyon edge where—sorry, let me put you on the map—where Havdar’s camp is. No sign of life anywhere. Not that a camp was slaughtered, just that the people have left. No dead bodies either, though. The spring is still there, um, you know, it's—it's a—it’s a well-defended and sheltered campsite, um, but Havdar seems to have moved on.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "one or two hours after sunset",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1789",
+        "endUid": "u1793"
+      },
+      "reading": "After the night at Havdar’s camp, morning dawns; Wellby spends about half an hour investigating tracks while Delwath prepares breakfast.",
+      "evidence": [
+        {
+          "startUid": "u1789",
+          "endUid": "u1793",
+          "quote": "As morning dawns, it’s clear that Havdar left not too long ago. Wellby, you’re skilled enough at tracking and survival that it's, it's, you know, spending a few moments, half an hour kind of scouting the tracks and and investigating before, you know, while Delwath is preparing breakfast. You know, certainly less than a week, probably more like two or three days ago and and headed west towards Kharsan—or, sorry, not towards Kharsan, back towards Karawa. He was never planning on staying out in the desert for more than you know, a couple of weeks anyway, so this doesn’t come as a as a big shock, and having learned, potentially, having learned about the orcs, he wanted to return relatively quickly.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "dateBoundaries": 1,
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM estimate for the played track search"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1902",
+        "endUid": "u1924"
+      },
+      "reading": "Two narrated travel days end at Pava and Avaras’ house as the sun sets; the second is explicitly the next day.",
+      "evidence": [
+        {
+          "startUid": "u1902",
+          "endUid": "u1906",
+          "quote": "Okay, it’s about a two-day journey. You easily resupply at the spring here, so you don’t need to worry about water. Even even down some horses, you’re not like carrying giant loads of treasure back from Kharsan or anything like you did from the tower, so you’re basically fine. You know, you probably can’t carry weeks’ worth of water anymore, but a few days to get to the stone house, not an issue. You set out, and again, the first day passes uneventfully and I just need one—let's see—one more Wisdom save from Seeker.\n\n"
+        },
+        {
+          "startUid": "u1909",
+          "endUid": "u1912",
+          "quote": "The next day passes uneventfully as well as you approach the stone house. Let’s see. I’m just keeping notes of time.\n\n"
+        },
+        {
+          "startUid": "u1913",
+          "endUid": "u1924",
+          "quote": "As you approach the stone house of Pava and Avaras and all the acolytes who study under them, as the sun is setting across the desert. As you approach the slight rise up the hill where this sandstone house with the incongruous pen of of chickens and all, um, is laid out before you are—you can see, um, Pava, who is the—let’s see, I guess check my descriptions here, um. So—so Pava, the slightly older—younger one, but balding, um, sitting outside watching the sunset and as he sees you approach, recognizing you in the distance, he stands, waves, and calls out to you, “Greetings, friends. What brings you back here?”\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2212",
+        "endUid": "u2224"
+      },
+      "reading": "The party spends the night at the stone house before the journey back to Karawa.",
+      "evidence": [
+        {
+          "startUid": "u2212",
+          "endUid": "u2212",
+          "quote": "But just just you know, again I like I said, we’d like spend the night.\n\n"
+        },
+        {
+          "startUid": "u2213",
+          "endUid": "u2213",
+          "quote": "Yeah, you’ve—\n\n"
+        },
+        {
+          "startUid": "u2214",
+          "endUid": "u2214",
+          "quote": "Spent the night. So I know, Tim, I just spend the night kind of you know, really like sitting with with Pava and Avaras and, just like you know you know now that I’m like one of the order you know yeah you kind of do some bonding, you know, you said.\n\n"
+        },
+        {
+          "startUid": "u2218",
+          "endUid": "u2219",
+          "quote": "As we stay the night, as a gift for them, I’ll carve a tiny stone replica of the—of which part of the monastery complex, me…\n\n"
+        }
+      ],
+      "completion": "completed",
+      "dateBoundaries": 1,
+      "note": "An overnight stay before departure is established; no morning clock is stated."
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2244",
+        "endUid": "u2282"
+      },
+      "reading": "The return journey reaches Karawa in late afternoon on the sixth travel day, later described as six days after leaving the stone house.",
+      "evidence": [
+        {
+          "startUid": "u2244",
+          "endUid": "u2246",
+          "quote": "So, ah, over the—it’s about, let’s see, it's, it's 130 ish miles, so you know not—not going at a at a crazy pace, you know it's it’s going to take you about a little bit more than five days. Say about five days’ travel, and you arrive sort of late afternoon on the—on the sixth day.\n\n"
+        },
+        {
+          "startUid": "u2260",
+          "endUid": "u2265",
+          "quote": "And then you come up to the you know, to the to the Red Mesa, now looming above you, stretching miles across the desert, the largest feature around, feeling almost as if you’re returning home as you begin to approach Karawa from the from the south. And on the afternoon, after rest in the shade, um, six days after you you depart the stone house, you approach the town of Karawa.\n\n"
+        },
+        {
+          "startUid": "u2278",
+          "endUid": "u2282",
+          "quote": "Havdar arrived a few days ago. Tharandros, the leader of the centaurs, is eager to speak with you. And as they escort you into town, we will end there, picking up in Karawa next session.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "completion": "completed",
+      "duration": {
+        "text": "a little more than five days / sixth day, also described as six days after departure",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Accepted montage contains unresolved inclusive-day versus elapsed-day wording"
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute calendar date is spoken. May 13–23 comes from YAML, not independent transcript dating.",
+    "expectedDateBoundaries": 10,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11",
+      "t12",
+      "t13",
+      "t14",
+      "t15",
+      "t16"
+    ],
+    "explanation": "First camp, second camp, Havdar camp, the next travel day, and the house overnight establish five boundaries before the final journey. Inclusive sixth-day arrival supplies five more, fitting ten; literal six days after departure supplies six, yielding eleven. Opening historical recaps do not extend the played interval."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t16"
+      ],
+      "reading": "Arrival wording leaves the final calendar boundary ambiguous.",
+      "alternatives": [
+        {
+          "reading": "Inclusive sixth travel day after departing May 18, conditional on YAML opening date.",
+          "date": "1748-05-23"
+        },
+        {
+          "reading": "Six full elapsed days after May 18 departure, conditional on YAML opening date.",
+          "date": "1748-05-24"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,920 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "13394df3a69f1a25a62c5b8b40c7bbceafd184081561c895ada31df434508337"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-entity-map.json",
+      "sha256": "1a92c28448e07be78dad42aadce4fe0f5298529b7b66577b25fb5548759c4691"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Recap of Grash’s pursuit and the resurrection claim",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0039"
+      },
+      "lines": [
+        "%% u0005:0-198, u0006:0-60, u0007:0-28, u0008:0-109 %%",
+        "DM: About 36 hours ago, you discovered to your dismay that the orcs’ tales of returning from death stronger than before seem to be true, as a group of orcs you had left for dead on the monastery grounds apparently got up, freed their trapped commander, and left to warn Grash of your presence. Since then, you’ve been trying to stay out of sight, scouting the ruined city of Kharsan with the aid of magic.",
+        "%% u0009:0-86, u0010:0-139, u0011:0-251 %%",
+        "DM: By some good luck and careful reasoning, you managed to get a glimpse of Grash himself through Seeker’s clairvoyance magic, watching and listening as he murdered two orcs who displeased him, brought them back to life as zombies, talked with some wraith-like figure about the search for treasure in Kharsan, and summoned eight shadows to hunt you, before finally casting Sending from a spell scroll, communicating an update to somebody and apparently getting angry about the response.",
+        "%% u0012:0-24 %%",
+        "Seeker: Who does Grash work for?",
+        "%% u0013:0-89, u0014:0-111, u0015:0-111, u0016:0-69, u0017:0-9, u0018:0-130, u0019:0-34, u0020:0-34, u0021:0-19, u0022:0-32, u0023:0-55, u0024:0-35, u0025:0-56, u0026:0-9, u0027:0-62, u0028:0-116, u0029:0-129, u0030:0-8, u0031:0-5, u0032:0-38, u0033:0-78 %%",
+        "((Current positions and separate scouting recollection))",
+        "%% u0034:0-57, u0035:0-269, u0036:0-24 %%",
+        "Kenzo: And sorry, before we—can you give me just a recap? So like, we did the clairvoyance thing. Grash was mad, chopped off some heads, switched some bodies, resurrected some guys. The whole—the whole “stronger than before”—I think maybe, Tim, you let that slip a little bit of it—we, we knew that exactly that they were stronger than before. That—thank you, yeah. Did…",
+        "%% u0037:0-63 %%",
+        "DM: You don’t actually know if they’re stronger than before. That’s—",
+        "%% u0038:0-28 %%",
+        "Seeker: Just what they claim. That’s—",
+        "%% u0039:0-99 %%",
+        "DM: Right, I said—I didn't say, I didn’t say that was true. I seem to say it seemed to be based in truth."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, it is perhaps an hour before noon, as the sun is steadily climbing in the sky and the heat of the day is starting to build to oppressive levels. You are all huddled in the shade and cover of an ancient Dunmari bridge over the now-dry river Kharja, leading to the city of Kharsan, now haunted and home to the skeletal Lord Grash. Across the riverbed, morning bustle of activity around the orc fort has slowed, but a number of orc guards still seem to be pacing the walls and keeping watch on the approaches."
+        ],
+        "after": [
+          "Seeker: So we saw… Well, maybe do it in character, actually, because I want to ask about the shadow things that are now set to chase us.",
+          "Kenzo: Will wake up, but also we’re mainly on the shadow… Oh yeah yeah, you wouldn’t know, actually, Delwath, but only Seeker saw the stuff, right, right? You were communicating with us like what you saw and heard, because you were doing back going back and forth between hearing and seeing things, yes?",
+          "Seeker: Yep, right.",
+          "Kenzo: And and just just again, just to make sure that it’s like in in terms of what you communicated to us: chop off some heads, switched bodies, or resurrected them. And then he was also like clearly upset that like there were [garbled] —there was like more treasure to be found that like had not been found yet in in the city.",
+          "Seeker: So he has a wraith-like lieutenant who’s reporting that they haven’t found the treasure."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Tools and glass brought back from Kharsan",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0083"
+      },
+      "lines": [
+        "%% u0069:0-4, u0070:0-16, u0071:0-34 %%",
+        "Seeker: Hey, Delwath, is that—that some old glass blowing stuff?",
+        "%% u0072:0-8, u0073:0-8, u0074:0-15, u0075:0-196 %%",
+        "Delwath: Yeah, so, I found some pieces of what I think used to be a shop or something. Seems to have been destroyed. I—well, that I don’t remember, but the impression was destroyed relatively—everything kind of collapsed relatively quickly.",
+        "%% u0076:0-109 %%",
+        "DM: Right. From the part of the city that you are in, the impression was it had been destroyed some time ago, yes.",
+        "%% u0077:0-18 %%",
+        "Delwath: But also not like—",
+        "%% u0078:0-32 %%",
+        "DM: Not gradually over time, right.",
+        "%% u0079:0-49, u0080:0-83, u0081:0-149 %%",
+        "Delwath: Exactly, it was an event of some kind. Yes, right. I found at least a market where it seems like many years ago it was attacked, or—or some—in some fashion destroyed quickly, and I brought a few tools and pieces of glass. I thought we could use the mirror to try and see what happened.",
+        "%% u0082:0-120, u0083:0-14 %%",
+        "Seeker: Um, let’s have a look at the glassblowing tools, just to compare, you know, for historical interest, but I think we might want to go on."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: What’s wrong?",
+          "Delwath: Well, at some point, the giant burning ball of fire in the sky will go below the horizon.",
+          "Seeker: We have our own burning fire.",
+          "Kenzo: We’re awesome. Alright.",
+          "Unknown: I’m…"
+        ],
+        "after": [
+          "Kenzo: Shouldn’t we run right now? Yes, there’s—not chasing us now?",
+          "Delwath: Are chasing us?",
+          "Seeker: Well…",
+          "Delwath: Interesting news. That should have been maybe that the headline.",
+          "Wellby: Maybe let’s catch you up after we’re on the horses."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Who could receive a Sending?",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0376",
+        "endUid": "u0392"
+      },
+      "lines": [
+        "%% u0376:0-84, u0377:0-195, u0378:0-152 %%",
+        "Kenzo: That’s brilliant, because actually I mean Kenzo has seen Rai or Dimitaur in visions. Yeah, now would be extremely useful. I was thinking we could potentially send word to Candrosa, but that’s like less useful, like that—definitely you should use that scroll or something pretty cool. The other thing I’m thinking about is the stone giant. If you like, found his eyes, that’d be a big deal, like let them know, like, “Hey, we found your eyes.”",
+        "%% u0379:0-6, u0380:0-3 %%",
+        "((Brief interjections))",
+        "%% u0381:0-38, u0382:0-21, u0383:0-4, u0384:0-3, u0385:0-46, u0386:0-93 %%",
+        "DM: It says, “a creature with which you are familiar.” So, you know, Rai—or—or Dimitaur might be stretching it a tiny bit. Certainly Hralgar, Kenzo at least is familiar enough, but I think you could make that work um.",
+        "%% u0387:0-25 %%",
+        "Kenzo: It—to—to Rai or Dimitaur?",
+        "%% u0388:0-68 %%",
+        "DM: No, to—to Hralgar, because he spent all that time in his mind, to the…",
+        "%% u0389:0-28, u0390:0-10 %%",
+        "((Brief recollection and response))",
+        "%% u0391:0-117, u0392:0-5 %%",
+        "Kenzo: Cool. Oh, that’ll be a useful [garbled], like when we need [garbled] later when we need like a stone giant to help us. It's…"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Just needs to be somebody that you have seen.",
+          "Unknown: Really?",
+          "Seeker: Oh.",
+          "DM: I’m pretty sure.",
+          "Seeker: I didn’t think of that before. I just mentioned it as like a crazy…"
+        ],
+        "after": [
+          "Seeker: Good to have a big friend, yeah, and so we ride for Havdar’s camp.",
+          "DM: Are—so…",
+          "Delwath: Yeah.",
+          "DM: Take off across the desert. You're—you’re just pushing fast, I assume, so your trail is obvious, like there’s a giant plume of sand being kicked up as you ride northwest for Havdar’s camp. You know, leaving a trail behind you.",
+          "Seeker: That’s good riding."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Why dwarves make driftglobes",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0471",
+        "endUid": "u0480"
+      },
+      "lines": [
+        "%% u0471:0-27, u0472:0-17, u0473:0-18, u0474:0-125, u0475:0-35, u0476:0-49, u0477:0-42 %%",
+        "DM: No. That’s interesting. It’s magic. It’s not a… Same with dwarves. Okay, the drift globes are dwarvish, right? They make them because they’re pretty, and they don’t mess with their night vision. Actually, dwarves make drift globes because you can’t see color with with darkvision. Everything’s gray in dark with darkvision.",
+        "%% u0478:0-17 %%",
+        "Seeker: Didn’t know that.",
+        "%% u0479:0-81 %%",
+        "DM: So if you have pretty jewels you can't—you need light to actually see the colors.",
+        "%% u0480:0-11 %%",
+        "Seeker: Yeah, cool."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I think sealed ourself in… We set up, we set up a—drift globes in the perimeter as best we can, ideally around those of us who are asleep as much as possible.",
+          "Wellby: Give away our position to anything within miles and miles and miles miles.",
+          "Seeker: You raise an interesting point, and also prevent us from ourselves having adequate dark vision to even see anything coming.",
+          "Delwath: I don’t think any of us will have… Light doesn’t affect elvish darkvision.",
+          "Seeker: No?"
+        ],
+        "after": [
+          "Delwath: Are we more worried about the orcs finding us or the shadows? Pick your poison.",
+          "Seeker: So we seal ourselves into a chamber filled with light on the inside.",
+          "Delwath: I think sealing ourselves in places is not the direction I would like to go.",
+          "Seeker: And the sun is already setting?",
+          "DM: Yeah, the sun is—is that, at this point, I would say."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Delwath explains his savior’s battlefield gift",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1580",
+        "endUid": "u1606"
+      },
+      "lines": [
+        "%% u1580:0-51 %%",
+        "Kenzo: How are you able to draw energy from those shadows?",
+        "%% u1581:0-4, u1582:0-76, u1583:0-7 %%",
+        "((Pause to recall the savior’s name))",
+        "%% u1584:0-26, u1585:0-25, u1586:0-17, u1587:0-5, u1588:0-41, u1589:0-10, u1590:0-78 %%",
+        "Delwath: The connection I have to this other realm, whoever saved me, lets me gain insight into an enemy on the battlefield that both heals me when that creature dies and helps me to target my strikes against it.",
+        "%% u1591:0-54 %%",
+        "Wellby: You suck the life from your enemies as you kill them.",
+        "%% u1592:0-15 %%",
+        "Delwath: Feel like that.",
+        "%% u1593:0-20 %%",
+        "Wellby: There’s no judgment.",
+        "%% u1594:0-141 %%",
+        "Kenzo: No judgment here, Delwath. We’ve killed a lot of things over the past couple of months. I’m not discerning about how it is. There you go, got it.",
+        "%% u1595:0-25, u1596:0-13, u1597:0-35, u1598:0-36, u1599:0-16, u1600:0-10, u1601:0-14, u1602:0-7, u1603:0-3, u1604:0-44, u1605:0-44 %%",
+        "Delwath: It, it, it feels more like gaining some respite from my wounds from myself, rather than gaining the life of the creature I kill. It—like a gratitude for defeat, or power I get from defeating an enemy, not—not. It’s not sucking the life from the creature.",
+        "%% u1606:0-63 %%",
+        "Wellby: Wellby makes a tiny, subtle eye contact with Kenzo and gestures."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Little to Lord of the Rings of East.",
+          "Delwath: Unless, unless these shadow dogs turn to and from shadow creatures as they—as they… Del.",
+          "Wellby: Nor are we certain that all eight of them came in this direction.",
+          "Seeker: I think we should still sleep with the lights on tonight.",
+          "Delwath: Yes."
+        ],
+        "after": [
+          "Kenzo: Um. Is now a good time to take like a break, a little five-minute break?",
+          "Delwath: Yeah, yeah, although I was hoping we’d wrap up in like an hour.",
+          "DM: Yeah, that’s what I’m aiming for.",
+          "Seeker: This sounds good.",
+          "DM: Five-minute break, then another—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Pava welcomes Kenzo into the order",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1913",
+        "endUid": "u1971"
+      },
+      "lines": [
+        "%% u1913:0-93, u1914:0-40, u1915:0-92, u1916:0-27, u1917:0-63, u1918:0-48, u1919:0-3, u1920:0-97, u1921:0-63, u1922:0-10, u1923:0-35, u1924:0-26 %%",
+        "DM: As you approach the stone house of Pava and Avaras and all the acolytes who study under them, as the sun is setting across the desert. As you approach the slight rise up the hill where this sandstone house with the incongruous pen of of chickens and all, um, is laid out before you are—you can see, um, Pava, who is the—let’s see, I guess check my descriptions here, um. So—so Pava, the slightly older—younger one, but balding, um, sitting outside watching the sunset and as he sees you approach, recognizing you in the distance, he stands, waves, and calls out to you, “Greetings, friends. What brings you back here?”",
+        "%% u1925:0-6, u1926:0-73 %%",
+        "Kenzo: We, we—we need bring tidings of our travels to Kharsan, to the temple of Bhishma.",
+        "%% u1927:0-5 %%",
+        "DM: Come—",
+        "%% u1928:0-24 %%",
+        "Unknown: We’re just about to eat.",
+        "%% u1929:0-59 %%",
+        "Kenzo: That’s music to our ears. We’ve not eaten well in many days.",
+        "%% u1930:0-42, u1931:0-45, u1932:0-33 %%",
+        "DM: Sort of calls out into the into the house, “Our strange group of friends are back, Avaras. Amil, see to their horses, please.”",
+        "%% u1933:0-55, u1934:0-105 %%",
+        "Kenzo: Tim, when we—when we get into the kitchen or whatever, I—I do, that—the new Bhishma secret handshake to like you know, let them know that I’ve joined their order.",
+        "%% u1935:0-3 %%",
+        "((Interjection))",
+        "%% u1936:0-71, u1937:0-6, u1938:0-13, u1939:0-19 %%",
+        "DM: So, so Pava, as you do this, kind of his eyes go wide, and he turns to you. “Kenzo, how have you… Have you done this?”",
+        "%% u1940:0-77 %%",
+        "Kenzo: We returned—what was the name of the temple? It’s just the temple of Bhishma?",
+        "%% u1941:0-23 %%",
+        "DM: Temple of Bhishma, yeah.",
+        "%% u1942:0-26, u1943:0-92, u1944:0-229, u1945:0-50, u1946:0-22 %%",
+        "Kenzo: We returned to the temple again, in part to try to understand the history of what occurred, and the relationship that—hit the story of the history of the Mystai there and and also Rai, and whatever unfolded in Drankor. And Seeker and myself entered the temple and saw the history of the space, and I was asked by Jeevali to give my life, and I did. And I proceeded through the initiation ritual, and I’ve joined the order.",
+        "%% u1947:0-12, u1948:0-69 %%",
+        "DM: You must be incredibly strong to have done that with no training or preparation.",
+        "%% u1949:0-10 %%",
+        "Kenzo: I did die.",
+        "%% u1950:0-6 %%",
+        "((Interjection))",
+        "%% u1951:0-107 %%",
+        "Kenzo: Which was, I think, a bit of a burden to my companions, given the the troubles that we were facing it on and…",
+        "%% u1952:0-32 %%",
+        "Seeker: It’s alarming, to say the least.",
+        "%% u1953:0-12, u1954:0-29, u1955:0-5 %%",
+        "DM: Indeed, yes. Going into such a ritual, and I am…",
+        "%% u1956:0-94, u1957:0-76, u1958:0-4, u1959:0-89, u1960:0-32, u1961:0-100, u1962:0-176, u1963:0-155 %%",
+        "Kenzo: Well, I wouldn’t say unprepared. I think you also helped to train me a bit. And again, I think all of the events of the past couple of months have been a form of training. But I think we do have some some serious news to share, and we have learned quite a bit about—about the history of the temple itself. I can kind of just give it—give the details of like what we what we experienced, what we saw. And you know just kind of was like I sort of start first by just sharing like the history of the temple like you know interacting with the ghosts and all that, just to see, like, did you—did you know any of these people that we met? And explaining that weird fucking hall where we could like you know pick memories, and then you know.",
+        "%% u1964:0-56, u1965:0-169, u1966:0-101 %%",
+        "DM: The whole process. So they had both been when they were young, right? So they're, you know, they’re pretty old now, and and like when they were young apprentices, they had been to the monastery, even though they did not stay there. So, so they know. I mean, they were the ones who told you about the Hall of Stories in the first place.",
+        "%% u1967:0-14 %%",
+        "((Brief acknowledgment))",
+        "%% u1968:0-71, u1969:0-47, u1970:0-108, u1971:0-43 %%",
+        "DM: So, so, then they know what you’re talking about. They, you know, they're… Pava’s like, “It is a place like none other. I am—I am sad that it is no longer so accessible to us, but pleased that it doesn’t seem to have failed entirely. This is in many ways joyous news you bring.”"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So you start off.",
+          "Kenzo: With a stone house.",
+          "DM: Okay, it’s about a two-day journey. You easily resupply at the spring here, so you don’t need to worry about water. Even even down some horses, you’re not like carrying giant loads of treasure back from Kharsan or anything like you did from the tower, so you’re basically fine. You know, you probably can’t carry weeks’ worth of water anymore, but a few days to get to the stone house, not an issue. You set out, and again, the first day passes uneventfully and I just need one—let's see—one more Wisdom save from Seeker.",
+          "Seeker: Oh boy, Wisdom saving throw. Nailed it.",
+          "DM: The next day passes uneventfully as well as you approach the stone house. Let’s see. I’m just keeping notes of time."
+        ],
+        "after": [
+          "Kenzo: A lot, a lot. The orcs that are now throughout the area, though, on—they… We’ve learned more about their activities. Share we learned about the orcs. But do you know what treasure Grash seeks, and do you know, do you think that this has anything to do with what happens at the temple 30 years ago, or before?",
+          "DM: Maybe. “I know little of—of treasure. Avaras, you know? They're—there were those…” Avaras chimes in: “There were those adventurers that passed through like a month ago now, heading east. They were looking for something. Like, yeah wait, they were—they seemed determined, and wouldn’t say unfriendly, but the vibe we got from them was not one that you would want to reveal yourself to.”",
+          "Kenzo: Do you have any idea—do you have any idea what everybody’s looking for, and where they’re looking?",
+          "DM: We were never so concerned with—",
+          "Unknown: Things."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Avaras on treasure hunters and the ancient land",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1972",
+        "endUid": "u2042"
+      },
+      "lines": [
+        "%% u1972:0-6, u1973:0-6, u1974:0-22, u1975:0-32, u1976:0-5, u1977:0-74, u1978:0-157 %%",
+        "Kenzo: A lot, a lot. The orcs that are now throughout the area, though, on—they… We’ve learned more about their activities. Share we learned about the orcs. But do you know what treasure Grash seeks, and do you know, do you think that this has anything to do with what happens at the temple 30 years ago, or before?",
+        "%% u1979:0-6, u1980:0-17, u1981:0-29, u1982:0-59, u1983:0-98, u1984:0-26, u1985:0-27, u1986:0-28, u1987:0-80 %%",
+        "DM: Maybe. “I know little of—of treasure. Avaras, you know? They're—there were those…” Avaras chimes in: “There were those adventurers that passed through like a month ago now, heading east. They were looking for something. Like, yeah wait, they were—they seemed determined, and wouldn’t say unfriendly, but the vibe we got from them was not one that you would want to reveal yourself to.”",
+        "%% u1988:0-72, u1989:0-26 %%",
+        "Kenzo: Do you have any idea—do you have any idea what everybody’s looking for, and where they’re looking?",
+        "%% u1990:0-32 %%",
+        "DM: We were never so concerned with—",
+        "%% u1991:0-7 %%",
+        "Unknown: Things.",
+        "%% u1992:0-23, u1993:0-75 %%",
+        "DM: People are what matter. Their stories live on, and even if their possessions vanish from the earth.",
+        "%% u1994:0-5, u1995:0-5, u1996:0-21, u1997:0-29 %%",
+        "((Turn-taking interruption))",
+        "%% u1998:0-22, u1999:0-43, u2000:0-51, u2001:0-27, u2002:0-62, u2003:0-5, u2004:0-78, u2005:0-55, u2006:0-44, u2007:0-28, u2008:0-13, u2009:0-21 %%",
+        "DM: This land is very old, and there have been many empires that have risen and fallen and risen again before the Dunmar. So if anyone were to seek ancient magic for any reason, this would be the place to look. Even stories—and he looks at you, Delwath—maybe you know the truth of these stories. Long, long, long ago, before humans even walked the earth, they say this was a great forest, stretching as far as the eye could see. Is that true? The elves lived here?",
+        "%% u2010:0-4, u2011:0-25, u2012:0-12, u2013:0-47, u2014:0-22, u2015:0-16, u2016:0-91, u2017:0-28 %%",
+        "Delwath: Yes. Many, many years ago now, there was a—our greatest cities stretched across this land. They collapsed in the great upheavals, when the humans fled their their ancient island and their ancient land and founded Drankor. The world was sundered then.",
+        "%% u2018:0-4 %%",
+        "((Interjection))",
+        "%% u2019:0-131 %%",
+        "Delwath: Some of my people still tell of the days when you could walk from one end to the other of this continent through the elven forest.",
+        "%% u2020:0-24, u2021:0-19 %%",
+        "DM: So much history, indeed. The elves, Drankor…",
+        "%% u2022:0-15, u2023:0-4 %%",
+        "((Brief interjections))",
+        "%% u2024:0-67, u2025:0-4, u2026:0-19 %%",
+        "DM: Why somebody would be seeking ancient magic is beyond my knowledge. But Chardon would know.",
+        "%% u2027:0-19, u2028:0-15 %%",
+        "Kenzo: Chardon would know? Who in Chardon?",
+        "%% u2029:0-62, u2030:0-15, u2031:0-82 %%",
+        "DM: All the treasure hunters I’ve ever met have come from Chardon, or the dwarves. People of the of the Yuvanti Mountains, not—you’re from further north, right, Seeker?",
+        "%% u2032:0-55, u2033:0-12 %%",
+        "Seeker: I am, but we traveled for a time with a companion from the Yuvanti.",
+        "%% u2034:0-10, u2035:0-66, u2036:0-84, u2037:0-27, u2038:0-42 %%",
+        "DM: I've seen—I’ve seen them. I've heard—I’ve heard stories told of them passing across this land to seek the last relics of their ancestral homelands to the north. Perhaps some of them would know more of what treasures may be buried.",
+        "%% u2039:0-13, u2040:0-11 %%",
+        "((Interrupted question))",
+        "%% u2041:0-44 %%",
+        "Seeker: Says, “Hey, that’s just what Riswynn was doing.”",
+        "%% u2042:0-17 %%",
+        "Wellby: Yeah, yeah, indeed."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Indeed, yes. Going into such a ritual, and I am…",
+          "Kenzo: Well, I wouldn’t say unprepared. I think you also helped to train me a bit. And again, I think all of the events of the past couple of months have been a form of training. But I think we do have some some serious news to share, and we have learned quite a bit about—about the history of the temple itself. I can kind of just give it—give the details of like what we what we experienced, what we saw. And you know just kind of was like I sort of start first by just sharing like the history of the temple like you know interacting with the ghosts and all that, just to see, like, did you—did you know any of these people that we met? And explaining that weird fucking hall where we could like you know pick memories, and then you know.",
+          "DM: The whole process. So they had both been when they were young, right? So they're, you know, they’re pretty old now, and and like when they were young apprentices, they had been to the monastery, even though they did not stay there. So, so they know. I mean, they were the ones who told you about the Hall of Stories in the first place.",
+          "Kenzo: Oh yeah, right.",
+          "DM: So, so, then they know what you’re talking about. They, you know, they're… Pava’s like, “It is a place like none other. I am—I am sad that it is no longer so accessible to us, but pleased that it doesn’t seem to have failed entirely. This is in many ways joyous news you bring.”"
+        ],
+        "after": [
+          "Kenzo: There, there is one treasure in particular, though, that—in my, in my initiation ritual, I spoke to Bhishma. I spoke to Bhishma, and I asked about Shakun, and they told me that they were no longer able to offer protection to the land because they had lost the heart. Somehow, the Heart of Shakun is lost, and this, I think, is the most pressing matter, at least for us at the moment is to try to figure out the whereabouts of the heart and to see if we can return it to Karawa. Do you know anything about this?",
+          "DM: They offer, um… Pava and Avaras look at each other as you’re speaking. Avaras chimes in and says, “You are truly blessed if you spoke to her yourself in your initiation. This is not a—this is not a common event, and—”",
+          "Kenzo: These are not common times.",
+          "DM: But Shakun’s heart, that is not our story. Are—not our realm. You are—you travel among—among many gods, Kenzo. Perhaps as a servant of Laka and Bhishma, you might have some sway over their daughter Shakun.",
+          "Kenzo: Forgot that that was the daughter of the two of them."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The lost Heart of Shakun and the Mystai",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2043",
+        "endUid": "u2098"
+      },
+      "lines": [
+        "%% u2043:0-58, u2044:0-49, u2045:0-31, u2046:0-13, u2047:0-22, u2048:0-118, u2049:0-181, u2050:0-32 %%",
+        "Kenzo: There, there is one treasure in particular, though, that—in my, in my initiation ritual, I spoke to Bhishma. I spoke to Bhishma, and I asked about Shakun, and they told me that they were no longer able to offer protection to the land because they had lost the heart. Somehow, the Heart of Shakun is lost, and this, I think, is the most pressing matter, at least for us at the moment is to try to figure out the whereabouts of the heart and to see if we can return it to Karawa. Do you know anything about this?",
+        "%% u2051:0-14, u2052:0-55, u2053:0-26, u2054:0-70, u2055:0-14, u2056:0-31 %%",
+        "DM: They offer, um… Pava and Avaras look at each other as you’re speaking. Avaras chimes in and says, “You are truly blessed if you spoke to her yourself in your initiation. This is not a—this is not a common event, and—”",
+        "%% u2057:0-27 %%",
+        "Kenzo: These are not common times.",
+        "%% u2058:0-19, u2059:0-22, u2060:0-4, u2061:0-14, u2062:0-8, u2063:0-17, u2064:0-22, u2065:0-8, u2066:0-16, u2067:0-5, u2068:0-12, u2069:0-52 %%",
+        "DM: But Shakun’s heart, that is not our story. Are—not our realm. You are—you travel among—among many gods, Kenzo. Perhaps as a servant of Laka and Bhishma, you might have some sway over their daughter Shakun.",
+        "%% u2070:0-53 %%",
+        "Kenzo: Forgot that that was the daughter of the two of them.",
+        "%% u2071:0-78, u2072:0-4, u2073:0-21, u2074:0-17, u2075:0-45, u2076:0-29, u2077:0-25, u2078:0-37, u2079:0-104 %%",
+        "DM: But you would have to speak with the Mystai of Shakun and speak with Candrosa. Our—Bhishma, as you know, watches over the tales of the people, the stories, their souls. Shakun watches over the land. Magic that protects that. It's not—it is beyond our experience. But indeed, if this artifact is missing, that would explain much of what’s happened over the past year.",
+        "%% u2080:0-44 %%",
+        "Seeker: Who are the people that watch over the land?",
+        "%% u2081:0-49 %%",
+        "DM: I mean, we all watch over the land in our own way.",
+        "%% u2082:0-4 %%",
+        "((Interjection))",
+        "%% u2083:0-39, u2084:0-41 %%",
+        "DM: The magical protections that guard the entrances to Dunmar, the Mystai of Shakun.",
+        "%% u2085:0-51, u2086:0-18 %%",
+        "Seeker: And they have all traditionally gathered at Karawa, and not elsewhere?",
+        "%% u2087:0-19, u2088:0-82, u2089:0-15, u2090:0-61 %%",
+        "DM: Yes, that is there. Just as the monastery near Kharsan was the home of our order for many generations, that temple of—in Karawa has been the home of Shakun Mystai for generations.",
+        "%% u2091:0-69, u2092:0-104 %%",
+        "Seeker: Funny thing about that temple, that—I’m a student of rocks and stones, and the temple itself oddly seem to be older than the stone surrounding. Do you know anything about that?",
+        "%% u2093:0-28 %%",
+        "DM: I am not a student of rocks.",
+        "%% u2094:0-12, u2095:0-4, u2096:0-18 %%",
+        "((Brief aside))",
+        "%% u2097:0-19 %%",
+        "DM: That is indeed odd.",
+        "%% u2098:0-27 %%",
+        "Seeker: I’ve been puzzling over it."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I am, but we traveled for a time with a companion from the Yuvanti.",
+          "DM: I've seen—I’ve seen them. I've heard—I’ve heard stories told of them passing across this land to seek the last relics of their ancestral homelands to the north. Perhaps some of them would know more of what treasures may be buried.",
+          "Kenzo: There is one… There, that…",
+          "Seeker: Says, “Hey, that’s just what Riswynn was doing.”",
+          "Wellby: Yeah, yeah, indeed."
+        ],
+        "after": [
+          "Kenzo: Just to touch Meta game, but is there anything else we want to ask?",
+          "Seeker: The crucial thing we’re not thinking of.",
+          "Delwath: Yes, yeah.",
+          "Wellby: Descriptions of the treasure explorers. So, don’t need them now, but yeah.",
+          "Kenzo: Yeah. Detailed description."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Saka may know more about Rai and Drankor",
+      "entities": [
+        {
+          "id": "e031",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2120",
+        "endUid": "u2147"
+      },
+      "lines": [
+        "%% u2120:0-82 %%",
+        "Seeker: I nudge Kenzo and try to whisper, not impolitely, “Ask him about—ask them about Rai.”",
+        "%% u2121:0-8, u2122:0-41, u2123:0-94 %%",
+        "Kenzo: Oh yeah. Didn’t we? Yeah yeah well, we already had. To me—well, sorry, um, I—I spoke with them about it before we left, remember like I told you guys.",
+        "%% u2124:0-6 %%",
+        "DM: Kenzo.",
+        "%% u2125:0-33, u2126:0-138, u2127:0-191 %%",
+        "Kenzo: So I had already spoken about it. But again, I think that was like part of the early part of the conversation was sharing like what happened with the temple and so on, so, um, yeah. So Tim, just is—do they have any more insight on like what they were—what they were trying to do in Drankor? Did they actually close the portal? How are they trying to close the portal?",
+        "%% u2128:0-51 %%",
+        "DM: I know a lot of this is news to them, actually like.",
+        "%% u2129:0-5, u2130:0-9, u2131:0-10 %%",
+        "((Verbal pause))",
+        "%% u2132:0-268 %%",
+        "DM: You know, they were young and sort of paying more attention to each other than the order at that time of their lives, and were kind of disconnected from these events and—and since like have become much more essential because not that many people survived, obviously, but…",
+        "%% u2133:0-57 %%",
+        "Kenzo: Oh yeah. So remember that one person that, like the woman—",
+        "%% u2134:0-21 %%",
+        "((Aside))",
+        "%% u2135:0-33 %%",
+        "Kenzo: Yeah, ask about her like just she—",
+        "%% u2136:0-53 %%",
+        "DM: They were the ones who originally told you about her.",
+        "%% u2137:0-22, u2138:0-80 %%",
+        "Kenzo: Fucking, oh, really? Yes. But do—now, given this history, do they think that she would know anything about—",
+        "%% u2139:0-15, u2140:0-32, u2141:0-152 %%",
+        "DM: Ah, yes, I mean, that they—they do identify that this woman Saka, who they mentioned to you before, but you also had a vision of in the Hall of Stories, is definitely somebody who would likely know more.",
+        "%% u2142:0-24 %%",
+        "Delwath: Where could we find her?",
+        "%% u2143:0-8, u2144:0-5 %%",
+        "DM: So they know…",
+        "%% u2145:0-28 %%",
+        "Seeker: Who's living north of Tokra.",
+        "%% u2146:0-60 %%",
+        "Delwath: Oh right, they called—yeah, yeah, yeah. Right, right, right, right.",
+        "%% u2147:0-43 %%",
+        "Kenzo: Perfect. That’s right on our way to Chardon."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I’ve heard that said.",
+          "Wellby: Once you know that they’re not polite.",
+          "DM: Routing end.",
+          "Wellby: He says, probably not many more.",
+          "Delwath: Is there anything we should ask them about?"
+        ],
+        "after": [
+          "Seeker: Pitch. Nice.",
+          "Kenzo: Fucking hell.",
+          "Delwath: It—is there any dwarven… I mean, they mentioned the dwarves like. Do we know—I mean, we’d just be hunting up Riswynn. Do we know anything in particular about… Do they know anything about the dwarves?",
+          "DM: I mean they just you know have heard. They collect stories, right? It's just heard stories from people, and most many of the dwarves who are not traders but people who are just crossing Dunmar on adventures are heading back to their ancestral homes.",
+          "Delwath: Right, right, right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Grash’s danger changes plans for Amil",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2188",
+        "endUid": "u2208"
+      },
+      "lines": [
+        "%% u2188:0-193, u2189:0-193, u2190:0-201 %%",
+        "Kenzo: I guess the last minute, right, with that—with that, you know, Pava and Avaras is just like warning them about just telling them about Grash, you know, talking to my battle thing, like we saw Grash. Just to be aware of the the feud with the orcs, and right, you know, and especially if they're still looking that—if they’re still looking for this treasure than that, whatever that treasure is, that the orcs are likely to still still be you know marauding around and right and did you have any—do you have any reaction to that? Are they like, “Oh shit, that’s scary,” or are they like, “Oh, this is not…”?",
+        "%% u2191:0-32, u2192:0-28, u2193:0-8, u2194:0-6, u2195:0-129, u2196:0-11 %%",
+        "((Reminder of earlier reports about rival orcs))",
+        "%% u2197:0-15, u2198:0-71, u2199:0-83, u2200:0-63, u2201:0-129, u2202:0-156 %%",
+        "DM: You know, there—a bit taken aback by your description of Grash. Seems like a scary dude. But they’re reasonably—I mean, they you know they have lived here in the desert for 40 years, and it hasn’t gotten any safer over those 40 years. So, you know, they feel pretty… But they do you know when you’re talking about this, they do like sort of look at each other, and like, you know, when Amil’s not—Amil’s out of the room like clearing the dishes or stuff, they’re like, you know, “I think we’re gonna need to keep them closer,” right?",
+        "%% u2203:0-9 %%",
+        "((Interjection))",
+        "%% u2204:0-50 %%",
+        "DM: “Not send him on these missions by himself anymore.”",
+        "%% u2205:0-171 %%",
+        "Kenzo: And did it any reaction at Grash himself like are they like, like, do they know anything about who Grash might be, or who Grash’s master is? That’s a big fucking question. No?",
+        "%% u2206:0-80 %%",
+        "DM: I mean, yeah, they—they—I mean they’re like spooked, right? Like he's like you know.",
+        "%% u2207:0-5 %%",
+        "((Interrupted comment))",
+        "%% u2208:0-68 %%",
+        "DM: But they don’t have any information about about Grash in particular."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Well, easier to get onto Karawa. I'm gonna—I’m gonna step outside and take a scan of the horizon in all directions, and—",
+          "Seeker: Feet.",
+          "Wellby: To keep an eye on… Feed Baxter and see if there’s anything out there.",
+          "Seeker: See where [garbled].",
+          "Wellby: Versus yeah."
+        ],
+        "after": [
+          "Kenzo: There—anything else, want to share with us? [garbled], I mean, I think I warning them was the biggest thing I wanted to—",
+          "Delwath: Do. Yeah, I think that’s good. I think we should head back to Karawa.",
+          "Kenzo: But just just you know, again I like I said, we’d like spend the night.",
+          "DM: Yeah, you’ve—",
+          "Kenzo: Spent the night. So I know, Tim, I just spend the night kind of you know, really like sitting with with Pava and Avaras and, just like you know you know now that I’m like one of the order you know yeah you kind of do some bonding, you know, you said."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Theology and a carved gift at the stone house",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2212",
+        "endUid": "u2224"
+      },
+      "lines": [
+        "%% u2212:0-70 %%",
+        "Kenzo: But just just you know, again I like I said, we’d like spend the night.",
+        "%% u2213:0-12 %%",
+        "DM: Yeah, you’ve—",
+        "%% u2214:0-246 %%",
+        "Kenzo: Spent the night. So I know, Tim, I just spend the night kind of you know, really like sitting with with Pava and Avaras and, just like you know you know now that I’m like one of the order you know yeah you kind of do some bonding, you know, you said.",
+        "%% u2215:0-21, u2216:0-18 %%",
+        "DM: Yeah, you have a nice education session.",
+        "%% u2217:0-68 %%",
+        "Kenzo: Yeah, do some like Bhishma, you know some Bhishma theology, you know.",
+        "%% u2218:0-79, u2219:0-42 %%",
+        "Seeker: As we stay the night, as a gift for them, I’ll carve a tiny stone replica of the—of which part of the monastery complex, me…",
+        "%% u2220:0-56 %%",
+        "Kenzo: Awesome, like some of the story, the stories on the wall.",
+        "%% u2221:0-8 %%",
+        "Wellby: Oh, cool.",
+        "%% u2222:0-20 %%",
+        "DM: Well, that’s awesome.",
+        "%% u2223:0-10 %%",
+        "Seeker: Yeah, very.",
+        "%% u2224:0-29 %%",
+        "DM: They’re very touched by that."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I mean, yeah, they—they—I mean they’re like spooked, right? Like he's like you know.",
+          "Kenzo: If I…",
+          "DM: But they don’t have any information about about Grash in particular.",
+          "Kenzo: There—anything else, want to share with us? [garbled], I mean, I think I warning them was the biggest thing I wanted to—",
+          "Delwath: Do. Yeah, I think that’s good. I think we should head back to Karawa."
+        ],
+        "after": [
+          "Kenzo: That’s super cool. Dude, you should—men are like—do you have like a, like a, like a, like—can you develop like a 3D like 3D scanning capability via memory? So it's like you just like study a thing, and then you can—you’re basically 3D scanning, and then you’re like doing your own version of like Blender and stuff like that. And then you'd like—and then you like you know can create like super amazing… Dude, that’s what we should do. You should create like crazy like like earth sculpture, like you know fucking installations and stuff.",
+          "Seeker: I mean, Performance of Creation is a lot faster than stone carving, but it only last a few hours.",
+          "Wellby: Or I was gonna suggest you could like mass-produce trinkets for tourists.",
+          "Seeker: Hey, that’s steady income.",
+          "DM: So, so in the interest of time, I’m just gonna montage the travel back to—going back to Karawa at this point, right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Havdar’s band and the centaurs welcome the party",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2266",
+        "endUid": "u2282"
+      },
+      "lines": [
+        "%% u2266:0-23, u2267:0-19, u2268:0-43, u2269:0-88, u2270:0-93, u2271:0-59, u2272:0-40, u2273:0-63, u2274:0-9, u2275:0-23, u2276:0-194, u2277:0-79 %%",
+        "DM: From a distance, seeing, you know, the ruins of the town destroyed by the gnoll attacks. But there’s clearly been some clean up, some little bit of—not exactly rebuilding, but, um, creating some habitable space. Havdar’s band seems to have taken over the ruins of of Ikram’s tavern, has repaired that, turned it into stables, using the—the courtyard as a as a training ground. And you can hear from the you know from some distance away the clash of practice bouts as they, you know, keep themselves in fighting shape. You can see the watch that’s been set over town, a mix of Havdar’s soldiers and centaurs riding circuits around the town, keeping an eye on the desert. In fact, it is them who initially intercept you and welcome you back into town.",
+        "%% u2278:0-30, u2279:0-65, u2280:0-33, u2281:0-18, u2282:0-34 %%",
+        "DM: Havdar arrived a few days ago. Tharandros, the leader of the centaurs, is eager to speak with you. And as they escort you into town, we will end there, picking up in Karawa next session."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So, ah, over the—it’s about, let’s see, it's, it's 130 ish miles, so you know not—not going at a at a crazy pace, you know it's it’s going to take you about a little bit more than five days. Say about five days’ travel, and you arrive sort of late afternoon on the—on the sixth day.",
+          "DM: And, you know, the trip through the desert is—feels quiet here it's, you know, it's less… You’ve gotten to the to the sort of point in the desert where you're even though, like, you know, Bas Udda was destroyed, you still feel closer to civilization. You see the occasional you know giant vulture overhead, but you know a few shots from your bow, Wellby, especially a few flaming arrows, scares them off pretty quick. You know, you’re getting used to the routine of camping by bright light every night, um. But whether it’s because you’ve you know gotten far enough from Kharsan that Grash’s reach cannot extend here, or just that you’ve gotten lucky, while you know that there’s more shadows out there, none seem to attack you—",
+          "Unknown: During your trip.",
+          "DM: And as you, you know you pass through the ruins of Bas Udda, still ruined, still you know, a destroyed city. Nobody’s come back. This is not a safe place to live anymore, but seems more peaceful than it was when you first, then when you first arrived here. What now, nearly a month ago? It’s been almost a month, it's been about a month that close to a month you’ve been out in the desert. Not, not quite a month, um. Ah.",
+          "DM: And then you come up to the you know, to the to the Red Mesa, now looming above you, stretching miles across the desert, the largest feature around, feeling almost as if you’re returning home as you begin to approach Karawa from the from the south. And on the afternoon, after rest in the shade, um, six days after you you depart the stone house, you approach the town of Karawa."
+        ],
+        "after": [
+          "Seeker: I really hope John’s playing a centaur.",
+          "Delwath: I was just gonna say the same thing.",
+          "Seeker: Well, probably not.",
+          "Kenzo: Like you."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
