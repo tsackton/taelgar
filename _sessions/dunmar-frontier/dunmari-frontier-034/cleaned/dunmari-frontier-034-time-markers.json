@@ -1,0 +1,281 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-034",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-session.yaml",
+    "sessionYamlSha256": "78a802ab3b1bcf1987d8ce63c60837d424a9bfc1c750028acd79708887f4ea31",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-transcript.md",
+    "transcriptSha256": "67cc5c7c0d532834e7710a63831f37413117d0b18657674e0a0c39c816383c13",
+    "yamlDates": {
+      "start": "1748-06-30",
+      "end": "1748-07-01"
+    },
+    "supplementarySources": [
+      {
+        "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 33 (DuFr).md",
+        "sha256": "8430ad35c58305190a841e0a5a34d5bb79e48fda185ee686089feae28bcde187",
+        "use": "The dated Session 33 account places the eleven-day journey and Tokra arrival before this session’s resumed monastery scene; no precise clock is imported."
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0009",
+        "endUid": "u0014"
+      },
+      "reading": "The session opens at the monastery arrival in the afternoon, with the sun beginning to sink.",
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM’s current-scene anchor; the eleven-day journey is recounted as already completed."
+      },
+      "evidence": [
+        {
+          "startUid": "u0009",
+          "endUid": "u0014",
+          "quote": "DM: As the afternoon sun begins to sink towards the horizon, more than a week after leaving Karawa with all your worldly possessions and Garret Tealeaf, the halfling you had rescued from Agata, saying goodbye to Drikod on the road, as he turned north to his mountains, and traveling for 11 days across the plains, you've now finally arrived in Tokra, at the monastery of the Lakan Mystai that Kenzo called home for several years. Monastery itself is set on a hill a few miles south of Tokra along the river Hara, which is at this time of year slow and sluggish waiting for the rains to come."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0194",
+        "endUid": "u0198"
+      },
+      "reading": "The courtyard conversation with Rishi is still in late afternoon.",
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "Direct question and DM answer."
+      },
+      "evidence": [
+        {
+          "startUid": "u0194",
+          "endUid": "u0198",
+          "quote": "Delwath: And establish a base here rooms, etc. Yeah what time of day is it?\n\nDM: Late afternoon at this point."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0483",
+        "endUid": "u0486"
+      },
+      "reading": "The tour, reunion with Wellby and storing the loot carry the party to the dinner bell.",
+      "time": {
+        "partOfDay": "dinnertime",
+        "precision": "approximate",
+        "basis": "DM explicitly advances the settling-in interval to the dinner bell."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0480",
+          "endUid": "u0486",
+          "quote": "DM: You get settled in in in in the dormitory there's actually it's you know enough people are there still like monks around right like you're not alone, but you can you get sort of a corner to yourself, as this is happening Wellby arrives as you're getting settled you get a corner, that you can sort of set up as your little area. If you do ever want to sleep here.\n\nDM: And you know between you know being shown around a little bit and catching Wellby up on what's happened and and getting your your loot stored that takes you just about to the dinner bell so you head to the dining."
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0695",
+        "endUid": "u0698"
+      },
+      "reading": "Dinner finishes and Johar joins the party in the cloisters for the evening.",
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM’s accepted post-dinner transition; the earlier proposed cut was paused to finish dinner conversation."
+      },
+      "evidence": [
+        {
+          "startUid": "u0521",
+          "endUid": "u0539",
+          "quote": "DM: In a big meal. Right, so you know, with all the monks around. Ah, so maybe maybe we'll say you eat dinner you sort of get introduced to everybody, but after dinner.\n\nKenzo: Yeah yeah yeah.\n\nDM: Now the four of you and Johar kind of go off to the side a little bit you sort of pull them over and say Look, we want to talk about though what's happened in town.\n\nDelwath: So that sounds fine, but before that way.\n\nDM: Yep.\n\nDelwath: What is the meal? There's like what, a dozen monks here? Half a dozen monks?\n\nDM: It's probably about a dozen now. Normally there might be know it's probably more like like 20, 25 like.\n\nDelwath: Um. I don't want to like. Poking like try and get Johar to spill the beans or like anything like that, but like just a sense like are things terrible is there some does every does anybody know I mean without without like grilling him or questioning him. It's totally reasonable he works in the archives. How was work today?"
+        },
+        {
+          "startUid": "u0695",
+          "endUid": "u0698",
+          "quote": "DM: So as dinner finishes up and you sort of clear help everybody clear up and get settled for the evening yeah Johar you know walks out with you to sit sit in the class a little place sit in the cloisters."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0949",
+        "endUid": "u0949"
+      },
+      "reading": "The party goes to bed, receives long-rest benefits, and completes the overnight before waking next morning.",
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; the sleep and following morning independently establish the overnight, not the sheet reset alone."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0949",
+          "endUid": "u0949",
+          "quote": "DM: They all go to bed."
+        },
+        {
+          "startUid": "u0976",
+          "endUid": "u0976",
+          "quote": "DM: And take a long rest if you haven't recently to just reset everything."
+        },
+        {
+          "startUid": "u1008",
+          "endUid": "u1015",
+          "quote": "DM: Okay, so you wake up in the morning gather for breakfast at the at the monastery and prepared to head out towards that this is first thing after breakfast you're going to go talk to Basu. Yep okay. So so Basu, who is again very pleased that you showed up in the morning like he was a little uncertain, if you are serious about this he's puttering about this workshop it has these like um it's it's mostly like a leather working workshop. I like there's you know big pieces of leather that are stretched out but everything's in sort of disarray, and there's no finished product here at all, and he has been unable to construct anything for a while."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1008",
+        "endUid": "u1015"
+      },
+      "reading": "The party wakes in the morning, breakfasts, and visits Basu’s workshop immediately afterward.",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Explicit waking and first-thing-after-breakfast narration."
+      },
+      "evidence": [
+        {
+          "startUid": "u1008",
+          "endUid": "u1015",
+          "quote": "DM: Okay, so you wake up in the morning gather for breakfast at the at the monastery and prepared to head out towards that this is first thing after breakfast you're going to go talk to Basu. Yep okay. So so Basu, who is again very pleased that you showed up in the morning like he was a little uncertain, if you are serious about this he's puttering about this workshop it has these like um it's it's mostly like a leather working workshop. I like there's you know big pieces of leather that are stretched out but everything's in sort of disarray, and there's no finished product here at all, and he has been unable to construct anything for a while."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1339",
+        "endUid": "u1341"
+      },
+      "reading": "Scraping the mold from the pillar takes about five minutes within the ongoing entrance-hall exploration.",
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated estimate after the scraping completes."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08",
+          "note": "The later approximately ten-minute total covers the same ongoing hall exploration."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1330",
+          "endUid": "u1342",
+          "quote": "Delwath: I'm actually going to summon a Mage Hand, give it a knife and have it stand 30 feet away.\n\nDM: And have it go scrape.\n\nDelwath: The mold off.\n\nSeeker: Okay, no that that makes more sense than what I was going to do.\n\nDM: A.\n\nSeeker: Seeker I assume you move.\n\nDM: A little bit.\n\nDelwath: Before I do this I'm going to have people move lamb and imagine imagine the poison cloud that's going to pop up please don't go within 15 feet of the pillar.\n\nDM: Okay, you scrape the mold off now and a few more of these these clouds of spores are ejected, but after you know, maybe five minutes or so you managed to get it all all clear.\n\nDelwath: So what does it say?"
+        },
+        {
+          "startUid": "u1403",
+          "endUid": "u1406",
+          "quote": "DM: Delwath and Seeker you're continuing to this this pillar here.\n\nDelwath: Yeah I'm holding though don't do Wellby things.\n\nDM: And Kenzo are you doing anything it's probably been about 10 minutes now?\n\nKenzo: Yeah just just cautious."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1405",
+        "endUid": "u1405"
+      },
+      "reading": "About ten minutes have passed exploring the entrance hall, including clearing and reading the pillars.",
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s retrospective total during the continuing entrance-hall exploration."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1400",
+          "endUid": "u1406",
+          "quote": "DM: What's at that end of the room? Okay hold on a SEC, so, Wellby is going to you want to search through the rubble yes look around. Yeah make a make a perception check.\n\nDM: Delwath and Seeker you're continuing to this this pillar here.\n\nDelwath: Yeah I'm holding though don't do Wellby things.\n\nDM: And Kenzo are you doing anything it's probably been about 10 minutes now?\n\nKenzo: Yeah just just cautious."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2363",
+        "endUid": "u2367"
+      },
+      "reading": "The party completes one hour of short rest in the corridor after fighting the slimes.",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM explicitly confirms the hour everybody rests."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2363",
+          "endUid": "u2370",
+          "quote": "DM: So you're gonna take a short rest, just like in the corridor here?\n\nWellby: Whatever and orange slices.\n\nSeeker: Yep.\n\nUnknown: Yep.\n\nDM: Ah, so you like kind of like huddle against the side of the wall put out the lights and nothing will notice you.\n\nDM: Does anybody like keeping an eye out?\n\nDelwath: Yeah yes. We're not idiots."
+        },
+        {
+          "startUid": "u2373",
+          "endUid": "u2385",
+          "quote": "DM: You have you get to have you may add let's see Wellby, somebody else make a perception check or a Wellby could roll with advantage?\n\nWellby: Okay. 17.\n\nDM: You don't see anything moving, but you hear like this sound chattering sound seems to get louder and then quieter and then louder again and actually you notice as you're kind of watching this that this corridor that goes off to the—down this way is—it looks like like the all the corridors you've been passing through are like very old like it's clearly been carved like smooth from the cave wall, but like in this very sort of Elvish style. This is just like somebody cut through the wall it's like much cruder a different architectural style that goes down this this corridor.\n\nSeeker: To your left there.\n\nDM: Yeah but you don't during the hour that everybody rests you do hear some noises but you don't see anything coming.\n\nKenzo: Grady dice yep.\n\nUnknown: And\n\nDM: Also, you get your ki back."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2912",
+        "endUid": "u2918"
+      },
+      "reading": "The vials absorb energy for about fifty minutes; the cave dries and the glow fades before collection.",
+      "duration": {
+        "value": 50,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM revises intermediate 30–45-minute descriptions and “about an hour” to about 50 minutes; ten minutes of Polymorph remain."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2912",
+          "endUid": "u2938",
+          "quote": "DM: So you wait you wait like 30 minutes, 40 minutes. That cave starts getting drier. The leaf litter that's been that's been littering this floor starts the leaves start to like dry up turning in turning from this like moist damp like swampy undergrowth to you know, to this much more sort of dry like crackling like winter in New England type leaves.\n\nDM: The fungi that sort of glowing around the walls begin to also sort of the glow begins to fade. After about 40, 45 minutes, the three vials themselves are are are sort of pulsing almost with this greenish light the sort of light that's coming from this sort of spot and the the the glow here is fading as this room falls into darkness now.\n\nDM: I'm the scurrying sounds that you could hear of these like little creatures digging through the leaves begin to fade.\n\nDM: The the just the sort of dripping dampness that you've heard throughout the cavern also begins to fade and a silence interrupted only by the the occasional crackle of a dried some dried leaves or or dried dirt kind of being blown around by the by the you know, whatever little bits of wind or or noise may stir in these caverns the occasional sound or something like falling off a wall, sliding down. And by just about an hour—let's say about 50 minutes have passed. The vials have stabilized; they don't seem to be absorbing more energy, and the room is completely black. The only light—well, the drift globes and, obviously, but the—this sort of patch of—of earth itself stone now is giving off no further light.\n\nDM: You have maybe 10 minutes before your spell is up.\n\nKenzo: Collect the vials and get the Fuck out of here."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute campaign date is spoken. June 30–July 1, 1748 comes from YAML; this relative-span match is conditional on that working start date.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t04",
+      "t05",
+      "t06",
+      "t10"
+    ],
+    "explanation": "The covered play is the monastery arrival, dinner and overnight, then the following morning’s ruins expedition and return to the surface. The opening eleven-day travel is recap, corroborated by the dated Session 33 account, not eleven additional days played here. One completed overnight accounts for the YAML boundary. Spell durations, prior omens, planned trips and future crafting weeks do not extend this span."
+  }
+}

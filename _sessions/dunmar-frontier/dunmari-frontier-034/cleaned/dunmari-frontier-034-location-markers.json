@@ -1,0 +1,1179 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-034",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-session.yaml",
+    "sessionYamlSha256": "78a802ab3b1bcf1987d8ce63c60837d424a9bfc1c750028acd79708887f4ea31",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-transcript.md",
+    "transcriptSha256": "67cc5c7c0d532834e7710a63831f37413117d0b18657674e0a0c39c816383c13"
+  },
+  "places": {
+    "p01": {
+      "label": "Tokra",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0009",
+          "endUid": "u0018",
+          "quote": "DM: As the afternoon sun begins to sink towards the horizon, more than a week after leaving Karawa with all your worldly possessions and Garret Tealeaf, the halfling you had rescued from Agata, saying goodbye to Drikod on the road, as he turned north to his mountains, and traveling for 11 days across the plains, you've now finally arrived in Tokra, at the monastery of the Lakan Mystai that Kenzo called home for several years. Monastery itself is set on a hill a few miles south of Tokra along the river Hara, which is at this time of year slow and sluggish waiting for the rains to come.\n\nDM: A few hours ago you cross the bridge over the Hara to Tokra before turning south to the monastery. The city of Tokra itself is old, with many buildings dating from the earliest centuries of Dunmar, the country. Although it has been damaged and repaired many times since then. Much of the city is hidden behind the solid thick walls of stone. You could see as you pass three large buildings that dominate the skyline: the dome of a large temple that rises in the center of town, probably the main temple of the Five Siblings in Tokra."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    },
+    "p02": {
+      "label": "Lakan Monastery",
+      "kind": "monastery complex",
+      "evidence": [
+        {
+          "startUid": "u0009",
+          "endUid": "u0014",
+          "quote": "DM: As the afternoon sun begins to sink towards the horizon, more than a week after leaving Karawa with all your worldly possessions and Garret Tealeaf, the halfling you had rescued from Agata, saying goodbye to Drikod on the road, as he turned north to his mountains, and traveling for 11 days across the plains, you've now finally arrived in Tokra, at the monastery of the Lakan Mystai that Kenzo called home for several years. Monastery itself is set on a hill a few miles south of Tokra along the river Hara, which is at this time of year slow and sluggish waiting for the rains to come."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0009",
+              "endUid": "u0014",
+              "quote": "DM: As the afternoon sun begins to sink towards the horizon, more than a week after leaving Karawa with all your worldly possessions and Garret Tealeaf, the halfling you had rescued from Agata, saying goodbye to Drikod on the road, as he turned north to his mountains, and traveling for 11 days across the plains, you've now finally arrived in Tokra, at the monastery of the Lakan Mystai that Kenzo called home for several years. Monastery itself is set on a hill a few miles south of Tokra along the river Hara, which is at this time of year slow and sluggish waiting for the rains to come."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Outer courtyard",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u0035",
+          "endUid": "u0038",
+          "quote": "DM: The rest of you turned south to the monastery.\n\nDM: You rode up the hill approaching the monastery. Passing through the outer gates and reaching the large open courtyard that mark the entrance to the monastery proper: the stables and granary to right."
+        },
+        {
+          "startUid": "u0049",
+          "endUid": "u0051",
+          "quote": "DM: As you stand in the courtyard just past the outer gates of the monastery an old man approaches well over 80 but seemingly still quick on his feet wearing the plain white robes trimmed with blue of the Lakan monks. Balding weathered, wrinkled very wrinkled skin."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0035",
+              "endUid": "u0038",
+              "quote": "DM: The rest of you turned south to the monastery.\n\nDM: You rode up the hill approaching the monastery. Passing through the outer gates and reaching the large open courtyard that mark the entrance to the monastery proper: the stables and granary to right."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Red Lily Inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u0033",
+          "endUid": "u0034",
+          "quote": "DM: Camped on the plains, mostly to the north of the city, a small Dunmari army perhaps 500 strong, rows of tents and horses stretching out from the walls. As you pass the walls of the city, Wellby turned west with Garret, following the outer walls, the city to take him to the Red Lily halfling inn where Garret knows the owners Lily and Wes Strongbones."
+        },
+        {
+          "startUid": "u0349",
+          "endUid": "u0357",
+          "quote": "Wellby: I'm I'm with Garret at the inn it's so good to see halflings again after so long.\n\nKenzo: You made it.\n\nWellby: Here is the right size.\n\nKenzo: [garbled] like speakerphone [garbled]. [garbled].\n\nUnknown: Bradley.\n\nKenzo: You're out the Red Lily?\n\nUnknown: Indeed."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Red Lily Inn.md",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0033",
+              "endUid": "u0034",
+              "quote": "DM: Camped on the plains, mostly to the north of the city, a small Dunmari army perhaps 500 strong, rows of tents and horses stretching out from the walls. As you pass the walls of the city, Wellby turned west with Garret, following the outer walls, the city to take him to the Red Lily halfling inn where Garret knows the owners Lily and Wes Strongbones."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Monastery main building",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0039",
+          "endUid": "u0042",
+          "quote": "DM: Ahead of you beyond the the inner gates, you can see the monastery itself a large imposing building um made of white sandstone baking in the sun."
+        },
+        {
+          "startUid": "u0414",
+          "endUid": "u0421",
+          "quote": "DM: Okay, so he takes he takes you into the into the monastery itself. So, so as you as you pass through the inner gate, you stable your horses and and leave your cart and unload your gear and sort of carry it surreptitiously towards the monastery. As you pass the the the inner gate into the monastery you can see that there's a there's a walkway that circles, the monastery and there's a whole bunch of these sort of odd design shrines all around in a big big wide circle.\n\nDM: It's like like arches standing stones like you can see, you know stone altar. A—there's a spring that you can sort of see in the distance around the corner of the monastery just a whole bunch of these in a row in a circle around the monastery. And—and Rishi takes you into the monastery itself as a big temple. There's like the cloisters there's a garden in the middle of the cloisters. There's the—the archive at the monastery is—the monastery has its own significant library and then there's like the chapter house the dining room dormitories kitchens, storage. Does not—does not like private rooms, right? People just stay in dormitories."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0414",
+              "endUid": "u0421",
+              "quote": "DM: Okay, so he takes he takes you into the into the monastery itself. So, so as you as you pass through the inner gate, you stable your horses and and leave your cart and unload your gear and sort of carry it surreptitiously towards the monastery. As you pass the the the inner gate into the monastery you can see that there's a there's a walkway that circles, the monastery and there's a whole bunch of these sort of odd design shrines all around in a big big wide circle.\n\nDM: It's like like arches standing stones like you can see, you know stone altar. A—there's a spring that you can sort of see in the distance around the corner of the monastery just a whole bunch of these in a row in a circle around the monastery. And—and Rishi takes you into the monastery itself as a big temple. There's like the cloisters there's a garden in the middle of the cloisters. There's the—the archive at the monastery is—the monastery has its own significant library and then there's like the chapter house the dining room dormitories kitchens, storage. Does not—does not like private rooms, right? People just stay in dormitories."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Dormitory",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0480",
+          "endUid": "u0482",
+          "quote": "DM: You get settled in in in in the dormitory there's actually it's you know enough people are there still like monks around right like you're not alone, but you can you get sort of a corner to yourself, as this is happening Wellby arrives as you're getting settled you get a corner, that you can sort of set up as your little area. If you do ever want to sleep here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0418",
+              "endUid": "u0421",
+              "quote": "DM: It's like like arches standing stones like you can see, you know stone altar. A—there's a spring that you can sort of see in the distance around the corner of the monastery just a whole bunch of these in a row in a circle around the monastery. And—and Rishi takes you into the monastery itself as a big temple. There's like the cloisters there's a garden in the middle of the cloisters. There's the—the archive at the monastery is—the monastery has its own significant library and then there's like the chapter house the dining room dormitories kitchens, storage. Does not—does not like private rooms, right? People just stay in dormitories."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Dining room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0483",
+          "endUid": "u0495",
+          "quote": "DM: And you know between you know being shown around a little bit and catching Wellby up on what's happened and and getting your your loot stored that takes you just about to the dinner bell so you head to the dining.\n\nKenzo: Yeah.\n\nDelwath: Skip a little bit of that yes.\n\nDM: You there's a bunch of people that you recognize, I mean you know, everybody right Kenzo but a few potentially important people that you know at dinner. So, Johar your friend who works in the archives arrives and greets you and it's super happy to see you. 'Hey, welcome back!' I'm—ah, Kassi, she is the the Mystai, who is the sort of head of the of the library, the archive it's really a library at the at the monastery um so she has stayed and she rarely she basically only ever leaves the library, except for—for meals."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0418",
+              "endUid": "u0421",
+              "quote": "DM: It's like like arches standing stones like you can see, you know stone altar. A—there's a spring that you can sort of see in the distance around the corner of the monastery just a whole bunch of these in a row in a circle around the monastery. And—and Rishi takes you into the monastery itself as a big temple. There's like the cloisters there's a garden in the middle of the cloisters. There's the—the archive at the monastery is—the monastery has its own significant library and then there's like the chapter house the dining room dormitories kitchens, storage. Does not—does not like private rooms, right? People just stay in dormitories."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Cloisters",
+      "kind": "cloisters",
+      "evidence": [
+        {
+          "startUid": "u0695",
+          "endUid": "u0698",
+          "quote": "DM: So as dinner finishes up and you sort of clear help everybody clear up and get settled for the evening yeah Johar you know walks out with you to sit sit in the class a little place sit in the cloisters."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0418",
+              "endUid": "u0421",
+              "quote": "DM: It's like like arches standing stones like you can see, you know stone altar. A—there's a spring that you can sort of see in the distance around the corner of the monastery just a whole bunch of these in a row in a circle around the monastery. And—and Rishi takes you into the monastery itself as a big temple. There's like the cloisters there's a garden in the middle of the cloisters. There's the—the archive at the monastery is—the monastery has its own significant library and then there's like the chapter house the dining room dormitories kitchens, storage. Does not—does not like private rooms, right? People just stay in dormitories."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Basu’s workshop",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u0504",
+          "endUid": "u0506",
+          "quote": "DM: Yes, and Basu is the the sort of head caretaker of the workshop so in the back behind the monastery there's a series of workshops where they they construct these things."
+        },
+        {
+          "startUid": "u1008",
+          "endUid": "u1015",
+          "quote": "DM: Okay, so you wake up in the morning gather for breakfast at the at the monastery and prepared to head out towards that this is first thing after breakfast you're going to go talk to Basu. Yep okay. So so Basu, who is again very pleased that you showed up in the morning like he was a little uncertain, if you are serious about this he's puttering about this workshop it has these like um it's it's mostly like a leather working workshop. I like there's you know big pieces of leather that are stretched out but everything's in sort of disarray, and there's no finished product here at all, and he has been unable to construct anything for a while."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1096",
+              "endUid": "u1104",
+              "quote": "Seeker: What are we underneath? On in the like what would be up at the surface, where we are.\n\nDM: The monastery.\n\nSeeker: Yeah I mean like is there a particular part of the monastery that are under?\n\nDM: Um yeah I guess at the moment you'd be under sort of the workshop.\n\nSeeker: Just wondering where the elven ruins were relative to the rest of the story here it's here.\n\nDM: Fairly far underground at this point it descended quite steeply for the first 60 feet almost like a like maybe a 30 degree angle so you're you know 10s of feet underground."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Ancient elven ruins",
+      "kind": "underground workshop",
+      "evidence": [
+        {
+          "startUid": "u0569",
+          "endUid": "u0588",
+          "quote": "DM: So he he he looks at you, and then he does a double take when he realizes that you're an elf, and he sort of leans and he says, 'Um, you will understand.' So, and he explains the whole story is I'm not gonna like it just in time so he explains the whole story is basically that—um, so this, ah, this monastery is built on top of an ancient elven ruin um like millennia ago.\n\nKenzo: It's come out and said.\n\nDM: And there are and the elves had found some sort of weak place between planes and they had built a whole little like workshop and thing around this. And he's like very excited to see an elf, he's like it's you know someday you should go see it, but not right now, because nobody has tended to it and it's overgrown.\n\nDM: And he says he says normally, what we do take the materials that we're going to that we're going to work on and the energy kind of bubbles out of bubbles out from this other plane and we let them soak and then we can go back and and construct them, but it needs to be it needs to be cut back. There's some—it's almost like a like a vine that just keeps growing and growing and growing and growing, and if you don't cut it back it turns into—it strangles your crops.\n\nDM: Nobody takes me seriously about this, but it's going to be a much bigger problem than everybody thinks. There's probably strange who knows what down there now. It's been two months now, since any of this extraplanar energy was last harvested."
+        },
+        {
+          "startUid": "u1016",
+          "endUid": "u1021",
+          "quote": "DM: And he hands you three three vials like pretty good sized vials of of this sort of thick viscous clear oil. And explains to you that you know, so that it says the passage way that we carved goes down into this, the entrance to the old elven ruins and it's it's not that big you know if you just go straight you'll pass through some doors and there's like a little guardroom. There's living quarters to the left and dining quarters the right. If you continue straight ahead that's where the the portal is—weak point."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Elven Arborea Workshop.md",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0569",
+              "endUid": "u0575",
+              "quote": "DM: So he he he looks at you, and then he does a double take when he realizes that you're an elf, and he sort of leans and he says, 'Um, you will understand.' So, and he explains the whole story is I'm not gonna like it just in time so he explains the whole story is basically that—um, so this, ah, this monastery is built on top of an ancient elven ruin um like millennia ago."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Descending access corridor",
+      "kind": "corridor",
+      "evidence": [
+        {
+          "startUid": "u1043",
+          "endUid": "u1046",
+          "quote": "DM: The corridor that you are now in is pitch black and descends sharply for maybe 100 feet, so, Wellby and Kenzo you can't see anything at all, unless you're popping out your drift globes."
+        },
+        {
+          "startUid": "u1086",
+          "endUid": "u1104",
+          "quote": "DM: It's a narrow corridor going down about about eight feet tall four feet wide, this has been read this was constructed by the Dunmari, this is like your access point.\n\nDelwath: Go down.\n\nDM: So it descends sharply for about 100 maybe about 60 feet and then then like gradually like becomes a little bit more gradual.\n\nDM: Um and you, as it becomes a little bit more gradual it's like there's a dampness in the air and you start seeing like little like flecks of of like little like the way, like filaments roots of of fungi and things sort of creeping along the walls.\n\nSeeker: Like actively creeping?\n\nDM: No, just, just still but they're.\n\nUnknown: Going.\n\nSeeker: What are we underneath? On in the like what would be up at the surface, where we are.\n\nDM: The monastery.\n\nSeeker: Yeah I mean like is there a particular part of the monastery that are under?\n\nDM: Um yeah I guess at the moment you'd be under sort of the workshop.\n\nSeeker: Just wondering where the elven ruins were relative to the rest of the story here it's here.\n\nDM: Fairly far underground at this point it descended quite steeply for the first 60 feet almost like a like maybe a 30 degree angle so you're you know 10s of feet underground."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1016",
+              "endUid": "u1021",
+              "quote": "DM: And he hands you three three vials like pretty good sized vials of of this sort of thick viscous clear oil. And explains to you that you know, so that it says the passage way that we carved goes down into this, the entrance to the old elven ruins and it's it's not that big you know if you just go straight you'll pass through some doors and there's like a little guardroom. There's living quarters to the left and dining quarters the right. If you continue straight ahead that's where the the portal is—weak point."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1096",
+              "endUid": "u1104",
+              "quote": "Seeker: What are we underneath? On in the like what would be up at the surface, where we are.\n\nDM: The monastery.\n\nSeeker: Yeah I mean like is there a particular part of the monastery that are under?\n\nDM: Um yeah I guess at the moment you'd be under sort of the workshop.\n\nSeeker: Just wondering where the elven ruins were relative to the rest of the story here it's here.\n\nDM: Fairly far underground at this point it descended quite steeply for the first 60 feet almost like a like maybe a 30 degree angle so you're you know 10s of feet underground."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Pillared entrance hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1158",
+          "endUid": "u1172",
+          "quote": "DM: So he doesn't step into the room Delwath steps comes to the entrance where you can see the room in front of them and describes to everybody piled up behind him who can't see anything at the moment um.\n\nDelwath: But, but it does look like?\n\nDM: So yeah so let me say what you see I'm sorry I'm just pulling everybody out here, where is Wellby? So you see Delwath sees ahead of you um, what looks like what used to be some grand entrance hall. To your left up this way there's like a giant pile of rubble that seems to have been a cave in or a blocking of the entrance. There's a row of pillars five pillars and five pillars, so a total of 10 pillars running down the room. There are some water dripping around some of the pillars. These patches here, you can see them are there's like little sort of places where it looks like this the floor of the cavern is is wet um and then there's a couple of the pillars have this like bright yellow fungus growing on them and then all around there's the sort of patches of this of this bioluminescent fungus casting a dim light into everything.\n\nUnknown: The entire.\n\nDM: The entire area ground is damp and every now and then you hear a scurrying sound like something sort of skirting around along the ground. Growing up the walls there's also a bunch of like mushrooms and and fungi and the sort of pale green glow of this fungi reflects off these damp patches and off the pillars and you can see that the pillars have Elvish script winding up them in circles.\n\nDelwath: Okay.\n\nDM: But it is faint and seems to be you'd have to get closer that to them and a couple of the pillars are though there's like this yellow mold is growing all over them, so you can't read what's what's even though I'm on the writing there."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1016",
+              "endUid": "u1021",
+              "quote": "DM: And he hands you three three vials like pretty good sized vials of of this sort of thick viscous clear oil. And explains to you that you know, so that it says the passage way that we carved goes down into this, the entrance to the old elven ruins and it's it's not that big you know if you just go straight you'll pass through some doors and there's like a little guardroom. There's living quarters to the left and dining quarters the right. If you continue straight ahead that's where the the portal is—weak point."
+            },
+            {
+              "startUid": "u1118",
+              "endUid": "u1119",
+              "quote": "DM: So, as you as you descend you now come out. Into an entrance."
+            },
+            {
+              "startUid": "u1408",
+              "endUid": "u1413",
+              "quote": "DM: Okay, so what sorry where did you roll, Wellby 12 I mean, so the ones that the this is this is an ancient cavern what you can sort of senses, this was probably at one point, the entrance to some cave complex or some something that was hollowed out by the elves but probably not deep underground probably close to the surface, but at some point it collapsed and there's just these like rocks and stones sort of piled up um kind of blocking you're blocking the entrance here, which is now presumably um you know deep underground anyway.\n\nWellby: Would that have been the main entrance?\n\nDM: To this yeah that was probably the main entrance at some point."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Guardroom with red fungus",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1517",
+          "endUid": "u1528",
+          "quote": "DM: Ah, you see a corridor that extends about 15 feet and then opens up into a what looks like a sort of guardroom slash sort of just like meeting place in the in the hall. Beyond it there's another set of double doors that are closed. And there are, extending out from the right side of this room there's like these big sort of masses of—it doesn't exist—it's like sort of like almost like reddish like almost like a sea cucumber but on land like this sort of reddish sort of moldy fungus but it looks almost—well, it's hard, I mean it's until you touch it, but you guess like if he squeezed it would be sort of bouncy like it's not just slime.\n\nDelwath: And, whereas that that's at the end.\n\nDM: Of it so so the end of the corridor as a double door to the to the to the corridor goes 15 feet, it opens into a guard room or a or a room a chamber that's maybe 20 feet by 40 feet wider than it is long. On the right hand side of this room that these things are like oozing out a flow are coming out from the wall. On the left hand side of this room, there is a another door a single door and then on the far side of the room there is a double door."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1016",
+              "endUid": "u1021",
+              "quote": "DM: And he hands you three three vials like pretty good sized vials of of this sort of thick viscous clear oil. And explains to you that you know, so that it says the passage way that we carved goes down into this, the entrance to the old elven ruins and it's it's not that big you know if you just go straight you'll pass through some doors and there's like a little guardroom. There's living quarters to the left and dining quarters the right. If you continue straight ahead that's where the the portal is—weak point."
+            },
+            {
+              "startUid": "u1517",
+              "endUid": "u1528",
+              "quote": "DM: Ah, you see a corridor that extends about 15 feet and then opens up into a what looks like a sort of guardroom slash sort of just like meeting place in the in the hall. Beyond it there's another set of double doors that are closed. And there are, extending out from the right side of this room there's like these big sort of masses of—it doesn't exist—it's like sort of like almost like reddish like almost like a sea cucumber but on land like this sort of reddish sort of moldy fungus but it looks almost—well, it's hard, I mean it's until you touch it, but you guess like if he squeezed it would be sort of bouncy like it's not just slime.\n\nDelwath: And, whereas that that's at the end.\n\nDM: Of it so so the end of the corridor as a double door to the to the to the corridor goes 15 feet, it opens into a guard room or a or a room a chamber that's maybe 20 feet by 40 feet wider than it is long. On the right hand side of this room that these things are like oozing out a flow are coming out from the wall. On the left hand side of this room, there is a another door a single door and then on the far side of the room there is a double door."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Forked corridor beyond the guardroom",
+      "kind": "corridor",
+      "evidence": [
+        {
+          "startUid": "u1580",
+          "endUid": "u1583",
+          "quote": "DM: Okay ah so through this door is a corridor that goes one—that goes about 50 feet and opens into what you can just see the edges of a of a larger chamber."
+        },
+        {
+          "startUid": "u1791",
+          "endUid": "u1798",
+          "quote": "DM: Okay, so you do see down the corridor ahead of you, you see that the there's like it almost looks like the Court well, you can just barely see from the corner of your eye, that the that the corridor splits into as like a fork and like around this fork there's a like the walls are covered in this sort of glowing in this glowing fungus.\n\nDM: I shouldn't make this glow so, like the the corridor itself is kind of lit up by this this bioluminescent fungus here around this um this point. Okay, so go ahead."
+        },
+        {
+          "startUid": "u2363",
+          "endUid": "u2379",
+          "quote": "DM: So you're gonna take a short rest, just like in the corridor here?\n\nWellby: Whatever and orange slices.\n\nSeeker: Yep.\n\nUnknown: Yep.\n\nDM: Ah, so you like kind of like huddle against the side of the wall put out the lights and nothing will notice you.\n\nDM: Does anybody like keeping an eye out?\n\nDelwath: Yeah yes. We're not idiots.\n\nUnknown: Okay.\n\nSeeker: Wait so.\n\nDM: You have you get to have you may add let's see Wellby, somebody else make a perception check or a Wellby could roll with advantage?\n\nWellby: Okay. 17.\n\nDM: You don't see anything moving, but you hear like this sound chattering sound seems to get louder and then quieter and then louder again and actually you notice as you're kind of watching this that this corridor that goes off to the—down this way is—it looks like like the all the corridors you've been passing through are like very old like it's clearly been carved like smooth from the cave wall, but like in this very sort of Elvish style. This is just like somebody cut through the wall it's like much cruder a different architectural style that goes down this this corridor."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1016",
+              "endUid": "u1021",
+              "quote": "DM: And he hands you three three vials like pretty good sized vials of of this sort of thick viscous clear oil. And explains to you that you know, so that it says the passage way that we carved goes down into this, the entrance to the old elven ruins and it's it's not that big you know if you just go straight you'll pass through some doors and there's like a little guardroom. There's living quarters to the left and dining quarters the right. If you continue straight ahead that's where the the portal is—weak point."
+            },
+            {
+              "startUid": "u1580",
+              "endUid": "u1583",
+              "quote": "DM: Okay ah so through this door is a corridor that goes one—that goes about 50 feet and opens into what you can just see the edges of a of a larger chamber."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Large chamber around the weak point",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u2309",
+          "endUid": "u2312",
+          "quote": "DM: So this this corridor at this point, opens up into what seems like a large Chamber, and you can just see at the edge of your dark vision circle of pillars that seemed that seemed to be like forming forming a tight circle around something."
+        },
+        {
+          "startUid": "u2481",
+          "endUid": "u2489",
+          "quote": "DM: Okay. So you approach your approach this this from you can you can also see that, like the this in this room it's actually like the floor is covered with leaf litter and um and there's it's almost as if you are now in the sort of understory of some kind of ancient forest. You can hear now this sort of skittering sound around you.\n\nDM: Oh, I forgot I've got here we go there's like bits of sort of mushrooms and fungi sort of grow glowing on all the sides I'm nothing quite so big as, at least, that you can see, at the moment as big and put together as the thing you just fought before um but you know it's it's it's sort of just like little bits and and drips of things um and the floor and stuff I'm like the sort of stone just all the walls and the floors seem like they are, they are dirt somehow."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1016",
+              "endUid": "u1021",
+              "quote": "DM: And he hands you three three vials like pretty good sized vials of of this sort of thick viscous clear oil. And explains to you that you know, so that it says the passage way that we carved goes down into this, the entrance to the old elven ruins and it's it's not that big you know if you just go straight you'll pass through some doors and there's like a little guardroom. There's living quarters to the left and dining quarters the right. If you continue straight ahead that's where the the portal is—weak point."
+            },
+            {
+              "startUid": "u2309",
+              "endUid": "u2312",
+              "quote": "DM: So this this corridor at this point, opens up into what seems like a large Chamber, and you can just see at the edge of your dark vision circle of pillars that seemed that seemed to be like forming forming a tight circle around something."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Circle of pillars at the weak point",
+      "kind": "area",
+      "evidence": [
+        {
+          "startUid": "u2336",
+          "endUid": "u2349",
+          "quote": "DM: This the inside of this circle of pillars is there is this sort of faint greenish glow that is pulsing around them, and you can you can almost see like a flickering reflection image something of some of just like a it's almost like there's a there's a pool does a small pool that you're looking down which is like a distorted reflection of some like wild undergrowth that's just gone rampant: vines and—and molds and mushrooms, and like the detritus at the bottom of the forest rotting away. Curled up in a giant circle around that that pool is something. It's—it almost looks like a 20 foot long centipede but it's not a centipede. It's—it's soft. It's made of some—it almost looks slightly fuzzy but it has but it's in it's almost like it's like a slightly fuzzy tube that's inflated by water.\n\nSeeker: Legs?\n\nDM: But with legs.\n\nDM: And man, it has two, it has two large antenna and then like like little claws on all of its the bottom of all of the legs. So it's like a it's like a cross between a giant worm and a centipede that's curled up around this part of like tapping—it's completely still actually. I'm just kind of waiting it's antenna occasionally twitching like this."
+        },
+        {
+          "startUid": "u2786",
+          "endUid": "u2792",
+          "quote": "Delwath: You know, is there an obvious place to put the thing?\n\nDM: Um, so there is yes, so there's that this surface here this like almost sort of slightly reflection reflective but not actually reflective surface, you can see that there at one point, there was like a metal tripod set up with like four legs that connected in the middle and there's like a holder there. It's been knocked over by this creature.\n\nDM: You could honestly probably just set it on the ground or you could put the tripod thing back together.\n\nDM: But that would take a couple of rounds, at least."
+        },
+        {
+          "startUid": "u2972",
+          "endUid": "u2978",
+          "quote": "DM: You can't see anything directly through it. It's not a portal.\n\nDM: Right what it looks like is sort of a distorted mirror.\n\nUnknown: Um.\n\nDM: And the more energy is flowing through it, the the stronger the reflection is so when you first got here, it was you could see like this dense jungle undergrowth through it like a thick not like the not like a rain forest, but like a you know just life everywhere, I guess kind of like a rain forest were like a you know, like on the edge of a light where the tree had fallen down and there's like fungus growing everywhere and vines and like little under undergrowth plants like just life everywhere, but it all sort of like feeding on decay. But as the vials have filled with energy now the the stone floor of the cave has gone dull and now you can't see anything."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u2309",
+              "endUid": "u2312",
+              "quote": "DM: So this this corridor at this point, opens up into what seems like a large Chamber, and you can just see at the edge of your dark vision circle of pillars that seemed that seemed to be like forming forming a tight circle around something."
+            },
+            {
+              "startUid": "u2336",
+              "endUid": "u2344",
+              "quote": "DM: This the inside of this circle of pillars is there is this sort of faint greenish glow that is pulsing around them, and you can you can almost see like a flickering reflection image something of some of just like a it's almost like there's a there's a pool does a small pool that you're looking down which is like a distorted reflection of some like wild undergrowth that's just gone rampant: vines and—and molds and mushrooms, and like the detritus at the bottom of the forest rotting away. Curled up in a giant circle around that that pool is something. It's—it almost looks like a 20 foot long centipede but it's not a centipede. It's—it's soft. It's made of some—it almost looks slightly fuzzy but it has but it's in it's almost like it's like a slightly fuzzy tube that's inflated by water."
+            }
+          ]
+        }
+      ],
+      "note": "The glowing reflection is an extraplanar weak point, not a traversable portal; u2972–u2978 explicitly distinguishes the two."
+    },
+    "p17": {
+      "label": "Surface above the ruins",
+      "kind": "surface",
+      "evidence": [
+        {
+          "startUid": "u2994",
+          "endUid": "u2995",
+          "quote": "DM: So we'll say, well, you've returned to the surface. Okay, and we'll pick up next time you know as you get back, and if you want to venture back down you're certainly welcome to."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2982",
+              "endUid": "u2995",
+              "quote": "DM: So, as you leave the portal room why don't we do you want to I think it's 1230. I think we should probably stop.\n\nDelwath: Yeah I was gonna say I need.\n\nKenzo: To stop.\n\nDM: So a good place to pick up would probably be I mean I don't know if you want to explore anything more in these caves before you return to the surface?\n\nDelwath: I think we should go back to the surface, it seems worth coming back to these caves at some point I kind of want to but I think there.\n\nSeeker: Were. No.\n\nKenzo: I mean yeah but but also kind of like like our thing is side quests, so we should probably just go deeper into these caves.\n\nSeeker: Sometimes the side quests have side quests. That's how we do it.\n\nDM: So we'll say, well, you've returned to the surface. Okay, and we'll pick up next time you know as you get back, and if you want to venture back down you're certainly welcome to."
+            }
+          ]
+        }
+      ],
+      "note": "The closing transition establishes return to the surface but does not name an exact outdoor stopping point."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0033",
+        "endUid": "u0038"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The three companions turn south from Tokra, ride uphill through the monastery’s outer gates and reach its courtyard.",
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Turn south, ride uphill and pass the outer gates."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0033",
+          "endUid": "u0038",
+          "quote": "DM: Camped on the plains, mostly to the north of the city, a small Dunmari army perhaps 500 strong, rows of tents and horses stretching out from the walls. As you pass the walls of the city, Wellby turned west with Garret, following the outer walls, the city to take him to the Red Lily halfling inn where Garret knows the owners Lily and Wes Strongbones.\n\nDM: The rest of you turned south to the monastery.\n\nDM: You rode up the hill approaching the monastery. Passing through the outer gates and reaching the large open courtyard that mark the entrance to the monastery proper: the stables and granary to right."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0033",
+        "endUid": "u0034"
+      },
+      "actors": [
+        "Wellby",
+        "Garret"
+      ],
+      "reading": "Wellby takes Garret along the city’s outer walls to the Red Lily; his later message confirms they are at the inn.",
+      "from": "p01",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Follow the outer walls west; Wellby leads Baxter while Garret walks."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0033",
+          "endUid": "u0034",
+          "quote": "DM: Camped on the plains, mostly to the north of the city, a small Dunmari army perhaps 500 strong, rows of tents and horses stretching out from the walls. As you pass the walls of the city, Wellby turned west with Garret, following the outer walls, the city to take him to the Red Lily halfling inn where Garret knows the owners Lily and Wes Strongbones."
+        },
+        {
+          "startUid": "u0127",
+          "endUid": "u0138",
+          "quote": "Seeker: Well Baxter Baxter's with them, right?\n\nWellby: Which is probably a little unusual probably a little unusual in a city.\n\nDM: Yeah.\n\nSeeker: Definitely unusual Baxter, I mean.\n\nWellby: I put a sign on him that says, “I am a working animal.” “Please do not pet.”\n\nSeeker: Any problems like steals people's lunch, as he walks past.\n\nWellby: He's pretty bad like I think he's a very nice axe beak but he's very like bad ass looking and he's got his own armor now and all his gear, so I think people probably give him a wide berth.\n\nSeeker: Yeah reason.\n\nKenzo: Are you riding him throughout town, because you guys you're like riding them as you go like slowly walking with them, or you like beside him?\n\nWellby: Garret's on foot so I'm probably on foot to leading him."
+        },
+        {
+          "startUid": "u0349",
+          "endUid": "u0357",
+          "quote": "Wellby: I'm I'm with Garret at the inn it's so good to see halflings again after so long.\n\nKenzo: You made it.\n\nWellby: Here is the right size.\n\nKenzo: [garbled] like speakerphone [garbled]. [garbled].\n\nUnknown: Bradley.\n\nKenzo: You're out the Red Lily?\n\nUnknown: Indeed."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0412",
+        "endUid": "u0412"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby rides out to join dinner at the monastery and arrives while the others settle in the dormitory.",
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "ride",
+      "note": "The ride is to the monastery; arrival is narrated in the dormitory scene without implying that he rides indoors.",
+      "evidence": [
+        {
+          "startUid": "u0412",
+          "endUid": "u0412",
+          "quote": "DM: So Wellby, because you're gonna stay for dinner Wellby is riding up, riding out for dinner."
+        },
+        {
+          "startUid": "u0480",
+          "endUid": "u0482",
+          "quote": "DM: You get settled in in in in the dormitory there's actually it's you know enough people are there still like monks around right like you're not alone, but you can you get sort of a corner to yourself, as this is happening Wellby arrives as you're getting settled you get a corner, that you can sort of set up as your little area. If you do ever want to sleep here."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0414",
+        "endUid": "u0421"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Rishi"
+      ],
+      "reading": "Rishi leads the three through the inner gates into the main building, with horses stabled and gear unloaded on the way.",
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Stable the horses and leave the cart before carrying the gear through the inner gate."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0414",
+          "endUid": "u0421",
+          "quote": "DM: Okay, so he takes he takes you into the into the monastery itself. So, so as you as you pass through the inner gate, you stable your horses and and leave your cart and unload your gear and sort of carry it surreptitiously towards the monastery. As you pass the the the inner gate into the monastery you can see that there's a there's a walkway that circles, the monastery and there's a whole bunch of these sort of odd design shrines all around in a big big wide circle.\n\nDM: It's like like arches standing stones like you can see, you know stone altar. A—there's a spring that you can sort of see in the distance around the corner of the monastery just a whole bunch of these in a row in a circle around the monastery. And—and Rishi takes you into the monastery itself as a big temple. There's like the cloisters there's a garden in the middle of the cloisters. There's the—the archive at the monastery is—the monastery has its own significant library and then there's like the chapter house the dining room dormitories kitchens, storage. Does not—does not like private rooms, right? People just stay in dormitories."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0480",
+        "endUid": "u0482"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The companions settle into a corner of the communal dormitory; Wellby rejoins them there.",
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0480",
+          "endUid": "u0482",
+          "quote": "DM: You get settled in in in in the dormitory there's actually it's you know enough people are there still like monks around right like you're not alone, but you can you get sort of a corner to yourself, as this is happening Wellby arrives as you're getting settled you get a corner, that you can sort of set up as your little area. If you do ever want to sleep here."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0483",
+        "endUid": "u0495"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "At the dinner bell the reunited party goes to the dining room and greets Johar, Kassi and the other monks.",
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0483",
+          "endUid": "u0495",
+          "quote": "DM: And you know between you know being shown around a little bit and catching Wellby up on what's happened and and getting your your loot stored that takes you just about to the dinner bell so you head to the dining.\n\nKenzo: Yeah.\n\nDelwath: Skip a little bit of that yes.\n\nDM: You there's a bunch of people that you recognize, I mean you know, everybody right Kenzo but a few potentially important people that you know at dinner. So, Johar your friend who works in the archives arrives and greets you and it's super happy to see you. 'Hey, welcome back!' I'm—ah, Kassi, she is the the Mystai, who is the sort of head of the of the library, the archive it's really a library at the at the monastery um so she has stayed and she rarely she basically only ever leaves the library, except for—for meals."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0695",
+        "endUid": "u0698"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "After dinner Johar walks out with the party to sit in the cloisters.",
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0695",
+          "endUid": "u0698",
+          "quote": "DM: So as dinner finishes up and you sort of clear help everybody clear up and get settled for the evening yeah Johar you know walks out with you to sit sit in the class a little place sit in the cloisters."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u0949",
+        "endUid": "u0949"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party goes to bed at its monastery lodging; the established dormitory is the supported sleeping location.",
+      "place": "p06",
+      "evidence": [
+        {
+          "startUid": "u0480",
+          "endUid": "u0482",
+          "quote": "DM: You get settled in in in in the dormitory there's actually it's you know enough people are there still like monks around right like you're not alone, but you can you get sort of a corner to yourself, as this is happening Wellby arrives as you're getting settled you get a corner, that you can sort of set up as your little area. If you do ever want to sleep here."
+        },
+        {
+          "startUid": "u0949",
+          "endUid": "u0949",
+          "quote": "DM: They all go to bed."
+        },
+        {
+          "startUid": "u1008",
+          "endUid": "u1015",
+          "quote": "DM: Okay, so you wake up in the morning gather for breakfast at the at the monastery and prepared to head out towards that this is first thing after breakfast you're going to go talk to Basu. Yep okay. So so Basu, who is again very pleased that you showed up in the morning like he was a little uncertain, if you are serious about this he's puttering about this workshop it has these like um it's it's mostly like a leather working workshop. I like there's you know big pieces of leather that are stretched out but everything's in sort of disarray, and there's no finished product here at all, and he has been unable to construct anything for a while."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1008",
+        "endUid": "u1015"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After waking and breakfast the party visits Basu in his workshop.",
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Breakfast at the monastery before visiting the workshop."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1008",
+          "endUid": "u1015",
+          "quote": "DM: Okay, so you wake up in the morning gather for breakfast at the at the monastery and prepared to head out towards that this is first thing after breakfast you're going to go talk to Basu. Yep okay. So so Basu, who is again very pleased that you showed up in the morning like he was a little uncertain, if you are serious about this he's puttering about this workshop it has these like um it's it's mostly like a leather working workshop. I like there's you know big pieces of leather that are stretched out but everything's in sort of disarray, and there's no finished product here at all, and he has been unable to construct anything for a while."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1034",
+        "endUid": "u1046"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Basu leads the party downhill behind the workshop and through the barred metal door into the dark descending corridor.",
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Descend a little behind the workshop, then pass the double metal door; Basu bars it behind the party."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1034",
+          "endUid": "u1046",
+          "quote": "DM: So he takes you to sort of back behind the workshop that so that the monastery is set on a hill and he takes you down a little bit and there's this there's like a large metal door now large double metal door plain functional relatively new probably replaced like 30 years ago, or something which is just like there's a huge bar that's just locking them shut.\n\nDM: And he lifts the bar up and he says, “Just, just knock when you want to get out.” Pushes you all inside and you hear the bar slam down behind.\n\nSeeker: Oh geez.\n\nKenzo: [garbled].\n\nDM: The corridor that you are now in is pitch black and descends sharply for maybe 100 feet, so, Wellby and Kenzo you can't see anything at all, unless you're popping out your drift globes."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u1118",
+        "endUid": "u1172"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "At the corridor’s end, Delwath sees the ruined pillared hall from its threshold; the DM corrects the initial statement that he stepped into it.",
+      "place": "p12",
+      "mode": "local",
+      "observerPlace": "p11",
+      "evidence": [
+        {
+          "startUid": "u1118",
+          "endUid": "u1119",
+          "quote": "DM: So, as you as you descend you now come out. Into an entrance."
+        },
+        {
+          "startUid": "u1155",
+          "endUid": "u1172",
+          "quote": "DM: So steps into the room.\n\nDelwath: Well okay.\n\nDM: So he doesn't step into the room Delwath steps comes to the entrance where you can see the room in front of them and describes to everybody piled up behind him who can't see anything at the moment um.\n\nDelwath: But, but it does look like?\n\nDM: So yeah so let me say what you see I'm sorry I'm just pulling everybody out here, where is Wellby? So you see Delwath sees ahead of you um, what looks like what used to be some grand entrance hall. To your left up this way there's like a giant pile of rubble that seems to have been a cave in or a blocking of the entrance. There's a row of pillars five pillars and five pillars, so a total of 10 pillars running down the room. There are some water dripping around some of the pillars. These patches here, you can see them are there's like little sort of places where it looks like this the floor of the cavern is is wet um and then there's a couple of the pillars have this like bright yellow fungus growing on them and then all around there's the sort of patches of this of this bioluminescent fungus casting a dim light into everything.\n\nUnknown: The entire.\n\nDM: The entire area ground is damp and every now and then you hear a scurrying sound like something sort of skirting around along the ground. Growing up the walls there's also a bunch of like mushrooms and and fungi and the sort of pale green glow of this fungi reflects off these damp patches and off the pillars and you can see that the pillars have Elvish script winding up them in circles.\n\nDelwath: Okay.\n\nDM: But it is faint and seems to be you'd have to get closer that to them and a couple of the pillars are though there's like this yellow mold is growing all over them, so you can't read what's what's even though I'm on the writing there."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1203",
+        "endUid": "u1220"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Delwath approaches the inscribed pillars and the others proceed cautiously into the entrance hall.",
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1203",
+          "endUid": "u1205",
+          "quote": "Delwath: Totally unrelated. And then I will cautiously walk towards one of the pillars here, keeping an eye out for anything moving but I'd like to see what the writing says.\n\nDM: What's everybody else doing?"
+        },
+        {
+          "startUid": "u1217",
+          "endUid": "u1220",
+          "quote": "DM: So Kenzo Seeker, Wellby, what are you all doing?\n\nSeeker: Proceeding cautiously.\n\nKenzo: Yeah like staff out."
+        },
+        {
+          "startUid": "u1316",
+          "endUid": "u1329",
+          "quote": "DM: Um. Well Seeker and Delwath are exploring here are Wellby and Kenzo you're just hanging out, are you doing anything?\n\nKenzo: I'm sensing the aura of the living things here I'm trying to yeah it's [garbled] and any do I notice anything like strange or or you know.\n\nDM: Make a perception check. So you notice you don't you still are hearing the sounds of these things have like something sort of you know scurrying around and you don't notice any—you don't see anything but you do get this sort of vague sense of almost as if almost like an unnatural sense like that the aura of whatever is here is not quite right.\n\nDM: But you can't really figure out exactly how, or what the issue is."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1513",
+        "endUid": "u1531"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Ghostly Gaze reveals a short passage and the red-fungus guardroom through the still-closed doors.",
+      "place": "p13",
+      "mode": "remote",
+      "observerPlace": "p12",
+      "evidence": [
+        {
+          "startUid": "u1513",
+          "endUid": "u1531",
+          "quote": "Delwath: Why not I'm going to do this because it's fun. Delwath will sort of hold up his hands and you see his eyes, like kind of turn White for a moment. Tim what's, on the other side of the door?\n\nDM: Ah, you see a corridor that extends about 15 feet and then opens up into a what looks like a sort of guardroom slash sort of just like meeting place in the in the hall. Beyond it there's another set of double doors that are closed. And there are, extending out from the right side of this room there's like these big sort of masses of—it doesn't exist—it's like sort of like almost like reddish like almost like a sea cucumber but on land like this sort of reddish sort of moldy fungus but it looks almost—well, it's hard, I mean it's until you touch it, but you guess like if he squeezed it would be sort of bouncy like it's not just slime.\n\nDelwath: And, whereas that that's at the end.\n\nDM: Of it so so the end of the corridor as a double door to the to the to the corridor goes 15 feet, it opens into a guard room or a or a room a chamber that's maybe 20 feet by 40 feet wider than it is long. On the right hand side of this room that these things are like oozing out a flow are coming out from the wall. On the left hand side of this room, there is a another door a single door and then on the far side of the room there is a double door.\n\nDelwath: What's to the double door your darkvision's only 60, 30 feet yeah isn't there 10 more feet?\n\nDM: Or die yeah sorry 10 more feet of corridor, on the other side of the door."
+        },
+        {
+          "startUid": "u1551",
+          "endUid": "u1557",
+          "quote": "DM: Ah yeah because yes for you, because you're like outside only Delwath can see into the actual yeah only Delwath can see into that through the doors. Here we go. Okay. Who's opening the door?"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1560",
+        "endUid": "u1565"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The doors open and the party enters the guardroom, trying to skirt the red fungus.",
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Cross the short passage beyond the entrance-hall doors."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1549",
+          "endUid": "u1549",
+          "quote": "Delwath: Just try and go around this way and avoid the red stuff if we can."
+        },
+        {
+          "startUid": "u1551",
+          "endUid": "u1565",
+          "quote": "DM: Ah yeah because yes for you, because you're like outside only Delwath can see into the actual yeah only Delwath can see into that through the doors. Here we go. Okay. Who's opening the door?\n\nDelwath: Lol.\n\nDM: Okay.\n\nDelwath: Try and stand at the shadows over on this side.\n\nDM: So the doors are open. So you're all here drift globes are floating next you. So, moving through here to Where are you heading?"
+        },
+        {
+          "startUid": "u1587",
+          "endUid": "u1603",
+          "quote": "DM: Ah let's see I'm still waiting, oh wait so, as you enter this room you're all so so from Delwath's description, it seemed like the like this, this red fungus was bad. Um but uh but now, when you enter this room, it seems like really interesting and almost like.\n\nKenzo: I don't.\n\nDM: Know you could you could help it somehow.\n\nKenzo: Kinda like my master that I want to obey whatever it says?\n\nDM: No, you don't it's just it's just you know you're just sort of curious and non-threatened by it and you sort of want to like explore it and see what it does, try and see if it needs anything that you can help it with."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u1580",
+        "endUid": "u1583"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Through the next door, Delwath’s continuing Ghostly Gaze sees a corridor and the edge of a larger chamber.",
+      "place": "p15",
+      "mode": "remote",
+      "observerPlace": "p13",
+      "note": "The view reaches only the chamber edge; it does not establish entry or a view of the worm.",
+      "evidence": [
+        {
+          "startUid": "u1566",
+          "endUid": "u1568",
+          "quote": "Delwath: Out what's through that door it lasts for a minute?\n\nUnknown: Okay.\n\nDM: Now, can you see?"
+        },
+        {
+          "startUid": "u1580",
+          "endUid": "u1583",
+          "quote": "DM: Okay ah so through this door is a corridor that goes one—that goes about 50 feet and opens into what you can just see the edges of a of a larger chamber."
+        },
+        {
+          "startUid": "u1643",
+          "endUid": "u1643",
+          "quote": "Delwath: I think we should see I caught a glimpse before my Ghostly Eye faded of some green glowing interesting thing down through this door, I think we should go check that out instead."
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1722",
+        "endUid": "u1724"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Kenzo heads down the hall and Delwath follows, reaching the glowing fork while the others remain with the fungus.",
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1722",
+          "endUid": "u1724",
+          "quote": "Kenzo: Alright, so starts headed down the hallway.\n\nDM: Okay ah.\n\nKenzo: Is Delwath with them?"
+        },
+        {
+          "startUid": "u1784",
+          "endUid": "u1798",
+          "quote": "Delwath: I'll follow Kenzo down the corridor.\n\nKenzo: Are you going to the doors?\n\nDelwath: Right now.\n\nKenzo: Yeah Well, this is where you told me to go where the.\n\nDelwath: Doors.\n\nWellby: If it kills me I'll give you a shout or something.\n\nKenzo: Yeah we got the stones to.\n\nDM: Okay, so you do see down the corridor ahead of you, you see that the there's like it almost looks like the Court well, you can just barely see from the corner of your eye, that the that the corridor splits into as like a fork and like around this fork there's a like the walls are covered in this sort of glowing in this glowing fungus.\n\nDM: I shouldn't make this glow so, like the the corridor itself is kind of lit up by this this bioluminescent fungus here around this um this point. Okay, so go ahead."
+        },
+        {
+          "startUid": "u1822",
+          "endUid": "u1827",
+          "quote": "Kenzo: I'll wait for you. As well just wait.\n\nDelwath: Yeah same.\n\nDM: Okay.\n\nKenzo: We're down the hallway little ways right like we kind of walk down the hallways away?\n\nDelwath: Yeah yeah."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1852",
+        "endUid": "u1855"
+      },
+      "actors": [
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Wellby disengages and leaves the fungus; the DM confirms everyone is now heading down the hall, reuniting the party before the slime ambush.",
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1741",
+          "endUid": "u1749",
+          "quote": "Seeker: Right. There's nothing metal on or near it and not much use in shrinking it in size. Thinking about performance of creation it has to be in an unoccupied space within 10 feet? So I could make just like a bonfire to burn it with but it's enough to I'm just going to like step around it I'm gonna like creep around the edges of the room to try to get you know I'm saying right yeah over here. Just staying out of range."
+        },
+        {
+          "startUid": "u1852",
+          "endUid": "u1855",
+          "quote": "Wellby: Know I'll disengage as a bonus action and drop my torch and {{another book}} in front of it and sort of an effort to contain it a little bit, head down the hall.\n\nUnknown: Okay.\n\nDM: Remember, to move your drift globes folks. Okay, so you're all heading down the hall."
+        },
+        {
+          "startUid": "u1864",
+          "endUid": "u1873",
+          "quote": "DM: And the green one is yours. The other one is. Okay, so as you head down the hall.\n\nWellby: So I just want to pause for silly kids are doing for once a giant red mold in a dungeon be your friend. Just.\n\nDM: Just as Wellby is that a giant slime mold drops off the wall on Delwath."
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u2333",
+        "endUid": "u2349"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance reveals the green reflection and giant worm within the ring of pillars; Seeker remains in the corridor.",
+      "place": "p16",
+      "mode": "remote",
+      "observerPlace": "p14",
+      "evidence": [
+        {
+          "startUid": "u2309",
+          "endUid": "u2312",
+          "quote": "DM: So this this corridor at this point, opens up into what seems like a large Chamber, and you can just see at the edge of your dark vision circle of pillars that seemed that seemed to be like forming forming a tight circle around something."
+        },
+        {
+          "startUid": "u2318",
+          "endUid": "u2321",
+          "quote": "Seeker: I can I can use I can use like a cast invisibility to I can use Clairvoyance to see inside of the pillars."
+        },
+        {
+          "startUid": "u2329",
+          "endUid": "u2349",
+          "quote": "DM: I thought aware at your casting Clairvoyance in the middle of the pillars, the pillars.\n\nKenzo: Yeah Oh, I did pillows we can take a short rest there that's perfect.\n\nUnknown: I'm not.\n\nSeeker: Cast.\n\nUnknown: Clairvoyance.\n\nDM: Okay, so you see.\n\nDM: This the inside of this circle of pillars is there is this sort of faint greenish glow that is pulsing around them, and you can you can almost see like a flickering reflection image something of some of just like a it's almost like there's a there's a pool does a small pool that you're looking down which is like a distorted reflection of some like wild undergrowth that's just gone rampant: vines and—and molds and mushrooms, and like the detritus at the bottom of the forest rotting away. Curled up in a giant circle around that that pool is something. It's—it almost looks like a 20 foot long centipede but it's not a centipede. It's—it's soft. It's made of some—it almost looks slightly fuzzy but it has but it's in it's almost like it's like a slightly fuzzy tube that's inflated by water.\n\nSeeker: Legs?\n\nDM: But with legs.\n\nDM: And man, it has two, it has two large antenna and then like like little claws on all of its the bottom of all of the legs. So it's like a it's like a cross between a giant worm and a centipede that's curled up around this part of like tapping—it's completely still actually. I'm just kind of waiting it's antenna occasionally twitching like this."
+        },
+        {
+          "startUid": "u2363",
+          "endUid": "u2367",
+          "quote": "DM: So you're gonna take a short rest, just like in the corridor here?\n\nWellby: Whatever and orange slices.\n\nSeeker: Yep.\n\nUnknown: Yep.\n\nDM: Ah, so you like kind of like huddle against the side of the wall put out the lights and nothing will notice you."
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "presence",
+      "source": {
+        "startUid": "u2363",
+        "endUid": "u2381"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party huddles against the corridor wall for a short rest and watches a newly noticed crude side passage without entering it.",
+      "place": "p14",
+      "evidence": [
+        {
+          "startUid": "u2363",
+          "endUid": "u2381",
+          "quote": "DM: So you're gonna take a short rest, just like in the corridor here?\n\nWellby: Whatever and orange slices.\n\nSeeker: Yep.\n\nUnknown: Yep.\n\nDM: Ah, so you like kind of like huddle against the side of the wall put out the lights and nothing will notice you.\n\nDM: Does anybody like keeping an eye out?\n\nDelwath: Yeah yes. We're not idiots.\n\nUnknown: Okay.\n\nSeeker: Wait so.\n\nDM: You have you get to have you may add let's see Wellby, somebody else make a perception check or a Wellby could roll with advantage?\n\nWellby: Okay. 17.\n\nDM: You don't see anything moving, but you hear like this sound chattering sound seems to get louder and then quieter and then louder again and actually you notice as you're kind of watching this that this corridor that goes off to the—down this way is—it looks like like the all the corridors you've been passing through are like very old like it's clearly been carved like smooth from the cave wall, but like in this very sort of Elvish style. This is just like somebody cut through the wall it's like much cruder a different architectural style that goes down this this corridor.\n\nSeeker: To your left there.\n\nDM: Yeah but you don't during the hour that everybody rests you do hear some noises but you don't see anything coming."
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2481",
+        "endUid": "u2489"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party advances into the leaf-littered chamber around the pillars in initiative order.",
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u2481",
+          "endUid": "u2489",
+          "quote": "DM: Okay. So you approach your approach this this from you can you can also see that, like the this in this room it's actually like the floor is covered with leaf litter and um and there's it's almost as if you are now in the sort of understory of some kind of ancient forest. You can hear now this sort of skittering sound around you.\n\nDM: Oh, I forgot I've got here we go there's like bits of sort of mushrooms and fungi sort of grow glowing on all the sides I'm nothing quite so big as, at least, that you can see, at the moment as big and put together as the thing you just fought before um but you know it's it's it's sort of just like little bits and and drips of things um and the floor and stuff I'm like the sort of stone just all the walls and the floors seem like they are, they are dirt somehow."
+        },
+        {
+          "startUid": "u2504",
+          "endUid": "u2517",
+          "quote": "DM: So Delwath you approach the cave first.\n\nDelwath: I'm going to move three or.\n\nUnknown: Six.\n\nDelwath: And can I—can see into that right?\n\nSeeker: What direction is that are the pillars?\n\nDM: That def is like rotate I mean I couldn't I was trying to make do with maps that I could find out the Internet so it's not quite to the right proportion imagine now we've spotted so what was previously down is now up.\n\nSeeker: Is now up okay.\n\nDM: So, like that this is the corridor, that you are just proceeding down into.\n\nDelwath: I mean that pillars Delwath can see the pillars, can I see.\n\nDM: Here the pillars."
+        },
+        {
+          "startUid": "u2554",
+          "endUid": "u2576",
+          "quote": "Kenzo: So can I see it?\n\nDM: I.\n\nKenzo: Know what they told us exactly where it is?\n\nDM: You can use it, I mean you cannot, you can see the pillars it's dark but no, you can't see you cannot see where it is at the moment.\n\nKenzo: And move the drift Globe over.\n\nDM: Yep.\n\nKenzo: Oh here the pillars, I see.\n\nUnknown: Yeah.\n\nKenzo: Yeah I mean I'm trying to Soul Sight it that's my main objective right now to uncover its wildly weaknesses, but I can't seem to do that, yet the least did right.\n\nDM: At the moment no you it's it's obscured by the pillars and well what's your passive perception?\n\nKenzo: I mean it's an awesome—I don't know what that is.\n\nDelwath: Called I forgot to roll from my Blink.\n\nDM: It's 13 you did not see it.\n\nDM: Ah. Are you gonna do anything with your action?\n\nKenzo: Is there anything else, I can do that's the spring up.\n\nDelwath: Should ready an action to hit it if it, if anything, comes within—stand next to Delwath ready an action to to attack with your full attack on anything that comes within reach.\n\nKenzo: Right, I will ready some unarmed blows.\n\nDM: Okay, you can also always dodge which gives enemies disadvantage.\n\nKenzo: Their attacks against you I'll do that I'll do that I'll get ready to dodge."
+        },
+        {
+          "startUid": "u2595",
+          "endUid": "u2597",
+          "quote": "Seeker: It's my move again 25 so I can go 1234 I can go up behind Delwath here okay so as my line of sight obscured in such a way that supposing we had a mirror that we could move to a certain spot I could see it using that.\n\nDM: Ah, well, right now, you can see that these pillars, you know from Delwath yelling out that there's that is behind the pillars, but you can't see it.\n\nSeeker: Right and I know the geometry of the location having looked at it before with Clairvoyance yeah."
+        },
+        {
+          "startUid": "u2617",
+          "endUid": "u2622",
+          "quote": "DM: Okay Wellby you're up.\n\nWellby: 3450 Lucy can I see it, or any part of it through the pillars.\n\nUnknown: Ah.\n\nDM: You saw you let's see yes, you can it is, it is heavily obscured—I mean it is behind three quarters cover alright you're like tossing your drift globe up here."
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2778",
+        "endUid": "u2782"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "While the worm feeds on the fly, Delwath moves inside the circle of pillars and sees the fallen stand at the weak point.",
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u2778",
+          "endUid": "u2792",
+          "quote": "Delwath: I think I'm just gonna go inside the pillars.\n\nKenzo: Eric I like that move for you.\n\nUnknown: That takes off.\n\nDM: Yeah.\n\nDelwath: I'm then I am going to.\n\nKenzo: Take one of the things and put it on the fucking pillar on the.\n\nDelwath: You know, is there an obvious place to put the thing?\n\nDM: Um, so there is yes, so there's that this surface here this like almost sort of slightly reflection reflective but not actually reflective surface, you can see that there at one point, there was like a metal tripod set up with like four legs that connected in the middle and there's like a holder there. It's been knocked over by this creature.\n\nDM: You could honestly probably just set it on the ground or you could put the tripod thing back together.\n\nDM: But that would take a couple of rounds, at least."
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "presence",
+      "source": {
+        "startUid": "u2907",
+        "endUid": "u2911"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Kenzo rebuilds the stand and sets out the vials at the weak point while Seeker watches the transformed worm.",
+      "place": "p16",
+      "evidence": [
+        {
+          "startUid": "u2907",
+          "endUid": "u2911",
+          "quote": "DM: So there this giant worm is now a tiny worm.\n\nKenzo: Yep yes we rebuild a little tripod and put the fucking vials here.\n\nDM: Okay.\n\nSeeker: We'll keep an eye on the on the tiny one."
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2982",
+        "endUid": "u2995"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the weak-point chamber and the DM explicitly confirms its return to the surface.",
+      "from": "p15",
+      "to": "p17",
+      "completion": "arrived",
+      "note": "No additional cave exploration occurs before the accepted return.",
+      "evidence": [
+        {
+          "startUid": "u2982",
+          "endUid": "u2995",
+          "quote": "DM: So, as you leave the portal room why don't we do you want to I think it's 1230. I think we should probably stop.\n\nDelwath: Yeah I was gonna say I need.\n\nKenzo: To stop.\n\nDM: So a good place to pick up would probably be I mean I don't know if you want to explore anything more in these caves before you return to the surface?\n\nDelwath: I think we should go back to the surface, it seems worth coming back to these caves at some point I kind of want to but I think there.\n\nSeeker: Were. No.\n\nKenzo: I mean yeah but but also kind of like like our thing is side quests, so we should probably just go deeper into these caves.\n\nSeeker: Sometimes the side quests have side quests. That's how we do it.\n\nDM: So we'll say, well, you've returned to the surface. Okay, and we'll pick up next time you know as you get back, and if you want to venture back down you're certainly welcome to."
+        }
+      ]
+    }
+  ]
+}

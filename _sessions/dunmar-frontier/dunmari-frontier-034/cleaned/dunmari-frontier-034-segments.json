@@ -1,0 +1,160 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-034",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-session.yaml",
+    "sessionYamlSha256": "78a802ab3b1bcf1987d8ce63c60837d424a9bfc1c750028acd79708887f4ea31",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-transcript.md",
+    "transcriptSha256": "67cc5c7c0d532834e7710a63831f37413117d0b18657674e0a0c39c816383c13"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0008"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0009",
+        "endUid": "u0959"
+      },
+      "category": "gameplay",
+      "note": "Opening recap shares its turn with the current monastery arrival and afternoon anchor; classify the mixed turn as gameplay."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0960",
+        "endUid": "u1007"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1008",
+        "endUid": "u1046"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1047",
+        "endUid": "u1060"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1061",
+        "endUid": "u1124"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1125",
+        "endUid": "u1154"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1155",
+        "endUid": "u1535"
+      },
+      "category": "gameplay",
+      "note": "The brief gray-ooze exchange has no initiative roll or repeated ordered turn cycle; it remains gameplay."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1536",
+        "endUid": "u1540"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1541",
+        "endUid": "u1675"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1676",
+        "endUid": "u2267"
+      },
+      "category": "combat",
+      "note": "One continuous initiative span: memory-eating fungus, retreat, and two slime molds joining the existing order."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2268",
+        "endUid": "u2385"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2386",
+        "endUid": "u2417"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2418",
+        "endUid": "u2469"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2470",
+        "endUid": "u2910"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2911",
+        "endUid": "u2996"
+      },
+      "category": "gameplay",
+      "note": "Closing logistics share turns with leaving the chamber and the accepted return to the surface."
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2997",
+        "endUid": "u3008"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u3009",
+        "endUid": "u3020"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
