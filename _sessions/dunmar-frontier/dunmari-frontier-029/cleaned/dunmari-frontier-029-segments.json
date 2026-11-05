@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-029",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-session.yaml",
+    "sessionYamlSha256": "9c58709c2c82c8834c08e11536889372106a0b98a0ca99b7db59a87609c3fdb7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-transcript.md",
+    "transcriptSha256": "d76ef21497dc9e26eab6ea86b6ca229eb40645c7e9a8c441113f19dfc75810bc"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0002"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0004"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0612"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0613",
+        "endUid": "u1557"
+      },
+      "category": "combat",
+      "note": "The DM initially dispenses with standard initiative, then explicitly uses side initiative with repeated party/enemy cycles; setup through capture is one continuous fight."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1558",
+        "endUid": "u2657"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2658",
+        "endUid": "u2679"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2680",
+        "endUid": "u3490"
+      },
+      "category": "gameplay"
+    }
+  ]
+}

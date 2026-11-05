@@ -1,0 +1,637 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-029",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-session.yaml",
+    "sessionYamlSha256": "9c58709c2c82c8834c08e11536889372106a0b98a0ca99b7db59a87609c3fdb7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-transcript.md",
+    "transcriptSha256": "d76ef21497dc9e26eab6ea86b6ca229eb40645c7e9a8c441113f19dfc75810bc",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-segments.json",
+      "sha256": "19053dadf100d85aa6fb494eec0cb208d0cdad0db39d6ce95e3ce292b9bef397",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Gnolls at the wellspring entrance",
+      "openingActions": [
+        {
+          "actor": "Cintra",
+          "kind": "event",
+          "summary": "Moves between the defenders and Jumi’s tent, ready to return to protect her if necessary.",
+          "evidence": [
+            {
+              "startUid": "u0620",
+              "endUid": "u0620"
+            }
+          ]
+        },
+        {
+          "actor": "Drikod",
+          "kind": "event",
+          "summary": "Reverts from axebeak form before the attack.",
+          "evidence": [
+            {
+              "startUid": "u0687",
+              "endUid": "u0689"
+            }
+          ]
+        },
+        {
+          "actor": "Cintra",
+          "kind": "event",
+          "summary": "Casts Bless, granting a d4 on attack rolls and saving throws; the initial corrected targets are Wellby, Delwath and the fire elemental.",
+          "evidence": [
+            {
+              "startUid": "u0658",
+              "endUid": "u0662"
+            },
+            {
+              "startUid": "u0819",
+              "endUid": "u0823"
+            },
+            {
+              "startUid": "u1202",
+              "endUid": "u1205"
+            },
+            {
+              "startUid": "u1235",
+              "endUid": "u1239"
+            }
+          ],
+          "note": "Later speech appears to substitute Kenzo for Delwath, but both are subsequently told to apply Bless. The source does not reconcile the recipient list."
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Climbs partway up the ledge for a clear line of sight.",
+              "evidence": [
+                {
+                  "startUid": "u0695",
+                  "endUid": "u0704"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath’s shadow",
+              "kind": "turn",
+              "summary": "Dives at the injured leading undead, hits with a 12 and kills it with cold damage; uses flyby to rise again.",
+              "evidence": [
+                {
+                  "startUid": "u0699",
+                  "endUid": "u0725"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Eldritch Blast kills the other already injured undead; a second blast hits a fresh skeletal gnoll for 5 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0727",
+                  "endUid": "u0735"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses careful aim for advantage and shoots a gnoll dead; it had 11 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u0736",
+                  "endUid": "u0744"
+                }
+              ]
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Casts Flaming Sphere at the entrance while maintaining concentration and rams the front enemy; its Dexterity save fails with 0 and it takes 7 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0748",
+                  "endUid": "u0773"
+                }
+              ]
+            },
+            {
+              "actor": "Two front gnolls",
+              "kind": "turn",
+              "summary": "Rush forward with bites and clubs, dealing 6 damage total to the fire elemental, then begin climbing the low walls.",
+              "evidence": [
+                {
+                  "startUid": "u0775",
+                  "endUid": "u0778"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Acts while the gnolls climb: his quarterstaff kills the one damaged by the sphere, then a second staff hit and an unarmed strike kill the one beside Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u0785",
+                  "endUid": "u0802"
+                },
+                {
+                  "startUid": "u0807",
+                  "endUid": "u0812"
+                }
+              ],
+              "note": "Inserted before the proposed elemental opportunity attack, which therefore never occurred on this movement."
+            },
+            {
+              "actor": "Another gnoll",
+              "kind": "turn",
+              "summary": "Climbs toward Wellby, provoking the fire elemental, then continues to bite for 6 and club for 4 damage before Wellby’s reaction reduces the total.",
+              "evidence": [
+                {
+                  "startUid": "u0807",
+                  "endUid": "u0839"
+                }
+              ]
+            },
+            {
+              "actor": "Fire elemental",
+              "kind": "reaction",
+              "summary": "Uses its still-available reaction to make a blessed opportunity attack, hitting the climbing gnoll for 8 damage and setting it on fire.",
+              "evidence": [
+                {
+                  "startUid": "u0807",
+                  "endUid": "u0833"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the bite, reducing it from 6 to 3; takes 7 total from bite and club.",
+              "evidence": [
+                {
+                  "startUid": "u0835",
+                  "endUid": "u0839"
+                }
+              ]
+            },
+            {
+              "actor": "Three gnolls beside the fire elemental",
+              "kind": "turn",
+              "summary": "Attack the elemental for another 6 damage total; two end beside the Flaming Sphere and each take 4 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0840",
+                  "endUid": "u0842"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts quicksand over a 20-foot square; all six targets fail Strength saves against DC 15 and become restrained. Maintains concentration; the area is difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u0843",
+                  "endUid": "u0887"
+                },
+                {
+                  "startUid": "u1442",
+                  "endUid": "u1448"
+                }
+              ],
+              "note": "The later correction limits restraint to creatures in the area when cast; entering later does not restrain."
+            },
+            {
+              "actor": "Gnoll archers",
+              "kind": "turn",
+              "summary": "Fire three arrows at the elemental for 7 damage total, two at Kenzo with 21 and 17 to hit for 9 and 7 damage before deflection, and two at Delwath: a natural 20 deals 12 piercing damage while a natural 1 misses.",
+              "evidence": [
+                {
+                  "startUid": "u0888",
+                  "endUid": "u0922"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the first arrow, reducing 9 damage to zero, spends ki and throws it back with a hit; return damage is unstated. Takes 7 from the second arrow.",
+              "evidence": [
+                {
+                  "startUid": "u0899",
+                  "endUid": "u0916"
+                }
+              ]
+            },
+            {
+              "actor": "Fleshy gnolls",
+              "kind": "turn",
+              "summary": "Bite and slash with short swords. Wellby takes 9 piercing from a bite and 7 piercing from a sword, with another bite and sword missing; he cannot dodge again. Kenzo takes 5 piercing from one sword while the other sword and bite miss.",
+              "evidence": [
+                {
+                  "startUid": "u0925",
+                  "endUid": "u0937"
+                }
+              ],
+              "note": "The bite is transcribed as “natural 24”; no critical-hit inference is added."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Keeps concentration on Flaming Sphere instead of casting Spike Growth. Rams the strongest rear enemy, which succeeds on its Dexterity save and takes half damage (amount unstated); leaves the sphere covering nearby targets. Produce Flame misses.",
+              "evidence": [
+                {
+                  "startUid": "u0945",
+                  "endUid": "u0992"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath’s shadow",
+              "kind": "turn",
+              "summary": "Dives at a target, hits with 13 for 9 damage and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u0993",
+                  "endUid": "u1008"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the adjacent enemy with Green-Flame Blade for 17 total damage, including 6 fire beyond the initial 11; fire leaps to another enemy for 6. Both die. Remains outside quicksand.",
+              "evidence": [
+                {
+                  "startUid": "u1009",
+                  "endUid": "u1025"
+                }
+              ]
+            },
+            {
+              "actor": "Fire elemental",
+              "kind": "turn",
+              "summary": "Makes two blessed touch attacks: 11 misses, the second hits for 6 damage and sets the target on fire.",
+              "evidence": [
+                {
+                  "startUid": "u1027",
+                  "endUid": "u1042"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses quarterstaff attacks and Flurry of Blows against enemies near him and Wellby, killing two. One staff hit deals 5 damage; a follow-up unarmed strike finishes that target.",
+              "evidence": [
+                {
+                  "startUid": "u1051",
+                  "endUid": "u1079"
+                }
+              ],
+              "note": "The exact assignment of the first attacks to the upper and lower tokens is tangled; two confirmed deaths are retained without inventing missing damage."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes careful aim at the remaining enemy next to Kenzo, hits with 15 and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u1084",
+                  "endUid": "u1088"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves within 60 feet and casts Vicious Mockery on a rear archer. The Wisdom save resolves in 6 damage and disadvantage on its next attack.",
+              "evidence": [
+                {
+                  "startUid": "u1093",
+                  "endUid": "u1111"
+                }
+              ],
+              "note": "The source supplies the save ability and applied effects but does not state the save roll or damage type."
+            },
+            {
+              "actor": "Cintra",
+              "kind": "turn",
+              "summary": "Prays to Shakun and hits the same archer with Guiding Bolt for 14 damage; its glow grants advantage on the next attack against it. It survives the combined 20 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1106",
+                  "endUid": "u1116"
+                }
+              ]
+            },
+            {
+              "actor": "Rotting clawed enemy",
+              "kind": "turn",
+              "summary": "Breaks free of quicksand, moves to the elemental and hits with claws for 3 damage; the elemental succeeds on its poison save and is unaffected by the poison.",
+              "evidence": [
+                {
+                  "startUid": "u1118",
+                  "endUid": "u1133"
+                }
+              ],
+              "note": "The table allows the claw attack after the escape action. The save’s ability is not stated."
+            },
+            {
+              "actor": "Two restrained enemies",
+              "kind": "turn",
+              "summary": "Fail to break free, then both fail Dexterity saves and each take 8 fire damage from Flaming Sphere.",
+              "evidence": [
+                {
+                  "startUid": "u1136",
+                  "endUid": "u1144"
+                }
+              ]
+            },
+            {
+              "actor": "Gnoll archers",
+              "kind": "turn",
+              "summary": "The mocked archer rolls 20 and 6 with disadvantage, canceling the potential critical and missing Delwath. Three shots deal 20 damage to the elemental (corrected from 15), with partial burning of arrows showing reduced injury. Against Kenzo, 12 misses and a natural 20 deals 8 before deflection. Another shot at Delwath misses with 15.",
+              "evidence": [
+                {
+                  "startUid": "u1146",
+                  "endUid": "u1177"
+                }
+              ],
+              "note": "The elemental’s resistance is narrated visually; no additional numeric halving is stated."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the critical arrow, reducing 8 damage to zero, and sends it back; the return attack’s result is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1163",
+                  "endUid": "u1172"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath’s shadow",
+              "kind": "turn",
+              "summary": "Dives at the lower damaged archer without Guiding Bolt advantage and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1186",
+                  "endUid": "u1198"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses Guiding Bolt advantage and Bless on Eldritch Blast: 13 hits the glowing archer for 3 damage without killing it; a second blast misses.",
+              "evidence": [
+                {
+                  "startUid": "u1200",
+                  "endUid": "u1209"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses careful aim for advantage, hits the rotting enemy with 16 and bloodies it; damage is unstated.",
+              "evidence": [
+                {
+                  "startUid": "u1215",
+                  "endUid": "u1224"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Makes two quarterstaff attacks followed by an unarmed strike against the rotting enemy. The staff sequence leaves it badly hurt; adding Bless brings the final strike to 13, enough to hit and kill it.",
+              "evidence": [
+                {
+                  "startUid": "u1225",
+                  "endUid": "u1240"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Keeps quicksand concentration, abandoning magnesium-sword and Earthen Hand ideas. Moves closer, animates a flying boulder with 40 hit points, and uses his bonus action to command it to smash an archer.",
+              "evidence": [
+                {
+                  "startUid": "u1245",
+                  "endUid": "u1335"
+                }
+              ]
+            },
+            {
+              "actor": "Animated boulder",
+              "kind": "turn",
+              "summary": "Slams into the damaged southern archer, leaving it barely standing; damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1334",
+                  "endUid": "u1347"
+                }
+              ]
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Rams that archer with Flaming Sphere. It makes its save but dies with only 2 hit points remaining. Leaves the sphere threatening two others.",
+              "evidence": [
+                {
+                  "startUid": "u1348",
+                  "endUid": "u1362"
+                }
+              ]
+            },
+            {
+              "actor": "Cintra",
+              "kind": "turn",
+              "summary": "Casts another Guiding Bolt, dealing 13 damage and killing an archer.",
+              "evidence": [
+                {
+                  "startUid": "u1363",
+                  "endUid": "u1370"
+                }
+              ]
+            },
+            {
+              "actor": "Three restrained enemies",
+              "kind": "turn",
+              "summary": "Try to escape quicksand with rolls 12, 9 and 4; all remain restrained.",
+              "evidence": [
+                {
+                  "startUid": "u1371",
+                  "endUid": "u1374"
+                }
+              ]
+            },
+            {
+              "actor": "Gnoll archers",
+              "kind": "turn",
+              "summary": "Avoid shooting at Kenzo. Both arrows at Delwath (14 and 13) and both at Wellby (14 and 12) miss.",
+              "evidence": [
+                {
+                  "startUid": "u1385",
+                  "endUid": "u1397"
+                }
+              ]
+            },
+            {
+              "actor": "Flaming Sphere",
+              "kind": "event",
+              "summary": "At the enemies’ turn end, burns one enemy to death; another fails its save and takes 6 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u1398",
+                  "endUid": "u1405"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits an archer with two Eldritch Blasts; 9 damage is stated for the same target, without a clear per-blast breakdown.",
+              "evidence": [
+                {
+                  "startUid": "u1406",
+                  "endUid": "u1412"
+                }
+              ]
+            },
+            {
+              "actor": "Unclear spell attacker",
+              "kind": "turn",
+              "summary": "A subsequent spell attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u1411",
+                  "endUid": "u1415"
+                }
+              ],
+              "note": "Delwath says “same guy spell attack”; this may be his shadow’s attack, but the actor is not explicit enough to assign confidently."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Switches from Delwath’s target to the other archer and shoots; the DM confirms poor damage without a number.",
+              "evidence": [
+                {
+                  "startUid": "u1416",
+                  "endUid": "u1428"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Fist of Planar Power: the target fails a Strength save with 1 and takes 12 damage; Kenzo drags it 20 feet toward the fire. After clarification that entering quicksand does not restrain him, he moves in, kills an archer with his staff, wounds another with an unarmed strike, then spends ki on another strike to kill it. Moves farther toward the last archer.",
+              "evidence": [
+                {
+                  "startUid": "u1429",
+                  "endUid": "u1486"
+                }
+              ]
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Rams a target with Flaming Sphere, positioning it away from Kenzo; the target fails its Dexterity save and takes 6 damage. Produce Flame misses.",
+              "evidence": [
+                {
+                  "startUid": "u1488",
+                  "endUid": "u1500"
+                }
+              ]
+            },
+            {
+              "actor": "Cintra",
+              "kind": "turn",
+              "summary": "Uses her remaining first-level slot for Guiding Bolt at an archer and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1501",
+                  "endUid": "u1504"
+                }
+              ]
+            },
+            {
+              "actor": "Fire elemental",
+              "kind": "turn",
+              "summary": "Takes its belated turn, moving in through the difficult terrain; is immune to Flaming Sphere’s fire. Its first blessed touch misses, the second just hits and kills the enemy with 2 hit points remaining.",
+              "evidence": [
+                {
+                  "startUid": "u1509",
+                  "endUid": "u1537"
+                }
+              ],
+              "note": "Inserted when the table notices it had not acted, after an escape attempt was narrated; do not infer an additional round."
+            },
+            {
+              "actor": "Restrained enemy",
+              "kind": "turn",
+              "summary": "An escape attempt with 10 leaves it trapped.",
+              "evidence": [
+                {
+                  "startUid": "u1505",
+                  "endUid": "u1508"
+                }
+              ],
+              "note": "Narrated before the elemental’s belated turn. The source does not settle whether this is the same enemy subsequently killed; retain the resolved attempt without inventing an extra survivor."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "The party elects to capture the last archer trapped between the pit, fire and boulder. Kenzo subdues and disarms it, then drags it back to the wellspring.",
+              "evidence": [
+                {
+                  "startUid": "u1539",
+                  "endUid": "u1557"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The attack is defeated; Kenzo captures the last archer alive and the party returns to the wellspring. Its later disposal belongs to the aftermath, not an invented killing blow in this combat.",
+        "evidence": [
+          {
+            "startUid": "u1539",
+            "endUid": "u1557"
+          }
+        ]
+      },
+      "note": "Initial attacks are interleaved informally before side initiative is agreed. Later turns are grouped into the four observable cycles; no world-time duration is inferred. No resolved elemental turn in cycle three or boulder turn in cycle four is supplied."
+    }
+  ]
+}

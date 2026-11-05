@@ -1,0 +1,792 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-029",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-session.yaml",
+    "sessionYamlSha256": "9c58709c2c82c8834c08e11536889372106a0b98a0ca99b7db59a87609c3fdb7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-transcript.md",
+    "transcriptSha256": "d76ef21497dc9e26eab6ea86b6ca229eb40645c7e9a8c441113f19dfc75810bc",
+    "yamlDates": {
+      "start": "1748-05-29",
+      "end": "1748-06-01"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0002"
+      },
+      "reading": "Play opens at sunset, immediately after Agata and Samerki were defeated.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0002",
+          "quote": "DM: Okay. So, as the sun sinks in the sky, turning the walls of the canyon a golden red, you all are standing looking at the dead bodies of Agata Dustmother and her servant Samerki.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0004"
+      },
+      "reading": "The opening aftermath is only a few minutes after emerging from Shakun’s realm; the battle itself is recapped.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0004",
+          "quote": "DM: It has only been a few minutes now since you emerged from Shakun's realm, at the prompting of Jumi, now a strange wooden puppet child, to find Cintra facing off against Agata and Samerki. Despite the swarm of locusts, the freezing blast of cold that nearly killed Seeker and Kenzo, and Wellby turned into a centipede and scooped up in a glass jar, you managed to defeat these foes.\n\n"
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "emergence from Shakun’s realm",
+          "offset": {
+            "text": "a few minutes",
+            "unit": "minute",
+            "precision": "vague",
+            "basis": "explicit recap relative to current aftermath"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM establishes current elapsed time in recap"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0137",
+        "endUid": "u0139"
+      },
+      "reading": "Ten minutes pass during Delwath’s detection ritual while Cintra settles Jumi.",
+      "evidence": [
+        {
+          "startUid": "u0137",
+          "endUid": "u0139",
+          "quote": "DM: In that 10 Minutes that takes for this ritual to complete Cintra is still just kind of comforting Jumi and then takes her over to Camp to try and get her to eat something and settle down a little bit in the tent just so that she can rest after what has been a stressful several months, um. Is there anything the rest of you want to do?\n\n"
+        },
+        {
+          "startUid": "u0249",
+          "endUid": "u0250",
+          "quote": "DM: So as that as you're doing this now Delwath your your ritual finishes. So it's now been about 10 minutes, since Wellby went to scout.\n\n"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "ritual narration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0384",
+        "endUid": "u0399"
+      },
+      "reading": "Wellby experiences a historical memory of the halfling patriarch and his caravan; its calendar date is unstated.",
+      "evidence": [
+        {
+          "startUid": "u0384",
+          "endUid": "u0399",
+          "quote": "DM: 17 okay um you— Hmm so you actually do briefly sort of recognize the halfling. And as you slip into into a memory as you kind of stare at this at this figure— You kind of you kind of fade back and and you don't get a ton of ton of detail, um. But you see—as you sort of fall backwards it's hard to tell how long ago, you are this memory is. But you see a caravan traveling a pretty well armed and defended caravan traveling, five wagons. A whole extended clan of halflings. And they seem to be crossing terrain sort of like this, like you know, probably somewhere on the road between Karawa and Bas Udda based on your your experience traveling these roads, you can place them. And all you really see is is, you see this figure um sitting on the lead, wagon sort of the lead the Patriarch of this trading family as they head south on the road to probably stop for some goods Bas Udda before cutting west to go to Askandi or or somewhere along the mountains. But that's all you got.\n\n"
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Wellby"
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0400",
+        "endUid": "u0405"
+      },
+      "reading": "Discussion returns to the present inspection of Agata’s dolls after Wellby’s memory.",
+      "evidence": [
+        {
+          "startUid": "u0400",
+          "endUid": "u0402",
+          "quote": "Drikod: Drikod— Didn't the doll speak to us, and she was in the water? Then she tell us to—\n\n"
+        },
+        {
+          "startUid": "u0403",
+          "endUid": "u0403",
+          "quote": "Unknown: Yes.\n\n"
+        },
+        {
+          "startUid": "u0404",
+          "endUid": "u0405",
+          "quote": "DM: Well, that was so Jumi was was when she entered the water, she was like four fifths wooden puppet and one fifth human and her face from like her chin to the top of her head was human but her hair was wood and she she spoke and she was like walk waddling like a sort of puppet. But it wasn't this doll it was actually her.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0467",
+        "endUid": "u0468"
+      },
+      "reading": "About fifteen minutes have passed sorting the recovered magic.",
+      "evidence": [
+        {
+          "startUid": "u0467",
+          "endUid": "u0468",
+          "quote": "Delwath: So I will Delwath will sort of stand up, having spent maybe 15 minutes now kind of moving around items and staring at them magically and so forth, and say there seems to be quite a lot of treasure here to sort through.\n\n"
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Delwath estimates time spent sorting"
+      },
+      "completion": "completed",
+      "note": "The account does not establish a clean nonoverlapping interval relative to the detection ritual; do not add both mechanically."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0586",
+        "endUid": "u0586"
+      },
+      "reading": "The fire elemental has been summoned for about thirty minutes, correcting an initial twenty-minute estimate.",
+      "evidence": [
+        {
+          "startUid": "u0583",
+          "endUid": "u0583",
+          "quote": "DM: So you still have the fire elemental.\n\n"
+        },
+        {
+          "startUid": "u0584",
+          "endUid": "u0584",
+          "quote": "Unknown: Told by the way.\n\n"
+        },
+        {
+          "startUid": "u0585",
+          "endUid": "u0585",
+          "quote": "Seeker: Oh, my God I forgot about that.\n\n"
+        },
+        {
+          "startUid": "u0586",
+          "endUid": "u0586",
+          "quote": "DM: It lasts for an hour. It's only been 20—it's only been 30 minutes.\n\n"
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM corrects twenty minutes to thirty"
+      },
+      "note": "Measured from its earlier summoning, including the prior battle; not thirty extra minutes after sorting."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1562",
+        "endUid": "u1575"
+      },
+      "reading": "A short rest is taken after the battle, with dinner and conversation during the recovery.",
+      "evidence": [
+        {
+          "startUid": "u1562",
+          "endUid": "u1562",
+          "quote": "Delwath: All right now, can we take a short rest?\n\n"
+        },
+        {
+          "startUid": "u1563",
+          "endUid": "u1563",
+          "quote": "DM: Yes, now, you can take a short rest.\n\n"
+        },
+        {
+          "startUid": "u1564",
+          "endUid": "u1564",
+          "quote": "Delwath: Delwath is going to cook a nourishing meal as part of the short rest.\n\n"
+        },
+        {
+          "startUid": "u1565",
+          "endUid": "u1565",
+          "quote": "Unknown: Nice.\n\n"
+        },
+        {
+          "startUid": "u1566",
+          "endUid": "u1567",
+          "quote": "Delwath: But specifically if anybody wants to use hit dice you get an extra point back for each hit die that you use.\n\n"
+        },
+        {
+          "startUid": "u1568",
+          "endUid": "u1569",
+          "quote": "Drikod: So— Tim, how does my meditation thing work is that just a fancy short rest or do I get a full rest in short rest time?\n\n"
+        },
+        {
+          "startUid": "u1570",
+          "endUid": "u1570",
+          "quote": "DM: I know you're—\n\n"
+        },
+        {
+          "startUid": "u1571",
+          "endUid": "u1571",
+          "quote": "DM: What that does is when you take a short rest, you can use that as part of the short rest to meditate and regain spell slots.\n\n"
+        },
+        {
+          "startUid": "u1572",
+          "endUid": "u1572",
+          "quote": "Drikod: All my spell slots are going to skip—\n\n"
+        },
+        {
+          "startUid": "u1573",
+          "endUid": "u1575",
+          "quote": "DM: I know it should say on the feature. I'm checking for you right now um you can you can recover spell slots that have a total combined level of up to three. Got it so one third level or a second in a first or three first.\n\n"
+        },
+        {
+          "startUid": "u1620",
+          "endUid": "u1625",
+          "quote": "DM: So, as you sit down for your short rest um eating, Delwath making the best he can of the magically summon food that Cintra has created, which is normally pretty bland but with Delwath's creative tweaking that actually makes a pretty satisfying dinner, you sit around the campfire. The sleeping Jumi in the tent.\n\n"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1875",
+        "endUid": "u1877"
+      },
+      "reading": "It is fully night while the party tests the message stones.",
+      "evidence": [
+        {
+          "startUid": "u1875",
+          "endUid": "u1876",
+          "quote": "Seeker: Is it— Is it nighttime now?\n\n"
+        },
+        {
+          "startUid": "u1877",
+          "endUid": "u1877",
+          "quote": "DM: Yeah it's nighttime now.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1944",
+        "endUid": "u1946"
+      },
+      "reading": "The message stones stop working after approximately a minute of testing.",
+      "evidence": [
+        {
+          "startUid": "u1944",
+          "endUid": "u1944",
+          "quote": "DM: Over so you keep like just testing it out yeah so after about a minute conversation they stop working.\n\n"
+        },
+        {
+          "startUid": "u1945",
+          "endUid": "u1945",
+          "quote": "Unknown: It—\n\n"
+        },
+        {
+          "startUid": "u1946",
+          "endUid": "u1946",
+          "quote": "DM: Seems like they need to recharge.\n\n"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated test interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2024",
+        "endUid": "u2032"
+      },
+      "reading": "The party sleeps through an uneventful night and wakes around five in the morning with a long rest.",
+      "evidence": [
+        {
+          "startUid": "u2024",
+          "endUid": "u2025",
+          "quote": "DM: Okay, so the pouch that had the five scorpions and the black or the four scorpions and the black fly is in the ground covered with earth yep okay. When you now all sleep.\n\n"
+        },
+        {
+          "startUid": "u2026",
+          "endUid": "u2026",
+          "quote": "Kenzo: Yeah.\n\n"
+        },
+        {
+          "startUid": "u2027",
+          "endUid": "u2027",
+          "quote": "Seeker: Okay well the evening—\n\n"
+        },
+        {
+          "startUid": "u2028",
+          "endUid": "u2029",
+          "quote": "DM: And the night passes uneventfully. And you wake up to the sound of a happy toddler babbling at 5am in the morning.\n\n"
+        },
+        {
+          "startUid": "u2030",
+          "endUid": "u2030",
+          "quote": "Seeker: Nice, so we take long rests.\n\n"
+        },
+        {
+          "startUid": "u2031",
+          "endUid": "u2032",
+          "quote": "DM: Saying so you can all take a long rest. Playing with Cintra, they're playing like one of those you know— Games.\n\n"
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention"
+      },
+      "time": {
+        "clock": "05:00",
+        "precision": "approximate",
+        "basis": "DM waking anchor"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2061",
+        "endUid": "u2069"
+      },
+      "reading": "The journey back to Karawa begins; the initial day-and-a-half estimate is only a forecast and travel is slower with Jumi.",
+      "evidence": [
+        {
+          "startUid": "u2061",
+          "endUid": "u2063",
+          "quote": "DM: 140 it's only like 40 miles, you can I mean he took all your food but Cintra can summon food for you so.\n\n"
+        },
+        {
+          "startUid": "u2064",
+          "endUid": "u2064",
+          "quote": "Kenzo: Longish day of hiking.\n\n"
+        },
+        {
+          "startUid": "u2065",
+          "endUid": "u2065",
+          "quote": "DM: Yeah basically you've got a you know, a day and a half of hiking.\n\n"
+        },
+        {
+          "startUid": "u2068",
+          "endUid": "u2069",
+          "quote": "DM: So you gather up all the magic set off a day and a half of hiking.\n\n"
+        },
+        {
+          "startUid": "u2112",
+          "endUid": "u2112",
+          "quote": "DM: You camp on eventually um it's a little bit slower going then you're used to with a three year old, who spends a lot of time riding on the floating disk.\n\n"
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "Seeker: Nice Nice.\n\n"
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2115",
+          "quote": "DM: But you managed but Cintra is really pushing hard and like constantly encouraging her and kind of luring forward as best you can with little magic tricks and like bright lights and stuff that appear 50 feet in front of her and they play little games of like you know pong passing things back and forth as illusions and stuff with each other.\n\n"
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2116",
+          "quote": "Seeker: Awesome.\n\n"
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2118",
+          "quote": "DM: And you managed to you pass it uneventful night. Next morning, you can identify something else, if you want um.\n\n"
+        }
+      ],
+      "duration": {
+        "value": 1.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "initial travel forecast, not measured completion"
+      },
+      "completion": "begun"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2112",
+        "endUid": "u2118"
+      },
+      "reading": "A camp night passes uneventfully during the compressed journey, followed by another morning of travel.",
+      "evidence": [
+        {
+          "startUid": "u2112",
+          "endUid": "u2112",
+          "quote": "DM: You camp on eventually um it's a little bit slower going then you're used to with a three year old, who spends a lot of time riding on the floating disk.\n\n"
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "Seeker: Nice Nice.\n\n"
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2115",
+          "quote": "DM: But you managed but Cintra is really pushing hard and like constantly encouraging her and kind of luring forward as best you can with little magic tricks and like bright lights and stuff that appear 50 feet in front of her and they play little games of like you know pong passing things back and forth as illusions and stuff with each other.\n\n"
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2116",
+          "quote": "Seeker: Awesome.\n\n"
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2118",
+          "quote": "DM: And you managed to you pass it uneventful night. Next morning, you can identify something else, if you want um.\n\n"
+        }
+      ],
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2161",
+        "endUid": "u2162"
+      },
+      "reading": "The party approaches Karawa in the afternoon, more specifically just after lunch when the mesa arrival is narrated.",
+      "evidence": [
+        {
+          "startUid": "u2161",
+          "endUid": "u2162",
+          "quote": "DM: So then, this afternoon, you approach— Was all you approach—\n\n"
+        },
+        {
+          "startUid": "u2257",
+          "endUid": "u2263",
+          "quote": "DM: So you come to Karawa. Standing now on the on the Mesa looking down over the town quiet without much sign of activity now at the you know just after lunch, the hottest part of the day, most people sort of hiding in the shade. And as you approach Cintra like grabs a grabs Jumi's hand and sort of hides the stone. She does something to it and it sort of fades from view and she rushes down.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "just after lunch",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "note": "The broad afternoon forecast is refined by the arrival narration; no numerical clock is given."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2367",
+        "endUid": "u2373"
+      },
+      "reading": "The table inserts a journey conversation about full initiation versus cauterizing the mystic connection.",
+      "evidence": [
+        {
+          "startUid": "u2367",
+          "endUid": "u2373",
+          "quote": "DM: Although Cintra does explain during the journey that you know— Now that now that the heart is back she can kind of cauterize those threads and you and the knowledge of the heart will slowly fade from your mind. If you would— Choose that option as well.\n\n"
+        },
+        {
+          "startUid": "u2392",
+          "endUid": "u2392",
+          "quote": "Delwath: This would they would this be like a conversation we're having on the way here?\n\n"
+        },
+        {
+          "startUid": "u2393",
+          "endUid": "u2393",
+          "quote": "Unknown: Yeah.\n\n"
+        }
+      ],
+      "context": "flashback"
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2410",
+        "endUid": "u2414"
+      },
+      "reading": "Narration resumes the present conversation with Candrosa in Karawa.",
+      "evidence": [
+        {
+          "startUid": "u2410",
+          "endUid": "u2414",
+          "quote": "Delwath: Delwath will say to Candrosa the— Mistake may have been yours, but it's an honor to have been able to help. All I ask is— Place to stay whenever we're in town again and your blessing when you when we are here.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t14"
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u3169",
+        "endUid": "u3184"
+      },
+      "reading": "The scepter’s mirror vision begins with Agata making a trade at an unspecified earlier time.",
+      "evidence": [
+        {
+          "startUid": "u3169",
+          "endUid": "u3169",
+          "quote": "DM: You hold up the scepter um concentrating on the story of the last person who wielded they're trying to get the mirror to show you some glimpses of Agata's life.\n\n"
+        },
+        {
+          "startUid": "u3170",
+          "endUid": "u3174",
+          "quote": "DM: And you see. You see, for a moment, you see Agata holding the scepter and kind of like a you know you're looking up from the perspective of the scepter at her face and she just has this look of power and joy on her face as she grabs hold of this and, as she as she is grasping hold of it, she then looks up and you can see, passing past the the scepter a scroll case that she is handing to somebody or something.\n\n"
+        },
+        {
+          "startUid": "u3175",
+          "endUid": "u3175",
+          "quote": "DM: And some words being spoken, but you can't make out what the words are um.\n\n"
+        },
+        {
+          "startUid": "u3176",
+          "endUid": "u3176",
+          "quote": "Delwath: This isn't the scroll case that we saw.\n\n"
+        },
+        {
+          "startUid": "u3177",
+          "endUid": "u3177",
+          "quote": "DM: It is this scroll case that you saw before.\n\n"
+        },
+        {
+          "startUid": "u3178",
+          "endUid": "u3178",
+          "quote": "Unknown: Before.\n\n"
+        },
+        {
+          "startUid": "u3179",
+          "endUid": "u3179",
+          "quote": "Delwath: The one that created the demon summoning stuff right.\n\n"
+        },
+        {
+          "startUid": "u3180",
+          "endUid": "u3180",
+          "quote": "Unknown: Yeah.\n\n"
+        },
+        {
+          "startUid": "u3181",
+          "endUid": "u3181",
+          "quote": "Kenzo: No.\n\n"
+        },
+        {
+          "startUid": "u3182",
+          "endUid": "u3182",
+          "quote": "Unknown: Okay.\n\n"
+        },
+        {
+          "startUid": "u3183",
+          "endUid": "u3184",
+          "quote": "Seeker: Bad. At Raven's Hold you're saying?\n\n"
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u3185",
+        "endUid": "u3193"
+      },
+      "reading": "The mirror shifts further back to Kharsan’s destruction under a giant commander.",
+      "evidence": [
+        {
+          "startUid": "u3185",
+          "endUid": "u3193",
+          "quote": "DM: But the mirror and the scepter have other ideas and you feel yourself being pulled further back in time. You see a brief moment of fire and destruction, as you are hanging unused from the belt of some enormous creature stomping through a city that you recognize as Kharsan. A giant swinging a flaming axe destroying buildings and you feel you can almost feel through the through the mirror this deep anger at just sitting unused at the on the belt of some dumb brute.\n\n"
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u3195",
+        "endUid": "u3217"
+      },
+      "reading": "The mirror passes further back to an ancient monumental city and the scepter’s army commander.",
+      "evidence": [
+        {
+          "startUid": "u3195",
+          "endUid": "u3202",
+          "quote": "DM: And then you are pulled further back in time swirling through darkness until you see an image of a city laid out before you. A vast city: pyramids rising up huge monuments um a massive a massive open square in front of you, and you are standing— You are looking down at this army. Um about 10,000 maybe 5000 people fitting into this square.\n\n"
+        },
+        {
+          "startUid": "u3203",
+          "endUid": "u3206",
+          "quote": "DM: And you are raised up a cloak around your shoulders. Like almost a sort of shimmering almost illusionary cloak of multicolored hues resting on your shoulders the mantle in your hand and the words coming out of your mouth animate the armies below you. And as you, you can't hear the words you just—\n\n"
+        },
+        {
+          "startUid": "u3207",
+          "endUid": "u3207",
+          "quote": "Delwath: See, animate— Oh, I know that I just have to clarify something. Animate like make them happy and animated or animate like they are dead, and this.\n\n"
+        },
+        {
+          "startUid": "u3208",
+          "endUid": "u3210",
+          "quote": "DM: Is no, no, make them happy and animated, and they did like there are cheering and roaring has, as you speak everybody's pumping their spear slamming spears on shields slamming staffs, you see rank after rank after rank of people wearing the helmets that Delwath used to wear that he wore for a time before it disintegrated in the battle with Agata.\n\n"
+        },
+        {
+          "startUid": "u3211",
+          "endUid": "u3211",
+          "quote": "Delwath: [garbled] Drankorian right?\n\n"
+        },
+        {
+          "startUid": "u3212",
+          "endUid": "u3212",
+          "quote": "DM: That was Drankorian.\n\n"
+        },
+        {
+          "startUid": "u3213",
+          "endUid": "u3213",
+          "quote": "Unknown: Yes.\n\n"
+        },
+        {
+          "startUid": "u3214",
+          "endUid": "u3217",
+          "quote": "DM: Um and and you see that like the scepter raised and then um the army's turn and begin to march um you at their head. Marching through rolling fields.\n\n"
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u3218",
+        "endUid": "u3226"
+      },
+      "reading": "The mirror reaches the scepter’s creation atop a black tower on a circular island.",
+      "evidence": [
+        {
+          "startUid": "u3218",
+          "endUid": "u3223",
+          "quote": "DM: And then you swirl even further back in time. And you see a figure a probably Drankorian as far as you can tell from their features um. A sharp eyes dark hair looks looks looks sort of like like like Denethor in the in the Lord of the Rings movies, like that sort of old but sort of powerful and maybe not super wise.\n\n"
+        },
+        {
+          "startUid": "u3224",
+          "endUid": "u3226",
+          "quote": "DM: And he is— He is holding the scepter and it looks like completely newly created. He is at the top of a tower a black tower standing on a circular island, nothing else around at the only things stretching out of the out of the sea, the waves crashing around this perfectly circular island [garbled] this person standing on the top of this black tower—is that—and then the mirror of fades to black.\n\n"
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u3227",
+        "endUid": "u3235"
+      },
+      "reading": "The party returns to present discussion of the scepter vision.",
+      "evidence": [
+        {
+          "startUid": "u3227",
+          "endUid": "u3228",
+          "quote": "Seeker: That was great Tim, thank you for that. Well done.\n\n"
+        },
+        {
+          "startUid": "u3229",
+          "endUid": "u3230",
+          "quote": "DM: Sorry, you rolled though you got different information that you wanted. Actually I'm very happy all.\n\n"
+        },
+        {
+          "startUid": "u3231",
+          "endUid": "u3231",
+          "quote": "Kenzo: The way there.\n\n"
+        },
+        {
+          "startUid": "u3232",
+          "endUid": "u3232",
+          "quote": "Seeker: Well, it was awesome. It was the story of the scepter itself.\n\n"
+        },
+        {
+          "startUid": "u3233",
+          "endUid": "u3235",
+          "quote": "Kenzo: Kenzo Kenzo is like kind of just staring at the mirror, just like stunned and just staring staring at he's like— I dream of this tower. Dreams.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t16"
+        }
+      ]
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u3489",
+        "endUid": "u3490"
+      },
+      "reading": "The session ends at sunset as the party heads to bed; the night’s rest has not completed.",
+      "evidence": [
+        {
+          "startUid": "u3489",
+          "endUid": "u3490",
+          "quote": "DM: So as the sun sets and you all head to your beds ready for the night's sleep and the next journey we will stop there.\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "completion": "begun"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No independent absolute date is spoken. YAML supplies May 29–June 1, 1748 as the candidate campaign span.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t11",
+      "t12",
+      "t13",
+      "t14",
+      "t22"
+    ],
+    "explanation": "Two overnight transitions are explicit. The slower, compressed return journey and its initial estimate do not establish an exact total. The YAML span can fit but is not independently matched; visions and the journey flashback do not add elapsed days. Heading to bed at the end does not reach another morning."
+  }
+}
