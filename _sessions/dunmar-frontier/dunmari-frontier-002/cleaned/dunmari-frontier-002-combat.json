@@ -1,0 +1,410 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-002",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+    "sessionYamlSha256": "63d9ee75bd85cecb95ecdb5a0de41f4d1bee9f32bd6b17e8e3f5746fd8e566c8",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-transcript.md",
+    "transcriptSha256": "104472cc7de521aae0fce24292e027b82841320b62b1cc8718805095032173a6",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-segments.json",
+      "sha256": "c92bf70c91f74cb3fa9bf893b103eba07f53ab6899e5f75a09c0b1b331248379",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Three giant lizards at Gomat Oasis",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Giant lizards",
+              "kind": "turn",
+              "summary": "All three lose their first turns to surprise; no attacks are made by them during the surprise cycle.",
+              "evidence": [
+                {
+                  "startUid": "u0260",
+                  "endUid": "u0262"
+                },
+                {
+                  "startUid": "u0342",
+                  "endUid": "u0345"
+                },
+                {
+                  "startUid": "u0356",
+                  "endUid": "u0357"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves slightly forward, casts Hex on the front lizard and hits it with Eldritch Blast, a beam of force; 1 additional Hex damage is spoken, but the blast damage total is not voiced.",
+              "evidence": [
+                {
+                  "startUid": "u0323",
+                  "endUid": "u0345"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots an arrow and misses. Surprise grants no advantage because he is not hidden.",
+              "evidence": [
+                {
+                  "startUid": "u0346",
+                  "endUid": "u0355"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Gives Kenzo one Bardic Inspiration die (d6 added to a d20 roll), then misses with a crossbow shot. The initial proposal to inspire all three companions is corrected to Kenzo alone; the die is usable once within ten minutes.",
+              "evidence": [
+                {
+                  "startUid": "u0358",
+                  "endUid": "u0389"
+                },
+                {
+                  "startUid": "u0668",
+                  "endUid": "u0670"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves to one side of the party and readies a quarterstaff attack against an approaching lizard. No readied attack is subsequently resolved.",
+              "evidence": [
+                {
+                  "startUid": "u0406",
+                  "endUid": "u0430"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Unwounded lizard A",
+              "kind": "turn",
+              "summary": "Dashes toward Delwath, the only attacker to have hurt a lizard so far. No bite is resolved on this turn.",
+              "evidence": [
+                {
+                  "startUid": "u0434",
+                  "endUid": "u0451"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Stays in place, hits the same Hexed lizard with another Eldritch Blast and Hex damage, leaving it badly wounded, and draws his sword. Damage amounts are not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0452",
+                  "endUid": "u0472"
+                }
+              ]
+            },
+            {
+              "actor": "Unwounded lizard B",
+              "kind": "turn",
+              "summary": "Dashes toward the party, moving twelve squares.",
+              "evidence": [
+                {
+                  "startUid": "u0474",
+                  "endUid": "u0481"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves sideways and back, then hits the already wounded lizard with an arrow. Sneak Attack is explicitly disallowed; the damage amount is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0483",
+                  "endUid": "u0507"
+                }
+              ]
+            },
+            {
+              "actor": "Wounded lizard",
+              "kind": "turn",
+              "summary": "Runs up to Wellby, the last person to hurt it, and roars despite being barely alive. No bite is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u0509",
+                  "endUid": "u0514"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves past Wellby and casts Thunderwave on the wounded lizard alone, avoiding the other PCs. It fails its Constitution save, is pushed 10 feet and dies at Delwath's feet. The two surviving lizards turn toward Seeker; no damage amount is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0607",
+                  "endUid": "u0641"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Steps up and hits a fresh lizard with his quarterstaff. His unarmed follow-up initially misses, but consuming the d6 Bardic Inspiration turns it into a hit and kills that lizard. With an additional burst of speed he moves past it and hits the last lizard with his fist. The DM resolves this last hit against the third lizard, correcting the initial description of hitting the same one again; damage amounts are not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0642",
+                  "endUid": "u0718"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Last lizard",
+              "kind": "turn",
+              "summary": "Rears up and tries to bite Kenzo after his advancing strike, but misses.",
+              "evidence": [
+                {
+                  "startUid": "u0712",
+                  "endUid": "u0718"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Charges the last lizard, transfers Hex to it while running, and hits it with his longsword held in two hands. The proposed green flame is withdrawn. Sword and Hex damage leave it nearly dead; no amounts are voiced.",
+              "evidence": [
+                {
+                  "startUid": "u0720",
+                  "endUid": "u0744"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Sidesteps while keeping the last lizard in view and shoots it in the throat, killing it.",
+              "evidence": [
+                {
+                  "startUid": "u0745",
+                  "endUid": "u0751"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All three lizards are dead; the party congratulates one another and begins investigating the deserted camp.",
+        "evidence": [
+          {
+            "startUid": "u0749",
+            "endUid": "u0755"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s010",
+      "encounter": "Four skeletons emerging from the mound outside the ruined fort",
+      "note": "Seeker is omitted from the initial initiative handling, acts after Kenzo in the first cycle, and resumes his corrected place immediately after Wellby in the next cycle.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves out to the side, misses a sword-bearing skeleton with an arrow, then uses Cunning Action to retreat farther.",
+              "evidence": [
+                {
+                  "startUid": "u3431",
+                  "endUid": "u3452"
+                }
+              ]
+            },
+            {
+              "actor": "Unarmed skeleton near Seeker",
+              "kind": "turn",
+              "summary": "Charges Seeker and misses with a punch against AC 13.",
+              "evidence": [
+                {
+                  "startUid": "u3453",
+                  "endUid": "u3464"
+                }
+              ]
+            },
+            {
+              "actor": "Sword-bearing skeleton near Delwath",
+              "kind": "turn",
+              "summary": "Runs forward and misses Delwath with its rusting sword.",
+              "evidence": [
+                {
+                  "startUid": "u3465",
+                  "endUid": "u3468"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Places Hexblade's Curse on the sword-bearing skeleton in front of him and hits with his longsword for 8 damage, including the curse's +2. It is badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u3469",
+                  "endUid": "u3495"
+                }
+              ]
+            },
+            {
+              "actor": "Unarmed skeleton near Delwath",
+              "kind": "turn",
+              "summary": "Runs at Delwath and initially hits, but his Shield reaction raises his AC to 20 and converts the attack to a miss.",
+              "evidence": [
+                {
+                  "startUid": "u3497",
+                  "endUid": "u3506"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield as a reaction to the incoming attack, raising AC to 20 so it misses; a wall of force appears between him and the attacker.",
+              "evidence": [
+                {
+                  "startUid": "u3500",
+                  "endUid": "u3510"
+                }
+              ]
+            },
+            {
+              "actor": "Sword-bearing skeleton near Seeker",
+              "kind": "turn",
+              "summary": "Runs to Seeker and hits him with a short sword for 4 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u3512",
+                  "endUid": "u3519"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Rushes to Seeker's side, hits the sword-bearing skeleton with his quarterstaff for 5 damage, then destroys it with an unarmed strike. Spends a ki point for Flurry of Blows and makes the extra unarmed attack against the other skeleton beside Seeker, but misses. The table limits the turn to three attacks total.",
+              "evidence": [
+                {
+                  "startUid": "u3525",
+                  "endUid": "u3569"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Abandons Sleep after the table points out that it does not affect undead. Gives Kenzo Runic/Bardic Inspiration, repositions beside the remaining nearby skeleton and casts Thunderwave. The skeleton succeeds on its Constitution save, takes 3 damage (half the rolled 7, as adjudicated), and is not pushed; no opportunity attack is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u3571",
+                  "endUid": "u3637"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves forward and hits the cursed sword-bearing skeleton beside Delwath with an arrow, receiving Sneak Attack because Delwath is in melee with it. Its skull shatters and it dies; damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u3642",
+                  "endUid": "u3658"
+                },
+                {
+                  "startUid": "u3692",
+                  "endUid": "u3697"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Acts in his corrected initiative position, gives Delwath Runic/Bardic Inspiration, and uses his action to disengage and retreat up to five squares without provoking an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u3661",
+                  "endUid": "u3698"
+                }
+              ]
+            },
+            {
+              "actor": "Unarmed skeleton near Kenzo",
+              "kind": "turn",
+              "summary": "Punches Kenzo for 1 damage; both sword-bearing skeletons are already dead.",
+              "evidence": [
+                {
+                  "startUid": "u3699",
+                  "endUid": "u3705"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the unarmed skeleton facing him for 9 damage and destroys it. No curse damage applies because the cursed skeleton has died.",
+              "evidence": [
+                {
+                  "startUid": "u3706",
+                  "endUid": "u3713"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits the last skeleton with his quarterstaff and then an unarmed bonus-action strike without spending ki; the fist shatters its ribcage and destroys it. Damage amounts are not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u3714",
+                  "endUid": "u3726"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All four skeletons are destroyed outside the fort. The party remains beside the partially excavated mound and hopes no more will emerge.",
+        "evidence": [
+          {
+            "startUid": "u3723",
+            "endUid": "u3732"
+          }
+        ]
+      }
+    }
+  ]
+}

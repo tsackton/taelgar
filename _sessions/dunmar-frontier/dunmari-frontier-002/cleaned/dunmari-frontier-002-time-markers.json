@@ -1,0 +1,372 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-002",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+    "sessionYamlSha256": "63d9ee75bd85cecb95ecdb5a0de41f4d1bee9f32bd6b17e8e3f5746fd8e566c8",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-transcript.md",
+    "transcriptSha256": "104472cc7de521aae0fce24292e027b82841320b62b1cc8718805095032173a6",
+    "yamlDates": {
+      "start": "1748-03-23",
+      "end": "1748-03-25"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0016"
+      },
+      "reading": "The opening encounter at Gomat is after sunset; the later clock clarification places the party at about nine in the evening, an hour after sunset.",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0016",
+          "quote": "DM: Sun sets, and you arrived exhausted, most of you exhausted, tired from your long day, at the Gomat Oasis."
+        },
+        {
+          "startUid": "u0208",
+          "endUid": "u0210",
+          "quote": "DM: It's night. Early night. It's, like, n- nine o'clock. The sun has just, has set about an hour ago, so it's the end of twilight."
+        },
+        {
+          "startUid": "u3633",
+          "endUid": "u3634",
+          "quote": "DM: Okay. So as you slam down, it, it rattles this, this creature, but not, um, it's not quite so dramatic as the effect it had on the lizard, uh, two nights ago."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "21:00",
+        "partOfDay": "early night",
+        "basis": "DM clarifies the opening as about nine, at the end of twilight; no calendar date is spoken."
+      },
+      "note": "The opening retells the approach, not an additional day of travel in this session; the later skeleton fight recalls this as two nights ago."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0802",
+        "endUid": "u0806"
+      },
+      "reading": "Seeker completes his Detect Magic ritual while Delwath uses Eldritch Sight and Wellby and Kenzo search the tents.",
+      "evidence": [
+        {
+          "startUid": "u0148",
+          "endUid": "u0149",
+          "quote": "Seeker: Let me, let me do that.\nDM: So that takes 10 minutes but doesn't use a spell slot."
+        },
+        {
+          "startUid": "u0802",
+          "endUid": "u0814",
+          "quote": "DM: Wellby and Kenzo are searching the tents. Um, Seeker and Delwath are ritual casting detect magic. Is that the story?\nDelwath: Well, Eldritch Sight, but yeah.\nDM: Oh, right. Okay.\nSeeker: So I, I'm standing in the center of the, the, the lizard corpses and, uh, drawing a, a giant figure in the, in the, uh, desert sand around my body.\nDM: Uh, you do not, um, neither of you perceive anything to be magical about the lizards. Um, uh, so yeah, you don't, you don't get the sense that there's any magic here."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "The table gives the ritual a ten-minute casting time, then narrates its completion."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1113",
+        "endUid": "u1116"
+      },
+      "reading": "The party sleeps through an uneventful night at Gomat and reaches the next clear morning and sunrise.",
+      "evidence": [
+        {
+          "startUid": "u1113",
+          "endUid": "u1116",
+          "quote": "DM: Okay. So, uh, you can all, um, do... Y- nothing eventful happens in the night. Um, it's quiet. You can all click the long rest button. Should erase exhaustion as well as recovering your spell slots and hit points."
+        },
+        {
+          "startUid": "u1125",
+          "endUid": "u1137",
+          "quote": "DM: Early... The morning comes bright and clear. Um, you feel like it's gonna be another warm, hot day. Um, as you are, uh...\nDM: As the sun rises, um, it's now much more obvious that, uh, the camp itself was the site of some, uh, extended chaos at some point yesterday, even before you showed up. You can see, without even having to search, um, the t- the tracks of the giant lizards, um, come from the east- So they, so from the far side of the oasis, um, and there seems to be some confusing sort of intersection of, of tracks and, um, marks and things in the ground sort of around the camp. Uh, some indicating heading sort of north, northwest. Um, if you'd like to, uh, if anybody wants to like search or, you know, try and investigate more, you can let me know exactly what you're s- kind of looking at."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "sunrise",
+        "relative": {
+          "relation": "after",
+          "reference": "t01"
+        },
+        "basis": "Explicit night passage followed by morning and sunrise; eight hours is the rest convention, not a measured clock."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1192",
+        "endUid": "u1196"
+      },
+      "reading": "The morning dissection of the lizards takes about an hour.",
+      "evidence": [
+        {
+          "startUid": "u1192",
+          "endUid": "u1196",
+          "quote": "DM: So, so you spend some time, um, cutting open the lizards. Uh, it's... I mean, they're big. It takes you, it takes you probably a good hour to carefully dissect them. Um-"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates a good hour spent carefully dissecting the lizards."
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "relative": {
+          "relation": "after",
+          "reference": "t03"
+        },
+        "basis": "The dissection follows the narrated sunrise at camp."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1843",
+        "endUid": "u1848"
+      },
+      "reading": "The eastward journey from Gomat is underway in midmorning.",
+      "evidence": [
+        {
+          "startUid": "u1795",
+          "endUid": "u1815",
+          "quote": "Kenzo: So w- we, are we, are we leaving? Are we now, like, heading east, following the tracks?\nWellby: Yeah.\nDM: Uh, yes.\nSeeker: But didn't we tell them that we were gonna stay until they came back?\nDM: They, they all came back.\nDelwath: Well, they came back. They came back and left already.\nDM: And left.\nSeeker: Oh, the whole... They all came back and then-\nDM: They all came back. The young guy galloped off on the horses to warn-\nSeeker: Everything's fine. Okay.\nDM: ... So everybody else, like, loaded up. You guys-\nSeeker: All right.\nDM: ... Refilled your water. Um, uh.\nSeeker: So we'll follow the tracks.\nDM: So the tracks, um, as you set out, the tracks, um, the tracks head along the, uh, this old trade road, right? So this is a, this is an ancient road that, that cut across the country of, of Dunmar before the Great War and before the-"
+        },
+        {
+          "startUid": "u1843",
+          "endUid": "u1848",
+          "quote": "DM: Uh, as you ride along, um, in the, in the mid-morning now, I guess, um, you know, the, the scene is very peaceful, if you could ignore the evidence before your eyes of these, uh, lizards coming out of, out of somewhere. There's flowers blooming, like, the ground is green from the winter rains. This would be prime grazing land, but you don't see anybody at all. Um, no clouds of dust, no nothing seems to be moving in the sun."
+        },
+        {
+          "startUid": "u1857",
+          "endUid": "u1858",
+          "quote": "Kenzo: So, um, as we're walking, you know, uh, 'cause we're all, we're walking with the horse, right, as we go, traveling.\nDM: Yeah."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "midmorning",
+        "basis": "DM explicitly places the ongoing journey in midmorning."
+      },
+      "actors": [
+        "party"
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2154"
+      },
+      "reading": "The party continues traveling and talking through the day, reaching the canyon toward evening, about an hour before sunset.",
+      "evidence": [
+        {
+          "startUid": "u2152",
+          "endUid": "u2177",
+          "quote": "DM: As you continue talking through the day, as you travel and track, um, it is, it is now getting towards evening.\nDM: Um, and in the late afternoon sun, uh, you see ahead of you a gash in the world, almost as if, uh, like a giant sword or a, or a giant hand just pulled the earth apart. Um, this must be the canyon you saw from a distance. It's, it's just cuts through the landscape, not related to the geology of the world at all. Um, the road just kind of ends on the edge of this cliff, um, looking down, uh, hundreds of feet, um, down past talus slopes and, and into the dusty dry bottom of this, just this cleft through the ground.\nDM: And you feel, staring across this canyon, that there is something different about the world beyond, that this is, this is not just stepping, um, you know, this... On the other side of this canyon is not just, um, more of the same. It's, this is the true wilds.\nDM: This is the cursed lands of the, of the Great War. This is, this is the Blasted Plains. And it's, uh, you know, staring across, contemplating this, it's, it's a, it's something, it's something different and new and, and more than you've, uh, something wilder than you've, than you've seen before in your travels. Um-"
+        },
+        {
+          "startUid": "u2234",
+          "endUid": "u2237",
+          "quote": "Seeker: What time of day is it?\nDM: Um, close to evening.\nSeeker: Mm.\nDM: I'd say it's, uh, it's an hour before sunset maybe."
+        }
+      ],
+      "completion": "completed",
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "relative": {
+            "relation": "same_time",
+            "reference": "t05"
+          },
+          "basis": "The already narrated midmorning departure begins this continuing journey."
+        },
+        "end": {
+          "precision": "approximate",
+          "partOfDay": "late afternoon",
+          "relative": {
+            "relation": "before",
+            "anchor": "sunset",
+            "offset": {
+              "value": 1,
+              "unit": "hour",
+              "precision": "approximate",
+              "basis": "DM estimates one hour before sunset."
+            }
+          },
+          "basis": "Late afternoon arrival, refined by the subsequent time question."
+        }
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2325",
+        "endUid": "u2331"
+      },
+      "reading": "Descending roughly 400 feet with the horse takes 15–20 minutes; the party reaches the top of the basalt cliff about forty minutes before sunset.",
+      "evidence": [
+        {
+          "startUid": "u2325",
+          "endUid": "u2331",
+          "quote": "DM: Okay. So you, you begin picking your way down the cliff, and, and, um, you know, it's, the descent is not too bad for the first 400 feet or so. It, um, you know, you manage to, to sort of navigate, um, a path and, and sort of pick your way down the slope. It's, it's steep and you have to be careful, um, uh, but it's not a sheer cliff. Uh, and, you know, probably takes you, you know, oh, 15, 20 minutes to kind of pick your way slowly down with the horse. Um-"
+        },
+        {
+          "startUid": "u2343",
+          "endUid": "u2347",
+          "quote": "DM: And, you know, after heading down about 400 feet, um, you come to an area where there seems to be a layer of just like hard basalt or some sort of igneous rock, um, that drops maybe 100 feet in a, in a cliff to a, uh, to a talus slope below it. Um, and you sort of, you sort of pick your way along, um, but it's not, it's not clear that there's an easy way past this basalt layer without finding a way down the cliff."
+        },
+        {
+          "startUid": "u2361",
+          "endUid": "u2364",
+          "quote": "DM: Um, so it's now maybe, uh, 40 minutes till sunset. The sun is sort of just touching the horizon, and you're at the top of 100-foot cliff."
+        }
+      ],
+      "duration": {
+        "min": 15,
+        "max": 20,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM gives a 15–20 minute descent estimate for the completed movement."
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "late afternoon",
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset",
+          "offset": {
+            "value": 40,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM estimates forty minutes until sunset."
+          }
+        },
+        "basis": "DM gives the endpoint relative to sunset; no numeric sunset clock is imported from the previous day."
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2514",
+        "endUid": "u2529"
+      },
+      "reading": "After returning to the ruined waystation camp, the party sleeps uninterrupted and play resumes the next morning.",
+      "evidence": [
+        {
+          "startUid": "u2449",
+          "endUid": "u2451",
+          "quote": "Kenzo: So we go back up to where the, uh, the little bit of rubble was and we set up camp, yeah?\nSeeker: Yep."
+        },
+        {
+          "startUid": "u2514",
+          "endUid": "u2529",
+          "quote": "Kenzo: And we all get a fitful night's rest.\nUnknown: Mm-hmm.\nSeeker: Right, Tim?\nDM: Yeah, you all, um, s- uh, surprisingly-\nDelwath: Delwath will again volunteer to take two watches.\nSeeker: Mm-hmm.\nDM: Okay. It's, it's, it's difficult sleeping, you know, out here. It's, it's, it's quiet. Um, uh, it's almost too quiet, um, after the, you know, the chaos of the past night. And you can still sort of feel the presence of, of something on the other side of the canyon. But you do manage to sleep uninterrupted."
+        },
+        {
+          "startUid": "u2541",
+          "endUid": "u2544",
+          "quote": "DM: This is the next morning.\nWellby: ... Hard.\nUnknown: Yeah.\nSeeker: It's the morning."
+        }
+      ],
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "timeRange": {
+        "start": null,
+        "end": {
+          "precision": "approximate",
+          "partOfDay": "morning",
+          "relative": {
+            "relation": "after",
+            "reference": "t07"
+          },
+          "basis": "DM explicitly identifies the resumed play as the next morning."
+        }
+      },
+      "note": "The transcript establishes overnight sleep without announcing its length or a second long-rest button reset."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2655",
+        "endUid": "u2667"
+      },
+      "reading": "Seeker constructs the earthen enclosure for the horse and supplies in a couple of minutes before the second descent.",
+      "evidence": [
+        {
+          "startUid": "u2655",
+          "endUid": "u2667",
+          "quote": "Seeker: I feel a little, like, a twinge of, like, the shameful glances of my, of my parents over my shoulder as I construct something that does not have the beautiful soaring elegance of stone arches and domes.\nUnknown: [laughs]\nSeeker: And instead is actually just a dirt, uh, box containing a horse, but nonetheless, it is a useful box.\nDM: [laughs] So, yes, that you can do quite, quite quickly.\nSeeker: Okay.\nDM: It probably only takes you a couple minutes to, to dig that out with-\nSeeker: Mm-hmm.\nDM: ... With mold earth, 'cause this, this is all just sort of loose dirt.\nSeeker: Mm-hmm.\nDM: So it's very easy to shape.\nDM: Um, so once you've boxed in the horde, horse and the supplies, um-"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM says the completed excavation takes a couple minutes."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u3152",
+        "endUid": "u3156"
+      },
+      "reading": "After descending and crossing the canyon and traversing the broken landscape, the party reaches the injured-hyena site at about lunchtime.",
+      "evidence": [
+        {
+          "startUid": "u3150",
+          "endUid": "u3156",
+          "quote": "Kenzo: All right. Let's, uh... What time of day is it now, Tim?\nDM: Um, I mean, it took, took a while to get down the cliff carefully and across this la- It's slow going here. It's probably about lunchtime by the time-\nUnknown: All right.\nDM: ... You know, you've gotten this far."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "lunchtime",
+        "basis": "DM explicitly dates the party's present position to about lunchtime after the slow descent and travel."
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute calendar date is spoken. March 23–25, 1748 is conditional on the YAML opening date; two successive overnight transitions establish the relative span.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t03",
+      "t08",
+      "t10"
+    ],
+    "explanation": "Play opens at Gomat after sunset, passes an uneventful overnight there, travels to and camps beside the canyon, resumes the next morning, and reaches the fort that same day. The late fight explicitly recalls the lizard fight two nights earlier. No additional overnight is narrated before the fort."
+  }
+}
