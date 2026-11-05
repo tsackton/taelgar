@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-015",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-session.yaml",
+    "sessionYamlSha256": "e8a0df6813d70948f012959158cbe802efac677330384648374ad7f4c4874eec",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-transcript.md",
+    "transcriptSha256": "6a243e0974b88cff1733dbc5ba095db43a04c714235c991c4c31638db0c13aea"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0539"
+      },
+      "category": "gameplay",
+      "note": "The opening advances current twilight play after a completed rest; it is not a non-advancing recap."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0540",
+        "endUid": "u0548"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0549",
+        "endUid": "u0626"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0627",
+        "endUid": "u0663"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0664",
+        "endUid": "u1338"
+      },
+      "category": "gameplay",
+      "note": "The water guardian resolves isolated probing attacks without initiative or a repeating ordered-turn cycle."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1339",
+        "endUid": "u1348"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1349",
+        "endUid": "u1507"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1508",
+        "endUid": "u1555"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1556",
+        "endUid": "u1770"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1771",
+        "endUid": "u1785"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1786",
+        "endUid": "u2332"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2333",
+        "endUid": "u2407"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2408",
+        "endUid": "u2425"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2426",
+        "endUid": "u2460"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
