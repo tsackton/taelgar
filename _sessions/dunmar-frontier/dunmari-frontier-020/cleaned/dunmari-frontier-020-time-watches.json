@@ -1,0 +1,164 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-time-markers.json",
+    "sha256": "c2b7b06a5a8a7412d1da4b546202f178051b0dcf6a98bfecb8d03d02638d60c7"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-transcript.md",
+    "sha256": "4e4af61933f2a0a65d0a895a50a5b0958d1952b002c94fc2b418fcc8ea2b63b4"
+  },
+  "dateAssessment": "Working dates follow the YAML span, May 2–5, 1748. The transcript names May and supports three overnight transitions, conditional on the YAML start. The existing Session 20 timeline supports the final early-evening arrival estimate; it is not independent verification of the absolute dates. The party is physically on the cliff above the camp, although that timeline calls the arrival “at Havdar’s camp.”",
+  "watches": [
+    {
+      "day": "May 2, 1748",
+      "startDate": "1748-05-02",
+      "endDate": "1748-05-02",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "The party reaches the monks’ house in late afternoon.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "May 2, 1748",
+      "startDate": "1748-05-02",
+      "endDate": "1748-05-02",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The conversation reaches dinner time, treated as dusk without an exact clock.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "May 2–3, 1748",
+      "startDate": "1748-05-02",
+      "endDate": "1748-05-03",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Dinner and early bedtime lead to waking next morning; no precise sleep duration is stated.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "May 3, 1748",
+      "startDate": "1748-05-03",
+      "endDate": "1748-05-03",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Morning training reaches lunch, when Seeker’s enormous hand bursts from the ground.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "May 3, 1748",
+      "startDate": "1748-05-03",
+      "endDate": "1748-05-03",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Departure after the heat is clarified as about 3 p.m. in May.",
+      "markers": [
+        "t05"
+      ]
+    },
+    {
+      "day": "May 3, 1748",
+      "startDate": "1748-05-03",
+      "endDate": "1748-05-03",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The first afternoon’s travel reaches an early-evening camp; sheet resets add no nights.",
+      "markers": [
+        "t06"
+      ]
+    },
+    {
+      "day": "May 4, 1748",
+      "startDate": "1748-05-04",
+      "endDate": "1748-05-04",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The next day explicitly dawns hot after the first travel camp.",
+      "markers": [
+        "t07"
+      ]
+    },
+    {
+      "day": "May 4, 1748",
+      "startDate": "1748-05-04",
+      "endDate": "1748-05-04",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Another quiet travel day passes; evening is inferred at its endpoint near Havdar’s camp.",
+      "markers": [
+        "t08"
+      ]
+    },
+    {
+      "day": "May 5, 1748",
+      "startDate": "1748-05-05",
+      "endDate": "1748-05-05",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "The next travel day begins; scorpion avoidance precedes the hottest-part-of-day rest.",
+      "markers": [
+        "t09"
+      ]
+    },
+    {
+      "day": "May 5, 1748",
+      "startDate": "1748-05-05",
+      "endDate": "1748-05-05",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "The party rests during the hottest part of the final travel day.",
+      "markers": [
+        "t10"
+      ]
+    },
+    {
+      "day": "May 5, 1748",
+      "startDate": "1748-05-05",
+      "endDate": "1748-05-05",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The cliff scramble takes seconds; the dated Session 20 timeline places the battle approach in early evening.",
+      "markers": [
+        "t11"
+      ],
+      "sourceRanges": [
+        [
+          "u1377",
+          "u1381"
+        ],
+        [
+          "u1403",
+          "u1408"
+        ]
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 20 dated timeline, especially May 5 early-evening arrival",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 20 (DuFr).md",
+      "sha256": "33e36d4252aac307df87d4b1be0078bce76eaaedd511dba8bc384bebd6fd4475"
+    }
+  ]
+}

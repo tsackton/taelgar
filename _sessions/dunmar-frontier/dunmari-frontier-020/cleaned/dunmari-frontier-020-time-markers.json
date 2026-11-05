@@ -1,0 +1,319 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-020",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
+    "sessionYamlSha256": "2b83807732a57be3c9d21a3d46649ed313a532de7e97c4510579e70e4cdc20c4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-transcript.md",
+    "transcriptSha256": "4e4af61933f2a0a65d0a895a50a5b0958d1952b002c94fc2b418fcc8ea2b63b4",
+    "yamlDates": {
+      "start": "1748-05-02",
+      "end": "1748-05-05"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0011",
+        "endUid": "u0017"
+      },
+      "reading": "The party approaches the monks’ house in the late afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0017",
+          "quote": "%% u0011:0-109, u0012:0-8, u0013:0-98, u0014:0-4, u0015:0-208, u0016:0-52, u0017:0-111 %%\nDM: Leaving Havdar's band, you decide to travel with Amil to his masters' house to learn what you could from them. After a questionably unnecessary fight with some ogres just trying to eat some rotting meat in the desert, you continued to this stone house, and as our session begins, you're walking up a rocky slope towards a sprawling, one-story house made of stacked sandstone bricks, homely and incongruous in the dry, barren landscape. The scratching of chickens and the occasional bleat of a goat breaks the silence of the late afternoon sun that's casting a warm glow over the stones of the house."
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM opening narration"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0906",
+        "endUid": "u0906"
+      },
+      "reading": "The conversation with the monks reaches dinner time.",
+      "evidence": [
+        {
+          "startUid": "u0906",
+          "endUid": "u0906",
+          "quote": "%% u0906:0-41 %%\nDM: Really dinner time. Perhaps we should eat."
+        }
+      ],
+      "time": {
+        "partOfDay": "dinner time",
+        "precision": "approximate",
+        "basis": "DM states the current time"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1196",
+        "endUid": "u1215"
+      },
+      "reading": "After dinner and an early bedtime, the party sleeps and wakes the next morning.",
+      "evidence": [
+        {
+          "startUid": "u1196",
+          "endUid": "u1215",
+          "quote": "%% u1196:0-9, u1197:0-9, u1198:0-99, u1199:0-21, u1200:0-47, u1201:0-21, u1202:0-39, u1203:0-3, u1204:0-56 %%\nDM: Okay, so Amil and Pava and Avaras enter with, with dinner, some—For a special occasion they made some chicken and rice. You have a nice meal. Um, you know chat a little about mundane things, and then head to bed on the early side, in case you have any, um, anything you want to do in the morning before you leave.\n\n%% u1205:0-92, u1206:0-124, u1207:0-182 %%\nKenzo: Them—As Kenzo sidebars with Pava at some point just to like kind of, say, like, Hey you know. I hope at some point, when there's a quieter time, to like come back and, and commune with you further. Basically like just to learn more about the Plane of Souls, to like you know kind of continue, continue Kenzo's quest of learning, and to learn what you can from Pava when there's, when there's time for quiet.\n\n%% u1208:0-84 %%\nDM: Yeah, and he says, Before you go in the morning, we should—let me show you something.\n\n%% u1209:0-5, u1210:0-5 %%\nKenzo: Okay. Cool.\n\n%% u1211:0-25 %%\nDM: So you all head to sleep.\n\n%% u1212:0-46, u1213:0-62, u1214:0-63, u1215:0-191 %%\nDM: Ah, in the morning you wake up, and Pava, Pava tells Kenzo—and he points at Wellby and he says, You come too—and takes you out into the the lawn. And he, he leans over to, um, to Kenzo and he says, you are—If you could just control this, this will of yours slightly, you would be so strong. Watch, when you strike, don't just strike with your hand. Strike with your mind."
+        }
+      ],
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "timeRange": {
+        "start": {
+          "partOfDay": "evening",
+          "precision": "approximate",
+          "basis": "Dinner followed by early bedtime"
+        },
+        "end": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM explicitly advances to waking the next morning"
+        }
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1216",
+        "endUid": "u1290"
+      },
+      "reading": "Kenzo and Wellby train during the morning; by lunch an enormous hand bursts from the ground beside Seeker.",
+      "evidence": [
+        {
+          "startUid": "u1212",
+          "endUid": "u1219",
+          "quote": "%% u1212:0-46, u1213:0-62, u1214:0-63, u1215:0-191 %%\nDM: Ah, in the morning you wake up, and Pava, Pava tells Kenzo—and he points at Wellby and he says, You come too—and takes you out into the the lawn. And he, he leans over to, um, to Kenzo and he says, you are—If you could just control this, this will of yours slightly, you would be so strong. Watch, when you strike, don't just strike with your hand. Strike with your mind.\n\n%% u1216:0-107, u1217:0-22, u1218:0-38, u1219:0-68 %%\nDM: Reach out. Feel the energy that runs through all conscious beings. Strike at that energy. And he goes to make a strike at you, Kenzo, and you feel him kind of reaching out. Like poke—plucking at your consciousness. Make a Constitution save."
+        },
+        {
+          "startUid": "u1285",
+          "endUid": "u1290",
+          "quote": "%% u1285:0-26, u1286:0-58, u1287:0-58, u1288:0-114, u1289:0-44, u1290:0-176 %%\nDM: Yes, everybody leveled up. So level yourselves up in your D&D Beyond character sheet. You end up spending some part of the day training. And so… And, and Seeker's now constant, constant study of like the world around him and every now and then you'll see like a fist just start to emerge from the ground. Like little, smaller, and then it's growing bigger and bigger and bigger and like, by lunch, this like enormous hand just burst out of the ground next to Seeker, and he's like, Whoa."
+        }
+      ],
+      "time": {
+        "partOfDay": "lunch",
+        "precision": "approximate",
+        "basis": "DM advances the played training interval to lunch"
+      },
+      "duration": {
+        "text": "part of the morning",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Training occupies part of the day; no numerical duration is stated"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1293",
+        "endUid": "u1296"
+      },
+      "reading": "The party departs after the midday heat, at about 3 p.m. in May.",
+      "evidence": [
+        {
+          "startUid": "u1293",
+          "endUid": "u1296",
+          "quote": "%% u1293:0-45, u1294:0-81, u1295:0-51, u1296:0-127 %%\nDM: Click manage levels, make yourself level five. So you end up spending um you know the morning on this sort of training and then… And then, after—it's hot, so you end up leaving, um, leaving the stone house in the late afternoon like after the peak heat, with still a half days of travel into the early evening."
+        },
+        {
+          "startUid": "u1309",
+          "endUid": "u1311",
+          "quote": "%% u1309:0-52, u1310:0-139, u1311:0-234 %%\nDM: It's a relatively—the first day, at least—this first afternoon heading northeast is relatively quiet, even though it's hot, and you know, even leaving at three in the afternoon, you're sweating within a few minutes of setting out, and your horses are sort of laboring in the sun. Now, May, it's, it's sort of that time of year like right before the what little rains reached the desert come, when everything is just dry and dusty, and…"
+        }
+      ],
+      "time": {
+        "clock": "15:00",
+        "date": {
+          "month": 5
+        },
+        "precision": "approximate",
+        "basis": "Departure is described as late afternoon, then clarified as 3 p.m. in May"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1304",
+        "endUid": "u1315"
+      },
+      "reading": "The first afternoon’s travel ends at camp in the early evening.",
+      "evidence": [
+        {
+          "startUid": "u1293",
+          "endUid": "u1296",
+          "quote": "%% u1293:0-45, u1294:0-81, u1295:0-51, u1296:0-127 %%\nDM: Click manage levels, make yourself level five. So you end up spending um you know the morning on this sort of training and then… And then, after—it's hot, so you end up leaving, um, leaving the stone house in the late afternoon like after the peak heat, with still a half days of travel into the early evening."
+        },
+        {
+          "startUid": "u1304",
+          "endUid": "u1308",
+          "quote": "%% u1304:0-30, u1305:0-19, u1306:0-3, u1307:0-42, u1308:0-54 %%\nDM: The next day—and so you camp. Hold on, sorry, guys. Ah. Need a place to take notes. Here we go, um. Okay, so, so you head north through the desert so it's…"
+        },
+        {
+          "startUid": "u1313",
+          "endUid": "u1315",
+          "quote": "%% u1313:0-75, u1314:0-4, u1315:0-178 %%\nDM: Everything's dried out and hot, and it's just sort of unpleasant in general. The—You spend an uneventful day at camp. So anybody, just to make sure everybody is all set just do a, do a couple of long rests to clear anything that's linger on your character sheet."
+        }
+      ],
+      "time": {
+        "partOfDay": "early evening",
+        "precision": "approximate",
+        "basis": "DM describes afternoon travel into early evening and confirms the day ends at camp"
+      },
+      "duration": {
+        "text": "the afternoon",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated travel interval; “half a day” is an approximate description, not twelve hours"
+      },
+      "completion": "completed",
+      "note": "The request to clear the character sheets for a couple of long rests does not establish additional elapsed nights."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1339",
+        "endUid": "u1346"
+      },
+      "reading": "After the first travel camp, the next day dawns hot and dry.",
+      "evidence": [
+        {
+          "startUid": "u1339",
+          "endUid": "u1346",
+          "quote": "%% u1339:0-131, u1340:0-45, u1341:0-141, u1342:0-59 %%\nDM: Wellby, your axebeak is now like happily eating out of your hand and just follows you around everywhere, and so you spend some time, like cutting up some, some—you know, hunting a prairie chicken, or whatever you can find around here, cutting up some—although they're pretty much omnivores, they'll eat almost anything, but… And he seems to be, or she, you don't really know its sex, um…\n\n%% u1343:0-123, u1344:0-13, u1345:0-148, u1346:0-73 %%\nDM: Seems to be like pretty happy to be around you at this point, um, you could—you—You're at the stage of starting to like ride for you know, how—half an hour a day, just to start to get it used to being ridden regularly. It's already gotten used to wearing a saddle and, and just being tame. So the next day dawn's hot, as every day has for the past several weeks."
+        }
+      ],
+      "dateBoundaries": 1,
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "DM explicitly says the next day dawns; earlier “next day” restarts refer to this same transition"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1365",
+        "endUid": "u1376"
+      },
+      "reading": "The party completes another quiet day of travel and stops close to Havdar’s camp.",
+      "evidence": [
+        {
+          "startUid": "u1365",
+          "endUid": "u1376",
+          "quote": "%% u1365:0-11, u1366:0-33, u1367:0-6, u1368:0-12, u1369:0-50, u1370:0-84, u1371:0-41, u1372:0-6, u1373:0-19, u1374:0-49, u1375:0-37, u1376:0-3 %%\nDM: That's all. The next day is, is hot and, again, quiet. Um, you pass few landmarks other than—I mean, Wellby is kind of leading the party at this point is, you have the map and the sort of knowledge from—from Havdar about kind of the layout and—where, where he's heading. And the next day again passes slowly and quietly, getting you pretty close to his camp, um."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM narrates the next day’s travel through its end; not a measured 24-hour march"
+      },
+      "completion": "completed",
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Inferred endpoint of the completed travel day, without a stated clock"
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1383",
+        "endUid": "u1386"
+      },
+      "reading": "On the following day the party travels onward and avoids a giant scorpion.",
+      "evidence": [
+        {
+          "startUid": "u1383",
+          "endUid": "u1386",
+          "quote": "%% u1383:0-20, u1384:0-78, u1385:0-132, u1386:0-35 %%\nDM: OK, so the next day, again, a relatively hot. Things seem quiet. You do, you do pass on this day a, um, a giant scorpion sort of sitting and waiting to attack something, but Wellby spots it in time. I presume you go around it instead of, yeah, presenting yourself as a meal."
+        }
+      ],
+      "dateBoundaries": 1,
+      "time": {
+        "precision": "approximate",
+        "basis": "DM explicitly advances to the next travel day",
+        "relative": {
+          "relation": "after",
+          "reference": "t08",
+          "anchor": "The following calendar day"
+        }
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1394",
+        "endUid": "u1402"
+      },
+      "reading": "On the last travel day the party rests through the hottest part of the day before continuing.",
+      "evidence": [
+        {
+          "startUid": "u1394",
+          "endUid": "u1402",
+          "quote": "%% u1394:0-6, u1395:0-62, u1396:0-230, u1397:0-86, u1398:0-127, u1399:0-162, u1400:0-7, u1401:0-47, u1402:0-6 %%\nDM: So, um, you rest during the hottest part of the day again. There's, um, you're—You're in an area now where it's easier to find shade. There's, there's you know little canyons and gullies this kind of—It's kind of like the terrain you first set out on when you first left Karawa almost two months ago now—six weeks ago now. Little gullies and canyons that lead nowhere but Wellby has gotten quite good at desert navigation in over the past six weeks and leads you without any trouble onward, um, navigating these little, little gullies, avoiding dead ends. Stuff that you know a few months ago, you would have found yourself staring at blank walls with no way to go forward, now seems almost comfortable to navigate, like the roads of home. Until…"
+        }
+      ],
+      "time": {
+        "partOfDay": "hottest part of the day",
+        "precision": "approximate",
+        "basis": "DM describes a midday heat stop"
+      },
+      "duration": {
+        "text": "a while during the hottest part of the day",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated pause; no short-rest credit or numerical duration is specified"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1574",
+        "endUid": "u1578"
+      },
+      "reading": "The party spends a few seconds scrambling up the cliff before running toward the fight.",
+      "evidence": [
+        {
+          "startUid": "u1574",
+          "endUid": "u1578",
+          "quote": "%% u1574:0-51, u1575:0-9, u1576:0-55, u1577:0-20, u1578:0-87 %%\nDM: So it's not clear, after the leader exactly, but, um, you know, as you're—you can like keep watching as you're running. Yeah, now closing in. You spend a few seconds scrambling up the cliff wall, and you're running in this way, um."
+        }
+      ],
+      "duration": {
+        "max": 1,
+        "maxInclusive": false,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM says the scramble takes a few seconds; less than a minute is a supported upper bound."
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "May is spoken at u1309–u1311. The year and opening May 2 date come from YAML; the relative span matches conditional on that opening date, not independent absolute-date verification.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": 3,
+    "evidence": [
+      "t01",
+      "t03",
+      "t05",
+      "t07",
+      "t09"
+    ],
+    "explanation": "One night with the monks and two travel-night transitions account for May 2–5. Repeated next-day restarts describe the same advances; recap history and long-rest sheet resets add no boundaries."
+  }
+}

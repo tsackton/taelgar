@@ -1,0 +1,495 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-020",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
+    "sessionYamlSha256": "2b83807732a57be3c9d21a3d46649ed313a532de7e97c4510579e70e4cdc20c4",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-transcript.md",
+    "transcriptSha256": "4e4af61933f2a0a65d0a895a50a5b0958d1952b002c94fc2b418fcc8ea2b63b4",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-segments.json",
+      "sha256": "2a3ac2426552f3a558814703eb5ad36b76a18a42b437324e5010d4ee16b35e07",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s011",
+      "encounter": "Orc attack on Havdar’s camp",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Fist of Planar Power on the spellcaster beside the leader. The caster succeeds on the Strength save and takes 6 damage, but loses concentration. Kenzo remains by the boulder and hits a nearby orc with his ki-fueled bonus unarmed attack; its damage total is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1676",
+                  "endUid": "u1727"
+                }
+              ]
+            },
+            {
+              "actor": "Orc attacking Wellby",
+              "kind": "turn",
+              "summary": "Charges Wellby and hits with a greataxe for 4 slashing damage before Uncanny Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u1728",
+                  "endUid": "u1734"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to halve the greataxe hit from 4 to 2 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u1735",
+                  "endUid": "u1741"
+                }
+              ]
+            },
+            {
+              "actor": "First orc charging Kenzo",
+              "kind": "turn",
+              "summary": "Runs toward Kenzo and misses with its greataxe.",
+              "evidence": [
+                {
+                  "startUid": "u1737",
+                  "endUid": "u1741"
+                }
+              ]
+            },
+            {
+              "actor": "Second orc charging Kenzo",
+              "kind": "turn",
+              "summary": "Runs toward Kenzo and misses with its greataxe.",
+              "evidence": [
+                {
+                  "startUid": "u1742",
+                  "endUid": "u1745"
+                }
+              ]
+            },
+            {
+              "actor": "Orc already beside Kenzo",
+              "kind": "turn",
+              "summary": "Swings its greataxe and misses as Kenzo dodges.",
+              "evidence": [
+                {
+                  "startUid": "u1746",
+                  "endUid": "u1748"
+                }
+              ]
+            },
+            {
+              "actor": "Fire-casting orc",
+              "kind": "turn",
+              "summary": "Casts Fireball at Wellby, Seeker, and Delwath. Dexterity saves leave Wellby and Delwath taking the full 27 fire damage (corrected from 22), and Seeker taking half, rounded down to 13. Delwath’s Armor of Agathys is lost.",
+              "evidence": [
+                {
+                  "startUid": "u1749",
+                  "endUid": "u1766"
+                },
+                {
+                  "startUid": "u1808",
+                  "endUid": "u1809"
+                },
+                {
+                  "startUid": "u1920",
+                  "endUid": "u1922"
+                }
+              ],
+              "note": "Save success/failure follows the explicitly resolved full versus half damage; the individual save rolls are not spoken."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Shatter on both spellcasters and the leader. The fire caster and leader fail their Constitution saves; the other caster succeeds. All are damaged, with no total stated. The stone pillar stays intact, but a palm tree cracks and falls toward the oasis.",
+              "evidence": [
+                {
+                  "startUid": "u1768",
+                  "endUid": "u1801"
+                },
+                {
+                  "startUid": "u1978",
+                  "endUid": "u1981"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Curses the fire caster, charges past an orc, and hits the caster twice for 9 and 14 damage, leaving it badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u1803",
+                  "endUid": "u1823"
+                }
+              ]
+            },
+            {
+              "actor": "Orc passed by Delwath",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack during Delwath’s charge; 13 misses. Delwath continues to the fire caster.",
+              "evidence": [
+                {
+                  "startUid": "u1805",
+                  "endUid": "u1810"
+                }
+              ]
+            },
+            {
+              "actor": "Armored orc spellcaster",
+              "kind": "turn",
+              "summary": "Mutters a curse at Delwath and Kenzo. Both succeed on Charisma saves and neither is affected.",
+              "evidence": [
+                {
+                  "startUid": "u1824",
+                  "endUid": "u1832"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes Careful Aim for advantage on a melee shortsword attack, provisionally allowed by the DM. The hit deals 10 damage and leaves his orc badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u1845",
+                  "endUid": "u1865"
+                }
+              ]
+            },
+            {
+              "actor": "Orc leader",
+              "kind": "turn",
+              "summary": "Uses its command ability instead of attacking, ordering the three orcs around Kenzo to attack again.",
+              "evidence": [
+                {
+                  "startUid": "u1866",
+                  "endUid": "u1871"
+                }
+              ]
+            },
+            {
+              "actor": "Three orcs around Kenzo",
+              "kind": "event",
+              "summary": "Resolve the leader’s commanded extra attacks: two miss, and the third hits Kenzo for 4 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u1873",
+                  "endUid": "u1879"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits one orc with his quarterstaff for 9 damage and kills it with a follow-up punch. He then hits and kills the already wounded second orc with the remaining quarterstaff attack, leaving one nearby.",
+              "evidence": [
+                {
+                  "startUid": "u1880",
+                  "endUid": "u1913"
+                }
+              ]
+            },
+            {
+              "actor": "Orc attacking Wellby",
+              "kind": "turn",
+              "summary": "Hits Wellby with a greataxe for 6 slashing damage before Uncanny Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u1914",
+                  "endUid": "u1916"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to reduce the hit to 3 slashing damage, leaving him at 1 hit point.",
+              "evidence": [
+                {
+                  "startUid": "u1917",
+                  "endUid": "u1917"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining orc beside Kenzo",
+              "kind": "turn",
+              "summary": "Scores a critical greataxe hit on Kenzo for 8 damage and says its dead companions will rise stronger than ever.",
+              "evidence": [
+                {
+                  "startUid": "u1923",
+                  "endUid": "u1927"
+                }
+              ]
+            },
+            {
+              "actor": "Fire-casting orc",
+              "kind": "turn",
+              "summary": "Casts Burning Hands, not another Fireball, at Delwath. A Dexterity save is called for; the spoken roll is one and Delwath takes 16 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u1928",
+                  "endUid": "u1939"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Spends three charges to raise an earthen hand beside the fire caster. The caster rolls 2 on its Strength save and is crushed to death. The hand persists while Seeker concentrates and can move and grab other targets. Seeker gives Wellby bonus-action inspiration, marked by a hovering rune.",
+              "evidence": [
+                {
+                  "startUid": "u1982",
+                  "endUid": "u1998"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Closes with the armored spellcaster and attacks with Green-Flame Blade, but misses. No damage occurs without the hit.",
+              "evidence": [
+                {
+                  "startUid": "u2000",
+                  "endUid": "u2026"
+                }
+              ]
+            },
+            {
+              "actor": "Armored orc spellcaster",
+              "kind": "turn",
+              "summary": "Casts Command at Delwath. Delwath succeeds on the Wisdom save and the command has no effect.",
+              "evidence": [
+                {
+                  "startUid": "u2027",
+                  "endUid": "u2036"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits and kills his wounded orc with a shortsword, then discards his still-burning hat.",
+              "evidence": [
+                {
+                  "startUid": "u2038",
+                  "endUid": "u2040"
+                },
+                {
+                  "startUid": "u2063",
+                  "endUid": "u2071"
+                }
+              ]
+            },
+            {
+              "actor": "Orc leader",
+              "kind": "turn",
+              "summary": "Swings its longsword twice at Delwath: the first attack misses, the second hits for 6 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u2072",
+                  "endUid": "u2085"
+                }
+              ],
+              "note": "Delwath says “And I’m down,” but continues acting without a narrated revival. The transcript does not securely establish unconsciousness."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits the last nearby ordinary orc with an unarmed strike, then finishes it with his quarterstaff. Moves to the leader, misses with a quarterstaff attack, then hits with an unarmed strike and spends another ki on Stunning Strike. The leader fails its Constitution save with 5 and is stunned until the end of Kenzo’s next turn, as corrected at the table.",
+              "evidence": [
+                {
+                  "startUid": "u2086",
+                  "endUid": "u2131"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves the earthen hand to attack the armored caster, whose successful Strength save avoids the grab. Gives Delwath bonus-action inspiration: a d8 that the table allows on any d20 roll.",
+              "evidence": [
+                {
+                  "startUid": "u2132",
+                  "endUid": "u2160"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses Green-Flame Blade with advantage against the stunned leader: 20 damage to the leader and 6 to the adjacent caster, after correcting the secondary damage from 5. His Blink roll initially fails; he spends the d8 inspiration and vanishes.",
+              "evidence": [
+                {
+                  "startUid": "u2161",
+                  "endUid": "u2196"
+                }
+              ],
+              "note": "Delwath confirms Blink was already cast and had not triggered earlier in the fight; the casting turn is not established here. Neither target bears his earlier curse."
+            },
+            {
+              "actor": "Armored orc spellcaster",
+              "kind": "turn",
+              "summary": "Creates a grasping illusory hand around Kenzo after calling for an Intelligence save. Kenzo takes 3 damage and cannot leave his square, but is explicitly not restrained and may still attack.",
+              "evidence": [
+                {
+                  "startUid": "u2199",
+                  "endUid": "u2219"
+                }
+              ],
+              "note": "The individual save result is not spoken; the applied effect is retained without inventing the roll."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Abandons shooting the caster through half cover, shoots the stunned leader with advantage, and misses. Then moves up toward the others.",
+              "evidence": [
+                {
+                  "startUid": "u2229",
+                  "endUid": "u2250"
+                }
+              ]
+            },
+            {
+              "actor": "Orc leader",
+              "kind": "turn",
+              "summary": "Cannot act because it is stunned.",
+              "evidence": [
+                {
+                  "startUid": "u2248",
+                  "endUid": "u2251"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the stunned leader with advantage. His first quarterstaff attack misses; his next attack kills it. His remaining attack hits the armored caster without advantage; no damage total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2256",
+                  "endUid": "u2285"
+                }
+              ],
+              "note": "Kenzo proposes an unarmed follow-up; subsequent staff reminders make the exact weapon used for the killing blow unclear."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "The earthen hand grabs the armored caster after a failed Strength save. The DM calls for 2d6 damage without a spoken total. The caster is restrained, cannot move, and attacks against it have advantage.",
+              "evidence": [
+                {
+                  "startUid": "u2291",
+                  "endUid": "u2303"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Reappears beside the restrained caster and hits for 13 damage. After discussion, the party chooses capture; Delwath knocks the caster unconscious with a blow to the head, leaving it held in Seeker’s stone hand.",
+              "evidence": [
+                {
+                  "startUid": "u2304",
+                  "endUid": "u2329"
+                }
+              ]
+            },
+            {
+              "actor": "Battle below the cliff",
+              "kind": "event",
+              "summary": "With the upper attackers defeated, three orcs still fight Havdar below. The DM invites the party to attack them as the ordered initiative sequence gives way to cleanup.",
+              "evidence": [
+                {
+                  "startUid": "u2330",
+                  "endUid": "u2334"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "Blasts the remaining orcs below: 17 hits, 11 misses, and the hit deals 9 damage. Together with Wellby’s hit this kills one orc.",
+              "evidence": [
+                {
+                  "startUid": "u2335",
+                  "endUid": "u2347"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "event",
+              "summary": "Joins Delwath’s attack on an orc below; the 23 hits, and their combined attacks kill it.",
+              "evidence": [
+                {
+                  "startUid": "u2335",
+                  "endUid": "u2347"
+                }
+              ],
+              "note": "The 23 is attributed to Wellby from the two declared attackers and the DM’s “between the two of you”; his damage is not spoken."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "event",
+              "summary": "Casts a second-level Shatter on the two remaining orcs for a rolled 17 damage. One succeeds on its save; the other fails and is blown apart.",
+              "evidence": [
+                {
+                  "startUid": "u2348",
+                  "endUid": "u2363"
+                }
+              ],
+              "note": "Constitution is established for Shatter earlier in the fight; this cleanup resolution states only success and failure, not the saving-throw ability."
+            },
+            {
+              "actor": "Havdar’s warband",
+              "kind": "event",
+              "summary": "Finishes the last surviving orc after Seeker’s Shatter.",
+              "evidence": [
+                {
+                  "startUid": "u2358",
+                  "endUid": "u2363"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The fight is resolved. The armored caster is unconscious and captive in the stone hand; the other attackers are defeated. Several of Havdar’s troops below are wounded, unconscious, or possibly dead, with their condition unresolved at this distance.",
+        "evidence": [
+          {
+            "startUid": "u2358",
+            "endUid": "u2363"
+          }
+        ]
+      },
+      "note": "Four main initiative cycles are followed by openly offered cleanup attacks, retained as events after the last regular turn."
+    }
+  ]
+}
