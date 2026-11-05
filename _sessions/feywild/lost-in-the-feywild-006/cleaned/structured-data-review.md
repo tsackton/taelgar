@@ -25,9 +25,10 @@ October 6, 1740 comes only from YAML; the transcript establishes short elapsed i
 
 | Location | Present | Markers |
 | --- | --- | --- |
-| Library | Party and Menestheus | l01 |
-| Prison doorway, library side → Library | Txarro | l02–l03 |
-| Library → Prison doorway, library side → 27th room interior | Party and Aurae | l04, l08 |
+| Library | Party and Menestheus | l01, l03 |
+| Prison doorway, library side | Txarro | l02 |
+| Prison doorway, library side | Party and Aurae | l04 |
+| 27th room interior | Party and Aurae | l08 |
 
 | Observed location | Observer | From | Markers |
 | --- | --- | --- | --- |
