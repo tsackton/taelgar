@@ -1,0 +1,1026 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-032",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-session.yaml",
+    "sessionYamlSha256": "ef29164de8ff2a3ebd2a077ac85e6d0e4f3378b7a0896925a52dd1bd7977b2cd",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-transcript.md",
+    "transcriptSha256": "db1fb31e6220b80b5320ba1d00502c4c1324ed77400ebf863415ab5856a04636"
+  },
+  "places": {
+    "p01": {
+      "label": "Karawa",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0012",
+          "quote": "DM: So just jump right in. Um, so both of you have spent most of the... Both Drikod and Kenzo have spent most of the, the week, 10 days that you've, that you've all been just kind of hanging out in Karawa, studying and, and praying and, you know, every day, um, learning a little bit more about the, the history of Shakun and the sort of, um, mythos of her and her power, and also practicing and strengthening your connection to this web of power that, um, that maintains this, this defense of Dunmar. So it's a lot of, been a lot of like meditation and, um, just spending time sort of focusing on how power flows through this network of people."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+      "kind": "settlement",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u3737",
+              "endUid": "u3742",
+              "quote": "DM: This place is Dunmar. We've... This is... This, she points at the mesa, is the center, the heart of our country. Cannot abandon it. That is wrong. But [sighs] I don't like to think about what might happen next."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Temple of Shakun",
+      "evidence": [
+        {
+          "startUid": "u0026",
+          "endUid": "u0033",
+          "quote": "DM: And so after a week of training and meditation and prayer, um, the, the last evening before the Feast of Bhishma, so the night before, so next... We'll start the session the morning after the initiation. Um, he takes you down again to the... through the temple to the same room that you were in previously, down through the common area of the temple, um, down underground into this cavern where there's a pool of glowing water."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "kind": "temple",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2405",
+              "endUid": "u2408",
+              "quote": "DM: But you haven't really seen much of each other in the past 10 days, um, not since you returned to Karawa from, with the treasure from Agata's lair and freed the Nayan Sura, who was once ex- the expected successor to the throne of Dunmar until she mysteriously vanished eight years ago. You haven't seen much of Sura over the past 10 days, although you've seen Havdar and a few others coming and going from the Temple of Shakun, where you know that she has been planning her next move."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Red Mesa",
+      "evidence": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0049",
+          "quote": "DM: Um, and he says, \"This is the power of Shakun's heart. With her here, the mesa is alive, bright and powerful and not dark.\""
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md",
+      "kind": "mesa",
+      "note": "The Karawa and Red Mesa vault notes orient the mesa beside the village; this is vault context, not an additional transcript-established arrival.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u3737",
+              "endUid": "u3742",
+              "quote": "DM: This place is Dunmar. We've... This is... This, she points at the mesa, is the center, the heart of our country. Cannot abandon it. That is wrong. But [sighs] I don't like to think about what might happen next."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Initiation pool cavern",
+      "evidence": [
+        {
+          "startUid": "u0026",
+          "endUid": "u0049",
+          "quote": "DM: And so after a week of training and meditation and prayer, um, the, the last evening before the Feast of Bhishma, so the night before, so next... We'll start the session the morning after the initiation. Um, he takes you down again to the... through the temple to the same room that you were in previously, down through the common area of the temple, um, down underground into this cavern where there's a pool of glowing water.\n\nUnknown: [clears throat]\n\nDM: Except that now the room is brightly lit, and you can see that there, instead of a dark room before, um, there is a, there is, um, a warm glow that comes from the rock all around this, the chamber that, um, all around the, the walls-\n\nUnknown: [clears throat]\n\nDM: ... that surround this pool of water in the middle of this chamber. They're just glowing sort of burnished red like the sunset. Basically walked into a, a, a living sunset almost, or sunrise. So everything is warm and, and bright.\n\nDM: Um, and he says, \"This is the power of Shakun's heart. With her here, the mesa is alive, bright and powerful and not dark.\""
+        }
+      ],
+      "kind": "chamber",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0026",
+              "endUid": "u0033",
+              "quote": "DM: And so after a week of training and meditation and prayer, um, the, the last evening before the Feast of Bhishma, so the night before, so next... We'll start the session the morning after the initiation. Um, he takes you down again to the... through the temple to the same room that you were in previously, down through the common area of the temple, um, down underground into this cavern where there's a pool of glowing water."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0035",
+              "endUid": "u0049",
+              "quote": "DM: Except that now the room is brightly lit, and you can see that there, instead of a dark room before, um, there is a, there is, um, a warm glow that comes from the rock all around this, the chamber that, um, all around the, the walls-\n\nUnknown: [clears throat]\n\nDM: ... that surround this pool of water in the middle of this chamber. They're just glowing sort of burnished red like the sunset. Basically walked into a, a, a living sunset almost, or sunrise. So everything is warm and, and bright.\n\nDM: Um, and he says, \"This is the power of Shakun's heart. With her here, the mesa is alive, bright and powerful and not dark.\""
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Dunmar",
+      "evidence": [
+        {
+          "startUid": "u0067",
+          "endUid": "u0075",
+          "quote": "DM: And as before, for a moment, everything is darkness until your vision adjusts and you're looking down now, um, at, um... You're, you're flying over the land of Dunmar from west to east. So starting in this tumbled scrubland of rock and grass and low hills near the border of Chardon, along the outskirts of the mountains that are Drikod's home, and then turning south along the river, um, passing across the plains and into the desert. Then a, turning west again to the Yuvanti Mountains, flying up, approaching the mountains and soaring over the steep high peaks of the mountains and looking at the, um, the savannas and to the, to the south, the lush jungles beyond the mountains."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md",
+      "kind": "region"
+    },
+    "p06": {
+      "label": "Forested land before Dunmar",
+      "evidence": [
+        {
+          "startUid": "u0088",
+          "endUid": "u0136",
+          "quote": "DM: And the land changes. And now before you, you see this vast forest covering the entire land. A m- massive forest, like huge trees, um, stretching as far as the eye can see. Um, the sound, occasional sound of singing in a strange language, dancing across the top of the trees. And the voice says again, \"This is what was here before.\"\n\nUnknown: Where's the mesa in the forest?\n\nDM: Uh, the, the mesa is, um... It's not, it's not quite directly in the center of the forest. Um, it's, it's a bit north of the center of the forest. The forest stretches south all the way down to the coast.\n\nKenzo: I, I guess what I'm asking is, like, where the mesa is now, you know, which obviously is, like-\n\nDM: Right.\n\nKenzo: ... significant. Like, when the forest was there, is there, like, a huge tree there?\n\nDM: Oh, yeah. You can still s-\n\nKenzo: Or like a-\n\nDM: So it, so it's not a mesa, y- but you can still see it. There is a, um... So, so you can still see a, uh... It's actually, um... What's the, like, inverse of a mesa? [laughs] It's like a, like a... It goes down, right?\n\nUnknown: Yeah.\n\nDM: It's like a, a big open sinkhole or something like that.\n\nUnknown: Uh-huh.\n\nDM: I don't know what the word for that is.\n\nKenzo: Like a valley, but like a...\n\nUnknown: Yeah.\n\nDM: But, like, sharp sided, but not like a canyon, because it's in the forest. There's trees growing up around it.\n\nUnknown: Interesting.\n\nDM: There's, there's actually one enormous tree that, like, is stretching, making this arch across, um, uh, from the side of the, of the, um, of the, of this, like, canyon wall around the pits to the, to the center. There's just these trees that... These, like, a massive, massive trees that grow. These, you know, 500-foot-long branches that form these arches that connect from the stone into the living tree. It's clearly a, a significant place, but it looks different. But you can recognize it. It's still this-\n\nUnknown: Wow.\n\nDM: ... still an obvious feature on the landscape."
+        }
+      ],
+      "kind": "vision landscape"
+    },
+    "p07": {
+      "label": "Childhood village and family camp",
+      "evidence": [
+        {
+          "startUid": "u0217",
+          "endUid": "u0264",
+          "quote": "DM: So this water continues, um, to do this th- to do this thing. Slowly it begins to dry out, contract a little. So every time it, like, pulses like this, the pool gets a little bit smaller, and a little bit smaller, and a little bit smaller. And you can see the mesa start to stretch up, like the land almost starting to invert itself. What was a, what was a sinkhole now beginning to rise up from the ground. Everything's all, um, you know, everything's pretty barren at this point. The land's just been washed clean. And as the, as this, um, process begins, continues, um, the voice says again, \"The land was and will be connected by the people who believe in it.\"\n\nDM: And the vision shifts.\n\nUnknown: [clears throat]\n\nDM: Out of this... You can sort of... It's almost like you're watching this now in the reflection of this pool as the mesa is growing up around the pool. And now you start to realize that the water that's left behind is forming itself into this pool of water that you saw before. That's the portal to Shakun's, um, realm. So this is, this seems to be forming as it is. And reflected in that you see walking, turning a corner on a narrow track high in the mountains, seeing small trails of smoke rising in the distance from the fires of a small village. And you can feel the anticipation of hearing again the sounds of hammers against stone, the soft patter of young feet running over stone, the background murmur of the life of the small village.\n\nDM: As you walk up this path approaching the village, you then see in this pool of water falling through the mountains, through the stone, emerging on an open plain, riding fast on a horse, um, your, a, a companion, a, a, a, a young boy riding beside you. Both of you, you and this boy running, racing across the plains, laughing at how fast you are going, looking around at home. Arriving in camp. Sitting down as the sun sets, talking to your family, acknowledging the land that supports you, that protects you, that provides for you. And then watching as the sun sets into the night sky full of stars, clear and bright, and a sense of calm then washes over you as for a moment you feel the sense of profound peace, and everything slows.\n\nDM: And you come back now to this pool of water, and you can see the lines of energy that are starting to run out from the, um, running out from this, this, this pool and that start to gather and start to pull themselves together to form a fibrous mass in the center of the mesa. And it's somehow your energy, your, um, connection, your, the, the sort of echoes of the land, of your home, of, of peace and your emotions that settle on you that are also somehow pulled into this fibrous mass that's growing and forming into stone.\n\nDM: Um, and somehow also the childhood of- The woman who was at the center of the mesa, who now you see Shakun forming around the stone. When she takes it, she then reaches into the, her translucent body and pulls out the heart and lays down. And as she lays down, you can see the mesa forming around her."
+        }
+      ],
+      "kind": "vision landscape"
+    },
+    "p08": {
+      "label": "Kenzo’s dream with Rai",
+      "evidence": [
+        {
+          "startUid": "u0479",
+          "endUid": "u0530",
+          "quote": "Kenzo: Okay. So sorry I didn't text back. That was like fucking awesome, though. That whole stretch was, like, really amazing. Um, so I think we left off when I directly asked Rai, like, \"How do I return this stone to you?\"\n\nDM: Yeah.\n\nKenzo: And then he was like, \"This hasn't happened yet.\"\n\nDM: Yeah.\n\nKenzo: Like, we're in a place right now where there is no time, and it's sort of like future past events. It's all kind of merged together.\n\nDM: Yeah.\n\nKenzo: And, um, what w- and what was, what was the last thing?\n\nDM: And then he, as he was speaking, he... You, you could see this. So there's been this, like, pale green light that's spreading out from his hand that is, like, in... So remember the two giants fighting?\n\nKenzo: Yeah, yeah, yeah.\n\nDM: And the pale green light is, like, encapsulating and, like, protecting and shielding everybody from the thing he was fighting.\n\nKenzo: The, the human, the, the humanoid.\n\nDM: The human one, yeah.\n\nKenzo: Yeah. Uh-huh.\n\nDM: And then as, as you speak and you see the ja- as you see his hand shatter into five pieces, the shield also fades.\n\nKenzo: Got it. Got it. Okay. Okay. All right. Hmm. And what happens af- after... What caused the shattering? Is it obvious, like, what happens to it?\n\nDM: You holding up the jade and saying... You caused, you caused p- I mean, you didn't cause it to happen-\n\nKenzo: I caused it to shatter by holding it\n\nDM: ... in real life, but in the dream world, you holding it up caused it to shatter because you-\n\nKenzo: Got it. Got it\n\nDM: ... pulled it, you pulled that part of the world forward in time.\n\nKenzo: Got it, got it, got it. Okay. Okay. And, and what happened, what was Rai's reaction when the shattering happened? Like...\n\nDM: Uh, initially fascinated, and then as... So he was, he looks, he watches in fascination as his hand shatters and says, \"This has not happened yet. You bring a vision of a future yet to occur.\"\n\nKenzo: Yeah.\n\nDM: And then as the shield begins to crumble, his expression turns from fascination to... Rai is not somebody who would be afraid of anything, but I would say maybe angry or, like-\n\nKenzo: Concerned?\n\nDM: ... concerned. Um, like a sort of, \"No good's gonna come of this\" look."
+        }
+      ],
+      "vaultPath": "Cosmology/Dreamworld.md",
+      "kind": "dream landscape",
+      "note": "The Dreamworld identity is verified; the dream’s battle imagery does not establish physical travel to historical Drankor."
+    },
+    "p09": {
+      "label": "Desert outside Karawa",
+      "evidence": [
+        {
+          "startUid": "u0744",
+          "endUid": "u0753",
+          "quote": "DM: So at this point, Schwartz should be on soon, but, um, you know, if there's stuff... So we're gonna start, um, th- uh, the, like, at the end of this stretch of downtime, um, with the morning when after Drikod and Kenzo got initiated and after Delwath returns from his day and night in the desert. Um, if there's stuff that we wanna go back and do from before then, now would be a good time to do that, especially because Wellby has spent most of his downtime out with Havdar going back to Bas Udda."
+        }
+      ],
+      "kind": "region",
+      "note": "Delwath’s exact desert destination is not identified in this transcript."
+    },
+    "p10": {
+      "label": "Room for the mirror interrogation",
+      "evidence": [
+        {
+          "startUid": "u1732",
+          "endUid": "u1744",
+          "quote": "Wellby: ... Wellby walks into the back of the room and gives a nod and says, \"Oh, hey. This guy.\" You know, give a little wave to the orc and say, \"Hi, I'm here. I'm Wellby.\"\n\nDelwath: Oh, this is the hobgoblin. This is the hobgoblin, not the orc. Oh, this is the hobgoblin.\n\nUnknown: Oh, the hobgoblin.\n\nDelwath: Yeah. Who, who, um-\n\nUnknown: Still stands\n\nUnknown: ... disagreed with Cha'mutte-\n\nUnknown: Who, um\n\nDelwath: ... and was pushed into the mirror for his, for her pains ... pushed into the mirror for his, for her pains."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2154",
+              "endUid": "u2163",
+              "quote": "DM: So w- we'll say the same... This, this actually works out well, 'cause this is the same evening, the evening that Wellby returned to, um, or really afternoon that Wellby returned to Karawa. Later tonight, Delwath will go off and speak with Candrosa, and then we'll transition to the whole... We'll skip forward a few days, but, but this is the moment when you're all back together after having done some things before Drikod and Kenzo are initiated. Um, but when you had a chance to, to reconnect, and when Eudomes's mirror had finally recharged, um, a little bit faster than you expected given the proximity of magical energy here. So you hold up the soul lantern. So just as a reminder, so you have one question, what are you trying to see, and then you can have one person roll a wisdom check."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Mirror prison",
+      "evidence": [
+        {
+          "startUid": "u1408",
+          "endUid": "u1434",
+          "quote": "DM: Um, she is, uh... So you had seen her in the... You had seen her reflected in the soul, uh, in Eudomes' mirror as the first person that the, had been trapped, um, by the soul mirror. And she is dressed, um, as a, as a wizard as far as you can see. Like, even in this, in the mirror, right? She's wearing, like, a cloak that is decorated in arcane signs and symbols. Um, she has sort of reddish, uh, skin, um, like little flames painted around her eyes. And as you say this word and, and happen to guess her name after having only tried a, a handful of, um, of names, she turns, sees Delwath, and just kind of stares at you, kind of glowers at you.\n\nDelwath: [laughs] D- Delwath will, um, look at her and say in, um, I guess in hobgoblin, um—It's been a very long time you've been trapped in there.\n\nDM: I don't speak to elf scum. She turns her back on you.\n\nDelwath: I see you're enjoying, uh, your isolation. You're not bored? Would you not like some news of the world?"
+        }
+      ],
+      "kind": "extradimensional cell"
+    },
+    "p12": {
+      "label": "Agata’s hut",
+      "evidence": [
+        {
+          "startUid": "u2227",
+          "endUid": "u2242",
+          "quote": "DM: Um, so you hold up this, this lantern to the mirror, and as you're now getting used to, um, the mirror, the reflection of, of all of you kind of clustered around this mirror slowly fades. Um, and you see the, this, this, uh, soul lantern reflected, and the, the image shimmers a bit, and you see it now sitting in, uh, the interior of Agata's hut. So you're looking now again at this, at this inside of Agata's hut, the, the lantern sitting, um, sitting on, on the, on the table. And Agata has, um, in front of her, um, two orcs, hands tied behind their backs, um, disarmed. They look kind of, kind of raggedy, and she is pacing back and forth and- It looks like she's berating them. She kicks one, she steps on one and, and presses down, and she snaps her fingers and you see, um, Samerki, the, the, the oni, the, the blue giant walk in, in, in shrunken down, not in his giant form, in his human form, but he's still carrying this, this massive club."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair.md",
+      "kind": "hut"
+    },
+    "p13": {
+      "label": "Desert in the lantern vision",
+      "evidence": [
+        {
+          "startUid": "u2296",
+          "endUid": "u2307",
+          "quote": "DM: And a couple of times, interspersed with these images, like, the scene will slow down a little bit and you see the desert, the sky, like night sky out in the desert, um, Agata holding you the, the lantern, and, um, these flickering, um, spirits kind of dancing around you. And then, um, something will strike out, like, uh, off into the darkness beyond what you can see. But it seems like, basically like you're seeing an image of her using the magic of this lantern."
+        }
+      ],
+      "kind": "vision landscape"
+    },
+    "p14": {
+      "label": "Garret’s caravan in the lantern vision",
+      "evidence": [
+        {
+          "startUid": "u2308",
+          "endUid": "u2331",
+          "quote": "DM: The one, the one thing that you do note is you do actually now see again, um, uh, or I guess you only h- you only heard it described. You see the scene when Agata attacks, um, Garrett Tealeaf's caravan.\n\nDM: So it's a, it's a attack at night, and she, um, as she, uh, flies in on the giant fly, you, you can see looking down below you, um, the, um, the scene of the, of the caravan across and, like, you know, the, the or- the, um... Samerki is flying in and sort of, you know, he is wreaking havoc. You know, she's been, um, clearly been, like, casting spells or doing something right before the scene shifts. Um, and then you can see coming out of this mirror, as if it's been, like, being stretched out from the mirror, like an undead spirit forming and going to attack the h- the hobgoblins. And then a minute later-\n\nUnknown: The-\n\nDM: ... another one\n\nDelwath: Agata the halflings\n\nDM: Sorry, the halflings. And these undead spirits just, um, leap forward into the darkness, like slashing and tearing apart, um, these, these halflings until she lands on her fly next to, next to Garrett and like points at him and, and beckons, like crooks her finger, and then picks him up and flies off."
+        }
+      ],
+      "kind": "caravan camp"
+    },
+    "p15": {
+      "label": "Festival camps on the plains",
+      "evidence": [
+        {
+          "startUid": "u3441",
+          "endUid": "u3462",
+          "quote": "DM: Okay, so going back. So the Feast of Bhishma in Dunmari tradition is a two-day festival that starts with this solemn morning of prayer and remembrance, a time to reflect on those who have gone before to tell their stories and to reminisce about memories of them, revisit those who now dwell in the better realm with the gods.\n\nDM: And it's often accompanied by people sort of making, they'll make little sort of carved statues or mementos, sometimes out of wood or shaped out of clay or sometimes sculpted out of a sweet honey candy that people make for the festival.\n\nDM: And so the festival begins on this kind of solemn note and these morning prayers start. And that's what interrupts your conversation is hearing the beginning of these morning prayers echoing from the oasis, from the temple, just from, it's not really a formal religious thing.\n\nDM: Like people aren't, it's not like there's a large crowd gathered at the temple of Shakun or at the temple of the five siblings in town either. It's more of family groups gathered together. And so you see people start to collect little campsites, these little dwellings that people make on the plains.\n\nDM: People are getting up. You started, you were having your breakfast very early pre-dawn, but now people are getting up and the sounds of these prayers are starting to echo across the plains. And you can hear the drift of conversation as people will be going around as they're having their sort of sparse breakfast in this morning, telling stories, especially about those who have died in the past year."
+        },
+        {
+          "startUid": "u3522",
+          "endUid": "u3535",
+          "quote": "DM: And you've been invited to, um, many, many tables among the citizens of Karawa. You've been invited to, um, Ikram's table. You've been invited to Candrosa's, to Havdar's, to, um, Alesh's. You've been invited to just many people who just see you on the street are like, \"W- will you come celebrate with us?\" Um, Cintra and Sura have not invited you to their tables. You are... They seem to be maybe talking to each other or just not the quite the social and open type. But, um, if you would like to join any of these people for the meal, you are certainly welcome. You're under no obligation. [laughs]"
+        }
+      ],
+      "kind": "festival grounds",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2394",
+              "endUid": "u2404",
+              "quote": "DM: So as the sun rises on the bustling, rebuilding village of Karawa, you, um, Seeker, Da- or Seeker, um, Kenzo, Drikod, and Wellby, um, find yourself gathered for a simple breakfast on the morning of the first day of the Feast of Bhishma. Drikod and Kenzo have just last night been initiated into the Mystai of Shakun officially. Wellby's been back for, for a few days. Um, Seeker has, uh, been around the whole time studying objects and touring the mesa and things like that."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Ikram’s festival table",
+      "evidence": [
+        {
+          "startUid": "u3776",
+          "endUid": "u3779",
+          "quote": "DM: So you're now hanging out at Ikram, at Ikram's, right? There's bonfires, there's a bunch of, um, like honey cake and, and various, um, traditional desserts that are served, and everybody sort of... The music breaks out, everybody's dancing."
+        }
+      ],
+      "kind": "festival table",
+      "note": "The transcript identifies Ikram’s gathering and table; it does not establish entry to the caravanserai building.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3522",
+              "endUid": "u3535",
+              "quote": "DM: And you've been invited to, um, many, many tables among the citizens of Karawa. You've been invited to, um, Ikram's table. You've been invited to Candrosa's, to Havdar's, to, um, Alesh's. You've been invited to just many people who just see you on the street are like, \"W- will you come celebrate with us?\" Um, Cintra and Sura have not invited you to their tables. You are... They seem to be maybe talking to each other or just not the quite the social and open type. But, um, if you would like to join any of these people for the meal, you are certainly welcome. You're under no obligation. [laughs]"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Temple conference room",
+      "evidence": [
+        {
+          "startUid": "u3809",
+          "endUid": "u3822",
+          "quote": "DM: So a, a, a few, a few little things that happen here before we, um, before we do goodbyes and you set off on your journey. The morning of the, of the second day of the festival, after the party, when, um, you know, the town is quiet, people aren't, aren't... You know, most people aren't up yet, um, one of Havdar's messengers comes to wake you and says, \"Sura would like to speak to you for a moment. Will you follow me?\" So Sura has not made an appearance yet, but this messenger leads you into the temple, where Sura's sitting in the same conference room that you've talked to Candrosa many times. Candrosa is not to be seen."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u3809",
+              "endUid": "u3822",
+              "quote": "DM: So a, a, a few, a few little things that happen here before we, um, before we do goodbyes and you set off on your journey. The morning of the, of the second day of the festival, after the party, when, um, you know, the town is quiet, people aren't, aren't... You know, most people aren't up yet, um, one of Havdar's messengers comes to wake you and says, \"Sura would like to speak to you for a moment. Will you follow me?\" So Sura has not made an appearance yet, but this messenger leads you into the temple, where Sura's sitting in the same conference room that you've talked to Candrosa many times. Candrosa is not to be seen."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Temple steps by the oasis",
+      "evidence": [
+        {
+          "startUid": "u4299",
+          "endUid": "u4314",
+          "quote": "DM: So he goes off. Um, as the day comes to a close, uh, the festival wraps up. You all, um, begin to get ready for your respective journeys. Um, as you're all planning on leaving in the morning, Sura emerges, and she, um... Uh, there's a commotion, right? As she sort of steps out of the temple and, and people have been gathering near the oasis. But, you know, as she, um, you know, as she sort of makes, makes her appearance standing on the steps of this temple, like, news travels like wildfire. And there's been, there have been rumors before, um, but... So, so people were sort of prepared."
+        }
+      ],
+      "kind": "temple grounds",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u4299",
+              "endUid": "u4314",
+              "quote": "DM: So he goes off. Um, as the day comes to a close, uh, the festival wraps up. You all, um, begin to get ready for your respective journeys. Um, as you're all planning on leaving in the morning, Sura emerges, and she, um... Uh, there's a commotion, right? As she sort of steps out of the temple and, and people have been gathering near the oasis. But, you know, as she, um, you know, as she sort of makes, makes her appearance standing on the steps of this temple, like, news travels like wildfire. And there's been, there have been rumors before, um, but... So, so people were sort of prepared."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Living stone forest inside the mesa",
+      "evidence": [
+        {
+          "startUid": "u3266",
+          "endUid": "u3268",
+          "quote": "Seeker: The inner chamber of the mesa was quite interesting as well. There's a whole sort of stone forest that they use to harvest their healing potions. Very beautiful place."
+        }
+      ],
+      "kind": "inner chamber",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u3266",
+              "endUid": "u3268",
+              "quote": "Seeker: The inner chamber of the mesa was quite interesting as well. There's a whole sort of stone forest that they use to harvest their healing potions. Very beautiful place."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Tokra",
+      "evidence": [
+        {
+          "startUid": "u4579",
+          "endUid": "u4581",
+          "quote": "DM: So as you all are leaving, you know, saying your goodbyes as you leave Karawa in the morning, Drikod heading north, the four of you heading west towards Tokra, um, Cintra waves a last goodbye, Jumi at her side, looking at you all in gratitude and thanks."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "kind": "settlement"
+    },
+    "p21": {
+      "label": "Drikod’s mountain home",
+      "evidence": [
+        {
+          "startUid": "u4500",
+          "endUid": "u4514",
+          "quote": "Kenzo: How many days' travel to, to home for you?\n\nDrikod: Many days, but easy traveling. Easier than what we have done the past few weeks. I think the roads will be much safer now.\n\nUnknown: What is your-\n\nDrikod: I, I miss, I miss my villages. I miss my people. It's hot and dry here.\n\nUnknown: What is your plan upon your return home?\n\nDrikod: To smell the mountains. To hear the snow. To tell the, to tell the elders that we should be safe for a little longer. The villages are more connected than we knew, and what goes on outside of the mountain impacts us. I imagine we'll be more involved."
+        }
+      ],
+      "kind": "mountain village",
+      "note": "The transcript describes the destination without naming it; the marker establishes departure north, not arrival."
+    },
+    "p22": {
+      "label": "Alesh’s festival table",
+      "evidence": [
+        {
+          "startUid": "u3522",
+          "endUid": "u3535",
+          "quote": "DM: And you've been invited to, um, many, many tables among the citizens of Karawa. You've been invited to, um, Ikram's table. You've been invited to Candrosa's, to Havdar's, to, um, Alesh's. You've been invited to just many people who just see you on the street are like, \"W- will you come celebrate with us?\" Um, Cintra and Sura have not invited you to their tables. You are... They seem to be maybe talking to each other or just not the quite the social and open type. But, um, if you would like to join any of these people for the meal, you are certainly welcome. You're under no obligation. [laughs]"
+        }
+      ],
+      "kind": "festival table",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3522",
+              "endUid": "u3535",
+              "quote": "DM: And you've been invited to, um, many, many tables among the citizens of Karawa. You've been invited to, um, Ikram's table. You've been invited to Candrosa's, to Havdar's, to, um, Alesh's. You've been invited to just many people who just see you on the street are like, \"W- will you come celebrate with us?\" Um, Cintra and Sura have not invited you to their tables. You are... They seem to be maybe talking to each other or just not the quite the social and open type. But, um, if you would like to join any of these people for the meal, you are certainly welcome. You're under no obligation. [laughs]"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0012"
+      },
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "reading": "Kenzo and Drikod spend their downtime training in Karawa.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0012",
+          "quote": "DM: So just jump right in. Um, so both of you have spent most of the... Both Drikod and Kenzo have spent most of the, the week, 10 days that you've, that you've all been just kind of hanging out in Karawa, studying and, and praying and, you know, every day, um, learning a little bit more about the, the history of Shakun and the sort of, um, mythos of her and her power, and also practicing and strengthening your connection to this web of power that, um, that maintains this, this defense of Dunmar. So it's a lot of, been a lot of like meditation and, um, just spending time sort of focusing on how power flows through this network of people."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0026",
+        "endUid": "u0033"
+      },
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "reading": "Candrosa leads the initiates through the temple and down into the pool cavern.",
+      "evidence": [
+        {
+          "startUid": "u0026",
+          "endUid": "u0033",
+          "quote": "DM: And so after a week of training and meditation and prayer, um, the, the last evening before the Feast of Bhishma, so the night before, so next... We'll start the session the morning after the initiation. Um, he takes you down again to the... through the temple to the same room that you were in previously, down through the common area of the temple, um, down underground into this cavern where there's a pool of glowing water."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0067",
+        "endUid": "u0096"
+      },
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "reading": "The initiates see Dunmar from above and its earlier forested landscape in the ritual vision.",
+      "evidence": [
+        {
+          "startUid": "u0067",
+          "endUid": "u0096",
+          "quote": "DM: And as before, for a moment, everything is darkness until your vision adjusts and you're looking down now, um, at, um... You're, you're flying over the land of Dunmar from west to east. So starting in this tumbled scrubland of rock and grass and low hills near the border of Chardon, along the outskirts of the mountains that are Drikod's home, and then turning south along the river, um, passing across the plains and into the desert. Then a, turning west again to the Yuvanti Mountains, flying up, approaching the mountains and soaring over the steep high peaks of the mountains and looking at the, um, the savannas and to the, to the south, the lush jungles beyond the mountains.\n\nUnknown: [clears throat]\n\nDM: And as you fly across this land, you can, your, you can feel yourself being, being buoyed up by some presence, and it's, and you're circling around the mesa basically, which is at the center of this land. And as you circle around, the land becomes almost a blur almost. Um, the plains, the, the tall grasses of the, of the north, the deserts. Um, and you dr- as you drift higher and higher, um, you hear a voice, maybe Candrosa's, you're not entirely sure, um, that says, \"Look to the past.\"\n\nDM: And the land changes. And now before you, you see this vast forest covering the entire land. A m- massive forest, like huge trees, um, stretching as far as the eye can see. Um, the sound, occasional sound of singing in a strange language, dancing across the top of the trees. And the voice says again, \"This is what was here before.\""
+        }
+      ],
+      "mode": "vision",
+      "place": "p06",
+      "observerPlace": "p04",
+      "context": "vision"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0217",
+        "endUid": "u0264"
+      },
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "reading": "The vision blends the mountain-village memory with Shakun’s childhood ride and family camp.",
+      "evidence": [
+        {
+          "startUid": "u0217",
+          "endUid": "u0264",
+          "quote": "DM: So this water continues, um, to do this th- to do this thing. Slowly it begins to dry out, contract a little. So every time it, like, pulses like this, the pool gets a little bit smaller, and a little bit smaller, and a little bit smaller. And you can see the mesa start to stretch up, like the land almost starting to invert itself. What was a, what was a sinkhole now beginning to rise up from the ground. Everything's all, um, you know, everything's pretty barren at this point. The land's just been washed clean. And as the, as this, um, process begins, continues, um, the voice says again, \"The land was and will be connected by the people who believe in it.\"\n\nDM: And the vision shifts.\n\nUnknown: [clears throat]\n\nDM: Out of this... You can sort of... It's almost like you're watching this now in the reflection of this pool as the mesa is growing up around the pool. And now you start to realize that the water that's left behind is forming itself into this pool of water that you saw before. That's the portal to Shakun's, um, realm. So this is, this seems to be forming as it is. And reflected in that you see walking, turning a corner on a narrow track high in the mountains, seeing small trails of smoke rising in the distance from the fires of a small village. And you can feel the anticipation of hearing again the sounds of hammers against stone, the soft patter of young feet running over stone, the background murmur of the life of the small village.\n\nDM: As you walk up this path approaching the village, you then see in this pool of water falling through the mountains, through the stone, emerging on an open plain, riding fast on a horse, um, your, a, a companion, a, a, a, a young boy riding beside you. Both of you, you and this boy running, racing across the plains, laughing at how fast you are going, looking around at home. Arriving in camp. Sitting down as the sun sets, talking to your family, acknowledging the land that supports you, that protects you, that provides for you. And then watching as the sun sets into the night sky full of stars, clear and bright, and a sense of calm then washes over you as for a moment you feel the sense of profound peace, and everything slows.\n\nDM: And you come back now to this pool of water, and you can see the lines of energy that are starting to run out from the, um, running out from this, this, this pool and that start to gather and start to pull themselves together to form a fibrous mass in the center of the mesa. And it's somehow your energy, your, um, connection, your, the, the sort of echoes of the land, of your home, of, of peace and your emotions that settle on you that are also somehow pulled into this fibrous mass that's growing and forming into stone.\n\nDM: Um, and somehow also the childhood of- The woman who was at the center of the mesa, who now you see Shakun forming around the stone. When she takes it, she then reaches into the, her translucent body and pulls out the heart and lays down. And as she lays down, you can see the mesa forming around her."
+        }
+      ],
+      "mode": "vision",
+      "place": "p07",
+      "observerPlace": "p04",
+      "context": "vision"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0282",
+        "endUid": "u0293"
+      },
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "reading": "The initiates return to awareness at the pool cavern.",
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0293",
+          "quote": "DM: And as your eyes snap open, standing in the fire, the blue fire of this water, not wet, seeing now the ref- the reflection in this pool, the images that you've seen b- that you saw once before, the, the images of, of the village track in the mountains, of running across the stars, and then, uh, running across the plains of stars. And then many, many, many others.\n\nDM: Camps, um, tending horses, praying, a particularly delicious food, snuggling with your parents. Just images, and images, and images of what you realize must be the memories or the, the moments of peace and happiness of all the other Mystai that you are now connected to reflected in this pool as you stand up. And then Candrosa nods to you and says, \"Welcome, my friends.\""
+        }
+      ],
+      "place": "p04",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "l02"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0479",
+        "endUid": "u0530"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo’s resumed dream puts him with Rai amid symbolic conflict; embodied location is not restated.",
+      "evidence": [
+        {
+          "startUid": "u0479",
+          "endUid": "u0530",
+          "quote": "Kenzo: Okay. So sorry I didn't text back. That was like fucking awesome, though. That whole stretch was, like, really amazing. Um, so I think we left off when I directly asked Rai, like, \"How do I return this stone to you?\"\n\nDM: Yeah.\n\nKenzo: And then he was like, \"This hasn't happened yet.\"\n\nDM: Yeah.\n\nKenzo: Like, we're in a place right now where there is no time, and it's sort of like future past events. It's all kind of merged together.\n\nDM: Yeah.\n\nKenzo: And, um, what w- and what was, what was the last thing?\n\nDM: And then he, as he was speaking, he... You, you could see this. So there's been this, like, pale green light that's spreading out from his hand that is, like, in... So remember the two giants fighting?\n\nKenzo: Yeah, yeah, yeah.\n\nDM: And the pale green light is, like, encapsulating and, like, protecting and shielding everybody from the thing he was fighting.\n\nKenzo: The, the human, the, the humanoid.\n\nDM: The human one, yeah.\n\nKenzo: Yeah. Uh-huh.\n\nDM: And then as, as you speak and you see the ja- as you see his hand shatter into five pieces, the shield also fades.\n\nKenzo: Got it. Got it. Okay. Okay. All right. Hmm. And what happens af- after... What caused the shattering? Is it obvious, like, what happens to it?\n\nDM: You holding up the jade and saying... You caused, you caused p- I mean, you didn't cause it to happen-\n\nKenzo: I caused it to shatter by holding it\n\nDM: ... in real life, but in the dream world, you holding it up caused it to shatter because you-\n\nKenzo: Got it. Got it\n\nDM: ... pulled it, you pulled that part of the world forward in time.\n\nKenzo: Got it, got it, got it. Okay. Okay. And, and what happened, what was Rai's reaction when the shattering happened? Like...\n\nDM: Uh, initially fascinated, and then as... So he was, he looks, he watches in fascination as his hand shatters and says, \"This has not happened yet. You bring a vision of a future yet to occur.\"\n\nKenzo: Yeah.\n\nDM: And then as the shield begins to crumble, his expression turns from fascination to... Rai is not somebody who would be afraid of anything, but I would say maybe angry or, like-\n\nKenzo: Concerned?\n\nDM: ... concerned. Um, like a sort of, \"No good's gonna come of this\" look."
+        },
+        {
+          "startUid": "u0531",
+          "endUid": "u0548",
+          "quote": "Kenzo: Got it. Got it. So a- as that's happening and I'm noticing him do that, I h- I hold up the piece and I ask him, \"How do I reunite the shield?\"\n\nDM: I do not know how. He doesn't know how. He doesn't know how this happened because he's not in the future, so he doesn't, he can't explain to you how to-\n\nKenzo: Mm-hmm\n\nDM: ... solve it.\n\nDM: Um, he says, \"I wish I could tell you, but, but I am not where you are yet. Time flows in unpredictable ways here. The me you see and that,\" pointing at the piece of, of jade that you're holding, \"come from different parts of the stream of time. You must find, you must find what did this in your time to understand how to undo it.\""
+        }
+      ],
+      "mode": "vision",
+      "place": "p08",
+      "context": "vision"
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u1394",
+        "endUid": "u1407"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Drikod"
+      ],
+      "reading": "The group interrogates the mirror in an unspecified room in Karawa; Wellby joins after the conversation begins.",
+      "evidence": [
+        {
+          "startUid": "u1394",
+          "endUid": "u1434",
+          "quote": "DM: Um, and after Well- or Seeker and Delwath spend some time, um, together, uh, working on the mirror, um, after you realize this command ability, um, that evening, while you're all sort of hanging around together, Delwath just starts listing off names. Like, say the command word, try a name, say the command word, try a name, figuring how many hobgoblin names can there, can there actually be. Um, when, um, about the fifth name or so, surprisingly, um, Revaka, this, uh, this woman appears, this female hobgoblin who, who you had seen before. Um, a...\n\nDM: Um, she is, uh... So you had seen her in the... You had seen her reflected in the soul, uh, in Eudomes' mirror as the first person that the, had been trapped, um, by the soul mirror. And she is dressed, um, as a, as a wizard as far as you can see. Like, even in this, in the mirror, right? She's wearing, like, a cloak that is decorated in arcane signs and symbols. Um, she has sort of reddish, uh, skin, um, like little flames painted around her eyes. And as you say this word and, and happen to guess her name after having only tried a, a handful of, um, of names, she turns, sees Delwath, and just kind of stares at you, kind of glowers at you.\n\nDelwath: [laughs] D- Delwath will, um, look at her and say in, um, I guess in hobgoblin, um—It's been a very long time you've been trapped in there.\n\nDM: I don't speak to elf scum. She turns her back on you.\n\nDelwath: I see you're enjoying, uh, your isolation. You're not bored? Would you not like some news of the world?"
+        },
+        {
+          "startUid": "u1732",
+          "endUid": "u1744",
+          "quote": "Wellby: ... Wellby walks into the back of the room and gives a nod and says, \"Oh, hey. This guy.\" You know, give a little wave to the orc and say, \"Hi, I'm here. I'm Wellby.\"\n\nDelwath: Oh, this is the hobgoblin. This is the hobgoblin, not the orc. Oh, this is the hobgoblin.\n\nUnknown: Oh, the hobgoblin.\n\nDelwath: Yeah. Who, who, um-\n\nUnknown: Still stands\n\nUnknown: ... disagreed with Cha'mutte-\n\nUnknown: Who, um\n\nDelwath: ... and was pushed into the mirror for his, for her pains ... pushed into the mirror for his, for her pains."
+        },
+        {
+          "startUid": "u2154",
+          "endUid": "u2163",
+          "quote": "DM: So w- we'll say the same... This, this actually works out well, 'cause this is the same evening, the evening that Wellby returned to, um, or really afternoon that Wellby returned to Karawa. Later tonight, Delwath will go off and speak with Candrosa, and then we'll transition to the whole... We'll skip forward a few days, but, but this is the moment when you're all back together after having done some things before Drikod and Kenzo are initiated. Um, but when you had a chance to, to reconnect, and when Eudomes's mirror had finally recharged, um, a little bit faster than you expected given the proximity of magical energy here. So you hold up the soul lantern. So just as a reminder, so you have one question, what are you trying to see, and then you can have one person roll a wisdom check."
+        }
+      ],
+      "place": "p10",
+      "context": "flashback"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1408",
+        "endUid": "u1434"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Drikod"
+      ],
+      "reading": "Revaka appears at the surface of the mirror while remaining its prisoner.",
+      "evidence": [
+        {
+          "startUid": "u1408",
+          "endUid": "u1434",
+          "quote": "DM: Um, she is, uh... So you had seen her in the... You had seen her reflected in the soul, uh, in Eudomes' mirror as the first person that the, had been trapped, um, by the soul mirror. And she is dressed, um, as a, as a wizard as far as you can see. Like, even in this, in the mirror, right? She's wearing, like, a cloak that is decorated in arcane signs and symbols. Um, she has sort of reddish, uh, skin, um, like little flames painted around her eyes. And as you say this word and, and happen to guess her name after having only tried a, a handful of, um, of names, she turns, sees Delwath, and just kind of stares at you, kind of glowers at you.\n\nDelwath: [laughs] D- Delwath will, um, look at her and say in, um, I guess in hobgoblin, um—It's been a very long time you've been trapped in there.\n\nDM: I don't speak to elf scum. She turns her back on you.\n\nDelwath: I see you're enjoying, uh, your isolation. You're not bored? Would you not like some news of the world?"
+        }
+      ],
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p10",
+      "observedActors": [
+        "Revaka"
+      ],
+      "context": "flashback"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1732",
+        "endUid": "u1744"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby enters the room during the interrogation.",
+      "evidence": [
+        {
+          "startUid": "u1732",
+          "endUid": "u1744",
+          "quote": "Wellby: ... Wellby walks into the back of the room and gives a nod and says, \"Oh, hey. This guy.\" You know, give a little wave to the orc and say, \"Hi, I'm here. I'm Wellby.\"\n\nDelwath: Oh, this is the hobgoblin. This is the hobgoblin, not the orc. Oh, this is the hobgoblin.\n\nUnknown: Oh, the hobgoblin.\n\nDelwath: Yeah. Who, who, um-\n\nUnknown: Still stands\n\nUnknown: ... disagreed with Cha'mutte-\n\nUnknown: Who, um\n\nDelwath: ... and was pushed into the mirror for his, for her pains ... pushed into the mirror for his, for her pains."
+        }
+      ],
+      "from": null,
+      "to": "p10",
+      "completion": "arrived",
+      "context": "flashback"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u2154",
+        "endUid": "u2163"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The reunited party examines the lantern in Karawa on the earlier evening; the precise viewing room is not restated.",
+      "evidence": [
+        {
+          "startUid": "u2154",
+          "endUid": "u2163",
+          "quote": "DM: So w- we'll say the same... This, this actually works out well, 'cause this is the same evening, the evening that Wellby returned to, um, or really afternoon that Wellby returned to Karawa. Later tonight, Delwath will go off and speak with Candrosa, and then we'll transition to the whole... We'll skip forward a few days, but, but this is the moment when you're all back together after having done some things before Drikod and Kenzo are initiated. Um, but when you had a chance to, to reconnect, and when Eudomes's mirror had finally recharged, um, a little bit faster than you expected given the proximity of magical energy here. So you hold up the soul lantern. So just as a reminder, so you have one question, what are you trying to see, and then you can have one person roll a wisdom check."
+        }
+      ],
+      "place": "p01",
+      "context": "flashback"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u2227",
+        "endUid": "u2242"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The lantern vision shows murders inside Agata’s hut.",
+      "evidence": [
+        {
+          "startUid": "u2227",
+          "endUid": "u2242",
+          "quote": "DM: Um, so you hold up this, this lantern to the mirror, and as you're now getting used to, um, the mirror, the reflection of, of all of you kind of clustered around this mirror slowly fades. Um, and you see the, this, this, uh, soul lantern reflected, and the, the image shimmers a bit, and you see it now sitting in, uh, the interior of Agata's hut. So you're looking now again at this, at this inside of Agata's hut, the, the lantern sitting, um, sitting on, on the, on the table. And Agata has, um, in front of her, um, two orcs, hands tied behind their backs, um, disarmed. They look kind of, kind of raggedy, and she is pacing back and forth and- It looks like she's berating them. She kicks one, she steps on one and, and presses down, and she snaps her fingers and you see, um, Samerki, the, the, the oni, the, the blue giant walk in, in, in shrunken down, not in his giant form, in his human form, but he's still carrying this, this massive club."
+        }
+      ],
+      "place": "p12",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Agata",
+        "Samerki"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u2296",
+        "endUid": "u2307"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The historical vision shifts to Agata using the lantern in the nighttime desert.",
+      "evidence": [
+        {
+          "startUid": "u2296",
+          "endUid": "u2307",
+          "quote": "DM: And a couple of times, interspersed with these images, like, the scene will slow down a little bit and you see the desert, the sky, like night sky out in the desert, um, Agata holding you the, the lantern, and, um, these flickering, um, spirits kind of dancing around you. And then, um, something will strike out, like, uh, off into the darkness beyond what you can see. But it seems like, basically like you're seeing an image of her using the magic of this lantern."
+        }
+      ],
+      "place": "p13",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "context": "vision"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2308",
+        "endUid": "u2331"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The vision shows Agata attacking Garret’s caravan and carrying him away.",
+      "evidence": [
+        {
+          "startUid": "u2308",
+          "endUid": "u2331",
+          "quote": "DM: The one, the one thing that you do note is you do actually now see again, um, uh, or I guess you only h- you only heard it described. You see the scene when Agata attacks, um, Garrett Tealeaf's caravan.\n\nDM: So it's a, it's a attack at night, and she, um, as she, uh, flies in on the giant fly, you, you can see looking down below you, um, the, um, the scene of the, of the caravan across and, like, you know, the, the or- the, um... Samerki is flying in and sort of, you know, he is wreaking havoc. You know, she's been, um, clearly been, like, casting spells or doing something right before the scene shifts. Um, and then you can see coming out of this mirror, as if it's been, like, being stretched out from the mirror, like an undead spirit forming and going to attack the h- the hobgoblins. And then a minute later-\n\nUnknown: The-\n\nDM: ... another one\n\nDelwath: Agata the halflings\n\nDM: Sorry, the halflings. And these undead spirits just, um, leap forward into the darkness, like slashing and tearing apart, um, these, these halflings until she lands on her fly next to, next to Garrett and like points at him and, and beckons, like crooks her finger, and then picks him up and flies off."
+        }
+      ],
+      "place": "p14",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "context": "vision",
+      "observedActors": [
+        "Agata",
+        "Samerki",
+        "Garret Tealeaf"
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u2394",
+        "endUid": "u2404"
+      },
+      "actors": [
+        "Kenzo",
+        "Drikod",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Four companions gather for the first festival breakfast among Karawa’s camps; Delwath joins on returning.",
+      "evidence": [
+        {
+          "startUid": "u2394",
+          "endUid": "u2404",
+          "quote": "DM: So as the sun rises on the bustling, rebuilding village of Karawa, you, um, Seeker, Da- or Seeker, um, Kenzo, Drikod, and Wellby, um, find yourself gathered for a simple breakfast on the morning of the first day of the Feast of Bhishma. Drikod and Kenzo have just last night been initiated into the Mystai of Shakun officially. Wellby's been back for, for a few days. Um, Seeker has, uh, been around the whole time studying objects and touring the mesa and things like that."
+        },
+        {
+          "startUid": "u3441",
+          "endUid": "u3462",
+          "quote": "DM: Okay, so going back. So the Feast of Bhishma in Dunmari tradition is a two-day festival that starts with this solemn morning of prayer and remembrance, a time to reflect on those who have gone before to tell their stories and to reminisce about memories of them, revisit those who now dwell in the better realm with the gods.\n\nDM: And it's often accompanied by people sort of making, they'll make little sort of carved statues or mementos, sometimes out of wood or shaped out of clay or sometimes sculpted out of a sweet honey candy that people make for the festival.\n\nDM: And so the festival begins on this kind of solemn note and these morning prayers start. And that's what interrupts your conversation is hearing the beginning of these morning prayers echoing from the oasis, from the temple, just from, it's not really a formal religious thing.\n\nDM: Like people aren't, it's not like there's a large crowd gathered at the temple of Shakun or at the temple of the five siblings in town either. It's more of family groups gathered together. And so you see people start to collect little campsites, these little dwellings that people make on the plains.\n\nDM: People are getting up. You started, you were having your breakfast very early pre-dawn, but now people are getting up and the sounds of these prayers are starting to echo across the plains. And you can hear the drift of conversation as people will be going around as they're having their sort of sparse breakfast in this morning, telling stories, especially about those who have died in the past year."
+        }
+      ],
+      "place": "p15"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2424",
+        "endUid": "u2429"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath returns from the desert and rejoins the party at breakfast.",
+      "evidence": [
+        {
+          "startUid": "u0744",
+          "endUid": "u0753",
+          "quote": "DM: So at this point, Schwartz should be on soon, but, um, you know, if there's stuff... So we're gonna start, um, th- uh, the, like, at the end of this stretch of downtime, um, with the morning when after Drikod and Kenzo got initiated and after Delwath returns from his day and night in the desert. Um, if there's stuff that we wanna go back and do from before then, now would be a good time to do that, especially because Wellby has spent most of his downtime out with Havdar going back to Bas Udda."
+        },
+        {
+          "startUid": "u2424",
+          "endUid": "u2429",
+          "quote": "DM: Delwath, you can see Delwath across the, across the desert be- walking into town.\n\nKenzo: Am I... I soul sight him as soon as I'm able to.\n\nDelwath: Okay. Um. So Del's walking sort of slowly towards you.\n\nUnknown: The,\n\nUnknown: he..."
+        },
+        {
+          "startUid": "u2470",
+          "endUid": "u2490",
+          "quote": "Wellby: Why do you ask, Kenzo?\n\nUnknown: Just making sure.\n\nDelwath: Okay. So Delwath seems... He actually, as, as he walks into the, um, fire, he sort of... Or, uh, walks into the, the group of you, he seems, um, he seems almost like...\n\nDelwath: Oh, I, well, I should add this. You would have noticed this first, Kenzo, too.\n\nDelwath: But it s- almost seems like a weight. He seems more... He's, uh... There's, like, Del- Delwath's very strong personality, like, he's, he's, he has a high charisma, right? He's very, um... But there's always this, like, there's always been before this hint of, of, um, kind of, not panic, but just, like, this, this dark kind of presence that you would feel. Like, there's something that was upsetting him or something that was driving him, um, in a way that kind of always made him seem a little more off and less friendly than you might have expected from his initial demeanor. But it almost seems like that's gone. It's almost like maybe a, you, you, you get this sense that a weight has been lifted."
+        }
+      ],
+      "from": "p09",
+      "to": "p15",
+      "completion": "arrived"
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u3266",
+        "endUid": "u3268"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "During downtime Seeker toured the living stone forest in the mesa’s inner chamber.",
+      "evidence": [
+        {
+          "startUid": "u3266",
+          "endUid": "u3268",
+          "quote": "Seeker: The inner chamber of the mesa was quite interesting as well. There's a whole sort of stone forest that they use to harvest their healing potions. Very beautiful place."
+        }
+      ],
+      "place": "p19",
+      "context": "flashback"
+    },
+    {
+      "id": "l17",
+      "type": "presence",
+      "source": {
+        "startUid": "u3516",
+        "endUid": "u3535"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The festival’s afternoon meals take place at family tables around Karawa, including the conversation at Alesh’s table.",
+      "evidence": [
+        {
+          "startUid": "u3516",
+          "endUid": "u3535",
+          "quote": "DM: But as the day turns from morning into afternoon, um, the nature of the preparation begins to shift a little bit. People start preparing for the meal. There's a big meal that, um, a ritual meal, meal before sunset in the afternoon, where the story of Bhishma is told. After, after the, the people of the community have had their stories acknowledged, then the story of Bhishma is told.\n\nDM: And you've been invited to, um, many, many tables among the citizens of Karawa. You've been invited to, um, Ikram's table. You've been invited to Candrosa's, to Havdar's, to, um, Alesh's. You've been invited to just many people who just see you on the street are like, \"W- will you come celebrate with us?\" Um, Cintra and Sura have not invited you to their tables. You are... They seem to be maybe talking to each other or just not the quite the social and open type. But, um, if you would like to join any of these people for the meal, you are certainly welcome. You're under no obligation. [laughs]"
+        },
+        {
+          "startUid": "u3587",
+          "endUid": "u3626",
+          "quote": "DM: Um, so as the afternoon progresses into the feast, you sort of socialize. You're, you know, Delwath in particular is sort of going around to everybody. Alesh's, like, super excited to see you and sad that you're leaving the next day, 'cause she's barely had a chance... or, or in two days, 'cause she's barely had a chance to talk to you. But eagerly tells you the story of the thousand miles that she's read- rode over the past month, and how she's traveled from here to Tokra and here to Tokra, and then north and then south, and then back to Tokra. And now she's back here, and now she's really looking forward to riding somewhere else soon.\n\nDM: But is also super excited to hear your stories and, and just, you know, chatting and, and trying to understand the details of all the history that you've, that you've, um, spoken to. Ikram's, you know, his usual cheerful, friendly self. He's got probably the most well set table of everybody. Um-\n\nKenzo: Definitely close the night at Ikram's table.\n\nDM: Yeah. Um-\n\nUnknown: That's the last table\n\nDM: You, you are-\n\nUnknown: Oh, and, and it's-\n\nDM: You are with-\n\nUnknown: Sorry.\n\nDM: Yeah.\n\nKenzo: Sorry, really quick. Um, A- Alesh, too, can we like, uh, just, you know, what we were talking the last just like, you know, like what's the best way to get to Tokra, shit to avoid, da, da, da, for the journey? And then also, like she's probably the most recent person that knows stuff that happened there. And you know, again, um, you know, Kenzo was there for a while, so like-\n\nDM: Yeah\n\nKenzo: ... Kenzo like asks her like, \"Ah, what's going on with that tavern? What's going on with it?\" You know, so kind of just tries to understand the latest.\n\nUnknown: So.\n\nDM: Okay.\n\nDM: You know, I didn't spend that much time in Tokra, actually. I was riding and riding, and I would mostly just be talking to people. I, it... I haven't ever been in a city that big before. It was so full of people. Like, even the outskirts were just covered in people. How do you... You lived there for five years. How do you, how do you handle all those people?"
+        }
+      ],
+      "place": "p22"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u3776",
+        "endUid": "u3779"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party accepts Ikram’s invitation and goes there for the evening celebration.",
+      "evidence": [
+        {
+          "startUid": "u3776",
+          "endUid": "u3779",
+          "quote": "DM: So you're now hanging out at Ikram, at Ikram's, right? There's bonfires, there's a bunch of, um, like honey cake and, and various, um, traditional desserts that are served, and everybody sort of... The music breaks out, everybody's dancing."
+        }
+      ],
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u3809",
+        "endUid": "u3822"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The next morning a messenger brings all five companions to Sura in the temple conference room.",
+      "evidence": [
+        {
+          "startUid": "u3809",
+          "endUid": "u3822",
+          "quote": "DM: So a, a, a few, a few little things that happen here before we, um, before we do goodbyes and you set off on your journey. The morning of the, of the second day of the festival, after the party, when, um, you know, the town is quiet, people aren't, aren't... You know, most people aren't up yet, um, one of Havdar's messengers comes to wake you and says, \"Sura would like to speak to you for a moment. Will you follow me?\" So Sura has not made an appearance yet, but this messenger leads you into the temple, where Sura's sitting in the same conference room that you've talked to Candrosa many times. Candrosa is not to be seen."
+        }
+      ],
+      "from": null,
+      "to": "p17",
+      "completion": "arrived"
+    },
+    {
+      "id": "l20",
+      "type": "presence",
+      "source": {
+        "startUid": "u4079",
+        "endUid": "u4109"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the meeting with Sura, the party finds the desert scavenger in Karawa; the specific meeting place is unstated.",
+      "evidence": [
+        {
+          "startUid": "u4079",
+          "endUid": "u4109",
+          "quote": "DM: So you manage to track down this Dunmari, um, who's, uh, who is the one who supposedly found these books in the desert, and he's, he's, you know, he's looks kind of hung over. And he's like, \"Hey, I heard from my cousin you were looking for me. How can, how can I help such fancy people?\"\n\nUnknown: Where did you find these\n\nUnknown: three books?\n\nDM: Wh- which books?\n\nDelwath: I heard there was two you sold to a Chardonian man.\n\nDM: Oh. He looks at Seeker. Yes. Uh, those, that book. Yeah, I, I, I gave it to, to my cousin and he, and he, I guess he thought, uh, it looked like the sort of thing a, a, one of your people would enjoy. Is, is it... Have you used it? Has it... Have you written notes in it, or is it a, is it a nice journal?\n\nUnknown: Um,\n\nSeeker: It has been of great use to me indeed, and a source of much learning. Uh, I would love to know more of whence it came.\n\nDM: Hmm.\n\nDM: I, I, you know, I, I just found them out in the desert. Sometimes you find weird things.\n\nDelwath: W- where out in the desert?\n\nDM: Hmm, I...\n\nUnknown: N- nearby?\n\nDM: I, I, I'm not, not sure I remember exactly. It was-"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l21",
+      "type": "presence",
+      "source": {
+        "startUid": "u4299",
+        "endUid": "u4340"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Sura addresses the crowd from the temple steps by the oasis, with Havdar beside her.",
+      "evidence": [
+        {
+          "startUid": "u4299",
+          "endUid": "u4340",
+          "quote": "DM: So he goes off. Um, as the day comes to a close, uh, the festival wraps up. You all, um, begin to get ready for your respective journeys. Um, as you're all planning on leaving in the morning, Sura emerges, and she, um... Uh, there's a commotion, right? As she sort of steps out of the temple and, and people have been gathering near the oasis. But, you know, as she, um, you know, as she sort of makes, makes her appearance standing on the steps of this temple, like, news travels like wildfire. And there's been, there have been rumors before, um, but... So, so people were sort of prepared.\n\nDM: But this is the first, like, public appearance she's made. And she, she, you know, as p- as the crowds are gathering, she, she starts this p- speech about, um, you know, Greater Dunmar, about, about the people united, about, you know, the, how this is the beginning of a new era, how the evil works of the fae creature, Agata Dustmother, trouble us no longer, thanks to the brave heroes who came to our rescue.\n\nDM: Yet the long shadow of her evil will lies on the land still. She stole the future that we should have had, of a united people east and west, of a Dunmar greater than the sum of its parts. I will not let her steal this future forever. Gods willing, I intend to reclaim this future for us. Who is with me?\n\nDM: There's like a big, like everybody's excited, lots of people yelling, \"Yes.\" Um, and as she finishes the speech, um, you can see, you know, people starting to like file forward, and, and Havdar's standing there next to her, um, uh, now with the sword that you gave him. Um, and, uh, you know, there's a, there's a crowd that immediately starts to gather. It seems like most of the people in Karawa are pretty excited about this and, and, you know, are, are moving to, uh, s- if not m- mostly to swear themselves into her service, but many who are not warriors to, you know, just to acknowledge her and, and give thanks and, and welcome her back and, and give her their support."
+        }
+      ],
+      "place": "p18"
+    },
+    {
+      "id": "l22",
+      "type": "presence",
+      "source": {
+        "startUid": "u4341",
+        "endUid": "u4358"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party says farewell to Candrosa at the temple while Sura receives supporters.",
+      "evidence": [
+        {
+          "startUid": "u4341",
+          "endUid": "u4358",
+          "quote": "DM: And as this scene is, is going on, um, you quietly slip out to say goodbye to Candrosa before leaving first thing in the morning. And Candrosa is... He is... You've never seen him looking quite so relaxed and happy. You know, the entire time you've known him, mostly he's been consumed by worry and doubt.\n\nDM: And he says to you all as you, as you sort of come into the temple or he comes around the side to say goodbye to you while Sura is talking to all the people, \"You know, I am grateful beyond words for what you have done. I never imagined that we could have Karawa back, that we could have Shakun back. I... It's all thanks to you. Here, let me...\""
+        }
+      ],
+      "place": "p02",
+      "note": "The DM leaves open whether the exchange is inside the temple or around its side; this marker uses the temple at that broader scale."
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u4576",
+        "endUid": "u4593"
+      },
+      "actors": [
+        "Drikod"
+      ],
+      "reading": "Drikod leaves Karawa heading north toward his mountain home; no arrival is narrated.",
+      "evidence": [
+        {
+          "startUid": "u4576",
+          "endUid": "u4593",
+          "quote": "Drikod: Drikod lumbers away, walking north, right? Yeah, we're north.\n\nDM: Yeah.\n\nDM: So as you all are leaving, you know, saying your goodbyes as you leave Karawa in the morning, Drikod heading north, the four of you heading west towards Tokra, um, Cintra waves a last goodbye, Jumi at her side, looking at you all in gratitude and thanks.\n\nDM: And you can... She doesn't say anything, but you can sense maybe a little disappointment or sadness at your leaving, given how, um, important you were to her path back to, to Karawa. But she c- she waves out to you.\n\nDM: She's the only one out here as you're all leaving together early in the morning, m- most other people having, after the two days of the festival, like there's the, there's the party and then there's the day of rest, but most people then also need like a day of rest to recover from the day of rest. Um, she waves. \"Shakun goes with you, my friends. Be well,\" as you ride off. And that is where we'll stop."
+        }
+      ],
+      "from": "p01",
+      "to": "p21",
+      "completion": "underway",
+      "route": [
+        {
+          "reading": "Heads north."
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u4579",
+        "endUid": "u4593"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "The other four companions leave Karawa westward toward Tokra; no arrival is narrated.",
+      "evidence": [
+        {
+          "startUid": "u4579",
+          "endUid": "u4593",
+          "quote": "DM: So as you all are leaving, you know, saying your goodbyes as you leave Karawa in the morning, Drikod heading north, the four of you heading west towards Tokra, um, Cintra waves a last goodbye, Jumi at her side, looking at you all in gratitude and thanks.\n\nDM: And you can... She doesn't say anything, but you can sense maybe a little disappointment or sadness at your leaving, given how, um, important you were to her path back to, to Karawa. But she c- she waves out to you.\n\nDM: She's the only one out here as you're all leaving together early in the morning, m- most other people having, after the two days of the festival, like there's the, there's the party and then there's the day of rest, but most people then also need like a day of rest to recover from the day of rest. Um, she waves. \"Shakun goes with you, my friends. Be well,\" as you ride off. And that is where we'll stop."
+        }
+      ],
+      "from": "p01",
+      "to": "p20",
+      "completion": "underway",
+      "route": [
+        {
+          "reading": "Ride west toward Tokra."
+        }
+      ]
+    }
+  ]
+}

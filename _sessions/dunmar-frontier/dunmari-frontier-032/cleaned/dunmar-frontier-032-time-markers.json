@@ -1,0 +1,582 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-032",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-session.yaml",
+    "sessionYamlSha256": "ef29164de8ff2a3ebd2a077ac85e6d0e4f3378b7a0896925a52dd1bd7977b2cd",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-032/cleaned/dunmar-frontier-032-transcript.md",
+    "transcriptSha256": "db1fb31e6220b80b5320ba1d00502c4c1324ed77400ebf863415ab5856a04636",
+    "yamlDates": {
+      "start": "1748-06-09",
+      "end": "1748-06-20"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0012"
+      },
+      "reading": "About a week to ten days of downtime in Karawa, including Kenzo and Drikod’s training; not an exact elapsed count.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0012",
+          "quote": "DM: So just jump right in. Um, so both of you have spent most of the... Both Drikod and Kenzo have spent most of the, the week, 10 days that you've, that you've all been just kind of hanging out in Karawa, studying and, and praying and, you know, every day, um, learning a little bit more about the, the history of Shakun and the sort of, um, mythos of her and her power, and also practicing and strengthening your connection to this web of power that, um, that maintains this, this defense of Dunmar. So it's a lot of, been a lot of like meditation and, um, just spending time sort of focusing on how power flows through this network of people."
+        },
+        {
+          "startUid": "u0026",
+          "endUid": "u0033",
+          "quote": "DM: And so after a week of training and meditation and prayer, um, the, the last evening before the Feast of Bhishma, so the night before, so next... We'll start the session the morning after the initiation. Um, he takes you down again to the... through the temple to the same room that you were in previously, down through the common area of the temple, um, down underground into this cavern where there's a pool of glowing water."
+        },
+        {
+          "startUid": "u2405",
+          "endUid": "u2408",
+          "quote": "DM: But you haven't really seen much of each other in the past 10 days, um, not since you returned to Karawa from, with the treasure from Agata's lair and freed the Nayan Sura, who was once ex- the expected successor to the throne of Dunmar until she mysteriously vanished eight years ago. You haven't seen much of Sura over the past 10 days, although you've seen Havdar and a few others coming and going from the Temple of Shakun, where you know that she has been planning her next move."
+        }
+      ],
+      "duration": {
+        "min": 7,
+        "max": 10,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s approximate “week, 10 days” retrospective montage"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0026",
+        "endUid": "u0033"
+      },
+      "reading": "Initiation takes place on the evening before the first day of the Feast of Bhishma.",
+      "evidence": [
+        {
+          "startUid": "u0026",
+          "endUid": "u0033",
+          "quote": "DM: And so after a week of training and meditation and prayer, um, the, the last evening before the Feast of Bhishma, so the night before, so next... We'll start the session the morning after the initiation. Um, he takes you down again to the... through the temple to the same room that you were in previously, down through the common area of the temple, um, down underground into this cavern where there's a pool of glowing water."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Explicit narrated part of day",
+        "relative": {
+          "relation": "before",
+          "anchor": "first morning of the Feast of Bhishma"
+        }
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0067",
+        "endUid": "u0096"
+      },
+      "reading": "The initiation shifts into a vision of Dunmar and then the land’s distant past; historical duration is unspecified.",
+      "evidence": [
+        {
+          "startUid": "u0067",
+          "endUid": "u0096",
+          "quote": "DM: And as before, for a moment, everything is darkness until your vision adjusts and you're looking down now, um, at, um... You're, you're flying over the land of Dunmar from west to east. So starting in this tumbled scrubland of rock and grass and low hills near the border of Chardon, along the outskirts of the mountains that are Drikod's home, and then turning south along the river, um, passing across the plains and into the desert. Then a, turning west again to the Yuvanti Mountains, flying up, approaching the mountains and soaring over the steep high peaks of the mountains and looking at the, um, the savannas and to the, to the south, the lush jungles beyond the mountains.\n\nUnknown: [clears throat]\n\nDM: And as you fly across this land, you can, your, you can feel yourself being, being buoyed up by some presence, and it's, and you're circling around the mesa basically, which is at the center of this land. And as you circle around, the land becomes almost a blur almost. Um, the plains, the, the tall grasses of the, of the north, the deserts. Um, and you dr- as you drift higher and higher, um, you hear a voice, maybe Candrosa's, you're not entirely sure, um, that says, \"Look to the past.\"\n\nDM: And the land changes. And now before you, you see this vast forest covering the entire land. A m- massive forest, like huge trees, um, stretching as far as the eye can see. Um, the sound, occasional sound of singing in a strange language, dancing across the top of the trees. And the voice says again, \"This is what was here before.\""
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0241",
+        "endUid": "u0264"
+      },
+      "reading": "The childhood vision reaches Shakun’s sunset family camp after a mountain-village memory; this is a local vision clock.",
+      "evidence": [
+        {
+          "startUid": "u0241",
+          "endUid": "u0264",
+          "quote": "DM: As you walk up this path approaching the village, you then see in this pool of water falling through the mountains, through the stone, emerging on an open plain, riding fast on a horse, um, your, a, a companion, a, a, a, a young boy riding beside you. Both of you, you and this boy running, racing across the plains, laughing at how fast you are going, looking around at home. Arriving in camp. Sitting down as the sun sets, talking to your family, acknowledging the land that supports you, that protects you, that provides for you. And then watching as the sun sets into the night sky full of stars, clear and bright, and a sense of calm then washes over you as for a moment you feel the sense of profound peace, and everything slows.\n\nDM: And you come back now to this pool of water, and you can see the lines of energy that are starting to run out from the, um, running out from this, this, this pool and that start to gather and start to pull themselves together to form a fibrous mass in the center of the mesa. And it's somehow your energy, your, um, connection, your, the, the sort of echoes of the land, of your home, of, of peace and your emotions that settle on you that are also somehow pulled into this fibrous mass that's growing and forming into stone.\n\nDM: Um, and somehow also the childhood of- The woman who was at the center of the mesa, who now you see Shakun forming around the stone. When she takes it, she then reaches into the, her translucent body and pulls out the heart and lays down. And as she lays down, you can see the mesa forming around her."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "context": "vision",
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Explicit narrated part of day"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0282",
+        "endUid": "u0293"
+      },
+      "reading": "The initiates open their eyes and return to the temple initiation after the vision.",
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0293",
+          "quote": "DM: And as your eyes snap open, standing in the fire, the blue fire of this water, not wet, seeing now the ref- the reflection in this pool, the images that you've seen b- that you saw once before, the, the images of, of the village track in the mountains, of running across the stars, and then, uh, running across the plains of stars. And then many, many, many others.\n\nDM: Camps, um, tending horses, praying, a particularly delicious food, snuggling with your parents. Just images, and images, and images of what you realize must be the memories or the, the moments of peace and happiness of all the other Mystai that you are now connected to reflected in this pool as you stand up. And then Candrosa nods to you and says, \"Welcome, my friends.\""
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t02"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0531",
+        "endUid": "u0548"
+      },
+      "reading": "Kenzo resumes the dream conversation with Rai outside their shared historical time; no calendar date is established.",
+      "evidence": [
+        {
+          "startUid": "u0531",
+          "endUid": "u0548",
+          "quote": "Kenzo: Got it. Got it. So a- as that's happening and I'm noticing him do that, I h- I hold up the piece and I ask him, \"How do I reunite the shield?\"\n\nDM: I do not know how. He doesn't know how. He doesn't know how this happened because he's not in the future, so he doesn't, he can't explain to you how to-\n\nKenzo: Mm-hmm\n\nDM: ... solve it.\n\nDM: Um, he says, \"I wish I could tell you, but, but I am not where you are yet. Time flows in unpredictable ways here. The me you see and that,\" pointing at the piece of, of jade that you're holding, \"come from different parts of the stream of time. You must find, you must find what did this in your time to understand how to undo it.\""
+        },
+        {
+          "startUid": "u0574",
+          "endUid": "u0607",
+          "quote": "Kenzo: Do you c- do you commune regularly in the dream world? Can I find you here again?\n\nDM: Perhaps. I think you brought me here. I think that brought me here, pointing at the jade.\n\nKenzo: Whatever is unfolding now in my time, here in the future to y- for your time, we- What have we unleashed? You battle a, a mighty warrior, a humanoid warrior. What, what has been unleashed now that this shield has been broken?\n\nDM: The worst instincts of the Drankorian Empire's emperors.\n\nKenzo: Power. Greed.\n\nDM: Not just that. A, a concern, a, a belief in the superiority of humans and of the pure Drankorian essence. I am afraid that may infect the world now.\n\nKenzo: Drankor has long disappeared in this time. The empire is in ruins in the jungle.\n\nDM: But humans have not. There are always empires.\n\nKenzo: Chardon.\n\nDM: And there is always the risk that they are corrupted at their heart.\n\nKenzo: Chardon is afoot. Today, my sense of what Drankor once was is embodied in the humans of Chardon. That's where I'm from. They seek items, they seek power."
+        },
+        {
+          "startUid": "u1879",
+          "endUid": "u1901",
+          "quote": "Kenzo: And is this conversation we're having right now before or after the dreamland stuff, the dream world stuff?\n\nDM: Uh, that is a good question. Um-\n\nSeeker: Hmm\n\nDM: ... I think it would've been... Well, which would you prefer? It can be either, really.\n\nUnknown: Well,\n\nUnknown: uh,\n\nKenzo: Um, it's probably before, because Delwath hasn't left yet-\n\nDM: Yeah\n\nKenzo: ... on your soul quest thing, so.\n\nDM: Right. But Delwath did his dream world, 'cause Candrosa can only do one dream journey a night, so he had to space them all out, right? So-\n\nKenzo: But, you know, like, now Delwath is like, \"Hey, I'm gonna go walk out into the desert.\"\n\nUnknown: Has that happened yet?\n\nDM: That has not happened yet.\n\nUnknown: Okay. Okay.\n\nDM: But Kenzo's dream world journey may have already happened. It's a, it doesn't really matter."
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Kenzo"
+      ],
+      "note": "The later table discussion leaves this dream’s placement relative to the mirror interrogation open."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0744",
+        "endUid": "u0753"
+      },
+      "reading": "The announced current-play frame is the morning after initiation, after Delwath’s return; earlier business is then played retrospectively.",
+      "evidence": [
+        {
+          "startUid": "u0744",
+          "endUid": "u0753",
+          "quote": "DM: So at this point, Schwartz should be on soon, but, um, you know, if there's stuff... So we're gonna start, um, th- uh, the, like, at the end of this stretch of downtime, um, with the morning when after Drikod and Kenzo got initiated and after Delwath returns from his day and night in the desert. Um, if there's stuff that we wanna go back and do from before then, now would be a good time to do that, especially because Wellby has spent most of his downtime out with Havdar going back to Bas Udda."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Explicit narrated part of day",
+        "relative": {
+          "relation": "after",
+          "reference": "t02"
+        }
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0744",
+        "endUid": "u0753"
+      },
+      "reading": "Delwath’s completed desert excursion lasted a day and a night before his morning reunion with the party.",
+      "evidence": [
+        {
+          "startUid": "u0744",
+          "endUid": "u0753",
+          "quote": "DM: So at this point, Schwartz should be on soon, but, um, you know, if there's stuff... So we're gonna start, um, th- uh, the, like, at the end of this stretch of downtime, um, with the morning when after Drikod and Kenzo got initiated and after Delwath returns from his day and night in the desert. Um, if there's stuff that we wanna go back and do from before then, now would be a good time to do that, especially because Wellby has spent most of his downtime out with Havdar going back to Bas Udda."
+        },
+        {
+          "startUid": "u2409",
+          "endUid": "u2411",
+          "quote": "DM: Um, a few days ago, um, two ni- uh, yeah, one, two nights ago, um, Delwath spoke with you all saying he was going out into the desert, um, and had some messages for you."
+        },
+        {
+          "startUid": "u2424",
+          "endUid": "u2429",
+          "quote": "DM: Delwath, you can see Delwath across the, across the desert be- walking into town.\n\nKenzo: Am I... I soul sight him as soon as I'm able to.\n\nDelwath: Okay. Um. So Del's walking sort of slowly towards you.\n\nUnknown: The,\n\nUnknown: he..."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a day and a night",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM’s retrospective day-and-night description; u2409–u2411 dates Delwath’s announcement, not a second travel duration"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1394",
+        "endUid": "u1407"
+      },
+      "reading": "The mirror interrogation is played on an earlier evening, when Wellby has returned; the present year is explicitly 1748.",
+      "evidence": [
+        {
+          "startUid": "u1394",
+          "endUid": "u1407",
+          "quote": "DM: Um, and after Well- or Seeker and Delwath spend some time, um, together, uh, working on the mirror, um, after you realize this command ability, um, that evening, while you're all sort of hanging around together, Delwath just starts listing off names. Like, say the command word, try a name, say the command word, try a name, figuring how many hobgoblin names can there, can there actually be. Um, when, um, about the fifth name or so, surprisingly, um, Revaka, this, uh, this woman appears, this female hobgoblin who, who you had seen before. Um, a..."
+        },
+        {
+          "startUid": "u1676",
+          "endUid": "u1700",
+          "quote": "DM: What year is it?\n\nKenzo: Kenzo glances at his companions.\n\nDelwath: It's, uh... Tim, what's the current reign of the king in Sembara?\n\nDM: [laughs] Uh, I don't even... I'm not even... Oh, you know what?\n\nDelwath: I, I have the doc open. It's Arryn III, but what's the, uh... I don't know. What's the current year? Uh, d- you have it written down. He says reign started in 1731.\n\nDM: Yeah, so it's 1748 now.\n\nDelwath: So it's the 17th year of the reign of Arryn III.\n\nDM: [laughs] Elves.\n\nUnknown: [laughs]\n\nDM: And how many years is that since the second reign of Derik III, the second year of Derik III? 15?\n\nUnknown: Approximately\n\nUnknown: 200.\n\nUnknown: 200 and...\n\nKenzo: Well, what would you say, Delwath?\n\nDelwath: It's, yeah, 200. About 250 years.\n\nUnknown: You've been in there a long time, friend.\n\nDM: This really works.\n\nKenzo: [laughs] How long has it, how long has it feel that, uh... feel how much time has seems to have passed for you?\n\nDM: Only moments."
+        },
+        {
+          "startUid": "u2154",
+          "endUid": "u2163",
+          "quote": "DM: So w- we'll say the same... This, this actually works out well, 'cause this is the same evening, the evening that Wellby returned to, um, or really afternoon that Wellby returned to Karawa. Later tonight, Delwath will go off and speak with Candrosa, and then we'll transition to the whole... We'll skip forward a few days, but, but this is the moment when you're all back together after having done some things before Drikod and Kenzo are initiated. Um, but when you had a chance to, to reconnect, and when Eudomes's mirror had finally recharged, um, a little bit faster than you expected given the proximity of magical energy here. So you hold up the soul lantern. So just as a reminder, so you have one question, what are you trying to see, and then you can have one person roll a wisdom check."
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Explicit narrated part of day",
+        "date": {
+          "year": 1748
+        }
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t01"
+        }
+      ],
+      "note": "The later clarification places Wellby’s return in the afternoon and the mirror work that evening. The regnal-year claim is retained as dialogue, not used to calculate a different year."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1435",
+        "endUid": "u1436"
+      },
+      "reading": "A minute passes while Revaka refuses to speak.",
+      "evidence": [
+        {
+          "startUid": "u1435",
+          "endUid": "u1436",
+          "quote": "DM: She waits for a minute. Not doing anything, just her back turned to you."
+        }
+      ],
+      "context": "flashback",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit wait in the interrogation"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t09"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1446",
+        "endUid": "u1448"
+      },
+      "reading": "A further minute passes before Kenzo takes over the conversation.",
+      "evidence": [
+        {
+          "startUid": "u1446",
+          "endUid": "u1448",
+          "quote": "Delwath: Delwath will wait another minute and then sort of glance over at the rest of the party to see if anybody wants to, else wants to talk to her."
+        }
+      ],
+      "context": "flashback",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "A second explicit minute passes"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t09"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2227",
+        "endUid": "u2242"
+      },
+      "reading": "The lantern examination enters a series of historical scenes; order and total duration are unknown, with nighttime desert and caravan scenes.",
+      "evidence": [
+        {
+          "startUid": "u2227",
+          "endUid": "u2242",
+          "quote": "DM: Um, so you hold up this, this lantern to the mirror, and as you're now getting used to, um, the mirror, the reflection of, of all of you kind of clustered around this mirror slowly fades. Um, and you see the, this, this, uh, soul lantern reflected, and the, the image shimmers a bit, and you see it now sitting in, uh, the interior of Agata's hut. So you're looking now again at this, at this inside of Agata's hut, the, the lantern sitting, um, sitting on, on the, on the table. And Agata has, um, in front of her, um, two orcs, hands tied behind their backs, um, disarmed. They look kind of, kind of raggedy, and she is pacing back and forth and- It looks like she's berating them. She kicks one, she steps on one and, and presses down, and she snaps her fingers and you see, um, Samerki, the, the, the oni, the, the blue giant walk in, in, in shrunken down, not in his giant form, in his human form, but he's still carrying this, this massive club."
+        },
+        {
+          "startUid": "u2273",
+          "endUid": "u2283",
+          "quote": "DM: Um, and then just grabs this Dunmari by the hair, pulls him back, and just slits his throat. And as the blood starts gushing out, she also starts doing the same, the same sort of ritual. And the, the image in the mirror begins to speed up, that, that you're seeing now in the mirror begins to speed up. Like, you're seeing, um, these, these variations of these scenes repeated, like an orc whose throat is slit, um, another Dunmari whose skull is bashed in. Um, over... As you sort of feel like over time, you don't know if you're going backwards or forwards. It's hard to, hard to tell sort of the orientation of time here in these mirror scenes. The, the image is just, it's speeding up and it's, every, every scene is starting to blur together, like five people, six, eight, 10, 20."
+        },
+        {
+          "startUid": "u2296",
+          "endUid": "u2307",
+          "quote": "DM: And a couple of times, interspersed with these images, like, the scene will slow down a little bit and you see the desert, the sky, like night sky out in the desert, um, Agata holding you the, the lantern, and, um, these flickering, um, spirits kind of dancing around you. And then, um, something will strike out, like, uh, off into the darkness beyond what you can see. But it seems like, basically like you're seeing an image of her using the magic of this lantern."
+        },
+        {
+          "startUid": "u2314",
+          "endUid": "u2331",
+          "quote": "DM: So it's a, it's a attack at night, and she, um, as she, uh, flies in on the giant fly, you, you can see looking down below you, um, the, um, the scene of the, of the caravan across and, like, you know, the, the or- the, um... Samerki is flying in and sort of, you know, he is wreaking havoc. You know, she's been, um, clearly been, like, casting spells or doing something right before the scene shifts. Um, and then you can see coming out of this mirror, as if it's been, like, being stretched out from the mirror, like an undead spirit forming and going to attack the h- the hobgoblins. And then a minute later-\n\nUnknown: The-\n\nDM: ... another one\n\nDelwath: Agata the halflings\n\nDM: Sorry, the halflings. And these undead spirits just, um, leap forward into the darkness, like slashing and tearing apart, um, these, these halflings until she lands on her fly next to, next to Garrett and like points at him and, and beckons, like crooks her finger, and then picks him up and flies off."
+        },
+        {
+          "startUid": "u2332",
+          "endUid": "u2336",
+          "quote": "DM: And these scenes, the occasional scenes of her using this lantern are sort of interspersed with just over and over again, mostly orcs, but occasional Dunmari, occasional, um, there's like one halfling, people just getting slaughtered, all the same scene, like in her, in her house, beat up, tied up, helpless, either their heads getting bashed in by Samerki or their throats getting cut by her. And then the Eudomes' mirror fades to black."
+        }
+      ],
+      "context": "vision",
+      "note": "The minute between summoned spirits belongs to the historical vision, not elapsed adventure time."
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2384",
+        "endUid": "u2404"
+      },
+      "reading": "Play skips forward a few days and resumes the first festival morning; breakfast is later clarified as pre-dawn.",
+      "evidence": [
+        {
+          "startUid": "u2154",
+          "endUid": "u2163",
+          "quote": "DM: So w- we'll say the same... This, this actually works out well, 'cause this is the same evening, the evening that Wellby returned to, um, or really afternoon that Wellby returned to Karawa. Later tonight, Delwath will go off and speak with Candrosa, and then we'll transition to the whole... We'll skip forward a few days, but, but this is the moment when you're all back together after having done some things before Drikod and Kenzo are initiated. Um, but when you had a chance to, to reconnect, and when Eudomes's mirror had finally recharged, um, a little bit faster than you expected given the proximity of magical energy here. So you hold up the soul lantern. So just as a reminder, so you have one question, what are you trying to see, and then you can have one person roll a wisdom check."
+        },
+        {
+          "startUid": "u2384",
+          "endUid": "u2404",
+          "quote": "DM: Okay. So should we... Can we now skip ahead a little bit to-\n\nDelwath: Yes\n\nDM: ... the morning... The, so this, this morning now is the morning... It's early in the morning on, um, the... Sorry, hold on, let me pull up my notes. Um, so, so we'll skip ahead now to the morning of the Feast of Bhishma.\n\nDM: So as the sun rises on the bustling, rebuilding village of Karawa, you, um, Seeker, Da- or Seeker, um, Kenzo, Drikod, and Wellby, um, find yourself gathered for a simple breakfast on the morning of the first day of the Feast of Bhishma. Drikod and Kenzo have just last night been initiated into the Mystai of Shakun officially. Wellby's been back for, for a few days. Um, Seeker has, uh, been around the whole time studying objects and touring the mesa and things like that."
+        },
+        {
+          "startUid": "u3460",
+          "endUid": "u3462",
+          "quote": "DM: People are getting up. You started, you were having your breakfast very early pre-dawn, but now people are getting up and the sounds of these prayers are starting to echo across the plains. And you can hear the drift of conversation as people will be going around as they're having their sort of sparse breakfast in this morning, telling stories, especially about those who have died in the past year."
+        }
+      ],
+      "time": {
+        "partOfDay": "pre-dawn",
+        "precision": "approximate",
+        "basis": "Later DM clarification at u3460–u3462 revises the sunrise breakfast description"
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t07"
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u3269",
+        "endUid": "u3275"
+      },
+      "reading": "Morning remembrance prayers begin after the pre-dawn breakfast; Cintra destroys the lantern during this interval.",
+      "evidence": [
+        {
+          "startUid": "u3269",
+          "endUid": "u3275",
+          "quote": "DM: So, at this moment, you hear the morning prayers of the Feast of Bhishma begin to start. The Feast of Bhishma in the Dunmar tradition is a, is a two-day festival that starts on the first day with a series of solemn morning prayers and, and a time of remembrance, a time to reflect on those who have gone before, tell their stories, um, revisit the memories of those who now dwell in a better realm with the gods."
+        },
+        {
+          "startUid": "u3441",
+          "endUid": "u3478",
+          "quote": "DM: Okay, so going back. So the Feast of Bhishma in Dunmari tradition is a two-day festival that starts with this solemn morning of prayer and remembrance, a time to reflect on those who have gone before to tell their stories and to reminisce about memories of them, revisit those who now dwell in the better realm with the gods.\n\nDM: And it's often accompanied by people sort of making, they'll make little sort of carved statues or mementos, sometimes out of wood or shaped out of clay or sometimes sculpted out of a sweet honey candy that people make for the festival.\n\nDM: And so the festival begins on this kind of solemn note and these morning prayers start. And that's what interrupts your conversation is hearing the beginning of these morning prayers echoing from the oasis, from the temple, just from, it's not really a formal religious thing.\n\nDM: Like people aren't, it's not like there's a large crowd gathered at the temple of Shakun or at the temple of the five siblings in town either. It's more of family groups gathered together. And so you see people start to collect little campsites, these little dwellings that people make on the plains.\n\nDM: People are getting up. You started, you were having your breakfast very early pre-dawn, but now people are getting up and the sounds of these prayers are starting to echo across the plains. And you can hear the drift of conversation as people will be going around as they're having their sort of sparse breakfast in this morning, telling stories, especially about those who have died in the past year.\n\nDM: And it's during this, as these prayers are starting to come up that you see Cintra walking towards you. Either, I guess, carrying the soul lantern if you gave it to her. And she says, \"This is an auspicious morning to release these souls. Perhaps they can be remembered with the community.\"\n\nDM: And she holds the lantern. And you watch as she begins casting a spell and this bolt of divine energy glows in her hand. And as it crashes into the lantern, it cracks and you hear the sigh. And you can see these almost faint ghostly figures sort of swirling up into the air. Some vanish quickly, but others seem to be carried along by the prayers and stories of those who are speaking at the festival. And there's a moment when they disperse, the lantern destroyed."
+        },
+        {
+          "startUid": "u3539",
+          "endUid": "u3554",
+          "quote": "Delwath: Um, Delwath, two things. Um, just in the earlier phase of the, of the ceremony when it's about talking about the community, Delwath will say a short remembrance for the people of, um...\n\nDM: Yeah.\n\nDelwath: It's not this community, and it's not this time, but-\n\nDM: Right\n\nDelwath: ... the first time he knew about them, for the people of, um, of Aaviskar's people. Um, and will, will sort of, um, as part of that sort of direct, um, maybe take, take a small bit from one of the, one of the tables or, or, or as part of a feast and offer it up to Aaviskar as kind of a thanksgiving. Um, but then also will just be very sort of... He's gonna try and, like, stop at everybody's table and have a bite and be sort of sociable and-\n\nDM: Right\n\nDelwath: ... and..."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "The DM explicitly calls these morning prayers, after the pre-dawn breakfast"
+      },
+      "note": "Delwath’s remembrance at u3539–u3554 is a retrospective addition to this same morning, not a second interval."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u3516",
+        "endUid": "u3521"
+      },
+      "reading": "The first festival day advances from morning to afternoon meal preparations.",
+      "evidence": [
+        {
+          "startUid": "u3516",
+          "endUid": "u3521",
+          "quote": "DM: But as the day turns from morning into afternoon, um, the nature of the preparation begins to shift a little bit. People start preparing for the meal. There's a big meal that, um, a ritual meal, meal before sunset in the afternoon, where the story of Bhishma is told. After, after the, the people of the community have had their stories acknowledged, then the story of Bhishma is told."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Explicit narrated part of day"
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u3762",
+        "endUid": "u3779"
+      },
+      "reading": "The ritual meal concludes and the first festival day’s party begins at sunset.",
+      "evidence": [
+        {
+          "startUid": "u3762",
+          "endUid": "u3779",
+          "quote": "DM: So after the meal, and, and during the meal, the, the story of Bhishma is told, the story that you've heard before that, that Kenzo in particular is, and Seeker to a lesser extent, is deeply familiar with. The story of how the land of Dunmar was, when the Dunmari got here, it was cursed. It was ash. Nothing grew. And Jeevali sacrificed herself for the people, and then Bhishma prayed and sacrificed and, um, by her, by her devotion, brought Jeevali back.\n\nDM: And then she is also... This was also the story of the founding of the country, because Bish- Bhishma was the one who led them to this land. So she was the one who, who led the Dunmari from, from far to the east in their ancestral long ago homelands to this new land. So this story is told in a sort of, in a sort of ritual way, but then basically as soon as the sun sets comes the party.\n\nDM: So you're now hanging out at Ikram, at Ikram's, right? There's bonfires, there's a bunch of, um, like honey cake and, and various, um, traditional desserts that are served, and everybody sort of... The music breaks out, everybody's dancing."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Explicit narrated part of day"
+      }
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u3794",
+        "endUid": "u3822"
+      },
+      "reading": "The next morning begins the second festival day, a day of rest; the party is summoned to Sura.",
+      "evidence": [
+        {
+          "startUid": "u3794",
+          "endUid": "u3822",
+          "quote": "DM: Kind of like that. Um, so the party goes into the night. The day, the second day of the festival is strictly a day of rest. Like, nobody travels, nobody does anything, nobody does any work. People sleep. They have small family meals together. They, you know, enjoy each other's company. They, um... You know, there's often, like, music and dancing and storytelling competitions and things like that. Um, and so, so nothing happens the next day. So no, no journeys are started. You won't all leave until the, the following day, after the second day of the festival.\n\nDM: So a, a, a few, a few little things that happen here before we, um, before we do goodbyes and you set off on your journey. The morning of the, of the second day of the festival, after the party, when, um, you know, the town is quiet, people aren't, aren't... You know, most people aren't up yet, um, one of Havdar's messengers comes to wake you and says, \"Sura would like to speak to you for a moment. Will you follow me?\" So Sura has not made an appearance yet, but this messenger leads you into the temple, where Sura's sitting in the same conference room that you've talked to Candrosa many times. Candrosa is not to be seen."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Explicit narrated part of day",
+        "relative": {
+          "relation": "after",
+          "reference": "t16"
+        }
+      },
+      "dateBoundaries": 1,
+      "note": "A festival day of rest is not an awarded mechanical long rest."
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u4299",
+        "endUid": "u4314"
+      },
+      "reading": "The second festival day draws to a close as Sura makes her public appearance.",
+      "evidence": [
+        {
+          "startUid": "u4299",
+          "endUid": "u4314",
+          "quote": "DM: So he goes off. Um, as the day comes to a close, uh, the festival wraps up. You all, um, begin to get ready for your respective journeys. Um, as you're all planning on leaving in the morning, Sura emerges, and she, um... Uh, there's a commotion, right? As she sort of steps out of the temple and, and people have been gathering near the oasis. But, you know, as she, um, you know, as she sort of makes, makes her appearance standing on the steps of this temple, like, news travels like wildfire. And there's been, there have been rumors before, um, but... So, so people were sort of prepared."
+        }
+      ],
+      "time": {
+        "partOfDay": "day’s close",
+        "precision": "approximate",
+        "basis": "Narrated day’s close; dusk is a review estimate"
+      }
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u4576",
+        "endUid": "u4593"
+      },
+      "reading": "The next early morning, after both festival days, Drikod leaves north and the other four leave west towards Tokra.",
+      "evidence": [
+        {
+          "startUid": "u4576",
+          "endUid": "u4593",
+          "quote": "Drikod: Drikod lumbers away, walking north, right? Yeah, we're north.\n\nDM: Yeah.\n\nDM: So as you all are leaving, you know, saying your goodbyes as you leave Karawa in the morning, Drikod heading north, the four of you heading west towards Tokra, um, Cintra waves a last goodbye, Jumi at her side, looking at you all in gratitude and thanks.\n\nDM: And you can... She doesn't say anything, but you can sense maybe a little disappointment or sadness at your leaving, given how, um, important you were to her path back to, to Karawa. But she c- she waves out to you.\n\nDM: She's the only one out here as you're all leaving together early in the morning, m- most other people having, after the two days of the festival, like there's the, there's the party and then there's the day of rest, but most people then also need like a day of rest to recover from the day of rest. Um, she waves. \"Shakun goes with you, my friends. Be well,\" as you ride off. And that is where we'll stop."
+        }
+      ],
+      "time": {
+        "partOfDay": "early morning",
+        "precision": "approximate",
+        "basis": "Explicit narrated part of day",
+        "relative": {
+          "relation": "after",
+          "reference": "t18"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "begun"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "The interrogation explicitly names DR 1748, but no month/day is spoken. June 9–20 comes from YAML, not transcript-derived dates.",
+    "expectedDateBoundaries": 11,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t07",
+      "t08",
+      "t09",
+      "t13",
+      "t17",
+      "t19"
+    ],
+    "explanation": "Retrospectively played downtime, earlier mirror work, initiation, two festival days and next-morning departure all belong to this session. The roughly seven-to-ten-day montage overlaps actor-specific activities and cannot establish an exact total. The initiation-to-first-morning transition and the two later next mornings are supported; dream and mirror history do not extend the adventure calendar. The narrated span can fit YAML’s eleven boundaries without supplying missing exact days from its endpoint."
+  }
+}
