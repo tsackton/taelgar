@@ -12,7 +12,8 @@ YAML dates the session to April 4–7, 1748. Three narrated day changes place th
 | --- | --- | --- | --- | --- |
 | April 4, 1748 | Afternoon | stated | Opening clarified to early afternoon; separate errands occupy most of that afternoon. | t01–t02 |
 | April 4, 1748 | Dusk | inferred | Alesh meets the party that evening before leaving before dark. | t03 |
-| April 5, 1748 | Morning → dusk | mixed | Seeker’s next-day fortification and one-hour cleanup lead into the first evening ceremony. | t04–t06 |
+| April 5, 1748 | Afternoon | inferred | Seeker spends most of the day fortifying the temple and finishes with an hour to spare before the evening festival. | t04 |
+| April 5, 1748 | Dusk | mixed | Seeker has an hour to clean up at the inn before the party attends the first evening ceremony. | t05–t06 |
 | April 6, 1748 | Morning | stated | After overnight rest, the party rises for the morning procession. | t07 |
 | April 6, 1748 | Afternoon | mixed | Late-afternoon shrine blessing is interrupted; the captive is bound within roughly thirty seconds of combat ending. | t08–t09 |
 | April 6, 1748 | Dusk | mixed | Evacuation preparations follow the fight; the DM confirms evening with the sun setting. | t10–t11 |

@@ -14,11 +14,11 @@
     {
       "day": "April 12, 1748",
       "startWatch": "midday",
-      "endWatch": "afternoon",
+      "endWatch": "midday",
       "startDate": "1748-04-12",
       "endDate": "1748-04-12",
       "basis": "mixed",
-      "summary": "Leave around ten, enter the gorge at noon, and finish at the roper fight, dated early afternoon in the campaign timeline.",
+      "summary": "The party leaves around ten and enters the gorge at noon. The tunnel climb takes 30–40 minutes before the guard-chamber search.",
       "markers": [
         "t01",
         "t02",
@@ -27,7 +27,18 @@
         "t05",
         "t06",
         "t07",
-        "t08",
+        "t08"
+      ]
+    },
+    {
+      "day": "April 12, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12",
+      "basis": "inferred",
+      "summary": "Wellby finds the door mechanism in about a minute. The campaign timeline places the encounter beyond it and the roper fight in early afternoon.",
+      "markers": [
         "t09",
         "t10"
       ]

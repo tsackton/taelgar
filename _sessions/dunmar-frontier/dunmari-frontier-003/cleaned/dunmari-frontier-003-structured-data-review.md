@@ -9,11 +9,12 @@
 
 The campaign calendar opens on March 25, 1748. The party rests overnight and wakes at sunrise on March 26, matching the YAML span.
 
-| Day | Watch | Basis | Time evidence | Markers |
-| --- | --- | --- | --- | --- |
-| March 25, 1748 | Morning → midday | mixed | Morning approach lasted three to four hours; campsite investigation is mid-to-late morning, before noon. | t01 |
-| March 25, 1748 | Midday → afternoon | mixed | After lunch, an hour’s rest precedes rituals and scouting; the party reaches the cistern cavern in midafternoon. | t02–t07 |
-| March 25–26, 1748 | Dusk → dawn | mixed | Eight hours back from waking at sunrise puts the start of the temple long rest at dusk. | t08 |
+| Day               | Watch              | Basis  | Time evidence                                                                                                                                 | Markers |
+| ----------------- | ------------------ | ------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| March 25, 1748    | Morning            | stated | The canyon approach takes three or four hours. At the campsite the DM says it is mid-to-late morning, before noon.                            | t01     |
+| March 25, 1748    | Midday             | stated | The party examines the pit in the headquarters just after lunch.                                                                              | t02     |
+| March 25, 1748    | Afternoon          | mixed  | The hour-long temple rest ends in early afternoon. After the ritual and scouting, midafternoon sunlight reaches the cavern below the cistern. | t03–t07 |
+| March 25–26, 1748 | Dusk → dawn        | mixed  | Eight hours back from waking at sunrise puts the start of the temple long rest at dusk.                                                       | t08     |
 
 ## Locations
 

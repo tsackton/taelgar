@@ -51,10 +51,10 @@
     },
     {
       "day": "March 24, 1748",
-      "startWatch": "morning",
-      "endWatch": "dusk",
-      "basis": "mixed",
-      "summary": "Midmorning travel reaches the canyon before sunset; a 15–20-minute descent ends about forty minutes before sunset.",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "After the day’s travel, the party reaches Daraar Canyon in late afternoon. A 15–20-minute descent leaves about forty minutes until sunset.",
       "markers": [
         "t06",
         "t07"

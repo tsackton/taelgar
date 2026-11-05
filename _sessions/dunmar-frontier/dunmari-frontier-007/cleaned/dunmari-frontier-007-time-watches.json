@@ -14,11 +14,22 @@
     {
       "day": "April 7, 1748",
       "startWatch": "dawn",
-      "endWatch": "morning",
-      "basis": "mixed",
-      "summary": "Pre-dawn preparations take a few hours; tracks are followed through the morning.",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Preparations begin in the predawn light. The party says its goodbyes within a few hours.",
       "markers": [
-        "t01",
+        "t01"
+      ],
+      "startDate": "1748-04-07",
+      "endDate": "1748-04-07"
+    },
+    {
+      "day": "April 7, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The party follows the tracks north through the morning, near the evacuating column.",
+      "markers": [
         "t02"
       ],
       "startDate": "1748-04-07",
@@ -59,11 +70,22 @@
     {
       "day": "April 8, 1748",
       "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The party consults its maps in the morning and picks a course north.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-04-08",
+      "endDate": "1748-04-08"
+    },
+    {
+      "day": "April 8, 1748",
+      "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "stated",
-      "summary": "Next morning departure; a full day’s ride ends at sunset.",
+      "summary": "A full day of hard riding across the plains ends at sunset.",
       "markers": [
-        "t07",
         "t08"
       ],
       "startDate": "1748-04-08",
@@ -71,10 +93,10 @@
     },
     {
       "day": "April 9, 1748",
-      "startWatch": "morning",
+      "startWatch": "afternoon",
       "endWatch": "afternoon",
       "basis": "mixed",
-      "summary": "After the overnight halt, the party resumes its usual day’s ride and meets the herders before midafternoon.",
+      "summary": "On the next day’s ride the party meets Shani’s group. The DM places their departure from the meeting in midafternoon.",
       "markers": [
         "t09",
         "t10"
@@ -96,18 +118,30 @@
     },
     {
       "day": "April 10, 1748",
-      "startWatch": "midnight",
+      "startWatch": "dawn",
       "endWatch": "dawn",
-      "basis": "open",
-      "summary": "Ambush is said to start at 03:00; aftermath says just past midnight. Rabbit distraction lasts eight seconds within combat.",
+      "basis": "stated",
+      "summary": "The DM puts the ambush at about 3 a.m. The rabbit distracts an attacker for eight seconds during the fight.",
       "markers": [
         "t12",
-        "t13",
+        "t13"
+      ],
+      "startDate": "1748-04-10",
+      "endDate": "1748-04-10",
+      "scope": "Ambush, disputed clock"
+    },
+    {
+      "day": "April 10, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "After the fight, the DM says it is just past midnight and allows the party to finish resting. This conflicts with the ambush clock.",
+      "markers": [
         "t14"
       ],
-      "scope": "Conflicting clock anchors, not a measured interval",
       "startDate": "1748-04-10",
-      "endDate": "1748-04-10"
+      "endDate": "1748-04-10",
+      "scope": "Aftermath, disputed clock"
     },
     {
       "day": "April 10, 1748",

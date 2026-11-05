@@ -31,14 +31,13 @@
     },
     {
       "day": "March 22, 1748",
-      "startWatch": "morning",
-      "endWatch": "afternoon",
-      "basis": "mixed",
-      "summary": "Three–four hours across scrub, a brief ritual, then roughly one hour in rocky terrain.",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "After three or four hours across the scrub, the tracks vanish on hard rock. Seeker checks for ley lines.",
       "markers": [
         "t08",
-        "t09",
-        "t10"
+        "t09"
       ],
       "sourceRanges": [
         [
@@ -53,9 +52,10 @@
       "day": "March 22, 1748",
       "startWatch": "afternoon",
       "endWatch": "afternoon",
-      "basis": "stated",
-      "summary": "Lookout corrected to early afternoon; after scanning, the Alesh meeting is about 4 p.m.",
+      "basis": "mixed",
+      "summary": "After about an hour in the rocks, Wellby scouts in early afternoon. The meeting with Alesh is around 4 p.m.",
       "markers": [
+        "t10",
         "t11",
         "t12",
         "t13"
@@ -89,10 +89,10 @@
     },
     {
       "day": "March 23, 1748",
-      "startWatch": "dawn",
+      "startWatch": "dusk",
       "endWatch": "dusk",
       "basis": "mixed",
-      "summary": "Predawn departure and a long hot day lead to Gomat’s approach in moonlit evening.",
+      "summary": "After a long day on the road, the party approaches Gomat in the moonlit evening.",
       "markers": [
         "t16"
       ],
