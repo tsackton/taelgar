@@ -1,0 +1,180 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-012",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+    "sessionYamlSha256": "e13ac9acd0f72405fe6d84cb9e00ae23b557ed74cd160244a55158efd9085d80",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-transcript.md",
+    "transcriptSha256": "a9f0a2be70f8dce0cc26111313f8403e8aed14712e43341f0e431461cadba98f",
+    "yamlDates": {
+      "start": "1748-04-13",
+      "end": "1748-04-13"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "reading": "The party wakes at Raven’s Hold just after sunrise, in early morning.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "we begin tonight as the morning sun rises over Raven's Hold."
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0048",
+          "quote": "Just after sunrise."
+        },
+        {
+          "startUid": "u0010",
+          "endUid": "u0014",
+          "quote": "Despite the fitful and restless night filled with unwanted dreams of violence, you awake with a renewed sense of confidence and purpose, and a better sense of your capabilities and strengths."
+        }
+      ],
+      "time": {
+        "partOfDay": "early morning",
+        "precision": "approximate",
+        "basis": "DM establishes sunrise and confirms early morning; no calendar date is spoken."
+      },
+      "note": "The preceding night is recalled as opening context, not played as an additional overnight interval."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1871",
+        "endUid": "u1877"
+      },
+      "reading": "Seeker and Riswynn corral the three sleeping hyenas in about fifteen seconds.",
+      "evidence": [
+        {
+          "startUid": "u1871",
+          "endUid": "u1877",
+          "quote": "in like 15 seconds you get them in three nice, little, neat pits."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 0.25,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates about fifteen seconds to complete the pits."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u2121",
+        "endUid": "u2122"
+      },
+      "reading": "After the plaza fight it is about eight in the morning.",
+      "evidence": [
+        {
+          "startUid": "u2122",
+          "endUid": "u2122",
+          "quote": "It's like eight in the morning."
+        }
+      ],
+      "time": {
+        "clock": "08:00",
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM’s direct answer after the fight."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2184",
+        "endUid": "u2185"
+      },
+      "reading": "Seeker spends ten minutes casting Speak with Animals as a ritual before questioning the hyenas.",
+      "evidence": [
+        {
+          "startUid": "u2184",
+          "endUid": "u2184",
+          "quote": "You can spend 10 minutes to do that without using a spell slot if you'd like."
+        },
+        {
+          "startUid": "u2185",
+          "endUid": "u2185",
+          "quote": "Seeker: Nice. So yeah, I'll do that."
+        },
+        {
+          "startUid": "u2273",
+          "endUid": "u2279",
+          "quote": "Seeker: Oh, I said it a minute ago. “Will offer—we have some food if you answer questions.”"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit ritual duration accepted by Seeker and followed by the actual conversation."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2617",
+        "endUid": "u2623"
+      },
+      "reading": "The party takes a short rest and breakfast on the plaza, finishing later in the morning.",
+      "evidence": [
+        {
+          "startUid": "u2617",
+          "endUid": "u2618",
+          "quote": "Delwath: I think we should take a short rest and then investigate the green pits."
+        },
+        {
+          "startUid": "u2631",
+          "endUid": "u2637",
+          "quote": "as you rest, the sun comes up a bit higher in the sky."
+        },
+        {
+          "startUid": "u2639",
+          "endUid": "u2640",
+          "quote": "And as you all now have rested—"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; completed rest explicitly confirmed."
+      },
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Morning sun warms the plaza during the completed rest."
+      },
+      "completion": "completed",
+      "dateBoundaries": 0
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "April 13, 1748 is supplied entirely by YAML; the transcript independently establishes sunrise, about 08:00 and later morning.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t03",
+      "t04",
+      "t05"
+    ],
+    "explanation": "Continuous present play runs from waking through two fights, exploration and a completed morning short rest. Opening recollections of Karawa and the preceding night, and the hyena’s earlier journey, do not extend the played interval."
+  }
+}

@@ -1,0 +1,1001 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-012",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+    "sessionYamlSha256": "e13ac9acd0f72405fe6d84cb9e00ae23b557ed74cd160244a55158efd9085d80",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-transcript.md",
+    "transcriptSha256": "a9f0a2be70f8dce0cc26111313f8403e8aed14712e43341f0e431461cadba98f"
+  },
+  "places": {
+    "p01": {
+      "label": "Raven's Hold",
+      "kind": "fortress",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "the morning sun rises over Raven's Hold."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md",
+      "note": "The vault note locates the ruined fort in the Sentinel Range; this is external orientation, not a region traversed in this session."
+    },
+    "p02": {
+      "label": "Gatehouse towers and crenellated wall",
+      "kind": "gatehouse",
+      "evidence": [
+        {
+          "startUid": "u0040",
+          "endUid": "u0041",
+          "quote": "DM: You're in this tower, right? So remember, there's two—"
+        },
+        {
+          "startUid": "u0130",
+          "endUid": "u0131",
+          "quote": "DM: Top, up—so you're on the third floor. This area here is the top of the Gate House. So last night you barred the gate below, so there's a gate underneath this."
+        },
+        {
+          "startUid": "u0197",
+          "endUid": "u0198",
+          "quote": "DM: Got it. So, so you have two towers, and then these towers go up one more floor, and this is a, like a crenellated wall. So yes, you are exposed to the air, but you have partial cover from—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0016",
+              "endUid": "u0017",
+              "quote": "DM: So, as you all—just to kind of get us back into the scene of Raven's Hold and everybody's characters, as you all awake and begin to get ready for breakfast and the day, we just go around and everybody to, you know, describe the character briefly, what you're doing while doing..."
+            },
+            {
+              "startUid": "u0040",
+              "endUid": "u0041",
+              "quote": "DM: You're in this tower, right? So remember, there's two—"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Passage beneath the gatehouse",
+      "kind": "gate passage",
+      "evidence": [
+        {
+          "startUid": "u0648",
+          "endUid": "u0650",
+          "quote": "DM: So as the [garbled], let's say, so that'll—so Vola is just holding her action to attack if they come back. You jumped down and open the door. Wellby?"
+        },
+        {
+          "startUid": "u1557",
+          "endUid": "u1557",
+          "quote": "DM: Yeah, he's totally hidden underneath the tunnel."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0130",
+              "endUid": "u0131",
+              "quote": "DM: Top, up—so you're on the third floor. This area here is the top of the Gate House. So last night you barred the gate below, so there's a gate underneath this."
+            },
+            {
+              "startUid": "u1557",
+              "endUid": "u1557",
+              "quote": "DM: Yeah, he's totally hidden underneath the tunnel."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Courtyard of oily pools and mists",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u0095",
+          "endUid": "u0100",
+          "quote": "DM: There's, so, mists and vapors sort of gathered over the—the ground. Pools of of dark, fetid water, dead trees. And this is, you know, this is where you've been—this sort of area is where you've sort of, you know, the—the smells, the sort of burnt, sulfuric rot smell has sort of been drifting up from here and you can see now, coming in the distance from this far gate here down this path, avoiding these mists as best they can, kind of edging along the side here. Um, a group of—"
+        },
+        {
+          "startUid": "u2158",
+          "endUid": "u2162",
+          "quote": "DM: The terrain that you just ran through to get from the inner courtyard to this plaza is like basically another sort of courtyard. So there's sort of the plaza, there's these two towers, then there's built—there's barracks and other buildings that extend maybe 60 feet back along both sides of this, of this sort of open passageway to the two towers that, that you ran through and then there's the whole inner courtyard with the pools of oily, slick water and the mists and trees and then there's, there's basically three sorts of sets of towers, and now here you're sort of at the outermost part of the keep."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0072",
+              "endUid": "u0077",
+              "quote": "DM: Um, as the early morning sun casts the pale line of light from the eastern window, as you all begin to sort of start your day—who was—Delwath and Kenzo, who have been pacing back and forth and keeping an eye out of the window, you see a band of gnolls begin to approach from in the distance. So, looking out over the courtyard. The out—this is the outer court, right on the map that we're looking at right here."
+            },
+            {
+              "startUid": "u2158",
+              "endUid": "u2162",
+              "quote": "DM: The terrain that you just ran through to get from the inner courtyard to this plaza is like basically another sort of courtyard. So there's sort of the plaza, there's these two towers, then there's built—there's barracks and other buildings that extend maybe 60 feet back along both sides of this, of this sort of open passageway to the two towers that, that you ran through and then there's the whole inner courtyard with the pools of oily, slick water and the mists and trees and then there's, there's basically three sorts of sets of towers, and now here you're sort of at the outermost part of the keep."
+            }
+          ]
+        }
+      ],
+      "note": "Called outer court during the opening orientation and inner courtyard during the later overview; both descriptions identify the same oily pools and mists between the tower sets."
+    },
+    "p05": {
+      "label": "Courtyard passage between barracks",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u1906",
+          "endUid": "u1912",
+          "quote": "DM: And you come as you cross—as you run across sort of starting to catch up to this, this gnoll—this outside the map, so we're not going to go with the map, um, you come to a—sort of running through the, the open gates of the far distant, distant post. You come to a sort of, like an inner courtyard. There's buildings on both your left and your right that are three stories tall."
+        },
+        {
+          "startUid": "u2158",
+          "endUid": "u2162",
+          "quote": "DM: The terrain that you just ran through to get from the inner courtyard to this plaza is like basically another sort of courtyard. So there's sort of the plaza, there's these two towers, then there's built—there's barracks and other buildings that extend maybe 60 feet back along both sides of this, of this sort of open passageway to the two towers that, that you ran through and then there's the whole inner courtyard with the pools of oily, slick water and the mists and trees and then there's, there's basically three sorts of sets of towers, and now here you're sort of at the outermost part of the keep."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2158",
+              "endUid": "u2162",
+              "quote": "DM: The terrain that you just ran through to get from the inner courtyard to this plaza is like basically another sort of courtyard. So there's sort of the plaza, there's these two towers, then there's built—there's barracks and other buildings that extend maybe 60 feet back along both sides of this, of this sort of open passageway to the two towers that, that you ran through and then there's the whole inner courtyard with the pools of oily, slick water and the mists and trees and then there's, there's basically three sorts of sets of towers, and now here you're sort of at the outermost part of the keep."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Outermost plaza and horse statue",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u2147",
+          "endUid": "u2153",
+          "quote": "DM: Yeah, I mean, you haven't really explored. There's, like, so just to sort of set the scene and, and describe things a little bit. So you are, you are all now sort of gathered—Vola with sort of running after you as well. So everybody is now gathered in this plaza, so you're still, you're looking to the north to this way, at the caves, cavern piles of rubble that block the entrance to the caverns where you were originally listening to the animals and watching the patrols of gnolls pacing back and forth in and setting up on this plaza that says the sort of ruined remains of what was perhaps once a parade ground or the sort of—sort of staging ground for the, the Dunmari cavalry when they, when they occupied this fort, built this fort. And over here, where now the howling of jackals and hyenas and other animals can be heard, was the stables."
+        },
+        {
+          "startUid": "u2170",
+          "endUid": "u2174",
+          "quote": "DM: The plaza that you're standing on his—excuse me. Um, so, let's see. The plaza that you're standing on is—the pain— It's clearly at one point was, was paved, but now it's sort of been churned up; things have been dragged across here. There is a statue of a horse, but that has cracked, and it seemed like once had somebody mounted on it that's been split and, and pushed off."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2147",
+              "endUid": "u2153",
+              "quote": "DM: Yeah, I mean, you haven't really explored. There's, like, so just to sort of set the scene and, and describe things a little bit. So you are, you are all now sort of gathered—Vola with sort of running after you as well. So everybody is now gathered in this plaza, so you're still, you're looking to the north to this way, at the caves, cavern piles of rubble that block the entrance to the caverns where you were originally listening to the animals and watching the patrols of gnolls pacing back and forth in and setting up on this plaza that says the sort of ruined remains of what was perhaps once a parade ground or the sort of—sort of staging ground for the, the Dunmari cavalry when they, when they occupied this fort, built this fort. And over here, where now the howling of jackals and hyenas and other animals can be heard, was the stables."
+            },
+            {
+              "startUid": "u2158",
+              "endUid": "u2162",
+              "quote": "DM: The terrain that you just ran through to get from the inner courtyard to this plaza is like basically another sort of courtyard. So there's sort of the plaza, there's these two towers, then there's built—there's barracks and other buildings that extend maybe 60 feet back along both sides of this, of this sort of open passageway to the two towers that, that you ran through and then there's the whole inner courtyard with the pools of oily, slick water and the mists and trees and then there's, there's basically three sorts of sets of towers, and now here you're sort of at the outermost part of the keep."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Ruined stables and animal pens",
+      "kind": "stables",
+      "evidence": [
+        {
+          "startUid": "u2147",
+          "endUid": "u2153",
+          "quote": "over here, where now the howling of jackals and hyenas and other animals can be heard, was the stables."
+        },
+        {
+          "startUid": "u2227",
+          "endUid": "u2230",
+          "quote": "DM: Ah, OK, so, so Seeker, as you begin to—you and Kenzo begin to approach the stables, what you can see here is that there—this is the, you know, there's a pack of maybe 70 to 100 wild animals. They're mostly, mostly hyenas, some jackals, some mountain lions, a few actual lions, wild dogs."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2147",
+              "endUid": "u2153",
+              "quote": "DM: Yeah, I mean, you haven't really explored. There's, like, so just to sort of set the scene and, and describe things a little bit. So you are, you are all now sort of gathered—Vola with sort of running after you as well. So everybody is now gathered in this plaza, so you're still, you're looking to the north to this way, at the caves, cavern piles of rubble that block the entrance to the caverns where you were originally listening to the animals and watching the patrols of gnolls pacing back and forth in and setting up on this plaza that says the sort of ruined remains of what was perhaps once a parade ground or the sort of—sort of staging ground for the, the Dunmari cavalry when they, when they occupied this fort, built this fort. And over here, where now the howling of jackals and hyenas and other animals can be heard, was the stables."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Eastern barracks against the cliff",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u2328",
+          "endUid": "u2336",
+          "quote": "DM: While you're—while you're talking to the animals, um, ah, so Riswynn, um, the—let's see—you both you and Wellby are sort of exploring the, the buildings. Wellby just got out, um, you—you're also—you're also exploring the buildings, Wellby? Okay, so you sort of split up, and Riswynn, you take the building to the south and or to the west—and Wellby, you take the building to the, to the east, that sort of up against the cliff and these both seem to be you know, you don't spend, you don't explore extensively, um, but they both seem to be sort of barracks areas, there's, you know, they're not, you know, you go up to the second floor, and you can go down to the first floor from there. Um, I don't know how long you want to spend poking around, but just from a very quick glance—"
+        },
+        {
+          "startUid": "u2337",
+          "endUid": "u2340",
+          "quote": "DM: Wellby, the buildings that you're in seem to have been used, you know, at some point as kind of barracks or sleeping areas for creatures that didn't really care about where or what they slept in, um, you know, just like bits of filth and, you know, grass and, and just kind of piled up. You're not doing a careful search; you're just trying to get a lay of the land at this point, um—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2158",
+              "endUid": "u2162",
+              "quote": "DM: The terrain that you just ran through to get from the inner courtyard to this plaza is like basically another sort of courtyard. So there's sort of the plaza, there's these two towers, then there's built—there's barracks and other buildings that extend maybe 60 feet back along both sides of this, of this sort of open passageway to the two towers that, that you ran through and then there's the whole inner courtyard with the pools of oily, slick water and the mists and trees and then there's, there's basically three sorts of sets of towers, and now here you're sort of at the outermost part of the keep."
+            },
+            {
+              "startUid": "u2328",
+              "endUid": "u2336",
+              "quote": "DM: While you're—while you're talking to the animals, um, ah, so Riswynn, um, the—let's see—you both you and Wellby are sort of exploring the, the buildings. Wellby just got out, um, you—you're also—you're also exploring the buildings, Wellby? Okay, so you sort of split up, and Riswynn, you take the building to the south and or to the west—and Wellby, you take the building to the, to the east, that sort of up against the cliff and these both seem to be you know, you don't spend, you don't explore extensively, um, but they both seem to be sort of barracks areas, there's, you know, they're not, you know, you go up to the second floor, and you can go down to the first floor from there. Um, I don't know how long you want to spend poking around, but just from a very quick glance—"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Western barracks against the wall",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u2328",
+          "endUid": "u2336",
+          "quote": "DM: While you're—while you're talking to the animals, um, ah, so Riswynn, um, the—let's see—you both you and Wellby are sort of exploring the, the buildings. Wellby just got out, um, you—you're also—you're also exploring the buildings, Wellby? Okay, so you sort of split up, and Riswynn, you take the building to the south and or to the west—and Wellby, you take the building to the, to the east, that sort of up against the cliff and these both seem to be you know, you don't spend, you don't explore extensively, um, but they both seem to be sort of barracks areas, there's, you know, they're not, you know, you go up to the second floor, and you can go down to the first floor from there. Um, I don't know how long you want to spend poking around, but just from a very quick glance—"
+        },
+        {
+          "startUid": "u2346",
+          "endUid": "u2355",
+          "quote": "DM: Um, Riswynn, Riswynn, the building to the, to the west that's kind of up against the wall, is better preserved. It doesn't seem to have been used as much recently, although in the top floor, um, you see—so this was possibly used as like a training ground or something by hobgoblins. So you see the same symbols that you've been seeing—seeing the Blackened Claw, and there are also about 10 crates that seemed to have been dragged, you know, carried or dragged in here recently. Um, wooden crates."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2158",
+              "endUid": "u2162",
+              "quote": "DM: The terrain that you just ran through to get from the inner courtyard to this plaza is like basically another sort of courtyard. So there's sort of the plaza, there's these two towers, then there's built—there's barracks and other buildings that extend maybe 60 feet back along both sides of this, of this sort of open passageway to the two towers that, that you ran through and then there's the whole inner courtyard with the pools of oily, slick water and the mists and trees and then there's, there's basically three sorts of sets of towers, and now here you're sort of at the outermost part of the keep."
+            },
+            {
+              "startUid": "u2346",
+              "endUid": "u2355",
+              "quote": "DM: Um, Riswynn, Riswynn, the building to the, to the west that's kind of up against the wall, is better preserved. It doesn't seem to have been used as much recently, although in the top floor, um, you see—so this was possibly used as like a training ground or something by hobgoblins. So you see the same symbols that you've been seeing—seeing the Blackened Claw, and there are also about 10 crates that seemed to have been dragged, you know, carried or dragged in here recently. Um, wooden crates."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Ruined outer gate towers",
+      "kind": "ruins",
+      "evidence": [
+        {
+          "startUid": "u2214",
+          "endUid": "u2219",
+          "quote": "The stables and the gate towers on the outer wall are the only things that have been—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2214",
+              "endUid": "u2219",
+              "quote": "Delwath: Know, that's fine. But is this—and they're facing—this is like the outer wall that goes around the whole—yes. What—is it possible to climb up? Like are those towers accessible at the gate? So those actually gate towers—are they—?"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Plains beyond the fort",
+      "kind": "plains",
+      "evidence": [
+        {
+          "startUid": "u2222",
+          "endUid": "u2225",
+          "quote": "DM: Yes, there are. You can definitely you know, climb up among the rubble and, and get a spot where you can get a good look out across the plains. Okay, so Perception check for, for you as well. Delwath and Riswynn—right."
+        }
+      ],
+      "note": "Viewed from the ruined outer gate, without an excursion onto the plains."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0033",
+        "endUid": "u0051"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "The party and Vola wake in the gatehouse tower; the room is about forty feet across on the third floor.",
+      "evidence": [
+        {
+          "startUid": "u0040",
+          "endUid": "u0041",
+          "quote": "DM: You're in this tower, right? So remember, there's two—"
+        },
+        {
+          "startUid": "u0050",
+          "endUid": "u0051",
+          "quote": "DM: It's about maybe 40 feet across, a circle."
+        },
+        {
+          "startUid": "u0069",
+          "endUid": "u0071",
+          "quote": "DM: Vola is shaken, but looks more well rested than some of the rest of you. She's been sitting quietly by her bedroll, occasionally like brushing short brown hair out of her eyes, but otherwise not seeming to move much as she methodically oils her armor, tightening down every strap, making sure that there's nothing that could make a strange noise, no buckles loose that would clank as she moves."
+        },
+        {
+          "startUid": "u0130",
+          "endUid": "u0131",
+          "quote": "DM: Top, up—so you're on the third floor. This area here is the top of the Gate House. So last night you barred the gate below, so there's a gate underneath this."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0072",
+        "endUid": "u0105"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "Watch the approaching gnolls and flying creature cross the mist-filled courtyard toward the gate.",
+      "evidence": [
+        {
+          "startUid": "u0072",
+          "endUid": "u0077",
+          "quote": "DM: Um, as the early morning sun casts the pale line of light from the eastern window, as you all begin to sort of start your day—who was—Delwath and Kenzo, who have been pacing back and forth and keeping an eye out of the window, you see a band of gnolls begin to approach from in the distance. So, looking out over the courtyard. The out—this is the outer court, right on the map that we're looking at right here."
+        },
+        {
+          "startUid": "u0095",
+          "endUid": "u0100",
+          "quote": "DM: There's, so, mists and vapors sort of gathered over the—the ground. Pools of of dark, fetid water, dead trees. And this is, you know, this is where you've been—this sort of area is where you've sort of, you know, the—the smells, the sort of burnt, sulfuric rot smell has sort of been drifting up from here and you can see now, coming in the distance from this far gate here down this path, avoiding these mists as best they can, kind of edging along the side here. Um, a group of—"
+        },
+        {
+          "startUid": "u0102",
+          "endUid": "u0105",
+          "quote": "DM: A group of nine gnolls, um, moving quickly down the path, several small hyenas following after them, and flying in the air next to the—what seems to be the leader, a small bat-like creature with a long tail and demon wings, but no bigger than a bat."
+        }
+      ],
+      "place": "p04",
+      "observerPlace": "p02",
+      "mode": "local"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0632",
+        "endUid": "u0650"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Jumps down from the wall and opens the ground-level gate.",
+      "evidence": [
+        {
+          "startUid": "u0648",
+          "endUid": "u0650",
+          "quote": "You jumped down and open the door."
+        },
+        {
+          "startUid": "u0817",
+          "endUid": "u0819",
+          "quote": "just robe fluttering like down to the ground."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "jump with Slow Fall"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1662",
+        "endUid": "u1679"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Descends the rope and drops the final fifteen feet to the ground by the gate.",
+      "evidence": [
+        {
+          "startUid": "u1676",
+          "endUid": "u1679",
+          "quote": "DM: So you take six points of damage, and make an Acrobatics check. So you land like right there, but on your feet."
+        },
+        {
+          "startUid": "u1758",
+          "endUid": "u1760",
+          "quote": "DM: You could see—if you can see—from there you can see Delwath dangling on a rope, and Wellby like limping on a slightly hurt ankle on the ground."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "rope and drop"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1696",
+        "endUid": "u1716"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Goes over the wall lip and remains suspended on a rope to fire into the gate passage.",
+      "evidence": [
+        {
+          "startUid": "u1703",
+          "endUid": "u1706",
+          "quote": "Delwath: That—I'll do that. I'll take that instead of here. So I'll go over the lip. I'll use a bonus action to move the Hex to this guy, and I shoot him."
+        },
+        {
+          "startUid": "u1708",
+          "endUid": "u1708",
+          "quote": "DM: So you're like, hang on the rope here, then?"
+        },
+        {
+          "startUid": "u1715",
+          "endUid": "u1716",
+          "quote": "DM: These guys are under—underneath the stones, so you cannot see them unless you—like, there's, there's basically no way you can see them from here, because Delwath is now hanging on the rope and—"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "underway",
+      "mode": "rope",
+      "note": "Ground arrival is not established here; the later pursuit confirms he subsequently leaves the wall."
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u1854",
+        "endUid": "u1877"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Work at ground level beside the gate to put the sleeping hyenas in pits.",
+      "evidence": [
+        {
+          "startUid": "u1854",
+          "endUid": "u1855",
+          "quote": "Riswynn: Well, I think that I'm going to help Seeker throw these sleepy, slightly groggy hyenas in a pit that he's just made."
+        },
+        {
+          "startUid": "u1871",
+          "endUid": "u1877",
+          "quote": "Seeker just starts making like little pits appear underneath each one of these sleeping hyenas."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1897",
+        "endUid": "u1946"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Pursue the escaped gnoll through the oily courtyard and intermediate barracks passage to the outer plaza.",
+      "evidence": [
+        {
+          "startUid": "u1897",
+          "endUid": "u1905",
+          "quote": "DM: Okay, so, um, let's see you do—so, while Wellby and Kenzo running after this gnoll, you run—you run sort of path—is the sort of mists and vapors in this smell is—especially when you get out here where this sort of—this vapor is—there's, you know, you catch the sort of whiff of ash and, and rot, and the pools, as you run past them are sort of seem to be coated with an oil slick and there's this faint whiff of, of burnt flesh, but you're running past that pretty quickly."
+        },
+        {
+          "startUid": "u1906",
+          "endUid": "u1912",
+          "quote": "DM: And you come as you cross—as you run across sort of starting to catch up to this, this gnoll—this outside the map, so we're not going to go with the map, um, you come to a—sort of running through the, the open gates of the far distant, distant post. You come to a sort of, like an inner courtyard. There's buildings on both your left and your right that are three stories tall."
+        },
+        {
+          "startUid": "u1940",
+          "endUid": "u1946",
+          "quote": "Sorry, Kenzo and Wellby. I know I keep saying Seeker. Come out there."
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2120",
+          "quote": "DM: So Kenzo just runs forward, bam, second punch, and the gnoll goes flying back. Every—all of the gnolls dead now. Um, everything quiet except for the cacophonous howling and baying and barking of animals in pens over, over in this direction. As everybody—"
+        },
+        {
+          "startUid": "u2147",
+          "endUid": "u2153",
+          "quote": "everybody is now gathered in this plaza"
+        }
+      ],
+      "from": "p03",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "run",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Run quickly past oily pools, ash-smelling vapors and dead trees."
+        },
+        {
+          "place": "p05",
+          "reading": "Pass through open gates and the courtyard between three-storey buildings."
+        }
+      ],
+      "note": "The approach begins about sixty feet from the plaza; the fight and reunion confirm arrival. DM corrections establish Kenzo and Wellby, not Seeker, as the first runners."
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1928",
+        "endUid": "u1930"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Follows the sprinters, attacking from behind while approaching the plaza; rejoins the group there.",
+      "evidence": [
+        {
+          "startUid": "u1928",
+          "endUid": "u1928",
+          "quote": "Delwath: Okay, Delwath would have gone with sprinters."
+        },
+        {
+          "startUid": "u1929",
+          "endUid": "u1930",
+          "quote": "DM: Okay, you can't—you can't quite keep up with them, so you are—"
+        },
+        {
+          "startUid": "u2147",
+          "endUid": "u2153",
+          "quote": "everybody is now gathered in this plaza"
+        }
+      ],
+      "from": "p03",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "run",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Follows the pursuit across the courtyard."
+        },
+        {
+          "place": "p05",
+          "reading": "Approaches through the barracks passage."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1972",
+        "endUid": "u1972"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Run from the hyena pits toward the plaza after corralling the animals, arriving after the first runners.",
+      "evidence": [
+        {
+          "startUid": "u1972",
+          "endUid": "u1972",
+          "quote": "DM: Even though, it'll take Delwath, it'll take you at least a turn to get there. Riswynn and Seeker will probably take you two turns to get there."
+        },
+        {
+          "startUid": "u1993",
+          "endUid": "u1994",
+          "quote": "DM: That misses. Seeker, you're still running. Wellby."
+        },
+        {
+          "startUid": "u2009",
+          "endUid": "u2010",
+          "quote": "DM: Riswynn still running. Now these gnolls are gonna go 1234."
+        },
+        {
+          "startUid": "u2147",
+          "endUid": "u2153",
+          "quote": "everybody is now gathered in this plaza"
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "run",
+      "route": [
+        {
+          "place": "p05",
+          "reading": "Follow through the passage between barracks."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2147",
+        "endUid": "u2153"
+      },
+      "actors": [
+        "Vola"
+      ],
+      "reading": "Vola follows and joins everyone in the outermost plaza.",
+      "evidence": [
+        {
+          "startUid": "u2147",
+          "endUid": "u2153",
+          "quote": "So you are, you are all now sort of gathered—Vola with sort of running after you as well. So everybody is now gathered in this plaza"
+        }
+      ],
+      "from": "p02",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2177",
+        "endUid": "u2187"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo"
+      ],
+      "reading": "Leave the plaza for the stables and reach the nearest hyena pen to question its occupants.",
+      "evidence": [
+        {
+          "startUid": "u2187",
+          "endUid": "u2187",
+          "quote": "DM: Okay. Um, what is, what is—so Kenzo and Seeker heading towards the stables. Where does everybody else doing?"
+        },
+        {
+          "startUid": "u2250",
+          "endUid": "u2254",
+          "quote": "DM: Okay, so there's a, you know, there's a pen sort of on the—seems to be like the, the—they've been filling it from back to front, so the ones closest to you seem to be in the sort of best shape. And there's a stall kind of near to the front that has four hyenas in it that are front paws are tied up with rope and then kind of looped around the outside of the stables and they're sort of growling at each other, but don't, don't seem too badly off."
+        },
+        {
+          "startUid": "u2273",
+          "endUid": "u2279",
+          "quote": "Seeker: Oh, I said it a minute ago. “Will offer—we have some food if you answer questions.”"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2198",
+        "endUid": "u2202"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Scouts the eastern barracks, entering on the second floor and looking through the sleeping areas below.",
+      "evidence": [
+        {
+          "startUid": "u2198",
+          "endUid": "u2201",
+          "quote": "Wellby: Doesn't work. Wellby's not confident enough that we're alone in the place yet. Yes, I think he's gonna try and move pretty quickly and like get up into the tower-ish looking building this is—really just trying to get the lay of the land and see if there's any other signs of more, you know, enemies, more than like really investigating."
+        },
+        {
+          "startUid": "u2328",
+          "endUid": "u2336",
+          "quote": "DM: While you're—while you're talking to the animals, um, ah, so Riswynn, um, the—let's see—you both you and Wellby are sort of exploring the, the buildings. Wellby just got out, um, you—you're also—you're also exploring the buildings, Wellby? Okay, so you sort of split up, and Riswynn, you take the building to the south and or to the west—and Wellby, you take the building to the, to the east, that sort of up against the cliff and these both seem to be you know, you don't spend, you don't explore extensively, um, but they both seem to be sort of barracks areas, there's, you know, they're not, you know, you go up to the second floor, and you can go down to the first floor from there. Um, I don't know how long you want to spend poking around, but just from a very quick glance—"
+        },
+        {
+          "startUid": "u2337",
+          "endUid": "u2340",
+          "quote": "DM: Wellby, the buildings that you're in seem to have been used, you know, at some point as kind of barracks or sleeping areas for creatures that didn't really care about where or what they slept in, um, you know, just like bits of filth and, you know, grass and, and just kind of piled up. You're not doing a careful search; you're just trying to get a lay of the land at this point, um—"
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2206",
+        "endUid": "u2211"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Scouts the western barracks, finding old Blackened Claw markings, crates, equipment and a locked downstairs room.",
+      "evidence": [
+        {
+          "startUid": "u2206",
+          "endUid": "u2207",
+          "quote": "Riswynn: I also want to sort out these towers, and they wend my way through this first—second-floor entrances of these buildings to go check out the towers."
+        },
+        {
+          "startUid": "u2328",
+          "endUid": "u2336",
+          "quote": "DM: While you're—while you're talking to the animals, um, ah, so Riswynn, um, the—let's see—you both you and Wellby are sort of exploring the, the buildings. Wellby just got out, um, you—you're also—you're also exploring the buildings, Wellby? Okay, so you sort of split up, and Riswynn, you take the building to the south and or to the west—and Wellby, you take the building to the, to the east, that sort of up against the cliff and these both seem to be you know, you don't spend, you don't explore extensively, um, but they both seem to be sort of barracks areas, there's, you know, they're not, you know, you go up to the second floor, and you can go down to the first floor from there. Um, I don't know how long you want to spend poking around, but just from a very quick glance—"
+        },
+        {
+          "startUid": "u2346",
+          "endUid": "u2355",
+          "quote": "DM: Um, Riswynn, Riswynn, the building to the, to the west that's kind of up against the wall, is better preserved. It doesn't seem to have been used as much recently, although in the top floor, um, you see—so this was possibly used as like a training ground or something by hobgoblins. So you see the same symbols that you've been seeing—seeing the Blackened Claw, and there are also about 10 crates that seemed to have been dragged, you know, carried or dragged in here recently. Um, wooden crates."
+        },
+        {
+          "startUid": "u2356",
+          "endUid": "u2361",
+          "quote": "DM: And then sort of haphazardly piled also, a number of sort of shields, like bits of leather armor. Like, this is not stuff that's in good shape. This is like, you know, scavenged and repaired equipment mostly, you know, scattered off, but definitely like a fair bit of, of crates and of armor just kind of piled in here. On the bottom floor, um, ah, it's pretty much empty except for one room that has a rusting chain and a lock that seems to have been—that's still closed and locked."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2214",
+        "endUid": "u2226"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Climbs the ruined outer gate for a lookout over the plains.",
+      "evidence": [
+        {
+          "startUid": "u2222",
+          "endUid": "u2225",
+          "quote": "DM: Yes, there are. You can definitely you know, climb up among the rubble and, and get a spot where you can get a good look out across the plains. Okay, so Perception check for, for you as well. Delwath and Riswynn—right."
+        },
+        {
+          "startUid": "u2226",
+          "endUid": "u2226",
+          "quote": "Delwath: There. Yep."
+        },
+        {
+          "startUid": "u2362",
+          "endUid": "u2365",
+          "quote": "Delwath, you see little on the plains."
+        }
+      ],
+      "from": "p06",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u2362",
+        "endUid": "u2365"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Sees no movement on the plains from the ruined gate lookout.",
+      "evidence": [
+        {
+          "startUid": "u2362",
+          "endUid": "u2364",
+          "quote": "Delwath, you see little on the plains."
+        },
+        {
+          "startUid": "u2442",
+          "endUid": "u2446",
+          "quote": "There's nothing that Delwath can see moving on the plains."
+        }
+      ],
+      "place": "p11",
+      "observerPlace": "p10",
+      "mode": "local"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2366",
+        "endUid": "u2372"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Returns to the fallen leader in the misty courtyard and searches its body.",
+      "evidence": [
+        {
+          "startUid": "u2366",
+          "endUid": "u2367",
+          "quote": "Wellby: There's no more of those bat things flying around anywhere now? If all that's done, I just want to take a look at the leaders body and like search the, search the—his corpse."
+        },
+        {
+          "startUid": "u2368",
+          "endUid": "u2372",
+          "quote": "the leader is carrying several things."
+        },
+        {
+          "startUid": "u1208",
+          "endUid": "u1210",
+          "quote": "DM: From 200 feet away. Wellby's arrow just slides straight and true, and you see this gnoll in the distance fall over."
+        }
+      ],
+      "from": "p08",
+      "to": "p04",
+      "completion": "arrived",
+      "note": "The body is the leader shot while fleeing across the earlier courtyard; no precise map coordinate is assigned."
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2423",
+        "endUid": "u2426"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Heads back to the animals with the spear and locket, also dragging a gnoll corpse for food; the later reunion confirms he reaches the group.",
+      "evidence": [
+        {
+          "startUid": "u2423",
+          "endUid": "u2424",
+          "quote": "Wellby: Well, I head back towards the animals with that stuff and Kenzo, give you the spear, and whoever can take a look at the locket and then I'll—I think I'm on my way back, I'll try and drag one of the gnolls from the courtyard with me."
+        },
+        {
+          "startUid": "u2426",
+          "endUid": "u2426",
+          "quote": "Wellby: To feed to the animals."
+        },
+        {
+          "startUid": "u2503",
+          "endUid": "u2503",
+          "quote": "Kenzo: So, so before—because I, I agree—are we all together now, by the way?"
+        },
+        {
+          "startUid": "u2504",
+          "endUid": "u2504",
+          "quote": "Unknown: We're all together. Yeah, come—"
+        }
+      ],
+      "from": "p04",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l18",
+      "type": "presence",
+      "source": {
+        "startUid": "u2503",
+        "endUid": "u2504"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "The group is together again while discussing the captive animals and whether to release them.",
+      "evidence": [
+        {
+          "startUid": "u2503",
+          "endUid": "u2503",
+          "quote": "Kenzo: So, so before—because I, I agree—are we all together now, by the way?"
+        },
+        {
+          "startUid": "u2504",
+          "endUid": "u2504",
+          "quote": "Unknown: We're all together. Yeah, come—"
+        }
+      ],
+      "place": "p07",
+      "note": "The group reunion is explicit; the continuing animal-pen discussion supplies the local setting, without tracing each scout’s return route."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2621",
+        "endUid": "u2640"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "Regroups on the plaza for a completed short rest and breakfast.",
+      "evidence": [
+        {
+          "startUid": "u2622",
+          "endUid": "u2623",
+          "quote": "Delwath: I mean, I think the courtyard. It's probably okay. We have decent line of sight."
+        },
+        {
+          "startUid": "u2631",
+          "endUid": "u2637",
+          "quote": "You finally have your breakfast and sitting in the—sitting on the plaza, it's actually, except for the noise of the animals, in the sun, fairly pleasant."
+        },
+        {
+          "startUid": "u2639",
+          "endUid": "u2640",
+          "quote": "DM: Dingy now. And as you all now have rested—"
+        }
+      ],
+      "from": "p07",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2641",
+        "endUid": "u2642"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Plans to investigate the green pits after the rest; the session ends before the visit begins.",
+      "evidence": [
+        {
+          "startUid": "u2641",
+          "endUid": "u2641",
+          "quote": "Delwath: I think we're gonna go investigate the green. Yeah."
+        }
+      ],
+      "from": "p06",
+      "to": "p04",
+      "completion": "planned",
+      "context": "planned"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-012",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+    "sessionYamlSha256": "e13ac9acd0f72405fe6d84cb9e00ae23b557ed74cd160244a55158efd9085d80",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-transcript.md",
+    "transcriptSha256": "a9f0a2be70f8dce0cc26111313f8403e8aed14712e43341f0e431461cadba98f"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "category": "gameplay",
+      "note": "The opening mixed turn establishes the current sunrise; its Karawa recollection does not advance play."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0009"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0270"
+      },
+      "category": "gameplay",
+      "note": "Waking and breakfast preparations advance the present scene despite the character reintroductions."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0271",
+        "endUid": "u0319"
+      },
+      "category": "table_talk",
+      "note": "Sustained level-up interface troubleshooting interrupts play; the brief hiding clarification stays within that interruption."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0320",
+        "endUid": "u0345"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0346",
+        "endUid": "u1811"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1812",
+        "endUid": "u1821"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1822",
+        "endUid": "u1952"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1953",
+        "endUid": "u2120"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2121",
+        "endUid": "u2642"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2643",
+        "endUid": "u2658"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
