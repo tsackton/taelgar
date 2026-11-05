@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-time-markers.json",
+    "sha256": "8ba7bdd654686031102af858b6ed31a3bcf8d025e2aeee2c373c2e7c46e0234e"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-transcript.md",
+    "sha256": "1b7cb3d94f0c5fd3c98e94906f3d933c6392dadfe19295b30963e4e898f27221"
+  },
+  "dateAssessment": "Working calendar: YAML’s May 11, 1748. The transcript establishes a continuous midday/afternoon adventure with zero date boundaries, but does not independently state the absolute date. The opening six-day journey is recap. Initiation visions preserve historical time separately; the return and prayer remain on the adventure’s same afternoon by continuity, without an exact closing clock.",
+  "watches": [
+    {
+      "day": "May 11, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The DM places the shaded canyon-camp opening at midday.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-05-11",
+      "endDate": "1748-05-11"
+    },
+    {
+      "day": "May 11, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Arrival about 14:00 after ninety minutes; ascent at 14:30. Later prayer lasts five to ten minutes.",
+      "markers": [
+        "t02",
+        "t03",
+        "t05",
+        "t07",
+        "t08",
+        "t09"
+      ],
+      "startDate": "1748-05-11",
+      "endDate": "1748-05-11"
+    },
+    {
+      "day": "Historical initiation visions",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Bhishma’s historical scenes have no civil clock; their months and sunless days do not advance adventure time.",
+      "markers": [
+        "t04",
+        "t06"
+      ],
+      "clock": "local",
+      "scope": "Initial party experience; then Kenzo and Seeker"
+    }
+  ]
+}
