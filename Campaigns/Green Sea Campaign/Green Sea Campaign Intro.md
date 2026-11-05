@@ -66,3 +66,15 @@ maxZoom: 2
 > [!image|hero]
 > ![[stone-coast-walled-port.webp]]
 > *A walled trading town on the stone coast.*
+
+> [!image|hero]
+> ![[talshan-harbor-from-the-cloth-market.webp]]
+> *From the cloth stalls of Talshan, the market steps lead past ochre trade halls to the quays. Across the water, another stair hangs in midair beside an island tower.*
+
+> [!image|hero]
+> ![[praznitsky-harbor-and-the-closed-city.webp]]
+> *Foreign crews bargain for furs and dragonhide on the harbor island of [[Praznitsky]]. Masked wizards patrol the single arc of stone between the noisy quays and the city’s shut gate.*
+
+> [!image|hero]
+> ![[svolhas-river-gate.webp]]
+> *A shepherd brings the flock through a river gate in the [[Republic of Svolhas]]. Beyond the grain fields, another fort watches the road toward the [[Reaver Coast]], where hobgoblin clans hold the eastern tip of [[Irrla]].*
