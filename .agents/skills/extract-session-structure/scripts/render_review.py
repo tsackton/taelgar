@@ -246,7 +246,7 @@ def check_rows(edit, sources, bundle):
                     if m.get('completion') == 'arrived':
                         visited.add(m.get('to'))
                 require(set(row['places']) <= visited, 'Physical locations need matching presence or travel evidence')
-    entities = ids('entity-map', 'entities')
+    entities = {entity['id']: entity for entity in sources['entity-map']['entities']}
     seen = set()
     for row in edit['entities']:
         require(isinstance(row['ids'], list) and len(row['ids']) == 1,
@@ -254,7 +254,9 @@ def check_rows(edit, sources, bundle):
         require(isinstance(row.get('summary'), str) and row['summary'].strip(),
                 'Each entity needs its own nonempty session-specific summary')
         members = set(row['ids'])
-        require(members and members <= entities and not seen & members, 'Invalid entity references')
+        require(members and members <= entities.keys() and not seen & members, 'Invalid entity references')
+        require(all(entities[ident].get('importance') in {'star', 'supporting'} for ident in members),
+                'Only star and supporting entities belong in the review summary')
         seen.update(members)
     stars = {e['id'] for e in sources['entity-map']['entities'] if e['importance'] == 'star'}
     require(stars <= seen, 'Missing star in the cast summary')
@@ -380,13 +382,13 @@ def render(bundle, paths, sources, edit, output, timing):
     entity_map = {e['id']: e for e in sources['entity-map']['entities']}
     kinds = Counter(e['importance'] for e in entity_map.values())
     lines.extend(['## Entities',
-                  f"Stars {kinds['star']} · Supporting {kinds['supporting']} · Cameos {kinds['cameo']}"])
+                  f"Stars {kinds['star']} · Supporting {kinds['supporting']}"])
     rows = []
     for row in edit['entities']:
         entity = entity_map[row['ids'][0]]
-        rows.append([entity['label'], row['summary'], row['ids'][0]])
+        rows.append([entity['label'], entity['importance'], row['summary'], row['ids'][0]])
     if rows:
-        lines.append(table(['Entity', 'Role in this session', 'IDs'], rows))
+        lines.append(table(['Entity', 'Importance', 'Role in this session', 'IDs'], rows))
     lines.append('## Combat')
     if not edit['combats']:
         lines.append('No classified combat encounters.')
