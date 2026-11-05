@@ -1,0 +1,627 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-017",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+    "sessionYamlSha256": "ff51e2303345a07a32461c7aae31dd0ef415742d502a7b3118d729658a71a1c2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-transcript.md",
+    "transcriptSha256": "9bd4b5d5037e05e81d29cb9e01dca214cf564664ad83ccd172420841097b5e69"
+  },
+  "places": {
+    "p01": {
+      "label": "Camp just south of Hralgar’s tower",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0005",
+          "quote": "DM: Okay. So, huddled in a hot, dusty camp in the heat of the end of the dry season, you take a moment to catch your breath and recover from the ordeals of Hralgar’s tower. While the air is quiet and still as the morning heat begins to grow, you're not alone on these Dunmari plains. Just to the north, trapped in a tower and his own mind, the storm giant Hralgar brings an unnatural storm to the plains, lightning and thunder ever present, the danger of fire reduced here only by the fact that there is little left to burn on this part of the plains."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0663",
+              "endUid": "u0668",
+              "quote": "DM: So, I mean, your, your camps. Your camp sort of in the same camp you—that Vola setup just south of the tower. So the same sort of configuration of, of ley lines that you—that you saw before, where there’s, you know, one coming sort of from the east heading into the tap—into the storm, and then another one coming from the—running north-south heading into the storm to create the large node that was under right where the tower was. But there's not nothing else obvious here."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0005",
+              "quote": "DM: Okay. So, huddled in a hot, dusty camp in the heat of the end of the dry season, you take a moment to catch your breath and recover from the ordeals of Hralgar’s tower. While the air is quiet and still as the morning heat begins to grow, you're not alone on these Dunmari plains. Just to the north, trapped in a tower and his own mind, the storm giant Hralgar brings an unnatural storm to the plains, lightning and thunder ever present, the danger of fire reduced here only by the fact that there is little left to burn on this part of the plains."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Hralgar’s tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0005",
+          "quote": "DM: Okay. So, huddled in a hot, dusty camp in the heat of the end of the dry season, you take a moment to catch your breath and recover from the ordeals of Hralgar’s tower. While the air is quiet and still as the morning heat begins to grow, you're not alone on these Dunmari plains. Just to the north, trapped in a tower and his own mind, the storm giant Hralgar brings an unnatural storm to the plains, lightning and thunder ever present, the danger of fire reduced here only by the fact that there is little left to burn on this part of the plains."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md"
+    },
+    "p03": {
+      "label": "Dunmari plains",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0005",
+          "quote": "DM: Okay. So, huddled in a hot, dusty camp in the heat of the end of the dry season, you take a moment to catch your breath and recover from the ordeals of Hralgar’s tower. While the air is quiet and still as the morning heat begins to grow, you're not alone on these Dunmari plains. Just to the north, trapped in a tower and his own mind, the storm giant Hralgar brings an unnatural storm to the plains, lightning and thunder ever present, the danger of fire reduced here only by the fact that there is little left to burn on this part of the plains."
+        }
+      ]
+    },
+    "p04": {
+      "label": "Rise on the southward route",
+      "kind": "ridge",
+      "evidence": [
+        {
+          "startUid": "u0766",
+          "endUid": "u0777",
+          "quote": "DM: Okay, you, you can, like, your horse is leading you at this point because with the goggles on, you can't really see more than 10 feet in front of you, right? Like, the landscape is all blurry and, you know. So you head south. You are extremely tired and going is slow, and it's hard to—it’s hard to make a ton of progress. You know, every sort of brief little rise of the land feels like hiking up a mountain. And so by after lunchtime, you've only made it, you know, a handful of miles. And as you press on into the afternoon, um, you come over a rise and see in the distance, maybe a few hundred feet away, um, a cloud of dust. Somebody traveling on the plains."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0766",
+              "endUid": "u0777",
+              "quote": "DM: Okay, you, you can, like, your horse is leading you at this point because with the goggles on, you can't really see more than 10 feet in front of you, right? Like, the landscape is all blurry and, you know. So you head south. You are extremely tired and going is slow, and it's hard to—it’s hard to make a ton of progress. You know, every sort of brief little rise of the land feels like hiking up a mountain. And so by after lunchtime, you've only made it, you know, a handful of miles. And as you press on into the afternoon, um, you come over a rise and see in the distance, maybe a few hundred feet away, um, a cloud of dust. Somebody traveling on the plains."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Post-battle camp on the plains",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1120",
+          "endUid": "u1120",
+          "quote": "Delwath: I mean, you know, there's nothing on the plains for a ways, right? Can—I mean, what time of day is it?"
+        },
+        {
+          "startUid": "u1121",
+          "endUid": "u1121",
+          "quote": "DM: Like mid afternoon now. You could just set up camp here."
+        },
+        {
+          "startUid": "u1122",
+          "endUid": "u1122",
+          "quote": "Delwath: Yeah, maybe we should."
+        },
+        {
+          "startUid": "u1123",
+          "endUid": "u1124",
+          "quote": "Seeker: Be good for him. Yeah."
+        },
+        {
+          "startUid": "u1125",
+          "endUid": "u1125",
+          "quote": "Wellby: We'll get a little distance from the bodies."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1120",
+              "endUid": "u1120",
+              "quote": "Delwath: I mean, you know, there's nothing on the plains for a ways, right? Can—I mean, what time of day is it?"
+            },
+            {
+              "startUid": "u1121",
+              "endUid": "u1121",
+              "quote": "DM: Like mid afternoon now. You could just set up camp here."
+            },
+            {
+              "startUid": "u1122",
+              "endUid": "u1122",
+              "quote": "Delwath: Yeah, maybe we should."
+            },
+            {
+              "startUid": "u1123",
+              "endUid": "u1124",
+              "quote": "Seeker: Be good for him. Yeah."
+            },
+            {
+              "startUid": "u1125",
+              "endUid": "u1125",
+              "quote": "Wellby: We'll get a little distance from the bodies."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1186",
+              "endUid": "u1197",
+              "quote": "DM: Recover one level of exhaustion. Yeah. And the morning of April 17. April 17, so almost exactly a month since you first met. Whereas—thought I had exactly when you... Oh, three days short of, short of a month from when Seeker arrived—arrived in Karawa. If—the sun rises over the plains. And let's see, that took you..."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Sheltered camp on the old trade road",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1217",
+          "endUid": "u1220",
+          "quote": "DM: So, after six days on the plains, on the April 23, now a month and a day after you all met in Karawa at the occasion of the hyena attacks on the town, you find yourself now about half day's journey north of Karawa, camped in a sheltered spot along the old trade road running east-west."
+        },
+        {
+          "startUid": "u1221",
+          "endUid": "u1228",
+          "quote": "DM: East leading past Gomat to the chasm in the desert, to the fort where you fought your first battles and encountered cockatrices and undead. West towards Tokra, the monastery of Lakan Mystai where Kenzo spent years in training, and eventually on towards Chardon. Then hopefully in that direction, the fields of refugees who have fled from these plains and are now encamped outside of Tokra. As you've traveled south, the land has gotten dryer and dustier, more desert-like, less—more rocky, poor sandy soils, less grasslands. And by this point you are now camped in what is a sort of sheltered, shady, rocky area where, you know, one or two scrub trees grow, but the grass—you left the last grass behind two days ago, and the last extensive vegetation this afternoon. Based on your experience and your knowledge of the land, you expect that by lunch tomorrow you will be arriving in Karawa."
+        }
+      ]
+    },
+    "p07": {
+      "label": "Dark workshop in the mirror",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u1443",
+          "endUid": "u1454",
+          "quote": "DM: You see that the image—the image fades to black. And then you see a brief flash of what looks like a, you know, a sort of dark workshop. You see, like, a bench with tools scattered across it. You know, there’s a forge in the background. Wherever you are is dark, whether it's underground or at night. And then there's a brief of flare of light, and you see..."
+        },
+        {
+          "startUid": "u1455",
+          "endUid": "u1466",
+          "quote": "DM: So you can't hear any sound, but you see what looks like shadows flickering in the, you know, in the flash of light there’s, there’s someone or something dancing and rhythmically, almost like a chant. And as, as this proceeds again, this continues for, you know, a few seconds, and then suddenly the scene cuts away, and you see lying on the bench what looks like a—so it's like something disassembled into four pieces. There’s the—you see this sort of—and it's not finished. There's like this ivory cap of the scroll, and then there's a piece of skin. You know, not sure what kind of skin, but it doesn't look animal."
+        },
+        {
+          "startUid": "u1467",
+          "endUid": "u1470",
+          "quote": "DM: Human or, or dwarves or something, laid out like being cured like leather, and then a nother piece of ivory. And the two pieces of ivory are, are sort of being... There's like a rhythmic noise as they're being carved with something iron. And as, as they're being carved, there's letters being burned into the—just sort of appearing in flames out of, this piece of skin, and it begins to curl up. And then there's another flash of darkness, and the scene goes black for a moment."
+        },
+        {
+          "startUid": "u1471",
+          "endUid": "u1481",
+          "quote": "DM: And then you see a hand reach—reach in wearing a black glove. Can't make out any features of dark black glove, reach and lift this thing up and then fasten on the two—the two ends and hold, hold this thing. And those, those burst again—another burst of light as something emerging, like something is sealed. Something is—some sort of—it feels like magic being done. And you can see now a—the shape in the shadow is more distinct, and it is a creature with a long, barbed tail and two horns. And it clenches its fist on this thing, and then the mirror goes black."
+        }
+      ],
+      "note": "Historical location seen through the mirror; no verified geographic identity."
+    },
+    "p08": {
+      "label": "Ridge above Karawa",
+      "kind": "ridge",
+      "evidence": [
+        {
+          "startUid": "u1785",
+          "endUid": "u1796",
+          "quote": "DM: And as you continue to walk with your heavily loaded horses and your mirror and adamantium and suit of armor clinking towards town, you come up on the rise from which, Kenzo, you first, just over a month ago, looked down at the town below: the oasis, the caravanserai where you stayed, the small clusters of, of huts around the oasis, palm trees, and the Temple of Shakun and carved into the rock of mesa itself. To now a somewhat different scene. Maybe a third of Karawa is destroyed, smashed, burned. Crowd—cracked beyond repair. Some parts of it have clearly burned: the caravanserai, the, you know, wooden parts of the structure, the colorful awnings that used to extend from every building on wooden poles have now—are now just cracked ash in the sky."
+        },
+        {
+          "startUid": "u1797",
+          "endUid": "u1802",
+          "quote": "DM: Sat upon this hill, you see nine large graves, bigger than human-sized, laid out in a row pointing—facing towards the open plains and deserts to the north. Simple markers just, just plain stone markers, each one topped with a different carved wooden design. The palm trees that used to stand around the oasis have been cut down and burned, and the marble, clear marble pool that the water of the oasis bubbled into has been—has cracked."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1785",
+              "endUid": "u1796",
+              "quote": "DM: And as you continue to walk with your heavily loaded horses and your mirror and adamantium and suit of armor clinking towards town, you come up on the rise from which, Kenzo, you first, just over a month ago, looked down at the town below: the oasis, the caravanserai where you stayed, the small clusters of, of huts around the oasis, palm trees, and the Temple of Shakun and carved into the rock of mesa itself. To now a somewhat different scene. Maybe a third of Karawa is destroyed, smashed, burned. Crowd—cracked beyond repair. Some parts of it have clearly burned: the caravanserai, the, you know, wooden parts of the structure, the colorful awnings that used to extend from every building on wooden poles have now—are now just cracked ash in the sky."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Karawa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u1785",
+          "endUid": "u1796",
+          "quote": "DM: And as you continue to walk with your heavily loaded horses and your mirror and adamantium and suit of armor clinking towards town, you come up on the rise from which, Kenzo, you first, just over a month ago, looked down at the town below: the oasis, the caravanserai where you stayed, the small clusters of, of huts around the oasis, palm trees, and the Temple of Shakun and carved into the rock of mesa itself. To now a somewhat different scene. Maybe a third of Karawa is destroyed, smashed, burned. Crowd—cracked beyond repair. Some parts of it have clearly burned: the caravanserai, the, you know, wooden parts of the structure, the colorful awnings that used to extend from every building on wooden poles have now—are now just cracked ash in the sky."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p10": {
+      "label": "Temple of Shakun",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u1884",
+          "endUid": "u1907",
+          "quote": "DM: So as you step into the inside the Temple of Shakun, there was a, like—so the temple itself is carved into the, into the cliff of the mesa, but sort of extending out from the cliff there's a small sort of set of outbuildings and, you know, open rooms and things like that. And one of these is the chamber in which you spoke to Candrosa, you know, now almost a month ago, when you, when you first met him after, after returning from attacking the—dealing with the hyena rampaging hyenas, um. And it’s, it’s a, like a medium-sized sort of, you know, conference room, almost, right? It’s like a room with—a council room or something. There's a table in the middle, there's a series of chairs, pitcher of water. And Candrosa and Alesh seemed like they were in the middle of conversation when, um, when you came over the, the ridge, and hearing the commotion and the noise of your approach have risen to greet you, um. Sorry, so Candrosa looks old and tired. I mean, he, he is a, ah, you know, relatively like he is a, you know, route—not—is not himself old. He's like a, you know, young, middle-aged, imposing man with curly black hair and out and sort of striking figure, but he looks worn out. He’s, like, hunched over, bags around his eyes, looks like he hasn't slept in a week or more. And, you know, everywhere he looks, he's sort of looking around nervously, and his hands are shaking, and he seems to be jumping at the lightest noises, um."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1785",
+              "endUid": "u1796",
+              "quote": "DM: And as you continue to walk with your heavily loaded horses and your mirror and adamantium and suit of armor clinking towards town, you come up on the rise from which, Kenzo, you first, just over a month ago, looked down at the town below: the oasis, the caravanserai where you stayed, the small clusters of, of huts around the oasis, palm trees, and the Temple of Shakun and carved into the rock of mesa itself. To now a somewhat different scene. Maybe a third of Karawa is destroyed, smashed, burned. Crowd—cracked beyond repair. Some parts of it have clearly burned: the caravanserai, the, you know, wooden parts of the structure, the colorful awnings that used to extend from every building on wooden poles have now—are now just cracked ash in the sky."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Council room in the temple outbuildings",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1884",
+          "endUid": "u1907",
+          "quote": "DM: So as you step into the inside the Temple of Shakun, there was a, like—so the temple itself is carved into the, into the cliff of the mesa, but sort of extending out from the cliff there's a small sort of set of outbuildings and, you know, open rooms and things like that. And one of these is the chamber in which you spoke to Candrosa, you know, now almost a month ago, when you, when you first met him after, after returning from attacking the—dealing with the hyena rampaging hyenas, um. And it’s, it’s a, like a medium-sized sort of, you know, conference room, almost, right? It’s like a room with—a council room or something. There's a table in the middle, there's a series of chairs, pitcher of water. And Candrosa and Alesh seemed like they were in the middle of conversation when, um, when you came over the, the ridge, and hearing the commotion and the noise of your approach have risen to greet you, um. Sorry, so Candrosa looks old and tired. I mean, he, he is a, ah, you know, relatively like he is a, you know, route—not—is not himself old. He's like a, you know, young, middle-aged, imposing man with curly black hair and out and sort of striking figure, but he looks worn out. He’s, like, hunched over, bags around his eyes, looks like he hasn't slept in a week or more. And, you know, everywhere he looks, he's sort of looking around nervously, and his hands are shaking, and he seems to be jumping at the lightest noises, um."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1884",
+              "endUid": "u1907",
+              "quote": "DM: So as you step into the inside the Temple of Shakun, there was a, like—so the temple itself is carved into the, into the cliff of the mesa, but sort of extending out from the cliff there's a small sort of set of outbuildings and, you know, open rooms and things like that. And one of these is the chamber in which you spoke to Candrosa, you know, now almost a month ago, when you, when you first met him after, after returning from attacking the—dealing with the hyena rampaging hyenas, um. And it’s, it’s a, like a medium-sized sort of, you know, conference room, almost, right? It’s like a room with—a council room or something. There's a table in the middle, there's a series of chairs, pitcher of water. And Candrosa and Alesh seemed like they were in the middle of conversation when, um, when you came over the, the ridge, and hearing the commotion and the noise of your approach have risen to greet you, um. Sorry, so Candrosa looks old and tired. I mean, he, he is a, ah, you know, relatively like he is a, you know, route—not—is not himself old. He's like a, you know, young, middle-aged, imposing man with curly black hair and out and sort of striking figure, but he looks worn out. He’s, like, hunched over, bags around his eyes, looks like he hasn't slept in a week or more. And, you know, everywhere he looks, he's sort of looking around nervously, and his hands are shaking, and he seems to be jumping at the lightest noises, um."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0005"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party rests at a camp on the plains just south of Hralgar’s tower; the goggles examination still takes place here.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0005",
+          "quote": "DM: Okay. So, huddled in a hot, dusty camp in the heat of the end of the dry season, you take a moment to catch your breath and recover from the ordeals of Hralgar’s tower. While the air is quiet and still as the morning heat begins to grow, you're not alone on these Dunmari plains. Just to the north, trapped in a tower and his own mind, the storm giant Hralgar brings an unnatural storm to the plains, lightning and thunder ever present, the danger of fire reduced here only by the fact that there is little left to burn on this part of the plains."
+        },
+        {
+          "startUid": "u0663",
+          "endUid": "u0668",
+          "quote": "DM: So, I mean, your, your camps. Your camp sort of in the same camp you—that Vola setup just south of the tower. So the same sort of configuration of, of ley lines that you—that you saw before, where there’s, you know, one coming sort of from the east heading into the tap—into the storm, and then another one coming from the—running north-south heading into the storm to create the large node that was under right where the tower was. But there's not nothing else obvious here."
+        },
+        {
+          "startUid": "u0756",
+          "endUid": "u0757",
+          "quote": "DM: No, you haven't even left yet. You're still... Yeah, we..."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0763",
+        "endUid": "u0777"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The exhausted party heads south across the plains and reaches the rise where the gnolls are encountered.",
+      "evidence": [
+        {
+          "startUid": "u0763",
+          "endUid": "u0764",
+          "quote": "DM: Okay, so you set off heading south across the plains. Um, it is..."
+        },
+        {
+          "startUid": "u0765",
+          "endUid": "u0765",
+          "quote": "Seeker: [garbled] the goggles on, [garbled]. Right."
+        },
+        {
+          "startUid": "u0766",
+          "endUid": "u0777",
+          "quote": "DM: Okay, you, you can, like, your horse is leading you at this point because with the goggles on, you can't really see more than 10 feet in front of you, right? Like, the landscape is all blurry and, you know. So you head south. You are extremely tired and going is slow, and it's hard to—it’s hard to make a ton of progress. You know, every sort of brief little rise of the land feels like hiking up a mountain. And so by after lunchtime, you've only made it, you know, a handful of miles. And as you press on into the afternoon, um, you come over a rise and see in the distance, maybe a few hundred feet away, um, a cloud of dust. Somebody traveling on the plains."
+        },
+        {
+          "startUid": "u1198",
+          "endUid": "u1210",
+          "quote": "DM: So that was six miles. Let me just see how long it's gonna take you. So over the next, well, say roughly six days. Okay, so over the next six days you—up—if there's anything you want to do while you're traveling, totally happy to play it out, but in the interest of advancing the plot, I'm also happy to just move forward. So do and take another long rest to clear your conditions. Over the next six days you slowly, laboriously make your way across the plains, picking up speed as the—as you begin to recover from the ordeal of the, of the tower and, you know, find yourself energetic and, and ready to be back in Karawa, um."
+        }
+      ],
+      "from": "p01",
+      "to": "p04",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Slow progress south across the plains after lunch."
+        }
+      ],
+      "distance": {
+        "value": 6,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Retrospective first-day distance at u1198–u1210."
+      }
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1120",
+        "endUid": "u1125"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party camps a little away from the bodies after the battle; later narration confirms they set up camp and sleep.",
+      "evidence": [
+        {
+          "startUid": "u1120",
+          "endUid": "u1120",
+          "quote": "Delwath: I mean, you know, there's nothing on the plains for a ways, right? Can—I mean, what time of day is it?"
+        },
+        {
+          "startUid": "u1121",
+          "endUid": "u1121",
+          "quote": "DM: Like mid afternoon now. You could just set up camp here."
+        },
+        {
+          "startUid": "u1122",
+          "endUid": "u1122",
+          "quote": "Delwath: Yeah, maybe we should."
+        },
+        {
+          "startUid": "u1123",
+          "endUid": "u1124",
+          "quote": "Seeker: Be good for him. Yeah."
+        },
+        {
+          "startUid": "u1125",
+          "endUid": "u1125",
+          "quote": "Wellby: We'll get a little distance from the bodies."
+        },
+        {
+          "startUid": "u1177",
+          "endUid": "u1179",
+          "quote": "DM: Okay. Um, so as you set up camp here, sleep for the night. Ah, so, so, long rests. So that will cure one level of exhaustion. You'll need to sleep again before you get back to completely no, no negative effects."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1198",
+        "endUid": "u1220"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Six days south across the plains end at a sheltered roadside camp about half a day north of Karawa.",
+      "evidence": [
+        {
+          "startUid": "u1198",
+          "endUid": "u1210",
+          "quote": "DM: So that was six miles. Let me just see how long it's gonna take you. So over the next, well, say roughly six days. Okay, so over the next six days you—up—if there's anything you want to do while you're traveling, totally happy to play it out, but in the interest of advancing the plot, I'm also happy to just move forward. So do and take another long rest to clear your conditions. Over the next six days you slowly, laboriously make your way across the plains, picking up speed as the—as you begin to recover from the ordeal of the, of the tower and, you know, find yourself energetic and, and ready to be back in Karawa, um."
+        },
+        {
+          "startUid": "u1217",
+          "endUid": "u1220",
+          "quote": "DM: So, after six days on the plains, on the April 23, now a month and a day after you all met in Karawa at the occasion of the hyena attacks on the town, you find yourself now about half day's journey north of Karawa, camped in a sheltered spot along the old trade road running east-west."
+        },
+        {
+          "startUid": "u1221",
+          "endUid": "u1228",
+          "quote": "DM: East leading past Gomat to the chasm in the desert, to the fort where you fought your first battles and encountered cockatrices and undead. West towards Tokra, the monastery of Lakan Mystai where Kenzo spent years in training, and eventually on towards Chardon. Then hopefully in that direction, the fields of refugees who have fled from these plains and are now encamped outside of Tokra. As you've traveled south, the land has gotten dryer and dustier, more desert-like, less—more rocky, poor sandy soils, less grasslands. And by this point you are now camped in what is a sort of sheltered, shady, rocky area where, you know, one or two scrub trees grow, but the grass—you left the last grass behind two days ago, and the last extensive vegetation this afternoon. Based on your experience and your knowledge of the land, you expect that by lunch tomorrow you will be arriving in Karawa."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "duration": {
+        "value": 6,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Completed compressed journey."
+      },
+      "route": [
+        {
+          "reading": "The land becomes drier and rockier; the party leaves grass and then extensive vegetation behind."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u1443",
+        "endUid": "u1481"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees a dark workshop and a horned, barbed-tailed figure assembling the scroll case through the mirror.",
+      "evidence": [
+        {
+          "startUid": "u1443",
+          "endUid": "u1454",
+          "quote": "DM: You see that the image—the image fades to black. And then you see a brief flash of what looks like a, you know, a sort of dark workshop. You see, like, a bench with tools scattered across it. You know, there’s a forge in the background. Wherever you are is dark, whether it's underground or at night. And then there's a brief of flare of light, and you see..."
+        },
+        {
+          "startUid": "u1455",
+          "endUid": "u1466",
+          "quote": "DM: So you can't hear any sound, but you see what looks like shadows flickering in the, you know, in the flash of light there’s, there’s someone or something dancing and rhythmically, almost like a chant. And as, as this proceeds again, this continues for, you know, a few seconds, and then suddenly the scene cuts away, and you see lying on the bench what looks like a—so it's like something disassembled into four pieces. There’s the—you see this sort of—and it's not finished. There's like this ivory cap of the scroll, and then there's a piece of skin. You know, not sure what kind of skin, but it doesn't look animal."
+        },
+        {
+          "startUid": "u1467",
+          "endUid": "u1470",
+          "quote": "DM: Human or, or dwarves or something, laid out like being cured like leather, and then a nother piece of ivory. And the two pieces of ivory are, are sort of being... There's like a rhythmic noise as they're being carved with something iron. And as, as they're being carved, there's letters being burned into the—just sort of appearing in flames out of, this piece of skin, and it begins to curl up. And then there's another flash of darkness, and the scene goes black for a moment."
+        },
+        {
+          "startUid": "u1471",
+          "endUid": "u1481",
+          "quote": "DM: And then you see a hand reach—reach in wearing a black glove. Can't make out any features of dark black glove, reach and lift this thing up and then fasten on the two—the two ends and hold, hold this thing. And those, those burst again—another burst of light as something emerging, like something is sealed. Something is—some sort of—it feels like magic being done. And you can see now a—the shape in the shadow is more distinct, and it is a creature with a long, barbed tail and two horns. And it clenches its fist on this thing, and then the mirror goes black."
+        }
+      ],
+      "place": "p07",
+      "mode": "vision",
+      "observerPlace": "p06",
+      "context": "vision"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1773",
+        "endUid": "u1802"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves camp, heads south along the track toward Karawa, and reaches the ridge overlooking the settlement.",
+      "evidence": [
+        {
+          "startUid": "u1773",
+          "endUid": "u1774",
+          "quote": "DM: So, fast forward to morning."
+        },
+        {
+          "startUid": "u1775",
+          "endUid": "u1784",
+          "quote": "DM: The next morning dawns hot, dry, dusty in the desert, still waiting for the rains of summer to come. You're maybe 10, 15 miles at most from Karawa here. And as you begin to head south, following the road that—the sort of track that leads off the, the old trade road towards on the settlement of Karawa, that the refugees maybe, what, three weeks ago now roughly departed on, you can see, as you begin to approach, the red, red mesa that forms the backdrop of Karawa looming in the background. As you get closer, you can see smoke rising from a few places in, in Karawa. Whether fires intentionally set as campfires or something burning is not entirely clear from this distance."
+        },
+        {
+          "startUid": "u1785",
+          "endUid": "u1796",
+          "quote": "DM: And as you continue to walk with your heavily loaded horses and your mirror and adamantium and suit of armor clinking towards town, you come up on the rise from which, Kenzo, you first, just over a month ago, looked down at the town below: the oasis, the caravanserai where you stayed, the small clusters of, of huts around the oasis, palm trees, and the Temple of Shakun and carved into the rock of mesa itself. To now a somewhat different scene. Maybe a third of Karawa is destroyed, smashed, burned. Crowd—cracked beyond repair. Some parts of it have clearly burned: the caravanserai, the, you know, wooden parts of the structure, the colorful awnings that used to extend from every building on wooden poles have now—are now just cracked ash in the sky."
+        },
+        {
+          "startUid": "u1797",
+          "endUid": "u1802",
+          "quote": "DM: Sat upon this hill, you see nine large graves, bigger than human-sized, laid out in a row pointing—facing towards the open plains and deserts to the north. Simple markers just, just plain stone markers, each one topped with a different carved wooden design. The palm trees that used to stand around the oasis have been cut down and burned, and the marble, clear marble pool that the water of the oasis bubbled into has been—has cracked."
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk with loaded horses",
+      "route": [
+        {
+          "reading": "Follow the track south from the old trade road."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1785",
+        "endUid": "u1802"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the ridge the party sees widespread destruction in Karawa and large graves; this view precedes entering town.",
+      "evidence": [
+        {
+          "startUid": "u1785",
+          "endUid": "u1796",
+          "quote": "DM: And as you continue to walk with your heavily loaded horses and your mirror and adamantium and suit of armor clinking towards town, you come up on the rise from which, Kenzo, you first, just over a month ago, looked down at the town below: the oasis, the caravanserai where you stayed, the small clusters of, of huts around the oasis, palm trees, and the Temple of Shakun and carved into the rock of mesa itself. To now a somewhat different scene. Maybe a third of Karawa is destroyed, smashed, burned. Crowd—cracked beyond repair. Some parts of it have clearly burned: the caravanserai, the, you know, wooden parts of the structure, the colorful awnings that used to extend from every building on wooden poles have now—are now just cracked ash in the sky."
+        },
+        {
+          "startUid": "u1797",
+          "endUid": "u1802",
+          "quote": "DM: Sat upon this hill, you see nine large graves, bigger than human-sized, laid out in a row pointing—facing towards the open plains and deserts to the north. Simple markers just, just plain stone markers, each one topped with a different carved wooden design. The palm trees that used to stand around the oasis have been cut down and burned, and the marble, clear marble pool that the water of the oasis bubbled into has been—has cracked."
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1852",
+        "endUid": "u1907"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Havdar escorts the party down through ruined Karawa; the party enters the Temple of Shakun and its council room to meet Candrosa and Alesh.",
+      "evidence": [
+        {
+          "startUid": "u1852",
+          "endUid": "u1855",
+          "quote": "DM: He, you know, as he rides off, he sort of, you know, speaks briefly to the centaurs, and one of them—one of them rides off. And, and as he's riding down—as Havdar is riding down to the temple with you, he says, ‘I'm sure Tharandros will want to be present for this conversation as well. But let us say first speak with Alesh and Candrosa.’"
+        },
+        {
+          "startUid": "u1857",
+          "endUid": "u1868",
+          "quote": "DM: Plausibly centaur graves, yes. So as you walk down to the town, even though you only spent a short time there, a few days, you see bits and pieces of the, the town that you briefly knew in ruins. The, you know, the Ikram’s caravanserai has the—in the central gathering place, the, the site of the agreement and his stories and, and other things is—seems the biggest loss. But, Delwath, your apartment is in ruins."
+        },
+        {
+          "startUid": "u1869",
+          "endUid": "u1877",
+          "quote": "DM: The whole second floor of the, the, the root—the roof of the side of the whole second floor of the, of that block with the tea house, has been cracked and burned and crumbled in upon itself. And the peaceful shade trees that used to stand around the oasis are now no longer there, and the hot sun now beats down, um, evaporating the water and scorching the ground. As you approach the temple, Seeker, you can see that the extensive fortifications that you constructed seem to have weathered the storm, although recently some have been cleared out to provide a more straightforward path through and into the temple itself."
+        },
+        {
+          "startUid": "u1884",
+          "endUid": "u1907",
+          "quote": "DM: So as you step into the inside the Temple of Shakun, there was a, like—so the temple itself is carved into the, into the cliff of the mesa, but sort of extending out from the cliff there's a small sort of set of outbuildings and, you know, open rooms and things like that. And one of these is the chamber in which you spoke to Candrosa, you know, now almost a month ago, when you, when you first met him after, after returning from attacking the—dealing with the hyena rampaging hyenas, um. And it’s, it’s a, like a medium-sized sort of, you know, conference room, almost, right? It’s like a room with—a council room or something. There's a table in the middle, there's a series of chairs, pitcher of water. And Candrosa and Alesh seemed like they were in the middle of conversation when, um, when you came over the, the ridge, and hearing the commotion and the noise of your approach have risen to greet you, um. Sorry, so Candrosa looks old and tired. I mean, he, he is a, ah, you know, relatively like he is a, you know, route—not—is not himself old. He's like a, you know, young, middle-aged, imposing man with curly black hair and out and sort of striking figure, but he looks worn out. He’s, like, hunched over, bags around his eyes, looks like he hasn't slept in a week or more. And, you know, everywhere he looks, he's sort of looking around nervously, and his hands are shaking, and he seems to be jumping at the lightest noises, um."
+        }
+      ],
+      "from": "p08",
+      "to": "p11",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p09",
+          "reading": "Walk through the ruined town."
+        },
+        {
+          "place": "p10",
+          "reading": "Enter the temple’s outbuilding complex."
+        }
+      ]
+    }
+  ]
+}

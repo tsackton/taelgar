@@ -1,0 +1,1301 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "4d9b7c312020591c23efc839a57c0e2825d899ad560aaddef4fc6d022623ead3",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "9bd4b5d5037e05e81d29cb9e01dca214cf564664ad83ccd172420841097b5e69",
+        "transcriptProcessing.artifacts.cleaned": "99ba46b8518c72058618c0c20271858f3471cc29667eaaaa581fa6cf09f2a83c"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "label": "Frankar",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0016",
+            "endUid": "u0054"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Frank"
+      ],
+      "note": "People/Dwarves/Frankar.md"
+    },
+    {
+      "id": "e002",
+      "label": "Frankar’s divination machine",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0030",
+            "endUid": "u0050"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A particular lost machine drives Frankar’s disappearance story; no independent item page was found."
+    },
+    {
+      "id": "e003",
+      "label": "Society of the Open Scroll",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0121",
+            "endUid": "u0150"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Society of the Open Scroll.md"
+    },
+    {
+      "id": "e004",
+      "label": "Wellby’s family",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0170",
+            "endUid": "u0196"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "identifiedLater": true,
+      "note": "Groups/Halfling Families/Goodbarrels.md"
+    },
+    {
+      "id": "e005",
+      "label": "Wellby’s great-great-grandfather",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0181",
+            "endUid": "u0196"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e006",
+      "label": "Charmhearts",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0200",
+            "endUid": "u0201"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Halfling Families/Charmhearts.md"
+    },
+    {
+      "id": "e007",
+      "label": "Agata Dustmother",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0232",
+            "endUid": "u0284"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2336",
+            "endUid": "u2385"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Agata",
+        "Old Woman of the Dusts",
+        "Old Mother of the Dusts"
+      ],
+      "identifiedLater": true,
+      "note": "People/Fey/Agata.md",
+      "confidenceExplanation": "The vault confirms the title; in this session Candrosa only proposes the identification, and neither report proves her nature or residence."
+    },
+    {
+      "id": "e008",
+      "label": "Vola",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0006",
+            "endUid": "u0009"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0252",
+            "endUid": "u0257"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0540",
+            "endUid": "u0545"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Vola.md"
+    },
+    {
+      "id": "e009",
+      "label": "Hralgar",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0002",
+            "endUid": "u0005"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0269",
+            "endUid": "u0305"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Giants/Hralgar.md"
+    },
+    {
+      "id": "e010",
+      "label": "Eudomes",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0299",
+            "endUid": "u0305"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0323",
+            "endUid": "u0328"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0728",
+            "endUid": "u0730"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Eudomes.md"
+    },
+    {
+      "id": "e011",
+      "label": "Letters from the tower",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0306",
+            "endUid": "u0367"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Two letters from Stormcaller Tower.md"
+    },
+    {
+      "id": "e012",
+      "label": "Occulta Ludum",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0306",
+            "endUid": "u0387"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1248",
+            "endUid": "u1255"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Drankorian Societies/Occulta Ludum.md"
+    },
+    {
+      "id": "e013",
+      "label": "Great Library",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0336",
+            "endUid": "u0355"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0540",
+            "endUid": "u0545"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1569",
+            "endUid": "u1570"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md"
+    },
+    {
+      "id": "e014",
+      "label": "Kajsa",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0338",
+            "endUid": "u0339"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Kajsa"
+      ],
+      "note": "People/Chardonians/Kaeso.md",
+      "confidenceExplanation": "The unique Chardonian mentor relationship matches Kaeso; Kajsa is retained as the transcript spelling."
+    },
+    {
+      "id": "e015",
+      "label": "Cha’mutte",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0010",
+            "endUid": "u0011"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "e016",
+      "label": "Beryl",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0512",
+            "endUid": "u0525"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Beryl.md"
+    },
+    {
+      "id": "e017",
+      "label": "Hralgar’s eyes",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0414",
+            "endUid": "u0418"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0540",
+            "endUid": "u0545"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes.md"
+    },
+    {
+      "id": "e018",
+      "label": "Mirror of the Past",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0549",
+            "endUid": "u0596"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0718",
+            "endUid": "u0730"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1305",
+            "endUid": "u1321"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1433",
+            "endUid": "u1506"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of the Past.md"
+    },
+    {
+      "id": "e019",
+      "label": "Purple goggles",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0684",
+            "endUid": "u0715"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0747",
+            "endUid": "u0752"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1277",
+            "endUid": "u1278"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1300",
+            "endUid": "u1304"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Goggles of Object Reading"
+      ],
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Goggles of Object Reading.md",
+      "confidenceExplanation": "Investigation discovers what the previously unidentified goggles are; ordinary subsequent uses alone are not the inclusion basis."
+    },
+    {
+      "id": "e020",
+      "label": "Kenzo’s horn",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0731",
+            "endUid": "u0746"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Magic Items/Horn of Silent Alarm (Dunmari).md",
+      "confidenceExplanation": "The running-horse motif uniquely matches Kenzo’s horn; its age and craftsmanship are original item lore."
+    },
+    {
+      "id": "e021",
+      "label": "Riswynn",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0801",
+            "endUid": "u0807"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Riswynn.md"
+    },
+    {
+      "id": "e022",
+      "label": "Wellby’s axebeak",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0833",
+            "endUid": "u0835"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "An established companion is addressed, but this passage gives no name or evidence distinguishing it from Wellby’s later mount Baxter."
+    },
+    {
+      "id": "e023",
+      "label": "Ivory scroll cap",
+      "kind": "item",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1322",
+            "endUid": "u1324"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1351",
+            "endUid": "u1355"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1433",
+            "endUid": "u1506"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1520",
+            "endUid": "u1547"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "examinedInMirrorOfPast": true,
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Ivory Scroll Case.md"
+    },
+    {
+      "id": "e024",
+      "label": "Taster",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1335",
+            "endUid": "u1336"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Taster.md"
+    },
+    {
+      "id": "e025",
+      "label": "Demon fought in Raven’s Hold",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1322",
+            "endUid": "u1324"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1482",
+            "endUid": "u1485"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "identifiedLater": true,
+      "note": "People/Other Nonhumans/Oduk.md"
+    },
+    {
+      "id": "e026",
+      "label": "Horned figure in the scroll-cap vision",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1471",
+            "endUid": "u1485"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A distinct horned, barbed-tailed figure handles the case; the DM differentiates it from the Raven’s Hold demon. No supported named match was found."
+    },
+    {
+      "id": "e027",
+      "label": "Lakan Mystai",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1221",
+            "endUid": "u1228"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1572",
+            "endUid": "u1574"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Lakan Mystai.md"
+    },
+    {
+      "id": "e028",
+      "label": "Bahrazel",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1636",
+            "endUid": "u1645"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md"
+    },
+    {
+      "id": "e029",
+      "label": "Havdar",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1803",
+            "endUid": "u1855"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1878",
+            "endUid": "u1883"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Havdar.md"
+    },
+    {
+      "id": "e030",
+      "label": "Havdar’s band",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0006",
+            "endUid": "u0009"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1803",
+            "endUid": "u1810"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Havdar's Warband.md"
+    },
+    {
+      "id": "e031",
+      "label": "Tharandros",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1818",
+            "endUid": "u1855"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1878",
+            "endUid": "u1883"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Tharandros.md"
+    },
+    {
+      "id": "e032",
+      "label": "Tharandros’s centaur band",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1803",
+            "endUid": "u1819"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1914",
+            "endUid": "u1979"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1996",
+            "endUid": "u2027"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "An established band known from earlier contact, with a named leader and continuing identity beyond this rescue."
+    },
+    {
+      "id": "e033",
+      "label": "Candrosa",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1884",
+            "endUid": "u1907"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1914",
+            "endUid": "u1979"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2178",
+            "endUid": "u2237"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2336",
+            "endUid": "u2385"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Candrosa.md"
+    },
+    {
+      "id": "e034",
+      "label": "Alesh",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1908",
+            "endUid": "u1912"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2032",
+            "endUid": "u2138"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2238",
+            "endUid": "u2335"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Alesh.md"
+    },
+    {
+      "id": "e035",
+      "label": "Shakun",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2178",
+            "endUid": "u2237"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md"
+    },
+    {
+      "id": "e036",
+      "label": "Mystai of Shakun",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0006",
+            "endUid": "u0009"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2217",
+            "endUid": "u2235"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Shakun Mystai.md"
+    },
+    {
+      "id": "e037",
+      "label": "Unusual raven following the gnolls",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2114",
+            "endUid": "u2130"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Alesh’s specific suspicious sighting establishes a mystery referent, not an identity match to the unrelated character Raven."
+    },
+    {
+      "id": "e038",
+      "label": "Unknown resident of the stone house",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2238",
+            "endUid": "u2291"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Alesh infers one resident from the household. The later Pava material suggests a lead, but the report cannot distinguish the occupant or establish an Agata match."
+    },
+    {
+      "id": "e039",
+      "label": "Two unidentified orc scouts",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2295",
+            "endUid": "u2335"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Retained together as one reported mystery sighting; neither scout has individual distinguishing details and no lasting organization is established."
+    },
+    {
+      "id": "e040",
+      "label": "Doppelganger associated with Agata",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0258",
+            "endUid": "u0265"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A particular earlier adversary is recalled, but this brief reference does not establish a personal name or validate the alleged allegiance."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Six gnolls encountered on the plains",
+      "reason": "Generic unnamed combat opponents; no individual identity beyond this encounter. Their complete action sequence is retained in combat.json.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0783",
+            "endUid": "u0794"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1088",
+            "endUid": "u1089"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Refugees and generic demon summoners",
+      "reason": "Crowds and speculative unnamed classes do not establish individuals or persistent organizations.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0010",
+            "endUid": "u0011"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0258",
+            "endUid": "u0267"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Adamantium, armor and mundane equipment",
+      "reason": "Incidental load and inventory references; no separate meaningful identity or event in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0649",
+            "endUid": "u0656"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1785",
+            "endUid": "u1796"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Darts and shadow sword",
+      "reason": "Routine PC weapon and ability use during combat.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0924",
+            "endUid": "u0932"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1031",
+            "endUid": "u1039"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Gnoll leader’s glaive",
+      "reason": "Post-battle examination explicitly finds no notable history or magic; ordinary enemy weapon.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1126",
+            "endUid": "u1133"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Death water, hobgoblin staff, acidic ichor and fire elemental gem",
+      "reason": "Brief inventory of alternative mirror targets, with no examination or substantive new lore; the cap is the chosen plot object.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1325",
+            "endUid": "u1349"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Hypothetical mother and sick child",
+      "reason": "Illustrative characters within Candrosa’s warning about bargains; not identified historical people.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2365",
+            "endUid": "u2385"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Two letters from Stormcaller Tower.md",
+    "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Ivory Scroll Cap Vision.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Goggles of Object Reading.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Ivory Scroll Case.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of the Past.md",
+    "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md",
+    "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md",
+    "Groups/Chardonian Organizations/Society of the Open Scroll.md",
+    "Groups/Drankorian Societies/Occulta Ludum.md",
+    "Groups/Dunmari Mystery Cults/Lakan Mystai.md",
+    "Groups/Dunmari Mystery Cults/Shakun Mystai.md",
+    "Groups/Halfling Families/Charmhearts.md",
+    "Groups/Halfling Families/Goodbarrels.md",
+    "Groups/Havdar's Warband.md",
+    "People/Chardonians/Kaeso.md",
+    "People/Chardonians/Vola.md",
+    "People/Dunmari/Alesh.md",
+    "People/Dunmari/Candrosa.md",
+    "People/Dunmari/Havdar.md",
+    "People/Dunmari/Pava.md",
+    "People/Dwarves/Frankar.md",
+    "People/Extraplanar Powers/Cha'mutte.md",
+    "People/Fey/Agata.md",
+    "People/Giants/Hralgar.md",
+    "People/Historical Figures/Eudomes.md",
+    "People/Other Nonhumans/Oduk.md",
+    "People/Other Nonhumans/Tharandros.md",
+    "People/PCs/Dunmar Fellowship/Companions/Baxter.md",
+    "People/PCs/Dunmar Fellowship/Companions/Taster.md",
+    "People/PCs/Dunmar Fellowship/Guests/Raven.md",
+    "People/PCs/Dunmar Fellowship/Riswynn.md",
+    "People/PCs/Great War/Beryl.md",
+    "Things/Magic Items/Horn of Silent Alarm (Dunmari).md"
+  ]
+}

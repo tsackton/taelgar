@@ -1,0 +1,298 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-017",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+    "sessionYamlSha256": "ff51e2303345a07a32461c7aae31dd0ef415742d502a7b3118d729658a71a1c2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-transcript.md",
+    "transcriptSha256": "9bd4b5d5037e05e81d29cb9e01dca214cf564664ad83ccd172420841097b5e69",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-segments.json",
+      "sha256": "cf0add1eebe899ad2109ff8776c0a34d7af2bcbcf99968bce094afb28da4da0f",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Six gnolls on the plains south of the tower",
+      "note": "The party rolls initiative with disadvantage from exhaustion. The brief rest bookkeeping inside the first round credits the earlier breakfast rest.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Fires Eldritch Blast at a gnoll 120 feet away; the attack roll of 9 misses. The DM confirms no attack disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u0865",
+                  "endUid": "u0876"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "Retrospective short-rest credit is applied: Kenzo regains ki and 4 hit points; Seeker spends two Hit Dice for 14 hit points. This resolves the earlier rest, not a pause in the fight.",
+              "evidence": [
+                {
+                  "startUid": "u0878",
+                  "endUid": "u0890"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Runs up from behind the hill and fires a crossbow; the bolt misses.",
+              "evidence": [
+                {
+                  "startUid": "u0891",
+                  "endUid": "u0902"
+                },
+                {
+                  "startUid": "u0875",
+                  "endUid": "u0876"
+                }
+              ]
+            },
+            {
+              "actor": "Gnoll leader",
+              "kind": "turn",
+              "summary": "Draws a glaive and charges 60 feet, closing to 60 feet from the party.",
+              "evidence": [
+                {
+                  "startUid": "u0896",
+                  "endUid": "u0902"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Remains stationary and uses Steady Aim for advantage; his shortbow hits the leader for 14 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0903",
+                  "endUid": "u0923"
+                }
+              ]
+            },
+            {
+              "actor": "Five skeletal gnolls",
+              "kind": "turn",
+              "summary": "Charge 60 feet, bringing them within 60 feet of the party.",
+              "evidence": [
+                {
+                  "startUid": "u0916",
+                  "endUid": "u0923"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Throws a dart at 60 feet with disadvantage; the roll of 12 misses.",
+              "evidence": [
+                {
+                  "startUid": "u0924",
+                  "endUid": "u0932"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the leader with Eldritch Blast for 2 damage and adds Hex for another 4 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0935",
+                  "endUid": "u0947"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Crouches under a horse and casts Shatter between two skeletal gnolls. Both fail their saves and are destroyed by 13 damage; the saving-throw ability is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u0948",
+                  "endUid": "u0982"
+                }
+              ]
+            },
+            {
+              "actor": "Gnoll leader",
+              "kind": "turn",
+              "summary": "Runs another 50 feet (corrected from 60), stopping 10 feet from Kenzo and Delwath with its glaive.",
+              "evidence": [
+                {
+                  "startUid": "u0976",
+                  "endUid": "u0982"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Calls for the leader to surrender, then shoots it, hitting for 15 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0983",
+                  "endUid": "u0994"
+                }
+              ]
+            },
+            {
+              "actor": "Three skeletal gnolls",
+              "kind": "turn",
+              "summary": "Rush forward: two stand next to Delwath and one next to Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u0989",
+                  "endUid": "u0994"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Fist of Planar Power on the leader. A Strength save is called for; the attack strikes, knocks the leader backward to the ground and kills it. Later dialogue confirms 18 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0995",
+                  "endUid": "u1012"
+                },
+                {
+                  "startUid": "u1066",
+                  "endUid": "u1067"
+                }
+              ],
+              "note": "The save result is not separately stated; the narrated strike and death establish the outcome."
+            },
+            {
+              "actor": "Skeletal gnoll beside Kenzo",
+              "kind": "reaction",
+              "summary": "Reacts to the leader’s death by biting Kenzo for 6 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1013",
+                  "endUid": "u1021"
+                }
+              ]
+            },
+            {
+              "actor": "First skeletal gnoll beside Delwath",
+              "kind": "reaction",
+              "summary": "Reacts to the leader’s death with a bite; Delwath dodges and it misses.",
+              "evidence": [
+                {
+                  "startUid": "u1013",
+                  "endUid": "u1021"
+                }
+              ]
+            },
+            {
+              "actor": "Second skeletal gnoll beside Delwath",
+              "kind": "reaction",
+              "summary": "Reacts to the leader’s death with a club swing; Delwath blocks it with his shield (AC 17).",
+              "evidence": [
+                {
+                  "startUid": "u1013",
+                  "endUid": "u1021"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Green-Flame Blade with his summoned shadow sword, dealing 11 damage and killing one adjacent gnoll. Flame leaps to the other adjacent gnoll for 4 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1023",
+                  "endUid": "u1043"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses Vicious Mockery on the gnoll beside Kenzo, dealing 1 psychic damage and imposing disadvantage on its next attack.",
+              "evidence": [
+                {
+                  "startUid": "u1044",
+                  "endUid": "u1051"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Kills the remaining gnoll beside Delwath. Damage and attack method are not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1052",
+                  "endUid": "u1057"
+                },
+                {
+                  "startUid": "u1072",
+                  "endUid": "u1078"
+                }
+              ],
+              "note": "Target inferred from the subsequent sole surviving gnoll attacking Kenzo."
+            },
+            {
+              "actor": "Remaining skeletal gnoll",
+              "kind": "turn",
+              "summary": "Bites at Kenzo and misses, distracted by Vicious Mockery; the previously imposed disadvantage applies to this next attack.",
+              "evidence": [
+                {
+                  "startUid": "u1072",
+                  "endUid": "u1078"
+                },
+                {
+                  "startUid": "u1051",
+                  "endUid": "u1051"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Misses with his quarterstaff, then lands both Flurry of Blows strikes and destroys the last skeletal gnoll.",
+              "evidence": [
+                {
+                  "startUid": "u1079",
+                  "endUid": "u1089"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The leader and all five skeletal gnolls are dead; Kenzo’s two unarmed strikes finish the last opponent.",
+        "evidence": [
+          {
+            "startUid": "u1088",
+            "endUid": "u1089"
+          }
+        ]
+      }
+    }
+  ]
+}
