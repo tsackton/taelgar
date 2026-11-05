@@ -29,7 +29,7 @@ For a comparison trial, use an explicitly separate output directory and fingerpr
 Read the complete transcript in source order, using manageable windows and respecting shared-UID turn groups. Before advancing each window:
 
 - Draft sparse time markers for established anchors, elapsed gameplay, and shifts of narrated time. Apply the time skill’s inclusion rules in each window. Attach later confirmations and corrections to the affected marker, retaining their source UIDs. Leave other gameplay unassigned, including split-party actions whose timing the table leaves open. Record supported values and exact evidence during this read.
-- Draft location markers and dictionary entries at the narrated scale. Keep journeys together when appropriate; repeated descriptions do not automatically create new markers.
+- Draft location markers and dictionary entries at the narrated scale, retaining supported enclosing sites/regions, containment evidence, and verified vault identities as well as local rooms. Keep journeys together when appropriate; repeated descriptions or dictionary parents do not automatically create new markers.
 - Extend the segment classification, carrying open segments across reading windows. Classification boundaries are not scenes and do not control which other facts may be extracted.
 - Record entity candidates, identity-bearing occurrences, meaningful exclusions, and provisional importance. Defer final identity matching and whole-session importance until the full read is complete.
 - When combat actions are already being read closely, retain an action draft with its citations. It remains provisional until the mandatory dedicated combat pass; drafting during the shared read does not satisfy that requirement.

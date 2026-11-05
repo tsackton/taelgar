@@ -145,6 +145,52 @@ def recording_time(bundle, segments):
     return result
 
 
+def check_places(location_data):
+    places = location_data['places']
+    checked = set()
+
+    def visit(ident, trail):
+        require(ident not in trail, 'Containment cycle in location dictionary')
+        if ident in checked:
+            return
+        place = places[ident]
+        if 'vaultPath' in place:
+            value = place['vaultPath']
+            require(isinstance(value, str) and bool(value.strip()), 'Invalid location vaultPath')
+            path = (VAULT / value).resolve()
+            require(not Path(value).is_absolute() and path.is_relative_to(VAULT.resolve()) and path.is_file(),
+                    f'Location vaultPath must resolve to a file inside the vault: {value}')
+        for relation in place.get('relations', []):
+            require(relation.get('target') in places, 'Unknown parent or related location')
+            if relation['relation'] == 'within':
+                require(relation.get('evidence'), 'Containment needs extraction evidence')
+                visit(relation['target'], trail | {ident})
+        checked.add(ident)
+
+    for ident in places:
+        visit(ident, set())
+    for marker in location_data.get('markers', []):
+        for context in marker.get('locationContext', []):
+            require(context.get('subject') in places and context.get('target') in places,
+                    'Unknown location in temporary context')
+
+
+def place_paths(places, ident):
+    """Use only asserted containment; the caller validates references and cycles."""
+    place = places[ident]
+    parents = [relation for relation in place.get('relations', []) if relation['relation'] == 'within']
+    paths, notes = [], []
+    for relation in parents:
+        parent_paths, parent_notes = place_paths(places, relation['target'])
+        paths.extend(path + [ident] for path in parent_paths)
+        notes.extend(parent_notes)
+        if relation.get('note'):
+            notes.append(f"{place['label']} within {places[relation['target']]['label']}: {relation['note']}")
+    if place.get('note'):
+        notes.append(f"{place['label']}: {place['note']}")
+    return paths or [[ident]], notes
+
+
 def check_rows(edit, sources, bundle):
     def ids(key, field):
         return {entry['id'] for entry in sources[key][field]}
@@ -164,6 +210,7 @@ def check_rows(edit, sources, bundle):
         primary.extend(row['markers'])
     require(Counter(primary) == Counter({ident: 1 for ident in all_times}), 'Missing, extra, or repeated primary time marker')
     location_data = sources['location-markers']
+    check_places(location_data)
     places = location_data['places']
     markers = {m['id']: m for m in location_data['markers']}
     require(set(edit.get('placeLabels', {})) <= places.keys(), 'Unknown place in short labels')
@@ -178,6 +225,7 @@ def check_rows(edit, sources, bundle):
             require(all(m['type'] == 'observation' for m in cited), 'Use observation markers for observed places')
             require(any(m['place'] in row['places'] for m in cited), 'Observed location needs a matching target')
             if row.get('from'):
+                require(row['from'] in places, 'Unknown observer location')
                 require(all(m.get('observerPlace') == row['from'] for m in cited), 'Observer position differs')
         else:
             played = [m for m in cited if m.get('context') in (None, 'flashback')]
@@ -201,6 +249,10 @@ def check_rows(edit, sources, bundle):
     entities = ids('entity-map', 'entities')
     seen = set()
     for row in edit['entities']:
+        require(isinstance(row['ids'], list) and len(row['ids']) == 1,
+                'Use exactly one entity ID per review row; write its own session-specific summary')
+        require(isinstance(row.get('summary'), str) and row['summary'].strip(),
+                'Each entity needs its own nonempty session-specific summary')
         members = set(row['ids'])
         require(members and members <= entities and not seen & members, 'Invalid entity references')
         seen.update(members)
@@ -269,27 +321,60 @@ def render(bundle, paths, sources, edit, output, timing):
     lines.append(table(['Day', 'Watch', 'Basis', 'Time evidence', 'Markers'], rows)
                  if rows else 'No supported time markers.')
     lines.append('## Locations')
-    labels = {key: place['label'] for key, place in sources['location-markers']['places'].items()}
+    location_data = sources['location-markers']
+    places = location_data['places']
+    labels = {key: place['label'] for key, place in places.items()}
     labels.update(edit.get('placeLabels', {}))
+    linked_labels = {key: link(VAULT / place['vaultPath'], labels[key]) if place.get('vaultPath') else labels[key]
+                     for key, place in places.items()}
+    markers = {marker['id']: marker for marker in location_data.get('markers', [])}
+
+    def describe(ident):
+        paths, notes = place_paths(places, ident)
+        return ' / '.join(' › '.join(linked_labels[key] for key in path) for path in paths), notes
+
+    def context_for(row, notes):
+        context = list(notes)
+        relevant = set(row['places']) | {row.get('from')}
+        for ident in row['markers']:
+            for placement in markers[ident].get('locationContext', []):
+                if placement['subject'] not in relevant:
+                    continue
+                subject, subject_notes = describe(placement['subject'])
+                target, target_notes = describe(placement['target'])
+                text = f"{subject} — {placement['relation'].replace('_', ' ')} {target} ({ident})"
+                if placement.get('note'):
+                    text += ': ' + placement['note']
+                context.extend([text, *subject_notes, *target_notes])
+        return '; '.join(dict.fromkeys(context))
+
+    def location_table(headers, rows):
+        if any(row[-1] for row in rows):
+            return table(headers + ['Context'], rows)
+        return table(headers, [row[:-1] for row in rows])
+
     visits, observations = [], []
     for row in edit['locations']:
         names_of_actors = ['Party' if actor == 'party' else actor for actor in row['actors']]
         actors = ' and '.join(names_of_actors) if len(names_of_actors) == 2 else ', '.join(names_of_actors)
-        names = [labels[place] for place in row['places']]
+        described = [describe(place) for place in row['places']]
+        names = [name for name, _ in described]
+        notes = [note for _, qualifications in described for note in qualifications]
         refs = marker_ids(row['markers'])
         if row['kind'] == 'observation':
             if row.get('via'):
                 actors += f" ({row['via']})"
-            observations.append([' · '.join(names), actors, labels.get(row.get('from'), '—'), refs])
+            origin, origin_notes = describe(row['from']) if row.get('from') else ('—', [])
+            observations.append([' · '.join(names), actors, origin, refs, context_for(row, notes + origin_notes)])
         else:
             location = ' → '.join(names)
             if row['kind'] == 'approach':
                 location = 'Approach to ' + location
-            visits.append([location, actors, refs])
+            visits.append([location, actors, refs, context_for(row, notes)])
     if visits:
-        lines.append(table(['Location', 'Present', 'Markers'], visits))
+        lines.append(location_table(['Location', 'Present', 'Markers'], visits))
     if observations:
-        lines.append(table(['Observed location', 'Observer', 'From', 'Markers'], observations))
+        lines.append(location_table(['Observed location', 'Observer', 'From', 'Markers'], observations))
     if not visits and not observations:
         lines.append('No location markers.')
     entity_map = {e['id']: e for e in sources['entity-map']['entities']}
@@ -298,8 +383,8 @@ def render(bundle, paths, sources, edit, output, timing):
                   f"Stars {kinds['star']} · Supporting {kinds['supporting']} · Cameos {kinds['cameo']}"])
     rows = []
     for row in edit['entities']:
-        members = [entity_map[ident] for ident in row['ids']]
-        rows.append([', '.join(e['label'] for e in members), row['summary'], marker_ids(row['ids'])])
+        entity = entity_map[row['ids'][0]]
+        rows.append([entity['label'], row['summary'], row['ids'][0]])
     if rows:
         lines.append(table(['Entity', 'Role in this session', 'IDs'], rows))
     lines.append('## Combat')
