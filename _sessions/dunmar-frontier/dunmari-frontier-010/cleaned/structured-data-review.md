@@ -1,0 +1,95 @@
+# Dunmari Frontier · Session 10
+
+## Review flags
+
+- Decide whether to retain the bat-like watcher as an individual NPC (e003) or exclude it as a generic creature: u0328–u0367 establishes a particular observing creature but no name or recurring personal identity.
+- Decide whether the mechanical iron guardian merits an individual NPC record (e004): u0416–u0477 establishes a particular patrolling construct, but no personal identity beyond its guardian function.
+- Decide whether the transforming tower guard merits a separate NPC record (e007) or a generic-combat exclusion: u2151–u2161 identifies its transformation, while u2423–u2426 records its death.
+
+## In-world time
+
+1748-04-12 is YAML-only; the transcript establishes late afternoon through about 19:00, with no completed overnight, matching the zero-date-boundary span.
+
+| Day | Watch | Basis | Time evidence | Markers |
+| --- | --- | --- | --- | --- |
+| 1748-04-12 (YAML) | Open | — | **Opening, clock unanchored** · Lock work takes a while; the ongoing outing is described as about six hours old. | t01–t02 |
+| 1748-04-12 (YAML) | Afternoon | stated | **Delwath** · Late-afternoon scouting totals about fifteen minutes, including the three-minute southern lookout. | t03–t06 |
+| 1748-04-12 (YAML) | Afternoon → dusk | stated | Both groups watch and short-rest for one shared hour, reaching sunset and twilight. | t07 |
+| 1748-04-12 (YAML) | Dusk | mixed | Kenzo’s scout reaches twenty minutes, then roughly fifty; Vola’s conversation is about 7 p.m. | t09–t11 |
+
+## Locations
+
+| Location | Present | Markers | Context |
+| --- | --- | --- | --- |
+| Tunnel gate at the dwarven outpost → Underground passage and climbing shaft | Party | l01–l02 | Tunnel gate at the dwarven outpost: At the outpost end of the underground passage; kept distinct from the unlocked southern iron bars near the towers.; Underground passage and climbing shaft: The reported distance begins at 1,000–1,500 feet; later map discussion suggests perhaps 2,000 feet (u1348). No scaled map geometry is inferred. |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Disused storeroom above the shaft | Party | l02 | Disused storeroom above the shaft: Reached from the underground passage, before the curved corridor. |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Curved corridor junction | Party | l04 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Old prison and execution chamber | Party | l11 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Northern rubble lookout | Delwath | l06 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Southern iron gate and bridge approach | Delwath | l08 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Northern rubble lookout | Seeker, Delwath, Riswynn | l12, l15 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Southern iron gate and bridge approach | Kenzo and Wellby | l13 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › First tower | Party and Vola | l18, l26 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Second tower › Third-floor quarters and landing | Party and Vola | l20, l24–l25 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Second tower › Fourth-floor prison apartments | Kenzo and Vola | l21–l22, l25 |  |
+
+| Observed location | Observer | From | Markers | Context |
+| --- | --- | --- | --- | --- |
+| Valley and road between the outpost and fortress | Wellby (reported earlier scouting) | [Dwarven outpost](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Dwarven%20Outpost%20%28Raven%27s%20Hold%29.md) › Outpost arrow-slit lookout | l03 | Valley and road between the outpost and fortress: An observation from Wellby’s earlier scouting, not a party crossing of the surface valley. |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Stone plaza | Delwath | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Northern rubble lookout | l07 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Main keep and inner courtyard | Delwath | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Southern iron gate and bridge approach | l09 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Main keep and inner courtyard | Kenzo and Wellby | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Southern iron gate and bridge approach | l14 |  |
+| [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › Outer garden courtyard | Kenzo | [Raven’s Hold](../../../../Gazetteer/Greater%20Dunmar/Hara%20Basin/Raven%27s%20Hold.md) › First tower | l17 |  |
+
+## Entities
+
+Stars 1 · Supporting 4
+
+| Entity | Importance | Role in this session | IDs |
+| --- | --- | --- | --- |
+| Vola | star | Kenzo frees and heals her; she recovers her equipment, discusses the captors, and describes the Society’s relic hunt before considering travel with the party. | e009 |
+| Orc in the second tower | supporting | Occupies the second tower, fights the rescue party, and dies threatening vengeance; Vola later calls the three captors Agata’s servants. | e006 |
+| Captured tower guard | supporting | Put to sleep, then tied up and knocked unconscious. Vola urges killing it; Delwath summons a dagger, and her later account refers to all three captors as killed. | e008 |
+| Society of the Open Scroll | supporting | Vola identifies herself and Arcus as members and describes its mission to recover imperial relics before Agata obtains them. | e010 |
+| Agata Dustmother | supporting | Vola describes her as a rival relic seeker and attributes the captors’ interrogation to her servants; this is Vola’s account, with no direct encounter. | e012 |
+
+## Combat
+
+### Undead hobgoblins in the old prison
+
+| Round | What happened |
+| --- | --- |
+| 1 | Kenzo provides light; Seeker, Delwath, and Wellby attack with advantage and kill one undead hobgoblin. The other loses its surprised turn and fails its save against Riswynn’s Sacred Flame. |
+| 2 | Seeker and Delwath hit; Wellby misses. The survivor dashes to Delwath, then Kenzo kills it with his quarterstaff and an unarmed strike. |
+
+Both undead hobgoblins are dead, and the fight remains quiet.
+
+### Orc and shapeshifting guards in the second tower
+
+Seeker’s Sleep drops the seated guard; the thump alerts the orc and the other guard.
+
+| Round | What happened |
+| --- | --- |
+| 1 | Delwath misses; Wellby wounds the orc. Heat Metal burns its weapon despite its successful save. The orc casts darkness; Kenzo dispels it with Daylight, losing invisibility. The transforming guard ignores Kenzo’s opportunity strike, wounds Seeker, and breaks his concentration. Riswynn’s magical hammer and Searing Smite wound it. |
+| 2 | Delwath kills the transforming guard. Wellby and Seeker shoot the orc, including a critical hit. Its two attacks miss; it disengages and flees. Wellby reacts by moving, and Kenzo pursues and kills it with Flurry of Blows. |
+
+The orc and transforming guard are dead; the third guard remains asleep when initiative ends. Its later restraint and fate belong to the aftermath.
+
+## Recording time
+
+Recording length (transcript timestamp extent): **3:36:18** (0:00:01 → 3:36:19). Full audio length, including any silence outside these timestamps, is not established.
+
+| Segment class | Elapsed (h:mm:ss) | Elapsed share | Speaking (h:mm:ss) | Speaking share |
+| --- | --- | --- | --- | --- |
+| Gameplay | 2:55:53 | 81.4% | 1:56:16 | 83.4% |
+| Combat | 0:37:10 | 17.2% | 0:21:07 | 15.1% |
+| Meta discussion | 0:00:13 | 0.1% | 0:00:12 | 0.1% |
+| Table talk | 0:02:41 | 1.2% | 0:01:49 | 1.3% |
+| Session framing | 0:00:00 | 0.0% | 0:00:00 | 0.0% |
+| **Total** | 3:35:58 | 100.0% | 2:19:24 | 100.0% |
+
+Elapsed time spans each segment block’s first UID start through its latest UID end, including internal pauses. Speaking time covers timestamped utterances only. Each millisecond is counted once; overlaps belong to the earliest source block or utterance. Each share uses its own column total.
+
+Outside segment spans: **0:00:21** in gaps between blocks.
+
+Sources · [Transcript](dunmari-frontier-010-transcript.md) · [Time Markers](dunmari-frontier-010-time-markers.json) · [Location Markers](dunmari-frontier-010-location-markers.json) · [Entity Map](dunmari-frontier-010-entity-map.json) · [Interactions](dunmari-frontier-010-interactions.json) · [Combat](dunmari-frontier-010-combat.json) · [Segments](dunmari-frontier-010-segments.json) · [Watch data](time-watches.json)

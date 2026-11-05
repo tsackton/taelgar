@@ -1,0 +1,1213 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-010",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+    "sessionYamlSha256": "e1e45132e4b94723f0d8cc776648adaa4a63eaeccdeb9d4113231c83be08f686",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-transcript.md",
+    "transcriptSha256": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4"
+  },
+  "places": {
+    "p01": {
+      "label": "Raven’s Hold",
+      "evidence": [
+        {
+          "startUid": "u0861",
+          "endUid": "u0871",
+          "quote": "you’re looking at the inside of the keep, it seems like, of Raven’s Hold."
+        }
+      ],
+      "kind": "fortress",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+    },
+    "p02": {
+      "label": "Dwarven outpost",
+      "evidence": [
+        {
+          "startUid": "u0082",
+          "endUid": "u0086",
+          "quote": "Seeker: Know, at this point we’re 1000 feet from the dwarven outpost. Where does that put us relative to everything else, would say?"
+        }
+      ],
+      "kind": "outpost",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md"
+    },
+    "p03": {
+      "label": "Tunnel gate at the dwarven outpost",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0022",
+          "quote": "iron bars with a door that swings open"
+        }
+      ],
+      "kind": "gate",
+      "note": "At the outpost end of the underground passage; kept distinct from the unlocked southern iron bars near the towers."
+    },
+    "p04": {
+      "label": "Underground passage and climbing shaft",
+      "evidence": [
+        {
+          "startUid": "u0047",
+          "endUid": "u0071",
+          "quote": "DM: He can catch up with you. So the tunnel is a obviously crude construction. It doesn’t—the dwarves—to the dwarves, it does not seem very dwarvish at all. It’s rough-hewn; it’s not, you know, it’s not particularly smooth or decorated or, you know, [garbled] in a way that dwarven construction usually would be. It doesn’t have any of the elegance of your people. Right. It heads straight east, sloping slightly down, heading exactly in the direction you want to go.\n\nAnd so, as you begin to pace down this tunnel, traveling maybe 1000 feet, 1500 feet, you then find yourself coming to a place where it begins to turn and slope slightly up, curving to the right like a corkscrew, going in a full 360-degree twist.\n\nOpening up into a small, cramped cavern with a hole in the ceiling leading up, and some like bits of iron spikes or something hammered into the, into the tunnel, as if there used to be a rope ladder or something fastened here to lead up into this, into the ceiling."
+        }
+      ],
+      "kind": "tunnel",
+      "note": "The reported distance begins at 1,000–1,500 feet; later map discussion suggests perhaps 2,000 feet (u1348). No scaled map geometry is inferred."
+    },
+    "p05": {
+      "label": "Disused storeroom above the shaft",
+      "evidence": [
+        {
+          "startUid": "u0146",
+          "endUid": "u0161",
+          "quote": "like an echoing, empty storeroom."
+        }
+      ],
+      "kind": "cavern",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1329",
+              "endUid": "u1334",
+              "quote": "Kenzo: Wait, where are we, though?\n\nDM: Right now you’re here.\n\nUnknown: Oh…\n\nKenzo: So we somehow went under the keep?\n\nSeeker: We. Yeah, we definitely did, yeah.\n\nDelwath: We did that. Yeah."
+            }
+          ]
+        }
+      ],
+      "note": "Reached from the underground passage, before the curved corridor."
+    },
+    "p06": {
+      "label": "Curved corridor junction",
+      "evidence": [
+        {
+          "startUid": "u0729",
+          "endUid": "u0740",
+          "quote": "a semi—semi-circular corridor that’s curving away from you on either side"
+        }
+      ],
+      "kind": "corridor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0923",
+              "endUid": "u0928",
+              "quote": "Seeker: Okay. We’re in a network of tunnels underneath the keep.\n\nDM: Yeah, basically out at the second floor of a tower. You can see that this enter—this iron bars are sat inside a cliff wall which extends north–south. And the tower is is largely intact, large stone tower. Just beyond that, there’s another tower. So this seems to be like a pair—a tower complex that’s two large towers. And to your right, further south—"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Old prison and execution chamber",
+      "evidence": [
+        {
+          "startUid": "u1243",
+          "endUid": "u1246",
+          "quote": "DM: So, I mean, it’s—now looking at this room in more detail, it’s, I mean, it’s clear this was, you know, at least used as a prison. Whether it was constructed as one is hard to say. There’s like demoralizing messages in Dunmari kind of carved into the walls. There’s iron. There’s like rows of iron manacles where people might have been chained up. Near the where the skeletons are—that the creatures, or undead were digging around in, there’s a stone platform that can, you know, looks like it may have been used for executions. Most of the skeleton seem to be missing their heads."
+        }
+      ],
+      "kind": "cavern",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1329",
+              "endUid": "u1334",
+              "quote": "Kenzo: Wait, where are we, though?\n\nDM: Right now you’re here.\n\nUnknown: Oh…\n\nKenzo: So we somehow went under the keep?\n\nSeeker: We. Yeah, we definitely did, yeah.\n\nDelwath: We did that. Yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Northern rubble lookout",
+      "evidence": [
+        {
+          "startUid": "u0830",
+          "endUid": "u0844",
+          "quote": "a what looks like—you see a light glinting through a kind of pile of rubble and bits of twisted iron"
+        }
+      ],
+      "kind": "ruined gatehouse",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0861",
+              "endUid": "u0871",
+              "quote": "DM: Yeah. With them. You’re looking out into a whole get the perspective here. You’re looking out through what looks like the remains of a gatehouse: piles of rubble like, like some walls like walls had collapsed, a gate. There’s bits of twisted iron and things. And what you’re looking out across at is a stone plaza in the late afternoon sun. On the other side of the plaza, a gate house complex looking out towards the, the mountain. So you’re on that—you’re looking at the inside of the keep, it seems like, of Raven’s Hold."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Stone plaza",
+      "evidence": [
+        {
+          "startUid": "u0861",
+          "endUid": "u0871",
+          "quote": "a stone plaza in the late afternoon sun."
+        }
+      ],
+      "kind": "plaza",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0861",
+              "endUid": "u0871",
+              "quote": "a stone plaza in the late afternoon sun."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Southern iron gate and bridge approach",
+      "evidence": [
+        {
+          "startUid": "u0912",
+          "endUid": "u0920",
+          "quote": "DM: Um, okay, to the south, the—similar to the passageway to the north, it continues. You pass two more store rooms, this time on your left. So it’s like there’s five storerooms kind of all in a row, and then the, the passageway again curve south and then starts curving to the west and sloping up. And at the very far end you see, you’re now looking across a small bridge, maybe five feet. So there’s—there’s like a iron gate, not locked. You could easily push it open, but I assume you don’t want to yet.\n\nDelwath: No. Yeah.\n\nDM: Looking across a small bridge that leads to a solid wooden door in the side of a tower. To the west."
+        }
+      ],
+      "kind": "gate",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1495",
+              "endUid": "u1498",
+              "quote": "DM: The only way—so you’re on the second story of the tower. So you’re 10 feet up, and there’s a wooden door. So there’s a bridge that goes across this tower, and then a wooden door in the side of this tower that is closed. So you’re not on the ground level here. You’re 10 feet off into it—and there’s a cliff—that’s black line is like a cliff wall. But your perspective is also a bit limited, presuming you want to stay behind the door, not open it and walk out onto the bridge."
+            },
+            {
+              "startUid": "u1506",
+              "endUid": "u1508",
+              "quote": "DM: Right, with cliff wall. Right cliff on this side, wall on this side, and then there’s an inner wall here and that’s what you’re looking at: the towers of the inner wall."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "First tower",
+      "evidence": [
+        {
+          "startUid": "u1641",
+          "endUid": "u1654",
+          "quote": "DM: So you’re going to slip into the inside the tower, in the door? Yeah, okay. Okay, so, um, you enter into the tower, sneaking across. Actually, make a Stealth check before you do anything. I’ll say with advantage because you’re invisible.\n\nUnknown: Pretty good.\n\nDM: You can roll twice, see if you do better.\n\nKenzo: Oh…\n\nDM: No, yeah, so um a good roll when you need it. OK, so the sort of entry way that you step into this tower is empty, bare, with stairs going up and down, and there’s a wall with a door leading into another room beyond. So you can either go up, down, or in the room. Where do you go first? Okay."
+        }
+      ],
+      "kind": "tower",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1495",
+              "endUid": "u1498",
+              "quote": "DM: The only way—so you’re on the second story of the tower. So you’re 10 feet up, and there’s a wooden door. So there’s a bridge that goes across this tower, and then a wooden door in the side of this tower that is closed. So you’re not on the ground level here. You’re 10 feet off into it—and there’s a cliff—that’s black line is like a cliff wall. But your perspective is also a bit limited, presuming you want to stay behind the door, not open it and walk out onto the bridge."
+            },
+            {
+              "startUid": "u1506",
+              "endUid": "u1508",
+              "quote": "DM: Right, with cliff wall. Right cliff on this side, wall on this side, and then there’s an inner wall here and that’s what you’re looking at: the towers of the inner wall."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Second tower",
+      "evidence": [
+        {
+          "startUid": "u1805",
+          "endUid": "u1819",
+          "quote": "DM: Okay, so, um, you come into the—so actually, give me a Perception check as you push open the door into the other tower.\n\nKenzo: Excellent. As I’m very perceptive.\n\nDM: [garbled]. Okay, so you you push open the door, and you you come into here. Um a let’s let me see. I have too many windows open here. Ah, OK, so, um, this, this, again, is a fairly—it’s sort of an entry way room with similar to to the other room with with stairs going up and going down and you sort of come across into is basically a sort of a bare—a bare entry, and then there’s a door that leads to some other room on the other side of the door."
+        }
+      ],
+      "kind": "tower",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1506",
+              "endUid": "u1508",
+              "quote": "DM: Right, with cliff wall. Right cliff on this side, wall on this side, and then there’s an inner wall here and that’s what you’re looking at: the towers of the inner wall."
+            },
+            {
+              "startUid": "u1750",
+              "endUid": "u1753",
+              "quote": "DM: Okay, so the door here is barred from the inside, but you can easily remove the bars and open it. It leads—so there’s a—basically where you are now is in the in not exactly a crawl space, but kind of a cramped passageway that looks like it’s sort of like a like a kill floor, right? There’s like holes on the floor where you could like drop stones or or dump hot oil or something down on somebody trying to come in from the gate. And then, going straight across, there’s another door leading into the second tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Fourth-floor prison apartments",
+      "evidence": [
+        {
+          "startUid": "u1856",
+          "endUid": "u1870",
+          "quote": "DM: Okay. Ah. Heading up, you see, um coming to this—now this would be the fourth floor of the tower, um, the, the—the stairs now come out in a in a in a corridor with four small apartments off of it. But this is now not apartments. There’s a stench of dead bodies. You hear a sort of a faint groan from one of these apartments. There’s piles of straw bedding, there’s like a pile of sort of like bits of like rotted flesh and stuff and at the far end of this corridor that you just came up, you see two, uh um, short humans. Seem to be humans, but look almost like sneaky, wearing dark clothes, kind of like lurking in the shadows a bit."
+        }
+      ],
+      "kind": "rooms",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1805",
+              "endUid": "u1819",
+              "quote": "DM: Okay, so, um, you come into the—so actually, give me a Perception check as you push open the door into the other tower.\n\nKenzo: Excellent. As I’m very perceptive.\n\nDM: [garbled]. Okay, so you you push open the door, and you you come into here. Um a let’s let me see. I have too many windows open here. Ah, OK, so, um, this, this, again, is a fairly—it’s sort of an entry way room with similar to to the other room with with stairs going up and going down and you sort of come across into is basically a sort of a bare—a bare entry, and then there’s a door that leads to some other room on the other side of the door."
+            },
+            {
+              "startUid": "u1856",
+              "endUid": "u1870",
+              "quote": "DM: Okay. Ah. Heading up, you see, um coming to this—now this would be the fourth floor of the tower, um, the, the—the stairs now come out in a in a in a corridor with four small apartments off of it. But this is now not apartments. There’s a stench of dead bodies. You hear a sort of a faint groan from one of these apartments. There’s piles of straw bedding, there’s like a pile of sort of like bits of like rotted flesh and stuff and at the far end of this corridor that you just came up, you see two, uh um, short humans. Seem to be humans, but look almost like sneaky, wearing dark clothes, kind of like lurking in the shadows a bit."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Third-floor quarters and landing",
+      "evidence": [
+        {
+          "startUid": "u1833",
+          "endUid": "u1841",
+          "quote": "DM: Okay, so as you head up the stairs, you come out into another room. This, this is like another sort of apartment is not as good shape. And you sort of come out into into sort of a hallway with a few crates and barrels stacked and then sort of looking through like peeking through an open doorway, you can see like a table and a chair and a firepit, and a bedroll laid across some straw. This definitely looks more like something that has been lived—lived in."
+        }
+      ],
+      "kind": "rooms",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2041",
+              "endUid": "u2046",
+              "quote": "Delwath: This is if we crossed the top of the bridge to cross the top of the wall?\n\nDM: And then you go up the stairs.\n\nDelwath: And go in the door and go up the stairs there on the second there on like the third floor, yes?\n\nUnknown: Yeah.\n\nSeeker: And the prisoners also on the third floor?\n\nDM: On the fourth floor, what."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Outer garden courtyard",
+      "evidence": [
+        {
+          "startUid": "u1660",
+          "endUid": "u1671",
+          "quote": "DM: Looking out, you notice a few things. So first of all, ah, first of all, looking out kind of the opposite side, right? So there’s the you were, you were on the east side of the tower. So in the tunnel, you were looking west. You’re looking at the east side of the tower. To the south of the tower is the keep. It—to the north of the tower is the cliff. To the west of the tower, you’re looking out over what looks like it used to be some sort of cultivated gardens or kind of courtyard area, but very pretty. There’s two large pools of water.\n\n[garbled] right now—no, you’re sort of imagining what it looks like in the past. Got it, got it. Pools of water are sort of sickly and green at the moment. The trees that used to line these pools and, you can imagine, provide nice shade in the heat of summer, are now largely dead. The ones that are not dead, have—their leaves are sort of yellowing and dying. And moving across this courtyard area are several more of those hobgoblin undead creatures that you saw."
+        }
+      ],
+      "kind": "courtyard",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1536",
+              "endUid": "u1538",
+              "quote": "DM: Ah, yeah. Yes, you are. I mean, this is maybe not exactly the scale.\n\nKenzo: Okay.\n\nDM: You are. Ah, so the blue line that I drew is the is this outer wall. The inner wall is not—"
+            },
+            {
+              "startUid": "u1660",
+              "endUid": "u1671",
+              "quote": "DM: Looking out, you notice a few things. So first of all, ah, first of all, looking out kind of the opposite side, right? So there’s the you were, you were on the east side of the tower. So in the tunnel, you were looking west. You’re looking at the east side of the tower. To the south of the tower is the keep. It—to the north of the tower is the cliff. To the west of the tower, you’re looking out over what looks like it used to be some sort of cultivated gardens or kind of courtyard area, but very pretty. There’s two large pools of water.\n\n[garbled] right now—no, you’re sort of imagining what it looks like in the past. Got it, got it. Pools of water are sort of sickly and green at the moment. The trees that used to line these pools and, you can imagine, provide nice shade in the heat of summer, are now largely dead. The ones that are not dead, have—their leaves are sort of yellowing and dying. And moving across this courtyard area are several more of those hobgoblin undead creatures that you saw."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Main keep and inner courtyard",
+      "evidence": [
+        {
+          "startUid": "u0933",
+          "endUid": "u0944",
+          "quote": "Delwath: And where are the animals?\n\nDM: There to the north of here.\n\nDelwath: So can I see them?\n\nDM: No, you can’t see them. You can only hear them faintly. You can’t really see north from here because of the way the cliff wall turns and the way the tower blocks your…\n\nSeeker: View.\n\nDM: The tower straight ahead, and then to the south you can see the keep. Nothing seems to be moving across these plan across the inner courtyard, at least.\n\nDelwath: But I can’t see over the out to the wall that would go like…\n\nDM: Outer wall, the tower, the pair of towers and the keep block your view of the outer wall."
+        }
+      ],
+      "kind": "keep",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0912",
+              "endUid": "u0944",
+              "quote": "DM: Um, okay, to the south, the—similar to the passageway to the north, it continues. You pass two more store rooms, this time on your left. So it’s like there’s five storerooms kind of all in a row, and then the, the passageway again curve south and then starts curving to the west and sloping up. And at the very far end you see, you’re now looking across a small bridge, maybe five feet. So there’s—there’s like a iron gate, not locked. You could easily push it open, but I assume you don’t want to yet.\n\nDelwath: No. Yeah.\n\nDM: Looking across a small bridge that leads to a solid wooden door in the side of a tower. To the west.\n\nDelwath: So this is working. I’m confused about the—this is south of where the other place I was looking?\n\nDM: This is south of where the other place is.\n\nSeeker: Okay. We’re in a network of tunnels underneath the keep.\n\nDM: Yeah, basically out at the second floor of a tower. You can see that this enter—this iron bars are sat inside a cliff wall which extends north–south. And the tower is is largely intact, large stone tower. Just beyond that, there’s another tower. So this seems to be like a pair—a tower complex that’s two large towers. And to your right, further south—\n\nDelwath: Which direction am I looking?\n\nDM: You’re looking straight west. Okay, further south, there is a what seems to be the main keep complex. There’s a inner courtyard, there’s a small outbuilding, and then there’s a three-story stone keep.\n\nDelwath: And where are the animals?\n\nDM: There to the north of here.\n\nDelwath: So can I see them?\n\nDM: No, you can’t see them. You can only hear them faintly. You can’t really see north from here because of the way the cliff wall turns and the way the tower blocks your…\n\nSeeker: View.\n\nDM: The tower straight ahead, and then to the south you can see the keep. Nothing seems to be moving across these plan across the inner courtyard, at least.\n\nDelwath: But I can’t see over the out to the wall that would go like…\n\nDM: Outer wall, the tower, the pair of towers and the keep block your view of the outer wall."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Valley and road between the outpost and fortress",
+      "evidence": [
+        {
+          "startUid": "u0328",
+          "endUid": "u0339",
+          "quote": "Wellby: Well, I’ll tell you what I saw. I managed to find exterior windows, arrow slits from guard rooms facing out into the, you know, into the valley between here and keep. And I could see the dwarven road that goes to that we saw the entrance that goes across the valley that goes over the river, and to the gatehouse of Raven’s Hold. And I could see there was three of those humanoid hyenas. And they were driving a pack of wild dogs toward the gates, like herding them. Like shepherding them into the gates of Raven’s Hold. And stranger, though, way up high, there’s something watching them, following their progress, overseeing it maybe: this bat-like thing with a demony sort of body and long claws and spiky back, and it was unpleasant."
+        }
+      ],
+      "kind": "valley",
+      "note": "An observation from Wellby’s earlier scouting, not a party crossing of the surface valley."
+    },
+    "p18": {
+      "label": "Outpost arrow-slit lookout",
+      "evidence": [
+        {
+          "startUid": "u0328",
+          "endUid": "u0339",
+          "quote": "exterior windows, arrow slits from guard rooms facing out"
+        }
+      ],
+      "kind": "guard room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0200",
+              "endUid": "u0216",
+              "quote": "Wellby: I did go back down over some of the ground that we covered, and also got a look out into the valley, which I think is over us right now. How are things here? We’re going up, apparently.\n\nSeeker: Found some kind of cavern up there. Seems safe enough.\n\nWellby: Well, I’ve got a few things to update you on. One is I found a barracks area of—that must have been barracks for hobgoblins. So whenever they came—this is maybe eighty years ago or more—I mean, there was dust over everything. There was a sign there were open fires that they lit in there, so hobgoblins must have camped or stayed there for some amount of time. I found hobgoblin money, I think, and I pull out a handful of small silver discs stamped with the Blackened Claw mark. And silver and copper. Oh, and I found this too. I pull up a book. I think it’s a logbook. I think it’s hobgoblin, but I don’t read it. Do any of us know hobgoblin?"
+            },
+            {
+              "startUid": "u0328",
+              "endUid": "u0339",
+              "quote": "Wellby: Well, I’ll tell you what I saw. I managed to find exterior windows, arrow slits from guard rooms facing out into the, you know, into the valley between here and keep. And I could see the dwarven road that goes to that we saw the entrance that goes across the valley that goes over the river, and to the gatehouse of Raven’s Hold. And I could see there was three of those humanoid hyenas. And they were driving a pack of wild dogs toward the gates, like herding them. Like shepherding them into the gates of Raven’s Hold. And stranger, though, way up high, there’s something watching them, following their progress, overseeing it maybe: this bat-like thing with a demony sort of body and long claws and spiky back, and it was unpleasant."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0043"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party opens the chained iron gate at the start of the passage.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0022",
+          "quote": "there’s a chain running through through the bars and with a big, like, fist-sized padlock."
+        },
+        {
+          "startUid": "u0038",
+          "endUid": "u0043",
+          "quote": "Door now perfectly capable of swinging open."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0047",
+        "endUid": "u0071"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the underground passage east, around its rising spiral, and up the shaft to the disused storeroom; Wellby catches up before the whole party gathers above.",
+      "evidence": [
+        {
+          "startUid": "u0047",
+          "endUid": "u0071",
+          "quote": "DM: He can catch up with you. So the tunnel is a obviously crude construction. It doesn’t—the dwarves—to the dwarves, it does not seem very dwarvish at all. It’s rough-hewn; it’s not, you know, it’s not particularly smooth or decorated or, you know, [garbled] in a way that dwarven construction usually would be. It doesn’t have any of the elegance of your people. Right. It heads straight east, sloping slightly down, heading exactly in the direction you want to go.\n\nAnd so, as you begin to pace down this tunnel, traveling maybe 1000 feet, 1500 feet, you then find yourself coming to a place where it begins to turn and slope slightly up, curving to the right like a corkscrew, going in a full 360-degree twist.\n\nOpening up into a small, cramped cavern with a hole in the ceiling leading up, and some like bits of iron spikes or something hammered into the, into the tunnel, as if there used to be a rope ladder or something fastened here to lead up into this, into the ceiling."
+        },
+        {
+          "startUid": "u0146",
+          "endUid": "u0161",
+          "quote": "it opens up into a into a large—large-ish, maybe 20–30 feet across—cavern."
+        },
+        {
+          "startUid": "u0180",
+          "endUid": "u0198",
+          "quote": "Wellby comes creeping up the tunnel."
+        },
+        {
+          "startUid": "u0480",
+          "endUid": "u0486",
+          "quote": "DM: Are you in the small room with the rope leading up? Are you in the big cave right now?\n\nSeeker: I think we must have all come up to the big cave because Riswynn didn’t come down or anything.\n\nDelwath: Yeah, let’s—we’re all in the big cave.\n\nKenzo: We’re all in the really safe place where—\n\nDelwath: Nobody’s gonna hurt, but wherever the water monster’s not, that’s where we are.\n\nDM: Okay, I got it."
+        },
+        {
+          "startUid": "u1348",
+          "endUid": "u1348",
+          "quote": "DM: I don’t know, maybe, maybe this was more like 2000 feet, the distance across."
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk and climb",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Travel east down the passage, spiral upward, and climb the shaft with Riswynn’s lowered rope."
+        }
+      ],
+      "distance": {
+        "text": "Initially 1,000–1,500 feet; later perhaps 2,000 feet",
+        "unit": "foot",
+        "precision": "vague",
+        "basis": "Initial travel narration and later scale revision at u1348"
+      },
+      "note": "The initial march and climb precede Wellby’s reunion. The complete group is confirmed in the upper cavern at u0482–u0486."
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0328",
+        "endUid": "u0339"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby reports seeing gnolls herd dogs toward Raven’s Hold and a small bat-like watcher overhead from the outpost’s arrow slits.",
+      "evidence": [
+        {
+          "startUid": "u0328",
+          "endUid": "u0339",
+          "quote": "Wellby: Well, I’ll tell you what I saw. I managed to find exterior windows, arrow slits from guard rooms facing out into the, you know, into the valley between here and keep. And I could see the dwarven road that goes to that we saw the entrance that goes across the valley that goes over the river, and to the gatehouse of Raven’s Hold. And I could see there was three of those humanoid hyenas. And they were driving a pack of wild dogs toward the gates, like herding them. Like shepherding them into the gates of Raven’s Hold. And stranger, though, way up high, there’s something watching them, following their progress, overseeing it maybe: this bat-like thing with a demony sort of body and long claws and spiky back, and it was unpleasant."
+        },
+        {
+          "startUid": "u0341",
+          "endUid": "u0347",
+          "quote": "Wellby: So that was high up in flight over the plain. Well, the gnolls were herding these dogs toward the gates.\n\nKenzo: He was flying?\n\nWellby: On enormous bat wings. It’s just nice and regular size bat wings.\n\nDM: It looked—at your first glance, it looks like just, you know, a slightly oversized bat, but then you pulled out your spyglass and you’re like—and you saw these other features."
+        }
+      ],
+      "place": "p17",
+      "observerPlace": "p18",
+      "mode": "local",
+      "context": "reported"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0729",
+        "endUid": "u0740"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the storeroom, bend along the southwest passage, and reach the curved corridor junction.",
+      "evidence": [
+        {
+          "startUid": "u0729",
+          "endUid": "u0740",
+          "quote": "DM: So, okay. So, walking down the passage, after about 15 feet or so. So the…\n\nSeeker: Corridor.\n\nDM: Makes a sharp bend and then exits comes out into a another, wider corridor that is curving.\n\nUnknown: Your I’ll pause this for a second.\n\nDM: So yeah, let me see it. Say you’re—you walk down, you turn a—you turn a little bit of a bend, and now you’re in a sort of a semi—semi-circular corridor that’s curving away from you on either side, the light of your drift globe illuminating a few entrances, both on the same side as the one you came into and then another corridor leading off almost directly opposite where you where you’re standing right now. But at about a, you know, enough of a of a offset that you can’t see down. And down that other corridor is where the noise seems to be coming from. It’s slightly louder now. Doesn’t seem to be coming towards you. It’s almost sounds like something is rooting around in something."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0770",
+        "endUid": "u0783"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scout the old prison invisibly and return to report at the junction.",
+      "evidence": [
+        {
+          "startUid": "u0770",
+          "endUid": "u0783",
+          "quote": "DM: So Delwath creeps off down the passageway. You come about 20 feet or so, and the passageway opens up into a large—a large chamber about the 60 feet across, just about the edge of your dark vision at the far end. Doesn’t seem to be any exits from this chamber. In this chamber, you can see there are—in one corner, there are—the first thing you notice is sort of in one corner about 30–40 feet away from you, there are some skeletons, some bodies, and there are two creatures rooting through the skeletons like snapping bones. Kind of trying like seeing if they’re, you know, trying to gnaw whatever marrow or nutritious flesh is left on these bones. The creatures look vaguely hobgoblin-ish, but clearly not hobgoblins."
+        },
+        {
+          "startUid": "u0819",
+          "endUid": "u0820",
+          "quote": "Delwath: I will go back to the intersection, report on what I saw. But also, I’m kind of keen to go down the other passage way while I’m invisible."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk invisibly",
+      "route": [
+        {
+          "place": "p07",
+          "reading": "Enter the prison chamber to examine its undead occupants and walls, then return."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0824",
+        "endUid": "u0844"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scout north past two storerooms to the rubble lookout, then return to the waiting party.",
+      "evidence": [
+        {
+          "startUid": "u0824",
+          "endUid": "u0844",
+          "quote": "DM: Okay, the passage going north—the passage-way slopes down slightly, and it—and it’s a big—it curves like a big.\n\nSeeker: Arc.\n\nDM: And you see, counting to your right, one, two passageways leading off. Glancing down those passages, they seem to lead into similar rooms to the one you came up from. And then the, the tunnel— Not the one the creatures were in—to the one that you entered in. Like store rooms, basically. And then the passage sort of turns west and then sort of southwest and continues for maybe 100 ish feet until you get to a what looks like—you see a light glinting through a kind of pile of rubble and bits of twisted iron, and—give me a Perception check. From behind the rubble, you can hear sound—sounds of animals: howling of dogs, the yips and snarls of hyenas. Once, you think you catch the roar of a lion."
+        },
+        {
+          "startUid": "u0887",
+          "endUid": "u0891",
+          "quote": "DM: You can see kind of lounging around on the plaza three of the gnoll-like, the gnoll creatures who seem to be kind of you know, occasionally like sort of snarling at each other and you know fighting over a bit of dinner—not—possibly on guard duty, but not paying attention if they are. And the animal sounds are coming somewhere to your right, or—or to the north. Right, north, but you can’t see any where the animals from.\n\nDelwath: But sounds like a lot of animals, or a small number?\n\nDM: Sounds like a lot."
+        },
+        {
+          "startUid": "u0892",
+          "endUid": "u0903",
+          "quote": "Delwath: Okay, so I’ll go back.\n\nSeeker: Wow.\n\nDelwath: Well, first of all, the same three gnolls?\n\nDM: It could be.\n\nUnknown: But…\n\nSeeker: Just a few dozen yards away. There are possibly undead magical hobgoblins.\n\nDelwath: Like they’re eating. I assume they didn’t come bother you was off sneaking about?\n\nSeeker: No, we were terrified and kept silent and still.\n\nDelwath: That’s, you know, I guess. Seems reasonable. It, it—I am—I’m tempted to go walk south briefly."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk invisibly",
+      "route": [
+        {
+          "place": "p08",
+          "reading": "Reach the rubble and peer through it without entering the plaza."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0861",
+        "endUid": "u0871"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "See the stone plaza, outer wall/gate complex, and gnolls through the northern rubble; hear animals to the north without seeing their enclosure.",
+      "evidence": [
+        {
+          "startUid": "u0861",
+          "endUid": "u0871",
+          "quote": "DM: Yeah. With them. You’re looking out into a whole get the perspective here. You’re looking out through what looks like the remains of a gatehouse: piles of rubble like, like some walls like walls had collapsed, a gate. There’s bits of twisted iron and things. And what you’re looking out across at is a stone plaza in the late afternoon sun. On the other side of the plaza, a gate house complex looking out towards the, the mountain. So you’re on that—you’re looking at the inside of the keep, it seems like, of Raven’s Hold."
+        },
+        {
+          "startUid": "u0887",
+          "endUid": "u0891",
+          "quote": "DM: You can see kind of lounging around on the plaza three of the gnoll-like, the gnoll creatures who seem to be kind of you know, occasionally like sort of snarling at each other and you know fighting over a bit of dinner—not—possibly on guard duty, but not paying attention if they are. And the animal sounds are coming somewhere to your right, or—or to the north. Right, north, but you can’t see any where the animals from.\n\nDelwath: But sounds like a lot of animals, or a small number?\n\nDM: Sounds like a lot."
+        }
+      ],
+      "place": "p09",
+      "observerPlace": "p08",
+      "mode": "local"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0912",
+        "endUid": "u0920"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scout south to the unlocked iron gate, wait there without opening it, and return to the others.",
+      "evidence": [
+        {
+          "startUid": "u0912",
+          "endUid": "u0920",
+          "quote": "DM: Um, okay, to the south, the—similar to the passageway to the north, it continues. You pass two more store rooms, this time on your left. So it’s like there’s five storerooms kind of all in a row, and then the, the passageway again curve south and then starts curving to the west and sloping up. And at the very far end you see, you’re now looking across a small bridge, maybe five feet. So there’s—there’s like a iron gate, not locked. You could easily push it open, but I assume you don’t want to yet.\n\nDelwath: No. Yeah.\n\nDM: Looking across a small bridge that leads to a solid wooden door in the side of a tower. To the west."
+        },
+        {
+          "startUid": "u0955",
+          "endUid": "u0962",
+          "quote": "DM: I assume you then, at that point, return without opening the gate or anything.\n\nDelwath: Or do you want to explore more? I’m not going to open the gate yet, but maybe I’ll just wait to two or three minutes and just watch and see if anything happens.\n\nDM: Nothing seems to happen after three minutes.\n\nDelwath: Right, I’ll go back. How long—\n\nDM: It’s been maybe 15 minutes."
+        },
+        {
+          "startUid": "u0964",
+          "endUid": "u0968",
+          "quote": "DM: The rest of you—the sound of the—about as—as Delwath is turning back, there is a, like a louder sort of smash sound from down that large cavern. And Delwath returns, and there’s silence."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk invisibly",
+      "route": [
+        {
+          "place": "p10",
+          "reading": "Pass two storerooms and reach the gate at the bridge approach, without crossing into the tower."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0923",
+        "endUid": "u0944"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "From the southern gate, see the twin towers, main keep and inner courtyard; this does not establish entry into those buildings.",
+      "evidence": [
+        {
+          "startUid": "u0923",
+          "endUid": "u0944",
+          "quote": "Seeker: Okay. We’re in a network of tunnels underneath the keep.\n\nDM: Yeah, basically out at the second floor of a tower. You can see that this enter—this iron bars are sat inside a cliff wall which extends north–south. And the tower is is largely intact, large stone tower. Just beyond that, there’s another tower. So this seems to be like a pair—a tower complex that’s two large towers. And to your right, further south—\n\nDelwath: Which direction am I looking?\n\nDM: You’re looking straight west. Okay, further south, there is a what seems to be the main keep complex. There’s a inner courtyard, there’s a small outbuilding, and then there’s a three-story stone keep.\n\nDelwath: And where are the animals?\n\nDM: There to the north of here.\n\nDelwath: So can I see them?\n\nDM: No, you can’t see them. You can only hear them faintly. You can’t really see north from here because of the way the cliff wall turns and the way the tower blocks your…\n\nSeeker: View.\n\nDM: The tower straight ahead, and then to the south you can see the keep. Nothing seems to be moving across these plan across the inner courtyard, at least.\n\nDelwath: But I can’t see over the out to the wall that would go like…\n\nDM: Outer wall, the tower, the pair of towers and the keep block your view of the outer wall."
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p10",
+      "mode": "local"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0969",
+        "endUid": "u0974"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "Seeker starts down the rope and Delwath proposes reporting below; completion and the other characters’ descent are not explicit.",
+      "evidence": [
+        {
+          "startUid": "u0969",
+          "endUid": "u0974",
+          "quote": "Seeker: I just heard that we ought to descend the rope. I start descending the rope.\n\nKenzo: What—do you tell us the things you learned?\n\nDelwath: Yeah, Yeah, when we’re back in the rope—I guess when we descend the rope—all—yes, all—I’m still invisible."
+        }
+      ],
+      "from": "p05",
+      "to": "p04",
+      "completion": "underway",
+      "mode": "climb",
+      "note": "The brief descent is not used to establish a completed lower-cavern visit. The ensuing attack places the whole party in the prison."
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1092",
+        "endUid": "u1120"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Approach the old prison, with Delwath and Wellby fanning out inside for the ambush.",
+      "evidence": [
+        {
+          "startUid": "u1092",
+          "endUid": "u1109",
+          "quote": "DM: Right ahead towards the passage way that leads to this prison? Yes, okay.\n\nDelwath: And I think Delwath and Wellby we’ll go slightly ahead with the aim of sneaking up and getting a surprise.\n\nDM: So you’re not you’re going no light at the moment?\n\nDelwath: Yes.\n\nRiswynn: You surprise them; I’ll pray at them. Okay.\n\nDelwath: So we’ll need some light for Wellby to surprise them, right?\n\nWellby: Let’s have one of the others just chuck a driftglobe in there.\n\nDelwath: Once, once we—we used to pick up the spearhead of continual light—can we just can you just drop it when we when we’re at—as part of your attack, basically?\n\nKenzo: I can do that.\n\nSeeker: Cool, yeah.\n\nDM: Okay, so give me a Stealth check for everybody’s going down the corridor. Okay, so you head down. Kenzo and—okay, Riswynn in her heavy armor is quieter. Just have everybody—"
+        },
+        {
+          "startUid": "u1117",
+          "endUid": "u1120",
+          "quote": "DM: Okay, so you creep down the corridor, getting to within just to the entry way of the of the room and Delwath and, and Wellby kind of fan out along the side of the walls a little bit, sticking to the to the shadows and to the, you know, keeping you know flat against the wall so that they’re not noticed and you can easily sneak to—they don’t—they don’t look up from their search through the bodies for something to gnaw on. So you are—I guess everybody roll initiative."
+        },
+        {
+          "startUid": "u1274",
+          "endUid": "u1278",
+          "quote": "Wellby: What’s the big cav—wait, was there like a big cavern we haven’t explored all the way through?\n\nDM: You’re in the big cavern.\n\nWellby: There were no other things?\n\nDelwath: Or other store rooms. There were other small storerooms. Yes, it’s worth looking. Is there anything here, by the way? I want to, like a little bit more carefully."
+        }
+      ],
+      "from": null,
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "sneak"
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u1437",
+        "endUid": "u1454"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Riswynn"
+      ],
+      "reading": "The northern subgroup watches from behind the rubble during the shared hour of rest.",
+      "evidence": [
+        {
+          "startUid": "u1382",
+          "endUid": "u1387",
+          "quote": "Delwath: And the rest of us will go to the, the animal tunnel. That’s probably harder to move things, right? We’re probably fairly well hidden behind the rubble, but I’m not sure we can move around the rubble without notice it. But we can, yeah."
+        },
+        {
+          "startUid": "u1437",
+          "endUid": "u1454",
+          "quote": "DM: Um… Okay, so. You each watch for an hour in your respective areas and I’ll just, I’ll just say I’ll do the, the animal—the northern tunnel first. So it’s late afternoon, and as you watch, you’re heading towards sunset, the sun begins to sink and after maybe halfway through your watch, the, you know, one of the gnolls leaves and heads out of your range of vision. And then the other two leave, heading in the other direction and then a short time later, you hear like a burst of noise from the animals, like they’re like they’re being fed or something like howling and yelling and, and roars and then sometime later, those same two gnolls passed back past the plaza, and four different creatures, also gnolls, come out and kind of set up around the plaza, keeping watch.\n\nAh, nothing comes in the gate during this time. You don’t see anything. You can’t really see across the plain. You can’t see the top of the of the gate or the wall, you’re have a pretty limited perspective from your peephole, so you can’t really see a wider range than just this wider view of this plaza."
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u1459",
+        "endUid": "u1471"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The southern subgroup watches and rests behind the iron gate opposite the first tower.",
+      "evidence": [
+        {
+          "startUid": "u1425",
+          "endUid": "u1427",
+          "quote": "DM: So you got Wellby and Delwath—give me Stealth checks.\n\nDelwath: Kenzo.\n\nDM: Sorry, Kenzo and, and Wellby, give me Stealth."
+        },
+        {
+          "startUid": "u1459",
+          "endUid": "u1471",
+          "quote": "On the southern southern end, you two hiding and resting against the iron gate"
+        }
+      ],
+      "place": "p10"
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u1473",
+        "endUid": "u1476"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "See firelight from the main hall while remaining behind the southern bars.",
+      "evidence": [
+        {
+          "startUid": "u1473",
+          "endUid": "u1476",
+          "quote": "As the sun begins to set, you do notice from the main hall a flicker of light of firelight."
+        },
+        {
+          "startUid": "u1527",
+          "endUid": "u1529",
+          "quote": "DM: The fire is the firelight is coming from this keep.\n\nDelwath: That.\n\nDM: Inner keep."
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p10",
+      "mode": "local"
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u1627",
+        "endUid": "u1628"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn explicitly resumes watching through the northern rubble peephole as Kenzo prepares to scout.",
+      "evidence": [
+        {
+          "startUid": "u1627",
+          "endUid": "u1628",
+          "quote": "Riswynn: Okay, I’m looking at the peephole by the rubble because my darkvision will let me do that.\n\nDM: Yes, that’s."
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1641",
+        "endUid": "u1654"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Cross the bridge and enter the first tower invisibly; scout its upper floors and broken lower stairway, then return to fetch the group.",
+      "evidence": [
+        {
+          "startUid": "u1641",
+          "endUid": "u1654",
+          "quote": "DM: So you’re going to slip into the inside the tower, in the door? Yeah, okay. Okay, so, um, you enter into the tower, sneaking across. Actually, make a Stealth check before you do anything. I’ll say with advantage because you’re invisible.\n\nUnknown: Pretty good.\n\nDM: You can roll twice, see if you do better.\n\nKenzo: Oh…\n\nDM: No, yeah, so um a good roll when you need it. OK, so the sort of entry way that you step into this tower is empty, bare, with stairs going up and down, and there’s a wall with a door leading into another room beyond. So you can either go up, down, or in the room. Where do you go first? Okay."
+        },
+        {
+          "startUid": "u1699",
+          "endUid": "u1708",
+          "quote": "Kenzo: So just really quickly, I just like—I go up and down the whole tower, just—anything in there?\n\nDM: OK, so the fourth floor is a sort of a nice apart—almost a nice apartment. It’s not it’s not completely intact, but there’s like a bed and a desk and a fireplace. Carefully painted on one wall is the Blackened Claw mark of the goblins.\n\nKenzo: Like a hobgoblin’s quarters? Like, is—\n\nDM: Live? Yeah, that’s what it looks like. Like a captain’s quarters or something. But like…\n\nKenzo: Currently lives?\n\nDM: No, not current. Okay, interesting. Old."
+        },
+        {
+          "startUid": "u1723",
+          "endUid": "u1724",
+          "quote": "DM: So as you go—so that’s the top floor. The roof is not accessible, at least it doesn’t seem to be accessible. Um, going down the steps, the stairs down to the bottom to the first floor, halfway down have—are crumbling and you can’t actually get all the way down to the bottom floor. The stairs—the, like, bottom part of the stairs have fallen out. Okay."
+        },
+        {
+          "startUid": "u1744",
+          "endUid": "u1745",
+          "quote": "Kenzo: Go across it. Okay, I go in and get the squad. I relay what I found. How long this whole thing take? I did pretty quick, like 10 minutes, 15 minutes? Okay. So I just relay: you guys want to go into the tower? We could, we could advance it at a tower, and then I think I’m going to keep going. So the other spot that is like, go to the second floor and then continue to search that way, right? Or like…"
+        }
+      ],
+      "from": "p10",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk invisibly",
+      "route": [
+        {
+          "place": "p11",
+          "reading": "Enter and scout the tower, then return to the companions outside."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u1660",
+        "endUid": "u1677"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Through the first tower’s arrow slits, see the ruined garden courtyard and wandering undead; no courtyard visit occurs.",
+      "evidence": [
+        {
+          "startUid": "u1655",
+          "endUid": "u1677",
+          "quote": "Kenzo: We’re gonna see if I can find some windows, get a better view.\n\nDM: So yeah, there are set—so, so there are windows like not really windows, but like, arrow-slit-type windows kind of sat at regular intervals around the tower. So you can look out basically from any floor when you want.\n\nKenzo: Just [garbled] look out of all them like Any creatures, anyway? Anything, so…\n\nDM: Looking out, you notice a few things. So first of all, ah, first of all, looking out kind of the opposite side, right? So there’s the you were, you were on the east side of the tower. So in the tunnel, you were looking west. You’re looking at the east side of the tower. To the south of the tower is the keep. It—to the north of the tower is the cliff. To the west of the tower, you’re looking out over what looks like it used to be some sort of cultivated gardens or kind of courtyard area, but very pretty. There’s two large pools of water.\n\n[garbled] right now—no, you’re sort of imagining what it looks like in the past. Got it, got it. Pools of water are sort of sickly and green at the moment. The trees that used to line these pools and, you can imagine, provide nice shade in the heat of summer, are now largely dead. The ones that are not dead, have—their leaves are sort of yellowing and dying. And moving across this courtyard area are several more of those hobgoblin undead creatures that you saw.\n\nKenzo: I’m…\n\nDM: Sort of heading kind of towards the larger pool, and they seem to be they seem to be moving without much purpose, kind of—"
+        }
+      ],
+      "place": "p15",
+      "observerPlace": "p11",
+      "mode": "local"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1747",
+        "endUid": "u1758"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party accepts Kenzo’s invitation into the first tower and searches its rooms while he continues toward the second tower.",
+      "evidence": [
+        {
+          "startUid": "u1747",
+          "endUid": "u1749",
+          "quote": "Kenzo: Okay, so you guys want to come into the tower?\n\nDelwath: Yeah, sure. And there was a room in the tower that seemed worth searching?\n\nKenzo: Yeah, so you guys can search that room. Yeah, well, so while they search that room, Tim, I’m going to keep—just so I don’t waste Invisibility, I’m going to go in and keep keep going and just wandering."
+        },
+        {
+          "startUid": "u1754",
+          "endUid": "u1758",
+          "quote": "Kenzo: Alright, you guys want to search here first? You guys want to search for a bit? We can play that part out.\n\nSeeker: Yeah, Yeah.\n\nDM: So there’s so the, the basically the two places to search would be the apartment and the room that Kenzo didn’t really look into, that was on the entry—entry floor where you come in. There’s like a room that he did the—"
+        },
+        {
+          "startUid": "u1767",
+          "endUid": "u1784",
+          "quote": "Delwath, in the apartment:"
+        }
+      ],
+      "from": null,
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1804",
+        "endUid": "u1819"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Cross the passage above the gate and enter the second tower.",
+      "evidence": [
+        {
+          "startUid": "u1750",
+          "endUid": "u1753",
+          "quote": "DM: Okay, so the door here is barred from the inside, but you can easily remove the bars and open it. It leads—so there’s a—basically where you are now is in the in not exactly a crawl space, but kind of a cramped passageway that looks like it’s sort of like a like a kill floor, right? There’s like holes on the floor where you could like drop stones or or dump hot oil or something down on somebody trying to come in from the gate. And then, going straight across, there’s another door leading into the second tower."
+        },
+        {
+          "startUid": "u1804",
+          "endUid": "u1819",
+          "quote": "Kenzo: Yep.\n\nDM: Okay, so, um, you come into the—so actually, give me a Perception check as you push open the door into the other tower.\n\nKenzo: Excellent. As I’m very perceptive.\n\nDM: [garbled]. Okay, so you you push open the door, and you you come into here. Um a let’s let me see. I have too many windows open here. Ah, OK, so, um, this, this, again, is a fairly—it’s sort of an entry way room with similar to to the other room with with stairs going up and going down and you sort of come across into is basically a sort of a bare—a bare entry, and then there’s a door that leads to some other room on the other side of the door."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk invisibly",
+      "route": [
+        {
+          "reading": "Pass through the cramped passage with holes for defending the gate below."
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "presence",
+      "source": {
+        "startUid": "u1833",
+        "endUid": "u1850"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Scout the third-floor landing, seeing the occupied quarters and the orc descending into them.",
+      "evidence": [
+        {
+          "startUid": "u1833",
+          "endUid": "u1850",
+          "quote": "DM: Okay, so as you head up the stairs, you come out into another room. This, this is like another sort of apartment is not as good shape. And you sort of come out into into sort of a hallway with a few crates and barrels stacked and then sort of looking through like peeking through an open doorway, you can see like a table and a chair and a firepit, and a bedroll laid across some straw. This definitely looks more like something that has been lived—lived in.\n\nKenzo: Okay. All right.\n\nDM: All right, there’s—coming down the steps across—so you came up here. There’s like the storage area, then there’s steps going up on the other side of the tower. Coming down the steps and sort of heading towards this this living area, you see—let me just grab a description here. Ah, you see a sort of a green-skinned, vicious-looking humanoid creature. Um, an orc, walking across the, the entry-way—the area that has the—with the sort of—doesn’t seem to have noticed you—that, the entryway with like barrels and, and crates in a sack and stuff like that. Dark cloak over its head. Um, carrying a scimitar—or sheathed on its back and moving sort of quietly and quickly from the floor above towards the living space."
+        },
+        {
+          "startUid": "u2041",
+          "endUid": "u2046",
+          "quote": "Delwath: This is if we crossed the top of the bridge to cross the top of the wall?\n\nDM: And then you go up the stairs.\n\nDelwath: And go in the door and go up the stairs there on the second there on like the third floor, yes?\n\nUnknown: Yeah.\n\nSeeker: And the prisoners also on the third floor?\n\nDM: On the fourth floor, what."
+        }
+      ],
+      "place": "p14"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u1855",
+        "endUid": "u1899"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Go upstairs into the fourth-floor apartments and approach the wounded prisoner.",
+      "evidence": [
+        {
+          "startUid": "u1855",
+          "endUid": "u1870",
+          "quote": "Kenzo: All right, yeah. I go up where where he was. I go up.\n\nDM: Okay. Ah. Heading up, you see, um coming to this—now this would be the fourth floor of the tower, um, the, the—the stairs now come out in a in a in a corridor with four small apartments off of it. But this is now not apartments. There’s a stench of dead bodies. You hear a sort of a faint groan from one of these apartments. There’s piles of straw bedding, there’s like a pile of sort of like bits of like rotted flesh and stuff and at the far end of this corridor that you just came up, you see two, uh um, short humans. Seem to be humans, but look almost like sneaky, wearing dark clothes, kind of like lurking in the shadows a bit."
+        },
+        {
+          "startUid": "u1898",
+          "endUid": "u1899",
+          "quote": "DM: Ah, sure, you sort of like move over here and just kind of, peek in being very—with your Stealth, I’ll say being very careful to avoid the two other creatures—creatures—and you see, lying on this pile of straw, um, a badly wounded woman wearing armor but otherwise um, like seemingly beat up, with no equipment or anything. Um, hands tied behind her back."
+        }
+      ],
+      "from": "p14",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk invisibly"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u1981",
+        "endUid": "u1995"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Briefly scout back downstairs to locate the guards, then return to Vola with a rescue plan and a healing potion.",
+      "evidence": [
+        {
+          "startUid": "u1981",
+          "endUid": "u1986",
+          "quote": "Kenzo: Um, not for you, but I don’t have a lot of time. So let me just scout downstairs and just see what’s going on. Stay here. Don’t make any noise to alarm them. I’ll be back in a minute, okay? Just stay right here. Tim, I go back down the stairs. I sneak down the stairs. Well, the orcs—are they, are they like—or the humanoids, where are they?\n\nDM: So the orc has gone into the chambers. One of the humanoids is like sitting has pulled up a stool and is sitting by the stairs. The other has probably gone on into the chamber. You don’t see it."
+        },
+        {
+          "startUid": "u1987",
+          "endUid": "u1995",
+          "quote": "I sneak back up, um, Vola, your name’s Vola."
+        }
+      ],
+      "from": "p13",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk invisibly",
+      "route": [
+        {
+          "place": "p14",
+          "reading": "Find one guard by the stairs and the orc in its quarters, then return upstairs."
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2004",
+        "endUid": "u2008"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Return to companions in the first tower to explain Vola’s situation and organize the rescue.",
+      "evidence": [
+        {
+          "startUid": "u2004",
+          "endUid": "u2008",
+          "quote": "Kenzo: All right, let’s back. Go to the homies, explain the situation as quickly as I can and describe the whole layout the best that I can as well. So they’re basically, you know, there’s two guards, an orc that I don’t know where it went. Well, we got to kill these two quietly. So I recommend we repeat what we did to kill other things quietly, some version of that. Wellby, if you’ve got your, you know…"
+        },
+        {
+          "startUid": "u2050",
+          "endUid": "u2053",
+          "quote": "Seeker: Key question: and then what? We’re all going to come back here?\n\nKenzo: Yes, and then we can talk in the tower. This place is pretty safe. No killing. We just—well, see, the thing as soon as we get her out of there, they’re going to know. They’re gonna—they’re gonna—they’re gonna start searching. I guess we do have to kill them all."
+        }
+      ],
+      "from": "p13",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk invisibly"
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u2073",
+        "endUid": "u2094"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Climb to the third floor of the second tower and confront the guard by the stairs.",
+      "evidence": [
+        {
+          "startUid": "u2041",
+          "endUid": "u2046",
+          "quote": "Delwath: This is if we crossed the top of the bridge to cross the top of the wall?\n\nDM: And then you go up the stairs.\n\nDelwath: And go in the door and go up the stairs there on the second there on like the third floor, yes?\n\nUnknown: Yeah.\n\nSeeker: And the prisoners also on the third floor?\n\nDM: On the fourth floor, what."
+        },
+        {
+          "startUid": "u2073",
+          "endUid": "u2076",
+          "quote": "DM: Ah yeah, okay, so I may—put your characters here. And I guess, Kenzo I guess you’re still invisible at the moment. Yeah, for like the next 10 minutes or so. You guys pick. Tell me whatever order you want to be in coming up the steps."
+        },
+        {
+          "startUid": "u2092",
+          "endUid": "u2096",
+          "quote": "DM: Okay, I said there’s one like sort of sitting—that’s not a very good—that’s fine, that’s fine. There’s one sitting there, and that’s all you can see.\n\nKenzo: Okay, so I, I, you know, gesture to to Seeker where you know where they are and just point.\n\nSeeker: And I began drawing a complex sleepy drawing in the air, which wafts over in the direction."
+        }
+      ],
+      "from": "p11",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "sneak"
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u2585",
+        "endUid": "u2612"
+      },
+      "actors": [
+        "Kenzo",
+        "Vola"
+      ],
+      "reading": "Kenzo goes upstairs to retrieve Vola and accompanies her down to the party in the quarters.",
+      "evidence": [
+        {
+          "startUid": "u2585",
+          "endUid": "u2606",
+          "quote": "Kenzo: I’m going to get Vola. Yes. Alright, so it’s and I go up the stairs, but now I’m no longer invisible.\n\nDM: Right, okay.\n\nKenzo: So I go out. What is she doing?\n\nDM: She is sort of listening at the top of the stairs, silent, waiting.\n\nKenzo: Okay, does she look like she looks better now? Does she look like she can move around, around, she needed help?\n\nDM: She looks. She definitely looks better with the healing potion.\n\nKenzo: Oh, I go up to the top of the stairs. I say, “Vola, Kenzo, the invisible guy. Nice to meet you. We should get out of here.”\n\nDM: Yes.\n\nKenzo: You need any help? You move on your own?\n\nDM: I can move. Okay.\n\nKenzo: I, like, reach out my hand and help lead her down the stairs.\n\nDM: She kind of like, you know, brushes you off a bit and kind of says—\n\nKenzo: No thanks.\n\nDM: I’m fine. I mean, I’m not fine. I’ve been in this damn place—\n\nSeeker: Let’s get out of here.\n\nKenzo: Let’s get out of here. So he doesn’t. So I just—I just, you know, I, I move at her pace, though. She’s like walking—sorry, I just stayed just."
+        },
+        {
+          "startUid": "u2609",
+          "endUid": "u2612",
+          "quote": "Kenzo: So I go down to where all the conflict compatriots are. “Team, this is Vola. We’ll do proper introductions a little bit later, but first, how about we get the hell out of here? Is there anything else we need to search here? Should be maybe go back to the other tower?”"
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Kenzo first ascends from the third floor; Vola is only part of the subsequent descent."
+    },
+    {
+      "id": "l26",
+      "type": "movement",
+      "source": {
+        "startUid": "u2674",
+        "endUid": "u2694"
+      },
+      "actors": [
+        "party",
+        "Vola"
+      ],
+      "reading": "Return to the first tower, bar the door, and begin the closing conversation.",
+      "evidence": [
+        {
+          "startUid": "u2679",
+          "endUid": "u2686",
+          "quote": "Kenzo: Okay, yeah, let’s go to the tower. Vola you know if there’s a place we can be a little bit more quiet that we’re not going to get interrupted right around here?\n\nDM: Um whole place seems rather dangerous to me. I was never able to get into that—another tower, though. You have a way in? Yeah.\n\nKenzo: Let’s go will show you. So we go—can we go—the other tower is—we have to go to the tower anyways to get out to the—so yeah, we go into the tower."
+        },
+        {
+          "startUid": "u2690",
+          "endUid": "u2694",
+          "quote": "DM: If you bar the door, the towers would be quite safe, right? I mean, nobody seems to have been in there and many years. All right.\n\nKenzo: Let’s do that. So can we get into the tower and then have a closing conversation?"
+        },
+        {
+          "startUid": "u2701",
+          "endUid": "u2705",
+          "quote": "Kenzo: Let’s just finish—finish up here. Um, so Vola, I know this is this is all—we don’t know who you are, and this whole situation is crazy to us. We’re here trying to figure out information ourselves, but these are the companions. Um, and if you guys want to introduce yourself. Or I can do it for you.\n\nSeeker: We say our names. Yeah."
+        }
+      ],
+      "from": "p14",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    }
+  ]
+}

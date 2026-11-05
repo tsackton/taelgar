@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-time-markers.json",
+    "sha256": "a3d20abdcb8ef106cfcec5b59db46375f51b797ab413009714f47250ba21df0f"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-transcript.md",
+    "sha256": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4"
+  },
+  "dateAssessment": "1748-04-12 is YAML-only; the transcript establishes late afternoon through about 19:00, with no completed overnight, matching the zero-date-boundary span.",
+  "watches": [
+    {
+      "day": "1748-04-12 (YAML)",
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Lock work takes a while; the ongoing outing is described as about six hours old.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "scope": "Opening, clock unanchored"
+    },
+    {
+      "day": "1748-04-12 (YAML)",
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Late-afternoon scouting totals about fifteen minutes, including the three-minute southern lookout.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05",
+        "t06"
+      ],
+      "scope": "Delwath"
+    },
+    {
+      "day": "1748-04-12 (YAML)",
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Both groups watch and short-rest for one shared hour, reaching sunset and twilight.",
+      "markers": [
+        "t07"
+      ]
+    },
+    {
+      "day": "1748-04-12 (YAML)",
+      "startDate": "1748-04-12",
+      "endDate": "1748-04-12",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Kenzo’s scout reaches twenty minutes, then roughly fifty; Vola’s conversation is about 7 p.m.",
+      "markers": [
+        "t09",
+        "t10",
+        "t11"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-010",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+    "sessionYamlSha256": "e1e45132e4b94723f0d8cc776648adaa4a63eaeccdeb9d4113231c83be08f686",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-transcript.md",
+    "transcriptSha256": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0133"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0134",
+        "endUid": "u0145"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0146",
+        "endUid": "u0505"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0506",
+        "endUid": "u0537"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0538",
+        "endUid": "u1116"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1117",
+        "endUid": "u1232"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1233",
+        "endUid": "u2094"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2095",
+        "endUid": "u2522"
+      },
+      "category": "combat",
+      "note": "Includes the opening Sleep spell whose audible result immediately triggers initiative; the guard remains asleep when the ordered fight ends."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2523",
+        "endUid": "u2695"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2696",
+        "endUid": "u2700"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2701",
+        "endUid": "u2867"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2868",
+        "endUid": "u2872"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2873",
+        "endUid": "u2875"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

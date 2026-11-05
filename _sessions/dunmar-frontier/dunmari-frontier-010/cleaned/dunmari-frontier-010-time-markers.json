@@ -1,0 +1,340 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-010",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+    "sessionYamlSha256": "e1e45132e4b94723f0d8cc776648adaa4a63eaeccdeb9d4113231c83be08f686",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-transcript.md",
+    "transcriptSha256": "5eb071b1e6cb7afc4152aa68ca64e7106ef8ae48b0a26f5bd456b3b5eeeccbd4",
+    "yamlDates": {
+      "start": "1748-04-12",
+      "end": "1748-04-12"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0022"
+      },
+      "reading": "Kenzo spends an unspecified while trying unsuccessfully to pick the rusty lock.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0022",
+          "quote": "You spend a while kind of tinkering with it a little bit"
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "text": "a while",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated time spent working on the lock"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0377",
+        "endUid": "u0377"
+      },
+      "reading": "The DM places the current exploration about six hours into the outing; its starting event is not fully stated.",
+      "evidence": [
+        {
+          "startUid": "u0375",
+          "endUid": "u0377",
+          "quote": "Delwath: We did have it, but it was weeks. I mean, it was on the order of weeks, not—\n\nSeeker: Oh, and there are horses waiting as usual. Right, right.\n\nDM: But so far, we’ve only it’s only been like six hours that you’ve—"
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "The earlier outing being discussed; its exact start is unstated",
+          "offset": {
+            "value": 6,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "DM’s elapsed-time estimate"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM’s unfinished six-hour statement in response to the remaining time/horse discussion"
+      },
+      "note": "This does not establish six additional hours elapsed within this session."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0854",
+        "endUid": "u0857"
+      },
+      "reading": "Three or four minutes have passed during Delwath’s invisible scouting by the northern rubble.",
+      "evidence": [
+        {
+          "startUid": "u0854",
+          "endUid": "u0857",
+          "quote": "DM: I’d say this is about, you know, this has only been maybe—and it’s an—three or four minutes."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "min": 3,
+        "max": 4,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s elapsed scouting estimate"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0861",
+        "endUid": "u0871"
+      },
+      "reading": "Delwath sees the plaza in late-afternoon sunlight.",
+      "evidence": [
+        {
+          "startUid": "u0861",
+          "endUid": "u0871",
+          "quote": "what you’re looking out across at is a stone plaza in the late afternoon sun."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM’s direct description of the exterior during the scout"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0955",
+        "endUid": "u0958"
+      },
+      "reading": "Delwath watches the southern tower entrance for three minutes without seeing activity.",
+      "evidence": [
+        {
+          "startUid": "u0955",
+          "endUid": "u0958",
+          "quote": "DM: I assume you then, at that point, return without opening the gate or anything.\n\nDelwath: Or do you want to explore more? I’m not going to open the gate yet, but maybe I’ll just wait to two or three minutes and just watch and see if anything happens.\n\nDM: Nothing seems to happen after three minutes."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM confirms three minutes of waiting"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0959",
+        "endUid": "u0962"
+      },
+      "reading": "Delwath’s initial scouting circuit takes about fifteen minutes in all.",
+      "evidence": [
+        {
+          "startUid": "u0959",
+          "endUid": "u0962",
+          "quote": "Delwath: Right, I’ll go back. How long—\n\nDM: It’s been maybe 15 minutes."
+        },
+        {
+          "startUid": "u0964",
+          "endUid": "u0968",
+          "quote": "And Delwath returns, and there’s silence."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s elapsed-time estimate"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1437",
+        "endUid": "u1454"
+      },
+      "reading": "Both subgroups complete an hour of watching and short resting, from late afternoon toward sunset/twilight.",
+      "evidence": [
+        {
+          "startUid": "u1421",
+          "endUid": "u1422",
+          "quote": "Delwath: Let’s, let’s watch. I’m gonna—we’ll short rest while we watch.\n\nDM: Exactly. Yeah. Yes."
+        },
+        {
+          "startUid": "u1437",
+          "endUid": "u1454",
+          "quote": "You each watch for an hour in your respective areas"
+        },
+        {
+          "startUid": "u1459",
+          "endUid": "u1471",
+          "quote": "the hour passes. Nothing else seems to happen. The sun’s now setting in the sky, so we’re getting towards twilight."
+        },
+        {
+          "startUid": "u2364",
+          "endUid": "u2369",
+          "quote": "DM: A short rest. You need to do it during your short rest. Oh, you took a short rest. Yeah, yeah.\n\nKenzo: So she she totally attuned to it. How about, you know—\n\nSeeker: I remember that.\n\nKenzo: When that happened, yeah. Completely. That would have been completely—that’s what—\n\nDM: You were attuning to our items. We were, you know, looking at the—"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "late afternoon",
+          "precision": "approximate",
+          "basis": "Narrated start of the shared hour"
+        },
+        "end": {
+          "partOfDay": "sunset / twilight",
+          "precision": "approximate",
+          "basis": "Narrated endpoint after one hour"
+        }
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit shared watch duration; short-rest benefits occur within this hour"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1853",
+        "endUid": "u1854"
+      },
+      "reading": "About twenty minutes of Kenzo’s invisible scouting have elapsed by the orc sighting.",
+      "evidence": [
+        {
+          "startUid": "u1853",
+          "endUid": "u1854",
+          "quote": "Kenzo: I go up to—how, how, how long has it been la.\n\nDM: Hmm 20 minutes."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s elapsed-time estimate"
+      },
+      "completion": "completed",
+      "note": "Cumulative since the invisibility scout began; includes the first-tower circuit, not another twenty minutes after it."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2073",
+        "endUid": "u2076"
+      },
+      "reading": "Kenzo has about ten minutes of his hour-long invisibility left as the rescue party assembles, implying roughly fifty minutes since casting.",
+      "evidence": [
+        {
+          "startUid": "u2073",
+          "endUid": "u2076",
+          "quote": "Kenzo I guess you’re still invisible at the moment. Yeah, for like the next 10 minutes or so."
+        },
+        {
+          "startUid": "u0975",
+          "endUid": "u0976",
+          "quote": "Kenzo: How long you stay invisible, Delwath?\n\nDelwath: An hour."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "Delwath casts Invisibility on Kenzo at u1630–u1635",
+          "offset": {
+            "value": 50,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "Inferred from the established one-hour spell and approximately ten minutes remaining"
+          }
+        },
+        "precision": "approximate",
+        "basis": "Remaining spell time stated by the DM; not a separate new interval"
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2849",
+        "endUid": "u2850"
+      },
+      "reading": "The conversation with Vola in the first tower is at dinner time, about 7 p.m.",
+      "evidence": [
+        {
+          "startUid": "u2849",
+          "endUid": "u2850",
+          "quote": "Seeker: Tim, what time of day is it?\n\nDM: Like dinner time like 7pm."
+        }
+      ],
+      "time": {
+        "clock": "19:00",
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM explicitly answers the time-of-day question"
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "April 12, 1748 comes only from YAML; the transcript independently establishes late afternoon, sunset/twilight, and about 7 p.m.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t04",
+      "t06",
+      "t07",
+      "t09",
+      "t10",
+      "t11"
+    ],
+    "explanation": "Continuous exploration, scouting, a completed hour-long watch/rest, rescue, and evening conversation remain on the same day. Historical occupation dates and Vola’s prior captivity do not extend the played interval. The final rest is only proposed; no overnight is completed."
+  }
+}
