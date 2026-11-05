@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dragonets-003",
+    "sessionYaml": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml",
+    "sessionYamlSha256": "43e7afa3314387efc4c3e858be4d0030fd63d766fa9ce9302c3e661841798457",
+    "transcriptPath": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-transcript.md",
+    "transcriptSha256": "4ff68ebd12dc245cef06400b0c583242a0403a757016f47ba0cbfba91670c9ec"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0037"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0064"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0065",
+        "endUid": "u0076"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0077",
+        "endUid": "u0647"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0648",
+        "endUid": "u0685"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0686",
+        "endUid": "u0739"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0740",
+        "endUid": "u0752"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0753",
+        "endUid": "u1670"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1671",
+        "endUid": "u2814"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2815",
+        "endUid": "u3097"
+      },
+      "category": "gameplay",
+      "note": "The rescue countdown at u2915–u3071 permits free action order and resolves a single collective rescue; no repeated ordered turn cycle is established."
+    }
+  ]
+}

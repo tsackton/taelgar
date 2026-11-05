@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dragonets-003",
+    "sessionYaml": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml",
+    "sessionYamlSha256": "43e7afa3314387efc4c3e858be4d0030fd63d766fa9ce9302c3e661841798457",
+    "transcriptPath": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-transcript.md",
+    "transcriptSha256": "4ff68ebd12dc245cef06400b0c583242a0403a757016f47ba0cbfba91670c9ec",
+    "yamlDates": {
+      "start": null,
+      "end": null
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0763",
+        "endUid": "u0764"
+      },
+      "reading": "The party’s further Wanderer experiments are played as a roughly half-hour montage, contained in the later cumulative practice total.",
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM opens the next half-hour montage; the ensuing experiments resolve it."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t02"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0763",
+          "endUid": "u0764",
+          "quote": "over the next, like, half hour."
+        },
+        {
+          "startUid": "u0792",
+          "endUid": "u0795",
+          "quote": "you're able to reach down"
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0863",
+        "endUid": "u0866"
+      },
+      "reading": "By the boulder experiment, talking and practicing with the Wanderer have occupied at least about an hour in all, including the half-hour montage.",
+      "duration": {
+        "min": 1,
+        "minInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s retrospective cumulative estimate: at least an hour or so."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0863",
+          "endUid": "u0866",
+          "quote": "this is, like, now, like, at least an hour, you know, or so, that you've been just doing all of this, talking, experimenting, and so on."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0917",
+        "endUid": "u0927"
+      },
+      "reading": "Narration shifts back to the visitors’ crash and discovery during the party’s preceding practice; it does not add a second elapsed interval.",
+      "context": "flashback",
+      "actors": [
+        "Shai",
+        "Aksha"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "The party’s arrival near the Dark Lady crash site"
+        },
+        "precision": "approximate",
+        "basis": "DM explicitly places the crash at some point over the past practice stretch."
+      },
+      "evidence": [
+        {
+          "startUid": "u0917",
+          "endUid": "u0927",
+          "quote": "What has happened at some point over this past stretch, unbeknownst to you"
+        },
+        {
+          "startUid": "u0917",
+          "endUid": "u0927",
+          "quote": "There was a vessel that had crashed, and two humanoid figures that had emerged from the vessel."
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0928",
+        "endUid": "u0934"
+      },
+      "reading": "The narration returns from the crash account to the party arriving aboard the Wanderer near the visitors.",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t02",
+          "note": "Resumes the party’s ongoing adventure after the retrospective crash account, now at arrival."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0928",
+          "endUid": "u0934",
+          "quote": "And as you all arrive—and I'm assuming you're, as you're kind of going down the beach, this, this scene is, is near the beach"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "Neither YAML nor current play supplies an absolute date or time of day. Recollections of two days ago and the previous awakening concern prior sessions.",
+    "expectedDateBoundaries": null,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04"
+    ],
+    "explanation": "The played interval contains cumulative practice, the visitors’ meeting, battle and rescue, with no established overnight transition. Its exact calendar boundaries remain open. The five-to-ten-minute arrival estimate and revised three-round rescue countdown are forecasts, not measured elapsed time; neither is converted into a calendar span."
+  }
+}
