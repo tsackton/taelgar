@@ -1,0 +1,184 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-119",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+    "sessionYamlSha256": "27cc5de7d262d2109d279ca7417572d8b481a58150e062cc7d99804fa6c4bf7e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-transcript.md",
+    "transcriptSha256": "887e839d845949159140c51dc96149b79cd621efec8e0cbabc1e19016e970a35",
+    "yamlDates": {
+      "start": "1749-05-30",
+      "end": "1749-05-31"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0372",
+        "endUid": "u0378"
+      },
+      "reading": "Arrival in Emberwine has stationary golden late-afternoon light, also described as evening; this locates the local setting, not a civil clock or elapsed day.",
+      "evidence": [
+        {
+          "startUid": "u0372",
+          "endUid": "u0375",
+          "quote": "The rest of you sort of feel yourself gradually sort of dragged through and find yourself stepping into this golden sunlight lit afternoon hill."
+        },
+        {
+          "startUid": "u0376",
+          "endUid": "u0378",
+          "quote": "warm, endless afternoon, lazy and heavy."
+        },
+        {
+          "startUid": "u0457",
+          "endUid": "u0457",
+          "quote": "DM: It's late afternoon. It's, it's golden hour."
+        },
+        {
+          "startUid": "u0622",
+          "endUid": "u0628",
+          "quote": "the warm afternoon—late afternoon. It's really evening."
+        },
+        {
+          "startUid": "u1115",
+          "endUid": "u1115",
+          "quote": "DM: Yeah. The light hasn't changed."
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon / golden-hour evening",
+        "precision": "approximate",
+        "basis": "Narrated stationary Feywild light; later descriptions refine the same local appearance without establishing a passing day."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0633",
+        "endUid": "u0635"
+      },
+      "reading": "An unspecified interval passes while the party reaches the riverbank.",
+      "evidence": [
+        {
+          "startUid": "u0633",
+          "endUid": "u0635",
+          "quote": "So sometime later you find yourself at the banks of the river."
+        }
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0728",
+        "endUid": "u0730"
+      },
+      "reading": "The party waits a few moments on the riverbank for the barge to come closer.",
+      "evidence": [
+        {
+          "startUid": "u0728",
+          "endUid": "u0730",
+          "quote": "So you wait a few moments as the barge gets closer, as you're standing on the banks of the river."
+        }
+      ],
+      "duration": {
+        "text": "a few moments",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly narrates the brief wait."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0880",
+        "endUid": "u0881"
+      },
+      "reading": "Time passes while the party walks and discusses its destination; the amount and its relation to Material Plane time remain unmeasured.",
+      "evidence": [
+        {
+          "startUid": "u0880",
+          "endUid": "u0881",
+          "quote": "DM: Talking as you walk. Time's passing."
+        },
+        {
+          "startUid": "u0888",
+          "endUid": "u0891",
+          "quote": "DM: I mean, it's not like days are passing for every minute here, right? It's, it's—the phase of the moon is not, like, changing rapidly. So if it's— if time is not running quite linearly, it's, you know, maybe 10% faster or 10% slower or something."
+        }
+      ],
+      "completion": "begun"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1138",
+        "endUid": "u1142"
+      },
+      "reading": "About a minute after the knock, Auntie Mulberry opens the cottage door.",
+      "evidence": [
+        {
+          "startUid": "u1134",
+          "endUid": "u1134",
+          "quote": "Wellby: Yeah. Wellby will go up to the door and knock."
+        },
+        {
+          "startUid": "u1138",
+          "endUid": "u1142",
+          "quote": "About a minute later,"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit approximate wait after Wellby knocks."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1165",
+        "endUid": "u1166"
+      },
+      "reading": "Auntie Mulberry returns after a minute inside washing; the party waits outside.",
+      "evidence": [
+        {
+          "startUid": "u1163",
+          "endUid": "u1164",
+          "quote": "DM: You hear the sound of water running. She, like, seems to go around a corner somewhere, and then you can't quite tell, like, you can't quite see where she went."
+        },
+        {
+          "startUid": "u1165",
+          "endUid": "u1166",
+          "quote": "DM: And then, like, you hear the sound of water running and a sigh, and then a minute later she comes back."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated one-minute interval, without a measured clock."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "May 30–31, 1749 comes only from YAML; no civil date is independently spoken in this transcript.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06"
+    ],
+    "explanation": "The transcript opens at the portal approach and establishes short waits and unmeasured travel in stationary Feywild light. It narrates neither the overnight listed in the separate session note nor a measurable civil-day transition. The character-sheet reset at u0332–u0334 is insufficient to establish an additional rest. This leaves the one-day YAML span unverified, without a contradiction."
+  }
+}

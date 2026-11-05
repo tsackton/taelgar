@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-time-markers.json",
+    "sha256": "a93d642ab4417a2aeb5132c4f054a35c9c46377867135cf9deb522f499c1047d"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-transcript.md",
+    "sha256": "887e839d845949159140c51dc96149b79cd621efec8e0cbabc1e19016e970a35"
+  },
+  "dateAssessment": "May 30–31, 1749 is YAML-only; the transcript gives neither a spoken civil date nor a supported midnight boundary, leaving that one-day span compatible but unverified.",
+  "watches": [
+    {
+      "day": "Emberwine: stationary local light",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "summary": "Golden afternoon light is corrected to evening and remains unchanged; it supplies no civil watch.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "Unplaced adventure interval",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "Unmeasured walks and a brief barge wait precede two roughly one-minute waits at Auntie’s cottage.",
+      "markers": [
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06"
+      ]
+    }
+  ]
+}
