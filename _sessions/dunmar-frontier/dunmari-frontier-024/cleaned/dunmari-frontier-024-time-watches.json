@@ -1,0 +1,163 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-time-markers.json",
+    "sha256": "c6b72f018d592a554c71864e81f7d30a2993fd4420dc05547b219f65187851f1"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-transcript.md",
+    "sha256": "bd26b19c77a1df2bad0fa69308973160730fc3315746760a9ab68aa3b3fa712e"
+  },
+  "dateAssessment": "Working dates use YAML, 1748-05-11 through 1748-05-13. Two completed overnights support that relative span; the transcript supplies no independent calendar date. Approximate watches follow narrated light and clocks. The city scouting overlaps Clairvoyance, rather than adding a second interval.",
+  "watches": [
+    {
+      "day": "May 11, 1748",
+      "startDate": "1748-05-11",
+      "endDate": "1748-05-11",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Late sun becomes twilight during temple exploration and the return to camp.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08"
+      ]
+    },
+    {
+      "day": "May 11–12, 1748",
+      "startDate": "1748-05-11",
+      "endDate": "1748-05-12",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Evening rest completes at dawn after the first night’s watches.",
+      "markers": [
+        "t09"
+      ]
+    },
+    {
+      "day": "May 12, 1748",
+      "startDate": "1748-05-12",
+      "endDate": "1748-05-12",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Seeker’s middle watch follows the planned handoff around 2 a.m.; everyone wakes at dawn.",
+      "markers": [
+        "t10",
+        "t11"
+      ],
+      "sourceRanges": [
+        [
+          "u0836",
+          "u0841"
+        ]
+      ]
+    },
+    {
+      "day": "May 12, 1748",
+      "startDate": "1748-05-12",
+      "endDate": "1748-05-12",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Early-morning scouting includes twenty minutes searching and fifteen minutes checking buildings before Wellby returns.",
+      "markers": [
+        "t12",
+        "t13",
+        "t14"
+      ]
+    },
+    {
+      "day": "May 12, 1748",
+      "startDate": "1748-05-12",
+      "endDate": "1748-05-12",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Southward travel reaches the cliffs’ end around 3 p.m.; riding west and north continues until sunset.",
+      "markers": [
+        "t15"
+      ]
+    },
+    {
+      "day": "May 12, 1748",
+      "startDate": "1748-05-12",
+      "endDate": "1748-05-12",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "One extra hour riding north reaches the second camp after sunset.",
+      "markers": [
+        "t16"
+      ]
+    },
+    {
+      "day": "May 12–13, 1748",
+      "startDate": "1748-05-12",
+      "endDate": "1748-05-13",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Twilight camp and the second overnight end just before dawn, around 5 a.m.",
+      "markers": [
+        "t17"
+      ]
+    },
+    {
+      "day": "May 13, 1748",
+      "startDate": "1748-05-13",
+      "endDate": "1748-05-13",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Seeker dozes around 3 a.m.; waking near 5 a.m. precedes breakfast and a pre-dawn departure.",
+      "markers": [
+        "t18",
+        "t19",
+        "t32"
+      ]
+    },
+    {
+      "day": "May 13, 1748",
+      "startDate": "1748-05-13",
+      "endDate": "1748-05-13",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Three hours riding reaches the road around 9–9:30; the shelter follows about 9:30–10.",
+      "markers": [
+        "t20",
+        "t21"
+      ]
+    },
+    {
+      "day": "May 13, 1748",
+      "startDate": "1748-05-13",
+      "endDate": "1748-05-13",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Before-noon bridge approach precedes two ten-minute scryings; Delwath’s twenty-minute city exploration overlaps them.",
+      "markers": [
+        "t22",
+        "t23",
+        "t24",
+        "t31",
+        "t25",
+        "t26",
+        "t27",
+        "t28",
+        "t29",
+        "t30"
+      ]
+    }
+  ]
+}

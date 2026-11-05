@@ -1,0 +1,986 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-024",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-session.yaml",
+    "sessionYamlSha256": "9c66851d2435f9347ecc225e11a2254476381651eccffe76899f4adbd2d593c6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-transcript.md",
+    "transcriptSha256": "bd26b19c77a1df2bad0fa69308973160730fc3315746760a9ab68aa3b3fa712e"
+  },
+  "places": {
+    "p01": {
+      "label": "Monastery of Bhishma",
+      "kind": "monastery",
+      "evidence": [
+        {
+          "startUid": "u0012",
+          "endUid": "u0020",
+          "quote": "DM: While exploring the monastery, you also discovered the still-divine passageway to the initiation rituals of the Bhishma Mystai, which Kenzo and Seeker followed. Well, at the end Seeker turned away. Kenzo committed to becoming a Mystai and learning that Shakun, the daughter of Bhishma and Laka, was present with her parents, as always, in the realm of Arkash, the spiritual plane of the Five Siblings. But she could not reach the world, cannot reach Karawa, could not reach her temple there to power the mystical protections of Dunmar, because their heart, a red ochre stone imbued with her divine essence, was missing.\n\nDM: Turning from the initiation halls to explore the hall of stories, you learn some of the history of the Bhishma Mystai, the conflicts and decisions leading up to the fateful attempt to close a portal, heal the land, cure evil somehow. And the involvement of Rai, initially connected to the Mystai through Drankor, possibly the portal to another plane there."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma.md"
+    },
+    "p02": {
+      "label": "Hall of Stories tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0024",
+          "quote": "DM: Turning from the initiation halls to explore the hall of stories, you learn some of the history of the Bhishma Mystai, the conflicts and decisions leading up to the fateful attempt to close a portal, heal the land, cure evil somehow. And the involvement of Rai, initially connected to the Mystai through Drankor, possibly the portal to another plane there.\n\nDM: Now, as you leave the tower and the hall of stories, the sun is low on the horizon, casting the sandstone buildings of the monastery in a beautiful reddish golden light. As dusk approaches and the sounds of birds in the distance grows, the desert feels alive.\n\nDM: The sun low in the sky, the overbearing heat of the day has passed. The beauty and tranquility of the monastery in this evening light is broken only by the scattered dead bodies of the orcs and manticores and the feeling of madness that grows, lurking in the long shadows of the buildings."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0018",
+              "endUid": "u0024",
+              "quote": "DM: Turning from the initiation halls to explore the hall of stories, you learn some of the history of the Bhishma Mystai, the conflicts and decisions leading up to the fateful attempt to close a portal, heal the land, cure evil somehow. And the involvement of Rai, initially connected to the Mystai through Drankor, possibly the portal to another plane there.\n\nDM: Now, as you leave the tower and the hall of stories, the sun is low on the horizon, casting the sandstone buildings of the monastery in a beautiful reddish golden light. As dusk approaches and the sounds of birds in the distance grows, the desert feels alive.\n\nDM: The sun low in the sky, the overbearing heat of the day has passed. The beauty and tranquility of the monastery in this evening light is broken only by the scattered dead bodies of the orcs and manticores and the feeling of madness that grows, lurking in the long shadows of the buildings."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Temple of Bhishma",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0053",
+          "quote": "DM: Heading over to the temple. So it's about maybe half an hour until sunset, um, maybe—maybe more like 40 minutes. And it takes you maybe five or 10 minutes to approach and start to look around the temple, so.\n\nDM: The temple of Bhishma here is made of red sandstone, which in this evening sunset light is glowing almost as if it's lit from within. It's in a style of where there's, like, no hard edges. Everything sort of... almost like waves, like smooth, almost like a drip castle.\n\nSeeker: Like with wet sand.\n\nDM: As you come approach the front facade, um, here now with the sun setting in the west, the temple facing east, the long shadows of the two tall towers that extend maybe 100 feet into the air, um, stretching far across the desert into the distance. The entry way into the temple is an elaborate arch, no doors, that is open. That is open into the—into the interior of the temple, with steps that lead up to this arch way.\n\nDM: And you can see, even as you approach, that, um, this temple seems to be carved with engravings, with like little panels of scenes outlining the—the history of Bhishma or a... Seeker and Kenzo heard or experienced in the initiation ritual of Bhishma leading the Dunmari from the east and south, crossing the wide river; the death and famine as ash and dust and plague flew north from the wastelands of Drankor; and then Jeevali's miracle and Bhishma's sacrifice to revive Jeevali. And this is all sort of outline—outlined in, in these little carved scenes as you approach the entrance."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0029",
+              "endUid": "u0053",
+              "quote": "DM: Heading over to the temple. So it's about maybe half an hour until sunset, um, maybe—maybe more like 40 minutes. And it takes you maybe five or 10 minutes to approach and start to look around the temple, so.\n\nDM: The temple of Bhishma here is made of red sandstone, which in this evening sunset light is glowing almost as if it's lit from within. It's in a style of where there's, like, no hard edges. Everything sort of... almost like waves, like smooth, almost like a drip castle.\n\nSeeker: Like with wet sand.\n\nDM: As you come approach the front facade, um, here now with the sun setting in the west, the temple facing east, the long shadows of the two tall towers that extend maybe 100 feet into the air, um, stretching far across the desert into the distance. The entry way into the temple is an elaborate arch, no doors, that is open. That is open into the—into the interior of the temple, with steps that lead up to this arch way.\n\nDM: And you can see, even as you approach, that, um, this temple seems to be carved with engravings, with like little panels of scenes outlining the—the history of Bhishma or a... Seeker and Kenzo heard or experienced in the initiation ritual of Bhishma leading the Dunmari from the east and south, crossing the wide river; the death and famine as ash and dust and plague flew north from the wastelands of Drankor; and then Jeevali's miracle and Bhishma's sacrifice to revive Jeevali. And this is all sort of outline—outlined in, in these little carved scenes as you approach the entrance."
+            },
+            {
+              "startUid": "u0012",
+              "endUid": "u0020",
+              "quote": "DM: While exploring the monastery, you also discovered the still-divine passageway to the initiation rituals of the Bhishma Mystai, which Kenzo and Seeker followed. Well, at the end Seeker turned away. Kenzo committed to becoming a Mystai and learning that Shakun, the daughter of Bhishma and Laka, was present with her parents, as always, in the realm of Arkash, the spiritual plane of the Five Siblings. But she could not reach the world, cannot reach Karawa, could not reach her temple there to power the mystical protections of Dunmar, because their heart, a red ochre stone imbued with her divine essence, was missing.\n\nDM: Turning from the initiation halls to explore the hall of stories, you learn some of the history of the Bhishma Mystai, the conflicts and decisions leading up to the fateful attempt to close a portal, heal the land, cure evil somehow. And the involvement of Rai, initially connected to the Mystai through Drankor, possibly the portal to another plane there."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Entry chapel of the Five Siblings",
+      "kind": "chapel",
+      "evidence": [
+        {
+          "startUid": "u0221",
+          "endUid": "u0237",
+          "quote": "DM: So, as you—as you head on, you can see the sort of entry chapel is—it looks like it was originally arranged as kind of a sort of preamble, a place dedicated to the Five Siblings before the main temple of Bhishma. There are altars to each of the Five Siblings placed around the room. There are mosaics depicting, again, scenes from Dunmari history, but they've been heavily looted, and most of the tiles have been pried out, so it's hard to tell what anything is actually supposed to be depicting.\n\nDM: So, as you enter into this room, which is maybe—maybe 30 feet by 30 feet, ahead of you, you see again two arches, some light coming through those, but otherwise this room only lit with, with the light of your drift globes. To the left and right there are doors, and then slightly further north, close to the archways ahead of you, archways again leading left and right. I mean, as you come and start to pace around this room, ah, you see—you again, nothing magic and and no sense that the altars are still consecrated."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0221",
+              "endUid": "u0237",
+              "quote": "DM: So, as you—as you head on, you can see the sort of entry chapel is—it looks like it was originally arranged as kind of a sort of preamble, a place dedicated to the Five Siblings before the main temple of Bhishma. There are altars to each of the Five Siblings placed around the room. There are mosaics depicting, again, scenes from Dunmari history, but they've been heavily looted, and most of the tiles have been pried out, so it's hard to tell what anything is actually supposed to be depicting.\n\nDM: So, as you enter into this room, which is maybe—maybe 30 feet by 30 feet, ahead of you, you see again two arches, some light coming through those, but otherwise this room only lit with, with the light of your drift globes. To the left and right there are doors, and then slightly further north, close to the archways ahead of you, archways again leading left and right. I mean, as you come and start to pace around this room, ah, you see—you again, nothing magic and and no sense that the altars are still consecrated."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Main temple chamber",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u0326",
+          "endUid": "u0336",
+          "quote": "DM: Okay, so you walk forward into what is, as you enter—so you pass through these two arches and you enter what is clearly the—the sort of main temple to Bhishma. It's a big open space. There's high walls which are—which have, on the upper levels, they have a bunch of sort of open archways that let light in sort of like whether there once were stained-glass windows in them that have now been destroyed, or whether—they probably once had like stained glass or something, or just glass panels or something. But now they're just open, large windows that arched windows that let the sun in and one in the far wall seems to be positioned to just like a series in a in a pattern in the far wall that seemed to be positioned to catch the sunset over the—as the sun moves over the course of the seasons. And lights shining now, as the sun is coming close to the horizon, setting in maybe 15 or 20 minutes. Light is shining streaming through that opening and illuminating, um, in the center of this big space, a large statue of Bhishma."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0326",
+              "endUid": "u0336",
+              "quote": "DM: Okay, so you walk forward into what is, as you enter—so you pass through these two arches and you enter what is clearly the—the sort of main temple to Bhishma. It's a big open space. There's high walls which are—which have, on the upper levels, they have a bunch of sort of open archways that let light in sort of like whether there once were stained-glass windows in them that have now been destroyed, or whether—they probably once had like stained glass or something, or just glass panels or something. But now they're just open, large windows that arched windows that let the sun in and one in the far wall seems to be positioned to just like a series in a in a pattern in the far wall that seemed to be positioned to catch the sunset over the—as the sun moves over the course of the seasons. And lights shining now, as the sun is coming close to the horizon, setting in maybe 15 or 20 minutes. Light is shining streaming through that opening and illuminating, um, in the center of this big space, a large statue of Bhishma."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Dark corridor beside the main chamber",
+      "kind": "corridor",
+      "evidence": [
+        {
+          "startUid": "u0452",
+          "endUid": "u0475",
+          "quote": "Kenzo: Tim, Kenzo’s gonna sneak over sneakily, very sneakily, because he's so sneaky, to get a closer to where he sensed the undead evil and yeah just see what's over there.\n\nDM: Okay.\n\nDelwath: I would like to have line of sight on the invisible Kenzo, but not actually go very—\n\nDM: Invisible—you can't, you—well...\n\nDelwath: But he's going and he's like going around the corner. I want to be able to see where he's going, but I'm not gonna go very far.\n\nDM: Okay um. So, Kenzo, make a Stealth check.\n\nKenzo: Haha. No, but I'm invisible that all.\n\nDM: Right, you're invisible, just not super quiet. And make a Perception check.\n\nKenzo: Come on, Perception. Yeah. Not rolling well today.\n\nDM: I mean, remember, you also like died less than four hours ago.\n\nKenzo: That's true.\n\nSeeker: All in a day's work for Kenzo.\n\nDM: So you come around the corner, and and you're in a you're in a long hallway. Are you, though—what are you doing for light?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0452",
+              "endUid": "u0475",
+              "quote": "Kenzo: Tim, Kenzo’s gonna sneak over sneakily, very sneakily, because he's so sneaky, to get a closer to where he sensed the undead evil and yeah just see what's over there.\n\nDM: Okay.\n\nDelwath: I would like to have line of sight on the invisible Kenzo, but not actually go very—\n\nDM: Invisible—you can't, you—well...\n\nDelwath: But he's going and he's like going around the corner. I want to be able to see where he's going, but I'm not gonna go very far.\n\nDM: Okay um. So, Kenzo, make a Stealth check.\n\nKenzo: Haha. No, but I'm invisible that all.\n\nDM: Right, you're invisible, just not super quiet. And make a Perception check.\n\nKenzo: Come on, Perception. Yeah. Not rolling well today.\n\nDM: I mean, remember, you also like died less than four hours ago.\n\nKenzo: That's true.\n\nSeeker: All in a day's work for Kenzo.\n\nDM: So you come around the corner, and and you're in a you're in a long hallway. Are you, though—what are you doing for light?"
+            },
+            {
+              "startUid": "u0326",
+              "endUid": "u0336",
+              "quote": "DM: Okay, so you walk forward into what is, as you enter—so you pass through these two arches and you enter what is clearly the—the sort of main temple to Bhishma. It's a big open space. There's high walls which are—which have, on the upper levels, they have a bunch of sort of open archways that let light in sort of like whether there once were stained-glass windows in them that have now been destroyed, or whether—they probably once had like stained glass or something, or just glass panels or something. But now they're just open, large windows that arched windows that let the sun in and one in the far wall seems to be positioned to just like a series in a in a pattern in the far wall that seemed to be positioned to catch the sunset over the—as the sun moves over the course of the seasons. And lights shining now, as the sun is coming close to the horizon, setting in maybe 15 or 20 minutes. Light is shining streaming through that opening and illuminating, um, in the center of this big space, a large statue of Bhishma."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Camp south of the monastery",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0953",
+          "endUid": "u0958",
+          "quote": "DM: Ah, so there's a hill. What's just south of this map is there's like cliffs along the—along the sort of southern edge of the monastery here, and the river turns to the—turns to the east. On this map north is up, so the river swings to the east, and you are camped—I mean, there's no water in the river—the dry riverbed swings to the east. You’re camped, like, across the river and below the cliffs from the monastery. But does not—but this is all kind of river floodplains up here. It's pretty much flat terrain extending for you know, 5–10 miles to the east. There's not a lot of cover unless you unless you cross the river and go on the cliff side, then there's a lot of cover."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "south_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0953",
+              "endUid": "u0958",
+              "quote": "DM: Ah, so there's a hill. What's just south of this map is there's like cliffs along the—along the sort of southern edge of the monastery here, and the river turns to the—turns to the east. On this map north is up, so the river swings to the east, and you are camped—I mean, there's no water in the river—the dry riverbed swings to the east. You’re camped, like, across the river and below the cliffs from the monastery. But does not—but this is all kind of river floodplains up here. It's pretty much flat terrain extending for you know, 5–10 miles to the east. There's not a lot of cover unless you unless you cross the river and go on the cliff side, then there's a lot of cover."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Bathhouse",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0767",
+          "endUid": "u0778",
+          "quote": "DM: So in the twilight of... the... still... the western horizon still with that sort of afterglow of the sunset, the reds and oranges across the sky lighting your path past the manticores and dead orcs and back down to the river, and then past the bathhouse where the orc survivor is locked, to the dry riverbed, and then turning south to come back to your camp. You find your camp, thankfully, undisturbed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0767",
+              "endUid": "u0778",
+              "quote": "DM: So in the twilight of... the... still... the western horizon still with that sort of afterglow of the sunset, the reds and oranges across the sky lighting your path past the manticores and dead orcs and back down to the river, and then past the bathhouse where the orc survivor is locked, to the dry riverbed, and then turning south to come back to your camp. You find your camp, thankfully, undisturbed."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Kharsan",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u0938",
+          "endUid": "u0958",
+          "quote": "DM: Right, so the first question is, how do you want to approach Kharsan? You have—you have the monastery. That's where we were, right? You're—you're about a mile south of the monastery, just off the edge of this map.\n\nKenzo: Very good.\n\nSeeker: Yeah, that's where we were yesterday, that's where we are now, but so the oh yeah the... Oh, I see. No, we're camp like, on the other side of the river, or no?\n\nDM: You're camped—your camp. Yeah, like [garbled], dry, like a mile south to the monastery, your...\n\nSeeker: Map, those giant—\n\nDelwath: Pyramid thing.\n\nSeeker: Pyramid things with statues, yeah. Forgot about that. So they’re crazy.\n\nWellby: Am I remembering right, conceivably, that if we circle to the east, there’s like a hill between us and the orc fort, or some way to get to Kharsan without a direct line of sight to the orcs?\n\nDM: Ah, so there's a hill. What's just south of this map is there's like cliffs along the—along the sort of southern edge of the monastery here, and the river turns to the—turns to the east. On this map north is up, so the river swings to the east, and you are camped—I mean, there's no water in the river—the dry riverbed swings to the east. You’re camped, like, across the river and below the cliffs from the monastery. But does not—but this is all kind of river floodplains up here. It's pretty much flat terrain extending for you know, 5–10 miles to the east. There's not a lot of cover unless you unless you cross the river and go on the cliff side, then there's a lot of cover."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Kharsan.md"
+    },
+    "p10": {
+      "label": "Orc fort",
+      "kind": "fort",
+      "evidence": [
+        {
+          "startUid": "u1187",
+          "endUid": "u1197",
+          "quote": "DM: Yeah, it's about a thumb. Yeah, make a Perception check. Um, so, I mean, you see a fair—like, especially peering through your spyglass, you see a fair bit of activity at the orc fort. More than when you were scouting as a—as a—as a hawk, but of course that was mid-afternoon—that was like lunchtime 1130 when when people are given the desert heat, everybody's kind of starting to take the rest break. There's—there's several groups of orcs that you can see—presumably or. Even in the spyglass, it's a little bit far to identify types of humanoids, but presumably orcs—moving towards the city.\n\nDM: And there are several moving, so it seems like there's one group that's moving slowly, as if they are tracking or searching um in the direction of the monastery. Come—and then there's another that you can see that's kind of heading that's on the like dry riverbed like right about here. So there's one like here and one like here that seemed to be moving slowly across the desert like groups of of like six, seven orcs like about the size of the band that you fought."
+        }
+      ]
+    },
+    "p11": {
+      "label": "Second desert camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1618",
+          "endUid": "u1647",
+          "quote": "DM: Wellby and and Delwath are fine, but Kenzo and Seeker, the heat, not being used to the heat or the hard riding—this, you know, one—one—an extra hour or so of traveling, getting about another say let's say, five miles north, has just wiped you out. At the moment, you both have one level of exhaustion. You—you can keep pushing if you want, but if you fail another Constitution check, then you will be—you won't be able to recover fully in one night sleep.\n\nDM: At the moment, you're maybe maybe 10 miles south of the—10 miles south of the road and about three miles. Three four miles west of the river.\n\nDelwath: I think we can camp here.\n\nWellby: Cool.\n\nDelwath: Get up early, just before dawn. We should be able to cover 10—I mean, if we can cover five miles an hour, we could be—we break camp at 7 am, we could be at the bridge by eleven easily.\n\nSeeker: We people were not made for hard riding in the desert.\n\nDM: So you set camp, presume presumably quiet, hidden as best you can. And, yes.\n\nDelwath: The main thing is to pay attention to see if the undead orcs marched all through the night and are going to catch up to us, yes.\n\nDM: So, so let's see um. Yeah, why doesn’t everybody give me just—let’s see— Delwath, Seeker, and Wellby, roll Perception checks.\n\nKenzo: Nice.\n\nDM: Seeker is very tired. Yep, um, given your exhaustion you've you've... Delwath, you hear nothing or see nothing during your watch but the desert animals, um. You know, as the sun—you've ridden past sunset into twilight. By the time, you know, everybody's asleep and you're watching, it's—it started to get quiet, but you hear the occasional like hoot of an owl, see a small desert mouse scurrying across the camp."
+        }
+      ]
+    },
+    "p12": {
+      "label": "Dunmari road",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u1681",
+          "endUid": "u1695",
+          "quote": "DM: So you break camp, pack up your dwindling supply of water, um, head north, um, about 10 miles, takes you—takes you maybe three hours, again moving moving quickly. So by, you know, by nine 930, um, as the sun is now fully up in the sky, the desert is starting to get hot. From the—you know, the heat beginning to radiate from the ground as as it everything warms up. You've reached the road, maybe a little bit west of here.\n\nDM: And this, this is the old—no, this is not the, this is not the like old trade road, that Drankorian trade road that runs east-west north of here. This is a, this is a Dunmari road and not—at the moment not... You know, this—this point in time, you know nope no paving stones, nothing, just a sort of flat place in the desert that's been cleared of debris and that cuts through these sort of rocky terrain in a straight path east. So are you you're following the road east to about here?"
+        }
+      ]
+    },
+    "p13": {
+      "label": "Cliff shelter west of Kharsan",
+      "kind": "shelter",
+      "evidence": [
+        {
+          "startUid": "u1696",
+          "endUid": "u1714",
+          "quote": "Delwath: Is that your plan, what’s—yeah, basically. Somewhere in the cliffs here we’d like to set up a shelter for the horses, and then we’ll go. Well, I mean, that’s only, that's only a mile, right?\n\nDM: That's 1.5 miles from—yes, I mean, it's like it's like 1.5 1.6 miles along the road to like this point or somewhere, right?\n\nWellby: You can try calling another bird down to do an overflight again.\n\nDM: Yeah, sure. The—so when you get here, while, um, Seeker is a—Seeker is beginning to construct his—his horsebox, um. It's now—yeah, it's like about 930 10 at this point, and so you know the thermals are going. The hawks who eat snakes and lizards are are definitely up in the sky. So make an Animal Handling check. Yeah, so you you're certainly able to again use your strategy that you've used in the past, lay out some food and you know, in this case particularly if you can snag a lizard or something and and lay it out a little way from the camp. Wait for a hawk to to approach and then just offer it, get it to come into your hand with some food. It sort of looks at you and seems to be willing for your—for your Beast Sense. So as it wolfs down the lizard, you slide into its mind."
+        }
+      ]
+    },
+    "p14": {
+      "label": "Stone bridge over the dry river",
+      "kind": "bridge",
+      "evidence": [
+        {
+          "startUid": "u1867",
+          "endUid": "u1910",
+          "quote": "DM: So you're all traveling down this road to a point where—so this this is pretty—\n\nSeeker: Open once you get—yeah, you're just—\n\nDM: Sight. I mean, orcs can see you from there, right? It’s—\n\nDelwath: Can we walk up the cliff here? Like, is there—\n\nDM: Yeah, you can go wherever you want. I'm just saying, tell me where you're going.\n\nSeeker: Oh.\n\nDelwath: That's not quite close enough.\n\nSeeker: Can we—maybe we could just quickly scramble out to this bridge and hide in its shadow.\n\nWellby: Yeah, on the north side of it.\n\nSeeker: Yeah, nice, nice, up here.\n\nDelwath: I mean, two of us could be invisible. I don't know if that helps.\n\nSeeker: And the other two are very short.\n\nDelwath: Who's best at Stealth?\n\nKenzo: Kenzo’s very stealthy.\n\nWellby: Wellby’s pretty stealthy.\n\nDelwath: I mean, the other option is, Seeker, you could be invisible.\n\nSeeker: Let's do that.\n\nDelwath: Delwath and Seeker will be invisible.\n\nKenzo: Amazing. And he’s got a plus-four Stealth.\n\nSeeker: Alright, so we sneak out from the cover of the cliff.\n\nDelwath: And the goal is to end up here. So the goal is to end—\n\nDM: Up—end up where?\n\nDelwath: They're hiding. Hiding basically underneath the bridge, okay.\n\nDM: So you—you creep along the edge of the cliff. Who—so who is invisible, Delwath and—\n\nDelwath: Yeah.\n\nDM: Um, okay, at this distance sound is irrelevant, so pretty much you're automatically stealthy if you're invisible. Orcs are closer, they might be able to hear you.\n\nDelwath: Answered, but—\n\nDM: However, Wellby and Kenzo, I need Stealth checks from you.\n\nKenzo: So stealthy.\n\nDM: So you just dart along the shadows, taking advantage here, the fact that the sun, now higher in the sky but still in the east before noon, is is casting some shadows along the edge, you know, until you get to this final this final like quarter-mile distance, basically, where you just you're sort of creeping low on the ground, just kind of using little rocks or whatever you can find in it until eventually like there's about 100 yards that's just straight open terrain. You've got no choice but to just run and hope nobody sees you."
+        },
+        {
+          "startUid": "u1944",
+          "endUid": "u1948",
+          "quote": "DM: And you are now all sort of crouched in the in the shadow of this bridge. So, so as you—as you approach the bridge, you can see that this—this is a stone bridge made of made of hard sandstone. But it's kind of pointless, as the river is just a dry wash. So it's this big bridge spanning nothing. It's early Dunmari construction, not not Drankorian, but solidly built, only crumbling in a few places."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u1944",
+              "endUid": "u1948",
+              "quote": "DM: And you are now all sort of crouched in the in the shadow of this bridge. So, so as you—as you approach the bridge, you can see that this—this is a stone bridge made of made of hard sandstone. But it's kind of pointless, as the river is just a dry wash. So it's this big bridge spanning nothing. It's early Dunmari construction, not not Drankorian, but solidly built, only crumbling in a few places."
+            },
+            {
+              "startUid": "u2389",
+              "endUid": "u2391",
+              "quote": "DM: War, because the because the plague front went as far as the—as you know, about 10–15 miles west of the Kharja River, of this river. And so anybody who didn’t flee presumably died in the plague, right? So it was abandoned when it was written out when it was—at that point, it was not ruined, ruined. Sure. Nobody really knows when it was, exactly right, right, okay."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1987",
+              "endUid": "u1996",
+              "quote": "Delwath: I'm tempted to use the time that Seeker is clairvoyancing, since invisibility only last for 50 more minutes, to go—\n\nSeeker: To just roll in—\n\nUnknown: Here.\n\nDM: Sorry, go where? I was on a different screen. Okay.\n\nDelwath: And just investigate. I mean, it's only a half mile.\n\nUnknown: Yep.\n\nDelwath: And probably pretty—so what say that's 15 minutes, so I should have I mean there and back, say. So that's half an hour to explore inside. Yep, I just want to poke around this north ruins and see if there's any thing."
+            },
+            {
+              "startUid": "u2328",
+              "endUid": "u2342",
+              "quote": "DM: Yeah, while this is going on, um, Delwath, you are scouting through the, yeah the sort of northern part of the—of the—okay, so. You sort of scout quietly towards the edge of the city and on the—on this northern side of the town of the city, the wall is just in most places just completely flattened like it's been—you know, whether it's been just taken over the years for stone, or—I mean, some places it looks like it's been smashed like by a large boulder or giant-sized club. The—you know, that gate here that you enter through is mostly destroyed, just part of one tower still stands.\n\nDM: And this this part the sort of northern ruin side of the—of the town seems to be in the worst shape of any of any of the of the—this is from from from Wellby’s bird scouting and so as you enter, you can see, um, you know, like, you know, there's there's like a road basically running from the from the gate. And as you continue down and and you're passing through a part of town it's but it's it's hard to tell what even what this once was, because few of the buildings still have have walls, and almost none have roofs, so you're basically wandering through like foundations occasionally, um, you know, occasionally you'll see something with a partial roof intact and you know a few things that might be warehouses or, you know, maybe a bakery or or homes. But it's difficult to to tell much of the city here, as this—as this area has has suffered the seemingly the most damage, um. Is there anything in particular you're looking for? Like, what's your goal with this scouting mission?"
+            }
+          ],
+          "note": "The city scouting starts from the bridge; this does not place the bridge inside the city."
+        }
+      ]
+    },
+    "p15": {
+      "label": "Kharja River",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u2389",
+          "endUid": "u2391",
+          "quote": "DM: War, because the because the plague front went as far as the—as you know, about 10–15 miles west of the Kharja River, of this river. And so anybody who didn’t flee presumably died in the plague, right? So it was abandoned when it was written out when it was—at that point, it was not ruined, ruined. Sure. Nobody really knows when it was, exactly right, right, okay."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Kharja.md"
+    },
+    "p16": {
+      "label": "Palace",
+      "kind": "palace",
+      "evidence": [
+        {
+          "startUid": "u1719",
+          "endUid": "u1769",
+          "quote": "DM: Um, nothing to the west. The road is is quiet. There doesn't seem to be anything, you know, to the west of here are sort of moving on the cliffs or anything like that. As you approach sort of fly over you know soaring over the orc fort and then doing the loop around Kharsan, there's definitely more—is definitely activity around the orc fort. You can see that there now there are there seemed to be guards posted here and here at this southern gate that weren't there before. And you see a few sort of patrols that are doing a sort of a route. Not too many, there's maybe three of them that you spot that are doing sort of circuits around the city. There's still the activity of of moving back and forth here. There are also—\n\nSeeker: Where was that?\n\nDM: Where were the—sorry, moving back and forth between the the you know carrying stone and stuff that—construction on the fort hasn't stopped, so there's still orcs moving back and forth, but there's more activity in the city than you'd seen before, and there seems to be patrols that are like you know moving around here and, like a regular interval. The city itself is is you know, it's like a little over a mile in—in diameter, and so if there's like three patrols moving and kind of regular circuit around the ruins, um, just sort of seeming to keep an eye out for anything, um. There are you see.\n\nDM: It seems like, you know, you can see in the distance there's a there seems to be a patrol sort of moving south this way, and another one coming north, which you can see just in the distance that the plume of dust. There seems to be two groups like converging just south of that just just west of the monastery, one going south, one going north. And there are clearly more guards stationed on the orc fort than there had been before. And the other thing you notice is the palace itself seems to be completely in shadow. Like, it's a sunny day, but the palace is—like you can't really see anything into the palace, because as you fly over it, it's like passing through a dark storm cloud, and everything's kind of hazy below, and the hawk hates it and basically won't go lower.\n\nDelwath: Overfly the palace. How big are the orc patrols?\n\nDM: Each one is typically six orcs.\n\nUnknown: Better double checked with us correct.\n\nDM: Yeah there they range between five and eight orcs, but most of them average six.\n\nDelwath: And how long does it take to go around the circuit? I mean, what's the—\n\nDM: So they’re spaced—maybe about every 30 minutes, one will pass a particular point.\n\nWellby: Sort of make a note of that rhythm to figure out our time.\n\nDM: Anything else you want to look for in particular?\n\nWellby: Other patrols or other orcs moving inside the city, besides that areas they touched before.\n\nDM: So there's the patrols moving around. There's still the construction activity that's happening in this part of the city. There doesn't seem to be any other orcs moving. Of course, with the palace in shadow, it's hard to say what's happening in the palace.\n\nWellby: Is there any sense we can get of how big the barracks are, like can we make any kind of a guesstimate of size?\n\nDM: How big the orc fort—\n\nWellby: Is, yeah.\n\nDM: Um. Ah, yeah, so make—make it just straight Intelligence check. It's probably like, you know, hundred to 200 orcs could sort of fit in that fort. The—sort of add up everything you've seen around, you know. There's probably usually, you know, 50 or so orcs out in various ways that you can kind of see outside the fort, between the work patrols to work crews, the construction crews, the—that—and then the patrols is maybe another 20, and there's some sort of movement around the for the, for you know in this sort of open area, it's—it's hard to say exactly, but you'd guess like hundred—hundred to 250 somewhere like that. It's not 1000 and it's not 20.\n\nWellby: Well.\n\nDM: It's not like [garbled], but it's you know, in the low hundreds, you would guess.\n\nWellby: I'll update my map of the city and notes, and like confirm that the previous sketch one works so yeah. And otherwise, I'll relay the info."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1719",
+              "endUid": "u1769",
+              "quote": "DM: Um, nothing to the west. The road is is quiet. There doesn't seem to be anything, you know, to the west of here are sort of moving on the cliffs or anything like that. As you approach sort of fly over you know soaring over the orc fort and then doing the loop around Kharsan, there's definitely more—is definitely activity around the orc fort. You can see that there now there are there seemed to be guards posted here and here at this southern gate that weren't there before. And you see a few sort of patrols that are doing a sort of a route. Not too many, there's maybe three of them that you spot that are doing sort of circuits around the city. There's still the activity of of moving back and forth here. There are also—\n\nSeeker: Where was that?\n\nDM: Where were the—sorry, moving back and forth between the the you know carrying stone and stuff that—construction on the fort hasn't stopped, so there's still orcs moving back and forth, but there's more activity in the city than you'd seen before, and there seems to be patrols that are like you know moving around here and, like a regular interval. The city itself is is you know, it's like a little over a mile in—in diameter, and so if there's like three patrols moving and kind of regular circuit around the ruins, um, just sort of seeming to keep an eye out for anything, um. There are you see.\n\nDM: It seems like, you know, you can see in the distance there's a there seems to be a patrol sort of moving south this way, and another one coming north, which you can see just in the distance that the plume of dust. There seems to be two groups like converging just south of that just just west of the monastery, one going south, one going north. And there are clearly more guards stationed on the orc fort than there had been before. And the other thing you notice is the palace itself seems to be completely in shadow. Like, it's a sunny day, but the palace is—like you can't really see anything into the palace, because as you fly over it, it's like passing through a dark storm cloud, and everything's kind of hazy below, and the hawk hates it and basically won't go lower.\n\nDelwath: Overfly the palace. How big are the orc patrols?\n\nDM: Each one is typically six orcs.\n\nUnknown: Better double checked with us correct.\n\nDM: Yeah there they range between five and eight orcs, but most of them average six.\n\nDelwath: And how long does it take to go around the circuit? I mean, what's the—\n\nDM: So they’re spaced—maybe about every 30 minutes, one will pass a particular point.\n\nWellby: Sort of make a note of that rhythm to figure out our time.\n\nDM: Anything else you want to look for in particular?\n\nWellby: Other patrols or other orcs moving inside the city, besides that areas they touched before.\n\nDM: So there's the patrols moving around. There's still the construction activity that's happening in this part of the city. There doesn't seem to be any other orcs moving. Of course, with the palace in shadow, it's hard to say what's happening in the palace.\n\nWellby: Is there any sense we can get of how big the barracks are, like can we make any kind of a guesstimate of size?\n\nDM: How big the orc fort—\n\nWellby: Is, yeah.\n\nDM: Um. Ah, yeah, so make—make it just straight Intelligence check. It's probably like, you know, hundred to 200 orcs could sort of fit in that fort. The—sort of add up everything you've seen around, you know. There's probably usually, you know, 50 or so orcs out in various ways that you can kind of see outside the fort, between the work patrols to work crews, the construction crews, the—that—and then the patrols is maybe another 20, and there's some sort of movement around the for the, for you know in this sort of open area, it's—it's hard to say exactly, but you'd guess like hundred—hundred to 250 somewhere like that. It's not 1000 and it's not 20.\n\nWellby: Well.\n\nDM: It's not like [garbled], but it's you know, in the low hundreds, you would guess.\n\nWellby: I'll update my map of the city and notes, and like confirm that the previous sketch one works so yeah. And otherwise, I'll relay the info."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Palace throne room",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u1999",
+          "endUid": "u2030",
+          "quote": "DM: So as the sensor appears, you see—you—your sensor appears in a large room, mostly dark, lit only by torches that line the wall, casting flickering shadows, you know, across the room. The—the windows have been bricked up and the—and the second story and third story of this building have been knocked out, so there's this one room that goes up maybe 35–40 feet tall. All the window is covered in stone, so it's completely dark. There's no light that gets in.\n\nDM: The... On the ground, you see this looks like it was once a—an audience chamber, throne room type of deal. There is a—there is, like a dais at the far, dais at the far end that's raised up a few steps. There's debris as if, like old furniture has been cast aside. And there is just a plain—like dark black metal, possibly metal from a distance it's hard—from, you know, from this perspective it’s hard to say. Just a simple black chair sitting on this raised platform, and seated in the, middle metal chair—the—a skeletal creature, maybe seven foot tall, um, wearing chainmail armor. Resting against the—against the back of the throne is a wicked-looking glaive with a blade that sort of etched in, with like—like, it almost looks like it's been sort of [garbled], so it's got this jagged, jagged edge. This skeletal creature is sitting in this throne, looking intently at two orcs that are kneeling on the ground, like bow down entirely on the, throne—on the ground, and in front of this this chair, um, and he seems to be saying something quietly to them."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1999",
+              "endUid": "u2030",
+              "quote": "DM: So as the sensor appears, you see—you—your sensor appears in a large room, mostly dark, lit only by torches that line the wall, casting flickering shadows, you know, across the room. The—the windows have been bricked up and the—and the second story and third story of this building have been knocked out, so there's this one room that goes up maybe 35–40 feet tall. All the window is covered in stone, so it's completely dark. There's no light that gets in.\n\nDM: The... On the ground, you see this looks like it was once a—an audience chamber, throne room type of deal. There is a—there is, like a dais at the far, dais at the far end that's raised up a few steps. There's debris as if, like old furniture has been cast aside. And there is just a plain—like dark black metal, possibly metal from a distance it's hard—from, you know, from this perspective it’s hard to say. Just a simple black chair sitting on this raised platform, and seated in the, middle metal chair—the—a skeletal creature, maybe seven foot tall, um, wearing chainmail armor. Resting against the—against the back of the throne is a wicked-looking glaive with a blade that sort of etched in, with like—like, it almost looks like it's been sort of [garbled], so it's got this jagged, jagged edge. This skeletal creature is sitting in this throne, looking intently at two orcs that are kneeling on the ground, like bow down entirely on the, throne—on the ground, and in front of this this chair, um, and he seems to be saying something quietly to them."
+            },
+            {
+              "startUid": "u1964",
+              "endUid": "u1968",
+              "quote": "Seeker: Okay, I'm gonna cast my Clairvoyance. Aiming...\n\nDM: Translating it.\n\nSeeker: Invisible sensor in the center point of the palace structure, aiming for the throne room. Okay, let's see what the center point would be. Oh God."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Northern ruined market",
+      "kind": "market",
+      "evidence": [
+        {
+          "startUid": "u2328",
+          "endUid": "u2342",
+          "quote": "DM: Yeah, while this is going on, um, Delwath, you are scouting through the, yeah the sort of northern part of the—of the—okay, so. You sort of scout quietly towards the edge of the city and on the—on this northern side of the town of the city, the wall is just in most places just completely flattened like it's been—you know, whether it's been just taken over the years for stone, or—I mean, some places it looks like it's been smashed like by a large boulder or giant-sized club. The—you know, that gate here that you enter through is mostly destroyed, just part of one tower still stands.\n\nDM: And this this part the sort of northern ruin side of the—of the town seems to be in the worst shape of any of any of the of the—this is from from from Wellby’s bird scouting and so as you enter, you can see, um, you know, like, you know, there's there's like a road basically running from the from the gate. And as you continue down and and you're passing through a part of town it's but it's it's hard to tell what even what this once was, because few of the buildings still have have walls, and almost none have roofs, so you're basically wandering through like foundations occasionally, um, you know, occasionally you'll see something with a partial roof intact and you know a few things that might be warehouses or, you know, maybe a bakery or or homes. But it's difficult to to tell much of the city here, as this—as this area has has suffered the seemingly the most damage, um. Is there anything in particular you're looking for? Like, what's your goal with this scouting mission?"
+        },
+        {
+          "startUid": "u2377",
+          "endUid": "u2383",
+          "quote": "DM: As you—as you start a search for some landmark or something, what you do come across a little ways down this main road is the remains of a of a big open marketplace. Probably, given its its position in the city, um, this would have been like the river market, like goods coming back and forth on the river would have been you know brought into town, and this is where a lot of trade happened. It's it's not nearly as big as this east market that that um, that Wellby saw from the air, but there's a small market like right about here, and you can see, you know facing on that market, there's definitely there's a couple like shops and warehouses um that seem a little bit more intact, as well as, just off the market, what was probably a bath house or something like that, given the way that the interior construction is. The roof is no longer no longer there."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2328",
+              "endUid": "u2342",
+              "quote": "DM: Yeah, while this is going on, um, Delwath, you are scouting through the, yeah the sort of northern part of the—of the—okay, so. You sort of scout quietly towards the edge of the city and on the—on this northern side of the town of the city, the wall is just in most places just completely flattened like it's been—you know, whether it's been just taken over the years for stone, or—I mean, some places it looks like it's been smashed like by a large boulder or giant-sized club. The—you know, that gate here that you enter through is mostly destroyed, just part of one tower still stands.\n\nDM: And this this part the sort of northern ruin side of the—of the town seems to be in the worst shape of any of any of the of the—this is from from from Wellby’s bird scouting and so as you enter, you can see, um, you know, like, you know, there's there's like a road basically running from the from the gate. And as you continue down and and you're passing through a part of town it's but it's it's hard to tell what even what this once was, because few of the buildings still have have walls, and almost none have roofs, so you're basically wandering through like foundations occasionally, um, you know, occasionally you'll see something with a partial roof intact and you know a few things that might be warehouses or, you know, maybe a bakery or or homes. But it's difficult to to tell much of the city here, as this—as this area has has suffered the seemingly the most damage, um. Is there anything in particular you're looking for? Like, what's your goal with this scouting mission?"
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Glassblower’s shop",
+      "kind": "shop",
+      "evidence": [
+        {
+          "startUid": "u2393",
+          "endUid": "u2421",
+          "quote": "Delwath: Okay, so I'm going to look for a—I'm going to take like five minutes to search around in one of the shops for like an item, I don't know, like a coin or, or a cracked piece of pottery, or—\n\nDM: Okay, um. Make another Investigation check.\n\nKenzo: Loving—\n\nDM: So let's see, um. So you do—you do find a shop that has a—where the—the walls and part of the roof of the first floor intact, and so this was clearly like... It looks like it was actually a, um... Well it's hard to it's hard to say what kind of shop it was, because it's the interior's mostly mostly been cleared out, but it's presumably a place where you know somebody has shop on the first floor, and then some artisan lived on the on the second floor and the second floor is gone, and the roof is kind of collapsed, but enough shelter that, you know, you can find.\n\nDM: You can still find some some sort of small small sort of trinkets in the, you know, in the cracks. And, and what you find is, like the parts of a of.\n\nUnknown: Sorry hold on one sec.\n\nDM: So, so this was this was probably a, um a glass blower's shop, and you find, just like three or four kind of shattered glass ornaments and one that seems still intact, um, sort of like you know, it's like—they’re like the tops of hurricane lamps that you put over candles, um, blown out of glass. And there’s some some like rusty glass blowing tools as well."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u2393",
+              "endUid": "u2421",
+              "quote": "Delwath: Okay, so I'm going to look for a—I'm going to take like five minutes to search around in one of the shops for like an item, I don't know, like a coin or, or a cracked piece of pottery, or—\n\nDM: Okay, um. Make another Investigation check.\n\nKenzo: Loving—\n\nDM: So let's see, um. So you do—you do find a shop that has a—where the—the walls and part of the roof of the first floor intact, and so this was clearly like... It looks like it was actually a, um... Well it's hard to it's hard to say what kind of shop it was, because it's the interior's mostly mostly been cleared out, but it's presumably a place where you know somebody has shop on the first floor, and then some artisan lived on the on the second floor and the second floor is gone, and the roof is kind of collapsed, but enough shelter that, you know, you can find.\n\nDM: You can still find some some sort of small small sort of trinkets in the, you know, in the cracks. And, and what you find is, like the parts of a of.\n\nUnknown: Sorry hold on one sec.\n\nDM: So, so this was this was probably a, um a glass blower's shop, and you find, just like three or four kind of shattered glass ornaments and one that seems still intact, um, sort of like you know, it's like—they’re like the tops of hurricane lamps that you put over candles, um, blown out of glass. And there’s some some like rusty glass blowing tools as well."
+            },
+            {
+              "startUid": "u2377",
+              "endUid": "u2383",
+              "quote": "DM: As you—as you start a search for some landmark or something, what you do come across a little ways down this main road is the remains of a of a big open marketplace. Probably, given its its position in the city, um, this would have been like the river market, like goods coming back and forth on the river would have been you know brought into town, and this is where a lot of trade happened. It's it's not nearly as big as this east market that that um, that Wellby saw from the air, but there's a small market like right about here, and you can see, you know facing on that market, there's definitely there's a couple like shops and warehouses um that seem a little bit more intact, as well as, just off the market, what was probably a bath house or something like that, given the way that the interior construction is. The roof is no longer no longer there."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0024"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Play resumes at the Hall of Stories tower.",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0024",
+          "quote": "DM: Now, as you leave the tower and the hall of stories, the sun is low on the horizon, casting the sandstone buildings of the monastery in a beautiful reddish golden light. As dusk approaches and the sounds of birds in the distance grows, the desert feels alive.\n\nDM: The sun low in the sky, the overbearing heat of the day has passed. The beauty and tranquility of the monastery in this evening light is broken only by the scattered dead bodies of the orcs and manticores and the feeling of madness that grows, lurking in the long shadows of the buildings."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0083"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Approach the temple and stop on its steps for Delwath’s warning.",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0083",
+          "quote": "DM: Heading over to the temple. So it's about maybe half an hour until sunset, um, maybe—maybe more like 40 minutes. And it takes you maybe five or 10 minutes to approach and start to look around the temple, so.\n\nDM: The temple of Bhishma here is made of red sandstone, which in this evening sunset light is glowing almost as if it's lit from within. It's in a style of where there's, like, no hard edges. Everything sort of... almost like waves, like smooth, almost like a drip castle.\n\nSeeker: Like with wet sand.\n\nDM: As you come approach the front facade, um, here now with the sun setting in the west, the temple facing east, the long shadows of the two tall towers that extend maybe 100 feet into the air, um, stretching far across the desert into the distance. The entry way into the temple is an elaborate arch, no doors, that is open. That is open into the—into the interior of the temple, with steps that lead up to this arch way.\n\nDM: And you can see, even as you approach, that, um, this temple seems to be carved with engravings, with like little panels of scenes outlining the—the history of Bhishma or a... Seeker and Kenzo heard or experienced in the initiation ritual of Bhishma leading the Dunmari from the east and south, crossing the wide river; the death and famine as ash and dust and plague flew north from the wastelands of Drankor; and then Jeevali's miracle and Bhishma's sacrifice to revive Jeevali. And this is all sort of outline—outlined in, in these little carved scenes as you approach the entrance.\n\nDM: So, heading into the temple. Again, the shadows stretching...\n\nUnknown: Your message, Mike.\n\nDM: You head into the into the foyer.\n\nDelwath: Um. Hold on, I'm gonna—I'm gonna hold up my hand as we—as we're walking up the steps to the temple, like motioning people to stop.\n\nSeeker: It takes Seeker a second to notice because he's like beginning to reach out to put his hand to the sandstone to investigate its textures, but he turns.\n\nDelwath: Delwath is looking kind of carefully at the... basically, the shadows. Around the—like the way the way the late afternoon sun is making these long shadows around the steps, right? And he's kind of staring at the shadows.\n\nDelwath: And he says, ‘There’s a warning written here. Some sort of a menace.’\n\nKenzo: How can you tell?\n\nDelwath: I can see a warning written in the shadows. About a menace. A menace, I guess, in the temple.\n\nSeeker: I step back, pulling my hand away from the wall at the temple. Who—who's making this warning?\n\nDelwath: I suspect the creature that has given me its power.\n\nKenzo: Given us power.\n\nDelwath: We should proceed cautiously, is all.\n\nKenzo: Do any—do any of you—does anybody else have anything?\n\nDM: I mean, you see the shadows. There's nothing written in the shadows."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0146",
+        "endUid": "u0150"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Enter the temple foyer and the chapel beyond.",
+      "evidence": [
+        {
+          "startUid": "u0146",
+          "endUid": "u0150",
+          "quote": "DM: Okay. So with these preparations, you enter into the sort of foyer of the temple. So this—as you come up the stairs and go to the arch way you're in like a small kind of entry hall, almost, um. Looking—looking ahead, there's another open arch that seems to lead into some sort of—like... It looks like a small chapel or something like that in front of you, and then to your left and right there are stairs up."
+        },
+        {
+          "startUid": "u0221",
+          "endUid": "u0237",
+          "quote": "DM: So, as you—as you head on, you can see the sort of entry chapel is—it looks like it was originally arranged as kind of a sort of preamble, a place dedicated to the Five Siblings before the main temple of Bhishma. There are altars to each of the Five Siblings placed around the room. There are mosaics depicting, again, scenes from Dunmari history, but they've been heavily looted, and most of the tiles have been pried out, so it's hard to tell what anything is actually supposed to be depicting.\n\nDM: So, as you enter into this room, which is maybe—maybe 30 feet by 30 feet, ahead of you, you see again two arches, some light coming through those, but otherwise this room only lit with, with the light of your drift globes. To the left and right there are doors, and then slightly further north, close to the archways ahead of you, archways again leading left and right. I mean, as you come and start to pace around this room, ah, you see—you again, nothing magic and and no sense that the altars are still consecrated."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0326",
+        "endUid": "u0336"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Reach the main temple chamber.",
+      "evidence": [
+        {
+          "startUid": "u0326",
+          "endUid": "u0336",
+          "quote": "DM: Okay, so you walk forward into what is, as you enter—so you pass through these two arches and you enter what is clearly the—the sort of main temple to Bhishma. It's a big open space. There's high walls which are—which have, on the upper levels, they have a bunch of sort of open archways that let light in sort of like whether there once were stained-glass windows in them that have now been destroyed, or whether—they probably once had like stained glass or something, or just glass panels or something. But now they're just open, large windows that arched windows that let the sun in and one in the far wall seems to be positioned to just like a series in a in a pattern in the far wall that seemed to be positioned to catch the sunset over the—as the sun moves over the course of the seasons. And lights shining now, as the sun is coming close to the horizon, setting in maybe 15 or 20 minutes. Light is shining streaming through that opening and illuminating, um, in the center of this big space, a large statue of Bhishma."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0447",
+        "endUid": "u0448"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby posts at the entry chapel to watch both entrances.",
+      "evidence": [
+        {
+          "startUid": "u0447",
+          "endUid": "u0448",
+          "quote": "Wellby: Can I put myself in that entry chapel so that I can see where they are in the main room, but also see the door? Yep, I think I'm gonna post myself."
+        }
+      ],
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0452",
+        "endUid": "u0558"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Invisible Kenzo explores the dark corridor.",
+      "evidence": [
+        {
+          "startUid": "u0452",
+          "endUid": "u0558",
+          "quote": "Kenzo: Tim, Kenzo’s gonna sneak over sneakily, very sneakily, because he's so sneaky, to get a closer to where he sensed the undead evil and yeah just see what's over there.\n\nDM: Okay.\n\nDelwath: I would like to have line of sight on the invisible Kenzo, but not actually go very—\n\nDM: Invisible—you can't, you—well...\n\nDelwath: But he's going and he's like going around the corner. I want to be able to see where he's going, but I'm not gonna go very far.\n\nDM: Okay um. So, Kenzo, make a Stealth check.\n\nKenzo: Haha. No, but I'm invisible that all.\n\nDM: Right, you're invisible, just not super quiet. And make a Perception check.\n\nKenzo: Come on, Perception. Yeah. Not rolling well today.\n\nDM: I mean, remember, you also like died less than four hours ago.\n\nKenzo: That's true.\n\nSeeker: All in a day's work for Kenzo.\n\nDM: So you come around the corner, and and you're in a you're in a long hallway. Are you, though—what are you doing for light?\n\nKenzo: Is it dark? It’s—\n\nDM: As, though, so those the room you're in is fairly bright with the light and the drift globes. As you come around. As you come through this arch way into this this hallway, there's what you're coming into is, um, there's like some sort of dim light behind you, which actually means make make your—make your Perception check with disadvantage, because it's dim light.\n\nKenzo: So roll again?\n\nUnknown: Yeah.\n\nDelwath: How far down?\n\nDM: And what you see as you can let me sit down. So so you're in you're in what looks like, um, like a hallway that goes left and right, and there's directly ahead of you there's like an alcove where there's still some echo of the light from the main temple. And in that alcove there's there's a statue. Arms and face have been broken off, so you can't see what it is. But to your left and your right, from where you come into this hallway, um, just total darkness until maybe 20–25 feet. What will say north like towards the back end, not towards the front end that you entered in, of the temple. You see again light from the—\n\nUnknown: Um.\n\nDM: Where there's another arch way that leads to the main temple. So you're looking left and right down a corridor. To the left is just pure darkness; to the right there's like a patch of darkness and then a patch of light and then darkness again.\n\nKenzo: And where did I sense the evil?\n\nUnknown: I'm.\n\nDM: Sort of in this like this direction, probably like in the patch of darkness ahead of you like in between, or maybe a little bit further on um.\n\nKenzo: Imagining us.\n\nDelwath: We did. We did—we—was there an archway in front of the the alcove that Kenzo went through? I thought it was to the left.\n\nDM: Yes, to the left. So you're right here. Okay, in the middle of the temple. There is a hallway that runs—\n\nDelwath: Along the side, okay.\n\nDM: The temple. Kenzo was standing right here, looking at this little alcove where there's a broken statue, and there's darkness in the hallway this way and darkness in the hallway this way. And then, like right about here there's another patch of light where there's another arch, so...\n\nDelwath: I'm gonna go up to the entrance so that I can look. Not going to go into the hallway, but I want to be able to look to the left and right.\n\nDM: So, like where Kenzo is, basically. Okay, make a Perception check.\n\nDelwath: I have darkvision. Okay, halfway.\n\nDM: So, so dim light doesn't doesn't affect your perception.\n\nKenzo: That's useful.\n\nDM: So. Um. For a moment, you think you see one of the shadows in the—in that sort of patch of darkness to your right. You—you think, for a second, you see a shadow—like a patch of darker darkness kind of move for for a moment, just out of the corner of your eye. You're not entirely sure.\n\nKenzo: Kenzo... This is this is that to the right there's a lot yeah.\n\nDM: You—you at the moment haven't seen any, Kenzo, but this is to the right, but—\n\nKenzo: But I detected evil to my left, right?\n\nDM: Ah, so yes, so you went into—so again, you went this—\n\nUnknown: Whereas.\n\nDM: You you—you went to the went to the left.\n\nKenzo: And now you're—\n\nDM: You're looking facing the wall, and you're and you're looking, hallway that runs the temple. You're looking to your right.\n\nDelwath: We were—we did detect the evil to the west, basically, right?\n\nKenzo: Can I can.\n\nUnknown: Come.\n\nDelwath: Up is north.\n\nDM: Well, as west—it would be evil to the south.\n\nKenzo: Does—doesn't matter. I head closer to the evil.\n\nSeeker: But you're also doing brave and important things.\n\nDM: So, like you head into the darkness.\n\nKenzo: I mean.\n\nSeeker: It sounds.\n\nKenzo: A little bit—a little bit, to see if I can see like I'm trying to see what the fuck this thing is.\n\nDM: As you begin to... um. So, as you as you head down you turn down the hallway and you, you slowly, um, sort of head into the shadowy area kind of keeping your eyes peeled, moving as quietly as you can—although um with, you know nervousness and tiredness from your recent death, plus the, plus the like you know sand and and other kind of bits of debris on the floor, you're not being particularly quiet, um. Make another Perception check."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0627",
+        "endUid": "u0651"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo retreats from the shadow into the sunlit main chamber.",
+      "evidence": [
+        {
+          "startUid": "u0627",
+          "endUid": "u0651",
+          "quote": "Kenzo: And I back up I backed up and I head back towards the—I mean I mean like walking backwards that's still like locked in on it kind of watching, but now like sneaking back into the main, main chamber where drift globes are.\n\nDM: Okay. Delwath, what are you doing? Still coming in this direction, can hear the sounds that you're making.\n\nDelwath: Um. Could I hide behind the statue?\n\nUnknown: Yeah.\n\nDelwath: I'll go do that. I'm not going to like hide it because I'm invisible, but I would stand, basically, the idea is to stand somewhere so it's not gonna—so if it goes out into the main hall it won't walk—it won't, like, accidentally bump into me.\n\nDM: Okay.\n\nDelwath: And you're back—\n\nDM: [garbled].\n\nDelwath: [garbled] keep an eye on it.\n\nKenzo: I wanna—I'm still invisible, but I want to stand into—just, like, move into a place where there's more light, okay? I'm watching it, because it has to pass through light—light at some point, once it follows me, right?\n\nDM: Yep okay.\n\nKenzo: So I I just I step back, I step back through like a patch of light towards the center, just to think. Just to see if it will will pass through the light.\n\nDM: And follow it. So you see you watch as it, um... It—the sort of darkness more intense darkness, drifts again up to the... So, the place where the light is spilling out, where it goes actually like sunlight, um, spilling into the corridor. It stops before it reaches the area."
+        }
+      ],
+      "from": "p06",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u0631",
+        "endUid": "u0636"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath conceals himself in the statue alcove in the main chamber.",
+      "evidence": [
+        {
+          "startUid": "u0631",
+          "endUid": "u0636",
+          "quote": "Delwath: Um. Could I hide behind the statue?\n\nUnknown: Yeah.\n\nDelwath: I'll go do that. I'm not going to like hide it because I'm invisible, but I would stand, basically, the idea is to stand somewhere so it's not gonna—so if it goes out into the main hall it won't walk—it won't, like, accidentally bump into me.\n\nDM: Okay."
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0690",
+        "endUid": "u0703"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Rejoin Wellby and Seeker at the entry chapel.",
+      "evidence": [
+        {
+          "startUid": "u0690",
+          "endUid": "u0703",
+          "quote": "Kenzo: All right, Kenzo starts backing away with the drift globe, still invisible, and just kind of backs backs into the main the main room thinks the main temple area and—and wait, so Wellby and Seeker that you guys have your globes as well as well, Wellby has a drift globe.\n\nWellby: I've got mine, but it's not right now. Okay.\n\nUnknown: Okay.\n\nKenzo: Yeah, so yeah, Kenzo steps back over, not sure exactly where Delwath is. But Kenzo invisible, holding the drift globe, so you just seem like like you know Kenzo’s drift globe moving around, and you know that Kenzo’s basically, you know, carrying it. And yeah, Kenzo—so which one is this cluster are you—you guys are together, right, Wellby and Seeker?\n\nSeeker: Yeah, we're together.\n\nKenzo: Okay, yeah. Kenzo comes over to where you both are and whispers quietly, ‘Yeah, why don't we leave?’\n\nSeeker: A little startled. Glad to make it that you made it back.\n\nDelwath: Delwath will follow basically is... As soon as Kenzo is leaving, I’ll sneak on behind him, staying in the basically in the light of the drift globe."
+        }
+      ],
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0711",
+        "endUid": "u0784"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the temple and return to camp, passing the bathhouse and crossing the dry riverbed.",
+      "evidence": [
+        {
+          "startUid": "u0711",
+          "endUid": "u0784",
+          "quote": "Kenzo: So I guess—sweet, we exit the temple. So.\n\nUnknown: Exit a temple.\n\nKenzo: You know, it's getting very close to sunset and... Kenzo: Delwath, did you see what I saw? Did you see the shadow creatures?\n\nDelwath: Three shadows, yes.\n\nKenzo: They didn't look too strong. I think we could have taken them if we could hit them or fight them, which I don't know if we could have. And I was remembering that I almost died—or I did die, actually—a few hours ago, and haven't still had a chance to rest so. Wellby, perhaps your prudence is rubbing off on me in unusual ways. Your sudden prudence.\n\nSeeker: You also got hit by lightning.\n\nKenzo: Yeah I did.\n\nDelwath: Yeah.\n\nDM: You got hit by lightning.\n\nSeeker: May have blocked your memory briefly.\n\nKenzo: It's a traumatic—it's been a day.\n\nSeeker: It's been—it's been quite a day. I recall that, though, the whole reason that we killed that family of manticores was so that they wouldn't go eat our horses after dark.\n\nKenzo: Let's go back to the horses, so—\n\nSeeker: We shouldn't horses yeah.\n\nKenzo: We need a rest.\n\nUnknown: Probably.\n\nDM: [garbled].\n\nUnknown: Seeker.\n\nWellby: You know, you gave even odds on whether Kenzo would survive. Is that—what’s the time period on that? You have to come up with new odds now, or is that, like through midnight, say?\n\nSeeker: Covers an indefinite period. We can reroll it anytime.\n\nWellby: So, take—over a long enough period is pretty definite.\n\nSeeker: Also true.\n\nKenzo: Appreciate you guys. Glad our bonds of fellowship are are strong as they are.\n\nSeeker: We're—we're here for you. We're also practical-minded.\n\nKenzo: Betting on my death, I see.\n\nWellby: If we didn't know you so well and consider you a friend, the odds would have been much higher against.\n\nSeeker: We—to be fair, we didn't place a wager.\n\nDM: You know, if you—if you ever make it to be a 15th level monk, he stops aging.\n\nDM: Oh, really? Oh, Timeless Body.\n\nKenzo: That's... wow.\n\nDM: So you might see is that wager.\n\nKenzo: Are there.\n\nDM: Or no, you can die of old age. You just don't—\n\nSeeker: Don't look it.\n\nDM: You just don't look it. You never get frail or weak. You also don't need food or water.\n\nKenzo: Are there like hundreds-of-years-old monks wandering around?\n\nDM: Possibly.\n\nSeeker: They all just like look 35 here.\n\nDelwath: Right, that's interesting.\n\nKenzo: Um.\n\nWellby: Let's get—\n\nKenzo: Perhaps, perhaps some rest. Some rest and food.\n\nDM: So in the twilight of... the... still... the western horizon still with that sort of afterglow of the sunset, the reds and oranges across the sky lighting your path past the manticores and dead orcs and back down to the river, and then past the bathhouse where the orc survivor is locked, to the dry riverbed, and then turning south to come back to your camp. You find your camp, thankfully, undisturbed.\n\nDM: Baxter is very pleased to see you and rushes up as you approach. And the horses are sort of milling about; your supplies are intact. With it cooling off it's actually a—and now out of the perhaps somewhat spooky temple of shadows, it's actually a fairly pleasant evening as you settle in to your evening meal and rest."
+        }
+      ],
+      "from": "p04",
+      "to": "p07",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Pass the locked bathhouse; no entry.",
+          "place": "p08"
+        },
+        {
+          "reading": "Cross the dry riverbed and turn south."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1141",
+        "endUid": "u1213"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby scouts the monastery during breakfast and returns to camp to report.",
+      "evidence": [
+        {
+          "startUid": "u1141",
+          "endUid": "u1213",
+          "quote": "Wellby: Can I just do like a spiral pattern of checking you know, remembering that Delwath heard the clink of armor, potentially? Curious to see if there's any traces left behind.\n\nDM: How far do you want to go?\n\nWellby: You quarter mile? Or more or less, as everyone thinks is reasonable.\n\nSeeker: While we wash the breakfast dishes.\n\nUnknown: Yeah.\n\nDelwath: It probably couldn't have been—I mean, it could have been, I guess. Sound carry you can carry relatively far in the quiet desert night, right? Like, it could have been—\n\nDM: Could have been a few miles, maybe. Probably not not for as. A mile or two.\n\nWellby: I'll just keep expanding out and up until it's time to—oh.\n\nDM: Okay, um, so, so where the terrain where you are now is on this river bed. About um like a mile north of you, you have the monastery. To the—directly south and west of you, you have these cliffs that rise up. So in your spiraling, are you going to go up the river bed? Are you going to go past the monastery? Are you gonna like try and climb up the cliffs? What's your sort of path here?\n\nWellby: Delwath, do you know what direction you think you heard from?\n\nDelwath: Good question.\n\nDM: Um, like north north east.\n\nWellby: Then that's the sort of quadrant that I'll—okay.\n\nDM: So that'll take you up the river bed. Do you want to cut through the monastery, or do you want to just stick to the river and come back?\n\nWellby: I want to cut through the monastery, because I also want an excuse to look into the bathhouse and see what's going on with our friend.\n\nDM: Okay, make a perception check.\n\nWellby: Oh.\n\nDM: So you set out in the early morning desert light, um. You don't really find much along the river bed. Takes you maybe 20 minutes of searching to get up to where the monastery is, and you start to head up the up the path from the river to the monastery itself and the first thing you immediately notice as you approach the—the sort of bathhouse area is the bodies of the manticores are lying there, but the orcs are gone. There's no orc bodies.\n\nWellby: There are drag marks, footprints, bloodstains?\n\nDM: Make an Investigation check—or sorry, Survival. So it's a bit tricky to sort out, because of course there's lots of footprints from you and the orcs fighting, um. There's definitely no drag marks. The bodies are not dragged off somewhere, um. If they disintegrated—I mean, there's no armor left, there's no gear, um. There's not, like—I mean, there are some bloodstains where the bodies lay, and you can see where they lay, but it's hard to sort out the like footprint dynamics.\n\nDM: And there's no sound at all coming from the bathhouse itself. Empty. Locked? That bar? No, the bar has been removed, like you had a wooden bar on the outside that was there and that's been removed and cast aside on the ground.\n\nWellby: I will stop my search and move with all deliberate speed back to camp. Hey guys, we’re fun. Do you remember all the orcs that we killed yesterday? Yeah, none of them are there anymore. And someone took the bar off the bathhouse from the outside, and there's no orc inside the bathhouse either.\n\nKenzo: They took the bodies?\n\nWellby: And in fact, actually, wait, Tim, kind of retcon, because I feel it the same thing. Standing up at the level of the temple, I'm going to look north. Is there anyone moving between here and the city?\n\nDM: So. So let's see, how far is that um.\n\nWellby: Spyglass, too.\n\nDM: Yeah, it's about a thumb. Yeah, make a Perception check. Um, so, I mean, you see a fair—like, especially peering through your spyglass, you see a fair bit of activity at the orc fort. More than when you were scouting as a—as a—as a hawk, but of course that was mid-afternoon—that was like lunchtime 1130 when when people are given the desert heat, everybody's kind of starting to take the rest break. There's—there's several groups of orcs that you can see—presumably or. Even in the spyglass, it's a little bit far to identify types of humanoids, but presumably orcs—moving towards the city.\n\nDM: And there are several moving, so it seems like there's one group that's moving slowly, as if they are tracking or searching um in the direction of the monastery. Come—and then there's another that you can see that's kind of heading that's on the like dry riverbed like right about here. So there's one like here and one like here that seemed to be moving slowly across the desert like groups of of like six, seven orcs like about the size of the band that you fought.\n\nWellby: That's only, like, a mile, right?\n\nDM: Yeah, I mean, they're moving slowly, but, moving slowly don't have more than—than like 30–40 minutes until they're at the monastery.\n\nWellby: Or 10 minutes if they decided to jog moderately.\n\nDM: 10 minutes if they decide to jog. But it seems like they are searching for—I mean, they're like they're like moving like zigzagging across the road like they're looking for something, right? The ones down on the river are kind of doing the sort of thing you did like they're—they're doing a spiral pattern, and they're kind of you know, moving in expanding circles like up the river.\n\nWellby: Okay, can I also just check all the other buildings that are up here at the monastery? Like, poke my head—not like people camped out in these other buildings or something, is there?\n\nDM: No. None of the other built—all the buildings are unchanged.\n\nWellby: And there's not.\n\nDM: Takes you about 15 minutes to do that.\n\nWellby: Okay, I'm gonna hustle back down. Okay, share the news. And the orcs are looking for us, yeah."
+        }
+      ],
+      "from": "p07",
+      "to": "p07",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Approach the bathhouse and inspect the missing bodies and removed bar.",
+          "place": "p08"
+        },
+        {
+          "reading": "Look north at the fort before returning; the source inserts this before the already announced return."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1187",
+        "endUid": "u1197"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Inspect activity at the fort through the spyglass.",
+      "evidence": [
+        {
+          "startUid": "u1187",
+          "endUid": "u1197",
+          "quote": "DM: Yeah, it's about a thumb. Yeah, make a Perception check. Um, so, I mean, you see a fair—like, especially peering through your spyglass, you see a fair bit of activity at the orc fort. More than when you were scouting as a—as a—as a hawk, but of course that was mid-afternoon—that was like lunchtime 1130 when when people are given the desert heat, everybody's kind of starting to take the rest break. There's—there's several groups of orcs that you can see—presumably or. Even in the spyglass, it's a little bit far to identify types of humanoids, but presumably orcs—moving towards the city.\n\nDM: And there are several moving, so it seems like there's one group that's moving slowly, as if they are tracking or searching um in the direction of the monastery. Come—and then there's another that you can see that's kind of heading that's on the like dry riverbed like right about here. So there's one like here and one like here that seemed to be moving slowly across the desert like groups of of like six, seven orcs like about the size of the band that you fought."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1574",
+        "endUid": "u1647"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride south to the end of the cliffs, west, then north, pushing an extra hour before camping.",
+      "evidence": [
+        {
+          "startUid": "u1574",
+          "endUid": "u1647",
+          "quote": "DM: We're riding south. Now you have about 25 minutes before they reach you.\n\nKenzo: [garbled]. Or you want to kill him now?\n\nDelwath: No, I think we ride south fast, and yeah we assume we can outrun them and if they actually are undead and go all night, we're gonna learn something before we kill them. Cool.\n\nWellby: Great. Here we go.\n\nDM: Okay, so with the camp packed, and the—you know, the—on your horses, your—your three horses, one for each of Seeker, Delwath, and Kenzo, plus Baxter, which Wellby is riding on, plus your two spare horses with water and food and all your your you know survival gear to make it this far in the desert—you break south, riding hard along this dry riverbed, which is pretty solid terrain for for riding on. The dust cloud that is kicked up by your departure is obvious. And you can hear you know shouts in the distance from the orcs about a mile off, watching you know at the cliffs of the monastery, looking out over the plain.\n\nDM: But traveling hard, pushing through the the heat of the day, by about, say, 3 pm like late mid-afternoon, you've come to the come far enough south that the—that the cliffs have dropped down, and and there's just the sort of flat expanse of of rocky desert to your west. If there is any pursuit, you've not seen signs of that, or you've left them so far behind that they are—not that they're not visible to you. And you turn to the west. Ah, heading sort of north-northwest a little bit, away from the riverbed and into the, sort of more rocky, cliff-like area of the desert. And as sun sets, do you want to make camp or keep going into the night?\n\nDelwath: I think we should keep going a little ways in the night. I mean, not all night, but—\n\nKenzo: Really?\n\nDelwath: I mean, how long would it take us to get back from here, to go back up north and then circle back around?\n\nDM: So let's say you went 20 miles south and then about five miles west and then five miles north. So you're about 15 miles south of the road and the bridge, about. So 20 miles total.\n\nDelwath: I think the goal would be to ride enough tonight that if we get up early and ride in the morning, we can come back to the bridge around the hottest part of the day.\n\nDM: Okay, um. Really, though, given that you have been riding hard through the hot desert sun and you're now pushing into the night, to keep pushing forward you're going to need to make Constitution checks. So can everybody make a Constitution check? You are risking exhaustion, which at least on one level you'll recover. So.\n\nDM: Wellby and and Delwath are fine, but Kenzo and Seeker, the heat, not being used to the heat or the hard riding—this, you know, one—one—an extra hour or so of traveling, getting about another say let's say, five miles north, has just wiped you out. At the moment, you both have one level of exhaustion. You—you can keep pushing if you want, but if you fail another Constitution check, then you will be—you won't be able to recover fully in one night sleep.\n\nDM: At the moment, you're maybe maybe 10 miles south of the—10 miles south of the road and about three miles. Three four miles west of the river.\n\nDelwath: I think we can camp here.\n\nWellby: Cool.\n\nDelwath: Get up early, just before dawn. We should be able to cover 10—I mean, if we can cover five miles an hour, we could be—we break camp at 7 am, we could be at the bridge by eleven easily.\n\nSeeker: We people were not made for hard riding in the desert.\n\nDM: So you set camp, presume presumably quiet, hidden as best you can. And, yes.\n\nDelwath: The main thing is to pay attention to see if the undead orcs marched all through the night and are going to catch up to us, yes.\n\nDM: So, so let's see um. Yeah, why doesn’t everybody give me just—let’s see— Delwath, Seeker, and Wellby, roll Perception checks.\n\nKenzo: Nice.\n\nDM: Seeker is very tired. Yep, um, given your exhaustion you've you've... Delwath, you hear nothing or see nothing during your watch but the desert animals, um. You know, as the sun—you've ridden past sunset into twilight. By the time, you know, everybody's asleep and you're watching, it's—it started to get quiet, but you hear the occasional like hoot of an owl, see a small desert mouse scurrying across the camp."
+        }
+      ],
+      "from": "p07",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Ride about twenty miles south to the end of the cliffs."
+        },
+        {
+          "reading": "Turn west, then north; continue about an extra hour after sunset."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1681",
+        "endUid": "u1689"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride north ten miles to the road.",
+      "evidence": [
+        {
+          "startUid": "u1681",
+          "endUid": "u1689",
+          "quote": "DM: So you break camp, pack up your dwindling supply of water, um, head north, um, about 10 miles, takes you—takes you maybe three hours, again moving moving quickly. So by, you know, by nine 930, um, as the sun is now fully up in the sky, the desert is starting to get hot. From the—you know, the heat beginning to radiate from the ground as as it everything warms up. You've reached the road, maybe a little bit west of here."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "ride"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1696",
+        "endUid": "u1714"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Travel east along the road to a sheltered cliff position.",
+      "evidence": [
+        {
+          "startUid": "u1696",
+          "endUid": "u1714",
+          "quote": "Delwath: Is that your plan, what’s—yeah, basically. Somewhere in the cliffs here we’d like to set up a shelter for the horses, and then we’ll go. Well, I mean, that’s only, that's only a mile, right?\n\nDM: That's 1.5 miles from—yes, I mean, it's like it's like 1.5 1.6 miles along the road to like this point or somewhere, right?\n\nWellby: You can try calling another bird down to do an overflight again.\n\nDM: Yeah, sure. The—so when you get here, while, um, Seeker is a—Seeker is beginning to construct his—his horsebox, um. It's now—yeah, it's like about 930 10 at this point, and so you know the thermals are going. The hawks who eat snakes and lizards are are definitely up in the sky. So make an Animal Handling check. Yeah, so you you're certainly able to again use your strategy that you've used in the past, lay out some food and you know, in this case particularly if you can snag a lizard or something and and lay it out a little way from the camp. Wait for a hawk to to approach and then just offer it, get it to come into your hand with some food. It sort of looks at you and seems to be willing for your—for your Beast Sense. So as it wolfs down the lizard, you slide into its mind."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u1719",
+        "endUid": "u1769"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Through the hawk, inspect the fort, city patrols, and shadow around the palace.",
+      "evidence": [
+        {
+          "startUid": "u1719",
+          "endUid": "u1769",
+          "quote": "DM: Um, nothing to the west. The road is is quiet. There doesn't seem to be anything, you know, to the west of here are sort of moving on the cliffs or anything like that. As you approach sort of fly over you know soaring over the orc fort and then doing the loop around Kharsan, there's definitely more—is definitely activity around the orc fort. You can see that there now there are there seemed to be guards posted here and here at this southern gate that weren't there before. And you see a few sort of patrols that are doing a sort of a route. Not too many, there's maybe three of them that you spot that are doing sort of circuits around the city. There's still the activity of of moving back and forth here. There are also—\n\nSeeker: Where was that?\n\nDM: Where were the—sorry, moving back and forth between the the you know carrying stone and stuff that—construction on the fort hasn't stopped, so there's still orcs moving back and forth, but there's more activity in the city than you'd seen before, and there seems to be patrols that are like you know moving around here and, like a regular interval. The city itself is is you know, it's like a little over a mile in—in diameter, and so if there's like three patrols moving and kind of regular circuit around the ruins, um, just sort of seeming to keep an eye out for anything, um. There are you see.\n\nDM: It seems like, you know, you can see in the distance there's a there seems to be a patrol sort of moving south this way, and another one coming north, which you can see just in the distance that the plume of dust. There seems to be two groups like converging just south of that just just west of the monastery, one going south, one going north. And there are clearly more guards stationed on the orc fort than there had been before. And the other thing you notice is the palace itself seems to be completely in shadow. Like, it's a sunny day, but the palace is—like you can't really see anything into the palace, because as you fly over it, it's like passing through a dark storm cloud, and everything's kind of hazy below, and the hawk hates it and basically won't go lower.\n\nDelwath: Overfly the palace. How big are the orc patrols?\n\nDM: Each one is typically six orcs.\n\nUnknown: Better double checked with us correct.\n\nDM: Yeah there they range between five and eight orcs, but most of them average six.\n\nDelwath: And how long does it take to go around the circuit? I mean, what's the—\n\nDM: So they’re spaced—maybe about every 30 minutes, one will pass a particular point.\n\nWellby: Sort of make a note of that rhythm to figure out our time.\n\nDM: Anything else you want to look for in particular?\n\nWellby: Other patrols or other orcs moving inside the city, besides that areas they touched before.\n\nDM: So there's the patrols moving around. There's still the construction activity that's happening in this part of the city. There doesn't seem to be any other orcs moving. Of course, with the palace in shadow, it's hard to say what's happening in the palace.\n\nWellby: Is there any sense we can get of how big the barracks are, like can we make any kind of a guesstimate of size?\n\nDM: How big the orc fort—\n\nWellby: Is, yeah.\n\nDM: Um. Ah, yeah, so make—make it just straight Intelligence check. It's probably like, you know, hundred to 200 orcs could sort of fit in that fort. The—sort of add up everything you've seen around, you know. There's probably usually, you know, 50 or so orcs out in various ways that you can kind of see outside the fort, between the work patrols to work crews, the construction crews, the—that—and then the patrols is maybe another 20, and there's some sort of movement around the for the, for you know in this sort of open area, it's—it's hard to say exactly, but you'd guess like hundred—hundred to 250 somewhere like that. It's not 1000 and it's not 20.\n\nWellby: Well.\n\nDM: It's not like [garbled], but it's you know, in the low hundreds, you would guess.\n\nWellby: I'll update my map of the city and notes, and like confirm that the previous sketch one works so yeah. And otherwise, I'll relay the info."
+        }
+      ],
+      "place": "p16",
+      "mode": "remote",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l17",
+      "type": "presence",
+      "source": {
+        "startUid": "u1770",
+        "endUid": "u1807"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker builds cover at the cliff shelter; horses and Baxter remain here afterward.",
+      "evidence": [
+        {
+          "startUid": "u1770",
+          "endUid": "u1807",
+          "quote": "DM: Well. While Wellby is scouting, Seeker, I presume you're constructing, with Mold Earth, a sand cube? It's not going to be super well camouflaged if you're just building it with Mold Earth.\n\nSeeker: This is to hide the horses. Yeah, I'm... Right, and my creation ability doesn't last long enough for this to be useful, right?\n\nDM: Well, I don't know. How long are you going to scout for? Last—for the last...\n\nSeeker: Few hours. Doesn't create three hours here, I think that I could make a strategically placed ridge. They're not going to—so just to block one of—so from the east. Can really make total concealment.\n\nKenzo: I wonder if you can make like a trap. You like make like a like some earth that like looks like stable but it's not stable, and then like the orcs walk on it and they like fall, die.\n\nSeeker: Right. I mean, I could certainly excavate the necessary pit, and then we could lay something across it, like like if there were boards lying around, but—\n\nDM: That's why you can create wooden boards, Seeker, that's... out of thin air.\n\nKenzo: You can create wood?\n\nSeeker: Um, I—I got skills. If you ever need a random objects or like, ‘I wish I had a screwdriver’—literally anything—\n\nWellby: But only for three hours.\n\nSeeker: Let me know, yeah.\n\nDelwath: Three hours should be enough time.\n\nWellby: I think three hours is enough time.\n\nSeeker: Right, but what—so what do we need aside from visual concealment from the east?\n\nDelwath: I think that's the main thing we need.\n\nSeeker: So I should just be able to make a ridge—\n\nDM: High enough, yeah.\n\nSeeker: The horses, with Mold Earth. So that’s all.\n\nDM: Okay, so just using—using—excavating the the sort of loose sand and dirt here, you like dig a little shallow entrenchment and build up a ridge wall that conceals the horses up against the side of the wall from the—against the side of the cliff, and then concealed from the east by this this ridge construction.\n\nSeeker: Presume we can hobble them so they don't wander off, too, yeah?\n\nUnknown: Yeah.\n\nDM: And Baxter's going to stay with the horses.\n\nWellby: Horses, yeah, okay."
+        }
+      ],
+      "place": "p13"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1867",
+        "endUid": "u1948"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Approach along the road and gather in shadow beneath the stone bridge.",
+      "evidence": [
+        {
+          "startUid": "u1867",
+          "endUid": "u1948",
+          "quote": "DM: So you're all traveling down this road to a point where—so this this is pretty—\n\nSeeker: Open once you get—yeah, you're just—\n\nDM: Sight. I mean, orcs can see you from there, right? It’s—\n\nDelwath: Can we walk up the cliff here? Like, is there—\n\nDM: Yeah, you can go wherever you want. I'm just saying, tell me where you're going.\n\nSeeker: Oh.\n\nDelwath: That's not quite close enough.\n\nSeeker: Can we—maybe we could just quickly scramble out to this bridge and hide in its shadow.\n\nWellby: Yeah, on the north side of it.\n\nSeeker: Yeah, nice, nice, up here.\n\nDelwath: I mean, two of us could be invisible. I don't know if that helps.\n\nSeeker: And the other two are very short.\n\nDelwath: Who's best at Stealth?\n\nKenzo: Kenzo’s very stealthy.\n\nWellby: Wellby’s pretty stealthy.\n\nDelwath: I mean, the other option is, Seeker, you could be invisible.\n\nSeeker: Let's do that.\n\nDelwath: Delwath and Seeker will be invisible.\n\nKenzo: Amazing. And he’s got a plus-four Stealth.\n\nSeeker: Alright, so we sneak out from the cover of the cliff.\n\nDelwath: And the goal is to end up here. So the goal is to end—\n\nDM: Up—end up where?\n\nDelwath: They're hiding. Hiding basically underneath the bridge, okay.\n\nDM: So you—you creep along the edge of the cliff. Who—so who is invisible, Delwath and—\n\nDelwath: Yeah.\n\nDM: Um, okay, at this distance sound is irrelevant, so pretty much you're automatically stealthy if you're invisible. Orcs are closer, they might be able to hear you.\n\nDelwath: Answered, but—\n\nDM: However, Wellby and Kenzo, I need Stealth checks from you.\n\nKenzo: So stealthy.\n\nDM: So you just dart along the shadows, taking advantage here, the fact that the sun, now higher in the sky but still in the east before noon, is is casting some shadows along the edge, you know, until you get to this final this final like quarter-mile distance, basically, where you just you're sort of creeping low on the ground, just kind of using little rocks or whatever you can find in it until eventually like there's about 100 yards that's just straight open terrain. You've got no choice but to just run and hope nobody sees you.\n\nSeeker: I'm just strolling windmilling arms.\n\nUnknown: Yeah.\n\nDM: Delwath and and Seeker are just, are just there. So, so because you both are—are notably speedy, Kenzo with your increased move speed and Wellby with bonus-action Dash, make—Athletics check with advantage, represent your flat-out sprint to cover the last hundred yards.\n\nSeeker: Oh boy.\n\nUnknown: With advantage, roll.\n\nSeeker: Oh man. What happened?\n\nDM: For.\n\nSeeker: That's incredible.\n\nDM: Should not reload your reload.\n\nKenzo: Oh, it's because of my—\n\nUnknown: Religion.\n\nDM: It should be minus, should be minus two.\n\nSeeker: Okay, generally he's only mostly dead, right?\n\nKenzo: Now let's go again.\n\nDM: Okay. Well, advantage, you can roll once more.\n\nSeeker: All right, there we go.\n\nDM: So you sort of gear yourself up for this for this last sprint. Kenzo manages to run—run quite quickly. Wellby, for a second you're caught out in the open, and you're not sure if anybody saw you, if anybody happened to be looking at you, but you had like a minute there where you felt very exposed running across this open space. But you are now at the bridge, and there's not any sound of alarm, so not quite sure.\n\nSeeker: Place.\n\nDM: And you are now all sort of crouched in the in the shadow of this bridge. So, so as you—as you approach the bridge, you can see that this—this is a stone bridge made of made of hard sandstone. But it's kind of pointless, as the river is just a dry wash. So it's this big bridge spanning nothing. It's early Dunmari construction, not not Drankorian, but solidly built, only crumbling in a few places."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived"
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u1999",
+        "endUid": "u2030"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance views Grash in the palace throne room; Seeker remains beneath the bridge.",
+      "evidence": [
+        {
+          "startUid": "u1999",
+          "endUid": "u2030",
+          "quote": "DM: So as the sensor appears, you see—you—your sensor appears in a large room, mostly dark, lit only by torches that line the wall, casting flickering shadows, you know, across the room. The—the windows have been bricked up and the—and the second story and third story of this building have been knocked out, so there's this one room that goes up maybe 35–40 feet tall. All the window is covered in stone, so it's completely dark. There's no light that gets in.\n\nDM: The... On the ground, you see this looks like it was once a—an audience chamber, throne room type of deal. There is a—there is, like a dais at the far, dais at the far end that's raised up a few steps. There's debris as if, like old furniture has been cast aside. And there is just a plain—like dark black metal, possibly metal from a distance it's hard—from, you know, from this perspective it’s hard to say. Just a simple black chair sitting on this raised platform, and seated in the, middle metal chair—the—a skeletal creature, maybe seven foot tall, um, wearing chainmail armor. Resting against the—against the back of the throne is a wicked-looking glaive with a blade that sort of etched in, with like—like, it almost looks like it's been sort of [garbled], so it's got this jagged, jagged edge. This skeletal creature is sitting in this throne, looking intently at two orcs that are kneeling on the ground, like bow down entirely on the, throne—on the ground, and in front of this this chair, um, and he seems to be saying something quietly to them."
+        }
+      ],
+      "place": "p17",
+      "mode": "remote",
+      "observerPlace": "p14",
+      "observedActors": [
+        "Grash"
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u2245",
+        "endUid": "u2259"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "A second Clairvoyance sensor appears behind Grash to inspect the scroll.",
+      "evidence": [
+        {
+          "startUid": "u2245",
+          "endUid": "u2259",
+          "quote": "DM: I love working next, um. OK, so the sensor reappears, um. You begin you'd like trying to jot down the—the—the scroll what you see on this scroll as fast as you can, but as—as...\n\nSeeker: Inadvertently casting it over here to.\n\nDM: Ah, it's—it's seems like a spell, like he's reading off—he's like casting a spell. And the words vanish almost quicker than you can quicker than you can copy them down as the scroll suddenly disappears in a like little burst of darkness, um. And, okay, let's see. He says—"
+        }
+      ],
+      "place": "p17",
+      "mode": "remote",
+      "observerPlace": "p14",
+      "observedActors": [
+        "Grash"
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2328",
+        "endUid": "u2383"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "While Seeker scries, Delwath enters the northern ruined gate and reaches the market beside the river.",
+      "evidence": [
+        {
+          "startUid": "u2328",
+          "endUid": "u2383",
+          "quote": "DM: Yeah, while this is going on, um, Delwath, you are scouting through the, yeah the sort of northern part of the—of the—okay, so. You sort of scout quietly towards the edge of the city and on the—on this northern side of the town of the city, the wall is just in most places just completely flattened like it's been—you know, whether it's been just taken over the years for stone, or—I mean, some places it looks like it's been smashed like by a large boulder or giant-sized club. The—you know, that gate here that you enter through is mostly destroyed, just part of one tower still stands.\n\nDM: And this this part the sort of northern ruin side of the—of the town seems to be in the worst shape of any of any of the of the—this is from from from Wellby’s bird scouting and so as you enter, you can see, um, you know, like, you know, there's there's like a road basically running from the from the gate. And as you continue down and and you're passing through a part of town it's but it's it's hard to tell what even what this once was, because few of the buildings still have have walls, and almost none have roofs, so you're basically wandering through like foundations occasionally, um, you know, occasionally you'll see something with a partial roof intact and you know a few things that might be warehouses or, you know, maybe a bakery or or homes. But it's difficult to to tell much of the city here, as this—as this area has has suffered the seemingly the most damage, um. Is there anything in particular you're looking for? Like, what's your goal with this scouting mission?\n\nDelwath: Um, two things. I am going to look for just signs of activity, but also I'm going to try and see if I can find anything distinctive that I can pick up and bring back to show, in Eudomes' mirror.\n\nKenzo: Oh.\n\nSeeker: Good call.\n\nUnknown: Yeah.\n\nDM: Ah, like, okay, um. Sorry, I mean, there's plenty of pieces of rubble from houses or walls.\n\nDelwath: Ah, I wonder. It would have to be to be valuable to bring to get the history of an object, I think, would have to be a notable building. Is there any—any building any ruined buildings that seem more notable than others?\n\nDM: Make Investigation check.\n\nKenzo: Ooh, should we have done this for the monastery too? You know, the objects that we needed—it should be brought back from the monastery.\n\nDM: So, yeah I mean it's hard to it's really hard to tell about the the the buildings, given that most of them don't really even have—I mean, these are real, these are really ruins. And you're not given that you're moving relatively quickly, and the time pressure on you, you know you don't have a sense that there's like a notable building. Two things that you do note, one is that, as you know, once you've got about five minutes into the city five you know 5–10-ish minutes, maybe. You start hearing—it's been—it's been quite quiet for the most part, but as you as you kind of cross the walls and get about a short distance into the city, you start hearing in the distance like a faint whispering voice, like... It's Dunmari. It sounds like somebody's begging crying, begging for help. And then again it's somewhere else in the distance, you hear like a faint sobbing, and then a—a sad—a whisper like a whispered conversation in hushed voices that's too far away to—to tell what they're saying.\n\nDelwath: Totally all traps. I'm not following any of that stuff.\n\nDM: The other thing, as you... [garbled].\n\nDelwath: Grash trying to get us to all die by saving non existent people, I think.\n\nWellby: Maybe the rest of the army that you got trapped with.\n\nDelwath: No, because they were all dead. I saw their dead bodies.\n\nDM: Plus, they were elves, and these are speaking Dunmari.\n\nDelwath: Yeah, um.\n\nDM: As you—as you start a search for some landmark or something, what you do come across a little ways down this main road is the remains of a of a big open marketplace. Probably, given its its position in the city, um, this would have been like the river market, like goods coming back and forth on the river would have been you know brought into town, and this is where a lot of trade happened. It's it's not nearly as big as this east market that that um, that Wellby saw from the air, but there's a small market like right about here, and you can see, you know facing on that market, there's definitely there's a couple like shops and warehouses um that seem a little bit more intact, as well as, just off the market, what was probably a bath house or something like that, given the way that the interior construction is. The roof is no longer no longer there."
+        }
+      ],
+      "from": "p14",
+      "to": "p18",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Enter through the ruined northern gate."
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2393",
+        "endUid": "u2425"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Search a ruined glassblower’s shop and collect glass lamp covers and tools.",
+      "evidence": [
+        {
+          "startUid": "u2393",
+          "endUid": "u2425",
+          "quote": "Delwath: Okay, so I'm going to look for a—I'm going to take like five minutes to search around in one of the shops for like an item, I don't know, like a coin or, or a cracked piece of pottery, or—\n\nDM: Okay, um. Make another Investigation check.\n\nKenzo: Loving—\n\nDM: So let's see, um. So you do—you do find a shop that has a—where the—the walls and part of the roof of the first floor intact, and so this was clearly like... It looks like it was actually a, um... Well it's hard to it's hard to say what kind of shop it was, because it's the interior's mostly mostly been cleared out, but it's presumably a place where you know somebody has shop on the first floor, and then some artisan lived on the on the second floor and the second floor is gone, and the roof is kind of collapsed, but enough shelter that, you know, you can find.\n\nDM: You can still find some some sort of small small sort of trinkets in the, you know, in the cracks. And, and what you find is, like the parts of a of.\n\nUnknown: Sorry hold on one sec.\n\nDM: So, so this was this was probably a, um a glass blower's shop, and you find, just like three or four kind of shattered glass ornaments and one that seems still intact, um, sort of like you know, it's like—they’re like the tops of hurricane lamps that you put over candles, um, blown out of glass. And there’s some some like rusty glass blowing tools as well.\n\nDelwath: I'll take it. I'll take all of it. Okay, I assume none of it's very heavy. No, um, and then on my way out, the only other thing I want to try and do is get a sense of what's been any—I mean, is there any activity, like in this part of town? Has anything—"
+        }
+      ],
+      "from": "p18",
+      "to": "p19",
+      "completion": "arrived"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2430",
+        "endUid": "u2463"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Follow sobbing toward the walls without locating its source, then leave through the gate and rejoin the party under the bridge.",
+      "evidence": [
+        {
+          "startUid": "u2430",
+          "endUid": "u2463",
+          "quote": "DM: Um. So, I mean, you still hear the voices, um. There’s now one that's you know, a new voice that seems to be coughing and um whispering, ‘Help, please.’\n\nUnknown: Again.\n\nDelwath: Coming from a specific—I mean, if I took one minute to walk in the direction of the voice, is it coming from somewhere, or is it just—\n\nDM: Yeah, they're—yeah, they're all coming from specific directions. You could walk in the direction of the voice.\n\nDelwath: Is it coming towards a towards the palace? They’re like—no, they seem—\n\nDM: To be all of like all different directions.\n\nDelwath: If there's a voice that's near, that seems like it's coming from a ruin or something like that, where I could stay on the edge of the town, I'll go towards it.\n\nDM: Okay, so you you there is there is one um like a soft, soft sobbing voice that’s just kind of moaning and then or start crying and then occasionally saying, ‘Please, no.’ Um, it sounds like it’s sort of coming like close from close to the walls, and you, you walk in that direction sort of weaving through the ruins for for a minute or two, and don’t seem to get any closer. It's like it—you know, you’re clearly going in the direction it’s coming from, but as you proceed, you’re not, you're not getting closer to it.\n\nDelwath: I'm not going to mess around with weird haunted ghost city, too.\n\nDM: Okay, so in terms of activity, um. You know, things are things are beyond the voices. You know, you—you hear—you let's say you've been in the city for about 20 minutes at this point.\n\nDM: So you do actually hear the sound of an approaching orc patrol. They're not particularly being quiet. They're, like, you know, talking to each other and, in Orcish you don't know what they're saying, um, you know, not being stealthy at all, they're maybe 10 minutes off. But otherwise it seems pretty empty. Like, you'll see you know birds overhead occasionally, like vultures are out and the occasional hawk and you know. When you're poking around in the you know, in the glass shop, you sometimes hear the sound of a snake slithering off, or maybe, like a you know small lizard or something running out of the shadows, but it seems very quiet.\n\nDelwath: All right, I'm gonna, I'm gonna get out before the before I have to wait for the patrol to pass. I guess 10 minutes away, I'll go in front of it and just get back to the bridge, head out the gate.\n\nUnknown: Okay.\n\nDM: So, with you all back at the bridge, your news—I assume at this point, you you're gonna head west?"
+        }
+      ],
+      "from": "p19",
+      "to": "p14",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Search toward the walls; the sobbing never seems closer."
+        },
+        {
+          "reading": "Exit the ruined gate."
+        }
+      ]
+    }
+  ]
+}

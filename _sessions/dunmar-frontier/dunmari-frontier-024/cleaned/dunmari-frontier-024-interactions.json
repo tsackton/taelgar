@@ -1,0 +1,716 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "bd26b19c77a1df2bad0fa69308973160730fc3315746760a9ab68aa3b3fa712e"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-entity-map.json",
+      "sha256": "540ac81b8e1ffdbd0d9cb77db67660fc7c93cb4d756918b96ec7bb9cd4288a1b"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Recap: the Mystai, Grash, and Shakun’s missing heart",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0020"
+      },
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0004:0-21, u0005:0-207, u0006:0-172, u0007:0-20 %%",
+        "DM: Since leaving Karawa, you've learned of the Order of the Awakened Soul, the Mystai of Bhishma, who since the Great War have dedicated themselves to finding the unburied dead in the desolation of Cha'mutte and putting them to rest. You also learned that these same monks, 30 years ago, embarked on a mission somehow involving the great mage Rai to close the portal or cleanse the land or heal evil somehow. Seem to have failed.",
+        "",
+        "%% u0008:0-162, u0009:0-23, u0010:0-89, u0011:0-257 %%",
+        "DM: According to Karmana, the ghost of the last master of the Bhishma Mystai, um, who remained behind to protect the monastery, since this failure evil has been growing slowly across the land. Until last summer, when darkness arrived in Kharsan in the form of Grash the Blighted One. Grash, now apparently the master and commander of an ever-growing clan of orcs, is bent on, on war, at least for now against Uzgash's horde, an apparently peaceful clan of orcs living somewhere along one of the desert rivers, farming and keeping to themselves.",
+        "",
+        "%% u0012:0-126, u0013:0-32, u0014:0-36, u0015:0-198, u0016:0-54, u0017:0-160 %%",
+        "DM: While exploring the monastery, you also discovered the still-divine passageway to the initiation rituals of the Bhishma Mystai, which Kenzo and Seeker followed. Well, at the end Seeker turned away. Kenzo committed to becoming a Mystai and learning that Shakun, the daughter of Bhishma and Laka, was present with her parents, as always, in the realm of Arkash, the spiritual plane of the Five Siblings. But she could not reach the world, cannot reach Karawa, could not reach her temple there to power the mystical protections of Dunmar, because their heart, a red ochre stone imbued with her divine essence, was missing.",
+        "",
+        "%% u0018:0-182, u0019:0-47, u0020:0-121 %%",
+        "DM: Turning from the initiation halls to explore the hall of stories, you learn some of the history of the Bhishma Mystai, the conflicts and decisions leading up to the fateful attempt to close a portal, heal the land, cure evil somehow. And the involvement of Rai, initially connected to the Mystai through Drankor, possibly the portal to another plane there.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, so. As we start tonight, it's almost two months since you met in Karawa on that fateful day of the hyena attack, about a month since you destroyed the demon in the fortress of Raven's Hold, and perhaps two weeks since you left the ruined town of Karawa to search the desert for information about orcs, gnolls, whatever else may be lurking in the depths of the Nashtkar, the blasted plains."
+        ],
+        "after": [
+          "DM: Now, as you leave the tower and the hall of stories, the sun is low on the horizon, casting the sandstone buildings of the monastery in a beautiful reddish golden light. As dusk approaches and the sounds of birds in the distance grows, the desert feels alive.",
+          "DM: The sun low in the sky, the overbearing heat of the day has passed. The beauty and tranquility of the monastery in this evening light is broken only by the scattered dead bodies of the orcs and manticores and the feeling of madness that grows, lurking in the long shadows of the buildings.",
+          "DM: So what would you like to do?",
+          "Unknown: In the temple.",
+          "DM: Okay, so I have a map up in Roll20. Oh, I—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "A warning in the shadows",
+      "source": {
+        "startUid": "u0064",
+        "endUid": "u0083"
+      },
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0064:0-27, u0065:0-17, u0066:0-23, u0067:0-147 %%",
+        "Delwath: Delwath is looking kind of carefully at the... basically, the shadows. Around the—like the way the way the late afternoon sun is making these long shadows around the steps, right? And he's kind of staring at the shadows.",
+        "",
+        "%% u0068:0-12, u0069:0-31, u0070:0-22 %%",
+        "Delwath: And he says, ‘There’s a warning written here. Some sort of a menace.’",
+        "",
+        "%% u0071:0-17 %%",
+        "Kenzo: How can you tell?",
+        "",
+        "%% u0072:0-43, u0073:0-15, u0074:0-33 %%",
+        "Delwath: I can see a warning written in the shadows. About a menace. A menace, I guess, in the temple.",
+        "",
+        "%% u0075:0-12, u0076:0-49, u0077:0-30 %%",
+        "Seeker: I step back, pulling my hand away from the wall at the temple. Who—who's making this warning?",
+        "",
+        "%% u0078:0-10, u0079:0-41 %%",
+        "Delwath: I suspect the creature that has given me its power.",
+        "",
+        "%% u0080:0-15 %%",
+        "Kenzo: Given us power.",
+        "",
+        "%% u0081:0-37 %%",
+        "Delwath: We should proceed cautiously, is all.",
+        "",
+        "%% u0082:0-53 %%",
+        "Kenzo: Do any—do any of you—does anybody else have anything?",
+        "",
+        "%% u0083:0-66 %%",
+        "DM: I mean, you see the shadows. There's nothing written in the shadows.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So, heading into the temple. Again, the shadows stretching...",
+          "Unknown: Your message, Mike.",
+          "DM: You head into the into the foyer.",
+          "Delwath: Um. Hold on, I'm gonna—I'm gonna hold up my hand as we—as we're walking up the steps to the temple, like motioning people to stop.",
+          "Seeker: It takes Seeker a second to notice because he's like beginning to reach out to put his hand to the sandstone to investigate its textures, but he turns."
+        ],
+        "after": [
+          "Seeker: I am... sort of like... slowly crouch away and slide my purple goggles on and snap my head around to look at the temple itself and into the shadow area, not really expecting to see anything.",
+          "DM: Um. I mean it's like you see the temple, you see the shadows. You don't see any—",
+          "Seeker: Weird—",
+          "DM: Strange messages or anything written.",
+          "Seeker: It's all blurry to me."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Bhishma’s image and Jeevali’s return",
+      "source": {
+        "startUid": "u0359",
+        "endUid": "u0377"
+      },
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0359:0-61, u0360:0-55, u0361:0-25, u0362:0-189, u0363:0-81, u0364:0-70 %%",
+        "DM: So she is usually depicted sort of middle-aged Dunmari woman, wearing like usually wearing relatively plain clothing. Sometimes, like, you know, like in her like leading-the-people-north phase or leading-the-people-west phase, differently. But most of the like statues and iconography of Bhishma depict her as a sort of a middle-aged, plainly dressed sort of almost in supplicant clothing, right? Like, um, plain robes. Usually like either kneeling or with her with her hands out like this.",
+        "",
+        "%% u0365:0-33, u0366:0-3, u0367:0-16, u0368:0-99, u0369:0-132 %%",
+        "DM: Hair relatively relatively short and sort of crinkly. Relatively dark skin, although the paint has faded off of the statues, so you wouldn't see that, um. And usually like weathered, wrinkled, you know, lined sort of face, you know, sun-exposed and and long journey and just, like, lived face.",
+        "",
+        "%% u0370:0-47, u0371:0-44, u0372:0-3, u0373:0-104, u0374:0-52 %%",
+        "DM: In this statue, in particular, she is depicted sort of kneeling with her arms outstretched, and head slightly bowed. And she's often also sort of, because she's linked to Jeevali, she is often depicted with like—with tears coming down her face or crying.",
+        "",
+        "%% u0375:0-129, u0376:0-38, u0377:0-116 %%",
+        "DM: And in this case, that's also she's also sort of like you can see the way that stone has been shaped to like represent um kind of tears down her face, but she's smiling, and almost like kneeling but also almost like looking up as if she's looking up and seeing the god, goddess returned.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Kenzo is like points to the left 20–30 feet. We should be prepared to kill things, potentially, that are already dead.",
+          "Seeker: I have an unrelated question, even though that is clearly an important situation. What does this look like?",
+          "DM: That's a good question um.",
+          "Kenzo: I like this question.",
+          "Delwath: So."
+        ],
+        "after": [
+          "Kenzo: Kenzo has his staff ready. Do we run, or do we fight? Those are our two options.",
+          "Wellby: Do we have any obligation to, like, get these people out of this temple? Like, what—what's the right things to do with respect to the temple itself?",
+          "Kenzo: Question, Tim in like in Dunmar, you know, monk ethics. If I like go into like a temple of like my god and there's like weird energy, is my as part of like my my ethic to like be like, ‘Cleanse,’ or is it like—",
+          "Seeker: I think you just signed something to that effect, yes.",
+          "Kenzo: Well, sort of asking, am I do I feel like a compulsion to like liberate this temple?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The Mystai’s obligation to cleanse the temple",
+      "source": {
+        "startUid": "u0381",
+        "endUid": "u0396"
+      },
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0381:0-34, u0382:0-36, u0383:0-74 %%",
+        "Wellby: Do we have any obligation to, like, get these people out of this temple? Like, what—what's the right things to do with respect to the temple itself?",
+        "",
+        "%% u0384:0-54, u0385:0-149 %%",
+        "Kenzo: Question, Tim in like in Dunmar, you know, monk ethics. If I like go into like a temple of like my god and there's like weird energy, is my as part of like my my ethic to like be like, ‘Cleanse,’ or is it like—",
+        "",
+        "%% u0386:0-54 %%",
+        "Seeker: I think you just signed something to that effect, yes.",
+        "",
+        "%% u0387:0-84 %%",
+        "Kenzo: Well, sort of asking, am I do I feel like a compulsion to like liberate this temple?",
+        "",
+        "%% u0388:0-7, u0389:0-20, u0390:0-17, u0391:0-48, u0392:0-121 %%",
+        "DM: I mean, certainly, you know, that wouldn't be—I mean, it's up to you, right? I you know, I think you can decide how you—I mean, that's like how your character feels about things, right? Like [garbled], but—",
+        "",
+        "%% u0393:0-145 %%",
+        "Kenzo: I'm saying, it's like there's no, like, for the order—it's not—is it, like, part of the training to feel like to be like that, or is it like you know—",
+        "",
+        "%% u0394:0-118, u0395:0-55 %%",
+        "DM: No, because lots of—I mean, many monks don't have any class levels, right, like most of them could not fight off undead. Right? There's no sense that, like it's not an order of—",
+        "",
+        "%% u0396:0-53 %%",
+        "Kenzo: Warriors. Right, right, right. Actually, let's do this um.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So she is usually depicted sort of middle-aged Dunmari woman, wearing like usually wearing relatively plain clothing. Sometimes, like, you know, like in her like leading-the-people-north phase or leading-the-people-west phase, differently. But most of the like statues and iconography of Bhishma depict her as a sort of a middle-aged, plainly dressed sort of almost in supplicant clothing, right? Like, um, plain robes. Usually like either kneeling or with her with her hands out like this.",
+          "DM: Hair relatively relatively short and sort of crinkly. Relatively dark skin, although the paint has faded off of the statues, so you wouldn't see that, um. And usually like weathered, wrinkled, you know, lined sort of face, you know, sun-exposed and and long journey and just, like, lived face.",
+          "DM: In this statue, in particular, she is depicted sort of kneeling with her arms outstretched, and head slightly bowed. And she's often also sort of, because she's linked to Jeevali, she is often depicted with like—with tears coming down her face or crying.",
+          "DM: And in this case, that's also she's also sort of like you can see the way that stone has been shaped to like represent um kind of tears down her face, but she's smiling, and almost like kneeling but also almost like looking up as if she's looking up and seeing the god, goddess returned.",
+          "Kenzo: Kenzo has his staff ready. Do we run, or do we fight? Those are our two options."
+        ],
+        "after": [
+          "Kenzo: You know, I sort of whisper, ‘Let me go investigate and see how powerful they are.’",
+          "Seeker: I was wondering if we could, even before doing that, just reason our way through for for a moment to make any kind of inference we could about who or what this entity might be. For example, you mentioned, I think, that it is undead.",
+          "Kenzo: Yes.",
+          "Seeker: And there's a history of undead assaults on this complex. Is that true also?",
+          "Kenzo: From what we've learned, yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Grash executes his servants and sends the shadows hunting",
+      "source": {
+        "startUid": "u1997",
+        "endUid": "u2177"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "lines": [
+        "%% u1997:0-145 %%",
+        "DM: Okay, so so Seeker, let me, let me tell you what you see first. So, so, remember, you can pick hearing or or vision, but you can switch between them.",
+        "",
+        "%% u1998:0-17 %%",
+        "Seeker: So I started out—",
+        "",
+        "%% u1999:0-34, u2000:0-40, u2001:0-24, u2002:0-55, u2003:0-30, u2004:0-41, u2005:0-137, u2006:0-89 %%",
+        "DM: So as the sensor appears, you see—you—your sensor appears in a large room, mostly dark, lit only by torches that line the wall, casting flickering shadows, you know, across the room. The—the windows have been bricked up and the—and the second story and third story of this building have been knocked out, so there's this one room that goes up maybe 35–40 feet tall. All the window is covered in stone, so it's completely dark. There's no light that gets in.",
+        "",
+        "%% u2007:0-4, u2008:0-23, u2009:0-30, u2010:0-57, u2011:0-9, u2012:0-73, u2013:0-61, u2014:0-26, u2015:0-5, u2016:0-187, u2017:0-19, u2018:0-24, u2019:0-33, u2020:0-16, u2021:0-20, u2022:0-94, u2023:0-10, u2024:0-100, u2025:0-26, u2026:0-84, u2027:0-23, u2028:0-7, u2029:0-7, u2030:0-102 %%",
+        "DM: The... On the ground, you see this looks like it was once a—an audience chamber, throne room type of deal. There is a—there is, like a dais at the far, dais at the far end that's raised up a few steps. There's debris as if, like old furniture has been cast aside. And there is just a plain—like dark black metal, possibly metal from a distance it's hard—from, you know, from this perspective it’s hard to say. Just a simple black chair sitting on this raised platform, and seated in the, middle metal chair—the—a skeletal creature, maybe seven foot tall, um, wearing chainmail armor. Resting against the—against the back of the throne is a wicked-looking glaive with a blade that sort of etched in, with like—like, it almost looks like it's been sort of [garbled], so it's got this jagged, jagged edge. This skeletal creature is sitting in this throne, looking intently at two orcs that are kneeling on the ground, like bow down entirely on the, throne—on the ground, and in front of this this chair, um, and he seems to be saying something quietly to them.",
+        "",
+        "%% u2031:0-17 %%",
+        "Delwath: Switch the audio.",
+        "",
+        "%% u2032:0-4 %%",
+        "Seeker: Yep.",
+        "",
+        "%% u2033:0-20 %%",
+        "DM: Do you speak Orcish?",
+        "",
+        "%% u2034:0-65, u2035:0-37, u2036:0-20, u2037:0-52, u2038:0-21, u2039:0-15, u2040:0-30, u2041:0-27, u2042:0-18, u2043:0-22, u2044:0-13, u2045:0-16, u2046:0-52, u2047:0-57, u2048:0-152, u2049:0-24, u2050:0-9 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2051:0-23, u2052:0-71, u2053:0-50, u2054:0-13 %%",
+        "DM: So you use your scroll, and suddenly, mid-sentence, the the Orcish becomes becomes clear to you. And this creature sitting on the throne is saying, ‘For the last—’",
+        "",
+        "%% u2055:0-13 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2056:0-3, u2057:0-4, u2058:0-77, u2059:0-59, u2060:0-45, u2061:0-20, u2062:0-128, u2063:0-58 %%",
+        "DM: Ah, yes. ‘My name is Grash, and here is my secret plan.’ No, he says, ‘For the last time. First gnolls, now whoever these intruders were, humans, elves. I will not have more incursions into my city. Stand. Bow your head.’ And the orcs kind of look at each other and they stand up, and he takes this glaive and he walks towards them, and with one swing cleaves both of their heads straight from their shoulders.",
+        "",
+        "%% u2064:0-7 %%",
+        "Seeker: Brutal.",
+        "",
+        "%% u2065:0-36 %%",
+        "DM: And he kicks the bodies to the side.",
+        "",
+        "%% u2066:0-24 %%",
+        "Seeker: Oh, so I can't see. Well—",
+        "",
+        "%% u2067:0-6 %%",
+        "Unknown: Sorry.",
+        "",
+        "%% u2068:0-16 %%",
+        "Seeker: I hear a double—",
+        "",
+        "%% u2069:0-77, u2070:0-22, u2071:0-54, u2072:0-4, u2073:0-51, u2074:0-91, u2075:0-70, u2076:0-280, u2077:0-9, u2078:0-8, u2079:0-41 %%",
+        "DM: And quickly to vision as you hear the thump, and you see the two orcish heads rolling to the ground. As the creature looks around and as it's standing now, you—you can see that, so this chain armor goes down to you know, to maybe the middle of its waist and then its legs just kind of fade into shadow. And, as it swings the glaive down and picks it up, um, you can see that, you know, although mostly that completely unadorned creature, just as plain chain mail this this wicked, jagged-looking glaive, the one thing you do see is a ring on one of its skeletal fingers. A black ring that shadow seems to ooze out of and as it—as the heads fall to the ground, the ring, sort of—it almost like pulses blood red, slightly.",
+        "",
+        "%% u2080:0-57, u2081:0-5, u2082:0-100, u2083:0-22, u2084:0-55, u2085:0-14, u2086:0-7, u2087:0-5, u2088:0-3 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2089:0-64, u2090:0-4, u2091:0-102, u2092:0-82, u2093:0-32, u2094:0-27 %%",
+        "DM: So, as the—and as this ring pulses, you can you can see that the—the bodies like shrivel, as if all of the blood is being sucked out of them. And and creature, Grash kind of almost like takes it to like lifts his shoulders almost like taking a deep breath, and then, then looks around and seems to be speaking again.",
+        "",
+        "%% u2095:0-9 %%",
+        "Seeker: I switch.",
+        "",
+        "%% u2096:0-65, u2097:0-17, u2098:0-20, u2099:0-34, u2100:0-13, u2101:0-64, u2102:0-33, u2103:0-44, u2104:0-3, u2105:0-50, u2106:0-17 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2107:0-27, u2108:0-25, u2109:0-31, u2110:0-38, u2111:0-32, u2112:0-62, u2113:0-75, u2114:0-38, u2115:0-86, u2116:0-224, u2117:0-73, u2118:0-59, u2119:0-78, u2120:0-71, u2121:0-18 %%",
+        "DM: So as as as he seems to be—as he's speaking he's, um, he's he seems to be yelling in—let's see, what language would this be? In Drankorian—whoo—he is saying: ‘Come, give me a—give me a report.’ And drifting through the wall of the—from the—from the west, drifting through the wall, you see a shadowy, almost like a phantom skeleton, like a shadow creature, like a ghost almost, but dark and sort of slightly skeletal and got, um, also wearing a helmet and armor, and with eyes that are like glowing points of light. Whereas Grash’s eyes, like his skeletal face, just pitch black, like looking into his eyes is like looking into pools of pools of like deep darkness. And this creature drifts through and and responds in Drankorian: ‘The orcs are distracted today. No new looting from the city.’ ‘It's been five weeks since we found anything magical. It's the time to move on.’ Grash slams his glaive down, says, ‘No. I'm sure there's more in this city. Drive them harder.’",
+        "",
+        "%% u2122:0-26 %%",
+        "Unknown: Man, everbody's a looter. ",
+        "",
+        "%% u2122:26-60 %%",
+        "DM: ‘Make the zombies search all night.’",
+        "",
+        "%% u2123:0-8 %%",
+        "Seeker: Zombies.",
+        "",
+        "%% u2124:0-8 %%",
+        "Unknown: Oh shit.",
+        "",
+        "%% u2125:0-22 %%",
+        "Delwath: Shakun. Grash wants it.",
+        "",
+        "%% u2126:0-42, u2127:0-29, u2128:0-22 %%",
+        "DM: And then um shadowy figure drifts off, and there's silence for a moment. Switch back to vision?",
+        "",
+        "%% u2129:0-19 %%",
+        "Seeker: I switch to vision.",
+        "",
+        "%% u2130:0-8, u2131:0-30, u2132:0-245, u2133:0-60 %%",
+        "DM: You see. You see Grash pacing and like, holding up his finger and like twisting this ring and, as he twists it again there's like you it's almost like you can you can almost feel the like heat, the the energy of this thing, and he then lifts his hand and raises it towards the ceiling, and you see these two shriveled bodies of the orcs stand up.",
+        "",
+        "%% u2134:0-32 %%",
+        "Seeker: Oh man, it was not just a story.",
+        "",
+        "%% u2135:0-69 %%",
+        "DM: And he takes their heads and he, like slams their heads back on them.",
+        "",
+        "%% u2136:0-40 %%",
+        "Seeker: Hopefully not swapping them. They never—",
+        "",
+        "%% u2137:0-16, u2138:0-131, u2139:0-36, u2140:0-68 %%",
+        "DM: He doesn't care. And then he holds up his fist and he and he points that like this, like his wrist and almost like he's directing them like puppets. And they exit the hall out the door. At this point, let's see it's been what's the duration of the spell?",
+        "",
+        "%% u2141:0-24, u2142:0-32 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2143:0-11, u2144:0-21, u2145:0-7, u2146:0-5, u2147:0-70, u2148:0-37, u2149:0-100 %%",
+        "DM: So he then—he then goes to that. And, um, like, sets down, leans his glaive back against this this iron chair and just... And, and while he's sitting, it looks—it almost looks like its feet disappear into the dark, because now you can see that there's like a.",
+        "",
+        "%% u2150:0-5 %%",
+        "Delwath: Like—",
+        "",
+        "%% u2151:0-51, u2152:0-44, u2153:0-10, u2154:0-36 %%",
+        "DM: Pools of darkness, shadow that kind of float around. And he he, like again crooks his finger and, and about eight shadows detach from the walls.",
+        "",
+        "%% u2155:0-35 %%",
+        "Seeker: It's got a lot of friends, this guy.",
+        "",
+        "%% u2156:0-46, u2157:0-49 %%",
+        "DM: And just drift towards the center of the room. And he leans close to them and begins to whisper.",
+        "",
+        "%% u2158:0-7 %%",
+        "Delwath: Switch.",
+        "",
+        "%% u2159:0-16 %%",
+        "Seeker: So as its first.",
+        "",
+        "%% u2160:0-7 %%",
+        "Unknown: Switch.",
+        "",
+        "%% u2161:0-50, u2162:0-9, u2163:0-20, u2164:0-11, u2165:0-12, u2166:0-19 %%",
+        "DM: You can hear the sound of of of him whispering, um: ‘Go forth. Find these invaders. Drain them. Bring their cursed bodies back.’",
+        "",
+        "%% u2167:0-6 %%",
+        "Unknown: [garbled].",
+        "",
+        "%% u2168:0-14, u2169:0-42, u2170:0-47, u2171:0-66 %%",
+        "DM: ‘Go, my friends.’ And he goes and he, like touches each one, with the—with his hand that has the ring on it, and they shimmer for a moment and then fade back against the wall.",
+        "",
+        "%% u2172:0-62 %%",
+        "Kenzo: They look like the same shadows that were in the temple thing?",
+        "",
+        "%% u2173:0-23, u2174:0-50, u2175:0-83, u2176:0-19, u2177:0-131 %%",
+        "DM: They look similar, yeah. Oh man, they they drift forth. He then kind of sits with his head in his hands like looking down for a moment, and then um reaches like, back and pulls out—begins to like reaches behind him and like sort of pulls a scroll out from his chair and starts to pull it down, and the spell ends.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Here.",
+          "DM: Sorry, go where? I was on a different screen. Okay.",
+          "Delwath: And just investigate. I mean, it's only a half mile.",
+          "Unknown: Yep.",
+          "Delwath: And probably pretty—so what say that's 15 minutes, so I should have I mean there and back, say. So that's half an hour to explore inside. Yep, I just want to poke around this north ruins and see if there's any thing."
+        ],
+        "after": [
+          "Kenzo: [garbled] this this is this shit.",
+          "Seeker: Oh, oh.",
+          "Kenzo: Reconnaissance mission ever.",
+          "Seeker: That was amazing. We got—we got to get Delwath back here, we got to get out of here, because they just sent some undead apparitions after us to drain us, which I don't think means like drain our pockets, you know I'm saying?",
+          "DM: Well, if they are like the things you saw before and they probably are not going to cross the desert in the bright sun, right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Grash’s Sending and angry reply",
+      "source": {
+        "startUid": "u2245",
+        "endUid": "u2325"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e025",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2245:0-20, u2246:0-3, u2247:0-31, u2248:0-48, u2249:0-4, u2250:0-65 %%",
+        "DM: I love working next, um. OK, so the sensor reappears, um. You begin you'd like trying to jot down the—the—the scroll what you see on this scroll as fast as you can, but as—as...",
+        "",
+        "%% u2251:0-25, u2252:0-13 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2253:0-80, u2254:0-108, u2255:0-46, u2256:0-3, u2257:0-3, u2258:0-15, u2259:0-8 %%",
+        "DM: Ah, it's—it's seems like a spell, like he's reading off—he's like casting a spell. And the words vanish almost quicker than you can quicker than you can copy them down as the scroll suddenly disappears in a like little burst of darkness, um. And, okay, let's see. He says—",
+        "",
+        "%% u2260:0-19 %%",
+        "Seeker: Switching to audio.",
+        "",
+        "%% u2261:0-37, u2262:0-3, u2263:0-95, u2264:0-7, u2265:0-18, u2266:0-108 %%",
+        "DM: So, as this spell's being spell cast, he... Everything pauses for a moment. Seems like he’s speaking, so you switch to audio, and he’s saying, ‘Report. Yet more invaders.’ And it seems like as he’s speaking like somehow these words are resonating with some sort of magical energy.",
+        "",
+        "%% u2267:0-14 %%",
+        "Seeker: Is he Sending?",
+        "",
+        "%% u2268:0-67 %%",
+        "Delwath: That's the—yeah, it's the 25 words. We have one of those scrolls too.",
+        "",
+        "%% u2269:0-13 %%",
+        "DM: Sending, yeah.",
+        "",
+        "%% u2270:0-17 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2271:0-107, u2272:0-33, u2273:0-30, u2274:0-5 %%",
+        "DM: And you seem to have caught part like slightly you've missed like the first five or six words or so. Saying, ‘Report more invaders in the city and continued failure to find more—’",
+        "",
+        "%% u2275:0-16 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2276:0-9, u2277:0-84 %%",
+        "DM: ‘The orcs will be ready’—let’s see, I’m not keeping track of words—‘orcs will be ready to strike.’",
+        "",
+        "%% u2278:0-77 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2279:0-23, u2280:0-41, u2281:0-21, u2282:0-50 %%",
+        "DM: ‘The orcs will be ready. The orcs will be ready to strike by fall, and Uzgash will fall. But the rest of the treasure remains hidden to me.’",
+        "",
+        "%% u2283:0-38 %%",
+        "Seeker: It's like they know something's there.",
+        "",
+        "%% u2284:0-76 %%",
+        "Kenzo: Who’s he sending this to? Is he sending is he sending it to his fucking boss?",
+        "",
+        "%% u2285:0-20, u2286:0-5, u2287:0-16, u2288:0-62 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2289:0-31 %%",
+        "DM: And then, all is silence again.",
+        "",
+        "%% u2290:0-19 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2291:0-33, u2292:0-66, u2293:0-13, u2294:0-15 %%",
+        "DM: And you hear the sound of pacing. Switch to visual, and you can see that he is pacing back and forth in this room. Step, step, step.",
+        "",
+        "%% u2295:0-4 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2296:0-41 %%",
+        "DM: Seeming to just be waiting for something.",
+        "",
+        "%% u2297:0-35 %%",
+        "Seeker: You may receive a reply, I suppose.",
+        "",
+        "%% u2298:0-29, u2299:0-87 %%",
+        "DM: I don't think—no, it's mental. To cast the spell, you have to speak your message out loud, but the reply is telepathic.",
+        "",
+        "%% u2300:0-21 %%",
+        "Wellby: Oh, the response, man.",
+        "",
+        "%% u2301:0-49 %%",
+        "Kenzo: You can look at his expression. Is crazy like, ‘Yes’?",
+        "",
+        "%% u2302:0-30 %%",
+        "Delwath: Is his face like just a basic—",
+        "",
+        "%% u2303:0-17, u2304:0-31 %%",
+        "DM: His face is just a basically a pit of blackness.",
+        "",
+        "%% u2305:0-6 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2306:0-22, u2307:0-16, u2308:0-36 %%",
+        "DM: Five minutes later, um, he stops, and he throws his blade down on the ground.",
+        "",
+        "%% u2309:0-10 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2310:0-3, u2311:0-101, u2312:0-36, u2313:0-20 %%",
+        "DM: And, like his pacing pause for a moment, and then he reaches and he picks it up and slams it into the wall, carving like chunks of stone flying, rubble being tossed.",
+        "",
+        "%% u2314:0-40, u2315:0-9, u2316:0-23, u2317:0-53, u2318:0-53, u2319:0-19, u2320:0-35, u2321:0-57, u2322:0-38, u2323:0-47 %%",
+        "((Table discussion and spell mechanics))",
+        "",
+        "%% u2324:0-58, u2325:0-101 %%",
+        "DM: And with that, you see nothing else before the spell fades. Just Grash sitting after having cast that spell and received his reply, which apparently angered him.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But Fruity Pebbles is not—",
+          "Unknown: For.",
+          "Seeker: Fruity Pebbles in a major way.",
+          "DM: Well, I know the reference. I'm just saying I'm not sure that's something Grash would say.",
+          "Kenzo: Oh yeah."
+        ],
+        "after": [
+          "Seeker: That was a good use of two spell slots. Suggestion to do, clearly, the second time was good, yeah.",
+          "Kenzo: Best scouting mission ever.",
+          "DM: Yeah, while this is going on, um, Delwath, you are scouting through the, yeah the sort of northern part of the—of the—okay, so. You sort of scout quietly towards the edge of the city and on the—on this northern side of the town of the city, the wall is just in most places just completely flattened like it's been—you know, whether it's been just taken over the years for stone, or—I mean, some places it looks like it's been smashed like by a large boulder or giant-sized club. The—you know, that gate here that you enter through is mostly destroyed, just part of one tower still stands.",
+          "DM: And this this part the sort of northern ruin side of the—of the town seems to be in the worst shape of any of any of the of the—this is from from from Wellby’s bird scouting and so as you enter, you can see, um, you know, like, you know, there's there's like a road basically running from the from the gate. And as you continue down and and you're passing through a part of town it's but it's it's hard to tell what even what this once was, because few of the buildings still have have walls, and almost none have roofs, so you're basically wandering through like foundations occasionally, um, you know, occasionally you'll see something with a partial roof intact and you know a few things that might be warehouses or, you know, maybe a bakery or or homes. But it's difficult to to tell much of the city here, as this—as this area has has suffered the seemingly the most damage, um. Is there anything in particular you're looking for? Like, what's your goal with this scouting mission?",
+          "Delwath: Um, two things. I am going to look for just signs of activity, but also I'm going to try and see if I can find anything distinctive that I can pick up and bring back to show, in Eudomes' mirror."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Delwath collects glasswork and tools",
+      "source": {
+        "startUid": "u2414",
+        "endUid": "u2425"
+      },
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u2414:0-36, u2415:0-25, u2416:0-13, u2417:0-32, u2418:0-10, u2419:0-73, u2420:0-99, u2421:0-61 %%",
+        "DM: So, so this was this was probably a, um a glass blower's shop, and you find, just like three or four kind of shattered glass ornaments and one that seems still intact, um, sort of like you know, it's like—they’re like the tops of hurricane lamps that you put over candles, um, blown out of glass. And there’s some some like rusty glass blowing tools as well.",
+        "",
+        "%% u2422:0-33, u2423:0-42, u2424:0-26, u2425:0-146 %%",
+        "Delwath: I'll take it. I'll take all of it. Okay, I assume none of it's very heavy. No, um, and then on my way out, the only other thing I want to try and do is get a sense of what's been any—I mean, is there any activity, like in this part of town? Has anything—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, um. Make another Investigation check.",
+          "Kenzo: Loving—",
+          "DM: So let's see, um. So you do—you do find a shop that has a—where the—the walls and part of the roof of the first floor intact, and so this was clearly like... It looks like it was actually a, um... Well it's hard to it's hard to say what kind of shop it was, because it's the interior's mostly mostly been cleared out, but it's presumably a place where you know somebody has shop on the first floor, and then some artisan lived on the on the second floor and the second floor is gone, and the roof is kind of collapsed, but enough shelter that, you know, you can find.",
+          "DM: You can still find some some sort of small small sort of trinkets in the, you know, in the cracks. And, and what you find is, like the parts of a of.",
+          "Unknown: Sorry hold on one sec."
+        ],
+        "after": [
+          "DM: Make a Perception check.",
+          "Kenzo: You try to take a chunk of the palace, too.",
+          "Delwath: I'm nervous. I don't want to go too close to the palace.",
+          "Kenzo: Grash will find you.",
+          "DM: Um. So, I mean, you still hear the voices, um. There’s now one that's you know, a new voice that seems to be coughing and um whispering, ‘Help, please.’"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

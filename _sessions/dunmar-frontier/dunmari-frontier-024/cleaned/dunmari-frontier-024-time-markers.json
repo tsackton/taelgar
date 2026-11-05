@@ -1,0 +1,892 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-024",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-session.yaml",
+    "sessionYamlSha256": "9c66851d2435f9347ecc225e11a2254476381651eccffe76899f4adbd2d593c6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-transcript.md",
+    "transcriptSha256": "bd26b19c77a1df2bad0fa69308973160730fc3315746760a9ab68aa3b3fa712e",
+    "yamlDates": {
+      "start": "1748-05-11",
+      "end": "1748-05-13"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0032"
+      },
+      "reading": "Leaving the tower near dusk; the sunset estimate is corrected to forty minutes.",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0032",
+          "quote": "DM: Now, as you leave the tower and the hall of stories, the sun is low on the horizon, casting the sandstone buildings of the monastery in a beautiful reddish golden light. As dusk approaches and the sounds of birds in the distance grows, the desert feels alive.\n\nDM: The sun low in the sky, the overbearing heat of the day has passed. The beauty and tranquility of the monastery in this evening light is broken only by the scattered dead bodies of the orcs and manticores and the feeling of madness that grows, lurking in the long shadows of the buildings.\n\nDM: So what would you like to do?\n\nUnknown: In the temple.\n\nDM: Okay, so I have a map up in Roll20. Oh, I—\n\nUnknown: Got a heading.\n\nDM: Heading over to the temple. So it's about maybe half an hour until sunset, um, maybe—maybe more like 40 minutes. And it takes you maybe five or 10 minutes to approach and start to look around the temple, so."
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "Narrated current light or watch"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0032"
+      },
+      "reading": "Approaching and looking over the temple takes five to ten minutes.",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0032",
+          "quote": "DM: Heading over to the temple. So it's about maybe half an hour until sunset, um, maybe—maybe more like 40 minutes. And it takes you maybe five or 10 minutes to approach and start to look around the temple, so."
+        }
+      ],
+      "duration": {
+        "min": 5,
+        "max": 10,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM estimates the completed approach"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0182",
+        "endUid": "u0207"
+      },
+      "reading": "Delwath performs the ten-minute Fey Sight ritual.",
+      "evidence": [
+        {
+          "startUid": "u0182",
+          "endUid": "u0207",
+          "quote": "DM: So you're gonna take 10 minutes for that?\n\nDelwath: Yeah, I mean, before we go in, I think we get caught in it. Yep.\n\nKenzo: What is the thing I can do, Tim? I don't actually see the thing. Is it an action?\n\nDM: Under spells.\n\nKenzo: Oh, under spells. What?\n\nWellby: We don't want to be here after dark.\n\nKenzo: Oh yeah, let's detect good and evil. Let's see that. I like that. Let's do that.\n\nUnknown: Way.\n\nDelwath: That's a great idea, but maybe if you detect the evil, we should reconsider. We should go quicker. What—what are we achieving by going into this temple?\n\nWellby: We're finding out what's inside. Questions this will be.\n\nKenzo: Yeah, Detect Good and Evil.\n\nDM: Okay, um. Sorry, let me just double-check. Can you just tell them it doesn't say what the range on that is.\n\nKenzo: Self slash 30 feet.\n\nDM: Okay.\n\nKenzo: Penetrate most barriers, yep.\n\nSeeker: Blocked by one foot—as, of course, we're in a stone temple. Nice.\n\nKenzo: But I mean, fortunately, less than one feet feet thick.\n\nUnknown: Undoubtedly.\n\nDM: Last for 10 minutes, so it lasts as you—\n\nKenzo: As you walk around, okay.\n\nDM: So I presume you do that after Delwath does—\n\nDelwath: Yeah, Fey Sight."
+        },
+        {
+          "startUid": "u0216",
+          "endUid": "u0220",
+          "quote": "DM: Okay, so you don't see anything, Delwath. You see nothing with Fey Sight in your immediate vicinity, um, as you go in to the—into this first entry way. So your Detect Good and Evil is still running, and if you sense—you don't sense anything within 30 feet, so in this first first entry chapel."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0326",
+        "endUid": "u0336"
+      },
+      "reading": "The party reaches the main temple about fifteen to twenty minutes before sunset.",
+      "evidence": [
+        {
+          "startUid": "u0326",
+          "endUid": "u0336",
+          "quote": "DM: Okay, so you walk forward into what is, as you enter—so you pass through these two arches and you enter what is clearly the—the sort of main temple to Bhishma. It's a big open space. There's high walls which are—which have, on the upper levels, they have a bunch of sort of open archways that let light in sort of like whether there once were stained-glass windows in them that have now been destroyed, or whether—they probably once had like stained glass or something, or just glass panels or something. But now they're just open, large windows that arched windows that let the sun in and one in the far wall seems to be positioned to just like a series in a in a pattern in the far wall that seemed to be positioned to catch the sunset over the—as the sun moves over the course of the seasons. And lights shining now, as the sun is coming close to the horizon, setting in maybe 15 or 20 minutes. Light is shining streaming through that opening and illuminating, um, in the center of this big space, a large statue of Bhishma."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset",
+          "offset": {
+            "min": 15,
+            "max": 20,
+            "minInclusive": true,
+            "maxInclusive": true,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM sunset estimate"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM places the temple investigation"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0351",
+        "endUid": "u0351"
+      },
+      "reading": "Kenzo’s detection spell is fading during the main chamber investigation.",
+      "evidence": [
+        {
+          "startUid": "u0351",
+          "endUid": "u0351",
+          "quote": "DM: Yes, you sense the same about just as your spell is fading, about 25–30 feet to the left, beyond the edge of the of the temple, of this open chamber, but probably lurking in the hallway."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "note": "The source establishes spell expiry without stating elapsed minutes here."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0671",
+        "endUid": "u0672"
+      },
+      "reading": "The sunlight will leave the temple in about ten minutes.",
+      "evidence": [
+        {
+          "startUid": "u0671",
+          "endUid": "u0672",
+          "quote": "Kenzo: How much more—how many more minutes do we have before the sun goes down?\n\nDM: Hmm, ten."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset",
+          "offset": {
+            "value": 10,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "Narrated elapsed interval"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM’s present light estimate"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0705",
+        "endUid": "u0710"
+      },
+      "reading": "The temple light has gone; it is twilight.",
+      "evidence": [
+        {
+          "startUid": "u0705",
+          "endUid": "u0710",
+          "quote": "DM: No, you don't see anything following them. It's—I mean, you see the light of the light of Kenzo’s drift globe it's kind of—it's, you know, now with the sun below the lip of the—lip of the window, um there's you know everything sort of cast in twilight except for the for the drift globe, um, you know, lighting up this this 20 foot, just moves, with nobody holding it, but you figure Kenzo must be Kenzo."
+        }
+      ],
+      "time": {
+        "partOfDay": "twilight",
+        "precision": "approximate",
+        "basis": "Narrated current light or watch"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0767",
+        "endUid": "u0784"
+      },
+      "reading": "The party returns to camp in twilight.",
+      "evidence": [
+        {
+          "startUid": "u0767",
+          "endUid": "u0784",
+          "quote": "DM: So in the twilight of... the... still... the western horizon still with that sort of afterglow of the sunset, the reds and oranges across the sky lighting your path past the manticores and dead orcs and back down to the river, and then past the bathhouse where the orc survivor is locked, to the dry riverbed, and then turning south to come back to your camp. You find your camp, thankfully, undisturbed.\n\nDM: Baxter is very pleased to see you and rushes up as you approach. And the horses are sort of milling about; your supplies are intact. With it cooling off it's actually a—and now out of the perhaps somewhat spooky temple of shadows, it's actually a fairly pleasant evening as you settle in to your evening meal and rest."
+        }
+      ],
+      "time": {
+        "partOfDay": "twilight",
+        "precision": "approximate",
+        "basis": "Narrated current light or watch"
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0815",
+        "endUid": "u0842"
+      },
+      "reading": "The party settles for an overnight rest and wakes at dawn.",
+      "evidence": [
+        {
+          "startUid": "u0815",
+          "endUid": "u0842",
+          "quote": "Seeker: And long rest.\n\nDelwath: Perhaps we should set a watch.\n\nDM: Yeah that's probably prudent.\n\nDelwath: I mean, don't—\n\nDM: Assume you'll just take turns watching.\n\nDelwath: Yeah, I mean, Delwath can watch most of the night, since he doesn't actually sleep, right?\n\nDM: He just needs a few hours of meditation.\n\nSeeker: Okay, low risk.\n\nKenzo: Click Manage Fields for feats.\n\nDM: Ah, I can do it. Nevermind. I got it. Yeah, you should be all set. Okay.\n\nKenzo: Yeah be good to be back.\n\nDM: Okay, um, so actually, let's see so I assume probably what's happening is—who's who's taking the first—\n\nKenzo: Watch.\n\nDelwath: We all just click the buttons, so you can't go back and make something happen, because we don't know how many hit points we had before we rested.\n\nKenzo: I forgot.\n\nDelwath: I don't remember either. I have no idea.\n\nDM: Just out of curiosity, who is taking the—\n\nUnknown: First watch, and—\n\nDM: The first chunk and then go to sleep it. Yeah, 2 am yeah, yeah. Okay.\n\nWellby: Wellby usually takes the last before dawn.\n\nDM: And then either Kenzo or Seeker’s up in the middle of the night for their watch. Okay, so so.\n\nKenzo: For this particular night, though, I think since Kenzo died, maybe you guys are letting him sleep in, yeah."
+        },
+        {
+          "startUid": "u0889",
+          "endUid": "u0895",
+          "quote": "DM: So as dawn comes and everybody wakes, camp is undisturbed. The morning quiet. Birds—sound of birds and and insects loudest at dawn and dusk, as the most activity in the desert is then. You settle in for quick breakfast and plans for the day."
+        }
+      ],
+      "completion": "completed",
+      "dateBoundaries": 1,
+      "timeRange": {
+        "start": {
+          "partOfDay": "evening",
+          "precision": "approximate",
+          "basis": "Narrated current light or watch"
+        },
+        "end": {
+          "partOfDay": "dawn",
+          "precision": "approximate",
+          "basis": "Narrated current light or watch"
+        }
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; the completed overnight is narrated independently of this mechanical duration"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0857",
+        "endUid": "u0864"
+      },
+      "reading": "Seeker takes the middle watch after Delwath.",
+      "evidence": [
+        {
+          "startUid": "u0857",
+          "endUid": "u0864",
+          "quote": "Delwath: Um. So, Seeker, when you wake up for your watch, Delwath—I'll—I'll tell you, ‘Keep your ears open. I, I heard something hours ago, maybe clink of armor.’\n\nSeeker: Heard it was—\n\nDelwath: Distant and not coming closer, so I let you all rest."
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Narrated current light or watch"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t09"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0889",
+        "endUid": "u0895"
+      },
+      "reading": "Everyone wakes at dawn and eats breakfast.",
+      "evidence": [
+        {
+          "startUid": "u0889",
+          "endUid": "u0895",
+          "quote": "DM: So as dawn comes and everybody wakes, camp is undisturbed. The morning quiet. Birds—sound of birds and and insects loudest at dawn and dusk, as the most activity in the desert is then. You settle in for quick breakfast and plans for the day."
+        }
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "Narrated current light or watch"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1164",
+        "endUid": "u1167"
+      },
+      "reading": "Wellby’s morning scouting search has taken about twenty minutes.",
+      "evidence": [
+        {
+          "startUid": "u1164",
+          "endUid": "u1167",
+          "quote": "DM: So you set out in the early morning desert light, um. You don't really find much along the river bed. Takes you maybe 20 minutes of searching to get up to where the monastery is, and you start to head up the up the path from the river to the monastery itself and the first thing you immediately notice as you approach the—the sort of bathhouse area is the bodies of the manticores are lying there, but the orcs are gone. There's no orc bodies."
+        }
+      ],
+      "time": {
+        "partOfDay": "early morning",
+        "precision": "approximate",
+        "basis": "Narrated current light or watch"
+      },
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      },
+      "actors": [
+        "Wellby"
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1182",
+        "endUid": "u1183"
+      },
+      "reading": "Narration inserts Wellby’s northern view before his return to camp.",
+      "evidence": [
+        {
+          "startUid": "u1182",
+          "endUid": "u1183",
+          "quote": "Wellby: And in fact, actually, wait, Tim, kind of retcon, because I feel it the same thing. Standing up at the level of the temple, I'm going to look north. Is there anyone moving between here and the city?"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "Wellby’s return to camp"
+        },
+        "precision": "approximate",
+        "basis": "Player corrects the narrated sequence"
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1205",
+        "endUid": "u1213"
+      },
+      "reading": "Wellby checks buildings for fifteen minutes, then returns to report.",
+      "evidence": [
+        {
+          "startUid": "u1205",
+          "endUid": "u1213",
+          "quote": "Wellby: Okay, can I also just check all the other buildings that are up here at the monastery? Like, poke my head—not like people camped out in these other buildings or something, is there?\n\nDM: No. None of the other built—all the buildings are unchanged.\n\nWellby: And there's not.\n\nDM: Takes you about 15 minutes to do that.\n\nWellby: Okay, I'm gonna hustle back down. Okay, share the news. And the orcs are looking for us, yeah."
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1574",
+        "endUid": "u1602"
+      },
+      "reading": "The southward ride reaches the end of the cliffs around three in the afternoon, then continues west and north until sunset.",
+      "evidence": [
+        {
+          "startUid": "u1574",
+          "endUid": "u1602",
+          "quote": "DM: We're riding south. Now you have about 25 minutes before they reach you.\n\nKenzo: [garbled]. Or you want to kill him now?\n\nDelwath: No, I think we ride south fast, and yeah we assume we can outrun them and if they actually are undead and go all night, we're gonna learn something before we kill them. Cool.\n\nWellby: Great. Here we go.\n\nDM: Okay, so with the camp packed, and the—you know, the—on your horses, your—your three horses, one for each of Seeker, Delwath, and Kenzo, plus Baxter, which Wellby is riding on, plus your two spare horses with water and food and all your your you know survival gear to make it this far in the desert—you break south, riding hard along this dry riverbed, which is pretty solid terrain for for riding on. The dust cloud that is kicked up by your departure is obvious. And you can hear you know shouts in the distance from the orcs about a mile off, watching you know at the cliffs of the monastery, looking out over the plain.\n\nDM: But traveling hard, pushing through the the heat of the day, by about, say, 3 pm like late mid-afternoon, you've come to the come far enough south that the—that the cliffs have dropped down, and and there's just the sort of flat expanse of of rocky desert to your west. If there is any pursuit, you've not seen signs of that, or you've left them so far behind that they are—not that they're not visible to you. And you turn to the west. Ah, heading sort of north-northwest a little bit, away from the riverbed and into the, sort of more rocky, cliff-like area of the desert. And as sun sets, do you want to make camp or keep going into the night?"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "clock": "15:00",
+          "precision": "approximate",
+          "basis": "DM’s current-play clock estimate"
+        },
+        "end": {
+          "partOfDay": "sunset",
+          "precision": "approximate",
+          "basis": "Narrated current light or watch"
+        }
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1618",
+        "endUid": "u1628"
+      },
+      "reading": "The party pushes north for another hour before making camp.",
+      "evidence": [
+        {
+          "startUid": "u1618",
+          "endUid": "u1628",
+          "quote": "DM: Wellby and and Delwath are fine, but Kenzo and Seeker, the heat, not being used to the heat or the hard riding—this, you know, one—one—an extra hour or so of traveling, getting about another say let's say, five miles north, has just wiped you out. At the moment, you both have one level of exhaustion. You—you can keep pushing if you want, but if you fail another Constitution check, then you will be—you won't be able to recover fully in one night sleep.\n\nDM: At the moment, you're maybe maybe 10 miles south of the—10 miles south of the road and about three miles. Three four miles west of the river."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1629",
+        "endUid": "u1655"
+      },
+      "reading": "The second overnight camp ends with everyone awake just before dawn, about five.",
+      "evidence": [
+        {
+          "startUid": "u1629",
+          "endUid": "u1655",
+          "quote": "Delwath: I think we can camp here.\n\nWellby: Cool.\n\nDelwath: Get up early, just before dawn. We should be able to cover 10—I mean, if we can cover five miles an hour, we could be—we break camp at 7 am, we could be at the bridge by eleven easily.\n\nSeeker: We people were not made for hard riding in the desert.\n\nDM: So you set camp, presume presumably quiet, hidden as best you can. And, yes.\n\nDelwath: The main thing is to pay attention to see if the undead orcs marched all through the night and are going to catch up to us, yes.\n\nDM: So, so let's see um. Yeah, why doesn’t everybody give me just—let’s see— Delwath, Seeker, and Wellby, roll Perception checks.\n\nKenzo: Nice.\n\nDM: Seeker is very tired. Yep, um, given your exhaustion you've you've... Delwath, you hear nothing or see nothing during your watch but the desert animals, um. You know, as the sun—you've ridden past sunset into twilight. By the time, you know, everybody's asleep and you're watching, it's—it started to get quiet, but you hear the occasional like hoot of an owl, see a small desert mouse scurrying across the camp.\n\nDM: As you wake Seeker in the middle of the night, he... Seeker, you can barely keep your eyes open and find yourself dozing off a couple of times, snapping awake at like, you know, 3am, realizing you were—you have to wake up now, but not really having paid much attention during your watch. Wellby, your watch is also quiet and non-eventful.\n\nDM: You wake everybody just before dawn, at you know 5 am a little before 5 am as the—as just the like pre-dawn light is starting to crack the sky. Again, that exhaustion you can remove. You can all take a long rest."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "twilight",
+          "precision": "approximate",
+          "basis": "Narrated current light or watch"
+        },
+        "end": {
+          "clock": "05:00",
+          "precision": "approximate",
+          "basis": "DM’s current-play clock estimate"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; the completed overnight is narrated independently of this mechanical duration"
+      }
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1648",
+        "endUid": "u1652"
+      },
+      "reading": "Seeker is drowsy around three during the second night watch.",
+      "evidence": [
+        {
+          "startUid": "u1648",
+          "endUid": "u1652",
+          "quote": "DM: As you wake Seeker in the middle of the night, he... Seeker, you can barely keep your eyes open and find yourself dozing off a couple of times, snapping awake at like, you know, 3am, realizing you were—you have to wake up now, but not really having paid much attention during your watch. Wellby, your watch is also quiet and non-eventful."
+        }
+      ],
+      "time": {
+        "clock": "03:00",
+        "precision": "approximate",
+        "basis": "DM’s current-play clock estimate"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t17"
+        }
+      ]
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u1653",
+        "endUid": "u1655"
+      },
+      "reading": "Everyone wakes just before dawn at approximately five.",
+      "evidence": [
+        {
+          "startUid": "u1653",
+          "endUid": "u1655",
+          "quote": "DM: You wake everybody just before dawn, at you know 5 am a little before 5 am as the—as just the like pre-dawn light is starting to crack the sky. Again, that exhaustion you can remove. You can all take a long rest."
+        }
+      ],
+      "time": {
+        "clock": "05:00",
+        "precision": "approximate",
+        "basis": "DM’s current-play clock estimate"
+      }
+    },
+    {
+      "id": "t32",
+      "source": {
+        "startUid": "u1662",
+        "endUid": "u1662"
+      },
+      "reading": "The party departs north and east in pre-dawn light after breakfast.",
+      "time": {
+        "partOfDay": "pre-dawn",
+        "precision": "approximate",
+        "basis": "DM explicitly dates departure by the light"
+      },
+      "evidence": [
+        {
+          "startUid": "u1662",
+          "endUid": "u1662",
+          "quote": "DM: As you head north and east in the pre-dawn light after a cold breakfast, the—"
+        }
+      ]
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u1681",
+        "endUid": "u1689"
+      },
+      "reading": "A three-hour northward ride reaches the road around nine to nine-thirty.",
+      "evidence": [
+        {
+          "startUid": "u1681",
+          "endUid": "u1689",
+          "quote": "DM: So you break camp, pack up your dwindling supply of water, um, head north, um, about 10 miles, takes you—takes you maybe three hours, again moving moving quickly. So by, you know, by nine 930, um, as the sun is now fully up in the sky, the desert is starting to get hot. From the—you know, the heat beginning to radiate from the ground as as it everything warms up. You've reached the road, maybe a little bit west of here."
+        }
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      },
+      "time": {
+        "clock": "09:00",
+        "precision": "approximate",
+        "basis": "DM’s current-play clock estimate"
+      },
+      "note": "Arrival is estimated as 09:00–09:30; breakfast and departure are not clocked exactly.",
+      "completion": "completed"
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u1696",
+        "endUid": "u1714"
+      },
+      "reading": "The cliff shelter and hawk scouting begin around nine-thirty to ten.",
+      "evidence": [
+        {
+          "startUid": "u1696",
+          "endUid": "u1714",
+          "quote": "Delwath: Is that your plan, what’s—yeah, basically. Somewhere in the cliffs here we’d like to set up a shelter for the horses, and then we’ll go. Well, I mean, that’s only, that's only a mile, right?\n\nDM: That's 1.5 miles from—yes, I mean, it's like it's like 1.5 1.6 miles along the road to like this point or somewhere, right?\n\nWellby: You can try calling another bird down to do an overflight again.\n\nDM: Yeah, sure. The—so when you get here, while, um, Seeker is a—Seeker is beginning to construct his—his horsebox, um. It's now—yeah, it's like about 930 10 at this point, and so you know the thermals are going. The hawks who eat snakes and lizards are are definitely up in the sky. So make an Animal Handling check. Yeah, so you you're certainly able to again use your strategy that you've used in the past, lay out some food and you know, in this case particularly if you can snag a lizard or something and and lay it out a little way from the camp. Wait for a hawk to to approach and then just offer it, get it to come into your hand with some food. It sort of looks at you and seems to be willing for your—for your Beast Sense. So as it wolfs down the lizard, you slide into its mind."
+        }
+      ],
+      "time": {
+        "clock": "09:30",
+        "precision": "approximate",
+        "basis": "DM current-play estimate"
+      },
+      "note": "DM estimates the current time as 09:30–10:00."
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u1907",
+        "endUid": "u1910"
+      },
+      "reading": "The bridge approach is before noon.",
+      "evidence": [
+        {
+          "startUid": "u1907",
+          "endUid": "u1910",
+          "quote": "DM: So you just dart along the shadows, taking advantage here, the fact that the sun, now higher in the sky but still in the east before noon, is is casting some shadows along the edge, you know, until you get to this final this final like quarter-mile distance, basically, where you just you're sort of creeping low on the ground, just kind of using little rocks or whatever you can find in it until eventually like there's about 100 yards that's just straight open terrain. You've got no choice but to just run and hope nobody sees you."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "noon"
+        },
+        "precision": "approximate",
+        "basis": "DM current-play timing"
+      }
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u1961",
+        "endUid": "u1963"
+      },
+      "reading": "About ten minutes of the hour-long invisibility have elapsed on the approach.",
+      "evidence": [
+        {
+          "startUid": "u1961",
+          "endUid": "u1963",
+          "quote": "Kenzo: Does invisibility last?\n\nDelwath: An hour.\n\nDM: Like 10 minutes."
+        },
+        {
+          "startUid": "u1987",
+          "endUid": "u1988",
+          "quote": "Delwath: I'm tempted to use the time that Seeker is clairvoyancing, since invisibility only last for 50 more minutes, to go—"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      },
+      "note": "Elapsed approach, not an additional delay after reaching the bridge."
+    },
+    {
+      "id": "t24",
+      "source": {
+        "startUid": "u2173",
+        "endUid": "u2177"
+      },
+      "reading": "The first Clairvoyance observation ends after its ten-minute duration.",
+      "evidence": [
+        {
+          "startUid": "u2173",
+          "endUid": "u2177",
+          "quote": "DM: They look similar, yeah. Oh man, they they drift forth. He then kind of sits with his head in his hands like looking down for a moment, and then um reaches like, back and pulls out—begins to like reaches behind him and like sort of pulls a scroll out from his chair and starts to pull it down, and the spell ends."
+        },
+        {
+          "startUid": "u2141",
+          "endUid": "u2142",
+          "quote": "Delwath: I think it's 10 minutes.\n\nSeeker: That sounds right. That's August."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Ten-minute Clairvoyance duration stated at u2141–u2142; source confirms expiry"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t31",
+      "source": {
+        "startUid": "u2306",
+        "endUid": "u2308"
+      },
+      "reading": "Grash paces for five minutes before angrily throwing down his blade.",
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly advances five minutes"
+      },
+      "actors": [
+        "Grash"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t25"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2291",
+          "endUid": "u2296",
+          "quote": "DM: And you hear the sound of pacing. Switch to visual, and you can see that he is pacing back and forth in this room. Step, step, step.\n\nUnknown: I'm.\n\nDM: Seeming to just be waiting for something."
+        },
+        {
+          "startUid": "u2306",
+          "endUid": "u2308",
+          "quote": "DM: Five minutes later, um, he stops, and he throws his blade down on the ground."
+        }
+      ]
+    },
+    {
+      "id": "t25",
+      "source": {
+        "startUid": "u2324",
+        "endUid": "u2325"
+      },
+      "reading": "The second Clairvoyance observation ends after another ten-minute duration.",
+      "evidence": [
+        {
+          "startUid": "u2324",
+          "endUid": "u2325",
+          "quote": "DM: And with that, you see nothing else before the spell fades. Just Grash sitting after having cast that spell and received his reply, which apparently angered him."
+        },
+        {
+          "startUid": "u2141",
+          "endUid": "u2142",
+          "quote": "Delwath: I think it's 10 minutes.\n\nSeeker: That sounds right. That's August."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Ten-minute Clairvoyance duration stated at u2141–u2142; source confirms expiry"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t26",
+      "source": {
+        "startUid": "u2328",
+        "endUid": "u2342"
+      },
+      "reading": "Narration turns to Delwath’s city scouting during the scrying.",
+      "evidence": [
+        {
+          "startUid": "u2328",
+          "endUid": "u2342",
+          "quote": "DM: Yeah, while this is going on, um, Delwath, you are scouting through the, yeah the sort of northern part of the—of the—okay, so. You sort of scout quietly towards the edge of the city and on the—on this northern side of the town of the city, the wall is just in most places just completely flattened like it's been—you know, whether it's been just taken over the years for stone, or—I mean, some places it looks like it's been smashed like by a large boulder or giant-sized club. The—you know, that gate here that you enter through is mostly destroyed, just part of one tower still stands.\n\nDM: And this this part the sort of northern ruin side of the—of the town seems to be in the worst shape of any of any of the of the—this is from from from Wellby’s bird scouting and so as you enter, you can see, um, you know, like, you know, there's there's like a road basically running from the from the gate. And as you continue down and and you're passing through a part of town it's but it's it's hard to tell what even what this once was, because few of the buildings still have have walls, and almost none have roofs, so you're basically wandering through like foundations occasionally, um, you know, occasionally you'll see something with a partial roof intact and you know a few things that might be warehouses or, you know, maybe a bakery or or homes. But it's difficult to to tell much of the city here, as this—as this area has has suffered the seemingly the most damage, um. Is there anything in particular you're looking for? Like, what's your goal with this scouting mission?"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "relative": {
+          "relation": "same_time",
+          "anchor": "Seeker’s Clairvoyance observations"
+        },
+        "precision": "approximate",
+        "basis": "Explicit simultaneous framing"
+      }
+    },
+    {
+      "id": "t27",
+      "source": {
+        "startUid": "u2358",
+        "endUid": "u2368"
+      },
+      "reading": "Delwath hears voices five to ten minutes into the city.",
+      "evidence": [
+        {
+          "startUid": "u2358",
+          "endUid": "u2368",
+          "quote": "DM: So, yeah I mean it's hard to it's really hard to tell about the the the buildings, given that most of them don't really even have—I mean, these are real, these are really ruins. And you're not given that you're moving relatively quickly, and the time pressure on you, you know you don't have a sense that there's like a notable building. Two things that you do note, one is that, as you know, once you've got about five minutes into the city five you know 5–10-ish minutes, maybe. You start hearing—it's been—it's been quite quiet for the most part, but as you as you kind of cross the walls and get about a short distance into the city, you start hearing in the distance like a faint whispering voice, like... It's Dunmari. It sounds like somebody's begging crying, begging for help. And then again it's somewhere else in the distance, you hear like a faint sobbing, and then a—a sad—a whisper like a whispered conversation in hushed voices that's too far away to—to tell what they're saying."
+        }
+      ],
+      "duration": {
+        "min": 5,
+        "max": 10,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM elapsed exploration estimate"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t30"
+        }
+      ]
+    },
+    {
+      "id": "t28",
+      "source": {
+        "startUid": "u2393",
+        "endUid": "u2407"
+      },
+      "reading": "Delwath spends five minutes searching the shop.",
+      "evidence": [
+        {
+          "startUid": "u2393",
+          "endUid": "u2407",
+          "quote": "Delwath: Okay, so I'm going to look for a—I'm going to take like five minutes to search around in one of the shops for like an item, I don't know, like a coin or, or a cracked piece of pottery, or—\n\nDM: Okay, um. Make another Investigation check.\n\nKenzo: Loving—\n\nDM: So let's see, um. So you do—you do find a shop that has a—where the—the walls and part of the roof of the first floor intact, and so this was clearly like... It looks like it was actually a, um... Well it's hard to it's hard to say what kind of shop it was, because it's the interior's mostly mostly been cleared out, but it's presumably a place where you know somebody has shop on the first floor, and then some artisan lived on the on the second floor and the second floor is gone, and the roof is kind of collapsed, but enough shelter that, you know, you can find."
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t30"
+        }
+      ]
+    },
+    {
+      "id": "t29",
+      "source": {
+        "startUid": "u2430",
+        "endUid": "u2450"
+      },
+      "reading": "Delwath follows sobbing for a minute or two without getting closer.",
+      "evidence": [
+        {
+          "startUid": "u2430",
+          "endUid": "u2450",
+          "quote": "DM: Um. So, I mean, you still hear the voices, um. There’s now one that's you know, a new voice that seems to be coughing and um whispering, ‘Help, please.’\n\nUnknown: Again.\n\nDelwath: Coming from a specific—I mean, if I took one minute to walk in the direction of the voice, is it coming from somewhere, or is it just—\n\nDM: Yeah, they're—yeah, they're all coming from specific directions. You could walk in the direction of the voice.\n\nDelwath: Is it coming towards a towards the palace? They’re like—no, they seem—\n\nDM: To be all of like all different directions.\n\nDelwath: If there's a voice that's near, that seems like it's coming from a ruin or something like that, where I could stay on the edge of the town, I'll go towards it.\n\nDM: Okay, so you you there is there is one um like a soft, soft sobbing voice that’s just kind of moaning and then or start crying and then occasionally saying, ‘Please, no.’ Um, it sounds like it’s sort of coming like close from close to the walls, and you, you walk in that direction sort of weaving through the ruins for for a minute or two, and don’t seem to get any closer. It's like it—you know, you’re clearly going in the direction it’s coming from, but as you proceed, you’re not, you're not getting closer to it."
+        }
+      ],
+      "duration": {
+        "min": 1,
+        "max": 2,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated search interval"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t30"
+        }
+      ]
+    },
+    {
+      "id": "t30",
+      "source": {
+        "startUid": "u2452",
+        "endUid": "u2454"
+      },
+      "reading": "Delwath has spent about twenty minutes in the city in all.",
+      "evidence": [
+        {
+          "startUid": "u2452",
+          "endUid": "u2454",
+          "quote": "DM: Okay, so in terms of activity, um. You know, things are things are beyond the voices. You know, you—you hear—you let's say you've been in the city for about 20 minutes at this point."
+        },
+        {
+          "startUid": "u2328",
+          "endUid": "u2342",
+          "quote": "DM: Yeah, while this is going on, um, Delwath, you are scouting through the, yeah the sort of northern part of the—of the—okay, so. You sort of scout quietly towards the edge of the city and on the—on this northern side of the town of the city, the wall is just in most places just completely flattened like it's been—you know, whether it's been just taken over the years for stone, or—I mean, some places it looks like it's been smashed like by a large boulder or giant-sized club. The—you know, that gate here that you enter through is mostly destroyed, just part of one tower still stands.\n\nDM: And this this part the sort of northern ruin side of the—of the town seems to be in the worst shape of any of any of the of the—this is from from from Wellby’s bird scouting and so as you enter, you can see, um, you know, like, you know, there's there's like a road basically running from the from the gate. And as you continue down and and you're passing through a part of town it's but it's it's hard to tell what even what this once was, because few of the buildings still have have walls, and almost none have roofs, so you're basically wandering through like foundations occasionally, um, you know, occasionally you'll see something with a partial roof intact and you know a few things that might be warehouses or, you know, maybe a bakery or or homes. But it's difficult to to tell much of the city here, as this—as this area has has suffered the seemingly the most damage, um. Is there anything in particular you're looking for? Like, what's your goal with this scouting mission?"
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed interval"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "note": "Includes the earlier city exploration, shop search, and pursuit of voices. It occurs during the scrying sequence; exact alignment with each casting is not established."
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "Absolute dates come from YAML; no calendar date is spoken in active play. The relative span matches conditional on May 11 as the opening date.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t09",
+      "t17",
+      "t30"
+    ],
+    "explanation": "Dusk exploration, a completed first overnight, a day of travel, a completed second overnight, and morning reconnaissance span exactly two date boundaries. Historical recap and concurrent scouting do not add days."
+  }
+}
