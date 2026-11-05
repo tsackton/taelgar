@@ -1,0 +1,372 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-time-markers.json",
+    "sha256": "5cd2dbd0b66043e6036cb398634aa05a41896bb9dae32970e0733d25e356c24b"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-transcript.md",
+    "sha256": "e33d480370a34ebee9dfb247f9ff2d0889935687ec60931089bcb6fc14a37f2b"
+  },
+  "dateAssessment": "Working dates use YAML’s August 24, 1748 start, the completed opening overnight, and five riding days. The transcript independently says August/end of August, but gives no numbered date or year. Its date assessment is **compatible**, not an exact match: the final approximate midnight/1 a.m. may cross into civil August 30. The final row therefore retains August 29–30. The first nightmare is placed on the third road night by the DM’s explicit later correction at u3635–u3646; its earlier narration is retained in t22. The fourth-day clock conflict remains unresolved. No end-date value was used to supply elapsed time.",
+  "watches": [
+    {
+      "day": "August 24, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Barn opening is about 10 a.m.; the calendar date comes from YAML.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-08-24",
+      "endDate": "1748-08-24"
+    },
+    {
+      "day": "August 24, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Wellby finds riverbank shelter during the day; Delwath takes a short rest before overnight sleep.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1748-08-24",
+      "endDate": "1748-08-24"
+    },
+    {
+      "day": "August 24–25, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Eight-hour rest convention reaches dawn; Kenzo’s dream belongs to this preceding night.",
+      "markers": [
+        "t04",
+        "t06"
+      ],
+      "startDate": "1748-08-24",
+      "endDate": "1748-08-25"
+    },
+    {
+      "day": "August 25, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Breakfast is corrected from an hour after dawn to sunrise.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25"
+    },
+    {
+      "day": "August 25, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Horse purchase takes 1½–2 hours; Fausto’s breakfast is scryed during Wellby’s absence.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25"
+    },
+    {
+      "day": "August 25, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Metium is passed after lunch, in the middle of the afternoon.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25"
+    },
+    {
+      "day": "August 25, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "The riding stretch begins around 9 a.m. and reaches 5 p.m. after eight hours.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25"
+    },
+    {
+      "day": "August 25, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Horse break lasts about two hours, ending with a 7–7:30 p.m. sunset restart.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25"
+    },
+    {
+      "day": "August 26, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "First riding day ends around or just after midnight; the horses cannot continue.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-08-26",
+      "endDate": "1748-08-26"
+    },
+    {
+      "day": "August 26, 1748",
+      "startWatch": "midnight",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Five hours of horse recovery extend from the midnight stop to dawn.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-08-26",
+      "endDate": "1748-08-26"
+    },
+    {
+      "day": "August 26, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Marcella’s scry is retconned after the long rest; Wellby then sets out again.",
+      "markers": [
+        "t14",
+        "t15"
+      ],
+      "startDate": "1748-08-26",
+      "endDate": "1748-08-26"
+    },
+    {
+      "day": "August 26, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "The next riding stretch takes roughly three to four hours from dawn.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1748-08-26",
+      "endDate": "1748-08-26"
+    },
+    {
+      "day": "August 26, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The 10 a.m.–1 p.m. ride follows a 9 a.m. horse break.",
+      "markers": [
+        "t17"
+      ],
+      "startDate": "1748-08-26",
+      "endDate": "1748-08-26"
+    },
+    {
+      "day": "August 26, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The monolith is sighted at sunset.",
+      "markers": [
+        "t18"
+      ],
+      "startDate": "1748-08-26",
+      "endDate": "1748-08-26"
+    },
+    {
+      "day": "August 26, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Camp is about 9 p.m.; Delwath short rests and Seeker reads about an hour before bed.",
+      "markers": [
+        "t19",
+        "t20",
+        "t21"
+      ],
+      "startDate": "1748-08-26",
+      "endDate": "1748-08-26"
+    },
+    {
+      "day": "August 27, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The second road camp reaches 5 a.m.; Wellby wakes and rides again.",
+      "markers": [
+        "t23"
+      ],
+      "startDate": "1748-08-27",
+      "endDate": "1748-08-27"
+    },
+    {
+      "day": "August 27, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The first four-hour ride reaches 9 a.m.; the later injury occurs near lunchtime.",
+      "markers": [
+        "t24"
+      ],
+      "startDate": "1748-08-27",
+      "endDate": "1748-08-27"
+    },
+    {
+      "day": "August 27, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Orchard encounter is about 2 p.m.; an hour’s scouting break ends around 4 p.m.",
+      "markers": [
+        "t25",
+        "t26",
+        "t27"
+      ],
+      "startDate": "1748-08-27",
+      "endDate": "1748-08-27"
+    },
+    {
+      "day": "August 27–28, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Night passes near Erlona; the DM relocates the first nightmare here, denying Seeker rest.",
+      "markers": [
+        "t22",
+        "t28"
+      ],
+      "startDate": "1748-08-27",
+      "endDate": "1748-08-28",
+      "scope": "Seeker’s nightmare correction"
+    },
+    {
+      "day": "August 28, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Selling and replacing horses takes most of the morning.",
+      "markers": [
+        "t29"
+      ],
+      "startDate": "1748-08-28",
+      "endDate": "1748-08-28"
+    },
+    {
+      "day": "August 28, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Kenzo starts riding around noon.",
+      "markers": [
+        "t30"
+      ],
+      "startDate": "1748-08-28",
+      "endDate": "1748-08-28"
+    },
+    {
+      "day": "August 28, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Scar stop: 5 p.m. conflicts with nightfall and nine hours after the noon departure.",
+      "markers": [
+        "t31"
+      ],
+      "startDate": "1748-08-28",
+      "endDate": "1748-08-28"
+    },
+    {
+      "day": "August 28, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "A full hour of pursuit ends around 9 p.m., before the second confrontation.",
+      "markers": [
+        "t32",
+        "t33"
+      ],
+      "startDate": "1748-08-28",
+      "endDate": "1748-08-28"
+    },
+    {
+      "day": "August 29, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Horse recovery takes most of an hour; the table then places the party around midnight.",
+      "markers": [
+        "t34",
+        "t35"
+      ],
+      "startDate": "1748-08-29",
+      "endDate": "1748-08-29"
+    },
+    {
+      "day": "August 29, 1748",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Rest attempt reaches the 8 a.m. departure; Seeker’s nightmare prevents long-rest benefits.",
+      "markers": [
+        "t36"
+      ],
+      "startDate": "1748-08-29",
+      "endDate": "1748-08-29"
+    },
+    {
+      "day": "August 29, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Another horse is injured after roughly two hours; slow progress reaches sixteen miles by noon.",
+      "markers": [
+        "t37",
+        "t38"
+      ],
+      "startDate": "1748-08-29",
+      "endDate": "1748-08-29"
+    },
+    {
+      "day": "August 29, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "About 6 p.m., Kenzo yields to Wellby; Delwath’s short rest and scries occur during the horse break.",
+      "markers": [
+        "t39",
+        "t40",
+        "t41",
+        "t42"
+      ],
+      "startDate": "1748-08-29",
+      "endDate": "1748-08-29"
+    },
+    {
+      "day": "During August 29–30, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Midnight camp is interrupted around midnight–1 a.m.; Seeker receives short-rest credit but no completed long rest.",
+      "markers": [
+        "t43",
+        "t44",
+        "t45",
+        "t46"
+      ],
+      "dateWindow": [
+        "1748-08-29",
+        "1748-08-30"
+      ]
+    }
+  ]
+}

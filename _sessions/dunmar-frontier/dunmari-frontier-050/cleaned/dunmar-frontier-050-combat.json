@@ -1,0 +1,520 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-050",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-session.yaml",
+    "sessionYamlSha256": "8af0ea264e054689d20c42e953f629bb226168c59e50e9105b7049d55b00c595",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-transcript.md",
+    "transcriptSha256": "e33d480370a34ebee9dfb247f9ff2d0889935687ec60931089bcb6fc14a37f2b",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-segments.json",
+      "sha256": "20522ffb1859c404f2c3a4b073f976a5c300782a1cb5963c653f8ade46beea45",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Shadow dogs at the dead stretch of riverbank",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Wheels his horse back about 40 feet toward Seeker. Replaces the proposed readied attack with daylight from his driftglobe, illuminating a 60-foot radius, revealing eight shadow dogs, and ending his invisibility.",
+              "evidence": [
+                {
+                  "startUid": "u3650",
+                  "endUid": "u3717"
+                },
+                {
+                  "startUid": "u3745",
+                  "endUid": "u3754"
+                }
+              ]
+            },
+            {
+              "actor": "Two shadow dogs",
+              "kind": "turn",
+              "summary": "Flee beyond the daylight immediately after it reveals them.",
+              "evidence": [
+                {
+                  "startUid": "u3718",
+                  "endUid": "u3728"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Wall of Stone, boxing two wolf-sized shadow dogs inside four 20-foot-high, three-inch-thick panels. The table settles on AC 19 and 90 hit points for the wall.",
+              "evidence": [
+                {
+                  "startUid": "u3729",
+                  "endUid": "u3784"
+                }
+              ]
+            },
+            {
+              "actor": "Two more shadow dogs",
+              "kind": "turn",
+              "summary": "Turn and flee beyond the daylight.",
+              "evidence": [
+                {
+                  "startUid": "u3785",
+                  "endUid": "u3787"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots a visible dog with advantage from invisibility for 26 damage, leaving it badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u3788",
+                  "endUid": "u3811"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Closes and strikes the wounded dog twice with the Mace of Terror: the first attack has advantage from invisibility and deals 9 damage; the second has no advantage and deals 7, killing it. Activates his protective ring as a bonus action, imposing disadvantage on attacks against him; “jump” is corrected rather than treated as a second effect.",
+              "evidence": [
+                {
+                  "startUid": "u3812",
+                  "endUid": "u3856"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining unconfined shadow dogs",
+              "kind": "turn",
+              "summary": "Retreat beyond the daylight, hanging back about 70 feet away and continuing to bark.",
+              "evidence": [
+                {
+                  "startUid": "u3857",
+                  "endUid": "u3865"
+                },
+                {
+                  "startUid": "u3884",
+                  "endUid": "u3889"
+                }
+              ]
+            },
+            {
+              "actor": "Two confined shadow dogs",
+              "kind": "turn",
+              "summary": "Scrabble against or attack the wall but remain trapped; no wall damage is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u3866",
+                  "endUid": "u3883"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Climbs the wall and blasts the confined dogs with Eldritch Blast. The source compresses this disposal rather than giving rolls, damage, or a full repeated turn cycle.",
+              "evidence": [
+                {
+                  "startUid": "u3912",
+                  "endUid": "u3927"
+                },
+                {
+                  "startUid": "u4025",
+                  "endUid": "u4027"
+                },
+                {
+                  "startUid": "u4289",
+                  "endUid": "u4292"
+                }
+              ],
+              "note": "The later count of five survivors, following one earlier mace kill, confirms that both confined dogs were disposed of; the precise number of blasts is not given."
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The party rides on under daylight with five surviving dogs still following. The two confined dogs and the mace victim account for the three killed before the next confrontation; this fight does not end the pursuit.",
+        "evidence": [
+          {
+            "startUid": "u3941",
+            "endUid": "u3980"
+          }
+        ]
+      },
+      "note": "The last wall-top attacks are narrated in compressed form. Source u4025–u4027 reports three dogs killed, and u4289–u4292 reports four remaining after a further kill; these later counts support the confined dogs’ outcome."
+    },
+    {
+      "id": "c002",
+      "segmentId": "s009",
+      "encounter": "Ambush of the pursuing shadow dogs",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs forward about 20 feet and throws his driftglobe behind the approaching dogs, up to 60 feet. Its ordinary 20-foot light radius reveals two dogs; this is not another daylight activation.",
+              "evidence": [
+                {
+                  "startUid": "u4158",
+                  "endUid": "u4181"
+                },
+                {
+                  "startUid": "u4215",
+                  "endUid": "u4225"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Commands the animated Ladder forward to wait beside Kenzo, then casts Erupting Earth on two visible dogs. Their DC 17 Dexterity saves split one success and one failure; damage resolves as 21, half on success. Grants Kenzo bardic inspiration, confirmed retrospectively as compatible with commanding Ladder.",
+              "evidence": [
+                {
+                  "startUid": "u4182",
+                  "endUid": "u4202"
+                },
+                {
+                  "startUid": "u4229",
+                  "endUid": "u4248"
+                },
+                {
+                  "startUid": "u4258",
+                  "endUid": "u4261"
+                },
+                {
+                  "startUid": "u4330",
+                  "endUid": "u4346"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Moves up to Kenzo and waits; the proposed attack cannot reach a target and is not made.",
+              "evidence": [
+                {
+                  "startUid": "u4182",
+                  "endUid": "u4202"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots a dog with a natural-20 critical hit, doubling sneak-attack dice. The table accepts 57 damage, killing the dog; the bowstring briefly adds a fiery appearance without consuming charges.",
+              "evidence": [
+                {
+                  "startUid": "u4249",
+                  "endUid": "u4257"
+                },
+                {
+                  "startUid": "u4262",
+                  "endUid": "u4292"
+                }
+              ]
+            },
+            {
+              "actor": "Wounded shadow dog",
+              "kind": "turn",
+              "summary": "Gives a terrifying howl that calls for Wisdom saves from everyone, their horses, and Ladder. Two horses fail and flee; Ladder is frightened and must flee on its turn. No failed PC save is resolved here.",
+              "evidence": [
+                {
+                  "startUid": "u4294",
+                  "endUid": "u4322"
+                },
+                {
+                  "startUid": "u4349",
+                  "endUid": "u4354"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow dogs attacking Kenzo",
+              "kind": "turn",
+              "summary": "Attack from darkness with advantage. Two bites hit Kenzo for 7 piercing and 13 damage; he succeeds on the required Strength saves with 21 and a natural 20.",
+              "evidence": [
+                {
+                  "startUid": "u4323",
+                  "endUid": "u4329"
+                },
+                {
+                  "startUid": "u4337",
+                  "endUid": "u4339"
+                },
+                {
+                  "startUid": "u4352",
+                  "endUid": "u4387"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow dog attacking Delwath",
+              "kind": "turn",
+              "summary": "Bites Delwath for 11 piercing damage and calls for a Strength save; a 16 is spoken, without an explicit knockdown result.",
+              "evidence": [
+                {
+                  "startUid": "u4388",
+                  "endUid": "u4392"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sickening Radiance over three dogs, leaving one outside. The table initially says all three pass DC 17 Constitution saves, then corrects the timing to their turns. The spell’s light prevents affected dogs from benefiting from darkness; no immediate damage is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u4393",
+                  "endUid": "u4439"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the invisible dog outside the radiance with disadvantage. His staff hit is corrected from a miss and resolves for 14 damage; among three further attacks with Flurry of Blows, one misses and two hit for 8 and 10. The dog is badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u4440",
+                  "endUid": "u4507"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Flees 60 feet while frightened, then fails another Wisdom save with a 5 and remains afraid.",
+              "evidence": [
+                {
+                  "startUid": "u4508",
+                  "endUid": "u4514"
+                },
+                {
+                  "startUid": "u4516",
+                  "endUid": "u4539"
+                }
+              ]
+            },
+            {
+              "actor": "Attack on the fleeing Ladder",
+              "kind": "event",
+              "summary": "Deals 13 damage as Ladder flees; the damage is resolved during the flight.",
+              "evidence": [
+                {
+                  "startUid": "u4508",
+                  "endUid": "u4531"
+                }
+              ],
+              "note": "The source gives the damage beside Ladder’s movement without naming the attacking dog or explicitly calling the hit an opportunity attack."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Repositions to line up a fourth-level Catapult with his dagger. The first dog rolls a natural 20 on its Dexterity save and dodges; the dagger continues to a second, whose 16 fails DC 17. The spell resolves for 31 damage and kills that dog.",
+              "evidence": [
+                {
+                  "startUid": "u4540",
+                  "endUid": "u4596"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots a dog in dim light without disadvantage, hitting for the table’s accepted 16 damage.",
+              "evidence": [
+                {
+                  "startUid": "u4597",
+                  "endUid": "u4611"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow dogs in Sickening Radiance",
+              "kind": "turn",
+              "summary": "Only the dog next to Delwath fails its start-of-turn Constitution save; it takes 23 radiant damage and gains one exhaustion level. The later target description says “next to you” to Kenzo, but Delwath’s subsequent attack confirms the initially identified target.",
+              "evidence": [
+                {
+                  "startUid": "u4612",
+                  "endUid": "u4627"
+                },
+                {
+                  "startUid": "u4633",
+                  "endUid": "u4639"
+                },
+                {
+                  "startUid": "u4669",
+                  "endUid": "u4688"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow dogs attacking Kenzo",
+              "kind": "turn",
+              "summary": "The dog in dim light misses Kenzo. The invisible dog outside that light attacks with advantage, hits for 8 damage, and prompts a Strength save of 18. It withdraws into darkness with Kenzo’s blood on it; no opportunity attack is allowed because it cannot be seen. The party suspects blood collection for scrying, but this motive is not established.",
+              "evidence": [
+                {
+                  "startUid": "u4628",
+                  "endUid": "u4658"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the dog that failed its radiance save for 9 damage, then misses the second attack on a natural 1.",
+              "evidence": [
+                {
+                  "startUid": "u4660",
+                  "endUid": "u4698"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Step of the Wind to disengage and pursues the escaping dog. A Perception check, even after spending inspiration and reaching 15, fails to locate it. He runs onward without colliding with it; no attack is made.",
+              "evidence": [
+                {
+                  "startUid": "u4699",
+                  "endUid": "u4779"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Locates the invisible dog with a Perception result of 20, knowing its position without seeing it. Directs Wellby and grants him inspiration; sight-required spells remain unavailable.",
+              "evidence": [
+                {
+                  "startUid": "u4780",
+                  "endUid": "u4818"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Flees another 60 feet, then succeeds on its end-of-turn Wisdom save with 12 and is no longer frightened, though far from the fight.",
+              "evidence": [
+                {
+                  "startUid": "u4819",
+                  "endUid": "u4838"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves into throwing range, throws his driftglobe, and activates daylight to reveal the fleeing dog. A bonus action is proposed but not resolved in the source.",
+              "evidence": [
+                {
+                  "startUid": "u4839",
+                  "endUid": "u4853"
+                }
+              ]
+            },
+            {
+              "actor": "Fleeing shadow dog",
+              "kind": "turn",
+              "summary": "Attempts to run again while still within daylight, provoking an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u4854",
+                  "endUid": "u4858"
+                },
+                {
+                  "startUid": "u4889",
+                  "endUid": "u4898"
+                }
+              ]
+            },
+            {
+              "actor": "Opportunity attacker",
+              "kind": "reaction",
+              "summary": "Hits the now-visible fleeing dog for an accepted 13 damage, including 6 bonus damage; the DM subsequently confirms that this kills it.",
+              "evidence": [
+                {
+                  "startUid": "u4856",
+                  "endUid": "u4888"
+                },
+                {
+                  "startUid": "u4903",
+                  "endUid": "u4905"
+                }
+              ],
+              "note": "The speakers alternate between Kenzo and Wellby while advising the roll, so the source does not securely identify whose reaction dealt the blow."
+            },
+            {
+              "actor": "Shadow dog in Sickening Radiance",
+              "kind": "turn",
+              "summary": "Fails its next save, takes 24 damage and another exhaustion level, and dies.",
+              "evidence": [
+                {
+                  "startUid": "u4907",
+                  "endUid": "u4921"
+                }
+              ]
+            },
+            {
+              "actor": "Last shadow dog",
+              "kind": "turn",
+              "summary": "Moves around Delwath outside the sunlight; no further successful attack is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u4918",
+                  "endUid": "u4923"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the final dog twice for the stated 7 plus 20 damage; the DM confirms all dogs are dead.",
+              "evidence": [
+                {
+                  "startUid": "u4924",
+                  "endUid": "u4929"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All pursuing shadow dogs are dead. Ladder has recovered from fear but is distant, and two horses remain scattered; their recovery and healing occur after initiative.",
+        "evidence": [
+          {
+            "startUid": "u4918",
+            "endUid": "u4929"
+          }
+        ]
+      }
+    }
+  ]
+}

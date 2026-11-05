@@ -1,0 +1,1655 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "e33d480370a34ebee9dfb247f9ff2d0889935687ec60931089bcb6fc14a37f2b"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-050/cleaned/dunmar-frontier-050-entity-map.json",
+      "sha256": "ef44be0564e4d772e73aab4065b0c4631a999a5c143867b790415069084a59f1"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Kenzo’s storm dream and the recovered eyes",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0727",
+        "endUid": "u0777"
+      },
+      "lines": [
+        "%% u0727:0-64 %%",
+        "Kenzo: Tim, does it feel like the, like the energy of, of, uh, Hralgar?",
+        "",
+        "%% u0728:0-3, u0729:0-5 %%",
+        "DM: Mm. Yeah.",
+        "",
+        "%% u0730:0-36, u0731:0-19, u0732:0-20, u0733:0-52, u0734:0-19, u0735:0-9, u0736:0-26 %%",
+        "((Wisdom roll and table aside))",
+        "",
+        "%% u0737:0-5, u0738:0-31, u0739:0-5, u0740:0-3, u0741:0-31, u0742:0-8, u0743:0-37, u0744:0-25, u0745:0-116, u0746:0-3, u0747:0-42, u0748:0-38 %%",
+        "Kenzo: Yeah. Hard to say. Hard to say. Yeah. Well, um, I did have the sensation of, of feeling, feeling like an ancient being staring over a rolling plain, and humming and creating a thunderstorm, and the wind howling, and feeling like I was able to create storms and weather. Um, Kenzo kind of reaches over and pulls out a giant, uh, bowling ball sized eyeball.",
+        "",
+        "%% u0749:0-34, u0750:0-32 %%",
+        "((Gestured eye-size correction))",
+        "",
+        "%% u0751:0-33, u0752:0-66, u0753:0-12, u0754:0-16, u0755:0-28, u0756:0-12, u0757:0-16, u0758:0-29, u0759:0-34 %%",
+        "Kenzo: I mean, bigger, bigger than that. Bigger than that. But, you know, pulls out, pulls out a giant eye. Um, I think, I wonder if, um, Hralgar has a sensation that his eyes are on the way home. You spent some time with him. I did. I communed with the spirit.",
+        "",
+        "%% u0760:0-23, u0761:0-77 %%",
+        "Seeker: The eyes are stone now. They, they are in this form, but they need to be changed back to giant flesh.",
+        "",
+        "%% u0762:0-28, u0763:0-15 %%",
+        "DM: What kind of magic are they? The eyes? Yeah.",
+        "",
+        "%% u0764:0-3 %%",
+        "Kenzo: Um...",
+        "",
+        "%% u0765:0-13 %%",
+        "DM: The eyes are—",
+        "",
+        "%% u0766:0-3 %%",
+        "Kenzo: Uh...",
+        "",
+        "%% u0767:0-49, u0768:0-30, u0769:0-12 %%",
+        "DM: Transmutation, enchantment, and abjuration magic. Abjuration is like protection. Enchantment.",
+        "",
+        "%% u0770:0-41, u0771:0-27 %%",
+        "Kenzo: But in any case, I think, um, I'm glad we were able to liberate these.",
+        "",
+        "%% u0772:0-45, u0773:0-59 %%",
+        "Seeker: But how did those images feel in your dreams? Was that a, a good experience of humming and making storms?",
+        "",
+        "%% u0774:0-17, u0775:0-11 %%",
+        "Kenzo: I think so, yeah. Yeah. Yeah.",
+        "",
+        "%% u0776:0-52 %%",
+        "Seeker: Oh, very good. So it's a taste of, of freedom maybe.",
+        "",
+        "%% u0777:0-21 %%",
+        "Kenzo: I think it's liberty."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Dreamt I was fishing.",
+          "Kenzo: Oh, were you fishing?",
+          "Wellby: In the reeds.",
+          "Kenzo: Yeah. I could be over-projecting things, but I don't know, I think these days when I have weird dreams, usually it's not just a weird dream. Um, I had the strangest sensation that maybe I was a storm giant in my dream, or maybe I had the perspective of a storm giant in my dream.",
+          "Seeker: A particular one?"
+        ],
+        "after": [
+          "Seeker: So- How far is that tower out of our way? Quite, quite, uh, quite a ways.",
+          "Kenzo: Well, by normal rules of space and time, yes.",
+          "Delwath: It's, it's close to the Feywild portal at the center, to this effect, though.",
+          "Seeker: There is.",
+          "DM: That's even further east."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "A first look at the Feywild book",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0798",
+        "endUid": "u0814"
+      },
+      "lines": [
+        "%% u0798:0-3, u0799:0-66, u0800:0-83 %%",
+        "Seeker: Um, Tim, did I learn anything about using the Feywild portals for, um—I mean, you haven't had that much time to read because—but I did look at the book.",
+        "",
+        "%% u0801:0-26 %%",
+        "Kenzo: You looked- At the office.",
+        "",
+        "%% u0802:0-77 %%",
+        "DM: Oh, you, yes, look at the office and you read it, uh, what's the word, there.",
+        "",
+        "%% u0803:0-65, u0804:0-40, u0805:0-56 %%",
+        "Seeker: Oh. That's how you learn. The one he gave you is the Feywild one. Yeah. I have not spent time with it yet. Right. So I start leafing through it while we talk here.",
+        "",
+        "%% u0806:0-124, u0807:0-23, u0808:0-68 %%",
+        "DM: Oh, I mean, there's lots of details about portals and how to go through them, and how to find them, and where they take you. But it's gonna take you more time and more study to understand how the Feywild portals work.",
+        "",
+        "%% u0809:0-48 %%",
+        "Kenzo: Nothing to do with the Fae has ever been simple.",
+        "",
+        "%% u0810:0-103, u0811:0-28, u0812:0-62, u0813:0-62, u0814:0-76 %%",
+        "Seeker: And it, and it looks like this book contains numerous accounts, many of which conflict with each other. That's what I'm saying, too. He's, he's, he's collected the, the literature over millennia. It's not to say that it's anyone, anyone's definitive account. But, from what I can tell, people do go in and out of these Feywild portals."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: The Feywild portals are for. Yeah.",
+          "Seeker: I mean, assuming it all just works out that—",
+          "Kenzo: We can hop between until we see him.",
+          "Seeker: I've been reading about this topic, actually.",
+          "Kenzo: I would have presumed you'd be the expert on this."
+        ],
+        "after": [
+          "Kenzo: What about Fausto?",
+          "Wellby: I expect we probably should have seen that coming.",
+          "Kenzo: I felt like I did see it coming. How so?",
+          "Wellby: [laughs] We've all made mistakes. None of us, none of us could have known.",
+          "DM: Like when you said we're walking into a trap, you mean?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Fausto’s faction and the changed barbarian",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0874",
+        "endUid": "u0941"
+      },
+      "lines": [
+        "%% u0874:0-53, u0875:0-19, u0876:0-10, u0877:0-17, u0878:0-36 %%",
+        "Delwath: For the trying to sort of piece by piece it together. Yeah, that's great. Well, I, I... It does seem that we might have misjudged the society.",
+        "",
+        "%% u0879:0-7 %%",
+        "Kenzo: How so?",
+        "",
+        "%% u0880:0-69, u0881:0-24, u0882:0-37, u0883:0-18, u0884:0-14 %%",
+        "Delwath: Well, it feels to me at least that there's two quite distinct groups. There's Fausto's people, and then there's the society at large who seem to be ... I think he's a—",
+        "",
+        "%% u0885:0-1 %%",
+        "Kenzo: I—",
+        "",
+        "%% u0886:0-47 %%",
+        "Delwath: Don't think the society trusts what he's doing.",
+        "",
+        "%% u0887:0-22 %%",
+        "Seeker: And Kadmos and company—",
+        "",
+        "%% u0888:0-20 %%",
+        "Delwath: Are working for him.",
+        "",
+        "%% u0889:0-26 %%",
+        "DM: Kadmos is working for him.",
+        "",
+        "%% u0890:0-17 %%",
+        "Delwath: He's one of them.",
+        "",
+        "%% u0891:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0892:0-25 %%",
+        "Delwath: He's one of the Cleansed.",
+        "",
+        "%% u0893:0-24 %%",
+        "Kenzo: And what does this mean?",
+        "",
+        "%% u0894:0-20 %%",
+        "Wellby: What does this mean?",
+        "",
+        "%% u0895:0-45, u0896:0-42, u0897:0-41, u0898:0-12, u0899:0-29, u0900:0-10, u0901:0-60, u0902:0-15, u0903:0-25, u0904:0-32, u0905:0-19, u0906:0-4, u0907:0-15, u0908:0-35, u0909:0-17, u0910:0-20, u0911:0-19, u0912:0-8, u0913:0-26 %%",
+        "((Unsent letters and timing clarification))",
+        "",
+        "%% u0914:0-7, u0915:0-6, u0916:0-46, u0917:0-10, u0918:0-39 %%",
+        "Delwath: I think it did feel like some of the people we met, the, they could pull on part of whatever Kadmos was part of.",
+        "",
+        "%% u0919:0-5, u0920:0-27 %%",
+        "Kenzo: Yeah. Whatever Fausto's is doing.",
+        "",
+        "%% u0921:0-35, u0922:0-54, u0923:0-7, u0924:0-6, u0925:0-44 %%",
+        "Seeker: And conversely, there was a moment, or perhaps it was Kenzo, saw the skeletal being behind Kadmos' flesh. Did somebody see something about a skeletal?",
+        "",
+        "%% u0926:0-22 %%",
+        "Wellby: I don't remember this.",
+        "",
+        "%% u0927:0-6 %%",
+        "Kenzo: Kenzo?",
+        "",
+        "%% u0928:0-21 %%",
+        "DM: Uh, yeah, when he ...",
+        "",
+        "%% u0929:0-56 %%",
+        "Delwath: There was a context where we saw something creepy there.",
+        "",
+        "%% u0930:0-17, u0931:0-30, u0932:0-105 %%",
+        "Kenzo: Yeah, yeah, yeah. Well, and recall too, the, um, the barbarian who also was corrupted, who arrived at the society as a normal adventurer, and then- Right.",
+        "",
+        "%% u0933:0-13 %%",
+        "DM: It's that way.",
+        "",
+        "%% u0934:0-33 %%",
+        "Wellby: And maybe like went into a place.",
+        "",
+        "%% u0935:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0936:0-45, u0937:0-71 %%",
+        "Wellby: Let's find this out on the laptop, old notes. Like he got taken into something and was changed when he came back out.",
+        "",
+        "%% u0938:0-42 %%",
+        "Delwath: That's what, that's what Marcella told us.",
+        "",
+        "%% u0939:0-29 %%",
+        "Seeker: But what place would do that?",
+        "",
+        "%% u0940:0-29 %%",
+        "Delwath: Well, perhaps Fausto's tower.",
+        "",
+        "%% u0941:0-5 %%",
+        "DM: Yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: What was that again?",
+          "Delwath: That's all.",
+          "Seeker: That's all we know. Yeah. Yeah. And it's, it's from the library people, right? Yeah.",
+          "Wellby: Would this be a good time to like, to go back to the stuff we sent Tim?",
+          "Kenzo: Yeah."
+        ],
+        "after": [
+          "Seeker: What's ... So is there any reference to a cleansing in—",
+          "Kenzo: Platauna? Did you do like Google Scholar cleansing? Um...",
+          "DM: I mean, it's like what specific like ... Does, I mean- Cults, rituals ... Google search.",
+          "Delwath: If you search, you'll get cleaning products.",
+          "DM: Yeah. Cleaning products."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The scroll trade and incomplete soul sight",
+      "entities": [
+        {
+          "id": "e034",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0960",
+        "endUid": "u0975"
+      },
+      "lines": [
+        "%% u0960:0-45 %%",
+        "Delwath: Are we going to regret giving him the scroll?",
+        "",
+        "%% u0961:0-19 %%",
+        "Wellby: Oh. Oh, yeah. 100%.",
+        "",
+        "%% u0962:0-21, u0963:0-31 %%",
+        "Seeker: I'm sure that's fine. Um, yeah, we could possibly go.",
+        "",
+        "%% u0964:0-48 %%",
+        "DM: Didn't Assura ask Kenzo that he was a good soul?",
+        "",
+        "%% u0965:0-126 %%",
+        "Kenzo: Uh, the opposite. I was the one that said that Fausto was definitely trying to kill us, and that we should be incredibly wary.",
+        "",
+        "%% u0966:0-38 %%",
+        "Seeker: Before we went into the tower- Yes ...",
+        "",
+        "%% u0967:0-62 %%",
+        "Delwath: With him. But once he soul sighted him, none of this appeared.",
+        "",
+        "%% u0968:0-135 %%",
+        "Kenzo: No. My soul sight just told us, told me that he was eager and excited that we were there, but I still thought he was trying to kill us.",
+        "",
+        "%% u0969:0-102 %%",
+        "Seeker: I think it can be ... This tells us something about the soul sighting, which is that it can be fooled.",
+        "",
+        "%% u0970:0-49, u0971:0-20, u0972:0-71, u0973:0-34, u0974:0-30, u0975:0-46 %%",
+        "Kenzo: Well. Isn't it? No, it was, he was- He was eager. He was eager. I see. It's incomplete. Sometimes a partial truth is more of a lie than a lie. No, but I didn't trust him at all. And again, as you will recall, rec- recommended that we not go into the tower."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: If you search, you'll get cleaning products.",
+          "DM: Yeah. Cleaning products.",
+          "Seeker: Um, cl- is it associated with, um—",
+          "Kenzo: Like cults, evil magic, or—oh, cults.",
+          "Seeker: That's good ... undead, or pandemonium. Necromancy. Necromancy."
+        ],
+        "after": [
+          "Seeker: That's fine.",
+          "Wellby: We got the eyes.",
+          "Kenzo: We, we got the eyes.",
+          "DM: Yeah. We succeeded.",
+          "Wellby: We got a bonus mace."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "An unknown master above Fausto and Grash",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1028",
+        "endUid": "u1041"
+      },
+      "lines": [
+        "%% u1028:0-39 %%",
+        "Delwath: Did you, did Fausto say something about—",
+        "",
+        "%% u1029:0-54, u1030:0-17, u1031:0-64 %%",
+        "DM: Doing something to us? He didn't try and do something? I can't remember. He said, \"None of you are even pure enough to be worth the effort.\"",
+        "",
+        "%% u1032:0-53 %%",
+        "Seeker: What is this sense of purity that he's talking about?",
+        "",
+        "%% u1033:0-32, u1034:0-51 %%",
+        "Kenzo: So what's interesting here, too, it does feel as though Fausto himself was cleansed.",
+        "",
+        "%% u1035:0-7 %%",
+        "DM: He was.",
+        "",
+        "%% u1036:0-132 %%",
+        "Kenzo: He doesn't... So in other words, in the hierarchy, there's clearly, or it feels as though there's somebody, like, he's reporting to.",
+        "",
+        "%% u1037:0-75 %%",
+        "DM: The question is, does Grash report to him or does he report to a higher-up?",
+        "",
+        "%% u1038:0-84 %%",
+        "Seeker: If I had to guess, I would guess there's some hidden actor that they both report to.",
+        "",
+        "%% u1039:0-7 %%",
+        "Kenzo: Agreed.",
+        "",
+        "%% u1040:0-61 %%",
+        "Seeker: Somehow it doesn't seem like Grash would be scared of Fausto.",
+        "",
+        "%% u1041:0-6 %%",
+        "Kenzo: Right."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: What does that, what does that, that say about mind control?",
+          "DM: Well, just in terms of, uh, ch- changing people.",
+          "Seeker: Yeah.",
+          "Kenzo: Oh, like what happened to me?",
+          "DM: Yeah, yeah, yeah."
+        ],
+        "after": [
+          "Seeker: I mean, doing a lot of preparation here.",
+          "Kenzo: [laughs] So how do we avoid...? We get to the list as fast as we can.",
+          "Seeker: Yeah, we're gonna enlist your gay friend to help.",
+          "Delwath: My gay friend?",
+          "Seeker: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "A proposed warning for Kaeso",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1056",
+        "endUid": "u1061"
+      },
+      "lines": [
+        "%% u1056:0-7, u1057:0-82, u1058:0-10 %%",
+        "Kenzo: I mean, when, when-- as soon as we're able to, we should, we should send these letters to, uh, Kaeso.",
+        "",
+        "%% u1059:0-23 %%",
+        "Seeker: We need to warn people.",
+        "",
+        "%% u1060:0-43, u1061:0-47 %%",
+        "Kenzo: Yeah, we definitely need to warn them that. We need to disseminate this information widely."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah.",
+          "Kenzo: Oh, right.",
+          "Delwath: Any, um... You think we can trust any of each other?",
+          "DM: No.",
+          "Seeker: The librarian seemed pretty smiles. And Hralgar is a friend."
+        ],
+        "after": [
+          "Seeker: I mean, surely people have some inkling. Like, there was a crazy commotion and suddenly disappeared. Fausto will probably tell people.",
+          "Wellby: Wow, that is still weird.",
+          "DM: Yeah, that was, uh, that was weird. Yeah, that was weird. Wow. Stop, please.",
+          "Seeker: So word will spread about something happening, and people may form their own interpretation based on their knowledge of us. More than enough.",
+          "Wellby: There must-"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Galen’s show and suspected deception",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1078",
+        "endUid": "u1083"
+      },
+      "lines": [
+        "%% u1078:0-53, u1079:0-17 %%",
+        "Seeker: You know who does that? Gabe Galen, is that his name? The guy that you-",
+        "",
+        "%% u1080:0-11 %%",
+        "Kenzo: Yeah, yeah.",
+        "",
+        "%% u1081:0-62, u1082:0-58, u1083:0-69 %%",
+        "Seeker: The illusion magic guy who's like, he somehow does not add up. Like, he's claiming things about himself that aren't true. I, I watched his show, and I can tell you, not all of that was legit."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: There must-",
+          "Delwath: Wow.",
+          "Kenzo: Well, what's like the Chardonian form of like, uh, you know, Cambridge Analytica?",
+          "Seeker: [laughs] Of misinformation?",
+          "Kenzo: Yeah. There must be like magic, magical misinformation campaigns to like, you know, sway the, sway the opinions of the public, minds of the public. Are there like-"
+        ],
+        "after": [
+          "Wellby: You think there are like, like, uh, spell, are there spells, hello, spell [laughs] they're like, you know.",
+          "Kenzo: Mind control population?",
+          "DM: We did it.",
+          "Delwath: Yeah. So we go back and clear our names.",
+          "Kenzo: We go back and we take charge for ourselves."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Grash’s appearance, reporting and Fausto’s wealth",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1125",
+        "endUid": "u1190"
+      },
+      "lines": [
+        "%% u1125:0-3, u1126:0-35, u1127:0-41, u1128:0-23, u1129:0-39, u1130:0-45 %%",
+        "Delwath: Um, uh, I wonder if Grash and Fausto... The shadows were not necessarily Grash's. He's probably cleansed. I just think Grash is what happens when somebody who's cleansed is too ac- too moral.",
+        "",
+        "%% u1131:0-21 %%",
+        "Seeker: Grash was a skeleton.",
+        "",
+        "%% u1132:0-27 %%",
+        "DM: Yeah, Grash was a skeleton.",
+        "",
+        "%% u1133:0-30 %%",
+        "Seeker: So like a skeleton of a human?",
+        "",
+        "%% u1134:0-33, u1135:0-19, u1136:0-28 %%",
+        "DM: He was nine feet tall with like a big cloak with like pinpoints of light for eyes.",
+        "",
+        "%% u1137:0-14, u1138:0-48, u1139:0-8, u1140:0-43, u1141:0-45, u1142:0-67, u1143:0-10, u1144:0-10, u1145:0-39, u1146:0-26, u1147:0-3, u1148:0-8, u1149:0-24, u1150:0-29, u1151:0-8, u1152:0-25, u1153:0-3 %%",
+        "((Speculation and table asides))",
+        "",
+        "%% u1154:0-12, u1155:0-70 %%",
+        "Seeker: We really... Do we have any sort of clue linking them aside from that non-reaction?",
+        "",
+        "%% u1156:0-34, u1157:0-43 %%",
+        "Wellby: What about the message from Grash? 'Cause we overheard him talking to someone.",
+        "",
+        "%% u1158:0-54 %%",
+        "Delwath: He was talking to somebody saying he kind of found it.",
+        "",
+        "%% u1159:0-78, u1160:0-67, u1161:0-4 %%",
+        "Seeker: There was duress. He was reporting to someone who was putting pressure on him. So someone more powerful than-- Someone who could squash him like a bug.",
+        "",
+        "%% u1162:0-21 %%",
+        "DM: Or at least had some-",
+        "",
+        "%% u1163:0-12, u1164:0-61, u1165:0-65, u1166:0-6, u1167:0-88, u1168:0-8 %%",
+        "((Speculation and table asides))",
+        "",
+        "%% u1169:0-34, u1170:0-30 %%",
+        "Wellby: Do we know where Fausto came from? Like, do you know his lineage?",
+        "",
+        "%% u1171:0-18 %%",
+        "Kenzo: He's from Chardon.",
+        "",
+        "%% u1172:0-18, u1173:0-35 %%",
+        "DM: He's from Chardon. We don't know what happened to him.",
+        "",
+        "%% u1174:0-47 %%",
+        "Kenzo: If he was born poor, born middle class, born...",
+        "",
+        "%% u1175:0-27 %%",
+        "Seeker: He came into money somehow.",
+        "",
+        "%% u1176:0-18, u1177:0-72, u1178:0-11 %%",
+        "DM: We don't know how. He wasn't super rich because he was-- everybody was talking about how he made money.",
+        "",
+        "%% u1179:0-6, u1180:0-9, u1181:0-56, u1182:0-12 %%",
+        "Kenzo: Right. And then- But whether he was-- No, I mean, we didn't really learn- Right. Right.",
+        "",
+        "%% u1183:0-29 %%",
+        "DM: ... the circumstances of his-",
+        "",
+        "%% u1184:0-76, u1185:0-5, u1186:0-92 %%",
+        "Kenzo: And then he was like, he was like a good student in the academy or whatever. Yeah. And then, and then once he came into that money, he like suddenly became like more powerful.",
+        "",
+        "%% u1187:0-5, u1188:0-45 %%",
+        "DM: Well, it's hard to-- I mean, we don't know exactly.",
+        "",
+        "%% u1189:0-16 %%",
+        "Kenzo: We know he was--",
+        "",
+        "%% u1190:0-63 %%",
+        "DM: He became more prominent because he was spreading money around."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Paro.",
+          "Seeker: That was a mess.",
+          "Kenzo: Oh, in the, during the ceremony. Yeah, that was terrible.",
+          "Seeker: It's a good thing that stuff could happen. And it's not totally...",
+          "DM: We're far from home. [laughs] It's just all very weird. What happened 20 years later?"
+        ],
+        "after": [
+          "Kenzo: What—",
+          "Seeker: Did his stained glass windows depict?",
+          "DM: Uh, the two who got animated and attacked you depicted people with swords, like knights. Um, the, the middle one was, um—",
+          "Kenzo: The one that didn't animate, uh, depicted—",
+          "DM: A... Well, like just, just like a rose window, right? Like it's not a scene, but just the like colors."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Identifying the stolen mace",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1311",
+        "endUid": "u1317"
+      },
+      "lines": [
+        "%% u1311:0-67 %%",
+        "Seeker: So pre-invisibility, I will identify using the goggles on the mace.",
+        "",
+        "%% u1312:0-5, u1313:0-16 %%",
+        "DM: Okay. Um, the mace is-",
+        "",
+        "%% u1314:0-16, u1315:0-26, u1316:0-5 %%",
+        "((Brief table interruption))",
+        "",
+        "%% u1317:0-29 %%",
+        "DM: The mace is a Mace of Terror."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Do it before you cast.",
+          "Delwath: No, only if you attack.",
+          "DM: No, casting a spell. There's invisibility, and you get invisibility if you cast a spell.",
+          "Delwath: Could be wrong.",
+          "DM: I don't know. He will cast a spell. And anything you're wearing or carrying is invisible as well, so."
+        ],
+        "after": [
+          "Wellby: [laughs]",
+          "Delwath: Oh, I've always wanted one of those.",
+          "DM: It has three charges. You can use an action to expend one charge to release a wave of terror.",
+          "Seeker: Terrible.",
+          "DM: Each creature of your choice within a thirty-foot radius extending from you makes a wisdom saving throw or becomes frightened. Top. Does it have any pluses? No pluses. It can repeat the saving throw at the end of each of its turn, ending the effect on a success. That's an action. That sucks."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The candle’s earlier exchange",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1381",
+        "endUid": "u1389"
+      },
+      "lines": [
+        "%% u1381:0-49 %%",
+        "Seeker: Oh, and we lost the blacklight candle too, right?",
+        "",
+        "%% u1382:0-5, u1383:0-6 %%",
+        "DM: Yeah. Right?",
+        "",
+        "%% u1384:0-29 %%",
+        "Wellby: What's the blacklight candle?",
+        "",
+        "%% u1385:0-43 %%",
+        "Seeker: It casts darkness instead of light, and we-",
+        "",
+        "%% u1386:0-30 %%",
+        "Wellby: Give it to Sura at this point.",
+        "",
+        "%% u1387:0-58, u1388:0-4, u1389:0-47 %%",
+        "Seeker: It was, it ended up being worth way over its market value—yeah—... in that exchange, so that was a good trade."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: The bottom, yeah.",
+          "Seeker: Oh, yeah. Ring of the Warded Mind. Okay, got it.",
+          "DM: The ringing, the... Wait, the pearl, you should be able to control the power, too.",
+          "Seeker: But it's not showing up as-",
+          "DM: You have to equip it before you can attune to it. Oh, that's right. Pearl, oh, nope."
+        ],
+        "after": [
+          "Delwath: We had it for a while and didn't use it, so why waste money? Um, so we're gonna send Wellby to buy four horses.",
+          "Seeker: Okay.",
+          "Delwath: Then we're going to, then we're gonna stay invisible for a little bit.",
+          "Kenzo: Okay.",
+          "Delwath: Um..."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Fausto’s breakfast and his scrying mirror",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1850",
+        "endUid": "u1893"
+      },
+      "lines": [
+        "%% u1850:0-41, u1851:0-3 %%",
+        "DM: Fausto is, Fausto is, um, sitting in the, uh—",
+        "",
+        "%% u1852:0-13 %%",
+        "Kenzo: The like, um—",
+        "",
+        "%% u1853:0-93, u1854:0-25, u1855:0-32, u1856:0-22, u1857:0-16, u1858:0-14, u1859:0-3, u1860:0-53, u1861:0-44, u1862:0-49, u1863:0-3, u1864:0-8, u1865:0-16, u1866:0-42, u1867:0-3, u1868:0-12, u1869:0-25, u1870:0-15, u1871:0-5 %%",
+        "DM: Entry chi- the like room where you met him first, the like in the alley, table and stuff, um, eating a soft-boiled egg. [laughs] As he watches the scry. Um, Scarlett, you see, um, here, right? See him, yeah.",
+        "",
+        "Um, you watch him for a few minutes, um, and he is, uh... So for a few minutes he's, he's just eating. Pushes the, uh, pushes his breakfast dishes away. Um, they are s- uh, something unseen picks them up and carries them off. Um, then he, uh, take- He s- he sits down. He takes out a, um...",
+        "",
+        "%% u1872:0-117, u1873:0-59, u1874:0-3, u1875:0-30 %%",
+        "((Portrait request and scrying mechanics))",
+        "",
+        "%% u1876:0-19, u1877:0-2, u1878:0-106, u1879:0-56, u1880:0-13, u1881:0-26, u1882:0-17, u1883:0-3, u1884:0-20, u1885:0-65, u1886:0-3 %%",
+        "DM: He takes out a, um, a, a round silver mirror that has, um, sort of black and, uh, black and red like twisting snakes going around the edge of it. It looks, um, extremely expensive to me. To kinda hit.",
+        "",
+        "He begins casting a spell. Cool. What spell? ((Arcana adjudication))",
+        "",
+        "%% u1887:0-35, u1888:0-3 %%",
+        "((Arcana roll modifiers))",
+        "",
+        "%% u1889:0-3, u1890:0-18, u1891:0-9, u1892:0-75, u1893:0-11 %%",
+        "DM: Um, he's casting Scry. Ah, okay. The casting time's 10 minutes, so your Scry ends before his spell finishes. Yeah, so..."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: You don't know that someone scryed you if you fail your save.",
+          "Delwath: Correct. Right. So it's just, Marcella's not consciously being like... It's not like Delwath. It's not like there's a... \"Delwath's Scry spell is being cast on you. Would you like to save against it?\" Just, you made the save. So what about Fausto? Um.",
+          "Kenzo: This is like—",
+          "DM: Seven more, maybe.",
+          "Delwath: Um, yeah, probably more like nine."
+        ],
+        "after": [
+          "Seeker: So he's not defending against Scry.",
+          "Delwath: So he's trying to cast Scry. Fascinating.",
+          "Seeker: Oh, well, he's probably just monitoring the channels.",
+          "Delwath: I mean, you need an expensive item for Scry. What's yours? Oh, I forget. What did I get? I got that cool item. No, I thought about this, and I made something up, and I bought it.",
+          "DM: I know you spent the money, but I'm gonna ask what it was."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Marcella seen sleeping in the mountains",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2241"
+      },
+      "lines": [
+        "%% u2152:0-14, u2153:0-16 %%",
+        "Wellby: That's creepy. She is sleeping.",
+        "",
+        "%% u2154:0-14, u2155:0-33, u2156:0-31 %%",
+        "Kenzo: That's creepy. I just wanna make sure she's not- No, no, I know. Sleeping where?",
+        "",
+        "%% u2157:0-3 %%",
+        "Delwath: Um...",
+        "",
+        "%% u2158:0-31, u2159:0-41 %%",
+        "Kenzo: I'm gonna look up at the stars. No, no, but where, where is she sleeping?",
+        "",
+        "%% u2160:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u2161:0-25, u2162:0-23, u2163:0-48, u2164:0-28 %%",
+        "DM: You can't look... I mean, you don't have control. You can look around a little bit, but not, um... Well, where is she sleeping?",
+        "",
+        "%% u2165:0-16 %%",
+        "Kenzo: Outside, inside?",
+        "",
+        "%% u2166:0-35 %%",
+        "DM: Outside in the mountains somewhere.",
+        "",
+        "%% u2167:0-29, u2168:0-37 %%",
+        "Wellby: Okay, that's good. Very good. All right, mountains are good enough.",
+        "",
+        "%% u2169:0-30 %%",
+        "Kenzo: Do we recognize the mountains?",
+        "",
+        "%% u2170:0-3, u2171:0-25 %%",
+        "Delwath: No. I mean, there's only one-",
+        "",
+        "%% u2172:0-7, u2173:0-21 %%",
+        "Kenzo: No cap? Yeah, great question.",
+        "",
+        "%% u2174:0-46, u2175:0-16 %%",
+        "DM: It's, it's the middle of the night. It's dark. There's nothing.",
+        "",
+        "%% u2176:0-35 %%",
+        "Kenzo: Does darkvision, darkvision doesn't—",
+        "",
+        "%% u2177:0-6 %%",
+        "Delwath: Apply?",
+        "",
+        "%% u2178:0-45 %%",
+        "DM: It's 60 feet. We can see Marcella at 60 feet.",
+        "",
+        "%% u2179:0-7, u2180:0-62 %%",
+        "Delwath: I mean, what's the immediate... Is it, is she in a pass high up, like-",
+        "",
+        "%% u2181:0-23, u2182:0-11, u2183:0-3, u2184:0-32, u2185:0-65, u2186:0-35, u2187:0-24 %%",
+        "DM: It's boosted elevation. She's high, um, on sort of a loose stone gravel. Um, just not in a town or anything, just more like in a clearing. Um, not a lot of vegetation around. Probably fairly high up.",
+        "",
+        "%% u2188:0-2, u2189:0-85, u2190:0-68, u2191:0-5, u2192:0-9, u2193:0-71, u2194:0-5, u2195:0-17, u2196:0-45, u2197:0-16, u2198:0-38, u2199:0-23, u2200:0-14, u2201:0-29, u2202:0-21, u2203:0-15, u2204:0-64, u2205:0-42, u2206:0-7, u2207:0-8, u2208:0-50, u2209:0-5 %%",
+        "((Time-zone speculation))",
+        "",
+        "%% u2210:0-17, u2211:0-6, u2212:0-88 %%",
+        "Delwath: ... where she is. Right? I'm actually gonna scry, like, uh, retcon scry after the long rest, and then short rest.",
+        "",
+        "%% u2213:0-5 %%",
+        "DM: Sure.",
+        "",
+        "%% u2214:0-38, u2215:0-96 %%",
+        "Delwath: So then it would be, would be morning. And if it's 5:00 in the morning in Chardon, right, the mountains are probably one hour at least.",
+        "",
+        "%% u2216:0-24 %%",
+        "DM: [laughs] It is, it is...",
+        "",
+        "%% u2217:0-100, u2218:0-5, u2219:0-6, u2220:0-25, u2221:0-5, u2222:0-18, u2223:0-51, u2224:0-30, u2225:0-33, u2226:0-3, u2227:0-18, u2228:0-19, u2229:0-8, u2230:0-33, u2231:0-29, u2232:0-21, u2233:0-9 %%",
+        "((Film reference and timing discussion))",
+        "",
+        "%% u2234:0-103 %%",
+        "Wellby: I feel like you could still say yes, though, if it is farther east, even if it's incrementally lighter.",
+        "",
+        "%% u2235:0-32, u2236:0-37, u2237:0-14 %%",
+        "DM: Yeah, it's a little bit lighter. Not, not so much you can, like, judge exactly where.",
+        "",
+        "%% u2238:0-123 %%",
+        "Delwath: I'm not trying to just... I'm, I'm looking for a clue that says she's not, that she's made it in the mountains of the east.",
+        "",
+        "%% u2239:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u2240:0-54, u2241:0-27 %%",
+        "Delwath: You can just say yes and find a clue that she has made it. And I will scry Fausto."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Wait, I've got some, like, animal, make animals feel good—",
+          "DM: Spells, I think. [clears throat]",
+          "Delwath: Well, if we're, if we're, um, um, out for a bit, uh...",
+          "DM: How many, how long do we have till dawn? Five hours.",
+          "Delwath: All right. Short rest, two scries, long rest. So that's... Well, we can't do this. I can't do this. This is a rest. All right, so middle of the night we scry. Well, I'm gonna find Marcella, see if she's... I'm happy to just see her sleeping, but, um."
+        ],
+        "after": [
+          "Kenzo: I believe. [laughs] Fausto? Is that a gay bar?",
+          "Unknown: [laughs]",
+          "DM: He's probably the biggest sinner.",
+          "Delwath: Yeah. Wait, do I have a white? No, you have it.",
+          "Seeker: Probably we should make, physically make the pictures. What, what did he look like again? Fausto?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The book’s account of uncertain portals",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2636",
+        "endUid": "u2660"
+      },
+      "lines": [
+        "%% u2636:0-20, u2637:0-34 %%",
+        "Kenzo: So what does it say? Oh yeah, so I flipped through the-",
+        "",
+        "%% u2638:0-61, u2639:0-20, u2640:0-8, u2641:0-20, u2642:0-12, u2643:0-69, u2644:0-21, u2645:0-35, u2646:0-120, u2647:0-99, u2648:0-71 %%",
+        "DM: Um, there are, there are lots of mentions of stone monuments. They are either, um, warnings to, um, warn the fae not to come, warnings to warn people that fae like to do mischief in these places, uh, warnings that a-- that this is a place where a portal exists, but only appears if under very limited circumstances, like only on the last new moon of the year or only on the, you know, the seventh full moon of the year, or only when the full moon falls on a particular date, um, or only every seventh year on the seventh day of the seventh month.",
+        "",
+        "%% u2649:0-39 %%",
+        "((Blood-sacrifice joke))",
+        "",
+        "%% u2650:0-125, u2651:0-119, u2652:0-34 %%",
+        "DM: Hralgar has like this, there's like three pages of just a list of every single possible rumors he's ever collected about the, the temporary portals to the Feywild, the, what he calls the, um, unreliable portals or the, um, in academic terms, the transient transubstantial portals.",
+        "",
+        "%% u2653:0-38 %%",
+        "Kenzo: Does he have any, uh, maps of portals?",
+        "",
+        "%% u2654:0-16, u2655:0-29, u2656:0-27, u2657:0-3, u2658:0-67, u2659:0-32, u2660:0-17 %%",
+        "DM: Like where they- Yeah, he have-- he has a map. There's four that he knows. Uh, not here. Like, there's one that's like southeast of the Elderwood. There's one that's like due east of the Elderwood."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah. So what else? Does the book say anything about, uh, the synopsis?",
+          "Seeker: Yeah, let's-- I'll, I'll flip through it again.",
+          "Delwath: For the three of us, we just woke up.",
+          "Kenzo: Yeah. Yeah, 'cause you slept. I mean, they didn't get a long rest.",
+          "DM: You got, you, you got like, you got four hours of sleep last night. And we woke up in this timeless dreamland. Yeah, yeah, yeah."
+        ],
+        "after": [
+          "Unknown: [laughs]",
+          "DM: There's one that's-",
+          "Kenzo: I think this is a warning to the fae to not come here because drink water and you will turn to stone. I don't know. I don't know. Yeah, I guess Chardon could drink one of them fountains there. I mean, it could have been an ancient one, but-",
+          "Seeker: Then we still do have to turn. Well, Seeker Fergus Marc will start a separate area in the notebook that we- I did that. Two little parts.",
+          "Kenzo: You should definitely add us some more."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Remembering the portable-hole craftsman",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2744",
+        "endUid": "u2773"
+      },
+      "lines": [
+        "%% u2744:0-138 %%",
+        "Kenzo: I just keep thinking about, uh, the guy that made the hole and how, like, he was like, \"Ah, I can make, like, super cool, like, you know-\"",
+        "",
+        "%% u2745:0-45 %%",
+        "DM: I know. You didn't get a super cool champion.",
+        "",
+        "%% u2746:0-57 %%",
+        "Wellby: This is gonna be like three months or something like that.",
+        "",
+        "%% u2747:0-44, u2748:0-22 %%",
+        "DM: Yeah, he said it would be like three months. He makes, he can make-",
+        "",
+        "%% u2749:0-10 %%",
+        "Kenzo: We should-",
+        "",
+        "%% u2750:0-25 %%",
+        "DM: ... interdimensional tech.",
+        "",
+        "%% u2751:0-102 %%",
+        "Kenzo: We should send him a message to have him make one for us now, so that the next time we go back to, uh-",
+        "",
+        "%% u2752:0-24, u2753:0-30 %%",
+        "Wellby: I really like this idea. Yeah, I really like this idea.",
+        "",
+        "%% u2754:0-14 %%",
+        "Kenzo: Let's do that.",
+        "",
+        "%% u2755:0-95 %%",
+        "DM: How would we send... I mean, how would you send him a message and why would he do this message?",
+        "",
+        "%% u2756:0-5, u2757:0-20, u2758:0-8, u2759:0-28, u2760:0-9, u2761:0-11, u2762:0-34, u2763:0-75, u2764:0-57, u2765:0-36, u2766:0-43, u2767:0-41, u2768:0-40, u2769:0-73 %%",
+        "((Message-delivery logistics))",
+        "",
+        "%% u2770:0-49, u2771:0-48, u2772:0-75, u2773:0-45 %%",
+        "Kenzo: No, we're not doing that. All right, we're, we're... Anyways, let's remember this, though, 'cause we—yeah. Once we have the, once we're at a place with communication abilities, let's get him there, get him to work on that."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I-",
+          "Kenzo: No, but I-",
+          "DM: The hole, the hole can't move.",
+          "Kenzo: The hole, actually, it's a very different-",
+          "DM: And then peel up the corners. [in audible] peel up the corners."
+        ],
+        "after": [
+          "Delwath: That'll be sweet. So we're invisible. Delwath has short rest, invisibility continues.",
+          "Kenzo: I guess.",
+          "DM: Actually...",
+          "Delwath: But why, why are we doing this? Shouldn't, uh, well, basically while everyone's asleep.",
+          "Kenzo: You guys may as well sleep, too. Yeah. Well, really, the horse does, too. And the horse. All right, we'll see."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "The hunter’s first nightmare",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2809",
+        "endUid": "u2830"
+      },
+      "lines": [
+        "%% u2809:0-59, u2810:0-26, u2811:0-3, u2812:0-34, u2813:0-73, u2814:0-41, u2815:0-52, u2816:0-15, u2817:0-42, u2818:0-29, u2819:0-68, u2820:0-11, u2821:0-96, u2822:0-41 %%",
+        "DM: In the middle of the night as you two are sleeping, um, you both see in your dreams a, um, a humanoid looking creature with a spear that has like, you know, some black flames spilling across the top. A red, bright red mask covering its face. And it, it begins to charge towards you with a spear held like this. And it says, um, \"You cannot run forever.\" And then it runs through you.",
+        "",
+        "And Wellby, you sort of wake with a start and then, um, pass it off. Uh, Seeker, you ((Psychic damage)) are shaken by the nightmare such that you do not get, you do not get any benefit of your sleep.",
+        "",
+        "%% u2823:0-4, u2824:0-3, u2825:0-46, u2826:0-19, u2827:0-6, u2828:0-14 %%",
+        "((Spell-choice discussion))",
+        "",
+        "%% u2829:0-195, u2830:0-46 %%",
+        "DM: Basically, you spend the entire night with this shadow creature chasing you, and every time it comes close, it throws the spear and it pierces through your body, and you wake up with a start only to find the shadow creature still chasing you."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: What's my-",
+          "Wellby: 17 plus two.",
+          "Kenzo: Sure. 17 plus zero.",
+          "DM: Nice. Uh, okay. Um.",
+          "Kenzo: That's for the, uh, the part you covered. In the, um, in the middle of the—"
+        ],
+        "after": [
+          "Kenzo: But if that's the spell it's casting, I'll certainly finish it. So slugged. [laughs]",
+          "Seeker: So, so elvish.",
+          "Kenzo: Fucking elves. [laughs]",
+          "DM: So around 5:00 in the morning-",
+          "Kenzo: Fausto, you good?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Marcus accepts the injured horse",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3004",
+        "endUid": "u3061"
+      },
+      "lines": [
+        "%% u3004:0-5, u3005:0-3, u3006:0-60, u3007:0-23, u3008:0-3, u3009:0-55, u3010:0-41, u3011:0-42 %%",
+        "DM: Okay. Um, at 2:00 in the afternoon, most people are out in the fields. But, but you see, like, um, farmer harvesting, like, up in a tree picking apricots. Hops down as you two approach and kind of doffs his cap at you and says, \"Traveler.\"",
+        "",
+        "%% u3012:0-11, u3013:0-55, u3014:0-54, u3015:0-44, u3016:0-12, u3017:0-22, u3018:0-27, u3019:0-100, u3020:0-14 %%",
+        "Wellby: \"Hey there. I, I'm sorry to bother you, but I'm in a bit of a bind. I'm headed upriver quickly to get these horses to, uh, a group of my people who are gone far ahead. But this one had a bad muscle pull. I just can't get him going. Now, it's worth a lot more to me to get there on time than it is to get there with all four of them. Want a horse?\"",
+        "",
+        "%% u3021:0-12, u3022:0-10, u3023:0-13 %%",
+        "DM: Like, \"Yes.\" Go for it. Choose. \"Me?\"",
+        "",
+        "%% u3024:0-38 %%",
+        "Wellby: \"Yeah, I'll trade you for an apricot.\"",
+        "",
+        "%% u3025:0-37 %%",
+        "DM: \"Yeah, take as many as you can pick.\"",
+        "",
+        "%% u3026:0-24, u3027:0-30 %%",
+        "Wellby: \"I really like apricots. I only just want one. Thanks.\"",
+        "",
+        "%% u3028:0-22, u3029:0-43 %%",
+        "DM: Tosses. \"My lucky day. Wow, it must have blessed me this morning.\"",
+        "",
+        "%% u3030:0-68, u3031:0-81, u3032:0-50, u3033:0-5 %%",
+        "((Table aside and proposed scouting))",
+        "",
+        "%% u3034:0-41 %%",
+        "DM: Takes your horse, says, \"Thanks, friend.\"",
+        "",
+        "%% u3035:0-25 %%",
+        "Wellby: \"Yeah, what's your name?\"",
+        "",
+        "%% u3036:0-11 %%",
+        "DM: Uh, Marcus.",
+        "",
+        "%% u3037:0-16, u3038:0-38, u3039:0-19, u3040:0-7, u3041:0-3, u3042:0-6, u3043:0-6, u3044:0-6, u3045:0-35, u3046:0-37, u3047:0-5, u3048:0-3, u3049:0-10, u3050:0-17, u3051:0-32, u3052:0-5, u3053:0-23 %%",
+        "((Joking horse names))",
+        "",
+        "%% u3054:0-4, u3055:0-10 %%",
+        "DM: Wow. Thank you.",
+        "",
+        "%% u3056:0-5, u3057:0-10, u3058:0-114, u3059:0-134, u3060:0-7 %%",
+        "Wellby: \"Hey, by the by, because I was sort of contracted to deliver four horses, and I'm only delivering three, it would be a favor to me, you know, not to say that a passing halfling gave you a spare horse, because it would sort of reflect badly on me as a businessperson. Right?\"",
+        "",
+        "%% u3061:0-20 %%",
+        "DM: Okay. [upbeat music]"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay. This is, um-",
+          "Kenzo: I made that up too, if that's what you're asking. I'm pretty sure that's right.",
+          "DM: It's, it, it's true, yeah. Yeah. The-- This area is, it's pretty, um, uh, so, so you've gotten a little bit out of, a little bit out of-- There's still some, some wineries and stuff, but this particular area where the horse threw its leg, uh, are orchards.",
+          "Apricots, mostly, um, which are, which are now ripe. So as you, as you, like, walk to the-- this little, um, it's not really a little farm. Like, a lot of the, um, a lot of the farms are owned by wealthy thieves, right? So it's actually a fairly big estate that has a, a handful of, like, small houses, um, outbuildings where the, um, uh, you know, the tenant farmers, uh, tenants, the tenders and fruit pickers live. Um, so you wanna go to the, like, estate or one of the small houses?",
+          "Kenzo: Ooh, small house."
+        ],
+        "after": [
+          "Wellby: All right. Well, I'll head down the road and call a hawk and see if anything's following.",
+          "Seeker: Is this the kind of character who would tell someone the whole story about how they were not supposed to tell anyone?",
+          "DM: Probably.",
+          "Kenzo: But that's on purpose. But that's okay. That, that, that's, that's, that's good.",
+          "DM: It all serves the, the point here. Uh, make a animal handling check."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "A legion making camp ahead",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u3134",
+        "endUid": "u3164"
+      },
+      "lines": [
+        "%% u3134:0-3, u3135:0-4, u3136:0-21, u3137:0-69, u3138:0-75 %%",
+        "DM: Um, the, uh, there's like a, a whole legion of troops s- setting up a evening camp outside the city. They seem like they've been on the march for, from Chardon for a while now.",
+        "",
+        "%% u3139:0-12, u3140:0-15, u3141:0-14, u3142:0-29, u3143:0-62, u3144:0-33, u3145:0-47, u3146:0-25, u3147:0-15 %%",
+        "((Road and destination clarification))",
+        "",
+        "%% u3148:0-20 %%",
+        "Seeker: How big is a legion?",
+        "",
+        "%% u3149:0-52, u3150:0-13, u3151:0-24, u3152:0-29 %%",
+        "DM: Um, this particular configuration of troops is maybe 500 soldiers. We can take it. [laughs] Uh, what are the two of them?",
+        "",
+        "%% u3153:0-45, u3154:0-2, u3155:0-37, u3156:0-54, u3157:0-12 %%",
+        "((Scrying rules))",
+        "",
+        "%% u3158:0-115 %%",
+        "Wellby: Was there, was there a checkpoint on the road where they stopped the people or anything, or there's just in a camp?",
+        "",
+        "%% u3159:0-151, u3160:0-21 %%",
+        "DM: No, I mean, right now the troops seem to be setting up a temporary, like they're, they're just setting their tents and, and setting up a picket patrol. But outside the city.",
+        "",
+        "%% u3161:0-30 %%",
+        "Kenzo: If we can get a little closer.",
+        "",
+        "%% u3162:0-27 %%",
+        "DM: Few miles outside the city.",
+        "",
+        "%% u3163:0-38 %%",
+        "Wellby: Not like across the road or something.",
+        "",
+        "%% u3164:0-3 %%",
+        "DM: No."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: No large, um, uh-",
+          "Wellby: Militias or-",
+          "DM: Militias or anything. There are-- I mean, there are troops somewhere. There seem to be, especially, um, it's a small group of the rear guard of some legion heading east. And you can see in the distance, um, say you're looking through it. Which way are you facing? Go behind you first. Um, yeah, there's nothing really, there's nothing really behind you.",
+          "Um, but when you, when you circle around ahead, like camped outside this city and about 15 miles, which is about getting to the city. I mean, you-",
+          "Wellby: Yeah."
+        ],
+        "after": [
+          "Wellby: All right, I think it's about...",
+          "Seeker: Well, I guess we can strategize 'cause we're-",
+          "DM: Okay. Um, so it's about 2:00 in the afternoon. You can, um... Uh, so you've got three horses now. Your pace is gonna be a bit slow. Although they had a good hour long breather while you were scouting, so it's like-",
+          "Wellby: I'll give them some handouts.",
+          "DM: S- Okay. It's now like 4:00 in the afternoon. You've got maybe three hours of daylight left."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The hunter demands surrender",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u5087",
+        "endUid": "u5123"
+      },
+      "lines": [
+        "%% u5087:0-5, u5088:0-50, u5089:0-8, u5090:0-28, u5091:0-15, u5092:0-88, u5093:0-106, u5094:0-24, u5095:0-5, u5096:0-3, u5097:0-64, u5098:0-57 %%",
+        "DM: Yeah. Seeker, ((Psychic damage)) toss and turn all night—that's terrible—... with nightmares of wolves tearing you apart, and a, the same creature you saw before with the red mask and the spear standing and laughing and saying over and over again, \"Time to surrender.\"",
+        "",
+        "What's the red mask look like? Um, it's like, almost like a, it's like, um, like a piece like this, and then like stripes along the space covering his mouth—",
+        "",
+        "%% u5099:0-57 %%",
+        "Delwath: Um, with like black in between the red, and then like one—",
+        "",
+        "%% u5100:0-40, u5101:0-25, u5102:0-24, u5103:0-29, u5104:0-34, u5105:0-21 %%",
+        "DM: Nose piece protruding on the right side. The hair feels more fade. No hair, just, just a... Just sort of like [crosstalk] Yeah, sort of dark [crosstalk] Um, what are you scrying?",
+        "",
+        "%% u5106:0-22, u5107:0-26, u5108:0-29, u5109:0-5, u5110:0-27, u5111:0-10 %%",
+        "((Separate scrying attempt and roll))",
+        "",
+        "%% u5112:0-6, u5113:0-17, u5114:0-51, u5115:0-11, u5116:0-3, u5117:0-58, u5118:0-29, u5119:0-4, u5120:0-29, u5121:0-31 %%",
+        "DM: Seven. So morning comes. Um, horses are healed, but Seeker's in rough shape. Yeah, yeah. Uh, let me see. So what are you doing? Just riding to the inn? It kind of goes up on riding. Yep. Everybody hops in the mirror. Seeker doesn't have any spells.",
+        "",
+        "%% u5122:0-45 %%",
+        "Seeker: That's true. Oh, so I don't get my long rest?",
+        "",
+        "%% u5123:0-32 %%",
+        "DM: Yeah, you don't get a long rest."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: [smacks lips] That's funny. They're not at the staircase. Okay. I'm gonna scry. Do I have spells left?",
+          "Kenzo: Let's check that here.",
+          "Delwath: He's sleeping for eight hours. Twelve. I'm gonna scry Fausto, though.",
+          "Kenzo: Have you-- Has anybody drawn a picture of him yet?",
+          "Seeker: I've seen him at a bad time too, but..."
+        ],
+        "after": [
+          "Seeker: Shit. We should have a look around in daylight at that s- scarred area of the earth behind us now. See how far it extends.",
+          "DM: I mean, we got past it. We left it.",
+          "Seeker: We did.",
+          "DM: Yeah. Yeah, you're-- So you've left it well behind at this point. So if you're-- So you're starting, you're not getting a super early start this morning if you're trying to get your long rest in and everything. So starting at eight AM. Well, if Seeker's having terrible nightmares, might as well just get started early. It's four hours, right? But Seeker doesn't wake up. Yeah. He's still out.",
+          "So Kenzo is— Everybody hops in the mirror, and Kenzo starts riding [crosstalk]"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Sura receives news of the petrification",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u5205",
+        "endUid": "u5279"
+      },
+      "lines": [
+        "%% u5205:0-33, u5206:0-18, u5207:0-3, u5208:0-11, u5209:0-18, u5210:0-3, u5211:0-6, u5212:0-35, u5213:0-54, u5214:0-18, u5215:0-75, u5216:0-19, u5217:0-29, u5218:0-32, u5219:0-25, u5220:0-27, u5221:0-55, u5222:0-65, u5223:0-3, u5224:0-24, u5225:0-14, u5226:0-25, u5227:0-10, u5228:0-17, u5229:0-18, u5230:0-42, u5231:0-36, u5232:0-28, u5233:0-26, u5234:0-38, u5235:0-28, u5236:0-81, u5237:0-3, u5238:0-68, u5239:0-57 %%",
+        "DM: Well, it's not middle of the day. It's like evening. Um, uh, Sura is sitting in a tent. Um, a, uh, pretty substantial, elaborate tent. You can't see her in it because she's inside the tent. It looks like, uh, it's like a big, you know, there's like room for eight people or something. Um, and she is, um, uh, sh- she is currently, um, it looks like she's waiting for, uh, for somebody. She is, um, flipping through, um, a prayer book, like a, a book of daily, of daily prayers.",
+        "",
+        "Um, about five minutes into the scry, she looks up and you see a, um, uh, a messenger come in. Um, he's been, uh, looks like he's been, um, riding hard. He's tired. And Sura looks up. When she looks up, she looks concerned and anxious to see this, this messenger. And she says, uh, \"Any word? Can, can anybody at the... Does anybody seem to know what to do?\" Uh, and the messenger, they, they talk for a moment, and the messenger says, um, \"I rode all the way to Tokra. But the walking ones are not sure how to turn something back from stone. I don't know how you think you can be stopped from that.\"",
+        "",
+        "%% u5240:0-27 %%",
+        "Seeker: Who's been turned to stone?",
+        "",
+        "%% u5241:0-22 %%",
+        "DM: Well, what do you say?",
+        "",
+        "%% u5242:0-9 %%",
+        "Kenzo: Uh, what?",
+        "",
+        "%% u5243:0-27 %%",
+        "DM: What turned Tokra to stone?",
+        "",
+        "%% u5244:0-11 %%",
+        "Wellby: The person.",
+        "",
+        "%% u5245:0-12 %%",
+        "DM: She, um, uh-",
+        "",
+        "%% u5246:0-32 %%",
+        "Wellby: Looses back a message, she says.",
+        "",
+        "%% u5247:0-40, u5248:0-25, u5249:0-3, u5250:0-7, u5251:0-22, u5252:0-14, u5253:0-28 %%",
+        "DM: No, she, she keeps, she, she's positive. \"I will continue to pray. Uh, let me, let me see that she... There is no...\" Why would the sword do that?",
+        "",
+        "%% u5254:0-15 %%",
+        "Seeker: Sword did that.",
+        "",
+        "%% u5255:0-26 %%",
+        "DM: Do we know what sword did?",
+        "",
+        "%% u5256:0-29 %%",
+        "Seeker: Wait, what sword did we give?",
+        "",
+        "%% u5257:0-3, u5258:0-29 %%",
+        "DM: Uh- The sword we took from Agata.",
+        "",
+        "%% u5259:0-31 %%",
+        "Delwath: We told him where it came from.",
+        "",
+        "%% u5260:0-18 %%",
+        "Seeker: But it has some...",
+        "",
+        "%% u5261:0-33 %%",
+        "Wellby: It's like a reptile or something.",
+        "",
+        "%% u5262:0-4, u5263:0-14 %%",
+        "DM: Yes. Identified it.",
+        "",
+        "%% u5264:0-11 %%",
+        "Seeker: It will do.",
+        "",
+        "%% u5265:0-25, u5266:0-4, u5267:0-54, u5268:0-28, u5269:0-110, u5270:0-17, u5271:0-37 %%",
+        "DM: Identified as an agathis. Ugh. That's pretty funny. [laughs] So that's totally Agata. Um, with some ease. [laughs] She, she says, uh, the, that, uh, the messenger says that man Govir at the archives was very helpful, he said. He will look, but until we know more, I'm not sure that—",
+        "",
+        "%% u5272:0-22, u5273:0-27, u5274:0-25, u5275:0-10, u5276:0-6, u5277:0-14 %%",
+        "((Curse-removal rules and table jokes))",
+        "",
+        "%% u5278:0-10, u5279:0-23 %%",
+        "DM: Of course. And then the scry ends."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Not a fast one. I'm gonna scry Sura. We-",
+          "DM: Okay.",
+          "Delwath: Uh, tell me if that succeeds or I'll tell you if it succeeds.",
+          "DM: That succeeds.",
+          "Delwath: Is what Sura will do, middle of the day."
+        ],
+        "after": [
+          "Delwath: Now I'm gonna scry Kadmos.",
+          "Kenzo: Ooh, that's a good one. Good one. Where the fuck are those guys? They're in the room behind you.",
+          "Unknown: [laughs] [laughs]",
+          "Wellby: Coming from inside the house.",
+          "Seeker: Exactly."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Kadmos answers the scry with the top",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e033",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u5288",
+        "endUid": "u5332"
+      },
+      "lines": [
+        "%% u5288:0-85, u5289:0-3, u5290:0-7, u5291:0-3, u5292:0-8, u5293:0-11, u5294:0-88, u5295:0-15, u5296:0-45, u5297:0-37, u5298:0-58, u5299:0-11, u5300:0-9, u5301:0-19, u5302:0-4 %%",
+        "DM: Kadmos is, um, sitting on a road, uh, making dinner, talking to, or sitting with, um, uh, Casian, uh, Antonia. And Hektor. But that should do. And he's, he's sitting a little bit apart from them, and he is like, is just kind of staring at the three, at the three paintings. Seems almost like he's watching them. It's always, it's like constantly sort of looking at them.",
+        "",
+        "And then he looks up, and stares right at you.",
+        "",
+        "%% u5303:0-53, u5304:0-11, u5305:0-48, u5306:0-36, u5307:0-34, u5308:0-42, u5309:0-31, u5310:0-13, u5311:0-12, u5312:0-44, u5313:0-12, u5314:0-37 %%",
+        "((Scrying rules and table aside))",
+        "",
+        "%% u5315:0-18, u5316:0-37, u5317:0-15, u5318:0-37, u5319:0-54, u5320:0-62, u5321:0-20, u5322:0-27 %%",
+        "DM: ... he just looks, and then he, he reaches into his bag, and he holds up the top in his hand, closes his eyes, and then just looks at them, and it continues to spin. And he opens his eyes and he says, \"You should have this now.\" And he puts it down. Puts it down at a distance.",
+        "",
+        "%% u5323:0-34 %%",
+        "Seeker: So he's saying, \"I know it's you.\"",
+        "",
+        "%% u5324:0-12, u5325:0-61, u5326:0-14 %%",
+        "DM: It's a joke. Well, of course he doesn't know actually that it's us, right? He's guessing.",
+        "",
+        "%% u5327:0-11 %%",
+        "Kenzo: Accurately.",
+        "",
+        "%% u5328:0-82 %%",
+        "DM: Maybe he's said this to, like, four other people who have scryed him, but no idea.",
+        "",
+        "%% u5329:0-34, u5330:0-13 %%",
+        "Kenzo: [laughs] They're like scrying him. Yes, I guess.",
+        "",
+        "%% u5331:0-77, u5332:0-49 %%",
+        "DM: He's just, he's just saving this line for every time he sees a scry detector. Man, permanent see invisibility is really useful."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Ooh, that's a good one. Good one. Where the fuck are those guys? They're in the room behind you.",
+          "Unknown: [laughs] [laughs]",
+          "Wellby: Coming from inside the house.",
+          "Seeker: Exactly.",
+          "Unknown: He has a scry back."
+        ],
+        "after": [
+          "Kenzo: What is that?",
+          "Delwath: Well, he clearly has permanent see invisibility.",
+          "Kenzo: Right. How do you know?",
+          "Delwath: 'Cause otherwise he's gotta have an item or something that gives him see invisible. 'Cause otherwise he wouldn't, wouldn't cause him to randomly see.",
+          "Seeker: Right. He wasn't, like, wearing anything interesting. Like, he had jewelry or..."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "The dream warning becomes real howls",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u5470",
+        "endUid": "u5529"
+      },
+      "lines": [
+        "%% u5470:0-5, u5471:0-37, u5472:0-54, u5473:0-3, u5474:0-44 %%",
+        "DM: Okay. Uh, so you, who's taking first watch? Okay, so everybody's, everybody's sleeping but Wellby. Um, ((Wisdom checks))",
+        "",
+        "%% u5475:0-18 %%",
+        "((Wisdom roll))",
+        "",
+        "%% u5476:0-5, u5477:0-3, u5478:0-38, u5479:0-3, u5480:0-98, u5481:0-3, u5482:0-174, u5483:0-21 %%",
+        "DM: Yeah. 15. Okay. You both, um, see now, um, this, uh, still the same shadow hunter with two, um, what look like much larger dogs on a leash, and it, um, it, the shadow hunter, this creature with its spear is, like, running towards you, and it lets go of the dogs, and they start barking, and then it says, \"And now I've found you,\" and throws the spear.",
+        "",
+        "%% u5484:0-35 %%",
+        "Wellby: Am I seeing this in the dream bowl?",
+        "",
+        "%% u5485:0-43 %%",
+        "DM: You're seeing this in the dream bowl, yeah.",
+        "",
+        "%% u5486:0-69 %%",
+        "Wellby: Uh, I'm gonna wake him up as soon as, like, there's obvious dogs and-",
+        "",
+        "%% u5487:0-46 %%",
+        "DM: You hear- That howling of dogs in the distance.",
+        "",
+        "%% u5488:0-17, u5489:0-20, u5490:0-45, u5491:0-5, u5492:0-56, u5493:0-23 %%",
+        "((Nightmare-save adjudication))",
+        "",
+        "%% u5494:0-40 %%",
+        "DM: But you s- but you don't suffer from it.",
+        "",
+        "%% u5495:0-3, u5496:0-19 %%",
+        "((Table fragments))",
+        "",
+        "%% u5497:0-86, u5498:0-21 %%",
+        "Kenzo: But the, uh, uh, but there are actual dogs now in the distance, or we just, we just... Like, they hear dogs?",
+        "",
+        "%% u5499:0-44 %%",
+        "DM: Yeah, Wellby hears dogs in the distance now.",
+        "",
+        "%% u5500:0-16 %%",
+        "Wellby: Back, everybody.",
+        "",
+        "%% u5501:0-4, u5502:0-3, u5503:0-38, u5504:0-5 %%",
+        "((Wisdom saving throw))",
+        "",
+        "%% u5505:0-48, u5506:0-19 %%",
+        "DM: Um, you... as you, as you hear the howling, you, uh, are frightened.",
+        "",
+        "%% u5507:0-29 %%",
+        "((Proposed cleansing))",
+        "",
+        "%% u5508:0-30, u5509:0-30, u5510:0-49, u5511:0-24, u5512:0-15, u5513:0-3 %%",
+        "Wellby: ((Rules aside)) I'll be like, \"They're back. Oh, shit, they're back.\" ((Movement adjudication))",
+        "",
+        "%% u5514:0-29, u5515:0-32, u5516:0-38, u5517:0-10, u5518:0-22, u5519:0-12, u5520:0-24 %%",
+        "((Proposed cleansing and movement))",
+        "",
+        "%% u5521:0-48, u5522:0-14 %%",
+        "DM: So you, you managed to yell for them to wake up, which means...",
+        "",
+        "%% u5523:0-30, u5524:0-23, u5525:0-19, u5526:0-56 %%",
+        "((Movement adjudication))",
+        "",
+        "%% u5527:0-21, u5528:0-25 %%",
+        "DM: ... Delwath wakes up. Seeker and Kenzo wake up—",
+        "",
+        "%% u5529:0-40 %%",
+        "Delwath: But Seeker still hasn't had a long rest."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Well, we, normal watch schedule.",
+          "DM: Um...",
+          "Delwath: But whoever's awake for the watch will dream bowl.",
+          "Wellby: You can only dream bowl one sleeper.",
+          "Delwath: Yeah, but I think Seeker now, because he needs the rest the most."
+        ],
+        "after": [
+          "DM: So just, what's your, what's your move?",
+          "Wellby: It's 40.",
+          "DM: So... Um.",
+          "Wellby: Let me see if it... Does it require...",
+          "DM: All of its movement to get as far away as possible, but you don't need to take an action."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
