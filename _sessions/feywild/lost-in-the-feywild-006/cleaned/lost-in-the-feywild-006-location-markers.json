@@ -1,0 +1,441 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-006",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+    "sessionYamlSha256": "a4ca63756d9b14e1cb25d9b815968a8854451384c2fc353cfbdf150b353bbb10",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-transcript.md",
+    "transcriptSha256": "6e6f446b422becd948b3402a0ff3caf74ea0044909b7dd24e38213984b2b389d"
+  },
+  "places": {
+    "p01": {
+      "label": "Library",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0153",
+          "endUid": "u0155",
+          "quote": "DM: And here you are, in the… the library, with the automaton, in one corner, stacks of books… broad, well-lit desks for writing and reading. A few of the shelves have books that are chained, but mostly they can be… taken out. The rest, yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0052",
+              "endUid": "u0055",
+              "quote": "DM: Having heard that, and been… I don't know, unsettled, delighted, surprised, unsurprised? You come through into the next room, and that's where we ended the last session: in an immense library, with lots and lots of volumes on the shelves—the background image here is a good one—and a sort of a clockwork figure that… of just… again, the image is a good one, of just, like, a torso and head that raises its head and looks at you intently as you enter."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Prison doorway, library side",
+      "kind": "threshold",
+      "evidence": [
+        {
+          "startUid": "u0972",
+          "endUid": "u0978",
+          "quote": "DM: Thanks. The point being, you get across the room, passing these many little bits of flavor, to come to the door. As you get close to the door, there's an odd… there's an odd thing to it. When you get close, you realize it's not one door exactly, but three different doors simultaneously, almost as if… you could imagine it as 3 different doors, but all occupying the same space, as if it's, like, a superposition of several different things all at once. And each of them has a small window that you can look through, but what you see on the other side of that window is radically different from one to the next."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0972",
+              "endUid": "u0978",
+              "quote": "DM: Thanks. The point being, you get across the room, passing these many little bits of flavor, to come to the door. As you get close to the door, there's an odd… there's an odd thing to it. When you get close, you realize it's not one door exactly, but three different doors simultaneously, almost as if… you could imagine it as 3 different doors, but all occupying the same space, as if it's, like, a superposition of several different things all at once. And each of them has a small window that you can look through, but what you see on the other side of that window is radically different from one to the next."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Sandy ground beside a well",
+      "kind": "view through the child door",
+      "evidence": [
+        {
+          "startUid": "u0979",
+          "endUid": "u0982",
+          "quote": "DM: In the first, you see a child who's maybe… 9 or 10 years old, sitting on sandy ground next to a well, playing with a stick, making shapes and drawing in the sand."
+        }
+      ]
+    },
+    "p04": {
+      "label": "Drawing table and wicker basket",
+      "kind": "view through the young-adult door",
+      "evidence": [
+        {
+          "startUid": "u0983",
+          "endUid": "u0990",
+          "quote": "DM: In the second door, you see a young adult, fully grown… with their back to you, dressed like a fey, but probably not a fey, sitting at a drawing table, sketching. And to their side, there's a wicker basket with something shiny in it that you can't make out. And from time to time, this person will glance over—you see that from the back of their head—will glance over curiously, and you can see the curl of a smile coming up. The way, I don't know if you've ever had, like, a sleeping kitten next to you, and when you look at the thing, you can't help but just… it's joyful and delightful, and he'll reach in and touch this shining something, and then return to his work again."
+        }
+      ]
+    },
+    "p05": {
+      "label": "Space occupied by the aged figure",
+      "kind": "view through the third door",
+      "evidence": [
+        {
+          "startUid": "u0991",
+          "endUid": "u0994",
+          "quote": "DM: The third door… is what looks like an ancient and decrepit old man, although the longer that you look, the more you realize this is actually a middle-aged person, this is probably someone in their late 30s or early 40s, who just looks incredibly old, like someone who's been living rough on the street for… years and years and years, in tattered clothes and pallid skin, unkempt, long hair missing in places, untrimmed, unwashed. Wild-eyed, moving frantically, almost animal-like, twitchy, with a basket on his lap, with a lid over the top of it, open just a crack, and he'll open it and look in, and then slam it back shut and look all around himself again, as if fearful that someone's watching."
+        }
+      ],
+      "note": "No surrounding geography is described."
+    },
+    "p06": {
+      "label": "27th room interior",
+      "kind": "prison chamber",
+      "evidence": [
+        {
+          "startUid": "u1091",
+          "endUid": "u1092",
+          "quote": "DM: Yeah, and as the door swings shut behind you, you're plunged into a complete and utter darkness. Darker than black. Darker than anything you've ever experienced before."
+        },
+        {
+          "startUid": "u1106",
+          "endUid": "u1106",
+          "quote": "DM: In the 27th room!"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0027",
+              "endUid": "u0030",
+              "quote": "DM: They're accompanied on the journey through the Rubik's Cube house—the 27th room, it's called, for the prison at the center of it—by the, cartographer and mathematician Menestheus, who was a junior member of the order tracked with—or charged, rather—with keeping track of where all of these weak points or holes in the universe are, and guiding people to and from them. So he doesn't have much useful to say about the contents of this place, because he hasn't really been inside before. He's only brought folks here, and… was left behind at Lord Endless Ending's party, possibly as a sacrifice, possibly because he got drunk and fell asleep."
+            }
+          ]
+        }
+      ],
+      "note": "The entered darkness is not established as the sandy well scene visible through the selected window."
+    },
+    "p07": {
+      "label": "27th House",
+      "aliases": [
+        "Rubik’s Cube house"
+      ],
+      "kind": "building",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House.md",
+      "evidence": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0030",
+          "quote": "DM: They're accompanied on the journey through the Rubik's Cube house—the 27th room, it's called, for the prison at the center of it—by the, cartographer and mathematician Menestheus, who was a junior member of the order tracked with—or charged, rather—with keeping track of where all of these weak points or holes in the universe are, and guiding people to and from them. So he doesn't have much useful to say about the contents of this place, because he hasn't really been inside before. He's only brought folks here, and… was left behind at Lord Endless Ending's party, possibly as a sacrifice, possibly because he got drunk and fell asleep."
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0034",
+          "quote": "DM: At the end of the previous session, you started in a fungal greenhouse, where Kallipseis, an ancient dwarven… wizard and gardener and fungal researcher and self-described head of the order, after the death of the previous head of the order, is working on creating a fungus golem body in which to put her consciousness? Question mark? Soul? Question mark? In order to make her way safely out of the house, and then presumably restart the order, question mark?"
+        }
+      ]
+    },
+    "p08": {
+      "label": "Fungal greenhouse",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0031",
+          "endUid": "u0034",
+          "quote": "DM: At the end of the previous session, you started in a fungal greenhouse, where Kallipseis, an ancient dwarven… wizard and gardener and fungal researcher and self-described head of the order, after the death of the previous head of the order, is working on creating a fungus golem body in which to put her consciousness? Question mark? Soul? Question mark? In order to make her way safely out of the house, and then presumably restart the order, question mark?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0031",
+              "endUid": "u0034",
+              "quote": "DM: At the end of the previous session, you started in a fungal greenhouse, where Kallipseis, an ancient dwarven… wizard and gardener and fungal researcher and self-described head of the order, after the death of the previous head of the order, is working on creating a fungus golem body in which to put her consciousness? Question mark? Soul? Question mark? In order to make her way safely out of the house, and then presumably restart the order, question mark?"
+            },
+            {
+              "startUid": "u0035",
+              "endUid": "u0038",
+              "quote": "DM: They leave her to it and continue to proceed through the house. We find a lecture hall with diagrams of dandelion life cycles and a black-on-black painting of a hole in the universe through which something has come. In the next room is Clockworks, where the grandfather clocks and desk clocks are manufactured, and Tarek—importantly, I'll remind this because he's not here this session—picks up a desk-sized clock that is working and tracks and, you know, shows you the year and the coordinate location of where you are in each room that you move through. Or, excuse me, shows you the year and coordinate location of the central prison room, location, each time you step from one room to another."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l00",
+      "type": "movement",
+      "source": {
+        "startUid": "u0031",
+        "endUid": "u0055"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "context": "reported",
+      "from": "p08",
+      "to": "p01",
+      "completion": "arrived",
+      "reading": "The opening recap recounts the previous session’s route from the fungal greenhouse to the library.",
+      "route": [
+        {
+          "reading": "Pass through a lecture hall and Clockworks."
+        },
+        {
+          "reading": "Visit a mechanical listening room, an animal experimentation laboratory and another listening station."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0031",
+          "endUid": "u0034",
+          "quote": "At the end of the previous session, you started in a fungal greenhouse"
+        },
+        {
+          "startUid": "u0035",
+          "endUid": "u0038",
+          "quote": "DM: They leave her to it and continue to proceed through the house. We find a lecture hall with diagrams of dandelion life cycles and a black-on-black painting of a hole in the universe through which something has come. In the next room is Clockworks, where the grandfather clocks and desk clocks are manufactured, and Tarek—importantly, I'll remind this because he's not here this session—picks up a desk-sized clock that is working and tracks and, you know, shows you the year and the coordinate location of where you are in each room that you move through. Or, excuse me, shows you the year and coordinate location of the central prison room, location, each time you step from one room to another."
+        },
+        {
+          "startUid": "u0041",
+          "endUid": "u0044",
+          "quote": "DM: In the next room, it's an animal experimentation lab, and there are mushroom men there who attack Menestheus, wound him very badly, actually drop him below zero, but you rescue him, killing and burning both infected bodies, but Menestheus is… infected. And Txarro took a pretty bad hit, too. I will just remind him and others in the party."
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0045",
+          "quote": "DM: They keep on going, deciding that this is a problem for the future, not the present, and come to another listening station."
+        },
+        {
+          "startUid": "u0052",
+          "endUid": "u0055",
+          "quote": "DM: Having heard that, and been… I don't know, unsettled, delighted, surprised, unsurprised? You come through into the next room, and that's where we ended the last session: in an immense library, with lots and lots of volumes on the shelves—the background image here is a good one—and a sort of a clockwork figure that… of just… again, the image is a good one, of just, like, a torso and head that raises its head and looks at you intently as you enter."
+        }
+      ]
+    },
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0056",
+        "endUid": "u0062"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "place": "p01",
+      "reading": "The party and infected Menestheus are in the library outside the central prison door.",
+      "evidence": [
+        {
+          "startUid": "u0056",
+          "endUid": "u0062",
+          "quote": "You know this is the last room before the door to the prison at the center."
+        },
+        {
+          "startUid": "u0149",
+          "endUid": "u0152",
+          "quote": "Menestheus, the Drankorian mathematician and mapmaker, is with you also."
+        },
+        {
+          "startUid": "u0153",
+          "endUid": "u0155",
+          "quote": "And here you are, in the… the library, with the automaton, in one corner, stacks of books… broad, well-lit desks for writing and reading."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0236",
+        "endUid": "u0245"
+      },
+      "place": "p02",
+      "actors": [
+        "Txarro"
+      ],
+      "reading": "Txarro sits before the keyed prison door on the library side to perform his ritual.",
+      "evidence": [
+        {
+          "startUid": "u0236",
+          "endUid": "u0245",
+          "quote": "Txarro's gonna sit down in front of the door with the key."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0612",
+        "endUid": "u0615"
+      },
+      "actors": [
+        "Txarro"
+      ],
+      "from": "p02",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "walk",
+      "reading": "Txarro leaves his position at the prison door and rejoins the conversation by Menestheus in the library.",
+      "evidence": [
+        {
+          "startUid": "u0612",
+          "endUid": "u0615",
+          "quote": "Txarro: Txarro will slowly stand up from where he's been sitting by the door, in thought or meditation, and walk over, having been half-listening to the conversation. And he will say,"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0947",
+        "endUid": "u0978"
+      },
+      "actors": [
+        "party",
+        "Aurae"
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk",
+      "reading": "The five PCs carry Aurae across the library to the superimposed prison doors; Menestheus remains behind.",
+      "evidence": [
+        {
+          "startUid": "u0972",
+          "endUid": "u0978",
+          "quote": "The point being, you get across the room, passing these many little bits of flavor, to come to the door."
+        },
+        {
+          "startUid": "u1038",
+          "endUid": "u1040",
+          "quote": "DM: When you, when you head over, Txarro, you realize, as you've been looking through the door and deciding on the possibility, you realize all at once that Menestheus did not follow you."
+        },
+        {
+          "startUid": "u1064",
+          "endUid": "u1064",
+          "quote": "Kaito Min: No, already strapped onto the… we jury-rigged a thing."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0979",
+        "endUid": "u0982"
+      },
+      "actors": [
+        "party"
+      ],
+      "place": "p03",
+      "observerPlace": "p02",
+      "mode": "local",
+      "reading": "Through the first door window the party sees a child beside a well on sandy ground.",
+      "evidence": [
+        {
+          "startUid": "u0979",
+          "endUid": "u0982",
+          "quote": "DM: In the first, you see a child who's maybe… 9 or 10 years old, sitting on sandy ground next to a well, playing with a stick, making shapes and drawing in the sand."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0983",
+        "endUid": "u0990"
+      },
+      "actors": [
+        "party"
+      ],
+      "place": "p04",
+      "observerPlace": "p02",
+      "mode": "local",
+      "reading": "Through the second window they see a young adult sketching beside a basket with something shiny.",
+      "evidence": [
+        {
+          "startUid": "u0983",
+          "endUid": "u0990",
+          "quote": "DM: In the second door, you see a young adult, fully grown… with their back to you, dressed like a fey, but probably not a fey, sitting at a drawing table, sketching. And to their side, there's a wicker basket with something shiny in it that you can't make out. And from time to time, this person will glance over—you see that from the back of their head—will glance over curiously, and you can see the curl of a smile coming up. The way, I don't know if you've ever had, like, a sleeping kitten next to you, and when you look at the thing, you can't help but just… it's joyful and delightful, and he'll reach in and touch this shining something, and then return to his work again."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0991",
+        "endUid": "u0994"
+      },
+      "actors": [
+        "party"
+      ],
+      "place": "p05",
+      "observerPlace": "p02",
+      "mode": "local",
+      "reading": "Through the third window they see a prematurely aged person clutching a lidded basket.",
+      "evidence": [
+        {
+          "startUid": "u0991",
+          "endUid": "u0994",
+          "quote": "DM: The third door… is what looks like an ancient and decrepit old man, although the longer that you look, the more you realize this is actually a middle-aged person, this is probably someone in their late 30s or early 40s, who just looks incredibly old, like someone who's been living rough on the street for… years and years and years, in tattered clothes and pallid skin, unkempt, long hair missing in places, untrimmed, unwashed. Wild-eyed, moving frantically, almost animal-like, twitchy, with a basket on his lap, with a lid over the top of it, open just a crack, and he'll open it and look in, and then slam it back shut and look all around himself again, as if fearful that someone's watching."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1056",
+        "endUid": "u1081"
+      },
+      "actors": [
+        "party",
+        "Aurae"
+      ],
+      "from": "p02",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk; Txarro in tiny-anole form",
+      "reading": "All five PCs and Aurae pass through the chosen child door into the 27th room and shut Menestheus outside.",
+      "evidence": [
+        {
+          "startUid": "u1021",
+          "endUid": "u1021",
+          "quote": "Txarro: I think we should go through the child."
+        },
+        {
+          "startUid": "u1057",
+          "endUid": "u1057",
+          "quote": "Txarro: Sorry, actually, it's not a spider, it's a tiny anole lizard."
+        },
+        {
+          "startUid": "u1079",
+          "endUid": "u1081",
+          "quote": "DM: You swing the door shut behind you, all five of you, plus Aurae, having made it successfully through with Menestheus now turned to a mushroom man on the far side."
+        },
+        {
+          "startUid": "u1091",
+          "endUid": "u1092",
+          "quote": "DM: Yeah, and as the door swings shut behind you, you're plunged into a complete and utter darkness. Darker than black. Darker than anything you've ever experienced before."
+        }
+      ],
+      "note": "The dark interior cannot be equated with the sandy scene seen through the window; no contents are visible even with darkvision."
+    }
+  ]
+}

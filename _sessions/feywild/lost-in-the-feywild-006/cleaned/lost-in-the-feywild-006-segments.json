@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-006",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+    "sessionYamlSha256": "a4ca63756d9b14e1cb25d9b815968a8854451384c2fc353cfbdf150b353bbb10",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-transcript.md",
+    "transcriptSha256": "6e6f446b422becd948b3402a0ff3caf74ea0044909b7dd24e38213984b2b389d"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0009"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0055"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0056",
+        "endUid": "u0138"
+      },
+      "category": "gameplay",
+      "note": "Character introductions describe current feelings and intentions in the library; play has resumed."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0139",
+        "endUid": "u0148"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0149",
+        "endUid": "u0934"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0935",
+        "endUid": "u0946"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0947",
+        "endUid": "u1097"
+      },
+      "category": "gameplay",
+      "note": "Menestheus attacks and the party escapes at u1038–u1081 without initiative or a repeated ordered turn cycle. The book-dating correction remains within the ongoing library departure."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1098",
+        "endUid": "u1128"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-006",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+    "sessionYamlSha256": "a4ca63756d9b14e1cb25d9b815968a8854451384c2fc353cfbdf150b353bbb10",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-transcript.md",
+    "transcriptSha256": "6e6f446b422becd948b3402a0ff3caf74ea0044909b7dd24e38213984b2b389d",
+    "yamlDates": {
+      "start": "1740-10-06",
+      "end": "1740-10-06"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0236",
+        "endUid": "u0245"
+      },
+      "reading": "Txarro performs a ten-minute augury while the others investigate the library and speak with the automaton.",
+      "actors": [
+        "Txarro"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Player declares the duration of the ritual being performed; subsequent resolution confirms completion."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0236",
+          "endUid": "u0245",
+          "quote": "This takes 10 minutes, so you can go around and figure out everybody else's actions and resolve other things while you think."
+        },
+        {
+          "startUid": "u0461",
+          "endUid": "u0464",
+          "quote": "This is a good moment for the Augury to come back"
+        },
+        {
+          "startUid": "u0465",
+          "endUid": "u0466",
+          "quote": "Txarro: I asked if I'd take the key, bring it back to Lord Endless Ending, will that be good or bad?"
+        },
+        {
+          "startUid": "u0467",
+          "endUid": "u0468",
+          "quote": "DM: It's the same response. It's not, it's not bad. It is… it's more complicated than just good or bad, but it's not… bad."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0592",
+        "endUid": "u0593"
+      },
+      "reading": "Menestheus takes about a minute to focus on Edric after being lifted from the table.",
+      "actors": [
+        "Menestheus",
+        "Edric"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates the delay in focusing; conversational wording does not establish exact timing."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0592",
+          "endUid": "u0593",
+          "quote": "It takes him a minute for his eyes to focus on your face."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0922",
+        "endUid": "u0931"
+      },
+      "reading": "The party spends five minutes rigging a carrier for Aurae before crossing to the prison door.",
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM supplies five minutes and players accept; later dialogue confirms the carrier is already strapped on."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0922",
+          "endUid": "u0924",
+          "quote": "Kaito Min: Nice. Who's carrying Aurae? Can we strap, like, Aurae on… actually, oh, Aurae doesn't have arms. Yeah, can we, like, strap Aurae? That's 45 pounds, right?"
+        },
+        {
+          "startUid": "u0929",
+          "endUid": "u0929",
+          "quote": "DM: 5 minutes to do that?"
+        },
+        {
+          "startUid": "u0931",
+          "endUid": "u0931",
+          "quote": "Kaito Min: Great, perfect."
+        },
+        {
+          "startUid": "u1064",
+          "endUid": "u1064",
+          "quote": "Kaito Min: No, already strapped onto the… we jury-rigged a thing."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "October 6, 1740 is supplied only by session YAML; no current calendar date or clock reading is spoken.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03"
+    ],
+    "explanation": "Play remains in the library before crossing into an obscured prison whose position in time is variable (u0019–u0026). The ritual, brief recovery and carrier construction establish elapsed time, but neither the civil-date boundary nor the temporal effect of entry is established. The same-date YAML span is possible, without an independently supported total of calendar transitions."
+  }
+}

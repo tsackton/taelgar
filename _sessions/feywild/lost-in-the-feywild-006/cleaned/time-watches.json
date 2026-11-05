@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+  "source": {
+    "path": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-time-markers.json",
+    "sha256": "cc0d9ac0c071c97d43d8e2474521885a1485f5c7cd3dc88c1b32a614320a67ee"
+  },
+  "transcript": {
+    "path": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-transcript.md",
+    "sha256": "6e6f446b422becd948b3402a0ff3caf74ea0044909b7dd24e38213984b2b389d"
+  },
+  "dateAssessment": "October 6, 1740 comes only from YAML; the transcript establishes short elapsed intervals but no civil date, watch or time offset on entering the prison.",
+  "watches": [
+    {
+      "day": "1740-10-06 (YAML only)",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Ten-minute augury; about a minute for Menestheus to focus; five minutes constructing Aurae’s carrier. No watch established.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "clock": "adventure",
+      "scope": "Library elapsed intervals; start and end clocks unanchored"
+    }
+  ]
+}
