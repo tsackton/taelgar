@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-031",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-session.yaml",
+    "sessionYamlSha256": "f4796117650bee1efd82c946535de762871e83b5eaddb1f219b3b76ab53a3624",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-transcript.md",
+    "transcriptSha256": "d2e591eb737282b477e5e6e42d157b85027ae635d1f22db0d37c7626a87959db"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0021"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0780"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0781",
+        "endUid": "u1806"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1807",
+        "endUid": "u2627"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2628",
+        "endUid": "u2665"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2666",
+        "endUid": "u4004"
+      },
+      "category": "gameplay",
+      "note": "The final mixed DM turn completes Sura’s request and then discusses stopping the session."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u4005",
+        "endUid": "u4005"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

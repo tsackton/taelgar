@@ -1,0 +1,543 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-031",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-session.yaml",
+    "sessionYamlSha256": "f4796117650bee1efd82c946535de762871e83b5eaddb1f219b3b76ab53a3624",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-transcript.md",
+    "transcriptSha256": "d2e591eb737282b477e5e6e42d157b85027ae635d1f22db0d37c7626a87959db",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-segments.json",
+      "sha256": "2064e3fe77e08a10bf5dd1eebc80d3e8000e997289b813a2968dc6887dc8d576",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Night raid on the canyon camp",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Orcs",
+              "kind": "turn",
+              "summary": "Throw javelins: Wellby takes 11 damage, two attacks miss his AC 15, and Garret is badly wounded. Orcs rush into the firelight.",
+              "evidence": [
+                {
+                  "startUid": "u0801",
+                  "endUid": "u0825"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "Receive retrospective short-rest credit, but no long rest.",
+              "evidence": [
+                {
+                  "startUid": "u0832",
+                  "endUid": "u0836"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves toward the horses, jumps onto the cliff and activates his driftglobe; sees no enemy. Soul Sight cannot search for unseen auras at his level.",
+              "evidence": [
+                {
+                  "startUid": "u0840",
+                  "endUid": "u0876"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Orders Baxter to wake the horses and protect Kenzo. Steady aim grants advantage; a critical Sneak Attack kills the ordinary orc in front of him with thirty-something damage.",
+              "evidence": [
+                {
+                  "startUid": "u0884",
+                  "endUid": "u0918"
+                }
+              ]
+            },
+            {
+              "actor": "Orc shadow by the fire",
+              "kind": "turn",
+              "summary": "Runs past Wellby and Delwath, swinging a scimitar at each: misses Wellby with 9, critically hits Delwath for 29, then bonus-action disengages and moves away.",
+              "evidence": [
+                {
+                  "startUid": "u0919",
+                  "endUid": "u0939"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Retrospectively uses his movement reaction to reposition and clear a path for axe beaks, allowing steady aim next turn. The table accepts the correction; the precise earlier trigger is not specified.",
+              "evidence": [
+                {
+                  "startUid": "u1351",
+                  "endUid": "u1371"
+                }
+              ]
+            },
+            {
+              "actor": "Orc shadow stealing treasure",
+              "kind": "turn",
+              "summary": "Runs to gather sacks of treasure. Corrected loot placement requires bonus-action dash and further movement before the horse theft, provoking Baxter.",
+              "evidence": [
+                {
+                  "startUid": "u0945",
+                  "endUid": "u0979"
+                }
+              ]
+            },
+            {
+              "actor": "Baxter",
+              "kind": "reaction",
+              "summary": "Hits the passing treasure thief with an opportunity attack for 10 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0950",
+                  "endUid": "u0979"
+                }
+              ]
+            },
+            {
+              "actor": "Wereraven",
+              "kind": "turn",
+              "summary": "Flies over the cliffs, lands by the treasure, grabs loot and flies back onto the cliff.",
+              "evidence": [
+                {
+                  "startUid": "u0981",
+                  "endUid": "u0994"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Catapults the one-use leech jar at the shadow by the fire, which succeeds on its Dexterity save and takes no damage under the corrected ruling. The jar continues into the other shadow, which fails, taking 16 bludgeoning; attached leeches impose disadvantage on attacks, ability checks and concentration saves, not other saves. Consumes the jar and gives Wellby inspiration for an eligible roll, excluding damage.",
+              "evidence": [
+                {
+                  "startUid": "u1002",
+                  "endUid": "u1049"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Without time to don armor, approaches the shadow by the fire, casts Hex and attacks twice: the first hits for 14 total damage as later confirmed; the second misses.",
+              "evidence": [
+                {
+                  "startUid": "u1054",
+                  "endUid": "u1097"
+                },
+                {
+                  "startUid": "u1319",
+                  "endUid": "u1321"
+                }
+              ]
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Summons eight axe beaks within 60 feet, with a stated one-hour duration.",
+              "evidence": [
+                {
+                  "startUid": "u1104",
+                  "endUid": "u1154"
+                },
+                {
+                  "startUid": "u1179",
+                  "endUid": "u1179"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned axe beaks",
+              "kind": "turn",
+              "summary": "Seven can attack: four hits and three misses. Three hits trample one orc to death; another hits a separate target. Damage totals are not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1154",
+                  "endUid": "u1178"
+                }
+              ]
+            },
+            {
+              "actor": "Jackalweres",
+              "kind": "turn",
+              "summary": "Gazes require Seeker and Drikod to make Wisdom saves: Seeker fails, falling unconscious beside the fire; Drikod succeeds unaffected. Another jackalwere runs to and stabs a horse for 3 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1188",
+                  "endUid": "u1203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Orcs",
+              "kind": "turn",
+              "summary": "Swing greataxes at summoned axe beaks: one misses, the other deals 4 without dropping its target. Both flee, one climbing the rocks, then dash into darkness.",
+              "evidence": [
+                {
+                  "startUid": "u1205",
+                  "endUid": "u1229"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned axe beaks",
+              "kind": "reaction",
+              "summary": "Opportunity attacks as the orcs flee: one of two attacks on the first hits; an attack on the other is a natural 20 and deals 8 damage. The first damage amount is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1210",
+                  "endUid": "u1229"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Parkours to the mirror, gently tipping the occupied chair aside. First quarterstaff attack misses, second hits, and bonus-action punch hits, for 17 total damage. Both stunning strikes fail against successful Constitution saves (second 14 versus DC 14). A further flurry/stun is discussed but not resolved.",
+              "evidence": [
+                {
+                  "startUid": "u1261",
+                  "endUid": "u1345"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses steady aim to shoot the shadow Kenzo attacked. A 21 hits despite partial tent cover; the arrow’s fire damage kills it, following the accepted retrospective reaction movement.",
+              "evidence": [
+                {
+                  "startUid": "u1373",
+                  "endUid": "u1394"
+                },
+                {
+                  "startUid": "u1351",
+                  "endUid": "u1371"
+                }
+              ]
+            },
+            {
+              "actor": "Orc shadow stealing treasure",
+              "kind": "turn",
+              "summary": "With leeches and loot, mounts a reluctant horse, knocks a jackalwere aside and bonus-action dashes away. Kenzo gets no opportunity attack because he was not adjacent.",
+              "evidence": [
+                {
+                  "startUid": "u1396",
+                  "endUid": "u1436"
+                }
+              ]
+            },
+            {
+              "actor": "Baxter and summoned axe beak",
+              "kind": "reaction",
+              "summary": "Opportunity attacks against the mounted shadow: Baxter misses; the summoned axe beak hits, with damage unspoken.",
+              "evidence": [
+                {
+                  "startUid": "u1407",
+                  "endUid": "u1436"
+                }
+              ]
+            },
+            {
+              "actor": "Wereraven",
+              "kind": "turn",
+              "summary": "Flies 50 feet upward with loot into darkness, still at the edge of Delwath’s 60-foot darkvision.",
+              "evidence": [
+                {
+                  "startUid": "u1438",
+                  "endUid": "u1454"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned axe beaks",
+              "kind": "reaction",
+              "summary": "Both opportunity attacks against the ascending wereraven hit (15 and 21), dealing 16 total damage without killing it.",
+              "evidence": [
+                {
+                  "startUid": "u1441",
+                  "endUid": "u1447"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Remains asleep and cannot act.",
+              "evidence": [
+                {
+                  "startUid": "u1446",
+                  "endUid": "u1447"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves Hex to the wereraven and hits it with two shadowy bolts. One damage roll is 4; the other total is unspoken. It survives.",
+              "evidence": [
+                {
+                  "startUid": "u1456",
+                  "endUid": "u1469"
+                }
+              ]
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Moves and casts lightning at two jackalweres; a wall blocks extending the line to an orc. One succeeds on a Dexterity save with 20, takes half damage (10) and survives; the other fails with 8 and dies.",
+              "evidence": [
+                {
+                  "startUid": "u1473",
+                  "endUid": "u1491"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned axe beaks",
+              "kind": "turn",
+              "summary": "Two pursue and attack retreating orcs. Another kicks Seeker awake, leaving him prone after a jackal dream. An attack roll of 12 hits; two subsequent attacks near the mounted thief miss. The cliff-top pair jumps down a 10–15-foot drop to block routes. Several targets or damage totals are not verbally resolved.",
+              "evidence": [
+                {
+                  "startUid": "u1505",
+                  "endUid": "u1542"
+                }
+              ]
+            },
+            {
+              "actor": "Jackalwere near the rocks",
+              "kind": "turn",
+              "summary": "Scrambles away and gazes at an axe beak; it rolls a natural 20 and is unaffected.",
+              "evidence": [
+                {
+                  "startUid": "u1543",
+                  "endUid": "u1562"
+                }
+              ]
+            },
+            {
+              "actor": "Jackalwere beside Seeker",
+              "kind": "turn",
+              "summary": "Bites prone Seeker with advantage but misses, then runs away.",
+              "evidence": [
+                {
+                  "startUid": "u1552",
+                  "endUid": "u1562"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Orcs",
+              "kind": "turn",
+              "summary": "Try to flee while badly wounded; the DM resolves the axe beaks catching and killing both.",
+              "evidence": [
+                {
+                  "startUid": "u1552",
+                  "endUid": "u1562"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Mounts a horse and fires the acid wand at the mounted shadow: misses but deals 5 damage (half of 11); continuing 6 damage is explained as applying only on a hit. Soul Sight shows a roughly level-three foe, angry and ready to flee but happy about the loot. A deeper resistance reading is disallowed after the action already used.",
+              "evidence": [
+                {
+                  "startUid": "u1596",
+                  "endUid": "u1634"
+                }
+              ]
+            },
+            {
+              "actor": "Orc shadow stealing treasure",
+              "kind": "turn",
+              "summary": "Dashes 120 feet on the stolen horse and disappears into the night.",
+              "evidence": [
+                {
+                  "startUid": "u1636",
+                  "endUid": "u1647"
+                },
+                {
+                  "startUid": "u1972",
+                  "endUid": "u1977"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned axe beak",
+              "kind": "reaction",
+              "summary": "Has an opportunity attack as the mounted shadow leaves, but the DM rules it cannot kill the thief at its remaining hit points; no roll or damage is resolved aloud.",
+              "evidence": [
+                {
+                  "startUid": "u1643",
+                  "endUid": "u1647"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses movement, Cunning Action and Dash for 75 feet, mounts Baxter and prepares to pursue the mounted thief.",
+              "evidence": [
+                {
+                  "startUid": "u1657",
+                  "endUid": "u1669"
+                }
+              ]
+            },
+            {
+              "actor": "Wereraven",
+              "kind": "turn",
+              "summary": "Ascends another 100 feet, disappearing beyond everyone’s sight.",
+              "evidence": [
+                {
+                  "startUid": "u1670",
+                  "endUid": "u1671"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Abandons throwing a thorn seed when its limited supply of three is clarified. Casts quicksand instead; the jackalwere succeeds on its save, with ability unspecified.",
+              "evidence": [
+                {
+                  "startUid": "u1680",
+                  "endUid": "u1718"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Summons a flying shadow 90 feet above him to hunt and kill the wereraven and return the loot. It has 60-foot movement, 120-foot darkvision, bonus-action hiding in darkness and a stated one-hour duration. Moves toward a jackalwere and uses Hexblade’s Curse as his bonus action, confirmed retrospectively.",
+              "evidence": [
+                {
+                  "startUid": "u1728",
+                  "endUid": "u1744"
+                },
+                {
+                  "startUid": "u1776",
+                  "endUid": "u1783"
+                },
+                {
+                  "startUid": "u1796",
+                  "endUid": "u1798"
+                }
+              ]
+            },
+            {
+              "actor": "Drikod",
+              "kind": "turn",
+              "summary": "Orders two axe beaks aside so Kenzo and Wellby can pursue; one guards the entrance. Considers healing but resolves no healing action because of reach/terrain.",
+              "evidence": [
+                {
+                  "startUid": "u1748",
+                  "endUid": "u1764"
+                }
+              ]
+            },
+            {
+              "actor": "Jackalwere facing Delwath",
+              "kind": "turn",
+              "summary": "Attacks before retreating: 13 misses because Delwath has his shield. Runs, provoking an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u1768",
+                  "endUid": "u1775"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Hits the fleeing jackalwere with an opportunity attack, adding 3 from Hexblade’s Curse; does not quite kill it.",
+              "evidence": [
+                {
+                  "startUid": "u1784",
+                  "endUid": "u1787"
+                }
+              ]
+            },
+            {
+              "actor": "Other surviving jackalwere",
+              "kind": "turn",
+              "summary": "Escapes into darkness, jumping off the cliff beside an axe beak. The DM corrects a proposed pursuit because axe beaks cannot hurt jackalweres.",
+              "evidence": [
+                {
+                  "startUid": "u1788",
+                  "endUid": "u1795"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "Compressed follow-through: chases and kills the cursed jackalwere within a turn or two and regains hit points from the curse; amount unstated.",
+              "evidence": [
+                {
+                  "startUid": "u1799",
+                  "endUid": "u1804"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow creature",
+              "kind": "event",
+              "summary": "Hunts down and kills the wereraven and returns its loot. Return timing is corrected from 10–15 seconds to three or four turns to allow collection; Kenzo and Wellby ride into darkness after the other thief.",
+              "evidence": [
+                {
+                  "startUid": "u1799",
+                  "endUid": "u1806"
+                },
+                {
+                  "startUid": "u1735",
+                  "endUid": "u1740"
+                },
+                {
+                  "startUid": "u1964",
+                  "endUid": "u1970"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": "The third cycle includes compressed pursuit and cleanup rather than invented additional numbered rounds.",
+      "ending": {
+        "summary": "Camp defense resolves with most raiders killed and the wereraven’s loot returned. One jackalwere escapes; Kenzo and Wellby ride after the mounted orc thief, whose escape remains unresolved at this boundary.",
+        "evidence": [
+          {
+            "startUid": "u1788",
+            "endUid": "u1806"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-031",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-session.yaml",
+    "sessionYamlSha256": "f4796117650bee1efd82c946535de762871e83b5eaddb1f219b3b76ab53a3624",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-transcript.md",
+    "transcriptSha256": "d2e591eb737282b477e5e6e42d157b85027ae635d1f22db0d37c7626a87959db"
+  },
+  "places": {
+    "p01": {
+      "label": "Eastern Dunmar",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0048",
+          "quote": "DM: Um. As the sun sinks towards the horizon in the deserts of eastern Dunmar, you, hiding in a small canyon south of the ruined village of Bas Udda, begin to set your camp. It's been a long day of strange magic and as the evening comes on with it the relative safety of camp you finally have a chance to assess the heaps of magic and treasure that you've dragged from Agata's hut. As Seeker is poking over the magic and figuring out what many of the smaller items do—see the notes I sent you—around the camp, the prisoners you freed are stirring. Huddled in a ball moaning as he sips water from a waterskin, is an older Dunmari man, once a table, in soiled clothes tattered with age. A few moments ago, he was trapped by Agata's magic, but now freed by Seeker's spell he seems disoriented and scared and hasn't spoken a word yet, but is fully human and alive.\n\nNearby Agata's wooden chair also suspected to be trapped Dunmari rests so far defeating Seeker's attempts to break the enchantment. Only one wooden doll remains: a younger Dunmari woman, so if this indeed is a trapped person that must be her.\n\nResting by the fire away from the Dunmari is the freed puppet of Agata once a once a wooden scarecrow with human eyes, the halfling Garret Tealeaf, is an elderly man still somewhat disbelieving the power of your magic and the fact that he is free but sitting with a cool drink and anticipating a fresh meal, life seems to be coming back to his eyes a little bit and color to his face. However, he still stays far from the piles of treasure and magic you took from Agata's lair, especially the mirror seeming wary of anything associated with her.\n\nMost prominent among the pile of treasures scattered on the desert canyon floor is a four foot tall heavy mirror—this mirror weighs about 50 pounds—of polished silver now tightly wrapped in a cloak. This mirror, a mirror of soul trapping that can imprison any who see their reflection in a featureless extradimensional cell, caused no end of trouble and still looms over camp, despite the knowledge you have started to gain on how to control that. Many other treasures lay scattered about including a small fortune in coins and silver, a number of valuable trinkets jewelry and art that were presumably largely acquired by Agata as payment for services rendered and a number of magical items some weirder and creepier than others. So, as you sit around the fire contemplating the scene, a few hours before full dark, what would you like to accomplish?"
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Eastern Dunmar.md"
+    },
+    "p02": {
+      "label": "Canyon camp south of Bas Udda",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0048",
+          "quote": "DM: Um. As the sun sinks towards the horizon in the deserts of eastern Dunmar, you, hiding in a small canyon south of the ruined village of Bas Udda, begin to set your camp. It's been a long day of strange magic and as the evening comes on with it the relative safety of camp you finally have a chance to assess the heaps of magic and treasure that you've dragged from Agata's hut. As Seeker is poking over the magic and figuring out what many of the smaller items do—see the notes I sent you—around the camp, the prisoners you freed are stirring. Huddled in a ball moaning as he sips water from a waterskin, is an older Dunmari man, once a table, in soiled clothes tattered with age. A few moments ago, he was trapped by Agata's magic, but now freed by Seeker's spell he seems disoriented and scared and hasn't spoken a word yet, but is fully human and alive.\n\nNearby Agata's wooden chair also suspected to be trapped Dunmari rests so far defeating Seeker's attempts to break the enchantment. Only one wooden doll remains: a younger Dunmari woman, so if this indeed is a trapped person that must be her.\n\nResting by the fire away from the Dunmari is the freed puppet of Agata once a once a wooden scarecrow with human eyes, the halfling Garret Tealeaf, is an elderly man still somewhat disbelieving the power of your magic and the fact that he is free but sitting with a cool drink and anticipating a fresh meal, life seems to be coming back to his eyes a little bit and color to his face. However, he still stays far from the piles of treasure and magic you took from Agata's lair, especially the mirror seeming wary of anything associated with her.\n\nMost prominent among the pile of treasures scattered on the desert canyon floor is a four foot tall heavy mirror—this mirror weighs about 50 pounds—of polished silver now tightly wrapped in a cloak. This mirror, a mirror of soul trapping that can imprison any who see their reflection in a featureless extradimensional cell, caused no end of trouble and still looms over camp, despite the knowledge you have started to gain on how to control that. Many other treasures lay scattered about including a small fortune in coins and silver, a number of valuable trinkets jewelry and art that were presumably largely acquired by Agata as payment for services rendered and a number of magical items some weirder and creepier than others. So, as you sit around the fire contemplating the scene, a few hours before full dark, what would you like to accomplish?"
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0022",
+              "endUid": "u0048",
+              "quote": "DM: Um. As the sun sinks towards the horizon in the deserts of eastern Dunmar, you, hiding in a small canyon south of the ruined village of Bas Udda, begin to set your camp. It's been a long day of strange magic and as the evening comes on with it the relative safety of camp you finally have a chance to assess the heaps of magic and treasure that you've dragged from Agata's hut. As Seeker is poking over the magic and figuring out what many of the smaller items do—see the notes I sent you—around the camp, the prisoners you freed are stirring. Huddled in a ball moaning as he sips water from a waterskin, is an older Dunmari man, once a table, in soiled clothes tattered with age. A few moments ago, he was trapped by Agata's magic, but now freed by Seeker's spell he seems disoriented and scared and hasn't spoken a word yet, but is fully human and alive.\n\nNearby Agata's wooden chair also suspected to be trapped Dunmari rests so far defeating Seeker's attempts to break the enchantment. Only one wooden doll remains: a younger Dunmari woman, so if this indeed is a trapped person that must be her.\n\nResting by the fire away from the Dunmari is the freed puppet of Agata once a once a wooden scarecrow with human eyes, the halfling Garret Tealeaf, is an elderly man still somewhat disbelieving the power of your magic and the fact that he is free but sitting with a cool drink and anticipating a fresh meal, life seems to be coming back to his eyes a little bit and color to his face. However, he still stays far from the piles of treasure and magic you took from Agata's lair, especially the mirror seeming wary of anything associated with her.\n\nMost prominent among the pile of treasures scattered on the desert canyon floor is a four foot tall heavy mirror—this mirror weighs about 50 pounds—of polished silver now tightly wrapped in a cloak. This mirror, a mirror of soul trapping that can imprison any who see their reflection in a featureless extradimensional cell, caused no end of trouble and still looms over camp, despite the knowledge you have started to gain on how to control that. Many other treasures lay scattered about including a small fortune in coins and silver, a number of valuable trinkets jewelry and art that were presumably largely acquired by Agata as payment for services rendered and a number of magical items some weirder and creepier than others. So, as you sit around the fire contemplating the scene, a few hours before full dark, what would you like to accomplish?"
+            }
+          ]
+        },
+        {
+          "relation": "south_of",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0022",
+              "endUid": "u0048",
+              "quote": "DM: Um. As the sun sinks towards the horizon in the deserts of eastern Dunmar, you, hiding in a small canyon south of the ruined village of Bas Udda, begin to set your camp. It's been a long day of strange magic and as the evening comes on with it the relative safety of camp you finally have a chance to assess the heaps of magic and treasure that you've dragged from Agata's hut. As Seeker is poking over the magic and figuring out what many of the smaller items do—see the notes I sent you—around the camp, the prisoners you freed are stirring. Huddled in a ball moaning as he sips water from a waterskin, is an older Dunmari man, once a table, in soiled clothes tattered with age. A few moments ago, he was trapped by Agata's magic, but now freed by Seeker's spell he seems disoriented and scared and hasn't spoken a word yet, but is fully human and alive.\n\nNearby Agata's wooden chair also suspected to be trapped Dunmari rests so far defeating Seeker's attempts to break the enchantment. Only one wooden doll remains: a younger Dunmari woman, so if this indeed is a trapped person that must be her.\n\nResting by the fire away from the Dunmari is the freed puppet of Agata once a once a wooden scarecrow with human eyes, the halfling Garret Tealeaf, is an elderly man still somewhat disbelieving the power of your magic and the fact that he is free but sitting with a cool drink and anticipating a fresh meal, life seems to be coming back to his eyes a little bit and color to his face. However, he still stays far from the piles of treasure and magic you took from Agata's lair, especially the mirror seeming wary of anything associated with her.\n\nMost prominent among the pile of treasures scattered on the desert canyon floor is a four foot tall heavy mirror—this mirror weighs about 50 pounds—of polished silver now tightly wrapped in a cloak. This mirror, a mirror of soul trapping that can imprison any who see their reflection in a featureless extradimensional cell, caused no end of trouble and still looms over camp, despite the knowledge you have started to gain on how to control that. Many other treasures lay scattered about including a small fortune in coins and silver, a number of valuable trinkets jewelry and art that were presumably largely acquired by Agata as payment for services rendered and a number of magical items some weirder and creepier than others. So, as you sit around the fire contemplating the scene, a few hours before full dark, what would you like to accomplish?"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Bas Udda",
+      "evidence": [
+        {
+          "startUid": "u2253",
+          "endUid": "u2272",
+          "quote": "DM: So, as the morning. You're pack- [garbled] you're packing up somewhat reduced in number of horses.\n\nKenzo: So we execute.\n\nDM: Yeah so you're going to ride you're going to travel slowly the like eight miles to Bas Udda, which is going to take you. You know a good a good. Like three four hours, probably till like lunchtime, you know with everything loaded up with the. I mean the Dunmari he basically has to ride there's—no like. Obviously he's not walking right so um so it takes you till about noon to slowly make your way through the desert to Bas Udda um. You know it's it's same as it was doesn't seem to have changed in the 24 hours that you've been gone still you know ruined village still empty and quiet no sign of anything in the sky.\n\nHot. Another hot day it's that time of the summer, when everybody is just eagerly wait everything's dry and dusty and everybody's eagerly waiting the the thunderstorms in the summer rains that will come in a month or two. And as you arrive at Bas Udda, Garret Tealeaf looks like his his face falls slightly. And he looks kind of shocked. He turns and he says, ‘What happened?’"
+        }
+      ],
+      "kind": "ruined village",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Bas Udda.md"
+    },
+    "p04": {
+      "label": "Stone canyons near the camp",
+      "evidence": [
+        {
+          "startUid": "u2124",
+          "endUid": "u2131",
+          "quote": "Unknown: So make a survival check.\n\nDM: So you aren't you. You do find I mean it's easy to find the dead horse and the tracks lead into this sort of stone Canyon area. It's difficult to track in on bare stone. So once it gets into the Canyon area it's sort of hard to parse exactly but you do find a sort of hollowed out like overhang basically that has a little shallow indentation like this, where clearly somebody's hid for a while. And at that point it's sort of hard to tell exactly but. You know. You you sort of get the sense that tracks head South like towards Agata's house."
+        }
+      ],
+      "kind": "canyons",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1884",
+              "endUid": "u1885",
+              "quote": "DM: They’re now maybe 200 feet out at this point, your your shadow beast comes back with its with dropping the treasure that that I'm. So."
+            },
+            {
+              "startUid": "u1923",
+              "endUid": "u1927",
+              "quote": "DM: Okay um so. The desert here is pretty. Ah, you know rugged terrain right like you're you've galloped across an open spot and and the place where the orc has killed is in another sort of area where there's a bunch of broken canyons and rocks. So the shadow beast make a perception check for the shadow."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Hollowed-out overhang",
+      "evidence": [
+        {
+          "startUid": "u2124",
+          "endUid": "u2131",
+          "quote": "Unknown: So make a survival check.\n\nDM: So you aren't you. You do find I mean it's easy to find the dead horse and the tracks lead into this sort of stone Canyon area. It's difficult to track in on bare stone. So once it gets into the Canyon area it's sort of hard to parse exactly but you do find a sort of hollowed out like overhang basically that has a little shallow indentation like this, where clearly somebody's hid for a while. And at that point it's sort of hard to tell exactly but. You know. You you sort of get the sense that tracks head South like towards Agata's house."
+        }
+      ],
+      "kind": "shelter",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2124",
+              "endUid": "u2131",
+              "quote": "Unknown: So make a survival check.\n\nDM: So you aren't you. You do find I mean it's easy to find the dead horse and the tracks lead into this sort of stone Canyon area. It's difficult to track in on bare stone. So once it gets into the Canyon area it's sort of hard to parse exactly but you do find a sort of hollowed out like overhang basically that has a little shallow indentation like this, where clearly somebody's hid for a while. And at that point it's sort of hard to tell exactly but. You know. You you sort of get the sense that tracks head South like towards Agata's house."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Karawa",
+      "evidence": [
+        {
+          "startUid": "u3121",
+          "endUid": "u3146",
+          "quote": "DM: There's a blade of stone there's a long sword that, when you hit somebody when you make a critical when you hit with a critical hit, it has a chance to paralyze them to restrain them and turn them into stone for an hour, but it doesn't do anything, unless you hit with a crit. And then there's the ring of the warded mind, which is a dwarven ring of dwarven make that protects protects you from magic that would tell if you are lying or would tell your creature type or your alignment and prevents people from speaking telepathically with you, unless you allow it, and gives you an advantage on saving throws against possession and charm which seems to be dwarven make.\n\nSo you come towards the city of Karawa itself on the afternoon of the third day of travel you now having gone. Gone hungry for the past two days. Allowing your three traveling companions to finish your rations. By about three in the afternoon.\n\nDelwath: After.\n\nDM: A decent stop for lunch, you can now see the outskirts of the of the—of the village of Karawa, the red Mesa the familiar sights approaching approaching the town and the bustle of construction and actually a lot more noise than before it seems, many of the refugees who had been in Tokra have now made it back. And so the town is. The town feels more alive than it has for months than it has really since like your first meeting before, even though the festival of rebirth and the first gnoll attack many months and adventures ago. You can you can see the sounds of you know of construction of rubble being cleared. There's 10 there's brightly a few brightly colored tent set up in the ruins there's horses about that you can see in the distance. There's definitely some life coming back to this place. So. What do you want to do as you approach Karawa?"
+        }
+      ],
+      "kind": "village",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p07": {
+      "label": "Outskirts of Karawa",
+      "evidence": [
+        {
+          "startUid": "u3153",
+          "endUid": "u3219",
+          "quote": "Delwath: Back.\n\nDM: I mean, Cintra’s been here.\n\nDelwath: Right she came back with that right.\n\nKenzo: Yeah yeah yeah.\n\nDelwath: She might also be able to help take charge.\n\nDrikod: And we should, at some point, talk to Cintra’s daughter about what her experiences what could she could talk right she's old enough to.\n\nDM: She's like yeah she's she was like.\n\nDrikod: Oh okay so too young to give us any.\n\nDM: Not can talk.\n\nKenzo: But not like you know now, but Cintra is and also a good person to talk to you about these items and what we should do about them. So she may be actually a good first stop.\n\nSeeker: That's a good point.\n\nKenzo: Should we go find Cintra?\n\nUnknown: Yeah.\n\nDelwath: I mean.\n\nKenzo: Should we leave all this shit like on the outskirts and go go get Cintra and bring her out and not bring all this shit like you know into town? I ride it up with like you know horses full and you know.\n\nDelwath: Um we also split up some of us could stay with a mirror.\n\nDrikod: [garbled]. Drikod can stay with the stuff on the outskirts.\n\nKenzo: I can. I can go get Cintra and bring her bring her out, so we can talk outside of town about what to do.\n\nUnknown: I mean.\n\nDelwath: Yeah.\n\nKenzo: What is it?\n\nDelwath: I just I wonder if we should ferry the Dunmari first.\n\nKenzo: Yeah bring them in about this I'll bring the I can bring the Dunmari into town with me. Cintra because they're obviously just need care so Cintra Cintra can help you know get them set up so that they're being cared for someplace probably in the temple and then and then I'll bring Cintra out to talk about the items.\n\nDrikod: And bring us some sandwiches to.\n\nKenzo: And I'll bring sandwiches yeah you know me and me and Wellby, we could do this together, so we have more hands for sandwiches, etc., me and Wellby, then we can take that that.\n\nDelwath: Get the mirror to.\n\nKenzo: Yeah yeah we'll get the mirror will drop off the Dunmari and that and the halfling will get Cintra and the mirror and we'll bring back food.\n\nDM: Okay. So um you know, everybody is pleased to see you back and shocked to see these two people, especially when you describe what happened. Candrosa is is quite happy to take charge of them and You know, try, you know find them what care he can right take them to there's a fair number of people sort of now, now that the town and start of town has started I've got you know gotten there's more there's a lot more people here, in fact, as you as you ride into town Kenzo you know there's you see a few familiar faces you see Ikram.\n\nUnknown: Who like.\n\nDM: A distance it, you know it gives you a point, like you owe me stories.\n\nKenzo: You owe me a drink.\n\nDM: As many as you can put down. [garbled], a lot of a lot of tales behind that weathered face.\n\nKenzo: On this is good to have it's me and Wellby riding together as well, where you know we were the ones that competed in the various.\n\nDM: Right, you know. And there's just like there's not a it's not as crowded, because a lot of them, you know people who were. You know nomads nomadic are just sort of scattered across the plains, the Feast of Bhishma was not something that tons of people come back to town for but there's definitely like some of the regulars that you were used to see you know that you met early on, are around Havdar's around the centaurs or not.\n\nKenzo: Or whether.\n\nDM: Or not, the centaurs, as I recall. Cintra tells you they.\n\nKenzo: So Cintra like we're gonna bring such. I mean this is going in as quick going in it's like arena, where we're going and just just.\n\nDM: Get the mirror you come back Cintra is eager to hear of. Okay Agata's lair and what happened and I assume you tell her some of the story, as.\n\nKenzo: So, so we you know so well yeah so Wellby and I come back with a whole bunch of like snacks we don't need water because we've got the tea kettle we've got Cintra we've got the mirror yeah and and yeah and as we, as we as Wellby and I go back with Cintra, we share with her all the shit that we saw.\n\nDM: Right.\n\nKenzo: You know, explain to her what we decided to do tell her about the items and in it and the timing is perfect, as we just finished telling her all the stuff right as we arrived and meet.\n\nUnknown: Everybody yes."
+        }
+      ],
+      "kind": "outskirts",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u3153",
+              "endUid": "u3219",
+              "quote": "Delwath: Back.\n\nDM: I mean, Cintra’s been here.\n\nDelwath: Right she came back with that right.\n\nKenzo: Yeah yeah yeah.\n\nDelwath: She might also be able to help take charge.\n\nDrikod: And we should, at some point, talk to Cintra’s daughter about what her experiences what could she could talk right she's old enough to.\n\nDM: She's like yeah she's she was like.\n\nDrikod: Oh okay so too young to give us any.\n\nDM: Not can talk.\n\nKenzo: But not like you know now, but Cintra is and also a good person to talk to you about these items and what we should do about them. So she may be actually a good first stop.\n\nSeeker: That's a good point.\n\nKenzo: Should we go find Cintra?\n\nUnknown: Yeah.\n\nDelwath: I mean.\n\nKenzo: Should we leave all this shit like on the outskirts and go go get Cintra and bring her out and not bring all this shit like you know into town? I ride it up with like you know horses full and you know.\n\nDelwath: Um we also split up some of us could stay with a mirror.\n\nDrikod: [garbled]. Drikod can stay with the stuff on the outskirts.\n\nKenzo: I can. I can go get Cintra and bring her bring her out, so we can talk outside of town about what to do.\n\nUnknown: I mean.\n\nDelwath: Yeah.\n\nKenzo: What is it?\n\nDelwath: I just I wonder if we should ferry the Dunmari first.\n\nKenzo: Yeah bring them in about this I'll bring the I can bring the Dunmari into town with me. Cintra because they're obviously just need care so Cintra Cintra can help you know get them set up so that they're being cared for someplace probably in the temple and then and then I'll bring Cintra out to talk about the items.\n\nDrikod: And bring us some sandwiches to.\n\nKenzo: And I'll bring sandwiches yeah you know me and me and Wellby, we could do this together, so we have more hands for sandwiches, etc., me and Wellby, then we can take that that.\n\nDelwath: Get the mirror to.\n\nKenzo: Yeah yeah we'll get the mirror will drop off the Dunmari and that and the halfling will get Cintra and the mirror and we'll bring back food.\n\nDM: Okay. So um you know, everybody is pleased to see you back and shocked to see these two people, especially when you describe what happened. Candrosa is is quite happy to take charge of them and You know, try, you know find them what care he can right take them to there's a fair number of people sort of now, now that the town and start of town has started I've got you know gotten there's more there's a lot more people here, in fact, as you as you ride into town Kenzo you know there's you see a few familiar faces you see Ikram.\n\nUnknown: Who like.\n\nDM: A distance it, you know it gives you a point, like you owe me stories.\n\nKenzo: You owe me a drink.\n\nDM: As many as you can put down. [garbled], a lot of a lot of tales behind that weathered face.\n\nKenzo: On this is good to have it's me and Wellby riding together as well, where you know we were the ones that competed in the various.\n\nDM: Right, you know. And there's just like there's not a it's not as crowded, because a lot of them, you know people who were. You know nomads nomadic are just sort of scattered across the plains, the Feast of Bhishma was not something that tons of people come back to town for but there's definitely like some of the regulars that you were used to see you know that you met early on, are around Havdar's around the centaurs or not.\n\nKenzo: Or whether.\n\nDM: Or not, the centaurs, as I recall. Cintra tells you they.\n\nKenzo: So Cintra like we're gonna bring such. I mean this is going in as quick going in it's like arena, where we're going and just just.\n\nDM: Get the mirror you come back Cintra is eager to hear of. Okay Agata's lair and what happened and I assume you tell her some of the story, as.\n\nKenzo: So, so we you know so well yeah so Wellby and I come back with a whole bunch of like snacks we don't need water because we've got the tea kettle we've got Cintra we've got the mirror yeah and and yeah and as we, as we as Wellby and I go back with Cintra, we share with her all the shit that we saw.\n\nDM: Right.\n\nKenzo: You know, explain to her what we decided to do tell her about the items and in it and the timing is perfect, as we just finished telling her all the stuff right as we arrived and meet.\n\nUnknown: Everybody yes."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Crossing into Shakun’s protection",
+      "evidence": [
+        {
+          "startUid": "u2767",
+          "endUid": "u2776",
+          "quote": "DM: We're identifying magic and stuff so now that now that Schwartz is back so over the next just in the interest of you know narrative over the next few days you continue slowly west towards Karawa. The first day Seeker identifies the the braided ring, which has a ring of displacement made made by the Drankorians and allows you to expend a charge to dodge as a bonus action. I'm. The. And at the end of your first day of travel I'm still in the heat. You pass through Kenzo and and Drikod you you notice, you are sort of aware made aware as you as you travel on. Towards the end of the day that like you can almost see a faint shimmering vision of—of Shakun's realm. I just sent you a message. As you cross over into Shakun's protection."
+        }
+      ],
+      "kind": "boundary",
+      "vaultPath": "Gods and Religions/Religions/Five Siblings/Shakun's Protection.md",
+      "note": "The protection is crossed between Bas Udda and Karawa; the vault link identifies the magical boundary, not a building."
+    },
+    "p09": {
+      "label": "Shakun’s realm",
+      "evidence": [
+        {
+          "startUid": "u2767",
+          "endUid": "u2776",
+          "quote": "DM: We're identifying magic and stuff so now that now that Schwartz is back so over the next just in the interest of you know narrative over the next few days you continue slowly west towards Karawa. The first day Seeker identifies the the braided ring, which has a ring of displacement made made by the Drankorians and allows you to expend a charge to dodge as a bonus action. I'm. The. And at the end of your first day of travel I'm still in the heat. You pass through Kenzo and and Drikod you you notice, you are sort of aware made aware as you as you travel on. Towards the end of the day that like you can almost see a faint shimmering vision of—of Shakun's realm. I just sent you a message. As you cross over into Shakun's protection."
+        }
+      ],
+      "kind": "divine realm",
+      "vaultPath": "Cosmology/Spiritual Realms/Shakun's Realm.md"
+    },
+    "p10": {
+      "label": "Agata’s hut",
+      "evidence": [
+        {
+          "startUid": "u3539",
+          "endUid": "u3545",
+          "quote": "DM: A pretty good. So the mirror fades. The image fades and you see reflected in the the history mirror a—the interior of Agata's hut.\n\nUnknown: Dark.\n\nDM: Smoky chair and table all set up as mostly as you saw them."
+        }
+      ],
+      "kind": "hut",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair.md"
+    },
+    "p11": {
+      "label": "Dark martial castle",
+      "evidence": [
+        {
+          "startUid": "u3581",
+          "endUid": "u3623",
+          "quote": "DM: Ah. You don't recognize her but I'm. Cintra who's watching this is like, you know, \"Holy shit\" when she flashes past. Cintra definitely recognizes her all right I'm than a. Another Dunmari looks. I'm prematurely aged bald weary eyes full of pain I'm standing kneeling in front of the mirror just kind of looking up at it almost wish it the expression on his face is almost wishing it would take him his tongue has been cut out. His thumbs are cut off of his fingers. And Agata is like behind him kind of pushes him down slaps him on the back of the head and spits um. You know at him as he vanishes.\n\nSeeker: Well.\n\nDM: Then. A scarred older man. One eye missing Gray hair sitting in the Chair. It almost looks like he's babbling. Like sitting in a chair.\n\nDelwath: The Chair, that was the person.\n\nDM: The Chair, that was the person babbling like talking talking talking talking of course you can't understand any of the words but he's just he's sitting there just talking and talking and talking as like crying rocking back and forth. And Agata’s just standing there listening growing increasingly angry increasingly frustrated and then grabs his hair his hand in his head forcibly turns his face to look into the mirror and just like shoves him towards it, as he vanishes. And then I'm—a—the scene shifts you're no longer in Agata's hut. You are in a fire lit castle made of of dark stone with a very sort of martial like [garbled] was brutalist type architecture like hard corners, everything is sharp. And we're like there are there are sort of weapons decorating the far wall apart from where this mirror is set in the seems to be a it's not a huge Chamber it's like a private Chamber but it's you know it's filled with accoutrements of war and standing in front of the mirror are two people.\n\nOne female hobgoblin wearing Armor I'm arguing, maybe saying you know, having some heated conversation with sort of almost shadowy looking man standing there with a hood over his face all you can really see it as features are two glowing red eyes peering out of the shadow. And the hobgoblin says something a command word to the mirror and the man standing in shadow throws back his hood starts laughing and snaps his fingers and the hobgoblin vanishes than."
+        }
+      ],
+      "kind": "castle",
+      "note": "Unidentified historical castle in the mirror vision."
+    },
+    "p12": {
+      "label": "Private chamber in the castle",
+      "evidence": [
+        {
+          "startUid": "u3604",
+          "endUid": "u3623",
+          "quote": "DM: The Chair, that was the person babbling like talking talking talking talking of course you can't understand any of the words but he's just he's sitting there just talking and talking and talking as like crying rocking back and forth. And Agata’s just standing there listening growing increasingly angry increasingly frustrated and then grabs his hair his hand in his head forcibly turns his face to look into the mirror and just like shoves him towards it, as he vanishes. And then I'm—a—the scene shifts you're no longer in Agata's hut. You are in a fire lit castle made of of dark stone with a very sort of martial like [garbled] was brutalist type architecture like hard corners, everything is sharp. And we're like there are there are sort of weapons decorating the far wall apart from where this mirror is set in the seems to be a it's not a huge Chamber it's like a private Chamber but it's you know it's filled with accoutrements of war and standing in front of the mirror are two people.\n\nOne female hobgoblin wearing Armor I'm arguing, maybe saying you know, having some heated conversation with sort of almost shadowy looking man standing there with a hood over his face all you can really see it as features are two glowing red eyes peering out of the shadow. And the hobgoblin says something a command word to the mirror and the man standing in shadow throws back his hood starts laughing and snaps his fingers and the hobgoblin vanishes than."
+        }
+      ],
+      "kind": "chamber",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u3604",
+              "endUid": "u3623",
+              "quote": "DM: The Chair, that was the person babbling like talking talking talking talking of course you can't understand any of the words but he's just he's sitting there just talking and talking and talking as like crying rocking back and forth. And Agata’s just standing there listening growing increasingly angry increasingly frustrated and then grabs his hair his hand in his head forcibly turns his face to look into the mirror and just like shoves him towards it, as he vanishes. And then I'm—a—the scene shifts you're no longer in Agata's hut. You are in a fire lit castle made of of dark stone with a very sort of martial like [garbled] was brutalist type architecture like hard corners, everything is sharp. And we're like there are there are sort of weapons decorating the far wall apart from where this mirror is set in the seems to be a it's not a huge Chamber it's like a private Chamber but it's you know it's filled with accoutrements of war and standing in front of the mirror are two people.\n\nOne female hobgoblin wearing Armor I'm arguing, maybe saying you know, having some heated conversation with sort of almost shadowy looking man standing there with a hood over his face all you can really see it as features are two glowing red eyes peering out of the shadow. And the hobgoblin says something a command word to the mirror and the man standing in shadow throws back his hood starts laughing and snaps his fingers and the hobgoblin vanishes than."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0048"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Camp in a small desert canyon south of ruined Bas Udda; horses and gear occupy one branch and tents another.",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0048",
+          "quote": "DM: Um. As the sun sinks towards the horizon in the deserts of eastern Dunmar, you, hiding in a small canyon south of the ruined village of Bas Udda, begin to set your camp. It's been a long day of strange magic and as the evening comes on with it the relative safety of camp you finally have a chance to assess the heaps of magic and treasure that you've dragged from Agata's hut. As Seeker is poking over the magic and figuring out what many of the smaller items do—see the notes I sent you—around the camp, the prisoners you freed are stirring. Huddled in a ball moaning as he sips water from a waterskin, is an older Dunmari man, once a table, in soiled clothes tattered with age. A few moments ago, he was trapped by Agata's magic, but now freed by Seeker's spell he seems disoriented and scared and hasn't spoken a word yet, but is fully human and alive.\n\nNearby Agata's wooden chair also suspected to be trapped Dunmari rests so far defeating Seeker's attempts to break the enchantment. Only one wooden doll remains: a younger Dunmari woman, so if this indeed is a trapped person that must be her.\n\nResting by the fire away from the Dunmari is the freed puppet of Agata once a once a wooden scarecrow with human eyes, the halfling Garret Tealeaf, is an elderly man still somewhat disbelieving the power of your magic and the fact that he is free but sitting with a cool drink and anticipating a fresh meal, life seems to be coming back to his eyes a little bit and color to his face. However, he still stays far from the piles of treasure and magic you took from Agata's lair, especially the mirror seeming wary of anything associated with her.\n\nMost prominent among the pile of treasures scattered on the desert canyon floor is a four foot tall heavy mirror—this mirror weighs about 50 pounds—of polished silver now tightly wrapped in a cloak. This mirror, a mirror of soul trapping that can imprison any who see their reflection in a featureless extradimensional cell, caused no end of trouble and still looms over camp, despite the knowledge you have started to gain on how to control that. Many other treasures lay scattered about including a small fortune in coins and silver, a number of valuable trinkets jewelry and art that were presumably largely acquired by Agata as payment for services rendered and a number of magical items some weirder and creepier than others. So, as you sit around the fire contemplating the scene, a few hours before full dark, what would you like to accomplish?"
+        },
+        {
+          "startUid": "u0510",
+          "endUid": "u0518",
+          "quote": "Delwath: Delwath stays up most of the night anyway, like and even if somebody else's on watch.\n\nDrikod: Is there any choke points around the camp like natural?\n\nDM: I mean you're in a cat you're in a Canyon it's so it's like.\n\nSeeker: Who are we talking about this.\n\nDM: There's like a there's like a sort of a bigger opening part of the Canyon where all the like horses and gear is stashed that has like one exit and then you're sort of Camp with the tents has sort of two exits so it's the canyons like. I don't know like a Y or something basically. So there's three choke there's like three choke points effectively."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u1807",
+        "endUid": "u1934"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo and Wellby pursue the mounted thief into the dark nearby canyons, find the dead horse, then return without the orc; the shadow also searches unsuccessfully.",
+      "evidence": [
+        {
+          "startUid": "u1807",
+          "endUid": "u1815",
+          "quote": "Kenzo: Well, I mean. It says keen sense of hearing.\n\nUnknown: Yeah.\n\nDM: Sounds riding into the darkness. Yes, which direction are you riding?\n\nKenzo: I'm listening I'm listening for the the the horse.\n\nDM: Okay, make a perception check. Don't hear anything."
+        },
+        {
+          "startUid": "u1866",
+          "endUid": "u1873",
+          "quote": "DM: Yeah That is another one um. So. You you ride you ride up well it's a bit tricky for you to. So you do manage to you know galloping off in this direction, like just listening paying attention to the sounds. You soon come across a horse, with its throat slit. And otherwise things seem pretty quiet actually at the moment."
+        },
+        {
+          "startUid": "u1923",
+          "endUid": "u1934",
+          "quote": "DM: Okay um so. The desert here is pretty. Ah, you know rugged terrain right like you're you've galloped across an open spot and and the place where the orc has killed is in another sort of area where there's a bunch of broken canyons and rocks. So the shadow beast make a perception check for the shadow.\n\nKenzo: I use my own perception or [garbled].\n\nDelwath: No it's. I can roll it's perception is not fantastic.\n\nKenzo: Except for right now, when you go a.\n\nDelwath: 14.\n\nDM: It spends a good like 2030 minutes criss crossing the desert here. Without any sign of this orc."
+        },
+        {
+          "startUid": "u1972",
+          "endUid": "u1977",
+          "quote": "DM: No you haven't. So, as you reconvene and camp, two creatures have gotten away one jackalwere and one orc on a now dead horse. Garret patched up seems kind of taken aback and it's like, ‘That stuff is cursed. That's what it is. That stuff is cursed.’"
+        }
+      ],
+      "from": "p02",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Follow the fleeing horse into nearby rocky desert; discover the slaughtered horse and lose the thief among canyons.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u2121",
+        "endUid": "u2135"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath scouts the nearby stone canyons and finds an overhang used as a hiding place. He loses the escape trail; only the raiders’ inbound trail leads from the south, toward Agata’s.",
+      "evidence": [
+        {
+          "startUid": "u2121",
+          "endUid": "u2135",
+          "quote": "Delwath: Well, and Delwath can get up after four hours. And poke around looking at the tracks.\n\nDM: Okay, so Delwath is searching looking at tracks in the early morning light.\n\nUnknown: So make a survival check.\n\nDM: So you aren't you. You do find I mean it's easy to find the dead horse and the tracks lead into this sort of stone Canyon area. It's difficult to track in on bare stone. So once it gets into the Canyon area it's sort of hard to parse exactly but you do find a sort of hollowed out like overhang basically that has a little shallow indentation like this, where clearly somebody's hid for a while. And at that point it's sort of hard to tell exactly but. You know. You you sort of get the sense that tracks head South like towards Agata's house.\n\nDelwath: What about the other the five or the four orcs we hunted down any idea can I see where they came from?\n\nDM: Yeah so sorry that's you lose the trail of the, the one that was hiding you can't tell where it went from its hiding place, but the the group the whole group together seems to come from Agata's. So that the inbound tracks are coming from the south."
+        }
+      ],
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Follow tracks past the dead horse into stone canyons.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u2253",
+        "endUid": "u2272"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party and three rescued companions travel slowly to Bas Udda, arriving about noon to cache treasure and care for the freed people.",
+      "evidence": [
+        {
+          "startUid": "u2253",
+          "endUid": "u2272",
+          "quote": "DM: So, as the morning. You're pack- [garbled] you're packing up somewhat reduced in number of horses.\n\nKenzo: So we execute.\n\nDM: Yeah so you're going to ride you're going to travel slowly the like eight miles to Bas Udda, which is going to take you. You know a good a good. Like three four hours, probably till like lunchtime, you know with everything loaded up with the. I mean the Dunmari he basically has to ride there's—no like. Obviously he's not walking right so um so it takes you till about noon to slowly make your way through the desert to Bas Udda um. You know it's it's same as it was doesn't seem to have changed in the 24 hours that you've been gone still you know ruined village still empty and quiet no sign of anything in the sky.\n\nHot. Another hot day it's that time of the summer, when everybody is just eagerly wait everything's dry and dusty and everybody's eagerly waiting the the thunderstorms in the summer rains that will come in a month or two. And as you arrive at Bas Udda, Garret Tealeaf looks like his his face falls slightly. And he looks kind of shocked. He turns and he says, ‘What happened?’"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "ride",
+      "distance": {
+        "value": 8,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Approximate accepted travel narration; earlier planning said about ten miles"
+      },
+      "duration": {
+        "min": 3,
+        "max": 4,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Estimate confirmed by narrated noon arrival"
+      }
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u2767",
+        "endUid": "u2776"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Travel west from Bas Udda toward Karawa over three travel days and two road nights, crossing into Shakun’s protection and arriving at the outskirts around three in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u2767",
+          "endUid": "u2776",
+          "quote": "DM: We're identifying magic and stuff so now that now that Schwartz is back so over the next just in the interest of you know narrative over the next few days you continue slowly west towards Karawa. The first day Seeker identifies the the braided ring, which has a ring of displacement made made by the Drankorians and allows you to expend a charge to dodge as a bonus action. I'm. The. And at the end of your first day of travel I'm still in the heat. You pass through Kenzo and and Drikod you you notice, you are sort of aware made aware as you as you travel on. Towards the end of the day that like you can almost see a faint shimmering vision of—of Shakun's realm. I just sent you a message. As you cross over into Shakun's protection."
+        },
+        {
+          "startUid": "u2671",
+          "endUid": "u2675",
+          "quote": "DM: You know, in the morning it's going to take a guess wait a minute for for us, but just a question so it's going to take you probably two and a half days. So you'll have. [garbled] to spend two more nights on the road. But after you know, at the end of the first day you should pass the into the protection of Shakun and so it'll be safer. But as you're spending three nights on the road you'll have three more shots at identifying something yeah so while we're waiting for Schwartz to get back what three things else, do you want to identify?"
+        },
+        {
+          "startUid": "u3088",
+          "endUid": "u3115",
+          "quote": "DM: Um so over the next day, you traveled across the desert towards towards Karawa along the old road the trade road. Garret sort of you know, gets over a shock a little bit about the destruction of Bas Udda and perks up and starts occasionally pointing out things to Wellby that have changed over the past decade in the desert things change slowly, but he still remembers this route well having passed through here almost every year for much of his life. You know and and not doesn't because it's not chatty and he still mostly only talks to Wellby telepathically doesn't really speak out loud much that to most of you seems quite silent. But it's starting to open up a little bit and and clearly like you know is you almost get the sense like now, this is like reminding them of his family and he's starting to worry about who's still alive like what's you know what's happened over the past 11 years to his clan. And is eager to get as far west as quickly as you can.\n\nThe two Dunmari still have not really spoken. But the woman who you've been spending time with is clearly more aware of the world now. I'm and. And will eat a little bit and sort of you know recognizes you Kenzo and, as also seems to be very concerned about the older man is like looks at him a lot like you'll often see her like he's still slumped over his horse basically not moving or speaking and you'll see her likes like sort of sitting up in the saddle. She just like gazing at him for an hour or two as you ride.\n\nKenzo: Do they have a shared history, and I can I tell stuff after spending as much time with the two of them?\n\nDM: Maybe it's hard to tell.\n\nKenzo: Maybe I make an insight check.\n\nDM: Yeah make it actually that's a good idea, make an insight check.\n\nKenzo: That’s an insight.\n\nDM: Yeah I mean. It does seem like the way she even just the way she's looking at him seems like a relative a younger relative obviously like daughter niece or younger cousin. It's hard to say much more than that.\n\nUnknown: All right.\n\nKenzo: I'm getting a little late right [garbled].\n\nDelwath: Yeah, so I think we we.\n\nDM: So you get towards town yeah now the second night in the desert."
+        },
+        {
+          "startUid": "u3121",
+          "endUid": "u3146",
+          "quote": "DM: There's a blade of stone there's a long sword that, when you hit somebody when you make a critical when you hit with a critical hit, it has a chance to paralyze them to restrain them and turn them into stone for an hour, but it doesn't do anything, unless you hit with a crit. And then there's the ring of the warded mind, which is a dwarven ring of dwarven make that protects protects you from magic that would tell if you are lying or would tell your creature type or your alignment and prevents people from speaking telepathically with you, unless you allow it, and gives you an advantage on saving throws against possession and charm which seems to be dwarven make.\n\nSo you come towards the city of Karawa itself on the afternoon of the third day of travel you now having gone. Gone hungry for the past two days. Allowing your three traveling companions to finish your rations. By about three in the afternoon.\n\nDelwath: After.\n\nDM: A decent stop for lunch, you can now see the outskirts of the of the—of the village of Karawa, the red Mesa the familiar sights approaching approaching the town and the bustle of construction and actually a lot more noise than before it seems, many of the refugees who had been in Tokra have now made it back. And so the town is. The town feels more alive than it has for months than it has really since like your first meeting before, even though the festival of rebirth and the first gnoll attack many months and adventures ago. You can you can see the sounds of you know of construction of rubble being cleared. There's 10 there's brightly a few brightly colored tent set up in the ruins there's horses about that you can see in the distance. There's definitely some life coming back to this place. So. What do you want to do as you approach Karawa?"
+        },
+        {
+          "startUid": "u3153",
+          "endUid": "u3219",
+          "quote": "Delwath: Back.\n\nDM: I mean, Cintra’s been here.\n\nDelwath: Right she came back with that right.\n\nKenzo: Yeah yeah yeah.\n\nDelwath: She might also be able to help take charge.\n\nDrikod: And we should, at some point, talk to Cintra’s daughter about what her experiences what could she could talk right she's old enough to.\n\nDM: She's like yeah she's she was like.\n\nDrikod: Oh okay so too young to give us any.\n\nDM: Not can talk.\n\nKenzo: But not like you know now, but Cintra is and also a good person to talk to you about these items and what we should do about them. So she may be actually a good first stop.\n\nSeeker: That's a good point.\n\nKenzo: Should we go find Cintra?\n\nUnknown: Yeah.\n\nDelwath: I mean.\n\nKenzo: Should we leave all this shit like on the outskirts and go go get Cintra and bring her out and not bring all this shit like you know into town? I ride it up with like you know horses full and you know.\n\nDelwath: Um we also split up some of us could stay with a mirror.\n\nDrikod: [garbled]. Drikod can stay with the stuff on the outskirts.\n\nKenzo: I can. I can go get Cintra and bring her bring her out, so we can talk outside of town about what to do.\n\nUnknown: I mean.\n\nDelwath: Yeah.\n\nKenzo: What is it?\n\nDelwath: I just I wonder if we should ferry the Dunmari first.\n\nKenzo: Yeah bring them in about this I'll bring the I can bring the Dunmari into town with me. Cintra because they're obviously just need care so Cintra Cintra can help you know get them set up so that they're being cared for someplace probably in the temple and then and then I'll bring Cintra out to talk about the items.\n\nDrikod: And bring us some sandwiches to.\n\nKenzo: And I'll bring sandwiches yeah you know me and me and Wellby, we could do this together, so we have more hands for sandwiches, etc., me and Wellby, then we can take that that.\n\nDelwath: Get the mirror to.\n\nKenzo: Yeah yeah we'll get the mirror will drop off the Dunmari and that and the halfling will get Cintra and the mirror and we'll bring back food.\n\nDM: Okay. So um you know, everybody is pleased to see you back and shocked to see these two people, especially when you describe what happened. Candrosa is is quite happy to take charge of them and You know, try, you know find them what care he can right take them to there's a fair number of people sort of now, now that the town and start of town has started I've got you know gotten there's more there's a lot more people here, in fact, as you as you ride into town Kenzo you know there's you see a few familiar faces you see Ikram.\n\nUnknown: Who like.\n\nDM: A distance it, you know it gives you a point, like you owe me stories.\n\nKenzo: You owe me a drink.\n\nDM: As many as you can put down. [garbled], a lot of a lot of tales behind that weathered face.\n\nKenzo: On this is good to have it's me and Wellby riding together as well, where you know we were the ones that competed in the various.\n\nDM: Right, you know. And there's just like there's not a it's not as crowded, because a lot of them, you know people who were. You know nomads nomadic are just sort of scattered across the plains, the Feast of Bhishma was not something that tons of people come back to town for but there's definitely like some of the regulars that you were used to see you know that you met early on, are around Havdar's around the centaurs or not.\n\nKenzo: Or whether.\n\nDM: Or not, the centaurs, as I recall. Cintra tells you they.\n\nKenzo: So Cintra like we're gonna bring such. I mean this is going in as quick going in it's like arena, where we're going and just just.\n\nDM: Get the mirror you come back Cintra is eager to hear of. Okay Agata's lair and what happened and I assume you tell her some of the story, as.\n\nKenzo: So, so we you know so well yeah so Wellby and I come back with a whole bunch of like snacks we don't need water because we've got the tea kettle we've got Cintra we've got the mirror yeah and and yeah and as we, as we as Wellby and I go back with Cintra, we share with her all the shit that we saw.\n\nDM: Right.\n\nKenzo: You know, explain to her what we decided to do tell her about the items and in it and the timing is perfect, as we just finished telling her all the stuff right as we arrived and meet.\n\nUnknown: Everybody yes."
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Cross into Shakun’s protection at the end of the first travel day.",
+          "place": "p08"
+        },
+        {
+          "reading": "Continue across the desert along the old trade road."
+        }
+      ],
+      "duration": {
+        "value": 2.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Initial approximate forecast corroborated by the completed travel montage"
+      }
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u2767",
+        "endUid": "u2782"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "At the crossing the party pauses to discuss the warning and destroys the thorn seeds before continuing.",
+      "evidence": [
+        {
+          "startUid": "u2767",
+          "endUid": "u2782",
+          "quote": "DM: We're identifying magic and stuff so now that now that Schwartz is back so over the next just in the interest of you know narrative over the next few days you continue slowly west towards Karawa. The first day Seeker identifies the the braided ring, which has a ring of displacement made made by the Drankorians and allows you to expend a charge to dodge as a bonus action. I'm. The. And at the end of your first day of travel I'm still in the heat. You pass through Kenzo and and Drikod you you notice, you are sort of aware made aware as you as you travel on. Towards the end of the day that like you can almost see a faint shimmering vision of—of Shakun's realm. I just sent you a message. As you cross over into Shakun's protection.\n\nUnknown: Ooh.\n\nKenzo: When we when do I could feel this Tim?\n\nDM: Right, as you cross over into the other side of the barrier.\n\nKenzo: Yeah yeah yeah as soon as I cross over I look at Drikod, did you did you feel that sensation as well?"
+        },
+        {
+          "startUid": "u2951",
+          "endUid": "u3023",
+          "quote": "Delwath: If we are so concerned, should we not, at least try something simple I mean not all magic is hard to destroy. For example, these seeds see particularly damaging right seeds that wither all life within 300 feet and curse the land. But could we not just try fire? We’ll know if it succeeds we’ll know if the magic is done.\n\nDrikod: Drikod produces flame.\n\nKenzo: Before.\n\nDelwath: Seeker.\n\nDrikod: So that.\n\nSeeker: Okay, I produced a bag of three seeds.\n\nDrikod: Laid on a stone Drikod. What produces fire.\n\nSeeker: Just a second, what are we going to find out? We're gonna find out if the flame can destroy these magic items.\n\nDrikod: But.\n\nSeeker: We won't learn anything from Shakun about whether they were the source of the problem is that true?\n\nDrikod: Shakun has told us what she will tell us.\n\nKenzo: You know the one of the thing, though. There is still the possibility of, and it will be horrific but we may learn something of showing these items to mirror.\n\nDelwath: We can't show them all to the mirror, it would take.\n\nSeeker: On.\n\nDelwath: The mirror we're going to show the mirror I mean we would priority I think we need to prioritize what we show to the mirror yeah.\n\nKenzo: That, by the way, Meta game, we have to do tonight, you have to show the people the fucking mirror to.\n\nDelwath: Get ready TIM.\n\nDM: I hope you're right now I do this for like.\n\nDelwath: Come on.\n\nUnknown: Yeah.\n\nDM: Very predictable what you're going to show to.\n\nUnknown: The.\n\nDrikod: Drikod looks. ‘Do we burn the seeds?’ He waits for consensus.\n\nDelwath: Yes, it seems to me they're the worst of the items that we have from them.\n\nWellby: Except for the fact that those made of tongues.\n\nKenzo: Produces. Flame wait wait, I mean [garbled] Seeker, Seeker’s- Seeker still has.\n\nSeeker: I'm not sure, in what way we benefit from destroying the seeds, but.\n\nDrikod: There's one less evil thing in the world that How long does it curse the earth?\n\nDM: Forever.\n\nDrikod: Forever there's. I mean no there's no justifiable context.\n\nDM: It can be removed, like there's Druidic magic that can heal the land right but yeah it doesn't end until somebody uses magic to end.\n\nKenzo: This does feel pretty terrible.\n\nSeeker: Okay, destroy the seeds.\n\nDrikod: Drikod produces flame and focus it on the seeds, which are lying on a stone on the ground.\n\nDM: That they start to burn it was like this crackling almost like. Like like it's like popcorn about to pop it's that sizzling sound, where is everybody standing?\n\nKenzo: Our course.\n\nDM: I gotta ask you where everybody standing before you start.\n\nSeeker: I'm like three feet away from the seeds.\n\nDrikod: So I can produce flames 30 feet away, so I am.\n\nKenzo: What's the range of the seeds?\n\nDelwath: I will Mage Hand the seeds on to the stone from 30 feet away. Yes, that's the range of Mage Hand.\n\nSeeker: While you’re doing that I'm standing right here.\n\nDelwath: That I'm 60 feet away it.\n\nDM: Burn and this like black billowing smoke begins to billow out of the—of the burning plant matter and it smells. It smells horrible. It smells like some mix of ash and sulfur and rot. It doesn't you know makes you gag it doesn't do damage or anything but as it as you step away from the smoke and back off, over the next few minutes, the seeds burn to ash. And are gone.\n\nWellby: Awesome.\n\nDrikod: Drikod buries them and then blesses the earth over the buried remnants and ashes of these destroyed seeds.\n\nUnknown: Okay.\n\nDM: I mean there's no- Delwath knows there's no magic left.\n\nUnknown: Yeah."
+        }
+      ],
+      "place": "p08",
+      "relations": [
+        {
+          "type": "during",
+          "target": "l05"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u2767",
+        "endUid": "u2776"
+      },
+      "actors": [
+        "Kenzo",
+        "Drikod"
+      ],
+      "reading": "Kenzo and Drikod see a faint shimmering vision of Shakun’s realm as they cross the barrier; no entry into that realm occurs.",
+      "evidence": [
+        {
+          "startUid": "u2767",
+          "endUid": "u2776",
+          "quote": "DM: We're identifying magic and stuff so now that now that Schwartz is back so over the next just in the interest of you know narrative over the next few days you continue slowly west towards Karawa. The first day Seeker identifies the the braided ring, which has a ring of displacement made made by the Drankorians and allows you to expend a charge to dodge as a bonus action. I'm. The. And at the end of your first day of travel I'm still in the heat. You pass through Kenzo and and Drikod you you notice, you are sort of aware made aware as you as you travel on. Towards the end of the day that like you can almost see a faint shimmering vision of—of Shakun's realm. I just sent you a message. As you cross over into Shakun's protection."
+        }
+      ],
+      "place": "p09",
+      "mode": "vision",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u3153",
+        "endUid": "u3187"
+      },
+      "actors": [
+        "Drikod",
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "Drikod, Seeker and Delwath stay with the items outside town while Kenzo and Wellby take the three rescued companions into Karawa.",
+      "evidence": [
+        {
+          "startUid": "u3153",
+          "endUid": "u3187",
+          "quote": "Delwath: Back.\n\nDM: I mean, Cintra’s been here.\n\nDelwath: Right she came back with that right.\n\nKenzo: Yeah yeah yeah.\n\nDelwath: She might also be able to help take charge.\n\nDrikod: And we should, at some point, talk to Cintra’s daughter about what her experiences what could she could talk right she's old enough to.\n\nDM: She's like yeah she's she was like.\n\nDrikod: Oh okay so too young to give us any.\n\nDM: Not can talk.\n\nKenzo: But not like you know now, but Cintra is and also a good person to talk to you about these items and what we should do about them. So she may be actually a good first stop.\n\nSeeker: That's a good point.\n\nKenzo: Should we go find Cintra?\n\nUnknown: Yeah.\n\nDelwath: I mean.\n\nKenzo: Should we leave all this shit like on the outskirts and go go get Cintra and bring her out and not bring all this shit like you know into town? I ride it up with like you know horses full and you know.\n\nDelwath: Um we also split up some of us could stay with a mirror.\n\nDrikod: [garbled]. Drikod can stay with the stuff on the outskirts.\n\nKenzo: I can. I can go get Cintra and bring her bring her out, so we can talk outside of town about what to do.\n\nUnknown: I mean.\n\nDelwath: Yeah.\n\nKenzo: What is it?\n\nDelwath: I just I wonder if we should ferry the Dunmari first.\n\nKenzo: Yeah bring them in about this I'll bring the I can bring the Dunmari into town with me. Cintra because they're obviously just need care so Cintra Cintra can help you know get them set up so that they're being cared for someplace probably in the temple and then and then I'll bring Cintra out to talk about the items.\n\nDrikod: And bring us some sandwiches to.\n\nKenzo: And I'll bring sandwiches yeah you know me and me and Wellby, we could do this together, so we have more hands for sandwiches, etc., me and Wellby, then we can take that that.\n\nDelwath: Get the mirror to.\n\nKenzo: Yeah yeah we'll get the mirror will drop off the Dunmari and that and the halfling will get Cintra and the mirror and we'll bring back food."
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u3188",
+        "endUid": "u3219"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo and Wellby enter Karawa, entrust the rescued people to Candrosa, greet Ikram and return with Cintra, food and the Mirror of the Past.",
+      "evidence": [
+        {
+          "startUid": "u3188",
+          "endUid": "u3219",
+          "quote": "DM: Okay. So um you know, everybody is pleased to see you back and shocked to see these two people, especially when you describe what happened. Candrosa is is quite happy to take charge of them and You know, try, you know find them what care he can right take them to there's a fair number of people sort of now, now that the town and start of town has started I've got you know gotten there's more there's a lot more people here, in fact, as you as you ride into town Kenzo you know there's you see a few familiar faces you see Ikram.\n\nUnknown: Who like.\n\nDM: A distance it, you know it gives you a point, like you owe me stories.\n\nKenzo: You owe me a drink.\n\nDM: As many as you can put down. [garbled], a lot of a lot of tales behind that weathered face.\n\nKenzo: On this is good to have it's me and Wellby riding together as well, where you know we were the ones that competed in the various.\n\nDM: Right, you know. And there's just like there's not a it's not as crowded, because a lot of them, you know people who were. You know nomads nomadic are just sort of scattered across the plains, the Feast of Bhishma was not something that tons of people come back to town for but there's definitely like some of the regulars that you were used to see you know that you met early on, are around Havdar's around the centaurs or not.\n\nKenzo: Or whether.\n\nDM: Or not, the centaurs, as I recall. Cintra tells you they.\n\nKenzo: So Cintra like we're gonna bring such. I mean this is going in as quick going in it's like arena, where we're going and just just.\n\nDM: Get the mirror you come back Cintra is eager to hear of. Okay Agata's lair and what happened and I assume you tell her some of the story, as.\n\nKenzo: So, so we you know so well yeah so Wellby and I come back with a whole bunch of like snacks we don't need water because we've got the tea kettle we've got Cintra we've got the mirror yeah and and yeah and as we, as we as Wellby and I go back with Cintra, we share with her all the shit that we saw.\n\nDM: Right.\n\nKenzo: You know, explain to her what we decided to do tell her about the items and in it and the timing is perfect, as we just finished telling her all the stuff right as we arrived and meet.\n\nUnknown: Everybody yes."
+        }
+      ],
+      "from": "p07",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Enter Karawa to deliver the rescued companions and collect Cintra, food and the mirror.",
+          "place": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u3212",
+        "endUid": "u3219"
+      },
+      "actors": [
+        "party",
+        "Cintra"
+      ],
+      "reading": "Kenzo and Wellby return to the rest of the party outside Karawa with Cintra and the mirror, establishing the setting for item destruction and releases.",
+      "evidence": [
+        {
+          "startUid": "u3212",
+          "endUid": "u3219",
+          "quote": "DM: Get the mirror you come back Cintra is eager to hear of. Okay Agata's lair and what happened and I assume you tell her some of the story, as.\n\nKenzo: So, so we you know so well yeah so Wellby and I come back with a whole bunch of like snacks we don't need water because we've got the tea kettle we've got Cintra we've got the mirror yeah and and yeah and as we, as we as Wellby and I go back with Cintra, we share with her all the shit that we saw.\n\nDM: Right.\n\nKenzo: You know, explain to her what we decided to do tell her about the items and in it and the timing is perfect, as we just finished telling her all the stuff right as we arrived and meet.\n\nUnknown: Everybody yes."
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u3539",
+        "endUid": "u3602"
+      },
+      "actors": [
+        "party",
+        "Cintra"
+      ],
+      "reading": "The party and Cintra watch historical imprisonment scenes inside Agata’s hut through the Mirror of the Past.",
+      "evidence": [
+        {
+          "startUid": "u3539",
+          "endUid": "u3602",
+          "quote": "DM: A pretty good. So the mirror fades. The image fades and you see reflected in the the history mirror a—the interior of Agata's hut.\n\nUnknown: Dark.\n\nDM: Smoky chair and table all set up as mostly as you saw them.\n\nWellby: Is really creepy.\n\nDM: And there is a—there is an orc sitting in the chair the big chair that used to be a human. Female orc, battered, bruised, [garbled], her face um you know black eye hands tied behind her and Agata is holding a jar of like a bubbly brown gooey substance and painting it onto her leg. And, as she paints, the leg, it starts to solidify and turn to wood and then she takes a—like a like an awl out and starts chipping at this orc's wooden leg. And the orc and clearly they're having some conversation, but the orc is not saying anything and then Agata paints more of this bubbly goo substance brown oozing goo.\n\nDelwath: Is the same as the JAR of putty-like brown goo that we have. Yes, we should destroy that way. [garbled], but anyway.\n\nDM: And then Agata slaps this orc and then turns the mirror’s hanging on the wall right turns and said something and the orc vanishes.\n\nKenzo: And then. When you.\n\nDM: Hear.\n\nDelwath: You can't hear.\n\nWellby: Did the orc wear insignia of any band that was visible?\n\nUnknown: Um.\n\nDM: No, the orc was mostly naked, just like scraps of clothing clearly had been tortured for a while.\n\nKenzo: And enemy of my enemy is my friend.\n\nDM: Then, going back in time, you see a Dunmari woman. Striking beautiful Dunmari woman high cheekbones light brown skin almost a regal bearing wearing a well made traveling dress doesn't seem to be have been hurt at all um. But just has this surprised just you see a brief glimpse of a surprised look on her face almost too quick to notice, as she vanishes in front of the mirror and then.\n\nKenzo: TIM do I recognize her as she royalty is she like is there some like you know legend of like a lost, you know, whatever you know.\n\nDM: Do you recognize her?\n\nDrikod: Wait wait only I can see this right?\n\nDM: No everybody sees the reflection oh.\n\nDrikod: God I got.\n\nDM: Ah. You don't recognize her but I'm. Cintra who's watching this is like, you know, \"Holy shit\" when she flashes past. Cintra definitely recognizes her all right I'm than a. Another Dunmari looks. I'm prematurely aged bald weary eyes full of pain I'm standing kneeling in front of the mirror just kind of looking up at it almost wish it the expression on his face is almost wishing it would take him his tongue has been cut out. His thumbs are cut off of his fingers. And Agata is like behind him kind of pushes him down slaps him on the back of the head and spits um. You know at him as he vanishes.\n\nSeeker: Well.\n\nDM: Then. A scarred older man. One eye missing Gray hair sitting in the Chair. It almost looks like he's babbling. Like sitting in a chair."
+        }
+      ],
+      "place": "p10",
+      "mode": "vision",
+      "observerPlace": "p07",
+      "context": "vision"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u3597",
+        "endUid": "u3643"
+      },
+      "actors": [
+        "party",
+        "Cintra"
+      ],
+      "reading": "The vision moves to a martial castle’s private chamber, where an armored female hobgoblin confronts a red-eyed hooded man. A distinct male hobgoblin subsequently appears constructing the mirror; his workshop is not identified as the same room.",
+      "evidence": [
+        {
+          "startUid": "u3597",
+          "endUid": "u3643",
+          "quote": "DM: Then. A scarred older man. One eye missing Gray hair sitting in the Chair. It almost looks like he's babbling. Like sitting in a chair.\n\nDelwath: The Chair, that was the person.\n\nDM: The Chair, that was the person babbling like talking talking talking talking of course you can't understand any of the words but he's just he's sitting there just talking and talking and talking as like crying rocking back and forth. And Agata’s just standing there listening growing increasingly angry increasingly frustrated and then grabs his hair his hand in his head forcibly turns his face to look into the mirror and just like shoves him towards it, as he vanishes. And then I'm—a—the scene shifts you're no longer in Agata's hut. You are in a fire lit castle made of of dark stone with a very sort of martial like [garbled] was brutalist type architecture like hard corners, everything is sharp. And we're like there are there are sort of weapons decorating the far wall apart from where this mirror is set in the seems to be a it's not a huge Chamber it's like a private Chamber but it's you know it's filled with accoutrements of war and standing in front of the mirror are two people.\n\nOne female hobgoblin wearing Armor I'm arguing, maybe saying you know, having some heated conversation with sort of almost shadowy looking man standing there with a hood over his face all you can really see it as features are two glowing red eyes peering out of the shadow. And the hobgoblin says something a command word to the mirror and the man standing in shadow throws back his hood starts laughing and snaps his fingers and the hobgoblin vanishes than.\n\nUnknown: Whoa.\n\nDrikod: Could we have anything like are we able to read lips, have any of the things command words or anything like that.\n\nDM: No.\n\nWellby: When he throws his hood back what is he?\n\nDM: Yeah he looks I'm. Still, like sort of indistinct features almost almost as if they're they're sort of just slight just like shifting into place when he throws his hood back um yeah kind of yeah sort of [garbled] almost shaggy looking hard to describe. But the piercing red eyes sort of consume you your.\n\nThen I'm—a nother hobgoblin. Standing polishing you're now looking up your the mirror is facing up looking at the ceiling and there is a hobgoblin that is just doing this sort of polishing motion and as—as he does this. Now, as she does this sorry um. She is sorry, as he does this, he is like saying enchantments muttering under his breath in some you know arcane tongue obviously you can't see his lips. But you can see, like the things moving and start attaching on to the front of the mirror and the mirror itself is beginning to grow and build up this hobgoblin constructs that. And then the image fades."
+        }
+      ],
+      "place": "p12",
+      "mode": "vision",
+      "observerPlace": "p07",
+      "context": "vision"
+    }
+  ]
+}
