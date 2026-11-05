@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-044",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-session.yaml",
+    "sessionYamlSha256": "42aee13e111c10580096bc4f55803b588c0eaa81bbd46f1ec8482564fece53c9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-transcript.md",
+    "transcriptSha256": "dde85ed252ffd332020b2eab31de9660d1a7af3bbecdba192017199d69319c66"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0013"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0040"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0292"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0293",
+        "endUid": "u2377"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2378",
+        "endUid": "u4205"
+      },
+      "category": "combat",
+      "note": "The theft and pursuit use repeated ordered turns before the formal initiative roll at u2932–u2933; the continuous encounter ends with the negotiated departure."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u4206",
+        "endUid": "u4235"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u4236",
+        "endUid": "u4280"
+      },
+      "category": "meta_discussion"
+    }
+  ]
+}

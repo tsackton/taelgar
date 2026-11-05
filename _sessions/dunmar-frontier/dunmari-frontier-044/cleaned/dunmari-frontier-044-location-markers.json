@@ -1,0 +1,676 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-044",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-session.yaml",
+    "sessionYamlSha256": "42aee13e111c10580096bc4f55803b588c0eaa81bbd46f1ec8482564fece53c9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-transcript.md",
+    "transcriptSha256": "dde85ed252ffd332020b2eab31de9660d1a7af3bbecdba192017199d69319c66"
+  },
+  "places": {
+    "p01": {
+      "label": "Copper Hills",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0020",
+          "quote": "the rolling grasslands of the Copper Hills stretching all directions"
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Greater Dunmar/Darba Highlands/Copper Hills.md"
+    },
+    "p02": {
+      "label": "Road to Darba by the dead wyverns",
+      "evidence": [
+        {
+          "startUid": "u0031",
+          "endUid": "u0032",
+          "quote": "the north side of the road to Darba"
+        },
+        {
+          "startUid": "u0033",
+          "endUid": "u0040",
+          "quote": "These are the heroes of Karawa"
+        }
+      ],
+      "kind": "roadside",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0014",
+              "endUid": "u0020",
+              "quote": "the rolling grasslands of the Copper Hills stretching all directions"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Ruined mining village",
+      "evidence": [
+        {
+          "startUid": "u1175",
+          "endUid": "u1175",
+          "quote": "one of the abandoned mining villages just off the road."
+        },
+        {
+          "startUid": "u1719",
+          "endUid": "u1734",
+          "quote": "That town, as you begin to approach this ruined town as the sunsets"
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Vandar.md",
+      "note": "Identified as Vandar by Session 44 (DuFr), Timeline and Narrative. That record and Vandar place it in the Copper Hills; this transcript leaves the village unnamed."
+    },
+    "p04": {
+      "label": "Partially intact temple",
+      "evidence": [
+        {
+          "startUid": "u1719",
+          "endUid": "u1734",
+          "quote": "the only building that is still, intact in any way is the temple"
+        },
+        {
+          "startUid": "u1973",
+          "endUid": "u1973",
+          "quote": "it's a bit of a tight squeeze to get everybody in the temple"
+        }
+      ],
+      "kind": "building",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1719",
+              "endUid": "u1734",
+              "quote": "most of the town is pretty much in ruins, the only thing that still the only building that is still, intact in any way is the temple"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Foul pool below the ruined wall",
+      "evidence": [
+        {
+          "startUid": "u1841",
+          "endUid": "u1853",
+          "quote": "this like swampy marshy area at the base of the walls"
+        }
+      ],
+      "kind": "pool",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1841",
+              "endUid": "u1853",
+              "quote": "the wall has like fallen down down slope and then there's this like marshy probably area"
+            }
+          ]
+        }
+      ],
+      "note": "The pool is at the base of the collapsed town wall; the transcript leaves the exact village boundary open."
+    },
+    "p06": {
+      "label": "Temple exterior and nearby ruins",
+      "evidence": [
+        {
+          "startUid": "u2909",
+          "endUid": "u2918",
+          "quote": "Delwath is back by the temple"
+        },
+        {
+          "startUid": "u2990",
+          "endUid": "u2994",
+          "quote": "around near the ruin buildings"
+        }
+      ],
+      "kind": "battlefield",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2990",
+              "endUid": "u2994",
+              "quote": "around near the ruin buildings"
+            }
+          ]
+        }
+      ],
+      "note": "Map clarification leaves exact combat positions open."
+    },
+    "p08": {
+      "label": "Chase path outside the temple",
+      "evidence": [
+        {
+          "startUid": "u2794",
+          "endUid": "u2796",
+          "quote": "400 feet away."
+        },
+        {
+          "startUid": "u3055",
+          "endUid": "u3057",
+          "quote": "400 feet away."
+        }
+      ],
+      "kind": "path",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2794",
+              "endUid": "u2796",
+              "quote": "400 feet away."
+            }
+          ]
+        }
+      ],
+      "note": "The pursuit reaches roughly 400 feet from the temple; Riswynn casts from behind the faster pursuers. Its precise position relative to the village boundary is unestablished."
+    },
+    "p07": {
+      "label": "Extradimensional cell in the mirror",
+      "evidence": [
+        {
+          "startUid": "u2423",
+          "endUid": "u2424",
+          "quote": "You're in the mirror now."
+        },
+        {
+          "startUid": "u2646",
+          "endUid": "u2646",
+          "quote": "You're on a different plane of existence."
+        }
+      ],
+      "kind": "extradimensional cell",
+      "mobile": true,
+      "note": "Kenzo’s confinement moves with the stolen mirror."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0044"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party faces Kadmos’s group at the roadside among the dead wyverns in the Copper Hills.",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0020",
+          "quote": "a camera pans over a group of five adventurers on the road, surrounded by a pair of dead wyverns"
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0032",
+          "quote": "the north side of the road to Darba"
+        },
+        {
+          "startUid": "u0041",
+          "endUid": "u0044",
+          "quote": "Kenzo rushing forward"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u1213",
+        "endUid": "u1222"
+      },
+      "actors": [
+        "party",
+        "Johar",
+        "hired bandits"
+      ],
+      "reading": "Leave the roadside and travel toward the hills on the broken road, passing above the wrecked caravan, then arrive at the ruined village at sunset.",
+      "evidence": [
+        {
+          "startUid": "u1213",
+          "endUid": "u1213",
+          "quote": "As we head in that direction"
+        },
+        {
+          "startUid": "u1316",
+          "endUid": "u1317",
+          "quote": "He's riding with you."
+        },
+        {
+          "startUid": "u1446",
+          "endUid": "u1452",
+          "quote": "So yeah it's getting dark at this sort of approach, the hills after about, three maybe four or five miles of traveling you come to the sort of broken edge of the road, like this is not a nice, this is not a existing road that people travel on it's like the ruins of an old road and you see actually, from here as we begin to ascend the height of land, you can see like downslope a little bit, like maybe a half a quarter mile into the valley, there's like the strewn remains of a broken caravan and then, as you as you head up this road, maybe another, five miles, you can see the the ruins of a village sort of perched up on a hill with the mines, presumably, you can't see mines from here."
+        },
+        {
+          "startUid": "u1719",
+          "endUid": "u1734",
+          "quote": "as you've continued up the hill after recovering what could be salvaged from the from the ruins of this caravan."
+        },
+        {
+          "startUid": "u1792",
+          "endUid": "u1794",
+          "quote": "what do you do in town."
+        },
+        {
+          "startUid": "u1973",
+          "endUid": "u1973",
+          "quote": "it's a bit of a tight squeeze to get everybody in the temple, but I think it'll work, even the animals."
+        },
+        {
+          "startUid": "u2048",
+          "endUid": "u2049",
+          "quote": "Johar comes over and sits down next to Kenzo"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "ride and walk",
+      "route": [
+        {
+          "reading": "After roughly 3–5 miles, reach the broken road on the ascent; the caravan wreck is downslope about a quarter to half a mile away. Bandits investigate it while party discussion continues."
+        },
+        {
+          "reading": "The village ruins are described another roughly five miles up the road; continue uphill to the village. The abandoned mines farther back are proposed for later exploration and are not visited."
+        }
+      ],
+      "note": "The distances given on approach are approximate route descriptions, not measured total travel distance. The earlier forecast of reaching the hills before darkness does not establish an elapsed duration."
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u1831",
+        "endUid": "u1840"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Seeker and Riswynn work on fortifying the temple while the foul smell is investigated.",
+      "evidence": [
+        {
+          "startUid": "u1835",
+          "endUid": "u1835",
+          "quote": "Shore up the temple walls"
+        },
+        {
+          "startUid": "u1840",
+          "endUid": "u1840",
+          "quote": "I'll stay working in the temple"
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1841",
+        "endUid": "u1853"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Approach the pool at the base of the ruined wall and inspect the source of the smell.",
+      "evidence": [
+        {
+          "startUid": "u1831",
+          "endUid": "u1833",
+          "quote": "We'll track the stench."
+        },
+        {
+          "startUid": "u1841",
+          "endUid": "u1853",
+          "quote": "as you approach, you can see"
+        },
+        {
+          "startUid": "u1865",
+          "endUid": "u1869",
+          "quote": "It's just us"
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u1931",
+        "endUid": "u1945"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Use Ghostly Gaze to see a sleeping, ogre-sized creature beneath the murky pool, without entering the water.",
+      "evidence": [
+        {
+          "startUid": "u1931",
+          "endUid": "u1937",
+          "quote": "you see through the muck, you can see the sort of ghostly outline of some large, sleeping maybe ogre shaped creature"
+        },
+        {
+          "startUid": "u1939",
+          "endUid": "u1939",
+          "quote": "It's it seems to be asleep underwater."
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p05",
+      "mode": "local"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u1973",
+        "endUid": "u1973"
+      },
+      "actors": [
+        "party",
+        "Johar",
+        "hired bandits"
+      ],
+      "reading": "Camp together inside the partially intact temple with the animals and supplies; Johar is later confirmed to stay inside during the fighting.",
+      "evidence": [
+        {
+          "startUid": "u1973",
+          "endUid": "u1973",
+          "quote": "it's a bit of a tight squeeze to get everybody in the temple, but I think it'll work, even the animals."
+        },
+        {
+          "startUid": "u2048",
+          "endUid": "u2049",
+          "quote": "Johar comes over and sits down next to Kenzo"
+        },
+        {
+          "startUid": "u4086",
+          "endUid": "u4086",
+          "quote": "Stayed he stayed inside"
+        }
+      ],
+      "place": "p04",
+      "note": "The pool scouts’ return is implicit in the accepted whole-camp setup; no separate explicit return journey is narrated."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u2419",
+        "endUid": "u2424"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo is trapped in an extradimensional cell as the stolen mirror is turned toward him.",
+      "evidence": [
+        {
+          "startUid": "u2419",
+          "endUid": "u2420",
+          "quote": "The mirror, it spins around."
+        },
+        {
+          "startUid": "u2423",
+          "endUid": "u2424",
+          "quote": "You're in the mirror now."
+        }
+      ],
+      "from": "p04",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "magical confinement"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2446",
+        "endUid": "u2453"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Move through the temple entrance to obtain a view of the fleeing mirror; later narration keeps both at the temple during the pursuit.",
+      "evidence": [
+        {
+          "startUid": "u2446",
+          "endUid": "u2448",
+          "quote": "you got to come through the door to do that."
+        },
+        {
+          "startUid": "u2453",
+          "endUid": "u2453",
+          "quote": "Yes, I also want to do that."
+        },
+        {
+          "startUid": "u2909",
+          "endUid": "u2911",
+          "quote": "Yep I'm at the temple."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "note": "The later battle remains at the doorway and adjacent ruins; these two do not accompany Wellby’s long chase."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2492",
+        "endUid": "u2499"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Leave the temple, then fly after Marcella along the path outside it; continue the pursuit until she is brought down.",
+      "evidence": [
+        {
+          "startUid": "u2492",
+          "endUid": "u2492",
+          "quote": "I'm gonna come out the door to"
+        },
+        {
+          "startUid": "u2635",
+          "endUid": "u2639",
+          "quote": "Raven's Whistle lets you fly twice as fast as your walking speed"
+        },
+        {
+          "startUid": "u2810",
+          "endUid": "u2812",
+          "quote": "I'm I match her distance for distance."
+        },
+        {
+          "startUid": "u3055",
+          "endUid": "u3057",
+          "quote": "400 feet away."
+        }
+      ],
+      "from": "p04",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk, then fly"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2683",
+        "endUid": "u2695"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Wellby releases Kenzo from the mirror beside Marcella on the chase path; Kenzo falls to the ground.",
+      "evidence": [
+        {
+          "startUid": "u2683",
+          "endUid": "u2685",
+          "quote": "Kenzo pops out of the mirror"
+        },
+        {
+          "startUid": "u2690",
+          "endUid": "u2690",
+          "quote": "you materialize within 10 feet of the mirror"
+        },
+        {
+          "startUid": "u2694",
+          "endUid": "u2695",
+          "quote": "falling to the ground and land prone."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "release from magical confinement"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2831",
+        "endUid": "u2835"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn uses Dust of Speed to pursue far enough to strike Marcella, then runs back toward the temple battle.",
+      "evidence": [
+        {
+          "startUid": "u2831",
+          "endUid": "u2831",
+          "quote": "I used it as soon as I started to want to run after her"
+        },
+        {
+          "startUid": "u2834",
+          "endUid": "u2835",
+          "quote": "you can use your Dust of Speed."
+        },
+        {
+          "startUid": "u2898",
+          "endUid": "u2900",
+          "quote": "She falls unconscious."
+        },
+        {
+          "startUid": "u2940",
+          "endUid": "u2942",
+          "quote": "I'm going to shout that I'm going back"
+        },
+        {
+          "startUid": "u3413",
+          "endUid": "u3413",
+          "quote": "you've now closed within maybe 60 or 70 feet of them."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "run",
+      "route": [
+        {
+          "place": "p08",
+          "reading": "Runs out along the chase path to cast at Marcella before returning toward the temple battle."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2985",
+        "endUid": "u2985"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Retrieve the mirror and run back toward the temple, arriving among the nearby fighting around the Wall of Fire.",
+      "evidence": [
+        {
+          "startUid": "u2985",
+          "endUid": "u2985",
+          "quote": "I grabbed the mirror and I start running back to the temple."
+        },
+        {
+          "startUid": "u3388",
+          "endUid": "u3388",
+          "quote": "you can get within like 70 feet 65 feet."
+        },
+        {
+          "startUid": "u3712",
+          "endUid": "u3712",
+          "quote": "I run around the edge with the mirror and just start running at them"
+        }
+      ],
+      "from": "p08",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "run",
+      "route": [
+        {
+          "reading": "Return from the distant chase to the area outside the temple, then run around the end of the Wall of Fire toward Kadmos."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u3062",
+        "endUid": "u3069"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Fly back from Marcella to the temple battle, then land near Kadmos.",
+      "evidence": [
+        {
+          "startUid": "u3062",
+          "endUid": "u3062",
+          "quote": "I'm heading back as quickly as I possibly can"
+        },
+        {
+          "startUid": "u3288",
+          "endUid": "u3291",
+          "quote": "120 feet away."
+        },
+        {
+          "startUid": "u3617",
+          "endUid": "u3621",
+          "quote": "I'm going to end up somewhere around this end of the Wall of Fire"
+        },
+        {
+          "startUid": "u3884",
+          "endUid": "u3885",
+          "quote": "come down out of the air"
+        }
+      ],
+      "from": "p08",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly and land"
+    }
+  ]
+}

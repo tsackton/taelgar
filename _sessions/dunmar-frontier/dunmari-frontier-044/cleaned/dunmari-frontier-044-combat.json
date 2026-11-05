@@ -1,0 +1,908 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-044",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-session.yaml",
+    "sessionYamlSha256": "42aee13e111c10580096bc4f55803b588c0eaa81bbd46f1ec8482564fece53c9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-transcript.md",
+    "transcriptSha256": "dde85ed252ffd332020b2eab31de9660d1a7af3bbecdba192017199d69319c66",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-segments.json",
+      "sha256": "e4ffbd6fd0f84e85b7eeeb3e60a02bbf7f8343726f70d7f995142a83daffe75d",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Roadside clash with Kadmos and his companions",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Attempts to Polymorph Kenzo into a rabbit to stop his charge. Kenzo succeeds on the Wisdom save against DC 16; the spell has no effect.",
+              "evidence": [
+                {
+                  "startUid": "u0070",
+                  "endUid": "u0115"
+                }
+              ]
+            },
+            {
+              "actor": "Marcella",
+              "kind": "turn",
+              "summary": "Rides into Kenzo’s path and calls for everyone to stop and calm down.",
+              "evidence": [
+                {
+                  "startUid": "u0117",
+                  "endUid": "u0123"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves to intercept Kenzo, insists the newcomers intend to help, and readies a tackle. Kenzo subsequently jumps over him; no successful grapple is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u0133",
+                  "endUid": "u0165"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Jumps over the intervening allies toward Kadmos and attacks without advantage. His staff deals 13 damage, followed by unarmed strikes that leave Kadmos bleeding and seriously hurt. The DM restores all of Kenzo’s ki before the flurry. The final combined attack damage is not clearly recorded.",
+              "evidence": [
+                {
+                  "startUid": "u0152",
+                  "endUid": "u0172"
+                },
+                {
+                  "startUid": "u0189",
+                  "endUid": "u0222"
+                },
+                {
+                  "startUid": "u0238",
+                  "endUid": "u0257"
+                }
+              ]
+            },
+            {
+              "actor": "Hektor",
+              "kind": "reaction",
+              "summary": "As Kenzo jumps into halberd reach, hits him with a 27 for 16 slashing damage, consuming temporary hit points and leaving him at 8 HP after correction.",
+              "evidence": [
+                {
+                  "startUid": "u0173",
+                  "endUid": "u0188"
+                }
+              ]
+            },
+            {
+              "actor": "Marcella",
+              "kind": "reaction",
+              "summary": "Her readied arrow triggers when Kadmos looks seriously hurt, but a natural 1 misses Kenzo. It passes too far away for him to catch and redirect it.",
+              "evidence": [
+                {
+                  "startUid": "u0224",
+                  "endUid": "u0235"
+                }
+              ]
+            },
+            {
+              "actor": "Hektor",
+              "kind": "turn",
+              "summary": "Steps forward and strikes Kenzo for 12 damage, corrected from 10. Kenzo falls unconscious; Hektor stops attacking and stands over him with the halberd.",
+              "evidence": [
+                {
+                  "startUid": "u0251",
+                  "endUid": "u0276"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Runs to Kenzo and stabilizes him with a healer’s kit, preventing death saves. Antonia signals agreement and prepares to help.",
+              "evidence": [
+                {
+                  "startUid": "u0278",
+                  "endUid": "u0287"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The fighting stops with Kenzo unconscious but stabilized and Kadmos badly wounded. The DM explicitly drops initiative. Antonia’s subsequent 6-point healing and the resumed negotiation occur after this combat.",
+        "evidence": [
+          {
+            "startUid": "u0278",
+            "endUid": "u0292"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s005",
+      "encounter": "Mirror theft, pursuit, and battle at the ruined temple",
+      "openingActions": [
+        {
+          "actor": "Invisible thieves",
+          "kind": "event",
+          "summary": "The mirror tilts and departs while the top and small crafting objects rise through the roof opening. Kenzo shouts the alarm and approaches the mirror.",
+          "evidence": [
+            {
+              "startUid": "u2378",
+              "endUid": "u2385"
+            }
+          ]
+        },
+        {
+          "actor": "Mirror of Soul Trapping",
+          "kind": "event",
+          "summary": "As the active mirror turns, Kenzo fails its DC 15 Charisma save despite advantage and is trapped inside. The other PCs wake as the mirror and top are carried away.",
+          "evidence": [
+            {
+              "startUid": "u2387",
+              "endUid": "u2428"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Wakes, goes through the temple entrance for line of sight, and casts Sickening Radiance around the escaping mirror carrier, a 30-foot-radius area requiring a DC 16 Constitution save at the start of a turn. Calls for the bandits to watch from the roof and withhold fire until an attack.",
+              "evidence": [
+                {
+                  "startUid": "u2427",
+                  "endUid": "u2478"
+                },
+                {
+                  "startUid": "u2561",
+                  "endUid": "u2565"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Leaves the temple, hides, and readies a shot for when the thief becomes visible. Marcella’s passive perception later defeats the intended advantage.",
+              "evidence": [
+                {
+                  "startUid": "u2492",
+                  "endUid": "u2499"
+                },
+                {
+                  "startUid": "u2585",
+                  "endUid": "u2587"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Gives Wellby inspiration and readies a second-level Earthen Grasp for the thief’s appearance.",
+              "evidence": [
+                {
+                  "startUid": "u2501",
+                  "endUid": "u2509"
+                },
+                {
+                  "startUid": "u2558",
+                  "endUid": "u2560"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Readies Hold Person to trigger when the thief becomes visible.",
+              "evidence": [
+                {
+                  "startUid": "u2514",
+                  "endUid": "u2535"
+                }
+              ]
+            },
+            {
+              "actor": "Marcella",
+              "kind": "event",
+              "summary": "Fails the Constitution save with 9: takes 17 radiant damage, gains one exhaustion level, and glows green, defeating invisibility. She is identified as Marcella; the mirror faces outward and does not trap her.",
+              "evidence": [
+                {
+                  "startUid": "u2537",
+                  "endUid": "u2557"
+                },
+                {
+                  "startUid": "u2573",
+                  "endUid": "u2574"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Releases Earthen Grasp. Marcella succeeds on the Strength save with 16, takes half damage as adjudicated, and is not restrained; a numerical damage amount is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2558",
+                  "endUid": "u2577"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "reaction",
+              "summary": "Releases Hold Person; Marcella rolls 20 on the Wisdom save and is unaffected.",
+              "evidence": [
+                {
+                  "startUid": "u2576",
+                  "endUid": "u2580"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Fires the readied arrow without advantage. A 19 and Marcella’s wounded state are recorded, but the spoken result and damage are incomplete.",
+              "evidence": [
+                {
+                  "startUid": "u2584",
+                  "endUid": "u2599"
+                }
+              ]
+            },
+            {
+              "actor": "Marcella",
+              "kind": "turn",
+              "summary": "Makes the next Constitution save with 16 and flees almost 200 feet using her Ring of Haste; no additional damage or exhaustion is awarded for this save.",
+              "evidence": [
+                {
+                  "startUid": "u2599",
+                  "endUid": "u2619"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Keeps concentrating on Sickening Radiance at the temple. His proposed Fly casting is superseded by his explicit decision to remain and preserve Marcella’s glow, later confirmed at the temple door.",
+              "evidence": [
+                {
+                  "startUid": "u2625",
+                  "endUid": "u2633"
+                },
+                {
+                  "startUid": "u2858",
+                  "endUid": "u2860"
+                },
+                {
+                  "startUid": "u2910",
+                  "endUid": "u2918"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses the Raven Whistle to fly after Marcella. Briefly stops whistling to speak the command for cell four, freeing Kenzo from the mirror. Talking interrupts flight as adjudicated; Wellby angles to avoid a large fall, with no falling damage assigned to him.",
+              "evidence": [
+                {
+                  "startUid": "u2635",
+                  "endUid": "u2652"
+                },
+                {
+                  "startUid": "u2665",
+                  "endUid": "u2695"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "event",
+              "summary": "Is released within 10 feet of the mirror, falls for 6 damage, and lands prone. Retrospective short-rest credit restores his ki; spending his last hit die heals 5, leaving 11 HP as stated.",
+              "evidence": [
+                {
+                  "startUid": "u2683",
+                  "endUid": "u2727"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Deactivates the mirror and attacks Marcella with his staff and unarmed strikes; a hit leaves her badly wounded. Abandons the grapple proposal for Flurry of Blows, with an 18 explicitly missing. No complete damage total or full individual attack result sequence is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2729",
+                  "endUid": "u2785"
+                }
+              ]
+            },
+            {
+              "actor": "Marcella",
+              "kind": "turn",
+              "summary": "Disengages as a bonus action, then uses movement, Dash, and her hasted action to run another 180 feet, avoiding an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u2788",
+                  "endUid": "u2796"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Continues the flying pursuit at Marcella’s speed, using the second of three whistle charges. Each charge lasts 15 rounds, longer than the remaining Haste as adjudicated.",
+              "evidence": [
+                {
+                  "startUid": "u2810",
+                  "endUid": "u2812"
+                },
+                {
+                  "startUid": "u2852",
+                  "endUid": "u2877"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Continues chasing with Step of the Wind, reaching 135 feet of movement per round but falling behind the hasted thief.",
+              "evidence": [
+                {
+                  "startUid": "u2813",
+                  "endUid": "u2817"
+                },
+                {
+                  "startUid": "u2854",
+                  "endUid": "u2855"
+                },
+                {
+                  "startUid": "u2878",
+                  "endUid": "u2888"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Uses Dust of Speed retrospectively as accepted by the DM, dashing to remain within spell range, then hits Marcella with Guiding Bolt. Marcella falls unconscious and drops the mirror; it remains intact.",
+              "evidence": [
+                {
+                  "startUid": "u2822",
+                  "endUid": "u2835"
+                },
+                {
+                  "startUid": "u2856",
+                  "endUid": "u2856"
+                },
+                {
+                  "startUid": "u2889",
+                  "endUid": "u2907"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "event",
+              "summary": "Appears from invisibility roughly 60 feet from the temple as a large red gorilla-like demon appears beside Delwath. Threatens the party; a formal initiative roll organizes the continuing fight.",
+              "evidence": [
+                {
+                  "startUid": "u2919",
+                  "endUid": "u2947"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Retrieves the inactive mirror and starts running back toward the temple. The suggestion to tie Marcella up is superseded when Wellby takes charge of her; later dialogue confirms she was not bound.",
+              "evidence": [
+                {
+                  "startUid": "u2961",
+                  "endUid": "u2969"
+                },
+                {
+                  "startUid": "u2978",
+                  "endUid": "u2985"
+                },
+                {
+                  "startUid": "u3636",
+                  "endUid": "u3661"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Banishment on the demon. The Charisma-save adjudication against DC 16 makes it vanish before it attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2953",
+                  "endUid": "u2955"
+                },
+                {
+                  "startUid": "u2972",
+                  "endUid": "u2977"
+                }
+              ]
+            },
+            {
+              "actor": "Casian",
+              "kind": "turn",
+              "summary": "Emerges by the ruins about 100 feet away and casts a twisting hypnotic pattern over Delwath, Seeker, and about half the bandits. Both PCs have advantage on the Wisdom saves against charm: Seeker resists, but Delwath and affected bandits are incapacitated. Delwath’s speed is zero until shaken awake or damaged.",
+              "evidence": [
+                {
+                  "startUid": "u2990",
+                  "endUid": "u3013"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Runs to Delwath and shakes him awake, then gives him inspiration as a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u3014",
+                  "endUid": "u3029"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes Marcella’s ring, bow, other weapons, and boots, leaving her bleeding and unattended as he starts back. Putting on the Haste ring has no immediate effect because he is not attuned. He is too far away to command Baxter.",
+              "evidence": [
+                {
+                  "startUid": "u3030",
+                  "endUid": "u3069"
+                },
+                {
+                  "startUid": "u3654",
+                  "endUid": "u3661"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "turn",
+              "summary": "Withdraws slightly, summons a ghost beside Delwath, and assumes a larger, dark, withered skeletal appearance.",
+              "evidence": [
+                {
+                  "startUid": "u3070",
+                  "endUid": "u3085"
+                },
+                {
+                  "startUid": "u3095",
+                  "endUid": "u3103"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned ghost",
+              "kind": "turn",
+              "summary": "Attacks Delwath twice; rolls of 1 and 3 both miss.",
+              "evidence": [
+                {
+                  "startUid": "u3084",
+                  "endUid": "u3094"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Uncharmed bandits",
+              "kind": "turn",
+              "summary": "The three uncharmed bandits shoot at Kadmos. One arrow hits for 8 damage; he succeeds on the concentration save and the ghost remains.",
+              "evidence": [
+                {
+                  "startUid": "u3111",
+                  "endUid": "u3141"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs toward the temple carrying the mirror, using Step of the Wind for 135 feet and closing to about 165 feet from the temple.",
+              "evidence": [
+                {
+                  "startUid": "u3142",
+                  "endUid": "u3153"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Summons his flying shadow beast above Kadmos and uses his ring as a bonus action to impose disadvantage on attacks against him, recorded retrospectively.",
+              "evidence": [
+                {
+                  "startUid": "u3155",
+                  "endUid": "u3172"
+                },
+                {
+                  "startUid": "u3301",
+                  "endUid": "u3314"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow beast",
+              "kind": "turn",
+              "summary": "Dive-bombs Kadmos for 12 damage, then uses flyby to climb away. Kadmos again succeeds on his concentration save.",
+              "evidence": [
+                {
+                  "startUid": "u3167",
+                  "endUid": "u3187"
+                }
+              ]
+            },
+            {
+              "actor": "Casian",
+              "kind": "turn",
+              "summary": "Demands surrender, then casts Fireball at Seeker and all seven bandits on the temple roof, excluding Delwath after the target discussion. A Dexterity save is requested; Seeker is assigned 33 fire damage and all seven bandits die. No separate bandit save results or explicit PC success/failure announcement are retained.",
+              "evidence": [
+                {
+                  "startUid": "u3188",
+                  "endUid": "u3223"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Erupting Earth at Casian. His Dexterity save is 11 against DC 16: he takes 21 damage and the ground becomes difficult terrain. Seeker retreats into the entrance baffle while retaining a view outside.",
+              "evidence": [
+                {
+                  "startUid": "u3255",
+                  "endUid": "u3264"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses the last Raven Whistle charge and flies 180 feet back toward the temple, closing to about 120 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u3279",
+                  "endUid": "u3291"
+                }
+              ]
+            },
+            {
+              "actor": "Marcella",
+              "kind": "event",
+              "summary": "Recovers from unconsciousness on a natural 20 death save; this result is explained later when she returns.",
+              "evidence": [
+                {
+                  "startUid": "u3294",
+                  "endUid": "u3300"
+                },
+                {
+                  "startUid": "u3630",
+                  "endUid": "u3661"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned ghost",
+              "kind": "turn",
+              "summary": "Two attacks against Delwath miss with disadvantage from his ring; a 17 is explicitly a miss.",
+              "evidence": [
+                {
+                  "startUid": "u3301",
+                  "endUid": "u3314"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "turn",
+              "summary": "Fires two blasts of cold energy at Delwath with disadvantage. The first hits with 27 for 11 damage, corrected from 10; a Wisdom-save effect leaves Delwath frightened of Kadmos. The second hits AC 19 for another 14 damage. The spoken damage type is not mechanically specified beyond the cold-energy description.",
+              "evidence": [
+                {
+                  "startUid": "u3316",
+                  "endUid": "u3344"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs 135 feet toward Kadmos, holding the mirror and shouting to draw his gaze. Ends around 65–70 feet away; no trapping result is resolved at this distance.",
+              "evidence": [
+                {
+                  "startUid": "u3351",
+                  "endUid": "u3403"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow beast",
+              "kind": "turn",
+              "summary": "Dive-bombs Kadmos again and misses.",
+              "evidence": [
+                {
+                  "startUid": "u3424",
+                  "endUid": "u3428"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks the ghost while frightened, with disadvantage because Kadmos is visible: 17 hits and 14 misses. The amount of damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u3424",
+                  "endUid": "u3438"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Runs back under Dust of Speed and casts Guiding Bolt at Casian, missing. The DM corrects her place to after Delwath despite the narration’s earlier order.",
+              "evidence": [
+                {
+                  "startUid": "u3404",
+                  "endUid": "u3423"
+                }
+              ]
+            },
+            {
+              "actor": "Casian",
+              "kind": "turn",
+              "summary": "Casts a 60-foot linear Wall of Fire, replacing the proposed ring. Kenzo fails the Dexterity save but has Evasion and fire resistance; Riswynn succeeds and also resists fire. Each takes 6 damage. After spatial correction the wall blocks Kenzo and Riswynn’s view, while Seeker and Delwath retain lines of sight.",
+              "evidence": [
+                {
+                  "startUid": "u3439",
+                  "endUid": "u3483"
+                },
+                {
+                  "startUid": "u3491",
+                  "endUid": "u3542"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Abandons the Catapult/Swarm Bottle combination after the DM rules it requires two actions. Casts Healing Word on Delwath for 8 healing; Kenzo is too far away to receive it.",
+              "evidence": [
+                {
+                  "startUid": "u3545",
+                  "endUid": "u3612"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Flies 120 feet toward the end of the Wall of Fire and shoots Kadmos. Damage is applied without a spoken amount; the ghost remains.",
+              "evidence": [
+                {
+                  "startUid": "u3616",
+                  "endUid": "u3629"
+                }
+              ]
+            },
+            {
+              "actor": "Marcella",
+              "kind": "turn",
+              "summary": "Approaches on foot, barefoot and stripped of the ring and weapons, still about 120 feet away. The earlier suggestion that she retains a short sword is withdrawn after Wellby’s correction.",
+              "evidence": [
+                {
+                  "startUid": "u3630",
+                  "endUid": "u3661"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned ghost",
+              "kind": "turn",
+              "summary": "Hits Delwath twice with 25 and 27, dealing 20 necrotic damage total. A Wisdom save is called and he remains frightened; he elects to use inspiration during the ensuing resolution.",
+              "evidence": [
+                {
+                  "startUid": "u3662",
+                  "endUid": "u3688"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "turn",
+              "summary": "Deals a further 16 plus 7 necrotic damage, knocking Delwath unconscious, then steps forward demanding surrender and saying nobody else has to die. Individual attack rolls are not stated.",
+              "evidence": [
+                {
+                  "startUid": "u3689",
+                  "endUid": "u3700"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Abandons the jump over the 20-foot wall and runs around its end with the active mirror, calling out the slain men’s names. Kadmos succeeds on the Charisma save with 16; Casian remains too far away. Kenzo moves toward the space between the ghost and the enemy casters.",
+              "evidence": [
+                {
+                  "startUid": "u3702",
+                  "endUid": "u3745"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves around the wall and hits Kadmos with Guiding Bolt for 28 damage, then adjusts position using her remaining enhanced movement. His concentration save is reported as 20, with advantage confirmed later, and the ghost remains.",
+              "evidence": [
+                {
+                  "startUid": "u3763",
+                  "endUid": "u3799"
+                },
+                {
+                  "startUid": "u3857",
+                  "endUid": "u3861"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "event",
+              "summary": "Becomes insubstantial when Guiding Bolt strikes, halving its 28 damage to 14.",
+              "evidence": [
+                {
+                  "startUid": "u3781",
+                  "endUid": "u3790"
+                },
+                {
+                  "startUid": "u3857",
+                  "endUid": "u3861"
+                }
+              ]
+            },
+            {
+              "actor": "Casian",
+              "kind": "turn",
+              "summary": "Sees Marcella alive, advances using his action to Dash, and urges an end to the battle before everyone dies.",
+              "evidence": [
+                {
+                  "startUid": "u3801",
+                  "endUid": "u3825"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Revives Delwath with Healing Word for 8 HP, then throws the Swarm Bottle at Casian. Casian saves with Constitution 17 against DC 15 and takes 10 damage. The biting-locust cloud lasts three turns and creates difficult terrain; his identity is confirmed when he later moves out of it.",
+              "evidence": [
+                {
+                  "startUid": "u3831",
+                  "endUid": "u3883"
+                },
+                {
+                  "startUid": "u4133",
+                  "endUid": "u4136"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves 60 feet and lands, attacking Kadmos with inspiration. The hit would drop him, but a ghostly protective effect negates the damage and leaves him at 1 HP; the summoned ghost does not vanish. The inspiration damage is stated as 8, without a final total.",
+              "evidence": [
+                {
+                  "startUid": "u3884",
+                  "endUid": "u3919"
+                }
+              ]
+            },
+            {
+              "actor": "Marcella",
+              "kind": "turn",
+              "summary": "Calls for both sides to stop and leave alive. The party challenges the theft, charm, and seven deaths and demands an enforceable assurance. Marcella requests her possessions and warns of Hektor if her companions do not return; she restrains Casian from preparing further violence.",
+              "evidence": [
+                {
+                  "startUid": "u3931",
+                  "endUid": "u4005"
+                },
+                {
+                  "startUid": "u4034",
+                  "endUid": "u4082"
+                },
+                {
+                  "startUid": "u4105",
+                  "endUid": "u4136"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos and Casian",
+              "kind": "event",
+              "summary": "Kadmos promises to return straight to Chardon and leave the party alone in exchange for Marcella’s belongings, without guaranteeing safety forever. The party accepts and demands 25 gold per slain bandit. Casian pays 175 gold; Kadmos keeps the stolen top, and Casian turns away. No further attack is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u4137",
+                  "endUid": "u4146"
+                },
+                {
+                  "startUid": "u4156",
+                  "endUid": "u4166"
+                },
+                {
+                  "startUid": "u4178",
+                  "endUid": "u4205"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The continuous encounter ends by negotiation. All seven hired bandits are dead; all five PCs and the three attacking Chardonians survive. Casian pays 175 gold for the dependents, Kadmos keeps the top, and the Chardonians agree to leave for Chardon. Marcella’s weapons are to be returned. Her Haste ring is actually returned during the separate private farewell at u4226, after this segment.",
+        "evidence": [
+          {
+            "startUid": "u4051",
+            "endUid": "u4063"
+          },
+          {
+            "startUid": "u4123",
+            "endUid": "u4146"
+          },
+          {
+            "startUid": "u4156",
+            "endUid": "u4205"
+          }
+        ]
+      }
+    }
+  ]
+}
