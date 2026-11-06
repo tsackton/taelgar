@@ -1,0 +1,841 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-063",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-session.yaml",
+    "sessionYamlSha256": "1c76b763423a39740db9605f09b399ee514d599c74c6f846b6458c8d9f9ee250",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-transcript.md",
+    "transcriptSha256": "7641b7dae355886a7e85a649322867b167b5ee98625bafcbd28dbc1dee5f4637"
+  },
+  "places": {
+    "p01": {
+      "label": "Feywild",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0027",
+          "quote": "Our adventure today starts in the Feywild in the Court of Chance Weaver, the Prince of Luck."
+        }
+      ],
+      "vaultPath": "Cosmology/Feywild.md"
+    },
+    "p02": {
+      "label": "Court of Chance Weaver",
+      "kind": "court",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0027",
+          "quote": "DM: Okay. Our adventure today starts in the Feywild in the Court of Chance Weaver, the Prince of Luck. The court sat in the middle of an open field, surrounded by the dappled forest, lit by the warm afternoon light of a late summer day. In all directions, there's people gambling, playing dice, cards, laughing animatedly, betting on races of brightly colored lizards. Many of them are fey, but some are small winged fairies, and there's the occasional satyr, other creature like harengon, the rabbit folk. Um, the, you know, a centaur wandering at the edge of the crowd. A band of satyr fiddlers keeps a lively tune, and in the center of all this activity there's an oasis of calm: formal gardens which surround a grand palace, the lowest floor open to the air, and spiraling towers stretching above into the sky. This is the court, the inner palace, the sanctum of the Prince of Luck himself."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Fortune's Rest.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0019",
+              "endUid": "u0027",
+              "quote": "Our adventure today starts in the Feywild in the Court of Chance Weaver, the Prince of Luck."
+            }
+          ]
+        }
+      ],
+      "note": "Fortune’s Rest describes this named ruler’s casino court as well as the surrounding domain. The transcript calls the played setting the court; domain geography is not imported."
+    },
+    "p03": {
+      "label": "Open-air audience chamber",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0071",
+          "quote": "DM: So as you two approach the open-air audience chamber of the Chance Weaver, you look around and see the usual activity of a fey lord's— lord's dwelling with one quite notable oddity: a dwarf. Seeker, would you like to describe yourself?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0019",
+              "endUid": "u0031",
+              "quote": "DM: Okay. Our adventure today starts in the Feywild in the Court of Chance Weaver, the Prince of Luck. The court sat in the middle of an open field, surrounded by the dappled forest, lit by the warm afternoon light of a late summer day. In all directions, there's people gambling, playing dice, cards, laughing animatedly, betting on races of brightly colored lizards. Many of them are fey, but some are small winged fairies, and there's the occasional satyr, other creature like harengon, the rabbit folk. Um, the, you know, a centaur wandering at the edge of the crowd. A band of satyr fiddlers keeps a lively tune, and in the center of all this activity there's an oasis of calm: formal gardens which surround a grand palace, the lowest floor open to the air, and spiraling towers stretching above into the sky. This is the court, the inner palace, the sanctum of the Prince of Luck himself."
+            },
+            {
+              "startUid": "u0069",
+              "endUid": "u0071",
+              "quote": "DM: So as you two approach the open-air audience chamber of the Chance Weaver, you look around and see the usual activity of a fey lord's— lord's dwelling with one quite notable oddity: a dwarf. Seeker, would you like to describe yourself?"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Crystal Mountain",
+      "kind": "mountain",
+      "evidence": [
+        {
+          "startUid": "u0125",
+          "endUid": "u0127",
+          "quote": "DM: To do this you must journey to the Crystal Peaks and track the storm to its source, uncovering how to calm it from somewhere deep within the Crystal Mountain itself. I wish you luck on this journey,"
+        },
+        {
+          "startUid": "u0424",
+          "endUid": "u0429",
+          "quote": "DM: So as you, as you get closer and closer, um, the mountain still kind of stays roughly the same size, and once you're at the base of its slopes, it's, it's more of a— It's more of a large hill, maybe you know a thousand feet tall."
+        },
+        {
+          "startUid": "u1419",
+          "endUid": "u1421",
+          "quote": "Seeker: So that's Crystal Mountain. This is your house?"
+        }
+      ],
+      "aliases": [
+        "Crystal Peaks",
+        "Crystal Peak"
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Crystal Peak.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0019",
+              "endUid": "u0027",
+              "quote": "DM: Okay. Our adventure today starts in the Feywild in the Court of Chance Weaver, the Prince of Luck. The court sat in the middle of an open field, surrounded by the dappled forest, lit by the warm afternoon light of a late summer day. In all directions, there's people gambling, playing dice, cards, laughing animatedly, betting on races of brightly colored lizards. Many of them are fey, but some are small winged fairies, and there's the occasional satyr, other creature like harengon, the rabbit folk. Um, the, you know, a centaur wandering at the edge of the crowd. A band of satyr fiddlers keeps a lively tune, and in the center of all this activity there's an oasis of calm: formal gardens which surround a grand palace, the lowest floor open to the air, and spiraling towers stretching above into the sky. This is the court, the inner palace, the sanctum of the Prince of Luck himself."
+            },
+            {
+              "startUid": "u0150",
+              "endUid": "u0164",
+              "quote": "DM: Huh! Um, so I mean the Feywild doesn't really have geology in any sort of traditional sense. Um, has rocks. It has rocks. The, ah, you know, asking around the court just kind of sort of making some casual inquiries about geology. People kind of laugh at you. They're sort of like, you know, “There's not rocks and rocks and trees, and people are not so distinct in the Feywild as they are outside the—” Somebody points over to Raven as well, says, “I mean, look at Shimmersong. The topaz peaches grow on living trees, and delicious apples grow from stone bushes.”"
+            },
+            {
+              "startUid": "u0278",
+              "endUid": "u0287",
+              "quote": "DM: Right. So you leave the court, and you walk through the forest and the gently rolling hills. Um, and as you as you travel um, you know time it's it's hard to judge the passage of— I mean especially for Seeker who this is only your something they in the Feywild, you actually have no real idea of how many days you were out at this point. A day or five. It's sort of hard to say. Um, right, the sun doesn't move in the sky, but it seems like you move relatively quickly."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Slopes below the smooth crystal cliff",
+      "kind": "slope",
+      "evidence": [
+        {
+          "startUid": "u0506",
+          "endUid": "u0508",
+          "quote": "Raven: If it does, you can transform, though, right?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0506",
+              "endUid": "u0508",
+              "quote": "Raven: If it does, you can transform, though, right?"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Summit crater and lip",
+      "kind": "summit",
+      "evidence": [
+        {
+          "startUid": "u0601",
+          "endUid": "u0613",
+          "quote": "DM: So now, as you come towards the top of the mountain, um, you can see that— So there's like a— There's like a sort of flat area sort of a roundish area at the top of the summit. Um, and there's a crack, a giant crack in the top of the mountain. It almost looks like something uh uh um! Almost looks like something crashed into the top of the mountain, and, like, just crashed through the mountain, and like, broke through the crystal and fell inside the mountain. It's like maybe ten foot diameter crater, and this, like giant crack running into the mountain, you can see like glowing light sort of coming up out at the top below. This is where the sparks that you saw from below are coming from. They're like drifting up out of this giant crack and crater in the, the summit of the mountain,"
+        },
+        {
+          "startUid": "u0663",
+          "endUid": "u0666",
+          "quote": "Seeker: And so I suppose, Raven and Mikasa are standing at the edge of this, the lip of the crater looking down. Spirala and I are sort of orbiting it. Um!"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0601",
+              "endUid": "u0613",
+              "quote": "DM: So now, as you come towards the top of the mountain, um, you can see that— So there's like a— There's like a sort of flat area sort of a roundish area at the top of the summit. Um, and there's a crack, a giant crack in the top of the mountain. It almost looks like something uh uh um! Almost looks like something crashed into the top of the mountain, and, like, just crashed through the mountain, and like, broke through the crystal and fell inside the mountain. It's like maybe ten foot diameter crater, and this, like giant crack running into the mountain, you can see like glowing light sort of coming up out at the top below. This is where the sparks that you saw from below are coming from. They're like drifting up out of this giant crack and crater in the, the summit of the mountain,"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Giant crystal bubble",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u0630",
+          "endUid": "u0637",
+          "quote": "DM: Ledge on a mountain. There's a crack. It's what— There's a crack, and it looks like Spirala, looking down through the crack can see like this massive crystal bubble inside the mountain with like little crystal little shards of crystal kind of floating in the air, and lights in the like in the floor somehow, and then occasionally a light will shoot up through the crystalline, and then, like explode, not really fireworks, but just like, and then the crystal, like—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0630",
+              "endUid": "u0637",
+              "quote": "DM: Ledge on a mountain. There's a crack. It's what— There's a crack, and it looks like Spirala, looking down through the crack can see like this massive crystal bubble inside the mountain with like little crystal little shards of crystal kind of floating in the air, and lights in the like in the floor somehow, and then occasionally a light will shoot up through the crystalline, and then, like explode, not really fireworks, but just like, and then the crystal, like—"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Illaran’s makeshift room",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u1269",
+          "endUid": "u1290",
+          "quote": "DM: Uh Seeker, you find yourself in the— A— In a, in a smaller room, maybe maybe like thirty feet across, a, a thirty foot diameter, kind of smaller bubble. Um you can see uh, like looking up, the ceiling is faintly translucent, and there's a— There's a crack in the ceiling that's been sort of chipped out by some creature that's been constructing so it's like shaped nicely, and you, and you look up, you can see that that crack leads up to the the big room that you are in— I— In this room that you're—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1269",
+              "endUid": "u1290",
+              "quote": "DM: Uh Seeker, you find yourself in the— A— In a, in a smaller room, maybe maybe like thirty feet across, a, a thirty foot diameter, kind of smaller bubble. Um you can see uh, like looking up, the ceiling is faintly translucent, and there's a— There's a crack in the ceiling that's been sort of chipped out by some creature that's been constructing so it's like shaped nicely, and you, and you look up, you can see that that crack leads up to the the big room that you are in— I— In this room that you're—"
+            },
+            {
+              "startUid": "u1419",
+              "endUid": "u1421",
+              "quote": "Seeker: So that's Crystal Mountain. This is your house?"
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1269",
+              "endUid": "u1281",
+              "quote": "DM: Uh Seeker, you find yourself in the— A— In a, in a smaller room, maybe maybe like thirty feet across, a, a thirty foot diameter, kind of smaller bubble. Um you can see uh, like looking up, the ceiling is faintly translucent, and there's a— There's a crack in the ceiling that's been sort of chipped out by some creature that's been constructing so it's like shaped nicely, and you, and you look up, you can see that that crack leads up to the the big room that you are in— I— In this room that you're—"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Hall of Mirrors",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u1696",
+          "endUid": "u1706",
+          "quote": "DM: So Illaran takes you down. He like pulls a hole into the floor, and he takes you. He like takes you down to like a chamber that's, that's um just below, ah, that's just below where um uh where, where he is, where his like little home is."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1696",
+              "endUid": "u1706",
+              "quote": "DM: So Illaran takes you down. He like pulls a hole into the floor, and he takes you. He like takes you down to like a chamber that's, that's um just below, ah, that's just below where um uh where, where he is, where his like little home is."
+            },
+            {
+              "startUid": "u1419",
+              "endUid": "u1421",
+              "quote": "Seeker: So that's Crystal Mountain. This is your house?"
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1696",
+              "endUid": "u1703",
+              "quote": "DM: So Illaran takes you down. He like pulls a hole into the floor, and he takes you. He like takes you down to like a chamber that's, that's um just below, ah, that's just below where um uh where, where he is, where his like little home is."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Cavern with the earth-creature statue",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u1708",
+          "endUid": "u1711",
+          "quote": "DM: And he points like there's up ahead. You can see that there's one mirror that's that's reflecting, um, what looks like a uh a big open cave with like cracks in the ceiling and light shining down, and in the center of the cave, which I couldn't get on the Midjourney generated image— there was like a fifteen foot statue of this um creature that looks like it's got, like it's got a giant mouth in the center, and then, like four claws around it, and glowing in the middle of that statue is like this, like pulsing light,"
+        },
+        {
+          "startUid": "u1771",
+          "endUid": "u1775",
+          "quote": "DM: Okay. So you see, in front of you, as you step through this like open cavern of gems uh all sort of clustered around this mirror, there is a big statue here with this like glowing purple heart, and it seems like you might have to crack the statue before you can do anything else. There is a hand of force nearby. Um! There is a giant boulder that seems to be lining up to smash into you. Um! In the far distance there is a glowing, burning hand. There is a lightning bolt floating around over in the corner. There's a huge dragonfly, and then there's three like small little bolts of chaotic energy that keep shifting their form."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2410",
+              "endUid": "u2417",
+              "quote": "DM: Okay. He like starts swimming through the rock, leaving like a tunnel behind him, with like little steps carved into it like— Actually, no, from his super long hair he, like cuts off little pieces of hair that then grow into the wall, forming like a rope ladder going up."
+            }
+          ],
+          "note": "The continuous exit from this cavern climbs through rock to the Crystal Mountain summit; the mirror alone does not establish containment."
+        }
+      ]
+    },
+    "p11": {
+      "label": "Shimmersong",
+      "kind": "domain",
+      "evidence": [
+        {
+          "startUid": "u2446",
+          "endUid": "u2448",
+          "quote": "DM: Spirala and Raven volunteer to guide Seeker through Shimmersong to get to the portal that you're ultimately trying to find. Nice, and that is where we'll pick up next adventure. And I'm tired. But yeah, as I go to bed— It was super fun."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Shimmersong.md",
+      "note": "Only the onward guiding offer is established; the group does not arrive in this session."
+    },
+    "p12": {
+      "label": "Slopes above the smooth crystal cliff",
+      "kind": "slope",
+      "evidence": [
+        {
+          "startUid": "u0529",
+          "endUid": "u0529",
+          "quote": "Are you on top of the cliff, though? Because they're not yet. I mean, he's. Yeah, yeah, I'm way below you—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0506",
+              "endUid": "u0508",
+              "quote": "Raven: If it does, you can transform, though, right?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0109"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "reading": "The four adventurers gather in Chance Weaver’s open-air audience chamber.",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0071",
+          "quote": "DM: So as you two approach the open-air audience chamber of the Chance Weaver, you look around and see the usual activity of a fey lord's— lord's dwelling with one quite notable oddity: a dwarf. Seeker, would you like to describe yourself?"
+        },
+        {
+          "startUid": "u0094",
+          "endUid": "u0109",
+          "quote": "DM: So as you, as you approach the Chance Weaver, he stands, and he greets you, motioning for Seeker to join, and then motioning for another fey that's been sort of standing in the corner. And, uh, Kong, would you like to describe your character, Mikasa? So, Mikasa, as you walk over,"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0278",
+        "endUid": "u0287"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "reading": "Leave the court, cross forest and rolling hills, and reach the base of Crystal Mountain.",
+      "evidence": [
+        {
+          "startUid": "u0278",
+          "endUid": "u0293",
+          "quote": "DM: Right. So you leave the court, and you walk through the forest and the gently rolling hills. Um, and as you as you travel um, you know time it's it's hard to judge the passage of— I mean especially for Seeker who this is only your something they in the Feywild, you actually have no real idea of how many days you were out at this point. A day or five. It's sort of hard to say. Um, right, the sun doesn't move in the sky, but it seems like you move relatively quickly."
+        },
+        {
+          "startUid": "u0424",
+          "endUid": "u0429",
+          "quote": "DM: So as you, as you get closer and closer, um, the mountain still kind of stays roughly the same size, and once you're at the base of its slopes, it's, it's more of a— It's more of a large hill, maybe you know a thousand feet tall."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass through the forest onto gently rolling hills."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0498",
+        "endUid": "u0508"
+      },
+      "actors": [
+        "Raven",
+        "Mikasa"
+      ],
+      "reading": "Run up the mountain and climb the smooth crystal face ahead of the other two.",
+      "evidence": [
+        {
+          "startUid": "u0498",
+          "endUid": "u0508",
+          "quote": "Raven: Raven will just start moving at like a faster pace now to start weaving up the mountain."
+        },
+        {
+          "startUid": "u0529",
+          "endUid": "u0529",
+          "quote": "Raven: Are you on top of the cliff, though? Because they're not yet. I mean, he's. Yeah, yeah, I'm way below you—"
+        }
+      ],
+      "from": "p04",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "run",
+      "note": "These two reach the top of the roughly sixty-foot face; Seeker remains below it."
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0510",
+        "endUid": "u0533"
+      },
+      "actors": [
+        "Seeker",
+        "Spirala"
+      ],
+      "reading": "Seeker pauses below the cliff to collect a fragment; Spirala offers him a rope.",
+      "evidence": [
+        {
+          "startUid": "u0510",
+          "endUid": "u0514",
+          "quote": "Spirala: Shall I throw you down a rope, or would you like to take a more magical approach?"
+        },
+        {
+          "startUid": "u0529",
+          "endUid": "u0533",
+          "quote": "Raven: Are you on top of the cliff, though? Because they're not yet. I mean, he's. Yeah, yeah, I'm way below you—"
+        }
+      ],
+      "place": "p05",
+      "note": "The actors are below the face, unlike Raven and Mikasa above it."
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0601",
+        "endUid": "u0613"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "reading": "Complete the ascent to the summit crater; Raven and Mikasa stand at its lip while Seeker and Spirala circle above it.",
+      "evidence": [
+        {
+          "startUid": "u0601",
+          "endUid": "u0613",
+          "quote": "DM: So now, as you come towards the top of the mountain, um, you can see that— So there's like a— There's like a sort of flat area sort of a roundish area at the top of the summit. Um, and there's a crack, a giant crack in the top of the mountain. It almost looks like something uh uh um! Almost looks like something crashed into the top of the mountain, and, like, just crashed through the mountain, and like, broke through the crystal and fell inside the mountain. It's like maybe ten foot diameter crater, and this, like giant crack running into the mountain, you can see like glowing light sort of coming up out at the top below. This is where the sparks that you saw from below are coming from. They're like drifting up out of this giant crack and crater in the, the summit of the mountain,"
+        },
+        {
+          "startUid": "u0663",
+          "endUid": "u0669",
+          "quote": "Seeker: And so I suppose, Raven and Mikasa are standing at the edge of this, the lip of the crater looking down. Spirala and I are sort of orbiting it. Um!"
+        }
+      ],
+      "from": null,
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "climb and fly"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0620",
+        "endUid": "u0637"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "reading": "Look through the summit crack into the giant crystal bubble and the split geode on its floor.",
+      "evidence": [
+        {
+          "startUid": "u0620",
+          "endUid": "u0637",
+          "quote": "DM: And then, like a gash in the bottom of the crater, so you can see that it— So there's like— It almost looks like It's a crack in the top of a giant crystal bubble down below, maybe two hundred feet down, where the lights are coming from, from the floor of this giant crystal bubble, those little shards of crystal that seem to be floating in the air."
+        },
+        {
+          "startUid": "u0640",
+          "endUid": "u0642",
+          "quote": "DM: And there's like stuff scattered on the floor. There's like geodes, big like a big geode like fifteen twenty feet across, cracked open in the middle, and like light shimmering from the purple and pink and gold and green crystals inside that—"
+        },
+        {
+          "startUid": "u0663",
+          "endUid": "u0669",
+          "quote": "Seeker: And so I suppose, Raven and Mikasa are standing at the edge of this, the lip of the crater looking down. Spirala and I are sort of orbiting it. Um!"
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p06",
+      "mode": "local"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0701",
+        "endUid": "u0703"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Dragonfly-form Seeker dips below the crack, evades a swarm, and returns above it.",
+      "evidence": [
+        {
+          "startUid": "u0701",
+          "endUid": "u0710",
+          "quote": "Seeker: There is airflow coming up. That's puzzling. I ride on the air currents a little bit, and then uh swoop down just twenty feet below the crack and then back up again."
+        },
+        {
+          "startUid": "u0715",
+          "endUid": "u0721",
+          "quote": "DM: Okay, yeah, they, they miss. They like swarm around you. And you dodge and uh get out of the way. Um—"
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "place": "p07",
+          "reading": "Briefly enter the upper cavern twenty feet below the crack, then return."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0731",
+        "endUid": "u0741"
+      },
+      "actors": [
+        "Raven"
+      ],
+      "reading": "Raven descends on a rope into the swarms, fights, then climbs back to the summit lip.",
+      "evidence": [
+        {
+          "startUid": "u0731",
+          "endUid": "u0741",
+          "quote": "Raven: I wonder if here— And I, I— A rope like around my waist and tie it to something up here. I have fifty feet of rope. Can I just like lower myself down a little and see if it's like, because if it's like specifically like magic, like because you're like in a magical form, right? So they could just be attracted to magic, but so, and I'll probably be able to take an attack. So I'm gonna tie a rope around myself and just like pop down—"
+        },
+        {
+          "startUid": "u0763",
+          "endUid": "u0764",
+          "quote": "DM: Right, but that's not upside down, but you can swing enough to get out of there— their range and like kind of swing, and like, pull yourself up. I mean you've got fifty feet of movement. So even if you're going half speed climbing, you can just climb up the rope."
+        },
+        {
+          "startUid": "u0786",
+          "endUid": "u0787",
+          "quote": "Raven: And then I'll yeah on the wall and climb as far up as I can."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "rope and climb",
+      "route": [
+        {
+          "place": "p07",
+          "reading": "Enter the upper cavern on a rope before returning."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0885",
+        "endUid": "u0891"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "reading": "Descend into the giant crystal bubble; Raven, Mikasa and Spirala finish the fight there, while Seeker subsequently vanishes into the room below.",
+      "evidence": [
+        {
+          "startUid": "u0885",
+          "endUid": "u0891",
+          "quote": "DM: So you, too, begin charging down, running fast as you can. Creatures fairy and the dragonfly begin to drop down, flying as fast as you can. Um! Why don't you roll initiative just to see which order you how fast you move?"
+        },
+        {
+          "startUid": "u0934",
+          "endUid": "u0936",
+          "quote": "DM: Ah, Seeker, giant dragonfly, as Raven lands on the bottom of this crystal globe, flying straight down,"
+        },
+        {
+          "startUid": "u1187",
+          "endUid": "u1192",
+          "quote": "DM: You could you could just, I mean you could hold an action for a— If it gets closer you could dodge. Seeker, you're now basically at the bottom. If you want to shift out of dragonfly form."
+        },
+        {
+          "startUid": "u1296",
+          "endUid": "u1301",
+          "quote": "DM: So while, Seeker, you think about what you're going to do in that room, the rest of you now, having finished destroying these things, are um standing around this giant geode um looking, looking around this room."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "run, jump and fly",
+      "note": "Seeker is separately shown on the cavern floor before his magical displacement. The others’ floor presence is confirmed after the fight."
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1226",
+        "endUid": "u1242"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "After seeing the magical web and thinking of going deeper, Seeker finds himself in the small makeshift room below.",
+      "evidence": [
+        {
+          "startUid": "u1226",
+          "endUid": "u1242",
+          "quote": "DM: Ah! As that happens, you see for a moment the like, the, the web of magic is just like the whole, like structure of this fine net is just ah splitting open before you, and you're like kind of dazzled like, it's, it's almost like the, the, like framework of the world is peeled away. And you're just seeing, like the network that controls everything, all the magic. You can see, all these like little lines of magic running up and animating these things. You can see this like swirling mass of magic going deep underground below. You like this vortex."
+        },
+        {
+          "startUid": "u1269",
+          "endUid": "u1290",
+          "quote": "DM: Uh Seeker, you find yourself in the— A— In a, in a smaller room, maybe maybe like thirty feet across, a, a thirty foot diameter, kind of smaller bubble. Um you can see uh, like looking up, the ceiling is faintly translucent, and there's a— There's a crack in the ceiling that's been sort of chipped out by some creature that's been constructing so it's like shaped nicely, and you, and you look up, you can see that that crack leads up to the the big room that you are in— I— In this room that you're—"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "magical displacement"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1388",
+        "endUid": "u1400"
+      },
+      "actors": [
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "reading": "Join Seeker in Illaran’s makeshift room after Illaran opens access and provides a silver hair ladder.",
+      "evidence": [
+        {
+          "startUid": "u1388",
+          "endUid": "u1400",
+          "quote": "DM: He pops his head back up. “Oh, sorry!” And he like pushes with his hands. And this, like— this, like a crack opens up in the wall that he grabs and he like yanks, and like this bar opens— this, like, like a something where you could tie a rope. Then he takes this pair of a black I of like the sort of tarnished silver scissors, and he, like grab some of his hair, cuts it. As he cuts it, the hair grows and spins into a ladder, and he ties a silver ladder onto the bar that he just made, and then he vanishes again."
+        },
+        {
+          "startUid": "u1402",
+          "endUid": "u1402",
+          "quote": "Spirala: Did you say something about needing assistance?"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "drop and ladder"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1696",
+        "endUid": "u1706"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "reading": "Follow Illaran through an opening in the floor to the Hall of Mirrors just below his room.",
+      "evidence": [
+        {
+          "startUid": "u1696",
+          "endUid": "u1706",
+          "quote": "DM: So Illaran takes you down. He like pulls a hole into the floor, and he takes you. He like takes you down to like a chamber that's, that's um just below, ah, that's just below where um uh where, where he is, where his like little home is."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1708",
+        "endUid": "u1723"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "reading": "See the petrified creature and a drifting hand of force through a mirror’s live view.",
+      "evidence": [
+        {
+          "startUid": "u1708",
+          "endUid": "u1723",
+          "quote": "DM: And he points like there's up ahead. You can see that there's one mirror that's that's reflecting, um, what looks like a uh a big open cave with like cracks in the ceiling and light shining down, and in the center of the cave, which I couldn't get on the Midjourney generated image— there was like a fifteen foot statue of this um creature that looks like it's got, like it's got a giant mouth in the center, and then, like four claws around it, and glowing in the middle of that statue is like this, like pulsing light,"
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p09",
+      "mode": "remote"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1765",
+        "endUid": "u1775"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "reading": "Step through the mirror and gather against the wall of the cavern containing the statue and living spells.",
+      "evidence": [
+        {
+          "startUid": "u1765",
+          "endUid": "u1775",
+          "quote": "DM: So when you, when you step through the mirror, you appear like right up against this wall. Ah,"
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "mirror portal"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2410",
+        "endUid": "u2417"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "reading": "Return through Illaran’s upward tunnel and hair ladder to the flat summit of Crystal Mountain.",
+      "evidence": [
+        {
+          "startUid": "u2410",
+          "endUid": "u2417",
+          "quote": "DM: Okay. He like starts swimming through the rock, leaving like a tunnel behind him, with like little steps carved into it like— Actually, no, from his super long hair he, like cuts off little pieces of hair that then grow into the wall, forming like a rope ladder going up."
+        }
+      ],
+      "from": "p10",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "climb and walk"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2446",
+        "endUid": "u2448"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala"
+      ],
+      "reading": "Raven and Spirala offer to guide Seeker through Shimmersong toward his intended portal.",
+      "evidence": [
+        {
+          "startUid": "u2446",
+          "endUid": "u2448",
+          "quote": "DM: Spirala and Raven volunteer to guide Seeker through Shimmersong to get to the portal that you're ultimately trying to find. Nice, and that is where we'll pick up next adventure. And I'm tired. But yeah, as I go to bed— It was super fun."
+        }
+      ],
+      "from": "p06",
+      "to": "p11",
+      "completion": "planned",
+      "context": "planned"
+    }
+  ]
+}

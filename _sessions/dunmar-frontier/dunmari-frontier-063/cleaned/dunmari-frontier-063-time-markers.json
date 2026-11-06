@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-063",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-session.yaml",
+    "sessionYamlSha256": "1c76b763423a39740db9605f09b399ee514d599c74c6f846b6458c8d9f9ee250",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-transcript.md",
+    "transcriptSha256": "7641b7dae355886a7e85a649322867b167b5ee98625bafcbd28dbc1dee5f4637",
+    "yamlDates": {
+      "start": "1748-10-03",
+      "end": "1748-10-12"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0019",
+        "endUid": "u0027"
+      },
+      "reading": "The opening court scene is lit like a late-summer afternoon. The later journey confirms that the Feywild sun remains fixed; this is local lighting, not a civil clock or elapsed day.",
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Narrated local afternoon appearance; the sun is subsequently stated not to move."
+      },
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0027",
+          "quote": "The court sat in the middle of an open field, surrounded by the dappled forest, lit by the warm afternoon light of a late summer day."
+        },
+        {
+          "startUid": "u0278",
+          "endUid": "u0287",
+          "quote": "Um, right, the sun doesn't move in the sky, but it seems like you move relatively quickly."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1583",
+        "endUid": "u1583"
+      },
+      "reading": "The group completes a short rest in Illaran’s makeshift room after healing, before following him to the Hall of Mirrors. The later discussion confirms an hour spent below the earlier casting site.",
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Mikasa"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Completed short-rest convention, corroborated by the explicit retrospective hour at u1676–u1677."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1583",
+          "endUid": "u1583",
+          "quote": "Spirala: So this is my— Why don't we? Why don't we rest first? Yeah, Can we reach them to say like we can't. I don't want a healing spell so much as I want a long rest and or short rest, and use hit dice because it's fine. A long rest might—"
+        },
+        {
+          "startUid": "u1597",
+          "endUid": "u1597",
+          "quote": "But I, I am very good with hit dice. I'll be fine. I do the rest."
+        },
+        {
+          "startUid": "u1626",
+          "endUid": "u1632",
+          "quote": "Raven: All right. Wait. What's my hit die? 1d8, this one so seven more hit points. How do you roll hit die again? Dice and I don't know I just rolled the normal amount, and then I don't know how you're supposed to like, actually do it, and I should have reset my ki. But you know,"
+        },
+        {
+          "startUid": "u1638",
+          "endUid": "u1638",
+          "quote": "Everyone ready? Let's go fight some spells!"
+        },
+        {
+          "startUid": "u1675",
+          "endUid": "u1677",
+          "quote": "I mean in the hour in the hour we were right below the spot where it was cast, could we not?"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No calendar date is spoken. October 3–12, 1748 comes solely from the session YAML. The opening afternoon is stationary Feywild illumination, not an adventure-clock reading.",
+    "expectedDateBoundaries": 9,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02"
+    ],
+    "explanation": "The covered play runs from the court commission through the Crystal Mountain expedition and return to its summit. One completed hour-long rest is established; travel and other gaps are unmeasured. The DM’s day-or-five uncertainty concerns Seeker’s total time in the Feywild, not a measured journey. Neither the nine calendar transitions nor a contradictory span is established. Effect durations and forecasts of spell appearances do not establish elapsed play."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-time-markers.json",
+    "sha256": "b466ca31cf4cb98c5fc95c7af61cc7a172ba55a24b23cc558c0ac7aeecc18f1d"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-transcript.md",
+    "sha256": "7641b7dae355886a7e85a649322867b167b5ee98625bafcbd28dbc1dee5f4637"
+  },
+  "dateAssessment": "Working calendar: the session YAML records October 3–12, 1748 (nine date boundaries). The time extraction is **compatible**, with no independently spoken calendar date or complete elapsed span. Seeker’s actor-specific handoff is session 061: its closing bargain and promised court companions (u1189–u1249) lead to this court gathering and commission (u0019–u0031, u0094–u0127). Session 061 ends October 3 in its YAML, but its open-ended festivities establish no transferable civil watch; the numerically adjacent session 062 follows a different party. The opening light resembles afternoon and stays fixed in the Feywild. A completed one-hour short rest is established, but unmeasured travel prevents assigning its civil date more narrowly than this session’s recorded interval. No days are supplied from drEnd. Illaran’s vault note separately dates the meeting November 1, 1748; that discrepancy remains open and does not replace the extraction’s calendar.",
+  "watches": [
+    {
+      "day": "October 3, 1748",
+      "startDate": "1748-10-03",
+      "endDate": "1748-10-03",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Local lighting",
+      "summary": "Court resembles afternoon; stationary Feywild sunlight supplies no civil watch.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "During October 3–12, 1748",
+      "dateWindow": [
+        "1748-10-03",
+        "1748-10-12"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "scope": "Seeker, Raven, Spirala, Mikasa",
+      "summary": "Party completes a one-hour short rest below the casting site; its starting watch remains unanchored.",
+      "markers": [
+        "t02"
+      ],
+      "sourceRanges": [
+        [
+          "u1693",
+          "u1706"
+        ]
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Seeker’s session 061 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-transcript.md",
+      "sha256": "4566306a1e4d67ffe007e1d77ad1f3bec9120ab2670b12725ae5b8e9d286e92c"
+    },
+    {
+      "label": "Session 061 calendar",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-session.yaml",
+      "sha256": "276f6173f5ab49390ae3c4c5dd4b4862faa18d3f04c613ecd59a882d2dd015aa"
+    },
+    {
+      "label": "Illaran date discrepancy",
+      "path": "People/Fey/Illaran.md",
+      "sha256": "0905271989916db569d781b767dd0ed6281eee8022b3d9956b4b095526d41425"
+    }
+  ]
+}

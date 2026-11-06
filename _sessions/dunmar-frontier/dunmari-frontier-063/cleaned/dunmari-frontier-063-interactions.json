@@ -1,0 +1,871 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "7641b7dae355886a7e85a649322867b167b5ee98625bafcbd28dbc1dee5f4637"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-entity-map.json",
+      "sha256": "22cd8760aa068373d536835a2f09eb4f2da98f1867cd5c4989966ac4eb686a22"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Chance Weaver commissions the expedition",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0107",
+        "endUid": "u0132"
+      },
+      "lines": [
+        "%% u0107:0-103, u0108:0-43, u0109:0-181 %%",
+        "DM: So, as you all gathered together, the Chance Weaver speaks, turning first to Raven and Spirala, saying, “Well met. My greetings to the Light Dancer. Does the summer court still hold sway in Shimmersong? And it's been some time since I ever had news, and a strange chance to see a Winter Knight outside of the Light Dancer’s realm.”",
+        "",
+        "%% u0110:0-2, u0111:0-20, u0112:0-21, u0113:0-97, u0114:0-33, u0115:0-3, u0116:0-61 %%",
+        "Raven: Um, Raven will just do a small bow, um, and say, uh, the— I believe the light domain, though it does right currently because it's like summer. Yeah. The light still reigns above. But the Light Dancer requested that a member of both parties be sent.",
+        "",
+        "%% u0117:0-34, u0118:0-142, u0119:0-100, u0120:0-30, u0121:0-76, u0122:0-39, u0123:0-34, u0124:0-31 %%",
+        "DM: I appreciate the aid. As you know, we're all here because the wild magic storm that grows on our border with Shimmersong will soon threaten both our domains if it is not stopped. My hope, and the Light Dancer's hope is that we work together to find the cause of this disturbance. Seeker, Mikasa, you, too, have chosen your place in this journey through the favors it might grant you upon the successful completion of this task, and we are honored to be joined by representatives of Shimmersong.",
+        "",
+        "%% u0125:0-83, u0126:0-82, u0127:0-32 %%",
+        "DM: To do this you must journey to the Crystal Peaks and track the storm to its source, uncovering how to calm it from somewhere deep within the Crystal Mountain itself. I wish you luck on this journey,",
+        "",
+        "%% u0128:0-189, u0129:0-56, u0130:0-102, u0131:0-39, u0132:0-128 %%",
+        "DM: And I leave you with the blessing of fortune. He, like, blows each of you a kiss, and you each get inspiration ((Inspiration mechanics and interface instructions))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I'm good now. I've had trouble with mine before. So, um, and he, uh, is heavily encumbered with traveling gear. You, you see a pack with some things sticking out of it like, ah, scroll cases and tools that might be used for things like stone and glass working. He has a, ah, a pair of goggles around his neck that are made of purple gemstone, and I think he has a pair of six-sided dice in his hands. Yeah, that's where we left off. Yeah.",
+          "DM: So as you, as you approach the Chance Weaver, he stands, and he greets you, motioning for Seeker to join, and then motioning for another fey that's been sort of standing in the corner. And, uh, Kong, would you like to describe your character, Mikasa? So, Mikasa, as you walk over,",
+          "Mikasa: So Mikasa is— Mikasa is, uh, it's armored, carrying a, a flowing, um, very stylish and very cool, um, a pink and purple cloak, with the embroidered flowers on it herself. Her own hair is a kind of a similar kind of pink and um",
+          "Unknown: uh purple like long.",
+          "Mikasa: She's armored um with uh golds uh gold and reddish armor, and she's wielding a large show. What, what do you call that? What would you call that weapon like a glaive, or a, or— She's, she's, she's, you know, walking, walking over slowly with it very much East Asian features, if you're to put it to to a, a human, to earth and to earth. Yeah, like there— Go ahead— as it— Mikasa from Attack on Titan? Um, not exactly like Mikasa in Attack on Titan because Mikasa does not— I was talking about it— does not have a purple or pink hair. But um! But this Mikasa uh um is is very beautiful. Um, but also looks like she could kick some serious, serious ass if she uh, if she so chose. And so she walks forward with with an air of confidence and um and presence, quiet presence. Quiet, but deadly presence."
+        ],
+        "after": [
+          "Seeker: Between hit points and walking with speed. I think it's Jewish, uh, but awesome. But how do we do it? Sorry, it's between heal and damage and healing hit points. Yeah. And healing hit points. Yeah, between healing down and just just put a two hundred in there and hit Enter.",
+          "Mikasa: I just did that. Oh, that's the inspiration. Okay, got it.",
+          "DM: That I'll remind you, you have it. Um, and also Seeker remember, you have your two dice. What I'm going to say actually is that they're d6s. So each time any— If you roll a d6, either in game or out of game, you can choose what the number shows.",
+          "Seeker: In game or out of game? Yes, so like whenever you have all these, but only each one only works once— Before to his pouch. You notice, if you happen to be looking that he has just rolled a thirteen. It's a low probability roll. Yeah.",
+          "DM: So um,"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The book describes Shimmersong’s ruler",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0171",
+        "endUid": "u0182"
+      },
+      "lines": [
+        "%% u0171:0-125, u0172:0-13, u0173:0-61, u0174:0-25 %%",
+        "Seeker: The Seeker rummages around till he finds again the the massive tome, the lore of the Feywild containing all sorts of stories, contradictory as they may be, and pages through it, looking for Shimmersong. On this thing at an index?",
+        "",
+        "%% u0175:0-27, u0176:0-28, u0177:0-22, u0178:0-6, u0179:0-6, u0180:0-8, u0181:0-34, u0182:0-21 %%",
+        "DM: Uh, Shimmersong is in there. It's described as a place of, of light and darkness, with a with a king who um cannot make up his mind between the sun and the moon.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Mikasa: The geology of the Crystal Mountain.",
+          "DM: Huh! Um, so I mean the Feywild doesn't really have geology in any sort of traditional sense. Um, has rocks. It has rocks. The, ah, you know, asking around the court just kind of sort of making some casual inquiries about geology. People kind of laugh at you. They're sort of like, you know, “There's not rocks and rocks and trees, and people are not so distinct in the Feywild as they are outside the—” Somebody points over to Raven as well, says, “I mean, look at Shimmersong. The topaz peaches grow on living trees, and delicious apples grow from stone bushes.”",
+          "Mikasa: As Mikasa is walking on the path, she's kind of reaching her hand out, and just like kind of touching some of the greenery, and it's like all turning into into pink and purple flowers, like as she's like touching it. She's just sort of like, casually like touching, and just",
+          "DM: Right, and another a little Pixie flies over to Seeker and sort of laughs at him as, “Yeah, you're— Your mind,” like tapping you, “I'm tapping your head. Your mind is too fixed,” like, draws a little line, and like this little image of sort of green and blue kind of appears, and drips down off your face.",
+          "Seeker: Oh, dear, dear."
+        ],
+        "after": [
+          "Raven: Um, I'll walk up and say I'm just like looking over his shoulder. Um, I'm assuming we can like also like, speak Common, right? There's no, like— I will. I can. I'm just gonna, like, walk up. I'll like, look over her shoulder and see what he's reading. And also, you know, two members of the part of your— This group are from Shimmersong. You could just ask about it.",
+          "Seeker: How wonderful! That's— That's helpful information. I'm just curious about how all of this works. It's a very strange place you go compared to where I come from. Ah! And where I come from, I'm very interested in what perhaps might seem mundane to you, but the workings of the earth and movements of stone over millennia, and what lies beneath, and what makes it all work, and this Crystal Mountain that we're going to— Fascinating.",
+          "Mikasa: But you, you— I think you, you misunderstand the workings over millennia.",
+          "Seeker: You need.",
+          "Mikasa: You act as though the Crystal Mountain has not always ever been here, but also is always subject to change."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Illaran captures Seeker and admits the others",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1327",
+        "endUid": "u1400"
+      },
+      "lines": [
+        "%% u1327:0-41, u1328:0-35, u1329:0-147, u1330:0-29, u1331:0-27, u1332:0-70, u1333:0-6 %%",
+        "DM: Like a head stick itself out of the wall, and it's, it's a sort of dwarf-sized creature like skin looks like almost like stone. It has this like massive shock of hair, like huge hair, all multicolored hair all around his face, and he sticks his— sticks as a— his head out of the the the the stone of the crystal wall, and points his finger out and says, “The thief!”",
+        "",
+        "%% u1334:0-66 %%",
+        "Seeker: Whoa! Whoa! I don't know how I got here. I’m Seeker. Who are you?",
+        "",
+        "%% u1334:66-87, u1335:0-6 %%",
+        "DM: “No, no, give it back, thief!”",
+        "",
+        "%% u1336:0-66, u1337:0-88 %%",
+        "Seeker: Oh, oh, I, I start to rummage in my pockets, and I come up with the the geode fragment that I picked up outside. Do you mean this? It was just on the ground",
+        "",
+        "%% u1338:0-13, u1339:0-50 %%",
+        "DM: Give it back. You just pick stuff up? What if they're not yours?",
+        "",
+        "%% u1340:0-6, u1341:0-10, u1342:0-30, u1343:0-45 %%",
+        "Seeker: I am a dwarf of a natural philosophic leaning. I investigate the world. I follow my curiosity.",
+        "",
+        "%% u1344:0-3, u1345:0-58 %%",
+        "DM: Ha! You took something of mine. I'll take something of yours.",
+        "",
+        "%% u1345:58-67 %%",
+        "Seeker: You dear?",
+        "",
+        "%% u1346:0-8 %%",
+        "((Brief aside))",
+        "",
+        "%% u1347:0-23 %%",
+        "Seeker: And what would you take?",
+        "",
+        "%% u1348:0-165, u1349:0-41, u1350:0-101, u1351:0-241 %%",
+        "DM: Like? This creature steps out of the wall, and you can see he's about your height, sort of dwarfish in build, but like very like everything looks kind of stony, like thick legs, wearing sort of overalls, and like a tunic, and like no boots just bare feet, like thick feet, like very, almost granite, like legs like burly arms of sort of also kind of not, not like actual stone, but you just get that feeling like if you painted skin over a small, stout statue of a dwarf, that's what this guy would look like, except for his like massive shock of hair,",
+        "",
+        "%% u1352:0-181, u1353:0-18, u1354:0-16, u1355:0-4, u1356:0-24, u1357:0-47 %%",
+        "DM: And he just walked out of the wall. He just walked out of the wall, and he snaps his finger. And this iron— this coil of iron rope begins to like, coil up and coil around your legs, and he walks over. He looks at you. “Hmm. Maybe you could help me.” And we'll go back to the room above now. Okay.",
+        "",
+        "%% u1358:0-10 %%",
+        "((Brief aside))",
+        "",
+        "%% u1359:0-58, u1360:0-51, u1361:0-43 %%",
+        "DM: Where are you? Okay, you— Everybody hears this now, and he— This creature hears it and you hear, [garbled], you know. “You know that commotion upstairs?”",
+        "",
+        "%% u1362:0-3 %%",
+        "((Brief aside))",
+        "",
+        "%% u1363:0-23, u1364:0-48, u1365:0-17 %%",
+        "Seeker: Traveling companions of— Can't take much responsibility for their actions or their sense of—",
+        "",
+        "%% u1366:0-91 %%",
+        "Mikasa: Their actions? You're the one who’s stealing stuff. Yeah, what do we do? Just you’re Seeker?",
+        "",
+        "%% u1367:0-10, u1368:0-7 %%",
+        "Seeker: That I am, and my—",
+        "",
+        "%% u1369:0-24, u1370:0-13, u1371:0-41, u1372:0-51, u1373:0-14, u1374:0-55 %%",
+        "DM: “You may call me Illaran. I'll be back.” He like walks into the wall and vanishes, and the rest of you see a head pop out of the floor the same head. “You're trying to find your friend downstairs. The thief.”",
+        "",
+        "%% u1375:0-44 %%",
+        "Mikasa: The dwarf! Yes, what did he steal this time?",
+        "",
+        "%% u1376:0-15 %%",
+        "DM: One of my rocks",
+        "",
+        "%% u1377:0-15 %%",
+        "Raven: Negotiating for—",
+        "",
+        "%% u1378:0-23, u1379:0-8 %%",
+        "DM: I'm negotiating for his freedom?",
+        "",
+        "%% u1380:0-3 %%",
+        "Unknown: For",
+        "",
+        "%% u1381:0-81, u1382:0-4, u1383:0-23 %%",
+        "DM: He probably— I might have a use for him, though. What would you like to negotiate? Hmm. Well, I need some help.",
+        "",
+        "%% u1384:0-17 %%",
+        "Mikasa: What kind of help?",
+        "",
+        "%% u1385:0-53 %%",
+        "DM: “Come downstairs. Let's talk together,” and he vanishes",
+        "",
+        "%% u1386:0-3, u1387:0-11 %%",
+        "((Verbal interruption))",
+        "",
+        "%% u1388:0-85, u1389:0-113, u1390:0-64, u1391:0-192, u1392:0-51 %%",
+        "DM: He pops his head back up. “Oh, sorry!” And he like pushes with his hands. And this, like— this, like a crack opens up in the wall that he grabs and he like yanks, and like this bar opens— this, like, like a something where you could tie a rope. Then he takes this pair of a black I of like the sort of tarnished silver scissors, and he, like grab some of his hair, cuts it. As he cuts it, the hair grows and spins into a ladder, and he ties a silver ladder onto the bar that he just made, and then he vanishes again.",
+        "",
+        "%% u1392:51-67, u1393:0-14, u1394:0-28 %%",
+        "Raven: I just like step into the hole, and just fall past the watch",
+        "",
+        "%% u1395:0-35, u1396:0-71 %%",
+        "DM: You see Seeker on the, on the floor. It's a— You see what I described before this like small makeshift room,",
+        "",
+        "%% u1397:0-81 %%",
+        "Seeker: I'm, uh, advancing the progress of our quest. Um! Am I trapped by the iron rope?",
+        "",
+        "%% u1397:81-131, u1398:0-53, u1399:0-84, u1400:0-52 %%",
+        "DM: You are. Yes, you are restrained by the iron rope, and he reappears now out from the floor of the, of the— this second crystal, and he says— he snaps his fingers, and the rope releases itself. Hmm! Didn't realize you were traveling with natives.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Sorry, so something fell and hit the—",
+          "Raven: And then something— And then some one, some creature, took the thing that hit the geode and cleaned up the mess.",
+          "DM: Uh yes, and there's a few strands of weird silver hair like not silver-colored hair like hair, but made actually out of silver metal.",
+          "Raven: I'll, I'll pick up a couple of strands of hair and just like pocket it. Um, uh, I guess all probably see Seeker. It's like, “Yo, see if you can.”",
+          "DM: Um you— Here— You hear that coming from somewhat muffled, and as, as that yell goes up, you see,"
+        ],
+        "after": [
+          "Seeker: Oh, yes,",
+          "Spirala: Did you say something about needing assistance?",
+          "DM: Oh, yes, Well, uh,",
+          "Unknown: There",
+          "DM: I, I may have caused a little trouble. Unintentional, of course."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Illaran explains the stone and living spells",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1402",
+        "endUid": "u1582"
+      },
+      "lines": [
+        "%% u1402:0-47 %%",
+        "Spirala: Did you say something about needing assistance?",
+        "",
+        "%% u1403:0-18 %%",
+        "DM: Oh, yes, Well, uh,",
+        "",
+        "%% u1404:0-5 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1405:0-37, u1406:0-25 %%",
+        "DM: I, I may have caused a little trouble. Unintentional, of course.",
+        "",
+        "%% u1407:0-14, u1408:0-32, u1409:0-3, u1410:0-3, u1411:0-26, u1412:0-174, u1413:0-4, u1414:0-34 %%",
+        "DM: Well, you see, ah, something fell from the sky. Uh, ah! But you know how magic is. Sometimes you know it's like hail, right? There's a little bit of magic forms a little seed, and it bounces around in the atmosphere, and more and more magic gathers around it. Hmm. I thought it would be interesting.",
+        "",
+        "%% u1415:0-15 %%",
+        "Raven: So you took it.",
+        "",
+        "%% u1416:0-82, u1417:0-12, u1418:0-87 %%",
+        "DM: Well, yes, if something falls in— something lands on your house, what would you do? Finders? Um. No, that's not correct. Finders not keepers. It was mine because it landed on my house.",
+        "",
+        "%% u1419:0-47 %%",
+        "Seeker: So that's Crystal Mountain. This is your house?",
+        "",
+        "%% u1420:0-8, u1421:0-44 %%",
+        "DM: Oh, yes, and something— You took a piece of my house.",
+        "",
+        "%% u1422:0-32, u1423:0-2 %%",
+        "((Verbal scaffolding))",
+        "",
+        "%% u1424:0-21, u1425:0-20 %%",
+        "DM: Yes, magic is strong. It is very powerful.",
+        "",
+        "%% u1426:0-5 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1427:0-108 %%",
+        "Seeker: Is the sense that he might be lying about this, that it just happened. But he didn't cause it intentionally?",
+        "",
+        "%% u1428:0-26, u1429:0-10, u1430:0-37 %%",
+        "DM: ((Insight check)) Ah, I mean he is definitely a little squirrelly.",
+        "",
+        "%% u1431:0-16, u1432:0-61 %%",
+        "Spirala: I ask this again— Particular kind of help. So what is that right? To his reply?",
+        "",
+        "%% u1433:0-30 %%",
+        "Spirala: What would you like us to do?",
+        "",
+        "%% u1433:30-59, u1434:0-23, u1435:0-6, u1436:0-17, u1437:0-38, u1438:0-3, u1439:0-37, u1440:0-6, u1441:0-45, u1442:0-14 %%",
+        "DM: Well, see, now this magic stone— Very interesting. I, uh, wow, I summoned a friend I thought could, you know, maybe help. Ah, creature with a, with a nose for gems from a— from the plane of earth, you might know of it. Ever been? No?",
+        "",
+        "%% u1443:0-27 %%",
+        "Seeker: That's where I live. Right?",
+        "",
+        "%% u1444:0-33 %%",
+        "DM: Ah, the elemental plane of earth.",
+        "",
+        "%% u1445:0-41 %%",
+        "Seeker: Oh, I see I live on the plane of Taelgar.",
+        "",
+        "%% u1446:0-68 %%",
+        "Raven: Well, what exactly happened? Did he take it? Yeah, I bet he took it.",
+        "",
+        "%% u1447:0-13 %%",
+        "DM: Uh he ate it.",
+        "",
+        "%% u1448:0-62 %%",
+        "Seeker: I guess I was kind of right when you think about it, right? Like—",
+        "",
+        "%% u1449:0-54, u1450:0-4, u1451:0-4, u1452:0-5 %%",
+        "((Brief aside))",
+        "",
+        "%% u1453:0-77 %%",
+        "Raven: So what is actually— So? Why, why do you want— what you want us to do about it?",
+        "",
+        "%% u1454:0-27 %%",
+        "Spirala: What happens when he ate it?",
+        "",
+        "%% u1455:0-2, u1456:0-28 %%",
+        "DM: Uh magic started getting weird.",
+        "",
+        "%% u1457:0-40 %%",
+        "Raven: Yeah, we can tell. That’s why we’re here.",
+        "",
+        "%% u1458:0-3, u1459:0-14 %%",
+        "DM: Uh, he, he ran away.",
+        "",
+        "%% u1460:0-13, u1461:0-15 %%",
+        "Raven: Further down. Where did he go?",
+        "",
+        "%% u1462:0-74 %%",
+        "Spirala: Like, further down, inside, here or outside the— deeper down in the mountain?",
+        "",
+        "%% u1463:0-37 %%",
+        "DM: I can get you to the Hall of Mirrors.",
+        "",
+        "%% u1464:0-22 %%",
+        "Raven: Is that where he went?",
+        "",
+        "%% u1465:0-5, u1466:0-32 %%",
+        "DM: Well, the mirrors show you everything.",
+        "",
+        "%% u1467:0-58, u1468:0-36, u1469:0-11, u1470:0-8 %%",
+        "Raven: Let's go to the Hall of Mirrors. Wait! Actually, I'll say, all right. So you want us to go get a magic gem that you—",
+        "",
+        "%% u1471:0-86 %%",
+        "DM: From it. It, it, it might be better to just um destroy it and pretend it was never here.",
+        "",
+        "%% u1472:0-24 %%",
+        "Mikasa: How would we destroy it?",
+        "",
+        "%% u1473:0-5 %%",
+        "Unknown: Yeah,",
+        "",
+        "%% u1474:0-40, u1475:0-13, u1476:0-38 %%",
+        "DM: He looks up at your like massive weapon. Ah, smash it! You look like you're good at smashing.",
+        "",
+        "%% u1477:0-19, u1478:0-4 %%",
+        "((Brief aside))",
+        "",
+        "%% u1479:0-34, u1480:0-12, u1481:0-4, u1482:0-45 %%",
+        "DM: Only problem is, you'll have to uh somehow, uh, wow! Have you cast many spells since you got here?",
+        "",
+        "%% u1483:0-19 %%",
+        "Spirala: We've tried not to.",
+        "",
+        "%% u1484:0-20 %%",
+        "DM: They, um, come alive.",
+        "",
+        "%% u1485:0-11 %%",
+        "Raven: Gosh! What?",
+        "",
+        "%% u1486:0-24, u1487:0-16 %%",
+        "DM: So you might have to um kill your spells.",
+        "",
+        "%% u1488:0-10 %%",
+        "Seeker: All right,",
+        "",
+        "%% u1489:0-31 %%",
+        "Raven: Like literally sentient spells?",
+        "",
+        "%% u1490:0-5, u1491:0-14 %%",
+        "DM: I, um— I tried to, uh—",
+        "",
+        "%% u1492:0-4 %%",
+        "Unknown: Hmm,",
+        "",
+        "%% u1493:0-60 %%",
+        "DM: No, no, no, it's okay. You'll be fine, I promise. So totally.",
+        "",
+        "%% u1494:0-47, u1495:0-21 %%",
+        "((Out-of-character clarification))",
+        "",
+        "%% u1496:0-34 %%",
+        "Raven: How famous are the Winter Knights?",
+        "",
+        "%% u1497:0-6, u1498:0-8, u1499:0-88 %%",
+        "DM: I mean, anybody— He would definitely have heard of them, given that he lives on the border of your realm.",
+        "",
+        "%% u1500:0-26, u1501:0-41, u1502:0-4, u1503:0-38, u1504:0-20, u1505:0-18, u1506:0-62, u1507:0-24 %%",
+        "Raven: I will just walk up to him like my black feathers, like, like slowly, like, like roughly ruffle and like puff out, and I will just like grab his shoulder. I'm like, make sure he can see like my brooch, and I will say, “What exactly did you do?”",
+        "",
+        "%% u1508:0-29, u1509:0-6, u1510:0-29, u1511:0-11, u1512:0-45, u1513:0-42 %%",
+        "((Intimidation roll))",
+        "",
+        "%% u1514:0-6, u1515:0-23, u1516:0-6, u1517:0-35, u1518:0-24 %%",
+        "DM: He, he— He looks over it at um, Mikasa. “Kind of gloomy friend you have. Uh, does, does he smile much?”",
+        "",
+        "%% u1519:0-16 %%",
+        "Spirala: That is smiling.",
+        "",
+        "%% u1520:0-7, u1521:0-18, u1522:0-34 %%",
+        "DM: Oh, um! Do you smile much? I, I, I'm not sure about that smile.",
+        "",
+        "%% u1523:0-114, u1524:0-149 %%",
+        "DM: Anyway. It'll be easy. You just need to go to the Hall of Mirrors, find the mirror that shows the reflection of the creature turned into a statue, step through the mirror, and then just break the statue open and it won't be a problem at all. I promise nothing bad.",
+        "",
+        "%% u1525:0-22 %%",
+        "Seeker: Sorry. What? Oh, dear,",
+        "",
+        "%% u1526:0-4 %%",
+        "Raven: Huh?",
+        "",
+        "%% u1527:0-157, u1528:0-24, u1529:0-76 %%",
+        "DM: Okay. Each of the Hall of Mirrors, and then it's easy. You just find the mirror that shows you the reflection of the statue of the Earth creature I summoned. Step through the mirror, break the statue open and smash the gem. Easy, peasy, no trouble whatsoever.",
+        "",
+        "%% u1530:0-66 %%",
+        "Spirala: So the Earth creature isn't a creature anymore. Now it's a statue.",
+        "",
+        "%% u1531:0-19 %%",
+        "DM: Oh, yeah, I checked",
+        "",
+        "%% u1532:0-28 %%",
+        "Raven: Yeah, sure, sure, Bud, sure,",
+        "",
+        "%% u1533:0-51 %%",
+        "Spirala: And perhaps that transformation involves some magic—",
+        "",
+        "%% u1534:0-4, u1535:0-16 %%",
+        "Raven: That you did possibly?",
+        "",
+        "%% u1536:0-1, u1537:0-2 %%",
+        "DM: A— No.",
+        "",
+        "%% u1538:0-8 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1539:0-119 %%",
+        "Raven: In insight. There's a difference between needing to know whether or not he's lying and needing to get him to stop lying",
+        "",
+        "%% u1540:0-256, u1541:0-67, u1542:0-83 %%",
+        "((Out-of-character quest clarification))",
+        "",
+        "%% u1543:0-32, u1544:0-9, u1545:0-28 %%",
+        "Raven: How much force are we willing to employ to get him to tell us anything?",
+        "",
+        "%% u1546:0-87, u1547:0-70 %%",
+        "Spirala: I don't think he needs to be brutalized. I think he just needs to be persuaded. I mean, do we look like we're going to say no? Just tell us what we're facing.",
+        "",
+        "%% u1548:0-31 %%",
+        "Seeker: If you want this statue broken—",
+        "",
+        "%% u1549:0-8 %%",
+        "Raven: You try—",
+        "",
+        "%% u1550:0-41, u1551:0-6, u1552:0-36, u1553:0-82, u1554:0-59 %%",
+        "((Persuasion roll))",
+        "",
+        "%% u1555:0-14, u1556:0-13, u1557:0-13, u1558:0-4, u1559:0-37, u1560:0-22 %%",
+        "DM: He says, “Well, I tried to uh kill it first— that lightning bolt and a few other spells bolt of chaotic energy.”",
+        "",
+        "%% u1561:0-23 %%",
+        "((Garbled interruption))",
+        "",
+        "%% u1562:0-34 %%",
+        "DM: And, and when that didn't work I, um—",
+        "",
+        "%% u1563:0-4 %%",
+        "Unknown: Hmm.",
+        "",
+        "%% u1564:0-58, u1565:0-8 %%",
+        "DM: Summoned a big hand of force to protect me so it wouldn't kill me.",
+        "",
+        "%% u1566:0-17, u1567:0-8 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1568:0-2, u1569:0-88 %%",
+        "DM: So both of those things might be down there, and I don't know what other spells you’ve cast.",
+        "",
+        "%% u1570:0-42, u1571:0-45 %%",
+        "Mikasa: You— The other spells cast are down there, and we will have to face them in some format.",
+        "",
+        "%% u1572:0-50, u1573:0-54, u1574:0-133, u1575:0-203, u1576:0-78 %%",
+        "((Speculation about spell manifestations))",
+        "",
+        "%% u1577:0-3, u1578:0-65 %%",
+        "Spirala: Oh, were the things we were fighting living spells, or were they just—",
+        "",
+        "%% u1579:0-64, u1580:0-59 %%",
+        "DM: Inhabitants of this guy's neighborhood. They seem to just please something caused by— they would— they were not living spells,",
+        "",
+        "%% u1581:0-51, u1582:0-38 %%",
+        "Raven: I mean. Let's go. He told us what we wanted to know. It might as well just kill the spells.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Raven: I just like step into the hole, and just fall past the watch",
+          "DM: You see Seeker on the, on the floor. It's a— You see what I described before this like small makeshift room,",
+          "Seeker: I'm, uh, advancing the progress of our quest. Um! Am I trapped by the iron rope?",
+          "DM: You are. Yes, you are restrained by the iron rope, and he reappears now out from the floor of the, of the— this second crystal, and he says— he snaps his fingers, and the rope releases itself. Hmm! Didn't realize you were traveling with natives.",
+          "Seeker: Oh, yes,"
+        ],
+        "after": [
+          "Spirala: So this is my— Why don't we? Why don't we rest first? Yeah, Can we reach them to say like we can't. I don't want a healing spell so much as I want a long rest and or short rest, and use hit dice because it's fine. A long rest might—",
+          "Raven: No, just a short. I know a short rest. I basically get a free heal to full, and every short rest, because basically at the— at once we're done with combat, and we're about to short rest. I can just use all my ki points on Hand of Healing, and then I get that. You can remember Kong, you also have a short rest, healing ability,",
+          "Mikasa: The same",
+          "Raven: Who needs healing?",
+          "Raven: Like at any healing at all? I need twelve, twelve points of healing because we should do my healing before we do hit die, because my healing is like before we rest."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Illaran shows the mirror route to the statue",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1693",
+        "endUid": "u1723"
+      },
+      "lines": [
+        "%% u1693:0-89 %%",
+        "Raven: So let's just go to the Hall of Mirrors. Let's follow the— that guy. What's his name again?",
+        "",
+        "%% u1694:0-12 %%",
+        "DM: Ah, Illaran,",
+        "",
+        "%% u1695:0-24 %%",
+        "Seeker: Yeah, or follow Illaran.",
+        "",
+        "%% u1696:0-26, u1697:0-7, u1698:0-54, u1699:0-39, u1700:0-21, u1701:0-3, u1702:0-26, u1703:0-53 %%",
+        "DM: So Illaran takes you down. He like pulls a hole into the floor, and he takes you. He like takes you down to like a chamber that's, that's um just below, ah, that's just below where um uh where, where he is, where his like little home is.",
+        "",
+        "%% u1704:0-243, u1705:0-79, u1706:0-233 %%",
+        "DM: Um! And you can see that it's not— It's not actually really a hall of mirrors, but it's a like a twenty foot twenty foot room, with like polished crystal, reflective surfaces and all sorts of angles. So you see, like yourselves walking around, and you catch glimpses in the mirror in like these reflective crystals you see, like random, weird scenes, like from who knows where. Occasionally see a reflection of yourself, and, like you'll turn back, and you look at it, and the reflection will like wave its hand at you, even though you're not doing anything.",
+        "",
+        "%% u1707:0-95 %%",
+        "DM: Um, and he sort of tries to herd you along, he says, “No, don't look. Don't look. Quick, like, move!”",
+        "",
+        "%% u1708:0-119, u1709:0-2, u1710:0-203, u1711:0-191 %%",
+        "DM: And he points like there's up ahead. You can see that there's one mirror that's that's reflecting, um, what looks like a uh a big open cave with like cracks in the ceiling and light shining down, and in the center of the cave,((Image-generation aside)) there was like a fifteen foot statue of this um creature that looks like it's got, like it's got a giant mouth in the center, and then, like four claws around it, and glowing in the middle of that statue is like this, like pulsing light,",
+        "",
+        "%% u1712:0-17 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1713:0-29 %%",
+        "DM: That's what swallowed it. Ah!",
+        "",
+        "%% u1714:0-27 %%",
+        "Mikasa: So you can like helping us?",
+        "",
+        "%% u1715:0-12, u1716:0-32 %%",
+        "DM: I don't know. You can walk through the mirror,",
+        "",
+        "%% u1717:0-7, u1718:0-55 %%",
+        "Raven: I mean. Can we see any other lurking spells through the mirror?",
+        "",
+        "%% u1719:0-3 %%",
+        "DM: Ah,",
+        "",
+        "%% u1720:0-11, u1721:0-71, u1722:0-46 %%",
+        "Raven: Thanks you. Something you probably could tell. Does the scene appear to be updating? Like, are the like motes of light in the air—",
+        "",
+        "%% u1722:46-101, u1723:0-122 %%",
+        "DM: Yeah, it seems like a live view. You don't have a great, a great view exactly, although you do see, like a like a big sort of purplish blue hand of force, kind of drift into view.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Raven: Like I'm pretty sure like magic weapons is okay, because it's like they're like living spells, not just like a living magic,",
+          "Raven: Right? But I mean, I think the answer is going to involve a animated ladder. Doesn't the answer always involve an animated ladder? What is this? What does this mean—",
+          "Seeker: For the main campaign? And it's a rope ladder, and the day—",
+          "Raven: Anyway. Um, so yeah, I think we should just figure out strategy once we've seen what turns into a spell and what doesn’t, right? Because, if like lower level spells don't turn into living spells, it's probably we should probably just go in without— We, we can probably just go in without like a, um—",
+          "Seeker: Or maybe—"
+        ],
+        "after": [
+          "Raven: That's— yeah. So there definitely are living spells down here. We've confirmed that that was definitely one. You're small, right? I propose you just fly through just a little bit and see if it's like a portal? Like, I'm assuming it's just like a portal, but like, see where it comes out like, try and just get a better— And just like, quickly come back through and report back.",
+          "DM: I mean, you can see there's— You can see the statue.",
+          "Raven: Yeah, but like it's like twenty feet away from the other end. Do you want to just go for it? Like, I mean, there are obviously a bunch of living spells lurking around here. Do we want to try and like, formulate a plan, or should we just like, go hit them?",
+          "Seeker: I do have one question. Yeah, for certain types of spells, you can imagine what the living spell might be like, like a lightning bolt or a ghostly hand, or would a living dispel magic spell be?",
+          "Raven: Nothing— A good question— Wouldn't exist."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The statue breaks and the magical core is destroyed",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1771",
+        "endUid": "u2391"
+      },
+      "lines": [
+        "%% u1771:0-279, u1772:0-32, u1773:0-174, u1774:0-45, u1775:0-95 %%",
+        "DM: Okay. So you see, in front of you, as you step through this like open cavern of gems uh all sort of clustered around this mirror, there is a big statue here with this like glowing purple heart, and it seems like you might have to crack the statue before you can do anything else. ((Other living spells))",
+        "",
+        "%% u1776:0-59, u1777:0-8, u1778:0-12, u1779:0-57, u1780:0-181, u1781:0-88, u1782:0-85, u1783:0-36, u1784:0-303, u1785:0-34, u1786:0-82, u1787:0-49, u1788:0-106, u1789:0-3, u1790:0-39, u1791:0-55, u1792:0-35, u1793:0-66, u1794:0-23, u1795:0-98, u1796:0-15, u1797:0-55, u1798:0-24, u1799:0-50, u1800:0-12, u1801:0-124, u1802:0-3, u1803:0-146, u1803:146-218, u1803:218-263, u1804:0-23, u1805:0-28, u1806:0-73, u1807:0-5, u1808:0-13, u1809:0-87, u1810:0-8, u1811:0-69, u1812:0-67, u1813:0-61, u1814:0-42, u1815:0-38, u1816:0-49, u1817:0-37, u1818:0-3, u1819:0-22, u1820:0-59, u1821:0-28, u1822:0-3, u1823:0-16, u1824:0-2, u1825:0-52, u1826:0-3, u1827:0-9, u1828:0-36, u1829:0-34, u1830:0-17, u1831:0-31, u1832:0-73, u1833:0-25, u1834:0-7, u1835:0-80, u1836:0-3, u1837:0-45, u1838:0-23, u1839:0-35, u1840:0-71, u1841:0-32, u1842:0-86, u1843:0-21, u1844:0-15, u1845:0-8, u1846:0-87, u1847:0-3, u1848:0-3, u1849:0-100, u1850:0-53, u1851:0-20, u1852:0-3, u1853:0-106, u1854:0-14, u1855:0-143, u1856:0-30, u1857:0-44, u1857:44-58, u1858:0-10, u1859:0-66, u1859:66-113, u1859:113-167, u1860:0-5, u1861:0-19, u1862:0-11, u1863:0-31, u1864:0-48, u1865:0-18, u1866:0-37, u1867:0-32, u1868:0-5, u1869:0-30, u1870:0-23, u1871:0-5, u1872:0-16, u1873:0-10, u1874:0-8, u1875:0-20, u1876:0-3, u1877:0-29, u1878:0-45, u1879:0-41, u1880:0-30, u1881:0-49, u1882:0-18, u1883:0-36, u1884:0-15, u1885:0-13, u1886:0-67, u1887:0-22, u1888:0-46, u1889:0-47, u1890:0-13, u1891:0-32, u1892:0-30, u1893:0-83, u1894:0-20, u1895:0-3, u1896:0-146, u1897:0-8, u1898:0-42, u1899:0-169, u1900:0-36, u1901:0-72, u1902:0-2, u1903:0-26, u1904:0-28, u1905:0-43, u1906:0-12, u1907:0-11, u1908:0-15, u1909:0-37, u1910:0-64, u1911:0-3, u1912:0-3, u1913:0-29, u1914:0-2, u1915:0-40, u1916:0-49, u1917:0-11, u1918:0-26, u1919:0-23, u1920:0-14, u1921:0-55, u1922:0-18, u1923:0-2, u1924:0-6, u1925:0-11, u1926:0-28, u1927:0-9, u1928:0-2, u1929:0-42, u1930:0-2, u1931:0-17, u1932:0-8, u1933:0-37, u1934:0-60, u1935:0-25, u1936:0-23, u1937:0-17, u1938:0-15, u1939:0-35, u1940:0-12, u1941:0-7, u1942:0-3, u1943:0-8, u1944:0-3, u1945:0-156, u1946:0-66, u1947:0-63, u1948:0-3, u1949:0-39, u1949:39-109, u1950:0-3, u1951:0-20, u1952:0-34, u1953:0-81, u1954:0-55, u1955:0-57, u1956:0-18, u1957:0-62, u1958:0-132, u1959:0-47, u1960:0-59, u1961:0-14, u1962:0-7, u1963:0-123, u1964:0-25, u1965:0-199, u1966:0-86, u1967:0-12, u1968:0-4, u1969:0-93, u1970:0-36, u1971:0-11, u1971:11-228, u1972:0-45, u1973:0-11, u1974:0-16, u1975:0-36, u1976:0-42, u1977:0-39, u1978:0-28, u1979:0-73, u1980:0-233, u1981:0-24, u1982:0-47, u1983:0-7, u1984:0-7, u1985:0-14, u1986:0-50, u1987:0-85, u1987:85-159, u1988:0-24, u1989:0-36, u1989:36-127, u1990:0-3, u1991:0-20, u1992:0-12, u1992:12-81, u1993:0-5, u1994:0-128, u1995:0-5, u1996:0-171, u1997:0-39, u1998:0-14, u1999:0-57, u2000:0-70, u2001:0-16, u2002:0-32, u2003:0-22, u2004:0-12, u2005:0-10, u2006:0-8, u2007:0-81, u2008:0-64, u2009:0-44, u2010:0-12, u2011:0-12, u2012:0-5, u2013:0-12, u2014:0-11, u2015:0-25, u2016:0-51, u2017:0-41, u2018:0-80, u2019:0-148, u2020:0-200, u2021:0-52, u2021:52-84, u2021:84-117, u2022:0-30, u2023:0-4, u2024:0-47, u2025:0-148, u2026:0-4, u2027:0-3, u2028:0-98, u2029:0-61, u2030:0-161, u2031:0-3, u2032:0-73, u2033:0-36, u2034:0-87, u2035:0-64, u2036:0-34, u2037:0-10, u2038:0-19, u2039:0-6, u2040:0-21, u2041:0-73, u2042:0-73, u2043:0-27, u2044:0-57, u2045:0-27, u2046:0-59, u2047:0-55, u2048:0-38, u2049:0-7, u2050:0-60, u2050:60-94, u2050:94-199, u2051:0-160, u2052:0-3, u2053:0-125, u2054:0-36, u2055:0-38, u2056:0-24, u2056:24-251, u2057:0-150, u2058:0-45, u2059:0-26, u2060:0-3, u2061:0-100, u2062:0-23, u2063:0-84, u2064:0-3, u2065:0-51, u2066:0-29, u2066:29-62, u2067:0-5, u2068:0-61, u2069:0-52, u2070:0-54, u2071:0-54, u2072:0-17, u2073:0-24, u2074:0-21, u2075:0-19, u2076:0-16, u2077:0-58, u2078:0-49, u2079:0-25, u2080:0-42, u2081:0-24, u2082:0-42, u2083:0-17, u2084:0-17, u2085:0-42, u2086:0-59, u2087:0-25, u2088:0-10, u2089:0-160, u2090:0-5, u2091:0-5, u2092:0-21, u2093:0-2, u2094:0-75, u2095:0-10, u2096:0-3, u2097:0-89, u2098:0-3, u2099:0-105, u2100:0-38, u2101:0-62, u2102:0-14, u2103:0-7, u2104:0-34, u2105:0-10, u2106:0-3, u2107:0-24, u2108:0-20, u2109:0-151, u2110:0-146, u2111:0-26, u2112:0-51, u2112:51-85, u2113:0-2, u2114:0-6, u2115:0-31, u2116:0-64, u2117:0-15, u2118:0-60, u2119:0-52, u2120:0-15, u2121:0-99, u2122:0-54, u2123:0-5, u2124:0-104, u2125:0-59, u2125:59-112, u2126:0-21, u2127:0-3, u2128:0-33, u2129:0-3, u2130:0-80, u2130:80-126, u2131:0-37, u2132:0-33, u2133:0-20, u2134:0-59, u2135:0-69, u2136:0-117, u2136:117-196, u2137:0-10, u2138:0-22, u2139:0-24, u2140:0-165, u2141:0-11, u2141:11-63, u2141:63-193, u2142:0-21, u2143:0-105, u2144:0-16, u2145:0-19, u2146:0-3, u2147:0-3, u2148:0-36, u2149:0-7, u2150:0-17, u2150:17-61, u2151:0-75, u2152:0-14, u2153:0-26, u2153:26-52, u2154:0-29, u2155:0-142, u2155:142-195, u2156:0-48, u2157:0-105, u2158:0-10, u2159:0-5, u2160:0-32, u2161:0-14, u2162:0-17, u2163:0-4, u2164:0-51, u2165:0-32, u2166:0-28, u2167:0-60, u2167:60-84, u2167:84-101, u2168:0-67, u2169:0-13, u2170:0-3, u2171:0-3, u2172:0-116, u2173:0-12, u2174:0-15, u2175:0-6, u2176:0-3, u2177:0-59, u2178:0-4, u2179:0-22, u2180:0-2, u2181:0-15, u2182:0-51, u2183:0-50, u2184:0-23, u2185:0-98, u2186:0-8, u2187:0-46, u2188:0-65, u2189:0-29, u2190:0-18, u2191:0-24, u2192:0-51, u2193:0-57, u2194:0-10, u2195:0-49, u2196:0-12, u2197:0-5, u2198:0-20, u2199:0-11, u2200:0-19, u2201:0-20, u2202:0-120, u2203:0-99, u2204:0-2, u2205:0-167, u2206:0-31, u2207:0-71, u2208:0-19, u2209:0-71, u2210:0-27, u2210:27-128, u2211:0-19, u2212:0-57, u2213:0-35, u2214:0-47, u2215:0-95, u2216:0-48, u2217:0-114, u2218:0-17, u2219:0-83, u2220:0-51, u2221:0-20, u2222:0-18, u2223:0-81, u2224:0-18, u2225:0-15, u2226:0-91, u2227:0-45, u2228:0-3, u2229:0-78, u2230:0-68, u2231:0-38, u2232:0-48, u2233:0-23, u2234:0-76, u2235:0-14, u2236:0-29, u2237:0-5, u2238:0-54, u2239:0-66, u2240:0-21, u2241:0-15, u2242:0-65, u2243:0-49, u2244:0-68, u2245:0-7, u2246:0-5, u2247:0-29, u2248:0-141, u2249:0-63, u2250:0-7, u2251:0-97, u2251:97-145, u2252:0-152, u2253:0-59, u2254:0-50, u2255:0-3, u2256:0-10, u2257:0-80, u2258:0-57, u2259:0-5, u2260:0-25, u2261:0-25, u2262:0-28, u2262:28-63, u2263:0-39, u2264:0-37, u2265:0-57, u2266:0-22, u2267:0-16, u2267:16-46, u2268:0-57, u2269:0-3, u2270:0-39, u2271:0-4, u2272:0-71, u2273:0-36, u2274:0-43, u2275:0-29, u2276:0-10, u2277:0-9, u2278:0-40, u2279:0-115, u2280:0-84, u2280:84-160, u2280:160-190, u2280:190-245, u2281:0-49, u2282:0-3, u2283:0-48, u2284:0-60, u2285:0-29, u2286:0-185, u2287:0-129, u2288:0-29, u2289:0-13, u2290:0-26, u2291:0-59, u2292:0-15, u2293:0-42, u2294:0-76 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u2295:0-57, u2296:0-32, u2297:0-16 %%",
+        "DM: ((Combat mechanics)) Yeah, that knocks it over. Really— Falls backwards,",
+        "",
+        "%% u2298:0-12, u2299:0-40, u2300:0-27, u2301:0-81, u2302:0-46, u2303:0-20, u2303:20-70 %%",
+        "((Combat aftermath and shard damage))",
+        "",
+        "%% u2303:70-184, u2304:0-75, u2305:0-19, u2306:0-8, u2307:0-76 %%",
+        "DM: The statue splits open. You can see like in the center of it, where its stomach would be, this sort of bluish green orb of— It's sort of a bit of a like a writhing mass. It looks like almost a giant collection of, ah, like little tiny magic worms, or something swirling around inside a crystal ball.",
+        "",
+        "%% u2308:0-10, u2309:0-38, u2310:0-60, u2311:0-33, u2312:0-14, u2313:0-31, u2314:0-143, u2315:0-11, u2316:0-14, u2317:0-30, u2318:0-7, u2319:0-15, u2320:0-101, u2321:0-21, u2322:0-15, u2323:0-61, u2324:0-13, u2325:0-73, u2326:0-50, u2326:50-94, u2327:0-57, u2328:0-13, u2328:13-92, u2329:0-9, u2330:0-83, u2331:0-16, u2332:0-7, u2333:0-43, u2334:0-10, u2335:0-35, u2336:0-9, u2337:0-25, u2338:0-35, u2339:0-5, u2340:0-20, u2341:0-44, u2342:0-21, u2343:0-18, u2344:0-23, u2345:0-21, u2346:0-10, u2347:0-11, u2348:0-62, u2349:0-23, u2350:0-36, u2351:0-128, u2352:0-17, u2353:0-75, u2354:0-98, u2355:0-91, u2356:0-13, u2357:0-3, u2358:0-9 %%",
+        "((Combat and technical interruption))",
+        "",
+        "%% u2359:0-26, u2360:0-19 %%",
+        "Raven: Actually, I'll just hit it. ((Combat mechanics))",
+        "",
+        "%% u2361:0-10, u2362:0-2, u2363:0-10 %%",
+        "((Hit confirmation))",
+        "",
+        "%% u2364:0-95 %%",
+        "DM: Cracks in half, and the whole room begins to vibrate for a second. Fireworks like, shoot out um",
+        "",
+        "%% u2365:0-27, u2365:27-55, u2366:0-37, u2366:37-115, u2366:115-162, u2366:162-172, u2366:172-215, u2367:0-59, u2367:59-111, u2368:0-11, u2369:0-90, u2370:0-58, u2371:0-3, u2372:0-1, u2373:0-26, u2374:0-42, u2375:0-19, u2376:0-14, u2377:0-3, u2378:0-37, u2379:0-29, u2380:0-3, u2381:0-3, u2382:0-30, u2383:0-44, u2384:0-7, u2385:0-131 %%",
+        "((Wild magic effects and table discussion))",
+        "",
+        "%% u2386:0-22 %%",
+        "DM: All the spells vanish.",
+        "",
+        "%% u2387:0-59, u2388:0-22, u2389:0-3, u2390:0-53, u2391:0-2 %%",
+        "DM: Okay. So as, as the spells fade, you start to feel the magic rebalancing um, Seeker, ah, as well. You, you sense like the sort of flow begin to um",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Raven: Uh yeah, it pops up, and it doesn't matter if it's not linked. It's shows up. It pops up and D&D Beyond. It could be a fight where I actually want to have things to be scared of me. I can make— Oh, I should have frightened. It's fine. That would have helped him with intimidation.",
+          "DM: Okay, let me put you all out here.",
+          "DM: So when you, when you step through the mirror, you appear like right up against this wall. Ah,",
+          "Seeker: Over the top there. Oh, look the token I asked for.",
+          "Raven: I wonder why it looks like that. Almost like I— I'm confused. I don't know why I'm talking— way that I am."
+        ],
+        "after": [
+          "DM: Uh fade, and a head pops out of the mirror. It popping— Looks at you, puzzled for a moment. Seeker. It's like— Who takes, takes like a— takes like a geode out of his pocket, and like walks over and hands it to you, and says, “I hope you got better. I think it’s you. You can keep this.”",
+          "Seeker: Thank you.",
+          "DM: I, I, I think you— I think you fixed it.",
+          "Seeker: How good!",
+          "DM: Hmm"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Illaran gives Seeker a geode",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2392",
+        "endUid": "u2399"
+      },
+      "lines": [
+        "%% u2392:0-43, u2393:0-11, u2394:0-43, u2395:0-9, u2396:0-111, u2397:0-22, u2398:0-36 %%",
+        "DM: Uh fade, and a head pops out of the mirror. It popping— Looks at you, puzzled for a moment. Seeker. It's like— Who takes, takes like a— takes like a geode out of his pocket, and like walks over and hands it to you, and says, “I hope you got better. I think it’s you. You can keep this.”",
+        "",
+        "%% u2399:0-11 %%",
+        "Seeker: Thank you.",
+        "",
+        "%% u2399:11-48 %%",
+        "DM: I, I, I think you— I think you fixed it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Mikasa: Ah! I, I stab myself in the throat.",
+          "DM: Ah, you, you {{gain of you know your lowest}} um, and—",
+          "Mikasa: Well, you use the whole access tin. Do you have like a random spell generator thing over there, or you just like, Yeah, that's fun.",
+          "DM: All the spells vanish.",
+          "DM: Okay. So as, as the spells fade, you start to feel the magic rebalancing um, Seeker, ah, as well. You, you sense like the sort of flow begin to um"
+        ],
+        "after": [
+          "Seeker: How good!",
+          "DM: Hmm",
+          "Seeker: Up it was! Not even",
+          "DM: Were there a lot of spells down here? It, it looked like there were a lot of spells, but some of that was your fault. It wasn't on me.",
+          "Raven: Yeah, that's true. You know these, these doofuses and their spells."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The geode’s magic can become a future crafted item",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2418",
+        "endUid": "u2431"
+      },
+      "lines": [
+        "%% u2418:0-39, u2419:0-58, u2420:0-12, u2421:0-110, u2422:0-22, u2423:0-173, u2424:0-108, u2425:0-197 %%",
+        "DM: Um! Oh, and sorry I forgot to say this. So um Seeker when you return, you’re like— This geode, like, cracks open, and you can— You can feel that it's like been infused with this magical energy, and you can like, see how each little in— There's like lots of little gems, and you can see like, “Oh, if you could just figure out how to like shape and arrange them in the right way, you could probably use that to, like, do some— This, like, manipulate magic in the same way that this wild magic field was doing, but in a controlled manner.” It will take a little bit of study and crafting to get it to work, but as the like geode cracks open, you can like see, like each little gem contains like a coiled spring of sort of magical energy.",
+        "",
+        "%% u2426:0-41 %%",
+        "((Audio troubleshooting))",
+        "",
+        "%% u2427:0-115 %%",
+        "Mikasa: ((Audio troubleshooting)) Seeker, don't you have like a Thanos glove?",
+        "",
+        "%% u2428:0-132, u2429:0-32 %%",
+        "Seeker: That was hypothetical. I think this is what— This is the beginning of the Thanos glove. Yeah, he's trying to make it the most of— What Seeker’s magic item is his, like—",
+        "",
+        "%% u2430:0-54, u2431:0-123 %%",
+        "DM: He wants a magic item that will let him do Metamagic. Yeah. Through a like a glove or a set of rings or something. And the gems are the beginning of the formation of that magic.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, sorry about that. Are you going up or down, or out, or in or back, or forward, or out and up?",
+          "DM: Okay. He like starts swimming through the rock, leaving like a tunnel behind him, with like little steps carved into it like— Actually, no, from his super long hair he, like cuts off little pieces of hair that then grow into the wall, forming like a rope ladder going up.",
+          "Raven: I walk up the wall.",
+          "Seeker: It's a nice rope ladder,",
+          "DM: And he like swims up to the through the rock to the top of the— The Crystal Mountain, and there's like a little flat spot where you can look out and see um out across the um back out across the plains, and you can see that the magic has kind of calmed like you can sense that everything's sort of starting to calm down again."
+        ],
+        "after": [
+          "Seeker: Yeah,",
+          "Raven: You’re a bard, right?",
+          "Seeker: That's why you have inspiration. You guys, are— You're still muted, Kong.",
+          "Raven: Well, that's better. That was better, better, better, better. That's fine. Good.",
+          "Mikasa: All right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
