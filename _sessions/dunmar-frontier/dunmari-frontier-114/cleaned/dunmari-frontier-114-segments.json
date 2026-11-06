@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-114",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-session.yaml",
+    "sessionYamlSha256": "947480b2535c415b7628231721fd8f331f98fe5fb96ec3cd49e9c3259554ffc6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-transcript.md",
+    "transcriptSha256": "19775e9137a56baf948e068ea42c516e65cb5b81fa06937f36601adae02675c2"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0039"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0040",
+        "endUid": "u0745"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0746",
+        "endUid": "u1277"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1278",
+        "endUid": "u1731"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1732",
+        "endUid": "u1965"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1966",
+        "endUid": "u2111"
+      },
+      "category": "gameplay",
+      "note": "The later Sanctuary-protected dash at u2033–u2092 has no initiative or repeated ordered turn cycle; attacks are resolved within active exploration."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2112",
+        "endUid": "u2151"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2159"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2160",
+        "endUid": "u2168"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

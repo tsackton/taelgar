@@ -1,0 +1,388 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-114",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-session.yaml",
+    "sessionYamlSha256": "947480b2535c415b7628231721fd8f331f98fe5fb96ec3cd49e9c3259554ffc6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-transcript.md",
+    "transcriptSha256": "19775e9137a56baf948e068ea42c516e65cb5b81fa06937f36601adae02675c2",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-segments.json",
+      "sha256": "6dd3ff4844a4ecbb23f87ba5c5cb50e1bfb95113a035a89850a0785cab0893af",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Bound spirits in the Laughing Wave",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Stands near the doorway and casts Synaptic Static for 31 damage. About half the twenty minions disintegrate; the DM says even a successful save cannot save those caught in the spell because they have 15 HP.",
+              "evidence": [
+                {
+                  "startUid": "u0791",
+                  "endUid": "u0810"
+                }
+              ]
+            },
+            {
+              "actor": "Invisible conjoined spirit",
+              "kind": "turn",
+              "summary": "Emerges from below the floor and moves 40 feet toward Delwath, who alone has become visible. Its initially visible description is corrected: the creature remains invisible. A wave of despair deals Delwath 33 psychic damage and shows the tavern burning; a Wisdom save is requested but its rolled result is not retained.",
+              "evidence": [
+                {
+                  "startUid": "u0811",
+                  "endUid": "u0831"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves to a line of sight and casts Erupting Earth at seven minions. The DM rolls Dexterity saves, with at least one success and other failures destroying their targets, then resolves three minions remaining. Seeker becomes visible.",
+              "evidence": [
+                {
+                  "startUid": "u0840",
+                  "endUid": "u0871"
+                },
+                {
+                  "startUid": "u0875",
+                  "endUid": "u0888"
+                }
+              ],
+              "note": "The spoken save-count sequence is uneven; retain the DM’s resolved three remaining rather than deriving an exact kill total."
+            },
+            {
+              "actor": "Two ashen-cloaked spirits",
+              "kind": "turn",
+              "summary": "Emerge through the floor and both target Seeker with Wisdom-save effects. Seeker rolls 7 and 17: one effect is resisted; the other shows a spirit gleefully burning the tavern and deals an unreadable amount of psychic damage. The memories jump to Riswynn and Kenzo for 7 psychic damage each.",
+              "evidence": [
+                {
+                  "startUid": "u0881",
+                  "endUid": "u0909"
+                }
+              ],
+              "note": "Seeker’s damage amount is [garbled] at u0898–u0905."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Enters and uses Soul Sight on an ashen-cloaked spirit: it is CR 6, immune to necrotic/poison damage and the listed incorporeal conditions, good at Charisma and weak at Constitution/Strength. His first staff attack has advantage from invisibility, hits for 7 and stuns after a failed Constitution save. With advantage against the stunned target, another staff hit and three unarmed hits deal 15, 15, 14 and 9; it survives badly hurt.",
+              "evidence": [
+                {
+                  "startUid": "u0916",
+                  "endUid": "u0956"
+                }
+              ],
+              "note": "The DM calls the total 59, while the individual reported values sum to 60; both reports remain unresolved."
+            },
+            {
+              "actor": "Three remaining minions",
+              "kind": "turn",
+              "summary": "Close around Kenzo and make their combined attack, rolling 23 to hit. The initially announced result is 12 necrotic damage and inability to speak until the end of his next turn; his immediate deflection negates both.",
+              "evidence": [
+                {
+                  "startUid": "u0959",
+                  "endUid": "u0972"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the minions’ attack to zero damage, so the silencing effect also does not occur. Spends a ki to reflect it; the stated DC 16 Dexterity-save / 2d10+5 reflection kills one minion.",
+              "evidence": [
+                {
+                  "startUid": "u0968",
+                  "endUid": "u0990"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves in and sears undead within 30 feet using her holy symbol: DC 18 Wisdom saves, with frightened/incapacitated and 5d8 radiant damage on failure. The two remaining minions and Kenzo’s damaged ashen-cloaked spirit vanish. The other ashen-cloaked spirit survives frightened/incapacitated until damaged. The invisible mass is later confirmed to have made this save.",
+              "evidence": [
+                {
+                  "startUid": "u0993",
+                  "endUid": "u1021"
+                },
+                {
+                  "startUid": "u1023",
+                  "endUid": "u1030"
+                },
+                {
+                  "startUid": "u1176",
+                  "endUid": "u1177"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Runs to the surviving turned ashen-cloaked spirit and makes three sword attacks for 12, 16 and 10 damage, with advantage accepted at the table because it is incapacitated. It remains badly hurt; the damage ends the turning effect. He declines a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u1022",
+                  "endUid": "u1053"
+                },
+                {
+                  "startUid": "u1105",
+                  "endUid": "u1107"
+                }
+              ]
+            },
+            {
+              "actor": "Invisible conjoined spirit",
+              "kind": "turn",
+              "summary": "Hurls a rock at Kenzo: 26 hits for 7 bludgeoning damage and knocks him prone; his reaction has already been used. It also strikes at Delwath with two waves of force, rolling 18 and 17, both misses.",
+              "evidence": [
+                {
+                  "startUid": "u1054",
+                  "endUid": "u1082"
+                },
+                {
+                  "startUid": "u1097",
+                  "endUid": "u1097"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Repositions to avoid sending the projectile through Delwath and casts first-level Catapult at the surviving ashen-cloaked spirit. Its natural-20 Dexterity save dodges the rock, which strikes the tavern’s back wall.",
+              "evidence": [
+                {
+                  "startUid": "u1083",
+                  "endUid": "u1096"
+                },
+                {
+                  "startUid": "u1099",
+                  "endUid": "u1107"
+                }
+              ]
+            },
+            {
+              "actor": "Surviving ashen-cloaked spirit",
+              "kind": "turn",
+              "summary": "No longer turned after taking damage, reaches for Delwath; its 13 attack misses against his shield.",
+              "evidence": [
+                {
+                  "startUid": "u1105",
+                  "endUid": "u1111"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends half his movement to stand, engages the surviving ashen-cloaked spirit and hits for 7, stunning it after a failed DC 16 Constitution save; a second staff hit for 7 and a punch for 10 kill it before another attack is needed. Then tries to push away the lingering sorrow with his aura; a Wisdom check of 12 has no effect.",
+              "evidence": [
+                {
+                  "startUid": "u1112",
+                  "endUid": "u1156"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "With no visible enemies left, moves toward the fireplace while recognizing that an unseen source of discomfort remains.",
+              "evidence": [
+                {
+                  "startUid": "u1157",
+                  "endUid": "u1166"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses See Invisibility to perceive the tangled mass surrounding him and Kenzo, then casts Sickening Radiance over it while excluding all four adventurers. The spirit fails the DC 18 Constitution save, takes 30 radiant damage and becomes visible to everyone; it is immune to the proposed exhaustion.",
+              "evidence": [
+                {
+                  "startUid": "u1167",
+                  "endUid": "u1199"
+                }
+              ]
+            },
+            {
+              "actor": "Conjoined spirit",
+              "kind": "turn",
+              "summary": "Attacks Delwath and Kenzo with waves of force: 27 hits Delwath for 17 damage; 13 misses Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u1200",
+                  "endUid": "u1206"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fourth-level Catapult at the visible mass. It fails its Dexterity save with a 6 and takes 36 bludgeoning damage from the rock.",
+              "evidence": [
+                {
+                  "startUid": "u1207",
+                  "endUid": "u1226"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sight identifies the mass as CR 9, immune to cold/necrotic/poison damage, resistant to acid/fire/lightning/thunder, and immune to the stated incorporeal conditions including frightened and exhaustion; it is good at Charisma/Wisdom and weak at Strength/Intelligence. His first hit deals 16 and stuns it on a failed DC 16 Constitution save. Subsequent attacks have advantage and deal 13, 13, 13 and 9, leaving it bloodied and locked in place.",
+              "evidence": [
+                {
+                  "startUid": "u1227",
+                  "endUid": "u1261"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Rushes in and attacks the stunned mass with Shatterstorm at advantage. The accepted hit, channelling the Barazal’s holy aura, destroys it; no exact final damage is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1262",
+                  "endUid": "u1277"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Riswynn’s Shatterstorm destroys the final conjoined spirit. The sadness lingers, but nothing is actively attacking; the party begins searching the ruin.",
+        "evidence": [
+          {
+            "startUid": "u1273",
+            "endUid": "u1277"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s004",
+      "encounter": "Banishment and scroll retrieval in the Custom House",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Enters toward the cabinet and casts Banish on the red mist. It vanishes for one minute; no saving-throw roll is supplied. He cannot quite reach the cabinet and ends his turn.",
+              "evidence": [
+                {
+                  "startUid": "u1785",
+                  "endUid": "u1799"
+                },
+                {
+                  "startUid": "u1810",
+                  "endUid": "u1834"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Keeps his original initiative position after the proposed swap with Riswynn is reversed. Runs in, opens the side-sliding scroll cabinet, follows Khemut’s aura and retrieves the preserved shipping manifest of the Selem Shurga.",
+              "evidence": [
+                {
+                  "startUid": "u1808",
+                  "endUid": "u1809"
+                },
+                {
+                  "startUid": "u1835",
+                  "endUid": "u1867"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "Uses the explicitly allotted six-second search to glance through the cabinet collectively; learns that it contains shipping manifests and tax records.",
+              "evidence": [
+                {
+                  "startUid": "u1872",
+                  "endUid": "u1879"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Party / wand user",
+              "kind": "event",
+              "summary": "Uses the wand for one further round of Detect Magic rather than Delwath’s slower ritual. The cabinet is magical, but none of the scrolls immediately appears magical.",
+              "evidence": [
+                {
+                  "startUid": "u1882",
+                  "endUid": "u1909"
+                }
+              ],
+              "note": "Seeker supplies the wand option and Delwath proposes the check; the final wand activator is not unambiguously identified."
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "With the DM correcting the remaining window to four rounds / twenty-four seconds, takes about a hundred of the hundreds of scrolls and runs into the main room to read them. Delwath checks afterward and the DM confirms the red mist has returned.",
+              "evidence": [
+                {
+                  "startUid": "u1924",
+                  "endUid": "u1928"
+                },
+                {
+                  "startUid": "u1932",
+                  "endUid": "u1965"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": "Initiative is rolled, then the search and withdrawal are narrated collectively while the mist is banished. The recorded action groups do not reconstruct unspoken cycles from the countdown. No Sear Undead attempt is actually made.",
+      "ending": {
+        "summary": "The party withdraws to the main room with Khemut’s manifest and roughly a hundred scrolls; the red mist returns alive.",
+        "evidence": [
+          {
+            "startUid": "u1948",
+            "endUid": "u1951"
+          },
+          {
+            "startUid": "u1961",
+            "endUid": "u1965"
+          }
+        ]
+      }
+    }
+  ]
+}

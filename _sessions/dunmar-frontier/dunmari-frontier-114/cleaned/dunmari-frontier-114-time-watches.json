@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-time-markers.json",
+    "sha256": "c5ae5971edba3078b4152ea6aeb4846c08d8fd07509add95207f3a17073a544d"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-transcript.md",
+    "sha256": "19775e9137a56baf948e068ea42c516e65cb5b81fa06937f36601adae02675c2"
+  },
+  "dateAssessment": "Working civil dates are the YAML calendar, May 22–23, 1749 DR, conditional on its start date. The transcript independently establishes sunset, one completed overnight, dawn, an approximately 8 a.m. outing, a no-later-than-about-nine clock and a rest ending about 10 a.m.; no absolute date is spoken. Its complete one-night span matches YAML without using drEnd to invent an interval. The return is approximately midday from the 10 a.m. anchor, short Custom House action and narrated hour home; the dated session record also places it at midday. Breakfast rest credit (t14) is retrospective and does not add another hour after the cellar rest. The earlier ruling rejects resting during Heroes’ Feast but allows an extra hour; whether that extra breakfast hour occurred remains open. Riswynn’s ritual/rest allowance overlaps the group pause. Local dimming at haunted ruins supplies no civil watch.",
+  "watches": [
+    {
+      "day": "May 22, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Opening at nightfall: the sun has set while the party gathers dinner in the temple.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1749-05-22",
+      "endDate": "1749-05-22"
+    },
+    {
+      "day": "May 22–23, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "A completed overnight long rest ends at dawn; eight hours follows the rest convention.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1749-05-22",
+      "endDate": "1749-05-23"
+    },
+    {
+      "day": "May 23, 1749",
+      "startWatch": "dawn",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Breakfast follows dawn; an hour-long feast and retrospective rest credit precede the 8 a.m. outing.",
+      "markers": [
+        "t03",
+        "t14"
+      ],
+      "startDate": "1749-05-23",
+      "endDate": "1749-05-23"
+    },
+    {
+      "day": "May 23, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Walking around 8 a.m.; post-search clock no later than about nine; reconstruction takes another half-hour.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "startDate": "1749-05-23",
+      "endDate": "1749-05-23"
+    },
+    {
+      "day": "May 23, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Rest finishes about 10 a.m.; the timed scroll raid follows, then an hour’s return reaches the temple around midday.",
+      "markers": [
+        "t11",
+        "t12",
+        "t13",
+        "t15",
+        "t16",
+        "t17",
+        "t18"
+      ],
+      "startDate": "1749-05-23",
+      "endDate": "1749-05-23"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated session record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 114 (DuFr).md",
+      "sha256": "ede77e6f739d5c4bd7f6960ffad1ecd0af70240f7549d954c9f378e4f0ad47c1"
+    }
+  ]
+}

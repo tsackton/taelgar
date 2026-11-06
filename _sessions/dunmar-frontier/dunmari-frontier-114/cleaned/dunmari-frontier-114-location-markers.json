@@ -1,0 +1,888 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-114",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-session.yaml",
+    "sessionYamlSha256": "947480b2535c415b7628231721fd8f331f98fe5fb96ec3cd49e9c3259554ffc6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-transcript.md",
+    "transcriptSha256": "19775e9137a56baf948e068ea42c516e65cb5b81fa06937f36601adae02675c2"
+  },
+  "places": {
+    "p01": {
+      "label": "Drankor",
+      "kind": "ruined city",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Drankor.md",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "Okay. So we begin back in the Temple of the Eight Divines in Drankor as night falls."
+        }
+      ]
+    },
+    "p02": {
+      "label": "Temple of the Eight Divines",
+      "kind": "temple",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Temple of the Eight Divines.md",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "Okay. So we begin back in the Temple of the Eight Divines in Drankor as night falls."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0006",
+              "quote": "Okay. So we begin back in the Temple of the Eight Divines in Drankor as night falls."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Fountain plaza outside the temple",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u0275",
+          "endUid": "u0277",
+          "quote": "Yeah, that—that big building is the temple that you're in. You'd be stepping right outside onto the—so right outside the temple, there's this small plaza that's also contained within the hallowed aura of the temple. It has a fountain, a bubbling fountain, and, like a little bit of a sort of entryway area."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0275",
+              "endUid": "u0277",
+              "quote": "Yeah, that—that big building is the temple that you're in. You'd be stepping right outside onto the—so right outside the temple, there's this small plaza that's also contained within the hallowed aura of the temple. It has a fountain, a bubbling fountain, and, like a little bit of a sort of entryway area."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Vine-covered entrance arch",
+      "kind": "arch",
+      "evidence": [
+        {
+          "startUid": "u0351",
+          "endUid": "u0356",
+          "quote": "And as you approach the great plaza there's still intact, there's this huge arch. You know, maybe 30 feet high and 15–20 feet wide, that the road runs through to enter into this this massive plaza.\n\nDM: Vines have grown completely over it, so that you can't see any of the details of the structure itself, but the material, the like form of the arch is still standing solidly, and you can see through on the other side just this vast expanse of of the plaza itself."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "entrance_to",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0351",
+              "endUid": "u0356",
+              "quote": "And as you approach the great plaza there's still intact, there's this huge arch. You know, maybe 30 feet high and 15–20 feet wide, that the road runs through to enter into this this massive plaza.\n\nDM: Vines have grown completely over it, so that you can't see any of the details of the structure itself, but the material, the like form of the arch is still standing solidly, and you can see through on the other side just this vast expanse of of the plaza itself."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Great plaza",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u0411",
+          "endUid": "u0420",
+          "quote": "So as you enter into the great plaza, this massive plaza, the—the bare space here stretches 600, 700 feet across to the other side. To the north, to your left, there are several large buildings, 2 of which seem to be largely intact. Marble buildings, like big columns out front. Sort of not temples, they don't have the same sort of domed architecture that many of the temples seem to have here, sort of almost square sort of blocky buildings, but but elegant, with sort of fine lines and and a lot of carving and detail that now seems to be encased by the jungle."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0278",
+              "endUid": "u0286",
+              "quote": "And then there's this street that runs east towards the grand Plaza that you've seen from the air. The the Custom House that the temple is near is is here. It's not the docks. By the—by the lightning tower. It's here so you could just follow the road if you wanted to.\n\nSeeker: It's a straight shot. This is the one associated with that halfling.\n\nDM: Well, that's the—in Wellby's vision, the Halfling Inn was on a side street near this, like massive custom house that was like one of the—\n\nSeeker: Okay.\n\nDM: Main places where goods were, you know, sort of coming in and out of of Drankor and that's you saw the ruins of that here from the air."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Stone-eaten building north of the plaza",
+      "kind": "ruined building",
+      "note": "Observed and approached by Seeker, then bypassed; no entry is established.",
+      "evidence": [
+        {
+          "startUid": "u0431",
+          "endUid": "u0437",
+          "quote": "So as you get closer, you can hear now, coming from this structure, maybe now 200 feet away, as Seeker sort of walks off, drawn by his curiosity, what sounds kind of like a—the sound of like stones rubbing against stones, and there seems to be, now that you can see, something sort of crawling on the face across most of the face of this building. It's like moving slightly. It's like shimmering a little bit. But again, you're still 200 feet away. It's hard to tell exactly what it is."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "north_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0411",
+              "endUid": "u0423",
+              "quote": "So as you enter into the great plaza, this massive plaza, the—the bare space here stretches 600, 700 feet across to the other side. To the north, to your left, there are several large buildings, 2 of which seem to be largely intact. Marble buildings, like big columns out front. Sort of not temples, they don't have the same sort of domed architecture that many of the temples seem to have here, sort of almost square sort of blocky buildings, but but elegant, with sort of fine lines and and a lot of carving and detail that now seems to be encased by the jungle.\n\nDM: The 3rd building is clear. There's no plants growing on it, but it almost looks like it's been half eaten, like it's crumbling like it almost looks like something took like a giant bite out of that.\n\nSeeker: Do I know of anything that eats buildings?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Haunted road toward the docks",
+      "kind": "street",
+      "evidence": [
+        {
+          "startUid": "u0488",
+          "endUid": "u0499",
+          "quote": "You pass through and leave the plaza behind. And as you step, sort of following the road, passing through this or around this other arch that again the—the jungle seems to close in tightly, tightly around you, and there's there's like almost mist creeping out from the shadows of these buildings. It's as you—as you proceed down this road, it's—the light of the sun grows dimmer. And it almost feels as if you're entering—it's not—it's not twilight, it just seems like there's a a thin layer of cloud across the sun that's somehow turning down the entire brightness of the sky.\n\nDM: The air is thick and heavy, and not particularly not—it's not, I mean, it's still hot and oppressive. And as you keep going."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0547",
+              "endUid": "u0550",
+              "quote": "As you walk further down this—this road. Again, like the temple itself, is less than just barely a mile from where you're going. So this is not like a long journey, even going relatively slowly. We're talking about, you know, half an hour at most."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Sailors’ tavern district near the Custom House",
+      "kind": "district",
+      "evidence": [
+        {
+          "startUid": "u0635",
+          "endUid": "u0651",
+          "quote": "And it it seems like from the architecture this was once—so, The river is is only a few 100 feet in front of you on the other side, and you can see like, pass through the mists like the glint on the river. The sun seems to be shining brightly on the river. This stretch, this like street, there's a there's a street now that you come to that runs north south, another wide thoroughfare, and coming off of that thoroughfare there's all these like small little streets like this would have been the tavern—this would have been like the sailors district, like a bunch of like little taverns and shops and inns, and catering to the extensive river traffic that would have been docking and then bringing their goods for trade through through the Customs House during the period, in which Drankor was, you know, a major— the heart of a massive empire. Good morning.\n\nDM: So, looking around, you can see like the ruins of the street, and there's some buildings. Most of the buildings here, like the jungle, has grown in a fair bit. Most of the buildings here are just foundations, and maybe 4- to 8-foot-tall 1st floors, but there's almost nothing besides the Custom House itself. There's only almost nothing in this sort of tavern district, this area, you see, that has intact—an intact second floor."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0635",
+              "endUid": "u0646",
+              "quote": "And it it seems like from the architecture this was once—so, The river is is only a few 100 feet in front of you on the other side, and you can see like, pass through the mists like the glint on the river. The sun seems to be shining brightly on the river. This stretch, this like street, there's a there's a street now that you come to that runs north south, another wide thoroughfare, and coming off of that thoroughfare there's all these like small little streets like this would have been the tavern—this would have been like the sailors district, like a bunch of like little taverns and shops and inns, and catering to the extensive river traffic that would have been docking and then bringing their goods for trade through through the Customs House during the period, in which Drankor was, you know, a major— the heart of a massive empire. Good morning."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "The Laughing Wave",
+      "kind": "ruined tavern",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/The Laughing Wave.md",
+      "note": "The wave-carved doorway and Seraphina-linked fireworks identify the tavern; the neighbouring mermaid arch belongs to a different, unentered ruin.",
+      "evidence": [
+        {
+          "startUid": "u0678",
+          "endUid": "u0686",
+          "quote": "So. A good fraction of these taverns and inns are, you know, there's nothing discernible. You do come, you know, after half an hour of searching, you come to one area slightly north, so sort of heading, maybe up a little bit closer to the Customs House, where there are 2 slightly more intact taverns across the street from each other, one has walls still standing, maybe 10 to 15 feet tall, although there's no roof, and the upper floors have collapsed into rubble that chokes the interior. The door is rotted away, but you can see there's like an arch above the door with stone stone carvings with 2 like waves that curl into a crescent."
+        },
+        {
+          "startUid": "u0035",
+          "endUid": "u0035",
+          "quote": "You are left now with the task of finding some memento in the city of Drankor of the 3 remaining people: Seraphina Appleblossom, a halfling and proprietor of the Laughing Wave, a lively tavern that Wellby was able to see a vision of in his ancestral memories on a side street near the massive Custom House, on the docks of Drankor."
+        },
+        {
+          "startUid": "u1370",
+          "endUid": "u1377",
+          "quote": "Well, right. So Kenzo, remember, Kenzo can like Soul Sight to try and find connection to one of these souls.\n\nKenzo: Yeah, I'll do that.\n\nDM: So yes, you you actually feel the pull of some—something not—I mean the punch bowl, yes, although you feel like this is maybe not the—this—this was probably handled by Seraphina, but it's not like a strong memento. You do feel a tug from the from the cellar, in the cellar door."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0678",
+              "endUid": "u0691",
+              "quote": "So. A good fraction of these taverns and inns are, you know, there's nothing discernible. You do come, you know, after half an hour of searching, you come to one area slightly north, so sort of heading, maybe up a little bit closer to the Customs House, where there are 2 slightly more intact taverns across the street from each other, one has walls still standing, maybe 10 to 15 feet tall, although there's no roof, and the upper floors have collapsed into rubble that chokes the interior. The door is rotted away, but you can see there's like an arch above the door with stone stone carvings with 2 like waves that curl into a crescent.\n\nDM: And on the other side you can see a foundation that's completely gone, except that the—the door somehow incongruously surviving. You see a statue of a pair of mermaids that are holding hands together, forming an arch that you can walk into to enter this tavern, but everything else is destroyed. Just the the Mermaid statue incongruously survives."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Laughing Wave cellar",
+      "kind": "cellar",
+      "evidence": [
+        {
+          "startUid": "u1379",
+          "endUid": "u1391",
+          "quote": "The cellar is quiet and cool. Morning by 9 o'clock is getting quite hot. But down in the cellar underground there's this sort of constant, cool stone. It's actually reasonably well preserved. You can see where casks of ale have rotted away to nothing but stained the floor like a ring where the the ale was.\n\nDM: There is a wooden chest that seems to have completely rotted away to almost nothing. The—it's locked and rusted shut, but it looks like a good solid kick could probably shatter the rotting wood and there is a stone shelf that seems to have like little casings of something—that this is what's pulling—what's pulling Kenzo's soul sense?\n\nDM: And as you approach closer, this like this is like a shelf where fireworks were stored. These are like, everything's decayed right? So there's no nothing can be lit anymore. No fireworks can be launched, but this is what's pulling Kenzo's soul sense is this collection of remnants of fireworks."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1291",
+              "endUid": "u1294",
+              "quote": "There is a cellar directly underneath you, relatively small one, things—so actually not directly underneath you where you are, but it's like the back 3rd of the of the tavern.\n\nSeeker: Has a cellar."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Custom House",
+      "kind": "record office and market hall",
+      "evidence": [
+        {
+          "startUid": "u1618",
+          "endUid": "u1634",
+          "quote": "You continue up this street. I'll go back to the Drankor map. It's not far. A few 100 feet at most. You sort of pass through this tavern district, and you see a few more shadowy haunts lurking in taverns that you quickly pass by hurriedly, and you come then, to the Custom House.\n\nDM: This is a large sort of market building, a stone structure with a partially collapsed roof. It seems to have been partially made of stone and partially like metal and glass that formed this giant sort of light hall for traders. A record office. There's a—on this side facing the facing the street. There's a courtyard with a large arch that leads in, of like something like that-ish like this sort of decorated entryway. And there's a giant tree growing up about halfway.\n\nDM: The front half of this of this Customs House—well, the office on the street is intact, but near the docks, sort of on the dock half, a giant tree that grows halfway up through it.\n\nDM: That door is wide open, rotted. Whatever wooden door used to stand here has been rotted away, and there's just a passageway that looks in."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0635",
+              "endUid": "u0646",
+              "quote": "And it it seems like from the architecture this was once—so, The river is is only a few 100 feet in front of you on the other side, and you can see like, pass through the mists like the glint on the river. The sun seems to be shining brightly on the river. This stretch, this like street, there's a there's a street now that you come to that runs north south, another wide thoroughfare, and coming off of that thoroughfare there's all these like small little streets like this would have been the tavern—this would have been like the sailors district, like a bunch of like little taverns and shops and inns, and catering to the extensive river traffic that would have been docking and then bringing their goods for trade through through the Customs House during the period, in which Drankor was, you know, a major— the heart of a massive empire. Good morning."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Custom House front room",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u1663",
+          "endUid": "u1687",
+          "quote": "So as you step through the doors, the—you can see— Sorry. Let me find my map here.\n\nDM: So you're in a kind of large room, maybe, you know, a hundred, 150 feet across. You just pass through the arch and about 50 feet in front of you, you can see another large archway. There's sort of vines and tangled wood—tangled plants growing on the floor, but the roof is intact above you.\n\nDM: There's a series of alcoves. There's a wall that—that, you know. Actually, you can just—map—I hear, Isaac. So hold on one sec. Look at the map. You you came in through this door? I don't know. Is it good? That's cool. Retired, congratulations. How many, sorry? Wait! Can you see on this map anything?\n\nDelwath: Yep.\n\nDM: Okay.\n\nDM: So there's an arch. There's these walls. You can see actually the rooms that you wouldn't be able to see, but—\n\nDelwath: I see a giant plant that I think is gonna attack us.\n\nDM: Yeah, that's growing there. It doesn't seem to be moving to attack you.\n\nDM: There's shafts of light shining down through into this big front open room, where there's holes in the roof. And rain and dirt has accumulated on the floor. And there's nothing, really that you can see, or anything that Kenzo senses in this room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1660",
+              "endUid": "u1670",
+              "quote": "So, sorry, you're going into the Customs House?\n\nRiswynn: Yes.\n\nDelwath: Yes, yes, yes.\n\nDM: So as you step through the doors, the—you can see— Sorry. Let me find my map here.\n\nDM: So you're in a kind of large room, maybe, you know, a hundred, 150 feet across. You just pass through the arch and about 50 feet in front of you, you can see another large archway. There's sort of vines and tangled wood—tangled plants growing on the floor, but the roof is intact above you."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Red-mist records room",
+      "kind": "records room",
+      "evidence": [
+        {
+          "startUid": "u1705",
+          "endUid": "u1718",
+          "quote": "And you walk through this great arch, and you turn left.\n\nDelwath: When we say left, are we go—do we mean this left?\n\nDM: Yeah, that's where the—no, that this 1, 1st one.\n\nDelwath: Yeah, okay.\n\nDM: So as you approach this room you can see it's filled with like a swirling blood-red mist.\n\nKenzo: Oh, no!\n\nDM: That occasionally forms into this giant creature, and in the in the back, in the far corner there's like a large pile of bones.\n\nDelwath: Okay, and—\n\nDM: There is also strangely preserved wooden chest right here that seems like it must be magical, because no other wood has survived in Drankor.\n\nDelwath: Right? Okay.\n\nDM: This is what you see before you enter the room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1693",
+              "endUid": "u1718",
+              "quote": "Any objects, Tim, that connect with anybody?\n\nDM: Coming from deeper in the in the Custom House, coming from sort of this direction roughly, you can sense a vibe from Khemut, nothing from the peronar.\n\nKenzo: Go to the Khemut object.\n\nDelwath: Yes. Which—sorry, I wasn't on Roll20 when you said this direction. I was on the Zoom. What? What? And.\n\nDM: Yeah, so here, let me—\n\nDelwath: Things might get complicated for you shortly. So.\n\nRiswynn: Yeah.\n\nDM: Yeah, let me give you some tokens.\n\nDM: And you walk through this great arch, and you turn left.\n\nDelwath: When we say left, are we go—do we mean this left?\n\nDM: Yeah, that's where the—no, that this 1, 1st one.\n\nDelwath: Yeah, okay.\n\nDM: So as you approach this room you can see it's filled with like a swirling blood-red mist.\n\nKenzo: Oh, no!\n\nDM: That occasionally forms into this giant creature, and in the in the back, in the far corner there's like a large pile of bones.\n\nDelwath: Okay, and—\n\nDM: There is also strangely preserved wooden chest right here that seems like it must be magical, because no other wood has survived in Drankor.\n\nDelwath: Right? Okay.\n\nDM: This is what you see before you enter the room."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party shelters in the Temple of the Eight Divines at the opening.",
+      "place": "p02",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "Okay. So we begin back in the Temple of the Eight Divines in Drankor as night falls. As the spell, the Heroes' Feast that Riswynn has maintained for the past 24 h fades and the protection of Barazal disappears, you can feel the darkness of the city pressing around you, still held off by the holy force of the human gods, the Eight Divines that have hallowed this ground inside the temple, but the darkness you feel as the sun has now set as well is out there, and as you gather your emergency rations, and you know, water skins, whatever supplies you keep stashed in the portable hole for dinner—"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0055",
+        "endUid": "u0056"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby remains in the temple to guard the dagger while the other four go out.",
+      "place": "p02",
+      "evidence": [
+        {
+          "startUid": "u0055",
+          "endUid": "u0056",
+          "quote": "Wellby having volunteered to stay behind, or Wellby having drawn the short straw, because Wellby would actually volunteer to stay behind to remain in the temple and guard the dagger, so you don't have to bring the dagger out into the world of Drankor, which seems risky."
+        },
+        {
+          "startUid": "u1898",
+          "endUid": "u1900",
+          "quote": "But can we just put the whole thing in the portable hole which we took from Wellby?\n\nDM: No, you didn't take the portable hole from Wellby, the portable hole’s being guarded because the phylactery is in there."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0270",
+        "endUid": "u0272"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "The four adventurers leave the temple, cross its protected fountain plaza and follow the road to the vine-covered arch at the great plaza.",
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 1500,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM distance from temple to great plaza"
+      },
+      "route": [
+        {
+          "reading": "Cross the small protected fountain plaza outside the temple.",
+          "place": "p03"
+        },
+        {
+          "reading": "Follow the road through the temple district; no independent stop is resolved along this stretch."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0270",
+          "endUid": "u0277",
+          "quote": "So, with the protection now against fear from Heroes' Feast you step out of the temple onto the streets of Drankor. Heading to the docks. So on the map. Where are you going, exactly?\n\nSeeker: Oh, Jeez, let's see. So we're we're now well, like here.\n\nDM: Yeah, that—that big building is the temple that you're in. You'd be stepping right outside onto the—so right outside the temple, there's this small plaza that's also contained within the hallowed aura of the temple. It has a fountain, a bubbling fountain, and, like a little bit of a sort of entryway area."
+        },
+        {
+          "startUid": "u0294",
+          "endUid": "u0299",
+          "quote": "So you begin to walk, following the road through this sort of temple district. This part to the east is not particularly overgrown, actually a little bit more open than the zoom background. There are, you know, what were probably once, you know, 4 to 6 story sort of apartment blocks with interior courtyards, now mostly crumbled and cracked. Often only the 1st story, sometimes 2 stories, sometimes just the foundations remaining."
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0356",
+          "quote": "No, no, no sign of danger, no undead approach you over the something like—\n\nDM: 1,500 feet between the temple. It's not far, right? You're covering ground fairly quickly.\n\nDelwath: Right?\n\nDM: The 1,500 feet between the temple and this great plaza.\n\nDM: And as you approach the great plaza there's still intact, there's this huge arch. You know, maybe 30 feet high and 15–20 feet wide, that the road runs through to enter into this this massive plaza.\n\nDM: Vines have grown completely over it, so that you can't see any of the details of the structure itself, but the material, the like form of the arch is still standing solidly, and you can see through on the other side just this vast expanse of of the plaza itself."
+        },
+        {
+          "startUid": "u0364",
+          "endUid": "u0365",
+          "quote": "Seeker tries just like brushing aside some vines a little bit just in one little spot, just to see if there's anything visible in the inscription or decoration.\n\nDM: There is a—yes."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0411",
+        "endUid": "u0420"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "The four enter the great plaza after inspecting Apollyon’s relief on the arch.",
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u0410",
+          "endUid": "u0420",
+          "quote": "Okay, we can keep going.\n\nDM: So as you enter into the great plaza, this massive plaza, the—the bare space here stretches 600, 700 feet across to the other side. To the north, to your left, there are several large buildings, 2 of which seem to be largely intact. Marble buildings, like big columns out front. Sort of not temples, they don't have the same sort of domed architecture that many of the temples seem to have here, sort of almost square sort of blocky buildings, but but elegant, with sort of fine lines and and a lot of carving and detail that now seems to be encased by the jungle."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0431",
+        "endUid": "u0437"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker walks closer to the stone-eaten northern building and sees something crawling over it while still about 200 feet away; the group subsequently drags him onward.",
+      "place": "p06",
+      "observerPlace": "p05",
+      "mode": "local",
+      "evidence": [
+        {
+          "startUid": "u0426",
+          "endUid": "u0437",
+          "quote": "I'll get—I'm curious about this one. I'll get closer. Once I met that creature that—\n\nDelwath: He ate rocks.\n\nSeeker: Didn't I. But yeah. Crystal mountain.\n\nDM: So as you get closer, you can hear now, coming from this structure, maybe now 200 feet away, as Seeker sort of walks off, drawn by his curiosity, what sounds kind of like a—the sound of like stones rubbing against stones, and there seems to be, now that you can see, something sort of crawling on the face across most of the face of this building. It's like moving slightly. It's like shimmering a little bit. But again, you're still 200 feet away. It's hard to tell exactly what it is."
+        },
+        {
+          "startUid": "u0448",
+          "endUid": "u0451",
+          "quote": "Seeker's walking closer.\n\nSeeker: Just a little bit closer.\n\nRiswynn: Walking slowly closer, as Riswynn holds his arm.\n\nSeeker: Alright! Alright!"
+        },
+        {
+          "startUid": "u0469",
+          "endUid": "u0474",
+          "quote": "And we'll keep going. We're going to keep going. We're definitely just gonna just gonna rubberneck as we go by.\n\nRiswynn: Yeah, rubberneck as we go by, and head for the other arch that leads us down the other road to the docks, right?\n\nSeeker: Okay. Keep going.\n\nDM: So you keep walking, dragging Seeker painfully away from the swarm of stone-eating creatures."
+        },
+        {
+          "startUid": "u2155",
+          "endUid": "u2158",
+          "quote": "Now failing to investigate the really interesting building that's eating itself. Oh, well.\n\nDM: It's not eating itself. It's it's a swarm of moths that eat stone.\n\nSeeker: Oh, cool!\n\nDM: They also eat people."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0488",
+        "endUid": "u0499"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "The four leave the plaza along the misty road, bypass cries from a ruined building, and hide beside a roadside building while invisible as the shades pass.",
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass around or through the far arch when leaving the plaza."
+        },
+        {
+          "reading": "Pass the building emitting pleas for help without entering."
+        },
+        {
+          "reading": "Step off the road beside a building and wait for the shades to pass."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0488",
+          "endUid": "u0499",
+          "quote": "You pass through and leave the plaza behind. And as you step, sort of following the road, passing through this or around this other arch that again the—the jungle seems to close in tightly, tightly around you, and there's there's like almost mist creeping out from the shadows of these buildings. It's as you—as you proceed down this road, it's—the light of the sun grows dimmer. And it almost feels as if you're entering—it's not—it's not twilight, it just seems like there's a a thin layer of cloud across the sun that's somehow turning down the entire brightness of the sky.\n\nDM: The air is thick and heavy, and not particularly not—it's not, I mean, it's still hot and oppressive. And as you keep going."
+        },
+        {
+          "startUid": "u0542",
+          "endUid": "u0550",
+          "quote": "Keep walking. What are you doing?\n\nDelwath: I would keep—I—\n\nRiswynn: Yeah.\n\nDelwath: I would just keep walking. I don't think we should get distracted by these temptations.\n\nRiswynn: We can always come back. But I mean we're coming back this way because we want to go back to where Wellby is at the Temple. So.\n\nDM: As you walk further down this—this road. Again, like the temple itself, is less than just barely a mile from where you're going. So this is not like a long journey, even going relatively slowly. We're talking about, you know, half an hour at most."
+        },
+        {
+          "startUid": "u0598",
+          "endUid": "u0616",
+          "quote": "Yeah, it's all of us. We're all invisible.\n\nRiswynn: We just stand still in case they have better hearing or something.\n\nDelwath: I would I would I would move, move to the side of the road, and like—is this an accurate depiction of what it looks like.\n\nDM: Which close enough.\n\nDelwath: So like, so like hide, basically move—take a few steps towards the side of the road, and then stand still next to a building.\n\nRiswynn: Sure. Delwath's plan.\n\nSeeker: Okay.\n\nDM: They drift down the road, come in your direction, but don't seem particularly aware of you. And slowly begin to drift past following the road sort of mass. As you watch them pass, you can see that there's about 35 of them. All floating sort of incorporeal, just barely any sort of distinct features left of them. But you know humanoid clearly as they begin to just drift past you.\n\nDM: You wait another 5 min. They move past."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0624",
+        "endUid": "u0651"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "The four continue toward the Custom House, reaching the sailors’ tavern district and its north–south street.",
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "min": 300,
+        "max": 400,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM approximate distance walked before the district comes into view"
+      },
+      "duration": {
+        "text": "a few more minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM elapsed walking"
+      },
+      "evidence": [
+        {
+          "startUid": "u0624",
+          "endUid": "u0651",
+          "quote": "So you continue down the road. It's only from here it's only about another 500, 500 feet to sort of where the—the docks are, and as the—you go, maybe 3, 400 feet, just a few more minutes of walking. And you can see ahead of you now looming out of the of the sort of dim mists there's this great huge jungle tree that seems to be growing up through the ruins of what was once a—probably 4 story large, massive, like hall, like it looks like one of those like indoor markets. Right? Like some huge, like expansive area of—but a tree is now growing through part of it, and a lot of it is—a lot of it has collapsed, but the part facing the dock is still intact.\n\nDM: And it it seems like from the architecture this was once—so, The river is is only a few 100 feet in front of you on the other side, and you can see like, pass through the mists like the glint on the river. The sun seems to be shining brightly on the river. This stretch, this like street, there's a there's a street now that you come to that runs north south, another wide thoroughfare, and coming off of that thoroughfare there's all these like small little streets like this would have been the tavern—this would have been like the sailors district, like a bunch of like little taverns and shops and inns, and catering to the extensive river traffic that would have been docking and then bringing their goods for trade through through the Customs House during the period, in which Drankor was, you know, a major— the heart of a massive empire. Good morning.\n\nDM: So, looking around, you can see like the ruins of the street, and there's some buildings. Most of the buildings here, like the jungle, has grown in a fair bit. Most of the buildings here are just foundations, and maybe 4- to 8-foot-tall 1st floors, but there's almost nothing besides the Custom House itself. There's only almost nothing in this sort of tavern district, this area, you see, that has intact—an intact second floor."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0678",
+        "endUid": "u0704"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "Searching together, the four find the wave-carved doorway and enter the ruined Laughing Wave; the reddish dimming is local haunted light, not sunset.",
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u0675",
+          "endUid": "u0677",
+          "quote": "We'll stick together.\n\nDM: Okay.\n\nSeeker: Doorway."
+        },
+        {
+          "startUid": "u0678",
+          "endUid": "u0704",
+          "quote": "So. A good fraction of these taverns and inns are, you know, there's nothing discernible. You do come, you know, after half an hour of searching, you come to one area slightly north, so sort of heading, maybe up a little bit closer to the Customs House, where there are 2 slightly more intact taverns across the street from each other, one has walls still standing, maybe 10 to 15 feet tall, although there's no roof, and the upper floors have collapsed into rubble that chokes the interior. The door is rotted away, but you can see there's like an arch above the door with stone stone carvings with 2 like waves that curl into a crescent.\n\nDM: And on the other side you can see a foundation that's completely gone, except that the—the door somehow incongruously surviving. You see a statue of a pair of mermaids that are holding hands together, forming an arch that you can walk into to enter this tavern, but everything else is destroyed. Just the the Mermaid statue incongruously survives.\n\nKenzo: Sounds promising.\n\nRiswynn: Right.\n\nSeeker: It must be the other one, though.\n\nRiswynn: Waves.\n\nSeeker: Yeah.\n\nDM: The one with waves.\n\nKenzo: Yes.\n\nDM: So.\n\nDM: You step into the tavern itself, and the interior seems to be filled with a strange—sorry, hold on. You see these sort of floating in the interior of this of this tavern space. There are, again, sort of the mist, as you step in the sun dims to almost a reddish sunset color."
+        },
+        {
+          "startUid": "u0710",
+          "endUid": "u0717",
+          "quote": "So you enter the tavern.\n\nRiswynn: Under the—\n\nKenzo: Yeah.\n\nRiswynn: Chandelier of spirits.\n\nDelwath: I were still.\n\nDM: Bye, now.\n\nDelwath: All right.\n\nDM: You're still invisible. Yeah."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1378",
+        "endUid": "u1391"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "After clearing the trapdoor, the four descend into the preserved cellar, where they collect the fireworks and investigate the rotting chest.",
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u1344",
+          "endUid": "u1354",
+          "quote": "Cleared the—in— Some of us work on reassembling that, and some of us work on clearing the cellar trapdoor. Got it? Yeah.\n\nSeeker: And I can use mold earth to clear the rubble.\n\nDM: It—it would help, yeah, for sure.\n\nSeeker: Speed that up.\n\nDM: The.\n\nDM: So, as you—you know, you take half an hour or so. You get the—Seeker gets the cellar door clear pretty quickly, aided by magic. It does take a good bit of time to reassemble enough of this punch bowl to sort of see what it once was, but it seems to be depicting quite an intricate design that's showing—"
+        },
+        {
+          "startUid": "u1378",
+          "endUid": "u1396",
+          "quote": "We're going down there. Yeah.\n\nDM: The cellar is quiet and cool. Morning by 9 o'clock is getting quite hot. But down in the cellar underground there's this sort of constant, cool stone. It's actually reasonably well preserved. You can see where casks of ale have rotted away to nothing but stained the floor like a ring where the the ale was.\n\nDM: There is a wooden chest that seems to have completely rotted away to almost nothing. The—it's locked and rusted shut, but it looks like a good solid kick could probably shatter the rotting wood and there is a stone shelf that seems to have like little casings of something—that this is what's pulling—what's pulling Kenzo's soul sense?\n\nDM: And as you approach closer, this like this is like a shelf where fireworks were stored. These are like, everything's decayed right? So there's no nothing can be lit anymore. No fireworks can be launched, but this is what's pulling Kenzo's soul sense is this collection of remnants of fireworks.\n\nKenzo: We collect them.\n\nDelwath: Yeah.\n\nRiswynn: Metal fireworks casings, I mean. We also kicked the lock off the the decaying chest carefully, and like peek in to see if there's anything else memento-y."
+        },
+        {
+          "startUid": "u1561",
+          "endUid": "u1570",
+          "quote": "I mean, the cellar seems reasonably free of any immediate danger. If you want a short rest.\n\nDelwath: What do people think?\n\nKenzo: Yeah, definitely, I need, I need to get some ki back. That'd be great.\n\nSeeker: Yeah.\n\nDM: So it'll be about 10 when you've finished. Go ahead. AM, boys.\n\nDelwath: Yeah, that's fine.\n\nDM: 10 AM. Yeah."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1609",
+        "endUid": "u1634"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "After their cellar rest the four emerge and walk a few hundred feet through the tavern district to the Custom House.",
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass through the tavern district, hurrying past other haunted taverns.",
+          "place": "p08"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1609",
+          "endUid": "u1634",
+          "quote": "So, as you emerge back into the heat of the day after your rest, where do you want to head?\n\nDelwath: Custom House.\n\nSeeker: Yeah.\n\nRiswynn: Sittin' by the dock of the bay.\n\nSeeker: Yeah, that's cool.\n\nDM: So you continue up this street.\n\nRiswynn: I'm still in the tavern map.\n\nDM: Oh, yeah, I didn't change the map.\n\nDM: You continue up this street. I'll go back to the Drankor map. It's not far. A few 100 feet at most. You sort of pass through this tavern district, and you see a few more shadowy haunts lurking in taverns that you quickly pass by hurriedly, and you come then, to the Custom House.\n\nDM: This is a large sort of market building, a stone structure with a partially collapsed roof. It seems to have been partially made of stone and partially like metal and glass that formed this giant sort of light hall for traders. A record office. There's a—on this side facing the facing the street. There's a courtyard with a large arch that leads in, of like something like that-ish like this sort of decorated entryway. And there's a giant tree growing up about halfway.\n\nDM: The front half of this of this Customs House—well, the office on the street is intact, but near the docks, sort of on the dock half, a giant tree that grows halfway up through it.\n\nDM: That door is wide open, rotted. Whatever wooden door used to stand here has been rotted away, and there's just a passageway that looks in."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1660",
+        "endUid": "u1687"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "The four enter the Custom House’s large front room through the open archway.",
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u1660",
+          "endUid": "u1687",
+          "quote": "So, sorry, you're going into the Customs House?\n\nRiswynn: Yes.\n\nDelwath: Yes, yes, yes.\n\nDM: So as you step through the doors, the—you can see— Sorry. Let me find my map here.\n\nDM: So you're in a kind of large room, maybe, you know, a hundred, 150 feet across. You just pass through the arch and about 50 feet in front of you, you can see another large archway. There's sort of vines and tangled wood—tangled plants growing on the floor, but the roof is intact above you.\n\nDM: There's a series of alcoves. There's a wall that—that, you know. Actually, you can just—map—I hear, Isaac. So hold on one sec. Look at the map. You you came in through this door? I don't know. Is it good? That's cool. Retired, congratulations. How many, sorry? Wait! Can you see on this map anything?\n\nDelwath: Yep.\n\nDM: Okay.\n\nDM: So there's an arch. There's these walls. You can see actually the rooms that you wouldn't be able to see, but—\n\nDelwath: I see a giant plant that I think is gonna attack us.\n\nDM: Yeah, that's growing there. It doesn't seem to be moving to attack you.\n\nDM: There's shafts of light shining down through into this big front open room, where there's holes in the roof. And rain and dirt has accumulated on the floor. And there's nothing, really that you can see, or anything that Kenzo senses in this room."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1693",
+        "endUid": "u1718"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "Following Khemut’s aura deeper into the Custom House, the four approach and look into the red-mist room before entering.",
+      "place": "p13",
+      "observerPlace": "p11",
+      "mode": "local",
+      "note": "The route passes another great arch and turns left; the precise threshold position is not separately named.",
+      "evidence": [
+        {
+          "startUid": "u1693",
+          "endUid": "u1718",
+          "quote": "Any objects, Tim, that connect with anybody?\n\nDM: Coming from deeper in the in the Custom House, coming from sort of this direction roughly, you can sense a vibe from Khemut, nothing from the peronar.\n\nKenzo: Go to the Khemut object.\n\nDelwath: Yes. Which—sorry, I wasn't on Roll20 when you said this direction. I was on the Zoom. What? What? And.\n\nDM: Yeah, so here, let me—\n\nDelwath: Things might get complicated for you shortly. So.\n\nRiswynn: Yeah.\n\nDM: Yeah, let me give you some tokens.\n\nDM: And you walk through this great arch, and you turn left.\n\nDelwath: When we say left, are we go—do we mean this left?\n\nDM: Yeah, that's where the—no, that this 1, 1st one.\n\nDelwath: Yeah, okay.\n\nDM: So as you approach this room you can see it's filled with like a swirling blood-red mist.\n\nKenzo: Oh, no!\n\nDM: That occasionally forms into this giant creature, and in the in the back, in the far corner there's like a large pile of bones.\n\nDelwath: Okay, and—\n\nDM: There is also strangely preserved wooden chest right here that seems like it must be magical, because no other wood has survived in Drankor.\n\nDelwath: Right? Okay.\n\nDM: This is what you see before you enter the room."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1789",
+        "endUid": "u1791"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "Delwath starts into the records room; after the mist is banished Kenzo opens the cabinet and the group searches there before withdrawing.",
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Delwath and Kenzo enter explicitly; u1876–u1879 and the accepted four-person scroll collection establish the group’s search, without reconstructing exact squares.",
+      "evidence": [
+        {
+          "startUid": "u1789",
+          "endUid": "u1791",
+          "quote": "Okay, does it do anything? When I start moving into the room, does it seem to react?\n\nDM: I mean, it sort of grows a little more solid and looks menacingly at you, but you beat it on initiatives, so—"
+        },
+        {
+          "startUid": "u1810",
+          "endUid": "u1839",
+          "quote": "I I'm just gonna move.\n\nRiswynn: Have adjacent turn orders.\n\nDelwath: I'm going to move there and then I'm going to cast Banish on it.\n\nKenzo: That's great, thank you. It seems like a great use of Banish.\n\nRiswynn: Yeah.\n\nDM: I think this is smaller than huge. A huge is a 15 by 15 foot cube. So by area, 25 feet by 5 feet that's got to be smaller.\n\nSeeker: Yeah.\n\nDM: Delwath is—sorry. What is Delwath doing?\n\nDelwath: Banish.\n\nKenzo: Your use of Banish—wow! The music and icon doesn't seem like a very, very friendly moment right now.\n\nSeeker: Here.\n\nDM: What is it going to do? So as you cast Banish—I didn't think about this.\n\nKenzo: It works.\n\nDM: Sorry. Let me just look at the spell. Okay, so it vanishes.\n\nDelwath: Okay, right? Let's, I mean, that was my action. I can't quite reach the chest. So my turn's over.\n\nSeeker: How long does this last? The Banish?\n\nDelwath: 1 min.\n\nSeeker: Oh!\n\nKenzo: Why doesn't Kenzo keep his initiative order? Yeah. And Kenzo will go. Kenzo will run in. Find the object that is most Khemut-like.\n\nDM: So you flip open the chest and you sense—use your soul sense."
+        },
+        {
+          "startUid": "u1872",
+          "endUid": "u1879",
+          "quote": "Let's take 10. Let's take one, one round, 6 seconds, to quickly search, glance through the chest.\n\nKenzo: Yeah, what else is in there?\n\nSeeker: In parallel. We could see a lot.\n\nKenzo: Yeah, we can all spend our turn.\n\nDM: So a lot of it seems to be tax records. I mean you—you got 6 seconds. That's about all you learn. Shipping manifest, tax records."
+        },
+        {
+          "startUid": "u1940",
+          "endUid": "u1951",
+          "quote": "Why don't we swoop up a few armfuls of scrolls to take with us for light reading?\n\nSeeker: Grabs a couple. Yeah.\n\nDelwath: Sure. Yeah.\n\nDM: Down with all.\n\nDelwath: Well, how many scrolls? How many scrolls are there? I mean, not exactly, obviously. But are we talking tens, hundreds or thousands?\n\nDM: Hundreds.\n\nDelwath: Okay? So we can each grab 15 scrolls.\n\nDM: Yeah, you could probably get a quarter of them. Yeah, probably get a hundred scrolls between the 4 of you.\n\nDelwath: So we'll grab the 100 scrolls. We'll run back into the main room and we'll come out to like here, right? And then a few minutes looking at what we got."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1950",
+        "endUid": "u1965"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "The four take about a hundred scrolls and withdraw to the Custom House’s main room to read them; the mist returns in the records room.",
+      "from": "p13",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "run",
+      "evidence": [
+        {
+          "startUid": "u1940",
+          "endUid": "u1965",
+          "quote": "Why don't we swoop up a few armfuls of scrolls to take with us for light reading?\n\nSeeker: Grabs a couple. Yeah.\n\nDelwath: Sure. Yeah.\n\nDM: Down with all.\n\nDelwath: Well, how many scrolls? How many scrolls are there? I mean, not exactly, obviously. But are we talking tens, hundreds or thousands?\n\nDM: Hundreds.\n\nDelwath: Okay? So we can each grab 15 scrolls.\n\nDM: Yeah, you could probably get a quarter of them. Yeah, probably get a hundred scrolls between the 4 of you.\n\nDelwath: So we'll grab the 100 scrolls. We'll run back into the main room and we'll come out to like here, right? And then a few minutes looking at what we got.\n\nDM: So I'm going to roll a d 4.\n\nKenzo: We want to roll happy.\n\nDelwath: I'm rolling a d4.\n\nKenzo: Even around.\n\nSeeker: Nice.\n\nDelwath: Three.\n\nKenzo: That's good.\n\nSeeker: That's exactly what we wanted. Yes.\n\nDelwath: There was a number. It was probably one or 4 that we needed to roll.\n\nDM: It's like, so you start looking through the scrolls that you found. You know, these are—\n\nDelwath: I'm just gonna go check that this guy came back.\n\nDM: Came back.\n\nDelwath: Yeah, okay."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2033",
+        "endUid": "u2037"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Protected by Sanctuary, Kenzo returns alone to the cabinet, retrieves the Minarith scroll and escapes out the door; the mist does not follow.",
+      "from": "p12",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "run",
+      "route": [
+        {
+          "reading": "Enter the records room and open the scroll cabinet.",
+          "place": "p13"
+        },
+        {
+          "reading": "Return out the records-room door with the scroll."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2033",
+          "endUid": "u2045",
+          "quote": "Alright. I'm casting Sanctuary on Kenzo.\n\nDM: Okay.\n\nDelwath: Last, and it.\n\nKenzo: Yeah, I'm running in there trying to find the object and then running out.\n\nDM: Okay.\n\nKenzo: Shocking, how less bloodthirsty we are when Wellby's not around.\n\nDelwath: It really is. I mean, we should hang around nearby in case like—\n\nKenzo: Yeah, of course.\n\nDelwath: Turns terrible, but like not directly in the creature's line of sight.\n\nDM: So as Kenzo walks in to—and you open up, you open up the chest and you begin—let's see, Wisdom. Okay, that's a 21."
+        },
+        {
+          "startUid": "u2050",
+          "endUid": "u2056",
+          "quote": "Kenzo takes no damage as he dodges from the bolt of red mist and opens the the chest and begins looking through, concentrating.\n\nDM: Running your hands along these scrolls and you find—reach, and you find—it's a very faint tickle. It's like nothing that this person touched, but maybe something that mentions him.\n\nKenzo: Hmm.\n\nDM: And you find one scroll, and you just grab it and begin to run out."
+        },
+        {
+          "startUid": "u2087",
+          "endUid": "u2096",
+          "quote": "Okay, I deflect that 22 damage.\n\nDM: Okay. So you only take what is it, 26? You take 4 points of necrotic damage, and the second one is going to do—10, 16, 23 points of necrotic damage.\n\nKenzo: Okay.\n\nDM: Dart out the door, and it does not seem to follow.\n\nKenzo: Wow, success.\n\nDM: And you look at this—but this scroll that you've that you've pulled out now that you're in a somewhat safe and—well, who knows if it's really safe? But anyway, there's not a giant, red, misty creature attacking you."
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2154"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "The four make the agreed return to the Temple of the Eight Divines over the next hour; no university visit occurs.",
+      "from": "p11",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM accepted compressed return"
+      },
+      "route": [
+        {
+          "reading": "Return along the city streets; Riswynn destroys a few undead on the way. The stone-eating swarm is again left unexplored."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2115",
+          "endUid": "u2130",
+          "quote": "So we've got 2 options here. I can just hand wave it. You can stumble across the university on your way back, or, since everybody's falling asleep, we could return to the Temple, and you could go out again when Schwartz is here next time.\n\nDelwath: I'm happy to save the University to do with Schwartz.\n\nKenzo: Yeah.\n\nSeeker: Yes.\n\nRiswynn: It's fine.\n\nDelwath: I mean.\n\nRiswynn: Early bedtime is good.\n\nDelwath: Because all we have left to do is find the university, and then go to the plane of the dead, right?\n\nDM: Yes.\n\nKenzo: Yeah, so we can do all that next time.\n\nDelwath: So we could do that next time.\n\nDM: Yeah.\n\nDelwath: Sounds good to me.\n\nDM: Let's do that. Then—then—"
+        },
+        {
+          "startUid": "u2152",
+          "endUid": "u2154",
+          "quote": "Maybe. So we will— For simplicity's sake we will say that you make your way back over the course of the next hour, Riswynn, destroying a few undead on the path. To the—"
+        }
+      ]
+    }
+  ]
+}
