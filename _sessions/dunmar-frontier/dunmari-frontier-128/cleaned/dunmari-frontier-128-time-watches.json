@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-time-markers.json",
+    "sha256": "6b5010979cab3d88609c9b94a462a6f87fc19550061a2904bdcf21743df2d9ee"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-transcript.md",
+    "sha256": "7b3b2ff23fb6697a782fdff68972ebba6905713d294e575fc77fda8259200833"
+  },
+  "dateAssessment": "Working date: July 5, 1749, from the dated session record’s Timeline. It assigns July 4 to the preparatory evening and July 5 to the assault. The transcript opens at sunrise after a recapped return late last night and ends not past 9 a.m.; it does not play out an overnight interval or speak a civil date. The time extraction therefore remains compatible with, rather than independently confirming, YAML’s July 4–5 span. The two recovery intervals fall between sunrise and the final morning anchor; their particular watches remain open.",
+  "watches": [
+    {
+      "day": "July 5, 1749",
+      "startDate": "1749-07-05",
+      "endDate": "1749-07-05",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Sunrise aboard Vindristjarna follows the recapped return late last night.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "July 5, 1749",
+      "startDate": "1749-07-05",
+      "endDate": "1749-07-05",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Delwath completes one minute of spell recovery before the control-room assault.",
+      "markers": [
+        "t02"
+      ],
+      "scope": "Between sunrise and before 09:00"
+    },
+    {
+      "day": "July 5, 1749",
+      "startDate": "1749-07-05",
+      "endDate": "1749-07-05",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Prayer of Healing grants short-rest benefits in ten minutes after the tower falls.",
+      "markers": [
+        "t03"
+      ],
+      "scope": "Between sunrise and before 09:00"
+    },
+    {
+      "day": "July 5, 1749",
+      "startDate": "1749-07-05",
+      "endDate": "1749-07-05",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Dhrukmir’s aftermath is still not past 9 a.m.; no exact finishing time is given.",
+      "markers": [
+        "t04"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated session record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 128 (DuFr).md",
+      "sha256": "305f2794cbd9929247f2b6eebac48ad7fbc39f7c910036b7a01686e365135f97"
+    }
+  ]
+}

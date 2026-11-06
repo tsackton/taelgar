@@ -1,0 +1,603 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-128",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-session.yaml",
+    "sessionYamlSha256": "7d510df6aa8d718b3a1fa98758f51ba1a2146bab90871854a821d54d3680f7c9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-transcript.md",
+    "transcriptSha256": "7b3b2ff23fb6697a782fdff68972ebba6905713d294e575fc77fda8259200833"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0009",
+          "quote": "You now find yourself preparing on the deck of Vindristjarna, about 30 miles away from the Thundercrown, the Riftstone Gorge and the Hanging Tower, anchored by bridges of lightning to 2 mountains from which the massive, Chalyte-powered death ray vaporizes anybody who comes close."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "Hanging Tower",
+      "evidence": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0009",
+          "quote": "You now find yourself preparing on the deck of Vindristjarna, about 30 miles away from the Thundercrown, the Riftstone Gorge and the Hanging Tower, anchored by bridges of lightning to 2 mountains from which the massive, Chalyte-powered death ray vaporizes anybody who comes close."
+        }
+      ],
+      "kind": "tower",
+      "aliases": [
+        "tower",
+        "Lightning Tower"
+      ],
+      "note": "The named tower is the death-ray site of Dhrukmir’s settlement. Session 128 (DuFr) identifies that settlement as Ulgrathar; no separate tower page was found.",
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0011",
+              "endUid": "u0015",
+              "quote": "You learned from talking to Brunnar, the stone giant, that Dhrukmir, Dhrukmir, Skybreaker, king of the Giants in this region, is a Chalyte-obsessed creature who has modified himself and the land around him, powered by the Chalyte he— his ogre servants mine from a giant pit mine beneath the tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Upper lightning chamber",
+      "evidence": [
+        {
+          "startUid": "u0281",
+          "endUid": "u0294",
+          "quote": "There's a giant column of lightning coursing through the center of the room.\n\nSeeker: Don't touch it.\n\nDelwath: Really.\n\nSeeker: Yeah.\n\nDM: On either side, there's, like, windows, platforms that open up, and you can see 2 giants kind of standing each one. They have their backs to you. They're looking out. They're looking out across the landscape. They're about 25 foot tall stone giants. Not 20 foot tall, not particularly, you know, big representatives of the of the species.\n\nDM: These—these— stone—stone walls here. They're like stone barriers that run all the way up to the ceiling and carved on the far face, so like just you can see a little bit like on this side of these pillars. It looks like there's giant sort of statues of giants that are shaped and decorated, you know, filled with these veins of purple gemstones running through their body, presumably Chalyte. And then on the other side of the Lightning Chamber, you can see stairs running down."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0310",
+              "endUid": "u0317",
+              "quote": "In the behind the— I mean, the—these big walls do block. There's also a—you can see that there's a ladder leading up to the roof right here. And the the other really obvious notable thing about this is, as soon as you teleport in, you can—the, like, every 4 to 6 seconds the entire tower shakes with the boom of thunder erupting from this pillar of lightning. It's not just lightning. It's massive, loud— like, it shakes your entire body, and it is really distracting, giving you disadvantage on all attack rolls and ability checks."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Middle-floor living quarters",
+      "evidence": [
+        {
+          "startUid": "u1491",
+          "endUid": "u1510",
+          "quote": "Well, while you're investigating Kenzo and and Wellby sneak down the steps. You're being stealthy, but as you get down one level there doesn't seem to be much need to be because, well, first of all, nobody can hear anything over the sound of the thunder. I mean, even Riswynn could be stealthy in these conditions.\n\nDM: Second of all, there's nobody in the level below. There seems to be some sort of living quarters. There's 2 giant-sized beds, a table. It takes you a while to get down because the steps are the same size as Wellby, so, you know. Well, in order to get down, Wellby's like dropping down off the side. It's about 3 and a half feet down the step, walk 3, 4 feet to the next step, jumps down. Not the easiest to be stealthy. But again, it doesn't really matter because there's nobody here. There's no windows. It's dark here, except for the light of the the blue, purple glow cast by the lightning. There are stairs that go one level down. You could see from the outside that this tower has 3 levels.\n\nDM: And the entire interior walls of this room down below are etched with runes and—and giant-sized engravings, just like incredibly detailed, all the way around the, like, 40 foot tall walls.\n\nDM: There's a chair, there's a table with a few chairs. There's a couple— on the table. There's a couple 3 giant fist size pieces of obsidian. That would be, you know. Wellby-ish size, maybe 5 or even bigger than Wellby, like 5, 6 feet across, in various states of being carved into birds. And there's 1 finished obsidian hawk that's been carved, and then there's stairs down and still constantly booming echo of thunder."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1491",
+              "endUid": "u1502",
+              "quote": "Well, while you're investigating Kenzo and and Wellby sneak down the steps. You're being stealthy, but as you get down one level there doesn't seem to be much need to be because, well, first of all, nobody can hear anything over the sound of the thunder. I mean, even Riswynn could be stealthy in these conditions.\n\nDM: Second of all, there's nobody in the level below. There seems to be some sort of living quarters. There's 2 giant-sized beds, a table. It takes you a while to get down because the steps are the same size as Wellby, so, you know. Well, in order to get down, Wellby's like dropping down off the side. It's about 3 and a half feet down the step, walk 3, 4 feet to the next step, jumps down. Not the easiest to be stealthy. But again, it doesn't really matter because there's nobody here. There's no windows. It's dark here, except for the light of the the blue, purple glow cast by the lightning. There are stairs that go one level down. You could see from the outside that this tower has 3 levels."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Bottom-floor mirror and control chamber",
+      "evidence": [
+        {
+          "startUid": "u1616",
+          "endUid": "u1639",
+          "quote": "So you sneak down the stairs and you see—you can see the—the— the lightning pillar continues down, and it's almost like bubbling up around what looks like some sort of reflective gemstone or mirror set into the floor that serves as a focus of which the lightning is, like, forming, like, this roiling cloud of red and—and purple light, and then reflecting back up in a sort of continual loop, powered in large part by this mirror.\n\nDM: You see, standing against a blank obsidian wall, there's a giant wearing, like, a helm, with Chalyte gemstones mounted into the helm. And there's gold and—and purple runes carved into the floor of this— of this that run from the mirror to this wall and then up the wall. And as he—as the giant, like, places his hand on a rune, you can see that the wall, this black obsidian wall, turns almost like a scrying portal. And now you're looking out into the pit mine down below. It's almost like manipulating his hand somehow, and the image shifts again, and you're looking at the the perimeter of the—of the—of the settlement around the pit mine. It shifts again, and you're looking deep underground at ogres mining Chalyte ore. Just keeps going, keeps moving his hands around and shifting.\n\nDM: Standing next to him is a slightly smaller, maybe younger giant, who is kind of looking, observing. Looks a little bit like they're not paying much attention and just kind of daydreaming, or something.\n\nDM: That's on the south—south wall. On the north wall, more silver—sorry, gold runes are etched into the floor that connect to a giant who's clearly imprisoned. His wrists are in 2 manacles that grow of stone into the wall, dotted with purple Chalyte gemstones, and standing next to him again, half merged into the wall, are 2 Chalyte giant statues."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1552",
+              "endUid": "u1555",
+              "quote": "Yeah, yeah, yeah, that's Dhrukmir. The 70 foot tall giant is Dhrukmir, and it shows how they, like, built the— constructed the—the tower. It shows, like, installing, like, this giant Chalyte mirror at the base of the tower and the lightning shooting up from the mirror. It shows runes carved, being etched in the stones in this very complex way."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Chalyte pit mine",
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0015",
+          "quote": "You learned from talking to Brunnar, the stone giant, that Dhrukmir, Dhrukmir, Skybreaker, king of the Giants in this region, is a Chalyte-obsessed creature who has modified himself and the land around him, powered by the Chalyte he— his ogre servants mine from a giant pit mine beneath the tower."
+        }
+      ],
+      "kind": "mine",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1623",
+              "endUid": "u1632",
+              "quote": "you're looking at the the perimeter of the—of the—of the settlement around the pit mine."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Pit rim and battle rubble",
+      "evidence": [
+        {
+          "startUid": "u2829",
+          "endUid": "u2835",
+          "quote": "Through Kenzo and then lands, creating this massive field of rubble in the middle of the pit mine. And you begin to hear this— as you find yourselves tossed in various—dimension doored or peacefully and calmly floating— tossed on the rim, sort of on the side of this—of this pit mine, chaos erupts around you as this very deep, low rumbling begins to boom, shake the ground a little bit."
+        }
+      ],
+      "kind": "pit rim",
+      "note": "The final fight moves around the rim. Local cliff heights and the giant’s subsequent rubble do not fix a single measured position for every actor.",
+      "relations": [
+        {
+          "relation": "on_rim_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2829",
+              "endUid": "u2835",
+              "quote": "Through Kenzo and then lands, creating this massive field of rubble in the middle of the pit mine. And you begin to hear this— as you find yourselves tossed in various—dimension doored or peacefully and calmly floating— tossed on the rim, sort of on the side of this—of this pit mine, chaos erupts around you as this very deep, low rumbling begins to boom, shake the ground a little bit."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Dhrukmir’s settlement",
+      "evidence": [
+        {
+          "startUid": "u1623",
+          "endUid": "u1632",
+          "quote": "You see, standing against a blank obsidian wall, there's a giant wearing, like, a helm, with Chalyte gemstones mounted into the helm. And there's gold and—and purple runes carved into the floor of this— of this that run from the mirror to this wall and then up the wall. And as he—as the giant, like, places his hand on a rune, you can see that the wall, this black obsidian wall, turns almost like a scrying portal. And now you're looking out into the pit mine down below. It's almost like manipulating his hand somehow, and the image shifts again, and you're looking at the the perimeter of the—of the—of the settlement around the pit mine. It shifts again, and you're looking deep underground at ogres mining Chalyte ore. Just keeps going, keeps moving his hands around and shifting."
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Ulgrathar.md",
+      "note": "Verified as Ulgrathar from Session 128 (DuFr), whose Location and summary identify the giant settlement, and Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Ulgrathar.md. The name is not spoken here; the transcript establishes the settlement around the pit mine. Vault-only regional orientation: Ulgrathar is in the Chataan Mountains; this is not additional played movement."
+    },
+    "p09": {
+      "label": "Chataan Mountains foothills",
+      "evidence": [
+        {
+          "startUid": "u0033",
+          "endUid": "u0039",
+          "quote": "But he is here also, because he has spells to magically communicate back with the magistrate, report the events as they happen. And so, as you gather on the deck of Vindristjarna, looking out across the dry, windswept foothills of the Chataan mountains, preparing with Seeker and simulacrum Seeker 3 standing together, ready to teleport, arguing over who is gonna cast Teleport. Seeker, of course, never having failed to teleport anybody anywhere except in the Feywild. But that doesn't count."
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Greater Chardon/Chataan Mountains.md"
+    },
+    "p10": {
+      "label": "Underground Chalyte workings",
+      "evidence": [
+        {
+          "startUid": "u1623",
+          "endUid": "u1632",
+          "quote": "It shifts again, and you're looking deep underground at ogres mining Chalyte ore."
+        }
+      ],
+      "kind": "mine workings",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1623",
+              "endUid": "u1632",
+              "quote": "You see, standing against a blank obsidian wall, there's a giant wearing, like, a helm, with Chalyte gemstones mounted into the helm. And there's gold and—and purple runes carved into the floor of this— of this that run from the mirror to this wall and then up the wall. And as he—as the giant, like, places his hand on a rune, you can see that the wall, this black obsidian wall, turns almost like a scrying portal. And now you're looking out into the pit mine down below. It's almost like manipulating his hand somehow, and the image shifts again, and you're looking at the the perimeter of the—of the—of the settlement around the pit mine. It shifts again, and you're looking deep underground at ogres mining Chalyte ore. Just keeps going, keeps moving his hands around and shifting."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Air above the pit rim",
+      "evidence": [
+        {
+          "startUid": "u2959",
+          "endUid": "u2961",
+          "quote": "Where's Wellby? Oh, he's all the way over there.\n\nWellby: Yep, I'm flying. I'm up 120.\n\nSeeker: Okay, yeah, yeah."
+        }
+      ],
+      "kind": "airspace",
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u3268",
+              "endUid": "u3276",
+              "quote": "Schwartz, how far away from him is Wellby?\n\nWellby: A 150 feet up from the ground, meaning not the bottom of the pit, but like.\n\nDM: But the level ground. Yeah.\n\nWellby: Sea level. Yeah. And then I'm.\n\nDM: Like 30 feet away.\n\nWellby: Yeah, I very much was trying to calculate that to be out of the reach of his club, even with an extended arm.\n\nDM: Okay."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0009"
+      },
+      "actors": [
+        "party",
+        "Seeker 3"
+      ],
+      "reading": "Prepare aboard Vindristjarna at sunrise, roughly 30 miles from the Hanging Tower, Thundercrown and Riftstone Gorge.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0009",
+          "quote": "On Vindristjarna, as the sun rises after you returned late last night via Teleport, following a long— a medium, enlightening conversation with an ogre who believed that Kenzo was a magic rock and a shorter but more informative conversation with disaffected stone giant.\n\nDM: You now find yourself preparing on the deck of Vindristjarna, about 30 miles away from the Thundercrown, the Riftstone Gorge and the Hanging Tower, anchored by bridges of lightning to 2 mountains from which the massive, Chalyte-powered death ray vaporizes anybody who comes close."
+        },
+        {
+          "startUid": "u0033",
+          "endUid": "u0039",
+          "quote": "But he is here also, because he has spells to magically communicate back with the magistrate, report the events as they happen. And so, as you gather on the deck of Vindristjarna, looking out across the dry, windswept foothills of the Chataan mountains, preparing with Seeker and simulacrum Seeker 3 standing together, ready to teleport, arguing over who is gonna cast Teleport. Seeker, of course, never having failed to teleport anybody anywhere except in the Feywild. But that doesn't count."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "in_locality_of",
+          "target": "p09",
+          "note": "Temporary ship position in the dry foothills; no permanent geographic parent is assigned."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0225",
+        "endUid": "u0228"
+      },
+      "actors": [
+        "party",
+        "Seeker 3"
+      ],
+      "reading": "Teleport from Vindristjarna into the Hanging Tower’s upper lightning chamber.",
+      "evidence": [
+        {
+          "startUid": "u0225",
+          "endUid": "u0228",
+          "quote": "Okay, Seekers. Seeker 3 will cast Teleport to save Seeker. Well, no, Seeker—Seeker probably wants to cast Teleport, right?\n\nSeeker: What do you mean? Seeker? 3.\n\nDM: That's the simulacrum Seeker.\n\nSeeker: Oh, that's okay. Yep, sure."
+        },
+        {
+          "startUid": "u0268",
+          "endUid": "u0268",
+          "quote": "Okay, so you all appear within a 10 foot circle."
+        },
+        {
+          "startUid": "u0281",
+          "endUid": "u0294",
+          "quote": "There's a giant column of lightning coursing through the center of the room.\n\nSeeker: Don't touch it.\n\nDelwath: Really.\n\nSeeker: Yeah.\n\nDM: On either side, there's, like, windows, platforms that open up, and you can see 2 giants kind of standing each one. They have their backs to you. They're looking out. They're looking out across the landscape. They're about 25 foot tall stone giants. Not 20 foot tall, not particularly, you know, big representatives of the of the species.\n\nDM: These—these— stone—stone walls here. They're like stone barriers that run all the way up to the ceiling and carved on the far face, so like just you can see a little bit like on this side of these pillars. It looks like there's giant sort of statues of giants that are shaped and decorated, you know, filled with these veins of purple gemstones running through their body, presumably Chalyte. And then on the other side of the Lightning Chamber, you can see stairs running down."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1454",
+        "endUid": "u1458"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Sneak down one level into empty giant living quarters.",
+      "evidence": [
+        {
+          "startUid": "u1454",
+          "endUid": "u1458",
+          "quote": "I'll go downstairs. Kenzo, do you want to come downstairs? Check this out.\n\nKenzo: That's it.\n\nWellby: Yeah.\n\nDelwath: I'll stand guard at the top of the stairs."
+        },
+        {
+          "startUid": "u1491",
+          "endUid": "u1502",
+          "quote": "Well, while you're investigating Kenzo and and Wellby sneak down the steps. You're being stealthy, but as you get down one level there doesn't seem to be much need to be because, well, first of all, nobody can hear anything over the sound of the thunder. I mean, even Riswynn could be stealthy in these conditions.\n\nDM: Second of all, there's nobody in the level below. There seems to be some sort of living quarters. There's 2 giant-sized beds, a table. It takes you a while to get down because the steps are the same size as Wellby, so, you know. Well, in order to get down, Wellby's like dropping down off the side. It's about 3 and a half feet down the step, walk 3, 4 feet to the next step, jumps down. Not the easiest to be stealthy. But again, it doesn't really matter because there's nobody here. There's no windows. It's dark here, except for the light of the the blue, purple glow cast by the lightning. There are stairs that go one level down. You could see from the outside that this tower has 3 levels."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk down giant stairs"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1535",
+        "endUid": "u1537"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Seeker 3"
+      ],
+      "reading": "Join the scouts in the living quarters to read the Giant mural and examine its runes.",
+      "evidence": [
+        {
+          "startUid": "u1535",
+          "endUid": "u1537",
+          "quote": "Delwath. Down here and read this giant mural.\n\nDelwath: Sure."
+        },
+        {
+          "startUid": "u1540",
+          "endUid": "u1555",
+          "quote": "What's it? Say?\n\nDM: So it's a history of.\n\nKenzo: Up, up, down, left, right, left, right.\n\nDM: What seems to be something called the Dauðleiptr, which translates literally from Giant as the Death Lightning. It describes— it's—it's written, it's very, you know, sort of— a hagiography of Dhrukmir and his conquest of the Death lightning. It's—it's written in this sort of very elaborate, flowery, for a giant, kind of, you know. There's all these kinds of— the great Dhrukmir discovered the power of Chalyte, and it shows—it shows them—\n\nDelwath: It's talking about the giant, the 70 foot tall guy. That's true.\n\nDM: Yeah, yeah, yeah, that's Dhrukmir. The 70 foot tall giant is Dhrukmir, and it shows how they, like, built the— constructed the—the tower. It shows, like, installing, like, this giant Chalyte mirror at the base of the tower and the lightning shooting up from the mirror. It shows runes carved, being etched in the stones in this very complex way."
+        },
+        {
+          "startUid": "u1563",
+          "endUid": "u1570",
+          "quote": "I will have come down with Delwath also, when they say it's safe. So we're what's on there. What's what should we check out? I mean.\n\nDelwath: What's beneath us.\n\nDM: Seeker 3 [garbled] pointing at Seeker one. and, like, you know, pointing at things like, oh, yeah, I recognize that rune. Like, hmm.\n\nSeeker: Taking notes.\n\nDM: I bet we could make something like this right?"
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1597",
+        "endUid": "u1598"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Sneak down to the bottom-floor mirror chamber and see its operator, apprentice and chained prisoner.",
+      "evidence": [
+        {
+          "startUid": "u1597",
+          "endUid": "u1598",
+          "quote": "Wellby. Wellby and Kenzo stealth down. Here we go.\n\nWellby: Yeah, yeah, get, we know how to do this."
+        },
+        {
+          "startUid": "u1616",
+          "endUid": "u1639",
+          "quote": "So you sneak down the stairs and you see—you can see the—the— the lightning pillar continues down, and it's almost like bubbling up around what looks like some sort of reflective gemstone or mirror set into the floor that serves as a focus of which the lightning is, like, forming, like, this roiling cloud of red and—and purple light, and then reflecting back up in a sort of continual loop, powered in large part by this mirror.\n\nDM: You see, standing against a blank obsidian wall, there's a giant wearing, like, a helm, with Chalyte gemstones mounted into the helm. And there's gold and—and purple runes carved into the floor of this— of this that run from the mirror to this wall and then up the wall. And as he—as the giant, like, places his hand on a rune, you can see that the wall, this black obsidian wall, turns almost like a scrying portal. And now you're looking out into the pit mine down below. It's almost like manipulating his hand somehow, and the image shifts again, and you're looking at the the perimeter of the—of the—of the settlement around the pit mine. It shifts again, and you're looking deep underground at ogres mining Chalyte ore. Just keeps going, keeps moving his hands around and shifting.\n\nDM: Standing next to him is a slightly smaller, maybe younger giant, who is kind of looking, observing. Looks a little bit like they're not paying much attention and just kind of daydreaming, or something.\n\nDM: That's on the south—south wall. On the north wall, more silver—sorry, gold runes are etched into the floor that connect to a giant who's clearly imprisoned. His wrists are in 2 manacles that grow of stone into the wall, dotted with purple Chalyte gemstones, and standing next to him again, half merged into the wall, are 2 Chalyte giant statues."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk down stairs"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u1623",
+        "endUid": "u1632"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "See the pit mine through the sorcerer’s obsidian scrying wall.",
+      "evidence": [
+        {
+          "startUid": "u1623",
+          "endUid": "u1632",
+          "quote": "now you're looking out into the pit mine down below."
+        }
+      ],
+      "place": "p06",
+      "mode": "remote",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1623",
+        "endUid": "u1632"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "See the settlement perimeter as the sorcerer changes the scrying view.",
+      "evidence": [
+        {
+          "startUid": "u1623",
+          "endUid": "u1632",
+          "quote": "you're looking at the the perimeter of the—of the—of the settlement around the pit mine."
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1623",
+        "endUid": "u1632"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "See ogres mining underground through another scrying-wall view.",
+      "evidence": [
+        {
+          "startUid": "u1623",
+          "endUid": "u1632",
+          "quote": "It shifts again, and you're looking deep underground at ogres mining Chalyte ore."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1711",
+        "endUid": "u1712"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Seeker 3"
+      ],
+      "reading": "Descend into the control chamber to join the assault.",
+      "evidence": [
+        {
+          "startUid": "u1711",
+          "endUid": "u1711",
+          "quote": "We barged down the stairs."
+        },
+        {
+          "startUid": "u2054",
+          "endUid": "u2067",
+          "quote": "The Chalyte sorcerer, now turning around, looking towards you, there is a blinding flash of light.\n\nDelwath: Wait. Is he casting a spell?\n\nDM: No, he's tossing a Chalyte stone.\n\nDelwath: Okay.\n\nSeeker: Is he gonna turn on the Golems.\n\nDM: No, he's gonna try and blind you all.\n\nSeeker: That's not fun.\n\nDM: So anybody within 30—I was trying to pull out that, but— yeah, you're all within 30 feet. Anybody within 30 feet.\n\nDelwath: Kenzo.\n\nDM: So everybody, everybody but Kenzo, make a constitution saving throw.\n\nSeeker: Ray. Both Seekers fail."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk down stairs"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2752",
+        "endUid": "u2757"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Rescued giant"
+      ],
+      "reading": "Free the prisoner and escape the falling tower: Delwath takes the giant by Dimension Door, Seeker takes Wellby, and Kenzo drifts astrally to the pit side.",
+      "evidence": [
+        {
+          "startUid": "u2752",
+          "endUid": "u2757",
+          "quote": "I'm going to run over to the chained-up guy, use the Chime of Opening to free him, and then say loudly, somebody else take care of making sure he doesn't squish on the way down, and run up [garbled].\n\nDM: There's no windows.\n\nWellby: I mean, back up, up.\n\nDM: Back. Up. Okay."
+        },
+        {
+          "startUid": "u2806",
+          "endUid": "u2819",
+          "quote": "I will dash as I will move. I will then use my action to dash, and then I will use sorcery points to Quicken Dimension Door and Dimension door out.\n\nSeeker: With the with the prisoner.\n\nDelwath: With the prisoner.\n\nSeeker: And I will just step 5 feet forwards and Dimension door out with Wellby.\n\nDM: Okay.\n\nWellby: Cool.\n\nDM: And Kenzo will astral form and just drift.\n\nKenzo: Kenzo turns into—Kenzo turns into an astral being, and then, just, like—\n\nSeeker: Have fun with that.\n\nDM: Actually falls through you.\n\nKenzo: It literally falls, Kenzo hovers there and then everything just falls through Kenzo as he, as he, just just— still very annoyed that he took damage that battle."
+        },
+        {
+          "startUid": "u2829",
+          "endUid": "u2835",
+          "quote": "Through Kenzo and then lands, creating this massive field of rubble in the middle of the pit mine. And you begin to hear this— as you find yourselves tossed in various—dimension doored or peacefully and calmly floating— tossed on the rim, sort of on the side of this—of this pit mine, chaos erupts around you as this very deep, low rumbling begins to boom, shake the ground a little bit."
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "Dimension Door and astral drift"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2959",
+        "endUid": "u2961"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Fly above the pit rim before the fight; initially reports 120 feet, later identifies his position as 150 feet above rim ground and about 30 feet horizontally from Dhrukmir.",
+      "evidence": [
+        {
+          "startUid": "u2959",
+          "endUid": "u2961",
+          "quote": "Where's Wellby? Oh, he's all the way over there.\n\nWellby: Yep, I'm flying. I'm up 120.\n\nSeeker: Okay, yeah, yeah."
+        },
+        {
+          "startUid": "u3268",
+          "endUid": "u3276",
+          "quote": "Schwartz, how far away from him is Wellby?\n\nWellby: A 150 feet up from the ground, meaning not the bottom of the pit, but like.\n\nDM: But the level ground. Yeah.\n\nWellby: Sea level. Yeah. And then I'm.\n\nDM: Like 30 feet away.\n\nWellby: Yeah, I very much was trying to calculate that to be out of the reach of his club, even with an extended arm.\n\nDM: Okay."
+        }
+      ],
+      "from": "p07",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u3918",
+        "endUid": "u3935"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "After Dhrukmir’s collapse, Kenzo wakes and escapes the rubble astrally; the party surveys the shattered tower and giant at the pit side.",
+      "evidence": [
+        {
+          "startUid": "u3918",
+          "endUid": "u3923",
+          "quote": "So as Kenzo—Kenzo's eyes blink open, you see just this massive pile of rubble around you.\n\nKenzo: From the collapsed giant, I astral plane, an astral being, and get myself out of the rubble.\n\nDM: Yeah. Well, Delwath struggles. It's going to take you quite a lot of time to find your little Triceratops statue somewhere at the bottom of this pile of rubble."
+        },
+        {
+          "startUid": "u3927",
+          "endUid": "u3935",
+          "quote": "With the statue collapsed—I mean, with the—the tower collapsed, this massive giant turned into rubble, everything! There's just finally actual silence.\n\nDM: As you look around, still, you know, not past 9 in the morning: a few giants standing around, stunned, ogres trapped, the ramp destroyed, as Brunnar promised, hundreds, dozens, hundreds of ogres milling around in the pit mines, looking terrified and confused, calm comes to the mountains, and you look across at each other. Take a breath."
+        }
+      ],
+      "place": "p07"
+    }
+  ]
+}
