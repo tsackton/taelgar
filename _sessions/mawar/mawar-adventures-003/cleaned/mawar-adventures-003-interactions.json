@@ -1,0 +1,1764 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "bd0dc53073f9a7f4a30a467781b9179827c04c54ca64770aad983969d504acc2"
+    },
+    "entityMap": {
+      "path": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-entity-map.json",
+      "sha256": "268c432252b82ed074c9b04e94da05cb4a65c134735edad1f4b6ec1ca98edc5a"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Recalling Azar and the stolen living water",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0075",
+        "endUid": "u0088"
+      },
+      "lines": [
+        "%% u0075:0-113 %%",
+        "Trok: So just briefly, not in detail, but in a sentence or two it's like we defeated the guy that had thing, just like.",
+        "",
+        "%% u0076:0-50, u0077:0-43, u0078:0-106 %%",
+        "DM: Yeah so there was the— right, there was the guy who was a basically a warlock of some undersea ancient evil or something, it was not entirely clear who had corrupted him through the influence of gatza.",
+        "",
+        "%% u0079:0-53, u0080:0-25, u0081:0-18 %%",
+        "((Clarification of the earlier tower location))",
+        "",
+        "%% u0082:0-20, u0083:0-7, u0084:0-16, u0085:0-69, u0086:0-38, u0087:0-98, u0088:0-29 %%",
+        "DM: And so, he had been— he had— he had stolen a— sample or a piece of this Sentient Ocean and been using it to create reanimated people who had drowned and trying to turn them back into these drowned monsters, because he believed that this would let him resurrect his wife. Yeah, dark.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And then, second part of town is, as you head up the cliffs here there's these paths carved into the stone with houses sort of perched on the sides of the cliffs, including some of the nicest houses in town on that, that carved plateau, Glittercliff.",
+          "Kaleho: [garbled] Okay, got it.",
+          "DM: And at the— at the top of these cliffs, both, both near town and across the bay from town, are the towers, the ones near town, mostly still occupied; the ones on the North now largely abandoned and occasionally reclaimed by loners and hermits and others who are looking for an out of the way place to live.",
+          "DM: And these towers have a long history of being the, the place where the citizens of Hamri have watched the ocean for generations.",
+          "DM: There used to be many more ocean watchers keeping an eye out for strange things from the sea, but now, of course, as the influence of the Mawar Confederacy has shrunk somewhat from their golden age 100 years ago now. And so many of these towers have been abandoned and the northern part, the northern coast of this, of this bay in which Hamri is nestled is mostly— Mostly now is the sort of place where everybody who wants to be outside the sort of watch of the town itself goes to live, and so that’s where you find Trok. So maybe, Eric, you could describe Trok, you know, where he, where he lives and maybe a little bit about what he's been doing, you know why he does what he's been doing the past few months, as Kaleho approaches and then you can describe yourself, Kaleho."
+        ],
+        "after": [
+          "Kaleho: Following the notebook of a much more ancient and powerful—",
+          "DM: He was, he—",
+          "Trok: Whose tower, he was using, yeah.",
+          "DM: He had been— yes, he had been following some clues he found from a much older wizard who studied, you know, you know who has studied this, order was fascinated by the elemental planes named Airion the Mistspeaker, who had a number of towers and other kinds of research bases across not just the Mawakel Peninsula, but this whole sort of region of the North.",
+          "Trok: There was one, there was some follow up from the completion of the adventure. Right? I gotta take a message back to the elders, the lizard folk."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The older wizard and his notebook",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0089",
+        "endUid": "u0096"
+      },
+      "lines": [
+        "%% u0089:0-59 %%",
+        "Kaleho: Following the notebook of a much more ancient and powerful—",
+        "",
+        "%% u0090:0-10 %%",
+        "DM: He was, he—",
+        "",
+        "%% u0091:0-31 %%",
+        "Trok: Whose tower, he was using, yeah.",
+        "",
+        "%% u0092:0-64, u0093:0-60, u0094:0-87, u0095:0-55, u0096:0-88 %%",
+        "DM: He had been— yes, he had been following some clues he found from a much older wizard who studied, you know, you know who has studied this, order was fascinated by the elemental planes named Airion the Mistspeaker, who had a number of towers and other kinds of research bases across not just the Mawakel Peninsula, but this whole sort of region of the North.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah so there was the— right, there was the guy who was a basically a warlock of some undersea ancient evil or something, it was not entirely clear who had corrupted him through the influence of gatza.",
+          "Trok: Were using one of the Towers on the North side right?",
+          "DM: Yes, yeah there's on the.",
+          "Unknown: On the north side.",
+          "DM: And so, he had been— he had— he had stolen a— sample or a piece of this Sentient Ocean and been using it to create reanimated people who had drowned and trying to turn them back into these drowned monsters, because he believed that this would let him resurrect his wife. Yeah, dark."
+        ],
+        "after": [
+          "Trok: There was one, there was some follow up from the completion of the adventure. Right? I gotta take a message back to the elders, the lizard folk.",
+          "DM: What was the message? The, the—no, um, so—",
+          "DM: Benat, who was the lizard folk man who lived in town, and was sort of the local like liaison had agreed to take Azar, the, the— the warlock who had that and then been somewhat freed from his the influence of this ah— evil whatever um, to the lizard folk village where he was going to like rest and he, and you had— whether you follow through on this or not, is up to you— but you had promised Azar that you would write a letter to your family.",
+          "Trok: Right because of the troubled relationship that I have I'm sort of like— exactly, in self imposed exile.",
+          "DM: There is a much more detailed write-up here which you can refer to, if you want, but um."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Benat takes Azar away to recover",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0097",
+        "endUid": "u0109"
+      },
+      "lines": [
+        "%% u0097:0-77, u0098:0-6, u0099:0-58 %%",
+        "Trok: There was one, there was some follow up from the completion of the adventure. Right? I gotta take a message back to the elders, the lizard folk.",
+        "",
+        "%% u0100:0-41 %%",
+        "DM: What was the message? The, the—no, um, so—",
+        "",
+        "%% u0101:0-30, u0102:0-14, u0103:0-66, u0104:0-13, u0105:0-59, u0106:0-26, u0107:0-3, u0108:0-17, u0109:0-206 %%",
+        "DM: Benat, who was the lizard folk man who lived in town, and was sort of the local like liaison had agreed to take Azar, the, the— the warlock who had that and then been somewhat freed from his the influence of this ah— evil whatever um, to the lizard folk village where he was going to like rest and he, and you had— whether you follow through on this or not, is up to you— but you had promised Azar that you would write a letter to your family.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And so, he had been— he had— he had stolen a— sample or a piece of this Sentient Ocean and been using it to create reanimated people who had drowned and trying to turn them back into these drowned monsters, because he believed that this would let him resurrect his wife. Yeah, dark.",
+          "Kaleho: Following the notebook of a much more ancient and powerful—",
+          "DM: He was, he—",
+          "Trok: Whose tower, he was using, yeah.",
+          "DM: He had been— yes, he had been following some clues he found from a much older wizard who studied, you know, you know who has studied this, order was fascinated by the elemental planes named Airion the Mistspeaker, who had a number of towers and other kinds of research bases across not just the Mawakel Peninsula, but this whole sort of region of the North."
+        ],
+        "after": [
+          "Trok: Right because of the troubled relationship that I have I'm sort of like— exactly, in self imposed exile.",
+          "DM: There is a much more detailed write-up here which you can refer to, if you want, but um.",
+          "Trok: Thank you. So many good weird details. Sorry, I was just trying to figure out what kind of mood Trok would be in because nothing's—",
+          "DM: This is— This is like three months later.",
+          "Trok: Mm hmm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Orden asks for help finding Hiyasa",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0189",
+        "endUid": "u0330"
+      },
+      "lines": [
+        "%% u0189:0-14, u0190:0-106, u0191:0-8, u0192:0-71, u0193:0-37, u0194:0-109, u0195:0-57 %%",
+        "DM: As, as you are talking over your, your meal, you hear footsteps from the beach and then sort of a knock on your door and a kind of unkempt looking man, short and stocky with great bushy hair and a beard, many like earrings and and piercings, kind of leans in. This is Orden, Trok, one of your friends who also lives on this beach, and he says, “Hey, Trok. Saw your your fire, can I can I talk to you for a minute?”",
+        "",
+        "%% u0196:0-21 %%",
+        "Trok: Orden, have some stew.",
+        "",
+        "%% u0197:0-11, u0198:0-20 %%",
+        "DM: Huh, thanks. Appreciate the food.",
+        "",
+        "%% u0199:0-59, u0200:0-7 %%",
+        "Trok: What can we do for you? Oh, this is, have you met my friend Kaleho?",
+        "",
+        "%% u0201:0-12 %%",
+        "DM: Hello, hello.",
+        "",
+        "%% u0202:0-14 %%",
+        "Kaleho: Kaleho grunts.",
+        "",
+        "%% u0203:0-18, u0204:0-21 %%",
+        "DM: And I haven't— you— you from around here?",
+        "",
+        "%% u0205:0-28 %%",
+        "Kaleho: No, from around many places.",
+        "",
+        "%% u0206:0-36 %%",
+        "DM: You a good in a fight like this guy?",
+        "",
+        "%% u0207:0-19 %%",
+        "Kaleho: I'm Okay, I get by.",
+        "",
+        "%% u0208:0-4 %%",
+        "DM: Hmm—",
+        "",
+        "%% u0209:0-37, u0210:0-44, u0211:0-57, u0212:0-19, u0213:0-14, u0214:0-6, u0215:0-27, u0216:0-20, u0217:0-19, u0218:0-67, u0219:0-4, u0220:0-42, u0221:0-24, u0222:0-13, u0223:0-22, u0224:0-116, u0225:0-15, u0226:0-48, u0227:0-15, u0228:0-11, u0229:0-37 %%",
+        "DM: Well it's— it hasn't been a good week. I don't know if I've told you this, Trok, but, you know, I live by myself, but it, I do have some family. My daughter Hiyasa, she came home maybe two weeks, three weeks ago. She's been gone for a decade traveling. I don't know why she came home. She wouldn't tell me, maybe trouble. She wasn't happy with how I was living, really. Thought we needed money. She had some papers and notes, some maps and she said, there was lots of places you could get money in the, in the forests, lots of old ruins around here. She headed out. Said she'd be back in a few days, but it's been eight days now. I'm afraid something might have happened to her.",
+        "",
+        "%% u0230:0-34, u0231:0-30, u0232:0-13 %%",
+        "DM: You know me, I'm in no shape to go running off into the wild, but you might be.",
+        "",
+        "%% u0233:0-47, u0234:0-71, u0235:0-16 %%",
+        "Trok: Sounds like there's more you're not telling us. Before we can decide if we can help you, but maybe if you sit down and ladle up a bowl.",
+        "",
+        "%% u0236:0-28, u0237:0-49, u0238:0-35, u0239:0-42, u0240:0-25 %%",
+        "DM: Okay, sure. I'm always happy. There's not much more to the story really, I mean— I, there's a lot she didn't tell me. Said she was going up the river, she said there was treasure there.",
+        "",
+        "%% u0241:0-16 %%",
+        "Kaleho: Up Mirmir River?",
+        "",
+        "%% u0242:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u0243:0-20 %%",
+        "DM: It's the only river.",
+        "",
+        "%% u0244:0-49 %%",
+        "Trok: She'd been spending time with anybody new lately?",
+        "",
+        "%% u0245:0-31, u0246:0-18, u0247:0-25, u0248:0-37, u0249:0-10 %%",
+        "DM: She's been gone for so long, I— just came back to— she wouldn't say she was— I think she was running from trouble. [garbled].",
+        "",
+        "%% u0250:0-48 %%",
+        "Trok: What kind of trouble might she have gotten into?",
+        "",
+        "%% u0251:0-52, u0252:0-13, u0253:0-3 %%",
+        "DM: Say where she's been. She went off to find adventure. Not, you know, be.",
+        "",
+        "%% u0254:0-5 %%",
+        "Kaleho: Good—",
+        "",
+        "%% u0255:0-68, u0256:0-25 %%",
+        "DM: Backwater of this town. Not that it's a bad town, if you ask me, but guess, not for everybody.",
+        "",
+        "%% u0257:0-81, u0258:0-30, u0259:0-5, u0260:0-45 %%",
+        "((Banter and checking Orden’s motives))",
+        "",
+        "%% u0261:0-15, u0262:0-37 %%",
+        "DM: But I would be in your debt if you try and find her.",
+        "",
+        "%% u0263:0-24 %%",
+        "Kaleho: What does she look like?",
+        "",
+        "%% u0264:0-18, u0265:0-19, u0266:0-25, u0267:0-13, u0268:0-12, u0269:0-8, u0270:0-58, u0271:0-70, u0272:0-29 %%",
+        "DM: You know she is a— does she look like? She is a— she is, you know, in her early 30s now. I'm— sort of mousy brown hair, likes to wear a leather cloak and a hood. Fairly short shorter than me. She doesn't have all this hair like I do. Prettier than me too, I'd say.",
+        "",
+        "%% u0273:0-61 %%",
+        "Trok: Orden was the one who is an outcast from my high born family?",
+        "",
+        "%% u0274:0-4, u0275:0-36, u0276:0-176 %%",
+        "DM: Yes. He was the one who like his— yeah, he— I guess it wasn't— it was never entirely clear exactly what happened to his— to, you know, hit with his parents, but he was— came from money and now obviously was not part of money.",
+        "",
+        "%% u0277:0-13, u0278:0-47, u0279:0-3, u0280:0-26, u0281:0-12 %%",
+        "((Banter and checking Orden’s motives))",
+        "",
+        "%% u0282:0-11, u0283:0-145, u0284:0-18, u0285:0-9, u0286:0-75, u0287:0-62 %%",
+        "DM: I mean, his— he seems genuinely upset and is like looking for help. It's not— you don't know him that well and he's a bit sort of monotonic even-keeled kind of— You know slightly, you know, doesn't have a lot of emotion his voice anyway, but he definitely seems um. Yeah, yeah, that's, that's what you can get really like he's not—",
+        "",
+        "%% u0288:0-50, u0289:0-140, u0290:0-97 %%",
+        "DM: There might be things about his daughter he's not— he's not opening up to you about, but like he just generally does seem like he's asking for help, does not like some secret agenda here. He— his daughter was gone for a while and he wants her back or he wants to know what happened to her.",
+        "",
+        "%% u0291:0-44 %%",
+        "Trok: How many days ago, did you say she took off?",
+        "",
+        "%% u0292:0-5, u0293:0-19, u0294:0-28, u0295:0-14 %%",
+        "DM: Last— eight days ago now. She was supposed to be back three or four.",
+        "",
+        "%% u0296:0-60, u0297:0-38 %%",
+        "Trok: Could be a ways off by now, I suppose you expect us to just head up river and see what we can see?",
+        "",
+        "%% u0298:0-16, u0299:0-22, u0300:0-24, u0301:0-15, u0302:0-13 %%",
+        "DM: Well, I hope so. You're the adventurer. I don't know what to do. It your friend Ryu can help.",
+        "",
+        "%% u0303:0-69, u0304:0-22, u0305:0-34, u0306:0-35, u0307:0-28, u0308:0-5 %%",
+        "((Banter and checking Orden’s motives))",
+        "",
+        "%% u0309:0-41, u0310:0-41, u0311:0-37, u0312:0-64 %%",
+        "Trok: I spent a lot of time on this here beach. Couldn't hurt to get a change of scenery. I think we could try to help you out. Now, if only you remembered something about these treasure maps.",
+        "",
+        "%% u0313:0-27 %%",
+        "DM: She didn't show them to me.",
+        "",
+        "%% u0314:0-16 %%",
+        "Trok: Didn’t even see?",
+        "",
+        "%% u0315:0-23, u0316:0-20 %%",
+        "DM: Something, yes, up river. Got a glimpse maybe.",
+        "",
+        "%% u0317:0-22 %%",
+        "Kaleho: Was traveling on foot?",
+        "",
+        "%% u0318:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u0319:0-16 %%",
+        "Trok: And by yourself?",
+        "",
+        "%% u0320:0-28 %%",
+        "DM: By herself as far as I know.",
+        "",
+        "%% u0321:0-41 %%",
+        "Kaleho: Do you know what boat, did she arrive on?",
+        "",
+        "%% u0322:0-13, u0323:0-47 %%",
+        "DM: I don't know. She just showed up at my shack three weeks ago.",
+        "",
+        "%% u0324:0-3, u0325:0-31, u0326:0-11, u0327:0-21, u0328:0-23 %%",
+        "Trok: And the money she thought would be easy taken? Buried ancient money or new pilfering to do?",
+        "",
+        "%% u0329:0-32, u0330:0-34 %%",
+        "DM: I guess buried ancient treasure. Ish, from the way she was talking.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Trok: You're a— very interested in those folks from the sea. Why is that?",
+          "Kaleho: I don't know.",
+          "Trok: Can't imagine they're much good to eat.",
+          "Unknown: No.",
+          "Kaleho: Kaleho laughs as he munches on the very delicious and fresh seafood."
+        ],
+        "after": [
+          "Kaleho: It’s too late now, tomorrow.",
+          "DM: Yeah.",
+          "Kaleho: Can go up river and look.",
+          "Trok: I was wondering if we should simply head up at first light or ask around town, to see if anybody knows anything that might be useful?",
+          "Kaleho: Tomorrow, maybe, or early in the morning, we can check in on the way toward— Sir. If we find money I'll need a cut."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Abelard remembers a treasure hunter",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0607",
+        "endUid": "u0678"
+      },
+      "lines": [
+        "%% u0607:0-57, u0608:0-121, u0609:0-105, u0610:0-184 %%",
+        "DM: There is actually one person that you see who, who you've, you've seen around before. His name's Abelard. He's a storyteller and a performer who hangs around the Leviathan, a lot, um. You get the sense that he often exaggerates his exploits and he's sort of has a reputation as a bit of a teller of tall tales. But when you have passed through before you, you know, chatted with him and he's certainly observant and he seems to be here, I'm— like nursing a hangover, basically.",
+        "",
+        "%% u0611:0-120, u0612:0-29, u0613:0-13 %%",
+        "Kaleho: So Kaleho motions to the rest of the our intrepid squad of investigators, you know, signaling, “Hey, let’s talk to this guy.” So I asked, “How are you doing?” Look so cool.",
+        "",
+        "%% u0614:0-28, u0615:0-33, u0616:0-23 %%",
+        "DM: Kaleho! Haha, nice to see you. Sorry, it's— last night, last night. What you doing in town?",
+        "",
+        "%% u0617:0-80, u0618:0-140 %%",
+        "Kaleho: Me, my friends, were— we're looking for a woman in her early 30s would have passed through— would have came to the town about 10 days ago and then I'm a day or so after that would have left town up the River. Sounds familiar?",
+        "",
+        "%% u0619:0-42, u0620:0-42, u0621:0-64, u0622:0-78 %%",
+        "DM: Yeah, a lot of things sound familiar to me. Sort of looks up a little bleary eyed, and, “Don't believe I've been introduced to this fine characters here. This one I know, the lizard folk with the tattoos, everybody knows that big guy.”",
+        "",
+        "%% u0623:0-9, u0624:0-16 %%",
+        "Trok: You hear of low rumbling.",
+        "",
+        "%% u0625:0-31, u0626:0-34 %%",
+        "DM: Oh, that's a compliment, big guy. I seen you do some amazing things.",
+        "",
+        "%% u0627:0-22, u0628:0-27, u0629:0-63 %%",
+        "((Introductions, buying a drink, and a tangent about the earlier adventure))",
+        "",
+        "%% u0630:0-63, u0631:0-100 %%",
+        "Nerissa: Abelard, how do you do? My name is Nerissa. Pleasure to meet you. [garbled] I've seen— I've been around town, but I haven't had a chance to chat with you, before.",
+        "",
+        "%% u0632:0-4, u0633:0-3, u0634:0-27, u0635:0-23, u0636:0-12, u0637:0-29, u0638:0-24 %%",
+        "((Introductions, buying a drink, and a tangent about the earlier adventure))",
+        "",
+        "%% u0639:0-8, u0640:0-52 %%",
+        "DM: He says as he's like nursing his drink, “That sounds familiar.”",
+        "",
+        "%% u0641:0-3, u0642:0-42, u0643:0-9, u0644:0-38, u0645:0-9, u0646:0-25, u0647:0-34 %%",
+        "DM: So, woman headed out upriver maybe a week ago. She is a pretty put together if you ask me. I'm— had some— an ancient tomb up there supposedly, full of lost treasure.",
+        "",
+        "%% u0648:0-5 %%",
+        "Trok: Tomb?",
+        "",
+        "%% u0649:0-60, u0650:0-33 %%",
+        "DM: She didn't think she would be gone for more than a few days. Haven't seen her around actually.",
+        "",
+        "%% u0651:0-31 %%",
+        "Trok: Who might know more about this?",
+        "",
+        "%% u0652:0-25, u0653:0-18 %%",
+        "Nerissa: Burial rituals she found? I know I would be.",
+        "",
+        "%% u0654:0-6 %%",
+        "DM: Maybe.",
+        "",
+        "%% u0655:0-51, u0656:0-32, u0657:0-12, u0658:0-25 %%",
+        "DM: Who would know more about this tomb? I don't know. I— I hadn't heard of this before. I— Wazir would. He's out of town, though.",
+        "",
+        "%% u0659:0-14, u0660:0-37, u0661:0-76, u0662:0-33, u0663:0-37, u0664:0-21, u0665:0-25, u0666:0-4, u0667:0-4, u0668:0-25, u0669:0-3, u0670:0-17, u0671:0-5, u0672:0-3, u0673:0-8, u0674:0-5 %%",
+        "((Introductions, buying a drink, and a tangent about the earlier adventure))",
+        "",
+        "%% u0675:0-37 %%",
+        "DM: She wasn't really the talkative type.",
+        "",
+        "%% u0676:0-13, u0677:0-43 %%",
+        "Kaleho: Well, thanks for your help. Good luck with the hangover.",
+        "",
+        "%% u0678:0-21 %%",
+        "Nerissa: Pleasure to meet you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: There's not a— there's not, there's not a— it's not particularly crowded, um. When you first walk in it's, um, you know, there's, there's a few folks hanging around, you know, a few like fishermen on their, on their way out grabbing an early breakfast or something before they head out on their boats, um.",
+          "DM: You know, at this point it's not super early in the morning, so you've also got a few of the people who are been up since pre dawn working the fish markets or something you've now come in for their sort of midday meal at 9am or something like that, um.",
+          "DM: So who's asking what? You're just kind of trying to get a sense of the— sense of the, yeah. What?",
+          "Kaleho: Kaleho, like— so he's been in many taverns and many times. As he scans the room and does anybody catches— is somebody who seems informed or traveled otherwise?",
+          "DM: Yeah, make, um— let's see, make a charisma investigation checks. And make a charisma check but add your proficiency modifier if you're proficient in investigation or your double proficiency investigation, right? So add— yeah, so make your charisma check and add 6. 16, yeah, so there's a—"
+        ],
+        "after": [
+          "Kaleho: Nerissa, does this ring any bells as our resident historian?",
+          "Nerissa: There's so many different to older cultures on this peninsula. That's part of why I came to live here. I don't know per se about any particular burial sites up the river. Sort of thing that I came here to look for.",
+          "DM: Make a, make a history check, Nerissa.",
+          "DM: So, I mean, yeah you haven't studied this in detail, you have heard stories of— so, so I mean, you've heard, you've heard, you've definitely heard stories of like strange things in the interior of Hamri, or sorry, of the peninsula.",
+          "DM: And you've heard, you've heard stories about, you know, there's been said, you know, the Mawar people have lived here for a while, like generations and generations, and many of them, you know, sort of claim they were the first people to settle here, but you've definitely heard rumors of sort of ancient civilizations that lived here. But you don't really have much— you don't know much detail about them. You haven't studied that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Blu has found the upriver trail",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0699",
+        "endUid": "u0717"
+      },
+      "lines": [
+        "%% u0699:0-29, u0700:0-114, u0701:0-44 %%",
+        "Ryu: Let’s head over to the tower. Yeah, so you see Ryu kind of just hanging out on the steps sitting there with spear on his lap looking at you guys. And yeah, Blu's already found some tracks so—",
+        "",
+        "%% u0702:0-7, u0703:0-49, u0704:0-5, u0705:0-23 %%",
+        "Trok: I mean, I see some tracks too, bird tracks, turtle tracks? What? What did you guys find?",
+        "",
+        "%% u0706:0-18 %%",
+        "Ryu: Like human tracks.",
+        "",
+        "%% u0707:0-12 %%",
+        "Trok: Whereabouts?",
+        "",
+        "%% u0708:0-13 %%",
+        "Ryu: On the river.",
+        "",
+        "%% u0709:0-20, u0710:0-15, u0711:0-108, u0712:0-20, u0713:0-20 %%",
+        "((Joking about Blu performing the entire rescue))",
+        "",
+        "%% u0714:0-25 %%",
+        "Trok: Blu’s no ordinary osprey.",
+        "",
+        "%% u0715:0-28, u0716:0-67 %%",
+        "Ryu: Yeah, it's a pain in the ass. But, um, yeah we can go ahead and follow that trail if you guys want.",
+        "",
+        "%% u0717:0-34 %%",
+        "Trok: Sounds like a good place to start.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah you don't—Nerissa doesn't really know. It's just rumors that are coming to mind.",
+          "Kaleho: Are we ready to enter into the wilderness?",
+          "Trok: Well—",
+          "Kaleho: We pick up Ryu.",
+          "Trok: Soon— as soon as we pick up Ryu, yeah he said to go get him in his place right? Let's head over."
+        ],
+        "after": [
+          "DM: Okay, so you head to the Mirmir and start heading up. Yeah, yeah.",
+          "Unknown: Yeah.",
+          "DM: So, that the, you know, the, the path up, you sort of have to go up to the top of the sort of cut around the top of the cliffs and meet the Mirmir above the waterfall.",
+          "DM: And it's— very quickly, you start to get into this fairly— initially fairly open pine, pine forest and it's, you know, it's late October, so a lot of the deciduous underbrush has died off or fallen. But the, the pine trees themselves are, of course, still green. There's probably still, you know, there's probably no snow up in the the top of the hills, but where you are here, near the coast it's still fairly, you know, like a late fall.",
+          "DM: Kind of open, open woods, but very quickly, actually, doesn't really take much um, tracking to be able to identify that there's been foot traffic along the river and there's a— there's actually a little path that runs along the river. You know up people use for fishing up to the, you know, past the first couple of sort of obvious open pools, where you can catch trout and things like that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The inscription names Yerkir-khor",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0874",
+        "endUid": "u0875"
+      },
+      "lines": [
+        "%% u0874:0-49, u0875:0-99 %%",
+        "DM: In, in these, these big letters, it says, “Here lies Yerkir-khor the Undaunted, Prince of Earth, Lord of the Rock Below and Guardian of the Crystal Skies.”",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kaleho: Oh, I do.",
+          "Trok: I— it is on my character sheet, I don't even know what that is.",
+          "DM: That's like elemental tongue. So, so this was written in Terran, which is—",
+          "Unknown: Dialectic—",
+          "DM: Of primordial, that's the language of earth elemental natives of the Plane of Earth. It says—"
+        ],
+        "after": [
+          "Trok: Let's have that one more time.",
+          "DM: “Here lies Yerkir-khor the Undaunted, Prince of Earth, Lord of the Rock Below and Guardian of the Crystal Skies.”",
+          "Trok: Wouldn't make skies crystal? Where does the rock below? We— do I know nothing about, about Yerkir-khor? That's unfamiliar.",
+          "DM: You have never heard Yerkir-khor before.",
+          "Trok: Anybody?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Blu scouts the roof and open shaft",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0928",
+        "endUid": "u0939"
+      },
+      "lines": [
+        "%% u0928:0-72, u0929:0-48 %%",
+        "Nerissa: This thick forest isn't the best place for an osprey to be scouting but— can we get a bird's eye view of what's up there?",
+        "",
+        "%% u0930:0-16 %%",
+        "Ryu: Yeah, of course.",
+        "",
+        "%% u0931:0-104, u0932:0-7 %%",
+        "((Alternative scouting suggestions))",
+        "",
+        "%% u0933:0-29 %%",
+        "Ryu: I was having him do a circle.",
+        "",
+        "%% u0934:0-124, u0935:0-19 %%",
+        "DM: So from the top, you can see that, um— so the top of this squat pyramid in the middle of the stone flower is a platform about 15 feet by 15 feet.",
+        "",
+        "%% u0936:0-32, u0937:0-188 %%",
+        "DM: These four statues of the, like Notre Dame gargoyles are like looking inward at the Center of this platform, and there is a trap door that is open on the top of the Platform and a shaft that descends below into darkness.",
+        "",
+        "%% u0938:0-21, u0939:0-30 %%",
+        "Ryu: I described all that. Who's dropping into the shaft?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Trok: Hiyasa.",
+          "DM: Hiyasa. H I Y A S A.",
+          "Trok: Hiyasa. Hiyasa presumably went up there and then did not come back, so it could be reason to be cautious beyond simply the climbing itself.",
+          "Kaleho: Oh, I remember the, the Tower from last time was unpleasant.",
+          "Trok: Mm hmm."
+        ],
+        "after": [
+          "Trok: A—",
+          "Unknown: Rock.",
+          "Trok: I mean, I'd be happy to stroll in there and, and see what we can find. And—",
+          "Ryu: I'm not sure it's strolling as much as dropping through a hole but—",
+          "Trok: What could possibly go wrong? I'll, uh, I'll lead with my trusty javelin."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The loose gem in the snake-headed statue",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1836",
+        "endUid": "u1846"
+      },
+      "lines": [
+        "%% u1836:0-163, u1837:0-160, u1838:0-108 %%",
+        "DM: And it's— it seems like now that you're, you're looking down, it seems like where that these creatures were perching on his arm, there's like a geometric design with, with like a gemstone that can be removed that almost looks like it's loose, like can be removed, and it looks like what they're trying to do is pull out this gem. Just a small, like not a very fancy gem. It's like a quartz, but it seems like it can be removed from its arm.",
+        "",
+        "%% u1839:0-157, u1840:0-12, u1841:0-162, u1842:0-226, u1843:0-38 %%",
+        "DM: You also notice it is— so it's— it almost looks like it's bottom half is, is a, is a— it's like blocky almost half formed. It's not clearly carved it's just a— I'm— almost like, like whoever carved it didn't— or however, the statue was made it, the— below its waist, nobody really cared about the detail. It's just like blocky legs and sort of, um, chunky unfinished stone, but then from the waist up it's this sort of half human half snake creature again with this sort of gold bands that loop around its arm and then this amethyst gem that's embedded in, in one of these gold bands, that seems slightly loose.",
+        "",
+        "%% u1844:0-23, u1845:0-10, u1846:0-144 %%",
+        "DM: Ryu, looking around, um, you don't, you don't see any traps anywhere Trok is about to step. I mean, you notice the same things about the statue that it, you know, it's this loose gem.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yes, Nerissa, make, make acrobatics check to drop off the rope, Trok and, and Ryu, make, well, Ryu, make a perception check. Trok, And the Trok you just kind of stare at the statue Okay, so Nerissa, you land without issue, I'm— graceful, gracefully on the ground.",
+          "DM: Trok, as you— so you look at this. It's like about your size right now. It's like 10 feet tall roughly.",
+          "Trok: Or five and.",
+          "Unknown: Yep.",
+          "DM: You're maybe slightly taller than it because you're more like 12 or 13 feet."
+        ],
+        "after": [
+          "DM: The— you do notice the gargoyles these, you know, they're cracked on the ground, um, they— so I mean, they, they each have, I have a sort of different design, right? There, um, you know, there are some of them have like grotesque faces are various things, but one thing that is—",
+          "DM: One thing that you notice is among the shattered bodies, um, what presumably was— what was not clearly obvious while you are fighting, but now that they're shatter on the ground is a small stone key like around each one's neck.",
+          "Ryu: I alerted the party to the fact that there are small set of keys around the neck.",
+          "Unknown: Please.",
+          "Ryu: Do they look like anybody— anybody found any locks?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Stone keys on the broken gargoyles",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1850",
+        "endUid": "u1858"
+      },
+      "lines": [
+        "%% u1850:0-224 %%",
+        "DM: One thing that you notice is among the shattered bodies, um, what presumably was— what was not clearly obvious while you are fighting, but now that they're shatter on the ground is a small stone key like around each one's neck.",
+        "",
+        "%% u1851:0-81 %%",
+        "Ryu: I alerted the party to the fact that there are small set of keys around the neck.",
+        "",
+        "%% u1852:0-7 %%",
+        "Unknown: Please.",
+        "",
+        "%% u1853:0-26, u1854:0-24 %%",
+        "Ryu: Do they look like anybody— anybody found any locks?",
+        "",
+        "%% u1855:0-71 %%",
+        "Nerissa: How many of them are like— are there any intact, an animated ones left?",
+        "",
+        "%% u1856:0-107 %%",
+        "DM: Now, there were two that were already broken when you entered, and then there are four that you just broke.",
+        "",
+        "%% u1857:0-82 %%",
+        "Kaleho: Are the broken ones missing— the ones that are pre-bro— are they missing their keys?",
+        "",
+        "%% u1858:0-4 %%",
+        "Unknown: Yes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You're maybe slightly taller than it because you're more like 12 or 13 feet.",
+          "DM: And it's— it seems like now that you're, you're looking down, it seems like where that these creatures were perching on his arm, there's like a geometric design with, with like a gemstone that can be removed that almost looks like it's loose, like can be removed, and it looks like what they're trying to do is pull out this gem. Just a small, like not a very fancy gem. It's like a quartz, but it seems like it can be removed from its arm.",
+          "DM: You also notice it is— so it's— it almost looks like it's bottom half is, is a, is a— it's like blocky almost half formed. It's not clearly carved it's just a— I'm— almost like, like whoever carved it didn't— or however, the statue was made it, the— below its waist, nobody really cared about the detail. It's just like blocky legs and sort of, um, chunky unfinished stone, but then from the waist up it's this sort of half human half snake creature again with this sort of gold bands that loop around its arm and then this amethyst gem that's embedded in, in one of these gold bands, that seems slightly loose.",
+          "DM: Ryu, looking around, um, you don't, you don't see any traps anywhere Trok is about to step. I mean, you notice the same things about the statue that it, you know, it's this loose gem.",
+          "DM: The— you do notice the gargoyles these, you know, they're cracked on the ground, um, they— so I mean, they, they each have, I have a sort of different design, right? There, um, you know, there are some of them have like grotesque faces are various things, but one thing that is—"
+        ],
+        "after": [
+          "Ryu: Also, to look for tracks of the woman that—",
+          "DM: Make us survival check.",
+          "DM: So, yes, you can see in the— it's not an obvious track, but there's definitely like a disturbed dust and rubble and things approaching this door here.",
+          "Unknown: Haha.",
+          "Ryu: Did they open the door?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "A recovered key opens the side door",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1952",
+        "endUid": "u1960"
+      },
+      "lines": [
+        "%% u1952:0-48 %%",
+        "DM: You open the door with the with one of the keys?",
+        "",
+        "%% u1953:0-5 %%",
+        "Trok: Yeah.",
+        "",
+        "%% u1954:0-42 %%",
+        "Nerissa: We sort of gather around it, perhaps with—",
+        "",
+        "%% u1955:0-45 %%",
+        "Ryu: Trok just goes first and then we follow Trok.",
+        "",
+        "%% u1956:0-22 %%",
+        "DM: Cool. Opening the door.",
+        "",
+        "%% u1957:0-61 %%",
+        "Trok: I think I've been nominated to bravely open door, so I do so.",
+        "",
+        "%% u1958:0-34, u1959:0-18, u1960:0-76 %%",
+        "DM: The door swings open uneventfully into a passageway. Well, actually not really. It's, it's actually not really a passageway, it's a—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Trok: Now, okay, good.",
+          "DM: Because it only lasts for a minute, so Trok returns to.",
+          "Unknown: Normal size.",
+          "DM: So, you—",
+          "Trok: My voice goes up an octave."
+        ],
+        "after": [
+          "DM: It's just like a— it's like a plain small room. In one corner, there is a spiral staircase that descends down and then in the opposite— so it's like a 10 by 10 room.",
+          "DM: In, in one— here, I can, like, I've got a little space up here, I can, I can draw what it looks like. So you've got a 10 by 10 room. Door is here, you just come in. There's an open hallway this way. And there are stairs that go down here.",
+          "Trok: Huh. Any tracks on the floor? Disturbance in this, in the dust?",
+          "DM: This is— there's, this is a relatively clean room. It's a bit hard to tell. You can make a server— anybody wants to can make a survival check.",
+          "Trok: I'm in there first so I'll just have a look."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Mosaics of the earth lord and his worshippers",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2437",
+        "endUid": "u2466"
+      },
+      "lines": [
+        "%% u2437:0-72, u2438:0-16, u2439:0-71, u2440:0-103, u2441:0-103, u2442:0-5, u2443:0-68, u2444:0-42 %%",
+        "DM: Surrounding it along the entire walls here are a whole bunch of painted mosaics, reliefs. Some sort of mostly done with gems that seem to be depicting scenes of just like scenes of life, right? So there's like people bowing down before a creature that looks like, um, how would you describe it? It's blocky, looks like it's made of earth and stone, has no real legs, um, it's— it's— it seems to almost like lower body is sort of formless earth almost. But then his upper body is shaped as this—",
+        "",
+        "%% u2445:0-180, u2446:0-122, u2447:0-9, u2448:0-13, u2449:0-26 %%",
+        "DM: carved in stone earth creature holding up a big hammer. So there's like scenes of like sort of crudely drawn people kind of bowing down before this, I'm— bringing offerings, scenes of this what looks like this creature lifting his hand and, and shaping the earth, like creating a valley, flattening mountains, building— causing, like, irrigation canals to form.",
+        "",
+        "%% u2450:0-10, u2451:0-103 %%",
+        "DM: There are images depicting this creature, with its warhammer swinging down on the head of what looks like an orc.",
+        "",
+        "%% u2452:0-10, u2453:0-12, u2454:0-33, u2455:0-7 %%",
+        "DM: There are pictures of what seemed to be people farming, mining.",
+        "",
+        "%% u2456:0-88, u2457:0-118, u2458:0-38, u2459:0-66, u2460:0-10 %%",
+        "DM: There's pictures of what seemed to be humans trading with dwarves and then bringing the— trading food and then bringing what they trade to lay at the feet of this warhammer carrying earth and stone creature. And this is like all around the walls. Here, this sort of just mosaic just showing all of this in a, in a, in a— know—",
+        "",
+        "%% u2461:0-141, u2462:0-5, u2463:0-40, u2464:0-88, u2465:0-75, u2466:0-15 %%",
+        "DM: Sort of every surface. ((Containers behind the statue))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Yeah.",
+          "DM: So, you come out and a large, a large room that seems to be faintly lit by sort of a blue glow that's emanating from, from the walls.",
+          "Unknown: The room itself.",
+          "DM: Well, the first thing you notice is that, in the middle of the room there is what looks like an emaciated woman. Her— from her upper thighs below encased in stone. Empty water skin strewn next to her, I mean, not emaciated in like she's been starving for months sort of thing, but like a trapped without water for a day, maybe like. She turns to look as you enter. Um, she is, I mean, she looks like the description of Hiyasa.",
+          "DM: The, the room itself looks like a— ah, it looks there's like this enormous tomb altar or something with a, a statue large statue standing on top of it I'm—"
+        ],
+        "after": [
+          "DM: And as you begin to walk down here, let me put you all on here. So let's see. You can put yourselves where you want to be.",
+          "DM: This— the woman, Hiyasa, turns to you and yells in Common, “Watch out! he can turn the earth. He can turn the stone to mud and back again!”",
+          "Ryu: Where’s Seeker when you need them?",
+          "DM: And you are— you—",
+          "Ryu: Are What if it is Seeker?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The guardian rejects the party’s tribute",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2470",
+        "endUid": "u2560"
+      },
+      "lines": [
+        "%% u2470:0-15, u2471:0-40, u2472:0-32, u2473:0-44 %%",
+        "DM: This— the woman, Hiyasa, turns to you and yells in Common, “Watch out! he can turn the earth. He can turn the stone to mud and back again!”",
+        "",
+        "%% u2474:0-34, u2475:0-16, u2476:0-25, u2477:0-75, u2478:0-11 %%",
+        "((Tactical discussion and considering other offerings))",
+        "",
+        "%% u2479:0-54, u2480:0-55, u2481:0-86, u2482:0-45 %%",
+        "DM: Okay, the statue then begins to move. It steps forward four steps here, and then in a booming voice calls out in Terran, so the rest of you, those of you who speak, this will translate for Nerissa. “Who comes to disturb the rest of Yerkir-khor?”",
+        "",
+        "%% u2483:0-35 %%",
+        "Kaleho: Pretend to be one of his followers.",
+        "",
+        "%% u2484:0-74, u2485:0-20 %%",
+        "Trok: I say, “Everybody down.” I get myself a low like a snake, and I say in Terran, “We are the faithful.”",
+        "",
+        "%% u2486:0-70 %%",
+        "DM: “What tribute have you brought for a Yerkir-khor's tomb on this plane?”",
+        "",
+        "%% u2487:0-37 %%",
+        "Kaleho: Bring him your shells from the ocean.",
+        "",
+        "%% u2488:0-14 %%",
+        "Trok: Ah, good call.",
+        "",
+        "%% u2489:0-46, u2490:0-33, u2491:0-76, u2492:0-20 %%",
+        "Trok: I get three of my finest and relatively clean shells from lunch the day before, which, fortunately, I did not discard. “I bring you these beautiful calcified jewels of the ocean.”",
+        "",
+        "%% u2493:0-77, u2494:0-16, u2495:0-52, u2496:0-70 %%",
+        "DM: Is the statues eyes begin to turn red and it takes another step forward, says, “Worthless trash. You would insult a lord of earth with such garbage! I asked again, what tribute have you brought? You claim to be faithful.”",
+        "",
+        "%% u2497:0-2, u2498:0-7, u2499:0-40, u2500:0-15, u2501:0-40, u2502:0-3, u2503:0-18, u2504:0-6, u2505:0-8, u2506:0-15, u2507:0-17, u2508:0-46 %%",
+        "((Tactical discussion and considering other offerings))",
+        "",
+        "%% u2509:0-30, u2510:0-32 %%",
+        "Ryu: Ryu takes from, from his pouch, like a pearl, like big-ass pearl.",
+        "",
+        "%% u2511:0-26 %%",
+        "Trok: Trok grates out this word.",
+        "",
+        "%% u2512:0-15, u2513:0-39 %%",
+        "DM: Taps over here. So you're, you're like offering this up?",
+        "",
+        "%% u2514:0-26 %%",
+        "Ryu: I show it from a distance.",
+        "",
+        "%% u2515:0-28, u2516:0-50, u2517:0-3, u2518:0-8, u2519:0-31, u2520:0-34 %%",
+        "Ryu: And then, offering, Ryu says, “From the deepest oceans, one of the rarest pearls.” And I guess— was the roll it— what did he do? He shows it out, he just shows it.",
+        "",
+        "%% u2521:0-15, u2522:0-43, u2523:0-5, u2524:0-33 %%",
+        "((Tactical discussion and considering other offerings))",
+        "",
+        "%% u2525:0-44, u2526:0-27, u2527:0-26 %%",
+        "Ryu: Yeah, so I'll just hold it, hold it like this and see if he's interested. See the reaction that bro.",
+        "",
+        "%% u2528:0-23, u2529:0-13, u2530:0-46 %%",
+        "DM: He pauses for a moment, looks at you. “You would insult me with our enemies cast off.”",
+        "",
+        "%% u2531:0-27, u2532:0-10, u2533:0-20, u2534:0-26, u2535:0-26, u2536:0-29, u2537:0-64, u2538:0-34, u2539:0-18, u2540:0-24, u2541:0-20, u2542:0-2 %%",
+        "((Tactical discussion and considering other offerings))",
+        "",
+        "%% u2543:0-71, u2544:0-6 %%",
+        "Kaleho: A merfolk artifact that I have found and treasured, it is a small worn Bible.",
+        "",
+        "%% u2545:0-22 %%",
+        "Trok: Yeah, is it a gemstone?",
+        "",
+        "%% u2546:0-75, u2547:0-17 %%",
+        "Kaleho: No, it is a Bible, but it means a lot to me, and it has merfolk vibes, looks like a well worn—",
+        "",
+        "%% u2548:0-41, u2549:0-7, u2550:0-47 %%",
+        "Kaleho: He doesn't even know. Kaleho doesn't know. As far as it says it's part of his [garbled] merfolk.",
+        "",
+        "%% u2551:0-57, u2552:0-15, u2553:0-5, u2554:0-11 %%",
+        "((Tactical discussion and considering other offerings))",
+        "",
+        "%% u2555:0-83, u2556:0-48 %%",
+        "DM: That statue like then like looks again at you, as you hold this up and he says, I'm— like he seems to be getting angrier and angrier.",
+        "",
+        "%% u2557:0-8, u2558:0-37, u2559:0-2 %%",
+        "((Tactical discussion and considering other offerings))",
+        "",
+        "%% u2560:0-80 %%",
+        "DM: “You would defile the tomb of my master with the leavings of our ancient enemies.”",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: There are images depicting this creature, with its warhammer swinging down on the head of what looks like an orc.",
+          "DM: There are pictures of what seemed to be people farming, mining.",
+          "DM: There's pictures of what seemed to be humans trading with dwarves and then bringing the— trading food and then bringing what they trade to lay at the feet of this warhammer carrying earth and stone creature. And this is like all around the walls. Here, this sort of just mosaic just showing all of this in a, in a, in a— know—",
+          "DM: Sort of every surface. And then behind the enormous statue that sort of standing on the front of this tomb like structure, there are six jars. Each maybe four feet tall, and each one with a stopper are made of a different gemstone, so there's one that's like quartz, one that's like a bluish green stone, one that's a purple stone, one that's a red stone, different gems.",
+          "DM: And as you begin to walk down here, let me put you all on here. So let's see. You can put yourselves where you want to be."
+        ],
+        "after": [
+          "Ryu: “Okay, look, look I have, I have something. I have an offering for you.” I throw a spear at him. I throw my spear.",
+          "Trok: Oh, man, we gotta get up off the floor, you guys.",
+          "Kaleho: You try yeah.",
+          "Trok: No, no, seriously about the floor because of the sticky mud.",
+          "Ryu: Tim, I get Blu in here?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The guardian’s defeat and the escape from the mud",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2561",
+        "endUid": "u3432"
+      },
+      "lines": [
+        "%% u2561:0-109 %%",
+        "Ryu: “Okay, look, look I have, I have something. I have an offering for you.” I throw a spear at him. I throw my spear.",
+        "",
+        "%% u2562:0-47, u2563:0-13, u2564:0-49, u2565:0-11, u2566:0-23, u2567:0-28, u2568:0-3, u2569:0-39, u2570:0-81, u2571:0-6, u2572:0-20, u2573:0-8, u2574:0-5, u2575:0-49, u2576:0-14, u2577:0-23, u2578:0-50, u2579:0-9, u2580:0-104, u2581:0-65, u2582:0-24, u2583:0-13, u2584:0-60, u2585:0-11, u2586:0-53, u2587:0-23, u2588:0-28, u2589:0-14, u2590:0-125, u2591:0-5, u2592:0-29, u2593:0-5, u2594:0-30, u2595:0-44, u2596:0-33, u2597:0-59, u2598:0-21, u2599:0-25, u2600:0-8, u2601:0-70, u2602:0-59, u2603:0-41, u2604:0-7, u2605:0-28, u2606:0-50, u2607:0-127, u2608:0-22, u2609:0-34, u2610:0-37, u2611:0-8, u2612:0-60, u2613:0-84, u2614:0-27, u2615:0-24, u2616:0-5, u2617:0-15, u2618:0-8, u2619:0-22, u2620:0-10, u2621:0-78, u2622:0-70, u2623:0-22, u2624:0-3, u2625:0-2, u2626:0-9, u2627:0-24, u2628:0-47, u2629:0-3, u2630:0-2, u2631:0-81, u2632:0-5, u2633:0-5, u2634:0-5, u2635:0-34, u2636:0-95, u2637:0-34, u2638:0-32, u2639:0-104, u2640:0-24, u2641:0-3, u2642:0-114, u2643:0-13, u2644:0-120, u2645:0-23, u2646:0-28, u2647:0-70, u2648:0-33, u2649:0-61, u2650:0-3, u2651:0-11, u2652:0-3, u2653:0-7, u2654:0-44, u2655:0-46, u2656:0-4, u2657:0-24, u2658:0-35, u2659:0-29, u2660:0-3, u2661:0-172, u2662:0-13, u2663:0-57, u2664:0-3, u2665:0-25, u2666:0-34, u2667:0-3, u2668:0-26, u2669:0-17, u2670:0-113, u2671:0-3, u2672:0-35, u2673:0-25, u2674:0-41, u2675:0-72, u2676:0-98, u2677:0-8, u2678:0-5, u2679:0-49, u2680:0-71, u2681:0-98, u2682:0-16, u2683:0-88, u2684:0-65, u2685:0-38, u2686:0-77, u2687:0-22, u2688:0-80, u2689:0-22, u2690:0-75, u2691:0-38, u2692:0-12, u2693:0-45, u2694:0-12, u2695:0-13, u2696:0-29, u2697:0-52, u2698:0-15, u2699:0-60, u2700:0-4, u2701:0-19, u2702:0-3, u2703:0-3, u2704:0-18, u2705:0-10, u2706:0-10, u2707:0-27, u2708:0-21, u2709:0-10, u2710:0-63, u2711:0-34, u2712:0-19, u2713:0-59, u2714:0-41, u2715:0-4, u2716:0-23, u2717:0-79, u2718:0-6, u2719:0-4, u2720:0-17, u2721:0-5, u2722:0-6, u2723:0-15, u2724:0-13, u2725:0-5, u2726:0-25, u2727:0-7, u2728:0-20, u2729:0-9, u2730:0-10, u2731:0-37, u2732:0-5, u2733:0-25, u2734:0-8, u2735:0-8, u2736:0-3, u2737:0-5, u2738:0-208, u2739:0-47, u2740:0-14, u2741:0-42, u2742:0-13, u2743:0-36, u2744:0-149, u2745:0-4, u2746:0-14, u2747:0-6, u2748:0-13, u2749:0-54, u2750:0-7, u2751:0-65, u2752:0-136, u2753:0-12, u2754:0-42, u2755:0-18, u2756:0-13, u2757:0-13, u2758:0-79, u2759:0-102, u2760:0-65, u2761:0-81, u2762:0-5, u2763:0-13, u2764:0-19, u2765:0-7, u2766:0-32, u2767:0-36, u2768:0-35, u2769:0-5, u2770:0-15, u2771:0-5, u2772:0-20, u2773:0-60, u2774:0-5, u2775:0-18, u2776:0-63, u2777:0-3, u2778:0-30, u2779:0-4, u2780:0-13, u2781:0-23, u2782:0-5, u2783:0-11, u2784:0-53, u2785:0-32, u2786:0-110, u2787:0-35, u2788:0-19, u2789:0-5, u2790:0-107, u2791:0-7, u2792:0-21, u2793:0-94, u2794:0-3, u2795:0-44, u2796:0-48, u2797:0-10, u2798:0-5, u2799:0-17, u2800:0-6, u2801:0-26, u2802:0-84, u2803:0-8, u2804:0-58, u2805:0-15, u2806:0-14, u2807:0-57, u2808:0-32, u2809:0-22, u2810:0-67, u2811:0-19, u2812:0-20, u2813:0-7, u2814:0-20, u2815:0-61, u2816:0-88, u2817:0-6, u2818:0-35, u2819:0-39, u2820:0-50, u2821:0-102, u2822:0-3, u2823:0-19, u2824:0-38, u2825:0-30, u2826:0-29, u2827:0-19, u2828:0-23, u2829:0-18, u2830:0-53, u2831:0-89, u2832:0-32, u2833:0-27, u2834:0-36, u2835:0-5, u2836:0-102, u2837:0-6, u2838:0-19, u2839:0-5, u2840:0-15, u2841:0-130, u2842:0-5, u2843:0-51, u2844:0-27, u2845:0-45, u2846:0-78, u2847:0-30, u2848:0-13, u2849:0-38, u2850:0-4, u2851:0-8, u2852:0-49, u2853:0-58, u2854:0-5, u2855:0-7, u2856:0-16, u2857:0-6, u2858:0-10, u2859:0-21, u2860:0-40, u2861:0-9, u2862:0-14, u2863:0-22, u2864:0-32, u2865:0-77, u2866:0-81, u2867:0-16, u2868:0-14, u2869:0-106, u2870:0-19, u2871:0-86, u2872:0-32, u2873:0-56, u2874:0-48, u2875:0-32, u2876:0-42, u2877:0-29, u2878:0-52, u2879:0-30, u2880:0-17, u2881:0-40, u2882:0-37, u2883:0-26, u2884:0-75, u2885:0-26, u2886:0-8, u2887:0-77, u2888:0-20, u2889:0-56, u2890:0-26, u2891:0-47, u2892:0-13, u2893:0-8, u2894:0-48, u2895:0-24, u2896:0-7, u2897:0-12, u2898:0-63, u2899:0-31, u2900:0-50, u2901:0-80, u2902:0-19, u2903:0-36, u2904:0-5, u2905:0-9, u2906:0-18, u2907:0-28, u2908:0-21, u2909:0-26, u2910:0-14, u2911:0-29, u2912:0-33, u2913:0-6, u2914:0-4, u2915:0-33, u2916:0-12, u2917:0-6, u2918:0-23, u2919:0-16, u2920:0-2, u2921:0-61, u2922:0-20, u2923:0-64, u2924:0-28, u2925:0-4, u2926:0-7, u2927:0-55, u2928:0-3, u2929:0-144, u2930:0-57, u2931:0-23, u2932:0-33, u2933:0-21, u2934:0-7, u2935:0-6, u2936:0-18, u2937:0-19, u2938:0-3, u2939:0-23, u2940:0-9, u2941:0-90, u2942:0-50, u2943:0-6, u2944:0-34, u2945:0-34, u2946:0-35, u2947:0-41, u2948:0-3, u2949:0-74, u2950:0-14, u2951:0-52, u2952:0-18, u2953:0-28, u2954:0-58, u2955:0-27, u2956:0-25, u2957:0-61, u2958:0-28, u2959:0-100, u2960:0-110, u2961:0-140, u2962:0-18, u2963:0-10, u2964:0-9, u2965:0-3, u2966:0-88, u2967:0-37, u2968:0-37, u2969:0-117, u2970:0-22, u2971:0-95, u2972:0-24, u2973:0-21, u2974:0-10, u2975:0-46, u2976:0-80, u2977:0-17, u2978:0-5, u2979:0-25, u2980:0-39, u2981:0-11, u2982:0-33, u2983:0-30, u2984:0-63, u2985:0-40, u2986:0-24, u2987:0-20, u2988:0-23, u2989:0-31, u2990:0-35, u2991:0-43, u2992:0-24, u2993:0-54, u2994:0-19, u2995:0-32, u2996:0-24, u2997:0-20, u2998:0-3, u2999:0-57, u3000:0-3, u3001:0-77, u3002:0-32, u3003:0-36, u3004:0-57, u3005:0-5, u3006:0-34, u3007:0-32, u3008:0-4, u3009:0-19, u3010:0-31, u3011:0-12, u3012:0-15, u3013:0-17, u3014:0-52, u3015:0-24, u3016:0-3, u3017:0-31, u3018:0-8, u3019:0-15, u3020:0-28, u3021:0-4, u3022:0-5, u3023:0-13, u3024:0-7, u3025:0-21, u3026:0-13, u3027:0-16, u3028:0-3, u3029:0-19, u3030:0-53, u3031:0-29, u3032:0-17, u3033:0-9, u3034:0-19, u3035:0-45, u3036:0-19, u3037:0-90, u3038:0-27, u3039:0-14, u3040:0-4, u3041:0-14, u3042:0-10, u3043:0-49, u3044:0-60, u3045:0-7, u3046:0-21, u3047:0-36, u3048:0-97, u3049:0-3, u3050:0-68, u3051:0-51, u3052:0-126, u3053:0-20, u3054:0-48, u3055:0-5, u3056:0-153, u3057:0-10, u3058:0-25, u3059:0-69, u3060:0-32, u3061:0-73, u3062:0-19, u3063:0-4, u3064:0-20, u3065:0-8, u3066:0-52, u3067:0-36, u3068:0-3, u3069:0-4, u3070:0-59, u3071:0-13, u3072:0-20, u3073:0-23, u3074:0-24, u3075:0-54, u3076:0-41, u3077:0-3, u3078:0-5, u3079:0-10, u3080:0-5, u3081:0-55, u3082:0-57, u3083:0-16, u3084:0-26, u3085:0-77, u3086:0-171, u3087:0-15, u3088:0-26, u3089:0-73, u3090:0-13, u3091:0-20, u3092:0-20, u3093:0-23, u3094:0-39, u3095:0-3, u3096:0-20, u3097:0-7, u3098:0-10, u3099:0-3, u3100:0-62, u3101:0-9, u3102:0-52, u3103:0-47, u3104:0-16, u3105:0-35, u3106:0-147, u3107:0-62, u3108:0-87, u3109:0-13, u3110:0-64, u3111:0-130, u3112:0-3, u3113:0-4, u3114:0-7, u3115:0-42, u3116:0-17, u3117:0-12, u3118:0-14, u3119:0-41, u3120:0-16, u3121:0-6, u3122:0-11, u3123:0-21, u3124:0-4, u3125:0-39, u3126:0-67, u3127:0-49, u3128:0-10, u3129:0-96, u3130:0-6, u3131:0-90, u3132:0-50, u3133:0-17, u3134:0-20, u3135:0-22, u3136:0-63, u3137:0-32, u3138:0-38, u3139:0-35, u3140:0-20, u3141:0-136, u3142:0-32, u3143:0-68, u3144:0-6, u3145:0-41, u3146:0-48, u3147:0-53, u3148:0-22, u3149:0-29, u3150:0-31, u3151:0-8, u3152:0-23, u3153:0-7, u3154:0-17, u3155:0-66, u3156:0-32, u3157:0-29, u3158:0-3, u3159:0-47, u3160:0-7, u3161:0-10, u3162:0-4, u3163:0-24, u3164:0-10, u3165:0-31, u3166:0-20, u3167:0-10, u3168:0-54, u3169:0-16, u3170:0-57, u3171:0-55, u3172:0-37, u3173:0-26, u3174:0-4, u3175:0-46, u3176:0-8, u3177:0-12, u3178:0-43, u3179:0-33, u3180:0-35, u3181:0-50, u3182:0-59, u3183:0-13, u3184:0-21, u3185:0-4, u3186:0-5, u3187:0-7, u3188:0-26, u3189:0-13, u3190:0-28, u3191:0-17, u3192:0-33, u3193:0-17, u3194:0-62, u3195:0-113, u3196:0-29, u3197:0-6, u3198:0-11, u3199:0-24, u3200:0-17, u3201:0-11, u3202:0-24, u3203:0-25, u3204:0-32, u3205:0-31, u3206:0-103, u3207:0-11, u3208:0-4, u3209:0-22, u3210:0-4, u3211:0-6, u3212:0-9, u3213:0-4, u3214:0-20, u3215:0-24, u3216:0-79, u3217:0-4, u3218:0-73, u3219:0-51, u3220:0-125, u3221:0-140, u3222:0-125, u3223:0-20, u3224:0-8, u3225:0-41, u3226:0-15, u3227:0-41, u3228:0-9, u3229:0-5, u3230:0-103, u3231:0-3, u3232:0-102, u3233:0-57, u3234:0-18, u3235:0-54, u3236:0-12, u3237:0-34, u3238:0-17, u3239:0-48, u3240:0-10, u3241:0-5, u3242:0-10, u3243:0-7, u3244:0-19, u3245:0-46, u3246:0-89, u3247:0-21, u3248:0-17 %%",
+        "((Combat mechanics, routine attacks, and escape procedures))",
+        "",
+        "%% u3249:0-128, u3250:0-9, u3251:0-11, u3252:0-27 %%",
+        "DM: So, she’ll just scramble, she will break free ((Movement mechanics))",
+        "",
+        "%% u3253:0-8, u3254:0-6, u3255:0-21, u3256:0-28, u3257:0-19, u3258:0-5, u3259:0-8, u3260:0-22, u3261:0-7, u3262:0-43, u3263:0-41, u3264:0-45, u3265:0-3 %%",
+        "((Combat mechanics, routine attacks, and escape procedures))",
+        "",
+        "%% u3266:0-16 %%",
+        "Trok: I'm unconscious.",
+        "",
+        "%% u3267:0-32, u3268:0-43, u3269:0-92, u3270:0-22 %%",
+        "DM: That— he has gone to pick you up because you are unconscious and you shrink. ((Movement mechanics)) and just toss you into the mud. ",
+        "",
+        "%% u3271:0-49, u3272:0-46, u3273:0-25, u3274:0-26, u3275:0-17, u3276:0-39, u3277:0-36, u3278:0-72, u3279:0-27, u3280:0-45, u3281:0-38, u3282:0-9, u3283:0-59, u3284:0-33, u3285:0-33, u3286:0-197, u3287:0-8, u3288:0-13, u3289:0-13, u3290:0-39, u3291:0-22, u3292:0-11, u3293:0-73, u3294:0-17, u3295:0-54 %%",
+        "((Combat mechanics, routine attacks, and escape procedures))",
+        "",
+        "%% u3296:0-20, u3297:0-29 %%",
+        "DM: And then as he dies, the stone begins to solidify.",
+        "",
+        "%% u3298:0-33, u3299:0-32, u3300:0-56, u3301:0-11, u3302:0-18, u3303:0-43, u3304:0-18, u3305:0-42, u3306:0-72, u3307:0-51, u3308:0-34, u3309:0-13, u3310:0-13, u3311:0-12, u3312:0-25, u3313:0-31, u3314:0-36, u3315:0-66, u3316:0-4, u3317:0-8, u3318:0-13 %%",
+        "((Combat mechanics, routine attacks, and escape procedures))",
+        "",
+        "%% u3319:0-23, u3320:0-52, u3321:0-220 %%",
+        "Ryu: Yeah, you see like, like Ryu takes his hand and kind of opens it up and then blows. And then you see this little kind of swarm of like little small fishes start swimming over to, to Trok and they start swirling around them, and Trok, you feel that the spirit of sardines and suddenly reanimating you.",
+        "",
+        "%% u3322:0-34 %%",
+        "Trok: And they're like, wake up and like—",
+        "",
+        "%% u3323:0-49, u3324:0-24, u3325:0-23 %%",
+        "DM: ((Bonus-action mechanics)) So Trok is now awake. You're still restrained and trapped in the mud.",
+        "",
+        "%% u3326:0-46, u3327:0-39, u3328:0-30, u3329:0-16, u3330:0-36, u3331:0-40, u3332:0-54, u3333:0-3, u3334:0-39, u3335:0-17, u3336:0-27, u3337:0-4, u3338:0-50, u3339:0-76, u3340:0-15, u3341:0-36, u3342:0-112, u3343:0-29, u3344:0-47, u3345:0-3, u3346:0-25, u3347:0-3, u3348:0-18, u3349:0-30, u3350:0-16, u3351:0-32, u3352:0-61, u3353:0-26, u3354:0-11, u3355:0-6, u3356:0-58, u3357:0-20, u3358:0-66, u3359:0-19, u3360:0-89, u3361:0-90, u3362:0-58, u3363:0-26, u3364:0-24, u3365:0-19, u3366:0-90, u3367:0-51, u3368:0-12, u3369:0-9, u3370:0-45, u3371:0-4, u3372:0-5, u3373:0-12, u3374:0-4, u3375:0-17, u3376:0-35, u3377:0-23, u3378:0-26, u3379:0-39, u3380:0-8, u3381:0-13, u3382:0-85, u3383:0-15, u3384:0-20, u3385:0-23, u3386:0-9, u3387:0-3, u3388:0-32, u3389:0-6, u3390:0-56, u3391:0-24, u3392:0-32, u3393:0-153, u3394:0-10, u3395:0-73, u3396:0-32, u3397:0-34, u3398:0-78, u3399:0-147, u3400:0-39, u3401:0-5, u3402:0-4, u3403:0-40, u3404:0-12, u3405:0-18, u3406:0-25, u3407:0-12 %%",
+        "((Combat mechanics, routine attacks, and escape procedures))",
+        "",
+        "%% u3408:0-94, u3409:0-106 %%",
+        "DM: Pull— you, you see like, like so us— you all saw Trok go underneath the earth unconscious as the statue threw him and then these like sardines swarm underneath and then you just see like this muddy head—",
+        "",
+        "%% u3410:0-24 %%",
+        "Unknown: Emerged from the ground.",
+        "",
+        "%% u3411:0-65, u3412:0-25, u3413:0-6, u3414:0-25, u3415:0-4, u3416:0-30, u3417:0-31, u3418:0-12, u3419:0-25, u3420:0-3, u3421:0-11, u3422:0-14, u3423:0-13, u3424:0-118, u3425:0-18, u3426:0-12, u3427:0-40, u3428:0-33, u3429:0-67, u3430:0-11, u3431:0-4 %%",
+        "((Combat mechanics, routine attacks, and escape procedures))",
+        "",
+        "%% u3432:0-65 %%",
+        "Trok: Trok still covered in mud, but I'm not trapped and, and conscious.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: That statue like then like looks again at you, as you hold this up and he says, I'm— like he seems to be getting angrier and angrier.",
+          "Ryu: He says—",
+          "Trok: Everything's going according to plan.",
+          "Unknown: B.",
+          "DM: “You would defile the tomb of my master with the leavings of our ancient enemies.”"
+        ],
+        "after": [
+          "Ryu: Well, or else you just, just to get yourself out.",
+          "Unknown: Yeah.",
+          "Kaleho: I think we need to stop her from doing whatever the hell she's doing.",
+          "Ryu: Yeah, what?",
+          "Trok: That's a reasonable question of— what is she doing?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Hiyasa returns the jar and explains her expedition",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u3435",
+        "endUid": "u3541"
+      },
+      "lines": [
+        "%% u3435:0-69 %%",
+        "Kaleho: I think we need to stop her from doing whatever the hell she's doing.",
+        "",
+        "%% u3436:0-10 %%",
+        "Ryu: Yeah, what?",
+        "",
+        "%% u3437:0-50 %%",
+        "Trok: That's a reasonable question of— what is she doing?",
+        "",
+        "%% u3438:0-5 %%",
+        "Kaleho: Yeah.",
+        "",
+        "%% u3439:0-19 %%",
+        "Nerissa: What are you doing?",
+        "",
+        "%% u3440:0-5, u3441:0-15, u3442:0-5, u3443:0-60, u3444:0-44, u3445:0-13, u3446:0-23, u3447:0-68, u3448:0-51, u3449:0-21, u3450:0-15, u3451:0-58, u3452:0-28, u3453:0-3 %%",
+        "((Threat proposals, rules checks, and brief interruptions))",
+        "",
+        "%% u3454:0-58 %%",
+        "DM: Yeah, I will say no, you would— you notice what she's doing.",
+        "",
+        "%% u3455:0-15 %%",
+        "Ryu: What she doing?",
+        "",
+        "%% u3456:0-147 %%",
+        "DM: No, she just like, you know, she just ran over, looked around, saw everybody distracted by combat and like tried to sneak something into her backpack.",
+        "",
+        "%% u3457:0-18, u3458:0-42, u3459:0-26, u3460:0-9 %%",
+        "((Threat proposals, rules checks, and brief interruptions))",
+        "",
+        "%% u3461:0-42 %%",
+        "Ryu: And I just yell at her, “What are you doing?”",
+        "",
+        "%% u3462:0-7 %%",
+        "Trok: Oh, man.",
+        "",
+        "%% u3463:0-36, u3464:0-24 %%",
+        "DM: She looks around sort of sheepishly. “Just, just, just escaping.”",
+        "",
+        "%% u3465:0-140 %%",
+        "Ryu: Yeah, you know, you're, you're, you're putting— you're putting stuff out of your— in your bag after we've all nearly died trying to save your ass.",
+        "",
+        "%% u3466:0-30 %%",
+        "Trok: Listen, we're, we're friends of—",
+        "",
+        "%% u3467:0-19 %%",
+        "Ryu: Your bag right now!",
+        "",
+        "%% u3468:0-23 %%",
+        "Trok: We're friends of Orden.",
+        "",
+        "%% u3469:0-45 %%",
+        "DM: She puts it back. She looks sort of like, “Fine.”",
+        "",
+        "%% u3470:0-28, u3471:0-35, u3472:0-4, u3473:0-25, u3474:0-21, u3475:0-25, u3476:0-5 %%",
+        "((Threat proposals, rules checks, and brief interruptions))",
+        "",
+        "%% u3477:0-44 %%",
+        "Ryu: How about we leave you here, how about that?",
+        "",
+        "%% u3478:0-56, u3479:0-4 %%",
+        "Trok: Now, now, Ryu, thanks for saving my scaly butt once again. I'm—",
+        "",
+        "%% u3480:0-48 %%",
+        "Trok: Listen here, so we're just here to take you home.",
+        "",
+        "%% u3481:0-3 %%",
+        "((Threat proposals, rules checks, and brief interruptions))",
+        "",
+        "%% u3482:0-37 %%",
+        "DM: Seriously, someone came to rescue me?",
+        "",
+        "%% u3483:0-167, u3484:0-39, u3485:0-23, u3486:0-15, u3487:0-35 %%",
+        "Trok: Well, I've known Orden for a long time and he's always told me stories about, about you and, and he let me, let me know that you were in trouble, and that maybe there was a little cash, to be had along the way, from my friends and so here we are, so we better get out of here, I think.",
+        "",
+        "%% u3488:0-88, u3489:0-115 %%",
+        "DM: You can see like her whole body, just like the tension drains out of it, totally relaxes. “I thought you are just random tomb raiders like me. It's going to try and grab some loot and run before you noticed.”",
+        "",
+        "%% u3490:0-91 %%",
+        "Ryu: You get to leave with your life, and we believe it's pretty much how this is going to work.",
+        "",
+        "%% u3491:0-70, u3492:0-6 %%",
+        "Trok: Yeah, I think you got yourself in a little, a little over your own head. Howdy—",
+        "",
+        "%% u3493:0-40, u3494:0-6 %%",
+        "Kaleho: How did you, how did you hear about this grave?",
+        "",
+        "%% u3495:0-24, u3496:0-28, u3497:0-22, u3498:0-31 %%",
+        "((Threat proposals, rules checks, and brief interruptions))",
+        "",
+        "%% u3499:0-14, u3500:0-38, u3501:0-18, u3502:0-26, u3503:0-32 %%",
+        "DM: Says, look at— obviously— oh, you know, no need to get— need to get angry. I'll tell you what I know. Or at least what I can tell you.",
+        "",
+        "%% u3504:0-10, u3505:0-8, u3506:0-103, u3507:0-10, u3508:0-51 %%",
+        "DM: There are— she, she takes out a blank piece of paper from her backpack and beginning sketching something. She says, “I saw— I saw a map. Had a few places marked. It's like three little X’s.”",
+        "",
+        "%% u3509:0-10, u3510:0-26, u3511:0-32, u3512:0-17 %%",
+        "DM: These are long abandoned tombs from before the Mawar even came here, from what I know.",
+        "",
+        "%% u3513:0-12, u3514:0-10, u3515:0-47, u3516:0-56, u3517:0-25 %%",
+        "DM: I would not, would not want to invite the displeasure of the gods for turning over the graves of our ancestors, but I thought, “Well, this would be safe.”",
+        "",
+        "%% u3518:0-134 %%",
+        "DM: And if there's no sign of anybody haven't gotten in here before, which, as far as I could tell nobody's found this place in centuries.",
+        "",
+        "%% u3519:0-39, u3520:0-23, u3521:0-11, u3522:0-31 %%",
+        "DM: Maybe there'd be some treasure. I could help my dad. He's had a tough life since his family abandoned him.",
+        "",
+        "%% u3523:0-51, u3524:0-75 %%",
+        "Trok: He has been running off and disappearing like that. Doesn't help. how did you get past the crazy blade in the, in the gargoyles?",
+        "",
+        "%% u3525:0-55 %%",
+        "DM: Well, the blade was obvious. You didn't see the trigger?",
+        "",
+        "%% u3526:0-51 %%",
+        "Trok: Really obvious. That's good for Hiyasa's it's point.",
+        "",
+        "%% u3527:0-30, u3528:0-10, u3529:0-32, u3530:0-5, u3531:0-14, u3532:0-77, u3533:0-20, u3534:0-27 %%",
+        "DM: Gargoyles just required speed. And I did have a little bit of assistance with— brought a few one use spell scrolls with me that knocked one out of the sky pretty quickly. Once I killed one, I saw the key and I just ran.",
+        "",
+        "%% u3535:0-65 %%",
+        "Trok: Where'd you get all this stuff, spell scrolls and a treasure map?",
+        "",
+        "%% u3536:0-51 %%",
+        "DM: I've been traveling for 10 years. I have my sources.",
+        "",
+        "%% u3537:0-28 %%",
+        "Trok: Like theft based sources or?",
+        "",
+        "%% u3538:0-30 %%",
+        "DM: How do you feel about Chardon?",
+        "",
+        "%% u3539:0-31 %%",
+        "Trok: Oh, I'm no great fan of Chardon.",
+        "",
+        "%% u3540:0-51 %%",
+        "DM: How do you feel that people who steal from Chardon?",
+        "",
+        "%% u3541:0-41 %%",
+        "Trok: Well, maybe the less said the better— who—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Trok: You can have long strider still because?",
+          "DM: Because when you landed, you are— yeah, you still have a long strider, so, so you have 20, you have like— to get out, yes.",
+          "Trok: Trok still covered in mud, but I'm not trapped and, and conscious.",
+          "Ryu: Well, or else you just, just to get yourself out.",
+          "Unknown: Yeah."
+        ],
+        "after": [
+          "Kaleho: Can I do some thieves' cant signaling towards her to see if she is fluent or aware, or whatever the—",
+          "DM: One— what do you mean? You're trying to like what?",
+          "DM: I'm— more like just us— it's more like way of marking things and it's not really a language exactly.",
+          "DM: So, it's just sort of— well, so, okay, so like official, like the sort of standard D&D rogues are like all part of some like globe spanning thieves guild that all speak a common language— doesn't actually make sense, for I think most— it's a very strange. I don't know like thieves’ guilds, but there's like a series of ways, you can mark traps and like this place is dangerous, that you sort of recognize, right?",
+          "Kaleho: I'm looking the features and says, “You've earned thieves' cant, a secret mix of dialect, jargon and code that allows you to hide messages and seemingly normal conversation.” I'm just trying to like feel her out, like, you know, I put out a signal and whatever like through verbal communication and does she just bite? Like, this— you signal, “Yes, I am of this world,” or is he just a normal naive adventurer?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "A pearl in the quartz-stoppered jar",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u3626",
+        "endUid": "u3638"
+      },
+      "lines": [
+        "%% u3626:0-33, u3627:0-17, u3628:0-6, u3629:0-34 %%",
+        "DM: Okay, so in the quartz, you find a— just us single pearl. Small, just one single small Pearl.",
+        "",
+        "%% u3630:0-84 %%",
+        "Trok: Surprising you didn't want a bigger one. Let's be, let's be a good, good thing to have.",
+        "",
+        "%% u3631:0-9 %%",
+        "Unknown: For them.",
+        "",
+        "%% u3632:0-138, u3633:0-28 %%",
+        "Kaleho: For the pearl— that catches Kaleho's eyes, because of the possible perfect merfolk oceanic connection, I do investigative check on that one. Appropriate check for it or—",
+        "",
+        "%% u3634:0-12, u3635:0-44, u3636:0-3, u3637:0-32 %%",
+        "DM: It's— I mean, sure, make them— make an investigation check. Um, yeah, it seems like just a Pearl.",
+        "",
+        "%% u3638:0-26 %%",
+        "Kaleho: Kaleho sighs, disappointed.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, I'm—",
+          "DM: Inside the amethyst is— a— it's not completely full. It's— sorry, it's mostly empty, um, it has a—",
+          "DM: I don't know, maybe 10 or so, I'm— just like big hunks of uncut like God, quartz, amethysts. Just kind of filling up the bottom that probably could be worth something if they were polished up nicely, but at the moment are sort of unrefined hunks of quartz and amethyst and yellow quartz and star quartz and things like that.",
+          "Trok: Guess the Crystal and Sky was the roof of a chamber of crystals, I would guess crystal sky. Interior of a geode.",
+          "Ryu: What's in the rest of them?"
+        ],
+        "after": [
+          "DM: That, so the yellow one is— it has in it— so let me see, how does this look? It almost looks like it's a, it's a hunk of like yellow quartz, but it seems to be faintly, faintly like glowing almost and there's like powder and dust that's kind of collecting around at, like there's something settled in the bottom of the, of the jar.",
+          "Ryu: Or is just like, you know, honestly, I can't be— I can't really tell whether any of this is valuable. I don't know Nerissa, if this is your? You want to try to figure this out, but this is kind of beyond me here. What’s going on with these rocks?",
+          "Nerissa: They're not scrolls, ancient poetry or— no, that's sort of more my—",
+          "Ryu: Anybody know stuff about rocks?",
+          "DM: Seeker when you need them?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Glowing yellow dust in a jar",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u3639",
+        "endUid": "u3644"
+      },
+      "lines": [
+        "%% u3639:0-27, u3640:0-13, u3641:0-76, u3642:0-47, u3643:0-97, u3644:0-63 %%",
+        "DM: That, so the yellow one is— it has in it— so let me see, how does this look? It almost looks like it's a, it's a hunk of like yellow quartz, but it seems to be faintly, faintly like glowing almost and there's like powder and dust that's kind of collecting around at, like there's something settled in the bottom of the, of the jar.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Trok: Surprising you didn't want a bigger one. Let's be, let's be a good, good thing to have.",
+          "Unknown: For them.",
+          "Kaleho: For the pearl— that catches Kaleho's eyes, because of the possible perfect merfolk oceanic connection, I do investigative check on that one. Appropriate check for it or—",
+          "DM: It's— I mean, sure, make them— make an investigation check. Um, yeah, it seems like just a Pearl.",
+          "Kaleho: Kaleho sighs, disappointed."
+        ],
+        "after": [
+          "Ryu: Or is just like, you know, honestly, I can't be— I can't really tell whether any of this is valuable. I don't know Nerissa, if this is your? You want to try to figure this out, but this is kind of beyond me here. What’s going on with these rocks?",
+          "Nerissa: They're not scrolls, ancient poetry or— no, that's sort of more my—",
+          "Ryu: Anybody know stuff about rocks?",
+          "DM: Seeker when you need them?",
+          "Trok: Once again."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Testing the obsidian jar’s bottomless interior",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3663",
+        "endUid": "u3674"
+      },
+      "lines": [
+        "%% u3663:0-43, u3664:0-33, u3665:0-31 %%",
+        "DM: And then the obsidian one when you open it, it looks like there is no bottom. It's just a hole straight down.",
+        "",
+        "%% u3666:0-5 %%",
+        "Trok: Whoa.",
+        "",
+        "%% u3667:0-21 %%",
+        "Nerissa: You pick that one up?",
+        "",
+        "%% u3668:0-5, u3669:0-31 %%",
+        "DM: Yeah, there's no hole on the outside.",
+        "",
+        "%% u3670:0-58 %%",
+        "Trok: And if you put a Shell into it, to hear it hit the bottom?",
+        "",
+        "%% u3671:0-24 %%",
+        "DM: You don't hear anything.",
+        "",
+        "%% u3672:0-65 %%",
+        "Trok: And then, if you tip it over, does the Shell come back out to you?",
+        "",
+        "%% u3673:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u3674:0-26 %%",
+        "Trok: No, that's not very useful.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Ryu: All of these—",
+          "DM: Whereas Delwath when you need them? Or Wazir, I think he also has detect magic.",
+          "Kaleho: Rogue, would I have any ability, like what's best to sell? I can even just kind of like background knowledge of—",
+          "DM: Wow, so—",
+          "DM: So, just to finish, so the ruby— ruby one has— ah, the Ruby one has— when you open it, it looks like— it almost looks like it's, it's filled with like a red liquid. It's like sort of there's almost like something sort of shimmering red floating at the top and it's filled nearly to the top with this sort of dark red liquid."
+        ],
+        "after": [
+          "Trok: It’s a one way bag of holding. Bag of perma holding when— I guess you could put stuff in there, that you didn't want permanently. Can drain the ocean, with it, or something?",
+          "Nerissa: Great for taxes.",
+          "Trok: To tax documents from 10 years.",
+          "Ryu: Yeah, should we take these back to town? With a—",
+          "Unknown: Timeout?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Magical finds and the obsidian jar’s destruction",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3717",
+        "endUid": "u3739"
+      },
+      "lines": [
+        "%% u3717:0-37, u3718:0-7, u3719:0-60 %%",
+        "DM: Three of these are magical: the pearl, um, the, the obsidian one with a hole to nowhere and the yellow dust.",
+        "",
+        "%% u3720:0-11, u3721:0-55, u3722:0-8, u3723:0-34, u3724:0-55, u3725:0-3, u3726:0-17, u3727:0-83, u3728:0-40, u3729:0-29, u3730:0-25, u3731:0-4, u3732:0-20, u3733:0-87, u3734:0-25, u3735:0-104 %%",
+        "((Identifying ordinary wine, coins, and treasure values))",
+        "",
+        "%% u3736:0-185, u3737:0-28, u3738:0-61, u3739:0-33 %%",
+        "DM: ((Value of ordinary treasure and spoiled wine)) actually, sorry, the obsidian— the obsidian one when you took it out of the tomb shattered. I forgot to mention that. So it is no longer anything. The Pearl is magical, but you don't know exactly what it does. And then there's the yellow dust.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Gotta check something here. I don't think he has identified— oh no, he does have identify.",
+          "Trok: This—",
+          "DM: Cuz he identify— oh no, he doesn't have identified, just as Detect Magic.",
+          "Ryu: Because that—",
+          "DM: But yeah, so the—"
+        ],
+        "after": [
+          "Kaleho: And we don't know the yellow dust does either.",
+          "DM: And so far nobody's like touched it or emptied it out or anything.",
+          "Ryu: We wrap there?",
+          "DM: Oh, yeah, it's quite late, um.",
+          "Kaleho: Do we give her the money or what? How— I'm just curious like my—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "The pearl restores a spell slot",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u3747",
+        "endUid": "u3749"
+      },
+      "lines": [
+        "%% u3747:0-70, u3748:0-36, u3749:0-86 %%",
+        "DM: I’ll say you eventually figure out that the pearl is a pearl of power which lets you restore a spell slot. So somebody can take that. ((Dividing ordinary treasure))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And so far nobody's like touched it or emptied it out or anything.",
+          "Ryu: We wrap there?",
+          "DM: Oh, yeah, it's quite late, um.",
+          "Kaleho: Do we give her the money or what? How— I'm just curious like my—",
+          "DM: Here, 600 gold. Just in the interest of not dragging things."
+        ],
+        "after": [
+          "DM: And you eventually managed to sort out the yellow dust, which is, I'm— a magical enchantment that's protecting a sheaf of papers written in a language, none of you understand. Where's that— which will be a mystery for another time.",
+          "Trok: During this—",
+          "DM: These are like ancient papers. It's like more than 1000 year old paper, so like even touching them they begin to crumble.",
+          "Trok: And there's like two other x's on Hiyasa’s map too so—",
+          "DM: And there's two other X’s on the map, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "The yellow enchantment protects ancient papers",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u3750",
+        "endUid": "u3757"
+      },
+      "lines": [
+        "%% u3750:0-68, u3751:0-58, u3752:0-46, u3753:0-27, u3754:0-27 %%",
+        "DM: And you eventually managed to sort out the yellow dust, which is, I'm— a magical enchantment that's protecting a sheaf of papers written in a language, none of you understand. Where's that— which will be a mystery for another time.",
+        "",
+        "%% u3755:0-12 %%",
+        "((Brief interruption))",
+        "",
+        "%% u3756:0-15, u3757:0-104 %%",
+        "DM: These are like ancient papers. It's like more than 1000 year old paper, so like even touching them they begin to crumble.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Ryu: We wrap there?",
+          "DM: Oh, yeah, it's quite late, um.",
+          "Kaleho: Do we give her the money or what? How— I'm just curious like my—",
+          "DM: Here, 600 gold. Just in the interest of not dragging things.",
+          "DM: I’ll say you eventually figure out that the pearl is a pearl of power which lets you restore a spell slot. So somebody can take that. You have 600 gold, you can decide how you want to divide up."
+        ],
+        "after": [
+          "Trok: And there's like two other x's on Hiyasa’s map too so—",
+          "DM: And there's two other X’s on the map, yeah.",
+          "Unknown: Nice.",
+          "Ryu: Let's loot more ancient treasure. Yeah.",
+          "Kaleho: Great dungeon crawl."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Hiyasa’s fee and the two other sites",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3765",
+        "endUid": "u3780"
+      },
+      "lines": [
+        "%% u3765:0-123, u3766:0-17 %%",
+        "DM: So, but just decide before we end for the day, decide how you're going to split up the gold. Are you giving any money to, to Hiyasa and Orden?",
+        "",
+        "%% u3767:0-32 %%",
+        "Ryu: I can, I can come from treasure.",
+        "",
+        "%% u3768:0-13 %%",
+        "Nerissa: To the Wazir.",
+        "",
+        "%% u3769:0-4 %%",
+        "Trok: Hmm.",
+        "",
+        "%% u3770:0-38, u3771:0-14, u3772:0-122 %%",
+        "Kaleho: I think she should get a finder's fee. Yeah, so let's, let's give her but 10% finder's fee, we split the rest among us. If anybody else wants to give more to the family, they can.",
+        "",
+        "%% u3773:0-18, u3774:0-36, u3775:0-23, u3776:0-6 %%",
+        "((Joking about a near-death bonus))",
+        "",
+        "%% u3777:0-48, u3778:0-108 %%",
+        "DM: Get 135 gold minus whatever you want to give to Orden. And 60 gold is actually a fairly— I mean, that's like, you know, two months salary, so that's not nothing.",
+        "",
+        "%% u3779:0-67, u3780:0-113 %%",
+        "DM: That's not as much as she was hoping. She, she is like, “Yeah, you know, I can— I'll tell you more about those other two places on the map, if you pay me.” That's like decision for another—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And there's two other X’s on the map, yeah.",
+          "Unknown: Nice.",
+          "Ryu: Let's loot more ancient treasure. Yeah.",
+          "Kaleho: Great dungeon crawl.",
+          "Ryu: Weren't more dungeon better."
+        ],
+        "after": [
+          "DM: And who wants the Pearl of Power?",
+          "Ryu: Cast spells so—",
+          "Trok: Tim.",
+          "Nerissa: Nerissa.",
+          "Nerissa: And we, as a pass through here, I'll take it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Nerissa takes the Pearl of Power",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3781",
+        "endUid": "u3787"
+      },
+      "lines": [
+        "%% u3781:0-33 %%",
+        "DM: And who wants the Pearl of Power?",
+        "",
+        "%% u3782:0-15 %%",
+        "Ryu: Cast spells so—",
+        "",
+        "%% u3783:0-4 %%",
+        "Trok: Tim.",
+        "",
+        "%% u3784:0-8 %%",
+        "Nerissa: Nerissa.",
+        "",
+        "%% u3785:0-13, u3786:0-31 %%",
+        "Nerissa: And we, as a pass through here, I'll take it.",
+        "",
+        "%% u3787:0-5 %%",
+        "Unknown: Yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Trok: Oh, and I get the died in the line of duty bonus also.",
+          "Ryu: No, definitely not that.",
+          "DM: I can—",
+          "DM: Get 135 gold minus whatever you want to give to Orden. And 60 gold is actually a fairly— I mean, that's like, you know, two months salary, so that's not nothing.",
+          "DM: That's not as much as she was hoping. She, she is like, “Yeah, you know, I can— I'll tell you more about those other two places on the map, if you pay me.” That's like decision for another—"
+        ],
+        "after": [
+          "Kaleho: And you got your papers to— or at least we could—",
+          "DM: Yeah, those we’ll give to Wazir and, and he will decipher them at some point, by the time we have episode four will be— it can build upon that.",
+          "Ryu: Add money to your character sheet. Oh, currency.",
+          "DM: Inventory, currency.",
+          "Kaleho: And how much will you?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Wazir will decipher the ancient papers",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3788",
+        "endUid": "u3791"
+      },
+      "lines": [
+        "%% u3788:0-49 %%",
+        "Kaleho: And you got your papers to— or at least we could—",
+        "",
+        "%% u3789:0-39, u3790:0-78, u3791:0-23 %%",
+        "DM: Yeah, those we’ll give to Wazir and, and he will decipher them at some point, by the time we have episode four will be— it can build upon that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Ryu: Cast spells so—",
+          "Trok: Tim.",
+          "Nerissa: Nerissa.",
+          "Nerissa: And we, as a pass through here, I'll take it.",
+          "Unknown: Yeah."
+        ],
+        "after": [
+          "Ryu: Add money to your character sheet. Oh, currency.",
+          "DM: Inventory, currency.",
+          "Kaleho: And how much will you?",
+          "DM: Hundred 35 gold each.",
+          "Unknown: Nice."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

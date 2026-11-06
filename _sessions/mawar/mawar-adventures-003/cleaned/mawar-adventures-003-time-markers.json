@@ -1,0 +1,489 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-003",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
+    "sessionYamlSha256": "5af9913c7253922a569245a9efe11e8c6fad24e8fce7febe51d456a36114d1e9",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-transcript.md",
+    "transcriptSha256": "bd0dc53073f9a7f4a30a467781b9179827c04c54ca64770aad983969d504acc2",
+    "yamlDates": {
+      "start": "1747-10-23",
+      "end": "1747-10-28"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0032",
+        "endUid": "u0037"
+      },
+      "reading": "Opening meal in Hamri occurs on an October evening.",
+      "evidence": [
+        {
+          "startUid": "u0032",
+          "endUid": "u0037",
+          "quote": "So it's evening, October, in the north, so it's dark early. And as you— as you, Kaleho, head out of town to meet your friend Trok from— from your previous adventures here and perhaps connect with Ryu as well."
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 10
+        },
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Spoken in the current scene; no absolute day or year supplied."
+      },
+      "actors": [
+        "Kaleho",
+        "Trok"
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0354",
+        "endUid": "u0355"
+      },
+      "reading": "After sleeping at Trok’s shack, Kaleho and Trok visit Ryu for breakfast the next morning.",
+      "evidence": [
+        {
+          "startUid": "u0349",
+          "endUid": "u0349",
+          "quote": "OK, so it's for the next morning."
+        },
+        {
+          "startUid": "u0350",
+          "endUid": "u0350",
+          "quote": "We smoke some gatza and go to sleep."
+        },
+        {
+          "startUid": "u0354",
+          "endUid": "u0355",
+          "quote": "The next morning you head up to, to Ryu's tower."
+        },
+        {
+          "startUid": "u0368",
+          "endUid": "u0369",
+          "quote": "And Kaleho heading up to your tower, Ryu, with a look of news or determination in their eyes first thing for breakfast."
+        },
+        {
+          "startUid": "u0515",
+          "endUid": "u0518",
+          "quote": "Well, the sun's rising."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t01",
+          "anchor": "The morning after the opening evening"
+        },
+        "precision": "approximate",
+        "basis": "Spoken in the current scene; no absolute day or year supplied."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "actors": [
+        "Kaleho",
+        "Trok",
+        "Ryu"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0595",
+        "endUid": "u0595"
+      },
+      "reading": "The Leviathan inquiry takes place at approximately 9 a.m., still the morning after the opening meal.",
+      "evidence": [
+        {
+          "startUid": "u0595",
+          "endUid": "u0595",
+          "quote": "You know, at this point it's not super early in the morning, so you've also got a few of the people who are been up since pre dawn working the fish markets or something you've now come in for their sort of midday meal at 9am or something like that, um."
+        }
+      ],
+      "time": {
+        "clock": "09:00",
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Spoken in the current scene; no absolute day or year supplied."
+      },
+      "actors": [
+        "Kaleho",
+        "Trok",
+        "Nerissa"
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0732",
+        "endUid": "u0735"
+      },
+      "reading": "After about half a day of upriver travel, the commonly used fishing path fades.",
+      "evidence": [
+        {
+          "startUid": "u0732",
+          "endUid": "u0735",
+          "quote": "But, you know, after maybe half a day the, the sort of obvious, um, continual trail, that is, you know, what the sort of people of Hamri going back and forth fades, but you can see, you know, with, with Trok and Ryu’s experience it's pretty easy to continue to follow what looks like a path made by— I guess, I guess, Ryu is really the expert tracker."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed",
+      "actors": [
+        "party"
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0740",
+        "endUid": "u0745"
+      },
+      "reading": "The party reaches thick forest by late afternoon as the sun sets, after roughly a solid day’s tracking; they camp when night falls.",
+      "evidence": [
+        {
+          "startUid": "u0740",
+          "endUid": "u0745",
+          "quote": "By, by late afternoon as the sun begins to set, the— you've got now sort of— it's pretty— you pretty quickly trap, you know, move from what is not exactly like cultivated land, obviously, but like clearly, you know, where people sometimes like log and fish and things like that right along the coast."
+        },
+        {
+          "startUid": "u0748",
+          "endUid": "u0750",
+          "quote": "Thick forest, you know, within maybe 15, 15 miles or so walk, you know, basically, what you get from a sort of solid days tracking."
+        },
+        {
+          "startUid": "u0751",
+          "endUid": "u0753",
+          "quote": "The trail seems to continue as night falls. But if you keep going at night, you won't, you know, you can't really track once it gets dark."
+        },
+        {
+          "startUid": "u0759",
+          "endUid": "u0766",
+          "quote": "So you make camp. Somebody roll a d20 for, for Ryu, for Ryu, for— I'm trying to get a campsite. That survival, okay. So yeah, I mean, no problem whatsoever. Ryu kind of looks around and it's like, “Yeah, that's, that'll be a nice sheltered area,” and set up camp."
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon / sunset",
+        "precision": "approximate",
+        "basis": "Spoken in the current scene; no absolute day or year supplied."
+      },
+      "completion": "completed",
+      "actors": [
+        "party"
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0773",
+        "endUid": "u0778"
+      },
+      "reading": "The first camp watch passes uneventfully; Kaleho wakes Trok around midnight.",
+      "evidence": [
+        {
+          "startUid": "u0773",
+          "endUid": "u0778",
+          "quote": "So the first part of the night passes and eventually— nothing unusual as you sit watch by the fire. Gets cold. It’s definitely— there's a winter chill in the air, after the sun is set. But as you shake Trok awake around midnight, report that you haven't seen anything."
+        }
+      ],
+      "time": {
+        "clock": "00:00",
+        "partOfDay": "midnight",
+        "precision": "approximate",
+        "basis": "Spoken in the current scene; no absolute day or year supplied."
+      },
+      "actors": [
+        "Kaleho",
+        "Trok"
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0785",
+        "endUid": "u0788"
+      },
+      "reading": "Trok wakes Nerissa for the last watch around 3 a.m.",
+      "evidence": [
+        {
+          "startUid": "u0785",
+          "endUid": "u0788",
+          "quote": "And as you go to wake Nerissa in the mid— middle of the night sort of, you know, pre dawn 3am, you also report no, nothing has happened."
+        }
+      ],
+      "time": {
+        "clock": "03:00",
+        "partOfDay": "predawn",
+        "precision": "approximate",
+        "basis": "Spoken in the current scene; no absolute day or year supplied."
+      },
+      "actors": [
+        "Trok",
+        "Nerissa"
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0789",
+        "endUid": "u0792"
+      },
+      "reading": "After the completed quiet overnight, Nerissa wakes everyone just past dawn.",
+      "evidence": [
+        {
+          "startUid": "u0789",
+          "endUid": "u0792",
+          "quote": "Kate, Nerissa, perception check. Also, a quiet night. There's a bit of a shift in the air as a cold wind starts to pick up from the— um, from the West in the middle of the night but you're pretty well sheltered from the, from the winds from the trees and the campsite that I'm sure you found. And again a quiet evening, as you wake everybody just past dawn. And report, nothing has happened overnight."
+        }
+      ],
+      "time": {
+        "partOfDay": "just past dawn",
+        "relative": {
+          "relation": "after",
+          "reference": "t05",
+          "anchor": "Dawn after the forest camp night"
+        },
+        "precision": "approximate",
+        "basis": "Spoken in the current scene; no absolute day or year supplied."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "actors": [
+        "party"
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0796",
+        "endUid": "u0801"
+      },
+      "reading": "The party travels another three to four miles after dawn, taking about one and a half to two hours, to the abandoned campsite.",
+      "evidence": [
+        {
+          "startUid": "u0796",
+          "endUid": "u0801",
+          "quote": "So after maybe another three, four miles up the river, not, not, you know, maybe an hour and a half, two hours or something as you, as the terrain is starting to get pretty difficult here tangled and, and dense. You— come to what is clearly a campsite. Also set in a fairly sheltered place, um."
+        }
+      ],
+      "duration": {
+        "min": 1.5,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s actual narrated travel interval"
+      },
+      "completion": "completed",
+      "actors": [
+        "party"
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0837",
+        "endUid": "u0839"
+      },
+      "reading": "Following the trail inland another eight to ten miles takes the better part of the day and brings the party to the tomb. The DM describes their total tracking as a day and a half.",
+      "evidence": [
+        {
+          "startUid": "u0837",
+          "endUid": "u0839",
+          "quote": "Oh, it's all— as, as you follow the trail, maybe 8–10 miles, which takes you a, you know, the better part of the day, to cover even, even with the advantage of the fact that somebody else has been through this terrain before."
+        },
+        {
+          "startUid": "u0840",
+          "endUid": "u0844",
+          "quote": "You come suddenly, to a clearing, not really a clearing. I'm— to a, to a place where some of the trees don't have room to grow because standing in the middle of the forest. Kong has been following the trail for a day and a half now."
+        }
+      ],
+      "duration": {
+        "text": "the better part of the day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Actual inland travel, not a forecast"
+      },
+      "completion": "completed",
+      "actors": [
+        "party"
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1229",
+        "endUid": "u1231"
+      },
+      "reading": "While the others set the rope, Kaleho spends about a minute getting his bearings in the upper hall.",
+      "evidence": [
+        {
+          "startUid": "u1229",
+          "endUid": "u1231",
+          "quote": "Okay, so Kaleho, you— your— as you're looking around, I'm— I mean, it's hard to see much from right where you are. But as you like, take a minute to kind of, you know, get your bearings, stand up, dust yourself off."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed",
+      "actors": [
+        "Kaleho"
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1946",
+        "endUid": "u1948"
+      },
+      "reading": "Trok’s first enlargement has expired after one minute, spanning the gargoyle fight and early aftermath.",
+      "evidence": [
+        {
+          "startUid": "u1399",
+          "endUid": "u1399",
+          "quote": "And in his excitement he kicks off his primal might ability doubling in size."
+        },
+        {
+          "startUid": "u1805",
+          "endUid": "u1805",
+          "quote": "It lasts a minute, so you've got probably another 30, 30–40 seconds."
+        },
+        {
+          "startUid": "u1946",
+          "endUid": "u1946",
+          "quote": "Well, at this point you've shrunk down."
+        },
+        {
+          "startUid": "u1948",
+          "endUid": "u1948",
+          "quote": "Because it only lasts for a minute, so Trok returns to."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM states the one-minute effect has now ended"
+      },
+      "completion": "completed",
+      "actors": [
+        "Trok"
+      ],
+      "note": "The estimated 30–40 seconds remaining immediately after combat is supporting evidence within this minute, not an additional duration."
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2088",
+        "endUid": "u2090"
+      },
+      "reading": "At the lower stairs, Trok says it is almost time for lunch.",
+      "evidence": [
+        {
+          "startUid": "u2088",
+          "endUid": "u2090",
+          "quote": "Okay, I can report that we seem to be underground in a tomb. There's no fish or shellfish anywhere. It's almost time for lunch."
+        }
+      ],
+      "time": {
+        "partOfDay": "almost lunchtime",
+        "precision": "approximate",
+        "basis": "Spoken in the current scene; no absolute day or year supplied."
+      },
+      "actors": [
+        "Trok"
+      ],
+      "note": "A character’s approximate clock remark; the DM gives no separate hour for the tomb scenes."
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u3474",
+        "endUid": "u3474"
+      },
+      "reading": "The burial-room mud has fully hardened after Trok escapes; shortly before escape, the DM estimated perhaps five seconds remained.",
+      "evidence": [
+        {
+          "startUid": "u3393",
+          "endUid": "u3393",
+          "quote": "The stone is beginning to solidify around your body. You feel you have maybe five seconds before this mud is no longer mud, and is a solid stone surface."
+        },
+        {
+          "startUid": "u3428",
+          "endUid": "u3432",
+          "quote": "Because when you landed, you are— yeah, you still have a long strider, so, so you have 20, you have like— to get out, yes."
+        },
+        {
+          "startUid": "u3474",
+          "endUid": "u3474",
+          "quote": "The mud is now stone."
+        }
+      ],
+      "completion": "completed",
+      "note": "The five-second warning is an approximate remaining deadline; the intervening dialogue and round count supply no measured duration."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u3699",
+        "endUid": "u3702"
+      },
+      "reading": "The party leaves the tomb and completes a few days’ return journey to the Leviathan Inn.",
+      "evidence": [
+        {
+          "startUid": "u3699",
+          "endUid": "u3702",
+          "quote": "Then you like head back up the stairs and, you know, go out the— managed to— somebody jumps up and pulls down the rope and you managed to climb up, and few days travel takes you back to the inn. Um."
+        },
+        {
+          "startUid": "u3708",
+          "endUid": "u3710",
+          "quote": "So, back at the inn, a few days later, um, yes, Wazir, like, as you carefully lug all this stuff back. [garbled] so Wazir as backpack just, you know, give you his— does he have?"
+        }
+      ],
+      "duration": {
+        "text": "a few days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM’s completed return montage, confirmed at the inn"
+      },
+      "completion": "completed",
+      "actors": [
+        "party",
+        "Hiyasa"
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "The transcript independently says October and late October (u0032–u0037, u0360–u0366). The year 1747 and opening day October 23 come from YAML; no day-of-month is spoken.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t15"
+    ],
+    "explanation": "Two successive overnights are established: the opening meal to breakfast, then the forest camp to dawn. Inland travel reaches the tomb the second travel day, also described as a day and a half of tracking. Conditional on YAML’s opening day this is October 25. The completed return lasts “a few days,” which can fit the October 28 endpoint but supplies no exact total. The preceding three-month gap and Hiyasa’s eight-day absence are background, not elapsed session play."
+  }
+}
