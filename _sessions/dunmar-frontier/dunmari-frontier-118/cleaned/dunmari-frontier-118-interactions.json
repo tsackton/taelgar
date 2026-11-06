@@ -1,0 +1,1307 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "1fcf1567a1aadfa3c28d1092ee3639ab977412faa6eb875eb3b0d2d4cef91002"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-entity-map.json",
+      "sha256": "46051bca510cb8bbd830e2c97707ed76a2acc6596dbd2bb3b0eb6eb6b7f3dd8c"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The crown’s changed form",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0044",
+        "endUid": "u0053"
+      },
+      "lines": [
+        "%% u0044:0-45, u0045:0-76, u0046:0-62, u0047:0-42 %%",
+        "DM: Since returning to Vindristjarna this morning you have been engaged in long discussions about what to do with the ancient, powerful artifact, seemingly created by a fragment of reality when the multiverse sprang into existence.",
+        "",
+        "%% u0048:0-3 %%",
+        "Riswynn: Me!",
+        "",
+        "%% u0049:0-99, u0050:0-7 %%",
+        "DM: A Crown of Purity that, when you faced Fausto, took the form of a dark iron crown, shadowed gemstone points.",
+        "",
+        "%% u0051:0-59, u0052:0-75, u0053:0-40 %%",
+        "DM: But since Riswynn has bound herself to it and attuned to it as of this evening, its form has shifted now to a silver crown adorned with rubies and points that resemble hammers."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It's been 10 days since Cloudspinner was recovered from a Cha'mutte's prison on the Circular Island, defeated Cha'mutte's spawn, the black dragon Ra'ghemdros, and put a new Emperor in charge of the refuge of humans from Hkar.",
+          "DM: It's been 8 days since you reached Drankor for the 1st time and faced off against your doppelgangers, defeating them in a hectic battle on the shore, and then proceeded to search through the ruins of Drankor for memorials of and mementos of the people that Apollyon, in his rule of terror towards the end of his reign as Emperor of Drankor, held and bound to his phylactery to grant him immortality.",
+          "DM: It's been 7 days since you destroyed that— 6 days since you destroyed the phylactery in the land of the dead, and then faced off against Fausto. Sorry! 7 days, 6 days since. You then proceeded to face Apollyon in his temple, fighting your way down to the to the inner sanctum beneath the great hall, memorializing Apollyon as he wished to be seen as a god, and killed him.",
+          "DM: That was this morning. You returned to Vindristjarna. Oh, no, sorry! That was 6 days ago. This morning you returned to Vindristjarna, as the the prison that had kept Apollyon locked away, unable to escape into the material world, unable to leave his temple in Drankor for 700 years or more, originally placed by Cha'mutte, finally broke, freeing you, who had become trapped by it as well as soon as you entered the temple.",
+          "DM: Since returning to Vindristjarna, [garbled]?"
+        ],
+        "after": [
+          "DM: Oh, they didn't work.",
+          "DM: So now, as you sit in the main dining hall on the upper deck of Vindristjarna, the sounds of the elf gardener Égnir tending the garden in the distance, and the 2 Halflings, Willow and Mica Copperharp left Milo and Tilly's crew for an adventure to see Drankor, to see the great deeds that might define this year in the halfling song of time— are quietly talking in a corner, and the rest of the crew sleeps. The ship gently moving aimlessly north as you debate and decide where to head.",
+          "DM: The 5 of you sit around the remains of a late meal, engaged in deep conversation and debate.",
+          "DM: And why don't you now describe everybody, just get back into the headspace and say what your character— [garbled]",
+          "Delwath: So Delwath is really involved in this conversation, right? He's like pacing back and forth. He's sort of making passionate arguments about how the crown shouldn't just be destroyed, and and we should use it for good. And you know, if, if only evil people use it, it'll only do evil."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Debating the crown’s place and purpose",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0066",
+        "endUid": "u0113"
+      },
+      "lines": [
+        "%% u0066:0-13, u0067:0-132, u0068:0-73, u0069:0-59 %%",
+        "Delwath: So Delwath is really involved in this conversation, right? He's like pacing back and forth. He's sort of making passionate arguments about how the crown shouldn't just be destroyed, and and we should use it for good. And you know, if, if only evil people use it, it'll only do evil.",
+        "",
+        "%% u0070:0-68, u0071:0-218, u0072:0-56, u0073:0-205, u0074:0-37, u0075:0-78 %%",
+        "((Physical character description))",
+        "",
+        "%% u0076:0-219, u0077:0-305, u0078:0-328, u0079:0-197, u0080:0-335 %%",
+        "Kenzo: In contrast, Kenzo looks like just super annoyed at, at Delwath's, like, you know, sudden enthusiasm about the crown and all the things that he wants to do with it. And like it's, it's just like—it's just like, you know, clearly, like so obsessed with like wanting to do good with it and so on. And, and Kenzo is like, like, nobody—where was all this when, you know, Kenzo had proposed very similar, like exactly the same thing, but, but Delwath was insistent on, on Kenzo giving it up, which he did. He was very, very glad to do— so it's just kind of like annoyed listening, but also as like, you know, kind of accepting the fact that, you know, we should do something, something positive with it. And I think, you know, as the various arguments and possibilities of where, where and how it could be used are emerging, you know, Kenzo's trying his hardest like not to be like super annoyed at Delwath, but like trying his best to like, you know, as dispassionately as possible listen to all of the various possibilities what we could do with the Crown now; ((Further table discussion))",
+        "",
+        "%% u0081:0-113, u0082:0-5, u0083:0-222 %%",
+        "Delwath: Sorry, can I just add one thing? Delwath will occasionally just break out of his eloquence and just like really like apologize, because, like, we just needed to know. No, he's like, ‘We needed to know, Kenzo. I didn't trust anybody but you to tell us if this was actually corrupted and evil or not. I, I, you know, I wish you had it back,’ like.",
+        "",
+        "%% u0084:0-7 %%",
+        "Kenzo: Had to—",
+        "",
+        "%% u0085:0-28 %%",
+        "Delwath: Know, right? We had to know.",
+        "",
+        "%% u0086:0-314 %%",
+        "Kenzo: Yeah, with with enough sincere apology that actually, genuinely softens Kenzo. And he's like, Okay, okay, all right, Delwath. I get it. I get it. We're all. We're all trying our best here. We're all trying to do our best. We'll we'll figure out a way. I appreciate that. That actually means a lot to me. Thank you.",
+        "",
+        "%% u0087:0-59, u0088:0-56, u0089:0-80, u0090:0-54 %%",
+        "Wellby: I think Wellby's a little bit introspective through it all. There's clearly like a great deal of affection, but also Wellby's been in enough markets with enough traders trying to sell enough things that I think he he knows a sales job when he hears it.",
+        "",
+        "%% u0091:0-3, u0092:0-105 %%",
+        "Wellby: And I think also, though, like—so there, there's affection in that, but I don't think it's, it's penetrating.",
+        "",
+        "%% u0093:0-20 %%",
+        "Delwath: Not buying it. Yeah.",
+        "",
+        "%% u0094:0-17 %%",
+        "Wellby: Exactly. Exactly.",
+        "",
+        "%% u0095:0-18 %%",
+        "Delwath: Fair, that's fair.",
+        "",
+        "%% u0096:0-60, u0097:0-56, u0098:0-178, u0099:0-82, u0100:0-322, u0101:0-27 %%",
+        "Wellby: But I think also like, like for Wellby, in an unexpected way, I think there's a—I don't know, we haven't done too much like halfling mythology pieces. But I think there's a way in which Wellby feels like he's getting in touch with this more like fundamentalist halfling roots, you know, of, of, like the sense of the world is continuous improvisation. And and this feeling that it's—that this is something that shouldn't be here, or it doesn't belong, or sort of breaks the rules of the system. You know, you're having this lovely acoustic jam, and then someone just comes in with a drum kit, you know? It's like, ‘No, no, these drums are going to be great.’ It's like, ‘Yeah, but that's not what we're doing.’ So there's—I think there's—",
+        "",
+        "%% u0102:0-84, u0103:0-135, u0104:0-36, u0105:0-50 %%",
+        "Wellby: And I think that takes him by surprise a little bit. I think he spent this last year or more like running into halflings and joining the company, but not with a sense of, of like identity or rootedness in that. And that’s— and the discovery of that is sort of—I don't know. It's given him a lot to think about.",
+        "",
+        "%% u0106:0-103 %%",
+        "Wellby: But I think he's not putting up too much of a fight. He's mostly just letting Delwath wear himself out.",
+        "",
+        "%% u0107:0-92, u0108:0-88, u0109:0-44, u0110:0-54, u0111:0-24, u0112:0-26, u0113:0-76 %%",
+        "Riswynn: Riswynn has been grateful to be back on Vindristjarna and in her shrine to the Bahrâzel, and feel that she is in a place of strength and support, to learn and and grow, to keep this power safe, to get advice from her gods, to, you know, rest and focus that, you know, we can together come up with a plan, and she can have the voices of the gods she trusts, and the friends she respects, to help shape this power."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But since Riswynn has bound herself to it and attuned to it as of this evening, its form has shifted now to a silver crown adorned with rubies and points that resemble hammers.",
+          "DM: Oh, they didn't work.",
+          "DM: So now, as you sit in the main dining hall on the upper deck of Vindristjarna, the sounds of the elf gardener Égnir tending the garden in the distance, and the 2 Halflings, Willow and Mica Copperharp left Milo and Tilly's crew for an adventure to see Drankor, to see the great deeds that might define this year in the halfling song of time— are quietly talking in a corner, and the rest of the crew sleeps. The ship gently moving aimlessly north as you debate and decide where to head.",
+          "DM: The 5 of you sit around the remains of a late meal, engaged in deep conversation and debate.",
+          "DM: And why don't you now describe everybody, just get back into the headspace and say what your character— [garbled]"
+        ],
+        "after": [
+          "DM: So at this point, as the conversation is going on, you notice 2 things happen at once.",
+          "DM: 1st Seeker's been quiet for the past 5 min or so, and Wellby, you noticed—so Seeker has a streak of white in his hair, which you may have explained some point. I don't remember if he explained.",
+          "DM: Well, there's a streak of white that, that wasn't—didn't used to be in his hair, but was in his hair when you guys met up again.",
+          "DM: And you notice, Wellby, that Seeker seems to have stopped talking, and his hair— this, like, color is seeping out of his hair, moving in a wavy lines from the streak on the back of his head that is white.",
+          "DM: And at the same time there's a shout. Égnir, the elf gardener, yells, yells for your attention: “Something’s out there!”"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Égnir calls the alarm",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0123",
+        "endUid": "u0124"
+      },
+      "lines": [
+        "%% u0123:0-94, u0124:0-22 %%",
+        "DM: And at the same time there's a shout. Égnir, the elf gardener, yells, yells for your attention: “Something’s out there!”"
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Riswynn has been grateful to be back on Vindristjarna and in her shrine to the Bahrâzel, and feel that she is in a place of strength and support, to learn and and grow, to keep this power safe, to get advice from her gods, to, you know, rest and focus that, you know, we can together come up with a plan, and she can have the voices of the gods she trusts, and the friends she respects, to help shape this power.",
+          "DM: So at this point, as the conversation is going on, you notice 2 things happen at once.",
+          "DM: 1st Seeker's been quiet for the past 5 min or so, and Wellby, you noticed—so Seeker has a streak of white in his hair, which you may have explained some point. I don't remember if he explained.",
+          "DM: Well, there's a streak of white that, that wasn't—didn't used to be in his hair, but was in his hair when you guys met up again.",
+          "DM: And you notice, Wellby, that Seeker seems to have stopped talking, and his hair— this, like, color is seeping out of his hair, moving in a wavy lines from the streak on the back of his head that is white."
+        ],
+        "after": [
+          "Wellby: Wellby mutters under his breath, “Well, we had a real nice afternoon, anyway.”",
+          "Delwath: No, Delwath will grab his shield and run out there.",
+          "Wellby: What's happening to Seeker's head?",
+          "DM: Seeker, kind of shakes his head and sort of tries to talk, and the words come out garbled and the color begins to fade from the rest of his face. Stretching down to his cloak, now, is turning into this like super desaturated gray instead of the brilliant Tollen red. It's beginning to—it's avoiding his beard for now, but it's beginning to ooze down his neck like the color is just draining out of his body from the top to the bottom. But he gets up and he runs with you. He seems to at least be aware. If—when he tries to speak, it sounds like it's like he's trying to speak 2 languages at once. The words come out super garbled.",
+          "DM: So you run out onto the deck of Vindristjarna in the night, and you can see maybe a hundred feet off in the distance, racing towards you, a bright amber, almost glowing orange stag, like horns, antlers, running through the sky."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Lirien seeks the Cloudspinner",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0133",
+        "endUid": "u0334"
+      },
+      "lines": [
+        "%% u0133:0-59, u0134:0-86, u0135:0-78 %%",
+        "DM: So you run out onto the deck of Vindristjarna in the night, and you can see maybe a hundred feet off in the distance, racing towards you, a bright amber, almost glowing orange stag, like horns, antlers, running through the sky.",
+        "",
+        "%% u0136:0-17, u0137:0-27, u0138:0-74, u0139:0-42 %%",
+        "DM: On it is a woman. She is willowy, flame-haired, bright, sort of not even red, like really sort of bright orange flame hair that seems to be subtly shifting in color.",
+        "",
+        "%% u0140:0-125, u0141:0-60, u0142:0-87, u0143:0-41, u0144:0-222 %%",
+        "DM: Her eyes are this sort of molten amber. They're burning bright in the dark. She's wearing a tattered cloak of deep red that's that's torn around the edges, and she seems like she's been— even from this distance you can see that there's sort of a tired look in her face. Her—her body language is drooped over the the the sort of flanks of this flaming orange stag, and she's holding in her hand—she doesn't seem—she's not really carrying much. She's just got her cloak and traveling clothes, all in sort of reds and, and yellows and embers.",
+        "",
+        "%% u0145:0-70, u0146:0-65, u0147:0-163 %%",
+        "DM: But all tattered. But she's carrying—she was holding in her hand this— from a, from this distance, from about a hundred feet, it's hard to— it's hard to tell exactly what it is, but it seems it's it's almost like there's a glow of sort of reddish light pulsing from this thing she's holding in her hand.",
+        "",
+        "%% u0148:0-35 %%",
+        "DM: And she's racing in your direction.",
+        "",
+        "%% u0149:0-71, u0150:0-16, u0151:0-74, u0152:0-27, u0153:0-36, u0154:0-34, u0155:0-28, u0156:0-66, u0157:0-40, u0158:0-20, u0159:0-51, u0160:0-95, u0161:0-71, u0162:0-5 %%",
+        "((Thought-reading checks and table discussion))",
+        "",
+        "%% u0163:0-53 %%",
+        "Wellby: I'll raise a hand and call out to her, “Friend or foe?”",
+        "",
+        "%% u0164:0-58, u0165:0-100, u0166:0-194, u0167:0-270 %%",
+        "DM: She clatters down onto the onto the deck of Vindristjarna. Clearly scared and looking around at you, holding—now you can see this strange crystalline, almost— It doesn't even really look like a gem. It's like a fine filigreed sort of network that's shaped like about like an egg almost like this big. There's all these fine lines that are made almost of it almost looks like it's it's like liquid gold that's kind of frozen into place, and it's blazing with a sort of pulsing light that seems to be that seems like it's pulsing faster and faster as she approaches, and when she lands on the deck it blazes into a solid glow.",
+        "",
+        "%% u0168:0-38, u0169:0-119 %%",
+        "DM: And she looks, and she says in Sylvan— I think Wellby speaks Sylvan, and Delwath speaks all languages. Didn't anybody else speak Sylvan? Seeker speaks Sylvan.",
+        "",
+        "%% u0170:0-13, u0171:0-28, u0172:0-55 %%",
+        "DM: “Where is she? Release her if you have her. I serve the Cloudspinner, and I will have her returned.”",
+        "",
+        "%% u0173:0-81 %%",
+        "DM: But her voice is shaking with fear. She says this holding up this glowing light.",
+        "",
+        "%% u0174:0-27, u0175:0-6, u0176:0-49, u0177:0-22, u0178:0-42, u0179:0-35, u0180:0-13, u0181:0-11, u0182:0-4, u0183:0-54, u0184:0-36, u0185:0-116, u0186:0-45, u0187:0-53, u0188:0-107, u0189:0-65, u0190:0-5, u0191:0-5, u0192:0-46, u0193:0-26, u0194:0-18, u0195:0-44 %%",
+        "((Thought-reading checks and table discussion))",
+        "",
+        "%% u0196:0-22, u0197:0-54, u0198:0-51, u0199:0-6, u0200:0-6 %%",
+        "Delwath: Just have no idea how. Okay, so Delwath will step forward and say, “She's here, but we do not know how to free her from her prison. Do you— of it?”",
+        "",
+        "%% u0201:0-72, u0202:0-32 %%",
+        "DM: Her face kind of falls, and she looks at this glowing light in her hand, and, and kind of shakes her head.",
+        "",
+        "%% u0203:0-53 %%",
+        "DM: “Let me, let me see her. I must know she is alive. Yes?”",
+        "",
+        "%% u0204:0-22 %%",
+        "Delwath: As far as we can tell.",
+        "",
+        "%% u0205:0-20 %%",
+        "Wellby: Who are you? To her?",
+        "",
+        "%% u0206:0-68 %%",
+        "DM: She, she looks around like she's sort of assessing you for a minute.",
+        "",
+        "%% u0207:0-20 %%",
+        "((Thought-reading checks and table discussion))",
+        "",
+        "%% u0208:0-41, u0209:0-41 %%",
+        "DM: “Can I trust them? Are they friend or foe? Why do they have Cloudspinner imprisoned?”",
+        "",
+        "%% u0210:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0211:0-36, u0212:0-90, u0213:0-92, u0214:0-39, u0215:0-16, u0216:0-101, u0217:0-31, u0218:0-55 %%",
+        "Delwath: Delwath will respond to her thought. “We freed—we found—we rescued, I guess, Cloudspinner from a island near here that no magic could leave, and we have just recently, a few days ago, flown our ship away from that place. But she was imprisoned in many prisons. It's a fiend of— I forget exactly the details of the fiend, but whatever Delwath remembers will say, right—guarding her, and a dragon, and we slew those, but this last prison of hers we have not unraveled yet.”",
+        "",
+        "%% u0219:0-63, u0220:0-57, u0221:0-25, u0222:0-55, u0223:0-51 %%",
+        "Delwath: “Who are you?” I—Delwath will sort of turn back Wellby's question. “We would not wish to bring any dangers into her presence. Who are you? Show us who? How can we trust you that you are not a spy or another one of her enemies trying to seek her whereabouts?”",
+        "",
+        "%% u0224:0-91, u0225:0-89, u0226:0-92, u0227:0-59, u0228:0-37 %%",
+        "DM: She kind of draws herself up sort of offended a little bit at this, and stands tall and and almost indignant, and she says, “How dare you? I am Lirien, lantern keeper of Redsun Watch, bearer of, as far as I know, the last Amberlight not captured by the evils on our borders, by the Gloomshaper, by Harrow or Wend. And I will have you know I have come to free the Cloudspinner.”",
+        "",
+        "%% u0229:0-81, u0230:0-95 %%",
+        "Delwath: Delwath will kind of glance over at Kenzo, like, “You think she's telling the truth?” I mean, he doesn't say that out loud, but like, you know, the little knowing glance, right? Like.",
+        "",
+        "%% u0231:0-37 %%",
+        "Kenzo: We're kind of like sounds impressive.",
+        "",
+        "%% u0232:0-73 %%",
+        "DM: I mean, I assume her thoughts are congruent with what she's saying. Yeah.",
+        "",
+        "%% u0233:0-27 %%",
+        "Kenzo: Read him. She's, she's—yeah.",
+        "",
+        "%% u0234:0-55, u0235:0-71, u0236:0-96, u0237:0-15, u0238:0-37, u0239:0-61, u0240:0-24, u0241:0-61 %%",
+        "((Thought-reading checks and table discussion))",
+        "",
+        "%% u0242:0-82, u0243:0-50, u0244:0-170 %%",
+        "DM: Oh, he doesn't have expertise. He's only plus 9. So that's 18, that's plenty good. She seems—I mean she's clearly like animated, and you don't get any sense of—there's, there's not—her voice is wavering, but only because she's pretty certain that if she has to fight you, she's immediately going to die.",
+        "",
+        "%% u0245:0-4, u0246:0-23, u0247:0-2 %%",
+        "((Thought-reading checks and table discussion))",
+        "",
+        "%% u0248:0-101 %%",
+        "DM: The entire vibe is like she's putting herself in what she thinks is basically a impossible situation.",
+        "",
+        "%% u0249:0-61 %%",
+        "((Thought-reading checks and table discussion))",
+        "",
+        "%% u0250:0-43 %%",
+        "DM: Lirien, the lantern keeper of Redsun Watch.",
+        "",
+        "%% u0251:0-5 %%",
+        "((Thought-reading checks and table discussion))",
+        "",
+        "%% u0252:0-30 %%",
+        "DM: Bearer of the last Amberlight.",
+        "",
+        "%% u0253:0-73, u0254:0-67, u0255:0-110, u0256:0-29, u0257:0-5, u0258:0-6, u0259:0-33 %%",
+        "Delwath: Delwath will sort of nod to her and sort of open his hand. “Lantern Keeper, you seem who you say, but you also seem fey, and as you might know—” or actually, he doesn't say “as you might know,” that's not what Delwath would say. “We have some experience with fey who are not as they seem.” Yeah. May I inspect your thoughts with magic?",
+        "",
+        "%% u0260:0-73, u0261:0-58 %%",
+        "DM: She sort of—her face turns slightly grim, and she says, “Do what you must, but the light of the Amberlight burns away all falsehoods.”",
+        "",
+        "%% u0262:0-56, u0263:0-24, u0264:0-36, u0265:0-57, u0266:0-5, u0267:0-55, u0268:0-5 %%",
+        "((Thought-reading checks and table discussion))",
+        "",
+        "%% u0269:0-88, u0270:0-56, u0271:0-35, u0272:0-58 %%",
+        "Delwath: Okay, Delwath will sort of nod after a minute and say, “Let's—she seems—her thoughts are— even her deep thoughts are aligned with her statements. I do not think she is another Agata.” Purposely saying, as an aside. Does she react to that name?",
+        "",
+        "%% u0273:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u0274:0-19 %%",
+        "((Thought-reading checks and table discussion))",
+        "",
+        "%% u0275:0-67, u0276:0-78, u0277:0-73, u0278:0-88, u0279:0-72 %%",
+        "Riswynn: I think, I think it's worth pointing out to her that—or Riswynn says, “The timing of your arrival has coincided with our expert on the Cloudspinner's realm going silent, do you see? Do you see our friend here and his color? We will gladly cooperate, trying to free the Cloudspinner, as that was already our goal. Perhaps you might advise anything that you can tell about his condition.”",
+        "",
+        "%% u0280:0-77, u0281:0-32, u0282:0-96 %%",
+        "DM: She, she turns, and she looks towards Seeker sort of fully for the 1st time. She holds up the, the Amberlight, and you can see, sort of faintly superimposed over Seeker what looks like a tall, courtly woman.",
+        "",
+        "%% u0283:0-18 %%",
+        "Riswynn: Courtly or portly?",
+        "",
+        "%% u0284:0-23 %%",
+        "DM: Court courtly, elegant.",
+        "",
+        "%% u0285:0-21 %%",
+        "Delwath: But not Cloudspinner.",
+        "",
+        "%% u0286:0-17 %%",
+        "DM: Not Cloudspinner.",
+        "",
+        "%% u0287:0-36 %%",
+        "Delwath: Yeah, what's what's Seeker thinking?",
+        "",
+        "%% u0288:0-27 %%",
+        "DM: “I know not what this means.”",
+        "",
+        "%% u0289:0-19, u0290:0-55, u0291:0-7, u0292:0-86, u0293:0-19, u0294:0-15 %%",
+        "DM: Seeker is thinking— His thoughts are sort of pinging back and forth between “Colors! How I have missed such brilliant colors. I cannot believe the colors.” And, “Who are you? What are you doing? Not this again!”",
+        "",
+        "%% u0295:0-7, u0296:0-7, u0297:0-49 %%",
+        "Delwath: It was— they're— there seems to be somebody else in Seeker's mind.",
+        "",
+        "%% u0298:0-36, u0299:0-44 %%",
+        "DM: “Please, I must see the Cloudspinner. Do not know how I can help your friend, but—”",
+        "",
+        "%% u0300:0-45 %%",
+        "Delwath: Yes, come, I'll lead her to the Cloudspinner.",
+        "",
+        "%% u0301:0-50 %%",
+        "Wellby: What's gonna happen when you see the Cloudspinner?",
+        "",
+        "%% u0302:0-14 %%",
+        "Delwath: Good question.",
+        "",
+        "%% u0303:0-6 %%",
+        "Riswynn: Let's.",
+        "",
+        "%% u0304:0-53 %%",
+        "Delwath: We can talk while we walk. We can talk while we walk.",
+        "",
+        "%% u0305:0-23 %%",
+        "Wellby: We can go the long way.",
+        "",
+        "%% u0306:0-5 %%",
+        "Riswynn: Yeah.",
+        "",
+        "%% u0307:0-9 %%",
+        "DM: I do not—",
+        "",
+        "%% u0308:0-6 %%",
+        "Riswynn: Let's.",
+        "",
+        "%% u0309:0-30, u0310:0-25 %%",
+        "DM: But I must see for myself that this is not a false hope.",
+        "",
+        "%% u0311:0-33 %%",
+        "DM: The light has rekindled for real.",
+        "",
+        "%% u0312:0-19 %%",
+        "Wellby: Who imprisoned her?",
+        "",
+        "%% u0313:0-14 %%",
+        "DM: I do not know.",
+        "",
+        "%% u0314:0-23 %%",
+        "Wellby: When did she disappear?",
+        "",
+        "%% u0315:0-62 %%",
+        "DM: I know the stories. You, you freed her, and yet you do not know?",
+        "",
+        "%% u0316:0-29 %%",
+        "Wellby: We've been a little bit busy.",
+        "",
+        "%% u0317:0-41, u0318:0-104, u0319:0-61, u0320:0-5 %%",
+        "((Thought-reading checks and table discussion))",
+        "",
+        "%% u0321:0-58, u0322:0-30, u0323:0-41, u0324:0-13, u0325:0-21, u0326:0-31, u0327:0-53 %%",
+        "DM: “I mean, of course there are rumors that she was betrayed, but it was before I came to be, many years before I came to Redsun Watch. She was gone. I only know the myths, when the Sunset Gate was whole, when the rivers of night did not flow into Amberglow.”",
+        "",
+        "%% u0328:0-62 %%",
+        "DM: And she looks kind of over her shoulder, holding up the light.",
+        "",
+        "%% u0329:0-58 %%",
+        "DM: “When the terrors of Harrow and Wend did not hunt the land.”",
+        "",
+        "%% u0330:0-20 %%",
+        "DM: She shakes her head.",
+        "",
+        "%% u0331:0-40, u0332:0-57, u0333:0-14, u0334:0-19 %%",
+        "DM: “Only the Cloudspinner can repair it now. The light has been dark for so long they'd given up hope. So I must see. Is she really here?”"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And at the same time there's a shout. Égnir, the elf gardener, yells, yells for your attention: “Something’s out there!”",
+          "Wellby: Wellby mutters under his breath, “Well, we had a real nice afternoon, anyway.”",
+          "Delwath: No, Delwath will grab his shield and run out there.",
+          "Wellby: What's happening to Seeker's head?",
+          "DM: Seeker, kind of shakes his head and sort of tries to talk, and the words come out garbled and the color begins to fade from the rest of his face. Stretching down to his cloak, now, is turning into this like super desaturated gray instead of the brilliant Tollen red. It's beginning to—it's avoiding his beard for now, but it's beginning to ooze down his neck like the color is just draining out of his body from the top to the bottom. But he gets up and he runs with you. He seems to at least be aware. If—when he tries to speak, it sounds like it's like he's trying to speak 2 languages at once. The words come out super garbled."
+        ],
+        "after": [
+          "Riswynn: Riswynn gets Kenzo's attention, or someone, and says, “6 of us are currently 7 with Seeker's guest. Perhaps that entity shouldn't meet the Cloudspinner right now.”",
+          "Wellby: That's a good call.",
+          "Riswynn: Couldn't— Can we have a little side diversion trip or something?",
+          "Delwath: Yeah, just take Seeker somewhere else at the moment, you mean?",
+          "Kenzo: I'll take Seeker to the the that room for people like him to go in a situation like this. Awesome."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The fall of Redsun Watch",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0372",
+        "endUid": "u0450"
+      },
+      "lines": [
+        "%% u0372:0-51, u0373:0-95, u0374:0-49, u0375:0-40, u0376:0-51, u0377:0-41 %%",
+        "DM: Okay, so let's return to Taelgar as Kenzo leads the quickly fading, quickly desaturating Seeker off, Well, Wellby, Riswynn, and Delwath lead Lirien, lantern keeper of red—Redsun Keep—of Redsun Watch, into the storage room in the basement of Vindristjarna, where still encased in her crystal is—or crystal prison—is the Cloudspinner.",
+        "",
+        "%% u0378:0-150, u0379:0-167 %%",
+        "DM: Translucent, cannot like really clearly see her features except the hair that is the sort of brilliant golden-hued, multicolored orange, red, yellow hair, sort of long and kind of almost wrapped around her naked body. And this light that Lirien is carrying flares, and it's even brighter as she steps into the hold.",
+        "",
+        "%% u0380:0-36, u0381:0-32 %%",
+        "DM: And she, Lirien, falls to her knees, and she looks up sort of in awe.",
+        "",
+        "%% u0382:0-5, u0383:0-34, u0384:0-20 %%",
+        "DM: “It is—” Blink. She sort of—“She's not dead. This is not a trick.”",
+        "",
+        "%% u0385:0-93, u0386:0-30 %%",
+        "DM: And then she turns, and she sort of almost bursts into tears, and turns and looks at you, and “I don't, don't know what to do.”",
+        "",
+        "%% u0387:0-20 %%",
+        "Delwath: How did you find us?",
+        "",
+        "%% u0388:0-47 %%",
+        "DM: She holds up this light. “Amberlight led me here.”",
+        "",
+        "%% u0389:0-49 %%",
+        "Delwath: When did it start leading you here? Just recently?",
+        "",
+        "%% u0390:0-37 %%",
+        "DM: A week ago, as you count time. Maybe.",
+        "",
+        "%% u0391:0-28, u0392:0-41 %%",
+        "Delwath: And where did you come from? Where is the—sorry, what was it? The red—",
+        "",
+        "%% u0393:0-12, u0394:0-16, u0395:0-20 %%",
+        "DM: Redsun Keep? Where is Redsun? Redsun Watch? Sorry.",
+        "",
+        "%% u0396:0-68, u0397:0-38 %%",
+        "DM: She kind of shakes her head, and she sits down clutching this light, takes a deep breath to steady herself.",
+        "",
+        "%% u0398:0-24, u0399:0-17, u0400:0-16, u0401:0-100, u0402:0-24 %%",
+        "DM: “Redsun Watch is no more. The dark took it. Harrow and Wend! A darkness flew through the cracks in the Sunset Gate like a glacier creeping slowly across the land and swallowed the watch.”",
+        "",
+        "%% u0403:0-27 %%",
+        "Delwath: So where did you come from?",
+        "",
+        "%% u0404:0-38, u0405:0-31, u0406:0-69, u0407:0-58, u0408:0-61, u0409:0-32 %%",
+        "DM: “I fled,” sort of starts sobbing quietly. “I don't know if anyone got out. I was not even important, just one of the lantern keepers. Wasn't like Thyrian Duskward, or anybody who could fight the darkness. But I didn't know what else to do. I had the Amberlight, and I ran when the keep was swallowed.”",
+        "",
+        "%% u0410:0-62 %%",
+        "Riswynn: And you've not had time to find any allies or other survivors?",
+        "",
+        "%% u0411:0-17, u0412:0-2, u0413:0-60, u0414:0-27 %%",
+        "DM: This was long ago— of— 100 years or more, hundreds of years, as you count time here. Is hard to say for certain.",
+        "",
+        "%% u0415:0-43 %%",
+        "Delwath: And where were you when the lantern flared?",
+        "",
+        "%% u0416:0-8, u0417:0-60, u0418:0-36, u0419:0-44, u0420:0-71 %%",
+        "DM: Fled to. I didn't know where else to go. I went to Everlight's Bloom. It's at least quiet there and light. And I didn't think any of the dark towers of the shadow that looms or the silence that follows would take me there.",
+        "",
+        "%% u0421:0-48, u0422:0-28, u0423:0-35 %%",
+        "DM: But then, a few years later, the light went out. And I guess I slowly forgot. Don't know if there's anybody left.",
+        "",
+        "%% u0424:0-6, u0425:0-73, u0426:0-43, u0427:0-4 %%",
+        "Delwath: Where? How did you come to find us? Where did you? Where did you just come from? You must have come from somewhere just now. Yes.",
+        "",
+        "%% u0428:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u0429:0-53 %%",
+        "Delwath: How did you come to be riding a stag through the sky?",
+        "",
+        "%% u0430:0-47, u0431:0-45 %%",
+        "DM: I crossed over the Bitterwine Oak in Emberwine because the light had flared and led me here.",
+        "",
+        "%% u0432:0-81 %%",
+        "DM: Yours—or she, I should say, was still for a long time, days, as you measure time.",
+        "",
+        "%% u0433:0-29, u0434:0-9, u0435:0-58 %%",
+        "Delwath: Delwath will sort of look at— we don't— I don't know what this changes unless others come looking.",
+        "",
+        "%% u0436:0-67, u0437:0-45 %%",
+        "Riswynn: You fear others finding you in this place? Is it less defended than dream sparkle land? Whatever you just said.",
+        "",
+        "%% u0438:0-18 %%",
+        "DM: Everlight's Bloom.",
+        "",
+        "%% u0439:0-15 %%",
+        "Riswynn: Yeah, that one.",
+        "",
+        "%% u0440:0-1, u0441:0-14, u0442:0-12 %%",
+        "DM: I— I do not know. I know that—",
+        "",
+        "%% u0443:0-19 %%",
+        "Delwath: Oh, sorry go ahead!",
+        "",
+        "%% u0444:0-73, u0445:0-31, u0446:0-52, u0447:0-23 %%",
+        "DM: Many of the refuges in the north fell to the Gloomshaper and I think that Night's Edge Keep fell as well. I came because I thought Cloudspinner could help me. But now I, I don't know.",
+        "",
+        "%% u0448:0-66, u0449:0-12, u0450:0-63 %%",
+        "DM: Maybe it was foolish to leave the safety of Golden Prince's realm. At least the— least the enemies of Cloudspinner would not hunt anyone there."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: But it's Seeker's aura and the panicked aura.",
+          "DM: Yeah, let's let's pause for a sec.",
+          "Delwath: Oh, hey! Eric!",
+          "Seeker: Hey! Everybody! Wow! Hi!",
+          "Kenzo: How are you?"
+        ],
+        "after": [
+          "Delwath: I think my fear would be that now that— that we have evidence standing before us, pointing it—pointing at this woman—that Cloudspinner has awoken something out in the world.",
+          "Riswynn: Fey something, yes.",
+          "Delwath: And for many, many years I think her location must have been hidden, right? The circular—the, the magic wards around the island would have stopped anything coming in or out. And wasn't she like in some extra-dimensional prison on top of that?",
+          "DM: Yes.",
+          "Delwath: Right. I can't remember. I was forgetting all the details, but she was like in some extra-dimensional prison, so she was doubly warded, right? She was in some demiplane guarded by a devil of some sort, and on top of that the demiplane was on a magic island through which no magic could penetrate."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Lady Eventide speaks through Seeker",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0474",
+        "endUid": "u0554"
+      },
+      "lines": [
+        "%% u0474:0-70, u0475:0-131, u0476:0-71, u0477:0-54 %%",
+        "DM: At this, at this moment, we're going to jump back to Seeker's safe room, where now, as Kenzo has been standing watching, the color has completely drained out of Seeker entirely, and now it looks like he's purely monochrome, except for the strand of hair that used to be white, which is now this sort of bright, burning sunset red.",
+        "",
+        "%% u0478:0-102, u0479:0-4, u0480:0-34, u0481:0-73, u0482:0-186, u0483:0-8, u0484:0-20 %%",
+        "((Aura checks and introductions))",
+        "",
+        "%% u0485:0-129 %%",
+        "DM: At the moment, as Seeker desaturates, you see that Seeker's aura kind of curls up and retreats, and the other aura blazes to life.",
+        "",
+        "%% u0486:0-20, u0487:0-96, u0488:0-61, u0489:0-82, u0490:0-90 %%",
+        "DM: And Seeker turns and blinks and speaks, and opens his eyes, and looks shocked and amazed, and then starts speaking in Sylvan, which I don't think Kenzo understands, and then tries Elvish, which I don't think Kenzo understands, and then tries Common, and she says in a woman's voice, like a high-pitched like falsetto voice coming out of Seeker's mouth:",
+        "",
+        "%% u0491:0-15, u0492:0-41, u0493:0-82 %%",
+        "DM: “So many colors. Even the night hides brilliant lights. The fire that—” She looks, and she sort of reaches up and touches Kenzo. “Kenzo, so alive!”",
+        "",
+        "%% u0494:0-39, u0495:0-49, u0496:0-29, u0497:0-26, u0498:0-3, u0499:0-26 %%",
+        "DM: And then Seeker sort of shakes his head, and Seeker slash this creature says, “But, but no. My Queen calls. Where is she? Where is the Cloudspinner? You, man, I am speaking to you!”",
+        "",
+        "%% u0500:0-17 %%",
+        "Kenzo: Is he talking to—",
+        "",
+        "%% u0501:0-29 %%",
+        "DM: Is this her talking to Kenzo?",
+        "",
+        "%% u0502:0-9 %%",
+        "Kenzo: Oh, shit.",
+        "",
+        "%% u0503:0-30 %%",
+        "Delwath: Seeker's like fully possessed.",
+        "",
+        "%% u0504:0-5 %%",
+        "Kenzo: Fuck.",
+        "",
+        "%% u0505:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u0506:0-107 %%",
+        "Kenzo: Kenzo conveys what's happening in the panic room to everyone telepathically. Thoughts on the approach here?",
+        "",
+        "%% u0507:0-82 %%",
+        "Riswynn: Let's bring fiery girl with us and go talk. Have a group conversation with Seeker.",
+        "",
+        "%% u0508:0-18 %%",
+        "Wellby: In the panic room.",
+        "",
+        "%% u0509:0-17 %%",
+        "Riswynn: In the territory.",
+        "",
+        "%% u0510:0-27 %%",
+        "((Aura checks and introductions))",
+        "",
+        "%% u0511:0-54 %%",
+        "DM: Quickly, Seeker says, “My lady called. Why do you delay?”",
+        "",
+        "%% u0512:0-54 %%",
+        "Kenzo: Oh, no! No delays, no delays. All happening right now.",
+        "",
+        "%% u0513:0-20 %%",
+        "DM: Seeker looks around.",
+        "",
+        "%% u0514:0-19 %%",
+        "DM: “What is this place?”",
+        "",
+        "%% u0515:0-59 %%",
+        "Kenzo: A very happy, wonderful place, safe place, very safe place.",
+        "",
+        "%% u0516:0-58 %%",
+        "DM: He—she stands up and thinks for a minute and reaches out.",
+        "",
+        "%% u0517:0-28, u0518:0-37, u0519:0-37 %%",
+        "DM: “I know this place. Yes, yes. I can see. Yes, I know it's that way,” and begins striding towards the door.",
+        "",
+        "%% u0520:0-59 %%",
+        "Kenzo: Kenzo, Kenzo does the thing where the—he, he stops them from—",
+        "",
+        "%% u0521:0-58 %%",
+        "DM: “Why do you delay? A lady-in-waiting must attend her queen.”",
+        "",
+        "%% u0522:0-110 %%",
+        "Kenzo: The Queen is coming here. Just hold! Hold tight for a moment. Where the fuck is everybody? Is everybody coming?",
+        "",
+        "%% u0523:0-39 %%",
+        "DM: Everybody gets into the room right now.",
+        "",
+        "%% u0524:0-67, u0525:0-17, u0526:0-7, u0527:0-4, u0528:0-17 %%",
+        "((Aura checks and introductions))",
+        "",
+        "%% u0529:0-52, u0530:0-65, u0531:0-212 %%",
+        "Delwath: We have a another presence seeking the Cloudspinner. I'd like you to talk to them and find out who they are, and then— like I'll buff her up a little bit, you know what? Like, you know, “You could do this. You know, you, you, you stood up to us. Nobody else could possibly be as dangerous. Do this, you know. Go for it. You'll be great.”",
+        "",
+        "%% u0532:0-26 %%",
+        "Riswynn: You're our fey ambassador.",
+        "",
+        "%% u0533:0-19 %%",
+        "DM: You throw open the—",
+        "",
+        "%% u0534:0-26 %%",
+        "Delwath: Shine your lantern on her.",
+        "",
+        "%% u0535:0-102, u0536:0-93 %%",
+        "DM: And and you see Seeker standing somehow trying to loom over Kenzo, failing completely and entirely, as Seeker is only a dwarf, and Kenzo is one of the most dexterous martial artists on the planet.",
+        "",
+        "%% u0537:0-28 %%",
+        "Kenzo: If I do say so myself? Yeah.",
+        "",
+        "%% u0538:0-69, u0539:0-43, u0540:0-32, u0541:0-24 %%",
+        "DM: And coming out of Seeker's mouth is this stream of, “Who are you? Who? Who are you to dare keep me from my queen? I insist we must go immediately. My place is by her side.”",
+        "",
+        "%% u0542:0-96, u0543:0-93, u0544:0-12, u0545:0-55, u0546:0-65 %%",
+        "DM: And Lirien just looks confused. The light, the Amberlight shining from her crystal lantern, shows 2 people superimposed: Seeker, and then on top, like superimposed on top of Seeker, there is a sort of tall— a tall, courtly woman wearing like flowing gowns, with— wearing like rings and a, and a choker around her, around her neck.",
+        "",
+        "%% u0547:0-72, u0548:0-46 %%",
+        "DM: And she is entirely also pale except for one strand of her hair that is the same color as the strand of Seeker's hair.",
+        "",
+        "%% u0549:0-166 %%",
+        "DM: Like her dress is basically like this muted gray and white, sort of like it was like—it's just you went in Photoshop and you just turned saturation to 0, basically.",
+        "",
+        "%% u0550:0-78 %%",
+        "Riswynn: You have come to our home, and your lady's name we know, but yours we do not.",
+        "",
+        "%% u0551:0-76, u0552:0-23 %%",
+        "DM: “I am Lady Eventide, and I demand to speak with the Cloudspinner immediately. Don't just stand there.”",
+        "",
+        "%% u0553:0-40 %%",
+        "Riswynn: Does that ring a bell for Lirien at all?",
+        "",
+        "%% u0554:0-35 %%",
+        "DM: Doesn't ring a bell for any of you."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: I'm with ya.",
+          "Delwath: It— If it's going to be perhaps we need to do something.",
+          "Wellby: We need to accelerate our plans for getting her out of that thing.",
+          "Delwath: Yeah.",
+          "Riswynn: He's probably best able to help."
+        ],
+        "after": [
+          "Delwath: Is it cheating to read the session notes about Lady Eventide?",
+          "DM: Slightly. Yes, you're there.",
+          "Wellby: Seeker's, the only one who would actually, who's actually there. Right? I don't know. What's the worst thing that can happen when they see each other? Let's see how it goes.",
+          "Delwath: I'll look over at Lirien and Lady Eventide. I'll introduce—I'll introduce Lady Eventide to Lirien, the keeper of the Fred— I remember her titles, but I've forgotten them—in, in Redsun Watch, Redsun—",
+          "DM: And watch—lantern, lantern keeper of Redsun Watch."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The prison and the Prismwell",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0559",
+        "endUid": "u0610"
+      },
+      "lines": [
+        "%% u0559:0-43, u0560:0-79, u0561:0-74 %%",
+        "Delwath: I'll look over at Lirien and Lady Eventide. I'll introduce—I'll introduce Lady Eventide to Lirien, the keeper of the Fred— I remember her titles, but I've forgotten them—in, in Redsun Watch, Redsun—",
+        "",
+        "%% u0562:0-50 %%",
+        "DM: And watch—lantern, lantern keeper of Redsun Watch.",
+        "",
+        "%% u0563:0-55, u0564:0-36, u0565:0-65 %%",
+        "Delwath: Are you familiar with Redsun Watch, too, Lady Eventide? She has also come seeking your lady. There is no, there's no rush to speak with her. She's imprisoned.",
+        "",
+        "%% u0566:0-47 %%",
+        "DM: I heard her call. What do you mean, imprisoned?",
+        "",
+        "%% u0567:0-47, u0568:0-20, u0569:0-24 %%",
+        "Delwath: Well, she was in 3 prisons, kind of nested, like we got her out of 2, but the 3rd one's a bit—",
+        "",
+        "%% u0570:0-27 %%",
+        "DM: And you left her in the 3rd?",
+        "",
+        "%% u0571:0-59 %%",
+        "Delwath: Well, do you know how to break free—break her out of that?",
+        "",
+        "%% u0572:0-15 %%",
+        "DM: Take me to her.",
+        "",
+        "%% u0573:0-69 %%",
+        "Delwath: Okay, but you're not very nice about this. Try, try honey next time.",
+        "",
+        "%% u0574:0-33 %%",
+        "DM: Seeker, Seeker holds up his hand.",
+        "",
+        "%% u0575:0-49, u0576:0-55, u0577:0-58 %%",
+        "DM: “I would love the beautiful golden color of straw, the deep ambers of a nice wildflower clover honey, the layered golden browns. Do you see anything like that here?”",
+        "",
+        "%% u0578:0-18, u0579:0-11 %%",
+        "Delwath: It was a metaphor. Come, come.",
+        "",
+        "%% u0580:0-35, u0581:0-86, u0582:0-47 %%",
+        "DM: Seeker storms off through the door, going down, knowing the way to the basement where Cloudspinner is, and then just stops like almost shocked, running into a glass wall.",
+        "",
+        "%% u0583:0-4, u0584:0-33 %%",
+        "DM: “How? No, I, I heard her, and the light.”",
+        "",
+        "%% u0585:0-39, u0586:0-32, u0587:0-30 %%",
+        "Delwath: Did you just hear her like moments ago, or has it taken you some time to worm your way into our friend?",
+        "",
+        "%% u0588:0-11 %%",
+        "DM: “Minutes ago.”",
+        "",
+        "%% u0589:0-95, u0590:0-9, u0591:0-23, u0592:0-19 %%",
+        "DM: She turns and she looks. “You, Lirien, you said your name is? Where is, where is Thyrian? Where is Aelirios? You have an Amberlight. Where are the rest?”",
+        "",
+        "%% u0593:0-84, u0594:0-34, u0595:0-45, u0596:0-51 %%",
+        "DM: She turns—Lirien turns, and like breaking down in tears, “I, I think they're all dead. Taken. Gloomshaper took the Refuges. Harrow and Wend broke through the Sunset Gate. I fled. It's all falling apart,” she says in tears.",
+        "",
+        "%% u0597:0-54, u0598:0-258 %%",
+        "Delwath: Delwath, like, you know, whisper to her, like, you know, “We can, we can fix this, you know. Don't, don't, I know it's that—” Like a little encouraging, like, you know, “Don't, don't, don't despair, and you know, don't, don't take this personally. She's just not, you know, she's just expressing her grief in her own way.”",
+        "",
+        "%% u0599:0-34 %%",
+        "DM: So 2 things happen at once again.",
+        "",
+        "%% u0600:0-30, u0601:0-22, u0602:0-42 %%",
+        "DM: First, Lirien yells in terror, “My steed is in danger!” and begins running up the stairs, and then—",
+        "",
+        "%% u0603:0-64, u0604:0-31, u0605:0-27 %%",
+        "((Plans to wake Faldrak))",
+        "",
+        "%% u0606:0-22, u0607:0-81 %%",
+        "DM: The other thing is the— as that's happening, Seeker turns and puts, puts his hand up against the crystal.",
+        "",
+        "%% u0608:0-30, u0609:0-50 %%",
+        "DM: “We have to find the Prismwell. I think it's the only way,” kind of shakes her head.",
+        "",
+        "%% u0610:0-35 %%",
+        "DM: “If only I hadn't forgotten so much.”"
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Does that ring a bell for Lirien at all?",
+          "DM: Doesn't ring a bell for any of you.",
+          "Delwath: Is it cheating to read the session notes about Lady Eventide?",
+          "DM: Slightly. Yes, you're there.",
+          "Wellby: Seeker's, the only one who would actually, who's actually there. Right? I don't know. What's the worst thing that can happen when they see each other? Let's see how it goes."
+        ],
+        "after": [
+          "Riswynn: Prism.",
+          "Delwath: Prism.",
+          "DM: Prism.",
+          "Riswynn: Okay.",
+          "Delwath: Like a crystal that breaks light, presumably that will then break free the other crystal that she's trapped in in some fashion."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Lirien’s death in the shadow attack",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "present"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0749",
+        "endUid": "u2309"
+      },
+      "lines": [
+        "%% u0749:0-152, u0750:0-77 %%",
+        "DM: Now all you can really see is darkness, although you see—you can see the shape of this claws beginning to form in this flying creature that seems to be face and arms emerging out of what looks like a gargantuan cloud of darkness.",
+        "",
+        "%% u0751:0-6, u0752:0-36, u0753:0-15, u0754:0-49, u0755:0-5, u0756:0-20, u0757:0-22, u0758:0-16, u0759:0-8, u0760:0-34, u0761:0-5, u0762:0-34, u0763:0-21, u0764:0-67, u0765:0-58, u0766:0-9, u0767:0-49, u0768:0-19, u0769:0-64, u0770:0-34, u0771:0-94, u0772:0-56, u0773:0-5, u0774:0-3, u0775:0-5, u0776:0-5, u0777:0-4, u0778:0-30, u0779:0-25, u0780:0-49, u0781:0-162, u0782:0-13 %%",
+        "((Combat and encounter debrief))",
+        "",
+        "%% u0783:0-73, u0784:0-57, u0785:0-87 %%",
+        "DM: However, as the darkness swirls around the bodies of this golden stag and Lirien, the shadows begin to climb over them, and as they both fall to the ground, their bodies disintegrate, and shades rise from their corpses.",
+        "",
+        "%% u0786:0-5, u0787:0-15, u0788:0-41, u0789:0-65, u0790:0-53, u0791:0-26, u0792:0-31, u0793:0-6, u0794:0-3, u0795:0-44, u0796:0-12, u0797:0-83, u0798:0-37, u0799:0-48, u0800:0-77, u0801:0-18, u0802:0-47, u0803:0-57, u0804:0-62, u0805:0-49, u0806:0-40, u0807:0-58, u0808:0-26, u0809:0-6, u0810:0-71, u0811:0-15, u0812:0-85, u0813:0-38, u0814:0-34, u0815:0-21, u0816:0-33, u0817:0-14, u0818:0-36, u0819:0-26, u0820:0-42, u0821:0-34, u0822:0-34, u0823:0-65, u0824:0-4, u0825:0-65, u0826:0-29, u0827:0-41, u0828:0-37, u0829:0-24, u0830:0-19, u0831:0-40, u0832:0-5, u0833:0-11, u0834:0-59, u0835:0-36, u0836:0-31, u0837:0-36, u0838:0-48, u0839:0-14, u0840:0-26, u0841:0-44, u0842:0-54, u0843:0-30, u0844:0-77, u0845:0-63, u0846:0-68, u0847:0-4, u0848:0-181, u0849:0-31, u0850:0-3, u0851:0-5, u0852:0-20 %%",
+        "((Combat and encounter debrief))",
+        "",
+        "%% u0853:0-65 %%",
+        "DM: Oh, and the the Amberlight went out when the darkness hit Lirien.",
+        "",
+        "%% u0854:0-24, u0855:0-26, u0856:0-93, u0857:0-25, u0858:0-16, u0859:0-8, u0860:0-49, u0861:0-11, u0862:0-28, u0863:0-4, u0864:0-40, u0865:0-52, u0866:0-81, u0867:0-40, u0868:0-14, u0869:0-19, u0870:0-11, u0871:0-10, u0872:0-79, u0873:0-58, u0874:0-41, u0875:0-21, u0876:0-57, u0877:0-39, u0878:0-19, u0879:0-23, u0880:0-82, u0881:0-31, u0882:0-81, u0883:0-54, u0884:0-4, u0885:0-40, u0886:0-5, u0887:0-10, u0888:0-27, u0889:0-29, u0890:0-32, u0891:0-11, u0892:0-131, u0893:0-22, u0894:0-12, u0895:0-112, u0896:0-32, u0897:0-12, u0898:0-8, u0899:0-70, u0900:0-32, u0901:0-22, u0902:0-14, u0903:0-26, u0904:0-21, u0905:0-36, u0906:0-16, u0907:0-10, u0908:0-24, u0909:0-11, u0910:0-94, u0911:0-59, u0912:0-2, u0913:0-48, u0914:0-20, u0915:0-5, u0916:0-36, u0917:0-66, u0918:0-16, u0919:0-84, u0920:0-44, u0921:0-33, u0922:0-16, u0923:0-42, u0924:0-7, u0925:0-23, u0926:0-20, u0927:0-26, u0928:0-55, u0929:0-32, u0930:0-32, u0931:0-39, u0932:0-19, u0933:0-60, u0934:0-19, u0935:0-37, u0936:0-77, u0937:0-40, u0938:0-5, u0939:0-65, u0940:0-4, u0941:0-20, u0942:0-10, u0943:0-23, u0944:0-23, u0945:0-21, u0946:0-24, u0947:0-79, u0948:0-11, u0949:0-16, u0950:0-9, u0951:0-4, u0952:0-25, u0953:0-38, u0954:0-22, u0955:0-18, u0956:0-17, u0957:0-71, u0958:0-3, u0959:0-5, u0960:0-30, u0961:0-15, u0962:0-3, u0963:0-29, u0964:0-8, u0965:0-2, u0966:0-3, u0967:0-22, u0968:0-3, u0969:0-221, u0970:0-25, u0971:0-22, u0972:0-45, u0973:0-37, u0974:0-9, u0975:0-81, u0976:0-48, u0977:0-51, u0978:0-35, u0979:0-28, u0980:0-134, u0981:0-96, u0982:0-27, u0983:0-14, u0984:0-15, u0985:0-20, u0986:0-36, u0987:0-30, u0988:0-53, u0989:0-22, u0990:0-45, u0991:0-21, u0992:0-48, u0993:0-40, u0994:0-31, u0995:0-44, u0996:0-5, u0997:0-30, u0998:0-55, u0999:0-97, u1000:0-60, u1001:0-40, u1002:0-89, u1003:0-101, u1004:0-91, u1005:0-69, u1006:0-66, u1007:0-24, u1008:0-5, u1009:0-117, u1010:0-9, u1011:0-24, u1012:0-8, u1013:0-29, u1014:0-15, u1015:0-10, u1016:0-21, u1017:0-28, u1018:0-13, u1019:0-4, u1020:0-25, u1021:0-38, u1022:0-38, u1023:0-6, u1024:0-20, u1025:0-4, u1026:0-91, u1027:0-71, u1028:0-64, u1029:0-89, u1030:0-71, u1031:0-35, u1032:0-93, u1033:0-22, u1034:0-48, u1035:0-48, u1036:0-107, u1037:0-22, u1038:0-52, u1039:0-14, u1040:0-5, u1041:0-9, u1042:0-8, u1043:0-29, u1044:0-17, u1045:0-20, u1046:0-30, u1047:0-32, u1048:0-15, u1049:0-183, u1050:0-3, u1051:0-64, u1052:0-5, u1053:0-42, u1054:0-15, u1055:0-4, u1056:0-29, u1057:0-8, u1058:0-4, u1059:0-23, u1060:0-4, u1061:0-8, u1062:0-84, u1063:0-111, u1064:0-159, u1065:0-9, u1066:0-96, u1067:0-59, u1068:0-33, u1069:0-54, u1070:0-37, u1071:0-75, u1072:0-8, u1073:0-24, u1074:0-11, u1075:0-137, u1076:0-132, u1077:0-25, u1078:0-29, u1079:0-24, u1080:0-7, u1081:0-19, u1082:0-21, u1083:0-4, u1084:0-53, u1085:0-79, u1086:0-25, u1087:0-19, u1088:0-106, u1089:0-12, u1090:0-27, u1091:0-82, u1092:0-51, u1093:0-45, u1094:0-15, u1095:0-8, u1096:0-18, u1097:0-30, u1098:0-101, u1099:0-36, u1100:0-63, u1101:0-33, u1102:0-42, u1103:0-171, u1104:0-12, u1105:0-124, u1106:0-87, u1107:0-5, u1108:0-3, u1109:0-38, u1110:0-54, u1111:0-32, u1112:0-17, u1113:0-16, u1114:0-16, u1115:0-44, u1116:0-34, u1117:0-16, u1118:0-19, u1119:0-37, u1120:0-22, u1121:0-41, u1122:0-40, u1123:0-24, u1124:0-23, u1125:0-46, u1126:0-61, u1127:0-16, u1128:0-48, u1129:0-65, u1130:0-93, u1131:0-51, u1132:0-119, u1133:0-92, u1134:0-16, u1135:0-155, u1136:0-49, u1137:0-78, u1138:0-84, u1139:0-54, u1140:0-14, u1141:0-20, u1142:0-87, u1143:0-55, u1144:0-40, u1145:0-86, u1146:0-35, u1147:0-82, u1148:0-27, u1149:0-49, u1150:0-6, u1151:0-61, u1152:0-16, u1153:0-55, u1154:0-68, u1155:0-5, u1156:0-54, u1157:0-69, u1158:0-5, u1159:0-64, u1160:0-19, u1161:0-6, u1162:0-66, u1163:0-22, u1164:0-22, u1165:0-16, u1166:0-32, u1167:0-48, u1168:0-26, u1169:0-33, u1170:0-46, u1171:0-32, u1172:0-3, u1173:0-2, u1174:0-15, u1175:0-17, u1176:0-25, u1177:0-10, u1178:0-13, u1179:0-33, u1180:0-9, u1181:0-5, u1182:0-11, u1183:0-25, u1184:0-28, u1185:0-34, u1186:0-80, u1187:0-71, u1188:0-97, u1189:0-70, u1190:0-35, u1191:0-22, u1192:0-56, u1193:0-41, u1194:0-23, u1195:0-30, u1196:0-84, u1197:0-97, u1198:0-28, u1199:0-75, u1200:0-53, u1201:0-51, u1202:0-33, u1203:0-23, u1204:0-63, u1205:0-78, u1206:0-70, u1207:0-76, u1208:0-24, u1209:0-24, u1210:0-32, u1211:0-87, u1212:0-111, u1213:0-33, u1214:0-43, u1215:0-39, u1216:0-33, u1217:0-77, u1218:0-12, u1219:0-46, u1220:0-58, u1221:0-44, u1222:0-39, u1223:0-36, u1224:0-37, u1225:0-42, u1226:0-34, u1227:0-32, u1228:0-6, u1229:0-59, u1230:0-77, u1231:0-26, u1232:0-5, u1233:0-32, u1234:0-68, u1235:0-18, u1236:0-25, u1237:0-19, u1238:0-9, u1239:0-48, u1240:0-35, u1241:0-4, u1242:0-30, u1243:0-63, u1244:0-20, u1245:0-37, u1246:0-8, u1247:0-28, u1248:0-23, u1249:0-90, u1250:0-14, u1251:0-50, u1252:0-28, u1253:0-15, u1254:0-65, u1255:0-25, u1256:0-26, u1257:0-74, u1258:0-8, u1259:0-4, u1260:0-41, u1261:0-49, u1262:0-11, u1263:0-25, u1264:0-105, u1265:0-89, u1266:0-38, u1267:0-5, u1268:0-67, u1269:0-47, u1270:0-38, u1271:0-6, u1272:0-15, u1273:0-50, u1274:0-29, u1275:0-20, u1276:0-36, u1277:0-17, u1278:0-10, u1279:0-13, u1280:0-124, u1281:0-17, u1282:0-34, u1283:0-34, u1284:0-159, u1285:0-42, u1286:0-71, u1287:0-26, u1288:0-55, u1289:0-30, u1290:0-30, u1291:0-104, u1292:0-30, u1293:0-27, u1294:0-51, u1295:0-47, u1296:0-84, u1297:0-49, u1298:0-20, u1299:0-50, u1300:0-18, u1301:0-137, u1302:0-3, u1303:0-4, u1304:0-52, u1305:0-62, u1306:0-35, u1307:0-3, u1308:0-17, u1309:0-92, u1310:0-63, u1311:0-151, u1312:0-17, u1313:0-7, u1314:0-64, u1315:0-36, u1316:0-11, u1317:0-17, u1318:0-80, u1319:0-18, u1320:0-24, u1321:0-35, u1322:0-31, u1323:0-5, u1324:0-53, u1325:0-23, u1326:0-69, u1327:0-57, u1328:0-39, u1329:0-65, u1330:0-28, u1331:0-23, u1332:0-33, u1333:0-32, u1334:0-31, u1335:0-38, u1336:0-4, u1337:0-36, u1338:0-67, u1339:0-27, u1340:0-74, u1341:0-93, u1342:0-21, u1343:0-141, u1344:0-5, u1345:0-37, u1346:0-5, u1347:0-107, u1348:0-113, u1349:0-46, u1350:0-50, u1351:0-66, u1352:0-5, u1353:0-84, u1354:0-26, u1355:0-54, u1356:0-49, u1357:0-39, u1358:0-5, u1359:0-22, u1360:0-34, u1361:0-61, u1362:0-16, u1363:0-15, u1364:0-54, u1365:0-5, u1366:0-23, u1367:0-45, u1368:0-23, u1369:0-40, u1369:40-55, u1370:0-8, u1371:0-25, u1372:0-29, u1373:0-20, u1374:0-4, u1375:0-41, u1376:0-58, u1377:0-84, u1378:0-64, u1379:0-23, u1380:0-12, u1381:0-9, u1382:0-7, u1383:0-74, u1384:0-17, u1385:0-40, u1386:0-32, u1387:0-9, u1388:0-9, u1389:0-24, u1390:0-37, u1391:0-5, u1392:0-13, u1393:0-46, u1394:0-94, u1395:0-9, u1396:0-33, u1397:0-87, u1398:0-71, u1399:0-17, u1400:0-27, u1401:0-5, u1402:0-35, u1403:0-72, u1404:0-40, u1405:0-55, u1406:0-7, u1407:0-21, u1408:0-21, u1409:0-55, u1410:0-18, u1411:0-76, u1412:0-9, u1413:0-11, u1414:0-44, u1415:0-38, u1416:0-43, u1417:0-55, u1418:0-83, u1419:0-32, u1420:0-57, u1421:0-31, u1422:0-24, u1423:0-132, u1424:0-43, u1425:0-18, u1426:0-48, u1427:0-46, u1428:0-34, u1429:0-73, u1430:0-13, u1431:0-49, u1432:0-100, u1433:0-10, u1434:0-42, u1435:0-4, u1436:0-78, u1437:0-158, u1438:0-95, u1439:0-23, u1440:0-32, u1441:0-26, u1442:0-8, u1443:0-29, u1444:0-40, u1445:0-26, u1446:0-103, u1447:0-21, u1448:0-66, u1449:0-56, u1450:0-5, u1451:0-25, u1452:0-17, u1453:0-16, u1454:0-75, u1455:0-4, u1456:0-14, u1457:0-98, u1458:0-66, u1459:0-10, u1460:0-33, u1461:0-13, u1462:0-23, u1463:0-20, u1464:0-95, u1465:0-23, u1466:0-18, u1467:0-40, u1468:0-51, u1469:0-6, u1470:0-60, u1471:0-35, u1472:0-7, u1473:0-4, u1474:0-4, u1475:0-10, u1476:0-18, u1477:0-5, u1478:0-119, u1479:0-7, u1480:0-39, u1481:0-6, u1482:0-75, u1483:0-91, u1484:0-162, u1485:0-75, u1486:0-58, u1487:0-63, u1488:0-5, u1489:0-48, u1490:0-3, u1491:0-25, u1492:0-4, u1493:0-44, u1494:0-12, u1495:0-6, u1496:0-50, u1497:0-14, u1498:0-3, u1499:0-8, u1500:0-5, u1501:0-49, u1502:0-37, u1503:0-23, u1504:0-38, u1505:0-39, u1506:0-87, u1507:0-29, u1508:0-32, u1509:0-110, u1510:0-58, u1511:0-24, u1512:0-104, u1513:0-54, u1514:0-80, u1515:0-75, u1516:0-21, u1517:0-57, u1518:0-38, u1519:0-69, u1520:0-4, u1521:0-47, u1522:0-19, u1523:0-5, u1524:0-8, u1525:0-7, u1526:0-69, u1527:0-41, u1528:0-4, u1529:0-23, u1530:0-61, u1531:0-87, u1532:0-26, u1533:0-22, u1534:0-44, u1535:0-103, u1536:0-30, u1537:0-81, u1538:0-59, u1539:0-177, u1540:0-89, u1541:0-44, u1542:0-62, u1543:0-4, u1544:0-25, u1545:0-86, u1546:0-40, u1547:0-61, u1548:0-4, u1549:0-41, u1550:0-4, u1551:0-19, u1552:0-76, u1553:0-62, u1554:0-33, u1555:0-9, u1556:0-73, u1557:0-21, u1558:0-18, u1559:0-18, u1560:0-10, u1561:0-15, u1562:0-37, u1563:0-43, u1564:0-19, u1565:0-28, u1566:0-64, u1567:0-56, u1568:0-6, u1569:0-70, u1570:0-6, u1571:0-35, u1572:0-31, u1573:0-5, u1574:0-13, u1575:0-11, u1576:0-92, u1577:0-26, u1578:0-71, u1579:0-11, u1580:0-4, u1581:0-4, u1582:0-24, u1583:0-12, u1584:0-53, u1585:0-82, u1586:0-54, u1587:0-34, u1588:0-16, u1589:0-12, u1590:0-20, u1591:0-41, u1592:0-45, u1593:0-14, u1594:0-4, u1595:0-22, u1596:0-50, u1597:0-48, u1598:0-12, u1599:0-32, u1600:0-14, u1601:0-38, u1602:0-19, u1603:0-5, u1604:0-23, u1605:0-17, u1606:0-66, u1607:0-42, u1608:0-17, u1609:0-27, u1610:0-5, u1611:0-9, u1612:0-93, u1613:0-35, u1614:0-6, u1615:0-38, u1616:0-32, u1617:0-5, u1618:0-21, u1619:0-10, u1620:0-15, u1621:0-31, u1622:0-4, u1623:0-58, u1624:0-21, u1625:0-64, u1626:0-101, u1627:0-68, u1628:0-34, u1629:0-97, u1630:0-35, u1631:0-64, u1632:0-83, u1633:0-80, u1634:0-19, u1635:0-50, u1636:0-5, u1637:0-27, u1638:0-5, u1639:0-48, u1640:0-23, u1641:0-25, u1642:0-19, u1643:0-14, u1644:0-43, u1645:0-78, u1646:0-90, u1647:0-30, u1648:0-131, u1649:0-41, u1650:0-57, u1651:0-44, u1652:0-23, u1653:0-44, u1654:0-67, u1655:0-47, u1656:0-101, u1657:0-74, u1658:0-68, u1659:0-28, u1660:0-57, u1661:0-31, u1662:0-58, u1663:0-18, u1664:0-29, u1665:0-69, u1666:0-41, u1667:0-5, u1668:0-31, u1669:0-19, u1670:0-3, u1671:0-6, u1672:0-15, u1673:0-32, u1674:0-5, u1675:0-15, u1676:0-34, u1677:0-48, u1678:0-23, u1679:0-20, u1680:0-82, u1681:0-120, u1682:0-63, u1683:0-36, u1684:0-14, u1685:0-9, u1686:0-11, u1687:0-67, u1688:0-81, u1689:0-34, u1690:0-17, u1691:0-27, u1692:0-21, u1693:0-92, u1694:0-5, u1695:0-35, u1696:0-13, u1697:0-18, u1698:0-54, u1699:0-41, u1700:0-12, u1701:0-28, u1702:0-49, u1703:0-21, u1704:0-23, u1705:0-11, u1706:0-52, u1707:0-8, u1708:0-14, u1709:0-40, u1710:0-41, u1711:0-9, u1712:0-63, u1713:0-65, u1714:0-9, u1715:0-22, u1716:0-33, u1717:0-102, u1718:0-13, u1719:0-17, u1720:0-22, u1721:0-9, u1722:0-22, u1723:0-124, u1724:0-34, u1725:0-54, u1726:0-90, u1727:0-12, u1728:0-34, u1729:0-3, u1730:0-9, u1731:0-6, u1732:0-9, u1733:0-91, u1734:0-33, u1735:0-62, u1736:0-30, u1737:0-34, u1738:0-62, u1739:0-10, u1740:0-5, u1741:0-20, u1742:0-18, u1743:0-8, u1744:0-34, u1745:0-40, u1746:0-2, u1747:0-28, u1748:0-40, u1749:0-51, u1750:0-27, u1751:0-32, u1752:0-3, u1753:0-35, u1754:0-46, u1755:0-22, u1756:0-61, u1757:0-17, u1758:0-19, u1759:0-35, u1760:0-8, u1761:0-25, u1762:0-33, u1763:0-54, u1764:0-84, u1765:0-20, u1766:0-93, u1767:0-113, u1768:0-4, u1769:0-103, u1770:0-17, u1771:0-8, u1772:0-5, u1773:0-14, u1774:0-154, u1775:0-40, u1776:0-90, u1777:0-71, u1778:0-5, u1779:0-25, u1780:0-9, u1781:0-9, u1782:0-58, u1783:0-9, u1784:0-5, u1785:0-5, u1786:0-87, u1787:0-41, u1788:0-91, u1789:0-27, u1790:0-52, u1791:0-74, u1792:0-11, u1793:0-13, u1794:0-8, u1795:0-83, u1796:0-13, u1797:0-67, u1798:0-4, u1799:0-68, u1800:0-13, u1801:0-15, u1802:0-3, u1803:0-26, u1804:0-78, u1805:0-44, u1806:0-5, u1807:0-75, u1808:0-38, u1809:0-36, u1810:0-76, u1811:0-10, u1812:0-14, u1813:0-28, u1814:0-121, u1815:0-23, u1816:0-39, u1817:0-2, u1818:0-13, u1819:0-98, u1820:0-9, u1821:0-55, u1822:0-50, u1823:0-20, u1824:0-155, u1825:0-17, u1826:0-14, u1827:0-16, u1828:0-41, u1829:0-57, u1830:0-43, u1831:0-127, u1832:0-31, u1833:0-146, u1834:0-32, u1835:0-38, u1836:0-20, u1837:0-11, u1838:0-21, u1839:0-17, u1840:0-15, u1841:0-39, u1842:0-10, u1843:0-25, u1844:0-10, u1845:0-47, u1846:0-41, u1847:0-63, u1848:0-4, u1849:0-75, u1850:0-25, u1851:0-14, u1852:0-178, u1853:0-11, u1854:0-5, u1855:0-76, u1856:0-14, u1857:0-28, u1858:0-18, u1859:0-22, u1860:0-3, u1861:0-14, u1862:0-28, u1863:0-34, u1864:0-29, u1865:0-26, u1866:0-77, u1867:0-3, u1868:0-6, u1869:0-88, u1870:0-72, u1871:0-67, u1872:0-32, u1873:0-21, u1874:0-8, u1875:0-48, u1876:0-61, u1877:0-52, u1878:0-9, u1879:0-18, u1880:0-79, u1881:0-60, u1882:0-38, u1883:0-34, u1884:0-35, u1885:0-42, u1886:0-20, u1887:0-39, u1888:0-8, u1889:0-34, u1890:0-74, u1891:0-48, u1892:0-92, u1893:0-21, u1894:0-3, u1895:0-130, u1896:0-27, u1897:0-28, u1898:0-18, u1899:0-39, u1900:0-37, u1901:0-12, u1902:0-32, u1903:0-58, u1904:0-200, u1905:0-69, u1906:0-5, u1907:0-89, u1908:0-64, u1909:0-14, u1910:0-46, u1911:0-17, u1912:0-62, u1913:0-67, u1914:0-51, u1915:0-42, u1916:0-32, u1917:0-4, u1918:0-34, u1919:0-83, u1920:0-65, u1921:0-5, u1922:0-55, u1923:0-5, u1924:0-32, u1925:0-34, u1926:0-4, u1927:0-28, u1928:0-22, u1929:0-31, u1930:0-26, u1931:0-47, u1932:0-31, u1933:0-3, u1934:0-19, u1935:0-13, u1936:0-17, u1937:0-16, u1938:0-5, u1939:0-69, u1940:0-28, u1941:0-49, u1942:0-25, u1943:0-24, u1944:0-137, u1945:0-5, u1946:0-5, u1947:0-31, u1948:0-40, u1949:0-4, u1950:0-12, u1951:0-43, u1952:0-18, u1953:0-44, u1954:0-35, u1955:0-106, u1956:0-23, u1957:0-52, u1958:0-5, u1959:0-9, u1960:0-36, u1961:0-20, u1962:0-75, u1963:0-78, u1964:0-66, u1965:0-52, u1966:0-28, u1967:0-61, u1968:0-14, u1969:0-22, u1970:0-42, u1971:0-50, u1972:0-5, u1973:0-30, u1974:0-14, u1975:0-22, u1976:0-49, u1977:0-51, u1978:0-52, u1979:0-40, u1980:0-30, u1981:0-15, u1982:0-61, u1983:0-44, u1984:0-18, u1985:0-56, u1986:0-27, u1987:0-38, u1988:0-30, u1989:0-32, u1990:0-52, u1991:0-28, u1992:0-6, u1993:0-39, u1994:0-43, u1995:0-10, u1996:0-101, u1997:0-62, u1998:0-15, u1999:0-69, u2000:0-60, u2001:0-208, u2002:0-7, u2003:0-45, u2004:0-37, u2005:0-50, u2006:0-122, u2007:0-7, u2008:0-6, u2009:0-18, u2010:0-39, u2011:0-29, u2012:0-46, u2013:0-36, u2014:0-65, u2015:0-5, u2016:0-40, u2017:0-28, u2018:0-26, u2019:0-19, u2020:0-36, u2021:0-38, u2022:0-51, u2023:0-51, u2024:0-35, u2025:0-110, u2026:0-194, u2027:0-47, u2028:0-13, u2029:0-56, u2030:0-28, u2031:0-35, u2032:0-46, u2033:0-21, u2034:0-15, u2035:0-41, u2036:0-13, u2037:0-23, u2038:0-9, u2039:0-5, u2040:0-144, u2041:0-58, u2042:0-50, u2043:0-24, u2044:0-5, u2045:0-47, u2046:0-44, u2047:0-13, u2048:0-38, u2049:0-71, u2050:0-62, u2051:0-129, u2052:0-82, u2053:0-53, u2054:0-33, u2055:0-53, u2056:0-18, u2057:0-10, u2058:0-24, u2059:0-62, u2060:0-43, u2061:0-187, u2062:0-8, u2063:0-34, u2064:0-48, u2065:0-9, u2066:0-5, u2067:0-10, u2068:0-44, u2069:0-5, u2070:0-41, u2071:0-37, u2072:0-16, u2073:0-9, u2074:0-28, u2075:0-79, u2076:0-14, u2077:0-6, u2078:0-5, u2079:0-88, u2080:0-50, u2081:0-54, u2082:0-22, u2083:0-6, u2084:0-7, u2085:0-85, u2086:0-4, u2087:0-5, u2088:0-12, u2089:0-5, u2090:0-16, u2091:0-16, u2092:0-6, u2093:0-63, u2094:0-11, u2095:0-100, u2096:0-23, u2097:0-62, u2098:0-105, u2099:0-51, u2100:0-18, u2101:0-78, u2102:0-50, u2103:0-98, u2104:0-3, u2105:0-47, u2106:0-41, u2107:0-40, u2108:0-45, u2109:0-34, u2110:0-72, u2111:0-58, u2112:0-5, u2113:0-49, u2114:0-78, u2115:0-18, u2116:0-33, u2117:0-13, u2118:0-90, u2119:0-35, u2120:0-141, u2121:0-44, u2122:0-2, u2123:0-57, u2124:0-71, u2125:0-38, u2126:0-15, u2127:0-64, u2128:0-127, u2129:0-44, u2130:0-5, u2131:0-141, u2132:0-8, u2133:0-48, u2134:0-18, u2135:0-21, u2136:0-10, u2137:0-12, u2138:0-24, u2139:0-5, u2140:0-18, u2141:0-10, u2142:0-16, u2143:0-11, u2144:0-26, u2145:0-93, u2146:0-136, u2147:0-61, u2148:0-50, u2149:0-25, u2150:0-46, u2151:0-31, u2152:0-4, u2153:0-5, u2154:0-5, u2155:0-24, u2156:0-23, u2157:0-45, u2158:0-53, u2159:0-6, u2160:0-5, u2161:0-24, u2162:0-4, u2163:0-4, u2164:0-25, u2165:0-70, u2166:0-76, u2167:0-61, u2168:0-64, u2169:0-56, u2170:0-32, u2171:0-23, u2172:0-39, u2173:0-23, u2174:0-75, u2175:0-50, u2176:0-31, u2177:0-58, u2178:0-40, u2179:0-18, u2180:0-57, u2181:0-10, u2182:0-68, u2183:0-28, u2184:0-3, u2185:0-97, u2186:0-8, u2187:0-25, u2188:0-23, u2189:0-39, u2190:0-33, u2191:0-31, u2192:0-25, u2193:0-76, u2194:0-17, u2195:0-16, u2196:0-58, u2197:0-31, u2198:0-52, u2199:0-34, u2200:0-74, u2201:0-32, u2202:0-5, u2203:0-11, u2204:0-78, u2205:0-94, u2206:0-68, u2207:0-40, u2208:0-101, u2209:0-29, u2210:0-50, u2211:0-5, u2212:0-32, u2213:0-26, u2214:0-7, u2215:0-59, u2216:0-58, u2217:0-5, u2218:0-8, u2219:0-75, u2220:0-86, u2221:0-19, u2222:0-35, u2223:0-16, u2224:0-66, u2225:0-55, u2226:0-31, u2227:0-11, u2228:0-26, u2229:0-9, u2230:0-54, u2231:0-8, u2232:0-27, u2233:0-10, u2234:0-93, u2235:0-53, u2236:0-98, u2237:0-95, u2238:0-3, u2239:0-45, u2240:0-28, u2241:0-55, u2242:0-34, u2243:0-60, u2244:0-23, u2245:0-42, u2246:0-33, u2247:0-5, u2248:0-19, u2249:0-30, u2250:0-68, u2251:0-17, u2252:0-14, u2253:0-3, u2254:0-23, u2255:0-83, u2256:0-5, u2257:0-57, u2258:0-28, u2259:0-34, u2260:0-10, u2261:0-39, u2262:0-59, u2263:0-17, u2264:0-98, u2265:0-28, u2266:0-5, u2267:0-24, u2268:0-36, u2269:0-41, u2270:0-9, u2271:0-103, u2272:0-24, u2273:0-102, u2274:0-80, u2275:0-9, u2276:0-26, u2277:0-11, u2278:0-153, u2279:0-107, u2280:0-58, u2281:0-76, u2282:0-6, u2283:0-63, u2284:0-36, u2285:0-15, u2286:0-94, u2287:0-82, u2288:0-6, u2289:0-53, u2290:0-47, u2291:0-5, u2292:0-65, u2293:0-59, u2294:0-5, u2295:0-17, u2296:0-39, u2297:0-30, u2298:0-5, u2299:0-30, u2300:0-240, u2301:0-46, u2302:0-31, u2303:0-11 %%",
+        "((Combat and encounter debrief))",
+        "",
+        "%% u2304:0-30, u2305:0-78, u2306:0-47, u2307:0-82, u2308:0-69, u2309:0-75 %%",
+        "DM: At last, as the fey creatures, clearly from what you can tell—from—sent by Harrow and Wend, whoever they are, the same ones who attacked the Redsun Watch and sent rivers of darkness oozing through the cracks in the Sunset Gate, are defeated, Seeker turns back from a giant ape into the Lady Eventide, distraught both by the seemingly irreversible death of Lirien and her stag and by the—"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: In the—",
+          "Kenzo: The Soul Sight is useful.",
+          "DM: Okay, let me make sure the distance is about right here.",
+          "Wellby: Just confirm it. Hit the big bad. Yeah, sure.",
+          "Delwath: I don't have a better idea. I don't know if the big bad is Harrow. I mean, it's just darkness, right? We don't even—"
+        ],
+        "after": [
+          "DM: And as it is 1220, in the interest of time, rather than role-playing it out, she in her distraught, high-pitched, semi-Seeker voice seems very agitated and basically says, “They will keep coming. We have to— can't remain here. It's not safe. They won't invade other fey realms.”",
+          "Kenzo: Oh, man! So we're going to go to the Feywild now?",
+          "Wellby: Let's go.",
+          "Kenzo: Do it.",
+          "Delwath: Yeah, I think that's the plan. Right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "A corrupted Amberlight and a threat",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1062",
+        "endUid": "u1070"
+      },
+      "lines": [
+        "%% u1062:0-84, u1063:0-111, u1064:0-159 %%",
+        "DM: ((Context and mechanics))and you can see now that in, inside the interior of this shadowy cloud, there's the same sort of thing that— the, the same sort of golden lantern-like thing that the Lirien was holding before she was destroyed and turned into a shadow. But it's all twisted with black.",
+        "",
+        "%% u1065:0-9 %%",
+        "Wellby: Oh, yeah.",
+        "",
+        "%% u1066:0-96 %%",
+        "DM: With black tendrils of shadow, and the light is out, but it's it's thumping almost like a heart.",
+        "",
+        "%% u1067:0-59 %%",
+        "DM: And he says, “The Cloudspinner will not be allowed to return.”",
+        "",
+        "%% u1068:0-33 %%",
+        "((Table aside))",
+        "",
+        "%% u1069:0-54, u1070:0-37 %%",
+        "DM: “A shadow that looms and the silence that follows will stop this madness. Darkness will fall.”"
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Exactly.",
+          "DM: Wow!",
+          "Delwath: Surprise attacks suck.",
+          "DM: The—",
+          "Delwath: Riswynn."
+        ],
+        "after": [
+          "DM: Really, for the proper Doctor Who reference, it should be, “Silence will fall.”",
+          "DM: Riswynn.",
+          "Delwath: Okay, this sounds great.",
+          "Riswynn: Okay. Well. My big area of attack attack—there were so many of them I was already for like a big single area of effect attack, but given that, my—",
+          "DM: Yeah, sorry, I forgot. Let me turn on the silence aura on this one too so you know where you can't go if you want to cast a spell, a verbal component spell. This is also a silence aura."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Eventide urges immediate flight",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2310",
+        "endUid": "u2319"
+      },
+      "lines": [
+        "%% u2310:0-98, u2311:0-70, u2312:0-33, u2313:0-33, u2314:0-35 %%",
+        "DM: ((Context and mechanics))she in her distraught, high-pitched, semi-Seeker voice seems very agitated and basically says, “They will keep coming. We have to— can't remain here. It's not safe. They won't invade other fey realms.”",
+        "",
+        "%% u2315:0-49 %%",
+        "Kenzo: Oh, man! So we're going to go to the Feywild now?",
+        "",
+        "%% u2316:0-9 %%",
+        "Wellby: Let's go.",
+        "",
+        "%% u2317:0-6 %%",
+        "Kenzo: Do it.",
+        "",
+        "%% u2318:0-37 %%",
+        "Delwath: Yeah, I think that's the plan. Right?",
+        "",
+        "%% u2319:0-9 %%",
+        "Kenzo: Oh, yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, kind of a lot of damage.",
+          "Kenzo: Yeah, like 80 points of damage. This is the first—like, no joke, this is the 1st combat in like—I can't even remember what combat where Kenzo has actually taken damage. I've not been touched in the last like 5 combats we've had, including—",
+          "DM: And Ra'ghemdros were just like, “Whatever, Kenzo.”",
+          "Kenzo: Can't touch me, can't touch me. Process it.",
+          "DM: At last, as the fey creatures, clearly from what you can tell—from—sent by Harrow and Wend, whoever they are, the same ones who attacked the Redsun Watch and sent rivers of darkness oozing through the cracks in the Sunset Gate, are defeated, Seeker turns back from a giant ape into the Lady Eventide, distraught both by the seemingly irreversible death of Lirien and her stag and by the—"
+        ],
+        "after": [
+          "DM: So you heard, you heard of this portal, the Bitterwine.",
+          "Delwath: What's the deal with the lantern? Is it gone? Can we recover it?",
+          "DM: No, it's not gone, it is— It went out when she died, and it's now like a banked fire. Somebody would have to attune to it to rouse it into light again, and nobody has attunement slots as far as—",
+          "Riswynn: I could just unattune from this crown.",
+          "DM: Yeah, right. Riswynn can't actually die as long as you're willing to sacrifice people so you can never actually lose a combat as long as Riswynn's letting other people die."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Recovering the extinguished Amberlight",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2322",
+        "endUid": "u2326"
+      },
+      "lines": [
+        "%% u2322:0-45, u2323:0-18 %%",
+        "Delwath: What's the deal with the lantern? Is it gone? Can we recover it?",
+        "",
+        "%% u2324:0-24, u2325:0-59, u2326:0-109 %%",
+        "DM: No, it's not gone, it is— It went out when she died, and it's now like a banked fire. Somebody would have to attune to it to rouse it into light again, and nobody has attunement slots as far as—"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Let's go.",
+          "Kenzo: Do it.",
+          "Delwath: Yeah, I think that's the plan. Right?",
+          "Kenzo: Oh, yeah.",
+          "DM: So you heard, you heard of this portal, the Bitterwine."
+        ],
+        "after": [
+          "Riswynn: I could just unattune from this crown.",
+          "DM: Yeah, right. Riswynn can't actually die as long as you're willing to sacrifice people so you can never actually lose a combat as long as Riswynn's letting other people die.",
+          "Riswynn: Riswynn's not doing that.",
+          "Delwath: But like if all of us were dead, and you had to resurrect us, and you were the last one alive, right? You could just stay alive forever until you resurrected us. I guess not forever, right? Like there's only so many people attuned, right?",
+          "Riswynn: I'm disconnecting those threads."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Riswynn rejects the crown’s sacrifice",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2327",
+        "endUid": "u2335"
+      },
+      "lines": [
+        "%% u2327:0-38 %%",
+        "Riswynn: I could just unattune from this crown.",
+        "",
+        "%% u2328:0-5, u2329:0-166 %%",
+        "DM: Yeah, right. Riswynn can't actually die as long as you're willing to sacrifice people so you can never actually lose a combat as long as Riswynn's letting other people die.",
+        "",
+        "%% u2330:0-25 %%",
+        "Riswynn: Riswynn's not doing that.",
+        "",
+        "%% u2331:0-33, u2332:0-68, u2333:0-59, u2334:0-74 %%",
+        "Delwath: But like if all of us were dead, and you had to resurrect us, and you were the last one alive, right? You could just stay alive forever until you resurrected us. I guess not forever, right? Like there's only so many people attuned, right?",
+        "",
+        "%% u2335:0-32 %%",
+        "Riswynn: I'm disconnecting those threads."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah, I think that's the plan. Right?",
+          "Kenzo: Oh, yeah.",
+          "DM: So you heard, you heard of this portal, the Bitterwine.",
+          "Delwath: What's the deal with the lantern? Is it gone? Can we recover it?",
+          "DM: No, it's not gone, it is— It went out when she died, and it's now like a banked fire. Somebody would have to attune to it to rouse it into light again, and nobody has attunement slots as far as—"
+        ],
+        "after": [
+          "DM: Travel, send Vindristjarna—so Seeker has a wand that points to the nearest portal, which points into the desert, you suspect to Bitterwine Oak, and you travel, moving as quickly as you can through the night and into the next day and into the next afternoon and around— Yeah, you get a long rest, and around evening before nightfall, you reach this strange place in the desert, which you possibly may have flown over before when you weren't—when you—the ship may have flown over when you were investigating the tower.",
+          "DM: There's a few things, a few little details I'll add. I'll, I'll add, but again, not wanting to take too much time.",
+          "DM: So you follow the river, the Istaros, north, and then you veer west, where on the map a river is shown, but it's just a dry riverbed. There's no water flow, and you follow this dry riverbed some miles until you see this strange sight: a giant oak tree like this, you know, not quite like the elder trees of the— the elder trees of the— of the elves, of, of the Elderwood, the god trees, but big like a hundred 50 feet tall, taller than an oak normally should be.",
+          "DM: Just put it on some more things—and despite this being totally parched, dry desert, you can see white blossoms growing around the oak, although there's no leaves, and a pool of some dark red—not blood, it looks like wine—liquid.",
+          "Delwath: Hmm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

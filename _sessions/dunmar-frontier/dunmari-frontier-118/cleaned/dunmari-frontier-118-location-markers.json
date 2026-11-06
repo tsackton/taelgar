@@ -1,0 +1,645 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-118",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
+    "sessionYamlSha256": "1fedd317881e1e48d9efa6b866005c2cc307c864b1a256341454444dc950ccbc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-transcript.md",
+    "transcriptSha256": "1fcf1567a1aadfa3c28d1092ee3639ab977412faa6eb875eb3b0d2d4cef91002"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0018",
+          "quote": "As Vindristjarna coasts north of the jungles"
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "main dining hall",
+      "evidence": [
+        {
+          "startUid": "u0055",
+          "endUid": "u0059",
+          "quote": "as you sit in the main dining hall on the upper deck of Vindristjarna"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0055",
+              "endUid": "u0059",
+              "quote": "the main dining hall on the upper deck of Vindristjarna"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "deck and garden",
+      "evidence": [
+        {
+          "startUid": "u0133",
+          "endUid": "u0135",
+          "quote": "you run out onto the deck of Vindristjarna in the night"
+        }
+      ],
+      "kind": "deck",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0133",
+              "endUid": "u0135",
+              "quote": "the deck of Vindristjarna"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Seeker’s safe room",
+      "evidence": [
+        {
+          "startUid": "u0341",
+          "endUid": "u0348",
+          "quote": "That room that we have on Vindristjarna"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0341",
+              "endUid": "u0348",
+              "quote": "That room that we have on Vindristjarna"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "storage hold",
+      "evidence": [
+        {
+          "startUid": "u0372",
+          "endUid": "u0377",
+          "quote": "into the storage room in the basement of Vindristjarna"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0372",
+              "endUid": "u0377",
+              "quote": "the storage room in the basement of Vindristjarna"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "control room",
+      "evidence": [
+        {
+          "startUid": "u0792",
+          "endUid": "u0792",
+          "quote": "This is the control room."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0818",
+              "endUid": "u0824",
+              "quote": "That's on the deck of Vindristjarna."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "north building rooftop",
+      "evidence": [
+        {
+          "startUid": "u1347",
+          "endUid": "u1348",
+          "quote": "Seeker goes to the north building."
+        }
+      ],
+      "kind": "rooftop",
+      "note": "The earlier Scatter destination is the roof; the accepted adjustment chooses the north building.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1347",
+              "endUid": "u1348",
+              "quote": "Seeker goes to the north building. They go all the way to the edge here."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Bitterwine Oak",
+      "evidence": [
+        {
+          "startUid": "u2336",
+          "endUid": "u2353",
+          "quote": "a giant oak tree"
+        },
+        {
+          "startUid": "u2365",
+          "endUid": "u2365",
+          "quote": "Bitterwine Oak, the fey portal."
+        }
+      ],
+      "kind": "portal",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Emberwine/Bitterwine Oak.md",
+      "note": "This is the desert side of the portal. The party has not crossed to Emberwine or been shown disembarking. The vault note identifies the dry river as the lower Hara; the transcript leaves it unnamed.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2336",
+              "endUid": "u2353",
+              "quote": "you reach this strange place in the desert"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "desert plateaus of the Garamjala",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0018",
+          "quote": "sails high above the desert plateaus of the Garamjala"
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Plateau.md"
+    },
+    "p10": {
+      "label": "Garamjala desert",
+      "evidence": [
+        {
+          "startUid": "u2336",
+          "endUid": "u2342",
+          "quote": "you reach this strange place in the desert"
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert.md",
+      "note": "The opening names the Garamjala; the closing continues the same desert flight. The plateau/desert relationship is not independently asserted as transcript containment."
+    },
+    "p11": {
+      "label": "sky beside Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0133",
+          "endUid": "u0135",
+          "quote": "maybe a hundred feet off in the distance, racing towards you"
+        }
+      ],
+      "kind": "airspace"
+    },
+    "p12": {
+      "label": "Istaros",
+      "evidence": [
+        {
+          "startUid": "u2344",
+          "endUid": "u2350",
+          "quote": "you follow the river, the Istaros, north"
+        }
+      ],
+      "kind": "river",
+      "vaultPath": "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0062"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party gathers over a late meal in the dining hall while Vindristjarna flies north above the Garamjala.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0018",
+          "quote": "sails high above the desert plateaus of the Garamjala"
+        },
+        {
+          "startUid": "u0055",
+          "endUid": "u0062",
+          "quote": "as you sit in the main dining hall on the upper deck of Vindristjarna"
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0126",
+        "endUid": "u0135"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party, including the fading Seeker, runs from the hall onto the deck.",
+      "evidence": [
+        {
+          "startUid": "u0128",
+          "endUid": "u0132",
+          "quote": "But he gets up and he runs with you."
+        },
+        {
+          "startUid": "u0133",
+          "endUid": "u0135",
+          "quote": "you run out onto the deck of Vindristjarna in the night"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0133",
+        "endUid": "u0148"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the deck, see a flame-haired woman riding an amber stag through the sky toward the ship.",
+      "evidence": [
+        {
+          "startUid": "u0133",
+          "endUid": "u0135",
+          "quote": "a bright amber, almost glowing orange stag, like horns, antlers, running through the sky."
+        },
+        {
+          "startUid": "u0136",
+          "endUid": "u0139",
+          "quote": "On it is a woman."
+        }
+      ],
+      "place": "p11",
+      "observerPlace": "p03",
+      "mode": "local",
+      "observedActors": [
+        "Lirien",
+        "Lirien’s amber stag"
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0341",
+        "endUid": "u0353"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Kenzo takes Seeker to the safe room and stays with him.",
+      "evidence": [
+        {
+          "startUid": "u0347",
+          "endUid": "u0348",
+          "quote": "So I bring him to his personal panic room."
+        },
+        {
+          "startUid": "u0351",
+          "endUid": "u0352",
+          "quote": "I can like sit with Seeker"
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0372",
+        "endUid": "u0386"
+      },
+      "actors": [
+        "Wellby",
+        "Riswynn",
+        "Delwath",
+        "Lirien"
+      ],
+      "reading": "The other three PCs lead Lirien down to the hold to see the imprisoned Cloudspinner.",
+      "evidence": [
+        {
+          "startUid": "u0372",
+          "endUid": "u0377",
+          "quote": "Wellby, Riswynn, and Delwath lead Lirien, lantern keeper of red—Redsun Keep—of Redsun Watch, into the storage room in the basement of Vindristjarna"
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0506",
+        "endUid": "u0549"
+      },
+      "actors": [
+        "Wellby",
+        "Riswynn",
+        "Delwath",
+        "Lirien"
+      ],
+      "reading": "The hold group joins Kenzo and possessed Seeker in the safe room.",
+      "evidence": [
+        {
+          "startUid": "u0507",
+          "endUid": "u0509",
+          "quote": "Let's bring fiery girl with us and go talk. Have a group conversation with Seeker."
+        },
+        {
+          "startUid": "u0523",
+          "endUid": "u0523",
+          "quote": "Everybody gets into the room right now."
+        },
+        {
+          "startUid": "u0542",
+          "endUid": "u0546",
+          "quote": "And Lirien just looks confused."
+        }
+      ],
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0578",
+        "endUid": "u0609"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Possessed Seeker goes down to Cloudspinner’s crystal in the hold; Lirien and Delwath continue the exchange there.",
+      "evidence": [
+        {
+          "startUid": "u0580",
+          "endUid": "u0582",
+          "quote": "Seeker storms off through the door, going down, knowing the way to the basement where Cloudspinner is"
+        },
+        {
+          "startUid": "u0606",
+          "endUid": "u0607",
+          "quote": "Seeker turns and puts, puts his hand up against the crystal."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0600",
+        "endUid": "u0655"
+      },
+      "actors": [
+        "party",
+        "Lirien"
+      ],
+      "reading": "Lirien runs upstairs at her steed’s alarm, Wellby follows, and the party returns to the deck for the attack.",
+      "evidence": [
+        {
+          "startUid": "u0600",
+          "endUid": "u0602",
+          "quote": "Lirien yells in terror, “My steed is in danger!” and begins running up the stairs"
+        },
+        {
+          "startUid": "u0603",
+          "endUid": "u0605",
+          "quote": "Wellby will take off after her."
+        },
+        {
+          "startUid": "u0647",
+          "endUid": "u0650",
+          "quote": "So you, you run up onto deck—onto the deck."
+        }
+      ],
+      "from": "p05",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1091",
+        "endUid": "u1131"
+      },
+      "actors": [
+        "Faldrak"
+      ],
+      "reading": "Faldrak escapes the corpse-shades with Misty Step and dashing, reaching the control room.",
+      "evidence": [
+        {
+          "startUid": "u1124",
+          "endUid": "u1124",
+          "quote": "He Misty Steps anyway."
+        },
+        {
+          "startUid": "u1128",
+          "endUid": "u1130",
+          "quote": "“I'm gonna save myself,” and steps into the—"
+        },
+        {
+          "startUid": "u1379",
+          "endUid": "u1381",
+          "quote": "You're next to Faldrak."
+        }
+      ],
+      "from": "p03",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "Misty Step and run",
+      "note": "The later Scatter confirmation places Wellby inside the building beside Faldrak."
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1287",
+        "endUid": "u1348"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Delwath’s Scatter places unconscious Wellby inside the control building beside Faldrak.",
+      "evidence": [
+        {
+          "startUid": "u1292",
+          "endUid": "u1293",
+          "quote": "Inside the thing with Faldrak."
+        },
+        {
+          "startUid": "u1347",
+          "endUid": "u1348",
+          "quote": "Wellby moves inside the building too."
+        },
+        {
+          "startUid": "u1379",
+          "endUid": "u1381",
+          "quote": "You're next to Faldrak."
+        }
+      ],
+      "from": "p03",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "Scatter"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1294",
+        "endUid": "u1348"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Scatter moves Seeker to the north building rooftop, out of the silence.",
+      "evidence": [
+        {
+          "startUid": "u1294",
+          "endUid": "u1294",
+          "quote": "Seeker is going on top of the roof of the building."
+        },
+        {
+          "startUid": "u1347",
+          "endUid": "u1348",
+          "quote": "Seeker goes to the north building."
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "Scatter"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2336",
+        "endUid": "u2353"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Vindristjarna flies through the night and following day to Bitterwine Oak; the party remains aboard at the portal’s desert side.",
+      "evidence": [
+        {
+          "startUid": "u2336",
+          "endUid": "u2342",
+          "quote": "you reach this strange place in the desert"
+        },
+        {
+          "startUid": "u2344",
+          "endUid": "u2350",
+          "quote": "you follow the river, the Istaros, north, and then you veer west"
+        },
+        {
+          "startUid": "u2351",
+          "endUid": "u2353",
+          "quote": "white blossoms growing around the oak"
+        },
+        {
+          "startUid": "u2355",
+          "endUid": "u2358",
+          "quote": "will end before you go through the portal"
+        }
+      ],
+      "from": "p09",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "route": [
+        {
+          "reading": "Fly north along the Istaros.",
+          "place": "p12"
+        },
+        {
+          "reading": "Veer west and follow an unnamed dry riverbed for some miles."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "at",
+          "target": "p08"
+        }
+      ]
+    }
+  ]
+}

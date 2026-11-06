@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-time-markers.json",
+    "sha256": "d22cea623086616ba5db2d19b15964a8af0e005b4dacd42a1fd18b9d8571634d"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-transcript.md",
+    "sha256": "1fcf1567a1aadfa3c28d1092ee3639ab977412faa6eb875eb3b0d2d4cef91002"
+  },
+  "dateAssessment": "No absolute campaign date is spoken. The opening is approximately 23:00; using YAML’s May 30, 1749 start conditionally puts the explicitly next-day evening arrival on May 31. YAML’s recorded May 30 end conflicts with that overnight journey (t04). The corrected six-days-earlier Apollyon recap and the morning return are background, not additional played intervals. The eight-hour long-rest convention is contained within the flight, not added to its elapsed span; its precise start and end watches are open. The DM’s “1220” at u2310–u2314 refers to ending the recording, not an in-world clock.",
+  "watches": [
+    {
+      "day": "May 30, 1749",
+      "startDate": "1749-05-30",
+      "endDate": "1749-05-30",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Opening about 11 p.m.; Seeker’s five-minute silence and the brief thought probe follow.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ]
+    },
+    {
+      "day": "May 31, 1749",
+      "startDate": "1749-05-31",
+      "endDate": "1749-05-31",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Flight continues through the next day; long rest aboard, arrival around evening before nightfall.",
+      "markers": [
+        "t04",
+        "t05"
+      ]
+    }
+  ]
+}
