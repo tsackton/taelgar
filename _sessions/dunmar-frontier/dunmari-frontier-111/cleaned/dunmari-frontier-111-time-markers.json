@@ -1,0 +1,415 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-111",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-session.yaml",
+    "sessionYamlSha256": "c0aceff7269c4799c0282df5be5e01e6d52410458b922367016954a72328c4e1",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-transcript.md",
+    "transcriptSha256": "0995867716861afdee33251ad8334cab79044928b815e552b643040bfa4f183a",
+    "yamlDates": {
+      "start": "1749-05-21",
+      "end": "1749-05-22"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0040",
+        "endUid": "u0058"
+      },
+      "reading": "The reunion on Vindristjarna is around 1 p.m., just after lunch.",
+      "evidence": [
+        {
+          "startUid": "u0040",
+          "endUid": "u0044",
+          "quote": "Everybody else the rest of the crew is—(I can close that)—is, is sort of emerges onto the deck slowly in the afternoon sun as the folding boat lands, and Milo and Tilly disembark with the rest of the party."
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0058",
+          "quote": "So and this is now this is, let's say it's around one p.m. or so late, after just after lunch, mid afternoon in the tropics other than the strange magical storm. A warm, humid day, thunderclouds forming on the horizon for the frequent afternoon rainstorms that often pass through around, 2 or 3 heading for land. The rest of the—the rest of the ocean stretching so you can see the coast maybe 60 miles off, 50 miles off, not not super far. It's not an incredibly long journey to reach the coast. And it's this line of trees and jungle, and you can see the mouth of a river. That is presumably the river on which Drankor sits further inland."
+        }
+      ],
+      "time": {
+        "clock": "13:00",
+        "precision": "approximate",
+        "basis": "DM states the local clock; no absolute date is spoken."
+      },
+      "note": "The same passage also says mid afternoon; the numerical clock is more specific, and both wordings are retained."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0760",
+        "endUid": "u0776"
+      },
+      "reading": "An hour is spent sorting treasure before Milo and Tilly prepare to leave.",
+      "evidence": [
+        {
+          "startUid": "u0760",
+          "endUid": "u0776",
+          "quote": "after spending an hour sorting through the treasure and figuring out the next thing to do"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM retrospectively establishes the completed sorting interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1136",
+        "endUid": "u1141"
+      },
+      "reading": "By about 3 p.m., Faldrak sets course toward Drankor.",
+      "evidence": [
+        {
+          "startUid": "u1136",
+          "endUid": "u1136",
+          "quote": "By now. It's like 3 in the afternoon."
+        },
+        {
+          "startUid": "u1137",
+          "endUid": "u1138",
+          "quote": "Wow, okay, so let's head, Let's head towards Drankor till about midnight, and then stop."
+        },
+        {
+          "startUid": "u1141",
+          "endUid": "u1141",
+          "quote": "Faldrak goes and sets a course."
+        },
+        {
+          "startUid": "u1157",
+          "endUid": "u1163",
+          "quote": "So the ship begins to move as the rain clouds finally break and a brief afternoon thunderstorm breaks out. Everybody retreats inside, the giant pile of treasure still, partially sitting on the deck as the rain falls."
+        }
+      ],
+      "time": {
+        "clock": "15:00",
+        "precision": "approximate",
+        "basis": "DM states the local clock; no absolute date is spoken."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1563",
+        "endUid": "u1577"
+      },
+      "reading": "Dinner and the crossing from ocean to land occur after sunset.",
+      "evidence": [
+        {
+          "startUid": "u1563",
+          "endUid": "u1563",
+          "quote": "Okay? So at this point it's getting dark. The rains have passed."
+        },
+        {
+          "startUid": "u1564",
+          "endUid": "u1577",
+          "quote": "You're sitting around talking at dinner, as the ship now crosses, after sunset, from the ocean to the land near the mouth of this giant river, as you begin to travel, following the river, for now. Inland towards Drankor, probably 12 h away. So you'd if you just kept going, you'd reach there a couple hours after dawn. Maybe 8 in the morning. That you still have some time to decide what to do. You'll be 20 miles away at dawn. Sun rises. Yeah."
+        }
+      ],
+      "time": {
+        "partOfDay": "after sunset",
+        "precision": "approximate",
+        "basis": "DM states the local clock; no absolute date is spoken."
+      },
+      "note": "The projected twelve-hour arrival and possible 8 a.m. arrival are forecasts, later superseded by the actual stopping position."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1585",
+        "endUid": "u1590"
+      },
+      "reading": "The party rests through the night aboard the moving ship and wakes the next morning.",
+      "evidence": [
+        {
+          "startUid": "u1585",
+          "endUid": "u1590",
+          "quote": "So you rest for the night, as the ship continues to travel, in a straight path over the jungles, towards the city of Drankor."
+        },
+        {
+          "startUid": "u2379",
+          "endUid": "u2389",
+          "quote": "over the course of 12 h, ending around 7 in the morning, as you wake up"
+        },
+        {
+          "startUid": "u2649",
+          "endUid": "u2652",
+          "quote": "So, Eric? Anybody who still is like lingering stuff that you didn't long rest from go ahead and long rest and then reset. Then do this the thing right."
+        },
+        {
+          "startUid": "u2653",
+          "endUid": "u2653",
+          "quote": "Oh, oh, oh, oh, I have some spell slots ticked off. I need to rest. Yeah."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; the overnight and completed rest are established separately in the narration."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t07"
+        }
+      ],
+      "note": "Seeker uses Watchful Rest while casting; the spell preparation and rest overlap rather than adding another night."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1795",
+        "endUid": "u1818"
+      },
+      "reading": "Delwath resolves his earlier scry on Seeker’s double as a ten-minute watch on the previous evening/night.",
+      "evidence": [
+        {
+          "startUid": "u1795",
+          "endUid": "u1795",
+          "quote": "Wait. What happened to my scry of Seeker?"
+        },
+        {
+          "startUid": "u1796",
+          "endUid": "u1796",
+          "quote": "DM: When are you scrying? Yeah, that it Seeker failed."
+        },
+        {
+          "startUid": "u1797",
+          "endUid": "u1797",
+          "quote": "Delwath: That was last night. That was before we even did anything."
+        },
+        {
+          "startUid": "u1798",
+          "endUid": "u1805",
+          "quote": "DM: Okay, Seeker and Riswynn and Kenzo are standing on the docks. Looking sort of glassy eyed a little bit, staring out at the river. You do not see Wellby or Delwath."
+        },
+        {
+          "startUid": "u1809",
+          "endUid": "u1811",
+          "quote": "They're just standing there, I mean, I'll watch for 10 min. Is there anything interesting? Is there any other things moving around that I can see like there's no like zombies crawling up out of the river, or anything. Are there?"
+        },
+        {
+          "startUid": "u1812",
+          "endUid": "u1814",
+          "quote": "DM: Not not at the docks. No. Yeah, they don't. They don't. I mean, they don't seem to be doing much like they're just kind of standing there like they're not even really talking."
+        },
+        {
+          "startUid": "u1815",
+          "endUid": "u1816",
+          "quote": "Delwath: The right— half deactivated."
+        },
+        {
+          "startUid": "u1817",
+          "endUid": "u1818",
+          "quote": "DM: They're like, yeah, they're like, half deactivated. Standby mode."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Delwath elects to watch for ten minutes; the DM resolves what he sees."
+      },
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t07",
+          "anchor": "the next-morning completion of the simulacrum ritual"
+        },
+        "partOfDay": "previous evening/night",
+        "precision": "approximate",
+        "basis": "The table explicitly places the earlier scry last night."
+      },
+      "completion": "completed",
+      "note": "This retrospectively resolves the scry proposed before the sunset crossing; it does not add time after the morning scene."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2365",
+        "endUid": "u2389"
+      },
+      "reading": "Seeker completes twelve hours of simulacrum casting at about 7 a.m. the next morning.",
+      "evidence": [
+        {
+          "startUid": "u2299",
+          "endUid": "u2300",
+          "quote": "No, sorry, it compared to dawn. When is this? I thought we were kicking off this simulacrum at like 5. It would be ready at pre dawn, right?"
+        },
+        {
+          "startUid": "u2301",
+          "endUid": "u2302",
+          "quote": "DM: Well, you're like, I mean it Yeah, it's probably like 7 is about the earliest you could start."
+        },
+        {
+          "startUid": "u2303",
+          "endUid": "u2303",
+          "quote": "Delwath: I am."
+        },
+        {
+          "startUid": "u2304",
+          "endUid": "u2305",
+          "quote": "DM: A little after dawn, but, like whatever you can take, cast some spells and rest for an hour. It doesn't really."
+        },
+        {
+          "startUid": "u2365",
+          "endUid": "u2371",
+          "quote": "You and then Delwath— Seeker gathers together a big pile of ice and snow the size of Delwath, and begins casting the simulacrum spell."
+        },
+        {
+          "startUid": "u2379",
+          "endUid": "u2389",
+          "quote": "And over the course of 12 h, ending around 7 in the morning, as you wake up and look across the jungle, now about 15 miles from the city of Drankor, a second copy of Delwath leaps up from where pile of ice and snow once was. And you look across the jungle. And you can see the the line of the river now, winding below you and stretching off to the west."
+        },
+        {
+          "startUid": "u2449",
+          "endUid": "u2453",
+          "quote": "So you are now as dawn breaks about 15 miles away almost directly due south above the river, probably visible if anybody's watching."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "duration": {
+        "value": 12,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "The completed casting interval is explicitly twelve hours."
+      },
+      "timeRange": {
+        "start": {
+          "clock": "19:00",
+          "precision": "approximate",
+          "basis": "Inferred by subtracting twelve hours from the stated approximately 7 a.m. completion; the DM also says 7 is the earliest evening start."
+        },
+        "end": {
+          "clock": "07:00",
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM states the local clock; no absolute date is spoken."
+        }
+      },
+      "completion": "completed",
+      "note": "The DM also calls this dawn breaking. The 7 a.m. clock supports the morning watch; dawn is retained as loose descriptive wording."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2695",
+        "endUid": "u2696"
+      },
+      "reading": "Delwath completes a short rest as Vindristjarna approaches Drankor.",
+      "evidence": [
+        {
+          "startUid": "u2304",
+          "endUid": "u2305",
+          "quote": "A little after dawn, but, like whatever you can take, cast some spells and rest for an hour. It doesn't really."
+        },
+        {
+          "startUid": "u2695",
+          "endUid": "u2696",
+          "quote": "Delwath short rests as the Vindristjarna creeps closer, traveling up the river."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention, supported by the prior plan to rest for an hour after scrying."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2712",
+        "endUid": "u2718"
+      },
+      "reading": "The approach is narrated through twenty, thirty, then forty/fifty minutes; about 8:30 a.m. is stated before the final one-mile position.",
+      "evidence": [
+        {
+          "startUid": "u2712",
+          "endUid": "u2718",
+          "quote": "You press forward for the next 20 min, 2 miles closer, 30 min. It's now maybe 8 30 in the morning. 40, 50 min pass. You're about a mile away from the city when the sky begins to darken again, and you hear a peal of thunder."
+        }
+      ],
+      "time": {
+        "clock": "08:30",
+        "precision": "approximate",
+        "basis": "DM states the local clock; no absolute date is spoken."
+      },
+      "note": "The changing minute counts may revise or extend one another. No exact aggregate duration is assigned, and the clock is not asserted to date the final one-mile halt."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2872",
+        "endUid": "u2877"
+      },
+      "reading": "The ship spends about twenty minutes circling toward the western side of Drankor.",
+      "evidence": [
+        {
+          "startUid": "u2848",
+          "endUid": "u2848",
+          "quote": "Okay. So the ship turns west."
+        },
+        {
+          "startUid": "u2849",
+          "endUid": "u2849",
+          "quote": "Riswynn: And circles the city."
+        },
+        {
+          "startUid": "u2872",
+          "endUid": "u2877",
+          "quote": "Okay? So you fly around. You travel for, you know, 20 min or something like that. Flying through the jungle you can see below you. Now you're close enough. You can see this grand plaza, I mean, there's still some roads that cut through. The trees haven't overgrown the roads. It seems like there was once, I mean there's a grid. And there was all of these big like manors and villas, with courtyards that are all just wracked with trees growing through them."
+        },
+        {
+          "startUid": "u2978",
+          "endUid": "u2988",
+          "quote": "As you find yourself now on the western edge of the city, the red mists in Apollyon's tomb to the northeast; the Grand Plaza and the temple of the divine—the 8 divines to the sort of southeast, and then the expanse of the jungle, broken by these kind of occasional towers and and domes that stick up from the canopies of the trees and small glimpses of the forest. You're about a mile and a half from the tower and the docks. It's up to you where you want to land and what your approach is going to be. Anybody."
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates the completed circuit as twenty minutes or something like that."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute calendar date is spoken. Conditional on the YAML opening date of 1749-05-21, the one completed overnight reaches 1749-05-22.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t03",
+      "t04",
+      "t05",
+      "t07",
+      "t09",
+      "t10"
+    ],
+    "explanation": "Active play runs from the afternoon reunion to the following morning approach. The casting and rest describe the same overnight; the retrospectively resolved scry belongs to that voyage. Riswynn’s arrival yesterday evening and her earlier rescue account are background to the reunion, not separately played additional days. Spell forecasts, lich regeneration estimates and the real-world midnight cutoff add no adventure time."
+  }
+}

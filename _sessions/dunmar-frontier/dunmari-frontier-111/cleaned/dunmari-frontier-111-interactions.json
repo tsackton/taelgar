@@ -1,0 +1,2243 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "0995867716861afdee33251ad8334cab79044928b815e552b643040bfa4f183a"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-entity-map.json",
+      "sha256": "cf7401ce6d51681bfe48e4c7919b60451f28ac1a5d6c9deab0178ec3c7c44356"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Amil welcomes the returning party",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0148",
+        "endUid": "u0150"
+      },
+      "lines": [
+        "%% u0148:0-9, u0149:0-94, u0150:0-141 %%",
+        "DM: Amil, the—the young Dunmari monk is, you know, eager and curious and excited to hear what you found, and in his, you know, with his big smile and sort of getting getting better constantly, sort of going through his forms, as Kenzo has taught him.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Hmm.",
+          "Delwath: I think Delwath is— I think he's probably more in a grimmer mood than Wellby, it— the time on the island was— I mean, yeah, we we killed a dragon and bound the Cloudspinner and understood some stuff. But— I think there's this sense of like, it's a, the whole thing is kind of a lost time that's gone, right? You know. It used to be that elves were a bigger part of the world, and had this whole interaction with humanity, and were integrated into the sort of empire. And, you know, there's a sense of like seeing a time that he almost would have rather like a you know, a golden age from his perspective, and it's all kind of fallen apart a bit, or quite a long time ago fell apart. And— then just— thinking ahead to the it's almost like that was a warm-up. So I think he's in sort of a serious and bit grim mood. Probably. You know, glad to be back on Vindristjarna, but like in preparations, right? Like, taking out his sword and sort of cleaning all the demon blood off, and I guess it cleans itself. But, like— you know, preparing kind of, going through sort of quartermastery things, and just sort of, little restless. But feeling very like preparing for a storm to come.",
+          "Seeker: Seeker seems tired. The adventure was— intense and wore us all down. And you can—you can see that in Seeker's bearing. What you can also see is that he is in another place. He, normally so sharply attentive and focused on practical matters at hand, is now noticeably imagining other times and places, thinking about the time when the circular island walked on its gigantic feet. The times when mountains rose and fell. All at once the—the— era of Drankor's rise and fall. There's a lot to contemplate now, as we walk into a new situation with a lot of history behind it that we don't fully understand, much less its connection to the dynamics of colliding planes. So that's where Seeker is.",
+          "Riswynn: Riswynn is radiating with the competence of having been working very closely with her gods in her home space. But sort of haunted by the darkness that she was facing, and the situation where she needed to draw on that power, and thinking, you know, that she doesn't know what has gone on with everyone else, and how things are going to unfold with Apollyon, and next steps. But— has that peaceful quiet that she can rest in her, in her chapel at Vindristjarna. Get ready.",
+          "DM: So, as you return your crew all sort of gathered on the deck, having clearly been sort of nervous and worried about you, are sort of worried about like well, what's going to happen, although Faldrak, of course, is like, Oh, yeah, we totally could have rescued them."
+        ],
+        "after": [
+          "DM: The Orc twin sisters, Aygul and Nuzkar. Aygul was killed and resurrected only a week ago now, and is still struggling to come back from that and still looks a little bit pale. But of course Nuzkar has—yeah, you know, surmised where you are and can't resist her sort of. She's the one who pieced together all of the notes and maps of Drankor that you found in the chewed up archives of Kharsan, when you randomly decide to stop there for no reason at all, and it turned out to be useful. I can't help but sort of glance. She's clearly been thinking about Drankor.",
+          "DM: Jotha, the Deno'qai, she's been through a lot, I mean. She's also was killed by Seeker, Seeker's doppelganger. And she looks nervous by Seeker, of course. She looks nervous. She's, she feels the gods are themselves nervous and glances at Delwath a lot like, \"Are you feeling this, too?\"",
+          "DM: Kethra, who's returned with Riswynn, is in her armor, carrying a new gleaming sword. Like, just every, every time she's like, \"She was amazing! Like, have you seen her cast heal? Have you seen, like, that warhammer?\" Can't stop talking about how amazing it was to be on an actual adventure with Riswynn. She's clearly gained a few levels herself. Égnir, the elf, is always shy and a bit reserved and quiet. But you can see while you've been gone he's been working. He's been weaving a tapestry, turning some of Kenzo's stories into wall hangings for the dining hall for the— around Vindristjarna, in addition to tending the giant tree that grows from the middle of Vindristjarna.",
+          "DM: And as you and Milo and Tilly, of course, are quite pleased to have helped to kill a dragon and talking about where to go next. You know, talking to their crew. Having discussed that they are hoping to once they drop you off and get settled, and as you turn to your next mission, to take a folding boat and sail. They're not quite sure where yet, but south somewhere.",
+          "DM: But of course, having returned with a portable hole incredibly full of treasure, including quite a lot of magic. The 1st thing you have to do is empty out the portable hole. And as you do, the biggest and most obvious thing that comes out is this massive stone crystal block, filling like a large fraction of the portable hole, semi-translucent, smoky. Encased within you can see the naked body of the Cloudspinner, breathing, but clearly, in some kind of suspended state. A problem to be solved. Perhaps when you have more time."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Aygul’s recovery and Nuzkar’s research",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0151",
+        "endUid": "u0161"
+      },
+      "lines": [
+        "%% u0151:0-31, u0152:0-7, u0153:0-37, u0154:0-57, u0155:0-43, u0156:0-21, u0157:0-5, u0158:0-125, u0159:0-29, u0160:0-123, u0161:0-73 %%",
+        "DM: The Orc twin sisters, Aygul and Nuzkar. Aygul was killed and resurrected only a week ago now, and is still struggling to come back from that and still looks a little bit pale. But of course Nuzkar has—yeah, you know, surmised where you are and can't resist her sort of. She's the one who pieced together all of the notes and maps of Drankor that you found in the chewed up archives of Kharsan, when you randomly decide to stop there for no reason at all, and it turned out to be useful. I can't help but sort of glance. She's clearly been thinking about Drankor.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I think Delwath is— I think he's probably more in a grimmer mood than Wellby, it— the time on the island was— I mean, yeah, we we killed a dragon and bound the Cloudspinner and understood some stuff. But— I think there's this sense of like, it's a, the whole thing is kind of a lost time that's gone, right? You know. It used to be that elves were a bigger part of the world, and had this whole interaction with humanity, and were integrated into the sort of empire. And, you know, there's a sense of like seeing a time that he almost would have rather like a you know, a golden age from his perspective, and it's all kind of fallen apart a bit, or quite a long time ago fell apart. And— then just— thinking ahead to the it's almost like that was a warm-up. So I think he's in sort of a serious and bit grim mood. Probably. You know, glad to be back on Vindristjarna, but like in preparations, right? Like, taking out his sword and sort of cleaning all the demon blood off, and I guess it cleans itself. But, like— you know, preparing kind of, going through sort of quartermastery things, and just sort of, little restless. But feeling very like preparing for a storm to come.",
+          "Seeker: Seeker seems tired. The adventure was— intense and wore us all down. And you can—you can see that in Seeker's bearing. What you can also see is that he is in another place. He, normally so sharply attentive and focused on practical matters at hand, is now noticeably imagining other times and places, thinking about the time when the circular island walked on its gigantic feet. The times when mountains rose and fell. All at once the—the— era of Drankor's rise and fall. There's a lot to contemplate now, as we walk into a new situation with a lot of history behind it that we don't fully understand, much less its connection to the dynamics of colliding planes. So that's where Seeker is.",
+          "Riswynn: Riswynn is radiating with the competence of having been working very closely with her gods in her home space. But sort of haunted by the darkness that she was facing, and the situation where she needed to draw on that power, and thinking, you know, that she doesn't know what has gone on with everyone else, and how things are going to unfold with Apollyon, and next steps. But— has that peaceful quiet that she can rest in her, in her chapel at Vindristjarna. Get ready.",
+          "DM: So, as you return your crew all sort of gathered on the deck, having clearly been sort of nervous and worried about you, are sort of worried about like well, what's going to happen, although Faldrak, of course, is like, Oh, yeah, we totally could have rescued them.",
+          "DM: Amil, the—the young Dunmari monk is, you know, eager and curious and excited to hear what you found, and in his, you know, with his big smile and sort of getting getting better constantly, sort of going through his forms, as Kenzo has taught him."
+        ],
+        "after": [
+          "DM: Jotha, the Deno'qai, she's been through a lot, I mean. She's also was killed by Seeker, Seeker's doppelganger. And she looks nervous by Seeker, of course. She looks nervous. She's, she feels the gods are themselves nervous and glances at Delwath a lot like, \"Are you feeling this, too?\"",
+          "DM: Kethra, who's returned with Riswynn, is in her armor, carrying a new gleaming sword. Like, just every, every time she's like, \"She was amazing! Like, have you seen her cast heal? Have you seen, like, that warhammer?\" Can't stop talking about how amazing it was to be on an actual adventure with Riswynn. She's clearly gained a few levels herself. Égnir, the elf, is always shy and a bit reserved and quiet. But you can see while you've been gone he's been working. He's been weaving a tapestry, turning some of Kenzo's stories into wall hangings for the dining hall for the— around Vindristjarna, in addition to tending the giant tree that grows from the middle of Vindristjarna.",
+          "DM: And as you and Milo and Tilly, of course, are quite pleased to have helped to kill a dragon and talking about where to go next. You know, talking to their crew. Having discussed that they are hoping to once they drop you off and get settled, and as you turn to your next mission, to take a folding boat and sail. They're not quite sure where yet, but south somewhere.",
+          "DM: But of course, having returned with a portable hole incredibly full of treasure, including quite a lot of magic. The 1st thing you have to do is empty out the portable hole. And as you do, the biggest and most obvious thing that comes out is this massive stone crystal block, filling like a large fraction of the portable hole, semi-translucent, smoky. Encased within you can see the naked body of the Cloudspinner, breathing, but clearly, in some kind of suspended state. A problem to be solved. Perhaps when you have more time.",
+          "DM: The Orcs, of course, are like, just blown away by this, seeing as she is the one who initially broke their ties to Thark and freed the people of the rainbow in the beginning, and Nuzkar swears it will be her mission now to find how to free her from this entrapment."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Jotha is nervous around Seeker",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e042",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0162",
+        "endUid": "u0168"
+      },
+      "lines": [
+        "%% u0162:0-19, u0163:0-5, u0164:0-14, u0165:0-67, u0166:0-43, u0167:0-24, u0168:0-103 %%",
+        "DM: Jotha, the Deno'qai, she's been through a lot, I mean. She's also was killed by Seeker, Seeker's doppelganger. And she looks nervous by Seeker, of course. She looks nervous. She's, she feels the gods are themselves nervous and glances at Delwath a lot like, \"Are you feeling this, too?\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Seeker seems tired. The adventure was— intense and wore us all down. And you can—you can see that in Seeker's bearing. What you can also see is that he is in another place. He, normally so sharply attentive and focused on practical matters at hand, is now noticeably imagining other times and places, thinking about the time when the circular island walked on its gigantic feet. The times when mountains rose and fell. All at once the—the— era of Drankor's rise and fall. There's a lot to contemplate now, as we walk into a new situation with a lot of history behind it that we don't fully understand, much less its connection to the dynamics of colliding planes. So that's where Seeker is.",
+          "Riswynn: Riswynn is radiating with the competence of having been working very closely with her gods in her home space. But sort of haunted by the darkness that she was facing, and the situation where she needed to draw on that power, and thinking, you know, that she doesn't know what has gone on with everyone else, and how things are going to unfold with Apollyon, and next steps. But— has that peaceful quiet that she can rest in her, in her chapel at Vindristjarna. Get ready.",
+          "DM: So, as you return your crew all sort of gathered on the deck, having clearly been sort of nervous and worried about you, are sort of worried about like well, what's going to happen, although Faldrak, of course, is like, Oh, yeah, we totally could have rescued them.",
+          "DM: Amil, the—the young Dunmari monk is, you know, eager and curious and excited to hear what you found, and in his, you know, with his big smile and sort of getting getting better constantly, sort of going through his forms, as Kenzo has taught him.",
+          "DM: The Orc twin sisters, Aygul and Nuzkar. Aygul was killed and resurrected only a week ago now, and is still struggling to come back from that and still looks a little bit pale. But of course Nuzkar has—yeah, you know, surmised where you are and can't resist her sort of. She's the one who pieced together all of the notes and maps of Drankor that you found in the chewed up archives of Kharsan, when you randomly decide to stop there for no reason at all, and it turned out to be useful. I can't help but sort of glance. She's clearly been thinking about Drankor."
+        ],
+        "after": [
+          "DM: Kethra, who's returned with Riswynn, is in her armor, carrying a new gleaming sword. Like, just every, every time she's like, \"She was amazing! Like, have you seen her cast heal? Have you seen, like, that warhammer?\" Can't stop talking about how amazing it was to be on an actual adventure with Riswynn. She's clearly gained a few levels herself. Égnir, the elf, is always shy and a bit reserved and quiet. But you can see while you've been gone he's been working. He's been weaving a tapestry, turning some of Kenzo's stories into wall hangings for the dining hall for the— around Vindristjarna, in addition to tending the giant tree that grows from the middle of Vindristjarna.",
+          "DM: And as you and Milo and Tilly, of course, are quite pleased to have helped to kill a dragon and talking about where to go next. You know, talking to their crew. Having discussed that they are hoping to once they drop you off and get settled, and as you turn to your next mission, to take a folding boat and sail. They're not quite sure where yet, but south somewhere.",
+          "DM: But of course, having returned with a portable hole incredibly full of treasure, including quite a lot of magic. The 1st thing you have to do is empty out the portable hole. And as you do, the biggest and most obvious thing that comes out is this massive stone crystal block, filling like a large fraction of the portable hole, semi-translucent, smoky. Encased within you can see the naked body of the Cloudspinner, breathing, but clearly, in some kind of suspended state. A problem to be solved. Perhaps when you have more time.",
+          "DM: The Orcs, of course, are like, just blown away by this, seeing as she is the one who initially broke their ties to Thark and freed the people of the rainbow in the beginning, and Nuzkar swears it will be her mission now to find how to free her from this entrapment.",
+          "DM: Thousands upon thousands of rings, almost. So I asked, ChatGPT, here's the list of treasure the party wants to leave behind a like mix of stuff, but take everything that has gems because you really mostly care about diamonds and rubies and take the things that have the most, the highest value, and have the best gold to volume ratio. So you leave behind all the like crystal and the like. You know, silver platters and things that are big."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Kethra praises Riswynn",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0169",
+        "endUid": "u0176"
+      },
+      "lines": [
+        "%% u0169:0-166, u0170:0-198, u0171:0-26, u0172:0-6, u0173:0-48, u0174:0-18, u0175:0-98, u0176:0-104 %%",
+        "DM: Kethra, who's returned with Riswynn, is in her armor, carrying a new gleaming sword. Like, just every, every time she's like, \"She was amazing! Like, have you seen her cast heal? Have you seen, like, that warhammer?\" Can't stop talking about how amazing it was to be on an actual adventure with Riswynn. She's clearly gained a few levels herself. ((Égnir’s work))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Riswynn is radiating with the competence of having been working very closely with her gods in her home space. But sort of haunted by the darkness that she was facing, and the situation where she needed to draw on that power, and thinking, you know, that she doesn't know what has gone on with everyone else, and how things are going to unfold with Apollyon, and next steps. But— has that peaceful quiet that she can rest in her, in her chapel at Vindristjarna. Get ready.",
+          "DM: So, as you return your crew all sort of gathered on the deck, having clearly been sort of nervous and worried about you, are sort of worried about like well, what's going to happen, although Faldrak, of course, is like, Oh, yeah, we totally could have rescued them.",
+          "DM: Amil, the—the young Dunmari monk is, you know, eager and curious and excited to hear what you found, and in his, you know, with his big smile and sort of getting getting better constantly, sort of going through his forms, as Kenzo has taught him.",
+          "DM: The Orc twin sisters, Aygul and Nuzkar. Aygul was killed and resurrected only a week ago now, and is still struggling to come back from that and still looks a little bit pale. But of course Nuzkar has—yeah, you know, surmised where you are and can't resist her sort of. She's the one who pieced together all of the notes and maps of Drankor that you found in the chewed up archives of Kharsan, when you randomly decide to stop there for no reason at all, and it turned out to be useful. I can't help but sort of glance. She's clearly been thinking about Drankor.",
+          "DM: Jotha, the Deno'qai, she's been through a lot, I mean. She's also was killed by Seeker, Seeker's doppelganger. And she looks nervous by Seeker, of course. She looks nervous. She's, she feels the gods are themselves nervous and glances at Delwath a lot like, \"Are you feeling this, too?\""
+        ],
+        "after": [
+          "DM: And as you and Milo and Tilly, of course, are quite pleased to have helped to kill a dragon and talking about where to go next. You know, talking to their crew. Having discussed that they are hoping to once they drop you off and get settled, and as you turn to your next mission, to take a folding boat and sail. They're not quite sure where yet, but south somewhere.",
+          "DM: But of course, having returned with a portable hole incredibly full of treasure, including quite a lot of magic. The 1st thing you have to do is empty out the portable hole. And as you do, the biggest and most obvious thing that comes out is this massive stone crystal block, filling like a large fraction of the portable hole, semi-translucent, smoky. Encased within you can see the naked body of the Cloudspinner, breathing, but clearly, in some kind of suspended state. A problem to be solved. Perhaps when you have more time.",
+          "DM: The Orcs, of course, are like, just blown away by this, seeing as she is the one who initially broke their ties to Thark and freed the people of the rainbow in the beginning, and Nuzkar swears it will be her mission now to find how to free her from this entrapment.",
+          "DM: Thousands upon thousands of rings, almost. So I asked, ChatGPT, here's the list of treasure the party wants to leave behind a like mix of stuff, but take everything that has gems because you really mostly care about diamonds and rubies and take the things that have the most, the highest value, and have the best gold to volume ratio. So you leave behind all the like crystal and the like. You know, silver platters and things that are big.",
+          "DM: Almost 500,000 coins, mostly silver. 14,000 rings, mostly relatively plain, but still worth probably like one to 2 gold each. A few 1,000 of which are more elaborate gold engraved, decorated with gemstones, about 5,000 earrings, including a few that contained diamonds and rubies that you could disentangle to recover some gems for magic."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Égnir’s tapestries and tree tending",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0169",
+        "endUid": "u0176"
+      },
+      "lines": [
+        "%% u0169:0-166, u0170:0-198, u0171:0-26, u0172:0-6, u0173:0-48, u0174:0-18, u0175:0-98, u0176:0-104 %%",
+        "DM: ((Kethra’s account)) Égnir, the elf, is always shy and a bit reserved and quiet. But you can see while you've been gone he's been working. He's been weaving a tapestry, turning some of Kenzo's stories into wall hangings for the dining hall for the— around Vindristjarna, in addition to tending the giant tree that grows from the middle of Vindristjarna.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Riswynn is radiating with the competence of having been working very closely with her gods in her home space. But sort of haunted by the darkness that she was facing, and the situation where she needed to draw on that power, and thinking, you know, that she doesn't know what has gone on with everyone else, and how things are going to unfold with Apollyon, and next steps. But— has that peaceful quiet that she can rest in her, in her chapel at Vindristjarna. Get ready.",
+          "DM: So, as you return your crew all sort of gathered on the deck, having clearly been sort of nervous and worried about you, are sort of worried about like well, what's going to happen, although Faldrak, of course, is like, Oh, yeah, we totally could have rescued them.",
+          "DM: Amil, the—the young Dunmari monk is, you know, eager and curious and excited to hear what you found, and in his, you know, with his big smile and sort of getting getting better constantly, sort of going through his forms, as Kenzo has taught him.",
+          "DM: The Orc twin sisters, Aygul and Nuzkar. Aygul was killed and resurrected only a week ago now, and is still struggling to come back from that and still looks a little bit pale. But of course Nuzkar has—yeah, you know, surmised where you are and can't resist her sort of. She's the one who pieced together all of the notes and maps of Drankor that you found in the chewed up archives of Kharsan, when you randomly decide to stop there for no reason at all, and it turned out to be useful. I can't help but sort of glance. She's clearly been thinking about Drankor.",
+          "DM: Jotha, the Deno'qai, she's been through a lot, I mean. She's also was killed by Seeker, Seeker's doppelganger. And she looks nervous by Seeker, of course. She looks nervous. She's, she feels the gods are themselves nervous and glances at Delwath a lot like, \"Are you feeling this, too?\""
+        ],
+        "after": [
+          "DM: And as you and Milo and Tilly, of course, are quite pleased to have helped to kill a dragon and talking about where to go next. You know, talking to their crew. Having discussed that they are hoping to once they drop you off and get settled, and as you turn to your next mission, to take a folding boat and sail. They're not quite sure where yet, but south somewhere.",
+          "DM: But of course, having returned with a portable hole incredibly full of treasure, including quite a lot of magic. The 1st thing you have to do is empty out the portable hole. And as you do, the biggest and most obvious thing that comes out is this massive stone crystal block, filling like a large fraction of the portable hole, semi-translucent, smoky. Encased within you can see the naked body of the Cloudspinner, breathing, but clearly, in some kind of suspended state. A problem to be solved. Perhaps when you have more time.",
+          "DM: The Orcs, of course, are like, just blown away by this, seeing as she is the one who initially broke their ties to Thark and freed the people of the rainbow in the beginning, and Nuzkar swears it will be her mission now to find how to free her from this entrapment.",
+          "DM: Thousands upon thousands of rings, almost. So I asked, ChatGPT, here's the list of treasure the party wants to leave behind a like mix of stuff, but take everything that has gems because you really mostly care about diamonds and rubies and take the things that have the most, the highest value, and have the best gold to volume ratio. So you leave behind all the like crystal and the like. You know, silver platters and things that are big.",
+          "DM: Almost 500,000 coins, mostly silver. 14,000 rings, mostly relatively plain, but still worth probably like one to 2 gold each. A few 1,000 of which are more elaborate gold engraved, decorated with gemstones, about 5,000 earrings, including a few that contained diamonds and rubies that you could disentangle to recover some gems for magic."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Cloudspinner’s suspended body and Nuzkar’s pledge",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e056",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0181",
+        "endUid": "u0199"
+      },
+      "lines": [
+        "%% u0181:0-51, u0182:0-89, u0183:0-31, u0184:0-14, u0185:0-34, u0186:0-30, u0187:0-20, u0188:0-20, u0189:0-55, u0190:0-26, u0191:0-34, u0192:0-39, u0193:0-16, u0194:0-56 %%",
+        "DM: But of course, having returned with a portable hole incredibly full of treasure, including quite a lot of magic. The 1st thing you have to do is empty out the portable hole. And as you do, the biggest and most obvious thing that comes out is this massive stone crystal block, filling like a large fraction of the portable hole, semi-translucent, smoky. Encased within you can see the naked body of the Cloudspinner, breathing, but clearly, in some kind of suspended state. A problem to be solved. Perhaps when you have more time.",
+        "",
+        "%% u0195:0-29, u0196:0-4, u0197:0-142, u0198:0-48, u0199:0-37 %%",
+        "DM: The Orcs, of course, are like, just blown away by this, seeing as she is the one who initially broke their ties to Thark and freed the people of the rainbow in the beginning, and Nuzkar swears it will be her mission now to find how to free her from this entrapment.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Amil, the—the young Dunmari monk is, you know, eager and curious and excited to hear what you found, and in his, you know, with his big smile and sort of getting getting better constantly, sort of going through his forms, as Kenzo has taught him.",
+          "DM: The Orc twin sisters, Aygul and Nuzkar. Aygul was killed and resurrected only a week ago now, and is still struggling to come back from that and still looks a little bit pale. But of course Nuzkar has—yeah, you know, surmised where you are and can't resist her sort of. She's the one who pieced together all of the notes and maps of Drankor that you found in the chewed up archives of Kharsan, when you randomly decide to stop there for no reason at all, and it turned out to be useful. I can't help but sort of glance. She's clearly been thinking about Drankor.",
+          "DM: Jotha, the Deno'qai, she's been through a lot, I mean. She's also was killed by Seeker, Seeker's doppelganger. And she looks nervous by Seeker, of course. She looks nervous. She's, she feels the gods are themselves nervous and glances at Delwath a lot like, \"Are you feeling this, too?\"",
+          "DM: Kethra, who's returned with Riswynn, is in her armor, carrying a new gleaming sword. Like, just every, every time she's like, \"She was amazing! Like, have you seen her cast heal? Have you seen, like, that warhammer?\" Can't stop talking about how amazing it was to be on an actual adventure with Riswynn. She's clearly gained a few levels herself. Égnir, the elf, is always shy and a bit reserved and quiet. But you can see while you've been gone he's been working. He's been weaving a tapestry, turning some of Kenzo's stories into wall hangings for the dining hall for the— around Vindristjarna, in addition to tending the giant tree that grows from the middle of Vindristjarna.",
+          "DM: And as you and Milo and Tilly, of course, are quite pleased to have helped to kill a dragon and talking about where to go next. You know, talking to their crew. Having discussed that they are hoping to once they drop you off and get settled, and as you turn to your next mission, to take a folding boat and sail. They're not quite sure where yet, but south somewhere."
+        ],
+        "after": [
+          "DM: Thousands upon thousands of rings, almost. So I asked, ChatGPT, here's the list of treasure the party wants to leave behind a like mix of stuff, but take everything that has gems because you really mostly care about diamonds and rubies and take the things that have the most, the highest value, and have the best gold to volume ratio. So you leave behind all the like crystal and the like. You know, silver platters and things that are big.",
+          "DM: Almost 500,000 coins, mostly silver. 14,000 rings, mostly relatively plain, but still worth probably like one to 2 gold each. A few 1,000 of which are more elaborate gold engraved, decorated with gemstones, about 5,000 earrings, including a few that contained diamonds and rubies that you could disentangle to recover some gems for magic.",
+          "DM: About 2,500 necklaces. Again, including a few with, with gem, with potentially useful gemstones for magic.",
+          "DM: Only a handful of the most elaborate and well crafted hairpins and combs, having left most of the 5,000 hair pieces of various kinds behind for the dragonets to play with. And also only a few of the belt, buckles, fasteners, brooches, cloak pins, primarily only the ones containing gems, again, a few with rubies and diamonds.",
+          "DM: 500 gold and crystal items, leaving behind most of the plainer silver ewers and pitchers, and silverware and cutlery, and plates and serving dishes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Eyes of far-seeing are identified",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0302",
+        "endUid": "u0319"
+      },
+      "lines": [
+        "%% u0302:0-86, u0303:0-16, u0304:0-87, u0305:0-6, u0306:0-34, u0307:0-63, u0308:0-23, u0309:0-201, u0310:0-18, u0311:0-9 %%",
+        "DM: ((Treasure-list introduction)) There's a small silvery jewelry box decorated with a poem about farseeing in Drankorian. Inside there's 5 large—this you already identified—there's 5 large pearls, each painted to resemble an eye. I mean, these are eyes of far seeing. You can put one into an object. You left one behind on Dimitaur's throne. And it's.",
+        "",
+        "%% u0312:0-5, u0313:0-7, u0314:0-10 %%",
+        "((Brief interruptions))",
+        "",
+        "%% u0315:0-41, u0316:0-205, u0317:0-38, u0318:0-28, u0319:0-76 %%",
+        "DM: Each each each stone when you install it, there's a command word, and there's a small mirror on the inside of the box, and you can speak the command word, and whatever is being seen through the stone appears on the mirror on the inside of the box. You can also once a day, as an action, speak and hear from the eye. So it's continual seeing anytime you want to look; once a day, communication.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The weapons are almost entirely just plus one weapons, although 2 of them are just moon-touched. They— You can make them glow. The rings are mostly things that let you do things like. There's 6 rings that let you cast prestidigitation, prestidigitation once a day. There's 1 ring that functions as the pearl of power. 2 that are a matched set that function as sending stones. So if you're out wearing one, you can talk to.",
+          "Delwath: That's useful",
+          "DM: Whoever is wearing the other.",
+          "Delwath: We could use some more sending stones.",
+          "DM: Two that let you cast mending once a day. Two that let you cast guidance. One only if you're using the survival skill, one only if you're using the acrobatic skill. It's a bunch of stuff like this."
+        ],
+        "after": [
+          "DM: There is a fine gold chain necklace, from which 8 perfect rubies hang on thin golden threads, which is the necklace of fireballs. You have been waiting for for a long, long time. But it's not. It doesn't recharge. It gives you 8 fireballs that you can use right.",
+          "Riswynn: Glorious.",
+          "DM: There are 3 potions. One is in a crystal vial, a syrupy liquid that looks like liquefied iron, which Riswynn identifies as a potion of invulnerability. For 1 min after you drink the potion, you have resistance to all damage.",
+          "Seeker: Oh, yeah.",
+          "DM: So half damage from any source of damage for 1 min."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Necklace of fireballs",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0320",
+        "endUid": "u0323"
+      },
+      "lines": [
+        "%% u0320:0-93, u0321:0-84, u0322:0-83 %%",
+        "DM: There is a fine gold chain necklace, from which 8 perfect rubies hang on thin golden threads, which is the necklace of fireballs. You have been waiting for for a long, long time. But it's not. It doesn't recharge. It gives you 8 fireballs that you can use right.",
+        "",
+        "%% u0323:0-9 %%",
+        "Riswynn: Glorious.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I'll I'll post the link and you can, and you can decide what, if anything, you want to keep among that. The rarer items, however, are much more interesting. These are all the things that were stored separately in Ra'ghemdros's hoard. There's a small silvery jewelry box decorated with a poem about farseeing in Drankorian. Inside there's 5 large—this you already identified—there's 5 large pearls, each painted to resemble an eye. I mean, these are eyes of far seeing. You can put one into an object. You left one behind on Dimitaur's throne. And it's.",
+          "Seeker: It's.",
+          "DM: For us.",
+          "Seeker: Their own.",
+          "DM: Each each each stone when you install it, there's a command word, and there's a small mirror on the inside of the box, and you can speak the command word, and whatever is being seen through the stone appears on the mirror on the inside of the box. You can also once a day, as an action, speak and hear from the eye. So it's continual seeing anytime you want to look; once a day, communication."
+        ],
+        "after": [
+          "DM: There are 3 potions. One is in a crystal vial, a syrupy liquid that looks like liquefied iron, which Riswynn identifies as a potion of invulnerability. For 1 min after you drink the potion, you have resistance to all damage.",
+          "Seeker: Oh, yeah.",
+          "DM: So half damage from any source of damage for 1 min.",
+          "DM: There is a small silver vial etched with the name Serandris in Draconic, and the words \"In gratitude.\" The liquid inside is pure and clear almost to the point of being invisible, with a single metallic silver scale floating inside. This is a potion of dragon's majesty. When you drink the potion, you transform into an adult silver dragon. For 1 h.",
+          "Seeker: What?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Potion of invulnerability",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0324",
+        "endUid": "u0330"
+      },
+      "lines": [
+        "%% u0324:0-20, u0325:0-72, u0326:0-56, u0327:0-72 %%",
+        "DM: There are 3 potions. One is in a crystal vial, a syrupy liquid that looks like liquefied iron, which Riswynn identifies as a potion of invulnerability. For 1 min after you drink the potion, you have resistance to all damage.",
+        "",
+        "%% u0328:0-9 %%",
+        "Seeker: Oh, yeah.",
+        "",
+        "%% u0329:0-14, u0330:0-36 %%",
+        "DM: So half damage from any source of damage for 1 min.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: For us.",
+          "Seeker: Their own.",
+          "DM: Each each each stone when you install it, there's a command word, and there's a small mirror on the inside of the box, and you can speak the command word, and whatever is being seen through the stone appears on the mirror on the inside of the box. You can also once a day, as an action, speak and hear from the eye. So it's continual seeing anytime you want to look; once a day, communication.",
+          "DM: There is a fine gold chain necklace, from which 8 perfect rubies hang on thin golden threads, which is the necklace of fireballs. You have been waiting for for a long, long time. But it's not. It doesn't recharge. It gives you 8 fireballs that you can use right.",
+          "Riswynn: Glorious."
+        ],
+        "after": [
+          "DM: There is a small silver vial etched with the name Serandris in Draconic, and the words \"In gratitude.\" The liquid inside is pure and clear almost to the point of being invisible, with a single metallic silver scale floating inside. This is a potion of dragon's majesty. When you drink the potion, you transform into an adult silver dragon. For 1 h.",
+          "Seeker: What?",
+          "Delwath: That sounds powerful.",
+          "Wellby: And we give that to the ladder.",
+          "DM: The ladder cannot drink. Unfortunately."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The silver-scale potion",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0331",
+        "endUid": "u0338"
+      },
+      "lines": [
+        "%% u0331:0-100, u0332:0-111, u0333:0-16, u0334:0-37, u0335:0-69, u0336:0-8 %%",
+        "DM: There is a small silver vial etched with the name Serandris in Draconic, and the words \"In gratitude.\" The liquid inside is pure and clear almost to the point of being invisible, with a single metallic silver scale floating inside. This is a potion of dragon's majesty. When you drink the potion, you transform into an adult silver dragon. For 1 h.",
+        "",
+        "%% u0337:0-5 %%",
+        "Seeker: What?",
+        "",
+        "%% u0338:0-21 %%",
+        "Delwath: That sounds powerful.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: There is a fine gold chain necklace, from which 8 perfect rubies hang on thin golden threads, which is the necklace of fireballs. You have been waiting for for a long, long time. But it's not. It doesn't recharge. It gives you 8 fireballs that you can use right.",
+          "Riswynn: Glorious.",
+          "DM: There are 3 potions. One is in a crystal vial, a syrupy liquid that looks like liquefied iron, which Riswynn identifies as a potion of invulnerability. For 1 min after you drink the potion, you have resistance to all damage.",
+          "Seeker: Oh, yeah.",
+          "DM: So half damage from any source of damage for 1 min."
+        ],
+        "after": [
+          "Wellby: And we give that to the ladder.",
+          "DM: The ladder cannot drink. Unfortunately.",
+          "Seeker: I love this idea.",
+          "DM: But that is, that is really good thinking.",
+          "Riswynn: Is the Silver Dragon? Did you meet some silver dragons? You talked some silver dragons? No?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Potion of bottled knowledge",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0434",
+        "endUid": "u0444"
+      },
+      "lines": [
+        "%% u0434:0-150, u0435:0-38, u0436:0-79, u0437:0-5, u0438:0-107, u0439:0-61, u0440:0-25, u0441:0-52, u0442:0-81, u0443:0-128, u0444:0-100 %%",
+        "DM: So the next potion is a round glass vial filled with a bubbling, reddish purple liquid, which gives you a feeling of holiness when you're close to it. This is a potion of bottled knowledge. If you drink the potion, you permanently gain proficiency in the religion skill. ((Dust of glibness))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: That generate.",
+          "Delwath: Tables.",
+          "Seeker: Oh",
+          "Kenzo: Oh, my God! Ultimate plot twist.",
+          "Riswynn: Yeah."
+        ],
+        "after": [
+          "DM: There's a great sword of fine make, apparently stoneborn smithing with a hilt decorated with mountain motifs. This is a frost brand great sword. It's basically a flame tongue, but it does frost damage.",
+          "DM: There is a small sculpted figure of a triceratops made from a reddish gemstone. This is a figurine of wondrous power that turns into a triceratops.",
+          "Seeker: Love it.",
+          "DM: Here is, there is what it is. It's for 6 h. Once it's been used, it can't be used until 10 days have passed.",
+          "DM: There is a short bow made of an unusual ebony wood that seems to faintly vibrate with excitement, this is a wayfarer's bow. When you're attuned to the bow, it functions as a plus 2 magic weapon, and can grow or shrink to become either a long bow or a short bow. It can create its own ammunition. While you're attuned, you gain the following minor abilities, you always know which direction is north, and you can ignore the effects of difficult terrain, natural difficult terrain, and not like spells, but undergrowth, rubble, snow, steep slopes, that sort of thing. And then once a day you can summon one of 3 special arrows. Each arrow can only be created once."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Dust of glibness",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0434",
+        "endUid": "u0444"
+      },
+      "lines": [
+        "%% u0434:0-150, u0435:0-38, u0436:0-79, u0437:0-5, u0438:0-107, u0439:0-61, u0440:0-25, u0441:0-52, u0442:0-81, u0443:0-128, u0444:0-100 %%",
+        "DM: ((Potion of bottled knowledge)) There is a box, made of a strange shimmering wood that seems to glow faintly and is hard to look away from. Inside is a pinch of fine powder, multi-hued and mesmerizing. This is dust of glibness. When you sprinkle this on yourself for the next hour, anytime you make a charisma check, you can replace the number you roll with a 15. No matter what you say, magic that would determine if you're telling the truth indicates that you're being truthful, and you can, as a bonus action anytime during that hour, cast the enthrall spell without requiring concentration.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: That generate.",
+          "Delwath: Tables.",
+          "Seeker: Oh",
+          "Kenzo: Oh, my God! Ultimate plot twist.",
+          "Riswynn: Yeah."
+        ],
+        "after": [
+          "DM: There's a great sword of fine make, apparently stoneborn smithing with a hilt decorated with mountain motifs. This is a frost brand great sword. It's basically a flame tongue, but it does frost damage.",
+          "DM: There is a small sculpted figure of a triceratops made from a reddish gemstone. This is a figurine of wondrous power that turns into a triceratops.",
+          "Seeker: Love it.",
+          "DM: Here is, there is what it is. It's for 6 h. Once it's been used, it can't be used until 10 days have passed.",
+          "DM: There is a short bow made of an unusual ebony wood that seems to faintly vibrate with excitement, this is a wayfarer's bow. When you're attuned to the bow, it functions as a plus 2 magic weapon, and can grow or shrink to become either a long bow or a short bow. It can create its own ammunition. While you're attuned, you gain the following minor abilities, you always know which direction is north, and you can ignore the effects of difficult terrain, natural difficult terrain, and not like spells, but undergrowth, rubble, snow, steep slopes, that sort of thing. And then once a day you can summon one of 3 special arrows. Each arrow can only be created once."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Stoneborn frost brand greatsword",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0445",
+        "endUid": "u0446"
+      },
+      "lines": [
+        "%% u0445:0-77, u0446:0-124 %%",
+        "DM: There's a great sword of fine make, apparently stoneborn smithing with a hilt decorated with mountain motifs. This is a frost brand great sword. It's basically a flame tongue, but it does frost damage.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Tables.",
+          "Seeker: Oh",
+          "Kenzo: Oh, my God! Ultimate plot twist.",
+          "Riswynn: Yeah.",
+          "DM: So the next potion is a round glass vial filled with a bubbling, reddish purple liquid, which gives you a feeling of holiness when you're close to it. This is a potion of bottled knowledge. If you drink the potion, you permanently gain proficiency in the religion skill. Cool. There is a box, made of a strange shimmering wood that seems to glow faintly and is hard to look away from. Inside is a pinch of fine powder, multi-hued and mesmerizing. This is dust of glibness. When you sprinkle this on yourself for the next hour, anytime you make a charisma check, you can replace the number you roll with a 15. No matter what you say, magic that would determine if you're telling the truth indicates that you're being truthful, and you can, as a bonus action anytime during that hour, cast the enthrall spell without requiring concentration."
+        ],
+        "after": [
+          "DM: There is a small sculpted figure of a triceratops made from a reddish gemstone. This is a figurine of wondrous power that turns into a triceratops.",
+          "Seeker: Love it.",
+          "DM: Here is, there is what it is. It's for 6 h. Once it's been used, it can't be used until 10 days have passed.",
+          "DM: There is a short bow made of an unusual ebony wood that seems to faintly vibrate with excitement, this is a wayfarer's bow. When you're attuned to the bow, it functions as a plus 2 magic weapon, and can grow or shrink to become either a long bow or a short bow. It can create its own ammunition. While you're attuned, you gain the following minor abilities, you always know which direction is north, and you can ignore the effects of difficult terrain, natural difficult terrain, and not like spells, but undergrowth, rubble, snow, steep slopes, that sort of thing. And then once a day you can summon one of 3 special arrows. Each arrow can only be created once.",
+          "DM: An arrow of seeking, when you fire the arrow, you speak the name, or describe a target that is not behind total cover and is within 400 feet of you. You make an attack roll against the target, ignoring the range of your weapon, ignoring cover, and with a plus 20 to hit instead of your normal bonus."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Triceratops figurine",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0447",
+        "endUid": "u0453"
+      },
+      "lines": [
+        "%% u0447:0-79, u0448:0-9, u0449:0-57 %%",
+        "DM: There is a small sculpted figure of a triceratops made from a reddish gemstone. This is a figurine of wondrous power that turns into a triceratops.",
+        "",
+        "%% u0450:0-8 %%",
+        "Seeker: Love it.",
+        "",
+        "%% u0451:0-7, u0452:0-20, u0453:0-78 %%",
+        "DM: Here is, there is what it is. It's for 6 h. Once it's been used, it can't be used until 10 days have passed.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh",
+          "Kenzo: Oh, my God! Ultimate plot twist.",
+          "Riswynn: Yeah.",
+          "DM: So the next potion is a round glass vial filled with a bubbling, reddish purple liquid, which gives you a feeling of holiness when you're close to it. This is a potion of bottled knowledge. If you drink the potion, you permanently gain proficiency in the religion skill. Cool. There is a box, made of a strange shimmering wood that seems to glow faintly and is hard to look away from. Inside is a pinch of fine powder, multi-hued and mesmerizing. This is dust of glibness. When you sprinkle this on yourself for the next hour, anytime you make a charisma check, you can replace the number you roll with a 15. No matter what you say, magic that would determine if you're telling the truth indicates that you're being truthful, and you can, as a bonus action anytime during that hour, cast the enthrall spell without requiring concentration.",
+          "DM: There's a great sword of fine make, apparently stoneborn smithing with a hilt decorated with mountain motifs. This is a frost brand great sword. It's basically a flame tongue, but it does frost damage."
+        ],
+        "after": [
+          "DM: There is a short bow made of an unusual ebony wood that seems to faintly vibrate with excitement, this is a wayfarer's bow. When you're attuned to the bow, it functions as a plus 2 magic weapon, and can grow or shrink to become either a long bow or a short bow. It can create its own ammunition. While you're attuned, you gain the following minor abilities, you always know which direction is north, and you can ignore the effects of difficult terrain, natural difficult terrain, and not like spells, but undergrowth, rubble, snow, steep slopes, that sort of thing. And then once a day you can summon one of 3 special arrows. Each arrow can only be created once.",
+          "DM: An arrow of seeking, when you fire the arrow, you speak the name, or describe a target that is not behind total cover and is within 400 feet of you. You make an attack roll against the target, ignoring the range of your weapon, ignoring cover, and with a plus 20 to hit instead of your normal bonus.",
+          "Seeker: Yeah, that's pretty good.",
+          "DM: An arrow of discovery you fired into the air, and as you do, you choose to, you can describe a location which you must be able to describe, but it doesn't have to be somewhere you've been to before, so if you've scried it, or you have a description of it, or something like that. It can't be on another plane of existence, or moving or something generic. The arrow flies to the location you described, passing through any obstacles and leaving behind a glowing trail that only you can perceive which marks the most direct path to that location. The trail fades after.",
+          "Delwath: Does it"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Wayfarer’s bow and its discovery limit",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e035",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0454",
+        "endUid": "u0480"
+      },
+      "lines": [
+        "%% u0454:0-20, u0455:0-76, u0456:0-24, u0457:0-137, u0458:0-33, u0459:0-137, u0460:0-131, u0461:0-95 %%",
+        "DM: There is a short bow made of an unusual ebony wood that seems to faintly vibrate with excitement, this is a wayfarer's bow. ((Bow mechanics))",
+        "",
+        "%% u0462:0-193, u0463:0-106, u0464:0-25 %%",
+        "((Seeking-arrow mechanics))",
+        "",
+        "%% u0465:0-118, u0466:0-160, u0467:0-74, u0468:0-189, u0469:0-22 %%",
+        "DM: An arrow of discovery you fired into the air, and as you do, you choose to, you can describe a location which you must be able to describe, but it doesn't have to be somewhere you've been to before, so if you've scried it, or you have a description of it, or something like that. It can't be on another plane of existence, or moving or something generic. The arrow flies to the location you described, passing through any obstacles and leaving behind a glowing trail that only you can perceive which marks the most direct path to that location. The trail fades after.",
+        "",
+        "%% u0470:0-8 %%",
+        "Delwath: Does it",
+        "",
+        "%% u0471:0-6 %%",
+        "DM: Hours.",
+        "",
+        "%% u0472:0-45 %%",
+        "Delwath: Count if we saw it in the mirror of the past?",
+        "",
+        "%% u0473:0-36 %%",
+        "DM: Yep, as long as you can describe it.",
+        "",
+        "%% u0474:0-25, u0475:0-21 %%",
+        "Delwath: So we can find Apollyon's phylactery with that.",
+        "",
+        "%% u0476:0-4 %%",
+        "Wellby: But.",
+        "",
+        "%% u0477:0-47 %%",
+        "DM: It can't be an object. It has to be a location.",
+        "",
+        "%% u0478:0-5 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u0479:0-88, u0480:0-205 %%",
+        "DM: It doesn't work if it. If the destination is on a different plane of existence from you. Moving so like an item, or Vindristjarna, or something, or generic, like a dragon. But anything that you can scry you can find a path to anything that you can find a description of. You can find a path to.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So the next potion is a round glass vial filled with a bubbling, reddish purple liquid, which gives you a feeling of holiness when you're close to it. This is a potion of bottled knowledge. If you drink the potion, you permanently gain proficiency in the religion skill. Cool. There is a box, made of a strange shimmering wood that seems to glow faintly and is hard to look away from. Inside is a pinch of fine powder, multi-hued and mesmerizing. This is dust of glibness. When you sprinkle this on yourself for the next hour, anytime you make a charisma check, you can replace the number you roll with a 15. No matter what you say, magic that would determine if you're telling the truth indicates that you're being truthful, and you can, as a bonus action anytime during that hour, cast the enthrall spell without requiring concentration.",
+          "DM: There's a great sword of fine make, apparently stoneborn smithing with a hilt decorated with mountain motifs. This is a frost brand great sword. It's basically a flame tongue, but it does frost damage.",
+          "DM: There is a small sculpted figure of a triceratops made from a reddish gemstone. This is a figurine of wondrous power that turns into a triceratops.",
+          "Seeker: Love it.",
+          "DM: Here is, there is what it is. It's for 6 h. Once it's been used, it can't be used until 10 days have passed."
+        ],
+        "after": [
+          "DM: Or an arrow of lightning. When you fire the arrow it turns into a bolt of lightning. Forming a line 5 feet wide and extending from you to the target. Each creature in the line makes a dexterity saving throw, taking 4d6 lightning damage on a failure, half on success. Turns back into an arrow. When it reaches the target, you make a normal attack roll. If it hits, the target, in addition to the normal weapon damage, takes 4d6 lightning damage.",
+          "DM: There is a plain silver ring, unadorned and unmarked, but with a bright, reflective shine. This is a ring of the ocean. It functions as a ring of water walking, and also grants you the following abilities. As an action, you can change the condition of the sea within one mile of you, either creating strong winds, rain storms, or calming a storm. This effect lasts for 1 h and can be used once a day, or as an action you can target a willing creature and cast polymorph on them. When you cast it this way, the forms are not limited to beasts, but they must have a swim speed. Tilly is kind of eyeing that one.",
+          "Seeker: Not limited to beasts. What does that mean?",
+          "DM: So you can transform them into any creature that has a swim speed. Polymorph, normally, you can only transform into beasts. There is a wand, its handle wrapped in soft leather, made of dark metal, with streaks of silver and gray iridescence. This is a wand of the planes. It has 7 charges. Using the wand, you can cast plane shift 7 charges, banishment 3 charges, or blink 2 charges. It regains one d 6 charges each day at dawn.",
+          "DM: You can also use the wand to attempt to slice between planes. If you do so, you choose a plane for which you have an item that has some planar resonance to that plane. You perform a 1 h ritual where you carefully use the wand to spool planar energy into the item. At the end of the ritual, the wand and the item are destroyed, and you make a DC 30 arcana check. If you succeed, you open a permanent portal to a location you describe on the plane that you target. If you fail by 5 or less, you open a permanent portal to a random location on that plane. If you fail by more than 5, you fail to contain the energy. Everybody within a hundred feet of the wand has to make a charisma saving throw, taking 20 d 6 force damage and being teleported to a random location on the plane on a failure."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Ring of the ocean",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0486",
+        "endUid": "u0498"
+      },
+      "lines": [
+        "%% u0486:0-29, u0487:0-89, u0488:0-84, u0489:0-140, u0490:0-26, u0491:0-105, u0492:0-96, u0493:0-33 %%",
+        "DM: There is a plain silver ring, unadorned and unmarked, but with a bright, reflective shine. This is a ring of the ocean. It functions as a ring of water walking, and also grants you the following abilities. As an action, you can change the condition of the sea within one mile of you, either creating strong winds, rain storms, or calming a storm. This effect lasts for 1 h and can be used once a day, or as an action you can target a willing creature and cast polymorph on them. When you cast it this way, the forms are not limited to beasts, but they must have a swim speed. Tilly is kind of eyeing that one.",
+        "",
+        "%% u0494:0-43 %%",
+        "Seeker: Not limited to beasts. What does that mean?",
+        "",
+        "%% u0495:0-123, u0496:0-147, u0497:0-17, u0498:0-139 %%",
+        "DM: So you can transform them into any creature that has a swim speed. Polymorph, normally, you can only transform into beasts. ((Wand of the planes))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: But.",
+          "DM: It can't be an object. It has to be a location.",
+          "Delwath: Okay.",
+          "DM: It doesn't work if it. If the destination is on a different plane of existence from you. Moving so like an item, or Vindristjarna, or something, or generic, like a dragon. But anything that you can scry you can find a path to anything that you can find a description of. You can find a path to.",
+          "DM: Or an arrow of lightning. When you fire the arrow it turns into a bolt of lightning. Forming a line 5 feet wide and extending from you to the target. Each creature in the line makes a dexterity saving throw, taking 4d6 lightning damage on a failure, half on success. Turns back into an arrow. When it reaches the target, you make a normal attack roll. If it hits, the target, in addition to the normal weapon damage, takes 4d6 lightning damage."
+        ],
+        "after": [
+          "DM: You can also use the wand to attempt to slice between planes. If you do so, you choose a plane for which you have an item that has some planar resonance to that plane. You perform a 1 h ritual where you carefully use the wand to spool planar energy into the item. At the end of the ritual, the wand and the item are destroyed, and you make a DC 30 arcana check. If you succeed, you open a permanent portal to a location you describe on the plane that you target. If you fail by 5 or less, you open a permanent portal to a random location on that plane. If you fail by more than 5, you fail to contain the energy. Everybody within a hundred feet of the wand has to make a charisma saving throw, taking 20 d 6 force damage and being teleported to a random location on the plane on a failure.",
+          "Wellby: So there's no way to fail, is what you're saying.",
+          "DM: Basically, there's no way to fail. You always get to the other plane.",
+          "Seeker: This is amazing. We're definitely doing this. I don't know how or why, but we're gonna do it.",
+          "Riswynn: Start start prioritizing your planes now. We can have a discussion."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Wand of the planes",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0495",
+        "endUid": "u0498"
+      },
+      "lines": [
+        "%% u0495:0-123, u0496:0-147, u0497:0-17, u0498:0-139 %%",
+        "DM: ((Polymorph clarification)) There is a wand, its handle wrapped in soft leather, made of dark metal, with streaks of silver and gray iridescence. This is a wand of the planes. It has 7 charges. Using the wand, you can cast plane shift 7 charges, banishment 3 charges, or blink 2 charges. It regains one d 6 charges each day at dawn.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Okay.",
+          "DM: It doesn't work if it. If the destination is on a different plane of existence from you. Moving so like an item, or Vindristjarna, or something, or generic, like a dragon. But anything that you can scry you can find a path to anything that you can find a description of. You can find a path to.",
+          "DM: Or an arrow of lightning. When you fire the arrow it turns into a bolt of lightning. Forming a line 5 feet wide and extending from you to the target. Each creature in the line makes a dexterity saving throw, taking 4d6 lightning damage on a failure, half on success. Turns back into an arrow. When it reaches the target, you make a normal attack roll. If it hits, the target, in addition to the normal weapon damage, takes 4d6 lightning damage.",
+          "DM: There is a plain silver ring, unadorned and unmarked, but with a bright, reflective shine. This is a ring of the ocean. It functions as a ring of water walking, and also grants you the following abilities. As an action, you can change the condition of the sea within one mile of you, either creating strong winds, rain storms, or calming a storm. This effect lasts for 1 h and can be used once a day, or as an action you can target a willing creature and cast polymorph on them. When you cast it this way, the forms are not limited to beasts, but they must have a swim speed. Tilly is kind of eyeing that one.",
+          "Seeker: Not limited to beasts. What does that mean?"
+        ],
+        "after": [
+          "DM: You can also use the wand to attempt to slice between planes. If you do so, you choose a plane for which you have an item that has some planar resonance to that plane. You perform a 1 h ritual where you carefully use the wand to spool planar energy into the item. At the end of the ritual, the wand and the item are destroyed, and you make a DC 30 arcana check. If you succeed, you open a permanent portal to a location you describe on the plane that you target. If you fail by 5 or less, you open a permanent portal to a random location on that plane. If you fail by more than 5, you fail to contain the energy. Everybody within a hundred feet of the wand has to make a charisma saving throw, taking 20 d 6 force damage and being teleported to a random location on the plane on a failure.",
+          "Wellby: So there's no way to fail, is what you're saying.",
+          "DM: Basically, there's no way to fail. You always get to the other plane.",
+          "Seeker: This is amazing. We're definitely doing this. I don't know how or why, but we're gonna do it.",
+          "Riswynn: Start start prioritizing your planes now. We can have a discussion."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Belt of the mountain’s essence",
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0515",
+        "endUid": "u0527"
+      },
+      "lines": [
+        "%% u0515:0-49, u0516:0-9, u0517:0-123, u0518:0-19, u0519:0-75, u0520:0-41, u0521:0-61, u0522:0-135, u0523:0-28, u0524:0-96, u0525:0-17, u0526:0-19, u0527:0-39 %%",
+        "DM: And then the last one is a wide belt made of fine dark gray leather, rough to the touch, and reinforced with a pattern of smooth quartz fragments embedded along its length, and with a belt buckle made of polished adamantine shaped into a simple yet imposing design of a mountain. This is a belt of the mountain's essence. While you're attuned to this belt, your strength score is 23. ((Other belt properties))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: This is amazing. We're definitely doing this. I don't know how or why, but we're gonna do it.",
+          "Riswynn: Start start prioritizing your planes now. We can have a discussion.",
+          "Seeker: Really I mean, I do see.",
+          "DM: 30 arcana check is not that hard for Seeker to make.",
+          "Seeker: It's true, it's true, it's doable."
+        ],
+        "after": [
+          "DM: Hi, Nathaniel. And I think that is everything. None of these are in D and D Beyond yet. But I will, depending on what you decide to take, I will put them on D and D. Some of them are real items that I didn't homebrew. So those are on D and D Beyond.",
+          "Wellby: I'm saying. What was the item that lets you polymorph into any creature?",
+          "Seeker: It's the ring of the ocean.",
+          "DM: The ring of the ocean. Any creature that has a swim speed, right?",
+          "Wellby: But, like, for example, an ancient gold dragon has a swim speed."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "One minute, not one hour",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0598",
+        "endUid": "u0612"
+      },
+      "lines": [
+        "%% u0598:0-65 %%",
+        "Delwath: Or not potion of I I wouldn't mind the potion of invulnerability.",
+        "",
+        "%% u0599:0-7 %%",
+        "((Brief interruption))",
+        "",
+        "%% u0600:0-6, u0601:0-58, u0602:0-24 %%",
+        "Delwath: Useful. You're invul—you are resistant to all damage for an hour, so all damage is halved.",
+        "",
+        "%% u0603:0-20, u0604:0-13, u0605:0-8 %%",
+        "((Brief interruption))",
+        "",
+        "%% u0606:0-14 %%",
+        "Seeker: Have that one.",
+        "",
+        "%% u0607:0-31 %%",
+        "Delwath: We each get it for a half hour.",
+        "",
+        "%% u0608:0-3 %%",
+        "Riswynn: No.",
+        "",
+        "%% u0609:0-24 %%",
+        "DM: No, it's 1 min, not 1 h.",
+        "",
+        "%% u0610:0-10 %%",
+        "Delwath: Ow! 1 min!",
+        "",
+        "%% u0611:0-22 %%",
+        "DM: The the dragon is 1 h.",
+        "",
+        "%% u0612:0-5 %%",
+        "Delwath: Okay.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: The.",
+          "DM: So do you wanna—it does require attunement. So you'd have to trade up from your unattuned bow.",
+          "Wellby: Yeah, I'll drop something.",
+          "DM: Okay. I mean—",
+          "Seeker: [garbled]—"
+        ],
+        "after": [
+          "Seeker: Dragon, thing.",
+          "Delwath: I mean, who's taking the fireballs?",
+          "Seeker: What's the range on that? That's like.",
+          "Delwath: Triceratops is also kind of cool.",
+          "Seeker: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Milo and Tilly take the boat and depart",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0760",
+        "endUid": "u0860"
+      },
+      "lines": [
+        "%% u0760:0-8, u0761:0-11, u0762:0-2, u0763:0-14, u0764:0-58, u0765:0-12, u0766:0-8, u0767:0-22, u0768:0-14, u0769:0-5, u0770:0-31, u0771:0-19, u0772:0-7, u0773:0-8, u0774:0-65, u0775:0-53, u0776:0-88 %%",
+        "DM: Okay. So going back to Vindristjarna. So after spending an hour sorting through the treasure and figuring out the next thing to do, of course Tilly and Milo come— oops! Where is that? Oh, that's— Tilly and Milo come saying you know Milo comes to talk to you as he's as they're getting ready to go, and you've installed one of the eyes, I think, on the mast of the folding boat which they are taking, so you can see and talk to them as well.",
+        "",
+        "%% u0777:0-5, u0778:0-43, u0779:0-32, u0780:0-24, u0781:0-47, u0782:0-56, u0783:0-19, u0784:0-15, u0785:0-12, u0786:0-107, u0787:0-78, u0788:0-48, u0789:0-21, u0790:0-29, u0791:0-21, u0792:0-65, u0793:0-72 %%",
+        "DM: They— Milo's, you know, says, \"Well, you know what? We're going to head west 1st and hopefully get some news, maybe get a message at least, or track down the crew that they left behind on the Storm Dancer when they dived underwater to investigate the city of Omi, you know the crew they left behind. It was like a month that they were trapped, at least, if not longer. So, you know they've probably scattered, but at least get word that they're alive. But he says we don't intend to spend long there. Outfit a new ship as quickly as possible, and then sail who knows where. Unless he says, everything goes south on your mission in Drankor, in which case we'll flee south and raise an army and see what we can do.\"",
+        "",
+        "%% u0794:0-13, u0795:0-8, u0796:0-22, u0797:0-50, u0798:0-8, u0799:0-22, u0800:0-55, u0801:0-10, u0802:0-62, u0803:0-14, u0804:0-30, u0805:0-21, u0806:0-16, u0807:0-26, u0808:0-60, u0809:0-73, u0810:0-128, u0811:0-8, u0812:0-29, u0813:0-24, u0814:0-4, u0815:0-8, u0816:0-40, u0817:0-40, u0818:0-8, u0819:0-9, u0820:0-87, u0821:0-16, u0822:0-71, u0823:0-5, u0824:0-52, u0825:0-11, u0826:0-34, u0827:0-18, u0828:0-16, u0829:0-69, u0830:0-40, u0831:0-3, u0832:0-28, u0833:0-5, u0834:0-82, u0835:0-79, u0836:0-39, u0837:0-43, u0838:0-72, u0839:0-31, u0840:0-8, u0841:0-16, u0842:0-147, u0843:0-30, u0844:0-80, u0845:0-21, u0846:0-47, u0847:0-50, u0848:0-48, u0849:0-57, u0850:0-4 %%",
+        "((Geography and Copperharps’ request))",
+        "",
+        "%% u0851:0-42, u0852:0-56, u0853:0-5, u0854:0-29, u0855:0-20, u0856:0-15, u0857:0-24, u0858:0-39, u0859:0-18, u0860:0-59 %%",
+        "DM: So you get settled. You say your goodbyes. Milo and Tilly sail off on the ship on the folding boat. ((Next-mission planning))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: So, Kong. I already told the others this, but the 1st part of my announcement is actually just that we're having another child in real life, I mean, so—",
+          "Kenzo: That's so amazing, man! Congratulations!",
+          "Seeker: Thank you. It's a girl. Due end of April, so—",
+          "Kenzo: Wow! So happy for you!",
+          "Seeker: Thank you. Yeah, we're excited and little bit like, \"Oh, my God, what are we doing?\" But we'll figure it out when it happens. And yeah, the other thing is that I spent bunch of free time making a trailer video. By using—"
+        ],
+        "after": [
+          "Riswynn: How's the doomsday clock? What did you guys—what did you all find out in that Dragon Forge, you know, place that you went?",
+          "Seeker: Oh, we got some some bonus time added to it.",
+          "Delwath: We? We didn't—no, no, we—we did learn how to become liches. So if this all goes South— we do know how to, you become like Apollyon.",
+          "Seeker: Wait. What was that story with that again?",
+          "Delwath: We got the tome of the Manual of—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Willow and Mica ask to remain aboard",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0811",
+        "endUid": "u0850"
+      },
+      "lines": [
+        "%% u0811:0-8, u0812:0-29, u0813:0-24, u0814:0-4, u0815:0-8, u0816:0-40, u0817:0-40, u0818:0-8, u0819:0-9, u0820:0-87, u0821:0-16, u0822:0-71, u0823:0-5, u0824:0-52 %%",
+        "DM: However— as they're preparing to leave, and getting ready to go, 2 of the crew come up to you and and ask if they could stay for at least a short time with you, they're— you know— on the older 2 halflings, obviously on the older side of middle aged, a married couple. Man and a woman, the woman introduces herself as Willow Copperharp. Her husband is Mica. She's— a storyteller and a poet, and a sailor too obviously.",
+        "",
+        "%% u0825:0-11, u0826:0-34, u0827:0-18, u0828:0-16, u0829:0-69, u0830:0-40, u0831:0-3, u0832:0-28, u0833:0-5, u0834:0-82, u0835:0-79, u0836:0-39, u0837:0-43 %%",
+        "DM: And and she— she speaks. She talks to you about you know this is a— this is a moment— that somebody must be there to witness the tale and share your story. She's afraid for Wellby and for herself, you, and for you the rest of you. Okay. And she sometimes sees things in the past, the death that rained down from Drankor. She's fairly religious as halflings go. She talks about the 1st ones a lot, but— You know she wants to be there at least for a few weeks, and then see what happens.",
+        "",
+        "%% u0838:0-72, u0839:0-31, u0840:0-8, u0841:0-16, u0842:0-147, u0843:0-30, u0844:0-80, u0845:0-21, u0846:0-47, u0847:0-50 %%",
+        "DM: Her husband, Mica, is like her complete opposite. He is sort of a joker. Good with his hands, a drummer. A brewer. Not particularly— you know. He's certainly not a poet or a storyteller right? And he's actually bonded a bit with Faldrak of all people, and really just wants to see. See what's out there, you know, not is not planning on going in to Drankor but getting close to Drankor you know, nobody has done that. So if you'll have them, they'd like to stay for a couple weeks and then see where fate takes them.",
+        "",
+        "%% u0848:0-48 %%",
+        "Seeker: It's a big ship. I think we could use the hands.",
+        "",
+        "%% u0849:0-57 %%",
+        "Riswynn: It's a big ship were the exact words. Going into my head.",
+        "",
+        "%% u0850:0-4 %%",
+        "Delwath: Yep.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: They— Milo's, you know, says, \"Well, you know what? We're going to head west 1st and hopefully get some news, maybe get a message at least, or track down the crew that they left behind on the Storm Dancer when they dived underwater to investigate the city of Omi, you know the crew they left behind. It was like a month that they were trapped, at least, if not longer. So, you know they've probably scattered, but at least get word that they're alive. But he says we don't intend to spend long there. Outfit a new ship as quickly as possible, and then sail who knows where. Unless he says, everything goes south on your mission in Drankor, in which case we'll flee south and raise an army and see what we can do.\"",
+          "Riswynn: Where are we?",
+          "DM: You are.",
+          "Riswynn: South, and from where?",
+          "DM: You are currently over the ocean south of Drankor. Which is west, which is east of— like Illoria and Dunmar. It's like the coast forms like, like that that shape. And so like Darba's here and Drankor is like here. There's a map although I don't think it has—yeah, it has Drankor. The map here has, the map there has Drankor. So you're just like in the ocean south of Drankor right now. So sailing west would bring them to like the southern islands of Illoria. Like south of Illoria, part of the island chain that stretches quite some distance into the Nevos Sea, quite far south of Darba."
+        ],
+        "after": [
+          "DM: So you get settled. You say your goodbyes. Milo and Tilly sail off on the ship on the folding boat. Quiet settles over the group as you begin to contemplate your next move which must presumably be heading for Drankor, but exactly how and what you intend is part of the sort of role-playing objective for the evening.",
+          "Riswynn: How's the doomsday clock? What did you guys—what did you all find out in that Dragon Forge, you know, place that you went?",
+          "Seeker: Oh, we got some some bonus time added to it.",
+          "Delwath: We? We didn't—no, no, we—we did learn how to become liches. So if this all goes South— we do know how to, you become like Apollyon.",
+          "Seeker: Wait. What was that story with that again?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Two different books about lich transformation",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0864",
+        "endUid": "u0874"
+      },
+      "lines": [
+        "%% u0864:0-88, u0865:0-17, u0866:0-25 %%",
+        "Delwath: We? We didn't—no, no, we—we did learn how to become liches. So if this all goes South— we do know how to, you become like Apollyon.",
+        "",
+        "%% u0867:0-42 %%",
+        "Seeker: Wait. What was that story with that again?",
+        "",
+        "%% u0868:0-33 %%",
+        "Delwath: We got the tome of the Manual of—",
+        "",
+        "%% u0869:0-46 %%",
+        "DM: Dimitaur destroyed it with his wand. Fireball.",
+        "",
+        "%% u0870:0-46 %%",
+        "Delwath: Oh, right? We don't know anymore how to do it.",
+        "",
+        "%% u0871:0-46 %%",
+        "Seeker: There was another one. There was another book—",
+        "",
+        "%% u0872:0-60, u0873:0-12, u0874:0-217 %%",
+        "DM: Yes, that was the other book was like Apollyon's notes about you know his, his research about mostly about the forge, but also about the process of lich transformation, but by itself it's not enough to become a lich. You need the book that briefly cursed Seeker and was destroyed by Dimitaur.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: It's a big ship were the exact words. Going into my head.",
+          "Delwath: Yep.",
+          "DM: So you get settled. You say your goodbyes. Milo and Tilly sail off on the ship on the folding boat. Quiet settles over the group as you begin to contemplate your next move which must presumably be heading for Drankor, but exactly how and what you intend is part of the sort of role-playing objective for the evening.",
+          "Riswynn: How's the doomsday clock? What did you guys—what did you all find out in that Dragon Forge, you know, place that you went?",
+          "Seeker: Oh, we got some some bonus time added to it."
+        ],
+        "after": [
+          "Delwath: I forgot that Dimitaur destroyed that. We we saw a vision of Apollyon becoming a lich. In the mirror in the mirror. Remember, we watched.",
+          "Seeker: Oh, yeah—",
+          "Delwath: We know that his phylactery is a plain silver dagger.",
+          "DM: Adamantine dagger.",
+          "Delwath: Plain adamantine dagger. Wait! We haven't actually seen the—oh, no, we did see the Rai's hand vision— We don't need to show Rai's hand to the mirror. We got the vision when we— reassemble."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Remembering the dagger and the earlier visions",
+      "entities": [
+        {
+          "id": "e035",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0875",
+        "endUid": "u0890"
+      },
+      "lines": [
+        "%% u0875:0-84, u0876:0-50 %%",
+        "Delwath: I forgot that Dimitaur destroyed that. We we saw a vision of Apollyon becoming a lich. In the mirror in the mirror. Remember, we watched.",
+        "",
+        "%% u0877:0-9 %%",
+        "Seeker: Oh, yeah—",
+        "",
+        "%% u0878:0-53 %%",
+        "Delwath: We know that his phylactery is a plain silver dagger.",
+        "",
+        "%% u0879:0-19 %%",
+        "DM: Adamantine dagger.",
+        "",
+        "%% u0880:0-24, u0881:0-16, u0882:0-59, u0883:0-74, u0884:0-11 %%",
+        "Delwath: Plain adamantine dagger. Wait! We haven't actually seen the—oh, no, we did see the Rai's hand vision— We don't need to show Rai's hand to the mirror. We got the vision when we— reassemble.",
+        "",
+        "%% u0885:0-22 %%",
+        "DM: Use the mirror on the—",
+        "",
+        "%% u0886:0-16 %%",
+        "Delwath: On the manacles—",
+        "",
+        "%% u0887:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u0888:0-132, u0889:0-8, u0890:0-105 %%",
+        "Delwath: So we know that we need to find a silver—sorry, an adamantine dagger somewhere in a plain, unadorned, adamantine dagger somewhere in Drankor. Do we know more specific? We don't know more specifically where in Drankor it is right? I can't remember.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: We got the tome of the Manual of—",
+          "DM: Dimitaur destroyed it with his wand. Fireball.",
+          "Delwath: Oh, right? We don't know anymore how to do it.",
+          "Seeker: There was another one. There was another book—",
+          "DM: Yes, that was the other book was like Apollyon's notes about you know his, his research about mostly about the forge, but also about the process of lich transformation, but by itself it's not enough to become a lich. You need the book that briefly cursed Seeker and was destroyed by Dimitaur."
+        ],
+        "after": [
+          "Wellby: We know where it last was, so— using the bow or the arrow of seeking whatever it was like, at least we could find where it was a few 100 years ago.",
+          "Delwath: That's true. Also, I wonder how much adamantine there is in Drankor.",
+          "Seeker: And I can sense it, although only at a few 100 feet.",
+          "Delwath: How long does your how, what's your what's your range?",
+          "Seeker: Think it's only 300 feet. But let me— Oh, over a thousand feet, if I name a particular type of ore."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "The party’s account of Apollyon’s escape mechanism",
+      "entities": [
+        {
+          "id": "e031",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e035",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0980",
+        "endUid": "u0994"
+      },
+      "lines": [
+        "%% u0980:0-16, u0981:0-77 %%",
+        "Seeker: And there's some mechanism we need to understand by which Apollyon is like fueling his escape.",
+        "",
+        "%% u0982:0-22 %%",
+        "((Brief interruption))",
+        "",
+        "%% u0983:0-217 %%",
+        "Delwath: Yeah, we know how he's fueling his escape. He's killing people. And then when the doppelgangers kill people, their souls go to his little prison, and when they break free out of his prison they make the cracks bigger.",
+        "",
+        "%% u0984:0-7 %%",
+        "((Brief interruption))",
+        "",
+        "%% u0985:0-27 %%",
+        "Seeker: Where's that little prison?",
+        "",
+        "%% u0986:0-28, u0987:0-22 %%",
+        "Delwath: Wow! That's the prison that Cha'mutte built, right?",
+        "",
+        "%% u0988:0-24 %%",
+        "Seeker: And is it on this plane?",
+        "",
+        "%% u0989:0-64 %%",
+        "Delwath: I think we are presuming it's accessible from Drankor somewhere.",
+        "",
+        "%% u0990:0-42 %%",
+        "Seeker: But then the phylactery is somewhere else.",
+        "",
+        "%% u0991:0-121, u0992:0-4 %%",
+        "Delwath: I mean the phylactery is incidental, except for the fact that if we go kill Apollyon and haven't destroyed his phylactery. Bad—",
+        "",
+        "%% u0993:0-14 %%",
+        "Seeker: And resurrect—",
+        "",
+        "%% u0994:0-31 %%",
+        "Delwath: He will just come back to life.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Where did we see something of what was going on with the doppelgangers? And was that in Drankor, or was that some other like jungle? I feel like it was just.",
+          "DM: No, that wasn't Drankor.",
+          "Riswynn: Okay—",
+          "DM: Waiting on the docks by the river. Yeah.",
+          "Riswynn: Yeah—"
+        ],
+        "after": [
+          "Seeker: Right.",
+          "Delwath: Right—",
+          "Wellby: Well, do we have, like a grace period there like? Do we have to sequence it so that we destroy the phylactery first or can we kill him, and then go looking for the.",
+          "Delwath: That's a good question. Do we know you know what?",
+          "DM: That's it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Liches do not immediately reform",
+      "entities": [
+        {
+          "id": "e031",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e035",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1026",
+        "endUid": "u1038"
+      },
+      "lines": [
+        "%% u1026:0-61, u1027:0-49, u1028:0-23, u1029:0-18, u1030:0-14, u1031:0-118, u1032:0-21, u1033:0-66, u1034:0-58, u1035:0-40, u1036:0-25 %%",
+        "DM: ((Roll commentary)) It—so usually it's not—it's not typically instantaneous. It's definitely not instantaneous. You have a grace period. How long is unclear. It depends on how strong the lich is. How long, you know, how powerful the phylactery is, what kinds of contingency they set up. But you, like you likely have at least 24 h after you kill a lich, you might have as long as a week. It's hard to say exactly.",
+        "",
+        "%% u1037:0-18 %%",
+        "Delwath: But it's not like?",
+        "",
+        "%% u1038:0-96 %%",
+        "DM: But it's it's not instantaneous. It's not like they reform with all their hit points in 10 min.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: No, it didn't go through to Roll20. That's weird—",
+          "DM: Oh, I'm not on Roll20—",
+          "Delwath: Not even—",
+          "DM: Just tell me what you rolled.",
+          "Seeker: I rolled a 30. Oh."
+        ],
+        "after": [
+          "Delwath: And— how long like do we have any sense of how big the physical space of Drankor is?",
+          "DM: Nope—",
+          "Delwath: We should find that out. Right. That should be. I mean, I think.",
+          "DM: About 150 miles from Drankor so. You could be there in 15 h.",
+          "Delwath: Can we like? I think our if Drankor is like, a 5 mile diameter or smaller city, which seems plausible unless it's like unusually sprawling right. In theory, using our locate object and Vindristjarna to crisscross a 5 mile city, we should be okay. Fine, because it's a thousand feet from your current position. Right? So you can."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i026",
+      "title": "Rai intercepted and hid the phylactery",
+      "entities": [
+        {
+          "id": "e039",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e035",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1078",
+        "endUid": "u1112"
+      },
+      "lines": [
+        "%% u1078:0-28, u1079:0-116, u1080:0-14 %%",
+        "DM: So remember the last, though—the vision that you saw was that Apollyon, when Cha'mutte died, Apollyon was trying to summon his phylactery to him. Rai caught it.",
+        "",
+        "%% u1081:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u1082:0-8, u1083:0-44, u1084:0-11, u1085:0-73 %%",
+        "DM: And then, left it in Drankor when he went to deal with Cha'mutte's limbo chaos magic, so Apollyon, as far as you know, has never possessed.",
+        "",
+        "%% u1086:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u1087:0-30, u1088:0-35, u1089:0-76 %%",
+        "DM: His phylactery in between when Rai appeared on the scene and now. If he had, he'd be much stronger. You probably wouldn't be able to kill him.",
+        "",
+        "%% u1090:0-48, u1091:0-25 %%",
+        "Delwath: So in theory, we could start from where Rai was. Do we know where that is?",
+        "",
+        "%% u1092:0-6, u1093:0-37 %%",
+        "DM: Which? Yeah, that was the the temple of the.",
+        "",
+        "%% u1094:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u1095:0-19 %%",
+        "DM: Divines in Drankor.",
+        "",
+        "%% u1096:0-12 %%",
+        "Delwath: Right? Okay.",
+        "",
+        "%% u1097:0-21, u1098:0-45, u1099:0-27, u1100:0-101, u1101:0-74, u1102:0-22, u1103:0-21, u1104:0-22, u1105:0-13, u1106:0-30 %%",
+        "Wellby: Do we? Would Apollyon know that the phylactery was out in the world, available for grabbing? Like, it seems like if that's something that Apollyon knew, and it's been a stretch now since that happened, like, wouldn't he send his people just to comb through Drankor to find it? I don't know like. Did, would he know that it, was not being guarded. [garbled]— like, why hasn't he done that?",
+        "",
+        "%% u1107:0-31, u1108:0-15 %%",
+        "Seeker: Maybe he has no way to find it because Rai so.",
+        "",
+        "%% u1109:0-62, u1110:0-6, u1111:0-91, u1112:0-43 %%",
+        "DM: I mean, there's some reason to believe Rai would have not just dumped the phylactery of a super powerful lich in some obvious place where anybody could find that, that seems maybe out of character, for Rai.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It's just. It's just, learn about this. Within a thousand feet.",
+          "Delwath: To— I think— I guess where I'm going is, if the theory is that the dangers in Drankor are almost entirely driven by Apollyon, and if he was gone it would be a deserted, empty city, which is maybe assuming a lot. But if he was gone it would be a deserted, empty city. It feels like we would actually not have a very big problem finding the phylactery after he was gone. Right. If I mean, if Riswynn spent all of your spell slots you could cast a spell like 8 times right. With upcasts.",
+          "Wellby: If if it was there. But, like, let's say he put it, he had someone, put it somewhere or put it in a bag of holding. Put the bag of holding.",
+          "Delwath: Sure, or put it in a lead-lined box, or something like that.",
+          "Riswynn: Put it in the lead-lined."
+        ],
+        "after": [
+          "Seeker: But would he have given some clue to someone?",
+          "DM: So as you talk and discuss a little bit Faldrak pops out, and it was like, so are we going somewhere? Ready? Where do you want to fly the ship?",
+          "Seeker: Working on it it.",
+          "Riswynn: 15 h away.",
+          "Delwath: I mean towards Drankor, for now. Right. But let's."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i027",
+      "title": "Remembering Arheste’s advice",
+      "entities": [
+        {
+          "id": "e041",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1295",
+        "endUid": "u1301"
+      },
+      "lines": [
+        "%% u1295:0-102 %%",
+        "Delwath: Oh, you weren't there! We we interviewed this Elven Paladin, or something. I forget her name, but she.",
+        "",
+        "%% u1296:0-8 %%",
+        "DM: Arheste.",
+        "",
+        "%% u1297:0-12, u1298:0-365, u1299:0-8, u1300:0-8, u1301:0-24 %%",
+        "Delwath: Arheste. She fought Apollyon at the fall of Drankor, like she's a thousand, over a thousand years old, and was like there at at his original rise, and was like his enemy, and we spent a long time interviewing her. But we didn't actually play that out in game cause that's too complicated, right? And so Tim just said we could ask 5 times for her advice retroactively, right? ((Earlier journey clarification))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: We could use one of our \"What would Elf warrior person do?\"",
+          "DM: You could finally.",
+          "Riswynn: You have a you have a little bracelet that says what would Elf warrior.",
+          "Delwath: No, remember. We spent like 2.",
+          "DM: No, Kate, wasn't there."
+        ],
+        "after": [
+          "DM: No, that was on your way back, remember you. So after you destroyed the scepter in Alexandria, you were like, \"Oh, Riswynn's fine.\"",
+          "Delwath: Fine. Right right right right right.",
+          "DM: We're just gonna like, Go take Faldrak to the elemental forge and.",
+          "Delwath: Right! Oh.",
+          "DM: We'll stop in Orenlas."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i028",
+      "title": "The tokens must be removed before death: first account",
+      "entities": [
+        {
+          "id": "e051",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e052",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e053",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e054",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e055",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1451",
+        "endUid": "u1453"
+      },
+      "lines": [
+        "%% u1451:0-54 %%",
+        "DM: What your understanding is: they each carry some item.",
+        "",
+        "%% u1452:0-12 %%",
+        "Delwath: Token right.",
+        "",
+        "%% u1453:0-113 %%",
+        "DM: A token, and in order for them to not reincarnate, they have to be separated from the token before you kill them.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Do we know?",
+          "Riswynn: Do they reincarnate?",
+          "DM: Yes.",
+          "Delwath: Yes.",
+          "Riswynn: Hmm."
+        ],
+        "after": [
+          "Seeker: Wait but shouldn't we talk through, whatever so Riswynn doesn't necessarily know the story of what we all did in game. But we certainly don't know what happened with Riswynn. Well.",
+          "Delwath: True.",
+          "Seeker: Are, we?",
+          "Delwath: No, we have no idea.",
+          "Seeker: We should talk about that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i029",
+      "title": "Riswynn recounts defeating her double",
+      "entities": [
+        {
+          "id": "e044",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1466",
+        "endUid": "u1508"
+      },
+      "lines": [
+        "%% u1466:0-5, u1467:0-13, u1468:0-16, u1469:0-71 %%",
+        "Riswynn: Well you know that, we had word that Fake Me had shown up and decided to motivate most of the dwarves to go.",
+        "",
+        "%% u1470:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u1471:0-15, u1472:0-2, u1473:0-16, u1474:0-34, u1475:0-10, u1476:0-38, u1477:0-10, u1478:0-9, u1479:0-45, u1480:0-42, u1481:0-3, u1482:0-16, u1483:0-80, u1484:0-34, u1485:0-8, u1486:0-16, u1487:0-102, u1488:0-64, u1489:0-13, u1490:0-20, u1491:0-21, u1492:0-30, u1493:0-10, u1494:0-37, u1495:0-7, u1496:0-53, u1497:0-70, u1498:0-43, u1499:0-47, u1500:0-44, u1501:0-50, u1502:0-32 %%",
+        "Riswynn: Very dangerous. So when we got home, we followed the path that they had set out on, and caught up with some stragglers and, due to my you know ongoing connection to the gods, I was able to sort of verify that I was the real Riswynn and convince them to help us start a sort of whisper campaign that sort of cascaded through the whole group of dwarves that were on this mission. And so with the with subterfuge and and divine intervention, we were able to convince a fair portion of the dwarves to pretend to keep going along with this, but actually to know that, they were not going the right way overall, which became very apparent when we met this terrifying void spider of the dark. I don't know, exactly what sort of nightmare this thing came out of, but it was definitely what my doppelganger was trying to lead them towards in expectation of everyone being destroyed, but because we were aware, and because I was there, we battled both that and my doppelganger and overcame them, so that the majority of the dwarves came back out of that situation.",
+        "",
+        "%% u1503:0-46 %%",
+        "Seeker: And did you destroy the doppelganger Riswynn?",
+        "",
+        "%% u1504:0-27, u1505:0-25, u1506:0-37 %%",
+        "Riswynn: Did, but I don't think that Kethra and I were able to identify its object and keep it from.",
+        "",
+        "%% u1507:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u1508:0-22 %%",
+        "DM: No, that was too late.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: True.",
+          "Seeker: Are, we?",
+          "Delwath: No, we have no idea.",
+          "Seeker: We should talk about that.",
+          "Delwath: Yeah, what did happen?"
+        ],
+        "after": [
+          "Riswynn: Danced.",
+          "Seeker: What do we know about these objects?",
+          "DM: So I think at 1 point you did some arcana-ing, and figure they must be. They would presumably be something worn by these creatures.",
+          "Seeker: —",
+          "DM: Probably they'd be. I mean, they'd be magical. They'd be, like you think you'd recognize one if you saw it. You don't. I mean, you don't have any idea what they might look like. But. From the the wasn't there a mirror vision? You used it. You had a mirror vision of Seeker's doppelganger being created by."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i030",
+      "title": "The remembered Seeker-token vision",
+      "entities": [
+        {
+          "id": "e051",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e042",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1510",
+        "endUid": "u1537"
+      },
+      "lines": [
+        "%% u1510:0-36 %%",
+        "Seeker: What do we know about these objects?",
+        "",
+        "%% u1511:0-50, u1512:0-80 %%",
+        "DM: So I think at 1 point you did some arcana-ing, and figure they must be. They would presumably be something worn by these creatures.",
+        "",
+        "%% u1513:0-1 %%",
+        "Seeker: —",
+        "",
+        "%% u1514:0-8, u1515:0-47, u1516:0-49, u1517:0-58, u1518:0-14, u1519:0-8, u1520:0-33, u1521:0-39, u1522:0-39 %%",
+        "DM: Probably they'd be. I mean, they'd be magical. They'd be, like you think you'd recognize one if you saw it. You don't. I mean, you don't have any idea what they might look like. But. From the the wasn't there a mirror vision? You used it. You had a mirror vision of Seeker's doppelganger being created by.",
+        "",
+        "%% u1523:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u1524:0-9 %%",
+        "Seeker: Oh, yeah.",
+        "",
+        "%% u1525:0-58, u1526:0-59, u1527:0-113, u1528:0-3, u1529:0-19, u1530:0-64 %%",
+        "DM: Right, and I think the intention was you were supposed to, I don't know if I actually put it in the mirror vision. But, Well, anyway, you would have seen in the Mirror vision, even if it doesn't say so in the text you would have seen the—what the token that Apollyon gave—what—gave the Seeker doppelganger, but presumably.",
+        "",
+        "%% u1531:0-16 %%",
+        "Delwath: Right? Oh, yeah.",
+        "",
+        "%% u1532:0-12, u1533:0-48, u1534:0-26, u1535:0-34, u1536:0-16, u1537:0-90 %%",
+        "DM: Doppelganger and Seeker realized what it was, what that meant, with some good arcana-ing. But the idea is, you would have to remove that from the doppelganger before you reduce it to 0 hit points. Otherwise it will just reincarnate.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: And did you destroy the doppelganger Riswynn?",
+          "Riswynn: Did, but I don't think that Kethra and I were able to identify its object and keep it from.",
+          "Delwath: Right.",
+          "DM: No, that was too late.",
+          "Riswynn: Danced."
+        ],
+        "after": [
+          "Delwath: Right.",
+          "Seeker: We gotta figure that part out.",
+          "Riswynn: Well, how long again, with the, how long does it take to reincarnate? Thing like.",
+          "Seeker: Yeah.",
+          "Riswynn: If Apollyon, if their Maker is gone, would they come back the next day?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i031",
+      "title": "Last night’s scry of the docks",
+      "entities": [
+        {
+          "id": "e042",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e044",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e043",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1795",
+        "endUid": "u1818"
+      },
+      "lines": [
+        "%% u1795:0-41 %%",
+        "Delwath: Wait. What happened to my scry of Seeker?",
+        "",
+        "%% u1796:0-50 %%",
+        "DM: When are you scrying? Yeah, that it Seeker failed.",
+        "",
+        "%% u1797:0-58 %%",
+        "Delwath: That was last night. That was before we even did anything.",
+        "",
+        "%% u1798:0-5, u1799:0-6, u1800:0-3, u1801:0-7, u1802:0-9, u1803:0-26, u1804:0-15, u1805:0-85 %%",
+        "DM: Okay, Seeker and Riswynn and Kenzo are standing on the docks. Looking sort of glassy eyed a little bit, staring out at the river. You do not see Wellby or Delwath.",
+        "",
+        "%% u1806:0-50, u1807:0-5, u1808:0-7 %%",
+        "((Earlier doppelganger death))",
+        "",
+        "%% u1809:0-77, u1810:0-12, u1811:0-137 %%",
+        "Delwath: They're just standing there, I mean, I'll watch for 10 min. Is there anything interesting? Is there any other things moving around that I can see like there's no like zombies crawling up out of the river, or anything. Are there?",
+        "",
+        "%% u1812:0-25, u1813:0-59, u1814:0-89 %%",
+        "DM: Not not at the docks. No. Yeah, they don't. They don't. I mean, they don't seem to be doing much like they're just kind of standing there like they're not even really talking.",
+        "",
+        "%% u1815:0-10, u1816:0-17 %%",
+        "Delwath: The right— half deactivated.",
+        "",
+        "%% u1817:0-50, u1818:0-13 %%",
+        "DM: They're like, yeah, they're like, half deactivated. Standby mode.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah, yeah.",
+          "DM: Over the previous night.",
+          "Delwath: Correct.",
+          "DM: And then just wait till it's done, 20, 16 miles away.",
+          "Seeker: I'm just picturing like."
+        ],
+        "after": [
+          "DM: So.",
+          "Delwath: I think, so we gotta decide who our simulacrum is. That's step one. And then, yeah, I think. Again, this is telepathically. I think our best plan is to approach invisibly. We could either we could do, I can make 4 people invisible and then get the spell slot back before we go into combat. So, there's an argument that we do some sort of misdirection. Have somebody fly towards them visible, for example, and the rest of us try and feather fall behind them and invisible or something. And just I mean, even though it's not gonna we're gonna once we attack will become visible. Even just getting a little bit of a jump.",
+          "Seeker: 1st round. Yeah.",
+          "Delwath: Like, try and split them up. I mean, the other thing is like, I think we should like gang up on Seeker, and like ideally, we gang up on people right like.",
+          "Wellby: Take Seeker."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i032",
+      "title": "Fausto, the crown and the copies",
+      "entities": [
+        {
+          "id": "e048",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e049",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1977",
+        "endUid": "u1985"
+      },
+      "lines": [
+        "%% u1977:0-39 %%",
+        "Kenzo: Okay. How can we have 5 active at once?",
+        "",
+        "%% u1978:0-44 %%",
+        "DM: Because he's not using the simulacrum spell.",
+        "",
+        "%% u1979:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1980:0-13 %%",
+        "Seeker: Yeah, he did.",
+        "",
+        "%% u1981:0-35, u1982:0-37, u1983:0-111 %%",
+        "DM: Like a 5 year long ritual to create misshapen, unformed bodies. And then. When Fausto somehow did something with the crown of purity to turn you in turn the misshapen bodies into right.",
+        "",
+        "%% u1984:0-5 %%",
+        "Kenzo: Ring.",
+        "",
+        "%% u1985:0-14 %%",
+        "DM: Copies of you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: We can only have one.",
+          "Delwath: Live.",
+          "DM: Can do it.",
+          "Delwath: Thanks.",
+          "DM: Or 6, 6 times, but you can only have one active at once."
+        ],
+        "after": [
+          "Seeker: Please.",
+          "Kenzo: So there's only we can only do one at a time. So we just need to think about who's gonna be best for.",
+          "Delwath: Gonna be the best for killing ourselves right.",
+          "Kenzo: That is it.",
+          "DM: It takes 12 h, and and Seeker only has one potion of watchful rest. So after this, anytime you want to do, it involves not long resting. Or taking 24 h, so you can long rest."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i033",
+      "title": "Token removal timing is later left unknown",
+      "entities": [
+        {
+          "id": "e051",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e052",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e053",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e054",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e055",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e045",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2011",
+        "endUid": "u2024"
+      },
+      "lines": [
+        "%% u2011:0-35 %%",
+        "Kenzo: And how do we kill them? Kill them?",
+        "",
+        "%% u2012:0-4 %%",
+        "Seeker: Man.",
+        "",
+        "%% u2013:0-31, u2014:0-89 %%",
+        "Delwath: We have to take the little item. They they have a little item that we have to take off them, which is what powers the res.",
+        "",
+        "%% u2015:0-25 %%",
+        "Kenzo: And each one of them has?",
+        "",
+        "%% u2016:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u2017:0-33 %%",
+        "DM: Each one of them does, yeah. But.",
+        "",
+        "%% u2018:0-96 %%",
+        "Delwath: Do we have to take it off them before they die, or can we take it off their corpses? Do we know?",
+        "",
+        "%% u2019:0-50 %%",
+        "DM: You don't know. You've never seen one die because.",
+        "",
+        "%% u2020:0-20 %%",
+        "Delwath: Right, right, right.",
+        "",
+        "%% u2021:0-47 %%",
+        "DM: The Wellby one that Kenzo killed, drowned, and.",
+        "",
+        "%% u2022:0-17 %%",
+        "Delwath: Yeah, yeah, yeah.",
+        "",
+        "%% u2023:0-6, u2024:0-5 %%",
+        "DM: Right, yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: But they're all going to be fresh. We're we're sure that they come back to full after they reincarnate. And all of these guys have died, and they're all hanging around. They all died once, every single one of them.",
+          "Seeker: And we think they have extra hit points right?",
+          "Delwath: Yes.",
+          "DM: Do you think they have extra hit points relative to you?",
+          "Delwath: Yes."
+        ],
+        "after": [
+          "Seeker: Can we trick them into the trap mirror? They know about the trap mirror.",
+          "DM: That mirror.",
+          "Kenzo: Are they likely to have like kind of legendary, like, \"Oh, look at me! I got all my hit points back now,\" type of things, or do we just have no idea?",
+          "DM: They probably don't have legendary resistances.",
+          "Seeker: No, they're just us from a few months ago already."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i034",
+      "title": "The old Kenzo copy collapses",
+      "entities": [
+        {
+          "id": "e047",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2365",
+        "endUid": "u2378"
+      },
+      "lines": [
+        "%% u2365:0-4, u2366:0-16, u2367:0-6, u2368:0-43, u2369:0-24, u2370:0-14, u2371:0-21 %%",
+        "DM: You and then Delwath— Seeker gathers together a big pile of ice and snow the size of Delwath, and begins casting the simulacrum spell.",
+        "",
+        "%% u2372:0-35 %%",
+        "((Snowman aside))",
+        "",
+        "%% u2373:0-4, u2374:0-3, u2375:0-16, u2376:0-19, u2377:0-30 %%",
+        "DM: Yes, the Kenzo simulacrum way in the distance collapses into a pile of snow.",
+        "",
+        "%% u2378:0-24 %%",
+        "Seeker: Right, the existing one.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Alright! Alright. I'm good.",
+          "Seeker: Yeah, we'll use the watchful rest.",
+          "Delwath: All the decisions are yours tonight, Seeker, it's like.",
+          "DM: Yeah. Okay. So Riswynn casts heroes' feast on all the crew except the 2 halflings, plus the 5 of you.",
+          "Delwath: Yeah, that sounds about right."
+        ],
+        "after": [
+          "DM: And over the course of 12 h, ending around 7 in the morning, as you wake up and look across the jungle, now about 15 miles from the city of Drankor, a second copy of Delwath leaps up from where pile of ice and snow once was. And you look across the jungle. And you can see the the line of the river now, winding below you and stretching off to the west.",
+          "DM: From the from the shores of the river, you can—I mean, this is all like a pretty dense jungle, but you can see bits of the ruined city poking out. Now, as you're close enough, you can see what you guess must be the tallest of what the report you saw described as the teeth of Drankor standing 200 feet tall or more—it's hard to judge—but above the trees, with the crystal dome, and on its top tinted in blue and gold, still standing intact. You can see the line of the docks just in the distance, not the full like the river twists, and you can't see the. You can't see the full extent of the docks, but you can see a part of a clearing where the trees don't approach to the river. And there's this long, wide promenade, this marble road that runs along the edge of the river. Still gleaming seeming as new.",
+          "DM: Turning your gaze inland, you can see it's mostly trees, but you see you know the occasional tower or dome poking out from the trees that is still intact. And one much bigger than any temple you've seen before you know. It's sort of like the the dome of the Duomo, but even bigger than that, standing and stretching still intact. The trees clear around it. This must be the dome of the Temple of the 8 Divines, that where Rai was.",
+          "DM: And you can see just in a few places through the trees this road that leads from the docks inland to this great plaza. Huge open space that where no trees grow which you can. Still, you can see from your perspective here maybe half a mile inland. It's a fairly compact city.",
+          "DM: Okay this grand open plaza with you can't really see the details at this distance. Right? You just see this open space. And you see in places you don't. You don't see any, you know, whatever was described as this grand tomb, at least at least not from here. But there is a a. There's the plaza, and then there's a bit of a rise of the land, and then there's more of the city behind this sort of rise of the land, perhaps, and you do. You do see places where there are like, there's mists hanging around the trees, sitting on the water are tinged reddish in places. Some of this is probably just the dawn of the jungle. But clearly there's also lingering patches of this sort of plague echoes that you saw and avoided and heard about from the dragonets on the circular island, but seemed to also spread throughout this ruined city."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i035",
+      "title": "Scrying Bizarro Delwath’s control room",
+      "entities": [
+        {
+          "id": "e046",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2465",
+        "endUid": "u2502"
+      },
+      "lines": [
+        "%% u2465:0-82, u2466:0-78 %%",
+        "Delwath: Yeah, I mean, I was gonna scry. Wait, did you? I was gonna scry Wellby, or Delwath. Wellby and Delwath are the ones we couldn't see right. I'm gonna scry Delwath.",
+        "",
+        "%% u2467:0-5, u2468:0-32, u2469:0-12, u2470:0-65, u2471:0-8, u2472:0-15, u2473:0-9, u2474:0-43, u2475:0-15 %%",
+        "((Scrying roll))",
+        "",
+        "%% u2476:0-5, u2477:0-10, u2478:0-7, u2479:0-32, u2480:0-32, u2481:0-7, u2482:0-23, u2483:0-25 %%",
+        "DM: Fails. Delwath is sitting in what looks like an open room. Blue and gold light shining down through a tinted glass ceiling. Looking out at the river.",
+        "",
+        "%% u2484:0-36 %%",
+        "Seeker: He's on the top of one of the teeth.",
+        "",
+        "%% u2485:0-17, u2486:0-44, u2487:0-15, u2488:0-40, u2489:0-13, u2490:0-20, u2491:0-65, u2492:0-39, u2493:0-24, u2494:0-61 %%",
+        "DM: Also just kind of sitting, although there's a a number of like strange arcane there's like 6 circles that all are like sort of Runic. Mad—obviously magic— all around him. And he's sitting in the middle of these 6 circles. Just again, kind of semi shut down, but actually looking sort of vaguely in your direction, like looking south down the river.",
+        "",
+        "%% u2495:0-74 %%",
+        "Delwath: Can I tell what the circles do like? Do they have any meaningful words or?",
+        "",
+        "%% u2496:0-62, u2497:0-40 %%",
+        "DM: There's there's nothing getting. These are obviously like some buttons to control buttons or something.",
+        "",
+        "%% u2498:0-4, u2499:0-7 %%",
+        "Delwath: Wow. Got it.",
+        "",
+        "%% u2500:0-67 %%",
+        "DM: They're like little—he's sitting in the middle. He's like 6 little—",
+        "",
+        "%% u2501:0-20 %%",
+        "Delwath: How high up is that?",
+        "",
+        "%% u2502:0-20 %%",
+        "DM: It's about 200 feet.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So what do you want to do?",
+          "Seeker: We can now do the boosted clairvoyance.",
+          "DM: You can.",
+          "Delwath: Is that gonna prevent you from boosting anything else for the rest of the day? I mean, that might be okay.",
+          "Seeker: I'd have one charge remaining. Oh I mean what you used scry, before right?"
+        ],
+        "after": [
+          "Delwath: Man. It's awfully tempting to just have 4 of us dimension door right there and just kill him.",
+          "Wellby: Right.",
+          "Seeker: It's worth thinking. That's interesting. What if we also took the ship directly above like 1,000 feet up, and just drop rocks on it to smash everything apart first.",
+          "Delwath: I mean. I don't know what the range of the I don't know what the range of the blasty things is, but it's awfully tempting. It's awfully tempting to come in when we're 500 feet away. Dimension door to the top of the tower. Only 4 of us can come. Some somebody has to fly right? So only 4 of us can actually go. Wow. Simulacrum Delwath could cast a dimension door. But that's using a spell slot he'll never get back, right?",
+          "Seeker: Right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i036",
+      "title": "Kenzo locates the hidden Wellby double",
+      "entities": [
+        {
+          "id": "e045",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e042",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e043",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e044",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e046",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2552",
+        "endUid": "u2585"
+      },
+      "lines": [
+        "%% u2552:0-90 %%",
+        "Kenzo: Hold on. And can I—can can Kenzo, real Kenzo, like like, just figure out where everybody is?",
+        "",
+        "%% u2553:0-36 %%",
+        "Delwath: Oh, yeah, can't you like sense them?",
+        "",
+        "%% u2554:0-17, u2555:0-80 %%",
+        "Kenzo: I can. I can just extend my consciousness and and figure out exactly where they are approximately.",
+        "",
+        "%% u2556:0-19 %%",
+        "DM: Yes, yes, Kenzo can.",
+        "",
+        "%% u2557:0-6, u2558:0-21, u2559:0-5, u2560:0-41, u2561:0-18, u2562:0-40, u2563:0-61, u2564:0-44, u2565:0-49, u2566:0-127, u2567:0-52, u2568:0-11, u2569:0-154, u2570:0-6, u2571:0-60, u2572:0-6, u2573:0-57, u2574:0-95 %%",
+        "((Sense mechanics))",
+        "",
+        "%% u2575:0-79 %%",
+        "Kenzo: I will. I will focus then as well, just to try to get more resolution if I can.",
+        "",
+        "%% u2576:0-73, u2577:0-18, u2578:0-34, u2579:0-10, u2580:0-10, u2581:0-31, u2582:0-110, u2583:0-95, u2584:0-30, u2585:0-85 %%",
+        "DM: Okay. So you know, 4 of them are exactly where you expect like, there's 3 on the docks, one yeah, you know, on the top of this this tower. Wellby is actually nearby to the other 3. There's a series of like where, you know buildings. There's like marble buildings. There's warehouses, there's you know, there's this long promenade. There's like shops and things. Most of these are ruined. Your sense is Wellby is hiding in these ruins in a place where he could jump out and ambush somebody who approaches.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Opportunity.",
+          "Seeker: I like it like.",
+          "Delwath: He could care—",
+          "Kenzo: Free spell.",
+          "Delwath: Sickening radiance. The room, I guess."
+        ],
+        "after": [
+          "Delwath: I really like. I think this let's get Delwath controlling the tower shoot—take a pot shot at Vindristjarna. Right? And then just dimension door into the tower top, where he is.",
+          "Kenzo: Is it a trap, though? Are they doing that?",
+          "Delwath: But even if it's a trap I mean Delwath has—he could misty step, but only 30 feet. So what good does that do when he's 200 feet up? Right. He could do something like cast sickening radiance in the room we're in. And careful-spell it so he doesn't get hurt. And then all of us start taking sickening radiance damage. But in theory we could try and stop that by counterspelling. Right? That's where the 2 counterspells comes in, and Seeker has Counterspell too.",
+          "Seeker: And.",
+          "Kenzo: Let's fucking do it. Let's do it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i037",
+      "title": "Divine protection and the Copperharps’ fear",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e050",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2697",
+        "endUid": "u2711"
+      },
+      "lines": [
+        "%% u2697:0-7, u2698:0-43, u2699:0-55, u2700:0-14, u2701:0-39, u2702:0-54, u2703:0-4, u2704:0-11 %%",
+        "DM: The sky seems to grow a little dim as you approach. When you get about 5 miles out, you begin to feel this presence, this darkness pressing against you, only the light of the Bahrâzel keeping you from descending into fear and terror.",
+        "",
+        "%% u2705:0-52, u2706:0-73, u2707:0-81, u2708:0-8, u2709:0-28, u2710:0-78, u2711:0-98 %%",
+        "DM: The 2 halflings who are not—the Copperharps—are like huddled in a corner, like sort of just holding each other, and, you know telling each other stories as they shiver in fear, while the rest of your crew is at least outwardly unaffected by this sense as you feel like you're pressing forward. ((Music and narration))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah that.",
+          "Delwath: The aid gives you 20, and the heroes feast gives you another 20.",
+          "DM: So.",
+          "Seeker: Twenty. Alright, I'm in better shape.",
+          "DM: Delwath short rests as the Vindristjarna creeps closer, traveling up the river."
+        ],
+        "after": [
+          "DM: You press forward for the next 20 min, 2 miles closer, 30 min. It's now maybe 8 30 in the morning. 40, 50 min pass. You're about a mile away from the city when the sky begins to darken again, and you hear a peal of thunder.",
+          "DM: And there's a bright spot glowing where the tower sits.",
+          "Seeker: Can we put the ice shield up right now?",
+          "DM: You can.",
+          "Kenzo: There's also no."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i038",
+      "title": "Faldrak halts and reverses the ship",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2734",
+        "endUid": "u2769"
+      },
+      "lines": [
+        "%% u2734:0-34, u2735:0-23 %%",
+        "DM: Faldrak looks over at Seeker like, \"Do we keep going, boss?\"",
+        "",
+        "%% u2736:0-9, u2737:0-32 %%",
+        "Seeker: I'll say, \"Hold up! We're gonna pause here.\"",
+        "",
+        "%% u2738:0-15 %%",
+        "DM: The ship stops.",
+        "",
+        "%% u2739:0-11, u2740:0-89, u2741:0-55, u2742:0-17, u2743:0-45, u2744:0-71, u2745:0-57, u2746:0-34, u2747:0-44, u2748:0-20, u2749:0-46, u2750:0-13, u2751:0-89, u2752:0-40, u2753:0-41, u2754:0-29, u2755:0-5, u2756:0-33, u2757:0-14, u2758:0-12, u2759:0-18, u2760:0-3, u2761:0-50, u2762:0-11, u2763:0-28, u2764:0-37 %%",
+        "((Shield and bridge proposals))",
+        "",
+        "%% u2765:0-62, u2766:0-37 %%",
+        "DM: You're about to get hit by lightning. Yeah, that's what I was. Faldrak's asking what you want to do.",
+        "",
+        "%% u2767:0-30 %%",
+        "Seeker: Back, back it up a little bit.",
+        "",
+        "%% u2768:0-34, u2769:0-55 %%",
+        "DM: Puts the ship in reverse, and like waits hovering a little more than a mile from the city.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I mean, I I think the implication here is that the range of the—you said a mile?",
+          "DM: A mile.",
+          "Seeker: It's a mile.",
+          "Delwath: The range of the attack is probably about a mile. So we're not going to get within 500 feet for dimension dooring.",
+          "Seeker: No, we're not. Well."
+        ],
+        "after": [
+          "Seeker: We could try going a mile directly above the tower and dropping stuff on it. Also, if we miss, we could just drop more things until we hit it.",
+          "DM: Your ability to accurately hit something a mile below you is gonna be extremely low.",
+          "Seeker: That is a long drop.",
+          "Delwath: And it's not like we have, you know radar guided bombs, or even aerodynamic rocks, right? We'd be dropping like—",
+          "Riswynn: Rock, I."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

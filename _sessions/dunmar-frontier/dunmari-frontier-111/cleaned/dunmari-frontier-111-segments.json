@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-111",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-session.yaml",
+    "sessionYamlSha256": "c0aceff7269c4799c0282df5be5e01e6d52410458b922367016954a72328c4e1",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-transcript.md",
+    "transcriptSha256": "0995867716861afdee33251ad8334cab79044928b815e552b643040bfa4f183a"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0007"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0345"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0346",
+        "endUid": "u0385"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0386",
+        "endUid": "u0747"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0748",
+        "endUid": "u0759"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0760",
+        "endUid": "u2066"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2067",
+        "endUid": "u2089"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2090",
+        "endUid": "u2666"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2667",
+        "endUid": "u2684"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2685",
+        "endUid": "u2803"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2804",
+        "endUid": "u2816"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2817",
+        "endUid": "u3351"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u3352",
+        "endUid": "u3368"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u3369",
+        "endUid": "u3401"
+      },
+      "category": "gameplay"
+    }
+  ]
+}
