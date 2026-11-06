@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-100",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-session.yaml",
+    "sessionYamlSha256": "57c82bed59b1b3ec64466d0d3338e727c3a72f7d1eac9d708cad582b5a9e6625",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-transcript.md",
+    "transcriptSha256": "49d5508d60559b49adabe5c7ff811ac01a44b0eca38c533547327d1e36c2543f"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0118"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0119",
+        "endUid": "u0198"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0199",
+        "endUid": "u0600"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0601",
+        "endUid": "u0648"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0649",
+        "endUid": "u0699"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0700",
+        "endUid": "u0719"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0720",
+        "endUid": "u0760"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0761",
+        "endUid": "u0784"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0785",
+        "endUid": "u1235"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1236",
+        "endUid": "u1559"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1560",
+        "endUid": "u3215"
+      },
+      "category": "gameplay",
+      "note": "Planning, reconnaissance, non-initiative distraction and stealth remain active play; the table stops before rolling initiative at u3216–u3221."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u3216",
+        "endUid": "u3229"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u3230",
+        "endUid": "u3253"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u3254",
+        "endUid": "u3258"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

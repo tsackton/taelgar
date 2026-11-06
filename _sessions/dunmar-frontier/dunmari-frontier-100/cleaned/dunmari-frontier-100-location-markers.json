@@ -1,0 +1,1240 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-100",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-session.yaml",
+    "sessionYamlSha256": "57c82bed59b1b3ec64466d0d3338e727c3a72f7d1eac9d708cad582b5a9e6625",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-transcript.md",
+    "transcriptSha256": "49d5508d60559b49adabe5c7ff811ac01a44b0eca38c533547327d1e36c2543f"
+  },
+  "places": {
+    "p01": {
+      "label": "Endless Ocean",
+      "kind": "ocean",
+      "evidence": [
+        {
+          "startUid": "u1184",
+          "endUid": "u1190",
+          "quote": "And stop that Buruli's war from spreading beyond Omi. And you see this image of many other merfolk cities spread across the endless ocean. This is not all of them, but this is one that was dear to us,"
+        },
+        {
+          "startUid": "u1302",
+          "endUid": "u1302",
+          "quote": "Yes, across the sentient—across the endless ocean on Taelgar—across the Sentient Ocean created the merfolk because it was lonely, basically, or—"
+        }
+      ],
+      "vaultPath": "Gazetteer/Endless Ocean.md"
+    },
+    "p02": {
+      "label": "Omi",
+      "kind": "underwater city",
+      "evidence": [
+        {
+          "startUid": "u1117",
+          "endUid": "u1148",
+          "quote": "And then the war, in the middle of the city, in the center of the great palace that once housed the names that was once the center of this garden, that where—the where the kelp grew into this twisting, spirally building of 50 feet tall, stretching halfway to the surface. Almost in the middle of that, a rift, creatures flooding out from the Plane of Water, creatures long—who have long held that the ocean is theirs to control, and this intruder must be—the intruder being the Sentient Ocean—must be corralled and controlled, threatening to spread across the deeps, until and then you see the ocean gathering its strength, and forming a bubble around Omi. Omi is the name of the merfolk City. And this deep sense of sadness as they watched the merfolk who are not part of this attack, who could not flee, trapped, enslaved, dragged back to the Plane of Water. But the contagion was stopped."
+        },
+        {
+          "startUid": "u1560",
+          "endUid": "u1565",
+          "quote": "So, so here's what you see as you drift through the Sentient Ocean's jail wall slash protective bubble. You see the ruined city of Omi. The light is—is dim. The the surface is not super—I mean, the surface is maybe 200 250 feet above you. So there's some sunlight, but it's filtered into this dim, dim light. You can see the following main features of Omi, in its ruined state."
+        }
+      ],
+      "vaultPath": "Gazetteer/Faraway Places/Omi.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1184",
+              "endUid": "u1190",
+              "quote": "And stop that Buruli's war from spreading beyond Omi. And you see this image of many other merfolk cities spread across the endless ocean. This is not all of them, but this is one that was dear to us,"
+            },
+            {
+              "startUid": "u1302",
+              "endUid": "u1302",
+              "quote": "Yes, across the sentient—across the endless ocean on Taelgar—across the Sentient Ocean created the merfolk because it was lonely, basically, or—"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Sentient Ocean's protective bubble",
+      "kind": "protective waters",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0038",
+          "quote": "You can feel the stillness of the water around you, and then the currents that are swirling as you begin to drift down, but then swirl around you and begin to pull you into this barrier, this field, this protective bubble that keeps this portal safe, or keeps the world safe from whatever might come through this portal."
+        },
+        {
+          "startUid": "u1637",
+          "endUid": "u1643",
+          "quote": "So certainly, if you're invisible, you can be stealthy if you're not invisible, it depends on where you're trying to go. So the way to envision this is, there's a bubble of the Sentient Ocean that's on top of the city. As long as you stay right at the surface of that bubble, you are invisible to anybody below you because you're within this blurring illusion effect. Once you go, like, maybe 10 feet out of the Sentient Ocean's bubble, you're you're in the clear, and unless you are invisible, or have some other way to break line of sight, you can't easily stealth."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "around",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1117",
+              "endUid": "u1148",
+              "quote": "And then the war, in the middle of the city, in the center of the great palace that once housed the names that was once the center of this garden, that where—the where the kelp grew into this twisting, spirally building of 50 feet tall, stretching halfway to the surface. Almost in the middle of that, a rift, creatures flooding out from the Plane of Water, creatures long—who have long held that the ocean is theirs to control, and this intruder must be—the intruder being the Sentient Ocean—must be corralled and controlled, threatening to spread across the deeps, until and then you see the ocean gathering its strength, and forming a bubble around Omi. Omi is the name of the merfolk City. And this deep sense of sadness as they watched the merfolk who are not part of this attack, who could not flee, trapped, enslaved, dragged back to the Plane of Water. But the contagion was stopped."
+            }
+          ]
+        },
+        {
+          "relation": "above",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1209",
+              "endUid": "u1219",
+              "quote": "As the violence of this vision of war and destruction and rot and corruption fades, and for a moment there's peace. And now you can begin to see the the water below you has become clear. And you see now the city of—the ruined city of Omi below you, that—the rotted bits of jade, the cracked foundations, this—this rift, this—you're still high enough up, you sense that you're not quite through. But you see what is there now,"
+            },
+            {
+              "startUid": "u1592",
+              "endUid": "u1602",
+              "quote": "Then looking—so that's in the center—looking sort of at, I don't know, 7, 8 o'clock. You can see these 2 kelp towers that kind of swirl up with what seemed like guards on the tower, sort of keeping an eye on what's moving in the city below. They seem like merfolk, that nobody has seen you. You're high up and you're you're right up against the blur, the blur of the Sentient Ocean, which basically makes you impossible to see until you move."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Ruined civic building",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1915",
+          "endUid": "u1925",
+          "quote": "You now have a a much clearer view to the sort of northeast. And you can see that there's another—there seems to be something of a road that passes through this. It like exits this kelp forest right here, and it passes through this dead zone, and then seems to enter the kelp forest here, possibly the remains of some path from the old city, and there was a second group of merfolk that seemed to be patrolling along this this road. They're sort of swimming slowly, sort of keeping an eye out, roughly the same size as the first group you saw the ones that are guarding over here."
+        },
+        {
+          "startUid": "u1935",
+          "endUid": "u1947",
+          "quote": "So the top, once you get on top of it, you actually can't see the building anymore. It's completely overgrown with rotted kelp that's swaying in this current, but as you approach from the side front here is somewhat clear, and you could see it looks—it looks like there's it's almost like a Greek temple made out of kelp, like there's columns out front that spiral up, and then there's there's a sort of big grand entry way. But the roof is sort of covered in this rotting—the roof seems partially destroyed, collapsed in on itself, and covered in rotting kelp. It seems like it was some civic building or some something like that. It's hard to say exactly, but it's definitely—the the only other buildings you've seen are these like little little huts, and the towers seem more like they were constructed."
+        }
+      ],
+      "note": "The source does not identify this building as the particular ancient palace in the Ocean’s vision.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1560",
+              "endUid": "u1565",
+              "quote": "So, so here's what you see as you drift through the Sentient Ocean's jail wall slash protective bubble. You see the ruined city of Omi. The light is—is dim. The the surface is not super—I mean, the surface is maybe 200 250 feet above you. So there's some sunlight, but it's filtered into this dim, dim light. You can see the following main features of Omi, in its ruined state."
+            },
+            {
+              "startUid": "u1612",
+              "endUid": "u1628",
+              "quote": "Like one fifth that size. And then so then then there's sort of 2 patches of sort of tangled mats of kelp that extend sort of to the, like—from, like, one from, like, one o'clock or, sorry, from like 10 to noonish going out in this direction, and from like 3 to 5 going in this direction, so opposite sides, tangled, matted, still alive, but can't—can see hardly anything below it. I'm—in—there are in the sort of, you know, 10 to noon section, it looks like there's a tall building that's been partially collapsed, and the tangled mats of kelp are sort of falling around this tall building in the in the 2 to 5 section, you can see the occasional, maybe, hut or little house that sort of grown up, woven out of kelp, and every now and then Wellby, you'll catch what looks like a glimpse of movement in that area moving from from sort of hut to hut, but not—you're too far off, and it's too dim light, and the and the distance is too great to be really certain other than like the occasional flash of movement, probably merfolk. But it's hard to say why."
+            },
+            {
+              "startUid": "u1935",
+              "endUid": "u1947",
+              "quote": "So the top, once you get on top of it, you actually can't see the building anymore. It's completely overgrown with rotted kelp that's swaying in this current, but as you approach from the side front here is somewhat clear, and you could see it looks—it looks like there's it's almost like a Greek temple made out of kelp, like there's columns out front that spiral up, and then there's there's a sort of big grand entry way. But the roof is sort of covered in this rotting—the roof seems partially destroyed, collapsed in on itself, and covered in rotting kelp. It seems like it was some civic building or some something like that. It's hard to say exactly, but it's definitely—the the only other buildings you've seen are these like little little huts, and the towers seem more like they were constructed."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Kelp-matted roof",
+      "kind": "roof covering",
+      "evidence": [
+        {
+          "startUid": "u2773",
+          "endUid": "u2781",
+          "quote": "Yeah, yeah, okay, right above the slimy, matted roof of the of this building. You can now all hear sounds as somebody is, like, rushing to—something's swimming through the kelp. You can't see anything at all in in the bottom of the kelp, although now that the crab is sunk to the bottom, there's, like, a opening, although the kelp sort of swirls around above it now and now the crab isn't visible to you. It is—"
+        },
+        {
+          "startUid": "u2802",
+          "endUid": "u2810",
+          "quote": "So you you start to like cut through this kelp, and it's—I mean, it works. The the rotting fronds are parting, and and is like a little bit of a sort of puff of like dirt or slime or something that puffs up into the air a little bit as you cut, as you begin to cut. It's, like, probably 10 or 15 feet of matted material."
+        }
+      ],
+      "note": "A thick mat of rotted kelp covers a formerly open courtyard; it is not an intact constructed roof.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1935",
+              "endUid": "u1947",
+              "quote": "So the top, once you get on top of it, you actually can't see the building anymore. It's completely overgrown with rotted kelp that's swaying in this current, but as you approach from the side front here is somewhat clear, and you could see it looks—it looks like there's it's almost like a Greek temple made out of kelp, like there's columns out front that spiral up, and then there's there's a sort of big grand entry way. But the roof is sort of covered in this rotting—the roof seems partially destroyed, collapsed in on itself, and covered in rotting kelp. It seems like it was some civic building or some something like that. It's hard to say exactly, but it's definitely—the the only other buildings you've seen are these like little little huts, and the towers seem more like they were constructed."
+            },
+            {
+              "startUid": "u2452",
+              "endUid": "u2455",
+              "quote": "Roof is not actually a roof from Seeker's clairvoyance. It used to be open to the sky, and it's like the flowing water or the current or the corruption or something has spread this, like, rotting kelp over the top of the—"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Portal courtyard",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u2166",
+          "endUid": "u2183",
+          "quote": "As Wellby's conversation with the fish is going on, Seeker finishes casting clairvoyance, and the sensor appears in the darkness of this below the roof of this central building, and what you see—hold on one sec. Where is that in my desk? Okay, so you see the interior of this building. It seems to be a courtyard. It seems to be what, what? What it seems like you're looking down at is what was once an open courtyard in the center of the building, but has now been grown over. As this rotted kelp has been blown, or pulled, or moved or dragged by the current to cover and form this sort of dark corrupted mat over the top of that you can see that there's walls around the side, like there's—it's like a Italian villa style, right? So there's, like, rooms in the the—the—the outer ring of the building, and the courtyard is—was once open to the sky, but now is no longer. You obviously can't see into the building itself. From where the clairvoyance sensor's position. You can just see this now closed off courtyard."
+        },
+        {
+          "startUid": "u2184",
+          "endUid": "u2207",
+          "quote": "But the now closed off courtyard is definitely not empty. And you see pacing around, the—let me just see—pacing around the the the center of this courtyard is a huge creature, maybe 20 feet tall, carrying a trident in one hand, and then with, like, tentacles that are coming out from its head. It looks like maybe once it was vaguely humanoid. But it's been—it's clearly not vaguely humanoid now. It's giant. It has—its hands look vaguely like merfolk hands. There's, like, long fingers with webbing between them, and it's got this, like, webbing along the underside of its arm. Its legs have fused together into a more, like, sort of classical merman style single tail, and its eyes are just completely black, opaque, as it sort of paces around a glowing magical portal."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2166",
+              "endUid": "u2183",
+              "quote": "As Wellby's conversation with the fish is going on, Seeker finishes casting clairvoyance, and the sensor appears in the darkness of this below the roof of this central building, and what you see—hold on one sec. Where is that in my desk? Okay, so you see the interior of this building. It seems to be a courtyard. It seems to be what, what? What it seems like you're looking down at is what was once an open courtyard in the center of the building, but has now been grown over. As this rotted kelp has been blown, or pulled, or moved or dragged by the current to cover and form this sort of dark corrupted mat over the top of that you can see that there's walls around the side, like there's—it's like a Italian villa style, right? So there's, like, rooms in the the—the—the outer ring of the building, and the courtyard is—was once open to the sky, but now is no longer. You obviously can't see into the building itself. From where the clairvoyance sensor's position. You can just see this now closed off courtyard."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "North entrance room",
+      "kind": "antechamber",
+      "evidence": [
+        {
+          "startUid": "u2903",
+          "endUid": "u2905",
+          "quote": "So drop down, stealth check—actually, hold off on the stealth. You drop over the side into the north wall. What's happening to Seeker and Riswynn?"
+        },
+        {
+          "startUid": "u2926",
+          "endUid": "u2943",
+          "quote": "So. You drop down, sneaking quietly through, and so, on this side, you can see that the—while the southern—the southern side of the building was clearer, on the north side this, like, kelp forest grows, basically is overgrown, like, right up to the edge of the building. So as you sort of inch your way down the side of the building, you're actually sort of dropping through and into this kelp and as you do like it's fairly dense, and so, as you begin to drop down like your perception of the area around you becomes substantially less, like you don't have—you have a very limited field of vision, but you can see the wall of this building as you're dropping down. You land right in front of these columns, looking into this interior room, which at the moment seems to be empty. But there's like a rack on the side that has, you know, a dozen spears. And what seems like obvious signs of recent occupation."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2926",
+              "endUid": "u2943",
+              "quote": "So. You drop down, sneaking quietly through, and so, on this side, you can see that the—while the southern—the southern side of the building was clearer, on the north side this, like, kelp forest grows, basically is overgrown, like, right up to the edge of the building. So as you sort of inch your way down the side of the building, you're actually sort of dropping through and into this kelp and as you do like it's fairly dense, and so, as you begin to drop down like your perception of the area around you becomes substantially less, like you don't have—you have a very limited field of vision, but you can see the wall of this building as you're dropping down. You land right in front of these columns, looking into this interior room, which at the moment seems to be empty. But there's like a rack on the side that has, you know, a dozen spears. And what seems like obvious signs of recent occupation."
+            },
+            {
+              "startUid": "u2946",
+              "endUid": "u2947",
+              "quote": "Yeah, so right—so inside the room there's door. There's no door on the back wall. So the south wall—there's a door to the east and the west."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "East columned room",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u2986",
+          "endUid": "u2993",
+          "quote": "So as you step into this room, the so so, okay, so just to be clear, you've got—you, like, enter into this east passage. There's, like, a row of columns that divide what is now a large, like, a space into 3 areas: the, like, northern area, the corridor, and the southern area, and there's a large opening in the southern area that as you spin around that as you enter, you can see looking to that—that leads directly into the courtyard."
+        },
+        {
+          "startUid": "u3050",
+          "endUid": "u3052",
+          "quote": "You went this way. There's like columns that run down the center of this room, and then this passage that leads south."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2986",
+              "endUid": "u2993",
+              "quote": "So as you step into this room, the so so, okay, so just to be clear, you've got—you, like, enter into this east passage. There's, like, a row of columns that divide what is now a large, like, a space into 3 areas: the, like, northern area, the corridor, and the southern area, and there's a large opening in the southern area that as you spin around that as you enter, you can see looking to that—that leads directly into the courtyard."
+            },
+            {
+              "startUid": "u3130",
+              "endUid": "u3137",
+              "quote": "The portal is here, the portal's—so this is the north wall of—this is a blow up of this wall here. This is, like, a—a antechamber. There's a room with columns here that has a door opening up that goes into the courtyard where the portal is, and then this—then there's another—there's another, and I'm drawing these as doors, but none of them actually have doors. They're all just openings. There's another passageway continuing east, but this entry way is one of the entries that Seeker saw with clairvoyance that leads into the courtyard and the portal."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Eastern meeting hall",
+      "kind": "meeting hall",
+      "evidence": [
+        {
+          "startUid": "u3146",
+          "endUid": "u3166",
+          "quote": "Wellby pokes his head through this entry way, and you can see here there's a—this is a—this looks like a corner room. It's a big room. It looks like possibly a meeting room, hall-like—it's all. None of it's very intact. But you can see that there's maybe what would have been not tables, but it's almost like there's like twisted vines of kelp that grow up in positions all around the room where people would have like stood around somehow, like it's not the exact exactly how it would have worked seems a little bit alien and hard to figure out. But there's, like, these gathering points of living kelp growing up through the center, scattered about a dozen of them around this—this large room, like twice the size of this other room, but it's a corner, and it goes continues south. There's like these spots, these like points. They—they would be sort of more open, so that, like, there's an open area—not drawing the super well, I ran out of time to actually make and—"
+        },
+        {
+          "startUid": "u3174",
+          "endUid": "u3181",
+          "quote": "Anyway, there's, like, this collection that—that sort of form a circle with an open space in the middle, almost, maybe, looking at it now you're, like, almost maybe the stage in the middle with, like, you know, seats, such as these are seats, like pieces of rope for people to hang up on so they can be in 3 dimensions somehow, but this is clearly like a big room, a gathering room, a place where people gathered, and there is a set of double doors on the south. On the south wall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u3130",
+              "endUid": "u3137",
+              "quote": "The portal is here, the portal's—so this is the north wall of—this is a blow up of this wall here. This is, like, a—a antechamber. There's a room with columns here that has a door opening up that goes into the courtyard where the portal is, and then this—then there's another—there's another, and I'm drawing these as doors, but none of them actually have doors. They're all just openings. There's another passageway continuing east, but this entry way is one of the entries that Seeker saw with clairvoyance that leads into the courtyard and the portal."
+            },
+            {
+              "startUid": "u3146",
+              "endUid": "u3166",
+              "quote": "Wellby pokes his head through this entry way, and you can see here there's a—this is a—this looks like a corner room. It's a big room. It looks like possibly a meeting room, hall-like—it's all. None of it's very intact. But you can see that there's maybe what would have been not tables, but it's almost like there's like twisted vines of kelp that grow up in positions all around the room where people would have like stood around somehow, like it's not the exact exactly how it would have worked seems a little bit alien and hard to figure out. But there's, like, these gathering points of living kelp growing up through the center, scattered about a dozen of them around this—this large room, like twice the size of this other room, but it's a corner, and it goes continues south. There's like these spots, these like points. They—they would be sort of more open, so that, like, there's an open area—not drawing the super well, I ran out of time to actually make and—"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Strange pool",
+      "kind": "pool",
+      "evidence": [
+        {
+          "startUid": "u1578",
+          "endUid": "u1591",
+          "quote": "There's like a a in the sort of center, looking down from where you are, there's basically sort of a ruined structure that looks maybe like this background image like this used to be some sort of town city center or whatever, and it's been ruined. And there's this, like, all of the jade—all of the kelp is sort of rotted and collapsed. The buildings that maybe once were bright coral have been destroyed, and there's there's what almost looks like in the center of this a big sort of open—almost like a pool within the ocean, right? So this maybe once would have been some other kind of water or something. It's—every now and then, you see, like ripples across the surface of this water that seem to be not caused by the current."
+        },
+        {
+          "startUid": "u2306",
+          "endUid": "u2320",
+          "quote": "You can sense the portal to the Plane of Water. You can also sense there's something unnatural in the pool,"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1560",
+              "endUid": "u1565",
+              "quote": "So, so here's what you see as you drift through the Sentient Ocean's jail wall slash protective bubble. You see the ruined city of Omi. The light is—is dim. The the surface is not super—I mean, the surface is maybe 200 250 feet above you. So there's some sunlight, but it's filtered into this dim, dim light. You can see the following main features of Omi, in its ruined state."
+            },
+            {
+              "startUid": "u1578",
+              "endUid": "u1591",
+              "quote": "There's like a a in the sort of center, looking down from where you are, there's basically sort of a ruined structure that looks maybe like this background image like this used to be some sort of town city center or whatever, and it's been ruined. And there's this, like, all of the jade—all of the kelp is sort of rotted and collapsed. The buildings that maybe once were bright coral have been destroyed, and there's there's what almost looks like in the center of this a big sort of open—almost like a pool within the ocean, right? So this maybe once would have been some other kind of water or something. It's—every now and then, you see, like ripples across the surface of this water that seem to be not caused by the current."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Seafloor rift",
+      "kind": "chasm",
+      "evidence": [
+        {
+          "startUid": "u1566",
+          "endUid": "u1577",
+          "quote": "The the biggest, most defining feature is this rift that you can see this crack in the sea floor and and Wellby note—you notice there seems to be a strong current that's flowing sort of in across and sort of into the crack somehow. So imagine you're, like, looking down. So the—so the crack is, like, maybe at, you know, 11 o'clock or, sorry, one o'clock, roughly, like, long crack, and then—"
+        },
+        {
+          "startUid": "u1929",
+          "endUid": "u1929",
+          "quote": "Current seems to be rushing down into this chasm."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1560",
+              "endUid": "u1565",
+              "quote": "So, so here's what you see as you drift through the Sentient Ocean's jail wall slash protective bubble. You see the ruined city of Omi. The light is—is dim. The the surface is not super—I mean, the surface is maybe 200 250 feet above you. So there's some sunlight, but it's filtered into this dim, dim light. You can see the following main features of Omi, in its ruined state."
+            },
+            {
+              "startUid": "u1566",
+              "endUid": "u1577",
+              "quote": "The the biggest, most defining feature is this rift that you can see this crack in the sea floor and and Wellby note—you notice there seems to be a strong current that's flowing sort of in across and sort of into the crack somehow. So imagine you're, like, looking down. So the—so the crack is, like, maybe at, you know, 11 o'clock or, sorry, one o'clock, roughly, like, long crack, and then—"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Kelp harvesting ground",
+      "kind": "kelp forest",
+      "evidence": [
+        {
+          "startUid": "u1871",
+          "endUid": "u1889",
+          "quote": "The wand is still pointing due north. As you go past them, go past the pool, you can now see—Wellby would notice this as you're looking in this direction—somewhat unexpectedly, I think you would—you see what looks like a work group harvesting. Something is like people that are tied together with a rope. 6 merfolk tied together with a rope. And they're hacking down kelp, and there's another 6 merfolk with javelins watching over them, and occasionally you know, kind of glancing down, and, like, you know, banging, or sort of seemingly driving them to work harder."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1847",
+              "endUid": "u1858",
+              "quote": "So you begin to swim, and as you move the wand keeps pointing straight, 12 o'clock. You swim over these 2 towers, and looking down you count something like—you see about 10 merfolk warriors. Some of them are obviously minions. Plus 2 additional warriors that are mounted on on giant manta rays that are swimming around in circles, and every now and then they'll like glance up. They seem to be keeping watch on actually all directions. Not just up. What?"
+            },
+            {
+              "startUid": "u1871",
+              "endUid": "u1889",
+              "quote": "The wand is still pointing due north. As you go past them, go past the pool, you can now see—Wellby would notice this as you're looking in this direction—somewhat unexpectedly, I think you would—you see what looks like a work group harvesting. Something is like people that are tied together with a rope. 6 merfolk tied together with a rope. And they're hacking down kelp, and there's another 6 merfolk with javelins watching over them, and occasionally you know, kind of glancing down, and, like, you know, banging, or sort of seemingly driving them to work harder."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Garden of Names",
+      "kind": "historical garden",
+      "evidence": [
+        {
+          "startUid": "u1057",
+          "endUid": "u1073",
+          "quote": "And there's an image that the water below you clears, and you're looking as if through a mirror, but clearly not the present. This is a memory, and you can see this city that you saw briefly before, of a brief image of the kelp rot in the—the—you know, the the the city dead, now alive, bright and colorful, coral growing amongst the kelp, blooming, merfolk swimming and tending to it, [garbled]. Carefully coaxing these strange fruits to grow, bud off the kelp, letting them drift on the sea, to be eaten, and carry some strange essence of the memories of the people and the magic of the Sentient Ocean across the world—the Garden of Names."
+        },
+        {
+          "startUid": "u1074",
+          "endUid": "u1081",
+          "quote": "A memorial of a kind, but also a place of reliving, where the stories of all who had crossed through the ocean drifted in the currents and could be found again."
+        }
+      ],
+      "note": "Seen in the Ocean’s memory; the party does not visit the intact garden.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1057",
+              "endUid": "u1073",
+              "quote": "And there's an image that the water below you clears, and you're looking as if through a mirror, but clearly not the present. This is a memory, and you can see this city that you saw briefly before, of a brief image of the kelp rot in the—the—you know, the the the city dead, now alive, bright and colorful, coral growing amongst the kelp, blooming, merfolk swimming and tending to it, [garbled]. Carefully coaxing these strange fruits to grow, bud off the kelp, letting them drift on the sea, to be eaten, and carry some strange essence of the memories of the people and the magic of the Sentient Ocean across the world—the Garden of Names."
+            },
+            {
+              "startUid": "u1117",
+              "endUid": "u1148",
+              "quote": "And then the war, in the middle of the city, in the center of the great palace that once housed the names that was once the center of this garden, that where—the where the kelp grew into this twisting, spirally building of 50 feet tall, stretching halfway to the surface. Almost in the middle of that, a rift, creatures flooding out from the Plane of Water, creatures long—who have long held that the ocean is theirs to control, and this intruder must be—the intruder being the Sentient Ocean—must be corralled and controlled, threatening to spread across the deeps, until and then you see the ocean gathering its strength, and forming a bubble around Omi. Omi is the name of the merfolk City. And this deep sense of sadness as they watched the merfolk who are not part of this attack, who could not flee, trapped, enslaved, dragged back to the Plane of Water. But the contagion was stopped."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Protective waters above the civic building",
+      "kind": "water above building",
+      "evidence": [
+        {
+          "startUid": "u1976",
+          "endUid": "u1979",
+          "quote": "You're now stopped right about there, with the wand, slowly spinning in a circle indicating you're directly above the portal."
+        },
+        {
+          "startUid": "u2033",
+          "endUid": "u2037",
+          "quote": "Clairvoyance directly below you to where you would think the portal is."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1835",
+              "endUid": "u1839",
+              "quote": "As long as you're within this you're still being protected by the sentient until you move 10 feet out."
+            },
+            {
+              "startUid": "u1976",
+              "endUid": "u1979",
+              "quote": "You're now stopped right about there, with the wand, slowly spinning in a circle indicating you're directly above the portal."
+            }
+          ]
+        },
+        {
+          "relation": "above",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1909",
+              "endUid": "u1913",
+              "quote": "You continue to go, and as you get to right about here, you can see a few more things. One is just as you get to roughly the center of this building the wand starts spinning in a circle."
+            },
+            {
+              "startUid": "u1930",
+              "endUid": "u1933",
+              "quote": "Hmm, 40 feet, something like that, 50 feet."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Collapsed home waters",
+      "kind": "unnamed other realm",
+      "evidence": [
+        {
+          "startUid": "u0233",
+          "endUid": "u0253",
+          "quote": "Finding a door pulled open and the—not just—not just pulled open, but violently wrenched open, and in the process of being wrenched open, tearing holes everywhere in the world. And flowing, running, as the world collapses behind you. The searing heat of dryness. A concept that is seems completely alien in—in this language. Just nothingness, a void, and flowing down tendrils of magic from these gashes in the world. As everything collapses behind them, to a new place, a home of sorts, soothing, gentle, and alive."
+        },
+        {
+          "startUid": "u0254",
+          "endUid": "u0260",
+          "quote": "And the whispers seem to be speaking as they project these images of home and then violent, desperate flight. \"We could not stay,\" they seem to say. \"The home waters collapsed around us. The world waters were crushed. We fled, and we were lucky to find this place.\""
+        }
+      ],
+      "note": "Shown as the Ocean’s lost home; its identity is not established as the Plane of Water (u1352–u1361)."
+    },
+    "p16": {
+      "label": "Overgrown northwest room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2960",
+          "endUid": "u2968",
+          "quote": "Openings. And as you drop down and you sort of enter into this room and look, you can see the the sort of North western side of the building looks like you can see through the next door into a room that's like overgrown. This is to the west side that's overgrown with kelp that's, like, growing up into the ceiling almost, it seems like, and seems to be sort of waving almost intentionally."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2949",
+              "endUid": "u2949",
+              "quote": "So you enter this room—"
+            },
+            {
+              "startUid": "u2960",
+              "endUid": "u2968",
+              "quote": "Openings. And as you drop down and you sort of enter into this room and look, you can see the the sort of North western side of the building looks like you can see through the next door into a room that's like overgrown. This is to the west side that's overgrown with kelp that's, like, growing up into the ceiling almost, it seems like, and seems to be sort of waving almost intentionally."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins underwater, descending into the Sentient Ocean’s protective waters above Omi.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "Okay, so we begin underwater for both the dwarves. And Wellby, I think it's the first time you've ever actually been able to breathe underwater."
+        },
+        {
+          "startUid": "u0029",
+          "endUid": "u0038",
+          "quote": "You can feel the stillness of the water around you, and then the currents that are swirling as you begin to drift down, but then swirl around you and begin to pull you into this barrier, this field, this protective bubble that keeps this portal safe, or keeps the world safe from whatever might come through this portal."
+        },
+        {
+          "startUid": "u0039",
+          "endUid": "u0045",
+          "quote": "You're not sure. But as you get pulled into this, you—you—looking around you is like looking through like a blurred glass. As you fall into this current the the light above fades to this pale greenish light, even though you're maybe only 30 feet below the surface—25 feet below the surface. And below you you can just see again, even though the ocean floor is only maybe a hundred 150 feet below you through this swirling glass current it looks blurred and distorted, and you can't make out any details."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0199",
+        "endUid": "u0260"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The Ocean shows its flight from collapsing home waters; the party remains in the barrier.",
+      "evidence": [
+        {
+          "startUid": "u0199",
+          "endUid": "u0208",
+          "quote": "[garbled] in the—so as you—back in game, as you drift, you begin to hear a rhythmic, pulsing noise and a vision of strange water-filled dream. There's water everywhere around you. And you think maybe you see faces forming in this current as you begin to drift down."
+        },
+        {
+          "startUid": "u0233",
+          "endUid": "u0253",
+          "quote": "Finding a door pulled open and the—not just—not just pulled open, but violently wrenched open, and in the process of being wrenched open, tearing holes everywhere in the world. And flowing, running, as the world collapses behind you. The searing heat of dryness. A concept that is seems completely alien in—in this language. Just nothingness, a void, and flowing down tendrils of magic from these gashes in the world. As everything collapses behind them, to a new place, a home of sorts, soothing, gentle, and alive."
+        },
+        {
+          "startUid": "u0254",
+          "endUid": "u0260",
+          "quote": "And the whispers seem to be speaking as they project these images of home and then violent, desperate flight. \"We could not stay,\" they seem to say. \"The home waters collapsed around us. The world waters were crushed. We fled, and we were lucky to find this place.\""
+        }
+      ],
+      "place": "p15",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0420",
+        "endUid": "u0567"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The Ocean shows remembered creation and growth of merfolk societies in the ocean.",
+      "evidence": [
+        {
+          "startUid": "u0420",
+          "endUid": "u0440",
+          "quote": "As it begins to float away, sort of waiting for a moment to see if—waiting for a moment, as the rest of you begin to sink down. And and you see with that this seems to have triggered something. Da—the there's a shift in the in the ocean. And you hear the sort of melody, this low hum, begin and colors begin to grow in the ocean life: coral, fish, kelp, whales, starfish. And this talk of Delwath's story seems to have triggered something, and and \"We had no protectors, but we became protectors.\""
+        },
+        {
+          "startUid": "u0448",
+          "endUid": "u0460",
+          "quote": "And as it flows across the fish you can see some of them swimming through this current and growing. Beginning to stretch, and their forms shift, growing legs, long legs with long toes with broad webbing between them, spread out, beginning to grow arms with long hands, with webbing spread out in this, and like, [garbled] fins that run down the sides of their arms, beginning to grow faces, eyes, mouth, stretching out the fish's face into sort of somewhat humanoid features. \"We made something to protect,\" or it \"made us to protect.\""
+        },
+        {
+          "startUid": "u0499",
+          "endUid": "u0520",
+          "quote": "And the ocean [garbled] and drifts, and as they do, the merfolk follow, staying deep, staying hidden, staying far below the surface. Dwelling in the water, dwelling in the deepness. And this sense, as you watch of time passing, people having lives, people building cities, learning to—or being shown how to weave kelp fronds into structures, how to coax the coral to grow, how to tame manta rays."
+        },
+        {
+          "startUid": "u0540",
+          "endUid": "u0550",
+          "quote": "And yet the emotions that again triggered by Delwath's story that wash over you as you watch this are not strange, you know. It's the sense of you know, \"We would—we too would go to war to protect this. We too see—know what you say when you are warned, and you must. And there's no choice but to fight.\""
+        }
+      ],
+      "place": "p01",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0807",
+        "endUid": "u0827"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "An initial memory shows a damaged kelp city; the later account identifies the Garden of Names and Omi.",
+      "evidence": [
+        {
+          "startUid": "u0807",
+          "endUid": "u0819",
+          "quote": "As—as Riswynn is talking about the—the need to—oh, there's always something that needs mending—there is this flash of an image of what looks like a city, or parts of a city, a great forest of kelp growing from the bottom of the ocean. But there's pieces of it that have rotted and are collapsed in amongst themselves, and it was a great gash that runs like a crevasse into the floor of the ocean that runs through the middle of this image, and you get this intense wave of failure,"
+        },
+        {
+          "startUid": "u0820",
+          "endUid": "u0827",
+          "quote": "And the sense that it's not quite ready to—it doesn't—it's not—doesn't know you quite well enough to talk about what needs mending and where it—but you definitely get the sense, like, it resonates very strongly with this, and it feels—this intelligence, they, it—feels they failed, and there is damage in the world because of this. But it retreats. It's sort of the currents pull into their shell a little bit as Riswynn talks about this, and the ocean grows still for a moment as it kind of waits."
+        },
+        {
+          "startUid": "u1057",
+          "endUid": "u1073",
+          "quote": "And there's an image that the water below you clears, and you're looking as if through a mirror, but clearly not the present. This is a memory, and you can see this city that you saw briefly before, of a brief image of the kelp rot in the—the—you know, the the the city dead, now alive, bright and colorful, coral growing amongst the kelp, blooming, merfolk swimming and tending to it, [garbled]. Carefully coaxing these strange fruits to grow, bud off the kelp, letting them drift on the sea, to be eaten, and carry some strange essence of the memories of the people and the magic of the Sentient Ocean across the world—the Garden of Names."
+        },
+        {
+          "startUid": "u1117",
+          "endUid": "u1148",
+          "quote": "And then the war, in the middle of the city, in the center of the great palace that once housed the names that was once the center of this garden, that where—the where the kelp grew into this twisting, spirally building of 50 feet tall, stretching halfway to the surface. Almost in the middle of that, a rift, creatures flooding out from the Plane of Water, creatures long—who have long held that the ocean is theirs to control, and this intruder must be—the intruder being the Sentient Ocean—must be corralled and controlled, threatening to spread across the deeps, until and then you see the ocean gathering its strength, and forming a bubble around Omi. Omi is the name of the merfolk City. And this deep sense of sadness as they watched the merfolk who are not part of this attack, who could not flee, trapped, enslaved, dragged back to the Plane of Water. But the contagion was stopped."
+        }
+      ],
+      "place": "p13",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u1209",
+        "endUid": "u1219"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The vision clears to reveal present ruined Omi below; the party is still high in the barrier.",
+      "evidence": [
+        {
+          "startUid": "u1209",
+          "endUid": "u1219",
+          "quote": "As the violence of this vision of war and destruction and rot and corruption fades, and for a moment there's peace. And now you can begin to see the the water below you has become clear. And you see now the city of—the ruined city of Omi below you, that—the rotted bits of jade, the cracked foundations, this—this rift, this—you're still high enough up, you sense that you're not quite through. But you see what is there now,"
+        },
+        {
+          "startUid": "u1560",
+          "endUid": "u1565",
+          "quote": "So, so here's what you see as you drift through the Sentient Ocean's jail wall slash protective bubble. You see the ruined city of Omi. The light is—is dim. The the surface is not super—I mean, the surface is maybe 200 250 feet above you. So there's some sunlight, but it's filtered into this dim, dim light. You can see the following main features of Omi, in its ruined state."
+        }
+      ],
+      "place": "p02",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1847",
+        "endUid": "u1979"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Following the portal-detecting wand within the protective dome, the party passes above towers and the pool and stops above the ruined civic building.",
+      "evidence": [
+        {
+          "startUid": "u1835",
+          "endUid": "u1839",
+          "quote": "As long as you're within this you're still being protected by the sentient until you move 10 feet out."
+        },
+        {
+          "startUid": "u1847",
+          "endUid": "u1858",
+          "quote": "So you begin to swim, and as you move the wand keeps pointing straight, 12 o'clock. You swim over these 2 towers, and looking down you count something like—you see about 10 merfolk warriors. Some of them are obviously minions. Plus 2 additional warriors that are mounted on on giant manta rays that are swimming around in circles, and every now and then they'll like glance up. They seem to be keeping watch on actually all directions. Not just up. What?"
+        },
+        {
+          "startUid": "u1871",
+          "endUid": "u1889",
+          "quote": "As you go past them, go past the pool, you can now see"
+        },
+        {
+          "startUid": "u1909",
+          "endUid": "u1913",
+          "quote": "You continue to go, and as you get to right about here, you can see a few more things. One is just as you get to roughly the center of this building the wand starts spinning in a circle."
+        },
+        {
+          "startUid": "u1976",
+          "endUid": "u1979",
+          "quote": "You're now stopped right about there, with the wand, slowly spinning in a circle indicating you're directly above the portal."
+        }
+      ],
+      "from": "p03",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "swim",
+      "route": [
+        {
+          "reading": "Pass above the two guarded kelp towers."
+        },
+        {
+          "reading": "Pass the pool without entering it.",
+          "place": "p10"
+        },
+        {
+          "reading": "Stop over the civic building when the wand spins.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1871",
+        "endUid": "u1889"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "During the protected swim, Wellby sees six bound merfolk harvesting kelp under six armed guards.",
+      "evidence": [
+        {
+          "startUid": "u1871",
+          "endUid": "u1889",
+          "quote": "The wand is still pointing due north. As you go past them, go past the pool, you can now see—Wellby would notice this as you're looking in this direction—somewhat unexpectedly, I think you would—you see what looks like a work group harvesting. Something is like people that are tied together with a rope. 6 merfolk tied together with a rope. And they're hacking down kelp, and there's another 6 merfolk with javelins watching over them, and occasionally you know, kind of glancing down, and, like, you know, banging, or sort of seemingly driving them to work harder."
+        }
+      ],
+      "place": "p12",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1929",
+        "endUid": "u1975"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From above the city, the party sees currents rushing toward a dark chasm; they cannot inspect its depths.",
+      "evidence": [
+        {
+          "startUid": "u1929",
+          "endUid": "u1929",
+          "quote": "Current seems to be rushing down into this chasm."
+        },
+        {
+          "startUid": "u1957",
+          "endUid": "u1962",
+          "quote": "You can also now see, as you get to the middle, that the current seems that this strong current seems to be flowing like along the along the edge here, and then turning in a spiral."
+        },
+        {
+          "startUid": "u1967",
+          "endUid": "u1968",
+          "quote": "You can't really see into the gash. It's hard to say. The gash. It's dark down in the gash like."
+        },
+        {
+          "startUid": "u1970",
+          "endUid": "u1975",
+          "quote": "You can't—and it's hard to track, like, there's little fronds of seaweed and kelp and stuff floating, but it's it's too hard to track individual pieces that far, so you'd have to swim down to really understand the dynamics of the water flow here."
+        }
+      ],
+      "place": "p11",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u2166",
+        "endUid": "u2207"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance looks into the overgrown courtyard and reveals a tentacled guardian pacing beside the portal; Seeker remains above the building.",
+      "evidence": [
+        {
+          "startUid": "u2033",
+          "endUid": "u2037",
+          "quote": "Clairvoyance directly below you to where you would think the portal is."
+        },
+        {
+          "startUid": "u2166",
+          "endUid": "u2183",
+          "quote": "As Wellby's conversation with the fish is going on, Seeker finishes casting clairvoyance, and the sensor appears in the darkness of this below the roof of this central building, and what you see—hold on one sec. Where is that in my desk? Okay, so you see the interior of this building. It seems to be a courtyard. It seems to be what, what? What it seems like you're looking down at is what was once an open courtyard in the center of the building, but has now been grown over. As this rotted kelp has been blown, or pulled, or moved or dragged by the current to cover and form this sort of dark corrupted mat over the top of that you can see that there's walls around the side, like there's—it's like a Italian villa style, right? So there's, like, rooms in the the—the—the outer ring of the building, and the courtyard is—was once open to the sky, but now is no longer. You obviously can't see into the building itself. From where the clairvoyance sensor's position. You can just see this now closed off courtyard."
+        },
+        {
+          "startUid": "u2184",
+          "endUid": "u2207",
+          "quote": "But the now closed off courtyard is definitely not empty. And you see pacing around, the—let me just see—pacing around the the the center of this courtyard is a huge creature, maybe 20 feet tall, carrying a trident in one hand, and then with, like, tentacles that are coming out from its head. It looks like maybe once it was vaguely humanoid. But it's been—it's clearly not vaguely humanoid now. It's giant. It has—its hands look vaguely like merfolk hands. There's, like, long fingers with webbing between them, and it's got this, like, webbing along the underside of its arm. Its legs have fused together into a more, like, sort of classical merman style single tail, and its eyes are just completely black, opaque, as it sort of paces around a glowing magical portal."
+        }
+      ],
+      "place": "p06",
+      "mode": "remote",
+      "observerPlace": "p14"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u2289",
+        "endUid": "u2305"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Commune with Nature senses malevolence spreading from the rift through dead kelp and coral.",
+      "evidence": [
+        {
+          "startUid": "u2273",
+          "endUid": "u2275",
+          "quote": "Before you continue planning, Kenzo comes out of his—finishes his trance and reaches out your awareness to commune with nature."
+        },
+        {
+          "startUid": "u2289",
+          "endUid": "u2305",
+          "quote": "That seems to be spreading from—so so in these, in these—this field, here of dead kelp and bleached coral seems, and especially like this center of this rift here, right? The sort of end of this rift that's buried within this field of bleached coral and dead kelp seems to be where this malevolence is—oops—spreading from, and it almost feels like this slow creep as it gradually begins to inch its way into these fields of still living kelp, like you can feel this edge, this boundary, that where the the kelp is being slowly corroded and dying from this malevolence that's spreading."
+        }
+      ],
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p14"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u2306",
+        "endUid": "u2320"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo senses an unnatural, sleeping hungry being beneath the pool; this establishes no physical visit.",
+      "evidence": [
+        {
+          "startUid": "u2306",
+          "endUid": "u2310",
+          "quote": "You can sense quite clearly. Your Commune with Nature also allows you to sense portals. You can sense the portal to the Plane of Water. You can also sense there's something unnatural in the pool,"
+        },
+        {
+          "startUid": "u2312",
+          "endUid": "u2315",
+          "quote": "A—like something big and with a—sleeping now, but with a—"
+        },
+        {
+          "startUid": "u2317",
+          "endUid": "u2320",
+          "quote": "Desire for a sort of barely contained hunger is lurking beneath that water."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p14"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u2492",
+        "endUid": "u2537"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo senses merfolk in three groups around the perimeter rooms, separate from the guardian’s courtyard.",
+      "evidence": [
+        {
+          "startUid": "u2492",
+          "endUid": "u2492",
+          "quote": "Hey, Tim? When I do my my Commune with Nature, I can also sense like beings, you know, like in the range. Were there any other beings other than the 2 mer—the the merfolk guards? Are there other merfolk nearby?"
+        },
+        {
+          "startUid": "u2505",
+          "endUid": "u2527",
+          "quote": "And there are another dozen or so merfolk in the building."
+        },
+        {
+          "startUid": "u2509",
+          "endUid": "u2515",
+          "quote": "No, it's not—it just—it sort of gives you a, like—oh, well, it depends. So your commune with nature doesn't, but your, like, ki detection thing does."
+        },
+        {
+          "startUid": "u2520",
+          "endUid": "u2527",
+          "quote": "I mean, that's basically the sense you get when you there. It's not one big group of 12. I'm—it's 3 groups like in different rooms here here, and sort of but, like, possibly, like your sense from the layout is, maybe they're guarding doors."
+        },
+        {
+          "startUid": "u2531",
+          "endUid": "u2537",
+          "quote": "The portal's right in the middle of this building, in the same—"
+        }
+      ],
+      "place": "p04",
+      "mode": "remote",
+      "observerPlace": "p14"
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u2659",
+        "endUid": "u2664"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Seeker and Riswynn hold position in the protected waters while the three scouts descend; their later Dimension Door remains proposed.",
+      "evidence": [
+        {
+          "startUid": "u2656",
+          "endUid": "u2657",
+          "quote": "Yeah, I'll wait—I'll wait for your signal to Dimension Door myself."
+        },
+        {
+          "startUid": "u2659",
+          "endUid": "u2664",
+          "quote": "The range of control water is 300 feet. You can control any, like—you have no issue with controlling water from a place of safety."
+        },
+        {
+          "startUid": "u2920",
+          "endUid": "u2925",
+          "quote": "Let's arrive at the same moment as them. We'll wait till they go, and then we'll go. We're just—"
+        },
+        {
+          "startUid": "u3023",
+          "endUid": "u3024",
+          "quote": "Ready as—ready as I'll be here."
+        }
+      ],
+      "place": "p14"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2738",
+        "endUid": "u2781"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Invisible, the three scouts swim down through water redirected by Riswynn and arrive just above the kelp-matted roof.",
+      "evidence": [
+        {
+          "startUid": "u2738",
+          "endUid": "u2739",
+          "quote": "The 3 of you who are beginning to swim down now stealthily—so Kenzo, Wellby, and Delwath—make stealth checks with advantage, all the—"
+        },
+        {
+          "startUid": "u2742",
+          "endUid": "u2756",
+          "quote": "Wellby, as you're swimming down through the that now—avoiding the hot current through the now redirected cool water."
+        },
+        {
+          "startUid": "u2769",
+          "endUid": "u2769",
+          "quote": "So the 3 of you land without incident on the slimy—"
+        },
+        {
+          "startUid": "u2773",
+          "endUid": "u2781",
+          "quote": "Yeah, yeah, okay, right above the slimy, matted roof of the of this building. You can now all hear sounds as somebody is, like, rushing to—something's swimming through the kelp. You can't see anything at all in in the bottom of the kelp, although now that the crab is sunk to the bottom, there's, like, a opening, although the kelp sort of swirls around above it now and now the crab isn't visible to you. It is—"
+        }
+      ],
+      "from": "p14",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "swim"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2903",
+        "endUid": "u2949"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The scouts drop over the north side through dense kelp and enter the empty north entrance room, where a spear rack shows recent occupation.",
+      "evidence": [
+        {
+          "startUid": "u2903",
+          "endUid": "u2905",
+          "quote": "So drop down, stealth check—actually, hold off on the stealth. You drop over the side into the north wall. What's happening to Seeker and Riswynn?"
+        },
+        {
+          "startUid": "u2926",
+          "endUid": "u2943",
+          "quote": "So. You drop down, sneaking quietly through, and so, on this side, you can see that the—while the southern—the southern side of the building was clearer, on the north side this, like, kelp forest grows, basically is overgrown, like, right up to the edge of the building. So as you sort of inch your way down the side of the building, you're actually sort of dropping through and into this kelp and as you do like it's fairly dense, and so, as you begin to drop down like your perception of the area around you becomes substantially less, like you don't have—you have a very limited field of vision, but you can see the wall of this building as you're dropping down. You land right in front of these columns, looking into this interior room, which at the moment seems to be empty. But there's like a rack on the side that has, you know, a dozen spears. And what seems like obvious signs of recent occupation."
+        },
+        {
+          "startUid": "u2949",
+          "endUid": "u2949",
+          "quote": "So you enter this room—"
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "swim"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u2960",
+        "endUid": "u2968"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Looking west from the entrance room, the scouts see a room choked with kelp and choose the eastern passage instead.",
+      "evidence": [
+        {
+          "startUid": "u2960",
+          "endUid": "u2968",
+          "quote": "Openings. And as you drop down and you sort of enter into this room and look, you can see the the sort of North western side of the building looks like you can see through the next door into a room that's like overgrown. This is to the west side that's overgrown with kelp that's, like, growing up into the ceiling almost, it seems like, and seems to be sort of waving almost intentionally."
+        },
+        {
+          "startUid": "u2975",
+          "endUid": "u2976",
+          "quote": "I think we go that way. We should stay away from the kelp, the overgrown kelp, right?"
+        }
+      ],
+      "place": "p16",
+      "mode": "local",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2986",
+        "endUid": "u2993"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The scouts enter the east columned room, whose southern opening leads toward the courtyard.",
+      "evidence": [
+        {
+          "startUid": "u2975",
+          "endUid": "u2976",
+          "quote": "I think we go that way. We should stay away from the kelp, the overgrown kelp, right?"
+        },
+        {
+          "startUid": "u2986",
+          "endUid": "u2993",
+          "quote": "So as you step into this room, the so so, okay, so just to be clear, you've got—you, like, enter into this east passage. There's, like, a row of columns that divide what is now a large, like, a space into 3 areas: the, like, northern area, the corridor, and the southern area, and there's a large opening in the southern area that as you spin around that as you enter, you can see looking to that—that leads directly into the courtyard."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "swim"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u3031",
+        "endUid": "u3088"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The scouts remain in the columned room as the guardian probes the opening from the courtyard and hangs kelp across it; they have not entered the courtyard.",
+      "evidence": [
+        {
+          "startUid": "u3027",
+          "endUid": "u3029",
+          "quote": "No, no, no, you're not swimming into the—you're not swimming into the open court, you're swimming into the room, right?"
+        },
+        {
+          "startUid": "u3031",
+          "endUid": "u3035",
+          "quote": "So you're in this room, but now you can see into the court, or at least you can see that this door leads into—"
+        },
+        {
+          "startUid": "u3062",
+          "endUid": "u3066",
+          "quote": "You see for a moment just this head with these tentacles stick through. It seems to be like, looking around quickly, pauses for a moment."
+        },
+        {
+          "startUid": "u3081",
+          "endUid": "u3085",
+          "quote": "It looks. And then it's sort of retreats slightly. And as it does it, like, grabs a handful of something and, like, yanks, and this, like, pile of sludge, like, falls down, and of this, like, rotted kelp, like, falls down in front of this open—"
+        },
+        {
+          "startUid": "u3088",
+          "endUid": "u3088",
+          "quote": "Blocking it, just so that if anything swims through, it'll be abundantly obvious, because you have to—you'll move the—"
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u3107",
+        "endUid": "u3117"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "They discuss Dimension Door into the guardian’s room when the scouts enter; no casting or arrival is narrated before the session stops.",
+      "evidence": [
+        {
+          "startUid": "u3107",
+          "endUid": "u3117",
+          "quote": "You shouldn't—you should go into the room with the bad guy once we come into the room with the bad guy."
+        },
+        {
+          "startUid": "u3214",
+          "endUid": "u3221",
+          "quote": "We could also just stop here before rolling initiative, so that we don't have to stop in the middle of initiative."
+        }
+      ],
+      "from": "p14",
+      "to": "p06",
+      "completion": "planned",
+      "context": "planned",
+      "mode": "Dimension Door"
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u3146",
+        "endUid": "u3189"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby peers through the eastern opening into a larger meeting hall with gathering points of living kelp and signs of traffic; entry and a return trip are not established.",
+      "evidence": [
+        {
+          "startUid": "u3138",
+          "endUid": "u3139",
+          "quote": "I mean, why don't I at least stealth over to the East to see what's there, and then come back, and we."
+        },
+        {
+          "startUid": "u3146",
+          "endUid": "u3166",
+          "quote": "Wellby pokes his head through this entry way, and you can see here there's a—this is a—this looks like a corner room. It's a big room. It looks like possibly a meeting room, hall-like—it's all. None of it's very intact. But you can see that there's maybe what would have been not tables, but it's almost like there's like twisted vines of kelp that grow up in positions all around the room where people would have like stood around somehow, like it's not the exact exactly how it would have worked seems a little bit alien and hard to figure out. But there's, like, these gathering points of living kelp growing up through the center, scattered about a dozen of them around this—this large room, like twice the size of this other room, but it's a corner, and it goes continues south. There's like these spots, these like points. They—they would be sort of more open, so that, like, there's an open area—not drawing the super well, I ran out of time to actually make and—"
+        },
+        {
+          "startUid": "u3174",
+          "endUid": "u3181",
+          "quote": "Anyway, there's, like, this collection that—that sort of form a circle with an open space in the middle, almost, maybe, looking at it now you're, like, almost maybe the stage in the middle with, like, you know, seats, such as these are seats, like pieces of rope for people to hang up on so they can be in 3 dimensions somehow, but this is clearly like a big room, a gathering room, a place where people gathered, and there is a set of double doors on the south. On the south wall."
+        },
+        {
+          "startUid": "u3182",
+          "endUid": "u3189",
+          "quote": "There is currently nothing here, but Wellby, with your perception, there's definitely traffic that's moved through here frequently. So, like, he's—the, like, vines are pushed out of the way to clear out sort of basically a direct passage, like through, like clearly this has been—this is a room that has activity in it, although theoretically most of the guards rushed out to investigate the stone crab."
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p08"
+    }
+  ]
+}

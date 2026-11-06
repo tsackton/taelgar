@@ -1,0 +1,191 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-100",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-session.yaml",
+    "sessionYamlSha256": "57c82bed59b1b3ec64466d0d3338e727c3a72f7d1eac9d708cad582b5a9e6625",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-transcript.md",
+    "transcriptSha256": "49d5508d60559b49adabe5c7ff811ac01a44b0eca38c533547327d1e36c2543f",
+    "yamlDates": {
+      "start": "1749-05-11",
+      "end": "1749-05-11"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u2041",
+        "endUid": "u2044"
+      },
+      "reading": "Seeker casts Clairvoyance while Kenzo completes Commune with Nature over the same ten-minute reconnaissance interval; Wellby questions the fish during it.",
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Wellby"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM assigns both castings to this ten-minute interval and narrates their completion."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2041",
+          "endUid": "u2044",
+          "quote": "Okay, Kenzo's—Kenzo's Commune with Nature Ritual also takes about 10 min. In this 10 min, well, Seeker and Kenzo are sensing what's around. Do the rest of you want to do anything?"
+        },
+        {
+          "startUid": "u2073",
+          "endUid": "u2083",
+          "quote": "While, while Seeker and and Kenzo are communing with magic and spirit, respectively, or reversely, I forget which order I said your names—Wellby reaches out telepathically to a—the—the the most likely thing you see is a small fish"
+        },
+        {
+          "startUid": "u2166",
+          "endUid": "u2183",
+          "quote": "As Wellby's conversation with the fish is going on, Seeker finishes casting clairvoyance"
+        },
+        {
+          "startUid": "u2273",
+          "endUid": "u2275",
+          "quote": "Before you continue planning, Kenzo comes out of his—finishes his trance and reaches out your awareness to commune with nature."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u2813",
+        "endUid": "u2815"
+      },
+      "reading": "Delwath limits his attempt to cut through the roof kelp to ten seconds; the projected fifteen-to-twenty-minute full cut is abandoned.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 0.16666666666666666,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Delwath says ten seconds and the DM accepts; expressed in minutes."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2812",
+          "endUid": "u2812",
+          "quote": "It's thick going down. It is gonna take—it's, I mean, you could definitely cut through it, but it's slow going. It would take some time, at least 15 or 20 min to cut through it."
+        },
+        {
+          "startUid": "u2813",
+          "endUid": "u2815",
+          "quote": "Not gonna spend—I mean, I'm only gonna spend 10 s trying to—"
+        },
+        {
+          "startUid": "u2814",
+          "endUid": "u2814",
+          "quote": "Yeah, yeah."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u2866",
+        "endUid": "u2871"
+      },
+      "reading": "Clairvoyance has expired: at least ten minutes have passed since the sensor appeared, covering subsequent preparation and the roof approach.",
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "min": 10,
+        "minInclusive": true,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM confirms ten minutes have passed and the ten-minute effect is past; no separate additional ten-minute block is established."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "t04"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2866",
+          "endUid": "u2866",
+          "quote": "10 min has passed."
+        },
+        {
+          "startUid": "u2868",
+          "endUid": "u2868",
+          "quote": "Yeah, it only lasts 10 min. So this is past. In the time that you've."
+        },
+        {
+          "startUid": "u2870",
+          "endUid": "u2871",
+          "quote": "Done all this, but what do you mean, doesn't come out to the—"
+        }
+      ],
+      "note": "This includes preparation before Invisibility and part of the same infiltration measured by t04; do not add the intervals together."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2956",
+        "endUid": "u2957"
+      },
+      "reading": "By entry into the north room, about fifteen to twenty minutes have passed since Invisibility was cast for Delwath, Kenzo, Wellby and Riswynn.",
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby",
+        "Riswynn"
+      ],
+      "duration": {
+        "min": 15,
+        "minInclusive": true,
+        "max": 20,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly estimates elapsed time since the casting, confirmed at u2701–u2704."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2701",
+          "endUid": "u2704",
+          "quote": "Delwath, Riswynn, Kenzo and and Wellby vanish as Delwath finishes casting invisibility"
+        },
+        {
+          "startUid": "u2956",
+          "endUid": "u2957",
+          "quote": "Okay, so now it's been about, I don't know, 15–20 min since you've cast Invisibility."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "May 11, 1749 is supplied by YAML, not spoken in this transcript. The Ocean's history and PC recollections do not extend the played interval.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04"
+    ],
+    "explanation": "Continuous descent, reconnaissance and infiltration contain no narrated overnight or date change and are compatible with one date. The unmeasured opening exchange and absence of an independent calendar anchor leave the full absolute span unverified; elapsed intervals overlap and are not summed to fill metadata."
+  }
+}
