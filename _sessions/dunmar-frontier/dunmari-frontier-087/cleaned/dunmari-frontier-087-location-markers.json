@@ -1,0 +1,751 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-087",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-session.yaml",
+    "sessionYamlSha256": "50ccc0f23949247d31c754ee3de3ab046a7ab3338154ba2c172a95b0245dbb47",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-transcript.md",
+    "transcriptSha256": "528b66ec3d907602f371974a40cd127d1a8efc7593c43620fef6c52f2c8aa2e2"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0019",
+          "quote": "DM: We begin on the skyship Vindristjarna, hovering above the rocky foothills of central Cymea.\n\nDM: As the ship begins to drift into the sky, heading south for the elven kingdom of Orenlas, an old dwarf sits in his cabin writing at a small desk in cramped dwarven runes:\n\nDM: “4 Barukhelm 5881,” he writes. “My first adventure in more than a decade succeeded beyond my wildest imagination. That Seeker fellow sure knows how to pick his friends. I was not sure what to think when I first met them. They seemed rather prone to excessive chatter and terminal indecision. I was afraid it would be like being back on my travels with Lyrial and her friends. So much time sitting around debating, so little time doing. Although I guess it was in one of those rambling discourses that she told me about the Edge of Echoes in the first place. Once we got moving, I couldn't help but wonder at the powerful oddities they carried, and their skill at using them. A folding boat, I've seen, sure, but a mirror that reveals the history of things? That was a sight. And all Seeker's friends proved quite adept at battle. I think I would have been drowned by water elementals if they had not leapt to my defense.\n\nDM: Oh, and flight. To fly again! It was nothing like the flying carpet we borrowed back in the day. To be able to think and just go where you wish—truly something else. Somehow the fey step trick I learned from Lyrial feels cheap in comparison now.\n\nDM: Of course, my goal was to make my dear Pebblepeep fly, and I can't believe how successful I was. I surprise even myself sometimes. Aha!\n\nDM: All that hard work outfitting this ship—oh, this ship! I wonder if they'd let me stay, or maybe even let me fly it someday—was well worth it. It'll be hard going back to life in Tollen after this.”\n\nDM: As the dwarf pauses in his writing and the ship turns to begin its 24 h journey to Orenlas, where you will stop to deliver messages from Melindir and hopefully find somebody who remembers the ancient history of Drankor and Apollyon that might know something of how to fight him."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "rocky foothills of central Cymea",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0005",
+          "quote": "DM: We begin on the skyship Vindristjarna, hovering above the rocky foothills of central Cymea."
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Western Green Sea/Cymean Peninsula.md"
+    },
+    "p03": {
+      "label": "inert forge",
+      "evidence": [
+        {
+          "startUid": "u0020",
+          "endUid": "u0028",
+          "quote": "DM: You think back to your vision in the mirror last night.\n\nDM: So, remembering the scene where you, before packing up, held the mirror up to this now inert forge, watching to see its history and what had been created here. The mirror fades, and you see a scene, the forge now brightly lit.\n\nDM: These 4 silvery lightning, wiry threads taut and vibrating with energy as a woman approaches—the same woman you saw, the the programmed illusion, the presumably the Occulta mage, who ran this place towards the end of its time."
+        }
+      ],
+      "kind": "workshop",
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Elemental Forge.md",
+      "note": "Physical presence is recalled from the previous night; the mirror scenes show ancient crafting. The Elemental Forge note places the site within Edge of Echoes, retained here as attributed vault orientation rather than transcript-backed containment."
+    },
+    "p04": {
+      "label": "large lake beside Orenlas",
+      "evidence": [
+        {
+          "startUid": "u0401",
+          "endUid": "u0420",
+          "quote": "DM: After a day of flying, flying through the evening over the mountains that separate the Cymean Peninsula from the forest of Orenlas, you pass over the mountains, and then begin to descend, and you can see there's a large lake. And on the southern shores of the lake there's a massive forest stretching maybe a hundred, 50 miles east-west and 80 miles north to south, but it's shrouded entirely in mist. There's clouds that float just at the tops of the trees at the level of the canopy.\n\nDM: You can't see any clear entranceways. There's no like from the air, right? There's not like a big clearing where you can land a ship. There's no obvious cause it's it's almost like approaching a cloud from above, and you can see every now and then there's like very tall trees but are sticking out from the edge of the clouds.\n\nDM: And this is clearly not a natural fog, because on the on the eastern edge of the of the woods—the opposite side. So this is [garbled] coming from the mountains high up, so you can see, like, you know, a good 100 miles, 150 miles in all directions that you're coming down.\n\nUnknown: Okay.\n\nDM: There are plenty of. I mean, you can see the mountains descend into foot hills, sort of rolling hills, with patches of forest and plenty of clearings, and rushing brooks that flow down into this massive lake. You could certainly land on the edge of the forest."
+        }
+      ],
+      "kind": "lake",
+      "vaultPath": "Gazetteer/Upper Istaros/Orenlas/Aldamire.md",
+      "note": "Identified with Aldamírë from its relation to Orenlas in the Aldamire and Orenlas notes; the lake name is not spoken here."
+    },
+    "p05": {
+      "label": "Orenlas",
+      "evidence": [
+        {
+          "startUid": "u0401",
+          "endUid": "u0406",
+          "quote": "DM: After a day of flying, flying through the evening over the mountains that separate the Cymean Peninsula from the forest of Orenlas, you pass over the mountains, and then begin to descend, and you can see there's a large lake. And on the southern shores of the lake there's a massive forest stretching maybe a hundred, 50 miles east-west and 80 miles north to south, but it's shrouded entirely in mist. There's clouds that float just at the tops of the trees at the level of the canopy."
+        }
+      ],
+      "kind": "forest realm",
+      "vaultPath": "Gazetteer/Upper Istaros/Orenlas/Orenlas.md"
+    },
+    "p06": {
+      "label": "rocky lakeshore at the forest entrance",
+      "evidence": [
+        {
+          "startUid": "u0506",
+          "endUid": "u0519",
+          "quote": "DM: As soon as you step onto it, like the very next step you take, you're suddenly on the on the shore of the lake.\n\nKenzo: I wanted to run on the underside of the Rainbow Bridge. See what that was like.\n\nDM: So you all find yourself standing at the entrance to this forest. You can now see as as Delwath steps off the bridge, a path begins to open up in the trees in front of you. Behind you you can hear the sort of gentle lapping of the of the small waves on this deep cold lake. On this rocky sort of pebble beach behind you and looking into the forest you can see this path leading ahead into the mist.\n\nDM: The trail itself, kind of marked by these almost like ethereal, shimmering, glowing leaves in the distance that are beckoning you in."
+        }
+      ],
+      "kind": "shore",
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0511",
+              "endUid": "u0516",
+              "quote": "Behind you you can hear the sort of gentle lapping of the of the small waves on this deep cold lake."
+            }
+          ]
+        },
+        {
+          "relation": "at_edge_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0511",
+              "endUid": "u0516",
+              "quote": "So you all find yourself standing at the entrance to this forest."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "forest path",
+      "evidence": [
+        {
+          "startUid": "u0577",
+          "endUid": "u0587",
+          "quote": "DM: Now you're entering the forest.\n\nSeeker: Cool.\n\nDM: And you you, as you begin to walk the the mists clear in front of you. But this feels like a place that is not fully of the material plane. Like, as you walk, somehow the distances seem to change. For the 3 of you who have been in the Feywild it almost feels like traveling in in the Feywild and and as you as you do you, you see—\n\nDM: As you—as you begin to walk, you—you—it almost as if you fall into sort of a dream, a reverie. And your feet are just following the path leading into the forest into this elven kingdom. But as your feet follow the path, your eyes and your mind are wandering, and the mists begin to clear and swirl and take shapes, and you see as the—"
+        }
+      ],
+      "kind": "path",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0583",
+              "endUid": "u0587",
+              "quote": "your feet are just following the path leading into the forest into this elven kingdom."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "gates of Erelion",
+      "evidence": [
+        {
+          "startUid": "u0665",
+          "endUid": "u0685",
+          "quote": "DM: And as these scenes finish, you find yourself at a gate.\n\nSeeker: Wow! I love it.\n\nUnknown: You're.\n\nDM: You can see beyond the gate, the city, although faintly, as if through fog. You can't see details. You can just see the looming impression trees and buildings all whirled together.\n\nDM: And striding out from the gate, you can see an elf. A man, maybe. Well, it's almost impossible to tell what age an elf might be. He is walking purposely towards you. He's wearing like a green silk shirt like tunic that comes to mid-thigh. Not not incredibly fancy, but but well tailored. He has short copper hair. Also somewhat copper skin and green eyes.\n\nDM: And he walks up, and he looks at you, and he says, “Greetings. My name is Caretaker Erdhin. What can I do for you? What brings you to the city of Erelion?”"
+        }
+      ],
+      "kind": "gate",
+      "relations": [
+        {
+          "relation": "at_edge_of",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0669",
+              "endUid": "u0685",
+              "quote": "DM: You can see beyond the gate, the city, although faintly, as if through fog. You can't see details. You can just see the looming impression trees and buildings all whirled together.\n\nDM: And striding out from the gate, you can see an elf. A man, maybe. Well, it's almost impossible to tell what age an elf might be. He is walking purposely towards you. He's wearing like a green silk shirt like tunic that comes to mid-thigh. Not not incredibly fancy, but but well tailored. He has short copper hair. Also somewhat copper skin and green eyes.\n\nDM: And he walks up, and he looks at you, and he says, “Greetings. My name is Caretaker Erdhin. What can I do for you? What brings you to the city of Erelion?”"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Erelion",
+      "evidence": [
+        {
+          "startUid": "u0682",
+          "endUid": "u0742",
+          "quote": "DM: And he walks up, and he looks at you, and he says, “Greetings. My name is Caretaker Erdhin. What can I do for you? What brings you to the city of Erelion?”\n\nDelwath: I'll step forward. Introduce myself as Delwath. I always forget the name of the place Delwath comes from. What is it? Ainumarya, Ainumarya. I'll introduce myself as Delwath lately from Ainumarya. But sort of talking in Elvish, I'll introduce in Elvish, and I'll then I'll introduce our my companions. Well, you know, and I'll say your names, at least in—I don't even—what language do I even know what language we talk amongst ourselves Dunmari, I guess.\n\nKenzo: Amen.\n\nDelwath: Common's like.\n\nDM: Trade. It's like you totally talk Dunmar, Dunmari, you all know, and in this part of the world, not that many people do. so it's kind of a secret tongue.\n\nDelwath: Do any of you speak elvish, by the way?\n\nSeeker: Like, so I don't think so.\n\nDelwath: No.\n\nDelwath: I'll introduce, you know, Wellby—Wellby the halfling traveler, you know, Kenzo the Dunmari. And so on. Right Seeker of Highkeep—Highkeep, is that right? Seeker of Highkeep, the—my dwarven companion. Yeah, I'll I'll sort of introduce everybody with a and say, sort of translate for the party what I'm saying.\n\nDelwath: And then I will say “It has been—” I gotta look at your doc of Elven Generations, but I have been away from our people since which—the 30—6—I forget. I forget how long I—Delwath was away, Tim. The 36th leya. So I've been away from our people since the 36th leya, and none of you would probably know what he means by leya, and have come to seek your hospitality.\n\nDelwath: And also we are hoping to seek the wisdom of the elders for some challenges of ancient times that have resurfaced.\n\nDelwath: But hospitality first. I have not been home for some—been to a homeland for some time.\n\nDM: Greetings, then you are welcome here. Your—Aldanor does not doubt your desires.\n\nDM: So, come, it is—It's been a long time since they welcomed those not of our kind here, but I'm sure you will be—I'm sure we will make you feel at home as best we can.\n\nDM: Come, and as you step through the gate into the city you can see that. So the city itself is dominated by this massive tree. Maybe 600 feet tall, 700 feet tall. Truly enormous tree.\n\nDM: But throughout there seems to be. There's like little pockets of gardens. There's it's it's fall, you know. Though it's winter outside, all the leaves are still on the trees. They've just all changed into oranges and golds and yellows. There's a a scent of apples and cinnamon in the air. And and as you begin to walk, people, you know, there's there's elves milling around. This is like absolutely the most elves any of you, except Delwath have ever seen in one place.\n\nDM: There's a like a small little courtyard that you walk through on the other side of the gate as Erdhin begins to lead you through to this sort of winding path of the city, and it—the the trees and the and the flowers and things—everything just kind of grows amidst the city. There's no—There's no sort of delineation between the buildings and the and the and the woods. And and there's no there's not like obvious inns or like. There's not like a big Market square or anything like that. Okay."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Upper Istaros/Orenlas/Erelion.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0577",
+              "endUid": "u0587",
+              "quote": "your feet are just following the path leading into the forest into this elven kingdom."
+            },
+            {
+              "startUid": "u0665",
+              "endUid": "u0685",
+              "quote": "What brings you to the city of Erelion?"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "House of Hospitality",
+      "evidence": [
+        {
+          "startUid": "u0743",
+          "endUid": "u0768",
+          "quote": "DM: But he leads you to a—he—he leads you to a a sort of small kind of house that's set like underneath. There's like a a huge sort of aisle of like vines that are growing, and that drape down and you pass underneath these vines, and you see that there's a table and some chairs, and like a couch. There's there's not really anywhere to sleep right. There's no like beds or anything. And he gestures to, you know, “Make yourself comfortable,” and he sort of says, you know we'll be be with you in in a moment and and goes out, and seems to be bustling around and and gathering some food and things like that. Leaving you for a minute. Talk at all. That's fine. Otherwise they'll just skip ahead. Just let me know.\n\nKenzo: Yeah, Tim Kenzo, like as soon as like we kinda step in, and there's just like giant fucking tree and all that. It's like, even though he was like rebuffed by the the forest spirit earlier. It's just like must talk to trees, and it's like, really, really like, intense about trying to just like kinda vibe with all of the the crazy, ancient forest energy here. So so yeah. So so Ken Kenzo is just just kinda all up in this. Like he, he—he's like as we're as we're walking, it's just completely, like—\n\nKenzo: Like putting putting his consciousness out into this larger network of woods, and is in particular with, like the big huge ass tree. In part also just thinking, this is like a little metagame, but it's like we gotta bring some fucking cool like elven wood stuff back on our ship, you know. I mean, there's gonna be like a big ass like cool tree in the middle of our ship, right? So it's like, you know. So anyway. So so Kenzo's just spending like, is obsessive, like like trying to communicate and talk and vibe with the whole forest energy here.\n\nDelwath: Delwath almost seems the opposite, like a little bit uncomfortable with the forest energy. Not uncomfortable exactly, but just very—he seems very hesitant, like not sure, like looking at the tree. You kind of notice him fingering the ear—like his necklace, for example, as one of the tanshi symbols, right, like—kind of. He looks very introspective, like he's muttering like, sort of—he—he occasionally mutters something in elvish to himself.\n\nWellby: Wellby's like a a tourist who has finally gotten to a place he's waited his entire life to get to, and is just like soaking every everything up, just trying to be very polite and respectful for the elves. But you can tell, just thrilled.\n\nDM: So after some time passes, as you all just kind of take in the atmosphere in your different ways, Erdhin comes back. There's, you know, he's bringing a tray with some clear sort of sparkling beverage that he sets down. He's bringing—he's got a few other elves that are sort of helping carry some food. He's he's bringing what look like some kind of spiced cakes of some kind. Yeah, fruit—looks like strawberries, maybe—sort of laying. Yep.\n\nKenzo: Sorry. Did we have any time like W—did we just like Go? Was there any kinda like leisurely time, or like basically like Kenzo wants to as soon as possible speak with plants and go talk to that big tree. Just so, you know. Like, if it's right now like, whenever there's a good opportunity for it. That is, Kenzo's like top mission to go speak with plants.\n\nDM: I mean, it's clear that you're sort of being guided a little bit right like like the caretaker Erdhin took you to this, you know, House of Hospitality, didn't be like Oh, hey! Go wander around the city,” was just like nice, nice, nice, nice. Not that you're not that you're not free to wander around like if you got up and just sort of started walking away. They pro they wouldn't like, you know, shoot you, or anything but.\n\nKenzo: Emotional intelligence that he has the right time to excuse himself."
+        }
+      ],
+      "kind": "house",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0737",
+              "endUid": "u0749",
+              "quote": "DM: There's a like a small little courtyard that you walk through on the other side of the gate as Erdhin begins to lead you through to this sort of winding path of the city, and it—the the trees and the and the flowers and things—everything just kind of grows amidst the city. There's no—There's no sort of delineation between the buildings and the and the and the woods. And and there's no there's not like obvious inns or like. There's not like a big Market square or anything like that. Okay.\n\nDM: But he leads you to a—he—he leads you to a a sort of small kind of house that's set like underneath. There's like a a huge sort of aisle of like vines that are growing, and that drape down and you pass underneath these vines, and you see that there's a table and some chairs, and like a couch. There's there's not really anywhere to sleep right. There's no like beds or anything. And he gestures to, you know, “Make yourself comfortable,” and he sort of says, you know we'll be be with you in in a moment and and goes out, and seems to be bustling around and and gathering some food and things like that. Leaving you for a minute. Talk at all. That's fine. Otherwise they'll just skip ahead. Just let me know.\n\nKenzo: Yeah, Tim Kenzo, like as soon as like we kinda step in, and there's just like giant fucking tree and all that. It's like, even though he was like rebuffed by the the forest spirit earlier. It's just like must talk to trees, and it's like, really, really like, intense about trying to just like kinda vibe with all of the the crazy, ancient forest energy here. So so yeah. So so Ken Kenzo is just just kinda all up in this. Like he, he—he's like as we're as we're walking, it's just completely, like—"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Elder Tree sanctuary",
+      "evidence": [
+        {
+          "startUid": "u0956",
+          "endUid": "u0976",
+          "quote": "DM: It's—yeah, it's hard. It's hard to tell exactly. But yes, this city was—I mean, this forest sprang from the footsteps of Aldanor in the days before time, and you—so as you approach the this, this tree, this massive tree, you sort of step up to the tree. And and there's almost this, like, the roots are massive in it. And and there's like a a—space inside the tree that you can—that you can walk into that's led. I mean, this is the space inside the tree.\n\nSeeker: Hello!\n\nWellby: And.\n\nDM: Kenzo, as you approach you can hear echoes of laughter and echoes and echoes.\n\nKenzo: Like mocking laughter or joyful?\n\nDM: No, no! Like elven children.\n\nKenzo: Cute.\n\nDM: 37 generations of them, going back and back and back and back and back and back and back. Oh, laughing and dreaming in this space!\n\nDM: And you you so you have the feeling that this is, like—I mean, this is clearly something of a sacred space, but it's not. It almost has the vibe of like like a sort of you know, fancy European cathedral, right, like it—it's a sacred space, but it's also like clearly a place that some elves just come because they find it beautiful. And there's not like a sort of taboo about entering it, or anything, even though it is a sacred space. It's clearly a sacred space, and also like a beautiful space. But it also feels quiet. Right like this is.\n\nDM: This is not Aldanor's season. This is Elmerca's season, the Wild Star. This is the time of dispersal and traveling, and not rooting and growing. And so it feels a little empty as you step in.\n\nDM: And you have the sense that if you came 50 years from now this place would be full of dreaming children, and the laughter that you hear the echoes of every previous generation would be louder, and would fill their dreams and fill your dreams. But now it's quiet. It's just faint.\n\nDelwath: Delwath Looks around for a minute and kind of touches the side of the tree, but sort of indicates that you're all welcome to come in. And it's not problem. It—\n\nKenzo: Kenzo comes in and is is kinda looking to the Delwath sort of like, “So you wanna introduce me to the tree? Or should I just go and introduce myself? Or kinda you know, what's the etiquette here?”"
+        },
+        {
+          "startUid": "u0983",
+          "endUid": "u1018",
+          "quote": "Kenzo: And is there a part of this space that's like actual, where you can see roots slash like where it's, you know, cause there's sort of like the architecture of. But like, is there a part that feels like—\n\nDM: Yeah, I mean, like the the whole around the outside, You can see these like massive roots like this, thick around as your arm that sort of descend into the ground.\n\nKenzo: Okay, yeah. Ka—Kenzo basically looks for like again, just relying totally on his intuition. He looks for like a dope spot to, like, come, and that has just got super good vibes to, you know. And you've seen Kenzo do this before, like he'll take his staff out and basically like, kind of—\n\nKenzo: Put the staff into the ground, and then you know, the staff usually will then kind of connect with that that root network, and then Kenzo will will sit into a meditation pose with the staff and then see what happens. So Kenzo Kenzo does all that and closes his eyes.\n\nDM: For a minute you don't feel anything, and then you feel this sense of age just just like this tree has been growing forever. There has never been a time when this tree has not been growing.\n\nDM: And this this feeling kind of surrounds you. But it's also there's also a quietness to it. You can hear the wind rattling in the leaves like 600 feet above you. And you can feel the leaves kind of blowing away, dispersing, and and the laughter of the children kind of blowing with them.\n\nKenzo: So the staff that my current staff was from the tree in Tokra right, which is also like an old-ass elven tree, right?\n\nDM: Yeah.\n\nKenzo: Is this sort of like, like, are the tree. Is it like, you know what I mean? It's sort of like like some familiar like wood on wood action. Kind of, you know. Are they like? Is he is like the old tree, like excited to be connected. You know what I mean. Is there any, you know? Do I get a sense of like, you know?\n\nDM: Yeah, I mean, it's kind of like—like—\n\nDM: The sense—it's so—it's like seeing your great-grandkids or something. Like this tree is much older than that tree, like this—this is, I mean the the the lake.\n\nDM: The feeling that you get from, and and not that that was not an old tree right like that, but probably dated from before, certainly well before humans were created. But but this is this is like the tree, the first tree.\n\nKenzo: Yeah. Ken—Kenzo, Kenzo, basically just just you know, adopts like he he usually does in in general, interacting with entities like this, but like extreme humility, extreme gratitude, extreme like respect for you know. Yeah. And he'll just—he'll just kinda hang out in this in this in this vibe, for however long everybody else is hanging out. He he could like you get the sense that if, like everybody left Kenzo, just stay here for, like indefinitely, just kinda vibing out.\n\nDelwath: Delwath actually—kinda Kenzo goes it like Delwath is sort of hang on the edge, like he seems a little like he's not even totally sure if belongs here. But he doesn't seem unhappy. He's just sort of hanging on the edge like kind of thinking.\n\nDM: After maybe 10 min he starts to smell vanilla in the air. In the [garbled] tree's blossoms smell like vanilla, and you see a flower begin to bloom on the top of Kenzo's staff."
+        }
+      ],
+      "kind": "sacred tree",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0730",
+              "endUid": "u0733",
+              "quote": "the city itself is dominated by this massive tree."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Arheste's twilight grove",
+      "evidence": [
+        {
+          "startUid": "u1388",
+          "endUid": "u1417",
+          "quote": "DM: Ealwen comes to lead you to Arheste. And she leads you out of the city. She leads you through the gates. And then through the forest for a little bit through through the woods, and you come to a—\n\nDM: Like a pond, a sort of quiet glade in the forest, that where there's a pond. There's like little fireflies. So, around, as soon as you step into the glade it's suddenly twilight. You can see the stars faintly, and this and the faint light of the setting sun. You get the feeling that it's always twilight here. Never full dark, never bright sun. It's a quiet, gentle garden.\n\nDM: And and she leads—Ealwen leads you kind of quietly up, and you can see sitting on a on a cushioned bench overlooking the pond is an elven woman. She's has long silver hair. She wears a gray cloak that's wrapped around her shoulders. Almost as if for warmth.\n\nDM: Her her left hand is—is sort of resting on the the arm of the bench, but her right arm is in a sling, and you can see her—the fingers that sort of peek out from the sling are like withered and and sort of locked in place like her hand has been—is—it's like there's almost no skin. It looks almost entirely like bone, and she obviously can't move her right arm.\n\nDM: And you can see again like like there's some sort of again, sort of like fibrous material that that, like, runs up her neck a little bit, and even on to her onto her face, and she coughs slightly.\n\nDM: And then turns to look at you and Ealwen. And she says in in a sort of faint voice, “Ealwen, It's good to see you”—takes a breath—“Who have you brought to my grove, and why?”\n\nDM: And Ealwen turns and looks at Kenzo. “Might have some way to help,” he says, “from the Lizard folk way to the south.”"
+        }
+      ],
+      "kind": "grove",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1388",
+              "endUid": "u1398",
+              "quote": "DM: Ealwen comes to lead you to Arheste. And she leads you out of the city. She leads you through the gates. And then through the forest for a little bit through through the woods, and you come to a—\n\nDM: Like a pond, a sort of quiet glade in the forest, that where there's a pond. There's like little fireflies. So, around, as soon as you step into the glade it's suddenly twilight. You can see the stars faintly, and this and the faint light of the setting sun. You get the feeling that it's always twilight here. Never full dark, never bright sun. It's a quiet, gentle garden."
+            }
+          ]
+        }
+      ],
+      "note": "Outside Erelion through its gates. Perpetual twilight is a local lighting condition, not an evening arrival."
+    },
+    "p13": {
+      "label": "bustling inn in the mist vision",
+      "evidence": [
+        {
+          "startUid": "u0604",
+          "endUid": "u0628",
+          "quote": "DM: You can see that these are the lights coming from the lint—the windows of an inn firelight shining from a large bustling place.\n\nDM: And the walls peel away as you continue to walk down this path. And the ceiling is painted with this incredible map—the entire world of Taelgar. You see the islands, the Vermillion Islands on the far west of the Green Sea. You see the Green Sea stretching to Cymea and Tollen and Sembara, and then the mountains of the Sentinel range rising through the middle of the continent. You see the lands of the of the west coast, the forests leading down to the plains of Chardon. You see—\n\nDM: The ocean extending. Extending. Extending. And just as you look and see what looks like land, the ceiling breaks up, and you see—\n\nDM: Inside a bustling tavern, halflings, humans, dwarves, even some elves. A djinn. 2 small, strange, dwarf looking creatures, but with fiery beards and copper skin that looks like molten copper, and Wellby sitting in the middle, telling stories, listening to stories."
+        }
+      ],
+      "kind": "vision setting"
+    },
+    "p14": {
+      "label": "palace and Seeker's study in the mist vision",
+      "evidence": [
+        {
+          "startUid": "u0636",
+          "endUid": "u0654",
+          "quote": "DM: And you see a path leading up to a grandiose but functional palace, with a an observatory with a telescope. Many rooms. All full of strange furniture that seems to move around under the command of Ladder. Children underfoot. And you follow Ladder as it seems to wave to you and lead you forward.\n\nDM: To a a study where Seeker is signing something. Looks like copies of a book. He puts one aside and he signs another one picks it up, signs another one.\n\nDM: And then looks up as one of the walls of the room begins to turn mirror-like. You can see through the walls of the room a another plane, the plane of air. Get that.\n\nDM: And Seeker kind of looks up and glances through this portal to the elemental plane of air. And his vision zooms through the portal."
+        }
+      ],
+      "kind": "vision setting"
+    },
+    "p15": {
+      "label": "Plane of Air in the mist vision",
+      "evidence": [
+        {
+          "startUid": "u0647",
+          "endUid": "u0664",
+          "quote": "DM: And then looks up as one of the walls of the room begins to turn mirror-like. You can see through the walls of the room a another plane, the plane of air. Get that.\n\nDM: And Seeker kind of looks up and glances through this portal to the elemental plane of air. And his vision zooms through the portal.\n\nDM: And you can see Delwath putting his sword away. Standing—floating, not really standing—on a cloud, talking to a djinn. He looks like he's collected many more of these tanshi symbols that decorate his sword and his mail, and—\n\nDM: As he glances back through the portal at Seeker, he then looks in the other direction, and you can see Vindristjarna flying in the plane of air as Delwath, having seemingly solved some problem on the plane of air, flies towards the ship and begins to steer it."
+        }
+      ],
+      "kind": "plane"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0019"
+      },
+      "actors": [
+        "party",
+        "Faldrak"
+      ],
+      "reading": "The party and the writing dwarf are aboard Vindristjarna as it leaves the central Cymean foothills.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0019",
+          "quote": "DM: We begin on the skyship Vindristjarna, hovering above the rocky foothills of central Cymea.\n\nDM: As the ship begins to drift into the sky, heading south for the elven kingdom of Orenlas, an old dwarf sits in his cabin writing at a small desk in cramped dwarven runes:\n\nDM: “4 Barukhelm 5881,” he writes. “My first adventure in more than a decade succeeded beyond my wildest imagination. That Seeker fellow sure knows how to pick his friends. I was not sure what to think when I first met them. They seemed rather prone to excessive chatter and terminal indecision. I was afraid it would be like being back on my travels with Lyrial and her friends. So much time sitting around debating, so little time doing. Although I guess it was in one of those rambling discourses that she told me about the Edge of Echoes in the first place. Once we got moving, I couldn't help but wonder at the powerful oddities they carried, and their skill at using them. A folding boat, I've seen, sure, but a mirror that reveals the history of things? That was a sight. And all Seeker's friends proved quite adept at battle. I think I would have been drowned by water elementals if they had not leapt to my defense.\n\nDM: Oh, and flight. To fly again! It was nothing like the flying carpet we borrowed back in the day. To be able to think and just go where you wish—truly something else. Somehow the fey step trick I learned from Lyrial feels cheap in comparison now.\n\nDM: Of course, my goal was to make my dear Pebblepeep fly, and I can't believe how successful I was. I surprise even myself sometimes. Aha!\n\nDM: All that hard work outfitting this ship—oh, this ship! I wonder if they'd let me stay, or maybe even let me fly it someday—was well worth it. It'll be hard going back to life in Tollen after this.”\n\nDM: As the dwarf pauses in his writing and the ship turns to begin its 24 h journey to Orenlas, where you will stop to deliver messages from Melindir and hopefully find somebody who remembers the ancient history of Drankor and Apollyon that might know something of how to fight him."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0020",
+        "endUid": "u0024"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The previous-night recollection places the party at the inert forge examining it with the mirror.",
+      "evidence": [
+        {
+          "startUid": "u0020",
+          "endUid": "u0024",
+          "quote": "DM: You think back to your vision in the mirror last night.\n\nDM: So, remembering the scene where you, before packing up, held the mirror up to this now inert forge, watching to see its history and what had been created here. The mirror fades, and you see a scene, the forge now brightly lit."
+        }
+      ],
+      "place": "p03",
+      "context": "flashback"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0118"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The mirror shows three ancient crafting scenes at the forge; the party observes rather than travels into this history.",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0118",
+          "quote": "DM: These 4 silvery lightning, wiry threads taut and vibrating with energy as a woman approaches—the same woman you saw, the the programmed illusion, the presumably the Occulta mage, who ran this place towards the end of its time.\n\nDM: And she is carrying what looks like a suit of chain mail. Well, she's not carrying it. It's floating in front of her as if by telekinesis. The chain mail is burnished gold and shining sort of copper mixed in with the steel of the links itself. And as she lays it down on the on the forge she takes what looks like—it looks like just a piece of stone, dark sort of crumbly stone.\n\nDM: She's holding it very carefully, and she picks it up and then puts it sort of in the sky, and as if by magic—for sure, by magic—it floats to above the above the the chain, and then it—as some force crushes that—a spray of lava bursts out from the stone, coating the chain mail and being absorbed into it.\n\nDM: And as this happens, you can see what look like little twists and whirls of smoke rising off, almost forming humanoid shapes, as the—as the lava is absorbed into the metal.\n\nDM: And then the image shifts again. And you see a different person. A man this time, older, long sort of graying beard, unkempt graying hair, serious eyes, walks carefully with a staff in dark robes trimmed with gold, very elegant clothing.\n\nDM: He's carrying in front of him a small vial swirling with what looks like molten gold.\n\nDM: And as he puts it down—it's bubbling and hissing—as he puts it down on the forge, he sort of closes his eye for for a moment, and draws out with a pair of fine silver tweezers a scale of a gold dragon.\n\nDM: He takes it, he drops it into the vial. And with a burst of silvery energy, the scale is consumed, and this, like smoke and light, shoots out into the vial, and he quickly goes and puts a cap on it and picks it up.\n\nDM: And then the image shifts again. And you see a young man, a—in his twenties, red hair tied back like relatively short, but like tied back in a in a topknot and wearing what looks like it—it reminds you of almost of Delwath's armor. It's like it's like chain mail, but it's it's light, it's flexible. It's almost hidden underneath silk clothes, some sort of extremely precious or fancy metal. Yeah.\n\nDM: Walks carrying a silver ring that looks like it's made of twist, almost of twisting clouds. It's like sort of a puffy shape that's looped around onto itself. And as he picks it up, he—he puts it down on the on the the forge.\n\nDM: And he leaves for a moment, and he he comes back with a vial a fairly big vial that's stoppered. And as he's holding it you can see that the vial is shaking like it requires real effort to hold that. And as he approaches the the ring on the forge, he begins this incantation. And then he pulls out this—the stopper—and almost like, takes a deep breath and and puts the the shaking. The the vial is empty, there's nothing in it, but he puts it up to his mouth and breathes in, and he then turns to the ring, and he breathes out, and this massive gust of wind blows out with his breath, swirling around strong enough to lift the ring up and hold it in the air just from the power of his breath as it slowly twirls around.\n\nDM: And a vortex begins to form around the ring around the ring, and until it collapses in on the ring, and it falls with a clunk down on the [garbled] on the forge, and then he picks it up and slips it on his finger with a gleam of pleasure in his eye.\n\nKenzo: Sorry for for any of these. Do we recognize any of these people?\n\nDM: No. Well, you recognize the first, the first woman. She was the one, right, right? But though, the the spy woman. And what had the programmed illusion of.\n\nKenzo: Interesting. Do we have any sense as the people, like, like what era, or like? Are there anything kind of about what they're wearing, or anything that gives you any indication of any of this was—\n\nDelwath: Friends—all, I mean, I mean—\n\nDM: Drankorian. The styles aren't changing that much. You don't get the sense that this is like 500 years apart. Right? This is all, all, probably all within 150 years. Something like that. But it's hard to say exactly.\n\nDelwath: But we know this was all pre-Drankor. I mean, the forge was no longer running post-Drankor, right?\n\nDM: Yeah. And the mirror usually goes most recent to least, like it almost always—yeah—shows you the either the most recent, and then to the least recent or the least recent to the most recent right? So the fact that you saw the woman first suggests that everything else was older. Right? I think that's how I've usually run it as it goes backwards in time.\n\nSeeker: You have usually done it going backwards. Yes, yeah. Man, what was he making with that gold and the dragon scale? Because these are like so similar recipes to what Faldrak did for us. Yeah.\n\nDM: Yeah. Is there a third we're about to hear? You heard 3.\n\nDelwath: The chain mail of the chain. Now, yeah. I forgot about the chain potion with the dragon. I forgot about the chainmail. I forgot about the chain. It was a potion, of course.\n\nSeeker: One was like elemental air being infused into a ring. Makes storms, or blow wind or something.\n\nDelwath: The ring seems like a good one to hunt down. Do we have enough? I mean, presumably we saw fairly detailed.\n\nDM: You would definitely recognize any of these things if you saw it again."
+        }
+      ],
+      "place": "p03",
+      "observerPlace": "p03",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0163",
+        "endUid": "u0166"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the ship and Seeker receives a paper bird.",
+      "evidence": [
+        {
+          "startUid": "u0163",
+          "endUid": "u0166",
+          "quote": "DM: As you return to the ship, you see a paper bird.\n\nSeeker: Again.\n\nDM: Flying towards Seeker, grabs it out of the air and begins to read. You would like to do the honors, Eric?"
+        }
+      ],
+      "from": "p03",
+      "to": "p01",
+      "completion": "arrived",
+      "note": "The return is narrated after the previous-night mirror recollection; its exact placement relative to the opening departure remains loose."
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0401",
+        "endUid": "u0435"
+      },
+      "actors": [
+        "party",
+        "Faldrak",
+        "Pebblepeep"
+      ],
+      "reading": "After the mountain flight, they remain aboard Vindristjarna above the lake and mist-covered forest.",
+      "evidence": [
+        {
+          "startUid": "u0401",
+          "endUid": "u0420",
+          "quote": "DM: After a day of flying, flying through the evening over the mountains that separate the Cymean Peninsula from the forest of Orenlas, you pass over the mountains, and then begin to descend, and you can see there's a large lake. And on the southern shores of the lake there's a massive forest stretching maybe a hundred, 50 miles east-west and 80 miles north to south, but it's shrouded entirely in mist. There's clouds that float just at the tops of the trees at the level of the canopy.\n\nDM: You can't see any clear entranceways. There's no like from the air, right? There's not like a big clearing where you can land a ship. There's no obvious cause it's it's almost like approaching a cloud from above, and you can see every now and then there's like very tall trees but are sticking out from the edge of the clouds.\n\nDM: And this is clearly not a natural fog, because on the on the eastern edge of the of the woods—the opposite side. So this is [garbled] coming from the mountains high up, so you can see, like, you know, a good 100 miles, 150 miles in all directions that you're coming down.\n\nUnknown: Okay.\n\nDM: There are plenty of. I mean, you can see the mountains descend into foot hills, sort of rolling hills, with patches of forest and plenty of clearings, and rushing brooks that flow down into this massive lake. You could certainly land on the edge of the forest."
+        },
+        {
+          "startUid": "u0425",
+          "endUid": "u0435",
+          "quote": "Kenzo: Side question. You know. What's his name? The dwarf with us?\n\nDelwath: Frankee, Francois, Faldrak.\n\nKenzo: Bye bye. He wanted to use the forge with the the Phoenix tail thing to make. What? What would he make for his stone bird?\n\nDM: Do you think his stone bird Pebblepeep as you've been as you've been traveling like, you see, this bird is like flying around his head. It like goes and flies. Yeah, awesome. A little bit off the ship and coming back every now and then. It'll like cough slightly in this, like little swirl of smoke will come out of its beak. Spend most of his time like paying attention to his bird and not actually, mostly ignoring you at the moment. Actually.\n\nDelwath: We have all of our. We have our ice thing and our Planar bridge. Right? Yep, we. We should test those somehow. We should use the Rainbow Bridge to go to Orenlas."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p04"
+        },
+        {
+          "subject": "p01",
+          "relation": "near",
+          "target": "p05"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0485",
+        "endUid": "u0516"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party crosses the Rainbow Bridge from Vindristjarna to the rocky lakeshore at the forest entrance.",
+      "evidence": [
+        {
+          "startUid": "u0494",
+          "endUid": "u0499",
+          "quote": "Seeker: And I take a breath and hold this, hold the prism and point.\n\nDM: So as you do, though you can—you see the the prism inside the sphere sort of spin a little bit, and as it does suddenly it locks into place, and this literally looks like a rainbow bridge shoots out from the prism.\n\nDM: And as it does, you can—well, whoever is attuned to the ship, which I guess is Seeker—it's almost as if your vision is traveling with the end of this bridges over the course of about 10 s it or 20 s, it shoots out. And now you can. You have this weird, you know, tunnel vision sensation where you can see the shore of the lake, where the bridge is ending up, and the rest of you see, like this rainbow tracing through the sky. But as you walk towards it like you, you put your foot on it. It doesn't look like solid ground at all. It looks like light, but when you stand on it it's actually quite solid."
+        },
+        {
+          "startUid": "u0506",
+          "endUid": "u0516",
+          "quote": "DM: As soon as you step onto it, like the very next step you take, you're suddenly on the on the shore of the lake.\n\nKenzo: I wanted to run on the underside of the Rainbow Bridge. See what that was like.\n\nDM: So you all find yourself standing at the entrance to this forest. You can now see as as Delwath steps off the bridge, a path begins to open up in the trees in front of you. Behind you you can hear the sort of gentle lapping of the of the small waves on this deep cold lake. On this rocky sort of pebble beach behind you and looking into the forest you can see this path leading ahead into the mist."
+        }
+      ],
+      "from": "p01",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge",
+      "note": "Faldrak and Pebblepeep are not explicitly placed ashore."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0577",
+        "endUid": "u0685"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "They follow the forest path, experiencing mist visions, and arrive at the gates where Erdhin meets them.",
+      "evidence": [
+        {
+          "startUid": "u0577",
+          "endUid": "u0587",
+          "quote": "DM: Now you're entering the forest.\n\nSeeker: Cool.\n\nDM: And you you, as you begin to walk the the mists clear in front of you. But this feels like a place that is not fully of the material plane. Like, as you walk, somehow the distances seem to change. For the 3 of you who have been in the Feywild it almost feels like traveling in in the Feywild and and as you as you do you, you see—\n\nDM: As you—as you begin to walk, you—you—it almost as if you fall into sort of a dream, a reverie. And your feet are just following the path leading into the forest into this elven kingdom. But as your feet follow the path, your eyes and your mind are wandering, and the mists begin to clear and swirl and take shapes, and you see as the—"
+        },
+        {
+          "startUid": "u0665",
+          "endUid": "u0685",
+          "quote": "DM: And as these scenes finish, you find yourself at a gate.\n\nSeeker: Wow! I love it.\n\nUnknown: You're.\n\nDM: You can see beyond the gate, the city, although faintly, as if through fog. You can't see details. You can just see the looming impression trees and buildings all whirled together.\n\nDM: And striding out from the gate, you can see an elf. A man, maybe. Well, it's almost impossible to tell what age an elf might be. He is walking purposely towards you. He's wearing like a green silk shirt like tunic that comes to mid-thigh. Not not incredibly fancy, but but well tailored. He has short copper hair. Also somewhat copper skin and green eyes.\n\nDM: And he walks up, and he looks at you, and he says, “Greetings. My name is Caretaker Erdhin. What can I do for you? What brings you to the city of Erelion?”"
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "mode": "walk",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Follow the opening path through Orenlas.",
+          "place": "p07"
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "explicitly unreliable felt duration at u0629–u0633",
+        "text": "ten minutes or ten hours, uncertain"
+      }
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0588",
+        "endUid": "u0628"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The mists depict Kenzo meditating, then an inn with Wellby telling and hearing stories beneath a map of Taelgar.",
+      "evidence": [
+        {
+          "startUid": "u0588",
+          "endUid": "u0628",
+          "quote": "DM: As the mists coalesce and form you see, first them shifting. And it's almost like, you see, a sort of drifting image of Kenzo meditating but swirling around him are colors and shapes. Strange colors, colors that you've never seen before. And then nothing for a moment. And then the mists turning into forms, shifting too fast to say what they are, swirling around, and then almost coalescing into points of light that cluster above him. And it seems at peace.\n\nDM: And as the you continue to walk in, the mists shift and change. Kenzo begins to fade, but those points of light clustered above him don't. They hang in the forest. And as you begin continuing to walk towards those points of light,\n\nDM: You can see that these are the lights coming from the lint—the windows of an inn firelight shining from a large bustling place.\n\nDM: And the walls peel away as you continue to walk down this path. And the ceiling is painted with this incredible map—the entire world of Taelgar. You see the islands, the Vermillion Islands on the far west of the Green Sea. You see the Green Sea stretching to Cymea and Tollen and Sembara, and then the mountains of the Sentinel range rising through the middle of the continent. You see the lands of the of the west coast, the forests leading down to the plains of Chardon. You see—\n\nDM: The ocean extending. Extending. Extending. And just as you look and see what looks like land, the ceiling breaks up, and you see—\n\nDM: Inside a bustling tavern, halflings, humans, dwarves, even some elves. A djinn. 2 small, strange, dwarf looking creatures, but with fiery beards and copper skin that looks like molten copper, and Wellby sitting in the middle, telling stories, listening to stories."
+        }
+      ],
+      "place": "p13",
+      "observerPlace": "p07",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0634",
+        "endUid": "u0654"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "A mist scene shows a palace, animated furniture guided by Ladder, and Seeker signing books in a study.",
+      "evidence": [
+        {
+          "startUid": "u0634",
+          "endUid": "u0654",
+          "quote": "DM: The laughter of dwarven children. And you begin to follow the sound as the path twists and turns.\n\nDM: And you see a path leading up to a grandiose but functional palace, with a an observatory with a telescope. Many rooms. All full of strange furniture that seems to move around under the command of Ladder. Children underfoot. And you follow Ladder as it seems to wave to you and lead you forward.\n\nDM: To a a study where Seeker is signing something. Looks like copies of a book. He puts one aside and he signs another one picks it up, signs another one.\n\nDM: And then looks up as one of the walls of the room begins to turn mirror-like. You can see through the walls of the room a another plane, the plane of air. Get that.\n\nDM: And Seeker kind of looks up and glances through this portal to the elemental plane of air. And his vision zooms through the portal."
+        }
+      ],
+      "place": "p14",
+      "observerPlace": "p07",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0655",
+        "endUid": "u0664"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "A mist scene shows Delwath with a djinn on a cloud and Vindristjarna flying in the Plane of Air.",
+      "evidence": [
+        {
+          "startUid": "u0655",
+          "endUid": "u0664",
+          "quote": "DM: And you can see Delwath putting his sword away. Standing—floating, not really standing—on a cloud, talking to a djinn. He looks like he's collected many more of these tanshi symbols that decorate his sword and his mail, and—\n\nDM: As he glances back through the portal at Seeker, he then looks in the other direction, and you can see Vindristjarna flying in the plane of air as Delwath, having seemingly solved some problem on the plane of air, flies towards the ship and begins to steer it."
+        }
+      ],
+      "place": "p15",
+      "observerPlace": "p07",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0730",
+        "endUid": "u0768"
+      },
+      "actors": [
+        "party",
+        "Erdhin"
+      ],
+      "reading": "Erdhin leads the party through Erelion to the House of Hospitality, where he provides refreshments.",
+      "evidence": [
+        {
+          "startUid": "u0730",
+          "endUid": "u0749",
+          "quote": "DM: Come, and as you step through the gate into the city you can see that. So the city itself is dominated by this massive tree. Maybe 600 feet tall, 700 feet tall. Truly enormous tree.\n\nDM: But throughout there seems to be. There's like little pockets of gardens. There's it's it's fall, you know. Though it's winter outside, all the leaves are still on the trees. They've just all changed into oranges and golds and yellows. There's a a scent of apples and cinnamon in the air. And and as you begin to walk, people, you know, there's there's elves milling around. This is like absolutely the most elves any of you, except Delwath have ever seen in one place.\n\nDM: There's a like a small little courtyard that you walk through on the other side of the gate as Erdhin begins to lead you through to this sort of winding path of the city, and it—the the trees and the and the flowers and things—everything just kind of grows amidst the city. There's no—There's no sort of delineation between the buildings and the and the and the woods. And and there's no there's not like obvious inns or like. There's not like a big Market square or anything like that. Okay.\n\nDM: But he leads you to a—he—he leads you to a a sort of small kind of house that's set like underneath. There's like a a huge sort of aisle of like vines that are growing, and that drape down and you pass underneath these vines, and you see that there's a table and some chairs, and like a couch. There's there's not really anywhere to sleep right. There's no like beds or anything. And he gestures to, you know, “Make yourself comfortable,” and he sort of says, you know we'll be be with you in in a moment and and goes out, and seems to be bustling around and and gathering some food and things like that. Leaving you for a minute. Talk at all. That's fine. Otherwise they'll just skip ahead. Just let me know.\n\nKenzo: Yeah, Tim Kenzo, like as soon as like we kinda step in, and there's just like giant fucking tree and all that. It's like, even though he was like rebuffed by the the forest spirit earlier. It's just like must talk to trees, and it's like, really, really like, intense about trying to just like kinda vibe with all of the the crazy, ancient forest energy here. So so yeah. So so Ken Kenzo is just just kinda all up in this. Like he, he—he's like as we're as we're walking, it's just completely, like—"
+        },
+        {
+          "startUid": "u0766",
+          "endUid": "u0768",
+          "quote": "DM: I mean, it's clear that you're sort of being guided a little bit right like like the caretaker Erdhin took you to this, you know, House of Hospitality, didn't be like Oh, hey! Go wander around the city,” was just like nice, nice, nice, nice. Not that you're not that you're not free to wander around like if you got up and just sort of started walking away. They pro they wouldn't like, you know, shoot you, or anything but.\n\nKenzo: Emotional intelligence that he has the right time to excuse himself."
+        }
+      ],
+      "from": "p08",
+      "to": "p10",
+      "mode": "walk",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Enter the city and pass its courtyard and winding paths.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0898",
+        "endUid": "u0976"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Delwath leads a city tour through abundant magical gardens to the Elder Tree sanctuary; the others are invited inside.",
+      "evidence": [
+        {
+          "startUid": "u0898",
+          "endUid": "u0904",
+          "quote": "Delwath: Delwath will lead Everybody sort of through the city, and like not rushing, or anything so like pointing out, you know sort of taking, allowing people to sort of, you know, chatting like, if there's any out, you know. Saying hi to, you know. Sort of.\n\nDM: Yeah, I mean, you draw a comment as you walk to the city, people come up and greet. This is—I mean, you don't see any other—you don't see any non-elves. And you get the feeling that this is I mean, where Delwath grew up, that wasn't really the case. Right like there were people. There were humans that would come through, halflings. This feels like a much more isolated place then."
+        },
+        {
+          "startUid": "u0956",
+          "endUid": "u0976",
+          "quote": "DM: It's—yeah, it's hard. It's hard to tell exactly. But yes, this city was—I mean, this forest sprang from the footsteps of Aldanor in the days before time, and you—so as you approach the this, this tree, this massive tree, you sort of step up to the tree. And and there's almost this, like, the roots are massive in it. And and there's like a a—space inside the tree that you can—that you can walk into that's led. I mean, this is the space inside the tree.\n\nSeeker: Hello!\n\nWellby: And.\n\nDM: Kenzo, as you approach you can hear echoes of laughter and echoes and echoes.\n\nKenzo: Like mocking laughter or joyful?\n\nDM: No, no! Like elven children.\n\nKenzo: Cute.\n\nDM: 37 generations of them, going back and back and back and back and back and back and back. Oh, laughing and dreaming in this space!\n\nDM: And you you so you have the feeling that this is, like—I mean, this is clearly something of a sacred space, but it's not. It almost has the vibe of like like a sort of you know, fancy European cathedral, right, like it—it's a sacred space, but it's also like clearly a place that some elves just come because they find it beautiful. And there's not like a sort of taboo about entering it, or anything, even though it is a sacred space. It's clearly a sacred space, and also like a beautiful space. But it also feels quiet. Right like this is.\n\nDM: This is not Aldanor's season. This is Elmerca's season, the Wild Star. This is the time of dispersal and traveling, and not rooting and growing. And so it feels a little empty as you step in.\n\nDM: And you have the sense that if you came 50 years from now this place would be full of dreaming children, and the laughter that you hear the echoes of every previous generation would be louder, and would fill their dreams and fill your dreams. But now it's quiet. It's just faint.\n\nDelwath: Delwath Looks around for a minute and kind of touches the side of the tree, but sort of indicates that you're all welcome to come in. And it's not problem. It—\n\nKenzo: Kenzo comes in and is is kinda looking to the Delwath sort of like, “So you wanna introduce me to the tree? Or should I just go and introduce myself? Or kinda you know, what's the etiquette here?”"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "mode": "walk",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Tour the city, passing ponds and gardens.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1043",
+        "endUid": "u1049"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the House of Hospitality and Delwath prepares dinner there.",
+      "evidence": [
+        {
+          "startUid": "u1043",
+          "endUid": "u1049",
+          "quote": "DM: You return to this sort of house of hospitality that that you've been set up in. Delwath begins to cook. You find there's there's like 4 rooms in this place, the the sort of sitting room that you are in. There's there's like a meditation room, a kitchen.\n\nDM: And there's a pretty well stocked like sort of pantry area off the kitchen as well. There's no bedroom, there's no way to sleep. It's just a meditation room, so you can meditate your 3 or 4 h of your trance.\n\nDM: But there's there's space, the the there was a there's a curtain that divides the sort of dining area in half that was closed, and when you push it back you can see there's easily space for a sort of comfortable party for 10 people seated around a big table with room for milling about a bit, and now Delwath's cooking smells good, like you've got using your fancy Charisma bonus.\n\nDelwath: Yeah. And yes, and I'm also making very Dunmari meal like Dunmari classics here. I don't know what classics are, but like roasts. Yeah, I mean, elves aren't super meat eaters, right? Didn't we establish? It's kind of so like light on the meat. But like grilled vegetables, right like that's the big like, like grilled grilled vegetables, and like some some sauces, you know, honey cake or something. There is that honey cake that they made for the yeah. One of the festivals. Yeah, is that what."
+        }
+      ],
+      "from": "p11",
+      "to": "p10",
+      "mode": "walk",
+      "completion": "arrived"
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u1053",
+        "endUid": "u1104"
+      },
+      "actors": [
+        "party",
+        "Erdhin",
+        "Vahaiya",
+        "Ealwen",
+        "Cirdore"
+      ],
+      "reading": "The four invited elves join the party for dinner at the House of Hospitality; Arheste is explicitly absent.",
+      "place": "p10",
+      "evidence": [
+        {
+          "startUid": "u1053",
+          "endUid": "u1057",
+          "quote": "DM: So you cook, and the sun sets and the stars come out brilliantly. And again, it's really hard to get a sense of time here. But you think this is still the same day that you left the ship. You're not really entirely sure you could have been walking for 24 h, for all you know. The guests begin to trickle in. You have Caretaker Erdhin, who has returned and is happy to at—for the hospitality."
+        },
+        {
+          "startUid": "u1086",
+          "endUid": "u1104",
+          "quote": "DM: So just to recap, there's 4 elves, Caretaker Erdhin; poet, Cirdore; a gardener, Ealwen, and like sort of well connected former warrior, famous hero, Vahaiya.\n\nDelwath: Ealwen was the Gardner, or the poet?\n\nDM: Is the poet. Ealwen is the—Vahaiya is the soldier.\n\nKenzo: And Erdhin is the sort of caretaker who introduced everybody, which one's the one that like is the oldest one that's like scroll?\n\nDM: None of them are super old, but Ealwen is was as a gardener, but also apparently takes care of an ancient, although that's a little strange, because normally elves don't really age, so why an ancient would need a caretaker is not entirely clear. But that's how she was—and introduced. The woman, Arheste, is the is the ancient. She's not here. The idea is, you could find out about her from these people.\n\nDM: So the dinner begins. Seated conversation begins to flow. Everybody is kind of chatting telling stories. I think."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1388",
+        "endUid": "u1422"
+      },
+      "actors": [
+        "party",
+        "Ealwen"
+      ],
+      "reading": "Ealwen leads them out through the city gates and into the forest to Arheste’s grove and pond.",
+      "evidence": [
+        {
+          "startUid": "u1388",
+          "endUid": "u1422",
+          "quote": "DM: Ealwen comes to lead you to Arheste. And she leads you out of the city. She leads you through the gates. And then through the forest for a little bit through through the woods, and you come to a—\n\nDM: Like a pond, a sort of quiet glade in the forest, that where there's a pond. There's like little fireflies. So, around, as soon as you step into the glade it's suddenly twilight. You can see the stars faintly, and this and the faint light of the setting sun. You get the feeling that it's always twilight here. Never full dark, never bright sun. It's a quiet, gentle garden.\n\nDM: And and she leads—Ealwen leads you kind of quietly up, and you can see sitting on a on a cushioned bench overlooking the pond is an elven woman. She's has long silver hair. She wears a gray cloak that's wrapped around her shoulders. Almost as if for warmth.\n\nDM: Her her left hand is—is sort of resting on the the arm of the bench, but her right arm is in a sling, and you can see her—the fingers that sort of peek out from the sling are like withered and and sort of locked in place like her hand has been—is—it's like there's almost no skin. It looks almost entirely like bone, and she obviously can't move her right arm.\n\nDM: And you can see again like like there's some sort of again, sort of like fibrous material that that, like, runs up her neck a little bit, and even on to her onto her face, and she coughs slightly.\n\nDM: And then turns to look at you and Ealwen. And she says in in a sort of faint voice, “Ealwen, It's good to see you”—takes a breath—“Who have you brought to my grove, and why?”\n\nDM: And Ealwen turns and looks at Kenzo. “Might have some way to help,” he says, “from the Lizard folk way to the south.”\n\nDM: And Arheste looks, and and looks at Kenzo. And turns and and looks at your staff. Then the 2 fragments of Rai. Yes. Anything. Come."
+        }
+      ],
+      "from": "p10",
+      "to": "p12",
+      "mode": "walk",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Leave Erelion through its gates.",
+          "place": "p08"
+        },
+        {
+          "reading": "Walk through the surrounding forest.",
+          "place": "p07"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1952",
+        "endUid": "u1952"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the elven forest and begins preparing for the flight and fight prompted by Riswynn’s summons.",
+      "evidence": [
+        {
+          "startUid": "u1952",
+          "endUid": "u1952",
+          "quote": "DM: So a few a few mechanical things. As you leave the elven forest and train and start to plan and psych yourself up for the fight against Grash, you all level up."
+        }
+      ],
+      "from": "p05",
+      "to": null,
+      "completion": "underway",
+      "note": "The besieged city is not named in this transcript. The projected three-and-a-half-day flight is not a completed arrival."
+    }
+  ]
+}
