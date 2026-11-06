@@ -1,0 +1,452 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-126",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-session.yaml",
+    "sessionYamlSha256": "33658c4c6d21f65f65e60ba7b389ea7b837dff4cbbd79e476aa6d972864c3bcd",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-transcript.md",
+    "transcriptSha256": "0aa7fcd142e96cfeeddebdb0e6b66cfc0c5c7c05316658dce8b39b5be697d80d",
+    "yamlDates": {
+      "start": "1749-06-27",
+      "end": "1749-06-29"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0018"
+      },
+      "reading": "The party reunites for breakfast after Kenzo and Delwath’s night aboard Auratan’s Pride and Wellby’s night at the Smiling Crab.",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0010",
+          "quote": "DM: Okay, no worries. So okay, so we begin as the party reunites after Kenzo and Delwath have spent the night on Tiberius's ship, the Auratan's Pride. Auratan is the family name of the Magistros, so this is one of his like naval flagships, and spend some time talking to Tiberius about chalyte politics, where Wellby has spent the night at the Smiling Crab, a halfling inn nestled along the north edge of the docks near the Chardon Bridge."
+        },
+        {
+          "startUid": "u0011",
+          "endUid": "u0018",
+          "quote": "And we resume at breakfast at the quiet sailor's tavern, the Barking Seal, where Wellby has arranged a private room for you to meet and discuss your next steps."
+        },
+        {
+          "startUid": "u0070",
+          "endUid": "u0071",
+          "quote": "DM: And then Wellby left at the end of last session to go stay in a Halfling tavern. But Kenzo and Delwath—"
+        },
+        {
+          "startUid": "u0072",
+          "endUid": "u0072",
+          "quote": "Kenzo: We stayed on the ship."
+        },
+        {
+          "startUid": "u0073",
+          "endUid": "u0073",
+          "quote": "DM: The ship, and so you then had time for a more extended conversation about chalyte."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Breakfast and the later morning investigation anchor the opening; no civil date is spoken."
+      },
+      "note": "The preceding overnight is recalled as the end of the previous session, leaving its inclusion in this session’s interval open."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0780",
+        "endUid": "u0787"
+      },
+      "reading": "Delwath listens to the scryed Tronia for a little while.",
+      "evidence": [
+        {
+          "startUid": "u0780",
+          "endUid": "u0787",
+          "quote": "You sit and listen for a little while, and you know you can catch a little bit of street noise"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0936",
+        "endUid": "u0940"
+      },
+      "reading": "Kenzo and Delwath take a couple of hours to locate and reach Gaspar’s estate.",
+      "evidence": [
+        {
+          "startUid": "u0936",
+          "endUid": "u0937",
+          "quote": "DM: No, I mean, we just I mean, yeah. Let's just let's just skip this. It takes you takes you a couple hours to—"
+        },
+        {
+          "startUid": "u0938",
+          "endUid": "u0938",
+          "quote": "Delwath: Knock on his door."
+        },
+        {
+          "startUid": "u0939",
+          "endUid": "u0940",
+          "quote": "DM: How to get information—show up at his at his estate. So this is. This is on the slopes of Mount Nera, so you can see the like, the bulk of the spur of the obsidian volcano rising to the west."
+        },
+        {
+          "startUid": "u0976",
+          "endUid": "u0984",
+          "quote": "And you can see that this is a few hours later. So it's it's now, maybe 11, 11:30."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM compresses finding the estate and arrival into a couple of hours; the later few-hours remark confirms this same interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0976",
+        "endUid": "u0984"
+      },
+      "reading": "Kenzo and Delwath meet Gaspar in person at approximately 11–11:30 in the morning.",
+      "evidence": [
+        {
+          "startUid": "u0976",
+          "endUid": "u0984",
+          "quote": "And you can see that this is a few hours later. So it's it's now, maybe 11, 11:30."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "time": {
+        "partOfDay": "late morning",
+        "precision": "approximate",
+        "basis": "DM gives an approximate current clock of 11 or 11:30; this is one moment, not a half-hour interval."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1137",
+        "endUid": "u1146"
+      },
+      "reading": "More than a minute has passed during the conversation with Gaspar, and Delwath renews Detect Thoughts.",
+      "evidence": [
+        {
+          "startUid": "u1137",
+          "endUid": "u1145",
+          "quote": "it's now probably past a minute, but I assume you just cast the spell again right?"
+        },
+        {
+          "startUid": "u1146",
+          "endUid": "u1146",
+          "quote": "Delwath: Yeah, sure."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "duration": {
+        "min": 1,
+        "minInclusive": false,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly notes the conversation has passed a minute; player agrees to recast."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1188",
+        "endUid": "u1209"
+      },
+      "reading": "Wellby spends a few hours, a good part of the afternoon, gathering rumors through Chardon’s ports and taverns.",
+      "evidence": [
+        {
+          "startUid": "u1188",
+          "endUid": "u1194",
+          "quote": "just generally taking a few hours the after—most of the afternoon to kinda gather rumors."
+        },
+        {
+          "startUid": "u1198",
+          "endUid": "u1209",
+          "quote": "Okay, yeah. So it it takes you a good part of the afternoon. But you manage to sort of talk to just a diverse cross section of the Chardon ports"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM explicitly dates the completed rumor-gathering interval to a good part of the afternoon."
+      },
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated elapsed rumor gathering, confirmed as taking a good part of the afternoon."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1284",
+        "endUid": "u1293"
+      },
+      "reading": "It is midafternoon as Wellby finishes his circuit and Kenzo and Delwath return; all three receive Tiberius’s message together.",
+      "evidence": [
+        {
+          "startUid": "u1284",
+          "endUid": "u1289",
+          "quote": "DM: So so at this point, you know you know, it's like mid afternoon. Wellby has been out sort of for the bulk of the day. Delwath and Kenzo are just returning from the Nebo's—from the Nera Domains, talking to Gaspar. And all 3 of you at the same time get a message, a sending message in your head. \"Apologies for the late notice. Tomorrow, 9 Am. Imperial Palace.\""
+        },
+        {
+          "startUid": "u1290",
+          "endUid": "u1290",
+          "quote": "Kenzo: This is from Tiberius, or from—"
+        },
+        {
+          "startUid": "u1291",
+          "endUid": "u1291",
+          "quote": "DM: Tiberius."
+        },
+        {
+          "startUid": "u1292",
+          "endUid": "u1292",
+          "quote": "Delwath: Okay."
+        },
+        {
+          "startUid": "u1293",
+          "endUid": "u1293",
+          "quote": "DM: Present yourself at the I mean, it's obvious with you. Present yourself at the gates, say you've got an appointment."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "time": {
+        "partOfDay": "midafternoon",
+        "precision": "approximate",
+        "basis": "DM’s current-time anchor and explicitly simultaneous Sending."
+      },
+      "note": "Tomorrow at 9 a.m. is the appointment requested by the message, not a current clock reading."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1298",
+        "endUid": "u1307"
+      },
+      "reading": "The party returns to the Barking Seal for dinner and planning.",
+      "evidence": [
+        {
+          "startUid": "u1298",
+          "endUid": "u1303",
+          "quote": "As you return to the Barking Seal for dinner, and then sleep. Presumably. I guess all of you can crash at the Halfling Tavern, unless you want to go somewhere else."
+        },
+        {
+          "startUid": "u1304",
+          "endUid": "u1304",
+          "quote": "Delwath: No, that's fine, I mean, do we have a plan for the Magistros tomorrow, and—"
+        },
+        {
+          "startUid": "u1305",
+          "endUid": "u1305",
+          "quote": "DM: This is what what dinner is for. If you want to make a plan."
+        },
+        {
+          "startUid": "u1306",
+          "endUid": "u1306",
+          "quote": "Delwath: The other question would be—"
+        },
+        {
+          "startUid": "u1307",
+          "endUid": "u1307",
+          "quote": "DM: Got your private room back."
+        }
+      ],
+      "time": {
+        "partOfDay": "dinner",
+        "precision": "approximate",
+        "basis": "Dinner is played; a specific clock or sunset is not stated."
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1331",
+        "endUid": "u1368"
+      },
+      "reading": "The table inserts Kenzo’s worker inquiries on his way back from the Nera estates, before the already-narrated dinner.",
+      "evidence": [
+        {
+          "startUid": "u1331",
+          "endUid": "u1332",
+          "quote": "Delwath: Do the can we, before dinner ask amongst our proletariat contacts if there's a family that's better or worse, like, do they have—"
+        },
+        {
+          "startUid": "u1340",
+          "endUid": "u1346",
+          "quote": "DM: The—You know that you know. Kenzo swings back past his on your way back from the from the Nera estates. You're already on that side of the well. You have to cross over and then cross back, but you take a little. You take a you know, a rowboat, a few stops to go check in. And, you know ask around a bit in the slums, ask Andros and and Orsino what what they think. I mean. In a lot of ways. Nobody really cared that much like no family really stood out as being different than the rest except that the—"
+        },
+        {
+          "startUid": "u1369",
+          "endUid": "u1370",
+          "quote": "DM: So after that stop, you regroup for dinner at the Barking Seal to make plans for your meeting with the Magistros tomorrow morning."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t08",
+          "anchor": "Dinner at the Barking Seal"
+        },
+        "precision": "approximate",
+        "basis": "Player asks to inquire before dinner; DM places the stop on the return from the estates."
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1369",
+        "endUid": "u1370"
+      },
+      "reading": "Narration returns to the party regrouping for dinner after Kenzo’s inserted stop.",
+      "evidence": [
+        {
+          "startUid": "u1369",
+          "endUid": "u1370",
+          "quote": "DM: So after that stop, you regroup for dinner at the Barking Seal to make plans for your meeting with the Magistros tomorrow morning."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t08"
+        }
+      ],
+      "time": {
+        "partOfDay": "dinner",
+        "precision": "approximate",
+        "basis": "Explicit return to the dinner frame."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1426",
+        "endUid": "u1437"
+      },
+      "reading": "After the confirmed overnight sleep, the party presents itself at the Imperial Palace the next morning.",
+      "evidence": [
+        {
+          "startUid": "u1426",
+          "endUid": "u1432",
+          "quote": "Okay. So the next morning you present yourselves at the gates to the Imperial Palace."
+        },
+        {
+          "startUid": "u1435",
+          "endUid": "u1435",
+          "quote": "Delwath: We slept right?"
+        },
+        {
+          "startUid": "u1436",
+          "endUid": "u1436",
+          "quote": "DM: Yes, this is actually, yeah."
+        },
+        {
+          "startUid": "u1437",
+          "endUid": "u1437",
+          "quote": "Kenzo: Yeah."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "Sleep follows the preceding dinner; its start clock is unstated."
+        },
+        "end": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM explicitly establishes the next morning."
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "Sleep is confirmed; an eight-hour duration is not asserted. The 9 a.m. appointment is consistent with arrival, but the actual arrival clock is unstated."
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1710",
+        "endUid": "u1710"
+      },
+      "reading": "The party spends a little while telling the Magistros what it knows of Apollyon.",
+      "evidence": [
+        {
+          "startUid": "u1710",
+          "endUid": "u1710",
+          "quote": "DM: The story goes on for a little while, you you tell them what you know."
+        }
+      ],
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No current civil date is spoken. YAML supplies June 27–29, 1749; breakfast and a subsequent next-morning audience are independently established, while the opening recalls the preceding night.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11"
+    ],
+    "explanation": "One overnight is unequivocally played between dinner and the palace audience. Counting the opening’s recalled night gives a second transition, but u0070–u0073 identify that lodging as the previous session’s ending. The covered start is therefore open. The closing couple-of-days preparation and two-day flight remain future arrangements, not elapsed play; drEnd supplies no missing interval."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01"
+      ],
+      "reading": "Play resumes at breakfast after a night already begun at the previous session’s ending.",
+      "alternatives": [
+        {
+          "reading": "Include the recalled split lodging as the opening boundary, allowing two overnight transitions through the audience."
+        },
+        {
+          "reading": "Begin at the breakfast reunion; only the later overnight is unambiguously inside active play."
+        }
+      ]
+    }
+  ]
+}
