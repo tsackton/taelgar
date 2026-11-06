@@ -1,0 +1,1613 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-089",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-session.yaml",
+    "sessionYamlSha256": "06a168e325271e5a51bc4c708bf594689cc3a0c00f15e45e9d742f4c82e9d3ac",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-transcript.md",
+    "transcriptSha256": "601aa88befbfedca284046fb9488dbc198911c0d1e877fc0ac26d13747810096"
+  },
+  "places": {
+    "p01": {
+      "label": "Uzgukhar",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0013",
+          "quote": "the party in Uzgukhar, the ruined town."
+        }
+      ],
+      "note": "Uzgukhar’s reference note places the city in Xurkhaz; that wider context is vault orientation, not an independently narrated regional boundary here.",
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md"
+    },
+    "p02": {
+      "label": "Square by the Hall of Ancestors",
+      "kind": "square",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0013",
+          "quote": "in the middle of middle of the the square, the like Hall of Ancestors,"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0013",
+              "quote": "the party in Uzgukhar, the ruined town."
+            },
+            {
+              "startUid": "u0002",
+              "endUid": "u0013",
+              "quote": "in the middle of middle of the the square, the like Hall of Ancestors,"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "evidence": [
+        {
+          "startUid": "u0192",
+          "endUid": "u0202",
+          "quote": "she she's like glancing up at Vindristjarna as as she walks,"
+        },
+        {
+          "startUid": "u1381",
+          "endUid": "u1394",
+          "quote": "this giant stone ship in the sky"
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p04": {
+      "label": "Battlefield outside the relieved city",
+      "kind": "battlefield",
+      "evidence": [
+        {
+          "startUid": "u0094",
+          "endUid": "u0098",
+          "quote": "going back and forth between the ship and the and the battlefield, collecting fragments of Lord Boulder"
+        }
+      ]
+    },
+    "p05": {
+      "label": "Top deck and Hall of Stories",
+      "kind": "deck",
+      "evidence": [
+        {
+          "startUid": "u0094",
+          "endUid": "u0098",
+          "quote": "on the the sides of the of the top deck of the ship, where the the kind of visual Hall of Stories is being recorded."
+        },
+        {
+          "startUid": "u0181",
+          "endUid": "u0191",
+          "quote": "on the the the deck of the ship"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0094",
+              "endUid": "u0098",
+              "quote": "on the the sides of the of the top deck of the ship, where the the kind of visual Hall of Stories is being recorded."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Second-floor crew quarters",
+      "kind": "quarters",
+      "evidence": [
+        {
+          "startUid": "u0244",
+          "endUid": "u0245",
+          "quote": "I'll show I'll show her to our crew quarters on the second floor"
+        },
+        {
+          "startUid": "u0246",
+          "endUid": "u0250",
+          "quote": "Clambers up,"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0204",
+              "endUid": "u0213",
+              "quote": "he would sort of point at the ship. We have plenty of space."
+            },
+            {
+              "startUid": "u0244",
+              "endUid": "u0245",
+              "quote": "I'll show I'll show her to our crew quarters on the second floor"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Kharsan",
+      "kind": "ruined city",
+      "evidence": [
+        {
+          "startUid": "u0262",
+          "endUid": "u0264",
+          "quote": "you fly over Kharsan,"
+        },
+        {
+          "startUid": "u0462",
+          "endUid": "u0469",
+          "quote": "The center of the city is more intact. This is the palace that Grash had used."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Kharsan.md"
+    },
+    "p08": {
+      "label": "Palace complex",
+      "kind": "palace grounds",
+      "evidence": [
+        {
+          "startUid": "u0462",
+          "endUid": "u0469",
+          "quote": "The center of the city is more intact. This is the palace that Grash had used."
+        },
+        {
+          "startUid": "u0478",
+          "endUid": "u0484",
+          "quote": "the palace complex itself."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0462",
+              "endUid": "u0469",
+              "quote": "The center of the city is more intact. This is the palace that Grash had used."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Palace garden courtyard",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u0599",
+          "endUid": "u0607",
+          "quote": "standing in this garden, looking at the ground,"
+        },
+        {
+          "startUid": "u0478",
+          "endUid": "u0484",
+          "quote": "a big open what looks like it maybe once was a garden, but all of the trees have been chopped down."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0478",
+              "endUid": "u0484",
+              "quote": "the palace complex itself."
+            },
+            {
+              "startUid": "u0478",
+              "endUid": "u0484",
+              "quote": "a big open what looks like it maybe once was a garden, but all of the trees have been chopped down."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Stables",
+      "kind": "stables",
+      "evidence": [
+        {
+          "startUid": "u0599",
+          "endUid": "u0607",
+          "quote": "to the left is the stables, and there's like a whole, like, stable complex, pretty intact."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0599",
+              "endUid": "u0607",
+              "quote": "The walls around the palace—to the left is the stables, and there's like a whole, like, stable complex, pretty intact."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Great hall",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u0728",
+          "endUid": "u0734",
+          "quote": "you step into this sort of—what—the— foyer sort of entryway that leads into this great hall,"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0728",
+              "endUid": "u0734",
+              "quote": "Okay. So so you head into the palace."
+            },
+            {
+              "startUid": "u0728",
+              "endUid": "u0734",
+              "quote": "you step into this sort of—what—the— foyer sort of entryway that leads into this great hall,"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Servants’ corridor",
+      "kind": "corridor",
+      "evidence": [
+        {
+          "startUid": "u0750",
+          "endUid": "u0751",
+          "quote": "It opens into a corridor with a door on the West End."
+        },
+        {
+          "startUid": "u0761",
+          "endUid": "u0761",
+          "quote": "servants passage to unobtrusively bring food to the great hall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0742",
+              "endUid": "u0746",
+              "quote": "the obvious door that you came in, and then obvious doors on the east west,"
+            },
+            {
+              "startUid": "u0750",
+              "endUid": "u0751",
+              "quote": "It opens into a corridor with a door on the West End."
+            },
+            {
+              "startUid": "u0761",
+              "endUid": "u0761",
+              "quote": "servants passage to unobtrusively bring food to the great hall."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Kitchens",
+      "kind": "kitchens",
+      "evidence": [
+        {
+          "startUid": "u0761",
+          "endUid": "u0761",
+          "quote": "The the other side is the kitchen."
+        },
+        {
+          "startUid": "u0762",
+          "endUid": "u0769",
+          "quote": "the kitchen seemed to be relatively undisturbed"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0761",
+              "endUid": "u0761",
+              "quote": "servants passage to unobtrusively bring food to the great hall."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Kitchen pantries and sorting rooms",
+      "kind": "storerooms",
+      "evidence": [
+        {
+          "startUid": "u0867",
+          "endUid": "u0877",
+          "quote": "there's a complex of like 3 rooms here that are pantries, kind of, like, kitchen staff associated things."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0867",
+              "endUid": "u0877",
+              "quote": "these are, like, kitchen storerooms, but they've all been cleared out."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Private study and planning room",
+      "kind": "study",
+      "evidence": [
+        {
+          "startUid": "u0906",
+          "endUid": "u0911",
+          "quote": "what looks like was a private study, or a a private sitting room, or something like that,"
+        },
+        {
+          "startUid": "u0912",
+          "endUid": "u0920",
+          "quote": "this was clearly, like, a planning room to the extent that Grash had one."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0903",
+              "endUid": "u0904",
+              "quote": "continue exploring across the great hall to the apartments."
+            },
+            {
+              "startUid": "u0906",
+              "endUid": "u0911",
+              "quote": "what looks like was a private study, or a a private sitting room, or something like that,"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Upstairs apartments",
+      "kind": "apartments",
+      "evidence": [
+        {
+          "startUid": "u0971",
+          "endUid": "u0974",
+          "quote": "this this like upstairs apartments,"
+        },
+        {
+          "startUid": "u0975",
+          "endUid": "u0985",
+          "quote": "This part of the palace was clearly damaged before Grash got here,"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0975",
+              "endUid": "u0985",
+              "quote": "This part of the palace was clearly damaged before Grash got here,"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Boulevard between temple and stadium",
+      "kind": "street",
+      "evidence": [
+        {
+          "startUid": "u1060",
+          "endUid": "u1064",
+          "quote": "So you head slowly along this boulevard between the temple complex and the stadium,"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1044",
+              "endUid": "u1048",
+              "quote": "there's, like, a broad paved boulevard that leads from the city, from—sorry, from the temple complex,"
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Archives and library",
+      "kind": "library",
+      "evidence": [
+        {
+          "startUid": "u1060",
+          "endUid": "u1064",
+          "quote": "The library—what was the, like, archives and library—is completely intact."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1060",
+              "endUid": "u1064",
+              "quote": "So you head slowly along this boulevard between the temple complex and the stadium,"
+            },
+            {
+              "startUid": "u1060",
+              "endUid": "u1064",
+              "quote": "The library—what was the, like, archives and library—is completely intact."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Orc warren and fortress",
+      "kind": "fort",
+      "evidence": [
+        {
+          "startUid": "u0448",
+          "endUid": "u0450",
+          "quote": "Then about 2 miles down the road, there's this orc warren like complex, built like a fort that looks completely empty."
+        },
+        {
+          "startUid": "u1129",
+          "endUid": "u1141",
+          "quote": "piles of stone taken from Kharsan."
+        }
+      ],
+      "note": "The warren is described down the road in the Kharsan locality; no claim places it inside the city walls.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0448",
+              "endUid": "u0450",
+              "quote": "Then about 2 miles down the road, there's this orc warren like complex, built like a fort that looks completely empty."
+            },
+            {
+              "startUid": "u1129",
+              "endUid": "u1141",
+              "quote": "piles of stone taken from Kharsan."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Temple to Grash",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u1142",
+          "endUid": "u1149",
+          "quote": "In the center of the courtyard there is a—what is actually a sort of building"
+        },
+        {
+          "startUid": "u1219",
+          "endUid": "u1222",
+          "quote": "this like Temple to Grash burns surprisingly quickly."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u1142",
+              "endUid": "u1149",
+              "quote": "In the center of the courtyard there is a—what is actually a sort of building"
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Monastery of Bhishma",
+      "kind": "monastery",
+      "evidence": [
+        {
+          "startUid": "u0437",
+          "endUid": "u0442",
+          "quote": "On the east side of the dry river, you can see the monastery,"
+        },
+        {
+          "startUid": "u0485",
+          "endUid": "u0492",
+          "quote": "monastery of Bhishma is on the spot"
+        }
+      ],
+      "note": "The vault’s Monastery of Bhishma note places it about 2½ miles south of Kharsan. This is attributed orientation; the aerial transcript supplies its own rough east/west river description.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma.md"
+    },
+    "p22": {
+      "label": "Pava and Avaras’ house",
+      "kind": "homestead",
+      "evidence": [
+        {
+          "startUid": "u1381",
+          "endUid": "u1389",
+          "quote": "the stone house of Pava and Avaras."
+        }
+      ],
+      "note": "The house note identifies the homestead on the Garamjala Desert’s northern edge; no current-session containment claim is inferred from the vault directory.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md"
+    },
+    "p23": {
+      "label": "River of souls",
+      "kind": "vision location",
+      "evidence": [
+        {
+          "startUid": "u1260",
+          "endUid": "u1271",
+          "quote": "the souls of the dead streaming past."
+        }
+      ]
+    },
+    "p24": {
+      "label": "Smithy shown in the sword vision",
+      "kind": "forge",
+      "evidence": [
+        {
+          "startUid": "u1357",
+          "endUid": "u1366",
+          "quote": "he is standing in a so in a smithy, in a forge,"
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0013"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party attends the postbattle celebration in Uzgukhar’s square.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0013",
+          "quote": "the party in Uzgukhar, the ruined town."
+        },
+        {
+          "startUid": "u0002",
+          "endUid": "u0013",
+          "quote": "in the middle of middle of the the square, the like Hall of Ancestors,"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0094",
+        "endUid": "u0098"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker makes repeated trips between ship and battlefield, bringing Lord Boulder’s fragments aboard for a shrine.",
+      "evidence": [
+        {
+          "startUid": "u0094",
+          "endUid": "u0098",
+          "quote": "going back and forth between the ship and the and the battlefield, collecting fragments of Lord Boulder to make a shrine to him on board,"
+        }
+      ],
+      "from": "p03",
+      "to": "p03",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Visits the battlefield to collect fragments, then returns aboard.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0104",
+        "endUid": "u0105"
+      },
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "Wellby rides Baxter around the city and explores the surrounding area during recovery.",
+      "evidence": [
+        {
+          "startUid": "u0104",
+          "endUid": "u0105",
+          "quote": "taking a lot of time hanging out with Baxter and getting back on and spending time just going out, riding around the city and exploring the area,"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0181",
+        "endUid": "u0191"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo performs New Dawn observances on the ship’s deck.",
+      "evidence": [
+        {
+          "startUid": "u0181",
+          "endUid": "u0191",
+          "quote": "on the the the deck of the ship kind of engaging in some some martial arts"
+        }
+      ],
+      "place": "p05",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "at",
+          "target": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0244",
+        "endUid": "u0250"
+      },
+      "actors": [
+        "Nuzkar",
+        "Aygul"
+      ],
+      "reading": "The sisters board and settle in the second-floor crew quarters.",
+      "evidence": [
+        {
+          "startUid": "u0244",
+          "endUid": "u0245",
+          "quote": "I'll show I'll show her to our crew quarters on the second floor"
+        },
+        {
+          "startUid": "u0246",
+          "endUid": "u0250",
+          "quote": "as as they both both walk off, and and once they're sort of settled,"
+        }
+      ],
+      "from": "p01",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0251",
+        "endUid": "u0255"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party flies west across the desert toward Pava and Avaras’ house and interrupts the route over Kharsan.",
+      "evidence": [
+        {
+          "startUid": "u0251",
+          "endUid": "u0255",
+          "quote": "For the next couple of days you fly across the desert."
+        },
+        {
+          "startUid": "u0262",
+          "endUid": "u0264",
+          "quote": "you fly over Kharsan, heading to pick up—heading to Pava and Avaras' house to pick up Amil."
+        }
+      ],
+      "from": "p01",
+      "to": "p22",
+      "completion": "interrupted",
+      "mode": "fly",
+      "vehicle": "p03",
+      "route": [
+        {
+          "reading": "Crosses the earlier flight track on January 24 evening."
+        },
+        {
+          "reading": "Flies over Kharsan and stops to investigate.",
+          "place": "p07"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Accepted “next couple of days” montage through the dated January 25 overflight."
+      }
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u0280",
+        "endUid": "u0282"
+      },
+      "actors": [
+        "party",
+        "Faldrak"
+      ],
+      "reading": "The party receives the paper bird aboard while above Kharsan; Faldrak later asks to pilot the ship.",
+      "evidence": [
+        {
+          "startUid": "u0280",
+          "endUid": "u0282",
+          "quote": "So as you're flying over, Kharsan,"
+        },
+        {
+          "startUid": "u0478",
+          "endUid": "u0484",
+          "quote": "from the air you can kind of see the layout,"
+        },
+        {
+          "startUid": "u0532",
+          "endUid": "u0539",
+          "quote": "Faldrak comes out,"
+        }
+      ],
+      "place": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "above",
+          "target": "p07"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0426",
+        "endUid": "u0432"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the ship, the party surveys Kharsan, its tombs, palace and surviving city features.",
+      "evidence": [
+        {
+          "startUid": "u0426",
+          "endUid": "u0432",
+          "quote": "So Kharsan, from the air, just to remind you of what this looks like."
+        },
+        {
+          "startUid": "u0462",
+          "endUid": "u0469",
+          "quote": "The center of the city is more intact. This is the palace that Grash had used."
+        }
+      ],
+      "place": "p07",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0437",
+        "endUid": "u0442"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The monastery and Hall of Stories are seen from the ship; they are not visited.",
+      "evidence": [
+        {
+          "startUid": "u0437",
+          "endUid": "u0442",
+          "quote": "from your ship you can see clearly, like, the layout,"
+        },
+        {
+          "startUid": "u0437",
+          "endUid": "u0442",
+          "quote": "On the east side of the dry river, you can see the monastery,"
+        },
+        {
+          "startUid": "u0445",
+          "endUid": "u0447",
+          "quote": "There's the temple, there's the Hall of Stories."
+        }
+      ],
+      "place": "p21",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0477",
+        "endUid": "u0505"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker clairvoyantly inspects the emptied great hall from the ship.",
+      "evidence": [
+        {
+          "startUid": "u0477",
+          "endUid": "u0477",
+          "quote": "I'll pop my eye down from the ship into palace."
+        },
+        {
+          "startUid": "u0500",
+          "endUid": "u0500",
+          "quote": "Great hall is empty."
+        }
+      ],
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0595",
+        "endUid": "u0607"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party descends by Rainbow Bridge and stands in the palace garden courtyard.",
+      "evidence": [
+        {
+          "startUid": "u0595",
+          "endUid": "u0598",
+          "quote": "let's let's go down into the maybe into that gardens area as a place to put the the bridge down."
+        },
+        {
+          "startUid": "u0599",
+          "endUid": "u0607",
+          "quote": "standing in this garden, looking at the ground,"
+        }
+      ],
+      "from": "p03",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge",
+      "note": "Faldrak is permitted to remain aboard at u0572–u0576; his earlier presence on the ship does not place him in the ruins."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0676",
+        "endUid": "u0699"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party searches the stables together and finds them thoroughly looted.",
+      "evidence": [
+        {
+          "startUid": "u0671",
+          "endUid": "u0672",
+          "quote": "I think we're gonna stick together for now."
+        },
+        {
+          "startUid": "u0676",
+          "endUid": "u0677",
+          "quote": "search the stables first."
+        },
+        {
+          "startUid": "u0678",
+          "endUid": "u0686",
+          "quote": "So the stables as you approach,"
+        },
+        {
+          "startUid": "u0697",
+          "endUid": "u0699",
+          "quote": "you got here. Somebody else has rifled through through this place quite carefully."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u0725",
+        "endUid": "u0746"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the palace and great hall, where Wellby spots concealed doors.",
+      "evidence": [
+        {
+          "startUid": "u0725",
+          "endUid": "u0726",
+          "quote": "Well, you've searched the stables. You're going into the palace now."
+        },
+        {
+          "startUid": "u0728",
+          "endUid": "u0734",
+          "quote": "you step into this sort of—what—the— foyer sort of entryway that leads into this great hall,"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u0750",
+        "endUid": "u0758"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "They take the concealed servants’ corridor toward the kitchens.",
+      "evidence": [
+        {
+          "startUid": "u0750",
+          "endUid": "u0751",
+          "quote": "It opens into a corridor with a door on the West End."
+        },
+        {
+          "startUid": "u0754",
+          "endUid": "u0754",
+          "quote": "Head down."
+        },
+        {
+          "startUid": "u0755",
+          "endUid": "u0758",
+          "quote": "As you approach the the door you hear—Wellby, you hear from the other side"
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u0761",
+        "endUid": "u0785"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo peers through the kitchen doorway and uses Soul Sight on the plague nightmares.",
+      "evidence": [
+        {
+          "startUid": "u0761",
+          "endUid": "u0761",
+          "quote": "The the other side is the kitchen."
+        },
+        {
+          "startUid": "u0785",
+          "endUid": "u0785",
+          "quote": "you can like open it a crack and peek in."
+        }
+      ],
+      "place": "p13",
+      "mode": "local",
+      "observerPlace": "p12"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u0808",
+        "endUid": "u0810"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn enters the kitchen holding up her holy symbol.",
+      "evidence": [
+        {
+          "startUid": "u0808",
+          "endUid": "u0810",
+          "quote": "Walk into the room,"
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0850",
+          "quote": "The library is quiet again—library or kitchen. Sorry, kitchen."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "note": "The doorway attack exchange does not independently locate every companion inside the room."
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u0867",
+        "endUid": "u0887"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party goes south into the kitchen pantries and finds the treasure-sorting tables.",
+      "evidence": [
+        {
+          "startUid": "u0867",
+          "endUid": "u0877",
+          "quote": "So you go south?"
+        },
+        {
+          "startUid": "u0867",
+          "endUid": "u0877",
+          "quote": "there's a complex of like 3 rooms here that are pantries,"
+        },
+        {
+          "startUid": "u0878",
+          "endUid": "u0887",
+          "quote": "Looking around, Wellby, you do notice a couple of things"
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u0903",
+        "endUid": "u0920"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "They cross the hall to the apartments and investigate the cleared private study and shattered planning slate.",
+      "evidence": [
+        {
+          "startUid": "u0903",
+          "endUid": "u0904",
+          "quote": "continue exploring across the great hall to the apartments."
+        },
+        {
+          "startUid": "u0906",
+          "endUid": "u0911",
+          "quote": "looking around, you can see that like most of the apartments, have been thoroughly looted, but what looks like was a private study,"
+        },
+        {
+          "startUid": "u0912",
+          "endUid": "u0920",
+          "quote": "this was clearly, like, a planning room"
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Crosses the already explored great hall.",
+          "place": "p11"
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u0946",
+        "endUid": "u0985"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "They ascend to the upper apartments, destroy specters, and uncover the necklace.",
+      "evidence": [
+        {
+          "startUid": "u0949",
+          "endUid": "u0949",
+          "quote": "as you head up the stairs,"
+        },
+        {
+          "startUid": "u0971",
+          "endUid": "u0974",
+          "quote": "this this like upstairs apartments,"
+        },
+        {
+          "startUid": "u0975",
+          "endUid": "u0985",
+          "quote": "Wellby and Kenzo both spot sort of peeking out from this what looks like a the edge of a gold chain."
+        }
+      ],
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived"
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u0996",
+        "endUid": "u1007"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the second level, they see more plague spirits roaming Kharsan.",
+      "evidence": [
+        {
+          "startUid": "u0996",
+          "endUid": "u1007",
+          "quote": "now you're the second second level,"
+        },
+        {
+          "startUid": "u0996",
+          "endUid": "u1007",
+          "quote": "you count maybe a dozen sort of moving around,"
+        }
+      ],
+      "place": "p07",
+      "mode": "local",
+      "observerPlace": "p16"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u1060",
+        "endUid": "u1109"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party follows the boulevard to the library, clears its wasps, and begins salvage.",
+      "evidence": [
+        {
+          "startUid": "u1060",
+          "endUid": "u1064",
+          "quote": "So you head slowly along this boulevard between the temple complex and the stadium,"
+        },
+        {
+          "startUid": "u1060",
+          "endUid": "u1064",
+          "quote": "The library—what was the, like, archives and library—is completely intact."
+        },
+        {
+          "startUid": "u1107",
+          "endUid": "u1109",
+          "quote": "Sort of going to the library,"
+        }
+      ],
+      "from": "p08",
+      "to": "p18",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Walks the boulevard; no arrival at the stadium is narrated.",
+          "place": "p17"
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u1124",
+        "endUid": "u1149"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Kenzo and Seeker visit the empty orc warren while the library work is being organized.",
+      "evidence": [
+        {
+          "startUid": "u1124",
+          "endUid": "u1124",
+          "quote": "some of us should just run by that orc warren,"
+        },
+        {
+          "startUid": "u1125",
+          "endUid": "u1125",
+          "quote": "I can do that."
+        },
+        {
+          "startUid": "u1126",
+          "endUid": "u1126",
+          "quote": "Yep."
+        },
+        {
+          "startUid": "u1129",
+          "endUid": "u1141",
+          "quote": "when you go in,"
+        },
+        {
+          "startUid": "u1142",
+          "endUid": "u1149",
+          "quote": "which doesn't bother either of you with your fancy dark vision tattoos."
+        }
+      ],
+      "from": "p18",
+      "to": "p19",
+      "completion": "arrived",
+      "note": "Kenzo and Seeker explicitly volunteer; the DM then addresses two visitors. Other players’ commentary does not place their characters here."
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u1142",
+        "endUid": "u1165"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "The two visitors enter the central shrine and examine the murals of Grash.",
+      "evidence": [
+        {
+          "startUid": "u1142",
+          "endUid": "u1149",
+          "quote": "it's dark inside, which doesn't bother either of you with your fancy dark vision tattoos."
+        },
+        {
+          "startUid": "u1142",
+          "endUid": "u1149",
+          "quote": "painted around the entire inside of the wall, there are murals"
+        },
+        {
+          "startUid": "u1165",
+          "endUid": "u1165",
+          "quote": "Kenzo takes a few pictures of these"
+        }
+      ],
+      "from": "p19",
+      "to": "p20",
+      "completion": "arrived"
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u1187",
+        "endUid": "u1203"
+      },
+      "actors": [
+        "party",
+        "Nuzkar",
+        "Aygul"
+      ],
+      "reading": "The next day, the party brings both sisters down to the warren.",
+      "evidence": [
+        {
+          "startUid": "u1173",
+          "endUid": "u1175",
+          "quote": "Nuzkar brings—wants to bring her sister."
+        },
+        {
+          "startUid": "u1187",
+          "endUid": "u1192",
+          "quote": "So you bring the orcs down. Nuzkar, the the archivist."
+        },
+        {
+          "startUid": "u1187",
+          "endUid": "u1192",
+          "quote": "I assume you're all going."
+        },
+        {
+          "startUid": "u1193",
+          "endUid": "u1203",
+          "quote": "Yeah, yeah, yeah, to be supportive,"
+        }
+      ],
+      "from": null,
+      "to": "p19",
+      "completion": "arrived",
+      "note": "The return is explicit; the transcript does not specify the exact overnight origin or transport for this descent."
+    },
+    {
+      "id": "l25",
+      "type": "observation",
+      "source": {
+        "startUid": "u1213",
+        "endUid": "u1216"
+      },
+      "actors": [
+        "Nuzkar"
+      ],
+      "reading": "Nuzkar looks through the shrine doorway and closes it in distress before asking for it to burn.",
+      "evidence": [
+        {
+          "startUid": "u1213",
+          "endUid": "u1216",
+          "quote": "She looks over like pokes her head into the hall, and kind of just shuts the door quickly, grimacing,"
+        }
+      ],
+      "place": "p20",
+      "mode": "local",
+      "observerPlace": "p19"
+    },
+    {
+      "id": "l26",
+      "type": "observation",
+      "source": {
+        "startUid": "u1223",
+        "endUid": "u1245"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "While the warren burns, Kenzo sees an echo of Kharsan’s plague victims trapped by fire before the monastery.",
+      "evidence": [
+        {
+          "startUid": "u1223",
+          "endUid": "u1232",
+          "quote": "As this thing burns, you hear—you see echoes of a great conflagration of the victims of the first plague."
+        },
+        {
+          "startUid": "u1242",
+          "endUid": "u1245",
+          "quote": "the vision you have is some powerful wizard in Cha'mutte's armies, putting a giant wall of fire to keep the people of Kharsan from fleeing to the safety of the monastery."
+        }
+      ],
+      "place": "p07",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p19"
+    },
+    {
+      "id": "l27",
+      "type": "observation",
+      "source": {
+        "startUid": "u1260",
+        "endUid": "u1271"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby briefly sees the river of souls and the now-freed souls; his body remains at the cleansing.",
+      "evidence": [
+        {
+          "startUid": "u1260",
+          "endUid": "u1271",
+          "quote": "for a moment, you see the river that you stood on 2, 3, 4, 5, 6 days ago, the souls of the dead streaming past."
+        }
+      ],
+      "place": "p23",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p19"
+    },
+    {
+      "id": "l28",
+      "type": "observation",
+      "source": {
+        "startUid": "u1321",
+        "endUid": "u1335"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The Mirror shows the same Kharsan palace in its living past.",
+      "evidence": [
+        {
+          "startUid": "u1296",
+          "endUid": "u1301",
+          "quote": "So you hold up the sword to the mirror,"
+        },
+        {
+          "startUid": "u1321",
+          "endUid": "u1335",
+          "quote": "this palace, same palace that you were in, but in its its glory days, like when it was intact and full of people and life,"
+        }
+      ],
+      "place": "p08",
+      "mode": "vision",
+      "context": "vision",
+      "note": "The viewing location is not explicitly re-established; no observerPlace is invented from the proposed return to the ship."
+    },
+    {
+      "id": "l29",
+      "type": "observation",
+      "source": {
+        "startUid": "u1357",
+        "endUid": "u1366"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The Mirror shows a young man praying beside a smith forging the sword, then ends.",
+      "evidence": [
+        {
+          "startUid": "u1357",
+          "endUid": "u1366",
+          "quote": "he is standing in a so in a smithy, in a forge,"
+        },
+        {
+          "startUid": "u1357",
+          "endUid": "u1366",
+          "quote": "And then the mirror ends."
+        }
+      ],
+      "place": "p24",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l30",
+      "type": "movement",
+      "source": {
+        "startUid": "u1376",
+        "endUid": "u1403"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party continues west by ship and descends by Rainbow Bridge at Pava and Avaras’ house on January 28.",
+      "evidence": [
+        {
+          "startUid": "u1376",
+          "endUid": "u1377",
+          "quote": "So you continue flying?"
+        },
+        {
+          "startUid": "u1380",
+          "endUid": "u1380",
+          "quote": "January 27th, you travel west."
+        },
+        {
+          "startUid": "u1381",
+          "endUid": "u1389",
+          "quote": "The morning of January 28th,"
+        },
+        {
+          "startUid": "u1401",
+          "endUid": "u1401",
+          "quote": "And I assume you all come down off the ship."
+        },
+        {
+          "startUid": "u1403",
+          "endUid": "u1403",
+          "quote": "we Rainbow Bridge down."
+        }
+      ],
+      "from": "p07",
+      "to": "p22",
+      "completion": "arrived",
+      "mode": "flight and Rainbow Bridge",
+      "vehicle": "p03"
+    },
+    {
+      "id": "l31",
+      "type": "presence",
+      "source": {
+        "startUid": "u1381",
+        "endUid": "u1395"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is aboard the ship above the homestead before descending.",
+      "evidence": [
+        {
+          "startUid": "u1390",
+          "endUid": "u1394",
+          "quote": "this giant stone ship in the sky,"
+        },
+        {
+          "startUid": "u1395",
+          "endUid": "u1395",
+          "quote": "wave from the deck,"
+        }
+      ],
+      "place": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "above",
+          "target": "p22"
+        }
+      ]
+    },
+    {
+      "id": "l32",
+      "type": "movement",
+      "source": {
+        "startUid": "u1477",
+        "endUid": "u1529"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Pava",
+        "Avaras",
+        "Amil"
+      ],
+      "reading": "Kenzo brings the monks aboard for a tour of the ship’s story archive; Delwath is also present for his story to be recorded.",
+      "evidence": [
+        {
+          "startUid": "u1479",
+          "endUid": "u1479",
+          "quote": "Pava and Avaras are like the—"
+        },
+        {
+          "startUid": "u1480",
+          "endUid": "u1483",
+          "quote": "Kenzo will bring them to, you know, log on the ship."
+        },
+        {
+          "startUid": "u1484",
+          "endUid": "u1488",
+          "quote": "Amil is just, like, totally taken aback by this whole thing as he— as he comes."
+        },
+        {
+          "startUid": "u1528",
+          "endUid": "u1529",
+          "quote": "a good spot on the wall for—for Pava to spend time with—with Delwath,"
+        }
+      ],
+      "from": "p22",
+      "to": "p05",
+      "completion": "arrived",
+      "note": "Kethra’s recruitment occurs at the homestead; her exact boarding moment is not separately narrated here."
+    }
+  ]
+}

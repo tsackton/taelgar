@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-089",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-session.yaml",
+    "sessionYamlSha256": "06a168e325271e5a51bc4c708bf594689cc3a0c00f15e45e9d742f4c82e9d3ac",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-transcript.md",
+    "transcriptSha256": "601aa88befbfedca284046fb9488dbc198911c0d1e877fc0ac26d13747810096"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u1641"
+      },
+      "category": "gameplay",
+      "note": "Kitchen nightmares, upstairs specters and library wasps resolve without initiative or an established repeating ordered turn cycle; these brief actions remain gameplay."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1642",
+        "endUid": "u1689"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1690",
+        "endUid": "u1696"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1697",
+        "endUid": "u1730"
+      },
+      "category": "meta_discussion",
+      "note": "Future-session planning remains the main function across interleaved closing comments."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1731",
+        "endUid": "u1736"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
