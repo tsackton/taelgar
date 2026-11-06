@@ -1,0 +1,877 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-057",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-session.yaml",
+    "sessionYamlSha256": "0965f1c24cef0d86fde779b2bd168966e053a94a64aa9ab8c0ffe970bfe16351",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-transcript.md",
+    "transcriptSha256": "4590074497841d38f8a330d4be1862126c3ca33c8c77cf37a49ce31294817169"
+  },
+  "places": {
+    "p01": {
+      "label": "Village of the Te'kula",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0008",
+          "quote": "Okay. So we begin at the moment you left the village of the Te'kula following Theba and your friends back into the material world, aware of the forest around you, newly awakened to your senses, with each step planting your staff on the ground, feeling the heartbeat of the trees, the pulse of nutrients across the vast network of mycelia connecting the great trees of the place, the god trees to the Deno'qai."
+        }
+      ],
+      "vaultPath": "Gazetteer/Central Highlands/Neshet.md",
+      "note": "Neshet is the verified vault identity of the Te'kula village; the transcript retains its tribal label."
+    },
+    "p02": {
+      "label": "Forest path outside the Te'kula village",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0008",
+          "quote": "Okay. So we begin at the moment you left the village of the Te'kula following Theba and your friends back into the material world, aware of the forest around you, newly awakened to your senses, with each step planting your staff on the ground, feeling the heartbeat of the trees, the pulse of nutrients across the vast network of mycelia connecting the great trees of the place, the god trees to the Deno'qai."
+        },
+        {
+          "startUid": "u0009",
+          "endUid": "u0012",
+          "quote": "As you walk, your awareness focused on this forest ki around you that bubbles through your staff and fills you with energy. The world fades until you are pulled back to your friends in a jumbled collection of images. As the pocket dimension collapses, and you see a ship approaching a jagged coastline of an unfamiliar island, a meadow of golden butterflies, a forest of pines and maples high on the mountain slope as Delwath, Wellby, and Seeker are pulled away from you. You hear Wellby's voice in your mind just for a moment. “Find your way to the Feywild, into the portal near Eudomes' tower. We'll meet again there.”"
+        }
+      ],
+      "note": "The opening returns to the Material Plane; it does not establish the path's regional boundaries."
+    },
+    "p03": {
+      "label": "Orekatu",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0263",
+          "endUid": "u0269",
+          "quote": "My name is Elazar. You are in the kingdom, Orekatu. You— the ancient and proud home of my people near the Eastern Sea."
+        }
+      ],
+      "vaultPath": "Gazetteer/Faraway Places/Orekatu.md"
+    },
+    "p04": {
+      "label": "Jungle",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u0013",
+          "endUid": "u0021",
+          "quote": "And then you're hurling towards the ground in the predawn light, below you a lush jungle stretching all directions, filled with the calls of birds and insects. The sun begins to creep into the sky. To the west a distant volcano smokes, while the morning fog drifts down its slopes, lingering over the jungle below. The air is humid and warm. Despite the early hour you can feel the stirring of the tropical heat the day will bring. In the next moment you find yourself on the ground in the open and dim understory. The terrain is surprisingly clear. The massive trunks and spreading roots of the huge trees that reach one hundred feet or more into the canopy, the only life this far below beneath the sun. The birds and the insects, and the vibrant life of the jungle hidden in the canopy far above."
+        },
+        {
+          "startUid": "u0263",
+          "endUid": "u0269",
+          "quote": "My name is Elazar. You are in the kingdom, Orekatu. You— the ancient and proud home of my people near the Eastern Sea."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0013",
+              "endUid": "u0021",
+              "quote": "In the next moment you find yourself on the ground in the open and dim understory."
+            },
+            {
+              "startUid": "u0263",
+              "endUid": "u0269",
+              "quote": "My name is Elazar. You are in the kingdom, Orekatu. You— the ancient and proud home of my people near the Eastern Sea."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Fallen-tree clearing and Elazar's camp",
+      "kind": "clearing",
+      "evidence": [
+        {
+          "startUid": "u0058",
+          "endUid": "u0064",
+          "quote": "Right? So you move—you, after you've got had a moment to get your bearings. You, you hear this roar, and then a cry of distress, and as you begin to move in that direction through the forest, it's— it's easy to move quietly here. It's dim. Everything's still this far below, just the sort of faint greenish light filtering down through the canopy. And, and you see, after walking for a very short time, you see, um, like a shaft of light up ahead, and you can see the, the clearing where a giant tree has fallen."
+        },
+        {
+          "startUid": "u0362",
+          "endUid": "u0364",
+          "quote": "You can see now that there's like a little hidden bit of a camp, and it seems like he was probably surprised in his, you know, morning routine preparing breakfast. Gathers up his stuff, packs up the camp."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0053",
+              "endUid": "u0060",
+              "quote": "You, you hear this roar, and then a cry of distress, and as you begin to move in that direction through the forest"
+            },
+            {
+              "startUid": "u0058",
+              "endUid": "u0060",
+              "quote": "you can see the, the clearing where a giant tree has fallen."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Broad muddy river",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u0571",
+          "endUid": "u0575",
+          "quote": "He, he walks again, leading you into the jungle, like changing his path slightly. And, and you come out after an hour of walking, like onto, so— it's not really a river bank exactly. There's this wide, muddy river that flows, and he says, village is still maybe a half day's walk up the river. But along the way here on this riverbank, we will pass a sacred spot. Yes."
+        },
+        {
+          "startUid": "u0952",
+          "endUid": "u0954",
+          "quote": "It's right on the river, um, the broad, muddy river in like a few layers, right? So this is like the upper—what you're looking at here is like the upper layer, and it goes down, and, and the houses are built. It's on stilts as it drops down to the river bank. There's like canoes, um. There are maybe two hundred people that live here. Not huge, um."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0571",
+              "endUid": "u0575",
+              "quote": "He, he walks again, leading you into the jungle, like changing his path slightly. And, and you come out after an hour of walking, like onto, so— it's not really a river bank exactly. There's this wide, muddy river that flows, and he says, village is still maybe a half day's walk up the river. But along the way here on this riverbank, we will pass a sacred spot. Yes."
+            },
+            {
+              "startUid": "u0593",
+              "endUid": "u0599",
+              "quote": "the river seems fairly low. It— but it still sort of floods in and among the trees a little bit."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Sacred Hutsu tree by the river",
+      "kind": "sacred tree",
+      "evidence": [
+        {
+          "startUid": "u0593",
+          "endUid": "u0599",
+          "quote": "It's clearly not the, like, wet season, because the river seems fairly low. It— but it still sort of floods in and among the trees a little bit. So you're like going over some bits of water and some bare ground and passing through these big trunks of trees and things. You come to this place where there's a, like, a large tree somewhat bigger than the rest that, uh, where the roots form a big sort of massive mound that comes up out of the water, and you can see there's like a bunch of these Hutsu vines going up a bit, and one out of every fifteen or twenty leaves is this, like, silver-white, um, like you can, like—the leaf itself is entirely white and the veins that would normally be, um, running through the leaf are this sort of silvery, um, shimmering color that looks almost like moonlight."
+        },
+        {
+          "startUid": "u0603",
+          "endUid": "u0605",
+          "quote": "Ah, no, it's like one big tree with this, like, massive pile of roots that's spread out like fifteen or twenty feet around the trunk, and then the vines are growing up. I mean, the tree is not particularly tall. It's just very wide. It's like a banyan tree type thing with like lots of—you have buttresses and roots."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0593",
+              "endUid": "u0599",
+              "quote": "You come to this place where there's a, like, a large tree somewhat bigger than the rest"
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0571",
+              "endUid": "u0575",
+              "quote": "along the way here on this riverbank, we will pass a sacred spot."
+            },
+            {
+              "startUid": "u0593",
+              "endUid": "u0599",
+              "quote": "where the roots form a big sort of massive mound that comes up out of the water"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Bedez",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0336",
+          "endUid": "u0338",
+          "quote": "I would be pleased to take you to Bedez, my village."
+        },
+        {
+          "startUid": "u0940",
+          "endUid": "u0943",
+          "quote": "Oh, no problem. So at about this point I'm going to say you you get to the village."
+        },
+        {
+          "startUid": "u0949",
+          "endUid": "u0954",
+          "quote": "And as you—and this is a, this is not like—you arrive at evening after walking the whole day. And it is a—it is a village unlike anything you've seen before."
+        }
+      ],
+      "vaultPath": "Gazetteer/Faraway Places/Bedez.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0263",
+              "endUid": "u0269",
+              "quote": "My name is Elazar. You are in the kingdom, Orekatu. You— the ancient and proud home of my people near the Eastern Sea."
+            },
+            {
+              "startUid": "u0324",
+              "endUid": "u0338",
+              "quote": "This is— my village is not far, maybe a day's journey."
+            },
+            {
+              "startUid": "u0336",
+              "endUid": "u0338",
+              "quote": "I would be pleased to take you to Bedez, my village."
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0952",
+              "endUid": "u0954",
+              "quote": "It's right on the river, um, the broad, muddy river"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Hidden cave of sacred spirit waters",
+      "kind": "cave",
+      "evidence": [
+        {
+          "startUid": "u1105",
+          "endUid": "u1110",
+          "quote": "And after three, four weeks, three and a half weeks, he says he thinks you're ready. One night, wakes you up just past midnight and takes you into the jungle, a few hours walk. So you arrive just somewhat before dawn, when it's still dark out but the birds are starting to sing. Leads you to a hidden cave, which is completely dark and filled with dark water, old, that is close to the moment of creation."
+        },
+        {
+          "startUid": "u1119",
+          "endUid": "u1126",
+          "quote": "Leads you into the cave, and you begin to float in this complete darkness, and he— [garbled]— begins to talk, and he says, I must tell you how things were before you can see how things are."
+        },
+        {
+          "startUid": "u1749",
+          "endUid": "u1751",
+          "quote": "It is not easy. Everybody is only granted one journey through the sacred waters."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1105",
+              "endUid": "u1110",
+              "quote": "takes you into the jungle, a few hours walk."
+            },
+            {
+              "startUid": "u1105",
+              "endUid": "u1110",
+              "quote": "Leads you to a hidden cave, which is completely dark and filled with dark water"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Plane of Souls",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u1162",
+          "endUid": "u1168",
+          "quote": "You're not sure if it's a vision or a dream, or something more physical, but dotted across the sky are endless points of light. A place you've been before, actually, a Plane of Souls that you traveled through once with Candrosa. But now here you can see it much more clearly than before. You're floating, but you can also sense the loops and whorls in this place where its energy touches the world of Taelgar, and you can see each time a, a loop or a um, a root or a tendril reaches down and touches the world, there's a ripple in the physical world, the Taelgar itself, that echoes out from that point of contact, vibrating with vital energy."
+        }
+      ],
+      "vaultPath": "Cosmology/Plane of Souls.md",
+      "note": "The narration explicitly leaves the journey a vision, a dream, or something more physical; it is not recorded as an unqualified bodily arrival."
+    },
+    "p11": {
+      "label": "Dream world",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u1235",
+          "endUid": "u1244",
+          "quote": "I put out a feeler for Rai."
+        },
+        {
+          "startUid": "u1518",
+          "endUid": "u1522",
+          "quote": "So the only way you can find him is following your path back into them— the dream world, and following this focus on Rai, coming back to this door, and as each time the door opens you kind of focus on him, and the door slowly stops opening and closing and open and closing, and the scene stabilizes."
+        }
+      ],
+      "vaultPath": "Cosmology/Dreamworld.md"
+    },
+    "p12": {
+      "label": "River of Souls",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u0630",
+          "endUid": "u0638",
+          "quote": "Uh, so you, you, um, the feeling you get through this tree is— so, two things happen. First, for a brief moment, as you begin to sort of commune with this tree, you feel—you see a vision, a memory, a vast expanse of space, a river flowing through it, the occasional essence of someone or something moving in the distance, some in clumps, some alone, the exact vision you saw when you—of the River of Souls, when you died during your Bhishma initiation."
+        },
+        {
+          "startUid": "u1314",
+          "endUid": "u1319",
+          "quote": "So from this perspective you can see that— so you can sort of see the dream world. You can see the sort of layers of the spirit world, and they— it's sort of—as you get further and further away from Taelgar, you eventually get to darkness where there are no souls, which you sense is like the Land of the Dead. And if you go beyond that, you get to the realm of gods."
+        }
+      ],
+      "vaultPath": "Cosmology/Land of the Dead.md",
+      "aliases": [
+        "Land of the Dead"
+      ]
+    },
+    "p13": {
+      "label": "Eldest land / footprint of the Tharzen Anzinakoa",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0903",
+          "endUid": "u0935",
+          "quote": "There is a place west of here, a few days journey. I do not know how much you know about the history of this world."
+        },
+        {
+          "startUid": "u1085",
+          "endUid": "u1090",
+          "quote": "And after about three and a half weeks of life in the village, where you're, you know, you're learning the names of plants, you're learning, you know, the sort of just the routines of village life, he takes you on a few walks. You can see—he tells you a little bit more about the— about the uh, the eldest land, the footprint of the Tharzen Anzinakoa, which is to the west near where the volcano that you saw when you were flying overhead is, um, that says, you know, you'll know more once I can, once I can show you about the forest, sort of cryptically."
+        }
+      ],
+      "vaultPath": "Gazetteer/Faraway Places/Azta Lekua.md",
+      "note": "Azta Lekua is verified by Session 57 (DuFr) and its Footprint of the Gods alias. Westward direction and a future expedition do not establish a visit or containment in Orekatu; the vault note itself flags the border relationship as unresolved."
+    },
+    "p14": {
+      "label": "Chained stone door in Rai's dream",
+      "kind": "dream image",
+      "evidence": [
+        {
+          "startUid": "u1274",
+          "endUid": "u1294",
+          "quote": "Um, it's just a vision of a door that's flicking between opened and closed and opened and closed. Every time it's closed, you see it's— I shouldn't say doors, it's, um— it is a door, but it's a very elaborate door, a stone door with like eight chains that cross in a pattern in front of it, and then a giant in the center, like a hexagon with a— with what looks like a massive complex, like, locking mechanism in the center, and then faint lines of magical energy."
+        },
+        {
+          "startUid": "u1518",
+          "endUid": "u1533",
+          "quote": "So the only way you can find him is following your path back into them— the dream world, and following this focus on Rai, coming back to this door, and as each time the door opens you kind of focus on him, and the door slowly stops opening and closing and open and closing, and the scene stabilizes."
+        }
+      ],
+      "note": "The image is associated with Apollyon's imprisonment; it does not establish Kenzo's presence at the physical prison.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1518",
+              "endUid": "u1522",
+              "quote": "So the only way you can find him is following your path back into them— the dream world, and following this focus on Rai, coming back to this door, and as each time the door opens you kind of focus on him, and the door slowly stops opening and closing and open and closing, and the scene stabilizes."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0008"
+      },
+      "actors": [
+        "Kenzo",
+        "Theba"
+      ],
+      "reading": "Kenzo follows Theba and his friends out of the Te'kula village and back into the material forest.",
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0008",
+          "quote": "Okay. So we begin at the moment you left the village of the Te'kula following Theba and your friends back into the material world, aware of the forest around you, newly awakened to your senses, with each step planting your staff on the ground, feeling the heartbeat of the trees, the pulse of nutrients across the vast network of mycelia connecting the great trees of the place, the god trees to the Deno'qai."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u0021"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo is displaced from his companions into the jungle understory, landing alone in Orekatu.",
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "magical displacement",
+      "evidence": [
+        {
+          "startUid": "u0009",
+          "endUid": "u0012",
+          "quote": "Delwath, Wellby, and Seeker are pulled away from you."
+        },
+        {
+          "startUid": "u0013",
+          "endUid": "u0021",
+          "quote": "In the next moment you find yourself on the ground in the open and dim understory."
+        },
+        {
+          "startUid": "u0051",
+          "endUid": "u0052",
+          "quote": "No, there's nobody. You seem to be completely alone."
+        },
+        {
+          "startUid": "u0263",
+          "endUid": "u0269",
+          "quote": "My name is Elazar. You are in the kingdom, Orekatu. You— the ancient and proud home of my people near the Eastern Sea."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0053",
+        "endUid": "u0064"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo follows the distressed cries through the jungle to the fallen-tree clearing where Elazar is being attacked.",
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "min": 200,
+        "minInclusive": true,
+        "max": 300,
+        "maxInclusive": true,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM places the distressed cries two to three hundred feet away at u0022–u0026."
+      },
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0026",
+          "quote": "two to three hundred feet away"
+        },
+        {
+          "startUid": "u0053",
+          "endUid": "u0057",
+          "quote": "starts moving, moving in that direction"
+        },
+        {
+          "startUid": "u0058",
+          "endUid": "u0060",
+          "quote": "Right? So you move—you, after you've got had a moment to get your bearings. You, you hear this roar, and then a cry of distress, and as you begin to move in that direction through the forest, it's— it's easy to move quietly here. It's dim. Everything's still this far below, just the sort of faint greenish light filtering down through the canopy. And, and you see, after walking for a very short time, you see, um, like a shaft of light up ahead, and you can see the, the clearing where a giant tree has fallen."
+        },
+        {
+          "startUid": "u0061",
+          "endUid": "u0064",
+          "quote": "And in the clearing you see, um, lying prone on the ground with his, with his hands up like this, um, there is a, a lizardfolk man, dressed in sort of green, green and red robes, decorated with what look like parrot feathers or something around his neck, the robes torn, and two creatures unlike anything you've seen looming over him. They look like giant reptiles of a kind standing on two legs, but leaning forward long tails, massive jaws, short little arms."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0571",
+        "endUid": "u0575"
+      },
+      "actors": [
+        "Kenzo",
+        "Elazar"
+      ],
+      "reading": "After Elazar packs camp, the two walk through the jungle for an hour and reach the muddy river, taking the route toward a sacred site.",
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM narrates one hour to the river."
+      },
+      "evidence": [
+        {
+          "startUid": "u0360",
+          "endUid": "u0364",
+          "quote": "Welcome. Let us, let us walk. If we hurry, we can be there by nightfall."
+        },
+        {
+          "startUid": "u0571",
+          "endUid": "u0575",
+          "quote": "He, he walks again, leading you into the jungle, like changing his path slightly. And, and you come out after an hour of walking, like onto, so— it's not really a river bank exactly. There's this wide, muddy river that flows, and he says, village is still maybe a half day's walk up the river. But along the way here on this riverbank, we will pass a sacred spot. Yes."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0588",
+        "endUid": "u0613"
+      },
+      "actors": [
+        "Kenzo",
+        "Elazar"
+      ],
+      "reading": "Elazar swims while Kenzo walks alongside him through the flooded river corridor; they reach the sacred Hutsu tree and Kenzo kneels among its roots.",
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "swim and walk",
+      "route": [
+        {
+          "reading": "Follow the river through shallow flooded woodland and bare ground."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0588",
+          "endUid": "u0588",
+          "quote": "He, he steps in, and he just starts a leisurely swim."
+        },
+        {
+          "startUid": "u0589",
+          "endUid": "u0589",
+          "quote": "I, I start walking next to him now."
+        },
+        {
+          "startUid": "u0593",
+          "endUid": "u0599",
+          "quote": "It's clearly not the, like, wet season, because the river seems fairly low. It— but it still sort of floods in and among the trees a little bit. So you're like going over some bits of water and some bare ground and passing through these big trunks of trees and things. You come to this place where there's a, like, a large tree somewhat bigger than the rest that, uh, where the roots form a big sort of massive mound that comes up out of the water, and you can see there's like a bunch of these Hutsu vines going up a bit, and one out of every fifteen or twenty leaves is this, like, silver-white, um, like you can, like—the leaf itself is entirely white and the veins that would normally be, um, running through the leaf are this sort of silvery, um, shimmering color that looks almost like moonlight."
+        },
+        {
+          "startUid": "u0600",
+          "endUid": "u0600",
+          "quote": "And he like sort of motions you to stop before you proceed, and he like, says a few words in Lizardfolk, probably some sort of prayer asking for the ancestors' blessing, and then motions for you to come."
+        },
+        {
+          "startUid": "u0601",
+          "endUid": "u0613",
+          "quote": "I reverently step forward. As we—is it sort of like a grove, or—?"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0630",
+        "endUid": "u0638"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "During his communion at the tree, Kenzo sees the River of Souls as a vision resembling his initiation experience.",
+      "place": "p12",
+      "mode": "vision",
+      "observerPlace": "p07",
+      "evidence": [
+        {
+          "startUid": "u0630",
+          "endUid": "u0638",
+          "quote": "Uh, so you, you, um, the feeling you get through this tree is— so, two things happen. First, for a brief moment, as you begin to sort of commune with this tree, you feel—you see a vision, a memory, a vast expanse of space, a river flowing through it, the occasional essence of someone or something moving in the distance, some in clumps, some alone, the exact vision you saw when you—of the River of Souls, when you died during your Bhishma initiation."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0940",
+        "endUid": "u0951"
+      },
+      "actors": [
+        "Kenzo",
+        "Elazar"
+      ],
+      "reading": "They complete the day's walk and reach Bedez in the evening.",
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Continue along the muddy river toward Elazar's village."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0940",
+          "endUid": "u0943",
+          "quote": "Oh, no problem. So at about this point I'm going to say you you get to the village."
+        },
+        {
+          "startUid": "u0949",
+          "endUid": "u0954",
+          "quote": "And as you—and this is a, this is not like—you arrive at evening after walking the whole day. And it is a—it is a village unlike anything you've seen before."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1085",
+        "endUid": "u1090"
+      },
+      "actors": [
+        "Kenzo",
+        "Elazar"
+      ],
+      "reading": "During the training montage Elazar takes Kenzo on local jungle walks; specific endpoints and returns are not established.",
+      "from": "p08",
+      "to": null,
+      "completion": "uncertain",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u1085",
+          "endUid": "u1090",
+          "quote": "he takes you on a few walks."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1105",
+        "endUid": "u1126"
+      },
+      "actors": [
+        "Kenzo",
+        "Elazar"
+      ],
+      "reading": "Elazar leads Kenzo from Bedez into the jungle to the hidden cave; they enter its dark waters.",
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM describes the walk from after midnight until before dawn."
+      },
+      "evidence": [
+        {
+          "startUid": "u1105",
+          "endUid": "u1110",
+          "quote": "And after three, four weeks, three and a half weeks, he says he thinks you're ready. One night, wakes you up just past midnight and takes you into the jungle, a few hours walk. So you arrive just somewhat before dawn, when it's still dark out but the birds are starting to sing. Leads you to a hidden cave, which is completely dark and filled with dark water, old, that is close to the moment of creation."
+        },
+        {
+          "startUid": "u1119",
+          "endUid": "u1126",
+          "quote": "Leads you into the cave, and you begin to float in this complete darkness, and he— [garbled]— begins to talk, and he says, I must tell you how things were before you can see how things are."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1162",
+        "endUid": "u1168"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo experiences the Plane of Souls through the sacred-water journey; whether it is a vision, dream or more physical remains explicitly open.",
+      "place": "p10",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "note": "Elazar's voice accompanies the beginning, but the DM confirms Elazar is not present in this realm.",
+      "evidence": [
+        {
+          "startUid": "u1119",
+          "endUid": "u1126",
+          "quote": "Leads you into the cave, and you begin to float in this complete darkness, and he— [garbled]— begins to talk, and he says, I must tell you how things were before you can see how things are."
+        },
+        {
+          "startUid": "u1162",
+          "endUid": "u1168",
+          "quote": "You're not sure if it's a vision or a dream, or something more physical, but dotted across the sky are endless points of light. A place you've been before, actually, a Plane of Souls that you traveled through once with Candrosa. But now here you can see it much more clearly than before. You're floating, but you can also sense the loops and whorls in this place where its energy touches the world of Taelgar, and you can see each time a, a loop or a um, a root or a tendril reaches down and touches the world, there's a ripple in the physical world, the Taelgar itself, that echoes out from that point of contact, vibrating with vital energy."
+        },
+        {
+          "startUid": "u1622",
+          "endUid": "u1623",
+          "quote": "No. His voice was speaking at the beginning, but he is not here."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u1239",
+        "endUid": "u1294"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo reaches toward Rai through the dream world and perceives the jade fragments and chained door; Dimitaur and withered hands alternate in the image.",
+      "place": "p14",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "evidence": [
+        {
+          "startUid": "u1239",
+          "endUid": "u1244",
+          "quote": "Okay, so you drift towards the sort of twists of the dream world, and as you do, you can see, like your vision is kind of flickering back and forth between seeing the actual metaphysical dream world in this space and the Amezza tree that Elazar pointed out many times to you before."
+        },
+        {
+          "startUid": "u1253",
+          "endUid": "u1263",
+          "quote": "You reach forward, and you sense— and me— you see, floating next to you now in this, this dream realm, um, the two pieces of jade that were anchored to your staff, and they are, um they are— they're sort of like, there's a ton of little faint green lines passing between them."
+        },
+        {
+          "startUid": "u1274",
+          "endUid": "u1294",
+          "quote": "Um, it's just a vision of a door that's flicking between opened and closed and opened and closed. Every time it's closed, you see it's— I shouldn't say doors, it's, um— it is a door, but it's a very elaborate door, a stone door with like eight chains that cross in a pattern in front of it, and then a giant in the center, like a hexagon with a— with what looks like a massive complex, like, locking mechanism in the center, and then faint lines of magical energy."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1518",
+        "endUid": "u1565"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Returning to Rai's dream, Kenzo steadies the open-door image and sees Apollyon look back at him.",
+      "place": "p14",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "evidence": [
+        {
+          "startUid": "u1518",
+          "endUid": "u1533",
+          "quote": "So the only way you can find him is following your path back into them— the dream world, and following this focus on Rai, coming back to this door, and as each time the door opens you kind of focus on him, and the door slowly stops opening and closing and open and closing, and the scene stabilizes."
+        },
+        {
+          "startUid": "u1539",
+          "endUid": "u1559",
+          "quote": "So as you are searching for Apollyon, like looking at Apollyon, um, you see the glint of two eyes, just points of white in the, um, in the darkness behind the door, and you see as those two eyes look at you, they seem to pierce into your own soul."
+        },
+        {
+          "startUid": "u1562",
+          "endUid": "u1565",
+          "quote": "That's that— head turns away. You can feel its gaze still lingering on you."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1723",
+        "endUid": "u1725"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo awakens and emerges from the cave into the sunrise.",
+      "from": "p09",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u1716",
+          "endUid": "u1722",
+          "quote": "Yeah, yeah, I was gonna say Kenzo can experiment as long as he wants, but Tim and Kong do not have the patience for that. So, yeah, Kenzo spends a long time in here learning, and eventually awakes as the, as the sun rises, having only spent three or four hours at most in the real world here."
+        },
+        {
+          "startUid": "u1723",
+          "endUid": "u1725",
+          "quote": "Um, and as you emerge from this cave into the sun, you see there is a Hutsu vine growing all up your staff."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1734",
+        "endUid": "u1744"
+      },
+      "actors": [
+        "Kenzo",
+        "Elazar"
+      ],
+      "reading": "Kenzo and Elazar walk back toward Bedez while discussing the spirit journey; arrival is not narrated.",
+      "from": "p09",
+      "to": "p08",
+      "completion": "underway",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u1734",
+          "endUid": "u1742",
+          "quote": "Yeah, definitely. So as, as you walk back to the, to the village with, um, with Elazar, he—you talk about what you've seen, and he sort of helps you contextualize some of what you've learned about these different kinds of ki. And also he is, he's excited in some way of this sort of thing that you saw, you know, drinking the ripples of these tendrils around here, and he says, when the others get here, hopefully in a week or less, perhaps you can find it. Perhaps if you journey into the eldest land, into the footprint of the Tharzen Anzinakoa, and can find out why it's so thirsty."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1734",
+        "endUid": "u1744"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Elazar proposes an expedition to the eldest land when other heroes arrive; no departure occurs.",
+      "from": "p08",
+      "to": "p13",
+      "completion": "planned",
+      "context": "planned",
+      "note": "The departure point is the intended village gathering, not a newly attested current presence.",
+      "evidence": [
+        {
+          "startUid": "u1734",
+          "endUid": "u1744",
+          "quote": "Yeah, definitely. So as, as you walk back to the, to the village with, um, with Elazar, he—you talk about what you've seen, and he sort of helps you contextualize some of what you've learned about these different kinds of ki. And also he is, he's excited in some way of this sort of thing that you saw, you know, drinking the ripples of these tendrils around here, and he says, when the others get here, hopefully in a week or less, perhaps you can find it. Perhaps if you journey into the eldest land, into the footprint of the Tharzen Anzinakoa, and can find out why it's so thirsty."
+        }
+      ]
+    }
+  ]
+}

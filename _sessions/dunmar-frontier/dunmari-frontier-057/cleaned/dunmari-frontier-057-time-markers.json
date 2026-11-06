@@ -1,0 +1,337 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-057",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-session.yaml",
+    "sessionYamlSha256": "0965f1c24cef0d86fde779b2bd168966e053a94a64aa9ab8c0ffe970bfe16351",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-transcript.md",
+    "transcriptSha256": "4590074497841d38f8a330d4be1862126c3ca33c8c77cf37a49ce31294817169",
+    "yamlDates": {
+      "start": "1748-09-30",
+      "end": "1748-11-02"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u0021"
+      },
+      "reading": "Kenzo lands alone in the jungle as predawn light gives way to sunrise.",
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "DM states predawn arrival and the sun beginning to rise."
+      },
+      "evidence": [
+        {
+          "startUid": "u0013",
+          "endUid": "u0021",
+          "quote": "And then you're hurling towards the ground in the predawn light, below you a lush jungle stretching all directions, filled with the calls of birds and insects. The sun begins to creep into the sky."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0037",
+        "endUid": "u0046"
+      },
+      "reading": "Kenzo spends two minutes checking his injuries and surroundings before hearing the distressed cry.",
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM establishes elapsed time while Kenzo checks for wounds."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0037",
+          "endUid": "u0046",
+          "quote": "You count ten, fifteen different kinds of bird calls in the two minutes while you're checking if you're wounded"
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0571",
+        "endUid": "u0575"
+      },
+      "reading": "Kenzo and Elazar walk for an hour from the forest route to the muddy river.",
+      "actors": [
+        "Kenzo",
+        "Elazar"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Narrated elapsed walk to the river, not the remaining half-day forecast."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0571",
+          "endUid": "u0575",
+          "quote": "And, and you come out after an hour of walking"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0949",
+        "endUid": "u0951"
+      },
+      "reading": "Kenzo and Elazar reach Bedez in the evening after walking all day, including the sacred-tree stop.",
+      "actors": [
+        "Kenzo",
+        "Elazar"
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM dates the completed village arrival."
+      },
+      "duration": {
+        "text": "the whole day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM describes the day of walking; the hour to the river is included."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0949",
+          "endUid": "u0951",
+          "quote": "you arrive at evening after walking the whole day."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0964",
+        "endUid": "u0964"
+      },
+      "reading": "Kenzo spends his first night in Bedez settling in with Elazar and a feast.",
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "DM establishes the first night in the village."
+      },
+      "evidence": [
+        {
+          "startUid": "u0964",
+          "endUid": "u0964",
+          "quote": "And, you know, your first—your first day, like your first night, like Elazar just wants you to eat, wants you to get settled. He brings this big feast, like all sorts of stuff you've never had before."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1044",
+        "endUid": "u1045"
+      },
+      "reading": "The village council meets the morning following Kenzo's first evening in Bedez.",
+      "actors": [
+        "Kenzo",
+        "Elazar"
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Council forecast for tomorrow is followed by the narrated morning council."
+      },
+      "dateBoundaries": 1,
+      "evidence": [
+        {
+          "startUid": "u0979",
+          "endUid": "u0980",
+          "quote": "But, you know, it goes like this, you know. Elazar explains that, you know, there'll be a council in the morning, and he'll tell your story."
+        },
+        {
+          "startUid": "u1044",
+          "endUid": "u1045",
+          "quote": "And in the morning there was like a village council led by the elder Arrosa, the matriarch, and it's all in Lizardfolk. So you don't really understand. But Elazar tries to translate a little bit as things go as a lot goes around."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1082",
+        "endUid": "u1090"
+      },
+      "reading": "After the council, Kenzo learns Lizardfolk and village life over about three and a half weeks; the three-week language instruction belongs to this same training interval.",
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 24.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "About three and a half weeks, converted at seven days per week; the earlier three-week description is nested training, not extra time."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1082",
+          "endUid": "u1083",
+          "quote": "So it—I mean, you're not going to become, like, a super-fluent speaker, but over the next, like, three weeks of, like, immersion learning, you do get pretty good enough that you make, you know—I'll add Lizardfolk to your character sheet. I can do it later."
+        },
+        {
+          "startUid": "u1085",
+          "endUid": "u1090",
+          "quote": "And after about three and a half weeks of life in the village, where you're, you know, you're learning the names of plants, you're learning, you know, the sort of just the routines of village life, he takes you on a few walks. You can see—he tells you a little bit more about the— about the uh, the eldest land, the footprint of the Tharzen Anzinakoa, which is to the west near where the volcano that you saw when you were flying overhead is, um, that says, you know, you'll know more once I can, once I can show you about the forest, sort of cryptically."
+        },
+        {
+          "startUid": "u1105",
+          "endUid": "u1110",
+          "quote": "And after three, four weeks, three and a half weeks, he says he thinks you're ready."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1105",
+        "endUid": "u1110"
+      },
+      "reading": "After the training, Elazar wakes Kenzo just past midnight and leads him a few hours into the jungle to the hidden cave, arriving shortly before dawn.",
+      "actors": [
+        "Kenzo",
+        "Elazar"
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "just past midnight",
+          "precision": "approximate",
+          "basis": "Explicit departure anchor."
+        },
+        "end": {
+          "partOfDay": "before dawn",
+          "precision": "approximate",
+          "basis": "Explicit cave-arrival anchor."
+        }
+      },
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM narrates the completed walk."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1105",
+          "endUid": "u1110",
+          "quote": "One night, wakes you up just past midnight and takes you into the jungle, a few hours walk. So you arrive just somewhat before dawn, when it's still dark out but the birds are starting to sing."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1632",
+        "endUid": "u1642"
+      },
+      "reading": "Kenzo's subjective spirit-realm study feels like days while very little time passes in the world.",
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision",
+      "duration": {
+        "text": "days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM later confirms subjective days, distinct from elapsed time outside the journey."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1632",
+          "endUid": "u1642",
+          "quote": "your subjective perceptions of time passing are clearly altered by the magic of this place."
+        },
+        {
+          "startUid": "u1722",
+          "endUid": "u1722",
+          "quote": "Despite it feeling like days to him."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1716",
+        "endUid": "u1722"
+      },
+      "reading": "Kenzo awakens at sunrise after only three or four hours at most in the real world, then emerges from the cave.",
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "partOfDay": "sunrise",
+        "precision": "approximate",
+        "basis": "DM explicitly returns to sunrise outside the spirit journey."
+      },
+      "duration": {
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM says three or four hours at most; no precise minimum is established."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1716",
+          "endUid": "u1720",
+          "quote": "eventually awakes as the, as the sun rises, having only spent three or four hours at most in the real world here."
+        },
+        {
+          "startUid": "u1723",
+          "endUid": "u1725",
+          "quote": "Um, and as you emerge from this cave into the sun, you see there is a Hutsu vine growing all up your staff."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute date is spoken. September 30, 1748 and November 2, 1748 come from YAML; only the next-morning council and approximate training interval are established in narration.",
+    "expectedDateBoundaries": 33,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10"
+    ],
+    "explanation": "The played interval includes the arrival day, next-morning council, approximately three and a half weeks of training, and a later night/sunrise journey. The intervening calendar placement and final boundary are open. The proposed week waiting for other heroes is future play, not elapsed time. Subjective days inside the journey add no adventure days. Missing coverage of the YAML end is not an established contradiction."
+  }
+}
