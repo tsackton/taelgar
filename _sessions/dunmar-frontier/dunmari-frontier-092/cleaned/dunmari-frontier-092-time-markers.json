@@ -1,0 +1,326 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-092",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-session.yaml",
+    "sessionYamlSha256": "f09101dfec7b5a6e6d936cb6923a139fce8a199e06314f0484fdfc0907dfb8fa",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-transcript.md",
+    "transcriptSha256": "2818505a27bfd0b1171617425afce812dc3c1a93baca7d345e9501d4213dc36f",
+    "yamlDates": {
+      "start": "1749-03-18",
+      "end": "1749-03-21"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0128",
+        "endUid": "u0139"
+      },
+      "reading": "The party approaches Isenborg at about 3 p.m., with the winter sun already low.",
+      "evidence": [
+        {
+          "startUid": "u0128",
+          "endUid": "u0139",
+          "quote": "it's like 3 in the afternoon."
+        }
+      ],
+      "time": {
+        "clock": "15:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM’s explicit opening approach clock; calendar date is not spoken here."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0273",
+        "endUid": "u0274"
+      },
+      "reading": "Delwath interrupts after roughly two minutes of shouted giant conversation while the ship parks.",
+      "evidence": [
+        {
+          "startUid": "u0273",
+          "endUid": "u0274",
+          "quote": "After it goes back and forth for like 2 min"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Delwath’s description of elapsed shouted conversation"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0508",
+        "endUid": "u0513"
+      },
+      "reading": "A few minutes pass while Vetrdis is sent to fetch drinks during the party’s storytelling.",
+      "evidence": [
+        {
+          "startUid": "u0508",
+          "endUid": "u0513",
+          "quote": "Few minutes later."
+        },
+        {
+          "startUid": "u0559",
+          "endUid": "u0571",
+          "quote": "the the woman Vetrdis comes back and she's bringing— she is carrying like a tray"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates service after a few minutes; the later return confirms it."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0846",
+        "endUid": "u0853"
+      },
+      "reading": "The feast and conversation continue over the evening.",
+      "evidence": [
+        {
+          "startUid": "u0846",
+          "endUid": "u0853",
+          "quote": "over the course of the evening, as you feast and eat and talk"
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM explicitly locates the feast in the evening."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0961",
+        "endUid": "u0975"
+      },
+      "reading": "The party spends the night aboard the skyship and gets up the next morning at Isenborg.",
+      "evidence": [
+        {
+          "startUid": "u0961",
+          "endUid": "u0968",
+          "quote": "you spend the night on the sky ship, I assume. And then the next morning"
+        },
+        {
+          "startUid": "u0970",
+          "endUid": "u0975",
+          "quote": "as you sort of get up in the morning"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "Narrated overnight aboard ship; bedtime is not specified."
+        },
+        "end": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM establishes the next morning and waking."
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1199",
+        "endUid": "u1199"
+      },
+      "reading": "Algerd fetches his books and returns roughly fifteen minutes later.",
+      "evidence": [
+        {
+          "startUid": "u1199",
+          "endUid": "u1199",
+          "quote": "comes back like 15 min later"
+        }
+      ],
+      "actors": [
+        "Algerd"
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated retrieval interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1272",
+        "endUid": "u1281"
+      },
+      "reading": "The flight east from Isenborg reaches the Ket and continues into the northern forests, ending on the morning of March 21 after about 48 hours / 480 miles. The initial rough three-day description is refined by the detailed narration.",
+      "evidence": [
+        {
+          "startUid": "u1272",
+          "endUid": "u1281",
+          "quote": "we'll say you spend the next 3 days roughly here."
+        },
+        {
+          "startUid": "u1292",
+          "endUid": "u1296",
+          "quote": "you fly for the first day, you descend from the mountains, and you reach the frozen expanse of the Ket"
+        },
+        {
+          "startUid": "u1297",
+          "endUid": "u1304",
+          "quote": "The next day you continue traveling further east"
+        },
+        {
+          "startUid": "u1305",
+          "endUid": "u1306",
+          "quote": "March twentieth comes, and you continue traveling east until the morning of March 21st."
+        },
+        {
+          "startUid": "u1307",
+          "endUid": "u1309",
+          "quote": "that's 48 h. So 480 miles of travel."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "clock": "10:00",
+          "precision": "approximate",
+          "basis": "Departure clock stated at u1292–u1296; the departure’s absolute date is not independently spoken."
+        },
+        "end": {
+          "date": {
+            "year": 1749,
+            "month": 3,
+            "day": 21
+          },
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "March 21 morning is spoken; year 1749 comes from YAML."
+        }
+      },
+      "duration": {
+        "value": 48,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s final travel calculation, refining the earlier rough three-day montage"
+      },
+      "dateBoundaries": 2,
+      "completion": "completed",
+      "note": "The first-day/next-day sequence, March 20–21 anchors, and 48-hour calculation support two travel date transitions; the rough earlier three-day phrasing is retained as approximate, not counted as an additional day."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1292",
+        "endUid": "u1296"
+      },
+      "reading": "Departure from Isenborg is roughly 10 a.m.; this dates the start of the journey rather than adding another interval.",
+      "evidence": [
+        {
+          "startUid": "u1292",
+          "endUid": "u1296",
+          "quote": "you leave the steading of Isenborg around, you know, 10 in the morning, roughly"
+        }
+      ],
+      "time": {
+        "clock": "10:00",
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Explicit approximate departure clock."
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2086",
+        "endUid": "u2092"
+      },
+      "reading": "After rescuing and collecting the two travelers, the party flies about an hour and a half to their hidden village, arriving around midmorning.",
+      "evidence": [
+        {
+          "startUid": "u2078",
+          "endUid": "u2085",
+          "quote": "So you get back on the ship."
+        },
+        {
+          "startUid": "u2086",
+          "endUid": "u2092",
+          "quote": "an hour half, roughly, bringing you to sort of mid-morning."
+        }
+      ],
+      "duration": {
+        "value": 1.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s narrated approximate flight duration"
+      },
+      "time": {
+        "partOfDay": "midmorning",
+        "precision": "approximate",
+        "basis": "DM describes the arrival as midmorning, without a numerical clock."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2111",
+        "endUid": "u2119"
+      },
+      "reading": "The party is awarded a short rest for the trip to the village; this is nested in that flight rather than extra time after arrival.",
+      "evidence": [
+        {
+          "startUid": "u2111",
+          "endUid": "u2119",
+          "quote": "You all had a chance for a short rest on the trip"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t09"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "March 20 and March 21 are independently spoken. The year and the opening March 18 date come from YAML; the completed overnight and two-day flight are consistent with that working start.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": 3,
+    "evidence": [
+      "t01",
+      "t04",
+      "t05",
+      "t07",
+      "t08",
+      "t09",
+      "t10"
+    ],
+    "explanation": "One overnight at Isenborg plus the subsequently specified 48-hour flight account for three date transitions. The initial rough three-day travel estimate is refined by the next-day sequence and March 21 endpoint, not added to it. The village short rest is within its flight. Earlier travel from Tollen and historical stories remain background; no unreported days are filled from drEnd."
+  }
+}

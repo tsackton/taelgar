@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-time-markers.json",
+    "sha256": "327646357da651c6a6bdd49b774e5f53a5d5763df65d1a6aef7559060c1eca9e"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-transcript.md",
+    "sha256": "2818505a27bfd0b1171617425afce812dc3c1a93baca7d345e9501d4213dc36f"
+  },
+  "dateAssessment": "The working calendar is YAML’s March 18–21, 1749. The transcript independently names March 20 and the morning of March 21; the year and opening date come from YAML. One overnight at Isenborg and the detailed 48-hour flight support three date transitions. The earlier rough three-day travel description is retained in t07 and read as refined by the later day-by-day narration and 48-hour calculation. Departure is “roughly” 10 a.m.; the later arrival is called midmorning, so no precise clock is calculated from those approximations. No days are supplied from the metadata endpoint. Historical tales and previous travel from Tollen do not extend this session’s played interval.",
+  "watches": [
+    {
+      "day": "March 18, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Isenborg approach around 3 p.m.; brief parking conversation and drink service follow.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "startDate": "1749-03-18",
+      "endDate": "1749-03-18"
+    },
+    {
+      "day": "March 18, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The feast and court conversations continue over the evening.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1749-03-18",
+      "endDate": "1749-03-18"
+    },
+    {
+      "day": "March 18–19, 1749",
+      "startWatch": null,
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Sleep aboard the ship overnight; wake the next morning. Bedtime and sleep duration remain open.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1749-03-18",
+      "endDate": "1749-03-19"
+    },
+    {
+      "day": "March 19, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Before departure, Algerd retrieves his books in roughly fifteen minutes.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-03-19",
+      "endDate": "1749-03-19"
+    },
+    {
+      "day": "March 19, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Isenborg departure is roughly 10 a.m., at the morning–midday watch boundary.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1749-03-19",
+      "endDate": "1749-03-19"
+    },
+    {
+      "day": "March 21, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Reach the elk sighting on March 21 morning after about 48 hours and 480 miles east.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1749-03-21",
+      "endDate": "1749-03-21"
+    },
+    {
+      "day": "March 21, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Reach the hidden village around midmorning after a ninety-minute flight, including the credited short rest.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "startDate": "1749-03-21",
+      "endDate": "1749-03-21"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Zegron identity reference",
+      "path": "People/Historical Figures/Zegron.md",
+      "sha256": "14af9148847f4dc3099c1bcd037e9d12dab1906b7bd071ff906691a53da5889f"
+    }
+  ]
+}
