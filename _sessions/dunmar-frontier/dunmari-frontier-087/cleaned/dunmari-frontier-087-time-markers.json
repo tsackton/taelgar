@@ -1,0 +1,509 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-087",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-session.yaml",
+    "sessionYamlSha256": "50ccc0f23949247d31c754ee3de3ab046a7ab3338154ba2c172a95b0245dbb47",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-transcript.md",
+    "transcriptSha256": "528b66ec3d907602f371974a40cd127d1a8efc7593c43620fef6c52f2c8aa2e2",
+    "yamlDates": {
+      "start": "1749-01-08",
+      "end": "1749-01-16"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0010"
+      },
+      "reading": "Faldrak dates his diary 4 Barukhelm 5881 while the ship departs; the Dwarven calendar is not converted to DR.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0010",
+          "quote": "“4 Barukhelm 5881,” he writes."
+        }
+      ],
+      "actors": [
+        "Faldrak"
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0020",
+        "endUid": "u0024"
+      },
+      "reading": "Play revisits the previous night's examination of the inert forge, before packing up.",
+      "evidence": [
+        {
+          "startUid": "u0020",
+          "endUid": "u0024",
+          "quote": "DM: You think back to your vision in the mirror last night.\n\nDM: So, remembering the scene where you, before packing up, held the mirror up to this now inert forge, watching to see its history and what had been created here. The mirror fades, and you see a scene, the forge now brightly lit."
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "night",
+        "relative": {
+          "relation": "before",
+          "reference": "t01",
+          "anchor": "the ship departure during which Faldrak writes"
+        },
+        "basis": "DM explicitly says last night; no absolute DR date spoken"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0352",
+        "endUid": "u0352"
+      },
+      "reading": "The narration confirms the conversation is taking place during flight, returning to the opening journey.",
+      "evidence": [
+        {
+          "startUid": "u0352",
+          "endUid": "u0352",
+          "quote": "DM: But let's as you're having this conversation. You're also flying."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0372",
+        "endUid": "u0375"
+      },
+      "reading": "Seeker opens a breakfast vignette shortly after waking aboard Vindristjarna; its exact position within the journey remains open.",
+      "evidence": [
+        {
+          "startUid": "u0372",
+          "endUid": "u0375",
+          "quote": "Seeker: Shortly after waking over breakfast Seeker's like:\n\nSeeker: The star on the wind. That's what it means, you know, Vindristjarna. I wonder if it's meant to light up? Why would it be called that, anyway? The star on the wind."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "morning",
+        "basis": "breakfast shortly after waking supports an approximate morning, without establishing an additional overnight"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0401",
+        "endUid": "u0406"
+      },
+      "reading": "A day of flying, including the evening and the mountain crossing, brings the ship to the mist-covered Orenlas forest.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0019",
+          "quote": "the ship turns to begin its 24 h journey to Orenlas"
+        },
+        {
+          "startUid": "u0401",
+          "endUid": "u0406",
+          "quote": "After a day of flying, flying through the evening over the mountains that separate the Cymean Peninsula from the forest of Orenlas, you pass over the mountains, and then begin to descend, and you can see there's a large lake."
+        }
+      ],
+      "duration": {
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "actual narrated day of flight; the opening forecast was 24 hours",
+        "value": 1
+      },
+      "completion": "completed",
+      "note": "Flying through the evening does not by itself fix the arrival watch; later Orenlas daylight and twilight are locally variable."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0520",
+        "endUid": "u0530"
+      },
+      "reading": "Delwath pauses at the forest entrance for about a minute before beckoning the others onward.",
+      "evidence": [
+        {
+          "startUid": "u0520",
+          "endUid": "u0530",
+          "quote": "And then he kind of after about a minute, he like he whispers something like under his breath that you can't hear."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time",
+        "value": 1
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0531",
+        "endUid": "u0537"
+      },
+      "reading": "Kenzo takes a minute to commune while the others gather their things before entering the forest; this is inserted retrospectively.",
+      "evidence": [
+        {
+          "startUid": "u0531",
+          "endUid": "u0531",
+          "quote": "Before all this is happening to—Tim, Kenzo communes with nature."
+        },
+        {
+          "startUid": "u0534",
+          "endUid": "u0537",
+          "quote": "So Kenzo takes a minute as everybody's gathering their stuff and getting ready to sort of lean on his staff, and and you reach your mind out."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time",
+        "value": 1
+      },
+      "completion": "completed",
+      "note": "The source does not settle its ordering or overlap with Delwath's pause; do not add the two into a measured shared interval."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0629",
+        "endUid": "u0633"
+      },
+      "reading": "The forest walk loses a reliable duration: the party cannot tell whether ten minutes or ten hours have passed.",
+      "evidence": [
+        {
+          "startUid": "u0629",
+          "endUid": "u0633",
+          "quote": "now you're not sure if it's been 10 min or 10 h."
+        }
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "explicitly uncertain perception of the completed walk, not measured bounds",
+        "text": "ten minutes or ten hours, uncertain"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0986",
+        "endUid": "u1018"
+      },
+      "reading": "After about ten minutes of Kenzo's communion at the Elder Tree, a vanilla-scented flower begins blooming on his staff.",
+      "evidence": [
+        {
+          "startUid": "u0986",
+          "endUid": "u0990",
+          "quote": "For a minute you don't feel anything"
+        },
+        {
+          "startUid": "u1017",
+          "endUid": "u1018",
+          "quote": "After maybe 10 min he starts to smell vanilla in the air."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time",
+        "value": 10
+      },
+      "completion": "completed",
+      "note": "The initial minute is part of this interval. A suggested hour-long stay is not independently confirmed."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1053",
+        "endUid": "u1057"
+      },
+      "reading": "The sun sets as dinner guests arrive. The party thinks it is still the day it disembarked via the Rainbow Bridge, but a full day of forest walking remains possible.",
+      "evidence": [
+        {
+          "startUid": "u1053",
+          "endUid": "u1057",
+          "quote": "DM: So you cook, and the sun sets and the stars come out brilliantly. And again, it's really hard to get a sense of time here. But you think this is still the same day that you left the ship. You're not really entirely sure you could have been walking for 24 h, for all you know. The guests begin to trickle in. You have Caretaker Erdhin, who has returned and is happy to at—for the hospitality."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "sunset",
+        "basis": "stated Orenlas sunset; the relation to the ship-departure civil day is explicitly tentative"
+      },
+      "note": "The uncertainty concerns elapsed forest time, not proof of a second completed day."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1379",
+        "endUid": "u1385"
+      },
+      "reading": "Dinner ends in full dark, and the party prepares bedrolls and gets some rest.",
+      "evidence": [
+        {
+          "startUid": "u1379",
+          "endUid": "u1385",
+          "quote": "So, as the meal ends, the sun has set. Twilight and has turned to full dark."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "night",
+        "basis": "explicit transition from twilight to full dark"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1379",
+        "endUid": "u1387"
+      },
+      "reading": "The party rests after dinner and leaves the following morning; this establishes one overnight transition, without a measured rest duration.",
+      "evidence": [
+        {
+          "startUid": "u1379",
+          "endUid": "u1385",
+          "quote": "But you get some rest."
+        },
+        {
+          "startUid": "u1386",
+          "endUid": "u1387",
+          "quote": "9 in the morning, you you leave as—"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "partOfDay": "night",
+          "basis": "bedrolls after dinner in full dark"
+        },
+        "end": {
+          "precision": "approximate",
+          "clock": "09:00",
+          "partOfDay": "morning",
+          "basis": "DM states nine in the morning after the rest"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "The source calls this some rest, not an explicitly completed eight-hour long rest."
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1386",
+        "endUid": "u1387"
+      },
+      "reading": "The party leaves with Ealwen at nine in the morning to visit Arheste.",
+      "evidence": [
+        {
+          "startUid": "u1386",
+          "endUid": "u1387",
+          "quote": "9 in the morning, you you leave as—"
+        },
+        {
+          "startUid": "u1388",
+          "endUid": "u1393",
+          "quote": "Ealwen comes to lead you to Arheste."
+        }
+      ],
+      "time": {
+        "clock": "09:00",
+        "partOfDay": "morning",
+        "precision": "exact",
+        "basis": "DM states nine in the morning"
+      }
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1551",
+        "endUid": "u1551"
+      },
+      "reading": "Arheste pauses for about a minute, overwhelmed while recounting the destruction of her homeland.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates a minute-long pause during the current conversation, not an ancient event"
+      },
+      "actors": [
+        "Arheste"
+      ],
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1551",
+          "endUid": "u1551",
+          "quote": "DM: She pauses for a minute, clearly overwhelmed by an emotion."
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1750",
+        "endUid": "u1751"
+      },
+      "reading": "The party spends a good part of the day talking with Arheste; Ealwen brings lunch during that conversation.",
+      "evidence": [
+        {
+          "startUid": "u1750",
+          "endUid": "u1751",
+          "quote": "DM: So okay, you spend a good part of the day. You're chatting. The gardener Ealwen goes and brings lunch and comes back."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "midday",
+        "basis": "lunch anchors a point within the established conversation"
+      },
+      "duration": {
+        "unit": "day",
+        "precision": "vague",
+        "basis": "narrated elapsed time",
+        "text": "a good part of the day"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1911",
+        "endUid": "u1915"
+      },
+      "reading": "Several days of careful planning pass before Riswynn’s message arrives at dinner time.",
+      "evidence": [
+        {
+          "startUid": "u1911",
+          "endUid": "u1915",
+          "quote": "DM: Several days in careful planning. As dinner time comes, get a message from Riswynn. A massive siege engine, 400 feet tall, is nearly complete. Not survive for long once it is finished. Please come."
+        }
+      ],
+      "duration": {
+        "unit": "day",
+        "precision": "vague",
+        "basis": "narrated elapsed time",
+        "text": "several days"
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "dinner time",
+        "relative": {
+          "relation": "same_time",
+          "reference": "t16",
+          "anchor": "current day confirmed later as January 16"
+        },
+        "basis": "DM narrates completed planning and the dinner-time message; closing date is confirmed later"
+      },
+      "note": "Do not assign a numeric number of days from the YAML gap or add this interval twice to the preceding planning conversation."
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1940",
+        "endUid": "u1945"
+      },
+      "reading": "The current date, after Riswynn’s message and before departure, is approximately January 16. January 20 is a forecast arrival, not completed travel.",
+      "evidence": [
+        {
+          "startUid": "u1940",
+          "endUid": "u1945",
+          "quote": "It's currently like January sixteenth."
+        },
+        {
+          "startUid": "u1946",
+          "endUid": "u1950",
+          "quote": "On the twentieth"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "date": {
+          "year": 1749,
+          "month": 1,
+          "day": 16
+        },
+        "basis": "month/day spoken; year inherited from session YAML"
+      },
+      "note": "The three-and-a-half-day flight is an estimate; it has not been completed in this transcript."
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1952",
+        "endUid": "u1952"
+      },
+      "reading": "The party leaves the elven forest after the dinner-time summons; the next flight is begun, without a confirmed arrival.",
+      "evidence": [
+        {
+          "startUid": "u1952",
+          "endUid": "u1952",
+          "quote": "DM: So a few a few mechanical things. As you leave the elven forest and train and start to plan and psych yourself up for the fight against Grash, you all level up."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "evening",
+        "date": {
+          "year": 1749,
+          "month": 1,
+          "day": 16
+        },
+        "basis": "departure follows the current-date confirmation and the stated assumption of leaving this evening at u1946–u1947"
+      },
+      "completion": "begun"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "January 16 is independently spoken at u1940–u1945; 1749 is inherited from YAML. The opening diary uses an unconverted Dwarven date. No spoken DR opening date establishes January 8.",
+    "expectedDateBoundaries": 8,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11",
+      "t12",
+      "t13",
+      "t18",
+      "t14",
+      "t15",
+      "t16",
+      "t17"
+    ],
+    "explanation": "The played span includes the previous-night forge examination, a day of flight, a forest walk of uncertain duration, one explicit overnight, daytime consultation and several days of planning ending January 16. These are compatible with the metadata but do not determine an exact total. The forecast flight to January 20 is outside the completed span. No interval is invented to fill the eight-day YAML difference."
+  }
+}

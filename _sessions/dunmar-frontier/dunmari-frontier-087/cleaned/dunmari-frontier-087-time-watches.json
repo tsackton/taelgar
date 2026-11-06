@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-time-markers.json",
+    "sha256": "cc5eef79afabb5f0d101aed9c65f7d31c4b00e7afbcd9c8b1e1ee7cc7079849f"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-transcript.md",
+    "sha256": "528b66ec3d907602f371974a40cd127d1a8efc7593c43620fef6c52f2c8aa2e2"
+  },
+  "dateAssessment": "Working campaign year: **1749**, from YAML; the closing **January 16** is spoken at u1940–u1945. The YAML span is January 8–16, assessed **compatible**, with an incomplete boundary total. Earlier rows use relative frames rather than filling that interval. Session 86’s closing sunny-morning ship departure (u2373–u2376), checked against this session’s opening u0004–u0019, supports the inferred departure watch; its earlier crafting duration is not imported as session-87 elapsed time. A day of flying from that morning supports a following-morning arrival, with evening crossed en route. The forest walk and whether dinner is on the same day as bridge disembarkation remain uncertain (t08, t10), and the grove’s perpetual twilight supplies no clock. The dated campaign record assigns January 13 to the mirror, January 14 to departure, January 15 to dinner, and January 16 to Arheste, but those dates are not independently established here. Its one-day consultation differs from the later several-days planning language; that scope remains open below. Faldrak’s 4 Barukhelm 5881 diary date is retained without calendar conversion. The January 20 arrival is a forecast.",
+  "watches": [
+    {
+      "day": "Night before ship departure",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Last night’s forge examination is recalled; no precise civil watch or DR date is supplied.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "Flight-departure day",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Session 86’s sunny morning departure continues; the breakfast vignette follows waking.",
+      "markers": [
+        "t01",
+        "t03",
+        "t04"
+      ],
+      "sourceRanges": [
+        [
+          "u0004",
+          "u0019"
+        ],
+        [
+          "u0372",
+          "u0375"
+        ]
+      ]
+    },
+    {
+      "day": "After the day of flight",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "A day’s flight from morning passes through evening; arrival is approximately the following morning.",
+      "markers": [
+        "t05",
+        "t06",
+        "t07"
+      ]
+    },
+    {
+      "day": "Forest-entry day; endpoint uncertain",
+      "startWatch": "morning",
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The forest walk feels like ten minutes or ten hours; its endpoint watch remains open.",
+      "markers": [
+        "t08"
+      ]
+    },
+    {
+      "day": "Before the first dinner",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "A flower blooms after about ten minutes of communion; no clock dates the sanctuary visit.",
+      "markers": [
+        "t09"
+      ]
+    },
+    {
+      "day": "First dinner; day of bridge disembarkation uncertain",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Sunset brings dinner guests; they tentatively place dinner on the day they stepped off the ship.",
+      "markers": [
+        "t10"
+      ]
+    },
+    {
+      "day": "End of the first dinner",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Twilight becomes full dark before bedrolls are prepared; no numerical night watch is established.",
+      "markers": [
+        "t11"
+      ]
+    },
+    {
+      "day": "Following overnight into the next morning",
+      "startWatch": null,
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Bedroll rest follows full dark; Ealwen leads the party out at nine the next morning.",
+      "markers": [
+        "t12",
+        "t13"
+      ]
+    },
+    {
+      "day": "Arheste consultation, before lunch",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Arheste pauses about a minute while recounting Rostaurë; the conversation’s clock time remains unspecified.",
+      "markers": [
+        "t18"
+      ]
+    },
+    {
+      "day": "Arheste consultation day",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Ealwen brings lunch during a conversation lasting a good part of the day.",
+      "markers": [
+        "t14"
+      ]
+    },
+    {
+      "day": "Through January 16, 1749",
+      "startWatch": null,
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Several days of planning end with a dinner summons; January 16 is spoken before evening departure.",
+      "markers": [
+        "t15",
+        "t16",
+        "t17"
+      ],
+      "endDate": "1749-01-16",
+      "scope": "Planning scope unresolved"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 86 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-transcript.md",
+      "sha256": "137dbd02088717b3348d341b3d1b230651072ce33ec6d692c06d664d576de123"
+    },
+    {
+      "label": "Dated Session 87 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 87 (DuFr).md",
+      "sha256": "0f40b178829533981e246b14eb0338e0b847dee8b288f429322d17e7cf9e404b"
+    }
+  ]
+}
