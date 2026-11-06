@@ -481,13 +481,14 @@
         }
       ],
       "review": {
-        "confidence": "high",
+        "confidence": "medium",
         "status": "automatedReviewed"
       },
       "names": [
         "Ocean"
       ],
-      "note": "People/Extraplanar Powers/Sentient Ocean.md"
+      "note": "People/Extraplanar Powers/Sentient Ocean.md",
+      "confidenceExplanation": "The source establishes a living ocean and its songs, but no clear worship or divine identity; classification as an NPC remains plausible."
     },
     {
       "id": "e015",
