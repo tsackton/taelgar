@@ -1,0 +1,747 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "aee016d5485193ac66a78fdfd034d0d8f96775e9ff0cfd4af944e47b27d303e2"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-entity-map.json",
+      "sha256": "e21ba4055d25312e831e1595d0128992f314deb457d33200b24ae1b23172e756"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Vashen’s directions to the Prism Well connection",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0031",
+        "endUid": "u0046"
+      },
+      "lines": [
+        "%% u0031:0-64, u0032:0-104, u0033:0-65, u0034:0-78, u0035:0-50, u0036:0-47, u0037:0-90 %%",
+        "DM: Yes, you are. You are told by Count Vashen, the Broken Mask, who was a trusted member of her court until he betrayed her, possibly by accident—it wasn't entirely clear—that all of the the keeps and the outposts had hidden within them fragment of the Prism Well, that it wasn't quite clear to you whether it would point the way or summon the Prism Well itself, but to activate it, it needed to be lit by sunlight. Which, looking across the landscape, seems rather challenging, as there is no sunlight here.",
+        "",
+        "%% u0038:0-49, u0039:0-5, u0040:0-31, u0041:0-19, u0042:0-24 %%",
+        "((Brief spell proposal))",
+        "",
+        "%% u0043:0-92 %%",
+        "Delwath: Do we know where this item—like, he was describing something at the heart of the keep, right?",
+        "",
+        "%% u0044:0-13, u0045:0-86, u0046:0-66 %%",
+        "DM: Yeah, I mean, he didn't say exactly where it was. Just in the keep, hidden in the keep, is what he said. Wasn't clear that he knew where it was. Just it would be somewhere."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So we pick up in the Feywild on the edge of night, after having traveled across the rolling fields and hills, vineyards and groves of ember wine. Reaching the Sunset Gate, the vast wall of crystallized sunset that stretches across Feywild, marking the border between night and day. Turning north and crossing into Amberglow, passing through, passing over four giants of some kind, demanding your blood and fighting off hunters sent from—sent by the Gloom Shaper, Lord Umbria, the fey lord of Duskmire, on the northern border of Amberglow, who has, since the Cloud Spinner's departure, imprisonment, slowly encroached on the border kingdoms and even parts of Amberglow itself.",
+          "DM: Crossing a river, and then coming brief, coming and stopping at the edge of the river of darkness that flows out from the Sunset Gate from Hollowdark, the realm of Harrow and Wend, the fey rulers, or maybe one ruler—nobody's ever quite sure if these are one or two people—of the realm to the east, across the Sunset Gate, a place, from what you've gathered, of terror, of the creeping dark, of the footsteps sneaking up behind you in the night.",
+          "DM: And here, where Red Sun Keep once—Red Sun Watch once stood guard watching over the borders of Amberglow, the darkness of Hollowdark has crashed through the Sunset Gate and spread, forming what seems like an impenetrable river. The only flicker of light that you see looking across the landscape is one lit tower where some sunset ember still seems to glow. About a mile in the distance you have stopped, paused, rested. Come to a halt to try and plot your way forward here on the edge of this night.",
+          "DM: So how do you want to begin?",
+          "Riswynn: There's a hope that there's some item, magical items that connect to the Cloud Spinner's well of power place, because everywhere she had, like, little nuggets of connection."
+        ],
+        "after": [
+          "Delwath: Right.",
+          "Wellby: Scout the tower. See what's there.",
+          "Delwath: Yeah.",
+          "Kenzo: Hey, Tim? I can also—Kenzo will also do a little aura scan.",
+          "DM: So, yes, Kenzo can do an aura scan. What's everybody else—is anybody else doing anything?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The darkness-shaping consciousness",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0054",
+        "endUid": "u0067"
+      },
+      "lines": [
+        "%% u0054:0-43, u0055:0-43, u0056:0-30, u0057:0-1, u0058:0-87, u0059:0-21, u0060:0-62, u0061:0-2, u0062:0-8, u0063:0-195, u0064:0-63, u0065:0-91, u0066:0-34, u0067:0-42 %%",
+        "DM: ((Aura scan setup)) You can—you can feel, not in the lit tower, but in some other apparent tower nearby, a, you know, clearly the sort of center of malevolent consciousness that seems to be shaping and pulling the darkness. Focused—it's deeply focused as you, as you reach your mind through it, and it seems to be intensely—you sort of glance off its, its aura and can tell it's pulling and shaping the darkness, pulling it through and pushing it further into Amberglow. Powerful, imposing its will on the very form of the land of Amberglow itself."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Scout the tower. See what's there.",
+          "Delwath: Yeah.",
+          "Kenzo: Hey, Tim? I can also—Kenzo will also do a little aura scan.",
+          "DM: So, yes, Kenzo can do an aura scan. What's everybody else—is anybody else doing anything?",
+          "Delwath: No, I mean, I don't think scouting's a bad idea, but I'm not going to do anything about it just yet."
+        ],
+        "after": [
+          "DM: Below that in the courtyard—again, you can't see any of these features. It's—the darkness is—it's not just darkness. It almost seems like black fog. Impenetrable. You sense dozens, perhaps—Wow! Fragments of just terror, just incoherent screams of fear, whispers of, you know, whispers of, like, the fear of the dark sort of creeping sounds, all sort of writhing in a pile kind of at the base of the tower.",
+          "DM: And then you sense something moving, something passing through the darkness, maybe a patrol of some sort, more focused, looking for stragglers or anybody approaching, but moving sort of lazily, like a group of maybe 7 minds sort of drifting through the dark. Again, you can't see anything, but you can sense their auras. Lazy auras, but kind of lazy and cruel.",
+          "Delwath: Okay.",
+          "Wellby: I wonder if we can stealth our way over to the big evil presence and destroy that? Like, if we take out the boss, do the rest of them sort of dissipate or flee?",
+          "Delwath: Maybe. I mean, I don't—I don't think there's much. There's like patrols, but they don't sound like they're that hard to avoid. So it's dark. That helps us. We could go, and we could use invisibility. We could fly."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Valeris refuses the darkness and guards the mounts",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0123",
+        "endUid": "u0128"
+      },
+      "lines": [
+        "%% u0123:0-15, u0124:0-85, u0125:0-55 %%",
+        "DM: Griffins. Yeah. Well, Valeris is happy to tend the griffins as long as he stays in the sunlight. He's—he's not going. He's not going into the dark. It's like,",
+        "",
+        "%% u0126:0-11 %%",
+        "Delwath: Yeah, yeah.",
+        "",
+        "%% u0127:0-13, u0128:0-75 %%",
+        "DM: “You’re crazy. I'll stay here and watch the mounts, and if you come out that will be great.”"
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah. I think, I think that anything else is probably not a brilliantly good idea.",
+          "Riswynn: All right. So we get Valeris and the wyverns situated somewhere. Yeah, like, yeah. 10 o'clock in the middle of the plains here, wherever we are.",
+          "Wellby: We can go back in the mirror for now.",
+          "Delwath: Yep.",
+          "Riswynn: All right. The—what are we on, griffins?"
+        ],
+        "after": [
+          "Delwath: Yeah, let's just see what happens. I mean, I think we go quietly. I don't know if invisibility is worth it, but we could...",
+          "Wellby: Let's, let's send a bat ahead. It's like, yeah, it's [garbled], and then we'll know what's what.",
+          "Delwath: No, that's, that's fine.",
+          "Wellby: Recording this stuff, so I'll pull a bat out of the hat and Beast Sense it and send it exploring.",
+          "DM: Okay. So you send it flying towards the castle. Oh, hey! Here's Eric. Hey!"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "How the Cloud Spinner made and lost the amber lights",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0190",
+        "endUid": "u0211"
+      },
+      "lines": [
+        "%% u0190:0-58 %%",
+        "Seeker: What's an amber light again? That sounds like a good thing.",
+        "",
+        "%% u0191:0-60, u0192:0-122 %%",
+        "Delwath: Yeah, they're like the things that the Cloud Spinner made to guard her realm. Why she made them is not super clear, but they're like glowing lanterns that are somehow connected to her.",
+        "",
+        "%% u0193:0-17, u0194:0-31, u0195:0-8, u0196:0-22, u0197:0-12 %%",
+        "((Brief lore-check setup))",
+        "",
+        "%% u0198:0-67, u0199:0-127, u0200:0-12 %%",
+        "DM: Both Lady Eventide and Lirien. These were made by the Cloud Spinner as sort of fragments of her power that she could hand off to trusted advisors so they'd be able to act in her name when she was not able to.",
+        "",
+        "%% u0201:0-86, u0202:0-77, u0203:0-38, u0204:0-34, u0205:0-40 %%",
+        "DM: You know, she couldn't be everywhere across her realm at once, and so she would create—essentially break off a small chunk of her, of her sort of fey magic, and, and give it to somebody so that they could use a small fraction of her power. But they all went out when she vanished.",
+        "",
+        "%% u0206:0-42, u0207:0-41, u0208:0-46, u0209:0-45, u0210:0-128, u0211:0-39 %%",
+        "DM: Some of them were captured by hunters from Duskmire, who've been using them to track the Cloud Spinner. Some of them were captured—at least one was captured by Harrow and Wend, who is also using them to track the Cloud Spinner. That's who you fought on the—on Vindristjarna before you entered the Feywild. The fate of the rest of them is unknown."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yep.",
+          "DM: You're on the edge of the darkness right now.",
+          "Seeker: And what do we think is at the top of that glowing tower?",
+          "Delwath: We don't really know.",
+          "Riswynn: Maybe one of those amber lights, possibly someone keeping it going."
+        ],
+        "after": [
+          "Kenzo: Can you guys hear me?",
+          "Delwath: Yep.",
+          "Kenzo: Okay, cool. And I think the question is, do we just, like, barge in full force and just see what happens? Or do we try to be sneaky?",
+          "Delwath: I think we should be a little sneaky.",
+          "Seeker: What's the distance as the crow flies from where we stand to that top of the tower?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Keeping the Cloud Spinner safely contained",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0327",
+        "endUid": "u0333"
+      },
+      "lines": [
+        "%% u0327:0-50, u0328:0-109, u0329:0-128, u0330:0-11 %%",
+        "Riswynn: So before we go there, where we might be in peril, are we at all considering taking the Cloud Spinner out and just seeing what being in that space does for her, or do we—we're sure we need the Prism Well, and so we're not even going to risk it because she could get captured, or something? Just wanted—",
+        "",
+        "%% u0331:0-18 %%",
+        "Wellby: I think the latter.",
+        "",
+        "%% u0332:0-23 %%",
+        "Delwath: Yeah, I—I'm the latter.",
+        "",
+        "%% u0333:0-82 %%",
+        "Riswynn: That's what I think, too. But I didn't want to spend time talking about it. I mean—"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Yeah, right.",
+          "Delwath: The right place to start, right? Like, it's the last remains of Amberglow, right? So be something—",
+          "Seeker: Else is protecting it.",
+          "Delwath: Yeah. So it seems like a good place to start. Let's—",
+          "Seeker: Let's just all fly up there."
+        ],
+        "after": [
+          "Wellby: That—",
+          "Delwath: Between Seeker and Delwath, we could Dimension Door four people there. Unfortunately, somebody gets left behind.",
+          "Wellby: I'm pretty sneaky, though.",
+          "Kenzo: I'm sneaky, too.",
+          "Delwath: Yeah. But isn't it kind of a long walk through the dark?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The party still has a rope ladder",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1486",
+        "endUid": "u1492"
+      },
+      "lines": [
+        "%% u1486:0-21, u1487:0-73, u1488:0-68 %%",
+        "Seeker: Around at the others. Well, that worked out just fine. It took a—took it quite a while, though. I think we, we have at least one other ladder, don't we, we could use?",
+        "",
+        "%% u1489:0-31, u1490:0-32, u1491:0-32, u1492:0-39 %%",
+        "DM: Yes, you have plenty of ladders. That's only a 10-foot—it's like 12-foot drop to the ground below. Easy to just drop your rope ladder down."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Silence for a minute. 2 min, 3 min, comes, comes back—",
+          "Seeker: Oh!",
+          "DM: Pokes its head up, waves, and then you hear a crack, crack, crack! Crack! Crack! And it slips, falls down completely to the ground, as all of the rungs of the ladder broke under its weight.",
+          "Seeker: Huh!",
+          "DM: But it won'—"
+        ],
+        "after": [
+          "Seeker: All right. Well.",
+          "Wellby: Aura sense and see if the thing we just killed was the big, bad, evil thing that was pulling the darkness through? Or is that still waiting for us?",
+          "DM: Kenzo.",
+          "Seeker: Question.",
+          "DM: Six ki to do it again, so probably not worth it. But it's unlikely this was the big bad."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The inert lantern needs an attuned bearer",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1644",
+        "endUid": "u1663"
+      },
+      "lines": [
+        "%% u1644:0-30 %%",
+        "Delwath: Amber light that the woman had.",
+        "",
+        "%% u1645:0-9 %%",
+        "Riswynn: Went out.",
+        "",
+        "%% u1646:0-14 %%",
+        "Delwath: Did we keep it?",
+        "",
+        "%% u1647:0-24 %%",
+        "DM: Think you still have it?",
+        "",
+        "%% u1648:0-17 %%",
+        "Seeker: What? What is it?",
+        "",
+        "%% u1649:0-12 %%",
+        "Delwath: The lantern.",
+        "",
+        "%% u1650:0-47 %%",
+        "Seeker: Oh, take that out and see if it makes any light.",
+        "",
+        "%% u1651:0-45, u1652:0-21, u1653:0-6, u1654:0-16 %%",
+        "((Idea of bottling the upstairs light))",
+        "",
+        "%% u1655:0-88 %%",
+        "Wellby: Yeah, let's see if we can do anything with that lantern, activate it one way or another.",
+        "",
+        "%% u1656:0-8, u1657:0-18, u1658:0-52 %%",
+        "Riswynn: Alright! Can we go back up the light space and take out the amber light lantern?",
+        "",
+        "%% u1659:0-58, u1660:0-27 %%",
+        "DM: It's inert unless somebody—somebody needs to attune to it. That was the problem before.",
+        "",
+        "%% u1661:0-55 %%",
+        "Delwath: Which nobody has attunement slots, and it takes a while.",
+        "",
+        "%% u1662:0-11 %%",
+        "DM: Yes, I mean.",
+        "",
+        "%% u1663:0-37 %%",
+        "Seeker: Seems like the best solution, though."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Fixing it in the right—like, because presumably—",
+          "Delwath: From—where would you put the mirror? What would you be reflecting, though?",
+          "Seeker: Amberglow. It would be a, a giant lens up in the trapdoor, and a mirror underneath it to that—",
+          "Delwath: Light that we had.",
+          "Wellby: Yeah."
+        ],
+        "after": [
+          "Riswynn: Should have brought Grover, or whatever his name is. Make him attune to the amber light.",
+          "Wellby: Yes.",
+          "Seeker: Oh!",
+          "Delwath: I sort of feel like we don't really know that even attuning to it would be helpful, although I guess it might.",
+          "Wellby: I mean, I sort of think that the big, bad, evil thing is probably sitting or guarding, or like defending."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Bad omens for confronting the dark-tower enemy",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1706",
+        "endUid": "u1720"
+      },
+      "lines": [
+        "%% u1706:0-24, u1707:0-103 %%",
+        "Delwath: If we, if we strike out—We plan to rapidly strike out to the tower of darkness and attempt to defeat whatever evil lurks there.",
+        "",
+        "%% u1708:0-57 %%",
+        "Wellby: In order to bring us closer to the, the well. The—what you—",
+        "",
+        "%% u1709:0-3, u1710:0-8, u1711:0-91, u1712:0-3, u1713:0-70, u1714:0-9 %%",
+        "DM: So. So Kenzo leans on his staff and, and reaches out for glimmers of hints of omens from the dream world. And—he turns, like, slightly pale, and then opens his eyes and looks at you. Bad omens.",
+        "",
+        "%% u1715:0-41, u1716:0-23, u1717:0-90, u1718:0-40 %%",
+        "((Clarification of how Augury questions are phrased))",
+        "",
+        "%% u1719:0-24, u1720:0-43 %%",
+        "Seeker: Good and bad, or either. The big bad is a bad idea. Okay, okay. Hmm."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: So we're going to go fight the big bad. Will the results be good, bad, both or neither? Or do we want to propose that we're going to spend forever searching this tower? The results be good, bad, both or neither?",
+          "Seeker: Interesting to know about the Tower.",
+          "Riswynn: I mean, we could ask a different—",
+          "Delwath: I meant to ask about—no, ask about the big bad.",
+          "DM: Talk about the big bad fight."
+        ],
+        "after": [
+          "Riswynn: I could use my last 4th Level spell slot to do divination, and ask about finding things in this tower.",
+          "Delwath: I mean, I could ask, I could use contact other planes, right? Which is similar, I think.",
+          "Riswynn: Just depends on—",
+          "Seeker: I think.",
+          "Riswynn: Spell power for that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The lantern draws Lady Eventide forward",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1767",
+        "endUid": "u1773"
+      },
+      "lines": [
+        "%% u1767:0-5, u1768:0-72, u1769:0-85, u1770:0-108, u1771:0-49, u1772:0-47, u1773:0-13 %%",
+        "DM: Yeah. So as, as Seeker starts, pulls out the lantern and starts looking at it, and, and starts to attune to it, like, you see this, this, like, conflict on his face as the color drains, and, like, clearly Lady Eventide is a bit reluctant to come forward in this condition, but the lantern is right there, and she's drawn forth as Seeker begins to attune, and the rest of you ask questions."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay. Good night.",
+          "Wellby: Yep.",
+          "Delwath: Good night, Eric!",
+          "Riswynn: Lady Eventide has always wanted to be attuned to a lantern, right?",
+          "Wellby: Right."
+        ],
+        "after": [
+          "Wellby: We could augury about searching through this tower.",
+          "Delwath: Okay.",
+          "Riswynn: Yeah. So I ask in my ritual: As we seek through this tower blindly, will what we seek be perceptible by its own rays? Is there hope to find something connecting us to the Cloud Spinner in this tower?",
+          "DM: So that takes 10 min. Mike, is Delwath doing anything? Well—oh, Schwartz, will Wellby—I guess somebody is probably keeping watch somewhere.",
+          "Wellby: Yeah, I'll keep watch."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Riswynn’s divination to the Bahrâzel",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1797",
+        "endUid": "u1814"
+      },
+      "lines": [
+        "%% u1797:0-23, u1798:0-53 %%",
+        "DM: Okay. So 10 min in, you—so you, Riswynn, sort of communing with the Bahrâzel—",
+        "",
+        "%% u1799:0-27, u1800:0-5, u1801:0-46 %%",
+        "((Brief floor-position clarification))",
+        "",
+        "%% u1802:0-35, u1803:0-60, u1804:0-3, u1805:0-99 %%",
+        "DM: Yes, so it's it's it's pitch black. So listening, sort of attuning to the words of the Bahrâzel, the—so are you asking, like, is there—can you find anything in this tower? Is there any hope, basically?",
+        "",
+        "%% u1806:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u1807:0-27, u1808:0-127, u1809:0-46 %%",
+        "Riswynn: Yes, is there hope, because—here, is there hope because it will give its—make its presence known? Like, will we be able to perceive it is my main question. Is it here? And will we be able to perceive it?",
+        "",
+        "%% u1810:0-24, u1811:0-48, u1812:0-69 %%",
+        "DM: The, the Cloud Spinner's—that the afterimage of the Cloud Spinner's light lingers like roots of the trees, hidden and safe beneath the darkness.",
+        "",
+        "%% u1813:0-17 %%",
+        "Delwath: But let's go down.",
+        "",
+        "%% u1814:0-12 %%",
+        "Wellby: Underground."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: But now I don't think I'm casting any spells yet. I don't know if we'll really get to an hour. But I'm gonna, like, you know, start preparing some food, and—no fire, but, like, I mean, if we take an hour for Eric to attune, may as well short rest.",
+          "DM: Start.",
+          "Delwath: Short resting.",
+          "DM: Yeah.",
+          "Delwath: On the off chance we don't get interrupted or decide to do something else."
+        ],
+        "after": [
+          "Delwath: Is there any underground? Can we Tremor Sense and see if there’s any underground things?",
+          "DM: You can't. I mean, you can Tremorsense when you're on the ground floor. But Seeker can use—",
+          "Delwath: Oh, his stone—",
+          "DM: Stone Sense. So Seeker will use Stone Sense and identify whether there are any tunnels, burrows, or underground excavations present in the area.",
+          "Wellby: Yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The Cloud Spinner’s power and communication network",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2554",
+        "endUid": "u2564"
+      },
+      "lines": [
+        "%% u2554:0-22, u2555:0-90, u2556:0-51, u2557:0-103, u2558:0-79 %%",
+        "Delwath: It doesn't feel great. What's the—what's the story we heard? So wait, tell us again how we—what we know about the Prism Well? There was some story or something about why—wasn't there a whole story about why there was these connections to the Prism Well, something about getting help or seeking power, or let Amber—and let Cloud Spinner do something?",
+        "",
+        "%% u2559:0-163 %%",
+        "DM: The connections to the Prism Well? I mean, I don't, I don't remember if you ever got a super clear explanation, because it was all from Count Vashen, who was a bit—",
+        "",
+        "%% u2560:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u2561:0-42, u2562:0-108, u2563:0-49, u2564:0-122 %%",
+        "DM: But I mean, yeah, it was basically part of—part of Cloud Spinner's network of power and also part of—partly communication. And, you know, being able to connect to and draw on the Cloud Spinner's power. Possibly they also, like, somehow were involved in charging the amber lights. Like, you don't really know the details of the—"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Sure.",
+          "DM: There hasn't been any trapdoor that you've passed, or—really, the only place you haven't gone is the tunnel underneath the dark tower.",
+          "Wellby: Shall we go?",
+          "Delwath: No, I don't think so. What?",
+          "Riswynn: Well, I mean, should we go, like, a quarter of the way?"
+        ],
+        "after": [
+          "Riswynn: Amber light is one of the key things to her connections. Daylight is one of the key things to her connections. Those are 2 things we don't have down here. We can attune to the amber light and see if we can get something to happen. I can cast a daylight spell, but it only lasts like 10 min. I don't want to do it unless we're certain that it's like the key to like trying something. It's not like a—it's my—it's a huge, high level spell slot that doesn't last very long. So Sunbeam, so—I don't want to make a sunbeam unless we are pointing it at something, rather than just the rooms and 2 tunnels, 3 tunnels in it. So, but I'd be like, I mean, if we had the amber light going, or at least we had the amber light attuned, but then still nothing happens, we could try putting a sunbeam through the amber light down here.",
+          "Delwath: Hey!",
+          "Wellby: And.",
+          "Riswynn: Hey!",
+          "Kenzo: Alive? Did Kenzo die?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Crystals and the reflective floor beneath the dark tower",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2607",
+        "endUid": "u2624"
+      },
+      "lines": [
+        "%% u2607:0-63, u2608:0-63, u2609:0-117, u2610:0-43, u2611:0-51, u2612:0-54, u2613:0-46, u2614:0-9, u2615:0-129, u2616:0-90, u2617:0-43, u2618:0-73 %%",
+        "DM: Down the tunnel, little wisps of darkness drifting next to you. It seems to get a little darker as you go, but as you get maybe 60, 100 feet down, you can see that the room underneath this tower is not just a small circular room like the others. You see darkness sort of clinging like mud, dripping from the walls of a multi-vaulted chamber. The darkness is sort of flowing over what looks like a very, very polished, reflective floor surface. There are a number of crystals hanging from the ceiling, like diamonds draped down, where darkness is sort of swirling up around the crystals, seems to be stuck here. There's nowhere for the darkness to leave. It's just accumulating. So it's patchy, right? You can't—it's not—it's hard to see, because there's this patchy fog sort of drifting across.",
+        "",
+        "%% u2619:0-24 %%",
+        "Delwath: Where is it coming from?",
+        "",
+        "%% u2620:0-44 %%",
+        "DM: It's coming from down the tunnel behind you.",
+        "",
+        "%% u2621:0-27 %%",
+        "Riswynn: From the rubble room in the—",
+        "",
+        "%% u2622:0-34 %%",
+        "DM: Rubble room, and from the fountain.",
+        "",
+        "%% u2623:0-29 %%",
+        "Delwath: So it's not coming from above.",
+        "",
+        "%% u2624:0-68 %%",
+        "Wellby: It's not coming from above. It seems to be accumulating in this room."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Do we want to attune to the amber light first, in case it turns out to be useful? Or do we just want to go right into our next possible danger?",
+          "Delwath: I don't think we're really going into danger yet.",
+          "Riswynn: Okay. Fine.",
+          "Delwath: Mean, we're gonna try and avoid danger here is the goal, right?",
+          "Riswynn: Continue."
+        ],
+        "after": [
+          "Riswynn: Hello!",
+          "Wellby: [garbled].",
+          "Riswynn: Of course. What—",
+          "Wellby: Like a little chimney, like a—just a tiny little hole to let it out somewhere.",
+          "Riswynn: I mean, it's been accumulating down here for a long time, so there's probably a lot of it. So if we make a little hole, it would take a while to drain out, up."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Sunbeam activates the beacon",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2676",
+        "endUid": "u2691"
+      },
+      "lines": [
+        "%% u2676:0-22 %%",
+        "DM: Then you cast Sunbeam.",
+        "",
+        "%% u2677:0-32, u2678:0-30 %%",
+        "((Spell-slot bookkeeping))",
+        "",
+        "%% u2679:0-71, u2680:0-56, u2681:0-78 %%",
+        "DM: So Riswynn holds up her shield, marked with the symbol of the Bahrâzel, and sunlight begins to grow on her shield and spill out, and it begins to bounce off the crystals in the room and the reflective floor—",
+        "",
+        "%% u2682:0-5 %%",
+        "Wellby: What?",
+        "",
+        "%% u2683:0-49, u2684:0-85 %%",
+        "DM: Light up the arches and the passageways, glowing, echoing and reinforcing itself as it burns away the darkness, and we will stop there.",
+        "",
+        "%% u2685:0-5, u2686:0-5, u2687:0-24, u2688:0-5, u2689:0-10 %%",
+        "((End-of-session acknowledgements))",
+        "",
+        "%% u2690:0-97, u2691:0-9 %%",
+        "DM: Okay. So we will pick up with the consequences of activating the beacon underneath Red Sun Watch. Next time."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It takes an hour to attune. So do you want to wait here an hour?",
+          "Wellby: The way you pose that question, Tim, makes it sound like it’s a really dumb idea.",
+          "Kenzo: Why don't we just test and see what happens?",
+          "Wellby: Let's just Sunbeam, yeah.",
+          "Riswynn: All right. This has been a fun discussion. Thanks everybody."
+        ],
+        "after": [
+          "Kenzo: Or, like, did y'all decide on anything date-wise with Eric?",
+          "DM: He—no, he was just saying—you were there for that part of the conversation. We didn't discuss it more. Just he'll try and come. He doesn't know. He'll try and come for what he can come, and—",
+          "Kenzo: So we'll do May 1 next, basically.",
+          "DM: Yeah, we'll do May 1 next, I think. You know, I'll talk to Eric in between, and I'll figure out how to make it work. But you, you guys did well. I’m impressed. I didn't—I wasn't sure you were gonna get this far in one session, but you did.",
+          "Kenzo: Did we do before this? We killed some monsters. We killed the monsters."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

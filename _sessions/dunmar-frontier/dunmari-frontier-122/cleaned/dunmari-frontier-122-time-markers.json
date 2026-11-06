@@ -1,0 +1,315 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-122",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-session.yaml",
+    "sessionYamlSha256": "0f66461963cc7625c8e493e61a217189beef8131e663ccf2fb7a5b6e3e9714c2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-transcript.md",
+    "transcriptSha256": "aee016d5485193ac66a78fdfd034d0d8f96775e9ff0cfd4af944e47b27d303e2",
+    "yamlDates": {
+      "start": "1749-06-13",
+      "end": "1749-06-13"
+    }
+  },
+  "markers": [
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0118",
+        "endUid": "u0119"
+      },
+      "reading": "While arranging Valeris and the mounts, Riswynn says “10 o’clock.” Neither AM/PM nor a DM-confirmed civil clock is established; the wording may itself be uncertain.",
+      "evidence": [
+        {
+          "startUid": "u0118",
+          "endUid": "u0119",
+          "quote": "Yeah, like, yeah. 10 o'clock in the middle of the plains here, wherever we are."
+        }
+      ],
+      "note": "Retained as an unresolved spoken time rather than silently converting it to morning or midnight."
+    },
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0152",
+        "endUid": "u0153"
+      },
+      "reading": "The scouting bat reaches the keep wall after an unspecified number of minutes.",
+      "evidence": [
+        {
+          "startUid": "u0152",
+          "endUid": "u0153",
+          "quote": "After some number of minutes come to the crumbled wall."
+        }
+      ],
+      "actors": [
+        "Wellby’s scouting bat"
+      ],
+      "duration": {
+        "text": "some number of minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated flight to the wall"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0481",
+        "endUid": "u0486"
+      },
+      "reading": "Wellby is half a minute behind the four teleporting companions; his arrival completes that lag.",
+      "evidence": [
+        {
+          "startUid": "u0481",
+          "endUid": "u0486",
+          "quote": "When you—when the four of you who Dimension Door land on the platform, while Wellby is flying, he is still half a minute away."
+        },
+        {
+          "startUid": "u0532",
+          "endUid": "u0532",
+          "quote": "At this point, Wellby arrives and lands."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM gives the remaining flight time as half a minute"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1071",
+        "endUid": "u1072"
+      },
+      "reading": "The death mark lasts a minute despite the caster’s death; after stabilization Wellby waits out its remaining roughly thirty seconds before healing.",
+      "evidence": [
+        {
+          "startUid": "u1071",
+          "endUid": "u1072",
+          "quote": "It goes away in a minute. It does not go away when the thing that's casting it dies."
+        },
+        {
+          "startUid": "u1401",
+          "endUid": "u1402",
+          "quote": "he still has about 30 seconds of being cursed for death."
+        },
+        {
+          "startUid": "u1428",
+          "endUid": "u1428",
+          "quote": "And then the curse of death fades on Wellby, and you're able to heal him."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Kenzo",
+        "Clay construct"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Stated mark duration, followed through its expiration on Wellby"
+      },
+      "completion": "completed",
+      "note": "Expiration is explicitly narrated for Wellby; Kenzo and the construct were also marked, but their individual expiry is not separately narrated."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1477",
+        "endUid": "u1478"
+      },
+      "reading": "The construct scouts below the trapdoor for about three minutes before returning to signal.",
+      "evidence": [
+        {
+          "startUid": "u1477",
+          "endUid": "u1478",
+          "quote": "Silence for a minute. 2 min, 3 min, comes, comes back—"
+        }
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "actors": [
+        "Clay construct"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1632",
+        "endUid": "u1634"
+      },
+      "reading": "The driftglobe’s Daylight briefly illuminates the lower floor before the darkness swallows it, within ten seconds.",
+      "evidence": [
+        {
+          "startUid": "u1632",
+          "endUid": "u1634",
+          "quote": "It lasts for no more than 10 seconds."
+        }
+      ],
+      "duration": {
+        "max": 0.16666666666666666,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Stated upper bound of ten seconds, converted to minutes"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1753",
+        "endUid": "u1755"
+      },
+      "reading": "Seeker begins attuning to the amber light while the others perform rituals. Ten minutes of Riswynn’s divination elapse; the party then moves on without completing the hour-long attunement or proposed short rest.",
+      "evidence": [
+        {
+          "startUid": "u1753",
+          "endUid": "u1755",
+          "quote": "So Seeker starts looking at the amber light, starting to attune to it, while the rest of you are casting rituals."
+        },
+        {
+          "startUid": "u1729",
+          "endUid": "u1733",
+          "quote": "That takes an hour."
+        },
+        {
+          "startUid": "u1790",
+          "endUid": "u1796",
+          "quote": "On the off chance we don't get interrupted or decide to do something else."
+        },
+        {
+          "startUid": "u1797",
+          "endUid": "u1798",
+          "quote": "So 10 min in, you—so you, Riswynn, sort of communing with the Bahrâzel—"
+        },
+        {
+          "startUid": "u1852",
+          "endUid": "u1854",
+          "quote": "Let's just keep going."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Riswynn",
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit ten-minute divination completed while attunement and resting were underway"
+      },
+      "completion": "interrupted"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1896",
+        "endUid": "u1901"
+      },
+      "reading": "The party has spent about five minutes slowly descending the tower stairs when the central drop opens beside them; the descent continues afterward.",
+      "evidence": [
+        {
+          "startUid": "u1896",
+          "endUid": "u1901",
+          "quote": "And after maybe 5 min of walking down,"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed",
+      "note": "This measures the initial descent only, not the whole trip to the ground floor."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2063",
+        "endUid": "u2067"
+      },
+      "reading": "After reaching the ground floor, the party searches around its perimeter for about five minutes before finding a dangerous opening.",
+      "evidence": [
+        {
+          "startUid": "u2063",
+          "endUid": "u2067",
+          "quote": "You continue for maybe 5 min around the front,"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2170",
+        "endUid": "u2175"
+      },
+      "reading": "Seeker, polymorphed as a giant scorpion, explores for a few minutes; the DM corrects centipede to scorpion.",
+      "evidence": [
+        {
+          "startUid": "u2170",
+          "endUid": "u2175",
+          "quote": "So the giant centipede is going to clack along for a few minutes. Sorry, giant scorpion."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated scouting duration"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "June 13, 1749 comes entirely from the session YAML. No civil date is independently spoken. Riswynn’s isolated “10 o’clock” has no AM/PM or DM confirmation; sunset and darkness otherwise describe Feywild geography.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t10",
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09"
+    ],
+    "explanation": "The played sortie runs from the edge of darkness through the beacon activation, with short elapsed intervals and no established overnight. Its total elapsed span and civil boundaries remain open, so the same-date YAML is compatible rather than independently verified. The opening recap and later short-rest credit describe earlier play; they do not add a new rest to this sortie. The ten-minute ritual does not complete the hour-long attunement, and subsequent rest proposals are declined."
+  }
+}

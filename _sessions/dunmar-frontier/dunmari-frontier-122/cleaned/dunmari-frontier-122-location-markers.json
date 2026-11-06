@@ -1,0 +1,1014 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-122",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-session.yaml",
+    "sessionYamlSha256": "0f66461963cc7625c8e493e61a217189beef8131e663ccf2fb7a5b6e3e9714c2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-transcript.md",
+    "transcriptSha256": "aee016d5485193ac66a78fdfd034d0d8f96775e9ff0cfd4af944e47b27d303e2"
+  },
+  "places": {
+    "p01": {
+      "label": "Feywild",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0012",
+          "quote": "So we pick up in the Feywild on the edge of night,"
+        }
+      ],
+      "kind": "plane",
+      "vaultPath": "Cosmology/Feywild.md"
+    },
+    "p02": {
+      "label": "Amberglow",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0026",
+          "quote": "Red Sun Keep once—Red Sun Watch once stood guard watching over the borders of Amberglow"
+        }
+      ],
+      "kind": "realm",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0012",
+              "quote": "So we pick up in the Feywild on the edge of night, after having traveled across the rolling fields and hills, vineyards and groves of ember wine. Reaching the Sunset Gate, the vast wall of crystallized sunset that stretches across Feywild, marking the border between night and day. Turning north and crossing into Amberglow,"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Red Sun Watch",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0026",
+          "quote": "Red Sun Keep once—Red Sun Watch once stood guard watching over the borders of Amberglow"
+        }
+      ],
+      "kind": "ruined keep",
+      "aliases": [
+        "Red Sun Keep",
+        "castle"
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Redsun Watch.md",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0019",
+              "endUid": "u0026",
+              "quote": "Red Sun Keep once—Red Sun Watch once stood guard watching over the borders of Amberglow, the darkness of Hollowdark has crashed through the Sunset Gate and spread,"
+            }
+          ],
+          "note": "The source places the watch at Amberglow’s invaded border, without defining the exact domain boundary."
+        }
+      ]
+    },
+    "p04": {
+      "label": "Edge of the darkness",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0026",
+          "quote": "About a mile in the distance you have stopped, paused, rested. Come to a halt to try and plot your way forward here on the edge of this night."
+        }
+      ],
+      "kind": "staging place",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0102",
+              "endUid": "u0103",
+              "quote": "You're sort of at the edge of the darkness, which is about a mile from the lit tower."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0283",
+              "endUid": "u0284",
+              "quote": "the Sunset Gate is close by, right? You can see it. It's like a few miles in the distance."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Outer wall",
+      "evidence": [
+        {
+          "startUid": "u0406",
+          "endUid": "u0409",
+          "quote": "none of you see or hear anything until you come to the wall."
+        }
+      ],
+      "kind": "ruined wall",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0159",
+              "endUid": "u0162",
+              "quote": "whatever gate there might have once been seems to have been filled in with rubble. The whole area, actually, there's a lot of stones on the ground,"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Lit tower platform",
+      "evidence": [
+        {
+          "startUid": "u0259",
+          "endUid": "u0260",
+          "quote": "you're looking down at an open platform, maybe 40 feet in diameter, bathed in a soft, comforting golden light."
+        }
+      ],
+      "kind": "tower platform",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0164",
+              "endUid": "u0168",
+              "quote": "there's 3 towers sort of arranged almost like a triangle at the far side."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Courtyard",
+      "evidence": [
+        {
+          "startUid": "u0164",
+          "endUid": "u0168",
+          "quote": "Fly over into the courtyard. Fluttering across, the courtyard is big and open."
+        }
+      ],
+      "kind": "courtyard",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0164",
+              "endUid": "u0168",
+              "quote": "Fly over into the courtyard. Fluttering across, the courtyard is big and open."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Dark tower",
+      "evidence": [
+        {
+          "startUid": "u0169",
+          "endUid": "u0171",
+          "quote": "And then the tower, that sort of set back, kind of more, closer to the far wall, stretches up maybe a hundred, 150 feet,"
+        }
+      ],
+      "kind": "tower",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0164",
+              "endUid": "u0168",
+              "quote": "there's 3 towers sort of arranged almost like a triangle at the far side."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Cracked lower floor",
+      "evidence": [
+        {
+          "startUid": "u1514",
+          "endUid": "u1520",
+          "quote": "so you come down onto a lower floor, where the floor itself has been cracked, and half of the floor is gone,"
+        }
+      ],
+      "kind": "tower floor",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1526",
+              "endUid": "u1534",
+              "quote": "So the trapdoor leads down very close to the edge,"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1893",
+              "endUid": "u1895",
+              "quote": "The stairs are spiraling on the outside of the tower, just kind of spiraling down like this."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Tower staircase",
+      "evidence": [
+        {
+          "startUid": "u1896",
+          "endUid": "u1901",
+          "quote": "all that's in this tower here is a staircase creeping down the edge of the wall."
+        }
+      ],
+      "kind": "stairs",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1896",
+              "endUid": "u1901",
+              "quote": "all that's in this tower here is a staircase creeping down the edge of the wall."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Ground floor of the lit tower",
+      "evidence": [
+        {
+          "startUid": "u2033",
+          "endUid": "u2035",
+          "quote": "The stairs have come to the end. Delwath falls prone, landing on the ground in front of you."
+        }
+      ],
+      "kind": "tower floor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2050",
+              "endUid": "u2057",
+              "quote": "as you begin to sort of circumnavigate the bottom of this tower,"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Tunnel beneath the lit tower",
+      "evidence": [
+        {
+          "startUid": "u2273",
+          "endUid": "u2277",
+          "quote": "you find yourself in an empty tunnel about 15 feet wide, your darkvision now working."
+        }
+      ],
+      "kind": "underground passage",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2310",
+              "endUid": "u2314",
+              "quote": "out from the from the tower itself into the courtyard,"
+            }
+          ],
+          "note": "The passage is underground; within refers to the keep complex, not to a room inside the tower above."
+        }
+      ]
+    },
+    "p13": {
+      "label": "Central junction",
+      "evidence": [
+        {
+          "startUid": "u2322",
+          "endUid": "u2329",
+          "quote": "when you get to this sort of central place where the passageways join,"
+        }
+      ],
+      "kind": "underground room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2322",
+              "endUid": "u2329",
+              "quote": "each one of these passageways leads to beneath one of the towers, and you’re at the center of the of the, of the courtyard."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2330",
+              "endUid": "u2334",
+              "quote": "the courtyard fountain top has been filled in."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Collapsed room beneath the ruined tower",
+      "evidence": [
+        {
+          "startUid": "u2337",
+          "endUid": "u2343",
+          "quote": "There’s a small circular room. In this case, the circular room is completely collapsed."
+        }
+      ],
+      "kind": "underground room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2349",
+              "endUid": "u2352",
+              "quote": "there's 3 towers that form a triangle, and then underneath those towers there seems to be passage—underground vaulted passageways that meet in the middle."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Empty fountain basin",
+      "evidence": [
+        {
+          "startUid": "u2362",
+          "endUid": "u2365",
+          "quote": "Below this room, there's a big empty basin."
+        }
+      ],
+      "kind": "reservoir",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2362",
+              "endUid": "u2365",
+              "quote": "Below this room, there's a big empty basin."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2330",
+              "endUid": "u2334",
+              "quote": "a pillar through the middle of this room that went down into some room below it and probably up into a courtyard fountain or something above it."
+            }
+          ],
+          "note": "This basin is below the junction, within the keep’s underground fountain works."
+        }
+      ]
+    },
+    "p16": {
+      "label": "Multi-vaulted chamber beneath the Dark Tower",
+      "evidence": [
+        {
+          "startUid": "u2607",
+          "endUid": "u2618",
+          "quote": "a multi-vaulted chamber."
+        }
+      ],
+      "kind": "underground chamber",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u2636",
+              "endUid": "u2638",
+              "quote": "This is the Dark Tower, so there is presumably very thick, dense darkness right above your heads."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2690",
+              "endUid": "u2691",
+              "quote": "activating the beacon underneath Red Sun Watch."
+            }
+          ],
+          "note": "The underground beacon chamber belongs to the keep complex, below the dark tower rather than above in the occupied tower."
+        }
+      ]
+    },
+    "p17": {
+      "label": "Sunset Gate",
+      "evidence": [
+        {
+          "startUid": "u0283",
+          "endUid": "u0284",
+          "quote": "the Sunset Gate is close by, right? You can see it."
+        }
+      ],
+      "kind": "magical boundary",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Sunset Gate.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0019",
+        "endUid": "u0026"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party pauses outside the darkness about a mile from the remaining lit tower of Red Sun Watch.",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0026",
+          "quote": "About a mile in the distance you have stopped, paused, rested. Come to a halt to try and plot your way forward here on the edge of this night."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0054",
+        "endUid": "u0067"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Aura sense detects a powerful darkness-shaping consciousness in a different tower from the lit one; this does not establish entry.",
+      "evidence": [
+        {
+          "startUid": "u0054",
+          "endUid": "u0067",
+          "quote": "not in the lit tower, but in some other apparent tower nearby,"
+        },
+        {
+          "startUid": "u0054",
+          "endUid": "u0067",
+          "quote": "it's pulling and shaping the darkness, pulling it through and pushing it further into Amberglow."
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p04"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0123",
+        "endUid": "u0128"
+      },
+      "actors": [
+        "Valeris"
+      ],
+      "reading": "Valeris stays in the sunlight to guard the griffins and refuses to enter the darkness.",
+      "evidence": [
+        {
+          "startUid": "u0123",
+          "endUid": "u0128",
+          "quote": "Valeris is happy to tend the griffins as long as he stays in the sunlight."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0141",
+        "endUid": "u0151"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Through the bat’s senses, Wellby scouts the wall and courtyard; terror destroys the bat before it reaches the towers.",
+      "evidence": [
+        {
+          "startUid": "u0141",
+          "endUid": "u0151",
+          "quote": "you're seeing through its senses,"
+        },
+        {
+          "startUid": "u0164",
+          "endUid": "u0168",
+          "quote": "Fly over into the courtyard."
+        },
+        {
+          "startUid": "u0174",
+          "endUid": "u0174",
+          "quote": "Suddenly there's a wave of terror, and the bat dies."
+        }
+      ],
+      "place": "p07",
+      "mode": "remote",
+      "observerPlace": "p04"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0259",
+        "endUid": "u0260"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance shows the unoccupied platform, broken windows and trapdoor; the light has no lantern source.",
+      "evidence": [
+        {
+          "startUid": "u0259",
+          "endUid": "u0260",
+          "quote": "your sensor appears, and you're looking down at an open platform,"
+        },
+        {
+          "startUid": "u0270",
+          "endUid": "u0273",
+          "quote": "There is nobody here, nothing moving,"
+        },
+        {
+          "startUid": "u0280",
+          "endUid": "u0281",
+          "quote": "There's no lantern, there's no source of the light."
+        }
+      ],
+      "place": "p06",
+      "mode": "remote",
+      "observerPlace": "p04"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0363",
+        "endUid": "u0373"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Walk quietly through the darkened ground to the exterior wall of the keep.",
+      "evidence": [
+        {
+          "startUid": "u0363",
+          "endUid": "u0373",
+          "quote": "Walk into the darkness, moving as quietly as you can,"
+        },
+        {
+          "startUid": "u0406",
+          "endUid": "u0409",
+          "quote": "none of you see or hear anything until you come to the wall."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0473",
+        "endUid": "u0474"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "reading": "Four companions Dimension Door from the wall to the lit tower platform while Wellby flies separately.",
+      "evidence": [
+        {
+          "startUid": "u0473",
+          "endUid": "u0474",
+          "quote": "Wellby's flying. The rest of us are Dimension Dooring in pairs."
+        },
+        {
+          "startUid": "u0481",
+          "endUid": "u0486",
+          "quote": "When you—when the four of you who Dimension Door land on the platform, while Wellby is flying, he is still half a minute away."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "Dimension Door"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0481",
+        "endUid": "u0486"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies up after the teleporters and lands on the same platform half a minute later.",
+      "evidence": [
+        {
+          "startUid": "u0481",
+          "endUid": "u0486",
+          "quote": "Wellby flies up."
+        },
+        {
+          "startUid": "u0532",
+          "endUid": "u0532",
+          "quote": "At this point, Wellby arrives and lands."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly",
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Remaining flight time after the others arrive, not the full flight duration"
+      }
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0593",
+        "endUid": "u0600"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Ghostly Gaze reveals a cracked floor and staircase below the unopened trapdoor; nobody descends yet.",
+      "evidence": [
+        {
+          "startUid": "u0593",
+          "endUid": "u0600",
+          "quote": "looking down through the trapdoor, you see there's a floor below this that's cracked in half."
+        },
+        {
+          "startUid": "u0603",
+          "endUid": "u0605",
+          "quote": "Just looking through with Ghostly Gaze."
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1470",
+        "endUid": "u1474"
+      },
+      "actors": [
+        "Clay construct"
+      ],
+      "reading": "The construct scouts the lower floor, returns to wave the party down, then falls when the fixed ladder rungs break.",
+      "evidence": [
+        {
+          "startUid": "u1470",
+          "endUid": "u1474",
+          "quote": "Climbs down the ladder. You hear a crack."
+        },
+        {
+          "startUid": "u1480",
+          "endUid": "u1483",
+          "quote": "Pokes its head up, waves, and then you hear a crack, crack, crack! Crack! Crack! And it slips, falls down completely to the ground, as all of the rungs of the ladder broke under its weight."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "climb",
+      "route": [
+        {
+          "reading": "Returns to the hatch to signal, then falls onto the lower floor as the rungs break."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1514",
+        "endUid": "u1520"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party descends from the platform to the cracked lower floor; they later confirm they remain below the closed upper trapdoor during rituals.",
+      "evidence": [
+        {
+          "startUid": "u1514",
+          "endUid": "u1520",
+          "quote": "so you step down there. You see a—so you come down onto a lower floor,"
+        },
+        {
+          "startUid": "u1799",
+          "endUid": "u1805",
+          "quote": "We closed the trapdoor on the top."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "descend",
+      "note": "A return to the lit platform is proposed at u1656–u1658, but not narrated; u1799–u1805 confirms the lower-floor ritual position."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1874",
+        "endUid": "u1875"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Proceed single file down the tower stairs with a rope. Regroup after Seeker and the construct fall off, and eventually reach the ground floor.",
+      "evidence": [
+        {
+          "startUid": "u1874",
+          "endUid": "u1875",
+          "quote": "you begin creeping your way down the staircase."
+        },
+        {
+          "startUid": "u1970",
+          "endUid": "u1973",
+          "quote": "The construct and Seeker have fallen off and are dangling down into the darkness."
+        },
+        {
+          "startUid": "u1974",
+          "endUid": "u1979",
+          "quote": "climbing up with Seeker on his back."
+        },
+        {
+          "startUid": "u2033",
+          "endUid": "u2035",
+          "quote": "The stairs have come to the end. Delwath falls prone, landing on the ground in front of you."
+        },
+        {
+          "startUid": "u2050",
+          "endUid": "u2057",
+          "quote": "as you begin to sort of circumnavigate the bottom of this tower,"
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Descend the narrow spiral staircase.",
+          "place": "p10"
+        },
+        {
+          "reading": "Seeker and the construct dangle from the secured rope; the construct climbs back carrying Seeker. The party regroups on the stairs."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2223",
+        "endUid": "u2227"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Riswynn opens Passwall through the floor. The party jumps into the tunnel, Seeker as a scorpion first and Kenzo and Delwath last; Seeker then seals the opening with a created stone block.",
+      "evidence": [
+        {
+          "startUid": "u2223",
+          "endUid": "u2227",
+          "quote": "as you all jump down,"
+        },
+        {
+          "startUid": "u2241",
+          "endUid": "u2243",
+          "quote": "You are now all in this tunnel."
+        },
+        {
+          "startUid": "u2273",
+          "endUid": "u2277",
+          "quote": "Seeker just creates a giant block of stone on top of the Passwall that completely covers the entrance."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "jump through Passwall"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2301",
+        "endUid": "u2314"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the tunnel from the lit tower to the central underground junction below the courtyard.",
+      "evidence": [
+        {
+          "startUid": "u2301",
+          "endUid": "u2314",
+          "quote": "The passageway continues for maybe 30 feet, not very long at all, 40 feet."
+        },
+        {
+          "startUid": "u2322",
+          "endUid": "u2329",
+          "quote": "when you get to this sort of central place where the passageways join,"
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2335",
+        "endUid": "u2343"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Explore the passage from the junction to the collapsed room under the ruined tower, then return to investigate the central fountain.",
+      "evidence": [
+        {
+          "startUid": "u2335",
+          "endUid": "u2343",
+          "quote": "the other passageway leads very similar to where—exactly where you have been."
+        },
+        {
+          "startUid": "u2352",
+          "endUid": "u2352",
+          "quote": "Then you went back to the ruin tower."
+        },
+        {
+          "startUid": "u2397",
+          "endUid": "u2398",
+          "quote": "You're standing at the top."
+        }
+      ],
+      "from": "p13",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Reach the collapsed circular room beneath the ruined tower; rubble prevents passing upward.",
+          "place": "p14"
+        },
+        {
+          "reading": "Return to the central fountain junction.",
+          "place": "p13"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2402",
+        "endUid": "u2403"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby drops into the empty basin, searches it, and returns to the junction using a rope; Delwath’s possible descent remains a question.",
+      "evidence": [
+        {
+          "startUid": "u2402",
+          "endUid": "u2403",
+          "quote": "I'll hop in and feather fall to the bottom and investigate."
+        },
+        {
+          "startUid": "u2412",
+          "endUid": "u2421",
+          "quote": "there's not, like, other pipes leading out of here or anything."
+        },
+        {
+          "startUid": "u2422",
+          "endUid": "u2426",
+          "quote": "Alright. I'll come back out again."
+        },
+        {
+          "startUid": "u2425",
+          "endUid": "u2426",
+          "quote": "On a rope."
+        }
+      ],
+      "from": "p13",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "Feather Fall and rope",
+      "route": [
+        {
+          "reading": "Investigate the empty reservoir basin.",
+          "place": "p15"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2601",
+        "endUid": "u2606"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Take the remaining tunnel beneath the dark tower and enter its multi-vaulted beacon chamber, while avoiding the occupied tower above.",
+      "evidence": [
+        {
+          "startUid": "u2601",
+          "endUid": "u2606",
+          "quote": "As you go down this tunnel—"
+        },
+        {
+          "startUid": "u2607",
+          "endUid": "u2618",
+          "quote": "You see darkness sort of clinging like mud, dripping from the walls of a multi-vaulted chamber."
+        },
+        {
+          "startUid": "u2636",
+          "endUid": "u2638",
+          "quote": "This is the Dark Tower, so there is presumably very thick, dense darkness right above your heads."
+        },
+        {
+          "startUid": "u2679",
+          "endUid": "u2684",
+          "quote": "Light up the arches and the passageways, glowing, echoing and reinforcing itself as it burns away the darkness, and we will stop there."
+        }
+      ],
+      "from": "p13",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "walk"
+    }
+  ]
+}
