@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
+  "source": {
+    "path": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-time-markers.json",
+    "sha256": "83dce72c5809fcc1d88957c4230b27b6adea80b423005c6ab858bc3110369b93"
+  },
+  "transcript": {
+    "path": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-transcript.md",
+    "sha256": "48f9ccd108c67b7a38ca1051bf4e2088f5d8adb113ccce64330c21819909e4d1"
+  },
+  "dateAssessment": "Working adventure calendar: **October 6, DR 1740**, from the session YAML, retained conditionally with a `compatible` transcript-only assessment. No current month/day is spoken; the debrief mentions the modern year 1740 at u1498–u1500. The clock’s year **1351** is the prison/root’s local coordinate (t02), not a replacement campaign date. The minute of tactile study is elapsed play (t01). No completed rest or civil date boundary is established here. Childhood stories, the older Hulda’s account, possible futures, and abandoned time-travel alternatives add no elapsed adventure days. Stationary Feywild twilight supplies no civil watch. Hulda’s sunset vignette has a separate, unsynchronized Material Plane clock; Kallipseis’s vignette returns to the collapse’s first rumbling. The dated 27th House and Twilight Promontory references use **October 7** for the same collapse; that discrepancy remains open for human review, with no date changed.",
+  "watches": [
+    {
+      "day": "Prison’s local year 1351; month/day open",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Prison interior",
+      "summary": "Clock reads 1351 after about a minute of tactile study; the root shares that coordinate.",
+      "markers": [
+        "t01",
+        "t02"
+      ]
+    },
+    {
+      "day": "October 6, 1740",
+      "startDate": "1740-10-06",
+      "endDate": "1740-10-06",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Release and collapse precede the exposed hillside. Montage revisits the first rumbles, then returns to the travelers.",
+      "markers": [
+        "t03",
+        "t05",
+        "t08"
+      ]
+    },
+    {
+      "day": "Material Plane epilogue; date open",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "clock": "local",
+      "scope": "Lord Hulda",
+      "summary": "Hulda dies in the old house as the last sunset light reaches its high window.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "Prisoner’s home outside time",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Prisoner",
+      "summary": "Beyond the universe, the freed prisoner experiences all possibilities simultaneously; ordinary elapsed time is inapplicable.",
+      "markers": [
+        "t06"
+      ]
+    },
+    {
+      "day": "End of the revel; civil date open",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Lord Endless Ending",
+      "summary": "Party ended, guests departed; the lord watches the sunset. Twilight supplies no measurable advance.",
+      "markers": [
+        "t07"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "27th House date reference",
+      "path": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House.md",
+      "sha256": "e2b8c96f6070d43eefa41ed25861614d523cb740f1e83ce0f93432ed632e6433"
+    },
+    {
+      "label": "Twilight Promontory date reference",
+      "path": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Promontory.md",
+      "sha256": "78deaab07fe1fbeb02aababa2d998c73320af3bf0bdac94c9cce8539303bc39b"
+    }
+  ]
+}

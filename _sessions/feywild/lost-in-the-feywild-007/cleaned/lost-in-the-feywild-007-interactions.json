@@ -1,0 +1,2536 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "48f9ccd108c67b7a38ca1051bf4e2088f5d8adb113ccce64330c21819909e4d1"
+    },
+    "entityMap": {
+      "path": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-entity-map.json",
+      "sha256": "514618432b75129340bb574f86c41514760918c838cc0afbad370eb45a04e0eb"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The recalled bargain and moving prison",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0063",
+        "endUid": "u0080"
+      },
+      "lines": [
+        "%% u0063:0-138, u0064:0-67 %%",
+        "DM: Last spring, the embittered adventurer Hulda received a 400-year-old deed of inheritance. Perfect. Written in oddly contemporary language to a manor house at the wild northern edges of the Duchy of Tellim.",
+        "",
+        "%% u0065:0-24, u0066:0-121 %%",
+        "DM: There was one condition: go through the door in the cellar of the house, and convince the Fae lord on the other side to break a promise once made.",
+        "",
+        "%% u0067:0-162 %%",
+        "DM: Lord Endless Ending had been tricked into his compact by the wizard Thalestria, head of the Drankorian order Arithrimos Lamperum in the waning days of the Empire.",
+        "",
+        "%% u0068:0-43, u0069:0-82, u0070:0-156 %%",
+        "DM: Each time a clock she gave him struck zero, Lord Ending would send a mortal guest at his party through the doors of her house. That compact has held to the present, 700 years later, though for the Feylord, it was merely struck earlier, in the same endless celebration he still hosts.",
+        "",
+        "%% u0071:0-213 %%",
+        "DM: Hulda hires the party, who travel to the Feylord's Revel, where Tarek steals a yet-to-be-disclosed possession of that lord, and the party meets guests from across centuries, including a curious rakshasa, tigerman.",
+        "",
+        "%% u0072:0-39, u0073:0-81, u0074:0-94 %%",
+        "DM: The Fae is unable to break his promise but asks them to bring him the key to the prison door at the center of the house. Presumably because if he breaks it and the prisoner goes free, his promise becomes irrelevant.",
+        "",
+        "%% u0075:0-139 %%",
+        "DM: Joined by Menestheus, a member of Thalestria's party who she left behind when she made the bargain, the group enters the house of 27 rooms.",
+        "",
+        "%% u0076:0-160, u0077:0-157 %%",
+        "DM: Surrounding a central prison chamber, the Order built the house as a magical and mechanical device to untether the central prison room from the world around it and to keep the physical and the temporal location of that central room constantly changing. If it stopped moving somehow, the prisoner would quickly escape.",
+        "",
+        "%% u0078:0-117, u0079:0-134, u0080:0-101 %%",
+        "DM: Each movement through a doorway between rooms in the house shifts the physical or temporal coordinates of the prison. And in that way, the randomness of mortal choices kept the prisoner from knowing where or when they were or what to expect was coming. And the steady supply of mortals, by Lord Endless Ending, has kept it in constant motion to this day."
+      ],
+      "reviewContext": {
+        "before": [
+          "Tarek: And we should make sure to record.",
+          "Txarro: It's recording already.",
+          "Tarek: Hold on. Okay, good. Okay.",
+          "Txarro: I don't know if I can do just pure black. I mean, I can just get a pure black image.",
+          "DM: So you've stepped through… into the prison, with the door closing behind, dodging out of the way, cleverly, quickly, from the grasping hands of Menestheus, now fully transformed into a mushroom man. Here's how you got here."
+        ],
+        "after": [
+          "DM: The party makes their way through the house, fighting off fungal-transformed attackers, one of whom infects Menestheus badly, and realizes that Hulda's servant who hired them— the servants they saw at the house, too—were these same mushroom men.",
+          "DM: They meet Kallipseis, an ancient dwarven wizard, putting the final touches on a fungal golem body into which she intends to transfer her consciousness and restart the Arithrimos Lamperum.",
+          "DM: They collect a clock and bring it with them, which always gives the ever-shifting year inside of the central room.",
+          "DM: And finally, and Eric, this is what you missed last session: you come to the library and talk with a clockwork magical research assistant, who, unnamed, they give the name Aurae to. Aurae helps them to understand… sorry, I should have written it in the second person. Aurae helps you to understand that the house is powered by the energy of trapped souls prevented from moving on to their afterlife, like water trapped behind a dam.",
+          "DM: They read from the order's Arithrimos Lamperum's ‘Allegories for the Initiated’: odd stories about… hedgehogs made to kill and monkey trap prisons, where it's just large enough for the monkey to put its hand in, but when it closes its fist around what's inside and tries to take it out, it can't;"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Allegories recalled from the library",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0091",
+        "endUid": "u0096"
+      },
+      "lines": [
+        "%% u0091:0-78, u0092:0-18, u0093:0-23, u0094:0-24, u0095:0-148 %%",
+        "DM: They read from the order's Arithrimos Lamperum's ‘Allegories for the Initiated’: odd stories about… hedgehogs made to kill and monkey trap prisons, where it's just large enough for the monkey to put its hand in, but when it closes its fist around what's inside and tries to take it out, it can't;",
+        "",
+        "%% u0096:0-191 %%",
+        "DM: Mindless things that imitate minds, and then Aurae writes a personal allegory for each of them. And with apologies, Tarek, that was the one thing I didn't have time to prep for you this week."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Each movement through a doorway between rooms in the house shifts the physical or temporal coordinates of the prison. And in that way, the randomness of mortal choices kept the prisoner from knowing where or when they were or what to expect was coming. And the steady supply of mortals, by Lord Endless Ending, has kept it in constant motion to this day.",
+          "DM: The party makes their way through the house, fighting off fungal-transformed attackers, one of whom infects Menestheus badly, and realizes that Hulda's servant who hired them— the servants they saw at the house, too—were these same mushroom men.",
+          "DM: They meet Kallipseis, an ancient dwarven wizard, putting the final touches on a fungal golem body into which she intends to transfer her consciousness and restart the Arithrimos Lamperum.",
+          "DM: They collect a clock and bring it with them, which always gives the ever-shifting year inside of the central room.",
+          "DM: And finally, and Eric, this is what you missed last session: you come to the library and talk with a clockwork magical research assistant, who, unnamed, they give the name Aurae to. Aurae helps them to understand… sorry, I should have written it in the second person. Aurae helps you to understand that the house is powered by the energy of trapped souls prevented from moving on to their afterlife, like water trapped behind a dam."
+        ],
+        "after": [
+          "DM: At the prison door you see 3 doors simultaneously over each other. And they each lead to rooms in which you can see the three different voices you've heard through the walls in your wanderings, and read from in the transcribed notebooks: a child, a young adult and a deeply crazed middle-aged man who appears vastly older.",
+          "DM: As you open the door to the room with the child, Menestheus, now fully transformed into a mushroom man, attacks, but dodging him, you step through and close the door behind you, and stand now in an utter darkness, in something darker than darkness, in the absence even of the possibility of color, or form, or light, as the clock that, Tarek, I think, is still carrying strikes zero.",
+          "DM: In the darkness, I would love to open with a brief character description despite the absence of anything visible. And… What is the hope and the fear that you're experiencing in this moment?",
+          "Tarek: Tarek must have kind of blacked out, and is still recovering?",
+          "DM: So he's experiencing…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "The prisoner’s dreams, captivity, and first story",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0299",
+        "endUid": "u0418"
+      },
+      "lines": [
+        "%% u0299:0-80, u0300:0-18 %%",
+        "DM: “I am looking at your dreaming,” says a voice inside of all of your heads at once. “It is very lovely.”",
+        "",
+        "%% u0301:0-12 %%",
+        "Kaito Min: Who are you?",
+        "",
+        "%% u0302:0-23 %%",
+        "DM: I am being a child now.",
+        "",
+        "%% u0303:0-21 %%",
+        "Kaito Min: Who are your parents?",
+        "",
+        "%% u0304:0-16, u0305:0-42 %%",
+        "DM: I'm not knowing. They're being on the far side of the well.",
+        "",
+        "%% u0306:0-18 %%",
+        "Txarro: Where is the well?",
+        "",
+        "%% u0307:0-41, u0308:0-25, u0309:0-31 %%",
+        "DM: The well is being here, just… where I am. But not inside the walls. I am not seeing it from inside.",
+        "",
+        "%% u0310:0-21 %%",
+        "Tarek: Are you trapped here?",
+        "",
+        "%% u0311:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u0312:0-4, u0313:0-13 %%",
+        "Tarek: Why? You know why?",
+        "",
+        "%% u0314:0-10, u0315:0-55, u0316:0-25, u0317:0-39, u0318:0-60, u0319:0-92 %%",
+        "DM: I'm grown. And the first dreamer I have ever seen is coming to me. And I'm seeing his dream. And it's beautiful, and I'm keeping it. And the second dreamer is coming, and I see that dream, too. And I am keeping that one, and not letting it go. And the dreamers are coming by the dozens.",
+        "",
+        "%% u0320:0-43, u0321:0-209, u0322:0-46, u0323:0-82, u0324:0-58 %%",
+        "DM: These dreamers are carrying the cold metal and the sticks that make heat, and they scare me, and they praise me, and they say they have more dreams to give me. They say, I am helpful. They are saying, I can keep the dreams so that no one can find them. That when I keep the dreams, I am hiding them. They're saying that some dreams are bad dreams, and that I am good at hiding them. But every dream is beautiful to me, and I am keeping them.",
+        "",
+        "%% u0325:0-227, u0326:0-76 %%",
+        "DM: They're saying that if I am promising to keep every dream they bring me, they are building me a house to play in. And if I live inside the house, they are bringing more dreams. And I am inside the house, and the walls are cold. And I cannot sleep, and I cannot leave, but they're bringing me more dreams.",
+        "",
+        "%% u0327:0-9 %%",
+        "Tarek: Oh, yeah.",
+        "",
+        "%% u0328:0-20 %%",
+        "DM: Watching the dreams.",
+        "",
+        "%% u0329:0-27 %%",
+        "Tarek: You're like the beaver dam.",
+        "",
+        "%% u0330:0-174, u0331:0-78 %%",
+        "DM: To the dreamers listening to me outside the walls, and I am asking them to let me go home, and they are telling me it is too important that I eat the dreams they bring to me. They're telling me the door to my house does not open big enough for me to go.",
+        "",
+        "%% u0332:0-15 %%",
+        "DM: And my teacher…",
+        "",
+        "%% u0333:0-5 %%",
+        "Tarek: Sure.",
+        "",
+        "%% u0334:0-14 %%",
+        "DM: Is not coming.",
+        "",
+        "%% u0335:0-105, u0336:0-61, u0337:0-27 %%",
+        "DM: And the only thing with me is the dreams. And the dreams are wanting to leave, but I am not letting them. Because I am being alone without them, and nothing is moving. And everything is changing.",
+        "",
+        "%% u0338:0-13 %%",
+        "Edric: Where's home?",
+        "",
+        "%% u0339:0-51, u0340:0-47 %%",
+        "DM: Home is being at the bottom of the bottomless well. The house they're making for me is not my home.",
+        "",
+        "%% u0341:0-60, u0342:0-84 %%",
+        "Ayveen: Have you appreciated the dreams that you've had for company? Would you let them go if you went to your home at the bottom of the bottomless well?",
+        "",
+        "%% u0343:0-9, u0344:0-18, u0345:0-31 %%",
+        "DM: I do not… let the dreams go. Why am I letting the dreams go?",
+        "",
+        "%% u0346:0-39, u0347:0-53 %%",
+        "Ayveen: Being with you is not the dream's home, like this house they built for you is not your home?",
+        "",
+        "%% u0348:0-28, u0349:0-19, u0350:0-68 %%",
+        "DM: It pauses in a long silence that suggests both… it knew you were going to say that, and it didn't want to face that.",
+        "",
+        "%% u0351:0-4 %%",
+        "Tarek: Hmm.",
+        "",
+        "%% u0352:0-40, u0353:0-22, u0354:0-29, u0355:0-20, u0356:0-39 %%",
+        "DM: I cannot see what your dreams are doing. I am like this always. When dreams are coming to me, there is a deciding, and I am not knowing what is happening.",
+        "",
+        "%% u0357:0-4 %%",
+        "Tarek: Hmm…",
+        "",
+        "%% u0358:0-51, u0359:0-21, u0360:0-29 %%",
+        "DM: When dreams are coming to me, there is a curiosity, and I am not knowing what the questions are being.",
+        "",
+        "%% u0361:0-32, u0362:0-19 %%",
+        "Tarek: Tell us about one of the dreams you've already got?",
+        "",
+        "%% u0363:0-60 %%",
+        "DM: I am telling you a story if you are telling me a story, too.",
+        "",
+        "%% u0364:0-34 %%",
+        "Tarek: Hmm, that's… that seems only fair.",
+        "",
+        "%% u0365:0-47, u0366:0-74, u0367:0-56, u0368:0-38, u0369:0-48 %%",
+        "DM: My teacher is sitting with me next to the well. And he's teaching me how to speak in stories that dreamers can understand. We're sitting next to the well, and my teacher explains about how words make before and after; how words make stories about befores and afters.",
+        "",
+        "%% u0370:0-45, u0371:0-121 %%",
+        "DM: And he is leaving, and his party is starting. And he is coming back when it has ended. And I'm next to my well for a very long time. I'm liking how still the world is.",
+        "",
+        "%% u0372:0-60, u0373:0-143, u0374:0-81 %%",
+        "DM: And everything is moving, and nothing is changing. The wind is moving the grass, and the bright stars are just coming out, and I am watching, and watching, and the smell of my home is nearby in the well. And I am not going home, because I am very quiet, and very still, and very happy.",
+        "",
+        "%% u0375:0-4, u0376:0-34, u0377:0-47 %%",
+        "DM: And… the first dreamer is coming to me. And I used the words that my teacher taught me.",
+        "",
+        "%% u0378:0-27, u0379:0-23, u0380:0-18, u0381:0-33, u0382:0-9, u0383:0-14, u0384:0-49, u0385:0-58 %%",
+        "DM: The dreamer… is, like, you. It walks with two legs. It is not knowing the shape of its own possibility. It comes… down the road, and it's walking up and up to where I am sitting. And it is speaking in words to me, and I am speaking back.",
+        "",
+        "%% u0386:0-31, u0387:0-30, u0388:0-17, u0389:0-20, u0390:0-14 %%",
+        "DM: That dream… is a curious dream. That dream is a singing dream. She's still here. She sings sometimes, less and less.",
+        "",
+        "%% u0391:0-77, u0392:0-35, u0393:0-84 %%",
+        "DM: That dream… sang to me the story of its travels, and sang me… story of light. And I told it a story from my home. Then it was just a shining dream and nothing else, and it stayed with me ever since.",
+        "",
+        "%% u0394:0-43, u0395:0-32 %%",
+        "DM: What is the story of a dream that you know? What is the story of your dream?",
+        "",
+        "%% u0396:0-39, u0397:0-16, u0398:0-52, u0399:0-29, u0400:0-11 %%",
+        "Tarek: Once… when I was younger than I am now, I was exploring a place I thought I knew well, near where I grew up. And I fell through the floor. I was hurt.",
+        "",
+        "%% u0401:0-36, u0402:0-27, u0403:0-10, u0404:0-35 %%",
+        "Tarek: But in the beam of light from above, I saw some very old things around me. And they were from… another people.",
+        "",
+        "%% u0405:0-28, u0406:0-25, u0407:0-38, u0408:0-11 %%",
+        "Tarek: And these things, I thought, maybe they could help me, and no one would mind if I just… took one or two.",
+        "",
+        "%% u0409:0-23, u0410:0-15, u0411:0-63, u0412:0-21, u0413:0-30, u0414:0-42, u0415:0-64 %%",
+        "Tarek: And I found my way out. And after that, I knew, or I thought I knew, the shape of my own possibilities. Because those things… that I had borrowed, or taken, other people were very interested in them, and I could get the things that I needed and wanted as a result.",
+        "",
+        "%% u0416:0-25, u0417:0-69, u0418:0-65 %%",
+        "DM: “I am watching your dream.” And it falls silent, and you get the impression that… it's reflecting to itself, and, withdrawing from conversation for at least a bit."
+      ],
+      "reviewContext": {
+        "before": [
+          "Txarro: Just… tiny lizard voice: “Hello?”",
+          "DM: I'm gonna answer that in just a sec, but Kong… I'll say in this case, your detect thoughts… there's an obfuscation, or there's something strange about it, because on the one hand, there is very clearly a creature—a creature that is thinking, and is… a creature that is able to use language and has a telepathic mind.",
+          "DM: But on the other hand, it's almost like you're hearing, like, a distant chorus of voices. Like, a murmuration of…",
+          "DM: You know how if you walk, you know, you're on, like, the… second or third floor balcony above a room where there's a hundred people talking with each other, and it's just, it's that… it's that feeling, but with thoughts. So there are two different categories of things going on with those. Sorry, Tim, can you say that again?",
+          "Txarro: I just said, “Hello?” In common."
+        ],
+        "after": [
+          "Kaito Min: Tim… is it talking to us, like, in a voice that we can hear? Like, can we place… is it, like, somebody speaking in front of us? Or, like, can we, like, do we locationally know where they are?",
+          "DM: It is speaking psychically, but you do have a sense that it is a thing that it… nonetheless, that there is a location sort of toward the back, towards the top of the room.",
+          "DM: This room, like all the others, is a 30-foot cube. And, Txarro's investigation suggests that, like, it's almost like a root-bound plant that has grown to fill the entire space of its pot, except maybe a relatively small open area where you are now. But that's somewhere towards the back, towards the top, is the center of the thing itself.",
+          "Kaito Min: But the entity is there.",
+          "DM: Yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The missing teacher and Edric’s answer",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0475",
+        "endUid": "u0523"
+      },
+      "lines": [
+        "%% u0475:0-17 %%",
+        "Kaito Min: What do you want?",
+        "",
+        "%% u0476:0-96, u0477:0-59 %%",
+        "DM: There's a tremble in the voice of the thing as it responds, and says, almost like fear, it says, “I'm not… knowing, and I'm not… knowing why I'm not knowing.”",
+        "",
+        "%% u0478:0-5 %%",
+        "Tarek: Beam.",
+        "",
+        "%% u0479:0-46, u0480:0-43, u0481:0-28, u0482:0-58 %%",
+        "DM: I'm missing… my teacher, I am missing my home. I'm loving… the dreams that I've collected. And I'm not letting them go. I'm not knowing, and I am not knowing why I'm not knowing.",
+        "",
+        "%% u0483:0-43 %%",
+        "Edric: Can you tell us a story about your teacher?",
+        "",
+        "%% u0484:0-42, u0485:0-12 %%",
+        "DM: I will tell you a story about your future. No, teacher.",
+        "",
+        "%% u0486:0-35 %%",
+        "Edric: I said teacher. Yeah, teacher, not…",
+        "",
+        "%% u0487:0-29, u0488:0-11 %%",
+        "DM: Teacher. Teacher, not future. Yeah. Sure.",
+        "",
+        "%% u0489:0-43 %%",
+        "Edric: Can you tell us a story about your teacher?",
+        "",
+        "%% u0490:0-53, u0491:0-38, u0492:0-30, u0493:0-16, u0494:0-19, u0495:0-23 %%",
+        "DM: When my teacher is finding me, I am being very small, and the world is being very, very big. When my teacher is finding me, I'm not knowing what this place is… I am not knowing words.",
+        "",
+        "%% u0496:0-27, u0497:0-55 %%",
+        "DM: My teacher is very patient. My teacher… it is very nice, and explains things to me.",
+        "",
+        "%% u0498:0-76, u0499:0-60, u0500:0-36, u0501:0-81, u0502:0-45, u0503:0-29, u0504:0-25, u0505:0-63, u0506:0-38 %%",
+        "DM: And my teacher is having to leave, and I am not wanting my teacher to leave. But my teacher is having to leave. My teacher is explaining. He is saying, he is part of a story. And everything here is part of a story. And there are words for before and after. And he is having to do his part of the story. And he is coming to me after. And he is believing that. But I am knowing it is not true, and I am not seeing him again. And I am sad, because I am loving him.",
+        "",
+        "%% u0507:0-46 %%",
+        "DM: Now you'll tell me a story about your teacher.",
+        "",
+        "%% u0508:0-43, u0509:0-36, u0510:0-83 %%",
+        "Edric: My teacher is a power beyond understanding that… guides… that… watches over us as we transition, from life to death, from death to life, and makes the night safe.",
+        "",
+        "%% u0511:0-45, u0512:0-28, u0513:0-15, u0514:0-13 %%",
+        "Edric: And… she teaches me to… have faith every day that the night will be safe no matter what else happens.",
+        "",
+        "%% u0515:0-17 %%",
+        "DM: I am seeing this.",
+        "",
+        "%% u0516:0-19, u0517:0-26 %%",
+        "Edric: Your teacher seems… Where did your teacher go?",
+        "",
+        "%% u0518:0-68 %%",
+        "DM: My teacher is going back to his house, where his party is beginning.",
+        "",
+        "%% u0519:0-5 %%",
+        "Tarek: Yeah.",
+        "",
+        "%% u0520:0-10 %%",
+        "DM: Is saying.",
+        "",
+        "%% u0521:0-9 %%",
+        "Tarek: The Lord.",
+        "",
+        "%% u0522:0-6, u0523:0-9 %%",
+        "DM: Right. Pointing."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: A hollow, root-like structure that seems to you almost identical to the one which you crawled from the, from Taelgar to the Feywild through. A room that's… at least by its, sort of, dimensions and size and shape, suggests that it's grown out of the prison.",
+          "Ayveen: The rate that prisoners have been coming… hasn't quite been enough to maintain 100%.",
+          "Ayveen: The rate that mortals have been coming hasn't been quite enough to maintain 100% prison structural integrity. So there's a root. And the mushroom men got out, too—our world, and… were able to be servants, and they got… out into the Feywild, and were able to be… dangerous.",
+          "Txarro: Oh, it's gonna turn back into a… lizardfolk. It's a little bit easier to talk.",
+          "DM: Kaito asks…"
+        ],
+        "after": [
+          "Txarro: Txarro keeps glancing over at the… hole in the floor and looks to everybody and says, “Why don't we just leave?”",
+          "Tarek: And go where?",
+          "Txarro: There's a tunnel through the roots over there, very much like the tunnel we came into this cursed realm from.",
+          "DM: Oh, you think we could just… go through?",
+          "Txarro: I do not know where it leads, but… that is my guess."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Dreams, fungal children, and the root’s exit",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0536",
+        "endUid": "u0604"
+      },
+      "lines": [
+        "%% u0536:0-26 %%",
+        "Kaito Min: What would you have us do?",
+        "",
+        "%% u0537:0-52, u0538:0-94 %%",
+        "DM: Dreamers are being difficult, always, to explain to. And you being here, and your dreams are confusing to me, and I cannot see what they are doing.",
+        "",
+        "%% u0539:0-23, u0540:0-39 %%",
+        "DM: I am bringing you here. I'm not knowing what is happening next.",
+        "",
+        "%% u0541:0-29, u0542:0-13, u0543:0-18 %%",
+        "Kaito Min: Do you want us to stay or go, or bring you, or something else?",
+        "",
+        "%% u0544:0-8, u0545:0-28, u0546:0-74, u0547:0-64 %%",
+        "DM: I'm not… I am not a thing that wants. It makes the dreams I've collected very confusing, because I do want them. I'm not a choosing thing, like the dreamers are choosing things.",
+        "",
+        "%% u0548:0-32 %%",
+        "Tarek: The dreamers like… to leave you?",
+        "",
+        "%% u0549:0-75 %%",
+        "DM: A pebble in your pocket is wanting to fall to the ground as soon as it can.",
+        "",
+        "%% u0550:0-5 %%",
+        "Tarek: Shit.",
+        "",
+        "%% u0551:0-33, u0552:0-63 %%",
+        "Txarro: I'm gonna look over at Kaito Min and sort of say, under my breath, “Why do we care what it wants?”",
+        "",
+        "%% u0553:0-18 %%",
+        "Kaito Min: How do we go home?",
+        "",
+        "%% u0554:0-24 %%",
+        "Edric: No, we can't leave this.",
+        "",
+        "%% u0555:0-8 %%",
+        "Txarro: Why not?",
+        "",
+        "%% u0556:0-46 %%",
+        "Edric: It's eating souls and doesn't know any better.",
+        "",
+        "%% u0557:0-72 %%",
+        "Tarek: Maybe we can convince it to let them all go, but then what would happen?",
+        "",
+        "%% u0558:0-5 %%",
+        "((Brief aside))",
+        "",
+        "%% u0559:0-54, u0560:0-10 %%",
+        "Edric: They go to the land of the dead and where they belong. Hopefully.",
+        "",
+        "%% u0561:0-52 %%",
+        "Tarek: Well, doesn't that seem like it would be beneficial?",
+        "",
+        "%% u0562:0-4, u0563:0-26 %%",
+        "Edric: Yes! That's why we can't leave.",
+        "",
+        "%% u0564:0-87 %%",
+        "Ayveen: When dreamers don't have bodies anymore… sorry, Kaito, were you about to say something?",
+        "",
+        "%% u0565:0-15, u0566:0-26, u0567:0-27, u0568:0-32, u0569:0-34 %%",
+        "Ayveen: When… dreamers? Dreams will stay with you. But another form can leave. Those have gone from this place. They've gone and… many directions.",
+        "",
+        "%% u0570:0-72, u0571:0-3, u0572:0-22 %%",
+        "Ayveen: Have you helped guide where they leave when they leave through the exit? Or… is that not something…",
+        "",
+        "%% u0573:0-92, u0574:0-29, u0575:0-31 %%",
+        "Ayveen: As you said, you're not… you do not choose. Do you not choose where the dreamers go, or the… we call them mushroom people—where they go, when they leave.",
+        "",
+        "%% u0576:0-48, u0577:0-44, u0578:0-27, u0579:0-60 %%",
+        "DM: Sometimes when the dreamers come into this room, my children, who are not knowing any better, find a home inside of them and grow until there's no more Dreamer and only my children?",
+        "",
+        "%% u0580:0-37, u0581:0-3, u0582:0-71, u0583:0-27 %%",
+        "Ayveen: So when your children have left here in… what used to be a dreamer, but is not anymore. It is all your children. Is it chance where they go?",
+        "",
+        "%% u0584:0-32, u0585:0-64, u0586:0-14, u0587:0-4, u0588:0-21 %%",
+        "DM: The ones who built my playhouse… the ones who built my playhouse kept me… from seeing where I am and when I am. Wow. Not that that's real.",
+        "",
+        "%% u0589:0-86, u0590:0-92, u0591:0-64 %%",
+        "DM: They made it… so that they are the ones who are controlling where I am, and when I am. And therefore, they are the ones who control where and when my children go, when they leave out through the root that I grew before everything began moving.",
+        "",
+        "%% u0592:0-31, u0593:0-33, u0594:0-31, u0595:0-86, u0596:0-45 %%",
+        "DM: So when I send my children out, and two, when I send out the ones who did not become my children, I am sending them… like seeds scattered on the wind, not knowing where they will land. I have no way of knowing where and when I am.",
+        "",
+        "%% u0597:0-50, u0598:0-25, u0599:0-17 %%",
+        "Ayveen: So if we know where and when we are, and we leave, that is where we will be through the root.",
+        "",
+        "%% u0600:0-122 %%",
+        "DM: Where and when it is inside the room is where and when it is on the far side of the root. That is the nature of the thing.",
+        "",
+        "%% u0601:0-36 %%",
+        "Ayveen: What year did you say it was, Tarek?",
+        "",
+        "%% u0602:0-14 %%",
+        "Tarek: 1351, I think?",
+        "",
+        "%% u0603:0-23 %%",
+        "Edric: I don't wanna go there.",
+        "",
+        "%% u0604:0-20 %%",
+        "Tarek: That's not our time."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Oh, you think we could just… go through?",
+          "Txarro: I do not know where it leads, but… that is my guess.",
+          "DM: Okay.",
+          "Kaito Min: We're having this conversation telepathically or out loud?",
+          "DM: Out loud, the voice in your head seems telepathic, but you're responding out loud."
+        ],
+        "after": [
+          "DM: 1351? That is a funny time.",
+          "Tarek: What's funny about it? Funny, haha.",
+          "DM: That is the time that Old Hulda went to.",
+          "Kaito Min: Who? Old Hulda?",
+          "DM: Old Hul… Hulda. Yeah. Wait."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The older Hulda and the fourth successful seed",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0605",
+        "endUid": "u0659"
+      },
+      "lines": [
+        "%% u0605:0-5, u0606:0-21 %%",
+        "DM: 1351? That is a funny time.",
+        "",
+        "%% u0607:0-22, u0608:0-12 %%",
+        "Tarek: What's funny about it? Funny, haha.",
+        "",
+        "%% u0609:0-40 %%",
+        "DM: That is the time that Old Hulda went to.",
+        "",
+        "%% u0610:0-15 %%",
+        "Kaito Min: Who? Old Hulda?",
+        "",
+        "%% u0611:0-15, u0612:0-5, u0613:0-5 %%",
+        "DM: Old Hul… Hulda. Yeah. Wait.",
+        "",
+        "%% u0614:0-48 %%",
+        "Edric: Did he set himself up in some sort of time loop?",
+        "",
+        "%% u0615:0-28 %%",
+        "DM: The thing… laughs to itself.",
+        "",
+        "%% u0616:0-80 %%",
+        "Edric: I'm not sure if Edric… well, no, Edric would have said that, well, just kill it.",
+        "",
+        "%% u0617:0-37, u0618:0-50, u0619:0-28 %%",
+        "DM: Dreamers are being difficult, always. I'm seeing… the shape of your dream's possibility. And it is being your future.",
+        "",
+        "%% u0620:0-36, u0621:0-47, u0622:0-268 %%",
+        "DM: All of you are being 20 years older. Tarek, you are being a father to your children. And Ayveen, you are helping your parents' dream drift home? And Txarro, you are caring for a whole village. And Kaito Min, you are not being adrift, you are going home. And Edric, you are not being in the world at all. You are at the gate, where your godmother stands.",
+        "",
+        "%% u0623:0-68, u0624:0-263 %%",
+        "DM: In this possibility, Old Hulda is not getting the deed for my bones. Old Hulda is adventuring still. Old Hulda is being angry all the time, and hurt, and sad, and is finding door in my bones, and crawling through tunnel, and is walking road, and is opening door, and is talking to me, right now, inside this house. I am telling him:",
+        "",
+        "%% u0625:0-33, u0626:0-17 %%",
+        "DM: You are old and angry and ending. I am telling him:",
+        "",
+        "%% u0627:0-89, u0628:0-96, u0629:0-64 %%",
+        "DM: Crawl through the hole in my floor, and it is being 400 years ago without you being born. You are writing letters on paper, and giving it to a man who is giving it back to a younger you. You are writing a promise to break the agreement of my teacher.",
+        "",
+        "%% u0630:0-87, u0631:0-19 %%",
+        "DM: And you are keeping house and reward, and best of all, younger you is not becoming you. And he is doing it.",
+        "",
+        "%% u0632:0-49, u0633:0-173 %%",
+        "DM: Old Man Hulda is crawling through hole and dying. But young man Hulda is getting my deed, and my children are helping find you, and you are being here, and your dreams are confusing me, and I cannot see what they are doing.",
+        "",
+        "%% u0634:0-32, u0635:0-79, u0636:0-65 %%",
+        "DM: And this is the fourth time now that one of the seeds I've cast out into the world has sent someone back to me. And I am hoping that this is the last time, and I am not knowing.",
+        "",
+        "%% u0637:0-4, u0638:0-57, u0639:0-10 %%",
+        "Tarek: Wow. That explains, and yet also fails to explain, everything. I love it.",
+        "",
+        "%% u0640:0-26 %%",
+        "Kaito Min: What the fuck is going on?",
+        "",
+        "%% u0641:0-24, u0642:0-70 %%",
+        "Tarek: What are my kids' names? No, no, wait. I don't want to know, because they may never come to be.",
+        "",
+        "%% u0643:0-16, u0644:0-21 %%",
+        "Tarek: The fourth time? What were the others?",
+        "",
+        "%% u0645:0-6 %%",
+        "DM: Peace.",
+        "",
+        "%% u0646:0-25 %%",
+        "DM: It's silent. It's silent.",
+        "",
+        "%% u0647:0-36, u0648:0-36 %%",
+        "Tarek: Time loops are hard to reason about. Time loops are hard to reason about.",
+        "",
+        "%% u0649:0-34 %%",
+        "Ayveen: Our dreams are confusing, alright.",
+        "",
+        "%% u0650:0-24 %%",
+        "Kaito Min: This is the fourth time.",
+        "",
+        "%% u0651:0-64, u0652:0-75 %%",
+        "DM: Not that it is with all of you specifically, but the fourth time that he has sent someone out into the world who has returned others to Him.",
+        "",
+        "%% u0653:0-10 %%",
+        "Kaito Min: So before…",
+        "",
+        "%% u0654:0-89, u0655:0-34 %%",
+        "DM: It's ambiguous whether all four of those were Hulda or whether those four were different people—are different versions, or…",
+        "",
+        "%% u0656:0-22 %%",
+        "Kaito Min: Yeah, so I mean, like.",
+        "",
+        "%% u0657:0-37 %%",
+        "DM: The fourth experiment, or the fourth…",
+        "",
+        "%% u0658:0-17 %%",
+        "Kaito Min: Iteration of the…",
+        "",
+        "%% u0659:0-63 %%",
+        "DM: The fourth run, yeah. The fourth one that's got a result, yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Where and when it is inside the room is where and when it is on the far side of the root. That is the nature of the thing.",
+          "Ayveen: What year did you say it was, Tarek?",
+          "Tarek: 1351, I think?",
+          "Edric: I don't wanna go there.",
+          "Tarek: That's not our time."
+        ],
+        "after": [
+          "Kaito Min: Hulda's number 4, and there were 3 others.",
+          "Edric: What are we—what the fuck are we supposed to do? So… you want this to be the last time, we want this to be the last time, what do we do? Edric literally just says that out loud.",
+          "DM: I am not knowing how to let go… of the dreams that I've collected.",
+          "Tarek: I found… upon learning… how to make it, without anyone else knowing, things could end up in my pockets.",
+          "Tarek: That it all went much better after that if they came out again."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Tarek’s cup and the binding force of stories",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0665",
+        "endUid": "u0698"
+      },
+      "lines": [
+        "%% u0665:0-8, u0666:0-14, u0667:0-15, u0668:0-28, u0669:0-34 %%",
+        "Tarek: I found… upon learning… how to make it, without anyone else knowing, things could end up in my pockets.",
+        "",
+        "%% u0670:0-40, u0671:0-23 %%",
+        "Tarek: That it all went much better after that if they came out again.",
+        "",
+        "%% u0672:0-46, u0673:0-63, u0674:0-8 %%",
+        "Tarek: I take things and I give them back right away. In fact… I've got this thing, if you happen to know what it is. I don't.",
+        "",
+        "%% u0675:0-35, u0676:0-42, u0677:0-40 %%",
+        "DM: I'm gonna challenge that, actually. I need you to describe what this thing is, and especially what its significance is.",
+        "",
+        "%% u0678:0-7 %%",
+        "Tarek: Oh, no.",
+        "",
+        "%% u0679:0-12 %%",
+        "DM: You'd think.",
+        "",
+        "%% u0680:0-54, u0681:0-24 %%",
+        "Tarek: Well, I'll just use the first thing that came to mind. It's a cup, a small one.",
+        "",
+        "%% u0682:0-51, u0683:0-30, u0684:0-62, u0685:0-19 %%",
+        "Tarek: I've been carrying it around in this… a velvet bag. I think I found it in the bag. Anyway, through the bag, you can kind of feel that it's… it's… heavily ornamented.",
+        "",
+        "%% u0686:0-56 %%",
+        "Tarek: What would you drink from such a cup? That I don't know.",
+        "",
+        "%% u0687:0-29, u0688:0-24 %%",
+        "DM: Who's drinking from this cup? And what is on this cup?",
+        "",
+        "%% u0689:0-34, u0690:0-34, u0691:0-27 %%",
+        "Tarek: It came from your teacher's house. I would take it out and look, but… I'm out here. I cannot see.",
+        "",
+        "%% u0692:0-16 %%",
+        "Tarek: I didn't see it.",
+        "",
+        "%% u0692:16-50, u0693:0-42, u0694:0-31 %%",
+        "DM: You feel something in it… soften. My teacher… he's telling me… that stories… are what make before and after?",
+        "",
+        "%% u0695:0-39, u0696:0-9, u0697:0-12, u0698:0-11 %%",
+        "DM: My teacher is telling me… that stories… bind him, require him, oblige him."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kaito Min: Iteration of the…",
+          "DM: The fourth run, yeah. The fourth one that's got a result, yeah.",
+          "Kaito Min: Hulda's number 4, and there were 3 others.",
+          "Edric: What are we—what the fuck are we supposed to do? So… you want this to be the last time, we want this to be the last time, what do we do? Edric literally just says that out loud.",
+          "DM: I am not knowing how to let go… of the dreams that I've collected."
+        ],
+        "after": [
+          "DM: And I'll say mechanically, in order to convince him to let go of the souls, each of you has a persuasion check that you can make if you tell him a compelling story,",
+          "DM: That in an extremely open-ended way—in form and format and content and purpose, I mean, in as open-ended a way as you can imagine, among all the stories that you've encountered in the Feywild so far.",
+          "DM: A story… who's ready? The result is that he might let go of souls, or some of them, or all of them. Yes.",
+          "Tarek: Story about ourselves, or about someone else, or…",
+          "DM: Or about him, or about the future, or about the past, or about…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Edric’s story of the two miracles",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0750",
+        "endUid": "u0817"
+      },
+      "lines": [
+        "%% u0750:0-155, u0751:0-51 %%",
+        "Edric: He, like, prays to the Night Queen, and… and, like, well, we're still in pitch darkness, right? So you can't actually see him, but you can hear his prayer. And, again, you have this sense of, like, palpable…",
+        "",
+        "%% u0752:0-70, u0753:0-151 %%",
+        "Edric: This palpable sense of, like, religious fervor just in the room, like… and this sense of, like, what is happening here is just raw, like, almost radiating from him, the sense of anger at the wrongness of what is happening.",
+        "",
+        "%% u0754:0-66, u0755:0-105, u0756:0-28, u0757:0-39, u0758:0-32 %%",
+        "Edric: And he tells, in sort of short, short, staccato words, like… that… the cycle, like, the mythology of souls, right? The basic story is, like, the core miracle of all humans. But they are born, and then… the gods grant them a miracle at birth, passing their soul into Taelgar.",
+        "",
+        "%% u0759:0-50, u0760:0-60, u0761:0-9, u0762:0-39, u0763:0-10, u0764:0-142, u0765:0-272, u0766:0-123, u0767:0-70 %%",
+        "Edric: And the gods grant every human a miracle at death, taking their soul back in to the divine outer realms, right? And… and… Edric tells the story in, like, a very… religious flavor, right? Like, you know, the Night Queen mediates this, and… but real passion around, like, this is a miracle that every human deserves. And you cannot… and you are taking this miracle away from them. You are… when you take their dreams, you are not allowing, you are preventing the gods from taking this soul back in and giving them the miracle of death that the Night Queen brings, and the miracle of peace. And you think you are inspecting their dreams, and you do not know, you are not a human, you do not know what you're doing. But it is wrong, and you need to stop, because you are hurting people.",
+        "",
+        "%% u0768:0-135, u0769:0-58, u0770:0-282, u0771:0-16, u0772:0-21 %%",
+        "Edric: And I've, like, learned this, like, from… so the beginning is all, like, the typical myth, right? And then he's like, and I've learned… what's happening, these people who… I forget her name, but the person who created the prison, like, changed it, like, she… she's trapped you, and convinced you, and made you do this thing where you are… you are hurting these people, and you are… you are not somebody who wants to hurt people, and you… you do not believe in hurting, so stop. And let them go to where they belong.",
+        "",
+        "%% u0773:0-93, u0774:0-99, u0775:0-62, u0776:0-11, u0777:0-13, u0778:0-32, u0779:0-65, u0780:0-38, u0781:0-22, u0782:0-72, u0783:0-26, u0784:0-32, u0785:0-34, u0786:0-97, u0787:0-5, u0788:0-44, u0789:0-16, u0790:0-9, u0791:0-14, u0792:0-48, u0793:0-39, u0794:0-2, u0795:0-8, u0796:0-5, u0797:0-11, u0798:0-9, u0799:0-37, u0800:0-46, u0801:0-56, u0802:0-14, u0803:0-11, u0804:0-53, u0805:0-91, u0806:0-32, u0807:0-31, u0808:0-16 %%",
+        "((Persuasion roll and resource mechanics))",
+        "",
+        "%% u0809:0-86, u0810:0-94 %%",
+        "DM: Describe… sorry, Mike, describe, as you're coming out of that rage, of your last rage. What… what's your affect like? What's it like coming out of that rage? This one in particular?",
+        "",
+        "%% u0811:0-6, u0812:0-110, u0813:0-188, u0814:0-28, u0815:0-72, u0816:0-36 %%",
+        "Edric: Edric? Normally, it's actually quite… normally Edric comes out of rage, like, in the post-combat rush, and it's like… a quicker transition, and so he kind of flows through a little bit more easily. Here, he just, he, like, sits down, but you'll see it, but he just kind of almost collapses, like, he feels… like… everything's gone now. And it's up to the fate of the gods, and you can't influence it anymore. He's just sitting on the ground now.",
+        "",
+        "%% u0817:0-10 %%",
+        "DM: I love it."
+      ],
+      "reviewContext": {
+        "before": [
+          "Edric: Instead of charisma.",
+          "DM: Yes. Fine.",
+          "Edric: On this story.",
+          "Tarek: I need to buy experience.",
+          "Edric: I need to find a die, but I'll… I'll tell… I can just roll on the… I can just roll on the team. So… so Edric's story is kind of like… so, like, he…"
+        ],
+        "after": [
+          "Kaito Min: Wait, so, Schwartz. We're telling a story, and then… and then how does this relate to the rolling?",
+          "DM: And then you're making a persuasion check with all whatever… whatever modifiers you can add to it.",
+          "DM: But you gotta tell… the story has to be effective, or it won't give you the roll.",
+          "Kaito Min: Got it.",
+          "DM: And it's gotta be about, like, something that would convince him to let go of souls. Yep. Yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Kaito’s story of happiness without possession",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0830",
+        "endUid": "u0936"
+      },
+      "lines": [
+        "%% u0830:0-16, u0831:0-86, u0832:0-4, u0833:0-122, u0834:0-31, u0835:0-12, u0836:0-80, u0837:0-8 %%",
+        "Kaito Min: I wanna go next. So… Kaito Min… you can't see Kaito Min, of course none of us can see fucking anything. But… again, this… being here… being here in this moment has been, like, honestly, kind of a religious experience for Kaito Min. And… he gets down on his knees, and kind of… you know, is in a… is facing in a general direction to where he hears the voice. And… he…",
+        "",
+        "%% u0838:0-136, u0839:0-44 %%",
+        "Kaito Min: I guess he's thinking this in his mind, because he doesn't say this out loud, actually. This is more of a private conversation with the, with this voice, whomever… whomever this is.",
+        "",
+        "%% u0840:0-28, u0841:0-36, u0842:0-39 %%",
+        "Kaito Min: And Kaito's basically, like: You love the dreamers and the souls. And I've also loved dreamers and souls.",
+        "",
+        "%% u0843:0-34, u0844:0-14, u0845:0-34, u0846:0-33, u0847:0-27, u0848:0-4 %%",
+        "Kaito Min: And I've loved… being a trickster. The trickster, the one to show… dreamers' dreams. And Tarek. The one to show souls the way to use their souls. And…",
+        "",
+        "%% u0849:0-15, u0850:0-4, u0851:0-7, u0852:0-16, u0853:0-20, u0854:0-4 %%",
+        "Kaito Min: So many dreams. And… dreams. But also stolen, and kept for myself. And…",
+        "",
+        "%% u0855:0-15, u0856:0-15, u0857:0-17 %%",
+        "Kaito Min: So many dreams have been lost and not returned.",
+        "",
+        "%% u0858:0-95, u0859:0-18, u0860:0-51, u0861:0-28, u0862:0-28 %%",
+        "Kaito Min: And those dreamers, they've… lost the ability to dream, or they've… maybe lost their own souls. But I didn't care. Because… I had their souls, and I had their dreams. And that made me very happy. It made me very, very happy.",
+        "",
+        "%% u0863:0-12, u0864:0-98 %%",
+        "Kaito Min: And I'm old. Relatively speaking. Not as… maybe not as old as you, I don't even know what time means here, but…",
+        "",
+        "%% u0865:0-89, u0866:0-36, u0867:0-66, u0868:0-60 %%",
+        "Kaito Min: I've also kept so many dreams and so many souls, and I thought, that… that made me happy. I thought that that gave me meaning: that every new soul that I kept, every new dream that I collected would somehow make me more full, and make me more… at peace.",
+        "",
+        "%% u0869:0-10, u0870:0-30, u0871:0-20 %%",
+        "Kaito Min: And maybe… help me to understand more of who I thought I was?",
+        "",
+        "%% u0872:0-15, u0873:0-41, u0874:0-15, u0875:0-102, u0876:0-19 %%",
+        "Kaito Min: But being here… being in this nothingness, being in this total darkness. I actually don't remember anymore about the dreamers, or the dreams, or the souls, and the souls that… were taken or lost.",
+        "",
+        "%% u0877:0-22, u0878:0-43 %%",
+        "Kaito Min: Here, there's nothing. There are no dreamers and no souls, for me.",
+        "",
+        "%% u0879:0-39, u0880:0-57, u0881:0-60, u0882:0-46 %%",
+        "Kaito Min: But something is different here for me. Something that's different here than I've felt out there. And… even though there's no more dreamers and no more souls, with all of that gone, now I can see who I am.",
+        "",
+        "%% u0883:0-41, u0884:0-93, u0885:0-23, u0886:0-38, u0887:0-5, u0888:0-5, u0889:0-19 %%",
+        "Kaito Min: And… I thought I knew what happiness was. But now, without any dreamers, without any souls, with just this nothingness, I'm not scared. I'm not… empty, either. I think I'm… happy for the first time. Ever. Here. In the nothingness.",
+        "",
+        "%% u0890:0-45 %%",
+        "Kaito Min: In the darkness. With no souls and no dreams.",
+        "",
+        "%% u0891:0-45, u0892:0-40 %%",
+        "DM: Let me respond real quick before you roll it. After Edric's story, Edric's story, the…",
+        "",
+        "%% u0893:0-276 %%",
+        "DM: The sense was almost that the attention or focus of the prisoner was to the souls that it was holding, and Kaito, after your story, the sense is almost that it's thinking of its home, it's thinking of the place and the thing that it was before and maybe after what it is here.",
+        "",
+        "%% u0894:0-20, u0895:0-11, u0896:0-31, u0897:0-15, u0898:0-13, u0899:0-29, u0900:0-39, u0901:0-38, u0902:0-36, u0903:0-14, u0904:0-90, u0905:0-36, u0906:0-7, u0907:0-62, u0908:0-38, u0909:0-38, u0910:0-20, u0911:0-69, u0912:0-55, u0913:0-18, u0914:0-13, u0915:0-22, u0916:0-86, u0917:0-13, u0918:0-31, u0919:0-16, u0920:0-3, u0921:0-32, u0922:0-6, u0923:0-5, u0924:0-27, u0925:0-4, u0926:0-5, u0927:0-26, u0928:0-2, u0929:0-3, u0930:0-13 %%",
+        "((Persuasion roll and inspiration mechanics))",
+        "",
+        "%% u0931:0-41 %%",
+        "Tarek: Do we… is anything happening as a result?",
+        "",
+        "%% u0932:0-115, u0933:0-57, u0934:0-205 %%",
+        "DM: Nothing is happening that's visible, but there's… there's a feeling, I mean, there's a feeling like a softening, a… a shift. I mean, if you're in a conversation with someone, you know, who is so skeptical, and you can watch, in the course of the conversation, their face sort of shift and open and begin to hear and receive. That is the feeling that you're having, though there's…",
+        "",
+        "%% u0935:0-8 %%",
+        "Tarek: Nothing.",
+        "",
+        "%% u0936:0-32 %%",
+        "DM: To see that corresponds with it."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But you gotta tell… the story has to be effective, or it won't give you the roll.",
+          "Kaito Min: Got it.",
+          "DM: And it's gotta be about, like, something that would convince him to let go of souls. Yep. Yes.",
+          "DM: Yes, and, I mean, I… I think part of what I want to do is just make it really expansive. It's not merely, like an… argument in favor of letting go of souls. Yes. But it could be any flavor or… I mean, it could be a fairy tale, it could be a…",
+          "Kaito Min: I got it, okay."
+        ],
+        "after": [
+          "Kaito Min: I love it so much, it's like, are they bloodied? It's like, they're really, like, receptive and warm and loving. It's hilarious. They're bloodied.",
+          "Tarek: That's amazing.",
+          "Kaito Min: The best combat of all time. Great.",
+          "Tarek: Alright, so… You said to state the intention first?",
+          "DM: Yeah, so, sort of, so I know where you're going with it, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Tarek’s story of giving away the ring",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0940",
+        "endUid": "u1000"
+      },
+      "lines": [
+        "%% u0940:0-51 %%",
+        "Tarek: Alright, so… You said to state the intention first?",
+        "",
+        "%% u0941:0-62 %%",
+        "DM: Yeah, so, sort of, so I know where you're going with it, yeah.",
+        "",
+        "%% u0942:0-20, u0943:0-20, u0944:0-16, u0945:0-14 %%",
+        "Tarek: Oh. It's about how giving is receiving. And… letting go is… lightness.",
+        "",
+        "%% u0946:0-26, u0947:0-103, u0948:0-70, u0949:0-19 %%",
+        "Tarek: Once, when I was a kid, I, I just acted so fast out of instinct. I reached my hand to grab the frying pan that my mom had dropped (she wasn't really my mom, but, you know, the family I was living with) into the fireplace.",
+        "",
+        "%% u0950:0-91, u0951:0-4, u0952:0-117, u0953:0-104, u0954:0-46 %%",
+        "Tarek: And… you know, I've always been kind of quick, so I managed to grab it right by the handle. But, everybody was kind of afraid and surprised when I held it up, smiling, and gave it back, because… it was burning hot. But I didn't feel it. Nobody understood why. They were a little afraid of me after that, and I left home just for a day or two, like I would sometimes.",
+        "",
+        "%% u0955:0-72, u0956:0-70, u0957:0-9, u0958:0-36 %%",
+        "Tarek: And… wandering around, I've… I realized it was the… the summertime that… my body didn't react to the sun… the way it normally did, and I tried, you know, juggling hot coals, I found I could.",
+        "",
+        "%% u0959:0-86, u0960:0-19 %%",
+        "Tarek: But one day… I took off that ring. It's the one I found when I fell through the floor. And it all stopped.",
+        "",
+        "%% u0961:0-47, u0962:0-25, u0963:0-41, u0964:0-22, u0965:0-31, u0966:0-39 %%",
+        "Tarek: I thought maybe… maybe I should look into this. Before I had a chance to… wonder if maybe that could be my way out. Maybe I could sell it. Maybe somebody would be amazed, want to learn from me where I found it.",
+        "",
+        "%% u0967:0-30, u0968:0-27, u0969:0-34 %%",
+        "Tarek: It was the Midsummer Festival right around then, too, and you know, they love the fireworks.",
+        "",
+        "%% u0970:0-63, u0971:0-14, u0972:0-20, u0973:0-26 %%",
+        "Tarek: In that town where I grew up, and… sometimes there's accidents. And, normally, the kids I ran with, we just laugh, and… maybe…",
+        "",
+        "%% u0974:0-63, u0975:0-27, u0976:0-63 %%",
+        "Tarek: Sort through the wreckage, but this night… I saw a man weeping before a burning structure. And he was calling out for help because… this kid was in there.",
+        "",
+        "%% u0977:0-39, u0978:0-39 %%",
+        "Tarek: And… something let go inside me, and I, I went to him, and I gave him the ring.",
+        "",
+        "%% u0979:0-13, u0980:0-40, u0981:0-19 %%",
+        "Tarek: I said, “Look.” “Look, this will protect you. You can go. You can rescue her.”",
+        "",
+        "%% u0982:0-15, u0983:0-22 %%",
+        "Tarek: And he went in. And he was not burned.",
+        "",
+        "%% u0984:0-31, u0985:0-22 %%",
+        "Tarek: And I felt something that also… became calm within me.",
+        "",
+        "%% u0986:0-88, u0987:0-39, u0988:0-39, u0989:0-34 %%",
+        "Tarek: Because I thought maybe… that thing I found, I should find more of those things in that… that was all I would need in life, but… that moment, I realized there was more. I needed both to take and to give.",
+        "",
+        "%% u0990:0-69 %%",
+        "Tarek: And… I never saw that man again. I don't know if his child… survived.",
+        "",
+        "%% u0991:0-36, u0992:0-52 %%",
+        "Tarek: But I do know that I have a feeling of having made a change in the world for the better.",
+        "",
+        "%% u0993:0-43, u0994:0-22 %%",
+        "Tarek: But I could only do it by giving something instead of holding it.",
+        "",
+        "%% u0995:0-27, u0996:0-53, u0997:0-40 %%",
+        "DM: With the story, the entity… thinks back to the other stories its teacher told it. And the games that they played together.",
+        "",
+        "%% u0998:0-139, u0999:0-97 %%",
+        "DM: And the give and take of… imagining possibilities and growing into shapes, where… when the teacher was teaching it how to grow itself into… buildings, and to stretch its roots far and wide, that they… that there was an interchange there.",
+        "",
+        "%% u1000:0-35 %%",
+        "DM: That's lovely, alright. Roll it up."
+      ],
+      "reviewContext": {
+        "before": [
+          "Tarek: Nothing.",
+          "DM: To see that corresponds with it.",
+          "Kaito Min: I love it so much, it's like, are they bloodied? It's like, they're really, like, receptive and warm and loving. It's hilarious. They're bloodied.",
+          "Tarek: That's amazing.",
+          "Kaito Min: The best combat of all time. Great."
+        ],
+        "after": [
+          "Tarek: It's, persuasion check, and I have the inspiration… That's what I got. Oh, man. Are you wrong? That's… I rolled a 5 with a plus 3, so that's an 8.",
+          "DM: Do you have luck?",
+          "Tarek: I don't know, I don't think so.",
+          "Edric: Are you… you're… human?",
+          "Tarek: Yeah…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Ayveen’s song of remembered light",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1036",
+        "endUid": "u1107"
+      },
+      "lines": [
+        "%% u1036:0-36, u1037:0-38 %%",
+        "Ayveen: And now she beats a little bit more… firmly on her hand drum. She wants to…",
+        "",
+        "%% u1038:0-73, u1039:0-28, u1040:0-30, u1041:0-10, u1042:0-15 %%",
+        "Ayveen: Sing a song, tell a story of… reflecting back, this entity's experience. The way everyone can relate to… memories… and experiences… and hopes being the same.",
+        "",
+        "%% u1043:0-29, u1044:0-27 %%",
+        "Ayveen: Shine that light back on how… something given isn't gone.",
+        "",
+        "%% u1045:0-3, u1046:0-7, u1047:0-5 %%",
+        "((Brief hesitation))",
+        "",
+        "%% u1048:0-90, u1049:0-10, u1050:0-11, u1051:0-29, u1052:0-3, u1053:0-17 %%",
+        "Ayveen: I sing a song… all the people… who have told me… they've seen… a meaningful light shining. I've seen… a fey lord thinking in endless twilight of… stars in the sky.",
+        "",
+        "%% u1054:0-20, u1055:0-18, u1056:0-25, u1057:0-27 %%",
+        "Ayveen: I've seen… the moon shining so bright and… making people think of the day that is to come.",
+        "",
+        "%% u1058:0-54, u1059:0-34 %%",
+        "Ayveen: On the day that was passed, and… a night for dreaming. And the lights twinkle in the sky.",
+        "",
+        "%% u1060:0-10, u1061:0-60, u1062:0-91, u1063:0-13 %%",
+        "Ayveen: The stars. They have a rhythm of their own in the pulse of the twinkle. And when it's daytime and you can't see them, you still know… that particular bright light of the stars.",
+        "",
+        "%% u1064:0-46, u1065:0-41, u1066:0-24, u1067:0-11 %%",
+        "Ayveen: And when it's… nighttime, but there's no moon, you still know… that particular radiance of being bathed in that soft light.",
+        "",
+        "%% u1068:0-96, u1069:0-23 %%",
+        "Ayveen: And… all of these lights… come to different people, and they mean so much, and they're not gone when they're not there.",
+        "",
+        "%% u1070:0-32, u1071:0-26 %%",
+        "Ayveen: And… in the Feywild at twilight or… in the dark of a well.",
+        "",
+        "%% u1072:0-50, u1073:0-73, u1074:0-34 %%",
+        "Ayveen: There's always the thought… of the bright shining of… the lights that we've seen, the souls that we've met, and the rhythm… of their movement in our memories.",
+        "",
+        "%% u1075:0-41, u1076:0-30, u1077:0-37 %%",
+        "Ayveen: And our hope that we will see them again, and our knowing that they are… and they have been. And they will be.",
+        "",
+        "%% u1078:0-21, u1079:0-15, u1080:0-12 %%",
+        "Ayveen: And we see the stars in the daytime in our mind.",
+        "",
+        "%% u1081:0-29, u1082:0-14 %%",
+        "Ayveen: And we see the sun, at night in our memory.",
+        "",
+        "%% u1083:0-32, u1084:0-42 %%",
+        "Ayveen: And we look forward to the moon on the dark nights, when she is not there.",
+        "",
+        "%% u1085:0-33, u1086:0-32, u1087:0-86 %%",
+        "Ayveen: And always… as a candle flickers when a person comes into a room, there's coming, and there's going, and the lights are different, and they're the same.",
+        "",
+        "%% u1088:0-30, u1089:0-39, u1090:0-13 %%",
+        "Ayveen: And… the moon will come again. The stars will always be there pulsing. They twinkle.",
+        "",
+        "%% u1091:0-12 %%",
+        "Ayveen: I'm missing…",
+        "",
+        "%% u1092:0-68, u1093:0-21, u1094:0-26 %%",
+        "Ayveen: And everything has its place, and its place is to be what it can be and what it has been and be shared by everyone.",
+        "",
+        "%% u1095:0-28, u1096:0-13 %%",
+        "Ayveen: And… everyone reflects back. And I… we've…",
+        "",
+        "%% u1097:0-36, u1098:0-148, u1099:0-74, u1100:0-5 %%",
+        "((Poetry aside))",
+        "",
+        "%% u1101:0-37, u1102:0-77 %%",
+        "DM: Stars. But the entity… within itself… There's something that's a shifting. It's… it's said, or it's intimated that…",
+        "",
+        "%% u1103:0-172 %%",
+        "DM: It lives its entire life simultaneously, that it doesn't experience or understand or have the sense of befores and afters. And there's something in what you're saying that…",
+        "",
+        "%% u1104:0-22, u1105:0-95 %%",
+        "DM: Helps it remember that even if it let these things go, it's still having them. It's not a creature that lives in time.",
+        "",
+        "%% u1106:0-44, u1107:0-13 %%",
+        "DM: It's still having the moment of having them. And, alright."
+      ],
+      "reviewContext": {
+        "before": [
+          "Tarek: Thanks.",
+          "DM: Cool.",
+          "Kaito Min: Killed that.",
+          "DM: You guys are doing great, this is not automatically impossible.",
+          "Ayveen: Ayveen has been, you know, giving out her bardic inspiration by drumming along gently with her colleagues' songs or stories."
+        ],
+        "after": [
+          "DM: How'd the persuasion roll go?",
+          "Ayveen: Mmm…",
+          "Ayveen: Well, I rolled a 16. Adding my 7 to Persuasion is… 23 plus… the bardic from my… elven bardic colleague… is another 3, so 26.",
+          "Edric: That's, that's, like, more than the rest of us put together, but, you know.",
+          "DM: Well, it helps to roll a double-digit number."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "The ancestral story spoken through Txarro",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1118",
+        "endUid": "u1184"
+      },
+      "lines": [
+        "%% u1118:0-67 %%",
+        "Txarro: On the ground this whole time, not really listening to the stories.",
+        "",
+        "%% u1119:0-15 %%",
+        "DM: And… Beautiful.",
+        "",
+        "%% u1120:0-28, u1121:0-49, u1122:0-44 %%",
+        "Txarro: Looks up as Ayveen finishes her tale. And you can see that he's, like, kinda… conflicted or despairing a little bit, like…",
+        "",
+        "%% u1123:0-45, u1124:0-4, u1125:0-28, u1126:0-29 %%",
+        "Txarro: He's probably never told a story in his life. And… isn't the sort of person who… he's a loner by trade, right?",
+        "",
+        "%% u1127:0-30, u1128:0-40, u1129:0-106, u1130:0-62 %%",
+        "Txarro: And as he's sitting there, he… turns and he looks up into the darkness. And even though he has… he left his village under some conflict, with his… with the elders of the village. And he is somewhat reluctant to call on his ancestors for aid.",
+        "",
+        "%% u1131:0-36, u1132:0-94 %%",
+        "Txarro: He turns, and he looks, and he says—well, it doesn't say anything, it says something in lizard language you don't understand, but,",
+        "",
+        "%% u1133:0-123, u1134:0-55 %%",
+        "Txarro: But as he does, and I'm using the Lizardfolk Ancestral aid ability to give myself persuasion in, proficiency in persuasion. And flavoring it as the ancestors speaking through him.",
+        "",
+        "%% u1135:0-14 %%",
+        "DM: Oh, I love it.",
+        "",
+        "%% u1136:0-5 %%",
+        "Tarek: Word.",
+        "",
+        "%% u1137:0-63, u1138:0-26, u1139:0-104 %%",
+        "Txarro: His voice changes to this sort of gravelly, almost echoey tone. And he turns and he looks… in the direction of the entity, wherever it is, clearly being able to see it or sense it in some manner.",
+        "",
+        "%% u1140:0-102 %%",
+        "Txarro: And those of you who know Txarro don't really recognize him anymore. It's almost as if he's possessed.",
+        "",
+        "%% u1141:0-59, u1142:0-67 %%",
+        "Txarro: And he begins speaking, and he says directly to the entity: “You want to know how to let something go that you think you cannot.”",
+        "",
+        "%% u1143:0-43, u1144:0-35, u1145:0-11 %%",
+        "Txarro: This is the story of the lizardfolk Txarro, who we thought we could not let go. But we did.",
+        "",
+        "%% u1146:0-76, u1147:0-9, u1148:0-23 %%",
+        "Txarro: And the voice of Txarro begins speaking and tells the story of… a young man who felt trapped in his village.",
+        "",
+        "%% u1149:0-51, u1150:0-51, u1151:0-39 %%",
+        "Txarro: Lizardfolk villages, the ancestor explains to this… entity that presumably doesn't understand them, are… places of abundance where life thrives.",
+        "",
+        "%% u1152:0-226 %%",
+        "Txarro: But places of order and rigidity, too, where everything must have its place. And the village is like the fish weir that we build on the river that brings food and nutrients and life, but traps everything that swims through it.",
+        "",
+        "%% u1153:0-141, u1154:0-19 %%",
+        "Txarro: And the voice continues, saying how, while many thrive growing into the weave and vines of these nets that make the village strong and whole, Txarro was trapped.",
+        "",
+        "%% u1155:0-19, u1156:0-24 %%",
+        "Txarro: The net caught him. And we could not let go.",
+        "",
+        "%% u1157:0-63, u1158:0-16, u1159:0-83 %%",
+        "Txarro: We wanted to hold him to ourselves, to keep him in the village. To make him… us. To turn him into the net. Like his brothers and sisters and nest mates and cousins.",
+        "",
+        "%% u1160:0-58, u1161:0-34, u1162:0-50, u1163:0-51 %%",
+        "Txarro: And he wandered, and we kept pulling him back. And we saw… the net begin to weave around him; structures of our village begin to… grow over him, encase him, bind him. We were grasping him tightly.",
+        "",
+        "%% u1164:0-53, u1165:0-36, u1166:0-40 %%",
+        "Txarro: But what we did not see until it was almost too late was that there was no longer Txarro. We were turning him into something else.",
+        "",
+        "%% u1167:0-32, u1168:0-32, u1169:0-20, u1170:0-17, u1171:0-19, u1172:0-28 %%",
+        "Txarro: It was only by opening our hand and letting him… out of the net, escape the rigidity, the strictures of the village itself, that he could be who he was.",
+        "",
+        "%% u1173:0-60 %%",
+        "Txarro: So as you grasp these souls that you love, you destroy them.",
+        "",
+        "%% u1174:0-23, u1175:0-43, u1176:0-32 %%",
+        "Txarro: But it is not too late. Because we learned our lesson. We realized we had to let him… find himself.",
+        "",
+        "%% u1177:0-77, u1178:0-43 %%",
+        "Txarro: And so we opened our hands, we broke the bonds of those nets, and we let him… flow down the river to where fate took him.",
+        "",
+        "%% u1179:0-77 %%",
+        "Txarro: And that is how he is here now, and that is what you now can do for yourself.",
+        "",
+        "%% u1180:0-46, u1181:0-62 %%",
+        "Txarro: And Txarro's eyes open, and he sort of blinks, and looks around, sort of mutters, “Did I… did I say something?”",
+        "",
+        "%% u1182:0-35, u1183:0-12 %%",
+        "Kaito Min: Kaito's like, that was really good. That's good.",
+        "",
+        "%% u1184:0-35 %%",
+        "Tarek: You did well, Txarro. You did well."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Well, it helps to roll a double-digit number.",
+          "Edric: It does. I mean, it turns out it really does.",
+          "Kaito Min: I gotta be a bard.",
+          "DM: So…",
+          "Ayveen: On the hand drum."
+        ],
+        "after": [
+          "DM: Old. Yup.",
+          "Txarro: That is a… 16, because I also get a plus D4 from the ancestor's aid. Plus, I'm proficient, so that's now…",
+          "DM: 8.",
+          "Txarro: Plus a D6. That's 20.",
+          "DM: You feel it in your body, each of you, before you can consciously perceive the rumbling vibration, the sound that's moving through you, not just your ears, but your whole body, the sound that you can feel in your lungs of something… like the sound of an earthquake."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The source explicitly frames the ancestral voice as flavor for Txarro’s ability; the excerpt preserves that qualification without asserting an independent manifestation."
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The souls released, Aurae stilled, and the prisoner freed",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1192",
+        "endUid": "u1245"
+      },
+      "lines": [
+        "%% u1192:0-25, u1193:0-12, u1194:0-59, u1195:0-120, u1196:0-46 %%",
+        "DM: You feel it in your body, each of you, before you can consciously perceive the rumbling vibration, the sound that's moving through you, not just your ears, but your whole body, the sound that you can feel in your lungs of something… like the sound of an earthquake.",
+        "",
+        "%% u1197:0-84 %%",
+        "DM: The pitch blackness doesn't change. There's nothing that you can see with your eyes.",
+        "",
+        "%% u1198:0-85, u1199:0-70 %%",
+        "DM: But at the same time, like the painting that you stumbled across in the lecture hall, you can see a patch of darkness which is blacker than everything else.",
+        "",
+        "%% u1200:0-93 %%",
+        "DM: A patch of darkness in the shape of a child, standing on almost a hillside of roots and bone.",
+        "",
+        "%% u1201:0-57, u1202:0-43, u1203:0-11, u1204:0-31, u1205:0-74, u1206:0-51 %%",
+        "DM: It opens its hands, and cradled in the palm of its hands is something like a seed pod of a milkweed, containing… containing something inside it, which, no matter how hard you try to remember, in all the years that come, you can never remember exactly what it looked like.",
+        "",
+        "%% u1207:0-68, u1208:0-37, u1209:0-42, u1210:0-9, u1211:0-149 %%",
+        "DM: Like, a hundred tiny seeds blowing away through the air as the child lets go of the hundred souls it held and lets them speed onward, and they flow straight, swift in a direction away from every other direction, going to a home that none of you know, but to which you each will go one day, and they're gone.",
+        "",
+        "%% u1212:0-4 %%",
+        "Tarek: Hmm.",
+        "",
+        "%% u1213:0-32, u1214:0-35, u1215:0-54 %%",
+        "DM: Hanging in a makeshift backpack, Aurae opens its mouth and its eyes, and says, “What? Wha… wha-wh—” And then its voice slows.",
+        "",
+        "%% u1216:0-127, u1217:0-5, u1218:0-9 %%",
+        "DM: And it goes still and inert, and you know that whatever powered it is gone, and in fact, whatever powered the whole of the 27th room is… gone.",
+        "",
+        "%% u1219:0-17, u1220:0-35, u1221:0-50 %%",
+        "DM: And the rumbling grows deeper, and at the same time, the child begins to shift and change in its shape.",
+        "",
+        "%% u1222:0-95 %%",
+        "DM: And as the house collapses around you, it grows and bursts the prison open from the inside out.",
+        "",
+        "%% u1223:0-40, u1224:0-157 %%",
+        "DM: And this, what you see, you DO remember. You remember, in every one of the worst moments of your life that come in all of the years that follow, this is what you see when you close your eyes. It is…",
+        "",
+        "%% u1225:0-133, u1226:0-212, u1227:0-59, u1228:0-256, u1229:0-116 %%",
+        "DM: An un-thing. Made of bone and bramble and tree roots and mold, shaped something like a dandelion made of darkness seven stories tall. Its roots, the size of elephants, are alive and writhing like slugs, like pale leeches exposed to the light, terrified, unthinking, reaching through the boundaries of the multiverse like living and clawed things. And the dandelion at the top, this pale sphere, spread out. At the end of each of those seeds are the faces of everyone you have ever met, trying to rip themselves free of the horror that they know that they are. A plant whose leaves around the base are tentacles of rot and bone and darkness, which, until recently, wrapped themselves around the shimmering spheres of mortal souls which screamed for centuries without ever stopping.",
+        "",
+        "%% u1230:0-18, u1231:0-179 %%",
+        "DM: And what you know in the darkness and the nightmare moments in the decades to come are that this thing that you perceive is only the closest approximation your mind can make of what it actually is.",
+        "",
+        "%% u1232:0-28 %%",
+        "DM: And then it's a child again.",
+        "",
+        "%% u1233:0-40, u1234:0-101, u1235:0-84 %%",
+        "DM: And the ruins and remains of the prison and of the house, now shaken apart around you as you were sheltered under one of these horror leaves, are sliding down the sides of the cliff, and into the ravine, and into the darkness.",
+        "",
+        "%% u1236:0-92, u1237:0-52 %%",
+        "DM: The child is sitting at the edge of a low stone well, maybe a foot high above the cliffside where a doorframe used to be leading into the house.",
+        "",
+        "%% u1238:0-60, u1239:0-40 %%",
+        "DM: It shakes the last of the milkweed puffs free from its hand. And looks at each of you simultaneously.",
+        "",
+        "%% u1240:0-82, u1241:0-49, u1242:0-29 %%",
+        "DM: And you see in it a child, and an adult, and a madman, and a monster, all at once. And it puts a single finger in front of its lips. And disappears down the well.",
+        "",
+        "%% u1243:0-29, u1244:0-48, u1245:0-61 %%",
+        "DM: And the five of you are left on an empty hillside, in the gathering twilight just as the first stars of evening are beginning to come out."
+      ],
+      "reviewContext": {
+        "before": [
+          "Tarek: You did well, Txarro. You did well.",
+          "DM: Old. Yup.",
+          "Txarro: That is a… 16, because I also get a plus D4 from the ancestor's aid. Plus, I'm proficient, so that's now…",
+          "DM: 8.",
+          "Txarro: Plus a D6. That's 20."
+        ],
+        "after": [
+          "DM: That's where we'll end, and I… I have a closing… montage, too.",
+          "DM: But before that, I want to give a moment, if there's… conversation or business among the five of you. I don't want to cut it off without… if there's anything that needs… saying among the party. But we are gonna leave you there. I don't think there's anything to say.",
+          "Tarek: Just so good.",
+          "DM: I think from there… the camera pans up and away from you and out towards the horizon where the sun has set. And then pans back again.",
+          "DM: And it's the last of the sunset shining through a high window of an old house onto the bloody and exhausted form of Lord Hulda. Surrounded by the butchered corpse of the half-dozen mushroom men Aldens, who were his servants. And he drinks a potion, but his wounds don't fully close, and he coughs, and then he coughs again, and he doesn't stop coughing until he does, all at once."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Hulda’s death and the children left behind",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1253",
+        "endUid": "u1262"
+      },
+      "lines": [
+        "%% u1253:0-19, u1254:0-37, u1255:0-50, u1256:0-25 %%",
+        "DM: I think from there… the camera pans up and away from you and out towards the horizon where the sun has set. And then pans back again.",
+        "",
+        "%% u1257:0-78, u1258:0-49, u1259:0-252 %%",
+        "DM: And it's the last of the sunset shining through a high window of an old house onto the bloody and exhausted form of Lord Hulda. Surrounded by the butchered corpse of the half-dozen mushroom men Aldens, who were his servants. And he drinks a potion, but his wounds don't fully close, and he coughs, and then he coughs again, and he doesn't stop coughing until he does, all at once.",
+        "",
+        "%% u1260:0-80, u1261:0-196, u1262:0-126 %%",
+        "DM: Below the old trees, on the wild edges of the Duchy of Tellim, it's always dusk. And in that twilight, the pale mushroom children of the Thirst walk without sleeping or dreaming or hungering, and they flee from fire and iron, and they make new siblings out of anyone they find. And they search in those woods, always, obsessively, for the hidden door that will bring them back home to their parent again."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And you see in it a child, and an adult, and a madman, and a monster, all at once. And it puts a single finger in front of its lips. And disappears down the well.",
+          "DM: And the five of you are left on an empty hillside, in the gathering twilight just as the first stars of evening are beginning to come out.",
+          "DM: That's where we'll end, and I… I have a closing… montage, too.",
+          "DM: But before that, I want to give a moment, if there's… conversation or business among the five of you. I don't want to cut it off without… if there's anything that needs… saying among the party. But we are gonna leave you there. I don't think there's anything to say.",
+          "Tarek: Just so good."
+        ],
+        "after": [
+          "DM: In a room filled with glass tanks of fungus growing on severed limbs, just as you feel the first rumbles start to vibrate through it, just as you can see the glass tanks shaking and the house is destroyed, a body in the shape of a dwarven woman, but made from fungi and lichens of every possible description, sits up and looks, for a long moment, at the lifeless corpse which once held the soul now encased in its own fungal golem flesh.",
+          "DM: And as the room around her shakes, as pieces of the ceiling begin to fall to the floor, Kallipseis, now wizard head of Arithrimos Lamperum in a golem body, consults a book filled with long lists of six-digit numbers and blinks out of sight.",
+          "DM: Camera pulls back, and it's a quiet, thatched cottage by the side of a road which runs parallel exactly to the sunset, and a tigerman is stowing in his bag the polished sphere of crystal through which he watched a golem plane shift out of the Feywild.",
+          "DM: And he draws thoughtfully from his pipe, and sighs. And at the corners of his mouth, a sly smile creeps across the massive tiger face.",
+          "DM: It is no time. It is not time, it is outside of time, in the black nothingness beyond the universe, where the black stars do not shine, and an un-thing that is sometimes a child, and sometimes a monster can once again see the complete and unambiguous shape of all of its own possibilities. Its past, its present, its future, all at once, unhidden, always moving, never changing."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The vignette calls several servants “Aldens”; the named Alden is not individually distinguished among them."
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Kallipseis completes the transfer and escapes",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1263",
+        "endUid": "u1267"
+      },
+      "lines": [
+        "%% u1263:0-70, u1264:0-52, u1265:0-83, u1266:0-231 %%",
+        "DM: In a room filled with glass tanks of fungus growing on severed limbs, just as you feel the first rumbles start to vibrate through it, just as you can see the glass tanks shaking and the house is destroyed, a body in the shape of a dwarven woman, but made from fungi and lichens of every possible description, sits up and looks, for a long moment, at the lifeless corpse which once held the soul now encased in its own fungal golem flesh.",
+        "",
+        "%% u1267:0-240 %%",
+        "DM: And as the room around her shakes, as pieces of the ceiling begin to fall to the floor, Kallipseis, now wizard head of Arithrimos Lamperum in a golem body, consults a book filled with long lists of six-digit numbers and blinks out of sight."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But before that, I want to give a moment, if there's… conversation or business among the five of you. I don't want to cut it off without… if there's anything that needs… saying among the party. But we are gonna leave you there. I don't think there's anything to say.",
+          "Tarek: Just so good.",
+          "DM: I think from there… the camera pans up and away from you and out towards the horizon where the sun has set. And then pans back again.",
+          "DM: And it's the last of the sunset shining through a high window of an old house onto the bloody and exhausted form of Lord Hulda. Surrounded by the butchered corpse of the half-dozen mushroom men Aldens, who were his servants. And he drinks a potion, but his wounds don't fully close, and he coughs, and then he coughs again, and he doesn't stop coughing until he does, all at once.",
+          "DM: Below the old trees, on the wild edges of the Duchy of Tellim, it's always dusk. And in that twilight, the pale mushroom children of the Thirst walk without sleeping or dreaming or hungering, and they flee from fire and iron, and they make new siblings out of anyone they find. And they search in those woods, always, obsessively, for the hidden door that will bring them back home to their parent again."
+        ],
+        "after": [
+          "DM: Camera pulls back, and it's a quiet, thatched cottage by the side of a road which runs parallel exactly to the sunset, and a tigerman is stowing in his bag the polished sphere of crystal through which he watched a golem plane shift out of the Feywild.",
+          "DM: And he draws thoughtfully from his pipe, and sighs. And at the corners of his mouth, a sly smile creeps across the massive tiger face.",
+          "DM: It is no time. It is not time, it is outside of time, in the black nothingness beyond the universe, where the black stars do not shine, and an un-thing that is sometimes a child, and sometimes a monster can once again see the complete and unambiguous shape of all of its own possibilities. Its past, its present, its future, all at once, unhidden, always moving, never changing.",
+          "DM: And in that place, which is not a place, it doesn't think of the soul hoard it kept, but of the teacher who found it as a lost child and loved it into speech.",
+          "DM: And finally… finally."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Rakshasa puts away the viewing sphere",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1268",
+        "endUid": "u1272"
+      },
+      "lines": [
+        "%% u1268:0-18, u1269:0-232 %%",
+        "DM: Camera pulls back, and it's a quiet, thatched cottage by the side of a road which runs parallel exactly to the sunset, and a tigerman is stowing in his bag the polished sphere of crystal through which he watched a golem plane shift out of the Feywild.",
+        "",
+        "%% u1270:0-40, u1271:0-10, u1272:0-82 %%",
+        "DM: And he draws thoughtfully from his pipe, and sighs. And at the corners of his mouth, a sly smile creeps across the massive tiger face."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I think from there… the camera pans up and away from you and out towards the horizon where the sun has set. And then pans back again.",
+          "DM: And it's the last of the sunset shining through a high window of an old house onto the bloody and exhausted form of Lord Hulda. Surrounded by the butchered corpse of the half-dozen mushroom men Aldens, who were his servants. And he drinks a potion, but his wounds don't fully close, and he coughs, and then he coughs again, and he doesn't stop coughing until he does, all at once.",
+          "DM: Below the old trees, on the wild edges of the Duchy of Tellim, it's always dusk. And in that twilight, the pale mushroom children of the Thirst walk without sleeping or dreaming or hungering, and they flee from fire and iron, and they make new siblings out of anyone they find. And they search in those woods, always, obsessively, for the hidden door that will bring them back home to their parent again.",
+          "DM: In a room filled with glass tanks of fungus growing on severed limbs, just as you feel the first rumbles start to vibrate through it, just as you can see the glass tanks shaking and the house is destroyed, a body in the shape of a dwarven woman, but made from fungi and lichens of every possible description, sits up and looks, for a long moment, at the lifeless corpse which once held the soul now encased in its own fungal golem flesh.",
+          "DM: And as the room around her shakes, as pieces of the ceiling begin to fall to the floor, Kallipseis, now wizard head of Arithrimos Lamperum in a golem body, consults a book filled with long lists of six-digit numbers and blinks out of sight."
+        ],
+        "after": [
+          "DM: It is no time. It is not time, it is outside of time, in the black nothingness beyond the universe, where the black stars do not shine, and an un-thing that is sometimes a child, and sometimes a monster can once again see the complete and unambiguous shape of all of its own possibilities. Its past, its present, its future, all at once, unhidden, always moving, never changing.",
+          "DM: And in that place, which is not a place, it doesn't think of the soul hoard it kept, but of the teacher who found it as a lost child and loved it into speech.",
+          "DM: And finally… finally.",
+          "DM: Under a twilight sky, wide green lawns rise from the river to a beautiful manor house where a party has finished. The paper lanterns hanging on long lines are all extinguished, and the grounds are silent, and the partygoers have departed.",
+          "DM: And in the upper room of the dark house, the Lord of the Ended Revel looks out a high window toward the place where the sun has set, thinking of the child he befriended just before his party began."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The prisoner beyond time",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1273",
+        "endUid": "u1277"
+      },
+      "lines": [
+        "%% u1273:0-203, u1274:0-175 %%",
+        "DM: It is no time. It is not time, it is outside of time, in the black nothingness beyond the universe, where the black stars do not shine, and an un-thing that is sometimes a child, and sometimes a monster can once again see the complete and unambiguous shape of all of its own possibilities. Its past, its present, its future, all at once, unhidden, always moving, never changing.",
+        "",
+        "%% u1275:0-40, u1276:0-43, u1277:0-73 %%",
+        "DM: And in that place, which is not a place, it doesn't think of the soul hoard it kept, but of the teacher who found it as a lost child and loved it into speech."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Below the old trees, on the wild edges of the Duchy of Tellim, it's always dusk. And in that twilight, the pale mushroom children of the Thirst walk without sleeping or dreaming or hungering, and they flee from fire and iron, and they make new siblings out of anyone they find. And they search in those woods, always, obsessively, for the hidden door that will bring them back home to their parent again.",
+          "DM: In a room filled with glass tanks of fungus growing on severed limbs, just as you feel the first rumbles start to vibrate through it, just as you can see the glass tanks shaking and the house is destroyed, a body in the shape of a dwarven woman, but made from fungi and lichens of every possible description, sits up and looks, for a long moment, at the lifeless corpse which once held the soul now encased in its own fungal golem flesh.",
+          "DM: And as the room around her shakes, as pieces of the ceiling begin to fall to the floor, Kallipseis, now wizard head of Arithrimos Lamperum in a golem body, consults a book filled with long lists of six-digit numbers and blinks out of sight.",
+          "DM: Camera pulls back, and it's a quiet, thatched cottage by the side of a road which runs parallel exactly to the sunset, and a tigerman is stowing in his bag the polished sphere of crystal through which he watched a golem plane shift out of the Feywild.",
+          "DM: And he draws thoughtfully from his pipe, and sighs. And at the corners of his mouth, a sly smile creeps across the massive tiger face."
+        ],
+        "after": [
+          "DM: And finally… finally.",
+          "DM: Under a twilight sky, wide green lawns rise from the river to a beautiful manor house where a party has finished. The paper lanterns hanging on long lines are all extinguished, and the grounds are silent, and the partygoers have departed.",
+          "DM: And in the upper room of the dark house, the Lord of the Ended Revel looks out a high window toward the place where the sun has set, thinking of the child he befriended just before his party began.",
+          "DM: And 5 travelers standing above a ravine look to each other and began to think on the way back home again. That's where we'll leave it.",
+          "Tarek: Spectacular. Damn."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The ended revel",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1279",
+        "endUid": "u1285"
+      },
+      "lines": [
+        "%% u1279:0-86, u1280:0-27, u1281:0-124 %%",
+        "DM: Under a twilight sky, wide green lawns rise from the river to a beautiful manor house where a party has finished. The paper lanterns hanging on long lines are all extinguished, and the grounds are silent, and the partygoers have departed.",
+        "",
+        "%% u1282:0-93, u1283:0-39, u1284:0-36, u1285:0-28 %%",
+        "DM: And in the upper room of the dark house, the Lord of the Ended Revel looks out a high window toward the place where the sun has set, thinking of the child he befriended just before his party began."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Camera pulls back, and it's a quiet, thatched cottage by the side of a road which runs parallel exactly to the sunset, and a tigerman is stowing in his bag the polished sphere of crystal through which he watched a golem plane shift out of the Feywild.",
+          "DM: And he draws thoughtfully from his pipe, and sighs. And at the corners of his mouth, a sly smile creeps across the massive tiger face.",
+          "DM: It is no time. It is not time, it is outside of time, in the black nothingness beyond the universe, where the black stars do not shine, and an un-thing that is sometimes a child, and sometimes a monster can once again see the complete and unambiguous shape of all of its own possibilities. Its past, its present, its future, all at once, unhidden, always moving, never changing.",
+          "DM: And in that place, which is not a place, it doesn't think of the soul hoard it kept, but of the teacher who found it as a lost child and loved it into speech.",
+          "DM: And finally… finally."
+        ],
+        "after": [
+          "DM: And 5 travelers standing above a ravine look to each other and began to think on the way back home again. That's where we'll leave it.",
+          "Tarek: Spectacular. Damn.",
+          "DM: This was really fun, y'all. Thank you.",
+          "Ayveen: Feywild.",
+          "Edric: No, that's fun."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Nicole Ardouin’s argument about alien minds",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1387",
+        "endUid": "u1387"
+      },
+      "lines": [
+        "%% u1387:0-333 %%",
+        "Txarro: Nicole Ardouin's theory of the University of Tollen that good and evil are not the right metrics to judge such alien realms, in her seminal work, The Exposition of the Alien Mind, she argued that some of the Far Realms that are home to beings who, if they could only be communicated with, could bring much new knowledge to the world."
+      ],
+      "reviewContext": {
+        "before": [
+          "Tarek: Right.",
+          "Edric: Right.",
+          "Tarek: Cool, cool.",
+          "Edric: And they're not all necessarily evil or bad, they're just aliens.",
+          "Txarro: Yeah, exactly. This is…"
+        ],
+        "after": [
+          "Tarek: Wait, I think she'd have…",
+          "Edric: When was that person writing? When did she write? Does that book have a date?",
+          "Ayveen: 13.",
+          "Txarro: You'll have to… you'll have to look at the…",
+          "Edric: At the store."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Thardrum’s disappearance and a tentative connection",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1416",
+        "endUid": "u1420"
+      },
+      "lines": [
+        "%% u1416:0-95 %%",
+        "Txarro: Thardrum Deepseeker, who wrote the other Far Realm book I invented, also mysteriously vanished.",
+        "",
+        "%% u1417:0-67, u1418:0-54, u1419:0-72, u1420:0-90 %%",
+        "Txarro: So maybe he was one of the dwarves. ((Order theory))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Txarro: Okay.",
+          "Edric: The Marches of Enford in there, because I have a Far Realms thing planned in my game. But it could be a different…",
+          "Edric: It's nowhere close… Marches of Enford is nowhere close to you. You put that Easter egg in for me, because I told you to.",
+          "Txarro: Okay.",
+          "Edric: But, there's other Far Realms people."
+        ],
+        "after": [
+          "DM: First, actually.",
+          "Txarro: Or something like that.",
+          "DM: Yes, but before that, the first use for it was they could feed their enemies to it, so they couldn't be resurrected or communicated with.",
+          "Txarro: Right, that I missed. That was a very subtle hint somewhere.",
+          "DM: That was a deep cut, but soon after that, this… the other person…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "The order’s original soul trap and disbanding",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1417",
+        "endUid": "u1435"
+      },
+      "lines": [
+        "%% u1417:0-67, u1418:0-54, u1419:0-72, u1420:0-90 %%",
+        "Txarro: ((Thardrum speculation)) Anyway, the Arithrimos Lamperum found out about this entity somehow, probably because… its roots were causing planar weirdness that they detected. Came to the… feywild, and was like, oh, cool, we can power a magical laboratory with this thing, souls.",
+        "",
+        "%% u1421:0-16 %%",
+        "DM: First, actually.",
+        "",
+        "%% u1422:0-23 %%",
+        "Txarro: Or something like that.",
+        "",
+        "%% u1423:0-137 %%",
+        "DM: Yes, but before that, the first use for it was they could feed their enemies to it, so they couldn't be resurrected or communicated with.",
+        "",
+        "%% u1424:0-60 %%",
+        "Txarro: Right, that I missed. That was a very subtle hint somewhere.",
+        "",
+        "%% u1425:0-65 %%",
+        "DM: That was a deep cut, but soon after that, this… the other person…",
+        "",
+        "%% u1426:0-123 %%",
+        "Edric: Picked up on that, it's eating their souls, so they can't be resurrected. That was the one… whole thing he was upset about.",
+        "",
+        "%% u1427:0-119, u1428:0-34, u1429:0-11 %%",
+        "Txarro: So then they built the 27th house, and in order to power it, they needed mortals walking through it, so they convinced… tricked the Feylord into the deal. Which then…",
+        "",
+        "%% u1430:0-92 %%",
+        "DM: When the order was still active, they didn't need the Feylord, because they were there once.",
+        "",
+        "%% u1431:0-200 %%",
+        "Txarro: They were there, but when they were… the last of the last leader of the order was like, all my people are gone, that's why it was… that's why there was nobody in the house, because the order had left.",
+        "",
+        "%% u1432:0-58 %%",
+        "Kaito Min: What happened to the order? Why did they leave? The house?",
+        "",
+        "%% u1433:0-125, u1434:0-18 %%",
+        "DM: Apollyon disbanded them, because they're… because they were powerful. Because they had their own resources, because whatever… You think it does?",
+        "",
+        "%% u1435:0-5 %%",
+        "Kaito Min: Them."
+      ],
+      "reviewContext": {
+        "before": [
+          "Edric: The Marches of Enford in there, because I have a Far Realms thing planned in my game. But it could be a different…",
+          "Edric: It's nowhere close… Marches of Enford is nowhere close to you. You put that Easter egg in for me, because I told you to.",
+          "Txarro: Okay.",
+          "Edric: But, there's other Far Realms people.",
+          "Txarro: Thardrum Deepseeker, who wrote the other Far Realm book I invented, also mysteriously vanished."
+        ],
+        "after": [
+          "Txarro: This is… did I send you, Schwartz to… history at… I sent you that history at the end of…",
+          "DM: Yeah.",
+          "Txarro: Taelgar, right? Okay, yeah, yeah. This is not on… I should put this on Taelgarverse.",
+          "Txarro: This is a deep cut that you couldn't have picked up on… nobody else could have picked up on because of the fact that it's not public.",
+          "Edric: Which… one."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Hulda’s proposed Philosopher’s Guild courier",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1514",
+        "endUid": "u1520"
+      },
+      "lines": [
+        "%% u1514:0-91, u1515:0-243 %%",
+        "DM: I'll fill in some holes. But I like to think, although I don't know if this works with your sense of it, Tim, is that he gave the deed to the Philosopher's Guild in exchange for one of the clocks that he had taken from the house, as payment for them fulfilling it 400 years later. I don't know if that's the sort of thing they do, but…",
+        "",
+        "%% u1516:0-39 %%",
+        "Txarro: Definitely not the Philosopher's Guild.",
+        "",
+        "%% u1517:0-41 %%",
+        "DM: Some magical society or another. Anyways…",
+        "",
+        "%% u1518:0-105 %%",
+        "Txarro: I mean, somebody could have, but the Philosopher's Guild would not… would never do an errand for anybody.",
+        "",
+        "%% u1519:0-4 %%",
+        "Tarek: Mmm.",
+        "",
+        "%% u1520:0-49 %%",
+        "Txarro: They would never stoop so low as to be a courier."
+      ],
+      "reviewContext": {
+        "before": [
+          "Txarro: No, it was the… no, because it was…",
+          "Edric: No, no, it was written in the court. But Sembara didn't actually exist, if you know yet.",
+          "Txarro: Didn't exist 400 years ago, so the legal language of the deed would have been wrong for 1352.",
+          "Kaito Min: Alright, true.",
+          "Txarro: The other three we didn't know about, they were just other 3 parties that we just never learned. Did I miss anything? I don't know."
+        ],
+        "after": [
+          "Tarek: Maybe there's some…",
+          "DM: You're… you're confirming they're not a Drankorian secret society.",
+          "Edric: Well, we do that.",
+          "Txarro: You knew they weren't… I mean, they're… no, I would say.",
+          "DM: Oh, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "The debrief’s account of the prisoner’s origin",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1528",
+        "endUid": "u1553"
+      },
+      "lines": [
+        "%% u1528:0-85 %%",
+        "DM: That's the… that's the key pieces of it. You know, going back to the beginning again…",
+        "",
+        "%% u1529:0-82, u1530:0-15 %%",
+        "DM: Yeah, this seed or spore or little piece of an entity from outside of the universe drifts through.",
+        "",
+        "%% u1531:0-155 %%",
+        "DM: There's part of me that likes to think that in the Downfall Wars, there were things that poked holes in the fabric of the universe that never got resolved.",
+        "",
+        "%% u1532:0-19 %%",
+        "Txarro: Canonical, in fact.",
+        "",
+        "%% u1533:0-81, u1534:0-60 %%",
+        "DM: And it found its way through one of these holes and planted on the hillside. And… the Feylord, which was the next neighbor from down the road,",
+        "",
+        "%% u1535:0-44 %%",
+        "DM: Like, my sensibility about this guy is that…",
+        "",
+        "%% u1536:0-283, u1537:0-223 %%",
+        "DM: Like, he… it doesn't matter to him that this is a thing from beyond the universe. Like, he doesn't… he doesn't think about that experience, or this entity, or the danger it poses, or the fact that it could eat souls, like, just none of those things are relevant to him and who he is. Because he is so entirely in control of his own dominion, or he believes that he is. Like, he doesn't feel any sense of threat or danger, like, whatsoever. So he just treats it like, oh, this is a weird thing, let's… let's…",
+        "",
+        "%% u1538:0-123 %%",
+        "DM: Let's teach it how to grow houses, and create, and about how time works, and then he's gotta go off to start his own party.",
+        "",
+        "%% u1539:0-55, u1540:0-94, u1541:0-41 %%",
+        "DM: I think the first… in the story that it told you today, the first couple of souls that it ate were members of the Arithrimos Lamperum who were tracing… tracing back the roots that it had grown.",
+        "",
+        "%% u1542:0-165 %%",
+        "DM: I like to think that it just didn't understand that the different planes were different things, and so it didn't understand why its roots wouldn't just cross planes.",
+        "",
+        "%% u1543:0-134, u1544:0-65 %%",
+        "DM: And so they followed it back, and got eaten, and the next one got eaten, and so they came in force, and they put it inside the prison. And then discovered that it could grow its way out of the prison.",
+        "",
+        "%% u1545:0-90, u1546:0-65 %%",
+        "DM: Because it lives its entire life simultaneously, if it can predict what's going to happen, it can grow its way… it can anticipate that and grow its way out.",
+        "",
+        "%% u1547:0-122, u1548:0-4 %%",
+        "DM: So they realized that they would have to keep it constantly moving to sort of prune the roots that were growing out of it. Hmm.",
+        "",
+        "%% u1549:0-16 %%",
+        "Tarek: It's a constant.",
+        "",
+        "%% u1550:0-78 %%",
+        "DM: Be trimming those, otherwise it would grow, keep on growing across the planes.",
+        "",
+        "%% u1551:0-106, u1552:0-181, u1553:0-77 %%",
+        "DM: And this one particular… according to Edric, evil, but, you know, all progress involved sacrifice… wizard figured out how to harness the, sort of, potential energy of souls trying to get back to the plane of souls, and to tap into that as a power source, and built the house out of that. And who knows what other evil things across the universe are powered by that."
+      ],
+      "reviewContext": {
+        "before": [
+          "Edric: Well, we do that.",
+          "Txarro: You knew they weren't… I mean, they're… no, I would say.",
+          "DM: Oh, yeah.",
+          "Kaito Min: Short story.",
+          "Txarro: Learn."
+        ],
+        "after": [
+          "Txarro: And this is basically what, the… Now I'm forgetting the name of the things I made up.",
+          "Tarek: The mirror of soul trapping. You could use… No, not the Marathon.",
+          "Txarro: I think the… the… the…",
+          "Edric: Remember the…",
+          "Txarro: Fort… the elemental forge, that was, like, a trapped air element… trapped powerful being of the… from the air elemental. It's basically the same mechanism that…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "The Twilight Kingdom and the lord’s new title",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1581",
+        "endUid": "u1598"
+      },
+      "lines": [
+        "%% u1581:0-136 %%",
+        "Edric: Do you envision Endless Ending as… is this all his realm? Like, is he the lord of this realm, or is he, like, one of many in this, like…",
+        "",
+        "%% u1582:0-25 %%",
+        "DM: He's one of many, so the…",
+        "",
+        "%% u1583:0-136, u1584:0-105 %%",
+        "DM: Oh, it's so funny. This is in my notes that I read over before every session, but I never actually said, like, so the Twilight Kingdoms… where you were, are one of the interstitial spaces where, rather than, like, a big lord ruling all of it…",
+        "",
+        "%% u1585:0-206, u1586:0-150 %%",
+        "DM: You know, a dozen dozen houses, and some of them are like his were, and some of them are just little thatched cottages by the side of the road, or a tent, or a little castle, and the domain of each of those… like, the people who rule each of the… who run each of those, are no less powerful than a fey lord is in their domain, it's just that it's very small.",
+        "",
+        "%% u1587:0-9 %%",
+        "Edric: I'm like…",
+        "",
+        "%% u1588:0-70, u1589:0-60 %%",
+        "DM: The space that you rule is, like, the living room and the kitchen. Or… you know, in Endless Ending's case, a little bit more, yeah.",
+        "",
+        "%% u1590:0-104 %%",
+        "Txarro: Though I have it set up in Taelgarverse, Lord Endless Ending is the Lord of Lord Endless Ending's manor.",
+        "",
+        "%% u1591:0-145, u1592:0-5 %%",
+        "Txarro: Which is located in Twilight Kingdom, but Twilight Kingdom does not, in fact, have a lord. Which I didn't actually discuss with Schwartz, I just… like…",
+        "",
+        "%% u1593:0-29 %%",
+        "DM: All of this is correct, yeah.",
+        "",
+        "%% u1594:0-48 %%",
+        "Txarro: Intuitive, but I think that's basically correct.",
+        "",
+        "%% u1595:0-14 %%",
+        "Kaito Min: Works with me.",
+        "",
+        "%% u1596:0-49 %%",
+        "DM: In fairness, he no longer is Lord Endless Ending.",
+        "",
+        "%% u1597:0-18 %%",
+        "Edric: Now he's the Lord.",
+        "",
+        "%% u1598:0-42 %%",
+        "DM: Of the Ended Revel who lives in his manor."
+      ],
+      "reviewContext": {
+        "before": [
+          "Edric: Automatically.",
+          "Txarro: I don't know if you have more to fill in, Schwartz, but I just want to say, I…",
+          "Txarro: I, like, just deeply love how you… made up your own stuff, but it just somehow totally feels completely Taelgar-y.",
+          "DM: Oh, this is such a high praise, thank you! I was trying hard not to mess up your world.",
+          "Txarro: No, it's… well, I just… it's great. I love other people making up stuff, but when you're players, you're much more reluctant to invent stuff. But, like, everything just… it… it has the vibe completely right, but it adds new, unique stuff, which is… great."
+        ],
+        "after": [
+          "Kaito Min: Yeah, the party ended. Schwartz said, what was the deal with the four iterations? Like, the fourth… this is the fourth time?",
+          "DM: Oh, oh, yeah. So, okay. So, alright, so the order dissolves, Endless Ending gets tricked into sending people, the souls are the motive power that moves it, but the people, you know, spinning the thing are what keeps the entity from being able to see into the future. And at a certain point, these different aspects of the entity all begin to exist with more of themselves in superposition with each other. So there's the child version, the door that you walked through, but then there's also the, like…",
+          "DM: I mean, there's the, like, long-term addict version, like, the one who has been doing nothing but is… is having…",
+          "DM: Someone described addiction to me once, that regardless of the drug and regardless of the person, it is the same story for every single addict. It's fun, and then it's fun with problems, and then it's only problems. And so, like, that is… those are the three aspects. Like, the child, actually, before even finding souls, but then…",
+          "DM: Fun with problems is, like, the young adult version who's creating and growing houses and making things, and then only problems. And at some point along the way, one of those two entities, and I don't… I'm not sure which it is, starts to say, like, I don't actually like this. I actually am in a prison right now. I think it's the third one. I think it's the only problems. Starts to realize, wait a minute, this is not a playhouse, this is a prison, I'm trapped, I need to get free. And when it does that, it starts… for the people who are coming in, it starts to NOT take their souls, but inst… often, sometimes, but instead to sort of commission them to play, because it can see their whole past and future, like, to play on their desires and drives, and send them out in the world, to try to go break the promise that…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "The three aspects and the danger of an unpersuaded release",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1599",
+        "endUid": "u1631"
+      },
+      "lines": [
+        "%% u1599:0-124 %%",
+        "Kaito Min: Yeah, the party ended. Schwartz said, what was the deal with the four iterations? Like, the fourth… this is the fourth time?",
+        "",
+        "%% u1600:0-290, u1601:0-56, u1602:0-154 %%",
+        "DM: Oh, oh, yeah. So, okay. So, alright, so the order dissolves, Endless Ending gets tricked into sending people, the souls are the motive power that moves it, but the people, you know, spinning the thing are what keeps the entity from being able to see into the future. And at a certain point, these different aspects of the entity all begin to exist with more of themselves in superposition with each other. So there's the child version, the door that you walked through, but then there's also the, like…",
+        "",
+        "%% u1603:0-112 %%",
+        "DM: I mean, there's the, like, long-term addict version, like, the one who has been doing nothing but is… is having…",
+        "",
+        "%% u1604:0-331 %%",
+        "DM: Someone described addiction to me once, that regardless of the drug and regardless of the person, it is the same story for every single addict. It's fun, and then it's fun with problems, and then it's only problems. And so, like, that is… those are the three aspects. Like, the child, actually, before even finding souls, but then…",
+        "",
+        "%% u1605:0-161, u1606:0-65, u1607:0-278, u1608:0-54, u1609:0-260 %%",
+        "DM: Fun with problems is, like, the young adult version who's creating and growing houses and making things, and then only problems. And at some point along the way, one of those two entities, and I don't… I'm not sure which it is, starts to say, like, I don't actually like this. I actually am in a prison right now. I think it's the third one. I think it's the only problems. Starts to realize, wait a minute, this is not a playhouse, this is a prison, I'm trapped, I need to get free. And when it does that, it starts… for the people who are coming in, it starts to NOT take their souls, but inst… often, sometimes, but instead to sort of commission them to play, because it can see their whole past and future, like, to play on their desires and drives, and send them out in the world, to try to go break the promise that…",
+        "",
+        "%% u1610:0-5 %%",
+        "Kaito Min: Yeah.",
+        "",
+        "%% u1611:0-18, u1612:0-7 %%",
+        "DM: The Lord has made. And so…",
+        "",
+        "%% u1613:0-162 %%",
+        "Kaito Min: Wait, wait, sorry, sorry, sorry, just to break the promise so that there will be no more souls that get sent to the house, and then the power will stop, and then…",
+        "",
+        "%% u1614:0-3 %%",
+        "Txarro: So…",
+        "",
+        "%% u1615:0-44, u1616:0-113 %%",
+        "DM: So, so, though, if that had been successful, what would have happened is, Endless Ending would have stopped sending souls, the prison would have fallen apart.",
+        "",
+        "%% u1617:0-5 %%",
+        "Kaito Min: Yeah.",
+        "",
+        "%% u1618:0-63 %%",
+        "DM: And it would have become its entity form, like its horror form.",
+        "",
+        "%% u1619:0-15 %%",
+        "Tarek: I'm growing in…",
+        "",
+        "%% u1620:0-42 %%",
+        "DM: Wild and expanding back across dimensions.",
+        "",
+        "%% u1621:0-34 %%",
+        "Kaito Min: Why would it become a horror form?",
+        "",
+        "%% u1622:0-50 %%",
+        "Tarek: Because they would have been free from the prison.",
+        "",
+        "%% u1623:0-8 %%",
+        "DM: Because…",
+        "",
+        "%% u1624:0-88 %%",
+        "DM: Because there would have been no one there to tell it a story about why it shouldn't be.",
+        "",
+        "%% u1625:0-4 %%",
+        "Kaito Min: Huh.",
+        "",
+        "%% u1626:0-136, u1627:0-151, u1628:0-30 %%",
+        "DM: Like, because I think on some level, because that IS what the thing is. Like, this is, like, this is… this is not a benign cosmic child. This is a cosmic horror. This is something unfathomable and utterly alien, and so far beyond good and evil that life itself has no meaning to it. Like… And actually, like, from that…",
+        "",
+        "%% u1629:0-25 %%",
+        "Tarek: Bleeding dandelion, yeah.",
+        "",
+        "%% u1630:0-172, u1631:0-137 %%",
+        "DM: And this is the thing, from that perspective, that's why Thalestria cared so much about keeping the prison going. Like, that's why Menestheus was so dedicated to the order, even though there were terrible things that it was doing, was because they grasped, like, what the threat was from these cosmic entities."
+      ],
+      "reviewContext": {
+        "before": [
+          "Txarro: Intuitive, but I think that's basically correct.",
+          "Kaito Min: Works with me.",
+          "DM: In fairness, he no longer is Lord Endless Ending.",
+          "Edric: Now he's the Lord.",
+          "DM: Of the Ended Revel who lives in his manor."
+        ],
+        "after": [
+          "Txarro: So this is my one question.",
+          "Txarro: Txarro, I think, very str… I mean, happy to have been pushed by… Kaito mostly, I guess, and Edric, convinced that the prisoner was good.",
+          "Txarro: In the last session, Txarro really basically wanted to take the key back to Lord Endless Ending. But I don't know what would have happened, like… what would have happened?",
+          "DM: So, I prepped for 3 categories of possibilities of what you all might do.",
+          "Tarek: Wow."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i026",
+      "title": "The unplayed alternative of returning the key",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1691",
+        "endUid": "u1709"
+      },
+      "lines": [
+        "%% u1691:0-58, u1692:0-95 %%",
+        "Txarro: So, the most likely alternative scenario, in my mind, was… we like Lord Endless Ending. Yeah. I kind of felt sorry for him. Let's help him break the deal.",
+        "",
+        "%% u1693:0-75, u1694:0-251 %%",
+        "DM: Yes, so, Lord Ending wanted to break the key in order to free the prisoner. Because he discerned, this being his neighbor right down the road, he had watched what had happened, but been unable to affect it because he was in the middle of a party. He's hosting a party. He's not allowed to leave his party because he's the host.",
+        "",
+        "%% u1695:0-51, u1696:0-192, u1697:0-299, u1698:0-67 %%",
+        "DM: So if he could break the key and free the prisoner, then he would be released from his promise, then his party could end, then he could go help the child get back home again. So my thought was, in any of the scenarios where you're looping back… in time, one way or another, and going to Lord Ending to convince him to break the key, like, you could imagine a possibility that whatever year you come out at, you just run right back in again. You literally walk down the road to the party in progress, and have that conversation with Lord Ending. Convince him to break the key, and then he would… at least to know…",
+        "",
+        "%% u1699:0-31 %%",
+        "Txarro: So, I was under the impression…",
+        "",
+        "%% u1700:0-56 %%",
+        "DM: You that you had to convince the child to go home again.",
+        "",
+        "%% u1701:0-111 %%",
+        "Txarro: Right, but there wasn't any time loop involved there, because we could have just taken the key out of the door.",
+        "",
+        "%% u1702:0-62 %%",
+        "Kaito Min: I'm just gonna say, yeah, what if we had just not gone in the…",
+        "",
+        "%% u1703:0-5 %%",
+        "Txarro: Door.",
+        "",
+        "%% u1704:0-15 %%",
+        "Kaito Min: Taking the key.",
+        "",
+        "%% u1705:0-205 %%",
+        "Txarro: Not in the room at all, taking the key out of the door, walked back through the manor, unlocked the front door, walked to Lord Endless Ending's party, and given him the key. That's what he wanted us to do.",
+        "",
+        "%% u1706:0-18 %%",
+        "Kaito Min: We, we almost did.",
+        "",
+        "%% u1707:0-13 %%",
+        "DM: No, no, yeah.",
+        "",
+        "%% u1708:0-18 %%",
+        "Kaito Min: What would happen?",
+        "",
+        "%% u1709:0-354 %%",
+        "DM: You're exactly correct about the time loop in that one. So in that scenario, it's the same thing I just described. He breaks the key, the prison comes apart, you have to convince the child. The other scenario I was thinking of, though, is you go into the central prison, and then change your mind, and say, oh shit, we really should have gotten that key."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: There's… I mean, all time travel breaks down if you look too closely at it, but I hope I was consistent.",
+          "Ayveen: It was consistent.",
+          "DM: I think also those didn't occur to you because you are good people and wanted to do, like, the right thing. And especially once Edric was like, no, this will not stand.",
+          "Edric: Like… right.",
+          "DM: All of the methods of… all of the, like, avoidance scenario, sort of."
+        ],
+        "after": [
+          "DM: At which point, you leave the prison.",
+          "DM: And it doesn't matter what… from the perspective of Lord Ending, it does not matter what year you leave the prison, as long as it's after the agreement that he's made. As long as it's after his party has started ending.",
+          "Txarro: But I don't think… I think once we… I think it was pretty unlikely that we were gonna go back in time, not… I think not… at least from Txarro's perspective, not because… of selfishness, just because… that's all… that's, like, even more scary than talking to some weird child, is, like…",
+          "DM: So I agree that it was really unlikely, but I also imagine a scenario in which you as players thought, “Time travel, fuck yeah, let's do this!”",
+          "Txarro: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i027",
+      "title": "The closing audit of names, fates, and surviving places",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2509",
+        "endUid": "u2548"
+      },
+      "lines": [
+        "%% u2509:0-6, u2510:0-11 %%",
+        "Txarro: Hulda? Yep. Alden?",
+        "",
+        "%% u2511:0-4 %%",
+        "DM: Yep.",
+        "",
+        "%% u2512:0-11 %%",
+        "Txarro: Presumably…",
+        "",
+        "%% u2513:0-13 %%",
+        "DM: Mushroom Man.",
+        "",
+        "%% u2514:0-106 %%",
+        "Txarro: Pandel and the Rakshasa are just… they remain question marks. We don't need to know what happened to them.",
+        "",
+        "%% u2515:0-31, u2516:0-6 %%",
+        "Txarro: Kallipseis is the fungal golem, right?",
+        "",
+        "%% u2517:0-94 %%",
+        "DM: Yes, and is somewhere in the multiverse restarting, according to her, the Arithrimos Lamperum.",
+        "",
+        "%% u2518:0-52 %%",
+        "Txarro: What did you say Lord Endless Ending's name was now?",
+        "",
+        "%% u2519:0-29 %%",
+        "DM: Yep, Lord of the Ended Revel.",
+        "",
+        "%% u2520:0-17 %%",
+        "Txarro: Revel, of course.",
+        "",
+        "%% u2521:0-33 %%",
+        "Txarro: The Dandelion House is destroyed.",
+        "",
+        "%% u2522:0-4 %%",
+        "DM: Yep.",
+        "",
+        "%% u2523:0-100 %%",
+        "Txarro: Twilight Kingdom is Twilight Kingdom, Lord Endless Ending's Manor is still a manor, but not a party.",
+        "",
+        "%% u2524:0-82 %%",
+        "DM: No, it's… right, Lord of the Ended Revel's Manor, yeah, that's exactly right, yep.",
+        "",
+        "%% u2525:0-28 %%",
+        "Txarro: The 27th House is destroyed.",
+        "",
+        "%% u2526:0-80, u2527:0-29 %%",
+        "DM: The promontory is still there, and the well outside the universe is still there. Like, the well is still open.",
+        "",
+        "%% u2528:0-9 %%",
+        "Txarro: And then…",
+        "",
+        "%% u2529:0-59, u2530:0-48 %%",
+        "DM: Aurae would reclassify not as dead, but as inanimate. Like… I don't know if that's a meaningful distinction.",
+        "",
+        "%% u2531:0-38 %%",
+        "Txarro: Yeah, yeah, that's… that's meaningful.",
+        "",
+        "%% u2532:0-40 %%",
+        "Txarro: I… the butler is presumably still there.",
+        "",
+        "%% u2533:0-12 %%",
+        "DM: Outbuttling.",
+        "",
+        "%% u2534:0-26, u2535:0-21 %%",
+        "Txarro: I think that's everything. Books are just books.",
+        "",
+        "%% u2536:0-66 %%",
+        "Txarro: The organization is, you know, exists as far as Kallipseis exists.",
+        "",
+        "%% u2537:0-51 %%",
+        "DM: Yeah, I… I think so. I also think, like, there are…",
+        "",
+        "%% u2538:0-173, u2539:0-83 %%",
+        "DM: There's more… there's a lot more that could be built out about the organization, and feel free to build it out. Like, it's interesting to think about some of the Drankorian… like, work on the multiverse… like, as being with people who are connected with it.",
+        "",
+        "%% u2540:0-74, u2541:0-46 %%",
+        "DM: I think it occupies this interesting place between, on the one hand, like… genuinely keeping the world safe from threats.",
+        "",
+        "%% u2542:0-7 %%",
+        "Txarro: Mm-hmm.",
+        "",
+        "%% u2543:0-54 %%",
+        "DM: On the other hand, not… worrying about how they do it.",
+        "",
+        "%% u2544:0-4 %%",
+        "Txarro: Out.",
+        "",
+        "%% u2545:0-89, u2546:0-88 %%",
+        "Txarro: Sorry, last thing before you go, do you have a preferred canonical name for the prisoner? You call them the Thirst at the very end, but I wasn't sure if that was the actual name.",
+        "",
+        "%% u2547:0-187, u2548:0-13 %%",
+        "DM: No, the order called him the Thirst, and the Feylord called him the Child, and he's also the… I gotta ponder that. I'm not sure I have. I think the prisoner in the 27th room is the great… like, that's…"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kaito Min: Definitely, like, the instructions on how to do the thing that we talked about, that would be, that'd be great, and then Schwartz, yeah, if you don't mind sending over that, that, that, a link to your…",
+          "DM: Yeah, I shared it already, yeah.",
+          "Txarro: Yeah, Schwartz.",
+          "DM: Tim, I have to go to bed, what, what, right. I still have to drive home as part of the problem.",
+          "Txarro: Okay. 2 minutes."
+        ],
+        "after": [
+          "Txarro: This is, like, a generic, perfectly fine. Okay. Okay, I think that's it. I'm gonna update a bunch of these, and I'll…",
+          "Txarro: If you find things that you want me to change in Taelgarverse, let me know.",
+          "DM: Mmm… awesome.",
+          "Txarro: Okay, good night. It was really fun.",
+          "DM: Bud."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
