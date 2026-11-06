@@ -1,0 +1,1044 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-106",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-session.yaml",
+    "sessionYamlSha256": "50b2c298ed883a33795930ac572890e0a446edc7a1c673b8c2f4981c7d82ad4b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-transcript.md",
+    "transcriptSha256": "bf75daf8aa690ac562e272c4215d165be1db7e0ca6750f8ab358353925c82fd5"
+  },
+  "places": {
+    "p01": {
+      "label": "jungles west of Drankor",
+      "kind": "jungle",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Awakened Jungle.md",
+      "note": "Identified as the Awakened Jungle from Pip, Canopy and its talking inhabitants.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "DM: Okay. So, we begin tonight in the jungles west of Drankor near the—"
+        },
+        {
+          "startUid": "u0013",
+          "endUid": "u0027",
+          "quote": "DM: Well, you can't, really. I guess it depends on whether you've climbed down from Vindristjarna yet or not, because from the skyship you can't see the the jungle floor. The canopy is thick, so, assuming you've landed at this point and are sort of creeping forward on the ground, you can see the tangled nest of crawling vines and thorns that marks the chaotic corruption that seems to have silenced this tree, known as the Eldest, or Canopy, and put a pall on the jungle. Pip, the fruit bat who guided you towards where she found the jade was full of stories as she flew, telling you about well, what she learned as a child only a few years ago, as she learned to talk as she learned to fly, not really knowing anything about the history of the jungle, and not really thinking it strange that she could speak elvish. But you heard tales from her of the mango trees that sing ballads when their fruit is ripe, calling her and her people and her companions to come feast; of the trickster monkeys who live on the mangroves on the coast, protected by Slither, an ancient boa constrictor, who run around the jungle howling news and gossip to everybody, but have been quiet of late; the orchids that bloom and whisper love poems to hummingbirds; the groves of banyan trees that speak in many voices, turning the stories of the jungle into dramatic plays. The Fire Clan, led by the Tiger Blaze, who live along the Big River to the west, keeping a watchful eye."
+        }
+      ]
+    },
+    "p02": {
+      "label": "clearing of the Eldest",
+      "kind": "clearing",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0006",
+              "quote": "DM: Okay. So, we begin tonight in the jungles west of Drankor near the—"
+            },
+            {
+              "startUid": "u0009",
+              "endUid": "u0012",
+              "quote": "DM: It's approaching sunset as you reach the place or person—it's not clear—that the bats call Canopy, or sometimes Eldest. The skies have cleared after a brief afternoon downpour, and the air is hot and humid and still. The jungle quiet around you. Directly ahead you can see—"
+            },
+            {
+              "startUid": "u0036",
+              "endUid": "u0039",
+              "quote": "DM: So through this journey you've surmised that at least part of the cause of this silence, of this shift in the mood of the jungle is before you: the thick, tangled mass of writhing, thorny vines that surrounds this tall tree that Pip referred to as the Eldest."
+            }
+          ]
+        }
+      ],
+      "note": "The clearing surrounds Canopy, identified in People/Other Nonhumans/Canopy.md.",
+      "evidence": [
+        {
+          "startUid": "u0013",
+          "endUid": "u0027",
+          "quote": "assuming you've landed at this point and are sort of creeping forward on the ground"
+        },
+        {
+          "startUid": "u1513",
+          "endUid": "u1515",
+          "quote": "DM: And so you return to the clearing of the tree, and—and the tree seems to be— sees you—sees you arrive, and says—"
+        }
+      ]
+    },
+    "p04": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "evidence": [
+        {
+          "startUid": "u0013",
+          "endUid": "u0027",
+          "quote": "from the skyship you can't see the the jungle floor."
+        },
+        {
+          "startUid": "u1494",
+          "endUid": "u1497",
+          "quote": "DM: So you rest. You return to Vindristjarna. You take some time to recover yourself from your fights. Talk to everybody who's hanging out on the on the ship."
+        }
+      ]
+    },
+    "p05": {
+      "label": "coastal mangroves of the howler monkeys",
+      "kind": "coastal grove",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0013",
+              "endUid": "u0027",
+              "quote": "of the trickster monkeys who live on the mangroves on the coast, protected by Slither, an ancient boa constrictor, who run around the jungle howling news and gossip to everybody"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1723",
+          "endUid": "u1731",
+          "quote": "DM: Yes. So the—the tree—the tree— so this tree is—is Eldest, or Canopy is what the other awakened creatures of the jungle refer to this tree as—directs you to— so the the so the the monkeys that it's talking about are—are—are howler monkeys that live on the mangroves in the coast. And so it directs you. It's fairly easy, I assume you take Vindristjarna?"
+        },
+        {
+          "startUid": "u1735",
+          "endUid": "u1744",
+          "quote": "DM: You come—come to the mangroves. You can see. So there's a, like, you know— You're directed by Canopy to where to go. There's a— there's like a few little groups of of monkeys, and you and you can see it looks like, you know, these are— there's like little clumps of them that are sort of grooming each other, and like clearly tending to sort of ill monkeys that are—you know, there's a lot of them seem to be ill. But not—not all them, and and they seem like they're recovering, right, like they're—they're all in sort of little groups like feeding them little like sips of fruit juice, and things like that out of little leaf cups. And a lot of them seem to be a lot of the the ones that are tending to the ones that were once sick seem to be very thin and emaciated."
+        }
+      ]
+    },
+    "p06": {
+      "label": "Sea of Storms",
+      "kind": "sea",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Sea of Storms.md",
+      "evidence": [
+        {
+          "startUid": "u1843",
+          "endUid": "u1850",
+          "quote": "DM: So you begin to travel over the Sea of Storms. It's—so, it's—it's strange. So again, there's not—there's not really that much wind. The weather, at least close to shore, is pretty calm, at least from the sky, but as you continue to go, the waves, you just see these crashing waves below you. It seems like every wave that you know everything—it's like—it's like a—a gale driving the waves, but not the air above the waves towards the shore."
+        }
+      ]
+    },
+    "p07": {
+      "label": "water outside the storm wall",
+      "kind": "offshore approach",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1843",
+              "endUid": "u1850",
+              "quote": "DM: So you begin to travel over the Sea of Storms. It's—so, it's—it's strange. So again, there's not—there's not really that much wind. The weather, at least close to shore, is pretty calm, at least from the sky, but as you continue to go, the waves, you just see these crashing waves below you. It seems like every wave that you know everything—it's like—it's like a—a gale driving the waves, but not the air above the waves towards the shore."
+            },
+            {
+              "startUid": "u1851",
+              "endUid": "u1863",
+              "quote": "DM: You begin to travel like following the line of where the monkeys pointed, and where Kenzo's sense tells them that the jade went. And you go about a 7, 8 h, about 80 miles off the coast, and you see— so pretty uneventful. The sun is beginning to sink low in the sky. The—it's—it's, you know, evening comes quickly at this low latitude—"
+            }
+          ]
+        }
+      ],
+      "note": "Outside the cloud wall; reaching this approach does not cross the storm.",
+      "evidence": [
+        {
+          "startUid": "u1851",
+          "endUid": "u1863",
+          "quote": "DM: You begin to travel like following the line of where the monkeys pointed, and where Kenzo's sense tells them that the jade went. And you go about a 7, 8 h, about 80 miles off the coast, and you see— so pretty uneventful. The sun is beginning to sink low in the sky. The—it's—it's, you know, evening comes quickly at this low latitude—"
+        },
+        {
+          "startUid": "u2350",
+          "endUid": "u2353",
+          "quote": "DM: Okay. So just—the ship is—the ship is, like, hovering sort of above, somewhat above the ocean, but the waves are like crashing on the bottom of the ship, and you're parked like, a few 100 feet from the clouds, something like that. Roughly like, where is this ship right now?"
+        }
+      ]
+    },
+    "p08": {
+      "label": "dome and wall of storm clouds",
+      "kind": "storm enclosure",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1843",
+              "endUid": "u1850",
+              "quote": "DM: So you begin to travel over the Sea of Storms. It's—so, it's—it's strange. So again, there's not—there's not really that much wind. The weather, at least close to shore, is pretty calm, at least from the sky, but as you continue to go, the waves, you just see these crashing waves below you. It seems like every wave that you know everything—it's like—it's like a—a gale driving the waves, but not the air above the waves towards the shore."
+            },
+            {
+              "startUid": "u1864",
+              "endUid": "u1871",
+              "quote": "DM: When suddenly you see shooting off out of the water in front of you like maybe 20, 30 feet—5,000 feet in front of you. Something like that. Just a giant storm, like a wall of clouds, actually a dome of clouds that seems to go up hundreds of feet into the air, and then just merge into this giant cloud bank. The sea below completely tossed and turned into a massive, stormy conflagration."
+            }
+          ]
+        }
+      ],
+      "note": "Final diameter estimate: roughly 45–50 miles after earlier estimates of 20–40. The visible cloud roof is about 3,000 feet high.",
+      "evidence": [
+        {
+          "startUid": "u1864",
+          "endUid": "u1871",
+          "quote": "DM: When suddenly you see shooting off out of the water in front of you like maybe 20, 30 feet—5,000 feet in front of you. Something like that. Just a giant storm, like a wall of clouds, actually a dome of clouds that seems to go up hundreds of feet into the air, and then just merge into this giant cloud bank. The sea below completely tossed and turned into a massive, stormy conflagration."
+        },
+        {
+          "startUid": "u1910",
+          "endUid": "u1916",
+          "quote": "DM: You're looking at a dome of clouds, like extending in a circle, capped over the top, surrounding something."
+        },
+        {
+          "startUid": "u2328",
+          "endUid": "u2332",
+          "quote": "Delwath: When you say it's a 20—it's a 40 mile diameter, 20 mile radius.\n\n%% u2329:0-14, u2330:0-68, u2331:0-4, u2332:0-72 %%\nDM: 40. That's—the storm is actually slightly bigger than that. It's probably more like—like 50 mile diameter, maybe a little less than that, maybe 45 mile diameter."
+        }
+      ]
+    },
+    "p09": {
+      "label": "calm water inside the storm",
+      "kind": "enclosed water",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1843",
+              "endUid": "u1850",
+              "quote": "DM: So you begin to travel over the Sea of Storms. It's—so, it's—it's strange. So again, there's not—there's not really that much wind. The weather, at least close to shore, is pretty calm, at least from the sky, but as you continue to go, the waves, you just see these crashing waves below you. It seems like every wave that you know everything—it's like—it's like a—a gale driving the waves, but not the air above the waves towards the shore."
+            },
+            {
+              "startUid": "u2794",
+              "endUid": "u2804",
+              "quote": "DM: Just—just enough. Another wave crashes over the side, and you see, like the the mast of the—of the folding boat washed away. 1, 2 halflings like dangling over the side as—as the last wave is—is crashing against the boat, when suddenly you break through into sunlight and calm waters."
+            },
+            {
+              "startUid": "u2812",
+              "endUid": "u2821",
+              "quote": "DM: You see in front of you an island.\n\n%% u2814:0-11 %%\nSeeker: Oh, really?\n\n%% u2815:0-3, u2816:0-65, u2817:0-13, u2818:0-23, u2819:0-35, u2820:0-15, u2821:0-20 %%\nDM: The— edge of the island, following a perfect circle in all directions. Black cliffs. And you're looking now— you're about 2 miles from the shore, you're looking— where did my map go?"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2794",
+          "endUid": "u2804",
+          "quote": "when suddenly you break through into sunlight and calm waters."
+        },
+        {
+          "startUid": "u2963",
+          "endUid": "u2970",
+          "quote": "DM: The time doesn't seem to be shifted, like it's just as if there were no clouds above. It's still the same time of day as it would be, and the ocean around here is sort of a nice, relatively calm, clear blue from the back—the wall of clouds. There's no, there's no waves. It's just like a sharp boundary where, on this side of the—you can see the wall of clouds, like there's a wall of clouds.\n\n%% u2967:0-12 %%\nSeeker: Let's go up.\n\n%% u2968:0-235, u2969:0-73, u2970:0-22 %%\nDM: That you can see that, and it looks like when you look back where you came from, it looks like the wall of clouds just extends up into infinity, like as far as you can see. But then, when you turn your head and you look sort of inward, the clouds just kind of fade, and you can see blue sky and the sun above. But the water is calm."
+        }
+      ]
+    },
+    "p10": {
+      "label": "perfectly circular island",
+      "kind": "island",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1843",
+              "endUid": "u1850",
+              "quote": "DM: So you begin to travel over the Sea of Storms. It's—so, it's—it's strange. So again, there's not—there's not really that much wind. The weather, at least close to shore, is pretty calm, at least from the sky, but as you continue to go, the waves, you just see these crashing waves below you. It seems like every wave that you know everything—it's like—it's like a—a gale driving the waves, but not the air above the waves towards the shore."
+            },
+            {
+              "startUid": "u2794",
+              "endUid": "u2804",
+              "quote": "DM: Just—just enough. Another wave crashes over the side, and you see, like the the mast of the—of the folding boat washed away. 1, 2 halflings like dangling over the side as—as the last wave is—is crashing against the boat, when suddenly you break through into sunlight and calm waters."
+            },
+            {
+              "startUid": "u2812",
+              "endUid": "u2821",
+              "quote": "DM: You see in front of you an island.\n\n%% u2814:0-11 %%\nSeeker: Oh, really?\n\n%% u2815:0-3, u2816:0-65, u2817:0-13, u2818:0-23, u2819:0-35, u2820:0-15, u2821:0-20 %%\nDM: The— edge of the island, following a perfect circle in all directions. Black cliffs. And you're looking now— you're about 2 miles from the shore, you're looking— where did my map go?"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2812",
+          "endUid": "u2821",
+          "quote": "DM: You see in front of you an island.\n\n%% u2814:0-11 %%\nSeeker: Oh, really?\n\n%% u2815:0-3, u2816:0-65, u2817:0-13, u2818:0-23, u2819:0-35, u2820:0-15, u2821:0-20 %%\nDM: The— edge of the island, following a perfect circle in all directions. Black cliffs. And you're looking now— you're about 2 miles from the shore, you're looking— where did my map go?"
+        },
+        {
+          "startUid": "u2916",
+          "endUid": "u2926",
+          "quote": "DM: Okay, so, just to sort of bring the session to a close. So as you're looking at this now, you see, in addition to this coastline, which seems to again extend, you know, in a perfect circle, in both directions from where you are. I mean, you're looking sort of roughly—roughly, like southwest at the island here. It's the sort of northeast side of the island, more or less."
+        }
+      ]
+    },
+    "p11": {
+      "label": "sandy cove and beach among black cliffs",
+      "kind": "beach",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2815",
+              "endUid": "u2821",
+              "quote": "DM: The— edge of the island, following a perfect circle in all directions. Black cliffs. And you're looking now— you're about 2 miles from the shore, you're looking— where did my map go?"
+            },
+            {
+              "startUid": "u2822",
+              "endUid": "u2835",
+              "quote": "DM: You're looking maybe 2 miles away from what seems to be like a sandy cove in a line of black obsidian cliffs to the left. You see what looks like a massive like 150 feet high statue of the Mother, one of the Mos Numena gods, to the right of this sandy—and these are—these are like, you're—you're looking. You're able to see an arc that's about 8 or 10 miles, or something like that, right, or 15 miles. Like, you can see a long arc of the island from here, and then it curves around the horizon."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2822",
+          "endUid": "u2835",
+          "quote": "DM: You're looking maybe 2 miles away from what seems to be like a sandy cove in a line of black obsidian cliffs to the left. You see what looks like a massive like 150 feet high statue of the Mother, one of the Mos Numena gods, to the right of this sandy—and these are—these are like, you're—you're looking. You're able to see an arc that's about 8 or 10 miles, or something like that, right, or 15 miles. Like, you can see a long arc of the island from here, and then it curves around the horizon."
+        },
+        {
+          "startUid": "u2842",
+          "endUid": "u2846",
+          "quote": "DM: You cannot—you can't see anything on the island itself very clearly from this perspective. The cliffs, except for where this beach is and the beach is big, it's—it's—it's miles across. It's like this crumbled sort of yellow golden sand around these sort of crystalline cliffs around the edge."
+        }
+      ]
+    },
+    "p12": {
+      "label": "seafloor at the storm’s edge",
+      "kind": "seafloor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2446",
+              "endUid": "u2448",
+              "quote": "DM: Ocean floor is about 300 feet deep. It's quite murky and dark down here."
+            }
+          ]
+        }
+      ],
+      "note": "About 300 feet deep, with limited visibility through murky water.",
+      "evidence": [
+        {
+          "startUid": "u2446",
+          "endUid": "u2448",
+          "quote": "DM: Ocean floor is about 300 feet deep. It's quite murky and dark down here."
+        },
+        {
+          "startUid": "u2455",
+          "endUid": "u2456",
+          "quote": "DM: Thousands of feet in the distance. So you don't really, you're not really able to see anything past the edge of the storm. Right? I mean, you can see the murky water with dark vision, but it's just murky."
+        }
+      ]
+    },
+    "p13": {
+      "label": "tower in the garish flower field",
+      "kind": "tower and field",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2916",
+              "endUid": "u2932",
+              "quote": "DM: Okay, so, just to sort of bring the session to a close. So as you're looking at this now, you see, in addition to this coastline, which seems to again extend, you know, in a perfect circle, in both directions from where you are. I mean, you're looking sort of roughly—roughly, like southwest at the island here. It's the sort of northeast side of the island, more or less.\n\n%% u2927:0-80, u2928:0-30, u2929:0-6, u2930:0-135, u2931:0-88, u2932:0-43 %%\nDM: And you can see, in addition to the island sort of sloping up towards this peak, around—around the peak there's forest. You can see like there's trees sort of growing, and—and it's a bit scattered, and there's—there's 1 part relatively close to you where— you know where it's where it seems like you can see part way up the slope. The forest is—has been cut down or—or died, or something."
+            },
+            {
+              "startUid": "u2933",
+              "endUid": "u2947",
+              "quote": "DM: And there's a large area like miles across, that's just the sort of fields—rolling fields of these garish red, and yellow and gold flowers. Big, sort of poppy-like flowers, but not—this is—these aren't the sort of, like, soothing colors. These— everything's like slightly wrong, like, the colors are all just off enough that nothing looks good together. Everything's mismatched, and even just sort of looking at this big field, almost—\n\n%% u2944:0-109, u2945:0-42, u2946:0-9, u2947:0-85 %%\nDM: It makes you want to look away, right, like it almost hurts to look at it. In the center of this field, there's—there's a tower that you can see standing, you know, 100 feet tall, 50 feet tall. It's hard to judge the distance from like 10 miles away."
+            }
+          ]
+        }
+      ],
+      "note": "Observed from offshore; its specific identity remains unresolved.",
+      "evidence": [
+        {
+          "startUid": "u2933",
+          "endUid": "u2947",
+          "quote": "DM: And there's a large area like miles across, that's just the sort of fields—rolling fields of these garish red, and yellow and gold flowers. Big, sort of poppy-like flowers, but not—this is—these aren't the sort of, like, soothing colors. These— everything's like slightly wrong, like, the colors are all just off enough that nothing looks good together. Everything's mismatched, and even just sort of looking at this big field, almost—\n\n%% u2944:0-109, u2945:0-42, u2946:0-9, u2947:0-85 %%\nDM: It makes you want to look away, right, like it almost hurts to look at it. In the center of this field, there's—there's a tower that you can see standing, you know, 100 feet tall, 50 feet tall. It's hard to judge the distance from like 10 miles away."
+        }
+      ]
+    },
+    "p14": {
+      "label": "structures at the mountain summit",
+      "kind": "summit structures",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2927",
+              "endUid": "u2932",
+              "quote": "DM: And you can see, in addition to the island sort of sloping up towards this peak, around—around the peak there's forest. You can see like there's trees sort of growing, and—and it's a bit scattered, and there's—there's 1 part relatively close to you where— you know where it's where it seems like you can see part way up the slope. The forest is—has been cut down or—or died, or something."
+            },
+            {
+              "startUid": "u2951",
+              "endUid": "u2958",
+              "quote": "DM: And then finally, on the top, the top of the mountain, although most of the slopes are wooded at the very top, there's what looks like— it's difficult to judge from this distance, I think only Wellby would really have a clear vision that there's some sort of structures built up at the very top. But that's like 20 miles away. So it's about at the limit of what you can clearly— you know, make out clearly. There's like something. It's not just the summit of a mountain, you know. You can see little things up there. Can't really tell what. So—"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2951",
+          "endUid": "u2958",
+          "quote": "DM: And then finally, on the top, the top of the mountain, although most of the slopes are wooded at the very top, there's what looks like— it's difficult to judge from this distance, I think only Wellby would really have a clear vision that there's some sort of structures built up at the very top. But that's like 20 miles away. So it's about at the limit of what you can clearly— you know, make out clearly. There's like something. It's not just the summit of a mountain, you know. You can see little things up there. Can't really tell what. So—"
+        }
+      ]
+    },
+    "p15": {
+      "label": "folding boat",
+      "kind": "rowing boat",
+      "mobile": true,
+      "evidence": [
+        {
+          "startUid": "u2665",
+          "endUid": "u2675",
+          "quote": "DM: Okay. The crew begins to— so we got the folding boat. Let's see. 25 feet long, 8 feet wide. 5 sets of oars, a mast, can hold 15 creatures. So there's—\n\n%% u2671:0-44, u2672:0-8, u2673:0-11, u2674:0-30, u2675:0-28 %%\nDM: 6 of you with Tilly, Milo, and the 4 of you, and then 8 halflings to man the sails and the oars. So that's gonna be 14 total."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0027"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is on the jungle floor near the Eldest’s vine-covered clearing.",
+      "place": "p02",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "DM: Okay. So, we begin tonight in the jungles west of Drankor near the—"
+        },
+        {
+          "startUid": "u0009",
+          "endUid": "u0012",
+          "quote": "DM: It's approaching sunset as you reach the place or person—it's not clear—that the bats call Canopy, or sometimes Eldest. The skies have cleared after a brief afternoon downpour, and the air is hot and humid and still. The jungle quiet around you. Directly ahead you can see—"
+        },
+        {
+          "startUid": "u0013",
+          "endUid": "u0027",
+          "quote": "assuming you've landed at this point and are sort of creeping forward on the ground"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u1494",
+        "endUid": "u1497"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return from the tree to Vindristjarna to recover and sleep.",
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p04",
+          "relation": "above",
+          "target": "p01"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1494",
+          "endUid": "u1497",
+          "quote": "DM: So you rest. You return to Vindristjarna. You take some time to recover yourself from your fights. Talk to everybody who's hanging out on the on the ship."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1513",
+        "endUid": "u1515"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to the Eldest’s clearing the following morning.",
+      "from": "p04",
+      "to": "p02",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1513",
+          "endUid": "u1515",
+          "quote": "DM: And so you return to the clearing of the tree, and—and the tree seems to be— sees you—sees you arrive, and says—"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1723",
+        "endUid": "u1744"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow Canopy’s directions aboard Vindristjarna to the coastal mangroves, then descend to meet the howlers.",
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "skyship flight",
+      "vehicle": "p04",
+      "distance": {
+        "value": 20,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s approximate completed journey"
+      },
+      "duration": {
+        "min": 1.5,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated approximate duration with arrival at the mangroves"
+      },
+      "evidence": [
+        {
+          "startUid": "u1723",
+          "endUid": "u1734",
+          "quote": "DM: Yes. So the—the tree—the tree— so this tree is—is Eldest, or Canopy is what the other awakened creatures of the jungle refer to this tree as—directs you to— so the the so the the monkeys that it's talking about are—are—are howler monkeys that live on the mangroves in the coast. And so it directs you. It's fairly easy, I assume you take Vindristjarna?\n\n%% u1732:0-23 %%\nDelwath: Yeah, yeah, yeah, yeah.\n\n%% u1733:0-74, u1734:0-54 %%\nDM: Okay. So it's—it's about, it's about 20 miles. So it's like a 2 h journey, maybe a little less than that—hour-and-a-half journey."
+        },
+        {
+          "startUid": "u1735",
+          "endUid": "u1744",
+          "quote": "You come—come to the mangroves."
+        },
+        {
+          "startUid": "u1757",
+          "endUid": "u1764",
+          "quote": "as you like, climb down the ladder, or whatever to to get down from Vindristjarna"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1840",
+        "endUid": "u1871"
+      },
+      "actors": [
+        "party",
+        "Milo",
+        "Tilly",
+        "Faldrak"
+      ],
+      "reading": "Fly out over the Sea of Storms for about 80 miles and reach the outside approach to the storm enclosure.",
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "skyship flight",
+      "vehicle": "p04",
+      "route": [
+        {
+          "reading": "Fly across the Sea of Storms toward the direction the jade previously traveled.",
+          "place": "p06"
+        }
+      ],
+      "distance": {
+        "value": 80,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Narrated offshore distance"
+      },
+      "duration": {
+        "min": 7,
+        "minInclusive": true,
+        "max": 8,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated actual flight duration"
+      },
+      "note": "The storm remains ahead of the vessel; this arrival does not cross its wall.",
+      "evidence": [
+        {
+          "startUid": "u1840",
+          "endUid": "u1841",
+          "quote": "DM: So just head out to sea on Vindristjarna? Yep."
+        },
+        {
+          "startUid": "u1843",
+          "endUid": "u1850",
+          "quote": "DM: So you begin to travel over the Sea of Storms. It's—so, it's—it's strange. So again, there's not—there's not really that much wind. The weather, at least close to shore, is pretty calm, at least from the sky, but as you continue to go, the waves, you just see these crashing waves below you. It seems like every wave that you know everything—it's like—it's like a—a gale driving the waves, but not the air above the waves towards the shore."
+        },
+        {
+          "startUid": "u1851",
+          "endUid": "u1871",
+          "quote": "DM: You begin to travel like following the line of where the monkeys pointed, and where Kenzo's sense tells them that the jade went. And you go about a 7, 8 h, about 80 miles off the coast, and you see— so pretty uneventful. The sun is beginning to sink low in the sky. The—it's—it's, you know, evening comes quickly at this low latitude—\n\n%% u1864:0-91, u1865:0-67, u1866:0-147, u1867:0-7, u1868:0-5, u1869:0-10, u1870:0-40, u1871:0-14 %%\nDM: When suddenly you see shooting off out of the water in front of you like maybe 20, 30 feet—5,000 feet in front of you. Something like that. Just a giant storm, like a wall of clouds, actually a dome of clouds that seems to go up hundreds of feet into the air, and then just merge into this giant cloud bank. The sea below completely tossed and turned into a massive, stormy conflagration."
+        },
+        {
+          "startUid": "u1872",
+          "endUid": "u1874",
+          "quote": "DM: Faldrak kind of pauses for a minute, kind of comes out of the steering chamber. \"Boss?\" Looking at Seeker."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1903",
+        "endUid": "u1908"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ascend aboard Vindristjarna to roughly a mile above the ocean to inspect the cloud dome.",
+      "from": "p07",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "skyship ascent",
+      "vehicle": "p04",
+      "route": [
+        {
+          "reading": "Rise roughly a mile; the proposed 10,000-foot height is not reached."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p04",
+          "relation": "above",
+          "target": "p06"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1903",
+          "endUid": "u1908",
+          "quote": "DM: Yeah. So you ascend. And as you see the sun sinking below the horizon from this height, everybody's shivering now in the cold from—yeah, maybe you don't quite make it to 10,000 feet. That's probably a little high for unsheltered flight. But, you know, a mile up certainly."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1910",
+        "endUid": "u1949"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From above the cloud roof, see a smooth dome tens of miles across; the interior remains hidden.",
+      "place": "p08",
+      "mode": "local",
+      "observerPlace": "p04",
+      "evidence": [
+        {
+          "startUid": "u1910",
+          "endUid": "u1916",
+          "quote": "DM: You're looking at a dome of clouds, like extending in a circle, capped over the top, surrounding something."
+        },
+        {
+          "startUid": "u1919",
+          "endUid": "u1920",
+          "quote": "DM: Like tens of miles. Not so sure exactly."
+        },
+        {
+          "startUid": "u1932",
+          "endUid": "u1934",
+          "quote": "DM: If you just want to avoid the storm, you can fly over it. Yeah, the the dome goes like up to maybe a ceiling of 3,000 feet. It's just a—it's just a dome of clouds like that."
+        },
+        {
+          "startUid": "u1940",
+          "endUid": "u1949",
+          "quote": "Seeker: My inclination would be to see what happens if we descend in the center. Also, it's a storm. Does it have an eye? Or is it a smooth dome?\n\n%% u1942:0-28 %%\nDM: It looks like a smooth dome.\n\n%% u1943:0-14, u1944:0-59 %%\nSeeker: The wall of it is pretty ferocious looking, right? What we 1st encountered.\n\n%% u1945:0-4 %%\nDM: Yup!\n\n%% u1946:0-28, u1947:0-7 %%\nSeeker: The roof of it is presumably— I mean—\n\n%% u1948:0-48, u1949:0-60 %%\nDM: This high up, it looks like—it looks like clouds, you can't see beneath it. I mean, it could be thunder clouds."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2028",
+        "endUid": "u2044"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Conduct the night aerial reconnaissance out beyond the storm, seeing only open ocean and no lights.",
+      "from": "p07",
+      "to": null,
+      "completion": "uncertain",
+      "mode": "skyship flight",
+      "vehicle": "p04",
+      "route": [
+        {
+          "reading": "Look over open ocean beyond the storm; the proposed 20-mile excursion and its return distance are not independently confirmed.",
+          "place": "p06"
+        }
+      ],
+      "note": "The flight happened, but its exact endpoint and return are compressed. The subsequent correction concerns back-and-forth scouting, not an invented measured night route.",
+      "evidence": [
+        {
+          "startUid": "u2028",
+          "endUid": "u2044",
+          "quote": "Seeker: I'll—Tim, I'll briefly get into that mode where I'm seeing from the hull.\n\n%% u2029:0-9, u2030:0-73, u2031:0-8, u2032:0-44, u2033:0-3 %%\nDM: Oh, yeah. So you're staying high up. Seeker's sort of looking all around for lights. Nothing. You're in the middle of a pitch black ocean. No.\n\n%% u2034:0-11 %%\nSeeker: Open ocean.\n\n%% u2035:0-55, u2036:0-24, u2037:0-15, u2038:0-34 %%\nDM: Open ocean, nothing on the horizon, no lights anywhere. No, I mean, this is like no signs of any living creatures that you can see.\n\n%% u2039:0-19 %%\nSeeker: Moonlit white caps.\n\n%% u2040:0-25 %%\nDM: Basically just that. Yes.\n\n%% u2041:0-42 %%\nSeeker: Bioluminescent trail of a surfacing whale.\n\n%% u2042:0-39 %%\nDM: Churned by the moonlit white caps. Yes.\n\n%% u2043:0-44, u2044:0-95 %%\nDM: But very much not a place where there's any—any lights that you can see. There's no, like, cities floating in the ocean 50 miles from there."
+        },
+        {
+          "startUid": "u2180",
+          "endUid": "u2182",
+          "quote": "And at last night you, like, flew out a little ways, and there's, like, no signs of anything but this dome cloud anywhere nearby."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u2305",
+        "endUid": "u2307"
+      },
+      "actors": [
+        "party",
+        "Faldrak"
+      ],
+      "reading": "After the accepted scouting retcon, Vindristjarna holds just outside the storm near the ocean surface.",
+      "place": "p04",
+      "locationContext": [
+        {
+          "subject": "p04",
+          "relation": "above",
+          "target": "p07"
+        }
+      ],
+      "note": "Earlier center-of-dome positioning (u2052–u2066) and four hours of flying (u2241–u2242) are followed by an accepted “stayed” correction to two hours. The resulting outside position is explicit at u2350–u2357; no final center visit is asserted.",
+      "evidence": [
+        {
+          "startUid": "u2305",
+          "endUid": "u2307",
+          "quote": "Delwath: Why don't we—can we say we didn't fly back and forth because Wellby had the idea before?\n\n%% u2306:0-4, u2307:0-47 %%\nDM: Yes. So you kind of stayed. So you spent 2 h flying."
+        },
+        {
+          "startUid": "u2350",
+          "endUid": "u2357",
+          "quote": "DM: Okay. So just—the ship is—the ship is, like, hovering sort of above, somewhat above the ocean, but the waves are like crashing on the bottom of the ship, and you're parked like, a few 100 feet from the clouds, something like that. Roughly like, where is this ship right now?\n\n%% u2354:0-5 %%\nSeeker: Yeah.\n\n%% u2355:0-23 %%\nDelwath: Yeah, we're—we're like—\n\n%% u2356:0-19 %%\nSeeker: We're pretty close.\n\n%% u2357:0-55 %%\nDelwath: Close to the clouds and close to the ocean. We're like—"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2364",
+        "endUid": "u2431"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Jump from Vindristjarna as an orca, lose the spell about 200 feet into the waves, and be rescued back to the vessel’s side by Delwath.",
+      "from": "p04",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "swim and rescue",
+      "route": [
+        {
+          "reading": "Attempt the underwater approach toward the storm; the transformation ends and the attempt is interrupted."
+        }
+      ],
+      "note": "The rescue establishes return to the ship’s side, without independently narrating the instant Seeker climbs onto its deck.",
+      "evidence": [
+        {
+          "startUid": "u2364",
+          "endUid": "u2368",
+          "quote": "DM: Okay, so Seeker jumps off the side of the ship, and in the mid air turns into an orca. It lands in the water and begin swimming towards the island—\n\n%% u2368:0-200 %%\nDM: Seeker, you get about 200 feet through the waves, when suddenly the rest of you see a panicking dwarf appear in the ocean, the spell ending, Seeker caught in the waves, beginning to drown. Go ahead and—"
+        },
+        {
+          "startUid": "u2415",
+          "endUid": "u2422",
+          "quote": "DM: So you've reached—Seeker has been like drawn, maybe 10 or 15 feet closer to the boat, to the ship, and Delwath is racing there, and you manage to grab him and surface.\n\n%% u2419:0-9, u2420:0-60 %%\nDelwath: Yeah. But— yeah, okay, I'm—I'm gonna try and drag him back to the boat.\n\n%% u2421:0-32, u2422:0-2 %%\nDM: Okay, drag him back to the boat. So."
+        },
+        {
+          "startUid": "u2428",
+          "endUid": "u2431",
+          "quote": "So you manage to drag Seeker back."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2387",
+        "endUid": "u2456"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Leave Vindristjarna with aquatic Alter Self, rescue Seeker, remain in the water, and dive to the murky seafloor near the storm’s edge.",
+      "from": "p04",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "swim",
+      "route": [
+        {
+          "reading": "Return Seeker to the ship’s side before continuing the separate underwater probe.",
+          "place": "p07"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2387",
+          "endUid": "u2389",
+          "quote": "Delwath: I'm gonna jump in and cast alter self to be—\n\n%% u2388:0-28 %%\nSeeker: And a great night, you guys.\n\n%% u2389:0-5 %%\nDelwath: Swim—"
+        },
+        {
+          "startUid": "u2415",
+          "endUid": "u2431",
+          "quote": "DM: So you've reached—Seeker has been like drawn, maybe 10 or 15 feet closer to the boat, to the ship, and Delwath is racing there, and you manage to grab him and surface.\n\n%% u2419:0-9, u2420:0-60 %%\nDelwath: Yeah. But— yeah, okay, I'm—I'm gonna try and drag him back to the boat.\n\n%% u2421:0-32, u2422:0-2 %%\nDM: Okay, drag him back to the boat. So.\n\n%% u2423:0-61 %%\nDM: Make a Constitution—Seeker, make a Constitution saving throw.\n\n%% u2424:0-36 %%\nSeeker: This a concentration check? It says?\n\n%% u2425:0-3 %%\nDM: No.\n\n%% u2426:0-25, u2427:0-7 %%\nSeeker: Okay or cancel. So cancel. Online.\n\n%% u2428:0-129, u2429:0-103, u2430:0-125, u2431:0-77 %%\nDM: So you manage to drag Seeker back. But this experience has left him bedraggled and exhausted. So you take one level of exhaustion, which we're going to use the new D&D exhaustion because it's much less horrible to play with. It's just: You subtract twice your exhaustion level from all d20 rolls instead of having just—or not, not saves, just ability checks, and—but it's minus 2 from ability checks instead of a disadvantage on everything."
+        },
+        {
+          "startUid": "u2433",
+          "endUid": "u2448",
+          "quote": "Delwath: Well, that means it's less bad for enemies, too. But that's okay. Not saying we should play with it. But I haven't noticed the new—I haven't—I didn't realize they changed exhaustion. I am not getting back on the ship.\n\n%% u2437:0-5 %%\nDM: Okay.\n\n%% u2438:0-44 %%\nDelwath: Take advantage of my 1 h of breathing water.\n\n%% u2439:0-5 %%\nDM: Okay.\n\n%% u2440:0-26 %%\nDelwath: But I'm not going to swim.\n\n%% u2441:0-65, u2442:0-20 %%\nDelwath: There's got to be a barrier of some kind that is dispelling magic. I'm gonna swim down.\n\n%% u2443:0-5 %%\nDM: Okay.\n\n%% u2444:0-6 %%\nDelwath: [garbled].\n\n%% u2445:0-4 %%\nDM: More—\n\n%% u2446:0-20, u2447:0-14, u2448:0-36 %%\nDM: Ocean floor is about 300 feet deep. It's quite murky and dark down here."
+        },
+        {
+          "startUid": "u2455",
+          "endUid": "u2456",
+          "quote": "DM: Thousands of feet in the distance. So you don't really, you're not really able to see anything past the edge of the storm. Right? I mean, you can see the murky water with dark vision, but it's just murky."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2665",
+        "endUid": "u2685"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Next established aboard the folding boat with the others for the storm passage, after the underwater probe.",
+      "from": "p12",
+      "to": "p15",
+      "completion": "arrived",
+      "note": "The transfer from the sea is compressed; no intermediate return to Vindristjarna’s deck is asserted.",
+      "evidence": [
+        {
+          "startUid": "u2665",
+          "endUid": "u2685",
+          "quote": "DM: Okay. The crew begins to— so we got the folding boat. Let's see. 25 feet long, 8 feet wide. 5 sets of oars, a mast, can hold 15 creatures. So there's—\n\n%% u2671:0-44, u2672:0-8, u2673:0-11, u2674:0-30, u2675:0-28 %%\nDM: 6 of you with Tilly, Milo, and the 4 of you, and then 8 halflings to man the sails and the oars. So that's gonna be 14 total.\n\n%% u2676:0-27, u2677:0-84 %%\nDM: The halflings are small. So it's not—it's not sitting heavy in the water. It's not particularly heavily loaded.\n\n%% u2678:0-79, u2679:0-13, u2680:0-9, u2681:0-95, u2682:0-8, u2683:0-99, u2684:0-120, u2685:0-65 %%\nDM: Even—even, you know. So the—the storm sort of peaks up quickly, right? But like, even out here, far from— you know, 300 feet or so from the storm before the the oars are shipped and the sail is rigged, although— really, they're just going through the oars. The sail is way too—way too difficult to—to run here. It's still rocking like mad back and forth as you go in, and you run a line, and everybody gets—gets tied in, all 14 crew, tied down to a line, a safety line that runs down the center, and—"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2665",
+        "endUid": "u2685"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Milo",
+        "Tilly",
+        "eight halfling sailors"
+      ],
+      "reading": "Board the large folding boat and tie into its safety line outside the storm.",
+      "from": "p04",
+      "to": "p15",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p15",
+          "relation": "in",
+          "target": "p07"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2665",
+          "endUid": "u2685",
+          "quote": "DM: Okay. The crew begins to— so we got the folding boat. Let's see. 25 feet long, 8 feet wide. 5 sets of oars, a mast, can hold 15 creatures. So there's—\n\n%% u2671:0-44, u2672:0-8, u2673:0-11, u2674:0-30, u2675:0-28 %%\nDM: 6 of you with Tilly, Milo, and the 4 of you, and then 8 halflings to man the sails and the oars. So that's gonna be 14 total.\n\n%% u2676:0-27, u2677:0-84 %%\nDM: The halflings are small. So it's not—it's not sitting heavy in the water. It's not particularly heavily loaded.\n\n%% u2678:0-79, u2679:0-13, u2680:0-9, u2681:0-95, u2682:0-8, u2683:0-99, u2684:0-120, u2685:0-65 %%\nDM: Even—even, you know. So the—the storm sort of peaks up quickly, right? But like, even out here, far from— you know, 300 feet or so from the storm before the the oars are shipped and the sail is rigged, although— really, they're just going through the oars. The sail is way too—way too difficult to—to run here. It's still rocking like mad back and forth as you go in, and you run a line, and everybody gets—gets tied in, all 14 crew, tied down to a line, a safety line that runs down the center, and—"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2718",
+        "endUid": "u2804"
+      },
+      "actors": [
+        "party",
+        "Milo",
+        "Tilly",
+        "eight halfling sailors"
+      ],
+      "reading": "Row the folding boat through the violent storm wall and break into calm, sunlit water inside it.",
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "row",
+      "vehicle": "p15",
+      "route": [
+        {
+          "reading": "Cross the storm wall; spell effects stop functioning there.",
+          "place": "p08"
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p15",
+          "relation": "in",
+          "target": "p09"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2718",
+          "endUid": "u2733",
+          "quote": "DM: Okay, so you begin, halflings leaning into the oars, 8 total. So using 4 of the 5 oars and—and 2 on each. The ship begins to move slowly, you come, come forward a little bit.\n\n%% u2723:0-14, u2724:0-20, u2725:0-87, u2726:0-40, u2727:0-19 %%\nDM: Begin to enter the waves, the waves, the ship rocking violently back and forth, everybody grabbing onto the rope to hold on. Seeker, go ahead and make a nature check to time your entry.\n\n%% u2728:0-29 %%\nSeeker: That is, 20 minus 2 is an 18.\n\n%% u2729:0-54, u2730:0-148, u2731:0-29, u2732:0-52, u2733:0-70 %%\nDM: Okay. So Seeker sees one of these cyclones go back and in a—in a minute, yells, \"Go!\" Which is not terribly timed, but not perfectly timed either. So just a straight roll, neither advantage nor disadvantage, as the water that Delwath is, you know, holding up drops to the—drops to the deck, and the ship begins to just be tossed every which way, here and there."
+        },
+        {
+          "startUid": "u2757",
+          "endUid": "u2778",
+          "quote": "DM: Wave crashes over the side, the— one of the oars cracks, and the—and the— let's see— and as a wave just washes over the side—side of the ship, but— keep keeping it going? Nobody's—nobody's knocked overboard. 2 of the 2 of the halflings are—are, like, washed to the side, holding onto their safety lines as the waves begin pounding against it more—more and more.\n\n%% u2768:0-40 %%\nDM: Wellby, go ahead and make another check.\n\n%% u2769:0-3, u2770:0-22 %%\nWellby: Yep, with advantage or not?\n\n%% u2771:0-27 %%\nDM: Still with advantage. Yeah.\n\n%% u2772:0-3 %%\nWellby: 28.\n\n%% u2773:0-36, u2774:0-29, u2775:0-83, u2776:0-37, u2777:0-7, u2778:0-62 %%\nDM: Wellby manages to quickly direct the—redirect the—the crew who are scattered from this wave that crashed over, the mast of the folding boat now cracked from the wave that splashed. Delwath—Delwath, casting a spell, still—still doesn't work. Nothing's happening."
+        },
+        {
+          "startUid": "u2794",
+          "endUid": "u2804",
+          "quote": "DM: Just—just enough. Another wave crashes over the side, and you see, like the the mast of the—of the folding boat washed away. 1, 2 halflings like dangling over the side as—as the last wave is—is crashing against the boat, when suddenly you break through into sunlight and calm waters."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u2812",
+        "endUid": "u2860"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the folding boat about two miles offshore, observe the circular island, its sandy beach, black cliffs, Mother and Warlord statues, ruined obsidian towers, and rising forested interior.",
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p15",
+      "note": "The statues and towers are seen from the water. No visit to those landmarks occurs here.",
+      "evidence": [
+        {
+          "startUid": "u2812",
+          "endUid": "u2849",
+          "quote": "DM: You see in front of you an island.\n\n%% u2814:0-11 %%\nSeeker: Oh, really?\n\n%% u2815:0-3, u2816:0-65, u2817:0-13, u2818:0-23, u2819:0-35, u2820:0-15, u2821:0-20 %%\nDM: The— edge of the island, following a perfect circle in all directions. Black cliffs. And you're looking now— you're about 2 miles from the shore, you're looking— where did my map go?\n\n%% u2822:0-38, u2823:0-16, u2824:0-17, u2825:0-34, u2826:0-12, u2827:0-7, u2828:0-30, u2829:0-13, u2830:0-9, u2831:0-11, u2832:0-26, u2833:0-58, u2834:0-61, u2835:0-148 %%\nDM: You're looking maybe 2 miles away from what seems to be like a sandy cove in a line of black obsidian cliffs to the left. You see what looks like a massive like 150 feet high statue of the Mother, one of the Mos Numena gods, to the right of this sandy—and these are—these are like, you're—you're looking. You're able to see an arc that's about 8 or 10 miles, or something like that, right, or 15 miles. Like, you can see a long arc of the island from here, and then it curves around the horizon.\n\n%% u2836:0-41, u2837:0-80, u2838:0-2, u2839:0-26, u2840:0-16, u2841:0-12 %%\nDM: To the—to the left of the beach, probably, 3 or 4 miles from the beach, you see another massive 150 foot tall marble statue of another one of the—of the Mos Numena gods, the Warlord.\n\n%% u2842:0-56, u2843:0-105, u2844:0-38, u2845:0-35, u2846:0-56 %%\nDM: You cannot—you can't see anything on the island itself very clearly from this perspective. The cliffs, except for where this beach is and the beach is big, it's—it's—it's miles across. It's like this crumbled sort of yellow golden sand around these sort of crystalline cliffs around the edge.\n\n%% u2847:0-37, u2848:0-83, u2849:0-97 %%\nDM: Off—off, near where the statue of the of the Warlord is, it looks like there's—you—you can see up. And this is like, maybe 12, 15 miles from where you are, you can see what look like strange, twisted obsidian structures."
+        },
+        {
+          "startUid": "u2851",
+          "endUid": "u2860",
+          "quote": "DM: Sort like—sort of ruined, right? But they look like they might have once been towers that sort of spiraled up, but they're cracked, and now they're sort of jagged edges. But they're—they're tall. They're sticking above the—high enough above the horizon that you can see.\n\n%% u2852:0-113, u2853:0-59, u2854:0-43, u2855:0-15, u2856:0-3 %%\nDM: And as you look forward, you can see the coast, and you can't see, like the immediate coastline above the cliffs, but as you look into the distance, the—the island slopes up in a gentle slope to a peak that's probably 2 or 3,000 feet up—\n\n%% u2857:0-73, u2858:0-23 %%\nDM: Although from below you cannot see the dome of clouds that was above you, right? So there's some—\n\n%% u2859:0-4 %%\nSeeker: Sky.\n\n%% u2860:0-14 %%\nDM: Just blue sky."
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u2927",
+        "endUid": "u2947"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From offshore, see the discordantly colored flower field and its tower inland.",
+      "place": "p13",
+      "mode": "local",
+      "observerPlace": "p15",
+      "evidence": [
+        {
+          "startUid": "u2927",
+          "endUid": "u2947",
+          "quote": "DM: And you can see, in addition to the island sort of sloping up towards this peak, around—around the peak there's forest. You can see like there's trees sort of growing, and—and it's a bit scattered, and there's—there's 1 part relatively close to you where— you know where it's where it seems like you can see part way up the slope. The forest is—has been cut down or—or died, or something.\n\n%% u2933:0-11, u2934:0-31, u2935:0-23, u2936:0-37, u2937:0-8, u2938:0-10, u2939:0-13, u2940:0-101, u2941:0-58, u2942:0-123, u2943:0-7 %%\nDM: And there's a large area like miles across, that's just the sort of fields—rolling fields of these garish red, and yellow and gold flowers. Big, sort of poppy-like flowers, but not—this is—these aren't the sort of, like, soothing colors. These— everything's like slightly wrong, like, the colors are all just off enough that nothing looks good together. Everything's mismatched, and even just sort of looking at this big field, almost—\n\n%% u2944:0-109, u2945:0-42, u2946:0-9, u2947:0-85 %%\nDM: It makes you want to look away, right, like it almost hurts to look at it. In the center of this field, there's—there's a tower that you can see standing, you know, 100 feet tall, 50 feet tall. It's hard to judge the distance from like 10 miles away."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u2951",
+        "endUid": "u2958"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Resolve structures at the distant mountain summit, without identifying their function.",
+      "place": "p14",
+      "mode": "local",
+      "observerPlace": "p15",
+      "evidence": [
+        {
+          "startUid": "u2951",
+          "endUid": "u2958",
+          "quote": "DM: And then finally, on the top, the top of the mountain, although most of the slopes are wooded at the very top, there's what looks like— it's difficult to judge from this distance, I think only Wellby would really have a clear vision that there's some sort of structures built up at the very top. But that's like 20 miles away. So it's about at the limit of what you can clearly— you know, make out clearly. There's like something. It's not just the summit of a mountain, you know. You can see little things up there. Can't really tell what. So—"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u3062",
+        "endUid": "u3067"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Milo takes the four PCs to the beach and drops them off before the session ends.",
+      "from": "p15",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "boat landing",
+      "vehicle": "p15",
+      "note": "The landing applies to the four PCs; Milo, Tilly and the halfling sailors are not placed ashore.",
+      "evidence": [
+        {
+          "startUid": "u3062",
+          "endUid": "u3067",
+          "quote": "DM: So, yeah, you ask Milo to drop you off on the beach.\n\n%% u3065:0-4 %%\nDelwath: Yes.\n\n%% u3066:0-8, u3067:0-43 %%\nDM: He does. And that's where we'll pick up in Colorado."
+        }
+      ]
+    }
+  ]
+}

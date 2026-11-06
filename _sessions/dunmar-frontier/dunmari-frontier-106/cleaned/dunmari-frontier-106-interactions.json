@@ -1,0 +1,1604 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "bf75daf8aa690ac562e272c4215d165be1db7e0ca6750f8ab358353925c82fd5"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-entity-map.json",
+      "sha256": "1afff3dadf5700eab6f12a78b8b11c21d1fccc29ecdb6bed35b459951c637530"
+    }
+  },
+  "interactions": [
+    {
+      "title": "Pip’s stories and the jungle’s silence",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u0035"
+      },
+      "lines": [
+        "%% u0013:0-207, u0014:0-141, u0015:0-37, u0016:0-13, u0017:0-167, u0018:0-73, u0019:0-45, u0020:0-124, u0021:0-266, u0022:0-63, u0023:0-28, u0024:0-62, u0025:0-53, u0026:0-54, u0027:0-104 %%",
+        "DM: ((Approach to the tree))Pip, the fruit bat who guided you towards where she found the jade was full of stories as she flew, telling you about well, what she learned as a child only a few years ago, as she learned to talk as she learned to fly, not really knowing anything about the history of the jungle, and not really thinking it strange that she could speak elvish. But you heard tales from her of the mango trees that sing ballads when their fruit is ripe, calling her and her people and her companions to come feast; of the trickster monkeys who live on the mangroves on the coast, protected by Slither, an ancient boa constrictor, who run around the jungle howling news and gossip to everybody, but have been quiet of late; the orchids that bloom and whisper love poems to hummingbirds; the groves of banyan trees that speak in many voices, turning the stories of the jungle into dramatic plays. The Fire Clan, led by the Tiger Blaze, who live along the Big River to the west, keeping a watchful eye.",
+        "",
+        "%% u0028:0-138, u0029:0-108, u0030:0-91 %%",
+        "DM: So as Pip is telling these stories, and you're flying through the jungle, what you're passing through is nothing like the story she tells. The trees are quiet. You don't hear any mango trees singing ballads, or booming gossip of howler monkeys, or whispered poems of humming—of orchids, or even the buzz of insects, seems dulled or muted.",
+        "",
+        "%% u0031:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0032:0-102, u0033:0-57, u0034:0-10, u0035:0-39 %%",
+        "DM: Now, as Pip returns to her family and friends in the cave, after showing you where she found the jade, the silence is even more oppressive and quiet without her chattering high pitched tales to keep you company.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay. So, we begin tonight in the jungles west of Drankor near the—",
+          "Delwath: Tree. Oh, I meant to think about.",
+          "DM: That's true.",
+          "DM: It's approaching sunset as you reach the place or person—it's not clear—that the bats call Canopy, or sometimes Eldest. The skies have cleared after a brief afternoon downpour, and the air is hot and humid and still. The jungle quiet around you. Directly ahead you can see—"
+        ],
+        "after": [
+          "DM: So through this journey you've surmised that at least part of the cause of this silence, of this shift in the mood of the jungle is before you: the thick, tangled mass of writhing, thorny vines that surrounds this tall tree that Pip referred to as the Eldest.",
+          "DM: But just moments ago as Wellby scouted, you learned that it can shoot its vines at least 30 feet. And when you're hit by the vines, they grip tight, entangling and restraining their victims.",
+          "DM: And Wellby also noted that, buried in the center of this truly massive conglomeration of thorns and vines, is some kind of hard, woody knot of something. But whether this is part of the Eldest or some aspect of this corruption you don't know.",
+          "DM: And so we pick up as you plan your approach: How to deal with this viney creature.",
+          "Delwath: And how far is it from its—30 feet from the attack zone to the to the mass?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i001"
+    },
+    {
+      "title": "The corrupting vines are destroyed",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0036",
+        "endUid": "u1138"
+      },
+      "lines": [
+        "%% u0036:0-130, u0037:0-10, u0038:0-79, u0039:0-35 %%",
+        "DM: So through this journey you've surmised that at least part of the cause of this silence, of this shift in the mood of the jungle is before you: the thick, tangled mass of writhing, thorny vines that surrounds this tall tree that Pip referred to as the Eldest.",
+        "",
+        "%% u0040:0-3, u0041:0-93, u0042:0-38, u0043:0-11, u0044:0-41, u0045:0-56, u0046:0-13, u0047:0-155, u0048:0-15, u0049:0-18, u0050:0-26, u0051:0-21, u0052:0-15, u0053:0-34, u0054:0-4, u0055:0-29, u0056:0-5, u0057:0-87, u0058:0-129, u0059:0-28, u0060:0-4, u0061:0-33, u0062:0-48, u0063:0-14, u0064:0-50, u0065:0-40, u0066:0-92, u0067:0-32, u0068:0-5, u0069:0-5, u0070:0-6, u0071:0-27, u0072:0-54, u0073:0-19, u0074:0-25, u0075:0-43, u0076:0-80, u0077:0-98, u0078:0-32, u0079:0-4, u0080:0-118, u0081:0-166, u0082:0-180, u0083:0-111, u0084:0-4, u0085:0-5, u0086:0-26, u0087:0-34, u0088:0-39, u0089:0-3, u0090:0-8, u0091:0-12, u0092:0-33, u0093:0-42, u0094:0-19, u0095:0-64, u0096:0-67, u0097:0-2, u0098:0-39, u0099:0-115, u0100:0-72, u0101:0-14, u0102:0-11, u0103:0-16, u0104:0-29, u0105:0-16, u0106:0-28, u0107:0-53, u0108:0-16, u0109:0-13, u0110:0-1, u0111:0-3, u0112:0-11, u0113:0-83, u0114:0-33, u0115:0-44, u0116:0-17, u0117:0-54, u0118:0-46, u0119:0-37, u0120:0-13, u0121:0-9, u0122:0-26, u0123:0-87, u0124:0-67, u0125:0-53, u0126:0-72, u0127:0-36, u0128:0-7, u0129:0-47, u0130:0-54, u0131:0-41, u0132:0-2, u0133:0-35, u0134:0-47, u0135:0-19, u0136:0-44, u0137:0-54, u0138:0-5, u0139:0-108, u0140:0-35, u0141:0-5, u0142:0-41, u0143:0-18, u0144:0-12, u0145:0-9, u0146:0-9, u0147:0-125, u0148:0-24, u0149:0-34, u0150:0-15, u0151:0-8, u0152:0-57, u0153:0-41, u0154:0-36, u0155:0-14, u0156:0-5, u0157:0-13, u0158:0-17, u0159:0-15, u0160:0-4, u0161:0-18, u0162:0-128, u0163:0-21, u0164:0-8, u0165:0-2, u0166:0-2, u0167:0-13, u0168:0-6, u0169:0-104, u0170:0-22, u0171:0-7, u0172:0-75, u0173:0-86, u0174:0-33, u0175:0-9, u0176:0-133, u0177:0-58, u0178:0-43, u0179:0-6, u0180:0-48, u0181:0-9, u0182:0-40, u0183:0-44, u0184:0-7, u0185:0-3, u0186:0-6, u0187:0-46, u0188:0-18, u0189:0-32, u0190:0-9, u0191:0-53, u0192:0-14, u0193:0-50, u0194:0-72, u0195:0-12, u0196:0-3, u0197:0-20, u0198:0-69, u0199:0-2, u0200:0-48, u0201:0-60, u0202:0-16, u0203:0-6, u0204:0-124, u0205:0-33, u0206:0-24, u0207:0-68, u0208:0-7, u0209:0-50, u0210:0-4, u0211:0-87, u0212:0-50, u0213:0-41, u0214:0-27, u0215:0-28, u0216:0-6, u0217:0-134, u0218:0-44, u0219:0-15, u0220:0-159, u0221:0-16, u0222:0-36, u0223:0-13, u0224:0-33, u0225:0-17, u0226:0-15, u0227:0-108, u0228:0-6, u0229:0-46, u0230:0-82, u0231:0-62, u0232:0-79, u0233:0-23, u0234:0-27, u0235:0-16, u0236:0-25, u0237:0-5, u0238:0-47, u0239:0-38, u0240:0-7, u0241:0-85, u0242:0-5, u0243:0-7, u0244:0-30, u0245:0-64, u0246:0-93, u0247:0-24, u0248:0-31, u0249:0-3, u0250:0-17, u0251:0-10, u0252:0-89, u0253:0-64, u0254:0-14, u0255:0-3, u0256:0-9, u0257:0-14, u0258:0-104, u0259:0-27, u0260:0-53, u0261:0-14, u0262:0-8, u0263:0-48, u0264:0-6, u0265:0-65, u0266:0-23, u0267:0-81, u0268:0-20, u0269:0-8, u0270:0-14, u0271:0-22, u0272:0-69, u0273:0-83, u0274:0-35, u0275:0-131, u0276:0-21, u0277:0-4, u0278:0-23, u0279:0-5, u0280:0-42, u0281:0-29, u0282:0-104, u0283:0-72, u0284:0-9, u0285:0-29, u0286:0-48, u0287:0-53, u0288:0-19, u0289:0-65, u0290:0-13, u0291:0-7, u0292:0-2, u0293:0-86, u0294:0-9, u0295:0-32, u0296:0-97, u0297:0-12, u0298:0-12, u0299:0-21, u0300:0-5, u0301:0-20, u0302:0-6, u0303:0-11, u0304:0-8, u0305:0-53, u0306:0-28, u0307:0-40, u0308:0-17, u0309:0-70, u0310:0-11, u0311:0-13, u0312:0-79, u0313:0-92, u0314:0-6, u0315:0-101, u0316:0-3, u0317:0-102, u0318:0-4, u0319:0-6, u0320:0-101, u0321:0-69, u0322:0-46, u0323:0-6, u0324:0-55, u0325:0-67, u0326:0-23, u0327:0-116, u0328:0-105, u0329:0-11, u0330:0-5, u0331:0-71, u0332:0-33, u0333:0-6, u0334:0-18, u0335:0-43, u0336:0-5, u0337:0-28, u0338:0-28, u0339:0-11, u0340:0-9, u0341:0-64, u0342:0-18, u0343:0-23, u0344:0-13, u0345:0-22, u0346:0-21, u0347:0-5, u0348:0-8, u0349:0-59, u0350:0-25, u0351:0-10, u0352:0-31, u0353:0-5, u0354:0-22, u0355:0-41, u0356:0-21, u0357:0-43, u0358:0-59, u0359:0-31, u0360:0-9, u0361:0-6, u0362:0-13, u0363:0-77, u0364:0-17, u0365:0-50, u0366:0-22, u0367:0-22, u0368:0-15, u0369:0-6, u0370:0-22, u0371:0-21, u0372:0-3, u0373:0-44, u0374:0-18, u0375:0-39, u0376:0-6, u0377:0-29, u0378:0-16, u0379:0-77, u0380:0-29, u0381:0-2, u0382:0-11, u0383:0-12, u0384:0-48, u0385:0-8, u0386:0-12, u0387:0-15, u0388:0-29, u0389:0-21, u0390:0-37, u0391:0-17, u0392:0-8, u0393:0-19, u0394:0-91, u0395:0-4, u0396:0-11, u0397:0-5, u0398:0-7, u0399:0-11, u0400:0-24, u0401:0-50, u0402:0-49, u0403:0-11, u0404:0-23, u0405:0-15, u0406:0-32, u0407:0-54, u0408:0-49, u0409:0-11, u0410:0-4, u0411:0-20, u0412:0-43, u0413:0-24, u0414:0-31, u0415:0-29, u0416:0-11, u0417:0-45, u0418:0-78, u0419:0-96, u0420:0-74, u0421:0-70, u0422:0-58, u0423:0-32, u0424:0-19, u0425:0-36, u0426:0-58, u0427:0-21, u0428:0-43, u0429:0-4, u0430:0-48, u0431:0-50, u0432:0-39, u0433:0-18, u0434:0-127, u0435:0-5, u0436:0-36, u0437:0-37, u0438:0-81, u0439:0-9, u0440:0-36, u0441:0-6, u0442:0-68, u0443:0-7, u0444:0-12, u0445:0-26, u0446:0-45, u0447:0-5, u0448:0-44, u0449:0-48, u0450:0-6, u0451:0-57, u0452:0-3, u0453:0-67, u0454:0-5, u0455:0-36, u0456:0-73, u0457:0-6, u0458:0-14, u0459:0-61, u0460:0-59, u0461:0-4, u0462:0-6, u0463:0-17, u0464:0-19, u0465:0-19, u0466:0-5, u0467:0-33, u0468:0-16, u0469:0-9, u0470:0-55, u0471:0-10, u0472:0-45, u0473:0-75, u0474:0-11, u0475:0-23, u0476:0-4, u0477:0-3, u0478:0-5, u0479:0-14, u0480:0-4, u0481:0-9, u0482:0-51, u0483:0-28, u0484:0-29, u0485:0-32, u0486:0-30, u0487:0-32, u0488:0-29, u0489:0-8, u0490:0-43, u0491:0-13, u0492:0-6, u0493:0-33, u0494:0-26, u0495:0-71, u0496:0-12, u0497:0-5, u0498:0-31, u0499:0-23, u0500:0-32, u0501:0-36, u0502:0-33, u0503:0-23, u0504:0-35, u0505:0-5, u0506:0-41, u0507:0-8, u0508:0-50, u0509:0-23, u0510:0-42, u0511:0-17, u0512:0-26, u0513:0-28, u0514:0-58, u0515:0-19, u0516:0-5, u0517:0-8, u0518:0-68, u0519:0-46, u0520:0-47, u0521:0-5, u0522:0-6, u0523:0-5, u0524:0-28, u0525:0-72, u0526:0-51, u0527:0-23, u0528:0-10, u0529:0-24, u0530:0-15, u0531:0-41, u0532:0-14, u0533:0-4, u0534:0-16, u0535:0-15, u0536:0-59, u0537:0-123, u0538:0-48, u0539:0-49, u0540:0-9, u0541:0-10, u0542:0-5, u0543:0-3, u0544:0-8, u0545:0-57, u0546:0-9, u0547:0-20, u0548:0-44, u0549:0-5, u0550:0-60, u0551:0-70, u0552:0-42, u0553:0-70, u0554:0-111, u0555:0-56, u0556:0-11, u0557:0-15, u0558:0-5, u0559:0-12, u0560:0-26, u0561:0-80, u0562:0-30, u0563:0-4, u0564:0-17, u0565:0-52, u0566:0-5, u0567:0-54, u0568:0-56, u0569:0-56, u0570:0-8, u0571:0-14, u0572:0-9, u0573:0-52, u0574:0-9, u0575:0-22, u0576:0-16, u0577:0-73, u0578:0-37, u0579:0-28, u0580:0-107, u0581:0-21, u0582:0-11, u0583:0-15, u0584:0-82, u0585:0-11, u0586:0-6, u0587:0-26, u0588:0-29, u0589:0-25, u0590:0-34, u0591:0-69, u0592:0-41, u0593:0-120, u0594:0-10, u0595:0-5, u0596:0-19, u0597:0-48, u0598:0-39, u0599:0-18, u0600:0-9, u0601:0-6, u0602:0-72, u0603:0-24, u0604:0-5, u0605:0-9, u0606:0-11, u0607:0-48, u0608:0-51, u0609:0-40, u0610:0-20, u0611:0-6, u0612:0-38, u0613:0-32, u0614:0-37, u0615:0-27, u0616:0-10, u0617:0-58, u0618:0-4, u0619:0-13, u0620:0-7, u0621:0-18, u0622:0-19, u0623:0-38, u0624:0-13, u0625:0-35, u0626:0-23, u0627:0-19, u0628:0-12, u0629:0-5, u0630:0-2, u0631:0-3, u0632:0-9, u0633:0-19, u0634:0-10, u0635:0-6, u0636:0-5, u0637:0-12, u0638:0-19, u0639:0-61, u0640:0-18, u0641:0-8, u0642:0-20, u0643:0-15, u0644:0-25, u0645:0-67, u0646:0-64, u0647:0-3, u0648:0-64, u0649:0-68, u0650:0-21, u0651:0-5, u0652:0-99, u0653:0-12, u0654:0-8, u0655:0-11, u0656:0-16, u0657:0-9, u0658:0-12, u0659:0-7, u0660:0-20, u0661:0-31, u0662:0-26, u0663:0-16, u0664:0-222, u0665:0-36, u0666:0-5, u0667:0-27, u0668:0-26, u0669:0-23, u0670:0-5, u0671:0-11, u0672:0-29, u0673:0-23, u0674:0-19, u0675:0-36, u0676:0-28, u0677:0-33, u0678:0-11, u0679:0-8, u0680:0-57, u0681:0-65, u0682:0-30, u0683:0-19, u0684:0-34, u0685:0-44, u0686:0-34, u0687:0-21, u0688:0-35, u0689:0-60, u0690:0-27, u0691:0-4, u0692:0-46, u0693:0-16, u0694:0-10, u0695:0-47, u0696:0-5, u0697:0-8, u0698:0-29, u0699:0-11, u0700:0-85, u0701:0-16, u0702:0-9, u0703:0-42, u0704:0-19, u0705:0-38, u0706:0-69, u0707:0-4, u0708:0-12, u0709:0-5, u0710:0-12, u0711:0-11, u0712:0-55, u0713:0-29, u0714:0-25, u0715:0-39, u0716:0-46, u0717:0-67, u0718:0-104, u0719:0-108, u0720:0-5, u0721:0-10, u0722:0-27, u0723:0-112, u0724:0-5, u0725:0-47, u0726:0-135, u0727:0-45, u0728:0-34, u0729:0-4, u0730:0-5, u0731:0-71, u0732:0-34, u0733:0-67, u0734:0-18, u0735:0-4, u0736:0-88, u0737:0-88, u0738:0-39, u0739:0-84, u0740:0-3, u0741:0-112, u0742:0-12, u0743:0-28, u0744:0-25, u0745:0-7, u0746:0-10, u0747:0-5, u0748:0-16, u0749:0-101, u0750:0-4, u0751:0-132, u0752:0-56, u0753:0-31, u0754:0-138, u0755:0-41, u0756:0-54, u0757:0-5, u0758:0-51, u0759:0-31, u0760:0-9, u0761:0-33, u0762:0-6, u0763:0-4, u0764:0-5, u0765:0-15, u0766:0-14, u0767:0-56, u0768:0-9, u0769:0-47, u0770:0-4, u0771:0-35, u0772:0-42, u0773:0-36, u0774:0-13, u0775:0-30, u0776:0-39, u0777:0-4, u0778:0-1, u0779:0-4, u0780:0-2, u0781:0-6, u0782:0-52, u0783:0-25, u0784:0-32, u0785:0-23, u0786:0-37, u0787:0-5, u0788:0-22, u0789:0-66, u0790:0-23, u0791:0-58, u0792:0-18, u0793:0-13, u0794:0-27, u0795:0-11, u0796:0-24, u0797:0-19, u0798:0-3, u0799:0-5, u0800:0-3, u0801:0-21, u0802:0-17, u0803:0-19, u0804:0-12, u0805:0-6, u0806:0-14, u0807:0-4, u0808:0-4, u0809:0-18, u0810:0-59, u0811:0-19, u0812:0-15, u0813:0-89, u0814:0-40, u0815:0-50, u0816:0-27, u0817:0-76, u0818:0-16, u0819:0-23, u0820:0-11, u0821:0-2, u0822:0-14, u0823:0-2, u0824:0-45, u0825:0-13, u0826:0-15, u0827:0-3, u0828:0-30, u0829:0-6, u0830:0-14, u0831:0-9, u0832:0-18, u0833:0-29, u0834:0-47, u0835:0-6, u0836:0-14, u0837:0-40, u0838:0-28, u0839:0-4, u0840:0-50, u0841:0-12, u0842:0-49, u0843:0-45, u0844:0-5, u0845:0-60, u0846:0-136, u0847:0-107, u0848:0-35, u0849:0-18, u0850:0-37, u0851:0-14, u0852:0-6, u0853:0-3, u0854:0-10, u0855:0-42, u0856:0-66, u0857:0-9, u0858:0-5, u0859:0-12, u0860:0-20, u0861:0-55, u0862:0-18, u0863:0-7, u0864:0-38, u0865:0-45, u0866:0-38, u0867:0-8, u0868:0-5, u0869:0-35, u0870:0-9, u0871:0-7, u0872:0-33, u0873:0-3, u0874:0-41, u0875:0-3, u0876:0-78, u0877:0-23, u0878:0-18, u0879:0-124, u0880:0-4, u0881:0-64, u0882:0-15, u0883:0-5, u0884:0-21, u0885:0-12, u0886:0-21, u0887:0-48, u0888:0-9, u0889:0-8, u0890:0-14, u0891:0-10, u0892:0-12, u0893:0-8, u0894:0-2, u0895:0-3, u0896:0-46, u0897:0-32, u0898:0-119, u0899:0-7, u0900:0-21, u0901:0-11, u0902:0-25, u0903:0-28, u0904:0-53, u0905:0-46, u0906:0-3, u0907:0-34, u0908:0-8, u0909:0-12, u0910:0-17, u0911:0-57, u0912:0-4, u0913:0-139, u0914:0-47, u0915:0-129, u0916:0-19, u0917:0-4, u0918:0-8, u0919:0-12, u0920:0-116, u0921:0-30, u0922:0-17, u0923:0-3, u0924:0-55, u0925:0-16, u0926:0-23, u0927:0-15, u0928:0-7, u0929:0-10, u0930:0-3, u0931:0-43, u0932:0-59, u0933:0-12, u0934:0-11, u0935:0-49, u0936:0-5, u0937:0-132, u0938:0-4, u0939:0-13, u0940:0-21, u0941:0-7, u0942:0-76, u0943:0-31, u0944:0-17, u0945:0-18, u0946:0-23, u0947:0-32, u0948:0-36, u0949:0-24, u0950:0-5, u0951:0-33, u0952:0-27, u0953:0-15, u0954:0-18, u0955:0-7, u0956:0-31, u0957:0-6, u0958:0-17, u0959:0-32, u0960:0-11, u0961:0-39, u0962:0-15, u0963:0-18, u0964:0-9, u0965:0-48, u0966:0-14, u0967:0-31, u0968:0-44, u0969:0-5, u0970:0-40, u0971:0-21, u0972:0-12, u0973:0-42, u0974:0-62, u0975:0-5, u0976:0-7, u0977:0-9, u0978:0-3, u0979:0-33, u0980:0-50, u0981:0-27, u0982:0-5, u0983:0-90, u0984:0-16, u0985:0-10, u0986:0-16, u0987:0-43, u0988:0-33, u0989:0-50, u0990:0-12, u0991:0-9, u0992:0-152, u0993:0-31, u0994:0-8, u0995:0-93, u0996:0-14, u0997:0-5, u0998:0-29, u0999:0-8, u1000:0-47, u1001:0-14, u1002:0-10, u1003:0-44, u1004:0-18, u1005:0-30, u1006:0-31, u1007:0-6, u1008:0-3, u1009:0-56, u1010:0-3, u1011:0-106, u1012:0-172, u1013:0-4, u1014:0-42, u1015:0-28, u1016:0-32, u1017:0-66, u1018:0-5, u1019:0-12, u1020:0-5, u1021:0-57, u1022:0-95, u1023:0-5, u1024:0-26, u1025:0-29, u1026:0-12, u1027:0-43, u1028:0-28, u1029:0-16, u1030:0-33, u1031:0-35, u1032:0-8, u1033:0-8, u1034:0-40, u1035:0-19, u1036:0-42, u1037:0-30, u1038:0-5, u1039:0-22, u1040:0-28, u1041:0-17, u1042:0-9, u1043:0-43, u1044:0-58, u1045:0-36, u1046:0-14, u1047:0-15, u1048:0-82, u1049:0-84, u1050:0-27, u1051:0-122, u1052:0-94, u1053:0-74, u1054:0-105, u1055:0-31, u1056:0-44, u1057:0-9, u1058:0-16, u1059:0-10, u1060:0-79, u1061:0-62, u1062:0-26, u1063:0-50, u1064:0-34, u1065:0-3, u1066:0-77, u1067:0-5, u1068:0-13, u1069:0-16, u1070:0-104, u1071:0-56, u1072:0-5, u1073:0-4, u1074:0-18, u1075:0-10, u1076:0-8, u1077:0-24, u1078:0-70, u1079:0-29, u1080:0-42, u1081:0-31, u1082:0-64, u1083:0-40, u1084:0-29, u1085:0-18, u1086:0-44, u1087:0-20, u1088:0-14, u1089:0-6, u1090:0-9, u1091:0-35, u1092:0-15, u1093:0-7, u1094:0-2, u1095:0-21, u1096:0-27, u1097:0-15, u1098:0-6, u1099:0-3, u1100:0-112, u1101:0-29, u1102:0-21, u1103:0-5, u1104:0-25, u1105:0-18, u1106:0-19, u1107:0-30, u1108:0-30, u1109:0-11, u1110:0-35, u1111:0-13, u1112:0-7, u1113:0-18, u1114:0-36, u1115:0-23, u1116:0-16, u1117:0-10, u1118:0-7, u1119:0-20, u1120:0-14, u1121:0-95, u1122:0-107, u1123:0-69, u1124:0-6, u1125:0-32, u1126:0-17, u1127:0-4, u1128:0-51 %%",
+        "((Combat and tactical preparation))",
+        "",
+        "%% u1129:0-169, u1130:0-74, u1131:0-50, u1132:0-114, u1133:0-48, u1134:0-4, u1135:0-162, u1136:0-21 %%",
+        "DM: ((Combat resolution))Kenzo follows up with a second hit with his staff, which shatters this wooden knot into pieces, and the vines just like— shatter, like wood cracking, like—like if you crack a glass or something, and the cracks just spread all across it. They're shattering everywhere as they begin to split and fall apart.",
+        "",
+        "%% u1137:0-26, u1138:0-9 %%",
+        "DM: This wooden knot destroyed, [garbled].",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It's approaching sunset as you reach the place or person—it's not clear—that the bats call Canopy, or sometimes Eldest. The skies have cleared after a brief afternoon downpour, and the air is hot and humid and still. The jungle quiet around you. Directly ahead you can see—",
+          "DM: Well, you can't, really. I guess it depends on whether you've climbed down from Vindristjarna yet or not, because from the skyship you can't see the the jungle floor. The canopy is thick, so, assuming you've landed at this point and are sort of creeping forward on the ground, you can see the tangled nest of crawling vines and thorns that marks the chaotic corruption that seems to have silenced this tree, known as the Eldest, or Canopy, and put a pall on the jungle. Pip, the fruit bat who guided you towards where she found the jade was full of stories as she flew, telling you about well, what she learned as a child only a few years ago, as she learned to talk as she learned to fly, not really knowing anything about the history of the jungle, and not really thinking it strange that she could speak elvish. But you heard tales from her of the mango trees that sing ballads when their fruit is ripe, calling her and her people and her companions to come feast; of the trickster monkeys who live on the mangroves on the coast, protected by Slither, an ancient boa constrictor, who run around the jungle howling news and gossip to everybody, but have been quiet of late; the orchids that bloom and whisper love poems to hummingbirds; the groves of banyan trees that speak in many voices, turning the stories of the jungle into dramatic plays. The Fire Clan, led by the Tiger Blaze, who live along the Big River to the west, keeping a watchful eye.",
+          "DM: So as Pip is telling these stories, and you're flying through the jungle, what you're passing through is nothing like the story she tells. The trees are quiet. You don't hear any mango trees singing ballads, or booming gossip of howler monkeys, or whispered poems of humming—of orchids, or even the buzz of insects, seems dulled or muted.",
+          "Seeker: Hmm.",
+          "DM: Now, as Pip returns to her family and friends in the cave, after showing you where she found the jade, the silence is even more oppressive and quiet without her chattering high pitched tales to keep you company."
+        ],
+        "after": [
+          "Seeker: Tree doing?",
+          "DM: As quiet falls, you hear this sort of slow, ponderous voice begin to speak, saying—",
+          "DM: \"Thank you, big monkeys. Did not think that would ever go away. Not seen such big monkeys before. But I appreciate you finding me in this state.\"",
+          "DM: And the tree begins to creak, and like, branches begin to wave, and it seems like it's shaking slightly to wake itself up, to shake off some bad dream. [garbled].",
+          "Seeker: Oh, we were gonna ask it about the jade."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i002"
+    },
+    {
+      "title": "Calming the Eldest after the chaos dreams",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1140",
+        "endUid": "u1294"
+      },
+      "lines": [
+        "%% u1140:0-15, u1141:0-8, u1142:0-12, u1143:0-5, u1144:0-31, u1145:0-7 %%",
+        "DM: As quiet falls, you hear this sort of slow, ponderous voice begin to speak, saying—",
+        "",
+        "%% u1146:0-22, u1147:0-13, u1148:0-24, u1149:0-33, u1150:0-16, u1151:0-29 %%",
+        "DM: \"Thank you, big monkeys. Did not think that would ever go away. Not seen such big monkeys before. But I appreciate you finding me in this state.\"",
+        "",
+        "%% u1152:0-38, u1153:0-111, u1154:0-16 %%",
+        "DM: And the tree begins to creak, and like, branches begin to wave, and it seems like it's shaking slightly to wake itself up, to shake off some bad dream. [garbled].",
+        "",
+        "%% u1155:0-41, u1156:0-5, u1157:0-5 %%",
+        "((Unrelated discussion))",
+        "",
+        "%% u1158:0-76, u1159:0-11, u1160:0-30 %%",
+        "Wellby: Let's ask it if it's okay, though, like, is it? Yes, any other? Well, yeah— first yeah. Yeah, are, are you okay, tree?",
+        "",
+        "%% u1161:0-38, u1162:0-8, u1163:0-9, u1164:0-44, u1165:0-11, u1166:0-6 %%",
+        "DM: \"I will heal. I am better now that that burning seed that pierced my mind is gone. That fragment, that shrapnel of chaos.\"",
+        "",
+        "%% u1167:0-37, u1168:0-42 %%",
+        "DM: Seems again, like taking some time to catch its breath briefly, and and breathe.",
+        "",
+        "%% u1169:0-30 %%",
+        "Seeker: Where? Where did it come from?",
+        "",
+        "%% u1170:0-23 %%",
+        "DM: Where did it come from?",
+        "",
+        "%% u1171:0-26, u1172:0-27, u1173:0-8, u1174:0-6, u1175:0-15 %%",
+        "DM: \"I do not know, big monkey. I could ask the same of you. Not seen such a—\" Well, actually.",
+        "",
+        "%% u1176:0-205 %%",
+        "DM: Wellby and Seeker aren't really that much—Wellby is not that much bigger than the howler monkeys. So really, the big monkey is referring to Delwath and Kenzo. Seeker is just monkey; Wellby is little monkey.",
+        "",
+        "%% u1177:0-1, u1178:0-40, u1179:0-16, u1180:0-8 %%",
+        "DM: \"I—I've not seen any of your kind with such bright steel and strange—\"",
+        "",
+        "%% u1181:0-41, u1182:0-4 %%",
+        "DM: The wind sort of rustles in the branches. \"Fur.\"",
+        "",
+        "%% u1183:0-15, u1184:0-21, u1185:0-11, u1186:0-92, u1187:0-18, u1188:0-15 %%",
+        "DM: \"Perhaps you are not here by accident. Perhaps you Came from the shrapnel.\" And it turns. It seems like it's getting angry for a moment. \"But no! Why would you have fought it then?\"",
+        "",
+        "%% u1189:0-13 %%",
+        "DM: Ponders. \"Hmm.\"",
+        "",
+        "%% u1190:0-27, u1191:0-19, u1192:0-56, u1193:0-9, u1194:0-100, u1195:0-83, u1196:0-33 %%",
+        "DM: \"But the dreams were full of such strange chaos. A giant rock with overgrown forests 1 min blown apart by a wind of ice and water, and then suddenly into a rolling pasture that erupted with a volcano, and nothing was fixed. Even as I watched and dreamed, the world broke apart again and again. And so maybe I'm still in that dreaming.\"",
+        "",
+        "%% u1197:0-3 %%",
+        "Seeker: No.",
+        "",
+        "%% u1198:0-33, u1199:0-27 %%",
+        "DM: It seems to be working itself up. \"How do I know you are real?\"",
+        "",
+        "%% u1200:0-24, u1201:0-10, u1202:0-43 %%",
+        "Seeker: Perhaps we can offer you some help. Can—can I cast a healing spell on the tree?",
+        "",
+        "%% u1203:0-5 %%",
+        "DM: Sure!",
+        "",
+        "%% u1204:0-24, u1205:0-14 %%",
+        "Seeker: Cause it's visibly, like, injured, right?",
+        "",
+        "%% u1206:0-46, u1207:0-14, u1208:0-57 %%",
+        "DM: You can't see any like visible signs of injury, like it's not— there's no—its bark seems intact. There's no like wounds.",
+        "",
+        "%% u1209:0-41 %%",
+        "Wellby: Can Kenzo soul sight the tree, or, like—",
+        "",
+        "%% u1210:0-77, u1211:0-15, u1212:0-71, u1213:0-71, u1214:0-21, u1215:0-12 %%",
+        "DM: Yeah, sure. So I mean, it's not—so, Kenzo soul sight would reveal it's not— there's nothing— there's nothing wrong with it except, like, it's confused and upset, and there's nothing like magically wrong with it, it's not cursed. It's not particularly wounded. I've really—",
+        "",
+        "%% u1216:0-4 %%",
+        "Seeker: See.",
+        "",
+        "%% u1217:0-103 %%",
+        "DM: Like it just woke up from a very bad dream, and is still trying to sort out what's real and what's not.",
+        "",
+        "%% u1218:0-4 %%",
+        "Seeker: Yes.",
+        "",
+        "%% u1219:0-28 %%",
+        "Delwath: What language is it talking?",
+        "",
+        "%% u1220:0-7 %%",
+        "DM: Elvish!",
+        "",
+        "%% u1221:0-32 %%",
+        "Seeker: So I can't speak to it directly.",
+        "",
+        "%% u1222:0-38 %%",
+        "DM: Well, I assume Delwath is translating.",
+        "",
+        "%% u1223:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1224:0-55, u1225:0-19, u1226:0-21, u1227:0-119, u1228:0-25, u1229:0-5, u1230:0-8, u1231:0-13, u1232:0-12, u1233:0-31, u1234:0-61, u1235:0-24, u1236:0-58, u1237:0-4, u1238:0-12, u1239:0-20, u1240:0-4 %%",
+        "((Unrelated discussion))",
+        "",
+        "%% u1241:0-5, u1242:0-19, u1243:0-2, u1244:0-12, u1245:0-66, u1246:0-30, u1247:0-7, u1248:0-74, u1249:0-4, u1250:0-26, u1251:0-124, u1252:0-78, u1253:0-60, u1254:0-54 %%",
+        "Delwath: That calm it down a bit, at— tell it like some, maybe some story, a story about the elven trees like sort of, tell it a story about Aldanor, sort of tell it where? Where? Tell it a story about Kenzo's, you know, forest soul, like the bats like just kind of, nothing too specific, just, like, talk it to it a little bit about, you know, kind of like, let me—you know, you're waking up. Let me tell you some things that have been happening. Do you know of—you know, We—we met these bats and oh, you know this is Kenzo, and he, his staff, came from the forest, and I'm Delwath, and—",
+        "",
+        "%% u1255:0-37, u1256:0-35 %%",
+        "((Unrelated discussion))",
+        "",
+        "%% u1257:0-53 %%",
+        "DM: Yeah, it seems that I mean it's listening. It doesn't—",
+        "",
+        "%% u1258:0-198, u1259:0-70, u1260:0-142, u1261:0-32, u1262:0-68, u1263:0-8 %%",
+        "DM: A lot of what you're saying, it doesn't really seem to understand, but just the like rhythm of you talking and telling stories, and all this, like—it clearly has no idea what you mean by Aldanor, or, you know, anything like that. But just the sound of your voice kind of begins to calm the the tree down a little bit, and you know, after maybe 10 or 15 min of of Delwath telling these stories, it does seem to be— if not relaxed, at least kind of, sort of nodding along, you know, interjecting occasionally about how, you know—",
+        "",
+        "%% u1264:0-119, u1265:0-9 %%",
+        "DM: It's—it's nice that such strange looking creatures are, you know, so civilized and can speak, never would have guessed. You know—",
+        "",
+        "%% u1266:0-17, u1267:0-60, u1268:0-16, u1269:0-37 %%",
+        "DM: Starts to sort of seem to relax a little bit, at least acknowledge that you're friendly and not—and not a figment of its imagination.",
+        "",
+        "%% u1270:0-28, u1271:0-14, u1272:0-28, u1273:0-60 %%",
+        "Delwath: Some point they'll ask if it needs anything to help the jungle return to—what was it? Pip and Echo? Were the bats—or the bats' names?",
+        "",
+        "%% u1274:0-19 %%",
+        "DM: Yeah. Pip and Echo.",
+        "",
+        "%% u1275:0-55, u1276:0-9, u1277:0-12, u1278:0-45 %%",
+        "Delwath: They—I'll—I'll explain that the bats told a story of a much more alive place. And does it need anything to bring that back?",
+        "",
+        "%% u1279:0-4 %%",
+        "Wellby: Hmm.",
+        "",
+        "%% u1280:0-38, u1281:0-3 %%",
+        "DM: It sort of slowly sort of listens, and, hmm—",
+        "",
+        "%% u1282:0-6, u1283:0-20, u1284:0-13, u1285:0-15, u1286:0-9, u1287:0-14, u1288:0-26, u1289:0-13, u1290:0-6, u1291:0-4, u1292:0-4, u1293:0-28, u1294:0-9 %%",
+        "DM: \"Do not know, for sure, as I do not really understand what happened. Where did this shard come from? Are there more of them? It was only just past the last moon that this happened.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yup!",
+          "Delwath: Does that? 16, 13 presumably misses. What about 16?",
+          "DM: Everything hits except for the last 2. But it doesn't matter, because in this state it only has one hit point, and as Kenzo's first—as Kenzo's staff slams into the vine, the vine cracks in half, and this radiating crack of the energy of Kenzo's Kenzo's staff shimmers up and you can see that the—this, like wooden center thing, begins to crack. Kenzo follows up with a second hit with his staff, which shatters this wooden knot into pieces, and the vines just like— shatter, like wood cracking, like—like if you crack a glass or something, and the cracks just spread all across it. They're shattering everywhere as they begin to split and fall apart.",
+          "DM: This wooden knot destroyed, [garbled].",
+          "Seeker: Tree doing?"
+        ],
+        "after": [
+          "Wellby: Wasn't there something about moons for the plane of chaos scroll like is—",
+          "Delwath: Pandemonium. Yeah. Pandemonium. Do we have a mirror usage?",
+          "DM: I don't think so. Let me check.",
+          "Delwath: Because, can we? There was there any bits of the shell of the vine creature left, or did it all just disintegrate into—",
+          "DM: No, it disintegrated into dust."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i003"
+    },
+    {
+      "title": "Limbo, Cha’mutte and the Pandemonium theory",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1308",
+        "endUid": "u1443"
+      },
+      "lines": [
+        "%% u1308:0-18, u1309:0-117, u1310:0-3, u1311:0-15, u1312:0-14, u1313:0-35, u1314:0-3, u1315:0-14, u1316:0-48, u1317:0-60, u1318:0-14 %%",
+        "Delwath: Plus if it, if the—if the vine—I wanted to see where the vine came from. But if it disintegrated into dust, that's not going to help us. But— could have been— there was this— I'll I'll I'll say this in Dunmari, but— there was this— there were some people, right, remember, who gave somebody a scroll of Pandemonium, pulling Pandemonium closer, that got used.",
+        "",
+        "%% u1319:0-62, u1320:0-5, u1321:0-3, u1322:0-4 %%",
+        "((Table discussion and planar mapping))",
+        "",
+        "%% u1323:0-59 %%",
+        "Delwath: A month, I mean, does the timing line up for the theory is—",
+        "",
+        "%% u1324:0-5 %%",
+        "DM: Time.",
+        "",
+        "%% u1325:0-4 %%",
+        "Delwath: And—",
+        "",
+        "%% u1326:0-61, u1327:0-38, u1328:0-47 %%",
+        "DM: The timing does line up.((Arcana check))",
+        "",
+        "%% u1329:0-20, u1330:0-2, u1331:0-50, u1332:0-11, u1333:0-2, u1334:0-10, u1335:0-5, u1336:0-80, u1337:0-9, u1338:0-3, u1339:0-6 %%",
+        "((Table discussion and planar mapping))",
+        "",
+        "%% u1340:0-21, u1341:0-2, u1342:0-49, u1343:0-41, u1344:0-143, u1345:0-17, u1346:0-39 %%",
+        "DM: Delwath actually does. So, you know, you're not an expert in the planes. But, certainly there's stories from, you know, elven lore growing up, and what the forest was describing in its dream at least—which doesn't mean there's—it's not unrelated to Pandemonium, but this does not sound like Pandemonium at all. In fact—",
+        "",
+        "%% u1347:0-24 %%",
+        "Seeker: It's an elemental stuff.",
+        "",
+        "%% u1348:0-66, u1349:0-10, u1350:0-32, u1351:0-22, u1352:0-135, u1353:0-15, u1354:0-59, u1355:0-46, u1356:0-48, u1357:0-37, u1358:0-18, u1359:0-32, u1360:0-27, u1361:0-15 %%",
+        "DM: What this reminds Delwath of is—so, when you are preparing to fight Cha'mutte, one of the things that the Elven wizards and the Elven—like, you know, that the old elves, who were sort of preparing the troops talked about, was Cha'mutte's connection to the plane of chaos known as Limbo. And now you have to be prepared on the battlefield, because you never knew when things might shift or fix, or elements might crash together or split apart. The ground might shift underneath you because Cha'mutte was a master of manipulating the magic of chaos tied to the plane of Limbo.",
+        "",
+        "%% u1362:0-71, u1363:0-58, u1364:0-114, u1365:0-14 %%",
+        "DM: And as you listen to the tree speak about this dream it's having that— that's what it reminds Delwath of is these stories of, like, the—that the—that the sort of, and you were sort of always on the sidelines, right? Because that was like a like a quartermaster.",
+        "",
+        "%% u1366:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1367:0-57, u1368:0-78 %%",
+        "DM: Actual warrior. But you still heard these stories, right? That's what it makes you think of is Cha'mutte's magic and the magic of chaos.",
+        "",
+        "%% u1369:0-11, u1370:0-18 %%",
+        "Delwath: So we know— I mean what's off—",
+        "",
+        "%% u1371:0-65 %%",
+        "DM: Timing lines up exactly with when the Pandemonium scroll started.",
+        "",
+        "%% u1372:0-9, u1373:0-11, u1374:0-11, u1375:0-8, u1376:0-105, u1377:0-31, u1378:0-30, u1379:0-81 %%",
+        "Delwath: Could the Pandemonium scroll have weakened, like— So we have this whole theory about these extra planar weak points, right? And this theory about how Rai—Rai was trying to fix them, right, which is why he got up, got together with all the monks, and did something horrible that went very wrong.",
+        "",
+        "%% u1380:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u1381:0-27, u1382:0-95, u1383:0-34, u1384:0-23, u1385:0-12, u1386:0-53 %%",
+        "Delwath: Why his hand got destroyed. Although, as far as we know, that had nothing specifically to do with Apollyon, right? It's just, Rai was off trying to like fix the things that fell out of Cha'mutte's— That right? I'm not misremembering this, then, right?",
+        "",
+        "%% u1387:0-23 %%",
+        "DM: No, that's right. Yeah.",
+        "",
+        "%% u1388:0-19, u1389:0-61, u1390:0-58, u1391:0-51 %%",
+        "Delwath: Yeah, okay. And so, could that be this, somehow, or maybe the Pandemonium scroll— the scroll supposedly pulled Pandemonium closer to Taelgar. Is Limbo, like, metaphysically next to Pandemonium?",
+        "",
+        "%% u1392:0-19 %%",
+        "Seeker: That's interesting.",
+        "",
+        "%% u1393:0-9 %%",
+        "DM: Not. It's—",
+        "",
+        "%% u1394:0-67, u1395:0-14, u1396:0-6, u1397:0-13, u1398:0-31, u1399:0-13 %%",
+        "DM: Not that you're aware of, I mean, as far as you know, nobody's ever tried to like make a higher order metaphysical arrangement of the outer planes.",
+        "",
+        "%% u1400:0-7, u1401:0-16, u1402:0-66, u1403:0-124, u1404:0-26, u1405:0-3, u1406:0-122, u1407:0-52, u1408:0-107, u1409:0-33, u1410:0-5, u1411:0-75, u1412:0-12, u1413:0-18, u1414:0-66, u1415:0-41, u1416:0-8, u1417:0-54, u1418:0-72, u1419:0-19, u1420:0-10, u1421:0-18, u1422:0-44, u1423:0-37, u1424:0-83, u1425:0-43, u1426:0-27, u1427:0-27, u1428:0-35, u1429:0-2, u1430:0-17, u1431:0-33, u1432:0-5 %%",
+        "((Table discussion and planar mapping))",
+        "",
+        "%% u1433:0-32, u1434:0-85, u1435:0-29, u1436:0-32, u1437:0-45, u1438:0-5, u1439:0-26, u1440:0-2, u1441:0-21 %%",
+        "Delwath: We're left, basically with—no, I—it. It sounds plausible that it's the timing lines up with the Pandemonium thing, but this is probably not a direct Echo. So either it's coincidence, or the Pandemonium thing somehow caused other stuff to happen with the planes, or— those are my 2 ideas.",
+        "",
+        "%% u1442:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1443:0-76 %%",
+        "Delwath: It's either a coincidence or it's related. Those are pretty much my 2 ideas.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Pandemonium. Yeah. Pandemonium. Do we have a mirror usage?",
+          "DM: I don't think so. Let me check.",
+          "Delwath: Because, can we? There was there any bits of the shell of the vine creature left, or did it all just disintegrate into—",
+          "DM: No, it disintegrated into dust.",
+          "DM: Mirror visions! The last one was, where's my— the last one was— no, the Seeker doppelganger. So that was, that was only 3 days ago, the the last Mirror vision."
+        ],
+        "after": [
+          "Seeker: And then—",
+          "Wellby: You captured the possibility. I wonder if the tree knows anything about the—and where—where are we on the search for the hand process, like—",
+          "DM: It drifted off into the ocean. Yeah. And you know a direction. But that's it.",
+          "Seeker: So with our laser focus on the main quest of reconstructing the jade hand, we went inland into the jungle to rescue this tree out.",
+          "Delwath: Also, as an aside, we'd better not use the mirror because we need to save it for seeing the hand. We might not have 7 days."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i004"
+    },
+    {
+      "title": "The Eldest needs time to recover",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1458",
+        "endUid": "u1462"
+      },
+      "lines": [
+        "%% u1458:0-163 %%",
+        "Delwath: I mean, let's go back to—so the tree doesn't have any immediate needs. Is that the impression? Sorry, did—did it answer the question about, does it need anything?",
+        "",
+        "%% u1459:0-155, u1460:0-21 %%",
+        "DM: Yeah, it said—it said just—it just time, and it sort of spoke about being able to re—like feel its siblings through the soil rumbling in the distance, and beginning to recover.",
+        "",
+        "%% u1461:0-27, u1462:0-16 %%",
+        "Delwath: Siblings, trees like it, or— smaller animals?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: So with our laser focus on the main quest of reconstructing the jade hand, we went inland into the jungle to rescue this tree out.",
+          "Delwath: Also, as an aside, we'd better not use the mirror because we need to save it for seeing the hand. We might not have 7 days.",
+          "Seeker: Yeah. Listen, you guys, I, I gotta rest. Certainly. I'm pretty burnt out right now.",
+          "Delwath: Isn't it like evening?",
+          "DM: Yeah, it's night."
+        ],
+        "after": [
+          "Wellby: Maybe once it's recovered, it could ask all its siblings like who saw the hand fly by, and we could figure out the hand trajectory. It's not a thing.",
+          "Delwath: Kenzo knows.",
+          "Seeker: Where it is.",
+          "DM: You could ask it.",
+          "Delwath: Kenzo knows."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i005"
+    },
+    {
+      "title": "The missing jade and lizards from the sea",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1516",
+        "endUid": "u1649"
+      },
+      "lines": [
+        "%% u1516:0-62, u1517:0-38, u1518:0-51, u1519:0-23, u1520:0-57, u1521:0-27 %%",
+        "DM: \"Strange monkeys, I must thank you again. I am sorry. Yesterday, the chaos dreams still lingered on me. I appreciate that you have risked your life for us, and you have my thanks. You asked if there was anything we need, but I would ask, is there anything you need?\"",
+        "",
+        "%% u1522:0-56, u1523:0-53 %%",
+        "((Question setup))",
+        "",
+        "%% u1524:0-51, u1525:0-46 %%",
+        "Delwath: I'll tell it that—I mean this thing, something that— the jade was taken out of the cave here, right?",
+        "",
+        "%% u1526:0-233, u1527:0-52, u1528:0-8, u1529:0-72, u1530:0-21, u1531:0-12, u1532:0-19, u1533:0-55, u1534:0-54, u1535:0-55, u1536:0-39 %%",
+        "DM: As far as you know, the history of the jade in the jungle, that from all the pieces of evidence you have is as follows: it landed in the jungle like what 40 years ago, or whatever, when all of the pieces of jade were scattered across— in—at the time when you got the information from the—from the Philosophers Guild, which was like 6 months ago, or something like that, it seemed like it was lying hidden on the jungle floor. At some point since then, and now this bat Pip found it nestled among the roots of a tree that had fallen over, was curious about it, and brought it to the bat's cave, but didn't really think anything of it.",
+        "",
+        "%% u1537:0-4, u1538:0-52, u1539:0-20, u1540:0-10, u1541:0-23, u1542:0-151, u1543:0-8, u1544:0-17 %%",
+        "DM: Some time after that, when that happened, is unclear, but, it it must have been before you recovered the jade from the plane of water, because it was at that point when Kenzo had 4, that he could sense the location of this jade, and at that point it was in the cave. That was like 2 weeks ago.",
+        "",
+        "%% u1545:0-67, u1546:0-82 %%",
+        "DM: And then, while you were on the journey, Kenzo had a dream where it—jade turned into mist and flew off over the ocean. That was like maybe 5 days ago.",
+        "",
+        "%% u1547:0-50 %%",
+        "Delwath: Yeah. So it was when all of the jungle was cursed.",
+        "",
+        "%% u1548:0-26, u1549:0-14 %%",
+        "DM: It vanished, or, after the curse started.",
+        "",
+        "%% u1550:0-22, u1551:0-21 %%",
+        "Delwath: But as far as we know, the curse wasn't like—",
+        "",
+        "%% u1552:0-140, u1553:0-7, u1554:0-50, u1555:0-46, u1556:0-10, u1557:0-42, u1558:0-7 %%",
+        "Delwath: The jungle wasn't dead, right, like? So anyway, the the story we're going to tell the tree, I think would be that we're looking for something. We know it was a—it was a stone. I'll describe jade, right? We don't, and we know it traveled through here just a few passages of the sun again recently. Right? Buy it.",
+        "",
+        "%% u1559:0-118, u1560:0-84, u1561:0-57, u1562:0-24, u1563:0-21, u1564:0-16, u1565:0-33, u1566:0-26, u1567:0-25, u1568:0-94, u1569:0-38 %%",
+        "Delwath: We are looking for anything we want. We're asking if—if the tree can, like, reach out to all the life in the jungle, and the other trees, and the bats, and the birds and the baboons, and the whatever else. Right, howler monkeys, right? I guess not baboons. But and— did anybody see anything passing through here? Right? Something magical, something big, something, just any anything that any creature might have seen. I mean, we could describe where it went through the jungle, but but I don't know if it's gonna—if a map would make sense to it right?",
+        "",
+        "%% u1570:0-29 %%",
+        "DM: Sort of ponders for a moment.",
+        "",
+        "%% u1571:0-14, u1572:0-11, u1573:0-13, u1574:0-33, u1575:0-16, u1576:0-25 %%",
+        "DM: \"Not much comes— the monkeys on the coast, they might know, but they've been quiet, although— think some are waking up.",
+        "",
+        "%% u1577:0-29, u1578:0-53, u1579:0-39, u1580:0-21 %%",
+        "DM: They're usually the ones that drive away the little lizards that fly from the ocean. Don't know why they come, but they seem to want to bother us.",
+        "",
+        "%% u1581:0-18, u1582:0-36, u1583:0-16, u1584:0-71 %%",
+        "DM: But nothing really crosses our borders that we are not— we are not aware, since we awoke, anyway, unless this thing had been here for many years.\"",
+        "",
+        "%% u1585:0-40, u1586:0-33, u1587:0-4, u1588:0-18, u1589:0-22, u1590:0-76 %%",
+        "Delwath: This thing has been here for many years. One of the bats found it recently, left— just—just recently, it left from its spot. We wish to know: Did it leave on its own? Or did something come and take it?",
+        "",
+        "%% u1591:0-15, u1592:0-3, u1593:0-25, u1594:0-20 %%",
+        "DM: \"Well, you could ask the monkeys, I guess, but—\" pauses for a moment.",
+        "",
+        "%% u1595:0-33, u1596:0-37, u1597:0-17, u1598:0-41, u1599:0-33 %%",
+        "DM: \"Slither says they have been sick. Think the fruit was poisoned by this.\" The leaves rustle, and the tree seems to shake a little bit. \"But now maybe they are waking up.\"",
+        "",
+        "%% u1600:0-23, u1601:0-17, u1602:0-85, u1603:0-42 %%",
+        "DM: The flying lizards came the past 2 weeks. He says that is when the moon—whatever. But I'm not looking up the phase of the moon. I'm not sure anybody would have seen them.",
+        "",
+        "%% u1604:0-4, u1605:0-67, u1606:0-11 %%",
+        "Wellby: What— when you say the flying lizards were these little lizards, like— How— how little?",
+        "",
+        "%% u1607:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1608:0-14, u1609:0-10, u1610:0-25, u1611:0-16, u1612:0-18 %%",
+        "DM: Kind of shakes, like, \"About your size, little monkey, not much bigger, sometimes smaller.\"",
+        "",
+        "%% u1613:0-33 %%",
+        "Delwath: Did the little lizards ever talk?",
+        "",
+        "%% u1614:0-20, u1615:0-22, u1616:0-20, u1617:0-66, u1618:0-16, u1619:0-58, u1620:0-77 %%",
+        "DM: \"Oh, no, they are not intelligent creatures, not like you and us. They certainly don't know how to speak. They make noises sometimes. Don't think it's—\" and he says language, but it's the Elvish word for Elvish. Clearly not comprehending that there could be other languages besides Elvish.",
+        "",
+        "%% u1621:0-31 %%",
+        "Delwath: I will—I don't know Draconic.",
+        "",
+        "%% u1622:0-12 %%",
+        "DM: Kenzo knows.",
+        "",
+        "%% u1623:0-6 %%",
+        "Delwath: Maybe.",
+        "",
+        "%% u1624:0-5 %%",
+        "DM: Nick.",
+        "",
+        "%% u1625:0-44, u1626:0-49 %%",
+        "Delwath: Oh, could Kenzo say a few words in Draconic and ask if it sounds like the lizards chittering?",
+        "",
+        "%% u1627:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1628:0-42, u1629:0-13, u1630:0-18, u1631:0-54, u1632:0-10, u1633:0-47, u1634:0-14 %%",
+        "DM: \"Hmm! Are those words that you're speaking? They sound so harsh and strange. May—maybe that is, maybe that is the noise they make. I would be hard pressed to be certain I could place such a strange noise.\"",
+        "",
+        "%% u1635:0-4 %%",
+        "Wellby: Hmm.",
+        "",
+        "%% u1636:0-25, u1637:0-63, u1638:0-5, u1639:0-16, u1640:0-10, u1641:0-20 %%",
+        "DM: Pauses for a moment. \"Hmm.\" Seems to be sort of again, like reaching out sort of trying to— okay, listen to what's around him, for them, really the—",
+        "",
+        "%% u1642:0-22, u1643:0-20, u1644:0-32, u1645:0-7, u1646:0-91 %%",
+        "DM: \"I don't know what else to tell you. If you— unless you have other questions. I would enjoy hearing your stories. They must be quite strange. You're not from here, I don't think.",
+        "",
+        "%% u1647:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1648:0-48, u1649:0-28 %%",
+        "DM: \"Perhaps now is not the time to talk. If you have pressing business elsewhere.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So you rest. You return to Vindristjarna. You take some time to recover yourself from your fights. Talk to everybody who's hanging out on the on the ship.",
+          "DM: The halflings are are getting increasingly anxious to like be off somewhere on their own ship. But are glad that you, you know, are certainly very curious about all of this.",
+          "DM: So you sleep. Go ahead and and long rest.",
+          "DM: And as you wake in the morning, sun rises early, and it's not, I mean, the jungle's not— it's not quite as Pip described, but there's definitely a sort of electricity running through things that there wasn't before. Like, in the distance you hear this weird song of some kind that you can't quite place, but it's like faint strands of—of Elvish. Delwath, like, listens and concentrates for a moment, and it sounds kind of like, you know, there's every now and then it's like, dawn. It's sort of like a song about the dawn that something's singing in the distance. Just kind of more noise begins to return to the jungle a little bit.",
+          "DM: And so you return to the clearing of the tree, and—and the tree seems to be— sees you—sees you arrive, and says—"
+        ],
+        "after": [
+          "Delwath: Kenzo might like to take its story.",
+          "Wellby: Hmm.",
+          "DM: Oh, yeah, there is an idea. Yeah. Yes. Kong would almost certainly have suggested that.",
+          "Seeker: Yeah.",
+          "DM: So, so Kenzo—Kenzo listens to a bit, and it does talk. It actually remembers waking up. It was, like—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i006"
+    },
+    {
+      "title": "The Eldest remembers the awakening",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1650",
+        "endUid": "u1700"
+      },
+      "lines": [
+        "%% u1650:0-35 %%",
+        "Delwath: Kenzo might like to take its story.",
+        "",
+        "%% u1651:0-4 %%",
+        "Wellby: Hmm.",
+        "",
+        "%% u1652:0-33, u1653:0-52, u1654:0-5 %%",
+        "((Table aside))",
+        "",
+        "%% u1655:0-87, u1656:0-11 %%",
+        "DM: So, so Kenzo—Kenzo listens to a bit, and it does talk. It actually remembers waking up. It was, like—",
+        "",
+        "%% u1657:0-15, u1658:0-24, u1659:0-122, u1660:0-4 %%",
+        "DM: 40 seasons ago. 40—40 rainy seasons ago. And they remember like very clearly the day they 1st became aware—aware it was like electricity racing through the jungle. But—",
+        "",
+        "%% u1661:0-41 %%",
+        "Delwath: They were already a tree. It was already—",
+        "",
+        "%% u1662:0-22, u1663:0-17 %%",
+        "DM: It was already a tree. Yeah, yeah. Yeah.",
+        "",
+        "%% u1664:0-7, u1665:0-87, u1666:0-7, u1667:0-86 %%",
+        "DM: Not—not—not at all like this. What it described as shrapnel, the burning seed of shrapnel that sort of flew from somewhere and struck it before, is how it describes the chaos. This was like—",
+        "",
+        "%% u1668:0-47, u1669:0-31, u1670:0-48, u1671:0-38, u1672:0-11, u1673:0-38, u1674:0-3 %%",
+        "DM: I mean, it was like waking up. But this really— you know, sort of magical ripple energy, a river of energy pouring into its roots, like a flood of some strange new thing that opened a mind that they didn't know they had. And—",
+        "",
+        "%% u1675:0-30, u1676:0-91, u1677:0-106, u1678:0-8, u1679:0-29, u1680:0-42, u1681:0-58, u1682:0-111 %%",
+        "DM: It kept going, racing among the the links of nutrients and communication that connect all the trees together in the jungle. And this like strange awakening magic infused 1st the biggest trees with the deepest and strongest roots, but then the creatures that fed on the fruits and berries they produced, and then, more and more creatures over time, but not—not everything. Like the small birds and insects and frogs, and some animals, for some reason as well, never seem to speak, but—",
+        "",
+        "%% u1683:0-37, u1684:0-73 %%",
+        "DM: Within a year or 2 nothing new awoke. But the children of those who could speak inherited their parents' minds.",
+        "",
+        "%% u1685:0-14, u1686:0-13, u1687:0-15, u1688:0-11, u1689:0-15, u1690:0-13, u1691:0-48, u1692:0-43, u1693:0-4, u1694:0-8, u1695:0-32, u1696:0-54 %%",
+        "DM: And since then, the tree says, this has been a strange and peaceful place, excepting the little lizards that come from the sea sometimes, but the monkeys always drive them off until this shard of whatever it was crashed through and pierced its mind and dragged it into the dreaming.",
+        "",
+        "%% u1697:0-65, u1698:0-26, u1699:0-30, u1700:0-30 %%",
+        "DM: So this tells this story, like in Kenzo's way over the, you know, half an hour or something, and slowly sort of peters out. So what do you all want to do?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Hmm.",
+          "DM: Pauses for a moment. \"Hmm.\" Seems to be sort of again, like reaching out sort of trying to— okay, listen to what's around him, for them, really the—",
+          "DM: \"I don't know what else to tell you. If you— unless you have other questions. I would enjoy hearing your stories. They must be quite strange. You're not from here, I don't think.",
+          "Delwath: Yeah.",
+          "DM: \"Perhaps now is not the time to talk. If you have pressing business elsewhere.\""
+        ],
+        "after": [
+          "Delwath: I think we should go talk to the monkeys, but it sounds like they probably won't have seen anything, but they might be able to tell us more about the lizards. Anybody else have ideas?",
+          "Seeker: No.",
+          "Wellby: No.",
+          "Delwath: I mean, obviously, these are the same species as Dimitaur. They're coming from the little circular island, and Dimitaur is still there.",
+          "Seeker: What I'm—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i007"
+    },
+    {
+      "title": "The party speculates about Dimitaur",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1704",
+        "endUid": "u1714"
+      },
+      "lines": [
+        "%% u1704:0-58, u1705:0-76 %%",
+        "Delwath: I mean, obviously, these are the same species as Dimitaur. They're coming from the little circular island, and Dimitaur is still there.",
+        "",
+        "%% u1706:0-9 %%",
+        "Seeker: What I'm—",
+        "",
+        "%% u1707:0-21, u1708:0-92, u1709:0-97 %%",
+        "Delwath: Just making stuff up. I don't know. I have no inside knowledge, except I'm just trying to guess what Tim would do. I mean, they sound a little bigger than Dimitaur, but maybe he's a small instance of one of them.",
+        "",
+        "%% u1710:0-35 %%",
+        "Seeker: Dimitaur always seemed like a runt.",
+        "",
+        "%% u1711:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1712:0-84 %%",
+        "Wellby: Or maybe a tree's not good at telling the difference between like 2 feet and 3 feet.",
+        "",
+        "%% u1713:0-27 %%",
+        "Delwath: That's also quite possible.",
+        "",
+        "%% u1714:0-42 %%",
+        "Seeker: I think that's an interesting point. Yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And since then, the tree says, this has been a strange and peaceful place, excepting the little lizards that come from the sea sometimes, but the monkeys always drive them off until this shard of whatever it was crashed through and pierced its mind and dragged it into the dreaming.",
+          "DM: So this tells this story, like in Kenzo's way over the, you know, half an hour or something, and slowly sort of peters out. So what do you all want to do?",
+          "Delwath: I think we should go talk to the monkeys, but it sounds like they probably won't have seen anything, but they might be able to tell us more about the lizards. Anybody else have ideas?",
+          "Seeker: No.",
+          "Wellby: No."
+        ],
+        "after": [
+          "Delwath: I think we go to the monkey, I mean, can the tree like introduce us? Can the tree send a message ahead to the monkeys to be like, \"Some strange furless hairless monkeys are coming to talk to you. Don't be scared.\"",
+          "Seeker: Yeah. Just use the wood wide web.",
+          "Delwath: Yeah.",
+          "DM: The World Wide Web.",
+          "Seeker: Yeah. You know, how trees communicate."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i008"
+    },
+    {
+      "title": "Roar describes the coastal visitors",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1745",
+        "endUid": "u1832"
+      },
+      "lines": [
+        "%% u1745:0-112, u1746:0-12, u1747:0-48, u1748:0-15, u1749:0-16, u1750:0-13, u1751:0-35, u1752:0-25, u1753:0-10, u1754:0-18, u1755:0-148, u1756:0-20 %%",
+        "DM: And they, of course, start, like, you know, howling to each other in Elvish as you approach, yelling, you know the the strange— the strange ones are coming that somebody go get— somebody go get Chatter or Roar! Come, talk to the the weird ones that Canopy sent. Yells back and forth. Oh, Chatter's— Chatter's helping. \"She can't talk right now.\" \"Oh, Roar! I'll speak.\" Like this—just this, like, whole sort of yelled conversation in Elvish, and then you see this, like, old, like, clearly sort of—",
+        "",
+        "%% u1757:0-108, u1758:0-9, u1759:0-78, u1760:0-13, u1761:0-27, u1762:0-42, u1763:0-16, u1764:0-9 %%",
+        "DM: One of the bigger and louder and older howlers, like, climbs—climbs up to a tree, sort of yells up to you in—in Elvish, as you be, as you like, climb down the ladder, or whatever to to get down from Vindristjarna, comes sort of bounding over, speaking in a sort of loud, echoing voice, telling you that you know—",
+        "",
+        "%% u1765:0-98, u1766:0-22, u1767:0-28 %%",
+        "DM: Heard Canopy was sending some strange creatures, despite their bizarre appearance and lack of hair, could, in fact, speak. And you wanted to know about—",
+        "",
+        "%% u1768:0-121, u1769:0-113, u1770:0-284 %%",
+        "DM: Things from the ocean.((Offshore observations))",
+        "",
+        "%% u1771:0-42, u1772:0-14, u1773:0-108, u1774:0-62, u1775:0-73 %%",
+        "DM: Meanwhile Roar, apparently the name of this howler monkey, you know, kind of climbs up to the top of the tree and is sort of shouting at you as you descend the ladder, curious what you want to know, and quite sort of interested in the whole scene. Right? This is clearly something he's never seen before.",
+        "",
+        "%% u1776:0-16, u1777:0-32, u1778:0-20 %%",
+        "DM: \"So, hairless ones, come with the jungle's blessing. What can I tell you?\"",
+        "",
+        "%% u1779:0-21, u1780:0-4, u1781:0-33, u1782:0-92, u1783:0-49, u1784:0-52 %%",
+        "Delwath: We want to know about— weep— first we'll sort of express some, you know, sorry for your sickness and anything, but did you see anything while you were ill? Pass through here, any lizards or other creatures? We think something went out to sea during that time.",
+        "",
+        "%% u1785:0-19, u1786:0-5, u1787:0-28, u1788:0-21, u1789:0-10, u1790:0-37, u1791:0-61 %%",
+        "DM: \"They come sometimes. Until yesterday so many of us were taken by the disease, howling or running, and bouts of rabid violence. Can't say anyone was paying too much attention to this ocean.",
+        "",
+        "%% u1792:0-16, u1793:0-27, u1794:0-54, u1795:0-39 %%",
+        "DM: \"But yes, there's lizards that fly sometimes. Every now and then they'll come looking for stuff, and we throw rocks at them, and they leave.\"",
+        "",
+        "%% u1796:0-13 %%",
+        "Delwath: Really, like—",
+        "",
+        "%% u1797:0-11, u1798:0-24, u1799:0-25, u1800:0-20, u1801:0-55, u1802:0-6 %%",
+        "DM: \"Oh, they're like a small monkey, but with wings that look like— it's not like a bird, not like really a bat, either. They're sort of leathery, scaly.",
+        "",
+        "%% u1803:0-82, u1804:0-35, u1805:0-54, u1806:0-27, u1807:0-73 %%",
+        "DM: \"They do have faces, they make a lot of noise. If they're together, they seem to be chattering at each other sometimes. Maybe they're talking, but they certainly don't speak, they certainly don't speak. They're communicating. It must be through some sort of code of some kind.\"",
+        "",
+        "%% u1808:0-43, u1809:0-11, u1810:0-27 %%",
+        "DM: \"They come\"—and he points out into the ocean— \"From there, always from the same place.\"",
+        "",
+        "%% u1811:0-46 %%",
+        "Delwath: Is that the direction the jade is coming from?",
+        "",
+        "%% u1812:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1813:0-29 %%",
+        "Wellby: Do you know what's out there?",
+        "",
+        "%% u1814:0-3, u1815:0-39, u1816:0-20, u1817:0-41, u1818:0-30, u1819:0-10 %%",
+        "DM: \"No. We've never left land, and why would we?\" points at the waves. \"But there's got to be something out there unless these creatures live on the water.\"",
+        "",
+        "%% u1820:0-5, u1821:0-20, u1822:0-13, u1823:0-115, u1824:0-73 %%",
+        "Delwath: Yeah, I'm trying to think, I don't know. I don't think I have anything else to ask these. I mean, it seems like we should just head out towards them. Right? The dragon-like creatures, they get driven away by rocks. They don't seem—",
+        "",
+        "%% u1825:0-17 %%",
+        "DM: \"What is a dragon?\"",
+        "",
+        "%% u1826:0-37 %%",
+        "Delwath: A flying lizard, a big flying lizard.",
+        "",
+        "%% u1827:0-50, u1828:0-5 %%",
+        "DM: \"Oh, these aren't those. These are—these are small. Yeah.\"",
+        "",
+        "%% u1829:0-13 %%",
+        "Delwath: Dragon, like—",
+        "",
+        "%% u1830:0-50 %%",
+        "DM: Puffs up his chest. \"Not even usually as big as me.\"",
+        "",
+        "%% u1831:0-46 %%",
+        "Delwath: They? How many, how many of them come at once?",
+        "",
+        "%% u1832:0-9 %%",
+        "DM: One or 2.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah. You know, how trees communicate.",
+          "DM: Yes. So the—the tree—the tree— so this tree is—is Eldest, or Canopy is what the other awakened creatures of the jungle refer to this tree as—directs you to— so the the so the the monkeys that it's talking about are—are—are howler monkeys that live on the mangroves in the coast. And so it directs you. It's fairly easy, I assume you take Vindristjarna?",
+          "Delwath: Yeah, yeah, yeah, yeah.",
+          "DM: Okay. So it's—it's about, it's about 20 miles. So it's like a 2 h journey, maybe a little less than that—hour-and-a-half journey.",
+          "DM: You come—come to the mangroves. You can see. So there's a, like, you know— You're directed by Canopy to where to go. There's a— there's like a few little groups of of monkeys, and you and you can see it looks like, you know, these are— there's like little clumps of them that are sort of grooming each other, and like clearly tending to sort of ill monkeys that are—you know, there's a lot of them seem to be ill. But not—not all them, and and they seem like they're recovering, right, like they're—they're all in sort of little groups like feeding them little like sips of fruit juice, and things like that out of little leaf cups. And a lot of them seem to be a lot of the the ones that are tending to the ones that were once sick seem to be very thin and emaciated."
+        ],
+        "after": [
+          "Delwath: I don't see why we wouldn't just fly in the direction of the jade. I mean, I assume the jade is the same direction as these. I already asked that, right?",
+          "DM: Yeah, yeah.",
+          "Seeker: Yeah.",
+          "Delwath: I think we just go, like—like, what else is there to do?",
+          "Wellby: Think we go, yeah, move. Move on, right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i009"
+    },
+    {
+      "title": "Faldrak asks whether to enter the storm",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1872",
+        "endUid": "u1885"
+      },
+      "lines": [
+        "%% u1872:0-36, u1873:0-42, u1874:0-24 %%",
+        "DM: Faldrak kind of pauses for a minute, kind of comes out of the steering chamber. \"Boss?\" Looking at Seeker.",
+        "",
+        "%% u1875:0-23 %%",
+        "Seeker: Yeah, let's—let's hold.",
+        "",
+        "%% u1876:0-31 %%",
+        "DM: \"We're going through this thing?\"",
+        "",
+        "%% u1877:0-12, u1878:0-25, u1879:0-23 %%",
+        "Seeker: In the dark? Let's—let's go around it. Which way do you think—",
+        "",
+        "%% u1880:0-6 %%",
+        "Delwath: Maybe—",
+        "",
+        "%% u1881:0-12 %%",
+        "Seeker: We could go?",
+        "",
+        "%% u1882:0-31 %%",
+        "Delwath: Kind of tricky to go around it.",
+        "",
+        "%% u1883:0-46, u1884:0-20 %%",
+        "Seeker: We could go to port, starboard or straight up. See what's up there.",
+        "",
+        "%% u1885:0-5 %%",
+        "DM: Okay.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So just head out to sea on Vindristjarna? Yep.",
+          "Wellby: Sounds crazy when you say it like that, Tim. But yes.",
+          "DM: So you begin to travel over the Sea of Storms. It's—so, it's—it's strange. So again, there's not—there's not really that much wind. The weather, at least close to shore, is pretty calm, at least from the sky, but as you continue to go, the waves, you just see these crashing waves below you. It seems like every wave that you know everything—it's like—it's like a—a gale driving the waves, but not the air above the waves towards the shore.",
+          "DM: You begin to travel like following the line of where the monkeys pointed, and where Kenzo's sense tells them that the jade went. And you go about a 7, 8 h, about 80 miles off the coast, and you see— so pretty uneventful. The sun is beginning to sink low in the sky. The—it's—it's, you know, evening comes quickly at this low latitude—",
+          "DM: When suddenly you see shooting off out of the water in front of you like maybe 20, 30 feet—5,000 feet in front of you. Something like that. Just a giant storm, like a wall of clouds, actually a dome of clouds that seems to go up hundreds of feet into the air, and then just merge into this giant cloud bank. The sea below completely tossed and turned into a massive, stormy conflagration."
+        ],
+        "after": [
+          "DM: So you have maybe an hour of daylight left, so you can get 10 miles in some direction.",
+          "Delwath: I mean, what if we go up? How high up can we fly?",
+          "DM: Pretty high.",
+          "Seeker: Yeah, like—",
+          "Delwath: What if we go up to 10,000 feet?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i010"
+    },
+    {
+      "title": "The ladder’s gestures",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2211",
+        "endUid": "u2212"
+      },
+      "lines": [
+        "%% u2211:0-58, u2212:0-37 %%",
+        "DM: The ladder has always demonstrated its superiority just by visual gestures, and not by speaking.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh, that's a good idea, but I don't have a way to create an elemental.",
+          "Delwath: I don't either.",
+          "Seeker: So I have summon fey.",
+          "DM: You can animate things that fly also.",
+          "Seeker: That's true. But those things aren't very talk—you can't really talk. That's what I was thinking."
+        ],
+        "after": [
+          "Seeker: But—but the fey could talk, right?",
+          "DM: Yeah. But fey could talk.",
+          "Seeker: I do summon fey.",
+          "Wellby: If—if the wall of clouds breaks your control over the fey, though, like, is that bad? 3 years?",
+          "Delwath: So, do we have a type of fey we think you can summon which— it—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i011"
+    },
+    {
+      "title": "Milo volunteers to captain the passage",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2500",
+        "endUid": "u2660"
+      },
+      "lines": [
+        "%% u2500:0-13 %%",
+        "Delwath: What is Milo—",
+        "",
+        "%% u2501:0-11 %%",
+        "Seeker: Think this—",
+        "",
+        "%% u2502:0-10 %%",
+        "Delwath: Should do?",
+        "",
+        "%% u2503:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u2504:0-44 %%",
+        "DM: \"You have a boat. Let's just sail through it.\"",
+        "",
+        "%% u2505:0-36 %%",
+        "Wellby: I love this idea. We do have a boat.",
+        "",
+        "%% u2506:0-46 %%",
+        "DM: That's a hundred percent what Milo would say.",
+        "",
+        "%% u2507:0-45 %%",
+        "Delwath: Like Vindristjarna, or like our folding boat?",
+        "",
+        "%% u2508:0-55 %%",
+        "Wellby: We have a folding boat, we could pilot our way through.",
+        "",
+        "%% u2509:0-58 %%",
+        "Seeker: It's a huge wall of storm. We can't, like, just take a look—",
+        "",
+        "%% u2510:0-18 %%",
+        "Wellby: Oh, it's a matter—",
+        "",
+        "%% u2511:0-17 %%",
+        "Seeker: But through this—",
+        "",
+        "%% u2512:0-51 %%",
+        "Delwath: No, it's—I don't. I don't think dispel magic would—",
+        "",
+        "%% u2513:0-64, u2514:0-33, u2515:0-10 %%",
+        "Delwath: Dispel magic's not going to impact a folding boat. I don't think. Dispel Magic doesn't usually—it— it wasn't—",
+        "",
+        "%% u2516:0-51 %%",
+        "DM: Transformed. It's not—the magic of the boat is not—",
+        "",
+        "%% u2517:0-31 %%",
+        "Delwath: I think it would probably cope.",
+        "",
+        "%% u2518:0-86, u2519:0-21 %%",
+        "DM: Is it—is it folded up, right? Possibly, if you passed a folded boat in there, it would spring out like that.",
+        "",
+        "%% u2520:0-6 %%",
+        "Delwath: I mean—",
+        "",
+        "%% u2521:0-28, u2522:0-100 %%",
+        "Delwath: Will Milo captain the boat? Does he think we could survive on a boat going in there? Like, it's his idea. Would he actually do it?",
+        "",
+        "%% u2523:0-48, u2524:0-5 %%",
+        "DM: He looks over it—he sort of looks over at Tilly. Yeah.",
+        "",
+        "%% u2525:0-99 %%",
+        "Wellby: I'll—I'll unfold the folding boat on the deck of Vindristjarna, so he knows what he's getting into.",
+        "",
+        "%% u2526:0-37 %%",
+        "DM: The small version or the big version?",
+        "",
+        "%% u2527:0-47 %%",
+        "Wellby: I'll ask him which he thinks would work better.",
+        "",
+        "%% u2528:0-33 %%",
+        "Delwath: I think we need a bigger version.",
+        "",
+        "%% u2529:0-15 %%",
+        "Wellby: I assume, yeah.",
+        "",
+        "%% u2530:0-26, u2531:0-58, u2532:0-11, u2533:0-23 %%",
+        "((Boat mechanics and wave preparations))",
+        "",
+        "%% u2534:0-21 %%",
+        "DM: \"I'd set out to worse.\"",
+        "",
+        "%% u2535:0-41, u2536:0-14 %%",
+        "Seeker: Do halflings like to brag, to brag? Okay. This one does.",
+        "",
+        "%% u2537:0-12, u2538:0-20, u2539:0-43, u2540:0-8, u2541:0-12, u2542:0-10, u2543:0-55, u2544:0-4, u2545:0-44, u2546:0-16, u2547:0-47, u2548:0-19, u2549:0-12, u2550:0-16, u2551:0-67, u2552:0-24, u2553:0-33, u2554:0-26, u2555:0-94, u2556:0-15, u2557:0-11, u2558:0-57, u2559:0-35, u2560:0-69, u2561:0-69, u2562:0-70, u2563:0-42, u2564:0-49, u2565:0-54, u2566:0-51, u2567:0-6, u2568:0-41 %%",
+        "((Boat mechanics and wave preparations))",
+        "",
+        "%% u2569:0-30, u2570:0-33, u2571:0-43 %%",
+        "DM: Milo kind of—kind of looks at the 4 of you slightly, dubiously. \"How many of you have been on a boat before?\"",
+        "",
+        "%% u2572:0-32 %%",
+        "Delwath: We've all been on a boat before.",
+        "",
+        "%% u2573:0-12 %%",
+        "Seeker: Yeah, we've—",
+        "",
+        "%% u2574:0-60, u2575:0-4 %%",
+        "DM: \"I mean, how many of you properly know your way around a boat? Not—\"",
+        "",
+        "%% u2576:0-8 %%",
+        "Seeker: So much.",
+        "",
+        "%% u2577:0-45 %%",
+        "Wellby: The other 3 put their hands down. Yeah, yeah.",
+        "",
+        "%% u2578:0-15 %%",
+        "Delwath: Exactly. I can—",
+        "",
+        "%% u2579:0-37, u2580:0-17 %%",
+        "Seeker: I can follow most simple instructions related to boats.",
+        "",
+        "%% u2581:0-40, u2582:0-8, u2583:0-20, u2584:0-25 %%",
+        "DM: \"We might need a crew. Can any of you row? Do this?\" He looks at you all, shakes his head slightly.",
+        "",
+        "%% u2585:0-64 %%",
+        "Seeker: I had a little accident in the water a while ago. I'm not great.",
+        "",
+        "%% u2586:0-6 %%",
+        "DM: \"I saw.\"",
+        "",
+        "%% u2587:0-27, u2588:0-21, u2589:0-33 %%",
+        "Delwath: I mean, I still have gills. It lasts for an hour. I don't know how helpful that is.",
+        "",
+        "%% u2590:0-26, u2591:0-44, u2592:0-18, u2593:0-67, u2594:0-26 %%",
+        "DM: Kinda he kinda looks back, and he—he goes. He, like, stands on the on the on the deck of the ship, and he, like, kind of waves over the—cause you still have, like, 20 halfling crew from his—",
+        "",
+        "%% u2595:0-11 %%",
+        "Delwath: Yeah, yeah.",
+        "",
+        "%% u2596:0-18, u2597:0-51 %%",
+        "DM: Like Storm Dancer, and he starts to make this impassioned speech like—",
+        "",
+        "%% u2598:0-19, u2599:0-74 %%",
+        "DM: \"Look at this storm. Any reasonable person would tell you, 'No ship can sail through this storm.'\"",
+        "",
+        "%% u2600:0-46, u2601:0-24, u2602:0-81, u2603:0-55 %%",
+        "DM: \"But you've seen where I've taken Storm Dancer, and trust me when I say, if these fine folks who saved us from eternal doom want to get through this storm, by the First Ones! We will get them through this storm.\"",
+        "",
+        "%% u2604:0-129 %%",
+        "DM: And all the crew is like—and he kind of looks over, and he looks at Wellby. He's like, \"You—you can sail, right? I need a 1st mate.\"",
+        "",
+        "%% u2605:0-30 %%",
+        "Wellby: Oh, yeah. Yeah, piece of cake.",
+        "",
+        "%% u2606:0-62, u2607:0-7, u2608:0-9, u2609:0-22, u2610:0-36, u2611:0-57 %%",
+        "DM: \"Useless folks, try and stay out of the way as much as possible. Anybody good with weather or navigation?\" He—he, like, looks over it Wellby, like, \"You really should be the—the captain of this group, right?\"",
+        "",
+        "%% u2612:0-12 %%",
+        "Wellby: Comes to me.",
+        "",
+        "%% u2613:0-33 %%",
+        "Delwath: He's—he's a little weak in magic.",
+        "",
+        "%% u2614:0-4, u2615:0-24 %%",
+        "DM: Wow! He kind of looks around.",
+        "",
+        "%% u2616:0-27, u2617:0-45, u2618:0-41 %%",
+        "DM: \"I'm weak in magic too, but I saw you almost try and drown with magic. So, not always the solution to your problems.\"",
+        "",
+        "%% u2619:0-11 %%",
+        "Delwath: That's the—",
+        "",
+        "%% u2620:0-14 %%",
+        "Seeker: That's—that's—",
+        "",
+        "%% u2621:0-43 %%",
+        "Delwath: Why we asked if you would captain the boat.",
+        "",
+        "%% u2622:0-5, u2623:0-28 %%",
+        "DM: Okay. \"How are we going to do this?\"",
+        "",
+        "%% u2624:0-36, u2625:0-34 %%",
+        "DM: He sort of begins talking with like Wellby, and sort of making a plan.",
+        "",
+        "%% u2626:0-58, u2627:0-7, u2628:0-33, u2629:0-9, u2630:0-12, u2631:0-18, u2632:0-17, u2633:0-61, u2634:0-75, u2635:0-5, u2636:0-17, u2637:0-54, u2638:0-88, u2639:0-77, u2640:0-85, u2641:0-218, u2642:0-11, u2643:0-18 %%",
+        "((Boat mechanics and wave preparations))",
+        "",
+        "%% u2644:0-25, u2645:0-34 %%",
+        "DM: Milo looks over at Tilly, gives her a little hug and a kiss.",
+        "",
+        "%% u2646:0-49, u2647:0-66, u2648:0-31, u2649:0-24, u2650:0-13 %%",
+        "DM: \"Never let it be said, if this is our last journey that we weren't doing something nobody else thought could be done.\" And he looks over at everybody. \"You all know how to swim? Just in case.\"",
+        "",
+        "%% u2651:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u2652:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u2653:0-29, u2654:0-33, u2655:0-13 %%",
+        "DM: \"If anybody goes over in this, it's gonna be tough. So lifelines. You got rope?\"",
+        "",
+        "%% u2656:0-9, u2657:0-34 %%",
+        "Seeker: Oh, yeah. We're—we're getting roped in. Yes.",
+        "",
+        "%% u2658:0-90 %%",
+        "DM: \"We'll do our best to at least drag your unconscious corpse through the water if necessary.\"",
+        "",
+        "%% u2659:0-7 %%",
+        "Seeker: Thanks.",
+        "",
+        "%% u2660:0-35 %%",
+        "DM: \"Anything else we can do to prepare?\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: That was what earlier Arcana check was for.",
+          "Delwath: Right, right.",
+          "Seeker: Yeah. Oh, is there a cat? Yes.",
+          "Delwath: Does the cat know how to get through storms?",
+          "Seeker: Do we have any other clues about what this thing is like? Any knowledge of other situations?"
+        ],
+        "after": [
+          "Seeker: What are we gonna do when we get there? And—oh, man. He does go, yeah.",
+          "DM: Okay. The crew begins to— so we got the folding boat. Let's see. 25 feet long, 8 feet wide. 5 sets of oars, a mast, can hold 15 creatures. So there's—",
+          "DM: 6 of you with Tilly, Milo, and the 4 of you, and then 8 halflings to man the sails and the oars. So that's gonna be 14 total.",
+          "DM: The halflings are small. So it's not—it's not sitting heavy in the water. It's not particularly heavily loaded.",
+          "DM: Even—even, you know. So the—the storm sort of peaks up quickly, right? But like, even out here, far from— you know, 300 feet or so from the storm before the the oars are shipped and the sail is rigged, although— really, they're just going through the oars. The sail is way too—way too difficult to—to run here. It's still rocking like mad back and forth as you go in, and you run a line, and everybody gets—gets tied in, all 14 crew, tied down to a line, a safety line that runs down the center, and—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i012"
+    },
+    {
+      "title": "Milo and the crew row through the storm",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u2671",
+        "endUid": "u2810"
+      },
+      "lines": [
+        "%% u2671:0-44, u2672:0-8, u2673:0-11, u2674:0-30, u2675:0-28 %%",
+        "DM: 6 of you with Tilly, Milo, and the 4 of you, and then 8 halflings to man the sails and the oars. So that's gonna be 14 total.",
+        "",
+        "%% u2676:0-27, u2677:0-84 %%",
+        "DM: The halflings are small. So it's not—it's not sitting heavy in the water. It's not particularly heavily loaded.",
+        "",
+        "%% u2678:0-79, u2679:0-13, u2680:0-9, u2681:0-95, u2682:0-8, u2683:0-99, u2684:0-120, u2685:0-65 %%",
+        "DM: Even—even, you know. So the—the storm sort of peaks up quickly, right? But like, even out here, far from— you know, 300 feet or so from the storm before the the oars are shipped and the sail is rigged, although— really, they're just going through the oars. The sail is way too—way too difficult to—to run here. It's still rocking like mad back and forth as you go in, and you run a line, and everybody gets—gets tied in, all 14 crew, tied down to a line, a safety line that runs down the center, and—",
+        "",
+        "%% u2686:0-18, u2687:0-19, u2688:0-28, u2689:0-19, u2690:0-4 %%",
+        "DM: Milo's at the helm at the steering oar, putting Wellby in charge of directing the crew. And—",
+        "",
+        "%% u2691:0-22, u2692:0-8, u2693:0-44, u2694:0-51, u2695:0-12, u2696:0-21 %%",
+        "DM: You know, looks around, \"Anybody, can anybody? We need one more person to just watch the waves, pay attention, tell us when to go. Anybody help? Nature or Perception?\"",
+        "",
+        "%% u2697:0-41, u2698:0-40, u2699:0-55, u2700:0-30, u2701:0-35, u2702:0-35, u2703:0-7, u2704:0-51, u2705:0-28, u2706:0-38, u2707:0-5 %%",
+        "((Navigation checks and spell preparation))",
+        "",
+        "%% u2708:0-5, u2709:0-8, u2710:0-86 %%",
+        "Seeker: Yeah. Alright. Seeker's a little wobbly on his feet still, but it's like, \"Okay, I'll watch the waves.\"",
+        "",
+        "%% u2711:0-180, u2712:0-15, u2713:0-5, u2714:0-49, u2715:0-33, u2716:0-35, u2717:0-4 %%",
+        "((Navigation checks and spell preparation))",
+        "",
+        "%% u2718:0-18, u2719:0-32, u2720:0-52, u2721:0-30, u2722:0-36 %%",
+        "DM: Okay, so you begin, halflings leaning into the oars, 8 total. So using 4 of the 5 oars and—and 2 on each. The ship begins to move slowly, you come, come forward a little bit.",
+        "",
+        "%% u2723:0-14, u2724:0-20, u2725:0-87, u2726:0-40, u2727:0-19 %%",
+        "DM: Begin to enter the waves, the waves, the ship rocking violently back and forth, everybody grabbing onto the rope to hold on.((Entry check))",
+        "",
+        "%% u2728:0-29 %%",
+        "((Navigation checks and spell preparation))",
+        "",
+        "%% u2729:0-54, u2730:0-148, u2731:0-29, u2732:0-52, u2733:0-70 %%",
+        "DM: Okay. So Seeker sees one of these cyclones go back and in a—in a minute, yells, \"Go!\"((Entry check))as the water that Delwath is, you know, holding up drops to the—drops to the deck, and the ship begins to just be tossed every which way, here and there.",
+        "",
+        "%% u2734:0-14, u2735:0-30, u2736:0-28, u2737:0-28, u2738:0-49, u2739:0-39, u2740:0-13, u2741:0-23, u2742:0-12, u2743:0-3, u2744:0-9, u2745:0-55, u2746:0-16, u2747:0-5 %%",
+        "((Navigation checks and spell preparation))",
+        "",
+        "%% u2748:0-5, u2749:0-127, u2750:0-11 %%",
+        "DM: Milo is watching as Wellby—the halflings get the oars up to speed. The ship crashes through a wave, crashes through another wave. Let me see.",
+        "",
+        "%% u2751:0-22, u2752:0-33, u2753:0-37, u2754:0-49, u2755:0-69, u2756:0-13 %%",
+        "((Navigation checks and spell preparation))",
+        "",
+        "%% u2757:0-27, u2758:0-3, u2759:0-32, u2760:0-7, u2761:0-9, u2762:0-56, u2763:0-3, u2764:0-91, u2765:0-28, u2766:0-76, u2767:0-14 %%",
+        "DM: Wave crashes over the side, the— one of the oars cracks, and the—and the— let's see— and as a wave just washes over the side—side of the ship, but— keep keeping it going? Nobody's—nobody's knocked overboard. 2 of the 2 of the halflings are—are, like, washed to the side, holding onto their safety lines as the waves begin pounding against it more—more and more.",
+        "",
+        "%% u2768:0-40, u2769:0-3, u2770:0-22, u2771:0-27, u2772:0-3 %%",
+        "((Navigation checks and spell preparation))",
+        "",
+        "%% u2773:0-36, u2774:0-29, u2775:0-83, u2776:0-37, u2777:0-7, u2778:0-62 %%",
+        "DM: Wellby manages to quickly direct the—redirect the—the crew who are scattered from this wave that crashed over, the mast of the folding boat now cracked from the wave that splashed. Delwath—Delwath, casting a spell, still—still doesn't work. Nothing's happening.",
+        "",
+        "%% u2779:0-32, u2780:0-51, u2781:0-3, u2782:0-28, u2783:0-12, u2784:0-9, u2785:0-16, u2786:0-37, u2787:0-18, u2788:0-13, u2789:0-14, u2790:0-9, u2791:0-42, u2792:0-44, u2793:0-85 %%",
+        "((Navigation checks and spell preparation))",
+        "",
+        "%% u2794:0-17, u2795:0-43, u2796:0-29, u2797:0-6, u2798:0-44, u2799:0-46, u2800:0-2, u2801:0-40, u2802:0-22, u2803:0-8, u2804:0-16 %%",
+        "DM: Just—just enough. Another wave crashes over the side, and you see, like the the mast of the—of the folding boat washed away. 1, 2 halflings like dangling over the side as—as the last wave is—is crashing against the boat, when suddenly you break through into sunlight and calm waters.",
+        "",
+        "%% u2805:0-9, u2806:0-15 %%",
+        "Seeker: Sunlight! I haven't used—",
+        "",
+        "%% u2807:0-3, u2808:0-16 %%",
+        "DM: The— in front of you.",
+        "",
+        "%% u2809:0-16 %%",
+        "Delwath: Does magic work?",
+        "",
+        "%% u2810:0-12 %%",
+        "DM: Magic works.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: \"We'll do our best to at least drag your unconscious corpse through the water if necessary.\"",
+          "Seeker: Thanks.",
+          "DM: \"Anything else we can do to prepare?\"",
+          "Seeker: What are we gonna do when we get there? And—oh, man. He does go, yeah.",
+          "DM: Okay. The crew begins to— so we got the folding boat. Let's see. 25 feet long, 8 feet wide. 5 sets of oars, a mast, can hold 15 creatures. So there's—"
+        ],
+        "after": [
+          "Delwath: Good.",
+          "DM: You see in front of you an island.",
+          "Seeker: Oh, really?",
+          "DM: The— edge of the island, following a perfect circle in all directions. Black cliffs. And you're looking now— you're about 2 miles from the shore, you're looking— where did my map go?",
+          "DM: You're looking maybe 2 miles away from what seems to be like a sandy cove in a line of black obsidian cliffs to the left. You see what looks like a massive like 150 feet high statue of the Mother, one of the Mos Numena gods, to the right of this sandy—and these are—these are like, you're—you're looking. You're able to see an arc that's about 8 or 10 miles, or something like that, right, or 15 miles. Like, you can see a long arc of the island from here, and then it curves around the horizon."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i013"
+    },
+    {
+      "title": "The Mother and Warlord statues",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2822",
+        "endUid": "u2841"
+      },
+      "lines": [
+        "%% u2822:0-38, u2823:0-16, u2824:0-17, u2825:0-34, u2826:0-12, u2827:0-7, u2828:0-30, u2829:0-13, u2830:0-9, u2831:0-11, u2832:0-26, u2833:0-58, u2834:0-61, u2835:0-148 %%",
+        "DM: ((Coastal geography))You see what looks like a massive like 150 feet high statue of the Mother, one of the Mos Numena gods, to the right of this sandy—((Coastal geography))",
+        "",
+        "%% u2836:0-41, u2837:0-80, u2838:0-2, u2839:0-26, u2840:0-16, u2841:0-12 %%",
+        "DM: To the—to the left of the beach, probably, 3 or 4 miles from the beach, you see another massive 150 foot tall marble statue of another one of the—of the Mos Numena gods, the Warlord.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Magic works.",
+          "Delwath: Good.",
+          "DM: You see in front of you an island.",
+          "Seeker: Oh, really?",
+          "DM: The— edge of the island, following a perfect circle in all directions. Black cliffs. And you're looking now— you're about 2 miles from the shore, you're looking— where did my map go?"
+        ],
+        "after": [
+          "DM: You cannot—you can't see anything on the island itself very clearly from this perspective. The cliffs, except for where this beach is and the beach is big, it's—it's—it's miles across. It's like this crumbled sort of yellow golden sand around these sort of crystalline cliffs around the edge.",
+          "DM: Off—off, near where the statue of the of the Warlord is, it looks like there's—you—you can see up. And this is like, maybe 12, 15 miles from where you are, you can see what look like strange, twisted obsidian structures.",
+          "Seeker: [garbled].",
+          "DM: Sort like—sort of ruined, right? But they look like they might have once been towers that sort of spiraled up, but they're cracked, and now they're sort of jagged edges. But they're—they're tall. They're sticking above the—high enough above the horizon that you can see.",
+          "DM: And as you look forward, you can see the coast, and you can't see, like the immediate coastline above the cliffs, but as you look into the distance, the—the island slopes up in a gentle slope to a peak that's probably 2 or 3,000 feet up—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i014"
+    },
+    {
+      "title": "Milo offers a landing and a safe return",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2984",
+        "endUid": "u3067"
+      },
+      "lines": [
+        "%% u2984:0-23, u2985:0-13 %%",
+        "DM: Milo looks over at you. \"Where to now?\"",
+        "",
+        "%% u2986:0-28, u2987:0-13, u2988:0-6, u2989:0-32, u2990:0-6, u2991:0-46, u2992:0-10, u2993:0-20, u2994:0-10, u2995:0-52, u2996:0-48, u2997:0-35, u2998:0-47, u2999:0-17, u3000:0-7 %%",
+        "((Entry ideas and table banter))",
+        "",
+        "%% u3001:0-22, u3002:0-30, u3003:0-6, u3004:0-15 %%",
+        "DM: Milo looks over Tilly. \"I think if it's okay with you, we'll guard the ship.",
+        "",
+        "%% u3005:0-48, u3006:0-30, u3007:0-85 %%",
+        "DM: \"In my experience, the places that you want to go are often incredibly dangerous. Sailing through that was enough of an adventure for me, if it's all the same to you.\"",
+        "",
+        "%% u3008:0-15 %%",
+        "Seeker: Yes, of course.",
+        "",
+        "%% u3009:0-5, u3010:0-7 %%",
+        "Delwath: Yeah. Course.",
+        "",
+        "%% u3011:0-52 %%",
+        "Wellby: We can also land, and you can just pull the ship up.",
+        "",
+        "%% u3012:0-65, u3013:0-15 %%",
+        "Delwath: I think Milo might be more comfortable with ocean between him and all that there.",
+        "",
+        "%% u3014:0-41 %%",
+        "DM: \"Have no problem landing you on the shore.\"",
+        "",
+        "%% u3015:0-8 %%",
+        "Wellby: Alright!",
+        "",
+        "%% u3016:0-65, u3017:0-17 %%",
+        "DM: \"This—this boat might need some repairs. I mean, we lost the mast. He is that still—\"",
+        "",
+        "%% u3018:0-12, u3019:0-31 %%",
+        "Seeker: Did actually— did it actually sever the mast?",
+        "",
+        "%% u3020:0-142, u3021:0-10 %%",
+        "DM: I mean, it broke, and some—I mean, somebody must have had to cut it off, because, like, a broken—it would have sunk you instantly if you didn't detach it.",
+        "",
+        "%% u3022:0-6, u3023:0-57, u3024:0-16, u3025:0-4, u3026:0-2 %%",
+        "((Entry ideas and table banter))",
+        "",
+        "%% u3027:0-50, u3028:0-43, u3029:0-26, u3030:0-37, u3031:0-8 %%",
+        "DM: \"Unless you want to try and sail around this thing, I guess I'll land you on the beach and then wait a safe distance away. Guess you have no way to get back but us, huh?\"",
+        "",
+        "%% u3032:0-15 %%",
+        "Wellby: With customers.",
+        "",
+        "%% u3033:0-8 %%",
+        "Seeker: Own way.",
+        "",
+        "%% u3034:0-31, u3035:0-80 %%",
+        "Wellby: If it works in here. Was that a line of magic breaking, or is there, like, an anti-magic field in this whole area?",
+        "",
+        "%% u3036:0-103 %%",
+        "DM: No, Shape—as soon as you crossed into the calm water, Delwath's Shape Water spell started working again.",
+        "",
+        "%% u3037:0-57, u3038:0-24 %%",
+        "Delwath: But it's unclear if the Rainbow Bridge can penetrate the anti magic field or not.",
+        "",
+        "%% u3039:0-8 %%",
+        "DM: Correct.",
+        "",
+        "%% u3040:0-6, u3041:0-8, u3042:0-5 %%",
+        "Seeker: Think— well, we— yeah.",
+        "",
+        "%% u3043:0-20 %%",
+        "Delwath: But it might be too—",
+        "",
+        "%% u3044:0-15 %%",
+        "DM: Rainbow bridge.",
+        "",
+        "%% u3045:0-10 %%",
+        "Seeker: That's it.",
+        "",
+        "%% u3046:0-76, u3047:0-4 %%",
+        "DM: Given that clairvoyance didn't work, it's unlikely that teleport would work. Huh!",
+        "",
+        "%% u3048:0-9, u3049:0-58 %%",
+        "Seeker: And yeah, there's no way to test Rainbow Bridge without using it up.",
+        "",
+        "%% u3050:0-8 %%",
+        "DM: Correct.",
+        "",
+        "%% u3051:0-8 %%",
+        "Delwath: Correct.",
+        "",
+        "%% u3052:0-41 %%",
+        "Seeker: I think we should assume it's gonna work.",
+        "",
+        "%% u3053:0-31, u3054:0-115, u3055:0-27, u3056:0-75, u3057:0-24, u3058:0-9, u3059:0-21, u3060:0-69, u3061:0-9 %%",
+        "((Entry ideas and table banter))",
+        "",
+        "%% u3062:0-2, u3063:0-5, u3064:0-42 %%",
+        "DM: So, yeah, you ask Milo to drop you off on the beach.",
+        "",
+        "%% u3065:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u3066:0-8, u3067:0-43 %%",
+        "DM: He does. And that's where we'll pick up in Colorado.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Terrible.",
+          "DM: Definitely, like, something. Only Wellby is able to see this as well. Like most—normally, without supernatural perception, you wouldn't be able to resolve this on the horizon, but it's definitely like a little fuzz on the horizon that looks like things kind of flying around, and that.",
+          "Seeker: And was it—",
+          "DM: So—",
+          "Delwath: Yep."
+        ],
+        "after": [
+          "Seeker: Amazing.",
+          "Delwath: Alright!",
+          "Wellby: Right.",
+          "DM: Okay. So, see, I'm gonna—I'm gonna hang out on the zoom in case Kong finishes and wants to get an update before he goes to bed.",
+          "Delwath: I'm gonna go to bed, cause I'm—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i015"
+    }
+  ]
+}
