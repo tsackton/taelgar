@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-time-markers.json",
+    "sha256": "95592d9c778cb65898a1f4aee33ad134c6baca1a59b9ff1e492f9665013087b8"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-transcript.md",
+    "sha256": "71308c0fa2f8022d0c36d979c3cbf0fc43116b6884a0c240870127013c3de76c"
+  },
+  "dateAssessment": "The working expedition date is January 8, DR 1749: January 8 and the opening midmorning are spoken; the year comes from YAML. The retrospective Tollen interval is roughly two and a half days with open dates. The YAML January 3–8 span remains **compatible**, with five expected date boundaries and an incomplete supported total. The transcript does not measure the full journey from Tollen, so no missing days have been inserted. Flight estimates do not independently establish the actual elapsed crossing or a later watch. Subsequent elapsed activities retain open watches; the ten- and twenty-minute scouting reports are nested inside the hour total, and Seeker’s chipping overlaps Wellby’s solo exploration.",
+  "watches": [
+    {
+      "day": "Before the January 8 flight",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Roughly two and a half days of Tollen business are resolved retrospectively; exact endpoints remain open.",
+      "markers": [
+        "t02"
+      ],
+      "scope": "Tollen"
+    },
+    {
+      "day": "Night preceding January 8",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Coastal Cymea and the river valleys were crossed mostly at night; departure and completion watches remain open.",
+      "markers": [
+        "t04"
+      ],
+      "scope": "Flight"
+    },
+    {
+      "day": "January 8, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Opening explicitly says January 8, midmorning; the river view resumes that morning after the recollections.",
+      "markers": [
+        "t01",
+        "t03"
+      ],
+      "startDate": "1749-01-08",
+      "endDate": "1749-01-08"
+    },
+    {
+      "day": "January 8, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Thirty seconds pass as the messenger approaches; intervening flight is not measured.",
+      "markers": [
+        "t05"
+      ],
+      "scope": "Skyship approach",
+      "startDate": "1749-01-08",
+      "endDate": "1749-01-08"
+    },
+    {
+      "day": "January 8, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Bat scouting reaches roughly one hour; the ten- and twenty-minute reports are contained within it.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08"
+      ],
+      "scope": "Entrance cavern",
+      "startDate": "1749-01-08",
+      "endDate": "1749-01-08"
+    },
+    {
+      "day": "January 8, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The moth returns after fifteen minutes; the subsequent boat passage takes about ten minutes to the waterfall.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "scope": "Underground river",
+      "startDate": "1749-01-08",
+      "endDate": "1749-01-08"
+    },
+    {
+      "day": "January 8, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Wellby scouts for ten, five, then two minutes; Seeker chips for ten to fifteen minutes during the outing.",
+      "markers": [
+        "t11",
+        "t12",
+        "t13",
+        "t14"
+      ],
+      "scope": "Parallel exploration",
+      "startDate": "1749-01-08",
+      "endDate": "1749-01-08"
+    },
+    {
+      "day": "January 8, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "About five minutes of freeze-and-thaw work have passed when the slurry starts repairing the door.",
+      "markers": [
+        "t15"
+      ],
+      "scope": "Stone door",
+      "startDate": "1749-01-08",
+      "endDate": "1749-01-08"
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-085",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-session.yaml",
+    "sessionYamlSha256": "5c5e8e092b40174e27ac73ac7a29d5756eb7477d8e1a4ea23dc654329d7fd4ea",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-transcript.md",
+    "transcriptSha256": "71308c0fa2f8022d0c36d979c3cbf0fc43116b6884a0c240870127013c3de76c",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-segments.json",
+      "sha256": "dedcb7a2879c485803deec77fc980d593c7820fccc77df27ddd4c8029be7d4b4",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s008",
+      "encounter": "Water creatures in the waterfall lake",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Surprised and unable to act on his first initiative turn.",
+              "evidence": [
+                {
+                  "startUid": "u1061",
+                  "endUid": "u1062"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Warns the others about creatures between them and shore, climbs onto the suspended Immovable Rod, and shoots a manta-ray creature. The attack’s roll and damage are not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1063",
+                  "endUid": "u1075"
+                }
+              ]
+            },
+            {
+              "actor": "Manta-ray creature beside Kenzo",
+              "kind": "turn",
+              "summary": "Flies into the group and releases blistering steam requiring Constitution saves: Seeker and Delwath each take 9 damage; Kenzo and Faldrak each take 18 and are blinded. Kenzo’s blindness lasts until the end of his next turn. It then makes two tail attacks on Kenzo, missing once and hitting for 7 lightning damage, pushing him 10 feet into the water.",
+              "evidence": [
+                {
+                  "startUid": "u1077",
+                  "endUid": "u1095"
+                },
+                {
+                  "startUid": "u1105",
+                  "endUid": "u1108"
+                },
+                {
+                  "startUid": "u1130",
+                  "endUid": "u1132"
+                }
+              ]
+            },
+            {
+              "actor": "Manta-ray creature beside Delwath",
+              "kind": "turn",
+              "summary": "Makes two tail attacks on Delwath without releasing steam: 18 misses, then a natural 20 deals 14 lightning damage and pushes him into the water.",
+              "evidence": [
+                {
+                  "startUid": "u1097",
+                  "endUid": "u1104"
+                }
+              ]
+            },
+            {
+              "actor": "Water elemental",
+              "kind": "turn",
+              "summary": "Swims into Seeker’s space and engulfs him after a failed Strength save, dealing 13 bludgeoning damage. Seeker is grappled, restrained and unable to breathe inside it.",
+              "evidence": [
+                {
+                  "startUid": "u1110",
+                  "endUid": "u1121"
+                }
+              ]
+            },
+            {
+              "actor": "Wave sparks",
+              "kind": "turn",
+              "summary": "Five sparks form; one dashes while the others try to push the treading Faldrak underwater. Their attacks miss.",
+              "evidence": [
+                {
+                  "startUid": "u1063",
+                  "endUid": "u1070"
+                },
+                {
+                  "startUid": "u1122",
+                  "endUid": "u1128"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Loses his first turn to surprise; the DM later explains this when Delwath asks why he was skipped.",
+              "evidence": [
+                {
+                  "startUid": "u1185",
+                  "endUid": "u1207"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Surprised; no first-round action is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u0983",
+                  "endUid": "u0986"
+                },
+                {
+                  "startUid": "u1190",
+                  "endUid": "u1207"
+                }
+              ]
+            },
+            {
+              "actor": "Faldrak",
+              "kind": "turn",
+              "summary": "Surprised and temporarily blinded; he has not yet acted when the second round reaches Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u0983",
+                  "endUid": "u0986"
+                },
+                {
+                  "startUid": "u1088",
+                  "endUid": "u1088"
+                },
+                {
+                  "startUid": "u1284",
+                  "endUid": "u1285"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Puts his Cloak of the Manta Ray into use and moves to the water elemental. Attacks at disadvantage while blind: two staff hits deal 10 and 13 damage; an unarmed attack misses on 12. Soul Sight cannot be used without seeing the target. His blindness ends with the turn.",
+              "evidence": [
+                {
+                  "startUid": "u1130",
+                  "endUid": "u1166"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Flies from the rod to shore and shoots the line of sparks, hitting for 26 total damage. The arrow destroys two sparks but fails to penetrate enough to destroy the third.",
+              "evidence": [
+                {
+                  "startUid": "u1170",
+                  "endUid": "u1188"
+                }
+              ]
+            },
+            {
+              "actor": "Manta-ray creature beside Delwath",
+              "kind": "turn",
+              "summary": "Moves and strikes twice with its watery wings, hitting on 20 and 24 for 15 total damage. The target is knocked prone or briefly dunked, with the DM questioning how prone applies to someone already in the water.",
+              "evidence": [
+                {
+                  "startUid": "u1190",
+                  "endUid": "u1208"
+                }
+              ],
+              "note": "Delwath is the likely target from the continuing ray positions and the next ray’s explicit switch to Kenzo; this turn itself addresses an unlabeled “you”."
+            },
+            {
+              "actor": "Manta-ray creature beside Kenzo",
+              "kind": "turn",
+              "summary": "Moves toward Kenzo and attacks twice. Proposed advantage is withdrawn because his blindness has ended; 20 hits and 14 misses, dealing 6 bludgeoning damage. One hit does not knock him underwater.",
+              "evidence": [
+                {
+                  "startUid": "u1209",
+                  "endUid": "u1213"
+                }
+              ]
+            },
+            {
+              "actor": "Water elemental",
+              "kind": "turn",
+              "summary": "Crushes the engulfed Seeker for 12 bludgeoning damage and dives to 40 feet below the surface, the accepted correction from 30, while dragging him at half speed.",
+              "evidence": [
+                {
+                  "startUid": "u1214",
+                  "endUid": "u1221"
+                }
+              ]
+            },
+            {
+              "actor": "Wave sparks",
+              "kind": "turn",
+              "summary": "The three remaining sparks again attempt to drag Faldrak under; the attack includes a natural 1 and fails.",
+              "evidence": [
+                {
+                  "startUid": "u1223",
+                  "endUid": "u1225"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Banishment at a ray and the water elemental at about 60 feet. The ray succeeds on its Charisma save with a natural 19; the elemental fails with 7 and vanishes, releasing Seeker 40 feet underwater.",
+              "evidence": [
+                {
+                  "startUid": "u1234",
+                  "endUid": "u1245"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Dimension Door from underwater to shore. His initial narration of animating Ladder to fly out is rejected because it cannot swim; the slower swimming alternative is replaced by the teleport.",
+              "evidence": [
+                {
+                  "startUid": "u1250",
+                  "endUid": "u1287"
+                }
+              ]
+            },
+            {
+              "actor": "Faldrak",
+              "kind": "turn",
+              "summary": "Uses a glittering beard bead to teleport from the water. The initial boat destination is corrected to land, where he steps ashore and fires a bolt from his rune-lit cane, destroying one spark.",
+              "evidence": [
+                {
+                  "startUid": "u1288",
+                  "endUid": "u1307"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the ray beside him: staff hits on 26 and 16 deal 7 and 8 damage; the first unarmed attack misses on 13; spending ki for another Flurry of Blows attack produces a natural 20 for 14 damage. The ray remains active.",
+              "evidence": [
+                {
+                  "startUid": "u1309",
+                  "endUid": "u1325"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes Steady Aim and critically shoots the injured ray beside Kenzo. The initial damage is insufficient, but the DM corrects the missing critical dice by having him roll another 7d6; the corrected shot destroys the ray.",
+              "evidence": [
+                {
+                  "startUid": "u1326",
+                  "endUid": "u1336"
+                }
+              ]
+            },
+            {
+              "actor": "Manta-ray creature beside Delwath",
+              "kind": "turn",
+              "summary": "Makes two bludgeoning wing attacks on Delwath: 26 hits and a natural 1 misses. Damage is first stated as 9, then corrected to 7. Delwath fails his concentration check despite advantage, ending Banishment; the water elemental returns at its submerged disappearance point, described here as 45 feet down.",
+              "evidence": [
+                {
+                  "startUid": "u1337",
+                  "endUid": "u1356"
+                }
+              ],
+              "note": "The earlier accepted dive depth was 40 feet; the later return narration says 45. Both descriptions refer to the same disappearance point, without a separate movement."
+            },
+            {
+              "actor": "Water elemental",
+              "kind": "turn",
+              "summary": "Fails to recharge Whelm, swims up underneath Kenzo, and makes two slam attacks. Both miss his AC 18.",
+              "evidence": [
+                {
+                  "startUid": "u1358",
+                  "endUid": "u1366"
+                }
+              ]
+            },
+            {
+              "actor": "Wave sparks",
+              "kind": "turn",
+              "summary": "The two remaining sparks fly toward Kenzo and make a swarm attack to push him underwater. The 9 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1362",
+                  "endUid": "u1366"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Climbs from the water onto the boat and strikes the ray in front of him twice with his sword. Both attacks hit for a final stated total of 30 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1367",
+                  "endUid": "u1381"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Psychic Lance at the water elemental. It fails the Intelligence save with −1, takes 41 damage, and is incapacitated until the end of Seeker’s next turn. The proposed advantage on attacks is withdrawn: incapacitation prevents actions and reactions but does not itself grant advantage.",
+              "evidence": [
+                {
+                  "startUid": "u1382",
+                  "endUid": "u1402"
+                }
+              ]
+            },
+            {
+              "actor": "Faldrak",
+              "kind": "turn",
+              "summary": "Blasts the incapacitated water elemental with his fire cane for 23 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1403",
+                  "endUid": "u1411"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits the water elemental with staff attacks for 14 and 12 damage. His unarmed attack misses on 11; spending another ki yields a hit on 19 for 7 damage, and the final punch dissipates the elemental.",
+              "evidence": [
+                {
+                  "startUid": "u1412",
+                  "endUid": "u1429"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes Steady Aim and shoots the remaining ray, hitting on 27 for 34 damage. It survives.",
+              "evidence": [
+                {
+                  "startUid": "u1430",
+                  "endUid": "u1444"
+                }
+              ]
+            },
+            {
+              "actor": "Manta-ray creature beside Delwath",
+              "kind": "turn",
+              "summary": "Batters Delwath twice: 18 misses and 21 hits for 5 damage. Because only one attack connects, he is neither knocked prone nor pushed.",
+              "evidence": [
+                {
+                  "startUid": "u1434",
+                  "endUid": "u1444"
+                }
+              ]
+            },
+            {
+              "actor": "Wave sparks",
+              "kind": "turn",
+              "summary": "The two remaining sparks attempt to drag Kenzo underwater again; their 14 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1434",
+                  "endUid": "u1444"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Kills the remaining ray with a sword hit for 13 damage, then moves into the water to attack the sparks. Without a swim speed he attacks at disadvantage and misses with a natural 1.",
+              "evidence": [
+                {
+                  "startUid": "u1445",
+                  "endUid": "u1456"
+                }
+              ]
+            },
+            {
+              "actor": "Faldrak, Kenzo and Wellby",
+              "kind": "event",
+              "summary": "The DM compresses the remaining cleanup: together they quickly destroy the two sparks. The party gets back to the boat and brings it to shore.",
+              "evidence": [
+                {
+                  "startUid": "u1468",
+                  "endUid": "u1471"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both manta-ray creatures, the water elemental and the five wave sparks are defeated. All companions survive and regroup with the boat on shore; Delwath and Faldrak are injured.",
+        "evidence": [
+          {
+            "startUid": "u1460",
+            "endUid": "u1471"
+          }
+        ]
+      }
+    }
+  ]
+}
