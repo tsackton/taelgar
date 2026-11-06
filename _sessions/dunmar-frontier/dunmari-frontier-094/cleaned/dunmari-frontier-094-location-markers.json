@@ -1,0 +1,923 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-094",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-session.yaml",
+    "sessionYamlSha256": "13cac4f40521099391f2c00c2a66d194a0ff446a5930956795a5d600bf147105",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-transcript.md",
+    "transcriptSha256": "8b1daff6131efc1e6baa2b372087244436187a42e7b98138be46e9ce3b818a6e"
+  },
+  "places": {
+    "p01": {
+      "label": "Forest camp west of Zvervinka",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: Okay, so we begin tonight in a cold, muddy camp on the River Ket. The 5 of you sitting around a warming fire in the forest. From the edge of the woods, where the river curves to the east you can see the lights of Zvervinka a few miles downstream. But here the forest is dense and dark, and the only light is the flicker of your campsite."
+        },
+        {
+          "startUid": "u0282",
+          "endUid": "u0284",
+          "quote": "where your camp is you know, 3 miles west of the city"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "on_bank_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0007",
+              "quote": "camp on the River Ket"
+            }
+          ]
+        },
+        {
+          "relation": "west_of",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0282",
+              "endUid": "u0284",
+              "quote": "3 miles west of the city"
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "River Ket",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "River Ket"
+        },
+        {
+          "startUid": "u0261",
+          "endUid": "u0263",
+          "quote": "Ket River valley"
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Rivers/Ket.md"
+    },
+    "p03": {
+      "label": "Zvervinka",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0023",
+          "quote": "DM: So Trade City. Zvervinka, the Trade city where the monster part market is."
+        },
+        {
+          "startUid": "u0282",
+          "endUid": "u0284",
+          "quote": "DM: The other thing you learn is that—so, the market, the the the city, you get a basic overview of the city from from tales and traders who have passed by. So it's it is really like the edge of of Ursk, like as you can see from where your camp is you know, 3 miles west of the city, you're just in dense forest."
+        },
+        {
+          "startUid": "u0920",
+          "endUid": "u0925",
+          "quote": "DM: So as you enter again, it's still pretty quiet. It's like a cold, dreary morning. There's not a lot of of people about yet. There's like the main thoroughfare that leads—that's a wide thoroughfare that leads up to this like up the hill, like gently sloping up to this watcher tower. Watcher's Spire, which is this huge towering building with like—It's not just a single tower. It's like almost like a cathedral. Like many spires rising up kinda like—not exactly like this thing in the in the image, but kinda like that."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Zvervinka.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u0282",
+              "endUid": "u0284",
+              "quote": "it is really like the edge of of Ursk"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Vindristjarna",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0011",
+          "quote": "DM: You've been on foot for the past day and a half, trekking through the snow and the mud after leaving Vindristjarna, now hopefully safe in Faldrak's hands. And it's been a while—4 and a half months or more, since you were forced to rough it in the cold, and without your, you know, fancy beds, and whatever you have on the ship."
+        },
+        {
+          "startUid": "u0629",
+          "endUid": "u0638",
+          "quote": "Seeker: Perfect. [garbled] for Faldrak, I think. Listen, just just play it safe. Remember that what you're responsible for here is bigger than any of us. It's a ancient, unique artifact of the world of giants. It is not ours. We are just temporarily stewards of this beautiful ship. Also I'll be making detailed sketches of the entire exterior, so if there's so much as a nick, or a scratch, you'll be accountable. Got it?"
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true,
+      "note": "The aboard-ship farewell is played retrospectively; the five PCs are already on foot in the opening frame."
+    },
+    "p05": {
+      "label": "Vargaldi camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0121",
+          "endUid": "u0140",
+          "quote": "DM: So as you reflect and begin to discuss your plan for the days ahead, you think back: It's been nearly a month since you killed the White Dragon and met the Vargaldi. The 2 ish weeks in camp wasn't quite enough time to become fully fluent in Urskan for anybody except maybe Delwath, I mean, Wellby who picks up languages fast. But you certainly picked up enough to get by, and you can—You can, you know, communicate in halting fashion, for sure.\n\nDM: You've also learned a number of tidbits and stories and tales about Ursk and Zvervinka, Zvervinka—that may serve you in the coming days.\n\nDM: The day after you killed the White Dragon that morning was the one year anniversary of your meeting. And a few days later, the festival of Rebirth, the second such festival in the Dunmari calendar that you celebrated together.\n\nDM: And over the days as you spent most of your time practicing your languages, trying to pick up the accents and grammars of of Urskan, you know people wandered into camp with the dragon dead. There was more, you know, commerce and traffic coming in in and out of the camp that you were in. And you heard stories. You heard stories about the that—no, yeah—so-called, the, yeah cultural and linguistic kin of the Vargaldi who live under the rule of the Ursk wizards."
+        }
+      ],
+      "note": "The earlier language-study camp is distinct from the opening forest camp near Zvervinka; its exact position is not established here."
+    },
+    "p06": {
+      "label": "Bridge across the Ket",
+      "kind": "bridge",
+      "evidence": [
+        {
+          "startUid": "u0308",
+          "endUid": "u0312",
+          "quote": "DM: Trade is welcomed as you as you approach. There's there is a stone bridge, sturdy stone, has been there for a long time, as far as one can tell—over the bridge, and that's the main entrance to the city. There's not—There's really only one gate in or out of the city."
+        },
+        {
+          "startUid": "u0717",
+          "endUid": "u0736",
+          "quote": "DM: So in your disguises—not really disguise it as your cover stories, two Vargaldi, 3 heroes of the monster hunting world. You approach the the bridge.\n\nDM: It's early enough in the morning. Was not a lot of traffic. And it's let's say so. Today is April thirteenth. So it's a Monday. A year ago today you were fighting gnolls in Raven's Hold.\n\nDM: But there's not a ton of traffic. It's a pretty slow morning, the river is—you can see in a few places that the ice is beginning to thin, and it looks treacherous to walk across as you approach the bridge.\n\nDM: There's 2 guards standing near the—there's like a gatehouse on the on the far side of the of the Ket, where the just, you know, there's like there's not even fields, right? Like, there's they don't really grow anything in the city. At least not on the on this bank of the Ket, but it's it's a bit swampy and marshy, and so the road—there's no road that the there's just the bridge and the gatehouse, and then just kind of a muddy field leading to the beginning of the forest.\n\nDM: And as you sort of emerge from the forest there's currently nobody else on the bridge, nobody else. No, not much other traffic, and the 2 somewhat bored looking gate guards both, all broad shouldered men with wearing like heavy furs, cloaks pulled up against the morning chill, the cold, cloudy sort of misty day, with almost the, you know. Like, just just below freezing. So the mist is kind of almost a freezing rain. It's a bit uncomfortable to trudge through."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "crosses",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0726",
+              "endUid": "u0732",
+              "quote": "on the far side of the of the Ket"
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0308",
+              "endUid": "u0312",
+              "quote": "the main entrance to the city"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "City gatehouse",
+      "kind": "gatehouse",
+      "evidence": [
+        {
+          "startUid": "u0726",
+          "endUid": "u0740",
+          "quote": "DM: There's 2 guards standing near the—there's like a gatehouse on the on the far side of the of the Ket, where the just, you know, there's like there's not even fields, right? Like, there's they don't really grow anything in the city. At least not on the on this bank of the Ket, but it's it's a bit swampy and marshy, and so the road—there's no road that the there's just the bridge and the gatehouse, and then just kind of a muddy field leading to the beginning of the forest.\n\nDM: And as you sort of emerge from the forest there's currently nobody else on the bridge, nobody else. No, not much other traffic, and the 2 somewhat bored looking gate guards both, all broad shouldered men with wearing like heavy furs, cloaks pulled up against the morning chill, the cold, cloudy sort of misty day, with almost the, you know. Like, just just below freezing. So the mist is kind of almost a freezing rain. It's a bit uncomfortable to trudge through.\n\nDM: So you approach the 2 guards, one of whom looks up and says in Urskan, and something that seems like, “Business in town?” Kind of does a double take as he looks across at the Elf and the 2 dwarves, but it addresses the question to Kenzo and Wellby."
+        },
+        {
+          "startUid": "u0751",
+          "endUid": "u0759",
+          "quote": "DM: They have a quick conversation in Urskan which Kenzo understands because Kenzo understands all languages, and he's like, “Wow! They seem—Those folks seem impressive. Been a long time since we've seen dwarves in town, and is that an elf? At least, you know, before I've I've not heard of an elf in town. Anyway, they say they have monster parts. Get the scales.” And he trudges to the back to like, because this is like a gatehouse. Right? So it's like a—\n\nDM: Motions you to come inside. Says in Urskan kind of rattling off: “Take out your goods. Let us see what you've got. Yeah. My partner's gone to get the scales and papers.”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0726",
+              "endUid": "u0740",
+              "quote": "DM: There's 2 guards standing near the—there's like a gatehouse on the on the far side of the of the Ket, where the just, you know, there's like there's not even fields, right? Like, there's they don't really grow anything in the city. At least not on the on this bank of the Ket, but it's it's a bit swampy and marshy, and so the road—there's no road that the there's just the bridge and the gatehouse, and then just kind of a muddy field leading to the beginning of the forest.\n\nDM: And as you sort of emerge from the forest there's currently nobody else on the bridge, nobody else. No, not much other traffic, and the 2 somewhat bored looking gate guards both, all broad shouldered men with wearing like heavy furs, cloaks pulled up against the morning chill, the cold, cloudy sort of misty day, with almost the, you know. Like, just just below freezing. So the mist is kind of almost a freezing rain. It's a bit uncomfortable to trudge through.\n\nDM: So you approach the 2 guards, one of whom looks up and says in Urskan, and something that seems like, “Business in town?” Kind of does a double take as he looks across at the Elf and the 2 dwarves, but it addresses the question to Kenzo and Wellby."
+            },
+            {
+              "startUid": "u0918",
+              "endUid": "u0925",
+              "quote": "Unknown: We head in.\n\nDM: Enjoy Zvervinka.\n\nDM: So as you enter again, it's still pretty quiet. It's like a cold, dreary morning. There's not a lot of of people about yet. There's like the main thoroughfare that leads—that's a wide thoroughfare that leads up to this like up the hill, like gently sloping up to this watcher tower. Watcher's Spire, which is this huge towering building with like—It's not just a single tower. It's like almost like a cathedral. Like many spires rising up kinda like—not exactly like this thing in the in the image, but kinda like that."
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0726",
+              "endUid": "u0732",
+              "quote": "DM: There's 2 guards standing near the—there's like a gatehouse on the on the far side of the of the Ket, where the just, you know, there's like there's not even fields, right? Like, there's they don't really grow anything in the city. At least not on the on this bank of the Ket, but it's it's a bit swampy and marshy, and so the road—there's no road that the there's just the bridge and the gatehouse, and then just kind of a muddy field leading to the beginning of the forest."
+            }
+          ]
+        }
+      ],
+      "note": "The entrance gatehouse is part of the Zvervinka approach; this wording does not resolve its precise position relative to the city walls."
+    },
+    "p08": {
+      "label": "Market plaza",
+      "kind": "market",
+      "evidence": [
+        {
+          "startUid": "u0300",
+          "endUid": "u0307",
+          "quote": "DM: There is also a the huge market on a—in a giant open plaza, buzzing with activity. It is busy every morning, but most promising for the sale of you know, esoteric goods, monster parts, things like that on what are the days? On Wednesdays and Saturdays. So you'll you'll arrive on on a Monday, so you'll have—you have a day or 2 before the market opens."
+        },
+        {
+          "startUid": "u0982",
+          "endUid": "u0992",
+          "quote": "DM: So as you walk through the street, past the market, Romans—the the Silver Wolf inn that that Roman runs is is just beyond the market.\n\nDM: The higher the further you go away from the river, the the nicer the city gets. So right when you enter right at the gate that you know that's like the the novja slums. Right? That's the the houses are dilapidated, it floods the river floods sometimes, and so there's a big, wide street that runs along the river, but but even so, like when the spring snow melt happens like the river will often flood, and and people's houses just flood, and it sucks. So the higher up you get the the nicer the houses get, and Romans—the Silver Wolf is just about at the height of land, like kind of overlooking the market, maybe 500 yards away, but up towards not too far from the Watchers Spire, actually."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0282",
+              "endUid": "u0307",
+              "quote": "DM: The other thing you learn is that—so, the market, the the the city, you get a basic overview of the city from from tales and traders who have passed by. So it's it is really like the edge of of Ursk, like as you can see from where your camp is you know, 3 miles west of the city, you're just in dense forest.\n\nDM: The city is along the bank of the Ket. The bank is quite swampy, and it floods when the snow melts. So that's not built too close to—it's not built right up against the city, and the river is really only navigable for about 3 to 4 months a year. So it's not—does not, like—It's not centered around the harbor.\n\nDM: The main thing that the Zvervinka is kind of centered around is the the—so it's, you know, it's a walled city. So as you approach, you see the tall walls rising sort of from the snow covered forests in the icy waters of the river, made of dark stone.\n\nDM: The most notable landscape, or most notable features from the outside is the—people call it various things, but it's mostly known as the Watchers’ Spire. So tower of of the watchers, the the magical police, basically. That rises from the—the city is built sort of on a gentle slope leading up from the from the riverbank, and the tower is built on the highest point, and sort of overlooks the city.\n\nDM: There is also a the huge market on a—in a giant open plaza, buzzing with activity. It is busy every morning, but most promising for the sale of you know, esoteric goods, monster parts, things like that on what are the days? On Wednesdays and Saturdays. So you'll you'll arrive on on a Monday, so you'll have—you have a day or 2 before the market opens."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Silver Wolf inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u0841",
+          "endUid": "u0847",
+          "quote": "DM: “I get all my news from from Roman. You know, when when a nice treat like this comes in, and I can afford to go to his his bar. You know the says something in Urskan, but it would translate roughly as the Silver Wolf. You know, when you—the Silver Wolf is one of the classiest establishments in town. Few foreigners, but I think these 3 would fit in actually.”"
+        },
+        {
+          "startUid": "u0982",
+          "endUid": "u0998",
+          "quote": "DM: So as you walk through the street, past the market, Romans—the the Silver Wolf inn that that Roman runs is is just beyond the market.\n\nDM: The higher the further you go away from the river, the the nicer the city gets. So right when you enter right at the gate that you know that's like the the novja slums. Right? That's the the houses are dilapidated, it floods the river floods sometimes, and so there's a big, wide street that runs along the river, but but even so, like when the spring snow melt happens like the river will often flood, and and people's houses just flood, and it sucks. So the higher up you get the the nicer the houses get, and Romans—the Silver Wolf is just about at the height of land, like kind of overlooking the market, maybe 500 yards away, but up towards not too far from the Watchers Spire, actually.\n\nDM: Seems quiet as you enter. It's—it looks nice, I mean, it's—it's—everything's like lined with furs. It's warm. You realize how cold you've been when you step into this warm, heated room."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/The Silver Wolf.md",
+      "aliases": [
+        "Roman’s inn"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0986",
+              "endUid": "u0992",
+              "quote": "DM: The higher the further you go away from the river, the the nicer the city gets. So right when you enter right at the gate that you know that's like the the novja slums. Right? That's the the houses are dilapidated, it floods the river floods sometimes, and so there's a big, wide street that runs along the river, but but even so, like when the spring snow melt happens like the river will often flood, and and people's houses just flood, and it sucks. So the higher up you get the the nicer the houses get, and Romans—the Silver Wolf is just about at the height of land, like kind of overlooking the market, maybe 500 yards away, but up towards not too far from the Watchers Spire, actually."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0982",
+              "endUid": "u0985",
+              "quote": "just beyond the market"
+            },
+            {
+              "startUid": "u0986",
+              "endUid": "u0992",
+              "quote": "overlooking the market, maybe 500 yards away"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Upstairs rooms",
+      "kind": "rooms",
+      "evidence": [
+        {
+          "startUid": "u1024",
+          "endUid": "u1031",
+          "quote": "Seeker: Well, while we unpack in our room, I'll just try to see if there's a view out the window of the Watcher's tower, and just kind of just glance up at it. See if there's any movement up there.\n\nDM: Yeah, you got 4 rooms up there.\n\nDM: 2 of them look—the the nice rooms are the ones that look out over the market, and the whole vista the city below. So the 3 of you got the nice rooms, and then the guides get the like back room with a small window that looks up to the watchers tower. But you can—\n\nSeeker: Look, I'll poke around up there."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1007",
+              "endUid": "u1031",
+              "quote": "DM: Whoever is is tending the bar for breakfast is not Roman based on the description that that the guard gave you. But looks up and if you want to get rooms, you can easily get rooms, you have plenty of coin to splash around. And I don't know. So what what do you wanna do? Just like, tell Roman that you're looking for him and have breakfast, or what's your, what's your—\n\nDelwath: Yeah, II would say that I mean we should come in, and you know we've heard this is the nicest establishment in the city, and my guests here looking for some food, and have heard Roman might be interested in talking.\n\nWellby: Yeah. And I'll you know, repeating also the same about my role and Kenzo’s, you know, that were guides for these sort of fancy treasure hunters and bounty hunters who Wanted to cross the North hunting dragons and so on.\n\nDelwath: And I mean Delwath will just obviously overpay for everything, too. Right?\n\nDM: So you give them like 20 gold for your rooms, like 2 gold a night per room for 10 days. So that's like, if you get one room for the guides, and then every person, each of you gets a room right? So like 80 gold or something for—\n\nDM: That includes breakfast every morning. It's like a bed and breakfast right? That includes breakfast, but not lunch or dinner, and he says, you know, he's you know they have plenty of space. Gets you settled. Romans, usually in around lunchtime. Happy to hang out and have tea and breakfast while you wait.\n\nDelwath: I think we just wait for him. What? Yeah, I mean, not—keep a close eye on the room, you know. Does anybody come in? Find a excuse to, you know, order more food at some point and overtip whoever it is.\n\nSeeker: Well, while we unpack in our room, I'll just try to see if there's a view out the window of the Watcher's tower, and just kind of just glance up at it. See if there's any movement up there.\n\nDM: Yeah, you got 4 rooms up there.\n\nDM: 2 of them look—the the nice rooms are the ones that look out over the market, and the whole vista the city below. So the 3 of you got the nice rooms, and then the guides get the like back room with a small window that looks up to the watchers tower. But you can—\n\nSeeker: Look, I'll poke around up there."
+            }
+          ]
+        }
+      ],
+      "note": "Seeker checks the upstairs windows; the description distinguishes the market-facing rooms from the guides’ tower-facing room without establishing a new party-wide location."
+    },
+    "p11": {
+      "label": "Watchers’ Spire",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0292",
+          "endUid": "u0299",
+          "quote": "DM: The most notable landscape, or most notable features from the outside is the—people call it various things, but it's mostly known as the Watchers’ Spire. So tower of of the watchers, the the magical police, basically. That rises from the—the city is built sort of on a gentle slope leading up from the from the riverbank, and the tower is built on the highest point, and sort of overlooks the city."
+        },
+        {
+          "startUid": "u1801",
+          "endUid": "u1816",
+          "quote": "DM: So you're given—you're given a letter, basically saying, you know, an invitation to come to the the Tower and meet with Lena for lunch. And you walk, you know it's only about 4 blocks from where you are to the entrance to this tower, and it's this—\n\nDM: So so when, as you get close to it, you can see is this like towering building. It must be, you know, more than a hundred feet high, with like 3 rows of spires, so like a a low row, and then a slightly higher row than an even higher row in that. So it's like a tiered set. It's almost like a like if you took a cathedral and sort of bent it into a circle.\n\nDM: And there's you know, you see, you see, several watchers, and you go past a couple of sort of gates. As you walk past, and you show them your invitation, and they kind of motion you on until you step into the sort of antechamber of this building, which is high ceilings. There's a lot of light coming through just not stained glass, but just glass, plain glass windows with a sort of latticework. And there's there's a sort of slightly bored looking man in in blue robes standing there. And he looks up, and he and he reads your invitation. Any, any—kind of shakes his head. “No magic. Leave here. Leave magic.”"
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Watcher's Spire.md",
+      "aliases": [
+        "Watcher's tower",
+        "Watcher's Spire"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0292",
+              "endUid": "u0299",
+              "quote": "DM: The most notable landscape, or most notable features from the outside is the—people call it various things, but it's mostly known as the Watchers’ Spire. So tower of of the watchers, the the magical police, basically. That rises from the—the city is built sort of on a gentle slope leading up from the from the riverbank, and the tower is built on the highest point, and sort of overlooks the city."
+            },
+            {
+              "startUid": "u0920",
+              "endUid": "u0925",
+              "quote": "DM: So as you enter again, it's still pretty quiet. It's like a cold, dreary morning. There's not a lot of of people about yet. There's like the main thoroughfare that leads—that's a wide thoroughfare that leads up to this like up the hill, like gently sloping up to this watcher tower. Watcher's Spire, which is this huge towering building with like—It's not just a single tower. It's like almost like a cathedral. Like many spires rising up kinda like—not exactly like this thing in the in the image, but kinda like that."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Borrowed smithy",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u1403",
+          "endUid": "u1411",
+          "quote": "DM: So the next morning, he's clearly like found a blacksmith or somebody whose shop you can commandeer, leads you there. Hosts—They're not like guards. They're basically like the, you know, 2 bartenders. Right? They're they're like burly folk. They're, you know, they have clubs. They're not there to fight. They're just there to keep anybody from bothering you.\n\nDM: And what do you do? Whatever you wish to do. He's given you a stock of silver to shape the the wolf from, and you've got like a forge and plenty of charcoal, and and like that. So and so there's this—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1215",
+              "endUid": "u1220",
+              "quote": "There are metalworkers in town"
+            },
+            {
+              "startUid": "u1403",
+              "endUid": "u1411",
+              "quote": "DM: So the next morning, he's clearly like found a blacksmith or somebody whose shop you can commandeer, leads you there. Hosts—They're not like guards. They're basically like the, you know, 2 bartenders. Right? They're they're like burly folk. They're, you know, they have clubs. They're not there to fight. They're just there to keep anybody from bothering you.\n\nDM: And what do you do? Whatever you wish to do. He's given you a stock of silver to shape the the wolf from, and you've got like a forge and plenty of charcoal, and and like that. So and so there's this—"
+            }
+          ]
+        }
+      ],
+      "note": "Roman supplies a local smith’s shop for the commission; no named canonical forge is identified."
+    },
+    "p13": {
+      "label": "Spire entry antechamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1808",
+          "endUid": "u1816",
+          "quote": "DM: And there's you know, you see, you see, several watchers, and you go past a couple of sort of gates. As you walk past, and you show them your invitation, and they kind of motion you on until you step into the sort of antechamber of this building, which is high ceilings. There's a lot of light coming through just not stained glass, but just glass, plain glass windows with a sort of latticework. And there's there's a sort of slightly bored looking man in in blue robes standing there. And he looks up, and he and he reads your invitation. Any, any—kind of shakes his head. “No magic. Leave here. Leave magic.”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1808",
+              "endUid": "u1816",
+              "quote": "you step into the sort of antechamber of this building"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Ursk",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0284",
+          "quote": "DM: The other thing you learn is that—so, the market, the the the city, you get a basic overview of the city from from tales and traders who have passed by. So it's it is really like the edge of of Ursk, like as you can see from where your camp is you know, 3 miles west of the city, you're just in dense forest."
+        },
+        {
+          "startUid": "u2120",
+          "endUid": "u2121",
+          "quote": "DM: She waves her hand, and an illusion appears over the table, showing a map of Ursk."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Ursk.md"
+    },
+    "p15": {
+      "label": "Fifth-floor tea room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1891",
+          "endUid": "u1896",
+          "quote": "Delwath: We go up.\n\nDM: So you get led up now. And you—you come to this sort of small room on like the fifth floor, you go up this long spiral staircase. There's a table that's been set with places for 6. Set is like it's like a there's like a silver tea service. It's all set basically for like for tea. And the the person who's leading you kind of gestures you into the room and then leaves and you just kind of standing around there for a minute. 2 min., 5 min."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1808",
+              "endUid": "u1816",
+              "quote": "DM: And there's you know, you see, you see, several watchers, and you go past a couple of sort of gates. As you walk past, and you show them your invitation, and they kind of motion you on until you step into the sort of antechamber of this building, which is high ceilings. There's a lot of light coming through just not stained glass, but just glass, plain glass windows with a sort of latticework. And there's there's a sort of slightly bored looking man in in blue robes standing there. And he looks up, and he and he reads your invitation. Any, any—kind of shakes his head. “No magic. Leave here. Leave magic.”"
+            },
+            {
+              "startUid": "u1891",
+              "endUid": "u1896",
+              "quote": "small room on like the fifth floor"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0011"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five PCs have walked from Vindristjarna for about a day and a half and are now camped in the forest on the Ket.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: Okay, so we begin tonight in a cold, muddy camp on the River Ket. The 5 of you sitting around a warming fire in the forest. From the edge of the woods, where the river curves to the east you can see the lights of Zvervinka a few miles downstream. But here the forest is dense and dark, and the only light is the flicker of your campsite."
+        },
+        {
+          "startUid": "u0008",
+          "endUid": "u0011",
+          "quote": "DM: You've been on foot for the past day and a half, trekking through the snow and the mud after leaving Vindristjarna, now hopefully safe in Faldrak's hands. And it's been a while—4 and a half months or more, since you were forced to rough it in the cold, and without your, you know, fancy beds, and whatever you have on the ship."
+        }
+      ],
+      "from": "p04",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 1.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Retrospective narrated trek ending at the opening camp."
+      }
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five PCs can see Zvervinka’s lights downstream from their camp; this is not city entry.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "you can see the lights of Zvervinka a few miles downstream"
+        }
+      ],
+      "place": "p03",
+      "observerPlace": "p01",
+      "mode": "local"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0121",
+        "endUid": "u0140"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Earlier downtime placed the party at the Vargaldi camp, learning Urskan and gathering tales.",
+      "evidence": [
+        {
+          "startUid": "u0121",
+          "endUid": "u0128",
+          "quote": "DM: So as you reflect and begin to discuss your plan for the days ahead, you think back: It's been nearly a month since you killed the White Dragon and met the Vargaldi. The 2 ish weeks in camp wasn't quite enough time to become fully fluent in Urskan for anybody except maybe Delwath, I mean, Wellby who picks up languages fast. But you certainly picked up enough to get by, and you can—You can, you know, communicate in halting fashion, for sure."
+        },
+        {
+          "startUid": "u0134",
+          "endUid": "u0140",
+          "quote": "DM: And over the days as you spent most of your time practicing your languages, trying to pick up the accents and grammars of of Urskan, you know people wandered into camp with the dragon dead. There was more, you know, commerce and traffic coming in in and out of the camp that you were in. And you heard stories. You heard stories about the that—no, yeah—so-called, the, yeah cultural and linguistic kin of the Vargaldi who live under the rule of the Ursk wizards."
+        }
+      ],
+      "place": "p05",
+      "context": "flashback"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0640"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Play returns to the earlier farewell aboard Vindristjarna, where the party entrusts the ship to Faldrak.",
+      "evidence": [
+        {
+          "startUid": "u0585",
+          "endUid": "u0588",
+          "quote": "DM: So as you move into the evening with your plan and disguise prepared for the morning, before you go to bed, you think back on the motley crew that you left behind 2 days ago:"
+        },
+        {
+          "startUid": "u0589",
+          "endUid": "u0598",
+          "quote": "DM: A frost giant who had taken, who has taken over the course of the couple of weeks to sitting on the top deck, which is the only place he fits, leaning against the I forget what—the, Baxter's stable, maybe—and just kind of like—so it looks very funny. He's been writing notes. The book is like the size of a human. And he's just scratching, scratching these notes in these pages, but he keeps getting frustrated and grabs a page, and he rips it up and he tosses it behind him, and Baxter's stable is like filling up with these ripped giant crumpled pages."
+        },
+        {
+          "startUid": "u0627",
+          "endUid": "u0640",
+          "quote": "DM: So they wave goodbye to you. Any last instructions you want to give your crew?\n\nSeeker: Perfect. [garbled] for Faldrak, I think. Listen, just just play it safe. Remember that what you're responsible for here is bigger than any of us. It's a ancient, unique artifact of the world of giants. It is not ours. We are just temporarily stewards of this beautiful ship. Also I'll be making detailed sketches of the entire exterior, so if there's so much as a nick, or a scratch, you'll be accountable. Got it?\n\nDM: He kind of laughs. I got it. Don't worry. The ship will be safe."
+        }
+      ],
+      "place": "p04",
+      "context": "flashback"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0669",
+        "endUid": "u0761"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party walks from the camp to the bridge and gatehouse, then enters to present the monster parts.",
+      "evidence": [
+        {
+          "startUid": "u0669",
+          "endUid": "u0670",
+          "quote": "DM: So the next morning you head for the city."
+        },
+        {
+          "startUid": "u0697",
+          "endUid": "u0699",
+          "quote": "DM: Okay, so you head into town. It's only a few miles."
+        },
+        {
+          "startUid": "u0717",
+          "endUid": "u0721",
+          "quote": "DM: So in your disguises—not really disguise it as your cover stories, two Vargaldi, 3 heroes of the monster hunting world. You approach the the bridge."
+        },
+        {
+          "startUid": "u0737",
+          "endUid": "u0740",
+          "quote": "DM: So you approach the 2 guards, one of whom looks up and says in Urskan, and something that seems like, “Business in town?” Kind of does a double take as he looks across at the Elf and the 2 dwarves, but it addresses the question to Kenzo and Wellby."
+        },
+        {
+          "startUid": "u0757",
+          "endUid": "u0761",
+          "quote": "DM: Motions you to come inside. Says in Urskan kind of rattling off: “Take out your goods. Let us see what you've got. Yeah. My partner's gone to get the scales and papers.”\n\nWellby: Aye, aye. Wellby signs for us to unload the goods and start hauling it out, from backpacks, and so on."
+        }
+      ],
+      "from": "p01",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Approach the bridge across the Ket.",
+          "place": "p06"
+        }
+      ],
+      "distance": {
+        "text": "a few miles",
+        "unit": "mile",
+        "precision": "vague",
+        "basis": "DM’s narrated distance from camp to town."
+      }
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0918",
+        "endUid": "u0931"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After receiving their papers, the party enters Zvervinka’s streets.",
+      "evidence": [
+        {
+          "startUid": "u0918",
+          "endUid": "u0925",
+          "quote": "Unknown: We head in.\n\nDM: Enjoy Zvervinka.\n\nDM: So as you enter again, it's still pretty quiet. It's like a cold, dreary morning. There's not a lot of of people about yet. There's like the main thoroughfare that leads—that's a wide thoroughfare that leads up to this like up the hill, like gently sloping up to this watcher tower. Watcher's Spire, which is this huge towering building with like—It's not just a single tower. It's like almost like a cathedral. Like many spires rising up kinda like—not exactly like this thing in the in the image, but kinda like that."
+        },
+        {
+          "startUid": "u0926",
+          "endUid": "u0931",
+          "quote": "DM: And you know, right by the gate there seems to be some, you know. There's a couple of taverns and inns like—clearly this town does cater to travelers right? And everything is like nothing's—there's no written signs. Everything's just like a, you know, like a a pint of ale, or like a bed, or you know, a chicken, or something, or a or a anvil like everything, sort of you get the sense like, now that you're here that there is a bit of you know, we're used to dealing with people who are outsiders and don't speak the language, and like people are sort of adapted to that, and ready to deal with that. But you're standing here."
+        }
+      ],
+      "from": "p07",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0954",
+        "endUid": "u1006"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party walks through Zvervinka, passes the market, and enters the Silver Wolf.",
+      "evidence": [
+        {
+          "startUid": "u0954",
+          "endUid": "u0961",
+          "quote": "Delwath: So I think we should go. I'll generally talking, I guess. I think, in Dunmari you should pro—we probably are used to talking in Dunmari, anyway. That's probably our main party language. But I think we should go to Romans.\n\nWellby: Let's do it.\n\nDelwath: Get rooms, check out the scene, and then approach the guy and see what he knows."
+        },
+        {
+          "startUid": "u0963",
+          "endUid": "u0972",
+          "quote": "DM: Okay. So you walk through the streets, and you know it's maybe 8 30. Now you're past the the vernal equinox. So it's not particularly dark, like, the days are getting much longer now. And as the sun rises higher in the sky the mist begins to burn off a little bit, and you know the streets start to come to life a little bit more. You know people starting to open up their shops, and, you know, bring out wrinkled apples and potatoes, and various other foodstuff and things for sale, and and you there begins to be some life on the street."
+        },
+        {
+          "startUid": "u0982",
+          "endUid": "u0985",
+          "quote": "DM: So as you walk through the street, past the market, Romans—the the Silver Wolf inn that that Roman runs is is just beyond the market."
+        },
+        {
+          "startUid": "u0993",
+          "endUid": "u1006",
+          "quote": "DM: Seems quiet as you enter. It's—it looks nice, I mean, it's—it's—everything's like lined with furs. It's warm. You realize how cold you've been when you step into this warm, heated room.\n\nDM: There's a big roaring fire. There's a smell of some unusual beverage that you haven't—well, I guess maybe you would have. It's it smells like some kind of spiced tea, nothing that you've encountered before. Wellby might recognize it actually from from when you were sailing on the Eastern Green Sea. Perhaps some of the halflings on the ship you sailed in had Urskan tea, and fresh baked bread and as you, there's only like 3 people here. And it seems it's not really a tavern right? This isn't a place where people go to to drink. It's like a it's almost like a fancy restaurant at a at an inn."
+        }
+      ],
+      "from": "p03",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Walk past the market without a separate played stop.",
+          "place": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1024",
+        "endUid": "u1031"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker checks the upstairs rooms and windows at the inn.",
+      "evidence": [
+        {
+          "startUid": "u1024",
+          "endUid": "u1031",
+          "quote": "Seeker: Well, while we unpack in our room, I'll just try to see if there's a view out the window of the Watcher's tower, and just kind of just glance up at it. See if there's any movement up there.\n\nDM: Yeah, you got 4 rooms up there.\n\nDM: 2 of them look—the the nice rooms are the ones that look out over the market, and the whole vista the city below. So the 3 of you got the nice rooms, and then the guides get the like back room with a small window that looks up to the watchers tower. But you can—\n\nSeeker: Look, I'll poke around up there."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1028",
+        "endUid": "u1050"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker looks toward the Watchers’ Spire from the upstairs windows; no tower entry occurs yet.",
+      "evidence": [
+        {
+          "startUid": "u1028",
+          "endUid": "u1047",
+          "quote": "DM: 2 of them look—the the nice rooms are the ones that look out over the market, and the whole vista the city below. So the 3 of you got the nice rooms, and then the guides get the like back room with a small window that looks up to the watchers tower. But you can—\n\nSeeker: Look, I'll poke around up there.\n\nDM: It's—there's nothing obviously magical about it from the outside. It's made of the same dark stone as the walls. But otherwise I don't know, unless there's anything specific you're trying to ascertain.\n\nSeeker: Oh, like, how do they watch? Are there windows, or are there people?\n\nDM: Oh, yeah, there's windows. But it's not like—there's not like the Eye of Sauron on the top, or something just looking around right? It's—it doesn't seem like they like—it's not like they're standing in a viewing platform and watching necessarily from the tower. There—they're—\n\nDM: I mean they patrol, right? Like, you've seen a few like when you were crossing to the marketplace, there was a you know, there's a person, and dressed in this, like, you know, silvery gray cloak and like fancy hat like warm furry hat, but that like sticks up a little bit, with this thick chain around their around their neck, with this like symbol of a of an eye who's obviously watching like, they—they don't—They seem like they just patrol and then rely on people to alert them if if there's trouble.\n\nSeeker: Okay."
+        },
+        {
+          "startUid": "u1049",
+          "endUid": "u1050",
+          "quote": "Riswynn: You could see you were. But they're like uniformed.\n\nDM: Yeah. Well, some of them are."
+        }
+      ],
+      "place": "p11",
+      "observerPlace": "p10",
+      "mode": "local"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1267",
+        "endUid": "u1338"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the inn for an afternoon circuit through Zvervinka, including the quiet market area.",
+      "evidence": [
+        {
+          "startUid": "u1267",
+          "endUid": "u1274",
+          "quote": "Delwath: So anything we want to see in town? Should we just hang out? Probably worth walking around town a bit, right? Just getting the vibe walk over to the market and see.\n\nWellby: Okay.\n\nDM: So yeah, you spend the afternoon kind of walking around just checking it out. You know you draw comment right? You're not—It's not a—you're not—You're not like passing unnoticed right? And and rumors are starting to spread. And people see you coming out of the silver wolf. And and Roman obviously is gonna spread the word, and use your presence to fill up his dining room for the night."
+        },
+        {
+          "startUid": "u1307",
+          "endUid": "u1325",
+          "quote": "DM: Then you do. You know, as you walk through, you do twice in the afternoon, get just briefly stopped by a watcher asked who asked for your papers. So it does seem like there is some, you know, eventually like, if you know, even though news must have spread and everybody probably recognizes, they still stop and ask you for your papers.\n\nSeeker: Hmm. Okay.\n\nDM: And they do also occasionally just stop random people on the street that you see and like ask. And your people will show them. It actually looks like people are showing like little tattoo, like small tattoos on their wrists, if they don't have papers. You're not entirely sure.\n\nDelwath: Do they ever stop the no, novja, no, novja. And who show them what?\n\nDM: Papers or or tattoos? But it's hard. It's hard to tell exactly like I mean, unless you want to spend the afternoon tailing the watchers. This is just sort of, you know, while you're kind of walking around.\n\nSeeker: People who've had the rite probably have the tattoo.\n\nDelwath: That's what I was doing. I was just curious what the people who haven't had the rite have. But maybe papers, maybe maybe they carry papers."
+        },
+        {
+          "startUid": "u1332",
+          "endUid": "u1338",
+          "quote": "Delwath: Should we? I should we skip ahead to this dinner?\n\nDM: So I wanna come back.\n\nDelwath: Tyler, go ahead. The markets fairly small right now.\n\nDM: It's pretty much dead by mid afternoon. It seems like on—on, not on—There's like the 2 big market days. But on the other day, that's mostly, you know, serves as a you know, food market mostly."
+        }
+      ],
+      "from": "p09",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Circulate near the market as it becomes quiet by mid-afternoon.",
+          "place": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1340",
+        "endUid": "u1369"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the Silver Wolf’s common dining room for Roman’s dinner.",
+      "evidence": [
+        {
+          "startUid": "u1340",
+          "endUid": "u1345",
+          "quote": "DM: So you come in for dinner. And Roman has set this table in the center, like in the very center of the common room of this restaurant inn, for you for the 5 of you. And the dining room is is like completely full. There's maybe 40 people in here, mostly very well dressed. And he he—he sort of welcomes you as you as you come into the into the dining hall, and you can see that there's like a first course already set. Some like chilled jellied things."
+        },
+        {
+          "startUid": "u1346",
+          "endUid": "u1369",
+          "quote": "DM: And he's making this. He's like announcing this big speech in in Urskan which Kenzo understands, and the rest of you catch bits of. You know, he's like thanking these famous monster hunters for for coming to town.\n\nDM: They're rich and powerful, and they've chosen his—the Silver Wolf as their home for the next 10 days, and he's grateful and overjoyed up there that they would honor him in this way. And he's explaining to everybody that they don't speak the language. They have guides and translators. But you won't be able to talk to them, so don't bother them unless they seek your company and your attention. Let them eat in peace and enjoy the meal that he's prepared. And like just goes on a little bit about, you know, at me. It's been years since you've been graced by an elf in this town, and etc. Etc. Etc. And then seats you and kind of—\n\nDelwath: Delwath will get up after that, and just briefly in Elvish, I mean, unless anybody seems to know out, like—he'll start a short speech of thanks in Elvish. But if everybody appears to look blank he'll just like trail off eventually, just like you know, and blah blah blah blah blah! I don't really want—and then help help just for a minute, and then like clearly, if people aren't, you know, and then he will say, “Thank you,” in Urskan.\n\nUnknown: Right?\n\nDelwath: And you know more broken Urskan than even he would be able to speak in. But, like, “Thank you, Roman, for your hospitality, you know, for this for this food,” and and then sort of sit down."
+        }
+      ],
+      "from": "p03",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1403",
+        "endUid": "u1411"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Roman leads the party to a borrowed smith’s shop for the silver-wolf commission.",
+      "evidence": [
+        {
+          "startUid": "u1403",
+          "endUid": "u1411",
+          "quote": "DM: So the next morning, he's clearly like found a blacksmith or somebody whose shop you can commandeer, leads you there. Hosts—They're not like guards. They're basically like the, you know, 2 bartenders. Right? They're they're like burly folk. They're, you know, they have clubs. They're not there to fight. They're just there to keep anybody from bothering you.\n\nDM: And what do you do? Whatever you wish to do. He's given you a stock of silver to shape the the wolf from, and you've got like a forge and plenty of charcoal, and and like that. So and so there's this—"
+        }
+      ],
+      "from": "p09",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1517",
+        "endUid": "u1533"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party brings the finished wolf back to Roman at the Silver Wolf that evening.",
+      "evidence": [
+        {
+          "startUid": "u1517",
+          "endUid": "u1533",
+          "quote": "DM: So that evening you take it back to Roman. And he is overjoyed.\n\nDM: “This is perfect. This is exactly what I had in mind. So grateful that you dwarves came to the city. I never would have guessed it. But amazing, I am in your debt. If there's any favor I can do for you, just do not hesitate to ask, and I would be happy to repay you for this generous deed that you have done for me and my inn.”\n\nRiswynn: If we can say something about how we appreciated the challenge and are looking for additional challenges, as he knows. And something like, you know, tie it all together.\n\nDM: The silver wolf crafting was a success. Kenzo, Riswynn and Seeker did it together. Roman is overjoyed, and Riswynn just asked for what other challenges he might have. And he kind of looks. “Yes, you were—You are asking about right, about bounties, yes.” That—so—"
+        }
+      ],
+      "from": "p12",
+      "to": "p09",
+      "completion": "arrived",
+      "note": "The return is compressed as “back to Roman”; his established inn remains the context of the ensuing conversation."
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1801",
+        "endUid": "u1820"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five PCs walk four blocks to the Spire, pass its gates with their invitation, and enter its antechamber.",
+      "evidence": [
+        {
+          "startUid": "u1801",
+          "endUid": "u1803",
+          "quote": "DM: So you're given—you're given a letter, basically saying, you know, an invitation to come to the the Tower and meet with Lena for lunch. And you walk, you know it's only about 4 blocks from where you are to the entrance to this tower, and it's this—"
+        },
+        {
+          "startUid": "u1804",
+          "endUid": "u1820",
+          "quote": "DM: So so when, as you get close to it, you can see is this like towering building. It must be, you know, more than a hundred feet high, with like 3 rows of spires, so like a a low row, and then a slightly higher row than an even higher row in that. So it's like a tiered set. It's almost like a like if you took a cathedral and sort of bent it into a circle.\n\nDM: And there's you know, you see, you see, several watchers, and you go past a couple of sort of gates. As you walk past, and you show them your invitation, and they kind of motion you on until you step into the sort of antechamber of this building, which is high ceilings. There's a lot of light coming through just not stained glass, but just glass, plain glass windows with a sort of latticework. And there's there's a sort of slightly bored looking man in in blue robes standing there. And he looks up, and he and he reads your invitation. Any, any—kind of shakes his head. “No magic. Leave here. Leave magic.”\n\nWellby: Wellby will ask all—Wellby will sensitively ask in a way that is appropriate to the rest of the city what we've learned so far does he mean all magic items of any kind, or including, like, weapons, and things, or what? What does that involve?\n\nDM: “Put all your magic here before you visit. No magic in the tower.”"
+        }
+      ],
+      "from": "p09",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass the Spire’s successive gates after showing the invitation.",
+          "place": "p11"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1891",
+        "endUid": "u1896"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the entrance check, the party is led up a spiral staircase to the fifth-floor tea room for Lena’s audience.",
+      "evidence": [
+        {
+          "startUid": "u1891",
+          "endUid": "u1896",
+          "quote": "Delwath: We go up.\n\nDM: So you get led up now. And you—you come to this sort of small room on like the fifth floor, you go up this long spiral staircase. There's a table that's been set with places for 6. Set is like it's like a there's like a silver tea service. It's all set basically for like for tea. And the the person who's leading you kind of gestures you into the room and then leaves and you just kind of standing around there for a minute. 2 min., 5 min."
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk"
+    }
+  ]
+}
