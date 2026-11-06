@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-056",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-session.yaml",
+    "sessionYamlSha256": "222d8d0ba2f07d3b4bf608ac1a7010162fe8bb189f49a5dc30a45f4b708be719",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-transcript.md",
+    "transcriptSha256": "4a5347c0600dc38b264c1617fde51c8004b9a27dd58e2d6de02c720aa966fa42",
+    "yamlDates": {
+      "start": "1748-08-24",
+      "end": "1748-08-25"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0450",
+        "endUid": "u0461"
+      },
+      "reading": "The party walks for roughly four hours after entering Morkalan, approaching the cliff settlement; the successive estimates describe one journey.",
+      "evidence": [
+        {
+          "startUid": "u0450",
+          "endUid": "u0461",
+          "quote": "The time doesn't seem to— your, your sense of movement is, is odd, right? You walk, and the landscape doesn't seem to change much as you walk, but every now and then you look up, and it does seem like perhaps the lights are getting closer. A few hours. You've gone maybe four or five, six, eight miles. It's hard to judge, but details are beginning to become apparent. You can see what look like buildings jutting out from the cliff, crudely shaped of mud and rock. Some, you know, some beginning to collapse a little bit, but some lights hanging outside, others— that."
+        },
+        {
+          "startUid": "u0462",
+          "endUid": "u0470",
+          "quote": "And as you go another hour, maybe another three, four miles. You can see that there's a, um, this little cluster of buildings is clustered around like a large central cave opening that's been hollowed out, and you can see now maybe two, three, five, six, eight miles away from you. It's hard to say, but every now and then you'll see a little bit of movement. Aye, people, animals. It's difficult to tell at this distance,"
+        },
+        {
+          "startUid": "u0471",
+          "endUid": "u0476",
+          "quote": "But as you continue walking—stop me if you want to stop walking— uh you see now, uh, maybe four hours after you first first entered. Although the sun doesn't seem to move in the sky, whatever light there is, so it's difficult to judge the passage of time."
+        }
+      ],
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "The DM gives the aggregate as maybe four hours after entry; the earlier few-hours and additional-hour estimates are parts of this journey."
+      },
+      "completion": "completed",
+      "actors": [
+        "party"
+      ],
+      "note": "The sun does not move. This establishes elapsed travel, not a local clock or a day boundary."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u2250",
+        "endUid": "u2255"
+      },
+      "reading": "Tak takes about two minutes inside the blocked cave to read Rurik’s letter before looking out again.",
+      "evidence": [
+        {
+          "startUid": "u2250",
+          "endUid": "u2255",
+          "quote": "And disappears. Two minutes, like a brief like gasp, sob. Eye comes back like looking around. I'm coming out. It's safe?"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated wait while Tak reads the letter."
+      },
+      "completion": "completed",
+      "actors": [
+        "Tak"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u2258",
+        "endUid": "u2268"
+      },
+      "reading": "Tak shifts the rocks and emerges from the blocked cave about five minutes later.",
+      "evidence": [
+        {
+          "startUid": "u2258",
+          "endUid": "u2268",
+          "quote": "Minutes ago. Rocks shift, like five minutes later, like this youngish-looking dwarf, short gray hair, all tightly tightly curled, tightly tied up, wearing sort of dusty clothes, striking blue eyes moving like— but his body language and actions seem younger than his than his physical appearance, looks up at you as he crawls out, \"Dwarves! My father sent you.\""
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated clearing interval after Tak says he is coming out."
+      },
+      "completion": "completed",
+      "actors": [
+        "Tak"
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2401",
+        "endUid": "u2411"
+      },
+      "reading": "The party walks north with Tak for an hour while Riswynn tells him an adventure story.",
+      "evidence": [
+        {
+          "startUid": "u2401",
+          "endUid": "u2411",
+          "quote": "So as you walk, listening to Riswynn tell the story of a band of adventurers fighting their way through a dwarven ruin, finding fortress of demonic gnolls, killing a demon, rescuing a lost adventurer, are recovering a precious heirloom of the Brawnanvil family. Um! But over the course of an hour, you see like Tak's eyes light up, and he sort of starts to follow Riswynn around. She is definitely a hero. That is what heroes are. I, I didn't, I didn't think they existed."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM explicitly narrates an hour passing during the walk."
+      },
+      "completion": "completed",
+      "actors": [
+        "party",
+        "Tak"
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No numerical campaign date or reliable current civil watch is established. August 24–25, 1748 comes solely from the session YAML.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04"
+    ],
+    "explanation": "The party is summoned, enters Morkalan, walks roughly four hours to Bleakhold, investigates, rescues Tak, and walks another hour. No completed overnight, rest or explicit date transition establishes the YAML’s single boundary. The historical chalice vision, Tak’s earlier absence, proposed journeys and real-world midnight do not extend the played adventure interval."
+  }
+}

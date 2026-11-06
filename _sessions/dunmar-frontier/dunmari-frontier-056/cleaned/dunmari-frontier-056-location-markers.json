@@ -1,0 +1,1024 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-056",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-session.yaml",
+    "sessionYamlSha256": "222d8d0ba2f07d3b4bf608ac1a7010162fe8bb189f49a5dc30a45f4b708be719",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-transcript.md",
+    "transcriptSha256": "4a5347c0600dc38b264c1617fde51c8004b9a27dd58e2d6de02c720aa966fa42"
+  },
+  "places": {
+    "p01": {
+      "label": "Heart of the Mountain",
+      "kind": "divine realm",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0026",
+          "quote": "And as you look around at this place, a deep sense of familiarity washes over you, though it may have looked different the last time you were here. This chamber, this cavern, this hall that you are in, you know in your heart, is the home of the Bahrazel, the heart of the mountain, the central god, the centerpiece of dwarven lore and religion, a place you've all been before during the rite of name-taking when you received your adult name and learned, you know the thuhr to which you belong, the uniquely dwarven—it's a good guild, society, mentorship system, and a place to find family outside the traditional strictures of your clan that all dwarves learn when they come of age."
+        }
+      ],
+      "vaultPath": "Cosmology/Spiritual Realms/Heart of the Mountain.md"
+    },
+    "p02": {
+      "label": "Morkalan",
+      "kind": "extraplanar domain",
+      "evidence": [
+        {
+          "startUid": "u0350",
+          "endUid": "u0353",
+          "quote": "Yeah, it's clear that this is Morkalan. This is the Shadowfell realm where this dwarf Hagrim you are sent to judge, must be found."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md"
+    },
+    "p03": {
+      "label": "Muddy riverbank at the entry from the mists",
+      "kind": "riverbank",
+      "evidence": [
+        {
+          "startUid": "u0321",
+          "endUid": "u0328",
+          "quote": "For a moment you pass through these mists. You hear the screams of battle, dark shapes moving, flicker of flames, and then that you pass through, and you find yourself standing on a muddy river bank."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0350",
+              "endUid": "u0353",
+              "quote": "Yeah, it's clear that this is Morkalan. This is the Shadowfell realm where this dwarf Hagrim you are sent to judge, must be found."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0329",
+              "endUid": "u0337",
+              "quote": "The sky is dim and cloudy, the feeble light of the sun barely noticeable, the landscape gray and dull. To your left, a cliff looms out of the mist, stretching maybe one hundred and fifty feet in the air, and running north as far as you can see along the edge of the river, across the river from where you're standing, to the right, a flat plain stretches into the distance, swirling clouds of ash and dust lifted by winds you cannot feel or see. Um, ahead of you, its distance and size almost impossible to judge, but probably at least fifty feet high, stands a massive statue. It looks vaguely like a warrior. It is holding an axe and a shield, but where its head should be simply sits a massive skull, and it seems to be standing on a pile of bones at least ten, fifteen feet high."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Muddy River",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u0329",
+          "endUid": "u0337",
+          "quote": "The sky is dim and cloudy, the feeble light of the sun barely noticeable, the landscape gray and dull. To your left, a cliff looms out of the mist, stretching maybe one hundred and fifty feet in the air, and running north as far as you can see along the edge of the river, across the river from where you're standing, to the right, a flat plain stretches into the distance, swirling clouds of ash and dust lifted by winds you cannot feel or see. Um, ahead of you, its distance and size almost impossible to judge, but probably at least fifty feet high, stands a massive statue. It looks vaguely like a warrior. It is holding an axe and a shield, but where its head should be simply sits a massive skull, and it seems to be standing on a pile of bones at least ten, fifteen feet high."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0350",
+              "endUid": "u0353",
+              "quote": "Yeah, it's clear that this is Morkalan. This is the Shadowfell realm where this dwarf Hagrim you are sent to judge, must be found."
+            }
+          ]
+        }
+      ],
+      "note": "The transcript calls this a muddy river; the public Muddy River and Morkalan notes verify the identity."
+    },
+    "p05": {
+      "label": "Bleakhold",
+      "kind": "village",
+      "evidence": [
+        {
+          "startUid": "u0982",
+          "endUid": "u1006",
+          "quote": "Dwarves? No, humans up there, wanderers, we're calling to— rightly, saying, I— I feel like I once knew of a place that was not Bleakhold. Okay, they wander in sometimes, paying little mind, but they always seem lost. We call it the lost camps up there. Every now and then Morkalan will possess somebody and go up, and you tell them he has the secret of what they're looking for. I don't know what they're looking for in the lost camps. To be found again, maybe. And they'll look for a minute hopeful, and then Morkalan will leave, and there's just a confused dwarf standing there. No recollection of how they got to the camps unaware of anything to help those poor souls."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Bleakhold.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0951",
+              "endUid": "u0957",
+              "quote": "Beyond the village? What— Where did you come from? I haven't seen new dwarves in many a year. Is there another city somewhere in this world?"
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0562",
+              "endUid": "u0569",
+              "quote": "You get maybe a hundred feet. You, you get about halfway across the sort of open stretch from behind this, this little outcropping to towards the village, when when one of them, one of these four dwarves, stops, sort of turns slowly to look at you and like blinks um kind of shakes his head and looks up at you, says, \"Who are you?\""
+            }
+          ]
+        }
+      ],
+      "note": "Dworic supplies the village’s name after the party enters its cavern."
+    },
+    "p06": {
+      "label": "Cliffs along the river",
+      "kind": "cliffs",
+      "evidence": [
+        {
+          "startUid": "u0329",
+          "endUid": "u0337",
+          "quote": "The sky is dim and cloudy, the feeble light of the sun barely noticeable, the landscape gray and dull. To your left, a cliff looms out of the mist, stretching maybe one hundred and fifty feet in the air, and running north as far as you can see along the edge of the river, across the river from where you're standing, to the right, a flat plain stretches into the distance, swirling clouds of ash and dust lifted by winds you cannot feel or see. Um, ahead of you, its distance and size almost impossible to judge, but probably at least fifty feet high, stands a massive statue. It looks vaguely like a warrior. It is holding an axe and a shield, but where its head should be simply sits a massive skull, and it seems to be standing on a pile of bones at least ten, fifteen feet high."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0350",
+              "endUid": "u0353",
+              "quote": "Yeah, it's clear that this is Morkalan. This is the Shadowfell realm where this dwarf Hagrim you are sent to judge, must be found."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0329",
+              "endUid": "u0337",
+              "quote": "The sky is dim and cloudy, the feeble light of the sun barely noticeable, the landscape gray and dull. To your left, a cliff looms out of the mist, stretching maybe one hundred and fifty feet in the air, and running north as far as you can see along the edge of the river, across the river from where you're standing, to the right, a flat plain stretches into the distance, swirling clouds of ash and dust lifted by winds you cannot feel or see. Um, ahead of you, its distance and size almost impossible to judge, but probably at least fifty feet high, stands a massive statue. It looks vaguely like a warrior. It is holding an axe and a shield, but where its head should be simply sits a massive skull, and it seems to be standing on a pile of bones at least ten, fifteen feet high."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Approach outside Bleakhold",
+      "kind": "village outskirts",
+      "evidence": [
+        {
+          "startUid": "u0500",
+          "endUid": "u0509",
+          "quote": "Get closer. About three, four hundred feet from the from the settlement. There's a rock outcrop and you can crouch behind, and you can now clearly see these are four dwarves wearing what looked like badly maintained chainmail armor, and two of them wearing helmets, carrying—that especially, I mean, even at this distance, um, Merash, to your eye, given your your smithing experience, these, you know, the the axe and the two swords and the hammer that the four dwarfs carry are, um, you would say, almost in shockingly poor state of repair. This is, you would be ashamed to be associated with these weapons."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0500",
+              "endUid": "u0509",
+              "quote": "Get closer. About three, four hundred feet from the from the settlement. There's a rock outcrop and you can crouch behind, and you can now clearly see these are four dwarves wearing what looked like badly maintained chainmail armor, and two of them wearing helmets, carrying—that especially, I mean, even at this distance, um, Merash, to your eye, given your your smithing experience, these, you know, the the axe and the two swords and the hammer that the four dwarfs carry are, um, you would say, almost in shockingly poor state of repair. This is, you would be ashamed to be associated with these weapons."
+            }
+          ]
+        }
+      ],
+      "note": "Includes the rock outcrop and the open ground where the party meets the guards; it is outside the village cavern."
+    },
+    "p08": {
+      "label": "Old woman’s doorstep",
+      "kind": "doorstep",
+      "evidence": [
+        {
+          "startUid": "u0829",
+          "endUid": "u0838",
+          "quote": "You knock on the door, and like pulls it open like a tiny bit, so she can. She can peer out, and she's probably at least two hundred, maybe older. Her hair has gone totally white, is like tied up in a long ponytail in the back, wrinkled gray face. Uh, leaning over, you know a little bit, looks at you and says, \"No strangers,\" goes to shut the door."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0806",
+              "endUid": "u0815",
+              "quote": "Um! But then, you know, sort of in the center and and sort of opposite side of the village from the one little well-maintained area there's like a mix of buildings that are not falling apart, but not—I mean nothing here is pretty, but um her house is one of the um not falling apart, but not like particularly nice. The sobbing seems to be coming from one of the nicer the like nice, well-mai—not nice, but like the well-maintained section, and most of the sort of much a lot of the muffled noises are coming from that section as well like the occasional door closing, or like something being set on a table or cough, low voices."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Dworic’s house",
+      "kind": "house",
+      "evidence": [
+        {
+          "startUid": "u0892",
+          "endUid": "u0909",
+          "quote": "Slow footsteps. Door opens just a crack, another old dwarf, probably uh at least two hundred um salt-and-pepper beard braided tightly, hair pulled pull back, also braided tightly, but very long, like going down to the middle of his back, also like black and salt-and-pepper, like black, with lots of white in it um wearing like these thick leather gloves, and he's holding the sword he's holding is not in great shape. Um, it's been that— Yeah, both uh Merash and Riswynn, and it's been honed like way too many times, right? It's like it seems like this, this guy is just constantly sharpening this sword to the point that he's almost beyond the point of usefulness. Um, but it's shining. It's not rusted at all. It seems to be well taken care of, and he looks surprised, shocked almost to see your shining armor and your weapons, and your, Riswynn's shield. And just you're like the sort of quality of your gear says, \"Who are you?\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0870",
+              "endUid": "u0874",
+              "quote": "But the, the two best maintained houses are the house where there's the low sobbing, which now seems to be kind of stopping a little bit, and that house next door to that, which is the only place um where you, as you sort of approach that side of the village you actually hear. Ah, it's not exactly like a full-fledged forge, but you hear the sound of like somebody running metal against a whetstone, like, and the occasional like, like tapping."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Rurik’s house",
+      "kind": "house",
+      "evidence": [
+        {
+          "startUid": "u1137",
+          "endUid": "u1148",
+          "quote": "Um, this is at least at least three rooms, and it goes. It's up against the wall of the cave, and then goes back, and, unlike, ah, the smith's house, where he seemed perfectly content to just rely on dark vision and see everything in shades of gray. Um! There's a lantern here, and you can see that there's like a few splashes of color, even like there's a a red blanket that's worn to bits, and as you, you, as the door sort of swings open, a dwarf of indeterminate age, maybe at least middle-aged, who's been kind of was dressed in just plain, plain sort of clothes. Nothing fancy, drab. Wears a silver ring around his neck. Again, I haven't seen anybody else with jewelry or adornments, or anything, and he he looks up from the table in the middle of the room that you enter as the door swings open. He yes,"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1128",
+              "endUid": "u1128",
+              "quote": "Yeah, it's, it's left. It's the house that the sobbing is coming from."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Skull-headed statue and bone-covered fortifications",
+      "kind": "fortification",
+      "evidence": [
+        {
+          "startUid": "u1525",
+          "endUid": "u1528",
+          "quote": "And this massive statue, now, as you get closer, you can see that there's a fortifications constructed around its base, just crude walls mostly, and the bones that you saw from a distance. The piles of bones are all sort of heaped on the top of this this fortification. There's like bones falling, tumbling off the sides, and the trail kind of peters out right about at this point. The obvious trail, anyway."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0329",
+              "endUid": "u0337",
+              "quote": "The sky is dim and cloudy, the feeble light of the sun barely noticeable, the landscape gray and dull. To your left, a cliff looms out of the mist, stretching maybe one hundred and fifty feet in the air, and running north as far as you can see along the edge of the river, across the river from where you're standing, to the right, a flat plain stretches into the distance, swirling clouds of ash and dust lifted by winds you cannot feel or see. Um, ahead of you, its distance and size almost impossible to judge, but probably at least fifty feet high, stands a massive statue. It looks vaguely like a warrior. It is holding an axe and a shield, but where its head should be simply sits a massive skull, and it seems to be standing on a pile of bones at least ten, fifteen feet high."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1511",
+              "endUid": "u1524",
+              "quote": "I was just gonna say um, Riswynn. Ah, you notice, um, whether you're trained in Survival, you definitely see there's an obvious trail. You'll have to like, you know. You have to investigate a little bit, figure out anything more, but just from your sort of basic observation, passive survival ability. You can at least see that there's a trail going north that you know somebody has cleared some like brush out of the way, and it sort of, you know, moves along the you know, around the the mud, so like you're, you know, it's a relatively clear—this is different than what you saw to the south. It's not like, it's pretty— it's quite hard to get lost, right? I mean, you're following the river, but it— somebody or several somebody have at least taken the time to clear obvious obstacles. As you proceed north, the the trail continues about as far as the, um, as the place where you would cross a another ford of the river, sort of right next to the statue."
+            }
+          ]
+        }
+      ],
+      "note": "The current twisted statue is distinct from its historical counterpart shown in the chalice vision. The party passes its river ford without entering the fortifications."
+    },
+    "p12": {
+      "label": "Clifftop shelf outside the blocked cave",
+      "kind": "cave approach",
+      "evidence": [
+        {
+          "startUid": "u1592",
+          "endUid": "u1609",
+          "quote": "Okay. So when you get up when you get to the top, you see ahead of you, maybe forty feet in the distance, um, fifty feet in the distance, um, there's what looks like the entrance, there's like, so there's like piles of rock, and there's like a couple sort of levels of the cliff that like step up a little bit, so it's like you've come to the cliff edge and then about fifty, sixty feet. There's a shorter cliff edge, and there's a cave in that um shorter cliff edge, and they're which has. There's been a cave in, and you see um five, you know, six um like creatures. They look, they look vaguely like dwarves, but they are rotted ah, like they look. They look sort of like the like, you know, the like movie cartoon thing, where somebody like ages super fast until they get super old and then die, right? They look like that sort of like wrinkled, shriveled, like clearly not looking really exactly human anymore. They have um the same type of weapons in poor repair, or four out of the five of them have the same type of weapons in poor repair as the guards did. And they're kind of um. They're like scrabbling at the rocks, and one of them is like crouched down and like sniffing at the rocks. And they're like trying to pick their way through this cave-in."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1592",
+              "endUid": "u1609",
+              "quote": "Okay. So when you get up when you get to the top, you see ahead of you, maybe forty feet in the distance, um, fifty feet in the distance, um, there's what looks like the entrance, there's like, so there's like piles of rock, and there's like a couple sort of levels of the cliff that like step up a little bit, so it's like you've come to the cliff edge and then about fifty, sixty feet. There's a shorter cliff edge, and there's a cave in that um shorter cliff edge, and they're which has. There's been a cave in, and you see um five, you know, six um like creatures. They look, they look vaguely like dwarves, but they are rotted ah, like they look. They look sort of like the like, you know, the like movie cartoon thing, where somebody like ages super fast until they get super old and then die, right? They look like that sort of like wrinkled, shriveled, like clearly not looking really exactly human anymore. They have um the same type of weapons in poor repair, or four out of the five of them have the same type of weapons in poor repair as the guards did. And they're kind of um. They're like scrabbling at the rocks, and one of them is like crouched down and like sniffing at the rocks. And they're like trying to pick their way through this cave-in."
+            }
+          ]
+        }
+      ],
+      "note": "The fight and Tak’s emergence occur outside the cave; no party entry into the blocked interior is established."
+    },
+    "p13": {
+      "label": "Prominence where the old dwarven ghost watches the statue",
+      "kind": "prominence",
+      "evidence": [
+        {
+          "startUid": "u2412",
+          "endUid": "u2420",
+          "quote": "And as you walk, you see ahead maybe a mile or so, there's a prominence that rises that has a great view back to back to the statue, floating on the top of this prominence, staring at the giant statue, the ghost of an old dwarven woman, and that is where we will stop for tonight."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2412",
+              "endUid": "u2420",
+              "quote": "And as you walk, you see ahead maybe a mile or so, there's a prominence that rises that has a great view back to back to the statue, floating on the top of this prominence, staring at the giant statue, the ghost of an old dwarven woman, and that is where we will stop for tonight."
+            }
+          ]
+        }
+      ],
+      "note": "Still about a mile ahead when the session ends; seen, not reached."
+    },
+    "p14": {
+      "label": "Lost camps above the cliffs",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0982",
+          "endUid": "u1006",
+          "quote": "Dwarves? No, humans up there, wanderers, we're calling to— rightly, saying, I— I feel like I once knew of a place that was not Bleakhold. Okay, they wander in sometimes, paying little mind, but they always seem lost. We call it the lost camps up there. Every now and then Morkalan will possess somebody and go up, and you tell them he has the secret of what they're looking for. I don't know what they're looking for in the lost camps. To be found again, maybe. And they'll look for a minute hopeful, and then Morkalan will leave, and there's just a confused dwarf standing there. No recollection of how they got to the camps unaware of anything to help those poor souls."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0982",
+              "endUid": "u1006",
+              "quote": "Dwarves? No, humans up there, wanderers, we're calling to— rightly, saying, I— I feel like I once knew of a place that was not Bleakhold. Okay, they wander in sometimes, paying little mind, but they always seem lost. We call it the lost camps up there. Every now and then Morkalan will possess somebody and go up, and you tell them he has the secret of what they're looking for. I don't know what they're looking for in the lost camps. To be found again, maybe. And they'll look for a minute hopeful, and then Morkalan will leave, and there's just a confused dwarf standing there. No recollection of how they got to the camps unaware of anything to help those poor souls."
+            }
+          ]
+        }
+      ],
+      "note": "Dworic identifies the distant lights as the lost camps. The party does not visit them in this session."
+    },
+    "p15": {
+      "label": "Stoneborn statue in the chalice’s historical vision",
+      "kind": "historical site",
+      "evidence": [
+        {
+          "startUid": "u0184",
+          "endUid": "u0194",
+          "quote": "Marking the marking the place of safety in this new kingdom formed by refugees from war. Um group of dwarven soldiers setting out with this chalice going north, a vision of of people gathering of names and lists of those who are lost, those refugees who were not found who never made it to safety, and dwarves, setting out north with this chalice to find and bring them back. Um, the march home. Hundreds of dwarfs sustained by the chalice, a fire giant bearing down upon them, screaming about vengeance for his father, trolls with him, descending, the dwarves fleeing to a massive statue, maybe fifty feet tall, of a stoneborn and building hasty fortifications around the base of the statue, a grim warrior bearing a large two-handed axe and an iron helm leading the way, and then flames flickering, the end of the fight."
+        }
+      ],
+      "note": "Seen in the pool’s account of the chalice’s past; distinct from the skull-headed statue in present Morkalan."
+    },
+    "p16": {
+      "label": "Foot of the switchback north of the statue",
+      "kind": "trail",
+      "evidence": [
+        {
+          "startUid": "u1550",
+          "endUid": "u1557",
+          "quote": "When you get to this point, maybe three four miles north of the um Ah! the north of the statue. The footprints in the mud end, but you can see there's like a almost like a little bit of a switch-back trail that leads up the side of the cliff here, and that there's like loose rocks and things that have tumbled down like probably somebody's ascended at this point in the past week or so."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1550",
+              "endUid": "u1557",
+              "quote": "When you get to this point, maybe three four miles north of the um Ah! the north of the statue. The footprints in the mud end, but you can see there's like a almost like a little bit of a switch-back trail that leads up the side of the cliff here, and that there's like loose rocks and things that have tumbled down like probably somebody's ascended at this point in the past week or so."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1540",
+              "endUid": "u1549",
+              "quote": "Um, there is a— there's a, there's a— like a winding. The cliffs have kind of, are beginning to drop down a little bit. So rather than one hundred and fifty feet, it's maybe forty, fifty feet here and there's like just jumbled piles of rocks on the top you can see. So on this journey you've occasionally seen like in the distance, like what looks like a shadowy figure that like darts into, into the cliff. You walk once you got north of the— once you got north of the statue, like occasionally you'd see like a little ghostly figure, just see you and kind of run away into into the cliff, just fading into the wall"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Northern clifftop path",
+      "kind": "path",
+      "evidence": [
+        {
+          "startUid": "u2401",
+          "endUid": "u2411",
+          "quote": "So as you walk, listening to Riswynn tell the story of a band of adventurers fighting their way through a dwarven ruin, finding fortress of demonic gnolls, killing a demon, rescuing a lost adventurer, are recovering a precious heirloom of the Brawnanvil family. Um! But over the course of an hour, you see like Tak's eyes light up, and he sort of starts to follow Riswynn around. She is definitely a hero. That is what heroes are. I, I didn't, I didn't think they existed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2362",
+              "endUid": "u2364",
+              "quote": "What is this world you speak of? He begins walking along the cliff to the north."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0026"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The four dwarves are summoned from their separate lives into the Heart of the Mountain.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0014",
+          "quote": "Okay. So our adventure tonight starts as all of you— ah— in the midst of your daily life, doing whatever. Well, I guess, except for Riswynn, whatever you would have happened to have been doing, you know, in your normal, dwarfish life, you feel a wrenching twist, and then a sudden feeling of movement as the world goes dark around you for a moment. As your eyes adjust, you find yourself in a vast cavern. Hundreds and hundreds of feet across. Small motes of light float in the air, causing the flecks of white gemstones and the veins of silver that run through the walls of the cave to glitter and sparkle."
+        },
+        {
+          "startUid": "u0019",
+          "endUid": "u0026",
+          "quote": "And as you look around at this place, a deep sense of familiarity washes over you, though it may have looked different the last time you were here. This chamber, this cavern, this hall that you are in, you know in your heart, is the home of the Bahrazel, the heart of the mountain, the central god, the centerpiece of dwarven lore and religion, a place you've all been before during the rite of name-taking when you received your adult name and learned, you know the thuhr to which you belong, the uniquely dwarven—it's a good guild, society, mentorship system, and a place to find family outside the traditional strictures of your clan that all dwarves learn when they come of age."
+        }
+      ],
+      "from": null,
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "magical summoning"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0174",
+        "endUid": "u0201"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The pool shows the chalice’s past: refugees fortify a Stoneborn statue, and Hagrim turns on his companions.",
+      "evidence": [
+        {
+          "startUid": "u0174",
+          "endUid": "u0182",
+          "quote": "And the water clears, and you see an image. This chalice that Riswynn is holding, ah, floating in the— it's floating in the— [garbled] Here, this chalice. Link in chat, from floating, and then images flashing forward, telling its story,"
+        },
+        {
+          "startUid": "u0184",
+          "endUid": "u0194",
+          "quote": "Marking the marking the place of safety in this new kingdom formed by refugees from war. Um group of dwarven soldiers setting out with this chalice going north, a vision of of people gathering of names and lists of those who are lost, those refugees who were not found who never made it to safety, and dwarves, setting out north with this chalice to find and bring them back. Um, the march home. Hundreds of dwarfs sustained by the chalice, a fire giant bearing down upon them, screaming about vengeance for his father, trolls with him, descending, the dwarves fleeing to a massive statue, maybe fifty feet tall, of a stoneborn and building hasty fortifications around the base of the statue, a grim warrior bearing a large two-handed axe and an iron helm leading the way, and then flames flickering, the end of the fight."
+        },
+        {
+          "startUid": "u0195",
+          "endUid": "u0201",
+          "quote": "Fire giant, victorious, laughing as dwarf fights dwarf, the grim warrior with the axe standing on a pile of the dead, attacking all who come to him. Dwarves, trolls alike, screaming, \"Death in battle is all that is left!\" The fire giant falling and another dwarf turning to confront this warrior, the flames consuming them as they fight, the smoke gradually growing thicker and thicker as grim warrior, the hundreds of refugees, the trolls, everything left flickers out one by one, until all you can see is smoke."
+        }
+      ],
+      "place": "p15",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "context": "vision"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0237",
+        "endUid": "u0315"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Through the mists, the dwarves see the muddy riverbank that lies beyond the veil.",
+      "evidence": [
+        {
+          "startUid": "u0237",
+          "endUid": "u0247",
+          "quote": "Ah! And then, um, the images fade and the water turns to mist, and you can see through the mists, um, a muddy river, cliff, jagged cliffs, a shadowy realm, and the gods, the voice of the gods fades and leaves you to your companions."
+        },
+        {
+          "startUid": "u0312",
+          "endUid": "u0315",
+          "quote": "I mean, there, you can see like occasionally through— every now and then it'll clear a little bit, and there's like a muddy, a muddy river bank. That seems like what you would appear next to if you stepped through the veil, but it's dim and shadowy."
+        }
+      ],
+      "place": "p03",
+      "mode": "remote",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0319",
+        "endUid": "u0353"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Holding the rope, the four step through the mists and arrive on a muddy riverbank in Morkalan.",
+      "evidence": [
+        {
+          "startUid": "u0321",
+          "endUid": "u0328",
+          "quote": "For a moment you pass through these mists. You hear the screams of battle, dark shapes moving, flicker of flames, and then that you pass through, and you find yourself standing on a muddy river bank."
+        },
+        {
+          "startUid": "u0350",
+          "endUid": "u0353",
+          "quote": "Yeah, it's clear that this is Morkalan. This is the Shadowfell realm where this dwarf Hagrim you are sent to judge, must be found."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "through a magical veil"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0329",
+        "endUid": "u0344"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the entry riverbank, the party sees the statue, cliff-base lanterns and distant campfires above the cliffs.",
+      "evidence": [
+        {
+          "startUid": "u0329",
+          "endUid": "u0337",
+          "quote": "The sky is dim and cloudy, the feeble light of the sun barely noticeable, the landscape gray and dull. To your left, a cliff looms out of the mist, stretching maybe one hundred and fifty feet in the air, and running north as far as you can see along the edge of the river, across the river from where you're standing, to the right, a flat plain stretches into the distance, swirling clouds of ash and dust lifted by winds you cannot feel or see. Um, ahead of you, its distance and size almost impossible to judge, but probably at least fifty feet high, stands a massive statue. It looks vaguely like a warrior. It is holding an axe and a shield, but where its head should be simply sits a massive skull, and it seems to be standing on a pile of bones at least ten, fifteen feet high."
+        },
+        {
+          "startUid": "u0338",
+          "endUid": "u0344",
+          "quote": "A— across sort of in the same direction as the statue, but across the river from it, on the tops of the cliffs you can see flickering lights of a small handful of campfires, and a little closer to you than the campfires, at the base of the cliffs, a few lanterns glimmer in the gloom, perhaps marking some kind of settlement of sorts. You see no animals, no signs of life, nothing moving, hardly any sound at all."
+        }
+      ],
+      "place": "p14",
+      "mode": "local",
+      "observerPlace": "p03",
+      "note": "The camp identity is clarified by Dworic later; these lights do not establish a visit."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0430",
+        "endUid": "u0569"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party walks roughly four hours toward Bleakhold’s lanterns, pauses behind a rock outcrop, then approaches the patrol outside the entrance.",
+      "evidence": [
+        {
+          "startUid": "u0448",
+          "endUid": "u0448",
+          "quote": "So you begin walking."
+        },
+        {
+          "startUid": "u0450",
+          "endUid": "u0461",
+          "quote": "The time doesn't seem to— your, your sense of movement is, is odd, right? You walk, and the landscape doesn't seem to change much as you walk, but every now and then you look up, and it does seem like perhaps the lights are getting closer. A few hours. You've gone maybe four or five, six, eight miles. It's hard to judge, but details are beginning to become apparent. You can see what look like buildings jutting out from the cliff, crudely shaped of mud and rock. Some, you know, some beginning to collapse a little bit, but some lights hanging outside, others— that."
+        },
+        {
+          "startUid": "u0462",
+          "endUid": "u0470",
+          "quote": "And as you go another hour, maybe another three, four miles. You can see that there's a, um, this little cluster of buildings is clustered around like a large central cave opening that's been hollowed out, and you can see now maybe two, three, five, six, eight miles away from you. It's hard to say, but every now and then you'll see a little bit of movement. Aye, people, animals. It's difficult to tell at this distance,"
+        },
+        {
+          "startUid": "u0471",
+          "endUid": "u0476",
+          "quote": "But as you continue walking—stop me if you want to stop walking— uh you see now, uh, maybe four hours after you first first entered. Although the sun doesn't seem to move in the sky, whatever light there is, so it's difficult to judge the passage of time."
+        },
+        {
+          "startUid": "u0500",
+          "endUid": "u0509",
+          "quote": "Get closer. About three, four hundred feet from the from the settlement. There's a rock outcrop and you can crouch behind, and you can now clearly see these are four dwarves wearing what looked like badly maintained chainmail armor, and two of them wearing helmets, carrying—that especially, I mean, even at this distance, um, Merash, to your eye, given your your smithing experience, these, you know, the the axe and the two swords and the hammer that the four dwarfs carry are, um, you would say, almost in shockingly poor state of repair. This is, you would be ashamed to be associated with these weapons."
+        },
+        {
+          "startUid": "u0558",
+          "endUid": "u0559",
+          "quote": "You walk forward, and and as you begin to approach, I mean you are the two plate-armored, heavy-weapon-carrying dwarves are not quiet."
+        },
+        {
+          "startUid": "u0562",
+          "endUid": "u0569",
+          "quote": "You get maybe a hundred feet. You, you get about halfway across the sort of open stretch from behind this, this little outcropping to towards the village, when when one of them, one of these four dwarves, stops, sort of turns slowly to look at you and like blinks um kind of shakes his head and looks up at you, says, \"Who are you?\""
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Aggregate narrated travel, not the sum of the successive estimates."
+      },
+      "route": [
+        {
+          "reading": "Follow the cliff toward the village lanterns; campfires remain above the cliff."
+        },
+        {
+          "reading": "Crouch behind a rock outcrop three or four hundred feet from the settlement."
+        },
+        {
+          "reading": "Leave cover and cross part of the open ground to speak to the patrol, remaining outside the village."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0717",
+        "endUid": "u0723"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party passes the guards and enters the central village cavern.",
+      "evidence": [
+        {
+          "startUid": "u0717",
+          "endUid": "u0723",
+          "quote": "So you pass the guards then, and enter into the sort of central chamber of the village, and this is arrayed, as many relatively small dwarven villages are, with sort of an entry chamber, and then it opens into a larger cavern. Um, that has both, ah, some buildings sort of in the on the cave floor kind of stacked three, four stories high, climbing up the sides, and then as well some some dwellings and other buildings that have been carved directly out of the cliff. So, as you enter, as you end, pass through this sort of entryway cliff and open into this, um, larger expanse. It's maybe a, you know, a large cavern, maybe a few hundred feet across, and maybe thirty feet tall."
+        }
+      ],
+      "from": "p07",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0828",
+        "endUid": "u0838"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The dwarves knock at the old woman’s house; she speaks from the doorway and refuses them.",
+      "evidence": [
+        {
+          "startUid": "u0828",
+          "endUid": "u0828",
+          "quote": "Knock on the door and ask if you like a drink."
+        },
+        {
+          "startUid": "u0829",
+          "endUid": "u0838",
+          "quote": "You knock on the door, and like pulls it open like a tiny bit, so she can. She can peer out, and she's probably at least two hundred, maybe older. Her hair has gone totally white, is like tied up in a long ponytail in the back, wrinkled gray face. Uh, leaning over, you know a little bit, looks at you and says, \"No strangers,\" goes to shut the door."
+        },
+        {
+          "startUid": "u0850",
+          "endUid": "u0853",
+          "quote": "She kind of goes to shut the door again, and she says, \"Mead, maybe. Don't care for ale.\" Slams the door shut."
+        }
+      ],
+      "from": "p05",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0883",
+        "endUid": "u0921"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After hearing metalwork, the party is invited into Dworic’s house.",
+      "evidence": [
+        {
+          "startUid": "u0883",
+          "endUid": "u0889",
+          "quote": "You knock on the door, here, I— muttering under breath in Dwarvish, like it sounds like a the elderly voice of an elderly man. \"Who could that be?\" Now it— One moment."
+        },
+        {
+          "startUid": "u0914",
+          "endUid": "u0916",
+          "quote": "Wouldn't call it a shop, but come in. Come in. Don't just stand there, somebody will see you."
+        },
+        {
+          "startUid": "u0920",
+          "endUid": "u0921",
+          "quote": "All right, I'd kind of go inside in. What could go wrong?"
+        },
+        {
+          "startUid": "u0928",
+          "endUid": "u0929",
+          "quote": "And these—poorly equipped fellows trailing behind you."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1129",
+        "endUid": "u1154"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party goes next door and meets Rurik in his house.",
+      "evidence": [
+        {
+          "startUid": "u1129",
+          "endUid": "u1130",
+          "quote": "All right. Let's head to the sobbing house before Riswynn can't resist the urge to reforge that sword any longer."
+        },
+        {
+          "startUid": "u1131",
+          "endUid": "u1136",
+          "quote": "So you knock on the door next door. So as you knock on it the door just kind of swings open like it hasn't, it's not locked or barred, or anything, and as you knock it, just creaks open, and you can see this is a larger house than the one next door that I'm— the smith's house was basically just a single room with a bed. Um, just his like, you know, tools."
+        },
+        {
+          "startUid": "u1137",
+          "endUid": "u1148",
+          "quote": "Um, this is at least at least three rooms, and it goes. It's up against the wall of the cave, and then goes back, and, unlike, ah, the smith's house, where he seemed perfectly content to just rely on dark vision and see everything in shades of gray. Um! There's a lantern here, and you can see that there's like a few splashes of color, even like there's a a red blanket that's worn to bits, and as you, you, as the door sort of swings open, a dwarf of indeterminate age, maybe at least middle-aged, who's been kind of was dressed in just plain, plain sort of clothes. Nothing fancy, drab. Wears a silver ring around his neck. Again, I haven't seen anybody else with jewelry or adornments, or anything, and he he looks up from the table in the middle of the room that you enter as the door swings open. He yes,"
+        },
+        {
+          "startUid": "u1261",
+          "endUid": "u1261",
+          "quote": "He looks around, and there's like this small sort of clay mug he puts down."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1499",
+        "endUid": "u1557"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leaving Bleakhold, the party follows the river north past the statue’s ford and tracks footprints to a switchback.",
+      "evidence": [
+        {
+          "startUid": "u1499",
+          "endUid": "u1506",
+          "quote": "Okay, so we pick up as you leave the village to the north. Um. Heading, I assume, relatively, quietly, as best you can, not drawing attention to yourself, anyway, north along the river. And as you walk,"
+        },
+        {
+          "startUid": "u1511",
+          "endUid": "u1524",
+          "quote": "I was just gonna say um, Riswynn. Ah, you notice, um, whether you're trained in Survival, you definitely see there's an obvious trail. You'll have to like, you know. You have to investigate a little bit, figure out anything more, but just from your sort of basic observation, passive survival ability. You can at least see that there's a trail going north that you know somebody has cleared some like brush out of the way, and it sort of, you know, moves along the you know, around the the mud, so like you're, you know, it's a relatively clear—this is different than what you saw to the south. It's not like, it's pretty— it's quite hard to get lost, right? I mean, you're following the river, but it— somebody or several somebody have at least taken the time to clear obvious obstacles. As you proceed north, the the trail continues about as far as the, um, as the place where you would cross a another ford of the river, sort of right next to the statue."
+        },
+        {
+          "startUid": "u1525",
+          "endUid": "u1528",
+          "quote": "And this massive statue, now, as you get closer, you can see that there's a fortifications constructed around its base, just crude walls mostly, and the bones that you saw from a distance. The piles of bones are all sort of heaped on the top of this this fortification. There's like bones falling, tumbling off the sides, and the trail kind of peters out right about at this point. The obvious trail, anyway."
+        },
+        {
+          "startUid": "u1532",
+          "endUid": "u1539",
+          "quote": "Oh, yeah, that's definitely enough. You see, um, there are footprints look like leather boots of somebody. It's— it's fairly obvious. It's not too difficult to see in the mud that there's footprints leading north, sort of picking their way past where this trail ends. Continuing along the river, you follow the footprints for four miles, maybe."
+        },
+        {
+          "startUid": "u1550",
+          "endUid": "u1557",
+          "quote": "When you get to this point, maybe three four miles north of the um Ah! the north of the statue. The footprints in the mud end, but you can see there's like a almost like a little bit of a switch-back trail that leads up the side of the cliff here, and that there's like loose rocks and things that have tumbled down like probably somebody's ascended at this point in the past week or so."
+        }
+      ],
+      "from": "p10",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Leave the village northward along the river.",
+          "place": "p05"
+        },
+        {
+          "reading": "Pass the ford beside the statue; do not cross or enter its fortifications.",
+          "place": "p11"
+        },
+        {
+          "reading": "Follow the footprints about four miles beyond the statue to the cliff path."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1575",
+        "endUid": "u1659"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn leads the single-file ascent and reaches the clifftop lip, seeing the creatures at the blocked cave.",
+      "evidence": [
+        {
+          "startUid": "u1573",
+          "endUid": "u1573",
+          "quote": "I'll go first."
+        },
+        {
+          "startUid": "u1575",
+          "endUid": "u1580",
+          "quote": "Um, make a, make a Perception check when, as you ascend. It's, when you're a little bit below the lip of the cliff, you hear, uh, I'm kind of a scrabbling sound, like something sort of pawing at dirt or pawing at rocks in the distance, maybe a hundred feet away from you."
+        },
+        {
+          "startUid": "u1592",
+          "endUid": "u1609",
+          "quote": "Okay. So when you get up when you get to the top, you see ahead of you, maybe forty feet in the distance, um, fifty feet in the distance, um, there's what looks like the entrance, there's like, so there's like piles of rock, and there's like a couple sort of levels of the cliff that like step up a little bit, so it's like you've come to the cliff edge and then about fifty, sixty feet. There's a shorter cliff edge, and there's a cave in that um shorter cliff edge, and they're which has. There's been a cave in, and you see um five, you know, six um like creatures. They look, they look vaguely like dwarves, but they are rotted ah, like they look. They look sort of like the like, you know, the like movie cartoon thing, where somebody like ages super fast until they get super old and then die, right? They look like that sort of like wrinkled, shriveled, like clearly not looking really exactly human anymore. They have um the same type of weapons in poor repair, or four out of the five of them have the same type of weapons in poor repair as the guards did. And they're kind of um. They're like scrabbling at the rocks, and one of them is like crouched down and like sniffing at the rocks. And they're like trying to pick their way through this cave-in."
+        },
+        {
+          "startUid": "u1649",
+          "endUid": "u1659",
+          "quote": "Riswynn is coming up on the top. I'm just going to draw this here. We'll just, at the top of the cliff, runs like where this green line is, for simplicity. So if you're below that, you're on the path, Riswynn would have just come up to the top. Everybody else is on the path in whatever order you were in, um. And now I got to start combat. Oh, I think that's okay. Okay. Well, this is totally broken. Okay,"
+        }
+      ],
+      "from": "p16",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk and climb",
+      "note": "At initiative setup the other dwarves are still on the path, while Rothfis has begun flying; this arrival applies only to Riswynn."
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u2190",
+        "endUid": "u2216"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the fight, the party is gathered outside the blocked cave and hears someone inside.",
+      "evidence": [
+        {
+          "startUid": "u2003",
+          "endUid": "u2003",
+          "quote": "Yeah, okay, you land Thor-style on the ground."
+        },
+        {
+          "startUid": "u2038",
+          "endUid": "u2040",
+          "quote": "All right. So I moved closer to the fray. One, two, three, four, five"
+        },
+        {
+          "startUid": "u2190",
+          "endUid": "u2191",
+          "quote": "Well, that went surprisingly well. This calls for a drink out of the flask, pouring a round. Are any of the ghosts still visible? Or are they like gone?"
+        },
+        {
+          "startUid": "u2208",
+          "endUid": "u2216",
+          "quote": "So silence falls. You hear like a little plunk like a small rock being pushed out from the rockslide, and a shaky voice, \"Hello?\""
+        },
+        {
+          "startUid": "u2134",
+          "endUid": "u2138",
+          "quote": "Okay, I guess I could dash again. The dash should get me in melee range, anyway. Okay, yeah, I'll do that. And then, uh, is that my bonus action?"
+        },
+        {
+          "startUid": "u2179",
+          "endUid": "u2179",
+          "quote": "We'll run in and Shocking Grasp them."
+        },
+        {
+          "startUid": "u2188",
+          "endUid": "u2189",
+          "quote": "You still kill him. You go up about three feet and come back."
+        }
+      ],
+      "place": "p12"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2362",
+        "endUid": "u2420"
+      },
+      "actors": [
+        "party",
+        "Tak"
+      ],
+      "reading": "Tak leads the party north along the cliff for an hour toward Nora; her prominence remains about a mile ahead.",
+      "evidence": [
+        {
+          "startUid": "u2362",
+          "endUid": "u2364",
+          "quote": "What is this world you speak of? He begins walking along the cliff to the north."
+        },
+        {
+          "startUid": "u2370",
+          "endUid": "u2370",
+          "quote": "I think we should follow him."
+        },
+        {
+          "startUid": "u2371",
+          "endUid": "u2371",
+          "quote": "Yes, for sure."
+        },
+        {
+          "startUid": "u2401",
+          "endUid": "u2411",
+          "quote": "So as you walk, listening to Riswynn tell the story of a band of adventurers fighting their way through a dwarven ruin, finding fortress of demonic gnolls, killing a demon, rescuing a lost adventurer, are recovering a precious heirloom of the Brawnanvil family. Um! But over the course of an hour, you see like Tak's eyes light up, and he sort of starts to follow Riswynn around. She is definitely a hero. That is what heroes are. I, I didn't, I didn't think they existed."
+        },
+        {
+          "startUid": "u2412",
+          "endUid": "u2420",
+          "quote": "And as you walk, you see ahead maybe a mile or so, there's a prominence that rises that has a great view back to back to the statue, floating on the top of this prominence, staring at the giant statue, the ghost of an old dwarven woman, and that is where we will stop for tonight."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "underway",
+      "mode": "walk",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Narrated elapsed walk before the session cutoff."
+      },
+      "route": [
+        {
+          "reading": "Walk along the northern clifftop path, telling Tak an adventure story.",
+          "place": "p17"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u2412",
+        "endUid": "u2420"
+      },
+      "actors": [
+        "party",
+        "Tak"
+      ],
+      "reading": "Ahead on the prominence, the party sees an old dwarven woman’s ghost watching the statue.",
+      "evidence": [
+        {
+          "startUid": "u2412",
+          "endUid": "u2420",
+          "quote": "And as you walk, you see ahead maybe a mile or so, there's a prominence that rises that has a great view back to back to the statue, floating on the top of this prominence, staring at the giant statue, the ghost of an old dwarven woman, and that is where we will stop for tonight."
+        }
+      ],
+      "place": "p13",
+      "mode": "local",
+      "observerPlace": "p17",
+      "observedActors": [
+        "old dwarven woman’s ghost"
+      ],
+      "note": "Tak has just offered to lead them to Nora. Her identity is contextual, and no conversation or arrival occurs before the cutoff."
+    }
+  ]
+}

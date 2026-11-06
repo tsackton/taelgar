@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-time-markers.json",
+    "sha256": "d245077453a713f1b01e2cf001feb46153e5b774d65a91f0fe3dd5d6676d1f54"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-transcript.md",
+    "sha256": "4a5347c0600dc38b264c1617fde51c8004b9a27dd58e2d6de02c720aa966fa42"
+  },
+  "dateAssessment": "Working dates use the YAML’s August 24–25, 1748 window. The four markers establish elapsed play but leave the civil watches open; Morkalan’s fixed sun supplies no clock. Session 49’s morning departure from Chardon (u3655–u3667) matches Riswynn’s summoning and held chalice here (u0003–u0014, u0073–u0085), but the divine and planar transition is unmeasured. Rurik’s isolated “leave me tonight” remains an uncorroborated local expression. No completed overnight or date transition confirms the YAML’s single boundary. Assessment: compatible, with absolute dates and the boundary unverified.",
+  "watches": [
+    {
+      "day": "During August 24–25, 1748",
+      "dateWindow": [
+        "1748-08-24",
+        "1748-08-25"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Roughly four hours walking after entry; the successive estimates describe one approach to Bleakhold.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Approach"
+    },
+    {
+      "day": "During August 24–25, 1748",
+      "dateWindow": [
+        "1748-08-24",
+        "1748-08-25"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Tak reads for two minutes, then shifts rocks and emerges about five minutes later.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "scope": "Cave rescue"
+    },
+    {
+      "day": "During August 24–25, 1748",
+      "dateWindow": [
+        "1748-08-24",
+        "1748-08-25"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "An hour passes as Tak leads the party north and listens to Riswynn’s story.",
+      "markers": [
+        "t04"
+      ],
+      "scope": "Northern cliff path"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 49 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-transcript.md",
+      "sha256": "255f7eea38b61ccb684fe1bb52a7c0abcd1794d46539e6eb88091e95ba8e7978"
+    },
+    {
+      "label": "Session 49 time evidence",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-time-markers.json",
+      "sha256": "6d1c292d7f52aea135aa36c64d44ca72613aebb472d5865307e91556ee9310c9"
+    }
+  ]
+}
