@@ -1,0 +1,674 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-114",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-session.yaml",
+    "sessionYamlSha256": "947480b2535c415b7628231721fd8f331f98fe5fb96ec3cd49e9c3259554ffc6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-transcript.md",
+    "transcriptSha256": "19775e9137a56baf948e068ea42c516e65cb5b81fa06937f36601adae02675c2",
+    "yamlDates": {
+      "start": "1749-05-22",
+      "end": "1749-05-23"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "reading": "The party is back in the Temple of the Eight Divines as night falls, after sunset.",
+      "actors": [
+        "party"
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM opening anchor; no absolute date spoken"
+      },
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "Okay. So we begin back in the Temple of the Eight Divines in Drankor as night falls."
+        },
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "the darkness you feel as the sun has now set as well is out there"
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0040",
+        "endUid": "u0044"
+      },
+      "reading": "The party completes an overnight long rest and wakes in the morning, subsequently described as being up at dawn.",
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention; not a measurement of the full sunset-to-morning interval"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "morning transition, refined by the later dawn statement"
+      },
+      "evidence": [
+        {
+          "startUid": "u0040",
+          "endUid": "u0040",
+          "quote": "And so, as you settle in for the night, take a long rest."
+        },
+        {
+          "startUid": "u0042",
+          "endUid": "u0044",
+          "quote": "You find yourself—I mean, obviously, if you want to role play anything at night, you can. But I think it's simple to just skip to the morning. You find yourself now in the morning."
+        },
+        {
+          "startUid": "u0255",
+          "endUid": "u0255",
+          "quote": "I mean, you're up at dawn, so you've got 12 h of daylight."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0165",
+        "endUid": "u0166"
+      },
+      "reading": "The party spends an hour on Heroes’ Feast before leaving the temple; its protection and benefits are subsequently applied.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "proposed hour-long meal accepted and resolved by the applied spell benefits"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0165",
+          "endUid": "u0165",
+          "quote": "But we're sitting around talking about this, perhaps while we spend an hour having a Heroes' Feast, because otherwise we're going to be terrified as soon as we leave the building."
+        },
+        {
+          "startUid": "u0166",
+          "endUid": "u0166",
+          "quote": "Yeah, if yeah, we should do so."
+        },
+        {
+          "startUid": "u0234",
+          "endUid": "u0235",
+          "quote": "So everybody gets—increase your max hit points by 12 from Heroes' Feast. You don't know anything about Minarith, except that he was a peronar."
+        },
+        {
+          "startUid": "u0270",
+          "endUid": "u0272",
+          "quote": "So, with the protection now against fear from Heroes' Feast you step out of the temple onto the streets of Drankor. Heading to the docks. So on the map. Where are you going, exactly?"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0304",
+        "endUid": "u0309"
+      },
+      "reading": "The four adventurers are walking through Drankor at approximately 8 a.m.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "time": {
+        "clock": "08:00",
+        "precision": "approximate",
+        "basis": "DM says at what, like 8 AM"
+      },
+      "evidence": [
+        {
+          "startUid": "u0304",
+          "endUid": "u0309",
+          "quote": "At what, like 8 AM, the oppressive humidity of the day, the bright sun beating down on you makes the city—the sort of ruins that you're tramping through—seem even more yeah, close in, and even without the trees growing through the middle, it feels close and and quiet and haunted."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0615",
+        "endUid": "u0616"
+      },
+      "reading": "The invisible party waits another five minutes while the shades move past.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "explicit additional wait, not the Invisibility spell duration"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0609",
+          "endUid": "u0614",
+          "quote": "They drift down the road, come in your direction, but don't seem particularly aware of you."
+        },
+        {
+          "startUid": "u0615",
+          "endUid": "u0616",
+          "quote": "You wait another 5 min. They move past."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0624",
+        "endUid": "u0634"
+      },
+      "reading": "A few more minutes of walking bring the party near the Custom House and sailors’ district.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "text": "a few more minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates elapsed walking"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0624",
+          "endUid": "u0634",
+          "quote": "as the—you go, maybe 3, 400 feet, just a few more minutes of walking."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0678",
+        "endUid": "u0686"
+      },
+      "reading": "After half an hour searching the tavern district, the party finds the wave-carved doorway.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "explicit completed search duration"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0678",
+          "endUid": "u0686",
+          "quote": "So. A good fraction of these taverns and inns are, you know, there's nothing discernible. You do come, you know, after half an hour of searching, you come to one area slightly north, so sort of heading, maybe up a little bit closer to the Customs House, where there are 2 slightly more intact taverns across the street from each other, one has walls still standing, maybe 10 to 15 feet tall, although there's no roof, and the upper floors have collapsed into rubble that chokes the interior. The door is rotted away, but you can see there's like an arch above the door with stone stone carvings with 2 like waves that curl into a crescent."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1312",
+        "endUid": "u1314"
+      },
+      "reading": "The party spends fifteen minutes searching the Laughing Wave’s rubble after the fight.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM establishes elapsed rubble search"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1312",
+          "endUid": "u1314",
+          "quote": "Okay, go ahead and everybody roll perception check. You spend 15 min searching in the rubble. I actually have to pay attention because you're not guaranteed to roll."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1341",
+        "endUid": "u1342"
+      },
+      "reading": "The post-search discussion in the Laughing Wave is still early morning, no later than about nine.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "time": {
+        "clock": "09:00",
+        "precision": "approximate",
+        "basis": "DM upper estimate: Like 9 at the latest now; not an exact clock reading"
+      },
+      "evidence": [
+        {
+          "startUid": "u1341",
+          "endUid": "u1341",
+          "quote": "Yeah, I mean, still early in the morning, right? What's another 15 min moving rubble and looking for pieces of shattered bowl?"
+        },
+        {
+          "startUid": "u1342",
+          "endUid": "u1342",
+          "quote": "Like 9 at the latest now."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1351",
+        "endUid": "u1354"
+      },
+      "reading": "The party takes about half an hour to clear the cellar door and reassemble the punch bowl; the magical clearance finishes sooner within that interval.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM elapsed estimate for parallel tasks"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1344",
+          "endUid": "u1346",
+          "quote": "Cleared the—in— Some of us work on reassembling that, and some of us work on clearing the cellar trapdoor. Got it? Yeah."
+        },
+        {
+          "startUid": "u1347",
+          "endUid": "u1349",
+          "quote": "And I can use mold earth to clear the rubble.\n\nDM: It—it would help, yeah, for sure.\n\nSeeker: Speed that up."
+        },
+        {
+          "startUid": "u1351",
+          "endUid": "u1354",
+          "quote": "So, as you—you know, you take half an hour or so. You get the—Seeker gets the cellar door clear pretty quickly, aided by magic. It does take a good bit of time to reassemble enough of this punch bowl to sort of see what it once was, but it seems to be depicting quite an intricate design that's showing—"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1556",
+        "endUid": "u1558"
+      },
+      "reading": "Riswynn casts Divination as a ten-minute ritual, receiving an answer about the docks.",
+      "actors": [
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "ritual duration stated and the question and answer resolved"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1556",
+          "endUid": "u1558",
+          "quote": "How long does it take you to cast?\n\nDM: 10 min as a ritual. Anybody want to do anything in those 10 min?"
+        },
+        {
+          "startUid": "u1587",
+          "endUid": "u1589",
+          "quote": "Okay, so what's your spell? What's your question for the gods?\n\nRiswynn: Is searching this and other tavern like buildings of this region, promising approach to look for the—"
+        },
+        {
+          "startUid": "u1598",
+          "endUid": "u1598",
+          "quote": "“The docks contain many clues about things that pass to and from Drankor, including those that Minarith sought.”"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1561",
+        "endUid": "u1570"
+      },
+      "reading": "The party takes a short rest in the cellar; the DM places its completion at about 10 a.m.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "time": {
+        "clock": "10:00",
+        "precision": "approximate",
+        "basis": "DM estimate of rest completion"
+      },
+      "completion": "completed",
+      "note": "Riswynn also accepts resting after her ritual; the DM offers an hour and ten minutes for her combined ritual/rest. The approximate clock does not support a minute-exact schedule.",
+      "evidence": [
+        {
+          "startUid": "u1561",
+          "endUid": "u1565",
+          "quote": "I mean, the cellar seems reasonably free of any immediate danger. If you want a short rest.\n\nDelwath: What do people think?\n\nKenzo: Yeah, definitely, I need, I need to get some ki back. That'd be great.\n\nSeeker: Yeah."
+        },
+        {
+          "startUid": "u1566",
+          "endUid": "u1570",
+          "quote": "So it'll be about 10 when you've finished. Go ahead. AM, boys.\n\nDelwath: Yeah, that's fine.\n\nDM: 10 AM. Yeah."
+        },
+        {
+          "startUid": "u1584",
+          "endUid": "u1586",
+          "quote": "Oh, I can expend—I can regain one expended use after finishing a short rest. Oh, cool.\n\nDM: Yeah.\n\nRiswynn: Fine. I will short rest."
+        },
+        {
+          "startUid": "u1609",
+          "endUid": "u1610",
+          "quote": "So, as you emerge back into the heat of the day after your rest, where do you want to head?"
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1571",
+        "endUid": "u1572"
+      },
+      "reading": "Riswynn is offered an hour and ten minutes for her ritual plus short rest and then accepts resting; this overlaps the group’s cellar pause.",
+      "actors": [
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 70,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM combined ritual/rest allowance, accepted when Riswynn elects to rest"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "t12"
+        }
+      ],
+      "note": "Includes t11’s ten-minute ritual and a conventional hour’s rest; do not add both totals to the party clock.",
+      "evidence": [
+        {
+          "startUid": "u1571",
+          "endUid": "u1572",
+          "quote": "Speaker will—do I need to forego the short resting to be praying?\n\nDM: I mean, you can—\n\nDM: Take a short rest for an hour and 10 min instead of an hour. It doesn't make that much difference."
+        },
+        {
+          "startUid": "u1584",
+          "endUid": "u1586",
+          "quote": "Oh, I can expend—I can regain one expended use after finishing a short rest. Oh, cool.\n\nDM: Yeah.\n\nRiswynn: Fine. I will short rest."
+        },
+        {
+          "startUid": "u1609",
+          "endUid": "u1610",
+          "quote": "So, as you emerge back into the heat of the day after your rest, where do you want to head?"
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1602",
+        "endUid": "u1607"
+      },
+      "reading": "Delwath retrospectively awards treats from the short rest back at breakfast, before the outing.",
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention applied to the retrospective breakfast credit"
+      },
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t04",
+          "anchor": "the 8 a.m. street journey"
+        },
+        "precision": "approximate",
+        "basis": "explicit back at breakfast reference"
+      },
+      "note": "The earlier ruling disallows resting while Heroes’ Feasting but permits an additional hour. The later credit does not establish whether that extra hour was taken; it adds no time after the cellar rest.",
+      "evidence": [
+        {
+          "startUid": "u1602",
+          "endUid": "u1607",
+          "quote": "Yeah. Yeah. Well, the Custom House at the other side of the street. Everybody—everybody, take heroic inspiration, by the way. Delwath's yummy treats after the short rest back at breakfast. I've had 8. Okay, one of those."
+        },
+        {
+          "startUid": "u0238",
+          "endUid": "u0250",
+          "quote": "You can't short rest while you're Heroes' Feasting.\n\nDelwath: Oh no! Why not? I'm not casting. I'm not casting Heroes' Feast.\n\nSeeker: Where you're eating.\n\nDM: You're like subject to a spell.\n\nDelwath: I—short rest—usually a meal usually is the key to a short rest. Right? I wouldn't. But whatever, I mean. I don't think Heroes' Feast involves—I don't know what—here, does Heroes' Feast involve like doing anything other than—\n\nDM: I just—I— It's the magical nature of Heroes' Feast, I think to me, anyway, implies that it's—\n\nRiswynn: A ritual that everyone gets involved with.\n\nDM: Exactly."
+        },
+        {
+          "startUid": "u0253",
+          "endUid": "u0255",
+          "quote": "It doesn't really matter if you wanna have it—I mean because you can always take another hour.\n\nDelwath: Right.\n\nDM: I mean, you're up at dawn, so you've got 12 h of daylight."
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1828",
+        "endUid": "u1829"
+      },
+      "reading": "Banishment removes the red mist for one minute while the party searches and escapes; its return is confirmed afterward.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "stated Banish duration plus explicit confirmation that the creature returned"
+      },
+      "completion": "completed",
+      "note": "The DM corrects the remaining window from the player’s fifteen-second estimate to four rounds / twenty-four seconds; no complete turn sequence is inferred from that countdown.",
+      "evidence": [
+        {
+          "startUid": "u1828",
+          "endUid": "u1834",
+          "quote": "Sorry. Let me just look at the spell. Okay, so it vanishes.\n\nDelwath: Okay, right? Let's, I mean, that was my action. I can't quite reach the chest. So my turn's over.\n\nSeeker: How long does this last? The Banish?\n\nDelwath: 1 min.\n\nSeeker: Oh!"
+        },
+        {
+          "startUid": "u1924",
+          "endUid": "u1928",
+          "quote": "I mean, we probably only have 15 seconds left.\n\nRiswynn: A minute's not bad.\n\nDM: No, you've got like 4 rounds left.\n\nDelwath: Okay. 24 seconds left.\n\nDM: 24 seconds left."
+        },
+        {
+          "startUid": "u1950",
+          "endUid": "u1951",
+          "quote": "So we'll grab the 100 scrolls. We'll run back into the main room and we'll come out to like here, right? And then a few minutes looking at what we got."
+        },
+        {
+          "startUid": "u1963",
+          "endUid": "u1965",
+          "quote": "I'm just gonna go check that this guy came back.\n\nDM: Came back.\n\nDelwath: Yeah, okay."
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1872",
+        "endUid": "u1879"
+      },
+      "reading": "The party spends six seconds glancing through the cabinet and learns that it holds shipping and tax records.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 0.1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "explicit six-second search, expressed in minutes"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t15"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1872",
+          "endUid": "u1879",
+          "quote": "Let's take 10. Let's take one, one round, 6 seconds, to quickly search, glance through the chest.\n\nKenzo: Yeah, what else is in there?\n\nSeeker: In parallel. We could see a lot.\n\nKenzo: Yeah, we can all spend our turn.\n\nDM: So a lot of it seems to be tax records. I mean you—you got 6 seconds. That's about all you learn. Shipping manifest, tax records."
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1901",
+        "endUid": "u1909"
+      },
+      "reading": "One further round is spent checking Detect Magic: the cabinet is magical and the scrolls show no immediate magic.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 0.1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "accepted one-more-round search; the preceding explicit six-second round sets the unit"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t15"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1901",
+          "endUid": "u1909",
+          "quote": "Cast Detect Magic. We'll take one more round to quickly look at detect magic. Then we'll skedaddle.\n\nDM: Alright!\n\nSeeker: Yeah, use the wand.\n\nDM: The chest itself is magical.\n\nSeeker: Right.\n\nRiswynn: We need it.\n\nDM: None of the scrolls seem to immediately be magical, although you still haven't figured out exactly why the Barazal told you to look here for clues about the peronar. But you can run. That's fine."
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2154"
+      },
+      "reading": "The party returns to the temple over the next hour, with Riswynn destroying a few undead en route.",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM compressed return after the group accepts returning to the temple"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2115",
+          "endUid": "u2130",
+          "quote": "So we've got 2 options here. I can just hand wave it. You can stumble across the university on your way back, or, since everybody's falling asleep, we could return to the Temple, and you could go out again when Schwartz is here next time.\n\nDelwath: I'm happy to save the University to do with Schwartz.\n\nKenzo: Yeah.\n\nSeeker: Yes.\n\nRiswynn: It's fine.\n\nDelwath: I mean.\n\nRiswynn: Early bedtime is good.\n\nDelwath: Because all we have left to do is find the university, and then go to the plane of the dead, right?\n\nDM: Yes.\n\nKenzo: Yeah, so we can do all that next time.\n\nDelwath: So we could do that next time.\n\nDM: Yeah.\n\nDelwath: Sounds good to me.\n\nDM: Let's do that. Then—then—"
+        },
+        {
+          "startUid": "u2152",
+          "endUid": "u2154",
+          "quote": "Maybe. So we will— For simplicity's sake we will say that you make your way back over the course of the next hour, Riswynn, destroying a few undead on the path. To the—"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute calendar date is spoken. May 22–23, 1749 comes from YAML; the sunset opening, completed overnight and following morning are independently narrated.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t02",
+      "t04",
+      "t09",
+      "t12",
+      "t18"
+    ],
+    "explanation": "The played interval runs from sunset through one completed overnight and the following morning expedition and return. Earlier research and Wellby’s yesterday expedition are opening recap, not additional days played here. The source supplies the one transition; drEnd supplies no missing elapsed time."
+  }
+}
