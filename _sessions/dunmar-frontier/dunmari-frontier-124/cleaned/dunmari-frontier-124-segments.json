@@ -1,0 +1,270 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-124",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-session.yaml",
+    "sessionYamlSha256": "bf40bd9b06c6c1b4981e210759ee202455c6fb4969d0ea38c2c600fe9271f534",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-transcript.md",
+    "transcriptSha256": "c08ea3b1788b8464d00629b77c973e2fd7f710ffe7eae228f36521e88863880c"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0027"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0028",
+        "endUid": "u0052"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0053",
+        "endUid": "u0062"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0063",
+        "endUid": "u0197"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0198",
+        "endUid": "u0228"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0229",
+        "endUid": "u0238"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0239",
+        "endUid": "u0246"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0247",
+        "endUid": "u0279"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0280",
+        "endUid": "u0476"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0477",
+        "endUid": "u0516"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0517",
+        "endUid": "u0841"
+      },
+      "category": "gameplay",
+      "note": "Kenzo and Wellby’s informal shadowboxing never establishes initiative or a repeated ordered turn cycle."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0842",
+        "endUid": "u0864"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0865",
+        "endUid": "u0973"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0974",
+        "endUid": "u1023"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1024",
+        "endUid": "u1084"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1085",
+        "endUid": "u1172"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1173",
+        "endUid": "u1189"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1190",
+        "endUid": "u1282"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1283",
+        "endUid": "u1345"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1346",
+        "endUid": "u1348"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1349",
+        "endUid": "u1355"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1356",
+        "endUid": "u1433"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1434",
+        "endUid": "u1454"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1455",
+        "endUid": "u1480"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u1481",
+        "endUid": "u1953"
+      },
+      "category": "gameplay",
+      "note": "The mirror and Dream conversations resolve an earlier evening inside the already narrated flight montage; they remain gameplay."
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u1954",
+        "endUid": "u1965"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u1966",
+        "endUid": "u1979"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u1980",
+        "endUid": "u1981"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s030",
+      "source": {
+        "startUid": "u1982",
+        "endUid": "u1996"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s031",
+      "source": {
+        "startUid": "u1997",
+        "endUid": "u2094"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s032",
+      "source": {
+        "startUid": "u2095",
+        "endUid": "u2102"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

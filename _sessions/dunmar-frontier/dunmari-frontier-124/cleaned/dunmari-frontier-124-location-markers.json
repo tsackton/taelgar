@@ -1,0 +1,591 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-124",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-session.yaml",
+    "sessionYamlSha256": "bf40bd9b06c6c1b4981e210759ee202455c6fb4969d0ea38c2c600fe9271f534",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-transcript.md",
+    "transcriptSha256": "c08ea3b1788b8464d00629b77c973e2fd7f710ffe7eae228f36521e88863880c"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "And drop in our. We start where we left off, which was where you all returned to Vindristjarna, parked above the Redstone house of the monks Pava and Avaras in the Dunmari Desert."
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "kind": "skyship",
+      "mobile": true
+    },
+    "p02": {
+      "label": "Redstone house of Pava and Avaras",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "And drop in our. We start where we left off, which was where you all returned to Vindristjarna, parked above the Redstone house of the monks Pava and Avaras in the Dunmari Desert."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md",
+      "kind": "house and grounds",
+      "note": "The source leaves room and gathering-ground boundaries unspecified. The linked house note describes a compound; this setting includes its nearby grounds.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0003",
+              "quote": "And drop in our. We start where we left off, which was where you all returned to Vindristjarna, parked above the Redstone house of the monks Pava and Avaras in the Dunmari Desert."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Dunmari Desert / Garamjala Desert",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "And drop in our. We start where we left off, which was where you all returned to Vindristjarna, parked above the Redstone house of the monks Pava and Avaras in the Dunmari Desert."
+        },
+        {
+          "startUid": "u1064",
+          "endUid": "u1065",
+          "quote": "Yeah, that's probably not—there's probably nothing obvious in the middle of the Garamjala Desert. Although you never know what ruins one might stumble upon. But—"
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert.md",
+      "kind": "region",
+      "aliases": [
+        "Dunmari Desert",
+        "Garamjala Desert"
+      ]
+    },
+    "p04": {
+      "label": "Childhood alley by the Chardon marketplace (dream)",
+      "evidence": [
+        {
+          "startUid": "u0744",
+          "endUid": "u0746",
+          "quote": "It'll be this little, this square in Chardon, where, when we were little kids like, you know, Kenzo and Xavier would go like run around and like in the marketplace, because they would go like steal food and stuff like that. And so there's like a particular stand that they would go to that had this, you know, kind of local Chardonian like set of sweets that they would like, go and steal stuff, and so they would often go there, steal this treat, and go to this alley around the corner and go eat it. And so in the dream, Kenzo kind of appears like with Xavier, like sitting in that alley where they used to sit when they were little kids, like eating there, eating the little, you know candies, or whatever that they stole from the market around the corner."
+        }
+      ],
+      "kind": "dream setting",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0744",
+              "endUid": "u0746",
+              "quote": "It'll be this little, this square in Chardon, where, when we were little kids like, you know, Kenzo and Xavier would go like run around and like in the marketplace, because they would go like steal food and stuff like that. And so there's like a particular stand that they would go to that had this, you know, kind of local Chardonian like set of sweets that they would like, go and steal stuff, and so they would often go there, steal this treat, and go to this alley around the corner and go eat it. And so in the dream, Kenzo kind of appears like with Xavier, like sitting in that alley where they used to sit when they were little kids, like eating there, eating the little, you know candies, or whatever that they stole from the market around the corner."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Chardon",
+      "evidence": [
+        {
+          "startUid": "u0744",
+          "endUid": "u0746",
+          "quote": "It'll be this little, this square in Chardon, where, when we were little kids like, you know, Kenzo and Xavier would go like run around and like in the marketplace, because they would go like steal food and stuff like that. And so there's like a particular stand that they would go to that had this, you know, kind of local Chardonian like set of sweets that they would like, go and steal stuff, and so they would often go there, steal this treat, and go to this alley around the corner and go eat it. And so in the dream, Kenzo kind of appears like with Xavier, like sitting in that alley where they used to sit when they were little kids, like eating there, eating the little, you know candies, or whatever that they stole from the market around the corner."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md",
+      "kind": "city"
+    },
+    "p06": {
+      "label": "Uzgukhar",
+      "evidence": [
+        {
+          "startUid": "u1325",
+          "endUid": "u1335",
+          "quote": "So you spend the day—or spend the morning saying goodbye, and Riswynn, with the 2 Orcs and Kethra, vanishes in a twinkle of golden light, teleporting back to Uzgukhar to begin quest.\n\n\nKenzo: Your teleport?\n\n\nRiswynn: No, I teleport with my Word of Recall today.\n\n\nRiswynn: Sanctuary, sanctuary there in Uzgukhar.\n\n\nKenzo: Wait! How do you teleport?\n\n\nRiswynn: I'm deeply, religiously connected to the sanctuary that I created in Uzgukhar.\n\n\nKenzo: Oh!\n\n\nRiswynn: So I have a spell called word of recall."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md",
+      "kind": "city"
+    },
+    "p07": {
+      "label": "Riswynn’s sanctuary in Uzgukhar",
+      "evidence": [
+        {
+          "startUid": "u1330",
+          "endUid": "u1335",
+          "quote": "No, I teleport with my Word of Recall today.\n\n\nRiswynn: Sanctuary, sanctuary there in Uzgukhar.\n\n\nKenzo: Wait! How do you teleport?\n\n\nRiswynn: I'm deeply, religiously connected to the sanctuary that I created in Uzgukhar.\n\n\nKenzo: Oh!\n\n\nRiswynn: So I have a spell called word of recall."
+        }
+      ],
+      "kind": "sanctuary",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1330",
+              "endUid": "u1335",
+              "quote": "No, I teleport with my Word of Recall today.\n\n\nRiswynn: Sanctuary, sanctuary there in Uzgukhar.\n\n\nKenzo: Wait! How do you teleport?\n\n\nRiswynn: I'm deeply, religiously connected to the sanctuary that I created in Uzgukhar.\n\n\nKenzo: Oh!\n\n\nRiswynn: So I have a spell called word of recall."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Karawa",
+      "evidence": [
+        {
+          "startUid": "u1445",
+          "endUid": "u1447",
+          "quote": "Crossing Karawa probably. Let's see, that's 15 h. So as this, let's see from—yeah, so you leave like mid-afternoon. So like as the sun is rising, you cross high above the red mesa and see the city of Karawa laid out below you."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+      "kind": "settlement"
+    },
+    "p09": {
+      "label": "Tokra",
+      "evidence": [
+        {
+          "startUid": "u1448",
+          "endUid": "u1449",
+          "quote": "From there, over the course of the next day you travel across the plains, reaching reaching Tokra roughly by the next dawn."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md",
+      "kind": "city"
+    },
+    "p10": {
+      "label": "Songara",
+      "evidence": [
+        {
+          "startUid": "u1450",
+          "endUid": "u1451",
+          "quote": "From there, turning somewhat slightly northwest and flying over the Songara plains, reaching the city of Songara by the next dawn as well."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Songara.md",
+      "kind": "city"
+    },
+    "p11": {
+      "label": "Tree at the center of the ship",
+      "evidence": [
+        {
+          "startUid": "u1895",
+          "endUid": "u1907",
+          "quote": "Here, Vola, come, come with me. Come with me. Kenzo walks Vola over to the the tree that's growing in the middle of the ship. And Kenzo kind of pauses at the ship—at the tree. Where did this tree come from again?\n\n\nDM: The Orenlas.\n\n\nKenzo: And.\n\n\nDM: It's an elven—it's an elven tree.\n\n\nKenzo: Yeah.\n\n\nKenzo: Come, come if you're you're up for it. Come and sit with me, and let's just let's just sit for for a little bit. Is she—\n\n\nDM: Yeah, she'll follow you, and she'll sit.\n\n\nKenzo: Yeah, so I just, I just sit with Vola next to the tree. And like, you know, basically like, offer a blessing like with the tree with Vola, and just kind of sit in meditation with her. And you know it's just like totally like her reality is all messed up. And just, you know, giving her kind of a container to just start the process of letting things settle. No more questions, no more anything."
+        }
+      ],
+      "kind": "onboard meditation setting",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1895",
+              "endUid": "u1898",
+              "quote": "Here, Vola, come, come with me. Come with me. Kenzo walks Vola over to the the tree that's growing in the middle of the ship. And Kenzo kind of pauses at the ship—at the tree. Where did this tree come from again?\n\n\nDM: The Orenlas.\n\n\nKenzo: And.\n\n\nDM: It's an elven—it's an elven tree."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Forest clearing (Marcella dreamscape)",
+      "evidence": [
+        {
+          "startUid": "u1908",
+          "endUid": "u1918",
+          "quote": "So, while Kenzo and Vola meditate, Delwath sinks into a dream state and reaches out towards Marcella.\n\n\nDM: And you find yourself appearing in a dreamscape, looking, however, you'd like.\n\n\nDM: Marcella, dressed in sort of you know, studded leather armor like greens and browns carrying a bow, seems to be looking well.\n\n\nDelwath: But it's just like a forest, and sort of clearing in a forest or something.\n\n\nDelwath: I'll call out to her.\n\n\nDM: Kenzo. Strange visitor in the night.\n\n\nDelwath: But—\n\n\nDM: Or Delwath, strange visitor in my dreams."
+        }
+      ],
+      "kind": "dream setting",
+      "note": "Marcella reports being on the Aurbez Plateau, but the dream clearing does not establish a physical visit there or identify her actual clearing."
+    },
+    "p13": {
+      "label": "Off the north coast of Apporia",
+      "evidence": [
+        {
+          "startUid": "u2030",
+          "endUid": "u2034",
+          "quote": "So I mean, what if we—Tim, what if we just took an arc from Songara and actually went over the mountains, crossed the Emerald Bay, cut north over the Apporian Peninsula, and then parked the ship off the north coast far enough away that it's like not very obvious, and then just teleport to Chardon?\n\n\nDM: Okay."
+        }
+      ],
+      "kind": "planned offshore holding area",
+      "note": "The accepted detour aims for this area. Neither arrival nor a precise holding point is narrated in the current transcript."
+    },
+    "p14": {
+      "label": "Apporian Peninsula",
+      "evidence": [
+        {
+          "startUid": "u2030",
+          "endUid": "u2042",
+          "quote": "So I mean, what if we—Tim, what if we just took an arc from Songara and actually went over the mountains, crossed the Emerald Bay, cut north over the Apporian Peninsula, and then parked the ship off the north coast far enough away that it's like not very obvious, and then just teleport to Chardon?\n\n\nDM: Okay.\n\n\nDelwath: How much time does that add?\n\n\nDelwath: Doesn't—I don't—doesn't really matter. What do we care what time, how long it takes? As long as it's not more than a couple days.\n\n\nDM: So—\n\n\nDM: You're talking about—\n\n\nDelwath: It's like it would be like a thousand miles from—\n\n\nDM: You're talking about like maybe 1,400 miles depending on if you're trying to—I mean crossing Apporia in—hidden is going to be a little tricky, but, like, manageable. This is from Songara, 1,400 miles versus 750 miles, as the crow flies, straight to Chardon."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Apporia.md",
+      "kind": "peninsula"
+    },
+    "p15": {
+      "label": "Emerald Bay",
+      "evidence": [
+        {
+          "startUid": "u2030",
+          "endUid": "u2034",
+          "quote": "So I mean, what if we—Tim, what if we just took an arc from Songara and actually went over the mountains, crossed the Emerald Bay, cut north over the Apporian Peninsula, and then parked the ship off the north coast far enough away that it's like not very obvious, and then just teleport to Chardon?\n\n\nDM: Okay."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Emerald Bay.md",
+      "kind": "bay"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the ship parked above the monks’ house in the desert.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "And drop in our. We start where we left off, which was where you all returned to Vindristjarna, parked above the Redstone house of the monks Pava and Avaras in the Dunmari Desert."
+        },
+        {
+          "startUid": "u0063",
+          "endUid": "u0064",
+          "quote": "So okay, given that, let me start some music. So let's pick up as you return from the Feywilds on the Rainbow Bridge to Vindristjarna, parked above the Dunmari Desert."
+        },
+        {
+          "startUid": "u0087",
+          "endUid": "u0092",
+          "quote": "The ship itself is parked, maybe only 25–30 feet above the house. And as you arrive, everybody, you know, sort of turns and looks to greet you. But it's a it's a quiet scene. It's a peaceful scene. Everybody seems sort of calm, and maybe not exactly surprised to see you, figuring, oh, you'd show up at some point. Eventually Faldrak emerges from the deck when you appear, and sort of gives you a wave and begins to scramble down the ladder to speak."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p02",
+          "note": "Temporarily parked roughly 25–30 feet above the house."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0521",
+        "endUid": "u0524"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group relaxes at the well-provisioned house and gathers for the sunset meal on the nearby grounds.",
+      "evidence": [
+        {
+          "startUid": "u0521",
+          "endUid": "u0524",
+          "quote": "Yeah, Delwath's very like, let's chill and like, have some food and chill out and like—it doesn't feel like we're in a huge rush to go to Chardon. It—it's nice to just like sit around well provisioned house, and not feel like we have to save the world so—"
+        },
+        {
+          "startUid": "u0537",
+          "endUid": "u0539",
+          "quote": "Like everybody should come down. We should like get the bonfire going. And you know, some music, like Delwath's very much in like a let's—let's like—\n\n\nDelwath: Let's just relax for a couple days. Doesn't sound like there's anything we need to do tomorrow."
+        },
+        {
+          "startUid": "u0567",
+          "endUid": "u0572",
+          "quote": "So before dinner, around sunrise—sunset, Kenzo kind of goes over off, you know, still visible, but off to the side.\n\n\nKenzo: And and he goes into a meditation, and he often does this at sunset and sunrise. But you notice something a little different, like Kenzo sits there, and and he's he's meditating.\n\n\nKenzo: And then, like as the sun starts going down.\n\n\nKenzo: You start noticing, like Kenzo is like kind of shimmering like you're kind of watching him, and he's sort of like sort of like the like—the distance, like the sunset, is also shimmering, and Kenzo starts shimmering, and then, like the sun, slowly starts to disappear over the horizon, and then you're kind of watching for those that are noticing. And then Kenzo is shimmering and the sun's shimmering, and then the sun's slowly disappearing, and then Kenzo just totally disappears and is gone."
+        },
+        {
+          "startUid": "u0673",
+          "endUid": "u0680",
+          "quote": "So as you settle down to a dinner, a raucous dinner with everybody, Riswynn and the Orcs, and everybody sort of talking about what's next, and a sort of general mood of just relaxation sort of spreading across the group, as many of the people you've traveled with have really only ever experienced their lives as chasing you from crisis to crisis. And now it sort of seems like, maybe they, you know, this, at least, is a moment where that doesn't feel like it's happening."
+        }
+      ],
+      "place": "p02",
+      "note": "The meal is accepted and played, but the source gives no precise room or courtyard; “house” includes the gathering grounds here."
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0744",
+        "endUid": "u0750"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo meets Xavier in a constructed dream of their childhood alley in Chardon.",
+      "evidence": [
+        {
+          "startUid": "u0740",
+          "endUid": "u0750",
+          "quote": "So as you fall into sleep, what? What is—you can control the appearance of the dream.\n\n\nKenzo: Great.\n\n\nKenzo: Yeah. So we—in the dream, the dream setting.\n\n\nKenzo: It'll be this little, this square in Chardon, where, when we were little kids like, you know, Kenzo and Xavier would go like run around and like in the marketplace, because they would go like steal food and stuff like that. And so there's like a particular stand that they would go to that had this, you know, kind of local Chardonian like set of sweets that they would like, go and steal stuff, and so they would often go there, steal this treat, and go to this alley around the corner and go eat it. And so in the dream, Kenzo kind of appears like with Xavier, like sitting in that alley where they used to sit when they were little kids, like eating there, eating the little, you know candies, or whatever that they stole from the market around the corner.\n\n\nDM: So as you appear in the dream, Xavier is sitting next to you. He is—doesn't look too changed, actually."
+        }
+      ],
+      "place": "p04",
+      "mode": "vision",
+      "observerPlace": "p02",
+      "observedActors": [
+        "Xavier"
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1325",
+        "endUid": "u1335"
+      },
+      "actors": [
+        "Riswynn",
+        "Kethra",
+        "Nuzkar",
+        "Aygul"
+      ],
+      "reading": "Riswynn and her three companions teleport to her sanctuary in Uzgukhar using Word of Recall.",
+      "evidence": [
+        {
+          "startUid": "u1325",
+          "endUid": "u1335",
+          "quote": "So you spend the day—or spend the morning saying goodbye, and Riswynn, with the 2 Orcs and Kethra, vanishes in a twinkle of golden light, teleporting back to Uzgukhar to begin quest.\n\n\nKenzo: Your teleport?\n\n\nRiswynn: No, I teleport with my Word of Recall today.\n\n\nRiswynn: Sanctuary, sanctuary there in Uzgukhar.\n\n\nKenzo: Wait! How do you teleport?\n\n\nRiswynn: I'm deeply, religiously connected to the sanctuary that I created in Uzgukhar.\n\n\nKenzo: Oh!\n\n\nRiswynn: So I have a spell called word of recall."
+        }
+      ],
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "Word of Recall"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1349",
+        "endUid": "u1349"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The remaining party boards Vindristjarna and flies across the desert and plains, passing Karawa and Tokra and reaching the air above Songara.",
+      "evidence": [
+        {
+          "startUid": "u1349",
+          "endUid": "u1349",
+          "quote": "And the rest of you get on your ship and begin to fly towards Chardon."
+        },
+        {
+          "startUid": "u1438",
+          "endUid": "u1451",
+          "quote": "So you know, just going going day by day. You say goodbye to Pava, and after you say goodbye to Riswynn, you say goodbye to Pava and Avaras, and you know, they wish you luck on your journey, and again, sort of happy to see you thriving and having you know, developed in the way that you've developed, and over the course of the afternoon and into the evening on through the night, you fly across the desert.\n\n\nDM: Crossing Karawa probably. Let's see, that's 15 h. So as this, let's see from—yeah, so you leave like mid-afternoon. So like as the sun is rising, you cross high above the red mesa and see the city of Karawa laid out below you.\n\n\nDM: From there, over the course of the next day you travel across the plains, reaching reaching Tokra roughly by the next dawn.\n\n\nDM: From there, turning somewhat slightly northwest and flying over the Songara plains, reaching the city of Songara by the next dawn as well."
+        },
+        {
+          "startUid": "u1481",
+          "endUid": "u1481",
+          "quote": "So over the course of this journey, now, having reached Songara, anything that you want to do?"
+        }
+      ],
+      "from": "p02",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "route": [
+        {
+          "reading": "Fly overnight across the desert."
+        },
+        {
+          "reading": "Cross high above Karawa and the red mesa at sunrise; no landing.",
+          "place": "p08"
+        },
+        {
+          "reading": "Cross the plains and pass Tokra by the next dawn; no landing is narrated.",
+          "place": "p09"
+        },
+        {
+          "reading": "Turn northwest over the Songara plains to Songara at the following dawn.",
+          "place": "p10"
+        }
+      ],
+      "note": "“Arrived” means the flight reaches Songara’s airspace, not that the characters disembark. Later prisoner conversations are placed earlier in this journey."
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u1526",
+        "endUid": "u1527"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The mirror conversations take place aboard the flying ship, retrospectively placed on the evening before Tokra.",
+      "evidence": [
+        {
+          "startUid": "u1526",
+          "endUid": "u1527",
+          "quote": "So you're, you're flying over the desert. So you summon Vola to the mirror, and she sort of blinks and looks at you."
+        },
+        {
+          "startUid": "u1646",
+          "endUid": "u1649",
+          "quote": "We are in a castle flying through the air, heading towards Chardon. So, you're welcome to do what you want. But if you want to get dropped off in Dunmar, decide soon.\n\n\nDelwath: But for now I'll speak the word to let her out.\n\n\nDM: Okay."
+        },
+        {
+          "startUid": "u1815",
+          "endUid": "u1825",
+          "quote": "So it's evening when Vola is—\n\n\nDelwath: Yeah.\n\n\nDM: Like he's—\n\n\nKenzo: Yeah.\n\n\nDM: You're you're actually at this point, you're probably like, this is the day that you—this is the day that you're crossing the desert. We'll say so like this— Tomorrow morning you'll reach Tokra, and that would be a reasonable spot to drop off.\n\n\nDelwath: Right.\n\n\nDM: So that's—\n\n\nDelwath: Off these 2.\n\n\nDM: Yeah."
+        }
+      ],
+      "place": "p01",
+      "note": "Vola and the twins are released aboard the ship. Their proposed drop-off in Tokra or Songara is not narrated as completed."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1895",
+        "endUid": "u1907"
+      },
+      "actors": [
+        "Kenzo",
+        "Vola"
+      ],
+      "reading": "Kenzo leads Vola from their quiet conversation to the elven tree at the ship’s center, where they sit and meditate.",
+      "evidence": [
+        {
+          "startUid": "u1835",
+          "endUid": "u1837",
+          "quote": "Kind of looks up like sitting in a sort of quiet corner with Kenzo. I mean, Kenzo, you know my history, right? I mean, we grew up in the same circumstances. But don't—"
+        },
+        {
+          "startUid": "u1895",
+          "endUid": "u1907",
+          "quote": "Here, Vola, come, come with me. Come with me. Kenzo walks Vola over to the the tree that's growing in the middle of the ship. And Kenzo kind of pauses at the ship—at the tree. Where did this tree come from again?\n\n\nDM: The Orenlas.\n\n\nKenzo: And.\n\n\nDM: It's an elven—it's an elven tree.\n\n\nKenzo: Yeah.\n\n\nKenzo: Come, come if you're you're up for it. Come and sit with me, and let's just let's just sit for for a little bit. Is she—\n\n\nDM: Yeah, she'll follow you, and she'll sit.\n\n\nKenzo: Yeah, so I just, I just sit with Vola next to the tree. And like, you know, basically like, offer a blessing like with the tree with Vola, and just kind of sit in meditation with her. And you know it's just like totally like her reality is all messed up. And just, you know, giving her kind of a container to just start the process of letting things settle. No more questions, no more anything."
+        }
+      ],
+      "from": "p01",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1908",
+        "endUid": "u1918"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath contacts Marcella in a dreamscape resembling a forest clearing while Kenzo and Vola meditate.",
+      "evidence": [
+        {
+          "startUid": "u1908",
+          "endUid": "u1918",
+          "quote": "So, while Kenzo and Vola meditate, Delwath sinks into a dream state and reaches out towards Marcella.\n\n\nDM: And you find yourself appearing in a dreamscape, looking, however, you'd like.\n\n\nDM: Marcella, dressed in sort of you know, studded leather armor like greens and browns carrying a bow, seems to be looking well.\n\n\nDelwath: But it's just like a forest, and sort of clearing in a forest or something.\n\n\nDelwath: I'll call out to her.\n\n\nDM: Kenzo. Strange visitor in the night.\n\n\nDelwath: But—\n\n\nDM: Or Delwath, strange visitor in my dreams."
+        }
+      ],
+      "place": "p12",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Marcella"
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2030",
+        "endUid": "u2060"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The group chooses a detour from Songara over the mountains, across Emerald Bay and Apporia, to an offshore holding area north of the peninsula.",
+      "evidence": [
+        {
+          "startUid": "u2030",
+          "endUid": "u2034",
+          "quote": "So I mean, what if we—Tim, what if we just took an arc from Songara and actually went over the mountains, crossed the Emerald Bay, cut north over the Apporian Peninsula, and then parked the ship off the north coast far enough away that it's like not very obvious, and then just teleport to Chardon?\n\n\nDM: Okay."
+        },
+        {
+          "startUid": "u2040",
+          "endUid": "u2042",
+          "quote": "You're talking about like maybe 1,400 miles depending on if you're trying to—I mean crossing Apporia in—hidden is going to be a little tricky, but, like, manageable. This is from Songara, 1,400 miles versus 750 miles, as the crow flies, straight to Chardon."
+        },
+        {
+          "startUid": "u2051",
+          "endUid": "u2060",
+          "quote": "I think I think the I think the ocean path. I'm happy to do the ocean path.\n\n\nKenzo: Sounds good.\n\n\nWellby: Good.\n\n\nDelwath: I mean 1,400 miles. We can go 200 something miles a day, right?\n\n\nDM: We're 240 miles a day.\n\n\nDelwath: So it's a week.\n\n\nDM: Fine, right?\n\n\nDM: So that's that's 6 more days.\n\n\nDelwath: Yeah, let's just do that. That's fine.\n\n\nKenzo: Yeah, let's do—that sounds good."
+        },
+        {
+          "startUid": "u2072",
+          "endUid": "u2075",
+          "quote": "Yeah. So what I'll do is I'll I'll write an intro for next time that kind of touches on Vola and Hektor, and wraps that a little bit. And then we can pick up basically teleporting to Chardon."
+        }
+      ],
+      "from": "p10",
+      "to": "p13",
+      "completion": "planned",
+      "context": "planned",
+      "mode": "fly",
+      "vehicle": "p01",
+      "route": [
+        {
+          "reading": "Cross the mountains west of Songara."
+        },
+        {
+          "reading": "Cross Emerald Bay.",
+          "place": "p15"
+        },
+        {
+          "reading": "Cut north over the Apporian Peninsula.",
+          "place": "p14"
+        }
+      ],
+      "distance": {
+        "value": 1400,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s approximate proposed detour distance from Songara."
+      },
+      "duration": {
+        "value": 6,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s six additional days for the accepted future detour."
+      },
+      "note": "Arrival, the twins’ drop-off and teleportation to Chardon are deferred to future narration; no daily positions are inferred."
+    }
+  ]
+}
