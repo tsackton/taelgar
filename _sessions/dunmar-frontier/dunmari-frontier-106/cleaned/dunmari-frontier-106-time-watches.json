@@ -1,0 +1,179 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-time-markers.json",
+    "sha256": "c73f14ca50288b4cceb65ac574c90c24f51230054ef6db2c2503446d4866b0ae"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-transcript.md",
+    "sha256": "bf75daf8aa690ac562e272c4215d165be1db7e0ca6750f8ab358353925c82fd5"
+  },
+  "dateAssessment": "Working dates use session YAML, May 16–18, 1749 DR. The transcript names no calendar date but supports both overnight transitions; the first is a completed long rest, while the second establishes a next morning without rest credit. The opening continues session 105’s vine scouting and escape (105 u3161–u3179 → 106 u0040–u0052), with a new direct sunset anchor. Session 107 intervenes as a narrative-only session: its registered prepared source u0011–u0012 explicitly resumes this same Milo-captained beach landing in the afternoon of May 18. That retrospectively dates the landing; it does not independently time every preceding preparation. Session 107 then explores inland and reaches the Wanderer site; session 108 opens with further climbing and scouting there (108 u0017–u0032), not at session 106’s beach. The two-hour correction supersedes the earlier four-hour scouting claim.",
+  "watches": [
+    {
+      "day": "May 16, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Approaching sunset at the Eldest, where the opening fight begins.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1749-05-16",
+      "endDate": "1749-05-16"
+    },
+    {
+      "day": "May 16, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "After rescue, 10–15 minutes of calming stories; the DM confirms night.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1749-05-16",
+      "endDate": "1749-05-16"
+    },
+    {
+      "day": "May 16–17, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "An eight-hour long rest aboard Vindristjarna ends at the early sunrise.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1749-05-16",
+      "endDate": "1749-05-17"
+    },
+    {
+      "day": "May 17, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "After waking, Kenzo hears the Eldest’s roughly half-hour account.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1749-05-17",
+      "endDate": "1749-05-17"
+    },
+    {
+      "day": "May 17, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Another 1½–2 hours of flight reaches the coastal mangroves.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-05-17",
+      "endDate": "1749-05-17"
+    },
+    {
+      "day": "May 17, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Seven–eight hours offshore; arrival leaves about one hour of daylight.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1749-05-17",
+      "endDate": "1749-05-17"
+    },
+    {
+      "day": "May 17, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "The ascent coincides with sunset; subsequent planning occurs in dark evening.",
+      "markers": [
+        "t08",
+        "t09"
+      ],
+      "startDate": "1749-05-17",
+      "endDate": "1749-05-17"
+    },
+    {
+      "day": "May 17–18, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Wait until first light; later narration places the reconnaissance on the previous night.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1749-05-17",
+      "endDate": "1749-05-18"
+    },
+    {
+      "day": "May 18, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Two hours of flying after first light, corrected from four.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1749-05-18",
+      "endDate": "1749-05-18"
+    },
+    {
+      "day": "May 18, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Before landing: ten minutes watching waves, then a minute waiting for entry; exact watches remain open.",
+      "markers": [
+        "t12",
+        "t13"
+      ],
+      "startDate": "1749-05-18",
+      "endDate": "1749-05-18",
+      "scope": "Storm-entry preparation"
+    },
+    {
+      "day": "May 18, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "No time shift through the storm; session 107 dates the same beach landing to afternoon.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1749-05-18",
+      "endDate": "1749-05-18",
+      "sourceRanges": [
+        [
+          "u3062",
+          "u3067"
+        ]
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 105 closing scouting",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-transcript.md",
+      "sha256": "e39d9a4ca7c6eb7fbac87daab1d0b30a1651353e6e240d0db648d0cd20ca1b6b"
+    },
+    {
+      "label": "Session 107 registered narrative and same beach handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md",
+      "sha256": "39682711279b31db958790d59901476d5669c1649af079b8c5275be5c19bd9ef"
+    },
+    {
+      "label": "Session 107 calendar and narrative registration",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml",
+      "sha256": "0d6fc292ea394e4413c26ad554657f9acfde23b512f71bd1bc09fae6215e74f1"
+    },
+    {
+      "label": "Session 108 later inland opening",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-transcript.md",
+      "sha256": "103e3505e672498e70879a8e0b49164fef6cdf3edb512d970f3c796b26e8689f"
+    }
+  ]
+}

@@ -1,0 +1,392 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-106",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-session.yaml",
+    "sessionYamlSha256": "50b2c298ed883a33795930ac572890e0a446edc7a1c673b8c2f4981c7d82ad4b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-transcript.md",
+    "transcriptSha256": "bf75daf8aa690ac562e272c4215d165be1db7e0ca6750f8ab358353925c82fd5",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-segments.json",
+      "sha256": "dfa0039d5de63305ca20d9d5fcb613dd2e8b79d128bed86ac30ac76f23e99f3c",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Chaotic vines surrounding the Eldest",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Vine creature",
+              "kind": "turn",
+              "summary": "Sends a 150-foot, 20-foot-wide line of thorns at Kenzo and Seeker. Kenzo succeeds on Dexterity with 19; Seeker fails with 18, takes 16 slashing damage, is grappled and pulled 50 feet. Two more vines hit Seeker for 32 damage and pull him another 30 feet; a further attack of 29 restrains him inside the mass.",
+              "evidence": [
+                {
+                  "startUid": "u0354",
+                  "endUid": "u0408"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Charges 50 feet to Seeker and strikes five times. The 12 and 15 initially miss; Seeker’s inspiration turns the 15 into a hit. Four hits resolve for 60 total damage.",
+              "evidence": [
+                {
+                  "startUid": "u0451",
+                  "endUid": "u0491"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Provides inspiration during Kenzo’s attacks, converting the 15 to a hit and contributing the stated 9 extra damage.",
+              "evidence": [
+                {
+                  "startUid": "u0472",
+                  "endUid": "u0488"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sickening Radiance around Seeker, with the party and the Eldest protected as planned; applies Hexblade’s Curse to the vine creature and begins moving. Scatter is discussed but not cast because Seeker is outside its targeting range.",
+              "evidence": [
+                {
+                  "startUid": "u0495",
+                  "endUid": "u0534"
+                }
+              ],
+              "note": "The party/tree exemptions are stated in the accepted pre-combat plan, outside this combat segment."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes steady aim and expends all four flaming-bowstring charges. The 21 hits for 33 sneak-attack damage plus 14 fire, doubled to 28 by the creature’s vulnerability; the vines catch fire.",
+              "evidence": [
+                {
+                  "startUid": "u0538",
+                  "endUid": "u0554"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Takes 20 slashing damage from the constricting vines at the start of his turn. Drinks a greater healing potion for 15 hit points and Dimension Doors to a distant position, escaping restraint.",
+              "evidence": [
+                {
+                  "startUid": "u0550",
+                  "endUid": "u0554"
+                },
+                {
+                  "startUid": "u0574",
+                  "endUid": "u0608"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Vine creature",
+              "kind": "turn",
+              "summary": "Fails its Constitution save against Sickening Radiance with 13, taking 20 damage; it is immune to exhaustion. Its Constitution 18 save extinguishes the bowstring fire. Before retreating from the radiance it makes two attacks against Kenzo, 14 and 16, both missing; after moving it misses Delwath with 17 and hits Seeker with 16 for 22 bludgeoning and piercing damage, pulling Seeker back into the mass. Seeker is explicitly not restrained and will not take start-of-turn slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0609",
+                  "endUid": "u0672"
+                }
+              ],
+              "note": "Radiant damage is the stated spell effect; the source gives no additional damage from the extinguished fire."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs forward past the tree while staying in the radiance and makes five attacks with advantage. All hit, one critically, for 67 damage; the creature becomes bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u0675",
+                  "endUid": "u0702"
+                }
+              ]
+            },
+            {
+              "actor": "Vine creature",
+              "kind": "event",
+              "summary": "Responds to being bloodied by throwing out eight pieces of vine that become minions. They have their own initiative immediately after Delwath; the radiance prevents one being placed beside Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u0703",
+                  "endUid": "u0718"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Skirmisher to move away from the new minions with the DM’s permission. A retrospectively requested Dexterity save succeeds, avoiding their grab.",
+              "evidence": [
+                {
+                  "startUid": "u0719",
+                  "endUid": "u0729"
+                },
+                {
+                  "startUid": "u0752",
+                  "endUid": "u0755"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Starts moving through the minions, succeeds on Dexterity with 17 to avoid their grab, and suffers their opportunity attack. After moving, drops Sickening Radiance, casts fifth-level Spirit Shroud as a bonus action, and makes three attacks with advantage: a critical hit for 47, then ordinary hits for 31 and 23. The stated total is 101 radiant damage, with the vine creature’s speed reduced by 10 feet.",
+              "evidence": [
+                {
+                  "startUid": "u0737",
+                  "endUid": "u0751"
+                },
+                {
+                  "startUid": "u0756",
+                  "endUid": "u0816"
+                }
+              ]
+            },
+            {
+              "actor": "Vine minions",
+              "kind": "reaction",
+              "summary": "Three minions resolve one combined opportunity attack during Delwath’s movement, before his Spirit Shroud attacks: 26 hits for 12 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0737",
+                  "endUid": "u0751"
+                }
+              ]
+            },
+            {
+              "actor": "Vine minions",
+              "kind": "turn",
+              "summary": "Six minions surround Delwath and hit with 32 for 24 piercing damage. Two attack Seeker but miss with a natural 1. Delwath’s concentration check is later confirmed, so Spirit Shroud continues.",
+              "evidence": [
+                {
+                  "startUid": "u0817",
+                  "endUid": "u0843"
+                },
+                {
+                  "startUid": "u0924",
+                  "endUid": "u0926"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the main vine creature with 26 for 43 sneak-attack damage. The bowstring has no remaining fire charges.",
+              "evidence": [
+                {
+                  "startUid": "u0845",
+                  "endUid": "u0861"
+                }
+              ]
+            },
+            {
+              "actor": "Vine creature",
+              "kind": "event",
+              "summary": "Releases a chaotic spray at everyone within 60 feet. Kenzo fails Dexterity; the initial 45 slashing damage is corrected to 22 for Evasion. The DM initially assigns the other characters 22 slashing damage. A Wisdom save then leaves Kenzo, Delwath and Seeker dazed until the end of their next turns; Wellby is unaffected. The daze causes a random effect at each affected character’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0862",
+                  "endUid": "u0898"
+                }
+              ],
+              "note": "Wellby’s intervening line at u0878 is retained as {{Will be fixed}}; the final application of his Evasion to this spray is not intelligible. No unspoken zero-damage result is supplied."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "His random daze effect is fear of the vine monster, preventing closer movement and imposing disadvantage on attacks. At four hit points, he abandons a fire attack and uses a fifth-level slot to Dimension Door to the far edge of the battlefield.",
+              "evidence": [
+                {
+                  "startUid": "u0903",
+                  "endUid": "u0921"
+                },
+                {
+                  "startUid": "u0930",
+                  "endUid": "u0944"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Vine creature",
+              "kind": "turn",
+              "summary": "Misses Wellby with 18, Kenzo with 16, and Delwath with 18. Its next attack hits Wellby with 31 for an initially stated 34 damage and pulls him 30 feet into the vines; no further attack remains to restrain him.",
+              "evidence": [
+                {
+                  "startUid": "u0939",
+                  "endUid": "u0966"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Asks to reduce the single hit; the DM accepts 16 damage instead of the initial 34, while retaining the pull.",
+              "evidence": [
+                {
+                  "startUid": "u0952",
+                  "endUid": "u0962"
+                }
+              ],
+              "note": "The defensive feature is not named, and the accepted 16 is preserved without repairing the arithmetic."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks without advantage. Three hits, including a stated critical hit, resolve for 34 damage; the vine creature survives.",
+              "evidence": [
+                {
+                  "startUid": "u0967",
+                  "endUid": "u0980"
+                }
+              ],
+              "note": "The DM’s wording about which attacks hit is disfluent; the following damage calculation and accepted 34 establish the resolved attack sequence."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Succeeds on the retrospectively checked start-of-turn Dexterity save against the minions’ grab. Hits the main creature for 31, collapsing its vines into a still-living wooden shell; it is not killed, so no kill healing applies. His next attacks hit minions with 25 for 26 damage, killing three, and with 17 for 22 damage, killing two more. Repositions without provoking opportunity attacks and slows the three survivors by 10 feet.",
+              "evidence": [
+                {
+                  "startUid": "u0981",
+                  "endUid": "u1018"
+                }
+              ]
+            },
+            {
+              "actor": "Vine minions",
+              "kind": "turn",
+              "summary": "The three survivors move to Delwath and hit with 28 for 12 piercing damage. Delwath loses concentration and Spirit Shroud ends.",
+              "evidence": [
+                {
+                  "startUid": "u1030",
+                  "endUid": "u1042"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves to line up the remaining three minions and uses the clockwork amulet for 21. His arrow deals the stated 34 damage, piercing and killing all three.",
+              "evidence": [
+                {
+                  "startUid": "u1043",
+                  "endUid": "u1052"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Remains too far away to see the wooden mass clearly and casts fifth-level Healing Word on himself for 21 hit points. A further potion is proposed without a resolved result.",
+              "evidence": [
+                {
+                  "startUid": "u1053",
+                  "endUid": "u1065"
+                },
+                {
+                  "startUid": "u1076",
+                  "endUid": "u1079"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "Also casts Healing Word on himself during the healing exchange. The source reports a poor roll but no accepted healing total.",
+              "evidence": [
+                {
+                  "startUid": "u1066",
+                  "endUid": "u1075"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Vine creature / wooden knot",
+              "kind": "turn",
+              "summary": "The barely living knot opens and sends out four vines. An attack of 25 would deal Kenzo 32 damage before his defensive reaction; a second attack of 22 deals him 25 and drags him closer. A 21 against Delwath is blocked by Shield. A 27 hits Wellby for 29 and drags him close. The wrapping vines are now vulnerable to attack.",
+              "evidence": [
+                {
+                  "startUid": "u1080",
+                  "endUid": "u1125"
+                }
+              ],
+              "note": "The closing narration names Kenzo and Delwath as wrapped, despite the just-resolved Shield block and hit on Wellby. It does not establish an additional successful hit on Delwath."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the first vine with his staff. A reduction roll of 24 is spoken, and the DM explicitly resolves the 32-damage hit as 6 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1080",
+                  "endUid": "u1100"
+                }
+              ],
+              "note": "The DM’s final 6 is preserved although 32 minus the spoken 24 would be 8."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield against the vine’s 21; a magical force blocks that hit.",
+              "evidence": [
+                {
+                  "startUid": "u1108",
+                  "endUid": "u1116"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the exposed vines with his staff. The first strike cracks a vine and propagates a crack into the knot; the second shatters the knot and all the remaining vines. The DM says the vulnerable state has only one hit point and that all but the final two attack rolls hit.",
+              "evidence": [
+                {
+                  "startUid": "u1126",
+                  "endUid": "u1138"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Kenzo destroys the wooden knot; its vines shatter and the fight ends. The Eldest begins speaking immediately afterward.",
+        "evidence": [
+          {
+            "startUid": "u1129",
+            "endUid": "u1138"
+          }
+        ]
+      }
+    }
+  ]
+}

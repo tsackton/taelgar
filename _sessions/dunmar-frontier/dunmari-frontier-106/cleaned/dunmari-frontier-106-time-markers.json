@@ -1,0 +1,410 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-106",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-session.yaml",
+    "sessionYamlSha256": "50b2c298ed883a33795930ac572890e0a446edc7a1c673b8c2f4981c7d82ad4b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-transcript.md",
+    "transcriptSha256": "bf75daf8aa690ac562e272c4215d165be1db7e0ca6750f8ab358353925c82fd5",
+    "yamlDates": {
+      "start": "1749-05-16",
+      "end": "1749-05-18"
+    }
+  },
+  "markers": [
+    {
+      "source": {
+        "startUid": "u0009",
+        "endUid": "u0012"
+      },
+      "reading": "The party reaches the Eldest as sunset approaches.",
+      "time": {
+        "partOfDay": "approaching sunset",
+        "precision": "approximate",
+        "basis": "DM opening anchor"
+      },
+      "evidence": [
+        {
+          "startUid": "u0009",
+          "endUid": "u0012",
+          "quote": "It's approaching sunset as you reach the place or person—it's not clear—that the bats call Canopy, or sometimes Eldest."
+        }
+      ],
+      "id": "t01"
+    },
+    {
+      "source": {
+        "startUid": "u1258",
+        "endUid": "u1263"
+      },
+      "reading": "Delwath spends about 10–15 minutes telling stories to calm the newly freed Eldest.",
+      "actors": [
+        "Delwath",
+        "Eldest"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates time actually spent calming the tree",
+        "min": 10,
+        "minInclusive": true,
+        "max": 15,
+        "maxInclusive": true
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1258",
+          "endUid": "u1263",
+          "quote": "after maybe 10 or 15 min of of Delwath telling these stories"
+        }
+      ],
+      "id": "t02"
+    },
+    {
+      "source": {
+        "startUid": "u1456",
+        "endUid": "u1457"
+      },
+      "reading": "The post-rescue discussion is now at night.",
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "DM answers the present-time question"
+      },
+      "evidence": [
+        {
+          "startUid": "u1456",
+          "endUid": "u1457",
+          "quote": "Delwath: Isn't it like evening?\n\n%% u1457:0-17 %%\nDM: Yeah, it's night."
+        }
+      ],
+      "id": "t03"
+    },
+    {
+      "source": {
+        "startUid": "u1501",
+        "endUid": "u1512"
+      },
+      "reading": "The party sleeps aboard Vindristjarna, completes a long rest, and wakes as the sun rises the following morning.",
+      "timeRange": {
+        "start": null,
+        "end": {
+          "partOfDay": "sunrise",
+          "precision": "approximate",
+          "basis": "Waking and early sunrise are narrated after the overnight rest"
+        }
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention; the narration independently establishes sleeping and waking overnight"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1501",
+          "endUid": "u1502",
+          "quote": "So you sleep. Go ahead and and long rest."
+        },
+        {
+          "startUid": "u1503",
+          "endUid": "u1512",
+          "quote": "And as you wake in the morning, sun rises early"
+        }
+      ],
+      "id": "t04"
+    },
+    {
+      "source": {
+        "startUid": "u1697",
+        "endUid": "u1700"
+      },
+      "reading": "Kenzo listens to the Eldest’s account of awakening for roughly half an hour.",
+      "actors": [
+        "Kenzo",
+        "Eldest"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates the completed storytelling exchange",
+        "value": 30
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1697",
+          "endUid": "u1700",
+          "quote": "So this tells this story, like in Kenzo's way over the, you know, half an hour or something, and slowly sort of peters out."
+        }
+      ],
+      "id": "t05"
+    },
+    {
+      "source": {
+        "startUid": "u1733",
+        "endUid": "u1744"
+      },
+      "reading": "The journey aboard Vindristjarna to the coastal mangroves takes roughly one and a half to two hours over about 20 miles.",
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Approximate duration narrated with the completed transition to the mangroves",
+        "min": 1.5,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1733",
+          "endUid": "u1734",
+          "quote": "Okay. So it's—it's about, it's about 20 miles. So it's like a 2 h journey, maybe a little less than that—hour-and-a-half journey."
+        },
+        {
+          "startUid": "u1735",
+          "endUid": "u1744",
+          "quote": "You come—come to the mangroves."
+        }
+      ],
+      "id": "t06"
+    },
+    {
+      "source": {
+        "startUid": "u1851",
+        "endUid": "u1863"
+      },
+      "reading": "The party flies about seven or eight hours and 80 miles offshore; the sun is sinking as they reach the storm.",
+      "duration": {
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates the completed offshore flight",
+        "min": 7,
+        "minInclusive": true,
+        "max": 8,
+        "maxInclusive": true
+      },
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "Low sun and about an hour of remaining daylight"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1851",
+          "endUid": "u1863",
+          "quote": "And you go about a 7, 8 h, about 80 miles off the coast, and you see— so pretty uneventful. The sun is beginning to sink low in the sky."
+        },
+        {
+          "startUid": "u1886",
+          "endUid": "u1887",
+          "quote": "So you have maybe an hour of daylight left, so you can get 10 miles in some direction."
+        }
+      ],
+      "id": "t07"
+    },
+    {
+      "source": {
+        "startUid": "u1903",
+        "endUid": "u1908"
+      },
+      "reading": "Vindristjarna ascends to roughly a mile up as the sun sinks below the horizon.",
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM dates the ascent by the setting sun"
+      },
+      "evidence": [
+        {
+          "startUid": "u1903",
+          "endUid": "u1908",
+          "quote": "And as you see the sun sinking below the horizon from this height"
+        }
+      ],
+      "id": "t08"
+    },
+    {
+      "source": {
+        "startUid": "u1973",
+        "endUid": "u1975"
+      },
+      "reading": "It is dark evening while the party discusses the next flight and scouting plan.",
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM’s current clock/light anchor"
+      },
+      "evidence": [
+        {
+          "startUid": "u1973",
+          "endUid": "u1975",
+          "quote": "So it's currently now dark, evening."
+        },
+        {
+          "startUid": "u2002",
+          "endUid": "u2002",
+          "quote": "It's dark, right."
+        }
+      ],
+      "id": "t09"
+    },
+    {
+      "source": {
+        "startUid": "u2045",
+        "endUid": "u2054"
+      },
+      "reading": "After the night reconnaissance, play advances to the following morning before the next scouting attempt.",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Accepted wait until morning followed by scouting; the later recap explicitly places reconnaissance last night"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "No completed long rest or exact overnight duration is stated for this second night.",
+      "evidence": [
+        {
+          "startUid": "u1981",
+          "endUid": "u1991",
+          "quote": "We'll pull back away from it, and then at 1st light, we'll head up over top of it and do the clairvoyance trick. Yes."
+        },
+        {
+          "startUid": "u2045",
+          "endUid": "u2050",
+          "quote": "we should wait till morning. And yeah, yeah."
+        },
+        {
+          "startUid": "u2052",
+          "endUid": "u2054",
+          "quote": "And we—we take it up over the—over the top"
+        },
+        {
+          "startUid": "u2180",
+          "endUid": "u2182",
+          "quote": "And at last night you, like, flew out a little ways, and there's, like, no signs of anything but this dome cloud anywhere nearby."
+        }
+      ],
+      "id": "t10"
+    },
+    {
+      "source": {
+        "startUid": "u2241",
+        "endUid": "u2242"
+      },
+      "reading": "The morning flying and positioning consumes two hours after the DM accepts a retcon of the initially stated four hours.",
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s accepted retrospective correction from four to two hours"
+      },
+      "completion": "completed",
+      "note": "The corrected total supersedes the four-hour claim; the precise abandoned flight legs are not independently dated.",
+      "evidence": [
+        {
+          "startUid": "u2241",
+          "endUid": "u2242",
+          "quote": "It takes you, like—like 2 h to get into the center. So that's like 4 h that you've spent flying around."
+        },
+        {
+          "startUid": "u2305",
+          "endUid": "u2307",
+          "quote": "Delwath: Why don't we—can we say we didn't fly back and forth because Wellby had the idea before?\n\n%% u2306:0-4, u2307:0-47 %%\nDM: Yes. So you kind of stayed. So you spent 2 h flying."
+        }
+      ],
+      "id": "t11"
+    },
+    {
+      "source": {
+        "startUid": "u2634",
+        "endUid": "u2641"
+      },
+      "reading": "Wellby spends about ten minutes observing the storm to find a favorable pattern for entry.",
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates time actually spent observing the waves",
+        "value": 10
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2634",
+          "endUid": "u2641",
+          "quote": "Wellby spends like 10 min watching, just, you know, kind of, watching the storm blow"
+        }
+      ],
+      "id": "t12"
+    },
+    {
+      "source": {
+        "startUid": "u2729",
+        "endUid": "u2733"
+      },
+      "reading": "After a cyclone passes, about a minute elapses before Seeker calls for the boat to enter.",
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated wait for the timed boat entry",
+        "value": 1
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2729",
+          "endUid": "u2733",
+          "quote": "Seeker sees one of these cyclones go back and in a—in a minute, yells, \"Go!\""
+        }
+      ],
+      "id": "t13"
+    },
+    {
+      "source": {
+        "startUid": "u2963",
+        "endUid": "u2966"
+      },
+      "reading": "Inside the calm storm enclosure, the party’s time of day is explicitly unchanged from outside.",
+      "time": {
+        "relative": {
+          "relation": "same_time",
+          "anchor": "the corresponding time of day outside the storm enclosure"
+        },
+        "precision": "approximate",
+        "basis": "DM explicitly denies a change in time of day"
+      },
+      "note": "The blue sky establishes clear conditions, not an independent clock reading.",
+      "evidence": [
+        {
+          "startUid": "u2963",
+          "endUid": "u2966",
+          "quote": "The time doesn't seem to be shifted, like it's just as if there were no clouds above. It's still the same time of day as it would be"
+        }
+      ],
+      "id": "t14"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No calendar date is independently spoken. Absolute dates and year come from YAML; the transcript supplies a sunset opening and two successive overnight transitions.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t04",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t14"
+    ],
+    "explanation": "Conditional on the YAML start of May 16, the completed night aboard Vindristjarna reaches May 17 and the accepted second overnight wait reaches May 18. The former short rest since the cave and the jade/scroll history concern earlier sessions, not added days in this session. The four-hour scouting claim is explicitly corrected to two hours. The second night is not automatically an eight-hour long rest."
+  }
+}
