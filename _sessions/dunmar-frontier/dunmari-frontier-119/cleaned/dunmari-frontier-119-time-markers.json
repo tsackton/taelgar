@@ -18,7 +18,7 @@
         "startUid": "u0372",
         "endUid": "u0378"
       },
-      "reading": "Arrival in Emberwine has stationary golden late-afternoon light, also described as evening; this locates the local setting, not a civil clock or elapsed day.",
+      "reading": "The party enters Emberwine in golden late-afternoon light, also called evening; this stationary lighting does not establish a civil watch or elapsed interval.",
       "evidence": [
         {
           "startUid": "u0372",
@@ -44,12 +44,17 @@
           "startUid": "u1115",
           "endUid": "u1115",
           "quote": "DM: Yeah. The light hasn't changed."
+        },
+        {
+          "startUid": "u1180",
+          "endUid": "u1186",
+          "quote": "you're in late afternoon, as you can see. Another way you might put it is Emberwine."
         }
       ],
       "time": {
         "partOfDay": "late afternoon / golden-hour evening",
         "precision": "approximate",
-        "basis": "Narrated stationary Feywild light; later descriptions refine the same local appearance without establishing a passing day."
+        "basis": "Stated appearance of stationary Feywild sunlight; the later evening wording refines the local light rather than measuring elapsed time."
       }
     },
     {
@@ -58,7 +63,7 @@
         "startUid": "u0633",
         "endUid": "u0635"
       },
-      "reading": "An unspecified interval passes while the party reaches the riverbank.",
+      "reading": "An unmeasured interval of travel ends as the party reaches the riverbank.",
       "evidence": [
         {
           "startUid": "u0633",
@@ -74,7 +79,7 @@
         "startUid": "u0728",
         "endUid": "u0730"
       },
-      "reading": "The party waits a few moments on the riverbank for the barge to come closer.",
+      "reading": "The party waits a few moments on the riverbank for the barge to approach.",
       "evidence": [
         {
           "startUid": "u0728",
@@ -86,7 +91,7 @@
         "text": "a few moments",
         "unit": "minute",
         "precision": "vague",
-        "basis": "DM explicitly narrates the brief wait."
+        "basis": "The DM narrates a completed brief wait; no numerical duration is supplied."
       },
       "completion": "completed"
     },
@@ -96,7 +101,7 @@
         "startUid": "u0880",
         "endUid": "u0881"
       },
-      "reading": "Time passes while the party walks and discusses its destination; the amount and its relation to Material Plane time remain unmeasured.",
+      "reading": "Time passes as the party continues walking beside the river; neither the duration nor its rate relative to the Material Plane is measured.",
       "evidence": [
         {
           "startUid": "u0880",
@@ -109,7 +114,8 @@
           "quote": "DM: I mean, it's not like days are passing for every minute here, right? It's, it's—the phase of the moon is not, like, changing rapidly. So if it's— if time is not running quite linearly, it's, you know, maybe 10% faster or 10% slower or something."
         }
       ],
-      "completion": "begun"
+      "completion": "begun",
+      "note": "The possible 10% difference is hypothetical, not a measured conversion between planes."
     },
     {
       "id": "t05",
@@ -117,7 +123,7 @@
         "startUid": "u1138",
         "endUid": "u1142"
       },
-      "reading": "About a minute after the knock, Auntie Mulberry opens the cottage door.",
+      "reading": "Auntie Mulberry opens the door about a minute after Wellby knocks.",
       "evidence": [
         {
           "startUid": "u1134",
@@ -134,7 +140,7 @@
         "value": 1,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "Explicit approximate wait after Wellby knocks."
+        "basis": "The DM explicitly gives an approximate wait after the knock."
       },
       "completion": "completed"
     },
@@ -144,7 +150,7 @@
         "startUid": "u1165",
         "endUid": "u1166"
       },
-      "reading": "Auntie Mulberry returns after a minute inside washing; the party waits outside.",
+      "reading": "Auntie Mulberry returns after a narrated minute inside washing; the party remains outside.",
       "evidence": [
         {
           "startUid": "u1163",
@@ -161,14 +167,14 @@
         "value": 1,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "Narrated one-minute interval, without a measured clock."
+        "basis": "A narrated minute, without a measured clock."
       },
       "completion": "completed"
     }
   ],
   "yamlCheck": {
     "status": "compatible",
-    "dateAnchor": "May 30–31, 1749 comes only from YAML; no civil date is independently spoken in this transcript.",
+    "dateAnchor": "May 30–31, 1749 is supplied by the session YAML; no civil date is independently spoken in session 119.",
     "expectedDateBoundaries": 1,
     "supportedDateBoundaries": null,
     "evidence": [
@@ -179,6 +185,6 @@
       "t05",
       "t06"
     ],
-    "explanation": "The transcript opens at the portal approach and establishes short waits and unmeasured travel in stationary Feywild light. It narrates neither the overnight listed in the separate session note nor a measurable civil-day transition. The character-sheet reset at u0332–u0334 is insufficient to establish an additional rest. This leaves the one-day YAML span unverified, without a contradiction."
+    "explanation": "Current-session play opens as the ship reaches Bitterwine Oak, then establishes unmeasured travel and short waits. It neither narrates an overnight nor establishes a civil-day transition. The sheet reset at u0332–u0334 does not date a rest. The YAML span has missing coverage rather than an established contradiction; stationary light does not fill that coverage."
   }
 }
