@@ -1,0 +1,1036 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-105",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-session.yaml",
+    "sessionYamlSha256": "e86d535eb29337de3e6a94911385614fb4d3ceb386db0af155ae63c6b13f3ac8",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-transcript.md",
+    "transcriptSha256": "e39d9a4ca7c6eb7fbac87daab1d0b30a1651353e6e240d0db648d0cd20ca1b6b"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "DM: So we begin on Vindristjarna, floating above the jungles on the coast of the Sea of Storms, the afternoon of May 16th, about 2 weeks, give or take, until Apollyon breaks free of his bonds and rampages across the world."
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "Jungle by the Sea of Storms",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "DM: So we begin on Vindristjarna, floating above the jungles on the coast of the Sea of Storms, the afternoon of May 16th, about 2 weeks, give or take, until Apollyon breaks free of his bonds and rampages across the world."
+        },
+        {
+          "startUid": "u0179",
+          "endUid": "u0201",
+          "quote": "DM: Yeah, so, okay, so the basic topography is: there are— There's a there's a flat plain that stretches all the way from these cliffs to the ocean. And then there's these cliffs, uplifted cliffs, and then a sort of series of sort of step cliffs that you can see going away from the ocean. You know. You can't see—you can see, what, 20–30 miles or something like that? 40 miles. Kind of hazy, you know. Humid summer day in the jungle. And it seems like Seeker's guess, given your knowledge of geography, although it's a guess because you were in the tower of the Colossus when Vindristjarna was flying over this terrain, the, the top of the Garamjala plateau is like 6,000 feet above sea level, and there's a series—there must be a series of cliffs from the low coast, rising up to the high plateau that gets successively drier as you get higher and higher elevation, and all the rain gets knocked out of—all the moisture gets knocked out of the air as it blows up these cliffs."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Awakened Jungle.md"
+    },
+    "p03": {
+      "label": "Red-cliff cave complex",
+      "kind": "cave",
+      "evidence": [
+        {
+          "startUid": "u0031",
+          "endUid": "u0039",
+          "quote": "DM: As we begin, the 4 of you are standing looking over these red cliffs and the cave—relatively small cave, a wide but not tall gash, maybe 20 or 30 feet across, but only 5 or 6 feet tall, that you can see below you, where once, until maybe a few days ago, the last piece of Rai's jade remained, until in Kenzo's dreams it seemed to have blown out to sea, and vanished into a storm."
+        },
+        {
+          "startUid": "u0220",
+          "endUid": "u0223",
+          "quote": "DM: You're looking north, and it's in this, in this red stone cliff where the cave is."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0005",
+              "quote": "DM: So we begin on Vindristjarna, floating above the jungles on the coast of the Sea of Storms, the afternoon of May 16th, about 2 weeks, give or take, until Apollyon breaks free of his bonds and rampages across the world."
+            },
+            {
+              "startUid": "u0031",
+              "endUid": "u0039",
+              "quote": "DM: As we begin, the 4 of you are standing looking over these red cliffs and the cave—relatively small cave, a wide but not tall gash, maybe 20 or 30 feet across, but only 5 or 6 feet tall, that you can see below you, where once, until maybe a few days ago, the last piece of Rai's jade remained, until in Kenzo's dreams it seemed to have blown out to sea, and vanished into a storm."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Low entrance cave",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0519",
+          "endUid": "u0535",
+          "quote": "DM: You're all make your way down and enter the cave. The, the cave itself, that—or at least the entrance to the cave, is wide, about 30 feet across, but not very tall, maybe only 6 feet tall. So, while this isn't really a problem for Wellby or Seeker, Kenzo and Delwath maybe have to hunch a tiny bit, or their heads are just barely brushing the ceiling. It grows narrower towards the back. And this sort of entrance cave itself is not particularly big, and seems to be, you know, mostly overgrown with vines and, you know, some, some red rock rubble. But there are 2 exits. There's 1 that goes back and down, but a second that goes left and somewhat level, but into the rock."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0519",
+              "endUid": "u0535",
+              "quote": "DM: You're all make your way down and enter the cave. The, the cave itself, that—or at least the entrance to the cave, is wide, about 30 feet across, but not very tall, maybe only 6 feet tall. So, while this isn't really a problem for Wellby or Seeker, Kenzo and Delwath maybe have to hunch a tiny bit, or their heads are just barely brushing the ceiling. It grows narrower towards the back. And this sort of entrance cave itself is not particularly big, and seems to be, you know, mostly overgrown with vines and, you know, some, some red rock rubble. But there are 2 exits. There's 1 that goes back and down, but a second that goes left and somewhat level, but into the rock."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Downward tunnel and cavern lip",
+      "kind": "passage",
+      "evidence": [
+        {
+          "startUid": "u0562",
+          "endUid": "u0569",
+          "quote": "DM: Crawl through the through the cave towards this, the, the back wall, and the, this passageway slopes gently down and fairly quickly gets somewhat narrow, like maybe 3 or 4 feet tall. So Kenzo and Delwath have to hunch or crawl."
+        },
+        {
+          "startUid": "u0608",
+          "endUid": "u0612",
+          "quote": "DM: It only goes about 30 feet or so before Wellby holds up his hands, having noticed that the floor drops away right in front of him, and there's a hole that falls about 40 feet down into a large cavern."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0562",
+              "endUid": "u0569",
+              "quote": "DM: Crawl through the through the cave towards this, the, the back wall, and the, this passageway slopes gently down and fairly quickly gets somewhat narrow, like maybe 3 or 4 feet tall. So Kenzo and Delwath have to hunch or crawl."
+            },
+            {
+              "startUid": "u0608",
+              "endUid": "u0612",
+              "quote": "DM: It only goes about 30 feet or so before Wellby holds up his hands, having noticed that the floor drops away right in front of him, and there's a hole that falls about 40 feet down into a large cavern."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Rippling-stone cavern",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0617",
+          "endUid": "u0632",
+          "quote": "DM: Yeah, it's 40 feet away. There's, there's a few, a few things, you know, that Wellby notices in the front, right? So the 1st is that the cave floor at the bottom: every now and then you'll see what looks like a like a wave running across the stone, like it's not fully solid. There's, like, this rippling, almost literally like somebody's dropping a pebble into a lake, and there's ripples that spread out from where the pebble is dropped, but it seems like a stone floor."
+        },
+        {
+          "startUid": "u0710",
+          "endUid": "u0712",
+          "quote": "DM: You are looking down from the ceiling at the floor of this cavern. The cavern extends about maybe 60 feet northeast, like into the cave. The the hole that you're looking down is at the very southwest end of this cavern, and it extends in an oval shape."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0608",
+              "endUid": "u0612",
+              "quote": "DM: It only goes about 30 feet or so before Wellby holds up his hands, having noticed that the floor drops away right in front of him, and there's a hole that falls about 40 feet down into a large cavern."
+            },
+            {
+              "startUid": "u0617",
+              "endUid": "u0632",
+              "quote": "DM: Yeah, it's 40 feet away. There's, there's a few, a few things, you know, that Wellby notices in the front, right? So the 1st is that the cave floor at the bottom: every now and then you'll see what looks like a like a wave running across the stone, like it's not fully solid. There's, like, this rippling, almost literally like somebody's dropping a pebble into a lake, and there's ripples that spread out from where the pebble is dropped, but it seems like a stone floor."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Elemental cavern and reflective pool",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1092",
+          "endUid": "u1103",
+          "quote": "DM: The passageway turns sharply to the right, and then very quickly, within about 10–15 feet, opens up into another large cavern, about 40 feet in diameter, about 60 feet high. The ground is sloped down to a pool at the bottom. Cluster of stalagmites within the pool. You can see a number of places where it looks like there's just somebody scooped out the stone and filled in a hole with this like strange mud, but it's got very sharp, very sharp borders."
+        },
+        {
+          "startUid": "u2352",
+          "endUid": "u2368",
+          "quote": "DM: So as Wellby looks around a little bit, there's, there's a few things that you notice. One is that— so these— these patches of mud seem like they were, like, th—this is definitely some sort of quicksand or something like that, like anything that touches the mud just sinks down. But they're, like, very, almost look like they're very precisely cut, like this does not seem like a natural phenomenon, although nothing in this cave really seems like natural phenomenon. The water in this pool in the middle is completely reflective and opaque like ice, but it's it's, like, moving and rippling like water. And then, other than that, there's nothing sort of obvious to find. The, the bodies of these strange dual land elementals sort of just melted into what—the, the ice fire ones just melted into, like, puddles of water when they died. The, the, the air ones just vanished, and the earth water one just fell down and just is like a puddle of mud on the ground."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1092",
+              "endUid": "u1103",
+              "quote": "DM: The passageway turns sharply to the right, and then very quickly, within about 10–15 feet, opens up into another large cavern, about 40 feet in diameter, about 60 feet high. The ground is sloped down to a pool at the bottom. Cluster of stalagmites within the pool. You can see a number of places where it looks like there's just somebody scooped out the stone and filled in a hole with this like strange mud, but it's got very sharp, very sharp borders."
+            },
+            {
+              "startUid": "u2626",
+              "endUid": "u2641",
+              "quote": "DM: Fly through, the bat flies up into the tunnel the way you came. At this point, you can probably just scramble up. We have enough time. There's no real danger. Yeah. Come, come back to the main entrance cave, and then turns and flies to the other passage and flies up, and you pass, like, a series of of caves that they look lived in, right, like they're more—there's, like, a number—there's, like, vines that are strung with what appear to be, like, dried mangoes, like, hanging from these vines. The central of, like, 3 caves has a large basin that's lined with some kind of waterproof resin, seems to be full of rainwater that drips from channels in the ceiling. And then there's, like, a bunch of stalactites that have been sort of cleared and shaped to make nice roosts and perches for, for bats along basically 3 linked series of of caves in this— that leads you to the middle one that has the big pool of water and takes you over to a like an area where there's a series of stalagmites that have been sort of chipped and, and smooth to make a flat surface where there's, like, strips of mango that are drying, and 1st goes and grabs and eats some of the mango, and then, I think it was here. I don't see it anymore."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Bat refuge tunnels",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2337",
+          "endUid": "u2344",
+          "quote": "DM: So just with Soul Sight, without having to use your, like, ki ability or anything, you—I mean, it's, it's pretty clear that the— so the— and, and you can see now that things have calmed down, at the far side of this cave, there's, like, about halfway up the wall, there's, like, a bunch of sort of smaller tunnels that sort of lead up diagonally up and clearly, you know, into some larger space. And there's there's probably 60 or so bat minds in these tunnels who are hiding up in there. This is the same thing that you sensed that was scared."
+        },
+        {
+          "startUid": "u2378",
+          "endUid": "u2382",
+          "quote": "DM: So meanwhile Delwath is, is following the bats into this tunnel, and as you fly up there's like a sort of slightly larger space where there's a bunch of bats that all seem to be clustered in and hiding, about 60 bats in total, all sort of packed into these tunnels."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2337",
+              "endUid": "u2344",
+              "quote": "DM: So just with Soul Sight, without having to use your, like, ki ability or anything, you—I mean, it's, it's pretty clear that the— so the— and, and you can see now that things have calmed down, at the far side of this cave, there's, like, about halfway up the wall, there's, like, a bunch of sort of smaller tunnels that sort of lead up diagonally up and clearly, you know, into some larger space. And there's there's probably 60 or so bat minds in these tunnels who are hiding up in there. This is the same thing that you sensed that was scared."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Storage caves and drying ledges",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2626",
+          "endUid": "u2641",
+          "quote": "DM: Fly through, the bat flies up into the tunnel the way you came. At this point, you can probably just scramble up. We have enough time. There's no real danger. Yeah. Come, come back to the main entrance cave, and then turns and flies to the other passage and flies up, and you pass, like, a series of of caves that they look lived in, right, like they're more—there's, like, a number—there's, like, vines that are strung with what appear to be, like, dried mangoes, like, hanging from these vines. The central of, like, 3 caves has a large basin that's lined with some kind of waterproof resin, seems to be full of rainwater that drips from channels in the ceiling. And then there's, like, a bunch of stalactites that have been sort of cleared and shaped to make nice roosts and perches for, for bats along basically 3 linked series of of caves in this— that leads you to the middle one that has the big pool of water and takes you over to a like an area where there's a series of stalagmites that have been sort of chipped and, and smooth to make a flat surface where there's, like, strips of mango that are drying, and 1st goes and grabs and eats some of the mango, and then, I think it was here. I don't see it anymore."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2626",
+              "endUid": "u2641",
+              "quote": "DM: Fly through, the bat flies up into the tunnel the way you came. At this point, you can probably just scramble up. We have enough time. There's no real danger. Yeah. Come, come back to the main entrance cave, and then turns and flies to the other passage and flies up, and you pass, like, a series of of caves that they look lived in, right, like they're more—there's, like, a number—there's, like, vines that are strung with what appear to be, like, dried mangoes, like, hanging from these vines. The central of, like, 3 caves has a large basin that's lined with some kind of waterproof resin, seems to be full of rainwater that drips from channels in the ceiling. And then there's, like, a bunch of stalactites that have been sort of cleared and shaped to make nice roosts and perches for, for bats along basically 3 linked series of of caves in this— that leads you to the middle one that has the big pool of water and takes you over to a like an area where there's a series of stalagmites that have been sort of chipped and, and smooth to make a flat surface where there's, like, strips of mango that are drying, and 1st goes and grabs and eats some of the mango, and then, I think it was here. I don't see it anymore."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Fallen-tree clearing where the jade was found",
+      "kind": "clearing",
+      "evidence": [
+        {
+          "startUid": "u2719",
+          "endUid": "u2722",
+          "quote": "DM: So you see just what looks like a natural clearing, like where just an old tree fell and opened up a clearing in the jungle, and the bat flies down into the roots of the tree. This is where it was. I don't see another one. Do those stones grow under many trees?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2678",
+              "endUid": "u2683",
+              "quote": "DM: Wait, that's very weird. Hmm, okay, let's go. Flies down and off towards the jungle and then flies back."
+            },
+            {
+              "startUid": "u2713",
+              "endUid": "u2715",
+              "quote": "DM: Okay, you'll follow in the ship, yeah, so it's about—I mean, it's not, it's like a mile. It's less than a mile, but bats don't fly super fast. Sort of east in the direction of the, like, you know, tangled vines around the Eldest tree."
+            },
+            {
+              "startUid": "u2719",
+              "endUid": "u2722",
+              "quote": "DM: So you see just what looks like a natural clearing, like where just an old tree fell and opened up a clearing in the jungle, and the bat flies down into the roots of the tree. This is where it was. I don't see another one. Do those stones grow under many trees?"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Canopy / Eldest",
+      "kind": "tree",
+      "evidence": [
+        {
+          "startUid": "u2803",
+          "endUid": "u2807",
+          "quote": "DM: So, you begin traveling across the jungle. The—heading sort of east, due east, as you begin to fly in the direction where the bats told you that the Eldest, or Canopy—they seem to use both names interchangeably—and where Wellby saw the—"
+        },
+        {
+          "startUid": "u2979",
+          "endUid": "u2994",
+          "quote": "DM: Canopy, and when they came at 1st they just, at 1st they were small, and Canopy was quiet, but not hurt."
+        },
+        {
+          "startUid": "u2809",
+          "endUid": "u2815",
+          "quote": "Wellby saw the, the trees surrounded by vines and thorns."
+        }
+      ],
+      "aliases": [
+        "Canopy",
+        "Eldest"
+      ],
+      "vaultPath": "People/Other Nonhumans/Canopy.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3055",
+              "endUid": "u3062",
+              "quote": "DM: And actually, as you duck down, you can see, even when you're, like, 3, 400 feet away, that— so there's, there's a clearing in which this tree grows up in the center of, and there's, and there's trees around it. It actually, it almost looks like a grove, like the, like, there's a, like, a arranged grove. There's this tall tree in the middle, and then there's a circle of trees around it, and almost a perfect circle, all kind of facing each other, but that entire area must be a few 100 feet, is like covered in these vines that are, like, writhing on the ground. Go ahead and make a Perception check."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Circular grove around Canopy",
+      "kind": "grove",
+      "evidence": [
+        {
+          "startUid": "u3055",
+          "endUid": "u3062",
+          "quote": "DM: And actually, as you duck down, you can see, even when you're, like, 3, 400 feet away, that— so there's, there's a clearing in which this tree grows up in the center of, and there's, and there's trees around it. It actually, it almost looks like a grove, like the, like, there's a, like, a arranged grove. There's this tall tree in the middle, and then there's a circle of trees around it, and almost a perfect circle, all kind of facing each other, but that entire area must be a few 100 feet, is like covered in these vines that are, like, writhing on the ground. Go ahead and make a Perception check."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2803",
+              "endUid": "u2815",
+              "quote": "DM: So, you begin traveling across the jungle. The—heading sort of east, due east, as you begin to fly in the direction where the bats told you that the Eldest, or Canopy—they seem to use both names interchangeably—and where Wellby saw the—"
+            },
+            {
+              "startUid": "u3049",
+              "endUid": "u3062",
+              "quote": "DM: Okay, so, you— so you, you fly closer and you sort of begin to drop, drop down beneath the canopy and fly and fly through the trees as you begin to approach this tangled mass of vines surrounding this huge tree."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Trees near the vine-covered grove",
+      "kind": "jungle",
+      "evidence": [
+        {
+          "startUid": "u2968",
+          "endUid": "u2974",
+          "quote": "DM: I don't— so, yes, what, what— so Kenzo spends a while sort of just, you know, speaking to the trees that are that are close that you can reach without getting too close to the vine, and you learn from talking to the jungle that the timing actually matches about when the when the chaos elementals appeared, maybe maybe a few days before or a few days after. It's, it's hard to be precise because plants don't keep precise track of time."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2968",
+              "endUid": "u2974",
+              "quote": "DM: I don't— so, yes, what, what— so Kenzo spends a while sort of just, you know, speaking to the trees that are that are close that you can reach without getting too close to the vine, and you learn from talking to the jungle that the timing actually matches about when the when the chaos elementals appeared, maybe maybe a few days before or a few days after. It's, it's hard to be precise because plants don't keep precise track of time."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2968",
+              "endUid": "u2974",
+              "quote": "DM: I don't— so, yes, what, what— so Kenzo spends a while sort of just, you know, speaking to the trees that are that are close that you can reach without getting too close to the vine, and you learn from talking to the jungle that the timing actually matches about when the when the chaos elementals appeared, maybe maybe a few days before or a few days after. It's, it's hard to be precise because plants don't keep precise track of time."
+            },
+            {
+              "startUid": "u3025",
+              "endUid": "u3035",
+              "quote": "Delwath: But so, killing the vines should—let's fly a little closer, like 2,000 feet. Do the vines react?"
+            }
+          ]
+        }
+      ],
+      "note": "Kenzo speaks with reachable trees away from the vines; the source does not specify whether he disembarks or reaches them from the ship."
+    },
+    "p14": {
+      "label": "Area of thicker vines near Canopy’s roots",
+      "kind": "hazard area",
+      "evidence": [
+        {
+          "startUid": "u3067",
+          "endUid": "u3081",
+          "quote": "DM: So you notice 2 things. One is that, so it's hard to see in these writhing vines, but as you're just watching, like, there's something hard and solid beneath the massive vines right near the roots of this giant tree, like big, like, 10 foot by 10 foot. It looks like, you know, some sort of woody, merged bit of—it's like the—it's like, it's like if you just compressed a whole bunch of trees and plants into this, like almost like, what is that word for, like, fake wood, right, like the particle board, or whatever, but made out of like all sorts of living things into this writhing knot, almost like a tumor. But the vines keep crawling over it, on top of it, almost like they're trying to pile up around it around this like hard knot."
+        },
+        {
+          "startUid": "u3215",
+          "endUid": "u3218",
+          "quote": "Seeker: Yeah. And it was at a range of 30 feet? Is that when, when it happened?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3055",
+              "endUid": "u3081",
+              "quote": "DM: And actually, as you duck down, you can see, even when you're, like, 3, 400 feet away, that— so there's, there's a clearing in which this tree grows up in the center of, and there's, and there's trees around it. It actually, it almost looks like a grove, like the, like, there's a, like, a arranged grove. There's this tall tree in the middle, and then there's a circle of trees around it, and almost a perfect circle, all kind of facing each other, but that entire area must be a few 100 feet, is like covered in these vines that are, like, writhing on the ground. Go ahead and make a Perception check."
+            }
+          ]
+        }
+      ],
+      "note": "The later clarification measures the attack boundary from thicker vines, not precisely from the obscured woody knot."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0039"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins aboard the hovering ship looking down at the red-cliff cave.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "DM: So we begin on Vindristjarna, floating above the jungles on the coast of the Sea of Storms, the afternoon of May 16th, about 2 weeks, give or take, until Apollyon breaks free of his bonds and rampages across the world."
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0039",
+          "quote": "DM: As we begin, the 4 of you are standing looking over these red cliffs and the cave—relatively small cave, a wide but not tall gash, maybe 20 or 30 feet across, but only 5 or 6 feet tall, that you can see below you, where once, until maybe a few days ago, the last piece of Rai's jade remained, until in Kenzo's dreams it seemed to have blown out to sea, and vanished into a storm."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p02"
+        },
+        {
+          "subject": "p01",
+          "relation": "near",
+          "target": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0310",
+        "endUid": "u0343"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Aura sensing locates frightened minds and a disruptive presence deep in the caves; it also detects disturbance westwards, not physical visits.",
+      "evidence": [
+        {
+          "startUid": "u0310",
+          "endUid": "u0323",
+          "quote": "DM: To the— okay, so where you are right now, as you 1st reach out, you're sort of moving in a spiral, kind of trying to track the location of these things, and the area right around the ship feels pretty quiet, but as you reach further, you sense that there are many of these intelligences, whatever they are, seeming scared and huddled together deep within the cave, and you feel something violent with them, maybe hunting them, maybe just disrupting their lives."
+        },
+        {
+          "startUid": "u0331",
+          "endUid": "u0343",
+          "quote": "DM: No, as you as you probe further to the west, about 3 miles—you can see that there's this waterfall in front of you, and then there's another bigger waterfall that flows down to the to the ocean about 3 miles to the west, and there's something prowling there also, scared and, and hiding, and as you reach your mind further to the west from where this sort of prowling sense is, you can feel what what seem like strands of this ripping that all collect at a point that seems to be maybe 6 miles west. Something like that in the jungle."
+        }
+      ],
+      "place": "p03",
+      "mode": "remote",
+      "observerPlace": "p01",
+      "note": "The western waterfall and destruction point are sensed landmarks, not entered locations."
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0402",
+        "endUid": "u0440"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Through the vulture, Wellby sees the large emergent tree entangled in moving thorn vines.",
+      "evidence": [
+        {
+          "startUid": "u0402",
+          "endUid": "u0415",
+          "quote": "DM: So while Wellby's soaring in the mind of this vulture, watching the jungle below and reporting what he sees, it's, I guess you're narrating as you go, you're just watching the jungle soar, soar beneath you, relatively unchanging, the cliffs kind of undulating back and forth, sometimes closer, sometimes further. You can see the coast, you know. There's mostly a bunch of mangroves along the beach, and after maybe 40 min you can see ahead of you must be what Kenzo was talking about. You know, as they're sailing, sailing across, soaring across the canopy, right, occasionally you see these emergent trees that, that—but, you know, stick up a little bit higher than the canopy of the jungle itself, but you can see in the distance now of, of very tall emerging tree, the, the largest tree that you've seen. Nothing like the, you know, the giant tree in Tokra, the elven, you know, the elven Deno'qai god trees. This is like a normal natural tree, but it's it's it's just a big, old, tall tree."
+        },
+        {
+          "startUid": "u0430",
+          "endUid": "u0440",
+          "quote": "DM: But it's hard to, like—you can't really tell if they're all of these different—this, like, tangle of vines, or the weird thing in the cave, or the you know, chopped up mycelium are connected. So it's now about 3 in the afternoon, as Wellby's mind returns, as he's reported on this."
+        }
+      ],
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0485",
+        "endUid": "u0535"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All four climb down from Vindristjarna and enter the low cave; Faldrak keeps the ship back.",
+      "evidence": [
+        {
+          "startUid": "u0508",
+          "endUid": "u0516",
+          "quote": "Delwath: Climb, like, hang a rope ladder off the ship and climb down it."
+        },
+        {
+          "startUid": "u0519",
+          "endUid": "u0535",
+          "quote": "DM: You're all make your way down and enter the cave. The, the cave itself, that—or at least the entrance to the cave, is wide, about 30 feet across, but not very tall, maybe only 6 feet tall. So, while this isn't really a problem for Wellby or Seeker, Kenzo and Delwath maybe have to hunch a tiny bit, or their heads are just barely brushing the ceiling. It grows narrower towards the back. And this sort of entrance cave itself is not particularly big, and seems to be, you know, mostly overgrown with vines and, you know, some, some red rock rubble. But there are 2 exits. There's 1 that goes back and down, but a second that goes left and somewhat level, but into the rock."
+        }
+      ],
+      "from": "p01",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0562",
+        "endUid": "u0612"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party follows the sloping tunnel to the lip of the drop into the lower cavern.",
+      "evidence": [
+        {
+          "startUid": "u0562",
+          "endUid": "u0569",
+          "quote": "DM: Crawl through the through the cave towards this, the, the back wall, and the, this passageway slopes gently down and fairly quickly gets somewhat narrow, like maybe 3 or 4 feet tall. So Kenzo and Delwath have to hunch or crawl."
+        },
+        {
+          "startUid": "u0586",
+          "endUid": "u0597",
+          "quote": "DM: So, so Wellby first, then Delwath, then—"
+        },
+        {
+          "startUid": "u0608",
+          "endUid": "u0612",
+          "quote": "DM: It only goes about 30 feet or so before Wellby holds up his hands, having noticed that the floor drops away right in front of him, and there's a hole that falls about 40 feet down into a large cavern."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk and crawl"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0617",
+        "endUid": "u0632"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the lip they inspect the rippling floor and the far opening below.",
+      "evidence": [
+        {
+          "startUid": "u0616",
+          "endUid": "u0632",
+          "quote": "Delwath: Can we see? Can we see the bottom of the cavern?"
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0747",
+        "endUid": "u0775"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby alone climbs onto the cavern wall nearly to the bottom, before the rest descend.",
+      "evidence": [
+        {
+          "startUid": "u0747",
+          "endUid": "u0747",
+          "quote": "Wellby: Noticing Delwath waffling on it. Wellby will climb over there."
+        },
+        {
+          "startUid": "u0752",
+          "endUid": "u0766",
+          "quote": "DM: Yeah, that's fine. You, like, swing out from underneath the hole and grab onto the the wall and sort of find a a perch, hand holds. Once you get onto this sort of side wall of the cavern and make your way halfway down, all the way down, where is Wellby going?"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0791",
+        "endUid": "u0818"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Delwath’s Fly carries the other three into the cavern; Wellby flies using his armor.",
+      "evidence": [
+        {
+          "startUid": "u0791",
+          "endUid": "u0818",
+          "quote": "DM: So everybody's flying? Yep."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1072",
+        "endUid": "u1103"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party passes under Seeker’s stone gutter and through the right-turning passage to the elemental cavern.",
+      "evidence": [
+        {
+          "startUid": "u1072",
+          "endUid": "u1075",
+          "quote": "DM: Yeah, yeah, no, I, I can visualize what you're doing. Yeah, that seems to work quite well. Seeker summons this thing into existence, and the water flows down off the sides, leaving a dry area in the middle that you can safely fly through. Amazing."
+        },
+        {
+          "startUid": "u1091",
+          "endUid": "u1103",
+          "quote": "Delwath: All right. What's through the door?"
+        },
+        {
+          "startUid": "u1149",
+          "endUid": "u1165",
+          "quote": "DM: And then in the very center— I don't know. Why did an error occur? In the very, in the very center of the— stop it. D&D Beyond is acting up. In the very center you can see what looks like a a cluster of stones that are held together with a rainstorm like water and mud, kind of sticking these giant stones together. It looks like a like a whirlwind made out of mud. And there seems to be, like, little flashes of lightning inside it. And they all turn as you appear. And roll initiative."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2378",
+        "endUid": "u2404"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath follows the bats up into their cramped refuge; the others continue investigating the cavern.",
+      "evidence": [
+        {
+          "startUid": "u2308",
+          "endUid": "u2317",
+          "quote": "Delwath: I'll then I'll follow the bats."
+        },
+        {
+          "startUid": "u2378",
+          "endUid": "u2404",
+          "quote": "DM: So meanwhile Delwath is, is following the bats into this tunnel, and as you fly up there's like a sort of slightly larger space where there's a bunch of bats that all seem to be clustered in and hiding, about 60 bats in total, all sort of packed into these tunnels."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly and climb"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2450",
+        "endUid": "u2458"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "As the bats stream out, Delwath rejoins the others near the reflective pool.",
+      "evidence": [
+        {
+          "startUid": "u2450",
+          "endUid": "u2452",
+          "quote": "DM: I, I think at this point, probably, you know, the bats are beginning to stream out into the main cave, and so everybody's kind of around the same area. Still, Wellby's kind of poking at this weird liquid ice a little bit,"
+        },
+        {
+          "startUid": "u2455",
+          "endUid": "u2458",
+          "quote": "Delwath: And encourage everybody else to land, okay? Because Fly is probably about done."
+        }
+      ],
+      "from": "p08",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2616",
+        "endUid": "u2641"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The young bat guides the party back through the rippling cavern and entrance, then along the other passage into the storage caves; she finds the jade absent.",
+      "evidence": [
+        {
+          "startUid": "u2616",
+          "endUid": "u2623",
+          "quote": "DM: It flies off, stops for a minute, looks back."
+        },
+        {
+          "startUid": "u2626",
+          "endUid": "u2641",
+          "quote": "DM: Fly through, the bat flies up into the tunnel the way you came. At this point, you can probably just scramble up. We have enough time. There's no real danger. Yeah. Come, come back to the main entrance cave, and then turns and flies to the other passage and flies up, and you pass, like, a series of of caves that they look lived in, right, like they're more—there's, like, a number—there's, like, vines that are strung with what appear to be, like, dried mangoes, like, hanging from these vines. The central of, like, 3 caves has a large basin that's lined with some kind of waterproof resin, seems to be full of rainwater that drips from channels in the ceiling. And then there's, like, a bunch of stalactites that have been sort of cleared and shaped to make nice roosts and perches for, for bats along basically 3 linked series of of caves in this— that leads you to the middle one that has the big pool of water and takes you over to a like an area where there's a series of stalagmites that have been sort of chipped and, and smooth to make a flat surface where there's, like, strips of mango that are drying, and 1st goes and grabs and eats some of the mango, and then, I think it was here. I don't see it anymore."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Return through the cavern whose strange elemental effects have stopped.",
+          "place": "p06"
+        },
+        {
+          "reading": "Scramble up the tunnel and pass through the main entrance.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2671",
+        "endUid": "u2722"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "They follow the young bat in Vindristjarna less than a mile east to the fallen-tree clearing where she found the jade.",
+      "evidence": [
+        {
+          "startUid": "u2691",
+          "endUid": "u2695",
+          "quote": "Delwath: I'll fly after her."
+        },
+        {
+          "startUid": "u2713",
+          "endUid": "u2722",
+          "quote": "DM: Okay, you'll follow in the ship, yeah, so it's about—I mean, it's not, it's like a mile. It's less than a mile, but bats don't fly super fast. Sort of east in the direction of the, like, you know, tangled vines around the Eldest tree."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "skyship",
+      "vehicle": "p01",
+      "distance": {
+        "max": 1,
+        "maxInclusive": false,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM says less than a mile."
+      }
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2793",
+        "endUid": "u2825"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Aboard Vindristjarna the party travels east towards Canopy; after the narrated journey the tree remains a few miles ahead.",
+      "evidence": [
+        {
+          "startUid": "u2793",
+          "endUid": "u2807",
+          "quote": "Delwath: We're gonna go straight to the Eldest."
+        },
+        {
+          "startUid": "u2809",
+          "endUid": "u2825",
+          "quote": "DM: Wellby saw the, the trees surrounded by vines and thorns. The jungle below is very— it's dense, like, occasionally you'll see these clearings. Occasionally a river will be flowing down where you can see a little bit into the understory. But, you know, as you're flying above, you mostly are seeing like the the birds and the you know, occasional monkeys or something as you soar across the canopy, and an hour passes and the sun begins to sink."
+        }
+      ],
+      "from": "p10",
+      "to": "p12",
+      "completion": "underway",
+      "mode": "skyship",
+      "vehicle": "p01",
+      "distance": {
+        "value": 20,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Estimated distance to the tree at u02774; endpoint remains a few miles short."
+      },
+      "note": "DM narrates two hours; Delwath later calls the journey an hour and a half. See t05; neither reading establishes an exact arrival time at the roots."
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u2968",
+        "endUid": "u2994"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo speaks with reachable jungle trees from the ongoing shipboard approach; no disembarkation is recorded.",
+      "evidence": [
+        {
+          "startUid": "u2950",
+          "endUid": "u2963",
+          "quote": "DM: So, so Kenzo is speaking to the jungle plants. Kong, are you awake enough to say what you want to ask the plants? Or does somebody have to do that for you? Somebody has to do that for—"
+        },
+        {
+          "startUid": "u2968",
+          "endUid": "u2994",
+          "quote": "DM: I don't— so, yes, what, what— so Kenzo spends a while sort of just, you know, speaking to the trees that are that are close that you can reach without getting too close to the vine, and you learn from talking to the jungle that the timing actually matches about when the when the chaos elementals appeared, maybe maybe a few days before or a few days after. It's, it's hard to be precise because plants don't keep precise track of time."
+        }
+      ],
+      "place": "p01",
+      "note": "The source does not specify how he reaches the trees. This retains his last established shipboard position and does not assert a landing.",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "near",
+          "target": "p13"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u3025",
+        "endUid": "u3035"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Kenzo"
+      ],
+      "reading": "The ship approaches to roughly 2,000 feet; the three remain away from Wellby’s scouting position.",
+      "evidence": [
+        {
+          "startUid": "u3025",
+          "endUid": "u3035",
+          "quote": "Delwath: But so, killing the vines should—let's fly a little closer, like 2,000 feet. Do the vines react?"
+        },
+        {
+          "startUid": "u3148",
+          "endUid": "u3149",
+          "quote": "Delwath: Have the ship boost towards him to start. How far away are we? We were, like, 200, I mean a thousand feet or something like that?"
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "near",
+          "target": "p12",
+          "note": "About 2,000 feet on approach, later stated about 1,000; no ship arrival inside the grove is established."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u3040",
+        "endUid": "u3062"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies down beneath the canopy and enters the grove’s vicinity to scout the roots.",
+      "evidence": [
+        {
+          "startUid": "u3040",
+          "endUid": "u3062",
+          "quote": "Wellby: That sounds fascinating. I will do it, and just start spiraling in closer and look when they're reactive. But also look, like, is there a single point of weakness or failure?"
+        }
+      ],
+      "from": "p01",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u3067",
+        "endUid": "u3116"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby sees the woody knot near Canopy’s roots and vines actively defending it.",
+      "evidence": [
+        {
+          "startUid": "u3067",
+          "endUid": "u3081",
+          "quote": "DM: So you notice 2 things. One is that, so it's hard to see in these writhing vines, but as you're just watching, like, there's something hard and solid beneath the massive vines right near the roots of this giant tree, like big, like, 10 foot by 10 foot. It looks like, you know, some sort of woody, merged bit of—it's like the—it's like, it's like if you just compressed a whole bunch of trees and plants into this, like almost like, what is that word for, like, fake wood, right, like the particle board, or whatever, but made out of like all sorts of living things into this writhing knot, almost like a tumor. But the vines keep crawling over it, on top of it, almost like they're trying to pile up around it around this like hard knot."
+        },
+        {
+          "startUid": "u3106",
+          "endUid": "u3116",
+          "quote": "DM: The other thing, though, is, when Wellby, I mean, you can see, like, when you're a few 100 feet away, that, like, there's like vines that are lashing out, like striking at things flying out from the center of this, like, there's at least some part of this tangled mass that seems to be actively defending or—"
+        }
+      ],
+      "place": "p14",
+      "mode": "local",
+      "observerPlace": "p12"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u3124",
+        "endUid": "u3179"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby approaches the thicker vines, is struck and pulled in, then escapes the restraint and disengages out of reach.",
+      "evidence": [
+        {
+          "startUid": "u3124",
+          "endUid": "u3134",
+          "quote": "Wellby: I am going to get closer and closer until it tries to attack me. That seems like the way to figure out the minimum distance."
+        },
+        {
+          "startUid": "u3161",
+          "endUid": "u3179",
+          "quote": "DM: Not when you get attacked. When a creature ends its turn— reaction, you're actually not grappled, you're just pulled into the vines."
+        },
+        {
+          "startUid": "u3215",
+          "endUid": "u3218",
+          "quote": "Seeker: Yeah. And it was at a range of 30 feet? Is that when, when it happened?"
+        }
+      ],
+      "from": "p12",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Reaches about 30 feet from the thicker vines, is pulled into them.",
+          "place": "p14"
+        },
+        {
+          "reading": "Escapes and flies out of reach, not a confirmed return aboard ship."
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "presence",
+      "source": {
+        "startUid": "u3265",
+        "endUid": "u3270"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies above grabbing range for a rope test, then releases the rope when the vines pull it.",
+      "evidence": [
+        {
+          "startUid": "u3265",
+          "endUid": "u3270",
+          "quote": "Wellby: You know, I'll fly up out of range of them reaching me personally, and then just, like, drop a rope down and dangle it and, like, bonk the rope on the vines, like, does it try to grab it or let it go?"
+        }
+      ],
+      "place": "p12",
+      "note": "He is outside personal reach; the test does not place him back inside the knot or aboard the ship."
+    }
+  ]
+}

@@ -1,0 +1,1072 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "e39d9a4ca7c6eb7fbac87daab1d0b30a1651353e6e240d0db648d0cd20ca1b6b"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-entity-map.json",
+      "sha256": "66c4842ac4cc062c3b39f3dd7473ca3287280fc5107f9e365f949b139686bfb1"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Locked manual and recovered literature",
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0014"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0006:0-18, u0007:0-101, u0008:0-48, u0009:0-49, u0010:0-58, u0011:0-8, u0012:0-102, u0013:0-12, u0014:0-94 %%",
+        "DM: Maybe this morning you teleported back to Vindristjarna from the tower of the colossus, carrying with you a locked book with no obvious keyhole and no clear way to open but that Seeker identified as a manual of golems, which, should you ever figure out how to get the book open and have a few months of spare time and 80,000 gold pieces to spare, would allow you to construct your very own stone golem, as well as some scrolls and copies of some ancient literature that you rescued from this tower."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So we begin on Vindristjarna, floating above the jungles on the coast of the Sea of Storms, the afternoon of May 16th, about 2 weeks, give or take, until Apollyon breaks free of his bonds and rampages across the world."
+        ],
+        "after": [
+          "DM: On Vindristjarna, Faldrak has taken to his pilot role with gusto, steering the ship across the desert in your absence. Aygul, the orc, who was still recently—only recently resurrected from the dead—is still weak from her ordeal and has been, yeah, remaining below decks, tended to by Nuzkar, her sister. Although Nuzkar has mostly been distracted by Aygul's recovery, she is very curious about the poems and the scrolls that you copied and would like to have some time to further research them, and maybe place when in Drankorian history these particular items were written.",
+          "DM: Others of your followers: Amol is practicing, sparring on deck and going through his forms, while Égnir, the elven gardener is, although quiet and reserved, has been staring over the railing of Vindristjarna, endlessly curious about the landscape below, wondering if it's safe to explore and what strange plants may grow here. The halflings, Tilly and Milo, seem restless. Milo stands at the bow, staring at the now visible Sea of Storms in the distance, about 20 miles south of here, watching the motion of whitecaps at a distance, and clearly itching to be captain of his own ship again, while Tilly watches with him in low conversation.",
+          "DM: As we begin, the 4 of you are standing looking over these red cliffs and the cave—relatively small cave, a wide but not tall gash, maybe 20 or 30 feet across, but only 5 or 6 feet tall, that you can see below you, where once, until maybe a few days ago, the last piece of Rai's jade remained, until in Kenzo's dreams it seemed to have blown out to sea, and vanished into a storm.",
+          "Delwath: Far from—remind me how far from the coast we are.",
+          "DM: About 20 miles, 15–20 miles."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Faldrak pilots; Aygul recovers and Nuzkar tends her",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0024"
+      },
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0015:0-118, u0016:0-23, u0017:0-98, u0018:0-5, u0019:0-21, u0020:0-166, u0021:0-17, u0022:0-56, u0023:0-27, u0024:0-36 %%",
+        "DM: On Vindristjarna, Faldrak has taken to his pilot role with gusto, steering the ship across the desert in your absence. Aygul, the orc, who was still recently—only recently resurrected from the dead—is still weak from her ordeal and has been, yeah, remaining below decks, tended to by Nuzkar, her sister. Although Nuzkar has mostly been distracted by Aygul's recovery, she is very curious about the poems and the scrolls that you copied and would like to have some time to further research them, and maybe place when in Drankorian history these particular items were written."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So we begin on Vindristjarna, floating above the jungles on the coast of the Sea of Storms, the afternoon of May 16th, about 2 weeks, give or take, until Apollyon breaks free of his bonds and rampages across the world.",
+          "DM: Maybe this morning you teleported back to Vindristjarna from the tower of the colossus, carrying with you a locked book with no obvious keyhole and no clear way to open but that Seeker identified as a manual of golems, which, should you ever figure out how to get the book open and have a few months of spare time and 80,000 gold pieces to spare, would allow you to construct your very own stone golem, as well as some scrolls and copies of some ancient literature that you rescued from this tower."
+        ],
+        "after": [
+          "DM: Others of your followers: Amol is practicing, sparring on deck and going through his forms, while Égnir, the elven gardener is, although quiet and reserved, has been staring over the railing of Vindristjarna, endlessly curious about the landscape below, wondering if it's safe to explore and what strange plants may grow here. The halflings, Tilly and Milo, seem restless. Milo stands at the bow, staring at the now visible Sea of Storms in the distance, about 20 miles south of here, watching the motion of whitecaps at a distance, and clearly itching to be captain of his own ship again, while Tilly watches with him in low conversation.",
+          "DM: As we begin, the 4 of you are standing looking over these red cliffs and the cave—relatively small cave, a wide but not tall gash, maybe 20 or 30 feet across, but only 5 or 6 feet tall, that you can see below you, where once, until maybe a few days ago, the last piece of Rai's jade remained, until in Kenzo's dreams it seemed to have blown out to sea, and vanished into a storm.",
+          "Delwath: Far from—remind me how far from the coast we are.",
+          "DM: About 20 miles, 15–20 miles.",
+          "Delwath: So this is like way south. Where? Where? So, where are we? South of Drankor at this point? Yup."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Followers watch the jungle and the sea",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0030"
+      },
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "lines": [
+        "%% u0025:0-97, u0026:0-67, u0027:0-161, u0028:0-68, u0029:0-100, u0030:0-141 %%",
+        "DM: Others of your followers: Amol is practicing, sparring on deck and going through his forms, while Égnir, the elven gardener is, although quiet and reserved, has been staring over the railing of Vindristjarna, endlessly curious about the landscape below, wondering if it's safe to explore and what strange plants may grow here. The halflings, Tilly and Milo, seem restless. Milo stands at the bow, staring at the now visible Sea of Storms in the distance, about 20 miles south of here, watching the motion of whitecaps at a distance, and clearly itching to be captain of his own ship again, while Tilly watches with him in low conversation."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So we begin on Vindristjarna, floating above the jungles on the coast of the Sea of Storms, the afternoon of May 16th, about 2 weeks, give or take, until Apollyon breaks free of his bonds and rampages across the world.",
+          "DM: Maybe this morning you teleported back to Vindristjarna from the tower of the colossus, carrying with you a locked book with no obvious keyhole and no clear way to open but that Seeker identified as a manual of golems, which, should you ever figure out how to get the book open and have a few months of spare time and 80,000 gold pieces to spare, would allow you to construct your very own stone golem, as well as some scrolls and copies of some ancient literature that you rescued from this tower.",
+          "DM: On Vindristjarna, Faldrak has taken to his pilot role with gusto, steering the ship across the desert in your absence. Aygul, the orc, who was still recently—only recently resurrected from the dead—is still weak from her ordeal and has been, yeah, remaining below decks, tended to by Nuzkar, her sister. Although Nuzkar has mostly been distracted by Aygul's recovery, she is very curious about the poems and the scrolls that you copied and would like to have some time to further research them, and maybe place when in Drankorian history these particular items were written."
+        ],
+        "after": [
+          "DM: As we begin, the 4 of you are standing looking over these red cliffs and the cave—relatively small cave, a wide but not tall gash, maybe 20 or 30 feet across, but only 5 or 6 feet tall, that you can see below you, where once, until maybe a few days ago, the last piece of Rai's jade remained, until in Kenzo's dreams it seemed to have blown out to sea, and vanished into a storm.",
+          "Delwath: Far from—remind me how far from the coast we are.",
+          "DM: About 20 miles, 15–20 miles.",
+          "Delwath: So this is like way south. Where? Where? So, where are we? South of Drankor at this point? Yup.",
+          "Seeker: South of Drankor, man. So we didn't. We didn't attempt to fly by Drankor, wisely."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The jade has vanished out to sea",
+      "source": {
+        "startUid": "u0053",
+        "endUid": "u0112"
+      },
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0053:0-28, u0054:0-42, u0055:0-19, u0056:0-41 %%",
+        "Seeker: Seeker is still kind of like grumbling about sand and scratching at his at his beard, where— what the heck happened to the jade, Kenzo?",
+        "",
+        "%% u0057:0-48, u0058:0-18, u0059:0-14 %%",
+        "Kenzo: Appears to be swallowed up by the ocean somehow, and brought to sea by some force.",
+        "",
+        "%% u0060:0-54 %%",
+        "Seeker: Why would it just turn into a cloud like that, though?",
+        "",
+        "%% u0061:0-74 %%",
+        "Kenzo: I don't know if it turned into a cloud. It's in—where do I sense it again?",
+        "",
+        "%% u0062:0-27 %%",
+        "DM: You can't sense it anymore.",
+        "",
+        "%% u0063:0-18 %%",
+        "Kenzo: Got it, all right.",
+        "",
+        "%% u0064:0-16 %%",
+        "DM: Completely gone.",
+        "",
+        "%% u0065:0-37 %%",
+        "Kenzo: Where's the last time we—I sensed it?",
+        "",
+        "%% u0066:0-36, u0067:0-20, u0068:0-12, u0069:0-32 %%",
+        "DM: Like flying out over the ocean about I don't know, maybe— Check my map like southeast of here, roughly.",
+        "",
+        "%% u0070:0-61, u0071:0-8, u0072:0-13, u0073:0-30, u0074:0-31, u0075:0-66, u0076:0-16, u0077:0-3, u0078:0-11, u0079:0-16, u0080:0-91, u0081:0-13, u0082:0-17, u0083:0-6, u0084:0-9, u0085:0-30, u0086:0-7, u0087:0-19, u0088:0-15, u0089:0-33, u0090:0-5, u0091:0-44, u0092:0-8, u0093:0-26, u0094:0-5, u0095:0-27, u0096:0-83 %%",
+        "((Map orientation))",
+        "",
+        "%% u0097:0-34 %%",
+        "Wellby: I think we go into the cave, right?",
+        "",
+        "%% u0098:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u0099:0-41, u0100:0-62, u0101:0-21 %%",
+        "Wellby: Something must have done this to the jade to move the jade. Jade didn't just get up and decide to leave. Traces we could find.",
+        "",
+        "%% u0102:0-68, u0103:0-3 %%",
+        "Delwath: Do we actually know that jade didn't just get up and decide to leave? So.",
+        "",
+        "%% u0104:0-24 %%",
+        "Wellby: Perhaps the jade got up.",
+        "",
+        "%% u0105:0-11 %%",
+        "Delwath: And it's a—",
+        "",
+        "%% u0106:0-29 %%",
+        "Wellby: In which case we'll track it.",
+        "",
+        "%% u0107:0-54 %%",
+        "Delwath: I mean, I'm not disagreeing. We should go in. I'm just—",
+        "",
+        "%% u0108:0-98, u0109:0-26, u0110:0-17, u0111:0-32, u0112:0-55 %%",
+        "Seeker: Generally speaking, these jade pieces have not moved around of their own volition. We've seen them carried around and used by various entities. So someone was in control of it. But yeah, let's go see what clues we can find. I agree."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: So this is like way south. Where? Where? So, where are we? South of Drankor at this point? Yup.",
+          "Seeker: South of Drankor, man. So we didn't. We didn't attempt to fly by Drankor, wisely.",
+          "DM: That's correct. You did not. So, although I'm not going to hold you to it, because actually I sketched out a few other things, at the end of last session your decision had been that you were going to go investigate the caves.",
+          "Seeker: Yeah.",
+          "DM: But feel free to discuss in character, or take your time to make whatever decisions you would like to make."
+        ],
+        "after": [
+          "Kenzo: Yeah, let's commune with nature.",
+          "DM: Anything in particular you are interested in learning, or just the vibe?",
+          "Kenzo: The vibe, and or any significant recent perturbations? Was there, you know, some shockwave that came through. And now everything is kind of recovering?",
+          "Delwath: Can you sense, like, the impacts of weather? Was there an actual storm?",
+          "Seeker: Oh, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Remembering the ambush at Fausto’s tower",
+      "source": {
+        "startUid": "u0459",
+        "endUid": "u0484"
+      },
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0459:0-346 %%",
+        "Kenzo: The worst? I—wait, wait. This is another one of those, like, you remember when we're on the tower with Fausto, and I was like, guys, guys, why don't we be a little cautious? Why don't we, like, just, you know, just really simply do this, like, really simple thing? And everybody, like, it's dumb, like, why are we doing that? And then we just, like, ran in.",
+        "",
+        "%% u0460:0-19, u0461:0-3, u0462:0-212, u0463:0-39, u0464:0-73, u0465:0-68, u0466:0-51, u0467:0-7, u0468:0-10, u0469:0-111, u0470:0-38, u0471:0-159, u0472:0-40, u0473:0-8 %%",
+        "((Debating scouting and the earlier encounter))",
+        "",
+        "%% u0474:0-80 %%",
+        "Wellby: The lesson is we, we should have just, like, murdered him when we had the chance.",
+        "",
+        "%% u0475:0-5, u0476:0-19 %%",
+        "Kenzo: Yeah. Like, wow, I think.",
+        "",
+        "%% u0477:0-28 %%",
+        "Wellby: That's the takeaway of that.",
+        "",
+        "%% u0478:0-37 %%",
+        "Delwath: We try—in our defense, we did try to—",
+        "",
+        "%% u0479:0-42 %%",
+        "Kenzo: We did try, yeah, we, we were, like, basket.",
+        "",
+        "%% u0480:0-45 %%",
+        "Delwath: Couple of 1,000, we were about to die, and so—",
+        "",
+        "%% u0481:0-112 %%",
+        "Kenzo: Also, like, the, the lair aspect of the tower was, like, fucking insane, right? He was like, we're really—that was—",
+        "",
+        "%% u0482:0-45 %%",
+        "DM: Those windows animated to attack you. It was—",
+        "",
+        "%% u0483:0-63, u0484:0-85 %%",
+        "Kenzo: Yeah, that was not—yeah. We were not in a place to defeat him. Anyways, I'm sure this is gonna be totally fine, and not not at all like that ambush."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh, clairvoyance.",
+          "Wellby: Go see what's—I, I, like, I go in first. All right. We're gonna be—",
+          "Delwath: Yeah, I mean, let's just go save Clairvoyance for when we need it.",
+          "Wellby: We're hoping—",
+          "Seeker: What's—"
+        ],
+        "after": [
+          "DM: Steering the ship close enough that you can throw the rope ladder across, or are you trying—",
+          "Kenzo: Did you say that Fausto was steering the ship?",
+          "Delwath: Meant Faldrak.",
+          "Wellby: That's a that's a reveal.",
+          "Kenzo: Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Two frightened bats accept food",
+      "source": {
+        "startUid": "u2137",
+        "endUid": "u2295"
+      },
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2137:0-113 %%",
+        "DM: You can hear them, actually, as they're getting close to you. They seem to be whispering to each other in Elvish.",
+        "",
+        "%% u2138:0-21, u2139:0-33 %%",
+        "Delwath: Well, I know Elvish. What are they saying? Can I hear?",
+        "",
+        "%% u2140:0-46, u2141:0-79, u2142:0-19, u2143:0-7, u2144:0-10, u2145:0-91 %%",
+        "DM: They, so, so one of them, one of them is saying, now they're, like, they're, they're sort of trying to, like, talk each other up, like, well, while the, the strange 2 legs are fighting, now's our chance to sneak past. Come on, let's go, I don't think they can see us.",
+        "",
+        "%% u2146:0-28, u2147:0-9, u2148:0-23, u2149:0-24, u2150:0-15, u2151:0-50, u2152:0-34, u2153:0-7, u2154:0-15, u2155:0-23 %%",
+        "DM: And the other one says back, you know, but even if we get out, what are we going to do? At least we can see what's going on, and if there's more of these fire creatures and water creatures— Delwath, looking at you, did that one notice us?",
+        "",
+        "%% u2156:0-20, u2157:0-23 %%",
+        "Delwath: I'll shout out, yes, but we're here to, like—",
+        "",
+        "%% u2158:0-21 %%",
+        "DM: Scatter to the sides.",
+        "",
+        "%% u2159:0-5, u2160:0-32 %%",
+        "Delwath: Wait. Who are you? We're here to help.",
+        "",
+        "%% u2161:0-9, u2162:0-13, u2163:0-4 %%",
+        "DM: They look very confused and—",
+        "",
+        "%% u2164:0-38 %%",
+        "Delwath: Somebody's in danger here. Is that you?",
+        "",
+        "%% u2165:0-40, u2166:0-4, u2167:0-12, u2168:0-6, u2169:0-6, u2170:0-82, u2171:0-39 %%",
+        "DM: Shouts—one of them shouts to the other, that, how does the 2 legs speak? They don't look like they can—they should be able to speak. They look so strange. And we will return to this in a moment.",
+        "",
+        "%% u2172:0-6, u2173:0-19, u2174:0-28, u2175:0-7, u2176:0-67, u2177:0-2, u2178:0-70, u2179:0-81, u2180:0-41, u2181:0-5, u2182:0-18, u2183:0-22, u2184:0-45, u2185:0-5, u2186:0-37, u2187:0-5, u2188:0-23, u2189:0-5, u2190:0-94, u2191:0-5, u2192:0-40, u2193:0-5, u2194:0-5, u2195:0-89, u2196:0-17, u2197:0-17, u2198:0-10, u2199:0-12, u2200:0-31, u2201:0-8, u2202:0-5, u2203:0-10, u2204:0-14, u2205:0-5, u2206:0-17, u2207:0-20, u2208:0-83, u2209:0-9, u2210:0-14, u2211:0-15, u2212:0-21, u2213:0-190, u2214:0-20, u2215:0-32, u2216:0-107, u2217:0-72, u2218:0-7, u2219:0-7, u2220:0-2, u2221:0-48, u2222:0-4, u2223:0-18, u2224:0-14, u2225:0-44, u2226:0-30, u2227:0-27, u2228:0-109, u2229:0-5, u2230:0-45, u2231:0-25, u2232:0-50, u2233:0-15, u2234:0-45, u2235:0-17, u2236:0-8, u2237:0-26, u2238:0-19, u2239:0-86, u2240:0-8, u2241:0-23 %%",
+        "((The elemental fight ends; table aside))",
+        "",
+        "%% u2242:0-49, u2243:0-4, u2244:0-15, u2245:0-46, u2246:0-8, u2247:0-37 %%",
+        "DM: They seem to be not quite processing that you are, like sentient, aware creatures. It's almost like they've never seen bipedal— They've never seen a humanoid before.",
+        "",
+        "%% u2248:0-9 %%",
+        "((The elemental fight ends; table aside))",
+        "",
+        "%% u2249:0-59, u2250:0-24, u2251:0-6, u2252:0-6, u2253:0-82, u2254:0-7, u2255:0-9, u2256:0-43, u2257:0-33, u2258:0-7, u2259:0-12, u2260:0-16, u2261:0-85, u2262:0-124 %%",
+        "Delwath: ((Aside)) I will try to calm them down a little bit and explain to them that we are—I'll basically try to sort of tell them the danger seems to be gone for the moment. Are there more of you? Is anybody in your colony hurt? Can we help you? ((Soul Sight question))",
+        "",
+        "%% u2263:0-23 %%",
+        "DM: Those are these. Make a—",
+        "",
+        "%% u2264:0-6 %%",
+        "((The elemental fight ends; table aside))",
+        "",
+        "%% u2265:0-15, u2266:0-56, u2267:0-42, u2268:0-22, u2269:0-168, u2270:0-69, u2271:0-41, u2272:0-81, u2273:0-7, u2274:0-30 %%",
+        "DM: Handling check. They, they still seem quite nervous by you, but as you, you know, as you try and speak to them and get them to calm down, they seem to be flying in circles, unsure of what to do. And again, they're not really talking to you, they're talking to each other. You know, one of them saying, like, maybe we should go back and, and ask Echo. These 2 legs seem dangerous, and the other's, like, but they can speak. How can they speak? They look nothing like—and they use, like, the elvish word for people. They look nothing like people.",
+        "",
+        "%% u2275:0-127, u2276:0-6, u2277:0-96, u2278:0-73 %%",
+        "DM: And, and, and still they don't—it doesn't seem to quite—they're not really speaking to you, but what you do notice is they seem quite— I mean, they're, they're now flying close enough, and combat has calmed down and you can see them. They're emaciated like they're hungry, they're thirsty. They're worn out.",
+        "",
+        "%% u2279:0-17, u2280:0-47 %%",
+        "Delwath: Do you need food? I'll ask them. I'll ask them if they need food.",
+        "",
+        "%% u2281:0-13, u2282:0-65, u2283:0-8, u2284:0-83, u2285:0-122, u2286:0-10, u2287:0-249 %%",
+        "DM: That seems to not exactly—I mean, they don't exactly, like, acknowledge you as a you know, person, but they, they look sort of curious, and the one who's been saying, you know, the, the one who seems like—it seems like they've been having an argument, right? And the one who's a little bit more open, it's like, could, could they have food? And it fly, you know, flies over close to you, and you can see this is, like, a large fruit bat, like a flying fox type bat, like 2 foot wingspan. Not a giant bat, not any kind of supernatural thing, just a regular mega bat.",
+        "",
+        "%% u2288:0-24 %%",
+        "Delwath: What do they eat? Fruit?",
+        "",
+        "%% u2289:0-118 %%",
+        "DM: Fruit, presumably, yeah. And it does, it sort of flies up, you know, flying around you, sort of eager, clearly hungry.",
+        "",
+        "%% u2290:0-4, u2291:0-82 %%",
+        "Delwath: I'll— presumably I have some fruit in my magical cooking pouch. I'll give it some fruit.",
+        "",
+        "%% u2292:0-16, u2293:0-45, u2294:0-10, u2295:0-32 %%",
+        "DM: One would think. Dives down and grabs the fruit, and they both start off towards the far end of the cave."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh, no! No! No!",
+          "DM: That is—that's kind of a lot of damage. That's forty-nine points of damage. And then it's gonna miss, with its second fiery tongue attack.",
+          "Seeker: I'm still conscious.",
+          "DM: And that brings Delwath. You can see the bats just trying to fly towards you now.",
+          "Delwath: And Wellby, you think they speak some sort of language?"
+        ],
+        "after": [
+          "Delwath: I'm gonna follow them, but before I do that I'm gonna send my lynx out to gather food.",
+          "DM: Okay, I mean—",
+          "Delwath: Can I ask it to gather food? I mean, it's it's enough food for what is it? 18 people, I think?",
+          "DM: Yup!",
+          "Delwath: Got. But I'm gonna ask it to just gather food for bats, okay, just fruit. There's only—there's plenty out in the jungle."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The two speakers are distinguished by attitude; neither can be securely equated with the later young guide."
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Echo welcomes food and explains jungle people",
+      "source": {
+        "startUid": "u2396",
+        "endUid": "u2527"
+      },
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2396:0-94, u2397:0-25, u2398:0-35, u2399:0-7, u2400:0-29, u2401:0-75, u2402:0-10, u2403:0-60, u2404:0-31 %%",
+        "DM: Several of them see Delwath's head emerging, and one—so what looks like maybe a somewhat older sort of older bat kind of shoves, shoves their way forward and kind of looks like they're braced for violence or flight. I mean, everybody looks emaciated, weak, and then says in Elvish, I don't know who you think you are, where you learn to speak, but we are not yours to bother.",
+        "",
+        "%% u2405:0-99, u2406:0-32 %%",
+        "Delwath: They'll sort of be placating, right, like, there is more food coming. I wanted to invite you to eat it when it arrives in a few hours.",
+        "",
+        "%% u2407:0-6, u2408:0-24, u2409:0-3 %%",
+        "((Rolls, brief interruptions and regrouping))",
+        "",
+        "%% u2410:0-42, u2411:0-45, u2412:0-52, u2413:0-33 %%",
+        "DM: This sort of somewhat leader-looking one kind of looks, looks wary, but also, like, very— there's a gleam in their eyes, like, very tempted, like, you can bring food for all of us?",
+        "",
+        "%% u2414:0-3 %%",
+        "((Rolls, brief interruptions and regrouping))",
+        "",
+        "%% u2415:0-8, u2416:0-44, u2417:0-9, u2418:0-20, u2419:0-58, u2420:0-25, u2421:0-13 %%",
+        "Delwath: I sent a spirit helper to bring food from the jungle. It may be not enough to fully— I will see how much it is, I do not know how much you eat. It would not feed so many ones my size.",
+        "",
+        "%% u2422:0-18, u2423:0-29, u2424:0-4, u2425:0-47, u2426:0-36 %%",
+        "DM: They look kind of— Where did you learn to speak? It's— never seen a creature like you talk Bat before. I've never seen a creature like you.",
+        "",
+        "%% u2427:0-77, u2428:0-55, u2429:0-54, u2430:0-27, u2431:0-66 %%",
+        "Delwath: I'll tell him a story about how I'm an elf, and my people learn to speak from Elmerca and Aldanor, the Wild Star and the Living Tree, and it was one of the 1st languages that people spoke, although I guess the dwarfs were speaking around the same time. But, you know, one of the first.",
+        "",
+        "%% u2432:0-10 %%",
+        "Seeker: Nice, nice.",
+        "",
+        "%% u2433:0-2, u2434:0-61 %%",
+        "Delwath: My people and our gods taught many things to speak our language.",
+        "",
+        "%% u2435:0-7, u2436:0-14 %%",
+        "DM: Strange, strange tales.",
+        "",
+        "%% u2437:0-19 %%",
+        "Delwath: You learn to speak?",
+        "",
+        "%% u2438:0-13, u2439:0-34, u2440:0-8, u2441:0-139, u2442:0-4, u2443:0-26 %%",
+        "DM: That seems to relax a little bit and, and kind of signals the rest of the bats kind of hovering around, and, and everybody's kind of eagerly now pressing forward, like the news of food having spread. Well, from my mother, obviously.",
+        "",
+        "%% u2444:0-28, u2445:0-70 %%",
+        "Delwath: And do you have any tales of how your mother's mother's mother's mother's mothers learned to speak?",
+        "",
+        "%% u2446:0-22, u2447:0-17 %%",
+        "DM: Canopy might remember. He is the eldest.",
+        "",
+        "%% u2448:0-10, u2449:0-65, u2450:0-101, u2451:0-72, u2452:0-45, u2453:0-9, u2454:0-8, u2455:0-37, u2456:0-5, u2457:0-35, u2458:0-47 %%",
+        "((Rolls, brief interruptions and regrouping))",
+        "",
+        "%% u2459:0-27, u2460:0-9, u2461:0-24 %%",
+        "Delwath: ((Spell aside)) Are there more like you who speak?",
+        "",
+        "%% u2462:0-13, u2463:0-21, u2464:0-4, u2465:0-12, u2466:0-47, u2467:0-6, u2468:0-36 %%",
+        "DM: Well, there's Blaze, of course, and Fire, Slither, and all of the people who live in the mangroves and Canopy, Eldest. Yes, of course there's many.",
+        "",
+        "%% u2469:0-17, u2470:0-8 %%",
+        "((Rolls, brief interruptions and regrouping))",
+        "",
+        "%% u2471:0-5, u2472:0-26, u2473:0-12, u2474:0-9, u2475:0-39 %%",
+        "Delwath: Live? Do, do all those who speak, are they all like you, or are they other creatures and shapes?",
+        "",
+        "%% u2476:0-45, u2477:0-11 %%",
+        "DM: You know, all different shapes can speak, just unlike you.",
+        "",
+        "%% u2478:0-29 %%",
+        "Delwath: Have you met two-legs before?",
+        "",
+        "%% u2479:0-22, u2480:0-14, u2481:0-22, u2482:0-23 %%",
+        "DM: No, it is very strange you carry such bizarre accoutrements. And your skin is weird.",
+        "",
+        "%% u2483:0-5 %%",
+        "((Rolls, brief interruptions and regrouping))",
+        "",
+        "%% u2484:0-13, u2485:0-19, u2486:0-25, u2487:0-43 %%",
+        "DM: Shining like, and strange colors. Red and silver and green. Why do you have such strange coloured skin?",
+        "",
+        "%% u2488:0-8, u2489:0-39, u2490:0-72 %%",
+        "Delwath: I don't really want to explain clothes to bats. We, we change our skins depending on the environment and the situation.",
+        "",
+        "%% u2491:0-5 %%",
+        "((Rolls, brief interruptions and regrouping))",
+        "",
+        "%% u2492:0-58, u2493:0-24, u2494:0-4 %%",
+        "Delwath: This—I, I tap it, and it rings like metal—protects me from those who would harm us. But—",
+        "",
+        "%% u2495:0-44, u2496:0-31, u2497:0-15, u2498:0-35, u2499:0-9, u2500:0-42, u2501:0-15, u2502:0-26 %%",
+        "DM: This, this bat just looks very confused. But why would you leave the jungle? All there is is burning dryness and crashing waves. [garbled] So why would you need to change your skin? Makes no sense. You are not normal people.",
+        "",
+        "%% u2503:0-26, u2504:0-6, u2505:0-24, u2506:0-98, u2507:0-101, u2508:0-34, u2509:0-31 %%",
+        "Delwath: It is true we are strange. But at— perhaps our strangeness— I don't know, I'm too tired to think of how Delwath would say this, but you should appreciate, like, nicely, right, like, but, you know, sometimes strangeness can, can bring gifts to those who encounter it. We killed all the chaos creatures. It's pretty strange to do that.",
+        "",
+        "%% u2510:0-4, u2511:0-13, u2512:0-21, u2513:0-99 %%",
+        "DM: Yes, yes, you did. When did they appear? When did they appear? It was just after the last full moon, when everything started to go strange.",
+        "",
+        "%% u2514:0-22 %%",
+        "Seeker: How many days is that?",
+        "",
+        "%% u2515:0-19, u2516:0-8 %%",
+        "DM: That would be about 2 weeks,",
+        "",
+        "%% u2517:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u2518:0-27 %%",
+        "DM: A little more than 2 weeks.",
+        "",
+        "%% u2519:0-73 %%",
+        "Delwath: And that, kind of, how does that align with the timeline of the jade going?",
+        "",
+        "%% u2520:0-44, u2521:0-53, u2522:0-48 %%",
+        "DM: It does not align with the timeline of jade. It's roughly when—it would align with just about when Kenzo clone and Delwath clone, attacked Chardon.",
+        "",
+        "%% u2523:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u2524:0-32 %%",
+        "Delwath: But when did the jade disappear?",
+        "",
+        "%% u2525:0-36 %%",
+        "DM: That would have been a few days ago.",
+        "",
+        "%% u2526:0-24 %%",
+        "Delwath: So, more recently, okay.",
+        "",
+        "%% u2527:0-5 %%",
+        "DM: Yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: No, I forgot you had the—",
+          "Delwath: You should do that when you fail saving—",
+          "Kenzo: Fucking, like, what the fuck, everybody read your character sheet! You may have some random ass abilities you don't know about. That's, that's— I did not know that I had that. That's very useful. That's, like, extremely useful. That's very powerful, anyway.",
+          "DM: So meanwhile Delwath is, is following the bats into this tunnel, and as you fly up there's like a sort of slightly larger space where there's a bunch of bats that all seem to be clustered in and hiding, about 60 bats in total, all sort of packed into these tunnels.",
+          "DM: They all look emaciated and weak, and as you and the 2 you—but there's a lot of chattering, like these 2 bats that flew back with the food are are reporting back. The, you know, they're saying, like, strange 2 legs gave us food. They, they killed the chaos creatures. And everybody's chattering and saying, like, can we leave? Can we leave? We don't know. They might be dangerous. They seem to know how to speak, but they don't look like any beast we've ever seen. I don't know, maybe they're part of the chaos. Blah, blah, chattering back and forth, and then—"
+        ],
+        "after": [
+          "Delwath: Ow, Pandemonium. Would Pandemonium cause elemental confusion?",
+          "Seeker: Well, there's some kind of collision of multiple planes.",
+          "Delwath: Did Pandemonium crash into the elemental planes and spew strange elements into Taelgar?",
+          "Seeker: It's like Kong was saying, like, crazy Venn diagram intersection of all these different planes.",
+          "Kenzo: I like Pandemonium crashing planes together. That's a reasonable—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The young finder’s jade story and empty storage ledge",
+      "source": {
+        "startUid": "u2551",
+        "endUid": "u2669"
+      },
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2551:0-46 %%",
+        "Delwath: Green. I'll describe it, a glowing green rock.",
+        "",
+        "%% u2552:0-25, u2553:0-26, u2554:0-80, u2555:0-13 %%",
+        "DM: Found something like that a few months ago, I think. Lets out a series of squeaks, and this, like, little, like, teenage bat flies over. Shiny things.",
+        "",
+        "%% u2556:0-38, u2557:0-8 %%",
+        "Delwath: Yeah. Do you know what happened to it? Haven't—",
+        "",
+        "%% u2558:0-25, u2559:0-16, u2560:0-35, u2561:0-22, u2562:0-54, u2563:0-17, u2564:0-40, u2565:0-40, u2566:0-23, u2567:0-54, u2568:0-9, u2569:0-54, u2570:0-61, u2571:0-19, u2572:0-30, u2573:0-66, u2574:0-49, u2575:0-197 %%",
+        "DM: Seen it since we fled the chaos creatures! I found it, like, a few months ago. I— it's pretty to look at. An old tree that fell down opened up a clearing in the canopy, and I was poking around as one does, just, you know, what's in the dirt? What's in the roots? Why do trees fall down? What's going to grow in the place where they collapse? You know. But I found it, and it didn't look like a plant to me. I thought about maybe taking it to Eldest and asking him, but— but I thought maybe he would want it. Would it be— I mean, he's a tree and I found it in a tree, so maybe it was his. So I thought, no, it's like I probably shouldn't. I mean, I found it, so I think, you know, I could keep it, right? That, that makes sense, like it wasn't—it didn't have anybody's name on it, nobody was carrying it, it wasn't part of anybody's home.",
+        "",
+        "%% u2576:0-6, u2577:0-32, u2578:0-6, u2579:0-20, u2580:0-18 %%",
+        "DM: It was strange. It made me feel kind of happy, shiny, I don't know. I brought it back.",
+        "",
+        "%% u2581:0-121, u2582:0-136, u2583:0-5, u2584:0-41, u2585:0-18 %%",
+        "((Tree-rescue aside, return passage and rubble clarification))",
+        "",
+        "%% u2586:0-37 %%",
+        "Wellby: And after it brought it back, though—",
+        "",
+        "%% u2587:0-51 %%",
+        "Delwath: Yeah, that's, let's finish the story, yeah. Well, I—",
+        "",
+        "%% u2588:0-86, u2589:0-11, u2590:0-3, u2591:0-18, u2592:0-48, u2593:0-105, u2594:0-35 %%",
+        "DM: I mean, I guess I got a little bored eventually. I just left it lying around the cave. I, I think I— but, you know, maybe if—half moon before the all the bad stuff happened. But, you know, after a while, the same shiny thing just is another shiny thing, right? You have to find it new, shiny thing to be interesting.",
+        "",
+        "%% u2595:0-59 %%",
+        "Delwath: But it's gone now. Where—do you know where you last saw it?",
+        "",
+        "%% u2596:0-8, u2597:0-29, u2598:0-23 %%",
+        "DM: While it would have been in one of the storage caves, I guess.",
+        "",
+        "%% u2599:0-36 %%",
+        "Delwath: Can you show us these storage caves?",
+        "",
+        "%% u2600:0-7, u2601:0-22, u2602:0-33, u2603:0-19, u2604:0-28, u2605:0-7, u2606:0-25, u2607:0-72, u2608:0-30 %%",
+        "DM: Are the strange monsters gone? She looks—bat looks around, like, okay, if it's safe, yeah, we can go. No problem. Do you— I don't know how you move, like, you just walk like animals, right? It might be a little bit tricky. Can't—can you, you know, fly?",
+        "",
+        "%% u2609:0-18 %%",
+        "Delwath: We can, if needed.",
+        "",
+        "%% u2610:0-4, u2611:0-16, u2612:0-54, u2613:0-88, u2614:0-88, u2615:0-15 %%",
+        "DM: Wow! I'm happy to go. Echo, is it okay if I take them to the storage caves? The older bat who was talking is like, sure, I mean, we're just waiting for food, right? Maybe there's some food left in the storage caves. I don't know if these elementals eat. Okay, let's go.",
+        "",
+        "%% u2616:0-13, u2617:0-31 %%",
+        "DM: It flies off, stops for a minute, looks back.",
+        "",
+        "%% u2618:0-26 %%",
+        "Delwath: I mean we'll walk for now.",
+        "",
+        "%% u2619:0-68, u2620:0-46, u2621:0-3, u2622:0-19, u2623:0-95, u2624:0-4, u2625:0-55 %%",
+        "((Tree-rescue aside, return passage and rubble clarification))",
+        "",
+        "%% u2626:0-11, u2627:0-51, u2628:0-49, u2629:0-44, u2630:0-93, u2631:0-43, u2632:0-13, u2633:0-268, u2634:0-70, u2635:0-166, u2636:0-16, u2637:0-85, u2638:0-1, u2639:0-232, u2640:0-20, u2641:0-23 %%",
+        "DM: ((Return through the entrance caves)) that leads you to the middle one that has the big pool of water and takes you over to a like an area where there's a series of stalagmites that have been sort of chipped and, and smooth to make a flat surface where there's, like, strips of mango that are drying, and 1st goes and grabs and eats some of the mango, and then, I think it was here. I don't see it anymore.",
+        "",
+        "%% u2642:0-34, u2643:0-124, u2644:0-3, u2645:0-57, u2646:0-101, u2647:0-11, u2648:0-5 %%",
+        "((Tree-rescue aside, return passage and rubble clarification))",
+        "",
+        "%% u2649:0-15, u2650:0-46, u2651:0-12 %%",
+        "DM: Huh? It's gone. Yeah. I wonder if the chaos elementals ate it? Do they eat?",
+        "",
+        "%% u2652:0-12, u2653:0-53, u2654:0-75 %%",
+        "Delwath: We think it— We think it was only a few days ago that it vanished. Have you been—you've been hiding in from the chaos since it appeared, yes?",
+        "",
+        "%% u2655:0-5, u2656:0-78, u2657:0-5, u2658:0-41, u2659:0-16, u2660:0-43, u2661:0-79, u2662:0-43, u2663:0-79, u2664:0-42 %%",
+        "DM: Well, a few days after it appeared, yeah, that, that, at the beginning it was just the vines attacking Eldest, and he stopped talking. And we all fled. But then the monsters appeared in our cave. I think it all came from those vines, but I don't really know. It seemed weird. Huh, that's funny. I guess it's gone. Well, there's lots more things to find in the jungle. If you just know where to look. You have, you know, sharp eyes, good ears.",
+        "",
+        "%% u2665:0-37 %%",
+        "Delwath: Could you show us where you found it?",
+        "",
+        "%% u2666:0-25, u2667:0-22, u2668:0-110, u2669:0-44 %%",
+        "DM: Yeah, that would be easy. Do you want to go now? It's been a while since I left the cave. It would be very nice to get outside. Yeah, I bet the sun is shining. Maybe it's raining. That would be nice, too."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: At the jade.",
+          "Kenzo: Awesome. That's a good question.",
+          "Wellby: Yeah.",
+          "Seeker: As we always do. We're like laser focused on task here. Yes.",
+          "DM: This, this bat sort of flies around a little bit. Jade?"
+        ],
+        "after": [
+          "Delwath: Do we? Yeah, let's go. Why not.",
+          "DM: Flies out. Whoa! There's a giant floating rock!",
+          "Delwath: Get.",
+          "Seeker: Oops that.",
+          "Delwath: It's ours."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The finder shows the fallen tree and returns for food",
+      "source": {
+        "startUid": "u2671",
+        "endUid": "u2731"
+      },
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2671:0-10, u2672:0-36 %%",
+        "DM: Flies out. Whoa! There's a giant floating rock!",
+        "",
+        "%% u2673:0-4 %%",
+        "Delwath: Get.",
+        "",
+        "%% u2674:0-10 %%",
+        "Seeker: Oops that.",
+        "",
+        "%% u2675:0-10 %%",
+        "Delwath: It's ours.",
+        "",
+        "%% u2676:0-35 %%",
+        "DM: I've never seen rocks float before.",
+        "",
+        "%% u2677:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u2678:0-5, u2679:0-18, u2680:0-10, u2681:0-9, u2682:0-37, u2683:0-20 %%",
+        "DM: Wait, that's very weird. Hmm, okay, let's go. Flies down and off towards the jungle and then flies back.",
+        "",
+        "%% u2684:0-55, u2685:0-34, u2686:0-13, u2687:0-19, u2688:0-20, u2689:0-25, u2690:0-13, u2691:0-19, u2692:0-63, u2693:0-11, u2694:0-83, u2695:0-81, u2696:0-3 %%",
+        "((Travel preparations and ship-distance discussion))",
+        "",
+        "%% u2697:0-43 %%",
+        "DM: Wait, you control the ship with your voice?",
+        "",
+        "%% u2698:0-20 %%",
+        "Delwath: Yeah, it's our home.",
+        "",
+        "%% u2699:0-33 %%",
+        "DM: Make rocks follow you in the sky?",
+        "",
+        "%% u2700:0-68 %%",
+        "Delwath: Is that unusual? No, I know it's unusual. I'm just kidding with you.",
+        "",
+        "%% u2701:0-81 %%",
+        "Wellby: It was the perfect opportunity. Everybody does it. On the far side of the desert.",
+        "",
+        "%% u2702:0-40, u2703:0-24 %%",
+        "Seeker: All 2 legs have flying rock ships, yeah. That don't—don't trust—",
+        "",
+        "%% u2704:0-19, u2705:0-63, u2706:0-20, u2707:0-5, u2708:0-27, u2709:0-12, u2710:0-9, u2711:0-32, u2712:0-14, u2713:0-38, u2714:0-104, u2715:0-90, u2716:0-53, u2717:0-69, u2718:0-11 %%",
+        "((Travel preparations and ship-distance discussion))",
+        "",
+        "%% u2719:0-175, u2720:0-21, u2721:0-24, u2722:0-38 %%",
+        "DM: So you see just what looks like a natural clearing, like where just an old tree fell and opened up a clearing in the jungle, and the bat flies down into the roots of the tree. This is where it was. I don't see another one. Do those stones grow under many trees?",
+        "",
+        "%% u2723:0-79 %%",
+        "Delwath: No, they're quite rare. There's only there's only 5 of them in the whole world.",
+        "",
+        "%% u2724:0-18, u2725:0-34 %%",
+        "DM: That is very rare. When are we going to get our food?",
+        "",
+        "%% u2726:0-27, u2727:0-32 %%",
+        "Delwath: It's probably there by now. So as you get back to your cave—",
+        "",
+        "%% u2728:0-8 %%",
+        "DM: Go eat.",
+        "",
+        "%% u2729:0-5, u2730:0-63 %%",
+        "Delwath: Yeah. Go, we'll, we'll, we'll have more questions. We'll come find you.",
+        "",
+        "%% u2731:0-10 %%",
+        "DM: Flies off."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: We think it— We think it was only a few days ago that it vanished. Have you been—you've been hiding in from the chaos since it appeared, yes?",
+          "DM: Well, a few days after it appeared, yeah, that, that, at the beginning it was just the vines attacking Eldest, and he stopped talking. And we all fled. But then the monsters appeared in our cave. I think it all came from those vines, but I don't really know. It seemed weird. Huh, that's funny. I guess it's gone. Well, there's lots more things to find in the jungle. If you just know where to look. You have, you know, sharp eyes, good ears.",
+          "Delwath: Could you show us where you found it?",
+          "DM: Yeah, that would be easy. Do you want to go now? It's been a while since I left the cave. It would be very nice to get outside. Yeah, I bet the sun is shining. Maybe it's raining. That would be nice, too.",
+          "Delwath: Do we? Yeah, let's go. Why not."
+        ],
+        "after": [
+          "Delwath: I mean, there's presumably nothing very interesting here.",
+          "DM: Really.",
+          "Delwath: I watch.",
+          "DM: A.",
+          "Delwath: He doesn't want you to see it, but is asleep."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The jungle describes Canopy’s silence",
+      "source": {
+        "startUid": "u2962",
+        "endUid": "u3024"
+      },
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2962:0-33, u2963:0-45 %%",
+        "Kenzo: What do they—what's their names? No. What's the—tell, tell us about the vines.",
+        "",
+        "%% u2964:0-47 %%",
+        "Delwath: How did the vine—where—how about tell us the—",
+        "",
+        "%% u2965:0-10 %%",
+        "Seeker: So it's a—",
+        "",
+        "%% u2966:0-89, u2967:0-18 %%",
+        "Delwath: How did the vine come? What happened, right, like, what have you experienced with the vine? Is it scaring you?",
+        "",
+        "%% u2968:0-8, u2969:0-19, u2970:0-38, u2971:0-159, u2972:0-42, u2973:0-41, u2974:0-123 %%",
+        "DM: I don't— so, yes, what, what— so Kenzo spends a while sort of just, you know, speaking to the trees that are that are close that you can reach without getting too close to the vine, and you learn from talking to the jungle that the timing actually matches about when the when the chaos elementals appeared, maybe maybe a few days before or a few days after. It's, it's hard to be precise because plants don't keep precise track of time.",
+        "",
+        "%% u2975:0-7, u2976:0-46, u2977:0-45 %%",
+        "DM: But the the vines, the, the biggest thing is the vines, the thorns silenced the Eldest. Do they also—",
+        "",
+        "%% u2978:0-5 %%",
+        "((Brief interruption))",
+        "",
+        "%% u2979:0-7, u2980:0-3, u2981:0-14, u2982:0-16, u2983:0-22, u2984:0-11, u2985:0-24 %%",
+        "DM: Canopy, and when they came at 1st they just, at 1st they were small, and Canopy was quiet, but not hurt.",
+        "",
+        "%% u2986:0-27, u2987:0-3, u2988:0-51, u2989:0-40, u2990:0-10, u2991:0-121, u2992:0-18, u2993:0-13, u2994:0-39 %%",
+        "DM: But the vines kept growing. The chaos kept accumulating somehow, and the vines grew bigger and wilder, and began to strangle the Eldest and the Eldest is only the only one who remembers when we woke up long ago, and his voice is the voice of the jungle, and now we are silent. And the vines, they poison us, they poison our fruits.",
+        "",
+        "%% u2995:0-30, u2996:0-33 %%",
+        "Delwath: Was there always a jungle here, or in Drankorian times was this—",
+        "",
+        "%% u2997:0-66 %%",
+        "DM: No, this was like farmland. This was farmland in Drankorian times.",
+        "",
+        "%% u2998:0-66, u2999:0-30 %%",
+        "Delwath: So that's a little interesting, right? Did Eldest wake up to—wait, the jungle can't be more than—",
+        "",
+        "%% u3000:0-20 %%",
+        "DM: It's like 200 years.",
+        "",
+        "%% u3001:0-14 %%",
+        "Delwath: 200 years old.",
+        "",
+        "%% u3002:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u3003:0-2, u3004:0-41, u3005:0-19 %%",
+        "Delwath: So has Eldest only been awake for 200 years? That's interesting.",
+        "",
+        "%% u3006:0-36 %%",
+        "Seeker: Unless this forest was transplanted.",
+        "",
+        "%% u3007:0-37 %%",
+        "Delwath: Maybe the forest came from somewhere.",
+        "",
+        "%% u3008:0-57 %%",
+        "Seeker: Wait, wasn't this a forested area thousands of years ago?",
+        "",
+        "%% u3009:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u3010:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u3011:0-38, u3012:0-23 %%",
+        "Delwath: Before Drankor it was an elven forest. But that was destroyed.",
+        "",
+        "%% u3013:0-7 %%",
+        "Seeker: Was it?",
+        "",
+        "%% u3014:0-50, u3015:0-64 %%",
+        "Delwath: I don't know. Now I really want to meet the Eldest, but it's a dinky little tree compared to the elven eldest trees.",
+        "",
+        "%% u3016:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u3017:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u3018:0-28, u3019:0-30, u3020:0-3, u3021:0-21 %%",
+        "Delwath: But I mean, it could be their offshoot, descendant, brother, bad disciple, etc., right?",
+        "",
+        "%% u3022:0-8 %%",
+        "Seeker: Remnant.",
+        "",
+        "%% u3023:0-8, u3024:0-67 %%",
+        "Delwath: Remnant. The trees, the elven trees could have taught these things to speak."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: He was worried about—",
+          "Delwath: You watch.",
+          "Kenzo: In Kong— dream Kong is here. You can channel me.",
+          "Seeker: Do it. Why are you asking me?",
+          "DM: Plants of the jungle—"
+        ],
+        "after": [
+          "Delwath: But so, killing the vines should—let's fly a little closer, like 2,000 feet. Do the vines react?",
+          "DM: They do not seem to. But you can't see anything that's happening below the canopy.",
+          "Delwath: Right. All we can see is, like, the tendrils reaching out.",
+          "DM: Yeah, okay.",
+          "Delwath: Should we approach on the ground? Wellby, do you want to take a flying scout and see how close you can get before they try and kill you? Yeah, but—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Woody knot, vine attack and Wellby’s escape",
+      "source": {
+        "startUid": "u3067",
+        "endUid": "u3179"
+      },
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "lines": [
+        "%% u3067:0-23, u3068:0-89, u3069:0-22, u3070:0-90, u3071:0-64, u3072:0-6, u3073:0-6, u3074:0-101, u3075:0-4, u3076:0-12, u3077:0-53, u3078:0-86, u3079:0-122, u3080:0-26, u3081:0-10 %%",
+        "DM: ((Scouting description)) there's something hard and solid beneath the massive vines right near the roots of this giant tree, ((Size and appearance)) almost like a tumor. But the vines keep crawling over it, on top of it, almost like they're trying to pile up around it around this like hard knot.",
+        "",
+        "%% u3082:0-18, u3083:0-79, u3084:0-13, u3085:0-9, u3086:0-9, u3087:0-68, u3088:0-54, u3089:0-5, u3090:0-23, u3091:0-60, u3092:0-8, u3093:0-60, u3094:0-29, u3095:0-4, u3096:0-81, u3097:0-5, u3098:0-31, u3099:0-23, u3100:0-7, u3101:0-11, u3102:0-78, u3103:0-16, u3104:0-24, u3105:0-42, u3106:0-27, u3107:0-4, u3108:0-74, u3109:0-12, u3110:0-179, u3111:0-9, u3112:0-220, u3113:0-32, u3114:0-69, u3115:0-102, u3116:0-54, u3117:0-36, u3118:0-45, u3119:0-72, u3120:0-26, u3121:0-39, u3122:0-16, u3123:0-29, u3124:0-64, u3125:0-59, u3126:0-5, u3127:0-5, u3128:0-13, u3129:0-7, u3130:0-23, u3131:0-2, u3132:0-44, u3133:0-9, u3134:0-102, u3135:0-21 %%",
+        "((Scouting approach, tactics and combat mechanics))",
+        "",
+        "%% u3136:0-48 %%",
+        "DM: ((Rules reply)) it also grabs you and pulls you in.",
+        "",
+        "%% u3137:0-69, u3138:0-24, u3139:0-38, u3140:0-7, u3141:0-8, u3142:0-33, u3143:0-49, u3144:0-23, u3145:0-20, u3146:0-8, u3147:0-12, u3148:0-128, u3149:0-27, u3150:0-26, u3151:0-22, u3152:0-29, u3153:0-29, u3154:0-51, u3155:0-10, u3156:0-29, u3157:0-34, u3158:0-32, u3159:0-67, u3160:0-23, u3161:0-56, u3162:0-74, u3163:0-13 %%",
+        "((Scouting approach, tactics and combat mechanics))",
+        "",
+        "%% u3164:0-50 %%",
+        "DM: But then it's going to—the vines grow around you,",
+        "",
+        "%% u3165:0-3 %%",
+        "((Scouting approach, tactics and combat mechanics))",
+        "",
+        "%% u3166:0-14, u3167:0-12, u3168:0-41, u3169:0-78 %%",
+        "DM: ((Combat mechanics)) you are covered in vines. ((Condition mechanics))",
+        "",
+        "%% u3170:0-3, u3171:0-72, u3172:0-41, u3173:0-18, u3174:0-49 %%",
+        "((Scouting approach, tactics and combat mechanics))",
+        "",
+        "%% u3175:0-16, u3176:0-44 %%",
+        "DM: You, you succeed, yes. Can—actually, you can actually escape.",
+        "",
+        "%% u3177:0-29, u3178:0-20 %%",
+        "Wellby: ((Escape mechanics)) and zip on out of there.",
+        "",
+        "%% u3179:0-5 %%",
+        "DM: Okay."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And actually, as you duck down, you can see, even when you're, like, 3, 400 feet away, that— so there's, there's a clearing in which this tree grows up in the center of, and there's, and there's trees around it. It actually, it almost looks like a grove, like the, like, there's a, like, a arranged grove. There's this tall tree in the middle, and then there's a circle of trees around it, and almost a perfect circle, all kind of facing each other, but that entire area must be a few 100 feet, is like covered in these vines that are, like, writhing on the ground. Go ahead and make a Perception check.",
+          "Kenzo: Everybody?",
+          "DM: No, just, just—",
+          "Delwath: Wellby's doing a flying scout of the vine.",
+          "Kenzo: How nice!"
+        ],
+        "after": [
+          "Delwath: Okay, so Vindristjarna is—if it's speed is 10 miles an hour, its move would be 85 approximately or 90.",
+          "Seeker: Did you—how did you determine that?",
+          "Delwath: I Googled what is the D&D speed of 10 miles per hour and got somebody who did the math.",
+          "Seeker: Alright!",
+          "Delwath: But it's, I mean, it's, it's— it would be, how many feet per second is 10 miles, 10 miles an hour? I mean, you could also do 10 mph in feet per second, which is 14 feet per second, so call it 15 times—oh, wait, actually that math, yeah, yeah, 14, 14.6 feet per second is 88 feet per round because a round is 6 seconds, so—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

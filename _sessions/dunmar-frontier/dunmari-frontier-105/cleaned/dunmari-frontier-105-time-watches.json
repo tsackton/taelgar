@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-time-markers.json",
+    "sha256": "c83daa4ffb0e4dbc700fa0074c7a400ed4d961300d5af35cf15d7d36f8e5fe0c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-transcript.md",
+    "sha256": "e39d9a4ca7c6eb7fbac87daab1d0b30a1651353e6e240d0db648d0cd20ca1b6b"
+  },
+  "dateAssessment": "Working calendar: YAML supplies 1749; t01 independently states May 16. The same-day morning return, afternoon cave exploration and evening Canopy approach fit May 16 with no midnight crossing. The recalled pre-teleport long rest is not a new overnight in this session. Session 106 u0009–u0012 calls the continuing approach “approaching sunset,” and u0040–u0052 explicitly resumes Wellby’s scout from moments earlier; this supports dusk for the closing approach. Departure watch remains open. The DM’s two-hour journey, Delwath’s ninety-minute recollection, and the campaign note’s one-hour timeline remain distinct readings. Session 107 is registered narrative material on May 18 (prepared u0011–u0025), between transcripts 106 and 108; it has not been bypassed to infer a transcript-to-transcript handoff.",
+  "watches": [
+    {
+      "day": "May 16, 1749",
+      "startDate": "1749-05-16",
+      "endDate": "1749-05-16",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Morning teleport recalled at opening; DM confirms about six hours back aboard before investigation.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "May 16, 1749",
+      "startDate": "1749-05-16",
+      "endDate": "1749-05-16",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Opening afternoon; Wellby’s 30–40-minute vulture scout ends at about 3 p.m.",
+      "markers": [
+        "t01",
+        "t03",
+        "t04"
+      ]
+    },
+    {
+      "day": "May 16, 1749",
+      "startDate": "1749-05-16",
+      "endDate": "1749-05-16",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Late-evening approach: DM narrates two hours; player recalls ninety minutes. Short rest occurs during travel.",
+      "markers": [
+        "t05",
+        "t06"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 105 campaign record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 105 (DuFr).md",
+      "sha256": "b56dfab7fa598bac8620aa480bf00ee74891a3b70fdb623f8e15e3f39d571fda"
+    },
+    {
+      "label": "Session 106 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-transcript.md",
+      "sha256": "bf75daf8aa690ac562e272c4215d165be1db7e0ca6750f8ab358353925c82fd5"
+    },
+    {
+      "label": "Session 107 narrative registration",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml",
+      "sha256": "0d6fc292ea394e4413c26ad554657f9acfde23b512f71bd1bc09fae6215e74f1"
+    },
+    {
+      "label": "Session 107 prepared narrative",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md",
+      "sha256": "39682711279b31db958790d59901476d5669c1649af079b8c5275be5c19bd9ef"
+    }
+  ]
+}
