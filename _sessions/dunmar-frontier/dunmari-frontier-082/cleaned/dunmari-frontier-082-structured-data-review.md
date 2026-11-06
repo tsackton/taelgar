@@ -11,7 +11,7 @@
 
 ## In-world time
 
-Working dates follow the spoken December 25 departure, December 28 return, and the next-day transitions through December 30; only the year 1748 is inherited from YAML. The time extraction matches all five date boundaries: three in the voyage and two in Tollen. Weekday labels remain inconsistent (t06: u0628–u0629 versus u0710); they have not been used to shift the explicit dates. The final consultation’s afternoon watch is inferred from Umli’s invitation, and its exact clock and full attendance remain unstated.
+Working dates follow the spoken December 25 departure, December 28 return, and the next-day transitions through December 30; only the year 1748 is inherited from YAML. The time extraction matches all five date boundaries: three in the voyage and two in Tollen. Weekday labels remain inconsistent (t06: u0628–u0629 versus u0710); they have not been used to shift the explicit dates. The final consultation’s morning watch is inferred from session 083’s recap of the same Inkaye visit (u0044–u0054), within its Tuesday-afternoon opening frame (u0018–u0026). Umli’s Tuesday-afternoon invitation offers timing rather than establishing actual attendance; the exact clock and full attendance remain unstated.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
@@ -27,7 +27,7 @@ Working dates follow the spoken December 25 departure, December 28 return, and t
 | December 29, 1748 | Afternoon | inferred | Hugo speaks for ten more minutes during the afternoon street party. | t13 |
 | December 29, 1748 | Dusk | mixed | Dusk departure; university arrival just after sunset, then an hour or two of mingling, perhaps longer. | t14–t16 |
 | December 29, 1748 | Open | — | The DM says it is getting late after Thomas’s conversation; no in-world clock is given. | t17 |
-| December 30, 1748 | Afternoon | inferred | **Delwath and unspecified companions** · The next-day Tuesday consultation follows Umli’s afternoon invitation; its exact clock is unstated. | t18 |
+| December 30, 1748 | Morning | inferred | **Delwath and unspecified companions** · Session 083’s recap (u0044–u0054) places this Inkaye consultation this morning, before its Tuesday-afternoon opening. | t18 |
 
 ## Locations
 
@@ -91,4 +91,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:02** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-082-transcript.md) · [Time Markers](dunmari-frontier-082-time-markers.json) · [Location Markers](dunmari-frontier-082-location-markers.json) · [Entity Map](dunmari-frontier-082-entity-map.json) · [Interactions](dunmari-frontier-082-interactions.json) · [Combat](dunmari-frontier-082-combat.json) · [Segments](dunmari-frontier-082-segments.json) · [Watch data](dunmari-frontier-082-time-watches.json) · [Cecilia date](../../../../People/Tollenders/Cecilia%20Lister.md) · [Aurelia date](../../../../People/Other%20Nonhumans/Aurelia.md) · [Umli date](../../../../People/Other%20Nonhumans/Umli.md) · [Hugo venue](../../../../People/Tollenders/Hugo%20Dupont.md) · [Demon identity](../../../../People/Other%20Nonhumans/Mashtu%20the%20Corruptor.md) · [Play title](../../../../Things/Books/Luminastra%27s%20Gift.md)
+Sources · [Transcript](dunmari-frontier-082-transcript.md) · [Time Markers](dunmari-frontier-082-time-markers.json) · [Location Markers](dunmari-frontier-082-location-markers.json) · [Entity Map](dunmari-frontier-082-entity-map.json) · [Interactions](dunmari-frontier-082-interactions.json) · [Combat](dunmari-frontier-082-combat.json) · [Segments](dunmari-frontier-082-segments.json) · [Watch data](dunmari-frontier-082-time-watches.json) · [Cecilia date](../../../../People/Tollenders/Cecilia%20Lister.md) · [Aurelia date](../../../../People/Other%20Nonhumans/Aurelia.md) · [Umli date](../../../../People/Other%20Nonhumans/Umli.md) · [Hugo venue](../../../../People/Tollenders/Hugo%20Dupont.md) · [Demon identity](../../../../People/Other%20Nonhumans/Mashtu%20the%20Corruptor.md) · [Play title](../../../../Things/Books/Luminastra%27s%20Gift.md) · [Session 083 recap (u0018–u0026; u0044–u0054)](../../dunmari-frontier-083/cleaned/dunmari-frontier-083-transcript.md)

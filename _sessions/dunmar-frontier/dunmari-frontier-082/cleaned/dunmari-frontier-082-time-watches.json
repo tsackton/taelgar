@@ -3,13 +3,13 @@
   "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-session.yaml",
   "source": {
     "path": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-time-markers.json",
-    "sha256": "87c362aa0018612628e706ce723f314f4287af42856164e3a48c09e6b481da05"
+    "sha256": "303447bbdd2b94d3c95ae8f6a0ac42092388bf93bd4abe2d8ddd22d5c52803e1"
   },
   "transcript": {
     "path": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-transcript.md",
     "sha256": "e11b9d8ed90703f7aa0d457b60fba2ecc8e554784164b4b4f216c5dfe1a65642"
   },
-  "dateAssessment": "Working dates follow the spoken December 25 departure, December 28 return, and the next-day transitions through December 30; only the year 1748 is inherited from YAML. The time extraction matches all five date boundaries: three in the voyage and two in Tollen. Weekday labels remain inconsistent (t06: u0628–u0629 versus u0710); they have not been used to shift the explicit dates. The final consultation’s afternoon watch is inferred from Umli’s invitation, and its exact clock and full attendance remain unstated.",
+  "dateAssessment": "Working dates follow the spoken December 25 departure, December 28 return, and the next-day transitions through December 30; only the year 1748 is inherited from YAML. The time extraction matches all five date boundaries: three in the voyage and two in Tollen. Weekday labels remain inconsistent (t06: u0628–u0629 versus u0710); they have not been used to shift the explicit dates. The final consultation’s morning watch is inferred from session 083’s recap of the same Inkaye visit (u0044–u0054), within its Tuesday-afternoon opening frame (u0018–u0026). Umli’s Tuesday-afternoon invitation offers timing rather than establishing actual attendance; the exact clock and full attendance remain unstated.",
   "watches": [
     {
       "day": "December 25–28, 1748",
@@ -174,20 +174,14 @@
     },
     {
       "day": "December 30, 1748",
-      "startWatch": "afternoon",
-      "endWatch": "afternoon",
+      "startWatch": "morning",
+      "endWatch": "morning",
       "basis": "inferred",
-      "summary": "The next-day Tuesday consultation follows Umli’s afternoon invitation; its exact clock is unstated.",
+      "summary": "Session 083’s recap (u0044–u0054) places this Inkaye consultation this morning, before its Tuesday-afternoon opening.",
       "markers": [
         "t18"
       ],
       "startDate": "1748-12-30",
-      "sourceRanges": [
-        [
-          "u0565",
-          "u0566"
-        ]
-      ],
       "scope": "Delwath and unspecified companions",
       "endDate": "1748-12-30"
     }
@@ -222,6 +216,11 @@
       "label": "Play title",
       "path": "Things/Books/Luminastra's Gift.md",
       "sha256": "7d31f4dd3f53f69ba980fd58e190c120118430cbc2e4f55fc3a6635207c5798d"
+    },
+    {
+      "label": "Session 083 recap (u0018–u0026; u0044–u0054)",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-transcript.md",
+      "sha256": "b96c570d4fcaf610db1d2b90fc0b726de772416da1f5313403b67e22da05bdd8"
     }
   ]
 }
