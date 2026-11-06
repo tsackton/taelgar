@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-time-markers.json",
+    "sha256": "d78a1f49bff7853a34b8a37647854030e94a9a527052822503c3fae55036fe70"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-transcript.md",
+    "sha256": "75516fdf5b067b4af32f6cf9c98d5d67aced0182dfe0908a1a056be360697e4a"
+  },
+  "dateAssessment": "Working year and opening date come from YAML (September 30–October 6, 1748); October 2 is independently spoken at village arrival. The time extraction remains **compatible**, not matched: the two-day village stay has open endpoints, and play ends at departure toward the second camp. Its one-day journey is a forecast, with no completed October 6 arrival. The prior ten-day Te'kula stay and Great War accounts do not extend this session's elapsed play.",
+  "watches": [
+    {
+      "day": "September 30, 1748",
+      "startDate": "1748-09-30",
+      "endDate": "1748-09-30",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Delwath lands in late afternoon trending toward dusk; the opening date is YAML-derived.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "September 30–October 1, 1748",
+      "startDate": "1748-09-30",
+      "endDate": "1748-10-01",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Camp evening ends with morning departure; retrospective questions revisit the pre-departure interval without adding time.",
+      "markers": [
+        "t02",
+        "t06"
+      ]
+    },
+    {
+      "day": "October 1–2, 1748",
+      "startDate": "1748-10-01",
+      "endDate": "1748-10-02",
+      "startWatch": "morning",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Morning departure and about two days uphill; October 2 afternoon arrival is stated. Narration resumes this journey.",
+      "markers": [
+        "t03",
+        "t07"
+      ]
+    },
+    {
+      "day": "October 2, 1748",
+      "startDate": "1748-10-02",
+      "endDate": "1748-10-02",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "After the arrival feast, Ninu speaks privately with Delwath in the firelight.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "During October 2–5, 1748",
+      "dateWindow": [
+        "1748-10-02",
+        "1748-10-05"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Two-day village stay replaces next-day departure; whether it includes arrival day remains open.",
+      "markers": [
+        "t05"
+      ]
+    }
+  ]
+}
