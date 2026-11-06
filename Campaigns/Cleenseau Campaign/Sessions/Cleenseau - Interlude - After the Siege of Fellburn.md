@@ -1,5 +1,5 @@
 ---
-tags: [session-note]
+tags: [session-note, status/check/ai]
 name: "Interlude: After the Siege of Fellburn"
 campaign: Cleenseau
 realWorldDate: 2024-05-24
@@ -41,10 +41,8 @@ After the siege, the party exchanges news with the victors, witnesses the succes
 
 - [[Siege of Fellburn - Email Scene]]
 - [[Siege of Fellburn - Duke's Camp]]
-- [[Fellburn Aftermath - Audience with Duke]]
 - [[Fellburn Audience with the Duke]]
 - [[The Oracle of Hope|The Oracle of Hope email scene]]
-- [[Meeting Lenora]]
 - [[Meeting Lenora - Email Scene]]
 - [[Viepuck's Visit to Fellburn]]
 - [[Celyn's Letter to His Brother Pryce]] (written in Fellburn; delivery not established)

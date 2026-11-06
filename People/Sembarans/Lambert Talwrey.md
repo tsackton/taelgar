@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 died: 1720-02-16
 name: Lambert Talwrey
@@ -49,5 +49,5 @@ Temporal coverage: the hidden account concerns his death and the Cranford murder
 
 - [ ] **Warning — metadata.names_unresolved_status:** Review the proposed full-name pronunciation `LAM-bert TAL-ree` in `Metadata:names:v1`. No language or accepted pronunciation is established for this name. This cautious spelling-based proposal uses LAM-bert, a short a in Tal-, silent w in the wr sequence, and final -rey as ree. The family-name reading is uncertain. If accepted, copy it to frontmatter and mark the entry documented; otherwise revise the persistent proposal.
 
-- [ ] **Warning — coverage.established_fact_missing:** [[Juliana Westby]] identifies Lambert as her suitor, murdered by Areschera while she impersonated Tobias; [[cleenseau-017-session-recap]] records the ensuing investigation. The target leaves every identifying fact inside a comment. Candidate: “Lambert Talwrey was a suitor of [[Juliana Westby]]. In February DR 1720 he was murdered by [[Areschera]], who impersonated [[Tobias of Cranford]] and nearly caused Tobias to be condemned for the crime.” Use the public sources for this addition and retain the comment’s private motive and planning material separately.
+- [ ] **Warning — coverage.established_fact_missing:** [[Juliana Westby]] identifies Lambert as her suitor, murdered by Areschera while she impersonated Tobias; Session 17 recap (retired; retained source: [[01-cleenseau-blog-788697 - Original]]) records the ensuing investigation. The target leaves every identifying fact inside a comment. Candidate: “Lambert Talwrey was a suitor of [[Juliana Westby]]. In February DR 1720 he was murdered by [[Areschera]], who impersonated [[Tobias of Cranford]] and nearly caused Tobias to be condemned for the crime.” Use the public sources for this addition and retain the comment’s private motive and planning material separately.
 %%^End%%

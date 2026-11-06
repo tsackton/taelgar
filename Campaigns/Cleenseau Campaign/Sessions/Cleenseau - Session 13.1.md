@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 websiteSessionView: zoomable
 campaign: Cleenseau
 arc: null
@@ -33,7 +33,7 @@ After dinner in [[Corrine Morphokamia|Corrine's]] house, the party discusses fea
 ## Timeline
 
 > [!info] Table Notes
-> January 16 is reconstructed from the overnight sequence before the lake descent and the dated January 18 ride east. This evening was played by email after Session 13 as a flashback. The exchange ran April 1–27, 2024. Sources: [[An Evening in Corrine's House - Authored Turns]] and [[An Evening in Corraine's House]].
+> January 16 is reconstructed from the overnight sequence before the lake descent and the dated January 18 ride east. This evening was played by email after Session 13 as a flashback. The exchange ran April 1–27, 2024. Sources: [[An Evening in Corrine's House - Authored Turns]].
 
 - (DR:: 1720-01-16), evening: The party speaks with Corrine after dinner while Odo and [[Armand]] retire for the night.
 

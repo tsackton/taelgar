@@ -1,7 +1,6 @@
 # The Merriweathers (Email)
 
 Complete local archive of the The Merriweathers correspondence (1 message). Message bodies preserve quoted reply history.
-Scene setup: [[Celyn and the Merriweathers]].
 
 ## Thu, 30 Oct 2025 01:00:26 -0400 — Kiya Nicoll <darkhawk@mindspring.com>
 

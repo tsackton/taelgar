@@ -8,9 +8,12 @@ sourceTitle: Celyn and the Merriweathers
 sourceAuthor: Mike Sackton and Kiya Nicoll
 drStart: '1720-05'
 drEnd: null
-sourceInputPath: D:/personal/taelgar/_sessions/cleenseau/cleenseau-029.1/sources/The Merriweathers - Authored Turns.md
+sourceInputPath: "_sessions/cleenseau/cleenseau-029.1/sources/The Merriweathers (Email).md"
 sourceConfigPath: D:/personal/taelgar/_sessions/cleenseau/cleenseau-029.1/sources/cleenseau-session029.1.yaml
 narrativeUnit: paragraph
 participants:
 - {name: Mike Sackton, gameRole: DM, transcriptIdentifiers: []}
 - {name: Kiya Nicoll, gameRole: Celyn, transcriptIdentifiers: []}
+# The retained email archive includes quoted reply history.
+# Extract each authored turn once before preparing new derived artifacts.
+# Existing prepared/cleaned text retains the earlier authored-turn segmentation.

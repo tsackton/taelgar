@@ -3,7 +3,7 @@ campaign: Cleenseau
 ---
 # Fellburn Audience with the Duke
 
-Email play-by-email exchange. All fourteen authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. Raw-email compilation: [[Fellburn Aftermath - Audience with Duke]].
+Email play-by-email exchange. All fourteen authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Wed, 29 May 2024 21:02:28 -0400
 

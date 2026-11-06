@@ -1,6 +1,6 @@
 # An Evening in Corrine's House
 
-Email play-by-email exchange. All eight authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. Earlier raw-email compilation: [[An Evening in Corraine's House]].
+Email play-by-email exchange. All eight authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Mon, 1 Apr 2024 22:24:19 -0400
 
