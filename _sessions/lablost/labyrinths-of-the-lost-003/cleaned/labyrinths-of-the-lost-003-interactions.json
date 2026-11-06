@@ -1,0 +1,1645 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "3f3990408f6a451bf48cefb53b67db8430c65fa072784294d1181c78cadd7f8c"
+    },
+    "entityMap": {
+      "path": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-entity-map.json",
+      "sha256": "68ae21c7de6d8164542655363eeeea21045d782e2e3fcc9626634cb5909cec1e"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The captain’s anger and Petrona deception recalled",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0020"
+      },
+      "lines": [
+        "%% u0006:0-146, u0007:0-38, u0008:0-53 %%",
+        "((Hideout recap))",
+        "",
+        "%% u0009:0-10, u0010:0-26, u0011:0-67, u0012:0-136, u0013:0-106, u0014:0-130, u0015:0-19 %%",
+        "DM: After some very clever deception from Gaudin, convincing the pirate that you, in fact, were his lost love. What was her name? Petrona? He revealed that Grimstone comes up and down this trap door once a week when he goes to petrify his victims. And had been pretending or encouraging, telling this ghost that he would bring news of this woman he lost, never did until you pretended to be her, and he turned angrily against—yeah, that was awesome. Yes, that was a very clever bit of role playing there.",
+        "",
+        "%% u0016:0-41, u0017:0-63 %%",
+        "((Trapdoor description))",
+        "",
+        "%% u0018:0-45, u0019:0-129, u0020:0-17 %%",
+        "DM: The ghost, who said he can't leave this room—he's tied here by the curse that has left him bound to this world, but angrily encouraging you to go find the betrayer who's lied and slaughter him.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So, so just to set the scene. Oh, here, let me, let me get some music going.",
+          "DM: So, so you are currently standing in the bedroom, a— what was once, long ago, like hundreds of years ago, the, the master bedroom suite of this Perdoli family that built this manor."
+        ],
+        "after": [
+          "DM: So, with that you can jump in the hole.",
+          "Gaudin: You can retreat.",
+          "Dilion: Was there any objections to strolling ahead?",
+          "Acescale: Can always retreat later. Maybe it does.",
+          "Dilion: What if it's safer in there, you know, like we could make a, another, another—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The burned pirate band and the navy’s arrival",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0505",
+        "endUid": "u0516"
+      },
+      "lines": [
+        "%% u0505:0-48, u0506:0-90, u0507:0-13, u0508:0-141, u0509:0-126 %%",
+        "DM: Otherwise everything is burned. You do manage to kind of get a sense of the of what happened here as well, just from the how high you roll. Which is that like, these were presumably the— just from the skeleton, from like little bits of, of armor that's remained from the melted bits of the swords. These are probably pirates, like from the same as the captain up above, who made this lair their lair here 30 or 40 years ago.",
+        "",
+        "%% u0510:0-31, u0511:0-18 %%",
+        "Dilion: How, how far from the coast up, like, is this out?",
+        "",
+        "%% u0512:0-9, u0513:0-244 %%",
+        "DM: 20 miles? You're not that—you're, you're not that far from the coast. But this whole area, this whole, like coastal area, was basically ruled by pirates 50 years ago, and then the like navy from across the sea—Cameo came in and drove all the pirates out.",
+        "",
+        "%% u0514:0-7, u0515:0-137, u0516:0-86 %%",
+        "DM: And now this, like other country, Tollen or city Tollen, pretty much rules this area. But you know, 50 years ago this was basically like a pirate safe haven, essentially. And so there would be all these like bolt-holes in the hills.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: I was looking up on the ceiling, and I was just like, \"Why is—there should be stuff up here. I don't get it.\"",
+          "DM: You've, you've never flown before. This is the first time you've ever done it, and it's just a really, like you're still riding that high flying in the air.",
+          "Acescale: If the explosion blew stuff up, it should be here, right?",
+          "DM: However, Dilion, you managed to do to uncover a few things.",
+          "DM: You find a— well, it's probably not that useful, but there is like a melted clump of short swords, just like probably 3 of them that are all like twisted and melted, but might be more useful, is like this—underneath one of the skeletons, it's like a weird sort of shimmering, melted ingot of like silver, with a few little lines of gold through it. Like somebody's purse got melted by an intense fire. But it's like, you know a, a good pound. It's a decent amount of silver, and maybe there's a way you could get the gold out somehow. Might be worth a little bit more than a pound of silver would be normally."
+        ],
+        "after": [
+          "DM: You, you do also see—it looks like there are tracks going back and forth like frequent recent tracks, like into the—past the door into the sort of cavern beyond, and then back and in and back. It looks like a pretty well worn trail. From where you—the pit where you came down the rope ladder into the cavern and back. But not, not like tracks of an army, like one or 2 people.",
+          "Dilion: It's been like a smuggling—a smuggler's den. And—",
+          "DM: Oh, this is a lot more recent. This is probably—this would be like Grimstone.",
+          "Dilion: Yeah. But like, maybe it was a smuggler's den for the pirates. And now it's become a bit of like a co-opted sort of I don't know—in—not inventory management. Maybe they're trying to shuffle particular things, people, statues, maybe. In and out of area. Okay.",
+          "Dilion: Just a chew toy for the steampup. And I think I was, I was able to really get from a nice, a nice silver ingot bone for steam—seems like exactly where that sort of metal dog, sharpen his teeth and—cool."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Deceiving the assistant and Steampup’s petrification test",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0699",
+        "endUid": "u0844"
+      },
+      "lines": [
+        "%% u0699:0-37, u0700:0-32, u0701:0-35 %%",
+        "Loria: I think not expecting company, is he? No, I think I took a wrong turn. Is this the way to the wine cellar?",
+        "",
+        "%% u0702:0-78 %%",
+        "DM: Moves down the hallway a little bit in your direction. ((Deception roll))",
+        "",
+        "%% u0703:0-46 %%",
+        "((Table aside))",
+        "",
+        "%% u0704:0-17 %%",
+        "DM: I don't think so.",
+        "",
+        "%% u0705:0-47, u0706:0-39, u0707:0-3, u0708:0-54 %%",
+        "Gaudin: Can we hear what's going on farther back in the— 5 feet behind, though. I quickly step in and I kind of cringe, and I, and I kick Loria on the ground.",
+        "",
+        "%% u0709:0-3 %%",
+        "Unknown: So.",
+        "",
+        "%% u0710:0-13, u0711:0-31 %%",
+        "Gaudin: And I'm like, \"They never shut up, don't they?\"",
+        "",
+        "%% u0712:0-40, u0713:0-23 %%",
+        "DM: This like a special treat for Grimstone? What are you doing now?",
+        "",
+        "%% u0714:0-24, u0715:0-42, u0716:0-27 %%",
+        "Gaudin: I just do what I'm told. Can you point me where I need to take him? Haven't even had lunch yet.",
+        "",
+        "%% u0717:0-38, u0718:0-4, u0719:0-35, u0720:0-19, u0721:0-44 %%",
+        "DM: I'm not certain what's happening here. This halfling is for Grimstone, but it's—you're a day early. And who are you? I've never seen you before.",
+        "",
+        "%% u0722:0-38 %%",
+        "Gaudin: I was told, \"Bring these idiots to him.\"",
+        "",
+        "%% u0723:0-11 %%",
+        "DM: Told by who?",
+        "",
+        "%% u0724:0-26 %%",
+        "Gaudin: One of the fucking goblins.",
+        "",
+        "%% u0725:0-30, u0726:0-20, u0727:0-21 %%",
+        "((Deception check))",
+        "",
+        "%% u0728:0-113 %%",
+        "DM: I was just looking at, at Gaudin, what, what is—what are you disguised as at the moment? Still in your—still in elf?",
+        "",
+        "%% u0729:0-26 %%",
+        "Gaudin: Yeah. And my elf disguise.",
+        "",
+        "%% u0730:0-5, u0731:0-105, u0732:0-196 %%",
+        "DM: Okay. Kind of relaxes a moment and then kind of does a slight double take as he, as he looks at you, and is just still seems quite confused as to what's going on like looking around like, nobody's tied up. Nobody is like—you can, you can see like it's taking him some time to kind of process what's happening.",
+        "",
+        "%% u0733:0-54 %%",
+        "DM: He always wants them to be stoned before he sees them.",
+        "",
+        "%% u0734:0-87 %%",
+        "Gaudin: Maybe he is. It could be getting bored. I don't know. I've never been down here before.",
+        "",
+        "%% u0735:0-1, u0736:0-47 %%",
+        "DM: A—maybe we should just take care of them quickly.",
+        "",
+        "%% u0737:0-18 %%",
+        "Gaudin: How do we do that?",
+        "",
+        "%% u0738:0-34, u0739:0-53, u0740:0-26, u0741:0-130 %%",
+        "DM: And he goes back, and he's sort of— you can see that there's like a crate. There's like a—next to this straw bedding there's, there's a crate, and there's like an open chest. And he goes back, and he, he like rummages through the chest for a minute.",
+        "",
+        "%% u0742:0-28, u0743:0-50 %%",
+        "DM: Thought I had one more dose. Must be here somewhere. Grimstone's gonna kill me!",
+        "",
+        "%% u0744:0-63 %%",
+        "DM: Roots around for another minute. Are y'all just standing there?",
+        "",
+        "%% u0745:0-41 %%",
+        "Gaudin: Like I don't think he wants these stoned.",
+        "",
+        "%% u0746:0-51, u0747:0-29, u0748:0-41 %%",
+        "DM: I've never seen you before. Don't know who you are. I'm not gonna risk his wrath. See what happens—the last person that he—",
+        "",
+        "%% u0749:0-30, u0750:0-7 %%",
+        "DM: Don't want my head smashed in, do you?",
+        "",
+        "%% u0751:0-3, u0752:0-35 %%",
+        "Gaudin: No. I'm like looking at everybody else.",
+        "",
+        "%% u0753:0-52, u0754:0-35, u0755:0-72 %%",
+        "DM: I'll keep him here if you wanna go talk to Grimstone. I wouldn't interrupt him right now. He's convinced the latest batch is the key. Working on some crazy potion.",
+        "",
+        "%% u0756:0-28, u0757:0-46 %%",
+        "Gaudin: Maybe this is what he needs. These are not visitors, these are ingredients.",
+        "",
+        "%% u0758:0-119, u0759:0-11 %%",
+        "DM: \"I found it.\" It takes out this vial of this like greenish sort of thick liquid that's sort of bubbling slightly in this small vial.",
+        "",
+        "%% u0760:0-29, u0761:0-28 %%",
+        "DM: Damn, had only one dose. Well— Eeny meeny I didn't give it.",
+        "",
+        "%% u0762:0-66, u0763:0-17 %%",
+        "Gaudin: I've been worried about this item. Go—I've been worried about. I'm—give me a minute.",
+        "",
+        "%% u0764:0-72 %%",
+        "DM: Eeny meeny miny moe, catch a tiger by the toe. If he hollers, let him go.",
+        "",
+        "%% u0765:0-18, u0766:0-27, u0767:0-6, u0768:0-28 %%",
+        "Acescale: I'll throw it out. I'll throw a screaming rock across trying to get it behind him.",
+        "",
+        "%% u0769:0-29, u0770:0-26 %%",
+        "((Throwing check))",
+        "",
+        "%% u0771:0-15, u0772:0-13, u0773:0-102 %%",
+        "DM: It bounces like slightly past like into the straw of his bedding and it—when it's just screaming, it's just like randomly screaming.",
+        "",
+        "%% u0774:0-13, u0775:0-4, u0776:0-23 %%",
+        "DM: \"What the hell?\" Goes \"One of you doing magic?\"",
+        "",
+        "%% u0777:0-55 %%",
+        "DM: Oh, there's no magic down here, that's Grimstone's rule.",
+        "",
+        "%% u0778:0-65, u0779:0-73, u0780:0-50 %%",
+        "Gaudin: They're so weird! You have no idea. I'm told, not to tie them up. I'm told not to bring them stone, and now you don't only bring it to him. I'll get in trouble. I'm just doing what I'm told.",
+        "",
+        "%% u0781:0-27 %%",
+        "DM: I'm not gonna interrupt him.",
+        "",
+        "%% u0782:0-14 %%",
+        "Gaudin: Your graveyard.",
+        "",
+        "%% u0783:0-20, u0784:0-50, u0785:0-20 %%",
+        "DM: That the expression? \"Your graveyard\"—that doesn't make sense. \"Your coffin\"? Something like that.",
+        "",
+        "%% u0786:0-37 %%",
+        "DM: It's your fate. If you mess with fate.",
+        "",
+        "%% u0787:0-8, u0788:0-29, u0789:0-32 %%",
+        "Gaudin: Earth. I—I'm just doing what I'm told. I, I kick the dog again. Let's go.",
+        "",
+        "%% u0790:0-44, u0791:0-129 %%",
+        "DM: Where—at least one of them's gotta be stone. Let's do this dog. I'm tired of it—clicks and clacks when it walks. The halfling's getting a little uppity as it gets to ride it.",
+        "",
+        "%% u0792:0-42, u0793:0-106, u0794:0-166 %%",
+        "DM: Okay, fine. He walks up towards the dog. He reaches out and grabs Loria, and he's like more than twice your size, probably just about twice your size. And it just lifts you up in the air like dangling above the dog. Then it takes this vial and just smashes it on the dog's head. ((Saving throw))",
+        "",
+        "%% u0795:0-5, u0796:0-40, u0797:0-54, u0797:54-124, u0797:124-143 %%",
+        "((Saving-throw mechanics))",
+        "",
+        "%% u0798:0-30, u0799:0-85 %%",
+        "DM: You can see the stone begin to like creep over the dog. ((Petrification mechanics))",
+        "",
+        "%% u0800:0-94, u0801:0-32, u0802:0-122, u0803:0-43, u0803:43-100, u0804:0-59, u0805:0-8, u0806:0-34, u0806:34-99, u0806:99-240, u0807:0-90 %%",
+        "((Petrification rules and party tactics))",
+        "",
+        "%% u0808:0-70 %%",
+        "Gaudin: Cause I pick up the stone thing, and I grab the halfling by the hand.",
+        "",
+        "%% u0808:70-108 %%",
+        "((Saving throw))",
+        "",
+        "%% u0809:0-40 %%",
+        "Unknown: Yeah. How many doors are there? 3. Okay.",
+        "",
+        "%% u0810:0-52 %%",
+        "Loria: Can I start trying to beat the stone off of the dog?",
+        "",
+        "%% u0811:0-13, u0811:13-58 %%",
+        "((Saving throw))",
+        "",
+        "%% u0812:0-29, u0813:0-43, u0814:0-35 %%",
+        "DM: Damn it, weak batch, I guess. You do what you want with your prisoners. I—I don't want to be anywhere around.",
+        "",
+        "%% u0815:0-32 %%",
+        "DM: How did you get past the guards?",
+        "",
+        "%% u0816:0-28 %%",
+        "Gaudin: I told them what I told you.",
+        "",
+        "%% u0817:0-26 %%",
+        "Gaudin: I'm bringing ingredients.",
+        "",
+        "%% u0817:26-96 %%",
+        "DM: Okay. Well, somebody must have given you the password. So that's fine.",
+        "",
+        "%% u0818:0-18, u0819:0-49 %%",
+        "DM: I'm just gonna go. I'm staying out of this. You deal with Grimstone.",
+        "",
+        "%% u0820:0-78, u0821:0-84 %%",
+        "DM: If you interrupt him in the middle of making a potion, he's gonna be so pissed— unless these actually are ingredients, which, like, I don't think—but I'm just there.",
+        "",
+        "%% u0822:0-105 %%",
+        "DM: And he just walks off down, down the corner and sees the 2 of you standing there. It's like \"What the hell?\"",
+        "",
+        "%% u0823:0-11 %%",
+        "Acescale: Ingredient!",
+        "",
+        "%% u0824:0-4 %%",
+        "Loria: Yes.",
+        "",
+        "%% u0825:0-33 %%",
+        "DM: Are the other 2 back there still?",
+        "",
+        "%% u0826:0-27 %%",
+        "Unknown: Extra delicious ingredient.",
+        "",
+        "%% u0827:0-19, u0827:19-69 %%",
+        "((Deception check))",
+        "",
+        "%% u0828:0-9, u0829:0-42 %%",
+        "DM: It's your— Damn it! I know there's a phrase for this.",
+        "",
+        "%% u0830:0-20, u0831:0-9 %%",
+        "DM: It's your gravestone. Walks off.",
+        "",
+        "%% u0832:0-5 %%",
+        "Dilion: Wild.",
+        "",
+        "%% u0833:0-27 %%",
+        "Acescale: But we didn't get—the door.",
+        "",
+        "%% u0834:0-23 %%",
+        "Gaudin: Pointed straight ahead.",
+        "",
+        "%% u0835:0-91 %%",
+        "DM: North, west, east. You came from the south. He pointed towards the north door when he said—",
+        "",
+        "%% u0836:0-9 %%",
+        "Gaudin: Password.",
+        "",
+        "%% u0837:0-10 %%",
+        "Loria: It begins.",
+        "",
+        "%% u0838:0-42 %%",
+        "Unknown: Oh, if we need another password to get by.",
+        "",
+        "%% u0839:0-37 %%",
+        "Gaudin: My character's just like shaking from—",
+        "",
+        "%% u0840:0-22 %%",
+        "Loria: Making it through that.",
+        "",
+        "%% u0841:0-45 %%",
+        "Gaudin: I'm, I'm apologetically petting the dog, too.",
+        "",
+        "%% u0842:0-4 %%",
+        "Unknown: Yes.",
+        "",
+        "%% u0843:0-60 %%",
+        "Dilion: He knows what he—what, what he—what he's used for. Off of him?",
+        "",
+        "%% u0844:0-47 %%",
+        "DM: ((Saving throw)) the stone cracked.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Maybe 6 foot tall, bare arms, has got a bandage wrapped around one arm. He's got this like scruffy beard, black hair just wearing like a sort of tattered, tattered shirt, and with like a suit of like this, not very well maintained leather armor on top of it. Does not seem to have any weapons nearby.",
+          "DM: And, I mean, like there's like this is like, another cavern, right? But what you can see as you, as you glance here is:",
+          "DM: There's like straw bedding in a corner. There's 3 torches around the room. The room itself is maybe 20 foot by 20 foot. There's 3 passageways that exit from this room. So basically, every wall has a, has a corridor that leads out from it, including the one you're coming in from,",
+          "DM: And like this, like straw punching bag has been nailed into the ceiling and is hanging from this iron chain, and, like this man is just frozen for a minute as he sees halfling riding a mechanical dog appearing in the corridor, lit by like the torches that are lighting up this entire room.",
+          "DM: He just looks puzzled, like, \"What?\" Like moving slightly, violently, slightly, uncertainly, in your direction."
+        ],
+        "after": [
+          "Dilion: Oh, okay, I wasn't sure but he didn't get like—",
+          "DM: 2 saves after—if you fail the first one you start to be coated in stone, somebody can knock the stone off of you, but you take damage. But if nobody knocks the stone off of you, and you fail the second save you turn to stone. Nobody knocks the stone off of you, and you succeed the second save you're fine.",
+          "Acescale: You said that he was like rooting around in some crates or something?",
+          "DM: Yeah, there's like 2 crates next to his straw bedding.",
+          "Unknown: Should we check those out quickly? Yeah. The other goodies?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Grimstone refuses interruption",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0951",
+        "endUid": "u0977"
+      },
+      "lines": [
+        "%% u0951:0-17, u0952:0-95, u0953:0-69, u0954:0-111, u0955:0-10 %%",
+        "DM: And there's a man sitting at the bench. He's wearing this white marble mask. He's got like a sort of frizz of hair above the mask curled up, and he's sort of muttering to himself as he carefully—he's wearing like robes, but also he's got what looks like a potion bandolier like strung across his his chest.",
+        "",
+        "%% u0956:0-45 %%",
+        "DM: And he's just—he's like muttering to himself.",
+        "",
+        "%% u0957:0-105, u0958:0-127, u0959:0-51 %%",
+        "DM: \"Maybe this is it? Maybe, maybe I found it this time. Yes, yes.\" He picks up a little pinch and drops it in. And there's like this—this puffing is like, \"Very close, very close. Think, think it's the right combination. I just need to mix the right bones. No stones or bones or stones. Yes.\"",
+        "",
+        "%% u0960:0-62 %%",
+        "Gaudin: Fingers and toes, my friends sprinkling, sprinkling, sir, sir.",
+        "",
+        "%% u0961:0-77 %%",
+        "DM: \"You don't interrupt me!\" And he grabs a potion. He hucks it. ((Saving throw))",
+        "",
+        "%% u0962:0-15, u0963:0-11, u0964:0-9, u0965:0-8, u0966:0-23, u0967:0-40 %%",
+        "((Potion damage and saving throw))",
+        "",
+        "%% u0968:0-54 %%",
+        "DM: And he yells, \"Get out! Now, you may have ruined this!\"",
+        "",
+        "%% u0968:54-81 %%",
+        "Gaudin: The basilisk. It's escaped.",
+        "",
+        "%% u0969:0-38 %%",
+        "DM: That's what I pay them for. Now leave.",
+        "",
+        "%% u0970:0-93 %%",
+        "DM: And he starts working. \"I think, I think he ruined— I think he ruined it. I think he ruined it.\"",
+        "",
+        "%% u0971:0-19 %%",
+        "Gaudin: I'm running out now.",
+        "",
+        "%% u0972:0-49, u0973:0-35 %%",
+        "DM: Like picks up a stone and like starts licking it. \"Hmm, hmm, no, maybe it's okay. Hmm.",
+        "",
+        "%% u0974:0-33 %%",
+        "DM: Maybe I need just some more gold.\"",
+        "",
+        "%% u0975:0-10 %%",
+        "Gaudin: Yeah. So I—",
+        "",
+        "%% u0976:0-6 %%",
+        "Dilion: On me.",
+        "",
+        "%% u0977:0-34 %%",
+        "Gaudin: He's not leaving this bench, guys.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: And the rest of us are, are hidden out of sight like along the wall that the corridor is the end of—",
+          "DM: Oh! So the corridor is lit by torchlight. And you walk down it. It goes about 20 feet, and then curves and descends slightly. I have—",
+          "DM: As Gaudin comes around the bend of the corridor you can see that it opens up about 20 feet ahead of you. So about 40 feet in total from the this, like entry room where this guy was, was.",
+          "DM: And you're looking into a cave like a natural cavern, but the floor has been completely smooth and cleared, and there are— To—",
+          "DM: There are like 2 work benches that are just covered in various kinds of alchemist gear. There's like 10 little jars that look like they hold like different powdered substances. There's, you know, there's a, a metal stand that's got glass beakers or glass little vials on it. There's a fire going underneath what looks like a crucible of some sort where something's melting in this little smoke coming out of it. There's a bunch of like pieces of statues scattered around the room. And a couple of intact statues, not of people, but of like smaller animals."
+        ],
+        "after": [
+          "Loria: Well, another short rest it is.",
+          "Dilion: He's not gonna know us—not gonna notice at all.",
+          "Unknown: Yeah, he's gonna be incredibly pissed when the Boxer guy comes.",
+          "Acescale: Yeah, let's II think I think we just rush in.",
+          "Dilion: And just start shanking."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The assistant recognizes the false Grimstone",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1036",
+        "endUid": "u1058"
+      },
+      "lines": [
+        "%% u1036:0-84 %%",
+        "Gaudin: Okay. So I finished the whole brandy, and okay, so I disguise self as old potion man.",
+        "",
+        "%% u1037:0-85, u1037:85-104, u1038:0-27, u1039:0-34 %%",
+        "((Companions hide while Gaudin returns))",
+        "",
+        "%% u1040:0-124 %%",
+        "DM: You run back down the corridor and you see him kind of standing like scratching his head in the middle of the, of the cavern.",
+        "",
+        "%% u1041:0-26 %%",
+        "DM: \"Where are the guards? Hmm!\"",
+        "",
+        "%% u1042:0-40, u1043:0-68 %%",
+        "DM: Just looking around like kind of sort of looking slightly, curiously at the rope ladder like, should I go up?",
+        "",
+        "%% u1044:0-4, u1045:0-12, u1046:0-18, u1047:0-61 %%",
+        "Gaudin: Hey? I'm so close— ingredients. Yeah, we're perfect. I need the stone spider in the sun. Go grab it!",
+        "",
+        "%% u1048:0-27, u1049:0-57 %%",
+        "((Deception check))",
+        "",
+        "%% u1050:0-36, u1051:0-4, u1052:0-16, u1053:0-16 %%",
+        "DM: You don't quite get the voice right. It's pretty good, but he looks at you—",
+        "",
+        "%% u1054:0-39, u1055:0-39, u1056:0-12 %%",
+        "DM: And he begins to like move towards you. Sniffing a little bit like just kind of—\"Who are you?\"",
+        "",
+        "%% u1057:0-19 %%",
+        "Gaudin: I'm his new minion.",
+        "",
+        "%% u1058:0-38 %%",
+        "DM: \"No, I don't think so.\" ((Initiative begins))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Gaudin: Okay? So I would like to do is we could—I wanna disguise self as the potion guy, run after the doofus guy and told him to go run back into the room and grab the stone spider and then let the potion guy attack him. Enraged because he already saw him interrupt him once. And now he's coming back again.",
+          "Loria: That'd be funny.",
+          "Gaudin: I mean, the worst side is with 2 of them at once, but like I don't think they'll be working together, and you'll be injured.",
+          "Acescale: If not, dead, and maybe he's dropped a couple of his fireball potions on his, on his own underling.",
+          "Unknown: Yeah, that's fun."
+        ],
+        "after": [
+          "Dilion: Where this is all you but I would split the party, one in 3.",
+          "Unknown: Hmm.",
+          "Gaudin: Okay, 10 feet away.",
+          "DM: Menacingly approaching you like— has a confused look on his face, but is like pretty sure something is up here. I'm not sure he wants to kill you, or just like grapple you and drag you somewhere.",
+          "Gaudin: Like 100 feet away from where everybody's hiding. Okay? And how long can I run in a turn?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The assistant’s surrender and killing",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1225",
+        "endUid": "u1243"
+      },
+      "lines": [
+        "%% u1225:0-77 %%",
+        "Acescale: I think the dog should be able to take care of him now, if he's mostly dead.",
+        "",
+        "%% u1225:77-201 %%",
+        "DM: So, so as this Eldritch blast hits him, he just like collapses on his knees and like, \"No, no, please stop! I don't wanna die!\"",
+        "",
+        "%% u1226:0-4 %%",
+        "Gaudin: Hmm!",
+        "",
+        "%% u1227:0-76 %%",
+        "Dilion: That's not what the dog—the dog cannot talk back, and was not instructed to.",
+        "",
+        "%% u1228:0-13 %%",
+        "Gaudin: She's talking.",
+        "",
+        "%% u1229:0-84 %%",
+        "DM: Dog can kill him if you want to. ((Turn order))",
+        "",
+        "%% u1230:0-11 %%",
+        "Dilion: Yeah. Dogs!",
+        "",
+        "%% u1231:0-107 %%",
+        "((Combat resolution and bookkeeping))",
+        "",
+        "%% u1232:0-18, u1233:0-28 %%",
+        "Dilion: The dog is already an amalgamation of machine.",
+        "",
+        "%% u1233:28-117 %%",
+        "Gaudin: I mean, he's probably killed lots of people. That's how Gaudin justified this to himself.",
+        "",
+        "%% u1234:0-166, u1235:0-55 %%",
+        "DM: So as he's kneeling down like his hands up, \"Please don't kill me!\" The steampup just leaps at his chest, knocks—knocking him down, and his head whacks the back of the the corridor. You can see the light fade from his eyes.",
+        "",
+        "%% u1236:0-57 %%",
+        "Gaudin: That's dark. Well, at least he won't be calling for help.",
+        "",
+        "%% u1237:0-69, u1238:0-26, u1239:0-13, u1240:0-24 %%",
+        "((Combat resolution and bookkeeping))",
+        "",
+        "%% u1241:0-28, u1242:0-20 %%",
+        "Dilion: The dog happily bounce back. Slaughtering in cold—",
+        "",
+        "%% u1243:0-24 %%",
+        "Loria: Like, damn. But okay, so—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, this one is gonna be partial cover.",
+          "Acescale: Okay. It would miss, regardless. I think.",
+          "DM: I didn't see it in the world, but—",
+          "Acescale: It would be a 16 A/C with partial cover.",
+          "Gaudin: Hmm."
+        ],
+        "after": [
+          "DM: What is it? When now.",
+          "Gaudin: Can I have that healing scroll?",
+          "Loria: Do we ever settle on that? No, yeah. Sorry. I—yes, absolutely. It is yours. I thought I had given it to you already.",
+          "Loria: How does that work, like? What's it's like heal roll, or it's—",
+          "DM: Let me just look up cure wounds real quick. One d8, plus your spellcasting modifier, so wisdom would be plus 2. So one d8 plus 2. So you roll, Sara, and give it to, and then—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Grimstone’s defeat in the laboratory",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1404",
+        "endUid": "u1722"
+      },
+      "lines": [
+        "%% u1404:0-16, u1405:0-38, u1406:0-30 %%",
+        "DM: And he looks up, grabs a potion off of his belt, yowls: \"I told you not to interrupt me!\"",
+        "",
+        "%% u1407:0-20, u1408:0-5, u1409:0-10, u1410:0-29, u1411:0-35, u1412:0-16, u1413:0-38, u1414:0-3, u1415:0-29, u1416:0-5, u1417:0-34, u1418:0-4, u1419:0-5, u1420:0-11, u1421:0-37, u1422:0-80, u1423:0-2, u1424:0-14, u1425:0-131, u1426:0-34, u1427:0-5, u1428:0-40, u1429:0-59, u1430:0-46, u1431:0-47, u1431:47-120, u1432:0-82, u1433:0-18, u1434:0-3, u1435:0-4, u1436:0-52, u1437:0-30, u1438:0-16, u1439:0-31, u1440:0-4, u1441:0-4, u1442:0-67, u1443:0-47, u1444:0-53, u1445:0-27, u1446:0-52, u1447:0-24, u1448:0-22, u1449:0-9, u1450:0-13, u1451:0-6, u1452:0-26, u1453:0-52, u1454:0-25, u1455:0-50, u1456:0-15, u1457:0-59, u1458:0-4, u1459:0-19, u1460:0-21, u1461:0-29, u1462:0-19, u1463:0-30, u1464:0-34, u1465:0-71, u1466:0-17, u1467:0-11, u1468:0-46, u1469:0-16, u1470:0-5, u1471:0-78, u1472:0-52, u1473:0-29, u1474:0-54, u1475:0-64, u1475:64-103, u1475:103-149, u1476:0-12, u1477:0-113, u1477:113-135, u1478:0-13, u1479:0-133, u1480:0-90, u1481:0-60, u1481:60-106, u1482:0-104, u1483:0-76, u1484:0-16, u1485:0-54, u1486:0-181, u1487:0-42, u1488:0-28, u1489:0-84, u1490:0-3, u1491:0-3, u1492:0-118, u1493:0-89, u1494:0-35, u1495:0-14, u1496:0-2, u1497:0-9, u1497:9-26, u1498:0-3, u1499:0-77, u1499:77-134, u1500:0-3, u1501:0-32, u1502:0-43, u1503:0-67, u1504:0-55, u1505:0-4, u1506:0-33, u1507:0-23, u1508:0-25, u1509:0-37, u1510:0-25, u1511:0-28, u1512:0-21, u1513:0-72, u1514:0-67, u1515:0-13, u1516:0-13, u1517:0-10, u1518:0-4, u1519:0-13, u1520:0-90, u1521:0-11, u1522:0-28, u1523:0-32, u1524:0-17, u1525:0-55, u1526:0-84, u1526:84-127, u1526:127-192, u1526:192-305, u1527:0-99, u1528:0-21, u1529:0-54, u1530:0-12, u1531:0-5, u1532:0-6, u1533:0-60, u1534:0-17, u1535:0-31, u1536:0-62, u1537:0-13, u1538:0-38, u1539:0-81, u1540:0-23, u1541:0-17, u1542:0-2, u1543:0-10, u1544:0-16, u1545:0-61, u1546:0-7, u1547:0-55, u1548:0-144, u1549:0-14, u1550:0-30, u1551:0-22, u1552:0-48, u1552:48-70, u1553:0-47, u1554:0-39, u1555:0-27, u1556:0-32, u1557:0-24, u1557:24-72, u1558:0-22, u1559:0-19, u1560:0-5, u1561:0-6, u1562:0-35, u1563:0-15, u1564:0-59, u1565:0-47, u1565:47-84, u1566:0-63, u1567:0-8, u1568:0-46, u1569:0-6, u1570:0-18, u1571:0-114, u1572:0-36, u1573:0-78, u1574:0-30, u1575:0-58, u1576:0-7, u1577:0-10, u1578:0-21, u1579:0-29, u1580:0-128, u1581:0-43, u1582:0-37, u1583:0-33, u1584:0-36, u1585:0-16, u1586:0-19, u1587:0-3, u1588:0-3, u1589:0-90, u1590:0-4, u1591:0-8, u1592:0-71, u1593:0-154, u1594:0-30, u1595:0-46, u1596:0-50, u1597:0-19, u1598:0-73, u1599:0-90, u1600:0-86, u1601:0-27, u1602:0-56, u1603:0-11, u1604:0-10, u1605:0-15, u1606:0-169, u1607:0-54, u1608:0-8, u1609:0-28, u1610:0-31, u1611:0-3, u1612:0-34, u1612:34-146, u1613:0-39, u1614:0-47, u1615:0-32, u1616:0-69, u1617:0-107, u1618:0-42, u1619:0-109, u1619:109-204, u1619:204-263, u1620:0-49, u1621:0-9, u1622:0-45, u1623:0-30, u1624:0-118, u1625:0-16, u1626:0-48, u1627:0-19, u1628:0-29, u1629:0-30, u1630:0-90, u1631:0-30, u1632:0-6, u1633:0-73, u1634:0-24, u1634:24-45, u1635:0-116, u1636:0-20, u1637:0-6, u1638:0-169, u1639:0-50, u1640:0-53, u1641:0-8, u1642:0-64, u1643:0-34, u1644:0-51, u1645:0-70, u1646:0-42, u1647:0-40, u1648:0-108, u1649:0-11, u1650:0-90, u1651:0-76, u1651:76-81, u1652:0-68, u1653:0-71, u1653:71-202, u1653:202-244, u1654:0-71, u1654:71-111, u1654:111-152, u1655:0-58, u1656:0-13, u1657:0-51, u1658:0-174, u1659:0-13, u1660:0-84, u1661:0-3, u1662:0-150, u1663:0-14, u1664:0-112, u1665:0-29, u1665:29-81, u1666:0-18, u1667:0-64, u1668:0-12, u1669:0-23, u1670:0-27, u1671:0-36, u1672:0-10, u1673:0-2, u1674:0-80, u1675:0-13, u1676:0-21, u1677:0-53, u1678:0-7, u1679:0-10, u1680:0-83, u1681:0-12, u1682:0-14, u1683:0-46, u1684:0-81, u1685:0-115, u1686:0-25, u1687:0-2, u1688:0-96, u1689:0-27, u1690:0-9, u1691:0-32, u1692:0-44, u1693:0-3, u1694:0-76, u1695:0-14, u1696:0-51, u1697:0-51, u1698:0-5, u1699:0-66, u1700:0-5, u1701:0-20, u1702:0-54, u1703:0-22, u1704:0-36, u1704:36-83, u1705:0-53, u1706:0-62, u1707:0-22, u1708:0-62, u1709:0-31, u1710:0-84, u1711:0-40, u1712:0-111, u1713:0-33, u1714:0-17, u1715:0-51, u1716:0-15, u1717:0-37 %%",
+        "((The intervening battle))",
+        "",
+        "%% u1718:0-23, u1719:0-118, u1720:0-33, u1721:0-22, u1722:0-30 %%",
+        "DM: Good! So, standing here, you swing and hemp—cut him down, and he bends down to one knee as your swarm of birds just swarms down on top of him, raking him as he falls backwards, falling on the ground, potions rolling from his body.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Loria: Oh, my God. 8.",
+          "DM: You begin—you begin to creep forward and—",
+          "DM: Free—suddenly as—I mean, this—so all of you now see this as you, as you approach this room. This is a— like, this room is a mess, right? There's a half-dozen sort of statues, and various forms of decay and disrepair.",
+          "DM: There is a— There's these 2 sort of more intact statues that are on, on this, this work bench over here, like there's what looks like this workbench that he's in front of has, like all of these little jars and vials and powders and everything, and, and he's still muttering, but then, like strewn across the floor was just like rubble, like shattered glasses like discarded experiments, vials just kind of rolling around, and as you begin to creep along the side, like you just accidentally kick one of these glass vials.",
+          "Unknown: So."
+        ],
+        "after": [
+          "DM: As Gaudin is still surrounded by a swarm of stone spiders.",
+          "Loria: Oh, yeah, sorry, Gaudin.",
+          "Gaudin: And there's that wasp thing right? So the goo is like working on the stone wasp right now?",
+          "DM: Yup.",
+          "Gaudin: Is—the swarm was susceptible to force like in the stone mode?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Poisoned healing and Acescale’s rescue",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1861",
+        "endUid": "u1920"
+      },
+      "lines": [
+        "%% u1861:0-44, u1862:0-47 %%",
+        "Acescale: So Acescale lying unconscious on the ground, says, \"Who, who are any of these healing potions?\"",
+        "",
+        "%% u1863:0-42 %%",
+        "DM: Some of them do look like healing potions.",
+        "",
+        "%% u1864:0-13, u1865:0-110 %%",
+        "Loria: If one of the more people in this party could tell me what a healing potion looks like, I would like to feed it to Acescale.",
+        "",
+        "%% u1866:0-79 %%",
+        "DM: Yeah, you can definitely find a healing potion—things that look healing potion.",
+        "",
+        "%% u1867:0-181 %%",
+        "Dilion: It's important—it's unfortunate. The guy who would probably be—I identify the potions the most is the one primary colors, and being like, \"This looks like help.\" And then, just like—",
+        "",
+        "%% u1868:0-55, u1869:0-16, u1870:0-36, u1871:0-20, u1872:0-67, u1873:0-32, u1874:0-8, u1875:0-16, u1876:0-13, u1877:0-11 %%",
+        "((Healing-roll discussion))",
+        "",
+        "%% u1878:0-12, u1879:0-49, u1880:0-48 %%",
+        "DM: Okay, as you feed this potion to Acescale, Acescale, you start choking on the poisoned drink that you are fed.",
+        "",
+        "%% u1880:48-55 %%",
+        "Gaudin: Oh, no!",
+        "",
+        "%% u1881:0-27, u1882:0-18, u1883:0-5, u1884:0-5, u1885:0-8 %%",
+        "((Saving throw))",
+        "",
+        "%% u1886:0-14, u1887:0-78 %%",
+        "DM: You still take ((Poison damage)), which just, I guess, sets you from stable to unstable poison.",
+        "",
+        "%% u1888:0-67 %%",
+        "DM: Somebody will have to think quick to do something to stabilize you.",
+        "",
+        "%% u1889:0-64 %%",
+        "Dilion: You're probably the only one who has medicine proficiency, right?",
+        "",
+        "%% u1890:0-72 %%",
+        "DM: Exactly the right—the worst person to be unconscious in this situation.",
+        "",
+        "%% u1891:0-42 %%",
+        "((Arcana check))",
+        "",
+        "%% u1892:0-37 %%",
+        "Dilion: Like I'm not potion savvy, but maybe—",
+        "",
+        "%% u1893:0-21 %%",
+        "((Arcana check result))",
+        "",
+        "%% u1894:0-26, u1895:0-29, u1896:0-61 %%",
+        "DM: Looking at the potion that was just fed to Acescale, and the 3 remaining healing potions, you notice that one of them—",
+        "",
+        "%% u1897:0-153, u1898:0-59, u1899:0-102 %%",
+        "DM: One of the 3 remaining just has this like—so there's something subtly off about it. It doesn't quite look right. You're not trained as an alchemist, but you have enough, like artificer background, to realize that one of the other 3 is probably also poison. But as far as you can tell, the other 2 are probably safe.",
+        "",
+        "%% u1900:0-4, u1901:0-67 %%",
+        "((Death-saving-throw prompt))",
+        "",
+        "%% u1902:0-42 %%",
+        "Dilion: There's 3, and I know one of them is good.",
+        "",
+        "%% u1903:0-61, u1904:0-46 %%",
+        "DM: 2 of them are good, and one of them looks poison. One of them—you already fed him one of the poison potions.",
+        "",
+        "%% u1905:0-98 %%",
+        "Dilion: Also, the other 2 are probably good. There's what looks not good, and 2 that look good. Okay, ie.",
+        "",
+        "%% u1905:98-135, u1906:0-17, u1907:0-5 %%",
+        "((Death-save interface question; Death-save interface))",
+        "",
+        "%% u1908:0-50, u1909:0-54 %%",
+        "DM: It shouldn't—it shouldn't matter, though, because that was a good enough Arcana check that you do know—",
+        "",
+        "%% u1909:54-74 %%",
+        "((Death saving throw))",
+        "",
+        "%% u1910:0-53 %%",
+        "DM: Which does, in fact, turn out to be a healing potion.",
+        "",
+        "%% u1911:0-3 %%",
+        "Gaudin: Oh.",
+        "",
+        "%% u1912:0-52 %%",
+        "Dilion: I got a, I got a B minus in, in potions, so I'm glad I—",
+        "",
+        "%% u1913:0-57, u1914:0-26 %%",
+        "((Healing roll))",
+        "",
+        "%% u1915:0-19 %%",
+        "Acescale: I say, \"What a ride!\"",
+        "",
+        "%% u1916:0-28, u1917:0-21 %%",
+        "Dilion: Please don't go under again. Label things, please.",
+        "",
+        "%% u1917:21-91 %%",
+        "Acescale: I generally enjoy being stoned much more than that. This is not ideal.",
+        "",
+        "%% u1918:0-32, u1919:0-42, u1920:0-86 %%",
+        "DM: So, looking around, Acescale, you can quickly, with your alchemist training, discern that, indeed, yes, one of the 2 remaining healing potions is clearly poisoned.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And you find yourself now standing in Grimstone's alchemical laboratory of some kind.",
+          "Dilion: Yes, I'm looking for any signs of the real steampup that could be—",
+          "DM: Yeah. There's 2 other passageways you haven't explored yet.",
+          "DM: Here, however, you see quite a number of like, alchemical ingredients. There's potions in various states of completion. There's notes kind of scattered around.",
+          "DM: All the statues now are totally smashed after you smashed the 2 intact ones."
+        ],
+        "after": [
+          "DM: And there are 4, 5 more potions, one of which looks like it was mixed wrong and would probably explode or do something bad if you tried to drink it.",
+          "DM: But the other 4 are look pretty safe. And just based on your alchemist background, 2 of them are clearly anti-petrification. So they'll reverse petrification if applied within an hour of when somebody turns to stone.",
+          "DM: One is—",
+          "Acescale: Go ahead.",
+          "DM: One is a potion of growth, which makes you big for an hour."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "A badly mixed experimental potion",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1921",
+        "endUid": "u1923"
+      },
+      "lines": [
+        "%% u1921:0-13, u1922:0-18, u1923:0-116 %%",
+        "DM: And there are 4, 5 more potions, one of which looks like it was mixed wrong and would probably explode or do something bad if you tried to drink it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Just scraping by on your like half remembered potion lore. So that 2d4 plus 2. So for—",
+          "Acescale: I say, \"What a ride!\"",
+          "Dilion: Please don't go under again. Label things, please.",
+          "Acescale: I generally enjoy being stoned much more than that. This is not ideal.",
+          "DM: So, looking around, Acescale, you can quickly, with your alchemist training, discern that, indeed, yes, one of the 2 remaining healing potions is clearly poisoned."
+        ],
+        "after": [
+          "DM: But the other 4 are look pretty safe. And just based on your alchemist background, 2 of them are clearly anti-petrification. So they'll reverse petrification if applied within an hour of when somebody turns to stone.",
+          "DM: One is—",
+          "Acescale: Go ahead.",
+          "DM: One is a potion of growth, which makes you big for an hour.",
+          "DM: And one's a potion of advantage, which gives you advantage on one roll within an hour of drinking it, and there's still one potion of healing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Two anti-petrification potions",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1924",
+        "endUid": "u1927"
+      },
+      "lines": [
+        "%% u1924:0-19, u1925:0-103, u1926:0-32, u1927:0-58 %%",
+        "DM: But the other 4 are look pretty safe. And just based on your alchemist background, 2 of them are clearly anti-petrification. So they'll reverse petrification if applied within an hour of when somebody turns to stone.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: I say, \"What a ride!\"",
+          "Dilion: Please don't go under again. Label things, please.",
+          "Acescale: I generally enjoy being stoned much more than that. This is not ideal.",
+          "DM: So, looking around, Acescale, you can quickly, with your alchemist training, discern that, indeed, yes, one of the 2 remaining healing potions is clearly poisoned.",
+          "DM: And there are 4, 5 more potions, one of which looks like it was mixed wrong and would probably explode or do something bad if you tried to drink it."
+        ],
+        "after": [
+          "DM: One is—",
+          "Acescale: Go ahead.",
+          "DM: One is a potion of growth, which makes you big for an hour.",
+          "DM: And one's a potion of advantage, which gives you advantage on one roll within an hour of drinking it, and there's still one potion of healing.",
+          "DM: And you also find a recipe."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Growth and advantage potions",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1929",
+        "endUid": "u1931"
+      },
+      "lines": [
+        "%% u1929:0-10 %%",
+        "Acescale: Go ahead.",
+        "",
+        "%% u1929:10-35, u1930:0-32 %%",
+        "DM: One is a potion of growth, which makes you big for an hour.",
+        "",
+        "%% u1931:0-141 %%",
+        "DM: And one's a potion of advantage, which gives you advantage on one roll within an hour of drinking it, and there's still one potion of healing.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: I generally enjoy being stoned much more than that. This is not ideal.",
+          "DM: So, looking around, Acescale, you can quickly, with your alchemist training, discern that, indeed, yes, one of the 2 remaining healing potions is clearly poisoned.",
+          "DM: And there are 4, 5 more potions, one of which looks like it was mixed wrong and would probably explode or do something bad if you tried to drink it.",
+          "DM: But the other 4 are look pretty safe. And just based on your alchemist background, 2 of them are clearly anti-petrification. So they'll reverse petrification if applied within an hour of when somebody turns to stone.",
+          "DM: One is—"
+        ],
+        "after": [
+          "DM: And you also find a recipe.",
+          "DM: It looks like research notes or something for a glowing poison which lets you make a dose of poison if you have raw materials worth 250 gold in an hour of time, and anybody who is poisoned by this poison has to make a constitution saving throw with your spell DC. And if they fail, they shed bright light in a 10 foot radius and dim light for an additional 10 feet, giving advantage on all attack rolls against the poisoned creature and preventing them from benefiting from invisibility until the eight hours are up. But it takes time to make.",
+          "DM: There is also, like, you know, probably at least 50 gold worth of powdered gemstones of powdered stone, of alchemical supplies, just kinds of raw ingredients for concocting various elixirs.",
+          "DM: And hidden away on a bench, there is a vial of oil of slipperiness.",
+          "DM: So anybody who wants to take any treasure can."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Glowing-poison research recipe",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1932",
+        "endUid": "u1941"
+      },
+      "lines": [
+        "%% u1932:0-17, u1933:0-9 %%",
+        "DM: And you also find a recipe.",
+        "",
+        "%% u1934:0-62, u1935:0-21, u1936:0-118, u1937:0-39, u1938:0-20, u1939:0-101, u1940:0-151, u1941:0-26 %%",
+        "DM: It looks like research notes or something for a glowing poison which lets you make a dose of poison if you have raw materials worth 250 gold in an hour of time, and anybody who is poisoned by this poison has to make a constitution saving throw with your spell DC. And if they fail, they shed bright light in a 10 foot radius and dim light for an additional 10 feet, giving advantage on all attack rolls against the poisoned creature and preventing them from benefiting from invisibility until the eight hours are up. But it takes time to make.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But the other 4 are look pretty safe. And just based on your alchemist background, 2 of them are clearly anti-petrification. So they'll reverse petrification if applied within an hour of when somebody turns to stone.",
+          "DM: One is—",
+          "Acescale: Go ahead.",
+          "DM: One is a potion of growth, which makes you big for an hour.",
+          "DM: And one's a potion of advantage, which gives you advantage on one roll within an hour of drinking it, and there's still one potion of healing."
+        ],
+        "after": [
+          "DM: There is also, like, you know, probably at least 50 gold worth of powdered gemstones of powdered stone, of alchemical supplies, just kinds of raw ingredients for concocting various elixirs.",
+          "DM: And hidden away on a bench, there is a vial of oil of slipperiness.",
+          "DM: So anybody who wants to take any treasure can.",
+          "Loria: I mean, take note. I feel like the alchemists probably gonna be the most excited over all those potions. At least, Loria, I might like a potion of growth— kind of fun. Slide under tables.",
+          "Gaudin: Maps, or things on logistics of like, how is he getting supplies and anything like that that could be of note for Gaudin?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Oil of slipperiness found",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1945",
+        "endUid": "u1945"
+      },
+      "lines": [
+        "%% u1945:0-67 %%",
+        "DM: And hidden away on a bench, there is a vial of oil of slipperiness.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: One is a potion of growth, which makes you big for an hour.",
+          "DM: And one's a potion of advantage, which gives you advantage on one roll within an hour of drinking it, and there's still one potion of healing.",
+          "DM: And you also find a recipe.",
+          "DM: It looks like research notes or something for a glowing poison which lets you make a dose of poison if you have raw materials worth 250 gold in an hour of time, and anybody who is poisoned by this poison has to make a constitution saving throw with your spell DC. And if they fail, they shed bright light in a 10 foot radius and dim light for an additional 10 feet, giving advantage on all attack rolls against the poisoned creature and preventing them from benefiting from invisibility until the eight hours are up. But it takes time to make.",
+          "DM: There is also, like, you know, probably at least 50 gold worth of powdered gemstones of powdered stone, of alchemical supplies, just kinds of raw ingredients for concocting various elixirs."
+        ],
+        "after": [
+          "DM: So anybody who wants to take any treasure can.",
+          "Loria: I mean, take note. I feel like the alchemists probably gonna be the most excited over all those potions. At least, Loria, I might like a potion of growth— kind of fun. Slide under tables.",
+          "Gaudin: Maps, or things on logistics of like, how is he getting supplies and anything like that that could be of note for Gaudin?",
+          "DM: Not in this room.",
+          "Loria: Yeah, I think we need to go look in the other rooms."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Grimstone’s papers and the living-stone theory",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1988",
+        "endUid": "u2009"
+      },
+      "lines": [
+        "%% u1988:0-10, u1989:0-61, u1990:0-46, u1991:0-38, u1992:0-70, u1993:0-58 %%",
+        "DM: But as you inch your way down this passageway, you come to a small room, maybe 20 foot by 20 foot with a crude bed, and just scattered across a rickety table, hundreds of little scattered papers and notes and maps, and just like, you know, things with all sorts of stuff sketched on them.",
+        "",
+        "%% u1994:0-7, u1995:0-64 %%",
+        "DM: There's a whole set of notes about basilisks, how to catch and keep them.",
+        "",
+        "%% u1996:0-198, u1997:0-121, u1998:0-109 %%",
+        "DM: Many, many, like sort of half sketched out alchemical formula, and most of this seems to be sort of unhinged ranting about something called the Prime Arcana stone, or the stone of the prime, which is a mystical substance that, when powdered, allows the creation of particularly powerful potions and elixirs. And it's like, you know, \"Transmutation of flesh and body is the essence of flesh. Stone from magic is magic. Blah, blah, blah.\"",
+        "",
+        "%% u1999:0-63, u2000:0-120, u2001:0-42 %%",
+        "DM: \"The living stone must be the answer,\" and as you spend some time reading, flipping through these, you get the sense that somehow Grimstone thought that if you petrified the right person they would become this Prime Arcana stone.",
+        "",
+        "%% u2002:0-99, u2003:0-17 %%",
+        "DM: There's a bunch of notes like, \"Maybe Medusa lairs,\" and like, \"No, the stone is too old and too decayed, need fresh stone.\"",
+        "",
+        "%% u2004:0-154, u2005:0-5 %%",
+        "DM: All just kind of scribbled around. You see a map that shows this place circled and marked with a little Medusa next to it, and like a check and underline. Okay.",
+        "",
+        "%% u2006:0-49, u2007:0-48, u2008:0-24, u2009:0-101 %%",
+        "DM: Nothing really about like the logistics of how he manage the hobgoblins or anything like that, but the unhinged rantings of somebody who was convinced that the more people he turned to stone, the closer he was to immortality.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Gonna be bold enough.",
+          "Dilion: So I guess we're looking down the other hallways, right?",
+          "DM: Yeah. So west or east first?",
+          "Loria: Oh, west.",
+          "DM: So creeping down this hallway, there's no light, there's no sign of any noise. There doesn't seem to be anybody here."
+        ],
+        "after": [
+          "Dilion: There's no other exit or anything to that particular room?",
+          "DM: Nope, there's a unlocked chest with clothes, mundane personal goods, but nothing else.",
+          "Loria: Yes, to the East, then. Yeah, I guess if there's nothing else in that room of note.",
+          "DM: So as you creep down to this room, you see—first of all, you see Pikeia, your dog, the flesh version of your dog tied up in this chamber.",
+          "Dilion: The reunite—reunited."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Pikeia reunited with Dilion",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u2014",
+        "endUid": "u2025"
+      },
+      "lines": [
+        "%% u2014:0-9, u2015:0-128 %%",
+        "DM: So as you creep down to this room, you see—first of all, you see Pikeia, your dog, the flesh version of your dog tied up in this chamber.",
+        "",
+        "%% u2016:0-21 %%",
+        "Dilion: The reunite—reunited.",
+        "",
+        "%% u2017:0-22, u2018:0-59, u2019:0-35, u2020:0-229, u2021:0-82, u2022:0-25 %%",
+        "((Storeroom furnishings and chest preparation))",
+        "",
+        "%% u2023:0-39 %%",
+        "Dilion: I'm too busy with my dog. Nothing else.",
+        "",
+        "%% u2024:0-11 %%",
+        "Loria: It is fair.",
+        "",
+        "%% u2025:0-22 %%",
+        "Gaudin: Keiko and steel keiko.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: All just kind of scribbled around. You see a map that shows this place circled and marked with a little Medusa next to it, and like a check and underline. Okay.",
+          "DM: Nothing really about like the logistics of how he manage the hobgoblins or anything like that, but the unhinged rantings of somebody who was convinced that the more people he turned to stone, the closer he was to immortality.",
+          "Dilion: There's no other exit or anything to that particular room?",
+          "DM: Nope, there's a unlocked chest with clothes, mundane personal goods, but nothing else.",
+          "Loria: Yes, to the East, then. Yeah, I guess if there's nothing else in that room of note."
+        ],
+        "after": [
+          "DM: Which, which chest would you like to open?",
+          "Loria: The one on the left, and how they're oriented.",
+          "DM: The one on the left? Okay, it seems to be locked. It doesn't immediately open.",
+          "Acescale: We didn't check the guy's corpse, did we? Didn't check for, for keys in his pockets.",
+          "DM: You did not check the guy's corpse."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The Way of the Stone and Acescale’s temptation",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2036",
+        "endUid": "u2069"
+      },
+      "lines": [
+        "%% u2036:0-62, u2037:0-33, u2038:0-31, u2039:0-15 %%",
+        "DM: It's there—is there? He has a pouch that does have a key, and a, like a little small book, like, almost like a small prayer book that's written—",
+        "",
+        "%% u2040:0-34, u2041:0-28 %%",
+        "DM: Seems to be like I don't know what— what languages do you speak?",
+        "",
+        "%% u2042:0-33 %%",
+        "Dilion: Speak? That's Draconic, isn't it?",
+        "",
+        "%% u2043:0-73, u2044:0-104 %%",
+        "DM: No, lizard folk is different from Draconic. Nobody's—it's, it's written in—you, I guess you would recognize the language as Draconic, but it's not a language that anybody reads.",
+        "",
+        "%% u2044:104-142 %%",
+        "Gaudin: Oh, I will cast Comprehend Language.",
+        "",
+        "%% u2044:142-147 %%",
+        "DM: Okay.",
+        "",
+        "%% u2045:0-30 %%",
+        "Dilion: Of course. This is take that.",
+        "",
+        "%% u2045:30-96, u2046:0-71, u2047:0-21 %%",
+        "DM: It's a—it's a small book that's called, like, The Way of the Stone. And as you flip through it with Comprehend Languages, like this is like this looks like some—",
+        "",
+        "%% u2048:0-184 %%",
+        "DM: It's old. This book is probably at least a hundred years old. It's fragile as you flip through it, and it's been well read, like pages are marked small, and it's really cramped writing.",
+        "",
+        "%% u2049:0-88, u2050:0-166 %%",
+        "DM: But this again seems to be like this whole story of the Prime Arcana, and it talks about how you can achieve, how you can make potion of invulnerability, how you can make a potion of immortality that resets—that regenerates you 10 years, potion of a youth.",
+        "",
+        "%% u2051:0-77, u2052:0-17 %%",
+        "DM: All of these things can be constructed if you can only figure out how to make the Prime Arcana.",
+        "",
+        "%% u2053:0-103, u2054:0-25 %%",
+        "DM: And it's just like a list of like 50 different things you could make, recipes for each one in this very cribbed small handwriting.",
+        "",
+        "%% u2055:0-73, u2056:0-13, u2057:0-2, u2058:0-37 %%",
+        "DM: And a lot of ingredients don't make sense. They're things like, you know, \"the, the tears of a ship at sea collected in moonlight.\"",
+        "",
+        "%% u2059:0-81 %%",
+        "DM: But then every single one has, like a, you know, \"Add a pinch of the Prime Arcana.\"",
+        "",
+        "%% u2060:0-4, u2061:0-36, u2062:0-22 %%",
+        "((Unrelated discussion and mechanics))",
+        "",
+        "%% u2063:0-113, u2064:0-70, u2065:0-146 %%",
+        "Acescale: II was just gonna say, I'm worried that Acescale would start to get like a little curious about it at this point. I'm here just for my poker winnings. But this is a really nice lab and man, immortality, that could be worth a lot. I bet I could sell that for a lot of money. And well, we've already got all these statues here. And the—",
+        "",
+        "%% u2066:0-45 %%",
+        "Dilion: It could be the new—there's gonna be the new—",
+        "",
+        "%% u2067:0-5 %%",
+        "Acescale: Yeah.",
+        "",
+        "%% u2068:0-93 %%",
+        "Acescale: How does the—how does the mask fit? Is it a good—it's my snout in the way? What's the deal?",
+        "",
+        "%% u2068:93-121 %%",
+        "DM: It's a little small for you.",
+        "",
+        "%% u2069:0-59 %%",
+        "Acescale: Man, okay, I can't do it, then it was worth a shot, though.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You did not check the guy's corpse.",
+          "Acescale: Oh, back and check the guy's corpse.",
+          "Gaudin: And—I'll run back and—",
+          "Acescale: I'll go. I'll go with him just in case it's reanimated, or something. It's stone. It's like—",
+          "Gaudin: Like pat down the body."
+        ],
+        "after": [
+          "DM: Once you unlock the chest, it has 244 gold pieces, including Acescale's poker winnings.",
+          "Acescale: Thank you.",
+          "DM: A ring of bird calls, birds—a die that seems strangely weighted.",
+          "Acescale: Is that someone that could be useful?",
+          "DM: Alright, it's none of yours."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The recovered ring and magical die",
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2073",
+        "endUid": "u2084"
+      },
+      "lines": [
+        "%% u2073:0-20, u2074:0-22, u2075:0-19 %%",
+        "DM: A ring of bird calls, birds—a die that seems strangely weighted.",
+        "",
+        "%% u2076:0-37 %%",
+        "Acescale: Is that someone that could be useful?",
+        "",
+        "%% u2077:0-28 %%",
+        "DM: Alright, it's none of yours.",
+        "",
+        "%% u2078:0-55 %%",
+        "Acescale: Well, as a gambler, I may try to give that a roll or 2.",
+        "",
+        "%% u2079:0-5 %%",
+        "Loria: Okay.",
+        "",
+        "%% u2080:0-8, u2081:0-55, u2082:0-96, u2083:0-79 %%",
+        "DM: It feels heavier in hand as you roll it, and like you can almost feel—you can almost feel it as you roll it like in your mind, you can see it clicking around all the sides, and as it stops you see a second before it stops what the number is.",
+        "",
+        "%% u2084:0-69 %%",
+        "Acescale: I can't imagine why this would be handy at all, and I just pocket it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: How does the—how does the mask fit? Is it a good—it's my snout in the way? What's the deal?",
+          "DM: It's a little small for you.",
+          "Acescale: Man, okay, I can't do it, then it was worth a shot, though.",
+          "DM: Once you unlock the chest, it has 244 gold pieces, including Acescale's poker winnings.",
+          "Acescale: Thank you."
+        ],
+        "after": [
+          "DM: There are—there's a necklace of pearls. Probably worth a good chunk of money.",
+          "DM: There's a small silver decanter, also, probably worth a good chunk of money that has a nice decoration of a stag standing in a glade.",
+          "DM: And there's 6 wooden goblets, each with 2 very small pieces of turquoise set into them. I mean, these are basically the nicer stuff stolen from various merchant freighter caravans over the years—over the months. Oh, and there's a—there's a small handful, probably 6 small garnet gemstones.",
+          "Gaudin: Let's split it up amongst all of us, plus we take our original possessions, if they're here.",
+          "Dilion: I slipped the ring onto my finger before Acescale can see it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Dilion and Loria each claim the ring",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2095",
+        "endUid": "u2102"
+      },
+      "lines": [
+        "%% u2095:0-61 %%",
+        "Dilion: I slipped the ring onto my finger before Acescale can see it.",
+        "",
+        "%% u2096:0-29 %%",
+        "Acescale: I could double that in a day.",
+        "",
+        "%% u2097:0-49, u2098:0-5 %%",
+        "Loria: Yeah, man, people bet on bird calls all the time. Yeah.",
+        "",
+        "%% u2099:0-42, u2100:0-14 %%",
+        "((Turning to the second chest))",
+        "",
+        "%% u2101:0-81, u2102:0-14 %%",
+        "Loria: Loria got a ring, has no interest in opening any other chest. She's had a bad day. 2 dogs sniffs.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: I can't imagine why this would be handy at all, and I just pocket it.",
+          "DM: There are—there's a necklace of pearls. Probably worth a good chunk of money.",
+          "DM: There's a small silver decanter, also, probably worth a good chunk of money that has a nice decoration of a stag standing in a glade.",
+          "DM: And there's 6 wooden goblets, each with 2 very small pieces of turquoise set into them. I mean, these are basically the nicer stuff stolen from various merchant freighter caravans over the years—over the months. Oh, and there's a—there's a small handful, probably 6 small garnet gemstones.",
+          "Gaudin: Let's split it up amongst all of us, plus we take our original possessions, if they're here."
+        ],
+        "after": [
+          "DM: It doesn't smell like anything weird.",
+          "Gaudin: II can open it with Mage Hand as we step away. Just in case there's something—",
+          "Gaudin: So we all back away, very carefully, slowly opens the lid.",
+          "DM: As the lid opens, you see a row of teeth, springs forward, trying to bite this invisible hand.",
+          "Acescale: Out. You've been calling mimic since the first minute."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "Dilion takes the ring at u2095, but Loria claims it at u2101–u2102; no transfer is established."
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Acescale shares his loot and plans to gamble with the die",
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2149",
+        "endUid": "u2154"
+      },
+      "lines": [
+        "%% u2149:0-43, u2150:0-282, u2151:0-63 %%",
+        "Acescale: But I, I take probably like half of my loot, and then divide it up between the 3 of you. I was—I am like playing with the die that I grabbed, and I was like, \"This has got to be worth somewhere in the realm of via this.\" And II wanna make sure that I'm on the good side of luck and Karma. So I say, \"Thank you all for, for the help.\" It was lovely to meet you, and I hope this serves you all well.",
+        "",
+        "%% u2152:0-110 %%",
+        "Acescale: Going forward, I'm gonna, I'm gonna play a little double or nothing with this die, I think, from time to time.",
+        "",
+        "%% u2152:110-175 %%",
+        "DM: So that the die works. I'm sure it'll never come up, but it works.",
+        "",
+        "%% u2153:0-72 %%",
+        "DM: The minute it leaves your hand, you know what number it's gonna roll. So—",
+        "",
+        "%% u2154:0-147 %%",
+        "Acescale: Yeah, so I'll get people pick a number between one and 6. And I'll tell you if this is gonna be higher or lower when I roll it and they bet on it.",
+        "",
+        "%% u2154:147-152 %%",
+        "DM: Yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: As soon as everybody, as soon as they realize that Grimstone wasn't coming out for the normal Sunday morning ritual, goblins took off. Hobgoblins got mad, and you escape in the chaos. Good thanks.",
+          "DM: On the road down from these mountains into the valley, you say your goodbyes, make plans, split up your treasure. I'll just give everybody like a minute to wrap up their character's story however they want.",
+          "Dilion: Do we—do we get a Grimstone—Grimscale, as the new, the new boss?",
+          "Acescale: I—yeah, I don't think I'm going back there.",
+          "Acescale: But I do have a nice set of alchemy equipment and some new skills that I didn't have going in. So I've definitely got a 9 to 5 lined up. I think I can probably start a little potion store."
+        ],
+        "after": [
+          "Acescale: Yeah, I think that's, that's probably Acescale, a little bit. Little bit of gambling and a little bit of 9 to 5 potion crafting. It's gonna start a flight school.",
+          "DM: A, a very slow flight school. Exactly. Yeah.",
+          "Gaudin: Sure.",
+          "Gaudin: Gaudin his first real adventure as a warlock, so he is gained a lot of experience in deception. And some of his newfound ability to kind of manipulate and navigate situations, and has kind of kept track of the, the rich history of pirates and secret passages in this area.",
+          "Gaudin: And is kind of intrigued about the, the network and probably be snooping around this area, figuring out what he can learn from what was going on here for his smuggling."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "The old pirate-hideout map",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2163",
+        "endUid": "u2165"
+      },
+      "lines": [
+        "%% u2163:0-3, u2164:0-164 %%",
+        "Gaudin: And is kind of intrigued about the, the network and probably be snooping around this area, figuring out what he can learn from what was going on here for his smuggling.",
+        "",
+        "%% u2165:0-74 %%",
+        "DM: One of the maps had a bunch of pirate—old pirate hideouts marked on it. So—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah.",
+          "Acescale: Yeah, I think that's, that's probably Acescale, a little bit. Little bit of gambling and a little bit of 9 to 5 potion crafting. It's gonna start a flight school.",
+          "DM: A, a very slow flight school. Exactly. Yeah.",
+          "Gaudin: Sure.",
+          "Gaudin: Gaudin his first real adventure as a warlock, so he is gained a lot of experience in deception. And some of his newfound ability to kind of manipulate and navigate situations, and has kind of kept track of the, the rich history of pirates and secret passages in this area."
+        ],
+        "after": [
+          "Dilion: Guess, Dilion, now that he has the ability to create another dog—was so, such distraught from losing one was able to create another. And now he can go back to wandering the wilderness, but now, with 2 dogs looking for a place to settle down. But maybe the wildness is where he feels the most comfortable because it's with his, his 2 pets.",
+          "Dilion: Maybe a third is on the way.",
+          "Dilion: Yeah, I just like the idea, you just kinda goes off like—and stuff, but into—it was exploring the area already. And I think kind of yeah enjoys the exploration aspect. But I mean, it's 2 dogs, but one lit—but one of them you don't have to feed. Right. That's true. It's efficiency. Cheapest dog ownership I've ever seen cheap.",
+          "Loria: I think that Loria, now that she has her ring of bird calls, is—",
+          "Gaudin: He's—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Dilion’s future with both dogs",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2166",
+        "endUid": "u2171"
+      },
+      "lines": [
+        "%% u2166:0-337 %%",
+        "Dilion: Guess, Dilion, now that he has the ability to create another dog—was so, such distraught from losing one was able to create another. And now he can go back to wandering the wilderness, but now, with 2 dogs looking for a place to settle down. But maybe the wildness is where he feels the most comfortable because it's with his, his 2 pets.",
+        "",
+        "%% u2167:0-28 %%",
+        "Dilion: Maybe a third is on the way.",
+        "",
+        "%% u2168:0-131, u2169:0-111, u2170:0-36, u2171:0-44 %%",
+        "Dilion: Yeah, I just like the idea, you just kinda goes off like—and stuff, but into—it was exploring the area already. And I think kind of yeah enjoys the exploration aspect. But I mean, it's 2 dogs, but one lit—but one of them you don't have to feed. Right. That's true. It's efficiency. Cheapest dog ownership I've ever seen cheap.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: A, a very slow flight school. Exactly. Yeah.",
+          "Gaudin: Sure.",
+          "Gaudin: Gaudin his first real adventure as a warlock, so he is gained a lot of experience in deception. And some of his newfound ability to kind of manipulate and navigate situations, and has kind of kept track of the, the rich history of pirates and secret passages in this area.",
+          "Gaudin: And is kind of intrigued about the, the network and probably be snooping around this area, figuring out what he can learn from what was going on here for his smuggling.",
+          "DM: One of the maps had a bunch of pirate—old pirate hideouts marked on it. So—"
+        ],
+        "after": [
+          "Loria: I think that Loria, now that she has her ring of bird calls, is—",
+          "Gaudin: He's—",
+          "Loria: She parts ways, apologizing for her somewhat feeble spirit in the face of adversity. And knowing that this isn't really her path, this, this whole combat thing, unless she's like forced into it.",
+          "Loria: She decide to set off back south again, try to find the kingdom of Orenlas, and to see if she can be admitted to it, and as she walks down like a very soft hoot of owls as she goes, and her little birds fly around her, go off, and she sort of almost disappears in a little bit of a flurry of wings.",
+          "Loria: Alfred Hitchcock. Much like—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Loria’s bird-call farewell",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2172",
+        "endUid": "u2179"
+      },
+      "lines": [
+        "%% u2172:0-62 %%",
+        "Loria: I think that Loria, now that she has her ring of bird calls, is—",
+        "",
+        "%% u2173:0-4, u2174:0-35, u2175:0-157 %%",
+        "((Farewell about Loria’s dislike of combat))",
+        "",
+        "%% u2176:0-3, u2177:0-156, u2178:0-56, u2179:0-79 %%",
+        "Loria: She decide to set off back south again, try to find the kingdom of Orenlas, and to see if she can be admitted to it, and as she walks down like a very soft hoot of owls as she goes, and her little birds fly around her, go off, and she sort of almost disappears in a little bit of a flurry of wings.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Gaudin: And is kind of intrigued about the, the network and probably be snooping around this area, figuring out what he can learn from what was going on here for his smuggling.",
+          "DM: One of the maps had a bunch of pirate—old pirate hideouts marked on it. So—",
+          "Dilion: Guess, Dilion, now that he has the ability to create another dog—was so, such distraught from losing one was able to create another. And now he can go back to wandering the wilderness, but now, with 2 dogs looking for a place to settle down. But maybe the wildness is where he feels the most comfortable because it's with his, his 2 pets.",
+          "Dilion: Maybe a third is on the way.",
+          "Dilion: Yeah, I just like the idea, you just kinda goes off like—and stuff, but into—it was exploring the area already. And I think kind of yeah enjoys the exploration aspect. But I mean, it's 2 dogs, but one lit—but one of them you don't have to feed. Right. That's true. It's efficiency. Cheapest dog ownership I've ever seen cheap."
+        ],
+        "after": [
+          "Loria: Alfred Hitchcock. Much like—",
+          "Dilion: That's cool.",
+          "DM: Perfect, great ending.",
+          "Gaudin: And Loria was pretty—I mean, you had a few crucial natural 20s. Yeah.",
+          "Loria: Yeah. But like, she didn't want to. It was all like—and then, just like it happened,"
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The epilogue gives the ring to Loria, while u2095 explicitly puts it on Dilion; the source records no intervening transfer."
+      }
+    }
+  ]
+}

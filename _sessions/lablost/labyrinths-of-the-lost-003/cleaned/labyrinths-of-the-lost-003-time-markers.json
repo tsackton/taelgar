@@ -1,0 +1,290 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "labyrinths-of-the-lost-003",
+    "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+    "sessionYamlSha256": "4b770bac216f5f237a2db9a63e10dda7d1a3717d06ec3341095c46f4a7a89db8",
+    "transcriptPath": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-transcript.md",
+    "transcriptSha256": "3f3990408f6a451bf48cefb53b67db8430c65fa072784294d1181c78cadd7f8c",
+    "yamlDates": {
+      "start": "1748-10-18",
+      "end": "1748-10-19"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0043",
+        "endUid": "u0045"
+      },
+      "reading": "The party spends a few minutes searching the stone bolt-hole before proceeding.",
+      "evidence": [
+        {
+          "startUid": "u0043",
+          "endUid": "u0045",
+          "quote": "Sure. Look around, spend, spend a few minutes searching before you proceed. Go ahead and make—pick 2 of you to make either a Perception or Investigation check. The lead searchers."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates the search interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0531",
+        "endUid": "u0533"
+      },
+      "reading": "The party completes a one-hour short rest in the dead-end tunnel after the shade fight.",
+      "evidence": [
+        {
+          "startUid": "u0481",
+          "endUid": "u0486",
+          "quote": "That is easy enough to arrange."
+        },
+        {
+          "startUid": "u0531",
+          "endUid": "u0533",
+          "quote": "Go ahead and use hit die. Your—Loria, your Dex is restored as you complete your short rest. Gaudin, you get your spell slot back."
+        },
+        {
+          "startUid": "u0574",
+          "endUid": "u0574",
+          "quote": "It's like soft screams echoing through this chamber for an hour. What a restful short rest we had! Yeah."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention, also confirmed as an hour at u0574"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0674",
+        "endUid": "u0677"
+      },
+      "reading": "The DM retrospectively places the party’s descent around lunchtime, correcting “mid morning”; lunch was probably during the already recorded short rest.",
+      "evidence": [
+        {
+          "startUid": "u0674",
+          "endUid": "u0677",
+          "quote": "I mean, it was— It was mid morning when you descended, and you've taken a—or, or like lunchtime when you descended. You probably had lunch during your short rest in the tunnel, so it's probably 1 30 in the afternoon."
+        }
+      ],
+      "time": {
+        "partOfDay": "lunchtime",
+        "precision": "approximate",
+        "basis": "DM’s corrected estimate at u0674–u0676; no spoken calendar date"
+      },
+      "note": "This anchors the earlier descent, not a second rest or a new elapsed interval."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0674",
+        "endUid": "u0677"
+      },
+      "reading": "On the approach to the assistant’s cavern, the current party clock is approximately 13:30.",
+      "evidence": [
+        {
+          "startUid": "u0673",
+          "endUid": "u0673",
+          "quote": "Silly question. But what time of day is it at this point?"
+        },
+        {
+          "startUid": "u0674",
+          "endUid": "u0677",
+          "quote": "I mean, it was— It was mid morning when you descended, and you've taken a—or, or like lunchtime when you descended. You probably had lunch during your short rest in the tunnel, so it's probably 1 30 in the afternoon."
+        }
+      ],
+      "time": {
+        "clock": "13:30",
+        "precision": "approximate",
+        "basis": "DM’s explicit current-time estimate"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0738",
+        "endUid": "u0741"
+      },
+      "reading": "The assistant rummages for petrifying potion for a minute, then another minute while the party waits.",
+      "evidence": [
+        {
+          "startUid": "u0738",
+          "endUid": "u0741",
+          "quote": "And he goes back, and he's sort of— you can see that there's like a crate. There's like a—next to this straw bedding there's, there's a crate, and there's like an open chest. And he goes back, and he, he like rummages through the chest for a minute."
+        },
+        {
+          "startUid": "u0744",
+          "endUid": "u0744",
+          "quote": "Roots around for another minute. Are y'all just standing there?"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates one minute and another minute of rummaging"
+      },
+      "actors": [
+        "Grimstone’s assistant",
+        "Gaudin",
+        "Loria",
+        "Steampup"
+      ],
+      "completion": "completed",
+      "note": "The interval does not independently establish exactly simultaneous actions by Acescale or Dilion out of view."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1954",
+        "endUid": "u1959"
+      },
+      "reading": "After the laboratory fight and potion sorting, the shared party clock is approximately 14:00.",
+      "evidence": [
+        {
+          "startUid": "u1954",
+          "endUid": "u1959",
+          "quote": "No, I mean, it's like, it's like 2 in the afternoon. Now, as far as you know, nobody is coming any times, I mean, tomorrow, supposedly as one of these, you know, rituals where Grimstone comes up and like takes a victim. But nobody comes down here. Like the tracks you saw before suggested, only, like, you know, one or 2 people ever regularly came down here."
+        }
+      ],
+      "time": {
+        "clock": "14:00",
+        "precision": "approximate",
+        "basis": "DM explicitly states 2 in the afternoon"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1965",
+        "endUid": "u1965"
+      },
+      "reading": "The party takes another short rest before exploring the west and east passages.",
+      "evidence": [
+        {
+          "startUid": "u1965",
+          "endUid": "u1965",
+          "quote": "Okay, so definitely—a short rest, a short rest now and then, probably a long one after we've maybe scoped out the other 2."
+        },
+        {
+          "startUid": "u1972",
+          "endUid": "u1980",
+          "quote": "For the short rest. Sorry, since we're level 3, do we—can we use 2 hit die, or is it only—"
+        },
+        {
+          "startUid": "u1982",
+          "endUid": "u1987",
+          "quote": "So I guess we're looking down the other hallways, right?"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; accepted rest followed by hit-die resolution and resumed exploration"
+      },
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t06"
+        },
+        "precision": "approximate",
+        "basis": "Rest follows the 14:00 anchor; approximate completion near 15:00"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2114",
+        "endUid": "u2118"
+      },
+      "reading": "Following the remaining exploration, the party rests and recovers overnight, reaching early morning for departure.",
+      "evidence": [
+        {
+          "startUid": "u1965",
+          "endUid": "u1965",
+          "quote": "Okay, so definitely—a short rest, a short rest now and then, probably a long one after we've maybe scoped out the other 2."
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2118",
+          "quote": "So you rest, recover, and find yourself early in the morning, what—creeping out of the manor before anybody is awake?"
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention for the proposed long rest subsequently completed by the narrated rest/recovery to morning"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "time": {
+        "partOfDay": "early morning",
+        "precision": "approximate",
+        "basis": "DM narrates completed rest and early-morning departure; no exact waking time"
+      },
+      "note": "The earlier possibility of waking at 04:00 is a forecast, not a confirmed clock reading. The precise resting room is not stated."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2130",
+        "endUid": "u2134"
+      },
+      "reading": "The party’s escape takes place on the morning of the expected Sunday ritual, during the resulting guard confusion.",
+      "evidence": [
+        {
+          "startUid": "u1954",
+          "endUid": "u1959",
+          "quote": "tomorrow, supposedly as one of these, you know, rituals where Grimstone comes up and like takes a victim."
+        },
+        {
+          "startUid": "u2130",
+          "endUid": "u2141",
+          "quote": "As soon as everybody, as soon as they realize that Grimstone wasn't coming out for the normal Sunday morning ritual, goblins took off. Hobgoblins got mad, and you escape in the chaos. Good thanks."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t06",
+          "anchor": "the following morning after the completed overnight rest"
+        },
+        "precision": "approximate",
+        "basis": "The ritual was tomorrow at u1954–u1959; the escape narration identifies the missed Sunday morning ritual"
+      },
+      "note": "The initial epilogue prompt asks about leaving before anybody is awake; the played escape is subsequently described amid awake, angry hobgoblins. Exact departure watch remains open between early morning and ritual-time morning."
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute date is spoken. October 18–19 DR 1748 comes from YAML. The Sunday ritual is spoken, without a numerical day or month.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t03",
+      "t04",
+      "t06",
+      "t07",
+      "t08",
+      "t09"
+    ],
+    "explanation": "The covered play begins with the midday descent, includes two short rests and the laboratory events, and reaches the next morning after a completed overnight rest. This matches one date transition conditional on YAML’s opening date; no exact civil date is independently verified. Earlier references to last night’s rest describe prior-session context rather than an additional played overnight."
+  }
+}

@@ -1,0 +1,1097 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "labyrinths-of-the-lost-003",
+    "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+    "sessionYamlSha256": "4b770bac216f5f237a2db9a63e10dda7d1a3717d06ec3341095c46f4a7a89db8",
+    "transcriptPath": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-transcript.md",
+    "transcriptSha256": "3f3990408f6a451bf48cefb53b67db8430c65fa072784294d1181c78cadd7f8c"
+  },
+  "places": {
+    "p01": {
+      "label": "Perdoli manor",
+      "kind": "manor estate",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0005",
+          "quote": "So, so you are currently standing in the bedroom, a— what was once, long ago, like hundreds of years ago, the, the master bedroom suite of this Perdoli family that built this manor."
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    "p02": {
+      "label": "Master bedroom suite",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0005",
+          "quote": "So, so you are currently standing in the bedroom, a— what was once, long ago, like hundreds of years ago, the, the master bedroom suite of this Perdoli family that built this manor."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0005",
+              "quote": "So, so you are currently standing in the bedroom, a— what was once, long ago, like hundreds of years ago, the, the master bedroom suite of this Perdoli family that built this manor."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Grimstone’s lair",
+      "kind": "subterranean hideout",
+      "evidence": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0008",
+          "quote": "But much more recently, apparently, was occupied by pirates. And from the ghost of the pirate captain you learned that the pirates had excavated a, a secret hideout underneath the manor. And this has now been taken over as Grimstone's lair."
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Grimstone's Lair.md",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0006",
+              "endUid": "u0008",
+              "quote": "But much more recently, apparently, was occupied by pirates. And from the ghost of the pirate captain you learned that the pirates had excavated a, a secret hideout underneath the manor. And this has now been taken over as Grimstone's lair."
+            }
+          ],
+          "note": "The transcript places the hideout under the manor; the estate and main building footprint are not equated."
+        }
+      ]
+    },
+    "p04": {
+      "label": "Stone bolt-hole",
+      "kind": "vault",
+      "evidence": [
+        {
+          "startUid": "u0031",
+          "endUid": "u0038",
+          "quote": "So you jumped down into the bolt-hole. This is the room that's—there's a ladder that goes down. It drops down about 10 feet into a small square room, maybe 20 foot by 20 foot, made of stone."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0006",
+              "endUid": "u0008",
+              "quote": "But much more recently, apparently, was occupied by pirates. And from the ghost of the pirate captain you learned that the pirates had excavated a, a secret hideout underneath the manor. And this has now been taken over as Grimstone's lair."
+            }
+          ],
+          "note": "The descent through the bedroom trapdoor enters the old vault before the pirate-excavated tunnel."
+        },
+        {
+          "relation": "below",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0016",
+              "endUid": "u0017",
+              "quote": "So you're now staring down into this dark pit with a 10 foot ladder that drops down to a stone room below."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Excavated tunnel at the pit",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u0096",
+          "endUid": "u0109",
+          "quote": "So the wounded warlock is taking up the rear. But he can tug on me violently. Yes. So, so the steampup begins to slowly lead you down this dark corridor, moving along as as quietly as it as it can."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0031",
+              "endUid": "u0038",
+              "quote": "There is in the north wall, the, the, like, nicely laid masonry of the wall has been smashed open. And there's just this, [garbled] this rough hole in the wall that leads to, like, a circular tunnel that's been excavated in, from the dirt going into the darkness."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Dead end beyond the pit",
+      "kind": "tunnel recess",
+      "evidence": [
+        {
+          "startUid": "u0157",
+          "endUid": "u0166",
+          "quote": "So you wanna fly across the hole first and see where the corridor goes?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0157",
+              "endUid": "u0166",
+              "quote": "So you wanna fly across the hole first and see where the corridor goes?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Scorched pirate cavern",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u0471",
+          "endUid": "u0474",
+          "quote": "And you look around now, the light from your bag of distraction, now revealing the scene of the cavern, and everything is like scorched and black. You see, like these 7 skeletons, like all like black. Burned like they were burned to a crisp."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0505",
+              "endUid": "u0509",
+              "quote": "Otherwise everything is burned. You do manage to kind of get a sense of the of what happened here as well, just from the how high you roll. Which is that like, these were presumably the— just from the skeleton, from like little bits of, of armor that's remained from the melted bits of the swords. These are probably pirates, like from the same as the captain up above, who made this lair their lair here 30 or 40 years ago."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Assistant’s punching-bag cavern",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u0679",
+          "endUid": "u0695",
+          "quote": "So, a halfling on a dog rounds the corner and you see a— briefly staring at you in total surprise, this large man, oh,"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0753",
+              "endUid": "u0755",
+              "quote": "I'll keep him here if you wanna go talk to Grimstone. I wouldn't interrupt him right now. He's convinced the latest batch is the key. Working on some crazy potion."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Side passages off the junction",
+      "kind": "passages",
+      "evidence": [
+        {
+          "startUid": "u1082",
+          "endUid": "u1098",
+          "quote": "Okay, so you've got like a corridor, like a room that looks something like this."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1082",
+              "endUid": "u1098",
+              "quote": "Okay, so you've got like a corridor, like a room that looks something like this."
+            }
+          ],
+          "note": "Hiding just off the room is not presence in the unexplored rooms beyond these corridors."
+        }
+      ]
+    },
+    "p10": {
+      "label": "Alchemical laboratory",
+      "kind": "laboratory",
+      "evidence": [
+        {
+          "startUid": "u1851",
+          "endUid": "u1852",
+          "quote": "And you find yourself now standing in Grimstone's alchemical laboratory of some kind."
+        },
+        {
+          "startUid": "u0944",
+          "endUid": "u0955",
+          "quote": "And you're looking into a cave like a natural cavern, but the floor has been completely smooth and cleared, and there are— To—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1257",
+              "endUid": "u1258",
+              "quote": "This passageway to the north leads to the alchemy lair and the potion throwing madman."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Western bedroom and study",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1988",
+          "endUid": "u1993",
+          "quote": "But as you inch your way down this passageway, you come to a small room, maybe 20 foot by 20 foot with a crude bed, and just scattered across a rickety table, hundreds of little scattered papers and notes and maps, and just like, you know, things with all sorts of stuff sketched on them."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1982",
+              "endUid": "u1993",
+              "quote": "So creeping down this hallway, there's no light, there's no sign of any noise. There doesn't seem to be anybody here."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Eastern storeroom",
+      "kind": "storeroom",
+      "evidence": [
+        {
+          "startUid": "u2014",
+          "endUid": "u2021",
+          "quote": "So as you creep down to this room, you see—first of all, you see Pikeia, your dog, the flesh version of your dog tied up in this chamber."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2013",
+              "endUid": "u2021",
+              "quote": "So as you creep down to this room, you see—first of all, you see Pikeia, your dog, the flesh version of your dog tied up in this chamber."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Road from the mountains into the valley",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u2142",
+          "endUid": "u2146",
+          "quote": "On the road down from these mountains into the valley, you say your goodbyes, make plans, split up your treasure. I'll just give everybody like a minute to wrap up their character's story however they want."
+        }
+      ]
+    },
+    "p14": {
+      "label": "Orenlas",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u2176",
+          "endUid": "u2179",
+          "quote": "She decide to set off back south again, try to find the kingdom of Orenlas, and to see if she can be admitted to it, and as she walks down like a very soft hoot of owls as she goes, and her little birds fly around her, go off, and she sort of almost disappears in a little bit of a flurry of wings."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Orenlas/Orenlas.md",
+      "note": "Destination sought in Loria’s epilogue. The source does not establish arrival or a regional route; modern vault geography is not imported."
+    },
+    "p15": {
+      "label": "Natural southern corridor",
+      "kind": "corridor",
+      "evidence": [
+        {
+          "startUid": "u0600",
+          "endUid": "u0610",
+          "quote": "It, just, you know, don't quite grasp the iron ring, and it just bangs up against the wall a little bit. As you step through, you can hear, hear a faint echo down the, the corridor, and you can see like ahead of you—well, I don't know. What do you—what what's happened to all the light pebbles? Is somebody carrying them? Are they shielded? Is it pitch black?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0600",
+              "endUid": "u0610",
+              "quote": "It, just, you know, don't quite grasp the iron ring, and it just bangs up against the wall a little bit. As you step through, you can hear, hear a faint echo down the, the corridor, and you can see like ahead of you—well, I don't know. What do you—what what's happened to all the light pebbles? Is somebody carrying them? Are they shielded? Is it pitch black?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0020"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party opens in the manor’s master bedroom beside the trapdoor and the bound pirate captain.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0005",
+          "quote": "So, so you are currently standing in the bedroom, a— what was once, long ago, like hundreds of years ago, the, the master bedroom suite of this Perdoli family that built this manor."
+        },
+        {
+          "startUid": "u0016",
+          "endUid": "u0020",
+          "quote": "So you're now staring down into this dark pit with a 10 foot ladder that drops down to a stone room below."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0031",
+        "endUid": "u0038"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend the ten-foot ladder into the original stone bolt-hole.",
+      "evidence": [
+        {
+          "startUid": "u0031",
+          "endUid": "u0038",
+          "quote": "So you jumped down into the bolt-hole. This is the room that's—there's a ladder that goes down. It drops down about 10 feet into a small square room, maybe 20 foot by 20 foot, made of stone."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "climb",
+      "distance": {
+        "value": 10,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM’s drop estimate"
+      }
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0096",
+        "endUid": "u0105"
+      },
+      "actors": [
+        "party",
+        "Steampup"
+      ],
+      "reading": "Follow the excavated tunnel to the hole in its floor.",
+      "evidence": [
+        {
+          "startUid": "u0096",
+          "endUid": "u0105",
+          "quote": "So the wounded warlock is taking up the rear. But he can tug on me violently. Yes. So, so the steampup begins to slowly lead you down this dark corridor, moving along as as quietly as it as it can."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "North through the smashed vault wall and excavated earth tunnel."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0156",
+        "endUid": "u0166"
+      },
+      "actors": [
+        "Acescale"
+      ],
+      "reading": "Fly across to inspect the rubble dead end, descend partway into the shaft to scout, then return to the companions at the pit.",
+      "evidence": [
+        {
+          "startUid": "u0157",
+          "endUid": "u0166",
+          "quote": "So you wanna fly across the hole first and see where the corridor goes?"
+        },
+        {
+          "startUid": "u0167",
+          "endUid": "u0182",
+          "quote": "Okay. I will double back. I'll say that's a dead end, and double-check my rope, and then start slowly drifting down."
+        },
+        {
+          "startUid": "u0190",
+          "endUid": "u0196",
+          "quote": "Yeah, I will drift back up and let everyone know that we—you said, like, sep—several or 7? 7?"
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Inspects the unexcavated rubble at the dead end.",
+          "place": "p06"
+        },
+        {
+          "reading": "Descends in the shaft to view the cavern, without established floor arrival."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0178",
+        "endUid": "u0189"
+      },
+      "actors": [
+        "Acescale"
+      ],
+      "reading": "While flying partway down the shaft, sees the lower cavern, exit passage and seven pirate shades.",
+      "evidence": [
+        {
+          "startUid": "u0178",
+          "endUid": "u0189",
+          "quote": "And as you continue down the next thing you see is as you come maybe 20 feet down towards the bottom, you see—so the cavern is maybe 50 feet across from end to end and maybe 20 feet wide from side to side. At the far end,"
+        }
+      ],
+      "place": "p07",
+      "mode": "local",
+      "note": "Companions are not moved by this observation; Acescale’s return is quoted in l04."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0311",
+        "endUid": "u0334"
+      },
+      "actors": [
+        "Dilion",
+        "Steampup",
+        "Acescale"
+      ],
+      "reading": "Dilion reaches the cavern floor by ladder while Acescale lowers Steampup and continues flying.",
+      "evidence": [
+        {
+          "startUid": "u0308",
+          "endUid": "u0328",
+          "quote": "Alrighty then! Alright. Plan goes well— float down Acescale floats down, holding."
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "climb / fly",
+      "note": "Acescale is within the cavern airspace, not established standing on its floor."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0371",
+        "endUid": "u0390"
+      },
+      "actors": [
+        "Loria"
+      ],
+      "reading": "Falls past the ladder into the cavern, stands and engages the shades.",
+      "evidence": [
+        {
+          "startUid": "u0371",
+          "endUid": "u0390",
+          "quote": "Okay, I I'm gonna jump and try to hit the ladder to come down. Do I need to do for that?"
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fall"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u0391",
+        "endUid": "u0401"
+      },
+      "actors": [
+        "Gaudin"
+      ],
+      "reading": "Gaudin remains at the top of the pit and fires down during the shade encounter.",
+      "evidence": [
+        {
+          "startUid": "u0391",
+          "endUid": "u0401",
+          "quote": "Gaudin, and you're up."
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0481",
+        "endUid": "u0486"
+      },
+      "actors": [
+        "party",
+        "Steampup"
+      ],
+      "reading": "After searching the burned cavern, the party retires to the dead end around the corner for a short rest.",
+      "evidence": [
+        {
+          "startUid": "u0481",
+          "endUid": "u0486",
+          "quote": "It could be one hour. Yeah, yeah, I think a long rest has to be longer than eight hours. Yeah, I think a short rest is up to 4. If I'm not mistaken. Yeah. So we could. We could go here, or we could just like go back upstairs and chill in the dead end around the corner for an hour, and then— cause they don't put out there."
+        },
+        {
+          "startUid": "u0531",
+          "endUid": "u0533",
+          "quote": "Go ahead and use hit die. Your—Loria, your Dex is restored as you complete your short rest. Gaudin, you get your spell slot back."
+        },
+        {
+          "startUid": "u0557",
+          "endUid": "u0561",
+          "quote": "So, as you finish resting proceed back down into this cavern and you're faced now with this door. It's not a particularly fancy door. It's just a plain sort of wooden door that's been set into the, the, like, wall of this natural cavern. The, the cave itself is not—this hasn't been excavated or really improved at all, except for this sort of incongruous door."
+        }
+      ],
+      "from": null,
+      "to": "p06",
+      "completion": "arrived",
+      "note": "The agreed compressed move is supported by the completed rest and subsequent descent back into the cavern. Gaudin had remained above during combat; a common departure point is not asserted."
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0557",
+        "endUid": "u0561"
+      },
+      "actors": [
+        "party",
+        "Steampup"
+      ],
+      "reading": "Return down into the cavern and face the wooden door at its far end.",
+      "evidence": [
+        {
+          "startUid": "u0557",
+          "endUid": "u0561",
+          "quote": "So, as you finish resting proceed back down into this cavern and you're faced now with this door. It's not a particularly fancy door. It's just a plain sort of wooden door that's been set into the, the, like, wall of this natural cavern. The, the cave itself is not—this hasn't been excavated or really improved at all, except for this sort of incongruous door."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0600",
+        "endUid": "u0638"
+      },
+      "actors": [
+        "Loria",
+        "Steampup",
+        "Gaudin"
+      ],
+      "reading": "Advance through the natural corridor and round the torchlit bend into the assistant’s cavern.",
+      "evidence": [
+        {
+          "startUid": "u0600",
+          "endUid": "u0610",
+          "quote": "It, just, you know, don't quite grasp the iron ring, and it just bangs up against the wall a little bit. As you step through, you can hear, hear a faint echo down the, the corridor, and you can see like ahead of you—well, I don't know. What do you—what what's happened to all the light pebbles? Is somebody carrying them? Are they shielded? Is it pitch black?"
+        },
+        {
+          "startUid": "u0679",
+          "endUid": "u0695",
+          "quote": "So, a halfling on a dog rounds the corner and you see a— briefly staring at you in total surprise, this large man, oh,"
+        },
+        {
+          "startUid": "u0705",
+          "endUid": "u0708",
+          "quote": "Can we hear what's going on farther back in the— 5 feet behind, though. I quickly step in and I kind of cringe, and I, and I kick Loria on the ground."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass the unhinged wooden door and follow the narrow, worn natural cave corridor."
+        }
+      ],
+      "note": "Loria rides Steampup; Gaudin steps in for the deception. Acescale and Dilion remain out of the light at u0806."
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u0803",
+        "endUid": "u0806"
+      },
+      "actors": [
+        "Acescale",
+        "Dilion"
+      ],
+      "reading": "Remain out of sight in the dark corridor while the visible party deals with the assistant.",
+      "evidence": [
+        {
+          "startUid": "u0803",
+          "endUid": "u0807",
+          "quote": "Yeah, more expendable than the rest of us."
+        }
+      ],
+      "place": "p15",
+      "note": "The exact distance from the junction is not stated."
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u0848",
+        "endUid": "u0862"
+      },
+      "actors": [
+        "party",
+        "Steampup"
+      ],
+      "reading": "The party regroups at the assistant’s room and searches his crates before planning the laboratory lure.",
+      "evidence": [
+        {
+          "startUid": "u0848",
+          "endUid": "u0862",
+          "quote": "You said that he was like rooting around in some crates or something?"
+        },
+        {
+          "startUid": "u0867",
+          "endUid": "u0883",
+          "quote": "I take a sip of the brandy. I say, I say—"
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u0938",
+        "endUid": "u0955"
+      },
+      "actors": [
+        "Gaudin"
+      ],
+      "reading": "Scout down the northern corridor into view of the laboratory, interrupt Grimstone, then run back to report.",
+      "evidence": [
+        {
+          "startUid": "u0938",
+          "endUid": "u0959",
+          "quote": "And the rest of us are, are hidden out of sight like along the wall that the corridor is the end of—"
+        },
+        {
+          "startUid": "u0960",
+          "endUid": "u0977",
+          "quote": "Fingers and toes, my friends sprinkling, sprinkling, sir, sir."
+        }
+      ],
+      "from": "p08",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk / run",
+      "route": [
+        {
+          "reading": "Follows the torchlit passage, which bends and descends, roughly forty feet to the lab.",
+          "place": "p10"
+        }
+      ],
+      "note": "The scene places Gaudin at the laboratory approach within potion range; exact penetration into the chamber is not stated."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1036",
+        "endUid": "u1053"
+      },
+      "actors": [
+        "Gaudin"
+      ],
+      "reading": "Disguised as Grimstone, runs back to the burned cavern to confront the assistant; dashes and Misty Steps back to his companions after exposure.",
+      "evidence": [
+        {
+          "startUid": "u1036",
+          "endUid": "u1053",
+          "quote": "Okay. So I finished the whole brandy, and okay, so I disguise self as old potion man."
+        },
+        {
+          "startUid": "u1068",
+          "endUid": "u1075",
+          "quote": "Okay, so I— I dash as fast as I can down the alley or down the, the corridor towards everybody else. And then when I get at the end, then I use either—I misty step the last—"
+        },
+        {
+          "startUid": "u1095",
+          "endUid": "u1098",
+          "quote": "And suddenly, boom! Gaudin is in the middle of the room, and you hear the thudding footsteps of somebody running. I think it's probably easier to have initiative. Just have this starts."
+        }
+      ],
+      "from": "p08",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "run / Misty Step",
+      "route": [
+        {
+          "reading": "Returns to the scorched cavern, where the assistant stands inspecting the missing guards.",
+          "place": "p07"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u1092",
+        "endUid": "u1098"
+      },
+      "actors": [
+        "Acescale",
+        "Dilion",
+        "Loria",
+        "Steampup"
+      ],
+      "reading": "Hide just off the junction in side corridors to ambush the pursuing assistant.",
+      "evidence": [
+        {
+          "startUid": "u1037",
+          "endUid": "u1037",
+          "quote": "Well, we'll go down some of the other corridors, so we're completely out of the way."
+        },
+        {
+          "startUid": "u1092",
+          "endUid": "u1098",
+          "quote": "We'd be off on the, the side ones like here."
+        }
+      ],
+      "place": "p09"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1182",
+        "endUid": "u1217"
+      },
+      "actors": [
+        "Acescale",
+        "Gaudin",
+        "Loria",
+        "Steampup"
+      ],
+      "reading": "Pursue the assistant into the narrow southern corridor; Steampup kills him and the group regathers at the junction.",
+      "evidence": [
+        {
+          "startUid": "u1182",
+          "endUid": "u1217",
+          "quote": "I can get the dog to just chase him up until he can get to the stairs. I can't imagine if he's fully wounded, it's gonna have a good time."
+        },
+        {
+          "startUid": "u1234",
+          "endUid": "u1242",
+          "quote": "So as he's kneeling down like his hands up, \"Please don't kill me!\" The steampup just leaps at his chest, knocks—knocking him down, and his head whacks the back of the the corridor. You can see the light fade from his eyes."
+        },
+        {
+          "startUid": "u1255",
+          "endUid": "u1256",
+          "quote": "So you're now still back in the corridor you started with."
+        }
+      ],
+      "from": "p08",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "run",
+      "route": [
+        {
+          "reading": "Chase into the corridor toward the scorched cavern; no renewed arrival in that cavern is established."
+        }
+      ],
+      "note": "Dilion’s precise physical position during the pursuit is not supplied; commanding Steampup does not establish that he accompanied it."
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1385",
+        "endUid": "u1406"
+      },
+      "actors": [
+        "Loria"
+      ],
+      "reading": "Invisible, creeps into the laboratory, where a kicked vial alerts Grimstone.",
+      "evidence": [
+        {
+          "startUid": "u1385",
+          "endUid": "u1406",
+          "quote": "As you head down the—so, so where is everybody else? As Loria begins to head down the, the corridor?"
+        }
+      ],
+      "from": "p08",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1442",
+        "endUid": "u1552"
+      },
+      "actors": [
+        "Acescale",
+        "Dilion",
+        "Gaudin",
+        "Steampup"
+      ],
+      "reading": "Enter the laboratory during the fight, joining Loria.",
+      "evidence": [
+        {
+          "startUid": "u1442",
+          "endUid": "u1475",
+          "quote": "I do not want to be in a group like this. So I'm gonna do, 5, 1015, 2530. Oh, that's still not far enough. Hold on! Believe in you. It's 10 to get through the dog, right?"
+        },
+        {
+          "startUid": "u1489",
+          "endUid": "u1501",
+          "quote": "It's my reaction. So then I believe the dog had with a 40 foot movement. We'll go 5, 10, 15, 20, and I like the idea, just cinematically is like the dog is doing that cool like jump over the table kind of thing. Not—doesn't mean it has to like knock him back or anything. But just like as a cool like—"
+        },
+        {
+          "startUid": "u1541",
+          "endUid": "u1552",
+          "quote": "Gaudin, you're up."
+        },
+        {
+          "startUid": "u1571",
+          "endUid": "u1573",
+          "quote": "Okay. Dog will continue attacking after my turn. I moved up with Gaudin when he did so. Now I have enough—5, 1015, 30 to get right to the back of them. Without having to spend any extra thing, and I'll just stab away. It's time to—"
+        }
+      ],
+      "from": "p08",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk / leap",
+      "note": "Dilion follows Gaudin on readied movement; the later turn confirms that earlier movement. Tactical steps within the laboratory are not separate visits."
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u1982",
+        "endUid": "u2012"
+      },
+      "actors": [
+        "party",
+        "Steampup"
+      ],
+      "reading": "After the short rest, explore the west passage and enter the bedroom to study Grimstone’s papers.",
+      "evidence": [
+        {
+          "startUid": "u1982",
+          "endUid": "u2012",
+          "quote": "So I guess we're looking down the other hallways, right?"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Use the west corridor off the junction."
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2013",
+        "endUid": "u2025"
+      },
+      "actors": [
+        "party",
+        "Steampup"
+      ],
+      "reading": "Cross to the eastern storeroom, where Dilion is reunited with Pikeia and two chests are found.",
+      "evidence": [
+        {
+          "startUid": "u2013",
+          "endUid": "u2025",
+          "quote": "Yes, to the East, then. Yeah, I guess if there's nothing else in that room of note."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2032",
+        "endUid": "u2039"
+      },
+      "actors": [
+        "Gaudin",
+        "Acescale"
+      ],
+      "reading": "Return to the laboratory to search Grimstone’s corpse for the key and read his book.",
+      "evidence": [
+        {
+          "startUid": "u2032",
+          "endUid": "u2039",
+          "quote": "We didn't check the guy's corpse, did we? Didn't check for, for keys in his pockets."
+        },
+        {
+          "startUid": "u2043",
+          "endUid": "u2059",
+          "quote": "No, lizard folk is different from Draconic. Nobody's—it's, it's written in—you, I guess you would recognize the language as Draconic, but it's not a language that anybody reads."
+        }
+      ],
+      "from": "p12",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The source does not establish that Loria or Dilion followed the corpse search. Gaudin’s later physical return to the storeroom is not separately established."
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u2078",
+        "endUid": "u2084"
+      },
+      "actors": [
+        "Acescale"
+      ],
+      "reading": "Returns to the eastern storeroom and handles and pockets the magical die from the opened chest.",
+      "evidence": [
+        {
+          "startUid": "u2070",
+          "endUid": "u2084",
+          "quote": "Once you unlock the chest, it has 244 gold pieces, including Acescale's poker winnings."
+        }
+      ],
+      "from": "p10",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Handling the recovered die supports Acescale’s return; the chest-opening narration alone does not individually place Gaudin here."
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2114",
+        "endUid": "u2146"
+      },
+      "actors": [
+        "party",
+        "Steampup",
+        "Pikeia"
+      ],
+      "reading": "After resting overnight, escape the manor over the wall in the guard confusion and reach the road down from the mountains into the valley.",
+      "evidence": [
+        {
+          "startUid": "u2114",
+          "endUid": "u2118",
+          "quote": "So you rest, recover, and find yourself early in the morning, what—creeping out of the manor before anybody is awake?"
+        },
+        {
+          "startUid": "u2130",
+          "endUid": "u2146",
+          "quote": "So you sneak out past the hobgoblins, who are in a tizzy, having noticed the 8 dead hobgoblins and quite angry,"
+        }
+      ],
+      "from": "p03",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk / climb",
+      "route": [
+        {
+          "reading": "Slip out by the back way and over the manor wall.",
+          "place": "p01"
+        }
+      ],
+      "note": "The exact room used for the overnight rest is unstated; the escape is a compressed transition rather than a retraced interior itinerary."
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u2176",
+        "endUid": "u2179"
+      },
+      "actors": [
+        "Loria"
+      ],
+      "reading": "Sets off south to seek admission to Orenlas; arrival is not narrated.",
+      "evidence": [
+        {
+          "startUid": "u2174",
+          "endUid": "u2179",
+          "quote": "She parts ways, apologizing for her somewhat feeble spirit in the face of adversity. And knowing that this isn't really her path, this, this whole combat thing, unless she's like forced into it."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "underway",
+      "mode": "walk"
+    }
+  ]
+}
