@@ -1,6 +1,6 @@
 ---
 tags: [meta]
-campaigns: [feywild, dufr, chasm, mawar]
+campaigns: [feywild, dufr, itc, mawar]
 subdomain: greensea
 date: 1752-05-10
 ---
