@@ -1,0 +1,530 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-137",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-session.yaml",
+    "sessionYamlSha256": "bfc95a701cb3e8afe5ff23b9dcdbf30de227f8b5931b2edeca190abe8e84e20c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-transcript.md",
+    "transcriptSha256": "374d0923dd4e652a7dc33e919c9a4b774003f4d2b47b3e2d29b15b369872cfd2",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-segments.json",
+      "sha256": "89024619bb0a5fb6d18fc0a5abd2dbfd6c8a70b4d1b15e156cf6fba9556acea9",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s008",
+      "encounter": "Kenzo takes an ooze sample in the ruined cistern",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Wins initiative with 24 and uses Soul Sight. The purple pseudopod is CR 9, acid-resistant, immune to blinded, charmed, deafened, exhaustion, frightened and prone, strong at Strength and weak at Charisma. The whole ooze is reported immune to acid, necrotic and poison damage and charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned and unconscious, but not incapacitated. Kenzo hits with his staff (27), stuns this segment when it fails a DC 20 Constitution save with 16, then uses Flurry of Blows for an advantaged unarmed hit (19), grapples it and rips off a sample as a free object interaction. He runs rather than Disengaging because the bonus action is already used; the stunned segment cannot react. No attack damage is stated.",
+              "evidence": [
+                {
+                  "startUid": "u2897",
+                  "endUid": "u3031"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze sample",
+              "kind": "event",
+              "summary": "The detached piece hardens into crystal. Kenzo escapes up the collapsed well, remounts Wellby and flies back to the others.",
+              "evidence": [
+                {
+                  "startUid": "u3036",
+                  "endUid": "u3049"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The reconnaissance succeeds: Kenzo brings back a crystallized sample. The stunned small segment has no recorded enemy turn; the larger ooze remains.",
+        "evidence": [
+          {
+            "startUid": "u3025",
+            "endUid": "u3049"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s012",
+      "encounter": "River ooze and its connecting tendril near Isingue",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "event",
+          "summary": "Retrospectively confirms the party received one Bardic Inspiration each before the fight; Kenzo’s use against the first acid burst is accepted.",
+          "evidence": [
+            {
+              "startUid": "u4131",
+              "endUid": "u4146"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "River ooze",
+              "kind": "turn",
+              "summary": "Slips partly into the water. Two pseudopods target Kenzo (21 misses, 25 hits); damage is first stated as 18 bludgeoning plus 11 acid, then the table calls the total 32. Another pseudopod hits Wellby (20) for 20 bludgeoning plus 8 acid before his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u3897",
+                  "endUid": "u3986"
+                }
+              ],
+              "note": "The components of Kenzo’s hit and its announced total disagree; his complete deflection makes the unreconciled total immaterial to damage taken."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the entire hit after correcting the reduction to 1d10+27 (37). The ooze fails DC 20 Dexterity against the returned attack; the table reduces its 20 returned damage to 10 bludgeoning because it is immune to the acid half.",
+              "evidence": [
+                {
+                  "startUid": "u3915",
+                  "endUid": "u3973"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the pseudopod hit, reducing 28 damage to 14.",
+              "evidence": [
+                {
+                  "startUid": "u3977",
+                  "endUid": "u3986"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "legendary_action",
+              "summary": "Moves in leviathan form after the ooze’s turn.",
+              "evidence": [
+                {
+                  "startUid": "u3987",
+                  "endUid": "u3989"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "Moves in leviathan form after the ooze’s turn, taking a separate position.",
+              "evidence": [
+                {
+                  "startUid": "u3992",
+                  "endUid": "u4004"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sight reports acid/poison and numerous condition immunities, no additional damage resistance, Strength as the best save and Intelligence as the worst. Activates Superior Defense for three ki and Lengau’s Claw as a bonus action for one minute. Two straight staff attacks hit (21 and a higher result), dealing 36 damage.",
+              "evidence": [
+                {
+                  "startUid": "u4006",
+                  "endUid": "u4098"
+                }
+              ]
+            },
+            {
+              "actor": "River ooze",
+              "kind": "legendary_action",
+              "summary": "Explodes an acid globule at Kenzo and Wellby. Wellby succeeds on Dexterity with 28; Kenzo rerolls a natural 1 using ki, still fails with 18, then uses Bardic Inspiration to reach 26 and succeeds. Both avoid the acid burst.",
+              "evidence": [
+                {
+                  "startUid": "u4099",
+                  "endUid": "u4150"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits with his first arrow for 43 damage and a second Lightning Arrow for 9 regular plus 15 lightning damage. The proposed DC 19 Dexterity save for the directly struck target is withdrawn. Flies around toward the back, remaining roughly 30 feet above the ooze rather than retreating out of sight; spots and telepathically identifies its connecting tendril toward the plaza. His attacks grant allies advantage until his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u4159",
+                  "endUid": "u4285"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "legendary_action",
+              "summary": "An advantaged leviathan slam misses with 19 after Wellby’s turn.",
+              "evidence": [
+                {
+                  "startUid": "u4221",
+                  "endUid": "u4242"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "An advantaged leviathan slam hits with 30 for 26 bludgeoning; acid damage is omitted because the ooze is immune.",
+              "evidence": [
+                {
+                  "startUid": "u4230",
+                  "endUid": "u4261"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Rune of Psychic Disruption at seventh level, DC 19 Intelligence. The ooze rolls a natural 20, avoids incapacitation and takes half of 35 psychic damage, corrected to 17.",
+              "evidence": [
+                {
+                  "startUid": "u4286",
+                  "endUid": "u4336"
+                }
+              ]
+            },
+            {
+              "actor": "River ooze",
+              "kind": "legendary_action",
+              "summary": "Targets Wellby, corrected from Kenzo, with an acid-like net. His Dexterity 16 fails; the table applies Evasion and poison resistance for 8 poison damage. Restrained: speed zero, attacks at disadvantage and attacks against him at advantage, with a new save at each turn’s end.",
+              "evidence": [
+                {
+                  "startUid": "u4337",
+                  "endUid": "u4379"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Sends a tidal wave at the connecting tendril. The ooze succeeds on DC 24 Strength with 25 and takes 11 bludgeoning from the corrected 22 roll; the tendril remains intact.",
+              "evidence": [
+                {
+                  "startUid": "u4396",
+                  "endUid": "u4437"
+                }
+              ]
+            },
+            {
+              "actor": "River ooze",
+              "kind": "legendary_action",
+              "summary": "Hits restrained Wellby with an advantaged pseudopod attack for 22 total damage.",
+              "evidence": [
+                {
+                  "startUid": "u4438",
+                  "endUid": "u4450"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "Uses a slam with advantage still active from Wellby; 19 misses.",
+              "evidence": [
+                {
+                  "startUid": "u4453",
+                  "endUid": "u4468"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "event",
+              "summary": "Uses water form to crawl through the hostile ooze’s space and settles on top of it near the connecting tendril.",
+              "evidence": [
+                {
+                  "startUid": "u4469",
+                  "endUid": "u4490"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "River ooze",
+              "kind": "turn",
+              "summary": "Blasts a line of acid at Seeker and Wellby (targets corrected in play). Seeker is immune; restrained Wellby rolls Dexterity with disadvantage, improves 18 to 26 using Bardic Inspiration and takes no damage. Then makes two advantaged pseudopod attacks against Wellby; both hit, each for 15 bludgeoning plus 9 acid, 24 per hit.",
+              "evidence": [
+                {
+                  "startUid": "u4491",
+                  "endUid": "u4564"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "legendary_action",
+              "summary": "Moves 140 feet in leviathan form to join Seeker near the tendril.",
+              "evidence": [
+                {
+                  "startUid": "u4565",
+                  "endUid": "u4582"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves to the connecting tendril. Two staff attacks with advantage hit for 55 damage, including Lengau’s Claw’s dice after its applicability to all melee attacks is confirmed. Three advantaged punches also hit, one critically, for 75 more damage. The ooze feeds material and stone into the tendril, hardening it into a barrier resistant to bludgeoning.",
+              "evidence": [
+                {
+                  "startUid": "u4592",
+                  "endUid": "u4715"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "legendary_action",
+              "summary": "Slams the reinforced tendril (25 hits). Its new bludgeoning resistance reduces 13 damage to 6.",
+              "evidence": [
+                {
+                  "startUid": "u4716",
+                  "endUid": "u4753"
+                }
+              ]
+            },
+            {
+              "actor": "River ooze",
+              "kind": "legendary_action",
+              "summary": "Nets Kenzo after his damage to the tendril. Dexterity 16 fails; 44 damage is reduced twice to 11 as played. Kenzo is restrained with speed zero and disadvantaged attacks, and can save again at his turn’s end.",
+              "evidence": [
+                {
+                  "startUid": "u4755",
+                  "endUid": "u4817"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Advantage cancels restraint’s disadvantage, so shoots the tail with a straight attack, using Clockwork Amulet for 24; sneak attack remains allowed because of the nearby ally, and the arrow deals 47. His end-of-turn escape save fails at 15 and still fails at 20 after Heroic Inspiration against DC 24. Adds Second Wind retroactively to this turn and heals 3.",
+              "evidence": [
+                {
+                  "startUid": "u4819",
+                  "endUid": "u4890"
+                },
+                {
+                  "startUid": "u4901",
+                  "endUid": "u4908"
+                }
+              ]
+            },
+            {
+              "actor": "River ooze",
+              "kind": "legendary_action",
+              "summary": "Attacks restrained Wellby with advantage after he damages the tail; rolls two natural 1s and misses. The DM explains it targets the last creature to physically damage the tail.",
+              "evidence": [
+                {
+                  "startUid": "u4891",
+                  "endUid": "u4917"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts sixth-level Rune of Psychic Disruption, DC 19 Intelligence. The ooze spends its first Legendary Resistance, hardens and slows, and takes half of 23 psychic damage, resolved as 11, avoiding incapacitation.",
+              "evidence": [
+                {
+                  "startUid": "u4921",
+                  "endUid": "u4944"
+                }
+              ]
+            },
+            {
+              "actor": "River ooze",
+              "kind": "legendary_action",
+              "summary": "Uses its last legendary action to attack Wellby again; it cannot identify the caster as the source of spell damage. The corrected attack roll is 23, hitting for 20 bludgeoning plus 5 acid, 25 total.",
+              "evidence": [
+                {
+                  "startUid": "u4951",
+                  "endUid": "u4979"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Multiattacks the reinforced tail: slam misses, tail attack hits with 21 for 11 bludgeoning before resistance. The table calls the reduced value 6 while also saying to round down. Cracks begin forming in the tendril.",
+              "evidence": [
+                {
+                  "startUid": "u4992",
+                  "endUid": "u5019"
+                }
+              ],
+              "note": "Retains the stated 11-to-6 resolution rather than silently recalculating it."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "River ooze",
+              "kind": "turn",
+              "summary": "Turns on Delwath and makes three pseudopod attacks: one misses, two hit. The two hits are stated as 35 and 27 bludgeoning before resistance; the second becomes 13, while the first reduction is garbled as 15/half. Delwath remains a leviathan; Constitution checks are discussed, with no loss of concentration established. Then shoots a line of acid through all four PCs: the two leviathans are immune; restrained Kenzo and Wellby fail Dexterity saves with disadvantage (19 and 18). Wellby takes 33 acid after Evasion; Kenzo’s additional resistance reduces his damage to 16.",
+              "evidence": [
+                {
+                  "startUid": "u5021",
+                  "endUid": "u5107"
+                }
+              ],
+              "note": "The first hit’s final reduced damage is not reliably resolved; the extraction preserves the stated base damage without inventing a total."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "legendary_action",
+              "summary": "Slams the tendril with 23 to hit; damage is first stated as 23 bludgeoning, then recalled as 21 when the DM records both leviathans’ hits.",
+              "evidence": [
+                {
+                  "startUid": "u5104",
+                  "endUid": "u5138"
+                }
+              ],
+              "note": "Both stated damage readings remain; no unsupported corrected total is chosen."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "Slams the tendril with 20, explicitly corrected from a miss to a hit, for 21 bludgeoning before its resistance. More cracks appear.",
+              "evidence": [
+                {
+                  "startUid": "u5108",
+                  "endUid": "u5138"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "While restrained, both staff attacks and his first punch miss with disadvantage; the remaining two punches hit for 43 force damage, avoiding bludgeoning resistance. His first escape save fails; a reroll reaches 25 and frees him.",
+              "evidence": [
+                {
+                  "startUid": "u5141",
+                  "endUid": "u5226"
+                }
+              ]
+            },
+            {
+              "actor": "River ooze",
+              "kind": "legendary_action",
+              "summary": "Attacks Kenzo after his escape, without advantage, and misses with a natural 1.",
+              "evidence": [
+                {
+                  "startUid": "u5225",
+                  "endUid": "u5230"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Still restrained, shoots the tendril (23 hits) for 31 damage and drinks his last carried healing potion as a bonus action; no healing total is stated. Fails his end-of-turn escape save. The DM subsequently reminds the table that restraint also imposes disadvantage on those Dexterity escape saves.",
+              "evidence": [
+                {
+                  "startUid": "u5232",
+                  "endUid": "u5285"
+                }
+              ]
+            },
+            {
+              "actor": "River ooze",
+              "kind": "legendary_action",
+              "summary": "Hits Wellby with a pseudopod. Damage is first given as 18 bludgeoning plus 8 acid, then corrected to 18 plus 6 (24 total) when Uncanny Dodge is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u5286",
+                  "endUid": "u5315"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "After checking that restraint does not prevent Uncanny Dodge, uses it to reduce the corrected 24-damage hit to 12. Remains restrained.",
+              "evidence": [
+                {
+                  "startUid": "u5292",
+                  "endUid": "u5331"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fifth-level Healing Word to restore 29 HP to Wellby, then hits the tail with both leviathan attacks (slam and tail; 32/33 to hit), dealing a stated 37 bludgeoning before the tail’s resistance. Two more large cracks appear.",
+              "evidence": [
+                {
+                  "startUid": "u5332",
+                  "endUid": "u5406"
+                }
+              ]
+            },
+            {
+              "actor": "River ooze",
+              "kind": "legendary_action",
+              "summary": "Punches Seeker with a pseudopod (19 on the die hits) for 14 bludgeoning, reduced to 7 by resistance; acid does nothing. The table confirms his +10 Constitution means this damage cannot break concentration, so no roll is needed.",
+              "evidence": [
+                {
+                  "startUid": "u5405",
+                  "endUid": "u5445"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "His tidal wave recharges, and he places a second wave across the tendril without hitting his companions. The ooze fails DC 24 Strength with 16 but spends another Legendary Resistance, halving 46 bludgeoning. The blast washes away the connecting pseudopod; the river ooze bubbles apart, drains away and hardens into crystal. The ground begins to rumble and shake.",
+              "evidence": [
+                {
+                  "startUid": "u5447",
+                  "endUid": "u5516"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "legendary_action",
+              "summary": "With the ooze defeated and the restraints hardened into crystal, washes the remaining crystal restraints away to free his companion(s). The DM confirms this assistance was possible only after crystallization, not against the active acid net.",
+              "evidence": [
+                {
+                  "startUid": "u5523",
+                  "endUid": "u5559"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The river condensation and its connecting tendril crystallize and collapse. The remaining hardened restraints are cleared. Rumbling foreshadows the greater mass at the plaza; this victory does not establish destruction of the whole ooze.",
+        "evidence": [
+          {
+            "startUid": "u5491",
+            "endUid": "u5559"
+          }
+        ]
+      }
+    }
+  ]
+}

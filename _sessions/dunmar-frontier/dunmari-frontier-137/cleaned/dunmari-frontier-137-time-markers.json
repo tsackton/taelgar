@@ -1,0 +1,452 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-137",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-session.yaml",
+    "sessionYamlSha256": "bfc95a701cb3e8afe5ff23b9dcdbf30de227f8b5931b2edeca190abe8e84e20c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-transcript.md",
+    "transcriptSha256": "374d0923dd4e652a7dc33e919c9a4b774003f4d2b47b3e2d29b15b369872cfd2",
+    "yamlDates": {
+      "start": "1749-09-17",
+      "end": "1749-09-18"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u1242",
+        "endUid": "u1243"
+      },
+      "reading": "The party receives long-rest credit and wakes at sunrise over Orenlas after returning from Limbo and collapsing in exhaustion.",
+      "evidence": [
+        {
+          "startUid": "u1242",
+          "endUid": "u1242",
+          "quote": "DM: [sighs] Everybody long rest."
+        },
+        {
+          "startUid": "u1262",
+          "endUid": "u1266",
+          "quote": "DM: Okay. So let's, let's begin. As you wake up the morning after you left, having returned from Limbo and immediately collapsed in exhaustion..."
+        },
+        {
+          "startUid": "u1267",
+          "endUid": "u1273",
+          "quote": "DM: As you awake, uh, the sun is rising over Orenlas on Vindristjarna, and you are left now only with the mission to return to Isingue and find the ooze that once attempted to destroy your ship, destroy it, and cleanse the river so the Heartroot can be replanted."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunrise",
+        "precision": "approximate",
+        "basis": "DM explicitly narrates sunrise when play opens."
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; the elapsed rest is established by waking after collapse, not by the sheet reset alone."
+      },
+      "completion": "completed",
+      "note": "The sleep precedes the opening waking scene; its precise start and whether it belongs inside the covered session boundary remain open."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1524",
+        "endUid": "u1526"
+      },
+      "reading": "A couple of hours have passed aboard Vindristjarna before the party switches to Wind Walk.",
+      "evidence": [
+        {
+          "startUid": "u1524",
+          "endUid": "u1524",
+          "quote": "DM: Well, no, 'cause you've been flying for a couple of hours, so you have... Well, we can go 544 miles."
+        },
+        {
+          "startUid": "u1526",
+          "endUid": "u1526",
+          "quote": "DM: You have like 580 miles to go."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM retrospectively says the ship has been flying for a couple of hours."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1589",
+        "endUid": "u1589"
+      },
+      "reading": "The party completes Wind Walk across the Plaguelands, landing near the ash storm about fifteen miles from Isingue when the spell ends.",
+      "evidence": [
+        {
+          "startUid": "u1514",
+          "endUid": "u1514",
+          "quote": "Delwath: How long does that last?"
+        },
+        {
+          "startUid": "u1515",
+          "endUid": "u1515",
+          "quote": "Unknown: Eight hours. Oh."
+        },
+        {
+          "startUid": "u1589",
+          "endUid": "u1589",
+          "quote": "DM: Seeker casts Wind Walk, and you fly—"
+        },
+        {
+          "startUid": "u1741",
+          "endUid": "u1743",
+          "quote": "DM: A slow meandering ash clogged river, and follow it until you can see the edge of this... In fact, where wis- where Wind Walk ends is basically at the edge of this growing ash storm, which is about 15 miles away from the, from Isingue."
+        },
+        {
+          "startUid": "u1745",
+          "endUid": "u1750",
+          "quote": "DM: And you're standing on a hill, a low hill. Actually, as you settle out of wind form your feet sink about six inches into ash, and you're walking across. It's like a lunar landscape. Everything is just coated in dust and ash. You're looking—"
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "The stated eight-hour Wind Walk lasts until its narrated endpoint."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1883",
+        "endUid": "u1891"
+      },
+      "reading": "Delwath’s illusory scout takes about fifty minutes to reach the city outskirts, reaches the clear plaza at 59 minutes 24 seconds, and vanishes at the hour.",
+      "evidence": [
+        {
+          "startUid": "u1883",
+          "endUid": "u1884",
+          "quote": "DM: Uh, slightly further, you, uh, after about 50 minutes, um, or no, it's a little bit before that, um, 45 minutes, you start to pass through the..."
+        },
+        {
+          "startUid": "u1885",
+          "endUid": "u1891",
+          "quote": "DM: Uh, I mean, no, maybe about 50 minutes, the outskirts of what might have been Isingue. You can see just every now and then, like mostly it's completely destroyed, but every now and then you'll see a, you know, a part of a wall standing or like a little stretch of, um, buildings that kind of make a little bit of a, of a bit of a road, pillars standing like that. Um, at, uh,"
+        },
+        {
+          "startUid": "u1902",
+          "endUid": "u1904",
+          "quote": "DM: Okay. Well, at 59 minutes and 24 seconds, um, it comes to a, like the eye of a hurricane style, like very intense wind tunnel."
+        },
+        {
+          "startUid": "u1915",
+          "endUid": "u1915",
+          "quote": "Delwath: Got it. I can only double range, not duration."
+        },
+        {
+          "startUid": "u1918",
+          "endUid": "u1919",
+          "quote": "DM: ... 36 seconds of it inside the clear spot."
+        },
+        {
+          "startUid": "u1989",
+          "endUid": "u1989",
+          "quote": "Delwath: Well, double Delwath will charge and disappear."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Mislead lasts one hour; the proposed doubling is withdrawn, and the double disappears after the final 36 seconds."
+      },
+      "completion": "completed",
+      "note": "This measures the remote illusion’s scouting, not physical travel by Delwath or the party."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1996",
+        "endUid": "u1996"
+      },
+      "reading": "Delwath takes ten minutes to inspect the plaza through Scrying; Kenzo’s nature-sense assessment overlaps that viewing.",
+      "evidence": [
+        {
+          "startUid": "u1996",
+          "endUid": "u1996",
+          "quote": "Delwath: So now we can, it, we have in a more leisurely fashion take 10 minutes to look around and see what we see."
+        },
+        {
+          "startUid": "u1997",
+          "endUid": "u2005",
+          "quote": "DM: Stretching about 100 feet wide, you can see now this like bubbling mass that seems to be searching around the edges of the plaza with these pseudopods, like trying to figure out what happened to this creature that vanished."
+        },
+        {
+          "startUid": "u2152",
+          "endUid": "u2155",
+          "quote": "DM: The second is, um, what you guess is this pl- like it, what it feels like is... So you're doing this while Delwath is scrying and you're sort of layering on your like radar consciousness map of what Delwath is seeing, and it feels like it's dr- like it's condensing."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Accepted ten-minute viewing followed by the DM’s description."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2712",
+        "endUid": "u2714"
+      },
+      "reading": "The sun is setting as dragon-form Wellby and Kenzo fly into the storm; Delwath and Seeker retreat from its spreading edge.",
+      "evidence": [
+        {
+          "startUid": "u2712",
+          "endUid": "u2714",
+          "quote": "DM: Um, the sun is also setting, so you can see the, the like lines of the sunset stretching across, um, the ash cloud from the outside, which is now... I mean, you guys, you two s- um, Delwath and Seeker are, like, you have the, you have to retreat a bit 'cause the ash is growing stronger, so."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Explicit DM sunset at the reconnaissance departure."
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Seeker"
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2717",
+        "endUid": "u2724"
+      },
+      "reading": "Wellby carries Kenzo thirteen miles into the storm over an hour and a half, reaching the city edge; they later return after obtaining a sample.",
+      "evidence": [
+        {
+          "startUid": "u2717",
+          "endUid": "u2724",
+          "quote": "DM: Um, you fly 13 miles, an hour and a half into the storm until you get to the, like r- roughly the edge of the city. There's no, there's no real marker. And now this is where the storm is super intense. Neither of you, I forgot that you're immune to poison, so neither of you have to make con saves because you're both immune to poison. Um, and the,"
+        },
+        {
+          "startUid": "u3048",
+          "endUid": "u3049",
+          "quote": "Kenzo: And then I hop back on Wellby's back, and then we fly back to the, where everybody else is."
+        },
+        {
+          "startUid": "u3056",
+          "endUid": "u3057",
+          "quote": "DM: Oh, it's been more than an hour."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 1.5,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit outbound flight; the return is confirmed without a measured duration."
+      },
+      "completion": "completed",
+      "note": "The stated hour and a half measures the outbound leg only; do not double it into an asserted round-trip time."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u3223",
+        "endUid": "u3226"
+      },
+      "reading": "The Mirror of the Past shifts to the ooze’s origin in a less-ruined Isingue cistern and accelerates through years of its growth.",
+      "evidence": [
+        {
+          "startUid": "u3223",
+          "endUid": "u3226",
+          "quote": "DM: And you watch as the image in the mirror turns briefly black, and then you see below you,"
+        },
+        {
+          "startUid": "u3232",
+          "endUid": "u3234",
+          "quote": "DM: Shining down into a, um, y- you can see like ripples in the water, right? So you're... It's like looking down into this cistern below Isingue, uh, but when it is less ruined."
+        },
+        {
+          "startUid": "u3312",
+          "endUid": "u3314",
+          "quote": "DM: And then all of that is like solidifying and drawing in, and you watch... Like time is sped up in the mirror, right? So you watch over time—"
+        },
+        {
+          "startUid": "u3317",
+          "endUid": "u3319",
+          "quote": "DM: And then the first like maybe years later there's the first like little... It's slow. It's a slow process. The, you know... Uh, the first little tendril creeps up out of a—"
+        },
+        {
+          "startUid": "u3323",
+          "endUid": "u3326",
+          "quote": "DM: Right? And at this point that you can see in the mirror, right? Isingue is much more intact, but over time it begins to corrode and destroy all of the... It seems to actually eat the stone somehow. It's like acidically corroding all of the stone in the city as it slowly grows over years."
+        },
+        {
+          "startUid": "u3329",
+          "endUid": "u3329",
+          "quote": "DM: And that's what you see."
+        }
+      ],
+      "context": "vision",
+      "note": "Historical vision time, including its sunlight and years of growth, does not advance the adventure calendar."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u3330",
+        "endUid": "u3335"
+      },
+      "reading": "The mirror vision ends and play returns to the party discussing how to destroy the ooze.",
+      "evidence": [
+        {
+          "startUid": "u3329",
+          "endUid": "u3329",
+          "quote": "DM: And that's what you see."
+        },
+        {
+          "startUid": "u3331",
+          "endUid": "u3331",
+          "quote": "Wellby: What does that suggest for how to destroy it?"
+        },
+        {
+          "startUid": "u3332",
+          "endUid": "u3335",
+          "quote": "Delwath: I mean, it's the plan Kenzo suggested at the very beginning. Find its center and then—"
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t08",
+          "anchor": "After the mirror display; resumes the current sample examination, without an elapsed adventure-time value."
+        },
+        "precision": "approximate",
+        "basis": "The vision explicitly ends, then the party discusses its implications."
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u3474",
+        "endUid": "u3477"
+      },
+      "reading": "The party sets camp and eats the conjured feast as the sun sets.",
+      "evidence": [
+        {
+          "startUid": "u3474",
+          "endUid": "u3477",
+          "quote": "DM: As the sun sets you set up camp. Seeker creates a feast for you and you consume the feast. Roll 2d10, everybody gets 2d10 added to your hit point maximum."
+        },
+        {
+          "startUid": "u3491",
+          "endUid": "u3492",
+          "quote": "DM: We're not in Vindristjarna though, right? You're not in Vindristjarna."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Explicit DM sunset at camp after the reconnaissance return and mirror examination."
+      },
+      "note": "The earlier departure at t06 was also placed at sunset, followed by the stated flight and return; preserve both sunset cues without inventing an extra day or a precise intervening clock."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u3552",
+        "endUid": "u3558"
+      },
+      "reading": "Morning follows the camp’s completed overnight rest; the storm has grown a couple of miles during the night.",
+      "evidence": [
+        {
+          "startUid": "u3455",
+          "endUid": "u3455",
+          "quote": "DM: So you cast it right before you go to bed, so then you're impun- immune to poison all the next day."
+        },
+        {
+          "startUid": "u3552",
+          "endUid": "u3556",
+          "quote": "DM: [coughs] Yes. [coughs] Okay. So the morning comes. Uh, the a- you've, you set up camp about a mile from the ash storm, and it's now spread so that the edges of the storm are l- are lapping up against your tents."
+        },
+        {
+          "startUid": "u3558",
+          "endUid": "u3558",
+          "quote": "DM: As you wake from the, a nice rest, refreshed with your Heroes' Feast."
+        },
+        {
+          "startUid": "u3562",
+          "endUid": "u3565",
+          "quote": "DM: So you're now, you are now maybe 15, f- 15 miles from the plaza as the storm has grown slightly. Grew a, a couple miles over the course of the night. [gentle music] And where are you heading?"
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM explicitly says morning comes and the party wakes refreshed."
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention for the established completed overnight rest."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute date is spoken in session 137. September 17–18, 1749 comes from YAML; the text supplies sunrise, a day of travel/reconnaissance, a camp, and the following morning. DF136’s closing return from Limbo precedes this waking; DF135 raw notes intervene before DF136.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t06",
+      "t07",
+      "t10",
+      "t11"
+    ],
+    "explanation": "One explicit overnight transition is established at t11, compatible with the YAML day pair. The opening rest at t01 precedes the waking scene, so its inclusion in the covered interval is ambiguous. The two sunset narrations around the reconnaissance and return leave the detailed clock unresolved; they do not establish a second day."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01"
+      ],
+      "reading": "The session opens with long-rest credit and waking after the prior Limbo return; the previous night is recalled but not played forward here.",
+      "alternatives": [
+        {
+          "reading": "Use the waking scene as the opening boundary, conditionally September 17 from YAML.",
+          "date": "1749-09-17"
+        },
+        {
+          "reading": "Include the retrospectively established sleep before waking; its starting civil date and clock are not stated."
+        }
+      ]
+    }
+  ]
+}

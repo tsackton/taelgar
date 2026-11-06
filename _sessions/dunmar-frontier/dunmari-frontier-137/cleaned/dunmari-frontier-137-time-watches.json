@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-time-markers.json",
+    "sha256": "0c853a478f9139e6577c8eb35c8fc4772c81c602f1e16c1edde61f49caa670fe"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-transcript.md",
+    "sha256": "374d0923dd4e652a7dc33e919c9a4b774003f4d2b47b3e2d29b15b369872cfd2"
+  },
+  "dateAssessment": "Working civil dates are September 17–18, 1749 from session YAML, conditional on that calendar: no absolute date is spoken in DF137. The source sequence includes DF135’s registered raw notes (September 14, then two days in Orenlas before entering Limbo), DF136’s nighttime return to the Elven Forest less than a day after entry (u10550–u10560), and DF137’s waking after that return (t01). DF135 intervenes; no direct DF134→DF136 handoff is assumed. The current time extraction remains compatible, rather than matched: t11 establishes one overnight transition, while t01’s recalled opening sleep has an open start boundary. Sunrise plus a couple of hours aboard ship supplies the morning estimate; eight hours of Wind Walk then puts arrival in afternoon, with an hour of scouting and a ten-minute viewing following. Both the reconnaissance departure (t06) and the later camp (t10) are called sunset despite the intervening 90-minute outbound flight and unmeasured return. The dusk row preserves both cues without resolving their exact clock or inventing another date. The overnight row estimates a midnight start backward from morning using the eight-hour long-rest convention; the earlier sunset establishes camp and feast, not an exact sleep onset. The accelerated years in the mirror are historical vision time, not adventure elapsed time. Combat and the later plaza approach have no separate stated watch.",
+  "watches": [
+    {
+      "day": "Through September 17, 1749",
+      "startWatch": null,
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Sunrise after post-Limbo collapse; long-rest credit conventionally represents eight hours, with the opening sleep boundary unresolved.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Opening rest credit; prior sleep onset unplaced",
+      "endDate": "1749-09-17"
+    },
+    {
+      "day": "September 17, 1749",
+      "startDate": "1749-09-17",
+      "endDate": "1749-09-17",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "A couple of hours aboard Vindristjarna after sunrise precede the Wind Walk departure.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "September 17, 1749",
+      "startDate": "1749-09-17",
+      "endDate": "1749-09-17",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Eight-hour Wind Walk reaches the storm margin; an hour of illusion scouting and ten-minute viewing follow.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05"
+      ]
+    },
+    {
+      "day": "September 17, 1749",
+      "startDate": "1749-09-17",
+      "endDate": "1749-09-17",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Both departure and later camp are called sunset; outbound flight takes ninety minutes; mirror years are historical.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "scope": "Reconnaissance and return; two retained sunset cues"
+    },
+    {
+      "day": "Through September 18, 1749",
+      "endDate": "1749-09-18",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Eight-hour overnight rest ends in narrated morning; the storm grows a couple of miles while the party sleeps.",
+      "markers": [
+        "t11"
+      ],
+      "scope": "Rest start estimated backward from morning"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "DF135 registered raw-notes chronology",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-135/sources/Session135.combined-raw-notes-draft.md",
+      "sha256": "cb444a6c0babeb12987ca4caf991a9b20c38ac6bf0e5968b47c35606521db8c6"
+    },
+    {
+      "label": "DF136 nighttime return handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-transcript.md",
+      "sha256": "65223c487c58083fb275dceff0b4e891237825fff2b5f2acfb31b5e16efac42f"
+    }
+  ]
+}
