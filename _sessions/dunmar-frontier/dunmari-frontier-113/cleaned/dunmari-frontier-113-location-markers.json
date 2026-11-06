@@ -1,0 +1,1175 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-113",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-session.yaml",
+    "sessionYamlSha256": "7f0675b3337706cc595ba823533a1a7881ad763ad216b642608ae6d81fe99137",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-transcript.md",
+    "transcriptSha256": "e6ba63fd5743e24bca72a00fa6b48c789049d20b5b0055cd9c00d422f8d24539"
+  },
+  "places": {
+    "p01": {
+      "label": "Drankor",
+      "kind": "ruined city",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0028",
+          "quote": "DM: So we pick up on Vindristjarna moments after you have teleported back from a long, intense battle with your evil duplicates. The de- the jungle below you is seemingly quiet at the moment as the ship hovers above this absolutely massive temple of the 8 Divines, the center of the of the Mos Numena of worship in Drankor, with a dome that must stretch 3, 4, 500 feet across, just absolutely massive compared to anything you've seen before. On the periphery, 8 domed chapels, each large enough to be its own temple, presumably representing the 8 individual gods, and a large—or sorry, I should say, a small plaza compared to the great plaza only a half mile away, but still a large plaza in its own right at the front of the temple.\nDM: But as you hover here, you recall why you initially came to investigate the temple, because this, in your visions and knowledge and stories and dreams over the past year or more in your travels, is, as far as you know, where Rai was based when he was occupying Drankor. And it is the last known location of Apollyon's phylactery: the adamantine dagger, woven with the souls of the sacrificed, that became the engine by which Apollyon both became a lich and protected his soul from ever being destroyed.\nDM: And so, as you look out over the temple, the rest of Drankor in the distance, the massive, ruined amphitheater to the northeast, the great plaza almost directly east of you, between here and the river, the occasional tower or dome sticking up from the trees, marking, perhaps, manor, or estate of some Drankorian society, or one of the many smaller temples scattered around the city. A guild. In the distance to the north you see the rise of hills, below which— beyond which there's a valley that you know, although the details are not clear from here behind the trees—but which, you know, sits Apollyon's tomb, surrounded by the red mist of Cha'mutte's plague."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Drankor.md"
+    },
+    "p02": {
+      "label": "Temple of the Eight Divines",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0011",
+          "quote": "DM: So we pick up on Vindristjarna moments after you have teleported back from a long, intense battle with your evil duplicates. The de- the jungle below you is seemingly quiet at the moment as the ship hovers above this absolutely massive temple of the 8 Divines, the center of the of the Mos Numena of worship in Drankor, with a dome that must stretch 3, 4, 500 feet across, just absolutely massive compared to anything you've seen before. On the periphery, 8 domed chapels, each large enough to be its own temple, presumably representing the 8 individual gods, and a large—or sorry, I should say, a small plaza compared to the great plaza only a half mile away, but still a large plaza in its own right at the front of the temple."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Temple of the Eight Divines.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0028",
+              "quote": "DM: So we pick up on Vindristjarna moments after you have teleported back from a long, intense battle with your evil duplicates. The de- the jungle below you is seemingly quiet at the moment as the ship hovers above this absolutely massive temple of the 8 Divines, the center of the of the Mos Numena of worship in Drankor, with a dome that must stretch 3, 4, 500 feet across, just absolutely massive compared to anything you've seen before. On the periphery, 8 domed chapels, each large enough to be its own temple, presumably representing the 8 individual gods, and a large—or sorry, I should say, a small plaza compared to the great plaza only a half mile away, but still a large plaza in its own right at the front of the temple.\nDM: But as you hover here, you recall why you initially came to investigate the temple, because this, in your visions and knowledge and stories and dreams over the past year or more in your travels, is, as far as you know, where Rai was based when he was occupying Drankor. And it is the last known location of Apollyon's phylactery: the adamantine dagger, woven with the souls of the sacrificed, that became the engine by which Apollyon both became a lich and protected his soul from ever being destroyed.\nDM: And so, as you look out over the temple, the rest of Drankor in the distance, the massive, ruined amphitheater to the northeast, the great plaza almost directly east of you, between here and the river, the occasional tower or dome sticking up from the trees, marking, perhaps, manor, or estate of some Drankorian society, or one of the many smaller temples scattered around the city. A guild. In the distance to the north you see the rise of hills, below which— beyond which there's a valley that you know, although the details are not clear from here behind the trees—but which, you know, sits Apollyon's tomb, surrounded by the red mist of Cha'mutte's plague."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0011",
+          "quote": "DM: So we pick up on Vindristjarna moments after you have teleported back from a long, intense battle with your evil duplicates. The de- the jungle below you is seemingly quiet at the moment as the ship hovers above this absolutely massive temple of the 8 Divines, the center of the of the Mos Numena of worship in Drankor, with a dome that must stretch 3, 4, 500 feet across, just absolutely massive compared to anything you've seen before. On the periphery, 8 domed chapels, each large enough to be its own temple, presumably representing the 8 individual gods, and a large—or sorry, I should say, a small plaza compared to the great plaza only a half mile away, but still a large plaza in its own right at the front of the temple."
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true
+    },
+    "p04": {
+      "label": "Plaza with the bubbling fountain",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u0144",
+          "endUid": "u0155",
+          "quote": "DM: So as you descend you can see a little bit more detail of the plaza and the sort of general layout. So there are, I mean, this was once the middle of a of a neighborhood, right? You can see a bunch of buildings which are— There's a few trees, but not dense jungle growing particularly close to the temple. Further away, like, I don't know if you're on Roll20. You can see the map, like, you know, when you get 5, 600 feet away from the temple, you know you're—you're getting into some dense jungle, but as you come down you—you can see this sort of massive arched entryway that has statues of the 8 divines arrayed on top of it. And these huge reinforced bronze doors that are decorated with a whole bunch of like intricate scenes. You're not close enough to see the details, and it fronts out onto this small open plaza, small like 100 by 200 feet. Something like that. There's a fountain in the plaza that's bubbling."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0144",
+              "endUid": "u0155",
+              "quote": "DM: So as you descend you can see a little bit more detail of the plaza and the sort of general layout. So there are, I mean, this was once the middle of a of a neighborhood, right? You can see a bunch of buildings which are— There's a few trees, but not dense jungle growing particularly close to the temple. Further away, like, I don't know if you're on Roll20. You can see the map, like, you know, when you get 5, 600 feet away from the temple, you know you're—you're getting into some dense jungle, but as you come down you—you can see this sort of massive arched entryway that has statues of the 8 divines arrayed on top of it. And these huge reinforced bronze doors that are decorated with a whole bunch of like intricate scenes. You're not close enough to see the details, and it fronts out onto this small open plaza, small like 100 by 200 feet. Something like that. There's a fountain in the plaza that's bubbling."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0028",
+              "quote": "DM: So we pick up on Vindristjarna moments after you have teleported back from a long, intense battle with your evil duplicates. The de- the jungle below you is seemingly quiet at the moment as the ship hovers above this absolutely massive temple of the 8 Divines, the center of the of the Mos Numena of worship in Drankor, with a dome that must stretch 3, 4, 500 feet across, just absolutely massive compared to anything you've seen before. On the periphery, 8 domed chapels, each large enough to be its own temple, presumably representing the 8 individual gods, and a large—or sorry, I should say, a small plaza compared to the great plaza only a half mile away, but still a large plaza in its own right at the front of the temple.\nDM: But as you hover here, you recall why you initially came to investigate the temple, because this, in your visions and knowledge and stories and dreams over the past year or more in your travels, is, as far as you know, where Rai was based when he was occupying Drankor. And it is the last known location of Apollyon's phylactery: the adamantine dagger, woven with the souls of the sacrificed, that became the engine by which Apollyon both became a lich and protected his soul from ever being destroyed.\nDM: And so, as you look out over the temple, the rest of Drankor in the distance, the massive, ruined amphitheater to the northeast, the great plaza almost directly east of you, between here and the river, the occasional tower or dome sticking up from the trees, marking, perhaps, manor, or estate of some Drankorian society, or one of the many smaller temples scattered around the city. A guild. In the distance to the north you see the rise of hills, below which— beyond which there's a valley that you know, although the details are not clear from here behind the trees—but which, you know, sits Apollyon's tomb, surrounded by the red mist of Cha'mutte's plague."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Central chamber and altar",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0597",
+          "endUid": "u0619",
+          "quote": "DM: Let me describe it. I'll get to that. So the— the doors open into this sort of grand hall, this entryway that passes into this massive open chamber, like probably 400 feet across. The huge dome stretching up above you, light and color filtering through the dome, many colors dancing along the marble floor that seemed to be lit brightly by the sun, maybe somehow amplifying or reflecting the sun, whether by magic or mirrors is not clear. And the floor itself, vast marble floor that stretches through this, this large chamber, this central chamber, seems to be giving off this emanation or aura of warmth and and peacefulness as you sort of stride towards the chamber. The—the temple itself, so the shape is this.\nDM: It's like a dome in the middle, but then it's almost like it's not a quite a circular. It's like a 10 sided polygon around the edge, and 8 of those 10 sides have these have these arches that lead—open arches that lead to these elaborate— you might call them side chapels, but they're much bigger than what a side chapel really would be. They're really almost temples in their own right, each dedicated to one of the 8 Divines.\nDM: The inner chamber itself, this huge chamber, is relatively empty, but there's a large altar placed sort of not directly in the middle, a bit towards the back, the far side from where you are, made of a solid piece of this incredible marble that's curving along the sides with—decorated with inlaid gold. There's gold chalices and gem-encrusted candelabra that decorate—that sit on the altar untouched, and carving along the sides. There's 2 choir stalls made of marble and wood with fine silver work, and the whole thing has this feeling of preservation, like there's none of the—none of the, you know, darkness of the jungle itself. None of the sort of creeping horror of the plague echoes seem to penetrate here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0589",
+              "endUid": "u0619",
+              "quote": "DM: You step, push the doors open, and you step into the temple itself. There's a—oops.\nKenzo: Pretty.\nSeeker: It's in good shape, too.\nDelwath: Actually in this good shape?\nDM: Yeah. It's in great shape.\nRiswynn: And does it feel less oppressively— like all of a sudden, we don't feel the—what you were just describing?\nDM: Let me describe it. I'll get to that. So the— the doors open into this sort of grand hall, this entryway that passes into this massive open chamber, like probably 400 feet across. The huge dome stretching up above you, light and color filtering through the dome, many colors dancing along the marble floor that seemed to be lit brightly by the sun, maybe somehow amplifying or reflecting the sun, whether by magic or mirrors is not clear. And the floor itself, vast marble floor that stretches through this, this large chamber, this central chamber, seems to be giving off this emanation or aura of warmth and and peacefulness as you sort of stride towards the chamber. The—the temple itself, so the shape is this.\nDM: It's like a dome in the middle, but then it's almost like it's not a quite a circular. It's like a 10 sided polygon around the edge, and 8 of those 10 sides have these have these arches that lead—open arches that lead to these elaborate— you might call them side chapels, but they're much bigger than what a side chapel really would be. They're really almost temples in their own right, each dedicated to one of the 8 Divines.\nDM: The inner chamber itself, this huge chamber, is relatively empty, but there's a large altar placed sort of not directly in the middle, a bit towards the back, the far side from where you are, made of a solid piece of this incredible marble that's curving along the sides with—decorated with inlaid gold. There's gold chalices and gem-encrusted candelabra that decorate—that sit on the altar untouched, and carving along the sides. There's 2 choir stalls made of marble and wood with fine silver work, and the whole thing has this feeling of preservation, like there's none of the—none of the, you know, darkness of the jungle itself. None of the sort of creeping horror of the plague echoes seem to penetrate here."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Central crypt chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1007",
+          "endUid": "u1033",
+          "quote": "DM: As you step through the floor, you come to stairs that lead down into a short passageway that becomes wider and wider as it goes, and opens into this this large central chamber that Delwath saw by glancing through the floor.\nDM: In the central chamber, you can see this is— you know, this is a—this is a crypt, but it's also, you know, it's a— it's decorated with like statues. It's a memorial, right? It's like there's, you know, it's what you might find in a cathedral crypt or something like that. There's monuments, and there's statues to the dead of Drankor, all in very good shape, many of which have like gold or silver or bronze or other kind of metal sort of death masks over the the statue, or sometimes just death masks mounted on the wall, perhaps in front of a of a— what do you call the like little holes in a crypt where you put people's ashes? There must be a—I think there's a word for that.\nDelwath: Oh, yeah.\nSeeker: They're niches. Yeah.\nDM: Yeah, in those niches, like. And this—so this bit, this area is fairly open, and there's a lot of sort of statuary. But then you can see now that you're underneath here that the passageways that lead— these sort of the big open arch passageways that lead—there's 9, 8 that lead to the to the secondary chambers underneath the temples of each of the 8 Divines, and the 9th that leads sort of back towards the entryway towards this grand vault. All of these passageways are lined with niches, and there's like, you know, it's lots of decoration along these walls, right? There's like death mask, but also, you know, there's carved marble roses, and there's, you know, painted decorations on the walls. There's, you know, some some like jewelry or, you know, silver or gold or sort of, but mostly what seems like mementos, right? Like, you know, memorials of the people who are who are interred there.\nDM: Some just plain carved names, right? Like niches with a name carved on it, mostly in in Drankorian, some in other languages. All human. There's no sign of any non-humans here. It would be— This is clearly, you know, connected to the human gods. And you're standing in the this central chamber. Where do you want to go?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1007",
+              "endUid": "u1033",
+              "quote": "DM: As you step through the floor, you come to stairs that lead down into a short passageway that becomes wider and wider as it goes, and opens into this this large central chamber that Delwath saw by glancing through the floor.\nDM: In the central chamber, you can see this is— you know, this is a—this is a crypt, but it's also, you know, it's a— it's decorated with like statues. It's a memorial, right? It's like there's, you know, it's what you might find in a cathedral crypt or something like that. There's monuments, and there's statues to the dead of Drankor, all in very good shape, many of which have like gold or silver or bronze or other kind of metal sort of death masks over the the statue, or sometimes just death masks mounted on the wall, perhaps in front of a of a— what do you call the like little holes in a crypt where you put people's ashes? There must be a—I think there's a word for that.\nDelwath: Oh, yeah.\nSeeker: They're niches. Yeah.\nDM: Yeah, in those niches, like. And this—so this bit, this area is fairly open, and there's a lot of sort of statuary. But then you can see now that you're underneath here that the passageways that lead— these sort of the big open arch passageways that lead—there's 9, 8 that lead to the to the secondary chambers underneath the temples of each of the 8 Divines, and the 9th that leads sort of back towards the entryway towards this grand vault. All of these passageways are lined with niches, and there's like, you know, it's lots of decoration along these walls, right? There's like death mask, but also, you know, there's carved marble roses, and there's, you know, painted decorations on the walls. There's, you know, some some like jewelry or, you know, silver or gold or sort of, but mostly what seems like mementos, right? Like, you know, memorials of the people who are who are interred there.\nDM: Some just plain carved names, right? Like niches with a name carved on it, mostly in in Drankorian, some in other languages. All human. There's no sign of any non-humans here. It would be— This is clearly, you know, connected to the human gods. And you're standing in the this central chamber. Where do you want to go?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Eight underchapels",
+      "kind": "chapel complex",
+      "evidence": [
+        {
+          "startUid": "u1081",
+          "endUid": "u1086",
+          "quote": "DM: There's, I mean, you're in this central area. And there's 9 passageways that lead—9 niche-lined tunnels that lead off from the central area, 8 that lead to the 8 like under chapels of each of the of the Divines, and one that seems to lead towards this like grand vault that Delwath saw near the door. And right now you're all just sort of standing in this central chamber, filled with statuary and memorials, trying to decide which of these 9 corridors to go down, or none, I guess."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1020",
+              "endUid": "u1028",
+              "quote": "DM: Yeah, in those niches, like. And this—so this bit, this area is fairly open, and there's a lot of sort of statuary. But then you can see now that you're underneath here that the passageways that lead— these sort of the big open arch passageways that lead—there's 9, 8 that lead to the to the secondary chambers underneath the temples of each of the 8 Divines, and the 9th that leads sort of back towards the entryway towards this grand vault. All of these passageways are lined with niches, and there's like, you know, it's lots of decoration along these walls, right? There's like death mask, but also, you know, there's carved marble roses, and there's, you know, painted decorations on the walls. There's, you know, some some like jewelry or, you know, silver or gold or sort of, but mostly what seems like mementos, right? Like, you know, memorials of the people who are who are interred there."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Grand vault",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1220",
+          "endUid": "u1228",
+          "quote": "DM: Okay. So you keep walking into the grand vault. You see again, now, as you enter the grand vault, the chest floating next to Rai, the spirit Rai, and again the chest vanishes. Rai is not—\nDelwath: Yes.\nDM: Vanishes into thin air, and Rai seems to be working more magic, and then, although on what is not clear because you can't see the chest, and then floats up through the ceiling into the temple above.\nKenzo: Rai floats up through the—\nDM: Rai goes up, no chest following him."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1081",
+              "endUid": "u1086",
+              "quote": "DM: There's, I mean, you're in this central area. And there's 9 passageways that lead—9 niche-lined tunnels that lead off from the central area, 8 that lead to the 8 like under chapels of each of the of the Divines, and one that seems to lead towards this like grand vault that Delwath saw near the door. And right now you're all just sort of standing in this central chamber, filled with statuary and memorials, trying to decide which of these 9 corridors to go down, or none, I guess."
+            }
+          ]
+        }
+      ],
+      "aliases": [
+        "Grand Crypt"
+      ],
+      "note": "At u1341 the party is at its entryway; u1354–u1363 and the chest search establish subsequent movement into the room."
+    },
+    "p09": {
+      "label": "Underchapel of the Father",
+      "kind": "chapel",
+      "evidence": [
+        {
+          "startUid": "u1875",
+          "endUid": "u1887",
+          "quote": "DM: Yeah, yeah, okay, so that takes it. Well, well, Wellby is still like digging through the right records and stuff. Every time you find a name, you're like, 'Oh, this matches,' like, 'Go look,' right, right, right, you know. Somebody goes and looks around in the in the under chapel of the of the father, and you do find memorials. There's—there's actually, now that you know what you're looking for, there's like a corner of the corner of this of this under chapel, actually a reasonably big section of wall that's sort of decorated all in a sort of similar style, where there's a whole bunch of of of these sort of death masks that are like shaped like the the faces of the people who died, but where the eye—normally the eyes would be painted sort of like lifelike, right? But the eyes are painted closed.\nDM: And it's done in this very particular style where they're—they're almost—they're almost painted with this sort of sort of mourning look. Normally, normally, actually, these, like looking around at the style, like most of these tokens and memorials and things seem like they're sort of cheerful, right? They're like happy memories. They're—they're kind of like the best of what people remembered of of these people they're memorializing. But there's these 3—well, there's this whole section where everything's sort of painted in a different style, and you find the 3, Antonius, Floria, Marius, 2 men and a woman. All were with their death masks painted in this sort of detail, with the eyes painted closed, mourning, like tears, a few tears down their face, like clearly a different style. The death masks alone would probably be sufficient to serve as a token of these 3 souls, to separate them."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1172",
+              "endUid": "u1180",
+              "quote": "DM: So you've explored the—the one side, or of the of the gods, the Wanderer, the Sibyl, the Warlord, and the Night Queen. There's still the the like grand vault, and then the Mother, Father, Wildling and Worldling.\nRiswynn: So we thoroughly explore those and see if there's an obvious stone chest that—\nDelwath: Yeah, I—\nDM: Okay.\nDelwath: Yeah, I mean.\nDM: So the 4—the 4 other deities are very similar, and again, like magic altars. The—the vibe is quite similar."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Hall of records / archive",
+      "kind": "archive",
+      "evidence": [
+        {
+          "startUid": "u1761",
+          "endUid": "u1769",
+          "quote": "DM: You you spend, I don't know, 45 min poking around, 30 min. And you do find that like the—there's a— what's basically a hall of records. It's got—it's actually got a—it's a large archive. It's got, you know, a bunch of of information. It's got records of of who's buried, but it also has just like a whole host of like temple records, you know, things like marriages, and there's no tradition of like baptism or anything, so there's not birth records, but there are death records. There's marriages, there's like, you know, some other, just other details about, you know the people who not everybody in Drankor—I mean, Drankor was a huge city, right? Like not everybody in Drankor would have been associated with this particular temple, despite it being the largest and most famous, right? But you do definitely, you know, you are able to find for sure, collate 4 of the people that you have names for. So 3—and I really should have made up some names, but I didn't, so feel free to invent your own names in your heads."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1819",
+              "endUid": "u1823",
+              "quote": "DM: Look into the temple records, like the temple outbuildings.\nDelwath: Right.\nRiswynn: Well, as soon as some of us went with him, because it was a multiple investigative thing, and then as soon as we found some information that some of them were buried here or memorialized here, did it give information about like whether there's retrievable trinkets-type memorials?"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Temple administrative complex",
+      "kind": "administrative complex",
+      "evidence": [
+        {
+          "startUid": "u1708",
+          "endUid": "u1710",
+          "quote": "DM: So there's—there's no people here. There's—there's not—so there's not like a reception in the crypt itself. But, you know, just from looking above when you were in the ship above, like there's a whole administrative complex sort of on the back of the temple, and there's almost for sure like a lot. And it—your sense from being in the plaza was that this aura of Hallow extends—it's not just bounded right on the temple itself, extends a little way out from the temple, and so there's a good chance that some temple records survived. But you have to go out of the temple to look for them."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1708",
+              "endUid": "u1710",
+              "quote": "DM: So there's—there's no people here. There's—there's not—so there's not like a reception in the crypt itself. But, you know, just from looking above when you were in the ship above, like there's a whole administrative complex sort of on the back of the temple, and there's almost for sure like a lot. And it—your sense from being in the plaza was that this aura of Hallow extends—it's not just bounded right on the temple itself, extends a little way out from the temple, and so there's a good chance that some temple records survived. But you have to go out of the temple to look for them."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1732",
+              "endUid": "u1769",
+              "quote": "DM: Okay. The 1st thing you notice when you step out is Vindristjarna is nowhere to be seen, like not even on the horizon.\nDelwath: Right. They said they had to run away.\nRiswynn: From spectres. It sounds very Fausto-y. Softening them up sort of thing.\nKenzo: We got a message from Vindristjarna?\nRiswynn: Well, I took it upon myself to send a Sending to Faldrak because I was interested in making sure they hadn't been attacked. They had.\nWellby: Yes. Can we still talk to Faldrak? Like do you have some kind of like a a safe word system that we've set up, like—\nDelwath: Didn't we have one after the Seeker-tried-to-kill-him incident?\nDM: You have a bunch of passwords to like verify that you're who you say you are.\nWellby: Let's let's just bounce that off him real quick, too, just in case.\nDM: You gotta spend another Sending spell, though. It's like a 3rd level slot each time you want to exchange a message with him, because telepathy has long since ended.\nDelwath: Right.\nRiswynn: Well, I mean, can we just sort of assume that I sent the Sending—I mean the Sending—\nDM: Okay. So when you 1st contacted him, you would be like, you know, all the appropriate—\nWellby: Password, verify me, or something.\nRiswynn: There you go. Yeah. But yeah.\nDM: He verified he would. He sent back appropriate responses, but—\nWellby: Far away. So, yeah, so we search, right?\nDM: You spend an hour search, maybe— actually, go ahead and roll investigation, just to get a sense of how long you spend searching.\nWellby: Should we roll with advantage, since there's a couple of us?\nDM: Yes, advantage. You should roll with advantage.\nWellby: 23.\nDM: You you spend, I don't know, 45 min poking around, 30 min. And you do find that like the—there's a— what's basically a hall of records. It's got—it's actually got a—it's a large archive. It's got, you know, a bunch of of information. It's got records of of who's buried, but it also has just like a whole host of like temple records, you know, things like marriages, and there's no tradition of like baptism or anything, so there's not birth records, but there are death records. There's marriages, there's like, you know, some other, just other details about, you know the people who not everybody in Drankor—I mean, Drankor was a huge city, right? Like not everybody in Drankor would have been associated with this particular temple, despite it being the largest and most famous, right? But you do definitely, you know, you are able to find for sure, collate 4 of the people that you have names for. So 3—and I really should have made up some names, but I didn't, so feel free to invent your own names in your heads."
+            }
+          ]
+        }
+      ],
+      "note": "Described on the back of the temple and in its outbuildings; not placed inside the main temple building."
+    },
+    "p12": {
+      "label": "Temple crypt complex",
+      "kind": "crypt complex",
+      "evidence": [
+        {
+          "startUid": "u0855",
+          "endUid": "u0869",
+          "quote": "DM: So the crypt is this. The central room that you're looking at is not as big as the as the—as the floor of the temple. You seem to be looking down into this grand vault. The—this like central chamber, there's like a passageway that leads— so if the entry—that leads towards the entrance to the temple. That's like a passageway that you're looking at, and it seems to lead into another large room. That would be sort of directly under the the sort of entry hallway that you stepped into. But if you want to get all the way around, you don't have a lot of time to like carefully map it.\nDelwath: No, I don't want to carefully map it. I just want to get a sense.\nDM: There also is a passage way that seems to be leading— so from this central chamber, there's 8 sort of smaller crypts that lead out to presumably be underneath each one of these 8 chapels to each of the 8 Divines. And then it seems like the entryway must be in the direction of the sort of back of the temple. As you begin to walk in that direction, make a wisdom saving throw."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1007",
+              "endUid": "u1033",
+              "quote": "DM: As you step through the floor, you come to stairs that lead down into a short passageway that becomes wider and wider as it goes, and opens into this this large central chamber that Delwath saw by glancing through the floor.\nDM: In the central chamber, you can see this is— you know, this is a—this is a crypt, but it's also, you know, it's a— it's decorated with like statues. It's a memorial, right? It's like there's, you know, it's what you might find in a cathedral crypt or something like that. There's monuments, and there's statues to the dead of Drankor, all in very good shape, many of which have like gold or silver or bronze or other kind of metal sort of death masks over the the statue, or sometimes just death masks mounted on the wall, perhaps in front of a of a— what do you call the like little holes in a crypt where you put people's ashes? There must be a—I think there's a word for that.\nDelwath: Oh, yeah.\nSeeker: They're niches. Yeah.\nDM: Yeah, in those niches, like. And this—so this bit, this area is fairly open, and there's a lot of sort of statuary. But then you can see now that you're underneath here that the passageways that lead— these sort of the big open arch passageways that lead—there's 9, 8 that lead to the to the secondary chambers underneath the temples of each of the 8 Divines, and the 9th that leads sort of back towards the entryway towards this grand vault. All of these passageways are lined with niches, and there's like, you know, it's lots of decoration along these walls, right? There's like death mask, but also, you know, there's carved marble roses, and there's, you know, painted decorations on the walls. There's, you know, some some like jewelry or, you know, silver or gold or sort of, but mostly what seems like mementos, right? Like, you know, memorials of the people who are who are interred there.\nDM: Some just plain carved names, right? Like niches with a name carved on it, mostly in in Drankorian, some in other languages. All human. There's no sign of any non-humans here. It would be— This is clearly, you know, connected to the human gods. And you're standing in the this central chamber. Where do you want to go?"
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0839",
+              "endUid": "u0862",
+              "quote": "DM: But directly beneath this floor, very obviously.\nDelwath: Okay, any obvious ways to get—any places where it like—how far down is it?\nDM: About, I don't know, 15 feet.\nDelwath: Is there anywhere where the—I'll look around for the ceiling comes closer.\nDM: Is it all—\nDelwath: Or is it—is it like, when you say there's a crypt, is it like an open space, the same—\nDM: Big open room, but not—\nDelwath: Okay. So like, like a cathedral crypt, that's like, actually basically the same size as the floor.\nDM: Exactly. Yeah, there is. So this is—sorry, this is why I was asking about what you want, because if you spend—if you crisscross, you can sort of map it, but you're not gonna—\nDelwath: If so, start near them, starting at the altar. Okay, looking through the altar and then looking immediately around to the floor. Yeah, so—\nDM: Below the altar is like the center of this big room.\nDelwath: Seeing the crypt. I will then, as much as I can just go like crisscrossing diagonals or something to try and just—\nDM: Okay.\nDelwath: Get a sense of the space.\nDM: So the crypt is this. The central room that you're looking at is not as big as the as the—as the floor of the temple. You seem to be looking down into this grand vault. The—this like central chamber, there's like a passageway that leads— so if the entry—that leads towards the entrance to the temple. That's like a passageway that you're looking at, and it seems to lead into another large room. That would be sort of directly under the the sort of entry hallway that you stepped into. But if you want to get all the way around, you don't have a lot of time to like carefully map it."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Elven neighborhood north of the temple",
+      "kind": "neighborhood",
+      "evidence": [
+        {
+          "startUid": "u1791",
+          "endUid": "u1809",
+          "quote": "DM: Prior one. So your suspicion is that the the the martyrs of Apollyon would be memorialized somewhere in the chapel of the Father, that's all. So 3 of them you could probably find some information about there. The 4th was not—was not buried here. The 4th was not buried here because she was not a human. She was an elf. But she was also listed in this martyrs of Apollyon. And there's some information. There was a elven neighborhood, an elven sort of collection of of places where elves lived, just to the north of where the is, and and that is where she lived.\nDM: There's a—there's like a, you know, all of these martyrs, there's like a little short little paragraph about like each one, right? Like where they, you know, some memorial, some record of who they were, sort of in the same vibe as like the Hall of Stories, but more of a, you know, keeping the memory alive of the Apollyon-disappeared type thing. So there is very, very likely enough information to find her home, or at least some place associated with her in the neighborhood, just to the north of the Temple. Okay, you don't—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2124",
+              "endUid": "u2129",
+              "quote": "DM: This big domey thing. So you're—you're going—you're going like 800 feet, something like that.\nDelwath: Right, right, is the implication here, by the way, that all this jungle, that this all used to be city, and it's—\nDM: Yeah, yeah, this entire thing was city. It's just most of it's overgrown with—\nDelwath: Right, right, right, right, right.\nDM: But every now and then there's little towers that poke up out of the out of the jungle."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Valanthe’s courtyard",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u2158",
+          "endUid": "u2168",
+          "quote": "DM: I mean, as you cross this road into this sort of more open area, you see what you're looking at ahead of you are sort of— so there's—there's these big jungle trees growing, and they're sort of growing through what's—what's root, like the ruined courtyards of what—what used to be like a fairly big sort of apartment block or something, but it's— the art—I mean, it's all—nothing is above one story now. It's all collapsed. There's piles of rubble around what it seems to be, I mean, is this sort of very twisting sort of elegant curvy, almost wavy architecture.\nDM: And Kenzo, you—you sense, you can feel now, if you concentrate, the the strongest sort of echo, strongest impression of this of this elf, Valanthe, is in the courtyard of this building just ahead of you. So you step forward into the courtyard."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u2433",
+              "endUid": "u2439",
+              "quote": "DM: Wellby heads over towards one of the windows, like a window in the courtyard that—so there's like— it's like the interior courtyard around an apartment complex, and goes over to the to the window and kind of looks inside and sort of peers—here's—peers down.\nDM: And you can see—Wellby, you see like inside, this is—this was like a sun room or a sort of a sun porch. There's like a series of windows. There's a doorway that is filled in with rubble, but in the window you can see it's, you know, it's—it's mostly filled with rubble. There's—there's not much left, but there's something that's glinting in a corner."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Ruined elven apartment block",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u2158",
+          "endUid": "u2168",
+          "quote": "DM: I mean, as you cross this road into this sort of more open area, you see what you're looking at ahead of you are sort of— so there's—there's these big jungle trees growing, and they're sort of growing through what's—what's root, like the ruined courtyards of what—what used to be like a fairly big sort of apartment block or something, but it's— the art—I mean, it's all—nothing is above one story now. It's all collapsed. There's piles of rubble around what it seems to be, I mean, is this sort of very twisting sort of elegant curvy, almost wavy architecture.\nDM: And Kenzo, you—you sense, you can feel now, if you concentrate, the the strongest sort of echo, strongest impression of this of this elf, Valanthe, is in the courtyard of this building just ahead of you. So you step forward into the courtyard."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2118",
+              "endUid": "u2143",
+              "quote": "DM: Yeah, it's using this program Inkarnate that has a whole bunch of like stamps and things. Whereas the elven house is like in this little neighborhood, it's in this little—\nDelwath: Let's go to the Elven House and then regroup.\nRiswynn: All right. So Seeker stays with the temple, just to guard the temple, and the rest of us go to the elven house. 34.\nDelwath: Where is the elven house compared to the temple again? Okay, the temple is the big domey thing.\nDM: This big domey thing. So you're—you're going—you're going like 800 feet, something like that.\nDelwath: Right, right, is the implication here, by the way, that all this jungle, that this all used to be city, and it's—\nDM: Yeah, yeah, this entire thing was city. It's just most of it's overgrown with—\nDelwath: Right, right, right, right, right.\nDM: But every now and then there's little towers that poke up out of the out of the jungle.\nDelwath: Right? Right? Yeah. Let's go check out the Elf's house.\nDM: Okay. So you leave the temple. The 100 or 200 so feet of your journey, you know, are relatively, you know, relatively not terrified, as you—oops, that's a little terrifying. Oh, that's pretty good. As you begin to slowly sort of creep to the north through the forest, through the the ruins, sort of following this road, heading sort of vaguely northwest, you reach— you pass through the—the forest gets denser as you get away from the temple, and and you start to see like these ruins are not— here, let's— let's do something like this. Right, like there's—there's trees growing up through the buildings, and you know, you'll hear skittering sounds in the distance, and every now and then you think you hear like the whirl of, you know, the whoosh of some sound. There's an expedition to the elven house. Seeker is staying behind to sleep and guard the dagger. Well, I think everybody else goes, yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Rubble-filled sun room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2433",
+          "endUid": "u2439",
+          "quote": "DM: Wellby heads over towards one of the windows, like a window in the courtyard that—so there's like— it's like the interior courtyard around an apartment complex, and goes over to the to the window and kind of looks inside and sort of peers—here's—peers down.\nDM: And you can see—Wellby, you see like inside, this is—this was like a sun room or a sort of a sun porch. There's like a series of windows. There's a doorway that is filled in with rubble, but in the window you can see it's, you know, it's—it's mostly filled with rubble. There's—there's not much left, but there's something that's glinting in a corner."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u2433",
+              "endUid": "u2439",
+              "quote": "DM: Wellby heads over towards one of the windows, like a window in the courtyard that—so there's like— it's like the interior courtyard around an apartment complex, and goes over to the to the window and kind of looks inside and sort of peers—here's—peers down.\nDM: And you can see—Wellby, you see like inside, this is—this was like a sun room or a sort of a sun porch. There's like a series of windows. There's a doorway that is filled in with rubble, but in the window you can see it's, you know, it's—it's mostly filled with rubble. There's—there's not much left, but there's something that's glinting in a corner."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Circular Island",
+      "kind": "island",
+      "evidence": [
+        {
+          "startUid": "u1284",
+          "endUid": "u1297",
+          "quote": "DM: You take out the gem from the—put down the portable hole, I guess, climb down, dig around, find your bag of gemstones, lift it up, hold it open and see. I think it's I think it says like the vision is projected on the the back of the chest or something like that, so you can all see. It's like, you know, noon, and you're looking out what seems to be something of a feast. Dimitaur's got a whole like—is—the throne is set up like along the coast, like in one of these, in the ruined town, not where the the black dragon's lair was. Somehow they figured out how to move it with, you know, several 100 dragonets, and there's a long table that's set, and there's like fish and like all sorts of of stuff piled onto the table. And Dimitaur is in the middle of like raising a glass to a toast to the new and improved rulers of the circular island. 'Drink to yourselves, friends.' And then he's like, 'Oh, wait!' He turns and stares at the gem. 'Who's there?' Anybody?"
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    "p18": {
+      "label": "Coastal ruined town at Dimitaur’s feast",
+      "kind": "ruined town",
+      "evidence": [
+        {
+          "startUid": "u1284",
+          "endUid": "u1297",
+          "quote": "DM: You take out the gem from the—put down the portable hole, I guess, climb down, dig around, find your bag of gemstones, lift it up, hold it open and see. I think it's I think it says like the vision is projected on the the back of the chest or something like that, so you can all see. It's like, you know, noon, and you're looking out what seems to be something of a feast. Dimitaur's got a whole like—is—the throne is set up like along the coast, like in one of these, in the ruined town, not where the the black dragon's lair was. Somehow they figured out how to move it with, you know, several 100 dragonets, and there's a long table that's set, and there's like fish and like all sorts of of stuff piled onto the table. And Dimitaur is in the middle of like raising a glass to a toast to the new and improved rulers of the circular island. 'Drink to yourselves, friends.' And then he's like, 'Oh, wait!' He turns and stares at the gem. 'Who's there?' Anybody?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u1284",
+              "endUid": "u1297",
+              "quote": "DM: You take out the gem from the—put down the portable hole, I guess, climb down, dig around, find your bag of gemstones, lift it up, hold it open and see. I think it's I think it says like the vision is projected on the the back of the chest or something like that, so you can all see. It's like, you know, noon, and you're looking out what seems to be something of a feast. Dimitaur's got a whole like—is—the throne is set up like along the coast, like in one of these, in the ruined town, not where the the black dragon's lair was. Somehow they figured out how to move it with, you know, several 100 dragonets, and there's a long table that's set, and there's like fish and like all sorts of of stuff piled onto the table. And Dimitaur is in the middle of like raising a glass to a toast to the new and improved rulers of the circular island. 'Drink to yourselves, friends.' And then he's like, 'Oh, wait!' He turns and stares at the gem. 'Who's there?' Anybody?"
+            }
+          ]
+        }
+      ],
+      "note": "Viewed through the communication gem; the source distinguishes this coastal town from the black dragon’s former lair."
+    },
+    "p19": {
+      "label": "Laughing Wave",
+      "kind": "tavern",
+      "evidence": [
+        {
+          "startUid": "u1907",
+          "endUid": "u1916",
+          "quote": "DM: But you see the places, you see the things that are missed in that sort of Appleblossom lineage. The—she ran a tavern. She was known as a great cook. In fact, her tavern was popular primarily for its food. It was—you—you sort of catch these almost sense in your memory of fish stew with complex spices. Like a vague sense. This—this tavern, I mean it was in Drankor, for sure. The—what's a good halfling tavern name? The—the Dancing— I use Dolphin too much.\nDelwath: Laughing wave.\nDM: The Laughing Wave.\nDM: You can see. You can sort of see in your memories like glimpses of the people that came through, and then the sort of darkness as the tavern closed and was destroyed as Seraphina vanished. And and you—you could—I mean this, you see enough. You get enough sort of context that you could find the tavern. It's—it's near the docks."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/The Laughing Wave.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1915",
+              "endUid": "u1916",
+              "quote": "DM: You can see. You can sort of see in your memories like glimpses of the people that came through, and then the sort of darkness as the tavern closed and was destroyed as Seraphina vanished. And and you—you could—I mean this, you see enough. You get enough sort of context that you could find the tavern. It's—it's near the docks."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Side chapels above the crypt",
+      "kind": "chapel complex",
+      "evidence": [
+        {
+          "startUid": "u0607",
+          "endUid": "u0611",
+          "quote": "DM: It's like a dome in the middle, but then it's almost like it's not a quite a circular. It's like a 10 sided polygon around the edge, and 8 of those 10 sides have these have these arches that lead—open arches that lead to these elaborate— you might call them side chapels, but they're much bigger than what a side chapel really would be. They're really almost temples in their own right, each dedicated to one of the 8 Divines."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0607",
+              "endUid": "u0611",
+              "quote": "DM: It's like a dome in the middle, but then it's almost like it's not a quite a circular. It's like a 10 sided polygon around the edge, and 8 of those 10 sides have these have these arches that lead—open arches that lead to these elaborate— you might call them side chapels, but they're much bigger than what a side chapel really would be. They're really almost temples in their own right, each dedicated to one of the 8 Divines."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Passage to the grand vault",
+      "kind": "passage",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1217",
+          "quote": "DM: In—as you begin to enter the passageway that leads to the grand vault, you see another— the staff flashes again, and you see another echo of Rai, chest floating next to him, the same spiritual version of Rai. And he's he's kneeling on the floor. Clearly putting a spell on the floor. And the vision sort of cracks and shifts halfway through, and you see superimposed on this, you can see a— there's like, and an elven angel, basically, like a a— clearly an elf, but also clearly like divine, celestial somehow, mounted on a huge stag with like horns that are made of this glowing magical energy. And the the elf, who's mounted on this, has a—this spear made of wood, but also magic, and is charging on the stag at Delwath—oh— who then flashes up a shield of magic, but the spear penetrates straight through it, as the stag calls a magical shower of stars to rain down on, let's see, Seeker, who burns with radiant light as the stars sort of flash against Bizarro Seeker's skin, and then the vision fades.\nSeeker: Or what—what was that?\nKenzo: Yes.\nRiswynn: Vision of when our Bizarro selves tried to investigate in here.\nDelwath: Yeah.\nSeeker: But what—what were we fighting?\nRiswynn: The protective spirit.\nDelwath: Right? Yeah, I think so. Right. Whatever Rai summoned.\nSeeker: But just to—to my point again, what was that?\nDM: You haven't seen anything like those creatures before, but they seem to be beings of the realm of the Elven firstborn.\nSeeker: Oh, look! Look!\nWellby: The sort of thing that an elf would say they were descended from.\nDM: Well, not the gods themselves, but like angels or elven angels.\nSeeker: Oh! Oh!\nDM: So you—\nRiswynn: So that vision was set in this room?\nDM: It was in the passageway that leads to the grand vault."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1081",
+              "endUid": "u1086",
+              "quote": "DM: There's, I mean, you're in this central area. And there's 9 passageways that lead—9 niche-lined tunnels that lead off from the central area, 8 that lead to the 8 like under chapels of each of the of the Divines, and one that seems to lead towards this like grand vault that Delwath saw near the door. And right now you're all just sort of standing in this central chamber, filled with statuary and memorials, trying to decide which of these 9 corridors to go down, or none, I guess."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0011"
+      },
+      "type": "presence",
+      "actors": [
+        "party"
+      ],
+      "reading": "Open aboard the ship hovering over the temple in Drankor.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0011",
+          "quote": "DM: So we pick up on Vindristjarna moments after you have teleported back from a long, intense battle with your evil duplicates. The de- the jungle below you is seemingly quiet at the moment as the ship hovers above this absolutely massive temple of the 8 Divines, the center of the of the Mos Numena of worship in Drankor, with a dome that must stretch 3, 4, 500 feet across, just absolutely massive compared to anything you've seen before. On the periphery, 8 domed chapels, each large enough to be its own temple, presumably representing the 8 individual gods, and a large—or sorry, I should say, a small plaza compared to the great plaza only a half mile away, but still a large plaza in its own right at the front of the temple."
+        }
+      ],
+      "place": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "above",
+          "target": "p02"
+        }
+      ],
+      "id": "l01"
+    },
+    {
+      "source": {
+        "startUid": "u0142",
+        "endUid": "u0619"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend beside the temple, disembark through its fountain plaza, and enter the central chamber.",
+      "evidence": [
+        {
+          "startUid": "u0142",
+          "endUid": "u0163",
+          "quote": "DM: You descend.\nSeeker: Yeah.\nDM: So as you descend you can see a little bit more detail of the plaza and the sort of general layout. So there are, I mean, this was once the middle of a of a neighborhood, right? You can see a bunch of buildings which are— There's a few trees, but not dense jungle growing particularly close to the temple. Further away, like, I don't know if you're on Roll20. You can see the map, like, you know, when you get 5, 600 feet away from the temple, you know you're—you're getting into some dense jungle, but as you come down you—you can see this sort of massive arched entryway that has statues of the 8 divines arrayed on top of it. And these huge reinforced bronze doors that are decorated with a whole bunch of like intricate scenes. You're not close enough to see the details, and it fronts out onto this small open plaza, small like 100 by 200 feet. Something like that. There's a fountain in the plaza that's bubbling.\nSeeker: Here.\nDM: That's not—no, that's the great plaza. That's much bigger. That's like a thousand feet. It's just a little—it's not really clearly marked on the map. It's just this little open—\nSeeker: Over here.\nDM: Yeah, basically. Right there. And as you do— you, as you get towards the bottom, Seeker triggers his rune. And in addition to, 'Is there any adamantine?' you can also ask about something else."
+        },
+        {
+          "startUid": "u0569",
+          "endUid": "u0581",
+          "quote": "DM: We would step off the ship, and you find yourself in this plaza with the bubbling fountain. On the edges of the of the plaza, there's an occasional tree, and and you can, even despite the Heroes' Feast and the blessings of the Bahrazel protecting you, you can still feel like the oppressive closeness and and malice that oozes from the dark places a few 100 feet away, where the trees crowd in around the ruins. But the—this plaza in front of the temple itself is open, and and the temple almost seems to have this welcoming aura to it. The doors stand closed. But you can almost feel the warmth radiating out from them, these huge bronze doors that are decorated with all sorts of motifs and scenes, some that you recognize. You see the depiction of the circular island striding through the water, carrying refugees from Hkar. So you push the doors open and step into the temple."
+        },
+        {
+          "startUid": "u0589",
+          "endUid": "u0619",
+          "quote": "DM: You step, push the doors open, and you step into the temple itself. There's a—oops.\nKenzo: Pretty.\nSeeker: It's in good shape, too.\nDelwath: Actually in this good shape?\nDM: Yeah. It's in great shape.\nRiswynn: And does it feel less oppressively— like all of a sudden, we don't feel the—what you were just describing?\nDM: Let me describe it. I'll get to that. So the— the doors open into this sort of grand hall, this entryway that passes into this massive open chamber, like probably 400 feet across. The huge dome stretching up above you, light and color filtering through the dome, many colors dancing along the marble floor that seemed to be lit brightly by the sun, maybe somehow amplifying or reflecting the sun, whether by magic or mirrors is not clear. And the floor itself, vast marble floor that stretches through this, this large chamber, this central chamber, seems to be giving off this emanation or aura of warmth and and peacefulness as you sort of stride towards the chamber. The—the temple itself, so the shape is this.\nDM: It's like a dome in the middle, but then it's almost like it's not a quite a circular. It's like a 10 sided polygon around the edge, and 8 of those 10 sides have these have these arches that lead—open arches that lead to these elaborate— you might call them side chapels, but they're much bigger than what a side chapel really would be. They're really almost temples in their own right, each dedicated to one of the 8 Divines.\nDM: The inner chamber itself, this huge chamber, is relatively empty, but there's a large altar placed sort of not directly in the middle, a bit towards the back, the far side from where you are, made of a solid piece of this incredible marble that's curving along the sides with—decorated with inlaid gold. There's gold chalices and gem-encrusted candelabra that decorate—that sit on the altar untouched, and carving along the sides. There's 2 choir stalls made of marble and wood with fine silver work, and the whole thing has this feeling of preservation, like there's none of the—none of the, you know, darkness of the jungle itself. None of the sort of creeping horror of the plague echoes seem to penetrate here."
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "The ship descends next to the temple’s entrance plaza.",
+          "place": "p04"
+        },
+        {
+          "reading": "Cross the plaza and push open the bronze doors."
+        }
+      ],
+      "id": "l02"
+    },
+    {
+      "source": {
+        "startUid": "u0782",
+        "endUid": "u0799"
+      },
+      "type": "movement",
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Search the perimeter and upper side chapels, then circle back to the altar.",
+      "evidence": [
+        {
+          "startUid": "u0782",
+          "endUid": "u0791",
+          "quote": "DM: Wellby and Kenzo spend some time sort of crisscrossing the chamber, starting around the outside and and looking again in all of these— you know, these side chapels. It takes 10 or 15 min to do this. There's—there's a—I mean, there's a lot of silver here. Like there's a lot of silver work and fine marble, and you know these large sort of candle holders candlesticks, candelabra on each of the altars. There's a lot of statuary work, you know. If one wanted to loot the holy Temple of the 8 Divines, one could make off with quite a lot of treasure. But at least passing through all the side chambers, you don't—there's nothing. There's no signs of occupation. There is a faint layer of dust the further you get from the central chamber that gets sort of thicker as you get to the side chambers. It almost seems as if there's something in the altar itself that is some magic in the altar that's keeping the temple clean."
+        },
+        {
+          "startUid": "u0792",
+          "endUid": "u0799",
+          "quote": "As you sort of then cross again and circle back to the altar,"
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Search the side chapels.",
+          "place": "p20"
+        }
+      ],
+      "duration": {
+        "min": 10,
+        "minInclusive": true,
+        "max": 15,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated search time."
+      },
+      "id": "l03"
+    },
+    {
+      "source": {
+        "startUid": "u0792",
+        "endUid": "u0809"
+      },
+      "type": "observation",
+      "actors": [
+        "party"
+      ],
+      "reading": "A staff vision shows Rai and Dimitaur at the altar with the chest.",
+      "evidence": [
+        {
+          "startUid": "u0792",
+          "endUid": "u0809",
+          "quote": "DM: As you sort of then cross again and circle back to the altar, for a— for a second, as you walk past the altar, you see like this weird flash of a vision, seemingly coming from Kenzo's staff. You see Rai and Dimitaur flashing back, the statue of Rai standing in front of the altar, Dimitaur flying over him, Rai made entirely of jade, like a statue, but somehow speaking, his voice echoing and sounding somewhat gravelly to Dimitaur. And for a second, you can all hear this. He seems to be telling Dimitaur,\nDM: 'The preparations must be made in secret. I know not the power of Apollyon, when I'm not here, to read your mind and force answers from you. A temple should offer some protection. Dare not take the dagger outside these walls where Apollyon's minions loom, and here, at least, the power of the human gods is the strongest.'\nDM: Goes on for a bit, saying, you know, 'Stay safe. I shall be back in a week. If I don't return, things may get much more dangerous. You have to flee. Go find your people to the east, or flee to the Feywild.' And there's a small plain chest sitting right in front of the altar, lined with lead, in which Apollyon's dagger sits. The chest does not seem to be here anymore."
+        }
+      ],
+      "place": "p05",
+      "mode": "vision",
+      "observerPlace": "p05",
+      "observedActors": [
+        "Rai",
+        "Dimitaur"
+      ],
+      "context": "vision",
+      "id": "l04"
+    },
+    {
+      "source": {
+        "startUid": "u0839",
+        "endUid": "u0869"
+      },
+      "type": "observation",
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Look through the floor with Ghostly Gaze and see the crypt and its passages.",
+      "evidence": [
+        {
+          "startUid": "u0839",
+          "endUid": "u0846",
+          "quote": "DM: But directly beneath this floor, very obviously.\nDelwath: Okay, any obvious ways to get—any places where it like—how far down is it?\nDM: About, I don't know, 15 feet.\nDelwath: Is there anywhere where the—I'll look around for the ceiling comes closer.\nDM: Is it all—\nDelwath: Or is it—is it like, when you say there's a crypt, is it like an open space, the same—\nDM: Big open room, but not—\nDelwath: Okay. So like, like a cathedral crypt, that's like, actually basically the same size as the floor."
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0869",
+          "quote": "DM: So the crypt is this. The central room that you're looking at is not as big as the as the—as the floor of the temple. You seem to be looking down into this grand vault. The—this like central chamber, there's like a passageway that leads— so if the entry—that leads towards the entrance to the temple. That's like a passageway that you're looking at, and it seems to lead into another large room. That would be sort of directly under the the sort of entry hallway that you stepped into. But if you want to get all the way around, you don't have a lot of time to like carefully map it.\nDelwath: No, I don't want to carefully map it. I just want to get a sense.\nDM: There also is a passage way that seems to be leading— so from this central chamber, there's 8 sort of smaller crypts that lead out to presumably be underneath each one of these 8 chapels to each of the 8 Divines. And then it seems like the entryway must be in the direction of the sort of back of the temple. As you begin to walk in that direction, make a wisdom saving throw."
+        }
+      ],
+      "place": "p12",
+      "mode": "local",
+      "observerPlace": "p05",
+      "id": "l05"
+    },
+    {
+      "source": {
+        "startUid": "u0996",
+        "endUid": "u1005"
+      },
+      "type": "observation",
+      "actors": [
+        "party"
+      ],
+      "reading": "The staff shows Rai’s spirit carrying the chest through the concealed floor.",
+      "evidence": [
+        {
+          "startUid": "u0996",
+          "endUid": "u1005",
+          "quote": "DM: So as you all—as you follow Wellby, like— despite your protestations that the back, there's nothing there, I was like, yeah. And you all just follow him, and as you do, as Kenzo reaches the back of the temple, his staff flares again, and you see another faint vision for a moment, a sort of glowing, greenish spirit version of Rai, a cord, a green cord stretching back towards the statue in the middle of the floor, working magic into the stones, weaving threads of magical energy, chanting in Elvish words about hiding and concealment. A chest floating in the air behind him as he passes through the floor. And you say, 'No worries.'"
+        }
+      ],
+      "place": "p12",
+      "mode": "vision",
+      "observerPlace": "p05",
+      "observedActors": [
+        "Rai"
+      ],
+      "context": "vision",
+      "id": "l06"
+    },
+    {
+      "source": {
+        "startUid": "u1007",
+        "endUid": "u1033"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow Wellby through the illusory floor and descend the stairs into the central crypt.",
+      "evidence": [
+        {
+          "startUid": "u0991",
+          "endUid": "u0995",
+          "quote": "Delwath: No, no, no, sorry! Go down the steps. Save the Passwall.\nDM: Save Passwall, go through, go down the steps.\nSeeker: Yeah, yeah, yeah. Let's save the Passwall.\nDelwath: I meant go through the illusionary, not go through the tunneling floor."
+        },
+        {
+          "startUid": "u1007",
+          "endUid": "u1033",
+          "quote": "DM: As you step through the floor, you come to stairs that lead down into a short passageway that becomes wider and wider as it goes, and opens into this this large central chamber that Delwath saw by glancing through the floor.\nDM: In the central chamber, you can see this is— you know, this is a—this is a crypt, but it's also, you know, it's a— it's decorated with like statues. It's a memorial, right? It's like there's, you know, it's what you might find in a cathedral crypt or something like that. There's monuments, and there's statues to the dead of Drankor, all in very good shape, many of which have like gold or silver or bronze or other kind of metal sort of death masks over the the statue, or sometimes just death masks mounted on the wall, perhaps in front of a of a— what do you call the like little holes in a crypt where you put people's ashes? There must be a—I think there's a word for that.\nDelwath: Oh, yeah.\nSeeker: They're niches. Yeah.\nDM: Yeah, in those niches, like. And this—so this bit, this area is fairly open, and there's a lot of sort of statuary. But then you can see now that you're underneath here that the passageways that lead— these sort of the big open arch passageways that lead—there's 9, 8 that lead to the to the secondary chambers underneath the temples of each of the 8 Divines, and the 9th that leads sort of back towards the entryway towards this grand vault. All of these passageways are lined with niches, and there's like, you know, it's lots of decoration along these walls, right? There's like death mask, but also, you know, there's carved marble roses, and there's, you know, painted decorations on the walls. There's, you know, some some like jewelry or, you know, silver or gold or sort of, but mostly what seems like mementos, right? Like, you know, memorials of the people who are who are interred there.\nDM: Some just plain carved names, right? Like niches with a name carved on it, mostly in in Drankorian, some in other languages. All human. There's no sign of any non-humans here. It would be— This is clearly, you know, connected to the human gods. And you're standing in the this central chamber. Where do you want to go?"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "id": "l07"
+    },
+    {
+      "source": {
+        "startUid": "u1095",
+        "endUid": "u1180"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Explore the underchapels, beginning with the Sibyl and continuing through both sets of four.",
+      "evidence": [
+        {
+          "startUid": "u1095",
+          "endUid": "u1105",
+          "quote": "DM: You—you—so the—the passages that lead to these under chapels, there's not a lot of—so you follow this passage down, and it's just—it's like a wide corridor that's lined with these niches, and it's a pretty tall corridor. It's like probably 10 feet. The ceilings are like 10 or 12 feet high, so, you know, and there's, you know, decorations on the floors. There's probably more people interred underneath the floors. But there's no, no like statuary until you get to the like—the under chapel itself, which is, you know, a hundred feet diameter. It's like another big open area. It's probably about the same size as the floor as the floor area of the chapels above, and it has a very similar vibe to the central chamber, except that there's a small sort of alcove carved out that has a statue of the Sibyl in it, and has a small altar and you know a few benches, like places where people could sit in front of the of the altar itself, and like pray, or like commune with their loved ones who are interred here, or just like have some little private ceremony. No, no signs of stone chests lined with lead. Nothing else obvious. I don't know what's—if you're looking for anything specific."
+        },
+        {
+          "startUid": "u1121",
+          "endUid": "u1129",
+          "quote": "DM: The next, the the Traveler, the, you know, the Warlord. All of the of these under chapels have a very similar layout, and all of the altars are magical as you proceed through the the the 4 gods on the sort of the right side, the Sibyl, the Night Queen, the—\nSeeker: Oh, I have a single goggle-based Identify. I could use, probably, still today.\nDelwath: Now Identify.\nDM: The Sibyl, the Warlord, and the and the— this side, and they're all—all of the altars are magical, and the layout of all of these under chapels is very similar, with these corridors filled with burial niches with carvings and death masks and writing and things like that. And then the under chapel that's about a hundred foot diameter with this alcove niche with a magical altar. You want to use Identify?"
+        },
+        {
+          "startUid": "u1172",
+          "endUid": "u1180",
+          "quote": "DM: So you've explored the—the one side, or of the of the gods, the Wanderer, the Sibyl, the Warlord, and the Night Queen. There's still the the like grand vault, and then the Mother, Father, Wildling and Worldling.\nRiswynn: So we thoroughly explore those and see if there's an obvious stone chest that—\nDelwath: Yeah, I—\nDM: Okay.\nDelwath: Yeah, I mean.\nDM: So the 4—the 4 other deities are very similar, and again, like magic altars. The—the vibe is quite similar."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "id": "l08"
+    },
+    {
+      "source": {
+        "startUid": "u1181",
+        "endUid": "u1363"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Enter the vault passage and then the grand vault, where the party investigates the hidden chest.",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1197",
+          "quote": "In—as you begin to enter the passageway that leads to the grand vault,"
+        },
+        {
+          "startUid": "u1217",
+          "endUid": "u1228",
+          "quote": "DM: It was in the passageway that leads to the grand vault.\nKenzo: Hello!\nRiswynn: Let's go to the passageway that leads to the grand vault.\nDM: Okay. So you keep walking into the grand vault. You see again, now, as you enter the grand vault, the chest floating next to Rai, the spirit Rai, and again the chest vanishes. Rai is not—\nDelwath: Yes.\nDM: Vanishes into thin air, and Rai seems to be working more magic, and then, although on what is not clear because you can't see the chest, and then floats up through the ceiling into the temple above.\nKenzo: Rai floats up through the—\nDM: Rai goes up, no chest following him."
+        },
+        {
+          "startUid": "u1340",
+          "endUid": "u1363",
+          "quote": "Delwath: Are we by the altar?\nDM: No, you're in the grand—you're in the entryway to the Grand Crypt. There's no altar in this.\nDelwath: There's nothing in the Grand Crypt? Is there anything magic in the Grand Crypt?\nDM: Nope! Oh.\nDelwath: Is there like—what does it look like?\nDM: It's—it's similar to the to the sort of central room that you came through, except not—there's not a lot of statuary here. This seems—is grand crypt in size. It's a big domed chamber, with like layers upon layers of niches, but this seemed—seemed to be—it's not exactly the place where the people who were sort of less important were, but this is, you know, there's obviously a lot more interred by—\nKenzo: That's cool.\nDM: Them into this space, and less room for memorials and— but—but that also makes the room a little bit more open, because there's not a bunch of statues and things.\nDelwath: But nothing's magical?\nDM: Nothing's magical.\nDelwath: All right. I'm gonna just stand in the middle. Where do we see Rai with—with the vision from the staff? Where was Rai standing when he said Naun Tarvanos?\nDM: Sort of in the middle of the room.\nDelwath: I'm gonna go stand in the middle of the room and say Naun Tarvanos in Elvish.\nSeeker: There you go!\nDM: Nothing happens.\nKenzo: I push Delwath aside and stand in the middle of the room and say—\nSeeker: Slightly more loudly.\nKenzo: Laughing, holding the staff with Rai's fist in it in the air. And I say the magic words. What happens, Tim?\nDM: Nothing happens a little bit more loudly."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Proceed through the passage to the grand vault.",
+          "place": "p21"
+        }
+      ],
+      "id": "l09"
+    },
+    {
+      "source": {
+        "startUid": "u1181",
+        "endUid": "u1217"
+      },
+      "type": "observation",
+      "actors": [
+        "party"
+      ],
+      "reading": "The staff vision overlays Rai’s warding with the doubles fighting an elven angel and stag in this passage.",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1217",
+          "quote": "DM: In—as you begin to enter the passageway that leads to the grand vault, you see another— the staff flashes again, and you see another echo of Rai, chest floating next to him, the same spiritual version of Rai. And he's he's kneeling on the floor. Clearly putting a spell on the floor. And the vision sort of cracks and shifts halfway through, and you see superimposed on this, you can see a— there's like, and an elven angel, basically, like a a— clearly an elf, but also clearly like divine, celestial somehow, mounted on a huge stag with like horns that are made of this glowing magical energy. And the the elf, who's mounted on this, has a—this spear made of wood, but also magic, and is charging on the stag at Delwath—oh— who then flashes up a shield of magic, but the spear penetrates straight through it, as the stag calls a magical shower of stars to rain down on, let's see, Seeker, who burns with radiant light as the stars sort of flash against Bizarro Seeker's skin, and then the vision fades.\nSeeker: Or what—what was that?\nKenzo: Yes.\nRiswynn: Vision of when our Bizarro selves tried to investigate in here.\nDelwath: Yeah.\nSeeker: But what—what were we fighting?\nRiswynn: The protective spirit.\nDelwath: Right? Yeah, I think so. Right. Whatever Rai summoned.\nSeeker: But just to—to my point again, what was that?\nDM: You haven't seen anything like those creatures before, but they seem to be beings of the realm of the Elven firstborn.\nSeeker: Oh, look! Look!\nWellby: The sort of thing that an elf would say they were descended from.\nDM: Well, not the gods themselves, but like angels or elven angels.\nSeeker: Oh! Oh!\nDM: So you—\nRiswynn: So that vision was set in this room?\nDM: It was in the passageway that leads to the grand vault."
+        }
+      ],
+      "place": "p21",
+      "mode": "vision",
+      "observerPlace": "p21",
+      "observedActors": [
+        "Rai",
+        "Bizarro Delwath",
+        "Bizarro Seeker",
+        "elven angel",
+        "stag"
+      ],
+      "context": "vision",
+      "id": "l10"
+    },
+    {
+      "source": {
+        "startUid": "u1220",
+        "endUid": "u1236"
+      },
+      "type": "observation",
+      "actors": [
+        "party"
+      ],
+      "reading": "A vision shows the chest vanish beside Rai in the grand vault before he rises through the ceiling.",
+      "evidence": [
+        {
+          "startUid": "u1220",
+          "endUid": "u1236",
+          "quote": "DM: Okay. So you keep walking into the grand vault. You see again, now, as you enter the grand vault, the chest floating next to Rai, the spirit Rai, and again the chest vanishes. Rai is not—\nDelwath: Yes.\nDM: Vanishes into thin air, and Rai seems to be working more magic, and then, although on what is not clear because you can't see the chest, and then floats up through the ceiling into the temple above.\nKenzo: Rai floats up through the—\nDM: Rai goes up, no chest following him.\nRiswynn: Can we read Rai's lips when he's like, 'And now I move the chest to this specific location'?\nSeeker: At GPS coordinate.\nKenzo: You.\nDM: Cannot read his lips, but there is actually a faint echo of the words.\nKenzo: Thank you.\nDM: Naun Tarvanos.\nKenzo: Which we translate?\nDelwath: Do you need anything?\nDM: It's an Elvish place name. It means the Valley of the Hidden Forest."
+        }
+      ],
+      "place": "p08",
+      "mode": "vision",
+      "observerPlace": "p08",
+      "observedActors": [
+        "Rai"
+      ],
+      "context": "vision",
+      "id": "l11"
+    },
+    {
+      "source": {
+        "startUid": "u1284",
+        "endUid": "u1297"
+      },
+      "type": "observation",
+      "actors": [
+        "party"
+      ],
+      "reading": "See Dimitaur’s feast in a coastal town on the Circular Island through the communication gem.",
+      "evidence": [
+        {
+          "startUid": "u1284",
+          "endUid": "u1297",
+          "quote": "DM: You take out the gem from the—put down the portable hole, I guess, climb down, dig around, find your bag of gemstones, lift it up, hold it open and see. I think it's I think it says like the vision is projected on the the back of the chest or something like that, so you can all see. It's like, you know, noon, and you're looking out what seems to be something of a feast. Dimitaur's got a whole like—is—the throne is set up like along the coast, like in one of these, in the ruined town, not where the the black dragon's lair was. Somehow they figured out how to move it with, you know, several 100 dragonets, and there's a long table that's set, and there's like fish and like all sorts of of stuff piled onto the table. And Dimitaur is in the middle of like raising a glass to a toast to the new and improved rulers of the circular island. 'Drink to yourselves, friends.' And then he's like, 'Oh, wait!' He turns and stares at the gem. 'Who's there?' Anybody?"
+        }
+      ],
+      "place": "p18",
+      "mode": "remote",
+      "observerPlace": "p08",
+      "observedActors": [
+        "Dimitaur"
+      ],
+      "id": "l12"
+    },
+    {
+      "source": {
+        "startUid": "u1732",
+        "endUid": "u1823"
+      },
+      "type": "movement",
+      "actors": [
+        "Wellby",
+        "companions not individually identified"
+      ],
+      "reading": "Search the outbuildings and locate the hall of records in the temple administrative complex.",
+      "evidence": [
+        {
+          "startUid": "u1732",
+          "endUid": "u1736",
+          "quote": "DM: Okay. The 1st thing you notice when you step out is Vindristjarna is nowhere to be seen, like not even on the horizon.\nDelwath: Right. They said they had to run away.\nRiswynn: From spectres. It sounds very Fausto-y. Softening them up sort of thing."
+        },
+        {
+          "startUid": "u1755",
+          "endUid": "u1769",
+          "quote": "Wellby: Far away. So, yeah, so we search, right?\nDM: You spend an hour search, maybe— actually, go ahead and roll investigation, just to get a sense of how long you spend searching.\nWellby: Should we roll with advantage, since there's a couple of us?\nDM: Yes, advantage. You should roll with advantage.\nWellby: 23.\nDM: You you spend, I don't know, 45 min poking around, 30 min. And you do find that like the—there's a— what's basically a hall of records. It's got—it's actually got a—it's a large archive. It's got, you know, a bunch of of information. It's got records of of who's buried, but it also has just like a whole host of like temple records, you know, things like marriages, and there's no tradition of like baptism or anything, so there's not birth records, but there are death records. There's marriages, there's like, you know, some other, just other details about, you know the people who not everybody in Drankor—I mean, Drankor was a huge city, right? Like not everybody in Drankor would have been associated with this particular temple, despite it being the largest and most famous, right? But you do definitely, you know, you are able to find for sure, collate 4 of the people that you have names for. So 3—and I really should have made up some names, but I didn't, so feel free to invent your own names in your heads."
+        },
+        {
+          "startUid": "u1816",
+          "endUid": "u1823",
+          "quote": "Delwath: I don't know. That's a good question. Where—Wellby's going to search?\nDM: Look into the temple records, like the temple outbuildings.\nDelwath: Right.\nRiswynn: Well, as soon as some of us went with him, because it was a multiple investigative thing, and then as soon as we found some information that some of them were buried here or memorialized here, did it give information about like whether there's retrievable trinkets-type memorials?"
+        }
+      ],
+      "from": "p02",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Search the temple outbuildings.",
+          "place": "p11"
+        }
+      ],
+      "note": "The source establishes Wellby and several companions, but does not identify the complete search party or the dagger’s initial guard.",
+      "id": "l13"
+    },
+    {
+      "source": {
+        "startUid": "u1828",
+        "endUid": "u1887"
+      },
+      "type": "movement",
+      "actors": [
+        "Riswynn",
+        "companions not individually identified"
+      ],
+      "reading": "Follow the records back to the Father’s underchapel and find the three human memorials.",
+      "evidence": [
+        {
+          "startUid": "u1828",
+          "endUid": "u1828",
+          "quote": "Riswynn: All right. So some of us are already looking in the under chapel of the Father. Then to follow up on that."
+        },
+        {
+          "startUid": "u1837",
+          "endUid": "u1839",
+          "quote": "Riswynn: So like I said, some of us are already gone to the— so we're looking for tokens there, if anything was buried, but then we'll plan an expedition before our Heroes' Feast runs out to go to the north to look for the elf house. But that's only 4."
+        },
+        {
+          "startUid": "u1875",
+          "endUid": "u1887",
+          "quote": "DM: Yeah, yeah, okay, so that takes it. Well, well, Wellby is still like digging through the right records and stuff. Every time you find a name, you're like, 'Oh, this matches,' like, 'Go look,' right, right, right, you know. Somebody goes and looks around in the in the under chapel of the of the father, and you do find memorials. There's—there's actually, now that you know what you're looking for, there's like a corner of the corner of this of this under chapel, actually a reasonably big section of wall that's sort of decorated all in a sort of similar style, where there's a whole bunch of of of these sort of death masks that are like shaped like the the faces of the people who died, but where the eye—normally the eyes would be painted sort of like lifelike, right? But the eyes are painted closed.\nDM: And it's done in this very particular style where they're—they're almost—they're almost painted with this sort of sort of mourning look. Normally, normally, actually, these, like looking around at the style, like most of these tokens and memorials and things seem like they're sort of cheerful, right? They're like happy memories. They're—they're kind of like the best of what people remembered of of these people they're memorializing. But there's these 3—well, there's this whole section where everything's sort of painted in a different style, and you find the 3, Antonius, Floria, Marius, 2 men and a woman. All were with their death masks painted in this sort of detail, with the eyes painted closed, mourning, like tears, a few tears down their face, like clearly a different style. The death masks alone would probably be sufficient to serve as a token of these 3 souls, to separate them."
+        }
+      ],
+      "from": null,
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Riswynn places herself in the follow-up search; the other participants are not individually named.",
+      "id": "l14"
+    },
+    {
+      "source": {
+        "startUid": "u1898",
+        "endUid": "u1916"
+      },
+      "type": "observation",
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Ancestral memory reconstructs Seraphina’s tavern near Drankor’s docks.",
+      "evidence": [
+        {
+          "startUid": "u1898",
+          "endUid": "u1916",
+          "quote": "Wellby: So I do that, traveling back through the collective memory of the halflings to the life of this one person.\nDM: Yep.\nDM: So the—the halfling name is Seraphina Appleblossom, and you— Wellby sort of pauses for a moment and and, you know, goes into a bit of a trance, and you reach back, and you're in the memory of the sort of halfling memory, stretching your mind back into the past, catching the sort of echoes of the Appleblossom family descending down and down through time and tracing them back, and you catch glimpses and images in the sort of— in this sort of the sort of ancestral memory of the halflings that are—that you really find yourself sort of reconstructing something about Seraphina from what's missing, because of course her memories, her soul has never been able to join the ancestral consciousness, being trapped as part of Apollyon's.\nWellby: Sure.\nDM: But you see the places, you see the things that are missed in that sort of Appleblossom lineage. The—she ran a tavern. She was known as a great cook. In fact, her tavern was popular primarily for its food. It was—you—you sort of catch these almost sense in your memory of fish stew with complex spices. Like a vague sense. This—this tavern, I mean it was in Drankor, for sure. The—what's a good halfling tavern name? The—the Dancing— I use Dolphin too much.\nDelwath: Laughing wave.\nDM: The Laughing Wave.\nDM: You can see. You can sort of see in your memories like glimpses of the people that came through, and then the sort of darkness as the tavern closed and was destroyed as Seraphina vanished. And and you—you could—I mean this, you see enough. You get enough sort of context that you could find the tavern. It's—it's near the docks."
+        }
+      ],
+      "place": "p19",
+      "mode": "vision",
+      "observedActors": [
+        "Seraphina Appleblossom"
+      ],
+      "context": "vision",
+      "id": "l15"
+    },
+    {
+      "source": {
+        "startUid": "u2120",
+        "endUid": "u2143"
+      },
+      "type": "presence",
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Remain in the temple to guard the dagger while the other four depart.",
+      "evidence": [
+        {
+          "startUid": "u2120",
+          "endUid": "u2121",
+          "quote": "Riswynn: All right. So Seeker stays with the temple, just to guard the temple, and the rest of us go to the elven house. 34."
+        },
+        {
+          "startUid": "u2131",
+          "endUid": "u2143",
+          "quote": "DM: Okay. So you leave the temple. The 100 or 200 so feet of your journey, you know, are relatively, you know, relatively not terrified, as you—oops, that's a little terrifying. Oh, that's pretty good. As you begin to slowly sort of creep to the north through the forest, through the the ruins, sort of following this road, heading sort of vaguely northwest, you reach— you pass through the—the forest gets denser as you get away from the temple, and and you start to see like these ruins are not— here, let's— let's do something like this. Right, like there's—there's trees growing up through the buildings, and you know, you'll hear skittering sounds in the distance, and every now and then you think you hear like the whirl of, you know, the whoosh of some sound. There's an expedition to the elven house. Seeker is staying behind to sleep and guard the dagger. Well, I think everybody else goes, yeah."
+        }
+      ],
+      "place": "p02",
+      "note": "The exact room where Seeker waits is not specified.",
+      "id": "l16"
+    },
+    {
+      "source": {
+        "startUid": "u2131",
+        "endUid": "u2185"
+      },
+      "type": "movement",
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Riswynn",
+        "Wellby"
+      ],
+      "reading": "Walk northwest through the ruined city into Valanthe’s apartment courtyard.",
+      "evidence": [
+        {
+          "startUid": "u2131",
+          "endUid": "u2143",
+          "quote": "DM: Okay. So you leave the temple. The 100 or 200 so feet of your journey, you know, are relatively, you know, relatively not terrified, as you—oops, that's a little terrifying. Oh, that's pretty good. As you begin to slowly sort of creep to the north through the forest, through the the ruins, sort of following this road, heading sort of vaguely northwest, you reach— you pass through the—the forest gets denser as you get away from the temple, and and you start to see like these ruins are not— here, let's— let's do something like this. Right, like there's—there's trees growing up through the buildings, and you know, you'll hear skittering sounds in the distance, and every now and then you think you hear like the whirl of, you know, the whoosh of some sound. There's an expedition to the elven house. Seeker is staying behind to sleep and guard the dagger. Well, I think everybody else goes, yeah."
+        },
+        {
+          "startUid": "u2146",
+          "endUid": "u2168",
+          "quote": "DM: You travel— again, it's only—it's only like 500 feet or so, and you're sort of, you know, creeping along a little bit, to the off, to the left, to the east, not directly in your path, but something you might need to watch for if you want to head to the docks, you—Kenzo feels this like wail of terror, this sort of wave of this plague energy, these sort of cursed spots. But ahead seems clear.\nDM: You—you pass—you pass a wide road that's in places still paved with marble. It seems unnaturally dark underneath the trees, like there's— the shadows stretch longer than they should, even at at 4 o'clock this far south. I mean, the sun is pretty low. Twilight doesn't last very long. But there's a sort of darkness that seems to be pressing even more than just the the night, the approaching night itself.\nDM: I mean, as you cross this road into this sort of more open area, you see what you're looking at ahead of you are sort of— so there's—there's these big jungle trees growing, and they're sort of growing through what's—what's root, like the ruined courtyards of what—what used to be like a fairly big sort of apartment block or something, but it's— the art—I mean, it's all—nothing is above one story now. It's all collapsed. There's piles of rubble around what it seems to be, I mean, is this sort of very twisting sort of elegant curvy, almost wavy architecture.\nDM: And Kenzo, you—you sense, you can feel now, if you concentrate, the the strongest sort of echo, strongest impression of this of this elf, Valanthe, is in the courtyard of this building just ahead of you. So you step forward into the courtyard."
+        },
+        {
+          "startUid": "u2179",
+          "endUid": "u2185",
+          "quote": "DM: So as you go forward, stepping through the archway, the clustered, clustered shapes around this central tree, shadows begin to detach and sort of swarm in your direction. There are maybe 30 or 40 of them swarming towards you. Go ahead and and roll initiative. I don't think I'm going to bother with it— battle map for this."
+        }
+      ],
+      "from": "p02",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass a broad road and enter the ruined elven apartment block.",
+          "place": "p15"
+        }
+      ],
+      "id": "l17"
+    },
+    {
+      "source": {
+        "startUid": "u2433",
+        "endUid": "u2444"
+      },
+      "type": "observation",
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby sees a glint through a courtyard window and retrieves a silver quill nib; Kenzo identifies its connection to Valanthe.",
+      "evidence": [
+        {
+          "startUid": "u2433",
+          "endUid": "u2444",
+          "quote": "DM: Wellby heads over towards one of the windows, like a window in the courtyard that—so there's like— it's like the interior courtyard around an apartment complex, and goes over to the to the window and kind of looks inside and sort of peers—here's—peers down.\nDM: And you can see—Wellby, you see like inside, this is—this was like a sun room or a sort of a sun porch. There's like a series of windows. There's a doorway that is filled in with rubble, but in the window you can see it's, you know, it's—it's mostly filled with rubble. There's—there's not much left, but there's something that's glinting in a corner.\nWellby: Oh, pull it out! What—what is it?\nDM: It is the nib, like a part of a quill, like the ink part of a silver quill. I mean, Kenzo, when you touch this, you can—you can sense immediately that Valanthe, this elven woman, was a writer, and this is what's left of her writing."
+        }
+      ],
+      "place": "p16",
+      "mode": "local",
+      "observerPlace": "p14",
+      "note": "The source does not establish that either character enters the rubble-filled sun room.",
+      "id": "l18"
+    },
+    {
+      "source": {
+        "startUid": "u2447",
+        "endUid": "u2461"
+      },
+      "type": "movement",
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Riswynn",
+        "Wellby"
+      ],
+      "reading": "Run back to the temple ahead of another pack of shades and reunite with Seeker.",
+      "evidence": [
+        {
+          "startUid": "u2447",
+          "endUid": "u2454",
+          "quote": "Riswynn: Double-time it back to the temple.\nDM: Thanks.\nDelwath: Oh, yeah.\nDM: There is another pack of shades that you see on the road, but if you run you can make it to the temple before they reach you.\nRiswynn: Yeah, I think that's reasonable.\nDM: Okay.\nKenzo: Is Seeker alive?\nDM: Seeker is alive. Nothing has come in the temple. Nothing can come in the temple because everything here is undead or aberrations or elementals that are blocked."
+        },
+        {
+          "startUid": "u2459",
+          "endUid": "u2461",
+          "quote": "Seeker: So you returned to the temple?\nSeeker: How fast it—\nDM: About 6, 6 pm."
+        }
+      ],
+      "from": "p14",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "run",
+      "id": "l19"
+    },
+    {
+      "source": {
+        "startUid": "u2504",
+        "endUid": "u2518"
+      },
+      "type": "movement",
+      "actors": [
+        "Faldrak and ship’s crew"
+      ],
+      "reading": "Faldrak reports that the ship is heading north after fleeing danger.",
+      "evidence": [
+        {
+          "startUid": "u2504",
+          "endUid": "u2507",
+          "quote": "DM: The message you get back is: 'It seemed too dangerous to stay. Not sure we were up for it. Heading north.'"
+        },
+        {
+          "startUid": "u2512",
+          "endUid": "u2518",
+          "quote": "Riswynn: There were no appropriate authentication?\nDM: No, no—appropriate authentications.\nWellby: That's like way more terse than he ever is.\nDelwath: I mean, you only get 25 words with Sending, but still you're right.\nKenzo: Wait, but they—he authenticated back that it's him?\nDelwath: Yeah.\nDM: It's him."
+        }
+      ],
+      "from": null,
+      "to": null,
+      "completion": "underway",
+      "mode": "fly",
+      "vehicle": "p03",
+      "route": [
+        {
+          "reading": "Reported heading north; no exact current position is provided."
+        }
+      ],
+      "context": "reported",
+      "id": "l20"
+    },
+    {
+      "source": {
+        "startUid": "u2543",
+        "endUid": "u2547"
+      },
+      "type": "presence",
+      "actors": [
+        "party"
+      ],
+      "reading": "Accept the temple as a safe place for the overnight rest.",
+      "evidence": [
+        {
+          "startUid": "u2543",
+          "endUid": "u2547",
+          "quote": "DM: Temple is definitely a safe place to rest, so I assume you probably want to rest, and we'll pick up next session in the morning.\nDelwath: Yeah.\nKenzo: Yeah.\nRiswynn: That's great. Thanks, Tim.\nDM: Yeah, so there's nobody—nobody will interrupt you in the night. You can long rest and reset all."
+        }
+      ],
+      "place": "p02",
+      "id": "l21"
+    }
+  ]
+}

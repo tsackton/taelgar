@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-time-markers.json",
+    "sha256": "d68ba3486caf5600a1e96ea0190fbe014df66498f1c89a19f05a4e0f8aad4e3b"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-transcript.md",
+    "sha256": "e6ba63fd5743e24bca72a00fa6b48c789049d20b5b0055cd9c00d422f8d24539"
+  },
+  "dateAssessment": "Working current-play date: May 22, 1749 (May 22 spoken at u0658–u0662; the year comes from YAML, with 1749 also mentioned at u1067–u1073). The transcript-only YAML assessment is compatible: active events run from about 10 a.m. to evening, while the safe long rest is granted without a narrated awakening; the DM explicitly defers morning to next session. The end may therefore mean the May 22 evening or include the granted rest through May 23. No extra date boundary is filled from metadata. Vision and return markers below follow the party’s viewing frame; the depicted historical dates remain unassigned. Dimitaur’s remotely stated noon is kept as its own local clock.",
+  "watches": [
+    {
+      "day": "May 22, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Opening about 10 a.m.; rest and discussion reach noon; temple searches and historical vision interruptions precede the long study.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10",
+        "t11",
+        "t12",
+        "t13",
+        "t15"
+      ],
+      "startDate": "1749-05-22",
+      "endDate": "1749-05-22",
+      "scope": "Party; historical scenes grouped by when they are viewed, without dating their contents"
+    },
+    {
+      "day": "Dimitaur’s remote clock (date unspoken)",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The communication gem shows Dimitaur’s feast at noon; its clock is not independently synchronized to Drankor.",
+      "markers": [
+        "t14"
+      ],
+      "clock": "local",
+      "scope": "Dimitaur on the Circular Island"
+    },
+    {
+      "day": "May 22, 1749",
+      "startWatch": "midday",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Study lasts 3–4 hours; discovery is late afternoon; the following decision is placed about 3:30 p.m.",
+      "markers": [
+        "t16",
+        "t17",
+        "t18",
+        "t19"
+      ],
+      "startDate": "1749-05-22",
+      "endDate": "1749-05-22"
+    },
+    {
+      "day": "May 22, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Records search takes 30–45 minutes; three hours remain before 7 p.m.; the courtyard approach is about 4 p.m.",
+      "markers": [
+        "t20",
+        "t21",
+        "t22",
+        "t23",
+        "t24"
+      ],
+      "startDate": "1749-05-22",
+      "endDate": "1749-05-22",
+      "scope": "Records and expedition groups; Wellby’s ancestral memory is a viewed historical frame"
+    },
+    {
+      "day": "May 22, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The four explorers return to the temple about 6 p.m., rejoining Seeker.",
+      "markers": [
+        "t25"
+      ],
+      "startDate": "1749-05-22",
+      "endDate": "1749-05-22"
+    },
+    {
+      "day": "May 22 evening; completion open",
+      "startWatch": "dusk",
+      "endWatch": null,
+      "basis": "open",
+      "summary": "A safe overnight rest is accepted after the return; benefits are granted, but morning is deferred to next session.",
+      "markers": [
+        "t26"
+      ],
+      "scope": "Party; eight-hour long-rest convention, with no narrated start clock or awakening"
+    }
+  ]
+}
