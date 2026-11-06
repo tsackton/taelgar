@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
+  "source": {
+    "path": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-time-markers.json",
+    "sha256": "af6a68c38ed41947892a97c2b087f773cc8f80060871f76ee4ebaff7f08f5748"
+  },
+  "transcript": {
+    "path": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-transcript.md",
+    "sha256": "bd0dc53073f9a7f4a30a467781b9179827c04c54ca64770aad983969d504acc2"
+  },
+  "dateAssessment": "Working calendar: YAML supplies DR 1747 and the October 23 opening day; the transcript independently says October, not a day-of-month. Breakfast is the next morning (t02), the upriver camp ends at the following dawn (t08), and another inland leg reaches the tomb after “a day and a half” of tracking (t10). This places the tomb on October 25 conditional on the YAML opening day. The noon estimate follows Trok’s “almost time for lunch” remark (t13), rather than an invented clock. Mawar Adventures Episode 03 and Hiyasa’s dated whereabouts instead put the tomb scenes on October 26; that discrepancy remains open. The few-day return (t15) fits the YAML October 28 endpoint as a working date without independently proving its exact length; yamlCheck remains compatible. Background events three months earlier and Hiyasa’s earlier absence do not extend the session interval. The minute-long enlargement and momentary hardening are nested within tomb play, not added to the journey.",
+  "watches": [
+    {
+      "day": "October 23, 1747",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "An October evening meal at Trok’s shack opens play.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1747-10-23",
+      "endDate": "1747-10-23"
+    },
+    {
+      "day": "October 24, 1747",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "After sleeping, breakfast at Ryu’s tower; the Leviathan inquiry is about 9 a.m.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1747-10-24",
+      "endDate": "1747-10-24"
+    },
+    {
+      "day": "October 24, 1747",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "About half a travel day upriver brings the party beyond the common fishing path.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1747-10-24",
+      "endDate": "1747-10-24"
+    },
+    {
+      "day": "October 24, 1747",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Late afternoon sunset ends the day’s tracking; the party makes camp as night falls.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1747-10-24",
+      "endDate": "1747-10-24"
+    },
+    {
+      "day": "October 25, 1747",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "Kaleho wakes Trok around midnight after an uneventful first watch.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1747-10-25",
+      "endDate": "1747-10-25"
+    },
+    {
+      "day": "October 25, 1747",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Trok hands watch to Nerissa at approximately 3 a.m.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1747-10-25",
+      "endDate": "1747-10-25"
+    },
+    {
+      "day": "October 25, 1747",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Wake just past dawn; another 1½–2 hours reaches the abandoned riverside camp.",
+      "markers": [
+        "t08",
+        "t09"
+      ],
+      "startDate": "1747-10-25",
+      "endDate": "1747-10-25"
+    },
+    {
+      "day": "October 25, 1747",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "A day and a half’s tracking reaches the tomb; Trok later says it is almost lunchtime.",
+      "markers": [
+        "t10",
+        "t11",
+        "t12",
+        "t13",
+        "t14"
+      ],
+      "startDate": "1747-10-25",
+      "endDate": "1747-10-25"
+    },
+    {
+      "day": "October 25–28, 1747",
+      "startWatch": "midday",
+      "endWatch": null,
+      "basis": "inferred",
+      "summary": "Leave after the tomb scenes; a few days’ travel returns everyone to the inn.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1747-10-25",
+      "endDate": "1747-10-28"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated episode record",
+      "path": "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 03.md",
+      "sha256": "415ef5fbdc7c5526a5574ff126325d6cb41c165ae71ce9dc72d56c99fcff08a6"
+    },
+    {
+      "label": "Hiyasa dated whereabouts",
+      "path": "People/Mawarans/Hiyasa.md",
+      "sha256": "c93b48780b780b201c5f8793f79d3a9330da4e82d58c231e34cf053ab0a0a6ab"
+    }
+  ]
+}

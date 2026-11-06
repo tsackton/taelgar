@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-003",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
+    "sessionYamlSha256": "5af9913c7253922a569245a9efe11e8c6fad24e8fce7febe51d456a36114d1e9",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-transcript.md",
+    "transcriptSha256": "bd0dc53073f9a7f4a30a467781b9179827c04c54ca64770aad983969d504acc2"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0074"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0075",
+        "endUid": "u0151"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0152",
+        "endUid": "u1273"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1274",
+        "endUid": "u1809"
+      },
+      "category": "combat",
+      "note": "Initiative begins as the statues animate; retain the mixed final turn that explicitly ends initiative."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1810",
+        "endUid": "u2560"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2561",
+        "endUid": "u3474"
+      },
+      "category": "combat",
+      "note": "Begins with the spear declaration leading into initiative; ordered rescue turns continue after the guardian dies until the mud hardens and the jar is returned."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u3475",
+        "endUid": "u3798"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u3799",
+        "endUid": "u3819"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

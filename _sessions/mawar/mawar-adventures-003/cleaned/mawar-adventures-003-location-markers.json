@@ -1,0 +1,1365 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-003",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
+    "sessionYamlSha256": "5af9913c7253922a569245a9efe11e8c6fad24e8fce7febe51d456a36114d1e9",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-transcript.md",
+    "transcriptSha256": "bd0dc53073f9a7f4a30a467781b9179827c04c54ca64770aad983969d504acc2"
+  },
+  "places": {
+    "p01": {
+      "label": "Hamri",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0046",
+          "quote": "You're reminded of the town of Hamri itself, nestled within this sheltered cove on the occasionally storm battered western coast of the Mawakel Peninsula. One of the— peninsula itself densely forested in the interior. Mostly inhabited just along the coasts, and Hamri is one of the more significant cities on the western coast, and so it's a place you stop frequently on your, on your journeys as a sailor searching for answers to various mysteries."
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Hamri.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0038",
+              "endUid": "u0046",
+              "quote": "You're reminded of the town of Hamri itself, nestled within this sheltered cove on the occasionally storm battered western coast of the Mawakel Peninsula. One of the— peninsula itself densely forested in the interior. Mostly inhabited just along the coasts, and Hamri is one of the more significant cities on the western coast, and so it's a place you stop frequently on your, on your journeys as a sailor searching for answers to various mysteries."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Mawakel Peninsula",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0046",
+          "quote": "You're reminded of the town of Hamri itself, nestled within this sheltered cove on the occasionally storm battered western coast of the Mawakel Peninsula. One of the— peninsula itself densely forested in the interior. Mostly inhabited just along the coasts, and Hamri is one of the more significant cities on the western coast, and so it's a place you stop frequently on your, on your journeys as a sailor searching for answers to various mysteries."
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Mawakel Peninsula.md"
+    },
+    "p03": {
+      "label": "Trok’s beach shack",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0024",
+          "quote": "So then we'll say Trok lives in a shack on the beach. Is that where you're headed towards, Tim? Whatever—"
+        },
+        {
+          "startUid": "u0068",
+          "endUid": "u0074",
+          "quote": "There used to be many more ocean watchers keeping an eye out for strange things from the sea, but now, of course, as the influence of the Mawar Confederacy has shrunk somewhat from their golden age 100 years ago now. And so many of these towers have been abandoned and the northern part, the northern coast of this, of this bay in which Hamri is nestled is mostly— Mostly now is the sort of place where everybody who wants to be outside the sort of watch of the town itself goes to live, and so that’s where you find Trok. So maybe, Eric, you could describe Trok, you know, where he, where he lives and maybe a little bit about what he's been doing, you know why he does what he's been doing the past few months, as Kaleho approaches and then you can describe yourself, Kaleho."
+        },
+        {
+          "startUid": "u0128",
+          "endUid": "u0130",
+          "quote": "Yeah and Trok has 17 separate times started, though not completed, a letter to his family, and so you might find him huddled over in his warm weather shack on the beach, once again scrawling on parchment."
+        }
+      ],
+      "kind": "dwelling",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0068",
+              "endUid": "u0074",
+              "quote": "There used to be many more ocean watchers keeping an eye out for strange things from the sea, but now, of course, as the influence of the Mawar Confederacy has shrunk somewhat from their golden age 100 years ago now. And so many of these towers have been abandoned and the northern part, the northern coast of this, of this bay in which Hamri is nestled is mostly— Mostly now is the sort of place where everybody who wants to be outside the sort of watch of the town itself goes to live, and so that’s where you find Trok. So maybe, Eric, you could describe Trok, you know, where he, where he lives and maybe a little bit about what he's been doing, you know why he does what he's been doing the past few months, as Kaleho approaches and then you can describe yourself, Kaleho."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Ryu’s tower",
+      "evidence": [
+        {
+          "startUid": "u0354",
+          "endUid": "u0355",
+          "quote": "The next morning you head up to, to Ryu's tower."
+        },
+        {
+          "startUid": "u0368",
+          "endUid": "u0374",
+          "quote": "And Kaleho heading up to your tower, Ryu, with a look of news or determination in their eyes first thing for breakfast."
+        }
+      ],
+      "kind": "tower",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0354",
+              "endUid": "u0355",
+              "quote": "The next morning you head up to, to Ryu's tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "The Leviathan",
+      "evidence": [
+        {
+          "startUid": "u0581",
+          "endUid": "u0583",
+          "quote": "Okay, so you go to Leviathan. It's not incredibly busy first thing in the morning. And I've been—"
+        }
+      ],
+      "kind": "inn",
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Leviathan Inn.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0047",
+              "endUid": "u0053",
+              "quote": "The town itself is, is sort of split into three levels. So there's the wooden and stone docks that extend out over the mud flats and the tidal marsh of the outflow of the Mirmir river. Some fairly nice inns, including Wazir's inn, the Leviathan, where you may have spent a night or two. But now you're heading out into the— outside of the warmth from the glow of that firelight, um."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Mirmir",
+      "evidence": [
+        {
+          "startUid": "u0718",
+          "endUid": "u0719",
+          "quote": "Okay, so you head to the Mirmir and start heading up. Yeah, yeah."
+        }
+      ],
+      "kind": "river",
+      "vaultPath": "Gazetteer/Northwest Coast/Rivers/Mirmir.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0038",
+              "endUid": "u0053",
+              "quote": "You're reminded of the town of Hamri itself, nestled within this sheltered cove on the occasionally storm battered western coast of the Mawakel Peninsula. One of the— peninsula itself densely forested in the interior. Mostly inhabited just along the coasts, and Hamri is one of the more significant cities on the western coast, and so it's a place you stop frequently on your, on your journeys as a sailor searching for answers to various mysteries."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Sheltered forest camp along the Mirmir",
+      "evidence": [
+        {
+          "startUid": "u0718",
+          "endUid": "u0728",
+          "quote": "Okay, so you head to the Mirmir and start heading up. Yeah, yeah."
+        },
+        {
+          "startUid": "u0748",
+          "endUid": "u0766",
+          "quote": "Thick forest, you know, within maybe 15, 15 miles or so walk, you know, basically, what you get from a sort of solid days tracking."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0718",
+              "endUid": "u0728",
+              "quote": "Okay, so you head to the Mirmir and start heading up. Yeah, yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Abandoned riverside campsite",
+      "evidence": [
+        {
+          "startUid": "u0796",
+          "endUid": "u0807",
+          "quote": "So after maybe another three, four miles up the river, not, not, you know, maybe an hour and a half, two hours or something as you, as the terrain is starting to get pretty difficult here tangled and, and dense. You— come to what is clearly a campsite. Also set in a fairly sheltered place, um."
+        },
+        {
+          "startUid": "u0827",
+          "endUid": "u0834",
+          "quote": "Yes, so heading away from the River from here is a— I'll say with, with Ryu’s tracking skill, and with Blu scouting there's a— there's a definitely a path and the forest is dense here, so somebody, you know, headed into the interior from here and had to cut their way through like tangled underbrush and, and, you know, blackberry vines and close, close trees and things like that. So definitely a trail heading that looks not too difficult to follow heading into the away from the River from here."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0827",
+              "endUid": "u0834",
+              "quote": "Yes, so heading away from the River from here is a— I'll say with, with Ryu’s tracking skill, and with Blu scouting there's a— there's a definitely a path and the forest is dense here, so somebody, you know, headed into the interior from here and had to cut their way through like tangled underbrush and, and, you know, blackberry vines and close, close trees and things like that. So definitely a trail heading that looks not too difficult to follow heading into the away from the River from here."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Tomb of Yerkir-khor",
+      "evidence": [
+        {
+          "startUid": "u0837",
+          "endUid": "u0853",
+          "quote": "Oh, it's all— as, as you follow the trail, maybe 8–10 miles, which takes you a, you know, the better part of the day, to cover even, even with the advantage of the fact that somebody else has been through this terrain before."
+        },
+        {
+          "startUid": "u0874",
+          "endUid": "u0877",
+          "quote": "In, in these, these big letters, it says, “Here lies Yerkir-khor the Undaunted, Prince of Earth, Lord of the Rock Below and Guardian of the Crystal Skies.”"
+        }
+      ],
+      "kind": "tomb",
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0892",
+              "endUid": "u0895",
+              "quote": "there are definitely ruins and the interior of this peninsula, but not this"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Roof platform and open trapdoor",
+      "evidence": [
+        {
+          "startUid": "u0933",
+          "endUid": "u0937",
+          "quote": "I was having him do a circle."
+        }
+      ],
+      "kind": "platform",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0933",
+              "endUid": "u0937",
+              "quote": "I was having him do a circle."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Entrance shaft",
+      "evidence": [
+        {
+          "startUid": "u1008",
+          "endUid": "u1013",
+          "quote": "You have 120 feet of dark vision. Amazing. So you can actually see down the shaft. There is actually a stone, like not exactly a ladder, but like stone, like notches carved into the side of the shaft descending down, so it's definitely climbable and it goes down, maybe 40 feet, which would take you just about to ground level."
+        }
+      ],
+      "kind": "shaft",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1008",
+              "endUid": "u1013",
+              "quote": "You have 120 feet of dark vision. Amazing. So you can actually see down the shaft. There is actually a stone, like not exactly a ladder, but like stone, like notches carved into the side of the shaft descending down, so it's definitely climbable and it goes down, maybe 40 feet, which would take you just about to ground level."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Upper crystal-mosaic hall",
+      "evidence": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1018",
+          "quote": "And then you can see some distance below like the shaft goes down for a ways and that opens up into a large room, which is maybe 60 feet away from you. It's hard to judge distances, completely dark."
+        },
+        {
+          "startUid": "u1103",
+          "endUid": "u1130",
+          "quote": "So— let's take this an order. So first of all Kaleho and Trok, you see now you're standing in a large Hall, maybe 50 feet, 50–60 feet, from lengthwise at the—"
+        },
+        {
+          "startUid": "u1239",
+          "endUid": "u1244",
+          "quote": "And then you can see that you can see the mosaic all around you, which is more than just these glittering caverns, right? you can see that there are— you know, this, this glittering cavern that looks like the center of a geode, but then it sort of transitions into these towering stone cliffs that are within inside even larger massive caverns that then flows into tunnels that crossover underground rivers. And then the rivers themselves into a waterfall and underground waterfall that cascades down into an open cavern filled with stalactites and stalagmites. Just seems to be this sort of, you know, smoothly flowing from scene to scene here, I'm— all depicted in this elaborate mosaic work."
+        }
+      ],
+      "kind": "hall",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1008",
+              "endUid": "u1018",
+              "quote": "You have 120 feet of dark vision. Amazing. So you can actually see down the shaft. There is actually a stone, like not exactly a ladder, but like stone, like notches carved into the side of the shaft descending down, so it's definitely climbable and it goes down, maybe 40 feet, which would take you just about to ground level."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Upper side room with spiral stairs",
+      "evidence": [
+        {
+          "startUid": "u1958",
+          "endUid": "u1966",
+          "quote": "The door swings open uneventfully into a passageway. Well, actually not really. It's, it's actually not really a passageway, it's a—"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1952",
+              "endUid": "u1966",
+              "quote": "You open the door with the with one of the keys?"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Lower stair room and approach corridor",
+      "evidence": [
+        {
+          "startUid": "u2056",
+          "endUid": "u2061",
+          "quote": "Okay, so as you sneak down you, you come down about 15 feet down these the staircase out Kaleho first, followed by Ryu and Nerissa and the tracks as well go this way I'm out into a very similar 10 foot room, but this time with a, with a corridor going, going in the opposite direction. So like, right, so that the bottom, it looks like this. Right, stairs in the same place, but the corridor goes off this way and it continues. The corridor, you can see, I see him— well, what are you doing about the lights? If you move the torches with you it's very difficult to be stealthy. If you don't, all of you are blind."
+        },
+        {
+          "startUid": "u2085",
+          "endUid": "u2087",
+          "quote": "Says the lizard. Okay, so you can, you can see down the corridor. This corridor continues, maybe 20 feet to a door, maybe 30 feet to a door. The floor here is like smooth. It's— everything is Gray, you don't see much I mean, you can't see colors and everything looks like dim light. But you don't see anything moving between here in the door."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2056",
+              "endUid": "u2061",
+              "quote": "Okay, so as you sneak down you, you come down about 15 feet down these the staircase out Kaleho first, followed by Ryu and Nerissa and the tracks as well go this way I'm out into a very similar 10 foot room, but this time with a, with a corridor going, going in the opposite direction. So like, right, so that the bottom, it looks like this. Right, stairs in the same place, but the corridor goes off this way and it continues. The corridor, you can see, I see him— well, what are you doing about the lights? If you move the torches with you it's very difficult to be stealthy. If you don't, all of you are blind."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Quicksand corridor crossing",
+      "evidence": [
+        {
+          "startUid": "u2127",
+          "endUid": "u2144",
+          "quote": "As you continue down this corridor towards the door, and the lights moving with you, right?"
+        },
+        {
+          "startUid": "u3691",
+          "endUid": "u3698",
+          "quote": "No, the goo still there, but—"
+        }
+      ],
+      "kind": "corridor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2056",
+              "endUid": "u2061",
+              "quote": "Okay, so as you sneak down you, you come down about 15 feet down these the staircase out Kaleho first, followed by Ryu and Nerissa and the tracks as well go this way I'm out into a very similar 10 foot room, but this time with a, with a corridor going, going in the opposite direction. So like, right, so that the bottom, it looks like this. Right, stairs in the same place, but the corridor goes off this way and it continues. The corridor, you can see, I see him— well, what are you doing about the lights? If you move the torches with you it's very difficult to be stealthy. If you don't, all of you are blind."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Lightning-crystal stair chamber",
+      "evidence": [
+        {
+          "startUid": "u2313",
+          "endUid": "u2340",
+          "quote": "Okay, so as you continue now, this room here opens into a, into a maybe a 20 by 40 foot chamber. You can see, your— I assume you're moving the lights, as you go forward?"
+        }
+      ],
+      "kind": "chamber",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2313",
+              "endUid": "u2340",
+              "quote": "Okay, so as you continue now, this room here opens into a, into a maybe a 20 by 40 foot chamber. You can see, your— I assume you're moving the lights, as you go forward?"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Blue-lit inner sanctum",
+      "evidence": [
+        {
+          "startUid": "u2411",
+          "endUid": "u2436",
+          "quote": "So, you all crawl down the stairs which continue down about—"
+        },
+        {
+          "startUid": "u2461",
+          "endUid": "u2473",
+          "quote": "Sort of every surface. And then behind the enormous statue that sort of standing on the front of this tomb like structure, there are six jars. Each maybe four feet tall, and each one with a stopper are made of a different gemstone, so there's one that's like quartz, one that's like a bluish green stone, one that's a purple stone, one that's a red stone, different gems."
+        }
+      ],
+      "kind": "chamber",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2411",
+              "endUid": "u2436",
+              "quote": "So, you all crawl down the stairs which continue down about—"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0128",
+        "endUid": "u0137"
+      },
+      "actors": [
+        "Trok"
+      ],
+      "reading": "Trok is in his beach shack as Kaleho arrives for the evening meal.",
+      "evidence": [
+        {
+          "startUid": "u0128",
+          "endUid": "u0137",
+          "quote": "Yeah and Trok has 17 separate times started, though not completed, a letter to his family, and so you might find him huddled over in his warm weather shack on the beach, once again scrawling on parchment."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0152",
+        "endUid": "u0157"
+      },
+      "actors": [
+        "Kaleho"
+      ],
+      "reading": "Kaleho joins Trok inside the shack for stew.",
+      "evidence": [
+        {
+          "startUid": "u0152",
+          "endUid": "u0157",
+          "quote": "Trok greets you wordlessly inviting you in to crouch by the smoldering coals and enjoy seafood stew."
+        }
+      ],
+      "from": null,
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0354",
+        "endUid": "u0369"
+      },
+      "actors": [
+        "Trok",
+        "Kaleho"
+      ],
+      "reading": "The two visit Ryu’s tower for breakfast the next morning. Nerissa joins them there.",
+      "evidence": [
+        {
+          "startUid": "u0354",
+          "endUid": "u0356",
+          "quote": "The next morning you head up to, to Ryu's tower."
+        },
+        {
+          "startUid": "u0368",
+          "endUid": "u0369",
+          "quote": "And Kaleho heading up to your tower, Ryu, with a look of news or determination in their eyes first thing for breakfast."
+        },
+        {
+          "startUid": "u0432",
+          "endUid": "u0445",
+          "quote": "So, as you are talking, you see walking down, approaching your, your little group sitting around having breakfast. Kate, you want to describe your character?"
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0370",
+        "endUid": "u0374"
+      },
+      "actors": [
+        "Ryu",
+        "Blu"
+      ],
+      "reading": "Ryu and his osprey Blu are at Ryu’s tower for the breakfast meeting.",
+      "evidence": [
+        {
+          "startUid": "u0370",
+          "endUid": "u0374",
+          "quote": "You see Blu, Blu, Blu, what kind of bird again? Blu, osprey kind of either sitting, sitting on the top of the tower, the tower like watching you as you come up the stairs, and then— You know Ryu kind of like sticks his head outside the door. It's long, long, long, long hair kind of disheveled looking, like, normally he's in kind of like in like a long topknot. Not that, you know, normally like Ryu is kind of all disheveled and he's in sort of like a black, black robe looking like having just woken up like five minutes ago. It's kind of like “So you guys— you guys are here early.”"
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0432",
+        "endUid": "u0445"
+      },
+      "actors": [
+        "Nerissa"
+      ],
+      "reading": "Nerissa approaches and introduces herself to the breakfast group at Ryu’s tower.",
+      "evidence": [
+        {
+          "startUid": "u0432",
+          "endUid": "u0445",
+          "quote": "So, as you are talking, you see walking down, approaching your, your little group sitting around having breakfast. Kate, you want to describe your character?"
+        }
+      ],
+      "from": null,
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0581",
+        "endUid": "u0595"
+      },
+      "actors": [
+        "Trok",
+        "Kaleho",
+        "Nerissa"
+      ],
+      "reading": "The inquiry group reaches the Leviathan; Ryu is absent on an errand and will meet them back at his tower.",
+      "evidence": [
+        {
+          "startUid": "u0581",
+          "endUid": "u0588",
+          "quote": "Okay, so you go to Leviathan. It's not incredibly busy first thing in the morning. And I've been—"
+        },
+        {
+          "startUid": "u0590",
+          "endUid": "u0595",
+          "quote": "There's not a— there's not, there's not a— it's not particularly crowded, um. When you first walk in it's, um, you know, there's, there's a few folks hanging around, you know, a few like fishermen on their, on their way out grabbing an early breakfast or something before they head out on their boats, um."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0697",
+        "endUid": "u0701"
+      },
+      "actors": [
+        "Trok",
+        "Kaleho",
+        "Nerissa"
+      ],
+      "reading": "They collect Ryu at his tower, where Blu has found an upriver trail.",
+      "evidence": [
+        {
+          "startUid": "u0697",
+          "endUid": "u0701",
+          "quote": "We pick up Ryu."
+        }
+      ],
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0718",
+        "endUid": "u0766"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party walks above the waterfall and follows the Mirmir into thick forest, then makes a sheltered camp.",
+      "evidence": [
+        {
+          "startUid": "u0718",
+          "endUid": "u0728",
+          "quote": "Okay, so you head to the Mirmir and start heading up. Yeah, yeah."
+        },
+        {
+          "startUid": "u0732",
+          "endUid": "u0750",
+          "quote": "But, you know, after maybe half a day the, the sort of obvious, um, continual trail, that is, you know, what the sort of people of Hamri going back and forth fades, but you can see, you know, with, with Trok and Ryu’s experience it's pretty easy to continue to follow what looks like a path made by— I guess, I guess, Ryu is really the expert tracker."
+        },
+        {
+          "startUid": "u0751",
+          "endUid": "u0766",
+          "quote": "The trail seems to continue as night falls. But if you keep going at night, you won't, you know, you can't really track once it gets dark."
+        }
+      ],
+      "from": "p04",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Climb around the cliffs to meet the Mirmir above the waterfall.",
+          "place": "p06"
+        },
+        {
+          "reading": "Follow the riverside fishing path until the common trail fades, then continue tracking in thick forest."
+        }
+      ],
+      "distance": {
+        "value": 15,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s estimate of the solid day of tracking"
+      }
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0793",
+        "endUid": "u0807"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the overnight, walk another three or four miles to the abandoned riverside camp and investigate it.",
+      "evidence": [
+        {
+          "startUid": "u0793",
+          "endUid": "u0793",
+          "quote": "Continue up the trail up the river."
+        },
+        {
+          "startUid": "u0796",
+          "endUid": "u0807",
+          "quote": "So after maybe another three, four miles up the river, not, not, you know, maybe an hour and a half, two hours or something as you, as the terrain is starting to get pretty difficult here tangled and, and dense. You— come to what is clearly a campsite. Also set in a fairly sheltered place, um."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Narrated distance to the next camp"
+      },
+      "duration": {
+        "min": 1.5,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed travel"
+      }
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0827",
+        "endUid": "u0877"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow Hiyasa’s cut trail away from the river through dense forest and arrive at the stone flower monument identified as Yerkir-khor’s tomb.",
+      "evidence": [
+        {
+          "startUid": "u0827",
+          "endUid": "u0839",
+          "quote": "Yes, so heading away from the River from here is a— I'll say with, with Ryu’s tracking skill, and with Blu scouting there's a— there's a definitely a path and the forest is dense here, so somebody, you know, headed into the interior from here and had to cut their way through like tangled underbrush and, and, you know, blackberry vines and close, close trees and things like that. So definitely a trail heading that looks not too difficult to follow heading into the away from the River from here."
+        },
+        {
+          "startUid": "u0840",
+          "endUid": "u0853",
+          "quote": "You come suddenly, to a clearing, not really a clearing. I'm— to a, to a place where some of the trees don't have room to grow because standing in the middle of the forest. Kong has been following the trail for a day and a half now."
+        },
+        {
+          "startUid": "u0874",
+          "endUid": "u0877",
+          "quote": "In, in these, these big letters, it says, “Here lies Yerkir-khor the Undaunted, Prince of Earth, Lord of the Rock Below and Guardian of the Crystal Skies.”"
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "min": 8,
+        "minInclusive": true,
+        "max": 10,
+        "maxInclusive": true,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s narrated inland leg"
+      },
+      "duration": {
+        "text": "the better part of the day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated inland tracking time"
+      }
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u0933",
+        "endUid": "u0939"
+      },
+      "actors": [
+        "Ryu"
+      ],
+      "reading": "Ryu reports Blu’s aerial view of the inward-facing roof statues, open trapdoor, and dark shaft.",
+      "evidence": [
+        {
+          "startUid": "u0933",
+          "endUid": "u0939",
+          "quote": "I was having him do a circle."
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p09",
+      "mode": "remote",
+      "note": "Blu is the scouting companion; Ryu remains at the monument exterior during this report."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0999",
+        "endUid": "u1000"
+      },
+      "actors": [
+        "Trok"
+      ],
+      "reading": "Trok climbs the secured ropes to the roof platform.",
+      "evidence": [
+        {
+          "startUid": "u0999",
+          "endUid": "u1000",
+          "quote": "Okay, um, both, both ropes are fairly easy to climb. The way up, up to the base of the, of the squat pyramid just because there's iron Spikes every four feet. And then the second rope has, is knotted and securely fastened with a grappling hook, so you get up to the top without any trouble."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1008",
+        "endUid": "u1029"
+      },
+      "actors": [
+        "Trok"
+      ],
+      "reading": "From the roof Trok sees down the shaft into the mosaic hall and drops a shell to the floor.",
+      "evidence": [
+        {
+          "startUid": "u1008",
+          "endUid": "u1029",
+          "quote": "You have 120 feet of dark vision. Amazing. So you can actually see down the shaft. There is actually a stone, like not exactly a ladder, but like stone, like notches carved into the side of the shaft descending down, so it's definitely climbable and it goes down, maybe 40 feet, which would take you just about to ground level."
+        }
+      ],
+      "place": "p12",
+      "observerPlace": "p10",
+      "mode": "local"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1031",
+        "endUid": "u1059"
+      },
+      "actors": [
+        "Kaleho",
+        "Nerissa"
+      ],
+      "reading": "Kaleho and Nerissa climb onto the roof; Ryu stays up there with Blu while they prepare to descend.",
+      "evidence": [
+        {
+          "startUid": "u1031",
+          "endUid": "u1039",
+          "quote": "OK, OK, OK I'll get to climbing. Why don't you folks come up?"
+        },
+        {
+          "startUid": "u1057",
+          "endUid": "u1059",
+          "quote": "Ryu stays up top with Blu surveying around till nobody's coming— we're all—"
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived"
+    },
+    {
+      "id": "l31",
+      "type": "presence",
+      "source": {
+        "startUid": "u1057",
+        "endUid": "u1059"
+      },
+      "actors": [
+        "Ryu",
+        "Blu"
+      ],
+      "reading": "Ryu remains on the roof with Blu while the first three descend.",
+      "evidence": [
+        {
+          "startUid": "u1057",
+          "endUid": "u1059",
+          "quote": "Ryu stays up top with Blu surveying around till nobody's coming— we're all—"
+        }
+      ],
+      "place": "p10"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1060",
+        "endUid": "u1069"
+      },
+      "actors": [
+        "Trok",
+        "Nerissa",
+        "Kaleho"
+      ],
+      "reading": "The first three begin descending the shaft; the blade trap and Kaleho’s slip interrupt the climb.",
+      "evidence": [
+        {
+          "startUid": "u1060",
+          "endUid": "u1072",
+          "quote": "Trok, you begin climbing down, um. It's not the easiest climb in the world, um, but there's handholds and you're strong. Nerissa following behind you, is surprisingly spry and light on her feet and also makes short work of it. You get about— 20 feet down when two things happen at once, um. First of all Kaleho slips and begins tumbling through the shaft towards the floor."
+        },
+        {
+          "startUid": "u1081",
+          "endUid": "u1093",
+          "quote": "From the blade, and then you— so Kaleho takes 14 points of bludgeoning damage from falling and you take nine points of bludgeoning damage, Trok, from falling and both you and Kaleho, boom, boom, land with a thud at the bottom of the— at the bottom of this— in this big room, which is lit up by one of Nerissa's glowing lights."
+        }
+      ],
+      "from": "p10",
+      "to": "p12",
+      "completion": "interrupted",
+      "route": [
+        {
+          "reading": "Climb through the trapped entrance shaft.",
+          "place": "p11"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1081",
+        "endUid": "u1085"
+      },
+      "actors": [
+        "Trok",
+        "Kaleho"
+      ],
+      "reading": "Trok and Kaleho fall into the mosaic hall after the blade trap and slip.",
+      "evidence": [
+        {
+          "startUid": "u1081",
+          "endUid": "u1085",
+          "quote": "From the blade, and then you— so Kaleho takes 14 points of bludgeoning damage from falling and you take nine points of bludgeoning damage, Trok, from falling and both you and Kaleho, boom, boom, land with a thud at the bottom of the— at the bottom of this— in this big room, which is lit up by one of Nerissa's glowing lights."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l17",
+      "type": "presence",
+      "source": {
+        "startUid": "u1087",
+        "endUid": "u1093"
+      },
+      "actors": [
+        "Nerissa"
+      ],
+      "reading": "Nerissa clings to the shaft above the blade while Trok and Kaleho are below.",
+      "evidence": [
+        {
+          "startUid": "u1087",
+          "endUid": "u1093",
+          "quote": "Nerissa, you hang on as you observe this blade slice through the air, knock Trok off, cut them up a little bit, and you somehow managed to cling to the side of the wall as Kaleho tumbled through the shaft behind you. Now you are hanging on by yourself."
+        }
+      ],
+      "place": "p11"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1245",
+        "endUid": "u1253"
+      },
+      "actors": [
+        "Ryu"
+      ],
+      "reading": "Ryu begins sliding down the new rope from the roof; he is still suspended above the hall floor when the gargoyles animate.",
+      "evidence": [
+        {
+          "startUid": "u1245",
+          "endUid": "u1253",
+          "quote": "So, at this point as you two have sort of stood up, I'm— Still not moving yet, but I'm— Ryu got the rope and Ryu and Nerissa are now like sliding down on the rope. The rope itself is— it's about 60 feet down. You've got 50 feet of rope so you'll have to like jump the last 10 feet or so."
+        },
+        {
+          "startUid": "u1336",
+          "endUid": "u1344",
+          "quote": "So, now back to Kaleho and now everybody else gets your turns now, as you are no longer surprised, I'm— Nerissa and Ryu, you are still 15 feet up on the rope."
+        }
+      ],
+      "from": "p10",
+      "to": "p12",
+      "completion": "underway",
+      "route": [
+        {
+          "reading": "Lower down the rope through the shaft.",
+          "place": "p11"
+        }
+      ]
+    },
+    {
+      "id": "l32",
+      "type": "movement",
+      "source": {
+        "startUid": "u1245",
+        "endUid": "u1253"
+      },
+      "actors": [
+        "Nerissa"
+      ],
+      "reading": "Nerissa transfers from the shaft handholds to the lowered rope; she remains suspended above the hall floor during the fight.",
+      "evidence": [
+        {
+          "startUid": "u1226",
+          "endUid": "u1228",
+          "quote": "All right, well, maybe I don't have to climb back up."
+        },
+        {
+          "startUid": "u1245",
+          "endUid": "u1253",
+          "quote": "So, at this point as you two have sort of stood up, I'm— Still not moving yet, but I'm— Ryu got the rope and Ryu and Nerissa are now like sliding down on the rope. The rope itself is— it's about 60 feet down. You've got 50 feet of rope so you'll have to like jump the last 10 feet or so."
+        },
+        {
+          "startUid": "u1336",
+          "endUid": "u1339",
+          "quote": "So, now back to Kaleho and now everybody else gets your turns now, as you are no longer surprised, I'm— Nerissa and Ryu, you are still 15 feet up on the rope."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "underway"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1365",
+        "endUid": "u1373"
+      },
+      "actors": [
+        "Ryu"
+      ],
+      "reading": "Ryu slides the rest of the way down and lands on the hall floor to fight.",
+      "evidence": [
+        {
+          "startUid": "u1365",
+          "endUid": "u1373",
+          "quote": "What about if I slide down the rope and landed and then throw my javelin?"
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u1815",
+        "endUid": "u1831"
+      },
+      "actors": [
+        "Nerissa"
+      ],
+      "reading": "Nerissa, who remained on the rope during combat, drops gracefully to the hall floor afterward.",
+      "evidence": [
+        {
+          "startUid": "u1815",
+          "endUid": "u1831",
+          "quote": "Finally going to swing down off of the rope and—"
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u1952",
+        "endUid": "u1985"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Unlock the side door with a recovered stone key and enter the small room with spiral stairs.",
+      "evidence": [
+        {
+          "startUid": "u1952",
+          "endUid": "u1966",
+          "quote": "You open the door with the with one of the keys?"
+        },
+        {
+          "startUid": "u1972",
+          "endUid": "u1985",
+          "quote": "I'm in there first so I'll just have a look."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2033",
+        "endUid": "u2061"
+      },
+      "actors": [
+        "Kaleho",
+        "Ryu",
+        "Nerissa"
+      ],
+      "reading": "The three descend about 15 feet to the lower stair room while Trok checks the upper hall.",
+      "evidence": [
+        {
+          "startUid": "u2033",
+          "endUid": "u2045",
+          "quote": "Yeah, going down the stairs very, very carefully in sneakily so—"
+        },
+        {
+          "startUid": "u2055",
+          "endUid": "u2061",
+          "quote": "Okay, make us stealth check, Nerissa, as you begin to sneak down."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2046",
+        "endUid": "u2083"
+      },
+      "actors": [
+        "Trok"
+      ],
+      "reading": "Trok briefly checks the main hall, finds nothing moving, then follows the others to the lower stairs.",
+      "evidence": [
+        {
+          "startUid": "u2046",
+          "endUid": "u2048",
+          "quote": "I'm just— I'm gonna peek my head back out into the main room just to make sure, like the snake head God has not awaken."
+        },
+        {
+          "startUid": "u2079",
+          "endUid": "u2083",
+          "quote": "To just turn off the lights and wait for me to come down. Okay, so I'm checking upstairs first."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Briefly look back into the upper hall, then descend to rejoin the group.",
+          "place": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u2127",
+        "endUid": "u2148"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Advance to the near side of the soft stone trap before the open doorway and stop to investigate the crossing.",
+      "evidence": [
+        {
+          "startUid": "u2127",
+          "endUid": "u2148",
+          "quote": "As you continue down this corridor towards the door, and the lights moving with you, right?"
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived"
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u2213",
+        "endUid": "u2225"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Retrieve rubble and gargoyle fragments from the upper hall, return, and find that tossed fragments sink into the trap.",
+      "evidence": [
+        {
+          "startUid": "u2213",
+          "endUid": "u2225",
+          "quote": "Ooh, could we just go back up and grab some the dead gargoyle stones and just give some stepping stones, just toss them and then we step from gargoyle corpse to gargoyle corpse?"
+        }
+      ],
+      "from": "p15",
+      "to": "p15",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Compressed retrieval from the main hall, not a new independent encounter there.",
+          "place": "p12"
+        }
+      ],
+      "note": "The table accepts the retrieval collectively without identifying which characters fetch the fragments."
+    },
+    {
+      "id": "l26",
+      "type": "movement",
+      "source": {
+        "startUid": "u2259",
+        "endUid": "u2264"
+      },
+      "actors": [
+        "Ryu"
+      ],
+      "reading": "Ryu jumps the ten-foot soft-stone patch and finds muddy tracks continuing on the far side.",
+      "evidence": [
+        {
+          "startUid": "u2259",
+          "endUid": "u2264",
+          "quote": "So, I did that Tim, I jump over."
+        }
+      ],
+      "from": "p15",
+      "to": "p15",
+      "completion": "arrived"
+    },
+    {
+      "id": "l27",
+      "type": "movement",
+      "source": {
+        "startUid": "u2300",
+        "endUid": "u2307"
+      },
+      "actors": [
+        "Trok",
+        "Kaleho",
+        "Nerissa"
+      ],
+      "reading": "Trok jumps and the others balance across the newly placed pitons, rejoining Ryu beyond the soft stone.",
+      "evidence": [
+        {
+          "startUid": "u2300",
+          "endUid": "u2307",
+          "quote": "So, I'll jump across first. You can jump across easily. And then you to make, make acrobatics checks, just to balance across these Spikes. And that will use up most of your Spikes."
+        }
+      ],
+      "from": "p15",
+      "to": "p15",
+      "completion": "arrived"
+    },
+    {
+      "id": "l28",
+      "type": "movement",
+      "source": {
+        "startUid": "u2313",
+        "endUid": "u2340"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the muddy tracks into the chamber with closed side doors, the labyrinth inscription, and a lightning-crystal stair rail.",
+      "evidence": [
+        {
+          "startUid": "u2313",
+          "endUid": "u2340",
+          "quote": "Okay, so as you continue now, this room here opens into a, into a maybe a 20 by 40 foot chamber. You can see, your— I assume you're moving the lights, as you go forward?"
+        }
+      ],
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived"
+    },
+    {
+      "id": "l29",
+      "type": "movement",
+      "source": {
+        "startUid": "u2394",
+        "endUid": "u2430"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After Kaleho triggers lightning upright, everyone crawls under the crystals and descends to the blue-lit room containing trapped Hiyasa.",
+      "evidence": [
+        {
+          "startUid": "u2394",
+          "endUid": "u2422",
+          "quote": "I'll try it. I try to slither my way prone to the stairs."
+        },
+        {
+          "startUid": "u2424",
+          "endUid": "u2430",
+          "quote": "Well, the first thing you notice is that, in the middle of the room there is what looks like an emaciated woman. Her— from her upper thighs below encased in stone. Empty water skin strewn next to her, I mean, not emaciated in like she's been starving for months sort of thing, but like a trapped without water for a day, maybe like. She turns to look as you enter. Um, she is, I mean, she looks like the description of Hiyasa."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived"
+    },
+    {
+      "id": "l30",
+      "type": "movement",
+      "source": {
+        "startUid": "u3692",
+        "endUid": "u3710"
+      },
+      "actors": [
+        "party",
+        "Hiyasa"
+      ],
+      "reading": "Exit the tomb by the existing pitons, stairs, and entrance rope, then complete a few days’ return to the Leviathan Inn.",
+      "evidence": [
+        {
+          "startUid": "u3692",
+          "endUid": "u3702",
+          "quote": "But, you know, in the interest of time and that you've already saw your way back, you manage to like, you know, jump over and you— the, the pitons are still nailed into the wall, so you can still, you know, get past that. As you sort of travel, travel past there."
+        },
+        {
+          "startUid": "u3708",
+          "endUid": "u3710",
+          "quote": "So, back at the inn, a few days later, um, yes, Wazir, like, as you carefully lug all this stuff back. [garbled] so Wazir as backpack just, you know, give you his— does he have?"
+        }
+      ],
+      "from": "p17",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Recross the still-soft trap on the pitons.",
+          "place": "p15"
+        },
+        {
+          "reading": "Go upstairs and climb out through the entrance shaft and roof.",
+          "place": "p10"
+        }
+      ],
+      "duration": {
+        "text": "a few days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Completed return montage"
+      }
+    }
+  ]
+}

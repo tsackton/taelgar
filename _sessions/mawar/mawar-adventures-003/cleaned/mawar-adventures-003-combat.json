@@ -1,0 +1,998 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-003",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session.yaml",
+    "sessionYamlSha256": "5af9913c7253922a569245a9efe11e8c6fad24e8fce7febe51d456a36114d1e9",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-transcript.md",
+    "transcriptSha256": "bd0dc53073f9a7f4a30a467781b9179827c04c54ca64770aad983969d504acc2",
+    "segments": {
+      "path": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-segments.json",
+      "sha256": "3bd0427b49ffb505270c3ff93f5519d18a0a04bcb4f74ca0dd1f87f83c92f493",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s005",
+      "encounter": "Four gargoyles in the upper mosaic hall",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "The warning crossbow prevents his surprise. Takes Steady Aim, fires with advantage and Sneak Attack, and hits a gargoyle north of Trok; damage is rolled without a spoken total.",
+              "evidence": [
+                {
+                  "startUid": "u1297",
+                  "endUid": "u1322"
+                },
+                {
+                  "startUid": "u1349",
+                  "endUid": "u1357"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu, Trok, and Nerissa",
+              "kind": "turn",
+              "summary": "Surprised and unable to act in the first cycle; Ryu and Nerissa remain on the rope about 15 feet above the floor.",
+              "evidence": [
+                {
+                  "startUid": "u1318",
+                  "endUid": "u1322"
+                },
+                {
+                  "startUid": "u1336",
+                  "endUid": "u1344"
+                }
+              ]
+            },
+            {
+              "actor": "Four gargoyles",
+              "kind": "turn",
+              "summary": "Dive at Trok: the first misses with bite and claw, the second bites for 3 piercing damage, the third fails to damage him, and the last hits with bite and claw for 9 damage. Remain hovering in reach.",
+              "evidence": [
+                {
+                  "startUid": "u1324",
+                  "endUid": "u1335"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Takes Steady Aim and hits the same gargoyle with advantage and Sneak Attack; the second advantage roll is not a critical hit. No damage total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1349",
+                  "endUid": "u1357"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Slides down the rope and lands safely with Athletics, avoiding the proposed disadvantaged throw from the rope. Makes two melee spear attacks, both accepted as hits, and commands Blu to wait near the shaft entrance.",
+              "evidence": [
+                {
+                  "startUid": "u1358",
+                  "endUid": "u1391"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Activates Primal Might and doubles in size. Resolves two unarmed slams against the wounded gargoyle rather than the proposed grapples: first hits with an extra d6 from Primal Might; second misses. The creature cracks but survives.",
+              "evidence": [
+                {
+                  "startUid": "u1392",
+                  "endUid": "u1434"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Casts Shatter on two gargoyles while excluding Trok. Both fail Constitution saves with disadvantage for stone creatures and take 16 damage each; pillars also begin cracking. She remains on the rope.",
+              "evidence": [
+                {
+                  "startUid": "u1435",
+                  "endUid": "u1465"
+                },
+                {
+                  "startUid": "u1815",
+                  "endUid": "u1831"
+                }
+              ]
+            },
+            {
+              "actor": "Gargoyle attempting to leave Trok",
+              "kind": "turn",
+              "summary": "Tries to fly to the snake-headed statue but is stopped by Trok’s grapple; turns to bite Trok for 3 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u1466",
+                  "endUid": "u1484"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "reaction",
+              "summary": "Uses the opportunity reaction as a grapple, as allowed at the table. Athletics with advantage beats the gargoyle’s 22 and stops its flight.",
+              "evidence": [
+                {
+                  "startUid": "u1469",
+                  "endUid": "u1478"
+                }
+              ]
+            },
+            {
+              "actor": "Second gargoyle",
+              "kind": "turn",
+              "summary": "Continues biting and clawing Trok, missing twice.",
+              "evidence": [
+                {
+                  "startUid": "u1486",
+                  "endUid": "u1489"
+                }
+              ]
+            },
+            {
+              "actor": "Third gargoyle",
+              "kind": "turn",
+              "summary": "Flies to the snake-headed statue and begins working there.",
+              "evidence": [
+                {
+                  "startUid": "u1491",
+                  "endUid": "u1492"
+                }
+              ]
+            },
+            {
+              "actor": "Fourth gargoyle",
+              "kind": "turn",
+              "summary": "Attacks Trok again without penetrating his armor.",
+              "evidence": [
+                {
+                  "startUid": "u1494",
+                  "endUid": "u1499"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Takes Steady Aim to cancel disadvantage from darkness/long range, shoots without Sneak Attack, and shatters the gargoyle on the statue. The spoken numerical damage phrase is unclear.",
+              "evidence": [
+                {
+                  "startUid": "u1500",
+                  "endUid": "u1520"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Attacks a gargoyle beside Trok: first spear strike misses, second hits and cracks it. Commands Blu against the same target.",
+              "evidence": [
+                {
+                  "startUid": "u1521",
+                  "endUid": "u1545"
+                }
+              ]
+            },
+            {
+              "actor": "Blu",
+              "kind": "turn",
+              "summary": "Misses on a natural 1, then flies away using Flyby without provoking an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u1546",
+                  "endUid": "u1557"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Deals 1 bludgeoning damage to his grappled gargoyle, then smashes it twice against the altar. The second attack is a critical hit; the altar cracks and the damaged gargoyle remains grappled.",
+              "evidence": [
+                {
+                  "startUid": "u1560",
+                  "endUid": "u1582"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Repeats Shatter on two gargoyles; both again fail their saves and take 4 damage each. Redistributes the lights to improve visibility.",
+              "evidence": [
+                {
+                  "startUid": "u1583",
+                  "endUid": "u1595"
+                }
+              ]
+            },
+            {
+              "actor": "Grappled gargoyle",
+              "kind": "turn",
+              "summary": "Fails to bite or claw Trok through his armor.",
+              "evidence": [
+                {
+                  "startUid": "u1596",
+                  "endUid": "u1598"
+                }
+              ]
+            },
+            {
+              "actor": "Gargoyle beside Kaleho",
+              "kind": "turn",
+              "summary": "Bites Kaleho for 7 piercing damage before Uncanny Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u1599",
+                  "endUid": "u1602"
+                }
+              ]
+            },
+            {
+              "actor": "Kaleho",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to reduce the bite from 7 to 3 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u1601",
+                  "endUid": "u1602"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining ungrappled gargoyle",
+              "kind": "turn",
+              "summary": "Dashes to the snake-headed statue, provoking opportunity attacks from Ryu and Trok and surviving to reach it.",
+              "evidence": [
+                {
+                  "startUid": "u1603",
+                  "endUid": "u1614"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack on the escaping gargoyle. Of the two opportunity rolls, 14 misses and 19 hits; the speech does not assign them to individual attackers.",
+              "evidence": [
+                {
+                  "startUid": "u1603",
+                  "endUid": "u1609"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "reaction",
+              "summary": "Makes an unarmed opportunity attack on the escaping gargoyle. One of his and Ryu’s attacks hits and one misses; the individual assignment is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1603",
+                  "endUid": "u1609"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Takes Steady Aim to cancel long-range disadvantage and hits the gargoyle on the statue for 6 damage without advantage. Cannot also Dash after using Steady Aim.",
+              "evidence": [
+                {
+                  "startUid": "u1615",
+                  "endUid": "u1629"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Moves toward the statue, counting giant Trok’s space as difficult terrain. Throws the returning spear twice: first misses and returns; second hits the perched gargoyle and returns. Commands Blu against it.",
+              "evidence": [
+                {
+                  "startUid": "u1630",
+                  "endUid": "u1668"
+                }
+              ]
+            },
+            {
+              "actor": "Blu",
+              "kind": "turn",
+              "summary": "Dive-bombs the perched gargoyle, hitting for 1d4 + 6 slashing damage, then flies away.",
+              "evidence": [
+                {
+                  "startUid": "u1668",
+                  "endUid": "u1674"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Deals ongoing grapple damage, then slams the grappled gargoyle twice and shatters it with the second hit. Retrospective Primal Might d6 damage is applied, but the DM confirms the second attack was still needed. Declines Eldritch Maul.",
+              "evidence": [
+                {
+                  "startUid": "u1675",
+                  "endUid": "u1702"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Sends a Fire Bolt at the gargoyle on the statue and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1703",
+                  "endUid": "u1708"
+                }
+              ]
+            },
+            {
+              "actor": "Gargoyle beside Kaleho",
+              "kind": "turn",
+              "summary": "Bites Kaleho for 5 piercing damage before his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u1709",
+                  "endUid": "u1717"
+                }
+              ]
+            },
+            {
+              "actor": "Kaleho",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to reduce the bite from 5 to 2 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u1714",
+                  "endUid": "u1717"
+                }
+              ]
+            },
+            {
+              "actor": "Gargoyle on the statue",
+              "kind": "turn",
+              "summary": "Pulls at the embedded gem; the snake-headed statue’s arms begin moving slightly.",
+              "evidence": [
+                {
+                  "startUid": "u1718",
+                  "endUid": "u1723"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Moves into normal crossbow range of the statue, provoking a bite on the way. Then hits its perched gargoyle with a straight roll; it survives.",
+              "evidence": [
+                {
+                  "startUid": "u1724",
+                  "endUid": "u1747"
+                }
+              ]
+            },
+            {
+              "actor": "Gargoyle beside Kaleho",
+              "kind": "reaction",
+              "summary": "Bites Kaleho as an opportunity reaction during his movement, dealing 5 piercing damage before he fires.",
+              "evidence": [
+                {
+                  "startUid": "u1741",
+                  "endUid": "u1747"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Runs forward and throws his returning spear at the gargoyle 10 feet up on the statue, shattering the gargoyle, not the statue. Moves toward the last gargoyle and makes a second long-range spear throw with disadvantage, missing. Commands Blu against the survivor.",
+              "evidence": [
+                {
+                  "startUid": "u1748",
+                  "endUid": "u1777"
+                }
+              ]
+            },
+            {
+              "actor": "Blu",
+              "kind": "turn",
+              "summary": "Dive-bombs the last gargoyle for 1d4 + 6 damage and returns.",
+              "evidence": [
+                {
+                  "startUid": "u1777",
+                  "endUid": "u1782"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Makes two unarmed attacks against the last gargoyle, shattering it with the second. All four gargoyles are now broken.",
+              "evidence": [
+                {
+                  "startUid": "u1783",
+                  "endUid": "u1794"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All four gargoyles are destroyed; the snake-headed statue remains intact and does not fully activate. Trok approaches it while still enlarged, and the DM explicitly drops initiative. Nerissa later confirms she fought from the rope and descends afterward.",
+        "evidence": [
+          {
+            "startUid": "u1755",
+            "endUid": "u1757"
+          },
+          {
+            "startUid": "u1791",
+            "endUid": "u1809"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s007",
+      "encounter": "Stone guardian and the hardening mud in the inner sanctum",
+      "note": "Ryu’s spear declaration starts initiative but has no separately resolved pre-initiative hit. The guardian is explicitly different from the earth-lord depicted in the mosaics. Hiyasa has an initiative slot; retain her explicit inability to act and later actions.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Hides as a bonus action, fires his crossbow with advantage, hits for 14 total damage, and reveals his position.",
+              "evidence": [
+                {
+                  "startUid": "u2605",
+                  "endUid": "u2623"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Casts her piercing Shatter tune, visibly hurting the stone guardian; no numerical damage or save outcome is spoken. Gives Trok Bardic Inspiration as a bonus action, clarified after Hiyasa’s warning.",
+              "evidence": [
+                {
+                  "startUid": "u2624",
+                  "endUid": "u2642"
+                },
+                {
+                  "startUid": "u2647",
+                  "endUid": "u2653"
+                }
+              ]
+            },
+            {
+              "actor": "Hiyasa",
+              "kind": "turn",
+              "summary": "Too exhausted and dehydrated to act; warns that the guardian will throw people into the stone.",
+              "evidence": [
+                {
+                  "startUid": "u2643",
+                  "endUid": "u2644"
+                }
+              ]
+            },
+            {
+              "actor": "Stone guardian",
+              "kind": "turn",
+              "summary": "Steps forward and twice tries to grab Ryu. Ryu wins both Athletics contests and avoids being grabbed.",
+              "evidence": [
+                {
+                  "startUid": "u2654",
+                  "endUid": "u2666"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Activates Eldritch Maul alone as his bonus action, deferring enlargement because both require bonus actions; steps back to use its 15-foot reach. First strike misses. Bardic Inspiration improves the second, treated at the table as a critical hit; doubled Eldritch Maul dice add 7 damage for 22 total.",
+              "evidence": [
+                {
+                  "startUid": "u2671",
+                  "endUid": "u2722"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Makes two spear attacks; the first result is implicit in “hit him again,” and the second is explicitly accepted as a hit. Commands Blu to dive at the guardian.",
+              "evidence": [
+                {
+                  "startUid": "u2723",
+                  "endUid": "u2731"
+                }
+              ]
+            },
+            {
+              "actor": "Blu",
+              "kind": "turn",
+              "summary": "Dives and hits the guardian; the table calls for d4 damage with the companion modifier, without a spoken total.",
+              "evidence": [
+                {
+                  "startUid": "u2732",
+                  "endUid": "u2738"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Climbs onto a roughly 10-foot pillar as a bonus action and shoots the engaged guardian without advantage; the crossbow bolt misses.",
+              "evidence": [
+                {
+                  "startUid": "u2739",
+                  "endUid": "u2755"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Moves 15 feet toward the other pillar, away from the guardian, and casts a louder Shatter. A Constitution save is called and the spell hurts it less than before; no explicit save result or damage total is spoken. Gives Ryu Bardic Inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u2756",
+                  "endUid": "u2789"
+                }
+              ]
+            },
+            {
+              "actor": "Hiyasa",
+              "kind": "turn",
+              "summary": "Remains trapped and does nothing.",
+              "evidence": [
+                {
+                  "startUid": "u2790",
+                  "endUid": "u2790"
+                }
+              ]
+            },
+            {
+              "actor": "Stone guardian",
+              "kind": "turn",
+              "summary": "Begins a spell that would call for Wisdom saves, but Nerissa’s intervening melody stops it before any resolved saves. Then moves away, provoking Ryu.",
+              "evidence": [
+                {
+                  "startUid": "u2790",
+                  "endUid": "u2813"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "reaction",
+              "summary": "Intervenes with a spell she calls Tasha’s Hideous Laughter; the DM resolves it as a melody interrupting and stopping the guardian’s magic. No laughter, prone condition, or external rules effect is established.",
+              "evidence": [
+                {
+                  "startUid": "u2795",
+                  "endUid": "u2806"
+                },
+                {
+                  "startUid": "u3056",
+                  "endUid": "u3063"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "reaction",
+              "summary": "Takes the offered opportunity attack as the guardian leaves his reach; the source does not state a clear hit or damage result.",
+              "evidence": [
+                {
+                  "startUid": "u2810",
+                  "endUid": "u2813"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Runs and Dashes after the guardian and uses his bonus action for Primal Might enlargement. Withdraws the proposed Action Surge and makes no attack.",
+              "evidence": [
+                {
+                  "startUid": "u2815",
+                  "endUid": "u2849"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Moves and throws his returning spear twice, both hitting. Commands Blu to attack.",
+              "evidence": [
+                {
+                  "startUid": "u2850",
+                  "endUid": "u2862"
+                }
+              ]
+            },
+            {
+              "actor": "Blu",
+              "kind": "turn",
+              "summary": "Hits the guardian for 10 damage, using the corrected 1d4 + 6 modifier.",
+              "evidence": [
+                {
+                  "startUid": "u2863",
+                  "endUid": "u2868"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Uses Steady Aim to cancel disadvantage at 35 feet. Hits for 10 damage with a straight roll and no Sneak Attack because allies are not within five feet of the guardian.",
+              "evidence": [
+                {
+                  "startUid": "u2869",
+                  "endUid": "u2888"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Sends a wave of water at the guardian. It rolls 20 on its Dexterity save and takes half damage; no numerical damage is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2892",
+                  "endUid": "u2902"
+                }
+              ]
+            },
+            {
+              "actor": "Stone guardian",
+              "kind": "turn",
+              "summary": "Moves, makes the ground explode around two pursuers, and retreats again. Both fail Dexterity saves and take 8 bludgeoning damage each; the affected ground becomes difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u2906",
+                  "endUid": "u2933"
+                }
+              ],
+              "note": "“You both” is not named in the damage sentence; the following pursuit and positions indicate Trok and Ryu."
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Moves across the difficult terrain but remains 20 feet away, outside Eldritch Maul reach. His subsequent thrown javelin misses.",
+              "evidence": [
+                {
+                  "startUid": "u2934",
+                  "endUid": "u2965"
+                },
+                {
+                  "startUid": "u2982",
+                  "endUid": "u2992"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "reaction",
+              "summary": "Activates his water tattoo as a reaction, allowed immediately at the table. The guardian resists the DC 14 Wisdom charm effect and is unaffected; the proposed speed-zero effect does not apply.",
+              "evidence": [
+                {
+                  "startUid": "u2966",
+                  "endUid": "u2981"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Moves closer and makes two spear throws. Both miss; adding d8 Bardic Inspiration to the second still fails.",
+              "evidence": [
+                {
+                  "startUid": "u2993",
+                  "endUid": "u3023"
+                }
+              ]
+            },
+            {
+              "actor": "Blu",
+              "kind": "turn",
+              "summary": "Attacks the guardian and misses.",
+              "evidence": [
+                {
+                  "startUid": "u3025",
+                  "endUid": "u3029"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Takes Steady Aim and fires a straight crossbow roll past Trok; misses.",
+              "evidence": [
+                {
+                  "startUid": "u3030",
+                  "endUid": "u3036"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Moves into 60-foot range and sends a psychic tune into the guardian, forcing it to flee away from her. The DM clarifies this is forced movement rather than the frightened condition. Gives Ryu another Bardic Inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u3037",
+                  "endUid": "u3055"
+                }
+              ]
+            },
+            {
+              "actor": "Stone guardian",
+              "kind": "turn",
+              "summary": "Turns a broad area of floor to mud. Nerissa fails the Strength save and is restrained and sinking; Ryu and Trok succeed but need four feet of movement per foot through mud. Then creates a hand from Kaleho’s pillar; Kaleho fails the Strength save and is grasped and restrained. The guardian remains in place.",
+              "evidence": [
+                {
+                  "startUid": "u3056",
+                  "endUid": "u3104"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Casts Longstrider, increasing speed by 10 to 40. Spends 20 movement leaving the mud and the remainder closing within Eldritch Maul reach. Casting used his action, so he makes no attack.",
+              "evidence": [
+                {
+                  "startUid": "u3105",
+                  "endUid": "u3134"
+                },
+                {
+                  "startUid": "u3427",
+                  "endUid": "u3432"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Leaves the mud and moves toward the guardian but remains at long range. His first disadvantaged spear attack becomes a hit after a d8 Bardic Inspiration; the second misses.",
+              "evidence": [
+                {
+                  "startUid": "u3135",
+                  "endUid": "u3172"
+                }
+              ]
+            },
+            {
+              "actor": "Blu",
+              "kind": "turn",
+              "summary": "Its token had not followed the action, but the table confirms it has stayed with Ryu and attacking. Dive-bombs and hits the guardian for 1d4 + 6 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3173",
+                  "endUid": "u3193"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "The restraining hand deals 5 lightning damage at his turn. Uses Steady Aim to cancel disadvantage and fires his crossbow from its grip; the speech does not clearly state the attack’s result or damage.",
+              "evidence": [
+                {
+                  "startUid": "u3194",
+                  "endUid": "u3214"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Remains restrained and sinking. Gives Hiyasa her last Bardic Inspiration as a bonus action, then casts Fire Bolt at the guardian with disadvantage and misses.",
+              "evidence": [
+                {
+                  "startUid": "u3215",
+                  "endUid": "u3244"
+                }
+              ]
+            },
+            {
+              "actor": "Hiyasa",
+              "kind": "turn",
+              "summary": "Uses Bardic Inspiration to turn her failed escape attempt into success. Scrambles free of the mud and runs to safety.",
+              "evidence": [
+                {
+                  "startUid": "u3245",
+                  "endUid": "u3252"
+                }
+              ]
+            },
+            {
+              "actor": "Stone guardian",
+              "kind": "turn",
+              "summary": "Steps forward and critically hits Trok for 27 bludgeoning damage, knocking him unconscious and ending his enlargement. Picks him up, moves, and throws him prone into the mud.",
+              "evidence": [
+                {
+                  "startUid": "u3253",
+                  "endUid": "u3270"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Unconscious in the mud, makes a death saving throw and fails once. Begins sinking and suffocating.",
+              "evidence": [
+                {
+                  "startUid": "u3271",
+                  "endUid": "u3281"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Closes into melee and kills the guardian with his first spear attack for 29 damage. The mud immediately begins hardening. Unable to reach Trok to pull him out, uses Healing Spirit as a bonus action: a swarm of spirit sardines revives Trok with 4 hit points, still restrained in the mud.",
+              "evidence": [
+                {
+                  "startUid": "u3282",
+                  "endUid": "u3335"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "The stone hand crumbles; succeeds on the Dexterity save and stays on the pillar. Moves and bonus-action Dashes to Nerissa, then fails the Strength check to pull her out.",
+              "evidence": [
+                {
+                  "startUid": "u3336",
+                  "endUid": "u3348"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Uses a charge of her sword to teleport out of the mud to safety; spell-slot exhaustion does not prevent the sword use.",
+              "evidence": [
+                {
+                  "startUid": "u3349",
+                  "endUid": "u3384"
+                }
+              ]
+            },
+            {
+              "actor": "Hiyasa",
+              "kind": "turn",
+              "summary": "Runs to the gem-stoppered jars and tries to slip one into her backpack while the party is occupied.",
+              "evidence": [
+                {
+                  "startUid": "u3385",
+                  "endUid": "u3388"
+                },
+                {
+                  "startUid": "u3454",
+                  "endUid": "u3458"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "With perhaps five seconds before the mud hardens, invokes Spiritual Affinity to Tharzen Anzinakoa for advantage and succeeds on a Strength save to emerge. Stands, then uses the movement still granted by Longstrider to get out at the edge. Ends muddy, conscious, and free.",
+              "evidence": [
+                {
+                  "startUid": "u3391",
+                  "endUid": "u3434"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Confronts Hiyasa about pocketing a jar and demands she return it. The party identifies itself as Orden’s friends; she puts it back. The mud becomes solid stone.",
+              "evidence": [
+                {
+                  "startUid": "u3435",
+                  "endUid": "u3474"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The guardian is dead. Hiyasa escaped with Bardic Inspiration before its death; Kaleho is free of the crumbled hand, Nerissa teleported clear, and revived Trok escaped before the mud became stone. Hiyasa returns the jar when confronted; play then continues without ordered turns.",
+        "evidence": [
+          {
+            "startUid": "u3245",
+            "endUid": "u3252"
+          },
+          {
+            "startUid": "u3296",
+            "endUid": "u3297"
+          },
+          {
+            "startUid": "u3338",
+            "endUid": "u3339"
+          },
+          {
+            "startUid": "u3365",
+            "endUid": "u3384"
+          },
+          {
+            "startUid": "u3427",
+            "endUid": "u3432"
+          },
+          {
+            "startUid": "u3469",
+            "endUid": "u3474"
+          }
+        ]
+      }
+    }
+  ]
+}
