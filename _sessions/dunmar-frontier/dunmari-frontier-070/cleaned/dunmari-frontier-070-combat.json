@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-070",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
+    "sessionYamlSha256": "da5fe487c58f849c426d19ce16965c391c47c36c029cc1cc9913ca52f391129d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-transcript.md",
+    "transcriptSha256": "7d3eda88c65caa7ffb24580c3b905654ad755d59646c8134c2c081c9f1fc9a27",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-segments.json",
+      "sha256": "6b217a4081754b3238ca3a851f6fafa7da4754ae9f16212666a0c79973b6e23f",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s011",
+      "encounter": "Storm creatures at the tower stairs",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Two tornado creatures",
+              "kind": "turn",
+              "summary": "Fire four wind blasts as the party prepares to fly. All miss: two aimed at Delwath, one at Seeker, and one described as aimed at Riswynn.",
+              "evidence": [
+                {
+                  "startUid": "u1040",
+                  "endUid": "u1073"
+                }
+              ],
+              "note": "The DM first says Riswynn is out of range, then names her as one missed target; the four misses are clear, but that target attribution remains inconsistent."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Fly on himself, Seeker and Riswynn; flies diagonally upward, ending about 15–20 feet above the enemies.",
+              "evidence": [
+                {
+                  "startUid": "u1074",
+                  "endUid": "u1110"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Slow, excluding Delwath. The large storm and one tornado fail Wisdom saves and are slowed; the other tornado is unaffected. Flies forward slightly.",
+              "evidence": [
+                {
+                  "startUid": "u1120",
+                  "endUid": "u1151"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts radiant Spirit Guardians and flies low enough to bring the three storm creatures within its 15-foot radius.",
+              "evidence": [
+                {
+                  "startUid": "u1152",
+                  "endUid": "u1176"
+                }
+              ]
+            },
+            {
+              "actor": "Large storm creature",
+              "kind": "turn",
+              "summary": "Fails its Wisdom save and takes 18 radiant damage from Spirit Guardians. While slowed, unleashes thunder that shakes the rocks and produces three shimmering sound-creatures. Its turn ends, and it does not resist Slow.",
+              "evidence": [
+                {
+                  "startUid": "u1177",
+                  "endUid": "u1211"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses his wings, movement, Dash and bonus-action Dash to fly past the enemies to the open tower entryway. Avoids the unslowed tornado; the slowed creatures cannot react. Finds the first floor wrecked and sees no Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u1212",
+                  "endUid": "u1247"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Unslowed tornado",
+              "kind": "turn",
+              "summary": "Fails the Wisdom save against Spirit Guardians (16), takes 13 radiant damage, moves, and creates a whirling 20-foot area of difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u1248",
+                  "endUid": "u1267"
+                }
+              ]
+            },
+            {
+              "actor": "Slowed tornado",
+              "kind": "turn",
+              "summary": "Fails its Wisdom save against Spirit Guardians and takes 13 radiant damage. Steps out and lands a natural-20 wind attack on Delwath for 16 bludgeoning damage. Slow prevents multiattack; the subsequent save’s result is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1268",
+                  "endUid": "u1292"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Flies over the low sound-creatures and reaches Riswynn through difficult terrain, then uses Dimension Door to take both near the tower door. Appears ten feet above ground after the Intelligence check; existing Fly prevents the initially narrated fall and 2 bludgeoning damage, which are corrected away.",
+              "evidence": [
+                {
+                  "startUid": "u1293",
+                  "endUid": "u1349"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Flies out through the mist toward the tower, briefly checks higher up near the platform, then descends to his companions at the tower base. The guardians disappear from view and nothing pursues.",
+              "evidence": [
+                {
+                  "startUid": "u1350",
+                  "endUid": "u1386"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The four companions evade the storm creatures and regroup at the tower entrance. The enemies are not defeated; no pursuit is seen. Kenzo remains ahead inside the tower.",
+        "evidence": [
+          {
+            "startUid": "u1382",
+            "endUid": "u1386"
+          }
+        ]
+      },
+      "note": "Initiative begins at u1002–u1004. The three newly created sound-creatures are given a relative initiative position, but no resolved turns are narrated for them before the escape. No action is invented for those slots."
+    }
+  ]
+}

@@ -1,0 +1,828 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-070",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
+    "sessionYamlSha256": "da5fe487c58f849c426d19ce16965c391c47c36c029cc1cc9913ca52f391129d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-transcript.md",
+    "transcriptSha256": "7d3eda88c65caa7ffb24580c3b905654ad755d59646c8134c2c081c9f1fc9a27"
+  },
+  "places": {
+    "p01": {
+      "label": "Plains of Dunmar",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0008",
+          "quote": "DM: Now, as we begin tonight on the plains of Dunmar, camped outside the massive storm gathered around the Storm Caller Tower."
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+    },
+    "p02": {
+      "label": "Camp outside the storm near Storm Caller Tower",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0008",
+          "quote": "DM: Now, as we begin tonight on the plains of Dunmar, camped outside the massive storm gathered around the Storm Caller Tower."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0008",
+              "quote": "DM: Now, as we begin tonight on the plains of Dunmar, camped outside the massive storm gathered around the Storm Caller Tower."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0025",
+              "endUid": "u0029",
+              "quote": "DM: The north wind blows cold from the mountains to our travelers' camp near Storm Caller Tower. It speaks of the snow and winter that has already come to the passes, closing the roads to Sabara until spring. And whispers of the relief of a woman fleeing north leaving tracks in the snow that are not her own, hoping the early winter would deter any who would seek to hunt her down."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Storm around Storm Caller Tower",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0008",
+          "quote": "DM: Now, as we begin tonight on the plains of Dunmar, camped outside the massive storm gathered around the Storm Caller Tower."
+        }
+      ],
+      "kind": "storm",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0008",
+              "quote": "DM: Now, as we begin tonight on the plains of Dunmar, camped outside the massive storm gathered around the Storm Caller Tower."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0008",
+              "quote": "DM: Now, as we begin tonight on the plains of Dunmar, camped outside the massive storm gathered around the Storm Caller Tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Storm Caller Tower",
+      "evidence": [
+        {
+          "startUid": "u0788",
+          "endUid": "u0793",
+          "quote": "DM: The winds are blowing fiercely. And yet you see in front of you now this like prow, almost like what? Now that you know it's an airship, it looks clearly like the prow of a ship sticking out of the ground. The tower yeah. Standing at the highest point, the narrow path leading up the rocks."
+        }
+      ],
+      "kind": "tower",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0008",
+              "quote": "DM: Now, as we begin tonight on the plains of Dunmar, camped outside the massive storm gathered around the Storm Caller Tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Cliff and foot of the tower stairs",
+      "evidence": [
+        {
+          "startUid": "u0779",
+          "endUid": "u0793",
+          "quote": "DM: As you continue to rush forward now, Riswynn staggers briefly and gets up. You suddenly see, looming in front of you the cliff, the crashed airship in the center of the storm, not realizing you had even gone that far. The rain is still intense here. There's no peaceful eye in which you can rest or recover.\n\nDM: The winds are blowing fiercely. And yet you see in front of you now this like prow, almost like what? Now that you know it's an airship, it looks clearly like the prow of a ship sticking out of the ground. The tower yeah. Standing at the highest point, the narrow path leading up the rocks."
+        }
+      ],
+      "kind": "approach",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0907",
+              "endUid": "u0910",
+              "quote": "DM: I mean you can't you don't by memory, right? You can't see the tower at all. You can see the base of the stairs right? You're at the base of the stairs you can see the cliff. Your recollection is that the the paths zigzag up about 40 feet to the base of the tower, and then the tower goes up 40 feet above that."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Tower door and ruined first-floor entryway",
+      "evidence": [
+        {
+          "startUid": "u1241",
+          "endUid": "u1247",
+          "quote": "DM: But Wellby sort of vanishes into the mist beyond what Delwath's magic cleared, and you you make it to the door of the tower. Your recollection of the tower, it. It seems to be quite similar to what you recall the first. The like entryway is like completely open, bashed open like there's winds blown around the whole first floor. It's just like completely trashed. You do not see Kenzo on the first floor."
+        }
+      ],
+      "kind": "entryway",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1241",
+              "endUid": "u1247",
+              "quote": "DM: But Wellby sort of vanishes into the mist beyond what Delwath's magic cleared, and you you make it to the door of the tower. Your recollection of the tower, it. It seems to be quite similar to what you recall the first. The like entryway is like completely open, bashed open like there's winds blown around the whole first floor. It's just like completely trashed. You do not see Kenzo on the first floor."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Five-pillar room off the stone platform",
+      "evidence": [
+        {
+          "startUid": "u1415",
+          "endUid": "u1433",
+          "quote": "DM: So you fly up and you come to so. So you remember this from last time that, the not the very top floor of the tower, but the second-to-topmost floor, had the stone platform that stuck out some distance like twentieth or 20 ish feet out from the edge of the tower, and there was. This is where this, like weird metal thing was.\n\nDM: It was also a big pool of water that was up resting on the on this big tower. Of course none of you could fly then. So at this point it's quite easy to avoid whatever creature is likely living in the water that attacked you once, and tried to drown you when you were last in the Tower.\n\nDM: And you land. And you step down into—you step into the large—the large sort of plain room that is marked by 5 pillars. Arranged in you know, in a design that could, you know, conceivably form like a you know, a 5 pointed star or something like that."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1415",
+              "endUid": "u1433",
+              "quote": "DM: So you fly up and you come to so. So you remember this from last time that, the not the very top floor of the tower, but the second-to-topmost floor, had the stone platform that stuck out some distance like twentieth or 20 ish feet out from the edge of the tower, and there was. This is where this, like weird metal thing was.\n\nDM: It was also a big pool of water that was up resting on the on this big tower. Of course none of you could fly then. So at this point it's quite easy to avoid whatever creature is likely living in the water that attacked you once, and tried to drown you when you were last in the Tower.\n\nDM: And you land. And you step down into—you step into the large—the large sort of plain room that is marked by 5 pillars. Arranged in you know, in a design that could, you know, conceivably form like a you know, a 5 pointed star or something like that."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Statue chamber",
+      "evidence": [
+        {
+          "startUid": "u1455",
+          "endUid": "u1470",
+          "quote": "DM: So, you head cautiously through this archway, and there's a small corridor that then opens up, a second archway with a door that is not locked, that you can push open.\n\nDM: And through that archway is the bust of the head and top part of the shoulders of a giant standing maybe 8 feet high from the top of the head to the bottom of the shoulders. The features are somewhat indistinct and and worn, flat nose, no hair, sort of a grim, flattened mouth that's closed, empty sockets where the eyes should be. The mouth mouth etched in silver, with silver lips, and gold and silver etchings that decorate the pedestal that it's standing on.\n\nDM: On top of the head, carved into the same stone that makes the head, is a crown. 5 silver points coming up to form the crown, each of which has a setting where something was once set that has been removed."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1440",
+              "endUid": "u1449",
+              "quote": "DM: Sort of entry way that you've landed on this this room that's covering maybe half of the diameter of the tower. There are 2 doors on the far wall, and then in the middle there's like an archway that leads through to another room.\n\nDelwath: We remember I'm just trying to remember where the tower where the, not the tower, the statue was.\n\nWellby: Yeah, let's head up to it.\n\nUnknown: It's up, right?\n\nDM: No, it was on the floor. It's in the it's through the archway.\n\nDelwath: I would head for the statue.\n\nWellby: Yeah.\n\nDM: Okay."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Dream of Hralgar's mountain palace",
+      "evidence": [
+        {
+          "startUid": "u1604",
+          "endUid": "u1614",
+          "quote": "DM: So you're not that surprised, when you ascend the stairs and find yourself emerging into a mountaintop palace.\n\nSeeker: Well.\n\nDM: Giant-sized stairs leading up to a a giant home."
+        }
+      ],
+      "kind": "dream palace",
+      "vaultPath": "Gazetteer/Central Highlands/Hralgar's Palace.md",
+      "note": "The vault page identifies Hralgar’s mountain home; this session enters its dream representation through the tower, not the physical ruined palace described by that modern note."
+    },
+    "p10": {
+      "label": "Grand hall and hearth",
+      "evidence": [
+        {
+          "startUid": "u1776",
+          "endUid": "u1802",
+          "quote": "DM: We made it to the I mean, as the stairs are not easy to navigate; but as you get up to the, up to the top like. Come into the entry way to this palace.\n\nDM: I mean. There's a there's a grand hall, and the the table like, and, you know the table is is like far too grand for any of you to sit. It's like, you know, 15 feet off the ground, and the chairs going 10 feet up.\n\nSeeker: But.\n\nDM: Hralgar turns, and he he stops for a moment. He, like, puts his hand out and reaches around, and Kenzo runs up, runs up to him, and and and like grabs him by the finger, reaching up above his head to grab Hralgar's finger, and sort of leads him, and he sits. There's like a a huge like hearth that has a a chair sat. And then it has, like a handful of, what look like footstools, but our size like basically a normal human-sized couch.\n\nDelwath: Right.\n\nDM: And, Kenzo slash Jorundr seems to have like pushed or moved a couple of these, like footstool couches into a position so that he can sit and Hralgar sitting in his chair like looking way up. But there's a few of these footstools couches that you can sit on it."
+        }
+      ],
+      "kind": "hall",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1776",
+              "endUid": "u1802",
+              "quote": "DM: We made it to the I mean, as the stairs are not easy to navigate; but as you get up to the, up to the top like. Come into the entry way to this palace.\n\nDM: I mean. There's a there's a grand hall, and the the table like, and, you know the table is is like far too grand for any of you to sit. It's like, you know, 15 feet off the ground, and the chairs going 10 feet up.\n\nSeeker: But.\n\nDM: Hralgar turns, and he he stops for a moment. He, like, puts his hand out and reaches around, and Kenzo runs up, runs up to him, and and and like grabs him by the finger, reaching up above his head to grab Hralgar's finger, and sort of leads him, and he sits. There's like a a huge like hearth that has a a chair sat. And then it has, like a handful of, what look like footstools, but our size like basically a normal human-sized couch.\n\nDelwath: Right.\n\nDM: And, Kenzo slash Jorundr seems to have like pushed or moved a couple of these, like footstool couches into a position so that he can sit and Hralgar sitting in his chair like looking way up. But there's a few of these footstools couches that you can sit on it."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Castle by an unfamiliar eastern desert river",
+      "evidence": [
+        {
+          "startUid": "u0675",
+          "endUid": "u0695",
+          "quote": "DM: And then you are blown as if by a hurricane somewhere. You're moving too fast to see the land, to see anything. Sweeping past a blur of a desert below you a river not one you've ever seen before, or at least not something that you recognize from this height at this speed. You're being blown east you know that much from the shadows and the direction of the sun.\n\nDM: And you see below you farms on the river irrigation. A castle built into the the the cliffs in this rough desert land. You're blown through the castle quickly.\n\nDM: You see an orc sitting on a throne wearing the cloak."
+        }
+      ],
+      "kind": "castle",
+      "note": "Seen through the wind vision. Lubash’s later identity supports an association with Xurkhaz, but the source does not name this castle or establish a physical party visit."
+    },
+    "p12": {
+      "label": "Top room of the tower with the chained giant",
+      "evidence": [
+        {
+          "startUid": "u2505",
+          "endUid": "u2511",
+          "quote": "DM: For a second, you all see, just briefly, like a giant chained to the top room of the tower, arms stretched like up on the walls with these massive chains. And it flicks, and then it flicks back to the tower, and then flicks again."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2505",
+              "endUid": "u2511",
+              "quote": "DM: For a second, you all see, just briefly, like a giant chained to the top room of the tower, arms stretched like up on the walls with these massive chains. And it flicks, and then it flicks back to the tower, and then flicks again."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0008"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The party begins camped on the plains outside the storm near the tower.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0008",
+          "quote": "DM: Now, as we begin tonight on the plains of Dunmar, camped outside the massive storm gathered around the Storm Caller Tower."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0172",
+        "endUid": "u0174"
+      },
+      "actors": [
+        "Baxter",
+        "Riswynn's pony"
+      ],
+      "reading": "The animals remain outside; Wellby instructs Baxter to watch the pony.",
+      "evidence": [
+        {
+          "startUid": "u0178",
+          "endUid": "u0193",
+          "quote": "Riswynn: Yes, we did. I was. At least we had a plan. Baxter.\n\nDM: Baxter can can shepherd the animals? Wellby whispers to Baxter like. I mean, you only have Riswynn's horse, and and.\n\nRiswynn: Riswynn's pony and Baxter, anyway, and they're pretty good friends by the point. So right well, Riswynn's pony ran away last time a different pony. But but Baxter wasn't very well trained last time.\n\nDM: Baxter's gotten much better over the last. That was like, 7 months ago. That was right out. Wellby had got. Wellby had like just caught Baxter like.\n\nSeeker: 2 days before. So.\n\nDM: So I think you can. You can trust, trust Baxter to like, keep keep track of the animals.\n\nRiswynn: All right.\n\nDM: But yes, it takes a little bit of effort to like, calm your pony, and Wellby to talk to Baxter, and, you know, telepathically explain to him the situation like, “Don't run off. Keep an eye on the pony.”"
+        },
+        {
+          "startUid": "u0290",
+          "endUid": "u0291",
+          "quote": "DM: So animals are outside the storm. No animal has come into the storm."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0244",
+        "endUid": "u0249"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The party follows the possessed Kenzo into the storm holding the long ladder; the eyes are packed away again.",
+      "evidence": [
+        {
+          "startUid": "u0244",
+          "endUid": "u0249",
+          "quote": "DM: So you all grab onto the 50 foot ladder and fold up the portable hole quickly. Slam it into Wellby's locket and go charge after Kenzo."
+        },
+        {
+          "startUid": "u0254",
+          "endUid": "u0261",
+          "quote": "Seeker: We don't want to drop them. Yeah, we might need 2 hands. Sensible Delwath good thinking. Let's put them back.\n\nRiswynn: Yes.\n\nDelwath: Yeah, I think we put the we put them back.\n\nDM: A Kong is distracting me. Okay. So you begin charging into the storm."
+        },
+        {
+          "startUid": "u0272",
+          "endUid": "u0283",
+          "quote": "DM: I got something for this here. Oh, wait! As you step into the storm you know visibility drops to maybe 15 feet. You know you can't—it's misty. Everything is—\n\nUnknown: That—\n\nDM: Everything is gray. You you can't see. You can see maybe 10 or 15 feet ahead of you. You can't even see the end of the ladder. Now."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk/run"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0675",
+        "endUid": "u0683"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "The winds show an unfamiliar desert river, irrigated farms, a cliffside castle, and an orc on a throne wearing the mantle.",
+      "evidence": [
+        {
+          "startUid": "u0675",
+          "endUid": "u0698",
+          "quote": "DM: And then you are blown as if by a hurricane somewhere. You're moving too fast to see the land, to see anything. Sweeping past a blur of a desert below you a river not one you've ever seen before, or at least not something that you recognize from this height at this speed. You're being blown east you know that much from the shadows and the direction of the sun.\n\nDM: And you see below you farms on the river irrigation. A castle built into the the the cliffs in this rough desert land. You're blown through the castle quickly.\n\nDM: You see an orc sitting on a throne wearing the cloak.\n\nWellby: We shared with.\n\nDM: And you are blown away. And you take 21 points of psychic damage."
+        }
+      ],
+      "place": "p11",
+      "observerPlace": "p03",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0779",
+        "endUid": "u0793"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The group reaches the cliff below the tower after following Kenzo through the storm.",
+      "evidence": [
+        {
+          "startUid": "u0738",
+          "endUid": "u0747",
+          "quote": "DM: So, after a moment now glowing, Kenzo turns and begins. After this whisper begins heading back, and you've been traveling now for at least an hour or more. It's hard to say. Maybe maybe 2 h. We've gone surely gone at least a mile. Possibly possibly 2. Hard to know how fast you're going. But Kenzo is certainly not moving super fast."
+        },
+        {
+          "startUid": "u0779",
+          "endUid": "u0814",
+          "quote": "DM: As you continue to rush forward now, Riswynn staggers briefly and gets up. You suddenly see, looming in front of you the cliff, the crashed airship in the center of the storm, not realizing you had even gone that far. The rain is still intense here. There's no peaceful eye in which you can rest or recover.\n\nDM: The winds are blowing fiercely. And yet you see in front of you now this like prow, almost like what? Now that you know it's an airship, it looks clearly like the prow of a ship sticking out of the ground. The tower yeah. Standing at the highest point, the narrow path leading up the rocks.\n\nDM: Kenzo now glowing brightly as he begins to head ahead of you, now moving quicker and quicker up the path. Turning, and you can see as he turns back looking at you. His facade has changed. It's grown angry, no longer laughing.\n\nDM: And he says, “Go!” And begins to proceed into the tower. As the clouds around the the storm, the winds begin to coalesce almost into a wall, or a a creature standing up the path. The entrance to the tower. Kenzo vanishes into the mist—the stairs and you are left at the bottom."
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk/run",
+      "duration": {
+        "min": 1,
+        "minInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "At least an hour, perhaps two, at the last journey checkpoint; remaining travel is unmeasured."
+      }
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0803",
+        "endUid": "u0814"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo vanishes up the stairs into the mist; the others remain at the bottom.",
+      "evidence": [
+        {
+          "startUid": "u0803",
+          "endUid": "u0814",
+          "quote": "DM: And he says, “Go!” And begins to proceed into the tower. As the clouds around the the storm, the winds begin to coalesce almost into a wall, or a a creature standing up the path. The entrance to the tower. Kenzo vanishes into the mist—the stairs and you are left at the bottom."
+        },
+        {
+          "startUid": "u0973",
+          "endUid": "u0974",
+          "quote": "DM: Kenzo is in the tower or somewhere, like he never came back out of the fog."
+        }
+      ],
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0933",
+        "endUid": "u0939"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby sees through the summoned rat as it scouts about twenty feet into the fog on the stairs and is killed.",
+      "evidence": [
+        {
+          "startUid": "u0916",
+          "endUid": "u0919",
+          "quote": "Wellby: So I want to try something. I'm, I'm gonna take this opportunity to reach into my hat and pull out a rat. And then I want to beast sense into it and see if it can scout on ahead through the fog for us."
+        },
+        {
+          "startUid": "u0933",
+          "endUid": "u0950",
+          "quote": "DM: So you, the you follow Wellby in the rat as you begin to start into the clouds, and it's like dense fog. You cannot. You can see you know a few feet in front of your rat little rat eyes. The rat is like shivering and sort of huddled close to the ground as it tries to avoid the the rain. At least the noise is a bit less here in the center, even though that—the lightning and the and the wind and the rain are still still blowing.\n\nDM: And then suddenly out of nowhere some like blast of wind, or something like, a force strikes you, and the rat dies.\n\nWellby: Oh, no, that's very disturbing. Well, I'm seeing through its senses.\n\nSeeker: There are no—\n\nWellby: Man. How about how far up was that?\n\nDM: 20 feet?\n\nWellby: Well got 20 feet ahead."
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p05",
+      "mode": "remote"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1234",
+        "endUid": "u1247"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies past the storm creatures to the tower door; the first floor is open and wrecked.",
+      "evidence": [
+        {
+          "startUid": "u1234",
+          "endUid": "u1247",
+          "quote": "DM: Okay. Wellby flies up. Dash bonus action, action, bonus action move. You just see Wellby just vanishing into the clouds above you. Right? So like this area, this. This area, I mean, something like this area is roughly clear. It's actually a 30 foot cube, right? So it's like this. This area is clear.\n\nDM: But Wellby sort of vanishes into the mist beyond what Delwath's magic cleared, and you you make it to the door of the tower. Your recollection of the tower, it. It seems to be quite similar to what you recall the first. The like entryway is like completely open, bashed open like there's winds blown around the whole first floor. It's just like completely trashed. You do not see Kenzo on the first floor."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1317",
+        "endUid": "u1319"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Seeker carries Riswynn by Dimension Door to the tower entrance area, appearing ten feet above ground while still flying.",
+      "evidence": [
+        {
+          "startUid": "u1317",
+          "endUid": "u1319",
+          "quote": "Seeker: Yeah. So I prepare to cast dimension door, flying up and over the other adversaries, and then down to where Riswynn is again, so that I'm just close enough to pop us both up to the door of the tower, using dimension door."
+        },
+        {
+          "startUid": "u1330",
+          "endUid": "u1349",
+          "quote": "DM: You're pretty good with with us geology, and and, you know, remembering the terrain but not perfect, and you end up 10 feet above the ground, and the 2 of you fall to the ground. Taking 2 points of bludgeoning.\n\nUnknown: And.\n\nSeeker: Okay. So because—\n\nDM: Still close, just not quite. Yeah.\n\nUnknown: You.\n\nWellby: Aren't you flying? Sorry I thought you were flying.\n\nDM: That's right. You're still flying. So you're just 10 feet in the unexpectedly in the air. Okay, yeah. Good. Right. You're just unexpectedly 10 feet above the ground instead of on the ground. But it doesn't matter because you're flying.\n\nRiswynn: I thought maybe we lost the power to fly when we went through.\n\nDM: No, I just totally forgot about flight. Thank you for reminding me. Okay, Delwath."
+        },
+        {
+          "startUid": "u1362",
+          "endUid": "u1368",
+          "quote": "DM: And and you see the tower in front of you. You see Wellby on the ground just just having to open the door. You see Riswynn, and Seeker 10 feet above the ground, just kind of hovering in the air. But the edge of the tower. You can see that you can't see much of the top of the tower because it—it stands up into the mist. But you can see I mean you can see the door. You can see the first floor. The inside of the tower is fairly clear."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "Dimension Door"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1350",
+        "endUid": "u1353"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath flies past the guardians, briefly looks higher up the tower, and returns down to the group at its base.",
+      "evidence": [
+        {
+          "startUid": "u1350",
+          "endUid": "u1368",
+          "quote": "Delwath: I mean, I can easily just fly.\n\nDM: You can easily get there with if you dash.\n\nDelwath: Let's go 60 feet to start. Actually, what do I see? 60 feet out?\n\nDM: So that puts you about here because your first 10 feet is difficult terrain, I mean. At that point you can see the tower. You can see Wellby on the ground now. Everything this whole scene behind you has just vanished into the mist. Once you get—as you get beyond about about here you can't see any of these creatures behind you anymore.\n\nDM: And and you see the tower in front of you. You see Wellby on the ground just just having to open the door. You see Riswynn, and Seeker 10 feet above the ground, just kind of hovering in the air. But the edge of the tower. You can see that you can't see much of the top of the tower because it—it stands up into the mist. But you can see I mean you can see the door. You can see the first floor. The inside of the tower is fairly clear."
+        },
+        {
+          "startUid": "u1371",
+          "endUid": "u1386",
+          "quote": "Delwath: I'll fly around debris. What's what's 60 feet up?\n\nDM: The top of the tower.\n\nDelwath: Is that platform that we? The platform is still there? Yeah. All right. Well, I'll just come back to everybody. I mean, I assume, from the 60 feet up, I can't see any of these guardian creatures.\n\nDM: No.\n\nUnknown: Okay.\n\nDM: I mean, you can't see the ground from 60 feet up either. But no, you can't see.\n\nUnknown: The.\n\nDM: Your feeling given the fog given the way the Fog Cloud was positioned is that these were probably these creatures are probably somehow, well, anyway, nothing seems to be chasing—\n\nDelwath: Right. I'll fly back down to everybody. Everybody's sort of clustered around the base of the tower."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Briefly flies up toward the top/platform, then descends to the gathered companions."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1414",
+        "endUid": "u1433"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The four companions fly to the projecting platform, bypass the pool, and land inside the five-pillar room.",
+      "evidence": [
+        {
+          "startUid": "u1414",
+          "endUid": "u1433",
+          "quote": "DM: Okay. So you fly up.\n\nDM: So you fly up and you come to so. So you remember this from last time that, the not the very top floor of the tower, but the second-to-topmost floor, had the stone platform that stuck out some distance like twentieth or 20 ish feet out from the edge of the tower, and there was. This is where this, like weird metal thing was.\n\nDM: It was also a big pool of water that was up resting on the on this big tower. Of course none of you could fly then. So at this point it's quite easy to avoid whatever creature is likely living in the water that attacked you once, and tried to drown you when you were last in the Tower.\n\nDM: And you land. And you step down into—you step into the large—the large sort of plain room that is marked by 5 pillars. Arranged in you know, in a design that could, you know, conceivably form like a you know, a 5 pointed star or something like that."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Bypass the pool and its recalled attacking creature without entering the water."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1455",
+        "endUid": "u1466"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The companions pass through the archway and short corridor into the chamber of the giant’s eyeless bust.",
+      "evidence": [
+        {
+          "startUid": "u1455",
+          "endUid": "u1466",
+          "quote": "DM: So, you head cautiously through this archway, and there's a small corridor that then opens up, a second archway with a door that is not locked, that you can push open.\n\nDM: And through that archway is the bust of the head and top part of the shoulders of a giant standing maybe 8 feet high from the top of the head to the bottom of the shoulders. The features are somewhat indistinct and and worn, flat nose, no hair, sort of a grim, flattened mouth that's closed, empty sockets where the eyes should be. The mouth mouth etched in silver, with silver lips, and gold and silver etchings that decorate the pedestal that it's standing on."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1591",
+        "endUid": "u1614"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "They ascend the tower stairs and emerge in the dream of Hralgar’s mountain palace, where Kenzo is guiding him.",
+      "evidence": [
+        {
+          "startUid": "u1591",
+          "endUid": "u1628",
+          "quote": "DM: Okay. So, you head upstairs. Oh, look! I had a map for this, for. Oh, look! And it still has your like, drawings from the last time we did this, then again. So you head upstairs.\n\nDM: And this is this is, you—you remember this top floor from your last journey to this tower. And the first time you came up these stairs it did not lead to a—it did not lead to the top of a tower. It led to elsewhere.\n\nDM: So you're not that surprised, when you ascend the stairs and find yourself emerging into a mountaintop palace.\n\nSeeker: Well.\n\nDM: Giant-sized stairs leading up to a a giant home.\n\nDM: And you see in the distance a giant 20, 30 feet tall towering over a much smaller man, who seems to almost be, be leading him down the steps. The giant is is walking slowly, sort of feeling, that much smaller person is like holding his finger and sort of guiding him down the steps. They're still some distance off, like, 50, 60 feet off, 70 feet. But it's it's clear that this smaller person is in fact, Kenzo."
+        },
+        {
+          "startUid": "u2746",
+          "endUid": "u2747",
+          "quote": "DM: You know you're—you remember this place. This is like the dream world vision of Hralgar's Mountain palace that you've been in once before long ago."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "stairs / dream threshold",
+      "note": "The companions enter a reachable dream setting through the tower stairs. This movement does not establish travel to the physical mountain ruins."
+    },
+    {
+      "id": "l19",
+      "type": "presence",
+      "source": {
+        "startUid": "u1615",
+        "endUid": "u1628"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "The arriving companions find Kenzo already in the dream palace, guiding Hralgar down the giant stairs.",
+      "place": "p09",
+      "evidence": [
+        {
+          "startUid": "u1615",
+          "endUid": "u1628",
+          "quote": "DM: And you see in the distance a giant 20, 30 feet tall towering over a much smaller man, who seems to almost be, be leading him down the steps. The giant is is walking slowly, sort of feeling, that much smaller person is like holding his finger and sort of guiding him down the steps. They're still some distance off, like, 50, 60 feet off, 70 feet. But it's it's clear that this smaller person is in fact, Kenzo."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1776",
+        "endUid": "u1802"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "Hralgar and Kenzo/Jorundr lead the visitors into the palace’s grand hall and hearth seating.",
+      "evidence": [
+        {
+          "startUid": "u1776",
+          "endUid": "u1802",
+          "quote": "DM: We made it to the I mean, as the stairs are not easy to navigate; but as you get up to the, up to the top like. Come into the entry way to this palace.\n\nDM: I mean. There's a there's a grand hall, and the the table like, and, you know the table is is like far too grand for any of you to sit. It's like, you know, 15 feet off the ground, and the chairs going 10 feet up.\n\nSeeker: But.\n\nDM: Hralgar turns, and he he stops for a moment. He, like, puts his hand out and reaches around, and Kenzo runs up, runs up to him, and and and like grabs him by the finger, reaching up above his head to grab Hralgar's finger, and sort of leads him, and he sits. There's like a a huge like hearth that has a a chair sat. And then it has, like a handful of, what look like footstools, but our size like basically a normal human-sized couch.\n\nDelwath: Right.\n\nDM: And, Kenzo slash Jorundr seems to have like pushed or moved a couple of these, like footstool couches into a position so that he can sit and Hralgar sitting in his chair like looking way up. But there's a few of these footstools couches that you can sit on it."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk/fly"
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u2505",
+        "endUid": "u2511"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The dream flickers to show the giant chained in the tower’s top room; this is a glimpse, not a party move.",
+      "evidence": [
+        {
+          "startUid": "u2505",
+          "endUid": "u2511",
+          "quote": "DM: For a second, you all see, just briefly, like a giant chained to the top room of the tower, arms stretched like up on the walls with these massive chains. And it flicks, and then it flicks back to the tower, and then flicks again."
+        }
+      ],
+      "place": "p12",
+      "observerPlace": "p10",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2836",
+        "endUid": "u2838"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "All five companions descend back from the dream to the statue chamber.",
+      "evidence": [
+        {
+          "startUid": "u2828",
+          "endUid": "u2835",
+          "quote": "Wellby: You know, we we need to move. We need to do this quickly. He's. Yeah, he's struggling. Yeah, go down the stairs. Yes.\n\nRiswynn: Agreed all 5 of us. Yes, we told him we were going to go down the stairs all 5 of us, so he won't be surprised.\n\nKenzo: What's happening?\n\nDelwath: We're going to free him. Come.\n\nRiswynn: Kenzo it's time to put the eyes back in.\n\nKenzo: And apparently you have some poetry to recite.\n\nRiswynn: Glad you're Kenzo, our resident human.\n\nKenzo: I I am glad I am Kenzo as well. I think."
+        },
+        {
+          "startUid": "u2836",
+          "endUid": "u2843",
+          "quote": "DM: So you head down the stairs.\n\nWellby: Yeah, yes.\n\nDM: You're back where the statue is.\n\nWellby: All right. I'll open up the locket and unfold the portable hole and climb in and hand the eyes out, one after another, and then the control gems also.\n\nRiswynn: Oh, control gems.\n\nSeeker: The binding stones, I I take. I'm holding those."
+        }
+      ],
+      "from": "p10",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "stairs / dream threshold"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2919",
+        "endUid": "u2924"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby runs back upstairs into the cloudscape and sees a ghostly Hralgar strangling the giant.",
+      "evidence": [
+        {
+          "startUid": "u2919",
+          "endUid": "u2931",
+          "quote": "Wellby: I'm going to head straight up.\n\nDM: You run up, back, appearing back in the cloudscape, and you can see that. The ghostly figure, there's like a ghostly version of Hralgar that is like separated from him.\n\nDM: And has his hands around. The ghost has his hands around Hralgar's neck and Hralgar is like, sort of kind of struggling, looking around. Trying to like, find a weapon or something. But, can't see.\n\nDelwath: Bring, yeah, we need to—\n\nDM: Slumps to one knee."
+        }
+      ],
+      "from": "p08",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "stairs / dream threshold"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2932",
+        "endUid": "u2943"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn",
+        "Delwath"
+      ],
+      "reading": "Seeker and Riswynn run into the dream with the eyes; Delwath is established there attacking with Wellby.",
+      "evidence": [
+        {
+          "startUid": "u2932",
+          "endUid": "u2943",
+          "quote": "Delwath: Can somebody go get the eyes very quickly and bring them into the dream world?\n\nSeeker: Riswynn, let's go.\n\nRiswynn: All right. We run into the dream world.\n\nWellby: Try and attack the ghost version of him in the—\n\nRiswynn: [cross-talk].\n\nDM: As you run up into the dream world, carrying the eyes, they begin to pulse with life.\n\nDM: And as you run forwards towards Hralgar, trying to get the eyes to him as Delwath and Wellby begin to attack the ghost version. I'm going to probably stop there. Okay, that's a good point we maybe should stop there."
+        }
+      ],
+      "from": "p08",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "stairs / dream threshold",
+      "note": "Kenzo’s position after the recitation and this final split is not re-established; do not extend this arrival to him."
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-time-markers.json",
+    "sha256": "05a50473537de0e5b00722f099a49690b0efae3b2ed8ff7f66613760d1dad1ba"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-transcript.md",
+    "sha256": "7d3eda88c65caa7ffb24580c3b905654ad755d59646c8134c2c081c9f1fc9a27"
+  },
+  "dateAssessment": "Working adventure date: November 23, 1748, from the session YAML. The transcript independently states mid-afternoon and cumulative storm travel of at least an hour, perhaps two; late-afternoon arrival is inferred, with dusk possible at the edge of that estimate. No closing clock is spoken. The continuous action and the DM’s explicit suspension of external time in the dream support zero adventure-date boundaries, conditionally matching YAML. The dream’s hour-long tale, sudden morning-to-midday change and rapid sun cycles stay on a separate local clock. No preceding numeric session’s date or watch has been imported.",
+  "watches": [
+    {
+      "day": "November 23, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Mid-afternoon at camp; about an hour of scouting has already elapsed.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "clock": "adventure",
+      "startDate": "1748-11-23",
+      "endDate": "1748-11-23"
+    },
+    {
+      "day": "November 23, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "About one to two hours following Kenzo; Wellby briefly leaves and returns to his body.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05"
+      ],
+      "clock": "adventure",
+      "startDate": "1748-11-23",
+      "endDate": "1748-11-23"
+    },
+    {
+      "day": "Dream palace",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Dream time does not really pass; Delwath nevertheless narrates a roughly hour-long tale.",
+      "markers": [
+        "t06",
+        "t07"
+      ],
+      "clock": "local",
+      "scope": "Hralgar's dream"
+    },
+    {
+      "day": "Dream palace",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Dream sunlight changes from early morning to midday in a blink; no measured adventure time.",
+      "markers": [
+        "t08"
+      ],
+      "clock": "local",
+      "scope": "Hralgar's dream"
+    },
+    {
+      "day": "Dream palace",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Dream sun repeatedly rises and sets as Hralgar speaks; no civil dates can be counted.",
+      "markers": [
+        "t09"
+      ],
+      "clock": "local",
+      "scope": "Hralgar's dream"
+    },
+    {
+      "day": "November 23, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Return to the tower after the dream; no external elapsed interval is established.",
+      "markers": [
+        "t10"
+      ],
+      "clock": "adventure",
+      "startDate": "1748-11-23",
+      "endDate": "1748-11-23"
+    },
+    {
+      "day": "Dream palace",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Reentry into the dream struggle; its local sky and elapsed time are unspecified.",
+      "markers": [
+        "t11"
+      ],
+      "clock": "local",
+      "scope": "Hralgar's dream"
+    }
+  ]
+}

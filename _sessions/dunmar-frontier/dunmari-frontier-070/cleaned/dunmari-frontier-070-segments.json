@@ -1,0 +1,166 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-070",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
+    "sessionYamlSha256": "da5fe487c58f849c426d19ce16965c391c47c36c029cc1cc9913ca52f391129d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-transcript.md",
+    "transcriptSha256": "7d3eda88c65caa7ffb24580c3b905654ad755d59646c8134c2c081c9f1fc9a27"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0008"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0009",
+        "endUid": "u0044"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0045",
+        "endUid": "u0048"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0049",
+        "endUid": "u0073"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0074",
+        "endUid": "u0356"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0357",
+        "endUid": "u0387"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0388",
+        "endUid": "u0548"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0549",
+        "endUid": "u0561"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0562",
+        "endUid": "u1001"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1002",
+        "endUid": "u1386"
+      },
+      "category": "combat",
+      "note": "Continuous ordered escape encounter, including setup and corrections; ends after the party evades pursuit and regroups at the tower."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1387",
+        "endUid": "u1894"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1895",
+        "endUid": "u1904"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1905",
+        "endUid": "u2410"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2411",
+        "endUid": "u2416"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2417",
+        "endUid": "u2607"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2608",
+        "endUid": "u2641"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2642",
+        "endUid": "u2943"
+      },
+      "category": "gameplay",
+      "note": "The final attacks begin without initiative or an established repeating turn cycle; the source stops before resolution."
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u2944",
+        "endUid": "u2958"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
