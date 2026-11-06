@@ -1,0 +1,732 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-095",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-session.yaml",
+    "sessionYamlSha256": "d0fb8ded05e5590d15f9ce08959d57ebac77d36b53212e7a73daf8310e76491b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-transcript.md",
+    "transcriptSha256": "a03a9463936ee16aa43c29c213e6037d9524ffba01992302c6397c103b7495e5",
+    "yamlDates": {
+      "start": "1749-04-15",
+      "end": "1749-05-03"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0035"
+      },
+      "reading": "Wednesday lunch at the Silver Wolf, with roughly three and a half days before Sunday transit papers are expected.",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0024",
+          "quote": "Back at the Silver Wolf inn, cut off from the news of the outside world, and still with a few more days to wait till you get your letters of transit, you find a pleased Roman who has scoured the market for anyone who might be willing to bring magic items to trade, and he lists a number of choices for you while serving your lunch in a private corner of the inn."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0026",
+          "quote": "With decisions ahead about how to approach the upcoming negotiations with the Rodnya Voknaz, once you get permission to travel, you settle into a simple lunch of venison, jerky, wrinkled apples, hard cheese, and rye bread to discuss."
+        },
+        {
+          "startUid": "u0027",
+          "endUid": "u0035",
+          "quote": "So, just as a— you know, at some point you'll have to decide how you wanna travel across Ursk. On the other hand, you've got a few days in Zvervinka. You don't expect to get your letters of transit till Sunday, so it's Wednesday, Thursday, Friday, Saturday. You've got 3 and a half days, or something. If there's anything you want to do in town."
+        },
+        {
+          "startUid": "u0420",
+          "endUid": "u0423",
+          "quote": "Yeah, you've got— wet—it's, you know, Wednesday. You've got Wednesday, Thursday, Friday, Saturday. You've got 4 nights before you before you're hoping to speak with the watcher again."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Lunch and Wednesday are spoken; April 15 follows from the later Saturday April 18 anchor and agrees with YAML.",
+        "partOfDay": "lunch"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0667",
+        "endUid": "u0675"
+      },
+      "reading": "A day and a half to two days of town exploration and preparations elapse before the Friday dinner.",
+      "evidence": [
+        {
+          "startUid": "u0667",
+          "endUid": "u0675",
+          "quote": "So over the course of the next day and a half, 2 days, you sort of wander around. You gather rumors and information. Roman bustles around. You know, feeding you and keeping his tavern well stocked with rich, well-paying guests, come to see the monster hunters, and also makes progress on finding some you know some horses for you. Can get 5 horses not cheap, but tracks down somebody willing to sell, sell 5 horses, starts gathering supplies."
+        },
+        {
+          "startUid": "u0676",
+          "endUid": "u0690",
+          "quote": "So at Friday night, the night before—like this is when the sort of population of the, of the town swells the most, or especially of the inn, as you know, it's everybody who is coming in for the market on Saturday is here, [garbled]. And, but he, he, you know, after you do your little like, you know, sort of, show and sort of introduction. Everybody comes to look at you. He sets up sort of private table aside for you, and introduces a woman, Jela Drask, who is a member of that— Rod, Rodnya Nivik. And she has come to have dinner with you."
+        }
+      ],
+      "duration": {
+        "text": "a day and a half, two days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM compresses the completed town activities before Friday night"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0676",
+        "endUid": "u0690"
+      },
+      "reading": "Friday-night dinner with Jela at the Silver Wolf, before the Saturday market.",
+      "evidence": [
+        {
+          "startUid": "u0676",
+          "endUid": "u0690",
+          "quote": "So at Friday night, the night before—like this is when the sort of population of the, of the town swells the most, or especially of the inn, as you know, it's everybody who is coming in for the market on Saturday is here, [garbled]. And, but he, he, you know, after you do your little like, you know, sort of, show and sort of introduction. Everybody comes to look at you. He sets up sort of private table aside for you, and introduces a woman, Jela Drask, who is a member of that— Rod, Rodnya Nivik. And she has come to have dinner with you."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM explicitly opens Friday night; April 17 is inferred from the next-day April 18 anchor.",
+        "partOfDay": "night"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0745",
+        "endUid": "u0754"
+      },
+      "reading": "About an hour of the dinner conversation passes before Jela’s summoned candlestick disappears.",
+      "evidence": [
+        {
+          "startUid": "u0745",
+          "endUid": "u0754",
+          "quote": "So I mean she's she's a bit reluctant to talk in depth about like what she did. She does do a little trick where she she summons a candlestick, like in her... Out of thin air. She just waves her hand open and then opens it, and there’s a candle stick in her hand. And, she puts it down. She lights the candle and it burns. The whole thing is radiating dim light not just the candle. And you know, over the course of the conversation you watch. And then, about an hour after she summons it it blinks out again."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Explicit elapsed time until the candlestick disappears"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0906",
+        "endUid": "u0917"
+      },
+      "reading": "The next day is Saturday April 18: market purchases and the invitation for tomorrow’s audience.",
+      "evidence": [
+        {
+          "startUid": "u0906",
+          "endUid": "u0917",
+          "quote": "So the next day, April eighteenth, as the market— you get your magic items bustling— happy day, and and news from Lena that she expects that your transit papers will arrive tomorrow, and a letter, asking you to meet her in the Watcher's Tower at 4 pm on Sunday to hand over your papers of transit. So you have, you know, maybe 24 h in town before the rush rush to finish up."
+        },
+        {
+          "startUid": "u0951",
+          "endUid": "u0962",
+          "quote": "So over the course of the market day you examine your new magic items. Purchase your sealed potion. And, you know, get your it's— gonna cost you 500 gold for the horses, and another 200 gold for just supplies and and stocking up, so 2,700 gold total with the potion. And they'll be ready on Sunday. Roman will get them. You know, saddled and geared, and have everything packed ready for your departure first light on Monday morning."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Spoken April eighteenth, next day after Friday; year inherited from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 18
+        }
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0992",
+        "endUid": "u0999"
+      },
+      "reading": "Sunday April 19: the party returns to Lena for transit papers; the accepted invitation specifies 4 p.m.",
+      "evidence": [
+        {
+          "startUid": "u0906",
+          "endUid": "u0917",
+          "quote": "So the next day, April eighteenth, as the market— you get your magic items bustling— happy day, and and news from Lena that she expects that your transit papers will arrive tomorrow, and a letter, asking you to meet her in the Watcher's Tower at 4 pm on Sunday to hand over your papers of transit. So you have, you know, maybe 24 h in town before the rush rush to finish up."
+        },
+        {
+          "startUid": "u0992",
+          "endUid": "u0999",
+          "quote": "So on Sunday, April nineteenth, the day after the market, you find yourself back in the Watcher's tower. Going through the routine again to seal your magic and return to Lena's room in the tower, where she has again tea laid out for you. And greets you."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Spoken Sunday April nineteenth; audience time inferred from the 4 p.m. invitation, year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 19
+        },
+        "clock": "16:00"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1100",
+        "endUid": "u1105"
+      },
+      "reading": "The party leaves with Karel’s caravan on the morning of April 20.",
+      "evidence": [
+        {
+          "startUid": "u1100",
+          "endUid": "u1105",
+          "quote": "So, morning of April twentieth, you set out with—what's his...—Karel's caravan."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Spoken morning of April twentieth; year inherited from YAML.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 20
+        }
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1175",
+        "endUid": "u1188"
+      },
+      "reading": "The opening caravan journey lasts a couple of days, with trading conversation along the road.",
+      "evidence": [
+        {
+          "startUid": "u1175",
+          "endUid": "u1184",
+          "quote": "But you sort of get a sense traveling with with Karel for a couple of days just about, you know, the, the merchant class in Ursk is doing quite well these days. Despite this, everybody talks about the scare last winter, like despite the scare last winter, business is booming, you know. He's getting rich selling— he he buys dragon dragon scales from Zvervinka, sells them in port to halfling traders. He's very interested in talking to Wellby, because he's talked to many halflings before, because he sells these to halfling traders who are taking them all across the Green Sea."
+        },
+        {
+          "startUid": "u1185",
+          "endUid": "u1188",
+          "quote": "And he brings—he gets spice. He works in dragon scales and spice because they’re both extremely valuable per pound, so he doesn't need a huge operation. It's basically just him. And like 4 other people in one big wagon and you know he's he's quite chatty. He's friendly. He's very pleased to be traveling with you."
+        }
+      ],
+      "duration": {
+        "text": "a couple of days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narration of completed travel with Karel, not the earlier thirteen-day forecast"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1193",
+        "endUid": "u1198"
+      },
+      "reading": "During breakfast on the second journey morning, Karel blanks out for about twenty minutes.",
+      "evidence": [
+        {
+          "startUid": "u1193",
+          "endUid": "u1198",
+          "quote": "The one slightly odd thing that happens is that the the morning of the first of the second day, as you're sort of making breakfast, he just like, blinks and stares off into space for about 20 min, just not speaking, totally incommunicative, and then just picks up again a second later, as if he had— like the time has just ceased for him for 20 min. And kind of shakes his head a bit, but doesn't say anything."
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit duration of the observed lapse"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM corrects first to second day at breakfast",
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t07",
+          "anchor": "Second morning of the journey; first/second wording corrected in the same turn"
+        }
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1237",
+        "endUid": "u1241"
+      },
+      "reading": "The energy thread seen after Karel’s lapse fades completely about ten minutes later.",
+      "evidence": [
+        {
+          "startUid": "u1237",
+          "endUid": "u1241",
+          "quote": "It's like almost like while his, while he went silent for 20 min, was when it was being—energy was being drawn, and then when he soul sighted him, it was like the end of that, and it was fading, and like 10 min later, you don't see anything. You would only notice this if you soul sighted somebody just at this moment."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly says ten minutes later after the end of the lapse"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "after",
+          "reference": "t09",
+          "anchor": "End of Karel’s twenty-minute lapse",
+          "offset": {
+            "value": 10,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "Explicit ten minutes later"
+          }
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1252",
+        "endUid": "u1263"
+      },
+      "reading": "A couple of days later the party parts from Karel at the riverside trading post and turns west.",
+      "evidence": [
+        {
+          "startUid": "u1252",
+          "endUid": "u1263",
+          "quote": "So a couple days later, you you part ways with the caravan at a small trading post on the river. The road turns south— splits. Part goes south, part goes west. There's big docks here. You get the sense that, in a month a lot of people will be going down the river by water, but at the moment the, the ice is, it's, you're— as you get into the lowlands here, you know it's more fully spring, a lot of mud. The ice is beginning to break up, but still not safe for shipping, and you turn west towards Vedmakov. I'm—"
+        }
+      ],
+      "duration": {
+        "text": "a couple days later",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated advance after the second-morning scene; not an additional exact trip total"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1276",
+        "endUid": "u1285"
+      },
+      "reading": "A few days after turning west, the party bypasses Vedmakov six miles to its north.",
+      "evidence": [
+        {
+          "startUid": "u1276",
+          "endUid": "u1285",
+          "quote": "Am— You passed by the city of Vedmakov a few days later. It's a walled city that's—you don't actually pass, you'll, you pass like 6 miles north of it. You're passing along the sort of foothills of this, like between the forest and these hills, and the city itself is set up a little bit into the hills, into the mountains, watching over this, this valley you've been—you're, you've been following the course of this river. The road runs along the course of this river here for much of this distance along the valley, and the city itself is perched above the river valley very close to a waterfall that cascades down out of the mountains. That must be the source of this river,"
+        }
+      ],
+      "duration": {
+        "text": "a few days later",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM’s advance along the westbound road"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1286",
+        "endUid": "u1292"
+      },
+      "reading": "West of Vedmakov, a whole day of travel passes with only one other group encountered.",
+      "evidence": [
+        {
+          "startUid": "u1286",
+          "endUid": "u1292",
+          "quote": "Because, as you pass west of Vedmakov, you turn away from the river, and start passing through a more wooded area. Light woods. A road here hardly traveled at all. You go a whole day, seeing only one other group of travelers on the road, and no patrols. Hmm!"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Explicit whole day of travel"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1302",
+        "endUid": "u1317"
+      },
+      "reading": "The party passes Yamgov on April 30, then heads overland as April ends and May begins.",
+      "evidence": [
+        {
+          "startUid": "u1302",
+          "endUid": "u1317",
+          "quote": "And as April begins to draw to a close, pass— on on the the last day of April you pass Yamgov, as April ends and May begins, you turn over land to ascend the last 40 miles or so to the headquarters of of the— that's, it's probably more like there, right? It's about 40 miles from from Yamgov, maybe 50. It's about a, it's about a, you know, 2-day journey, basically."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM explicitly says last day of April for passing Yamgov; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 30
+        }
+      }
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1318",
+        "endUid": "u1328"
+      },
+      "reading": "The party spends May 1 trudging through muddy countryside toward Voknaz headquarters.",
+      "evidence": [
+        {
+          "startUid": "u1318",
+          "endUid": "u1328",
+          "quote": "It's gotten warm over the course of this almost 2 weeks that you've been traveling. Not— not exactly, you know, certainly nothing like summer in Dunmar, but the snows are now, are completely melted. There was even one day when there was light rains. You can see the buds are beginning to come out on trees, on the— you know the grasses and the the landscape is beginning to turn green, as early, early, you know, spring flowers are in bloom, as you spend the first day of May trudging again, still somewhat muddy, trudging through the mud."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Spoken first day of May; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 1
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1329",
+        "endUid": "u1342"
+      },
+      "reading": "At sunset on May 1 the party sees the fiery headquarters in the distance and goes to sleep nearby.",
+      "evidence": [
+        {
+          "startUid": "u1329",
+          "endUid": "u1337",
+          "quote": "And you can see now, as, as sun begins to set on the on the last day of— on the first day of May, you can see you’ve gotten fairly close. You can see, as sun sets in the distance, what looks like a flickering wall of fire marking, you think the headquarters of the Rodnya Voknaz."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1342",
+          "quote": "Go to sleep when— no, nothing happens except Kong, read the message I'm sending you."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM corrects last day to first day of May in the same sunset narration; year from YAML.",
+        "partOfDay": "sunset",
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 1
+        }
+      },
+      "completion": "begun"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1343",
+        "endUid": "u1355"
+      },
+      "reading": "Morning on May 2 follows the countryside overnight; the headquarters should be reached that afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1343",
+          "endUid": "u1355",
+          "quote": "So you're now maybe two-thirds of a day's walk to, as morning comes on, May second, you expect to reach the headquarters of the of the Voknaz. The Rodnya Voknaz this afternoon, and you can see now there's a in in the distance, maybe 20 miles away, perched on a hill. There's a smooth—there's a wall of stone, or some sort of wall, outer fortification, and then behind it there's like a floating tower that has a wall of flame entirely encircling the outside of the tower."
+        },
+        {
+          "startUid": "u1375",
+          "endUid": "u1376",
+          "quote": "You're sleeping just in the Urskan countryside, about a 15 miles from the headquarters of the Rodnya Voknaz."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Spoken morning comes on May second; year from YAML.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 2
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1449",
+        "endUid": "u1455"
+      },
+      "reading": "After walking during May 2, the party reaches Voknaz headquarters in late afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1449",
+          "endUid": "u1455",
+          "quote": "So as you spend the day walking towards the headquarters of the Rodnya Voknaz with this ominous sign in the back of your minds, by late afternoon you reach I guess, the entrance."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s late-afternoon arrival after the May 2 morning; year from YAML.",
+        "partOfDay": "late afternoon",
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 2
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u1481",
+        "endUid": "u1494"
+      },
+      "reading": "About a minute of waiting at the wall passes before the housekeeper opens a portal.",
+      "evidence": [
+        {
+          "startUid": "u1481",
+          "endUid": "u1494",
+          "quote": "About a minute later a portal just opens in the middle of the wall, and an elderly woman steps through wearing, you know, white hair up in a bun, sort of a wrinkled face. She's wearing simple but well made, and, you know, clearly warm robes. She sort of gives you one look, taking in the elf, 2 dwarves, a halfling."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit about a minute later"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u1582",
+        "endUid": "u1586"
+      },
+      "reading": "Two hours are available and spent washing and discussing the dinner before the party heads over.",
+      "evidence": [
+        {
+          "startUid": "u1582",
+          "endUid": "u1586",
+          "quote": "And she says, she warns you, and dinner will be served in 2 h. Please be ready. Branek does not like to be kept waiting. I'll come and get you take you to dinner. You can speak of your quest and desires then."
+        },
+        {
+          "startUid": "u1618",
+          "endUid": "u1618",
+          "quote": "2 h, while everybody takes baths."
+        },
+        {
+          "startUid": "u1760",
+          "endUid": "u1761",
+          "quote": "Okay, sounds great. You all head across the courtyard to dinner."
+        },
+        {
+          "startUid": "u1762",
+          "endUid": "u1763",
+          "quote": "You walk into the into the sort of dining hall area, and it's a it's a relatively quiet dinner. There's."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Dinner in two hours, with the same two-hour bathing/planning interval explicitly acknowledged"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u1857",
+        "endUid": "u1859"
+      },
+      "reading": "About half an hour into dinner, Branek turns from hospitality to business.",
+      "evidence": [
+        {
+          "startUid": "u1857",
+          "endUid": "u1859",
+          "quote": "As the, A, after the meals gone on for about half an hour, and, and you sort of had your small talk and your food, let us talk business."
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit meals gone on about half an hour"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u2468",
+        "endUid": "u2476"
+      },
+      "reading": "After dinner and returning to quarters, sleep is interrupted overnight by an invisible visitor before the next breakfast.",
+      "evidence": [
+        {
+          "startUid": "u2468",
+          "endUid": "u2473",
+          "quote": "So one more thing happens overnight before we get back to the— there is a cool— quiet— you are—"
+        },
+        {
+          "startUid": "u2474",
+          "endUid": "u2476",
+          "quote": "I guess. Let's see, I don't know where everybody's sleeping but, Kenzo, and whoever's sleeping in the room, Kenzo's room are quietly awoken, somebody gently shaking your so—shoulder. Somebody invisible, you can't see them, and there's like—"
+        },
+        {
+          "startUid": "u2825",
+          "endUid": "u2831",
+          "quote": "Perhaps a few hours is not a problem, before you speak to Branek in the morning. You will not have the opportunity to vanish after that. Or Ludmila comes to wake you for breakfast. You must be gone."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Spoken overnight interruption and deadline before the morning visit; no clock or civil date is spoken here.",
+        "partOfDay": "overnight",
+        "relative": {
+          "relation": "after",
+          "reference": "t21",
+          "anchor": "Night after the May 2 dinner, before the next breakfast"
+        }
+      },
+      "completion": "interrupted"
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u3018",
+        "endUid": "u3022"
+      },
+      "reading": "The secret conversation has lasted about half an hour when the visitor prepares to depart.",
+      "evidence": [
+        {
+          "startUid": "u3018",
+          "endUid": "u3022",
+          "quote": "So he gives you all this, and this conversation is, you know, been half an hour or something now, and he says: I cannot linger much longer. I leave you these. He left the 2 vials. And I— unless you have any more questions for him, he's about to vanish and say—"
+        },
+        {
+          "startUid": "u3036",
+          "endUid": "u3042",
+          "quote": "Leave you with these 2 teleportation tokens, and I hope that you are gone in the morning. You are gone, I will know. But, I know I ask a lot, and I will leave you to deliberate."
+        },
+        {
+          "startUid": "u3043",
+          "endUid": "u3047",
+          "quote": "If you wish to do so without risk of eavesdropping, have any magic? Believe I can mask the casting of one spell."
+        },
+        {
+          "startUid": "u3048",
+          "endUid": "u3050",
+          "quote": "Cast your—past your telepathy spell there."
+        },
+        {
+          "startUid": "u3051",
+          "endUid": "u3052",
+          "quote": "Oh, yeah. Okay."
+        },
+        {
+          "startUid": "u3053",
+          "endUid": "u3053",
+          "quote": "And with that he vanishes, leaving you to make your decision before everybody goes to bed, so I know which adventure I'm writing for tomorrow. Next time."
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit conversation been half an hour now; counts the meeting once"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "April 18, 19, 20, April 30, May 1 and May 2 are independently spoken. The year is YAML-derived. Opening Wednesday fits April 15. The final overnight visit is not given a civil date or clock in this transcript.",
+    "expectedDateBoundaries": 18,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11",
+      "t12",
+      "t13",
+      "t14",
+      "t15",
+      "t16",
+      "t17",
+      "t18",
+      "t19",
+      "t20",
+      "t21",
+      "t22",
+      "t23"
+    ],
+    "explanation": "The journey and dated anchors fit April 15–May 3. The closing scene follows the May 2 dinner before next breakfast, but does not itself establish that midnight has passed. Approximate intervening travel is not converted into invented exact days; YAML end does not supply an extra elapsed night."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t22",
+        "t23"
+      ],
+      "reading": "The final played overnight interruption is after the May 2 dinner and before the next breakfast; its civil date remains unspoken.",
+      "alternatives": [
+        {
+          "reading": "Late on the evening of May 2, after falling asleep.",
+          "date": "1749-05-02"
+        },
+        {
+          "reading": "After midnight, early on May 3, before breakfast.",
+          "date": "1749-05-03"
+        }
+      ]
+    }
+  ]
+}
