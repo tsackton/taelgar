@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-112",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-session.yaml",
+    "sessionYamlSha256": "fd204fef57db79ab69dbac2522ec09d7267f91b490142f9a95fb1818cd284fe8",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-transcript.md",
+    "transcriptSha256": "f80dd00d54f72e40a2ab34310f34c6740f851bead8784b059f9f3bfe0baae5f3"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0356"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0357",
+        "endUid": "u1260"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1261",
+        "endUid": "u1383"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1384",
+        "endUid": "u4188"
+      },
+      "category": "combat",
+      "note": "Initiative setup includes the accepted retrospective advance flight of the ladder before the simultaneous Dimension Doors."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u4189",
+        "endUid": "u4265"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u4266",
+        "endUid": "u4334"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u4335",
+        "endUid": "u4347"
+      },
+      "category": "table_talk",
+      "note": "The final advice-ritual suggestion is inseparable from closing housekeeping and is deferred to next session."
+    }
+  ]
+}

@@ -1,0 +1,1375 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-112",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-session.yaml",
+    "sessionYamlSha256": "fd204fef57db79ab69dbac2522ec09d7267f91b490142f9a95fb1818cd284fe8",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-transcript.md",
+    "transcriptSha256": "f80dd00d54f72e40a2ab34310f34c6740f851bead8784b059f9f3bfe0baae5f3",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-segments.json",
+      "sha256": "73748bc97dbd5644524e5132a4be7e9fe2a4aa45295833df3fe5f1dea4f418e0",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Bizarro Delwath in the Sapphire Tower",
+      "openingActions": [
+        {
+          "actor": "simulacrum Delwath",
+          "kind": "event",
+          "summary": "Before teleporting, casts Invisibility on Kenzo, Riswynn, real Delwath and himself, and Armor of Agathys on himself; uses Magical Cunning to recover slots. Seeker is visible because he casts Teleport. Invisible participants roll initiative with advantage.",
+          "evidence": [
+            {
+              "startUid": "u0358",
+              "endUid": "u0382"
+            },
+            {
+              "startUid": "u0403",
+              "endUid": "u0460"
+            }
+          ]
+        },
+        {
+          "actor": "party",
+          "kind": "event",
+          "summary": "Teleports into the tower control chamber beside Bizarro Delwath. His black-marble return token must be removed before he is killed; incapacitation makes removal automatic, otherwise DC 15 Sleight of Hand is required.",
+          "evidence": [
+            {
+              "startUid": "u0463",
+              "endUid": "u0474"
+            },
+            {
+              "startUid": "u0538",
+              "endUid": "u0555"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits Bizarro Delwath with the Wayfarer bow for 24 damage; the proposed extra 12 fire damage is withdrawn because the old bowstring is incompatible. Bizarro Delwath fails DC 18 Constitution and is dazed: next turn he can only move, act or use a bonus action. The hit grants allies advantage on subsequent attacks.",
+              "evidence": [
+                {
+                  "startUid": "u0476",
+                  "endUid": "u0527"
+                },
+                {
+                  "startUid": "u0678",
+                  "endUid": "u0680"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Fist of Planar Power forces a failed Strength save, deals 21 psychic damage and pushes Bizarro Delwath about 10 feet from the controls. Crossing the runic circle initially fails Dexterity, but a heroic reroll plus Seeker’s bardic bonus reaches 21 and avoids the flaming-rope grapple. With advantage, the staff hits for 15; three unarmed strikes miss once and hit for 9 and 11. The announced enemy Shield is withdrawn after the higher advantage roll is clarified.",
+              "evidence": [
+                {
+                  "startUid": "u0579",
+                  "endUid": "u0702"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Grants Kenzo d12 Bardic Inspiration against the fire-rope Dexterity save; it adds 2, retained when Kenzo uses heroic inspiration to reroll the save.",
+              "evidence": [
+                {
+                  "startUid": "u0630",
+                  "endUid": "u0661"
+                }
+              ]
+            },
+            {
+              "actor": "simulacrum Delwath",
+              "kind": "turn",
+              "summary": "Moves around the trapped circle and attacks with advantage: hits for 10 and 11, then critically hits and casts Banishing Smite for 64 damage on that strike. The target falls below 50 HP and fails the Charisma save with 17, vanishing into a demiplane. Concentrating on Banishing Smite ends the group’s Invisibility.",
+              "evidence": [
+                {
+                  "startUid": "u0703",
+                  "endUid": "u0788"
+                },
+                {
+                  "startUid": "u0823",
+                  "endUid": "u0836"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Delwath",
+              "kind": "reaction",
+              "summary": "Counterspells the simulacrum’s Banishing Smite; the simulacrum succeeds on the DC 18 Constitution save, so Counterspell fails.",
+              "evidence": [
+                {
+                  "startUid": "u0744",
+                  "endUid": "u0759"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Investigates the runic controls with Arcana 23; identifies a complicated lightning-tower control/power system but cannot operate it in this brief inspection. Puts on his goggles and positions behind a pillar; Ladder and stone construct reposition nearby.",
+              "evidence": [
+                {
+                  "startUid": "u0797",
+                  "endUid": "u0821"
+                },
+                {
+                  "startUid": "u0840",
+                  "endUid": "u0851"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves beside the location where Bizarro Delwath will return. His existing Font of Moonlight gives a faint moonlit glow and extra sword damage, with ten minutes’ duration.",
+              "evidence": [
+                {
+                  "startUid": "u0823",
+                  "endUid": "u0839"
+                },
+                {
+                  "startUid": "u0868",
+                  "endUid": "u0869"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves to the anticipated return point to help seize the amulet.",
+              "evidence": [
+                {
+                  "startUid": "u0852",
+                  "endUid": "u0869"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Investigates the vine-filled trapdoor, which drops beyond darkvision. Fails the Dexterity save and is grappled/restrained by thorny vines; 11 piercing damage is corrected to 5 after the table applies half damage. Uncanny Dodge is rejected because this was a save.",
+              "evidence": [
+                {
+                  "startUid": "u0926",
+                  "endUid": "u0951"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Studies a crystal pillar with goggles and advantage, rolling Arcana 26. Identifies ordinary crystal/glass channeling lightning to a ceiling lens and continuing down through the floor; does not learn how to operate the tower.",
+              "evidence": [
+                {
+                  "startUid": "u0973",
+                  "endUid": "u0995"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Escapes the vines using Acrobatics with advantage, retreats behind a pillar and hides. Watches the doors and exits for reinforcements.",
+              "evidence": [
+                {
+                  "startUid": "u0952",
+                  "endUid": "u0972"
+                },
+                {
+                  "startUid": "u1008",
+                  "endUid": "u1009"
+                }
+              ]
+            },
+            {
+              "actor": "party",
+              "kind": "event",
+              "summary": "Prepares for the enemy’s return: Seeker readies fourth-level Rune of Psychic Disruption; Kenzo, Riswynn and the stone construct prepare token grabs. Delwath readies an attack conditional on a successful token removal; it does not trigger during the failed initial grabs.",
+              "evidence": [
+                {
+                  "startUid": "u0996",
+                  "endUid": "u1037"
+                },
+                {
+                  "startUid": "u1107",
+                  "endUid": "u1132"
+                }
+              ]
+            },
+            {
+              "actor": "simulacrum Delwath",
+              "kind": "event",
+              "summary": "Drops concentration on his turn, returning Bizarro Delwath to the same spot before the full one-minute banishment expires.",
+              "evidence": [
+                {
+                  "startUid": "u1038",
+                  "endUid": "u1056"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Releases Rune of Psychic Disruption. Succeeds on Constitution against the enemy Counterspell; Bizarro Delwath uses heroic inspiration to succeed on the DC 18 Intelligence save, taking 11 psychic damage without incapacitation.",
+              "evidence": [
+                {
+                  "startUid": "u1056",
+                  "endUid": "u1105"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Delwath",
+              "kind": "reaction",
+              "summary": "Uses Subtle Spell Counterspell against Seeker’s readied rune. Seeker’s Constitution roll of 20 beats DC 18, so the Counterspell fails.",
+              "evidence": [
+                {
+                  "startUid": "u1056",
+                  "endUid": "u1080"
+                }
+              ]
+            },
+            {
+              "actor": "stone construct",
+              "kind": "reaction",
+              "summary": "Attempts to steal the return amulet, but its Dexterity check of 10 fails. Stony Lethargy is discussed but not triggered.",
+              "evidence": [
+                {
+                  "startUid": "u1109",
+                  "endUid": "u1124"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Attempts the readied Sleight of Hand grab, rolls 7 and fails.",
+              "evidence": [
+                {
+                  "startUid": "u1125",
+                  "endUid": "u1130"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "reaction",
+              "summary": "Also fails to grab the amulet; nobody succeeds in this initial flurry.",
+              "evidence": [
+                {
+                  "startUid": "u1129",
+                  "endUid": "u1132"
+                }
+              ]
+            },
+            {
+              "actor": "simulacrum Delwath",
+              "kind": "turn",
+              "summary": "After the failed readied grabs, succeeds at Sleight of Hand with 21 and removes the return amulet. Retreats behind Ladder; the enemy has already spent his reaction and cannot make an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u1133",
+                  "endUid": "u1182"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Directs his companions to attack rather than spend another spell.",
+              "evidence": [
+                {
+                  "startUid": "u1183",
+                  "endUid": "u1201"
+                },
+                {
+                  "startUid": "u1230",
+                  "endUid": "u1231"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Hits Bizarro Delwath for 7 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1197",
+                  "endUid": "u1213"
+                }
+              ]
+            },
+            {
+              "actor": "stone construct",
+              "kind": "turn",
+              "summary": "Critically hits Bizarro Delwath for 16 damage; its second attack, 16 to hit, misses.",
+              "evidence": [
+                {
+                  "startUid": "u1214",
+                  "endUid": "u1229"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks three times, with two misses and one hit for 25 damage. Bizarro Delwath disintegrates while the simulacrum holds his amulet. Delwath backs away from the dust and vines.",
+              "evidence": [
+                {
+                  "startUid": "u1233",
+                  "endUid": "u1260"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Bizarro Delwath vanishes into white dust with his return token removed. His final threat claims the skyship is open to teleportation; Faldrick has reported no attack. Bizarro Delwath never takes a regular turn.",
+        "evidence": [
+          {
+            "startUid": "u1241",
+            "endUid": "u1260"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s004",
+      "encounter": "The remaining doppelgangers by the docks",
+      "openingActions": [
+        {
+          "actor": "assault group",
+          "kind": "event",
+          "summary": "Synchronizes the Dimension Door arrivals; Ladder is sent ahead to fly across and Wellby remains on the exterior tower roof. The visible enemies are Dark Ladder, a fiery metal construct and a dark Summon Celestial angel about 80 feet up. The four remaining doubles initially hide behind walls or the tree.",
+          "evidence": [
+            {
+              "startUid": "u1384",
+              "endUid": "u1467"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Bizarro Seeker",
+              "kind": "turn",
+              "summary": "Casts Rune of Psychic Disruption on real Delwath, who succeeds on Intelligence with 18 and takes 11 psychic damage. His construct and ladder advance; these are regular initiative actions, not held attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1556",
+                  "endUid": "u1600"
+                }
+              ]
+            },
+            {
+              "actor": "fiery metal construct",
+              "kind": "turn",
+              "summary": "Attacks Delwath twice: Shield makes the first attack, 22 to hit, miss; the second hits with 28 for 11 damage. Delwath maintains concentration, and Armor of Agathys returns 25 cold damage to the construct.",
+              "evidence": [
+                {
+                  "startUid": "u1601",
+                  "endUid": "u1621"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield against the construct’s first attack, turning that hit into a miss. Cannot also spend his reaction on a second effect.",
+              "evidence": [
+                {
+                  "startUid": "u1606",
+                  "endUid": "u1609"
+                },
+                {
+                  "startUid": "u1640",
+                  "endUid": "u1642"
+                }
+              ]
+            },
+            {
+              "actor": "Dark Ladder",
+              "kind": "turn",
+              "summary": "Advances and attacks Delwath with 18 to hit, missing.",
+              "evidence": [
+                {
+                  "startUid": "u1562",
+                  "endUid": "u1566"
+                },
+                {
+                  "startUid": "u1622",
+                  "endUid": "u1628"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Wellby",
+              "kind": "turn",
+              "summary": "Shoots Seeker for 33 piercing damage, then hides with 25 against Wellby’s passive Perception 23. The apparent rubble is corrected to a tree: the Hallucinatory Terrain vanished with Bizarro Delwath’s death. No blinding or dazing effect is applied.",
+              "evidence": [
+                {
+                  "startUid": "u1630",
+                  "endUid": "u1709"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "From the tower roof, shoots and kills the already injured fiery construct, avoiding its melee retaliation effect. No damage total is stated.",
+              "evidence": [
+                {
+                  "startUid": "u1717",
+                  "endUid": "u1739"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs and bonus-action dashes around the large tree to locate Bizarro Wellby. His first attack initially rolls 13, but Bardic Inspiration raises it to 22; hits for 9 and stuns the double after a failed DC 16 Constitution save (7). Second attack with advantage hits for 14. The stun lasts until the start of Kenzo’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1740",
+                  "endUid": "u1876"
+                },
+                {
+                  "startUid": "u1938",
+                  "endUid": "u1946"
+                }
+              ],
+              "note": "Kenzo accepts provoking Dark Ladder while moving away, but no opportunity attack roll or result is resolved in this passage."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Provides Bardic Inspiration, raising Kenzo’s first attack against Bizarro Wellby to a successful 22.",
+              "evidence": [
+                {
+                  "startUid": "u1821",
+                  "endUid": "u1829"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "After Bizarro Wellby threatens Fausto’s possible teleportation, asks Faldrick to prepare for an attack and give a continuous telepathic report from the ship. The taunt does not establish an attack on the ship.",
+              "evidence": [
+                {
+                  "startUid": "u1869",
+                  "endUid": "u1888"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Kenzo",
+              "kind": "turn",
+              "summary": "Runs from behind a wall and hits simulacrum Delwath for 10 bludgeoning. The simulacrum declines Shield, fails Constitution with 7 and is stunned; Armor of Agathys returns 25 cold damage to the attacker. Bizarro Kenzo turns to Riswynn and resolves three hits for a stated total of 31 damage; the table accepts that outcome despite one announced attack roll being 23 against AC 24.",
+              "evidence": [
+                {
+                  "startUid": "u1889",
+                  "endUid": "u1923"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Abandons the Mage Hand token-grab plan because walls block movement and sight. Moves through an ally’s space to attack Bizarro Kenzo, bonus-action Hexes him, hits first for 30 before deflection reduces it to 4, misses second, then hits with a smite for 50 and knocks him prone.",
+              "evidence": [
+                {
+                  "startUid": "u1954",
+                  "endUid": "u2055"
+                },
+                {
+                  "startUid": "u3426",
+                  "endUid": "u3430"
+                },
+                {
+                  "startUid": "u3988",
+                  "endUid": "u3989"
+                }
+              ],
+              "note": "The later estimate of “80 something” overlooks the first hit’s explicit reduction. Hex is accepted here, while Font of Moonlight is described as concentration at u0831–u0832 and still active at u3426–u3430/u3988–u3989; the table does not reconcile those spell states."
+            },
+            {
+              "actor": "Bizarro Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects Delwath’s first sword hit, reducing 30 damage to 4.",
+              "evidence": [
+                {
+                  "startUid": "u2022",
+                  "endUid": "u2027"
+                }
+              ]
+            },
+            {
+              "actor": "simulacrum Delwath",
+              "kind": "turn",
+              "summary": "Is stunned and cannot act on his regular turn.",
+              "evidence": [
+                {
+                  "startUid": "u2016",
+                  "endUid": "u2018"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses a fifth-level Rune of Psychic Disruption against Bizarro Kenzo. Even with heroic inspiration, the target’s Intelligence 16 fails DC 18, incapacitating him until the start of Seeker’s next turn. No resolved damage total is stated.",
+              "evidence": [
+                {
+                  "startUid": "u2073",
+                  "endUid": "u2099"
+                }
+              ]
+            },
+            {
+              "actor": "stone construct",
+              "kind": "turn",
+              "summary": "Moves to incapacitated Bizarro Kenzo and removes his return amulet as its action.",
+              "evidence": [
+                {
+                  "startUid": "u2100",
+                  "endUid": "u2117"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Dashes to reach the fight near Dark Ladder; no attack result is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u2118",
+                  "endUid": "u2136"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Runs 30 feet and tunnels 30 feet with her belt, emerging by the tree. Takes stunned Bizarro Wellby’s return amulet automatically. A tremor is discussed but no saving throws or prone result are resolved.",
+              "evidence": [
+                {
+                  "startUid": "u2148",
+                  "endUid": "u2184"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Riswynn",
+              "kind": "turn",
+              "summary": "Emerges from a building outside 60-foot Counterspell range and casts seventh-level Dispel Magic on simulacrum Delwath, causing him to vanish. The proposed fire spell is abandoned to retain the celestial summon.",
+              "evidence": [
+                {
+                  "startUid": "u2231",
+                  "endUid": "u2278"
+                }
+              ]
+            },
+            {
+              "actor": "dark angel",
+              "kind": "turn",
+              "summary": "Fires three arrows: misses Delwath once, hits him for 13 radiant before his stated radiant resistance, and hits Seeker for 12 radiant. Seeker succeeds on the concentration save with advantage, preserving the stone construct and its held amulet. Flies another 40 feet upward.",
+              "evidence": [
+                {
+                  "startUid": "u2185",
+                  "endUid": "u2223"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Bizarro Seeker",
+              "kind": "turn",
+              "summary": "Moves to obtain a clear path while staying outside Counterspell range and casts Slow on Delwath, Seeker, Ladder and the stone construct. Delwath and Seeker both succeed on Wisdom 18; the construct (2) and Ladder (14) fail and are slowed.",
+              "evidence": [
+                {
+                  "startUid": "u2283",
+                  "endUid": "u2346"
+                }
+              ]
+            },
+            {
+              "actor": "Dark Ladder",
+              "kind": "turn",
+              "summary": "Moves away from Delwath and Ladder to attack Seeker. Despite opportunity attacks, reaches Seeker and hits for 13 damage. Seeker fails Constitution/concentration; his stone construct vanishes and Bizarro Kenzo’s amulet falls to the ground.",
+              "evidence": [
+                {
+                  "startUid": "u2347",
+                  "endUid": "u2410"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "reaction",
+              "summary": "Opportunity attack hits Dark Ladder with 19; damage is given only as 1d10+5, with no resolved total.",
+              "evidence": [
+                {
+                  "startUid": "u2359",
+                  "endUid": "u2367"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Eldritch Blast as his opportunity reaction against Dark Ladder: two beams hit and one misses, dealing 15 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2368",
+                  "endUid": "u2382"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Wellby",
+              "kind": "turn",
+              "summary": "Runs away while still stunned; the table allows movement but no actions. Provokes attacks from Kenzo and Riswynn and taunts them about hidden plague-echo runes.",
+              "evidence": [
+                {
+                  "startUid": "u2412",
+                  "endUid": "u2455"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "With advantage, hits fleeing Bizarro Wellby for 9 damage. Cannot add a further on-turn attack feature.",
+              "evidence": [
+                {
+                  "startUid": "u2417",
+                  "endUid": "u2430"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "reaction",
+              "summary": "Hits fleeing Bizarro Wellby with Shatterstorm/Booming Blade for a stated 35 damage, including the movement-triggered damage.",
+              "evidence": [
+                {
+                  "startUid": "u2432",
+                  "endUid": "u2450"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots prone Bizarro Kenzo for 32 damage; prone cancels the attack’s advantage, so no advantage is applied.",
+              "evidence": [
+                {
+                  "startUid": "u2456",
+                  "endUid": "u2496"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Catches Bizarro Wellby and hits for 15. The target still fails the Constitution stun save after heroic inspiration; remaining attacks with advantage deal 10, 7, 9 and 8. Bizarro Wellby becomes bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u2502",
+                  "endUid": "u2559"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Kenzo",
+              "kind": "turn",
+              "summary": "Despite incapacitation, the table allows him to stand from prone and run 30 feet. Cannot recover his fallen amulet or take actions/reactions. Delwath has already used his reaction and makes no opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u2504",
+                  "endUid": "u2514"
+                },
+                {
+                  "startUid": "u2560",
+                  "endUid": "u2569"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Picks up Bizarro Kenzo’s fallen return amulet as a free object interaction. Pursues and attacks three times with advantage, accepted by the DM because the target cannot react; deals 79 damage and the double crumbles to stone.",
+              "evidence": [
+                {
+                  "startUid": "u2570",
+                  "endUid": "u2593"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Attempts to grapple Dark Ladder; the target’s Strength save of 19 succeeds, so no grapple is established.",
+              "evidence": [
+                {
+                  "startUid": "u2598",
+                  "endUid": "u2613"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fifth-level Rune of Psychic Disruption at Bizarro Riswynn. Her natural-20 Intelligence save succeeds; the final corrected half damage is 12 psychic, not 25.",
+              "evidence": [
+                {
+                  "startUid": "u2614",
+                  "endUid": "u2658"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves 30 feet and replaces proposed Guiding Bolt with Wall of Fire around Bizarro Riswynn. The target fails Dexterity, maintains concentration and takes 15 fire damage after resistance halves the announced 30.",
+              "evidence": [
+                {
+                  "startUid": "u2697",
+                  "endUid": "u2750"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Riswynn",
+              "kind": "turn",
+              "summary": "Runs through the fire wall, taking further Wall of Fire damage (17 is announced during the halving discussion). Casts Blindness/Deafness on nearby PCs: only Delwath and Seeker remain blinded after Constitution saves; Kenzo’s 23 succeeds, Riswynn also succeeds, and Wellby is out of range. The blindness is not concentration.",
+              "evidence": [
+                {
+                  "startUid": "u2751",
+                  "endUid": "u2803"
+                },
+                {
+                  "startUid": "u2870",
+                  "endUid": "u2871"
+                },
+                {
+                  "startUid": "u3258",
+                  "endUid": "u3262"
+                }
+              ],
+              "note": "The exact applied second fire total is not explicit after the interrupted halving discussion at u2796–u2800."
+            },
+            {
+              "actor": "dark angel",
+              "kind": "turn",
+              "summary": "On Bizarro Riswynn’s turn, fires three arrows: resolves 18 radiant damage to Delwath, halved by resistance, and 10 radiant to Seeker. This omitted action is narrated later and is placed with its original triggering turn.",
+              "evidence": [
+                {
+                  "startUid": "u2751",
+                  "endUid": "u2803"
+                },
+                {
+                  "startUid": "u2849",
+                  "endUid": "u2859"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Bizarro Seeker",
+              "kind": "turn",
+              "summary": "Claims there is no adamantine left in the city, then casts Rune of Psychic Disruption on Riswynn. She fails Intelligence even after heroic inspiration, takes 27 psychic damage and is incapacitated until his next turn. Her concentration ends and Wall of Fire vanishes. He runs away.",
+              "evidence": [
+                {
+                  "startUid": "u2801",
+                  "endUid": "u2843"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Wellby",
+              "kind": "turn",
+              "summary": "Still stunned, moves away to draw Kenzo away from the rest of the fight.",
+              "evidence": [
+                {
+                  "startUid": "u2841",
+                  "endUid": "u2847"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Opportunity attack with advantage deals 9 damage to fleeing Bizarro Wellby; the amount is confirmed after the retrospective angel attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2844",
+                  "endUid": "u2848"
+                },
+                {
+                  "startUid": "u2860",
+                  "endUid": "u2860"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots Bizarro Seeker for 25 damage. Attempts to daze him, but heroic inspiration produces Constitution 19 against DC 18, preventing the daze.",
+              "evidence": [
+                {
+                  "startUid": "u2886",
+                  "endUid": "u2932"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Continues attacking Bizarro Wellby. First hit deals 16, but the double’s Constitution 17 (with the DM remembering bardic support) resists the stun. Without advantage, four more hits deal 12, 10, 11 and 7; the double barely survives.",
+              "evidence": [
+                {
+                  "startUid": "u2950",
+                  "endUid": "u3007"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Wellby",
+              "kind": "reaction",
+              "summary": "Now free from stun, uses Skirmisher to move half speed away from Kenzo without opportunity attacks, continuing to taunt about the city’s traps.",
+              "evidence": [
+                {
+                  "startUid": "u3001",
+                  "endUid": "u3007"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Cures his own blindness with bonus-action Lesser Restoration, moves 30 feet, and casts Scatter from his non-slot feature. Repositions himself, Seeker, Riswynn and Ladder toward Bizarro Seeker while placing Dark Ladder away from the group after a failed DC 18 Wisdom save. Does not attack this turn. The angel is too high to include.",
+              "evidence": [
+                {
+                  "startUid": "u3008",
+                  "endUid": "u3086"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Moves beside Bizarro Seeker and hits for 7 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3087",
+                  "endUid": "u3113"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Rune of Irresistible Curiosity using a sixth-level slot. Bizarro Seeker rolls Wisdom 2 and becomes charmed and unable to move, with disadvantage on attacks and Dexterity saves; attacks against him have advantage. The captive double mutters a plan for Fausto and eight allies to surprise Faldrick. Seeker is still blind and later fails the Constitution save to end it.",
+              "evidence": [
+                {
+                  "startUid": "u3114",
+                  "endUid": "u3159"
+                },
+                {
+                  "startUid": "u3177",
+                  "endUid": "u3183"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Is incapacitated and cannot act.",
+              "evidence": [
+                {
+                  "startUid": "u3120",
+                  "endUid": "u3120"
+                },
+                {
+                  "startUid": "u3162",
+                  "endUid": "u3162"
+                }
+              ]
+            },
+            {
+              "actor": "dark angel",
+              "kind": "turn",
+              "summary": "Hits Seeker with three arrows for a stated total of 36 damage. Seeker succeeds on all three concentration checks, retaining the curiosity rune; the DM calls it Psychic Disruption during the check, but the active concentration effect is the curiosity rune.",
+              "evidence": [
+                {
+                  "startUid": "u3163",
+                  "endUid": "u3191"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Riswynn",
+              "kind": "turn",
+              "summary": "Moves toward Kenzo and hits him with Guiding Bolt for an announced 27 radiant, all deflected to zero. The reflected energy is ultimately redirected to Bizarro Wellby rather than back to her, killing him.",
+              "evidence": [
+                {
+                  "startUid": "u3193",
+                  "endUid": "u3257"
+                },
+                {
+                  "startUid": "u3268",
+                  "endUid": "u3278"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Reduces Guiding Bolt’s 27 damage to zero and spends ki to redirect it. Originally announces 17 reflected damage to Bizarro Riswynn, then explicitly changes the target to Bizarro Wellby with DM acceptance; Wellby dies. Do not retain both targets as separate hits.",
+              "evidence": [
+                {
+                  "startUid": "u3224",
+                  "endUid": "u3257"
+                },
+                {
+                  "startUid": "u3268",
+                  "endUid": "u3278"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Bizarro Seeker",
+              "kind": "turn",
+              "summary": "Tries Dimension Door to escape the curiosity effect, but fails the saving throw against Delwath’s Counterspell with 2. Remains trapped and cannot otherwise move.",
+              "evidence": [
+                {
+                  "startUid": "u3280",
+                  "endUid": "u3308"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Counterspells Bizarro Seeker’s Dimension Door successfully. Seeker cannot provide the Counterspell because he is still blind. The table says the enemy retains the interrupted spell slot.",
+              "evidence": [
+                {
+                  "startUid": "u3282",
+                  "endUid": "u3304"
+                }
+              ]
+            },
+            {
+              "actor": "Dark Ladder",
+              "kind": "turn",
+              "summary": "Dashes 60 feet, flying over the walls back toward the group.",
+              "evidence": [
+                {
+                  "startUid": "u3309",
+                  "endUid": "u3313"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fires an arrow of seeking at Bizarro Seeker and moves/Cunning Action Dashes 180 feet closer from the tower to the battlefield edge. The target’s curiosity effect grants advantage; the attack is a hit without a critical.",
+              "evidence": [
+                {
+                  "startUid": "u3314",
+                  "endUid": "u3355"
+                }
+              ],
+              "note": "Wellby twice states 43 damage; the DM repeats 42 at u3345–u3346. The source does not explicitly settle that one-point discrepancy."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Closes on Bizarro Riswynn and attacks five times without advantage. Four miss her AC 24; the final natural-20 critical deals 15. Disrupting Strike targets Charisma; she fails with 9 and suffers the table’s minus d4 penalty until the start of Kenzo’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u3360",
+                  "endUid": "u3424"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses Distant Spell to deliver bonus-action Lesser Restoration to Seeker, ending his blindness while preserving Font of Moonlight. Closes on Bizarro Seeker and hits three times with advantage for 22, 16 and 22 damage, leaving him bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u3425",
+                  "endUid": "u3475"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves beside his distracted double and succeeds on the Dexterity check with advantage, taking Bizarro Seeker’s return amulet. Moves aside under Ladder to make space for Riswynn.",
+              "evidence": [
+                {
+                  "startUid": "u3476",
+                  "endUid": "u3514"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Hits Bizarro Seeker with 29 to hit for 11 damage and shifts to clear space; a retrospective position adjustment is accepted without replaying earlier actions.",
+              "evidence": [
+                {
+                  "startUid": "u3515",
+                  "endUid": "u3526"
+                },
+                {
+                  "startUid": "u3546",
+                  "endUid": "u3552"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Closes into melee, hits Bizarro Seeker with Shatterstorm for 30, then adds Searing Smite. The double melts into sand and dust and Dark Ladder collapses/vanishes. Uses her bonus action for the smite rather than the proposed healing to Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u3553",
+                  "endUid": "u3595"
+                },
+                {
+                  "startUid": "u3607",
+                  "endUid": "u3610"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Riswynn",
+              "kind": "turn",
+              "summary": "Touches Kenzo with a disease effect, but his Constitution save of 20 prevents the disease.",
+              "evidence": [
+                {
+                  "startUid": "u3599",
+                  "endUid": "u3618"
+                }
+              ]
+            },
+            {
+              "actor": "dark angel",
+              "kind": "turn",
+              "summary": "Fires three arrows at Seeker: two hits for 14 each knock him unconscious, and the third hit (19 to hit) inflicts one failed death save. Ladder remains active and goes into a protective frenzy because Seeker is unconscious rather than dead.",
+              "evidence": [
+                {
+                  "startUid": "u3620",
+                  "endUid": "u3651"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots Bizarro Riswynn and moves closer. Deals 28 damage and blinds her after a failed DC 18 Dexterity save; her heroic reroll also fails. Kenzo’s previous disrupting penalty expires.",
+              "evidence": [
+                {
+                  "startUid": "u3653",
+                  "endUid": "u3678"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks blinded Bizarro Riswynn with advantage: hits for 9, misses once, then flurry hits for 13, critically hits for 25 and hits for 8. Disrupting Strike fails against her Constitution 27. She becomes bloodied and retains concentration on the angel.",
+              "evidence": [
+                {
+                  "startUid": "u3680",
+                  "endUid": "u3727"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Transforms into a cloud of butterflies, flies across the battlefield and reforms near Bizarro Riswynn. Uses his whole turn for this movement.",
+              "evidence": [
+                {
+                  "startUid": "u3736",
+                  "endUid": "u3742"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "While unconscious, fails another death saving throw, now clinging to life with two failures including the arrow inflicted failure.",
+              "evidence": [
+                {
+                  "startUid": "u3743",
+                  "endUid": "u3752"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Heal on Seeker, restoring 70 HP and consciousness; may also move.",
+              "evidence": [
+                {
+                  "startUid": "u3753",
+                  "endUid": "u3766"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Riswynn",
+              "kind": "turn",
+              "summary": "Touches Kenzo with her last fifth-level disease spell. His initial Constitution 13 would cause 51 necrotic damage, poison and disadvantage on Constitution saves, but he spends ki to reroll to 22, accepted by the DM; the failed-save result is canceled. Her blinding condition ends by the next round.",
+              "evidence": [
+                {
+                  "startUid": "u3779",
+                  "endUid": "u3819"
+                },
+                {
+                  "startUid": "u3860",
+                  "endUid": "u3900"
+                }
+              ]
+            },
+            {
+              "actor": "dark angel",
+              "kind": "turn",
+              "summary": "Targets Kenzo with three hits, including an announced natural 20. First does 14, all deflected; remaining arrows deal 16 and 23, a stated total of 39 damage taken.",
+              "evidence": [
+                {
+                  "startUid": "u3823",
+                  "endUid": "u3858"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the first angel arrow to zero and redirects its energy at Bizarro Riswynn. She fails the DC 16 Dexterity save and takes 15 reflected damage.",
+              "evidence": [
+                {
+                  "startUid": "u3833",
+                  "endUid": "u3864"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Flies down and uses his action to steal Bizarro Riswynn’s return amulet against DC 15 Sleight of Hand. Bardic assistance is unavailable at this distance; uses heroic inspiration to succeed, then Cunning Action disengages and moves away.",
+              "evidence": [
+                {
+                  "startUid": "u3890",
+                  "endUid": "u3948"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Without advantage, makes five attacks against Bizarro Riswynn: three miss; two unarmed strikes hit for 13 and 12. Declines a further ki expenditure. She keeps concentration on the angel.",
+              "evidence": [
+                {
+                  "startUid": "u3949",
+                  "endUid": "u3976"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Makes three sword attacks against Bizarro Riswynn: one miss and two hits for 19 and 27. Confirms Font of Moonlight adds 2d6 to his attacks.",
+              "evidence": [
+                {
+                  "startUid": "u3977",
+                  "endUid": "u3993"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Finds attacks and Dispel Magic out of range of the high-flying angel. Mounts Ladder and advances into position with Counterspell available; no offensive spell is cast.",
+              "evidence": [
+                {
+                  "startUid": "u3994",
+                  "endUid": "u4041"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Carries Seeker 60 feet through the air toward the remaining enemy.",
+              "evidence": [
+                {
+                  "startUid": "u4021",
+                  "endUid": "u4032"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves closer and casts Conjure Celestial as a searing/healing pillar. Bizarro Riswynn fails Dexterity against the 6d12 radiant effect; Death Ward leaves her on 1 HP. The chosen healing light also heals Kenzo and Delwath with 4d12, with 15 rolled; the source does not clearly distinguish whether that 15 includes the casting modifier.",
+              "evidence": [
+                {
+                  "startUid": "u4042",
+                  "endUid": "u4087"
+                }
+              ]
+            },
+            {
+              "actor": "Bizarro Riswynn",
+              "kind": "turn",
+              "summary": "Flees at 1 HP, surviving both opportunity reactions. Casts a 20-foot-radius, 20-foot-high Wall of Fire around Delwath, Kenzo and Wellby, replacing concentration on the angel, which vanishes before another attack. Delwath fails Dexterity and takes 27 fire damage; Wellby takes none and Kenzo succeeds with 28 and takes none. The constructs cannot heal themselves, though Death Ward worked.",
+              "evidence": [
+                {
+                  "startUid": "u4089",
+                  "endUid": "u4155"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Warcaster to cast Mind Sliver as Bizarro Riswynn flees, but she succeeds on Intelligence 19 against DC 18. His reaction is spent, preventing a later Font of Moonlight reaction.",
+              "evidence": [
+                {
+                  "startUid": "u4094",
+                  "endUid": "u4102"
+                },
+                {
+                  "startUid": "u4153",
+                  "endUid": "u4155"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Opportunity attack against fleeing Bizarro Riswynn misses with 18.",
+              "evidence": [
+                {
+                  "startUid": "u4103",
+                  "endUid": "u4106"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Flies up to see past the fire wall. Uses the clockwork amulet for a 10 plus 12 attack result, then Seeker’s d12 Bardic Inspiration raises it to a hit (34 announced). Expends the Lightning Arrow; Bizarro Riswynn disintegrates in dust.",
+              "evidence": [
+                {
+                  "startUid": "u4156",
+                  "endUid": "u4188"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Provides d12 Bardic Inspiration for Wellby’s finishing shot now that he is within range.",
+              "evidence": [
+                {
+                  "startUid": "u4163",
+                  "endUid": "u4174"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The last double, Bizarro Riswynn, disintegrates after Wellby’s Lightning Arrow; her amulet has been taken. All five hostile doubles are destroyed across the two encounters. Seeker is conscious after Heal; the simulacrum has been dispelled and both summoned constructs are gone.",
+        "evidence": [
+          {
+            "startUid": "u4182",
+            "endUid": "u4188"
+          },
+          {
+            "startUid": "u3946",
+            "endUid": "u3948"
+          },
+          {
+            "startUid": "u3756",
+            "endUid": "u3763"
+          },
+          {
+            "startUid": "u2261",
+            "endUid": "u2263"
+          },
+          {
+            "startUid": "u2400",
+            "endUid": "u2403"
+          }
+        ]
+      }
+    }
+  ]
+}
