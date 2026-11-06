@@ -8,13 +8,13 @@
     },
     "entityMap": {
       "path": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-entity-map.json",
-      "sha256": "d0d2c02fcebebf850ba2b71d7c3633310f420723e6b45a695d902e3d052f0466"
+      "sha256": "98d11649039a5a27ab929f2a42cbe269664dc87bedeb673af524b75ba85f424e"
     }
   },
   "interactions": [
     {
       "id": "i001",
-      "title": "Folcan was released to warn the goblins",
+      "title": "Recall releasing Folcan to warn the goblins",
       "entities": [
         {
           "id": "e001",
@@ -54,7 +54,7 @@
     },
     {
       "id": "i002",
-      "title": "A stone Medusa looks into the garden fountain",
+      "title": "Observe the stone Medusa at the fountain",
       "entities": [
         {
           "id": "e003",
@@ -97,7 +97,7 @@
     },
     {
       "id": "i003",
-      "title": "The chapel is dedicated to the Mother",
+      "title": "Identify the chapel’s dedication to the Mother",
       "entities": [
         {
           "id": "e004",
@@ -111,7 +111,7 @@
       },
       "lines": [
         "%% u0566:0-8, u0567:0-1, u0568:0-3, u0569:0-31, u0570:0-83, u0571:0-121, u0572:0-20 %%",
-        "DM: There is a—and a small holy icon, like a small silver statue of the goddess, the Mother, the god that this chapel is dedicated to. And also not—yeah, you know, tarnished and showing its age, but could easily be polished up into something that would be reasonably valuable.",
+        "DM: There is a—and a small holy icon, like a small silver statue of the goddess, the Mother, the god that this chapel is dedicated to. ((Icon’s monetary value))",
         ""
       ],
       "reviewContext": {
@@ -137,7 +137,7 @@
     },
     {
       "id": "i004",
-      "title": "Loria finds a healing scroll and a potion of watchful rest",
+      "title": "Recover a Cure Wounds scroll and Potion of Watchful Rest",
       "entities": [
         {
           "id": "e006",
@@ -165,10 +165,10 @@
         "DM: This this scroll you recognize. This is the scroll of cure wounds. It's a spell that's on your spell list, so you can identify it immediately. The potion you don't. You don't recognize immediately, but you could hand it off to Acescale. Who's an alchemist and would presumably know what it is.",
         "",
         "%% u0947:0-11 %%",
-        "Acescale: Okay? So I…",
+        "((Brief interruption))",
         "",
         "%% u0948:0-85, u0949:0-63 %%",
-        "Loria: Okay, yeah, I pocket this scroll. I'm gonna go over to Acescale and say, do you wanna… maybe. Do you want to? Do you have any cool coppers back here?",
+        "Loria: Okay, yeah, I pocket this scroll. ((Coin discussion))",
         "",
         "%% u0949:63-133 %%",
         "((Coin discussion))",
@@ -206,7 +206,7 @@
     },
     {
       "id": "i005",
-      "title": "Perdoli wine accounts suggest dishonest bookkeeping",
+      "title": "Read Perdoli wine accounts and family trade history",
       "entities": [
         {
           "id": "e016",
@@ -257,7 +257,7 @@
     },
     {
       "id": "i006",
-      "title": "Recall the masked Grimstone and his captives",
+      "title": "Recall Grimstone’s mask and prisoner-taking",
       "entities": [
         {
           "id": "e009",
@@ -309,7 +309,7 @@
     },
     {
       "id": "i007",
-      "title": "Gaudin touches the chained creature and is rescued from petrification",
+      "title": "Rescue Gaudin after the chained basilisk’s gaze",
       "entities": [
         {
           "id": "e008",
@@ -330,14 +330,11 @@
         "%% u1313:0-31, u1314:0-8, u1315:0-48, u1316:0-56, u1317:0-57 %%",
         "Gaudin: Umhm, so I will move towards—I, I focus, and the Mage Hand appears, and nervously, slowly skirting the ground, low to the ground, moves to the tail, like delicately at the tip of the tail just taps it once.",
         "",
-        "%% u1318:0-5 %%",
-        "DM: Okay?",
-        "",
-        "%% u1319:0-7 %%",
-        "Dilion: Oh, no.",
+        "%% u1318:0-5, u1319:0-7 %%",
+        "((Brief reactions))",
         "",
         "%% u1320:0-10, u1321:0-12, u1322:0-78, u1323:0-224, u1324:0-33 %%",
-        "DM: This thing, like the the, full of chains, as like it's—it seems like it's trying to like rear up, but the chain around its neck is holding it, and it manages to like push up enough just so that you can get a glimpse, glimpse of its face, but for it's like pulled back as it's like straining against the chain, and then pulled back. ((Omitted material))",
+        "DM: This thing, like the the, full of chains, as like it's—it seems like it's trying to like rear up, but the chain around its neck is holding it, and it manages to like push up enough just so that you can get a glimpse, glimpse of its face, but for it's like pulled back as it's like straining against the chain, and then pulled back. ((Constitution save))",
         "",
         "%% u1325:0-11 %%",
         "Loria: All of us?",
@@ -352,13 +349,13 @@
         "DM: Somebody can hack this stone that's forming on Gaudin off him before he is completely petrified. But that will cause some damage.",
         "",
         "%% u1332:0-61, u1333:0-18, u1334:0-41, u1335:0-40, u1336:0-45, u1337:0-24, u1338:0-43 %%",
-        "((Sword Burst mechanics))",
+        "((Sword Burst discussion))",
         "",
         "%% u1339:0-33 %%",
         "Gaudin: So I I motion, please, something.",
         "",
         "%% u1340:0-70, u1341:0-89, u1342:0-60 %%",
-        "DM: ((Omitted material)) As a creature now slinks low, hiding behind this wall again.",
+        "DM: ((Damage adjudication)) cause like the skin is being ripped off your arms as you take 7 points of slashing damage. As a creature now slinks low, hiding behind this wall again.",
         "",
         "%% u1343:0-129 %%",
         "Dilion: Hey! We dragged—the chains rattle! We dragged Gaudin back behind the wall bleeding. Hack away at his stone. Don't do that again.",
@@ -373,7 +370,7 @@
         "Acescale: I thought it was the Medusa in the garden.",
         "",
         "%% u1347:0-15, u1348:0-5, u1349:0-5, u1350:0-32, u1351:0-143, u1352:0-37, u1353:0-21, u1354:0-50, u1355:0-152 %%",
-        "((Discussion of nearby doors))",
+        "((Nearby-door discussion))",
         "",
         "%% u1355:152-259, u1356:0-156 %%",
         "DM: I mean this, this basilisk is like it. Now that you've got a glimpse of it around its neck, there's a thick chain collar around its neck that keeps it from moving very much at all. Seems to be chained in the middle of this courtyard. See, it's hidden by the wall.",
@@ -402,7 +399,7 @@
     },
     {
       "id": "i008",
-      "title": "Consider polishing the crypt’s silver plate into a mirror",
+      "title": "Propose a silver-plate mirror and learn its limitation",
       "entities": [
         {
           "id": "e015",
@@ -411,20 +408,25 @@
         },
         {
           "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
           "role": "cameo",
           "action": "mentioned"
         }
       ],
       "source": {
         "startUid": "u1370",
-        "endUid": "u1411"
+        "endUid": "u1423"
       },
       "lines": [
         "%% u1370:0-49, u1371:0-65 %%",
         "Acescale: What if—what if we use the silver plate from the from the tomb to act as a mirror to make it turn itself to stone?",
         "",
         "%% u1372:0-9, u1373:0-18, u1374:0-12, u1375:0-25, u1376:0-97, u1376:97-191, u1377:0-5, u1378:0-11, u1379:0-143, u1380:0-81, u1381:0-5, u1382:0-18, u1383:0-85, u1384:0-33, u1385:0-31, u1386:0-11, u1387:0-17, u1388:0-33, u1389:0-31, u1390:0-106, u1391:0-24, u1392:0-94, u1393:0-42, u1394:0-128, u1395:0-21, u1396:0-17, u1397:0-66, u1398:0-47, u1399:0-139, u1400:0-20, u1401:0-24 %%",
-        "((Polishing checks, mythological aside, and room scouting))",
+        "((Polishing preparation, check, mythological aside and nearby-room scouting))",
         "",
         "%% u1402:0-32, u1403:0-8, u1404:0-153, u1405:0-88, u1406:0-75, u1407:0-25 %%",
         "DM: So you could definitely do this. Between, you know, the acid splash and and mending. It's not quite so simple as just casting a cantrip. This would take you half an hour or something to polish up the mirror. Takes some elbow grease to like get it really shining into an actual mirror. But you definitely—you've like figured out a way that you could do it with with the spells you have.",
@@ -434,6 +436,15 @@
         "",
         "%% u1410:0-164, u1411:0-99 %%",
         "Acescale: Alright. Well, I let everybody know. I can probably make this into a a mirror in 30 min or so. I don't know if it would actually turn the basilisk to stone, or not. Assuming that it would be really good for them to breed. If they can't look each other in the eyes.",
+        "",
+        "%% u1412:0-40, u1413:0-63, u1414:0-5, u1415:0-40 %%",
+        "((Nature check))",
+        "",
+        "%% u1415:40-86, u1416:0-36, u1417:0-111 %%",
+        "DM: Yeah. So okay, so 2 key facts about basilisks. They're not like Medusa. So Medusa's you can turn them to stone with their reflection. And you recall now that the Medusa—the stone Medusa you saw.",
+        "",
+        "%% u1418:0-32, u1419:0-32, u1420:0-195, u1421:0-32, u1422:0-45, u1423:0-66 %%",
+        "DM: Was looking at her reflection in… Basilisks, it's just their gaze. If they see you, you turn to stone. It doesn't matter if you see them, and they can't turn each other to stone with their with their gaze. ((Further basilisk lore))",
         ""
       ],
       "reviewContext": {
@@ -445,11 +456,11 @@
           "DM: It could? But you can always make a new one if it turns this dog to stone."
         ],
         "after": [
-          "DM: You can make a nature check if you want.",
-          "Acescale: Yeah, I can do that. Maybe do better than the last nature check. Holy… That's much better than the last check.",
-          "DM: Yeah. So okay, so 2 key facts about basilisks. They're not like Medusa. So Medusa's you can turn them to stone with their reflection. And you recall now that the Medusa—the stone Medusa you saw.",
-          "DM: Was looking at her reflection in… Basilisks, it's just their gaze. If they see you, you turn to stone. It doesn't matter if you see them, and they can't turn each other to stone with their with their gaze. However. You have heard stories. If you can cut one open, in their—in their gut, they have a magical enzyme that lets them digest stone, and that you can use to convert—to create a depetrification salve.",
-          "Acescale: Well, I'd like that as an artificer and a and an alchemist. I think that'd be pretty cool. Most of these people are beyond saving, but maybe that Medusa could be our new…"
+          "Acescale: Well, I'd like that as an artificer and a and an alchemist. I think that'd be pretty cool. Most of these people are beyond saving, but maybe that Medusa could be our new…",
+          "Loria: Our new best friend.",
+          "Gaudin: Or we just like chain her up and put like a hood over her head over the statue, head depetrify her, and then walk her in, and then.",
+          "DM: Surprise. But in order to extract a basilisk gut, it is typically required to kill the basilisk.",
+          "Gaudin: We couldn't give it food poisoning, and it just vomits it up."
         ]
       },
       "review": {
@@ -459,7 +470,7 @@
     },
     {
       "id": "i009",
-      "title": "Basilisk gaze and a possible depetrification salve",
+      "title": "Learn basilisk lore and discuss a depetrification salve",
       "entities": [
         {
           "id": "e008",
@@ -543,7 +554,7 @@
     },
     {
       "id": "i010",
-      "title": "A sailor ghost paces above the bed",
+      "title": "Observe the mourning sailor ghost in his bedchamber",
       "entities": [
         {
           "id": "e010",
@@ -560,7 +571,7 @@
         "DM: And floating, moving back and forth across the bed, moaning, is a ghost, ghost who looks dressed like a sailor, and seems to be screaming in pain or sadness, just pacing back and forth across the bed, floating through the bed.",
         "",
         "%% u1497:0-95 %%",
-        "Dilion: I don't I don't. I don't know. I don't like, you know. Maybe this having a rough night's sleep.",
+        "((Brief reaction))",
         "",
         "%% u1498:0-98 %%",
         "DM: So far you're just peeking into these rooms right? I'm assuming you're not actually entering any?",
@@ -595,7 +606,7 @@
     },
     {
       "id": "i011",
-      "title": "The locket bears initials and a plea to return",
+      "title": "Examine the locket inscribed to J.M. from P.",
       "entities": [
         {
           "id": "e011",
@@ -619,7 +630,7 @@
       },
       "lines": [
         "%% u1516:0-49, u1517:0-91, u1518:0-127, u1519:0-107 %%",
-        "DM: There is shattered glass everywhere on the floor. Like, there looks like there was once like a standing mirror or a wall mirror or something that's just been broken into pieces. The locket is a silver locket with a faded painting of a young woman and the inscription, “To J.M. With love, P.” And a folded slip of paper inside that might once have read, “Keep safe and come back.”",
+        "DM: ((Broken-mirror room description)) The locket is a silver locket with a faded painting of a young woman and the inscription, “To J.M. With love, P.” And a folded slip of paper inside that might once have read, “Keep safe and come back.”",
         ""
       ],
       "reviewContext": {
@@ -645,7 +656,7 @@
     },
     {
       "id": "i012",
-      "title": "Pirate documents, love letters, and the old hideout",
+      "title": "Read pirate maps, love letters and hideout notes",
       "entities": [
         {
           "id": "e013",
@@ -723,7 +734,7 @@
     },
     {
       "id": "i013",
-      "title": "The locket and Petrona’s appearance turn the ghost against Grimstone",
+      "title": "Use the locket and Petrona’s appearance to turn the ghost against Grimstone",
       "entities": [
         {
           "id": "e010",
@@ -796,10 +807,10 @@
         "Gaudin: What can you tell me? I try not to flinch, so I try to be calm.",
         "",
         "%% u1634:64-127, u1635:0-89 %%",
-        "DM: As the ghost is what like what reaches like to touch your face. His hand sort of passes through your face, and he pulls it back. ((Persuasion roll))",
+        "DM: As the ghost is what like what reaches like to touch your face. His hand sort of passes through your face, and he pulls it back. ((Persuasion check))",
         "",
         "%% u1636:0-4 %%",
-        "((Roll adjudication and brief table interruptions))",
+        "((Brief reaction))",
         "",
         "%% u1637:0-15, u1638:0-34, u1639:0-15, u1640:0-46, u1641:0-57, u1642:0-46, u1643:0-14 %%",
         "DM: He looks at you, like again, sort of reaching here, “You feel flesh. You have not been hurt by the white-faced man. You still breathe.” And he sticks his hand into your chest, like you feel this icy cold around your heart. “You are flesh.”",
@@ -811,7 +822,7 @@
         "Gaudin: He was going to kill me. He was going to take my flesh from me.",
         "",
         "%% u1645:0-5 %%",
-        "Unknown: Who's…",
+        "((Brief interruption))",
         "",
         "%% u1646:0-14 %%",
         "DM: “Everyone dies.”",
@@ -832,7 +843,7 @@
         "Gaudin: I look at the locket, and I, I know he's also—I cringe when I do this, because I'm not supposed to do it, but I do disguise self to make myself look like the woman in the locket.",
         "",
         "%% u1661:0-4, u1662:0-23, u1663:0-15, u1664:0-19 %%",
-        "((Roll adjudication and brief table interruptions))",
+        "((Deception roll and table interruption))",
         "",
         "%% u1665:0-36, u1666:0-19, u1667:0-7, u1668:0-27, u1669:0-5, u1670:0-22 %%",
         "DM: Yeah, yeah, yeah. His—his face just stops for a moment. He just, but you know, briefly, just, looks shocked and uncertain.",
@@ -844,7 +855,7 @@
         "Gaudin: I'm trapped here. They're trying to save me. Help them. And then I cast Disguise Self again, going back to my elf disguise.",
         "",
         "%% u1682:0-3, u1683:0-51, u1684:0-110, u1685:0-9 %%",
-        "((Roll adjudication and brief table interruptions))",
+        "((Persuasion roll and table interruption))",
         "",
         "%% u1686:0-9, u1687:0-5, u1688:0-10, u1689:0-7, u1690:0-28, u1691:0-63 %%",
         "DM: He looks, “I saw, I saw her, Petrona. Thought she was lost at sea, never knew her fate, could not rest until I knew what happened.”",
@@ -865,7 +876,7 @@
         "DM: “Cannot leave this room.”",
         "",
         "%% u1702:0-3 %%",
-        "Unknown: Oh.",
+        "((Brief reaction))",
         "",
         "%% u1703:0-25 %%",
         "DM: “Can tell you where he is.”",
@@ -877,7 +888,7 @@
         "DM: “His lair is in the old—my old hideout beneath this manor.”",
         "",
         "%% u1706:0-3 %%",
-        "Unknown: He…",
+        "((Brief interruption))",
         "",
         "%% u1707:0-64 %%",
         "DM: He points down, and his hand passes through the rug on the floor.",

@@ -63,7 +63,7 @@
         "endUid": "u0888"
       },
       "category": "combat",
-      "note": "A second bounded encounter reuses the turn-based ambush; the DM explicitly waives a new initiative roll and lets the party act in any order."
+      "note": "The DM waives another initiative roll, resolves the guard first, then explicitly gives the party their turns in any order; this is a separate ordered encounter."
     },
     {
       "id": "s008",
@@ -72,7 +72,7 @@
         "endUid": "u1208"
       },
       "category": "gameplay",
-      "note": "The rest decision and real-life break share a UID group."
+      "note": "The accepted in-world rest and real-world break share the final UID group."
     },
     {
       "id": "s009",
@@ -89,8 +89,8 @@
         "endUid": "u1731"
       },
       "category": "gameplay",
-      "note": "Recording resumes after omitted play; u1211 explicitly acknowledges the omission. The basilisk hazard has no ordered turn cycle."
+      "note": "Recording resumes after missing play. The later basilisk gaze is a resolved hazard without initiative or an established repeating turn cycle."
     }
   ],
-  "limitations": "At u1211 the DM says the recording was not resumed; play between the archive rest and resumed scouting is absent. All surviving polished turns are classified."
+  "limitations": "Play after the archive break is missing before u1211, where the DM acknowledges not resuming the recording. All 868 surviving polished turns are classified; the missing interval cannot be classified from a later session note."
 }

@@ -10,6 +10,7 @@
   "places": {
     "p01": {
       "label": "Former prison room",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u0052",
@@ -17,10 +18,28 @@
           "quote": "get your camp set up in the in the room that you were locked away in"
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p22",
+          "evidence": [
+            {
+              "startUid": "u0052",
+              "endUid": "u0057",
+              "quote": "get your camp set up in the in the room that you were locked away in"
+            },
+            {
+              "startUid": "u0109",
+              "endUid": "u0114",
+              "quote": "you're you're on the far east side of the grounds. So there's like a little complex of buildings. There's a workshop and a barracks"
+            }
+          ]
+        }
+      ]
     },
     "p02": {
       "label": "Overgrown vineyards",
+      "kind": "grounds",
       "evidence": [
         {
           "startUid": "u0184",
@@ -28,21 +47,62 @@
           "quote": "you're walking basically through what are vineyards but incredibly overgrown"
         }
       ],
-      "kind": "grounds"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u0176",
+              "endUid": "u0183",
+              "quote": "moving across the grounds, heading west"
+            },
+            {
+              "startUid": "u0184",
+              "endUid": "u0193",
+              "quote": "you're walking basically through what are vineyards but incredibly overgrown"
+            }
+          ]
+        }
+      ]
     },
     "p03": {
       "label": "Formal garden",
+      "kind": "garden",
       "evidence": [
+        {
+          "startUid": "u0142",
+          "endUid": "u0151",
+          "quote": "north of the manor is this formal garden."
+        },
         {
           "startUid": "u0341",
           "endUid": "u0345",
           "quote": "the only ways you can clearly go are north or south."
         }
       ],
-      "kind": "garden"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u0142",
+              "endUid": "u0151",
+              "quote": "there's a wall that goes all the way around this compound."
+            },
+            {
+              "startUid": "u0142",
+              "endUid": "u0151",
+              "quote": "north of the manor is this formal garden."
+            }
+          ]
+        }
+      ]
     },
     "p04": {
       "label": "Ruined chapel",
+      "kind": "chapel",
       "evidence": [
         {
           "startUid": "u0403",
@@ -50,10 +110,28 @@
           "quote": "this chapel is not intact. The walls are ruined and the roof is totally gone"
         }
       ],
-      "kind": "chapel"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u0115",
+              "endUid": "u0121",
+              "quote": "on the other opposite side of the manor from you."
+            },
+            {
+              "startUid": "u0115",
+              "endUid": "u0121",
+              "quote": "a ruined chapel that the goblins have always been nervous to go in"
+            }
+          ]
+        }
+      ]
     },
     "p05": {
       "label": "Family crypt",
+      "kind": "crypt",
       "evidence": [
         {
           "startUid": "u0506",
@@ -61,32 +139,113 @@
           "quote": "a small family crypt of whoever long ago owned this manor"
         }
       ],
-      "kind": "crypt"
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0470",
+              "endUid": "u0473",
+              "quote": "there's a trapdoor that's been just overgrown here that leads underground."
+            },
+            {
+              "startUid": "u0491",
+              "endUid": "u0493",
+              "quote": "there's stairs down into the darkness."
+            },
+            {
+              "startUid": "u0506",
+              "endUid": "u0509",
+              "quote": "a small family crypt of whoever long ago owned this manor"
+            }
+          ]
+        }
+      ]
     },
     "p06": {
       "label": "Crypt altar room",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u0552",
-          "endUid": "u0572",
-          "quote": "a small altar"
+          "endUid": "u0559",
+          "quote": "It ends in a small room"
+        },
+        {
+          "startUid": "u0552",
+          "endUid": "u0559",
+          "quote": "there's a small altar"
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0529",
+              "endUid": "u0532",
+              "quote": "there's a small passageway at the far end that leads into the darkness."
+            },
+            {
+              "startUid": "u0552",
+              "endUid": "u0559",
+              "quote": "You begin to creep forward into this this sort of tunnel in the darkness"
+            }
+          ],
+          "note": "Reached through the short passage at the far end of the main crypt."
+        }
+      ]
     },
     "p07": {
       "label": "Tunnel beneath archive trapdoor",
+      "kind": "tunnel",
       "evidence": [
         {
-          "startUid": "u1000",
+          "startUid": "u1013",
+          "endUid": "u1018",
+          "quote": "300 feet, and it stops. Blank wall."
+        },
+        {
+          "startUid": "u1020",
           "endUid": "u1022",
-          "quote": "Blank wall."
+          "quote": "almost like there's a trapdoor 10 feet above you."
         }
       ],
-      "kind": "tunnel"
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0966",
+              "endUid": "u0975",
+              "quote": "a sliding sound as a door opens up in the back of this room, leading into a dark tunnel."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1020",
+              "endUid": "u1022",
+              "quote": "almost like there's a trapdoor 10 feet above you."
+            },
+            {
+              "startUid": "u1079",
+              "endUid": "u1086",
+              "quote": "So you appear"
+            }
+          ]
+        }
+      ]
     },
     "p08": {
       "label": "Hidden archive",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u1082",
@@ -94,22 +253,70 @@
           "quote": "the remains of of a private archive or a private library."
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u1000",
+              "endUid": "u1007",
+              "quote": "running almost due east, directly towards the Manor."
+            },
+            {
+              "startUid": "u0929",
+              "endUid": "u0930",
+              "quote": "Seems like this is the this is the family villa of the Perdoli family."
+            },
+            {
+              "startUid": "u1149",
+              "endUid": "u1167",
+              "quote": "the records of of wine sales"
+            }
+          ]
+        }
+      ],
+      "note": "Reached through the crypt tunnel and ceiling trapdoor; the exit into the next library is unrecorded. An additional dog’s attendance at u1103–u1106 remains unresolved (l28)."
     },
     "p09": {
-      "label": "Room outside the hidden archive",
+      "label": "Library used as scouting base",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u1215",
-          "endUid": "u1218",
+          "endUid": "u1216",
           "quote": "I run back inside the room to convey that to other people"
+        },
+        {
+          "startUid": "u1264",
+          "endUid": "u1264",
+          "quote": "back into the original library room, which I think is like our base of operations right now."
         }
       ],
-      "kind": "room",
-      "note": "Recording omitted the archive exit and the initial room description. This is the room used as the resumed scouting base, not assumed to be the hidden archive."
+      "note": "The recording skips the archive exit and first scouting. The dated Session 2 note calls the next room a ruined library; the surviving transcript does not settle its connection to the hidden archive.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u1267",
+              "endUid": "u1275",
+              "quote": "another another hallway. This, intact."
+            },
+            {
+              "startUid": "u1283",
+              "endUid": "u1295",
+              "quote": "central courtyard of the villa, open open to the sky."
+            }
+          ],
+          "note": "Inferred from continuous exploration of the villa rooms around the courtyard; the missing initial room description is not reconstructed."
+        }
+      ]
     },
     "p10": {
       "label": "Open-air gallery",
+      "kind": "gallery",
       "evidence": [
         {
           "startUid": "u1225",
@@ -117,10 +324,28 @@
           "quote": "the gallery itself, is like. The walls are collapsed and the roof has collapsed."
         }
       ],
-      "kind": "gallery"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u1225",
+              "endUid": "u1228",
+              "quote": "If you cross that open space. There's a solid wall with another door down here."
+            },
+            {
+              "startUid": "u1283",
+              "endUid": "u1295",
+              "quote": "central courtyard of the villa, open open to the sky."
+            }
+          ]
+        }
+      ]
     },
     "p11": {
       "label": "Guard post beyond gallery",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u1241",
@@ -128,10 +353,28 @@
           "quote": "This sounds like a guard post on the other side of this door"
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1238",
+              "endUid": "u1249",
+              "quote": "as you cut across this gallery space to the door."
+            },
+            {
+              "startUid": "u1241",
+              "endUid": "u1249",
+              "quote": "on the other side of this door"
+            }
+          ]
+        }
+      ]
     },
     "p12": {
       "label": "Northern hallway",
+      "kind": "hallway",
       "evidence": [
         {
           "startUid": "u1267",
@@ -139,10 +382,28 @@
           "quote": "another another hallway. This, intact."
         }
       ],
-      "kind": "hallway"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u1267",
+              "endUid": "u1275",
+              "quote": "this also leads into the courtyard, that leads into the courtyard."
+            },
+            {
+              "startUid": "u1283",
+              "endUid": "u1295",
+              "quote": "central courtyard of the villa, open open to the sky."
+            }
+          ]
+        }
+      ]
     },
     "p13": {
       "label": "Basilisk courtyard",
+      "kind": "courtyard",
       "evidence": [
         {
           "startUid": "u1283",
@@ -150,10 +411,23 @@
           "quote": "central courtyard of the villa, open open to the sky."
         }
       ],
-      "kind": "courtyard"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u1283",
+              "endUid": "u1295",
+              "quote": "central courtyard of the villa, open open to the sky."
+            }
+          ]
+        }
+      ]
     },
     "p14": {
       "label": "Private sitting room",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u1388",
@@ -161,32 +435,86 @@
           "quote": "maybe a private study or a or a private sitting room."
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u1437",
+              "endUid": "u1439",
+              "quote": "Private chambers of the patriarch of the family or something."
+            },
+            {
+              "startUid": "u1461",
+              "endUid": "u1469",
+              "quote": "This is like the great hall of the of the Manor"
+            }
+          ]
+        }
+      ]
     },
     "p15": {
       "label": "Great hall",
+      "kind": "hall",
       "evidence": [
         {
           "startUid": "u1461",
           "endUid": "u1469",
-          "quote": "the great hall of the of the Manor"
+          "quote": "This is like the great hall of the of the Manor"
         }
       ],
-      "kind": "hall"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u1461",
+              "endUid": "u1469",
+              "quote": "This is like the great hall of the of the Manor"
+            }
+          ]
+        }
+      ]
     },
     "p16": {
       "label": "Sailor ghost’s bedchamber",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u1482",
-          "endUid": "u1496",
+          "endUid": "u1486",
           "quote": "this is a bed chamber."
+        },
+        {
+          "startUid": "u1500",
+          "endUid": "u1500",
+          "quote": "it seems like this is like his bedroom."
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u1482",
+              "endUid": "u1486",
+              "quote": "painting on the wall again of one of these Perdoli men."
+            },
+            {
+              "startUid": "u1705",
+              "endUid": "u1705",
+              "quote": "my old hideout beneath this manor."
+            }
+          ]
+        }
+      ]
     },
     "p17": {
       "label": "Study with broken mirrors",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u1503",
@@ -194,10 +522,33 @@
           "quote": "a study, like a private study. There's smashed glass and broken mirrors everywhere"
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u1470",
+              "endUid": "u1477",
+              "quote": "these side rooms adjacent to the sitting room."
+            },
+            {
+              "startUid": "u1482",
+              "endUid": "u1486",
+              "quote": "painting on the wall again of one of these Perdoli men."
+            },
+            {
+              "startUid": "u1503",
+              "endUid": "u1509",
+              "quote": "a study, like a private study."
+            }
+          ]
+        }
+      ]
     },
     "p18": {
       "label": "Buzzing room",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u1213",
@@ -205,7 +556,25 @@
           "quote": "behind this door, like a hissing, buzzing sound like some kind of swarm of giant insects."
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u1283",
+              "endUid": "u1295",
+              "quote": "these, whatever buzzing in this room didn't hear you."
+            },
+            {
+              "startUid": "u1283",
+              "endUid": "u1295",
+              "quote": "central courtyard of the villa, open open to the sky."
+            }
+          ]
+        }
+      ],
+      "note": "Heard through a closed door. The surviving transcript does not identify the insects."
     },
     "p19": {
       "label": "Sailor ghost’s bedchamber doorway",
@@ -215,6 +584,133 @@
           "startUid": "u1610",
           "endUid": "u1611",
           "quote": "I knock on the door."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1610",
+              "endUid": "u1611",
+              "quote": "I knock on the door."
+            },
+            {
+              "startUid": "u1612",
+              "endUid": "u1615",
+              "quote": "this ghost goes to draw like a a rapier or a scimitar."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Perdoli Manor",
+      "kind": "estate",
+      "evidence": [
+        {
+          "startUid": "u0109",
+          "endUid": "u0114",
+          "quote": "a big manor house kind of in the center."
+        },
+        {
+          "startUid": "u0929",
+          "endUid": "u0930",
+          "quote": "Seems like this is the this is the family villa of the Perdoli family."
+        },
+        {
+          "startUid": "u1566",
+          "endUid": "u1572",
+          "quote": "the cursed Perdoli manor."
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md"
+    },
+    "p21": {
+      "label": "Main manor house",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0109",
+          "endUid": "u0114",
+          "quote": "a big manor house kind of in the center."
+        },
+        {
+          "startUid": "u1461",
+          "endUid": "u1469",
+          "quote": "This is like the great hall of the of the Manor"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u0109",
+              "endUid": "u0114",
+              "quote": "a big manor house kind of in the center."
+            },
+            {
+              "startUid": "u0929",
+              "endUid": "u0930",
+              "quote": "Seems like this is the this is the family villa of the Perdoli family."
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Eastern outbuildings",
+      "kind": "building complex",
+      "evidence": [
+        {
+          "startUid": "u0109",
+          "endUid": "u0114",
+          "quote": "you're you're on the far east side of the grounds. So there's like a little complex of buildings. There's a workshop and a barracks"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u0109",
+              "endUid": "u0114",
+              "quote": "you're you're on the far east side of the grounds. So there's like a little complex of buildings. There's a workshop and a barracks"
+            }
+          ]
+        }
+      ]
+    },
+    "p23": {
+      "label": "Garden fountain",
+      "kind": "fountain",
+      "evidence": [
+        {
+          "startUid": "u0380",
+          "endUid": "u0386",
+          "quote": "in the middle there's a fountain that is still bubbling with water."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0380",
+              "endUid": "u0386",
+              "quote": "a hedge border around the garden itself."
+            },
+            {
+              "startUid": "u0380",
+              "endUid": "u0386",
+              "quote": "in the middle there's a fountain that is still bubbling with water."
+            }
+          ]
         }
       ]
     }
@@ -230,12 +726,17 @@
       "actors": [
         "party"
       ],
-      "reading": "Camp and overnight in the former prison room; Gaudin sleeps in a side room.",
+      "reading": "Camp in the former prison room; Gaudin uses a side room to avoid keeping companions awake.",
       "evidence": [
         {
           "startUid": "u0052",
-          "endUid": "u0062",
+          "endUid": "u0057",
           "quote": "get your camp set up in the in the room that you were locked away in"
+        },
+        {
+          "startUid": "u0061",
+          "endUid": "u0062",
+          "quote": "Gaudin stumbles out from the side room he slept in"
         }
       ],
       "place": "p01"
@@ -250,10 +751,15 @@
       "actors": [
         "party"
       ],
-      "reading": "Leave the eastern outbuildings and cross the overgrown vineyards toward the garden.",
+      "reading": "Head west and north away from the barracks, crossing into the overgrown vineyards.",
       "evidence": [
         {
           "startUid": "u0176",
+          "endUid": "u0183",
+          "quote": "moving across the grounds, heading west"
+        },
+        {
+          "startUid": "u0184",
           "endUid": "u0193",
           "quote": "you're walking basically through what are vineyards but incredibly overgrown"
         }
@@ -273,10 +779,15 @@
       "actors": [
         "Steampup"
       ],
-      "reading": "Steampup goes east to bark as a decoy while the party continues west.",
+      "reading": "Leave east to bark as a decoy while the party continues west.",
       "evidence": [
         {
           "startUid": "u0244",
+          "endUid": "u0246",
+          "quote": "the steampup to go out East for 30 min."
+        },
+        {
+          "startUid": "u0247",
           "endUid": "u0249",
           "quote": "So it heads off as you continue on your path."
         }
@@ -301,13 +812,8 @@
       "actors": [
         "party"
       ],
-      "reading": "Cross the vineyard and cut through the eastern hedge into the formal garden.",
+      "reading": "Finish crossing the vineyard, then cut through the eastern hedge into the formal garden.",
       "evidence": [
-        {
-          "startUid": "u0298",
-          "endUid": "u0345",
-          "quote": "you the rest of you find yourself in what is what looks like a… It's not exactly a hedge maze. It's just like a hedge corridor"
-        },
         {
           "startUid": "u0298",
           "endUid": "u0303",
@@ -317,6 +823,11 @@
           "startUid": "u0332",
           "endUid": "u0337",
           "quote": "It takes you maybe another 10 min."
+        },
+        {
+          "startUid": "u0341",
+          "endUid": "u0345",
+          "quote": "you the rest of you find yourself in what is what looks like a… It's not exactly a hedge maze. It's just like a hedge corridor"
         }
       ],
       "from": "p02",
@@ -327,30 +838,40 @@
         "value": 20,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "About ten minutes walking plus another ten cutting the hedge"
+        "basis": "About ten more minutes crossing plus another ten cutting the hedge."
       }
     },
     {
       "id": "l05",
       "type": "movement",
       "source": {
-        "startUid": "u0361",
+        "startUid": "u0355",
         "endUid": "u0431"
       },
       "actors": [
         "party"
       ],
-      "reading": "Follow the hedge border past the manor lawn and fountain, then emerge and enter the ruined chapel.",
+      "reading": "Follow the garden’s hedge border past the manor lawn and fountain, emerge west, and enter the ruined chapel.",
       "evidence": [
         {
-          "startUid": "u0361",
-          "endUid": "u0431",
-          "quote": "There's going in, like, yeah, there's actually almost a sense of peace still lingering about."
+          "startUid": "u0355",
+          "endUid": "u0359",
+          "quote": "So you follow this hedge corridor for a bit?"
+        },
+        {
+          "startUid": "u0392",
+          "endUid": "u0399",
+          "quote": "But you continue west."
         },
         {
           "startUid": "u0392",
           "endUid": "u0399",
           "quote": "As you cut your way out of the hedge maze"
+        },
+        {
+          "startUid": "u0424",
+          "endUid": "u0431",
+          "quote": "There's going in, like, yeah, there's actually almost a sense of peace still lingering about."
         }
       ],
       "from": "p03",
@@ -359,9 +880,41 @@
       "mode": "walk",
       "route": [
         {
-          "reading": "Pass the statue lawn and fountain without approaching the Medusa."
+          "reading": "Pass the headless statues on the manor lawn and view the fountain without approaching the stone Medusa."
         }
       ]
+    },
+    {
+      "id": "l27",
+      "type": "observation",
+      "source": {
+        "startUid": "u0380",
+        "endUid": "u0391"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the stone Medusa leaning over the garden fountain while passing along the hedge border; avoid approaching.",
+      "evidence": [
+        {
+          "startUid": "u0380",
+          "endUid": "u0386",
+          "quote": "to your right you can see a fountain."
+        },
+        {
+          "startUid": "u0387",
+          "endUid": "u0390",
+          "quote": "She is staring at her reflection in the water and is made of stone."
+        },
+        {
+          "startUid": "u0391",
+          "endUid": "u0391",
+          "quote": "Let's not go near the Medusa."
+        }
+      ],
+      "place": "p23",
+      "mode": "local",
+      "observerPlace": "p03"
     },
     {
       "id": "l06",
@@ -374,28 +927,34 @@
         "party",
         "Steampup"
       ],
-      "reading": "Steampup returns wounded; the party and construct descend through the uncovered chapel trapdoor into the crypt.",
+      "reading": "Steampup returns wounded at the chapel; the party brings it down the uncovered trapdoor stairs into the crypt.",
       "evidence": [
         {
           "startUid": "u0474",
-          "endUid": "u0509",
-          "quote": "Yeah, alright. He's coming down. Come on, you dive down."
+          "endUid": "u0476",
+          "quote": "a slash where it seems to have been hit by some kind of fiery blast."
+        },
+        {
+          "startUid": "u0487",
+          "endUid": "u0490",
+          "quote": "He's gotta come down with us please."
+        },
+        {
+          "startUid": "u0490",
+          "endUid": "u0493",
+          "quote": "He's coming down. Come on, you dive down."
         },
         {
           "startUid": "u0506",
           "endUid": "u0509",
           "quote": "a small family crypt of whoever long ago owned this manor"
-        },
-        {
-          "startUid": "u0474",
-          "endUid": "u0476",
-          "quote": "a slash where it seems to have been hit by some kind of fiery blast."
         }
       ],
       "from": "p04",
       "to": "p05",
       "completion": "arrived",
-      "mode": "stairs"
+      "mode": "stairs",
+      "note": "The wounded construct’s eastward outing returns here; no patrol route is reconstructed from its offscreen injuries."
     },
     {
       "id": "l07",
@@ -407,11 +966,16 @@
       "actors": [
         "party"
       ],
-      "reading": "Follow the short tunnel from the crypt to the small altar room.",
+      "reading": "Creep through the short passage from the main crypt to the altar room.",
       "evidence": [
         {
           "startUid": "u0552",
-          "endUid": "u0572",
+          "endUid": "u0559",
+          "quote": "You begin to creep forward into this this sort of tunnel in the darkness"
+        },
+        {
+          "startUid": "u0552",
+          "endUid": "u0559",
           "quote": "It ends in a small room"
         }
       ],
@@ -430,17 +994,22 @@
       "actors": [
         "party"
       ],
-      "reading": "The party sets an ambush in the crypt at the base of its entrance stairs.",
+      "reading": "Return to the crypt stairs and wait around the trap for the pursuing hobgoblin.",
       "evidence": [
         {
           "startUid": "u0627",
-          "endUid": "u0678",
-          "quote": "And it's all—you all get your turns."
+          "endUid": "u0628",
+          "quote": "we're positioned optimally for unloading."
+        },
+        {
+          "startUid": "u0633",
+          "endUid": "u0641",
+          "quote": "As you all stand watching, waiting"
         },
         {
           "startUid": "u0673",
           "endUid": "u0678",
-          "quote": "in the bottom of this crypt."
+          "quote": "in the bottom of this crypt. And it's all—you all get your turns."
         }
       ],
       "place": "p05"
@@ -455,10 +1024,15 @@
       "actors": [
         "Dilion"
       ],
-      "reading": "Look out through the chapel trapdoor; hear a second guard outside the chapel doorway.",
+      "reading": "Peek through the chapel trapdoor and hear one guard pacing outside the chapel doorway.",
       "evidence": [
         {
           "startUid": "u0745",
+          "endUid": "u0746",
+          "quote": "poke my head up out of the little"
+        },
+        {
+          "startUid": "u0750",
           "endUid": "u0753",
           "quote": "you don't see anything because you're inside the chapel, but you can hear"
         }
@@ -466,7 +1040,7 @@
       "place": "p04",
       "mode": "local",
       "observerPlace": "p05",
-      "note": "Only the head is raised through the opening; no independent chapel visit is inferred."
+      "note": "A head through the opening does not establish a separate chapel visit."
     },
     {
       "id": "l10",
@@ -478,12 +1052,17 @@
       "actors": [
         "Dilion"
       ],
-      "reading": "During the post-combat search, Dilion returns to the altar room and opens the hidden tunnel.",
+      "reading": "Search back through the secondary altar room and open its secret door by pulling a loose torch bracket.",
       "evidence": [
         {
           "startUid": "u0966",
           "endUid": "u0975",
           "quote": "you sort of move your way back into this sort of secondary room"
+        },
+        {
+          "startUid": "u0966",
+          "endUid": "u0975",
+          "quote": "a sliding sound as a door opens up in the back of this room, leading into a dark tunnel."
         }
       ],
       "from": "p05",
@@ -496,22 +1075,32 @@
       "type": "movement",
       "source": {
         "startUid": "u0984",
-        "endUid": "u1018"
+        "endUid": "u1022"
       },
       "actors": [
         "party"
       ],
-      "reading": "Travel east through the secret stone passage to a dead end beneath a ceiling trapdoor.",
+      "reading": "Follow the dark stone passage east toward the manor until it stops beneath a high ceiling trapdoor.",
       "evidence": [
-        {
-          "startUid": "u0984",
-          "endUid": "u1018",
-          "quote": "300 feet, and it stops. Blank wall."
-        },
         {
           "startUid": "u0984",
           "endUid": "u0986",
           "quote": "And you head down the dark tunnel"
+        },
+        {
+          "startUid": "u1000",
+          "endUid": "u1007",
+          "quote": "running almost due east, directly towards the Manor."
+        },
+        {
+          "startUid": "u1013",
+          "endUid": "u1018",
+          "quote": "300 feet, and it stops. Blank wall."
+        },
+        {
+          "startUid": "u1020",
+          "endUid": "u1022",
+          "quote": "almost like there's a trapdoor 10 feet above you."
         }
       ],
       "from": "p06",
@@ -522,7 +1111,7 @@
         "value": 300,
         "unit": "foot",
         "precision": "approximate",
-        "basis": "DM’s cumulative distance to the tunnel end"
+        "basis": "DM’s cumulative distance to the tunnel end."
       }
     },
     {
@@ -535,12 +1124,22 @@
       "actors": [
         "Gaudin"
       ],
-      "reading": "Misty Step into the empty archive above the tunnel.",
+      "reading": "Misty Step through the opened ceiling trapdoor into the empty hidden archive.",
       "evidence": [
         {
           "startUid": "u1076",
-          "endUid": "u1086",
+          "endUid": "u1078",
+          "quote": "So I will misty step up there."
+        },
+        {
+          "startUid": "u1079",
+          "endUid": "u1081",
           "quote": "So you appear"
+        },
+        {
+          "startUid": "u1082",
+          "endUid": "u1086",
+          "quote": "the remains of of a private archive or a private library."
         }
       ],
       "from": "p07",
@@ -556,13 +1155,20 @@
         "endUid": "u1106"
       },
       "actors": [
-        "party",
+        "Acescale",
+        "Loria",
+        "Dilion",
         "Steampup"
       ],
-      "reading": "The remaining companions climb the rope into the archive and reunite with Gaudin.",
+      "reading": "The other three PCs and Steampup join Gaudin in the archive using his rope.",
       "evidence": [
         {
-          "startUid": "u1098",
+          "startUid": "u1102",
+          "endUid": "u1102",
+          "quote": "I tie it up and throw the rope back down to let everybody else up."
+        },
+        {
+          "startUid": "u1103",
           "endUid": "u1106",
           "quote": "All 4 of you and the dog and the steampup crowded in."
         }
@@ -570,29 +1176,35 @@
       "from": "p07",
       "to": "p08",
       "completion": "arrived",
-      "mode": "rope climb",
-      "note": "The doubled dog wording does not independently establish a second animal; the continuous construct is Steampup."
+      "mode": "rope climb"
     },
     {
-      "id": "l14",
-      "type": "presence",
+      "id": "l28",
+      "type": "movement",
       "source": {
-        "startUid": "u1211",
-        "endUid": "u1218"
+        "startUid": "u1103",
+        "endUid": "u1106"
       },
       "actors": [
-        "party"
+        "Additional dog (identity unresolved)"
       ],
-      "reading": "After the recording omission, Loria returns from scouting to the room where companions hear her report.",
+      "reading": "Narration may place an additional dog alongside Steampup in the archive, but the earlier missing-dog account leaves this arrival unresolved.",
       "evidence": [
         {
-          "startUid": "u1211",
-          "endUid": "u1218",
-          "quote": "I run back inside the room to convey that to other people"
+          "startUid": "u0268",
+          "endUid": "u0274",
+          "quote": "I can make another imitation of what they took from me."
+        },
+        {
+          "startUid": "u1103",
+          "endUid": "u1106",
+          "quote": "All 4 of you and the dog and the steampup crowded in."
         }
       ],
-      "place": "p09",
-      "note": "The missing source prevents reconstructing the exit from the archive or initial scouting path."
+      "from": null,
+      "to": "p08",
+      "completion": "uncertain",
+      "note": "The Pikeia and Dilion vault notes place the real dog’s rescue later. They are competing attendance context, not authority to erase the current transcript’s wording."
     },
     {
       "id": "l15",
@@ -604,16 +1216,46 @@
       "actors": [
         "Loria"
       ],
-      "reading": "Listen at the closed door to a room full of insect-like buzzing; do not enter.",
+      "reading": "Listen at a closed door to insect-like hissing and buzzing, then retreat without entering.",
       "evidence": [
         {
-          "startUid": "u1211",
-          "endUid": "u1216",
+          "startUid": "u1213",
+          "endUid": "u1213",
           "quote": "behind this door, like a hissing, buzzing sound like some kind of swarm of giant insects."
+        },
+        {
+          "startUid": "u1215",
+          "endUid": "u1216",
+          "quote": "I run back inside the room to convey that to other people"
         }
       ],
       "place": "p18",
       "mode": "local"
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1211",
+        "endUid": "u1218"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After missing recorded play, Loria returns from scouting to report to companions in their library base.",
+      "evidence": [
+        {
+          "startUid": "u1211",
+          "endUid": "u1211",
+          "quote": "I forgot to resume the recording."
+        },
+        {
+          "startUid": "u1215",
+          "endUid": "u1216",
+          "quote": "I run back inside the room to convey that to other people"
+        }
+      ],
+      "place": "p09"
     },
     {
       "id": "l16",
@@ -625,12 +1267,17 @@
       "actors": [
         "party"
       ],
-      "reading": "Cross the open-air gallery to the closed guard-post door and listen to drilling troops.",
+      "reading": "Cross the open-air gallery and stop at the door to listen to recruits drilling beyond it.",
       "evidence": [
         {
           "startUid": "u1238",
-          "endUid": "u1249",
+          "endUid": "u1240",
           "quote": "as you cut across this gallery space to the door."
+        },
+        {
+          "startUid": "u1241",
+          "endUid": "u1249",
+          "quote": "This sounds like a guard post on the other side of this door"
         }
       ],
       "from": "p09",
@@ -648,12 +1295,17 @@
       "actors": [
         "party"
       ],
-      "reading": "Hear a guard post through the closed gallery door; no entry is narrated.",
+      "reading": "Hear troop leaders drilling recruits beyond the closed gallery door; do not enter the guard post.",
       "evidence": [
         {
           "startUid": "u1241",
           "endUid": "u1249",
           "quote": "This sounds like a guard post on the other side of this door"
+        },
+        {
+          "startUid": "u1241",
+          "endUid": "u1249",
+          "quote": "it sounds like they're in the middle of a drill."
         }
       ],
       "place": "p11",
@@ -670,10 +1322,15 @@
       "actors": [
         "party"
       ],
-      "reading": "Inspect the northern hall and head along it toward a courtyard opening.",
+      "reading": "Inspect the north door and continue into the intact northern hall toward the courtyard.",
       "evidence": [
         {
           "startUid": "u1267",
+          "endUid": "u1269",
+          "quote": "another another hallway. This, intact."
+        },
+        {
+          "startUid": "u1283",
           "endUid": "u1295",
           "quote": "as you head down in this direction"
         }
@@ -681,7 +1338,8 @@
       "from": "p10",
       "to": "p12",
       "completion": "arrived",
-      "mode": "walk"
+      "mode": "walk",
+      "note": "The discussion suggests returning past the library; map-pointer speech does not retain an exact intervening route."
     },
     {
       "id": "l19",
@@ -693,10 +1351,15 @@
       "actors": [
         "party"
       ],
-      "reading": "See a moving tail above the low wall in the central courtyard and hear its chains.",
+      "reading": "From the hall, see a tail above the courtyard’s low wall and hear chains; the body is initially hidden.",
       "evidence": [
         {
           "startUid": "u1283",
+          "endUid": "u1295",
+          "quote": "You just still see it's tail weaving."
+        },
+        {
+          "startUid": "u1304",
           "endUid": "u1304",
           "quote": "You can hear the chains rattling"
         }
@@ -709,23 +1372,28 @@
       "id": "l20",
       "type": "movement",
       "source": {
-        "startUid": "u1313",
+        "startUid": "u1311",
         "endUid": "u1343"
       },
       "actors": [
         "Gaudin"
       ],
-      "reading": "Approach the courtyard entrance, touch the tail with Mage Hand, then be dragged back behind the wall after the gaze.",
+      "reading": "Move to the courtyard entrance, touch the tail with Mage Hand, then be dragged back behind the wall during petrification.",
       "evidence": [
         {
-          "startUid": "u1313",
-          "endUid": "u1343",
-          "quote": "We dragged Gaudin back behind the wall bleeding."
+          "startUid": "u1311",
+          "endUid": "u1312",
+          "quote": "if you are right in the entrance you could get something that's in the middle."
         },
         {
-          "startUid": "u1311",
+          "startUid": "u1313",
           "endUid": "u1317",
-          "quote": "if you are right in the entrance you could get something that's in the middle."
+          "quote": "I will move towards"
+        },
+        {
+          "startUid": "u1343",
+          "endUid": "u1343",
+          "quote": "We dragged Gaudin back behind the wall bleeding."
         }
       ],
       "from": "p12",
@@ -733,7 +1401,7 @@
       "completion": "arrived",
       "route": [
         {
-          "reading": "Moves to the courtyard entrance, within Mage Hand range; does not cross into the basilisk enclosure."
+          "reading": "Approaches the courtyard entrance within Mage Hand range, then returns behind the protective wall; entry into the enclosure is not established."
         }
       ]
     },
@@ -747,12 +1415,22 @@
       "actors": [
         "Dilion"
       ],
-      "reading": "Peek through double doors into an empty sitting room, with views toward the formal garden.",
+      "reading": "Peek through double doors into an empty private sitting room with an archway view of the formal garden.",
       "evidence": [
+        {
+          "startUid": "u1380",
+          "endUid": "u1380",
+          "quote": "Can I have a peek into this first double door?"
+        },
         {
           "startUid": "u1388",
           "endUid": "u1399",
           "quote": "You can see like maybe a private study or a or a private sitting room."
+        },
+        {
+          "startUid": "u1388",
+          "endUid": "u1399",
+          "quote": "The sitting room itself is empty."
         }
       ],
       "place": "p14",
@@ -769,10 +1447,15 @@
       "actors": [
         "party"
       ],
-      "reading": "Peek into the great hall containing intact lifelike statues; do not enter or fully investigate.",
+      "reading": "Peek into the manor’s great hall, full of intact lifelike statues, without investigating or entering.",
       "evidence": [
         {
-          "startUid": "u1440",
+          "startUid": "u1441",
+          "endUid": "u1454",
+          "quote": "These ones don't have their heads smashed off."
+        },
+        {
+          "startUid": "u1461",
           "endUid": "u1469",
           "quote": "Of course, you've just peeked in right? You haven't really investigated it all."
         }
@@ -790,10 +1473,20 @@
       "actors": [
         "party"
       ],
-      "reading": "Look into the bedchamber at a sailor-like ghost; the DM explicitly says the party is only peeking.",
+      "reading": "Look through the bedchamber door at the mourning sailor ghost; the DM explicitly frames this as peeking.",
       "evidence": [
         {
           "startUid": "u1482",
+          "endUid": "u1486",
+          "quote": "you open that door. Look through it."
+        },
+        {
+          "startUid": "u1487",
+          "endUid": "u1496",
+          "quote": "a ghost, ghost who looks dressed like a sailor"
+        },
+        {
+          "startUid": "u1498",
           "endUid": "u1500",
           "quote": "I'm assuming you're not actually entering any?"
         }
@@ -811,8 +1504,13 @@
       "actors": [
         "party"
       ],
-      "reading": "Peek into the study containing old statues, shattered mirrors, papers, and a locket.",
+      "reading": "Peek into the adjacent study containing broken mirrors, four statues, papers and a locket.",
       "evidence": [
+        {
+          "startUid": "u1503",
+          "endUid": "u1509",
+          "quote": "a study, like a private study. There's smashed glass and broken mirrors everywhere"
+        },
         {
           "startUid": "u1503",
           "endUid": "u1509",
@@ -832,17 +1530,17 @@
       "actors": [
         "party"
       ],
-      "reading": "Enter the safer-looking study and sort through the papers and locket.",
+      "reading": "Enter the safer-looking study and examine its locket and pirate documents.",
       "evidence": [
-        {
-          "startUid": "u1510",
-          "endUid": "u1545",
-          "quote": "you you all start sorting through these documents."
-        },
         {
           "startUid": "u1510",
           "endUid": "u1511",
           "quote": "let's go into the safer looking room."
+        },
+        {
+          "startUid": "u1540",
+          "endUid": "u1545",
+          "quote": "you you all start sorting through these documents."
         }
       ],
       "from": null,
@@ -863,17 +1561,22 @@
         "Loria",
         "Dilion"
       ],
-      "reading": "Gaudin addresses the ghost at the bedroom door with companions behind him; crossing into the bedroom is not explicit.",
+      "reading": "Gaudin knocks and talks to the ghost, with his companions behind him at the bedchamber door.",
       "evidence": [
         {
           "startUid": "u1610",
-          "endUid": "u1628",
+          "endUid": "u1611",
           "quote": "I knock on the door. You go. Guys are behind me watching yeah and listening"
+        },
+        {
+          "startUid": "u1612",
+          "endUid": "u1615",
+          "quote": "this ghost goes to draw like a a rapier or a scimitar."
         }
       ],
       "place": "p19",
-      "note": "Presence is at the bedchamber doorway for the sustained ghost exchange; entry into the room is not asserted."
+      "note": "The later sustained exchange identifies the room and its trapdoor; no physical crossing into the bedroom or descent below is narrated."
     }
   ],
-  "limitations": "The recording omission acknowledged at u1211 removes the archive exit and first scouting movements. Later map-pointer descriptions leave some door topology and observer positions unspecified."
+  "limitations": "The omission acknowledged at u1211 removes the archive exit and first library/scouting movements. Map-pointer speech leaves some thresholds and observer positions open. The dog-and-Steampup wording at u1103–u1106 conflicts with the missing-dog context; second-animal attendance remains unresolved."
 }
