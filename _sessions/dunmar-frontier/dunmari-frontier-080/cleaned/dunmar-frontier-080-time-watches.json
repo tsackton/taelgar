@@ -1,0 +1,170 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-time-markers.json",
+    "sha256": "90c832124dc7c7ea19b6d018c845ada7a49d988eeb642fbd76d2240ff82a27db"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-transcript.md",
+    "sha256": "de5d27ede943bae9d2e91135f3fc43154d8cab048c2b37f47c6ab847efc0993b"
+  },
+  "dateAssessment": "The working calendar uses YAML’s year 1748. Spoken December 10, 14 and 16 anchors, followed by the explicit next morning before Melindir, support December 10–17 and seven calendar transitions (matched). The night called December 13 may straddle December 13–14. The transcript does not establish everyone’s overnight accommodation. Player bedtime and next-day scheduling from u4822 onward add no in-world day.",
+  "watches": [
+    {
+      "day": "December 10, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Departure at sunrise on December 10.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-12-10",
+      "endDate": "1748-12-10"
+    },
+    {
+      "day": "During December 10–13, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "One minute inspecting the damaged hull during the first several days; the exact watch is unstated.",
+      "markers": [
+        "t03"
+      ],
+      "dateWindow": [
+        "1748-12-10",
+        "1748-12-13"
+      ]
+    },
+    {
+      "day": "During December 13–14, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Mostreve crossing in the night called December 13, a little more than three days after departure.",
+      "markers": [
+        "t02"
+      ],
+      "dateWindow": [
+        "1748-12-13",
+        "1748-12-14"
+      ]
+    },
+    {
+      "day": "December 14, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "December 14 sunrise; the gulf is still in the distance.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1748-12-14",
+      "endDate": "1748-12-14"
+    },
+    {
+      "day": "December 14, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Most of the day crossing Tyrwingha; winter sunset at the shore suggests afternoon, like the later 4 p.m. sunset.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1748-12-14",
+      "endDate": "1748-12-14",
+      "sourceRanges": [
+        [
+          "u3152",
+          "u3153"
+        ]
+      ]
+    },
+    {
+      "day": "December 16, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Gulf crossing ends at December 16 dawn, roughly six days after leaving the orcs.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1748-12-16",
+      "endDate": "1748-12-16"
+    },
+    {
+      "day": "December 16, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Docks described as mid-afternoon; Guy’s shop clock revised from three to about two.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "startDate": "1748-12-16",
+      "endDate": "1748-12-16",
+      "scope": "Arrival and map-shop track"
+    },
+    {
+      "day": "December 16, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Delwath returns at the 4 p.m. sunset, then watches Kenzo for a minute.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "startDate": "1748-12-16",
+      "endDate": "1748-12-16",
+      "scope": "Ship and river track"
+    },
+    {
+      "day": "December 16, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Conversation lasts a while before the rush eases and Wendel joins; exact watch remains open.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-12-16",
+      "endDate": "1748-12-16"
+    },
+    {
+      "day": "December 16, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "About 9–9:30 p.m.; brief waits bring Nika over, and the earlier telepathy has expired.",
+      "markers": [
+        "t12",
+        "t13",
+        "t14"
+      ],
+      "startDate": "1748-12-16",
+      "endDate": "1748-12-16"
+    },
+    {
+      "day": "December 17, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "The next morning follows December 16’s evening; the group chooses Melindir first.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1748-12-17",
+      "endDate": "1748-12-17"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Supplemental recording timeline",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-080/sources/supplemental/01-dunmar-frontier-080-source-timeline.json",
+      "sha256": "c0f2672166f9fe244ff9d62408fc66d63bef702d43f708d4c7751ec6e7447c4b"
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-080",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-session.yaml",
+    "sessionYamlSha256": "393ee40a20a81447c44eb737263ff80c912132947d2a7f658e4bea9d3c674bb3",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-transcript.md",
+    "transcriptSha256": "de5d27ede943bae9d2e91135f3fc43154d8cab048c2b37f47c6ab847efc0993b",
+    "yamlDates": {
+      "start": "1748-12-10",
+      "end": "1748-12-17"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0011"
+      },
+      "reading": "Depart the land of the orcs at sunrise on December 10.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0011",
+          "quote": "DM: Okay. So, you leave the land of the orcs early in the morning as the sun is rising on December 10th, and head north."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Spoken month/day and sunrise; no year spoken",
+        "partOfDay": "sunrise",
+        "date": {
+          "month": 12,
+          "day": 10
+        }
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0024"
+      },
+      "reading": "The first several days of northward flight cross the Plaguelands and reach the Mostreve Hills in the middle of the night named December 13, a little more than three days after departure.",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0024",
+          "quote": "DM: The first several days you pass over the deserted wastelands of the Plaguelands, dusty dry rivers."
+        },
+        {
+          "startUid": "u0494",
+          "endUid": "u0497",
+          "quote": "DM: ...you pass through the Plaguelands, and by December 13th, in the middle of the night, maybe a little bit more than three days after you left the orcs, you cross the Mostreve Hills, that line of hills, just..."
+        },
+        {
+          "startUid": "u0501",
+          "endUid": "u0502",
+          "quote": "DM: Um, into, um, um, Tyrwingha."
+        }
+      ],
+      "duration": {
+        "text": "a little more than three days",
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Initial several-day montage is later dated and described as a little more than three days"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM names December 13; the nocturnal civil boundary is not specified",
+        "partOfDay": "middle of the night",
+        "date": {
+          "month": 12,
+          "day": 13
+        }
+      },
+      "completion": "completed",
+      "note": "The named night may straddle December 13–14; do not turn the phrase into an exact civil clock."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0302",
+        "endUid": "u0306"
+      },
+      "reading": "Wellby looks into the damaged hull for a minute while the flyers assess the residue.",
+      "evidence": [
+        {
+          "startUid": "u0302",
+          "endUid": "u0302",
+          "quote": "DM: Uh, you like look for a minute as Delwath..."
+        },
+        {
+          "startUid": "u0308",
+          "endUid": "u0308",
+          "quote": "DM: Uh, so as you're looking up you can see that there's like this like black like tar like substance that's sort of clinging to the walls."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "basis": "Narrated elapsed interval",
+        "precision": "exact"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t02"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0531",
+        "endUid": "u0536"
+      },
+      "reading": "Sunrise on December 14 finds the ship still over land, with the Western Gulf visible in the distance.",
+      "evidence": [
+        {
+          "startUid": "u0531",
+          "endUid": "u0534",
+          "quote": "DM: And as the sun rises, you are in the middle of the Western Gulf. The sun rises on December 14th. Um..."
+        },
+        {
+          "startUid": "u0535",
+          "endUid": "u0536",
+          "quote": "DM: Uh, sorry, as the sun rises on Dec- on December 14th, you can see the Western Gulf in the, in the distance, the shimmering sea that Wellby spent most of his childhood sailing around."
+        },
+        {
+          "startUid": "u0682",
+          "endUid": "u0682",
+          "quote": "Seeker: Well, we're not quite over the gulf yet, or maybe we are."
+        },
+        {
+          "startUid": "u0684",
+          "endUid": "u0684",
+          "quote": "Unknown: Yeah. You’re, you’re still on land right now. [laughs]"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Spoken December 14 sunrise; immediate correction concerns location",
+        "partOfDay": "sunrise",
+        "date": {
+          "month": 12,
+          "day": 14
+        }
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0816",
+        "endUid": "u0833"
+      },
+      "reading": "Most of the day is spent crossing Tyrwingha, reaching the shores at sunset during Kenzo’s pilot transition.",
+      "evidence": [
+        {
+          "startUid": "u0816",
+          "endUid": "u0817",
+          "quote": "DM: So as the sun rises, you cross through, you spend most of the day crossing through the expanse of Tollen and as, um, the night-"
+        },
+        {
+          "startUid": "u0819",
+          "endUid": "u0819",
+          "quote": "DM: Sorry, the expanse of Tyrwingha."
+        },
+        {
+          "startUid": "u0829",
+          "endUid": "u0833",
+          "quote": "DM: And as, um, you know, as the sun sets and, um, you're reaching the shores, Kenzo, you know, as Kenzo is transitioning, Kenzo, you meditate for a moment as you're connecting to the airship and then to the ocean shores near you, the sea."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Continues the December 14 sunrise anchor",
+          "partOfDay": "sunrise",
+          "date": {
+            "month": 12,
+            "day": 14
+          }
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Same narrated day; sunset arrival is stated",
+          "partOfDay": "sunset",
+          "date": {
+            "month": 12,
+            "day": 14
+          }
+        }
+      },
+      "duration": {
+        "text": "most of the day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM narrates the day crossing Tyrwingha, corrected from Tollen"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0914",
+        "endUid": "u0916"
+      },
+      "reading": "Kenzo flies through the night; the gulf crossing continues through most of the following day and into the next night, reaching the morning of December 16, roughly six days after leaving the orcs.",
+      "evidence": [
+        {
+          "startUid": "u0914",
+          "endUid": "u0916",
+          "quote": "DM: And you take over for Seeker and fly through the night."
+        },
+        {
+          "startUid": "u0950",
+          "endUid": "u0950",
+          "quote": "DM: So it takes you most of the day and into the next night to cross the gulf."
+        },
+        {
+          "startUid": "u0951",
+          "endUid": "u0951",
+          "quote": "DM: And by the morning of December 16th-"
+        },
+        {
+          "startUid": "u0953",
+          "endUid": "u0953",
+          "quote": "DM: ... roughly six days after you left."
+        },
+        {
+          "startUid": "u0992",
+          "endUid": "u0994",
+          "quote": "DM: Um, so as the morning of December 16th dawns..."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Night following the December 14 sunset",
+          "partOfDay": "night",
+          "date": {
+            "month": 12,
+            "day": 14
+          }
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Spoken December 16 morning, repeated as dawn",
+          "partOfDay": "morning",
+          "date": {
+            "month": 12,
+            "day": 16
+          }
+        }
+      },
+      "duration": {
+        "text": "through the night, most of the following day and into the next night",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Elapsed crossing narration, not the initial miles-per-day forecast"
+      },
+      "dateBoundaries": 2,
+      "completion": "completed",
+      "note": "Roughly six days is the total from the December 10 departure, not an additional six-day crossing."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1582",
+        "endUid": "u1584"
+      },
+      "reading": "Arrival at the busy docks is described as mid-afternoon during the December 16 Tollen arrival.",
+      "evidence": [
+        {
+          "startUid": "u1577",
+          "endUid": "u1578",
+          "quote": "DM: To the busy docks of Tollen."
+        },
+        {
+          "startUid": "u1582",
+          "endUid": "u1583",
+          "quote": "DM: There's, um, everything is sort of cold and a little bit dark because it's, you know, it's mid-afternoon in near the, near the darkest day of the year."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Mid-afternoon stated; date carried from the December 16 arrival without an intervening advance",
+        "partOfDay": "mid-afternoon",
+        "date": {
+          "month": 12,
+          "day": 16
+        }
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1890",
+        "endUid": "u1892"
+      },
+      "reading": "Wellby and Seeker reach Guy’s shop at about two in the afternoon, after the DM first says three.",
+      "evidence": [
+        {
+          "startUid": "u1890",
+          "endUid": "u1891",
+          "quote": "DM: So you walk along the street and, and you see his shop and it's, it's probably like 3:00 in the afternoon at this point, 2:00 in the afternoon. Um..."
+        },
+        {
+          "startUid": "u1892",
+          "endUid": "u1892",
+          "quote": "DM: And you enter and he's, his shop is like chaotic."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Seeker"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM revises approximately 3 p.m. to 2 p.m.; date follows the same arrival day",
+        "partOfDay": "afternoon",
+        "date": {
+          "month": 12,
+          "day": 16
+        },
+        "clock": "14:00"
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u3152",
+        "endUid": "u3153"
+      },
+      "reading": "Delwath is back at the ship as the sun starts setting at about four in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u3152",
+          "endUid": "u3153",
+          "quote": "DM: So as, as the sun begins to set in the sky at like 4:00 in the afternoon, um, Delwath is back at the ship."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Explicit 4 p.m. sunset on the same Tollen day",
+        "partOfDay": "sunset",
+        "date": {
+          "month": 12,
+          "day": 16
+        },
+        "clock": "16:00"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u3213",
+        "endUid": "u3221"
+      },
+      "reading": "Delwath watches Kenzo experimenting in the river for a minute.",
+      "evidence": [
+        {
+          "startUid": "u3213",
+          "endUid": "u3213",
+          "quote": "Delwath: I'll watch for a minute, the manta ray, see if it does anything interesting."
+        },
+        {
+          "startUid": "u3214",
+          "endUid": "u3215",
+          "quote": "Kenzo: Oh yeah, it's going crazy. It's just like, it's like clearly experimenting, leaping out of the water and like-"
+        },
+        {
+          "startUid": "u3221",
+          "endUid": "u3221",
+          "quote": "DM: I mean, when he leap out, when he leaps out of the water you can see that it's Kenzo."
+        },
+        {
+          "startUid": "u3229",
+          "endUid": "u3229",
+          "quote": "Delwath: On the ship looking down at you."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "basis": "Declared minute of watching is played out in the following description",
+        "precision": "exact"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u3444",
+        "endUid": "u3444"
+      },
+      "reading": "The group has been sitting and talking for a while before the busy rush eases and Wendel joins them.",
+      "evidence": [
+        {
+          "startUid": "u3444",
+          "endUid": "u3444",
+          "quote": "DM: It's, yeah, so you, I mean, you've been sitting and talking for a while, like, the, the, like, busy rush has died down a little bit, and so you wave him over and he comes."
+        }
+      ],
+      "duration": {
+        "text": "a while",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly advances the ongoing conversation until the busy rush dies down"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u3882",
+        "endUid": "u3886"
+      },
+      "reading": "The band winds down at about nine to nine-thirty that evening as the group waits to meet Nika.",
+      "evidence": [
+        {
+          "startUid": "u3882",
+          "endUid": "u3886",
+          "quote": "DM: So as you're chatting and hanging out, um, as, you know, as the band begins to wind down, um, towards, towards 9:00, as it's starting to get a bit later, 9:30, um, I assume you've told Wendel that you'd be interested in talking to Nika, and,"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM moves from toward 9 p.m. to 9:30; same evening following the December 16 arrival",
+        "partOfDay": "evening",
+        "date": {
+          "month": 12,
+          "day": 16
+        },
+        "clock": "21:30"
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u3920",
+        "endUid": "u3927"
+      },
+      "reading": "A few minutes pass after Wellby’s story; Wendel speaks to Nika for a few minutes before she comes to the table.",
+      "evidence": [
+        {
+          "startUid": "u3909",
+          "endUid": "u3909",
+          "quote": "Wellby: I, I feel like Wellby would definitely hop up and tell the story of Nayan Sura trapped by Agata."
+        },
+        {
+          "startUid": "u3920",
+          "endUid": "u3923",
+          "quote": "DM: Um, and after, like, Wellby sits down and, like, you know, a few minutes has, has gone, you see Wendel go over to her and just, you know, kind of talk, uh, to her for a few minutes and, and a few minutes later she gets up and she kind of walks, walks over to your table and sort of-"
+        },
+        {
+          "startUid": "u3924",
+          "endUid": "u3926",
+          "quote": "DM: So Wendel says, “You are interested in the university? Maybe you need a guide?”"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes before and during the introduction",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Successive short waits narrated without an exact total"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u3967",
+        "endUid": "u3970"
+      },
+      "reading": "The earlier telepathic connection has expired: the DM confirms that much more than an hour has passed.",
+      "evidence": [
+        {
+          "startUid": "u3967",
+          "endUid": "u3967",
+          "quote": "DM: I don't think you have telepathy after this time."
+        },
+        {
+          "startUid": "u3969",
+          "endUid": "u3969",
+          "quote": "DM: It's been way more than an hour."
+        },
+        {
+          "startUid": "u3970",
+          "endUid": "u3970",
+          "quote": "DM: I don't think Seekers like spending 10 minutes doing a ritual."
+        }
+      ],
+      "duration": {
+        "min": 1,
+        "minInclusive": false,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM explicitly confirms more than an hour since the earlier connection; no exact ritual start is supplied"
+      },
+      "completion": "completed",
+      "note": "This confirms elapsed time already covered by the day and evening; it is not an additional hour after Nika arrives."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u4193",
+        "endUid": "u4203"
+      },
+      "reading": "Play advances from the evening at the inn to the following morning, when the group decides to visit Melindir.",
+      "evidence": [
+        {
+          "startUid": "u4193",
+          "endUid": "u4193",
+          "quote": "DM: So in the morning-"
+        },
+        {
+          "startUid": "u4195",
+          "endUid": "u4196",
+          "quote": "DM: ... uh, do you wanna talk to the, go try and find the priest before you meet Nika, or do you wanna just-"
+        },
+        {
+          "startUid": "u4201",
+          "endUid": "u4201",
+          "quote": "DM: Let's go and talk to the elf."
+        },
+        {
+          "startUid": "u4203",
+          "endUid": "u4203",
+          "quote": "Seeker: Now we're all going to talk to the elf."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Following morning after the independently dated December 16 evening; year remains unstated",
+        "partOfDay": "morning",
+        "date": {
+          "month": 12,
+          "day": 17
+        }
+      },
+      "dateBoundaries": 1
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "December 10, 13, 14 and 16 are spoken. The following morning is December 17 by continuation. The year 1748 comes only from YAML.",
+    "expectedDateBoundaries": 7,
+    "supportedDateBoundaries": 7,
+    "evidence": [
+      "t01",
+      "t02",
+      "t04",
+      "t05",
+      "t06",
+      "t12",
+      "t15"
+    ],
+    "explanation": "The spoken December 10 departure through December 16 arrival accounts for six calendar transitions; the explicit next-morning advance before Melindir adds one. The internal midnight label remains approximate without changing the overall span. Real-world bedtime and tomorrow scheduling after u4822 add no adventure day."
+  }
+}

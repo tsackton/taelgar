@@ -1,0 +1,202 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-080",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-session.yaml",
+    "sessionYamlSha256": "393ee40a20a81447c44eb737263ff80c912132947d2a7f658e4bea9d3c674bb3",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-transcript.md",
+    "transcriptSha256": "de5d27ede943bae9d2e91135f3fc43154d8cab048c2b37f47c6ab847efc0993b"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0026"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0027",
+        "endUid": "u0103"
+      },
+      "category": "table_talk",
+      "note": "Sustained map-display and technical setup, including brief sidequest jokes."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0104",
+        "endUid": "u1540"
+      },
+      "category": "gameplay",
+      "note": "The acidic hazard has no initiative or repeated ordered turn cycle."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1541",
+        "endUid": "u1552"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1553",
+        "endUid": "u1677"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1678",
+        "endUid": "u1702"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1703",
+        "endUid": "u2296"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2297",
+        "endUid": "u2320"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2321",
+        "endUid": "u2571"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2572",
+        "endUid": "u2610"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2611",
+        "endUid": "u2921"
+      },
+      "category": "gameplay",
+      "note": "Purchases, construction quotes and ordinary resource adjudication remain active play."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2922",
+        "endUid": "u2994"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2995",
+        "endUid": "u3266"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u3267",
+        "endUid": "u3285"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u3286",
+        "endUid": "u3797"
+      },
+      "category": "gameplay",
+      "note": "The corrected flying-castle story includes short metagame recollections within the continuing Wendel exchange."
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u3798",
+        "endUid": "u3823"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u3824",
+        "endUid": "u4298"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u4299",
+        "endUid": "u4310"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u4311",
+        "endUid": "u4821"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u4822",
+        "endUid": "u4860"
+      },
+      "category": "table_talk",
+      "note": "Bedtime, sculpture walks and next-day plans refer to the players, not an in-world rest."
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u4861",
+        "endUid": "u5104"
+      },
+      "category": "meta_discussion",
+      "note": "Postgame discussion of the session, future campaign goals and possible elven worldbuilding."
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u5105",
+        "endUid": "u5125"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
