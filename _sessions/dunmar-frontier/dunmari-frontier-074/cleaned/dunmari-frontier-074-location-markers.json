@@ -1,0 +1,832 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-074",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-session.yaml",
+    "sessionYamlSha256": "fca199b22d6e23dac1e64d0f2e2bec3b4a06c44e211448f0634e13abe90627d6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-transcript.md",
+    "transcriptSha256": "114d77a10220233a5b20342f50ef2285513e95671b6246236ec71600c918fcb4"
+  },
+  "places": {
+    "p01": {
+      "label": "Dunmar",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0009",
+          "quote": "on the plains of Dunmar"
+        }
+      ],
+      "kind": "realm",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+    },
+    "p02": {
+      "label": "Camp beside the excavated airship",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0020",
+          "quote": "And now you sit, I guess, preparing the evening meal, looking at the task in front of you, as the ship now in the daylight is massive. And the task seems challenging."
+        },
+        {
+          "startUid": "u0047",
+          "endUid": "u0049",
+          "quote": "So wait, we're—sorry, I forgot what you just said about where we are. We're back at the camp. We're back at the airship, right? Yeah, we flew back, right?"
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0009",
+              "quote": "on the plains of Dunmar"
+            },
+            {
+              "startUid": "u0018",
+              "endUid": "u0020",
+              "quote": "And now you sit, I guess, preparing the evening meal, looking at the task in front of you, as the ship now in the daylight is massive. And the task seems challenging."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0047",
+              "endUid": "u0049",
+              "quote": "So wait, we're—sorry, I forgot what you just said about where we are. We're back at the camp. We're back at the airship, right? Yeah, we flew back, right?"
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0047",
+              "endUid": "u0049",
+              "quote": "So wait, we're—sorry, I forgot what you just said about where we are. We're back at the camp. We're back at the airship, right? Yeah, we flew back, right?"
+            },
+            {
+              "startUid": "u0420",
+              "endUid": "u0423",
+              "quote": "Whereas the stern, which was jutting up into the sky, is all sort of chipped and marred, and it seems like there's just, you know—you know the people built a tower on top of it, right? There's like it, you know, stuff has been added to it. It's been—the rubble of the tower has sort of collapsed around it. [garbled]."
+            },
+            {
+              "startUid": "u0986",
+              "endUid": "u0992",
+              "quote": "Now I can't find in my notes. What if the tower used to be called? Hold on. Eudomes. That—there's too many things that come up when I search Stormcaller Tower because it's tagged in like literally half of my notes. The Tower of the Wild Wind."
+            }
+          ],
+          "note": "The camp is at the excavated airship and former tower site; it is not within the ruined tower building."
+        }
+      ]
+    },
+    "p03": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0023",
+          "quote": "The Vindristjarna—the name of this ship—is maybe 250 feet long, fully excavated, maybe 60 feet wide, with the shape and proportion similar to a long ship, much longer than it is wide, and only about 40 or 50 feet tall, with a prominent prow and stern raising, rising on each end from the flat middle."
+        },
+        {
+          "startUid": "u0024",
+          "endUid": "u0033",
+          "quote": "Now you can see that the ship is weathered unevenly where the stern, which—where the tower had been worn and misshapen, and the prow much more intact, retaining its almost ship-like form. Although whatever structures, or storage, or decking or decorations that had once marked this yeah, vessel of the giants are now mostly weathered and gone, although in places you still can see the elegant slate-gray basalt of the original ship. Yeah, peeking out from the mud and the sediment that has accreted onto it over the millennia since it crashed, with the occasional glint of polished jasper, shining reddish gray."
+        }
+      ],
+      "mobile": true,
+      "note": "Excavated but grounded at the opening; it first hovers during this session.",
+      "kind": "vessel",
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p04": {
+      "label": "Former site of the Tower of the Wild Wind",
+      "evidence": [
+        {
+          "startUid": "u0420",
+          "endUid": "u0423",
+          "quote": "Whereas the stern, which was jutting up into the sky, is all sort of chipped and marred, and it seems like there's just, you know—you know the people built a tower on top of it, right? There's like it, you know, stuff has been added to it. It's been—the rubble of the tower has sort of collapsed around it. [garbled]."
+        },
+        {
+          "startUid": "u0986",
+          "endUid": "u0989",
+          "quote": "Now I can't find in my notes. What if the tower used to be called? Hold on. Eudomes. That—there's too many things that come up when I search Stormcaller Tower because it's tagged in like literally half of my notes. The Tower of the Wild Wind."
+        },
+        {
+          "startUid": "u0990",
+          "endUid": "u0992",
+          "quote": "\"I had heard stories about it. It was cursed place of strange magic, but never a permanent storm. And so when that—that was something new and that happened, I didn't think it was a safe place to go. I—I guess you are such—wow! I mean, I don't know that there's anywhere that's dangerous for you."
+        }
+      ],
+      "aliases": [
+        "Stormcaller Tower"
+      ],
+      "note": "Collapsed tower rubble identifies the site. The transcript places the former tower at the stern; the Stormcaller Tower note says prow.",
+      "kind": "ruined site",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0009",
+              "quote": "on the plains of Dunmar"
+            },
+            {
+              "startUid": "u0420",
+              "endUid": "u0423",
+              "quote": "Whereas the stern, which was jutting up into the sky, is all sort of chipped and marred, and it seems like there's just, you know—you know the people built a tower on top of it, right? There's like it, you know, stuff has been added to it. It's been—the rubble of the tower has sort of collapsed around it. [garbled]."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Deck of Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0720",
+          "endUid": "u0726",
+          "quote": "Over the course of the next day, so Delwath is going to scry. Wellby and Kenzo are kind of keeping watch and—and making sure nothing sneaks up on the dwarves who are working hard at work on deck, building and helm construction."
+        },
+        {
+          "startUid": "u1956",
+          "endUid": "u1958",
+          "quote": "Right, right, right now everything's just basically a solid deck with rubble that hasn't really been well cleared out yet."
+        },
+        {
+          "startUid": "u1970",
+          "endUid": "u1973",
+          "quote": "And yeah, we're sleeping on the ship now, is that—yeah?"
+        }
+      ],
+      "kind": "deck",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0720",
+              "endUid": "u0726",
+              "quote": "Over the course of the next day, so Delwath is going to scry. Wellby and Kenzo are kind of keeping watch and—and making sure nothing sneaks up on the dwarves who are working hard at work on deck, building and helm construction."
+            },
+            {
+              "startUid": "u1970",
+              "endUid": "u1973",
+              "quote": "And yeah, we're sleeping on the ship now, is that—yeah?"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Kharsan",
+      "evidence": [
+        {
+          "startUid": "u0732",
+          "endUid": "u0732",
+          "quote": "So I'll start by scrying a couple of points around Kharsan."
+        },
+        {
+          "startUid": "u0733",
+          "endUid": "u0747",
+          "quote": "Okay. On—as of November 20 fifth, as you scry a few places that are in Kharsan, and you see a small contingent of orcs camped. The orc fort does not seem to be occupied any longer, and there is a a smallish, maybe 500, so—orc army camped immediately east of the city. Like they haven't started marching, but they are ready to march."
+        }
+      ],
+      "kind": "ruined city",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Kharsan.md"
+    },
+    "p07": {
+      "label": "Orc fort",
+      "evidence": [
+        {
+          "startUid": "u0733",
+          "endUid": "u0738",
+          "quote": "The orc fort does not seem to be occupied any longer"
+        }
+      ],
+      "note": "The fort appears in the Kharsan scrying account; its exact position relative to the city is not stated here.",
+      "kind": "fort"
+    },
+    "p08": {
+      "label": "Army camp immediately east of Kharsan",
+      "evidence": [
+        {
+          "startUid": "u0733",
+          "endUid": "u0738",
+          "quote": "a smallish, maybe 500, so—orc army camped immediately east of the city"
+        }
+      ],
+      "kind": "army camp",
+      "relations": [
+        {
+          "relation": "east_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0733",
+              "endUid": "u0738",
+              "quote": "camped immediately east of the city"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Garamjala",
+      "evidence": [
+        {
+          "startUid": "u0850",
+          "endUid": "u0854",
+          "quote": "They're on horseback in a—in a dry, arid desert. This is like, you know, in the Garamjala, in the like, you know, close to, you know, the—it's the type of terrain that's like was just south of like Pava and Avaras' stone house, and that you've traveled through briefly on your way to Kharsan."
+        }
+      ],
+      "note": "Delwath sees Kadmos’s party in this desert remotely. The comparison with terrain south of Pava and Avaras’ house does not establish a visit to that house or an exact position.",
+      "kind": "desert",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert.md"
+    },
+    "p10": {
+      "label": "Grass where Alesh dismounts, one or two miles from camp",
+      "evidence": [
+        {
+          "startUid": "u0959",
+          "endUid": "u0961",
+          "quote": "A mile or so or 2 miles from where you are camped, as you're flying overhead as a bird. She dismounts and whispers something to her horse, and then begins to sort of creep through the grass relatively, slowly and quietly, in this direction."
+        },
+        {
+          "startUid": "u0964",
+          "endUid": "u0985",
+          "quote": "Or just go meet her."
+        }
+      ],
+      "kind": "meeting place",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0959",
+              "endUid": "u0961",
+              "quote": "A mile or so or 2 miles from where you are camped, as you're flying overhead as a bird. She dismounts and whispers something to her horse, and then begins to sort of creep through the grass relatively, slowly and quietly, in this direction."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Hull-side vantage at Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0538",
+          "endUid": "u0538",
+          "quote": "I'll spend some time floating around on the ladder trying to chip away at those to see if I can gather any clues about what they represented."
+        },
+        {
+          "startUid": "u0570",
+          "endUid": "u0581",
+          "quote": "Yes. So do—do I read anything into those jasper decorations?"
+        }
+      ],
+      "kind": "exterior vantage",
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0538",
+              "endUid": "u0538",
+              "quote": "I'll spend some time floating around on the ladder trying to chip away at those to see if I can gather any clues about what they represented."
+            },
+            {
+              "startUid": "u0570",
+              "endUid": "u0581",
+              "quote": "Yes. So do—do I read anything into those jasper decorations?"
+            }
+          ],
+          "note": "Seeker examines the decoration from the ladder alongside the ship."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0020"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five PCs return out of clouds and mist to their camp at the excavated skyship on the Dunmari plains.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0009",
+          "quote": "Okay. So we begin on the plains of Dunmar as the sun sets, as the 5 of you materialize from the air out of clouds and mist and fog, returned with notes and books, and most importantly, the phasing stone that will hopefully, with some work and effort power the crashed airship now dug out and excavated and cleaned and dried in the daylight, looking more and more ship-like."
+        },
+        {
+          "startUid": "u0018",
+          "endUid": "u0020",
+          "quote": "And now you sit, I guess, preparing the evening meal, looking at the task in front of you, as the ship now in the daylight is massive. And the task seems challenging."
+        }
+      ],
+      "from": null,
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "wind transport"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0538",
+        "endUid": "u0581"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker investigates the ship’s surviving jasper decoration from his ladder; this does not establish an interior room.",
+      "evidence": [
+        {
+          "startUid": "u0538",
+          "endUid": "u0538",
+          "quote": "I'll spend some time floating around on the ladder trying to chip away at those to see if I can gather any clues about what they represented."
+        },
+        {
+          "startUid": "u0570",
+          "endUid": "u0581",
+          "quote": "Yes. So do—do I read anything into those jasper decorations?"
+        }
+      ],
+      "place": "p11",
+      "note": "He floats around beside the hull on the ladder; the cited observation does not establish entry below decks."
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0720",
+        "endUid": "u0726"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "The dwarves work on deck constructing the helm, while Wellby and Kenzo keep watch and Delwath scries.",
+      "evidence": [
+        {
+          "startUid": "u0720",
+          "endUid": "u0726",
+          "quote": "Over the course of the next day, so Delwath is going to scry. Wellby and Kenzo are kind of keeping watch and—and making sure nothing sneaks up on the dwarves who are working hard at work on deck, building and helm construction."
+        },
+        {
+          "startUid": "u1059",
+          "endUid": "u1060",
+          "quote": "Yeah, Delwath will show up after a few minutes then."
+        },
+        {
+          "startUid": "u1551",
+          "endUid": "u1561",
+          "quote": "Meanwhile, the dwarfs are working on the gold"
+        }
+      ],
+      "place": "p05",
+      "note": "Seeker explicitly stays at work when Delwath joins Alesh. The later statement that everyone signs the letter does not establish a narrated movement of the dwarves to the meeting."
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0720",
+        "endUid": "u0726"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Delwath scries and the other two keep watch at the airship camp while the dwarves work on deck.",
+      "evidence": [
+        {
+          "startUid": "u0720",
+          "endUid": "u0726",
+          "quote": "Over the course of the next day, so Delwath is going to scry. Wellby and Kenzo are kind of keeping watch and—and making sure nothing sneaks up on the dwarves who are working hard at work on deck, building and helm construction."
+        },
+        {
+          "startUid": "u0938",
+          "endUid": "u0944",
+          "quote": "And as the dwarves get set up to begin their construction for the day, and as Delwath consider as what—what you might scry, or what you might seek out, what information you might seek out today, and Kenzo and and Wellby continue to watch and keep an eye out, Wellby, you see from the south a—a cloud of dust of somebody, right, of a horse riding in your direction."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0733",
+        "endUid": "u0747"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scries points in Kharsan, seeing undead gathering and the forges silent.",
+      "evidence": [
+        {
+          "startUid": "u0732",
+          "endUid": "u0732",
+          "quote": "So I'll start by scrying a couple of points around Kharsan."
+        },
+        {
+          "startUid": "u0733",
+          "endUid": "u0747",
+          "quote": "Okay. On—as of November 20 fifth, as you scry a few places that are in Kharsan, and you see a small contingent of orcs camped. The orc fort does not seem to be occupied any longer, and there is a a smallish, maybe 500, so—orc army camped immediately east of the city. Like they haven't started marching, but they are ready to march."
+        }
+      ],
+      "place": "p06",
+      "mode": "remote",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0733",
+        "endUid": "u0738"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "The orc fort is no longer occupied in the scrying view.",
+      "evidence": [
+        {
+          "startUid": "u0733",
+          "endUid": "u0738",
+          "quote": "Okay. On—as of November 20 fifth, as you scry a few places that are in Kharsan, and you see a small contingent of orcs camped. The orc fort does not seem to be occupied any longer, and there is a a smallish, maybe 500, so—orc army camped immediately east of the city. Like they haven't started marching, but they are ready to march."
+        }
+      ],
+      "place": "p07",
+      "mode": "remote",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0733",
+        "endUid": "u0738"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Sees the small army encampment immediately east of Kharsan, ready but not yet marching.",
+      "evidence": [
+        {
+          "startUid": "u0733",
+          "endUid": "u0738",
+          "quote": "Okay. On—as of November 20 fifth, as you scry a few places that are in Kharsan, and you see a small contingent of orcs camped. The orc fort does not seem to be occupied any longer, and there is a a smallish, maybe 500, so—orc army camped immediately east of the city. Like they haven't started marching, but they are ready to march."
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0845",
+        "endUid": "u0862"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Through Hektor’s scry, sees Hektor, Antonia, Kadmos and Casian riding in the Garamjala; Vola is not seen and her scouting position remains a presumption.",
+      "evidence": [
+        {
+          "startUid": "u0845",
+          "endUid": "u0862",
+          "quote": "Delwath is scrying, and you see—so you scry on—on Hektor, who's riding together with Antonia, Kadmos and Casian, all—all of them in a line. You don't see Vola."
+        },
+        {
+          "startUid": "u0875",
+          "endUid": "u0878",
+          "quote": "And that looks like frustrated and looks over it at—sorry, Casian casts a spell and then looks frustrated and looks over at Kadmos and—"
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p02",
+      "observedActors": [
+        "Hektor",
+        "Antonia",
+        "Kadmos",
+        "Casian"
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0945",
+        "endUid": "u0961"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Uses Beast Sense through a bird to identify Alesh, then sees her dismount one or two miles from the party’s camp.",
+      "evidence": [
+        {
+          "startUid": "u0945",
+          "endUid": "u0955",
+          "quote": "Okay, find a bird and Beast Sense and get a sense if I can see more of who it is."
+        },
+        {
+          "startUid": "u0959",
+          "endUid": "u0961",
+          "quote": "A mile or so or 2 miles from where you are camped, as you're flying overhead as a bird. She dismounts and whispers something to her horse, and then begins to sort of creep through the grass relatively, slowly and quietly, in this direction."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p02",
+      "observedActors": [
+        "Alesh"
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0964",
+        "endUid": "u0985"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Wellby goes to meet Alesh; Kenzo confirms he accompanied him, and they speak with her away from the ship.",
+      "evidence": [
+        {
+          "startUid": "u0964",
+          "endUid": "u0976",
+          "quote": "Or just go meet her."
+        },
+        {
+          "startUid": "u0977",
+          "endUid": "u0985",
+          "quote": "I'm—I'm—I'm—am I with you, Wellby? Are you—did you—or did you go off on your own?"
+        }
+      ],
+      "from": "p02",
+      "to": "p10",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1055",
+        "endUid": "u1066"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath joins Wellby, Kenzo and Alesh after a few minutes, participating in their cover story about hunting.",
+      "evidence": [
+        {
+          "startUid": "u1055",
+          "endUid": "u1060",
+          "quote": "You may have forgotten, but tenth level we have a couple of [garbled] the—the [garbled] in a moment like this. Okay, yeah. So we—we explain in telepathy to everybody else that this is Alesh."
+        },
+        {
+          "startUid": "u1061",
+          "endUid": "u1066",
+          "quote": "So you didn't catch anything while hunting for our dinner—for lunch?"
+        }
+      ],
+      "from": "p02",
+      "to": "p10",
+      "completion": "arrived",
+      "note": "The accepted “will show up” entrance is followed by Delwath’s in-character explanation to Alesh. No corresponding entrance is established for Seeker or Riswynn."
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1747",
+        "endUid": "u1767"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "A later scry shows Grash and his army moving out of their encampment and Kharsan to the east.",
+      "evidence": [
+        {
+          "startUid": "u1746",
+          "endUid": "u1767",
+          "quote": "And I also just want to check up on Grash, right? Like just to see if they've started. I'll pick one of those orc encampments, right, and just try and—"
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p02",
+      "observedActors": [
+        "Grash"
+      ],
+      "note": "This is the retrospectively resolved November 27 scry. The army’s march is observed; the party does not visit Kharsan."
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1768",
+        "endUid": "u1787"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Morning scries again show Kadmos’s company still in the desert; one sensor is dispelled and the next receives Kadmos’s written warning.",
+      "evidence": [
+        {
+          "startUid": "u1768",
+          "endUid": "u1787",
+          "quote": "The Kadmos and Company are still traveling through the desert today, when you scry on them in the morning, just 30 s after you begin to scry, your image goes blank and your scrying sensor vanishes."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p02",
+      "observedActors": [
+        "Kadmos",
+        "Casian",
+        "Hektor"
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1970",
+        "endUid": "u1973"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The PCs are now sleeping in a camp on Vindristjarna’s deck, with a camp kitchen and dinner table.",
+      "evidence": [
+        {
+          "startUid": "u1954",
+          "endUid": "u1958",
+          "quote": "By the way, it's in—in these days Kenzo has—has started a—a—a modest garden on the top of the ship, so there is now actually like a little, like a little—little garden is taking form. Delwath has been working on the kitchen too. I know there's not much to work with at the moment, but like to the extent—"
+        },
+        {
+          "startUid": "u1970",
+          "endUid": "u1973",
+          "quote": "And yeah, we're sleeping on the ship now, is that—yeah?"
+        }
+      ],
+      "place": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "at",
+          "target": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u1974",
+        "endUid": "u1985"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Seeker lifts the ship into the air; it tilts and turns while he struggles to balance it.",
+      "evidence": [
+        {
+          "startUid": "u1974",
+          "endUid": "u1985",
+          "quote": "I take us up."
+        }
+      ],
+      "place": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "above",
+          "target": "p04"
+        }
+      ],
+      "note": "The source gives a fifteen-degree list, not an altitude or an onward journey."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1991",
+        "endUid": "u2002"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Riswynn"
+      ],
+      "reading": "The four PCs leave Seeker on the ship and fly toward the howling; no arrival is established before the cutoff.",
+      "evidence": [
+        {
+          "startUid": "u1991",
+          "endUid": "u1995",
+          "quote": "\"What am I thinking? Let's just go hunting,\" and an enormous pair of wings sprouts from his back, and he nocks an arrow and takes off to fly towards the dogs."
+        },
+        {
+          "startUid": "u2002",
+          "endUid": "u2002",
+          "quote": "The howl rings out again as you all begin closing on the sound, and everybody needs to make a wisdom saving throw."
+        },
+        {
+          "startUid": "u2023",
+          "endUid": "u2027",
+          "quote": "Okay, so we stop as Seeker is listing on the ship."
+        }
+      ],
+      "from": "p03",
+      "to": null,
+      "completion": "underway",
+      "mode": "fly",
+      "note": "The closing statement supplies the fourth flyer, Riswynn. It also says all four are pursuing the sounds despite the earlier narration making Kenzo flee; that unresolved reading is retained in l18."
+    },
+    {
+      "id": "l17",
+      "type": "presence",
+      "source": {
+        "startUid": "u1996",
+        "endUid": "u2005"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker stays aboard, attempting to park the tilting ship safely rather than approaching the howls; he remains within their 300-foot range.",
+      "evidence": [
+        {
+          "startUid": "u1996",
+          "endUid": "u1998",
+          "quote": "Seeker is alone on the stone ship at a 15 degree angle."
+        },
+        {
+          "startUid": "u2003",
+          "endUid": "u2005",
+          "quote": "I'm not approaching. Do I need to do the save?"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2014",
+        "endUid": "u2017"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "The howl frightens Kenzo and makes him turn and flee away from the sound.",
+      "evidence": [
+        {
+          "startUid": "u2009",
+          "endUid": "u2009",
+          "quote": "Fuck. 7."
+        },
+        {
+          "startUid": "u2014",
+          "endUid": "u2017",
+          "quote": "Oh, just Kenzo! The sound cuts through you, frightening you, forcing you to turn and flee from this noise. You turn and run, as everybody else still begins to approach. And let me just pause here because it's past midnight, and I don't think you necessarily want to start a battle now."
+        }
+      ],
+      "from": null,
+      "to": null,
+      "completion": "underway",
+      "mode": "fly",
+      "note": "The later closing restatement at u2024–u2026 describes four flyers pursuing the sound, leaving Kenzo’s direction unresolved; it is not treated as an explicit correction of the fear result."
+    }
+  ]
+}

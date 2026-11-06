@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-074",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-session.yaml",
+    "sessionYamlSha256": "fca199b22d6e23dac1e64d0f2e2bec3b4a06c44e211448f0634e13abe90627d6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-transcript.md",
+    "transcriptSha256": "114d77a10220233a5b20342f50ef2285513e95671b6246236ec71600c918fcb4",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-segments.json",
+      "sha256": "bb7d739e25fed49184117e00758ef34437759fde465d1e32401cb0483cd0c5d3",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": []
+}
