@@ -1,0 +1,345 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-071",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-session.yaml",
+    "sessionYamlSha256": "cbccff873d378e30ce6812931ebd7f45d0c600c00baec4bb78a7339555d9089d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-transcript.md",
+    "transcriptSha256": "7d737a7d710a496ffae1c67c06f219bcffdebd798547d5c0ae9b8d99218ba779",
+    "yamlDates": {
+      "start": "1748-11-23",
+      "end": "1748-11-23"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0552",
+        "endUid": "u0555"
+      },
+      "reading": "After the fight, the party takes a minute to catch its breath while Riswynn prays.",
+      "evidence": [
+        {
+          "startUid": "u0552",
+          "endUid": "u0555",
+          "quote": "So you take a minute to catch your breath, get your— get your— Riswynn says a few prayers to—"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated elapsed time"
+      },
+      "context": "vision",
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0580",
+        "endUid": "u0587"
+      },
+      "reading": "The dream palace collapses and play resumes in Hralgar’s prison in Stormcaller Tower.",
+      "evidence": [
+        {
+          "startUid": "u0580",
+          "endUid": "u0587",
+          "quote": "Leans, stands up again, and for a minute the like image shifts and wavers, and then the palace, the Dream Palace, collapses, and you are in the top room of Stormcaller Tower, the giant chained, the— chained to the wall, his hands bound and restrained, his eye sockets empty."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates the image shifting and wavering for a minute; external adventure-clock elapsed time remains open."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0871",
+        "endUid": "u0878"
+      },
+      "reading": "The party rests with Hralgar, sharing food, meditation and conversation for about an hour.",
+      "evidence": [
+        {
+          "startUid": "u0871",
+          "endUid": "u0878",
+          "quote": "Gathering your, you know, sort of, you know, getting comfortable a little bit and sort of taking a breather. He says, “It is sensible to catch your breath, but don't rest for too long. Unless the statue is destroyed, the ghost will be back.”"
+        },
+        {
+          "startUid": "u1015",
+          "endUid": "u1018",
+          "quote": "Let's take a short rest before we go destroy the statue."
+        },
+        {
+          "startUid": "u1214",
+          "endUid": "u1215",
+          "quote": "Share a bite, and let me spend a few minutes telling you Jorundr's story. Then perhaps your rest will be ended, and you will be ready to face the statue."
+        },
+        {
+          "startUid": "u1351",
+          "endUid": "u1352",
+          "quote": "And it's been like an hour. And how long would you."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1024",
+        "endUid": "u1025"
+      },
+      "reading": "The DM corrects the snack’s timing to sunset during the short rest.",
+      "evidence": [
+        {
+          "startUid": "u1024",
+          "endUid": "u1024",
+          "quote": "Too early in the day. This is an afternoon snack. It's night."
+        },
+        {
+          "startUid": "u1025",
+          "endUid": "u1025",
+          "quote": "That was the middle of the night fire. We'll cook the steak. It's not the middle of the night, but it's like sunset at this point."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM corrects player guesses of afternoon and middle of the night."
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1473",
+        "endUid": "u1477"
+      },
+      "reading": "Another hour passes while the party searches the tower and waits for Govir.",
+      "evidence": [
+        {
+          "startUid": "u1473",
+          "endUid": "u1477",
+          "quote": "So while you have an hour's peace at— and you're—while you're just waiting, you, you spend some time like going around the, the tower, right? So the, the fourth floor, the one—the floor down from this room that you're in now is like pretty empty, right? It has that the statue, and then it has the, the the, the windswept platform, the like platform that sticks out where there's the like pool of water, and there was some like magical globe thing that you knock to the ground."
+        },
+        {
+          "startUid": "u1589",
+          "endUid": "u1597",
+          "quote": "Obviously, so an hour has passed. You return with the books and the and the, the cleaning stone, and you scry, you scry Govir,"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1487",
+        "endUid": "u1488"
+      },
+      "reading": "Freeing the chained library books takes ten minutes within the tower-search hour.",
+      "evidence": [
+        {
+          "startUid": "u1487",
+          "endUid": "u1488",
+          "quote": "That takes you 10 min Wellby, you also see a book that you hadn't seen before. With."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM’s narrated elapsed time"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1708",
+        "endUid": "u1712"
+      },
+      "reading": "Hralgar concentrates for about a minute and sends the storm away.",
+      "evidence": [
+        {
+          "startUid": "u1708",
+          "endUid": "u1712",
+          "quote": "Concentrates for a minute, and as you see, his eyes like go dark, and like his face almost like becomes sort of like dark gray, like the gray underneath the cloud, and it suddenly is completely silent. Like the storm's been raging, like even after he's been freed, but like it's suddenly sunny. I have something."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated elapsed time"
+      },
+      "actors": [
+        "Hralgar"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1717",
+        "endUid": "u1721"
+      },
+      "reading": "The departing storm reveals sunset over the muddy plain.",
+      "evidence": [
+        {
+          "startUid": "u1717",
+          "endUid": "u1721",
+          "quote": "You can see, you can see, like, like you see for a minute, the clouds just like the storm, the thunder, the rain just like blowing north like super fast, right? Like just blowing away and leaving behind the sunset over a muddy plain, and this cliff sort of jutting out of the, of the mud, which now in the clear sky looks really very much like a ship, right? You can see the shape of its—looks almost like a sailing ship."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM explicitly describes sunset; no numeric clock is given."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM says the party watches the storm depart for a minute."
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1722",
+        "endUid": "u1728"
+      },
+      "reading": "Hralgar remains with eyes closed for twenty to thirty minutes before reporting snow at his palace.",
+      "evidence": [
+        {
+          "startUid": "u1722",
+          "endUid": "u1728",
+          "quote": "And he, he pauses again, his eyes closed for maybe 20, 30 minutes. Then he opens his eyes, and there's like you can see like flashes of, of thunder and lightning, and he says, “The rain is— the storm is passing the mountains now. The rain is falling as snow on my palace. It is a— some—"
+        }
+      ],
+      "duration": {
+        "min": 20,
+        "minInclusive": true,
+        "max": 30,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated pause of maybe twenty or thirty minutes."
+      },
+      "actors": [
+        "Hralgar"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1936",
+        "endUid": "u1944"
+      },
+      "reading": "After examining the ship, Hralgar says the sun is setting and proposes a final dinner.",
+      "evidence": [
+        {
+          "startUid": "u1936",
+          "endUid": "u1944",
+          "quote": "Look! The sun is setting. I am free. I will leave in the morning, but if your companion, Delwath, be willing to cook a somewhat larger dinner than normal, perhaps we could sit and share stories on this dry land one last time before I say goodbye and vanish into the mists and rain."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Hralgar explicitly says the sun is setting; proposed morning departure has not occurred."
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1972",
+        "endUid": "u1982"
+      },
+      "reading": "Hralgar pauses for about a minute before explaining how dangerous future contact would be.",
+      "evidence": [
+        {
+          "startUid": "u1972",
+          "endUid": "u1982",
+          "quote": "Pauses for a minute. He looks at you. He looks at your staff. There may be a way. It is not without cost. He looks at it, looks at Kenzo again, and he says, “Me— I do not intend to— I do not intend to take this form again for many years, and I am traveling as the wind and the lightning. You can try to reach out to me. But the storm will reach back. There's nothing I can do to stop it."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated elapsed time"
+      },
+      "actors": [
+        "Hralgar"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2172",
+        "endUid": "u2175"
+      },
+      "reading": "Hralgar returns from hunting as sunset turns to night and the party settles into dinner.",
+      "evidence": [
+        {
+          "startUid": "u2172",
+          "endUid": "u2175",
+          "quote": "So as Hralgar returns and the sunset turns to night, actually, we need conversation music, and you settle into a meal of fancy whatever Delwath cooks with several antelopes."
+        }
+      ],
+      "time": {
+        "partOfDay": "nightfall",
+        "precision": "approximate",
+        "basis": "DM narrates sunset turning to night at Hralgar’s return."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "November 23, 1748 comes from YAML; no calendar date is independently spoken. Sunset and nightfall are spoken.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t09",
+      "t10",
+      "t11",
+      "t12"
+    ],
+    "explanation": "Continuous rescue, short rest, tower search, release and dinner support a single adventure date conditional on YAML. The dream return adds no dated day; the proposed morning and level-up are superseded by ending mid-dinner at u2244–u2247. No completed overnight is narrated."
+  }
+}

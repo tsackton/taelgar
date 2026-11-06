@@ -1,0 +1,204 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-071",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-session.yaml",
+    "sessionYamlSha256": "cbccff873d378e30ce6812931ebd7f45d0c600c00baec4bb78a7339555d9089d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-transcript.md",
+    "transcriptSha256": "7d737a7d710a496ffae1c67c06f219bcffdebd798547d5c0ae9b8d99218ba779",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-segments.json",
+      "sha256": "f70a243047a06f12fd61080368d4adf66adb7ce8c19f29df3fab3502504205fc",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Ghost strangling Hralgar in the dream palace",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs up the cliff and leaps beside the ghost. His first staff attack misses on 14; the second hits on 23 for 11 damage. A bonus unarmed strike also hits, with no damage stated. Soul Sight is deferred because the bonus action was already used.",
+              "evidence": [
+                {
+                  "startUid": "u0139",
+                  "endUid": "u0174"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves and Misty Steps beside the ghost, then hits it twice. Character-sheet errors are corrected to 12 and 19 damage; the second attack’s corrected 16 hits.",
+              "evidence": [
+                {
+                  "startUid": "u0180",
+                  "endUid": "u0246"
+                }
+              ]
+            },
+            {
+              "actor": "Ghostly Hralgar",
+              "kind": "event",
+              "summary": "Directs a lightning strike at Riswynn, Seeker and Wellby between Delwath’s and Seeker’s turns. Riswynn and Seeker take 46 lightning damage each, dropping Riswynn; Wellby succeeds on the Dexterity save and takes 23.",
+              "evidence": [
+                {
+                  "startUid": "u0247",
+                  "endUid": "u0284"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fourth-level Healing Word, restoring Riswynn to 19 hit points, then animates the ladder instead of casting another leveled spell or using Shocking Grasp. Animation requires no concentration here.",
+              "evidence": [
+                {
+                  "startUid": "u0285",
+                  "endUid": "u0323"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and rolls two d20s, scoring a critical arrow hit. The table retrospectively includes the usual maximum bowstring charges, adding 8d6 fire damage; the final accepted total is 72 damage to the ghost.",
+              "evidence": [
+                {
+                  "startUid": "u0333",
+                  "endUid": "u0354"
+                },
+                {
+                  "startUid": "u0359",
+                  "endUid": "u0367"
+                }
+              ]
+            },
+            {
+              "actor": "Animated ladder",
+              "kind": "turn",
+              "summary": "Flies beside Riswynn so she can board it; carrying her to the giant is deferred to its next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0355",
+                  "endUid": "u0358"
+                }
+              ]
+            },
+            {
+              "actor": "Ghostly Hralgar",
+              "kind": "turn",
+              "summary": "Squeezes Hralgar’s heart again for a significant unstated amount of damage, leaving him badly hurt, then hits Delwath with its other hand for about 33 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u0368",
+                  "endUid": "u0376"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts fifth-level Guiding Bolt at the ghost, apparently missing, and boards the animated ladder instead of climbing a rope.",
+              "evidence": [
+                {
+                  "startUid": "u0378",
+                  "endUid": "u0401"
+                }
+              ],
+              "note": "Riswynn asks whether it misses and Seeker says “No, No”; no clear DM hit or damage resolution follows, so the attack result remains qualified."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sight reveals highest Strength and lowest Dexterity/Charisma. Two staff hits deal 10 and 8 damage: the first Disrupting Strike is resisted with a 19 Charisma save; the second fails DC 15 on 14, subtracting 1d4 from attacks and preventing reactions. Flurry attacks hit for 10 and 7 damage. A Stunning Strike is resisted with a 25 Constitution save; he spends ki on another after the final hit, without a stated save result.",
+              "evidence": [
+                {
+                  "startUid": "u0402",
+                  "endUid": "u0450"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sanctuary on the non-attacking Hralgar, requiring a Wisdom save before hostile attacks or harmful effects against him. Delwath then critically hits the ghost for 27 damage and hits again for 18.",
+              "evidence": [
+                {
+                  "startUid": "u0451",
+                  "endUid": "u0474"
+                }
+              ]
+            },
+            {
+              "actor": "Ghostly Hralgar",
+              "kind": "event",
+              "summary": "At the end of Delwath’s turn, makes a lightning spell attack against him with the Disrupting Strike’s minus 1d4. The resulting 20 hits AC 20 and deals 26 lightning damage.",
+              "evidence": [
+                {
+                  "startUid": "u0475",
+                  "endUid": "u0487"
+                }
+              ],
+              "note": "The source establishes an off-turn attack but does not name a legendary action or reaction; it is retained as an event."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fifth-level Erupting Earth in a cube placed to hit only the ghost. It fails its Dexterity save with 7 and takes the full 17 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0489",
+                  "endUid": "u0504"
+                }
+              ]
+            },
+            {
+              "actor": "Animated ladder",
+              "kind": "turn",
+              "summary": "Cannot reach the ghost with its corrected 30-foot movement, so dashes instead of attacking, carrying Riswynn the roughly 40 feet and placing her beside the giant.",
+              "evidence": [
+                {
+                  "startUid": "u0505",
+                  "endUid": "u0515"
+                }
+              ],
+              "note": "Riswynn says she did not want that, but no revised placement is resolved before combat ends."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim, rolls two d20s and scores a second critical arrow hit, this time without another Burning Strike. The damage is corrected from 44 to 49; the ghost fades and Hralgar can breathe and rise, but remains blind.",
+              "evidence": [
+                {
+                  "startUid": "u0516",
+                  "endUid": "u0538"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Wellby’s second critical arrow makes the ghost fade away. Hralgar rises and breathes freely but is still blind; the statue’s later destruction is outside initiative.",
+        "evidence": [
+          {
+            "startUid": "u0525",
+            "endUid": "u0538"
+          }
+        ]
+      }
+    }
+  ]
+}
