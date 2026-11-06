@@ -1,0 +1,220 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-time-markers.json",
+    "sha256": "694c21f9e3fda2861c05e39a7999c8b3c1d210b780cc4bf311080d16ccbafa2c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-transcript.md",
+    "sha256": "114d77a10220233a5b20342f50ef2285513e95671b6246236ec71600c918fcb4"
+  },
+  "dateAssessment": "Working calendar: the compatible session YAML, November 24–29, 1748. Spoken anchors independently name November 25, 27 and 28; the year comes from YAML. The preceding return evening is November 24, and the midnight after November 28 reaches civil November 29. The dream’s “middle of the night” remains a November 27–28 date window. The time extraction supports all five date transitions and is matched to the YAML. The campaign note’s internal timeline instead moves the shield work, helm completion, Alesh meeting, army departure and first lift a day later; those competing dates remain flagged. No later practice day, November 30 travel forecast, prior adventure recap or hypothetical duration extends played time.",
+  "watches": [
+    {
+      "day": "November 24, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Golden-hour return; Seeker’s one-hour attunement runs into darkness.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-11-24",
+      "endDate": "1748-11-24"
+    },
+    {
+      "day": "November 25, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Overnight long rest ends in morning; Kharsan scry explicitly dated November 25.",
+      "markers": [
+        "t06",
+        "t08"
+      ],
+      "startDate": "1748-11-25",
+      "endDate": "1748-11-25"
+    },
+    {
+      "day": "November 25, 1748",
+      "startWatch": "morning",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The narrated workday finishes the stone helm; sleep follows.",
+      "markers": [
+        "t07"
+      ],
+      "scope": "Seeker and Riswynn",
+      "startDate": "1748-11-25",
+      "endDate": "1748-11-25"
+    },
+    {
+      "day": "November 25, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Delwath’s second scry is explicitly placed in the afternoon.",
+      "markers": [
+        "t09"
+      ],
+      "scope": "Delwath",
+      "startDate": "1748-11-25",
+      "endDate": "1748-11-25"
+    },
+    {
+      "day": "November 26, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Next morning follows the completed helm day; Alesh’s rider approaches.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-11-26",
+      "endDate": "1748-11-26"
+    },
+    {
+      "day": "November 26, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "A brief lunch precedes Alesh’s departure with the letter and stone.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-11-26",
+      "endDate": "1748-11-26"
+    },
+    {
+      "day": "November 26, 1748",
+      "startWatch": "morning",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Slow progress spans this working day; next-day work follows another rest.",
+      "markers": [
+        "t12"
+      ],
+      "scope": "Seeker and Riswynn",
+      "startDate": "1748-11-26",
+      "endDate": "1748-11-26"
+    },
+    {
+      "day": "November 27, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "A further overnight precedes construction; Delwath’s morning scry is dispelled after thirty seconds.",
+      "markers": [
+        "t13",
+        "t17"
+      ],
+      "startDate": "1748-11-27",
+      "endDate": "1748-11-27"
+    },
+    {
+      "day": "November 27, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "November 27 departure: “evening” is refined to late afternoon; Grash’s army marches east.",
+      "markers": [
+        "t16"
+      ],
+      "scope": "Delwath’s scry",
+      "startDate": "1748-11-27",
+      "endDate": "1748-11-27"
+    },
+    {
+      "day": "November 27, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Wire work nears completion at sunset; the party retires on November 27.",
+      "markers": [
+        "t14",
+        "t15",
+        "t18"
+      ],
+      "startDate": "1748-11-27",
+      "endDate": "1748-11-27"
+    },
+    {
+      "day": "During November 27–28, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "Seeker’s dream occurs in the middle of this night; its civil date is unresolved.",
+      "markers": [
+        "t19"
+      ],
+      "scope": "Seeker’s dream",
+      "dateWindow": [
+        "1748-11-27",
+        "1748-11-28"
+      ]
+    },
+    {
+      "day": "November 28, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The morning after the dream brings assembly of the remaining pieces.",
+      "markers": [
+        "t20"
+      ],
+      "startDate": "1748-11-28",
+      "endDate": "1748-11-28"
+    },
+    {
+      "day": "November 28, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Late-afternoon connection enables the first hover; the DM explicitly confirms November 28.",
+      "markers": [
+        "t21"
+      ],
+      "startDate": "1748-11-28",
+      "endDate": "1748-11-28"
+    },
+    {
+      "day": "November 29, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "The next midnight watch brings howling and a wake-up, after November 28’s first lift.",
+      "markers": [
+        "t22"
+      ],
+      "startDate": "1748-11-29",
+      "endDate": "1748-11-29"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated campaign record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 74 (DuFr).md",
+      "sha256": "bc70f0449a8371e906d7cf2644a27c43f083f66a9fcdda49dfb7652ee69b3752"
+    },
+    {
+      "label": "Grash reference",
+      "path": "People/Other Nonhumans/Grash.md",
+      "sha256": "a9c3d3763b356d7a11ee783f2913e558a3884644444da9a1f2094fd19162e181"
+    },
+    {
+      "label": "Top reference",
+      "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Ever Spinning Top.md",
+      "sha256": "6d04e28bfb315f9094f9542041fdea9118b9588c855d48e5c02227f9d89b4e4f"
+    },
+    {
+      "label": "Tower reference",
+      "path": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md",
+      "sha256": "a8563902c0c72bcabd8b2d8372b917e154817be284d68d7047ac9c3f8bfb3281"
+    }
+  ]
+}
