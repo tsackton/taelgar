@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-time-markers.json",
+    "sha256": "0f0c5e19eb6853b2688319e1ca9b54515f0a1d0defd9a3bc5598cd240f517fbd"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-transcript.md",
+    "sha256": "4566306a1e4d67ffe007e1d77ad1f3bec9120ab2670b12725ae5b8e9d286e92c"
+  },
+  "dateAssessment": "Working campaign calendar: YAML records 1748-09-30 to 1748-10-03. No date or year is spoken. The opening is Seeker’s own departure from Te’kula and separation from the others (u0002–u0025), not a continuation of Wellby’s later closing date in session 060. The span is compatible, not independently matched: the flight takes about an hour, but the later wandering may have lasted days (t06). Only arrival uses the YAML start date; later events remain within the working date window. Stationary afternoon light supplies no civil watch, so the local rows retain that light as evidence with watches open. No rests or overnight transitions are established.",
+  "watches": [
+    {
+      "day": "September 30, 1748",
+      "startDate": "1748-09-30",
+      "endDate": "1748-09-30",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Arrival meadow",
+      "summary": "Seeker lands in stationary afternoon light; pixie laughter pauses for about a minute.",
+      "markers": [
+        "t01",
+        "t02"
+      ]
+    },
+    {
+      "day": "During September 30–October 3, 1748",
+      "dateWindow": [
+        "1748-09-30",
+        "1748-10-03"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Flight and outer court",
+      "summary": "About an hour’s flight reaches court; afternoon light persists; the crowd pauses about a minute.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05"
+      ]
+    },
+    {
+      "day": "During September 30–October 3, 1748",
+      "dateWindow": [
+        "1748-09-30",
+        "1748-10-03"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Seeker",
+      "summary": "Seeker wanders towards the palace for an unmeasured interval, possibly days.",
+      "markers": [
+        "t06"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 61 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 61 (DuFr).md",
+      "sha256": "4aeda210bcc853313ca72686f66c5869c68a41afed72f0e424fe1e238d916dca"
+    },
+    {
+      "label": "Book identity",
+      "path": "Things/Books/The Lore of the Feywild.md",
+      "sha256": "2bb637e5dce94b87cd3247b01214fceb3bcb785fcd6b478fc85bd504d6eb9daa"
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-061",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-session.yaml",
+    "sessionYamlSha256": "276f6173f5ab49390ae3c4c5dd4b4862faa18d3f04c613ecd59a882d2dd015aa",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-transcript.md",
+    "transcriptSha256": "4566306a1e4d67ffe007e1d77ad1f3bec9120ab2670b12725ae5b8e9d286e92c"
+  },
+  "places": {
+    "p01": {
+      "label": "Village of the Te’kula",
+      "kind": "village",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0014",
+          "quote": "DM: Um. Okay. So we start as you're leaving the village of the Te'kula following Theba and your friends back into the material world from the village out of time, after having killed the great dragon, and spent some time, um, helping, ah, Theba and the Deno'qai, um, get back on their feet. And as you walk out of the forest you can feel the vibrations of this pocket dimension around you, shimmering faster and faster as the energy that holds the realm begins to unravel. And as you walk forward, the world fades around you, and you can feel the strands of the magic of this dimension stretching and breaking. And with a snap, you see your friends in a jumbled collection of images: a ship approaching a jagged coastline of an unfamiliar island, a dense tropical forest, a forest of pines and maples high on a mountain slope. And as Delwath, Wellby and Kenzo are pulled away from you, you hear Wellby's voice in your mind just for a moment: \"Find your way to the Feywild, to the portal near Eudomes's Tower. We'll meet there again.\""
+        }
+      ],
+      "note": "The Neshet note identifies Te’kula village; its modern Material Plane position does not replace this departure from the village’s pocket dimension.",
+      "vaultPath": "Gazetteer/Central Highlands/Neshet.md"
+    },
+    "p02": {
+      "label": "Feywild",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u0119",
+          "endUid": "u0127",
+          "quote": "DM: Ah, they seem to be—so, there's a few things you do pick up from the book that may or may not be true, but seem to be consistent.\n\nDM: So one is, um, the Feywild: the sun never moves. The sun doesn't move in time; the sun moves in space. So as you go— as you go west, it gets lighter and lighter, and as you go east it gets darker and darker—or no, yeah. And as you go—as you go west it gets lighter and lighter, and as you go east it gets darker and darker."
+        }
+      ],
+      "vaultPath": "Cosmology/Feywild.md"
+    },
+    "p03": {
+      "label": "Prince of Luck’s domain",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0254",
+          "endUid": "u0261",
+          "quote": "DM: Um, and she—she like—they all have now stopped laughing and—and look, ah, somewhat serious for a moment, says the one in front of you. She says: \"That's— that's the Prince of Luck's domain. You must come to his court, should you wish to visit. Strangers may not wander.\""
+        }
+      ],
+      "note": "The Fortune’s Rest and session-61 notes identify the realm; that name is not spoken here.",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Fortune's Rest.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0505",
+              "endUid": "u0507",
+              "quote": "DM: You are— it's interesting—you are not—you are no longer on that plane, you know. You are in our world now."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Arrival meadow",
+      "kind": "meadow",
+      "evidence": [
+        {
+          "startUid": "u0023",
+          "endUid": "u0034",
+          "quote": "DM: In the next moment you find yourself on the ground in the middle of a large meadow. Around you, flowers are in bloom. There are petals slowly unfurling into butterfly wings as you watch. One flower takes off in a burst of tiny seeds flying into the air and fluttering around in a mesmerizing dance. But the flower stalk it just left wilts and melts, the tiny seeds knocked by its wings, settling and already beginning to sprout in the ground.\n\nDM: In the—in the distance, away from the sun, maybe a few hundred feet, but distance again is hard to judge, you see the eaves of a forest. The trees shining in the afternoon light, the golds and reds of, and browns of oak and maple leaves, seeming to shimmer with an internal glow, always on the edge of dropping to the ground, but never quite doing so.\n\nDM: In the direction of the sun, a meandering stream flows across the meadow. Although it's not wide, it seems to stretch, and you see the glint of marshy pools, and in places water that seems to flow with a mind of its own, seeping around the trunks of trees, forming pools and marshes full of cattails, moving slowly as if in the wind, although you feel no breeze. Beyond, mists rise from a small pond, and you can only dimly glimpse the far shore trees in the shadowy mists. So what would you like to do?"
+        }
+      ],
+      "note": "Session 61 (DuFr) identifies the arrival realm as Fortune’s Rest. The transcript’s early domain warning is later clarified as referring to the mountain, so that warning alone does not establish the meadow’s containment."
+    },
+    "p05": {
+      "label": "Crystal Mountain",
+      "kind": "mountain",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0022",
+          "quote": "DM: And then you are hurtling towards the ground in the late afternoon light, images coming into focus as your fall begins to slow, a tangled forest studded with meadows below you, bursting with color. In the distance, far in the distance—although distance is hard to judge here, you're not sure whether it's, you know, five ten miles or hundreds of miles away. Um, a single mountain made of dazzling, multicolored crystal rising above misty low-lying clouds. You hear a waterfall but the river must be hidden in the vibrant reds and golds and greens of the leaves of the forest below. The sun sits low in the sky, late afternoon, bathing the landscape in a golden light, giving the place a timeless quality that you can't quite shake."
+        }
+      ],
+      "note": "Crystal Peak’s composition and the Prince’s storm commission resolve the mountain’s identity. The pixies claim it belongs to the Prince. The current Crystal Peak note places it between Fortune’s Rest and Shimmersong without settling that session-era boundary.",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Crystal Peak.md"
+    },
+    "p06": {
+      "label": "Pond beyond the meadow",
+      "kind": "pond",
+      "evidence": [
+        {
+          "startUid": "u0030",
+          "endUid": "u0034",
+          "quote": "DM: In the direction of the sun, a meandering stream flows across the meadow. Although it's not wide, it seems to stretch, and you see the glint of marshy pools, and in places water that seems to flow with a mind of its own, seeping around the trunks of trees, forming pools and marshes full of cattails, moving slowly as if in the wind, although you feel no breeze. Beyond, mists rise from a small pond, and you can only dimly glimpse the far shore trees in the shadowy mists. So what would you like to do?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0030",
+              "endUid": "u0034",
+              "quote": "DM: In the direction of the sun, a meandering stream flows across the meadow. Although it's not wide, it seems to stretch, and you see the glint of marshy pools, and in places water that seems to flow with a mind of its own, seeping around the trunks of trees, forming pools and marshes full of cattails, moving slowly as if in the wind, although you feel no breeze. Beyond, mists rise from a small pond, and you can only dimly glimpse the far shore trees in the shadowy mists. So what would you like to do?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Chanceweaver’s court estate",
+      "kind": "estate",
+      "evidence": [
+        {
+          "startUid": "u0320",
+          "endUid": "u0336",
+          "quote": "DM: That's fine. One of the— you suddenly find yourselves like ten feet off, fifteen feet off, just suddenly turned back into Seeker, tumbling from the sky, um, landing in sort of a tangle of limbs, and, ah, one of these, ah, butterfly fairies kind of laughs at you again, and says, \"Clumsy, clumsy rock foot man. Cannot dance and cannot land.\"\n\nSeeker: Wow. Well, I appreciate the chance to be such a delightful flying insect temporarily. And where are we now?\n\nDM: The court of the Chanceweaver. Where else?\n\nSeeker: That's so. Stand up and look around.\n\nDM: So you see this palace ahead of you in the big—and this large clearing. It's— ah, you know, it's kind of like— it's a vast clearing. It's much bigger than a meadow. It's kind of like a, ah, like an English country estate, with rolling fields and gardens in front of the manor. Um, plenty of space for like outdoor gatherings. There's people moving around, um. Everything's bright and sparkling, and, you know, the golden afternoon light seems to collect in in puddles around the—around this estate."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0329",
+              "endUid": "u0336",
+              "quote": "DM: The court of the Chanceweaver. Where else?\n\nSeeker: That's so. Stand up and look around.\n\nDM: So you see this palace ahead of you in the big—and this large clearing. It's— ah, you know, it's kind of like— it's a vast clearing. It's much bigger than a meadow. It's kind of like a, ah, like an English country estate, with rolling fields and gardens in front of the manor. Um, plenty of space for like outdoor gatherings. There's people moving around, um. Everything's bright and sparkling, and, you know, the golden afternoon light seems to collect in in puddles around the—around this estate."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Outer court games and lawns",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u0343",
+          "endUid": "u0359",
+          "quote": "DM: There's a a band of of satyrs playing fiddles wandering around, and—and there are— it's hard to know whether they're servants or what they are, but these people with like, and this— both men and women, and—and some with not obvious genders, wearing these like long white gossamer silks with silver chains around their necks, and carrying like platters of food and wine. Um, there's people, uh, playing dice and cards. Um, there seems to be games of chance kind of scattered all over the the lawn, and there's, you know, gamblers who are trying to—you know, all sort of humanoid looking, but I mean, they're all humanoids. You occasionally see satyrs. Um, ah, a few other pixies like the ones you found. The satyrs are mostly dancing and drinking, and often gambling and losing. You see the occasional, like humanoid rabbit or bear walking around. But most of the people are— they look almost elven to you. They're, you know, they are clearly other worldly."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0343",
+              "endUid": "u0359",
+              "quote": "DM: There's a a band of of satyrs playing fiddles wandering around, and—and there are— it's hard to know whether they're servants or what they are, but these people with like, and this— both men and women, and—and some with not obvious genders, wearing these like long white gossamer silks with silver chains around their necks, and carrying like platters of food and wine. Um, there's people, uh, playing dice and cards. Um, there seems to be games of chance kind of scattered all over the the lawn, and there's, you know, gamblers who are trying to—you know, all sort of humanoid looking, but I mean, they're all humanoids. You occasionally see satyrs. Um, ah, a few other pixies like the ones you found. The satyrs are mostly dancing and drinking, and often gambling and losing. You see the occasional, like humanoid rabbit or bear walking around. But most of the people are— they look almost elven to you. They're, you know, they are clearly other worldly."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Card table",
+      "kind": "game table",
+      "evidence": [
+        {
+          "startUid": "u0566",
+          "endUid": "u0600",
+          "quote": "DM: Uh, you can—you can see, uh, there seems to be a uh card game going on among three— Ah, three people, one of whom looks, um, pretty like somewhat more bedraggled than most people, you see. Like, um, he's not really wearing particularly elegant clothes, and one of the other people is wearing like, um, she is like dressed super elegantly, and she's got this big bear fur like draped over her shoulders, and she's smiling happily. Um, and there's people dancing. There's like pixies flying around like drinking out of these tiny little cups. Ah, there are. Let's see, that's about what you can see around here. But, like, you know, you get the sense that anywhere you wander there is going to be more stuff to see.\n\nSeeker: Yeah, um, I stroll over to observe the card game.\n\nDM: Um, the three of them who are playing look up. Um, they seem to have just finished a hand. They—they kind of, um, stop for a moment and look at each other, and sort of put down their um, their card. So there's the—there's the elegant woman who's got, um, this like—like bear fur draped over her, and like silk red silk dress, like with gold and, um, uh, through in, and, uh, long brown hair, fair skin. There is another man who is—who again looks kind of fey-ish, dark-skinned, like short hair, like azure blue eyes, wearing this like incredibly elaborately sewn silk, high-collared silk tunic with big sleeves, uh, also smiling. He also seems to be doing well."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0566",
+              "endUid": "u0584",
+              "quote": "DM: Uh, you can—you can see, uh, there seems to be a uh card game going on among three— Ah, three people, one of whom looks, um, pretty like somewhat more bedraggled than most people, you see. Like, um, he's not really wearing particularly elegant clothes, and one of the other people is wearing like, um, she is like dressed super elegantly, and she's got this big bear fur like draped over her shoulders, and she's smiling happily. Um, and there's people dancing. There's like pixies flying around like drinking out of these tiny little cups. Ah, there are. Let's see, that's about what you can see around here. But, like, you know, you get the sense that anywhere you wander there is going to be more stuff to see.\n\nSeeker: Yeah, um, I stroll over to observe the card game."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Lizard racecourse",
+      "kind": "racecourse",
+      "evidence": [
+        {
+          "startUid": "u0559",
+          "endUid": "u0564",
+          "quote": "DM: Uh, you can see there's— there's it like sort of in the distance, there are, um, what looked like five or six people gathered around a—a long, along like maybe one hundred ish foot long, or maybe longer, sort of open sort of grassy area that's had lines marked on it. And there's these really brightly colored lizards that are racing across, and people are betting on them."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0559",
+              "endUid": "u0564",
+              "quote": "DM: Uh, you can see there's— there's it like sort of in the distance, there are, um, what looked like five or six people gathered around a—a long, along like maybe one hundred ish foot long, or maybe longer, sort of open sort of grassy area that's had lines marked on it. And there's these really brightly colored lizards that are racing across, and people are betting on them."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Formal garden outside the palace",
+      "kind": "garden",
+      "evidence": [
+        {
+          "startUid": "u0861",
+          "endUid": "u0892",
+          "quote": "DM: Like you're sort of wandering towards the palace in this uncertain state, but eventually you find yourself in what is a much more formal garden, like a um, like laid out rows of flowers. All of the flowers are—they don't have flowers growing on the top of them, but they have globes of light that are that are sort of burnished gold and glowing here, and you're now like, you know, fifty feet from the palace. You seem to have made it there somehow.\n\nDM: You don't fully remember the journey. You're not entirely sure how you got here. Um, but you can see now that there's like—this is the the sort of inner court, right? So there's, um, sitting on, uh sitting on a—on a throne is this ethereally beautiful, ageless man with bright green eyes, short blonde hair, um, and a thin silver circlet around his brow. Um, with a much more elaborate and intricately detailed version of the same dice motif um, and he—he seems to have recently sat down. You're not—it's not entirely clear, like there's been dancing here. It seems like people are just uh breaking up from a dance.\n\nDM: Um, there are like all around all—even inside the the about— the sort of central space of the court, you can see there's, you know, there's people, um, playing dice, uh, there's, you know, there's—there's people standing around talking. Everybody is drinking. Everybody looks, um, extremely sort of elegant, and there's now—you can see there's a clear path that leads up to the threshold of this gazebo through this formal garden of these flowers of light, and you're the only one standing here at the—at the moment. There doesn't seem—there's not like crowds standing around the gazebo. There seems to be—everybody seems to be either be inside or like back where the games—where the other games are, and the sort of outer court. There's not a lot of people standing around you. You see, like one of the white robed, um, serving people walking past and looking at you slightly funny."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0861",
+              "endUid": "u0892",
+              "quote": "DM: Like you're sort of wandering towards the palace in this uncertain state, but eventually you find yourself in what is a much more formal garden, like a um, like laid out rows of flowers. All of the flowers are—they don't have flowers growing on the top of them, but they have globes of light that are that are sort of burnished gold and glowing here, and you're now like, you know, fifty feet from the palace. You seem to have made it there somehow.\n\nDM: You don't fully remember the journey. You're not entirely sure how you got here. Um, but you can see now that there's like—this is the the sort of inner court, right? So there's, um, sitting on, uh sitting on a—on a throne is this ethereally beautiful, ageless man with bright green eyes, short blonde hair, um, and a thin silver circlet around his brow. Um, with a much more elaborate and intricately detailed version of the same dice motif um, and he—he seems to have recently sat down. You're not—it's not entirely clear, like there's been dancing here. It seems like people are just uh breaking up from a dance.\n\nDM: Um, there are like all around all—even inside the the about— the sort of central space of the court, you can see there's, you know, there's people, um, playing dice, uh, there's, you know, there's—there's people standing around talking. Everybody is drinking. Everybody looks, um, extremely sort of elegant, and there's now—you can see there's a clear path that leads up to the threshold of this gazebo through this formal garden of these flowers of light, and you're the only one standing here at the—at the moment. There doesn't seem—there's not like crowds standing around the gazebo. There seems to be—everybody seems to be either be inside or like back where the games—where the other games are, and the sort of outer court. There's not a lot of people standing around you. You see, like one of the white robed, um, serving people walking past and looking at you slightly funny."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Palace’s central gazebo",
+      "kind": "palace interior",
+      "evidence": [
+        {
+          "startUid": "u0833",
+          "endUid": "u0844",
+          "quote": "DM: I mean, yeah, there's lots. There's probably two hundred people milling about the grounds. The—you can see that the—the white staff, the people in the white robes, are like—they're going in and out of the palace. That seems to be um, sort of where the—and the palace itself is like, even from a distance you can see it's not like—it doesn't have four walls. It's not really enclosed. It's almost like a really big, super elaborate gazebo, like it's open to the air at the first level anyway. There's higher levels that are—that are closed off, and it's just elaborate like, um, you know, very intricately detailed, kind of almost flowing down to the ground. And there's this big open space in the middle, ah, that sort of link of like an open air gazebo, basically, but, you know, a hundred—hundreds of feet across.\n\nSeeker: Is there anybody in there?\n\nDM: Yeah, there's definitely people in there.\n\nSeeker: But there is not like a dais or a throne or anything?\n\nDM: And you can't really see from this distance."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0833",
+              "endUid": "u0840",
+              "quote": "DM: I mean, yeah, there's lots. There's probably two hundred people milling about the grounds. The—you can see that the—the white staff, the people in the white robes, are like—they're going in and out of the palace. That seems to be um, sort of where the—and the palace itself is like, even from a distance you can see it's not like—it doesn't have four walls. It's not really enclosed. It's almost like a really big, super elaborate gazebo, like it's open to the air at the first level anyway. There's higher levels that are—that are closed off, and it's just elaborate like, um, you know, very intricately detailed, kind of almost flowing down to the ground. And there's this big open space in the middle, ah, that sort of link of like an open air gazebo, basically, but, you know, a hundred—hundreds of feet across."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0025"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker leaves Te’kula village during the pocket dimension’s collapse and is separated from his friends, landing in a Feywild meadow.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0014",
+          "quote": "So we start as you're leaving the village of the Te'kula following Theba and your friends back into the material world from the village out of time"
+        },
+        {
+          "startUid": "u0002",
+          "endUid": "u0014",
+          "quote": "And as Delwath, Wellby and Kenzo are pulled away from you"
+        },
+        {
+          "startUid": "u0023",
+          "endUid": "u0025",
+          "quote": "In the next moment you find yourself on the ground in the middle of a large meadow."
+        }
+      ],
+      "from": "p01",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "magical displacement"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0030",
+        "endUid": "u0034"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker sees a stream, marshy pools and a misty pond on the sunward side of the meadow; he does not visit them.",
+      "evidence": [
+        {
+          "startUid": "u0030",
+          "endUid": "u0034",
+          "quote": "DM: In the direction of the sun, a meandering stream flows across the meadow. Although it's not wide, it seems to stretch, and you see the glint of marshy pools, and in places water that seems to flow with a mind of its own, seeping around the trunks of trees, forming pools and marshes full of cattails, moving slowly as if in the wind, although you feel no breeze. Beyond, mists rise from a small pond, and you can only dimly glimpse the far shore trees in the shadowy mists. So what would you like to do?"
+        }
+      ],
+      "place": "p06",
+      "observerPlace": "p04",
+      "mode": "local"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0081",
+        "endUid": "u0086"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "After landing, Seeker reports seeing the distant crystal mountain from the meadow; it is east, away from the sun, but its distance is indeterminate.",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0022",
+          "quote": "a single mountain made of dazzling, multicolored crystal rising above misty low-lying clouds."
+        },
+        {
+          "startUid": "u0081",
+          "endUid": "u0086",
+          "quote": "Seeker: Well, I suppose it's hard to say. I—I see a stream and a pond, and a— appears to be a mountain made of crystal, which I'm a little curious about. Does that sound familiar? Multicolored crystal mountain."
+        },
+        {
+          "startUid": "u0179",
+          "endUid": "u0180",
+          "quote": "Seeker: And is the crystal more north or south?\n\nDM: Or the Crystal Mountain is—is a little bit pretty much due east, maybe a little bit south of the east."
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p04",
+      "mode": "local",
+      "note": "The opening description first shows the mountain during Seeker’s descent; his later statement establishes this ground-level view. Neither establishes a visit."
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0278",
+        "endUid": "u0336"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "As a dragonfly, Seeker follows the pixies through the forest for about an hour and lands at the Chanceweaver’s court estate.",
+      "evidence": [
+        {
+          "startUid": "u0278",
+          "endUid": "u0281",
+          "quote": "DM: Like a big dragonfly, but like that big, about six inches across. \"Come, follow us.\" She takes off. You can fly probably as fast as them. They're not going super fast. Wow.\n\nSeeker: Um, I try out my new wings and do a couple of little spins in the air before following them. Ah."
+        },
+        {
+          "startUid": "u0282",
+          "endUid": "u0300",
+          "quote": "you fly for maybe about an hour into the forest"
+        },
+        {
+          "startUid": "u0301",
+          "endUid": "u0308",
+          "quote": "DM: Um, and as you do, you start to, um, hear—ah, you're flying through this forest. You can see those like these glades. You pass through these glades, um, where there's like golden afternoon light, seems to almost pool like ponds. Um, you see, ah, you know, you see trees that are, um, you know, that have these giant flowers blooming on them with a little, uh, little sprites living in like—like little sprite villages in the, um, flowers, and they kind of, uh, wave, laughing at these butterfly fairies. Um. And as you fly, you start to hear in the distance the sound of conversation and laughter and um, upbeat violin music."
+        },
+        {
+          "startUid": "u0320",
+          "endUid": "u0336",
+          "quote": "DM: That's fine. One of the— you suddenly find yourselves like ten feet off, fifteen feet off, just suddenly turned back into Seeker, tumbling from the sky, um, landing in sort of a tangle of limbs, and, ah, one of these, ah, butterfly fairies kind of laughs at you again, and says, \"Clumsy, clumsy rock foot man. Cannot dance and cannot land.\"\n\nSeeker: Wow. Well, I appreciate the chance to be such a delightful flying insect temporarily. And where are we now?\n\nDM: The court of the Chanceweaver. Where else?\n\nSeeker: That's so. Stand up and look around.\n\nDM: So you see this palace ahead of you in the big—and this large clearing. It's— ah, you know, it's kind of like— it's a vast clearing. It's much bigger than a meadow. It's kind of like a, ah, like an English country estate, with rolling fields and gardens in front of the manor. Um, plenty of space for like outdoor gatherings. There's people moving around, um. Everything's bright and sparkling, and, you know, the golden afternoon light seems to collect in in puddles around the—around this estate."
+        }
+      ],
+      "from": "p04",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly as a dragonfly",
+      "route": [
+        {
+          "reading": "Pass through forest glades and sprite villages without a substantive stop."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates the actual guided flight."
+      }
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u0379",
+        "endUid": "u0386"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "From the court grounds Seeker can still see the mountain, seemingly no closer than before; the DM clarifies that the pixies placed it in the Prince’s domain.",
+      "place": "p05",
+      "observerPlace": "p08",
+      "mode": "local",
+      "evidence": [
+        {
+          "startUid": "u0379",
+          "endUid": "u0386",
+          "quote": "DM: It doesn't seem like you've gotten any closer to it. You can still see it in the direction away from the sun. Uh, it's sort of in the—on the horizon, but it doesn't see—it doesn't appear to be any closer than it was before.\n\nSeeker: So when they—I—I thought they said that they—these two places had something to do with it. They, uh—\n\nDM: Yes, the—well, what they said was the mountain was part of the was part of the Prince of Luck's domain, and you could not visit it without his permission.\n\nSeeker: I see.\n\nDM: And that is verified by at least one of them. That is verified by at least one of the maps, and this seems to be the court of the Prince of Luck, as far as you can tell, or as far as the pixies have told you."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0580",
+        "endUid": "u0600"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker strolls to the card table to observe and discuss the game.",
+      "evidence": [
+        {
+          "startUid": "u0580",
+          "endUid": "u0584",
+          "quote": "Seeker: Yeah, um, I stroll over to observe the card game."
+        },
+        {
+          "startUid": "u0585",
+          "endUid": "u0600",
+          "quote": "the three of them who are playing look up."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0723",
+        "endUid": "u0727"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker leaves the card game for the lizard races and then bets on a purple lizard.",
+      "evidence": [
+        {
+          "startUid": "u0723",
+          "endUid": "u0727",
+          "quote": "Seeker: Yeah. Certainly, yeah. On— I I stroll over to observe the lizard races."
+        },
+        {
+          "startUid": "u0763",
+          "endUid": "u0767",
+          "quote": "Seeker: Okay, I go over and touch the—the purple lizard.\n\nDM: Okay. He looks—he looks at you, and he says, \"Have you played before?\"\n\nSeeker: First time."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0845",
+        "endUid": "u0869"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker wanders from the games towards the palace through distracting paths, eventually reaching the formal garden outside it.",
+      "evidence": [
+        {
+          "startUid": "u0845",
+          "endUid": "u0850",
+          "quote": "Seeker: Uh, make my way towards it.\n\nDM: Okay, um, you walk, and it— make a Wisdom saving throw."
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0869",
+          "quote": "Seeker: Five. That's not very good.\n\nDM: You—you spend a while walking around, and, like all the paths, feel like they're leading to the palace, but it's slow going, and I mean, you'll eventually get there if you just keep walking, but it like every—every time you—you go, you—you know, there's some noise or some—there's dancers, or there's a—a—that are trying to get you to drink some beer or get you to join their band, or there is, you know, somebody trying to lure you into a card game or a dice game, and it—it— you have no idea how much time has passed. It could have been— it could have been days.\n\nDM: Like you're sort of wandering towards the palace in this uncertain state, but eventually you find yourself in what is a much more formal garden, like a um, like laid out rows of flowers. All of the flowers are—they don't have flowers growing on the top of them, but they have globes of light that are that are sort of burnished gold and glowing here, and you're now like, you know, fifty feet from the palace. You seem to have made it there somehow."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Meander through the outer court’s games, dancers and invitations to drink; Seeker loses track of the journey."
+        }
+      ],
+      "duration": {
+        "text": "an unmeasured while, possibly days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM explicitly leaves the duration unknown."
+      }
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0870",
+        "endUid": "u0892"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "From the formal garden, Seeker sees the throne and Prince in the central gazebo before entering.",
+      "evidence": [
+        {
+          "startUid": "u0870",
+          "endUid": "u0892",
+          "quote": "DM: You don't fully remember the journey. You're not entirely sure how you got here. Um, but you can see now that there's like—this is the the sort of inner court, right? So there's, um, sitting on, uh sitting on a—on a throne is this ethereally beautiful, ageless man with bright green eyes, short blonde hair, um, and a thin silver circlet around his brow. Um, with a much more elaborate and intricately detailed version of the same dice motif um, and he—he seems to have recently sat down. You're not—it's not entirely clear, like there's been dancing here. It seems like people are just uh breaking up from a dance.\n\nDM: Um, there are like all around all—even inside the the about— the sort of central space of the court, you can see there's, you know, there's people, um, playing dice, uh, there's, you know, there's—there's people standing around talking. Everybody is drinking. Everybody looks, um, extremely sort of elegant, and there's now—you can see there's a clear path that leads up to the threshold of this gazebo through this formal garden of these flowers of light, and you're the only one standing here at the—at the moment. There doesn't seem—there's not like crowds standing around the gazebo. There seems to be—everybody seems to be either be inside or like back where the games—where the other games are, and the sort of outer court. There's not a lot of people standing around you. You see, like one of the white robed, um, serving people walking past and looking at you slightly funny."
+        }
+      ],
+      "place": "p12",
+      "observerPlace": "p11",
+      "mode": "local"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0985",
+        "endUid": "u1017"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker accepts the Prince’s invitation and follows him into the central gazebo, where a court attendant glamours his clothes and the audience continues.",
+      "evidence": [
+        {
+          "startUid": "u0985",
+          "endUid": "u0990",
+          "quote": "DM: \"Come, Seeker, you have interrupted my revel. Would you like to tell us your story? Try your hand in a game of chance?\"\n\nSeeker: Gladly.\n\nDM: \"Follow me.\""
+        },
+        {
+          "startUid": "u0991",
+          "endUid": "u1008",
+          "quote": "DM: He turns and he walks, the flowers bursting into light as he walks past them into the um, the—the dais, the central area of the gazebo, and he turns and he um, whispers something to one of the, um, uh, people dressed in white, in this, um, a woman, age—all of them look somewhat ageless, and look elven, but she seems to have more years than others, and she's wearing a much more elaborate and fancy gown, and—and she has, um, uh, she has like rings on all of her fingers. She's wearing a lot of jewelry. Seems also to be somewhat magical, and she walks over to you, and she kind of, um, waves her—waves her hand, casts some kind of spell, and you're clean. Your—your clothes are cleaned.\n\nDM: Um, your uh, stained traveling gear is replaced by like a nice um, elegantly cut dwarven, um, you know, tunic and cloak. But still, you look kind of out of place with your like big pack and stuff, which I assume you're keeping close to your person, um, and, you know, you've got leather, you've got armor on, and you've got, you know, all your stuff, but you're much more neatly dressed."
+        },
+        {
+          "startUid": "u1013",
+          "endUid": "u1017",
+          "quote": "DM: Yeah, um, he—the Prince kind of waves his hands as, \"A little better. Now, your story.\""
+        },
+        {
+          "startUid": "u1056",
+          "endUid": "u1066",
+          "quote": "that air in the gazebo starts to get thick"
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1189",
+        "endUid": "u1223"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker agrees to investigate the growing wild-magic storm at the mountain’s base in return for guides out of the Prince’s realm; departure has not occurred.",
+      "evidence": [
+        {
+          "startUid": "u1189",
+          "endUid": "u1223",
+          "quote": "DM: He gives you a long look. \"Wow. That mountain yonder,\" looking, pointing towards the Gem Mountain, \"there is a wild magic storm that has been growing from its base.\"\n\nSeeker: This we—\n\nDM: \"It is unpleasant to be in.\" Sort of waves his fingers. \"It would please me to see somebody—\" Looking at you. \"You— find out what's causing it to grow. Stop it if you can.\"\n\nSeeker: A storm of wild magic, you said?\n\nDM: And I will— I give you guides out of my realm.\n\nSeeker: And— a worthy exchange, a way I might learn something of this wild magic.\n\nDM: I think there is much you might learn, and you will not be going alone. There are others in my court who are soon to set out.\n\nUnknown: You see—\n\nSeeker: Uh, I accept this task.\n\nDM: He holds out his hand, bows to you slightly: \"It is sealed. Now come, eat, drink, enjoy. You need not fear. We are— we have a promise. I will guide you out of this land, should you do this task. You may safely enjoy the festivities.\""
+        }
+      ],
+      "from": "p12",
+      "to": "p05",
+      "completion": "planned",
+      "context": "planned"
+    }
+  ]
+}

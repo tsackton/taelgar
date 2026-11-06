@@ -1,0 +1,1140 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "4566306a1e4d67ffe007e1d77ad1f3bec9120ab2670b12725ae5b8e9d286e92c"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-entity-map.json",
+      "sha256": "9843c041046a88cd3a6686b15d99a6d2be4929f763a5eea808a57faafef123da"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Advice from the voice in the ring",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0051",
+        "endUid": "u0112"
+      },
+      "lines": [
+        "%% u0051:0-17, u0052:0-15, u0053:0-34, u0054:0-26 %%",
+        "Seeker: I look over at my my ring finger, or the ring on my finger to see if maybe Typhina is in there.",
+        "",
+        "%% u0055:0-12, u0056:0-62, u0057:0-11 %%",
+        "DM: Ah, yes, um. You hear a voice in your mind as if slowly waking from a dream: \"You made it.\"",
+        "",
+        "%% u0058:0-18, u0059:0-3, u0060:0-21, u0061:0-2, u0062:0-35 %%",
+        "Seeker: Not intentionally. Ah, I wonder if you might uh give me some advice while I'm here.",
+        "",
+        "%% u0063:0-9, u0064:0-8, u0065:0-3, u0066:0-11, u0067:0-38 %%",
+        "DM: Hmm, wow. You must uh, be careful. Not everyone is friendly in this land,",
+        "",
+        "%% u0068:0-31 %%",
+        "Seeker: And all have their own agendas.",
+        "",
+        "%% u0069:0-1, u0070:0-74, u0071:0-3, u0072:0-3, u0073:0-19, u0074:0-21, u0075:0-13, u0076:0-9, u0077:0-13, u0078:0-13, u0079:0-40 %%",
+        "DM: I— I can't. I can only speak. I do not know where we are. I cannot guide you, but the grove of my home is— it is in a deep wood, old forest of twilight, broad leaves, thick trunks, the calm, peaceful silence of the woods.",
+        "",
+        "%% u0080:0-35 %%",
+        "DM: Unless you are anywhere near there.",
+        "",
+        "%% u0081:0-5, u0082:0-26, u0083:0-35, u0084:0-24, u0085:0-49, u0086:0-56 %%",
+        "Seeker: Well, I suppose it's hard to say. I—I see a stream and a pond, and a— appears to be a mountain made of crystal, which I'm a little curious about. Does that sound familiar? Multicolored crystal mountain.",
+        "",
+        "%% u0087:0-12, u0088:0-3, u0089:0-17, u0090:0-14, u0091:0-9, u0092:0-20, u0093:0-17 %%",
+        "DM: Hmm. Perhaps the crystal mountains could maybe be the court of the Chanceweaver, a prince of luck.",
+        "",
+        "%% u0094:0-19, u0095:0-75, u0096:0-13 %%",
+        "Seeker: The Prince of Luck. And that sounds like someone who would be a great friend or a terrible one. Hard to know.",
+        "",
+        "%% u0097:0-24 %%",
+        "DM: He is not to be trusted.",
+        "",
+        "%% u0098:0-18 %%",
+        "Seeker: He's not? Why not?",
+        "",
+        "%% u0099:0-31 %%",
+        "DM: Luck never stays good for long.",
+        "",
+        "%% u0100:0-50, u0101:0-12, u0102:0-22, u0103:0-2, u0104:0-48, u0105:0-34 %%",
+        "Seeker: What is luck, anyway? I suppose a temporary thing. What you say— never understood that. Um, question for Tim: did I make an arrangement with this this creature to release her?",
+        "",
+        "%% u0106:0-59, u0107:0-71, u0108:0-31 %%",
+        "DM: I don't remember. I mean, you had—a while ago you had talked about—she had said that if you took her to this forest, then she could be resurrected out of the ring.",
+        "",
+        "%% u0109:0-41, u0110:0-70 %%",
+        "Seeker: Oh, I see she's sort of trapped in there, but needs access to a particular tree or wood, or something like that.",
+        "",
+        "%% u0111:0-6, u0112:0-106 %%",
+        "DM: Right. No, you never really promised anything, and you just were sort of like, \"Yes, we want to go to the Feywild.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: In the next moment you find yourself on the ground in the middle of a large meadow. Around you, flowers are in bloom. There are petals slowly unfurling into butterfly wings as you watch. One flower takes off in a burst of tiny seeds flying into the air and fluttering around in a mesmerizing dance. But the flower stalk it just left wilts and melts, the tiny seeds knocked by its wings, settling and already beginning to sprout in the ground.",
+          "DM: In the—in the distance, away from the sun, maybe a few hundred feet, but distance again is hard to judge, you see the eaves of a forest. The trees shining in the afternoon light, the golds and reds of, and browns of oak and maple leaves, seeming to shimmer with an internal glow, always on the edge of dropping to the ground, but never quite doing so.",
+          "DM: In the direction of the sun, a meandering stream flows across the meadow. Although it's not wide, it seems to stretch, and you see the glint of marshy pools, and in places water that seems to flow with a mind of its own, seeping around the trunks of trees, forming pools and marshes full of cattails, moving slowly as if in the wind, although you feel no breeze. Beyond, mists rise from a small pond, and you can only dimly glimpse the far shore trees in the shadowy mists. So what would you like to do?",
+          "Seeker: Um, Seeker is amazed and delighted. Um, he sort of sits up in the grass and reaches out to pluck a flower, but then halts himself, thinking \"From everything I've heard, ah, this place is wily and strange, and I should be careful about how I proceed.\"",
+          "Seeker: So first of all, I can't forget what I'm here to do, which is just to get back to Eudomes's Tower and rejoin the others. Just have to get there, don't I? I can't think how I might even begin to do that, though. Oh, dear."
+        ],
+        "after": [
+          "Seeker: Right. I'll say, you know, I wonder if Oskar made any maps that might be useful. Does that book—?",
+          "DM: Ah, it does have— well, it doesn't have maps of the Feywild, you know. Well, it has— so he never went to the Feywild. It has—it has many maps of the same realm, but none of them show the same consistent—",
+          "Seeker: Landmarks or directions. Right? Um, and there's no way to take any two of them and line them up.",
+          "DM: Ah, they seem to be—so, there's a few things you do pick up from the book that may or may not be true, but seem to be consistent.",
+          "DM: So one is, um, the Feywild: the sun never moves. The sun doesn't move in time; the sun moves in space. So as you go— as you go west, it gets lighter and lighter, and as you go east it gets darker and darker—or no, yeah. And as you go—as you go west it gets lighter and lighter, and as you go east it gets darker and darker."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The book’s conflicting maps and fey geography",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0113",
+        "endUid": "u0178"
+      },
+      "lines": [
+        "%% u0113:0-6, u0114:0-89 %%",
+        "Seeker: Right. I'll say, you know, I wonder if Oskar made any maps that might be useful. Does that book—?",
+        "",
+        "%% u0115:0-16, u0116:0-65, u0117:0-118 %%",
+        "DM: Ah, it does have— well, it doesn't have maps of the Feywild, you know. Well, it has— so he never went to the Feywild. It has—it has many maps of the same realm, but none of them show the same consistent—",
+        "",
+        "%% u0118:0-96 %%",
+        "Seeker: Landmarks or directions. Right? Um, and there's no way to take any two of them and line them up.",
+        "",
+        "%% u0119:0-79, u0120:0-50 %%",
+        "DM: Ah, they seem to be—so, there's a few things you do pick up from the book that may or may not be true, but seem to be consistent.",
+        "",
+        "%% u0121:0-12, u0122:0-12, u0123:0-73, u0124:0-12, u0125:0-14, u0126:0-86, u0127:0-103 %%",
+        "DM: So one is, um, the Feywild: the sun never moves. The sun doesn't move in time; the sun moves in space. So as you go— as you go west, it gets lighter and lighter, and as you go east it gets darker and darker—or no, yeah. And as you go—as you go west it gets lighter and lighter, and as you go east it gets darker and darker.",
+        "",
+        "%% u0128:0-5, u0129:0-44, u0130:0-38 %%",
+        "Seeker: With. That would hold true if the sun did not move. Right. The sun doesn't move, it doesn't—",
+        "",
+        "%% u0131:0-46, u0132:0-39, u0133:0-3, u0134:0-53, u0135:0-124 %%",
+        "DM: So it's—it's always the same time at one spot. People disagree as to whether these are— ah, whether this is straight lines, or whether it's like— so like, if you stood right here and walk due north for two hundred miles, would the sun be the same? It's not entirely clear.",
+        "",
+        "%% u0136:0-11, u0137:0-4, u0138:0-21, u0139:0-29, u0140:0-35, u0141:0-7 %%",
+        "Seeker: It could be— any— and—and the direction towards the Crystal Mountain: where is that direction relative to the sun?",
+        "",
+        "%% u0142:0-32, u0143:0-8, u0144:0-18, u0145:0-11 %%",
+        "DM: Uh, the Crystal Mountain would be— that is, away from the sun. That's east.",
+        "",
+        "%% u0146:0-16 %%",
+        "Seeker: Toward the dusk.",
+        "",
+        "%% u0147:0-6, u0148:0-123, u0149:0-146 %%",
+        "DM: Right. But not that far, I mean. You can still see the sun shining on the crystal, although whether that's an illusion or not—um. The other thing that that is in the book is is, you know, every single map divides the Feywild up into the courts of various fey lords and ladies.",
+        "",
+        "%% u0150:0-29, u0151:0-57, u0152:0-3, u0153:0-11, u0154:0-59 %%",
+        "DM: So land—I mean, the concept of kingdoms or something is sort of foreign to the fey, but, um, the land is— yeah. The land owes its allegiance to particular fey lords.",
+        "",
+        "%% u0155:0-49, u0156:0-198, u0157:0-38, u0158:0-113, u0159:0-92, u0160:0-148 %%",
+        "DM: There's like a bunch, I mean. They're all very, uh, um, you know, inconsistent with who they say is where, right? So, you know, the Chanceweaver is drawn in like four different, totally incompatible spots across four different maps. Um, you know, there's the Master of Revels. There is, um, the King of Beasts. There's the Queen of Summer. There's the Queen of, um, Air and Shadow. Um, there's like all sorts of titles like this that are kind of seemingly somewhat randomly and inconsistently marked. Um, you know, each little gazetteer or map has a different, like, sort of argument as to why, you know, different fey lords are placed in different spots.",
+        "",
+        "%% u0161:0-31, u0162:0-25, u0163:0-18 %%",
+        "DM: There is one that does show the Prince of Luck around the Crystal Mountains.",
+        "",
+        "%% u0164:0-28, u0165:0-108 %%",
+        "Seeker: Or whether that's, you know— just can't really check whether that's just chance or it says this—this map actually is like, consistent, is—",
+        "",
+        "%% u0166:0-2, u0167:0-8, u0168:0-3, u0169:0-292 %%",
+        "DM: Um, unclear. Um, but in terms of like, uh—so the other thing is, it's—I mean, it's also the case that, well, distance is not necessarily proportional to Taelgar, like you might travel one hundred miles in the Feywild and have only gone five miles in Taelgar, or travel five miles and have gone a thousand miles.",
+        "",
+        "%% u0170:0-24 %%",
+        "Seeker: Direction is consistent.",
+        "",
+        "%% u0171:0-43 %%",
+        "DM: So if you go east, you're always going east.",
+        "",
+        "%% u0172:0-3, u0173:0-5, u0174:0-29, u0175:0-51, u0176:0-9, u0177:0-50 %%",
+        "Seeker: And— okay, so I can use that fact to get at least going in the direction of Eudomes's Tower, which is, I can't remember. It's like to the south and east.",
+        "",
+        "%% u0178:0-9 %%",
+        "DM: Ah, yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Luck never stays good for long.",
+          "Seeker: What is luck, anyway? I suppose a temporary thing. What you say— never understood that. Um, question for Tim: did I make an arrangement with this this creature to release her?",
+          "DM: I don't remember. I mean, you had—a while ago you had talked about—she had said that if you took her to this forest, then she could be resurrected out of the ring.",
+          "Seeker: Oh, I see she's sort of trapped in there, but needs access to a particular tree or wood, or something like that.",
+          "DM: Right. No, you never really promised anything, and you just were sort of like, \"Yes, we want to go to the Feywild.\""
+        ],
+        "after": [
+          "Seeker: And is the crystal more north or south?",
+          "DM: Or the Crystal Mountain is—is a little bit pretty much due east, maybe a little bit south of the east.",
+          "Seeker: Well, that's altogether too convenient, then. And, I mean, surely no one would be harmed by stopping by to investigate.",
+          "Seeker: I, uh, after leafing through the thick tome of lore of the Feywild, I stuff it back in my pack and sort of thoughtfully poke around and just verify that, like, I am still myself, and my stuff is still my stuff, that, like, I'm, generally speaking, transferred here with everything I had before.",
+          "DM: Yeah, as you're doing that, you hear— Ah, giggles in the distance. Well, not actually—not in the distance. Close, but it's—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Pixies invite Seeker to court",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0207",
+        "endUid": "u0378"
+      },
+      "lines": [
+        "%% u0207:0-2, u0208:0-26, u0209:0-17, u0210:0-1, u0211:0-44, u0212:0-4, u0213:0-43 %%",
+        "DM: Um, you hear like several more uh, giggles, and, um, a short, like faint, teeny voice near your ear that—\"Did that—did the Stone Face lose something?\"",
+        "",
+        "%% u0214:0-23, u0215:0-39, u0216:0-9 %%",
+        "((Brief reactions))",
+        "",
+        "%% u0217:0-21 %%",
+        "DM: \"What you looking for?\"",
+        "",
+        "%% u0218:0-79 %%",
+        "Seeker: And who do I have the pleasure to make the acquaintance of at this very moment?",
+        "",
+        "%% u0219:0-27, u0220:0-21, u0221:0-21, u0222:0-8 %%",
+        "DM: Uh, you hear just kind of, um, uh, cheerful laughs, uh: \"Watch where you step, Dirtman.\"",
+        "",
+        "%% u0223:0-19, u0224:0-24, u0225:0-9, u0226:0-32, u0227:0-47, u0228:0-42, u0229:0-3, u0230:0-82, u0230:82-102, u0231:0-7 %%",
+        "((Looking for the invisible speaker))",
+        "",
+        "%% u0232:0-4, u0233:0-63, u0234:0-13, u0235:0-7, u0236:0-2, u0237:0-16, u0238:0-4, u0239:0-12, u0240:0-3, u0241:0-84, u0242:0-7, u0243:0-4, u0244:0-19, u0245:0-2, u0246:0-8, u0247:0-43, u0248:0-43, u0249:0-24, u0250:0-37, u0251:0-82, u0252:0-140, u0253:0-41 %%",
+        "DM: ((Additional sounds and clothing description)) Um, and this ah, maybe foot tall, um greenish creature with wings that are—that look like a sort of green and gold monarch butterfly. ((Additional sounds and clothing description)) she like appears about a foot from your face, and there's like two others, a man and another woman that—that appear next to you, one in this, like elaborate tunic of silk, all about a foot tall. Um, and they're human— humanoid, yeah, but with butterfly wings.",
+        "",
+        "%% u0254:0-3, u0255:0-65, u0256:0-3, u0257:0-30, u0258:0-39, u0259:0-6, u0260:0-88, u0261:0-26 %%",
+        "DM: Um, and she—she like—they all have now stopped laughing and—and look, ah, somewhat serious for a moment, says the one in front of you. She says: \"That's— that's the Prince of Luck's domain. You must come to his court, should you wish to visit. Strangers may not wander.\"",
+        "",
+        "%% u0262:0-46 %%",
+        "Seeker: How might I obtain an invitation to his court?",
+        "",
+        "%% u0263:0-19, u0264:0-16, u0265:0-30 %%",
+        "DM: \"Oh, you want to go? He loves guests. We are going. We will take you.\"",
+        "",
+        "%% u0266:0-25, u0267:0-27 %%",
+        "Seeker: And for that I thank you. How will you take me there?",
+        "",
+        "%% u0268:0-76, u0269:0-9, u0270:0-83 %%",
+        "DM: She kind of looks at you for a minute, and she says—she smiles a little bit. \"Hmm. Well—\" Flies around you in circles. \"I see no wings. We'll have to do something about that.\"",
+        "",
+        "%% u0271:0-9 %%",
+        "Seeker: Oh, dear.",
+        "",
+        "%% u0272:0-16, u0273:0-64 %%",
+        "DM: She touches you. Uh, would you like to attempt to resist the spell she's casting?",
+        "",
+        "%% u0274:0-17 %%",
+        "Seeker: I don't think so.",
+        "",
+        "%% u0275:0-29 %%",
+        "DM: Uh, you turn into a dragonfly.",
+        "",
+        "%% u0276:0-7, u0277:0-23 %%",
+        "((Dragonfly size question))",
+        "",
+        "%% u0278:0-70, u0279:0-98 %%",
+        "DM: ((Dragonfly size and flight speed)) \"Come, follow us.\" She takes off. ((Dragonfly size and flight speed))",
+        "",
+        "%% u0280:0-53, u0281:0-43 %%",
+        "Seeker: Um, I try out my new wings and do a couple of little spins in the air before following them. Ah.",
+        "",
+        "%% u0282:0-56, u0283:0-22, u0284:0-8, u0285:0-2, u0286:0-45, u0287:0-45, u0288:0-50, u0289:0-126, u0290:0-111, u0291:0-18, u0292:0-90, u0293:0-74, u0294:0-39, u0295:0-116, u0296:0-13, u0297:0-3, u0298:0-52, u0299:0-13, u0300:0-8, u0301:0-243, u0302:0-16, u0303:0-18, u0304:0-72, u0305:0-142, u0306:0-61, u0307:0-32, u0308:0-21, u0309:0-20, u0310:0-34, u0310:34-37, u0311:0-3, u0312:0-10, u0313:0-11, u0314:0-17, u0315:0-12, u0316:0-3, u0317:0-31, u0318:0-4, u0319:0-46 %%",
+        "((Dragonfly flight through the forest and screen-sharing interruption))",
+        "",
+        "%% u0320:0-23, u0321:0-70, u0322:0-79, u0323:0-16, u0324:0-95, u0325:0-14, u0326:0-29 %%",
+        "DM: That's fine. One of the— you suddenly find yourselves like ten feet off, fifteen feet off, just suddenly turned back into Seeker, tumbling from the sky, um, landing in sort of a tangle of limbs, and, ah, one of these, ah, butterfly fairies kind of laughs at you again, and says, \"Clumsy, clumsy rock foot man. Cannot dance and cannot land.\"",
+        "",
+        "%% u0327:0-34, u0328:0-72 %%",
+        "Seeker: Wow. Well, I appreciate the chance to be such a delightful flying insect temporarily. And where are we now?",
+        "",
+        "%% u0329:0-41 %%",
+        "DM: The court of the Chanceweaver. Where else?",
+        "",
+        "%% u0330:0-10, u0331:0-25, u0332:0-76, u0333:0-31, u0334:0-245, u0335:0-94, u0336:0-41, u0337:0-41, u0338:0-18, u0339:0-168, u0340:0-61, u0341:0-3, u0342:0-191, u0343:0-45, u0344:0-35, u0345:0-88, u0346:0-8, u0347:0-233, u0348:0-3, u0349:0-64, u0350:0-31, u0351:0-134, u0352:0-3, u0353:0-42, u0354:0-43, u0355:0-30, u0356:0-52, u0357:0-43, u0358:0-38, u0359:0-40, u0360:0-3, u0361:0-131, u0362:0-18, u0363:0-135, u0364:0-3, u0365:0-13, u0366:0-3, u0367:0-39, u0368:0-85, u0369:0-2 %%",
+        "((Descriptions of the court grounds and local light))",
+        "",
+        "%% u0370:0-3, u0371:0-58, u0372:0-31, u0373:0-5, u0374:0-21 %%",
+        "DM: Uh, and—and one of the pixies who—who guided you here says, uh: \"The Prince is around somewhere. Enjoy. Don't break anything.\"",
+        "",
+        "%% u0375:0-44, u0376:0-9, u0377:0-3, u0378:0-38 %%",
+        "Seeker: Me? Thanks. What? Watch as they gambol away. Oh, dear. ((Question about the mountain))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh, yeah, towards the mountain.",
+          "DM: Or you're going towards the stream and the—and the pond in the other direction.",
+          "Seeker: I see.",
+          "DM: Or you could just go into the woods. Basically, the the meadow goes—you've got the pond here, and then the meadow and the forest in the other direction.",
+          "Seeker: I'll, um, stand up and—and peer around looking for the source of the—"
+        ],
+        "after": [
+          "DM: It doesn't seem like you've gotten any closer to it. You can still see it in the direction away from the sun. Uh, it's sort of in the—on the horizon, but it doesn't see—it doesn't appear to be any closer than it was before.",
+          "Seeker: So when they—I—I thought they said that they—these two places had something to do with it. They, uh—",
+          "DM: Yes, the—well, what they said was the mountain was part of the was part of the Prince of Luck's domain, and you could not visit it without his permission.",
+          "Seeker: I see.",
+          "DM: And that is verified by at least one of them. That is verified by at least one of the maps, and this seems to be the court of the Prince of Luck, as far as you can tell, or as far as the pixies have told you."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The serving attendant and the dice necklace",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0408",
+        "endUid": "u0543"
+      },
+      "lines": [
+        "%% u0408:0-10, u0409:0-33, u0410:0-38, u0411:0-54, u0412:0-13, u0413:0-3, u0414:0-27, u0415:0-2, u0416:0-10, u0417:0-43, u0418:0-31, u0419:0-13, u0420:0-43, u0421:0-29, u0422:0-34, u0423:0-50, u0424:0-12, u0425:0-25 %%",
+        "DM: One of the the people in the in white robes, like hardly like waves their hand over over this silver platter, and—and walks up to you with like slightly, ah, hesitantly approaching you, ah, kind of, uh, like gives you a brief bow and says in—in the sort of very elegant tones: \"Master Stone, welcome to the court of the Prince of Luck. Please make yourself at home, have refreshments, food and drink, have beer and wine, and meat and fruit and cheese, sweet bread, pastries of all delights.\"",
+        "",
+        "%% u0426:0-29 %%",
+        "Seeker: For this courtesy I thank you.",
+        "",
+        "%% u0427:0-7 %%",
+        "((Unfinished interjection))",
+        "",
+        "%% u0428:0-5, u0429:0-5, u0430:0-8, u0431:0-63, u0432:0-10, u0433:0-50, u0434:0-21, u0435:0-24, u0436:0-25, u0437:0-87 %%",
+        "Seeker: I am— I bow formally and accept a glass of something, but do not take a drink of it. ((Table clarification about clothing)) and I take out my purple gemstone goggles and say, \"Would you mind if I were to briefly inspect your necklace? You don't need to remove it.\"",
+        "",
+        "%% u0438:0-8 %%",
+        "((Brief reaction))",
+        "",
+        "%% u0439:0-10, u0440:0-41 %%",
+        "Seeker: In return, I will willingly tell you what I learned.",
+        "",
+        "%% u0441:0-27 %%",
+        "DM: May I inspect your goggles?",
+        "",
+        "%% u0442:0-3, u0443:0-84 %%",
+        "Seeker: Um, you can look at them, certainly, or if I hold them up, perhaps you can gaze through.",
+        "",
+        "%% u0444:0-10 %%",
+        "DM: Very well.",
+        "",
+        "%% u0445:0-39, u0446:0-30, u0447:0-33, u0448:0-23, u0449:0-14, u0450:0-18, u0451:0-2 %%",
+        "((Holding up the goggles and brief interjections))",
+        "",
+        "%% u0452:0-11, u0453:0-10, u0454:0-31 %%",
+        "DM: \"Fascinating, these are. Do you carry much magic on you?\"",
+        "",
+        "%% u0455:0-67 %%",
+        "Seeker: Oh, I'm but a humble traveler. I have encountered magic in my time.",
+        "",
+        "%% u0456:0-36 %%",
+        "DM: Well, these are indeed quite magical.",
+        "",
+        "%% u0457:0-38 %%",
+        "Seeker: And what about that necklace of yours?",
+        "",
+        "%% u0458:0-12, u0459:0-45 %%",
+        "DM: \"You may look.\" ((Arcana check instruction))",
+        "",
+        "%% u0460:0-2, u0461:0-24, u0462:0-9, u0463:0-101, u0464:0-37 %%",
+        "((Arcana roll and goggles mechanics))",
+        "",
+        "%% u0465:0-3, u0466:0-66, u0467:0-3, u0468:0-140, u0469:0-103, u0470:0-84, u0471:0-58, u0472:0-6, u0473:0-22, u0474:0-58, u0475:0-56, u0476:0-4, u0477:0-138, u0478:0-62 %%",
+        "DM: Um, so when you inspect these up close you can see that—so there is a, um, there's a—well, so it's mostly just a plain silver chain, but there's like right in the center there's a little, um, like design of like a die, like a six-sided die that then sort of spirals out into, um, like looping curls to the rest of the chain. They—they are extremely finely crafted, and not actually made out of silver. This is not a kind of metal you've ever seen before. It's silvery, but it almost glimmers with a with its own light, like it almost seems to glow slightly. And when you look through it in the goggles, you can see this— so it's almost like there's those little tendrils of light that are sort of like almost moonlight that are kind of crawling out in sort of woven around the silver, and that's what's causing it to glow.",
+        "",
+        "%% u0479:0-26 %%",
+        "Seeker: So it's a pattern of dice.",
+        "",
+        "%% u0480:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u0481:0-26 %%",
+        "Seeker: What numbers does it show?",
+        "",
+        "%% u0482:0-2, u0483:0-15 %%",
+        "DM: Um, keeps changing.",
+        "",
+        "%% u0484:0-33, u0485:0-6, u0486:0-42 %%",
+        "Seeker: And so there is no arcana on that that I— we can draw no connections that I can make—",
+        "",
+        "%% u0487:0-13, u0488:0-109, u0489:0-31, u0490:0-17 %%",
+        "DM: It's, I mean, ah, it is—you are skilled enough at this point in your career—it is not a metal of the Prime Material plane, like this is not something that exists in Taelgar.",
+        "",
+        "%% u0491:0-4 %%",
+        "((Interjection))",
+        "",
+        "%% u0492:0-16, u0493:0-3, u0494:0-73, u0495:0-67 %%",
+        "Seeker: So I'll ask him— Oh, looking around, the other folks dressed the same, but they have the same— only the people in white robes, but do they all have the same one?",
+        "",
+        "%% u0495:67-95 %%",
+        "DM: They are the same one, yeah.",
+        "",
+        "%% u0496:0-38, u0497:0-37, u0498:0-23 %%",
+        "Seeker: And may I ask what the effect of this— the necklace upon the wearer, if any? Does it have a magical—?",
+        "",
+        "%% u0499:0-8, u0500:0-29 %%",
+        "DM: You have many questions, Master Stone.",
+        "",
+        "%% u0500:29-79 %%",
+        "Seeker: I am a curious one, you might say a scholar even.",
+        "",
+        "%% u0501:0-38 %%",
+        "DM: What brings you to the Prince's court?",
+        "",
+        "%% u0502:0-37, u0503:0-11, u0504:0-23 %%",
+        "Seeker: I'm on a journey to rejoin my friends of Taelgar, so I am passing through.",
+        "",
+        "%% u0505:0-9, u0506:0-72, u0507:0-25 %%",
+        "DM: You are— it's interesting—you are not—you are no longer on that plane, you know. You are in our world now.",
+        "",
+        "%% u0508:0-32 %%",
+        "Seeker: And very curious about it, I am.",
+        "",
+        "%% u0509:0-38, u0510:0-29 %%",
+        "DM: Please come, join the guests. I cannot speak to anyone for that long.",
+        "",
+        "%% u0511:0-13 %%",
+        "Seeker: Well why not?",
+        "",
+        "%% u0512:0-19 %%",
+        "DM: I have many duties.",
+        "",
+        "%% u0513:0-81, u0514:0-32 %%",
+        "Seeker: So I'm sure there are some who are getting hungry as I wait here talking to you. Do you serve the Prince himself?",
+        "",
+        "%% u0515:0-7, u0516:0-23 %%",
+        "DM: I have— I have served him, yes.",
+        "",
+        "%% u0517:0-69 %%",
+        "Seeker: But—but all of you in the white robes, you are servants of his court?",
+        "",
+        "%% u0518:0-6, u0519:0-26 %%",
+        "DM: We are— yes, we are, of his court.",
+        "",
+        "%% u0520:0-3, u0521:0-36, u0522:0-33 %%",
+        "Seeker: And bound up here? Are you willingly, or could you leave if you so choose?",
+        "",
+        "%% u0523:0-23, u0524:0-23, u0525:0-13, u0526:0-13, u0527:0-18, u0528:0-55 %%",
+        "DM: \"You ask many questions.\" Hands you like a—like a— \"You will find, Master Stone, that in this place knowledge is traded for knowledge and not given freely.\"",
+        "",
+        "%% u0529:0-5, u0530:0-56 %%",
+        "Seeker: I see. Well, that's a useful fact that I'll have to make use of.",
+        "",
+        "%% u0531:0-18, u0532:0-15 %%",
+        "DM: Come, play a game, join the revel.",
+        "",
+        "%% u0533:0-11 %%",
+        "Seeker: I'd love to.",
+        "",
+        "%% u0534:0-25, u0535:0-43, u0536:0-21 %%",
+        "DM: Do not stand shyly on the side, even though you are dressed funny and look odd to our eyes.",
+        "",
+        "%% u0537:0-55 %%",
+        "Seeker: I've been known to enjoy the occasional game of chance.",
+        "",
+        "%% u0538:0-14, u0539:0-3, u0540:0-31 %%",
+        "DM: Please wander. The Prince never turns away guests.",
+        "",
+        "%% u0541:0-49 %%",
+        "Seeker: So he's of a generous spirit. That's good to know.",
+        "",
+        "%% u0542:0-41 %%",
+        "DM: He never turns away guests. That is true.",
+        "",
+        "%% u0543:0-31 %%",
+        "Seeker: And perhaps not quite the same.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yes, the—well, what they said was the mountain was part of the was part of the Prince of Luck's domain, and you could not visit it without his permission.",
+          "Seeker: I see.",
+          "DM: And that is verified by at least one of them. That is verified by at least one of the maps, and this seems to be the court of the Prince of Luck, as far as you can tell, or as far as the pixies have told you.",
+          "Seeker: A minute. People are playing games of chance. That makes sense. Um, I wonder if— well, I'll sort of try to act inconspicuous and see if I can stroll up to one of the people wearing white robes with a silver circlet.",
+          "DM: Ah, so as you like—the—the pixies kind of fly off, and as you like take one step, like everybody turns to look at you, like the music stops, like everybody is just kind of staring for a minute. Um, and then, uh, like whispers start to spread around. Um, uh uh, one of the, um, the like white-robed people kind of, uh, looks at you. Um, everybody is just kind of staring for minute, and then one of the—the, uh, in the—in the, um, band, um, gives a—gives a shout, says: \"A dwarf! I have to bring out the beer! Strike up a tune!\" And they start playing again, and then, um,"
+        ],
+        "after": [
+          "DM: Just like even within the, like, sort of area right around here, you can see there are um, there are like—there's a—a table set up where there seems to be a dice game going on. There's one person, one humanoid rabbit, um like basically a person but furry with a rabbit's head, um, is—is rolling dice against, ah against another of these sort of human-looking creatures. And each time they roll like that that die, this, like, Hydra head comes out of the die, and, um, one or two of the die, depending on which one is higher, which—whichever one is higher, like rolls and like bites off the head, and then two new heads spring up and the die grows larger, and they're, um, uh, they are rolling against each other each time they roll the die. Each time a head gets bitten off, the ah um, the— the die grows bigger. The die gets more sides. Um,",
+          "DM: Uh, you can see there's— there's it like sort of in the distance, there are, um, what looked like five or six people gathered around a—a long, along like maybe one hundred ish foot long, or maybe longer, sort of open sort of grassy area that's had lines marked on it. And there's these really brightly colored lizards that are racing across, and people are betting on them.",
+          "Seeker: Um.",
+          "DM: Uh, you can—you can see, uh, there seems to be a uh card game going on among three— Ah, three people, one of whom looks, um, pretty like somewhat more bedraggled than most people, you see. Like, um, he's not really wearing particularly elegant clothes, and one of the other people is wearing like, um, she is like dressed super elegantly, and she's got this big bear fur like draped over her shoulders, and she's smiling happily. Um, and there's people dancing. There's like pixies flying around like drinking out of these tiny little cups. Ah, there are. Let's see, that's about what you can see around here. But, like, you know, you get the sense that anywhere you wander there is going to be more stuff to see.",
+          "Seeker: Yeah, um, I stroll over to observe the card game."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Unusual stakes at the card table",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0601",
+        "endUid": "u0683"
+      },
+      "lines": [
+        "%% u0601:0-126, u0602:0-119, u0603:0-94, u0604:0-84, u0605:0-73, u0606:0-22, u0607:0-23 %%",
+        "DM: And then the third person, who's wearing—another man who's wearing, um, like shaggy hair doesn't seem to be very neatly combed, uh, sort of almost like hunched over a little bit, and looks, now that you get closer, looks pretty like desperate, actually. ((The desperate player’s eating and drinking)) And the—the dark skin man, who seems to be, um, seems to be the dealer, like gestures, and he says: \"Would you like to join?\"",
+        "",
+        "%% u0608:0-36, u0609:0-19, u0610:0-3, u0611:0-13, u0612:0-40, u0613:0-12, u0614:0-36, u0615:0-3, u0616:0-6, u0617:0-7, u0618:0-3, u0619:0-6, u0620:0-21, u0621:0-3, u0622:0-23, u0623:0-3, u0624:0-11, u0625:0-11, u0626:0-137, u0627:0-17, u0628:0-3, u0629:0-14, u0630:0-22, u0631:0-19, u0632:0-23, u0633:0-43, u0634:0-37, u0635:0-31, u0636:0-20, u0637:0-7 %%",
+        "((Card-game name and rules))",
+        "",
+        "%% u0638:0-106 %%",
+        "Seeker: Having watched them play a tiny bit, is there any impression of like—so one person is the dealer, is it?",
+        "",
+        "%% u0638:106-151 %%",
+        "DM: Yeah. So the guy in the middle is the dealer.",
+        "",
+        "%% u0638:151-192 %%",
+        "Seeker: And so he is not betting the other two?",
+        "",
+        "%% u0638:192-217, u0639:0-67, u0640:0-29, u0641:0-46, u0642:0-7, u0643:0-36 %%",
+        "DM: They weren't betting gold. Like you—you weren't actually sure what they were betting exactly. You thought you heard like, um, the feeling of summer breeze on your hair, and the ah, just—what was it?—the smell of honey.",
+        "",
+        "%% u0644:0-8, u0645:0-33 %%",
+        "Seeker: Come in. So the woman seems to be winning?",
+        "",
+        "%% u0646:0-31, u0647:0-78, u0648:0-49 %%",
+        "DM: She seems to be very confident, like she seemed to be—she was raising. She was like playing very aggressively. Um, the—the man, the shaggy man, seemed desperate.",
+        "",
+        "%% u0649:0-73 %%",
+        "Seeker: And you can see that a new sensation each time, or there are some tokens?",
+        "",
+        "%% u0650:0-3, u0651:0-40 %%",
+        "DM: Ah, well, you only saw the end of the round.",
+        "",
+        "%% u0652:0-2, u0653:0-2, u0654:0-35, u0655:0-31, u0656:0-47, u0657:0-107, u0658:0-56, u0659:0-76, u0660:0-9, u0661:0-40, u0662:0-31, u0663:0-10, u0664:0-15, u0665:0-57, u0666:0-17, u0667:0-3, u0668:0-88, u0669:0-54, u0670:0-46, u0671:0-4, u0672:0-37, u0673:0-18, u0674:0-13, u0675:0-5 %%",
+        "((Magic-detection equipment and suspicions about cheating))",
+        "",
+        "%% u0676:0-4, u0677:0-5, u0678:0-46, u0679:0-38 %%",
+        "Seeker: You— I see. On second thought, maybe I won't play a round. But thank you for teaching me that you—",
+        "",
+        "%% u0680:0-18, u0681:0-19, u0682:0-31, u0683:0-93 %%",
+        "DM: Sort of be to you. That's your choice. At least have some refreshment. Waves one of—have you eaten or drunk any of the things that you took from the first guy yet?",
+        "",
+        "%% u0683:93-132 %%",
+        "Seeker: I think I know better than to do that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Uh, you can see there's— there's it like sort of in the distance, there are, um, what looked like five or six people gathered around a—a long, along like maybe one hundred ish foot long, or maybe longer, sort of open sort of grassy area that's had lines marked on it. And there's these really brightly colored lizards that are racing across, and people are betting on them.",
+          "Seeker: Um.",
+          "DM: Uh, you can—you can see, uh, there seems to be a uh card game going on among three— Ah, three people, one of whom looks, um, pretty like somewhat more bedraggled than most people, you see. Like, um, he's not really wearing particularly elegant clothes, and one of the other people is wearing like, um, she is like dressed super elegantly, and she's got this big bear fur like draped over her shoulders, and she's smiling happily. Um, and there's people dancing. There's like pixies flying around like drinking out of these tiny little cups. Ah, there are. Let's see, that's about what you can see around here. But, like, you know, you get the sense that anywhere you wander there is going to be more stuff to see.",
+          "Seeker: Yeah, um, I stroll over to observe the card game.",
+          "DM: Um, the three of them who are playing look up. Um, they seem to have just finished a hand. They—they kind of, um, stop for a moment and look at each other, and sort of put down their um, their card. So there's the—there's the elegant woman who's got, um, this like—like bear fur draped over her, and like silk red silk dress, like with gold and, um, uh, through in, and, uh, long brown hair, fair skin. There is another man who is—who again looks kind of fey-ish, dark-skinned, like short hair, like azure blue eyes, wearing this like incredibly elaborately sewn silk, high-collared silk tunic with big sleeves, uh, also smiling. He also seems to be doing well."
+        ],
+        "after": [
+          "DM: She waves one of the other like, uh, white-robed people over, um, and as he waves over, you notice he has a ring on his finger that he's now lifted up,",
+          "Seeker: But has the exact same little dice marker—",
+          "DM: Dice emblem on his ring.",
+          "Seeker: This stuff— um, I thank you. Oh, and still have a—",
+          "DM: You still have a— Taster. Taster must be long gone by now, and—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Taster’s uncertain fate",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0692",
+        "endUid": "u0696"
+      },
+      "lines": [
+        "%% u0692:0-16, u0693:0-44 %%",
+        "DM: You still have a— Taster. Taster must be long gone by now, and—",
+        "",
+        "%% u0694:0-18, u0695:0-15 %%",
+        "Seeker: We've been through so many miles.",
+        "",
+        "%% u0695:15-109, u0696:0-68 %%",
+        "DM: I mean, when you ran from Chardon, I don't think there was a way you could have brought Taster. Taster is probably roaming free somewhere in the Chasa River Valley.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I think I know better than to do that.",
+          "DM: She waves one of the other like, uh, white-robed people over, um, and as he waves over, you notice he has a ring on his finger that he's now lifted up,",
+          "Seeker: But has the exact same little dice marker—",
+          "DM: Dice emblem on his ring.",
+          "Seeker: This stuff— um, I thank you. Oh, and still have a—"
+        ],
+        "after": [
+          "Unknown: [garbled]",
+          "Seeker: Would be magical food to—to find out what it does, and— and the baby is in a little bit of an emotional pain. This is just at her forty-five minute sleep cycle, after all.",
+          "Seeker: So I am— accept another— the glass of beer, holding two glasses.",
+          "DM: You can put the full one down and like pretend you're trading them.",
+          "Seeker: Um, yeah, yeah. Is there anything in Oskar's book about eating and drinking? Surely that's it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The book’s warnings about hospitality",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0703",
+        "endUid": "u0722"
+      },
+      "lines": [
+        "%% u0703:0-8, u0704:0-15, u0705:0-17, u0706:0-21, u0706:21-90 %%",
+        "((Accepting beer and discussing the glasses))",
+        "",
+        "%% u0706:90-105, u0707:0-39, u0708:0-39 %%",
+        "Seeker: Um, yeah, yeah. Is there anything in Oskar's book about eating and drinking? Surely that's it.",
+        "",
+        "%% u0708:39-159, u0709:0-78, u0710:0-16, u0711:0-67, u0712:0-12, u0713:0-39, u0714:0-23, u0715:0-73, u0716:0-14, u0717:0-88, u0718:0-14, u0719:0-143 %%",
+        "DM: I—I mean, there's all sorts of rumors, right? It's like anytime you accept any sort of gift or hospitality from the fey, you're in their debt, and who knows what that means. There's also rumors like, the—the more you eat and drink in the Feywild, the more time passes when you return, like, if you— and then there's other rumors that are, you know, that are just that you like—you don't know what the—what it will do. Like, you might eat a cake, and it shrinks you down to an insect, or, you know, you have—you—you eat a cake, and you wake up a month later, not being able to remember anything you've done for the past month, and realize that, you know, you've been serving in the court of somebody for—",
+        "",
+        "%% u0720:0-35 %%",
+        "DM: There's like tons of stories about—",
+        "",
+        "%% u0720:35-54 %%",
+        "Seeker: Yes, food and drink.",
+        "",
+        "%% u0721:0-57, u0722:0-86 %%",
+        "DM: Again with Oskar's book, it's always hard to tell what is correct, but none of the stories are like, \"Oh, yes, just eat the food. It'll be great.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You still have a— Taster. Taster must be long gone by now, and—",
+          "Seeker: We've been through so many miles.",
+          "DM: I mean, when you ran from Chardon, I don't think there was a way you could have brought Taster. Taster is probably roaming free somewhere in the Chasa River Valley.",
+          "Unknown: [garbled]",
+          "Seeker: Would be magical food to—to find out what it does, and— and the baby is in a little bit of an emotional pain. This is just at her forty-five minute sleep cycle, after all."
+        ],
+        "after": [
+          "Seeker: Yeah. Certainly, yeah. On— I I stroll over to observe the lizard races.",
+          "DM: So the race that you—there's a race that is just finishing. And there's this brilliant gold lizard that seems to be winning, um, uh, and every—you know, there's like a few people who are cheering, um, and when the lizard wins, at— uh, it like bursts into this, um—the gold lizard wins, and it like burst into the shower of, um, silver of like golden sparkles, and you can see the three people who were—were cheering for it, like, take a deep breath, and this, like—the sparkle's like— it's like they—the sparkles like drift over, and they breathe them in, and they all like sigh. And then the—the three lizards that lost that the other people were betting on, you can see, like this crowd, like people sort of bracing themselves, and those three lizards burst into these sort of brackish brown, like, almost looking like bruises, sort of oozy droplets that then fly towards all the people who lost the bets and like force themselves into their nostrils. And you can see people like choking and coughing, and one person retches a little bit. Then they sort of shake their heads, and, ah, you hear a—a shout of, \"Anybody ready to bet on the next round? Come one, come all, place your bets!\"",
+          "Seeker: I think to myself, I suppose I'll try playing that game. The worst thing that can happen— what? What are the choices?",
+          "DM: Uh, there is one, uh, fire brick red lizard with this like a diagonal, um, black pattern down its back. There's one like pastel blue, with like fluffy white clouds pattern. Um, there's one deep purple, uh, with uh, sort of— it looks like oil paints sort of painted. It has those like little, so like swirls like oil paint. Um, and then there's one that is just, ah, shining like almost translucent, but with a faint, ah, golden light sort of emanating through its body. \"Place your bets, place your bets!\"",
+          "Seeker: I observe for a second to see how people are betting, and also what they're betting."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The Prince asserts his authority",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u0921",
+        "endUid": "u1073"
+      },
+      "lines": [
+        "%% u0921:0-5, u0922:0-3, u0923:0-37 %%",
+        "DM: Okay, uh, so you cast Dispel Magic on yourself.",
+        "",
+        "%% u0924:0-9, u0925:0-8 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0926:0-53, u0927:0-36, u0928:0-2, u0929:0-30, u0930:0-19, u0931:0-3, u0932:0-3, u0933:0-30, u0934:0-39, u0935:0-56, u0936:0-49, u0937:0-16, u0938:0-73 %%",
+        "DM: The music stops again suddenly, and—well, you can see. You—you look up, and there are four um uh, four like tall, elegant fey standing around you and uh, the man who was on the throne. Um, and they like—two of them grab you, and the man who is on the throne is walking towards you, snaps his fingers, and all of the flowers go out. And now it's not dark because there's still the light of the sun, but it noticeably dims.",
+        "",
+        "%% u0939:0-16, u0940:0-8, u0941:0-3, u0942:0-18, u0943:0-34, u0944:0-8, u0945:0-44, u0946:0-56, u0947:0-20 %%",
+        "DM: Um, and it looks— he looks, uh, not exactly angry. He's still beautiful, but he looks annoyed, and he walks over, and he looks down at you. He's probably six, six and a half feet tall, so he's like several feet taller.",
+        "",
+        "%% u0948:0-13 %%",
+        "((Interjection))",
+        "",
+        "%% u0949:0-10, u0950:0-11, u0951:0-12, u0952:0-19, u0953:0-51, u0954:0-58, u0955:0-24, u0956:0-2, u0957:0-77, u0958:0-23, u0959:0-31 %%",
+        "DM: Um, and he leans down: \"Who are you? Who are you to dare practice your magic without permission in my realm?\" Puts a finger, like puts his finger on you and sort of, um, pushes you slightly, and, uh you—you take a—you take a step, like pushes you back a little bit. ((Saving throw instruction))",
+        "",
+        "%% u0960:0-25, u0961:0-41, u0962:0-17, u0963:0-30, u0964:0-79, u0965:0-75, u0966:0-5, u0967:0-13, u0968:0-6 %%",
+        "((Saving throw and loose-footing adjudication))",
+        "",
+        "%% u0969:0-14 %%",
+        "DM: And you fall.",
+        "",
+        "%% u0969:14-19 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u0970:0-44, u0971:0-43 %%",
+        "DM: And he sort of—he looks at you, and he says: \"Not so sturdy on your feet anymore, are you?\"",
+        "",
+        "%% u0972:0-41, u0973:0-59, u0974:0-19, u0975:0-23 %%",
+        "Seeker: In this realm, I've been called Mr. Stone. Sometimes tumble, so it seems, I say, getting myself up and dusting myself off. That's all I was doing.",
+        "",
+        "%% u0976:0-40, u0977:0-26 %%",
+        "DM: He snaps his fingers, and the—and the, um, band begins to play again.",
+        "",
+        "%% u0978:0-26, u0979:0-7 %%",
+        "DM: \"You are out of your depth, Seeker.\"",
+        "",
+        "%% u0980:0-26 %%",
+        "Seeker: You don't need to say that.",
+        "",
+        "%% u0981:0-50, u0982:0-36, u0983:0-42, u0984:0-35 %%",
+        "DM: \"Only fools touch things that don't belong to them, or meddle with the magic of fairies, or tell the fairies their names unprompted. I know that is not your true name.\"",
+        "",
+        "%% u0985:0-34, u0986:0-9, u0987:0-37, u0988:0-34 %%",
+        "DM: \"Come, Seeker, you have interrupted my revel. Would you like to tell us your story? Try your hand in a game of chance?\"",
+        "",
+        "%% u0989:0-6 %%",
+        "Seeker: Gladly.",
+        "",
+        "%% u0990:0-10 %%",
+        "DM: \"Follow me.\"",
+        "",
+        "%% u0991:0-77, u0992:0-8, u0993:0-3, u0994:0-65, u0995:0-38, u0996:0-37, u0997:0-7, u0998:0-176, u0999:0-77, u1000:0-16, u1001:0-116, u1002:0-48 %%",
+        "DM: He turns and he walks, the flowers bursting into light as he walks past them into the um, the—the dais, the central area of the gazebo, and he turns and he um, whispers something to one of the, um, uh, people dressed in white, in this, um, a woman, age—all of them look somewhat ageless, and look elven, but she seems to have more years than others, and she's wearing a much more elaborate and fancy gown, and—and she has, um, uh, she has like rings on all of her fingers. She's wearing a lot of jewelry. Seems also to be somewhat magical, and she walks over to you, and she kind of, um, waves her—waves her hand, casts some kind of spell, and you're clean. Your—your clothes are cleaned.",
+        "",
+        "%% u1003:0-8, u1004:0-52, u1005:0-29, u1006:0-25, u1007:0-132, u1008:0-131 %%",
+        "DM: Um, your uh, stained traveling gear is replaced by like a nice um, elegantly cut dwarven, um, you know, tunic and cloak. But still, you look kind of out of place with your like big pack and stuff, which I assume you're keeping close to your person, um, and, you know, you've got leather, you've got armor on, and you've got, you know, all your stuff, but you're much more neatly dressed.",
+        "",
+        "%% u1009:0-3 %%",
+        "((Interjection))",
+        "",
+        "%% u1010:0-118 %%",
+        "Seeker: Any—I need to have—sort of pat my pockets a little bit to make sure that things I expect to be there are still there.",
+        "",
+        "%% u1011:0-136 %%",
+        "DM: No, it seems like more a glamour or illusion than it actually changes your clothes, like when you touch your clothes it feels like you're—",
+        "",
+        "%% u1012:0-27 %%",
+        "Seeker: They're still as they were.",
+        "",
+        "%% u1013:0-5, u1014:0-3, u1015:0-40, u1016:0-15, u1017:0-16 %%",
+        "DM: Yeah, um, he—the Prince kind of waves his hands as, \"A little better. Now, your story.\"",
+        "",
+        "%% u1018:0-2, u1019:0-18, u1020:0-4, u1021:0-30, u1022:0-3, u1023:0-40, u1024:0-1, u1025:0-44, u1026:0-9, u1027:0-39, u1028:0-5, u1029:0-28, u1030:0-12, u1031:0-8, u1032:0-24, u1033:0-52, u1034:0-28, u1035:0-75, u1036:0-57, u1037:0-27 %%",
+        "((Unfinished opening and player deliberation))",
+        "",
+        "%% u1038:0-5, u1039:0-40, u1040:0-17, u1041:0-24, u1042:0-13, u1043:0-46, u1044:0-60 %%",
+        "Seeker: Well, maybe I'll just speak very broadly, like: \"I was born in the dwarven stronghold in an— in the north. I've been making my way through the world, and suddenly found myself here, and I'm—I'm trying to get back.\"",
+        "",
+        "%% u1045:0-7, u1046:0-8 %%",
+        "DM: That is a story.",
+        "",
+        "%% u1047:0-21 %%",
+        "Seeker: If you're interested—",
+        "",
+        "%% u1048:0-10, u1049:0-47, u1050:0-8, u1051:0-6 %%",
+        "DM: Why do you come to my court and not partake of our food or drink or games?",
+        "",
+        "%% u1052:0-32, u1053:0-66 %%",
+        "Seeker: Well, I am just passing through. There's a particular place in Taelgar that I'd like to return to.",
+        "",
+        "%% u1053:66-110 %%",
+        "DM: Well, I will decide. Should you pass or not?",
+        "",
+        "%% u1054:0-69, u1055:0-7 %%",
+        "Seeker: [garbled] Who gives you—who grants you that power, Prince?",
+        "",
+        "%% u1056:0-3, u1057:0-21, u1058:0-11, u1059:0-46, u1060:0-4, u1061:0-10, u1062:0-27, u1063:0-24, u1064:0-48, u1065:0-93, u1066:0-15 %%",
+        "DM: He— He lifts his hand up, and he like makes a gesture that sort of pulls down, and, um, that air in the gazebo starts to get thick, and it feels like you're—it like starts to feel hard to breathe, and then it almost—it feels like you're trying to breathe underwater. You're like holding your breath, and he lets go.",
+        "",
+        "%% u1067:0-15, u1068:0-16, u1069:0-35, u1070:0-10, u1071:0-19 %%",
+        "DM: \"This is my air. This is my land. This is my light. This is my music. You use it or not as I choose.\"",
+        "",
+        "%% u1072:0-6, u1073:0-45 %%",
+        "Seeker: I see. And what might I offer you to win your favor?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Does that apply? One creature would be—",
+          "DM: That could be you.",
+          "Seeker: The— but I don't know what level the spell is at. It's an— that's a strategy thing I haven't really grappled with before, because I can cast it at like third or if— or even fifth level. I'm not sure I understand that. Uh, it just—",
+          "DM: Affects whether or not you have to roll based on that. Yes, so you always get a chance to dispel something, but if you cast it, if you is like—if the spell is—if the effect is at a level equal to or lower than the level you cast Dispel Magic, you don't need to—",
+          "Seeker: I see. Well, I'll try it at a third level."
+        ],
+        "after": [
+          "DM: Well, now, why don't we roll for it?",
+          "Seeker: Roll for it? Oh, I love to roll the dice. And if I roll my own, I mean, stone dice?",
+          "DM: We will each roll our own.",
+          "Seeker: Yeah, um. So I have two d6, um. I can make them roll thirteen, using like Mold Earth or Minor Illusion or something like that. Maybe I'll use some.",
+          "DM: Wait, aren't these—that are you doing you, I mean, the dice you have are the Charlatan's Die, aren't they? You can control—you can decide whatever they—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "A dice contest and the Prince’s blessing",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1074",
+        "endUid": "u1133"
+      },
+      "lines": [
+        "%% u1074:0-10, u1075:0-24 %%",
+        "DM: Well, now, why don't we roll for it?",
+        "",
+        "%% u1076:0-41, u1077:0-20, u1078:0-6, u1079:0-11 %%",
+        "Seeker: Roll for it? Oh, I love to roll the dice. And if I roll my own, I mean, stone dice?",
+        "",
+        "%% u1080:0-26 %%",
+        "DM: We will each roll our own.",
+        "",
+        "%% u1081:0-9, u1082:0-16, u1083:0-3, u1084:0-30, u1085:0-85, u1085:85-136, u1086:0-102, u1087:0-67, u1088:0-20, u1089:0-18, u1090:0-81, u1091:0-5 %%",
+        "((Discussion of the charlatan dice and possible cheating))",
+        "",
+        "%% u1092:0-62 %%",
+        "Seeker: I'll use my Charlatan's dice and Mold Earth to roll a thirteen.",
+        "",
+        "%% u1093:0-31, u1094:0-37, u1095:0-13 %%",
+        "DM: He rolls a twelve, and he like flicks the little piece of dirt away. \"No thirteen.\"",
+        "",
+        "%% u1096:0-28 %%",
+        "Seeker: I rolled it fair and square.",
+        "",
+        "%% u1097:0-13, u1098:0-11, u1099:0-18 %%",
+        "DM: Try it again. \"No cheating.\" Picks up his dice.",
+        "",
+        "%% u1100:0-5, u1101:0-39 %%",
+        "((Unfinished aside about the dice))",
+        "",
+        "%% u1102:0-24 %%",
+        "DM: He rolls another twelve.",
+        "",
+        "%% u1103:0-31 %%",
+        "Seeker: I guess I'll also roll a twelve.",
+        "",
+        "%% u1104:0-16, u1105:0-20, u1106:0-12, u1107:0-5, u1108:0-24, u1109:0-11, u1110:0-2, u1111:0-15 %%",
+        "DM: He looks at you. He looks at the dice. \"Fascinating. Well, I am not sure whether to reward your— or— I think I will.\"",
+        "",
+        "%% u1112:0-34 %%",
+        "Seeker: You gotta take a chance on people.",
+        "",
+        "%% u1113:0-11, u1114:0-4, u1115:0-16 %%",
+        "DM: Be my guest. Sit. Let me see those.",
+        "",
+        "%% u1116:0-15, u1117:0-8 %%",
+        "Seeker: I—I hand him my precious—",
+        "",
+        "%% u1118:0-11, u1119:0-13, u1120:0-20, u1121:0-13, u1122:0-16 %%",
+        "DM: \"All of them.\" \"Crudely made.\" He blows on each one. \"That's better.\" Hands them back.",
+        "",
+        "%% u1123:0-27 %%",
+        "Seeker: What have you done to them?",
+        "",
+        "%% u1124:0-16, u1125:0-11, u1126:0-79 %%",
+        "DM: They'll work now. So you can— you could use them to now re-roll any dice in or out of game once for each one.",
+        "",
+        "%% u1127:0-38, u1128:0-87, u1129:0-5, u1130:0-61, u1131:0-29 %%",
+        "Seeker: Oh, like one time, and then after that it's still the Charlatan's Die, but it doesn't have the extra blessing? ((Table aside about in-game and out-of-game dice))",
+        "",
+        "%% u1132:0-3, u1133:0-46 %%",
+        "Seeker: Ah, that could come in handy. I thank you for that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Well, I will decide. Should you pass or not?",
+          "Seeker: [garbled] Who gives you—who grants you that power, Prince?",
+          "DM: He— He lifts his hand up, and he like makes a gesture that sort of pulls down, and, um, that air in the gazebo starts to get thick, and it feels like you're—it like starts to feel hard to breathe, and then it almost—it feels like you're trying to breathe underwater. You're like holding your breath, and he lets go.",
+          "DM: \"This is my air. This is my land. This is my light. This is my music. You use it or not as I choose.\"",
+          "Seeker: I see. And what might I offer you to win your favor?"
+        ],
+        "after": [
+          "DM: He looks over you now, and he says: \"He— perhaps you would be the one who would be appropriate for a task at hand. You clearly know magic. You are skilled in the arcane arts. You are daring, and perhaps curious to a fault.\"",
+          "Seeker: I think that although all those things are true of me.",
+          "DM: What do you know of wild magic?",
+          "Seeker: Wild magic? So, actually, that's interesting, in game. Do I know anything about that?",
+          "DM: There's—there's definitely—so you—you've read about places on Taelgar that where, um, magic is sort of unmoored, and it's—it's—it's—it's almost like ley lines sort of gone to chaos. If you cast a spell, it'll—it'll usually do what you intended, but then other things will happen, like you might—you might cast a spell, and then, ah, in our— do whatever you are hoping to do, and then also turn your staff into a slug, or, you know, shoot a lightning bolt out of your hand, like completely. You've also heard rumors of people who are sorcerers, people who are born, uh, with some uncontrolled connection to magic, who can— who can channel this wild magic, um, and—and everything that you've read about it is very much like, it's chaotic and uncontrolled, and, um, something to do—you don't quite know the metaphysics, but something to do with, ah, normally you think of magic as sort of running in neat channels through the world, but when it overflows those channels it— you get this sort of wild magic."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The wild-magic task and safe hospitality",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1134",
+        "endUid": "u1243"
+      },
+      "lines": [
+        "%% u1134:0-34, u1135:0-3, u1136:0-7, u1137:0-20, u1138:0-44, u1139:0-23, u1140:0-35, u1141:0-7, u1142:0-7, u1143:0-11, u1144:0-19 %%",
+        "DM: He looks over you now, and he says: \"He— perhaps you would be the one who would be appropriate for a task at hand. You clearly know magic. You are skilled in the arcane arts. You are daring, and perhaps curious to a fault.\"",
+        "",
+        "%% u1145:0-54 %%",
+        "Seeker: I think that although all those things are true of me.",
+        "",
+        "%% u1146:0-31 %%",
+        "DM: What do you know of wild magic?",
+        "",
+        "%% u1147:0-11, u1148:0-2, u1149:0-68 %%",
+        "Seeker: Wild magic? So, actually, that's interesting, in game. Do I know anything about that?",
+        "",
+        "%% u1150:0-81, u1151:0-2, u1152:0-30, u1153:0-49, u1154:0-160, u1155:0-3, u1156:0-6, u1157:0-47, u1158:0-22, u1159:0-103, u1160:0-44, u1161:0-55, u1162:0-34, u1163:0-63, u1164:0-34, u1165:0-2, u1166:0-79, u1167:0-3, u1168:0-82, u1169:0-39, u1170:0-32 %%",
+        "DM: There's—there's definitely—so you—you've read about places on Taelgar that where, um, magic is sort of unmoored, and it's—it's—it's—it's almost like ley lines sort of gone to chaos. If you cast a spell, it'll—it'll usually do what you intended, but then other things will happen, like you might—you might cast a spell, and then, ah, in our— do whatever you are hoping to do, and then also turn your staff into a slug, or, you know, shoot a lightning bolt out of your hand, like completely. You've also heard rumors of people who are sorcerers, people who are born, uh, with some uncontrolled connection to magic, who can— who can channel this wild magic, um, and—and everything that you've read about it is very much like, it's chaotic and uncontrolled, and, um, something to do—you don't quite know the metaphysics, but something to do with, ah, normally you think of magic as sort of running in neat channels through the world, but when it overflows those channels it— you get this sort of wild magic.",
+        "",
+        "%% u1171:0-51, u1172:0-12, u1173:0-74, u1173:74-130, u1174:0-99, u1174:99-180, u1175:0-34, u1176:0-3, u1177:0-5 %%",
+        "((Clarifications about prior magical experience and the scholar))",
+        "",
+        "%% u1178:0-16, u1179:0-41, u1180:0-22 %%",
+        "Seeker: Ah, so I can say: \"Familiar with the lore on this topic, but as a practical matter—\"",
+        "",
+        "%% u1181:0-47 %%",
+        "DM: How would you like to gain practical experience?",
+        "",
+        "%% u1182:0-85, u1183:0-49 %%",
+        "Seeker: Thus far in my life I've preferred my magical effects neat, tidy and predictable, but there's something appealing about a wilder power.",
+        "",
+        "%% u1184:0-11, u1185:0-16 %%",
+        "DM: I find that hard to believe.",
+        "",
+        "%% u1186:0-13, u1187:0-33, u1188:0-17 %%",
+        "Seeker: Sometimes I'm tempted to sow chaos in the world this way or that.",
+        "",
+        "%% u1189:0-25, u1190:0-4, u1191:0-21, u1192:0-43, u1193:0-10, u1194:0-53 %%",
+        "DM: He gives you a long look. \"Wow. That mountain yonder,\" looking, pointing towards the Gem Mountain, \"there is a wild magic storm that has been growing from its base.\"",
+        "",
+        "%% u1195:0-8 %%",
+        "((Unfinished interjection))",
+        "",
+        "%% u1196:0-5, u1197:0-19, u1198:0-26, u1199:0-25, u1200:0-8, u1201:0-19, u1202:0-35, u1203:0-21 %%",
+        "DM: \"It is unpleasant to be in.\" Sort of waves his fingers. \"It would please me to see somebody—\" Looking at you. \"You— find out what's causing it to grow. Stop it if you can.\"",
+        "",
+        "%% u1203:21-53 %%",
+        "Seeker: A storm of wild magic, you said?",
+        "",
+        "%% u1204:0-10, u1205:0-34 %%",
+        "DM: And I will— I give you guides out of my realm.",
+        "",
+        "%% u1206:0-3, u1207:0-18, u1208:0-50 %%",
+        "Seeker: And— a worthy exchange, a way I might learn something of this wild magic.",
+        "",
+        "%% u1209:0-108, u1210:0-16 %%",
+        "DM: I think there is much you might learn, and you will not be going alone. There are others in my court who are soon to set out.",
+        "",
+        "%% u1211:0-8 %%",
+        "((Interjection))",
+        "",
+        "%% u1212:0-3, u1213:0-19 %%",
+        "Seeker: Uh, I accept this task.",
+        "",
+        "%% u1214:0-22, u1215:0-21, u1216:0-13, u1217:0-9, u1218:0-11, u1219:0-24, u1220:0-7, u1221:0-78, u1222:0-7, u1223:0-29 %%",
+        "DM: He holds out his hand, bows to you slightly: \"It is sealed. Now come, eat, drink, enjoy. You need not fear. We are— we have a promise. I will guide you out of this land, should you do this task. You may safely enjoy the festivities.\"",
+        "",
+        "%% u1224:0-2, u1225:0-7, u1226:0-11 %%",
+        "((Unfinished interjections))",
+        "",
+        "%% u1227:0-6, u1228:0-23 %%",
+        "Seeker: I will take a sip of the beer.",
+        "",
+        "%% u1229:0-71, u1230:0-36, u1231:0-39, u1232:0-147 %%",
+        "DM: It tastes great, and you get it—you have—you have the feeling that, um, this is the sort of thing where, uh, you know, if he—if he hadn't agreed to let you go, the more you eat, the more you drink, the harder it would be to leave. It's like a casino, right? It's like the exits are hard to find.",
+        "",
+        "%% u1233:0-3, u1234:0-13, u1235:0-39, u1236:0-23, u1237:0-2, u1238:0-172, u1239:0-42, u1240:0-90, u1241:0-25, u1242:0-37 %%",
+        "DM: Um, but as you've— his promise to guide you from his realm, that is binding, and so be— so, it just tastes good. It doesn't seem to have any effect. I mean, you—you can feel the pull, like as you start to drink the beer, it tastes good, and you can also feel it sort of pulling you into the games and the and the magic of the place, but you can also feel yourself observing it from like outside, like you're sort of aware the effect that it's trying to create.",
+        "",
+        "%% u1243:0-15 %%",
+        "Seeker: A subtle magic.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: \"All of them.\" \"Crudely made.\" He blows on each one. \"That's better.\" Hands them back.",
+          "Seeker: What have you done to them?",
+          "DM: They'll work now. So you can— you could use them to now re-roll any dice in or out of game once for each one.",
+          "Seeker: Oh, like one time, and then after that it's still the Charlatan's Die, but it doesn't have the extra blessing? I—I love the, um, truly two-dimensional—that—that can be in game or out of game dice. It's frame breaking, anyway.",
+          "Seeker: Ah, that could come in handy. I thank you for that."
+        ],
+        "after": [
+          "DM: So— I mean, this is, I think, a good place to stop. Seeker can like hang out as long as he wants, but, um, on the actual adventure, we'll pick up with a little bit more in the Prince of Luck, and then you'll meet the other people of his court who are going to go with you.",
+          "Seeker: That was, um, that was nice. It was colorful."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
