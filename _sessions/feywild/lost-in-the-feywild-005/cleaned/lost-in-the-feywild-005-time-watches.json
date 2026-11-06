@@ -1,0 +1,48 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-session.yaml",
+  "source": {
+    "path": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-time-markers.json",
+    "sha256": "723f8ee101533865f0d2d58668bf2fc5503b4429adab13cace35ff52c9f9be12"
+  },
+  "transcript": {
+    "path": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-transcript.md",
+    "sha256": "3ab7ae119501a105d232fe7b272040ef75148ee367fb05e1952b4fff09d8007e"
+  },
+  "dateAssessment": "The working date is October 6, 1740, supplied by the session YAML. The transcript continues from the fungal greenhouse to the room-26 library without a stated civil date, usable adventure clock, rest, or measured elapsed interval. Session 4 closes in the same greenhouse (u2090–u2114), and this session resumes there (u0043–u0062); neither handoff supplies a closing/opening watch to carry forward. The two markers below record the retrospective parlor search and return to the lecture hall, not a measured advance. The remembered sleep and seven-century displacement add no new session time. The changing clock numbers describe the prison’s location/year; sunset is discussed as an exit location. Neither supplies a civil watch or day transition. The transcript-only YAML assessment is compatible, not independently matched.",
+  "watches": [
+    {
+      "day": "October 6, 1740",
+      "startDate": "1740-10-06",
+      "endDate": "1740-10-06",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Tarek · earlier parlor action",
+      "summary": "The table resolves the earlier parlor search retrospectively; no clock or elapsed duration is stated.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "October 6, 1740",
+      "startDate": "1740-10-06",
+      "endDate": "1740-10-06",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Party · resumed lecture-hall frame",
+      "summary": "Narration resumes in the lecture hall with Tarek still reading; no watch is established.",
+      "markers": [
+        "t02"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 4 greenhouse handoff, u2090–u2114",
+      "path": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-transcript.md",
+      "sha256": "716cf624638fd3c88142cb6548ec5acdc5ec0792508b81a7cd4bbdfc042d263a"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-005",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-session.yaml",
+    "sessionYamlSha256": "8da9a487bc8214a45f94f276d6e119c8e4bdef61ebc6ea7b290469febc21cebf",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-transcript.md",
+    "transcriptSha256": "3ab7ae119501a105d232fe7b272040ef75148ee367fb05e1952b4fff09d8007e",
+    "yamlDates": {
+      "start": "1740-10-06",
+      "end": "1740-10-06"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0479",
+        "endUid": "u0485"
+      },
+      "reading": "The table resolves Tarek's earlier search of the parlor after the party has already entered the lecture hall.",
+      "context": "flashback",
+      "actors": [
+        "Tarek"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0482",
+          "endUid": "u0485",
+          "quote": "We did, but actually, I'm happy to do that real quick. Roll Investigation."
+        },
+        {
+          "startUid": "u0487",
+          "endUid": "u0501",
+          "quote": "you find a book called The Shape of Discovery."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0503",
+        "endUid": "u0503"
+      },
+      "reading": "Narration returns to the lecture hall, where Tarek is still flipping through the book found in the parlor.",
+      "actors": [
+        "party"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0503",
+          "endUid": "u0503",
+          "quote": "We'll say you're still flipping through that as you're standing in the lecture hall."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "October 6, 1740 is supplied only by the session YAML. No current civil date or usable adventure clock is spoken.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02"
+    ],
+    "explanation": "The source continues exploration from the fungal greenhouse through the room-26 library, with one retrospectively resolved parlor search and return. No rest or narrated measurable duration occurs; the remembered sleep and seven-century displacement are prior events. The prison clocks describe changing prison coordinates/year, not a measured advance of party time. No calendar transition is established, so the one-date YAML span is compatible without independent confirmation."
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-005",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-session.yaml",
+    "sessionYamlSha256": "8da9a487bc8214a45f94f276d6e119c8e4bdef61ebc6ea7b290469febc21cebf",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-transcript.md",
+    "transcriptSha256": "3ab7ae119501a105d232fe7b272040ef75148ee367fb05e1952b4fff09d8007e",
+    "segments": {
+      "path": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-segments.json",
+      "sha256": "e8a4ee8c86d86726de096685280ee8c67c743d00cf25fe566012b13273aabbde",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Mushroom men in the animal experimentation lab",
+      "openingActions": [
+        {
+          "actor": "Alden-like captor",
+          "kind": "event",
+          "summary": "A hand reaches from a cross aisle and drags Menestheus out of sight, prompting initiative.",
+          "evidence": [
+            {
+              "startUid": "u1066",
+              "endUid": "u1069"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Edric",
+              "kind": "turn",
+              "summary": "Invokes the Night Queen, rages, and climbs onto a table to strike the Alden-like captor with his two-handed maul. Heroic Inspiration rerolls the attack into a 19 hit for a corrected 13 damage. The captor succeeds exactly at DC 13 on its Constitution save, stays upright, and keeps Menestheus restrained in its elongated fingers.",
+              "evidence": [
+                {
+                  "startUid": "u1258",
+                  "endUid": "u1334"
+                }
+              ]
+            },
+            {
+              "actor": "Kaito Min",
+              "kind": "turn",
+              "summary": "Casts first-level Dissonant Whispers on the captor. It fails its Wisdom save, taking 6 psychic damage and being forced to spend its reaction fleeing.",
+              "evidence": [
+                {
+                  "startUid": "u1342",
+                  "endUid": "u1359"
+                }
+              ]
+            },
+            {
+              "actor": "Edric",
+              "kind": "reaction",
+              "summary": "Hits the fleeing captor with an opportunity attack for 8 damage including rage. It succeeds on another Constitution save against being knocked prone; the attack resolves before it continues moving.",
+              "evidence": [
+                {
+                  "startUid": "u1357",
+                  "endUid": "u1375"
+                }
+              ]
+            },
+            {
+              "actor": "Alden-like captor",
+              "kind": "reaction",
+              "summary": "Flees around a corner and out of sight, dragging the still-restrained Menestheus with it. The table accepts roughly 15 feet of movement at half speed for dragging.",
+              "evidence": [
+                {
+                  "startUid": "u1376",
+                  "endUid": "u1389"
+                }
+              ]
+            },
+            {
+              "actor": "Mushroom man initially lying as a corpse",
+              "kind": "event",
+              "summary": "Opens its eyes and sits up as Tarek rounds the corner, causing him to change his intended target from Menestheus’s captor.",
+              "evidence": [
+                {
+                  "startUid": "u1413",
+                  "endUid": "u1422"
+                }
+              ]
+            },
+            {
+              "actor": "Tarek",
+              "kind": "turn",
+              "summary": "Moves toward the enemies, then attacks the newly awakened corpse instead of cutting Menestheus free. With advantage against the prone target, his shortsword misses and breaks glass bottles; his dagger hits without a critical for 15 damage including Sneak Attack. The proposed third attack is disallowed. He uses Cunning Action to disengage and retreat.",
+              "evidence": [
+                {
+                  "startUid": "u1392",
+                  "endUid": "u1483"
+                }
+              ]
+            },
+            {
+              "actor": "Ayveen",
+              "kind": "turn",
+              "summary": "Moves to see the enemies and targets Menestheus’s captor with Sacred Flame, correcting the initial corpse target. Its Dexterity save of 11 fails against DC 13 for 2 radiant damage, explicitly not fire. Gives Txarro a d6 Bardic Inspiration and becomes invisible.",
+              "evidence": [
+                {
+                  "startUid": "u1484",
+                  "endUid": "u1517"
+                }
+              ]
+            },
+            {
+              "actor": "Mushroom man initially lying as a corpse",
+              "kind": "turn",
+              "summary": "Stands and reaches both hands toward Tarek. Two initial attack rolls of 23 are corrected by Silvery Barbs: one hand still hits for 7 damage, the other misses on its reroll of 9. Tarek receives a Dexterity save against the remaining grapple attempt and is subsequently treated as not grappled; no save total is spoken. With the captor holding Menestheus toward it, its chest mouths chew him, leaving him screaming and bleeding.",
+              "evidence": [
+                {
+                  "startUid": "u1518",
+                  "endUid": "u1568"
+                },
+                {
+                  "startUid": "u1574",
+                  "endUid": "u1597"
+                }
+              ],
+              "note": "The initial 14 damage and automatic grapple were superseded by the reaction below; the separate biting-actor discrepancy is retained on the captor’s turn."
+            },
+            {
+              "actor": "Ayveen",
+              "kind": "reaction",
+              "summary": "Casts Silvery Barbs on the corpse’s second successful hand attack, forcing the reroll to 9. This reduces Tarek’s damage to 7 and allows the Dexterity save instead of an automatic grapple. Her invisibility ends. Txarro gains advantage on his next attack roll, ability check, or saving throw.",
+              "evidence": [
+                {
+                  "startUid": "u1569",
+                  "endUid": "u1597"
+                }
+              ]
+            },
+            {
+              "actor": "Txarro",
+              "kind": "turn",
+              "summary": "Runs forward and Wild Shapes into a tiger, glowing with moon energy. Attacks the corpse with the advantage granted by Ayveen; 13 initially misses, but spending the d6 Bardic Inspiration raises the total to 16 and hits for 10 slashing damage, knocking it prone.",
+              "evidence": [
+                {
+                  "startUid": "u1598",
+                  "endUid": "u1634"
+                }
+              ]
+            },
+            {
+              "actor": "Alden-like captor",
+              "kind": "turn",
+              "summary": "Keeps Menestheus in one hand and reaches its other hand toward tiger Txarro: a 16 hits for 7 damage, but Txarro’s Dexterity save of 21 avoids the grapple. Narration then describes this creature pulling Menestheus against its six or seven chest mouths and chewing him.",
+              "evidence": [
+                {
+                  "startUid": "u1635",
+                  "endUid": "u1647"
+                },
+                {
+                  "startUid": "u1651",
+                  "endUid": "u1655"
+                }
+              ],
+              "note": "The later answer at u1654–u1655 instead says the creature on Menestheus’s left holds him and the one on his right had chewed him before being knocked prone. The source does not explicitly reconcile that answer with this second biting narration."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Edric",
+              "kind": "turn",
+              "summary": "Charges the prone corpse and attacks with advantage, without a critical, for 13 damage. Both creatures are bloodied; Menestheus remains conscious despite his severe injuries.",
+              "evidence": [
+                {
+                  "startUid": "u1656",
+                  "endUid": "u1685"
+                }
+              ]
+            },
+            {
+              "actor": "Kaito Min",
+              "kind": "turn",
+              "summary": "Casts Dissonant Whispers again, with the target settled as the prone corpse. Its Wisdom save of 9 fails; it takes 10 psychic damage and is forced to use its reaction to crawl away.",
+              "evidence": [
+                {
+                  "startUid": "u1686",
+                  "endUid": "u1724"
+                }
+              ]
+            },
+            {
+              "actor": "Mushroom man initially lying as a corpse",
+              "kind": "reaction",
+              "summary": "Starts crawling away under Dissonant Whispers, with chunks falling from its body; this movement provokes Edric’s and Txarro’s opportunity attacks before it can escape.",
+              "evidence": [
+                {
+                  "startUid": "u1715",
+                  "endUid": "u1730"
+                }
+              ]
+            },
+            {
+              "actor": "Edric",
+              "kind": "reaction",
+              "summary": "Hits the crawling corpse with an opportunity attack for 8 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1723",
+                  "endUid": "u1727"
+                }
+              ]
+            },
+            {
+              "actor": "Txarro",
+              "kind": "reaction",
+              "summary": "Hits the same fleeing corpse for 11 damage with an opportunity attack. The combined attacks kill it. Its body remains in a damaged human shape with chunks falling off, correcting the initial description of it collapsing into mush.",
+              "evidence": [
+                {
+                  "startUid": "u1726",
+                  "endUid": "u1740"
+                }
+              ]
+            },
+            {
+              "actor": "Tarek",
+              "kind": "turn",
+              "summary": "Leaps across the table to attack the surviving captor. His shortsword hits on 16 for 4 ordinary damage; the table rules that noncombatant Menestheus does not qualify him for Sneak Attack. The shortsword grants advantage for his dagger, which hits on 19 for 12 damage including Sneak Attack. Cunning Action lets him disengage and jump back.",
+              "evidence": [
+                {
+                  "startUid": "u1743",
+                  "endUid": "u1786"
+                }
+              ]
+            },
+            {
+              "actor": "Ayveen",
+              "kind": "turn",
+              "summary": "Goes around the table to see the surviving captor and casts Guiding Bolt. The corrected attack total of 13 just misses.",
+              "evidence": [
+                {
+                  "startUid": "u1787",
+                  "endUid": "u1815"
+                }
+              ]
+            },
+            {
+              "actor": "Alden-like captor",
+              "kind": "turn",
+              "summary": "Pulls Menestheus closer and partly inside its body. He stops moving or breathing. It uses its second hand to inflict further damage and stuff him farther inside. The DM clarifies that he has zero hit points and one failed death save, rather than being definitively dead.",
+              "evidence": [
+                {
+                  "startUid": "u1816",
+                  "endUid": "u1845"
+                }
+              ]
+            },
+            {
+              "actor": "Txarro",
+              "kind": "turn",
+              "summary": "Runs to Menestheus and casts Cure Wounds, restoring 10 hit points. Menestheus breathes, wakes and resumes screaming and struggling. Txarro also moves into a position beside the surviving enemy so Tarek could have an ally in range; the movement is added during Edric’s ensuing setup.",
+              "evidence": [
+                {
+                  "startUid": "u1846",
+                  "endUid": "u1859"
+                },
+                {
+                  "startUid": "u1871",
+                  "endUid": "u1876"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Edric",
+              "kind": "turn",
+              "summary": "Lets down his guard with Reckless Attack, steps past the still-present corpse and attacks the surviving captor with advantage. A 15 hits for 16 total damage, destroying its head against the wall and killing it. Seeds puff from its neck; Edric turns away, holds his breath and backs off.",
+              "evidence": [
+                {
+                  "startUid": "u1860",
+                  "endUid": "u1870"
+                },
+                {
+                  "startUid": "u1877",
+                  "endUid": "u1899"
+                }
+              ]
+            },
+            {
+              "actor": "Spore release",
+              "kind": "event",
+              "summary": "Only the adjacent Edric and tiger Txarro are asked for Constitution saves; Ayveen is excluded. Edric rolls 23. Txarro rolls 8 and spends Prophetic Vision to add 1, which he says changes nothing. The DM first suggests Txarro inhaled the seeds, then says that is probably not true; no definitive infection result is given.",
+              "evidence": [
+                {
+                  "startUid": "u1900",
+                  "endUid": "u1951"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both mushroom men are destroyed. Menestheus survives after being brought from zero hit points by Cure Wounds, but remains badly injured at combat’s end. Immediate spore saves are resolved, while Txarro’s inhalation/infection remains unsettled.",
+        "evidence": [
+          {
+            "startUid": "u1731",
+            "endUid": "u1740"
+          },
+          {
+            "startUid": "u1850",
+            "endUid": "u1853"
+          },
+          {
+            "startUid": "u1889",
+            "endUid": "u1951"
+          }
+        ]
+      },
+      "note": "The captor and the corpse are distinct enemies. After the corpse dies, the table is unsure of the surviving enemy’s initiative slot and lets it act before Txarro; the recorded actions retain that played order. Menestheus is explicitly treated as a noncombatant, without inferred missing turns."
+    }
+  ]
+}
