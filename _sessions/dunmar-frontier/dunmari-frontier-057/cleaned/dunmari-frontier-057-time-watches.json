@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-time-markers.json",
+    "sha256": "0709b235d6ca17f40bc45f98729c35e6fba07e7d5447f64667c15e047e3f51f0"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-transcript.md",
+    "sha256": "4590074497841d38f8a330d4be1862126c3ca33c8c77cf37a49ce31294817169"
+  },
+  "dateAssessment": "Working campaign dates use YAML (September 30–November 2, DR 1748). The dated Session 57 (DuFr) timeline places training on October 1–25 and the sacred-water journey on October 26; those dates, used below, are supplementary calendar assignments, not independently spoken dates. The transcript-only YAML assessment remains compatible: one overnight and an approximate three-and-a-half-week montage do not establish the exact November 2 closing boundary. Its proposed final week is still future play. The arrival watch below follows t01's predawn/sunrise reading; the dated record's afternoon label remains a flagged discrepancy. Subjective spirit-realm days do not advance the adventure calendar.",
+  "watches": [
+    {
+      "day": "September 30, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Kenzo lands at sunrise; two minutes pass checking wounds.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-09-30",
+      "endDate": "1748-09-30"
+    },
+    {
+      "day": "September 30, 1748",
+      "startWatch": "dawn",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Hour-long river walk after the dawn arrival; watch estimated across dawn/morning.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-09-30",
+      "endDate": "1748-09-30"
+    },
+    {
+      "day": "September 30, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Whole-day walk ends at evening; first-night feast and evening conversation follow.",
+      "markers": [
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-09-30",
+      "endDate": "1748-09-30",
+      "sourceRanges": [
+        [
+          "u1032",
+          "u1039"
+        ]
+      ]
+    },
+    {
+      "day": "October 1, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The village council meets the morning after Kenzo's first night.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1748-10-01",
+      "endDate": "1748-10-01"
+    },
+    {
+      "day": "October 1–25, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "About three and a half weeks of language and village-life training; no watch is established.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-10-01",
+      "endDate": "1748-10-25"
+    },
+    {
+      "day": "October 26, 1748",
+      "startWatch": "midnight",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Elazar wakes Kenzo just past midnight; a few hours' walk ends before dawn.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-10-26",
+      "endDate": "1748-10-26"
+    },
+    {
+      "day": "Subjective spirit journey",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Kenzo experiences days of study inside the journey; this does not add adventure days.",
+      "markers": [
+        "t09"
+      ],
+      "clock": "local",
+      "scope": "Kenzo"
+    },
+    {
+      "day": "October 26, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Kenzo awakens at sunrise after three or four hours at most outside the journey.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-10-26",
+      "endDate": "1748-10-26"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated session record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 57 (DuFr).md",
+      "sha256": "e3ecf08d968da56f949793812fa5e57cef75f4aedc473b0dc1e1dd784288ebe6"
+    }
+  ]
+}
