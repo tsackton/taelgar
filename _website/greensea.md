@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 campaigns: [feywild, dufr, chasm, mawar]
 subdomain: greensea
 date: 1752-05-10
@@ -88,6 +88,11 @@ The farms of [[Republic of Svolhas|Svolhas]] lie between the sea and the steep v
 
 #### The Reaver Coast (8)
 
+From sheltered harbors along the [[Reaver Coast]], hobgoblin pirate clans raid merchant ships crossing the [[Green Sea]].
+
+> [!image|hero]
+> ![[reaver-coast-raiding-galley.webp]]
+> *As the rowers pull the galley around the headland, a fire mage at the bow watches a merchant sail on the horizon.*
 
 #### The Shoals of Irrla (9)
 
