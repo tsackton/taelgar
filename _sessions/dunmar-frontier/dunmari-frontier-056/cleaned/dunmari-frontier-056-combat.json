@@ -1,0 +1,355 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-056",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-session.yaml",
+    "sessionYamlSha256": "222d8d0ba2f07d3b4bf608ac1a7010162fe8bb189f49a5dc30a45f4b708be719",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-transcript.md",
+    "transcriptSha256": "4a5347c0600dc38b264c1617fde51c8004b9a27dd58e2d6de02c720aa966fa42",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-segments.json",
+      "sha256": "055507ed41a01b0d2b005cac7402ee555fffbdd6dbf8e03c6c8dd6d8550123af",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Six shriveled dwarves at the blocked clifftop cave",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Three bow-wielding dwarves",
+              "kind": "turn",
+              "summary": "Advance and fire six arrows at Riswynn. Five miss or clang off her armor; one hits for 6 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1672",
+                  "endUid": "u1693"
+                }
+              ]
+            },
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Climbs up behind Riswynn and casts Fire Bolt at the nearest enemy; an 11 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1694",
+                  "endUid": "u1706"
+                }
+              ]
+            },
+            {
+              "actor": "Fourth bow-wielding dwarf",
+              "kind": "turn",
+              "summary": "Continues pawing at the cave-in instead of attacking.",
+              "evidence": [
+                {
+                  "startUid": "u1707",
+                  "endUid": "u1708"
+                }
+              ]
+            },
+            {
+              "actor": "Merash",
+              "kind": "turn",
+              "summary": "Climbs onto the shelf and throws two handaxes at the closest enemy at long range with disadvantage. Both hit (15 and 19; the second is explicitly not a critical hit); the second deals another 8 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1711",
+                  "endUid": "u1742"
+                }
+              ],
+              "note": "The first hit’s damage is not independently stated; no combined total is reconstructed."
+            },
+            {
+              "actor": "Darkness spellcaster",
+              "kind": "turn",
+              "summary": "Creates a twenty-foot-radius sphere of pitch blackness around the party, with bitter cold and howling wind; those inside cannot see.",
+              "evidence": [
+                {
+                  "startUid": "u1743",
+                  "endUid": "u1769"
+                }
+              ]
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "turn",
+              "summary": "Takes 8 cold damage at the start of his turn. Flies thirty feet upward out of the black sphere, then moves forward and descends to ten feet above the ground behind rocks, gaining half cover from appropriate angles.",
+              "evidence": [
+                {
+                  "startUid": "u1765",
+                  "endUid": "u1810"
+                }
+              ],
+              "note": "The final route is resolved, but the discussion does not clearly settle whether the additional movement used an action dash or a ki-powered bonus dash."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Takes 8 cold damage, moves toward the remembered caster position, and casts third-level Dispel Magic. The darkness vanishes in the light of the Bahrazel.",
+              "evidence": [
+                {
+                  "startUid": "u1807",
+                  "endUid": "u1831"
+                }
+              ]
+            },
+            {
+              "actor": "Other shadow spellcaster",
+              "kind": "turn",
+              "summary": "Fires two bolts of dark energy at Riswynn; both miss.",
+              "evidence": [
+                {
+                  "startUid": "u1832",
+                  "endUid": "u1843"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "First archer",
+              "kind": "turn",
+              "summary": "Shoots Rothfis twice: a 16 misses; a 19 hits for a stated 10 damage before his deflection.",
+              "evidence": [
+                {
+                  "startUid": "u1838",
+                  "endUid": "u1847"
+                }
+              ]
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "reaction",
+              "summary": "Uses Deflect Missile as a reaction, reducing the 10-damage arrow by 19 and catching it. Returns it with ki at long range; disadvantage discards the natural 20, and the 13 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1845",
+                  "endUid": "u1859"
+                }
+              ]
+            },
+            {
+              "actor": "Other two archers",
+              "kind": "turn",
+              "summary": "Fire two arrows at Riswynn, both missing, then two at Merash: the 19 hits for 7 damage and the 12 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1860",
+                  "endUid": "u1873"
+                }
+              ]
+            },
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Moves and uses his action for additional movement, then Quickens Lightning Bolt through three enemies. Against Dexterity DC 17, the two farther targets save and take 14 each; the closest fails and dies after the extra 4 lightning damage from Thror’s nearby eruption. Another nearby enemy also takes 4 lightning damage. Uses the granted ten feet of flight to withdraw without opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1878",
+                  "endUid": "u1912"
+                }
+              ]
+            },
+            {
+              "actor": "Fourth archer",
+              "kind": "turn",
+              "summary": "Stops scrabbling at the cave, moves and shoots Thror twice (17 and natural 20), dealing 13 damage total. The natural 20 adds no critical damage under the table’s monster playtest rule.",
+              "evidence": [
+                {
+                  "startUid": "u1913",
+                  "endUid": "u1926"
+                }
+              ]
+            },
+            {
+              "actor": "Merash",
+              "kind": "turn",
+              "summary": "Runs toward Thror and throws the Maul of the Forge. The radius is corrected to include all five surviving enemies; all fail Dexterity DC 15, including the initially misread success, and each takes 20 fire damage. Recovers the maul to her hand with a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u1927",
+                  "endUid": "u1959"
+                }
+              ]
+            },
+            {
+              "actor": "Darkness spellcaster",
+              "kind": "turn",
+              "summary": "Moves and fires two Eldritch Blasts at Merash; a 7 and a natural 1 both miss.",
+              "evidence": [
+                {
+                  "startUid": "u1960",
+                  "endUid": "u1982"
+                }
+              ]
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "turn",
+              "summary": "Flies over and drops ten feet to land without falling prone or taking damage. Hits the left enemy with his disguised shortsword for a rolled 10, with the blade visibly cutting less deeply; switches to magical fists for 10 bludgeoning, then a bonus unarmed strike for 12 more. The enemy falls and its dwarven ghost rises.",
+              "evidence": [
+                {
+                  "startUid": "u1983",
+                  "endUid": "u2037"
+                }
+              ],
+              "note": "The source suggests resistance to the nonmagical sword but does not state the reduced damage; no numeric reduction is supplied."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Advances toward the enemies and casts Guiding Bolt at the indicated target; a natural 1 misses.",
+              "evidence": [
+                {
+                  "startUid": "u2038",
+                  "endUid": "u2051"
+                }
+              ]
+            },
+            {
+              "actor": "Other shadow spellcaster",
+              "kind": "turn",
+              "summary": "Moves around the rock and extends shadowy arms ten feet around itself. Rothfis and Riswynn both succeed on Strength saves but each takes 3 necrotic damage; Rothfis’s proposed Evasion exemption is not applied. Riswynn’s natural 20 grants inspiration, usable for advantage on one roll.",
+              "evidence": [
+                {
+                  "startUid": "u2052",
+                  "endUid": "u2076"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "First remaining wight",
+              "kind": "turn",
+              "summary": "Closes on Rothfis. Its longsword attack (14) misses and is redirected into its companion by his reaction; Life Drain (20) hits for 6 necrotic damage. Rothfis makes a Constitution save and his maximum hit points are reduced by 6, confirming the adverse result.",
+              "evidence": [
+                {
+                  "startUid": "u2077",
+                  "endUid": "u2086"
+                },
+                {
+                  "startUid": "u2087",
+                  "endUid": "u2105"
+                },
+                {
+                  "startUid": "u2382",
+                  "endUid": "u2384"
+                }
+              ]
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "reaction",
+              "summary": "Uses Tipsy Sway as his reaction to the first wight’s missed sword attack, making it hit its adjacent companion automatically. The stated 4 slashing damage is reduced to 2 because the weapon is nonmagical. This occurs at the missed sword swing before Life Drain.",
+              "evidence": [
+                {
+                  "startUid": "u2087",
+                  "endUid": "u2105"
+                }
+              ]
+            },
+            {
+              "actor": "Second remaining wight",
+              "kind": "turn",
+              "summary": "Attacks Rothfis with its longsword and Life Drain; the natural 1 and garbled low Life Drain result both miss.",
+              "evidence": [
+                {
+                  "startUid": "u2096",
+                  "endUid": "u2105"
+                }
+              ],
+              "note": "The polished source renders the Life Drain roll as “a knot”; no exact number is asserted."
+            },
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Moves into the fray and casts Shatter at two enemies without catching allies. Both fail Constitution saves (11 and 5) and take 18 thunder damage; one dies outright, and the second dies after 4 additional lightning damage. The two other nearby survivors each take 4 lightning damage. Uses the granted ten feet of flight without opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2106",
+                  "endUid": "u2125"
+                }
+              ]
+            },
+            {
+              "actor": "Merash",
+              "kind": "turn",
+              "summary": "Moves and dashes into melee range. The proposed extra attack after dashing is denied, so she makes no attack this turn.",
+              "evidence": [
+                {
+                  "startUid": "u2131",
+                  "endUid": "u2148"
+                }
+              ]
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "turn",
+              "summary": "Punches the more wounded right-hand enemy: spends ki to turn a 13 miss into a 15 hit for 9 magical bludgeoning, killing it and releasing its ghost. His second punch at the last enemy misses; a bonus unarmed strike hits with 17 for 12 bludgeoning.",
+              "evidence": [
+                {
+                  "startUid": "u2149",
+                  "endUid": "u2165"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Runs up to the last enemy and swings Shatterstorm; the attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u2166",
+                  "endUid": "u2174"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Runs in and hits the last enemy with Shocking Grasp for 14 damage, killing it. The proposed ten-foot storm flight and extra damage are denied because this is a cantrip; only a three-foot flourish is narrated.",
+              "evidence": [
+                {
+                  "startUid": "u2175",
+                  "endUid": "u2189"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All six attackers are dead after Thror’s final Shocking Grasp. Their dwarven spirits rise; the party survives outside the blocked cave. Rothfis’s maximum hit points remain reduced by 6 until a long rest, as confirmed afterward.",
+        "evidence": [
+          {
+            "startUid": "u2158",
+            "endUid": "u2165"
+          },
+          {
+            "startUid": "u2175",
+            "endUid": "u2189"
+          }
+        ]
+      }
+    }
+  ]
+}
