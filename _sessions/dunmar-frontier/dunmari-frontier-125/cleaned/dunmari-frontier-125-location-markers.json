@@ -1,0 +1,1540 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-125",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-session.yaml",
+    "sessionYamlSha256": "95c09992bffe5103acb5f857413f0375555c4246fc7cc26d73bc134e2cf06129",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-transcript.md",
+    "transcriptSha256": "212ba8ec430f582eba74f9f42a9de279af09f391e838bc39011b1d55e8d90b09"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0008",
+          "quote": "DM: Okay. So we begin on Vindristjarna, some 70 miles off the coast of Chardon, drifting among a fog bank in the Gulf of Chardon, and as we begin we flash back to the people that you freed: Valius, Vargus, Vola, and Hektor, all recently released, or in some fashion or another, from the prison of the Mirror of Soul Trapping, or from the prison of the Crown of Purity, or both."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "Gulf of Chardon",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0008",
+          "quote": "DM: Okay. So we begin on Vindristjarna, some 70 miles off the coast of Chardon, drifting among a fog bank in the Gulf of Chardon, and as we begin we flash back to the people that you freed: Valius, Vargus, Vola, and Hektor, all recently released, or in some fashion or another, from the prison of the Mirror of Soul Trapping, or from the prison of the Crown of Purity, or both."
+        }
+      ],
+      "kind": "gulf",
+      "vaultPath": "Gazetteer/Greater Chardon/Gulf of Chardon.md"
+    },
+    "p03": {
+      "label": "Chardon",
+      "evidence": [
+        {
+          "startUid": "u0288",
+          "endUid": "u0295",
+          "quote": "DM: So as you fly approaching the city, the 1st thing that you notice is the still smoldering smoke coming from the north bank. So you see, you see the like broad sweep of the city. You see the towers, the huge spire of the of the University tower, the Great Library, the domes, hundreds of towers that mark the skyline of the south bank, especially the the sort of Old city, the the academic quarter that's, you know—there's been a university here for almost, you know, 800 years, something like that. And the library has been here over a thousand years. And then the broad spread of the of the city itself. You know, bustling commerce. The huge span of the river bridge. Currently its drawbridge is up. There's a couple of trading ships sailing upriver. Extend—"
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p04": {
+      "label": "North Bank",
+      "evidence": [
+        {
+          "startUid": "u0300",
+          "endUid": "u0304",
+          "quote": "DM: The north bank of the Chasa is dominated by the extinct volcano mountain that throws a spur that runs—the volcano. It's the summit of the volcano itself is like a mile away from the river, or something like that, but it throws a spur that runs down almost to the edge of the river, falling steeply in unnatural obsidian cliffs on the upriver inland side, and gently sloping down to the flat plains on the down river ocean side. But Kenzo would would like sort of be vaguely familiar with this up on the like far side of the Mount Nera spur, there’s like fancy estates. There's like private villas. But you can't really get there from the slums, because there's this obsidian cliffs on the other side. There's also a giant watchtower and a wall that runs along the height of land along this spur. The wall then curves down, following the topography of the slope, and forms a sort of bow that surrounds about 2 thirds of the settled area on the north bank."
+        },
+        {
+          "startUid": "u0305",
+          "endUid": "u0308",
+          "quote": "DM: Downriver from the wall you can see the chalyte refineries, fires, burnings. There's big big cranes like human powered. There's like 16 people that run around a turnstile to lift this crane that then swings over and drops ore from the mill channel, from all these waterways cut that divert water from the Chasa, but at least 2 of these giant cranes have been knocked over and smashed. There's at least one refinery, that roof is caved in completely, and its squat chimney has sort of collapsed down. But also something like a 3rd of the Chalyte Levels inside the wall has been just burned to the ground. Like you see, people kind of scattered around, huddling in ruins, you know, eat, trying to eke out some shelter, still a few fires smoldering in a few places in the city, although it largely seems to have burned itself out."
+        }
+      ],
+      "kind": "urban area",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/North Bank.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0288",
+              "endUid": "u0295",
+              "quote": "DM: So as you fly approaching the city, the 1st thing that you notice is the still smoldering smoke coming from the north bank. So you see, you see the like broad sweep of the city. You see the towers, the huge spire of the of the University tower, the Great Library, the domes, hundreds of towers that mark the skyline of the south bank, especially the the sort of Old city, the the academic quarter that's, you know—there's been a university here for almost, you know, 800 years, something like that. And the library has been here over a thousand years. And then the broad spread of the of the city itself. You know, bustling commerce. The huge span of the river bridge. Currently its drawbridge is up. There's a couple of trading ships sailing upriver. Extend—"
+            },
+            {
+              "startUid": "u0296",
+              "endUid": "u0296",
+              "quote": "Delwath: It's the only crossing across the river?"
+            },
+            {
+              "startUid": "u0297",
+              "endUid": "u0299",
+              "quote": "DM: There's 2 bridges across the river. There's another one further upstream, past the head of navigation called the Chardon Bridge. On the on the—so this broad sweep of the like commercial bustle of the south bank where you you were before. You sort of went through the docks when you came in from the halflings, and you fled out one of the south—the gates on the south wall."
+            },
+            {
+              "startUid": "u0300",
+              "endUid": "u0304",
+              "quote": "DM: The north bank of the Chasa is dominated by the extinct volcano mountain that throws a spur that runs—the volcano. It's the summit of the volcano itself is like a mile away from the river, or something like that, but it throws a spur that runs down almost to the edge of the river, falling steeply in unnatural obsidian cliffs on the upriver inland side, and gently sloping down to the flat plains on the down river ocean side. But Kenzo would would like sort of be vaguely familiar with this up on the like far side of the Mount Nera spur, there’s like fancy estates. There's like private villas. But you can't really get there from the slums, because there's this obsidian cliffs on the other side. There's also a giant watchtower and a wall that runs along the height of land along this spur. The wall then curves down, following the topography of the slope, and forms a sort of bow that surrounds about 2 thirds of the settled area on the north bank."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Chalyte Levels",
+      "evidence": [
+        {
+          "startUid": "u0154",
+          "endUid": "u0154",
+          "quote": "DM: There's on the north side of the city. So most of the population of Chardon lives on the south side. The north side is where all the Chalyte refineries are, and there's like the the like deep slums are called Riverside. They're like next to the refineries, but then there's a wall, and immediately inside the wall there's the Chalyte Levels, which is like—"
+        },
+        {
+          "startUid": "u0155",
+          "endUid": "u0155",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u0156",
+          "endUid": "u0158",
+          "quote": "DM: Slums, but not quite as, you know, contaminated. There's fresh water and stuff. So that's where he lives. There's a market called the Foundry Market. He lives in an apartment right near the Foundry Market with his mom and his sister. And you know, I mean, you have his address, basically so. And Kenzo had obviously been to the like. You know, you've been to the Foundry Market. Kenzo probably grew up in the Chalyte Levels, too. Right? Because this is your childhood friend."
+        }
+      ],
+      "kind": "neighborhood",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chalyte Levels.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0154",
+              "endUid": "u0154",
+              "quote": "DM: There's on the north side of the city. So most of the population of Chardon lives on the south side. The north side is where all the Chalyte refineries are, and there's like the the like deep slums are called Riverside. They're like next to the refineries, but then there's a wall, and immediately inside the wall there's the Chalyte Levels, which is like—"
+            },
+            {
+              "startUid": "u0155",
+              "endUid": "u0155",
+              "quote": "Kenzo: Yeah."
+            },
+            {
+              "startUid": "u0156",
+              "endUid": "u0158",
+              "quote": "DM: Slums, but not quite as, you know, contaminated. There's fresh water and stuff. So that's where he lives. There's a market called the Foundry Market. He lives in an apartment right near the Foundry Market with his mom and his sister. And you know, I mean, you have his address, basically so. And Kenzo had obviously been to the like. You know, you've been to the Foundry Market. Kenzo probably grew up in the Chalyte Levels, too. Right? Because this is your childhood friend."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Foundry Market",
+      "evidence": [
+        {
+          "startUid": "u0314",
+          "endUid": "u0318",
+          "quote": "DM: What you're looking for is the Foundry Market, a rough and tumble daily market in the Chalyte Levels slums on the sort of western edge of the district which hasn't been burned. The fires didn't spread to the very lowlands, the swampier—there's more water from the Chasa, so they were able to prevent them from burning. So you can sort of swoop down, fly around. What are you doing here?"
+        }
+      ],
+      "kind": "market",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Foundry Market.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0314",
+              "endUid": "u0318",
+              "quote": "DM: What you're looking for is the Foundry Market, a rough and tumble daily market in the Chalyte Levels slums on the sort of western edge of the district which hasn't been burned. The fires didn't spread to the very lowlands, the swampier—there's more water from the Chasa, so they were able to prevent them from burning. So you can sort of swoop down, fly around. What are you doing here?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Xavier’s apartment",
+      "evidence": [
+        {
+          "startUid": "u0651",
+          "endUid": "u0656",
+          "quote": "DM: You, you make your way, around the corner through this this alley. Enter the the 1st floor door of this timber frame building and head up the worn stairs to where Kenzo says Xavier lives with his mother and his sister on the 3rd floor. You— there's, there's nothing. You come out on the stairs, and— this is like our high school back of the—"
+        },
+        {
+          "startUid": "u0657",
+          "endUid": "u0658",
+          "quote": "Kenzo: That's what I'm doing. Yes. Just preserving it all for the record, you know."
+        },
+        {
+          "startUid": "u0659",
+          "endUid": "u0659",
+          "quote": "DM: The—"
+        },
+        {
+          "startUid": "u0660",
+          "endUid": "u0669",
+          "quote": "DM: The—I mean, the door is cracked open, and there's not even really room for all of you on the landing anyway, and with the sound of 3 people and a seagull tramping up the stairs, anyway, a somewhat, you know, middle-aged, but looks tired, wearing like repeatedly mended sort of somewhat stained, but well taken care of, tunic and and robes and things, hair going white and sort of pulled, pulled back into a bun, maybe in her mid fifties, woman kind of just stares at you, and you can, as she pulls the door open into this one room apartment with straw pallet, with 2 beds sort of pushed on it, a hearth, you know, a spinning wheel, a small table, and that's about it."
+        },
+        {
+          "startUid": "u0670",
+          "endUid": "u0674",
+          "quote": "DM: Kenzo, you recognize Xavier just kind of lounging, lying on on one of these straw one of the 2 straw pallets, just kind of idly. He's got a knife, and he's like playing with a knife like you know, just fiddling, not really paying attention."
+        },
+        {
+          "startUid": "u0675",
+          "endUid": "u0675",
+          "quote": "Kenzo: Can! Oh, good!"
+        },
+        {
+          "startUid": "u0676",
+          "endUid": "u0683",
+          "quote": "DM: Also in the room is, so this older woman, you presume, must be Francisca, who's Xavier's mother, who you've you've met, but you know she doesn't particularly, wouldn't necessarily particularly remember you. Also, in the room is a woman a few years older than Xavier, probably his older sister, who again you've met a couple of times, but don't know particularly well. Short shoulder length, curly black hair, looks undernourished and skinny, sitting at the spinning wheel, kind of spinning, spinning thread, as Xavier kind of jumps up. There's basically not really enough room for all 6 of you in the apartment at the same time. But Xavier jumps up, shocked and kind of surprised as he sees Kenzo, like double take, and then his like mouth kind of drops, and, \"Kenzo!\""
+        }
+      ],
+      "kind": "apartment",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0154",
+              "endUid": "u0154",
+              "quote": "DM: There's on the north side of the city. So most of the population of Chardon lives on the south side. The north side is where all the Chalyte refineries are, and there's like the the like deep slums are called Riverside. They're like next to the refineries, but then there's a wall, and immediately inside the wall there's the Chalyte Levels, which is like—"
+            },
+            {
+              "startUid": "u0155",
+              "endUid": "u0155",
+              "quote": "Kenzo: Yeah."
+            },
+            {
+              "startUid": "u0156",
+              "endUid": "u0158",
+              "quote": "DM: Slums, but not quite as, you know, contaminated. There's fresh water and stuff. So that's where he lives. There's a market called the Foundry Market. He lives in an apartment right near the Foundry Market with his mom and his sister. And you know, I mean, you have his address, basically so. And Kenzo had obviously been to the like. You know, you've been to the Foundry Market. Kenzo probably grew up in the Chalyte Levels, too. Right? Because this is your childhood friend."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0154",
+              "endUid": "u0154",
+              "quote": "DM: There's on the north side of the city. So most of the population of Chardon lives on the south side. The north side is where all the Chalyte refineries are, and there's like the the like deep slums are called Riverside. They're like next to the refineries, but then there's a wall, and immediately inside the wall there's the Chalyte Levels, which is like—"
+            },
+            {
+              "startUid": "u0155",
+              "endUid": "u0155",
+              "quote": "Kenzo: Yeah."
+            },
+            {
+              "startUid": "u0156",
+              "endUid": "u0158",
+              "quote": "DM: Slums, but not quite as, you know, contaminated. There's fresh water and stuff. So that's where he lives. There's a market called the Foundry Market. He lives in an apartment right near the Foundry Market with his mom and his sister. And you know, I mean, you have his address, basically so. And Kenzo had obviously been to the like. You know, you've been to the Foundry Market. Kenzo probably grew up in the Chalyte Levels, too. Right? Because this is your childhood friend."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Side alley beside Xavier’s apartment",
+      "evidence": [
+        {
+          "startUid": "u0595",
+          "endUid": "u0598",
+          "quote": "DM: But you duck out the—there once was a big ornate fountain in the center of the plaza, now cracked, no water anymore, filled with trash, refuse— sort of duck through these narrow alleys, overhanging sort of timber frame buildings, just sort of flying up above and dip down just the sort of side alley right next to where Kenzo, seagull Kenzo, points out where Xavier's apartment is, and transform into into yourselves. Well, anybody who wants to can stay a seagull for a little bit."
+        },
+        {
+          "startUid": "u0599",
+          "endUid": "u0599",
+          "quote": "Kenzo: Xavier there?"
+        },
+        {
+          "startUid": "u0600",
+          "endUid": "u0600",
+          "quote": "DM: Well, right now you're in the back alley."
+        }
+      ],
+      "kind": "alley",
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0595",
+              "endUid": "u0598",
+              "quote": "DM: But you duck out the—there once was a big ornate fountain in the center of the plaza, now cracked, no water anymore, filled with trash, refuse— sort of duck through these narrow alleys, overhanging sort of timber frame buildings, just sort of flying up above and dip down just the sort of side alley right next to where Kenzo, seagull Kenzo, points out where Xavier's apartment is, and transform into into yourselves. Well, anybody who wants to can stay a seagull for a little bit."
+            },
+            {
+              "startUid": "u0599",
+              "endUid": "u0599",
+              "quote": "Kenzo: Xavier there?"
+            },
+            {
+              "startUid": "u0600",
+              "endUid": "u0600",
+              "quote": "DM: Well, right now you're in the back alley."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0585",
+              "endUid": "u0592",
+              "quote": "DM: So you fly as seagulls. Now, having done a little bit of scouting over to the the slums flying through the sort of burned areas of the Chalyte Levels. There are guards on the walls here, but they and you occasionally see a few of the sort of city watch. You know you sort of do a loop over the Foundry Market, where you see, you know, a couple of city watch just kind of standing around, but seemingly not not too interested in what's going on. There's like a some guy in—yeah, in sort of nicer looking robes is like standing up on a on a turned over wagon, sort of preaching something about the evils of chalyte and the healing power of the 8 divines."
+            },
+            {
+              "startUid": "u0593",
+              "endUid": "u0594",
+              "quote": "DM: You know, swinging through the market people look like in pretty rough shape, right like there's bread. There's people standing in lines waiting for stale bread from an associate of this of this priest. There's—the market isn't really operating exactly. There's like a few people sort of—there's like one tavern that's still standing,"
+            },
+            {
+              "startUid": "u0595",
+              "endUid": "u0598",
+              "quote": "DM: But you duck out the—there once was a big ornate fountain in the center of the plaza, now cracked, no water anymore, filled with trash, refuse— sort of duck through these narrow alleys, overhanging sort of timber frame buildings, just sort of flying up above and dip down just the sort of side alley right next to where Kenzo, seagull Kenzo, points out where Xavier's apartment is, and transform into into yourselves. Well, anybody who wants to can stay a seagull for a little bit."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Cackling Swan",
+      "evidence": [
+        {
+          "startUid": "u0997",
+          "endUid": "u0998",
+          "quote": "DM: So that evening, you set out through the short alleyway with Andros, or sorry with Xavier, to the Cackling Swan."
+        },
+        {
+          "startUid": "u0999",
+          "endUid": "u1005",
+          "quote": "DM: It's, you know, the the market is now like fairly empty at 6 30 PM. The tavern is moderately crowded. And it's, you know, it's clearly like— you know, this is the one place where where people still gather. Like a lot of the— a lot of the district has burned down. There's probably a lot of you know, you know, people who are destitute and and just kinda like trying to find a place to sleep. But you know, this is—"
+        },
+        {
+          "startUid": "u1006",
+          "endUid": "u1013",
+          "quote": "DM: This is like the central hub of the resistance to an extent. And so when you open the door, it's like quiet from the outside. But when Xavier leads you to the door 1st of all, like even to the extent to which you're trying to hide your sort of right, adventuring prowess, you have a presence that nobody else in this room has anything close to matching, right? So the tavern goes quiet as you approach, and everybody just kind of looks towards towards Xavier. There's like, you know, a few dozen people scattered around. There's like a sort of oval shaped bar, just, you know, a hearth with a big pot. There's no like menus or anything. This is a fairly— this is a cheap tavern. But there's like a old, you know, an older guy, maybe in his sixties tending bar. Seems to know everybody. And you know. As the room goes completely silent, and everybody turns and looks, and just kind of stares at you for a second."
+        },
+        {
+          "startUid": "u1014",
+          "endUid": "u1017",
+          "quote": "DM: Xavier, like gets shy and sort of ducks a little bit, and sort of waves you over and sort of points. And there's a table a little ways off, where Andros is sitting with with 2 other people. And it seems like you interrupted or or they were in like the middle of an argument when when you stepped in, and everything went quiet, and Xavier just kind of tries to like pull you out of the center of attention and drag you over to this table. So I mean, what do you do?"
+        }
+      ],
+      "kind": "tavern",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Cackling Swan.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0997",
+              "endUid": "u0998",
+              "quote": "DM: So that evening, you set out through the short alleyway with Andros, or sorry with Xavier, to the Cackling Swan."
+            },
+            {
+              "startUid": "u0999",
+              "endUid": "u1005",
+              "quote": "DM: It's, you know, the the market is now like fairly empty at 6 30 PM. The tavern is moderately crowded. And it's, you know, it's clearly like— you know, this is the one place where where people still gather. Like a lot of the— a lot of the district has burned down. There's probably a lot of you know, you know, people who are destitute and and just kinda like trying to find a place to sleep. But you know, this is—"
+            },
+            {
+              "startUid": "u1006",
+              "endUid": "u1013",
+              "quote": "DM: This is like the central hub of the resistance to an extent. And so when you open the door, it's like quiet from the outside. But when Xavier leads you to the door 1st of all, like even to the extent to which you're trying to hide your sort of right, adventuring prowess, you have a presence that nobody else in this room has anything close to matching, right? So the tavern goes quiet as you approach, and everybody just kind of looks towards towards Xavier. There's like, you know, a few dozen people scattered around. There's like a sort of oval shaped bar, just, you know, a hearth with a big pot. There's no like menus or anything. This is a fairly— this is a cheap tavern. But there's like a old, you know, an older guy, maybe in his sixties tending bar. Seems to know everybody. And you know. As the room goes completely silent, and everybody turns and looks, and just kind of stares at you for a second."
+            },
+            {
+              "startUid": "u1014",
+              "endUid": "u1017",
+              "quote": "DM: Xavier, like gets shy and sort of ducks a little bit, and sort of waves you over and sort of points. And there's a table a little ways off, where Andros is sitting with with 2 other people. And it seems like you interrupted or or they were in like the middle of an argument when when you stepped in, and everything went quiet, and Xavier just kind of tries to like pull you out of the center of attention and drag you over to this table. So I mean, what do you do?"
+            }
+          ],
+          "note": "The short alleyway from the apartment and market places the tavern in the same burned district; the exact parcel boundary is not supplied."
+        },
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0997",
+              "endUid": "u0998",
+              "quote": "DM: So that evening, you set out through the short alleyway with Andros, or sorry with Xavier, to the Cackling Swan."
+            },
+            {
+              "startUid": "u0999",
+              "endUid": "u1005",
+              "quote": "DM: It's, you know, the the market is now like fairly empty at 6 30 PM. The tavern is moderately crowded. And it's, you know, it's clearly like— you know, this is the one place where where people still gather. Like a lot of the— a lot of the district has burned down. There's probably a lot of you know, you know, people who are destitute and and just kinda like trying to find a place to sleep. But you know, this is—"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "River Bridge",
+      "evidence": [
+        {
+          "startUid": "u0257",
+          "endUid": "u0262",
+          "quote": "DM: The the bigger concern. So the river bridge, which is what the major bridge across the Chasa— is like, huge, like Fancy bridge. It has, like a magical drawbridge in the middle, so ships can go past, and it is intensely guarded, and the odds that somebody has some magical way to see through illusions on that bridge. I mean, that is, that is where you might run into trouble, even under some kind of magical disguise, although something like Animal Shapes, probably nobody's gonna— that's too powerful for the average person."
+        }
+      ],
+      "kind": "bridge",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/River Bridge (Chardon).md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0257",
+              "endUid": "u0262",
+              "quote": "DM: The the bigger concern. So the river bridge, which is what the major bridge across the Chasa— is like, huge, like Fancy bridge. It has, like a magical drawbridge in the middle, so ships can go past, and it is intensely guarded, and the odds that somebody has some magical way to see through illusions on that bridge. I mean, that is, that is where you might run into trouble, even under some kind of magical disguise, although something like Animal Shapes, probably nobody's gonna— that's too powerful for the average person."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Fausto’s tower",
+      "evidence": [
+        {
+          "startUid": "u0483",
+          "endUid": "u0484",
+          "quote": "DM: Fausto’s tower has a 8 guards in wizard robes posted outside, and there’s a giant like warning sign on the door, a rune of some kind, and \"Do not enter. Danger.\""
+        }
+      ],
+      "kind": "tower",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Fausto's Tower.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0470",
+              "endUid": "u0470",
+              "quote": "Kenzo: Yeah, yeah, totally. But I'm just wondering, like, if we end up in the slums, maybe we can do a little clairvoyancing of a bunch of different places. But all right, yeah, let's go check out Fausto's tower after we go to the bridge."
+            },
+            {
+              "startUid": "u0471",
+              "endUid": "u0471",
+              "quote": "Delwath: And and just so let's let's check out the bridge and Fausto’s tower first and then reassess."
+            },
+            {
+              "startUid": "u0472",
+              "endUid": "u0472",
+              "quote": "Kenzo: Yeah. Sounds. Great."
+            },
+            {
+              "startUid": "u0473",
+              "endUid": "u0473",
+              "quote": "DM: Okay?"
+            },
+            {
+              "startUid": "u0474",
+              "endUid": "u0482",
+              "quote": "DM: So the bridge— it definitely, I mean, there's definitely very much heightened guard on the north gate. In fact, it seems like like the bridge is just kept up, and then only lowered at occasional moments to allow carts to pass. There's a big queue of of carts waiting of, you know, wagons sort of milling around waiting for the bridge to be lowered to pass, and there's very little traffic on the on the north side shops. The south side is still like fairly like people will come onto the bridge to, you know shop and then go back, right? But it does not feel, it does not look kinda normal to you, just with your long sense of how to judge security arrangements and things like—clearly there's heightened security."
+            },
+            {
+              "startUid": "u0483",
+              "endUid": "u0484",
+              "quote": "DM: Fausto’s tower has a 8 guards in wizard robes posted outside, and there’s a giant like warning sign on the door, a rune of some kind, and \"Do not enter. Danger.\""
+            }
+          ],
+          "note": "The aerial circuit establishes the city setting; the transcript does not identify a precinct for this tower."
+        }
+      ]
+    },
+    "p12": {
+      "label": "Magistros’s quarter",
+      "evidence": [
+        {
+          "startUid": "u0536",
+          "endUid": "u0536",
+          "quote": "Wellby: I was gonna say, flying over the Magistros’s quarter, it's not like the Magistros’s, not like obviously under house arrest or something like that?"
+        },
+        {
+          "startUid": "u0537",
+          "endUid": "u0537",
+          "quote": "DM: No, no, no, no."
+        }
+      ],
+      "kind": "urban quarter",
+      "note": "The party flies over the quarter; landing on or entering the palace is never established.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0534",
+              "endUid": "u0534",
+              "quote": "DM: Back did not bring back the Magistros definitely did not bring back the full navy."
+            },
+            {
+              "startUid": "u0535",
+              "endUid": "u0535",
+              "quote": "Delwath: So he probably—go ahead."
+            },
+            {
+              "startUid": "u0536",
+              "endUid": "u0536",
+              "quote": "Wellby: I was gonna say, flying over the Magistros’s quarter, it's not like the Magistros’s, not like obviously under house arrest or something like that?"
+            },
+            {
+              "startUid": "u0537",
+              "endUid": "u0537",
+              "quote": "DM: No, no, no, no."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Auratan’s Pride",
+      "evidence": [
+        {
+          "startUid": "u1531",
+          "endUid": "u1531",
+          "quote": "DM: So Auratan's Pride is like, you saw it, it's 1 of the 2 Navy ships anchored in the harbor."
+        },
+        {
+          "startUid": "u1532",
+          "endUid": "u1532",
+          "quote": "Delwath: That's cool."
+        },
+        {
+          "startUid": "u1533",
+          "endUid": "u1539",
+          "quote": "DM: It's big, like, clearly a large crew. There's like a a giant sort of magical— not exactly a cannon, but like it looks like an oversized wand mounted, mounted on the bow, and then rows of ballista, you know, three-masted, wide beam, probably can carry a few 100 marines, maybe more, currently riding at anchor just upstream of the now closed river bridge. Sorry, just just downstream, like closer to the ocean than the than the river bridge, clearly like sort of in some sense block guarding the entrance to the harbor. Are you like—it's not hard to just find somebody who’d row you out there. There's lots of like—"
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Auratan's Pride.md"
+    },
+    "p14": {
+      "label": "Chardon harbor",
+      "evidence": [
+        {
+          "startUid": "u1531",
+          "endUid": "u1531",
+          "quote": "DM: So Auratan's Pride is like, you saw it, it's 1 of the 2 Navy ships anchored in the harbor."
+        },
+        {
+          "startUid": "u1532",
+          "endUid": "u1532",
+          "quote": "Delwath: That's cool."
+        },
+        {
+          "startUid": "u1533",
+          "endUid": "u1539",
+          "quote": "DM: It's big, like, clearly a large crew. There's like a a giant sort of magical— not exactly a cannon, but like it looks like an oversized wand mounted, mounted on the bow, and then rows of ballista, you know, three-masted, wide beam, probably can carry a few 100 marines, maybe more, currently riding at anchor just upstream of the now closed river bridge. Sorry, just just downstream, like closer to the ocean than the than the river bridge, clearly like sort of in some sense block guarding the entrance to the harbor. Are you like—it's not hard to just find somebody who’d row you out there. There's lots of like—"
+        }
+      ],
+      "kind": "harbor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1531",
+              "endUid": "u1531",
+              "quote": "DM: So Auratan's Pride is like, you saw it, it's 1 of the 2 Navy ships anchored in the harbor."
+            },
+            {
+              "startUid": "u1532",
+              "endUid": "u1532",
+              "quote": "Delwath: That's cool."
+            },
+            {
+              "startUid": "u1533",
+              "endUid": "u1539",
+              "quote": "DM: It's big, like, clearly a large crew. There's like a a giant sort of magical— not exactly a cannon, but like it looks like an oversized wand mounted, mounted on the bow, and then rows of ballista, you know, three-masted, wide beam, probably can carry a few 100 marines, maybe more, currently riding at anchor just upstream of the now closed river bridge. Sorry, just just downstream, like closer to the ocean than the than the river bridge, clearly like sort of in some sense block guarding the entrance to the harbor. Are you like—it's not hard to just find somebody who’d row you out there. There's lots of like—"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Downriver beyond the naval forts",
+      "evidence": [
+        {
+          "startUid": "u1869",
+          "endUid": "u1872",
+          "quote": "DM: And it's only maybe about half an hour as the ship picks up steam that you sail downriver. Sun is setting, now, so you’re sailing right into the sunset. Sail past—there's like 2 2 fort, naval forts on the end. The giant chain they can raise to block the harbor, sail past the naval forts, past burning slums."
+        },
+        {
+          "startUid": "u1895",
+          "endUid": "u1900",
+          "quote": "DM: Half an hour passes as you pick up speed, just continually picking up speed faster and faster, until you're racing downriver at a very rapid clip, the city beginning to get smaller in the distance as the sun sets. And you there's a long stream of like, you know, the golden light of the sunset, you know, mixing with the the wake of the ship as it's moving under full sails and magical wind, creating a very pretty scene, until you know, 40 min or so has passed."
+        },
+        {
+          "startUid": "u1901",
+          "endUid": "u1907",
+          "quote": "DM: And he calls off the wind, and he says, turns to you and he says, I know it may seem like this is foolish, because if you truly were the next Fausto, a few miles of distance might not make, might not matter, for all know, you’d be able to teleport instantly to the heart of the Emperor’s palace, the Magistros’s palace, but it makes me feel better."
+        }
+      ],
+      "kind": "river reach",
+      "vaultPath": "Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa.md",
+      "note": "Local reach of the Chasa identified by the downriver voyage from Chardon; the exact stopping point remains unnamed."
+    },
+    "p16": {
+      "label": "Narrow channel between tropical islands",
+      "evidence": [
+        {
+          "startUid": "u0919",
+          "endUid": "u0924",
+          "quote": "DM: They are currently sailing through a narrow channel between 2 islands. Very lush sort of tropical steep mountain islands, like jungle sort of descending all the way down to the water. And the ship is, it's it's dead calm, but the ship is moving very fast, and you can see like—"
+        },
+        {
+          "startUid": "u0925",
+          "endUid": "u0927",
+          "quote": "DM: So, looking from the mast, you can see Milo at the at the front of the ship, with like looking out, sort of sort of peering it at something. And then the the the ship suddenly stops for a minute, and you see, like a a a fluke of a giant whale sort of wave at him, and then he yells, \"It’s working, Tilly!\""
+        }
+      ],
+      "kind": "channel",
+      "note": "Seen through the projected eye. The party speculates about the South; no named island or confirmed region is supplied."
+    },
+    "p17": {
+      "label": "Foggy prison cells of the Mirror of Soul Trapping",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0008",
+          "quote": "DM: Okay. So we begin on Vindristjarna, some 70 miles off the coast of Chardon, drifting among a fog bank in the Gulf of Chardon, and as we begin we flash back to the people that you freed: Valius, Vargus, Vola, and Hektor, all recently released, or in some fashion or another, from the prison of the Mirror of Soul Trapping, or from the prison of the Crown of Purity, or both."
+        },
+        {
+          "startUid": "u0009",
+          "endUid": "u0019",
+          "quote": "DM: We start with Valius, who, in that strange place where time seemed not to pass, was always vaguely aware that his brother was near him, even though his thoughts seemed as slow as molasses, and when he tried to speak, he wasn't sure if words came out due to the strange nature of time in that place. But he wasn't entirely insensate. He wasn't completely unaware. He did not miss the slow dawning awareness growing in his brother's eyes even in this weird cocoon world, where everything was dulled to near oblivion. This feeling of shock grew in his mind as he slowly realized his brother was free. How could this have happened, trapped in this place, he wondered? What could have broken those bonds of Fausto, the seemingly impossible to kill wizard, who had tied his mind in ribbons? Maybe just maybe, he wondered, those crazy bastards who had captured him did something to Fausto after all."
+        },
+        {
+          "startUid": "u0020",
+          "endUid": "u0034",
+          "quote": "DM: Vargus, for his part, felt the transition as a fog lifting, not clarity exactly, for his thoughts still were slow and impossible to order, and he was barely conscious of his surroundings. But what replaced the fog was somehow impersonal, less obtrusive, not violating in the same way as that iron grip on his mind as had been— the 1st thing he was consciously aware of in this cocoon place was his brother Valius. Somehow, despite it all, Valius had stuck with him, had kept him from suffering this fate alone, had not hung him out to dry like their father had, leaving them twisting in the wind. His memories came back in pieces. 2 soldiers for hire, more interested in stories and ale than actually seeking employment, and Fausto and the Society of the Open Scroll and a blank— he couldn't remember. He had wanted to get out. Maybe Fausto was asking too much, but then something happened. He couldn't piece it together. Maybe it was this strange molasses in his brain impeding him from thinking. But he wasn't alone, so they'd figure it out somehow."
+        },
+        {
+          "startUid": "u0035",
+          "endUid": "u0049",
+          "quote": "DM: Vola snapped to consciousness, angry. All she remembered was she had been betrayed. She could not clearly remember anything after telling Aegon of her concerns about Fausto, and then going with Aegon to speak to him and learn the truth. Strange figments of dreams haunted her, racing across the strange desert and assaulting a palace; toppling an iron crane in Chardon, spilling chalyte ore everywhere; a serene underground cavern filled with an otherworldly light. The thoughts felt slow in this strange, foggy place where she found herself. She wondered if this was some new terror devised by Fausto for her punishment. Had he killed everyone? Had he corrupted all of Chardon to his will? How had she ended up here? Doubts and confusion plagued her barely functioning brain. But that didn't matter now. She let her anger wash away the dreams. She knew she had been betrayed, and she would seek vengeance."
+        },
+        {
+          "startUid": "u0050",
+          "endUid": "u0060",
+          "quote": "DM: Hektor drifted in a semi-conscious state. He had liked the new songs, the deep, humming songs that spoke of echoes underground, eternal stone, beauty and strength. They had washed away some of the older songs. He hadn't liked those older songs, the songs of subverdience, subservience, the thrumming melody that wouldn't let him think. He couldn't remember much before that 1st song. To be honest, it had broken his mind for so long singing of violence and control until he didn't move with conscious thought; he just obeyed the song. Not that he wanted to. He had no choice. But now he drifted in silence, each thought seeming to take an eternity to form. Maybe he was with the gods. But somehow he didn't think the gods would be this quiet."
+        },
+        {
+          "startUid": "u0061",
+          "endUid": "u0068",
+          "quote": "DM: Sometimes, though, time sped up and he heard a voice. Was that a halfling sea shanty? It sounded so familiar. How did he know those words? Why did his hands twitch as if pulling on a phantom rope? When the voice went quiet, he tried to let his mind go blank in the silence, and just let memories slowly grow. The smell of salt spray, the feel of wind in his hair, the sway of a ship on a rolling ocean. He looked forward to that voice, for somehow he knew it brought the promise of his old self."
+        }
+      ],
+      "kind": "extradimensional prison",
+      "vaultPath": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md",
+      "note": "The opening retrospectively narrates the prisoners’ separate experiences. Shared prison context does not put all four in one cell."
+    },
+    "p18": {
+      "label": "Tokra",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0073",
+          "quote": "DM: And from those memories of the still trapped Hektor, Vola, calmed from her anger by Kenzo's meditation, and Valius and Vargus let off from the ship in Tokra with coin, and a letter to introduce them to the Dunmari, and to let them find their own life far from Chardon. We turn now to Chardon, the city maybe 80, 90 miles away, a little bit inland."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0008"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins aboard Vindristjarna in fog roughly seventy miles offshore.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0008",
+          "quote": "DM: Okay. So we begin on Vindristjarna, some 70 miles off the coast of Chardon, drifting among a fog bank in the Gulf of Chardon, and as we begin we flash back to the people that you freed: Valius, Vargus, Vola, and Hektor, all recently released, or in some fashion or another, from the prison of the Mirror of Soul Trapping, or from the prison of the Crown of Purity, or both."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "within",
+          "target": "p02",
+          "note": "Temporary offshore position; no permanent geographic parent for the ship."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0009",
+        "endUid": "u0068"
+      },
+      "actors": [
+        "Valius",
+        "Vargus",
+        "Vola",
+        "Hektor"
+      ],
+      "reading": "Retrospective vignettes follow the prisoners’ individual experiences in the mirror.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0008",
+          "quote": "DM: Okay. So we begin on Vindristjarna, some 70 miles off the coast of Chardon, drifting among a fog bank in the Gulf of Chardon, and as we begin we flash back to the people that you freed: Valius, Vargus, Vola, and Hektor, all recently released, or in some fashion or another, from the prison of the Mirror of Soul Trapping, or from the prison of the Crown of Purity, or both."
+        },
+        {
+          "startUid": "u0009",
+          "endUid": "u0019",
+          "quote": "DM: We start with Valius, who, in that strange place where time seemed not to pass, was always vaguely aware that his brother was near him, even though his thoughts seemed as slow as molasses, and when he tried to speak, he wasn't sure if words came out due to the strange nature of time in that place. But he wasn't entirely insensate. He wasn't completely unaware. He did not miss the slow dawning awareness growing in his brother's eyes even in this weird cocoon world, where everything was dulled to near oblivion. This feeling of shock grew in his mind as he slowly realized his brother was free. How could this have happened, trapped in this place, he wondered? What could have broken those bonds of Fausto, the seemingly impossible to kill wizard, who had tied his mind in ribbons? Maybe just maybe, he wondered, those crazy bastards who had captured him did something to Fausto after all."
+        },
+        {
+          "startUid": "u0020",
+          "endUid": "u0034",
+          "quote": "DM: Vargus, for his part, felt the transition as a fog lifting, not clarity exactly, for his thoughts still were slow and impossible to order, and he was barely conscious of his surroundings. But what replaced the fog was somehow impersonal, less obtrusive, not violating in the same way as that iron grip on his mind as had been— the 1st thing he was consciously aware of in this cocoon place was his brother Valius. Somehow, despite it all, Valius had stuck with him, had kept him from suffering this fate alone, had not hung him out to dry like their father had, leaving them twisting in the wind. His memories came back in pieces. 2 soldiers for hire, more interested in stories and ale than actually seeking employment, and Fausto and the Society of the Open Scroll and a blank— he couldn't remember. He had wanted to get out. Maybe Fausto was asking too much, but then something happened. He couldn't piece it together. Maybe it was this strange molasses in his brain impeding him from thinking. But he wasn't alone, so they'd figure it out somehow."
+        },
+        {
+          "startUid": "u0035",
+          "endUid": "u0049",
+          "quote": "DM: Vola snapped to consciousness, angry. All she remembered was she had been betrayed. She could not clearly remember anything after telling Aegon of her concerns about Fausto, and then going with Aegon to speak to him and learn the truth. Strange figments of dreams haunted her, racing across the strange desert and assaulting a palace; toppling an iron crane in Chardon, spilling chalyte ore everywhere; a serene underground cavern filled with an otherworldly light. The thoughts felt slow in this strange, foggy place where she found herself. She wondered if this was some new terror devised by Fausto for her punishment. Had he killed everyone? Had he corrupted all of Chardon to his will? How had she ended up here? Doubts and confusion plagued her barely functioning brain. But that didn't matter now. She let her anger wash away the dreams. She knew she had been betrayed, and she would seek vengeance."
+        },
+        {
+          "startUid": "u0050",
+          "endUid": "u0060",
+          "quote": "DM: Hektor drifted in a semi-conscious state. He had liked the new songs, the deep, humming songs that spoke of echoes underground, eternal stone, beauty and strength. They had washed away some of the older songs. He hadn't liked those older songs, the songs of subverdience, subservience, the thrumming melody that wouldn't let him think. He couldn't remember much before that 1st song. To be honest, it had broken his mind for so long singing of violence and control until he didn't move with conscious thought; he just obeyed the song. Not that he wanted to. He had no choice. But now he drifted in silence, each thought seeming to take an eternity to form. Maybe he was with the gods. But somehow he didn't think the gods would be this quiet."
+        },
+        {
+          "startUid": "u0061",
+          "endUid": "u0068",
+          "quote": "DM: Sometimes, though, time sped up and he heard a voice. Was that a halfling sea shanty? It sounded so familiar. How did he know those words? Why did his hands twitch as if pulling on a phantom rope? When the voice went quiet, he tried to let his mind go blank in the silence, and just let memories slowly grow. The smell of salt spray, the feel of wind in his hair, the sway of a ship on a rolling ocean. He looked forward to that voice, for somehow he knew it brought the promise of his old self."
+        }
+      ],
+      "place": "p17",
+      "context": "flashback"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0073"
+      },
+      "actors": [
+        "Valius",
+        "Vargus"
+      ],
+      "reading": "The opening recalls the brothers leaving the ship in Tokra with coin and an introductory letter.",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0073",
+          "quote": "DM: And from those memories of the still trapped Hektor, Vola, calmed from her anger by Kenzo's meditation, and Valius and Vargus let off from the ship in Tokra with coin, and a letter to introduce them to the Dunmari, and to let them find their own life far from Chardon. We turn now to Chardon, the city maybe 80, 90 miles away, a little bit inland."
+        }
+      ],
+      "context": "reported",
+      "from": "p01",
+      "to": "p18",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0288",
+        "endUid": "u0318"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker 3"
+      ],
+      "reading": "The transformed group flies from the offshore ship to Chardon and surveys its skyline.",
+      "evidence": [
+        {
+          "startUid": "u0123",
+          "endUid": "u0125",
+          "quote": "DM: And Seeker Prime casts Animal Shapes on all of you. So that Seeker 3— This is the second. Was there a Seeker simulacrum before? Maybe not. Actually, maybe this is Seeker 2."
+        },
+        {
+          "startUid": "u0126",
+          "endUid": "u0126",
+          "quote": "Delwath: I mean the."
+        },
+        {
+          "startUid": "u0127",
+          "endUid": "u0130",
+          "quote": "DM: Seeker and Seeker 2 and Seeker 3 have a big argument about whether this is Seeker 2 or Seeker 3, and they eventually decide on Seeker 3, because why not? And Seeker 3 can re-up the telepathy. But rather than—because simulacrums don't get back spell slots—just may as well save the his 8th level slot in case he needs it. So Seeker Prime casts Animal Shapes on you. It lasts 24 h, so you've got a full day."
+        },
+        {
+          "startUid": "u0131",
+          "endUid": "u0133",
+          "quote": "DM: Yeah, it's gonna take, you know, a—picking the fastest bird, it's still gonna take, you know, 3, 4 h to fly to the coast. But it's it's first light right now, so you'll get there around noon, say."
+        },
+        {
+          "startUid": "u0288",
+          "endUid": "u0295",
+          "quote": "DM: So as you fly approaching the city, the 1st thing that you notice is the still smoldering smoke coming from the north bank. So you see, you see the like broad sweep of the city. You see the towers, the huge spire of the of the University tower, the Great Library, the domes, hundreds of towers that mark the skyline of the south bank, especially the the sort of Old city, the the academic quarter that's, you know—there's been a university here for almost, you know, 800 years, something like that. And the library has been here over a thousand years. And then the broad spread of the of the city itself. You know, bustling commerce. The huge span of the river bridge. Currently its drawbridge is up. There's a couple of trading ships sailing upriver. Extend—"
+        },
+        {
+          "startUid": "u0710",
+          "endUid": "u0711",
+          "quote": "DM: I mean, you got to Chardon at around noon. You might have spent like an hour flying around before you transformed. Early afternoon-ish."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "fly as seagulls",
+      "route": [
+        {
+          "reading": "Approach from the ocean; see the North Bank smoke and South Bank skyline."
+        }
+      ],
+      "distance": {
+        "value": 70,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Opening distance offshore, not a measured route length."
+      }
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0474",
+        "endUid": "u0482"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker 3"
+      ],
+      "reading": "The aerial scouts inspect the River Bridge’s heightened security and raised center span.",
+      "evidence": [
+        {
+          "startUid": "u0470",
+          "endUid": "u0470",
+          "quote": "Kenzo: Yeah, yeah, totally. But I'm just wondering, like, if we end up in the slums, maybe we can do a little clairvoyancing of a bunch of different places. But all right, yeah, let's go check out Fausto's tower after we go to the bridge."
+        },
+        {
+          "startUid": "u0471",
+          "endUid": "u0471",
+          "quote": "Delwath: And and just so let's let's check out the bridge and Fausto’s tower first and then reassess."
+        },
+        {
+          "startUid": "u0472",
+          "endUid": "u0472",
+          "quote": "Kenzo: Yeah. Sounds. Great."
+        },
+        {
+          "startUid": "u0473",
+          "endUid": "u0473",
+          "quote": "DM: Okay?"
+        },
+        {
+          "startUid": "u0474",
+          "endUid": "u0482",
+          "quote": "DM: So the bridge— it definitely, I mean, there's definitely very much heightened guard on the north gate. In fact, it seems like like the bridge is just kept up, and then only lowered at occasional moments to allow carts to pass. There's a big queue of of carts waiting of, you know, wagons sort of milling around waiting for the bridge to be lowered to pass, and there's very little traffic on the on the north side shops. The south side is still like fairly like people will come onto the bridge to, you know shop and then go back, right? But it does not feel, it does not look kinda normal to you, just with your long sense of how to judge security arrangements and things like—clearly there's heightened security."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p03",
+      "note": "The earlier roof-landing suggestion is not confirmed; this records the accepted scouting result without inventing a landing."
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0483",
+        "endUid": "u0484"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker 3"
+      ],
+      "reading": "The scouts see eight robed guards and a warning at Fausto’s tower; they do not enter.",
+      "evidence": [
+        {
+          "startUid": "u0483",
+          "endUid": "u0484",
+          "quote": "DM: Fausto’s tower has a 8 guards in wizard robes posted outside, and there’s a giant like warning sign on the door, a rune of some kind, and \"Do not enter. Danger.\""
+        }
+      ],
+      "place": "p11",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0536",
+        "endUid": "u0537"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker 3"
+      ],
+      "reading": "Flying over the Magistros’s quarter reveals no obvious house arrest.",
+      "evidence": [
+        {
+          "startUid": "u0536",
+          "endUid": "u0536",
+          "quote": "Wellby: I was gonna say, flying over the Magistros’s quarter, it's not like the Magistros’s, not like obviously under house arrest or something like that?"
+        },
+        {
+          "startUid": "u0537",
+          "endUid": "u0537",
+          "quote": "DM: No, no, no, no."
+        }
+      ],
+      "place": "p12",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0594"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker 3"
+      ],
+      "reading": "The group loops over the Foundry Market, seeing a preacher, a bread queue and the damaged plaza.",
+      "evidence": [
+        {
+          "startUid": "u0585",
+          "endUid": "u0592",
+          "quote": "DM: So you fly as seagulls. Now, having done a little bit of scouting over to the the slums flying through the sort of burned areas of the Chalyte Levels. There are guards on the walls here, but they and you occasionally see a few of the sort of city watch. You know you sort of do a loop over the Foundry Market, where you see, you know, a couple of city watch just kind of standing around, but seemingly not not too interested in what's going on. There's like a some guy in—yeah, in sort of nicer looking robes is like standing up on a on a turned over wagon, sort of preaching something about the evils of chalyte and the healing power of the 8 divines."
+        },
+        {
+          "startUid": "u0593",
+          "endUid": "u0594",
+          "quote": "DM: You know, swinging through the market people look like in pretty rough shape, right like there's bread. There's people standing in lines waiting for stale bread from an associate of this of this priest. There's—the market isn't really operating exactly. There's like a few people sort of—there's like one tavern that's still standing,"
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0595",
+        "endUid": "u0600"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker 3"
+      ],
+      "reading": "The group lands in the side alley beside Xavier’s apartment and changes out of bird form, except any bird choosing to remain.",
+      "evidence": [
+        {
+          "startUid": "u0595",
+          "endUid": "u0598",
+          "quote": "DM: But you duck out the—there once was a big ornate fountain in the center of the plaza, now cracked, no water anymore, filled with trash, refuse— sort of duck through these narrow alleys, overhanging sort of timber frame buildings, just sort of flying up above and dip down just the sort of side alley right next to where Kenzo, seagull Kenzo, points out where Xavier's apartment is, and transform into into yourselves. Well, anybody who wants to can stay a seagull for a little bit."
+        },
+        {
+          "startUid": "u0599",
+          "endUid": "u0599",
+          "quote": "Kenzo: Xavier there?"
+        },
+        {
+          "startUid": "u0600",
+          "endUid": "u0600",
+          "quote": "DM: Well, right now you're in the back alley."
+        },
+        {
+          "startUid": "u0660",
+          "endUid": "u0669",
+          "quote": "DM: The—I mean, the door is cracked open, and there's not even really room for all of you on the landing anyway, and with the sound of 3 people and a seagull tramping up the stairs, anyway, a somewhat, you know, middle-aged, but looks tired, wearing like repeatedly mended sort of somewhat stained, but well taken care of, tunic and and robes and things, hair going white and sort of pulled, pulled back into a bun, maybe in her mid fifties, woman kind of just stares at you, and you can, as she pulls the door open into this one room apartment with straw pallet, with 2 beds sort of pushed on it, a hearth, you know, a spinning wheel, a small table, and that's about it."
+        }
+      ],
+      "from": "p03",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly as seagulls"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0651",
+        "endUid": "u0683"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker 3"
+      ],
+      "reading": "Kenzo leads the group into the building and up to Xavier’s cramped third-floor apartment; Seeker 3 remains a seagull.",
+      "evidence": [
+        {
+          "startUid": "u0651",
+          "endUid": "u0656",
+          "quote": "DM: You, you make your way, around the corner through this this alley. Enter the the 1st floor door of this timber frame building and head up the worn stairs to where Kenzo says Xavier lives with his mother and his sister on the 3rd floor. You— there's, there's nothing. You come out on the stairs, and— this is like our high school back of the—"
+        },
+        {
+          "startUid": "u0660",
+          "endUid": "u0669",
+          "quote": "DM: The—I mean, the door is cracked open, and there's not even really room for all of you on the landing anyway, and with the sound of 3 people and a seagull tramping up the stairs, anyway, a somewhat, you know, middle-aged, but looks tired, wearing like repeatedly mended sort of somewhat stained, but well taken care of, tunic and and robes and things, hair going white and sort of pulled, pulled back into a bun, maybe in her mid fifties, woman kind of just stares at you, and you can, as she pulls the door open into this one room apartment with straw pallet, with 2 beds sort of pushed on it, a hearth, you know, a spinning wheel, a small table, and that's about it."
+        },
+        {
+          "startUid": "u0670",
+          "endUid": "u0674",
+          "quote": "DM: Kenzo, you recognize Xavier just kind of lounging, lying on on one of these straw one of the 2 straw pallets, just kind of idly. He's got a knife, and he's like playing with a knife like you know, just fiddling, not really paying attention."
+        },
+        {
+          "startUid": "u0675",
+          "endUid": "u0675",
+          "quote": "Kenzo: Can! Oh, good!"
+        },
+        {
+          "startUid": "u0676",
+          "endUid": "u0683",
+          "quote": "DM: Also in the room is, so this older woman, you presume, must be Francisca, who's Xavier's mother, who you've you've met, but you know she doesn't particularly, wouldn't necessarily particularly remember you. Also, in the room is a woman a few years older than Xavier, probably his older sister, who again you've met a couple of times, but don't know particularly well. Short shoulder length, curly black hair, looks undernourished and skinny, sitting at the spinning wheel, kind of spinning, spinning thread, as Xavier kind of jumps up. There's basically not really enough room for all 6 of you in the apartment at the same time. But Xavier jumps up, shocked and kind of surprised as he sees Kenzo, like double take, and then his like mouth kind of drops, and, \"Kenzo!\""
+        }
+      ],
+      "from": "p08",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Enter the first-floor door and climb the worn stairs to the third floor."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u0918",
+        "endUid": "u0935"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "The projected eye shows Milo’s ship passing between lush tropical islands and a whale’s fluke.",
+      "evidence": [
+        {
+          "startUid": "u0918",
+          "endUid": "u0918",
+          "quote": "Wellby: Yeah, I'll pull that one out and take a look. What, what are they up to at the moment?"
+        },
+        {
+          "startUid": "u0919",
+          "endUid": "u0924",
+          "quote": "DM: They are currently sailing through a narrow channel between 2 islands. Very lush sort of tropical steep mountain islands, like jungle sort of descending all the way down to the water. And the ship is, it's it's dead calm, but the ship is moving very fast, and you can see like—"
+        },
+        {
+          "startUid": "u0925",
+          "endUid": "u0927",
+          "quote": "DM: So, looking from the mast, you can see Milo at the at the front of the ship, with like looking out, sort of sort of peering it at something. And then the the the ship suddenly stops for a minute, and you see, like a a a fluke of a giant whale sort of wave at him, and then he yells, \"It’s working, Tilly!\""
+        },
+        {
+          "startUid": "u0928",
+          "endUid": "u0929",
+          "quote": "Delwath: I think our friends have found the South. I'll say to Adina. I mean, this is just—everybody can see this, right? It’s just like a picture?"
+        },
+        {
+          "startUid": "u0930",
+          "endUid": "u0930",
+          "quote": "DM: It's just like a, it's just like a a movie projector from the eye. Yes."
+        },
+        {
+          "startUid": "u0931",
+          "endUid": "u0931",
+          "quote": "Wellby: Spots."
+        },
+        {
+          "startUid": "u0932",
+          "endUid": "u0935",
+          "quote": "DM: Everybody is like jaw just has dropped in this— have to tell Camilla about this. May— Maybe we can. Amazing, just amazing."
+        }
+      ],
+      "place": "p16",
+      "mode": "remote",
+      "observerPlace": "p07",
+      "observedActors": [
+        "Milo"
+      ],
+      "note": "Tilly is called to, but the view does not independently establish her visible position."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0997",
+        "endUid": "u1017"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker 3",
+        "Xavier"
+      ],
+      "reading": "Xavier leads the group through a short alleyway to the Cackling Swan, where they meet Andros, Orsino and Red.",
+      "evidence": [
+        {
+          "startUid": "u0997",
+          "endUid": "u0998",
+          "quote": "DM: So that evening, you set out through the short alleyway with Andros, or sorry with Xavier, to the Cackling Swan."
+        },
+        {
+          "startUid": "u0999",
+          "endUid": "u1005",
+          "quote": "DM: It's, you know, the the market is now like fairly empty at 6 30 PM. The tavern is moderately crowded. And it's, you know, it's clearly like— you know, this is the one place where where people still gather. Like a lot of the— a lot of the district has burned down. There's probably a lot of you know, you know, people who are destitute and and just kinda like trying to find a place to sleep. But you know, this is—"
+        },
+        {
+          "startUid": "u1006",
+          "endUid": "u1013",
+          "quote": "DM: This is like the central hub of the resistance to an extent. And so when you open the door, it's like quiet from the outside. But when Xavier leads you to the door 1st of all, like even to the extent to which you're trying to hide your sort of right, adventuring prowess, you have a presence that nobody else in this room has anything close to matching, right? So the tavern goes quiet as you approach, and everybody just kind of looks towards towards Xavier. There's like, you know, a few dozen people scattered around. There's like a sort of oval shaped bar, just, you know, a hearth with a big pot. There's no like menus or anything. This is a fairly— this is a cheap tavern. But there's like a old, you know, an older guy, maybe in his sixties tending bar. Seems to know everybody. And you know. As the room goes completely silent, and everybody turns and looks, and just kind of stares at you for a second."
+        },
+        {
+          "startUid": "u1014",
+          "endUid": "u1017",
+          "quote": "DM: Xavier, like gets shy and sort of ducks a little bit, and sort of waves you over and sort of points. And there's a table a little ways off, where Andros is sitting with with 2 other people. And it seems like you interrupted or or they were in like the middle of an argument when when you stepped in, and everything went quiet, and Xavier just kind of tries to like pull you out of the center of attention and drag you over to this table. So I mean, what do you do?"
+        },
+        {
+          "startUid": "u1044",
+          "endUid": "u1048",
+          "quote": "DM: Xavier says in a quiet voice, \"Andros, let me introduce my friend Kenzo, who I’ve known for many years, and is recently back in the city, and Delwath, and Wellby, and there’s a seagull that follows them around.\" That's great!"
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1540",
+        "endUid": "u1569"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker 3"
+      ],
+      "reading": "The party chooses bird flight instead of a ferry and reaches Auratan’s Pride’s deck.",
+      "evidence": [
+        {
+          "startUid": "u1540",
+          "endUid": "u1540",
+          "quote": "Kenzo: Yeah, we would find a little ferry."
+        },
+        {
+          "startUid": "u1541",
+          "endUid": "u1541",
+          "quote": "Delwath: I think we should just."
+        },
+        {
+          "startUid": "u1542",
+          "endUid": "u1542",
+          "quote": "DM: Or you can just fly, because your Animal Shapes—"
+        },
+        {
+          "startUid": "u1543",
+          "endUid": "u1543",
+          "quote": "Wellby: Yeah. Let's just fly."
+        },
+        {
+          "startUid": "u1544",
+          "endUid": "u1544",
+          "quote": "Delwath: Alright, we turn back into—we can turn back into seagulls, 24 h?"
+        },
+        {
+          "startUid": "u1545",
+          "endUid": "u1545",
+          "quote": "DM: So for 24 h."
+        },
+        {
+          "startUid": "u1546",
+          "endUid": "u1546",
+          "quote": "Delwath: Oh, let's just do that!"
+        },
+        {
+          "startUid": "u1547",
+          "endUid": "u1547",
+          "quote": "Wellby: Awesome."
+        },
+        {
+          "startUid": "u1548",
+          "endUid": "u1549",
+          "quote": "Delwath: That's a that's a better arrival. We'll just fly as seagulls and then land and then turn back into ourselves."
+        },
+        {
+          "startUid": "u1550",
+          "endUid": "u1550",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u1551",
+          "endUid": "u1556",
+          "quote": "DM: So when you land, or when you approach the ship as seagulls, you can see— there's like the deck. There's a decent number of people on the deck, look like largely sort of marines. But there's one one man who is like clearly— not clearly magical. He's he's standing near the mast. What."
+        },
+        {
+          "startUid": "u1567",
+          "endUid": "u1569",
+          "quote": "DM: So as soon as you, as soon as he's like watching, he doesn't necessarily notice the seagulls. But like as soon as you approach you know, land on the deck and begin to turn. He holds up his hand, he holds up his staff, and he casts a spell immediately, as you land."
+        },
+        {
+          "startUid": "u1835",
+          "endUid": "u1835",
+          "quote": "Kenzo: So Seeker still a bird, right?"
+        },
+        {
+          "startUid": "u1836",
+          "endUid": "u1836",
+          "quote": "Delwath: Also he's just a bird flying around."
+        },
+        {
+          "startUid": "u1837",
+          "endUid": "u1837",
+          "quote": "DM: Still a bird. He's just watching."
+        },
+        {
+          "startUid": "u1838",
+          "endUid": "u1838",
+          "quote": "Kenzo: He's not even inside the cage. Yeah."
+        }
+      ],
+      "from": "p09",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "fly as seagulls",
+      "locationContext": [
+        {
+          "subject": "p13",
+          "relation": "within",
+          "target": "p14"
+        },
+        {
+          "subject": "p13",
+          "relation": "downstream_of",
+          "target": "p10",
+          "note": "DM corrects the initial upstream wording to downstream, toward the ocean (u1533–u1539)."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1614",
+        "endUid": "u1626"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Tiberius confines the three adventurers in a force cage on the deck; Seeker 3 is separately outside it.",
+      "evidence": [
+        {
+          "startUid": "u1614",
+          "endUid": "u1616",
+          "quote": "DM: No, wait. I'm sorry, you don't get a Charisma saving throw. A— a cage 20 feet on a side appears around you, made of invisible force. Well, slightly shimmering force."
+        },
+        {
+          "startUid": "u1617",
+          "endUid": "u1617",
+          "quote": "Wellby: Hey? That's that's fine!"
+        },
+        {
+          "startUid": "u1618",
+          "endUid": "u1619",
+          "quote": "DM: And he puts down his staff. And then looks to you as as he approaches, and he says, \"Delwath, I presume.\""
+        },
+        {
+          "startUid": "u1620",
+          "endUid": "u1620",
+          "quote": "Kenzo: Hi, Tim, soul sight."
+        },
+        {
+          "startUid": "u1621",
+          "endUid": "u1623",
+          "quote": "DM: He is level 13. He's cautious and wary, but also somewhat curious."
+        },
+        {
+          "startUid": "u1624",
+          "endUid": "u1624",
+          "quote": "Kenzo: You said invisible force."
+        },
+        {
+          "startUid": "u1625",
+          "endUid": "u1626",
+          "quote": "DM: Yes, you can't actually see the bars, but like you can, you can sort of feel the cage around you. It's 20 feet on a side, so it catches all 3 of you."
+        },
+        {
+          "startUid": "u1835",
+          "endUid": "u1835",
+          "quote": "Kenzo: So Seeker still a bird, right?"
+        },
+        {
+          "startUid": "u1836",
+          "endUid": "u1836",
+          "quote": "Delwath: Also he's just a bird flying around."
+        },
+        {
+          "startUid": "u1837",
+          "endUid": "u1837",
+          "quote": "DM: Still a bird. He's just watching."
+        },
+        {
+          "startUid": "u1838",
+          "endUid": "u1838",
+          "quote": "Kenzo: He's not even inside the cage. Yeah."
+        }
+      ],
+      "place": "p13",
+      "note": "The temporary cage is not a separate geographic setting; the simulacrum is not included among its prisoners."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1852",
+        "endUid": "u1907"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Seeker 3"
+      ],
+      "reading": "Aboard Auratan’s Pride the group sails downriver beyond the harbor defenses, remaining on the vessel as the city recedes.",
+      "evidence": [
+        {
+          "startUid": "u1852",
+          "endUid": "u1853",
+          "quote": "DM: Let us, let us sail. Should this all go wrong, at least you will not be in the heart of the city."
+        },
+        {
+          "startUid": "u1854",
+          "endUid": "u1854",
+          "quote": "Kenzo: How does sailing help us ascertain truth?"
+        },
+        {
+          "startUid": "u1855",
+          "endUid": "u1855",
+          "quote": "DM: I'll feel safer dropping the cage."
+        },
+        {
+          "startUid": "u1856",
+          "endUid": "u1856",
+          "quote": "Wellby: Damage. Yeah. Alright."
+        },
+        {
+          "startUid": "u1857",
+          "endUid": "u1857",
+          "quote": "Kenzo: Okay, that's fine. Yeah, sure."
+        },
+        {
+          "startUid": "u1858",
+          "endUid": "u1864",
+          "quote": "DM: The wind is always waiting. And he closes his eyes, and he lifts up his staff, and there's like blue light, lightning begins to crackle up a bit, and then giant gust of wind begins blowing on the sail. But let's get a bit downriver. It will only take a few moments under full power. And he stands there. And Wellby, you have actually seen something like this before. When you were the only person who observed"
+        },
+        {
+          "startUid": "u1869",
+          "endUid": "u1872",
+          "quote": "DM: And it's only maybe about half an hour as the ship picks up steam that you sail downriver. Sun is setting, now, so you’re sailing right into the sunset. Sail past—there's like 2 2 fort, naval forts on the end. The giant chain they can raise to block the harbor, sail past the naval forts, past burning slums."
+        },
+        {
+          "startUid": "u1895",
+          "endUid": "u1900",
+          "quote": "DM: Half an hour passes as you pick up speed, just continually picking up speed faster and faster, until you're racing downriver at a very rapid clip, the city beginning to get smaller in the distance as the sun sets. And you there's a long stream of like, you know, the golden light of the sunset, you know, mixing with the the wake of the ship as it's moving under full sails and magical wind, creating a very pretty scene, until you know, 40 min or so has passed."
+        },
+        {
+          "startUid": "u1901",
+          "endUid": "u1907",
+          "quote": "DM: And he calls off the wind, and he says, turns to you and he says, I know it may seem like this is foolish, because if you truly were the next Fausto, a few miles of distance might not make, might not matter, for all know, you’d be able to teleport instantly to the heart of the Emperor’s palace, the Magistros’s palace, but it makes me feel better."
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p13",
+      "route": [
+        {
+          "reading": "Pass the two naval forts, the harbor-blocking chain and the burning slums."
+        }
+      ],
+      "duration": {
+        "value": 40,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s aggregate approximate voyage duration; repeated half-hour statements refer to this same journey."
+      },
+      "locationContext": [
+        {
+          "subject": "p13",
+          "relation": "within",
+          "target": "p15"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u2419",
+        "endUid": "u2421"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Kenzo and Delwath settle aboard Auratan’s Pride for the evening.",
+      "evidence": [
+        {
+          "startUid": "u2400",
+          "endUid": "u2403",
+          "quote": "DM: So, as we end, he is— Tiberius offers you a berth on the ship if you'd like to spend the night here, or you can still turn into birds for another 12 h, roughly."
+        },
+        {
+          "startUid": "u2404",
+          "endUid": "u2404",
+          "quote": "Kenzo: We don't have a place to stay other than Xavier's place, which is like we can't even stay there, so we just may as well stay."
+        },
+        {
+          "startUid": "u2405",
+          "endUid": "u2405",
+          "quote": "Delwath: Yeah, let's stay on the boat. Why not?"
+        },
+        {
+          "startUid": "u2406",
+          "endUid": "u2406",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u2407",
+          "endUid": "u2407",
+          "quote": "Wellby: Stay last time we were here?"
+        },
+        {
+          "startUid": "u2408",
+          "endUid": "u2409",
+          "quote": "Kenzo: Yeah, but it's too much trouble to go until we have— I'm also not pardoned yet."
+        },
+        {
+          "startUid": "u2410",
+          "endUid": "u2410",
+          "quote": "Delwath: Yeah, until we have like a pronouncement."
+        },
+        {
+          "startUid": "u2411",
+          "endUid": "u2411",
+          "quote": "DM: You just stayed in, and you just took rooms in an inn. Oh, no, you stayed with Kaeso last time, but Kaeso's fled to Mawar."
+        },
+        {
+          "startUid": "u2412",
+          "endUid": "u2412",
+          "quote": "Kenzo: Let's stay on the boat."
+        },
+        {
+          "startUid": "u2419",
+          "endUid": "u2421",
+          "quote": "DM: Okay, so we will end there as Kenzo and Delwath settle in for the evening on the naval ship with Tiberius. Wellby flies off to, flies back to the city to look for a halfling inn for the night."
+        }
+      ],
+      "place": "p13",
+      "note": "No return voyage or exact final anchorage is narrated after the downriver interview."
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2419",
+        "endUid": "u2421"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies back toward Chardon to seek a halfling inn for the night.",
+      "evidence": [
+        {
+          "startUid": "u2413",
+          "endUid": "u2414",
+          "quote": "Wellby: I think I think I think Wellby feels— feels the need to go find a a halfling inn and—"
+        },
+        {
+          "startUid": "u2415",
+          "endUid": "u2415",
+          "quote": "Delwath: Go for it. We'll meet up—"
+        },
+        {
+          "startUid": "u2416",
+          "endUid": "u2417",
+          "quote": "Wellby: Tomorrow will be, yeah. Awesome. Awesome. We'll see you in the morning."
+        },
+        {
+          "startUid": "u2418",
+          "endUid": "u2418",
+          "quote": "Delwath: Yeah, we'll be in touch."
+        },
+        {
+          "startUid": "u2419",
+          "endUid": "u2421",
+          "quote": "DM: Okay, so we will end there as Kenzo and Delwath settle in for the evening on the naval ship with Tiberius. Wellby flies off to, flies back to the city to look for a halfling inn for the night."
+        }
+      ],
+      "from": "p13",
+      "to": "p03",
+      "completion": "underway",
+      "mode": "fly",
+      "note": "The closing narration establishes departure and destination, not arrival at a particular inn."
+    }
+  ]
+}

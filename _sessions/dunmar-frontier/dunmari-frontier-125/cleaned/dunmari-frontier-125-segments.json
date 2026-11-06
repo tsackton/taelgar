@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-125",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-session.yaml",
+    "sessionYamlSha256": "95c09992bffe5103acb5f857413f0375555c4246fc7cc26d73bc134e2cf06129",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-transcript.md",
+    "transcriptSha256": "212ba8ec430f582eba74f9f42a9de279af09f391e838bc39011b1d55e8d90b09"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u1085"
+      },
+      "category": "gameplay",
+      "note": "The opening includes narrated prisoner recollections and a return to current play; these experiences are gameplay."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u1086",
+        "endUid": "u1116"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1117",
+        "endUid": "u2101"
+      },
+      "category": "gameplay",
+      "note": "The defensive spell, force cage and questioning aboard Auratan’s Pride never enter initiative or establish a repeated ordered turn cycle."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u2102",
+        "endUid": "u2140"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2141",
+        "endUid": "u2200"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2201",
+        "endUid": "u2234"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2235",
+        "endUid": "u2295"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2296",
+        "endUid": "u2304"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2305",
+        "endUid": "u2421"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2422",
+        "endUid": "u2453"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2454",
+        "endUid": "u2460"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-125",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-session.yaml",
+    "sessionYamlSha256": "95c09992bffe5103acb5f857413f0375555c4246fc7cc26d73bc134e2cf06129",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-transcript.md",
+    "transcriptSha256": "212ba8ec430f582eba74f9f42a9de279af09f391e838bc39011b1d55e8d90b09",
+    "yamlDates": {
+      "start": "1749-06-27",
+      "end": "1749-06-27"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0008"
+      },
+      "reading": "The opening ship scene shifts into retrospective experiences of the four prisoners.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0008",
+          "quote": "DM: Okay. So we begin on Vindristjarna, some 70 miles off the coast of Chardon, drifting among a fog bank in the Gulf of Chardon, and as we begin we flash back to the people that you freed: Valius, Vargus, Vola, and Hektor, all recently released, or in some fashion or another, from the prison of the Mirror of Soul Trapping, or from the prison of the Crown of Purity, or both."
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Valius",
+        "Vargus",
+        "Vola",
+        "Hektor"
+      ],
+      "note": "The following recollections describe altered subjective time in captivity, without an elapsed adventure duration or calendar date."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0078"
+      },
+      "reading": "The narration leaves the prisoner recollections and resumes the ship scene before the approach to Chardon.",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0073",
+          "quote": "DM: And from those memories of the still trapped Hektor, Vola, calmed from her anger by Kenzo's meditation, and Valius and Vargus let off from the ship in Tokra with coin, and a letter to introduce them to the Dunmari, and to let them find their own life far from Chardon. We turn now to Chardon, the city maybe 80, 90 miles away, a little bit inland."
+        },
+        {
+          "startUid": "u0074",
+          "endUid": "u0078",
+          "quote": "DM: Kenzo's friend Xavier, having given you information about where to to meet on the north bank, the slums known as the Chalyte Levels, and looking around, Seeker comes up from below muttering, \"Too busy reading. But an idea!\" \"You obviously need me, right?\" And he begins holding his hand up, and then he says, \"Another Seeker, please,\" and snaps his hand, casting Wish to cast Simulacrum."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01",
+          "note": "Returns from the retrospective prisoner frame to the ship established at the opening."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0131",
+        "endUid": "u0133"
+      },
+      "reading": "It is first light aboard Vindristjarna before the flight toward Chardon.",
+      "evidence": [
+        {
+          "startUid": "u0131",
+          "endUid": "u0133",
+          "quote": "DM: Yeah, it's gonna take, you know, a—picking the fastest bird, it's still gonna take, you know, 3, 4 h to fly to the coast. But it's it's first light right now, so you'll get there around noon, say."
+        }
+      ],
+      "time": {
+        "partOfDay": "first light",
+        "precision": "approximate",
+        "basis": "DM’s explicit current-time anchor; no calendar date is spoken."
+      },
+      "note": "The same turn forecasts a three-to-four-hour flight and noon arrival; the forecast is not a measured elapsed interval."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0634",
+        "endUid": "u0640"
+      },
+      "reading": "Delwath spends a few minutes reducing the conspicuousness of his equipment after transforming in the alley.",
+      "evidence": [
+        {
+          "startUid": "u0634",
+          "endUid": "u0640",
+          "quote": "Delwath: Yeah, but I'll take a few minutes. I mean, I'll just, you know, dress a little bit to look— I don't want to like hide having armor, but like my armor, pretty much tucks under clothes, anyway. Right? I don't mind if it peeks out a little bit, but like it's not going to be obvious, like. You know, and I'm not carrying a sword, I mean, I'll sling my shield under a cloak right? So it's not obvious. Not again, not like— not like really trying super hard to like look poor, but just hiding the most obvious. Like, yeah, really, it’s really only— it's really only my shield, which is like obviously crazy."
+        },
+        {
+          "startUid": "u0641",
+          "endUid": "u0642",
+          "quote": "DM: I mean, ring, the Ring of Sharp Mind, some things you can handle. I get what you're saying, minimizing the impact. But."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Declared preparation accepted by the DM before the group proceeds."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0710",
+        "endUid": "u0711"
+      },
+      "reading": "The DM retrospectively dates arrival in Chardon to around noon.",
+      "evidence": [
+        {
+          "startUid": "u0710",
+          "endUid": "u0711",
+          "quote": "DM: I mean, you got to Chardon at around noon. You might have spent like an hour flying around before you transformed. Early afternoon-ish."
+        }
+      ],
+      "time": {
+        "partOfDay": "noon",
+        "precision": "approximate",
+        "basis": "DM’s retrospective arrival anchor; absolute day is not spoken."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0710",
+        "endUid": "u0711"
+      },
+      "reading": "About an hour of aerial scouting follows arrival, placing the apartment conversation in the early afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0710",
+          "endUid": "u0711",
+          "quote": "DM: I mean, you got to Chardon at around noon. You might have spent like an hour flying around before you transformed. Early afternoon-ish."
+        }
+      ],
+      "time": {
+        "partOfDay": "early afternoon",
+        "precision": "approximate",
+        "basis": "DM’s stated current scene time."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s approximate retrospective scouting duration."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u0925",
+        "endUid": "u0927"
+      },
+      "reading": "In the projected view, Milo’s vessel stops for a minute before the whale’s fluke appears.",
+      "actors": [
+        "Milo"
+      ],
+      "context": "vision",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated pause on the remotely observed ship."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0925",
+          "endUid": "u0927",
+          "quote": "DM: So, looking from the mast, you can see Milo at the at the front of the ship, with like looking out, sort of sort of peering it at something. And then the the the ship suddenly stops for a minute, and you see, like a a a fluke of a giant whale sort of wave at him, and then he yells, \"It’s working, Tilly!\""
+        }
+      ],
+      "note": "This is the viewed vessel’s local interval, not an additional minute added to the party’s travel."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0997",
+        "endUid": "u1005"
+      },
+      "reading": "The party leaves for the Cackling Swan that evening; the market is now at 6:30 p.m.",
+      "evidence": [
+        {
+          "startUid": "u0997",
+          "endUid": "u0998",
+          "quote": "DM: So that evening, you set out through the short alleyway with Andros, or sorry with Xavier, to the Cackling Swan."
+        },
+        {
+          "startUid": "u0999",
+          "endUid": "u1005",
+          "quote": "DM: It's, you know, the the market is now like fairly empty at 6 30 PM. The tavern is moderately crowded. And it's, you know, it's clearly like— you know, this is the one place where where people still gather. Like a lot of the— a lot of the district has burned down. There's probably a lot of you know, you know, people who are destitute and and just kinda like trying to find a place to sleep. But you know, this is—"
+        }
+      ],
+      "time": {
+        "clock": "18:30",
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM states 6:30 PM during the evening departure/arrival transition."
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1869",
+        "endUid": "u1872"
+      },
+      "reading": "Auratan’s Pride sails downriver during sunset for about forty minutes in all.",
+      "evidence": [
+        {
+          "startUid": "u1869",
+          "endUid": "u1872",
+          "quote": "DM: And it's only maybe about half an hour as the ship picks up steam that you sail downriver. Sun is setting, now, so you’re sailing right into the sunset. Sail past—there's like 2 2 fort, naval forts on the end. The giant chain they can raise to block the harbor, sail past the naval forts, past burning slums."
+        },
+        {
+          "startUid": "u1884",
+          "endUid": "u1884",
+          "quote": "DM: Anyway, a half an hour passes roughly."
+        },
+        {
+          "startUid": "u1895",
+          "endUid": "u1900",
+          "quote": "DM: Half an hour passes as you pick up speed, just continually picking up speed faster and faster, until you're racing downriver at a very rapid clip, the city beginning to get smaller in the distance as the sun sets. And you there's a long stream of like, you know, the golden light of the sunset, you know, mixing with the the wake of the ship as it's moving under full sails and magical wind, creating a very pretty scene, until you know, 40 min or so has passed."
+        },
+        {
+          "startUid": "u1901",
+          "endUid": "u1907",
+          "quote": "DM: And he calls off the wind, and he says, turns to you and he says, I know it may seem like this is foolish, because if you truly were the next Fausto, a few miles of distance might not make, might not matter, for all know, you’d be able to teleport instantly to the heart of the Emperor’s palace, the Magistros’s palace, but it makes me feel better."
+        }
+      ],
+      "duration": {
+        "value": 40,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "The DM develops the same half-hour sailing passage into roughly forty minutes before stopping the wind."
+      },
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "The sailing narration repeatedly places the passage at sunset."
+      },
+      "completion": "completed",
+      "note": "The repeated half-hour statements recount the same passage; they are not separate advances."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2030",
+        "endUid": "u2037"
+      },
+      "reading": "Tiberius questions each party member in turn for three to four minutes without probing the Crown’s location.",
+      "evidence": [
+        {
+          "startUid": "u2030",
+          "endUid": "u2033",
+          "quote": "DM: So he continues this questioning for like 3, 4 min, basically sort of asking you each in turn. He does not. He's true to his word. He doesn't try to probe your like. He doesn't ask any questions about the current location of the Crown, or who has the crown. Every question is always phrased in like Is the crown in possession of an associate of Fausto’s? You know, Are you aware of a successor to Fausto? Did you help establish— did you help propagate the Cleansed beyond after Fausto’s death? Are you or any of your associates members of the Cleansed? It’s all like this. It’s not—"
+        },
+        {
+          "startUid": "u2035",
+          "endUid": "u2037",
+          "quote": "DM: So he's he's, he's like not trying to use your vulnerability to try and push on the location of the Crown or any other detail about the crown other than reassuring himself that you are not now, and never were, in cahoots with Fausto. That’s really what he wants to know."
+        }
+      ],
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s explicit elapsed questioning duration."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2046",
+        "endUid": "u2059"
+      },
+      "reading": "After questioning, the sun is setting into the ocean as Tiberius explains imperial policy.",
+      "evidence": [
+        {
+          "startUid": "u2046",
+          "endUid": "u2059",
+          "quote": "DM: Kind of the sun is now setting into the ocean, and he said, he kind of looks, he says, I will tell you, I don't know what role you had in Fausto's rise to power? I think none after this question, but the Magistros has seen this betrayal as a sign that the University has been far too concerned about, shall we say, material concerns, not enough about their own safety and the power that they wield. Fausto was able to manipulate so many of us because we were told It’s so important to find lost secrets, and it is now our imperial policy— well, I will let the Magistros speak to you, but you have been honest with me, and I will be honest with you. Do not go to him arguing for— I do not know what you wish, other than your pardon, which you will get—"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM’s renewed sunset anchor after the short interrogation."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2419",
+        "endUid": "u2421"
+      },
+      "reading": "Kenzo and Delwath settle in for the evening aboard the naval ship while Wellby flies back toward the city.",
+      "evidence": [
+        {
+          "startUid": "u2419",
+          "endUid": "u2421",
+          "quote": "DM: Okay, so we will end there as Kenzo and Delwath settle in for the evening on the naval ship with Tiberius. Wellby flies off to, flies back to the city to look for a halfling inn for the night."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Explicit closing narration."
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "note": "Sleeping, a completed rest, and the next morning are not played; the following morning is only a next-session plan."
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute date is spoken. June 27, 1749 is inherited entirely from YAML; the current adventure runs continuously from first light through that evening.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t03",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t10",
+      "t11"
+    ],
+    "explanation": "The fully read current-day sequence supports zero date transitions, conditional on the YAML start. The opening prison recollections and prior Tokra release are retrospective background, not elapsed current-day travel. The closing overnight and next morning are proposed, not completed."
+  }
+}
