@@ -1,0 +1,500 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-053",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-session.yaml",
+    "sessionYamlSha256": "98b3076978362c157f077b9f81ecfd20720f6c5257fd6023ce9d401a9d524ef3",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-transcript.md",
+    "transcriptSha256": "75516fdf5b067b4af32f6cf9c98d5d67aced0182dfe0908a1a056be360697e4a"
+  },
+  "places": {
+    "p01": {
+      "label": "Te'kula village",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0001",
+          "quote": "DM: Okay, so, short intro: as you are leaving the village of, of the Te'kula, following Theba and your friends back to the material world, keenly aware of the tanshi that seemed to hover just beyond your senses."
+        }
+      ],
+      "vaultPath": "Gazetteer/Central Highlands/Neshet.md",
+      "note": "Neshet identifies the Te'kula village in its canonical note; the opening occurs while leaving its pocket-dimensional refuge."
+    },
+    "p02": {
+      "label": "Path out of the collapsing pocket dimension",
+      "kind": "path",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0007",
+          "quote": "DM: You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of Birich'iko, the spirit of glass, in your vision. You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of Ch'ik'a as you almost feel the squashing of mud on your bare feet, through your armored boots.\n\nDM: As you walk, distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline of an unfamiliar island, a meadow of golden butterflies, a dense tropical forest. As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: \"Find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.\" And then you are hurtling towards the ground."
+        }
+      ]
+    },
+    "p03": {
+      "label": "Northern mountains",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0011",
+          "quote": "DM: It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come. Stretching to the west, rugged hills of mixed forest, the maples of the lower elevations already turning vibrant reds and yellows. The sun low in the sky casts a beautiful golden light across the forest and mountains. In the distance in the valleys, you see a hint of shadows, dark spots, with no obvious clouds drifting over the ground. In the next moment you find yourself on the ground in the pine forests about halfway up the mountains, watching the light of a flickering campfire in the evening a few hundred feet ahead of you."
+        },
+        {
+          "startUid": "u0151",
+          "endUid": "u0152",
+          "quote": "DM: Yeah, everything there, Ainumarya's to the south. A fair bit to the south, they are, and as you know, they, they—somebody draws like a crude map, just the mountain, the central mountains, and then draws the little chain of volcanoes that is Pandar, and you are like 200 miles south of Pandar. You're like way to the north."
+        },
+        {
+          "startUid": "u0203",
+          "endUid": "u0211",
+          "quote": "DM: Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the elves, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out. So you got that sort of story from this young boy Zevi who's guiding you.\n\nDM: And when you arrive, you know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the—there's the village clearing, there's like the tanshi tree and an altar, there's a big fire pit there, but the—it's, you know, everything's A-frames with like log—insulated log cabins and thatch roofs that go down to the ground. There's no pigs around, there's no chickens, there's no farm. There's some reindeer. But, you know, it's very, it's, it's clear you've gotten both far north and even in the two-day journey up several thousand feet, right, so you've gotten from maybe 2,000 to like five or 6,000. You're getting up to a decent elevation, all pines at this place."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Sentinels/Northern Sentinels.md",
+      "note": "Northern Sentinels resolves the far-northern mountain setting through the Ko'zula and the campaign record."
+    },
+    "p04": {
+      "label": "Pine-forest landing site",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0011",
+          "quote": "DM: It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come. Stretching to the west, rugged hills of mixed forest, the maples of the lower elevations already turning vibrant reds and yellows. The sun low in the sky casts a beautiful golden light across the forest and mountains. In the distance in the valleys, you see a hint of shadows, dark spots, with no obvious clouds drifting over the ground. In the next moment you find yourself on the ground in the pine forests about halfway up the mountains, watching the light of a flickering campfire in the evening a few hundred feet ahead of you."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0008",
+              "endUid": "u0011",
+              "quote": "DM: It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come. Stretching to the west, rugged hills of mixed forest, the maples of the lower elevations already turning vibrant reds and yellows. The sun low in the sky casts a beautiful golden light across the forest and mountains. In the distance in the valleys, you see a hint of shadows, dark spots, with no obvious clouds drifting over the ground. In the next moment you find yourself on the ground in the pine forests about halfway up the mountains, watching the light of a flickering campfire in the evening a few hundred feet ahead of you."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "First hunting camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0013",
+          "endUid": "u0023",
+          "quote": "DM: So, as you approach, you can almost sense what you will see before you see it. This is a hunting camp: about a dozen people carrying on the work of preparing the camp for the night. There's tents, fur blankets, several large elk and deer being butchered. Some already butchered, their skins salted, deer hides stretched between trees drying, a charcoal pit smoking as meat is dried for jerky.\n\nDM: As you approach, perhaps somewhat disoriented, you hear, you know, some whistles, some obvious calls of the watchers, the lookouts at the camp, and four or five of the people begin gathering bows and shields and heading towards the—sort of peering into the gloom of the shadows, looking at you, and one calls in Deno'qai, which, at this point, I'm going to say you've now learned to—"
+        },
+        {
+          "startUid": "u0034",
+          "endUid": "u0041",
+          "quote": "DM: They, they sort of move to surround you slightly and motion you forward into the sort of light of the, of the fire, and the man who's speaking, is calling out to you, is—\n\nDelwath: I'll reply in Deno'qai.\n\nDM: Right, middle aged, like a long salt and pepper tangled beard, bald head, holding a longbow, wearing scale mail armor with a shield slung on his back. A piece of mammoth tusk carved with a design around his neck. With his, his bow drawn, calls out again to you."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0008",
+              "endUid": "u0017",
+              "quote": "DM: It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come. Stretching to the west, rugged hills of mixed forest, the maples of the lower elevations already turning vibrant reds and yellows. The sun low in the sky casts a beautiful golden light across the forest and mountains. In the distance in the valleys, you see a hint of shadows, dark spots, with no obvious clouds drifting over the ground. In the next moment you find yourself on the ground in the pine forests about halfway up the mountains, watching the light of a flickering campfire in the evening a few hundred feet ahead of you.\n\nDM: I assume you walk toward a campfire.\n\nDM: So, as you approach, you can almost sense what you will see before you see it. This is a hunting camp: about a dozen people carrying on the work of preparing the camp for the night. There's tents, fur blankets, several large elk and deer being butchered. Some already butchered, their skins salted, deer hides stretched between trees drying, a charcoal pit smoking as meat is dried for jerky."
+            },
+            {
+              "startUid": "u0138",
+              "endUid": "u0146",
+              "quote": "DM: And, you know, this guy's like carving a little bed, and you can see, you know, just the feeling of the tanshi around strikes you. But in the morning you, you are taken by Zevi, this younger boy who leads you—lead you up the mountains about—it's about a two day journey, and during the trip he explains, \"You know, it's not, it's not safe to spend a long time down this low. We're only about 20, 30 miles from the Forest of Nightmares down here, and you never know what might sneak up in the night up the slopes.\""
+            }
+          ]
+        }
+      ],
+      "note": "This is Kaslan's camp near Delwath's landing; it is distinct from the later camp where the prospective companions wait."
+    },
+    "p06": {
+      "label": "Ko'zula village",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0205",
+          "endUid": "u0217",
+          "quote": "DM: And when you arrive, you know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the—there's the village clearing, there's like the tanshi tree and an altar, there's a big fire pit there, but the—it's, you know, everything's A-frames with like log—insulated log cabins and thatch roofs that go down to the ground. There's no pigs around, there's no chickens, there's no farm. There's some reindeer. But, you know, it's very, it's, it's clear you've gotten both far north and even in the two-day journey up several thousand feet, right, so you've gotten from maybe 2,000 to like five or 6,000. You're getting up to a decent elevation, all pines at this place.\n\nDM: As you arrive in the afternoon you're greeted by Ninu, who's the chief and sort of lore keeper of the village, in her late 40s, early 50s. Dirty blonde hair with hints of gray at the temples that she wears loose and long. Dresses in buckskin sort of dyed reds and browns. And like, as when you arrive, like no messenger has gone ahead, but Zevi runs ahead and just like warns people, and there's like a whole gathering of people come to greet you, and they are—you know, there's, it's a, it's October 2, but it's, it's, you know, one of those sort of early fall days that still—"
+        }
+      ],
+      "vaultPath": "Gazetteer/Central Highlands/Azkar.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0205",
+              "endUid": "u0211",
+              "quote": "DM: And when you arrive, you know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the—there's the village clearing, there's like the tanshi tree and an altar, there's a big fire pit there, but the—it's, you know, everything's A-frames with like log—insulated log cabins and thatch roofs that go down to the ground. There's no pigs around, there's no chickens, there's no farm. There's some reindeer. But, you know, it's very, it's, it's clear you've gotten both far north and even in the two-day journey up several thousand feet, right, so you've gotten from maybe 2,000 to like five or 6,000. You're getting up to a decent elevation, all pines at this place."
+            }
+          ]
+        }
+      ],
+      "note": "Session 53 (DuFr) and Ninu identify this village as Azkar. The Azkar stub places it in Forest of Dreams and flags geography/name review; that vault-only containment is not asserted here."
+    },
+    "p07": {
+      "label": "Hunting camp of the stoneborn and wildfire druid",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0348",
+          "endUid": "u0354",
+          "quote": "DM: \"There is a stoneborn in hunting camp near here who has traveled the Forest of Nightmares herself and seen some of these ancient battlefields and brought us stories of the dead. A giant demon corpse lying in a forest clearing with a dark armband on its wrist.\""
+        },
+        {
+          "startUid": "u0461",
+          "endUid": "u0463",
+          "quote": "DM: Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so [garbled], yeah. And it's a, it's about a day's journey straight down the mountain to the, the hunting camp, where you will meet the stoneborn and the wildfire druid."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0461",
+              "endUid": "u0463",
+              "quote": "DM: Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so [garbled], yeah. And it's a, it's about a day's journey straight down the mountain to the, the hunting camp, where you will meet the stoneborn and the wildfire druid."
+            }
+          ]
+        }
+      ],
+      "note": "The destination is described as straight down the mountain; its exact site and arrival are not established in this session."
+    },
+    "p08": {
+      "label": "Unfamiliar island coastline",
+      "kind": "coast",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "DM: As you walk, distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline of an unfamiliar island, a meadow of golden butterflies, a dense tropical forest. As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: \"Find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.\" And then you are hurtling towards the ground."
+        }
+      ]
+    },
+    "p09": {
+      "label": "Meadow of golden butterflies",
+      "kind": "meadow",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "DM: As you walk, distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline of an unfamiliar island, a meadow of golden butterflies, a dense tropical forest. As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: \"Find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.\" And then you are hurtling towards the ground."
+        }
+      ]
+    },
+    "p10": {
+      "label": "Dense tropical forest",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "DM: As you walk, distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline of an unfamiliar island, a meadow of golden butterflies, a dense tropical forest. As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: \"Find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.\" And then you are hurtling towards the ground."
+        }
+      ]
+    },
+    "p11": {
+      "label": "Distant shadowed valleys",
+      "kind": "valley",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0011",
+          "quote": "DM: It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come. Stretching to the west, rugged hills of mixed forest, the maples of the lower elevations already turning vibrant reds and yellows. The sun low in the sky casts a beautiful golden light across the forest and mountains. In the distance in the valleys, you see a hint of shadows, dark spots, with no obvious clouds drifting over the ground. In the next moment you find yourself on the ground in the pine forests about halfway up the mountains, watching the light of a flickering campfire in the evening a few hundred feet ahead of you."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "Delwath",
+        "Theba",
+        "Kenzo",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "The group leaves the Te'kula village through the splintering path; the collapse separates Delwath from his companions.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: Okay, so, short intro: as you are leaving the village of, of the Te'kula, following Theba and your friends back to the material world, keenly aware of the tanshi that seemed to hover just beyond your senses.\n\nDM: You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of Birich'iko, the spirit of glass, in your vision. You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of Ch'ik'a as you almost feel the squashing of mud on your bare feet, through your armored boots.\n\nDM: As you walk, distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline of an unfamiliar island, a meadow of golden butterflies, a dense tropical forest. As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: \"Find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.\" And then you are hurtling towards the ground."
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "interrupted",
+      "mode": "walk"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath glimpses a ship approaching an unfamiliar jagged island coastline among the collapse images, without a confirmed physical visit.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "DM: As you walk, distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline of an unfamiliar island, a meadow of golden butterflies, a dense tropical forest. As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: \"Find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.\" And then you are hurtling towards the ground."
+        }
+      ],
+      "place": "p08",
+      "mode": "vision",
+      "context": "vision",
+      "note": "The jumbled images do not assign a particular companion to this place."
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath glimpses a meadow of golden butterflies among the collapse images, without a confirmed physical visit.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "DM: As you walk, distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline of an unfamiliar island, a meadow of golden butterflies, a dense tropical forest. As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: \"Find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.\" And then you are hurtling towards the ground."
+        }
+      ],
+      "place": "p09",
+      "mode": "vision",
+      "context": "vision",
+      "note": "The jumbled images do not assign a particular companion to this place."
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath glimpses a dense tropical forest among the collapse images, without a confirmed physical visit.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0007",
+          "quote": "DM: As you walk, distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline of an unfamiliar island, a meadow of golden butterflies, a dense tropical forest. As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: \"Find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.\" And then you are hurtling towards the ground."
+        }
+      ],
+      "place": "p10",
+      "mode": "vision",
+      "context": "vision",
+      "note": "The jumbled images do not assign a particular companion to this place."
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0011"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath lands in pine forest halfway up the northern mountains, a few hundred feet from a campfire.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0011",
+          "quote": "DM: It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come. Stretching to the west, rugged hills of mixed forest, the maples of the lower elevations already turning vibrant reds and yellows. The sun low in the sky casts a beautiful golden light across the forest and mountains. In the distance in the valleys, you see a hint of shadows, dark spots, with no obvious clouds drifting over the ground. In the next moment you find yourself on the ground in the pine forests about halfway up the mountains, watching the light of a flickering campfire in the evening a few hundred feet ahead of you."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "magical displacement"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0011"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "While falling, Delwath sees unexplained dark patches drifting over distant valleys.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0011",
+          "quote": "DM: It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come. Stretching to the west, rugged hills of mixed forest, the maples of the lower elevations already turning vibrant reds and yellows. The sun low in the sky casts a beautiful golden light across the forest and mountains. In the distance in the valleys, you see a hint of shadows, dark spots, with no obvious clouds drifting over the ground. In the next moment you find yourself on the ground in the pine forests about halfway up the mountains, watching the light of a flickering campfire in the evening a few hundred feet ahead of you."
+        }
+      ],
+      "place": "p11",
+      "mode": "local",
+      "note": "The source does not identify these shadows as the Forest of Nightmares or establish a visit to the valleys."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0012",
+        "endUid": "u0035"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath approaches the hunting camp and is motioned into the firelight.",
+      "evidence": [
+        {
+          "startUid": "u0012",
+          "endUid": "u0023",
+          "quote": "DM: I assume you walk toward a campfire.\n\nDM: So, as you approach, you can almost sense what you will see before you see it. This is a hunting camp: about a dozen people carrying on the work of preparing the camp for the night. There's tents, fur blankets, several large elk and deer being butchered. Some already butchered, their skins salted, deer hides stretched between trees drying, a charcoal pit smoking as meat is dried for jerky.\n\nDM: As you approach, perhaps somewhat disoriented, you hear, you know, some whistles, some obvious calls of the watchers, the lookouts at the camp, and four or five of the people begin gathering bows and shields and heading towards the—sort of peering into the gloom of the shadows, looking at you, and one calls in Deno'qai, which, at this point, I'm going to say you've now learned to—"
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0035",
+          "quote": "Delwath: I'll call out, \"A traveler. I'm lost in these woods. I've come from far away.\"\n\nDM: They, they sort of move to surround you slightly and motion you forward into the sort of light of the, of the fire, and the man who's speaking, is calling out to you, is—"
+        },
+        {
+          "startUid": "u0074",
+          "endUid": "u0085",
+          "quote": "Delwath: Okay, so I'm—Delwath will, well, sort of walk around, say, \"I was born in Ainumarya. Most recently, though, I was—\" Wait, hold that. How far away did, did he appear? Like this was only a 500 feet, right, or something like that?\n\nDM: Yeah.\n\nUnknown: Okay.\n\nDelwath: \"After many twisted pathways I found my way to the Tinitaka, right, was a guest of the Te'kula. People like yourselves, I believe. Most recently—\" He kind of walks back behind him 500 feet. \"Out 500 feet that way. How I got there I'm not sure.\""
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 500,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "Delwath recalls a roughly 500-foot approach and the DM agrees at u0074-u0085."
+      }
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0138",
+        "endUid": "u0146"
+      },
+      "actors": [
+        "Delwath",
+        "Zevi"
+      ],
+      "reading": "Zevi guides Delwath uphill from the first camp to the village, arriving in the afternoon after about two days.",
+      "evidence": [
+        {
+          "startUid": "u0138",
+          "endUid": "u0146",
+          "quote": "DM: And, you know, this guy's like carving a little bed, and you can see, you know, just the feeling of the tanshi around strikes you. But in the morning you, you are taken by Zevi, this younger boy who leads you—lead you up the mountains about—it's about a two day journey, and during the trip he explains, \"You know, it's not, it's not safe to spend a long time down this low. We're only about 20, 30 miles from the Forest of Nightmares down here, and you never know what might sneak up in the night up the slopes.\""
+        },
+        {
+          "startUid": "u0205",
+          "endUid": "u0217",
+          "quote": "DM: And when you arrive, you know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the—there's the village clearing, there's like the tanshi tree and an altar, there's a big fire pit there, but the—it's, you know, everything's A-frames with like log—insulated log cabins and thatch roofs that go down to the ground. There's no pigs around, there's no chickens, there's no farm. There's some reindeer. But, you know, it's very, it's, it's clear you've gotten both far north and even in the two-day journey up several thousand feet, right, so you've gotten from maybe 2,000 to like five or 6,000. You're getting up to a decent elevation, all pines at this place.\n\nDM: As you arrive in the afternoon you're greeted by Ninu, who's the chief and sort of lore keeper of the village, in her late 40s, early 50s. Dirty blonde hair with hints of gray at the temples that she wears loose and long. Dresses in buckskin sort of dyed reds and browns. And like, as when you arrive, like no messenger has gone ahead, but Zevi runs ahead and just like warns people, and there's like a whole gathering of people come to greet you, and they are—you know, there's, it's a, it's October 2, but it's, it's, you know, one of those sort of early fall days that still—"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "The DM narrates a two-day upslope journey and confirms the duration at arrival."
+      },
+      "route": [
+        {
+          "reading": "Ascend from about 2,000 feet to about 5,000–6,000 feet into pine-covered high slopes."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u0147",
+        "endUid": "u0150"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "The table revisits the first camp before departure for geographic questions and campfire stories.",
+      "place": "p05",
+      "context": "flashback",
+      "evidence": [
+        {
+          "startUid": "u0147",
+          "endUid": "u0152",
+          "quote": "Delwath: Before we leave camp, actually, does any of them have any geographic sense? Like has any of them traveled far enough to have any way of sort of positioning us? Like how far north, like even which direction we are from Ainu—\n\nDM: Yeah, everything there, Ainumarya's to the south. A fair bit to the south, they are, and as you know, they, they—somebody draws like a crude map, just the mountain, the central mountains, and then draws the little chain of volcanoes that is Pandar, and you are like 200 miles south of Pandar. You're like way to the north."
+        },
+        {
+          "startUid": "u0153",
+          "endUid": "u0174",
+          "quote": "Delwath: I want to—I mean, at some point, maybe in the night, but—or maybe just this guy—Delwath will express some curiosity and stories of how they survived the Great War. They must have myths and legends.\n\nDM: Oh yeah, so yeah, he tells you they—so most of them did, and there were once many tribes, the only one that survived—the only two tribes that survived the Great War were, were there's the Ko'zula and the Shu'anra who live further to the south.\n\nDM: And, and tells you like, you know, \"Ninu knows the legends, she'll tell you more, but there were many great battles and silent ones sacrificed themselves for our safety. And we fled into the mountains and fled to the protection of the stoneborn and lived in the high peaks for a generation sheltered by—in stoneborn refuges.\" You know, the myth anyway is they only escaped because the six silent ones sacrificed to delay Cha'mutte's troops long enough.\n\nDelwath: I will recount the tale of Yezali, but from like a first person perspective, right, way—right, I mean I feel like I'm not going to dig it up, but there was a fairly detailed description in the dream, so like—\n\nDelwath: Yes, maybe around the campfire, like if the story is coming out right now, Delwath will just take the opportunity to sort of share, and, and pitch it as kind of like, not he was there, but \"I saw this through Yezali's eyes.\"\n\nDM: So they, I mean they recognize some part of fighting the giant demon is like that's the Battle of Darkfire, that's a huge, like a major—right, legend, that Yezali sacrificed himself, themselves, with them during the Battle of Darkfire to prevent the forest from burning entirely."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0461",
+        "endUid": "u0463"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "After the village stay and equipment gift, Delwath sets off down the mountain toward the second camp; the next session will pick up at the meeting.",
+      "evidence": [
+        {
+          "startUid": "u0461",
+          "endUid": "u0463",
+          "quote": "DM: Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so [garbled], yeah. And it's a, it's about a day's journey straight down the mountain to the, the hunting camp, where you will meet the stoneborn and the wildfire druid."
+        },
+        {
+          "startUid": "u0499",
+          "endUid": "u0499",
+          "quote": "DM: So he gives you these things, and then you set off and then that's where we'll pick up when you come to the camp and meet the other characters on Thursday."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "underway",
+      "mode": "walk",
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM forecasts about one day to the camp; the transcript establishes departure only."
+      }
+    }
+  ]
+}

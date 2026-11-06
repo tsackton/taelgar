@@ -1,0 +1,278 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-053",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-session.yaml",
+    "sessionYamlSha256": "98b3076978362c157f077b9f81ecfd20720f6c5257fd6023ce9d401a9d524ef3",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-transcript.md",
+    "transcriptSha256": "75516fdf5b067b4af32f6cf9c98d5d67aced0182dfe0908a1a056be360697e4a",
+    "yamlDates": {
+      "start": "1748-09-30",
+      "end": "1748-10-06"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0011"
+      },
+      "reading": "Delwath lands in the northern mountain forest in late afternoon, tending toward dusk.",
+      "actors": [
+        "Delwath"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0011",
+          "quote": "DM: It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come. Stretching to the west, rugged hills of mixed forest, the maples of the lower elevations already turning vibrant reds and yellows. The sun low in the sky casts a beautiful golden light across the forest and mountains. In the distance in the valleys, you see a hint of shadows, dark spots, with no obvious clouds drifting over the ground. In the next moment you find yourself on the ground in the pine forests about halfway up the mountains, watching the light of a flickering campfire in the evening a few hundred feet ahead of you."
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon tending toward dusk",
+        "precision": "approximate",
+        "basis": "DM states the local time at landing."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0129",
+        "endUid": "u0133"
+      },
+      "reading": "Delwath is invited to share the hunting camp for the evening; he stays through the following morning.",
+      "actors": [
+        "Delwath"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0129",
+          "endUid": "u0137",
+          "quote": "DM: \"With the—she will want to hear. Because it is a two day journey, please share camp for the evening.\" Hello, like, \"Zevi can guide you in the morning.\" Gestures to like a younger boy.\n\nDM: So, you know, you, you spend some time with them that, you know, it's, um—it, it does feel like strangely familiar to you, and almost as if you're also seeing everything like it—like there's just a lot of deja vu, right? Like, oh, you know, they'll—before eating some of this, this fresh deer, they, you know, make a little offering to A'gaza, the, the tanshi of deer and elk and reindeer."
+        },
+        {
+          "startUid": "u0138",
+          "endUid": "u0146",
+          "quote": "DM: And, you know, this guy's like carving a little bed, and you can see, you know, just the feeling of the tanshi around strikes you. But in the morning you, you are taken by Zevi, this younger boy who leads you—lead you up the mountains about—it's about a two day journey, and during the trip he explains, \"You know, it's not, it's not safe to spend a long time down this low. We're only about 20, 30 miles from the Forest of Nightmares down here, and you never know what might sneak up in the night up the slopes.\""
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "evening",
+          "precision": "approximate",
+          "basis": "Camp invitation and evening meal."
+        },
+        "end": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM advances to the morning departure with Zevi."
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0138",
+        "endUid": "u0146"
+      },
+      "reading": "Zevi leads Delwath uphill from the hunting camp in the morning; after about two days they reach the village on October 2 in the afternoon.",
+      "actors": [
+        "Delwath",
+        "Zevi"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0138",
+          "endUid": "u0146",
+          "quote": "DM: And, you know, this guy's like carving a little bed, and you can see, you know, just the feeling of the tanshi around strikes you. But in the morning you, you are taken by Zevi, this younger boy who leads you—lead you up the mountains about—it's about a two day journey, and during the trip he explains, \"You know, it's not, it's not safe to spend a long time down this low. We're only about 20, 30 miles from the Forest of Nightmares down here, and you never know what might sneak up in the night up the slopes.\""
+        },
+        {
+          "startUid": "u0205",
+          "endUid": "u0217",
+          "quote": "DM: And when you arrive, you know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the—there's the village clearing, there's like the tanshi tree and an altar, there's a big fire pit there, but the—it's, you know, everything's A-frames with like log—insulated log cabins and thatch roofs that go down to the ground. There's no pigs around, there's no chickens, there's no farm. There's some reindeer. But, you know, it's very, it's, it's clear you've gotten both far north and even in the two-day journey up several thousand feet, right, so you've gotten from maybe 2,000 to like five or 6,000. You're getting up to a decent elevation, all pines at this place.\n\nDM: As you arrive in the afternoon you're greeted by Ninu, who's the chief and sort of lore keeper of the village, in her late 40s, early 50s. Dirty blonde hair with hints of gray at the temples that she wears loose and long. Dresses in buckskin sort of dyed reds and browns. And like, as when you arrive, like no messenger has gone ahead, but Zevi runs ahead and just like warns people, and there's like a whole gathering of people come to greet you, and they are—you know, there's, it's a, it's October 2, but it's, it's, you know, one of those sort of early fall days that still—"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM narrates a two-day journey and repeats it at arrival; this is not a count of two additional nights."
+      },
+      "completion": "completed",
+      "timeRange": {
+        "start": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "Explicit departure after the hunting-camp evening."
+        },
+        "end": {
+          "date": {
+            "month": 10,
+            "day": 2
+          },
+          "partOfDay": "afternoon",
+          "precision": "approximate",
+          "basis": "Month/day and afternoon are spoken; the year is not independently stated."
+        }
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0147",
+        "endUid": "u0150"
+      },
+      "reading": "Play returns to the hunting camp before departure to resolve Delwath's geographical questions and the exchange of survival stories.",
+      "actors": [
+        "Delwath"
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t03",
+          "anchor": "the start of Zevi's journey from the camp"
+        },
+        "precision": "approximate",
+        "basis": "Delwath explicitly reopens business before leaving camp; the later campfire suggestion leaves evening versus morning open."
+      },
+      "evidence": [
+        {
+          "startUid": "u0147",
+          "endUid": "u0152",
+          "quote": "Delwath: Before we leave camp, actually, does any of them have any geographic sense? Like has any of them traveled far enough to have any way of sort of positioning us? Like how far north, like even which direction we are from Ainu—\n\nDM: Yeah, everything there, Ainumarya's to the south. A fair bit to the south, they are, and as you know, they, they—somebody draws like a crude map, just the mountain, the central mountains, and then draws the little chain of volcanoes that is Pandar, and you are like 200 miles south of Pandar. You're like way to the north."
+        },
+        {
+          "startUid": "u0153",
+          "endUid": "u0174",
+          "quote": "Delwath: I want to—I mean, at some point, maybe in the night, but—or maybe just this guy—Delwath will express some curiosity and stories of how they survived the Great War. They must have myths and legends.\n\nDM: Oh yeah, so yeah, he tells you they—so most of them did, and there were once many tribes, the only one that survived—the only two tribes that survived the Great War were, were there's the Ko'zula and the Shu'anra who live further to the south.\n\nDM: And, and tells you like, you know, \"Ninu knows the legends, she'll tell you more, but there were many great battles and silent ones sacrificed themselves for our safety. And we fled into the mountains and fled to the protection of the stoneborn and lived in the high peaks for a generation sheltered by—in stoneborn refuges.\" You know, the myth anyway is they only escaped because the six silent ones sacrificed to delay Cha'mutte's troops long enough.\n\nDelwath: I will recount the tale of Yezali, but from like a first person perspective, right, way—right, I mean I feel like I'm not going to dig it up, but there was a fairly detailed description in the dream, so like—\n\nDelwath: Yes, maybe around the campfire, like if the story is coming out right now, Delwath will just take the opportunity to sort of share, and, and pitch it as kind of like, not he was there, but \"I saw this through Yezali's eyes.\"\n\nDM: So they, I mean they recognize some part of fighting the giant demon is like that's the Battle of Darkfire, that's a huge, like a major—right, legend, that Yezali sacrificed himself, themselves, with them during the Battle of Darkfire to prevent the forest from burning entirely."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0175",
+        "endUid": "u0176"
+      },
+      "reading": "Narration resumes the couple-of-days journey with Zevi after the retrospective camp exchange.",
+      "actors": [
+        "Delwath",
+        "Zevi"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0175",
+          "endUid": "u0180",
+          "quote": "DM: So everybody's like super, like kind of in awe at this point, and so you spend the—so also Zevi talks on this, a couple of days' journey, about how like nobody goes, you can't go to the Forest of Dreams, but the animals live—\n\nDelwath: [garbled] of nightmares or the Forest—Forest of Nightmares, it used to be called Forest of Dreams.\n\nDM: [garbled].\n\nDM: But the best hunting is, you know, once you get down out of the high mountains, like where that—once you get down to where the birches and maples are, and so they'll set these hunting camps in the fall and hunt and preserve meat and then retreat back to the villages after a week."
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0233",
+        "endUid": "u0237"
+      },
+      "reading": "Ninu speaks privately with Delwath in the firelight after the arrival feast.",
+      "actors": [
+        "Delwath"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0233",
+          "endUid": "u0237",
+          "quote": "DM: Yes, but they're carrying a big table out to the green, they're like clearly setting up a big feast. You see like, you know, freshly butchered deer, there's like pine brandy, like jars of jam being opened, and, you know, like as you're eating or after you eat this sort of elaborate meal she sort of takes you, takes you aside, and she—I mean everybody is kind of, you know, in—not exactly in awe, but like sort of very, you know, excited to see not only an elf but somebody who claims that Yezali is still around, or who claims that Yezali speaks through him. And so you're treated as a guest of honor, and then, um, you know, she, she, she comes up to you sort of in the firelight after dinner and sitting sort of privately and talks to you and says—"
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "relative": {
+          "relation": "after",
+          "reference": "t03",
+          "anchor": "the afternoon village arrival at the end of the journey"
+        },
+        "precision": "approximate",
+        "basis": "Firelight after dinner follows the afternoon arrival."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0421",
+        "endUid": "u0423"
+      },
+      "reading": "Departure initially shifts to the next day, then the table extends the village stay to two days.",
+      "actors": [
+        "Delwath"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0421",
+          "endUid": "u0442",
+          "quote": "DM: So she, you know, your conversation eventually peters off, and before you leave for the camp the next day, the Godcaller of this tribe—I mean all the end.\n\nDelwath: All—and there's no reason, like is there any sense of urgency here? I mean presumably—no, there's no rush, right? Like I wouldn't spend day—yes, yeah, I mean, obviously, a few days, but it feels like I want to tell a few stories and hear a few stories. I mean I'm no Kenzo, but still, like—right, it feels a bit like Delwath would want to hear stories, especially Yezali, and, you know, take, just take a day to hang out in the village and like—\n\nDM: Oh yeah, that makes sense.\n\nDelwath: Like, just, just talk, really, basically, right? Like from—just from sort of getting to know these people in these stories, and like, you know, getting—getting to know the new, his new—yeah, the, the, the tanshi who are sort of listening to him, right? Like, and right, just kind of observing their culture, like he's very curious about their culture and sort of feels, right, in some—\n\nDM: There's a lot of similarities to the, to the Te'kula. Yeah, right, which where he spent some time. The difference, a lot of the difference that—I mean the religion is very similar, that they, they worship different tanshi, some different tanshi, like, you know, there's more focused on—you know, they have A'gaza, spirit of the deer and the reindeer and caribou and elk. There's like more fire, like Istari the spirit of the forest fires, and Mo'kati the spirit of like warmth and—"
+        },
+        {
+          "startUid": "u0456",
+          "endUid": "u0463",
+          "quote": "Delwath: There's no—there's just more kind of, he feels like a little bit on sort of interior journey, like it almost feels like a conversion, right? Right, so he'd spend a little bit of time, like again, it doesn't matter from, from—\n\nDM: I don't know.\n\nDelwath: Any word, I mean it's just a few days, just kind of maybe a day or two, just kind of in the village.\n\nDM: Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so [garbled], yeah. And it's a, it's about a day's journey straight down the mountain to the, the hunting camp, where you will meet the stoneborn and the wildfire druid."
+        },
+        {
+          "startUid": "u0499",
+          "endUid": "u0499",
+          "quote": "DM: So he gives you these things, and then you set off and then that's where we'll pick up when you come to the camp and meet the other characters on Thursday."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "The proposed next-day departure is superseded by the accepted two-day stay at u0461-u0463; endpoints are not specified."
+      },
+      "completion": "completed",
+      "note": "The two days may describe the total stay or two days after arrival; no departure date or watch is spoken."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "October 2 is spoken at village arrival. Year 1748 and the September 30 opening date come from YAML. The earlier ten-day Te'kula stay and historical battles/destruction are background, not added current-session elapsed time.",
+    "expectedDateBoundaries": 6,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t06",
+      "t07",
+      "t04",
+      "t05"
+    ],
+    "explanation": "A camp night and approximate two-day ascent fit a September 30 opening and October 2 arrival. The accepted two-day village stay has open endpoints. The source ends at departure, with the subsequent one-day journey only forecast; no October 6 endpoint is independently established. Missing coverage is not a contradiction."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t05"
+      ],
+      "reading": "The session ends after departure begins; the two-day village interval does not fix the departure date.",
+      "alternatives": [
+        {
+          "reading": "If two days includes the arrival day or runs roughly 48 hours from arrival, departure can be around October 4."
+        },
+        {
+          "reading": "If two full days follow the October 2 arrival, departure can be October 5; the forecast next-day camp arrival is outside the completed play."
+        }
+      ]
+    }
+  ]
+}
