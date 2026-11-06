@@ -34,6 +34,11 @@
           "id": "e004",
           "role": "cameo",
           "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
         }
       ],
       "source": {
@@ -82,6 +87,16 @@
           "id": "e006",
           "role": "star",
           "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
         }
       ],
       "source": {
@@ -341,6 +356,11 @@
         },
         {
           "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
           "role": "supporting",
           "action": "mentioned"
         }
