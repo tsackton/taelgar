@@ -1,0 +1,777 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "79741912e120b66be6168ab6f92155e3c5c2324077837eb101ae9a391e411a9b"
+    },
+    "entityMap": {
+      "path": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-entity-map.json",
+      "sha256": "5650965b9161a4966c0896d7892a9c8ed157edc9b2ec4a22bb90c31583b5e3fd"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Eidrikas holds the broken machine together and asks for the stolen stone",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0099"
+      },
+      "lines": [
+        "%% u0025:0-31, u0026:0-22, u0027:0-29, u0028:0-96, u0029:0-5, u0030:0-235, u0031:0-151, u0032:0-53, u0033:0-10 %%",
+        "DM: And then, in the… one… sort of… corner of the… of the, of this slab. A small figure, cross-legged, sitting, sort of, cross-legged, like, hunched over, with their arms stretched out, like, stuck in, almost, not, like, into the stone, but, like, grasping at two of the runes. And as, you know, you can see this small figure down below, the light flows through their body, and, like, you… sparks come out, right? And you… you… sort of see, and then it dissipates, and it calms for a minute, and then a few minutes later, another jolt of it, of this… of this blue sparking light flows through their body. And this is, Eidrikas, the… the elder…",
+        "",
+        "%% u0034:0-13 %%",
+        "Eolo: I don't know.",
+        "",
+        "%% u0035:0-87, u0036:0-22, u0037:0-12, u0038:0-14, u0039:0-14 %%",
+        "DM: Druid of the Vejo Vaikai, one of the… one of the caretakers of the Great Chasm, who is… holding together this unexplained runic machine with his body.",
+        "",
+        "%% u0040:0-79, u0041:0-20, u0042:0-136, u0043:0-290, u0044:0-117, u0045:0-4, u0046:0-214, u0047:0-21, u0048:0-14, u0049:0-6, u0050:0-50, u0051:0-6, u0052:0-16, u0053:0-30, u0054:0-60, u0055:0-19, u0056:0-11, u0057:0-4, u0058:0-21, u0059:0-19, u0060:0-4 %%",
+        "((Platform description and clarification))",
+        "",
+        "%% u0061:0-9, u0062:0-45, u0063:0-28, u0064:0-88, u0065:0-32, u0066:0-28, u0067:0-33, u0068:0-8, u0069:0-26, u0070:0-44 %%",
+        "DM: Eidrikas, as you… as Ekko flies back up to the… to the… floating rock up in the sky near the cliff to sort of share Eidrikas' story. You know, you recall Ekko told you that Eidrikas came across these orcs camped out on this platform. They had been here for some time, and had… you know, weeks, probably. It had… it had killed… a group of Stoneborn.",
+        "",
+        "%% u0071:0-143, u0072:0-13, u0073:0-50, u0074:0-64, u0075:0-96 %%",
+        "DM: How this group of orcs and Stoneborn got to this platform, Eidrikas doesn't know. But there'd been a battle between the orcs and the Stoneborn. The orcs won, and had been camped out on this, on this platform, you know, eating the meat from the Stoneborn bodies, and… maybe… I don't know, doing… doing unknown, you know, Eidrikas doesn't really know what they were doing.",
+        "",
+        "%% u0076:0-87, u0077:0-61, u0078:0-81, u0079:0-111 %%",
+        "DM: Eidrikas and the Kenku, the two, Pakrinek and another Kenku warrior from the monastery came across these orcs, and the second battle ensued in which some of the orcs died, the, two of the Kenku were killed, and then the orcs fled with a stone, with, like, this… this dark black stone that is a piece of the… of the machinery. A piece of the…",
+        "",
+        "%% u0080:0-8 %%",
+        "Eolo: Alright.",
+        "",
+        "%% u0081:0-49, u0082:0-48, u0083:0-34, u0084:0-58, u0085:0-42 %%",
+        "DM: And they had fled with this stone, down into the… this cylindrical structure beneath the platform. And Eidrikas could not chase them, because he stopped to… to try to hold together the energy that used to be flowing through the stone.",
+        "",
+        "%% u0086:0-143, u0087:0-53, u0088:0-6, u0089:0-119 %%",
+        "((Cross-campaign comparison))",
+        "",
+        "%% u0090:0-111, u0091:0-21, u0092:0-10, u0093:0-107, u0094:0-111, u0095:0-16, u0096:0-47, u0097:0-135 %%",
+        "DM: Yeah? And so, Eidrikas has asked you, asked Ekko to go back and tell his companions this, gather them together: chase after the orcs, find them. Kill them. He thinks there's, like, 5 or 8 of them left, but warns you to be careful of their leader: a… a… large orc, with many markings to Thark all over his body. Okay. And, retrieve this stone, bring it back to him. And then he can… you can repair this, you know, repair the… the… whatever this thing is. He didn't explain what it is, although, Ekko got the sense that Eidrikas actually does know what this thing is.",
+        "",
+        "%% u0098:0-36, u0099:0-148 %%",
+        "DM: But he was, he sort of was a little… you know, it's a deep secret of the order, right? Like, is your sense. It's a little, like, you're too junior to have been shared with deep secrets."
+      ],
+      "reviewContext": {
+        "before": [
+          "Ekko: Sorry, sorry, is the blue light tracing, or is it actually creating new things? Yes, exactly.",
+          "DM: No, no, no, it's tracing… it's tracing the channels and carvings, right? So it's like, if the light wasn't there, you would see, like, runes carved, and like… some of them are huge, like, there's some things that are giants, like… 10, like, a rune 10 feet across, and others are, like, small and intricate, and you can't make out from 1,000 feet up. And then…",
+          "Eolo: Seeker, we're here.",
+          "DM: Yeah, no, yeah, Seeker, Seeker should come. This place exists? Seeker could come here.",
+          "Eolo: That's true."
+        ],
+        "after": [
+          "Ekko: The, Mike, one other… Oh, okay.",
+          "Eolo: Sorry, that last part again? The secret about what… I think I missed something.",
+          "DM: So, the Vejo Vaikai is an order of druids who are closely associated with the Great Chasm in general, and to… who have, like, plumbed its depths and explored it, and kind of see it as a sacred place, and are very… counter to the general prevailing myth, or prevailing story in these parts, that the chasm is the home of Zeyfa, the cruel west wind, and that venturing into it brings ill fortune and ill fate.",
+          "DM: The Vejo Vaikai are always like, no, it's like this sacred place with these powerful, magical… magical balance, and it's this place of sort of, spiritual balance, right? And, you know, where opposing forces are neutralized and everything is… is…",
+          "Ekko: This is… this is Ekko's order. Ekko is a druid of this order. Mike, does a… Just, like… when, when, Ekko was talking to Eidrikas, is it? Is he sure that it's a Eidrikas?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Vejo Vaikai beliefs about the Great Chasm",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0102",
+        "endUid": "u0110"
+      },
+      "lines": [
+        "%% u0102:0-101, u0103:0-7, u0104:0-89, u0105:0-13, u0106:0-105, u0107:0-87 %%",
+        "DM: So, the Vejo Vaikai is an order of druids who are closely associated with the Great Chasm in general, and to… who have, like, plumbed its depths and explored it, and kind of see it as a sacred place, and are very… counter to the general prevailing myth, or prevailing story in these parts, that the chasm is the home of Zeyfa, the cruel west wind, and that venturing into it brings ill fortune and ill fate.",
+        "",
+        "%% u0108:0-94, u0109:0-48, u0110:0-101 %%",
+        "DM: The Vejo Vaikai are always like, no, it's like this sacred place with these powerful, magical… magical balance, and it's this place of sort of, spiritual balance, right? And, you know, where opposing forces are neutralized and everything is… is…"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I didn't even think of that when I came up with this, actually. It's great, though, Taelgar is very thematic, you know?",
+          "DM: Yeah? And so, Eidrikas has asked you, asked Ekko to go back and tell his companions this, gather them together: chase after the orcs, find them. Kill them. He thinks there's, like, 5 or 8 of them left, but warns you to be careful of their leader: a… a… large orc, with many markings to Thark all over his body. Okay. And, retrieve this stone, bring it back to him. And then he can… you can repair this, you know, repair the… the… whatever this thing is. He didn't explain what it is, although, Ekko got the sense that Eidrikas actually does know what this thing is.",
+          "DM: But he was, he sort of was a little… you know, it's a deep secret of the order, right? Like, is your sense. It's a little, like, you're too junior to have been shared with deep secrets.",
+          "Ekko: The, Mike, one other… Oh, okay.",
+          "Eolo: Sorry, that last part again? The secret about what… I think I missed something."
+        ],
+        "after": [
+          "Ekko: This is… this is Ekko's order. Ekko is a druid of this order. Mike, does a… Just, like… when, when, Ekko was talking to Eidrikas, is it? Is he sure that it's a Eidrikas?",
+          "DM: I mean, he certainly… he certainly is… he's certainly sad.",
+          "Ekko: I was like a Eidrikas. Just, like, reading his mind, you know? Telepathic shit, all the… There you go.",
+          "DM: You're like, cast Detec… cast Detect Thoughts?",
+          "Ekko: Sure."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Ekko verifies his mentor through shared memories",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0111",
+        "endUid": "u0179"
+      },
+      "lines": [
+        "%% u0111:0-61, u0112:0-25, u0113:0-41, u0114:0-39 %%",
+        "Ekko: This is… this is Ekko's order. Ekko is a druid of this order. Mike, does a… Just, like… when, when, Ekko was talking to Eidrikas, is it? Is he sure that it's a Eidrikas?",
+        "",
+        "%% u0115:0-57 %%",
+        "DM: I mean, he certainly… he certainly is… he's certainly sad.",
+        "",
+        "%% u0116:0-102, u0117:0-46, u0118:0-5, u0119:0-48, u0120:0-42, u0121:0-52, u0122:0-5, u0123:0-42, u0124:0-5, u0125:0-84, u0126:0-29, u0127:0-50, u0128:0-12, u0129:0-75, u0130:0-47, u0131:0-6, u0132:0-11, u0133:0-118, u0134:0-33, u0135:0-141, u0136:0-57, u0137:0-11, u0138:0-4 %%",
+        "((Telepathy and spellcasting rules))",
+        "",
+        "%% u0139:0-50, u0140:0-402 %%",
+        "Ekko: No, I'll use a spell slot for that, and I'll also… yeah, I mean, I just use all my discernment. I mean, this is my… this is my… this is my, master, you know? But I just… I just want to confirm, you know? Is there anything off… if there's… is there anything off about him? Like, is there… you know, I just don't want us to be manipulated into, like, stealing some stone, and then, you know, because we're dealing with some fey shit, too. I mean, this is…",
+        "",
+        "%% u0141:0-11 %%",
+        "DM: Yeah, yeah.",
+        "",
+        "%% u0142:0-36 %%",
+        "Ekko: Out of an abundance of caution here.",
+        "",
+        "%% u0143:0-14, u0144:0-130, u0145:0-78, u0146:0-38, u0147:0-64 %%",
+        "DM: He seems very… you get a… he's in a lot of pain, like, he's clearly in a lot of pain, right? And when you cast Detect Thoughts, the overwhelming… the overwhelming thought you're actually… sensing from him is just this, like… endless beating back of this… of this… overwhelming, sort of, force flowing through his body. So, like…",
+        "",
+        "%% u0148:0-73, u0149:0-84 %%",
+        "DM: It's kind of… you're kind of amazed that he's able to talk to you at all. Right? Okay. In the sense that this is like a… you know, he's under a lot of strain.",
+        "",
+        "%% u0150:0-134 %%",
+        "Ekko: Right. Yeah. But, but, but just, just, like, because the two things I'm worried about are, one, it's, like, not him, it's, like, some…",
+        "",
+        "%% u0151:0-11 %%",
+        "DM: Yeah, yeah.",
+        "",
+        "%% u0152:0-165 %%",
+        "Ekko: Or… or it's him, but he's being manipulated, that he's under, and so I'm just trying to, like, use my best discernment to see if either of those two things are true.",
+        "",
+        "%% u0153:0-109 %%",
+        "DM: When you cast Detect Thoughts, you actually almost get the sense that he's… he's welcoming you into his mind.",
+        "",
+        "%% u0154:0-14 %%",
+        "Ekko: And he should.",
+        "",
+        "%% u0155:0-55, u0156:0-201, u0157:0-75 %%",
+        "DM: Shows you, like… Like, like, it's almost like he can't… it's very hard for him to speak, but he shows you, like, he think… you get this sense in between the moments of pain, like, when it calms down a little bit, he's, like, intentionally thinking of, like, important moments in your mentorship. Like, encouraging moments when, like…",
+        "",
+        "%% u0158:0-4 %%",
+        "Ekko: Wow.",
+        "",
+        "%% u0159:0-64 %%",
+        "DM: She would've… when you two would have, like, had a moment, like…",
+        "",
+        "%% u0160:0-5 %%",
+        "Ekko: Yeah.",
+        "",
+        "%% u0161:0-19, u0162:0-199, u0163:0-57, u0164:0-32 %%",
+        "DM: Or, like, you know… when you first, like, when he first met you, when you… after your experience in the chasm that made you sort of want to, join the Order? Like, he's… he's, like, intentionally thinking of these, like, these points in your past that… that would be meaningful. And you are in his relationship.",
+        "",
+        "%% u0165:0-130 %%",
+        "Ekko: All right, great, and these are, obviously, these are… these are unique thoughts that only he and I would know, so… Yeah, exactly.",
+        "",
+        "%% u0166:0-11 %%",
+        "DM: Yeah, yeah.",
+        "",
+        "%% u0167:0-141 %%",
+        "Ekko: Okay, alright, alright, cool. So I, I… to the best of my discernment, I am confident that this is him, he's not being manipulated in any way.",
+        "",
+        "%% u0168:0-155, u0169:0-28 %%",
+        "DM: Yeah, and it's, like, there's a very encouraging vibe, like, trying to, like, this is, like, the right, you know, this is, this, this is your… you're here. He's very happy you're here.",
+        "",
+        "%% u0170:0-56 %%",
+        "Ekko: Yeah, yeah, yeah. Your sense is, like… Cool, cool, cool.",
+        "",
+        "%% u0171:0-59 %%",
+        "DM: \"You’ve come to save me, great. I was just… I was despaired.\"",
+        "",
+        "%% u0172:0-20 %%",
+        "Ekko: Great, great, great.",
+        "",
+        "%% u0173:0-6 %%",
+        "DM: Great.",
+        "",
+        "%% u0174:0-161 %%",
+        "Ekko: And I get, like, a plus one druid badge at the end of this. Like, I get, I get, like, I get upgraded to the next, the next category of whatever the hell this is.",
+        "",
+        "%% u0175:0-17 %%",
+        "DM: I'll do it. Yeah?",
+        "",
+        "%% u0176:0-40 %%",
+        "Ekko: No, like, in the order, you know, I get…",
+        "",
+        "%% u0177:0-34 %%",
+        "DM: Yeah, yeah, no, absolutely, right?",
+        "",
+        "%% u0178:0-92 %%",
+        "Ekko: You know what I mean? Like, the order will… I'll get some druid props, you know what I mean?",
+        "",
+        "%% u0179:0-73 %%",
+        "DM: Right? Like, you get into the next layer of the secret order, absolutely."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But he was, he sort of was a little… you know, it's a deep secret of the order, right? Like, is your sense. It's a little, like, you're too junior to have been shared with deep secrets.",
+          "Ekko: The, Mike, one other… Oh, okay.",
+          "Eolo: Sorry, that last part again? The secret about what… I think I missed something.",
+          "DM: So, the Vejo Vaikai is an order of druids who are closely associated with the Great Chasm in general, and to… who have, like, plumbed its depths and explored it, and kind of see it as a sacred place, and are very… counter to the general prevailing myth, or prevailing story in these parts, that the chasm is the home of Zeyfa, the cruel west wind, and that venturing into it brings ill fortune and ill fate.",
+          "DM: The Vejo Vaikai are always like, no, it's like this sacred place with these powerful, magical… magical balance, and it's this place of sort of, spiritual balance, right? And, you know, where opposing forces are neutralized and everything is… is…"
+        ],
+        "after": [
+          "Ekko: Nice, nice, nice, excellent. Okay. And then we find out at the end it's all the Philosopher's Guild, so anyways. True. There's actually only one secret organization that just takes many different forms, so just so everybody knows.",
+          "DM: The Philosopher's Guild is, like, the one secret Tim is dedicated to keeping.",
+          "Finnan: There's one secret organization, it's called the Mockers.",
+          "Ekko: Whaaat?",
+          "Finnan: Do you remember that?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The missing arc-shaped runic stone",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0226",
+        "endUid": "u0239"
+      },
+      "lines": [
+        "%% u0226:0-262 %%",
+        "Ekko: ((Banter)) And our task is actually to go and retrieve… actually, is there an obvious spot in the stone where there's, like, a little break? Like, where the…",
+        "",
+        "%% u0227:0-53 %%",
+        "DM: Yeah, like, where Eidrikas was when you were talking.",
+        "",
+        "%% u0228:0-5 %%",
+        "Eolo: Yeah.",
+        "",
+        "%% u0229:0-5 %%",
+        "DM: Like…",
+        "",
+        "%% u0230:0-23 %%",
+        "Ekko: There's, like, a whole…",
+        "",
+        "%% u0231:0-66, u0232:0-114, u0233:0-315 %%",
+        "DM: Rune that's kind of, like, one of these larger runes that's, like… clearly had, like, a piece. It's like… it's like at the very northern point of the thing, or the point that points… chasm, right? There was, like, a piece that's, like, a complicated geometric structure, and, like, the center of that structure is, like, missing. It's like a circular… circular piece that makes, like, the center of a circle. It's like an arc, like a 270-degree arc. And it's, like, there's a slot to put it, right?",
+        "",
+        "%% u0234:0-6 %%",
+        "Ekko: Check.",
+        "",
+        "%% u0235:0-22 %%",
+        "DM: And it's just missing.",
+        "",
+        "%% u0236:0-7 %%",
+        "Ekko: Got it.",
+        "",
+        "%% u0237:0-85 %%",
+        "DM: I mean, Eidrikas tells you, basically, the orcs took it, because he was defending it.",
+        "",
+        "%% u0238:0-13 %%",
+        "Ekko: So, you know…",
+        "",
+        "%% u0239:0-60 %%",
+        "DM: They assumed it was valuable, because it was being defended."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Important way… but… but what it is, you don't know.",
+          "Ekko: What's the [garbled]?",
+          "Eolo: I hope I get a chance to fire it, whatever it is.",
+          "Ekko: Yeah, yeah, so, though, you're not gonna be allowed to touch it, or think about it, or do anything near it, just so you know. Just, there's all kinds of very important rules against specifically you interacting with a stone, ever. At all.",
+          "Eolo: Just so you… just so you know. Great. I know that, I know…"
+        ],
+        "after": [
+          "Ekko: The time is of the essence. I mean, the orcs have, like, a week head start, or no? How long?",
+          "DM: The orcs are camped out, presumably. There's no exit from this… like, if… there's a floating stone, and then a floating tower underneath the stone, and then…",
+          "Ekko: Air.",
+          "DM: The orcs have presumably not exited.",
+          "DM: Your… your time pressure is that Eidrikas doesn't think he can survive…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Eidrikas cannot hold out much longer",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0240",
+        "endUid": "u0252"
+      },
+      "lines": [
+        "%% u0240:0-92 %%",
+        "Ekko: The time is of the essence. I mean, the orcs have, like, a week head start, or no? How long?",
+        "",
+        "%% u0241:0-157 %%",
+        "DM: The orcs are camped out, presumably. There's no exit from this… like, if… there's a floating stone, and then a floating tower underneath the stone, and then…",
+        "",
+        "%% u0242:0-4 %%",
+        "Ekko: Air.",
+        "",
+        "%% u0243:0-36 %%",
+        "DM: The orcs have presumably not exited.",
+        "",
+        "%% u0244:0-71 %%",
+        "DM: Your… your time pressure is that Eidrikas doesn't think he can survive…",
+        "",
+        "%% u0245:0-7 %%",
+        "Ekko: Got it.",
+        "",
+        "%% u0246:0-17 %%",
+        "DM: That much longer.",
+        "",
+        "%% u0247:0-69 %%",
+        "Ekko: Right, right, right, right, right, right, right, okay. Yeah, so Ekko…",
+        "",
+        "%% u0248:0-20 %%",
+        "Eolo: [garbled].",
+        "",
+        "%% u0249:0-15 %%",
+        "Ekko: Go ahead, Eric.",
+        "",
+        "%% u0250:0-43 %%",
+        "Eolo: Oh, that the orcs didn't have a way to fly.",
+        "",
+        "%% u0251:0-51 %%",
+        "DM: The orcs still presumably do not have a way to fly.",
+        "",
+        "%% u0252:0-104 %%",
+        "Ekko: But let's, let's move quickly. Eidrikas is in great, great pain. We should move as quickly as we can to…"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And it's just missing.",
+          "Ekko: Got it.",
+          "DM: I mean, Eidrikas tells you, basically, the orcs took it, because he was defending it.",
+          "Ekko: So, you know…",
+          "DM: They assumed it was valuable, because it was being defended."
+        ],
+        "after": [
+          "DM: Bye.",
+          "Ekko: [garbled].",
+          "Finnan: Oh, is there any way to get to the platform besides flying?",
+          "DM: While the floating stone you're on can be pulled.",
+          "Eolo: Oh, right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The quiver’s metal-seeking arrows and their limits",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0387",
+        "endUid": "u0402"
+      },
+      "lines": [
+        "%% u0387:0-47 %%",
+        "Eolo: Oh, and Mike… Last time, I put the weird metal…",
+        "",
+        "%% u0388:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u0389:0-14 %%",
+        "Eolo: Quiver, right?",
+        "",
+        "%% u0390:0-30 %%",
+        "DM: Yes, yes, you did. Your arrow?",
+        "",
+        "%% u0391:0-4 %%",
+        "Eolo: But…",
+        "",
+        "%% u0392:0-100, u0393:0-85, u0394:0-103 %%",
+        "DM: No, you can know what they do. It doesn't have to be secret. Your arrows are now attracted to metal, and are very good at… so you get a plus 2 to hit against anybody wearing metal armor. And they do an extra… an extra 1d4 slashing damage as the heads, like, explode when they pierce people.",
+        "",
+        "%% u0395:0-20 %%",
+        "Eolo: How many have I got?",
+        "",
+        "%% u0396:0-5, u0397:0-89 %%",
+        "DM: Shit. It's as many, they're infinite. They magically appear as you take them out of the quiver.",
+        "",
+        "%% u0398:0-33, u0399:0-101 %%",
+        "Eolo: I could, like, take a small coin, throw it up in the air, turn around facing the other direction, shoot my crossbow, and it will, like…",
+        "",
+        "%% u0400:0-128, u0401:0-184 %%",
+        "DM: Well, it's only a plus 2 hit, it's not like… so, but you'd have a… you'd have a better chance, you'd have a plus 2 on your roll. I mean, it's probably a little bit str… like, you might be able to pull some tricks like that. It wouldn't quite, like, do a… but, like, you could aim wide and it would correct itself.",
+        "",
+        "%% u0402:0-21 %%",
+        "Eolo: I like it. Thank you."
+      ],
+      "reviewContext": {
+        "before": [
+          "Ekko: Yeah, yeah, but anyway, even without the…",
+          "Ekko: Even without the word side quests, you know, maybe there is a creative way to help us make us not be so stressed out. Yeah. I don't know if we asked about that, but just… just saying.",
+          "Eolo: Like, if somebody could give them a healing spell or something… or… some other buff.",
+          "Ekko: It's not like psychically bolstering him somehow. Like, again, like, we've got… paladins, and… right? Somebody's… I don't know, we could have no way to do that, I was just mentioning that.",
+          "Ekko: A random idea."
+        ],
+        "after": [
+          "Eolo: Well, yeah, let's bring this stone down. Right?",
+          "Jrain: Yeah.",
+          "DM: Alright?",
+          "DM: Are you… coming down… Next to… so again, the… the platform's slanted like this. The top over here is where Eidrikas is. Over here, underneath the bottom, is where this weird cylinder with bulgy black strange things growing out of it is, this cylindrical sky dungeon.",
+          "DM: You could bring your stone, and there's about 30 feet between the two platforms. Your stone is, like, 10 feet by… 15 feet. Right? And it's not that thick, it's only like this. So you could kind of put it anywhere."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The wording preserves the discovered effect, but inclusion depends on whether this is a new metal-induced enchantment or routine PC equipment explanation."
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Finnan questions the damaged custodian",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0938",
+        "endUid": "u1018"
+      },
+      "lines": [
+        "%% u0938:0-122, u0939:0-30, u0940:0-2 %%",
+        "DM: The runes, you do hear the word, if you speak giant, as it is cycling through various words, none of which you understand. One of them is \"Hello\" in Giant. I…",
+        "",
+        "%% u0941:0-47 %%",
+        "Finnan: I guess I'll turn cautiously and say… Ho-hello?",
+        "",
+        "%% u0942:0-14, u0943:0-20, u0944:0-17, u0945:0-4 %%",
+        "DM: Back in Giant. \"Are you… authorized?\" It says in Giant. Hmm.",
+        "",
+        "%% u0946:0-31 %%",
+        "Justas: Would we be here if we weren't?",
+        "",
+        "%% u0947:0-60 %%",
+        "((Aside))",
+        "",
+        "%% u0948:0-53, u0949:0-52 %%",
+        "Finnan: Finnan will say, \"Yes, we are on an important mission.\" Did the orcs come through? They were not authorized.",
+        "",
+        "%% u0950:0-22, u0951:0-7, u0952:0-32 %%",
+        "DM: It says… \"Unauthorized agents. Applied force without alignment.\"",
+        "",
+        "%% u0953:0-100, u0954:0-17, u0955:0-7 %%",
+        "DM: It sort of stops for a minute, it’s like, I… it’s like the lights flicker. \"Expected outcome: damage.\" \"Observed outcome: damage.\"",
+        "",
+        "%% u0956:0-48 %%",
+        "DM: \"Are you…\" It stops in the middle of the sentence.",
+        "",
+        "%% u0957:0-83 %%",
+        "Finnan: So, Finnan's been pretty nervous this whole time, and kinda hates weird magic, but…",
+        "",
+        "%% u0958:0-49 %%",
+        "DM: Now that he has something to talk to, it's gonna…",
+        "",
+        "%% u0959:0-78, u0960:0-83, u0961:0-42, u0962:0-85, u0963:0-18, u0964:0-63 %%",
+        "Finnan: Sort of walk forward a little bit, with his hands out kind of peacefully, and… I'm gonna ask, basically, who are you, or where did you come from? Like, trying to… like, what it… like, who is this creature? And then, leading up, just trying to get more information leading up to asking it to… how we can assist dealing with the unauthorized orcs, which is what I'm going to.",
+        "",
+        "%% u0965:0-13 %%",
+        "DM: Okay, so, so…",
+        "",
+        "%% u0966:0-69, u0967:0-74, u0968:0-92, u0969:0-136, u0970:0-22, u0971:0-72 %%",
+        "((Player explanation of approach))",
+        "",
+        "%% u0972:0-40, u0973:0-80, u0974:0-24, u0975:0-97, u0976:0-34, u0977:0-37 %%",
+        "DM: So, I mean, you start with… \"Who are you?\" It says… \"Verifying…\" And then just stops for a minute, and, like, the… the room… the, like, light in its… chest, like, floating that you can see through the torso, like, blinks more rapidly for a minute. And then it turns to you and says: \"Who… who are you? Are you authorized?\"",
+        "",
+        "%% u0978:0-49, u0979:0-4, u0980:0-32, u0981:0-45, u0982:0-38, u0983:0-70, u0984:0-48 %%",
+        "Finnan: So I'm gonna be patient with the broken computer, and… you know… \"Yes, we’re authorized.\" The orcs were not. Just, like, repeat myself. The orcs were not. We're chasing them. They took something important that we must return. We're on a mission. Who are you? How can, you know, how can we help?",
+        "",
+        "%% u0985:0-32, u0986:0-91, u0987:0-35, u0988:0-10, u0989:0-72, u0990:0-116 %%",
+        "DM: I mean, it continues to sort of… stutter a bit, where, like, it'll go back to this kind of, like, it'll pause in the middle. It seems like questions about… yeah… who it is are particularly triggering to its broken… I mean, it clearly seems like an automaton of some kind, right? Like, it doesn't… it's responding almost the same way to certain questions, right?",
+        "",
+        "%% u0991:0-57, u0992:0-77 %%",
+        "DM: And… it… But when you ask, how can you… How can you help? It says, \"Adjustment… and repair is suspended while threat conditions persist.\"",
+        "",
+        "%% u0993:0-4, u0994:0-85, u0995:0-36 %%",
+        "Finnan: Yes? We know, and again, I'm just gonna, like, just be patient with its… clear brokenness. There's lightning in the room below.",
+        "",
+        "%% u0996:0-113, u0997:0-25 %%",
+        "DM: I mean, it seems to keep insisting that it says, \"Repair functions do not operate while threat conditions persist.\" \"Resolve threat condition.\"",
+        "",
+        "%% u0998:0-48 %%",
+        "Justas: How do we resolve… how do we resolve the threat?",
+        "",
+        "%% u0999:0-73, u1000:0-60, u1001:0-8, u1002:0-70 %%",
+        "((Clarification of the question))",
+        "",
+        "%% u1003:0-45, u1004:0-103, u1005:0-47 %%",
+        "DM: It's… it seems to think that telling you that— that repair protocols are suspended while threat conditions persist is telling you how it can help you. It seems to think it's answering that question.",
+        "",
+        "%% u1006:0-201 %%",
+        "Ekko: Also, just aside, is this… is this, like, strange that we're interacting with a computer on Taelgar? Is this, like, are there… are there other computers? Is this, like, a new thing? Like, are we, like…",
+        "",
+        "%% u1007:0-33 %%",
+        "Eolo: It's the… It's a golem automaton…",
+        "",
+        "%% u1008:0-9 %%",
+        "DM: Category.",
+        "",
+        "%% u1009:0-15 %%",
+        "Eolo: Thing, I think.",
+        "",
+        "%% u1010:0-15 %%",
+        "Ekko: Oh, okay, okay.",
+        "",
+        "%% u1011:0-245, u1012:0-130, u1013:0-35, u1014:0-123 %%",
+        "DM: Yeah, it's not like… it's not actually a metal computer, right? Like, it's clearly magic. It's, it's like the root… it's all this, like, runic magic that is… it actually feels almost like… I mean, it's repetitive almost in the way that, like, a… contingency spell that’s like, you know, \"If asked X, do Y\" kind of thing would be. Like, it feels algorithmic in a way, like, it’s… like, you know, a really primitive… AI that's been programmed specifically, in a way, like, it doesn't have that many responses. It's not like a person, right?",
+        "",
+        "%% u1015:0-23, u1016:0-81, u1017:0-95 %%",
+        "DM: It's more like… Got it… you know… it almost feels like, you know, old-school video game, where you, like, say something, and then it picks from its library of possible responses based on what you said.",
+        "",
+        "%% u1018:0-25 %%",
+        "Ekko: Yeah, yeah. No, I got it."
+      ],
+      "reviewContext": {
+        "before": [
+          "Finnan: Giant. Old Zimkovan?",
+          "DM: Ah, Giant, sure. Interesting. M… the runes remind you… you don't… the runes… remind you… of giant, although they don't actually spell any words.",
+          "Finnan: But, sorry, does the hatch… does the trapdoor… is Justas able to lift it, or is it…",
+          "DM: Can lift the trapdoor. The very first thing you see when you lift the trapdoor is a sea of lightning. I'll explain what you see around the sea of lightning more clearly in a moment, but when you look down, your very first impression is just crackling lightning around… all over the floor… of the next room. Like, just like… this crackling… almost like a storm, like a lightning storm that's just been contained. Just on the floor, it's not in the…",
+          "DM: It's, 30 feet down, and there's a couple of… again, I'll explain the whole room in a little bit more detail, in a minute, but your first impression is just crackling storm of lightning, at the bottom. The…"
+        ],
+        "after": [
+          "Finnan: So I will go back and tell the group, you know, \"Whatever this is is clearly broken.\" How many orcs supposedly came down here?",
+          "DM: Like…",
+          "Jrain: Either one.",
+          "Finnan: Something like 5?",
+          "DM: Somewhere between, like, 6 and 8. There's no dead orcs in this room. Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The custodian asks the departing party to eliminate the threat",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1196",
+        "endUid": "u1215"
+      },
+      "lines": [
+        "%% u1196:0-4, u1197:0-21, u1198:0-101, u1199:0-36 %%",
+        "DM: The… automaton is sort of… is now sort of walked over and is kind of right next to you, staring at you. It doesn't say anything. But it's standing right next to you.",
+        "",
+        "%% u1200:0-68, u1201:0-43, u1202:0-177, u1203:0-41, u1204:0-179 %%",
+        "((Party debates its route))",
+        "",
+        "%% u1205:0-39, u1206:0-8 %%",
+        "DM: \"Do you… intend to eliminate the threat?\" it says…",
+        "",
+        "%% u1207:0-68 %%",
+        "Eolo: Eolo pats the robot on the head. \"We’ll figure it out.\" Pat, pat, pat.",
+        "",
+        "%% u1208:0-26 %%",
+        "Jrain: It doesn't understand you.",
+        "",
+        "%% u1209:0-50, u1210:0-107 %%",
+        "Justas: \"Yes,\" says Justas to the robot. ((Route planning))",
+        "",
+        "%% u1211:0-55, u1212:0-103, u1213:0-16, u1214:0-5 %%",
+        "((Route planning))",
+        "",
+        "%% u1215:0-64 %%",
+        "Finnan: I’ll tell the… I’ll tell the golem creature… \"We’re gonna fix it.\""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: There's…",
+          "Finnan: Finn is… Finn is not concerned about that, you know. Clearly, some, you know, one of them didn't, there's a dead body, some of them probably did.",
+          "Jrain: Right, so if we go the way they went, we'll find them. Or we can go our own way, which seems safer, the way that you're proposing. Just out and back around.",
+          "DM: None of you have gone into the room yet, right?",
+          "Finnan: No. No."
+        ],
+        "after": [
+          "Finnan: And then I'll… Head up the rope back to the room above us.",
+          "DM: Okay, so you go back up to the… the… the… the top room. How are you getting up? The… I don't know, you left the rope. The rope… where you climbed, you left it tied.",
+          "Finnan: They still have our rope.",
+          "DM: Oh my god. Make a… make everybody who's trying to climb up that rope make a strength check.",
+          "Finnan: I'm gonna hopefully hitch a ride with Ekko again."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The Thark-marked God Caller is encountered and killed",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1689",
+        "endUid": "u2739"
+      },
+      "lines": [
+        "%% u1689:0-122, u1690:0-102, u1691:0-48, u1692:0-6, u1693:0-62, u1694:0-40, u1695:0-38, u1696:0-4 %%",
+        "DM: ((Token labels)) This one that's called God Caller is like… you would probably recognize Tharks, I forget what… Tharks holy symbol is. But, it's, like, covered in… in… white markings of… of Thark, right? Like, it's clearly a… religious— it's, like, clearly sort of a religious… yeah, has a lot of dark vibes to them… the…",
+        "",
+        "%% u1697:0-31, u1698:0-109, u1699:0-12, u1700:0-40, u1701:0-29, u1702:0-37, u1703:0-35, u1704:0-57, u1705:0-60, u1706:0-4, u1707:0-29, u1708:0-146, u1709:0-46, u1710:0-70, u1711:0-35, u1712:0-15, u1713:0-5, u1714:0-37, u1715:0-34, u1716:0-42, u1717:0-96, u1718:0-39, u1719:0-22, u1720:0-40, u1721:0-31, u1722:0-37, u1723:0-41, u1724:0-4, u1725:0-54, u1726:0-37, u1727:0-5, u1728:0-30, u1729:0-4, u1730:0-34, u1731:0-15, u1732:0-15, u1733:0-75, u1734:0-30, u1735:0-27, u1736:0-122, u1737:0-54, u1738:0-13, u1739:0-49, u1740:0-28, u1741:0-8, u1742:0-5, u1743:0-42, u1744:0-19, u1745:0-52, u1746:0-21, u1747:0-9, u1748:0-53, u1749:0-29, u1750:0-8, u1751:0-19, u1752:0-21, u1753:0-16, u1754:0-24, u1755:0-10, u1756:0-78, u1757:0-35, u1758:0-50, u1759:0-27, u1760:0-41, u1761:0-37, u1762:0-140, u1763:0-13, u1764:0-65, u1765:0-20, u1766:0-23, u1767:0-5, u1768:0-41, u1769:0-18, u1770:0-32, u1771:0-45, u1772:0-50, u1773:0-11, u1774:0-80, u1775:0-37, u1776:0-94, u1777:0-40, u1778:0-32, u1779:0-6, u1780:0-103, u1781:0-19, u1782:0-5, u1783:0-64, u1784:0-8, u1785:0-8, u1786:0-73, u1787:0-23, u1788:0-25, u1789:0-38, u1790:0-6, u1791:0-11, u1792:0-39, u1793:0-11, u1794:0-5, u1795:0-5, u1796:0-48, u1797:0-8, u1798:0-19, u1799:0-10, u1800:0-86, u1801:0-46, u1802:0-49, u1803:0-5, u1804:0-34, u1805:0-86, u1806:0-45, u1807:0-78, u1808:0-37, u1809:0-34, u1810:0-27, u1811:0-56, u1812:0-61, u1813:0-39, u1814:0-107, u1815:0-80, u1816:0-13, u1817:0-79, u1818:0-8, u1819:0-32, u1820:0-39, u1821:0-10, u1822:0-9, u1823:0-103, u1824:0-62, u1825:0-15, u1826:0-5, u1827:0-11, u1828:0-14, u1829:0-230, u1830:0-8, u1831:0-9, u1832:0-27, u1833:0-102, u1834:0-3, u1835:0-46, u1836:0-36, u1837:0-44, u1838:0-5, u1839:0-125, u1840:0-21, u1841:0-70, u1842:0-84, u1843:0-5, u1844:0-51, u1845:0-52, u1846:0-11, u1847:0-26, u1848:0-41, u1849:0-72, u1850:0-8, u1851:0-30, u1852:0-40, u1853:0-64, u1854:0-12, u1855:0-6, u1856:0-34, u1857:0-167, u1858:0-23, u1859:0-77, u1860:0-8, u1861:0-53, u1862:0-22, u1863:0-52, u1864:0-69, u1865:0-69, u1866:0-4, u1867:0-41, u1868:0-80, u1869:0-33, u1870:0-35, u1871:0-12, u1872:0-65, u1873:0-41, u1874:0-4, u1875:0-9, u1876:0-20, u1877:0-6, u1878:0-27, u1879:0-13, u1880:0-15, u1881:0-52, u1882:0-147, u1883:0-14, u1884:0-9, u1885:0-9, u1886:0-4, u1887:0-4, u1888:0-13, u1889:0-18, u1890:0-79, u1891:0-37, u1892:0-21, u1893:0-25, u1894:0-9, u1895:0-52, u1896:0-26, u1897:0-27, u1898:0-91, u1899:0-9, u1900:0-35, u1901:0-11, u1902:0-7, u1903:0-55, u1904:0-4, u1905:0-21, u1906:0-5, u1907:0-69, u1908:0-16, u1909:0-8, u1910:0-38, u1911:0-101, u1912:0-27, u1913:0-26, u1914:0-31, u1915:0-48, u1916:0-8, u1917:0-11, u1918:0-46, u1919:0-62, u1920:0-36, u1921:0-27, u1922:0-34, u1923:0-52, u1924:0-6, u1925:0-12, u1926:0-137, u1927:0-70, u1928:0-16, u1929:0-24, u1930:0-43, u1931:0-8, u1932:0-5, u1933:0-21, u1934:0-25, u1935:0-94, u1936:0-9, u1937:0-48, u1938:0-4, u1939:0-19, u1940:0-4, u1941:0-3, u1942:0-10, u1943:0-16, u1944:0-51, u1945:0-15, u1946:0-19, u1947:0-60, u1948:0-15, u1949:0-4, u1950:0-11, u1951:0-4, u1952:0-40, u1953:0-4, u1954:0-39, u1955:0-37, u1956:0-40, u1957:0-47, u1958:0-15, u1959:0-15, u1960:0-20, u1961:0-4, u1962:0-9, u1963:0-25, u1964:0-14, u1965:0-19, u1966:0-47, u1967:0-38, u1968:0-14, u1969:0-19, u1970:0-4, u1971:0-28, u1972:0-51, u1973:0-5, u1974:0-59, u1975:0-64, u1976:0-31, u1977:0-52, u1978:0-50, u1979:0-19, u1980:0-3, u1981:0-10, u1982:0-8, u1983:0-25, u1984:0-21, u1985:0-14, u1986:0-72, u1987:0-20, u1988:0-31, u1989:0-5, u1990:0-117, u1991:0-5, u1992:0-18, u1993:0-32, u1994:0-51, u1995:0-5, u1996:0-16, u1997:0-8, u1998:0-3, u1999:0-51, u2000:0-46, u2001:0-20, u2002:0-8, u2003:0-5, u2004:0-4, u2005:0-8, u2006:0-66, u2007:0-98, u2008:0-5, u2009:0-50, u2010:0-23, u2011:0-27, u2012:0-84, u2013:0-9, u2014:0-22, u2015:0-64, u2016:0-20, u2017:0-19, u2018:0-49, u2019:0-16, u2020:0-33, u2021:0-5, u2022:0-53, u2023:0-39, u2024:0-24, u2025:0-54, u2026:0-5, u2027:0-45, u2028:0-67, u2029:0-3, u2030:0-12, u2031:0-42, u2032:0-51, u2033:0-76, u2034:0-40, u2035:0-46, u2036:0-16, u2037:0-56, u2038:0-5, u2039:0-93, u2040:0-5, u2041:0-4, u2042:0-39, u2043:0-8, u2044:0-63, u2045:0-75, u2046:0-10, u2047:0-38, u2048:0-28, u2049:0-4, u2050:0-23, u2051:0-61, u2052:0-48, u2053:0-8, u2054:0-11, u2055:0-31, u2056:0-14, u2057:0-31, u2058:0-12, u2059:0-18, u2060:0-20, u2061:0-10, u2062:0-17, u2063:0-245, u2064:0-156, u2065:0-32, u2066:0-37, u2067:0-23, u2068:0-48, u2069:0-10, u2070:0-8, u2071:0-58, u2072:0-31, u2073:0-20, u2074:0-59, u2075:0-46, u2076:0-119, u2077:0-79, u2078:0-12, u2079:0-14, u2080:0-19, u2081:0-54, u2082:0-21, u2083:0-25, u2084:0-50, u2085:0-10, u2086:0-15, u2087:0-155, u2088:0-8, u2089:0-39, u2090:0-4, u2091:0-29, u2092:0-8, u2093:0-18, u2094:0-127, u2095:0-13, u2096:0-16, u2097:0-5, u2098:0-11, u2099:0-20, u2100:0-5, u2101:0-80, u2102:0-76, u2103:0-48, u2104:0-21, u2105:0-16, u2106:0-83, u2107:0-15, u2108:0-50, u2109:0-19, u2110:0-4, u2111:0-7, u2112:0-10, u2113:0-7, u2114:0-14, u2115:0-170, u2116:0-91, u2117:0-93, u2118:0-65, u2119:0-29, u2120:0-32, u2121:0-17, u2122:0-3, u2123:0-45, u2124:0-63, u2125:0-12, u2126:0-17, u2127:0-27, u2128:0-19, u2129:0-12, u2130:0-61, u2131:0-7, u2132:0-18, u2133:0-23, u2134:0-22, u2135:0-10, u2136:0-14, u2137:0-45, u2138:0-58, u2139:0-24, u2140:0-2, u2141:0-4, u2142:0-10, u2143:0-27, u2144:0-19, u2145:0-24, u2146:0-66, u2147:0-11, u2148:0-23, u2149:0-49, u2150:0-43, u2151:0-25, u2152:0-10, u2153:0-15, u2154:0-67, u2155:0-6, u2156:0-5, u2157:0-25, u2158:0-34, u2159:0-25, u2160:0-51, u2161:0-35, u2162:0-10, u2163:0-60, u2164:0-140, u2165:0-3, u2166:0-139, u2167:0-47, u2168:0-70, u2169:0-218, u2170:0-16, u2171:0-46, u2172:0-243, u2173:0-20, u2174:0-21, u2175:0-48, u2176:0-5, u2177:0-8, u2178:0-1, u2179:0-5, u2180:0-23, u2181:0-10, u2182:0-75, u2183:0-14, u2184:0-6, u2185:0-16, u2186:0-11, u2187:0-31, u2188:0-18, u2189:0-38, u2190:0-121, u2191:0-17, u2192:0-138, u2193:0-10, u2194:0-51, u2195:0-20, u2196:0-24, u2197:0-32, u2198:0-5, u2199:0-122, u2200:0-36, u2201:0-56, u2202:0-9, u2203:0-29, u2204:0-33, u2205:0-40, u2206:0-69, u2207:0-29, u2208:0-4, u2209:0-28, u2210:0-65, u2211:0-152, u2212:0-22, u2213:0-101, u2214:0-3, u2215:0-8, u2216:0-8, u2217:0-25, u2218:0-17, u2219:0-8, u2220:0-5, u2221:0-64, u2222:0-5, u2223:0-34, u2224:0-13, u2225:0-13, u2226:0-12, u2227:0-5, u2228:0-8, u2229:0-58, u2230:0-22, u2231:0-20, u2232:0-5, u2233:0-30, u2234:0-29, u2235:0-42, u2236:0-80, u2237:0-21, u2238:0-5, u2239:0-74, u2240:0-5, u2241:0-12, u2242:0-27, u2243:0-40, u2244:0-5, u2245:0-30, u2246:0-41, u2247:0-41, u2248:0-77, u2249:0-5, u2250:0-10, u2251:0-4, u2252:0-35, u2253:0-24, u2254:0-43, u2255:0-15, u2256:0-33, u2257:0-21, u2258:0-25, u2259:0-71, u2260:0-44, u2261:0-6, u2262:0-33, u2263:0-19, u2264:0-19, u2265:0-30, u2266:0-22, u2267:0-11, u2268:0-32, u2269:0-28, u2270:0-13, u2271:0-8, u2272:0-16, u2273:0-39, u2274:0-11, u2275:0-55, u2276:0-16, u2277:0-241, u2278:0-71, u2279:0-82, u2280:0-3, u2281:0-73, u2282:0-66, u2283:0-86, u2284:0-50, u2285:0-11, u2286:0-40, u2287:0-41, u2288:0-3, u2289:0-62, u2290:0-44, u2291:0-41, u2292:0-11, u2293:0-33, u2294:0-22, u2295:0-4, u2296:0-55, u2297:0-5, u2298:0-50, u2299:0-4, u2300:0-84, u2301:0-91, u2302:0-2, u2303:0-45, u2304:0-53, u2305:0-88, u2306:0-163, u2307:0-43, u2308:0-16, u2309:0-14, u2310:0-15, u2311:0-13, u2312:0-95, u2313:0-42, u2314:0-19, u2315:0-46, u2316:0-13, u2317:0-74, u2318:0-69, u2319:0-17, u2320:0-33, u2321:0-9, u2322:0-16, u2323:0-42, u2324:0-65, u2325:0-54, u2326:0-77, u2327:0-45, u2328:0-31, u2329:0-20, u2330:0-9, u2331:0-5, u2332:0-33, u2333:0-3, u2334:0-48, u2335:0-38, u2336:0-5, u2337:0-32, u2338:0-5, u2339:0-64, u2340:0-57, u2341:0-51, u2342:0-29, u2343:0-38, u2344:0-127, u2345:0-8, u2346:0-46, u2347:0-7, u2348:0-23, u2349:0-108, u2350:0-113, u2351:0-22, u2352:0-23, u2353:0-17, u2354:0-27, u2355:0-122, u2356:0-50, u2357:0-58, u2358:0-157, u2359:0-14, u2360:0-13, u2361:0-12, u2362:0-14, u2363:0-60, u2364:0-3, u2365:0-21, u2366:0-23, u2367:0-12, u2368:0-25, u2369:0-14, u2370:0-12, u2371:0-43, u2372:0-5, u2373:0-8, u2374:0-12, u2375:0-8, u2376:0-32, u2377:0-2, u2378:0-48, u2379:0-30, u2380:0-33, u2381:0-5, u2382:0-42, u2383:0-8, u2384:0-61, u2385:0-43, u2386:0-35, u2387:0-6, u2388:0-8, u2389:0-24, u2390:0-6, u2391:0-64, u2392:0-13, u2393:0-11, u2394:0-101, u2395:0-33, u2396:0-34, u2397:0-106, u2398:0-45, u2399:0-3, u2400:0-29, u2401:0-32, u2402:0-96, u2403:0-3, u2404:0-14, u2405:0-39, u2406:0-4, u2407:0-24, u2408:0-32, u2409:0-15, u2410:0-11, u2411:0-4, u2412:0-33, u2413:0-25, u2414:0-21, u2415:0-23, u2416:0-17, u2417:0-21, u2418:0-68, u2419:0-11, u2420:0-24, u2421:0-15, u2422:0-56, u2423:0-44, u2424:0-72, u2425:0-60, u2426:0-11, u2427:0-12, u2428:0-10, u2429:0-76, u2430:0-15, u2431:0-28, u2432:0-83, u2433:0-41, u2434:0-3, u2435:0-7, u2436:0-17, u2437:0-8, u2438:0-153, u2439:0-16, u2440:0-4, u2441:0-46, u2442:0-52, u2443:0-100, u2444:0-9, u2445:0-58, u2446:0-10, u2447:0-51, u2448:0-33, u2449:0-6, u2450:0-63, u2451:0-25, u2452:0-74, u2453:0-37, u2454:0-25, u2455:0-50, u2456:0-63, u2457:0-5, u2458:0-9, u2459:0-17, u2460:0-46, u2461:0-4, u2462:0-48, u2463:0-179, u2463:179-227, u2463:227-231, u2464:0-23, u2465:0-26, u2466:0-19, u2467:0-14, u2468:0-25, u2469:0-11, u2470:0-8, u2471:0-18, u2472:0-31, u2473:0-64, u2474:0-24, u2475:0-9, u2476:0-10, u2477:0-9, u2478:0-23, u2479:0-10, u2480:0-78, u2481:0-10, u2482:0-10, u2483:0-28, u2484:0-14, u2485:0-20, u2486:0-24, u2487:0-86, u2488:0-14, u2489:0-94, u2490:0-110, u2491:0-5, u2492:0-84, u2493:0-50, u2494:0-26, u2495:0-41, u2496:0-57, u2497:0-43, u2498:0-9, u2499:0-16, u2500:0-49, u2501:0-25, u2502:0-25, u2503:0-5, u2504:0-6, u2505:0-39, u2506:0-21, u2507:0-9, u2508:0-9, u2509:0-55, u2510:0-5, u2511:0-70, u2512:0-20, u2513:0-14, u2514:0-15, u2515:0-40, u2516:0-112, u2517:0-5, u2518:0-156, u2519:0-12, u2520:0-72, u2521:0-46, u2522:0-50, u2523:0-23, u2524:0-26, u2525:0-66, u2526:0-6, u2527:0-5, u2528:0-43, u2529:0-18, u2530:0-68, u2531:0-5, u2532:0-191, u2533:0-9, u2534:0-4, u2535:0-12, u2536:0-32, u2537:0-102, u2538:0-56, u2539:0-22, u2540:0-22, u2541:0-11, u2542:0-24, u2543:0-49, u2544:0-5, u2545:0-3, u2546:0-10, u2547:0-23, u2548:0-29, u2549:0-8, u2550:0-4, u2551:0-16, u2552:0-66, u2553:0-8, u2554:0-15, u2555:0-5, u2556:0-14, u2557:0-12, u2558:0-15, u2559:0-17, u2560:0-5, u2561:0-4, u2562:0-30, u2563:0-18, u2564:0-8, u2565:0-31, u2566:0-24, u2567:0-21, u2568:0-26, u2569:0-8, u2570:0-8, u2571:0-14, u2572:0-16, u2573:0-45, u2574:0-13, u2575:0-30, u2576:0-26, u2577:0-13, u2578:0-14, u2579:0-3, u2580:0-7, u2581:0-5, u2582:0-12, u2583:0-13, u2584:0-70, u2585:0-40, u2586:0-18, u2587:0-11, u2588:0-103, u2589:0-11, u2590:0-100, u2591:0-92, u2592:0-57, u2593:0-5, u2594:0-13, u2595:0-8, u2596:0-60, u2597:0-18, u2598:0-45, u2599:0-51, u2600:0-53, u2601:0-27, u2602:0-63, u2603:0-42, u2604:0-48, u2605:0-9, u2606:0-29, u2607:0-10, u2608:0-4, u2609:0-45, u2610:0-74, u2611:0-257, u2612:0-25, u2613:0-29, u2614:0-56, u2615:0-79, u2616:0-112, u2617:0-81, u2618:0-4, u2619:0-24, u2620:0-56, u2621:0-51, u2622:0-31, u2623:0-12, u2624:0-99, u2625:0-9, u2626:0-28, u2627:0-90, u2628:0-13, u2629:0-45, u2630:0-24, u2631:0-43, u2632:0-17, u2633:0-29, u2634:0-98, u2635:0-23, u2636:0-69, u2637:0-29, u2638:0-17, u2639:0-7, u2640:0-32, u2641:0-12, u2642:0-26, u2643:0-105, u2644:0-7, u2645:0-168, u2646:0-7, u2647:0-44, u2648:0-23, u2649:0-13, u2650:0-4, u2651:0-5, u2652:0-88, u2653:0-5, u2654:0-29, u2655:0-36, u2656:0-17, u2657:0-12, u2658:0-32, u2659:0-10, u2660:0-33, u2661:0-37, u2662:0-83, u2663:0-15, u2664:0-7, u2665:0-20, u2666:0-5, u2667:0-14, u2668:0-26, u2669:0-30, u2670:0-24, u2671:0-67, u2672:0-4, u2673:0-8, u2674:0-14, u2675:0-12, u2676:0-8, u2677:0-5, u2678:0-3, u2679:0-8, u2680:0-139, u2681:0-9, u2682:0-12, u2683:0-120, u2684:0-9, u2685:0-47, u2686:0-55, u2687:0-40, u2688:0-59, u2689:0-45, u2690:0-125, u2691:0-23, u2692:0-70, u2693:0-31, u2694:0-8, u2695:0-5, u2696:0-58, u2697:0-31, u2698:0-38, u2699:0-32, u2700:0-4, u2701:0-65, u2702:0-29, u2703:0-39, u2704:0-25, u2705:0-58, u2706:0-9, u2707:0-38, u2708:0-7, u2709:0-7, u2710:0-5, u2711:0-7, u2712:0-12, u2713:0-16, u2714:0-21, u2715:0-60, u2716:0-50, u2717:0-10, u2718:0-10, u2719:0-26, u2720:0-86, u2721:0-20, u2722:0-19, u2723:0-47, u2724:0-182, u2725:0-50, u2726:0-18, u2727:0-26, u2728:0-29, u2729:0-80, u2730:0-65, u2731:0-41, u2732:0-138, u2733:0-51, u2734:0-18, u2735:0-4 %%",
+        "((The intervening battle))",
+        "",
+        "%% u2736:0-172 %%",
+        "DM: ((The killing shot)) and he just falls forward on his face instead.",
+        "",
+        "%% u2737:0-9 %%",
+        "Eolo: Goodness.",
+        "",
+        "%% u2738:0-37 %%",
+        "Ekko: Wait, so he's dead? Or he's not dead?",
+        "",
+        "%% u2739:0-10 %%",
+        "DM: He's dead."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: What if they… what if they fail?",
+          "Finnan: If they fail, they are charmed. Well-charmed, they're incapacitated and have a speed of zero. The spell ends for an affected creature if it takes any damage, or if somebody else uses an action to shake the creature out of its stupor.",
+          "DM: Okay, and he said, wisdom?",
+          "Finnan: DC-15 wisdom saving throw.",
+          "DM: So… all of that, let's see, can I… So as this spell comes flying, as this, like, pattern… up here. So, first of all, you can see…"
+        ],
+        "after": [
+          "Ekko: No, he's actually…",
+          "Eolo: Don't… Don't usually shoot people so many times in a row.",
+          "DM: There are two more, I don't think it's worth running out the combat against them.",
+          "Finnan: No, we all just surround him and kill them one at a time. Those ones didn't… those ones are pretty weak, they didn't take that many hits.",
+          "DM: No, they had, like, 26 hit points. Hypnotic Pattern is a good spell."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

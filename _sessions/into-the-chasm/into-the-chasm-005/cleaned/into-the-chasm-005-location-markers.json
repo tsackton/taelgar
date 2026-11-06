@@ -1,0 +1,1096 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-005",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
+    "sessionYamlSha256": "d8aa66ecc4c0cd15fd219814647b14a20427b48ff1ae6d8b5469844048540ebe",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-transcript.md",
+    "transcriptSha256": "79741912e120b66be6168ab6f92155e3c5c2324077837eb101ae9a391e411a9b"
+  },
+  "places": {
+    "p01": {
+      "label": "Great Chasm",
+      "kind": "chasm",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0008",
+          "quote": "DM: As we… pan in on the… Great Chasm, we see… a rock, floating in the sky next to the cliff, held up by some… undefinable magic."
+        },
+        {
+          "startUid": "u0102",
+          "endUid": "u0107",
+          "quote": "DM: So, the Vejo Vaikai is an order of druids who are closely associated with the Great Chasm in general, and to… who have, like, plumbed its depths and explored it, and kind of see it as a sacred place, and are very… counter to the general prevailing myth, or prevailing story in these parts, that the chasm is the home of Zeyfa, the cruel west wind, and that venturing into it brings ill fortune and ill fate."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Zimkova/Great Chasm.md"
+    },
+    "p02": {
+      "label": "Movable floating rock",
+      "kind": "mobile platform",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0008",
+          "quote": "DM: As we… pan in on the… Great Chasm, we see… a rock, floating in the sky next to the cliff, held up by some… undefinable magic."
+        },
+        {
+          "startUid": "u0410",
+          "endUid": "u0412",
+          "quote": "DM: You could bring your stone, and there's about 30 feet between the two platforms. Your stone is, like, 10 feet by… 15 feet. Right? And it's not that thick, it's only like this. So you could kind of put it anywhere."
+        }
+      ],
+      "mobile": true,
+      "note": "Its position changes during play; the cliff, upper wall, and lower roof are temporary locations."
+    },
+    "p03": {
+      "label": "Eidrikas’s runic platform",
+      "kind": "platform",
+      "evidence": [
+        {
+          "startUid": "u0009",
+          "endUid": "u0013",
+          "quote": "DM: At about 1,000 feet below it, another huge slab of stone, maybe a thousand feet across, and… 100 feet wide, carved with hundreds of intricate channels and runes and… geometric shapes on the surface."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0039",
+          "quote": "DM: And then, in the… one… sort of… corner of the… of the, of this slab. A small figure, cross-legged, sitting, sort of, cross-legged, like, hunched over, with their arms stretched out, like, stuck in, almost, not, like, into the stone, but, like, grasping at two of the runes. And as, you know, you can see this small figure down below, the light flows through their body, and, like, you… sparks come out, right? And you… you… sort of see, and then it dissipates, and it calms for a minute, and then a few minutes later, another jolt of it, of this… of this blue sparking light flows through their body. And this is, Eidrikas, the… the elder…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0005",
+              "endUid": "u0008",
+              "quote": "DM: As we… pan in on the… Great Chasm, we see… a rock, floating in the sky next to the cliff, held up by some… undefinable magic."
+            },
+            {
+              "startUid": "u0009",
+              "endUid": "u0013",
+              "quote": "DM: At about 1,000 feet below it, another huge slab of stone, maybe a thousand feet across, and… 100 feet wide, carved with hundreds of intricate channels and runes and… geometric shapes on the surface."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Suspended cylindrical complex",
+      "kind": "structure",
+      "evidence": [
+        {
+          "startUid": "u0197",
+          "endUid": "u0205",
+          "quote": "DM: So, you can see there's this structure, like, you can kind of, as… especially as you're, like, flying back up to the stone, you see, like, underneath, like, it's askew, right? Like, it looks like it's supposed to be somewhere more directly under the platform, but there's, like, this cylindrical structure that starts with, like, there's a… there's a open area at the top, and then this… a section of, like, several… sort of cylindrical things kind of stacked together that makes, like, sort of a vertical tower, just kind of hanging in the air, that sort of narrows as it goes down."
+        },
+        {
+          "startUid": "u1490",
+          "endUid": "u1491",
+          "quote": "DM: Yeah, I guess, like, before I said it was, like, a tower, this is much bigger at the bottom. There's a bigger section at the bottom. Yeah, I misspoke earlier. Or I… or I forgot to double-check my notes. The…"
+        }
+      ],
+      "aliases": [
+        "cylindrical sky dungeon",
+        "tower"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0005",
+              "endUid": "u0013",
+              "quote": "DM: As we… pan in on the… Great Chasm, we see… a rock, floating in the sky next to the cliff, held up by some… undefinable magic."
+            },
+            {
+              "startUid": "u0040",
+              "endUid": "u0044",
+              "quote": "DM: And he has asked you, as you remember, or maybe you don't, to… go find… in the, area below, and I'll— you sort of… you can sort of see just actually before… just beneath, the platform is actually slightly tilted. It looks like it's, like, slightly off-center, and it's, like, not, like, a steep tilt, like, but gently tilted in one direction. And you can see just under the platform, you can't make it out that well, because you're above it, but you can see, like, under the platform, just, like, the hints of, like, a structure. Like, some sort of, like, like a cylindrical structure, kind of, that's hanging in the sky just beneath the platform."
+            },
+            {
+              "startUid": "u0197",
+              "endUid": "u0205",
+              "quote": "DM: So, you can see there's this structure, like, you can kind of, as… especially as you're, like, flying back up to the stone, you see, like, underneath, like, it's askew, right? Like, it looks like it's supposed to be somewhere more directly under the platform, but there's, like, this cylindrical structure that starts with, like, there's a… there's a open area at the top, and then this… a section of, like, several… sort of cylindrical things kind of stacked together that makes, like, sort of a vertical tower, just kind of hanging in the air, that sort of narrows as it goes down."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Roofless gravity chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0472",
+          "endUid": "u0477",
+          "quote": "DM: As you get… as you get close to the… so now you're, like, there's stone is kind of coming along, and you can see down into the first room of this… of this cylinder, the top room, you see, like, a circular chamber open to the sky."
+        },
+        {
+          "startUid": "u0568",
+          "endUid": "u0579",
+          "quote": "DM: Eolo lands… on his… ass."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0472",
+              "endUid": "u0477",
+              "quote": "DM: As you get… as you get close to the… so now you're, like, there's stone is kind of coming along, and you can see down into the first room of this… of this cylinder, the top room, you see, like, a circular chamber open to the sky."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Crystalline custodian chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0646",
+          "endUid": "u0663",
+          "quote": "DM: It's more like a 20-foot drop… on the… into the next, into the next room. And the room beneath you is much wider than this. So you can't… like, your angle is bad, you can see it goes around on the edge. There's a… there's…"
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0891",
+          "quote": "DM: No live orcs. It woke… so, there's a… as I was sort of… as I started to say before, there's… these four crystalline structures in the middle, and there was two sort of alcoves that you could see from the top, and now that you have, as you're coming down, you can see across the other side of the room. There's two other alcoves set in the… in the side."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0646",
+              "endUid": "u0663",
+              "quote": "DM: It's more like a 20-foot drop… on the… into the next, into the next room. And the room beneath you is much wider than this. So you can't… like, your angle is bad, you can see it goes around on the edge. There's a… there's…"
+            },
+            {
+              "startUid": "u0866",
+              "endUid": "u0891",
+              "quote": "DM: No live orcs. It woke… so, there's a… as I was sort of… as I started to say before, there's… these four crystalline structures in the middle, and there was two sort of alcoves that you could see from the top, and now that you have, as you're coming down, you can see across the other side of the room. There's two other alcoves set in the… in the side."
+            }
+          ]
+        }
+      ],
+      "note": "An orc body is seen below the crack at u0643–u0645, but the DM later says this room has no dead orcs at u1024–u1026; its corpse count remains unresolved."
+    },
+    "p07": {
+      "label": "Lightning conduit chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1034",
+          "endUid": "u1045",
+          "quote": "DM: Right, so let me describe that room in more detail— when you… so, when you look down through the trapdoor, you see a, like, towering cylinder of stone nearly 30 feet high, so it's a large room, right? There are 6 immense columns of black metal that are rising from the floor. Each pair, so there's, like, two pairs… 3 pairs of two, right? Each pair goes up from the floor, and then bends towards each other, fuses together, and then flows out to the wall. This… this looks to Eolo very similar to these three bulges that you saw emerging from the, like, bulges of this black metal, or black material."
+        },
+        {
+          "startUid": "u1053",
+          "endUid": "u1071",
+          "quote": "DM: There's two circular walkways, one, close to the ceiling, one at, like, 25 feet, so it's close to the ceiling of the room, it's kind of constrained, and another 10 feet below that. The one 10 feet below that is about at the same level as where these black tubes, black metal or black material things, move towards the wall, and the lightning is just below that."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1034",
+              "endUid": "u1045",
+              "quote": "DM: Right, so let me describe that room in more detail— when you… so, when you look down through the trapdoor, you see a, like, towering cylinder of stone nearly 30 feet high, so it's a large room, right? There are 6 immense columns of black metal that are rising from the floor. Each pair, so there's, like, two pairs… 3 pairs of two, right? Each pair goes up from the floor, and then bends towards each other, fuses together, and then flows out to the wall. This… this looks to Eolo very similar to these three bulges that you saw emerging from the, like, bulges of this black metal, or black material."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Roof of the large bottom section",
+      "kind": "roof",
+      "evidence": [
+        {
+          "startUid": "u1452",
+          "endUid": "u1470",
+          "quote": "DM: Not really visible clearly until you land and walk around. But there's one last… there's one last hatch in the… This is a much larger platform, it's about… much larger section, right? These three… six black… black metal… I mean, you could walk right up to the black metal if you want, if you want to investigate this black substance. But, the… hold on, the 6… There's a… hold on a second… the…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1465",
+              "endUid": "u1470",
+              "quote": "DM: You could climb up or down. I mean, the lightning is up there, but it's almost like a pathway that you could climb up or down. And then at the bottom of this, on the… roof, right, like, of the final section, which is a much larger section. These six pillars pierce it, right, and then keep going, like, they go through the roof, and then… but there's a large, metal hatch, like, again, one of these other metal trap doors? Like, large, like, 10 by 10 in the… in the roof."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Ruined lower hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1473",
+          "endUid": "u1497",
+          "quote": "DM: So wait, you open the hatch, and you can see down, into… into a large, like, a large… open space. Sorry, it… into a large open space. It's about hundreds of feet long, like 300 feet long. The… it looks kind of…"
+        },
+        {
+          "startUid": "u1501",
+          "endUid": "u1514",
+          "quote": "DM: So, there's, none of the, like, crystalline, runic structure that you saw above. This is just, like, stone rubble, kind of scattered and irregular lumps across this… across this structure. The only… interesting… sort of unique feature is these… these six pillars that pierce down through the floor into… there's this, like, lump at the bottom, right? Like, some large… structure made of this large thing made of this black metal that Eolo saw on the outside. This, but then you can… you can see, I mean, it's… it's…"
+        },
+        {
+          "startUid": "u1492",
+          "endUid": "u1497",
+          "quote": "DM: You can see, like, there's just, like, debris, like, the whole… the whole space looks trashed, right? Like… it doesn't look… There's, like, cracked stone… things on the ground. There's, like, you know, sort of… rubble here and there. Kind of looks like maybe what used to be pillars that have been smashed or something like that. None of the, like… okay."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1473",
+              "endUid": "u1491",
+              "quote": "DM: So wait, you open the hatch, and you can see down, into… into a large, like, a large… open space. Sorry, it… into a large open space. It's about hundreds of feet long, like 300 feet long. The… it looks kind of…"
+            },
+            {
+              "startUid": "u1501",
+              "endUid": "u1505",
+              "quote": "DM: So, there's, none of the, like, crystalline, runic structure that you saw above. This is just, like, stone rubble, kind of scattered and irregular lumps across this… across this structure. The only… interesting… sort of unique feature is these… these six pillars that pierce down through the floor into… there's this, like, lump at the bottom, right? Like, some large… structure made of this large thing made of this black metal that Eolo saw on the outside. This, but then you can… you can see, I mean, it's… it's…"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Blue-light core",
+      "kind": "magical zone",
+      "evidence": [
+        {
+          "startUid": "u0667",
+          "endUid": "u0672",
+          "quote": "DM: Yeah, so there's a hole in the floor, and the blue light is coming from the hole in the floor, but it doesn't go down… like, when you peer down through the cracks, you don't see… the four crystalline structures are, like, set around where the hole is, but there's no…"
+        },
+        {
+          "startUid": "u0699",
+          "endUid": "u0708",
+          "quote": "DM: Everything is, like… you, like, blink. So, once you're… now that you're here, gravity's very light. You feel like you could almost step up and float. And like, you know, the blue light is just ahead of you, but you've clearly crossed some… But… Like, you could, you know, it's, like, very… it feels very peaceful, like, you could sort of… jump up and, and, and, yeah… float in the air, practically. You do take 6 points of damage."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0667",
+              "endUid": "u0672",
+              "quote": "DM: Yeah, so there's a hole in the floor, and the blue light is coming from the hole in the floor, but it doesn't go down… like, when you peer down through the cracks, you don't see… the four crystalline structures are, like, set around where the hole is, but there's no…"
+            },
+            {
+              "startUid": "u0671",
+              "endUid": "u0672",
+              "quote": "Jrain: So the column of blue light only exists on the level we're at, not the level we're gonna climb down to."
+            }
+          ]
+        }
+      ],
+      "note": "Eolo’s feeling of lag is subjective; no measured time-rate difference is established."
+    },
+    "p11": {
+      "label": "Broken upper wall rim",
+      "kind": "wall rim",
+      "evidence": [
+        {
+          "startUid": "u0499",
+          "endUid": "u0505",
+          "quote": "DM: There's, like, a cylindrical room, no ceiling. Your floating rock is now, like, floating at the top of the wall. Right? The wall keeps going up, and now you're, like, perched on the edge of the wall, right? And… you… can look ahead now. You could… I mean, the floor is 10 feet below you, ish, 15 feet, something like that. You can… or 20 feet, maybe. You can look forward, and you can see this blue cylinder. Right? There's a rope dangling down, you have your own ropes, like, you can see there's, like, a rope attached to the…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0499",
+              "endUid": "u0505",
+              "quote": "DM: There's, like, a cylindrical room, no ceiling. Your floating rock is now, like, floating at the top of the wall. Right? The wall keeps going up, and now you're, like, perched on the edge of the wall, right? And… you… can look ahead now. You could… I mean, the floor is 10 feet below you, ish, 15 feet, something like that. You can… or 20 feet, maybe. You can look forward, and you can see this blue cylinder. Right? There's a rope dangling down, you have your own ropes, like, you can see there's, like, a rope attached to the…"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0013"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins on the floating rock beside the cliff, above Eidrikas’s runic platform.",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0013",
+          "quote": "DM: As we… pan in on the… Great Chasm, we see… a rock, floating in the sky next to the cliff, held up by some… undefinable magic."
+        },
+        {
+          "startUid": "u0255",
+          "endUid": "u0258",
+          "quote": "Finnan: Oh, is there any way to get to the platform besides flying?"
+        },
+        {
+          "startUid": "u0256",
+          "endUid": "u0256",
+          "quote": "DM: While the floating stone you're on can be pulled."
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "within",
+          "target": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0039"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the floating rock, the party can see Eidrikas on the large runic platform far below.",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0039",
+          "quote": "DM: And then, in the… one… sort of… corner of the… of the, of this slab. A small figure, cross-legged, sitting, sort of, cross-legged, like, hunched over, with their arms stretched out, like, stuck in, almost, not, like, into the stone, but, like, grasping at two of the runes. And as, you know, you can see this small figure down below, the light flows through their body, and, like, you… sparks come out, right? And you… you… sort of see, and then it dissipates, and it calms for a minute, and then a few minutes later, another jolt of it, of this… of this blue sparking light flows through their body. And this is, Eidrikas, the… the elder…"
+        }
+      ],
+      "place": "p03",
+      "mode": "local",
+      "observerPlace": "p02",
+      "observedActors": [
+        "Eidrikas"
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0061",
+        "endUid": "u0070"
+      },
+      "actors": [
+        "Ekko"
+      ],
+      "reading": "Ekko returns from Eidrikas’s platform to the companions on the floating rock.",
+      "evidence": [
+        {
+          "startUid": "u0061",
+          "endUid": "u0070",
+          "quote": "DM: Eidrikas, as you… as Ekko flies back up to the… to the… floating rock up in the sky near the cliff to sort of share Eidrikas' story. You know, you recall Ekko told you that Eidrikas came across these orcs camped out on this platform. They had been here for some time, and had… you know, weeks, probably. It had… it had killed… a group of Stoneborn."
+        },
+        {
+          "startUid": "u0197",
+          "endUid": "u0202",
+          "quote": "DM: So, you can see there's this structure, like, you can kind of, as… especially as you're, like, flying back up to the stone, you see, like, underneath, like, it's askew, right? Like, it looks like it's supposed to be somewhere more directly under the platform, but there's, like, this cylindrical structure that starts with, like, there's a… there's a open area at the top, and then this… a section of, like, several… sort of cylindrical things kind of stacked together that makes, like, sort of a vertical tower, just kind of hanging in the air, that sort of narrows as it goes down."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0111",
+        "endUid": "u0147"
+      },
+      "actors": [
+        "Ekko"
+      ],
+      "reading": "The table retrospectively resolves Ekko’s Detect Thoughts check during his contact with Eidrikas.",
+      "evidence": [
+        {
+          "startUid": "u0111",
+          "endUid": "u0114",
+          "quote": "Ekko: This is… this is Ekko's order. Ekko is a druid of this order. Mike, does a… Just, like… when, when, Ekko was talking to Eidrikas, is it? Is he sure that it's a Eidrikas?"
+        },
+        {
+          "startUid": "u0139",
+          "endUid": "u0149",
+          "quote": "Ekko: No, I'll use a spell slot for that, and I'll also… yeah, I mean, I just use all my discernment. I mean, this is my… this is my… this is my, master, you know? But I just… I just want to confirm, you know? Is there anything off… if there's… is there anything off about him? Like, is there… you know, I just don't want us to be manipulated into, like, stealing some stone, and then, you know, because we're dealing with some fey shit, too. I mean, this is…"
+        }
+      ],
+      "place": "p03",
+      "context": "flashback"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0287",
+        "endUid": "u0347"
+      },
+      "actors": [
+        "Eolo"
+      ],
+      "reading": "Eolo makes a quick flight around the outside of the suspended complex, then returns to report to the companions.",
+      "evidence": [
+        {
+          "startUid": "u0287",
+          "endUid": "u0293",
+          "quote": "Eolo: Eolo says, I'm thinking about flying down around the bottom of that thing, just to see what's underneath it. Underneath the cylinder, I mean."
+        },
+        {
+          "startUid": "u0309",
+          "endUid": "u0329",
+          "quote": "DM: Eolo… flies… down and around. So this, this structure, that… so as you fly down towards it at the top, you can see that there is, like, a cracked… there's, like, a faint… blue light coming out of the top of it. So the ceiling is actually open, and…"
+        },
+        {
+          "startUid": "u0330",
+          "endUid": "u0338",
+          "quote": "Eolo: I've… I fly up and… and… report back, expressing a little bit of concern that things are getting weird."
+        },
+        {
+          "startUid": "u0341",
+          "endUid": "u0347",
+          "quote": "DM: The only entrance you noticed was the… I mean, again, I assume you kind of did a quick flyby, not, like, a detailed search?"
+        }
+      ],
+      "from": "p02",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Pass around and underneath the complex; the scout does not enter it.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0403",
+        "endUid": "u0505"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party brings its floating rock down and parks it on the broken upper wall, still above the chamber floor.",
+      "evidence": [
+        {
+          "startUid": "u0403",
+          "endUid": "u0412",
+          "quote": "Eolo: Well, yeah, let's bring this stone down. Right?"
+        },
+        {
+          "startUid": "u0433",
+          "endUid": "u0441",
+          "quote": "DM: So you guys are dragging the stone down?"
+        },
+        {
+          "startUid": "u0499",
+          "endUid": "u0505",
+          "quote": "DM: There's, like, a cylindrical room, no ceiling. Your floating rock is now, like, floating at the top of the wall. Right? The wall keeps going up, and now you're, like, perched on the edge of the wall, right? And… you… can look ahead now. You could… I mean, the floor is 10 feet below you, ish, 15 feet, something like that. You can… or 20 feet, maybe. You can look forward, and you can see this blue cylinder. Right? There's a rope dangling down, you have your own ropes, like, you can see there's, like, a rope attached to the…"
+        }
+      ],
+      "from": null,
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "ride floating rock",
+      "vehicle": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "perched_on",
+          "target": "p11"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0557",
+        "endUid": "u0579"
+      },
+      "actors": [
+        "Eolo"
+      ],
+      "reading": "Eolo alone drops into the roofless chamber and lands badly in its heavy gravity.",
+      "evidence": [
+        {
+          "startUid": "u0557",
+          "endUid": "u0575",
+          "quote": "Eolo: That's a… that's a sensible idea, but I don't think it's strictly necessary. Eolo jumps up and flaps his wing once… wings once, and…"
+        },
+        {
+          "startUid": "u0576",
+          "endUid": "u0579",
+          "quote": "Eolo: I'm okay, I'm okay! I lift my hand, it must feel weird to lift my hand."
+        },
+        {
+          "startUid": "u0568",
+          "endUid": "u0568",
+          "quote": "DM: Eolo lands… on his… ass."
+        }
+      ],
+      "from": "p11",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "fly and land"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0581",
+        "endUid": "u0604"
+      },
+      "actors": [
+        "Ekko"
+      ],
+      "reading": "Ekko flies up to retrieve a rope and returns it to the companions above the chamber floor.",
+      "evidence": [
+        {
+          "startUid": "u0581",
+          "endUid": "u0584",
+          "quote": "Finnan: While Eolo's exploring, I'll turn to Ekko and say, will you fly up and get that rope? Seems like it might be useful."
+        },
+        {
+          "startUid": "u0594",
+          "endUid": "u0604",
+          "quote": "DM: There's, like, an iron spike driven into the rock, and, like, the rope is tied to it, and it's easy to get. Right, we can grab the rope, no problem."
+        },
+        {
+          "startUid": "u0604",
+          "endUid": "u0604",
+          "quote": "Justas: Justas stows the rope. I finally feel whole again."
+        }
+      ],
+      "from": "p11",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Retrieve the rope at an upper rock anchor, avoiding the blue light."
+        }
+      ],
+      "note": "Finnan recalls a rope on the ice wolf at u0509–u0513, while the DM describes an iron spike in rock at u0594–u0595. The anchor is not assigned to a verified place."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0611",
+        "endUid": "u0627"
+      },
+      "actors": [
+        "Finnan",
+        "Jrain",
+        "Justas",
+        "Ekko"
+      ],
+      "reading": "The other companions join Eolo on the roofless chamber floor, using the rope or flight.",
+      "evidence": [
+        {
+          "startUid": "u0611",
+          "endUid": "u0618",
+          "quote": "DM: Yeah, it's fine. So yes, you… it's easy enough to tie, and the rope is… 25 feet, the ground is only 12 feet below, this is not a hard problem. You can easily end up at the ground."
+        },
+        {
+          "startUid": "u0626",
+          "endUid": "u0627",
+          "quote": "DM: As you all kind of land and walk around, you can see there's, like, a number of these, like, cracked stones and things like that in the floor. There's maybe 2 or 3 places, in the floor where you could…"
+        }
+      ],
+      "from": "p11",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "rope descent and flight"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0638",
+        "endUid": "u0672"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party looks through floor cracks into the wider chamber of crystals and alcoves beneath it.",
+      "evidence": [
+        {
+          "startUid": "u0638",
+          "endUid": "u0663",
+          "quote": "DM: I mean, in one case, there's, like, in a couple cases, they're, like… in two of them, there's, like, stone on top of them, and you have to clear it. One of them… looks like it was… cleared. And you actually see another orc. Like, if you go look at all of these, right? There's two that are, like, less visible, where there's, like, some stone piled on top. You could probably dig your way and jump through. Or, Finn might be able to sneak through, right?"
+        },
+        {
+          "startUid": "u0667",
+          "endUid": "u0672",
+          "quote": "DM: Yeah, so there's a hole in the floor, and the blue light is coming from the hole in the floor, but it doesn't go down… like, when you peer down through the cracks, you don't see… the four crystalline structures are, like, set around where the hole is, but there's no…"
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0674",
+        "endUid": "u0753"
+      },
+      "actors": [
+        "Eolo"
+      ],
+      "reading": "Eolo is pulled across the boundary into the blue-light core, tests an arrow there, and flies back out toward the wall.",
+      "evidence": [
+        {
+          "startUid": "u0680",
+          "endUid": "u0705",
+          "quote": "DM: Okay, so, as you start… as you start crossing, like, as you cross towards the blue light, actually, as you're getting closer to it, all of a sudden, you feel this, like, strong… pulling, like… like, your whole body almost feels like it's being yanked at. And, like, there's… it almost feels like there's a, like, like, your insides are almost being, like, pulled out, and, like, your vision is being, like, distorted."
+        },
+        {
+          "startUid": "u0734",
+          "endUid": "u0742",
+          "quote": "Eolo: Oh boy, okay, I shoot my magic metal arrow, metal-seeking arrow, straight up along the path of the blue…"
+        },
+        {
+          "startUid": "u0743",
+          "endUid": "u0753",
+          "quote": "Eolo: Okay, can I… can I get out of this? Can I, like, fly my way out of the beam, back over to the others?"
+        },
+        {
+          "startUid": "u0753",
+          "endUid": "u0753",
+          "quote": "DM: The sort of weird neutral buoyancy dissipates when you're… as you go horizontal, but it seems like it almost widens a little bit as it goes up, so you're not actually that far from the wall when it starts to dissipate."
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk and fly",
+      "route": [
+        {
+          "reading": "Enter the nearly weightless region around the blue column.",
+          "place": "p10"
+        },
+        {
+          "reading": "Fly up and sideways out of the buoyant zone toward the chamber’s edge."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0772",
+        "endUid": "u0886"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All five companions descend through a floor crack into the crystalline custodian chamber; Jrain falls the last distance.",
+      "evidence": [
+        {
+          "startUid": "u0802",
+          "endUid": "u0809",
+          "quote": "Justas: Alright. Down I go."
+        },
+        {
+          "startUid": "u0824",
+          "endUid": "u0824",
+          "quote": "DM: You actually just let go of the rope for some dumb reason, and your wings, like, you’re like, \"Oh,\" and you, like, catch yourself with your wings and, like, grab back onto it, and… and make your way down safely."
+        },
+        {
+          "startUid": "u0837",
+          "endUid": "u0845",
+          "quote": "Ekko: Ekko sighs. Alright. I will try to carry Finnan like a baby."
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0859",
+          "quote": "DM: Yeah, you… You just… you just, you just lose your grip, like, it's just… it's very difficult getting down this rope, like, the gravity keeps changing, it's very heavy, like, at some point, you just… you fall, and take… Take 7 points of damage, as you hit the ground."
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0886",
+          "quote": "DM: No live orcs. It woke… so, there's a… as I was sort of… as I started to say before, there's… these four crystalline structures in the middle, and there was two sort of alcoves that you could see from the top, and now that you have, as you're coming down, you can see across the other side of the room. There's two other alcoves set in the… in the side."
+        },
+        {
+          "startUid": "u0807",
+          "endUid": "u0809",
+          "quote": "DM: Okay, so you, you… The gravity, like, climbing down this rope is… is harder than you think. Like, it's definitely, takes a lot out of you, just, like, fighting this, like… pull. But you make it to the bottom safely."
+        },
+        {
+          "startUid": "u0841",
+          "endUid": "u0842",
+          "quote": "DM: You can manage. Yeah, it's, it's, it's fine. Jrain is, I think, all that's left."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "rope descent and flight"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u0932",
+        "endUid": "u0937"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Through a lifted hatch, the party observes the lightning-filled conduit chamber without entering it.",
+      "evidence": [
+        {
+          "startUid": "u0932",
+          "endUid": "u0937",
+          "quote": "DM: Can lift the trapdoor. The very first thing you see when you lift the trapdoor is a sea of lightning. I'll explain what you see around the sea of lightning more clearly in a moment, but when you look down, your very first impression is just crackling lightning around… all over the floor… of the next room. Like, just like… this crackling… almost like a storm, like a lightning storm that's just been contained. Just on the floor, it's not in the…"
+        },
+        {
+          "startUid": "u1034",
+          "endUid": "u1071",
+          "quote": "DM: Right, so let me describe that room in more detail— when you… so, when you look down through the trapdoor, you see a, like, towering cylinder of stone nearly 30 feet high, so it's a large room, right? There are 6 immense columns of black metal that are rising from the floor. Each pair, so there's, like, two pairs… 3 pairs of two, right? Each pair goes up from the floor, and then bends towards each other, fuses together, and then flows out to the wall. This… this looks to Eolo very similar to these three bulges that you saw emerging from the, like, bulges of this black metal, or black material."
+        },
+        {
+          "startUid": "u1120",
+          "endUid": "u1122",
+          "quote": "DM: I mean, are you… from… from where you're standing, you haven't even gone through… I assume you haven't even… gone into the room yet, right? You're looking down through a hatch into the room. It's hard to see what you could do to repair it from here. You could climb down."
+        },
+        {
+          "startUid": "u1194",
+          "endUid": "u1195",
+          "quote": "DM: None of you have gone into the room yet, right?"
+        }
+      ],
+      "place": "p07",
+      "mode": "local",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1216",
+        "endUid": "u1414"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party struggles back up to the roofless chamber; magic and flight get everyone through, while Justas exhausts himself climbing.",
+      "evidence": [
+        {
+          "startUid": "u1216",
+          "endUid": "u1232",
+          "quote": "Finnan: And then I'll… Head up the rope back to the room above us."
+        },
+        {
+          "startUid": "u1353",
+          "endUid": "u1360",
+          "quote": "Jrain: I brush myself off after being exhausted from that climb and say, \"There’s a different way to do this,\" and I cast Jump."
+        },
+        {
+          "startUid": "u1391",
+          "endUid": "u1395",
+          "quote": "Justas: That's a… I mean, that's a six! That's pretty good for a D8. Gets me up to a 13, I mean, that's… that's, like, solidly good."
+        },
+        {
+          "startUid": "u1405",
+          "endUid": "u1414",
+          "quote": "DM: You, like, just… you, like, beat your way up, but you just can't. You're stuck. Now, you could turn into a… if you turn into a polar bear, you could just jump up."
+        },
+        {
+          "startUid": "u1393",
+          "endUid": "u1395",
+          "quote": "DM: So, you take a level of exhaustion. Flyers, make strength checks."
+        },
+        {
+          "startUid": "u1413",
+          "endUid": "u1414",
+          "quote": "DM: Ekko, Eolo, you're okay. So you guys are all now back at the very first room, where we started. And… now what are you doing?"
+        }
+      ],
+      "from": "p06",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "climb, jump, teleport and fly",
+      "note": "Eolo’s intervening solo inspection is recorded separately in l15; the others are not placed in the lightning chamber."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1290",
+        "endUid": "u1343"
+      },
+      "actors": [
+        "Eolo"
+      ],
+      "reading": "Eolo alone flies down to inspect the lightning chamber, then abandons his contemplated attack and flies back up to the custodian chamber.",
+      "evidence": [
+        {
+          "startUid": "u1290",
+          "endUid": "u1300",
+          "quote": "Eolo: This point about what would happen if I got stuck down there is really clarifying for me, because… that's definitely not gonna happen. So, Eolo jumps down to investigate."
+        },
+        {
+          "startUid": "u1304",
+          "endUid": "u1316",
+          "quote": "DM: I mean, you can see… you can see this… as you get a little closer, like, there's, again, there's two walkways around the edge of the room."
+        },
+        {
+          "startUid": "u1340",
+          "endUid": "u1343",
+          "quote": "Eolo: Eolo draws both his crossbows."
+        },
+        {
+          "startUid": "u1342",
+          "endUid": "u1343",
+          "quote": "Eolo: Thinks about it for a second, sighs deeply, flies back up."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Enter a walkway in the lightning conduit chamber for a closer look; no attack is made.",
+          "place": "p07"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1415",
+        "endUid": "u1449"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party climbs, flies, or jumps out of the upper room and regroups on the floating rock.",
+      "evidence": [
+        {
+          "startUid": "u1415",
+          "endUid": "u1435",
+          "quote": "Finnan: So let's push the floating rock over to the… down to the level where the… metal rods come out."
+        },
+        {
+          "startUid": "u1437",
+          "endUid": "u1449",
+          "quote": "Justas: I think Justas looks up at that rope, and looks down at himself, and looks up at the rope. It says, \"You… you said something about a jump spell?\" Maybe a spell that might help me jump?"
+        },
+        {
+          "startUid": "u1448",
+          "endUid": "u1449",
+          "quote": "DM: Justas jumps. You're all back at the floating rock. Which you now, what, drag around to the bottom?"
+        }
+      ],
+      "from": "p05",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "fly, climb and jump",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "perched_on",
+          "target": "p11"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1448",
+        "endUid": "u1470"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party rides the floating rock around the outside to the roof of the broad bottom section, bypassing the lightning chamber.",
+      "evidence": [
+        {
+          "startUid": "u1448",
+          "endUid": "u1459",
+          "quote": "DM: Justas jumps. You're all back at the floating rock. Which you now, what, drag around to the bottom?"
+        },
+        {
+          "startUid": "u1460",
+          "endUid": "u1470",
+          "quote": "DM: So these 6 pillars pierce the… you could see, like, looking up, you could actually see there's, like, where these six pillars go up, there's, like… like, almost like a crawl space around each one. And you could actually see, like, a little… handholds at the top, like, little handholds in this black pillar, almost like…"
+        },
+        {
+          "startUid": "u1450",
+          "endUid": "u1451",
+          "quote": "Finnan: Yep."
+        },
+        {
+          "startUid": "u1465",
+          "endUid": "u1470",
+          "quote": "DM: You could climb up or down. I mean, the lightning is up there, but it's almost like a pathway that you could climb up or down. And then at the bottom of this, on the… roof, right, like, of the final section, which is a much larger section. These six pillars pierce it, right, and then keep going, like, they go through the roof, and then… but there's a large, metal hatch, like, again, one of these other metal trap doors? Like, large, like, 10 by 10 in the… in the roof."
+        }
+      ],
+      "from": "p11",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "ride floating rock",
+      "vehicle": "p02",
+      "route": [
+        {
+          "reading": "Descend around the structure’s exterior beside six exposed black pillars."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "at",
+          "target": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u1471",
+        "endUid": "u1543"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the roof hatch the party looks into the ruined hall, seeing a lightning-shrouded orc and hearing other orcs arguing.",
+      "evidence": [
+        {
+          "startUid": "u1471",
+          "endUid": "u1497",
+          "quote": "Finnan: Let's open the hatch."
+        },
+        {
+          "startUid": "u1501",
+          "endUid": "u1514",
+          "quote": "DM: So, there's, none of the, like, crystalline, runic structure that you saw above. This is just, like, stone rubble, kind of scattered and irregular lumps across this… across this structure. The only… interesting… sort of unique feature is these… these six pillars that pierce down through the floor into… there's this, like, lump at the bottom, right? Like, some large… structure made of this large thing made of this black metal that Eolo saw on the outside. This, but then you can… you can see, I mean, it's… it's…"
+        },
+        {
+          "startUid": "u1538",
+          "endUid": "u1543",
+          "quote": "Ekko: Like, shrouded, like, a shield, or, like, a cloak, or, like…"
+        },
+        {
+          "startUid": "u1473",
+          "endUid": "u1476",
+          "quote": "DM: So wait, you open the hatch, and you can see down, into… into a large, like, a large… open space. Sorry, it… into a large open space. It's about hundreds of feet long, like 300 feet long. The… it looks kind of…"
+        },
+        {
+          "startUid": "u1510",
+          "endUid": "u1514",
+          "quote": "DM: Right? So there's, like, these scattered blobs of light around the ground. And you can… you can hear… there's also, you can… you can see… maybe 100 feet away, a, like, blue crackling light of a… Orc that seems to be engulfed in lightning. And you can hear… noises, of, like, orcs arguing in the opposite direction from the orc engulfed in lightning."
+        },
+        {
+          "startUid": "u1542",
+          "endUid": "u1543",
+          "quote": "DM: I mean… in a brief look, you can't really tell. You're like, open the trapdoor and you're peering down before something happens, right? You don't… you don't… you can't tell if it wants it there."
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p08",
+      "observedActors": [
+        "lightning-shrouded orc"
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1664",
+        "endUid": "u1669"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party drops through the hatch into the lower hall and fights the alerted orcs there.",
+      "evidence": [
+        {
+          "startUid": "u1664",
+          "endUid": "u1669",
+          "quote": "Finnan: Okay. So, as we see the orcs arguing, and… Finnan takes advantage of…"
+        },
+        {
+          "startUid": "u1718",
+          "endUid": "u1721",
+          "quote": "Finnan: Got it. I'm gonna go… 30 feet this way and that ends my turn."
+        },
+        {
+          "startUid": "u1736",
+          "endUid": "u1736",
+          "quote": "DM: So, your first move is basically jumping 30 feet, right? And then you run the extra 10 feet to be, right next to this guy."
+        },
+        {
+          "startUid": "u1796",
+          "endUid": "u1803",
+          "quote": "Eolo: Alright, so I'll take a shot at D, first of all."
+        },
+        {
+          "startUid": "u1868",
+          "endUid": "u1871",
+          "quote": "Justas: I'll wait on that for now. So I'll, just move over next to this orc, and attack, take a big swing with my big axe. And… probably missed, that's an 11?"
+        },
+        {
+          "startUid": "u1909",
+          "endUid": "u1918",
+          "quote": "Jrain: Alright— in melee with two creatures, but if I… don't attack them, and I attack somebody that's not in melee, I… don't have a… something close to me… disadvantaged thing, right? Like, it's only effective…"
+        },
+        {
+          "startUid": "u1666",
+          "endUid": "u1669",
+          "quote": "DM: I mean… I was gonna say, as soon as you start to drop down, you hear the guards yelling at, like, you're not…"
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "drop through hatch and fly"
+    }
+  ]
+}

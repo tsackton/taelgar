@@ -1,0 +1,371 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-005",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
+    "sessionYamlSha256": "d8aa66ecc4c0cd15fd219814647b14a20427b48ff1ae6d8b5469844048540ebe",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-transcript.md",
+    "transcriptSha256": "79741912e120b66be6168ab6f92155e3c5c2324077837eb101ae9a391e411a9b",
+    "yamlDates": {
+      "start": "1730-01-29",
+      "end": "1730-01-29"
+    }
+  },
+  "markers": [
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0033"
+      },
+      "reading": "While the party watches Eidrikas, the energy calms for about a minute, with another jolt a few minutes later.",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0033",
+          "quote": "DM: And then, in the… one… sort of… corner of the… of the, of this slab. A small figure, cross-legged, sitting, sort of, cross-legged, like, hunched over, with their arms stretched out, like, stuck in, almost, not, like, into the stone, but, like, grasping at two of the runes. And as, you know, you can see this small figure down below, the light flows through their body, and, like, you… sparks come out, right? And you… you… sort of see, and then it dissipates, and it calms for a minute, and then a few minutes later, another jolt of it, of this… of this blue sparking light flows through their body. And this is, Eidrikas, the… the elder…"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "text": "a minute-long lull and a further few minutes before another jolt",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "The DM narrates successive pulses while the figure is being observed, without a precise total."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0111",
+        "endUid": "u0114"
+      },
+      "reading": "Ekko retrospectively checks Eidrikas during their contact on the runic platform, before reporting to his companions.",
+      "evidence": [
+        {
+          "startUid": "u0111",
+          "endUid": "u0114",
+          "quote": "Ekko: This is… this is Ekko's order. Ekko is a druid of this order. Mike, does a… Just, like… when, when, Ekko was talking to Eidrikas, is it? Is he sure that it's a Eidrikas?"
+        },
+        {
+          "startUid": "u0139",
+          "endUid": "u0140",
+          "quote": "Ekko: No, I'll use a spell slot for that, and I'll also… yeah, I mean, I just use all my discernment. I mean, this is my… this is my… this is my, master, you know? But I just… I just want to confirm, you know? Is there anything off… if there's… is there anything off about him? Like, is there… you know, I just don't want us to be manipulated into, like, stealing some stone, and then, you know, because we're dealing with some fey shit, too. I mean, this is…"
+        },
+        {
+          "startUid": "u0143",
+          "endUid": "u0149",
+          "quote": "DM: He seems very… you get a… he's in a lot of pain, like, he's clearly in a lot of pain, right? And when you cast Detect Thoughts, the overwhelming… the overwhelming thought you're actually… sensing from him is just this, like… endless beating back of this… of this… overwhelming, sort of, force flowing through his body. So, like…"
+        }
+      ],
+      "actors": [
+        "Ekko"
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "Ekko’s return to his companions on the floating rock"
+        },
+        "precision": "approximate",
+        "basis": "The player asks about the earlier conversation and resolves Detect Thoughts there."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0197",
+        "endUid": "u0202"
+      },
+      "reading": "Narration resumes Ekko’s flight back to the companions and their present view of the suspended tower.",
+      "evidence": [
+        {
+          "startUid": "u0197",
+          "endUid": "u0202",
+          "quote": "DM: So, you can see there's this structure, like, you can kind of, as… especially as you're, like, flying back up to the stone, you see, like, underneath, like, it's askew, right? Like, it looks like it's supposed to be somewhere more directly under the platform, but there's, like, this cylindrical structure that starts with, like, there's a… there's a open area at the top, and then this… a section of, like, several… sort of cylindrical things kind of stacked together that makes, like, sort of a vertical tower, just kind of hanging in the air, that sort of narrows as it goes down."
+        }
+      ],
+      "actors": [
+        "Ekko"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0424",
+        "endUid": "u0426"
+      },
+      "reading": "Finnan retrospectively establishes a completed Detect Magic ritual while Ekko was talking to Eidrikas.",
+      "evidence": [
+        {
+          "startUid": "u0424",
+          "endUid": "u0426",
+          "quote": "Finnan: The well… well… Ekko is talking to… a Eidrikas, I will have been… I'll ritually cast Detect Magic. [garbled]?"
+        },
+        {
+          "startUid": "u0442",
+          "endUid": "u0448",
+          "quote": "DM: M… as you pass towards it, Tim— Finnan notices there's, like, a…"
+        }
+      ],
+      "actors": [
+        "Finnan"
+      ],
+      "context": "flashback",
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Ritual-casting convention: ten additional minutes; no independent stopwatch reading."
+      },
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "same_time",
+          "reference": "t01",
+          "anchor": "During Ekko’s conversation with Eidrikas, rather than an extra wait after his return"
+        },
+        "precision": "approximate",
+        "basis": "Finnan explicitly places the ritual while Ekko was talking."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0433",
+        "endUid": "u0433"
+      },
+      "reading": "The table returns from Finnan’s retrospective ritual to dragging the floating rock down toward the tower.",
+      "evidence": [
+        {
+          "startUid": "u0433",
+          "endUid": "u0433",
+          "quote": "DM: So you guys are dragging the stone down?"
+        },
+        {
+          "startUid": "u0442",
+          "endUid": "u0448",
+          "quote": "DM: M… as you pass towards it, Tim— Finnan notices there's, like, a…"
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t02"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0735",
+        "endUid": "u0735"
+      },
+      "reading": "During Eolo’s blue-light experiment, his arrow hangs near the top for about a minute before drifting back.",
+      "evidence": [
+        {
+          "startUid": "u0735",
+          "endUid": "u0735",
+          "quote": "DM: I mean, it goes maybe a little faster than normal. When it gets to the top, it just kind of hangs there for a minute, and then it floats very slowly back down."
+        },
+        {
+          "startUid": "u0736",
+          "endUid": "u0742",
+          "quote": "Eolo: Hmm. To where I can just grab it again?"
+        }
+      ],
+      "actors": [
+        "Eolo"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0910",
+        "endUid": "u0917"
+      },
+      "reading": "By the custodian-room hatch, at least the ten-minute Detect Magic duration has elapsed since Finnan completed the ritual.",
+      "evidence": [
+        {
+          "startUid": "u0910",
+          "endUid": "u0911",
+          "quote": "DM: Do you still have Detect Magic, by the way? It probably hasn't faded, right?"
+        },
+        {
+          "startUid": "u0913",
+          "endUid": "u0917",
+          "quote": "DM: Maybe it has, by now."
+        },
+        {
+          "startUid": "u0917",
+          "endUid": "u0917",
+          "quote": "DM: Oh, it's 10 minutes, not 30 minutes, never mind, it's definitely faded if it's 10 minutes."
+        }
+      ],
+      "actors": [
+        "Finnan"
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t03",
+          "anchor": "Completion of Finnan’s ritual, not its start",
+          "offset": {
+            "min": 10,
+            "minInclusive": true,
+            "unit": "minute",
+            "precision": "exact",
+            "basis": "The DM explicitly confirms the ten-minute spell has definitely expired."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Accepted spell expiry establishes a minimum elapsed interval, not a new ten-minute wait."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0953",
+        "endUid": "u0955"
+      },
+      "reading": "The damaged custodian pauses for about a minute with flickering lights during its account of the damage.",
+      "evidence": [
+        {
+          "startUid": "u0953",
+          "endUid": "u0955",
+          "quote": "DM: It sort of stops for a minute, it’s like, I… it’s like the lights flicker. \"Expected outcome: damage.\" \"Observed outcome: damage.\""
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0972",
+        "endUid": "u0977"
+      },
+      "reading": "The custodian pauses for about a minute while attempting to verify Finnan’s identity question.",
+      "evidence": [
+        {
+          "startUid": "u0972",
+          "endUid": "u0977",
+          "quote": "DM: So, I mean, you start with… \"Who are you?\" It says… \"Verifying…\" And then just stops for a minute, and, like, the… the room… the, like, light in its… chest, like, floating that you can see through the torso, like, blinks more rapidly for a minute. And then it turns to you and says: \"Who… who are you? Are you authorized?\""
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "The pause and the rapidly blinking chest light describe the same verification interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1127",
+        "endUid": "u1135"
+      },
+      "reading": "Finnan spends about a minute trying to recall how a magical conduit might be repaired; no useful method comes to mind.",
+      "evidence": [
+        {
+          "startUid": "u1127",
+          "endUid": "u1135",
+          "quote": "Finnan: I mean, do I have any… do I have any… I mean… I've traveled a fair bit. Finnan's traveled a fair bit. I am… you know, studied a lot of history and some magic, like… must have interacted with golems, or at least read about at some point, like… My first gut reaction is, there's no way we could possibly repair this, but I'll spend a minute and I'll just think a little bit more to try and remember, you know, try and think if there's any… does anything come to mind from anything I've read? Any, like…"
+        },
+        {
+          "startUid": "u1149",
+          "endUid": "u1152",
+          "quote": "DM: I mean, Finnan, when… there's nothing you… but the lightning doesn't look… natural, right? Like, it would look to you like some… it actually looks the most similar to the lightning you saw recently in the gash in the wall, in the… Melusa."
+        }
+      ],
+      "actors": [
+        "Finnan"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Finnan states the minute of reflection, which the DM resolves in the following answer."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1433",
+        "endUid": "u1435"
+      },
+      "reading": "Jrain’s two-stage escape through the upper room fits within the same one-minute Jump spell.",
+      "evidence": [
+        {
+          "startUid": "u1353",
+          "endUid": "u1353",
+          "quote": "Jrain: I brush myself off after being exhausted from that climb and say, \"There’s a different way to do this,\" and I cast Jump."
+        },
+        {
+          "startUid": "u1433",
+          "endUid": "u1435",
+          "quote": "Jrain: This all didn't happen within one minute? I couldn't have just jumped up twice?"
+        },
+        {
+          "startUid": "u1448",
+          "endUid": "u1449",
+          "quote": "DM: Justas jumps. You're all back at the floating rock. Which you now, what, drag around to the bottom?"
+        },
+        {
+          "startUid": "u1435",
+          "endUid": "u1435",
+          "quote": "DM: No, no, you can jump up twice. Yeah, the jump spell lasts for a minute, you can jump up twice. It's only Justas, actually, and Finn."
+        }
+      ],
+      "actors": [
+        "Jrain"
+      ],
+      "duration": {
+        "max": 1,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "The DM accepts both jumps within the one-minute spell; this is an upper bound, not another minute spent."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute in-world date is spoken in session 005. January 29, 1730 comes from the session YAML; the continuous delve supports its same-day span, not an independently verified calendar date.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t11",
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10"
+    ],
+    "explanation": "The played interval runs from the opening contact/report and overlapping ritual through the descent and completed orc fight. Short pauses and a confirmed spell expiry occur, with no overnight or day transition. Earlier battles and mentorship memories are background; future rests, nightfall plans, and the real-world 12:15 ending do not advance this session’s calendar."
+  }
+}

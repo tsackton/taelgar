@@ -1,0 +1,684 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-005",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
+    "sessionYamlSha256": "d8aa66ecc4c0cd15fd219814647b14a20427b48ff1ae6d8b5469844048540ebe",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-transcript.md",
+    "transcriptSha256": "79741912e120b66be6168ab6f92155e3c5c2324077837eb101ae9a391e411a9b",
+    "segments": {
+      "path": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-segments.json",
+      "sha256": "8303d3911ffea7bae6d23bb124acbe078a570bd1fac00870af01b8f087fb2d4a",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s009",
+      "encounter": "Orcs in the ruined lower hall",
+      "note": "Finnan swaps initiative with Jrain. The God Caller and lightning orc are distinct enemies; map token labels are encounter labels. Finnan’s missed third-cycle turn is played after Ekko and Eolo.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Uses Jrain’s swapped initiative of 23 to cast Hypnotic Pattern on five orcs, excluding Conduit D. Three fail DC 15 Wisdom saves and become charmed, incapacitated, and unable to move; damage or an ally’s action can free them. The guards noticed the descent, so there is no surprise. After the spell and the psychic reaction, retreats 30 feet.",
+              "evidence": [
+                {
+                  "startUid": "u1632",
+                  "endUid": "u1669"
+                },
+                {
+                  "startUid": "u1670",
+                  "endUid": "u1702"
+                },
+                {
+                  "startUid": "u1713",
+                  "endUid": "u1721"
+                }
+              ]
+            },
+            {
+              "actor": "God Caller",
+              "kind": "reaction",
+              "summary": "Answers Finnan’s spell with an orcish psychic curse for 3 psychic damage. The DM explicitly requires no concentration check on this instance.",
+              "evidence": [
+                {
+                  "startUid": "u1703",
+                  "endUid": "u1712"
+                },
+                {
+                  "startUid": "u2516",
+                  "endUid": "u2519"
+                }
+              ],
+              "note": "The first curse is not named at its trigger; the later explanation identifies the God Caller’s anti-spellcaster reaction."
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Still a polar bear, jumps 30 feet and runs into reach of an active orc. Makes two bear attacks: 14 hits for 13 damage and 11 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1723",
+                  "endUid": "u1751"
+                },
+                {
+                  "startUid": "u1755",
+                  "endUid": "u1760"
+                }
+              ],
+              "note": "The later focus on Conduit D identifies the active target; the source does not unambiguously assign the hit to bite versus claws."
+            },
+            {
+              "actor": "Hypnotized orc",
+              "kind": "turn",
+              "summary": "Stares into space and cannot act or move under Hypnotic Pattern.",
+              "evidence": [
+                {
+                  "startUid": "u1752",
+                  "endUid": "u1761"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Moves into crossbow range and shoots Conduit D three times, using his bonus action for the third shot. The first misses; the second hits for 8 total damage, including 1 additional slashing damage from the altered ammunition. Vex grants advantage on the third shot, which hits and kills the orc. Second Wind is discussed but not used.",
+              "evidence": [
+                {
+                  "startUid": "u1762",
+                  "endUid": "u1815"
+                },
+                {
+                  "startUid": "u1817",
+                  "endUid": "u1829"
+                },
+                {
+                  "startUid": "u1832",
+                  "endUid": "u1837"
+                }
+              ],
+              "note": "The killing shot’s damage is not stated."
+            },
+            {
+              "actor": "Conduit A",
+              "kind": "turn",
+              "summary": "Roars, rushes across the battlefield to Jrain with a burst of speed, and misses her with its two-handed axe.",
+              "evidence": [
+                {
+                  "startUid": "u1847",
+                  "endUid": "u1860"
+                },
+                {
+                  "startUid": "u1927",
+                  "endUid": "u1930"
+                }
+              ]
+            },
+            {
+              "actor": "Two hypnotized orcs",
+              "kind": "turn",
+              "summary": "Remain in their stupor and do nothing.",
+              "evidence": [
+                {
+                  "startUid": "u1861",
+                  "endUid": "u1861"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Uses Channel Divinity to cast Shield of Faith on himself for +2 AC. Declines Spirit Guardians to avoid waking the hypnotized enemies. Moves beside Conduit A and swings his axe; turns the initial 11 into a 21 with a +10 divine benefit, hitting for 7 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1862",
+                  "endUid": "u1888"
+                },
+                {
+                  "startUid": "u1927",
+                  "endUid": "u1929"
+                }
+              ]
+            },
+            {
+              "actor": "Lightning orc",
+              "kind": "turn",
+              "summary": "Rushes into the fight with repeated movement and bonus movement, lightning crackling around it; has no actions remaining to attack.",
+              "evidence": [
+                {
+                  "startUid": "u1889",
+                  "endUid": "u1898"
+                }
+              ]
+            },
+            {
+              "actor": "God Caller",
+              "kind": "turn",
+              "summary": "Uses an action to wake a hypnotized ally, then shouts a blessing or curse; a creature startles and rushes forward toward the fight.",
+              "evidence": [
+                {
+                  "startUid": "u1899",
+                  "endUid": "u1908"
+                }
+              ],
+              "note": "The actor follows the God Caller’s continuing initiative position; map gestures do not identify the awakened ally or the recipient of the extra movement by name."
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Summons Rala and uses her bonus action for Hunter’s Mark on Conduit A. Shoots twice despite adjacent enemies, with Sharpshooter removing the proximity penalty. The first arrow hits and applies Slow, with damage corrected to 13 including Hunter’s Mark; the second hits for 14 and kills the orc. She takes both attacks herself rather than giving Rala an attack.",
+              "evidence": [
+                {
+                  "startUid": "u1909",
+                  "endUid": "u1946"
+                },
+                {
+                  "startUid": "u1954",
+                  "endUid": "u1984"
+                }
+              ],
+              "note": "Slow’s ending is left unfinished in the source; no exact duration is added."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Casts first-level Command on the lightning orc: it fails DC 15 Wisdom and must spend its next turn fleeing by its fastest movement. Finnan retreats another 20 feet.",
+              "evidence": [
+                {
+                  "startUid": "u1985",
+                  "endUid": "u1996"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Charges the Rampart and makes two bear attacks. The 14 misses; the 26 hits for 8 slashing damage. His 18 Wild Shape temporary hit points are explicitly recalled.",
+              "evidence": [
+                {
+                  "startUid": "u2006",
+                  "endUid": "u2014"
+                }
+              ]
+            },
+            {
+              "actor": "Rampart",
+              "kind": "turn",
+              "summary": "Hits Ekko twice with its axe for 21 total damage, removing all 18 temporary hit points and dealing 3 damage beyond them.",
+              "evidence": [
+                {
+                  "startUid": "u2015",
+                  "endUid": "u2027"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Shoots the chain-armored Rampart three times, gaining +2 to hit from the metal-seeking bolts. The first hits for 8 base damage plus an unspoken d4 slashing roll and 9 psychic damage from Psionic Strike. The second, with Vex advantage, hits for 8. The third initially looks like a miss, but the advantage die hits for 10. The orc staggers to one knee, tears the arrow out, and stands again. Eolo forgoes healing to take the third shot.",
+              "evidence": [
+                {
+                  "startUid": "u2036",
+                  "endUid": "u2090"
+                }
+              ],
+              "note": "No final total for the first bolt’s physical damage is spoken; the third hit is not established as a critical hit."
+            },
+            {
+              "actor": "Two hypnotized orcs",
+              "kind": "turn",
+              "summary": "Continue doing nothing under Hypnotic Pattern.",
+              "evidence": [
+                {
+                  "startUid": "u2091",
+                  "endUid": "u2093"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Casts second-level Guiding Bolt at the lightning orc, raising a 9 to 19 with another +10 divine benefit; hits for 9 radiant damage and grants advantage on the next attack. His bonus-action melee attack uses that advantage, rolls a natural 20, and deals 14 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2094",
+                  "endUid": "u2116"
+                }
+              ]
+            },
+            {
+              "actor": "Lightning orc",
+              "kind": "turn",
+              "summary": "At the start of its commanded turn, emits lightning despite having to flee: Justas rolls Dexterity 9 and takes 11 damage; Jrain rolls 14 and takes 5. It then runs away under Command, provoking the following opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2115",
+                  "endUid": "u2129"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "reaction",
+              "summary": "Hits the fleeing lightning orc with an opportunity attack for 9 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2127",
+                  "endUid": "u2136"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "reaction",
+              "summary": "Hits the fleeing lightning orc with an unarmed opportunity attack but deals 0 damage; the table resolves it as an angry pat.",
+              "evidence": [
+                {
+                  "startUid": "u2132",
+                  "endUid": "u2153"
+                }
+              ]
+            },
+            {
+              "actor": "God Caller",
+              "kind": "turn",
+              "summary": "Skirts the polar bear and charges Eolo. Its battle cry calls for Wisdom saves: Ekko succeeds with 26; Eolo fails and becomes frightened, with attack disadvantage and no willing movement closer. Swings its greataxe twice: one miss and one hit for 11 damage before Eolo’s reaction.",
+              "evidence": [
+                {
+                  "startUid": "u2157",
+                  "endUid": "u2176"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "reaction",
+              "summary": "Uses Protective Field against that axe hit, reducing its 11 damage by 10 to 1. This is resolved after Jrain starts moving and applies to the preceding blow.",
+              "evidence": [
+                {
+                  "startUid": "u2170",
+                  "endUid": "u2176"
+                },
+                {
+                  "startUid": "u2181",
+                  "endUid": "u2189"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Moves to a firing angle and transfers Hunter’s Mark to the God Caller as a bonus action. Both longbow attacks hit, for the table’s accepted 12 and 6 damage. Rala receives no attack this turn.",
+              "evidence": [
+                {
+                  "startUid": "u2177",
+                  "endUid": "u2180"
+                },
+                {
+                  "startUid": "u2196",
+                  "endUid": "u2230"
+                }
+              ],
+              "note": "The first stated total is 12 despite the adjacent “7” and “plus 6”; the accepted total is preserved without recalculation."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Kills the Rampart with one bear attack; the DM says it had 1 hit point left. Moves around behind the God Caller to leave Jrain a clear shot and uses the remaining attack against it. The attempted reuse of a 17 is replaced by a fresh 23, which hits for 8 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2231",
+                  "endUid": "u2272"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Fires at the God Caller while frightened, with +2 accuracy against metal armor. The first shot hits with disadvantage for 13 damage. Vex cancels fear’s disadvantage on the next attacks: the second hits for 9; Action Surge supplies a third hit for 7 plus 8 psychic damage and a fourth shot that misses at 16. Uses his bonus action for Second Wind, recovering 13 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u2273",
+                  "endUid": "u2333"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "After his skipped turn is noticed, takes it after Ekko and Eolo. Moves 30 feet, gives Justas Bardic Inspiration, and spends a second-level slot to create duplicate images of himself, corrected from three duplicates to two.",
+              "evidence": [
+                {
+                  "startUid": "u2323",
+                  "endUid": "u2326"
+                },
+                {
+                  "startUid": "u2334",
+                  "endUid": "u2348"
+                }
+              ],
+              "note": "This retains the table’s resolved order and the spoken number of duplicates."
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Moves toward the God Caller, limited to 25 feet by exhaustion, and casts second-level Guiding Bolt. The attack’s 18 falls short after the −2 exhaustion penalty; an 8 on Bardic Inspiration turns it into a hit for 13 radiant damage. The next attack on the God Caller gains advantage.",
+              "evidence": [
+                {
+                  "startUid": "u2349",
+                  "endUid": "u2387"
+                }
+              ]
+            },
+            {
+              "actor": "Lightning orc",
+              "kind": "turn",
+              "summary": "Having completed its one commanded fleeing turn, runs back with a further burst of speed and projects arcs of lightning from its axe. Jrain and Justas fail Dexterity saves with 11 and each take 12 damage, corrected from 13; Eolo succeeds with 18 and takes 6. The named third target is corrected from Ekko to Eolo.",
+              "evidence": [
+                {
+                  "startUid": "u2350",
+                  "endUid": "u2350"
+                },
+                {
+                  "startUid": "u2388",
+                  "endUid": "u2419"
+                }
+              ]
+            },
+            {
+              "actor": "God Caller",
+              "kind": "turn",
+              "summary": "Renews its frightening curse as Eolo’s previous fear starts to pass. Justas succeeds on Wisdom with a natural 20; Ekko and Eolo fail and become frightened. Swings twice at Eolo, missing once and hitting once for 11 before Protective Field.",
+              "evidence": [
+                {
+                  "startUid": "u2420",
+                  "endUid": "u2441"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "reaction",
+              "summary": "Protective Field is available again after his intervening turn; expends a psionic die to reduce the 11-point axe hit by 11, taking 0 from it. The earlier 6 lightning damage still applies.",
+              "evidence": [
+                {
+                  "startUid": "u2442",
+                  "endUid": "u2456"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Still maintaining Hunter’s Mark, moves about 30 feet farther from the fight and makes two longbow attacks on the God Caller. The first uses Guiding Bolt’s advantage but misses with 14/15; the second also misses. Uses her bonus action to send Rala at the God Caller.",
+              "evidence": [
+                {
+                  "startUid": "u2460",
+                  "endUid": "u2487"
+                },
+                {
+                  "startUid": "u2491",
+                  "endUid": "u2493"
+                }
+              ],
+              "note": "A concentration check is requested at u2418–u2419 without a narrated roll; u2462–u2463 explicitly confirms the mark remains active."
+            },
+            {
+              "actor": "Rala",
+              "kind": "turn",
+              "summary": "Flies in for a flyby attack on the God Caller and withdraws as planned. An 18 hits; the table gives 1d4+6 damage and Finnan offers “Seven?” as the resulting amount.",
+              "evidence": [
+                {
+                  "startUid": "u2488",
+                  "endUid": "u2504"
+                }
+              ],
+              "note": "Seven is tentative in the spoken source; no more certain damage total is supplied."
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Moves and casts Vicious Mockery at the God Caller. It succeeds on DC 15 Wisdom, so the spell has no effect. Uses Lucky for advantage on the Constitution concentration save prompted by the psychic reaction. Gives Justas another Bardic Inspiration and spends a first-level slot to regain the inspiration resource.",
+              "evidence": [
+                {
+                  "startUid": "u2505",
+                  "endUid": "u2530"
+                }
+              ],
+              "note": "The concentration die is not spoken; the later resolution leaves two orcs hypnotized."
+            },
+            {
+              "actor": "God Caller",
+              "kind": "reaction",
+              "summary": "Answers Vicious Mockery with a psychic shout that deals 4 psychic damage to Finnan. The DM clarifies that this reaction could also target other spellcasters, but does not retroactively add attacks on them.",
+              "evidence": [
+                {
+                  "startUid": "u2516",
+                  "endUid": "u2519"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Attacks the God Caller with disadvantage from fear. The first attack misses with 16; the claw attack is corrected to 18, hits, and deals 14 damage. The God Caller stays standing.",
+              "evidence": [
+                {
+                  "startUid": "u2531",
+                  "endUid": "u2553"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Makes three crossbow attacks on the God Caller with disadvantage from fear. All miss: the first includes a natural 1, the second resolves at 15, and the third is initially called a hit at 22 before the lower 17 is resolved as a miss against AC 18.",
+              "evidence": [
+                {
+                  "startUid": "u2554",
+                  "endUid": "u2587"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Casts Guiding Bolt at the adjacent lightning orc, hits with 17, and deals 18 radiant damage, killing it. His proposed move toward the God Caller is interrupted by the literal explosion.",
+              "evidence": [
+                {
+                  "startUid": "u2588",
+                  "endUid": "u2599"
+                },
+                {
+                  "startUid": "u2609",
+                  "endUid": "u2612"
+                }
+              ]
+            },
+            {
+              "actor": "Lightning orc",
+              "kind": "event",
+              "summary": "Explodes on death. Justas fails the Dexterity save with 0 and takes 30 damage, leaving him on 3 hit points; no other explosion victim is established.",
+              "evidence": [
+                {
+                  "startUid": "u2597",
+                  "endUid": "u2612"
+                }
+              ],
+              "note": "The explosion’s damage type is not explicitly spoken."
+            },
+            {
+              "actor": "God Caller",
+              "kind": "turn",
+              "summary": "Despite its allies falling, touches a scar honoring Thark and attacks Eolo twice with its greataxe. The first hit deals 14 before Protective Field; after that reaction, the second hits for 15 before Finnan’s Cutting Words.",
+              "evidence": [
+                {
+                  "startUid": "u2613",
+                  "endUid": "u2631"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "reaction",
+              "summary": "After the DM corrects the reaction-availability ruling, spends a psionic die on Protective Field and reduces the first 14-point blow by 9, taking 5.",
+              "evidence": [
+                {
+                  "startUid": "u2621",
+                  "endUid": "u2628"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "reaction",
+              "summary": "Uses Cutting Words on the second greataxe blow’s damage rather than its attack roll, reducing 15 damage by 7 so Eolo takes 8.",
+              "evidence": [
+                {
+                  "startUid": "u2631",
+                  "endUid": "u2648"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Shoots the God Caller from about 45 feet away and hits with 28 for 11 damage including Hunter’s Mark. Directs Rala to attack again.",
+              "evidence": [
+                {
+                  "startUid": "u2649",
+                  "endUid": "u2670"
+                }
+              ],
+              "note": "A second longbow attack is prompted at u2665 but has no recorded roll or result; none is invented."
+            },
+            {
+              "actor": "Rala",
+              "kind": "turn",
+              "summary": "Makes another diving flyby attack on the God Caller; a 15 misses.",
+              "evidence": [
+                {
+                  "startUid": "u2671",
+                  "endUid": "u2676"
+                }
+              ]
+            },
+            {
+              "actor": "God Caller’s fear effect",
+              "kind": "event",
+              "summary": "The God Caller now looks less frightening to both kenku; Ekko and Eolo are no longer frightened for their next attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2679",
+                  "endUid": "u2683"
+                },
+                {
+                  "startUid": "u2701",
+                  "endUid": "u2702"
+                },
+                {
+                  "startUid": "u2715",
+                  "endUid": "u2716"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Uses Fey-touched Dissonant Whispers, voiced as a Sylvan curse. The God Caller succeeds on DC 15 Wisdom but takes 5 psychic damage. Finnan passes the ensuing concentration save without spending Lucky, retaining Hypnotic Pattern.",
+              "evidence": [
+                {
+                  "startUid": "u2684",
+                  "endUid": "u2693"
+                }
+              ]
+            },
+            {
+              "actor": "God Caller",
+              "kind": "reaction",
+              "summary": "Retaliates against the spell with 3 psychic damage to Finnan.",
+              "evidence": [
+                {
+                  "startUid": "u2690",
+                  "endUid": "u2693"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "No longer attacking with fear disadvantage, makes two bear attacks on the God Caller. A 27 hits for 9 damage and a 16 misses; the orc remains standing.",
+              "evidence": [
+                {
+                  "startUid": "u2694",
+                  "endUid": "u2709"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "No longer frightened, hits the God Caller with a crossbow bolt for 9 damage plus 11 psychic damage from his final Psionic Strike. The orc drops to its knees, pulls the arrow free, and rises. A second shot with Vex advantage hits at 24 and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u2710",
+                  "endUid": "u2739"
+                }
+              ],
+              "note": "The second bolt’s damage total trails off after “9 plus the D4”; the death is explicit."
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "Surrounds and kills the two remaining hypnotized orcs one at a time. The table resolves this without further individual turns, ending the encounter.",
+              "evidence": [
+                {
+                  "startUid": "u2743",
+                  "endUid": "u2749"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The lightning orc explodes on death, the God Caller is killed by Eolo, and the two remaining hypnotized soldiers are dispatched by agreement. All enemies in this encounter are dead.",
+        "evidence": [
+          {
+            "startUid": "u2597",
+            "endUid": "u2612"
+          },
+          {
+            "startUid": "u2736",
+            "endUid": "u2749"
+          }
+        ]
+      }
+    }
+  ]
+}

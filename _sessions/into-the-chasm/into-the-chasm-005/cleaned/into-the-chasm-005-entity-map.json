@@ -1,0 +1,698 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "4f0af2491ec1905237653a7424c1d86b11951f8af5c28b29bea0af9eef26b932",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "79741912e120b66be6168ab6f92155e3c5c2324077837eb101ae9a391e411a9b",
+        "transcriptProcessing.artifacts.cleaned": "d3c48777f3271a49e5ba50d32a8f06502242226fdfcf1ba0597c399edf77812f"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Eidrikas",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0025",
+            "endUid": "u0039"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0061",
+            "endUid": "u0085"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0099"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0139",
+            "endUid": "u0179"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0237",
+            "endUid": "u0246"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1201",
+            "endUid": "u1204"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Sembarans/Eidrikas.md"
+    },
+    {
+      "id": "e002",
+      "kind": "organization",
+      "label": "Vejo Vaikai",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0035",
+            "endUid": "u0039"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0102",
+            "endUid": "u0114"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0174",
+            "endUid": "u0179"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Vejo Vaikai.md"
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Pakrinek",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0076",
+            "endUid": "u0079"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Sembarans/Pakrinek.md"
+    },
+    {
+      "id": "e004",
+      "kind": "item",
+      "label": "Stolen black runic stone",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0076",
+            "endUid": "u0085"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0097"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0226",
+            "endUid": "u0239"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1174",
+            "endUid": "u1179"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2753",
+            "endUid": "u2755"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "dark black stone",
+        "270-degree arc"
+      ]
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Thark-marked orc leader (God Caller)",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0097"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1689",
+            "endUid": "u1698"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2157",
+            "endUid": "u2176"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2613",
+            "endUid": "u2620"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2732",
+            "endUid": "u2739"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "God Caller",
+        "Godcaller"
+      ]
+    },
+    {
+      "id": "e006",
+      "kind": "divine",
+      "label": "Thark",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0097"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1689",
+            "endUid": "u1696"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2616",
+            "endUid": "u2617"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2732",
+            "endUid": "u2735"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Thark.md"
+    },
+    {
+      "id": "e007",
+      "kind": "divine",
+      "label": "Zeyfa",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0102",
+            "endUid": "u0107"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "cruel west wind"
+      ],
+      "note": "Gods and Religions/Gods/Kestavo/Zeyfa.md"
+    },
+    {
+      "id": "e008",
+      "kind": "item",
+      "label": "Eolo’s metal-altered quiver",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0387",
+            "endUid": "u0402"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The exchange may establish a newly discovered metal-induced enchantment, but it may instead be only a reminder of routine PC equipment powers."
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Damaged custodian automaton",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0871",
+            "endUid": "u0886"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0938",
+            "endUid": "u1005"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1011",
+            "endUid": "u1017"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1196",
+            "endUid": "u1215"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Rala",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1919",
+            "endUid": "u1926"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2483",
+            "endUid": "u2504"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2671",
+            "endUid": "u2676"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Other PCs/Into the Chasm/Rala.md"
+    },
+    {
+      "id": "e011",
+      "kind": "divine",
+      "label": "Kestavo",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2101",
+            "endUid": "u2103"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Religions/Northern Folk Religions/Kestavo.md"
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Lightning-shrouded orc",
+      "reason": "An unnamed combat opponent distinguished by electrical powers, without personal characterization or a separate identity beyond this encounter.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1510",
+            "endUid": "u1514"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1538",
+            "endUid": "u1543"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2589",
+            "endUid": "u2612"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Other orc soldiers and Rampart",
+      "reason": "Generic enemy soldiers distinguished by tactical tokens and equipment rather than individual character identities; the specifically identified religious leader is retained separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1619",
+            "endUid": "u1623"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1697",
+            "endUid": "u1698"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2743",
+            "endUid": "u2748"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Crushed orc corpses and fallen construct",
+      "reason": "Anonymous casualties and an inert matching construct supply environmental clues, without distinct individual identities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0045",
+            "endUid": "u0054"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0478",
+            "endUid": "u0482"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0643",
+            "endUid": "u0663"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1077",
+            "endUid": "u1085"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Lightning elemental at the broken conduit",
+      "reason": "An elemental hazard without a name, relationship, or individually distinguishing character identity; Eolo’s aborted attack does not establish one.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1059",
+            "endUid": "u1071"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1290",
+            "endUid": "u1316"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1335",
+            "endUid": "u1343"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ekko’s shapeshifting and jumping item",
+      "reason": "Routine use of an existing PC magic item’s standard benefit to escape heavy gravity; no new acquisition or in-world item lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1405",
+            "endUid": "u1412"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Jrain’s levitation cloak and Justas’s shield",
+      "reason": "Existing equipment’s ordinary charges are discussed as mechanical options, without separate plot identity, acquisition, loss, or original lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1266",
+            "endUid": "u1274"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2101",
+            "endUid": "u2103"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Finnan’s ocarina and ordinary ropes",
+      "reason": "Spellcasting focus and ordinary traversal equipment; no independent qualifying item event.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0581",
+            "endUid": "u0624"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1675",
+            "endUid": "u1678"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2343",
+            "endUid": "u2348"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Seeker, Rai, the Philosopher’s Guild, and the Mockers",
+      "reason": "Cross-campaign comparisons and table jokes, without a meaningful in-world appearance or substantive identity-bearing discussion in this campaign.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0022",
+            "endUid": "u0024"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0086",
+            "endUid": "u0089"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0180",
+            "endUid": "u0196"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1162",
+            "endUid": "u1163"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Previously encountered fey",
+      "reason": "A mechanical reminder of Detect Thoughts use and a future bargain do not supply a substantive current-session exchange or new identity evidence.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0135",
+            "endUid": "u0136"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2763",
+            "endUid": "u2767"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 05.md",
+    "Campaigns/One Shots/Into the Chasm/Into the Chasm - People, Places, and Organizations.md"
+  ]
+}

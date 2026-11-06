@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
+  "source": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-time-markers.json",
+    "sha256": "541f03e3c0305bbcb87a1c4ab2c475ba8c114e50198ee3eefd3d2642b2c9a1ed"
+  },
+  "transcript": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-transcript.md",
+    "sha256": "79741912e120b66be6168ab6f92155e3c5c2324077837eb101ae9a391e411a9b"
+  },
+  "dateAssessment": "The working calendar is the YAML’s January 29, 1730; session 005 states no absolute date. Its continuous delve matches the same-day span (time extraction: matched, conditional on that calendar). Afternoon is inferred from session 004’s corrected early/mid-afternoon anchor at u1741–u1746 and the continuing rock/mentor handoff at u1936–u1994, checked against session 005 u0005–u0013 and u0061–u0070. The unfulfilled nightfall proposal does not advance time. Ekko’s authenticity check and Finnan’s overlapping ritual are resolved retrospectively during the earlier contact, rather than adding another wait after the report. Minute-long pauses are approximate; spell expiry supplies a lower bound, and Jump supplies an upper bound. Eolo’s subjective lag supplies no measured time-rate change. The real-world 12:15 closing remark is not an in-world clock. Stone recovery and end scenes are deferred, not completed in this session.",
+  "watches": [
+    {
+      "day": "January 29, 1730",
+      "startDate": "1730-01-29",
+      "endDate": "1730-01-29",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "scope": "Earlier contact: Ekko and Finnan",
+      "summary": "Ekko’s earlier contact overlaps Finnan’s ritual; no extra wait follows his report.",
+      "markers": [
+        "t01",
+        "t03"
+      ],
+      "sourceRanges": [
+        [
+          "u0061",
+          "u0070"
+        ],
+        [
+          "u0111",
+          "u0114"
+        ],
+        [
+          "u0424",
+          "u0426"
+        ]
+      ]
+    },
+    {
+      "day": "January 29, 1730",
+      "startDate": "1730-01-29",
+      "endDate": "1730-01-29",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Afternoon handoff continues; Detect Magic expires before the custodian exchange, and two Jump ascents share one minute.",
+      "markers": [
+        "t11",
+        "t02",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "sourceRanges": [
+        [
+          "u0005",
+          "u0013"
+        ],
+        [
+          "u0197",
+          "u0205"
+        ]
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 004 afternoon and handoff",
+      "path": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-transcript.md",
+      "sha256": "17050223d012d38981ec5fdd1a2c975d0b1db81e5767cfaa35b844c57367252a"
+    }
+  ]
+}
