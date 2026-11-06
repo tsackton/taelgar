@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1659
@@ -59,7 +59,7 @@ Temporal coverage: a DR 1720 portrait of the reigning duke; the later treason se
 
 - [ ] **Warning — metadata.names_unresolved_status:** Review the proposed full-name pronunciation `zhahk bel-MOHN` in `Metadata:names:v1`. The French analogue for Sembaran in [[Languages]] supports Jacques with zh and silent -ues, and Bellemont with silent final t and a nasal final vowel (MOHN is a reader-friendly approximation). The English analogue would give a different surname ending, so this French proposal requires acceptance. If accepted, copy it to frontmatter and mark the entry documented; otherwise revise the persistent proposal.
 
-- [ ] **Warning — coverage.later_material_change:** [[Cleenseau - Interlude - After the Siege of Fellburn]] records his appointment of Elise as Baroness of Fellburn; [[Fellburn Aftermath - Audience with Duke]] records his order that his vassals protect their people even against contrary royal commands. [[Cleenseau - Session 24 - Original]] reports his treason sentence and flight. These materially change the one-sentence portrait. Candidate: “After the siege of Fellburn in DR 1720, Jacques appointed [[Elise Moreau]] as baroness and ordered his vassals to protect their people even if contrary orders came from the king. By early March, reports said that he had been sentenced to death for treason and was withdrawing from Embry toward Fellburn with his troops.” Update the account and temporal framing, defer it for a human game-update disposition, or explicitly retain the earlier portrait.
+- [ ] **Warning — coverage.later_material_change:** [[Cleenseau - Interlude - After the Siege of Fellburn]] records his appointment of Elise as Baroness of Fellburn; [[Fellburn Audience with the Duke]] records his order that his vassals protect their people even against contrary royal commands. [[Cleenseau - Session 24 - Original]] reports his treason sentence and flight. These materially change the one-sentence portrait. Candidate: “After the siege of Fellburn in DR 1720, Jacques appointed [[Elise Moreau]] as baroness and ordered his vassals to protect their people even if contrary orders came from the king. By early March, reports said that he had been sentenced to death for treason and was withdrawing from Embry toward Fellburn with his troops.” Update the account and temporal framing, defer it for a human game-update disposition, or explicitly retain the earlier portrait.
 
 - [ ] **Suggestion — editorial.public_material_candidate:** The “Household” comment supplies a coherent family and court list but has not been adopted into public prose. If accepted, add: “Jacques’s wife is Isabelle, and their children are Armand, Loise, and Amélie. [[Marcel Desrosiers]] commands his guard, and Celestine Fontaine is his chancellor.” Confirm the listed spellings and retain any remaining planning guidance separately.
 %%^End%%

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: female
@@ -62,5 +62,5 @@ Temporal coverage: a DR 1720 account of the clerk’s apparent illness and recov
 
 ### Open findings
 
-- [ ] **Warning — coverage.later_material_change:** [[Cleenseau - Session 19]] establishes that Areschera murdered and replaced Marguerite, and [[cleenseau-020-session-recap]] records the contract authorizing the substitution. [[Annette]] identifies her successor as acting chief clerk. The campaign paragraph “She recovered only two weeks later” consequently attributes the impostor’s activities to Marguerite. Candidate: “Marguerite’s apparent recovery during the undead crisis was a deception: [[Areschera]] had murdered and replaced her. The substitution was exposed in February DR 1720, and [[Annette]] subsequently served as acting chief clerk.” Replace or explicitly frame the earlier account as appearances, with approved dated or campaign visibility as needed. Review lifecycle and office metadata only after choosing that framing; no private source is needed to establish the public revelation.
+- [ ] **Warning — coverage.later_material_change:** [[Cleenseau - Session 19]] establishes that Areschera murdered and replaced Marguerite, and Session 20 recap (retired; retained source: [[01-cleenseau-blog-791148 - Original]]) records the contract authorizing the substitution. [[Annette]] identifies her successor as acting chief clerk. The campaign paragraph “She recovered only two weeks later” consequently attributes the impostor’s activities to Marguerite. Candidate: “Marguerite’s apparent recovery during the undead crisis was a deception: [[Areschera]] had murdered and replaced her. The substitution was exposed in February DR 1720, and [[Annette]] subsequently served as acting chief clerk.” Replace or explicitly frame the earlier account as appearances, with approved dated or campaign visibility as needed. Review lifecycle and office metadata only after choosing that framing; no private source is needed to establish the public revelation.
 %%^End%%

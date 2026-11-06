@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 gender: female
@@ -45,5 +45,5 @@ Temporal coverage: a family reference around DR 1720; the visible article does n
 
 ### Open findings
 
-- [ ] **Warning — coverage.established_fact_missing:** The visible text identifies only Susanna’s daughter. The finalized [[cleenseau-016-session-recap]] (recap-002, February 10–12, DR 1720) records Susanna reporting Amelie and Anna missing, while [[Anna]] establishes their marriage. This is Amelie’s defining known state, not an incidental party encounter. Proposed replacement: “Amelie is [[Anna]]’s wife and the daughter of [[Susanna]], an innkeeper in [[Maudorville]]. Susanna reported Amelie and Anna missing in February DR 1720; Amelie’s fate remains unconfirmed.” Preserve the comment’s uncertainty rather than asserting that the Hunter killed her.
+- [ ] **Warning — coverage.established_fact_missing:** The visible text identifies only Susanna’s daughter. The finalized Session 16 recap (retired; retained source: [[Cleenseau - Session 16 - Original]]) (recap-002, February 10–12, DR 1720) records Susanna reporting Amelie and Anna missing, while [[Anna]] establishes their marriage. This is Amelie’s defining known state, not an incidental party encounter. Proposed replacement: “Amelie is [[Anna]]’s wife and the daughter of [[Susanna]], an innkeeper in [[Maudorville]]. Susanna reported Amelie and Anna missing in February DR 1720; Amelie’s fate remains unconfirmed.” Preserve the comment’s uncertainty rather than asserting that the Hunter killed her.
 %%^End%%

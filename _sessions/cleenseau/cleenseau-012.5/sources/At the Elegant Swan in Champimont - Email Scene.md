@@ -3,7 +3,7 @@ campaign: Cleenseau
 ---
 # At the Elegant Swan in Champimont
 
-Email play-by-email exchange. All twenty-five authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. Raw-email compilation: [[At The Elegant Swan in Champimont]].
+Email play-by-email exchange. All twenty-five authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Wed, 3 Apr 2024 18:28:55 -0400
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
-tags: [status/cleanup/text, place, status/check/lint]
+tags: [status/cleanup/text, place, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: logging village
 population: 237
@@ -57,7 +57,7 @@ Temporal coverage: the hidden working account belongs to the Cleenseau campaign 
 
 ### Open findings
 
-- [ ] **Warning — coverage.established_fact_missing:** All substantive authored text is hidden. [[cleenseau-016-session-recap]] identifies the logging village and its evacuation, [[Ameline Evynwood]] identifies its lady and the villagers’ later return, and [[Alban of Ashcombe]] establishes its temple. Proposed visible account: `Ashcombe is a logging village in the [[Barony of Aveil]], ruled by Lady [[Ameline Evynwood]], with a temple to [[The Wildling]]. Fey attacks drove its people to [[Aslain]] in February DR 1720. After the [[Crisis of Malach]], the villagers returned and began rebuilding.` Keep the detailed hunting plot and uncertain disappearances in private guidance; do not turn the entry into a party itinerary.
+- [ ] **Warning — coverage.established_fact_missing:** All substantive authored text is hidden. Session 16 recap (retired; retained source: [[Cleenseau - Session 16 - Original]]) identifies the logging village and its evacuation, [[Ameline Evynwood]] identifies its lady and the villagers’ later return, and [[Alban of Ashcombe]] establishes its temple. Proposed visible account: `Ashcombe is a logging village in the [[Barony of Aveil]], ruled by Lady [[Ameline Evynwood]], with a temple to [[The Wildling]]. Fey attacks drove its people to [[Aslain]] in February DR 1720. After the [[Crisis of Malach]], the villagers returned and began rebuilding.` Keep the detailed hunting plot and uncertain disappearances in private guidance; do not turn the entry into a party itinerary.
 - [ ] **Warning — metadata.names_unresolved_status:** The persistent primary entry proposes `ASH-kuhm`. The English component ash and the English place-name ending combe support ASH-kuhm, with sh, a reduced final vowel, and silent final e, under the Sembaran English analogue in [[Languages]]. The source language is not explicitly recorded. This is an analogue-informed proposal, not established in-world phonology. Accept or revise it; if accepted, copy the complete pronunciation to frontmatter and set the entry to `status: documented`.
 - [ ] **Warning — metadata.map_location_missing:** The required `Metadata:map:v1` block has a blank `locator`. No supported position was found in the reviewed sources. Supply the settlement’s world-map locator in `locations: [{map: world, locator: <verified locator>}]`; do not infer a coordinate from prose distances.
 %%^End%%

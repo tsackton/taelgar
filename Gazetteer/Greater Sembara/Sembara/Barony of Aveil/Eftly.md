@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: village
 destroyed: 1720-01-07
@@ -28,7 +28,7 @@ _Distances:_
 * to [[Rinburg]], 21 miles
 * to [[Cleenseau]], 39 miles
 
-%% There is some color  in [[The Destruction of Eftly]] %%
+%% There is some color  in [[Destruction of Eftly (Email)]] %%
 
 %%^Metadata:names:v1%%
 - {"name": "Eftly", "language": "unknown", "pronunciation": "EFT-lee", "status": "proposed", "notes": "The English analogue for Sembaran in [[Languages]] supports short e, the written ft cluster, and final ly as lee, with first-syllable stress. No explicit pronunciation or stronger name-language rule was found. Exact in-world pronunciation remains unconfirmed."}

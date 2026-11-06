@@ -13,6 +13,5 @@ drEnd: '1720-01-17'
 drStartTime: null
 drEndTime: null
 participantsPath: '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/cleenseau-participants.yaml'
-supplementalSources:
-- '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/cleenseau-blog/cleenseau-blog-782461.md'
+supplementalSources: ["_sessions/cleenseau/cleenseau-014/sources/supplemental/01-cleenseau-blog-782461 - Original.md"]
 narrativeUnit: sentence

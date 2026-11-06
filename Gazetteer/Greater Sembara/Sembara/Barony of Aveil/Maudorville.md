@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
-tags: [status/cleanup/text, place, status/check/lint]
+tags: [status/cleanup/text, place, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: village
 population: 448
@@ -79,7 +79,7 @@ Temporal coverage: hidden game preparation and its named offices belong to the C
 
 ### Open findings
 
-- [ ] **Warning — coverage.established_fact_missing:** The visible body contains no town account. [[Antoine Chevalier]] identifies Maudorville’s lord, [[Wilhem of Maudorville]] identifies its temple administration, and [[cleenseau-016-session-recap]] confirms those roles in the February DR 1720 visit. Proposed baseline: `Maudorville is a settlement in the [[Barony of Aveil]], ruled by [[Antoine Chevalier]]. Its temple to [[The Sibyl]] is administered by [[Wilhem of Maudorville|Wilhem]], who has a keen interest in lunar lore.` The missing-person investigation is incidental to the settlement account and need not become its history.
+- [ ] **Warning — coverage.established_fact_missing:** The visible body contains no town account. [[Antoine Chevalier]] identifies Maudorville’s lord, [[Wilhem of Maudorville]] identifies its temple administration, and Session 16 recap (retired; retained source: [[Cleenseau - Session 16 - Original]]) confirms those roles in the February DR 1720 visit. Proposed baseline: `Maudorville is a settlement in the [[Barony of Aveil]], ruled by [[Antoine Chevalier]]. Its temple to [[The Sibyl]] is administered by [[Wilhem of Maudorville|Wilhem]], who has a keen interest in lunar lore.` The missing-person investigation is incidental to the settlement account and need not become its history.
 - [ ] **Suggestion — editorial.public_material_candidate:** The ordinary comment headed “Notes for game prep” has a coherent public-safe account in the passages beginning “Maudorville is an ancient place,” “timber trade,” and “Important place for timber trade downriver.” These give the otherwise invisible town a useful economic and physical identity, but remain unadopted working material. Candidate: `Maudorville is an ancient timber-trading town. Timber is floated downstream toward [[Rinburg]], and barges and a horsepath also serve the river trade. Its two-story temple to [[The Sibyl]] is decorated with carvings of the moon.` If adopted, remove only those resolved draft statements from the comment. Retain the proposed temple-foundation story, the unresolved brook spelling and population approximation as separate editorial questions, and keep the named missing-person hooks in private preparation.
 - [ ] **Warning — metadata.names_unresolved_status:** The persistent primary entry proposes `moh-dor-VEEL`. The French analogue within Sembaran in [[Languages]] supports au as oh, ville as veel, a light r, and final phrase stress. English MAW-dor-vil is a possible alternative under Sembaran’s other analogue, but the French-shaped ville ending favors the stated proposal; the source language is not explicitly attested. This is an analogue-informed proposal, not established in-world phonology. Accept or revise it; if accepted, copy the complete pronunciation to frontmatter and set the entry to `status: documented`.
 - [ ] **Warning — metadata.map_location_missing:** The required `Metadata:map:v1` block has a blank `locator`. No supported position was found in the reviewed sources. Supply the settlement’s world-map locator in `locations: [{map: world, locator: <verified locator>}]`; do not infer a coordinate from prose distances.

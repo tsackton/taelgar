@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: halfling
 gender: male
 name: Corrin Merriweather
@@ -48,7 +48,7 @@ Temporal coverage: a DR 1720 account of Corrin's Veltor shop and departure befor
 - Normalized affiliation-list formatting without changing its values.
 
 ### Validated judgments
-- The existing account includes the consequential departure; the later Merriweather caravan in [[The Merriweathers - Authored Turns]] names Quent, Tobin, and Tamsin and does not establish a destination for Corrin or Primrose.
+- The existing account includes the consequential departure; the later Merriweather caravan in [[The Merriweathers (Email)]] names Quent, Tobin, and Tamsin and does not establish a destination for Corrin or Primrose.
 
 ### Open findings
 

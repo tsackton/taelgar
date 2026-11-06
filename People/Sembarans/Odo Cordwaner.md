@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint]
+tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -40,7 +40,7 @@ His family is based in [[Eftly]], but he left home at 18 to join the army, being
 
 In late April 1720, Odo came to [[Asineau]] with his younger brother [[Samuel Cordwaner|Samuel]] and [[Abigail Moss]] to serve as captain of the manor's guard.
 
-%% See [[The Destruction of Eftly]] for some background information %%
+%% See [[Destruction of Eftly (Email)]] for some background information %%
 
 %%^Campaign:none%%
 ### Relationships
@@ -80,7 +80,7 @@ Temporal coverage: a DR 1720 portrait with earlier army history and a dated move
 
 - [ ] **Warning — coverage.later_material_change:** The final paragraph and [[Cleenseau - Session 29]] place Odo in Asineau as guard captain in late April DR 1720, but the active home and guard affiliation still point to Taviose and Cleenseau. Update those fields with the supported move after deciding the appropriate date precision, defer for game-update review, or preserve an explicitly earlier metadata snapshot. A bounded proposed entry is `{type: home, location: Asineau, start: 1720-04}` with affiliation `{org: Manor of Asineau, title: Captain of the guard, start: 1720-04}`; confirm the month’s boundary semantics before adoption.
 
-- [ ] **Warning — coverage.later_material_change:** “His family is based in Eftly” no longer fits [[The Destruction of Eftly]], in which Odo grieves his brothers and believes Samuel may also have died. [[Cleenseau - Session 16]] and [[Samuel Cordwaner]] establish Samuel’s survival. Candidate: “Odo came from [[Eftly]]. After its destruction in January DR 1720, he believed himself the only surviving brother; his younger brother [[Samuel Cordwaner|Samuel]] was later found alive.” Revise the undated family sentence or intentionally date it to the earlier state; preserve the distinction between Odo’s belief and confirmed fate.
+- [ ] **Warning — coverage.later_material_change:** “His family is based in Eftly” no longer fits [[Destruction of Eftly (Email)]], in which Odo grieves his brothers and believes Samuel may also have died. [[Cleenseau - Session 16]] and [[Samuel Cordwaner]] establish Samuel’s survival. Candidate: “Odo came from [[Eftly]]. After its destruction in January DR 1720, he believed himself the only surviving brother; his younger brother [[Samuel Cordwaner|Samuel]] was later found alive.” Revise the undated family sentence or intentionally date it to the earlier state; preserve the distinction between Odo’s belief and confirmed fate.
 
 - [ ] **Warning — coverage.established_fact_missing:** [[Cleenseau - Session 15]] records Robin’s formal induction of Odo into the [[Order of the Charitable Wanderer]]. This lasting religious affiliation is absent from both his affiliations and the account of his new calling. Candidate: “During the undead crisis of DR 1720, [[Robin of Abenfyrd]] inducted Odo into the [[Order of the Charitable Wanderer]].” Add the affiliation or a brief sourced sentence after confirming its temporal framing.
 %%^End%%

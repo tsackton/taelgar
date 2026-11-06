@@ -3,7 +3,7 @@ campaign: Cleenseau
 ---
 # Meeting Lenora - Email Scene
 
-Email play-by-email exchange. All nine authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. Earlier raw-email compilation: [[Meeting Lenora]].
+Email play-by-email exchange. All nine authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted.
 
 ### Artan Eter <artan.eter@gmail.com> — Thu, 30 May 2024 16:22:57 -0400
 

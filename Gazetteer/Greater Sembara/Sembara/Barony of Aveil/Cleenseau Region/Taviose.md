@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
-tags: [place, testcase, status/check/lint]
+tags: [place, testcase, status/check/lint, status/check/ai]
 typeOf: settlement
 typeOfAlias: village
 population: 30
@@ -79,7 +79,7 @@ Temporal coverage: an early DR 1720 village portrait with the late-1719 attacks 
 
 - [ ] **Warning — metadata.map_location_missing:** The required settlement map block has a blank `locator` because no supported world-map hex is established in the reviewed evidence. Supply the village's verified position in `- {map: world, locator: <verified hex>}`; the placeholder is a human task, not a coordinate proposal.
 
-- [ ] **Warning — coverage.later_material_change:** The undated Notable Residents list still places [[Brot Starsearcher]], [[Diesla Starsearcher]], [[Odo Cordwaner]], and [[Abigail Moss]] in Taviose. [[Cleenseau - Session 29]] and [[Asineau Hirelings - Authored Turns]] establish that all four moved to [[Asineau]] in spring DR 1720, with Odo and Abigail arriving in late April. Candidate consequence: `In spring DR 1720, Brot and Diesla Starsearcher moved their workshop to [[Asineau]], and Odo Cordwaner and Abigail Moss also settled there.` Recast those roster entries as former residents if updating the article, defer with the appropriate game-update disposition, or intentionally preserve the earlier roster and POV. For filtered historical views, propose paired before/after Date blocks only after choosing a supported cutoff; the sources do not date all four moves to one exact day.
+- [ ] **Warning — coverage.later_material_change:** The undated Notable Residents list still places [[Brot Starsearcher]], [[Diesla Starsearcher]], [[Odo Cordwaner]], and [[Abigail Moss]] in Taviose. [[Cleenseau - Session 29]] and [[Asineau Hirelings (Email)]] establish that all four moved to [[Asineau]] in spring DR 1720, with Odo and Abigail arriving in late April. Candidate consequence: `In spring DR 1720, Brot and Diesla Starsearcher moved their workshop to [[Asineau]], and Odo Cordwaner and Abigail Moss also settled there.` Recast those roster entries as former residents if updating the article, defer with the appropriate game-update disposition, or intentionally preserve the earlier roster and POV. For filtered historical views, propose paired before/after Date blocks only after choosing a supported cutoff; the sources do not date all four moves to one exact day.
 
 - [ ] **Suggestion — syntax.noncanonical_campaign_block:** The existing block before “People in, or based in Taviose” opens with `%%^Campaign:None%%`; the current validator and [[Campaign Registry]] specify lowercase `Campaign:none`. Proposed replacement opener: `%%^Campaign:none%%`, retaining the existing payload and matching closing marker. Equivalent filtered visibility has not been verified, so this normalization remains proposal-only; confirm visibility and approve the change before applying it.
 %%^End%%

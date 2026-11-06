@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint]
+tags: [object, status/check/lint, status/check/ai]
 typeOf: necklace
 subTypeOf: magic
 campaignInfo:
@@ -44,7 +44,7 @@ Temporal coverage: broadly modern retrospective reference prose about the paired
 
 ### Open findings
 
-- [ ] **Warning — coverage.established_fact_missing:** [[Treasure]] and [[Cleenseau - Session 20 - Original]] identify the mirror-polished locket recovered from Areschera; [[Cleenseau - Session 22 - Original]] records Viepuck opening it to contact [[Isabeau D'Aslain|the Baroness]], whose face appeared and who could activate the other side. These are central identity and function facts missing from the article. Copy-ready replacement for the opening account: “A small, mirror-polished locket on a silver chain, with no picture inside, recovered from [[Areschera]] in [[Veltor]]. It communicates with a paired magical locket: opening it allowed [[Viepuck]] to speak to [[Isabeau D'Aslain|the Baroness]] and see her face, and she could activate the connection from the other side.” Keep precise range, use limits, and current counterpart ownership unresolved unless separately established.
+- [ ] **Warning — coverage.established_fact_missing:** [[Treasure]] and [[01-cleenseau-blog-791148 - Original]] identify the mirror-polished locket recovered from Areschera; [[Cleenseau - Session 22 - Original]] records Viepuck opening it to contact [[Isabeau D'Aslain|the Baroness]], whose face appeared and who could activate the other side. These are central identity and function facts missing from the article. Copy-ready replacement for the opening account: “A small, mirror-polished locket on a silver chain, with no picture inside, recovered from [[Areschera]] in [[Veltor]]. It communicates with a paired magical locket: opening it allowed [[Viepuck]] to speak to [[Isabeau D'Aslain|the Baroness]] and see her face, and she could activate the connection from the other side.” Keep precise range, use limits, and current counterpart ownership unresolved unless separately established.
 
 - [ ] **Warning — correctness.unsupported_claim:** The phrase “used as a focus for limited distance communication/locating effects” blends an actual communication function with the [[Cleenseau - Session 27|later locating ruse]]. The finalized Session 27 recap and its prepared source distinguish a fabricated necklace and Izgil's claimed paired-set interference; that claim does not establish a locating property or a range limit for the real locket. Separate or remove the ruse from the reference description. A copy-ready replacement for the ruse sentence is: “A later attempt to locate a pendant in [[Veltor]] involved deception and a claim of interference from a paired object; it does not establish the locket's actual locating capabilities.”
 %%^End%%
