@@ -1,0 +1,248 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-003",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-session.yaml",
+    "sessionYamlSha256": "1a4811d43a8cbec1d8703a2816c72679b89a43d884585a8673a39356aae0fada",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-transcript.md",
+    "transcriptSha256": "0470948a5ed1c3a0d35df8b0ff8798c86a3498ecfad4a816d19d8d0a2825f73e",
+    "yamlDates": {
+      "start": "1740-10-05",
+      "end": "1740-10-05"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0191",
+        "endUid": "u0195"
+      },
+      "reading": "During the accepted retrospective bedroom excursion, Tarek noticed the powder’s effects a few minutes after opening its vial.",
+      "evidence": [
+        {
+          "startUid": "u0191",
+          "endUid": "u0195",
+          "quote": "Noticed a few minutes later that, the world seemed a little bit sideways."
+        }
+      ],
+      "actors": [
+        "Tarek"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Player’s accepted retrospective account of the interval before the effect"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0199",
+        "endUid": "u0200"
+      },
+      "reading": "The DM establishes that the house actually turned sideways for Tarek for about a minute while he made his way downstairs.",
+      "evidence": [
+        {
+          "startUid": "u0199",
+          "endUid": "u0200",
+          "quote": "it actually did turn the house sideways for him for a minute"
+        }
+      ],
+      "actors": [
+        "Tarek"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s accepted elaboration of the retrospective effect"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0298",
+        "endUid": "u0302"
+      },
+      "reading": "Kaito has spent the last ten to fifteen minutes trying to entertain guests before returning to the group.",
+      "evidence": [
+        {
+          "startUid": "u0298",
+          "endUid": "u0302",
+          "quote": "for the last 10 or 15 minutes."
+        }
+      ],
+      "actors": [
+        "Kaito Min"
+      ],
+      "duration": {
+        "min": 10,
+        "minInclusive": true,
+        "max": 15,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s retrospective estimate accepted by Kaito"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0884",
+        "endUid": "u0891"
+      },
+      "reading": "Lord Endless Ending calls the audience this evening; the DM later describes the same local night as hardly evening yet. This is a local social time, not an elapsed-time measurement.",
+      "evidence": [
+        {
+          "startUid": "u0884",
+          "endUid": "u0891",
+          "quote": "What brings you here this evening? In this hour?"
+        },
+        {
+          "startUid": "u1206",
+          "endUid": "u1208",
+          "quote": "The night is… the night is still young. It's hardly even evening yet."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Lord’s direct welcome; later DM clarification. The realm’s fixed sunset supplies no adventure clock."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1450",
+        "endUid": "u1456"
+      },
+      "reading": "The PCs give the current year as DR 1740 during the clock investigation, then repeat it to Menestheus with the qualification that they do not know how long they have been here.",
+      "evidence": [
+        {
+          "startUid": "u1450",
+          "endUid": "u1456",
+          "quote": "1740."
+        },
+        {
+          "startUid": "u2518",
+          "endUid": "u2519",
+          "quote": "1740."
+        },
+        {
+          "startUid": "u2519",
+          "endUid": "u2519",
+          "quote": "Last we checked, but we don't know how long we've been here either."
+        }
+      ],
+      "actors": [
+        "Tarek",
+        "Txarro",
+        "Edric",
+        "Ayveen"
+      ],
+      "time": {
+        "date": {
+          "year": 1740
+        },
+        "precision": "approximate",
+        "basis": "PCs’ stated current year; no month or day is independently spoken"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1855",
+        "endUid": "u1856"
+      },
+      "reading": "Before recasting Comprehend Languages, Ayveen estimates that the party has been at the manor for about an hour. This cumulative interval includes the earlier arrival recounted in the opening recap.",
+      "evidence": [
+        {
+          "startUid": "u1855",
+          "endUid": "u1856",
+          "quote": "we've probably been here an hour"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Ayveen’s estimate of accumulated time at the manor; not an additional hour after the audience"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1860",
+        "endUid": "u1862"
+      },
+      "reading": "The party waits ten minutes while Ayveen ritual-casts Comprehend Languages again before reading the books.",
+      "evidence": [
+        {
+          "startUid": "u1860",
+          "endUid": "u1862",
+          "quote": "patient while I ritual cast it for 10 minutes"
+        }
+      ],
+      "actors": [
+        "party",
+        "Ayveen"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Accepted retrospective wait, acknowledged by the DM"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2061",
+        "endUid": "u2062"
+      },
+      "reading": "After Txarro’s river loop, the party hears the clock strike zero again. Menestheus is subsequently sent out; zero does not establish a civil hour.",
+      "evidence": [
+        {
+          "startUid": "u2061",
+          "endUid": "u2062",
+          "quote": "You hear the clock strike zero."
+        },
+        {
+          "startUid": "u2167",
+          "endUid": "u2169",
+          "quote": "The Lord woke him up because the clock chimed"
+        }
+      ],
+      "actors": [
+        "party"
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "Only DR 1740 is independently given as the party’s current calendar year (t05). October 5 comes solely from YAML. Menestheus’s historical arrival and the empire’s fall do not date current adventure play.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08"
+    ],
+    "explanation": "The covered play includes Tarek’s retrospective bedroom excursion, Kaito’s entertainment, the audience and investigations, the river loop, and departure to the promontory. No completed rest or civil-day transition is narrated. The approximately one-hour manor estimate is cumulative and partly precedes this session’s opening; the ten-minute ritual is separate. Fixed twilight, zero chimes, and unknown travel time do not establish the full civil span. A same-date YAML span fits without independently proving it."
+  }
+}

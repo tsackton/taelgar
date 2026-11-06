@@ -1,0 +1,1166 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-003",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-session.yaml",
+    "sessionYamlSha256": "1a4811d43a8cbec1d8703a2816c72679b89a43d884585a8673a39356aae0fada",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-transcript.md",
+    "transcriptSha256": "0470948a5ed1c3a0d35df8b0ff8798c86a3498ecfad4a816d19d8d0a2825f73e"
+  },
+  "places": {
+    "p01": {
+      "label": "Feywild",
+      "evidence": [
+        {
+          "startUid": "u0009",
+          "endUid": "u0011",
+          "quote": "find yourself in what hopefully your characters have guessed right by now is the Feywild."
+        }
+      ],
+      "kind": "plane",
+      "vaultPath": "Cosmology/Feywild.md"
+    },
+    "p02": {
+      "label": "Twilight Kingdom",
+      "evidence": [
+        {
+          "startUid": "u0042",
+          "endUid": "u0044",
+          "quote": "you're in the Twilight Kingdom"
+        }
+      ],
+      "kind": "realm",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Kingdom.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0009",
+              "endUid": "u0044",
+              "quote": "you're in the Twilight Kingdom"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Lord Endless Ending’s manor and grounds",
+      "evidence": [
+        {
+          "startUid": "u0648",
+          "endUid": "u0674",
+          "quote": "Lord Endless… Ending is standing in the doorway between the inside of this ballroom and the outside of the porch"
+        }
+      ],
+      "kind": "estate",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Lord Endless Ending's Manor.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0042",
+              "endUid": "u0044",
+              "quote": "you're in the Twilight Kingdom, a place of a dozen-dozen houses"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Ballroom",
+      "evidence": [
+        {
+          "startUid": "u0130",
+          "endUid": "u0131",
+          "quote": "The ballroom is a large space"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0130",
+              "endUid": "u0131",
+              "quote": "the rest of the house end"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Lord’s porch doorway",
+      "evidence": [
+        {
+          "startUid": "u0648",
+          "endUid": "u0654",
+          "quote": "standing in the doorway between the inside of this ballroom and the outside of the porch"
+        }
+      ],
+      "kind": "threshold",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0648",
+              "endUid": "u0654",
+              "quote": "between the inside of this ballroom and the outside of the porch"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Bar and buffet room",
+      "evidence": [
+        {
+          "startUid": "u0267",
+          "endUid": "u0270",
+          "quote": "there's this outside, covered, enclosed porch that you were chatting with the Rakshasa on. That's immediately adjacent to a room that sort of got the bar and where the food was set up"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0267",
+              "endUid": "u0270",
+              "quote": "the sort of adjacent rooms are"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Library",
+      "evidence": [
+        {
+          "startUid": "u0267",
+          "endUid": "u0270",
+          "quote": "the library's where the sleeping human is"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0267",
+              "endUid": "u0270",
+              "quote": "the library's where the sleeping human is"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Rakshasa’s covered porch",
+      "evidence": [
+        {
+          "startUid": "u0267",
+          "endUid": "u0270",
+          "quote": "outside, covered, enclosed porch that you were chatting with the Rakshasa on"
+        }
+      ],
+      "kind": "porch",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0267",
+              "endUid": "u0270",
+              "quote": "the sort of adjacent rooms are"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Upstairs bedrooms",
+      "evidence": [
+        {
+          "startUid": "u0184",
+          "endUid": "u0198",
+          "quote": "he found one or two of them."
+        }
+      ],
+      "kind": "rooms",
+      "note": "The retrospective account does not identify which bedroom held the chest and powder.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0184",
+              "endUid": "u0200",
+              "quote": "he had to, like, crawl along the walls to get back downstairs again."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Lawns beside the river",
+      "evidence": [
+        {
+          "startUid": "u2034",
+          "endUid": "u2045",
+          "quote": "a set of beautiful wide lawns, with a house where a party's just ending"
+        }
+      ],
+      "kind": "grounds",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2034",
+              "endUid": "u2045",
+              "quote": "a set of beautiful wide lawns, with a house where a party's just ending"
+            }
+          ],
+          "note": "The loop returns to the same lawn where the companions are watching, rather than a second manor."
+        }
+      ]
+    },
+    "p11": {
+      "label": "Inside the manor gate",
+      "evidence": [
+        {
+          "startUid": "u2167",
+          "endUid": "u2169",
+          "quote": "you're still just on the inside side of the gate"
+        }
+      ],
+      "kind": "gate",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1681",
+              "endUid": "u1686",
+              "quote": "our post is here"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "North road",
+      "evidence": [
+        {
+          "startUid": "u0551",
+          "endUid": "u0552",
+          "quote": "the road sort of goes north-south"
+        }
+      ],
+      "kind": "road",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0568",
+              "endUid": "u0573",
+              "quote": "the Twilight Kingdoms had a dozen dozen houses"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "River of Time",
+      "evidence": [
+        {
+          "startUid": "u2011",
+          "endUid": "u2013",
+          "quote": "The River of Time."
+        }
+      ],
+      "kind": "river",
+      "note": "The swim loops Txarro back to the same manor; the source establishes no measured travel duration.",
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1104",
+              "endUid": "u1107",
+              "quote": "where the river flows around the bend"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Promontory beyond the north road",
+      "evidence": [
+        {
+          "startUid": "u2562",
+          "endUid": "u2567",
+          "quote": "a footpath leads down this promontory which rises and which narrows"
+        }
+      ],
+      "kind": "promontory",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Promontory.md",
+      "note": "The vault’s Twilight Promontory matches this westward branch and freestanding-door approach. The session does not use that proper name.",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2562",
+              "endUid": "u2567",
+              "quote": "the main road continues on to the north, but off to the west, a footpath leads down this promontory"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Lone doorway at the promontory’s end",
+      "evidence": [
+        {
+          "startUid": "u2562",
+          "endUid": "u2572",
+          "quote": "just a single door sitting at the end of the path with nothing else around it."
+        }
+      ],
+      "kind": "doorway",
+      "note": "The party reaches the outside of the door; future inevitability is not a narrated present entry.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u2562",
+              "endUid": "u2572",
+              "quote": "just a single door sitting at the end of the path"
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1658",
+              "endUid": "u1665",
+              "quote": "you have gone through the door into the other house"
+            }
+          ],
+          "note": "The DM explains the destination relation; the party’s current arrival remains outside."
+        }
+      ]
+    },
+    "p16": {
+      "label": "Neighbor’s house",
+      "evidence": [
+        {
+          "startUid": "u0905",
+          "endUid": "u0911",
+          "quote": "in the house of my nearest neighbors just up the road"
+        }
+      ],
+      "kind": "house",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House.md",
+      "note": "The 27th House note verifies the identity. Menestheus corrects the assumption that Thalestria lives there; she came through it with the order (u2310–u2313).",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0568",
+              "endUid": "u0573",
+              "quote": "the Twilight Kingdoms had a dozen dozen houses"
+            }
+          ],
+          "note": "The neighbor is one of the linked houses of this realm; no interior is visited."
+        }
+      ]
+    },
+    "p17": {
+      "label": "27th room in the center of the house",
+      "evidence": [
+        {
+          "startUid": "u1052",
+          "endUid": "u1059",
+          "quote": "In the center of that house, there is a room."
+        }
+      ],
+      "kind": "room",
+      "note": "Reported cold-iron chamber and key location, not visited in this session.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1052",
+              "endUid": "u1054",
+              "quote": "In the center of that house, there is a room."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Ruined skeletal-root house",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0011",
+          "quote": "a house made of skeletal roots."
+        }
+      ],
+      "kind": "ruin",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Dandelion Root Portal.md",
+      "note": "The portal note identifies the Feywild-side ruin as the crossing’s outlet, distinct from Material Plane Dandelion House. Only the opening recap describes the earlier emergence.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0044",
+              "quote": "you're in the Twilight Kingdom"
+            }
+          ],
+          "note": "The recap places the skeletal house and manor on the same road in this realm."
+        }
+      ]
+    },
+    "p19": {
+      "label": "Porch pillar by the group",
+      "evidence": [
+        {
+          "startUid": "u0390",
+          "endUid": "u0395",
+          "quote": "leaning against the… one of these pillars on the porch"
+        }
+      ],
+      "kind": "porch",
+      "note": "Txarro’s opening position; the source does not securely identify this with either the Rakshasa porch or the Lord’s far-end doorway.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0215",
+              "endUid": "u0227",
+              "quote": "the party is sort of spilling halfway out onto the lawn."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Grandfather clock in the ballroom",
+      "evidence": [
+        {
+          "startUid": "u0914",
+          "endUid": "u0946",
+          "quote": "the grandfather clock on the far side of the room."
+        }
+      ],
+      "kind": "room area",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0914",
+              "endUid": "u0946",
+              "quote": "the grandfather clock on the far side of the room."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0011"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The opening recap recounts the earlier emergence through the root tunnel into the skeletal-root ruin.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0011",
+          "quote": "you emerged into, as you continued down the tunnel"
+        },
+        {
+          "startUid": "u0009",
+          "endUid": "u0011",
+          "quote": "you climb out of the cellar onto a road"
+        }
+      ],
+      "context": "reported",
+      "from": null,
+      "to": "p18",
+      "completion": "arrived"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0130",
+        "endUid": "u0131"
+      },
+      "actors": [
+        "Edric"
+      ],
+      "reading": "Edric begins at the rest-of-house end of the ballroom, facing the Lord at the far end.",
+      "evidence": [
+        {
+          "startUid": "u0130",
+          "endUid": "u0131",
+          "quote": "you're at one end, which is sort of the rest of the house end"
+        }
+      ],
+      "place": "p04",
+      "note": "The later opening retcon delays the summons and keeps the party together; Edric has not already reached the Lord."
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0184",
+        "endUid": "u0200"
+      },
+      "actors": [
+        "Tarek"
+      ],
+      "reading": "In the accepted retrospective excursion, Tarek goes upstairs to bedrooms, then returns downstairs to the group after the powder’s sideways effect.",
+      "evidence": [
+        {
+          "startUid": "u0184",
+          "endUid": "u0198",
+          "quote": "he found one or two of them."
+        },
+        {
+          "startUid": "u0196",
+          "endUid": "u0200",
+          "quote": "found his way back to the rest of the gang."
+        },
+        {
+          "startUid": "u0199",
+          "endUid": "u0200",
+          "quote": "get back downstairs again."
+        }
+      ],
+      "from": "p03",
+      "to": "p03",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p09",
+          "reading": "Searches upstairs bedrooms and opens a vial in a chest."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0215",
+        "endUid": "u0227"
+      },
+      "actors": [
+        "Txarro"
+      ],
+      "reading": "Txarro hangs back at a porch threshold near the group; he later leans on its pillar while seeing through the owl.",
+      "evidence": [
+        {
+          "startUid": "u0215",
+          "endUid": "u0227",
+          "quote": "halfway in… side, halfway outside."
+        },
+        {
+          "startUid": "u0390",
+          "endUid": "u0395",
+          "quote": "leaning against the… one of these pillars on the porch"
+        }
+      ],
+      "place": "p19"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0303",
+        "endUid": "u0314"
+      },
+      "actors": [
+        "Kaito Min"
+      ],
+      "reading": "Kaito leaves his unsuccessful efforts with lawn guests and returns to the group at the house.",
+      "evidence": [
+        {
+          "startUid": "u0303",
+          "endUid": "u0305",
+          "quote": "makes his way back over to the house"
+        },
+        {
+          "startUid": "u0312",
+          "endUid": "u0314",
+          "quote": "reluctantly sees the, the group, and makes his way over."
+        }
+      ],
+      "from": "p10",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0353",
+        "endUid": "u0356"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The opening is retconned so the party starts together before responding to the Lord’s invitation.",
+      "evidence": [
+        {
+          "startUid": "u0353",
+          "endUid": "u0356",
+          "quote": "for the sake of starting the party together"
+        },
+        {
+          "startUid": "u0520",
+          "endUid": "u0525",
+          "quote": "Edric stepped back through the ballroom door"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0385",
+        "endUid": "u0405"
+      },
+      "actors": [
+        "Txarro"
+      ],
+      "reading": "Through his owl, Txarro tracks the human woman out of the gate and away from the skeletal-root house along the north road.",
+      "evidence": [
+        {
+          "startUid": "u0390",
+          "endUid": "u0395",
+          "quote": "I'm just watching… the person go down the road."
+        },
+        {
+          "startUid": "u0402",
+          "endUid": "u0405",
+          "quote": "a human woman in her mid-30s."
+        },
+        {
+          "startUid": "u0404",
+          "endUid": "u0405",
+          "quote": "She's not going towards the way we came, she's going the other direction down the road."
+        },
+        {
+          "startUid": "u0551",
+          "endUid": "u0552",
+          "quote": "following this woman heading… continuing north"
+        }
+      ],
+      "place": "p12",
+      "mode": "remote",
+      "observerPlace": "p19",
+      "observedActors": [
+        "Departing human woman"
+      ],
+      "note": "The DM’s initial suggestion of the skeleton-house direction is immediately rejected and corrected in the same exchange."
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0530",
+        "endUid": "u0546"
+      },
+      "actors": [
+        "Txarro"
+      ],
+      "reading": "From the owl’s viewpoint, Txarro sees the distant west-side promontory in silhouette; he cannot see details and sends the owl onward without entering the house.",
+      "evidence": [
+        {
+          "startUid": "u0534",
+          "endUid": "u0541",
+          "quote": "you can kind of see the promontory a little bit silhouetted against the sunset, but you can't see any details of what's on it."
+        },
+        {
+          "startUid": "u0542",
+          "endUid": "u0546",
+          "quote": "Don't go inside the house."
+        }
+      ],
+      "place": "p14",
+      "mode": "remote",
+      "observerPlace": "p19",
+      "note": "The four-to-five-mile distance is a rough destination estimate, not measured elapsed travel or arrival."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0666",
+        "endUid": "u0707"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party crosses the ballroom and reaches Lord Endless Ending and his butler at the porch doorway.",
+      "evidence": [
+        {
+          "startUid": "u0666",
+          "endUid": "u0674",
+          "quote": "make your way over to Lord Endless."
+        },
+        {
+          "startUid": "u0706",
+          "endUid": "u0707",
+          "quote": "we walk on up."
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Cross the ballroom to the Lord."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1402",
+        "endUid": "u1413"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group proposes checking the neighbor’s house and obtaining the key for leverage, while avoiding a binding bargain.",
+      "evidence": [
+        {
+          "startUid": "u1402",
+          "endUid": "u1405",
+          "quote": "Let's go check out the house."
+        },
+        {
+          "startUid": "u1407",
+          "endUid": "u1410",
+          "quote": "we get the key."
+        }
+      ],
+      "context": "planned",
+      "from": "p03",
+      "to": "p16",
+      "completion": "planned"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1425",
+        "endUid": "u1497"
+      },
+      "actors": [
+        "Tarek"
+      ],
+      "reading": "Tarek walks over to inspect the ballroom’s grandfather clock at close range.",
+      "evidence": [
+        {
+          "startUid": "u1425",
+          "endUid": "u1425",
+          "quote": "Tarek wanders over to look at the clock."
+        },
+        {
+          "startUid": "u1494",
+          "endUid": "u1497",
+          "quote": "being this close… this clock looks awfully familiar."
+        }
+      ],
+      "from": "p04",
+      "to": "p20",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1508",
+        "endUid": "u1516"
+      },
+      "actors": [
+        "Kaito Min"
+      ],
+      "reading": "Kaito returns to the Lord to excuse the party without committing to the proposed bargain.",
+      "evidence": [
+        {
+          "startUid": "u1508",
+          "endUid": "u1509",
+          "quote": "Kaito, Kaito will head over to the Lord."
+        },
+        {
+          "startUid": "u1511",
+          "endUid": "u1516",
+          "quote": "Our party apologizes"
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1651",
+        "endUid": "u1693"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reaches the gate from the manor side and questions the guards before leaving.",
+      "evidence": [
+        {
+          "startUid": "u1653",
+          "endUid": "u1654",
+          "quote": "Before we exit the gate, I want to talk to the guards."
+        },
+        {
+          "startUid": "u1681",
+          "endUid": "u1686",
+          "quote": "you can definitely ask the guards that"
+        }
+      ],
+      "from": "p03",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1711",
+        "endUid": "u1719"
+      },
+      "actors": [
+        "Edric"
+      ],
+      "reading": "Edric returns from the gate and finds the Lord to ask about the clock’s origin.",
+      "evidence": [
+        {
+          "startUid": "u1711",
+          "endUid": "u1713",
+          "quote": "Edric will just go back."
+        },
+        {
+          "startUid": "u1715",
+          "endUid": "u1719",
+          "quote": "So, I’ll find him, I’ll apologize."
+        }
+      ],
+      "from": "p11",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1760",
+        "endUid": "u1786"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group goes to the sleeping man in the library; Kaito reads his dreams, and they investigate his satchel and books.",
+      "evidence": [
+        {
+          "startUid": "u1760",
+          "endUid": "u1766",
+          "quote": "Can we go find the… the badger's gonna show us where this guy is?"
+        },
+        {
+          "startUid": "u1777",
+          "endUid": "u1786",
+          "quote": "What would you like to do with this sleeping number dude?"
+        },
+        {
+          "startUid": "u1829",
+          "endUid": "u1832",
+          "quote": "a satchel, on the floor next to him."
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived",
+      "note": "The Lord and butler identify the library at u1725; the ensuing close-range mind-reading and book investigation establish the group’s arrival."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2002",
+        "endUid": "u2032"
+      },
+      "actors": [
+        "Txarro"
+      ],
+      "reading": "Txarro leaves the house and enters the river by the manor lawns.",
+      "evidence": [
+        {
+          "startUid": "u2002",
+          "endUid": "u2006",
+          "quote": "I'm gonna dive into the river."
+        },
+        {
+          "startUid": "u2014",
+          "endUid": "u2016",
+          "quote": "I'm gonna swim downriver as far as I can go."
+        },
+        {
+          "startUid": "u2032",
+          "endUid": "u2032",
+          "quote": "You can make it all the way around the bend."
+        }
+      ],
+      "from": "p03",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "swim"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2032",
+        "endUid": "u2047"
+      },
+      "actors": [
+        "Txarro"
+      ],
+      "reading": "Swimming downstream around the bend brings Txarro back to the same lawns and the companions’ starting point.",
+      "evidence": [
+        {
+          "startUid": "u2034",
+          "endUid": "u2039",
+          "quote": "a set of beautiful wide lawns, with a house where a party's just ending"
+        },
+        {
+          "startUid": "u2044",
+          "endUid": "u2047",
+          "quote": "you see Txarro reemerge, at just about the point where you left them."
+        }
+      ],
+      "from": "p13",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "swim",
+      "route": [
+        {
+          "reading": "Rounds the bend, sees the same manor, and reappears beside the waiting companions."
+        }
+      ],
+      "note": "No swimming duration is established; the corrected thirty-minute breath capacity is not elapsed time."
+    },
+    {
+      "id": "l18",
+      "type": "presence",
+      "source": {
+        "startUid": "u2042",
+        "endUid": "u2045"
+      },
+      "actors": [
+        "Kaito Min",
+        "Edric",
+        "Ayveen",
+        "Tarek"
+      ],
+      "reading": "The other four companions watch the river from the manor’s lawns and see Txarro reappear.",
+      "evidence": [
+        {
+          "startUid": "u2042",
+          "endUid": "u2045",
+          "quote": "Each one of you watching"
+        },
+        {
+          "startUid": "u2044",
+          "endUid": "u2045",
+          "quote": "you see Txarro reemerge"
+        }
+      ],
+      "place": "p10"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2067",
+        "endUid": "u2130"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the zero chime, the party returns to the gate and waits inside for the departing guest.",
+      "evidence": [
+        {
+          "startUid": "u2067",
+          "endUid": "u2070",
+          "quote": "We're gonna head towards the gate."
+        },
+        {
+          "startUid": "u2121",
+          "endUid": "u2122",
+          "quote": "You're hanging out by the gate"
+        },
+        {
+          "startUid": "u2130",
+          "endUid": "u2130",
+          "quote": "Just, like, near the gate."
+        }
+      ],
+      "from": "p03",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2553",
+        "endUid": "u2572"
+      },
+      "actors": [
+        "party",
+        "Menestheus"
+      ],
+      "reading": "The party and Menestheus leave the gate, follow the road north, then the westward footpath along the narrowing promontory, arriving outside the lone doorway.",
+      "evidence": [
+        {
+          "startUid": "u2553",
+          "endUid": "u2558",
+          "quote": "Lead the way, you've been there before."
+        },
+        {
+          "startUid": "u2559",
+          "endUid": "u2567",
+          "quote": "You go out down the gate"
+        },
+        {
+          "startUid": "u2562",
+          "endUid": "u2567",
+          "quote": "a footpath leads down this promontory"
+        },
+        {
+          "startUid": "u2571",
+          "endUid": "u2572",
+          "quote": "As you stand there, in front of the door"
+        }
+      ],
+      "from": "p11",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p12",
+          "reading": "Walk north on the main road, with the ravine falling away on the west."
+        },
+        {
+          "place": "p14",
+          "reading": "Branch west along the footpath to the narrowing promontory’s end."
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "presence",
+      "source": {
+        "startUid": "u2574",
+        "endUid": "u2590"
+      },
+      "actors": [
+        "Lord Endless Ending"
+      ],
+      "reading": "A closing camera cut shows the Lord alone at the manor looking over the lawns and speaking a poem the party cannot hear.",
+      "evidence": [
+        {
+          "startUid": "u2574",
+          "endUid": "u2580",
+          "quote": "back to Lord Endless Ending, standing by himself, looking away over the lawns"
+        },
+        {
+          "startUid": "u2579",
+          "endUid": "u2580",
+          "quote": "something that you all don't hear"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l22",
+      "type": "presence",
+      "source": {
+        "startUid": "u2593",
+        "endUid": "u2598"
+      },
+      "actors": [
+        "Txarro’s owl"
+      ],
+      "reading": "The DM confirms the owl is perched on the lone doorframe when the party arrives.",
+      "evidence": [
+        {
+          "startUid": "u2596",
+          "endUid": "u2596",
+          "quote": "that owl is 100% perched on top of the doorframe right now."
+        }
+      ],
+      "place": "p15"
+    }
+  ]
+}
