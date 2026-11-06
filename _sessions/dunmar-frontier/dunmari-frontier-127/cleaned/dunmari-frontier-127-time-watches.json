@@ -1,0 +1,147 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-time-markers.json",
+    "sha256": "dc660af1fd848a27495a999299680cc9f73fdf3c80bc39cd1275f92a6baf6ca0"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-transcript.md",
+    "sha256": "16bea9ac9baacb6432a7f86bdddc10e93726fc90212069d4e596bf85b3a50514"
+  },
+  "dateAssessment": "Working calendar: DR 1749 from session YAML; June 29 noon and July 4 morning are spoken at u0016–u0021 and realized by the preparation/flight montage. The roughly 2½-day allocations are approximate; the precise departure day and its afternoon/evening watch remain open. July 4 continues through the nighttime return to Vindristjarna. The next morning after a long rest is explicitly deferred to next session (t16), so no July 5 event is added. The time extraction supports the five YAML date boundaries without filling an unspoken intermediate-day itinerary.",
+  "watches": [
+    {
+      "day": "June 29, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "After the Magistros audience, the DM explicitly places current play at noon on June 29.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1749-06-29",
+      "endDate": "1749-06-29"
+    },
+    {
+      "day": "June 29 → Chardon departure",
+      "startWatch": "midday",
+      "endWatch": null,
+      "basis": "mixed",
+      "summary": "About two and a half days of research and preparation follow the June 29 noon opening.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "Chardon departure",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The same sailing is called evening tide, then afternoon; its departure watch remains unresolved.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "July 4, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Arrival is called morning; the additional three-hour flight before eight suggests an initial dawn arrival.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1749-07-04",
+      "endDate": "1749-07-04",
+      "sourceRanges": [
+        [
+          "u0797",
+          "u0803"
+        ],
+        [
+          "u0840",
+          "u0840"
+        ]
+      ]
+    },
+    {
+      "day": "July 4, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Another three-hour flight precedes the explicit eight-in-the-morning departure from the parked ship.",
+      "markers": [
+        "t05",
+        "t06"
+      ],
+      "startDate": "1749-07-04",
+      "endDate": "1749-07-04"
+    },
+    {
+      "day": "July 4, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The ten-mile walk takes two and a half to three hours, ending around noon or shortly after.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1749-07-04",
+      "endDate": "1749-07-04"
+    },
+    {
+      "day": "July 4, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Another couple of hours lead to the three-or-four-o’clock approach; the short rest overlaps that wait.",
+      "markers": [
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "startDate": "1749-07-04",
+      "endDate": "1749-07-04"
+    },
+    {
+      "day": "July 4, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "The ogre returns after forty to fifty minutes; a separate hour passes after its message-bearing departure.",
+      "markers": [
+        "t11",
+        "t12"
+      ],
+      "startDate": "1749-07-04",
+      "endDate": "1749-07-04"
+    },
+    {
+      "day": "July 4, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Several additional hours pass behind the warehouse; sunset is then about an hour away.",
+      "markers": [
+        "t13",
+        "t14"
+      ],
+      "startDate": "1749-07-04",
+      "endDate": "1749-07-04"
+    },
+    {
+      "day": "July 4, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "The giant sings half an hour after sunset; conversation continues to the explicitly nighttime return teleport.",
+      "markers": [
+        "t15",
+        "t16"
+      ],
+      "startDate": "1749-07-04",
+      "endDate": "1749-07-04"
+    }
+  ]
+}

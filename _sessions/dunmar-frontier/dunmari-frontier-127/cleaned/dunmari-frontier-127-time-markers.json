@@ -1,0 +1,609 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-127",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-session.yaml",
+    "sessionYamlSha256": "8cba87319329cdb8b27e3ec23632b933a04c40453ce78d85598aeb33e12ea8a0",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-transcript.md",
+    "transcriptSha256": "16bea9ac9baacb6432a7f86bdddc10e93726fc90212069d4e596bf85b3a50514",
+    "yamlDates": {
+      "start": "1749-06-29",
+      "end": "1749-07-04"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0016",
+        "endUid": "u0021"
+      },
+      "reading": "Play resumes after the Magistros audience at noon on June 29.",
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 6,
+          "day": 29
+        },
+        "clock": "12:00",
+        "precision": "exact",
+        "basis": "Spoken June 29 and noon; year inherited from YAML."
+      },
+      "evidence": [
+        {
+          "startUid": "u0016",
+          "endUid": "u0021",
+          "quote": "It's, you know, noon on June 29th."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0063",
+        "endUid": "u0066"
+      },
+      "reading": "The party spends roughly two and a half days on research and preparations in Chardon before departure.",
+      "duration": {
+        "value": 2.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Opening allocation, realized by the narrated few days of preparations."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0016",
+          "endUid": "u0021",
+          "quote": "Say you spend 2 and a half days in Chardon and 2 and a half days flying"
+        },
+        {
+          "startUid": "u0063",
+          "endUid": "u0066",
+          "quote": "DM: So you spend a few days gathering this research, talking to people, getting prepared to leave, putting out some feelers to purchase some magic items useful for the eventual travel to the Plane of Fire that Seeker has been asking for."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0070",
+        "endUid": "u0077"
+      },
+      "reading": "Departure from Chardon for Vindristjarna is described as evening tide, but the resumed sailing scene calls it afternoon.",
+      "note": "The source supplies competing watches for the same outward sailing; neither is silently selected.",
+      "evidence": [
+        {
+          "startUid": "u0070",
+          "endUid": "u0077",
+          "quote": "DM: And it is, you know, on the evening tide, a couple days later, that you set sail with Tiberius the Windcaller, and and you and 2 people who Mitus has sent to travel with you, although neither is intending to, you know, go fight giants or anything. They are there to as support, and, you know, as help with any sort of imperial bureaucracy that might arise, and also, just, you know, to report back to Mitus."
+        },
+        {
+          "startUid": "u0117",
+          "endUid": "u0120",
+          "quote": "DM: So you're sailing out to Vindristjarna in the afternoon, traveling fast with a Windcaller creating wind for the ship with 2, 2, 2 of the Magistros's friends and allies who are coming along for the journey."
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0188",
+        "endUid": "u0189"
+      },
+      "reading": "The flight across the coast and river valley reaches the Argento area in the morning of July 4 after roughly two and a half days.",
+      "duration": {
+        "value": 2.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Opening flight allocation, followed by a completed couple/few-day flight montage."
+      },
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 7,
+          "day": 4
+        },
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Opening spoken arrival date and later morning arrival; year from YAML."
+      },
+      "completion": "completed",
+      "note": "The opening durations are approximate scheduling; their arithmetic does not independently measure arrival to the hour.",
+      "evidence": [
+        {
+          "startUid": "u0016",
+          "endUid": "u0021",
+          "quote": "You'd, you'd arrive the morning of July 4th."
+        },
+        {
+          "startUid": "u0188",
+          "endUid": "u0189",
+          "quote": "DM: So over the next couple of days you fly across the the ocean and the rolling fields of the agricultural lands just south of Chardon."
+        },
+        {
+          "startUid": "u0192",
+          "endUid": "u0195",
+          "quote": "DM: And as you begin to ascend into the foothills of the Chataan Mountains, you fly into the sort of backwater province of Alta Tonaro, where dry, rolling hills dotted with cedar and juniper forests, canyons that flood in the rare summer thunderstorm and river valleys with riparian forests that spring to life after the winter rains."
+        },
+        {
+          "startUid": "u0207",
+          "endUid": "u0208",
+          "quote": "DM: But it's, you know, the morning a few days later as you arrive, and you can see the sort of dusty town of Argento in the distance below you, and the the sort of path into the mountains ahead."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0797",
+        "endUid": "u0803"
+      },
+      "reading": "The skyship flies another three hours into the mountains and parks out of sight, about twenty miles from Riftstone Gorge.",
+      "duration": {
+        "value": 3,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated additional flight duration."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0797",
+          "endUid": "u0803",
+          "quote": "DM: Okay, so you fly another, you know, 3 h into the foothills and into the mountains, and find a safe place to park Vindristjarna out of sight, maybe, say, 20 miles from Riftstone Gorge, at which point you're well within range for Kenzo to extend out his consciousness. So you can sense the, you know the the mountains and hills are are not particularly occupied except for this one spot, presumably Riftstone Gorge, where there are 18 giants and many hundreds of smaller creatures."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0840",
+        "endUid": "u0840"
+      },
+      "reading": "It is eight in the morning when the party prepares to leave the parked ship on foot.",
+      "time": {
+        "clock": "08:00",
+        "precision": "exact",
+        "basis": "Explicit current clock after the additional flight."
+      },
+      "evidence": [
+        {
+          "startUid": "u0840",
+          "endUid": "u0840",
+          "quote": "DM: It's a nice—I mean, it's a nice day. It's like 8 in the—it's 8 in the morning."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0869",
+        "endUid": "u0875"
+      },
+      "reading": "After walking about ten miles for two and a half to three hours, the party stops for bird scouting around noon or a little after.",
+      "duration": {
+        "min": 2.5,
+        "minInclusive": true,
+        "max": 3,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM states the duration of the completed walk."
+      },
+      "time": {
+        "partOfDay": "noon or shortly after",
+        "precision": "approximate",
+        "basis": "DM dates the selected ten-mile scouting stop around noon, a little after."
+      },
+      "completion": "completed",
+      "note": "The earlier mid-afternoon estimate at u0850 concerns an unspecified stopping distance; the selected first stop is then placed around noon.",
+      "evidence": [
+        {
+          "startUid": "u0843",
+          "endUid": "u0845",
+          "quote": "Wellby: Smash cut to us walking. Wellby says to Kenzo, “Kenzo, this is how we used to get everywhere.” It's true."
+        },
+        {
+          "startUid": "u0846",
+          "endUid": "u0847",
+          "quote": "Kenzo: Everywhere we wanted to go. Just slightly levitates above the ground, just to, like, avoid, you know... It's, like, slightly..."
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0848",
+          "quote": "Wellby: Sleep."
+        },
+        {
+          "startUid": "u0849",
+          "endUid": "u0849",
+          "quote": "Kenzo: Above, above, you know..."
+        },
+        {
+          "startUid": "u0850",
+          "endUid": "u0850",
+          "quote": "DM: It takes you till mid afternoon to get within... I don't know, how close do you want to get?"
+        },
+        {
+          "startUid": "u0865",
+          "endUid": "u0866",
+          "quote": "DM: Okay, so again, how far do you wanna get? Like, where do you stop and do Clairvoyance and animal scouting?"
+        },
+        {
+          "startUid": "u0867",
+          "endUid": "u0867",
+          "quote": "Delwath: Let's do animal scouting 1st at like 10 or 12 miles."
+        },
+        {
+          "startUid": "u0868",
+          "endUid": "u0868",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u0869",
+          "endUid": "u0875",
+          "quote": "DM: So, so you walk, you walk for, say, you know, 2 and a half, 3 h, something like that. You cover 10 miles. You know, around noon, a little afternoon. It's, it's starting to get—it's getting hot, right? I mean, it's the middle of summer. Sun's beating down, although you're at some elevation, and there's some shade from the sort of sides of this river valley, so it's not too bad. You pull out... Are you pulling something from your hat, or just—no, I'll call out? Okay."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1251",
+        "endUid": "u1252"
+      },
+      "reading": "Another couple of hours bring the party to its stealth approach in mid-afternoon, about three or four.",
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated another couple of hours, with an approximate endpoint."
+      },
+      "time": {
+        "partOfDay": "mid-afternoon",
+        "precision": "approximate",
+        "basis": "DM says maybe more towards three or four; the clock is a stated range."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1251",
+          "endUid": "u1252",
+          "quote": "DM: Okay, so everybody is gonna start... You know, you spend another couple of hours till mid-afternoon, or are you waiting till dark?"
+        },
+        {
+          "startUid": "u1253",
+          "endUid": "u1253",
+          "quote": "Delwath: No, I don't think we want to wait till dark."
+        },
+        {
+          "startUid": "u1254",
+          "endUid": "u1255",
+          "quote": "DM: So mid afternoon, maybe, maybe more towards, like, 3 or 4, so that you get some shadows from the sun, you know, a little bit lower in the sky."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1260",
+        "endUid": "u1262"
+      },
+      "reading": "Delwath casts Aid and takes a short rest during the wait before the afternoon approach.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; accepted rest during the already narrated wait."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1260",
+          "endUid": "u1261",
+          "quote": "Delwath: We are gonna wait till afternoon. By the way, I am going to cast Aid and take a short rest."
+        },
+        {
+          "startUid": "u1262",
+          "endUid": "u1262",
+          "quote": "DM: Okay."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1295",
+        "endUid": "u1297"
+      },
+      "reading": "The party completes the shortened one-minute detection ritual at the carved eye gemstone.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Accepted shortened ritual, followed by the divination-magic result."
+      },
+      "completion": "completed",
+      "note": "Delwath confirms the duration; Kenzo requested the detection. The transcript does not explicitly name the caster in its result.",
+      "evidence": [
+        {
+          "startUid": "u1295",
+          "endUid": "u1297",
+          "quote": "DM: I mean, you can stand around for 10 min... Well, Delwath—oh, no, that’s right. You have your fast thing. It just takes a minute, right?"
+        },
+        {
+          "startUid": "u1301",
+          "endUid": "u1301",
+          "quote": "Delwath: Yeah, 1 min. It's 1 min. It doesn't work."
+        },
+        {
+          "startUid": "u1302",
+          "endUid": "u1302",
+          "quote": "DM: There is divination magic coming from this gemstone."
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1417",
+        "endUid": "u1421"
+      },
+      "reading": "The suggested ogre returns to the rock after about forty to fifty minutes.",
+      "duration": {
+        "min": 40,
+        "minInclusive": true,
+        "max": 50,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit elapsed wait before the ogre returns."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1417",
+          "endUid": "u1421",
+          "quote": "DM: Stomps off. About 40, 50 min later, you hear what sounds like a large creature trying to tiptoe badly, and the ogre sits down facing the rock, kind of kneeling a little bit and looking towards the rock. Hello, Rock. Do I...? I will tell you many things."
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1678",
+        "endUid": "u1679"
+      },
+      "reading": "An hour passes after the ogre leaves to deliver the secret message.",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit elapsed wait."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1678",
+          "endUid": "u1679",
+          "quote": "DM: Okay. An hour passes."
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1693",
+        "endUid": "u1693"
+      },
+      "reading": "Several more hours pass behind the warehouse, without a short rest; the sun is sinking.",
+      "duration": {
+        "text": "several hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM states another several hours pass."
+      },
+      "completion": "completed",
+      "note": "The requested rest is refused at u1689–u1692. Suggestion ending is attributed to the completed task, not eight hours of elapsed time.",
+      "evidence": [
+        {
+          "startUid": "u1681",
+          "endUid": "u1682",
+          "quote": "Delwath: Can we, like—is it possible to, like, rest behind this rock here, or is it too high stakes of a situation?"
+        },
+        {
+          "startUid": "u1683",
+          "endUid": "u1683",
+          "quote": "DM: Seeker could use Wish to cast Mordenkainen's Magnificent Mansion, and then you can rest all you want."
+        },
+        {
+          "startUid": "u1684",
+          "endUid": "u1685",
+          "quote": "Wellby: Secret question. I could also lot of things."
+        },
+        {
+          "startUid": "u1686",
+          "endUid": "u1686",
+          "quote": "Delwath: I could cast a second level spell called Prayer of Healing to get a short rest as well."
+        },
+        {
+          "startUid": "u1687",
+          "endUid": "u1687",
+          "quote": "DM: Oh!"
+        },
+        {
+          "startUid": "u1688",
+          "endUid": "u1688",
+          "quote": "Delwath: You."
+        },
+        {
+          "startUid": "u1689",
+          "endUid": "u1691",
+          "quote": "DM: I think it would—I think it is tough to rest while you're—I mean, this is not a comfortable space. Yeah, that's fair. Crouched."
+        },
+        {
+          "startUid": "u1692",
+          "endUid": "u1692",
+          "quote": "Delwath: Yeah, no, that's, that's, that's totally fair. I was just asking."
+        },
+        {
+          "startUid": "u1693",
+          "endUid": "u1693",
+          "quote": "DM: Another several hours pass."
+        },
+        {
+          "startUid": "u1694",
+          "endUid": "u1694",
+          "quote": "Kenzo: No."
+        },
+        {
+          "startUid": "u1695",
+          "endUid": "u1695",
+          "quote": "DM: The sun begins to sink into the sky."
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1723",
+        "endUid": "u1724"
+      },
+      "reading": "The party chooses to continue waiting with sunset about one hour away.",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset",
+          "offset": {
+            "value": 1,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "DM states sunset in an hour."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Explicit current relation to sunset."
+      },
+      "evidence": [
+        {
+          "startUid": "u1723",
+          "endUid": "u1724",
+          "quote": "DM: I mean, it's gonna be. It's not gonna be a very comfortable place to sleep. But, you know, the sun is going to set in an hour, and you could at least wait to see."
+        },
+        {
+          "startUid": "u1725",
+          "endUid": "u1725",
+          "quote": "Kenzo: Yeah, let's do that."
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1729",
+        "endUid": "u1739"
+      },
+      "reading": "Sunset occurs, then the stone giant begins singing about half an hour later; the initial one-hour wording is corrected.",
+      "time": {
+        "partOfDay": "shortly after sunset",
+        "relative": {
+          "relation": "after",
+          "anchor": "sunset",
+          "offset": {
+            "value": 0.5,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "DM immediately corrects about an hour to half an hour."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Narrated sunset followed by the corrected half-hour interval."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1729",
+          "endUid": "u1739",
+          "quote": "DM: The sun sets, and it begins to get dark, and about an hour after, you know, half an hour after sunset, you hear a sort of quiet, very deep bass voice singing what sounds like a some kind of song in, in Giantish, and it's, it's sort of a—it's like a, you know, epic poem style set, set to a sort of bass chant that is, that is telling a story about how the mountains were created. This seems like a legend or some sort of stone giant tale about how the giant—the mountains were sculpted by their All-Father, and it, you know, it's, it's, it's..."
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2190",
+        "endUid": "u2192"
+      },
+      "reading": "The giant leaves at night; the party then teleports to Vindristjarna, where the session ends before the next morning.",
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Explicit night anchor and continued closing teleport."
+      },
+      "note": "The morning after a long rest is announced as next session, not a completed overnight in this session.",
+      "evidence": [
+        {
+          "startUid": "u2190",
+          "endUid": "u2192",
+          "quote": "DM: So Giant goes away. It's night. You'll have to decide if you want to launch an assault now, try and sneak away and get a short rest and launch an assault, or sneak back to Vindristjarna and take a long rest and launch an assault."
+        },
+        {
+          "startUid": "u2206",
+          "endUid": "u2207",
+          "quote": "DM: When you teleport—so when you teleport to this, to... It is about 40 miles away."
+        },
+        {
+          "startUid": "u2208",
+          "endUid": "u2208",
+          "quote": "DM: Faldrak has spent most of the time that you were walking flying away from the death ray."
+        },
+        {
+          "startUid": "u2209",
+          "endUid": "u2209",
+          "quote": "Kenzo: Smart."
+        },
+        {
+          "startUid": "u2210",
+          "endUid": "u2210",
+          "quote": "DM: And you say smart, and he's like, “I knew it. I knew you didn't want me to stay close to the death ray.”"
+        },
+        {
+          "startUid": "u2211",
+          "endUid": "u2211",
+          "quote": "Kenzo: Trust your instincts. It's good."
+        },
+        {
+          "startUid": "u2212",
+          "endUid": "u2212",
+          "quote": "DM: And we'll end there, and then we'll pick up in the morning after a long rest as you prepare to assault the tower next time."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "June 29 noon and July 4 morning are spoken in u0016–u0021; 1749 comes from YAML. The later flight arrival and current-day clocks realize that frame.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": 5,
+    "evidence": [
+      "t01",
+      "t02",
+      "t04",
+      "t06",
+      "t07",
+      "t08",
+      "t15",
+      "t16"
+    ],
+    "explanation": "The source explicitly bridges June 29 to July 4 through approximately two and a half days of preparation and two and a half days of flight, then plays July 4 through night and the return teleport. The approximate durations do not fix an exact departure watch. The final long rest/morning is deferred to the next session, so it adds no sixth boundary."
+  }
+}

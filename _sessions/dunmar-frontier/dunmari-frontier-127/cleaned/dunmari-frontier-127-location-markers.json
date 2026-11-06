@@ -1,0 +1,2112 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-127",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-session.yaml",
+    "sessionYamlSha256": "8cba87319329cdb8b27e3ec23632b933a04c40453ce78d85598aeb33e12ea8a0",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-transcript.md",
+    "transcriptSha256": "16bea9ac9baacb6432a7f86bdddc10e93726fc90212069d4e596bf85b3a50514"
+  },
+  "places": {
+    "p01": {
+      "label": "Chardon",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0049",
+          "endUid": "u0059",
+          "quote": "DM: Okay, so we pick up in Chardon after you have agreed to help a young Magistros, Emperor of the Chardonian Empire, to acquire a new source of chalyte from the Chataan Mountains, which was, you know, it was actually a, a... As the notes that Mitus has gathered for you reveal, was a brief sort of boomtown with some surface accessible chalyte about 60 years ago or so 50 to 60 years ago, but was not developed as a robust source of chalyte, because the Expeditionary Force that entered the Chataan Mountains to try and secure the, you know, the roads and the, and the entryways to the mines was summer—summarily obliterated by a mega death ray powered by chalyte, and at that point it was declared not worth the trouble, and the story of the defeat was suppressed by both Mitus Auratan and the current Magistros's aunt and her predecessor."
+        },
+        {
+          "startUid": "u0060",
+          "endUid": "u0062",
+          "quote": "DM: But of course the Magistros of Chardon kept this knowledge, and now has decided... has found people willing to face the death ray. Apparently."
+        },
+        {
+          "startUid": "u0063",
+          "endUid": "u0066",
+          "quote": "DM: So you spend a few days gathering this research, talking to people, getting prepared to leave, putting out some feelers to purchase some magic items useful for the eventual travel to the Plane of Fire that Seeker has been asking for."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p02": {
+      "label": "Navy boat to Vindristjarna",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0085",
+          "endUid": "u0087",
+          "quote": "DM: Wait. Okay, so we pick up as you sail to Vindristjarna on one of the navy [garbled]. And now we'll talk to Eric."
+        },
+        {
+          "startUid": "u0117",
+          "endUid": "u0120",
+          "quote": "DM: So you're sailing out to Vindristjarna in the afternoon, traveling fast with a Windcaller creating wind for the ship with 2, 2, 2 of the Magistros's friends and allies who are coming along for the journey."
+        }
+      ],
+      "mobile": true
+    },
+    "p03": {
+      "label": "Vindristjarna",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0139",
+          "endUid": "u0140",
+          "quote": "DM: And so you find yourself at Vindristjarna. A lot of ice floating in the water beneath it. For some reason."
+        },
+        {
+          "startUid": "u0188",
+          "endUid": "u0189",
+          "quote": "DM: So over the next couple of days you fly across the the ocean and the rolling fields of the agricultural lands just south of Chardon."
+        },
+        {
+          "startUid": "u0797",
+          "endUid": "u0803",
+          "quote": "DM: Okay, so you fly another, you know, 3 h into the foothills and into the mountains, and find a safe place to park Vindristjarna out of sight, maybe, say, 20 miles from Riftstone Gorge, at which point you're well within range for Kenzo to extend out his consciousness. So you can sense the, you know the the mountains and hills are are not particularly occupied except for this one spot, presumably Riftstone Gorge, where there are 18 giants and many hundreds of smaller creatures."
+        },
+        {
+          "startUid": "u2206",
+          "endUid": "u2207",
+          "quote": "DM: When you teleport—so when you teleport to this, to... It is about 40 miles away."
+        },
+        {
+          "startUid": "u2208",
+          "endUid": "u2208",
+          "quote": "DM: Faldrak has spent most of the time that you were walking flying away from the death ray."
+        },
+        {
+          "startUid": "u2209",
+          "endUid": "u2209",
+          "quote": "Kenzo: Smart."
+        },
+        {
+          "startUid": "u2210",
+          "endUid": "u2210",
+          "quote": "DM: And you say smart, and he's like, “I knew it. I knew you didn't want me to stay close to the death ray.”"
+        },
+        {
+          "startUid": "u2211",
+          "endUid": "u2211",
+          "quote": "Kenzo: Trust your instincts. It's good."
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p04": {
+      "label": "Chataan Mountains",
+      "kind": "mountain range",
+      "evidence": [
+        {
+          "startUid": "u0192",
+          "endUid": "u0195",
+          "quote": "DM: And as you begin to ascend into the foothills of the Chataan Mountains, you fly into the sort of backwater province of Alta Tonaro, where dry, rolling hills dotted with cedar and juniper forests, canyons that flood in the rare summer thunderstorm and river valleys with riparian forests that spring to life after the winter rains."
+        },
+        {
+          "startUid": "u0381",
+          "endUid": "u0384",
+          "quote": "DM: Okay, so these are the border mountains between Darba and—sorry, between Dunmar and Chardon. So we're looking at this part of the world right here. These mountains. Darba's here. Chardon's like right up here. And you've basically just flown across this Yeraad River Valley, where lizardfolk live. And then across this unnamed river. Then this river is the Silverflood that's mentioned in the notes."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chataan Mountains.md"
+    },
+    "p05": {
+      "label": "Alta Tonaro",
+      "kind": "province",
+      "evidence": [
+        {
+          "startUid": "u0192",
+          "endUid": "u0195",
+          "quote": "DM: And as you begin to ascend into the foothills of the Chataan Mountains, you fly into the sort of backwater province of Alta Tonaro, where dry, rolling hills dotted with cedar and juniper forests, canyons that flood in the rare summer thunderstorm and river valleys with riparian forests that spring to life after the winter rains."
+        },
+        {
+          "startUid": "u0196",
+          "endUid": "u0200",
+          "quote": "DM: Few people or travelers come here. The only substantial settlement is the town—city, but really a town—of Argento on the, a small tributary of the Silverflood, nestled up again in the foothills of the mountains, still surviving primarily through some silver production in silver mines, but a shadow of its former self during the brief chalyte boom."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Alta Tonaro.md"
+    },
+    "p06": {
+      "label": "Argento",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0196",
+          "endUid": "u0200",
+          "quote": "DM: Few people or travelers come here. The only substantial settlement is the town—city, but really a town—of Argento on the, a small tributary of the Silverflood, nestled up again in the foothills of the mountains, still surviving primarily through some silver production in silver mines, but a shadow of its former self during the brief chalyte boom."
+        },
+        {
+          "startUid": "u0201",
+          "endUid": "u0206",
+          "quote": "DM: And, you know, you have maps with you. You've, you've done some research. You certainly can just fly straight to the battles. You know the, the site of this battle. The the Riftstone Gorge disaster is, you know, is, is mapped, so you could just fly straight there. You could stop at the city. You could hide the ship and approach on foot, or in some other form on shapeshift or on flight in some manner."
+        },
+        {
+          "startUid": "u0207",
+          "endUid": "u0208",
+          "quote": "DM: But it's, you know, the morning a few days later as you arrive, and you can see the sort of dusty town of Argento in the distance below you, and the the sort of path into the mountains ahead."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0192",
+              "endUid": "u0195",
+              "quote": "DM: And as you begin to ascend into the foothills of the Chataan Mountains, you fly into the sort of backwater province of Alta Tonaro, where dry, rolling hills dotted with cedar and juniper forests, canyons that flood in the rare summer thunderstorm and river valleys with riparian forests that spring to life after the winter rains."
+            },
+            {
+              "startUid": "u0196",
+              "endUid": "u0200",
+              "quote": "DM: Few people or travelers come here. The only substantial settlement is the town—city, but really a town—of Argento on the, a small tributary of the Silverflood, nestled up again in the foothills of the mountains, still surviving primarily through some silver production in silver mines, but a shadow of its former self during the brief chalyte boom."
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Argento.md"
+    },
+    "p07": {
+      "label": "Thundercrown",
+      "kind": "mountain",
+      "evidence": [
+        {
+          "startUid": "u0209",
+          "endUid": "u0209",
+          "quote": "Delwath: Can we see the—what's it called—thunder?"
+        },
+        {
+          "startUid": "u0210",
+          "endUid": "u0210",
+          "quote": "DM: Thundercrown."
+        },
+        {
+          "startUid": "u0211",
+          "endUid": "u0211",
+          "quote": "Delwath: Thundercrown? Is there some obvious mountain?"
+        },
+        {
+          "startUid": "u0212",
+          "endUid": "u0221",
+          "quote": "DM: Yeah. So Riftstone Gorge is, like, around the spur of Thundercrown, basically, but yeah, I mean, it's visible probably a hundred miles. I mean, it's 1 of the taller mountains in the sort of northern part of the of this mountain range. It would stand out. It would be, you know, looking up from the foothills of this mountain range, you could see the tallest peak, basically. And it's not—I mean, the mountains are, you know, steep. But there's a lot of you know, these sort of canyons, and like rivers that that flow down mostly mostly dry at this time of year, because it's you know it's July or some. You're several months into the dry season."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0212",
+              "endUid": "u0221",
+              "quote": "DM: Yeah. So Riftstone Gorge is, like, around the spur of Thundercrown, basically, but yeah, I mean, it's visible probably a hundred miles. I mean, it's 1 of the taller mountains in the sort of northern part of the of this mountain range. It would stand out. It would be, you know, looking up from the foothills of this mountain range, you could see the tallest peak, basically. And it's not—I mean, the mountains are, you know, steep. But there's a lot of you know, these sort of canyons, and like rivers that that flow down mostly mostly dry at this time of year, because it's you know it's July or some. You're several months into the dry season."
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Thundercrown.md"
+    },
+    "p08": {
+      "label": "Riftstone Gorge",
+      "kind": "gorge",
+      "evidence": [
+        {
+          "startUid": "u0201",
+          "endUid": "u0206",
+          "quote": "DM: And, you know, you have maps with you. You've, you've done some research. You certainly can just fly straight to the battles. You know the, the site of this battle. The the Riftstone Gorge disaster is, you know, is, is mapped, so you could just fly straight there. You could stop at the city. You could hide the ship and approach on foot, or in some other form on shapeshift or on flight in some manner."
+        },
+        {
+          "startUid": "u0207",
+          "endUid": "u0208",
+          "quote": "DM: But it's, you know, the morning a few days later as you arrive, and you can see the sort of dusty town of Argento in the distance below you, and the the sort of path into the mountains ahead."
+        },
+        {
+          "startUid": "u0209",
+          "endUid": "u0209",
+          "quote": "Delwath: Can we see the—what's it called—thunder?"
+        },
+        {
+          "startUid": "u0210",
+          "endUid": "u0210",
+          "quote": "DM: Thundercrown."
+        },
+        {
+          "startUid": "u0211",
+          "endUid": "u0211",
+          "quote": "Delwath: Thundercrown? Is there some obvious mountain?"
+        },
+        {
+          "startUid": "u0212",
+          "endUid": "u0221",
+          "quote": "DM: Yeah. So Riftstone Gorge is, like, around the spur of Thundercrown, basically, but yeah, I mean, it's visible probably a hundred miles. I mean, it's 1 of the taller mountains in the sort of northern part of the of this mountain range. It would stand out. It would be, you know, looking up from the foothills of this mountain range, you could see the tallest peak, basically. And it's not—I mean, the mountains are, you know, steep. But there's a lot of you know, these sort of canyons, and like rivers that that flow down mostly mostly dry at this time of year, because it's you know it's July or some. You're several months into the dry season."
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0854",
+          "quote": "DM: So right now you're fall—I mean, so right now the easiest thing to do is just follow this, this valley that curves around Thundercrown and becomes Riftstone Gorge. Like, you can see the bulk of Thundercrown ahead of you, and actually you can, like, every now and then you, like, hear faintly in the distance, like, a roll of thunder, although there's no storm clouds in the sky."
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0855",
+          "quote": "Delwath: And is there other peaks nearby? Like, I mean, is there other...?"
+        },
+        {
+          "startUid": "u0856",
+          "endUid": "u0859",
+          "quote": "DM: Yeah, yeah, yeah, yeah. There's, I mean, there's, you know, there's other peaks, although Thundercrown is the biggest. And you're and you're following sort of a like. If you go out of this valley you can. You can go up and over another peak and then come around the backside of Thundercrown. But that's that will take you a lot longer, because then you're like difficult terrain, like have to go ascend up over the rocks. You're exposed."
+        },
+        {
+          "startUid": "u0860",
+          "endUid": "u0862",
+          "quote": "DM: Just, you know, kind of following this dry—this wide, dry wash is by far the fastest way to approach. This is presumably how the Legion approached."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0212",
+              "endUid": "u0221",
+              "quote": "DM: Yeah. So Riftstone Gorge is, like, around the spur of Thundercrown, basically, but yeah, I mean, it's visible probably a hundred miles. I mean, it's 1 of the taller mountains in the sort of northern part of the of this mountain range. It would stand out. It would be, you know, looking up from the foothills of this mountain range, you could see the tallest peak, basically. And it's not—I mean, the mountains are, you know, steep. But there's a lot of you know, these sort of canyons, and like rivers that that flow down mostly mostly dry at this time of year, because it's you know it's July or some. You're several months into the dry season."
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Riftstone Gorge.md"
+    },
+    "p09": {
+      "label": "Valley scouting stop",
+      "kind": "outdoor stop",
+      "evidence": [
+        {
+          "startUid": "u0853",
+          "endUid": "u0854",
+          "quote": "DM: So right now you're fall—I mean, so right now the easiest thing to do is just follow this, this valley that curves around Thundercrown and becomes Riftstone Gorge. Like, you can see the bulk of Thundercrown ahead of you, and actually you can, like, every now and then you, like, hear faintly in the distance, like, a roll of thunder, although there's no storm clouds in the sky."
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0855",
+          "quote": "Delwath: And is there other peaks nearby? Like, I mean, is there other...?"
+        },
+        {
+          "startUid": "u0856",
+          "endUid": "u0859",
+          "quote": "DM: Yeah, yeah, yeah, yeah. There's, I mean, there's, you know, there's other peaks, although Thundercrown is the biggest. And you're and you're following sort of a like. If you go out of this valley you can. You can go up and over another peak and then come around the backside of Thundercrown. But that's that will take you a lot longer, because then you're like difficult terrain, like have to go ascend up over the rocks. You're exposed."
+        },
+        {
+          "startUid": "u0860",
+          "endUid": "u0862",
+          "quote": "DM: Just, you know, kind of following this dry—this wide, dry wash is by far the fastest way to approach. This is presumably how the Legion approached."
+        },
+        {
+          "startUid": "u0863",
+          "endUid": "u0864",
+          "quote": "Delwath: Right, and just don't really want to repeat the Legion's mistakes. But let's keep going, for now."
+        },
+        {
+          "startUid": "u0865",
+          "endUid": "u0866",
+          "quote": "DM: Okay, so again, how far do you wanna get? Like, where do you stop and do Clairvoyance and animal scouting?"
+        },
+        {
+          "startUid": "u0867",
+          "endUid": "u0867",
+          "quote": "Delwath: Let's do animal scouting 1st at like 10 or 12 miles."
+        },
+        {
+          "startUid": "u0868",
+          "endUid": "u0868",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u0869",
+          "endUid": "u0875",
+          "quote": "DM: So, so you walk, you walk for, say, you know, 2 and a half, 3 h, something like that. You cover 10 miles. You know, around noon, a little afternoon. It's, it's starting to get—it's getting hot, right? I mean, it's the middle of summer. Sun's beating down, although you're at some elevation, and there's some shade from the sort of sides of this river valley, so it's not too bad. You pull out... Are you pulling something from your hat, or just—no, I'll call out? Okay."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0853",
+              "endUid": "u0854",
+              "quote": "DM: So right now you're fall—I mean, so right now the easiest thing to do is just follow this, this valley that curves around Thundercrown and becomes Riftstone Gorge. Like, you can see the bulk of Thundercrown ahead of you, and actually you can, like, every now and then you, like, hear faintly in the distance, like, a roll of thunder, although there's no storm clouds in the sky."
+            }
+          ],
+          "note": "The approach valley curves around Thundercrown and becomes Riftstone Gorge; this stop is not thereby asserted to be inside the gorge."
+        }
+      ]
+    },
+    "p10": {
+      "label": "Closer Clairvoyance stop",
+      "kind": "outdoor stop",
+      "evidence": [
+        {
+          "startUid": "u0959",
+          "endUid": "u0959",
+          "quote": "Delwath: First..."
+        },
+        {
+          "startUid": "u0960",
+          "endUid": "u0960",
+          "quote": "DM: Get a get, you know, a couple miles closer. You could easily hit the tower with clairvoyance."
+        },
+        {
+          "startUid": "u0961",
+          "endUid": "u0961",
+          "quote": "Kenzo: Let's do that."
+        },
+        {
+          "startUid": "u0962",
+          "endUid": "u0962",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u0963",
+          "endUid": "u0963",
+          "quote": "DM: Seeker has—Seeker has to roll. Let me just double check deal there."
+        },
+        {
+          "startUid": "u0964",
+          "endUid": "u0965",
+          "quote": "Kenzo: Look ominous and all. Okay, okay, what about this? What about this we learn about? Oh, we also have the mirror, too, remember? Let's—I don't know if we can find something interesting for the mirror, but..."
+        },
+        {
+          "startUid": "u0966",
+          "endUid": "u0966",
+          "quote": "DM: You do have a charge in the mirror."
+        },
+        {
+          "startUid": "u0967",
+          "endUid": "u0968",
+          "quote": "Delwath: The death ray. Once we to kill..."
+        },
+        {
+          "startUid": "u0969",
+          "endUid": "u0969",
+          "quote": "Kenzo: We need to grab a piece of the death ray."
+        },
+        {
+          "startUid": "u0970",
+          "endUid": "u0970",
+          "quote": "DM: 3 charges."
+        },
+        {
+          "startUid": "u0971",
+          "endUid": "u0971",
+          "quote": "Kenzo: To then—because, okay, information. Somebody rolling?"
+        },
+        {
+          "startUid": "u0972",
+          "endUid": "u0972",
+          "quote": "DM: So I'm gonna roll a d. 20 for Seeker."
+        },
+        {
+          "startUid": "u0973",
+          "endUid": "u0973",
+          "quote": "Kenzo: Is high good, or low good?"
+        },
+        {
+          "startUid": "u0974",
+          "endUid": "u0975",
+          "quote": "DM: High is good. It's like, you need to..."
+        },
+        {
+          "startUid": "u0976",
+          "endUid": "u0976",
+          "quote": "Kenzo: 15."
+        },
+        {
+          "startUid": "u0977",
+          "endUid": "u0977",
+          "quote": "DM: Yeah, that's fine. Okay? So that's—Clairvoyance works."
+        },
+        {
+          "startUid": "u1216",
+          "endUid": "u1216",
+          "quote": "DM: Well, right now you're 8 miles away."
+        }
+      ],
+      "note": "About eight miles from the objective; the source names no landmark for this stop."
+    },
+    "p11": {
+      "label": "Giant village and pit mine",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0888",
+          "endUid": "u0898",
+          "quote": "DM: So the the vulture takes off and soars, following this valley. And as you do, as you, you know, what, after about 8 miles, so about 2 miles before the 2 miles before the beginning of the, you know, where you think this, this thing is, it curves around. The valley sort of curves around and begins to go up, ascend up a little bit the, the the shoulder of Thundercrown and you fly into an area that is somehow overcast, even though nothing else is, and you see a tower connected by chains of lightning to the Thundercrown on one side and the other—an adjacent peak on the other, floating in the air above what looks like a giant open pit mine, with a road that spirals down the outside, and giant sized cluster of houses around the outside of this pit mine."
+        },
+        {
+          "startUid": "u0899",
+          "endUid": "u0899",
+          "quote": "Wellby: This is so much worse than expected."
+        },
+        {
+          "startUid": "u0900",
+          "endUid": "u0903",
+          "quote": "DM: What look like dozens of ogres being driven by other ogres with chains, hauling stone giant sort of wagons filled with ore up the ramp around the outside of this open pit mine. You can hear the constant peal of rolling thunder coming from the lightning that's connecting the tower to the mountains."
+        },
+        {
+          "startUid": "u0904",
+          "endUid": "u0909",
+          "quote": "DM: And you see—I mean, you can see the occasional giant sort of strolling around the outside of the settlement. There’s 1 giant that seems to be on bored on patrol, just kind of walking around a sort of perimeter in the valley, but not really paying much attention to what’s going on. There are a couple more giants kind of sitting on the edge of the pit, I mean. They tower over the ogres. The ogres are maybe 8, 9 feet tall. The giants are 25 feet tall and different shades of stone. There's some that are marble. There's some that are like dark basalt. You see one strolling across sort of purposefully towards towards the road, down into the mine that seems to be have almost like a crown of purple gemstones, sort of embedded in its head. And then it's almost like there's purple, you know, veins, sort of a purple gems growing down its arms and grown into it sort of stone skin somehow."
+        },
+        {
+          "startUid": "u0910",
+          "endUid": "u0910",
+          "quote": "DM: 15."
+        },
+        {
+          "startUid": "u0911",
+          "endUid": "u0916",
+          "quote": "DM: At the center of this big open pit mine there's a—that there's a like a big dome over—like, there's, there's shafts leading down into mines, but there's also, like, a big sort of dome over the over something. Opaque dome. The, the pit itself is maybe 50 feet deep. But then there's shafts that lead different directions, and some leading down."
+        },
+        {
+          "startUid": "u0932",
+          "endUid": "u0935",
+          "quote": "DM: And there's, like, giants. There's a few giants that seem to be tending, you know, tending to the for the goats and the, and the geese. There’s, you know, this is a, this is, like, a functional small village, although it's not obvious what they eat."
+        },
+        {
+          "startUid": "u0936",
+          "endUid": "u0937",
+          "quote": "Kenzo: That when I was doing my awareness thing and the 18 giants, are the 18 giants in this area, or are they...? Got it."
+        },
+        {
+          "startUid": "u0938",
+          "endUid": "u0938",
+          "quote": "DM: I mean, it's a big valley."
+        },
+        {
+          "startUid": "u0939",
+          "endUid": "u0939",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u0940",
+          "endUid": "u0940",
+          "quote": "DM: Some giants might be in the massive lightning tower hanging in the middle of the valley."
+        },
+        {
+          "startUid": "u0941",
+          "endUid": "u0941",
+          "quote": "Kenzo: Yeah, but I've got decent, like spatial location with my thing like, where? Where are they? Scattered in this valley?"
+        },
+        {
+          "startUid": "u0942",
+          "endUid": "u0944",
+          "quote": "DM: Well, I mean, they're all in this village or in the tower. You don't, you don't have, like, a radar that pings you exactly where they are. But okay, okay, they're not... This is, this is a small contained settlement."
+        },
+        {
+          "startUid": "u0945",
+          "endUid": "u0945",
+          "quote": "Kenzo: This—how big is this? Is, like, a couple of miles, or how big is this, this area?"
+        },
+        {
+          "startUid": "u0946",
+          "endUid": "u0946",
+          "quote": "DM: Well, everything's giant size, so it's bigger than you might expect, like a small farmhouse, for a giant is, you know, 60 foot long."
+        },
+        {
+          "startUid": "u0947",
+          "endUid": "u0947",
+          "quote": "Kenzo: Right."
+        },
+        {
+          "startUid": "u0948",
+          "endUid": "u0948",
+          "quote": "DM: So I don't know. It's probably a mile. It's probably a mile across."
+        },
+        {
+          "startUid": "u0949",
+          "endUid": "u0951",
+          "quote": "DM: The pit is not very deep, but it's fairly big, right? Like a giant could practically just climb out of the pit. But the ogres are much smaller, and so they have to go off the ramp. The shafts are obviously much deeper. The whole village, including the mine, is probably no more than a mile across."
+        },
+        {
+          "startUid": "u1611",
+          "endUid": "u1611",
+          "quote": "DM: Ulgrathar. Is that what you're looking for?"
+        }
+      ],
+      "note": "Session 127 (DuFr) identifies this settlement as Ulgrathar; the transcript names it only while discussing its legend.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0797",
+              "endUid": "u0803",
+              "quote": "DM: Okay, so you fly another, you know, 3 h into the foothills and into the mountains, and find a safe place to park Vindristjarna out of sight, maybe, say, 20 miles from Riftstone Gorge, at which point you're well within range for Kenzo to extend out his consciousness. So you can sense the, you know the the mountains and hills are are not particularly occupied except for this one spot, presumably Riftstone Gorge, where there are 18 giants and many hundreds of smaller creatures."
+            },
+            {
+              "startUid": "u0888",
+              "endUid": "u0898",
+              "quote": "DM: So the the vulture takes off and soars, following this valley. And as you do, as you, you know, what, after about 8 miles, so about 2 miles before the 2 miles before the beginning of the, you know, where you think this, this thing is, it curves around. The valley sort of curves around and begins to go up, ascend up a little bit the, the the shoulder of Thundercrown and you fly into an area that is somehow overcast, even though nothing else is, and you see a tower connected by chains of lightning to the Thundercrown on one side and the other—an adjacent peak on the other, floating in the air above what looks like a giant open pit mine, with a road that spirals down the outside, and giant sized cluster of houses around the outside of this pit mine."
+            },
+            {
+              "startUid": "u0938",
+              "endUid": "u0938",
+              "quote": "DM: I mean, it's a big valley."
+            },
+            {
+              "startUid": "u0939",
+              "endUid": "u0939",
+              "quote": "Kenzo: Yeah."
+            },
+            {
+              "startUid": "u0940",
+              "endUid": "u0940",
+              "quote": "DM: Some giants might be in the massive lightning tower hanging in the middle of the valley."
+            },
+            {
+              "startUid": "u0941",
+              "endUid": "u0941",
+              "quote": "Kenzo: Yeah, but I've got decent, like spatial location with my thing like, where? Where are they? Scattered in this valley?"
+            },
+            {
+              "startUid": "u0942",
+              "endUid": "u0944",
+              "quote": "DM: Well, I mean, they're all in this village or in the tower. You don't, you don't have, like, a radar that pings you exactly where they are. But okay, okay, they're not... This is, this is a small contained settlement."
+            },
+            {
+              "startUid": "u0945",
+              "endUid": "u0945",
+              "quote": "Kenzo: This—how big is this? Is, like, a couple of miles, or how big is this, this area?"
+            },
+            {
+              "startUid": "u0946",
+              "endUid": "u0946",
+              "quote": "DM: Well, everything's giant size, so it's bigger than you might expect, like a small farmhouse, for a giant is, you know, 60 foot long."
+            },
+            {
+              "startUid": "u0947",
+              "endUid": "u0947",
+              "quote": "Kenzo: Right."
+            },
+            {
+              "startUid": "u0948",
+              "endUid": "u0948",
+              "quote": "DM: So I don't know. It's probably a mile. It's probably a mile across."
+            },
+            {
+              "startUid": "u0949",
+              "endUid": "u0951",
+              "quote": "DM: The pit is not very deep, but it's fairly big, right? Like a giant could practically just climb out of the pit. But the ogres are much smaller, and so they have to go off the ramp. The shafts are obviously much deeper. The whole village, including the mine, is probably no more than a mile across."
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Ulgrathar.md"
+    },
+    "p12": {
+      "label": "Floating lightning tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0888",
+          "endUid": "u0898",
+          "quote": "DM: So the the vulture takes off and soars, following this valley. And as you do, as you, you know, what, after about 8 miles, so about 2 miles before the 2 miles before the beginning of the, you know, where you think this, this thing is, it curves around. The valley sort of curves around and begins to go up, ascend up a little bit the, the the shoulder of Thundercrown and you fly into an area that is somehow overcast, even though nothing else is, and you see a tower connected by chains of lightning to the Thundercrown on one side and the other—an adjacent peak on the other, floating in the air above what looks like a giant open pit mine, with a road that spirals down the outside, and giant sized cluster of houses around the outside of this pit mine."
+        },
+        {
+          "startUid": "u1019",
+          "endUid": "u1022",
+          "quote": "DM: Yeah, so you can't, like, the lightning actually, like, as you, as the vulture kind of soars above the tower, not getting too close to lightning, you actually see, like, the lightning is almost... It's actually kind of shooting out of these landing platforms. And it looks like it actually descends down through the middle of the tower to, like, charge a death ray or something."
+        },
+        {
+          "startUid": "u1023",
+          "endUid": "u1023",
+          "quote": "Wellby: Oh, so should we Clairvoyance the top floor of the tower then?"
+        },
+        {
+          "startUid": "u1024",
+          "endUid": "u1024",
+          "quote": "Kenzo: I think so."
+        },
+        {
+          "startUid": "u1025",
+          "endUid": "u1028",
+          "quote": "DM: Okay, so you look at the top floor of the tower. There are... Okay, so you, you can see as the Clairvoyance eye appears, and, and Seeker looks out and starts describing what he sees."
+        },
+        {
+          "startUid": "u1029",
+          "endUid": "u1039",
+          "quote": "DM: So the lightning actually, like, once you get closer, actually, you can—or from this Clairvoyance thing you can actually see that the lightning is not directly coming through these... The open platforms is actually sort of running a bit along the roof, right above where the open platforms are. Then it coalesces at the top, and as you look in to this top floor you can see that there’s a giant column of purple lightning that descends, that goes up to the roof, and then descends down through the middle of the tower."
+        },
+        {
+          "startUid": "u1029",
+          "endUid": "u1039",
+          "quote": "DM: There are 2 giants standing, both sort of with a sort of pale, almost granite-like skin, that are kind of sitting on giant sized chairs, just kind of idly leaning. One’s got a, a giant stone—a giant stone club that he or she is kind of just fiddling with. The other has, like, a what must be a boulder, but in this hands of a giant looks kind of, you know, almost like a baseball or a basketball. It just kind of tossing a rock. They look, they look kind of bored, just sitting there, and there's stairs that go down."
+        },
+        {
+          "startUid": "u1040",
+          "endUid": "u1043",
+          "quote": "DM: Everything is, is huge, right? Like, the inside of this tower is probably one... It's probably a hundred feet by a hundred feet, and the—from floor to ceiling, it's probably 60 feet from floor to ceiling. The stairs are enormous, like each step is a, is like Wellby sized, so to—for Wellby to go down the stairs, it's, like, jump, grab, pull yourself up. It's about 3 feet from one step to the next step."
+        },
+        {
+          "startUid": "u1044",
+          "endUid": "u1045",
+          "quote": "DM: But other than the sort of 2 giants, the lightning pillar and the steps going down, there does not appear to be much else in the top floor."
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1046",
+          "quote": "Wellby: So there's not, like, controls? There's not, like, a big lever in the middle, like..."
+        },
+        {
+          "startUid": "u1047",
+          "endUid": "u1048",
+          "quote": "DM: Not on this floor. I mean, the lightning, pillar of lightning goes down towards the bottom of the tower."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u0888",
+              "endUid": "u0898",
+              "quote": "DM: So the the vulture takes off and soars, following this valley. And as you do, as you, you know, what, after about 8 miles, so about 2 miles before the 2 miles before the beginning of the, you know, where you think this, this thing is, it curves around. The valley sort of curves around and begins to go up, ascend up a little bit the, the the shoulder of Thundercrown and you fly into an area that is somehow overcast, even though nothing else is, and you see a tower connected by chains of lightning to the Thundercrown on one side and the other—an adjacent peak on the other, floating in the air above what looks like a giant open pit mine, with a road that spirals down the outside, and giant sized cluster of houses around the outside of this pit mine."
+            }
+          ]
+        }
+      ],
+      "note": "Suspended above the pit mine by lightning chains."
+    },
+    "p13": {
+      "label": "Tower top floor",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1025",
+          "endUid": "u1028",
+          "quote": "DM: Okay, so you look at the top floor of the tower. There are... Okay, so you, you can see as the Clairvoyance eye appears, and, and Seeker looks out and starts describing what he sees."
+        },
+        {
+          "startUid": "u1029",
+          "endUid": "u1039",
+          "quote": "DM: So the lightning actually, like, once you get closer, actually, you can—or from this Clairvoyance thing you can actually see that the lightning is not directly coming through these... The open platforms is actually sort of running a bit along the roof, right above where the open platforms are. Then it coalesces at the top, and as you look in to this top floor you can see that there’s a giant column of purple lightning that descends, that goes up to the roof, and then descends down through the middle of the tower."
+        },
+        {
+          "startUid": "u1029",
+          "endUid": "u1039",
+          "quote": "DM: There are 2 giants standing, both sort of with a sort of pale, almost granite-like skin, that are kind of sitting on giant sized chairs, just kind of idly leaning. One’s got a, a giant stone—a giant stone club that he or she is kind of just fiddling with. The other has, like, a what must be a boulder, but in this hands of a giant looks kind of, you know, almost like a baseball or a basketball. It just kind of tossing a rock. They look, they look kind of bored, just sitting there, and there's stairs that go down."
+        },
+        {
+          "startUid": "u1040",
+          "endUid": "u1043",
+          "quote": "DM: Everything is, is huge, right? Like, the inside of this tower is probably one... It's probably a hundred feet by a hundred feet, and the—from floor to ceiling, it's probably 60 feet from floor to ceiling. The stairs are enormous, like each step is a, is like Wellby sized, so to—for Wellby to go down the stairs, it's, like, jump, grab, pull yourself up. It's about 3 feet from one step to the next step."
+        },
+        {
+          "startUid": "u1044",
+          "endUid": "u1045",
+          "quote": "DM: But other than the sort of 2 giants, the lightning pillar and the steps going down, there does not appear to be much else in the top floor."
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1046",
+          "quote": "Wellby: So there's not, like, controls? There's not, like, a big lever in the middle, like..."
+        },
+        {
+          "startUid": "u1047",
+          "endUid": "u1048",
+          "quote": "DM: Not on this floor. I mean, the lightning, pillar of lightning goes down towards the bottom of the tower."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1025",
+              "endUid": "u1028",
+              "quote": "DM: Okay, so you look at the top floor of the tower. There are... Okay, so you, you can see as the Clairvoyance eye appears, and, and Seeker looks out and starts describing what he sees."
+            },
+            {
+              "startUid": "u1029",
+              "endUid": "u1039",
+              "quote": "DM: So the lightning actually, like, once you get closer, actually, you can—or from this Clairvoyance thing you can actually see that the lightning is not directly coming through these... The open platforms is actually sort of running a bit along the roof, right above where the open platforms are. Then it coalesces at the top, and as you look in to this top floor you can see that there’s a giant column of purple lightning that descends, that goes up to the roof, and then descends down through the middle of the tower."
+            },
+            {
+              "startUid": "u1029",
+              "endUid": "u1039",
+              "quote": "DM: There are 2 giants standing, both sort of with a sort of pale, almost granite-like skin, that are kind of sitting on giant sized chairs, just kind of idly leaning. One’s got a, a giant stone—a giant stone club that he or she is kind of just fiddling with. The other has, like, a what must be a boulder, but in this hands of a giant looks kind of, you know, almost like a baseball or a basketball. It just kind of tossing a rock. They look, they look kind of bored, just sitting there, and there's stairs that go down."
+            },
+            {
+              "startUid": "u1040",
+              "endUid": "u1043",
+              "quote": "DM: Everything is, is huge, right? Like, the inside of this tower is probably one... It's probably a hundred feet by a hundred feet, and the—from floor to ceiling, it's probably 60 feet from floor to ceiling. The stairs are enormous, like each step is a, is like Wellby sized, so to—for Wellby to go down the stairs, it's, like, jump, grab, pull yourself up. It's about 3 feet from one step to the next step."
+            },
+            {
+              "startUid": "u1044",
+              "endUid": "u1045",
+              "quote": "DM: But other than the sort of 2 giants, the lightning pillar and the steps going down, there does not appear to be much else in the top floor."
+            },
+            {
+              "startUid": "u1046",
+              "endUid": "u1046",
+              "quote": "Wellby: So there's not, like, controls? There's not, like, a big lever in the middle, like..."
+            },
+            {
+              "startUid": "u1047",
+              "endUid": "u1048",
+              "quote": "DM: Not on this floor. I mean, the lightning, pillar of lightning goes down towards the bottom of the tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Carved eye among the approach boulders",
+      "kind": "outdoor stop",
+      "evidence": [
+        {
+          "startUid": "u1284",
+          "endUid": "u1287",
+          "quote": "DM: As you begin to sort of creep forward, you get to about maybe a thousand yards or so from the from the back edge of this warehouse, maybe, maybe a bit more, maybe like half a mile."
+        },
+        {
+          "startUid": "u1288",
+          "endUid": "u1290",
+          "quote": "DM: And, Wellby, your, your bow sort of tugs you slightly, and you look, and you see sort of hidden nestled among one of these boulders, there is a small—a purple gem that's clearly been carved into the shape of an eye."
+        },
+        {
+          "startUid": "u1291",
+          "endUid": "u1291",
+          "quote": "Wellby: I will telepathically alert the rest of the party of that, and we’ll all freeze and tuck in for a minute."
+        },
+        {
+          "startUid": "u1292",
+          "endUid": "u1294",
+          "quote": "Kenzo: Fives. Detect Magic, Detect Evil? What's going on here? Get Detect Magic."
+        },
+        {
+          "startUid": "u1295",
+          "endUid": "u1297",
+          "quote": "DM: I mean, you can stand around for 10 min... Well, Delwath—oh, no, that’s right. You have your fast thing. It just takes a minute, right?"
+        },
+        {
+          "startUid": "u1298",
+          "endUid": "u1298",
+          "quote": "Kenzo: Do we have, like, Identify? Can we, can we identify the thing?"
+        },
+        {
+          "startUid": "u1299",
+          "endUid": "u1299",
+          "quote": "DM: You have to touch things to identify them."
+        },
+        {
+          "startUid": "u1300",
+          "endUid": "u1300",
+          "quote": "Kenzo: What if we touch them with our good intentions?"
+        },
+        {
+          "startUid": "u1301",
+          "endUid": "u1301",
+          "quote": "Delwath: Yeah, 1 min. It's 1 min. It doesn't work."
+        },
+        {
+          "startUid": "u1302",
+          "endUid": "u1302",
+          "quote": "DM: There is divination magic coming from this gemstone."
+        },
+        {
+          "startUid": "u1303",
+          "endUid": "u1303",
+          "quote": "Delwath: How far away is the gemstone?"
+        },
+        {
+          "startUid": "u1304",
+          "endUid": "u1304",
+          "quote": "DM: Well, presumably 30 feet, if you..."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1284",
+              "endUid": "u1287",
+              "quote": "DM: As you begin to sort of creep forward, you get to about maybe a thousand yards or so from the from the back edge of this warehouse, maybe, maybe a bit more, maybe like half a mile."
+            },
+            {
+              "startUid": "u1288",
+              "endUid": "u1290",
+              "quote": "DM: And, Wellby, your, your bow sort of tugs you slightly, and you look, and you see sort of hidden nestled among one of these boulders, there is a small—a purple gem that's clearly been carved into the shape of an eye."
+            }
+          ]
+        }
+      ],
+      "note": "Approach stop about half a mile from the warehouse; the village boundary is not established."
+    },
+    "p15": {
+      "label": "Rock behind the warehouse",
+      "kind": "hiding place",
+      "evidence": [
+        {
+          "startUid": "u1345",
+          "endUid": "u1350",
+          "quote": "DM: Okay, yeah, okay. You're all, you're all good. Wellby manages to grab Delwath before he accidentally steps on a dry branch, and guide you safely up again, crouched down against the back wall of the warehouse. You think fairly well out of sight from anybody, but you can do—you need line of—you need to see the target for a Suggestion?"
+        },
+        {
+          "startUid": "u1400",
+          "endUid": "u1403",
+          "quote": "DM: The ogre stops, and he looks at the boulder that you're hid—hiding behind, right? There's, like, a, a rock that you're all sort of crouched behind that's near the back of the warehouse, and he looks, and he, he says in Giant, “Did you just”—pointing at the boulder—“did you just talk to me?”"
+        },
+        {
+          "startUid": "u1499",
+          "endUid": "u1499",
+          "quote": "DM: Well, you're hidden behind—you're hidden in between a wall and a rock. You can't see any..."
+        },
+        {
+          "startUid": "u1500",
+          "endUid": "u1500",
+          "quote": "Kenzo: I know, but, like, were we able to, like, see out, like, into...?"
+        },
+        {
+          "startUid": "u1501",
+          "endUid": "u1502",
+          "quote": "DM: You'd be looking sort of towards the rim of the giant pit with the lightning structure above it, and then the sort of giant village extends in a circle around the pit, and you're on the edge of the village."
+        },
+        {
+          "startUid": "u1503",
+          "endUid": "u1503",
+          "quote": "Kenzo: Can we see any, any giants right now?"
+        },
+        {
+          "startUid": "u1504",
+          "endUid": "u1506",
+          "quote": "DM: Yeah, they're—well, I mean again, not from where you are. But there's presumably some around like the vulture saw. Yeah, maybe a half dozen kind of walking around."
+        },
+        {
+          "startUid": "u1507",
+          "endUid": "u1508",
+          "quote": "Kenzo: Okay, okay. So from where we are right now, are there any giants visible?"
+        },
+        {
+          "startUid": "u1509",
+          "endUid": "u1510",
+          "quote": "DM: Well, again, you're—there's no giants visible to you. You're like carefully hidden in between a wall and a rock."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1501",
+              "endUid": "u1502",
+              "quote": "DM: You'd be looking sort of towards the rim of the giant pit with the lightning structure above it, and then the sort of giant village extends in a circle around the pit, and you're on the edge of the village."
+            },
+            {
+              "startUid": "u1503",
+              "endUid": "u1503",
+              "quote": "Kenzo: Can we see any, any giants right now?"
+            },
+            {
+              "startUid": "u1504",
+              "endUid": "u1506",
+              "quote": "DM: Yeah, they're—well, I mean again, not from where you are. But there's presumably some around like the vulture saw. Yeah, maybe a half dozen kind of walking around."
+            },
+            {
+              "startUid": "u1507",
+              "endUid": "u1508",
+              "quote": "Kenzo: Okay, okay. So from where we are right now, are there any giants visible?"
+            },
+            {
+              "startUid": "u1509",
+              "endUid": "u1510",
+              "quote": "DM: Well, again, you're—there's no giants visible to you. You're like carefully hidden in between a wall and a rock."
+            }
+          ],
+          "note": "At the village edge between a rock and the warehouse wall, outside the building."
+        }
+      ]
+    },
+    "p16": {
+      "label": "Skyship berth outside Chardon",
+      "kind": "mooring",
+      "evidence": [
+        {
+          "startUid": "u0085",
+          "endUid": "u0087",
+          "quote": "DM: Wait. Okay, so we pick up as you sail to Vindristjarna on one of the navy [garbled]. And now we'll talk to Eric."
+        },
+        {
+          "startUid": "u0088",
+          "endUid": "u0088",
+          "quote": "Delwath: Hey, Eric."
+        },
+        {
+          "startUid": "u0089",
+          "endUid": "u0089",
+          "quote": "DM: Hi."
+        },
+        {
+          "startUid": "u0090",
+          "endUid": "u0090",
+          "quote": "Wellby: Hey!"
+        },
+        {
+          "startUid": "u0091",
+          "endUid": "u0091",
+          "quote": "Seeker: Hey! Everybody."
+        },
+        {
+          "startUid": "u0092",
+          "endUid": "u0092",
+          "quote": "Kenzo: Well."
+        },
+        {
+          "startUid": "u0093",
+          "endUid": "u0095",
+          "quote": "DM: We were just starting to leave Chardon and head for the mountains, with 2 travelers sent by the Magistros to join you. Ones."
+        },
+        {
+          "startUid": "u0096",
+          "endUid": "u0096",
+          "quote": "Seeker: Is, Seek—is, are we playing the Seeker's in the party, but controlled by some external entity, or...?"
+        },
+        {
+          "startUid": "u0097",
+          "endUid": "u0099",
+          "quote": "DM: So Seeker's on the ship. Seeker's been on the ship. Seeker's been sending Seeker 3, the simulacrum, around doing errands in Chardon, and nobody's gotten back to the ship yet, so nobody's entirely sure if it's actually intact, or if Seeker and Faldrak managed to sink it with their ice shell submarine experiments."
+        },
+        {
+          "startUid": "u0117",
+          "endUid": "u0120",
+          "quote": "DM: So you're sailing out to Vindristjarna in the afternoon, traveling fast with a Windcaller creating wind for the ship with 2, 2, 2 of the Magistros's friends and allies who are coming along for the journey."
+        },
+        {
+          "startUid": "u0121",
+          "endUid": "u0130",
+          "quote": "DM: One is a middle-aged woman, maybe in her early fifties. Very sort of like old Chardonian vibes, like... But, you know, clearly an ex-soldier, ex-warrior of some kind, and she still wears, you know, of, of insignia of rank, and, and a Legion cloak. She introduces herself as Octavia Antussus, a close friend and advisor of the Magistros. And she is, has an effective rank of, you know, she's, she's essentially a commander in the Legion, and, and if you need to recruit an army for some reason, or, you know, need some official backup to get aid from the local legions or whatever, she's willing to provide."
+        },
+        {
+          "startUid": "u0131",
+          "endUid": "u0135",
+          "quote": "DM: The other traveler is about as opposite as you could be from Octavia: Tristan Brighteyes, a Windcaller, young, maybe a couple years younger than, than Kenzo and the Magistros. So maybe, what, 23, 24? He's bouncy and energetic, and and as you seems excited as you set out, and he's looking out on the horizon, just, like, looking back at you all just super impressed, like, excited. “Bloody hell, as you guys are gonna take on a chalyte death ray that decimated an entire legion. Amazing! Can’t wait to see this.”"
+        },
+        {
+          "startUid": "u0136",
+          "endUid": "u0138",
+          "quote": "DM: And every time he turns you look, you were struck by the just, like, his eyes are this unnatural pale blue, with no, with, like, no iris or pupil. They’re just flat, pale blue, but it looks like there's sort of stars or clouds kind of swirling in them."
+        },
+        {
+          "startUid": "u0139",
+          "endUid": "u0140",
+          "quote": "DM: And so you find yourself at Vindristjarna. A lot of ice floating in the water beneath it. For some reason."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0085",
+              "endUid": "u0087",
+              "quote": "DM: Wait. Okay, so we pick up as you sail to Vindristjarna on one of the navy [garbled]. And now we'll talk to Eric."
+            },
+            {
+              "startUid": "u0088",
+              "endUid": "u0088",
+              "quote": "Delwath: Hey, Eric."
+            },
+            {
+              "startUid": "u0089",
+              "endUid": "u0089",
+              "quote": "DM: Hi."
+            },
+            {
+              "startUid": "u0090",
+              "endUid": "u0090",
+              "quote": "Wellby: Hey!"
+            },
+            {
+              "startUid": "u0091",
+              "endUid": "u0091",
+              "quote": "Seeker: Hey! Everybody."
+            },
+            {
+              "startUid": "u0092",
+              "endUid": "u0092",
+              "quote": "Kenzo: Well."
+            },
+            {
+              "startUid": "u0093",
+              "endUid": "u0095",
+              "quote": "DM: We were just starting to leave Chardon and head for the mountains, with 2 travelers sent by the Magistros to join you. Ones."
+            },
+            {
+              "startUid": "u0096",
+              "endUid": "u0096",
+              "quote": "Seeker: Is, Seek—is, are we playing the Seeker's in the party, but controlled by some external entity, or...?"
+            },
+            {
+              "startUid": "u0097",
+              "endUid": "u0099",
+              "quote": "DM: So Seeker's on the ship. Seeker's been on the ship. Seeker's been sending Seeker 3, the simulacrum, around doing errands in Chardon, and nobody's gotten back to the ship yet, so nobody's entirely sure if it's actually intact, or if Seeker and Faldrak managed to sink it with their ice shell submarine experiments."
+            },
+            {
+              "startUid": "u0117",
+              "endUid": "u0120",
+              "quote": "DM: So you're sailing out to Vindristjarna in the afternoon, traveling fast with a Windcaller creating wind for the ship with 2, 2, 2 of the Magistros's friends and allies who are coming along for the journey."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Skyship halt outside Argento",
+      "kind": "outdoor stop",
+      "evidence": [
+        {
+          "startUid": "u0207",
+          "endUid": "u0208",
+          "quote": "DM: But it's, you know, the morning a few days later as you arrive, and you can see the sort of dusty town of Argento in the distance below you, and the the sort of path into the mountains ahead."
+        },
+        {
+          "startUid": "u0744",
+          "endUid": "u0747",
+          "quote": "DM: Right now you're, like, well, currently I think the skyship has stopped sort of 10, 15 miles from the town of Argento, which is still, like, 70, 80 miles, say 70, 75 miles from from Thundercrown and the Riftstone Gorge."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0744",
+              "endUid": "u0747",
+              "quote": "DM: Right now you're, like, well, currently I think the skyship has stopped sort of 10, 15 miles from the town of Argento, which is still, like, 70, 80 miles, say 70, 75 miles from from Thundercrown and the Riftstone Gorge."
+            }
+          ],
+          "note": "Ten to fifteen miles from the town; not a visit to Argento."
+        }
+      ]
+    },
+    "p18": {
+      "label": "Concealed skyship parking",
+      "kind": "outdoor stop",
+      "evidence": [
+        {
+          "startUid": "u0797",
+          "endUid": "u0803",
+          "quote": "DM: Okay, so you fly another, you know, 3 h into the foothills and into the mountains, and find a safe place to park Vindristjarna out of sight, maybe, say, 20 miles from Riftstone Gorge, at which point you're well within range for Kenzo to extend out his consciousness. So you can sense the, you know the the mountains and hills are are not particularly occupied except for this one spot, presumably Riftstone Gorge, where there are 18 giants and many hundreds of smaller creatures."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0797",
+              "endUid": "u0803",
+              "quote": "DM: Okay, so you fly another, you know, 3 h into the foothills and into the mountains, and find a safe place to park Vindristjarna out of sight, maybe, say, 20 miles from Riftstone Gorge, at which point you're well within range for Kenzo to extend out his consciousness. So you can sense the, you know the the mountains and hills are are not particularly occupied except for this one spot, presumably Riftstone Gorge, where there are 18 giants and many hundreds of smaller creatures."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0797",
+              "endUid": "u0803",
+              "quote": "DM: Okay, so you fly another, you know, 3 h into the foothills and into the mountains, and find a safe place to park Vindristjarna out of sight, maybe, say, 20 miles from Riftstone Gorge, at which point you're well within range for Kenzo to extend out his consciousness. So you can sense the, you know the the mountains and hills are are not particularly occupied except for this one spot, presumably Riftstone Gorge, where there are 18 giants and many hundreds of smaller creatures."
+            }
+          ],
+          "note": "Roughly twenty miles from the gorge."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0063",
+        "endUid": "u0066"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The city party prepares in Chardon while Seeker remains aboard Vindristjarna.",
+      "place": "p01",
+      "evidence": [
+        {
+          "startUid": "u0063",
+          "endUid": "u0066",
+          "quote": "DM: So you spend a few days gathering this research, talking to people, getting prepared to leave, putting out some feelers to purchase some magic items useful for the eventual travel to the Plane of Fire that Seeker has been asking for."
+        },
+        {
+          "startUid": "u0097",
+          "endUid": "u0099",
+          "quote": "DM: So Seeker's on the ship. Seeker's been on the ship. Seeker's been sending Seeker 3, the simulacrum, around doing errands in Chardon, and nobody's gotten back to the ship yet, so nobody's entirely sure if it's actually intact, or if Seeker and Faldrak managed to sink it with their ice shell submarine experiments."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0070",
+        "endUid": "u0077"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby",
+        "Octavia Antussus",
+        "Tristan Brighteyes"
+      ],
+      "reading": "Sail from Chardon with Tiberius to the waiting skyship and reach it.",
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p02",
+      "evidence": [
+        {
+          "startUid": "u0070",
+          "endUid": "u0077",
+          "quote": "DM: And it is, you know, on the evening tide, a couple days later, that you set sail with Tiberius the Windcaller, and and you and 2 people who Mitus has sent to travel with you, although neither is intending to, you know, go fight giants or anything. They are there to as support, and, you know, as help with any sort of imperial bureaucracy that might arise, and also, just, you know, to report back to Mitus."
+        },
+        {
+          "startUid": "u0117",
+          "endUid": "u0120",
+          "quote": "DM: So you're sailing out to Vindristjarna in the afternoon, traveling fast with a Windcaller creating wind for the ship with 2, 2, 2 of the Magistros's friends and allies who are coming along for the journey."
+        },
+        {
+          "startUid": "u0121",
+          "endUid": "u0130",
+          "quote": "DM: One is a middle-aged woman, maybe in her early fifties. Very sort of like old Chardonian vibes, like... But, you know, clearly an ex-soldier, ex-warrior of some kind, and she still wears, you know, of, of insignia of rank, and, and a Legion cloak. She introduces herself as Octavia Antussus, a close friend and advisor of the Magistros. And she is, has an effective rank of, you know, she's, she's essentially a commander in the Legion, and, and if you need to recruit an army for some reason, or, you know, need some official backup to get aid from the local legions or whatever, she's willing to provide."
+        },
+        {
+          "startUid": "u0131",
+          "endUid": "u0135",
+          "quote": "DM: The other traveler is about as opposite as you could be from Octavia: Tristan Brighteyes, a Windcaller, young, maybe a couple years younger than, than Kenzo and the Magistros. So maybe, what, 23, 24? He's bouncy and energetic, and and as you seems excited as you set out, and he's looking out on the horizon, just, like, looking back at you all just super impressed, like, excited. “Bloody hell, as you guys are gonna take on a chalyte death ray that decimated an entire legion. Amazing! Can’t wait to see this.”"
+        },
+        {
+          "startUid": "u0136",
+          "endUid": "u0138",
+          "quote": "DM: And every time he turns you look, you were struck by the just, like, his eyes are this unnatural pale blue, with no, with, like, no iris or pupil. They’re just flat, pale blue, but it looks like there's sort of stars or clouds kind of swirling in them."
+        },
+        {
+          "startUid": "u0139",
+          "endUid": "u0140",
+          "quote": "DM: And so you find yourself at Vindristjarna. A lot of ice floating in the water beneath it. For some reason."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0097",
+        "endUid": "u0099"
+      },
+      "actors": [
+        "Seeker",
+        "Faldrak"
+      ],
+      "reading": "Seeker and Faldrak are already on Vindristjarna; Seeker has sent a simulacrum on the city errands.",
+      "place": "p03",
+      "evidence": [
+        {
+          "startUid": "u0097",
+          "endUid": "u0099",
+          "quote": "DM: So Seeker's on the ship. Seeker's been on the ship. Seeker's been sending Seeker 3, the simulacrum, around doing errands in Chardon, and nobody's gotten back to the ship yet, so nobody's entirely sure if it's actually intact, or if Seeker and Faldrak managed to sink it with their ice shell submarine experiments."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u0117",
+        "endUid": "u0120"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby",
+        "Tiberius",
+        "Octavia Antussus",
+        "Tristan Brighteyes"
+      ],
+      "reading": "The city party and the two imperial companions are aboard the navy boat during the sailing introductions.",
+      "place": "p02",
+      "evidence": [
+        {
+          "startUid": "u0117",
+          "endUid": "u0120",
+          "quote": "DM: So you're sailing out to Vindristjarna in the afternoon, traveling fast with a Windcaller creating wind for the ship with 2, 2, 2 of the Magistros's friends and allies who are coming along for the journey."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0188",
+        "endUid": "u0189"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Fly across the coast and Yeraad River Valley into Alta Tonaro, stopping above the countryside short of Argento.",
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p03",
+      "route": [
+        {
+          "reading": "Cross the ocean and agricultural land south of Chardon."
+        },
+        {
+          "reading": "Fly over the Yeraad River Valley and its lizardfolk aquaculture."
+        },
+        {
+          "reading": "Enter the foothills of the Chataan Mountains and Alta Tonaro.",
+          "place": "p05"
+        },
+        {
+          "reading": "Stop ten to fifteen miles from Argento, with the town visible below.",
+          "place": "p06"
+        }
+      ],
+      "duration": {
+        "value": 2.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Opening allocation and completed couple/few-day flight montage."
+      },
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "in_locality_of",
+          "target": "p06"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0188",
+          "endUid": "u0189",
+          "quote": "DM: So over the next couple of days you fly across the the ocean and the rolling fields of the agricultural lands just south of Chardon."
+        },
+        {
+          "startUid": "u0190",
+          "endUid": "u0191",
+          "quote": "DM: You fly across the Yeraad River Valley, where you see the dense aquaculture swamps of the Lizard, one of the largest lizard settlements in this part of the world."
+        },
+        {
+          "startUid": "u0192",
+          "endUid": "u0195",
+          "quote": "DM: And as you begin to ascend into the foothills of the Chataan Mountains, you fly into the sort of backwater province of Alta Tonaro, where dry, rolling hills dotted with cedar and juniper forests, canyons that flood in the rare summer thunderstorm and river valleys with riparian forests that spring to life after the winter rains."
+        },
+        {
+          "startUid": "u0196",
+          "endUid": "u0200",
+          "quote": "DM: Few people or travelers come here. The only substantial settlement is the town—city, but really a town—of Argento on the, a small tributary of the Silverflood, nestled up again in the foothills of the mountains, still surviving primarily through some silver production in silver mines, but a shadow of its former self during the brief chalyte boom."
+        },
+        {
+          "startUid": "u0201",
+          "endUid": "u0206",
+          "quote": "DM: And, you know, you have maps with you. You've, you've done some research. You certainly can just fly straight to the battles. You know the, the site of this battle. The the Riftstone Gorge disaster is, you know, is, is mapped, so you could just fly straight there. You could stop at the city. You could hide the ship and approach on foot, or in some other form on shapeshift or on flight in some manner."
+        },
+        {
+          "startUid": "u0207",
+          "endUid": "u0208",
+          "quote": "DM: But it's, you know, the morning a few days later as you arrive, and you can see the sort of dusty town of Argento in the distance below you, and the the sort of path into the mountains ahead."
+        },
+        {
+          "startUid": "u0744",
+          "endUid": "u0747",
+          "quote": "DM: Right now you're, like, well, currently I think the skyship has stopped sort of 10, 15 miles from the town of Argento, which is still, like, 70, 80 miles, say 70, 75 miles from from Thundercrown and the Riftstone Gorge."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0207",
+        "endUid": "u0208"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See Argento below and Thundercrown ahead from the skyship without entering the town.",
+      "place": "p06",
+      "observerPlace": "p03",
+      "mode": "local",
+      "evidence": [
+        {
+          "startUid": "u0207",
+          "endUid": "u0208",
+          "quote": "DM: But it's, you know, the morning a few days later as you arrive, and you can see the sort of dusty town of Argento in the distance below you, and the the sort of path into the mountains ahead."
+        },
+        {
+          "startUid": "u0209",
+          "endUid": "u0209",
+          "quote": "Delwath: Can we see the—what's it called—thunder?"
+        },
+        {
+          "startUid": "u0210",
+          "endUid": "u0210",
+          "quote": "DM: Thundercrown."
+        },
+        {
+          "startUid": "u0211",
+          "endUid": "u0211",
+          "quote": "Delwath: Thundercrown? Is there some obvious mountain?"
+        },
+        {
+          "startUid": "u0212",
+          "endUid": "u0221",
+          "quote": "DM: Yeah. So Riftstone Gorge is, like, around the spur of Thundercrown, basically, but yeah, I mean, it's visible probably a hundred miles. I mean, it's 1 of the taller mountains in the sort of northern part of the of this mountain range. It would stand out. It would be, you know, looking up from the foothills of this mountain range, you could see the tallest peak, basically. And it's not—I mean, the mountains are, you know, steep. But there's a lot of you know, these sort of canyons, and like rivers that that flow down mostly mostly dry at this time of year, because it's you know it's July or some. You're several months into the dry season."
+        },
+        {
+          "startUid": "u0744",
+          "endUid": "u0747",
+          "quote": "DM: Right now you're, like, well, currently I think the skyship has stopped sort of 10, 15 miles from the town of Argento, which is still, like, 70, 80 miles, say 70, 75 miles from from Thundercrown and the Riftstone Gorge."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0797",
+        "endUid": "u0803"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Fly another three hours and park Vindristjarna out of sight, roughly twenty miles from Riftstone Gorge.",
+      "from": "p17",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p03",
+      "duration": {
+        "value": 3,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated additional flight."
+      },
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "within",
+          "target": "p04"
+        },
+        {
+          "subject": "p03",
+          "relation": "near",
+          "target": "p08",
+          "note": "About twenty miles away, not at or inside the gorge."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0797",
+          "endUid": "u0803",
+          "quote": "DM: Okay, so you fly another, you know, 3 h into the foothills and into the mountains, and find a safe place to park Vindristjarna out of sight, maybe, say, 20 miles from Riftstone Gorge, at which point you're well within range for Kenzo to extend out his consciousness. So you can sense the, you know the the mountains and hills are are not particularly occupied except for this one spot, presumably Riftstone Gorge, where there are 18 giants and many hundreds of smaller creatures."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0843",
+        "endUid": "u0849"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Leave the ship and walk about ten miles along the dry valley toward Thundercrown, stopping for bird scouting.",
+      "from": "p18",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 10,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM states completed distance."
+      },
+      "duration": {
+        "min": 2.5,
+        "minInclusive": true,
+        "max": 3,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM states the duration of this walk."
+      },
+      "route": [
+        {
+          "reading": "Follow the dry valley curving around Thundercrown toward Riftstone Gorge."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0843",
+          "endUid": "u0845",
+          "quote": "Wellby: Smash cut to us walking. Wellby says to Kenzo, “Kenzo, this is how we used to get everywhere.” It's true."
+        },
+        {
+          "startUid": "u0846",
+          "endUid": "u0847",
+          "quote": "Kenzo: Everywhere we wanted to go. Just slightly levitates above the ground, just to, like, avoid, you know... It's, like, slightly..."
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0848",
+          "quote": "Wellby: Sleep."
+        },
+        {
+          "startUid": "u0849",
+          "endUid": "u0849",
+          "quote": "Kenzo: Above, above, you know..."
+        },
+        {
+          "startUid": "u0850",
+          "endUid": "u0850",
+          "quote": "DM: It takes you till mid afternoon to get within... I don't know, how close do you want to get?"
+        },
+        {
+          "startUid": "u0851",
+          "endUid": "u0851",
+          "quote": "Wellby: I."
+        },
+        {
+          "startUid": "u0852",
+          "endUid": "u0852",
+          "quote": "Delwath: They're like, what's the actual lay of the land like?"
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0854",
+          "quote": "DM: So right now you're fall—I mean, so right now the easiest thing to do is just follow this, this valley that curves around Thundercrown and becomes Riftstone Gorge. Like, you can see the bulk of Thundercrown ahead of you, and actually you can, like, every now and then you, like, hear faintly in the distance, like, a roll of thunder, although there's no storm clouds in the sky."
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0855",
+          "quote": "Delwath: And is there other peaks nearby? Like, I mean, is there other...?"
+        },
+        {
+          "startUid": "u0856",
+          "endUid": "u0859",
+          "quote": "DM: Yeah, yeah, yeah, yeah. There's, I mean, there's, you know, there's other peaks, although Thundercrown is the biggest. And you're and you're following sort of a like. If you go out of this valley you can. You can go up and over another peak and then come around the backside of Thundercrown. But that's that will take you a lot longer, because then you're like difficult terrain, like have to go ascend up over the rocks. You're exposed."
+        },
+        {
+          "startUid": "u0860",
+          "endUid": "u0862",
+          "quote": "DM: Just, you know, kind of following this dry—this wide, dry wash is by far the fastest way to approach. This is presumably how the Legion approached."
+        },
+        {
+          "startUid": "u0863",
+          "endUid": "u0864",
+          "quote": "Delwath: Right, and just don't really want to repeat the Legion's mistakes. But let's keep going, for now."
+        },
+        {
+          "startUid": "u0865",
+          "endUid": "u0866",
+          "quote": "DM: Okay, so again, how far do you wanna get? Like, where do you stop and do Clairvoyance and animal scouting?"
+        },
+        {
+          "startUid": "u0867",
+          "endUid": "u0867",
+          "quote": "Delwath: Let's do animal scouting 1st at like 10 or 12 miles."
+        },
+        {
+          "startUid": "u0868",
+          "endUid": "u0868",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u0869",
+          "endUid": "u0875",
+          "quote": "DM: So, so you walk, you walk for, say, you know, 2 and a half, 3 h, something like that. You cover 10 miles. You know, around noon, a little afternoon. It's, it's starting to get—it's getting hot, right? I mean, it's the middle of summer. Sun's beating down, although you're at some elevation, and there's some shade from the sort of sides of this river valley, so it's not too bad. You pull out... Are you pulling something from your hat, or just—no, I'll call out? Okay."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0888",
+        "endUid": "u0898"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "View the lightning-suspended tower, giant village, pit mine and laboring ogres through a scouting vulture.",
+      "place": "p11",
+      "observerPlace": "p09",
+      "mode": "remote",
+      "note": "The view also establishes the tower above the pit; Wellby remains at the scouting stop.",
+      "evidence": [
+        {
+          "startUid": "u0882",
+          "endUid": "u0886",
+          "quote": "DM: You send—so you find that, I mean, there's plenty of—there's, there's vultures, there's the occasional hawk flying by. Vultures can travel far and are pretty unassuming on the wing, so lure down a vulture with a little bit of food. No, no reason to roll, because you can't fail checks and Beast Telepathy with it, and you're, you're just going to do your beast riding thing so you can see from its eyes."
+        },
+        {
+          "startUid": "u0887",
+          "endUid": "u0887",
+          "quote": "Wellby: Yeah, I think that makes sense."
+        },
+        {
+          "startUid": "u0888",
+          "endUid": "u0898",
+          "quote": "DM: So the the vulture takes off and soars, following this valley. And as you do, as you, you know, what, after about 8 miles, so about 2 miles before the 2 miles before the beginning of the, you know, where you think this, this thing is, it curves around. The valley sort of curves around and begins to go up, ascend up a little bit the, the the shoulder of Thundercrown and you fly into an area that is somehow overcast, even though nothing else is, and you see a tower connected by chains of lightning to the Thundercrown on one side and the other—an adjacent peak on the other, floating in the air above what looks like a giant open pit mine, with a road that spirals down the outside, and giant sized cluster of houses around the outside of this pit mine."
+        },
+        {
+          "startUid": "u0899",
+          "endUid": "u0899",
+          "quote": "Wellby: This is so much worse than expected."
+        },
+        {
+          "startUid": "u0900",
+          "endUid": "u0903",
+          "quote": "DM: What look like dozens of ogres being driven by other ogres with chains, hauling stone giant sort of wagons filled with ore up the ramp around the outside of this open pit mine. You can hear the constant peal of rolling thunder coming from the lightning that's connecting the tower to the mountains."
+        },
+        {
+          "startUid": "u0904",
+          "endUid": "u0909",
+          "quote": "DM: And you see—I mean, you can see the occasional giant sort of strolling around the outside of the settlement. There’s 1 giant that seems to be on bored on patrol, just kind of walking around a sort of perimeter in the valley, but not really paying much attention to what’s going on. There are a couple more giants kind of sitting on the edge of the pit, I mean. They tower over the ogres. The ogres are maybe 8, 9 feet tall. The giants are 25 feet tall and different shades of stone. There's some that are marble. There's some that are like dark basalt. You see one strolling across sort of purposefully towards towards the road, down into the mine that seems to be have almost like a crown of purple gemstones, sort of embedded in its head. And then it's almost like there's purple, you know, veins, sort of a purple gems growing down its arms and grown into it sort of stone skin somehow."
+        },
+        {
+          "startUid": "u0910",
+          "endUid": "u0910",
+          "quote": "DM: 15."
+        },
+        {
+          "startUid": "u0911",
+          "endUid": "u0916",
+          "quote": "DM: At the center of this big open pit mine there's a—that there's a like a big dome over—like, there's, there's shafts leading down into mines, but there's also, like, a big sort of dome over the over something. Opaque dome. The, the pit itself is maybe 50 feet deep. But then there's shafts that lead different directions, and some leading down."
+        },
+        {
+          "startUid": "u0926",
+          "endUid": "u0930",
+          "quote": "DM: The only thing—the only person you see who, well, giant you see who’s acting at all like a guard is a sort of boss basalt giant with, like, dark basalt skin, who is kind of meandering around the outside. There's a, there's, like, a living area. There's a, like, a series of sort of small houses with a pen in the back that has giant goats and giant geese, like geese that are 8, 9 foot tall, and goats that are, you know, 12 foot long."
+        },
+        {
+          "startUid": "u0931",
+          "endUid": "u0931",
+          "quote": "Wellby: New objective. Liberate the pets."
+        },
+        {
+          "startUid": "u0932",
+          "endUid": "u0935",
+          "quote": "DM: And there's, like, giants. There's a few giants that seem to be tending, you know, tending to the for the goats and the, and the geese. There’s, you know, this is a, this is, like, a functional small village, although it's not obvious what they eat."
+        },
+        {
+          "startUid": "u0936",
+          "endUid": "u0937",
+          "quote": "Kenzo: That when I was doing my awareness thing and the 18 giants, are the 18 giants in this area, or are they...? Got it."
+        },
+        {
+          "startUid": "u0938",
+          "endUid": "u0938",
+          "quote": "DM: I mean, it's a big valley."
+        },
+        {
+          "startUid": "u0939",
+          "endUid": "u0939",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u0940",
+          "endUid": "u0940",
+          "quote": "DM: Some giants might be in the massive lightning tower hanging in the middle of the valley."
+        },
+        {
+          "startUid": "u0941",
+          "endUid": "u0941",
+          "quote": "Kenzo: Yeah, but I've got decent, like spatial location with my thing like, where? Where are they? Scattered in this valley?"
+        },
+        {
+          "startUid": "u0942",
+          "endUid": "u0944",
+          "quote": "DM: Well, I mean, they're all in this village or in the tower. You don't, you don't have, like, a radar that pings you exactly where they are. But okay, okay, they're not... This is, this is a small contained settlement."
+        },
+        {
+          "startUid": "u0945",
+          "endUid": "u0945",
+          "quote": "Kenzo: This—how big is this? Is, like, a couple of miles, or how big is this, this area?"
+        },
+        {
+          "startUid": "u0946",
+          "endUid": "u0946",
+          "quote": "DM: Well, everything's giant size, so it's bigger than you might expect, like a small farmhouse, for a giant is, you know, 60 foot long."
+        },
+        {
+          "startUid": "u0947",
+          "endUid": "u0947",
+          "quote": "Kenzo: Right."
+        },
+        {
+          "startUid": "u0948",
+          "endUid": "u0948",
+          "quote": "DM: So I don't know. It's probably a mile. It's probably a mile across."
+        },
+        {
+          "startUid": "u0949",
+          "endUid": "u0951",
+          "quote": "DM: The pit is not very deep, but it's fairly big, right? Like a giant could practically just climb out of the pit. But the ogres are much smaller, and so they have to go off the ramp. The shafts are obviously much deeper. The whole village, including the mine, is probably no more than a mile across."
+        },
+        {
+          "startUid": "u1019",
+          "endUid": "u1022",
+          "quote": "DM: Yeah, so you can't, like, the lightning actually, like, as you, as the vulture kind of soars above the tower, not getting too close to lightning, you actually see, like, the lightning is almost... It's actually kind of shooting out of these landing platforms. And it looks like it actually descends down through the middle of the tower to, like, charge a death ray or something."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0959",
+        "endUid": "u0962"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Continue a couple of miles closer so Seeker can scout the tower magically.",
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u0959",
+          "endUid": "u0959",
+          "quote": "Delwath: First..."
+        },
+        {
+          "startUid": "u0960",
+          "endUid": "u0960",
+          "quote": "DM: Get a get, you know, a couple miles closer. You could easily hit the tower with clairvoyance."
+        },
+        {
+          "startUid": "u0961",
+          "endUid": "u0961",
+          "quote": "Kenzo: Let's do that."
+        },
+        {
+          "startUid": "u0962",
+          "endUid": "u0962",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u0963",
+          "endUid": "u0963",
+          "quote": "DM: Seeker has—Seeker has to roll. Let me just double check deal there."
+        },
+        {
+          "startUid": "u0964",
+          "endUid": "u0965",
+          "quote": "Kenzo: Look ominous and all. Okay, okay, what about this? What about this we learn about? Oh, we also have the mirror, too, remember? Let's—I don't know if we can find something interesting for the mirror, but..."
+        },
+        {
+          "startUid": "u0966",
+          "endUid": "u0966",
+          "quote": "DM: You do have a charge in the mirror."
+        },
+        {
+          "startUid": "u0967",
+          "endUid": "u0968",
+          "quote": "Delwath: The death ray. Once we to kill..."
+        },
+        {
+          "startUid": "u0969",
+          "endUid": "u0969",
+          "quote": "Kenzo: We need to grab a piece of the death ray."
+        },
+        {
+          "startUid": "u0970",
+          "endUid": "u0970",
+          "quote": "DM: 3 charges."
+        },
+        {
+          "startUid": "u0971",
+          "endUid": "u0971",
+          "quote": "Kenzo: To then—because, okay, information. Somebody rolling?"
+        },
+        {
+          "startUid": "u0972",
+          "endUid": "u0972",
+          "quote": "DM: So I'm gonna roll a d. 20 for Seeker."
+        },
+        {
+          "startUid": "u0973",
+          "endUid": "u0973",
+          "quote": "Kenzo: Is high good, or low good?"
+        },
+        {
+          "startUid": "u0974",
+          "endUid": "u0975",
+          "quote": "DM: High is good. It's like, you need to..."
+        },
+        {
+          "startUid": "u0976",
+          "endUid": "u0976",
+          "quote": "Kenzo: 15."
+        },
+        {
+          "startUid": "u0977",
+          "endUid": "u0977",
+          "quote": "DM: Yeah, that's fine. Okay? So that's—Clairvoyance works."
+        },
+        {
+          "startUid": "u1025",
+          "endUid": "u1028",
+          "quote": "DM: Okay, so you look at the top floor of the tower. There are... Okay, so you, you can see as the Clairvoyance eye appears, and, and Seeker looks out and starts describing what he sees."
+        },
+        {
+          "startUid": "u1216",
+          "endUid": "u1216",
+          "quote": "DM: Well, right now you're 8 miles away."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1025",
+        "endUid": "u1028"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Use Clairvoyance to inspect the tower top floor, its two guards and the lightning column.",
+      "place": "p13",
+      "observerPlace": "p10",
+      "mode": "remote",
+      "evidence": [
+        {
+          "startUid": "u1025",
+          "endUid": "u1028",
+          "quote": "DM: Okay, so you look at the top floor of the tower. There are... Okay, so you, you can see as the Clairvoyance eye appears, and, and Seeker looks out and starts describing what he sees."
+        },
+        {
+          "startUid": "u1029",
+          "endUid": "u1039",
+          "quote": "DM: So the lightning actually, like, once you get closer, actually, you can—or from this Clairvoyance thing you can actually see that the lightning is not directly coming through these... The open platforms is actually sort of running a bit along the roof, right above where the open platforms are. Then it coalesces at the top, and as you look in to this top floor you can see that there’s a giant column of purple lightning that descends, that goes up to the roof, and then descends down through the middle of the tower."
+        },
+        {
+          "startUid": "u1029",
+          "endUid": "u1039",
+          "quote": "DM: There are 2 giants standing, both sort of with a sort of pale, almost granite-like skin, that are kind of sitting on giant sized chairs, just kind of idly leaning. One’s got a, a giant stone—a giant stone club that he or she is kind of just fiddling with. The other has, like, a what must be a boulder, but in this hands of a giant looks kind of, you know, almost like a baseball or a basketball. It just kind of tossing a rock. They look, they look kind of bored, just sitting there, and there's stairs that go down."
+        },
+        {
+          "startUid": "u1040",
+          "endUid": "u1043",
+          "quote": "DM: Everything is, is huge, right? Like, the inside of this tower is probably one... It's probably a hundred feet by a hundred feet, and the—from floor to ceiling, it's probably 60 feet from floor to ceiling. The stairs are enormous, like each step is a, is like Wellby sized, so to—for Wellby to go down the stairs, it's, like, jump, grab, pull yourself up. It's about 3 feet from one step to the next step."
+        },
+        {
+          "startUid": "u1044",
+          "endUid": "u1045",
+          "quote": "DM: But other than the sort of 2 giants, the lightning pillar and the steps going down, there does not appear to be much else in the top floor."
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1046",
+          "quote": "Wellby: So there's not, like, controls? There's not, like, a big lever in the middle, like..."
+        },
+        {
+          "startUid": "u1047",
+          "endUid": "u1048",
+          "quote": "DM: Not on this floor. I mean, the lightning, pillar of lightning goes down towards the bottom of the tower."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1251",
+        "endUid": "u1252"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Approach the village along the valley wall opposite Thundercrown, then stop by the carved eye near the warehouse.",
+      "from": "p10",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Creep among rubble, boulders and scattered junipers along the unnamed mountain side opposite Thundercrown."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1251",
+          "endUid": "u1252",
+          "quote": "DM: Okay, so everybody is gonna start... You know, you spend another couple of hours till mid-afternoon, or are you waiting till dark?"
+        },
+        {
+          "startUid": "u1253",
+          "endUid": "u1253",
+          "quote": "Delwath: No, I don't think we want to wait till dark."
+        },
+        {
+          "startUid": "u1254",
+          "endUid": "u1255",
+          "quote": "DM: So mid afternoon, maybe, maybe more towards, like, 3 or 4, so that you get some shadows from the sun, you know, a little bit lower in the sky."
+        },
+        {
+          "startUid": "u1256",
+          "endUid": "u1259",
+          "quote": "DM: Waiting on the edge, and then everybody begins to creep through the boulders and rubble towards sort of along this, the side. This is the opposite side from Thundercrown, the other mountain that, as far as you know, unnamed. Just sort of along the, the sort of valley wall, and then sort of in slightly picking your way through boulders, and, you know, there's, there's, like, little bits of juniper trees growing here. There's a fair bit of cover as you begin to sort of creep your way forward."
+        },
+        {
+          "startUid": "u1271",
+          "endUid": "u1272",
+          "quote": "DM: So you begin to creep forward. Who's, who's in front? Anybody scouting? Anybody keeping watch specifically?"
+        },
+        {
+          "startUid": "u1273",
+          "endUid": "u1273",
+          "quote": "Kenzo: Yeah. I'll keep watch."
+        },
+        {
+          "startUid": "u1274",
+          "endUid": "u1274",
+          "quote": "Wellby: Think I'm in front,"
+        },
+        {
+          "startUid": "u1275",
+          "endUid": "u1275",
+          "quote": "Delwath: Delwath will be in the middle."
+        },
+        {
+          "startUid": "u1276",
+          "endUid": "u1276",
+          "quote": "Wellby: trying to guide through the stealthiest routes I can find, and watching out for guards and finding cover."
+        },
+        {
+          "startUid": "u1277",
+          "endUid": "u1277",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u1278",
+          "endUid": "u1280",
+          "quote": "DM: Okay, go ahead and make a... Schwartz, make a perception check for Wellby with advantage. Kenzo, straight perception check."
+        },
+        {
+          "startUid": "u1281",
+          "endUid": "u1282",
+          "quote": "Wellby: 21. Sorry, 28."
+        },
+        {
+          "startUid": "u1283",
+          "endUid": "u1283",
+          "quote": "DM: Okay, the..."
+        },
+        {
+          "startUid": "u1284",
+          "endUid": "u1287",
+          "quote": "DM: As you begin to sort of creep forward, you get to about maybe a thousand yards or so from the from the back edge of this warehouse, maybe, maybe a bit more, maybe like half a mile."
+        },
+        {
+          "startUid": "u1288",
+          "endUid": "u1290",
+          "quote": "DM: And, Wellby, your, your bow sort of tugs you slightly, and you look, and you see sort of hidden nestled among one of these boulders, there is a small—a purple gem that's clearly been carved into the shape of an eye."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1324",
+        "endUid": "u1327"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Continue after the eye is dispelled, reaching the back wall of the warehouse and hiding between wall and rock.",
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "sneak",
+      "evidence": [
+        {
+          "startUid": "u1321",
+          "endUid": "u1322",
+          "quote": "DM: Oh, right, I forgot. Okay, so Delwath casts Dispel Magic, and the glow on this carved eye gem fades."
+        },
+        {
+          "startUid": "u1323",
+          "endUid": "u1323",
+          "quote": "Delwath: I'll motion, you know, let's go."
+        },
+        {
+          "startUid": "u1324",
+          "endUid": "u1327",
+          "quote": "DM: And everybody continues forward. You get to within about a hundred feet of the edge of the of the, of the warehouse. Everybody rolls stealth checks. Somebody want to roll a d. 20 for Seeker?"
+        },
+        {
+          "startUid": "u1345",
+          "endUid": "u1350",
+          "quote": "DM: Okay, yeah, okay. You're all, you're all good. Wellby manages to grab Delwath before he accidentally steps on a dry branch, and guide you safely up again, crouched down against the back wall of the warehouse. You think fairly well out of sight from anybody, but you can do—you need line of—you need to see the target for a Suggestion?"
+        },
+        {
+          "startUid": "u1400",
+          "endUid": "u1403",
+          "quote": "DM: The ogre stops, and he looks at the boulder that you're hid—hiding behind, right? There's, like, a, a rock that you're all sort of crouched behind that's near the back of the warehouse, and he looks, and he, he says in Giant, “Did you just”—pointing at the boulder—“did you just talk to me?”"
+        },
+        {
+          "startUid": "u1501",
+          "endUid": "u1502",
+          "quote": "DM: You'd be looking sort of towards the rim of the giant pit with the lightning structure above it, and then the sort of giant village extends in a circle around the pit, and you're on the edge of the village."
+        },
+        {
+          "startUid": "u1503",
+          "endUid": "u1503",
+          "quote": "Kenzo: Can we see any, any giants right now?"
+        },
+        {
+          "startUid": "u1504",
+          "endUid": "u1506",
+          "quote": "DM: Yeah, they're—well, I mean again, not from where you are. But there's presumably some around like the vulture saw. Yeah, maybe a half dozen kind of walking around."
+        },
+        {
+          "startUid": "u1507",
+          "endUid": "u1508",
+          "quote": "Kenzo: Okay, okay. So from where we are right now, are there any giants visible?"
+        },
+        {
+          "startUid": "u1509",
+          "endUid": "u1510",
+          "quote": "DM: Well, again, you're—there's no giants visible to you. You're like carefully hidden in between a wall and a rock."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2206",
+        "endUid": "u2207"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Teleport back to Vindristjarna, now about forty miles away after Faldrak flew it away from the death ray.",
+      "from": "p15",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "teleport",
+      "distance": {
+        "value": 40,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM gives the ship distance when the teleport is resolved."
+      },
+      "evidence": [
+        {
+          "startUid": "u2196",
+          "endUid": "u2196",
+          "quote": "Delwath: So we should just go back to the ship and take a long rest."
+        },
+        {
+          "startUid": "u2197",
+          "endUid": "u2197",
+          "quote": "Kenzo: Yeah, teleport here to the ship, long rest, and we'll teleport right into the tower when we're ready."
+        },
+        {
+          "startUid": "u2198",
+          "endUid": "u2198",
+          "quote": "Wellby: Good, good, good."
+        },
+        {
+          "startUid": "u2199",
+          "endUid": "u2200",
+          "quote": "Kenzo: If you need to sneak back to the ship, we just teleport to it. Sleep in our own beds, exactly."
+        },
+        {
+          "startUid": "u2201",
+          "endUid": "u2201",
+          "quote": "DM: Oh, that's true. You can just teleport right from here back to the ship and then rest and then teleport."
+        },
+        {
+          "startUid": "u2202",
+          "endUid": "u2202",
+          "quote": "Kenzo: Exactly."
+        },
+        {
+          "startUid": "u2206",
+          "endUid": "u2207",
+          "quote": "DM: When you teleport—so when you teleport to this, to... It is about 40 miles away."
+        },
+        {
+          "startUid": "u2208",
+          "endUid": "u2208",
+          "quote": "DM: Faldrak has spent most of the time that you were walking flying away from the death ray."
+        },
+        {
+          "startUid": "u2209",
+          "endUid": "u2209",
+          "quote": "Kenzo: Smart."
+        },
+        {
+          "startUid": "u2210",
+          "endUid": "u2210",
+          "quote": "DM: And you say smart, and he's like, “I knew it. I knew you didn't want me to stay close to the death ray.”"
+        },
+        {
+          "startUid": "u2211",
+          "endUid": "u2211",
+          "quote": "Kenzo: Trust your instincts. It's good."
+        }
+      ]
+    }
+  ]
+}
