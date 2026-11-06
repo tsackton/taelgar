@@ -1,0 +1,325 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-002",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session.yaml",
+    "sessionYamlSha256": "a420bc1ce3988650f5877a6ed94657ee6f1567488ff3a814c6566f07b39b23be",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-transcript.md",
+    "transcriptSha256": "4cc894186e1900786cd25bc437fb6cf02dc070244ff71ee821da0211281f0b9d",
+    "yamlDates": {
+      "start": "1740-10-05",
+      "end": "1740-10-05"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0053",
+        "endUid": "u0058"
+      },
+      "reading": "The opening recalls the before-dawn departure from Dandelion House immediately preceding the tunnel scene.",
+      "evidence": [
+        {
+          "startUid": "u0053",
+          "endUid": "u0058",
+          "quote": "The party arises before dawn, woken by the grandfather clock, still in fine condition."
+        },
+        {
+          "startUid": "u0062",
+          "endUid": "u0068",
+          "quote": "We open in this moment, illuminated by a couple of light spells"
+        }
+      ],
+      "time": {
+        "partOfDay": "before dawn",
+        "precision": "approximate",
+        "basis": "Spoken recap anchors the departure; no calendar date is spoken."
+      },
+      "note": "Earlier hiring, the several-day approach to Dandelion House, and Hulda’s decades of history remain prior-session background."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0193",
+        "endUid": "u0197"
+      },
+      "reading": "The party climbs for an unspecified time before emerging from the bone-root passage.",
+      "evidence": [
+        {
+          "startUid": "u0193",
+          "endUid": "u0197",
+          "quote": "You go up for some time"
+        }
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0198",
+        "endUid": "u0208"
+      },
+      "reading": "Emergence on the Feywild plain is described as about half an hour after sunset.",
+      "evidence": [
+        {
+          "startUid": "u0198",
+          "endUid": "u0201",
+          "quote": "DM: You find yourself standing just after sunset, on a wide plain, in front of what seems to be a ruined house made almost entirely of these roots, like the walls themselves haven't been colonized by this thing, but, like, inside the brick walls, the bones are something that grew the house into place, rather than being constructed."
+        },
+        {
+          "startUid": "u0202",
+          "endUid": "u0208",
+          "quote": "The sun is over the horizon. It's maybe a half hour past sunset. The light is pale and blue."
+        }
+      ],
+      "time": {
+        "partOfDay": "just after sunset",
+        "precision": "approximate",
+        "basis": "Local appearance and the DM’s estimate; subsequent evidence establishes stationary sunlight."
+      },
+      "note": "This local twilight does not measure time elapsed since the Material Plane departure."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0504",
+        "endUid": "u0507"
+      },
+      "reading": "During the first body inspection, the DM estimates the current moment at about 45 minutes after sunset, within the last hour.",
+      "evidence": [
+        {
+          "startUid": "u0496",
+          "endUid": "u0500",
+          "quote": "DM: Definitely happened since sunset."
+        },
+        {
+          "startUid": "u0504",
+          "endUid": "u0507",
+          "quote": "DM: Absolutely, I… sunset was probably a half hour ago, so it's… It's what? 45 minutes, maybe? Maybe now. Within the last hour."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "local sunset",
+          "offset": {
+            "value": 45,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM’s tentative current-time estimate"
+          }
+        },
+        "precision": "approximate",
+        "basis": "The DM revises the half-hour wording to about 45 minutes while answering track-freshness questions."
+      },
+      "note": "The corpse’s decay and mushrooms do not supply an adventure duration; the later fixed-sun observation limits solar-clock inference."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0616",
+        "endUid": "u0623"
+      },
+      "reading": "Another ten minutes of road travel brings the party to the burned-body site.",
+      "evidence": [
+        {
+          "startUid": "u0616",
+          "endUid": "u0623",
+          "quote": "Another 10 minutes down the road, and you notice the smell of something burnt?"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit narrated road interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0645",
+        "endUid": "u0646"
+      },
+      "reading": "A couple more minutes down the road brings the party to the next headless body.",
+      "evidence": [
+        {
+          "startUid": "u0645",
+          "endUid": "u0646",
+          "quote": "DM: The next body that you find is only a couple of minutes down the road. This one also, with two arrows in its back, and the head is entirely missing."
+        }
+      ],
+      "duration": {
+        "text": "a couple of minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated travel; no exact measured interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1058",
+        "endUid": "u1061"
+      },
+      "reading": "At the gate, at least an hour has passed in the Feywild, while the sun has not moved.",
+      "evidence": [
+        {
+          "startUid": "u1058",
+          "endUid": "u1061",
+          "quote": "DM: The road goes almost, as near as you can tell, the road goes parallel… to what in any other place would be the north-south axis, exactly between day and night. And you notice, in fact, having been here for at least an hour now, that the sun has not moved in the sky."
+        }
+      ],
+      "duration": {
+        "min": 1,
+        "minInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM explicitly says they have been here for at least an hour."
+      },
+      "completion": "completed",
+      "note": "Cumulative time since entering this realm includes earlier roadside travel; do not add that travel again."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1410",
+        "endUid": "u1438"
+      },
+      "reading": "Inside the estate, repeated attempted farewells are recognized as the same ending moment recurring with variations.",
+      "evidence": [
+        {
+          "startUid": "u1418",
+          "endUid": "u1423",
+          "quote": "DM: No… But the sense of it, rather than being frozen in time, is that it is the same thing happening over and over again, but each time that you see it, it's like you're seeing it for the first time. And it takes a kind of conscious effort on your part to notice that… it's not something new that… no, no, no, those… those are the same people. The boat has just turned 30 degrees, but it's the same boat, and the… the person who I thought was in front is actually in back, but it's the same people."
+        },
+        {
+          "startUid": "u1427",
+          "endUid": "u1432",
+          "quote": "DM: They… They never cast off at all, because as the oars are set, someone comes up on the bank and strikes up a conversation with them, and then… there's an endless series of delays and obfuscations until even he can't keep focus, looks away for just a moment. And when he looks back again, it's the same moment beginning, over and over and over again. So they're never… it's… they're… it's like a loop."
+        },
+        {
+          "startUid": "u1433",
+          "endUid": "u1438",
+          "quote": "DM: Yeah, although… a loop is not quite right, because it's not identical each time. It's like, it's like everyone's got a fake book, and they're playing their own… version of the same 8 bars over and over and over again. It's different every time, but it's the same 8 bars, you know? Oh."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "same_time",
+          "anchor": "the recurring moment when the party is ending"
+        },
+        "precision": "approximate",
+        "basis": "Directly observed repetition, qualified by the DM as nonidentical each time."
+      },
+      "note": "This establishes the local temporal condition, not a numeric duration or a return to an earlier adventure date."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1546",
+        "endUid": "u1547"
+      },
+      "reading": "Kaito and Ayveen wait about a minute for the musicians’ piece to end.",
+      "evidence": [
+        {
+          "startUid": "u1512",
+          "endUid": "u1516",
+          "quote": "Kaito Min: Kaito will saunter over to the musicians. What are they playing?"
+        },
+        {
+          "startUid": "u1546",
+          "endUid": "u1547",
+          "quote": "DM: A thing. But, after about a minute or so, the piece comes to an end."
+        }
+      ],
+      "actors": [
+        "Kaito Min",
+        "Ayveen"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit wait until the current piece ends"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2044",
+        "endUid": "u2049"
+      },
+      "reading": "Tarek rummages in his pockets for about a minute before presenting the keys.",
+      "actors": [
+        "Tarek"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Tarek narrates rummaging for a minute."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2044",
+          "endUid": "u2049",
+          "quote": "Tarek: Well… And Tarek rummages around in his… garments for a minute, patting his pockets. I… Why, yes. He's… Keys to the museum."
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2312",
+        "endUid": "u2326"
+      },
+      "reading": "While Edric searches for the other human, the clock strikes zero and the Lord sends a guest out.",
+      "evidence": [
+        {
+          "startUid": "u2312",
+          "endUid": "u2313",
+          "quote": "DM: I'm gonna say a thing that doesn't make sense, and I'm not going to explain it. You hear the clock strike zero."
+        },
+        {
+          "startUid": "u2324",
+          "endUid": "u2326",
+          "quote": "DM: You can't hear it, but you see him stoop slightly to whisper a word in the ear of a human, who's come up to him just after the clock stops striking zero. And the human… nods, and straightens, and hurries out the door."
+        }
+      ],
+      "actors": [
+        "Edric"
+      ],
+      "time": {
+        "relative": {
+          "relation": "same_time",
+          "anchor": "the manor clock striking zero"
+        },
+        "precision": "exact",
+        "basis": "Spoken clock signal identifies the event without a civil clock reading."
+      },
+      "note": "Zero is retained as spoken; it establishes neither midnight nor a calendar transition."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No date is spoken. October 5, 1740 comes solely from YAML; the recalled departure is before dawn in the Material Plane, followed by fixed Feywild twilight.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t03",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t11"
+    ],
+    "explanation": "Active play continues from the closed-door crossing through arrival, the road, the ending party, and the zero chime. Explicit elapsed intervals fit a same-date working calendar, but stationary light, repeated moments and an unconverted clock do not establish a complete civil boundary count. No completed rest or overnight is narrated. Prior hiring/travel, recalled dreams, halfling history, the rakshasa’s age and proposed lodging do not extend the played interval."
+  }
+}
