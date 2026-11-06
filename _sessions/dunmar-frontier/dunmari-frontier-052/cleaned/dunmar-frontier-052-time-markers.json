@@ -1,0 +1,948 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-052",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-session.yaml",
+    "sessionYamlSha256": "ddec65bca4151bda6c4d341d4e8da005f4375adb38b70bce926e3b446d0e33be",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-transcript.md",
+    "transcriptSha256": "b6d25e9a2cb73961cea8b381ab1d3384634960174aa2cb41e7a1f81237b97253",
+    "yamlDates": {
+      "start": "1748-09-06",
+      "end": "1748-09-30"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0137",
+        "endUid": "u0140"
+      },
+      "reading": "The party sees a historical vision in the God tree: an elven nursery followed by dragonfire and the post-Great-War battles.",
+      "evidence": [
+        {
+          "startUid": "u0137",
+          "endUid": "u0140",
+          "quote": "Okay, so as you're waiting for Mezzar and possibly anybody else, you, um, you look at the mirror. I mean, you look at the tree. You hold the tree up to the mirror."
+        },
+        {
+          "startUid": "u0268",
+          "endUid": "u0274",
+          "quote": "This is like Great War era. I mean, you know, there was a... Uh, Gnaeus told you, and y- you would've, some of you would probably know the, Seeker would certainly know the history.\n\nThere was a conclave of dragons after that in the sort of blood years after Cha'mutte fell that led hobgoblin armies through the forests and were finally defeated, um, about 50 miles east of Chardon. And that was what basically drove the Deno'qai that used to live here out of the forest for generations."
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "the present God-tree ambush"
+        },
+        "precision": "approximate",
+        "basis": "the DM identifies the scene as Great War / immediately post-Great-War history"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0322",
+        "endUid": "u0326"
+      },
+      "reading": "Play returns from the tree’s history to the ambush preparations.",
+      "evidence": [
+        {
+          "startUid": "u0322",
+          "endUid": "u0326",
+          "quote": "All right. Now we're gonna activate plan...\n\nDM: Okay, so tell me the setup here.\n\nKenzo: Operation Eagle.\n\nDM: Operation Eagle.\n\nDelwath: Uh, Delwath and Seeker are standing at the base of the tree just waiting."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0554",
+        "endUid": "u0561"
+      },
+      "reading": "Four hours after reaching the clearing, Mezzar approaches at about 1 p.m.; arrival in the clearing was therefore roughly 9 a.m. The already-spent three hours are included, not added.",
+      "evidence": [
+        {
+          "startUid": "u0554",
+          "endUid": "u0561",
+          "quote": "So you wait, you've waited about three hours already. Um, as you've looked in the mirror, you've iden- you know, you identified, you talked about your plan, you sort of decided what to do. Um, about four hours after you arrive in the clearing, so shortly after noon, we'll say, we'll say around 1:00, after lunch. Um-"
+        }
+      ],
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s elapsed wait after arrival"
+      },
+      "timeRange": {
+        "start": {
+          "clock": "09:00",
+          "precision": "approximate",
+          "basis": "inferred by subtracting the four-hour wait from about 1 p.m."
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "stated by the DM",
+          "clock": "13:00"
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0592",
+        "endUid": "u0593"
+      },
+      "reading": "Mezzar and his escort take about a minute to cross the clearing and reach the waiting party.",
+      "evidence": [
+        {
+          "startUid": "u0592",
+          "endUid": "u0593",
+          "quote": "Um, he walks, as he walks up to you, he, he is glancing or are, is there anything you're doing while they take the minute to cross the clearing?"
+        },
+        {
+          "startUid": "u0684",
+          "endUid": "u0687",
+          "quote": "So he walks, he walks up, um, and as he, as he walks up, he's, he has very elegant features. Um, he's striding with purpose, not, not carrying anything, and he, and he is sort of glancing around at the situation as he approaches."
+        }
+      ],
+      "actors": [
+        "Mezzar",
+        "Zevi",
+        "five Deno’qai"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s stated crossing, followed by his arrival"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u3119",
+        "endUid": "u3120"
+      },
+      "reading": "The burials and stone monument take about fifteen minutes in total, including ten minutes to make the stone permanent.",
+      "evidence": [
+        {
+          "startUid": "u3119",
+          "endUid": "u3120",
+          "quote": "So a wall of stone I could use to make a permanent, in 10 minutes, stone monument depicting the action. It says crude crenellations on it, but we're gonna make it secret."
+        },
+        {
+          "startUid": "u3139",
+          "endUid": "u3144",
+          "quote": "It'll take 10 minutes. So take like 15 minutes to total...\n\nDelwath: Yeah, no more. We'll, we'll, we'll dig the grave.\n\nDM: Yeah, those monuments take- We'll make a big monument. Well-"
+        },
+        {
+          "startUid": "u3300",
+          "endUid": "u3300",
+          "quote": "So you've done all this. Now where are you going?"
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s total for the completed burial and monument work"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u3161",
+        "endUid": "u3164"
+      },
+      "reading": "Wellby spends ten minutes hugging Baxter during the burial preparations.",
+      "evidence": [
+        {
+          "startUid": "u3161",
+          "endUid": "u3161",
+          "quote": "I spend that 10 minutes just, like, hugging Baxter."
+        },
+        {
+          "startUid": "u3164",
+          "endUid": "u3164",
+          "quote": "Just hugging him."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Wellby explicitly spends “that 10 minutes”"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u3330",
+        "endUid": "u3335"
+      },
+      "reading": "At departure for Theba’s rendezvous, the DM still places the party at about 1 p.m.",
+      "evidence": [
+        {
+          "startUid": "u3330",
+          "endUid": "u3335",
+          "quote": "Okay. So that's 30 miles away. If you... It's already 1:00. You could get there like after midnight if you just run through the forest as hard as you can."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "clock": "13:00"
+      },
+      "note": "The repeated approximate clock does not erase the combat and funeral actions in between."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u3351",
+        "endUid": "u3370"
+      },
+      "reading": "Wellby rides Baxter thirty miles to the rendezvous; the DM revises twelve hours to about ten, then confirms arrival around 10–11 p.m.",
+      "evidence": [
+        {
+          "startUid": "u3351",
+          "endUid": "u3370",
+          "quote": "But by keeping him on track, you manage to travel the 30 miles by, in about 12 hours. So, or even 10 hours, right?"
+        },
+        {
+          "startUid": "u3404",
+          "endUid": "u3407",
+          "quote": "Okay. So it's, it's midn- it's 10 A- 10:00 PM when we get there?\n\nDM: Yeah, 10:00, 11:00 PM. Yeah."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s revised completed journey, replacing twelve hours"
+      },
+      "time": {
+        "partOfDay": "late evening",
+        "precision": "approximate",
+        "basis": "arrival explicitly confirmed as 10–11 p.m."
+      },
+      "completion": "completed",
+      "note": "The other three PCs travel inside the Mirror of Soul Trapping and emerge at the destination."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u3409",
+        "endUid": "u3410"
+      },
+      "reading": "Delwath completes his four-hour elven long rest from roughly 10 p.m. until 2 a.m.",
+      "evidence": [
+        {
+          "startUid": "u3409",
+          "endUid": "u3413",
+          "quote": "So I will take a long rest. That'll then be 10, 2:00 AM.\n\nDM: Yeah. Scry... Theba."
+        },
+        {
+          "startUid": "u3427",
+          "endUid": "u3427",
+          "quote": "What time? This is at 2:00 AM."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "explicit elven rest calculation, accepted by the DM"
+      },
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "stated by the DM",
+          "clock": "22:00"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "stated by the DM",
+          "clock": "02:00"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u3424",
+        "endUid": "u3427"
+      },
+      "reading": "Delwath’s first resolved scry is at 2 a.m.",
+      "evidence": [
+        {
+          "startUid": "u3424",
+          "endUid": "u3428",
+          "quote": "The first thing I'm gonna do is scry the middle of the village.\n\nDM: At?\n\nDelwath: No. The first thing I'm gonna do is scry Mezzar's bedroom.\n\nDM: What time? This is at 2:00 AM.\n\nDelwath: I wanna see if he's back there or not."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "clock": "02:00"
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u3479",
+        "endUid": "u3481"
+      },
+      "reading": "During the night’s scrying the DM explicitly says it is August 6th, in the last quarter of the moon.",
+      "evidence": [
+        {
+          "startUid": "u3479",
+          "endUid": "u3481",
+          "quote": "... gone past full moon. It's August 6th. You're in like last quarter now."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 8,
+          "day": 6
+        },
+        "precision": "exact",
+        "basis": "August 6th is spoken; year 1748 is inherited from YAML, whose September dates conflict"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u3501",
+        "endUid": "u3504"
+      },
+      "reading": "The chief’s sleeping scry is at 4 a.m.; the DM immediately corrects “dawn” to 4 a.m.",
+      "evidence": [
+        {
+          "startUid": "u3501",
+          "endUid": "u3508",
+          "quote": "Uh, so this now is dawn. Nah, it's 4:00 AM. 4:00 AM, okay. I mean, he's probably sleeping, but. The leader, um, is sleeping in his, in his, um, he's-\n\nKenzo: Oh, he's not chasing after us.\n\nDM: Well, the chief of the village is not chasing after you. He is asleep."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "clock": "04:00"
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u3553",
+        "endUid": "u3558"
+      },
+      "reading": "At dawn Delwath scries the God-tree graves, then the village.",
+      "evidence": [
+        {
+          "startUid": "u3553",
+          "endUid": "u3558",
+          "quote": "That's a pretty big mobilization. I'm gonna scry with my two dawn scrys. The first one is I'm gonna scry the tree. Has anybody been there? Is it disturbed at all? Has anybody taken the letter? Has, like, anything changed?"
+        },
+        {
+          "startUid": "u3604",
+          "endUid": "u3608",
+          "quote": "I think the village. Dawn, like wherever, like the more s- most central... I mean, it's dawn now, so-\n\nDM: Right.\n\nDelwath: ... I can see better. The m- whatever the most like central gathering point in the village is."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "dawn"
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u3626",
+        "endUid": "u3631"
+      },
+      "reading": "Everybody wakes fully rested at about 8 a.m., one or two hours past dawn; Theba then arrives.",
+      "evidence": [
+        {
+          "startUid": "u3626",
+          "endUid": "u3631",
+          "quote": "Okay, so around a couple hour, an hour, say two hours past dawn, like maybe 8:00 in the morning, um, everybody's rested. You can all take long rests. You wake up. Um, you're sitting around, I assume no fire."
+        },
+        {
+          "startUid": "u3635",
+          "endUid": "u3648",
+          "quote": "Um, when Theba comes into the, uh, clearing, um, she's carrying her, her spear and shield. Um, she's moving quickly, but like looking around. Um, uh, she's found a chain shirt somewhere, not as nice as the breastplate, but some armor.\n\nUm, and, uh, she's run- she's running as she enters the clearing, and she, when she sees your camp, she stops for a minute and walks, walks over to you and says, \"You beat me. Impressive. What is... Are you ready to go? Should we find the Te'kula?\""
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "clock": "08:00"
+      }
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u3779",
+        "endUid": "u3783"
+      },
+      "reading": "Theba leads the party through the forest over the next three days, ending at the final magical path.",
+      "evidence": [
+        {
+          "startUid": "u3779",
+          "endUid": "u3783",
+          "quote": "\"Okay, let us go.\"\n\n Um, so over the next three days, you run, you basically are running through the forest. Um... Um, Tim?"
+        },
+        {
+          "startUid": "u3840",
+          "endUid": "u3842",
+          "quote": "They're unchanged. And after a f- three days passing through this forest, the forest getting, um, Theba l- leading you into sort of a deeper, stiller part of the woods."
+        },
+        {
+          "startUid": "u3848",
+          "endUid": "u3869",
+          "quote": "We are passing through the final path now."
+        }
+      ],
+      "actors": [
+        "party",
+        "Theba",
+        "Baxter"
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "DM’s travel montage and later confirmation"
+      },
+      "completion": "completed",
+      "note": "The montage gives no arrival clock; inclusive travel-day counting versus three full elapsed days leaves the civil arrival day open."
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u3909",
+        "endUid": "u3912"
+      },
+      "reading": "The party pauses on the path for five minutes while the apparition of Frankar slowly burns and vanishes.",
+      "evidence": [
+        {
+          "startUid": "u3907",
+          "endUid": "u3912",
+          "quote": "Seeker stops walking to watch.\n\nDM: He seems to be burning for an awfully long time, slowly fading. Slowly, five minutes go by, and he-"
+        },
+        {
+          "startUid": "u3919",
+          "endUid": "u3919",
+          "quote": "And he vanishes."
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM explicitly says five minutes go by as the party watches"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u4032",
+        "endUid": "u4039"
+      },
+      "reading": "At sunset the party is already at the Te’kula feast after the jade pieces’ earlier meeting.",
+      "evidence": [
+        {
+          "startUid": "u4032",
+          "endUid": "u4039",
+          "quote": "[gentle music] I'm just gonna get a little bit of this. Okay. I'll put that there. [coughs]\n\nSo in the village as the sun sets, um, there is a feast prepared. The-\n\nSeeker: That was."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t29",
+      "source": {
+        "startUid": "u5005",
+        "endUid": "u5007"
+      },
+      "reading": "Delwath retrospectively describes the streamside communion as a whole night spent interpreting images.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a whole night",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Delwath’s retrospective description, acknowledged by the DM"
+      },
+      "completion": "completed",
+      "note": "This is the feast-night prayer already narrated at u4838–u4954, not another overnight after the shared dream.",
+      "evidence": [
+        {
+          "startUid": "u5005",
+          "endUid": "u5007",
+          "quote": "Like, we don't have... I mean, despite all that, that was, like, Delwath spending a whole night interpreting images.\n\nDM: Right."
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u5014",
+        "endUid": "u5015"
+      },
+      "reading": "Later that night, Alayah grows sleepy; Kenzo and Alayah join their necklaces and go to sleep.",
+      "evidence": [
+        {
+          "startUid": "u5014",
+          "endUid": "u5015",
+          "quote": "So A- Alayah has been kind of, um, sitting around just kind of thinking to herself and as the night gets later and she yawns a few times, she looks over at Kenzo."
+        },
+        {
+          "startUid": "u5035",
+          "endUid": "u5049",
+          "quote": "So we go to, um, wherever the s- the appropriate sleeping quarters are. And yeah, lay down. Lay down beside her, take our necklaces and, and join them together.\n\nDM: As you drift off to sleep, um, you can feel your necklace getting, the jade getting slightly warm. Like not a, not a burning, like a comforting sensation, like, like the nice warm rock of the fire or something.\n\nAnd you see, um, as you, as you fall asleep and immediately start to dream, um, you can see, uh, a flat, dry, dusty plain in front of you. As far as you can see, there's just ash and dust."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Alayah"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "late night"
+      },
+      "completion": "begun"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u5039",
+        "endUid": "u5049"
+      },
+      "reading": "Kenzo and Alayah enter a shared dream of Rai; the vision’s sun approaches noon, independently of the sleepers’ nighttime clock.",
+      "evidence": [
+        {
+          "startUid": "u5039",
+          "endUid": "u5049",
+          "quote": "As you drift off to sleep, um, you can feel your necklace getting, the jade getting slightly warm. Like not a, not a burning, like a comforting sensation, like, like the nice warm rock of the fire or something.\n\nAnd you see, um, as you, as you fall asleep and immediately start to dream, um, you can see, uh, a flat, dry, dusty plain in front of you. As far as you can see, there's just ash and dust."
+        },
+        {
+          "startUid": "u5058",
+          "endUid": "u5064",
+          "quote": "It's just as far as the, to stretching the horizon, you can see this sort of dusty ash. The only feature is a dark shadow that sort of stains the landscape in front of you, lingering despite the sun approaching noon high in the sky.\n\nYou step forward and reach towards the shadow, and you can feel as you reach towards the shadow, concentrating on, on your hand, the weight which still catches you off guard, the heaviness of stone.\n\nAnd you also feel something, a, a comforting presence on your, on your shoulder, like somebody else's hand on your shoulder. And, and you turn around and you don't see anybody, but you feel like somebody else is here."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Alayah"
+      ],
+      "context": "vision",
+      "time": {
+        "partOfDay": "approaching noon",
+        "precision": "approximate",
+        "basis": "the dream’s visible sun, not the adventure clock"
+      }
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u5224",
+        "endUid": "u5230"
+      },
+      "reading": "Kenzo wakes beside Alayah the following morning and discusses the dream; this completes one overnight after the feast.",
+      "evidence": [
+        {
+          "startUid": "u5224",
+          "endUid": "u5230",
+          "quote": "Then you wake up in the morning. Alayah lying next to you looking, again, scared. And, \"This is much more intense than the dreams I used to have. Have you seen anything like this before?\""
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Alayah"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "morning"
+      },
+      "dateBoundaries": 1,
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t18"
+        }
+      ]
+    },
+    {
+      "id": "t30",
+      "source": {
+        "startUid": "u5347",
+        "endUid": "u5348"
+      },
+      "reading": "At breakfast Theba says she has prayed all night and has decided to kill the dragon.",
+      "actors": [
+        "Theba"
+      ],
+      "duration": {
+        "text": "all night",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Theba’s direct account of the just-completed night"
+      },
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "same_time",
+          "reference": "t20",
+          "anchor": "the morning after the feast and shared dream"
+        },
+        "precision": "approximate",
+        "basis": "the breakfast scene following the same overnight"
+      },
+      "completion": "completed",
+      "note": "The same feast-night boundary is already counted by t20; this actor-specific interval adds no second night.",
+      "evidence": [
+        {
+          "startUid": "u5347",
+          "endUid": "u5348",
+          "quote": "She opens her eyes, and she says, \"I have been praying all night. I have to kill the dragon.\""
+        }
+      ]
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u7285",
+        "endUid": "u7289"
+      },
+      "reading": "The party, Theba and Obel set out east for the lair on a journey summarized as three days.",
+      "evidence": [
+        {
+          "startUid": "u7285",
+          "endUid": "u7289",
+          "quote": "So you set out-\n\nKenzo: Actual dragon attacks are much more powerful.\n\nDM: ... over the course of the next-\n\nSeeker: Definitely.\n\nDM: ... over the course of the next three days—Theba guides you slowly to the east."
+        },
+        {
+          "startUid": "u7307",
+          "endUid": "u7307",
+          "quote": "But yes, you can scry. So it's three days."
+        },
+        {
+          "startUid": "u7322",
+          "endUid": "u7338",
+          "quote": "it takes you three days"
+        }
+      ],
+      "actors": [
+        "party",
+        "Theba",
+        "Obel"
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s repeated overall travel summary"
+      },
+      "completion": "completed",
+      "note": "Later narration starts on the morning of the third day, camps again, then reaches the lair the next afternoon; retain the overall approximate duration without forcing an exact boundary total."
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u7322",
+        "endUid": "u7338"
+      },
+      "reading": "On the morning of the third travel day, the forest becomes hotter, denser and more tropical.",
+      "evidence": [
+        {
+          "startUid": "u7322",
+          "endUid": "u7338",
+          "quote": "on the morning of the third day as you break your camp and begin to travel"
+        }
+      ],
+      "actors": [
+        "party",
+        "Theba",
+        "Obel"
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t21",
+          "anchor": "departure at the start of the lair journey",
+          "offset": {
+            "value": 2,
+            "unit": "day",
+            "precision": "exact",
+            "basis": "inferred from the third inclusive travel day"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM’s morning-of-third-day anchor"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t21"
+        }
+      ]
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u7364",
+        "endUid": "u7373"
+      },
+      "reading": "That slow jungle crossing takes most of the day; they camp, and play advances to the next day.",
+      "evidence": [
+        {
+          "startUid": "u7364",
+          "endUid": "u7373",
+          "quote": "And as you continue, like this is slow going here. It takes you most of the day, and you end up having to camp in this sort of dense jungle. And the next day, um, you, uh, Wellby, you would notice this as you continue to travel. It is, given the, the like seeming lushness of the forest, there is no animal life."
+        }
+      ],
+      "duration": {
+        "text": "most of the day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM’s completed slow crossing before camping"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t21"
+        }
+      ]
+    },
+    {
+      "id": "t24",
+      "source": {
+        "startUid": "u7394",
+        "endUid": "u7433"
+      },
+      "reading": "By mid-afternoon on the day after that camp, the party reaches sight of the lair tree and is challenged through a snake.",
+      "evidence": [
+        {
+          "startUid": "u7394",
+          "endUid": "u7433",
+          "quote": "When you get by mid-afternoon, uh, you can see"
+        }
+      ],
+      "actors": [
+        "party",
+        "Theba",
+        "Obel"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "mid-afternoon"
+      }
+    },
+    {
+      "id": "t25",
+      "source": {
+        "startUid": "u8332",
+        "endUid": "u8335"
+      },
+      "reading": "Kenzo retrospectively establishes the blue-linked figurines he gave Alayah and Belegor while hearing their stories before the hunt.",
+      "evidence": [
+        {
+          "startUid": "u8332",
+          "endUid": "u8335",
+          "quote": "Before, so one thing, um, he does this with, uh, with, um, Alayah and, um, the elf guy. He, he, um, as he hears their stories, um, he carves like a rune into the, the staff and then he holds, he holds the staff and he holds the figurine and like the, the figurine starts pulsing blue and then the rune on the staff starts pulsing blue.\n\nAnd then, you know, he gives, he, uh, he gives the figurine and now it's all attached to, to the-"
+        },
+        {
+          "startUid": "u6906",
+          "endUid": "u6912",
+          "quote": "... as your discussions wind down, um, Delwath has pointed out to, um, an old woman who's sitting, um, by the fire in the morning, uh, knitting, who is Ariel.\n\nDelwath: I'll walk over to her and sort of crouch down and-\n\nDM: She looks up. \"Yes? You are Delwath, right?\""
+        },
+        {
+          "startUid": "u7038",
+          "endUid": "u7046",
+          "quote": "Tim, while, uh, uh, Delwath is having this conversation, Kenzo's also, Kenzo's gonna go and, um, spend some time with, um, um... What's the godcaller's name again?\n\nDM: Alayah.\n\nKenzo: Um, Alayah, and then the elf.\n\nDelwath: Belegor.\n\nDM: Yeah.\n\nKenzo: Yeah.\n\nDM: Belegor."
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Kenzo",
+        "Alayah",
+        "Belegor"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t21",
+          "anchor": "departure for the lair"
+        },
+        "precision": "approximate",
+        "basis": "Retrospective “Before” identifies the earlier story-gathering scene, played while Delwath speaks to Ariel in the morning.",
+        "partOfDay": "morning"
+      }
+    },
+    {
+      "id": "t26",
+      "source": {
+        "startUid": "u8350",
+        "endUid": "u8354"
+      },
+      "reading": "Narration resumes the lair assault preparations after Kenzo’s retrospective gift description.",
+      "evidence": [
+        {
+          "startUid": "u8350",
+          "endUid": "u8354",
+          "quote": "So first things first, as you, as you get ready-\n\nKenzo: Is this the hole?\n\nDM: Wait, you guys aren't down here yet.\n\nSeeker: So we're—\n\nKenzo: It's just a hole."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t24"
+        }
+      ]
+    },
+    {
+      "id": "t27",
+      "source": {
+        "startUid": "u8481",
+        "endUid": "u8483"
+      },
+      "reading": "The final sprint into assault positions takes about forty seconds.",
+      "evidence": [
+        {
+          "startUid": "u8481",
+          "endUid": "u8483",
+          "quote": "... I would say it takes you about 40 seconds to get in position, like sprinting flat out, which means you get three rounds of advantage against fright. First three rounds of combat."
+        }
+      ],
+      "duration": {
+        "value": 0.6666666666666666,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM states about forty seconds"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t28",
+      "source": {
+        "startUid": "u11221",
+        "endUid": "u11231"
+      },
+      "reading": "After the dragon falls, Obel’s giant-crab form finishes the four snake people over about ten minutes and returns to normal.",
+      "evidence": [
+        {
+          "startUid": "u11221",
+          "endUid": "u11231",
+          "quote": "Rolls down the pile. Just because it's no fun to play it out after the dragon dies, the crabs and the snakes battle it out [die rolling] for 10 minutes. [upbeat music]\n\nWellby: [laughs] We all just kinda stand there like...\n\nKenzo: We all just like stand-\n\nDM: [laughs]\n\nDelwath: Whoa.\n\nUnknown: [laughs]\n\nDM: And then, like, after all the snakes are, like, dead in this, like, bloody pile around the crab, the... You drop concentration and this, like, confused ranger who looks around like, \"Did I do that?\" [laughs]"
+        }
+      ],
+      "actors": [
+        "Obel",
+        "four snake people"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s compressed combat cleanup"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "The transcript explicitly states August 6th during the first predawn sequence (t11). Only the year comes from YAML. The prior day can therefore be inferred as August 5th, conditional on that spoken date; YAML instead starts September 6th.",
+    "expectedDateBoundaries": 24,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t03",
+      "t09",
+      "t11",
+      "t15",
+      "t20",
+      "t21",
+      "t22",
+      "t23",
+      "t24",
+      "t28"
+    ],
+    "explanation": "The spoken August date conflicts with the September YAML interval. Two separate overnights are explicit, with two roughly three-day journeys, but inclusive-day ambiguity and missing later denouement prevent an exact whole-session boundary total. The recording ends after the battle and item discussion; no time is supplied for the return, recovery or September 30 departure."
+  },
+  "limitations": "The source jumps from the village approach at u4011 to a sunset feast referring to an already-completed jade meeting at u4032–u4049. It ends at u11543 after loot and table closing; the denouement proposed at u11361–u11367 is not present.",
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t21",
+        "t22",
+        "t23",
+        "t24",
+        "t28"
+      ],
+      "reading": "The last recorded played interval is the lair battle and loot; its exact civil date remains uncertain.",
+      "alternatives": [
+        {
+          "reading": "Keep the repeated roughly three-day lair-journey summary as approximate elapsed travel."
+        },
+        {
+          "reading": "Count the described third-day morning, subsequent camp and next-day arrival as a fourth inclusive travel day."
+        }
+      ]
+    }
+  ]
+}
