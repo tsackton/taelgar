@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-time-markers.json",
+    "sha256": "c01a881d1c02a8d15a422551f7c90e8589cacee57628baf6e6785599fdfcdb08"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-transcript.md",
+    "sha256": "212ba8ec430f582eba74f9f42a9de279af09f391e838bc39011b1d55e8d90b09"
+  },
+  "dateAssessment": "Working current-day date: June 27, 1749, from session YAML only; no absolute date is spoken. The transcript follows first light, noon, an early-afternoon visit and evening without a date boundary. Earlier prison recollections and the Tokra release remain retrospective background. The final overnight and next morning are plans, not completed elapsed play. The projected tropical voyage has its own unstated local watch.",
+  "watches": [
+    {
+      "day": "Earlier captivity",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Prisoner recollections use distorted subjective time; no civil date or elapsed adventure interval is established.",
+      "markers": [
+        "t01"
+      ],
+      "clock": "local",
+      "scope": "Retrospective prisoner frame"
+    },
+    {
+      "day": "June 27, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Narration returns to the ship; departure preparations take place at first light.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1749-06-27",
+      "endDate": "1749-06-27"
+    },
+    {
+      "day": "June 27, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Arrival in Chardon is retrospectively placed around noon.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1749-06-27",
+      "endDate": "1749-06-27"
+    },
+    {
+      "day": "June 27, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "DM calls the apartment visit early afternoon, after about an hour scouting and a few minutes disguising.",
+      "markers": [
+        "t04",
+        "t06"
+      ],
+      "startDate": "1749-06-27",
+      "endDate": "1749-06-27"
+    },
+    {
+      "day": "Remote view during the apartment meal",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Milo’s viewed vessel stops for a minute; its local watch is unstated.",
+      "markers": [
+        "t12"
+      ],
+      "clock": "local",
+      "scope": "Projected tropical channel"
+    },
+    {
+      "day": "June 27, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Tavern at 6:30 p.m.; roughly forty minutes sailing at sunset, then three-to-four-minute questioning and evening lodgings.",
+      "markers": [
+        "t07",
+        "t08",
+        "t09",
+        "t10",
+        "t11"
+      ],
+      "startDate": "1749-06-27",
+      "endDate": "1749-06-27"
+    }
+  ]
+}
