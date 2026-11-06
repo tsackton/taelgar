@@ -1,0 +1,481 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "labyrinths-of-the-lost-001",
+    "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml",
+    "sessionYamlSha256": "93f67f61f03927278fb9abdd8f3454fb229d3faa8d85bce873ce2a3910ed259e",
+    "transcriptPath": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-transcript.md",
+    "transcriptSha256": "b530fc3b627fe2aeb65e4e8898b1b972cfa2a8508468b713859c1b6db09c1d69",
+    "segments": {
+      "path": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-segments.json",
+      "sha256": "f370ca7b2240972bf4773a2a8582a482a601982a710611d6bad500881371de45",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Drunken goblins in the smithy",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Goblin warrior",
+              "kind": "turn",
+              "summary": "Comes through the door, spots Gaudin and charges with a shortsword; 17 hits for 5 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0529",
+                  "endUid": "u0559"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Enters the gambling room and casts Tasha’s Caustic Brew over the boss lady and Morky. Both fail DC 13 Dexterity saves (11 and 5), leaving them covered in acid that deals 7 damage at each turn’s start until scraped or washed off with an action. Retreats through the door.",
+              "evidence": [
+                {
+                  "startUid": "u0543",
+                  "endUid": "u0579"
+                },
+                {
+                  "startUid": "u0586",
+                  "endUid": "u0589"
+                }
+              ]
+            },
+            {
+              "actor": "Goblin boss lady",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack as Acescale retreats: 15 hits for 5 piercing damage. Acescale succeeds on the Constitution save and maintains the acid spell.",
+              "evidence": [
+                {
+                  "startUid": "u0580",
+                  "endUid": "u0589"
+                }
+              ]
+            },
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Runs between Dilion’s legs into the gambling room and strikes the boss lady twice with daggers. Both attacks are natural-20 criticals; the first resolves for 7 damage and the second for about 8, leaving the boss wounded.",
+              "evidence": [
+                {
+                  "startUid": "u0590",
+                  "endUid": "u0610"
+                }
+              ],
+              "note": "The first damage is spoken by Unknown and the second is repeated by the DM as “Like 8”; retain that reporting rather than calculating new totals."
+            },
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Attempts Shocking Grasp against the boss lady; she dodges and the attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u0611",
+                  "endUid": "u0618"
+                }
+              ]
+            },
+            {
+              "actor": "Morky",
+              "kind": "turn",
+              "summary": "Takes 7 acid damage, creates a circle of darkness covering himself, the boss and Dilion, then vanishes into it. The table fixes continuing acid damage at 7 per tick.",
+              "evidence": [
+                {
+                  "startUid": "u0619",
+                  "endUid": "u0645"
+                }
+              ]
+            },
+            {
+              "actor": "Goblin boss lady",
+              "kind": "turn",
+              "summary": "Takes the continuing acid damage, steps out of the darkness and orders an attack: a flying scimitar misses Dilion with 11. Swings at Loria with disadvantage, also missing with 11, then steps back into the darkness.",
+              "evidence": [
+                {
+                  "startUid": "u0630",
+                  "endUid": "u0650"
+                }
+              ]
+            },
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Moves away from the warrior toward the doorway, accepting an opportunity attack rather than using his action to Disengage. Then fires Eldritch Blast into the darkness at the boss lady with disadvantage; the lower result, 20, hits for 7 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0659",
+                  "endUid": "u0681"
+                }
+              ]
+            },
+            {
+              "actor": "Goblin warrior",
+              "kind": "reaction",
+              "summary": "As Gaudin moves away, strikes with disadvantage; 17 hits for 4 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0659",
+                  "endUid": "u0669"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Goblin warrior",
+              "kind": "turn",
+              "summary": "Runs through the door and attacks Acescale with disadvantage; 16 hits for 4 piercing damage. Acescale succeeds on the Constitution check and keeps concentration.",
+              "evidence": [
+                {
+                  "startUid": "u0682",
+                  "endUid": "u0696"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "The first dagger attack misses. After the warrior’s evasive reaction, throws the second dagger instead of making a second melee attack; it hits for 4 damage, leaving Acescale with one dagger.",
+              "evidence": [
+                {
+                  "startUid": "u0689",
+                  "endUid": "u0716"
+                }
+              ]
+            },
+            {
+              "actor": "Goblin warrior",
+              "kind": "reaction",
+              "summary": "On the first missed dagger strike, ducks beneath the blow and retreats 15 feet without provoking opportunity attacks. This is a retrospective correction to the movement within Acescale’s turn.",
+              "evidence": [
+                {
+                  "startUid": "u0707",
+                  "endUid": "u0716"
+                }
+              ]
+            },
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Attacks the boss lady in the darkness twice with daggers at disadvantage. The first roll of 7 does not land; the second hits, causing a scream of pain.",
+              "evidence": [
+                {
+                  "startUid": "u0718",
+                  "endUid": "u0733"
+                }
+              ],
+              "note": "The hit is confirmed, but the transcript omits an intelligible damage number."
+            },
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Shocking Grasp at disadvantage uses the lower roll of 18 and hits the boss lady for 3 lightning damage. She falls dead; the stated prevention of reactions has no further effect because she dies.",
+              "evidence": [
+                {
+                  "startUid": "u0734",
+                  "endUid": "u0763"
+                }
+              ]
+            },
+            {
+              "actor": "Morky",
+              "kind": "turn",
+              "summary": "Takes another acid tick, screams for someone to warn Folcan and flees out of the darkness toward the exit. The proposed opportunity attack is canceled because the assassin does not provoke.",
+              "evidence": [
+                {
+                  "startUid": "u0756",
+                  "endUid": "u0775"
+                }
+              ]
+            },
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Replaces his proposed door-barring action with Eldritch Blast after moving to where he can see Morky. Hits the fleeing assassin in the back and kills him; the darkness ends with Morky’s death.",
+              "evidence": [
+                {
+                  "startUid": "u0776",
+                  "endUid": "u0788"
+                },
+                {
+                  "startUid": "u0805",
+                  "endUid": "u0806"
+                }
+              ],
+              "note": "No damage total is spoken for the killing blast. The later in-combat clarification establishes when darkness ended."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Goblin warrior",
+              "kind": "turn",
+              "summary": "Dashes toward the outside exit without provoking opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u0789",
+                  "endUid": "u0791"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Pursues and casts Acid Splash at the fleeing warrior. Its Dexterity roll of 12 fails DC 13, dealing 2 acid damage; it remains standing.",
+              "evidence": [
+                {
+                  "startUid": "u0792",
+                  "endUid": "u0801"
+                }
+              ]
+            },
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Runs after the warrior, recognizes her other shortsword in its possession and hits with a dagger on 18. Damage is corrected from the die-only 1 to 4 total, killing it; she recovers the shortsword. The proposed second attack is unnecessary.",
+              "evidence": [
+                {
+                  "startUid": "u0807",
+                  "endUid": "u0819"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All three goblin jailers are dead. The chase ends outside the smithy and Loria recovers her sword; no enemy escape is established.",
+        "evidence": [
+          {
+            "startUid": "u0756",
+            "endUid": "u0763"
+          },
+          {
+            "startUid": "u0787",
+            "endUid": "u0788"
+          },
+          {
+            "startUid": "u0818",
+            "endUid": "u0819"
+          }
+        ]
+      },
+      "note": "The initiative cycle begins with the warrior, followed by Acescale, Loria, Dilion, Morky, the boss lady and Gaudin. The shared-UID action groups contain occasional narration for more than one actor."
+    },
+    {
+      "id": "c002",
+      "segmentId": "s008",
+      "encounter": "Folcan and the guards on the barracks path",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Begins prone and grappled inside the existing Fog Cloud. Attacks the grappling warrior with disadvantage, rolling two natural 20s for a critical. The sword deals 9 damage; the Savage Attacker reroll does not improve it. Her bird swarm adds 4 and kills the warrior, ending the grapple. Stands and makes a second shortsword attack at another goblin, which misses.",
+              "evidence": [
+                {
+                  "startUid": "u1577",
+                  "endUid": "u1618"
+                }
+              ]
+            },
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Moves between Folcan and the other goblin in the fog and casts Sword Burst. Both succeed on DC 13 Dexterity saves (19 and 14), with no damage resolved. Walks out of the fog and uses Misty Step to reach the other side of the hedgerow.",
+              "evidence": [
+                {
+                  "startUid": "u1619",
+                  "endUid": "u1646"
+                }
+              ]
+            },
+            {
+              "actor": "Folcan",
+              "kind": "turn",
+              "summary": "Steps out of the fog, sees Gaudin around the hedge and casts a hex. Gaudin fails the Wisdom save and falls prone, unable to stand until a successful end-of-turn Wisdom save. Folcan retreats farther.",
+              "evidence": [
+                {
+                  "startUid": "u1648",
+                  "endUid": "u1664"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining goblin warrior",
+              "kind": "turn",
+              "summary": "Runs out of the fog, takes out a shortbow and shoots at Dilion; a 6 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1666",
+                  "endUid": "u1675"
+                }
+              ],
+              "note": "Keiko’s Deflect Attack is proposed, but its range is questioned and no distinct resolved reaction or disadvantage roll is established."
+            },
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Uses his movement to leave cover and shoot the nearest warrior with a crossbow; 19 hits for 3 damage. Uses his bonus action to direct Keiko against that goblin.",
+              "evidence": [
+                {
+                  "startUid": "u1676",
+                  "endUid": "u1693"
+                }
+              ]
+            },
+            {
+              "actor": "Keiko",
+              "kind": "turn",
+              "summary": "Acts immediately after Dilion and dashes up to 80 feet into melee range of the warrior; no attack is resolved this turn.",
+              "evidence": [
+                {
+                  "startUid": "u1683",
+                  "endUid": "u1693"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Takes his delayed first turn at the end of the round following the mouse interruption. Fires the enchanted crossbow at the warrior; 15 hits for 10 piercing damage and kills it. Remains in position.",
+              "evidence": [
+                {
+                  "startUid": "u1665",
+                  "endUid": "u1665"
+                },
+                {
+                  "startUid": "u1676",
+                  "endUid": "u1681"
+                },
+                {
+                  "startUid": "u1695",
+                  "endUid": "u1701"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Ends Fog Cloud, casts Zephyr Strike as a bonus action and advances into melee with Folcan. Her single shortsword attack has advantage but the result of 12 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1702",
+                  "endUid": "u1723"
+                }
+              ]
+            },
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Still prone, fires Eldritch Blast at Folcan with disadvantage and misses AC 15. Fails the end-of-turn Wisdom save and remains unable to stand.",
+              "evidence": [
+                {
+                  "startUid": "u1724",
+                  "endUid": "u1747"
+                }
+              ]
+            },
+            {
+              "actor": "Folcan",
+              "kind": "turn",
+              "summary": "Moves back six squares and hexes Loria: her first movement before the end of his next turn will require a Constitution save or cause necrotic damage.",
+              "evidence": [
+                {
+                  "startUid": "u1730",
+                  "endUid": "u1747"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Fires the crossbow at Folcan; a natural 1 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1730",
+                  "endUid": "u1748"
+                }
+              ]
+            },
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Advances and critically hits Folcan with a natural-20 crossbow shot. Folcan is badly wounded, described as losing about half his hit points.",
+              "evidence": [
+                {
+                  "startUid": "u1751",
+                  "endUid": "u1760"
+                }
+              ],
+              "note": "The actual damage number is not spoken clearly; no total is reconstructed from dice or a stat block."
+            },
+            {
+              "actor": "Keiko",
+              "kind": "turn",
+              "summary": "Moves up to Folcan and hits in melee with 18 plus 5, dealing the stated maximum 10 damage. Folcan is still alive but on his last legs.",
+              "evidence": [
+                {
+                  "startUid": "u1753",
+                  "endUid": "u1775"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Runs up to Folcan, triggering the hex. Succeeds on the Constitution save with 20 and takes no damage. Chooses a nonlethal melee attack; 22 hits and the damage is corrected to 7. Folcan falls unconscious.",
+              "evidence": [
+                {
+                  "startUid": "u1776",
+                  "endUid": "u1791"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Folcan is unconscious and can be captured. Both warriors in this fight are dead. The barracks have not noticed the fight when it ends.",
+        "evidence": [
+          {
+            "startUid": "u1600",
+            "endUid": "u1618"
+          },
+          {
+            "startUid": "u1695",
+            "endUid": "u1700"
+          },
+          {
+            "startUid": "u1787",
+            "endUid": "u1791"
+          }
+        ]
+      },
+      "note": "Fog Cloud, Loria’s grapple and Folcan’s earlier poison blast occur during the preceding social confrontation. They are existing conditions when initiative starts; the conditional roll offered at u1423 was declined. Acescale’s delayed first turn does not change the later initiative cycle."
+    }
+  ]
+}

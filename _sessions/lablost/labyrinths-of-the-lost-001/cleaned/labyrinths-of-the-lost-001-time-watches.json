@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml",
+  "source": {
+    "path": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-time-markers.json",
+    "sha256": "d6d08ad0587e6f052708e38775ce012eaaeab2aeb7d9c00819b1bc5135f5b77b"
+  },
+  "transcript": {
+    "path": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-transcript.md",
+    "sha256": "b530fc3b627fe2aeb65e4e8898b1b972cfa2a8508468b713859c1b6db09c1d69"
+  },
+  "dateAssessment": "Working date: October 17, 1748, from session YAML. The transcript independently establishes waking just past noon, an extended short rest and late-afternoon play, with no calendar transition. The time extraction matches the one-day span conditionally; it does not independently verify the absolute date. The ledger’s January 12 example is background, and last-night capture is not a played flashback. Approximate 2–3, 3 and 4 p.m. reports remain distinct; the rest’s precise starting watch stays open. The dated campaign record also uses October 17. Proposed overnight waiting, tunnel travel and Folcan’s cover story have not occurred.",
+  "watches": [
+    {
+      "day": "October 17, 1748",
+      "startDate": "1748-10-17",
+      "endDate": "1748-10-17",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Wake just past noon; brief cell search and listening pause, then a ten-minute detection ritual.",
+      "markers": [
+        "t01",
+        "t02",
+        "t11",
+        "t03"
+      ]
+    },
+    {
+      "day": "October 17, 1748",
+      "startDate": "1748-10-17",
+      "endDate": "1748-10-17",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "About 2 p.m. before and 2–3 afterward; later breakdown gives one hour searching and thirty seconds fighting.",
+      "markers": [
+        "t04",
+        "t12",
+        "t05",
+        "t08",
+        "t09"
+      ]
+    },
+    {
+      "day": "October 17, 1748",
+      "startDate": "1748-10-17",
+      "endDate": "1748-10-17",
+      "startWatch": null,
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Rest lasts 1½–2 hours, ending about 3 p.m.; earlier 2–3 p.m. report leaves its starting watch open.",
+      "markers": [
+        "t06"
+      ],
+      "scope": "Extended short rest"
+    },
+    {
+      "day": "October 17, 1748",
+      "startDate": "1748-10-17",
+      "endDate": "1748-10-17",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Later planning is about 4 p.m.; the barracks approach follows in late afternoon.",
+      "markers": [
+        "t07",
+        "t10"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated Session 1 record",
+      "path": "Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 1.md",
+      "sha256": "2b0ab62afb741589394f7401178863830232161d1e5ff6c319d6ef8beac62db3"
+    }
+  ]
+}
