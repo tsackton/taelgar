@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-time-markers.json",
+    "sha256": "06b73c34c77e2e3c2b4be4ae643d83760421cddbcb744340e14dd00bcba2ecdb"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-transcript.md",
+    "sha256": "1b062b9ee1d606ae8cb4142486bea1b7aebab6de3cc6f312eeadacc360b654c0"
+  },
+  "dateAssessment": "Working campaign calendar: June 8–13, 1749, from the session YAML only. The transcript gives no civil date or clock. Its three or four nights of eastward travel, two later sleeps, roughly half a day and shorter intervals cannot independently verify five calendar transitions; the time extraction is compatible, not matched. The opening Sunwine Hall stay is prior-session recap, not two newly played days. The sun’s position changes with geography and supplies no civil watch. Open rows below preserve actual elapsed-time evidence without assigning unknown activity to an invented watch. The final proposed long rest is replaced by a short rest; the earlier Prayer of Healing takes ten minutes and grants benefits without adding an hour. Focused transcript handoffs confirm these endpoints: session 120 ends on leaving Sunwine Hall (u2158–u2178), and session 122 resumes outside the darkness (u0002–u0026); neither supplies a civil clock.",
+  "watches": [
+    {
+      "day": "Eastward journey",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Three or four nights of sleep precede arrival at the Sunset Gate; no civil watch is anchored.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "Northbound journey",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The travelers sleep, eat and sleep again before the borderlands; elapsed time remains uncertain.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "After Esmara’s departure",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "About half a day passes before the low hills and giant toll collectors.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "After bypassing the giants",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "A few hours, loosely suggested as three, five or seven, precede sighting the hunters.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "Pursuit before initiative",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "About 45 minutes of flight precede slowing down to engage the hunters.",
+      "markers": [
+        "t05"
+      ]
+    },
+    {
+      "day": "Battle aftermath: Wellby",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Wellby takes a few minutes to catch and remount the still-running wyvern.",
+      "markers": [
+        "t06"
+      ]
+    },
+    {
+      "day": "Battle aftermath: ground group",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Delwath’s ten-minute Prayer of Healing overlaps Seeker’s study; awarded rest benefits add no separate hour.",
+      "markers": [
+        "t07"
+      ]
+    },
+    {
+      "day": "Resumed northbound flight",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "An unmeasured travel interval passes after the ten-minute stop, until hunger returns.",
+      "markers": [
+        "t08"
+      ]
+    },
+    {
+      "day": "Before the river crossing",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "An actual short rest and meal pass; use the one-hour rest convention.",
+      "markers": [
+        "t09"
+      ]
+    },
+    {
+      "day": "Final approach",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "An unmeasured flight after crossing the river ends a few miles outside the darkness.",
+      "markers": [
+        "t10"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Previous-session departure from Sunwine Hall",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-transcript.md",
+      "sha256": "00bfd1b4dda9f48d3698c71ca8945617991c011bc28d817d127d2509a66577ab"
+    },
+    {
+      "label": "Following-session opening outside the darkness",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-transcript.md",
+      "sha256": "aee016d5485193ac66a78fdfd034d0d8f96775e9ff0cfd4af944e47b27d303e2"
+    }
+  ]
+}

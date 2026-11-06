@@ -1,0 +1,315 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-121",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-session.yaml",
+    "sessionYamlSha256": "cd366575bfd470e4056e6deebc0760da858822957bfea0262016edc9e7edc90e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-transcript.md",
+    "transcriptSha256": "1b062b9ee1d606ae8cb4142486bea1b7aebab6de3cc6f312eeadacc360b654c0",
+    "yamlDates": {
+      "start": "1749-06-08",
+      "end": "1749-06-13"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0287",
+        "endUid": "u0293"
+      },
+      "reading": "The party reaches the Sunset Gate after three or four nights of sleep during the eastward journey.",
+      "evidence": [
+        {
+          "startUid": "u0287",
+          "endUid": "u0288",
+          "quote": "So the conversation ebbs and flows. You find yourself time passing until after a few nights, 3, 4 nights sleep,"
+        },
+        {
+          "startUid": "u0289",
+          "endUid": "u0293",
+          "quote": "you see ahead of you the Sunset Gate, a massive wall that stretches as far as you can see into the sky, blocking further travel east. The— the light of the sunset itself, crystallized, and frozen into this shimmering wall that gleams and reflects the light in all directions."
+        },
+        {
+          "startUid": "u0296",
+          "endUid": "u0299",
+          "quote": "You are warned by both Valeris and Esmara that, you know, time in the Feywild, at least, although distances are inconstant and it’s hard to measure time, time flows in a sort of normal way. But crossing the Sunset Gate, all bets are off. You might find yourself crawling through a tunnel, and then, a year later, emerge at the end, even though it only felt like a moment for you. So it is difficult it is. It is risky to just step through the gate at unsupervised crossings, although there are, you know, borders that pass between realms from one side of the Sunset Gate to the other."
+        }
+      ],
+      "duration": {
+        "text": "three or four nights of travel and sleep",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM counts nights of sleep during the journey; no exact total in hours or 24-hour days is established"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0463",
+        "endUid": "u0472"
+      },
+      "reading": "Following the Sunset Gate north, the travelers eat and sleep twice before reaching the bleached borderlands; elapsed time remains uncertain.",
+      "evidence": [
+        {
+          "startUid": "u0463",
+          "endUid": "u0472",
+          "quote": "Time passes. You sleep. You eat, sleep again, hard, really, to say exactly how long it’s been. But eventually, you reach a point where you begin to see ahead of you, the color sort of bleaching from the land. I assume you're still flying at this point. So this is maybe 50 60 miles away. It's sort of on the edge of what you can see. The the vines fade, the landscape shifts to these rolling hills. The—sorry, the, the—even the plants begin to sort of turn a bit bleached, a bit gray and faded as you begin to push north and—"
+        }
+      ],
+      "duration": {
+        "text": "an uncertain interval including two sleeps",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM narrates sleep, eating and sleeping again, while explicitly withholding an exact elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0485",
+        "endUid": "u0489"
+      },
+      "reading": "Roughly another half day passes after Esmara’s departure, bringing the party to the low hills on the Amberglow border.",
+      "evidence": [
+        {
+          "startUid": "u0473",
+          "endUid": "u0484",
+          "quote": "Well, the satyr Valeris is on this quest for better or worse. Esmara, the scholar, is a little uncertain. \"Amberglow is dangerous,\" she says. I meant to come to the Sunset Gate, but I may turn south here and search for a dream warden to lead me across the Nocturne Vale, for we reached the point where we pass from west of Nocturne Vale to west of Hollowdark, and crossing becomes fraught with peril. So, unless anybody has a strong argument to try and convince her, she turns and bids you farewell.\nDM: Okay. Having gone far enough to observe the the sort of borderlands between Emberwine and Amberglow, but not quite willing to cross over into Amberglow.\nDM: So as she leaves, you continue flying. As you begin to reach beyond that."
+        },
+        {
+          "startUid": "u0485",
+          "endUid": "u0489",
+          "quote": "Maybe another half day passes or something, and you see a line of hills in front of you. Stark. The sort of yeah bleached plains of Emberwine in the distance. Sunset Gate still there along along the edge. But the colors sort of fracturing now into more grays and whites and everything sort of desaturated. You're still flying! How high up are you flying?"
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM narrates maybe another half day"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0693",
+        "endUid": "u0698"
+      },
+      "reading": "A few hours pass after bypassing the giants, before Wellby spots the mounted hunters.",
+      "evidence": [
+        {
+          "startUid": "u0693",
+          "endUid": "u0698",
+          "quote": "So as you sort of travel, you know, time passes. Like I said, you're not— You're not particularly feeling tired or hungry. But, Wellby, you do notice in—after some amount of time has passed, it’s hard to say exactly how much, but you’re well out of the rate—out of sight of the of the strange giants that you passed before, so few hours. 3, 5, 7 h! Something like that."
+        },
+        {
+          "startUid": "u0699",
+          "endUid": "u0702",
+          "quote": "You see running along the plains below, clearly, sort of, you know, in the distance, probably, I don't know, 15 miles away, 10 miles away from you, diagonally, but heading in your direction, what look like 2 or 3 sort of small figures on some kind of mount running in your direction with a sort of pack of something moving around them, hard to say what at this distance."
+        }
+      ],
+      "duration": {
+        "text": "a few hours, suggested as three, five or seven",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM explicitly advances play but offers several loose alternatives"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0818",
+        "endUid": "u0821"
+      },
+      "reading": "The party flies ahead of the hunters for about 45 minutes, then slows to let them close for combat.",
+      "evidence": [
+        {
+          "startUid": "u0818",
+          "endUid": "u0821",
+          "quote": "Right? Right? Right? Okay. So, so they're not gaining on you. Okay, so, like, an hour or half hour, whatever passes, and we're still— They're not really gaining on us.\nDM: Yeah, if anything, they're falling slightly behind."
+        },
+        {
+          "startUid": "u0839",
+          "endUid": "u0841",
+          "quote": "After about—so after, I don't know, 45 min, we'll start slowing and letting them slowly catch up.\nDelwath: Let's actually—I mean, I'll start by just slowing down a little bit, right? Give ourselves a little time to—"
+        }
+      ],
+      "duration": {
+        "value": 45,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Initial half-hour/hour suggestion is refined to about 45 minutes before slowing"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2556",
+        "endUid": "u2567"
+      },
+      "reading": "Wellby takes a few minutes to catch the wyvern and remount it; the creature continues flying along the wall.",
+      "evidence": [
+        {
+          "startUid": "u2556",
+          "endUid": "u2567",
+          "quote": "Okay, make an animal handling check. It takes you some time. You can. The only way you can fly faster than him is with your armor.\nWellby: I also have boots of speed.\nDM: Yeah, with using your Boots of Speed and your armor.\nDM: The griffins can't catch him, and it takes you a few minutes to catch up, and then sort of— you basically just fly up beside him and, you know, kind of managed to land on him, and he kind of shakes his shoulders a little bit, and turns back and snaps at you. But doesn't, like, directly throw you off. Flying along the wall, flying in sort of the direction you want to go, but you're not having much luck getting—fine mounting him, not having much luck getting him to slow down."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly states the time taken to catch up"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2631",
+        "endUid": "u2635"
+      },
+      "reading": "Delwath spends ten minutes casting Prayer of Healing while Seeker studies the hunters; short-rest benefits are awarded for that interval, with Wellby away.",
+      "evidence": [
+        {
+          "startUid": "u2631",
+          "endUid": "u2635",
+          "quote": "I mean, yeah, I was gonna say, I might—I might cast— if we're—before we set out, I might cast—I'm going to cast a prayer of healing, takes 10 min while, while Seeker's doing his stuff. Just to a—that'll heal 2D. 8.\nDM: Not to Wellby, though, because Wellby's off.\nDelwath: Correct. Everybody else heals 2D. 8,"
+        },
+        {
+          "startUid": "u2638",
+          "endUid": "u2648",
+          "quote": "So that's 10.\nDM: Okay, that's good for, for Seeker. Oh, I gotta mark off—\nDelwath: And you could take a short rest.\nDM: Anybody—\nDelwath: Wants to spend hit dice can.\nDM: Right. Seeker doesn't need to spend hit dice, and he gets back— he gets back Bardic inspiration. I just have to mark off the animating performance. Okay.\nDelwath: And that Kenzo gets back all his ki.\nDM: Yeah. Kenzo gets back all his ki."
+        },
+        {
+          "startUid": "u2661",
+          "endUid": "u2669",
+          "quote": "So you rest a bit, I mean, for 10 min, while Seeker's sort of thinking about the— what he's read about— these duskhands from Duskmire, Duskmire, and you then launch into the air to to catch up to to Wellby and continue flying north on your griffins, who are much better trained than the Wyvern, and when combat is over, all land in a circle once it’s safe to do so with the, with Valeris the satyr, and wait for you to remount. Over the next period of time, hard to say how long, you start to get hungry a bit."
+        },
+        {
+          "startUid": "u2739",
+          "endUid": "u2741",
+          "quote": "If we short rest again, I could get back all my Meta magic. I didn't have any spell slots when we 1st— well, I cast prayer of healing. We never short rested.\nDM: Right."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit spell-casting and rest narration; later clarification says this was not an actual short rest"
+      },
+      "completion": "completed",
+      "note": "The awarded resource recovery does not add a separate one-hour rest. Wellby’s remounting is not explicitly synchronized with this full ten-minute interval."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2661",
+        "endUid": "u2669"
+      },
+      "reading": "After the ten-minute stop, the party resumes flight north and eventually starts to get hungry; no further duration is measured.",
+      "evidence": [
+        {
+          "startUid": "u2661",
+          "endUid": "u2669",
+          "quote": "So you rest a bit, I mean, for 10 min, while Seeker's sort of thinking about the— what he's read about— these duskhands from Duskmire, Duskmire, and you then launch into the air to to catch up to to Wellby and continue flying north on your griffins, who are much better trained than the Wyvern, and when combat is over, all land in a circle once it’s safe to do so with the, with Valeris the satyr, and wait for you to remount. Over the next period of time, hard to say how long, you start to get hungry a bit."
+        }
+      ],
+      "duration": {
+        "text": "an unspecified period after the ten-minute stop",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM explicitly advances the resumed travel without measuring it"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2761",
+        "endUid": "u2767"
+      },
+      "reading": "The party completes a short rest with food before crossing the river; the earlier long-rest proposal is not carried out.",
+      "evidence": [
+        {
+          "startUid": "u2739",
+          "endUid": "u2745",
+          "quote": "If we short rest again, I could get back all my Meta magic. I didn't have any spell slots when we 1st— well, I cast prayer of healing. We never short rested.\nDM: Right.\nDelwath: Right. If we short rested, then we could all get heroic inspiration back, and I could get back my metamagic.\nWellby: It works.\nDelwath: That might be worth doing."
+        },
+        {
+          "startUid": "u2761",
+          "endUid": "u2767",
+          "quote": "We'll just use 1, 1 hit to assume—\nDelwath: Just use a 1 hit die, right? We're short resting.\nKenzo: Okay.\nRiswynn: I will use—\nDelwath: And this spell slot 5 gets—\nDM: Right, and everybody gets heroic inspiration back.\nKenzo: All right, back to full."
+        },
+        {
+          "startUid": "u2773",
+          "endUid": "u2774",
+          "quote": "So you cross the river, the—again, fairly high up—the grove, you know, the grove of dead trees below you. After having taken a short break, had some food. You were starting to get hungry."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention; the table explicitly resolves the rest and resource recovery"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2775",
+        "endUid": "u2782"
+      },
+      "reading": "Further travel after the river crossing brings the party within a few miles of the darkness; time remains hard to judge.",
+      "evidence": [
+        {
+          "startUid": "u2775",
+          "endUid": "u2782",
+          "quote": "Travel again. It's—it's hard to judge not just distance, but time. And you begin approaching closer and closer to this black wall, and you can see, actually, as you get closer that there's some variation, right? So there's some places where it seems deeper, and it almost seems to stretch—it sort of stretches to the sky, but somehow there's also, you know, pieces of light that that shine through it.\nDM: Where it looks more like a mist lying low to the, the ground. And we’ll stop here, about a few miles out from the edge of the blackness, where you can see—you can't—I mean, you can't see through the night. It's like—it's, it's not even just, like, darkness. It's like looking into a sort of dense black fog."
+        }
+      ],
+      "duration": {
+        "text": "an unmeasured travel interval",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM explicitly advances the approach and says time is difficult to judge"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No in-world calendar date or civil clock is spoken. June 8–13, 1749 comes solely from the session YAML. The opening recalls prior Sunwine Hall business before the current flight; it does not resolve a new two-day interval in this session.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10"
+    ],
+    "explanation": "The journey includes three or four nights of sleep, a later interval with two sleeps, roughly half a day, a few hours, a 45-minute pursuit, a ten-minute casting stop and a later short rest. Feywild lighting is stationary and the later sleeps do not establish civil midnights. An exact total cannot be reconstructed, so the five-day YAML span is compatible but unverified; no time is supplied from drEnd."
+  }
+}

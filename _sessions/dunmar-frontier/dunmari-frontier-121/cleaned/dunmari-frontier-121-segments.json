@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-121",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-session.yaml",
+    "sessionYamlSha256": "cd366575bfd470e4056e6deebc0760da858822957bfea0262016edc9e7edc90e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-transcript.md",
+    "transcriptSha256": "1b062b9ee1d606ae8cb4142486bea1b7aebab6de3cc6f312eeadacc360b654c0"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0024"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0035"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0036",
+        "endUid": "u0055"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0056",
+        "endUid": "u0882"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0883",
+        "endUid": "u0900"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0901",
+        "endUid": "u0931"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0932",
+        "endUid": "u2551"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2552",
+        "endUid": "u2793"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2794",
+        "endUid": "u2805"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
