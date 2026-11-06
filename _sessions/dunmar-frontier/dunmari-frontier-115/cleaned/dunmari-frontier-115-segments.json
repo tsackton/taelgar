@@ -1,0 +1,181 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-115",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-session.yaml",
+    "sessionYamlSha256": "f6f0007aab26d8490a5096fbc4231a5680033f05eb232eed3b02cfd4f0dc5520",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-transcript.md",
+    "transcriptSha256": "6702d711a413aa5d2dc849ecbec15468777717310594c39fcdef3c49e360995c"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0098"
+      },
+      "category": "gameplay",
+      "note": "The opening recap is explicitly narrated as the party telling Wellby what happened after returning to the temple; it is an in-world exchange."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0099",
+        "endUid": "u0226"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0227",
+        "endUid": "u0397"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0398",
+        "endUid": "u1072"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1073",
+        "endUid": "u1245"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1246",
+        "endUid": "u1378"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1379",
+        "endUid": "u1412"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1413",
+        "endUid": "u2176"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2177",
+        "endUid": "u2191"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2192",
+        "endUid": "u2443"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2444",
+        "endUid": "u2457"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2458",
+        "endUid": "u2584"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2585",
+        "endUid": "u2701"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2702",
+        "endUid": "u2778"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2779",
+        "endUid": "u2789"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2790",
+        "endUid": "u2853"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2854",
+        "endUid": "u2857"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2858",
+        "endUid": "u2908"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u2909",
+        "endUid": "u2944"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u2945",
+        "endUid": "u2953"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u2954",
+        "endUid": "u2959"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

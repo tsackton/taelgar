@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-time-markers.json",
+    "sha256": "2758da5397e152f60a4256860ad1f5bd1f1ebce4174c561fdebe2bf87611e3f6"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-transcript.md",
+    "sha256": "6702d711a413aa5d2dc849ecbec15468777717310594c39fcdef3c49e360995c"
+  },
+  "dateAssessment": "Working dates are May 23–24, 1749 from the session YAML. The transcript independently states May (t04) and establishes one completed overnight with waking the next morning (t11); it does not speak the day numbers or year. The earlier general rest credit and later post-consultation sleep describe one confirmed night, while the proposed final Drankor rest has not occurred. The two afternoon clock readings remain in conflict below; neither changes the supported day boundary.",
+  "watches": [
+    {
+      "day": "May 23, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Noon in Drankor; temple short rest precedes the university walk of less than an hour.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "startDate": "1749-05-23",
+      "endDate": "1749-05-23"
+    },
+    {
+      "day": "May 23, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Tollen entry at 2:30 p.m.; a total 90-minute guild wait implies about 4 p.m.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06"
+      ],
+      "startDate": "1749-05-23",
+      "endDate": "1749-05-23"
+    },
+    {
+      "day": "May 23, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Delwath later calls it 3 p.m., competing with the earlier arrival-plus-wait calculation.",
+      "markers": [
+        "t07"
+      ],
+      "scope": "Competing clock reading",
+      "startDate": "1749-05-23",
+      "endDate": "1749-05-23"
+    },
+    {
+      "day": "May 23, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Guild summons about 8 p.m.; four visitors wait a few minutes before the unseen voice speaks.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "startDate": "1749-05-23",
+      "endDate": "1749-05-23"
+    },
+    {
+      "day": "May 23–24, 1749",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Completed eight-hour overnight rest ends in stated morning; a midnight-watch start is inferred, with exact bedtime unstated.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1749-05-23",
+      "endDate": "1749-05-24"
+    },
+    {
+      "day": "May 24, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "After morning Plane Shift, Minarith’s restoration takes about five minutes; Antonius’s guide follows after about one.",
+      "markers": [
+        "t12",
+        "t13"
+      ],
+      "sourceRanges": [
+        [
+          "u2144",
+          "u2149"
+        ],
+        [
+          "u2172",
+          "u2174"
+        ]
+      ],
+      "startDate": "1749-05-24",
+      "endDate": "1749-05-24"
+    },
+    {
+      "day": "May 24, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Faldrak reports Fausto left the ship this morning, before the party’s arrival.",
+      "markers": [
+        "t14"
+      ],
+      "scope": "Ship report",
+      "startDate": "1749-05-24",
+      "endDate": "1749-05-24"
+    }
+  ]
+}

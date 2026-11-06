@@ -1,0 +1,2736 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "6702d711a413aa5d2dc849ecbec15468777717310594c39fcdef3c49e360995c"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-entity-map.json",
+      "sha256": "9de37342765ba73f113361c677de96f058878ec64fa8ad8052ecdff703ce5b9a"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The Laughing Wave mementos, as told to Wellby",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e044",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e048",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0034",
+        "endUid": "u0043"
+      },
+      "lines": [
+        "%% u0034:0-65, u0035:0-96, u0036:0-72, u0037:0-36, u0038:0-31, u0039:0-44, u0040:0-47, u0041:0-45, u0042:0-101, u0043:0-87 %%",
+        "DM: They tell you about how they stumbled into the Laughing Wave, the tavern that had been owned by Seraphina Appleblossom, the halfling, where they fought undead, who seemed to curse them with visions of sorrow, visions of the tavern being raided, being attacked by mages with gray, sort of ash-colored cloaks. They found shards of a punch bowl which they bring out, and then in the in the cellar of the Laughing Wave, the casings of fireworks where Kenzo sensed a strong connection to Seraphina, and flashes of images of halfling sitting on the roof of this tavern, laughing and dancing, and watching the fireworks explode over the river.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: In the basement, but I don't remember how we freed the ghost.",
+          "Seeker: Hmm.",
+          "DM: Okay, I will recap what you say to Wellby, as you explain to him. Schwartz, did you see the messages?",
+          "Wellby: Yeah, yeah, yeah.",
+          "DM: So you return to the temple, and Kenzo, Delwath, Riswynn and Seeker tell Wellby of their trip through the jungles of Drankor, following one of the main roads, past the—past the grand plaza, the huge sort of central market and open space in the middle of Drankor where the party dragged Seeker away from investigating a swarm of moths that seem to have been chewing on a building, following the road to the dockyard area where a row of taverns and sailors' inns once stood behind the large customs house that was one of the centers of shipping goods up the river from Drankor."
+        ],
+        "after": [
+          "DM: And serendipitously as well, in the chest, in the cellar of Laughing Wave, Kenzo found a coin, a strange foreign coin.",
+          "Seeker: Damn!",
+          "DM: A face on one side and a mountain rising out of the water on the other, had some connection to Khemut, one of the other 7 souls. Keeping the coin, but then asking the dwarven gods what to do next, or where else to go, were pointed to the Customs House, where much trade through Drankor came and went.",
+          "DM: And they tell you about entering the Customs House, rundown, mostly collapsed, sensing a pull of something connected to this Khemut person, stumbling into a room where a magic wardrobe seemed to preserve scrolls and notes and shipping manifests, but also a huge swirling creature of red mists stood cursed, or—",
+          "Kenzo: On guard."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Khemut’s coin and the two manifests, in the recap",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e045",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e046",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e047",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e051",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0044",
+        "endUid": "u0062"
+      },
+      "lines": [
+        "%% u0044:0-74, u0045:0-43 %%",
+        "DM: And serendipitously as well, in the chest, in the cellar of Laughing Wave, Kenzo found a coin, a strange foreign coin.",
+        "",
+        "%% u0046:0-5 %%",
+        "Seeker: Damn!",
+        "",
+        "%% u0047:0-71, u0048:0-55, u0049:0-55, u0050:0-31, u0051:0-83 %%",
+        "DM: A face on one side and a mountain rising out of the water on the other, had some connection to Khemut, one of the other 7 souls. Keeping the coin, but then asking the dwarven gods what to do next, or where else to go, were pointed to the Customs House, where much trade through Drankor came and went.",
+        "",
+        "%% u0052:0-76, u0053:0-60, u0054:0-116, u0055:0-52, u0056:0-9 %%",
+        "((Customs House guardian setup))",
+        "",
+        "%% u0057:0-48, u0058:0-96, u0059:0-94, u0060:0-106, u0061:0-101, u0062:0-33 %%",
+        "DM: And after banishing it and having a minute to, I dig through the scrolls, eventually finding both a shipping manifest from the ship Selem Shurga, Delwath translated from some unknown language as Sword of the Wind, describing spices and tea. Seemingly Khemut's ship, and also a another manifest describing the the last person, the Peronar Minarith. A description of some unusual but botanical samples to be sent to Minarith, Faculty of Natural History at the University of the Austene.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Hmm.",
+          "DM: Okay, I will recap what you say to Wellby, as you explain to him. Schwartz, did you see the messages?",
+          "Wellby: Yeah, yeah, yeah.",
+          "DM: So you return to the temple, and Kenzo, Delwath, Riswynn and Seeker tell Wellby of their trip through the jungles of Drankor, following one of the main roads, past the—past the grand plaza, the huge sort of central market and open space in the middle of Drankor where the party dragged Seeker away from investigating a swarm of moths that seem to have been chewing on a building, following the road to the dockyard area where a row of taverns and sailors' inns once stood behind the large customs house that was one of the centers of shipping goods up the river from Drankor.",
+          "DM: They tell you about how they stumbled into the Laughing Wave, the tavern that had been owned by Seraphina Appleblossom, the halfling, where they fought undead, who seemed to curse them with visions of sorrow, visions of the tavern being raided, being attacked by mages with gray, sort of ash-colored cloaks. They found shards of a punch bowl which they bring out, and then in the in the cellar of the Laughing Wave, the casings of fireworks where Kenzo sensed a strong connection to Seraphina, and flashes of images of halfling sitting on the roof of this tavern, laughing and dancing, and watching the fireworks explode over the river."
+        ],
+        "after": [
+          "DM: At this point, fleeing from the cursed Red Death, deciding not to face it any more than needed to be, and relying on Riswynn's divine magic to drive away the hordes of Undead that seem to roam the city, they tell you about coming back to the back, to the temple to find Wellby and discuss how you might find the University before—",
+          "Wellby: And maybe take a short rest before heading out again to find the last—",
+          "DM: of the 7 souls.",
+          "Wellby: So, after you relate all of that, Wellby shares news that I got from Sura while you were off hanging out in the tavern. I just put it in chat.",
+          "Delwath: Oh, fun!"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Sura’s news",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0072",
+        "endUid": "u0094"
+      },
+      "lines": [
+        "%% u0072:0-120, u0073:0-22 %%",
+        "Wellby: So, after you relate all of that, Wellby shares news that I got from Sura while you were off hanging out in the tavern. I just put it in chat.",
+        "",
+        "%% u0074:0-8 %%",
+        "Delwath: Oh, fun!",
+        "",
+        "%% u0075:0-6 %%",
+        "Wellby: Right.",
+        "",
+        "%% u0076:0-46 %%",
+        "Delwath: Fausto's the captain of their wizards. Great.",
+        "",
+        "%% u0077:0-58 %%",
+        "Kenzo: Wait, so Chardon's just like straight up attacking Dunmar?",
+        "",
+        "%% u0078:0-64, u0079:0-37 %%",
+        "Delwath: Yeah, that was always on the docket. We just were hoping to kill Apollyon before it actually happened.",
+        "",
+        "%% u0080:0-219, u0081:0-5 %%",
+        "Kenzo: I thought there was some weird like, detente? Weren't like the—because they're like Chardonian people like kind of—there was like some encampment, and they were kind of like hanging out and around, but they weren't like just—",
+        "",
+        "%% u0082:0-63 %%",
+        "DM: They, they were until yesterday, or this morning, or last night.",
+        "",
+        "%% u0083:0-20, u0084:0-27 %%",
+        "Delwath: Wait! Where is Sura? Where is this taking place?",
+        "",
+        "%% u0085:0-46 %%",
+        "DM: Sungara, on the northwestern border of Dunmar.",
+        "",
+        "%% u0086:0-62 %%",
+        "Delwath: Didn't we tell her to fall back and give up Sungara if needed?",
+        "",
+        "%% u0087:0-28 %%",
+        "DM: Yeah, and they probably are.",
+        "",
+        "%% u0088:0-19, u0089:0-24, u0090:0-28 %%",
+        "Delwath: Hold on one second. So wait. They're, they're—so like, what's Sura's plan?",
+        "",
+        "%% u0091:0-20 %%",
+        "DM: I mean to flee, but—",
+        "",
+        "%% u0092:0-104, u0093:0-37 %%",
+        "Riswynn: But there's already bad guys ahead of what would be the orderly retreat of the army headed towards Tokra is part of the problem, particularly.",
+        "",
+        "%% u0094:0-99 %%",
+        "DM: She's more concerned about the strange, shadowy assassins than she is about the Chardonian legions.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: On guard.",
+          "DM: And after banishing it and having a minute to, I dig through the scrolls, eventually finding both a shipping manifest from the ship Selem Shurga, Delwath translated from some unknown language as Sword of the Wind, describing spices and tea. Seemingly Khemut's ship, and also a another manifest describing the the last person, the Peronar Minarith. A description of some unusual but botanical samples to be sent to Minarith, Faculty of Natural History at the University of the Austene.",
+          "DM: At this point, fleeing from the cursed Red Death, deciding not to face it any more than needed to be, and relying on Riswynn's divine magic to drive away the hordes of Undead that seem to roam the city, they tell you about coming back to the back, to the temple to find Wellby and discuss how you might find the University before—",
+          "Wellby: And maybe take a short rest before heading out again to find the last—",
+          "DM: of the 7 souls."
+        ],
+        "after": [
+          "Riswynn: Reasonable.",
+          "Kenzo: [garbled] music, by the way.",
+          "Delwath: Not a ton we can do about that.",
+          "Kenzo: I mean.",
+          "Wellby: I think we just added to the list. Right? This is the most important thing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Considering the storm giant and centaurs",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e052",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0143",
+        "endUid": "u0178"
+      },
+      "lines": [
+        "%% u0143:0-35, u0144:0-155, u0145:0-46, u0146:0-35 %%",
+        "Kenzo: Oh, my God! Oh, my God! Oh, my God! Is there a way to like rally the Centaurs that we met in like the very beginning of the campaign to go and like, run over and do some crazy like, you know, or, or rouse the storm giant who I can talk to. I can actually talk to Storm Giant.",
+        "",
+        "%% u0147:0-22 %%",
+        "DM: That's right. You can.",
+        "",
+        "%% u0148:0-23, u0149:0-26 %%",
+        "Seeker: Oh, that's interesting! But where is he right now?",
+        "",
+        "%% u0150:0-56 %%",
+        "Kenzo: He's a storm giant. I'm sure he can get over there fast.",
+        "",
+        "%% u0151:0-21 %%",
+        "Riswynn: He's happily retired.",
+        "",
+        "%% u0152:0-181, u0153:0-64 %%",
+        "Kenzo: See, there's the thing. I feel like we could call in favors like that, like the Centaur and the Storm giant. Those are potential things, but that would be more like to fight Apollyon, like less to like handle some human domestic squabble, you know.",
+        "",
+        "%% u0154:0-141, u0155:0-5, u0156:0-30, u0157:0-17, u0158:0-17, u0159:0-24, u0160:0-50, u0161:0-39, u0162:0-59, u0163:0-230, u0164:0-48, u0165:0-32, u0166:0-33, u0167:0-45, u0168:0-113, u0169:0-58, u0170:0-33, u0171:0-34, u0172:0-113, u0173:0-5, u0174:0-28 %%",
+        "((Other possible allies))",
+        "",
+        "%% u0175:0-163 %%",
+        "Kenzo: I mean our friendly. The storm giant is is like, legit, friendly and powerful, like that actually is. Yeah. And the Centaurs also are legit, friendly and powerful.",
+        "",
+        "%% u0176:0-26 %%",
+        "Seeker: Yeah, although we haven't.",
+        "",
+        "%% u0177:0-5 %%",
+        "Delwath: Well.",
+        "",
+        "%% u0178:0-37 %%",
+        "Seeker: For the Centaurs we have for Hralgar.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Is it pretty bad? We can help Dunmar with information. Do we know of some critical—",
+          "Kenzo: One moment.",
+          "Seeker: Ability—chalyte assassins? Unfortunately, no.",
+          "Delwath: There—anybody we can send?",
+          "Seeker: No."
+        ],
+        "after": [
+          "Delwath: What about elves and Orenlas?",
+          "Kenzo: Yeah.",
+          "Seeker: Alright! Alright!",
+          "Kenzo: We just need to convince them that it's like, you know, either they owe us a favor, or it's like in their interest to go and intervene on behalf of the Dunmari. Okay, okay, if we can convince whomever that we're going to get to help intervene—and I think this is probably arguable. Maybe we need some proof that the Chardonians are in league with Apollyon, so that it's not just like, oh, some—but some human political squabble, but that the stakes are high, you know.",
+          "Delwath: Right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The proposed Urskan ally",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0193",
+        "endUid": "u0201"
+      },
+      "lines": [
+        "%% u0193:0-40, u0194:0-50 %%",
+        "Riswynn: This is, what about any of the powerful wizardy people of the super isolated, frosty land?",
+        "",
+        "%% u0195:0-9 %%",
+        "Seeker: Oh, yeah.",
+        "",
+        "%% u0196:0-36 %%",
+        "Riswynn: Or is all their power tied to their—",
+        "",
+        "%% u0197:0-4 %%",
+        "Delwath: Bad.",
+        "",
+        "%% u0198:0-6 %%",
+        "Riswynn: Thing.",
+        "",
+        "%% u0199:0-41 %%",
+        "Delwath: Oh, that, that Rania owes us a huge favor.",
+        "",
+        "%% u0200:0-28 %%",
+        "Riswynn: Yeah. But like I said, it's.",
+        "",
+        "%% u0201:0-87 %%",
+        "Delwath: Ursk, but they're wizards. Maybe they know how to cast teleport at least, or something.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: We just need to convince them that it's like, you know, either they owe us a favor, or it's like in their interest to go and intervene on behalf of the Dunmari. Okay, okay, if we can convince whomever that we're going to get to help intervene—and I think this is probably arguable. Maybe we need some proof that the Chardonians are in league with Apollyon, so that it's not just like, oh, some—but some human political squabble, but that the stakes are high, you know.",
+          "Delwath: Right.",
+          "Seeker: We do need to demonstrate that. Yeah.",
+          "Kenzo: If this were Game of Thrones we would just like bring a zombie in and be like, \"Look, it's a zombie. Believe everything we say,\" you know, and then it would just be solved. But, you know, I don't know if they need, you know—",
+          "Seeker: Right."
+        ],
+        "after": [
+          "Kenzo: Good.",
+          "Seeker: Right.",
+          "Kenzo: This is good also. Also, crazy, crazy—a wild card would be some Feywild thing like unleash some Feywild like madness into this whole situation and see what happens.",
+          "Delwath: We have the Cloud Spinner's tomb, with Cloud Spinner inside. Could we, like—",
+          "Seeker: That's right."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The excerpt is exact, but its Rania referent remains unresolved in the bound entity map."
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Cloud Spinner’s prison remains on the ship",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e055",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0206",
+        "endUid": "u0226"
+      },
+      "lines": [
+        "%% u0206:0-75 %%",
+        "Delwath: We have the Cloud Spinner's tomb, with Cloud Spinner inside. Could we, like—",
+        "",
+        "%% u0207:0-13 %%",
+        "Seeker: That's right.",
+        "",
+        "%% u0208:0-72 %%",
+        "Delwath: Could we, like rally Cloud Spinner's allies to come to the mortal world?",
+        "",
+        "%% u0209:0-36 %%",
+        "DM: Well, well, you don't have the tomb.",
+        "",
+        "%% u0210:0-22, u0211:0-17 %%",
+        "Seeker: Oh, is it on the ship? So Fausto has it.",
+        "",
+        "%% u0212:0-9 %%",
+        "Delwath: Now wait!",
+        "",
+        "%% u0213:0-13 %%",
+        "Seeker: Saying great.",
+        "",
+        "%% u0214:0-27 %%",
+        "Delwath: It's on the ship, isn't it?",
+        "",
+        "%% u0215:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u0216:0-34, u0217:0-41 %%",
+        "Seeker: Great. Good work, everybody. Whoops! Faldrak's in charge of that, or whatever.",
+        "",
+        "%% u0218:0-33 %%",
+        "Delwath: Wait! Have we contacted the ship?",
+        "",
+        "%% u0219:0-32 %%",
+        "DM: You tried to scry, scry, failed.",
+        "",
+        "%% u0220:0-10 %%",
+        "Seeker: Oh, great!",
+        "",
+        "%% u0221:0-49, u0222:0-135, u0223:0-47 %%",
+        "Kenzo: That's—it's definitely [garbled]. But that was—that is where he is. I mean this whole like, Oh, yeah, Chardonian, this and that. But Fausto is not there. He's definitely on the ship. There's no way he's not on the ship right now.",
+        "",
+        "%% u0224:0-96 %%",
+        "Seeker: I don't think we have any evidence of that, aside from just like being afraid that would happen.",
+        "",
+        "%% u0225:0-42 %%",
+        "Kenzo: He's definitely there. You gotta be there.",
+        "",
+        "%% u0226:0-79 %%",
+        "Seeker: But mentioning our fears in front of him is a way to manifest them, as we know.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Yeah. But like I said, it's.",
+          "Delwath: Ursk, but they're wizards. Maybe they know how to cast teleport at least, or something.",
+          "Kenzo: Good.",
+          "Seeker: Right.",
+          "Kenzo: This is good also. Also, crazy, crazy—a wild card would be some Feywild thing like unleash some Feywild like madness into this whole situation and see what happens."
+        ],
+        "after": [
+          "DM: Okay, let's do something.",
+          "Delwath: I think we.",
+          "Seeker: Let's make some calls.",
+          "Delwath: Go to the land—no, shouldn't we? Shouldn't we destroy the phylactery first?",
+          "Riswynn: Yeah, we need one. So we but."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The bird trinket and Minarith’s unsent warning",
+      "entities": [
+        {
+          "id": "e039",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e040",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1172",
+        "endUid": "u1245"
+      },
+      "lines": [
+        "%% u1172:0-49, u1173:0-75, u1174:0-102, u1175:0-48 %%",
+        "DM: And again it's like completely overgrown. There's, there's like a layer of plants growing of vines growing up from the bottom. But you do see that there is something glinting, some metallic thing glinting on the floor underneath, partially buried in dirt and, and plant material.",
+        "",
+        "%% u1176:0-38 %%",
+        "Wellby: Yeah, I'll take a look. What—what is—?",
+        "",
+        "%% u1177:0-13, u1178:0-71, u1179:0-91, u1180:0-205, u1181:0-53 %%",
+        "DM: It is a small—it looks like sort of hand carved wood and metal bird about palm-sized, very sort of elaborately made. You can see it was once painted. The paint is all worn away. It's a—it looks like it's basically like a dove or something like that. But the eyes and head are sort of inlaid with silver, and that's what you saw glinting. The rest of the body is carved out of marble. There is what looks like a compartment on the bottom.",
+        "",
+        "%% u1182:0-18 %%",
+        "Delwath: Compartment, like—?",
+        "",
+        "%% u1183:0-29 %%",
+        "DM: Like you could—like a little.",
+        "",
+        "%% u1184:0-11 %%",
+        "Delwath: And it's a—",
+        "",
+        "%% u1185:0-26 %%",
+        "DM: It's like some slide open.",
+        "",
+        "%% u1186:0-34 %%",
+        "Wellby: Check for traps and slide it open.",
+        "",
+        "%% u1187:0-34, u1188:0-16, u1189:0-61 %%",
+        "DM: Okay, make an investigation check. All right. Yeah. No, no traps, although it is in sort of strangely good shape.",
+        "",
+        "%% u1190:0-41 %%",
+        "Wellby: Magical [garbled]. I'll sort of hold it up.",
+        "",
+        "%% u1191:0-14 %%",
+        "Delwath: Is it magical?",
+        "",
+        "%% u1192:0-54 %%",
+        "DM: Yes, it is magical, weak aura of transmutation magic.",
+        "",
+        "%% u1193:0-70 %%",
+        "Delwath: It's probably going to turn into something or turn you into something.",
+        "",
+        "%% u1194:0-15 %%",
+        "Wellby: Do we find out?",
+        "",
+        "%% u1195:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u1196:0-20 %%",
+        "Wellby: Wellby will open it.",
+        "",
+        "%% u1197:0-73, u1198:0-46 %%",
+        "DM: A small rolled up scroll falls out like just a little piece of paper like the size of your index finger, tightly rolled.",
+        "",
+        "%% u1199:0-21 %%",
+        "Delwath: Is the scroll magic?",
+        "",
+        "%% u1200:0-5 %%",
+        "DM: Nope.",
+        "",
+        "%% u1201:0-17 %%",
+        "Delwath: What does it say?",
+        "",
+        "%% u1202:0-47, u1203:0-43 %%",
+        "DM: It is what looks like a note written in Elvish. It is addressed to—insert Elvish name here.",
+        "",
+        "%% u1204:0-29, u1205:0-85, u1206:0-5, u1207:0-30, u1208:0-41, u1209:0-41, u1210:0-42, u1211:0-25, u1212:0-20, u1213:0-20, u1214:0-75, u1215:0-108, u1216:0-51, u1217:0-82, u1218:0-47, u1219:0-15, u1220:0-25 %%",
+        "((Improvising an Elvish name and Tolkien discussion))",
+        "",
+        "%% u1221:0-25, u1222:0-52, u1223:0-66, u1224:0-5, u1225:0-44, u1226:0-26 %%",
+        "DM: It's addressed to Maglor. And it—it's, it's written in this tight, cramped hand. And it's, you know, \"I, I hope—I hope this message find you—finds you. I am—I am trusting to luck and this magic trinket to bring this note to you.",
+        "",
+        "%% u1227:0-10, u1228:0-15, u1229:0-21 %%",
+        "DM: I finally— They're coming. I can hide no longer.",
+        "",
+        "%% u1230:0-97, u1231:0-98, u1232:0-72, u1233:0-36, u1234:0-36, u1235:0-50, u1236:0-32, u1237:0-25 %%",
+        "DM: I know not what will happen to me, but few, if any, of our people have survived the Ashen Cloaks. I thought maybe my unimportance, for who really cares about the study of plants when down the hall there is the study of great magics and fire, and the planes and the gods that can reshape reality themselves. But it was always the case, I guess, that he would never let any of our people survive, and I have nowhere left to flee. Run if you can. Minarith.\"",
+        "",
+        "%% u1238:0-21 %%",
+        "Kenzo: Well, that's ominous.",
+        "",
+        "%% u1239:0-19 %%",
+        "Seeker: Where it was from?",
+        "",
+        "%% u1240:0-15 %%",
+        "Delwath: Minarith. Yeah.",
+        "",
+        "%% u1241:0-81, u1242:0-37, u1243:0-43 %%",
+        "DM: This—this is like clearly something connect—I mean, Kenzo is reading the strong soul—Minarith's soul aura—from this, both the bird trinket and this note itself.",
+        "",
+        "%% u1244:0-151 %%",
+        "Delwath: I mean, presumably the bird has some command word to turn into an actual bird and carry the trinket—carry the message, but it never—it never made it.",
+        "",
+        "%% u1245:0-26 %%",
+        "Seeker: It was never sent somehow.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Here we go. We all clamber.",
+          "Wellby: Way over the rubble.",
+          "Riswynn: He was.",
+          "Delwath: Did it on purpose. You were just trying to make it easier, right?",
+          "DM: So you reach what looks like—so a lot of the interior walls were probably wood, and have rotted, long ago rotted away. But there's still you know, little bits that are coming out of the exterior wall that make it look like this was a—this back corner was a row of offices, and the—not the corner office, but one in from the corner office is where Kenzo is leading you."
+        ],
+        "after": [
+          "Delwath: Yes. Okay. Should we teleport to Tollen? Are we waiting for anything?",
+          "Seeker: Did we get all of the clues we needed?",
+          "Delwath: Don't we have all 7?",
+          "Seeker: I don't know.",
+          "Delwath: We have the bird of—the little bird token of Minarith. We have the—what—the fireworks of the halfling, right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The note can serve as Minarith’s memento",
+      "entities": [
+        {
+          "id": "e039",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e040",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1440",
+        "endUid": "u1448"
+      },
+      "lines": [
+        "%% u1440:0-36 %%",
+        "Delwath: What about this little ancient bird?",
+        "",
+        "%% u1441:0-12 %%",
+        "Seeker: Oh! This is.",
+        "",
+        "%% u1442:0-40 %%",
+        "DM: You need. You need that for the memento.",
+        "",
+        "%% u1443:0-34 %%",
+        "Delwath: I thought we just needed the note.",
+        "",
+        "%% u1444:0-7 %%",
+        "Seeker: Scroll.",
+        "",
+        "%% u1445:0-83 %%",
+        "DM: Oh, well, that's true. You could. You could go with just the note. That's up to you.",
+        "",
+        "%% u1446:0-65 %%",
+        "Wellby: We should know what it does before we give it away, though, right?",
+        "",
+        "%% u1447:0-27 %%",
+        "Seeker: Well, it's just a delivery.",
+        "",
+        "%% u1448:0-55 %%",
+        "Delwath: Pretty sure it just turns into a bird and flies around.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: So we have to trade them an item, if I recall correctly. Do we have any magic items we're willing to part with?",
+          "Delwath: Hey, don't we have tons?",
+          "Seeker: Yeah, we have tons of items.",
+          "DM: In—on Vindristjarna.",
+          "Seeker: Oh! Crap!"
+        ],
+        "after": [
+          "Seeker: The problem is, the philosophers guild is pretty snooty about.",
+          "Delwath: Yeah, but it's super old.",
+          "Seeker: Items.",
+          "Delwath: I wonder if they'd be interested in.",
+          "Seeker: We're old. No, that's true, right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Motua and the guardians of souls",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1490",
+        "endUid": "u1512"
+      },
+      "lines": [
+        "%% u1490:0-41 %%",
+        "Kenzo: And Kenzo's been to the land of the dead.",
+        "",
+        "%% u1491:0-17 %%",
+        "Seeker: Oh, that's right.",
+        "",
+        "%% u1492:0-61 %%",
+        "DM: Kenzo's like friends with one of the protectors of the world.",
+        "",
+        "%% u1493:0-3 %%",
+        "Seeker: No.",
+        "",
+        "%% u1494:0-66 %%",
+        "Kenzo: So best, best practices for the homies, like, you know, pack light.",
+        "",
+        "%% u1495:0-3 %%",
+        "Seeker: Ow.",
+        "",
+        "%% u1496:0-15 %%",
+        "Kenzo: Sandwich, like.",
+        "",
+        "%% u1497:0-26, u1498:0-66, u1499:0-65, u1500:0-29, u1501:0-31, u1502:0-99 %%",
+        "DM: The biggest, the, the main— I mean from your time you spent—Kenzo spent like 3 or 4 days after healing Motua, like just sort of tending to the jungle and stuff. By far the biggest thing is: don't spend a lot of time there. Like, the longer the living spend on the land of the dead, the higher the chance they cannot return.",
+        "",
+        "%% u1503:0-55 %%",
+        "Kenzo: Yeah, sadly know, we all had wanted a longer stay. But—",
+        "",
+        "%% u1504:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1505:0-51, u1506:0-148, u1507:0-95, u1508:0-87, u1509:0-12, u1510:0-207, u1511:0-20, u1512:0-18 %%",
+        "DM: And also do not disturb the other thing. So the, the—Motua was one of these Gidari—Gidari, who are like the guardian. There's some extra—they're extraplanar creatures that are not associated with any god or demon, or any of the outer planes. And they are the guardians. That's what Grash fought. And they are the guardians, and they serve to keep anybody from interfering with souls. So not just, you know, to keep the like, you know, devils from trying to steal souls from the land of the dead, but also to keep like gods from trying to rescue the souls who were promised to hell or something like that. But don't interfere. I mean, we have a—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: If you have.",
+          "Delwath: The land of the Dead.",
+          "Seeker: Oh, there you go! We may want to be a little prepared about what even happens there.",
+          "Delwath: Maybe something basic like, are there any dangers to mortals going to the land of the dead?",
+          "Seeker: What do you recommend?"
+        ],
+        "after": [
+          "Delwath: Fairly large number of magic items. I mean, a lot of them are not that—",
+          "DM: Okay. So let's, you know, move it along here. Yeah. Think we should.",
+          "Delwath: I think we should ask the Philosophers Guild if they can work quickly. Let's just go in. 1st step: Go into the Philosopher's Guild. We're standing outside. Let's walk in.",
+          "Riswynn: Barter and say we'd like to ask one question. We will give you one very nice magical item, but if you can work fast we'll give you 3.",
+          "Delwath: Basically, we'll overpay. But we need the answers by dawn."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The guild’s expedited consultation and its price",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e041",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e042",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1525",
+        "endUid": "u1705"
+      },
+      "lines": [
+        "%% u1525:0-97, u1526:0-54, u1527:0-104, u1528:0-93, u1529:0-241, u1530:0-10, u1531:0-107, u1532:0-27, u1533:0-35 %%",
+        "DM: You step into the Philosopher's Guild, and it's similar to what you saw before. It's like—so it's, it's mid afternoon, right? It's 2 30 in the afternoon. There doesn't seem to be a lot of traffic at the moment. There's rarely a lot of traffic. There is a few people, one sort of middle-aged woman and one older man in white robes, members of the guild, one who greets you as you come in. There's 1 table where a couple people are sitting and talking, and that's the nature of this place. You can't, even though you're standing close to them, you can't hear what they're talking about, or really who it is. The middle-aged woman who greets you kind of looks you over a few times, interesting—interestedly, and asks, \"Well, what are you seeking? What could you possibly be seeking?\"",
+        "",
+        "%% u1534:0-64, u1535:0-42, u1536:0-29 %%",
+        "Seeker: We've done business here before, but this time we're in a hurry. Is there any way to get an answer by dawn? We have good things to trade.",
+        "",
+        "%% u1537:0-18 %%",
+        "DM: An answer to what?",
+        "",
+        "%% u1538:0-26 %%",
+        "Seeker: I turned to my companions.",
+        "",
+        "%% u1539:0-123 %%",
+        "DM: \"Come, sit, let us at least have some tea while you tell me.\" She motions you. \"I know of you. Of course I've spoken to Delios.\"",
+        "",
+        "%% u1540:0-48, u1541:0-34 %%",
+        "Delwath: We are—we have business on the land of the Dead—in the land of the Dead tomorrow.",
+        "",
+        "%% u1542:0-56 %%",
+        "DM: Not a sentence that has often been spoken in this world.",
+        "",
+        "%% u1543:0-7, u1544:0-31, u1545:0-35, u1546:0-77, u1547:0-24, u1548:0-56, u1549:0-32, u1550:0-18, u1551:0-26, u1552:0-45, u1553:0-64 %%",
+        "Delwath: And our question, our business involves souls who are—have been imprisoned being returned to their natural state, and being free in the land of the dead to go on to their fates. And our question, I guess, is twofold: what dangers await mortals on the land of the dead? And, second, what—what would aid, what, what—what would coax a soul to its rightful place? What would, what would bring a soul out to the land of the dead?",
+        "",
+        "%% u1554:0-24 %%",
+        "Riswynn: Help it find its place.",
+        "",
+        "%% u1555:0-48, u1556:0-63 %%",
+        "Delwath: Oh, there you go! Thank you. Thank you, Riswynn. Searching for the words. What would help a soul find its place?",
+        "",
+        "%% u1557:0-6 %%",
+        "Seeker: Great.",
+        "",
+        "%% u1558:0-30, u1559:0-35, u1560:0-64, u1561:0-50, u1562:0-61 %%",
+        "Delwath: And we would—we depart at dawn for the land of the dead. So we are greatly interested in whatever answers can be provided, but only if they can be provided before our appointed hour. Are we willing to give up the watcher's dagger? We are, right?",
+        "",
+        "%% u1563:0-11 %%",
+        "Wellby: I think so.",
+        "",
+        "%% u1564:0-59, u1565:0-4, u1566:0-3, u1567:0-14, u1568:0-17, u1569:0-33, u1570:0-124, u1571:0-18, u1572:0-11, u1573:0-49, u1574:0-79 %%",
+        "((Other offers, jokes and table interruptions))",
+        "",
+        "%% u1575:0-53, u1576:0-44 %%",
+        "Delwath: I'll start—I mean, we'll take out, to begin with the—I'll look at Wellby. I'll gesture to Wellby.",
+        "",
+        "%% u1577:0-8 %%",
+        "Wellby: We have.",
+        "",
+        "%% u1578:0-8 %%",
+        "Delwath: Perhaps.",
+        "",
+        "%% u1579:0-19 %%",
+        "Wellby: Oh, go ahead. Yeah.",
+        "",
+        "%% u1580:0-30 %%",
+        "Delwath: Perhaps an offer you would be—",
+        "",
+        "%% u1581:0-121, u1582:0-87 %%",
+        "Wellby: Well, I was gonna try and, and sell it a little bit, you know, from the closed cities to the east, this magnificent dagger. And he'll pull it out and set it on the table and say, \"You know what this is, I assume.\"",
+        "",
+        "%% u1583:0-42, u1584:0-92 %%",
+        "Delwath: And Delwath will add to the collection the Kadmos's Rod of the Pact Keeper, which I'd actually like to get rid of, but I won't say that.",
+        "",
+        "%% u1585:0-45, u1586:0-56, u1587:0-50, u1588:0-4 %%",
+        "DM: Kind of rubs her hands together a little bit. Touches each item briefly. Kind of looks up at you. \"12 h. Must ask. Do not know if such a thing is possible.\" Hmm!",
+        "",
+        "%% u1589:0-43 %%",
+        "Delwath: Course we understand. If it cannot be done.",
+        "",
+        "%% u1590:0-40 %%",
+        "Wellby: If it can be done, this will pay for it.",
+        "",
+        "%% u1591:0-56, u1592:0-17, u1593:0-50, u1594:0-16, u1595:0-15 %%",
+        "((Other offers, jokes and table interruptions))",
+        "",
+        "%% u1596:0-41 %%",
+        "Delwath: Have you heard of the Dragon Ra'ghemdros?",
+        "",
+        "%% u1597:0-75 %%",
+        "Wellby: Is there anything from their hoard that you particularly are interested in?",
+        "",
+        "%% u1598:0-25, u1599:0-30 %%",
+        "DM: This is not my specialty. Dragons, name sounds familiar.",
+        "",
+        "%% u1600:0-21 %%",
+        "Delwath: Cha'mutte's daughter.",
+        "",
+        "%% u1601:0-29 %%",
+        "DM: Yes, some rumor of that. Yes.",
+        "",
+        "%% u1602:0-43 %%",
+        "Delwath: Does information ever pique your curiosity?",
+        "",
+        "%% u1603:0-28, u1604:0-55 %%",
+        "DM: No real need of information. There is nothing you could tell me that I cannot learn.",
+        "",
+        "%% u1605:0-3, u1606:0-3, u1607:0-44, u1608:0-5, u1609:0-8, u1610:0-4, u1611:0-56, u1612:0-7, u1613:0-105, u1614:0-72, u1615:0-46, u1616:0-29 %%",
+        "((Other offers, jokes and table interruptions))",
+        "",
+        "%% u1617:0-35, u1618:0-16 %%",
+        "Delwath: Does antiquity interest you at all? Our older items?",
+        "",
+        "%% u1619:0-6 %%",
+        "DM: It is.",
+        "",
+        "%% u1620:0-3 %%",
+        "Delwath: Or.",
+        "",
+        "%% u1621:0-85, u1622:0-27 %%",
+        "DM: She sort of waves her hand. It is not a matter of convincing me. Let me, let me speak—my colleagues for a moment.",
+        "",
+        "%% u1623:0-21 %%",
+        "Delwath: Of course, of course.",
+        "",
+        "%% u1624:0-16, u1625:0-29 %%",
+        "DM: Just be patient. She gets up and she goes off.",
+        "",
+        "%% u1626:0-27 %%",
+        "Wellby: Patience, our one weakness.",
+        "",
+        "%% u1627:0-42 %%",
+        "DM: 10, 15, 20, 30 min passes, an hour passes.",
+        "",
+        "%% u1628:0-18 %%",
+        "Delwath: A lot of patience.",
+        "",
+        "%% u1629:0-28, u1630:0-39, u1631:0-55, u1632:0-21 %%",
+        "DM: An hour and a half, she comes—like, you've been served teas and stuff. She sits down. \"It's highly unusual, but it can be done. There are conditions.\"",
+        "",
+        "%% u1633:0-16 %%",
+        "Delwath: We're listening.",
+        "",
+        "%% u1634:0-30 %%",
+        "DM: Where are you staying tonight?",
+        "",
+        "%% u1635:0-16 %%",
+        "Riswynn: The nearest inn.",
+        "",
+        "%% u1636:0-48 %%",
+        "Delwath: We have no idea. We know tons of people, though.",
+        "",
+        "%% u1637:0-20 %%",
+        "Wellby: Yeah, or, or in town.",
+        "",
+        "%% u1638:0-5, u1639:0-94 %%",
+        "Delwath: Yeah. We'll stay—we'll be staying. I mean, I'm going to go. I want to talk to the Elven Ambassador.",
+        "",
+        "%% u1640:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1641:0-64, u1642:0-24 %%",
+        "Delwath: But, but I'm going to wander around while these guys are resting. Just—well, some we must.",
+        "",
+        "%% u1643:0-53 %%",
+        "DM: We know some inns, we'll pick an inn, an inn we know.",
+        "",
+        "%% u1644:0-65, u1645:0-11, u1646:0-4, u1647:0-10, u1648:0-15, u1649:0-39 %%",
+        "((Other offers, jokes and table interruptions))",
+        "",
+        "%% u1650:0-24, u1651:0-60, u1652:0-61, u1653:0-56 %%",
+        "DM: So here's what she says. \"This is what will happen if you would like to make the deal. Do not know exactly at what time the information will arrive, but a messenger will be sent—will come here immediately.\"",
+        "",
+        "%% u1654:0-52, u1655:0-93, u1656:0-35, u1657:0-31, u1658:0-54, u1659:0-76, u1660:0-79 %%",
+        "DM: \"We will provide a private room where you will strip, change into robes we provide. Bring no items, no magic, nothing of your possession, with you. You will follow me to another room where you will be able to speak and hear, but not see whom you are communicating with. And you will be able to ask them questions concerning topic of your inquiry. These conditions are acceptable? We'll take the items and make the arrangement.\"",
+        "",
+        "%% u1661:0-5 %%",
+        "Delwath: Sure.",
+        "",
+        "%% u1662:0-22, u1663:0-114, u1664:0-26, u1665:0-74, u1666:0-57, u1667:0-86, u1668:0-29, u1669:0-97, u1670:0-10, u1671:0-84 %%",
+        "((Other offers, jokes and table interruptions))",
+        "",
+        "%% u1672:0-54 %%",
+        "Delwath: That's a good question. How long is this conversation?",
+        "",
+        "%% u1673:0-45 %%",
+        "Wellby: 26 Insight. Is that—is she on the level like—?",
+        "",
+        "%% u1674:0-60, u1675:0-116, u1676:0-3 %%",
+        "DM: I mean, she's like a little nervous, but it's more of a like, \"You don't really do this,\" like, kind of thing. Not like she's trying— I mean, she definitely seems on the level. Yeah. Oh.",
+        "",
+        "%% u1677:0-32 %%",
+        "Delwath: How long will we have with this—?",
+        "",
+        "%% u1678:0-17 %%",
+        "DM: Are as discussed.",
+        "",
+        "%% u1679:0-5 %%",
+        "Riswynn: Yeah.",
+        "",
+        "%% u1680:0-95, u1681:0-9 %%",
+        "DM: You would like to know advice about traveling to the land of the dead, and how to restore souls to their—",
+        "",
+        "%% u1682:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u1683:0-10 %%",
+        "DM: own fates.",
+        "",
+        "%% u1684:0-73, u1685:0-87 %%",
+        "DM: While you are there, you will have some minutes to speak on these topics. But only these topics. Any questions that stray from these topics will not be answered.",
+        "",
+        "%% u1686:0-87 %%",
+        "Riswynn: Will our possessions be guaranteed to be safe from outside influence during this time?",
+        "",
+        "%% u1687:0-32 %%",
+        "Delwath: I assume we're not all gonna go.",
+        "",
+        "%% u1688:0-32 %%",
+        "Riswynn: Okay, they can guard the stuff.",
+        "",
+        "%% u1689:0-97 %%",
+        "Delwath: Because I think there's 1 of our possessions we're not letting out of our possession. [garbled].",
+        "",
+        "%% u1690:0-39, u1691:0-38 %%",
+        "Riswynn: Yeah, that's kind of how I was feeling. That's a smart solution, though—Noah.",
+        "",
+        "%% u1692:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1693:0-10 %%",
+        "DM: You agree?",
+        "",
+        "%% u1694:0-30, u1695:0-29 %%",
+        "Riswynn: If she agrees to let one of us keep our stuff and not go in.",
+        "",
+        "%% u1696:0-77 %%",
+        "Delwath: I mean, there's no obligation for all of us to attend this meeting. Is there?",
+        "",
+        "%% u1697:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u1698:0-33 %%",
+        "Riswynn: Okay, just making that statement.",
+        "",
+        "%% u1699:0-61 %%",
+        "Kenzo: I should probably go. I've actually been to the land of Dead.",
+        "",
+        "%% u1700:0-4, u1701:0-7, u1702:0-5 %%",
+        "Delwath: Yes. Option. Okay.",
+        "",
+        "%% u1703:0-63 %%",
+        "DM: Takes the Rod of the Pact Keeper, and, and the watcher's dagger.",
+        "",
+        "%% u1704:0-4 %%",
+        "Delwath: Yep.",
+        "",
+        "%% u1705:0-13 %%",
+        "DM: And goes off.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I think we should ask the Philosophers Guild if they can work quickly. Let's just go in. 1st step: Go into the Philosopher's Guild. We're standing outside. Let's walk in.",
+          "Riswynn: Barter and say we'd like to ask one question. We will give you one very nice magical item, but if you can work fast we'll give you 3.",
+          "Delwath: Basically, we'll overpay. But we need the answers by dawn.",
+          "Seeker: Yeah.",
+          "Delwath: And if you can't give us answers by dawn, it doesn't help us. We're leaving."
+        ],
+        "after": [
+          "Delwath: All right. A few things we want to do.",
+          "Seeker: Yeah,",
+          "Delwath: Find a dead—I mean, we need to find our dead person.",
+          "Seeker: Right.",
+          "Delwath: Which I imagine, isn't that hard? But we still have to do it. I want to go talk to the Elven Ambassador, who, I had a decent relationship with, and see if he has any ideas on helping with Dunmari. Is there anybody else who we think might be able to help the Dunmari here? The Skaer, probably not, right? They kind of owe us. But—oh, Delwath could go talk to the Centaur."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Remembering the bargain with Caelynn",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e050",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1726",
+        "endUid": "u1750"
+      },
+      "lines": [
+        "%% u1726:0-10, u1727:0-55, u1728:0-39 %%",
+        "Delwath: The other I was mildly tempted to go talk to was Caelynn the Fae. But I don't know if that's a good idea.",
+        "",
+        "%% u1729:0-75 %%",
+        "Wellby: Really don't know if it's a good idea. I do really enjoy talking with them.",
+        "",
+        "%% u1730:0-54, u1731:0-2 %%",
+        "Delwath: Right, like it sounds like a really fun, terrible idea. T.",
+        "",
+        "%% u1732:0-25, u1733:0-29 %%",
+        "((Other possible contacts))",
+        "",
+        "%% u1734:0-50 %%",
+        "Delwath: Wait. She wasn't from Cloud Spinner's realm, right?",
+        "",
+        "%% u1735:0-39 %%",
+        "DM: No, she was from West, from Dreamhaven.",
+        "",
+        "%% u1736:0-95, u1737:0-9, u1738:0-2, u1739:0-24, u1740:0-33, u1741:0-58, u1742:0-58, u1743:0-7 %%",
+        "Delwath: I mean, I kind of almost would want to go ask her if she knows of any of Cloud Spinner's Allies anywhere. T. But that could go badly. But, I mean, we could do it anyway. She wanted to steal our memories last time, I think, right? But what was the deal with the last time we talked to her? Do you—?",
+        "",
+        "%% u1744:0-14 %%",
+        "DM: We give her a—",
+        "",
+        "%% u1745:0-29 %%",
+        "Delwath: Book, or something like that.",
+        "",
+        "%% u1746:0-43 %%",
+        "DM: Gave her Seeker's legendary Gates of Kenzo.",
+        "",
+        "%% u1747:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u1748:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1749:0-30, u1750:0-96 %%",
+        "DM: She—she asked you for stories kind of with the implication that she wanted to steal them, and Seeker offered the book instead.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Oh, yeah, I got, yeah.",
+          "Riswynn: Got a lady in this town.",
+          "Kenzo: I do have a lady in this town. Yeah, no.",
+          "Delwath: Yeah, yeah.",
+          "DM: Talk to, like the priestess at the top. The—"
+        ],
+        "after": [
+          "Delwath: I just—I wonder how she'd react with just a straightforward, \"We're in a tearing hurry. Stop your games. We have information that will shake the entire Feywild. Do you want to know it?\"",
+          "Wellby: What do we want from her in return?",
+          "Delwath: Allies of Cloud Spinner, who might be willing to fight the—Dunmar, the, the chalyte zombies in Dunmar in exchange, you know, on the theory that it's helpful to—it's a bit of a tenuous connection, which is why I'm not sure it's worth it. But—",
+          "Seeker: They would just come with us to the ship.",
+          "Delwath: Oh, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Melindir’s advice, warning and gift",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1891",
+        "endUid": "u1969"
+      },
+      "lines": [
+        "%% u1891:0-43 %%",
+        "DM: And then you speak to the Elven Ambassador.",
+        "",
+        "%% u1892:0-4 %%",
+        "Delwath: Yep.",
+        "",
+        "%% u1893:0-33, u1894:0-7 %%",
+        "DM: Everybody else takes a long rest. I mean.",
+        "",
+        "%% u1895:0-15, u1896:0-76, u1897:0-47 %%",
+        "DM: So Melindir is—I mean, he's certainly sympathetic to the cause. Promises to send a message. There's—it's a long way from Orenlas to Dunmar.",
+        "",
+        "%% u1898:0-102, u1899:0-29, u1900:0-60, u1901:0-51, u1902:0-49, u1903:0-86, u1904:0-10 %%",
+        "DM: Long gone are the days of elves, you know, teleporting around the world or transiting via the Feywild. But he doesn't know how much—doesn't know how much aid they'll be able to send for sure. And of course, you know, Orenlas has always, since the fall of Isingue, always been quite reclusive. And most of its martial energy has gone to defending its borders with the Plaguelands. Thank you.",
+        "",
+        "%% u1905:0-98, u1906:0-106 %%",
+        "Delwath: I mean the other, there's actually less a direct ask is to send elves. But like, is there anybody, any—anything? I mean— I'll explain to him without getting into all the details about Apollyon, that after—",
+        "",
+        "%% u1907:0-4, u1908:0-80 %%",
+        "DM: Just—I mean, the closest allies possibly are the Stoneborn, who live in the mountains.",
+        "",
+        "%% u1909:0-94 %%",
+        "Delwath: It's a good idea. Do we have any way of getting a—oh, just wait, let's do a Sending to Drikod.",
+        "",
+        "%% u1910:0-4, u1911:0-18, u1912:0-5, u1913:0-15, u1914:0-48, u1915:0-137, u1916:0-63 %%",
+        "((Sending rules and an interrupted suggestion))",
+        "",
+        "%% u1917:0-67, u1918:0-31, u1919:0-44, u1920:0-55, u1921:0-23 %%",
+        "Delwath: Yeah, yeah, absolutely. That's a great idea. Let's send for Drikod. See if he can get anybody down, and the next day, you know, see if they can— That's like right up his—and he, he is—didn't he, like, join the Shakun Mystai?",
+        "",
+        "%% u1922:0-34 %%",
+        "DM: He did, he would totally go help!",
+        "",
+        "%% u1923:0-5, u1924:0-156 %%",
+        "Delwath: Yeah. Send Drikod. Brilliant idea. Thanks, Melindir. We actually know a stone—I'll tell them I actually know a stoneborn near there. I just didn't think of that.",
+        "",
+        "%% u1925:0-66 %%",
+        "DM: So you send a message to Drikod, and he is perfectly happy to—and—",
+        "",
+        "%% u1926:0-8, u1927:0-35, u1928:0-49 %%",
+        "((Sending rules and an interrupted suggestion))",
+        "",
+        "%% u1929:0-122, u1930:0-50, u1931:0-27, u1932:0-157, u1933:0-54, u1934:0-30, u1935:0-54 %%",
+        "Delwath: No, I, I want to warn him. I'm not sure exactly how to phrase this, but I want to warn him that if, that if we don't succeed like some really bad things might start happening. And, like, also not to trust—I don't know. I feel like if things go wrong, we're gonna be like possessed by Apollyon and come back to like kill everybody we know, or something like that. I just want it in his head that maybe, like, you know, he should be preparing for, for—the elves should be preparing for a terrible calamity.",
+        "",
+        "%% u1936:0-57 %%",
+        "Seeker: Yeah, tell them about the simulacra troubles that we had.",
+        "",
+        "%% u1937:0-85, u1938:0-153, u1939:0-66 %%",
+        "Delwath: Yeah, I mean, I'll tell them about the simulacra, I'll tell them about—you know what? Yeah, I'm just gonna—you know what, the elves need to know. I'm going to tell them that Apollyon is about to break free, and that we're going to stop him. But if we fail, Apollyon will be back, and the elves need to know.",
+        "",
+        "%% u1940:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1941:0-83 %%",
+        "Delwath: And we don't have time to go back to Orenlas, but get a message to what's her name?",
+        "",
+        "%% u1942:0-8 %%",
+        "DM: Arheste.",
+        "",
+        "%% u1943:0-68, u1944:0-102, u1945:0-22, u1946:0-16, u1947:0-84, u1948:0-37, u1949:0-64 %%",
+        "Delwath: Arheste. She knows our quest, and, and the next couple—we're going to the land of the dead in the morning to destroy his phylactery, and then back to Drankor to destroy him immediately after, and if it goes badly he will be loose on the world again, and probably be controlling us in some fashion. And to get word to the elves of this—these dangers to the trusted people in the elfin—blah, blah, blah.",
+        "",
+        "%% u1950:0-77, u1951:0-73, u1952:0-21, u1953:0-57, u1954:0-32 %%",
+        "DM: He takes this all in, and promises to send the news, and wishes you luck, and goes like in his office, and, and roots around a little bit and pulls out a small crystal vial. \"I don't know if this will do any good where you're going. It's a protection against charm.\"",
+        "",
+        "%% u1955:0-20 %%",
+        "Delwath: My, I appreciate it.",
+        "",
+        "%% u1956:0-44 %%",
+        "DM: All I have to offer. Little use for it here.",
+        "",
+        "%% u1957:0-12, u1958:0-11 %%",
+        "Delwath: Okay, great. Thankfully.",
+        "",
+        "%% u1959:0-80 %%",
+        "DM: Charms, but I know you travel with companions who may not have your resistances.",
+        "",
+        "%% u1960:0-40 %%",
+        "Delwath: It's, it's just resistance, not immunity.",
+        "",
+        "%% u1961:0-76 %%",
+        "DM: It's just advantage against saves against charm for an hour. It's basically.",
+        "",
+        "%% u1962:0-11, u1963:0-4, u1964:0-10, u1965:0-28 %%",
+        "Delwath: Yeah. Okay. Yep. There are—my companions could benefit.",
+        "",
+        "%% u1966:0-18, u1967:0-86, u1968:0-32, u1969:0-45 %%",
+        "DM: Kind of, you know, looks into your eyes and like shakes your hand and wishes you luck, and then you go as you hear the message from Wellby like, what, 8? This is evening, right, I guess?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: 90.",
+          "DM: Yeah, there, I mean, they're a bit taken aback, but also sort of in awe of the raw power demonstrated by the 2 or 3 or 4 of you, however many are going, and although won't let you take the body, certainly have no objection to you coming and casting a spell here as long as it doesn't harm the soul of the deceased.",
+          "Kenzo: Which we can promise, or—?",
+          "Delwath: We can promise that. No, our, our souls are the only ones at risk.",
+          "Kenzo: Yeah."
+        ],
+        "after": [
+          "Delwath: Yeah.",
+          "DM: It's about 8 o'clock. Philosopher's guild says, \"Come now.\"",
+          "Riswynn: At night or in the morning?",
+          "Delwath: Fucking night. So who's going? Kenzo's going? Wait! Am I at Melindir's when this happens?",
+          "DM: Yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The unseen voice on the Land of the Dead",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1994",
+        "endUid": "u2137"
+      },
+      "lines": [
+        "%% u1994:0-44, u1995:0-46, u1996:0-31, u1997:0-78, u1998:0-42, u1999:0-47, u2000:0-90, u2001:0-23, u2002:0-43 %%",
+        "DM: So you arrive the—at the Philosophers Guild. And it's, it's night, and it's quiet and you're—you're led into the—it—into the same tea room, and then taken back through a hallway and, and left in a, a small room with, with 5 white robes hanging, sized 2 for dwarves, 2 for humans, one for halflings. And she, the same middle-aged woman, shuts the door, and then says, you know, \"Please change. Bring nothing with you. Your possessions will be safe in this room.\"",
+        "",
+        "%% u2003:0-5 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u2004:0-68 %%",
+        "DM: And when you are ready, follow me. I'll be waiting outside the door.",
+        "",
+        "%% u2005:0-11 %%",
+        "Seeker: Okay. Yeah.",
+        "",
+        "%% u2006:0-3 %%",
+        "Wellby: No.",
+        "",
+        "%% u2007:0-5 %%",
+        "DM: Okay?",
+        "",
+        "%% u2008:0-76, u2009:0-21, u2010:0-43, u2011:0-67 %%",
+        "DM: So you walk through the sort of marble hallway and you come to a small room that has a—let's see. Try this small room that's completely dark. There's no light at all, dark even to your darkvision-adjusted eyes.",
+        "",
+        "%% u2012:0-43 %%",
+        "Delwath: Even the Devil's Sight you can see through?",
+        "",
+        "%% u2013:0-21, u2014:0-33, u2015:0-39, u2016:0-39, u2017:0-63, u2018:0-76, u2019:0-35 %%",
+        "DM: Not to devil's sight. It's a, it's a small room, and she leads you and sits you down on a bench. There's no, there's, there's just walls. There's the one bench, and then she says, \"I apologize, but just out of an abundance of caution—\" She goes, and she blindfolds each one of you. And then she steps out of the room.",
+        "",
+        "%% u2020:0-20, u2021:0-18, u2022:0-39, u2023:0-68 %%",
+        "((Brief asides about cheating and the agreed scope of questions))",
+        "",
+        "%% u2024:0-34, u2025:0-76 %%",
+        "DM: Nothing happens for a few minutes. And then you feel a wave of heat, and you hear a voice: \"Speak your questions.\"",
+        "",
+        "%% u2026:0-5, u2027:0-53 %%",
+        "Delwath: What—what dangers do mortals face in the land of the dead?",
+        "",
+        "%% u2028:0-66, u2029:0-36, u2030:0-42, u2031:0-66, u2032:0-30, u2033:0-28, u2034:0-32, u2035:0-38 %%",
+        "DM: And each minute that passes brings you closer and closer to death. Those who sleep there rarely return. The very essence of the land wears on you. You forget your body, your soul forgets how to move physical form. Bodies cannot live long there. You can take no nourishment. Water turns to dust, food to ash. No wounds can heal, no magic restored.",
+        "",
+        "%% u2036:0-53 %%",
+        "Delwath: Good thing we weren't planning on long resting there.",
+        "",
+        "%% u2037:0-5, u2038:0-34 %%",
+        "Seeker: Nice. What was the last thing? No magic?",
+        "",
+        "%% u2039:0-42 %%",
+        "Delwath: No magic. You can't get back spell slots.",
+        "",
+        "%% u2040:0-26 %%",
+        "DM: No magic can be restored.",
+        "",
+        "%% u2041:0-16 %%",
+        "Seeker: Restored. I see.",
+        "",
+        "%% u2042:0-40 %%",
+        "DM: It is not a place for mortals to travel.",
+        "",
+        "%% u2043:0-13, u2044:0-110 %%",
+        "Delwath: Are there any beings that would try to drive us off or stop us from being there? Or is the danger primarily the land itself?",
+        "",
+        "%% u2045:0-54 %%",
+        "DM: Only should you interfere with souls in their journey.",
+        "",
+        "%% u2046:0-64 %%",
+        "Delwath: What about souls we bring there? Is that considered interfering?",
+        "",
+        "%% u2047:0-43, u2048:0-21 %%",
+        "DM: Cannot bring souls to the land of the dead. Well, one should not.",
+        "",
+        "%% u2049:0-4 %%",
+        "Delwath: Not.",
+        "",
+        "%% u2050:0-63, u2051:0-78, u2052:0-63, u2053:0-32, u2054:0-99 %%",
+        "DM: There's like a sort of low, rumbling sound, and then a screech. And then silence for a moment, and then the voice shifts to a higher register. \"Souls, souls transit through the land of the dead. They do not—you must not change their fates. Whatever was meant to be should happen. Those who interfere with the fates of the souls are cursed.\"",
+        "",
+        "%% u2055:0-53, u2056:0-18 %%",
+        "Delwath: We intend to restore 7 souls to their original fates. Is that dangerous?",
+        "",
+        "%% u2057:0-56 %%",
+        "DM: That is truly your purpose? The Gidari will protect you.",
+        "",
+        "%% u2058:0-9 %%",
+        "Seeker: It would.",
+        "",
+        "%% u2059:0-32 %%",
+        "Delwath: Gidari guardians that Kenzo met.",
+        "",
+        "%% u2060:0-15 %%",
+        "Seeker: Oh, yeah. Yeah.",
+        "",
+        "%% u2061:0-77 %%",
+        "Delwath: Is there any signs or things we must show to the Gidari to prove our purpose?",
+        "",
+        "%% u2062:0-11 %%",
+        "DM: Long pause.",
+        "",
+        "%% u2063:0-26 %%",
+        "Delwath: To protect us from danger.",
+        "",
+        "%% u2064:0-29, u2065:0-34 %%",
+        "DM: One cannot lie to the Gidari. They can see your soul, of course.",
+        "",
+        "%% u2066:0-41, u2067:0-15, u2068:0-54 %%",
+        "Delwath: Will souls we bring naturally be able to? Can the Gidari? Can the Gidari free souls from where they are trapped?",
+        "",
+        "%% u2069:0-76, u2070:0-48, u2071:0-48 %%",
+        "DM: Souls cannot be trapped on the land of the Dead. It can only be lost, found. One must only point them in the right direction. They are confused, but a soul cannot be trapped.",
+        "",
+        "%% u2072:0-51, u2073:0-21 %%",
+        "Delwath: Is it allowed to point them in the right direction? Is that interference?",
+        "",
+        "%% u2074:0-60, u2075:0-74 %%",
+        "DM: But Gidari will warn you if you should do something uncouth. But if you truly seek to restore their just fates, that will be permitted.",
+        "",
+        "%% u2076:0-32, u2077:0-24, u2078:0-107, u2079:0-8 %%",
+        "((Brief asides about cheating and the agreed scope of questions))",
+        "",
+        "%% u2080:0-20, u2081:0-109, u2082:0-25, u2083:0-25, u2084:0-65 %%",
+        "Delwath: Maybe we should have—the implication of souls can't be trapped makes me think they're going to find a way out of the phylactery. Can any magic bind a soul on the plane of the Dead, or will it free itself from even the most powerful binding magic?",
+        "",
+        "%% u2085:0-42, u2086:0-65 %%",
+        "DM: Magic can only cause souls to become lost. If they remember their path, they cannot be trapped by any power.",
+        "",
+        "%% u2087:0-63, u2088:0-205 %%",
+        "Delwath: So the phylactery on the—the phylactery on the land of the dead could try and keep the souls from remembering anything about themselves which would keep them milling around inside the phylactery. Basically, we're going to have to give them clues about their past lives.",
+        "",
+        "%% u2089:0-34 %%",
+        "Kenzo: Sounds like a plausible mechanism.",
+        "",
+        "%% u2090:0-65 %%",
+        "Seeker: Right, because there's a bunch of them, they won't know who's who.",
+        "",
+        "%% u2091:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u2092:0-54, u2093:0-69 %%",
+        "Seeker: Which will be funny. That's interesting. Are there any—anything to tell us about the relationship of time there versus here?",
+        "",
+        "%% u2094:0-30, u2095:0-62 %%",
+        "DM: Time passes as it passes here. It is always a wise question when one travels to other planes.",
+        "",
+        "%% u2096:0-10 %%",
+        "Seeker: And space?",
+        "",
+        "%% u2097:0-20 %%",
+        "DM: Say your name again.",
+        "",
+        "%% u2098:0-25 %%",
+        "Seeker: I am Seeker of High Keep.",
+        "",
+        "%% u2099:0-23 %%",
+        "DM: This one has potential.",
+        "",
+        "%% u2100:0-10 %%",
+        "Seeker: Thank you.",
+        "",
+        "%% u2101:0-14 %%",
+        "DM: Come, join us.",
+        "",
+        "%% u2102:0-57 %%",
+        "Delwath: No, not tonight, Seeker. You could come later. Come back.",
+        "",
+        "%% u2103:0-43, u2104:0-23, u2105:0-38 %%",
+        "Seeker: I'll take the application to look at later. I'll fill out the form. What about traveling within the plane?",
+        "",
+        "%% u2106:0-13, u2107:0-12, u2108:0-29 %%",
+        "Delwath: Is there any—is there any—do we need to travel? I mean.",
+        "",
+        "%% u2109:0-28 %%",
+        "Seeker: Who knows what could happen?",
+        "",
+        "%% u2110:0-5 %%",
+        "Delwath: True.",
+        "",
+        "%% u2111:0-40, u2112:0-46 %%",
+        "DM: No traveling on the plane. There is only the plane moving you towards your destination.",
+        "",
+        "%% u2113:0-18 %%",
+        "Seeker: So it travels you.",
+        "",
+        "%% u2114:0-65 %%",
+        "DM: This is why, in some mythologies, it is called the River of Souls.",
+        "",
+        "%% u2115:0-45 %%",
+        "Seeker: And any advice about getting back from there?",
+        "",
+        "%% u2116:0-35, u2117:0-36 %%",
+        "DM: If you have the magic to get there, you should have the magic to return.",
+        "",
+        "%% u2118:0-4 %%",
+        "Seeker: Yes.",
+        "",
+        "%% u2119:0-56, u2120:0-47, u2121:0-42 %%",
+        "DM: Just do not spend too long. Minutes are rarely dangerous. But hours and days, especially even the strong, such as yourselves, may never return from—",
+        "",
+        "%% u2122:0-31, u2123:0-50 %%",
+        "Seeker: Very good, that's all I've got. We thank you for your assistance on these matters.",
+        "",
+        "%% u2124:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u2125:0-48, u2126:0-109, u2127:0-31, u2128:0-45, u2129:0-40, u2130:0-49, u2131:0-53, u2132:0-61 %%",
+        "DM: The fee is paid, the dead speak no more. Silence! And suddenly there's a bright light flashes in the room, and the woman comes back and undoes your blindfolds. And leads you back to the room. \"You may change and leave at your—as you wish. Please speak of this to no one, although we believe we have taken the precautions that you not have seen anything that you should not have seen.\" She looks over at Seeker. \"They seemed very curious about you.\"",
+        "",
+        "%% u2133:0-10 %%",
+        "Seeker: Deed, and.",
+        "",
+        "%% u2134:0-30, u2135:0-42 %%",
+        "DM: Perhaps we will see you again. Dwarves often make excellent philosophers.",
+        "",
+        "%% u2136:0-14, u2137:0-39 %%",
+        "Seeker: I can see why. Perhaps our paths will cross once more.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Kenzo, Delwath and Seeker. Who's going?",
+          "Seeker: Yeah.",
+          "Delwath: I think everybody but Riswynn, right?",
+          "DM: Everybody but Riswynn is coming.",
+          "Delwath: All right."
+        ],
+        "after": [
+          "DM: Good evening. So you sleep.",
+          "Seeker: Good.",
+          "Delwath: Yep. Long rested.",
+          "Seeker: Yeah.",
+          "Delwath: And we go to the land of the dead."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The seven confused souls surround the dagger",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2204",
+        "endUid": "u2234"
+      },
+      "lines": [
+        "%% u2204:0-41 %%",
+        "Riswynn: I think we get the dagger phylactery out.",
+        "",
+        "%% u2205:0-10 %%",
+        "Delwath: Well, yes.",
+        "",
+        "%% u2206:0-19 %%",
+        "Riswynn: Okay, people in it.",
+        "",
+        "%% u2207:0-8 %%",
+        "Delwath: Correct.",
+        "",
+        "%% u2208:0-26 %%",
+        "Seeker: Right. Get out the dagger!",
+        "",
+        "%% u2209:0-77 %%",
+        "Riswynn: We spread out like a picnic blanket, put in the dagger, and all the mementos.",
+        "",
+        "%% u2210:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u2211:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u2212:0-40, u2213:0-33, u2214:0-35, u2215:0-50, u2216:0-54, u2217:0-65, u2218:0-78, u2219:0-45, u2220:0-76, u2221:0-84, u2222:0-44, u2223:0-114 %%",
+        "DM: So as you do—as you take out the dagger, you see, sort of vaguely formed 7 people beginning to kind of appear, or maybe they're always there before and they are—you can see the 7 of them on Roll20. They are wandering and, and seem to always be just walking in a circle like nobody is—there, there's a line that nobody seems to be able to pass or willing to pass. I mean, they're sort of pacing around in this kind of very circumscribed way of walking, but their forms are, are solid and you, you occasionally hear sort of mutters in, in Drankorian, or in Elvish or Common. But, but they don't—but the words seem to be—like you can't even quite make out what the words are. Like, it's like almost just beyond the edge of your hearing.",
+        "",
+        "%% u2224:0-90 %%",
+        "Delwath: And there's—I—are they—? Can we tell them apart, or are they all very, very indistinct and—?",
+        "",
+        "%% u2225:0-20 %%",
+        "DM: No, their forms are—",
+        "",
+        "%% u2226:0-11 %%",
+        "Delwath: Look, okay.",
+        "",
+        "%% u2227:0-56 %%",
+        "DM: They just seem to have no awareness of who they are, or—",
+        "",
+        "%% u2228:0-28, u2229:0-93 %%",
+        "Delwath: And ha! Sorry, I—how is this? Are they like—are we standing looking at them? Like, how is this space compared to the space?",
+        "",
+        "%% u2230:0-10, u2231:0-81, u2232:0-101 %%",
+        "DM: There are. You're sort of standing looking at them. It's—it almost seems as if they can only walk a few feet from the dagger itself, kind of pacing in a circle like there's a chain that connects—",
+        "",
+        "%% u2233:0-41 %%",
+        "Delwath: But they're like pacing around us almost?",
+        "",
+        "%% u2234:0-38 %%",
+        "DM: Yeah, almost like a circle around you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Hey? Yeah.",
+          "DM: So you.",
+          "Riswynn: Y'all know that old standard, right?",
+          "DM: You find yourself in a gray expanse. You can see a few people, shadowy sort of incomplete, moving in the distance. And standing next to you is an old man, presumably the soul of the body, who you just followed, who looks sort of kind of basically ignoring you, who, who seems to be staring off at something in the distance that he's excited to see. And he's moving determinedly, sort of moving more quickly than other people here, it seems. The whole place is dry and dusty. There's no weather. The land and the sky are hard to tell apart. It's so—it's hard to sort of see the horizon. It's hard to tell when, when the horizon begins and the land ends, or when the land ends and the horizon begins. And you find yourself standing here, not sure what to do.",
+          "Seeker: Yes."
+        ],
+        "after": [
+          "Riswynn: I think we might have the best—if you're up for it, Wellby, you might have the best chance to just speak in halfling about fireworks to the, you know.",
+          "Delwath: Yeah.",
+          "Riswynn: Start with that connection.",
+          "Wellby: Yeah. Yeah. Where should I start with that? Yeah.",
+          "Seeker: Pull out the [garbled]."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Wellby helps Seraphina remember",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e053",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2235",
+        "endUid": "u2304"
+      },
+      "lines": [
+        "%% u2235:0-30, u2236:0-67, u2237:0-51 %%",
+        "Riswynn: I think we might have the best—if you're up for it, Wellby, you might have the best chance to just speak in halfling about fireworks to the, you know.",
+        "",
+        "%% u2238:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u2239:0-27 %%",
+        "Riswynn: Start with that connection.",
+        "",
+        "%% u2240:0-11, u2241:0-37 %%",
+        "Wellby: Yeah. Yeah. Where should I start with that? Yeah.",
+        "",
+        "%% u2242:0-18 %%",
+        "Seeker: Pull out the [garbled].",
+        "",
+        "%% u2243:0-29 %%",
+        "Kenzo: There's no music, by the way.",
+        "",
+        "%% u2244:0-35 %%",
+        "Wellby: Alright! So I call out in halfling.",
+        "",
+        "%% u2245:0-5, u2246:0-24 %%",
+        "DM: Okay. What do you want to say?",
+        "",
+        "%% u2247:0-13, u2248:0-12, u2249:0-21, u2250:0-28, u2251:0-6, u2252:0-116, u2253:0-75, u2254:0-9 %%",
+        "((Table preparation and the skill roll))",
+        "",
+        "%% u2255:0-93 %%",
+        "Delwath: Nothing. We know very little about the halfling except the token [garbled], like we have the—",
+        "",
+        "%% u2256:0-71 %%",
+        "Kenzo: Yeah, this is the whole—well, we can just tap into the ancestors. Yeah.",
+        "",
+        "%% u2257:0-6 %%",
+        "Delwath: Oh no!",
+        "",
+        "%% u2258:0-75, u2259:0-67, u2260:0-15, u2261:0-82 %%",
+        "DM: Vibes like, you know, fireworks, watching fireworks from the roof, right? Like, Halfling Inn, clearly, like a place where people came to celebrate. So that's a big—and all, like, it was a place where people had big, where there were big gatherings.",
+        "",
+        "%% u2262:0-99, u2263:0-96, u2264:0-59, u2265:0-61, u2266:0-192, u2267:0-47, u2268:0-124, u2269:0-62 %%",
+        "Wellby: I'll tell those stories, and like, try and just paint that picture as vividly as I can of like what, what it looked like to look out and see the fireworks and the colors and the shapes of them, and what the feeling of the inn was, and like starting with the—just starting with what you see, and then trying to move into—and, like, bridging or intuiting like, what—what would the emotional experience of being there have felt like? Like the excitement and delight of seeing it, and the warmth of being connected, and, and from there to talk a little bit to—into the sense of—with other halflings, like that feeling of never being apart and forgotten, but always being one piece of a whole, to try and bring that memory back, bring that connection back.",
+        "",
+        "%% u2270:0-87, u2271:0-14, u2272:0-52, u2273:0-66, u2274:0-20 %%",
+        "((Table preparation and the skill roll))",
+        "",
+        "%% u2275:0-29, u2276:0-41, u2277:0-62, u2278:0-79, u2279:0-52, u2280:0-62, u2281:0-147, u2282:0-35, u2283:0-91, u2284:0-14 %%",
+        "DM: The halfling woman stands up. That's her in the lower left corner here. And as you're talking about the fireworks sort of looking like—all of them turn and look at you when you start talking, all 7 of these figures. And it seems almost as if, when you're speaking, like, you're looking at all of them. You're looking at the halfling. There—there's something missing in their eyes. Like, for a minute, it seems like all of them remember being the halfling, and then something shifts. I mean, you hear a crack, just faint, and then, like, this sound muffled by the dust. Something about the land of the dead muffles sound entirely.",
+        "",
+        "%% u2285:0-37, u2286:0-28 %%",
+        "DM: And the halfling woman steps forward. \"Seraphina. That was my name.\"",
+        "",
+        "%% u2287:0-17 %%",
+        "Wellby: What's your name?",
+        "",
+        "%% u2288:0-42, u2289:0-36, u2290:0-37, u2291:0-18, u2292:0-38 %%",
+        "DM: Says it a few times, and she looks around, stops, and then sets off resolutely, looking once back over her shoulders, looking at Wellby. \"There's always another party to go to.\"",
+        "",
+        "%% u2293:0-76, u2294:0-22, u2295:0-63, u2296:0-30, u2297:0-80, u2298:0-71, u2299:0-101, u2300:0-12 %%",
+        "DM: And as she begins to walk into the distance, you see beginning to shadow her, what looks like a—wow!—a large like flying panther, dragon like creature but with only 4 limbs, and then a long tail. No wings, but just kind of flying almost snake-like through the sky around her. Brightly colored, the only splash of color you see in this entire place in the distance, on the fur of this creature. As it begins to follow her—she runs—it also looks back towards you.",
+        "",
+        "%% u2301:0-25, u2302:0-21 %%",
+        "Delwath: That's a, that's a Gidari. Yeah, yeah, I assume.",
+        "",
+        "%% u2303:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u2304:0-65 %%",
+        "Wellby: Cool, cool, I'll nod to it and her, and raise a hand in farewell.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: They just seem to have no awareness of who they are, or—",
+          "Delwath: And ha! Sorry, I—how is this? Are they like—are we standing looking at them? Like, how is this space compared to the space?",
+          "DM: There are. You're sort of standing looking at them. It's—it almost seems as if they can only walk a few feet from the dagger itself, kind of pacing in a circle like there's a chain that connects—",
+          "Delwath: But they're like pacing around us almost?",
+          "DM: Yeah, almost like a circle around you."
+        ],
+        "after": [
+          "Delwath: We have the—let me just— We have the ship's manifest.",
+          "DM: Yep.",
+          "Delwath: And we have the plants.",
+          "Seeker: Yeah.",
+          "Delwath: That plant guy, right? Elf or human? I don't remember."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Delwath draws Minarith into teaching",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2310",
+        "endUid": "u2346"
+      },
+      "lines": [
+        "%% u2310:0-53 %%",
+        "Delwath: That plant guy, right? Elf or human? I don't remember.",
+        "",
+        "%% u2311:0-8 %%",
+        "Riswynn: Peronar.",
+        "",
+        "%% u2312:0-30 %%",
+        "Delwath: Okay, I'll—me—Mina, was that?",
+        "",
+        "%% u2313:0-9 %%",
+        "DM: Minarith.",
+        "",
+        "%% u2314:0-18, u2315:0-36, u2316:0-46, u2317:0-65, u2318:0-6, u2319:0-65, u2320:0-354, u2321:0-94, u2322:0-48, u2323:0-45, u2324:0-64 %%",
+        "Delwath: Minarith, that was. Do we know what gender Minarith was? We might not. I don't know. It doesn't matter. I just didn't know which pronoun to use. But anyway, Delwath will start—we'll call out to Minarith and start talking about just, like, like—not like telling a current story or anything like that, but just like talking about sort of various plants, but like clearly not knowing that much about plants, and like every time he sort of starts talking about, \"Oh, I saw this plant. Oh, Minarith,\" like, call out their name, like, \"Can you help me? I need help learning more about this plant. Like, can you—?\" \"I know there's somebody here who remembers teaching about plants. Please, can you help me?\" Like, you know, and just continue on that sort of like, sort of asking, calling out, trying to remind Minarith about being a teacher and teaching people about botany.",
+        "",
+        "%% u2325:0-30, u2326:0-11, u2327:0-34, u2328:0-3 %%",
+        "((Skill selection and roll))",
+        "",
+        "%% u2329:0-45, u2330:0-93, u2331:0-51, u2332:0-69, u2333:0-60, u2334:0-118, u2335:0-67 %%",
+        "DM: Again as Delwath starts talking, all of them—all of them turn. And you know, as this goes on for a couple of minutes, like, occasionally one person like this, this old guy in the orange cloak, like, starts to try and answer, and then looks confused and uncertain. You know the, the woman in the sort of rugged traveling gear begins to speak, and nothing comes out of her mouth, and after maybe 5 min of this, this Elven man in the purple cloak steps forward, almost seeming frustrated with everybody. It's like—",
+        "",
+        "%% u2336:0-36, u2337:0-58, u2338:0-82, u2339:0-81, u2340:0-72, u2341:0-79, u2342:0-42 %%",
+        "DM: No, he goes off into this lecture on particular kind of basil that's useful for soothing weary headaches as well as has an interesting history because it was originally brought—it's a corrupted form of a plant that grows in the Feywild, and he, you know, is—starts talking, and then suddenly looks as if he realizes, \"I am Minarith.\" And he looks around and he looks at Delwath, and then he says, \"I see the stars.\" And he gives a bow, and he says, \"Farewell.\"",
+        "",
+        "%% u2343:0-23 %%",
+        "Delwath: Oh, bow to him as well.",
+        "",
+        "%% u2344:0-10 %%",
+        "DM: And begin.",
+        "",
+        "%% u2345:0-12, u2346:0-48 %%",
+        "Delwath: Be at peace. Wellby, do you want to try and get the seafarer?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Cool, cool, I'll nod to it and her, and raise a hand in farewell.",
+          "Delwath: We have the—let me just— We have the ship's manifest.",
+          "DM: Yep.",
+          "Delwath: And we have the plants.",
+          "Seeker: Yeah."
+        ],
+        "after": [
+          "DM: Somebody besides Delwath, and Wellby has to do at least.",
+          "Delwath: I guess that's fair.",
+          "Seeker: Okay.",
+          "Riswynn: Am I reaching out to Floria? We have her mask, right?",
+          "DM: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Riswynn recalls Floria’s care for others",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e049",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e035",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2350",
+        "endUid": "u2377"
+      },
+      "lines": [
+        "%% u2350:0-52 %%",
+        "Riswynn: Am I reaching out to Floria? We have her mask, right?",
+        "",
+        "%% u2351:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u2352:0-35, u2353:0-58, u2354:0-99, u2355:0-38, u2356:0-40, u2357:0-87, u2358:0-25, u2359:0-26, u2360:0-54, u2361:0-38 %%",
+        "Riswynn: And so Riswynn starts talking about following the—a family legacy of taking care of an estate and then finding the responsibility from the gods to take care of all who are needy. Talking about, \"Oh, you can quietly smuggle aid to the Radiant Path to those who are seeking to overcome the challenges of their lives in a dark time, and by following the old ways of sacred devotion to unity, the people around you can be supplied with what they need from your, your bounty. Help them to be strong in a dark time.\"",
+        "",
+        "%% u2362:0-33, u2363:0-19 %%",
+        "((Skill selection))",
+        "",
+        "%% u2364:0-35, u2365:0-10, u2366:0-39, u2367:0-70, u2368:0-54, u2369:0-13 %%",
+        "DM: Okay, you'll say, \"Let Wellby do it.\" She looks—um, the woman in the sort of fancy blue veil, and particularly as you're talking about sort of family, and the turning your duty to family into a duty to the larger—\"Oh,\" she says.",
+        "",
+        "%% u2370:0-110, u2371:0-39, u2372:0-50, u2373:0-42, u2374:0-45, u2375:0-161, u2376:0-74 %%",
+        "DM: And again, it's the same sort of pattern. Everybody sort of—all of these people sort of start to turn and look, but you know their eyes are empty until she turns and she looks at Riswynn. \"I do remember.\" And she turns and looks off, and she says, \"And I hear the Father calling now. Thank you.\" And the—she doesn't start moving, but the land that she's standing on kind of looks like it almost separates and pulls away from you and begins to pull her away from where you are standing, as again you hear a snap muffled by the dust.",
+        "",
+        "%% u2377:0-37 %%",
+        "Riswynn: I give her a thank you as she leaves.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And begin.",
+          "Delwath: Be at peace. Wellby, do you want to try and get the seafarer?",
+          "DM: Somebody besides Delwath, and Wellby has to do at least.",
+          "Delwath: I guess that's fair.",
+          "Seeker: Okay."
+        ],
+        "after": [
+          "DM: Kong? Are you awake enough to try one?",
+          "Kenzo: Yes, let's do it, Timmy.",
+          "DM: No, you gotta say what you're—how you're convincing one of these people to remember what's happening.",
+          "Kenzo: Alright, we're going to talk about—we are going to talk about their—the resilience against tyranny of either Floria, Marius, or Valanthe.",
+          "Delwath: Go with Marius. Marius seems like Kenzo's kind of guy."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Kenzo reminds Marius to keep fighting",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2398",
+        "endUid": "u2443"
+      },
+      "lines": [
+        "%% u2398:0-78, u2399:0-77, u2400:0-4, u2401:0-4, u2402:0-16, u2403:0-34, u2404:0-4 %%",
+        "Kenzo: Let's say, \"Marius, like you, I have followed, followed the path of spirituality. And know well the feelings of safety you felt in the Temple of the 8 Divines.\" Hmm! Huh! \"I also know well what it means to fight for others.\" Hmm!",
+        "",
+        "%% u2405:0-40, u2406:0-111, u2407:0-69, u2408:0-17, u2409:0-44, u2410:0-46, u2411:0-9, u2412:0-30 %%",
+        "((Prompting, skill mechanics and dice rolls))",
+        "",
+        "%% u2413:0-11, u2414:0-56 %%",
+        "Kenzo: Okay, okay. And when I was young on the streets of Chardon, I would—",
+        "",
+        "%% u2415:0-8 %%",
+        "Delwath: Alright!",
+        "",
+        "%% u2416:0-70, u2417:0-51, u2418:0-48, u2419:0-29, u2420:0-29 %%",
+        "Kenzo: Fight against those that contaminated my community's water and health. But—and I know that you fought the same way against a cruel emperor that also oppressed your people. And that you were courageous. Do you remember these things?",
+        "",
+        "%% u2421:0-42, u2422:0-57, u2423:0-30, u2424:0-127, u2425:0-51, u2426:0-4, u2427:0-69, u2428:0-38, u2429:0-80, u2430:0-84, u2431:0-23, u2432:0-9, u2433:0-4 %%",
+        "((Prompting, skill mechanics and dice rolls))",
+        "",
+        "%% u2434:0-39, u2435:0-11, u2436:0-75, u2437:0-88, u2438:0-59, u2439:0-54, u2440:0-31, u2441:0-83, u2442:0-68, u2443:0-30 %%",
+        "DM: ((Roll adjudication)) Marius. That young guy at the bottom here steps forward and turns, and he—he looks Kenzo, as he steps, and he says, kind of, \"I do remember fighting,\" kind of shakes his head. \"Oh, don't know why I stopped, but thank you for reminding.\" He gives a nod, and he says, \"Keep fighting,\" and turns. And again, a piece of the—of the ground sort of separates and begins to pull him away quicker and quicker, vanishing rapidly into the horizon, and hear another snap and a spray of dust. And there are now only 3 left.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Right. So Wellby talked about the fireworks and the joy of parties and stuff. Delwath, yes.",
+          "Kenzo: Yes, yes, yes, yes, yes, yes.",
+          "DM: Professor into becoming a professor by being annoyingly uneducated.",
+          "Kenzo: Yes, yes, yes, yes, okay. Yes. So did I speak out to Marius?",
+          "DM: Yeah."
+        ],
+        "after": [
+          "Kenzo: This is going to sound weird. But this is like the 1st black person we've seen in Taelgar. Is that true?",
+          "Delwath: Oh, it's not.",
+          "DM: No.",
+          "Kenzo: When have we seen other black people? Not, not—I like that. I like that. There's, there's, there's young POC revolutionaries. I support this.",
+          "DM: I don't know. You gotta go. You gotta browse through the Taelgarverse because not every NPC just gets—who I make an image of, you actually see their image."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Seeker rekindles Valanthe’s laughter",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2461",
+        "endUid": "u2489"
+      },
+      "lines": [
+        "%% u2461:0-47, u2462:0-4, u2463:0-79, u2464:0-119, u2465:0-32 %%",
+        "DM: ((Description of Antonius)) And you've got Valanthe, the, like, satiric Elven Bard, who wrote plays taunting Apollyon, and was presumably captured and bound to the phylactery for it.",
+        "",
+        "%% u2466:0-12, u2467:0-65, u2468:0-71, u2469:0-53, u2470:0-66, u2471:0-39, u2472:0-22, u2473:0-11 %%",
+        "Seeker: I better do? Oh, too tired to think to do this! But the Valanthe one. \"Valanthe, you remember that ridiculous, wriggling worm, pretending to be emperor? The songs you spun to tickle him, Apollyon, pathetic. Come on, you could do better than that, raising your little stick, hoping to bring an army along with you. I've got an army, too. Try harder.\"",
+        "",
+        "%% u2474:0-30, u2475:0-16, u2476:0-35, u2477:0-55, u2478:0-12 %%",
+        "((Vicious Mockery roll))",
+        "",
+        "%% u2479:0-34, u2480:0-96, u2481:0-30, u2482:0-58, u2483:0-10, u2484:0-33, u2485:0-47, u2486:0-25, u2487:0-49, u2488:0-91, u2489:0-39 %%",
+        "DM: You hear, like, a peal of laughter, 1st coming from all 3 of the remaining people, and then slowly separating out as the Elven woman steps forward, still laughing. She smiles, her eyes focus. She looks at Seeker, she says, \"Thank you. I couldn't laugh for some reason. But it was always the best weapon and magic of—but I think you knew that.\" She kind of gives a bow. She looks, and she says, \"Remember my works,\" and vanishes, moving quickly into the distance as you hear another snap. Now only 2 confused milling souls left.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah, yeah.",
+          "DM: Again. I can put them back.",
+          "Seeker: What are the names of the ones that are left?",
+          "DM: So you've got Khemut of Targu, traveler, sailor, tea merchant, big spender in taverns.",
+          "Seeker: Hmm."
+        ],
+        "after": [
+          "Wellby: I'll speak to the tea merchant.",
+          "Seeker: Nice.",
+          "Wellby: And just start to weave a picture of being out on the water, the sound of gulls and the smell of the sea from everything I know, you know, in my own memories, imagining and inviting what docks are like in the—of goods, and loading and unloading, reminding them about ledger books and inventory. And the frustration of inventory left in warehouses, the trade routes across the sea, outrunning pirates. Sailing presumably the Sea of Storms, I would assume. Yeah, but that back then it wasn't the Sea of Storms, right?",
+          "Delwath: It wasn't stormy.",
+          "Wellby: Southern Ocean, the heat of it, and describing the, you know, the birds and the, the fish that are in that ocean, catching them fresh over the side. Just trying to pull them back to all of the ordinary details of that life."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Wellby recalls the wind for Khemut",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e045",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e051",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2490",
+        "endUid": "u2522"
+      },
+      "lines": [
+        "%% u2490:0-31 %%",
+        "Wellby: I'll speak to the tea merchant.",
+        "",
+        "%% u2491:0-5 %%",
+        "Seeker: Nice.",
+        "",
+        "%% u2492:0-18, u2493:0-86, u2494:0-76, u2495:0-26, u2496:0-85, u2497:0-52, u2498:0-52, u2499:0-53, u2500:0-59 %%",
+        "Wellby: And just start to weave a picture of being out on the water, the sound of gulls and the smell of the sea from everything I know, you know, in my own memories, imagining and inviting what docks are like in the—of goods, and loading and unloading, reminding them about ledger books and inventory. And the frustration of inventory left in warehouses, the trade routes across the sea, outrunning pirates. Sailing presumably the Sea of Storms, I would assume. Yeah, but that back then it wasn't the Sea of Storms, right?",
+        "",
+        "%% u2501:0-17 %%",
+        "Delwath: It wasn't stormy.",
+        "",
+        "%% u2502:0-146, u2503:0-74 %%",
+        "Wellby: Southern Ocean, the heat of it, and describing the, you know, the birds and the, the fish that are in that ocean, catching them fresh over the side. Just trying to pull them back to all of the ordinary details of that life.",
+        "",
+        "%% u2504:0-32 %%",
+        "Seeker: Rising from the sea on the coin.",
+        "",
+        "%% u2505:0-61 %%",
+        "DM: Yeah, right on the coin. What? What skill do you want to use?",
+        "",
+        "%% u2506:0-20 %%",
+        "((Skill selection))",
+        "",
+        "%% u2507:0-5, u2508:0-5, u2509:0-52, u2510:0-138, u2511:0-43, u2512:0-34 %%",
+        "DM: Okay? Yeah. So as you start talking, especially when you mention outrunning pirates, for at a moment—for a moment, both of their—both of these people are sort of watching you caught up in Wellby's tale. And then you hear, just sort of under, under—sort of muttered under her breath—",
+        "",
+        "%% u2513:0-5 %%",
+        "Riswynn: Yeah.",
+        "",
+        "%% u2514:0-41, u2515:0-83, u2516:0-84, u2517:0-61, u2518:0-9, u2519:0-32, u2520:0-25, u2521:0-94, u2522:0-50 %%",
+        "DM: \"It is why we called it Sword of the Wind.\" And she turns and she looks, and you can see now the wind, like her hair is blowing in the wind, even though the land of the dead is still and her clothes are flapping. She holds up a finger, and she says, \"I had forgotten the wind. Thank you. Best part of being on the ocean.\" And she turns, and as the, the land begins to pull her away, you can almost feel the echo of the wind as you hear a snap. And there is just one confused soul left, milling.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: What skill do you want to use?",
+          "Seeker: Vicious mockery.",
+          "DM: You can, you can roll—you—just your—yeah, just roll up plus 10 spellcasting modifier. Yeah.",
+          "Seeker: That's a 19.",
+          "DM: You hear, like, a peal of laughter, 1st coming from all 3 of the remaining people, and then slowly separating out as the Elven woman steps forward, still laughing. She smiles, her eyes focus. She looks at Seeker, she says, \"Thank you. I couldn't laugh for some reason. But it was always the best weapon and magic of—but I think you knew that.\" She kind of gives a bow. She looks, and she says, \"Remember my works,\" and vanishes, moving quickly into the distance as you hear another snap. Now only 2 confused milling souls left."
+        ],
+        "after": [
+          "Delwath: Delwath, I mean, I don't know to say—I'm happy to. Okay, I don't want to step on people if other people had ideas, but Delwath will start talking about—the—this is Antonius who's left? Right, Tim? Am I still here?",
+          "DM: Yeah.",
+          "Delwath: Sorry, my monitor just turned off. I can't—hold on. Sorry you're gonna have to give me a—okay, it came back. I just, I need the zoom chat to know what I'm saying. Yeah. Okay, that was weird. So Delwath will talk to Antonio—Antonius about rituals and stewardship of temples, and Delwath doesn't know that much about the Father particularly. But we'll talk about just the—his own experience of the Maswati and the—and the denaquai gods in particular, and just about the sort of talking about kind of the labors of finding—telling a story, and also a little bit of the asking questions, like telling stories from his own experience of the labors of like finding different gods and finding temples and things, and then asking sort of questions and talking about specifically like the Father and—",
+          "DM: Asking questions like, \"Oh, what—what are the different temples of the Father?\" And, like—",
+          "Delwath: You know, talking about how diplomacy is important. Kind of just that sort of theme of the—of laboring to find, sort of telling the story of laboring to find and—a connection across different temples and different ways of worship and things like that. And—but bringing in the Father as much as possible, and talking—oh! And, and mentioning the—talking a little bit about the—describing in detail the Father's—switching at some point to describing in detail the Father's statue on the circular islands. And talking about how it must have been amazing when pilgrims were there, and, like, the path of pilgrimage. And you know, remember that—asking Antonius to remember that place in that path of pilgrimage."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Antonius finds his path",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e035",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e054",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2523",
+        "endUid": "u2577"
+      },
+      "lines": [
+        "%% u2523:0-50, u2524:0-101, u2525:0-44, u2526:0-16 %%",
+        "Delwath: Delwath, I mean, I don't know to say—I'm happy to. Okay, I don't want to step on people if other people had ideas, but Delwath will start talking about—the—this is Antonius who's left? Right, Tim? Am I still here?",
+        "",
+        "%% u2527:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u2528:0-50, u2529:0-56, u2530:0-59, u2531:0-21, u2532:0-86, u2533:0-61, u2534:0-29, u2535:0-105, u2536:0-281, u2537:0-33 %%",
+        "Delwath: ((Monitor interruption)) Delwath will talk to Antonio—Antonius about rituals and stewardship of temples, and Delwath doesn't know that much about the Father particularly. But we'll talk about just the—his own experience of the Maswati and the—and the denaquai gods in particular, and just about the sort of talking about kind of the labors of finding—telling a story, and also a little bit of the asking questions, like telling stories from his own experience of the labors of like finding different gods and finding temples and things, and then asking sort of questions and talking about specifically like the Father and—",
+        "",
+        "%% u2538:0-87 %%",
+        "DM: Asking questions like, \"Oh, what—what are the different temples of the Father?\" And, like—",
+        "",
+        "%% u2539:0-90, u2540:0-99, u2541:0-59, u2542:0-121, u2543:0-108, u2544:0-17, u2545:0-111, u2546:0-90 %%",
+        "Delwath: You know, talking about how diplomacy is important. Kind of just that sort of theme of the—of laboring to find, sort of telling the story of laboring to find and—a connection across different temples and different ways of worship and things like that. And—but bringing in the Father as much as possible, and talking—oh! And, and mentioning the—talking a little bit about the—describing in detail the Father's—switching at some point to describing in detail the Father's statue on the circular islands. And talking about how it must have been amazing when pilgrims were there, and, like, the path of pilgrimage. And you know, remember that—asking Antonius to remember that place in that path of pilgrimage.",
+        "",
+        "%% u2547:0-30, u2548:0-11, u2549:0-28, u2550:0-30, u2551:0-3, u2552:0-46, u2553:0-35, u2554:0-21 %%",
+        "((Skill rules and inspiration rolls))",
+        "",
+        "%% u2555:0-45, u2556:0-92 %%",
+        "Delwath: I will lean into the whole description of the, the pilgrimage, and, like, really detailed description of the pilgrimage, and use perception.",
+        "",
+        "%% u2557:0-5, u2558:0-22, u2559:0-5, u2560:0-3, u2561:0-29, u2562:0-12, u2563:0-14, u2564:0-5, u2565:0-32, u2566:0-43 %%",
+        "((Skill rules and inspiration rolls))",
+        "",
+        "%% u2567:0-39, u2568:0-2, u2569:0-114, u2570:0-53, u2571:0-98, u2572:0-56, u2573:0-59, u2574:0-36, u2575:0-68, u2576:0-71, u2577:0-28 %%",
+        "DM: It's a good thing that DC was only 15. So Antonius initially seems, seems a little bit like unsure and confused, even as you're talking about, even as you're highlighting the, the, the pilgrimage in the temple and—but eventually, like turns, turns and, and shakes and kind of nods briefly, just like still looking a little bit confused, but just, \"Yes, yes, I, I should go. I think it's that way,\" and he begins to sort of wander off. Not looking too sure of himself. But after a minute or so, you see another one of the Gidari kind of come and begin to, to follow him a little bit, just gently prodding slightly. And you hear the final snap.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, right on the coin. What? What skill do you want to use?",
+          "Wellby: I wanna use nature.",
+          "DM: Okay? Yeah. So as you start talking, especially when you mention outrunning pirates, for at a moment—for a moment, both of their—both of these people are sort of watching you caught up in Wellby's tale. And then you hear, just sort of under, under—sort of muttered under her breath—",
+          "Riswynn: Yeah.",
+          "DM: \"It is why we called it Sword of the Wind.\" And she turns and she looks, and you can see now the wind, like her hair is blowing in the wind, even though the land of the dead is still and her clothes are flapping. She holds up a finger, and she says, \"I had forgotten the wind. Thank you. Best part of being on the ocean.\" And she turns, and as the, the land begins to pull her away, you can almost feel the echo of the wind as you hear a snap. And there is just one confused soul left, milling."
+        ],
+        "after": [
+          "DM: And you look down, and where there once was a dagger there are now—there is now a—just threads of metal. It's almost like it's been pulled apart like this and unwound into like strands, like cut by some sort of claws. And you hear a wailing, screeching sound from inside, horrendous howl, noise that fades and then vanishes, and then there is a bang, and the dagger disintegrates.",
+          "Delwath: That seems, that seems good. Let's, let's go to the—let's go see what's going on in our—on our boat, our ship, our flying castle. Right? We're not changing our minds here, are we?",
+          "Wellby: Why are we going back there instead of just going straight to kill Apollyon?",
+          "Delwath: Because we can Rainbow Bridge there, but we can't rainbow Bridge back to Drankor.",
+          "Kenzo: We're in a different plane right now. We can't teleport from here directly to Apollyon."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "The phylactery disintegrates",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2578",
+        "endUid": "u2584"
+      },
+      "lines": [
+        "%% u2578:0-52, u2579:0-28, u2580:0-22, u2581:0-66, u2582:0-45, u2583:0-70, u2584:0-91 %%",
+        "DM: And you look down, and where there once was a dagger there are now—there is now a—just threads of metal. It's almost like it's been pulled apart like this and unwound into like strands, like cut by some sort of claws. And you hear a wailing, screeching sound from inside, horrendous howl, noise that fades and then vanishes, and then there is a bang, and the dagger disintegrates.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: That's a d 12.",
+          "Seeker: Yeah.",
+          "DM: Roll twice, take the higher one.",
+          "Seeker: And then you get the explosive damage, too.",
+          "DM: It's a good thing that DC was only 15. So Antonius initially seems, seems a little bit like unsure and confused, even as you're talking about, even as you're highlighting the, the, the pilgrimage in the temple and—but eventually, like turns, turns and, and shakes and kind of nods briefly, just like still looking a little bit confused, but just, \"Yes, yes, I, I should go. I think it's that way,\" and he begins to sort of wander off. Not looking too sure of himself. But after a minute or so, you see another one of the Gidari kind of come and begin to, to follow him a little bit, just gently prodding slightly. And you hear the final snap."
+        ],
+        "after": [
+          "Delwath: That seems, that seems good. Let's, let's go to the—let's go see what's going on in our—on our boat, our ship, our flying castle. Right? We're not changing our minds here, are we?",
+          "Wellby: Why are we going back there instead of just going straight to kill Apollyon?",
+          "Delwath: Because we can Rainbow Bridge there, but we can't rainbow Bridge back to Drankor.",
+          "Kenzo: We're in a different plane right now. We can't teleport from here directly to Apollyon.",
+          "DM: You gotta get back to the material plane before you can teleport."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Baxter’s update from the stables",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2702",
+        "endUid": "u2726"
+      },
+      "lines": [
+        "%% u2702:0-25 %%",
+        "DM: You appear in the stable?",
+        "",
+        "%% u2703:0-19 %%",
+        "Kenzo: Baxter still alive?",
+        "",
+        "%% u2704:0-16, u2705:0-92 %%",
+        "DM: Baxter is alive. I mean, he can't see you because you're invisible, so he doesn't like leap up and greet you.",
+        "",
+        "%% u2706:0-48, u2707:0-159, u2708:0-17, u2709:0-55 %%",
+        "((Kenzo scans the ship for other consciousnesses))",
+        "",
+        "%% u2710:0-38, u2711:0-56 %%",
+        "Wellby: I will telepathically talk with Baxter and get the update on what's been happening on the ship.",
+        "",
+        "%% u2712:0-21, u2713:0-7, u2714:0-8, u2715:0-46 %%",
+        "DM: From his perspective, Baxter—he says, \"We're going east. We're going towards the sun.\"",
+        "",
+        "%% u2716:0-28 %%",
+        "Wellby: Any new friends on the boat?",
+        "",
+        "%% u2717:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u2718:0-7 %%",
+        "Wellby: Anyone—?",
+        "",
+        "%% u2719:0-21 %%",
+        "Seeker: Meals, meal service?",
+        "",
+        "%% u2720:0-27 %%",
+        "Delwath: Why? Why are we going east?",
+        "",
+        "%% u2721:0-40 %%",
+        "DM: That's where the answers are apparently.",
+        "",
+        "%% u2722:0-14 %%",
+        "Kenzo: Mind control.",
+        "",
+        "%% u2723:0-61 %%",
+        "Wellby: What else would Baxter know about—different feeding schedule?",
+        "",
+        "%% u2724:0-44 %%",
+        "DM: No, it's been—it's been good. I missed you.",
+        "",
+        "%% u2725:0-4 %%",
+        "Kenzo: Bye.",
+        "",
+        "%% u2726:0-15 %%",
+        "Wellby: You too, Buddy.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Right.",
+          "Kenzo: Doesn't activating—does activating a magic item, not—?",
+          "Delwath: No.",
+          "DM: Only casting a spell or making an attack roll. Then you're good.",
+          "Kenzo: Alright! Let's do it invisible into the stable, and then, Wellby and Kenzo stealth out and go, go."
+        ],
+        "after": [
+          "Kenzo: That's cute.",
+          "Delwath: Why didn't we cast sending on—wait. We did cast sending on Faldrak. What did he tell us?",
+          "DM: You only—you cast sending on Faldrak like a day—a while ago, a while ago, and he said something about Drankor being too scary.",
+          "Wellby: Can we—now that we're on the boat, can we talk telepathically with Faldrak?",
+          "DM: Ow."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Amil’s hidden-city quest and cleansing",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2790",
+        "endUid": "u2826"
+      },
+      "lines": [
+        "%% u2790:0-166 %%",
+        "Kenzo: Yeah, just that—become invisible—visible. Amil, what's going on? How's, how's everything going? Why are we? Why are we? Why are we flying the ship east? What's going—?",
+        "",
+        "%% u2791:0-4, u2792:0-78 %%",
+        "DM: Hey! Good to see you. Are—are you coming to find the hidden city of Pu'aatar, too?",
+        "",
+        "%% u2793:0-6 %%",
+        "Seeker: Oh no!",
+        "",
+        "%% u2794:0-41 %%",
+        "Kenzo: What is that? And why are we going there?",
+        "",
+        "%% u2795:0-94, u2796:0-28 %%",
+        "DM: Library holds all the secrets to everything we need to learn. It's a hidden city in the desert. We're on a quest to find it.",
+        "",
+        "%% u2797:0-17 %%",
+        "Kenzo: Who? Whose quest?",
+        "",
+        "%% u2798:0-15, u2799:0-11 %%",
+        "DM: It's our quest. We decided.",
+        "",
+        "%% u2800:0-9 %%",
+        "Kenzo: Who's we?",
+        "",
+        "%% u2801:0-49 %%",
+        "DM: Faldrak and me and Egnir, and the Orc ladies and—",
+        "",
+        "%% u2802:0-34 %%",
+        "Kenzo: Where did you hear about the city?",
+        "",
+        "%% u2803:0-31 %%",
+        "DM: A nice wizard told us about it.",
+        "",
+        "%% u2804:0-30 %%",
+        "Kenzo: When did the nice wizard come?",
+        "",
+        "%% u2805:0-64 %%",
+        "DM: When we were in Drankor. It was too scary there; we had to leave.",
+        "",
+        "%% u2806:0-49 %%",
+        "Kenzo: Right, right, right. Is the nice wizard still here?",
+        "",
+        "%% u2807:0-4 %%",
+        "DM: No.",
+        "",
+        "%% u2807:4-21 %%",
+        "Delwath: Are they charmed?",
+        "",
+        "%% u2808:0-57 %%",
+        "DM: The answers would be clear when we got to Pu'aatar. The—",
+        "",
+        "%% u2809:0-8 %%",
+        "Kenzo: Charmed.",
+        "",
+        "%% u2810:0-17 %%",
+        "DM: Be in the desert.",
+        "",
+        "%% u2811:0-17 %%",
+        "Delwath: Are they charmed?",
+        "",
+        "%% u2812:0-14 %%",
+        "DM: Yes, they are.",
+        "",
+        "%% u2813:0-37 %%",
+        "Kenzo: I touch him and uncharm both of them.",
+        "",
+        "%% u2814:0-4 %%",
+        "DM: But.",
+        "",
+        "%% u2815:0-19 %%",
+        "Kenzo: Touch both of them.",
+        "",
+        "%% u2816:0-81, u2817:0-38, u2818:0-65, u2819:0-10 %%",
+        "((Cleanse Soul check mechanics))",
+        "",
+        "%% u2820:0-23, u2821:0-87 %%",
+        "DM: Okay, Amil's like, \"Whoa. Why did I think there was some hidden city in the middle of a giant desert to the east?\"",
+        "",
+        "%% u2822:0-77 %%",
+        "Kenzo: That's awesome. Happens to the best of us. Goes over to the [garbled] office.",
+        "",
+        "%% u2823:0-119 %%",
+        "Delwath: Faldrak is the most important one, because if we get Faldrak, you can just turn the ship around. We don't need them all.",
+        "",
+        "%% u2824:0-40 %%",
+        "Kenzo: Yeah. Okay. Yeah. Where's Faldrak, Amil?",
+        "",
+        "%% u2825:0-55, u2826:0-38 %%",
+        "DM: He's in the control room. Normally he was very excited. \"I always wanted to find a hidden city.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Sure, for sure, for sure.",
+          "Seeker: Okay. Cool. Cool.",
+          "DM: Just like, you know, guys keep moving.",
+          "Delwath: Okay, so.",
+          "Wellby: Okay. Okay. All right."
+        ],
+        "after": [
+          "Kenzo: Yeah. Kenzo goes down into the control room. There.",
+          "DM: \"Kenzo,\" Faldrak says.",
+          "Kenzo: Kenzo, Kenzo ignores, ignores him, and just goes.",
+          "DM: You're gonna find the answers.",
+          "Kenzo: Yeah, yeah. I know. The answer is great. 16."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Kenzo frees Faldrak and learns about Fausto",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2827",
+        "endUid": "u2852"
+      },
+      "lines": [
+        "%% u2827:0-51 %%",
+        "Kenzo: Yeah. Kenzo goes down into the control room. There.",
+        "",
+        "%% u2828:0-19 %%",
+        "DM: \"Kenzo,\" Faldrak says.",
+        "",
+        "%% u2829:0-48 %%",
+        "Kenzo: Kenzo, Kenzo ignores, ignores him, and just goes.",
+        "",
+        "%% u2830:0-30 %%",
+        "DM: You're gonna find the answers.",
+        "",
+        "%% u2831:0-40, u2832:0-3, u2833:0-32, u2834:0-38, u2835:0-14, u2836:0-5 %%",
+        "((Cleanse Soul check and its adjudication))",
+        "",
+        "%% u2837:0-33, u2838:0-22, u2839:0-38 %%",
+        "DM: His face like completely changes. \"What—I was, I was sure there was a hidden city in the desert.\"",
+        "",
+        "%% u2840:0-213 %%",
+        "Kenzo: I know. I know you were sure. I know you were sure. Everything's good. Yeah, yeah. You got charmed by our nemesis wizard Fausto. You might have heard us talk about him. He's this Chardonian guy, not a very good man.",
+        "",
+        "%% u2841:0-16, u2842:0-26 %%",
+        "DM: He was here. He—he left like this morning.",
+        "",
+        "%% u2843:0-189 %%",
+        "Kenzo: Telepath—this morning? Telepathically to everyone, \"Yeah. Come, let's talk, everybody.\" We all get Tim. We'll start just uncharming people as he sees them. But, like, let's all talk to Faldrak.",
+        "",
+        "%% u2844:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u2845:0-50 %%",
+        "Kenzo: So, Faldrak, how long was Fausto here on the boat?",
+        "",
+        "%% u2846:0-6 %%",
+        "DM: A day.",
+        "",
+        "%% u2847:0-26 %%",
+        "Kenzo: Day. Did he take anything?",
+        "",
+        "%% u2848:0-13 %%",
+        "DM: I don't know.",
+        "",
+        "%% u2849:0-21, u2850:0-73 %%",
+        "Kenzo: Let's do a big search and see if anything is gone. Was it just him? Anybody else come with him?",
+        "",
+        "%% u2851:0-53, u2852:0-69 %%",
+        "DM: He had a little troupe with him. There was 7 of them. One guy in armor, and a bunch of like mages that followed him around.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, Amil's like, \"Whoa. Why did I think there was some hidden city in the middle of a giant desert to the east?\"",
+          "Kenzo: That's awesome. Happens to the best of us. Goes over to the [garbled] office.",
+          "Delwath: Faldrak is the most important one, because if we get Faldrak, you can just turn the ship around. We don't need them all.",
+          "Kenzo: Yeah. Okay. Yeah. Where's Faldrak, Amil?",
+          "DM: He's in the control room. Normally he was very excited. \"I always wanted to find a hidden city.\""
+        ],
+        "after": [
+          "Kenzo: Oh, boy!",
+          "Wellby: I do have to step away. I'm sorry.",
+          "DM: Bye, bye.",
+          "Kenzo: No worries. See you, Schwartz.",
+          "Riswynn: Right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i026",
+      "title": "Cloud Spinner is still aboard",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e055",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2871",
+        "endUid": "u2882"
+      },
+      "lines": [
+        "%% u2871:0-17 %%",
+        "Kenzo: Anything missing?",
+        "",
+        "%% u2872:0-135, u2873:0-14, u2874:0-49 %%",
+        "DM: I mean, there might be some. There's nothing like—you don't really keep— The only really, seriously, major thing you keep on the ship is Cloud Spinner. There may well be minor rings taken, or you know.",
+        "",
+        "%% u2875:0-20 %%",
+        "Delwath: But Cloud Spinner's—",
+        "",
+        "%% u2876:0-129 %%",
+        "DM: Cloud Spinner is still there. If Faldrak stole a thousand gold from you—or Fausto— you would never know. You've got too much gold.",
+        "",
+        "%% u2877:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u2878:0-90 %%",
+        "DM: And you keep all your magic items with you. It's just Cloud Spinner's too big to normally—",
+        "",
+        "%% u2879:0-20 %%",
+        "Delwath: Right, right, right.",
+        "",
+        "%% u2880:0-33 %%",
+        "Kenzo: And he didn't take Cloud Spinner.",
+        "",
+        "%% u2881:0-30 %%",
+        "DM: He did not take Cloud Spinner.",
+        "",
+        "%% u2882:0-5 %%",
+        "Delwath: Okay.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: That's all right.",
+          "DM: We've been going full steam for almost 2 days.",
+          "Riswynn: So we're gonna have to teleport back to Apollyon. But we were gonna do that, anyway.",
+          "Kenzo: Yeah.",
+          "Delwath: Well, the—we could— Rainbow Bridge. Oh, 500 miles! We can't Rainbow Bridge 500 miles, can we? No, Rainbow Bridge? You used Rainbow Bridge, right? Right? Right? Right? Right, right, right, right."
+        ],
+        "after": [
+          "Kenzo: All right. So we just, you know, it was okay. But yeah, Fausto, and, and 8 dudes.",
+          "Seeker: They were on the ship for how long? And then they left?",
+          "Kenzo: For a day. Anyway.",
+          "Delwath: They probably left traps and all kinds of bad things.",
+          "Seeker: Traps because they knew we'd come back here. Probably."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i027",
+      "title": "Fausto confronts the returning party",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2945",
+        "endUid": "u2953"
+      },
+      "lines": [
+        "%% u2945:0-41, u2946:0-31 %%",
+        "DM: And Seeker cast Teleport, and you appear in the temple of the 8 Divines.",
+        "",
+        "%% u2947:0-4 %%",
+        "Kenzo: -Oh.",
+        "",
+        "%% u2948:0-13 %%",
+        "DM: Where Fausto—",
+        "",
+        "%% u2949:0-6 %%",
+        "Kenzo: Oh no!",
+        "",
+        "%% u2950:0-9 %%",
+        "DM: Standing.",
+        "",
+        "%% u2951:0-3 %%",
+        "Kenzo: No.",
+        "",
+        "%% u2952:0-41 %%",
+        "DM: And yells, \"You fools! What have you done?\"",
+        "",
+        "%% u2953:0-3 %%",
+        "Kenzo: No.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Your 7th—",
+          "Delwath: It's, it's, it's more intelligent than long resting on the ship.",
+          "Riswynn: Because it gets it back.",
+          "Delwath: Because it gets Seeker's slot, but it still is another day in the world for bad things to happen.",
+          "Kenzo: Yeah. But whatever, we'll, we'll deal with that later. Pop up later. We need that 7th level spell."
+        ],
+        "after": [
+          "DM: As we end.",
+          "Seeker: Perfect.",
+          "DM: You fools! What have you done?",
+          "Kenzo: As in, you destroyed Apollyon's phylactery? Yeah, I know, but that's good. That's good for us. That's good. Get wrecked. Like, past Fausto should be excited about this."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
