@@ -1,0 +1,599 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-091",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-session.yaml",
+    "sessionYamlSha256": "6fc73b79b9f0d41eb23ed811268c5ef0fcf15e4ba74b44950d640b507353698f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-transcript.md",
+    "transcriptSha256": "9d86810f96ea8486b821879fce844986bf3d86f6a89237771a3ca40fdda76fa1",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-segments.json",
+      "sha256": "e42247aa10b6c05f691358cc1c861f361e544b46065e2745de9b4ef2f24b0ab0",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Shadow hunters attack Vindristjarna in Tollen harbor",
+      "openingActions": [
+        {
+          "actor": "Seeker",
+          "kind": "event",
+          "summary": "Raises Vindristjarna’s globe of solid ice, forcing attackers to breach openings before reaching the deck.",
+          "evidence": [
+            {
+              "startUid": "u0084",
+              "endUid": "u0105"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath",
+          "kind": "event",
+          "summary": "Casts Armor of Agathys (one-hour stated duration) and recovers a spell slot; chooses Fly instead of Spirit Shroud and grants ten-minute flight to himself, Seeker and Riswynn.",
+          "evidence": [
+            {
+              "startUid": "u0112",
+              "endUid": "u0113"
+            },
+            {
+              "startUid": "u0141",
+              "endUid": "u0153"
+            }
+          ]
+        },
+        {
+          "actor": "Kenzo",
+          "kind": "event",
+          "summary": "Uses Raven’s Whistle for flight; the table notes a failed Constitution save after damage would end that flight.",
+          "evidence": [
+            {
+              "startUid": "u0148",
+              "endUid": "u0150"
+            }
+          ]
+        },
+        {
+          "actor": "Riswynn",
+          "kind": "event",
+          "summary": "Confirms that she has already cast Death Ward on Kenzo.",
+          "evidence": [
+            {
+              "startUid": "u0158",
+              "endUid": "u0159"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Party and attackers",
+              "kind": "event",
+              "summary": "The party waits inside the ice globe while the attackers begin chipping through it.",
+              "evidence": [
+                {
+                  "startUid": "u0203",
+                  "endUid": "u0211"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Readies an arrow against the left-hand shadow hunter for the moment the ice opens.",
+              "evidence": [
+                {
+                  "startUid": "u0223",
+                  "endUid": "u0234"
+                },
+                {
+                  "startUid": "u0276",
+                  "endUid": "u0283"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Readies Synaptic Static at the breach, with three peripheral birds outside the chosen area.",
+              "evidence": [
+                {
+                  "startUid": "u0235",
+                  "endUid": "u0261"
+                },
+                {
+                  "startUid": "u0270",
+                  "endUid": "u0271"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Readies Slow against the upper/left group.",
+              "evidence": [
+                {
+                  "startUid": "u0246",
+                  "endUid": "u0263"
+                },
+                {
+                  "startUid": "u0270",
+                  "endUid": "u0271"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Spiritual Weapon on the ice-cracking preparation turn; later confirms it was cast at third level.",
+              "evidence": [
+                {
+                  "startUid": "u0272",
+                  "endUid": "u0277"
+                },
+                {
+                  "startUid": "u0393",
+                  "endUid": "u0394"
+                }
+              ]
+            },
+            {
+              "actor": "Gloom stalker",
+              "kind": "turn",
+              "summary": "Breaks through the ice, triggering the readied actions.",
+              "evidence": [
+                {
+                  "startUid": "u0284",
+                  "endUid": "u0288"
+                },
+                {
+                  "startUid": "u0330",
+                  "endUid": "u0332"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "The readied arrow hits the shadow hunter for 31 damage. Ambush Master grants allies advantage against that target this round.",
+              "evidence": [
+                {
+                  "startUid": "u0223",
+                  "endUid": "u0226"
+                },
+                {
+                  "startUid": "u0284",
+                  "endUid": "u0302"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Synaptic Static deals 31 damage on a failed DC 19 Intelligence save and half on success. All affected creatures fail except one shadow hunter; two birds die. Failed saves impose minus 1d6 to attacks, ability checks and concentration saves, with another save at each turn’s end.",
+              "evidence": [
+                {
+                  "startUid": "u0303",
+                  "endUid": "u0319"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow hunter (readied spear)",
+              "kind": "reaction",
+              "summary": "Throws a spear toward Delwath as the ice opens; the attack is reported as 16 to hit.",
+              "evidence": [
+                {
+                  "startUid": "u0292",
+                  "endUid": "u0306"
+                },
+                {
+                  "startUid": "u0333",
+                  "endUid": "u0341"
+                }
+              ],
+              "note": "No separate damage result for this readied spear is stated."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Slow affects three of four targets; one saves. Affected creatures have half speed, minus 2 AC and Dexterity saves, no reactions, at most one attack and either an action or a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u0318",
+                  "endUid": "u0332"
+                }
+              ]
+            },
+            {
+              "actor": "Fear-casting shadow hunter",
+              "kind": "turn",
+              "summary": "Casts Fear in a cone excluding Seeker. Delwath, Riswynn, Wellby and Kenzo fail Wisdom saves and become frightened. Throws two spears at Delwath (18 and 10 to hit), resolving 9 piercing and 30 necrotic damage.",
+              "evidence": [
+                {
+                  "startUid": "u0333",
+                  "endUid": "u0369"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "Fails the concentration save after taking 39 damage, ending Fly and grounding its recipients.",
+              "evidence": [
+                {
+                  "startUid": "u0384",
+                  "endUid": "u0386"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Fear forces her to Dash out of sight behind the tree. Her third-level Spiritual Weapon attacks the damaged hunter with advantage from Wellby; 16 misses.",
+              "evidence": [
+                {
+                  "startUid": "u0370",
+                  "endUid": "u0383"
+                },
+                {
+                  "startUid": "u0387",
+                  "endUid": "u0400"
+                }
+              ]
+            },
+            {
+              "actor": "Other gloom stalker",
+              "kind": "turn",
+              "summary": "Breaks another opening through the ice.",
+              "evidence": [
+                {
+                  "startUid": "u0401",
+                  "endUid": "u0403"
+                }
+              ]
+            },
+            {
+              "actor": "Ice-armored shadow hunter",
+              "kind": "reaction",
+              "summary": "Uses the new opening to throw a spear at Kenzo with disadvantage; it misses. The contemplated ladder target is abandoned.",
+              "evidence": [
+                {
+                  "startUid": "u0401",
+                  "endUid": "u0410"
+                }
+              ]
+            },
+            {
+              "actor": "Ice-armored shadow hunter",
+              "kind": "turn",
+              "summary": "Throws two further spears at Kenzo with disadvantage; both miss, the latter after the Synaptic Static penalty. Forms shadowy ice armor around himself.",
+              "evidence": [
+                {
+                  "startUid": "u0411",
+                  "endUid": "u0420"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses his action to end his fear, jumps onto the wyvern, and makes three Flurry of Blows attacks against the hunter with advantage: 14, 7 and 9 damage. Stunning Strike succeeds. The first two concentration saves succeed despite Synaptic Static; the last fails (11 minus 3), ending Fear for the party.",
+              "evidence": [
+                {
+                  "startUid": "u0421",
+                  "endUid": "u0476"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Fires eight ship icicles at the wounded hunter, resolving several hits and misses; one damage batch is stated as 18. The hunter remains alive and badly wounded. The table recognizes afterward that Ambush Master advantage should have applied to these attacks.",
+              "evidence": [
+                {
+                  "startUid": "u0482",
+                  "endUid": "u0518"
+                },
+                {
+                  "startUid": "u0527",
+                  "endUid": "u0532"
+                }
+              ],
+              "note": "The roll chatter does not establish a reliable total; no missing damage is reconstructed."
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Slams the wounded hunter. After revisiting advantage and its remaining 4 hit points, the DM resolves the slam as killing it; the hunter crumbles.",
+              "evidence": [
+                {
+                  "startUid": "u0517",
+                  "endUid": "u0535"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Banishes both gloom stalkers after failed Charisma saves. The surviving shadow hunter falls onto the water; Kenzo also falls safely onto the water when his mount vanishes.",
+              "evidence": [
+                {
+                  "startUid": "u0536",
+                  "endUid": "u0556"
+                },
+                {
+                  "startUid": "u0567",
+                  "endUid": "u0571"
+                }
+              ]
+            },
+            {
+              "actor": "Raven hawks",
+              "kind": "turn",
+              "summary": "Teleport adjacent to the party. The corrected ruling leaves the slowed pair unable to attack after teleporting and assigns 13 damage to Wellby from the unslowed pair, replacing the initial attack/damage assignment to Delwath. Pack Tactics advantage is stated; the slowed hawks fail their recovery saves.",
+              "evidence": [
+                {
+                  "startUid": "u0557",
+                  "endUid": "u0563"
+                },
+                {
+                  "startUid": "u0576",
+                  "endUid": "u0591"
+                }
+              ],
+              "note": "The initial 15-damage statement is superseded by the later correction to 13 against Wellby."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to halve the corrected 13 damage; this spends his reaction, so he cannot also use Scrambler to move away.",
+              "evidence": [
+                {
+                  "startUid": "u0592",
+                  "endUid": "u0598"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and a shortsword against the hawk immediately to his right: 15 hits for 31 damage and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u0597",
+                  "endUid": "u0603"
+                }
+              ]
+            },
+            {
+              "actor": "Returned gloom stalker",
+              "kind": "turn",
+              "summary": "Returns from Banishment at its turn’s end without acting; it remains slowed and affected by Synaptic Static.",
+              "evidence": [
+                {
+                  "startUid": "u0604",
+                  "endUid": "u0609"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Sunbeam hits the returned gloom stalker after a failed Constitution save, dealing 25 damage and blinding it. Spiritual Weapon attacks with advantage because it is blind: 21 hits for 11 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0610",
+                  "endUid": "u0643"
+                }
+              ]
+            },
+            {
+              "actor": "Ice-armored shadow hunter",
+              "kind": "turn",
+              "summary": "Runs across the water and attacks Kenzo with spears: the DM first announces a miss and a hit; Kenzo deflects the hit, and a subsequent spear also misses. Casts Blight: Kenzo’s Constitution save of 15 fails and he takes 30 necrotic damage.",
+              "evidence": [
+                {
+                  "startUid": "u0644",
+                  "endUid": "u0655"
+                },
+                {
+                  "startUid": "u0672",
+                  "endUid": "u0682"
+                }
+              ],
+              "note": "The later spear is called the second attack despite the earlier miss-and-hit call; the extraction retains the reported resolutions without reconstructing an attack count."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the spear hit to zero damage, then spends ki to redirect it. The attacker fails the return save and takes 10 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0650",
+                  "endUid": "u0671"
+                }
+              ],
+              "note": "The ability of the return saving throw is not named."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Staff attack hits without advantage for 10 damage and triggers 25 damage from the hunter’s cold shield. Fist of Planar Power rolls 21 damage; the hunter saves with a natural 20, takes the resolved half of 10, and loses the ice shield. Kenzo’s bonus unarmed attacks deal 9, 11 and 7; the first stuns the hunter after a failed DC 16 Constitution save of 13, granting advantage on the remaining two.",
+              "evidence": [
+                {
+                  "startUid": "u0683",
+                  "endUid": "u0729"
+                }
+              ],
+              "note": "The save ability for Fist of Planar Power is not stated in this exchange."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Fires another eight icicles with advantage. The batch includes a miss and a confirmed critical hit with doubled damage dice, resolved as 18d6; the later damage call is 73. One turret charge remains.",
+              "evidence": [
+                {
+                  "startUid": "u0730",
+                  "endUid": "u0752"
+                },
+                {
+                  "startUid": "u0793",
+                  "endUid": "u0795"
+                }
+              ],
+              "note": "Seeker announces the shadow hunter as target; subsequent map-dependent references do not securely disambiguate every icicle from the adjacent gloom stalker."
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Attacks the blinded, slowed gloom stalker with advantage and its minus 2 AC, resolving 11 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0753",
+                  "endUid": "u0774"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks two slowed hawks three times: the first takes a corrected 20 damage and survives, the second hit kills it, and the third deals 20 to another hawk without killing it. Climbs to a position overlooking the surviving hunter on the water; elects not to curse it.",
+              "evidence": [
+                {
+                  "startUid": "u0775",
+                  "endUid": "u0792"
+                },
+                {
+                  "startUid": "u0796",
+                  "endUid": "u0813"
+                }
+              ]
+            },
+            {
+              "actor": "Raven hawks",
+              "kind": "turn",
+              "summary": "Two hawks close on Wellby and hit with 19 and 21, dealing 12 and 11 damage before his reaction. A slowed hawk fails its save; the other gloom stalker remains banished after its save.",
+              "evidence": [
+                {
+                  "startUid": "u0814",
+                  "endUid": "u0818"
+                },
+                {
+                  "startUid": "u0820",
+                  "endUid": "u0822"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to halve the first, 12-damage hit.",
+              "evidence": [
+                {
+                  "startUid": "u0819",
+                  "endUid": "u0819"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Attacks the hawk to his right, hits, and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u0823",
+                  "endUid": "u0825"
+                }
+              ]
+            },
+            {
+              "actor": "Returned gloom stalker",
+              "kind": "turn",
+              "summary": "Although blinded, slowed and affected by Synaptic Static, flies down to Kenzo and hits with disadvantage (20) for 28 damage, grappling him. Its remaining movement raises him only about five feet above the water. Fails to end Synaptic Static, blindness and Slow.",
+              "evidence": [
+                {
+                  "startUid": "u0826",
+                  "endUid": "u0851"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Peers over the railing and kills the hooded shadow hunter with another Sunbeam after its failed save. Spiritual Weapon attacks the blinded, slowed gloom stalker with advantage: 16 hits for 7 damage but does not kill it.",
+              "evidence": [
+                {
+                  "startUid": "u0852",
+                  "endUid": "u0877"
+                }
+              ]
+            },
+            {
+              "actor": "Banished gloom stalker",
+              "kind": "turn",
+              "summary": "Fails its return save again and remains absent.",
+              "evidence": [
+                {
+                  "startUid": "u0878",
+                  "endUid": "u0882"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Reorders his proposed escape to attack first. Spends ki on Flurry of Blows; attacks of 20 and 16 hit the slowed stalker for 13 and 12 damage, killing it. It crashes into the water, so the proposed Acrobatics escape is unnecessary.",
+              "evidence": [
+                {
+                  "startUid": "u0883",
+                  "endUid": "u0906"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "Waits for the remaining banished gloom stalker and mops it up with the final raven hawk without further detailed turns. Kenzo climbs back up the ladder; the shadow hunters are dispatched and quiet returns at 2 a.m.",
+              "evidence": [
+                {
+                  "startUid": "u0907",
+                  "endUid": "u0916"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All attackers are dispatched, including the final banished gloom stalker and raven hawk in narrated cleanup. Kenzo returns up the ladder; Tollen’s waterfront is quiet at 2 a.m.",
+        "evidence": [
+          {
+            "startUid": "u0907",
+            "endUid": "u0916"
+          }
+        ]
+      }
+    }
+  ]
+}

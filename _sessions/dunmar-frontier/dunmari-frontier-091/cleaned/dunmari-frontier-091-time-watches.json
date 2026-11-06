@@ -1,0 +1,242 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-time-markers.json",
+    "sha256": "ef91fe44822d793fa50fd40d578603b45b25262983fcf3f6315e1596cb79d57c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-transcript.md",
+    "sha256": "9d86810f96ea8486b821879fce844986bf3d86f6a89237771a3ca40fdda76fa1"
+  },
+  "dateAssessment": "Working year 1749 comes from YAML; March 10, 12, 15 and 17 are spoken, with March 13, 14, 16 and 18 inferred from the stated day sequence. The time extraction remains compatible with the recorded March 9–18 span, with an open start: the fight ends at 2 a.m. before March 10 waking, while YAML and Session 91 (DuFr) label it March 9 late night. The March 12 conversation also calls it “last night.” Earlier Tollen business and the hunter’s separate pursuit stay undated; neither supplies invented days. The final March 18 event is sight of and approach to the steading, before a confirmed landing.",
+  "watches": [
+    {
+      "day": "Hunter’s earlier pursuit",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "New sunlight and nights of pursuit precede the attack; no calendar start or total duration.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Hunter viewpoint; retrospective"
+    },
+    {
+      "day": "Earlier Tollen stay",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Retrospective Tollen business; nightmare attempts occur on successive nights after Fausto’s Sending, without dates.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "scope": "Earlier Tollen interlude"
+    },
+    {
+      "day": "March 10, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Fight ends at 2 a.m.; about one minute of preparation preceded the attack.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1749-03-10",
+      "endDate": "1749-03-10"
+    },
+    {
+      "day": "March 10, 1749",
+      "startWatch": "dawn",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Long rest after 2 a.m.; sleeping in puts completion no earlier than about 10 a.m.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1749-03-10",
+      "endDate": "1749-03-10"
+    },
+    {
+      "day": "March 10–12, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "mixed",
+      "summary": "A couple of provisioning days connect the March 10 waking to March 12.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1749-03-10",
+      "endDate": "1749-03-12"
+    },
+    {
+      "day": "March 12, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Kecha’s meeting is explicitly March 12; its watch is unstated.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-03-12",
+      "endDate": "1749-03-12"
+    },
+    {
+      "day": "March 13, 1749",
+      "startWatch": "morning",
+      "endWatch": null,
+      "basis": "mixed",
+      "summary": "Next-morning departure; March 15’s third-day anchor dates the first Vostok flight to March 13.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "startDate": "1749-03-13",
+      "endDate": "1749-03-13"
+    },
+    {
+      "day": "March 14, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "inferred",
+      "summary": "The next clear travel day lies between departure and the stated March 15 third day.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1749-03-14",
+      "endDate": "1749-03-14"
+    },
+    {
+      "day": "March 15, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Third journey day is explicitly March 15; river crossing at dawn.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1749-03-15",
+      "endDate": "1749-03-15"
+    },
+    {
+      "day": "March 15, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Sunset on March 15; the party shelters from the approaching mountain storm.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1749-03-15",
+      "endDate": "1749-03-15"
+    },
+    {
+      "day": "March 16, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "inferred",
+      "summary": "The next day is a whiteout; no travel is made.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1749-03-16",
+      "endDate": "1749-03-16"
+    },
+    {
+      "day": "March 17, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Following dawn is clear; later narration explicitly confirms March 17.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1749-03-17",
+      "endDate": "1749-03-17"
+    },
+    {
+      "day": "March 17, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Wellby’s animal consultation takes place the morning after the storm, explicitly March 17.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1749-03-17",
+      "endDate": "1749-03-17",
+      "scope": "Wellby"
+    },
+    {
+      "day": "March 17, 1749",
+      "startWatch": "morning",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Most of the morning’s flight reaches the mine lookout around 3 p.m., after roughly eighty miles.",
+      "markers": [
+        "t17"
+      ],
+      "startDate": "1749-03-17",
+      "endDate": "1749-03-17"
+    },
+    {
+      "day": "March 17, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Lynx delivery takes a few minutes; fifteen minutes of boasting overlaps Wellby’s approach.",
+      "markers": [
+        "t18",
+        "t19"
+      ],
+      "startDate": "1749-03-17",
+      "endDate": "1749-03-17",
+      "scope": "Delwath and Wellby"
+    },
+    {
+      "day": "March 17, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "The sun is beginning to set as the mine conversations end.",
+      "markers": [
+        "t20"
+      ],
+      "startDate": "1749-03-17",
+      "endDate": "1749-03-17"
+    },
+    {
+      "day": "March 17–18, 1749",
+      "startWatch": "dusk",
+      "endWatch": null,
+      "basis": "mixed",
+      "summary": "Short flight at sunset, overnight stop, then travel next day; resumption clock unstated.",
+      "markers": [
+        "t21"
+      ],
+      "startDate": "1749-03-17",
+      "endDate": "1749-03-18"
+    },
+    {
+      "day": "March 18, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Following-day flight brings the steading into view at about 3 p.m.; landing remains unconfirmed.",
+      "markers": [
+        "t22"
+      ],
+      "startDate": "1749-03-18",
+      "endDate": "1749-03-18"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated campaign note (opening night label and mountain identity)",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 91 (DuFr).md",
+      "sha256": "e6806dce8ad8ada0d27b91731c7afe81d9e24a498823c8b365c9e6c507f2a8c2"
+    }
+  ]
+}

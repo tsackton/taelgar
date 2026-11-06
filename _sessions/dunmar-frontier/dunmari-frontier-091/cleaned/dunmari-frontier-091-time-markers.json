@@ -1,0 +1,747 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-091",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-session.yaml",
+    "sessionYamlSha256": "6fc73b79b9f0d41eb23ed811268c5ef0fcf15e4ba74b44950d640b507353698f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-transcript.md",
+    "transcriptSha256": "9d86810f96ea8486b821879fce844986bf3d86f6a89237771a3ca40fdda76fa1",
+    "yamlDates": {
+      "start": "1749-03-09",
+      "end": "1749-03-18"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0027"
+      },
+      "reading": "The hunter’s viewpoint moves from new sunlight through nights of pursuit and pauses, ending at the current ship attack; no duration or calendar start is established.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0012",
+          "quote": "his first memory is the searing pain of new sunlight."
+        },
+        {
+          "startUid": "u0013",
+          "endUid": "u0017",
+          "quote": "Then the first nights he flies south."
+        },
+        {
+          "startUid": "u0023",
+          "endUid": "u0027",
+          "quote": "They have been still for a long time. Plenty of time."
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Pursuing shadow hunter"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Earlier pursuit narrated before the present attack; absolute dates and total elapsed time remain open.",
+        "relative": {
+          "relation": "before",
+          "reference": "t02",
+          "anchor": "present attack"
+        }
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0028",
+        "endUid": "u0037"
+      },
+      "reading": "The party has approximately one minute to prepare before the attackers reach the ship.",
+      "evidence": [
+        {
+          "startUid": "u0028",
+          "endUid": "u0028",
+          "quote": "DM: With that, you have like a minute, basically, before they reach."
+        },
+        {
+          "startUid": "u0036",
+          "endUid": "u0037",
+          "quote": "DM: You have a minute, approximately."
+        },
+        {
+          "startUid": "u0053",
+          "endUid": "u0054",
+          "quote": "Riswynn: I don't see why you're assuming that Riswynn doesn't just walk around Vindristjarna every day in her full armor in the middle of the night. Oh, it's the night."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM twice grants approximately a minute before the attackers arrive."
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "Nighttime preparation is confirmed at u0053–u0054.",
+        "partOfDay": "night"
+      },
+      "note": "An advance warning, not a measurement of the ensuing fight."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0913",
+        "endUid": "u0916"
+      },
+      "reading": "The shipboard fight ends at 2 a.m. in Tollen.",
+      "evidence": [
+        {
+          "startUid": "u0913",
+          "endUid": "u0916",
+          "quote": "DM: So with that, their shadow hunters are dispatched, and quiet returns to the waterfront of Tollen at 2 in the morning."
+        },
+        {
+          "startUid": "u0977",
+          "endUid": "u0979",
+          "quote": "DM: But you sleep in, slowly awake on March tenth, a few days before you leave."
+        },
+        {
+          "startUid": "u1035",
+          "endUid": "u1035",
+          "quote": "Riswynn: Larger even than the creatures you fought last night, much in the harbor there, but—or whatever inlet—"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "2 a.m. is spoken; March 10 is inferred from the subsequent sleep-in/waking date; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 10
+        },
+        "clock": "02:00"
+      },
+      "note": "The March 12 route conversation calls the attack “last night” (u1035). That casual retrospective cue does not resolve the tension with the explicit waking date or YAML’s March 9 start."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0970",
+        "endUid": "u0979"
+      },
+      "reading": "After the attack, the party returns to bed, completes a long rest by sleeping in, and wakes on March 10.",
+      "evidence": [
+        {
+          "startUid": "u0970",
+          "endUid": "u0979",
+          "quote": "DM: Yup. A less expensive diamond. So What are you all doing? Just going back to bed? We skip to the morning.\nDelwath: Yeah, I mean, yeah. Long rest\nRiswynn: A long rest before, you know, between now in the morning.\nDM: If we sleep in. Stop.\nDM: But you sleep in, slowly awake on March tenth, a few days before you leave."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "The DM skips to morning, allows sleeping in, and states March 10; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 10
+        },
+        "partOfDay": "morning"
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Established long-rest convention; no exact bedtime or wake-up clock is given."
+      },
+      "completion": "completed",
+      "note": "Because the fight ends at 2 a.m. and the rest starts afterward, eight hours reaches at least about 10 a.m.; “morning” is loose narration rather than a precise 06–10 watch."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0992",
+        "endUid": "u0993"
+      },
+      "reading": "The party spends the next couple of days provisioning before the March 12 meeting.",
+      "evidence": [
+        {
+          "startUid": "u0992",
+          "endUid": "u0999",
+          "quote": "DM: So over the next couple of days, you, you put in supplies, prepare the ship for departure.\nDM: And on the March twelfth, the day before you were to leave, Kecha, the, the kenku who's been staying on the ship, calls you all in and and rolls out the maps and, and sits down to ask, “So, where are we actually going?”"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "“Next couple of days,” bounded by March 10 waking and the March 12 meeting."
+      },
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Inferred from the preceding explicit March 10 wake-up.",
+          "date": {
+            "year": 1749,
+            "month": 3,
+            "day": 10
+          }
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Following Kecha meeting explicitly dated March 12.",
+          "date": {
+            "year": 1749,
+            "month": 3,
+            "day": 12
+          }
+        }
+      },
+      "dateBoundaries": 2,
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0994",
+        "endUid": "u0999"
+      },
+      "reading": "Kecha opens the route-planning meeting on March 12, the day before departure.",
+      "evidence": [
+        {
+          "startUid": "u0994",
+          "endUid": "u0999",
+          "quote": "DM: And on the March twelfth, the day before you were to leave, Kecha, the, the kenku who's been staying on the ship, calls you all in and and rolls out the maps and, and sits down to ask, “So, where are we actually going?”"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Month/day stated; year from session YAML.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 12
+        }
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1174",
+        "endUid": "u1182"
+      },
+      "reading": "Before departure, play turns back to resolve activities during the preceding Tollen stay.",
+      "evidence": [
+        {
+          "startUid": "u1174",
+          "endUid": "u1182",
+          "quote": "DM: Anything. Is there anything that anybody has done during the past months that you've been in Tollen that you wanna spend 5 min on? Anybody that you're—are you recruiting anybody? I think you're gonna recruit a map maker, is that right? Anybody else you want to recruit?\nDelwath: Busy mentoring already. Delwath at some point. We’ll mention the fact that the gods have mentioned that there's a somebody else who fell out of a shadow—the same shadow, some shadow dimension, just like, like Delwath—is around here somewhere nearby. I don't know where, but we should keep an eye out.\nUnknown: Okay.\nDelwath: Recruit a map maker.\nDM: Anything else anybody wants to do in Tollen? How have people spent their month?"
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "precision": "approximate",
+        "basis": "DM asks what the characters did during the past month(s) in Tollen; this scopes a retrospective insertion, not a measured new month of elapsed adventure.",
+        "relative": {
+          "relation": "before",
+          "reference": "t09",
+          "anchor": "departure from Tollen"
+        }
+      },
+      "note": "No start date is assigned to the assorted earlier activities."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1225",
+        "endUid": "u1238"
+      },
+      "reading": "In the retrospective Tollen business, Delwath’s nightmare attempts against Fausto fail on the night after Fausto’s Sending and again the next night; he continues trying nightly.",
+      "evidence": [
+        {
+          "startUid": "u1225",
+          "endUid": "u1238",
+          "quote": "Delwath: I, um, after Fausto does the Sending, the next night I'm gonna try and send him a nightmare.\nKenzo: Tries to have a nightmare.\nDM: Does not—nothing happens.\nDelwath: Well, no, he—I still send him—nothing? It—\nDM: Nope, nothing happens.\nDelwath: The Dream doesn't work. They have to be on the same plane of existence as you. Interesting. Fausto's probably found his way to Pandemonium.\nKenzo: Which is\nSeeker: Bad.\nDelwath: I'll try again the next night.\nDM: Nope.\nDelwath: Doesn't—nothing happens. I will then just keep trying every night.\nDM: He seems not to sleep on this plane of existence."
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Attempts are placed on nights relative to the Sending, whose date is not supplied here.",
+        "relative": {
+          "relation": "after",
+          "anchor": "Fausto’s Sending"
+        },
+        "partOfDay": "night"
+      },
+      "note": "The first two nights are identifiable but undated. Continued attempts do not establish how many further nights passed."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1243",
+        "endUid": "u1245"
+      },
+      "reading": "Narration resumes the departure morning: the ship leaves Tollen with the recruited mapmaker and elf gardener.",
+      "evidence": [
+        {
+          "startUid": "u1170",
+          "endUid": "u1170",
+          "quote": "DM: So the next morning—"
+        },
+        {
+          "startUid": "u1243",
+          "endUid": "u1245",
+          "quote": "DM: So you prepared to leave, ship flying, departing Tollen. You've got your newly recruited mapmaker and the elf gardener that at some point over the next month we'll have a little flashback introduction for."
+        },
+        {
+          "startUid": "u1297",
+          "endUid": "u1304",
+          "quote": "The third day of your journey, March fifteenth, you cross a river at dawn,"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "“Next morning” after March 12; confirmed by March 15 being the third travel day; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 13
+        },
+        "partOfDay": "morning"
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t06",
+          "note": "Resumes the forward departure sequence after resolving the earlier Tollen business."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1284",
+        "endUid": "u1292"
+      },
+      "reading": "The first travel day is spent heading north across Vostok.",
+      "evidence": [
+        {
+          "startUid": "u1284",
+          "endUid": "u1292",
+          "quote": "DM: Okay, so you leave, slowly begin drifting north, crossing Vostok, heading to the the mountains that separate Vostok from from the lands beyond, from the vast forests. And the first day is, is cold but clear, and you spend a, a day just sort of heading north across the—in, you know, crossing into the sort of interior Highlands of Vostok, crossing over some, you know, rivers and forests and a couple of lakes."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Departure day inferred as March 13 from the third-day date.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 13
+        }
+      },
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "A narrated day of travel, not an asserted 24-hour duration."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1293",
+        "endUid": "u1296"
+      },
+      "reading": "On the next travel day the weather remains clear, with clouds over the approaching mountains.",
+      "evidence": [
+        {
+          "startUid": "u1293",
+          "endUid": "u1296",
+          "quote": "DM: Next day also clear, but there's storm clouds on the horizon, and the mountains ahead, which are growing as you approach, are snowy and, and, and covered in, you know— wreathed in clouds."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Second travel day between the March 13 departure and stated third-day March 15.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 14
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1297",
+        "endUid": "u1304"
+      },
+      "reading": "On the third travel day, March 15, the ship crosses a river at dawn.",
+      "evidence": [
+        {
+          "startUid": "u1297",
+          "endUid": "u1304",
+          "quote": "The third day of your journey, March fifteenth, you cross a river at dawn,"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Month/day stated; year from session YAML.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 15
+        },
+        "partOfDay": "dawn"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1297",
+        "endUid": "u1319"
+      },
+      "reading": "By sunset on March 15 the party reaches the stormy foothills and takes shelter.",
+      "evidence": [
+        {
+          "startUid": "u1297",
+          "endUid": "u1304",
+          "quote": "as the sun begins to set and dips below the horizon, you can see you're basically heading into a snowstorm on the mountains."
+        },
+        {
+          "startUid": "u1307",
+          "endUid": "u1316",
+          "quote": "Delwath: Sorry, I can't—oh, okay. I just, I went—where? So we're past that first—okay, we should land. I, I don't think a snowstorm is wise. It's not. It's not a necessary risk. Yeah.\nSeeker: How high we need to fly to avoid running into a mountain?\nDelwath: Yeah. Let's, let's find a spot to take shelter from this storm in the foothills somewhere.\nSeeker: Umhm. Okay?\nDM: I mean, that's that's easy enough. You're all—Wellby is—can't roll lower than, what, a 26 on Survival or something like that, so easy enough to find shelter. And you got plenty of food, and you got, like, 2 months worth of food stocked in, and geothermal heated floors, so—"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Sunset within the explicitly dated third travel day; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 15
+        },
+        "partOfDay": "sunset"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1320",
+        "endUid": "u1329"
+      },
+      "reading": "The next day is a whiteout; the ship remains sheltered rather than traveling.",
+      "evidence": [
+        {
+          "startUid": "u1320",
+          "endUid": "u1329",
+          "quote": "DM: The next day, just complete whiteout conditions, blizzard moving across, strong wind blowing.\nDM: Kecha spends much of the time just kind of huddled in the in the, in the—I don't know, wherever a nice dining hall, whatever. The elf gardener spends a lot of time sort of, you know, standing around the tree just kind of tending to it and make sure it doesn't die in the snow. I think Kenzo helps with that as well. Probably not a day that you're going anywhere."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Next day after the March 15 shelter.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 16
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1341",
+        "endUid": "u1348"
+      },
+      "reading": "Waiting out the blizzard ends at the following clear dawn, when the party rises and begins crossing the mountains.",
+      "evidence": [
+        {
+          "startUid": "u1341",
+          "endUid": "u1348",
+          "quote": "DM: So you wait, huddled in your massive, well-stocked, well-protected hall in the middle of the wilderness,\nDM: Till the next morning. Dawn's clear, snow drifts everywhere. It snowed about a foot in the night, but the sun is shining, the clouds have cleared up. You can see the mountains ahead of you. And you rise, and you begin to cross, right?"
+        },
+        {
+          "startUid": "u1367",
+          "endUid": "u1373",
+          "quote": "It's like March seventeenth now."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Following dawn after March 16, confirmed by the later explicit March 17 date; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 17
+        },
+        "partOfDay": "dawn"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1367",
+        "endUid": "u1373"
+      },
+      "reading": "Wellby talks to animals in the morning after the snowstorm, explicitly March 17.",
+      "evidence": [
+        {
+          "startUid": "u1367",
+          "endUid": "u1373",
+          "quote": "DM: Yeah, so, so Wellby spends some morning after the snowstorm kind of communing, you know, talking to the birds, and— ... There's—so you learn 3 things from the animals around, and, and there's a decent—I mean, there's a— this is, this is not— no, this is like winter turning to spring, right? Like mid-March. A lot of the animals that started to come out of hibernation. There's definitely birds around. It's not a barren wasteland, right? And especially right after the snow. You know, there's animals trying to find food and things like that. It's mid-March. It's like March seventeenth now. So nearly officially spring."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "Month/day stated; year from session YAML.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 17
+        },
+        "partOfDay": "morning"
+      }
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1408",
+        "endUid": "u1415"
+      },
+      "reading": "The northbound flight takes most of the morning and reaches the mine lookout at about 3 p.m., after roughly eighty miles.",
+      "evidence": [
+        {
+          "startUid": "u1408",
+          "endUid": "u1415",
+          "quote": "DM: So you spend some time, the most of the morning and into the afternoon, flying not super high over the, the sort of—I mean, these are, these are steep, snowy mountains. You pass glaciers, like, everything is completely covered in snow and ice below you once you get above even a small amount of elevation. It's like there's, like, stunted pines, but almost no trees once you get super high. There are these deep valleys in between mountains, but often have lakes, you know, filled with trees and, and, you know, occasionally a small river or something rushing through them, frozen now. See some frozen waterfalls.\nDM: But there's this sort of pattern of these steep glacial hill mountains, and then these deep valleys in between them. And as you're heading north, by maybe 3 in the afternoon or so, after having gone 80-ish miles, you're not super high up, right, but you can still see a decent distance away."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Morning flight after the March 17 animal consultation.",
+          "date": {
+            "year": 1749,
+            "month": 3,
+            "day": 17
+          },
+          "partOfDay": "morning"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM says maybe 3 in the afternoon on the continuing day.",
+          "date": {
+            "year": 1749,
+            "month": 3,
+            "day": 17
+          },
+          "clock": "15:00"
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1642",
+        "endUid": "u1644"
+      },
+      "reading": "The lynx delivers Delwath’s parley note to the giant in a few minutes.",
+      "evidence": [
+        {
+          "startUid": "u1642",
+          "endUid": "u1644",
+          "quote": "DM: Okay. I mean, it takes like a few minutes for the lynx to get there. One of the giants, like, puzzles over this, like, tiny—like reading a postage stamp."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates the completed delivery as taking a few minutes."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u1854",
+        "endUid": "u1856"
+      },
+      "reading": "The male giant talks about Brimskarda for about fifteen minutes while Wellby flies up to the dwarves.",
+      "evidence": [
+        {
+          "startUid": "u1854",
+          "endUid": "u1856",
+          "quote": "DM: He has done many great deeds, and he’s now talking for, like, you know, 15 min as Wellby flies up silently to the dwarves, who have now all basically stopped whatever working they were doing and are just kind of watching. And, and"
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM describes fifteen minutes of boasting, explicitly concurrent with Wellby’s approach."
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2273",
+        "endUid": "u2274"
+      },
+      "reading": "As the mine conversations end, the sun begins setting on March 17; the proposed overnight flight is still only an option.",
+      "evidence": [
+        {
+          "startUid": "u2273",
+          "endUid": "u2274",
+          "quote": "DM: So it's a hundred miles north. It's about 90 miles north. So it's—the sun is beginning to set now, so if you leave immediately, you could get there around dawn with a short break in the middle of the night."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Sunset during the continuing March 17 mine visit; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 17
+        },
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u2300",
+        "endUid": "u2303"
+      },
+      "reading": "The party travels a little way at sunset, stops the ship overnight, then resumes northbound travel.",
+      "evidence": [
+        {
+          "startUid": "u2300",
+          "endUid": "u2303",
+          "quote": "DM: So you travel, travel a little ways, and as the sun sets, you rest the ship overnight and then continue heading north along the mountains."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Sunset following the mine visit; year from YAML.",
+          "date": {
+            "year": 1749,
+            "month": 3,
+            "day": 17
+          },
+          "partOfDay": "sunset"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Overnight stop followed by resumed travel the next day; no exact wake-up time.",
+          "date": {
+            "year": 1749,
+            "month": 3,
+            "day": 18
+          },
+          "partOfDay": "morning"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "The ship rests overnight; the transcript does not explicitly award a mechanical long rest here."
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u2304",
+        "endUid": "u2316"
+      },
+      "reading": "The following day’s northbound flight reaches sight of the steading at about 3 p.m. on March 18.",
+      "evidence": [
+        {
+          "startUid": "u2304",
+          "endUid": "u2316",
+          "quote": "DM: The following day is a cold, windy, cloudy day. Occasional snow flurries. But not, not like a blizzard that stopped you before, but, you know, enough to notice, and sort of miserable flying as you cut through the wind and the blowing snow up, up among the clouds, passing in and out of these sort of icy clouds.\nDM: You, you don't see any, you know, settlements below you. There's no dwarven villages or stoneborn communities or anything, but it's also, like, quite cold, and it seems likely that dwarves would live underground, and stoneborn—stoneborn might live up in that, in the glaciers, but the frost giants clearly are happy in—right. [garbled]. So you don't see anything on the way, but around, you know, 3 in the afternoon, the sun's low in the sky, but not super close to setting."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Following day after the March 17 overnight stop; arrival-in-sight clock about 3 p.m. is spoken; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 18
+        },
+        "clock": "15:00"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "Month/day anchors March 10, 12, 15 and 17 are spoken; March 13, 14, 16 and 18 follow from next-day and third-day narration. The year 1749 comes from YAML. The fight ends at 2 a.m.; assigning its civil date March 10 follows the subsequent waking date, while a March 9 night-label convention remains possible.",
+    "expectedDateBoundaries": 9,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t11",
+      "t12",
+      "t14",
+      "t15",
+      "t21",
+      "t22"
+    ],
+    "explanation": "Current party play securely spans March 10 waking through March 18 approach (eight date transitions). The opening 2 a.m. fight and the undated earlier Tollen actions prevent an exact determination of the covered start. The hunter’s separate earlier pursuit is not extra party travel. YAML’s March 9 start may use the preceding night label; it is not used to invent an additional day. The March 12 “last night” reference also remains qualified rather than silently replacing the explicit dates."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t03",
+        "t04",
+        "t07",
+        "t08"
+      ],
+      "reading": "Opening night naming and retrospectively resolved Tollen actions leave the adventure start open.",
+      "alternatives": [
+        {
+          "reading": "Fight at 2 a.m. on the same civil date as the subsequent March 10 waking.",
+          "date": "1749-03-10"
+        },
+        {
+          "reading": "March 9 labels the preceding evening/night as in YAML, without establishing a March 9 civil clock for the fight.",
+          "date": "1749-03-09"
+        },
+        {
+          "reading": "Earlier Tollen contacts and nightmare attempts extend the covered events before departure, but their first date is not stated."
+        }
+      ]
+    }
+  ]
+}

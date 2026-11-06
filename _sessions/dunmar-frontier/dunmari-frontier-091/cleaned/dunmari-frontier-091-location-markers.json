@@ -1,0 +1,919 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-091",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-session.yaml",
+    "sessionYamlSha256": "6fc73b79b9f0d41eb23ed811268c5ef0fcf15e4ba74b44950d640b507353698f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-transcript.md",
+    "transcriptSha256": "9d86810f96ea8486b821879fce844986bf3d86f6a89237771a3ca40fdda76fa1"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0053",
+          "endUid": "u0054",
+          "quote": "Riswynn: I don't see why you're assuming that Riswynn doesn't just walk around Vindristjarna every day in her full armor in the middle of the night. Oh, it's the night."
+        }
+      ],
+      "mobile": true,
+      "kind": "vessel",
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "Deck of Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0197",
+          "endUid": "u0197",
+          "quote": "Riswynn: Alright. So we're standing on the deck of the ship with piles of armor next to us we may or may not be able to put on, as we wait to see whether it takes them half an hour or 5 min to break through."
+        }
+      ],
+      "kind": "deck",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0197",
+              "endUid": "u0197",
+              "quote": "Riswynn: Alright. So we're standing on the deck of the ship with piles of armor next to us we may or may not be able to put on, as we wait to see whether it takes them half an hour or 5 min to break through."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Tollen harbor",
+      "evidence": [
+        {
+          "startUid": "u0913",
+          "endUid": "u0923",
+          "quote": "DM: So with that, their shadow hunters are dispatched, and quiet returns to the waterfront of Tollen at 2 in the morning.\nDM: You can see there's a there's a a rowboat with like 12 guardsmen on it racing towards you. There's commotion on the docks. There's like, you know the bodies of people who were picked up and tossed by these creatures. There's a bit of chaos. But the people on the boats at least see—the, the guard on the boats at least sees the last one fall into the water and disappear beneath the waves of the Tollen harbor."
+        }
+      ],
+      "kind": "harbor",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Port of Tollen.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0913",
+              "endUid": "u0923",
+              "quote": "DM: So with that, their shadow hunters are dispatched, and quiet returns to the waterfront of Tollen at 2 in the morning.\nDM: You can see there's a there's a a rowboat with like 12 guardsmen on it racing towards you. There's commotion on the docks. There's like, you know the bodies of people who were picked up and tossed by these creatures. There's a bit of chaos. But the people on the boats at least see—the, the guard on the boats at least sees the last one fall into the water and disappear beneath the waves of the Tollen harbor."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Tollen",
+      "evidence": [
+        {
+          "startUid": "u0913",
+          "endUid": "u0916",
+          "quote": "DM: So with that, their shadow hunters are dispatched, and quiet returns to the waterfront of Tollen at 2 in the morning."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p05": {
+      "label": "Courtyard in the hunter’s first memory",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0012",
+          "quote": "DM: Okay. So his first memory is the searing pain of new sunlight. Does not understand the whispers that echo in his head, but they awaken something in him. The pain of the sunlight fades to a dull background ache, easily ignored. The walls around him—a courtyard, he thinks, although words are hard to remember now—fade to a pale shadow, and suddenly he can see, feel in the far distance a bright light. His quarry. You must get there and bring it back, whatever it is. The light of this quarry is so distant across mountains and deserts, but it does not matter. As darkness falls, the bright light of his quarry grows stronger without the sun to distract him."
+        }
+      ],
+      "kind": "courtyard",
+      "note": "The narrator calls it a courtyard tentatively; its location and the hunter’s former identity are not established."
+    },
+    "p06": {
+      "label": "Vostok",
+      "evidence": [
+        {
+          "startUid": "u1284",
+          "endUid": "u1292",
+          "quote": "DM: Okay, so you leave, slowly begin drifting north, crossing Vostok, heading to the the mountains that separate Vostok from from the lands beyond, from the vast forests. And the first day is, is cold but clear, and you spend a, a day just sort of heading north across the—in, you know, crossing into the sort of interior Highlands of Vostok, crossing over some, you know, rivers and forests and a couple of lakes."
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Greater Sembara/Vostok/Vostok.md"
+    },
+    "p07": {
+      "label": "Mountains beyond Vostok",
+      "evidence": [
+        {
+          "startUid": "u1284",
+          "endUid": "u1296",
+          "quote": "DM: Okay, so you leave, slowly begin drifting north, crossing Vostok, heading to the the mountains that separate Vostok from from the lands beyond, from the vast forests. And the first day is, is cold but clear, and you spend a, a day just sort of heading north across the—in, you know, crossing into the sort of interior Highlands of Vostok, crossing over some, you know, rivers and forests and a couple of lakes.\nDM: Next day also clear, but there's storm clouds on the horizon, and the mountains ahead, which are growing as you approach, are snowy and, and, and covered in, you know— wreathed in clouds."
+        },
+        {
+          "startUid": "u1408",
+          "endUid": "u1415",
+          "quote": "DM: So you spend some time, the most of the morning and into the afternoon, flying not super high over the, the sort of—I mean, these are, these are steep, snowy mountains. You pass glaciers, like, everything is completely covered in snow and ice below you once you get above even a small amount of elevation. It's like there's, like, stunted pines, but almost no trees once you get super high. There are these deep valleys in between mountains, but often have lakes, you know, filled with trees and, and, you know, occasionally a small river or something rushing through them, frozen now. See some frozen waterfalls.\nDM: But there's this sort of pattern of these steep glacial hill mountains, and then these deep valleys in between them. And as you're heading north, by maybe 3 in the afternoon or so, after having gone 80-ish miles, you're not super high up, right, but you can still see a decent distance away."
+        }
+      ],
+      "kind": "mountain range",
+      "vaultPath": "Gazetteer/Northern Green Sea/Svinjo Mountains.md",
+      "note": "The Svinjo Mountains note and Session 91 (DuFr) identify this journey’s range. The transcript uses descriptive mountain labels; the vault match supplies no extra route or exact borders."
+    },
+    "p08": {
+      "label": "Sheltered foothill stopping place",
+      "evidence": [
+        {
+          "startUid": "u1306",
+          "endUid": "u1319",
+          "quote": "Riswynn: How far north?\nDM: We're in the foothills of the—you're like, you're like here.\nDelwath: Sorry, I can't—oh, okay. I just, I went—where? So we're past that first—okay, we should land. I, I don't think a snowstorm is wise. It's not. It's not a necessary risk. Yeah.\nSeeker: How high we need to fly to avoid running into a mountain?\nDelwath: Yeah. Let's, let's find a spot to take shelter from this storm in the foothills somewhere.\nSeeker: Umhm. Okay?\nDM: I mean, that's that's easy enough. You're all—Wellby is—can't roll lower than, what, a 26 on Survival or something like that, so easy enough to find shelter. And you got plenty of food, and you got, like, 2 months worth of food stocked in, and geothermal heated floors, so—\nDelwath: And Delwath actually has a tendency to send out his lynx to collect food anyway as we pass through areas, right? So, like, we also try and not use our supplies as much as possible. Right?\nDM: Right."
+        }
+      ],
+      "kind": "shelter",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1306",
+              "endUid": "u1316",
+              "quote": "Riswynn: How far north?\nDM: We're in the foothills of the—you're like, you're like here.\nDelwath: Sorry, I can't—oh, okay. I just, I went—where? So we're past that first—okay, we should land. I, I don't think a snowstorm is wise. It's not. It's not a necessary risk. Yeah.\nSeeker: How high we need to fly to avoid running into a mountain?\nDelwath: Yeah. Let's, let's find a spot to take shelter from this storm in the foothills somewhere.\nSeeker: Umhm. Okay?\nDM: I mean, that's that's easy enough. You're all—Wellby is—can't roll lower than, what, a 26 on Survival or something like that, so easy enough to find shelter. And you got plenty of food, and you got, like, 2 months worth of food stocked in, and geothermal heated floors, so—"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Mine site watched by two frost giants",
+      "evidence": [
+        {
+          "startUid": "u1416",
+          "endUid": "u1438",
+          "quote": "DM: And you can see now what looks probably like a some kind of clearing, a mine.\nDelwath: You can see—sorry, did you say a mine? I just didn't—\nDM: Yeah. A mine, like an entrance into the mountains, and you can see that there are 2. And this is, this is maybe from a mile away, so you're definitely gonna be visible too.\nDM: You can see that there are 2 giants, like very big giants, 15-foot tall, not quite as big as Hralgar. Clearly, definitely giants. They are both wearing—they're both wearing armor, kind of like silvery plated armor, and they have javelins strapped to their back that are, like, 10 feet long each and have these big tips made out of ice, and they're both mounted on enormous woolly mammoths, like larger than a woolly mammoth really should be. And I see by watching over—\nDelwath: Dinosaur-sized woolly mammoths.\nRiswynn: Should be, like, envisioning, like, a brontosaurus, or not quite that big? Something like a 15—\nKenzo: Like a stegosaurus. Okay? Somebody got a mid journey disc. Somebody got a mid person on an elephant, but then make the person 15 feet tall.\nDM: Yeah, basically that. Hey, awesome. Maybe more like a person on a horse, right? So they're, they're like 30 feet big, the woolly mammoths. [garbled]"
+        }
+      ],
+      "kind": "mine site",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1421",
+              "endUid": "u1422",
+              "quote": "DM: Yeah. A mine, like an entrance into the mountains, and you can see that there are 2. And this is, this is maybe from a mile away, so you're definitely gonna be visible too."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u1795",
+              "endUid": "u1797",
+              "quote": "DM: “You, you— you are on Brimskarda’s land! Did you know that?”"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Ship landing place near the mine",
+      "evidence": [
+        {
+          "startUid": "u1653",
+          "endUid": "u1655",
+          "quote": "Delwath: Yeah, he's, he's pointing down, so let's land as close—as soon as he starts to indicate something, we want to start moving, and we want to land as close to the dwarves and the activity and stuff as is reasonable, without trying—without, without seeming like we're buzzing past him or anything like that, right? Like—\nDM: You're moving faster than him. Right? You probably end up landing like 500 feet away from the sort of mine area, and the and the second giant in the dwarves."
+        }
+      ],
+      "kind": "landing site",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1653",
+              "endUid": "u1655",
+              "quote": "Delwath: Yeah, he's, he's pointing down, so let's land as close—as soon as he starts to indicate something, we want to start moving, and we want to land as close to the dwarves and the activity and stuff as is reasonable, without trying—without, without seeming like we're buzzing past him or anything like that, right? Like—\nDM: You're moving faster than him. Right? You probably end up landing like 500 feet away from the sort of mine area, and the and the second giant in the dwarves."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Dwarves’ work area at the mine",
+      "evidence": [
+        {
+          "startUid": "u1483",
+          "endUid": "u1498",
+          "quote": "Seeker: I'll clairvoyance with vision to try to see what they're looking down the ground at.\nDM: As your Clairvoyance sensor appears, you can see below you. It looks like there's maybe a dozen dwarves that are carrying ore out of the ground.\nSeeker: Who are slaves? What, what kind of ore?\nDM: Hard to tell. Probably iron.\nSeeker: I'll switch to audio.\nDM: ... The 2 giants are, are, like, talking to each other in these loud, booming voices you can almost hear with your plain ears, the 2 giants, and they seem to be like—\nDM: You do pick up the sort of muttering of, of a couple of the dwarves, like, “What’s got them stirred up?” And I mean, obviously you understand Dwarfish. They’re speaking in Dwarfish. “What’s got them stirred up now?” Like, “Hmm. Hope it’s nothing of consequence.” “Shush! They’ll probably take it out on us.”"
+        }
+      ],
+      "kind": "work area",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1483",
+              "endUid": "u1498",
+              "quote": "Seeker: I'll clairvoyance with vision to try to see what they're looking down the ground at.\nDM: As your Clairvoyance sensor appears, you can see below you. It looks like there's maybe a dozen dwarves that are carrying ore out of the ground.\nSeeker: Who are slaves? What, what kind of ore?\nDM: Hard to tell. Probably iron.\nSeeker: I'll switch to audio.\nDM: ... The 2 giants are, are, like, talking to each other in these loud, booming voices you can almost hear with your plain ears, the 2 giants, and they seem to be like—\nDM: You do pick up the sort of muttering of, of a couple of the dwarves, like, “What’s got them stirred up?” And I mean, obviously you understand Dwarfish. They’re speaking in Dwarfish. “What’s got them stirred up now?” Like, “Hmm. Hope it’s nothing of consequence.” “Shush! They’ll probably take it out on us.”"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Brimskarda’s steading",
+      "evidence": [
+        {
+          "startUid": "u2317",
+          "endUid": "u2338",
+          "quote": "DM: You see the frost giant steading ahead of you. This is a—it's, it's basically the entire top of a mountain that's been flattened and then carved. There's a good sort of dozen houses that are sort of in a circle at a lower elevation, and there's a great hall sort of set on the peak of the mountain. There's a glacier that's been sort of— ice of a glacier has been sort of carved and parted, so these blue walls that surround this, this hall, right? It's like a long—it's like a Viking longhouse or something, right? It's just a a big, long stone building, but the late afternoon sun sparkling in this, you know, carved bowl of a glacier causes these blue—light blue reflections, blue crystals to shine everywhere and make that past the hall itself, as if it's made of, like, some sort of blue crystal.\nDM: They're in the sort of lower slopes. You can see that there's a pen, or there's half dozen of these massive mammoth creatures, and you can hear the barking and howling of what must be enormous wolves.\nDM: There are 2 giants clearly on lookout, watching, and, you know, who sort of signal as they see you.\nDM: And I think that's a good place to stop as you guide the airship into the— Brimskarda, the Frost Giant King. And we'll pick up there in February."
+        }
+      ],
+      "kind": "steading",
+      "vaultPath": "Gazetteer/Northern Green Sea/Isenborg.md",
+      "note": "Isenborg identifies Brimskarda’s principal steading in the vault. Its name is not spoken here; the party sees and approaches it but does not yet land.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2300",
+              "endUid": "u2328",
+              "quote": "DM: So you travel, travel a little ways, and as the sun sets, you rest the ship overnight and then continue heading north along the mountains.\nDM: The following day is a cold, windy, cloudy day. Occasional snow flurries. But not, not like a blizzard that stopped you before, but, you know, enough to notice, and sort of miserable flying as you cut through the wind and the blowing snow up, up among the clouds, passing in and out of these sort of icy clouds.\nDM: You, you don't see any, you know, settlements below you. There's no dwarven villages or stoneborn communities or anything, but it's also, like, quite cold, and it seems likely that dwarves would live underground, and stoneborn—stoneborn might live up in that, in the glaciers, but the frost giants clearly are happy in—right. [garbled]. So you don't see anything on the way, but around, you know, 3 in the afternoon, the sun's low in the sky, but not super close to setting.\nDM: You see the frost giant steading ahead of you. This is a—it's, it's basically the entire top of a mountain that's been flattened and then carved. There's a good sort of dozen houses that are sort of in a circle at a lower elevation, and there's a great hall sort of set on the peak of the mountain. There's a glacier that's been sort of— ice of a glacier has been sort of carved and parted, so these blue walls that surround this, this hall, right? It's like a long—it's like a Viking longhouse or something, right? It's just a a big, long stone building, but the late afternoon sun sparkling in this, you know, carved bowl of a glacier causes these blue—light blue reflections, blue crystals to shine everywhere and make that past the hall itself, as if it's made of, like, some sort of blue crystal."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Overnight stopping point along the mountains",
+      "evidence": [
+        {
+          "startUid": "u2300",
+          "endUid": "u2303",
+          "quote": "DM: So you travel, travel a little ways, and as the sun sets, you rest the ship overnight and then continue heading north along the mountains."
+        }
+      ],
+      "kind": "overnight stop",
+      "note": "The ship rests overnight; no landing surface, camp layout or precise position is given.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2300",
+              "endUid": "u2303",
+              "quote": "DM: So you travel, travel a little ways, and as the sun sets, you rest the ship overnight and then continue heading north along the mountains."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Brimskarda’s land",
+      "evidence": [
+        {
+          "startUid": "u1795",
+          "endUid": "u1797",
+          "quote": "DM: “You, you— you are on Brimskarda’s land! Did you know that?”"
+        }
+      ],
+      "kind": "realm",
+      "vaultPath": "Gazetteer/Northern Green Sea/Kaldhalla.md",
+      "note": "The kingdom is called Kaldhalla in the vault. The transcript establishes the king’s land around this encounter without defining its borders."
+    },
+    "p15": {
+      "label": "Airborne lookout about a mile from the mine",
+      "evidence": [
+        {
+          "startUid": "u1413",
+          "endUid": "u1422",
+          "quote": "DM: But there's this sort of pattern of these steep glacial hill mountains, and then these deep valleys in between them. And as you're heading north, by maybe 3 in the afternoon or so, after having gone 80-ish miles, you're not super high up, right, but you can still see a decent distance away.\nDM: And you can see now what looks probably like a some kind of clearing, a mine.\nDelwath: You can see—sorry, did you say a mine? I just didn't—\nDM: Yeah. A mine, like an entrance into the mountains, and you can see that there are 2. And this is, this is maybe from a mile away, so you're definitely gonna be visible too."
+        }
+      ],
+      "kind": "lookout position",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1421",
+              "endUid": "u1422",
+              "quote": "DM: Yeah. A mine, like an entrance into the mountains, and you can see that there are 2. And this is, this is maybe from a mile away, so you're definitely gonna be visible too."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0012"
+      },
+      "actors": [
+        "Pursuing shadow hunter"
+      ],
+      "reading": "The hunter’s earlier viewpoint begins in what he thinks is a courtyard.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0012",
+          "quote": "DM: Okay. So his first memory is the searing pain of new sunlight. Does not understand the whispers that echo in his head, but they awaken something in him. The pain of the sunlight fades to a dull background ache, easily ignored. The walls around him—a courtyard, he thinks, although words are hard to remember now—fade to a pale shadow, and suddenly he can see, feel in the far distance a bright light. His quarry. You must get there and bring it back, whatever it is. The light of this quarry is so distant across mountains and deserts, but it does not matter. As darkness falls, the bright light of his quarry grows stronger without the sun to distract him."
+        }
+      ],
+      "place": "p05",
+      "context": "flashback"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u0027"
+      },
+      "actors": [
+        "Pursuing shadow hunter"
+      ],
+      "reading": "After nights of pursuit, the hunter reaches the city and attacks its streets before racing toward the stone ship.",
+      "evidence": [
+        {
+          "startUid": "u0013",
+          "endUid": "u0017",
+          "quote": "DM: He gives a call, a twisted shout, and feels the massive wing beats of an approaching gloom stalker, a Wyvern-like creature made of shadows. He leaps into the sky, soaring, and sees behind him another gloom stalker carrying another hunter like him. Like him. Good! He will not be alone. Then the first nights he flies south. The movement of his quarry tracking south as well, far to the east. They're moving much faster than he is, but he does not care, for eventually they must stop long enough for him to catch up. Then a pause as he gains ground, but it is short-lived, and they begin moving again. A stroke of fortune: they turned west, heading for him. Will only be a few days now."
+        },
+        {
+          "startUid": "u0023",
+          "endUid": "u0027",
+          "quote": "DM: He pushes himself as hard as possible to catch them. But it is too late. They turn north, disappearing faster than he can catch up. No matter now. They have been still for a long time. Plenty of time. Yeah, sure he will catch them. Finally he grows closer and closer. There, in a city full of warmth of people. He swoops over the streets, enjoying the screams and shrieks of the people as his gloom stalker grabs victims and drops them from a great height and turns racing across the water towards the great stone ship where the light is."
+        },
+        {
+          "startUid": "u0913",
+          "endUid": "u0923",
+          "quote": "DM: So with that, their shadow hunters are dispatched, and quiet returns to the waterfront of Tollen at 2 in the morning.\nDM: You can see there's a there's a a rowboat with like 12 guardsmen on it racing towards you. There's commotion on the docks. There's like, you know the bodies of people who were picked up and tossed by these creatures. There's a bit of chaos. But the people on the boats at least see—the, the guard on the boats at least sees the last one fall into the water and disappear beneath the waves of the Tollen harbor."
+        }
+      ],
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly",
+      "context": "flashback",
+      "route": [
+        {
+          "reading": "Flies south following the quarry; pauses and changing quarry direction are narrated without a complete route."
+        },
+        {
+          "reading": "Swoops over the city streets, then heads across the water toward the stone ship."
+        }
+      ],
+      "note": "Tollen is identified by the continuous attack’s later ending; the quarry’s earlier movements are not party journeys reconstructed here."
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0053",
+        "endUid": "u0054"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The party prepares and fights aboard Vindristjarna, afloat in Tollen harbor.",
+      "evidence": [
+        {
+          "startUid": "u0053",
+          "endUid": "u0054",
+          "quote": "Riswynn: I don't see why you're assuming that Riswynn doesn't just walk around Vindristjarna every day in her full armor in the middle of the night. Oh, it's the night."
+        },
+        {
+          "startUid": "u0117",
+          "endUid": "u0118",
+          "quote": "Seeker: They can fly, right? So yeah, so probably. Where are we parked here, by the way? Are we in the water? In the water, okay."
+        },
+        {
+          "startUid": "u0197",
+          "endUid": "u0197",
+          "quote": "Riswynn: Alright. So we're standing on the deck of the ship with piles of armor next to us we may or may not be able to put on, as we wait to see whether it takes them half an hour or 5 min to break through."
+        },
+        {
+          "startUid": "u0913",
+          "endUid": "u0923",
+          "quote": "DM: So with that, their shadow hunters are dispatched, and quiet returns to the waterfront of Tollen at 2 in the morning.\nDM: You can see there's a there's a a rowboat with like 12 guardsmen on it racing towards you. There's commotion on the docks. There's like, you know the bodies of people who were picked up and tossed by these creatures. There's a bit of chaos. But the people on the boats at least see—the, the guard on the boats at least sees the last one fall into the water and disappear beneath the waves of the Tollen harbor."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "afloat_in",
+          "target": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0567",
+        "endUid": "u0571"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "When the mount is banished, Kenzo drops safely onto the harbor water below the ship.",
+      "evidence": [
+        {
+          "startUid": "u0567",
+          "endUid": "u0571",
+          "quote": "DM: 15 points of damage. Kenzo also falls to the ground, of course, but also happily standing on water.\nKenzo: I want to fall to the ground?\nDM: As the the thing you were flying on got vanished. Vanished."
+        },
+        {
+          "startUid": "u0624",
+          "endUid": "u0624",
+          "quote": "Riswynn: It's like 20 feet above them. Yeah. Kenzo's down in the water."
+        }
+      ],
+      "from": null,
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "fall"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0911",
+        "endUid": "u0912"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "After the grappled mount is killed, Kenzo climbs the ladder back to Vindristjarna.",
+      "evidence": [
+        {
+          "startUid": "u0904",
+          "endUid": "u0912",
+          "quote": "DM: It does crash into the water as you pull away from it and run out of the way of this splash as this creature sinks into the ground.\nDM: And now, with only the banished gloom stalker left, and, and one raven hawk, You, I presume, gather around and just wait for it to return, and then mop up that without much fanfare.\nRiswynn: And Kenzo climbs up the ladder.\nSeeker: Kenzo stands on the ladder. Just kind of."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1243",
+        "endUid": "u1245"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "Leave Tollen aboard the ship, cross Vostok over the first three travel days, and take shelter at the mountain foothills.",
+      "evidence": [
+        {
+          "startUid": "u1243",
+          "endUid": "u1245",
+          "quote": "DM: So you prepared to leave, ship flying, departing Tollen. You've got your newly recruited mapmaker and the elf gardener that at some point over the next month we'll have a little flashback introduction for."
+        },
+        {
+          "startUid": "u1284",
+          "endUid": "u1304",
+          "quote": "DM: Okay, so you leave, slowly begin drifting north, crossing Vostok, heading to the the mountains that separate Vostok from from the lands beyond, from the vast forests. And the first day is, is cold but clear, and you spend a, a day just sort of heading north across the—in, you know, crossing into the sort of interior Highlands of Vostok, crossing over some, you know, rivers and forests and a couple of lakes.\nDM: Next day also clear, but there's storm clouds on the horizon, and the mountains ahead, which are growing as you approach, are snowy and, and, and covered in, you know— wreathed in clouds.\nDM: The third day of your journey, March fifteenth, you cross a river at dawn, the mountains getting closer and closer as day the day progresses, and as the sun begins to set and dips below the horizon, you can see you're basically heading into a snowstorm on the mountains. Kecha has, you know, is flying ahead, and is like, “You wanna press on at night? Do you ever stop this thing?”"
+        },
+        {
+          "startUid": "u1306",
+          "endUid": "u1316",
+          "quote": "Riswynn: How far north?\nDM: We're in the foothills of the—you're like, you're like here.\nDelwath: Sorry, I can't—oh, okay. I just, I went—where? So we're past that first—okay, we should land. I, I don't think a snowstorm is wise. It's not. It's not a necessary risk. Yeah.\nSeeker: How high we need to fly to avoid running into a mountain?\nDelwath: Yeah. Let's, let's find a spot to take shelter from this storm in the foothills somewhere.\nSeeker: Umhm. Okay?\nDM: I mean, that's that's easy enough. You're all—Wellby is—can't roll lower than, what, a 26 on Survival or something like that, so easy enough to find shelter. And you got plenty of food, and you got, like, 2 months worth of food stocked in, and geothermal heated floors, so—"
+        },
+        {
+          "startUid": "u1320",
+          "endUid": "u1348",
+          "quote": "DM: The next day, just complete whiteout conditions, blizzard moving across, strong wind blowing.\nDM: Kecha spends much of the time just kind of huddled in the in the, in the—I don't know, wherever a nice dining hall, whatever. The elf gardener spends a lot of time sort of, you know, standing around the tree just kind of tending to it and make sure it doesn't die in the snow. I think Kenzo helps with that as well. Probably not a day that you're going anywhere.\nRiswynn: Do frost giants have weather magic? Do we need to, like, Detect Magic these storms and see if any of them are unnatural? Or would that even work? Can you tell if— weather magic, storm, magic storm.\nDelwath: I'll ask the gods if the storm is caused by natural—unnatural—by magic.\nWellby: Sure, yeah, or or my acolyte, and I can pray about it, or both.\nDM: Mean, to Wellby's eyes, it doesn't look magic. The gods don't— don't say it's magic. It's not magic.\nRiswynn: Okay.\nDM: There are certainly stories of—Seeker knows about frost giants controlling the weather, but this does not seem to be a frost giants-caused storm.\nDM: So you wait, huddled in your massive, well-stocked, well-protected hall in the middle of the wilderness,\nDM: Till the next morning. Dawn's clear, snow drifts everywhere. It snowed about a foot in the night, but the sun is shining, the clouds have cleared up. You can see the mountains ahead of you. And you rise, and you begin to cross, right?"
+        }
+      ],
+      "from": "p04",
+      "to": "p08",
+      "mode": "fly",
+      "vehicle": "p01",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Cross the interior highlands of Vostok, passing rivers, forests and lakes.",
+          "place": "p06"
+        },
+        {
+          "reading": "Cross an unnamed river at dawn on the third day, then approach the snowy mountains.",
+          "place": "p07"
+        }
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Narrated first, next and third calendar travel days; not a measured 72-hour flight."
+      },
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "sheltered_at",
+          "target": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1344",
+        "endUid": "u1348"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "After the blizzard clears, rise and cross into the mountains, then turn north toward the animal-reported giant activity and reach the mine lookout.",
+      "evidence": [
+        {
+          "startUid": "u1344",
+          "endUid": "u1348",
+          "quote": "DM: Till the next morning. Dawn's clear, snow drifts everywhere. It snowed about a foot in the night, but the sun is shining, the clouds have cleared up. You can see the mountains ahead of you. And you rise, and you begin to cross, right?"
+        },
+        {
+          "startUid": "u1400",
+          "endUid": "u1422",
+          "quote": "DM: The lynx. So so you turn slightly northwest.\nDelwath: Yeah, and head to where the animal say, “Don’t go.”\nSeeker: No\nRiswynn: Predictability. That's what I thought as the giants were in the in the mountains.\nDM: Yeah, yeah, they are, like, this—this roughly is where that, like, the animals are telling you. So turn slightly north.\nDM: So you spend some time, the most of the morning and into the afternoon, flying not super high over the, the sort of—I mean, these are, these are steep, snowy mountains. You pass glaciers, like, everything is completely covered in snow and ice below you once you get above even a small amount of elevation. It's like there's, like, stunted pines, but almost no trees once you get super high. There are these deep valleys in between mountains, but often have lakes, you know, filled with trees and, and, you know, occasionally a small river or something rushing through them, frozen now. See some frozen waterfalls.\nDM: But there's this sort of pattern of these steep glacial hill mountains, and then these deep valleys in between them. And as you're heading north, by maybe 3 in the afternoon or so, after having gone 80-ish miles, you're not super high up, right, but you can still see a decent distance away.\nDM: And you can see now what looks probably like a some kind of clearing, a mine.\nDelwath: You can see—sorry, did you say a mine? I just didn't—\nDM: Yeah. A mine, like an entrance into the mountains, and you can see that there are 2. And this is, this is maybe from a mile away, so you're definitely gonna be visible too."
+        }
+      ],
+      "from": "p08",
+      "to": "p15",
+      "mode": "fly",
+      "vehicle": "p01",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Cross the snowy mountains and turn slightly northwest/north toward the giants.",
+          "place": "p07"
+        }
+      ],
+      "distance": {
+        "value": 80,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s distance for the flight completed by the roughly 3 p.m. lookout."
+      },
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "at",
+          "target": "p15"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1416",
+        "endUid": "u1438"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "From about a mile away, see the mine entrance and two mammoth-mounted giants.",
+      "evidence": [
+        {
+          "startUid": "u1416",
+          "endUid": "u1438",
+          "quote": "DM: And you can see now what looks probably like a some kind of clearing, a mine.\nDelwath: You can see—sorry, did you say a mine? I just didn't—\nDM: Yeah. A mine, like an entrance into the mountains, and you can see that there are 2. And this is, this is maybe from a mile away, so you're definitely gonna be visible too.\nDM: You can see that there are 2 giants, like very big giants, 15-foot tall, not quite as big as Hralgar. Clearly, definitely giants. They are both wearing—they're both wearing armor, kind of like silvery plated armor, and they have javelins strapped to their back that are, like, 10 feet long each and have these big tips made out of ice, and they're both mounted on enormous woolly mammoths, like larger than a woolly mammoth really should be. And I see by watching over—\nDelwath: Dinosaur-sized woolly mammoths.\nRiswynn: Should be, like, envisioning, like, a brontosaurus, or not quite that big? Something like a 15—\nKenzo: Like a stegosaurus. Okay? Somebody got a mid journey disc. Somebody got a mid person on an elephant, but then make the person 15 feet tall.\nDM: Yeah, basically that. Hey, awesome. Maybe more like a person on a horse, right? So they're, they're like 30 feet big, the woolly mammoths. [garbled]"
+        }
+      ],
+      "place": "p09",
+      "observerPlace": "p01",
+      "mode": "local"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1483",
+        "endUid": "u1498"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance reveals dwarves carrying ore and hears their worried muttering; Seeker remains aboard the ship.",
+      "evidence": [
+        {
+          "startUid": "u1483",
+          "endUid": "u1498",
+          "quote": "Seeker: I'll clairvoyance with vision to try to see what they're looking down the ground at.\nDM: As your Clairvoyance sensor appears, you can see below you. It looks like there's maybe a dozen dwarves that are carrying ore out of the ground.\nSeeker: Who are slaves? What, what kind of ore?\nDM: Hard to tell. Probably iron.\nSeeker: I'll switch to audio.\nDM: ... The 2 giants are, are, like, talking to each other in these loud, booming voices you can almost hear with your plain ears, the 2 giants, and they seem to be like—\nDM: You do pick up the sort of muttering of, of a couple of the dwarves, like, “What’s got them stirred up?” And I mean, obviously you understand Dwarfish. They’re speaking in Dwarfish. “What’s got them stirred up now?” Like, “Hmm. Hope it’s nothing of consequence.” “Shush! They’ll probably take it out on us.”"
+        },
+        {
+          "startUid": "u1528",
+          "endUid": "u1538",
+          "quote": "DM: They—their attire is somewhat shabby and poor, but sort of traditional dwarven. I mean, they're wearing furs. They're, they're— they're dressed for the weather, right? They're not, like, in thin robes or anything, and they're not— other than the fact that their clothes, from Clairvoyance, to— shabby and, like, patched in many places, and some possibly handed down.\nDM: It's—they're not wearing, like, slave uniforms or anything. They're not chained.\nKenzo: Did the—did their voices—were they, were—is there—was there, like, a certain accent or whatever? I’ll tell you, like, what Cl—yeah. Again, like what clan, where they from? Everything, you know, they have, like, Boston accents for dwarves.\nDM: But they're probably from these mountains. They would have a somewhat unfamiliar accent to—"
+        }
+      ],
+      "place": "p11",
+      "observerPlace": "p01",
+      "mode": "remote"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1653",
+        "endUid": "u1655"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "Accept the giant’s invitation to land and set the ship down about five hundred feet from the mine.",
+      "evidence": [
+        {
+          "startUid": "u1653",
+          "endUid": "u1655",
+          "quote": "Delwath: Yeah, he's, he's pointing down, so let's land as close—as soon as he starts to indicate something, we want to start moving, and we want to land as close to the dwarves and the activity and stuff as is reasonable, without trying—without, without seeming like we're buzzing past him or anything like that, right? Like—\nDM: You're moving faster than him. Right? You probably end up landing like 500 feet away from the sort of mine area, and the and the second giant in the dwarves."
+        }
+      ],
+      "from": "p15",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "landed_at",
+          "target": "p10"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1662",
+        "endUid": "u1664"
+      },
+      "actors": [
+        "Kecha"
+      ],
+      "reading": "Kecha flies away from the impending giant conversation, signaling that he intends to check back later.",
+      "evidence": [
+        {
+          "startUid": "u1662",
+          "endUid": "u1664",
+          "quote": "Delwath: I mean, but the phasing stone steering chamber is well protected, right? It's a good spot to hide.\nDM: Yes, like, the—when you see the giants, Kecha, when you start, like, discussing this, he's, like, quietly sort of flies off in the opposite direction and kind of signals to you that he'll circle back to check on you later. But he's not sticking around for this conversation.\nDelwath: But, like, I'll get, like, I'll, I'll get with the other elf, the, like— hang out as a show of force, right? Like—\nDM: Amal’s super curious. “I want to see giants.”\nDelwath: Yeah, perfect."
+        }
+      ],
+      "from": "p01",
+      "to": null,
+      "completion": "underway",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Flies off in the opposite direction; no destination or later return is established."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u1665",
+        "endUid": "u1667"
+      },
+      "actors": [
+        "Dwarven smith"
+      ],
+      "reading": "The crew’s dwarven smith hides aboard the ship when the giants approach.",
+      "evidence": [
+        {
+          "startUid": "u1665",
+          "endUid": "u1667",
+          "quote": "DM: But the dwarven smith also hide. Go hide. “Kenzo, is it safe?” See giants. Was that Tim—Kenzo? What—Amal looks over and is like, “I wanna see giants. Wait, Kenzo, is that safe?”"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u1785",
+        "endUid": "u1791"
+      },
+      "actors": [
+        "Delwath",
+        "Amal",
+        "Elf gardener"
+      ],
+      "reading": "Delwath speaks from the ship, with Amal and the elf gardener visible behind him; the other PCs were made invisible.",
+      "evidence": [
+        {
+          "startUid": "u1728",
+          "endUid": "u1729",
+          "quote": "DM: But magic, right? Like, so the 4 of you vanish. You've got telepathy going. Are you—you're also casting Tongues?"
+        },
+        {
+          "startUid": "u1735",
+          "endUid": "u1742",
+          "quote": "DM: The, the giant approaches, and he, he looks—he looks kind of around, looks—even while mounted on his mammoth, his head comes up about, about, about above, about, about to the level of the of the railing of Vindristjarna, which is about 20 feet off the ground, so he's actually a little bit higher. He's looking slightly down.\nWellby: Right.\nDM: “Huh? An elf. Strange!” He is talking in Giant. Kenzo, Soul Sight—make an Insight check with advantage. He's right now—he's curious and a little nervous."
+        },
+        {
+          "startUid": "u1785",
+          "endUid": "u1791",
+          "quote": "DM: So, so who is visible right now? Just, just can't—just Delwath, the gardener elf and Amal.\nDelwath: But the gardener elf and Amal are, like, staying in the back. I'll, like, introduce them as my crew. What's that—cast Tongue now. I'll start talking to him. I'll introduce myself. I'll tell him, you know, I'll introduce, you know, I'll introduce the, the—but, you know, the, the crew, 2 of the crew, right? And I'll repeat kind of the the story that I said in the letter, just a little bit more, you know, direct, like, just, “Are—are you the right person to talk to? Is there somebody else we should talk to? What is your—what’s your name?”"
+        },
+        {
+          "startUid": "u1653",
+          "endUid": "u1655",
+          "quote": "Delwath: Yeah, he's, he's pointing down, so let's land as close—as soon as he starts to indicate something, we want to start moving, and we want to land as close to the dwarves and the activity and stuff as is reasonable, without trying—without, without seeming like we're buzzing past him or anything like that, right? Like—\nDM: You're moving faster than him. Right? You probably end up landing like 500 feet away from the sort of mine area, and the and the second giant in the dwarves."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "landed_at",
+          "target": "p10"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1826",
+        "endUid": "u1856"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby slips away from the ship and flies invisibly to the dwarves’ work area while Delwath keeps the giant talking.",
+      "evidence": [
+        {
+          "startUid": "u1776",
+          "endUid": "u1782",
+          "quote": "Delwath: So I will cast Tongues and Enthrall, and I'll play up that I'm casting Tongues, like I'll, I'll actually say to him, “I’m sorry,” you know, I’ll mutter something in Elvish, and then be like, “I’m gonna cast a spell,” like in Elvish. I’ll tell him, “I’m gonna cast a spell so I can understand you,” right?\nDM: Okay, he fails to save, so he is, he is, like, completely focused on Delwath for the next minute, just, like, fascinated by—he was muttering in Elvish under his breath, just kind of strangely distracted by—\nDM: So go ahead and, and make a Stealth check, Wellby, except that with his disadvantage, you only need to beat a 9, so I think that's good.\nKenzo: Telepathically to to Delwath is like, “Let’s try not to get ourselves into a fight right now.”"
+        },
+        {
+          "startUid": "u1826",
+          "endUid": "u1832",
+          "quote": "DM: At this point, Wellby is probably—I mean, you fly pretty quickly, right? So you're now approaching the dwarves.\nDelwath: I mean, I'll certainly keep him talking. We can still— Brimskarda. It sounds gonna be my next— like, I’ll ask him, like, “We would be, we would be honored to speak with Brimskarda. Who— who is this fierce one?”"
+        },
+        {
+          "startUid": "u1854",
+          "endUid": "u1860",
+          "quote": "DM: He has done many great deeds, and he’s now talking for, like, you know, 15 min as Wellby flies up silently to the dwarves, who have now all basically stopped whatever working they were doing and are just kind of watching. And, and\nDM: The other giant, the woman who was the companion of this first giant, who did not seem to care when you asked what his name was, is, like, standing, peering like the 500, 600 feet or so, but from where you are now to the ship, and not really paying attention. Every now and then she'll glance around, you know, make—you know, count the dwarves, make sure they're still 9 of them, which is how many there were, but doesn't seem to be paying much attention."
+        },
+        {
+          "startUid": "u1876",
+          "endUid": "u1884",
+          "quote": "Wellby: I’ll say telepathically to one of the older dwarfs, then, I'm speaking to you telepathically. Don't turn around. Don't look for where this voice is coming from. I want to do this subtly. I had heard before the war that this place was something of a refuge. That doesn't seem like it's the case now. What is this place, and what's your condition?\nDM: Despite himself, the dwarf jumps, but the giant doesn't notice. But, you know, she is, she is really distracted, and her head is 20 feet, 25 feet up in the air anyway. So— and the dwarf like looks around, sort of, you know, panic almost. And then, like, you can see, he's like slowly calming himself down.\nDM: And he, he replies hesitantly, “Are you a halfling?”"
+        }
+      ],
+      "from": "p02",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2300",
+        "endUid": "u2303"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "After the mine visit, travel a little way north and stop the ship overnight.",
+      "evidence": [
+        {
+          "startUid": "u2300",
+          "endUid": "u2303",
+          "quote": "DM: So you travel, travel a little ways, and as the sun sets, you rest the ship overnight and then continue heading north along the mountains."
+        }
+      ],
+      "from": "p10",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "stopped_at",
+          "target": "p13"
+        }
+      ],
+      "note": "Departure compresses the party’s regrouping; Wellby’s separate return to the ship is not narrated."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2304",
+        "endUid": "u2338"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "Continue north through flurries to sight of Brimskarda’s steading; the source ends while the ship is being guided toward it.",
+      "evidence": [
+        {
+          "startUid": "u2304",
+          "endUid": "u2338",
+          "quote": "DM: The following day is a cold, windy, cloudy day. Occasional snow flurries. But not, not like a blizzard that stopped you before, but, you know, enough to notice, and sort of miserable flying as you cut through the wind and the blowing snow up, up among the clouds, passing in and out of these sort of icy clouds.\nDM: You, you don't see any, you know, settlements below you. There's no dwarven villages or stoneborn communities or anything, but it's also, like, quite cold, and it seems likely that dwarves would live underground, and stoneborn—stoneborn might live up in that, in the glaciers, but the frost giants clearly are happy in—right. [garbled]. So you don't see anything on the way, but around, you know, 3 in the afternoon, the sun's low in the sky, but not super close to setting.\nDM: You see the frost giant steading ahead of you. This is a—it's, it's basically the entire top of a mountain that's been flattened and then carved. There's a good sort of dozen houses that are sort of in a circle at a lower elevation, and there's a great hall sort of set on the peak of the mountain. There's a glacier that's been sort of— ice of a glacier has been sort of carved and parted, so these blue walls that surround this, this hall, right? It's like a long—it's like a Viking longhouse or something, right? It's just a a big, long stone building, but the late afternoon sun sparkling in this, you know, carved bowl of a glacier causes these blue—light blue reflections, blue crystals to shine everywhere and make that past the hall itself, as if it's made of, like, some sort of blue crystal.\nDM: They're in the sort of lower slopes. You can see that there's a pen, or there's half dozen of these massive mammoth creatures, and you can hear the barking and howling of what must be enormous wolves.\nDM: There are 2 giants clearly on lookout, watching, and, you know, who sort of signal as they see you.\nDM: And I think that's a good place to stop as you guide the airship into the— Brimskarda, the Frost Giant King. And we'll pick up there in February."
+        }
+      ],
+      "from": "p13",
+      "to": "p12",
+      "completion": "underway",
+      "mode": "fly",
+      "vehicle": "p01",
+      "route": [
+        {
+          "reading": "Fly north along the mountains; no settlements are seen on the way.",
+          "place": "p07"
+        }
+      ],
+      "note": "The earlier ninety-to-one-hundred-mile estimate describes the mine-to-steading route, not a measured distance for this final leg."
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u2317",
+        "endUid": "u2334"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Seeker",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "See the mountain-top steading, houses, glacier-framed hall, mammoth pen and lookout giants from the approaching ship.",
+      "evidence": [
+        {
+          "startUid": "u2317",
+          "endUid": "u2334",
+          "quote": "DM: You see the frost giant steading ahead of you. This is a—it's, it's basically the entire top of a mountain that's been flattened and then carved. There's a good sort of dozen houses that are sort of in a circle at a lower elevation, and there's a great hall sort of set on the peak of the mountain. There's a glacier that's been sort of— ice of a glacier has been sort of carved and parted, so these blue walls that surround this, this hall, right? It's like a long—it's like a Viking longhouse or something, right? It's just a a big, long stone building, but the late afternoon sun sparkling in this, you know, carved bowl of a glacier causes these blue—light blue reflections, blue crystals to shine everywhere and make that past the hall itself, as if it's made of, like, some sort of blue crystal.\nDM: They're in the sort of lower slopes. You can see that there's a pen, or there's half dozen of these massive mammoth creatures, and you can hear the barking and howling of what must be enormous wolves.\nDM: There are 2 giants clearly on lookout, watching, and, you know, who sort of signal as they see you."
+        }
+      ],
+      "place": "p12",
+      "observerPlace": "p01",
+      "mode": "local"
+    }
+  ]
+}
