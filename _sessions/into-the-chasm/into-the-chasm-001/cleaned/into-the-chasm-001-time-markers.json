@@ -1,0 +1,402 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-001",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+    "sessionYamlSha256": "4b5088e0db5a55a8c6e40eea083918a37e1d146e52334a314ea6ffa0e7ba1d1f",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-transcript.md",
+    "transcriptSha256": "66da15b0cb560901f4968940f61e450ff75b984cfa81ddb3ed4583364e9e8647",
+    "yamlDates": {
+      "start": "1730-01-25",
+      "end": "1730-01-25"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0061",
+        "endUid": "u0062"
+      },
+      "reading": "The shared introduction states that it is now January 22, 1730, before the breakout-room introductions absent from this transcript.",
+      "time": {
+        "date": {
+          "year": 1730,
+          "month": 1,
+          "day": 22
+        },
+        "precision": "exact",
+        "basis": "DM explicitly says January 22 before the breakout rooms; the preceding January 8 anchor supplies spoken year 1730. Its alignment with the resumed fall is not established."
+      },
+      "evidence": [
+        {
+          "startUid": "u0055",
+          "endUid": "u0060",
+          "quote": "DM: And so, on January 8th of 1730, two weeks before Quintarum, the Sembaran feast day of the Wanderer, the Vejo Vaikai gathered some of their wisest mystics and sent them, with a few of the warriors of the Kemeko, to investigate— they… what might be going on.\n\n"
+        },
+        {
+          "startUid": "u0061",
+          "endUid": "u0062",
+          "quote": "DM: It's now January… 22nd. More than two weeks have passed, and none have returned.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0328",
+        "endUid": "u0329"
+      },
+      "reading": "The opposing wind delays Finnan's song for about a minute before he finishes casting Calm Emotions.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates taking a minute to regain the song's strength before the casting finishes."
+      },
+      "actors": [
+        "Finnan"
+      ],
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0328",
+          "endUid": "u0329",
+          "quote": "DM: As you start to sing, the wind picks up a little bit, and it, like, almost… you, like, it, like, blows across you, and, like, it takes a minute for you to, like, regain the strength of your song. It's almost like the wind is trying to steal your voice. But you recover the strength of your song, and you… you finish, and she calms down, and… and looks around.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0349",
+        "endUid": "u0349"
+      },
+      "reading": "Immediately before the transporting storm, it was about three in the afternoon; the darkness at the ice platform does not establish a new watch.",
+      "time": {
+        "clock": "15:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM answers the question about the light before the storm; no elapsed transit duration is supplied."
+      },
+      "note": "The platform is unnaturally dark. Its lighting does not establish night or synchronize a different local clock.",
+      "evidence": [
+        {
+          "startUid": "u0348",
+          "endUid": "u0348",
+          "quote": "Ekko: What, what is it, is it… was it dark out before?\n\n"
+        },
+        {
+          "startUid": "u0349",
+          "endUid": "u0349",
+          "quote": "DM: It was, like, 3 o'clock in the afternoon. So, I mean, it was getting dark, because it's midwinter, and you're pretty far north, but…\n\n"
+        },
+        {
+          "startUid": "u1607",
+          "endUid": "u1613",
+          "quote": "Jrain: For us, it didn't feel like falling. We were outside at the camp just north of the chasm. And a big storm hit, and just… could have whisked us up into the sky, as far as we know, or off to a distant mountain. Like, it just transported us, it didn't really feel like falling into the chasm. But I thought, since she said she was back here with… I assume you conveyed that general language in your storytelling, Finnan?\n\n"
+        },
+        {
+          "startUid": "u1766",
+          "endUid": "u1772",
+          "quote": "Ekko: Oh, yeah, that's just more… trying to help my friend here. We were trying to… we were headed to the monastery, and then… got hit by that storm. I mean, there's all kinds of strange weather here you need to be prepared for and ready for, but… whatever that was, was… whatever the normal level of unusual and chaos is related to the chasm, that definitely was… more unusual. But we were just on our way to the monastery.\n\n"
+        },
+        {
+          "startUid": "u1773",
+          "endUid": "u1773",
+          "quote": "Finnan: And you were also caught in a storm, which you couldn't see through?\n\n"
+        },
+        {
+          "startUid": "u1774",
+          "endUid": "u1775",
+          "quote": "Ekko: That's right. Same, same for yourself?\n\n"
+        },
+        {
+          "startUid": "u1776",
+          "endUid": "u1781",
+          "quote": "Finnan: We were about to speak to this woman, and Finnan nods over at the… the Zimkovan woman, who is presumably still huddled by the illusory hearth. This whole time, Finnan's been sort of plucking on his fiddle a little bit, maintaining this illusion. We were about to speak to her when… a great wind and storm of snow grabbed us, and… dragged us somewhere. But I begin to wonder if this really is the chasm.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1286",
+        "endUid": "u1290"
+      },
+      "reading": "Calm Emotions remains active after the fight with about half a minute left, then expires during Kalima's account; its one-minute active interval is completed.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Stated one-minute spell duration, still active after combat and explicitly ending in the subsequent exchange."
+      },
+      "completion": "completed",
+      "note": "This measures the spell-active interval, not an additional minute after combat; the DM's casual round count is not used to reconstruct elapsed time.",
+      "evidence": [
+        {
+          "startUid": "u0313",
+          "endUid": "u0331",
+          "quote": "Finnan: Okay. I will… holding my, actually, I'm gonna just… I'm gonna start chanting in Old Zimkovan, and there's a… a sort of… casting Calm Emotions. So what's a…"
+        },
+        {
+          "startUid": "u1286",
+          "endUid": "u1286",
+          "quote": "Finnan: Never lost concentration, it lasts for a minute, so… Okay.\n\n"
+        },
+        {
+          "startUid": "u1287",
+          "endUid": "u1290",
+          "quote": "DM: It has another 30 seconds or so. That was only 3 rounds of combat. So she's kind of looking around, like… she kind of slowly looks up, clearly the Calm Emotions is still… calming her. But she… she still looks… really… uncertain.\n\n"
+        },
+        {
+          "startUid": "u1383",
+          "endUid": "u1387",
+          "quote": "DM: She sort of looks around all of a sudden and shrieks. No, it starts just saying, “No, no! I can't. No,” and it's, like, just, like, huddled, like, collapses in a ball, and it started just repeating. The Calm Emotions ends.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1916",
+        "endUid": "u1920"
+      },
+      "reading": "The postcombat conversation is credited as one completed short rest, including Rala's recovery; it is not another rest added at the later correction.",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention, awarded retrospectively for the ongoing conversation and later confirmed for recovery and hit dice."
+      },
+      "completion": "completed",
+      "actors": [
+        "Finnan",
+        "Jrain",
+        "Eolo",
+        "Ekko",
+        "Justas",
+        "Rala"
+      ],
+      "evidence": [
+        {
+          "startUid": "u1916",
+          "endUid": "u1916",
+          "quote": "DM: I mean, I'm gonna say, you guys may as well take a short… you've been talking for long enough that you can probably just… you should probably just take a short rest.\n\n"
+        },
+        {
+          "startUid": "u1918",
+          "endUid": "u1920",
+          "quote": "DM: Unless you… unless you… want to do something else. Bet. I mean, as you're talking, after maybe…\n\n"
+        },
+        {
+          "startUid": "u1943",
+          "endUid": "u1943",
+          "quote": "Eolo: -Oh, just recharging my… psionic power thing.\n\n"
+        },
+        {
+          "startUid": "u1944",
+          "endUid": "u1944",
+          "quote": "DM: Don't they only recharge on a long rest?\n\n"
+        },
+        {
+          "startUid": "u1945",
+          "endUid": "u1945",
+          "quote": "Eolo: It says, you can… you regain one…\n\n"
+        },
+        {
+          "startUid": "u1946",
+          "endUid": "u1946",
+          "quote": "DM: Yeah, you regain one on a short rest. Yeah.\n\n"
+        },
+        {
+          "startUid": "u2154",
+          "endUid": "u2155",
+          "quote": "Jrain: Right. Having gone unnoticed as she stayed through…\n\n"
+        },
+        {
+          "startUid": "u2156",
+          "endUid": "u2156",
+          "quote": "DM: I'm gonna say she was battered by the fall and recovered. You nursed her back to life as… to health as part of the short rest.\n\n"
+        },
+        {
+          "startUid": "u2157",
+          "endUid": "u2157",
+          "quote": "Jrain: Alright, great.\n\n"
+        },
+        {
+          "startUid": "u2158",
+          "endUid": "u2158",
+          "quote": "DM: You guys also, by the way, anybody who wants to spend hit dice during the short rest, you certainly can.\n\n"
+        },
+        {
+          "startUid": "u2159",
+          "endUid": "u2159",
+          "quote": "Finnan: Yep.\n\n"
+        },
+        {
+          "startUid": "u2160",
+          "endUid": "u2160",
+          "quote": "Justas: Yep.\n\n"
+        },
+        {
+          "startUid": "u2202",
+          "endUid": "u2202",
+          "quote": "Justas: That's, 18… I still have… I think I still have a Bardic Inspiration floating around, if.\n\n"
+        },
+        {
+          "startUid": "u2203",
+          "endUid": "u2203",
+          "quote": "Finnan: It only lasts an hour, so if we took a short rest, you don't.\n\n"
+        },
+        {
+          "startUid": "u2204",
+          "endUid": "u2204",
+          "quote": "Justas: Oh, okay, nevermind.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2129",
+        "endUid": "u2131"
+      },
+      "reading": "Jrain woke that morning with Rala present, before traveling with Kalima and being swept away by the storm.",
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "before",
+          "reference": "t02",
+          "anchor": "the transporting storm that afternoon"
+        },
+        "precision": "approximate",
+        "basis": "Jrain explicitly locates Rala's reappearance at waking this morning; the DM accepts survival and subsequently credits recovery to the short rest."
+      },
+      "actors": [
+        "Jrain",
+        "Rala"
+      ],
+      "evidence": [
+        {
+          "startUid": "u2129",
+          "endUid": "u2131",
+          "quote": "Jrain: But I heard that every morning I wake up and Rala appears, and we have a frolicking fun day together. Yeah. Except that this morning I woke up, and Rala appeared, and I went off to go travel with a Zimkovan woman, and a giant storm of immense wind capacity whipped me into another dimension.\n\n"
+        },
+        {
+          "startUid": "u2132",
+          "endUid": "u2132",
+          "quote": "DM: Yeah, but Rala could have survived the storm.\n\n"
+        },
+        {
+          "startUid": "u2133",
+          "endUid": "u2133",
+          "quote": "Jrain: Okay, so she's.\n\n"
+        },
+        {
+          "startUid": "u2134",
+          "endUid": "u2134",
+          "quote": "DM: Because, I mean, the Zimkovan woman only had 5 hit points, she survived the storm.\n\n"
+        },
+        {
+          "startUid": "u2135",
+          "endUid": "u2137",
+          "quote": "DM: So there's no reason why Rala wouldn't have survived the storm. I thought it was like a familiar that you summoned and dismissed whenever you wanted. So, I thought you just didn't have… no, Rala would have survived the storm. There's not a… I mean, none of you took damage.\n\n"
+        },
+        {
+          "startUid": "u2138",
+          "endUid": "u2138",
+          "quote": "Jrain: She wasn't so battered by the wind that she disappeared, and I can't see her again until tomorrow morning.\n\n"
+        },
+        {
+          "startUid": "u2139",
+          "endUid": "u2139",
+          "quote": "DM: Yes, yes.\n\n"
+        },
+        {
+          "startUid": "u2156",
+          "endUid": "u2156",
+          "quote": "DM: I'm gonna say she was battered by the fall and recovered. You nursed her back to life as… to health as part of the short rest.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2172",
+        "endUid": "u2182"
+      },
+      "reading": "Rala scouts the bridge and snowbank chamber and returns a few minutes later without entering the four tunnels.",
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates the scout's return a few minutes later."
+      },
+      "completion": "completed",
+      "actors": [
+        "Rala"
+      ],
+      "evidence": [
+        {
+          "startUid": "u2170",
+          "endUid": "u2171",
+          "quote": "Jrain: I say… “We're gonna head off in this direction, can you go a short ways and see if there's any obvious, dangerous beasts?”\n\n"
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2175",
+          "quote": "DM: She… how… Okay, she… she comes back a few minutes later and basically tells you there's a… there's a… there's a room. Like, the bridge leads… into, like, the ceiling of a… of, like, a snowbank, basically. And there's an opening, but you can jump down into the snow. It's like… and then there's four, sort of, passageways going off into, like, going, like…\n\n"
+        },
+        {
+          "startUid": "u2176",
+          "endUid": "u2180",
+          "quote": "DM: The geometry is kind of a little hard to understand, like, it doesn't quite seem… like, it totally fits, but there's basically four branches, like, 4 going, like, into the… it, like, tunnels into the snow. So it's almost like a massive snow bank, and there's, like, these four narrow tunnels, like, weaving… leading into the snow, each going out.\n\n"
+        },
+        {
+          "startUid": "u2181",
+          "endUid": "u2182",
+          "quote": "DM: So it's probably your best mental picture, is you're in an empty black space, floating, with all this wind, and then there's snow over there somewhere, and you can jump into it, and then there's these four tunnels, each… your bird didn't go down through any of the four tunnels, but there was no signs of any creatures.\n\n"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "The shared introduction independently says January 22, with 1730 supplied by the adjacent January 8 date. The manifest records January 25 for both endpoints. The following private breakout introductions are absent; the recorded fall and subsequent play have no independently spoken civil date.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t07",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06"
+    ],
+    "explanation": "The recorded storm-day actions fit a morning, a roughly 15:00 storm, brief spell intervals, one credited short rest, and a brief scout. No date transition is established within that recorded play. The omitted breakout introductions leave open whether January 22 dates this same day or an earlier introductory frame; the missing interval cannot be filled with three days from the YAML or treated as a definite contradiction."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02",
+        "t05"
+      ],
+      "reading": "The January 22 shared introduction precedes unrecorded private introductions; whether it dates the played storm day is unresolved.",
+      "alternatives": [
+        {
+          "reading": "If the shared “now January 22” applies to the following fall and that morning, the played day is January 22 and disagrees with the manifest.",
+          "date": "1730-01-22"
+        },
+        {
+          "reading": "If the omitted breakout introductions advanced the calendar, the played storm day can be January 25 as recorded in YAML, but no surviving passage independently establishes that advance.",
+          "date": "1730-01-25"
+        }
+      ]
+    }
+  ],
+  "limitations": "The private breakout-room introductions between u0063–u0083 are absent from the registered main-room transcript; u0084 resumes with the fall. Later retrospective accounts supply origins, but not a dated advance from the shared January 22 introduction."
+}
