@@ -1,0 +1,379 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-065",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-session.yaml",
+    "sessionYamlSha256": "5b985bd7577bb84d3521f0d403c8383a38a213eb2c1e0c8f751d9e619d0549bc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-transcript.md",
+    "transcriptSha256": "e3b40efcd12325bcbdf366817c19798a864efa49f78ee26df594cf4a0d661cf2",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-segments.json",
+      "sha256": "ea333b9fd5f30b2a3f1c83206e12b493252d83e0b289e6493bd319b0356ac0e2",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Vondar One-Eye and two twisted satyrs in Long Shadow Ravine",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Twisted satyr-like creatures",
+              "kind": "turn",
+              "summary": "Walk past the still-hidden Raven and Spirala toward the rear companions; one calls back “Visitors!” The offered opportunity attack is not taken.",
+              "evidence": [
+                {
+                  "startUid": "u0851",
+                  "endUid": "u0864"
+                }
+              ]
+            },
+            {
+              "actor": "Spirala",
+              "kind": "turn",
+              "summary": "Casts Blindness/Deafness on Vondar; he succeeds on the Constitution save with 24 and is not blinded. He demands to know who would pass.",
+              "evidence": [
+                {
+                  "startUid": "u0865",
+                  "endUid": "u0873"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Slow over both satyrs: one succeeds on its Wisdom save and one fails, becoming slowed. Confirms the tent was already animated and commands it forward.",
+              "evidence": [
+                {
+                  "startUid": "u0875",
+                  "endUid": "u0889"
+                },
+                {
+                  "startUid": "u0890",
+                  "endUid": "u0901"
+                }
+              ]
+            },
+            {
+              "actor": "Animated tent",
+              "kind": "turn",
+              "summary": "Dashes about 60 feet past the satyrs toward Vondar under Seeker’s command.",
+              "evidence": [
+                {
+                  "startUid": "u0890",
+                  "endUid": "u0901"
+                }
+              ]
+            },
+            {
+              "actor": "Caulaus",
+              "kind": "turn",
+              "summary": "Runs 30 feet, manifests his echo 15 feet ahead and moves it up to the unslowed satyr. Attacks through it twice: 27 hits, corrected to 14 immediate damage and a wound dealing 4 at the start of the target’s turn after a failed DC 15 Constitution save; 25 hits for 12. Dreadful Strike’s psychic damage is limited to once this turn.",
+              "evidence": [
+                {
+                  "startUid": "u0902",
+                  "endUid": "u0926"
+                }
+              ]
+            },
+            {
+              "actor": "Raven",
+              "kind": "turn",
+              "summary": "Approaches Vondar unseen after a disadvantaged Stealth check of 19. First shortsword attack has advantage, hits on 17 for 16 damage; the second misses on 12. An unarmed strike hits on 26 for 13 including Hand of Harming, poisoning Vondar.",
+              "evidence": [
+                {
+                  "startUid": "u0929",
+                  "endUid": "u0974"
+                }
+              ],
+              "note": "Seven of the sword damage is singled out, but its type is not completed in the transcript; no damage-type split is invented."
+            },
+            {
+              "actor": "Vondar One-Eye",
+              "kind": "turn",
+              "summary": "Uses his eye on Raven, who makes a Charisma save of 18: Raven takes 15 psychic damage but is not cursed. Swings his club at Raven; 18 misses AC 19. Offers passage for a memory instead of a fight.",
+              "evidence": [
+                {
+                  "startUid": "u0975",
+                  "endUid": "u0982"
+                },
+                {
+                  "startUid": "u0990",
+                  "endUid": "u1011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Slowed satyr",
+              "kind": "turn",
+              "summary": "Begins casting a spell; Slow delays its completion until the next turn. Its slowed state gives −2 AC and Dexterity saves, prevents reactions, and permits an action or bonus action rather than both.",
+              "evidence": [
+                {
+                  "startUid": "u1012",
+                  "endUid": "u1021"
+                }
+              ]
+            },
+            {
+              "actor": "Unslowed satyr",
+              "kind": "turn",
+              "summary": "Targets Caulaus with a Wisdom-save spell. Caulaus is overcome by laughter, falls prone and becomes incapacitated.",
+              "evidence": [
+                {
+                  "startUid": "u1022",
+                  "endUid": "u1034"
+                }
+              ],
+              "note": "The saving-throw roll is not spoken; the failed outcome is established by the DM."
+            },
+            {
+              "actor": "Spirala",
+              "kind": "turn",
+              "summary": "Abandons Hold Person when told the giant is not a humanoid and casts Scorching Ray at Vondar. Two rays hit (16 and 25) for 9 and 5 fire damage; the third misses on 13.",
+              "evidence": [
+                {
+                  "startUid": "u1042",
+                  "endUid": "u1057"
+                },
+                {
+                  "startUid": "u1062",
+                  "endUid": "u1063"
+                },
+                {
+                  "startUid": "u1084",
+                  "endUid": "u1104"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Commands the tent to dash up to Vondar, moves forward along the ravine’s left side and keeps Slow active.",
+              "evidence": [
+                {
+                  "startUid": "u1111",
+                  "endUid": "u1122"
+                }
+              ]
+            },
+            {
+              "actor": "Animated tent",
+              "kind": "turn",
+              "summary": "Dashes up to Vondar during Seeker’s turn, before Erupting Earth is resolved; this movement is later confirmed.",
+              "evidence": [
+                {
+                  "startUid": "u1111",
+                  "endUid": "u1114"
+                },
+                {
+                  "startUid": "u1198",
+                  "endUid": "u1199"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Continuing the same turn, rejects Earthen Grasp because it also requires concentration and casts Erupting Earth. Both satyrs fail Dexterity saves, including the slowed one with its −2 penalty. The unslowed satyr dies, ending its laughter spell before Caulaus’s turn; the other remains slowed, and the area becomes difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u1127",
+                  "endUid": "u1154"
+                }
+              ],
+              "note": "The damage amount is not stated. This corrects the premature announcement that Caulaus would be unable to act."
+            },
+            {
+              "actor": "Caulaus",
+              "kind": "turn",
+              "summary": "Still prone after the laughter ends, attacks the remaining satyr: 17 hits for 13 slashing plus 3 psychic damage; 16 misses. The satyr’s later Constitution-save resolution gives a wound for 1 damage at its next turn’s start. Caulaus spends movement to stand and repositions at the end of the turn.",
+              "evidence": [
+                {
+                  "startUid": "u1145",
+                  "endUid": "u1185"
+                },
+                {
+                  "startUid": "u1188",
+                  "endUid": "u1193"
+                }
+              ],
+              "note": "The token moved at the end is not identified clearly enough to reconstruct Caulaus’s and his echo’s exact positions."
+            },
+            {
+              "actor": "Raven",
+              "kind": "turn",
+              "summary": "Takes the turn after the DM immediately corrects an accidental skip. Both shortsword attacks miss (12 and 11). One unarmed strike hits on 27; the additional Flurry of Blows punch is a natural 1 and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1186",
+                  "endUid": "u1187"
+                },
+                {
+                  "startUid": "u1194",
+                  "endUid": "u1215"
+                }
+              ],
+              "note": "The isolated “Six” at u1202 may be damage for the successful punch, but its attribution is unclear; the hit is retained without a definite damage value."
+            },
+            {
+              "actor": "Vondar One-Eye",
+              "kind": "turn",
+              "summary": "Turns his eye on Spirala, whose Charisma save of 16 avoids the curse but still takes 9 psychic damage. His club attack at Raven misses on 16.",
+              "evidence": [
+                {
+                  "startUid": "u1216",
+                  "endUid": "u1226"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Slowed satyr",
+              "kind": "turn",
+              "summary": "Completes the delayed Heat Metal on Caulaus’s sword, dealing 5 damage. Caulaus’s Constitution save of 25 lets him keep the weapon. Attack rolls and ability checks have disadvantage until the start of the satyr’s next turn, correcting the initially stated endpoint.",
+              "evidence": [
+                {
+                  "startUid": "u1227",
+                  "endUid": "u1241"
+                }
+              ]
+            },
+            {
+              "actor": "Spirala",
+              "kind": "turn",
+              "summary": "Casts Scorching Ray at Vondar again, with additional rays resolved after the higher-level casting discussion. The first deals 11 fire damage, the second 3; an attack of 4 misses, while later attacks of 17 and 24 hit.",
+              "evidence": [
+                {
+                  "startUid": "u1252",
+                  "endUid": "u1288"
+                }
+              ],
+              "note": "The closing roll narration does not clearly give every ray’s damage or a final total; the stated hits, miss and damage values are preserved without filling the gaps."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Commands the animated tent to grapple Vondar and cover his eye; he still has his own action after the attempt.",
+              "evidence": [
+                {
+                  "startUid": "u1291",
+                  "endUid": "u1299"
+                },
+                {
+                  "startUid": "u1311",
+                  "endUid": "u1313"
+                }
+              ]
+            },
+            {
+              "actor": "Animated tent",
+              "kind": "turn",
+              "summary": "Flies onto Vondar’s head and attempts to grapple and cover his eye. Even with disadvantage from poison, Vondar wins and pulls the tent away; he is not blinded or grappled.",
+              "evidence": [
+                {
+                  "startUid": "u1297",
+                  "endUid": "u1313"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Continuing the same turn after the tent fails, rejects a Wall of Stone box as too small and abandons another Erupting Earth to avoid catching an ally. Instead launches a rock along a line toward the giant; the Dexterity-based resolution results in 21 damage to Vondar.",
+              "evidence": [
+                {
+                  "startUid": "u1314",
+                  "endUid": "u1380"
+                }
+              ],
+              "note": "The rock spell and save score are not spoken; the giant’s poor Dexterity and resulting damage are narrated."
+            },
+            {
+              "actor": "Caulaus",
+              "kind": "turn",
+              "summary": "Keeps attacking the surviving satyr instead of casting Fog Cloud. With disadvantage from Heat Metal, attacks of 12 and 15 both miss the satyr. Announces further movement, but the exact resulting placement is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1382",
+                  "endUid": "u1418"
+                }
+              ]
+            },
+            {
+              "actor": "Raven",
+              "kind": "turn",
+              "summary": "Attacks Vondar: 17 hits for 14 damage; spends two ki to turn an 11 into a 15 hit, whose damage is corrected from 9 to 19. Follows with an unarmed hit for 9 plus 4 from Hand of Harm, renewing poison, and a further Flurry of Blows strike with a ki boost for 11. Vondar is extremely wounded.",
+              "evidence": [
+                {
+                  "startUid": "u1419",
+                  "endUid": "u1452"
+                }
+              ]
+            },
+            {
+              "actor": "Vondar One-Eye",
+              "kind": "turn",
+              "summary": "Again offers the toll, then targets Seeker with the evil eye. Seeker fails the Charisma save (3), takes 35 psychic damage and declines the available one-use mote-of-fate reroll. The curse hunches him, lengthens one leg, halves speed and gives disadvantage on ability checks, saving throws and Strength or Dexterity attacks. Vondar attacks Raven: the first roll is corrected from 28 to 21 and hits for 20 damage; the second, 17, misses. Clarifies that a creature that has made the eye save cannot be targeted again, and asks for one memory as the toll.",
+              "evidence": [
+                {
+                  "startUid": "u1454",
+                  "endUid": "u1489"
+                }
+              ],
+              "note": "The last weapon is called a great sword here, whereas earlier attacks use a club; no silent weapon retcon is applied."
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Slowed satyr",
+              "kind": "turn",
+              "summary": "Uses its bonus action to inflict another 10 fire damage on Caulaus through Heat Metal. Slow prevents taking an additional action.",
+              "evidence": [
+                {
+                  "startUid": "u1490",
+                  "endUid": "u1498"
+                }
+              ]
+            },
+            {
+              "actor": "Spirala",
+              "kind": "turn",
+              "summary": "Casts Scorching Ray: the first hit kills Vondar, whose body sinks under growing dirt and stone. Redirects the remaining rays at the wounded satyr and kills it too. Heat Metal ends and the canyon dirt covers both satyrs’ bodies as well.",
+              "evidence": [
+                {
+                  "startUid": "u1499",
+                  "endUid": "u1523"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All three enemies are killed and covered by the ravine’s dirt. No memory toll is paid. Heat Metal ends; Seeker’s curse has no removal established during the encounter. Subsequent healing and short-rest discussion occur outside initiative.",
+        "evidence": [
+          {
+            "startUid": "u1503",
+            "endUid": "u1523"
+          }
+        ]
+      }
+    }
+  ]
+}

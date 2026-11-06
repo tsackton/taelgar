@@ -1,0 +1,819 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-065",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-session.yaml",
+    "sessionYamlSha256": "5b985bd7577bb84d3521f0d403c8383a38a213eb2c1e0c8f751d9e619d0549bc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-transcript.md",
+    "transcriptSha256": "e3b40efcd12325bcbdf366817c19798a864efa49f78ee26df594cf4a0d661cf2"
+  },
+  "places": {
+    "p01": {
+      "label": "Shimmersong",
+      "kind": "fey realm",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0022",
+          "quote": "DM: Um, and passing through Shimmersong, where you spent a fair bit of time, although it's hard to know how long in the Feywild any time is: traveling to the groves of stone trees from which the most delicious fruit of all varieties grow; spending time among the forested valleys where giant spiders spin webs of gossamer silver; traveling to the summer court of the Lightdancer, vibrant whirlwind of color and song and food and dance.\n\nDM: And Seeker spending some time learning the— about the crystallized magic gifted to you by Illaran, and fashioning it into an item you can use, which I just added to your character sheet.\n\nSeeker: Great, thank you.\n\nDM: Now, though, after a week, two, three, it's hard to say— you've left Shimmersong, and come to the decaying realm of Amberglow in search of—"
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Shimmersong.md"
+    },
+    "p02": {
+      "label": "Amberglow",
+      "kind": "fey realm",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: So we will start tonight: the fey realm of Amberglow, on the borders of Shimmersong, where Seeker, ah, Spirala and Raven have come after leaving the Crystal Peaks and bidding farewell to Mikasa."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow.md"
+    },
+    "p03": {
+      "label": "Golden Hills",
+      "kind": "border hills",
+      "evidence": [
+        {
+          "startUid": "u0044",
+          "endUid": "u0055",
+          "quote": "DM: And to find to find Lastlight Falls, the fey crossing in this domain, you need a guide, and Raven has brought you to the border around this border area called the Golden Hills. Um, an area that was once beautiful rolling fields of grain and the peaceful, ah, pastoral landscape, now a twisting maze of ravines and false paths and dead ends and sudden cliffs.\n\nDM: In fact, Raven knows, knows somebody who, ah, rumored to be able to, has spent time in Amberglow, and could lead you through. And as you approach a small camp, sheltered on the side of a hill topped by the crumbling ruin of a watchtower—"
+        }
+      ],
+      "note": "The source places these hills on the Shimmersong–Amberglow border; it does not define a precise realm boundary.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0055",
+              "quote": "DM: So we will start tonight: the fey realm of Amberglow, on the borders of Shimmersong, where Seeker, ah, Spirala and Raven have come after leaving the Crystal Peaks and bidding farewell to Mikasa.\n\nDM: Um, and passing through Shimmersong, where you spent a fair bit of time, although it's hard to know how long in the Feywild any time is: traveling to the groves of stone trees from which the most delicious fruit of all varieties grow; spending time among the forested valleys where giant spiders spin webs of gossamer silver; traveling to the summer court of the Lightdancer, vibrant whirlwind of color and song and food and dance.\n\nDM: And Seeker spending some time learning the— about the crystallized magic gifted to you by Illaran, and fashioning it into an item you can use, which I just added to your character sheet.\n\nSeeker: Great, thank you.\n\nDM: Now, though, after a week, two, three, it's hard to say— you've left Shimmersong, and come to the decaying realm of Amberglow in search of—\n\nDM: Uh, yes, everybody got a long rest. Go ahead and take a long rest. Yeah, good call. Ah!\n\nDM: In search of Lastlight Falls, the location of the fey crossing that Seeker hopes to find somewhere in the decaying domain of Amberglow.\n\nSeeker: If we didn't, or it was the.\n\nDM: Where was what?\n\nSeeker: Of the name?\n\nDM: Out? It falls about Lastlight Falls, Lastlight.\n\nRaven: Um, we didn't use our inspiration from last session. Can we keep it, or does that go away?\n\nDM: It goes away when you take a long rest. Good catch. Um.\n\nDM: Amberglow was once a realm of great beauty, of sunsets and rolling hills of golden grass. But for many, many years, centuries or longer since the disappearance of the Cloudspinner, the queen of sunsets, it's fallen into danger and and ruin. And this is one of the main dangers that the Winter Knights guard against, when summer ends in Shimmersong. So, Raven, you are certainly aware of this place. Um, but you haven't traveled extensively. Ah!\n\nDM: And to find to find Lastlight Falls, the fey crossing in this domain, you need a guide, and Raven has brought you to the border around this border area called the Golden Hills. Um, an area that was once beautiful rolling fields of grain and the peaceful, ah, pastoral landscape, now a twisting maze of ravines and false paths and dead ends and sudden cliffs.\n\nDM: In fact, Raven knows, knows somebody who, ah, rumored to be able to, has spent time in Amberglow, and could lead you through. And as you approach a small camp, sheltered on the side of a hill topped by the crumbling ruin of a watchtower—"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Camp below the ruined watchtower",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0052",
+          "endUid": "u0055",
+          "quote": "DM: In fact, Raven knows, knows somebody who, ah, rumored to be able to, has spent time in Amberglow, and could lead you through. And as you approach a small camp, sheltered on the side of a hill topped by the crumbling ruin of a watchtower—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0052",
+              "endUid": "u0063",
+              "quote": "DM: In fact, Raven knows, knows somebody who, ah, rumored to be able to, has spent time in Amberglow, and could lead you through. And as you approach a small camp, sheltered on the side of a hill topped by the crumbling ruin of a watchtower—\n\nDM: Um, Raven, Spirala and Seeker, ah, maybe introduce your characters. And if you want to say one or zero, or one or two or three sentences about what you have been doing in Shimmersong, feel free to do that as well.\n\nDM: And um, how do you say your name, Mike?\n\nCaulaus: Caulaus.\n\nDM: See these three people approaching from your camp in the Golden Hills?"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Open valley before Long Shadow Ravine",
+      "kind": "valley",
+      "evidence": [
+        {
+          "startUid": "u0335",
+          "endUid": "u0354",
+          "quote": "DM: But eventually you sort of meander pick your way to, ah, a wide open valley with a ring of, ah, of hills, of steep cliffs in front of you, and you can see now the— through those cliffs that that Caulaus points out as the, um, as the Long Shadow Ravine, and you can see where it gets its name, because the whole thing is in shadow from the angle of the sun. Uh, it—it is dark in there. Uh, not that wide, either, like, from this distance it's—you can— what you can see, the ravine itself, it seems to be maybe fifteen, twenty feet across, at least at the entrance, and it cuts straight through this cliff, still some distance away from it. There's like this wide sort of bowl of a valley uh that you're crossing. But the hills around the cliffs look formidable. Now, you could, of course, attempt to climb up, and, you know, make your way through the hills on the either side of the of the ravine. But from what you know of the Feywild, that's unlikely to lead actually through the mountains."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0326",
+              "endUid": "u0354",
+              "quote": "DM: Passing through the Golden Hills is slow going. Um, but uh, Caulaus knows the way, and is able to sort of lead you in and out through these, you know, occasionally having to backtrack, and occasionally, you know, coming to a a dead end, where suddenly a cliff will appear out of nowhere. Or, ah, you know, you'll be following a a path that an hour later you find yourself back in a circle, even though you thought you were going in the same direction. Um!\n\nDM: And again it's—it's hard to judge the passing of time exactly, especially because the sun doesn't move in the sky. Late afternoon here, and have been for millennia.\n\nDM: But eventually you sort of meander pick your way to, ah, a wide open valley with a ring of, ah, of hills, of steep cliffs in front of you, and you can see now the— through those cliffs that that Caulaus points out as the, um, as the Long Shadow Ravine, and you can see where it gets its name, because the whole thing is in shadow from the angle of the sun. Uh, it—it is dark in there. Uh, not that wide, either, like, from this distance it's—you can— what you can see, the ravine itself, it seems to be maybe fifteen, twenty feet across, at least at the entrance, and it cuts straight through this cliff, still some distance away from it. There's like this wide sort of bowl of a valley uh that you're crossing. But the hills around the cliffs look formidable. Now, you could, of course, attempt to climb up, and, you know, make your way through the hills on the either side of the of the ravine. But from what you know of the Feywild, that's unlikely to lead actually through the mountains."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Long Shadow Ravine",
+      "kind": "ravine",
+      "evidence": [
+        {
+          "startUid": "u0335",
+          "endUid": "u0354",
+          "quote": "DM: But eventually you sort of meander pick your way to, ah, a wide open valley with a ring of, ah, of hills, of steep cliffs in front of you, and you can see now the— through those cliffs that that Caulaus points out as the, um, as the Long Shadow Ravine, and you can see where it gets its name, because the whole thing is in shadow from the angle of the sun. Uh, it—it is dark in there. Uh, not that wide, either, like, from this distance it's—you can— what you can see, the ravine itself, it seems to be maybe fifteen, twenty feet across, at least at the entrance, and it cuts straight through this cliff, still some distance away from it. There's like this wide sort of bowl of a valley uh that you're crossing. But the hills around the cliffs look formidable. Now, you could, of course, attempt to climb up, and, you know, make your way through the hills on the either side of the of the ravine. But from what you know of the Feywild, that's unlikely to lead actually through the mountains."
+        }
+      ],
+      "note": "Also spelled Longshadow Ravine in Session 65 (DuFr); no separate landmark page was found.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0326",
+              "endUid": "u0354",
+              "quote": "DM: Passing through the Golden Hills is slow going. Um, but uh, Caulaus knows the way, and is able to sort of lead you in and out through these, you know, occasionally having to backtrack, and occasionally, you know, coming to a a dead end, where suddenly a cliff will appear out of nowhere. Or, ah, you know, you'll be following a a path that an hour later you find yourself back in a circle, even though you thought you were going in the same direction. Um!\n\nDM: And again it's—it's hard to judge the passing of time exactly, especially because the sun doesn't move in the sky. Late afternoon here, and have been for millennia.\n\nDM: But eventually you sort of meander pick your way to, ah, a wide open valley with a ring of, ah, of hills, of steep cliffs in front of you, and you can see now the— through those cliffs that that Caulaus points out as the, um, as the Long Shadow Ravine, and you can see where it gets its name, because the whole thing is in shadow from the angle of the sun. Uh, it—it is dark in there. Uh, not that wide, either, like, from this distance it's—you can— what you can see, the ravine itself, it seems to be maybe fifteen, twenty feet across, at least at the entrance, and it cuts straight through this cliff, still some distance away from it. There's like this wide sort of bowl of a valley uh that you're crossing. But the hills around the cliffs look formidable. Now, you could, of course, attempt to climb up, and, you know, make your way through the hills on the either side of the of the ravine. But from what you know of the Feywild, that's unlikely to lead actually through the mountains."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Widened passage with Vondar’s boulder and cauldron",
+      "kind": "ravine chamber",
+      "evidence": [
+        {
+          "startUid": "u0414",
+          "endUid": "u0449",
+          "quote": "DM: You—you travel maybe three, four hundred feet, um, and you come to uh a an area where the canyon expands a little bit, so it's maybe twenty, thirty feet or so, um, wide, and sitting on a boulder in the middle of the passage, ah, is this twisted giant.\n\nDM: He's—he has one huge eye that like covers, you know, like a third of his face like that big. But the other side is just skin just grown over. There's no—over his eye socket. It's not like a central eye. It's just like—it's not central. It's just one eye that's like bulging out of its head. Um, he's tall he's got this huge club uh I mean he's a giant. He's maybe fifteen twenty feet tall. Um, sitting down. Got this huge club that's about the size of you, Raven sort of resting on the boulder.\n\nDM: And he's got, has, has like arm, his hand up against the the side of his face that doesn't have the the eye. It's kind of looking around, and you can see one of his feet is um like ha, you know, is like claws, just like almost like a bears foot with like fur and claws, and then he's got this like huge, like almost what looks like a a, like a like a like a mini third arm coming out of his back, but not one that looks like it could do much of anything, but it's kind of like hunched over, because there's this third arm kind of hanging off on this back uh, and he is—is just kind of sitting there, staring, and there are uh um!\n\nDM: I see there is a like in front where what he's looking at in front. There's like a huge uh cauldron, iron cauldron, um, and you can see kind of standing in front of the cauldron are two, uh, they look almost like misshapen satyrs. You know they have horns, but the horns are all sort of pointing in strange directions. Got like a little bit of a beard here, but it's like wiry. They have that—instead of—they have cloven hooves, but they've got long, like, clawed hands. There's one of them is stirring this cauldron, and the others like looking into it."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0408",
+              "endUid": "u0423",
+              "quote": "DM: Uh you begin. So Raven detaches from the group and begins to creep forward along the in the shadows along the edge of this ravine.\n\nRaven: To reveal like black feathers on the other side, and I like meld with the shadows.\n\nSeeker: Stealth mode.\n\nDM: Uh you.\n\nDM: You—you travel maybe three, four hundred feet, um, and you come to uh a an area where the canyon expands a little bit, so it's maybe twenty, thirty feet or so, um, wide, and sitting on a boulder in the middle of the passage, ah, is this twisted giant."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Amber plains",
+      "kind": "plains",
+      "evidence": [
+        {
+          "startUid": "u1642",
+          "endUid": "u1658",
+          "quote": "DM: So as you set out onto these amber plains, you—you can. It's this clear, flat expanse as far as the eye can see. In fact, you can see in the distance this ruined, ah, crumbling palace. It looks like—it looks like a—it was once like a floating airship, with like these, like elaborate wrought iron designs, and, you know, banners and streamers hanging off of it, and it's crashed into the ground on its side, and those just like tatter, like twisted iron and cracked. Um! Everything is cracked. One part of it is like twisted and like broken in half like that, so like one part of it is still upright, and another part of it has rotated like thirty degrees with a with a crack. It's hard to judge the distance, although the direction is obvious. Um.\n\nDM: And this is like many places in the Feywild, the sort of place where uh, just because you can see it doesn't mean it's easy to get to. But in this case, um, Caulaus has traveled this path before and knows the ways to walk on these plains to avoid the loops and turns, and repeating paths that would mislead you and sway you. So."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1642",
+              "endUid": "u1658",
+              "quote": "DM: So as you set out onto these amber plains, you—you can. It's this clear, flat expanse as far as the eye can see. In fact, you can see in the distance this ruined, ah, crumbling palace. It looks like—it looks like a—it was once like a floating airship, with like these, like elaborate wrought iron designs, and, you know, banners and streamers hanging off of it, and it's crashed into the ground on its side, and those just like tatter, like twisted iron and cracked. Um! Everything is cracked. One part of it is like twisted and like broken in half like that, so like one part of it is still upright, and another part of it has rotated like thirty degrees with a with a crack. It's hard to judge the distance, although the direction is obvious. Um.\n\nDM: And this is like many places in the Feywild, the sort of place where uh, just because you can see it doesn't mean it's easy to get to. But in this case, um, Caulaus has traveled this path before and knows the ways to walk on these plains to avoid the loops and turns, and repeating paths that would mislead you and sway you. So."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Crashed Cloud Palace",
+      "kind": "palace",
+      "evidence": [
+        {
+          "startUid": "u1642",
+          "endUid": "u1650",
+          "quote": "DM: So as you set out onto these amber plains, you—you can. It's this clear, flat expanse as far as the eye can see. In fact, you can see in the distance this ruined, ah, crumbling palace. It looks like—it looks like a—it was once like a floating airship, with like these, like elaborate wrought iron designs, and, you know, banners and streamers hanging off of it, and it's crashed into the ground on its side, and those just like tatter, like twisted iron and cracked. Um! Everything is cracked. One part of it is like twisted and like broken in half like that, so like one part of it is still upright, and another part of it has rotated like thirty degrees with a with a crack. It's hard to judge the distance, although the direction is obvious. Um."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Cloud Palace.md",
+      "note": "Present-day ruin. The floating palace appears only in the historical color-trade vision, not as a current mobile location.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0007",
+              "quote": "DM: So we will start tonight: the fey realm of Amberglow, on the borders of Shimmersong, where Seeker, ah, Spirala and Raven have come after leaving the Crystal Peaks and bidding farewell to Mikasa."
+            },
+            {
+              "startUid": "u1642",
+              "endUid": "u1658",
+              "quote": "DM: So as you set out onto these amber plains, you—you can. It's this clear, flat expanse as far as the eye can see. In fact, you can see in the distance this ruined, ah, crumbling palace. It looks like—it looks like a—it was once like a floating airship, with like these, like elaborate wrought iron designs, and, you know, banners and streamers hanging off of it, and it's crashed into the ground on its side, and those just like tatter, like twisted iron and cracked. Um! Everything is cracked. One part of it is like twisted and like broken in half like that, so like one part of it is still upright, and another part of it has rotated like thirty degrees with a with a crack. It's hard to judge the distance, although the direction is obvious. Um.\n\nDM: And this is like many places in the Feywild, the sort of place where uh, just because you can see it doesn't mean it's easy to get to. But in this case, um, Caulaus has traveled this path before and knows the ways to walk on these plains to avoid the loops and turns, and repeating paths that would mislead you and sway you. So."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Long open hall",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u1674",
+          "endUid": "u1690",
+          "quote": "DM: So as you approach you this, you can see that the, ah, the like partially intact part of this palace is a long open hall, with crumbling walls and these high arches. Delicate architecture. Um, everything looks light and airy. Um, everything—almost everything is gray. It's very little color anywhere in these these plains, so I forgot it. Have a—this too. Um!\n\nRaven: Why, they're called amber.\n\nDM: There used to be more color. It's sunset. Everywhere is sunset, like early sunset, as as the sky is just beginning to light up. But the color is flat, especially this—clad—this crashed ruins of the Cloud Palace, and you can see in this hall.\n\nUnknown: Um.\n\nDM: Which is one of the only intact things here. There is a fey woman pacing back and forth."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1674",
+              "endUid": "u1690",
+              "quote": "DM: So as you approach you this, you can see that the, ah, the like partially intact part of this palace is a long open hall, with crumbling walls and these high arches. Delicate architecture. Um, everything looks light and airy. Um, everything—almost everything is gray. It's very little color anywhere in these these plains, so I forgot it. Have a—this too. Um!\n\nRaven: Why, they're called amber.\n\nDM: There used to be more color. It's sunset. Everywhere is sunset, like early sunset, as as the sky is just beginning to light up. But the color is flat, especially this—clad—this crashed ruins of the Cloud Palace, and you can see in this hall.\n\nUnknown: Um.\n\nDM: Which is one of the only intact things here. There is a fey woman pacing back and forth."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Line of cypress trees",
+      "kind": "tree line",
+      "evidence": [
+        {
+          "startUid": "u0211",
+          "endUid": "u0214",
+          "quote": "Caulaus: And then uh, the the the Lastlight Falls. I have not yet made it to that place, I— but I've heard tell that it's easy to find if we can find a line of of cypress trees, a long line of trees that stretches for miles in a perfectly straight line leading to Lastlight Falls as long as you are careful not to touch or disturb the trees in any way. If you follow the path, you will make it to the falls."
+        },
+        {
+          "startUid": "u2033",
+          "endUid": "u2064",
+          "quote": "DM: So as you—as you approach, um, uh, you know you spend some more time traveling through this this, uh, these plains of of of grass, the sunset, um, low in this, ah, the sun low in the sky, and you can see now in the distance, um, this line of trees that Caulaus is leading you towards, and you can see, as you begin to approach, the long shadows cast by these trees.\n\nCaulaus: Do not, I think, stand in the shadows if we can.\n\nSpirala: When we were leaving the palace, if there was any like grass or anything growing anywhere near it, I sort of flowered it up for her.\n\nDM: Okay, yeah, there is grass growing around [garbled]. Um. So you just begin to walk in between the shadows of the trees. Yeah. Well, if the shadows are going one way, don't we just walk on the other side?\n\nCaulaus: Yeah, are the shadows consistent, like there's a single point of light, or—\n\nDM: So it's a line of trees like this, like in the distance, like twenty or thirty trees, just like all in a line, and you're—you got a head to the trees, and so there's my shadows coming towards you.\n\nSpirala: Uh.\n\nSeeker: So the lines this way.\n\nDM: Yeah, the line is the line, and we're we're, we're walking like this, so we're we're perpendicular, not parallel. They're all lined up in the right direction, but they seem to like—like, like move—they wiggle a little bit. They seem to like move a little bit occasionally, like— It's probably three hundred feet or so to the line of trees."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2033",
+              "endUid": "u2064",
+              "quote": "DM: So as you—as you approach, um, uh, you know you spend some more time traveling through this this, uh, these plains of of of grass, the sunset, um, low in this, ah, the sun low in the sky, and you can see now in the distance, um, this line of trees that Caulaus is leading you towards, and you can see, as you begin to approach, the long shadows cast by these trees.\n\nCaulaus: Do not, I think, stand in the shadows if we can.\n\nSpirala: When we were leaving the palace, if there was any like grass or anything growing anywhere near it, I sort of flowered it up for her.\n\nDM: Okay, yeah, there is grass growing around [garbled]. Um. So you just begin to walk in between the shadows of the trees. Yeah. Well, if the shadows are going one way, don't we just walk on the other side?\n\nCaulaus: Yeah, are the shadows consistent, like there's a single point of light, or—\n\nDM: So it's a line of trees like this, like in the distance, like twenty or thirty trees, just like all in a line, and you're—you got a head to the trees, and so there's my shadows coming towards you.\n\nSpirala: Uh.\n\nSeeker: So the lines this way.\n\nDM: Yeah, the line is the line, and we're we're, we're walking like this, so we're we're perpendicular, not parallel. They're all lined up in the right direction, but they seem to like—like, like move—they wiggle a little bit. They seem to like move a little bit occasionally, like— It's probably three hundred feet or so to the line of trees."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Narrow path between the trees’ shadows",
+      "kind": "approach path",
+      "evidence": [
+        {
+          "startUid": "u2122",
+          "endUid": "u2155",
+          "quote": "Spirala: But I mean, could we just go as fast as we can in between the shadows, thinking that we're trying to just generally actually dodge them, and if it gets perilously narrow I could do it.\n\nCaulaus: Yeah, that's that's probably the best. Yeah, yeah.\n\nDM: So you begin—what order? It's fairly narrow. You can basically have to be single file to walk between the—\n\nRaven: Ready to Fey Step away to a light spot, if anything.\n\nDM: Okay, who's going second?\n\nCaulaus: I'll go second, so that I go last.\n\nDM: I wouldn't want to create light ahead of us we can all run to, so, um, everybody make a Dexterity saving throw.\n\nRaven: Is it to avoid or on the—\n\nDM: No, you know I don't think.\n\nRaven: I only rolled the twelve. Not cool.\n\nDM: Um!\n\nDM: You get the first one hundred feet or so, dodging out of the way of, you know, a few like creeping bits of shadow that attempt to, um, to to grab you, and as you're now sort of in the midst of these long shadows you feel the, um, just the like cold and dark of the shadows themselves beginning to, uh, creep into your mind, and everybody make a Wisdom saving throw.\n\nSpirala: Is it to avoid the charmed condition?\n\nRaven: Seventeen?\n\nSpirala: Are we entering the shadows? Can I just light up the lights? How does this happen?\n\nRaven: The—the shadows.\n\nDM: So? Um the shadows make us.\n\nUnknown: Thank you.\n\nDM: Ah, you see, you all like start to go forward again, like you're walking this like narrow path down. It's getting narrower and narrower. Um, and you you notice, like about, after about a minute that Caulaus has stopped moving, and the darkness is beginning to like creep for him. It's almost not even that the darkness is moving. It's that where he is standing is beginning to get just darker and darker and darker."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u2033",
+              "endUid": "u2064",
+              "quote": "DM: So as you—as you approach, um, uh, you know you spend some more time traveling through this this, uh, these plains of of of grass, the sunset, um, low in this, ah, the sun low in the sky, and you can see now in the distance, um, this line of trees that Caulaus is leading you towards, and you can see, as you begin to approach, the long shadows cast by these trees.\n\nCaulaus: Do not, I think, stand in the shadows if we can.\n\nSpirala: When we were leaving the palace, if there was any like grass or anything growing anywhere near it, I sort of flowered it up for her.\n\nDM: Okay, yeah, there is grass growing around [garbled]. Um. So you just begin to walk in between the shadows of the trees. Yeah. Well, if the shadows are going one way, don't we just walk on the other side?\n\nCaulaus: Yeah, are the shadows consistent, like there's a single point of light, or—\n\nDM: So it's a line of trees like this, like in the distance, like twenty or thirty trees, just like all in a line, and you're—you got a head to the trees, and so there's my shadows coming towards you.\n\nSpirala: Uh.\n\nSeeker: So the lines this way.\n\nDM: Yeah, the line is the line, and we're we're, we're walking like this, so we're we're perpendicular, not parallel. They're all lined up in the right direction, but they seem to like—like, like move—they wiggle a little bit. They seem to like move a little bit occasionally, like— It's probably three hundred feet or so to the line of trees."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2060",
+              "endUid": "u2064",
+              "quote": "DM: Yeah, the line is the line, and we're we're, we're walking like this, so we're we're perpendicular, not parallel. They're all lined up in the right direction, but they seem to like—like, like move—they wiggle a little bit. They seem to like move a little bit occasionally, like— It's probably three hundred feet or so to the line of trees."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Flowered plain below Lastlight Falls",
+      "kind": "waterfall clearing",
+      "evidence": [
+        {
+          "startUid": "u2224",
+          "endUid": "u2233",
+          "quote": "DM: So, as you make the last step through this, through these trees, you see in front of you, ah, glorious, rolling plain of beautiful, colorful like a field of flowers. Um!\n\nDM: In the middle, a cliff that has just like like a a waterfall that doesn't have quite enough water for the water to totally reach the bottom and form a pool, but it's this beautiful sort of rainbow spray cascading down the side of the cliff."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u2224",
+              "endUid": "u2246",
+              "quote": "DM: So, as you make the last step through this, through these trees, you see in front of you, ah, glorious, rolling plain of beautiful, colorful like a field of flowers. Um!\n\nDM: In the middle, a cliff that has just like like a a waterfall that doesn't have quite enough water for the water to totally reach the bottom and form a pool, but it's this beautiful sort of rainbow spray cascading down the side of the cliff.\n\nDM: And you see sitting in meditation at the top of the cliff, um, a human wearing, um, robes, with holding this wooden staff that's carved with like all sorts of runes and decorations, two pieces of jade on the top. Um, ah, hood thrown back.\n\nDM: And that's where we'll stop. So Kong can actually greet you himself at some point. Ah, amazing.\n\nDM: There! What? Ah, Raven returns to—well, you can role play out how you guys leave. The the, um, human Kenzo at the top of the cliff, like, waves down to you, and starts to make his way down, as you say goodbye to your companions."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Lastlight Falls",
+      "kind": "fey crossing",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0028",
+          "quote": "DM: In search of Lastlight Falls, the location of the fey crossing that Seeker hopes to find somewhere in the decaying domain of Amberglow."
+        },
+        {
+          "startUid": "u2224",
+          "endUid": "u2246",
+          "quote": "DM: So, as you make the last step through this, through these trees, you see in front of you, ah, glorious, rolling plain of beautiful, colorful like a field of flowers. Um!\n\nDM: In the middle, a cliff that has just like like a a waterfall that doesn't have quite enough water for the water to totally reach the bottom and form a pool, but it's this beautiful sort of rainbow spray cascading down the side of the cliff.\n\nDM: And you see sitting in meditation at the top of the cliff, um, a human wearing, um, robes, with holding this wooden staff that's carved with like all sorts of runes and decorations, two pieces of jade on the top. Um, ah, hood thrown back.\n\nDM: And that's where we'll stop. So Kong can actually greet you himself at some point. Ah, amazing.\n\nDM: There! What? Ah, Raven returns to—well, you can role play out how you guys leave. The the, um, human Kenzo at the top of the cliff, like, waves down to you, and starts to make his way down, as you say goodbye to your companions."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Lastlight Falls.md",
+      "note": "Only the Amberglow side is physically reached; the Material Plane’s midnight is observed through the thread at the palace.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0025",
+              "endUid": "u0028",
+              "quote": "DM: In search of Lastlight Falls, the location of the fey crossing that Seeker hopes to find somewhere in the decaying domain of Amberglow."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Top of the waterfall cliff",
+      "kind": "cliff top",
+      "evidence": [
+        {
+          "startUid": "u2234",
+          "endUid": "u2241",
+          "quote": "DM: And you see sitting in meditation at the top of the cliff, um, a human wearing, um, robes, with holding this wooden staff that's carved with like all sorts of runes and decorations, two pieces of jade on the top. Um, ah, hood thrown back."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u2224",
+              "endUid": "u2246",
+              "quote": "DM: So, as you make the last step through this, through these trees, you see in front of you, ah, glorious, rolling plain of beautiful, colorful like a field of flowers. Um!\n\nDM: In the middle, a cliff that has just like like a a waterfall that doesn't have quite enough water for the water to totally reach the bottom and form a pool, but it's this beautiful sort of rainbow spray cascading down the side of the cliff.\n\nDM: And you see sitting in meditation at the top of the cliff, um, a human wearing, um, robes, with holding this wooden staff that's carved with like all sorts of runes and decorations, two pieces of jade on the top. Um, ah, hood thrown back.\n\nDM: And that's where we'll stop. So Kong can actually greet you himself at some point. Ah, amazing.\n\nDM: There! What? Ah, Raven returns to—well, you can role play out how you guys leave. The the, um, human Kenzo at the top of the cliff, like, waves down to you, and starts to make his way down, as you say goodbye to your companions."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0022"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala"
+      ],
+      "reading": "During the opening montage, the three companions travel and spend time in Shimmersong.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0022",
+          "quote": "DM: Um, and passing through Shimmersong, where you spent a fair bit of time, although it's hard to know how long in the Feywild any time is: traveling to the groves of stone trees from which the most delicious fruit of all varieties grow; spending time among the forested valleys where giant spiders spin webs of gossamer silver; traveling to the summer court of the Lightdancer, vibrant whirlwind of color and song and food and dance.\n\nDM: And Seeker spending some time learning the— about the crystallized magic gifted to you by Illaran, and fashioning it into an item you can use, which I just added to your character sheet.\n\nSeeker: Great, thank you.\n\nDM: Now, though, after a week, two, three, it's hard to say— you've left Shimmersong, and come to the decaying realm of Amberglow in search of—"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0044",
+        "endUid": "u0055"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala"
+      ],
+      "reading": "Raven leads Seeker and Spirala to Caulaus’s camp on the Golden Hills border.",
+      "evidence": [
+        {
+          "startUid": "u0044",
+          "endUid": "u0055",
+          "quote": "DM: And to find to find Lastlight Falls, the fey crossing in this domain, you need a guide, and Raven has brought you to the border around this border area called the Golden Hills. Um, an area that was once beautiful rolling fields of grain and the peaceful, ah, pastoral landscape, now a twisting maze of ravines and false paths and dead ends and sudden cliffs.\n\nDM: In fact, Raven knows, knows somebody who, ah, rumored to be able to, has spent time in Amberglow, and could lead you through. And as you approach a small camp, sheltered on the side of a hill topped by the crumbling ruin of a watchtower—"
+        },
+        {
+          "startUid": "u0063",
+          "endUid": "u0063",
+          "quote": "DM: See these three people approaching from your camp in the Golden Hills?"
+        },
+        {
+          "startUid": "u0126",
+          "endUid": "u0131",
+          "quote": "Caulaus: So, as you approach, Caulaus, sort of stands sort of looking at you doesn't draw his weapon or anything, but he's, but he's clearly watching as you as you approach, and when you kind of get within earshot, he calls out.\n\nCaulaus: Ah, travelers in Amberglow! What a—what are you seeking?"
+        }
+      ],
+      "from": "p01",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass from Shimmersong into the Golden Hills border area.",
+          "place": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0078",
+        "endUid": "u0107"
+      },
+      "actors": [
+        "Caulaus"
+      ],
+      "reading": "Caulaus is at his orderly camp when the travelers arrive.",
+      "evidence": [
+        {
+          "startUid": "u0078",
+          "endUid": "u0107",
+          "quote": "Caulaus: Well, um, I'll just describe. I—I have a few. I have a few role playing things, but I'll wait till everybody's done the description. But the description of Caulaus, he's—he's um, you know, has a well-organized camp. There's, uh, you know, some food sort of neatly stacked on one side. There's a pack you can see uh a a small sort of tent like a almost like a a military tent. Um, sort of staked out a a crackling fire where he's. You know where there's some cook pot over it. Um.\n\nCaulaus: And Caulaus is standing in front of the— He stood up as he, as he noticed your approach. Um, is standing kind of almost at like a parade rest. He clearly looks like a a soldier, somebody has been in the army. Um, he's wearing shimmering, uh, um, shimmering like highly polished plate armor, um, in a helm with a with a big red plume coming off the—like a horse tail, or some, you know, horse hair or something, plume coming off the back, and strapped on his back, is like a huge great sword, right like a big sword, and he's—he's, um, there's— he's wearing a tabard with the Roman numeral three on it. Um, and some writing. Um, do any of you—whenever you recognize Drankorian writing?\n\nRaven: Probably not. Might Seeker?\n\nDM: Ah, I don't think so. I mean.\n\nCaulaus: You don't need—you. You would recognize something written in Drankorian on the underneath the the three, um, on his tabard. Um.\n\nCaulaus: He looks middle aged um, but there's a little bit of a hint—his—he doesn't totally look sane at some. I mean, you're looking at his eyes. You can see, like, looking at him, you can see he's like, uh, darting around a little bit, like he's—he's not, um—\n\nCaulaus: The—the facade of his, like, calm army demeanor is not—is betrayed a little bit by, um, by his eyes, and like just a little twitch on his face. And things like that."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0314",
+        "endUid": "u0354"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Caulaus"
+      ],
+      "reading": "Caulaus leads the group through the twisting Golden Hills to the open valley before the ravine.",
+      "evidence": [
+        {
+          "startUid": "u0314",
+          "endUid": "u0324",
+          "quote": "Caulaus: Yes, this way.\n\nDM: Ah!\n\nCaulaus: As he sets out in the lead, um, you know he sort of humming, uh, uh, lightly under his breath, singing kind of an off-key, them, Drankorian marching song. None of you can follow the words. He seems pleased to be on the move."
+        },
+        {
+          "startUid": "u0326",
+          "endUid": "u0354",
+          "quote": "DM: Passing through the Golden Hills is slow going. Um, but uh, Caulaus knows the way, and is able to sort of lead you in and out through these, you know, occasionally having to backtrack, and occasionally, you know, coming to a a dead end, where suddenly a cliff will appear out of nowhere. Or, ah, you know, you'll be following a a path that an hour later you find yourself back in a circle, even though you thought you were going in the same direction. Um!\n\nDM: And again it's—it's hard to judge the passing of time exactly, especially because the sun doesn't move in the sky. Late afternoon here, and have been for millennia.\n\nDM: But eventually you sort of meander pick your way to, ah, a wide open valley with a ring of, ah, of hills, of steep cliffs in front of you, and you can see now the— through those cliffs that that Caulaus points out as the, um, as the Long Shadow Ravine, and you can see where it gets its name, because the whole thing is in shadow from the angle of the sun. Uh, it—it is dark in there. Uh, not that wide, either, like, from this distance it's—you can— what you can see, the ravine itself, it seems to be maybe fifteen, twenty feet across, at least at the entrance, and it cuts straight through this cliff, still some distance away from it. There's like this wide sort of bowl of a valley uh that you're crossing. But the hills around the cliffs look formidable. Now, you could, of course, attempt to climb up, and, you know, make your way through the hills on the either side of the of the ravine. But from what you know of the Feywild, that's unlikely to lead actually through the mountains."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Backtrack and follow looping paths through the Golden Hills.",
+          "place": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0408",
+        "endUid": "u0483"
+      },
+      "actors": [
+        "Raven"
+      ],
+      "reading": "Raven scouts into the widened ravine passage, watches the giant and cauldron, then returns to report to the others.",
+      "evidence": [
+        {
+          "startUid": "u0408",
+          "endUid": "u0423",
+          "quote": "DM: Uh you begin. So Raven detaches from the group and begins to creep forward along the in the shadows along the edge of this ravine.\n\nRaven: To reveal like black feathers on the other side, and I like meld with the shadows.\n\nSeeker: Stealth mode.\n\nDM: Uh you.\n\nDM: You—you travel maybe three, four hundred feet, um, and you come to uh a an area where the canyon expands a little bit, so it's maybe twenty, thirty feet or so, um, wide, and sitting on a boulder in the middle of the passage, ah, is this twisted giant."
+        },
+        {
+          "startUid": "u0472",
+          "endUid": "u0483",
+          "quote": "Raven: All right. I will, um, swiftly return to my friends, assuming they don't notice me.\n\nDM: They don't seem to have noticed you.\n\nRaven: I I will just like dart through the rocks to just like quickly—once, once I get like a couple like a couple of hundred feet away, I just like dash back um to return.\n\nUnknown: What they're cooking up in that cauldron.\n\nRaven: Yeah, and I'll relay this information to the group."
+        },
+        {
+          "startUid": "u0489",
+          "endUid": "u0492",
+          "quote": "DM: It was like five hundred feet that Raven traveled. So maybe a bit further. You're pretty close. Yeah. And this seems like this opening is like the halfway—there's like a little bit past the halfway point of the—"
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "stealthy walk",
+      "route": [
+        {
+          "reading": "Enter Long Shadow Ravine.",
+          "place": "p06"
+        },
+        {
+          "reading": "Scout the giant’s boulder and cauldron, then return to companions.",
+          "place": "p07"
+        }
+      ],
+      "distance": {
+        "value": 500,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM’s later estimate for the outward scouting distance, refining the initial three-to-four-hundred-foot description"
+      },
+      "note": "The distance is the outward scout, not the round-trip total. The companions do not accompany Raven on this first scout."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0755",
+        "endUid": "u0772"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Caulaus"
+      ],
+      "reading": "The group advances into the ravine for the encounter; Raven and Spirala initially lead, and all are together by the cauldron investigation.",
+      "evidence": [
+        {
+          "startUid": "u0755",
+          "endUid": "u0772",
+          "quote": "DM: Okay. So you're all beginning to creep forward with um uh with uh, as a tiny fairy and uh Raven sneaking along about sixty or so feet in front of, and uh Caulaus.\n\nUnknown: This.\n\nDM: And you get, you know, you begin—you begin to creep, creep forward slowly, trying to stay, ah, stealthy, um, Raven and Spirala kind of—Raven staying to the shadows, Spirala, trying to like flitter like along the sort of edge of the cliff, where she's out of sight, and um uh out of you know, unable to be easily spotted by the um, ah, by the creatures."
+        },
+        {
+          "startUid": "u0940",
+          "endUid": "u0944",
+          "quote": "Raven: I just like slipped through um the shadows of the cliff, and then just appear next to him and pull out this blindingly bright blue short sword, and just— and I will slash at him twice with the first one with advantage. Right?"
+        },
+        {
+          "startUid": "u1547",
+          "endUid": "u1553",
+          "quote": "Seeker: It's, uh, it's voice controlled, um, flaps. Also it's great. It will open and close.\n\nRaven: Can we run it through the cauldron and get Caulaus's memories back?\n\nSeeker: Oh, interesting idea! I was thinking of the cauldron.\n\nRaven: You paid the toll.\n\nSeeker: Yeah, what's in there?\n\nCaulaus: Yeah, what's in the cauldron?\n\nDM: It looks empty. I mean, the the ladle that they were stirring it with is is lying on the ground next to the cauldron, but it appears to be empty.\n\nRaven: And I pick up the ladle."
+        },
+        {
+          "startUid": "u1585",
+          "endUid": "u1598",
+          "quote": "DM: Stirring and stirring this cauldron and not stopping and just beginning to like their face, is beginning to sort of droop in a little bit into the cauldron as the—\n\nCaulaus: Yeah. I'm going to just like, push him up, take the ladle out of his hand, and like—\n\nRaven: Well, it was mine. No, you can't have it. My precious.\n\nDM: Ah, are you trying to resist? I mean, yes. Make a Athletics against Acrobatics.\n\nRaven: I can use Acrobatics.\n\nDM: Yeah. Oh.\n\nRaven: Oh, it rolled so bad!\n\nDM: Ah, he just grabs the ladle from your hand, and you you start back for a moment.\n\nRaven: You mean my ladle.\n\nCaulaus: I'm gonna like toss it off into the hills and say, “This is malevolent. This is not safe.”\n\nRaven: Come on, throw it at me. Throw it at me as hard as you can.\n\nCaulaus: I threw it off as far as I can like up into the rocks in the other direction.\n\nRaven: Threw it at me.\n\nCaulaus: I'm not throwing it at you.\n\nRaven: Throw a rock at me.\n\nCaulaus: I'm not throwing a rock at me.\n\nDM: So you snap back to yourself. Yeah."
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Advance through Long Shadow Ravine, with the hidden scouts ahead of Seeker and Caulaus.",
+          "place": "p06"
+        }
+      ],
+      "note": "Caulaus initially attacks through an echo. The later physical seizure of the ladle establishes his arrival beside Raven; speech during the first scout does not move the group."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1642",
+        "endUid": "u1660"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Caulaus"
+      ],
+      "reading": "After resting, the group crosses the amber plains and reaches Lady Eventide in the intact hall of the crashed Cloud Palace.",
+      "evidence": [
+        {
+          "startUid": "u1642",
+          "endUid": "u1660",
+          "quote": "DM: So as you set out onto these amber plains, you—you can. It's this clear, flat expanse as far as the eye can see. In fact, you can see in the distance this ruined, ah, crumbling palace. It looks like—it looks like a—it was once like a floating airship, with like these, like elaborate wrought iron designs, and, you know, banners and streamers hanging off of it, and it's crashed into the ground on its side, and those just like tatter, like twisted iron and cracked. Um! Everything is cracked. One part of it is like twisted and like broken in half like that, so like one part of it is still upright, and another part of it has rotated like thirty degrees with a with a crack. It's hard to judge the distance, although the direction is obvious. Um.\n\nDM: And this is like many places in the Feywild, the sort of place where uh, just because you can see it doesn't mean it's easy to get to. But in this case, um, Caulaus has traveled this path before and knows the ways to walk on these plains to avoid the loops and turns, and repeating paths that would mislead you and sway you. So.\n\nDM: Unless there's anything you want to discuss while you walk, I will skip ahead to the palace.\n\nRaven: Yes, I keep pestering Caulaus about stealing the ladle."
+        },
+        {
+          "startUid": "u1674",
+          "endUid": "u1708",
+          "quote": "DM: So as you approach you this, you can see that the, ah, the like partially intact part of this palace is a long open hall, with crumbling walls and these high arches. Delicate architecture. Um, everything looks light and airy. Um, everything—almost everything is gray. It's very little color anywhere in these these plains, so I forgot it. Have a—this too. Um!\n\nRaven: Why, they're called amber.\n\nDM: There used to be more color. It's sunset. Everywhere is sunset, like early sunset, as as the sky is just beginning to light up. But the color is flat, especially this—clad—this crashed ruins of the Cloud Palace, and you can see in this hall.\n\nUnknown: Um.\n\nDM: Which is one of the only intact things here. There is a fey woman pacing back and forth.\n\nDM: She is wearing elaborate, courtly gowns, a necklace, rings. She has long hair that's done up in a fancy hairstyle, and braided with like two combs in her hair. Um, but everything she is wearing is—almost everything she is wearing is like a flat gray white, no—very little color. One of the combs in her hair is this rich, ah, mahogany color, and there's like a streak of golden blonde like one of her braids is golden blonde, and then you can see that two rings on another finger are, ah, one is gold, the other is—it's like silver with a with a or with a pattern.\n\nDM: And there's one—she has those long draping sleeves, and one of the sleeves is this like rich yellow color, but everything else, or the rest of her clothes, entirely gray.\n\nDM: And as you approach she stops pacing, she turns to look at the four of you, and looks particularly at Caulaus, she says, “Why do you return? You are not welcome here.”"
+        }
+      ],
+      "from": "p07",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Leave the ravine and cross the amber plains toward the visible palace; Caulaus avoids looping paths.",
+          "place": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1919",
+        "endUid": "u1936"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "The color trade briefly shows the former court inside the floating Cloud Palace; Seeker remains physically in the ruined hall.",
+      "evidence": [
+        {
+          "startUid": "u1919",
+          "endUid": "u1936",
+          "quote": "DM: She reaches forward, and she grabs like one like thick strand of hair, like like a good sized chunk. But just like one streak, basically, from the hair.\n\nSeeker: He had white streak down the center of my head.\n\nDM: Exactly, and as she grasps onto it, you just see, like a flash for a moment of the court as it was with hundreds of fey in this palace that's floating in the sky, resting on a cloud above a golden sunset. Um.\n\nDM: The Queen of Sunsets herself dancing, uh, in the court, moving from person to person, dancing with everybody, wearing a, app, a dress of this amazing, like multicolored multi-hued thread like hundreds of, um, hues all weaving together.\n\nUnknown: Um!\n\nDM: And as she, as she danced, as she moves, like it just ripples, and you can see the waves of color sort of moving out in all directions from the court, and then the image ends, and you have a streak of completely white hair going back down the side, and you can see like this color sort of flow into her hand and move up her arm and then move. And now she has a streak of red hair next to the streak of blonde hair."
+        }
+      ],
+      "place": "p09",
+      "mode": "vision",
+      "observerPlace": "p10",
+      "context": "vision"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2033",
+        "endUid": "u2064"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Caulaus"
+      ],
+      "reading": "Leaving the palace, the four companions approach the tree line and begin following the narrowing strips of light between its shadows.",
+      "evidence": [
+        {
+          "startUid": "u2033",
+          "endUid": "u2064",
+          "quote": "DM: So as you—as you approach, um, uh, you know you spend some more time traveling through this this, uh, these plains of of of grass, the sunset, um, low in this, ah, the sun low in the sky, and you can see now in the distance, um, this line of trees that Caulaus is leading you towards, and you can see, as you begin to approach, the long shadows cast by these trees.\n\nCaulaus: Do not, I think, stand in the shadows if we can.\n\nSpirala: When we were leaving the palace, if there was any like grass or anything growing anywhere near it, I sort of flowered it up for her.\n\nDM: Okay, yeah, there is grass growing around [garbled]. Um. So you just begin to walk in between the shadows of the trees. Yeah. Well, if the shadows are going one way, don't we just walk on the other side?\n\nCaulaus: Yeah, are the shadows consistent, like there's a single point of light, or—\n\nDM: So it's a line of trees like this, like in the distance, like twenty or thirty trees, just like all in a line, and you're—you got a head to the trees, and so there's my shadows coming towards you.\n\nSpirala: Uh.\n\nSeeker: So the lines this way.\n\nDM: Yeah, the line is the line, and we're we're, we're walking like this, so we're we're perpendicular, not parallel. They're all lined up in the right direction, but they seem to like—like, like move—they wiggle a little bit. They seem to like move a little bit occasionally, like— It's probably three hundred feet or so to the line of trees."
+        },
+        {
+          "startUid": "u2122",
+          "endUid": "u2155",
+          "quote": "Spirala: But I mean, could we just go as fast as we can in between the shadows, thinking that we're trying to just generally actually dodge them, and if it gets perilously narrow I could do it.\n\nCaulaus: Yeah, that's that's probably the best. Yeah, yeah.\n\nDM: So you begin—what order? It's fairly narrow. You can basically have to be single file to walk between the—\n\nRaven: Ready to Fey Step away to a light spot, if anything.\n\nDM: Okay, who's going second?\n\nCaulaus: I'll go second, so that I go last.\n\nDM: I wouldn't want to create light ahead of us we can all run to, so, um, everybody make a Dexterity saving throw.\n\nRaven: Is it to avoid or on the—\n\nDM: No, you know I don't think.\n\nRaven: I only rolled the twelve. Not cool.\n\nDM: Um!\n\nDM: You get the first one hundred feet or so, dodging out of the way of, you know, a few like creeping bits of shadow that attempt to, um, to to grab you, and as you're now sort of in the midst of these long shadows you feel the, um, just the like cold and dark of the shadows themselves beginning to, uh, creep into your mind, and everybody make a Wisdom saving throw.\n\nSpirala: Is it to avoid the charmed condition?\n\nRaven: Seventeen?\n\nSpirala: Are we entering the shadows? Can I just light up the lights? How does this happen?\n\nRaven: The—the shadows.\n\nDM: So? Um the shadows make us.\n\nUnknown: Thank you.\n\nDM: Ah, you see, you all like start to go forward again, like you're walking this like narrow path down. It's getting narrower and narrower. Um, and you you notice, like about, after about a minute that Caulaus has stopped moving, and the darkness is beginning to like creep for him. It's almost not even that the darkness is moving. It's that where he is standing is beginning to get just darker and darker and darker."
+        }
+      ],
+      "from": "p10",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Cross more of the amber plains toward the tree line.",
+          "place": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2224",
+        "endUid": "u2246"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Caulaus"
+      ],
+      "reading": "After the shadow hazard, all four pass through the trees onto the flowered plain below Lastlight Falls.",
+      "evidence": [
+        {
+          "startUid": "u2183",
+          "endUid": "u2189",
+          "quote": "DM: It was a seven. I—okay, so, um, Raven and Spirala, uh, shake off the cold, but um Seeker and and Caulaus, you feel like ice beginning to creep up your legs, and you are now restrained.\n\nDM: It's getting colder and darker, and you're starting to feel alarmed. How far away are we from somewhere not restrained? Like fifty feet."
+        },
+        {
+          "startUid": "u2200",
+          "endUid": "u2223",
+          "quote": "Caulaus: Okay, say something. Now I was going to cast Misty Step.\n\nDM: No, it's not working.\n\nSpirala: Can I?\n\nRaven: I think we're too—well, I think we should all just run.\n\nDM: Okay, say something again. Okay, let's see if I can get another ten minutes out of my air pods, because I don't know why my computer speaker is not working. Sorry. What were you all saying? What are you going to do?\n\nCaulaus: I was going to cast Misty Step.\n\nRaven: I was trying to break the ice on Seeker's legs. You also feel right. My Physician's Touch is useless. It doesn't end the restrained condition.\n\nCaulaus: Can you just cast Dimension Door? But you have to walk through it. Yeah, now you have to.\n\nRaven: Oh, can I try and break the ice?\n\nDM: Ah, sure! Um, how are you attempting to break the ice?\n\nRaven: Hitting it?\n\nDM: No, you don't have to walk through the—you don't have to walk through Dimension Door. There's a—that's a different spell that's like Arcane Gate or something. Dimension Door is—alright, well, then, I'll just walk forward twenty. Then I'll just walk forward— right.\n\nSeeker: So as.\n\nSpirala: You two just magic yourself, out of your problems.\n\nCaulaus: Yup. Why would you really do anything else if I were magic? For—"
+        },
+        {
+          "startUid": "u2224",
+          "endUid": "u2246",
+          "quote": "DM: So, as you make the last step through this, through these trees, you see in front of you, ah, glorious, rolling plain of beautiful, colorful like a field of flowers. Um!\n\nDM: In the middle, a cliff that has just like like a a waterfall that doesn't have quite enough water for the water to totally reach the bottom and form a pool, but it's this beautiful sort of rainbow spray cascading down the side of the cliff.\n\nDM: And you see sitting in meditation at the top of the cliff, um, a human wearing, um, robes, with holding this wooden staff that's carved with like all sorts of runes and decorations, two pieces of jade on the top. Um, ah, hood thrown back.\n\nDM: And that's where we'll stop. So Kong can actually greet you himself at some point. Ah, amazing.\n\nDM: There! What? Ah, Raven returns to—well, you can role play out how you guys leave. The the, um, human Kenzo at the top of the cliff, like, waves down to you, and starts to make his way down, as you say goodbye to your companions."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk with magical assistance",
+      "route": [
+        {
+          "reading": "Pass through the line of trees, emerging beyond the shadows.",
+          "place": "p11"
+        }
+      ],
+      "note": "Misty Step and Dimension Door are discussed for the restrained characters; their individual casts are not fully resolved in speech, but the final narration establishes the group’s arrival."
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u2234",
+        "endUid": "u2246"
+      },
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Caulaus"
+      ],
+      "reading": "From below the falls, the companions see Kenzo meditating at the cliff top; he waves and begins descending.",
+      "evidence": [
+        {
+          "startUid": "u2234",
+          "endUid": "u2246",
+          "quote": "DM: And you see sitting in meditation at the top of the cliff, um, a human wearing, um, robes, with holding this wooden staff that's carved with like all sorts of runes and decorations, two pieces of jade on the top. Um, ah, hood thrown back.\n\nDM: And that's where we'll stop. So Kong can actually greet you himself at some point. Ah, amazing.\n\nDM: There! What? Ah, Raven returns to—well, you can role play out how you guys leave. The the, um, human Kenzo at the top of the cliff, like, waves down to you, and starts to make his way down, as you say goodbye to your companions."
+        }
+      ],
+      "place": "p15",
+      "mode": "local",
+      "observerPlace": "p13",
+      "observedActors": [
+        "Kenzo"
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u2289",
+        "endUid": "u2301"
+      },
+      "actors": [
+        "Seeker",
+        "Spirala"
+      ],
+      "reading": "Spirala remains with Seeker below the falls, waiting for Kenzo to come down and greet them; Wellby and Delwath are still future arrivals.",
+      "evidence": [
+        {
+          "startUid": "u2289",
+          "endUid": "u2301",
+          "quote": "DM: So you guys head towards Shimmersong. Yes, once, right. So they depart. Spirala waits with Seeker for Kenzo to come down from the top of the cliffs and greet each other, and then for Wellby and Delwath to arrive eventually and proceed. And as—um, as they—as everybody leaves, Seeker, you hear a little voice in your head: “Oh, we're so close. The grove is just—hmm—a short distance east of here. You're actually going to bring me there, aren't you?”"
+        }
+      ],
+      "place": "p13",
+      "note": "Kenzo is seen beginning his descent, but the source does not resolve the greeting or put the waiting companions on the cliff top."
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2289",
+        "endUid": "u2301"
+      },
+      "actors": [
+        "Raven",
+        "Caulaus"
+      ],
+      "reading": "Raven and Caulaus depart toward Shimmersong, leaving Seeker and Spirala at the falls.",
+      "evidence": [
+        {
+          "startUid": "u2248",
+          "endUid": "u2268",
+          "quote": "Caulaus: Caulaus will sort of salute, and wish you a good journey. Um! And look at the other two clearly fey creatures, and sort of nod at you and say, “I do not think you need guidance here.”\n\nRaven: I am going. It is almost time for {{a spoil}} to return to the caves and hibernate. I wouldn't want to miss that.\n\nSpirala: For perhaps you could be a guide for Caulaus, and he could explore Shimmersong.\n\nRaven: Who.\n\nSpirala: Raven? Perhaps you could be a guide for Caulaus, and he could explore Shimmersong.\n\nCaulaus: I would welcome the opportunity.\n\nRaven: Why don't you invite him?\n\nSpirala: Why don't I invite him, so? He just said—oh, because I want to hang out here for a little while and make sure that Seeker gets through it the right kind of light.\n\nSeeker: Got the thread, after all."
+        },
+        {
+          "startUid": "u2289",
+          "endUid": "u2301",
+          "quote": "DM: So you guys head towards Shimmersong. Yes, once, right. So they depart. Spirala waits with Seeker for Kenzo to come down from the top of the cliffs and greet each other, and then for Wellby and Delwath to arrive eventually and proceed. And as—um, as they—as everybody leaves, Seeker, you hear a little voice in your head: “Oh, we're so close. The grove is just—hmm—a short distance east of here. You're actually going to bring me there, aren't you?”"
+        }
+      ],
+      "from": "p13",
+      "to": "p01",
+      "completion": "underway",
+      "mode": "walk"
+    }
+  ]
+}
