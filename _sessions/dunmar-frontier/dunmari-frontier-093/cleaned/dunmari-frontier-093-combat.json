@@ -1,0 +1,407 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-093",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-session.yaml",
+    "sessionYamlSha256": "526727d33ff7095c688b294b8a8033c98f9b7dd30d2101770367749d84857e39",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-transcript.md",
+    "transcriptSha256": "15462a31547e512fcbb3b470bff9d3117a91b439206c338568584a42c47c0df9",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-segments.json",
+      "sha256": "ea3e05b322a2ced9a605926b73ac01994dc0fa077a8f1fad55f3c09b94cc9306",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "White dragon and two ice constructs at the makeshift camp",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Attacks the descending dragon with advantage from being hidden and invisible; the attack hits for 27 damage, corrected from 37.",
+              "evidence": [
+                {
+                  "startUid": "u1562",
+                  "endUid": "u1568"
+                }
+              ]
+            },
+            {
+              "actor": "White dragon",
+              "kind": "turn",
+              "summary": "Continues its dive toward Riswynn and roars, raising two giant ice-and-snow constructs. They act immediately after it; the summoning is ruled not to be a dispellable spell. It is about 40 feet above the ground when its turn ends.",
+              "evidence": [
+                {
+                  "startUid": "u1569",
+                  "endUid": "u1583"
+                },
+                {
+                  "startUid": "u1617",
+                  "endUid": "u1619"
+                }
+              ]
+            },
+            {
+              "actor": "Ice construct attacking Riswynn",
+              "kind": "turn",
+              "summary": "Throws two ice javelins: 17 misses and 24 hits for 22 piercing damage, reducing Riswynn’s speed by 10 feet until the end of her next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1589",
+                  "endUid": "u1599"
+                }
+              ]
+            },
+            {
+              "actor": "Ice construct attacking Wellby",
+              "kind": "turn",
+              "summary": "Throws two ice javelins at Wellby; both attacks, 12 and 15, miss.",
+              "evidence": [
+                {
+                  "startUid": "u1600",
+                  "endUid": "u1604"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul-sights the dragon: it is immune to cold, has no other stated immunity, strong Strength/Constitution and weak Intelligence/Charisma; fire vulnerability is expressly denied later. Flies up and attacks with advantage: staff hits for 11 and 9, then three Flurry attacks deal 12, 12, and a critical 19. Disrupting Strike on the first hit causes a failed Charisma save of 13: until his next turn the dragon cannot take reactions and subtracts 1d4 from attacks and ability checks; the DM treats this as aura disruption, not friendship. He then moves to its other side using the Raven Whistle’s 100-foot movement.",
+              "evidence": [
+                {
+                  "startUid": "u1605",
+                  "endUid": "u1669"
+                },
+                {
+                  "startUid": "u1670",
+                  "endUid": "u1689"
+                },
+                {
+                  "startUid": "u1737",
+                  "endUid": "u1739"
+                }
+              ]
+            },
+            {
+              "actor": "White dragon",
+              "kind": "event",
+              "summary": "At the end of Kenzo’s turn, swings its tail at him with the Disrupting Strike penalty; 16 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1690",
+                  "endUid": "u1698"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Climbs onto the animated Ladder and casts Rune of Psychic Disruption at the dragon. Its Intelligence save of 6 fails, but it uses legendary resistance and takes half damage; no damage number is spoken. Applies the glove’s earth power for cold resistance, encasing himself in earth and stone and preventing his own movement until the end of his next turn; the Ladder can still carry him.",
+              "evidence": [
+                {
+                  "startUid": "u1703",
+                  "endUid": "u1725"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Carries Seeker into the air to the chosen position after his turn, despite Seeker being unable to move himself.",
+              "evidence": [
+                {
+                  "startUid": "u1709",
+                  "endUid": "u1720"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Wall of Fire as a line beside both constructs, rather than the proposed ring; both fail Dexterity saves and begin melting, with no damage total stated. Her speed is still reduced by 10 feet, so she moves only 15 feet behind another tree; the reduction ends with this turn.",
+              "evidence": [
+                {
+                  "startUid": "u1745",
+                  "endUid": "u1790"
+                }
+              ]
+            },
+            {
+              "actor": "White dragon",
+              "kind": "event",
+              "summary": "Before Delwath’s turn, replaces the proposed tail swipe with a wing beat. Kenzo succeeds on a Dexterity save of 24 and suffers no effect. The dragon flies 40 feet straight up; the DM states its resulting altitude as about 60 feet.",
+              "evidence": [
+                {
+                  "startUid": "u1791",
+                  "endUid": "u1797"
+                }
+              ],
+              "note": "The altitude is retained as stated; no new height is calculated from inconsistent narrated measurements."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Makes the allowed opportunity attack as the dragon rises, with advantage as ruled until Wellby’s next turn; a critical hit deals 15 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1798",
+                  "endUid": "u1808"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Synaptic Static on the dragon: its Intelligence save of 18 fails against DC 19, taking 27 damage and a 1d6 penalty on attacks, ability checks, and concentration saves. It may repeat the Intelligence save at the end of each turn; the effect lasts one minute and requires no concentration. Delwath then moves 30 feet toward Riswynn.",
+              "evidence": [
+                {
+                  "startUid": "u1809",
+                  "endUid": "u1821"
+                },
+                {
+                  "startUid": "u1872",
+                  "endUid": "u1874"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots the dragon at a stated 75 feet; the corrected attack roll of 19 hits for 43 sneak-attack damage.",
+              "evidence": [
+                {
+                  "startUid": "u1822",
+                  "endUid": "u1837"
+                }
+              ]
+            },
+            {
+              "actor": "White dragon",
+              "kind": "turn",
+              "summary": "Breathes cold over the party, requiring Constitution saves: Kenzo and Wellby take 62 cold each; Seeker takes 31 after his failed save and cold resistance; Delwath takes 31 with Absorb Elements; Riswynn’s 19 saves for 31. Kenzo then fails the Raven Whistle Constitution check and drops gracefully without falling damage; he is later ruled not prone. Riswynn succeeds on the Wall of Fire concentration save with 22. The dragon flees about 80 feet, still stated to be 60 feet up, and fails its end-of-turn Intelligence save against Synaptic Static.",
+              "evidence": [
+                {
+                  "startUid": "u1838",
+                  "endUid": "u1874"
+                },
+                {
+                  "startUid": "u1896",
+                  "endUid": "u1901"
+                }
+              ],
+              "note": "The stated damage and save outcomes are preserved; the source does not supply every character’s save roll."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Absorb Elements against the dragon’s cold breath, producing the stated 31 cold damage outcome.",
+              "evidence": [
+                {
+                  "startUid": "u1843",
+                  "endUid": "u1843"
+                },
+                {
+                  "startUid": "u1857",
+                  "endUid": "u1864"
+                }
+              ]
+            },
+            {
+              "actor": "Ice construct attacking Seeker",
+              "kind": "turn",
+              "summary": "Moves away from Wall of Fire and throws two javelins at Seeker despite his +2 AC from partial tree cover. A 22 hits for 22 piercing damage and the other roll is a natural 1, shattering a javelin against the tree. The hit reduces speed, though Seeker’s speed is already zero.",
+              "evidence": [
+                {
+                  "startUid": "u1875",
+                  "endUid": "u1885"
+                }
+              ]
+            },
+            {
+              "actor": "Ice construct attacking Delwath",
+              "kind": "turn",
+              "summary": "Throws two javelins at Delwath, with attack rolls of 20 and 13. The transcript moves on without a clear damage total or complete hit/miss resolution.",
+              "evidence": [
+                {
+                  "startUid": "u1886",
+                  "endUid": "u1893"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Flies 85 feet to reengage the fleeing dragon, without advantage; he is out of Seeker’s inspiration range. His two staff attacks miss, the second a natural 1. Three subsequent hits deal 13, 7, and 9 damage. The dragon succeeds on the Disrupting Strike Charisma save with 17, avoiding disruption but taking the explicitly added 11 force damage for the successful save.",
+              "evidence": [
+                {
+                  "startUid": "u1894",
+                  "endUid": "u1934"
+                }
+              ]
+            },
+            {
+              "actor": "White dragon",
+              "kind": "event",
+              "summary": "At the end of Kenzo’s turn, tail attack 22 hits for a rolled 17 bludgeoning damage, triggering Kenzo’s deflection.",
+              "evidence": [
+                {
+                  "startUid": "u1935",
+                  "endUid": "u1943"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects all 17 bludgeoning damage. His reflected energy prompts a failed Dexterity save, but the dragon spends its second legendary resistance and avoids the reflected effect.",
+              "evidence": [
+                {
+                  "startUid": "u1940",
+                  "endUid": "u1958"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Rune of Irresistible Curiosity in front of the dragon: it stares at the rune, has speed zero, and attacks against it have advantage. The table corrects the proposed immediate legendary resistance: no save occurs until its own turn. Renews the glove’s earth-based cold resistance, using the remaining charges and again rooting himself while the Ladder can move.",
+              "evidence": [
+                {
+                  "startUid": "u1959",
+                  "endUid": "u1983"
+                },
+                {
+                  "startUid": "u2006",
+                  "endUid": "u2008"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Carries the immobile Seeker to the chosen new position, with movement described as up to 40 feet.",
+              "evidence": [
+                {
+                  "startUid": "u1971",
+                  "endUid": "u1983"
+                }
+              ]
+            },
+            {
+              "actor": "White dragon",
+              "kind": "event",
+              "summary": "At the end of Seeker’s turn, cannot use its movement-based wing action because its speed is zero; instead, its tail hits Kenzo on 23 for 10 bludgeoning damage. Kenzo has already spent his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u1991",
+                  "endUid": "u2003"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves closer and casts Guiding Bolt at the dragon. After recognizing advantage from Irresistible Curiosity, the corrected attack of 23 hits for 42 damage. The dragon dies and crashes to the ground.",
+              "evidence": [
+                {
+                  "startUid": "u1985",
+                  "endUid": "u2017"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Runs up and attacks one of the still-active melting constructs. One attack misses; two hits deal 16 and 18 damage, leaving it standing. Its cold immunity is subsequently confirmed.",
+              "evidence": [
+                {
+                  "startUid": "u2018",
+                  "endUid": "u2036"
+                },
+                {
+                  "startUid": "u2046",
+                  "endUid": "u2049"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Cannot see either construct through the tent and Wall of Fire, so abandons the shot and moves roughly 65–70 feet around the fire. Reaches a construct and stabs it for 37 damage; it remains intact but is cracking.",
+              "evidence": [
+                {
+                  "startUid": "u2037",
+                  "endUid": "u2058"
+                }
+              ]
+            },
+            {
+              "actor": "Ice constructs",
+              "kind": "turn",
+              "summary": "One melting construct moves toward Seeker, then both explode. Seeker, Wellby, and Delwath make Dexterity saves. Seeker’s 19 results in the stated 20 bludgeoning plus 21 cold damage, exactly his remaining 41 hit points, knocking him unconscious. Wellby takes no damage. Delwath uses Favor of the Gods and is assigned 10 bludgeoning plus 10 cold before his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u2059",
+                  "endUid": "u2078"
+                }
+              ],
+              "note": "Seeker’s renewed cold resistance is retained in his turn, but the explosion’s explicitly adjudicated 21 cold damage is not silently halved."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Absorb Elements against the explosion, reducing the assigned 10 cold damage to 5; the 10 bludgeoning remains.",
+              "evidence": [
+                {
+                  "startUid": "u2073",
+                  "endUid": "u2074"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "event",
+              "summary": "With Seeker unconscious, reverts to an ordinary ladder and gently folds across him.",
+              "evidence": [
+                {
+                  "startUid": "u2075",
+                  "endUid": "u2081"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The dragon is dead and both ice constructs have exploded. Seeker is unconscious with the deanimated Ladder folded over him. The encounter has resolved.",
+        "evidence": [
+          {
+            "startUid": "u2012",
+            "endUid": "u2020"
+          },
+          {
+            "startUid": "u2059",
+            "endUid": "u2081"
+          }
+        ]
+      },
+      "note": "No surprise round is awarded; hidden attacks receive advantage. The table permits Riswynn and Delwath to exchange initiative positions. Off-turn tail and wing actions are retained as events because the source does not explicitly name their action type."
+    }
+  ]
+}

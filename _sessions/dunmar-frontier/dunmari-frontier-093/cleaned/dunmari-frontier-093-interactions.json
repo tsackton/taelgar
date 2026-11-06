@@ -1,0 +1,1861 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "15462a31547e512fcbb3b470bff9d3117a91b439206c338568584a42c47c0df9"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-entity-map.json",
+      "sha256": "fd2b2645e445bcaa1ae3a96945cd17be492865282e0496cb0823c96bc9515802"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The old northern protection and its collapse",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0057"
+      },
+      "lines": [
+        "%% u0029:0-33, u0030:0-43, u0031:0-2, u0032:0-29, u0033:0-59, u0034:0-104, u0035:0-11, u0036:0-46, u0037:0-107 %%",
+        "DM: Hundreds of years ago, before the ancient white dragon Vimfrost rose to power— so times, anyway, a peaceful place of a kind, anyway, under the rule of Bjarnfrost the mighty, who extended his protection for hundreds of miles in either direction, east and west from the mountains. Stretching, creating an area where dragons dare not tread. But then Vimfrost rose, and the dragonspawn spread. Bjarnfrost fell in battle, and the peace was shattered.",
+        "",
+        "%% u0038:0-3, u0039:0-7, u0040:0-48, u0041:0-30, u0042:0-13, u0043:0-13, u0044:0-10, u0045:0-3, u0046:0-21 %%",
+        "((Interrupted narration))",
+        "",
+        "%% u0047:0-11, u0048:0-84, u0049:0-54, u0050:0-70 %%",
+        "DM: To the west Brimskarda rules over the dwarves and the stoneborn in a harsh kingdom of servitude, under his personal protection against the dragons, that many faceted spawn of Vimfrost that inhabit the far northern mountains.",
+        "",
+        "%% u0051:0-36, u0052:0-35, u0053:0-24, u0054:0-156, u0055:0-6, u0056:0-43, u0057:0-38 %%",
+        "DM: Across the forest, the Vargold live isolated in small groups and camps, fleeing from dragons and seeking to avoid the deadly ice worms that roam across the lands and the other dangers that lurk in the darker parts of the forest, especially to the south, where rumors of a vampire and giant bat guardians create, excuse me, an air of darkness.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So, okay, you could have lost the mirror. And then we could have spent the first half of the next session: you go back into the storm, searching for the mirror, fighting some thing and maybe finding it, or maybe not finding it. But, like, at some point, you really want to play that out, right? It just gets boring. That's true.",
+          "Kenzo: So there's a lot of mitigating DM stuff to do. There's perfect. But from a storytelling perspective, the mirror has, like, created so many interesting, cool story lines, such a powerful thing. So, you know, it's better for the plot and everything else that we've got it.",
+          "Delwath: Yep.",
+          "DM: Okay.",
+          "DM: Let's get started in the northern forests, where for the past more than a week now you've been traveling across the vast boreal forest that stretches all the way from the Sentinel Range in the east, across the highlands of Sembara, through the northern part of northern and central interior of Vostok, across the Svinjo Mountains, where the frost giants live, and then stretching far into the east. No, alright. Perfect. Along the river valley of the great northern river Ket. It is these northern forests, a place of much danger and hardship."
+        ],
+        "after": [
+          "DM: And now, having traveled some hundreds of miles on your flying castle from the mountains along the Ket River, having fought off a iceworm chasing two isolated lost. [garbled] [garbled] [garbled]? Yeah. [garbled] it's afternoon [garbled].",
+          "Unknown: Yeah, I don't know what's up with our Internet.",
+          "DM: I don't know if it's a router, or if it's Zoom, and Google says our Internet is fine.",
+          "Riswynn: Why don't we start without Wi-fi? So.",
+          "Delwath: Hey? It also sounds bad."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Aelgurd records the meeting",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0240",
+        "endUid": "u0254"
+      },
+      "lines": [
+        "%% u0240:0-34, u0241:0-34, u0242:0-32, u0243:0-59, u0244:0-104, u0245:0-21, u0246:0-30, u0247:0-23, u0248:0-31, u0249:0-25, u0250:0-122, u0251:0-92, u0252:0-76, u0253:0-111, u0254:0-26 %%",
+        "DM: ((Introductions)) Looking up at your ship and seeing Aelgurd, kind of, you know, he's curious. He's got a, he's got a book out. He's like, you know, taking notes, basically in this massive book the size of a person. And he's looking. He look and peers over, and he yells down in, in Dwarven, \"Make sure they speak up so I can hear, for the records,\" you know.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Riswynn would also stride down the ramp easily and looking about for familiar members of her race. And she's, she's pretty wet looking, cause she had to do a quick douse to get off the stomach acid. But you know she always goes into battle, with her braids tied and her, and her armor in great condition. So a quick rinse, she's looking fit, if soggy. And of course it's cold. So, looking a bit frosty.",
+          "Seeker: Well.",
+          "Wellby: Shifted his armor to match the dress of people here, sort of bundled up and fur-lined sort of greens and whites to blend in, and is, raises a hand to the halflings and reaches out telepathically to offer a greeting: \"Hello!\" In halfling to them.",
+          "Kenzo: Kenzo. So, so one thing, you know, when the drawbridge lowers, I feel like, like in my imagination I was like imagining this is like the ultimate, the cool like group shot. You know, it's, we're all standing like— So, like, the, the thing lowers. Then we can all see us, like, kind of standing in our head cool, like, superhero poses. And that's like when you take the, you know, group shot. Kenzo. Kenzo is very content to be in the back. You know, he's like, this is, he's a little out of his element. Hey, how? What's the, how, temperature in Chardon? Tim, Chardon's like San Francisco? Yeah. And this is like really fucking cold. Right? Yeah. So so Kenzo is like very out of his element, this whole, you know, being up in the— I mean, you know again, he's a fucking monk, so it's like the cold doesn't bother him from a temperature perspective. He's just like, you know, like not used to this type of environment. And so he's content to sort of chill on the back a little bit. And he's really observing, like he's just gonna soul sight, like, really kind of study the energy of everybody, but he's very content to, you know, kind of be in the back and let let everybody else figure out what the hell's gonna go on, going on here.",
+          "DM: So as you all descend, and and the 2 elk people that you freed kind of run past you and run into the crowd, and there's like hugs and, and greetings. And the, the woman, the the Denocae woman, kind of exchanges significant glances with 2 others: of very tall, white-haired, white, bearded man, wearing thick furs, bushy eyebrows, probably in his mid-sixties, at least 6 foot 4, 6 foot 5. Big, like burly guy. And then also standing nearby him, an older woman looks almost, almost sort of— There's like a, a, a bird, bird, birdie vibe to her, like she's kind of a little bit withdrawn and and almost shrunken. She has wrinkled eyes and sort of almost like a beak-like nose. And despite her apparent age, maybe, maybe, you know, 50 s or 60 s, her hair is like jet raven black and sort of mid length."
+        ],
+        "after": [
+          "DM: Yota introduces herself. She says that she speaks for these people and wants to know what business you have here, bringing such dangerous creatures and potentially devastating attention to their camp. And while she thanks you for the return of 2 of their kind who were lost, she is not—. She's, she's clearly like nervous about your presence.",
+          "Delwath: This is the Denocae.",
+          "DM: Yeah.",
+          "Seeker: Wonder which creatures she's referring to.",
+          "Delwath: Probably the frost giant."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "The leaders warn of the ship attracting a dragon",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e032",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0255",
+        "endUid": "u0347"
+      },
+      "lines": [
+        "%% u0255:0-24, u0256:0-41, u0257:0-84, u0258:0-48, u0259:0-24, u0260:0-7, u0261:0-40, u0262:0-11, u0263:0-53 %%",
+        "DM: Yota introduces herself. She says that she speaks for these people and wants to know what business you have here, bringing such dangerous creatures and potentially devastating attention to their camp. And while she thanks you for the return of 2 of their kind who were lost, she is not—. She's, she's clearly like nervous about your presence.",
+        "",
+        "%% u0264:0-20, u0265:0-5, u0266:0-42, u0267:0-25, u0268:0-23, u0269:0-39, u0270:0-26, u0271:0-37, u0272:0-36, u0273:0-86, u0274:0-41 %%",
+        "((Clarifications and spell mechanics))",
+        "",
+        "%% u0275:0-108, u0276:0-29, u0277:0-66, u0278:0-11, u0279:0-50, u0280:0-50 %%",
+        "Delwath: Offer to maybe fly our ship way high in the air or something. We're marking this spot with a big old target. Delwath will sort of start by apologizing for any danger they may feel and try to get a sense of what danger are they concerned with? Does our ship's presence attract attention? Are you afraid of who we bring?",
+        "",
+        "%% u0281:0-11, u0282:0-28 %%",
+        "DM: She kind of glances, glances back again.",
+        "",
+        "%% u0283:0-38 %%",
+        "((Clarifications and spell mechanics))",
+        "",
+        "%% u0284:0-93, u0285:0-6, u0286:0-138, u0287:0-40, u0288:0-79, u0289:0-33, u0290:0-63 %%",
+        "DM: Okay. The the old man, the old man steps forward and and sort of in an angry way, and kind of almost not pushes her aside, but, like clearly has been, you know, realizes he can understand you, and is, is kind of pushing forward and saying, \"We've been hidden since the year turned. The dragon that's flown overhead has not marked our camp, but he will have now. It may be only a matter of hours. This is what you bring. Do not know how to live in these lands?\"",
+        "",
+        "%% u0291:0-3 %%",
+        "((Clarifications and spell mechanics))",
+        "",
+        "%% u0292:0-32, u0293:0-37 %%",
+        "Delwath: We should rest and prepare. Then— Is he? Are you sure you've been seen?",
+        "",
+        "%% u0294:0-3 %%",
+        "((Clarifications and spell mechanics))",
+        "",
+        "%% u0295:0-46 %%",
+        "DM: Your ship must be visible for a hundred miles!",
+        "",
+        "%% u0296:0-43, u0297:0-40 %%",
+        "Delwath: I turn back and wave my hand over the ship and it vanishes into forests and a hill.",
+        "",
+        "%% u0298:0-3 %%",
+        "((Clarifications and spell mechanics))",
+        "",
+        "%% u0299:0-55, u0300:0-36, u0301:0-33 %%",
+        "DM: She looks back. He looks back at. That is a neat trick. Perhaps your descent was not marked. How long will this disguise last?",
+        "",
+        "%% u0302:0-56 %%",
+        "Delwath: That's a good question. 24 h, till tomorrow at this time.",
+        "",
+        "%% u0303:0-22 %%",
+        "DM: Kind of relaxes a bit.",
+        "",
+        "%% u0304:0-45, u0305:0-43, u0306:0-16 %%",
+        "Delwath: Delwath will apologize. We we did not mean to draw attention. We only wish to return your lost lost souls.",
+        "",
+        "%% u0307:0-3 %%",
+        "((Clarifications and spell mechanics))",
+        "",
+        "%% u0308:0-28, u0309:0-38, u0310:0-42, u0311:0-65 %%",
+        "DM: Indeed, I thank you for that. Kind of sighs and and like looks back.((Camouflage mechanics))",
+        "",
+        "%% u0312:0-82, u0313:0-8, u0314:0-9, u0315:0-56, u0316:0-35, u0317:0-18, u0318:0-145, u0319:0-9, u0320:0-51, u0321:0-95, u0322:0-94, u0323:0-38, u0324:0-268, u0325:0-69, u0326:0-41, u0327:0-11, u0328:0-27, u0329:0-38, u0330:0-60, u0330:60-138, u0331:0-129, u0332:0-13, u0333:0-33, u0334:0-59, u0335:0-20, u0336:0-37, u0337:0-3, u0338:0-52 %%",
+        "((Clarifications and spell mechanics))",
+        "",
+        "%% u0339:0-24, u0340:0-57 %%",
+        "DM: You may as well come in. Catch your breath and tell us your story, anyway, for now.",
+        "",
+        "%% u0341:0-37, u0342:0-3, u0343:0-28, u0344:0-15 %%",
+        "DM: Don't know what the night will bring but thank you for that. You have eased my mind.",
+        "",
+        "%% u0344:15-108, u0345:0-11, u0346:0-8, u0347:0-53 %%",
+        "Delwath: Delwath will also sort of, \"We must at least wait to ensure we have not brought danger to you. If we have, we would feel obligated to help you defend yourselves from it.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Well.",
+          "Wellby: Shifted his armor to match the dress of people here, sort of bundled up and fur-lined sort of greens and whites to blend in, and is, raises a hand to the halflings and reaches out telepathically to offer a greeting: \"Hello!\" In halfling to them.",
+          "Kenzo: Kenzo. So, so one thing, you know, when the drawbridge lowers, I feel like, like in my imagination I was like imagining this is like the ultimate, the cool like group shot. You know, it's, we're all standing like— So, like, the, the thing lowers. Then we can all see us, like, kind of standing in our head cool, like, superhero poses. And that's like when you take the, you know, group shot. Kenzo. Kenzo is very content to be in the back. You know, he's like, this is, he's a little out of his element. Hey, how? What's the, how, temperature in Chardon? Tim, Chardon's like San Francisco? Yeah. And this is like really fucking cold. Right? Yeah. So so Kenzo is like very out of his element, this whole, you know, being up in the— I mean, you know again, he's a fucking monk, so it's like the cold doesn't bother him from a temperature perspective. He's just like, you know, like not used to this type of environment. And so he's content to sort of chill on the back a little bit. And he's really observing, like he's just gonna soul sight, like, really kind of study the energy of everybody, but he's very content to, you know, kind of be in the back and let let everybody else figure out what the hell's gonna go on, going on here.",
+          "DM: So as you all descend, and and the 2 elk people that you freed kind of run past you and run into the crowd, and there's like hugs and, and greetings. And the, the woman, the the Denocae woman, kind of exchanges significant glances with 2 others: of very tall, white-haired, white, bearded man, wearing thick furs, bushy eyebrows, probably in his mid-sixties, at least 6 foot 4, 6 foot 5. Big, like burly guy. And then also standing nearby him, an older woman looks almost, almost sort of— There's like a, a, a bird, bird, birdie vibe to her, like she's kind of a little bit withdrawn and and almost shrunken. She has wrinkled eyes and sort of almost like a beak-like nose. And despite her apparent age, maybe, maybe, you know, 50 s or 60 s, her hair is like jet raven black and sort of mid length.",
+          "DM: Sort of to the middle of her back. And she's wearing a black cloak of, decorated with raven's feathers. And this this woman in the front glances at them. And then you, you, Kenzo, would notice for sure, paying attention to everybody, there's kind of like a subtle nod. And she steps forward, she introduces herself as Yota, having heard you speak Denocae, just sort of addresses Delwath, and also kind of glances at you all, and is sort of taken aback slightly by the species diversity represented here. Looking up at your ship and seeing Aelgurd, kind of, you know, he's curious. He's got a, he's got a book out. He's like, you know, taking notes, basically in this massive book the size of a person. And he's looking. He look and peers over, and he yells down in, in Dwarven, \"Make sure they speak up so I can hear, for the records,\" you know."
+        ],
+        "after": [
+          "Delwath: Or I look at, would the whole village fit in our ship?",
+          "DM: Yeah, definitely. It's like 50 people.",
+          "Delwath: Or flee if needed.",
+          "DM: You could fit a few 100 people in your hold, if not for a super long time, but.",
+          "Delwath: I will also look over to the Denocae woman, right? Once, once you sort of calm down, I'll I'll kind of gesture for everybody to come, although I don't know if anybody else can, who they can talk to, although obviously Wellby can talk to the halflings. I'll gesture to— I'll sort of ask the Denocae woman, \"You are far from home.\""
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The halfling siblings describe life in the forest",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0355",
+        "endUid": "u0434"
+      },
+      "lines": [
+        "%% u0355:0-84, u0356:0-3, u0357:0-3, u0358:0-31, u0359:0-60, u0360:0-3, u0361:0-112, u0362:0-61, u0363:0-84, u0364:0-33, u0365:0-10, u0366:0-154 %%",
+        "DM: While this conversation is happening, Wellby has reached out to one of the halflings, for— And you see, kind of they look like siblings, maybe like in their thirties, a brother and sister. And one of them, they're, but they're dressed the same way as everybody else. They're wearing animal furs. They've got, the, the woman has like furs kind of braided through her hair, what looks like, maybe the tail of a squirrel, or something like that, or some other bushy coated animal. The brother is wearing like a thick fur cloak, with a hood pulled up over his head that has fox ears on the hood. They step forward, and one of them says telepathically, to you:",
+        "",
+        "%% u0367:0-25, u0368:0-26 %%",
+        "DM: \"We see so few of our kind. Brings you to these woods?\"",
+        "",
+        "%% u0369:0-64, u0370:0-41, u0371:0-84, u0372:0-68 %%",
+        "Wellby: I was gonna ask the same question of you. We're headed downriver all the way to the sea, if we can make it. Seemed like this was a better way to go than kind of sail straight into Ursk head-on. About you? What brings you here? This is a long way from our people.",
+        "",
+        "%% u0373:0-12, u0374:0-70, u0375:0-53, u0376:0-35, u0377:0-67, u0378:0-12, u0379:0-66, u0380:0-7, u0381:0-20 %%",
+        "DM: Yes, and now some of our kind have lived with the Vargold for many generations now. Long, long ago. Almost back as far as the stories go. We were here before them, actually, when our people sailed the Green Sea before the humans even spread. We met them and we've been friends with them since they crossed the mountains. It is a, usually a good life.",
+        "",
+        "%% u0382:0-69 %%",
+        "Wellby: Usually, then, it doesn't involve hiding from dragons all winter long?",
+        "",
+        "%% u0383:0-32, u0384:0-8, u0385:0-12, u0386:0-31, u0387:0-42 %%",
+        "DM: The, the, the other one chimes in. \"The past, the past few generations have not been easy, and the past couple winters the worst yet.\"",
+        "",
+        "%% u0388:0-50, u0389:0-40, u0390:0-12, u0391:0-40, u0392:0-130, u0393:0-36, u0394:0-9 %%",
+        "DM: There was a great dragon that attacked last winter, reached as far as Ursk. Drove many of us into hiding. And though it was killed by the wizards, think that opened the floodgates, so to speak. There have been more dragons this winter than I can remember my 35 years, and in my grandmother's and her mother's time, or since—",
+        "",
+        "%% u0395:0-9 %%",
+        "DM: Vimfrost.",
+        "",
+        "%% u0396:0-34, u0397:0-69, u0398:0-37, u0399:0-74 %%",
+        "((Communication clarification))",
+        "",
+        "%% u0400:0-34 %%",
+        "Wellby: Where are the dragons coming from?",
+        "",
+        "%% u0401:0-33 %%",
+        "((Communication clarification))",
+        "",
+        "%% u0402:0-9, u0403:0-21, u0404:0-18, u0405:0-40 %%",
+        "DM: The North. Vimfrost's mountains. It used to be that frost giants protected this whole forest.",
+        "",
+        "%% u0406:0-10 %%",
+        "DM: No longer.",
+        "",
+        "%% u0407:0-29 %%",
+        "Wellby: Why not? We are left to hide?",
+        "",
+        "%% u0408:0-8, u0409:0-21, u0410:0-20, u0411:0-59, u0412:0-16, u0413:0-4, u0414:0-33, u0415:0-45, u0416:0-41, u0417:0-26 %%",
+        "DM: That was many, many years ago. Their ancestors say, Bjarnfrost was mighty warrior and king and a noble spirit. Since his death— Wow! There has been chaos and upheaval. That was my grandmother's grandmother's time, but we still hear the songs of those days flying through the forest.",
+        "",
+        "%% u0418:0-3, u0419:0-15, u0420:0-33, u0421:0-35, u0422:0-16, u0423:0-52 %%",
+        "DM: The— When you shift, you feel the memories of the fox. It's a strange and wonderful thing. But now we hide. And I feel we may now have to leave quickly. Perhaps.",
+        "",
+        "%% u0424:0-20 %%",
+        "((Communication clarification))",
+        "",
+        "%% u0425:0-122 %%",
+        "Wellby: Room, maybe, to evacuate you. But then again, maybe we just kill the dragon, and it solves it, at least for a little while.",
+        "",
+        "%% u0426:0-50 %%",
+        "DM: I would be impressed indeed, if you could do that.",
+        "",
+        "%% u0427:0-43, u0428:0-29 %%",
+        "Wellby: You, too, but you never know until you try. Do all of you shift here, then?",
+        "",
+        "%% u0429:0-4, u0430:0-7, u0431:0-47 %%",
+        "DM: Most. Not all. Dark-skinned woman, the newcomer, she does not.",
+        "",
+        "%% u0432:0-93 %%",
+        "Wellby: I haven't known any of our people to shift. Have you always done it? Is it a thing you learn?",
+        "",
+        "%% u0433:0-40 %%",
+        "DM: Something about the magic of this earth.",
+        "",
+        "%% u0434:0-56 %%",
+        "Wellby: I'll relay that telepathically to the rest of the party.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Or I look at, would the whole village fit in our ship?",
+          "DM: Yeah, definitely. It's like 50 people.",
+          "Delwath: Or flee if needed.",
+          "DM: You could fit a few 100 people in your hold, if not for a super long time, but.",
+          "Delwath: I will also look over to the Denocae woman, right? Once, once you sort of calm down, I'll I'll kind of gesture for everybody to come, although I don't know if anybody else can, who they can talk to, although obviously Wellby can talk to the halflings. I'll gesture to— I'll sort of ask the Denocae woman, \"You are far from home.\""
+        ],
+        "after": [
+          "Kenzo: So as your— Go ahead. Are there like monsters that are like coming to this plane through like other weird portals and stuff like isn't like the whole, like— So the first part of the campaign, they're like summoning circles, and were demons like kind of bringing like creatures from like other planes, right? And then, like, the whole Pandemonium thing is that like we're kind of worried about like stuff from like Pandemonium coming here because of Fausto. Is that like a thing? Like, is there? Is there like when he says, like, \"Oh, the dragons are like coming from the north, and they just like birth, more dragons.\" Or is it like weird that we clarify that like? Is it like weird that there's like more dragons? Or is it like.",
+          "Seeker: Interesting? Well, they breed, right? Probably nobody knows exactly where they live, or if they travel in planes. They probably do.",
+          "Delwath: The story we heard the other day was that Vimfrost had thousands of spawn, right, that get in, that used to be held in check.",
+          "Seeker: But aren't anymore, right? What are, what are they looking for, like, when they come to raid down here? Do they like just kill people? Treasure? They eat things like, what do they? What do they want? Do we know?",
+          "DM: You have no idea."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The siblings are distinct, but the source does not assign every reply to one of them."
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Yota remembers displacement and hears of the freed tanshi",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0450",
+        "endUid": "u0550"
+      },
+      "lines": [
+        "%% u0450:0-22, u0451:0-15, u0452:0-30, u0453:0-45, u0454:0-55, u0455:0-35, u0456:0-35, u0457:0-46, u0458:0-39 %%",
+        "DM: You could ask them. So cutting back to to Delwath, speaking with Yota. When you say you are far from home, she says— She looks like, not confused, but like slightly sort of disturbed, puzzled a little bit and, and kind of turns to you, and asks, \"You've come from far away yourself, I presume. What is happening in the outside world?\"",
+        "",
+        "%% u0459:0-16 %%",
+        "DM: What year is it?",
+        "",
+        "%% u0460:0-20, u0461:0-4, u0462:0-2, u0463:0-31, u0464:0-23 %%",
+        "Delwath: 1749? Is that right? It's 17 49 by the Drankorian reckoning. Well, presume for Meta.",
+        "",
+        "%% u0465:0-3, u0466:0-14, u0467:0-16, u0468:0-194, u0469:0-6 %%",
+        "((Calendar clarification))",
+        "",
+        "%% u0470:0-4, u0471:0-14, u0472:0-39, u0473:0-37 %%",
+        "DM: Hmm! So it was only 2 years ago I was taken from my people. Thought it was longer for some reason.",
+        "",
+        "%% u0474:0-6, u0475:0-65, u0476:0-21 %%",
+        "Delwath: Taken? How did you— Delwath will [garbled], right. How did you end up? Who are you taken by?",
+        "",
+        "%% u0477:0-15, u0478:0-8 %%",
+        "DM: Don't remember. Alright!",
+        "",
+        "%% u0479:0-15 %%",
+        "Delwath: Do you remember?",
+        "",
+        "%% u0480:0-8, u0481:0-15, u0482:0-29, u0483:0-20, u0484:0-42, u0485:0-23, u0486:0-40, u0487:0-31, u0488:0-34, u0489:0-33 %%",
+        "DM: Fighting a warlock of, of undead creature of some kind? I thought I had died till I opened my eyes, in this cold forest, two caribou nudging me who turned to people when I open my eyes. For weeks, I thought I had died and was with the tanshi somewhere. I learned later that was not so.",
+        "",
+        "%% u0490:0-51, u0491:0-14, u0492:0-32, u0493:0-71 %%",
+        "DM: But these people do not reckon time in any way that I could track. Maybe it was centuries. 2 years. Everybody I know must still be alive. If I could get back home somehow.",
+        "",
+        "%% u0494:0-77 %%",
+        "Delwath: You remember nothing from the moment you fought to the moment you awoke here?",
+        "",
+        "%% u0495:0-28, u0496:0-58 %%",
+        "DM: Yes. Vague dreams sometimes. Nothing I can describe, just a sense of unease and a shadow.",
+        "",
+        "%% u0497:0-21, u0498:0-6, u0499:0-48, u0500:0-13, u0501:0-7, u0502:0-17, u0503:0-65 %%",
+        "Delwath: Delwath kind of nods. We are unfortunately not going back towards your people anytime soon. I would offer you a ride. Maybe quite some time, and quite dangerous path before we return.",
+        "",
+        "%% u0504:0-22 %%",
+        "DM: So what are you doing?",
+        "",
+        "%% u0505:0-36, u0506:0-6, u0507:0-18, u0508:0-40, u0509:0-18, u0510:0-21, u0511:0-15, u0512:0-58, u0513:0-6, u0514:0-20, u0515:0-11 %%",
+        "Delwath: Delwath kind of sighs a little bit. We are seeking knowledge. But the knowledge we seek at the moment, present side quest, is, it's hidden in the cities of Ursk. So at the moment we are seeking a way to enter that place, if not safely, at least not suicidally.",
+        "",
+        "%% u0516:0-10, u0517:0-20, u0518:0-22, u0519:0-8, u0520:0-27, u0521:0-25 %%",
+        "DM: It's okay. Laughs a little bit. I know little of those wizards. From what the Vargolds say, that may be a tall order.",
+        "",
+        "%% u0522:0-81, u0523:0-30 %%",
+        "Delwath: I'll just point back at the ship that is now hidden under a illusionary mountain. We've faced tall orders before.",
+        "",
+        "%% u0524:0-20, u0525:0-47, u0526:0-5, u0527:0-19 %%",
+        "DM: You should speak to. Yeah. Sorry, looking for a name. To Torsten and Zora. They may know more.",
+        "",
+        "%% u0528:0-45, u0529:0-34, u0530:0-62, u0531:0-7, u0532:0-37, u0533:0-55, u0534:0-18 %%",
+        "Delwath: Delwath will thank her, and sort of, \"We should happily speak more with you later, if it would comfort you, remind you of home. Feel free to join, join me this evening or tomorrow on our ship. There's a small shrine, some of the tanshi there that I maintain at times.\"",
+        "",
+        "%% u0535:0-28, u0536:0-52 %%",
+        "DM: She looks kind of surprised. An elf maintaining a tanshi shrine? This is unheard.",
+        "",
+        "%% u0537:0-40 %%",
+        "DM: I saw your armor, and I was not sure but.",
+        "",
+        "%% u0538:0-5, u0539:0-11, u0540:0-9, u0541:0-12, u0542:0-48, u0543:0-70 %%",
+        "Delwath: I was trapped for some time in a place I will not speak of with the tanshi called Yezali, but we were bound together there in a way that I cannot fully explain.",
+        "",
+        "%% u0544:0-27 %%",
+        "DM: Yezali, one of the meswati.",
+        "",
+        "%% u0545:0-14 %%",
+        "Delwath: Yeah. In fact.",
+        "",
+        "%% u0546:0-5 %%",
+        "DM: Dead?",
+        "",
+        "%% u0547:0-3, u0548:0-49 %%",
+        "Delwath: No. I freed them. Fact, the shrine is to the meswati.",
+        "",
+        "%% u0549:0-28, u0550:0-31 %%",
+        "DM: She looks kind of up in awe. You are truly a miracle bringer.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Interesting? Well, they breed, right? Probably nobody knows exactly where they live, or if they travel in planes. They probably do.",
+          "Delwath: The story we heard the other day was that Vimfrost had thousands of spawn, right, that get in, that used to be held in check.",
+          "Seeker: But aren't anymore, right? What are, what are they looking for, like, when they come to raid down here? Do they like just kill people? Treasure? They eat things like, what do they? What do they want? Do we know?",
+          "DM: You have no idea.",
+          "Delwath: At? Do these people know? We could ask them."
+        ],
+        "after": [
+          "Delwath: Delwath will [garbled], basically say, \"The elves—\" No, I'm kidding, doesn't really do that. Actually, no, he doesn't. I can't decide.",
+          "DM: So, as this conversation continues, and the rest of you kind of are walking down into the camp, kind of looking around. People are, you know, everybody's kind of gathered around, curious. You know, kind of kind of relaxed a bit after the— Apparently Torsten, the big guy with the white beard, you know, kind of settled down slightly when the ship vanished. Just kind of, you know, looking at you. Can see this. I mean, this camp is clearly not, I mean, It's clearly they've been hiding from a dragon, right? Like, it's not [garbled]. It's not in great shape. It's not, you know, everything is kinda— It looks cold. There's like hardly any fires, and all the fires that are there are all kind of banked. There's— It's, it's not, you know, because people aren't starving. But it's definitely been a rough couple of years, and everybody's just kind of looking slightly in awe, slightly surprised, slightly puzzled, slightly shocked, as you all begin to move into the camp.",
+          "DM: You, so what's everybody doing? Da?",
+          "Riswynn: What time of day is it at this point, right?",
+          "DM: 2 30 in the afternoon."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Torsten explains the Zariya and shows his bear form",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0719",
+        "endUid": "u0806"
+      },
+      "lines": [
+        "%% u0719:0-91, u0720:0-8, u0721:0-19, u0722:0-78, u0723:0-48, u0724:0-40, u0725:0-29, u0726:0-74, u0727:0-6, u0728:0-44, u0729:0-58, u0730:0-3, u0731:0-86, u0732:0-110, u0733:0-44, u0734:0-10, u0735:0-61, u0736:0-36, u0737:0-30, u0738:0-28, u0739:0-102, u0740:0-62, u0741:0-28 %%",
+        "Kenzo: So, you know, Kenzo, Kenzo greets them and, and says, you know, after some introductions, says, you know, \"I spent, I traveled much of Taelgar, and I'm a student and a communer with nature, and I find that there's something very special about this place. As you might guess in our journeys we've travel to many distant lands, both in this material plane, but also in other places as well, the Feywild, beyond. This place,\" kind of, kind of gestures around, \"it's beautiful in a way that I've not seen or experienced, and I'm wondering if you can share more about what's going on here, and almost feels like, like all of the other energies and dimensions that exist somehow here are compressed or contained, and there's a very special energy here. And also I, again, I'm always doing my best to tune into the natural phenomenon of a place. All of you seem to have some kind of connection with the wild here. I see you, you know, Torsten, all of you have a very special connection, almost with an animal of some kind, a bear, a raven, a fox. I'm wondering if you can share more about the phenomenon here. What am I, what am I seeing?\"",
+        "",
+        "%% u0742:0-77, u0743:0-54, u0744:0-32, u0745:0-143, u0746:0-58, u0747:0-101, u0748:0-65, u0749:0-17 %%",
+        "DM: He kinda looks down at Kenzo. I mean, this guy is— Oh, he's definitely taller. And he, he smiles this big smile when you start talking and and looks over it at, at Zora. And not quite realizing what language he's speaking in, or you're speaking in, just knowing that he can understand you, \"I would not have guessed you've only been in our—\" And he's— I can't do it, like, deep, rumbling voice, but he's talking in a deep, rumbling voice. \"He never would have guessed that somebody who has spent so little time in our country could see the Zariya. It is remarkable.\"",
+        "",
+        "%% u0750:0-7 %%",
+        "Kenzo: Zariya.",
+        "",
+        "%% u0751:0-49 %%",
+        "DM: Our animal protectors. This is really their home.",
+        "",
+        "%% u0752:0-13 %%",
+        "Kenzo: Mmm. Amazing.",
+        "",
+        "%% u0753:0-17 %%",
+        "DM: You can see them?",
+        "",
+        "%% u0754:0-18 %%",
+        "Kenzo: I can, I can. Wow!",
+        "",
+        "%% u0755:0-34 %%",
+        "DM: Welcome, them! That must be a sign.",
+        "",
+        "%% u0756:0-3 %%",
+        "((Table jokes))",
+        "",
+        "%% u0757:0-38 %%",
+        "DM: Perhaps you are destined to come here.",
+        "",
+        "%% u0758:0-61, u0759:0-91, u0760:0-18, u0761:0-33 %%",
+        "Kenzo: There are no coincidences. I've learned that a long time ago. Then how did you all develop this special connections with your, with the animal protectors? And can we get one?((Ability joke))",
+        "",
+        "%% u0762:0-5, u0763:0-30, u0764:0-21, u0765:0-14, u0766:0-45, u0767:0-48, u0768:0-26, u0769:0-55, u0770:0-15, u0771:0-14, u0772:0-35 %%",
+        "DM: Yeah. The Zariya have lived here for, I don't know how long, forever, maybe. Our legends speak when we cross the mountains and turn east and traveled through these forests of the Zariya, protecting. They were our first protectors, according to our myths, long, long ago. They chose us. We have grown with them ever since.",
+        "",
+        "%% u0773:0-42, u0774:0-21 %%",
+        "Kenzo: Is this a ritual or something that happens when you're young, or—",
+        "",
+        "%% u0775:0-67, u0776:0-10, u0777:0-35, u0778:0-50, u0779:0-28, u0780:0-66 %%",
+        "DM: He kind of laughs for a moment, and this, like, sort of belly laugh. ((Player joke)) It is so unusual for an outsider to be interested in our religion.",
+        "",
+        "%% u0781:0-17 %%",
+        "Kenzo: I'm very curious.",
+        "",
+        "%% u0782:0-17, u0783:0-40, u0784:0-27, u0785:0-59 %%",
+        "DM: Of course it is a— I mean, there are rituals, yes, prayers, many things that we do, but everyone is born with a protector. That is what we believe.",
+        "",
+        "%% u0786:0-53, u0787:0-14, u0788:0-98, u0789:0-123 %%",
+        "Kenzo: So everyone can see it. Kenzo, at this point, kind of pulls his, his, his sleeves over to like, reveal, reveal the tattoos of a you know kind of the parts of Motua. And you know, these 2, these 2, this jaguar, this like living jaguar, and, you know, kind of dragons start animating on its body.",
+        "",
+        "%% u0790:0-22, u0791:0-50, u0792:0-69, u0793:0-53 %%",
+        "Kenzo: And you know, he says, \"I, too, also have animal protectors. But this was— It was a different journey, I suspect, than what you all experienced, but I feel a great kinship to what you're describing.\"",
+        "",
+        "%% u0794:0-26, u0795:0-30, u0796:0-13 %%",
+        "DM: Indeed, that is beautiful. We do not have the art of such dancing inks.",
+        "",
+        "%% u0797:0-29, u0798:0-24, u0799:0-38, u0800:0-37 %%",
+        "Kenzo: Perhaps this could be a gift in a more peaceful time. There are some wonderful artisans that I'd be delighted to introduce you to.",
+        "",
+        "%% u0801:0-103, u0802:0-25, u0803:0-58, u0804:0-157 %%",
+        "DM: For us, there is no need to mark our protectors in such a way when they inhabit us. And as he says that, it begins to grow bigger, and his form begins to shift into this massive polar bear. And he, like, leans up and kind of gives, gives Kenzo like a little, like, you know, friendly gesture with his nose. And then he begins to shift back into a human.",
+        "",
+        "%% u0805:0-8, u0806:0-72 %%",
+        "Kenzo: Amazing.((Player joke))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: I think it's about the history of this place like how the halflings became something other than just vanilla halflings.",
+          "DM: Okay. Okay, so let's go back to conversation with Torsten, and Zora, Delwath, and Kenzo for a moment, and then I'll come back to Seeker and and Wellby.",
+          "Delwath: Also kind of hang back to start and let Kenzo kind of take the lead on this conversation about the weird stuff. But as soon as the conversation turns to practical matters, Delwath wants to step in.",
+          "Kenzo: Kenzo's gonna make sure it stays weird the whole time. Alright. So it's really weird. And, you know, greets— What's his name again? Bear guy?",
+          "DM: Torsten is the bear guy. Zora is the raven woman."
+        ],
+        "after": [
+          "Unknown: Connect.",
+          "Delwath: So as, as Kenzo is discussing the Zariya— Go ahead, go ahead.",
+          "DM: Let, let me cut over to Seeker, and then I'll come back to this jump in. So, Eric, as Seeker's wandering around the outside of camp, just, you know, with this sense, sense, or of just, you know, trying to see, trying to get a feeling of the land. Really, make a nature check.",
+          "Seeker: 25.",
+          "DM: So, I mean, The ground is frozen. I mean, it's cold, right? It's in the winter, there's ice, and you don't sense any ore or even stone anywhere nearby."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The camp halflings explain the dragon threat",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0852",
+        "endUid": "u0916"
+      },
+      "lines": [
+        "%% u0852:0-22, u0853:0-10, u0854:0-53 %%",
+        "DM: So, Wellby, talking to halflings. So you're asking them like, what do the dragons want?",
+        "",
+        "%% u0855:0-117 %%",
+        "Wellby: Yeah, what does the dragon want? What's the dragon like? Is there one particular dragon who's coming here? All that?",
+        "",
+        "%% u0855:117-150, u0856:0-153, u0857:0-184, u0858:0-14, u0859:0-87, u0860:0-132, u0861:0-60 %%",
+        "DM: There's a, there's what looks like— I'll say there's like 6 halflings that live with this particular tribe, and you know they introduce themselves. They, they sort of talk a little bit about like the halflings are kind of scattered around. There's many small groups of humans that live in these forests. Halflings travel with them. Some stoneborn too. The stoneborn have come more recently, like in the past generation, and they think they're mostly refugees from the mountains. But the halflings have traveled with the humans for many, many, many generations, and they, the halflings, tend to move around, like, you know, every generation will sort of switch, switch camps.",
+        "",
+        "%% u0862:0-19, u0863:0-11, u0864:0-33, u0865:0-23, u0866:0-33, u0867:0-12, u0868:0-16, u0869:0-144, u0870:0-31, u0871:0-22, u0872:0-63, u0873:0-24, u0874:0-26, u0875:0-123 %%",
+        "DM: There is one dragon that's been frequently patrolling the, the Ket just north of here. And normally, the this group would be moving west, but for the past 6 weeks or so they've stayed put out of fear of the dragon. They'd spotted it almost every evening and some mornings in the distance. You didn't see any dragon this morning, so possibly it wasn't out. But at least so far it hasn't seemed particularly interested in coming south of the Ket, so they're not quite sure. Yeah, it hasn't. It hasn't like searched intensively for them. It's just out a lot, and so they don't wanna be on the move.",
+        "",
+        "%% u0876:0-148, u0877:0-76, u0878:0-17, u0879:0-25, u0880:0-26, u0881:0-55 %%",
+        "DM: There is a series of, like, low hills on the north bank of the Ket that it's probably, tends to hang out in. It's not a, it's not the biggest dragon, like everybody has heard rumors of the massive ancient white dragon that attacked Ursk last winter, and this is not that, like, it's not— It's not a baby. It's not like one of the sort of ancient elder dragons.",
+        "",
+        "%% u0882:0-49, u0883:0-16, u0884:0-87, u0885:0-67, u0886:0-22, u0887:0-22, u0888:0-89, u0889:0-44, u0890:0-120 %%",
+        "DM: As for what the dragons want, nobody really knows. A lot of, I mean, obviously a thousand dragons aren't surviving on like whatever random animals happen to stumble into the far northern mountains. Although some people think white dragons eat ice. There's plenty of ice. ((Ice joke)) But also, like the the halflings, say white dragons are not, at least the ones that they've seen, and the ones that are sort of rumors and the songs from their, their, their memories.",
+        "",
+        "%% u0891:0-33, u0892:0-113, u0893:0-40, u0894:0-20, u0895:0-139, u0896:0-3, u0897:0-64, u0898:0-46, u0899:0-37, u0900:0-72, u0901:0-111, u0902:0-19, u0903:0-89, u0904:0-23, u0905:0-81 %%",
+        "DM: These are not like sophisticated. These are not the dragons of lore. They're not, you know, tricky, sophisticated creatures with complicated plans. They're just angry beasts. And they come south in the winter, probably because more the stronger, more powerful drive the younger and weaker out of their homes, like, It's a fierce competition among the the white dragons of the far North, and every now and then, one will arise that's stronger and more intelligent and clever, and with a more cunning plan. And of course Vimfrost was the most famous and deadly of all of them who organized the dragons into, organized the whole army of white dragons into a massive dragon conclave to attack, attack Sembara. But most of the ones that come south are not like that. According to these halflings, they're raw and angry, and just nobody quite knows what they're after. Maybe they just like seeing things frozen.",
+        "",
+        "%% u0906:0-73 %%",
+        "DM: Maybe they just enjoy the sight of field of humans turned to ice statues.",
+        "",
+        "%% u0907:0-35 %%",
+        "Riswynn: Do they eat the frozen ice statues?",
+        "",
+        "%% u0908:0-20, u0909:0-74, u0910:0-28 %%",
+        "DM: Nobody really knows. [garbled]. Nobody survives long enough to see what happens to the ice statues. They either run or they die.",
+        "",
+        "%% u0911:0-122 %%",
+        "Wellby: So the idea is maybe in the hills north of the river, this dragon, they see the dragon returning to some point repeatedly?",
+        "",
+        "%% u0912:0-4, u0913:0-106, u0914:0-29 %%",
+        "DM: Yes. And it's basically just got them afraid and pinned down. And they're not. They don't want to move, because might see them and kill them.",
+        "",
+        "%% u0915:0-44, u0916:0-109 %%",
+        "DM: But it doesn't seem like it's, it's not like, you know, coming. It's not like searching for halflings or anything like that. At least as far as I can tell.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You know, stocking monster parts and trading them. They probably don't travel super far except to hide.",
+          "Seeker: Okay.",
+          "DM: Like, that's that's kind of your your vibe of this place. But yeah, there's nothing valuable that you can find. There's nothing permanent. There's nothing. Everything is just wood and and leather and easy to disassemble.",
+          "Seeker: Okay?",
+          "DM: The one thing they do seem to stock a fair bit of is charcoal. They burn it inside the tents for warmth, and then winter, or just turn into animals, sleep."
+        ],
+        "after": [
+          "Delwath: If you— I want you to ask me something. What were you— Has Wellby done?",
+          "DM: Let's, let's jump back to to Torsten, and then we'll— Wellby wants to do his fancy.",
+          "Delwath: So as, as the conversation with, set kind of Kenzo winds down a little bit, or it's clear Kenzo was just kinda now talking by, you know, just to, just to, just to keep the weirdness quotient high, right, Delwath will kind of at some point start asking a few sort of pause a little bit like, does— \"A few practical matters. I wonder if you could help us with.\" And he'll start by saying, sort of apologize again for bringing notice to their village and ask if there's something specific about this dragon. I mean, I guess it's mostly the same information we just got from the halflings. But yeah.",
+          "Delwath: They also kind of repeat that same sort of question around, you know, Is there anything this guy has to add? But why they're afraid of this? Are they trying to go somewhere, are they blocked? And then—",
+          "DM: So that's the first question. Yeah. So, I mean, normally they would travel, normally, they wouldn't spend quite so long in one place, like, you know, it's difficult. They're running out of food, like— And normally they had, normally they would travel west into the sort of west and north into the kind of sort of upper part of the Ket River Valley. But they don't. It's not so much that they really care where they would go, just that—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Torsten on Ursk, protectors, and dragon hunting",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0923",
+        "endUid": "u1022"
+      },
+      "lines": [
+        "%% u0923:0-2, u0924:0-27, u0925:0-17, u0926:0-71, u0927:0-112, u0928:0-55, u0929:0-59, u0930:0-26, u0931:0-60, u0932:0-28, u0933:0-118 %%",
+        "Delwath: So as, as the conversation with, set kind of Kenzo winds down a little bit, or it's clear Kenzo was just kinda now talking by, you know, just to, just to, just to keep the weirdness quotient high, right, Delwath will kind of at some point start asking a few sort of pause a little bit like, does— \"A few practical matters. I wonder if you could help us with.\" And he'll start by saying, sort of apologize again for bringing notice to their village and ask if there's something specific about this dragon. I mean, I guess it's mostly the same information we just got from the halflings. But yeah.",
+        "",
+        "%% u0934:0-59, u0935:0-48, u0936:0-82, u0937:0-8 %%",
+        "Delwath: They also kind of repeat that same sort of question around, you know, Is there anything this guy has to add? But why they're afraid of this? Are they trying to go somewhere, are they blocked? And then—",
+        "",
+        "%% u0938:0-74, u0939:0-50, u0940:0-70, u0941:0-55, u0942:0-8, u0943:0-83, u0944:0-85 %%",
+        "DM: So that's the first question. Yeah. So, I mean, normally they would travel, normally, they wouldn't spend quite so long in one place, like, you know, it's difficult. They're running out of food, like— And normally they had, normally they would travel west into the sort of west and north into the kind of sort of upper part of the Ket River Valley. But they don't. It's not so much that they really care where they would go, just that—",
+        "",
+        "%% u0945:0-16 %%",
+        "DM: They don't wanna—",
+        "",
+        "%% u0946:0-16, u0947:0-43, u0948:0-5, u0949:0-97, u0950:0-82 %%",
+        "Delwath: Stay here, right? Secondarily, are dragon parts valuable here? Like, did, did they know? I mean, second question would be about trade with Ursk, and and you know, other— Which are the creatures that are seen as most valuable, valuable parts of a dragon?",
+        "",
+        "%% u0951:0-2, u0952:0-7, u0953:0-36, u0954:0-21, u0955:0-4, u0956:0-69, u0957:0-33 %%",
+        "DM: So Torsten, you know, he goes on to this sort of long rant about Ursk. They— It's hard to follow exactly the details, but apparently there's some— So, so the people of Ursk are not—",
+        "",
+        "%% u0958:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u0959:0-26, u0960:0-32, u0961:0-125, u0962:0-58, u0963:0-11, u0964:0-42, u0965:0-60, u0966:0-9, u0967:0-72, u0968:0-10, u0969:0-40 %%",
+        "DM: They have not chosen to, to befriend the Zariya. They're not, they're cut off from the protectors, as he puts it. They've turned to arcane magic to survive in this land. And is, you know, many of our people, in the bad days after Bjarnfrost fell, fled south. Little to turn to but the wizards of Ursk. They have some blood rite that gives them great Arcane power. Will, and— But the people who have sought their protection, well, they're like you. They can't summon their spirit protectors any more.",
+        "",
+        "%% u0970:0-12, u0971:0-28, u0972:0-20, u0973:0-5, u0974:0-148, u0975:0-53, u0976:0-19, u0977:0-77 %%",
+        "Delwath: Delwath will summon the spirit protector. One of his lynxes is— Okay, are those? I mean, actually, out of an honest curiosity like, as this rant winds down? I've been been wondering if the Zariya are anything like the tanshi, and sort of brings forth one of these lynxes. Do I have any sense? Like, as part of that, I'll also try and ask the tanshi, like, do you guys know—",
+        "",
+        "%% u0978:0-54, u0979:0-25, u0980:0-79, u0981:0-25 %%",
+        "((Table aside))",
+        "",
+        "%% u0982:0-92, u0983:0-53 %%",
+        "Delwath: I'm actually gonna like as part of doing this, I'll say a prayer to them, and like literally ask the tanshi, \"Are you related to the, to the Zariya?\"",
+        "",
+        "%% u0984:0-180 %%",
+        "Riswynn: But, Kenzo, you should be watching him and his lynxes while you watch them. Or maybe you spend some time watching, Delwath and his lynxes. Anyway, like similarities and differences.",
+        "",
+        "%% u0985:0-39, u0986:0-8, u0987:0-3, u0988:0-40, u0989:0-18 %%",
+        "DM: From Kenzo's point of view, they're not similar. And the answer from the tanshi is, \"Distantly, distantly related.\"",
+        "",
+        "%% u0990:0-130, u0991:0-13, u0992:0-22, u0993:0-2 %%",
+        "Delwath: I mean, Delwath will explain something of the tanshi as part of this, and like have a little religious conversation with this guy? But also then sort of go back to the— So—",
+        "",
+        "%% u0994:0-18, u0995:0-41, u0996:0-3, u0997:0-35, u0998:0-50, u0999:0-9, u1000:0-8, u1001:0-60 %%",
+        "DM: These folks do say, so there are Vargaldi who trade with Ursk and yes, dragon parts are valuable, and if we could kill a dragon that would be wonderful. There are several— Yeah, I mean, so what are you trying to learn specifically?",
+        "",
+        "%% u1002:0-129 %%",
+        "Delwath: If it would be— Would, would it be valuable to go kill the dragon because it would double our stock of cool parts to sell to Ursk?",
+        "",
+        "%% u1003:0-50 %%",
+        "DM: I mean, yes, dragon parts are definitely valuable.",
+        "",
+        "%% u1004:0-198, u1005:0-50 %%",
+        "Delwath: I mean, I'll hint that maybe like, do they have anything that would help us kill the dragon? I'll like sort of— I don't wanna promise him just yet that we're gonna go hunt down the dragon, but, like, if we did, do they have anything that could help?",
+        "",
+        "%% u1006:0-6, u1007:0-53, u1008:0-85, u1009:0-15, u1010:0-43 %%",
+        "DM: If you feel capable of taking on a dragon? No, this is not a, this is not like a powerful camp, right? Like the 2 strongest people in here are like four-ish level. They would be very overmatched by a dragon.",
+        "",
+        "%% u1010:43-74, u1011:0-17, u1012:0-244, u1013:0-112 %%",
+        "Delwath: I'm not really looking for like, like, do they have knowledge of the dragons patterns, or somebody who could cast the supportive spell that would last long enough? For, like, not, not like, do you have 3 warriors who would help us in combat per se? But more just what resources does the village have that, I mean, the answer might be, not, but, like, what resources, if, if we did volunteer to go destroy the dragon?",
+        "",
+        "%% u1013:112-198 %%",
+        "DM: So I mean, they've watched that, right? It tends, they can tell you it's, it's patterns.",
+        "",
+        "%% u1014:0-14, u1015:0-73, u1016:0-106 %%",
+        "DM: There, I mean. Torsten is still nervous that the dragon saw, even if it was just sitting quietly in its, you know, wherever it's hiding out in the hills, it may have seen where the airship landed.",
+        "",
+        "%% u1017:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1018:0-65, u1019:0-58, u1020:0-5, u1021:0-190, u1022:0-13 %%",
+        "DM: So he's still nervous, and he, you know he's pretty nervous about the whole subject of the dragon, and like it's pretty like, like— I mean, great that you're talking about killing it and asking about dragon parts. On the other hand, like, you know, you can see him considering, and, like, maybe we really should try and flee. He's not sure.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: So the idea is maybe in the hills north of the river, this dragon, they see the dragon returning to some point repeatedly?",
+          "DM: Yes. And it's basically just got them afraid and pinned down. And they're not. They don't want to move, because might see them and kill them.",
+          "DM: But it doesn't seem like it's, it's not like, you know, coming. It's not like searching for halflings or anything like that. At least as far as I can tell.",
+          "Delwath: If you— I want you to ask me something. What were you— Has Wellby done?",
+          "DM: Let's, let's jump back to to Torsten, and then we'll— Wellby wants to do his fancy."
+        ],
+        "after": [
+          "Delwath: Right?",
+          "DM: So Wellby now is trying to reach back into the past of the halflings and kind of get a feel for the land and a vision of who these halflings are, and how they ended up here. And, and what you see is, you kind of reach back into the past. Just expending your [garbled]— Expending your, expending your use, your ability to sort of perceive the history of your ancestors. Do you see? You see 3 sort of flashes of of images of of lore. And the first you can tell is very long ago, because the image is almost— It's almost like the memory itself is frayed and faded. And it's— And you, you've experienced this when you were younger, sailing on the Green Sea. Like, halflings have been sailing on the Green Sea for forever, basically. Like, this was a, you know, this was kind of one of the things halflings did as soon as they were created by the First Ones is travel the Green Sea.",
+          "DM: But the image that you see is small ships landing on a rocky coast, and halflings, if anything, kind of kindred spirits to yourself, just wanting to see what was across the next mountain range and deciding to go and look for themselves.",
+          "DM: And then, as they— And another image, a flash. Again, the world still feeling young, in a sense. Traveling through the forests, the, the, the land less dangerous than you feel it is now, and learning to speak with animals and asking them their stories and sharing the songs of their people.",
+          "DM: And then just time passing. And again you get the sense that this was all like long ago, like even before humans came, like before, certainly before Drankor, before, you know, the Empire started spreading, anything like that. But humans did come. Humans much like the people that you are talking to now, the the Vargold. And they also somehow learned to speak with the animals, and brought with them some divinity of some kind. They brought with them animals within them, animal spirits, animal gods, and they learned how to kind of ask those animal spirits for protection, and the humans made the animals stronger and the animals made the humans stronger."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Wellby sees the ancestral story of the forest",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1024",
+        "endUid": "u1085"
+      },
+      "lines": [
+        "%% u1024:0-2, u1025:0-105, u1026:0-11, u1027:0-52, u1028:0-47, u1029:0-14, u1030:0-24, u1031:0-118, u1032:0-23, u1033:0-18, u1034:0-73, u1035:0-64, u1036:0-135, u1037:0-144, u1038:0-21 %%",
+        "DM: So Wellby now is trying to reach back into the past of the halflings and kind of get a feel for the land and a vision of who these halflings are, and how they ended up here. And, and what you see is, you kind of reach back into the past. ((Ability narration)) Do you see? You see 3 sort of flashes of of images of of lore. And the first you can tell is very long ago, because the image is almost— It's almost like the memory itself is frayed and faded. And it's— And you, you've experienced this when you were younger, sailing on the Green Sea. Like, halflings have been sailing on the Green Sea for forever, basically. Like, this was a, you know, this was kind of one of the things halflings did as soon as they were created by the First Ones is travel the Green Sea.",
+        "",
+        "%% u1039:0-29, u1040:0-36, u1041:0-14, u1042:0-48, u1043:0-28, u1044:0-31, u1045:0-43 %%",
+        "DM: But the image that you see is small ships landing on a rocky coast, and halflings, if anything, kind of kindred spirits to yourself, just wanting to see what was across the next mountain range and deciding to go and look for themselves.",
+        "",
+        "%% u1046:0-62, u1047:0-13, u1048:0-17, u1049:0-9, u1050:0-20, u1051:0-56, u1052:0-35, u1053:0-41, u1054:0-26 %%",
+        "DM: And then, as they— And another image, a flash. Again, the world still feeling young, in a sense. Traveling through the forests, the, the, the land less dangerous than you feel it is now, and learning to speak with animals and asking them their stories and sharing the songs of their people.",
+        "",
+        "%% u1055:0-9, u1056:0-18, u1057:0-32, u1058:0-161, u1059:0-20, u1060:0-16, u1061:0-10, u1062:0-45, u1063:0-8, u1064:0-74, u1065:0-22, u1066:0-71, u1067:0-23, u1068:0-131 %%",
+        "DM: And then just time passing. And again you get the sense that this was all like long ago, like even before humans came, like before, certainly before Drankor, before, you know, the Empire started spreading, anything like that. But humans did come. Humans much like the people that you are talking to now, the the Vargold. And they also somehow learned to speak with the animals, and brought with them some divinity of some kind. They brought with them animals within them, animal spirits, animal gods, and they learned how to kind of ask those animal spirits for protection, and the humans made the animals stronger and the animals made the humans stronger.",
+        "",
+        "%% u1069:0-45, u1070:0-14, u1071:0-4, u1072:0-8, u1073:0-96, u1074:0-19, u1075:0-107, u1076:0-99, u1077:0-45, u1078:0-22, u1079:0-29, u1080:0-8, u1081:0-7, u1082:0-19 %%",
+        "DM: And as they settled and traveled in the land, the halflings were curious. And so they learned the magic of shapeshifting that seem to lie heavy on this land, some unusual power, some unusual strength of that particular magic from growing from the humans and the spirits that they brought with them. And sometimes some leave and sometimes new halflings come. Not everybody stays forever in this land, and over the generations the newcomers become assimilated and learn. And over time those who leave lose the spirit. That's their story.",
+        "",
+        "%% u1083:0-16, u1084:0-70, u1085:0-76 %%",
+        "Wellby: That is awesome. It's strange to be in such an old place that's not touched by like any of the history of any of the stuff we've done so far. Just its own North. Yup.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So I mean, they've watched that, right? It tends, they can tell you it's, it's patterns.",
+          "DM: There, I mean. Torsten is still nervous that the dragon saw, even if it was just sitting quietly in its, you know, wherever it's hiding out in the hills, it may have seen where the airship landed.",
+          "Delwath: Yeah.",
+          "DM: So he's still nervous, and he, you know he's pretty nervous about the whole subject of the dragon, and like it's pretty like, like— I mean, great that you're talking about killing it and asking about dragon parts. On the other hand, like, you know, you can see him considering, and, like, maybe we really should try and flee. He's not sure.",
+          "Delwath: Right?"
+        ],
+        "after": [
+          "DM: The North. Strange North. So at this point you all reconvene at like 4 in the afternoon. Something like that, to plan and discuss. Having taken a short rest, I would say, in the course of these conversations, and catching up, the sun beginning to sink low in the sky. Torsten and Yota, increasingly nervous and basically asking, like, \"We can pack up in 30 min. Like, what do you think? Should we stay, or should we run?\"",
+          "DM: By run, they mean getting your sky ship and fly away.",
+          "Wellby: Delwath. Make me invisible. I'll fly up and take a look to see if the dragon's out.",
+          "Delwath: Brilliant, sure. Let's do it. Yeah, you're invisible.",
+          "DM: Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Yota chooses shelter aboard the ship",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e032",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1199",
+        "endUid": "u1222"
+      },
+      "lines": [
+        "%% u1199:0-57, u1200:0-31, u1201:0-54, u1202:0-20, u1203:0-62, u1204:0-32, u1205:0-79, u1206:0-28, u1207:0-99, u1208:0-24, u1209:0-35, u1210:0-24, u1211:0-151, u1212:0-52, u1213:0-85 %%",
+        "Delwath: We will. We will basically tell them, \"Look, we've talked. We're gonna go kill the dragon, but we need to prepare. We need to recover our spells. We actually killed a ice creature this, this morning, right? Which, so, like, you know, it's not quite as simple as just going killing a dragon this evening. We, we really need to rest before we do it. If they're more comfortable— We think our ship, based on, based on some complex calculations that our dwarven engineer has done, can, can outrun a dragon. And so, if they're more comfortable sleeping here overnight, such that if it comes on us, we can flee. We could do that. We also, if they will keep watch and give us a little bit of warning if the dragons coming, if it does come for them in the middle of the night, we're not just gonna flee by ourselves. If they're not on the ship, we'll go fight it.\"",
+        "",
+        "%% u1214:0-82, u1215:0-37, u1216:0-52, u1217:0-18, u1218:0-48 %%",
+        "DM: At Torsten, looks around and looks at Zora, and, and Yota. And Yota speaks and says, \"We've watched it for many weeks now. If it's gonna come, it's gonna come in the next hour or before sunrise, unless it's trying to trick us, but I doubt that.\"",
+        "",
+        "%% u1219:0-3, u1220:0-50 %%",
+        "Delwath: Bye. We could take a long rest. Kill it before sunrise.",
+        "",
+        "%% u1221:0-64, u1222:0-50 %%",
+        "DM: I think it would be safer for us to be on your ship, if you feel you cannot protect us if it came in the next hour.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Unlimited?",
+          "Kenzo: Do we still have, can we still, can Schwartz, or somebody still like, just like scout them, and just like, give us a heads up, everything? Can we do? We have like a little way to do that, like Animal Messenger?",
+          "Wellby: Or something similar, but.",
+          "Delwath: But also we could telepathy with one of their animal, one of them as— And I mean the problem with animal messengers is probably not gonna fly a patrol pattern for us. Right?",
+          "Wellby: Yeah. Go faster than a dragon. Right? Let's ask them. Let's ask them what their preferences? We're gonna invite them on board."
+        ],
+        "after": [
+          "Delwath: I'll walk back to this. Everybody, how prepared are we to fight a dragon in the next hour?",
+          "Kenzo: Forgive me.",
+          "Wellby: So some of us are not.",
+          "Delwath: I mean did, but if it comes, it comes. But we could run. I mean, I'm not in my best shape, but I can handle it. I did a short rest, and I'm back to— Do you still have high level spell slots?",
+          "Riswynn: Yeah, I just don't have my sixth level. I still have a seventh level slot, and I still have fifth."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Aelgurd asks after his sister and learns to whisper",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1260",
+        "endUid": "u1276"
+      },
+      "lines": [
+        "%% u1260:0-62, u1261:0-15, u1262:0-23, u1263:0-31, u1264:0-35, u1265:0-39 %%",
+        "DM: Right? Okay. So everybody begins to pile onto the ship, and the, Aelgurd is like, \"That's a lot of people. Have any of you seen my sister? She would look like me, but a woman. Could you tell me, if you have, please?\"",
+        "",
+        "%% u1266:0-70 %%",
+        "((Player joke))",
+        "",
+        "%% u1267:0-24 %%",
+        "DM: Do, do you understand me?",
+        "",
+        "%% u1268:0-94 %%",
+        "Wellby: This is the guy that's gonna bring the dragon on us. Yeah, I'm gonna tell him to stop yelling.",
+        "",
+        "%% u1269:0-75, u1270:0-58 %%",
+        "DM: Oh, I didn't think you could hear if I didn't yell. Your ears are so small. If I whisper like this, is that better? It's almost worse.",
+        "",
+        "%% u1271:0-33 %%",
+        "Riswynn: It will be. Yes, that's better. I.",
+        "",
+        "%% u1272:0-54, u1273:0-13 %%",
+        "DM: I have not spent so much time with such little people. Are we good?",
+        "",
+        "%% u1274:0-12 %%",
+        "Kenzo: We're great.",
+        "",
+        "%% u1275:0-7 %%",
+        "Delwath: We are.",
+        "",
+        "%% u1276:0-27 %%",
+        "DM: I will write this all down.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah, I just marked off the fourth manually. So.",
+          "DM: I, I'm not scared. I'm a dragon, but it's fine.",
+          "Delwath: I mean, whatever. We are naturally fearful. It's like, It's not a very scary dragon.",
+          "DM: I was, as I was saying earlier, You have to reconstruct how strong you are. A single adult dragon is an easy encounter for five thirteenth level adventurers.",
+          "Delwath: Let's find out. I mean, alright, so, But look, we can. You can do— No, you do what you do. What makes sense to you? Yep. I don't, I'm not saying we necessarily run if it comes for us in the next bit of time. But it seems safer to plan with some contingency."
+        ],
+        "after": [
+          "DM: Everybody begins to pile into the ship, they are inevitably brought face to face with the motley crew.",
+          "Delwath: Did Ketcha rejoin? That's right?",
+          "DM: Yes. Ketcha actually has been also like scouting a bit. Comes, has, has been flying around and just lands, and he says to, to Wellby, or to all of you. Whoever's nearby. You know there's a dragon coming, right?",
+          "Wellby: Coming towards us now, or coming towards us later?",
+          "DM: I don't know if it's coming towards us. Crossing the river."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Ketcha returns with a dragon warning",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1279",
+        "endUid": "u1296"
+      },
+      "lines": [
+        "%% u1279:0-32 %%",
+        "Delwath: Did Ketcha rejoin? That's right?",
+        "",
+        "%% u1280:0-4, u1281:0-50, u1282:0-60, u1283:0-13, u1284:0-35, u1285:0-38 %%",
+        "DM: Yes. Ketcha actually has been also like scouting a bit. Comes, has, has been flying around and just lands, and he says to, to Wellby, or to all of you. Whoever's nearby. You know there's a dragon coming, right?",
+        "",
+        "%% u1286:0-50 %%",
+        "Wellby: Coming towards us now, or coming towards us later?",
+        "",
+        "%% u1287:0-58 %%",
+        "DM: I don't know if it's coming towards us. Crossing the river.",
+        "",
+        "%% u1288:0-4 %%",
+        "Unknown: What?",
+        "",
+        "%% u1289:0-62 %%",
+        "Wellby: I appreciate the heads up. That's, that's good to know right now.",
+        "",
+        "%% u1290:0-13 %%",
+        "Seeker: This is fine.",
+        "",
+        "%% u1291:0-9 %%",
+        "Riswynn: Should we—",
+        "",
+        "%% u1292:0-4, u1293:0-31 %%",
+        "DM: Run? I don't want to fight a dragon.",
+        "",
+        "%% u1294:0-63, u1295:0-169, u1296:0-56 %%",
+        "Wellby: I don't want to fight dragon. You don't want to fight a dragon. Where can we run to? And, like, there's, the problem with the running is, when do we circle back and fight it? If everyone stays below decks, if everyone stays below decks, the hallucinatory terrain covers us all. We're invisible.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I have not spent so much time with such little people. Are we good?",
+          "Kenzo: We're great.",
+          "Delwath: We are.",
+          "DM: I will write this all down.",
+          "DM: Everybody begins to pile into the ship, they are inevitably brought face to face with the motley crew."
+        ],
+        "after": [
+          "Delwath: Now as previously. Oh, below decks. Yes. There's just a giant frost giant. It doesn't fit below decks.",
+          "DM: He doesn't fit below decks.",
+          "Delwath: But close. Let's just fight it.",
+          "Kenzo: Right now, right now, with our currents. I thought the whole, we're didn't. We're right now.",
+          "DM: Yeah, you got a short rest."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Faldrak encourages Philip to show his fire trick",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1306",
+        "endUid": "u1320"
+      },
+      "lines": [
+        "%% u1306:0-24, u1307:0-31 %%",
+        "DM: This is your opportunity to see how I perform in battle.",
+        "",
+        "%% u1308:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1309:0-79, u1310:0-27 %%",
+        "DM: You've got to focus on something else. You can't be concentrating on this ship. But what else am I gonna do?",
+        "",
+        "%% u1311:0-50, u1312:0-44 %%",
+        "Seeker: Do you have? But you've got fire magic, don't you? We might need fire magic against this thing.",
+        "",
+        "%% u1313:0-99, u1314:0-106, u1315:0-61, u1316:0-18, u1317:0-12 %%",
+        "DM: He like looks up at his stone bird. \"Show them what I taught you.\" That's right. Yeah, you can do it. \"No, I promise they're not gonna laugh, Philip. They'll appreciate it. They just said they want fire magic.\" The bird like flies, and gives us like little spurt of smoke. No, nothing can be— Pretty good.",
+        "",
+        "%% u1318:0-18, u1319:0-19 %%",
+        "Seeker: Everybody applaud. See completely. But—",
+        "",
+        "%% u1320:0-54 %%",
+        "Delwath: I would save that for something smaller than a dragon.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: But close. Let's just fight it.",
+          "Kenzo: Right now, right now, with our currents. I thought the whole, we're didn't. We're right now.",
+          "DM: Yeah, you got a short rest.",
+          "Wellby: Yeah, we could. We totally have it? Everyone else stays below decks. Because if we run, then we, you know, maybe the Dragon.",
+          "Delwath: Honestly, ship's, ship or something, not gonna be that useful against the dragon? My guess. Yeah, just guessing [garbled]. It's immune to fire, ice damage."
+        ],
+        "after": [
+          "Wellby: Small dragon.",
+          "Seeker: Hmm!",
+          "DM: So you're gonna need a fly.",
+          "Seeker: We try to do it flies.",
+          "Wellby: We fly."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The DM does not name Faldrak within the exchange; attribution follows his established stone-bird companion and the surrounding ship discussion."
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Aelgurd is asked to protect the civilians",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1364",
+        "endUid": "u1376"
+      },
+      "lines": [
+        "%% u1364:0-4, u1365:0-17, u1366:0-115 %%",
+        "DM: Wow! The giant is like, \"I guess I'm just gonna sit here on top of this hill and hope the dragon decides it doesn't want to attack me today.\"",
+        "",
+        "%% u1367:0-164, u1368:0-29 %%",
+        "Kenzo: Well, you're also gonna help protect all of the civilians if it does. If we somehow died, you're gonna help with that. They say the pen is mightier than the sword. You can throw your pen at it.",
+        "",
+        "%% u1369:0-68 %%",
+        "Delwath: You do have a large pen, throw a book, too. They're big. It'll hurt.",
+        "",
+        "%% u1370:0-22 %%",
+        "Kenzo: Try to hide somewhere.",
+        "",
+        "%% u1371:0-40 %%",
+        "DM: Have you noticed that I am rather large?",
+        "",
+        "%% u1372:0-35 %%",
+        "Delwath: No, it slipped my mind. I will try.",
+        "",
+        "%% u1373:0-38 %%",
+        "Wellby: Our, our ears were too small to notice.",
+        "",
+        "%% u1374:0-67 %%",
+        "Delwath: These very small eyes don't see as well as yours. That makes sense.",
+        "",
+        "%% u1375:0-32 %%",
+        "Seeker: Don't confuse him. I don't know.",
+        "",
+        "%% u1376:0-17 %%",
+        "DM: Okay, I will try.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Unless somebody else wants to make Fly happen?",
+          "Delwath: The main strategy here is to spread out so it can't breath-weapon us all at once, right? And then try to kill it.",
+          "Seeker: Yeah.",
+          "DM: So everybody's piling onto the ship. The camp is rapidly disappearing. You know, everybody is grateful, a little bit, like, disturbed by the Orcs, almost looking at Kenzo, like, \"Am I actually gonna see a dragon?\"",
+          "Kenzo: Yeah, no, no, you're gonna stay in the ship under the hidden thing."
+        ],
+        "after": [
+          "DM: The camp is now almost gone. Faldrak's like, you know, fluttering around as everybody is like this huge crowd of people descending on the ship, like, \"Is there space for everybody? Like, let's get them stowed. You might have to fly. Nobody hanging off the edge.\"",
+          "Kenzo: Yeah, our crew is helping. We've instructed, manage, get everybody settled and feeling comfortable and stuff. And.",
+          "DM: And this is taking about half an hour, and at this point all of you can clearly see the dragon growing bigger. Not particularly fast. Like, it seems like it's just sort of curious, like, \"What was that thing that I saw?\"",
+          "Wellby: Maybe, Kenzo, you're right. Maybe it is friendly.",
+          "Delwath: Unlikely, but it might not see us. Well, it's gonna see the giant. Probably."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Faldrak settles the refugees aboard",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e032",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1377",
+        "endUid": "u1382"
+      },
+      "lines": [
+        "%% u1377:0-28, u1378:0-25, u1379:0-93, u1380:0-33, u1381:0-74 %%",
+        "DM: The camp is now almost gone. Faldrak's like, you know, fluttering around as everybody is like this huge crowd of people descending on the ship, like, \"Is there space for everybody? Like, let's get them stowed. You might have to fly. Nobody hanging off the edge.\"",
+        "",
+        "%% u1382:0-113 %%",
+        "Kenzo: Yeah, our crew is helping. We've instructed, manage, get everybody settled and feeling comfortable and stuff. And.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: No, it slipped my mind. I will try.",
+          "Wellby: Our, our ears were too small to notice.",
+          "Delwath: These very small eyes don't see as well as yours. That makes sense.",
+          "Seeker: Don't confuse him. I don't know.",
+          "DM: Okay, I will try."
+        ],
+        "after": [
+          "DM: And this is taking about half an hour, and at this point all of you can clearly see the dragon growing bigger. Not particularly fast. Like, it seems like it's just sort of curious, like, \"What was that thing that I saw?\"",
+          "Wellby: Maybe, Kenzo, you're right. Maybe it is friendly.",
+          "Delwath: Unlikely, but it might not see us. Well, it's gonna see the giant. Probably.",
+          "DM: The giant was now like lying down among the trees, like incredibly obvious, like clearly trying to hide.",
+          "Delwath: Ha! Ha! He's invisible."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Seeker harvests the cold-breath organ",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2155",
+        "endUid": "u2165"
+      },
+      "lines": [
+        "%% u2155:0-47, u2156:0-54 %%",
+        "Seeker: Oh, actually, I was wondering, does— Is there a freezing this organ, like the way a fire breathing drag—",
+        "",
+        "%% u2157:0-17, u2158:0-43 %%",
+        "DM: Like a venom sack that it uses to generate it's cold breath.",
+        "",
+        "%% u2159:0-23 %%",
+        "Seeker: That's what I'm taking.",
+        "",
+        "%% u2160:0-122, u2161:0-49, u2162:0-40, u2163:0-105, u2164:0-163, u2165:0-105 %%",
+        "DM: ((Harvesting narration)) [garbled] walks out from the dragon's mouth, holding this, like, steaming vial that looks like, steaming hand that looks like dry, like just dry ice coming off of his hand.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah, we could do one more, 5, 9. So I also, I got a 28. That, wow! Your inspiration's really good.",
+          "Seeker: You're so inspiring, Seeker.",
+          "DM: Seeker, just without anything. And what are you harvesting, Seeker?",
+          "Seeker: I'm going for teeth.",
+          "DM: Like, you just, you slowly get up."
+        ],
+        "after": [
+          "Seeker: Hmm.",
+          "DM: Wellby, also. What are you harvesting, Wellby?",
+          "Wellby: Scales, I guess.",
+          "DM: With the vicious shortsword you just start harvesting dragon hide, butchering it badly and quickly. Dragon scales are super tough, like, you can't harvest a ton. It'll dull even magic weapon. But you're able to get, you know, the, like, a good bolt's worth, like you could make a suit of armor. But—",
+          "DM: Delwath?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Wellby harvests dragon hide",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2167",
+        "endUid": "u2174"
+      },
+      "lines": [
+        "%% u2167:0-44 %%",
+        "DM: Wellby, also. What are you harvesting, Wellby?",
+        "",
+        "%% u2168:0-16 %%",
+        "Wellby: Scales, I guess.",
+        "",
+        "%% u2169:0-42, u2170:0-23, u2171:0-146, u2172:0-8, u2173:0-66, u2174:0-4 %%",
+        "DM: With the vicious shortsword you just start harvesting dragon hide, butchering it badly and quickly. Dragon scales are super tough, like, you can't harvest a ton. It'll dull even magic weapon. But you're able to get, you know, the, like, a good bolt's worth, like you could make a suit of armor. But—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh, actually, I was wondering, does— Is there a freezing this organ, like the way a fire breathing drag—",
+          "DM: Like a venom sack that it uses to generate it's cold breath.",
+          "Seeker: That's what I'm taking.",
+          "DM: Seeker's like, \"I've got this.\" Just walks over to the dragon, like, its mouth from Kenzo's last attack. Its mouth is just like sprawled open. He was about to breathe in another burst of flame, and you're small enough, Seeker, to just kind of walk into its mouth. You're just looking around like, right there, take out a knife. With, with a gloved hand, just reach out, and Seeker just walks out. Somebody's gotta do this on DALL-E. [garbled] walks out from the dragon's mouth, holding this, like, steaming vial that looks like, steaming hand that looks like dry, like just dry ice coming off of his hand.",
+          "Seeker: Hmm."
+        ],
+        "after": [
+          "DM: Delwath?",
+          "Delwath: I'm going after, like internal organs. Okay, heart, or something more interesting if I find something more interesting cutting my way to its heart. Okay, now I see what it's been eating.",
+          "DM: Delwath cuts open the dragon and you jump away, because, as you cut into its stomach, there's just this geyser of ice. It drops out. It seems like it, in fact, been eating ice.",
+          "Riswynn: External ice. Explosive ice.",
+          "DM: No, no, it's just like, it's like blood spurting, but it's like ice."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The dragon’s unusual detoxification organ",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2190",
+        "endUid": "u2192"
+      },
+      "lines": [
+        "%% u2190:0-72, u2191:0-146 %%",
+        "DM: The most, the most interesting internal organ is not actually the heart. It's what would sort of be the equivalent of, like, a liver slash kidney, like a detoxification organ, which is like where it's legendary resistance—",
+        "",
+        "%% u2192:0-20 %%",
+        "Riswynn: Like detoxification.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: No, no, it's just like, it's like blood spurting, but it's like ice.",
+          "Kenzo: Does Eric like, or does Seeker, like, freak out and, like, jump in front of it in my bath?",
+          "Seeker: Not possessed anymore. I only do that in private.",
+          "Kenzo: Yeah, is that what's happening in this room?",
+          "Seeker: It's kind of personal. So."
+        ],
+        "after": [
+          "DM: Kenzo and Riswynn.",
+          "Delwath: I mean, is the heart still useful? Or should I just get some teeth or claws or something?",
+          "Kenzo: So it's, it's soul— Actually, actually, in all seriousness as the death blow is being dealt, can Kenzo, like, Kenzo's like, like, can Kenzo, like, observe? It's like consciousness, like what, what happens to the dragon like he's just like super focused cause he's been so ultra focused on its aura the whole time. Like, what happens to the dragons like consciousness and spirit, like as it dies? Is there, like, with all Kenzo's like awareness, like focus on what the hell's going on, like, where, what happens? Does he notice anything?",
+          "DM: Like everything else, it goes to the land of the dead.",
+          "Kenzo: Can he? Can he capture it in a bottle of some kind before it gets there?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Torsten offers any help in gratitude",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e032",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2226",
+        "endUid": "u2245"
+      },
+      "lines": [
+        "%% u2226:0-17, u2227:0-20, u2228:0-11, u2229:0-37, u2230:0-8, u2231:0-66, u2232:0-42, u2233:0-41, u2234:0-62, u2235:0-61, u2236:0-4, u2237:0-52, u2238:0-13, u2239:0-22, u2240:0-46, u2241:0-7, u2242:0-18, u2243:0-31, u2244:0-46, u2245:0-31 %%",
+        "DM: ((Return and cheering)) Torsten comes up and says, \"Did not think it could be done. There is anything we can do for you, anything, just ask it, and it will be so.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Biology on the team.",
+          "DM: After, as the sun is now fully set, and the dragon's carcass is beginning to melt and steam. Anyway, the Wall of Fire is gone. You return to camp, I guess, or return to the ship, I guess.",
+          "Wellby: Umhm.",
+          "Seeker: The ship. That's where the shower room is. Yeah, carrying another.",
+          "DM: Treasure load of monster parts."
+        ],
+        "after": [
+          "Kenzo: Do we want, like all their help with their stuff? That, yeah, yeah, I think we want an introduction to other clans that—",
+          "Seeker: Say the same thing, ideal world, I mean.",
+          "Kenzo: Guide to take us all the way downriver. Right? Yeah. Oh, and if anybody in there, in their, in their crew, knows Ursk really well well, and can join us, join our merry, merry band.",
+          "Seeker: This is just a random speculation, but the thing about like their soul being attached to an animal, yeah, makes me wonder about the phylactery thing that, like protects your soul elsewhere, and if they know of a way to sever the soul connection, like not that they want to do that, but they know and know how that works. Maybe we could learn about a way to attack Apollyon. Yeah, but we would have to find their, like, highest level, like Loremaster.",
+          "DM: So you, you, you sit around for some time discussing Ursk, talking about— There are several people in this, in this village who have traveled to Ursk. They don't trade frequently, but they're not, I mean, there are— There are a few people who do know some of Ursk and spend a while sort of talking to them, and just, just kind of learning what you can about."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "A proposed way to learn about Apollyon’s phylactery",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2249",
+        "endUid": "u2251"
+      },
+      "lines": [
+        "%% u2249:0-244, u2250:0-101, u2251:0-100 %%",
+        "Seeker: This is just a random speculation, but the thing about like their soul being attached to an animal, yeah, makes me wonder about the phylactery thing that, like protects your soul elsewhere, and if they know of a way to sever the soul connection, like not that they want to do that, but they know and know how that works. Maybe we could learn about a way to attack Apollyon. Yeah, but we would have to find their, like, highest level, like Loremaster.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Treasure load of monster parts.",
+          "DM: And as you return, you, I mean, you don't [garbled]. I guess the, the giant is now visible, because— But otherwise, like everything is still— The ship is still hidden. Still this, like, hill and trees around it. And as you, as you approach, you see, like, faces start to poke out of the, out of the hill. One, and then 2 more. And then 5 more. And then there's just like cheering. Like 20 faces sticking out over the hill, looking at you as you return, board your ship again, like, everybody is just super grateful, happy. Torsten comes up and says, \"Did not think it could be done. There is anything we can do for you, anything, just ask it, and it will be so.\"",
+          "Kenzo: Do we want, like all their help with their stuff? That, yeah, yeah, I think we want an introduction to other clans that—",
+          "Seeker: Say the same thing, ideal world, I mean.",
+          "Kenzo: Guide to take us all the way downriver. Right? Yeah. Oh, and if anybody in there, in their, in their crew, knows Ursk really well well, and can join us, join our merry, merry band."
+        ],
+        "after": [
+          "DM: So you, you, you sit around for some time discussing Ursk, talking about— There are several people in this, in this village who have traveled to Ursk. They don't trade frequently, but they're not, I mean, there are— There are a few people who do know some of Ursk and spend a while sort of talking to them, and just, just kind of learning what you can about.",
+          "Unknown: Oh.",
+          "DM: About, I don't know, why do you— What is it that you're hoping to learn specifically? Like, what's the information you're looking for?",
+          "Riswynn: Like, when we get there, can we just walk in, offer, you know, say, we have some parts to sell? Who should we, should we have contacts? Do we need to, like, know the right people? Like, is there, like, a secret underground group of— There are people who are like miserable, who like have a resistance going to the current government, like, you know? What was the thing about, like, if they pre accept the protection of the wizards, they lose their animals natures, lose the ability? Is that a thing? What, they lose the ability to shape shift?",
+          "DM: So, so what you learn basically is, let me switch it back to that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Vargold advice on entering Ursk",
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2252",
+        "endUid": "u2418"
+      },
+      "lines": [
+        "%% u2252:0-50, u2253:0-60, u2254:0-80, u2255:0-130, u2256:0-28 %%",
+        "DM: So you, you, you sit around for some time discussing Ursk, talking about— There are several people in this, in this village who have traveled to Ursk. They don't trade frequently, but they're not, I mean, there are— There are a few people who do know some of Ursk and spend a while sort of talking to them, and just, just kind of learning what you can about.",
+        "",
+        "%% u2257:0-3 %%",
+        "Unknown: Oh.",
+        "",
+        "%% u2258:0-54, u2259:0-76 %%",
+        "DM: About, I don't know, why do you— What is it that you're hoping to learn specifically? Like, what's the information you're looking for?",
+        "",
+        "%% u2260:0-4, u2261:0-218, u2262:0-114, u2263:0-191 %%",
+        "Riswynn: Like, when we get there, can we just walk in, offer, you know, say, we have some parts to sell? Who should we, should we have contacts? Do we need to, like, know the right people? Like, is there, like, a secret underground group of— There are people who are like miserable, who like have a resistance going to the current government, like, you know? What was the thing about, like, if they pre accept the protection of the wizards, they lose their animals natures, lose the ability? Is that a thing? What, they lose the ability to shape shift?",
+        "",
+        "%% u2264:0-65 %%",
+        "DM: So, so what you learn basically is, let me switch it back to that.",
+        "",
+        "%% u2265:0-15 %%",
+        "Riswynn: But that's fun.",
+        "",
+        "%% u2266:0-2, u2267:0-7, u2268:0-9, u2269:0-8, u2270:0-16, u2271:0-3, u2272:0-111, u2273:0-61, u2274:0-24, u2275:0-158, u2276:0-9, u2277:0-26, u2278:0-36, u2279:0-53, u2280:0-20, u2281:0-6, u2282:0-130, u2283:0-10, u2284:0-54, u2285:0-29, u2286:0-17, u2287:0-10, u2288:0-8, u2289:0-81, u2290:0-91 %%",
+        "DM: So you are currently roughly here, ish, right? And the, so, so what you learn about the approach from to Ursk is, okay, so you know that there is the city Zvervinka just here on the Ket. And there are definitely, there are many Vargold who trade there. There is. There is one older man you talk to, who used to travel with the monster, with the caravans, with the trade groups that would go downriver in summer in canoes to Zvervinka. And he says, \"You know, it's a frontier city. It's heavily fortified. But you know, if you pretend to be Vargold, people won't [garbled]. I don't expect— You sort of, you know, talking somewhat dismissively. They don't expect, you know, in a sarcastic way, he says that, \"Uncultured wild people to speak the language or know the customs.\" So you have something to sell in the markets of Zvervinka, that is, you know, they would always just, just go down river, you know. They'd be stopped. Questioned, but nobody, nobody cared too much as long as they were bringing goods to market.\"",
+        "",
+        "%% u2291:0-27, u2292:0-76 %%",
+        "DM: But he looks around at you. You're gonna need some good disguises, because there are no dwarven Vargold.",
+        "",
+        "%% u2293:0-14 %%",
+        "Seeker: Halfling. Yes.",
+        "",
+        "%% u2294:0-29 %%",
+        "DM: An elf could pass as a human.",
+        "",
+        "%% u2295:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u2296:0-55, u2297:0-21, u2298:0-97, u2299:0-75, u2300:0-26 %%",
+        "DM: But they'll be suspicious if you show up claiming to be— You do also hear from another, just like everybody, is chiming in with advice, and say that tell their stories of their youth and the stories of their cousins and their stories of their, you know, sisters, brothers, mother!",
+        "",
+        "%% u2301:0-21, u2302:0-25, u2303:0-24, u2304:0-50, u2305:0-30, u2306:0-97, u2307:0-81, u2308:0-11, u2309:0-4, u2310:0-28, u2311:0-31, u2312:0-27, u2313:0-55, u2314:0-71, u2315:0-129, u2316:0-40 %%",
+        "DM: There's another city. One of them says, \"Yamgov. It's on this river here. And these mountains are not well guarded. They are full of ice and strange magic. Not travel there lightly. But if you killed a dragon that should be of little consequence to you. If you cross the mountains, the interior of this river valley is lightly settled. This border here is not, is not a safe place, was the edge of the land of the vampire bats, they call that. Giant bats patrol at night and fly off with anybody who creeps too close to the land of the vampire, the Land of Darkness here. But if you can sneak across these mountains, you may be able to travel for quite some distance unnoticed in the interior of Ursk. Just depends on what you want to do, and—\"",
+        "",
+        "%% u2317:0-2 %%",
+        "Unknown: No.",
+        "",
+        "%% u2318:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u2319:0-55, u2320:0-79 %%",
+        "DM: Somebody else chimes in. But, but what about their ship? And Torsten says, \"Oh, yeah, no, you definitely cannot fly this castle into Ursk.\"",
+        "",
+        "%% u2321:0-9, u2322:0-5, u2323:0-54, u2324:0-23, u2325:0-31, u2326:0-22, u2327:0-21, u2328:0-26, u2329:0-38, u2330:0-65, u2331:0-57, u2332:0-133, u2333:0-100, u2334:0-67, u2335:0-78, u2336:0-136, u2337:0-6, u2338:0-50, u2339:0-36, u2340:0-90, u2341:0-54 %%",
+        "((Ship, language, and route planning))",
+        "",
+        "%% u2342:0-107, u2343:0-7, u2344:0-136 %%",
+        "Riswynn: So speaking of the Vargold, so there are no Vargold who are dwarves. But there are dwarves who live in Ursk? Like, if, if I weren't pretending to be Vargold, that's what I'm asking. Are there dwarves that live in Ursk? Or am I just screwed, no matter what?",
+        "",
+        "%% u2345:0-53, u2346:0-72, u2347:0-21 %%",
+        "DM: There may very well be dwarves in the coastal cities. The Vargold who you're speaking to has never seen a dwarf in the markets, like, in, in Zvervinka.",
+        "",
+        "%% u2348:0-16 %%",
+        "DM: It's not like a—",
+        "",
+        "%% u2348:16-64 %%",
+        "Riswynn: Okay, good to know. That's what I needed to add.",
+        "",
+        "%% u2348:64-164, u2349:0-4, u2350:0-72, u2351:0-29, u2352:0-19, u2353:0-12, u2354:0-67, u2355:0-42, u2356:0-119, u2357:0-47, u2358:0-35, u2359:0-16, u2360:0-31, u2361:0-4 %%",
+        "DM: And you also learn part of the reason, the, or, like, they talk. You hear a little bit more about this. Yes. Arcane rite? Or something like that. The details are a little bit fuzzy, but apparently this is like a— Wizards of Ursk are very strong and part of the way that wizards are so strong and so powerful, and so much magic is something to do with this ritual that binds the people of Ursk together. And actually, as they're talking about it, it occurs to certainly Kenzo, I think, is the only one who actually did the— This sounds not too dissimilar from Shakun, although channeled by wizards instead of God.",
+        "",
+        "%% u2362:0-12, u2363:0-52 %%",
+        "Delwath: Our dwarves— I mean, I guess he's never seen a dwarf is the point.",
+        "",
+        "%% u2364:0-71 %%",
+        "DM: In the West. No, no, no, I mean, he's never seen a dwarf in the market.",
+        "",
+        "%% u2365:0-30, u2366:0-8, u2367:0-30, u2368:0-46, u2369:0-66 %%",
+        "Delwath: Do they expect everybody to be Vargold? I mean, what if you just like? Has he ever seen anybody who wasn't one of the Vargold in the market town? Is there anybody else who sells stuff?",
+        "",
+        "%% u2370:0-54, u2371:0-9, u2372:0-33, u2373:0-28, u2374:0-16, u2375:0-37, u2376:0-22, u2377:0-55, u2378:0-63, u2379:0-18, u2380:0-47, u2381:0-28, u2382:0-18, u2383:0-13, u2384:0-66, u2385:0-38 %%",
+        "DM: So, I mean, a couple of the halflings chime in? And our— You know, yeah, once I think there was some dragon hunter from far away who had heard of Ursk and had come from the far North. Goods to sell. He was— Don't remember. This was when I was just a small child. He was definitely treated with more suspicions than the Vargold. Kind of expect us. Let us come and go without too much questioning. Venture, I think there was a big to do with the, the eyes. The— Where did the letter call them? Like magical secret police, right? But yes, there are other people there.",
+        "",
+        "%% u2386:0-38, u2387:0-94, u2388:0-99, u2389:0-12, u2390:0-3, u2391:0-38, u2392:0-21, u2393:0-89, u2394:0-47, u2395:0-175, u2396:0-21, u2397:0-25, u2398:0-24, u2399:0-66, u2400:0-43, u2401:0-50, u2402:0-32, u2403:0-76, u2404:0-75, u2405:0-38, u2406:0-34, u2407:0-22, u2408:0-25 %%",
+        "((Ship, language, and route planning))",
+        "",
+        "%% u2409:0-134, u2410:0-28 %%",
+        "Riswynn: But there's that stretch of the Ket that's sort of in open space before Zvervinka probably still populated, so the eyes might still be aware of what happens there?",
+        "",
+        "%% u2411:0-64 %%",
+        "Delwath: Is it populated north of the city at all? Or is that the border?",
+        "",
+        "%% u2412:0-124, u2413:0-134 %%",
+        "DM: It's sort of frontier. There's definitely like some people who live out there. But it's not, certainly not densely populated. This map is just, just what Ketcha knows. Just cause it's blank on the map doesn't mean anything. It just means Ketcha hasn't traveled.",
+        "",
+        "%% u2414:0-91 %%",
+        "Riswynn: What did the Vargold know about like where the surveillance of the eyes would see the ship?",
+        "",
+        "%% u2415:0-146 %%",
+        "DM: Not till you're well— Seeing the ship, I mean, the ship is, like, 200 feet, like the size of an airplane. You can see it from a decent distance away.",
+        "",
+        "%% u2416:0-30 %%",
+        "Riswynn: But where do they patrol like?",
+        "",
+        "%% u2417:0-50 %%",
+        "DM: Not, not more than 10 or 15 miles outside the city.",
+        "",
+        "%% u2418:0-33 %%",
+        "Riswynn: Okay, that's what I needed. Yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And as you return, you, I mean, you don't [garbled]. I guess the, the giant is now visible, because— But otherwise, like everything is still— The ship is still hidden. Still this, like, hill and trees around it. And as you, as you approach, you see, like, faces start to poke out of the, out of the hill. One, and then 2 more. And then 5 more. And then there's just like cheering. Like 20 faces sticking out over the hill, looking at you as you return, board your ship again, like, everybody is just super grateful, happy. Torsten comes up and says, \"Did not think it could be done. There is anything we can do for you, anything, just ask it, and it will be so.\"",
+          "Kenzo: Do we want, like all their help with their stuff? That, yeah, yeah, I think we want an introduction to other clans that—",
+          "Seeker: Say the same thing, ideal world, I mean.",
+          "Kenzo: Guide to take us all the way downriver. Right? Yeah. Oh, and if anybody in there, in their, in their crew, knows Ursk really well well, and can join us, join our merry, merry band.",
+          "Seeker: This is just a random speculation, but the thing about like their soul being attached to an animal, yeah, makes me wonder about the phylactery thing that, like protects your soul elsewhere, and if they know of a way to sever the soul connection, like not that they want to do that, but they know and know how that works. Maybe we could learn about a way to attack Apollyon. Yeah, but we would have to find their, like, highest level, like Loremaster."
+        ],
+        "after": [
+          "DM: You could probably get, wow, at least into the mountains, maybe not to the other side of the— They do patrol them, but southern border of the mountains lightly.",
+          "Delwath: So we either park in the southern foothills or—",
+          "Riswynn: 20 miles west of Zvervinka. Sure. Sorry, if they can see us from 50 miles away, 70 miles west of Zvervinka, right?",
+          "Delwath: What? But again, I guess I don't quite know what our next step is.",
+          "Riswynn: We need to hang around in Ursk long enough to find this jade hand thing, means we need to find the, like, seedy underbelly of Ursk's politics and get in touch with the people who don't have power and help, you know, recruit them into helping us find this thing from the people who do have power."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "The jade fragment remains the goal",
+      "entities": [
+        {
+          "id": "e030",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2429",
+        "endUid": "u2433"
+      },
+      "lines": [
+        "%% u2429:0-71, u2430:0-16, u2431:0-113, u2432:0-27, u2433:0-61 %%",
+        "Riswynn: We need to hang around in Ursk long enough to find this jade hand thing, means we need to find the, like, seedy underbelly of Ursk's politics and get in touch with the people who don't have power and help, you know, recruit them into helping us find this thing from the people who do have power.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Okay, that's what I needed. Yeah.",
+          "DM: You could probably get, wow, at least into the mountains, maybe not to the other side of the— They do patrol them, but southern border of the mountains lightly.",
+          "Delwath: So we either park in the southern foothills or—",
+          "Riswynn: 20 miles west of Zvervinka. Sure. Sorry, if they can see us from 50 miles away, 70 miles west of Zvervinka, right?",
+          "Delwath: What? But again, I guess I don't quite know what our next step is."
+        ],
+        "after": [
+          "Kenzo: Sorry, sorry about this. This, did anybody in this group, in this village, had any of them been to Ursk?",
+          "Delwath: Yeah, they were telling us a little bit about, but they don't know it well. They've only ever been to the Trade City.",
+          "Kenzo: Did anybody want to help guide us to the Trade city, or is that, did we not tease that out?",
+          "DM: Well, Ketcha can get us to the Trade city and Yota's willing to come along and—",
+          "Kenzo: Alright, great."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Ketcha can guide; Yota offers wilderness help",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2434",
+        "endUid": "u2442"
+      },
+      "lines": [
+        "%% u2434:0-102 %%",
+        "Kenzo: Sorry, sorry about this. This, did anybody in this group, in this village, had any of them been to Ursk?",
+        "",
+        "%% u2435:0-118 %%",
+        "Delwath: Yeah, they were telling us a little bit about, but they don't know it well. They've only ever been to the Trade City.",
+        "",
+        "%% u2436:0-91 %%",
+        "Kenzo: Did anybody want to help guide us to the Trade city, or is that, did we not tease that out?",
+        "",
+        "%% u2437:0-42, u2438:0-36 %%",
+        "DM: Well, Ketcha can get us to the Trade city and Yota's willing to come along and—",
+        "",
+        "%% u2439:0-13 %%",
+        "Kenzo: Alright, great.",
+        "",
+        "%% u2440:0-106 %%",
+        "DM: Help you survive in the wilderness if needed. But she's not gonna go into Ursk. She's gonna stay with him.",
+        "",
+        "%% u2441:0-67, u2442:0-41 %%",
+        "Kenzo: That's fine. That's, that's wonderful. Thing goes there, that's sweet. And then we can learn more along the way.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You could probably get, wow, at least into the mountains, maybe not to the other side of the— They do patrol them, but southern border of the mountains lightly.",
+          "Delwath: So we either park in the southern foothills or—",
+          "Riswynn: 20 miles west of Zvervinka. Sure. Sorry, if they can see us from 50 miles away, 70 miles west of Zvervinka, right?",
+          "Delwath: What? But again, I guess I don't quite know what our next step is.",
+          "Riswynn: We need to hang around in Ursk long enough to find this jade hand thing, means we need to find the, like, seedy underbelly of Ursk's politics and get in touch with the people who don't have power and help, you know, recruit them into helping us find this thing from the people who do have power."
+        ],
+        "after": [
+          "Delwath: But we're trying to decide where to go.",
+          "DM: But I really, what I really would appreciate you making some decision about is, you want to go to the Trade city? Or do you want to try to cut across these mountains and sneak into the western border?",
+          "Kenzo: I think we want to go to the Trade City. I think we want to go to Trade City. We need to learn more. You know what we're doing if we like crossed over there, like, then we're like, we just like walk into like some trap. We need to like get more information, I think. Get closer, talk to more people, learn what we can. The only risk with the Trade city is the dwarves will really stand out.",
+          "Riswynn: I mean, will really stand out on the western frontier also.",
+          "Kenzo: When we go to the town, they stay on the ship. We just need to go into the port, the trading area, to like talk to people. It's like reconnaissance. But you gotta learn. You gotta figure out, like, we, we don't know anything about Ursk."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "A future stay for preparation and stories",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2462",
+        "endUid": "u2480"
+      },
+      "lines": [
+        "%% u2462:0-71 %%",
+        "Seeker: We are going to need in the interim to train up Faldrak well enough to—",
+        "",
+        "%% u2463:0-95, u2464:0-17, u2465:0-30, u2466:0-56 %%",
+        "Delwath: I mean, do we want to take 2 weeks? Do we want to take 2 weeks to get there and use the time to train up Faldrak, use our bastion investigation, try and learn a little bit of Ursk and things like that?",
+        "",
+        "%% u2467:0-17 %%",
+        "Kenzo: Oh, that's smart.",
+        "",
+        "%% u2468:0-71, u2469:0-142 %%",
+        "Delwath: That's good idea. Instead of just going straight for as fast as we can. I mean, I don't know if there's any risk. I guess it's hard to know. Are we gonna, like, attract 6 more dragons as we go, or something? That, but—",
+        "",
+        "%% u2470:0-21 %%",
+        "Riswynn: That was my question.",
+        "",
+        "%% u2471:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u2472:0-16, u2473:0-12, u2474:0-43, u2475:0-80, u2476:0-143 %%",
+        "DM: I think that the sense of the, of the people in the village you talk to is, traveling slowly and ostentatiously across the landscape is probably a bad idea. Hang out with them with the ship hidden under Hallucinatory Terrain for 2 weeks to learn what you can, and then moving fast would not be risky.",
+        "",
+        "%% u2477:0-42 %%",
+        "Seeker: That makes sense. Then, yeah, let's do it.",
+        "",
+        "%% u2478:0-53 %%",
+        "Delwath: We could do that. Yeah, let's do that. Let's do that.",
+        "",
+        "%% u2479:0-63, u2480:0-21 %%",
+        "Kenzo: Tim, I take that time to, that 2 weeks, to record lots of stories. Perfect. Learn about—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I just, all I need to know is which part of Ursk should I flesh out first? So if you're happy going to the Trade city?",
+          "Delwath: Yeah, that's fine. I think we need some reconnaissance. So it's gonna take us, what? How many days would it take us to get there? We, 10 days, 15 days?",
+          "DM: So, assuming you fly 24 h, as is typical.",
+          "Delwath: Like 4 days, 700 and—",
+          "DM: 80 miles, let's say, before you wanna think about ditching the ship. So, so that's 3 and a half days."
+        ],
+        "after": [
+          "DM: It's, it's midnight now, and we have a plan for what everybody, yeah, but what I need to make up for next session. But I'm gonna suggest that we stop there. We can do another, like, email, like stuff you want to do in the village between now and next session, and we'll probably just pick up next session, like, arriving outside of the Trade City.",
+          "Kenzo: Is next session Sunday the tenth?",
+          "Delwath: Sunday. That's what's in my calendar.",
+          "Kenzo: Alright.",
+          "Seeker: Cool. Awesome, guys. Alright, you're definitely the official, the official DALL-E illustrator of the campaign. I just spend the most time doing it. So did you send a text? Yeah. Seeker harvesting the—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
