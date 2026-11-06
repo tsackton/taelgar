@@ -1,0 +1,218 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-time-markers.json",
+    "sha256": "78cd8e1c8678b0e0f442d73e71549e48b617256ec428bfc84bac30a781674395"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-transcript.md",
+    "sha256": "9bd0eab39c2a482f167eb379e5c5a58ef5d09c4d6934a304061bbeeb2573eb30"
+  },
+  "dateAssessment": "Working calendar: session YAML, May 20–21, 1749 DR. The complete transcript supports one 5 p.m.–1 a.m. overnight, so its relative span matches conditionally; no month/day is spoken. Narrative-only session 107 independently covers the May 18 landing and exploration; 108 spans May 18–19, and 109 covers May 19 and closes with return to Dimitaur to sleep. That handoff is compatible with 110’s morning opening, not evidence that neighboring transcript numbers directly connect. The Session 110 campaign note still starts May 19 in its header, while its raw notes explicitly start May 20. Existing timeline sidecars claim prior date approval and resolve the repeated 2 a.m. as 3 a.m.; they are preserved as evidence, without transferring approval or closing the conflict in t20. The magical sunrise supplies no exact civil clock. Final sailing to Vindristjarna has no duration or arrival watch.",
+  "watches": [
+    {
+      "day": "May 20, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The ongoing opening is explicitly morning.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1749-05-20",
+      "endDate": "1749-05-20"
+    },
+    {
+      "day": "May 20, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Ghesh arrival about 11 a.m.; the escort comes about 1 p.m.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1749-05-20",
+      "endDate": "1749-05-20"
+    },
+    {
+      "day": "May 20, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "One-hour escorted journey reaches the audience around 2 p.m.; the agreed return is approximately 4 p.m.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06",
+        "t07"
+      ],
+      "startDate": "1749-05-20",
+      "endDate": "1749-05-20"
+    },
+    {
+      "day": "May 20, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Rescue takes 15–20 minutes in all, including ten-minute rest; the later temple clock is corrected to 5 p.m.",
+      "markers": [
+        "t08",
+        "t09",
+        "t10",
+        "t11"
+      ],
+      "startDate": "1749-05-20",
+      "endDate": "1749-05-20"
+    },
+    {
+      "day": "May 20–21, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Eight-hour rest runs approximately 5 p.m.–1 a.m.; its shared historical vision adds no adventure days.",
+      "markers": [
+        "t12",
+        "t13",
+        "t14"
+      ],
+      "scope": "Party rest and shared dream",
+      "startDate": "1749-05-20",
+      "endDate": "1749-05-21"
+    },
+    {
+      "day": "May 20, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "Delwath’s four-hour rest and one-hour short rest occur within the party’s eight hours, roughly 5–10 p.m.",
+      "markers": [
+        "t15",
+        "t16"
+      ],
+      "scope": "Delwath; parallel rest",
+      "startDate": "1749-05-20",
+      "endDate": "1749-05-20"
+    },
+    {
+      "day": "May 21, 1749",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "Long rest completes about 1 a.m.; the scouts’ sleep lasts one minute.",
+      "markers": [
+        "t17",
+        "t18"
+      ],
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-21"
+    },
+    {
+      "day": "May 21, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Milo and Tilly arrive one hour later, about 2 a.m.",
+      "markers": [
+        "t19"
+      ],
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-21"
+    },
+    {
+      "day": "May 21, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Another hour passes, but release is reported as both 2 and 3 a.m.; the endpoint remains disputed.",
+      "markers": [
+        "t20"
+      ],
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-21"
+    },
+    {
+      "day": "May 21, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Repair takes about thirty minutes, then fifteen minutes to approach; the battle’s sunrise is magical.",
+      "markers": [
+        "t21",
+        "t22",
+        "t23"
+      ],
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-21"
+    },
+    {
+      "day": "May 21, 1749",
+      "startWatch": "dawn",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Descent takes about two hours; preceding short-rest credit may overlap. Exploration reaches roughly dawn or morning.",
+      "markers": [
+        "t24",
+        "t25"
+      ],
+      "scope": "Party descent; rest placement remains open",
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-21"
+    },
+    {
+      "day": "May 21, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "After descent and rest, another two hours sorting treasure put completion approximately in morning.",
+      "markers": [
+        "t26"
+      ],
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-21"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Narrative-only session 107",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md",
+      "sha256": "39682711279b31db958790d59901476d5669c1649af079b8c5275be5c19bd9ef"
+    },
+    {
+      "label": "Session 107 manifest",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml",
+      "sha256": "0d6fc292ea394e4413c26ad554657f9acfde23b512f71bd1bc09fae6215e74f1"
+    },
+    {
+      "label": "Session 108 chronology",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md",
+      "sha256": "b2f79939d1d8ed24c6b3d890b2a3f42f324a6533f77049735a36dcbef3d32e32"
+    },
+    {
+      "label": "Session 109 chronology",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 109 (DuFr).md",
+      "sha256": "ac76a098fdd1c515d61ebe703c5726d00cf63acdcee075a9db634e7284945423"
+    },
+    {
+      "label": "Session 109 closing handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-transcript.md",
+      "sha256": "bc3f08c9837ed8f1553993327bf05e5c45b979655630ae6d05ec31e11aa4d69b"
+    },
+    {
+      "label": "Session 110 dated note",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 110 (DuFr).md",
+      "sha256": "468b1b52f1b7e8a1c2c037460111c027c9d93d6294dbe99b5c96bd99bcd4b09c"
+    },
+    {
+      "label": "Preserved timeline evidence",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-timeline-evidence.json",
+      "sha256": "56055b88cbbbfa631bcdac5b821c86d3a6178c0ecd32ad2be4d16149a7e127b8"
+    },
+    {
+      "label": "Preserved timeline review",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-timeline-review.json",
+      "sha256": "8d15e458c51523bb81036160857cb9019e87f9fc1ecf45e05ce0b37d64f2257e"
+    }
+  ]
+}

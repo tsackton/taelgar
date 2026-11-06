@@ -1,0 +1,1310 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-110",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+    "sessionYamlSha256": "dabad7b99b93e59fc3061ec625242ee97a70866e265ee1b474176dd127a7cdb9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-transcript.md",
+    "transcriptSha256": "9bd0eab39c2a482f167eb379e5c5a58ef5d09c4d6934a304061bbeeb2573eb30",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-segments.json",
+      "sha256": "fb6d5e24918fee622b8960a44fc2c617a880121df5f2f1dde9c7fde9075a5082",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s017",
+      "encounter": "Fiend guarding the prison beneath the villa",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "turn",
+          "summary": "Scatters the four PCs and the awakened ladder through the wall into the guarded room before initiative, placing Seeker at the mirror and the others around the fiend.",
+          "evidence": [
+            {
+              "startUid": "u4368",
+              "endUid": "u4412"
+            },
+            {
+              "startUid": "u4526",
+              "endUid": "u4569"
+            }
+          ]
+        },
+        {
+          "actor": "Kenzo",
+          "kind": "turn",
+          "summary": "Activates Len’ghal’s Claw before the initiative cycle.",
+          "evidence": [
+            {
+              "startUid": "u4496",
+              "endUid": "u4499"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath",
+          "kind": "turn",
+          "summary": "Recovers a spell slot with Elmerca’s wand; Aid gives Kenzo, Seeker and Delwath 20 additional maximum hit points.",
+          "evidence": [
+            {
+              "startUid": "u4500",
+              "endUid": "u4506"
+            },
+            {
+              "startUid": "u4575",
+              "endUid": "u4586"
+            }
+          ]
+        },
+        {
+          "actor": "Seeker",
+          "kind": "turn",
+          "summary": "Uses three glove charges to give the ladder a retaliatory water slam and distributes Bardic Inspiration to the three other PCs and the ladder. Swaps initiative with Kenzo, taking the first turn.",
+          "evidence": [
+            {
+              "startUid": "u4514",
+              "endUid": "u4524"
+            },
+            {
+              "startUid": "u4613",
+              "endUid": "u4665"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Identifies the enormous mirror by touch: it is a one-way scrying mirror from Ra’ghemdros’s lair into this room.",
+              "evidence": [
+                {
+                  "startUid": "u4666",
+                  "endUid": "u4709"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Attempts to grapple the fiend; the fiend succeeds on its saving throw.",
+              "evidence": [
+                {
+                  "startUid": "u4820",
+                  "endUid": "u4865"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and hits the fiend for 22 damage after the damage correction. The fiend succeeds on the DC 18 Dexterity save and avoids blindness; Wellby’s hit grants subsequent attackers advantage.",
+              "evidence": [
+                {
+                  "startUid": "u4866",
+                  "endUid": "u4896"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Marks the fiend and attacks three times with advantage for 26, 32 and 35 damage. The sword’s bonus radiant damage prevents the fiend’s regeneration.",
+              "evidence": [
+                {
+                  "startUid": "u4898",
+                  "endUid": "u4940"
+                },
+                {
+                  "startUid": "u5512",
+                  "endUid": "u5527"
+                }
+              ]
+            },
+            {
+              "actor": "Fiend",
+              "kind": "legendary_action",
+              "summary": "Whips Delwath as a legendary action; 20 misses.",
+              "evidence": [
+                {
+                  "startUid": "u4941",
+                  "endUid": "u4948"
+                }
+              ]
+            },
+            {
+              "actor": "Fiend",
+              "kind": "turn",
+              "summary": "On its turn, attacks Delwath with whip, bite and claw. The whip is deflected by Delwath’s reaction; the bite hits for 26 fire and the claw for 12 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u4949",
+                  "endUid": "u4998"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Mark of the Hunter to deflect the fiend’s whip; the icy shield manifestation turns the hit into a miss.",
+              "evidence": [
+                {
+                  "startUid": "u4954",
+                  "endUid": "u4964"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul-sights the fiend: immune to fire, poison, charm, exhaustion, fear and poison condition; Charisma is strongest and Intelligence weakest. With advantage, hits for 10; the fiend succeeds on the DC 16 Constitution Stunning Strike save. Fist of Planar Power fails its DC 16 Strength save for 19 psychic damage. Of three flurry attacks one misses and two hit for 20 and 13.",
+              "evidence": [
+                {
+                  "startUid": "u4999",
+                  "endUid": "u5113"
+                }
+              ],
+              "note": "Moving the fiend is discussed after Planar Power, but no displacement or resulting opportunity attack is resolved."
+            },
+            {
+              "actor": "Fiend",
+              "kind": "legendary_action",
+              "summary": "Teleports to the corner by the lava at the end of Kenzo’s turn.",
+              "evidence": [
+                {
+                  "startUid": "u5114",
+                  "endUid": "u5117"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Summons a sixth-level clay construct beside the fiend. Commands the ladder to fly above the melee and strike.",
+              "evidence": [
+                {
+                  "startUid": "u5129",
+                  "endUid": "u5177"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Attacks with advantage and critically hits for 15 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u5178",
+                  "endUid": "u5199"
+                }
+              ]
+            },
+            {
+              "actor": "Fiend",
+              "kind": "legendary_action",
+              "summary": "Whips Delwath before the construct acts. Delwath adds Bardic Inspiration to reach 25 against the DC 24 Strength save and resists the pull into lava. The final damage is stated as 13 necrotic and 11 fire.",
+              "evidence": [
+                {
+                  "startUid": "u5220",
+                  "endUid": "u5269"
+                }
+              ],
+              "note": "The initial 13 lightning wording precedes the final necrotic/fire statement; a later whip is explicitly corrected away from lightning at u5853–u5854. No additional lightning total is inferred."
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "turn",
+              "summary": "Attacks three times with advantage immediately after Seeker: two hit and one misses, dealing 32 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u5277",
+                  "endUid": "u5330"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Flies to the 20-foot ceiling and hits for 30 damage. The fiend again succeeds on the DC 18 Dexterity save against blindness and is bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u5354",
+                  "endUid": "u5394"
+                }
+              ]
+            },
+            {
+              "actor": "Fiend",
+              "kind": "legendary_action",
+              "summary": "Whips Delwath for 18 damage. His Strength save, even with attempted inspiration, and subsequent Dexterity save fail; the whip drags him into lava.",
+              "evidence": [
+                {
+                  "startUid": "u5396",
+                  "endUid": "u5443"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Takes 25 fire at the start of his turn, climbs out of lava, drinks a healing potion (37 healing is called out), and critically smites with his first sword attack for 74 plus 68 damage. The next rolls are 16 and 17, without additional stated damage.",
+              "evidence": [
+                {
+                  "startUid": "u5448",
+                  "endUid": "u5629"
+                }
+              ],
+              "note": "The 16 is explicitly a miss. The 17 receives an ambiguous “Yes” but no resolved damage; it is retained without manufacturing a hit or damage."
+            },
+            {
+              "actor": "Fiend",
+              "kind": "legendary_action",
+              "summary": "Casts an opaque, ceiling-high Wall of Fire as a legendary action, enclosing Delwath, ladder and construct. Delwath and ladder fail Dexterity saves and take 19 fire; the construct succeeds for half. Delwath foresees that Counterspell would be resisted and declines to cast it.",
+              "evidence": [
+                {
+                  "startUid": "u5633",
+                  "endUid": "u5728"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "reaction",
+              "summary": "Reacts to the fire with a slam for 16 damage. The fiend spends Legendary Resistance to maintain concentration.",
+              "evidence": [
+                {
+                  "startUid": "u5729",
+                  "endUid": "u5757"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "reaction",
+              "summary": "Uses its water-effect reaction to slam for 11 damage; the fiend succeeds naturally on its concentration save.",
+              "evidence": [
+                {
+                  "startUid": "u5766",
+                  "endUid": "u5812"
+                }
+              ]
+            },
+            {
+              "actor": "Fiend",
+              "kind": "turn",
+              "summary": "Bites, claws and whips Delwath. Shield blocks the bite at AC 26, but the claw hits for 16 force and the whip for 13 fire plus 14 necrotic after the lightning correction. Delwath falls unconscious at the end of the fiend’s turn.",
+              "evidence": [
+                {
+                  "startUid": "u5815",
+                  "endUid": "u5857"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield against the bite, raising AC to 26 until his next turn; subsequent 27s still hit.",
+              "evidence": [
+                {
+                  "startUid": "u5817",
+                  "endUid": "u5834"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Step of the Wind to enter the fire, taking 16 fire with no save, and hits twice with the claw for 15 and 7. A failed Stunning Strike save costs the fiend another Legendary Resistance. Carries unconscious Delwath out to Seeker; crossing the fire gives Delwath one failed death save. Kenzo ends away from the others.",
+              "evidence": [
+                {
+                  "startUid": "u5859",
+                  "endUid": "u6042"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fifth-level Healing Word as a bonus action, restoring Delwath for 28. The ladder cannot make its commanded attack this turn.",
+              "evidence": [
+                {
+                  "startUid": "u6043",
+                  "endUid": "u6094"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "turn",
+              "summary": "Makes three attacks without advantage; all hit for 44 bludgeoning. The fiend succeeds on all three concentration saves. Both the construct and ladder take 22 fire at the ends of their turns.",
+              "evidence": [
+                {
+                  "startUid": "u6096",
+                  "endUid": "u6156"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses the clockwork amulet for a 21 attack after advantage and the opaque wall’s disadvantage cancel. Hits for 29; the fiend fails the DC 18 Dexterity save and is blinded, retaining its last Legendary Resistance. It maintains Wall of Fire with a 19 concentration save.",
+              "evidence": [
+                {
+                  "startUid": "u6223",
+                  "endUid": "u6268"
+                }
+              ]
+            },
+            {
+              "actor": "Fiend",
+              "kind": "legendary_action",
+              "summary": "Makes two legendary whip attacks against Wellby with disadvantage. The first is reduced to 11 by Uncanny Dodge; Bardic Inspiration, rerolled with Heroic Inspiration, lets Wellby resist the DC 24 Strength pull and grants 12 temporary hit points. The second hits for 25; his failed Strength save pulls the flying Wellby into the fire and against the wall above the fiend for another 24 damage.",
+              "evidence": [
+                {
+                  "startUid": "u6280",
+                  "endUid": "u6392"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to halve the first whip hit to the final stated 11 damage.",
+              "evidence": [
+                {
+                  "startUid": "u6290",
+                  "endUid": "u6299"
+                },
+                {
+                  "startUid": "u6352",
+                  "endUid": "u6357"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Quickens Dimension Door to return beside the blinded fiend, then attacks with advantage. His 57-damage smite knocks it prone and breaks Wall of Fire (concentration 22 fails; no last Legendary Resistance spent). The next hit deals 23, and the final sword strike kills it. The fiend vanishes, leaving the black iron key described later.",
+              "evidence": [
+                {
+                  "startUid": "u6393",
+                  "endUid": "u6487"
+                },
+                {
+                  "startUid": "u6942",
+                  "endUid": "u6956"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Delwath kills the fiend, which vanishes. The subsequent discovery establishes that it left a black iron key made by Cha’mutte; the party uses it to open the prison portal after the encounter.",
+        "evidence": [
+          {
+            "startUid": "u6479",
+            "endUid": "u6487"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s024",
+      "encounter": "Defense of the summit monastery against Ra’ghemdros, four chimeras and thirteen dragonets",
+      "openingActions": [
+        {
+          "actor": "Tilly",
+          "kind": "turn",
+          "summary": "Fourth-level Aid raises Wellby, Milo and Tilly’s hit-point maximum by 15 each; this is explicitly not temporary HP. Gives everyone two goodberries for bringing downed allies back.",
+          "evidence": [
+            {
+              "startUid": "u9615",
+              "endUid": "u9627"
+            },
+            {
+              "startUid": "u9783",
+              "endUid": "u9785"
+            },
+            {
+              "startUid": "u10947",
+              "endUid": "u10949"
+            }
+          ]
+        },
+        {
+          "actor": "Tilly",
+          "kind": "turn",
+          "summary": "Summons the fifth-level draconic spirit before initiative, joining the flying team. The chromatic choice is resistant to acid and cold; Tilly has 60-foot flight and initially shares acid resistance while the spirit persists. The initial stone construct and ladder are already positioned with the allies.",
+          "evidence": [
+            {
+              "startUid": "u10302",
+              "endUid": "u10325"
+            },
+            {
+              "startUid": "u10733",
+              "endUid": "u10818"
+            }
+          ]
+        },
+        {
+          "actor": "Seeker",
+          "kind": "turn",
+          "summary": "Distributes Bardic Inspiration to Kenzo, Delwath, Wellby, the stone construct and Tilly; Milo declines it.",
+          "evidence": [
+            {
+              "startUid": "u10507",
+              "endUid": "u10556"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Party and allies",
+              "kind": "turn",
+              "summary": "At 600 feet, Wellby waits. Kenzo drinks Enlarge (one potion this turn); Delwath casts his first preparation spell and drinks Fly. Seeker does not commit his long-range rune. Milo and Tilly spread the flying allies into a row.",
+              "evidence": [
+                {
+                  "startUid": "u10821",
+                  "endUid": "u10848"
+                }
+              ]
+            },
+            {
+              "actor": "Chimeras and dragonets",
+              "kind": "turn",
+              "summary": "Advance 120 feet, from 600 to 480 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u10849",
+                  "endUid": "u10852"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves 90 feet toward the enemy to bring the next approach within range. Kenzo and Delwath agree to fly on parallel tracks 30 feet apart.",
+              "evidence": [
+                {
+                  "startUid": "u10853",
+                  "endUid": "u10878"
+                }
+              ]
+            },
+            {
+              "actor": "Chimeras and dragonets",
+              "kind": "turn",
+              "summary": "Continue the compressed approach from 480 toward 360 feet.",
+              "evidence": [
+                {
+                  "startUid": "u10869",
+                  "endUid": "u10876"
+                }
+              ],
+              "note": "The preparation rounds are compressed in narration; distances establish the approach more securely than each individual turn."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Party and enemies",
+              "kind": "turn",
+              "summary": "The table skips the remaining preparation to the round starting at 240 feet. Kenzo has now drunk both potions, Enlarge and Heroism. No additional specific spell or individual enemy attack is resolved during the skip. Heroism’s Bless d4 applies to attacks and saves rather than initiative; Kenzo also confirms ten extra hit points.",
+              "evidence": [
+                {
+                  "startUid": "u10895",
+                  "endUid": "u10935"
+                },
+                {
+                  "startUid": "u10582",
+                  "endUid": "u10598"
+                },
+                {
+                  "startUid": "u10670",
+                  "endUid": "u10675"
+                }
+              ],
+              "note": "The DM briefly calls this third/second round, then explicitly fixes the first shooting round as round four at u11002–u11004. Three preparation rounds are retained without invented actions."
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Drinks Haste as a bonus action, uses Steady Aim and hits chimera 1 for 41. Readies the extra shot for its movement closer.",
+              "evidence": [
+                {
+                  "startUid": "u10944",
+                  "endUid": "u11058"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Waits until the chimeras are within 90 feet for Soul Sight.",
+              "evidence": [
+                {
+                  "startUid": "u11059",
+                  "endUid": "u11062"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Waits, conserving spell slots.",
+              "evidence": [
+                {
+                  "startUid": "u11063",
+                  "endUid": "u11067"
+                }
+              ]
+            },
+            {
+              "actor": "Tilly",
+              "kind": "turn",
+              "summary": "Flies forward and casts fourth-level Ice Storm on chimeras 1 and 2. Both fail DC 17 Dexterity saves and take 21 each; she retreats to a roof.",
+              "evidence": [
+                {
+                  "startUid": "u11068",
+                  "endUid": "u11133"
+                }
+              ]
+            },
+            {
+              "actor": "Chimeras and dragonets",
+              "kind": "turn",
+              "summary": "Move another 120 feet closer in formation.",
+              "evidence": [
+                {
+                  "startUid": "u11134",
+                  "endUid": "u11138"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "The approach triggers his readied shot: hits chimera 1 for 37, bloodying it.",
+              "evidence": [
+                {
+                  "startUid": "u11139",
+                  "endUid": "u11147"
+                }
+              ]
+            },
+            {
+              "actor": "Milo",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and hits a chimera for 22.",
+              "evidence": [
+                {
+                  "startUid": "u11153",
+                  "endUid": "u11179"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits and kills chimera 1; no damage total is stated.",
+              "evidence": [
+                {
+                  "startUid": "u11208",
+                  "endUid": "u11214"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves close enough for Soul Sight: chimera CR 6, immune to fear, strongest Strength and weakest Intelligence. His Acid Arrow misses with 12; he retreats.",
+              "evidence": [
+                {
+                  "startUid": "u11219",
+                  "endUid": "u11262"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Readies Eldritch Blast for the first chimera within 120 feet.",
+              "evidence": [
+                {
+                  "startUid": "u11268",
+                  "endUid": "u11317"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses a doubled-range fifth-level Rune of Psychic Disruption on chimera 2. It fails the DC 18 Intelligence save with 5, taking 22 psychic plus 18 falling damage from 50 feet; incapacitated until the start of Seeker’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u11318",
+                  "endUid": "u11377"
+                }
+              ]
+            },
+            {
+              "actor": "Tilly",
+              "kind": "turn",
+              "summary": "Casts Ice Storm on chimeras 3 and 4; both fail DC 17 saves, taking 14 each.",
+              "evidence": [
+                {
+                  "startUid": "u11379",
+                  "endUid": "u11416"
+                }
+              ]
+            },
+            {
+              "actor": "Chimeras",
+              "kind": "turn",
+              "summary": "Close onto the battlefield; the fallen chimera lags behind. No melee attack is resolved on this approach.",
+              "evidence": [
+                {
+                  "startUid": "u11415",
+                  "endUid": "u11416"
+                },
+                {
+                  "startUid": "u11634",
+                  "endUid": "u11637"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "The readied shot hits fallen chimera 2 for 7 without Sneak Attack: prone-target disadvantage cancels advantage.",
+              "evidence": [
+                {
+                  "startUid": "u11417",
+                  "endUid": "u11445"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Resolves the recalled readied Eldritch Blast on the approach: of three beams, one resolved hit deals 3 damage. Withdraws the competing Absorb Elements reaction and restores the 16 damage initially removed after the breath.",
+              "evidence": [
+                {
+                  "startUid": "u11638",
+                  "endUid": "u11658"
+                }
+              ],
+              "note": "Recalled after the breath, but its trigger is the chimeras’ approach; the final breath damage remains 70 to Delwath."
+            },
+            {
+              "actor": "Milo",
+              "kind": "turn",
+              "summary": "Changes target from the prone chimera to another chimera and hits for 30.",
+              "evidence": [
+                {
+                  "startUid": "u11446",
+                  "endUid": "u11463"
+                }
+              ]
+            },
+            {
+              "actor": "Ra’ghemdros",
+              "kind": "turn",
+              "summary": "Appears from invisibility and breathes a 90-by-20-foot line: DC 22 Dexterity, 32 acid plus 38 necrotic. Delwath fails for 70; Kenzo succeeds with 23 and Evasion for zero. Milo fails despite Bardic Inspiration (20) and takes 35 through Evasion. Ladder fails for 70, leaving 15 HP; the initial stone construct fails and is destroyed. Tilly’s draconic spirit fails, taking 38 necrotic plus 16 resisted acid and vanishes. Daylight prevents the breath’s lasting darkness scars.",
+              "evidence": [
+                {
+                  "startUid": "u11465",
+                  "endUid": "u11630"
+                },
+                {
+                  "startUid": "u11707",
+                  "endUid": "u11707"
+                }
+              ],
+              "note": "The spirit’s spoken arithmetic says 48, but the two stated components are 38 and 16; no additional damage is inferred."
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits chimera 3 for the stated 50 including 16 fire from four charges. Sacrifices a Sneak Attack die to withdraw 45 feet upward and readies another shot at chimera 3.",
+              "evidence": [
+                {
+                  "startUid": "u11683",
+                  "endUid": "u11754"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Closes with the dragon and makes five claw attacks without advantage. All hit, including a critical, for 13, 12, 22, 36 and 15 (98 stated total). The dragon is immune to Stunning Strike.",
+              "evidence": [
+                {
+                  "startUid": "u11755",
+                  "endUid": "u11933"
+                }
+              ]
+            },
+            {
+              "actor": "Dragonets",
+              "kind": "turn",
+              "summary": "Dash into two swarms: seven surround Wellby and six close on Tilly. Dashing prevents attacks this turn.",
+              "evidence": [
+                {
+                  "startUid": "u11934",
+                  "endUid": "u11987"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Closes into the fear aura; succeeds on Wisdom with advantage from Kenzo and becomes immune to that fear. Marks the dragon and attacks: first hit 24, critical smite 48 plus 45, then adds 5 for the forgotten mark; third roll 17 misses.",
+              "evidence": [
+                {
+                  "startUid": "u11991",
+                  "endUid": "u12104"
+                }
+              ]
+            },
+            {
+              "actor": "Ra’ghemdros",
+              "kind": "legendary_action",
+              "summary": "Uses legendary acid globules. Kenzo and Milo succeed; Delwath’s Favor of the Gods raises his save to 22, succeeding. Seeker still fails with 17 after Heroic Inspiration; Tilly fails. Each takes 14 acid and retains a globule that deals 14 at turn end unless removed by an action.",
+              "evidence": [
+                {
+                  "startUid": "u12105",
+                  "endUid": "u12187"
+                }
+              ]
+            },
+            {
+              "actor": "Tilly",
+              "kind": "reaction",
+              "summary": "Uses Absorb Elements against the initial globule damage, reducing it to 7; that resistance expires at the start of her next turn.",
+              "evidence": [
+                {
+                  "startUid": "u12183",
+                  "endUid": "u12187"
+                },
+                {
+                  "startUid": "u12435",
+                  "endUid": "u12438"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Summons an eighth-level stone construct on the dragon’s back. Moves back toward cover after commanding his allies.",
+              "evidence": [
+                {
+                  "startUid": "u12202",
+                  "endUid": "u12249"
+                },
+                {
+                  "startUid": "u12384",
+                  "endUid": "u12398"
+                }
+              ]
+            },
+            {
+              "actor": "Stone construct",
+              "kind": "turn",
+              "summary": "Makes four slams: 28 and 21 hit, 16 and 11 miss, for 27 total. Stony Lethargy will require the nearby dragon’s Wisdom save at the start of its turn.",
+              "evidence": [
+                {
+                  "startUid": "u12283",
+                  "endUid": "u12320"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Is immune to fear and too small to grapple this gargantuan dragon; instead slams it for 12.",
+              "evidence": [
+                {
+                  "startUid": "u12325",
+                  "endUid": "u12383"
+                }
+              ]
+            },
+            {
+              "actor": "Tilly",
+              "kind": "turn",
+              "summary": "Takes 4 swarm acid at turn start, then casts second-level Thunderwave: DC 17 Constitution, five dragonets fail and die; one succeeds for 5 damage. Flies 60 feet away. The globule’s end-turn damage is corrected to 14 after the resistance expires.",
+              "evidence": [
+                {
+                  "startUid": "u12399",
+                  "endUid": "u12459"
+                },
+                {
+                  "startUid": "u12595",
+                  "endUid": "u12601"
+                }
+              ],
+              "note": "A later Bardic Inspiration bookkeeping correction restores four hit points, corresponding to its temporary-hit-point benefit."
+            },
+            {
+              "actor": "Chimeras",
+              "kind": "turn",
+              "summary": "Chimera 3 fails DC 13 Constitution against ongoing fire and takes 14 more. Chimera 2 dashes, still lagging. Chimera 3 closes on Wellby, whose readied shot triggers before its attacks.",
+              "evidence": [
+                {
+                  "startUid": "u12460",
+                  "endUid": "u12539"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Hits the approaching chimera 3 for 25 with his readied shot.",
+              "evidence": [
+                {
+                  "startUid": "u12512",
+                  "endUid": "u12524"
+                }
+              ]
+            },
+            {
+              "actor": "Chimera 3",
+              "kind": "turn",
+              "summary": "Bites twice: 14 and 20 both miss Wellby’s Haste AC. Its roar initially frightens him (Wisdom 14), but Bardic Inspiration and its reroll succeed and grant 9 temporary HP. Its fire breath is evaded with Dexterity 24 for zero and kills a nearby dragonet.",
+              "evidence": [
+                {
+                  "startUid": "u12541",
+                  "endUid": "u12649"
+                }
+              ]
+            },
+            {
+              "actor": "Chimera 4",
+              "kind": "turn",
+              "summary": "Dashes behind Wellby, so cannot attack with its heads. Its bonus-action roar fails against Wellby’s Wisdom 17.",
+              "evidence": [
+                {
+                  "startUid": "u12650",
+                  "endUid": "u12668"
+                }
+              ]
+            },
+            {
+              "actor": "Milo",
+              "kind": "turn",
+              "summary": "Shoots and kills chimera 3, which had eight hit points left; no damage total is established.",
+              "evidence": [
+                {
+                  "startUid": "u12691",
+                  "endUid": "u12720"
+                }
+              ]
+            },
+            {
+              "actor": "Ra’ghemdros",
+              "kind": "turn",
+              "summary": "Succeeds on Stony Lethargy with Wisdom 25. Bites Delwath (19 misses), claws (24 blocked by Shield), and hits with the next claw (32) for 15 slashing, pushing him 15 feet. Flies onto the lighthouse with the construct on its back, triggering opportunity attacks and Dimitaur’s held spell. Knocks one drift globe out with its object interaction, reducing the lighthouse radius to 300 feet.",
+              "evidence": [
+                {
+                  "startUid": "u12721",
+                  "endUid": "u12892"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield against the 24 claw; it does not block the subsequent 32.",
+              "evidence": [
+                {
+                  "startUid": "u12748",
+                  "endUid": "u12763"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "reaction",
+              "summary": "Critically hits the departing dragon for 11 force with its opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u12780",
+                  "endUid": "u12802"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Len’ghal’s Claw reach permits his opportunity attack; hits for 18.",
+              "evidence": [
+                {
+                  "startUid": "u12803",
+                  "endUid": "u12811"
+                }
+              ]
+            },
+            {
+              "actor": "Dimitaur",
+              "kind": "reaction",
+              "summary": "Releases his long-held seventh-level Fireball below the dragon for 45 damage, using every charge in the wand. The dragon’s body shields the construct.",
+              "evidence": [
+                {
+                  "startUid": "u12813",
+                  "endUid": "u12871"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes 4 acid at turn start. Abandons disengaging upward and stays as bait; Steady Aim hits formerly prone chimera 2 for 35. Readies another shot at it.",
+              "evidence": [
+                {
+                  "startUid": "u12894",
+                  "endUid": "u12971"
+                }
+              ]
+            },
+            {
+              "actor": "Ra’ghemdros",
+              "kind": "legendary_action",
+              "summary": "Uses a legendary action to become shadowy and incorporeal, resistant to all damage until its next turn.",
+              "evidence": [
+                {
+                  "startUid": "u12972",
+                  "endUid": "u12978"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Retrieves the knocked-out drift globe, then attacks five times. First hit 11 halves to 5, second misses, critical 38 halves to 19, fourth and fifth miss. The dragon is already bloodied from the previous round.",
+              "evidence": [
+                {
+                  "startUid": "u12990",
+                  "endUid": "u13109"
+                }
+              ]
+            },
+            {
+              "actor": "Dragonets",
+              "kind": "turn",
+              "summary": "Swarm attacks Wellby with one group attack (27), dealing 20 acid. His Dexterity 20 prevents being coated.",
+              "evidence": [
+                {
+                  "startUid": "u13110",
+                  "endUid": "u13166"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining chimeras",
+              "kind": "turn",
+              "summary": "Resolved before Delwath out of initiative order: two attacks miss, one hits Wellby for 9 piercing. Another successful mouth attack (22) beats his Strength 6 and throws him 15–20 feet up. He evades its fire with Dexterity 28 for zero. The throw remains accepted during the following Synaptic Static placement.",
+              "evidence": [
+                {
+                  "startUid": "u13167",
+                  "endUid": "u13210"
+                },
+                {
+                  "startUid": "u13239",
+                  "endUid": "u13243"
+                },
+                {
+                  "startUid": "u13308",
+                  "endUid": "u13331"
+                }
+              ],
+              "note": "The following retrospective shot kills an approaching chimera. The source does not explicitly retract the already-resolved attacks or settle which surviving chimera made them."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Recalls the readied shot as the second chimera approaches: a natural 20 deals 51 and kills it, leaving one chimera.",
+              "evidence": [
+                {
+                  "startUid": "u13211",
+                  "endUid": "u13235"
+                }
+              ],
+              "note": "The killed creature is described as the second one and formerly prone chimera 2 was the readied target; the preceding attack/toss sequence is not clearly revised."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Closes and misses all three sword attacks. Quickens Synaptic Static for DC 18 Intelligence; the last chimera fails, taking 32 and a minus d6 penalty. All but two dragonets die; the two successful saves leave 2 HP each. Wellby’s accepted airborne position keeps him out of the spell.",
+              "evidence": [
+                {
+                  "startUid": "u13273",
+                  "endUid": "u13377"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Fifth-level Catapult, using the final earth-elemental glove charge: the dragon fails DC 18 Dexterity with 12; 33 damage halves to 16 through shadow resistance. Seeker takes a further 14 globule damage before gaining acid immunity from the glove, then retreats inside.",
+              "evidence": [
+                {
+                  "startUid": "u13381",
+                  "endUid": "u13488"
+                },
+                {
+                  "startUid": "u13538",
+                  "endUid": "u13542"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Misses its slam.",
+              "evidence": [
+                {
+                  "startUid": "u13489",
+                  "endUid": "u13491"
+                }
+              ]
+            },
+            {
+              "actor": "Stone construct",
+              "kind": "turn",
+              "summary": "All four slams hit for 74 before resistance, 37 after.",
+              "evidence": [
+                {
+                  "startUid": "u13492",
+                  "endUid": "u13532"
+                }
+              ]
+            },
+            {
+              "actor": "Tilly",
+              "kind": "turn",
+              "summary": "Flies into range and gives Delwath third-level Healing Word for 21 healing. Hits the dragon with Ray of Frost for 21, reduced to 10.",
+              "evidence": [
+                {
+                  "startUid": "u13534",
+                  "endUid": "u13605"
+                }
+              ]
+            },
+            {
+              "actor": "Milo",
+              "kind": "turn",
+              "summary": "Moves using Cunning Action and shoots the dragon. Initial 14 misses; Heroic Inspiration rerolls into a hit for 32, halved to 16.",
+              "evidence": [
+                {
+                  "startUid": "u13607",
+                  "endUid": "u13644"
+                }
+              ]
+            },
+            {
+              "actor": "Ra’ghemdros",
+              "kind": "turn",
+              "summary": "At its turn start, shadow resistance ends and it succeeds naturally on DC 18 Wisdom against Stony Lethargy. Kicks out the other drift globe, extinguishing the lighthouse; Kenzo and Delwath retain their own light. Flies up, attempts to dislodge the construct (it holds on with Strength 17), then breathes and repositions 80 feet into a strip of pure darkness. DC 22 Dexterity: Kenzo 27 evades for zero; Delwath succeeds with Heroic and Bardic Inspiration, finally taking 32 after Absorb Elements; the ladder fails and is destroyed by 79 (37 acid, 42 necrotic).",
+              "evidence": [
+                {
+                  "startUid": "u13645",
+                  "endUid": "u13866"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Takes the opportunity attack as the dragon rises: hits for 16, with resistance now ended.",
+              "evidence": [
+                {
+                  "startUid": "u13680",
+                  "endUid": "u13717"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "reaction",
+              "summary": "Hits the rising dragon for 9 with its final opportunity attack before the breath destroys it.",
+              "evidence": [
+                {
+                  "startUid": "u13742",
+                  "endUid": "u13759"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Declines the opportunity attack to preserve his reaction; Absorb Elements against the second breath saves 8, leaving the final stated 32 damage.",
+              "evidence": [
+                {
+                  "startUid": "u13727",
+                  "endUid": "u13727"
+                },
+                {
+                  "startUid": "u13807",
+                  "endUid": "u13833"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 8,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Vex to hit the remaining chimera for 40. Holds his other shot at the dragon until Kenzo restores the lighthouse; Steady Aim on that held shot is accepted as played.",
+              "evidence": [
+                {
+                  "startUid": "u13868",
+                  "endUid": "u13911"
+                }
+              ]
+            },
+            {
+              "actor": "Ra’ghemdros",
+              "kind": "legendary_action",
+              "summary": "Creates two legendary pools of black acid with grasping tendrils, one on a roof and one below. Starting a turn or moving within 30 feet triggers their hazard.",
+              "evidence": [
+                {
+                  "startUid": "u13912",
+                  "endUid": "u13972"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Flies to the lighthouse and dunks the drift globe back into the mechanism, restoring 300 feet of light and dispelling the dragon’s darkness. His flight path avoids the pools, so the requested Strength save is withdrawn.",
+              "evidence": [
+                {
+                  "startUid": "u13973",
+                  "endUid": "u13978"
+                },
+                {
+                  "startUid": "u14010",
+                  "endUid": "u14023"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "The restored light triggers his held shot: attack 30 hits the dragon for 39; the construct supplies the adjacent ally for Sneak Attack.",
+              "evidence": [
+                {
+                  "startUid": "u13979",
+                  "endUid": "u14008"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Makes four attacks: Bardic Inspiration raises the first 17 to 21 and adds its damage benefit for 23; second hits for 20; third misses despite Heroic Inspiration; fourth hits for 21 and kills Ra’ghemdros. Her scar cracks into the magical sunrise and all-around sunset; she falls dead into the Night Queen’s temple.",
+              "evidence": [
+                {
+                  "startUid": "u14024",
+                  "endUid": "u14099"
+                }
+              ]
+            },
+            {
+              "actor": "Last chimera",
+              "kind": "turn",
+              "summary": "Flees after the dragon dies.",
+              "evidence": [
+                {
+                  "startUid": "u14100",
+                  "endUid": "u14101"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Shoots and kills the fleeing last chimera.",
+              "evidence": [
+                {
+                  "startUid": "u14102",
+                  "endUid": "u14110"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Kenzo kills Ra’ghemdros, whose scar bursts into a magical sunrise and all-around sunset as the body crashes into the Night Queen’s temple. Wellby kills the last fleeing chimera. Two loyalist dragonets survived the last resolved area spell; their final disposition is not narrated. The awakened ladder is destroyed, and Dimitaur’s wand has spent all its charges.",
+        "evidence": [
+          {
+            "startUid": "u14078",
+            "endUid": "u14110"
+          },
+          {
+            "startUid": "u13365",
+            "endUid": "u13368"
+          },
+          {
+            "startUid": "u14237",
+            "endUid": "u14243"
+          }
+        ]
+      }
+    }
+  ]
+}

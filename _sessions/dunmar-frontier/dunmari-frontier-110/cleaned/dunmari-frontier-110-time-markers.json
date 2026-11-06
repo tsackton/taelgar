@@ -1,0 +1,722 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-110",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+    "sessionYamlSha256": "dabad7b99b93e59fc3061ec625242ee97a70866e265ee1b474176dd127a7cdb9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-transcript.md",
+    "transcriptSha256": "9bd0eab39c2a482f167eb379e5c5a58ef5d09c4d6934a304061bbeeb2573eb30",
+    "yamlDates": {
+      "start": "1749-05-20",
+      "end": "1749-05-21"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u1326",
+        "endUid": "u1327"
+      },
+      "reading": "The opening planning and mirror-captive encounter occur in the morning.",
+      "evidence": [
+        {
+          "startUid": "u1326",
+          "endUid": "u1327",
+          "quote": "And it's the morning.\n\nUnknown: It's the morning."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "explicit opening morning confirmation"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1734",
+        "endUid": "u1747"
+      },
+      "reading": "Arrival at Ghesh is about 11 a.m., after breakfast, plotting and flight.",
+      "evidence": [
+        {
+          "startUid": "u1734",
+          "endUid": "u1747",
+          "quote": "He's just, he's j- So by the time you get there, it's actually probably, what, like 11:00 or something.\n\nUnknown: Sure.\n\nDM: 'Cause you spend some time, breakfast-\n\nUnknown: Yeah ... so everybody inspiration and— Oh, yeah. Mm.\n\nDM: Um, and, you know, flying even as a fast flying bird still is gonna take an, you know, an hour to say an hour, but still you're...\n\nDelwath: So it's, like, 11:00. I mean, we just spent an hour plotting too. Yeah, yeah.\n\nUnknown: Yeah. Right. Right.\n\nDM: So it's, like, 11:00 when you get to, to Ghesh, and he's actually, he's super happy."
+        }
+      ],
+      "time": {
+        "clock": "11:00",
+        "precision": "approximate",
+        "basis": "stated approximate local clock"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1928",
+        "endUid": "u1928"
+      },
+      "reading": "The dragonet escort arrives at about 1 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1928",
+          "endUid": "u1928",
+          "quote": "Okay. So around one, um, three dragonets show up to escort you to the lair."
+        }
+      ],
+      "time": {
+        "clock": "13:00",
+        "precision": "approximate",
+        "basis": "stated approximate local clock"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1993",
+        "endUid": "u2001"
+      },
+      "reading": "The escorted journey takes about one hour, reaching the dragon’s audience around 2 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1993",
+          "endUid": "u2001",
+          "quote": "That's fine. All right. So I'm, I'm running.\n\nDM: Yeah.\n\nKenzo: ... jogging, and then they're flying alongside.\n\nDM: Yeah.\n\nDelwath: I guess if we, if you're running, I mean, a, a, a lynx can run as fast as Kenzo.\n\nUnknown: Yeah.\n\nDM: So you can be a lynx.\n\nUnknown: A lynx.\n\nDM: But, but it's gonna take you an hour to get there."
+        },
+        {
+          "startUid": "u2063",
+          "endUid": "u2068",
+          "quote": "You run along, um, you run, you get to this road that Seeker saw that sort of cuts through this garish red spongy moss area. You can see the, the four chimeras are, like, flying overhead, just kind of watching. But the, with the dragonet escort, they just completely ignore you.\n\nDM: Um, you run and, and you come to this plaza, right? There's this sort of open round area, and then the two paths, one that leads up to a hill where there's a villa on the hill, and one that leads straight to the thermal baths where Ra'ghemdros' lair is."
+        },
+        {
+          "startUid": "u2529",
+          "endUid": "u2529",
+          "quote": "Yeah, it's like, it's like 2:00."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "corrected journey estimate and later 2 p.m. arrival anchor"
+      },
+      "time": {
+        "clock": "14:00",
+        "precision": "approximate",
+        "basis": "stated approximate local clock"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u3556",
+        "endUid": "u3557"
+      },
+      "reading": "Seeker listens through Clairvoyance for one minute and hears silence.",
+      "evidence": [
+        {
+          "startUid": "u3556",
+          "endUid": "u3557",
+          "quote": "I listen for a minute.\n\nDM: Dead silence."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "stated listening interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u3770",
+        "endUid": "u3776"
+      },
+      "reading": "A short rest is taken while waiting to return for the throne–jade exchange.",
+      "evidence": [
+        {
+          "startUid": "u3770",
+          "endUid": "u3776",
+          "quote": "So if anybody needs to short rest, go ahead and do it.\n\nUnknown: Yeah.\n\nDelwath: Um, we all still have hero... Let's see. I'm gonna short rest. I'm just trying to think if there's anything I want to-"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u3844",
+        "endUid": "u3882"
+      },
+      "reading": "The party returns and completes the agreed exchange, approximately two hours after the 2 p.m. audience (about 4 p.m.).",
+      "evidence": [
+        {
+          "startUid": "u2529",
+          "endUid": "u2541",
+          "quote": "Yeah, it's like, it's like 2:00.\n\nDelwath: Like, return i- I think we-\n\nKenzo: Return in an hour.\n\nDelwath: ... return in two hou-\n\nUnknown: Two.\n\nDelwath: ... returning here with the jade, two hours.\n\nKenzo: Yeah. Yeah. We can do this. We can bring the throne. Can we do... Where, where do you want to, where do we want to do the exchange?\n\nDelwath: Here.\n\nKenzo: Yeah, okay. We'll do the exchange here. We'll, we'll... We can do the exchange here in two hours."
+        },
+        {
+          "startUid": "u3844",
+          "endUid": "u3882",
+          "quote": "Yeah. Okay, so the four elephants come parading, dragging the throne down to the... You know, one dragonet sees you coming and flies down and, and alerts her, and you see her fly up, and her wings, her wingspan is, like, 50 feet, something like that. And she's, you know, she's clearly extremely happy. She's holding this like tiny little jade in her hand, and she flies down. Um, for once, she's actually not paying attention to the villa. She's just looking at the throne and watching-\n\nUnknown: Kenzo.\n\nDM: ... these like four elephants like-\n\nDelwath: Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.\n\nDM: ... dragging it in sort of, you know...\n\nKenzo: Yeah. As, as Ken- as, as we're, as we're dragging it and pulling it up, Kenzo, I'm gonna use a little cantrip just to, like, g- like, get extra boom boost.\n\nWellby: Yeah.\n\nKenzo: Uh, I was gonna say. Uh...\n\nKenzo: \"Ra'ghemdros, Light Stealer, Final Shadow [laughs], Devourer of Drankor, the Last Empress of Hkar, and the Eternal Night and the Enslaver of the Secret Sunset, we bring to you your new throne.\"\n\nDM: [laughs]\n\nWellby: [laughs]\n\nDM: She cackles. She like flies down, and she drops the jade. And she just, like, without too much trouble, she grasps it with two of her claws. She strains a little bit to like lift it up into the air, like, flies off.\n\nKenzo: Kenzo grasps the jade super fucking fast, like-\n\nDM: Yeah.\n\nKenzo: ... ultra fast.\n\nDM: The... You'll get the jade vision when you next long rest.\n\nUnknown: Yeah, that's fine.\n\nDM: Um, what?\n\nUnknown: No.\n\nWellby: Yes.\n\nUnknown: We got the jade. We got the fucking jade.\n\nUnknown: Look.\n\nDM: She flies. She's like-\n\nSeeker: Big moment. Yeah.\n\nDM: ...sh- and she's holding it now, and she's flying around, like, showing it to the, um, uh, showing it to the dragonets and she says in a, in this like booming voice, \"My servants, go forth and let it be known your empress has a new throne.\"\n\nWellby: [laughs]\n\nDM: And she dives into her lair."
+        }
+      ],
+      "time": {
+        "clock": "16:00",
+        "precision": "approximate",
+        "basis": "inferred from 2 p.m. audience, agreed two-hour return, and completed return"
+      },
+      "note": "The two-hour return was an agreement, not an independently measured elapsed interval; the return clock is approximate."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u6203",
+        "endUid": "u6203"
+      },
+      "reading": "Wellby identifies eighteen seconds elapsed in the fiend fight.",
+      "evidence": [
+        {
+          "startUid": "u6203",
+          "endUid": "u6203",
+          "quote": "We're, we're 18 seconds into this right now."
+        }
+      ],
+      "duration": {
+        "value": 0.3,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "explicit eighteen-second combat remark"
+      },
+      "completion": "completed",
+      "note": "A mid-combat elapsed estimate; not a second duration to add to the encounter or subsequent rest."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u6505",
+        "endUid": "u6507"
+      },
+      "reading": "Prayer of Healing starts a ten-minute short rest after the fiend fight; later the DM confirms completion.",
+      "evidence": [
+        {
+          "startUid": "u6505",
+          "endUid": "u6507",
+          "quote": "A long rest... I mean, a short rest is... I'm gonna cast Prayer of Healing right away.\n\nUnknown: Okay."
+        },
+        {
+          "startUid": "u6601",
+          "endUid": "u6602",
+          "quote": "Tim, I'm actually gonna recover two spell slots using my once a day, cast Aid and Agas—Armor of Agathys, and then do the 10-minute short rest.\n\nDM: Okay."
+        },
+        {
+          "startUid": "u6650",
+          "endUid": "u6663",
+          "quote": "So Tim, it's okay to take the short rest? We're not gonna be interrupted?\n\nDM: You're not gonna be interrupted, yeah. Um, and there's also, um, i—so I forgot to mention this before, but in the center of the table where this hole is, there's like a, a large sort of heatless flame that burns, like a b—bonfire that's erupting out. It comes almost to the level of the table. But that does not give off any heat, but it's lighting the room with, like, flickering firelight. Um, so that's it. That's all you really find.\n\nUnknown: All right.\n\nWellby: Did you say we short rested?\n\nDM: Yes.\n\nUnknown: Yes."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "explicit spell-shortened rest, confirmed completed"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10",
+          "note": "The retrospective total explicitly includes the fiend fight and rescue sequence containing this rest."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u7825",
+        "endUid": "u7840"
+      },
+      "reading": "The return is narrated in late afternoon. The DM estimates fifteen to twenty minutes in all since the throne exchange, including the fiend fight, rest, and rescue.",
+      "evidence": [
+        {
+          "startUid": "u7825",
+          "endUid": "u7840",
+          "quote": "Okay. So we pick up as you all collapse into the late afternoon sun on the summit of the mountain in the middle of the circular island. Um, sitting in the sunshine, you begin to forget the webs of shadow that have reduced Seeker to being like somebody else has to carry your backpack 'cause you can barely even lift your arm with a three strength, and reduced many of you to quite a high level of exhaustion.\n\nDM: And as you... So it's only been now, at this point, something like 15 minutes since, or maybe 20 minutes since you left the company of Ra'ghemdros, made your way through the Cloudspinner's prison, and managed to rescue her now, her now in your portable hole.\n\nSeeker: [clears throat] After defeating the fiend.\n\nDM: After defeating the fiend. So at this point, you know, things seem quiet on the island, although there must be some activity down in the..."
+        }
+      ],
+      "duration": {
+        "min": 15,
+        "minInclusive": true,
+        "max": 20,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "retrospective total stated by DM"
+      },
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM’s return narration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u8350",
+        "endUid": "u8351"
+      },
+      "reading": "At the temple, the DM corrects the current clock from about 4 to about 5 p.m., an hour before sunset.",
+      "evidence": [
+        {
+          "startUid": "u8349",
+          "endUid": "u8354",
+          "quote": "What time of day is it right now?\n\nDelwath: It's like, what, 4:00 in the afternoon?\n\nDM: Like 5:00. It's like the hour before sunset.\n\nSeeker: So I could have it ready by dawn.\n\nUnknown: Yeah.\n\nSeeker: Do black dragons like to attack in the middle of the night?"
+        }
+      ],
+      "time": {
+        "clock": "17:00",
+        "precision": "approximate",
+        "basis": "stated approximate local clock"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u8493",
+        "endUid": "u8500"
+      },
+      "reading": "The party sleeps eight hours from the evening preparation to about 1 a.m.; the overnight crosses one civil midnight.",
+      "evidence": [
+        {
+          "startUid": "u8493",
+          "endUid": "u8500",
+          "quote": "Okay. You all go to sleep.\n\nWellby: Vision, jade hand.\n\nDM: Take... Yep. Take turns—\n\nUnknown: Yeah.\n\nDM: Take turns watching.\n\nUnknown: Yep.\n\nDelwath: I'm gonna set, um, my lynxes out too."
+        },
+        {
+          "startUid": "u8751",
+          "endUid": "u8757",
+          "quote": "Oh yeah, it is eight hours. Yeah, that's a full long rest. Um...\n\nDelwath: It doesn't tell me who's-\n\nDM: It doesn't... So, okay, at about 1:00, you've all completed a long rest, but the spell is not finished, and the spell still needs another four hours. The alarm is triggered."
+        },
+        {
+          "startUid": "u9002",
+          "endUid": "u9003",
+          "quote": "Which may not be- It's 1:00 in the morning right now, right?\n\nDM: Yeah."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "explicit completed long rest at u8751–u8754"
+      },
+      "timeRange": {
+        "start": {
+          "clock": "17:00",
+          "precision": "approximate",
+          "basis": "inferred eight hours before the confirmed 1 a.m. completion, compatible with t11"
+        },
+        "end": {
+          "clock": "01:00",
+          "precision": "approximate",
+          "basis": "stated approximate local clock"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u8520",
+        "endUid": "u8525"
+      },
+      "reading": "The jade-hand dream shifts narration to Rai’s historical memory; its centuries do not advance the current adventure.",
+      "evidence": [
+        {
+          "startUid": "u8520",
+          "endUid": "u8525",
+          "quote": "Okay, so as you drift off to sleep, um, you all find yourself in a shared dream. Um, you are, uh... The first thing you see is something you've seen before. It's the, um, standing on top of a high mountain pass, this massive shadow dragon above you, and then Rai, like, everybody fighting."
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "party"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t12"
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u8604",
+        "endUid": "u8605"
+      },
+      "reading": "The vision ends as Rai vanishes and the party wakes; narration returns to the party’s rest context.",
+      "evidence": [
+        {
+          "startUid": "u8604",
+          "endUid": "u8605",
+          "quote": "And vanishes. And that's when you wake up."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t12"
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u8608",
+        "endUid": "u8613"
+      },
+      "reading": "Delwath completes his four-hour elven rest, then Aid and a short rest while the others continue the same eight-hour rest.",
+      "evidence": [
+        {
+          "startUid": "u8608",
+          "endUid": "u8613",
+          "quote": "Yeah.\n\nDelwath: I can long rest in four hours, right?\n\nDM: Yeah.\n\nDelwath: So in-- I'm gonna long rest, wake up, cast Aid, and then short rest.\n\nDM: Okay. Um-"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "stated elven long-rest duration"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t12"
+        }
+      ],
+      "note": "His subsequent short-rest credit is included in this parallel sequence, not added after the party’s eight hours."
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u8611",
+        "endUid": "u8613"
+      },
+      "reading": "Delwath takes his subsequent short rest during the same party rest.",
+      "evidence": [
+        {
+          "startUid": "u8611",
+          "endUid": "u8613",
+          "quote": "So in-- I'm gonna long rest, wake up, cast Aid, and then short rest.\n\nDM: Okay. Um-"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t12"
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u8751",
+        "endUid": "u8757"
+      },
+      "reading": "At about 1 a.m. everyone has completed the long rest when the alarm triggers.",
+      "evidence": [
+        {
+          "startUid": "u8751",
+          "endUid": "u8757",
+          "quote": "Oh yeah, it is eight hours. Yeah, that's a full long rest. Um...\n\nDelwath: It doesn't tell me who's-\n\nDM: It doesn't... So, okay, at about 1:00, you've all completed a long rest, but the spell is not finished, and the spell still needs another four hours. The alarm is triggered."
+        },
+        {
+          "startUid": "u9002",
+          "endUid": "u9004",
+          "quote": "Which may not be- It's 1:00 in the morning right now, right?\n\nDM: Yeah.\n\nDelwath: It's like midnight."
+        }
+      ],
+      "time": {
+        "clock": "01:00",
+        "precision": "approximate",
+        "basis": "stated approximate local clock"
+      }
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u8849",
+        "endUid": "u8850"
+      },
+      "reading": "The dragonet scouts fall asleep for one minute before being bound and questioned.",
+      "evidence": [
+        {
+          "startUid": "u8849",
+          "endUid": "u8850",
+          "quote": "Yeah. Uh, they fall asleep for a minute. [thudding]"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "explicit sleep duration resolved in play"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u9049",
+        "endUid": "u9057"
+      },
+      "reading": "One hour later, about 2 a.m., Milo and Tilly arrive and the party comes out of the tunnels.",
+      "evidence": [
+        {
+          "startUid": "u9049",
+          "endUid": "u9057",
+          "quote": "Um, about an hour later, 2:00 in the morning, um, you see Tilly and Milo walking up the path, like looking around for you. You're not... Are you hiding still in the tunnels?\n\nDelwath: Yeah, we're back in the tunnels, right?\n\nUnknown: Okay. Well, so the- Nobody knows. Watching out.\n\nDM: ... the lynxes, the lynxes triggers another alarm then.\n\nDelwath: So we'll walk out again."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM’s explicit elapsed hour"
+      },
+      "time": {
+        "clock": "02:00",
+        "precision": "approximate",
+        "basis": "stated approximate local clock"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u9288",
+        "endUid": "u9289"
+      },
+      "reading": "The DM advances another hour but says “Two o’clock”; shortly afterward says the scouts are gone at 3:00. The elapsed hour supports 3:00 from the 2 a.m. arrival, while the two spoken clocks disagree.",
+      "evidence": [
+        {
+          "startUid": "u9288",
+          "endUid": "u9289",
+          "quote": "So an hour passes. Two o'clock."
+        },
+        {
+          "startUid": "u9310",
+          "endUid": "u9311",
+          "quote": "Well, the dragonets are gone at 3:00. You still got like an hour till like pre-dawn twilight, and two hours till dawn."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "explicit advance, retained separately from disputed endpoint"
+      },
+      "completion": "completed",
+      "note": "No disputed clock is adopted; this conflict remains for human review. Both readings lie in the dawn watch of the same civil day."
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u9418",
+        "endUid": "u9423"
+      },
+      "reading": "Repairing the lighthouse takes about half an hour, then the mechanism is available for the defense.",
+      "evidence": [
+        {
+          "startUid": "u9418",
+          "endUid": "u9423",
+          "quote": "It takes some tinkering to get it w- it's probably gonna take you about half an hour to get it working.\n\nSeeker: Oh, and then this, the repaired piece only lasts for five hours.\n\nUnknown: Yeah. That's okay. It's not a permanent repair, but yeah. Five hours."
+        },
+        {
+          "startUid": "u9433",
+          "endUid": "u9436",
+          "quote": "Uh, you probably have... Now with Seeker's tinker, you probably have half an hour before like the expectation of when she'd arrive. But I was like, \"So what's the plan? I mean, I know we're not big on plans, right?"
+        },
+        {
+          "startUid": "u9950",
+          "endUid": "u9951",
+          "quote": "Light shines out, illuminating the entire temple complex in this brilliant daylight and stretching about 600 feet in every direction."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "estimated repair interval, accepted in subsequent completed setup"
+      },
+      "completion": "completed",
+      "note": "The five-hour lifetime of the created repair is not five hours elapsed."
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u10290",
+        "endUid": "u10294"
+      },
+      "reading": "About fifteen minutes later, the incoming four chimeras and thirteen dragonets enter the light.",
+      "evidence": [
+        {
+          "startUid": "u10290",
+          "endUid": "u10294",
+          "quote": "Okay, so about 15 minutes later, you see coming into the edge of the light a wave of four chimeras and 13 dragonets flying behind them in like a formation flying towards you."
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated elapsed interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u14088",
+        "endUid": "u14093"
+      },
+      "reading": "Ra’ghemdros’s death produces a magical sunrise and all-around sunset. Dimitaur calls this sunrise “now.”",
+      "evidence": [
+        {
+          "startUid": "u14088",
+          "endUid": "u14093",
+          "quote": "... cracks open and it's, like, begins to peel out and suddenly the sun rises and there's, like, an entire sunset in a 360 degree circle around you as the dragon falls, crashes through the roof of the tower, and lands in the middle of the temple of the Night Queen, dead."
+        },
+        {
+          "startUid": "u14126",
+          "endUid": "u14148",
+          "quote": "Yes. Dimitaur, there's a, there's a huge booming voice that rings out from the light and it echoes, like, for miles-\n\nUnknown: Oh, fuck yeah, Dimitaur.\n\nDM: ... from the-\n\nUnknown: Thank you.\n\nUnknown: [laughs]\n\nDM: \"The dragon is dead.\"\n\nUnknown: [laughs]\n\nUnknown: [laughs]\n\nDM: \"Meet at the villa for your rewards at sunset, which you can see- a sunrise, which you can see is now.\"\n\nUnknown: [laughs]\n\nUnknown: [laughs]\n\nUnknown: Oh, Dimitaur. Dimitaur has some, some work to do on being a truly benevolent leader.\n\nUnknown: [laughs] He's like-\n\nUnknown: Yes.\n\nWellby: ... which is now, so, so I'll, I'll see you there.\n\nUnknown: [laughs]\n\nUnknown: [laughs]\n\nWellby: As soon as I can get there.\n\nDM: \"No one go in the lair before us.\"\n\nUnknown: [laughs]\n\nDM: There's probably still traps."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunrise",
+        "precision": "approximate",
+        "basis": "described supernatural light, not an independently measured civil dawn"
+      },
+      "note": "This magical lighting does not supply an exact 5 a.m. clock or an additional unreported wait."
+    },
+    {
+      "id": "t24",
+      "source": {
+        "startUid": "u14167",
+        "endUid": "u14176"
+      },
+      "reading": "The party makes its way down to the lair over the next couple of hours, dealing with traps.",
+      "evidence": [
+        {
+          "startUid": "u14167",
+          "endUid": "u14176",
+          "quote": "So you make your way over the course-\n\nUnknown: [laughs]\n\nDM: ... of the next couple of hours down to the lair.\n\nDM: You manage to deal with all the acid traps that-\n\nUnknown: Yeah, yeah.\n\nDM: ... it was pointless to point out 'cause it'd be anti-climactic."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated couple of hours"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t25",
+      "source": {
+        "startUid": "u14333",
+        "endUid": "u14337"
+      },
+      "reading": "The table retrospectively awards a short rest before this part of the dungeon exploration.",
+      "evidence": [
+        {
+          "startUid": "u14333",
+          "endUid": "u14337",
+          "quote": "I, I guess we could, uh, we could short rest.\n\nDelwath: I, I guess probably we short-\n\nDM: You would have short-\n\nDelwath: Or I could Prayer of Healing at least.\n\nKenzo: No, we would have short rested before we decided to come to this part of the dungeon."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention; Prayer of Healing is proposed but not established here"
+      },
+      "completion": "completed",
+      "note": "Its position relative to the two-hour descent is not fixed. Do not automatically add the hour after that journey or assert it lies wholly within it."
+    },
+    {
+      "id": "t26",
+      "source": {
+        "startUid": "u15143",
+        "endUid": "u15147"
+      },
+      "reading": "Sorting valuables and filling the portable hole takes a couple of hours in all.",
+      "evidence": [
+        {
+          "startUid": "u15143",
+          "endUid": "u15147",
+          "quote": "So over the next couple of hours, you sort out the, like, most valuable stuff. You manage to get, like, a, a small collection of rubies and diamonds. Um, you know, enough for at least a few castings of Simulacrum. Um, take what seems the most valuable of the art objects and then just, like, pour coins until it fills the space."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "explicit completed treasure-sorting montage"
+      },
+      "completion": "completed",
+      "note": "Includes the earlier proposed sorting time; not an additional interval after an independent half-hour."
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No month/day is spoken in session 110. The May 20–21 calendar is conditional on YAML; the transcript independently establishes a morning opening and one completed 5 p.m.–1 a.m. overnight.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t11",
+      "t12",
+      "t17",
+      "t19",
+      "t20",
+      "t26"
+    ],
+    "explanation": "The continuous adventure covers one civil midnight, followed by the defense, lair exploration, treasure sorting and return sailing. Historical jade visions do not extend the adventure span. The 2/3 a.m. disagreement is within the same civil day and does not change this relative date-span match. Sailing back to Vindristjarna has no stated duration or arrival watch; the source supplies no additional overnight. Absolute dates are not independently verified by this relative match."
+  }
+}
