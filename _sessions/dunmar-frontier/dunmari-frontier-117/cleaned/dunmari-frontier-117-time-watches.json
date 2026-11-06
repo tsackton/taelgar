@@ -9,10 +9,10 @@
     "path": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-transcript.md",
     "sha256": "b60c0617b15e71c161c322d1cbe8395daaf004533134fcacfa4c22e508cfefbd"
   },
-  "dateAssessment": "The review uses the transcript’s lunchtime and May 30 dawn anchors; 1749 comes from YAML. The opening date and the dates of the first three daily advances remain unresolved. Four explicit daily advances (t08–t11), reinforced by the four-day remarks at u2941 and u3295–u3296, do not establish the YAML’s full May 24–30 span. A backward count would give a May 26 battle only if those advances were exhaustive; that conditional reading is not adopted here. The dated Session 117 record instead places the battle on May 24 afternoon and distributes the wait across additional days. Its evening ending is also not a spoken clock anchor. May 30 post-escape activity is carried approximately from dawn because no new adventure-time advance intervenes. The Crown vision has its own historical frame and supplies no elapsed adventure days. The Session 116 closing handoff (u3744) and this session’s opening (u0036–u0043) establish continuity after Delwath’s revival; the adjacent dated note’s early-afternoon closing cannot override t07’s later direct lunchtime reading.",
+  "dateAssessment": "Transcript-only assessment: session 117’s time-marker JSON remains compatible. Only May 30 at dawn is spoken as a civil date; 1749 comes from YAML. Four explicit daily advances (t08–t11), reinforced by u2941 and u3295–u3296, leave two days of the YAML’s May 24–30 span unestablished. Counting backward gives a May 26 battle only if those advances are exhaustive. That conditional reading is not adopted, and supplementary handoffs do not change this transcript-only YAML assessment.\n\nSupplementary opening evidence: session 116 explicitly begins on May 24 (u0092–u0093), completes an overnight long rest (u2618–u2619, u2694–u2698), and narrates the next dawn before the first Apollyon battle (u2814–u2817). Its source-derived expedition and closing revival therefore fall on May 25. Session 116 u3731–u3733/u3744 and session 117 u0036–u0043 identify the same revival and immediate handoff, independently supporting a May 25 opening here. The unchanged YAML and dated session notes retain May 24 instead. Session 118’s corrected recap also places Apollyon’s defeat six days before that morning’s ship return (u0032–u0041), a competing May 24 implication when linked to session 117’s May 30 return. A May 25 handoff plus four advances would reach May 29, while the current source explicitly reaches May 30. These readings remain unresolved; no missing day is supplied by assumption. The earlier dated note’s afternoon claim likewise does not replace t07’s direct lunchtime reading.\n\nSupplementary closing evidence: session 118 opens around 11 p.m. (u0008–u0018), recalls the ship return that morning and discussions since then (u0037–u0047), describes the Crown’s silver form as of that evening (u0051–u0053), and resumes debate over a late meal (u0055–u0062). This is a later continuation of the same Crown discussion, not an explicit 11 p.m. timestamp for session 117’s last turn. The evening-form recap may retrospectively date the inspection at session 117 u2947–u2954; it does not distinguish when the form changed from when it was noticed, or pin down the mirror examination and closing moment. The former blanket dawn inference is therefore withdrawn: t13 remains on the post-return May 30 day with its closing watch open. The Crown vision’s historical frame supplies no elapsed adventure days.",
   "watches": [
     {
-      "day": "Battle day — absolute date unresolved",
+      "day": "Battle day — May 24/25/26 readings unresolved",
       "startWatch": "midday",
       "endWatch": "midday",
       "basis": "inferred",
@@ -41,12 +41,24 @@
       "day": "May 30, 1749",
       "startWatch": "dawn",
       "endWatch": "dawn",
-      "basis": "mixed",
-      "summary": "Three more daily advances end at stated May 30 dawn; post-vision play resumes that day.",
+      "basis": "stated",
+      "summary": "Three further daily advances end at stated May 30 dawn, when the prison breaks.",
       "markers": [
         "t09",
         "t10",
-        "t11",
+        "t11"
+      ],
+      "startDate": "1749-05-30",
+      "endDate": "1749-05-30"
+    },
+    {
+      "day": "May 30, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Post-vision Crown discussion",
+      "summary": "Session 118 continues this debate near 11 p.m.; no precise session 117 closing watch is stated.",
+      "markers": [
         "t13"
       ],
       "startDate": "1749-05-30",
@@ -77,9 +89,14 @@
       "sha256": "dca1a7c5676cd35426edc17d4f166a639fad396e4e9869d327ce2a7974b429e5"
     },
     {
-      "label": "Session 116 closing handoff",
+      "label": "Session 116 May 24, overnight, next dawn and closing handoff",
       "path": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-transcript.md",
       "sha256": "424a2e070fe8ec6b107afda56d6fbfa579b0539fd2cc1839ea9f58d12e257aca"
+    },
+    {
+      "label": "Session 118 late-night continuation and retrospective Crown account",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-transcript.md",
+      "sha256": "1fcf1567a1aadfa3c28d1092ee3639ab977412faa6eb875eb3b0d2d4cef91002"
     }
   ]
 }
