@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-session.yaml",
+  "source": {
+    "path": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-time-markers.json",
+    "sha256": "9e792f23c5016ce313db53f256406a4159cf7ff22fea0e43b15330d117d0de47"
+  },
+  "transcript": {
+    "path": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-transcript.md",
+    "sha256": "273771a9ea93effe06e614f7847747925a8895c37398e75764e97a90d316532a"
+  },
+  "dateAssessment": "No fictional calendar date is established. The manifest retains literal unknown values for drStart and drEnd; its realWorldDate is recording metadata. The working chronology is the undated Jubilee day: morning preparations, a near-sunset procession, the sunset rite, and evening festivities and investigation. The shared vision has its own undated night sky, with no civil watch or elapsed adventure duration established. Waking beside the egg is a return from that vision, not evidence of a rest or midnight crossing. The forecast flight estimate is not counted as measured travel time.",
+  "watches": [
+    {
+      "day": "Jubilee day (undated)",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "DM opens festival preparations in the morning; the move to the practice spot takes a few minutes.",
+      "markers": [
+        "t01",
+        "t02"
+      ]
+    },
+    {
+      "day": "Jubilee day (undated)",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Preparations finish close to sunset; the procession begins toward the Great Temple.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "Jubilee day (undated)",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The opening rite follows the near-sunset procession and was scheduled for sunset.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "Jubilee evening (undated)",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "DM calls the dinner frame evening and nighttime; Heska fishes before the companions assemble.",
+      "markers": [
+        "t05",
+        "t06"
+      ]
+    },
+    {
+      "day": "Shared vision (undated)",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The vision opens beneath a night sky; its civil watch and adventure-time duration are unestablished.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "clock": "local",
+      "scope": "Shared vision"
+    },
+    {
+      "day": "Return to Jubilee evening (undated)",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The evening palm scene resumes; heightened abilities disappear after approximately two minutes.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "sourceRanges": [
+        [
+          "u1714",
+          "u1716"
+        ]
+      ]
+    }
+  ]
+}
