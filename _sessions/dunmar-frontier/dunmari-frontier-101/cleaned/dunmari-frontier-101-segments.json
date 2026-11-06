@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-101",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-session.yaml",
+    "sessionYamlSha256": "5ecab3b96546c9e55c7b489e156755a7b221e8582586bcf41c6699f28ab053e6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-transcript.md",
+    "transcriptSha256": "62a618600fee471e9248b20aecde870737c295149ca6331ff22a93e85c6c6ffe"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0080"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0081",
+        "endUid": "u0398"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0399",
+        "endUid": "u1358"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1359",
+        "endUid": "u1576"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1577",
+        "endUid": "u2136"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2137",
+        "endUid": "u3081"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u3082",
+        "endUid": "u3138"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u3139",
+        "endUid": "u4022"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u4023",
+        "endUid": "u4052"
+      },
+      "category": "table_talk",
+      "note": "Closing housekeeping interleaves brief next-session proposals; the DM defers further play."
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u4053",
+        "endUid": "u4074"
+      },
+      "category": "meta_discussion"
+    }
+  ]
+}
