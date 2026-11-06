@@ -1,0 +1,653 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-075",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-session.yaml",
+    "sessionYamlSha256": "a47486f4a7be8a983d6b5fd78d2de412e26634a04eb5645335711c6210c70ab7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-transcript.md",
+    "transcriptSha256": "00b24463ffb6489a5efcba5dbdf9795e45fd81756520bab1e197f2a526179f1c",
+    "yamlDates": {
+      "start": "1748-11-29",
+      "end": "1748-12-04"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0015"
+      },
+      "reading": "Play resumes during the night after the ship’s repair, with the party awakened by nearby howls.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: Okay, so as we begin on the plains of Dunmar the night after finally getting the sky ship Vindristjarna repaired, as it—as Seeker attempted to bring it lurchingly into the sky, prior to having spent the time properly practicing with with how to control this massive block of stone."
+        },
+        {
+          "startUid": "u0008",
+          "endUid": "u0010",
+          "quote": "DM: You are awakened by the sound of howls in the distance. A few 100 feet away."
+        },
+        {
+          "startUid": "u0008",
+          "endUid": "u0010",
+          "quote": "Kenzo: By the way, there, there, there's no music."
+        },
+        {
+          "startUid": "u0041",
+          "endUid": "u0043",
+          "quote": "DM: Yeah, because it is the middle of night. This direction up is the direction that the bad guys are in. Okay, they are well out of range of your sight."
+        }
+      ],
+      "time": {
+        "partOfDay": "middle of the night",
+        "precision": "approximate",
+        "basis": "DM explicitly places the ongoing encounter in the middle of the night."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1099",
+        "endUid": "u1104"
+      },
+      "reading": "The party returns to camp at about one in the morning after the fight.",
+      "evidence": [
+        {
+          "startUid": "u1099",
+          "endUid": "u1101",
+          "quote": "DM: So you return to your camp. There anything you're going to do before going back to sleep?"
+        },
+        {
+          "startUid": "u1104",
+          "endUid": "u1104",
+          "quote": "DM: At one in the morning? Probably not."
+        }
+      ],
+      "time": {
+        "clock": "01:00",
+        "precision": "approximate",
+        "basis": "DM answers the proposed Sending with “At one in the morning?”"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1170",
+        "endUid": "u1174"
+      },
+      "reading": "The party completes a long rest and wakes for late-morning breakfast on the last day of November.",
+      "evidence": [
+        {
+          "startUid": "u1171",
+          "endUid": "u1171",
+          "quote": "Seeker: A much-needed rest, long rest."
+        },
+        {
+          "startUid": "u1172",
+          "endUid": "u1173",
+          "quote": "DM: Long rest, and wake to a late morning breakfast."
+        },
+        {
+          "startUid": "u1174",
+          "endUid": "u1174",
+          "quote": "DM: As this is the last day of November."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 11,
+          "day": 30
+        },
+        "precision": "exact",
+        "basis": "Month/day stated; year inherited from session YAML.",
+        "partOfDay": "late morning"
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; the actual wake time is narrated separately."
+      },
+      "completion": "completed",
+      "note": "The post-fight one-a.m. camp scene can precede this breakfast on the same civil date; the rest does not itself prove an additional midnight crossing."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1175",
+        "endUid": "u1182"
+      },
+      "reading": "Seeker spends the full day practicing flight; Kenzo gardens and Wellby trains with Baxter during that day.",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1182",
+          "quote": "DM: So you spend your your full day of practice. If there's anything else people want to do while Seeker's practicing?"
+        },
+        {
+          "startUid": "u1193",
+          "endUid": "u1194",
+          "quote": "Kenzo: Kenzo spends the day quietly tending to the garden."
+        },
+        {
+          "startUid": "u1202",
+          "endUid": "u1203",
+          "quote": "Wellby: Well, so Wellby spends the day working with Baxter and working on—on shooting from—from riding Baxter."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 11,
+          "day": 30
+        },
+        "precision": "exact",
+        "basis": "Same narrated day as t03; month/day anchored by the preceding last-day-of-November breakfast, year from YAML."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Narrated full day of practice, rather than a measured 24-hour interval."
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1229",
+        "endUid": "u1231"
+      },
+      "reading": "The party rests through the quiet evening before the following day’s training.",
+      "evidence": [
+        {
+          "startUid": "u1229",
+          "endUid": "u1231",
+          "quote": "DM: As you rest again, and the quiet evening, prepared in the morning."
+        },
+        {
+          "startUid": "u1281",
+          "endUid": "u1284",
+          "quote": "DM: So on December first, around lunch time, as you are taking a break for some food, as you in the middle of your day of practice learning to fly a ship, still trying to disentangle your mind from the confusing sort of disorienting sensation of 360 degree awareness as you are connected and attuned to the—to the—to the ship."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "date": {
+            "year": 1748,
+            "month": 11,
+            "day": 30
+          },
+          "precision": "exact",
+          "basis": "Evening follows the full November 30 practice day; year from YAML.",
+          "partOfDay": "evening"
+        },
+        "end": {
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 1
+          },
+          "precision": "exact",
+          "basis": "The next training day is explicitly dated December first."
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1281",
+        "endUid": "u1284"
+      },
+      "reading": "Sura’s first sending-stone conversation interrupts Kenzo’s training around lunchtime on December 1.",
+      "evidence": [
+        {
+          "startUid": "u1281",
+          "endUid": "u1284",
+          "quote": "DM: So on December first, around lunch time, as you are taking a break for some food, as you in the middle of your day of practice learning to fly a ship, still trying to disentangle your mind from the confusing sort of disorienting sensation of 360 degree awareness as you are connected and attuned to the—to the—to the ship."
+        },
+        {
+          "startUid": "u1292",
+          "endUid": "u1294",
+          "quote": "DM: You hear a voice, Sura's voice, on the sending stone. Hello."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 1
+        },
+        "precision": "exact",
+        "basis": "Month/day stated; year inherited from session YAML.",
+        "partOfDay": "lunchtime"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1629",
+        "endUid": "u1630"
+      },
+      "reading": "Kenzo spends the remainder of December 1 practicing on the ship.",
+      "evidence": [
+        {
+          "startUid": "u1629",
+          "endUid": "u1630",
+          "quote": "DM: Okay. So you spend the rest of the day working on the ship. Kenzo practicing."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t06"
+        },
+        "precision": "approximate",
+        "basis": "Explicitly the rest of the same training day."
+      },
+      "duration": {
+        "text": "the rest of the day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated continuation of Kenzo’s December 1 training."
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1631",
+        "endUid": "u1633"
+      },
+      "reading": "Narration advances to the following morning, before departure and divination.",
+      "evidence": [
+        {
+          "startUid": "u1631",
+          "endUid": "u1633",
+          "quote": "DM: The next morning, what are you going to ask when you wake up? You're prepared. You're ready to go at this point, so first thing in the morning before you take off, and whichever direction you're going to take off, what do you want to ask?"
+        },
+        {
+          "startUid": "u1934",
+          "endUid": "u1936",
+          "quote": "Kenzo: Okay. Now let's scry them."
+        },
+        {
+          "startUid": "u1934",
+          "endUid": "u1936",
+          "quote": "DM: And on December this morning, as you're discussing this Delwath goes and scries. And in fact they are within sight of Grash's army, and seemed to be meeting with him or meeting up with him this day, December second."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 2
+        },
+        "precision": "exact",
+        "basis": "Next morning after December 1; later scrying explicitly confirms December second. Year from YAML.",
+        "partOfDay": "morning"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1645",
+        "endUid": "u1651"
+      },
+      "reading": "Riswynn spends ten minutes praying and making the divination sacrifice.",
+      "evidence": [
+        {
+          "startUid": "u1645",
+          "endUid": "u1651",
+          "quote": "DM: So you— you sit down and and Riswynn prays for 10 min, working with some metal as a—as a sacrifice to the gods. Costs 25 gold to cast the spell. You have plenty of gold at—"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM explicitly narrates the time spent in the completed prayer."
+      },
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t08"
+        },
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Performed first thing in the established next-morning scene."
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1737",
+        "endUid": "u1741"
+      },
+      "reading": "The table retrospectively establishes Kenzo’s all-night rituals before this morning’s call; the companions slept.",
+      "evidence": [
+        {
+          "startUid": "u1740",
+          "endUid": "u1741",
+          "quote": "Kenzo: You stay up all night—yes, yes, for this. I stay up. Okay, stay up all night, star night rituals, fuckin, you know, just everything I can think of. Commune with nature, commun with plants, fucking talk to all the gods, tattoos, the whole fucking thing, and anything I can do to get a sign right now."
+        },
+        {
+          "startUid": "u1774",
+          "endUid": "u1775",
+          "quote": "DM: But again, it's not—it's not—one thing that you, as you meditate through the night, right? One thing you feel is like, it's not obvious that there is a right course of action."
+        },
+        {
+          "startUid": "u1780",
+          "endUid": "u1782",
+          "quote": "Kenzo: Indeed, it's been a long night. I—I have not slept myself, unlike our companions. We have been doing our best to consult the gods in your favor. Have the gods spoken to you?"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 1
+          },
+          "precision": "exact",
+          "basis": "Retrospective night before the established December 2 morning; year from YAML.",
+          "partOfDay": "night"
+        },
+        "end": {
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 2
+          },
+          "precision": "exact",
+          "basis": "The rituals conclude before the morning sending-stone call.",
+          "partOfDay": "morning"
+        }
+      },
+      "duration": {
+        "text": "all night",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Kenzo’s repeated statement is accepted by the DM’s “as you meditate through the night”."
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "flashback",
+      "completion": "completed",
+      "note": "This is the same overnight already crossed by t08; it does not add a second day or establish long-rest benefits for Kenzo."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1776",
+        "endUid": "u1782"
+      },
+      "reading": "Narration returns to the December 2 morning sending-stone call after resolving Kenzo’s overnight prayers.",
+      "evidence": [
+        {
+          "startUid": "u1776",
+          "endUid": "u1777",
+          "quote": "Kenzo: All right. There's just different downsides. All right. Let's get on the phone, Sura. I hit my favorites on the sending stone."
+        },
+        {
+          "startUid": "u1778",
+          "endUid": "u1779",
+          "quote": "DM: Yeah. Good morning, Kenzo."
+        },
+        {
+          "startUid": "u1780",
+          "endUid": "u1782",
+          "quote": "Kenzo: Indeed, it's been a long night. I—I have not slept myself, unlike our companions. We have been doing our best to consult the gods in your favor. Have the gods spoken to you?"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 2
+        },
+        "precision": "exact",
+        "basis": "Return to the established December 2 morning; Sura’s greeting confirms morning.",
+        "partOfDay": "morning"
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1934",
+        "endUid": "u1936"
+      },
+      "reading": "Delwath scries the wizards on December 2 in the morning while the party discusses departure.",
+      "evidence": [
+        {
+          "startUid": "u1934",
+          "endUid": "u1936",
+          "quote": "Kenzo: Okay. Now let's scry them."
+        },
+        {
+          "startUid": "u1934",
+          "endUid": "u1936",
+          "quote": "DM: And on December this morning, as you're discussing this Delwath goes and scries. And in fact they are within sight of Grash's army, and seemed to be meeting with him or meeting up with him this day, December second."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 2
+        },
+        "precision": "exact",
+        "basis": "Month/day stated; year inherited from session YAML.",
+        "partOfDay": "morning"
+      },
+      "actors": [
+        "Delwath"
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2025",
+        "endUid": "u2027"
+      },
+      "reading": "The party undertakes two days of flight across the desert; subsequent narration resolves both nights and the December 4 morning approach.",
+      "evidence": [
+        {
+          "startUid": "u2025",
+          "endUid": "u2027",
+          "quote": "DM: Okay, so well—but so you're just flying straight for your 2 2 days of straight flying across the desert."
+        },
+        {
+          "startUid": "u2074",
+          "endUid": "u2082",
+          "quote": "DM: So after a long day of travel, some repairs on the ship, a brief land in the desert to switch pilots, and then another long night of flying, when some of you sleep and Kenzo drives, the next morning dawns hot and clear again. And you just do it again. Another day of soaring up into the sky, another day of watching the desert landscape below you slowly change."
+        },
+        {
+          "startUid": "u2083",
+          "endUid": "u2092",
+          "quote": "DM: Until the morning after another change in another, the rest, driving off a few curious giant vultures who come to see what this other giant ship in the sky is, watching the landscape change before you, you see in the distance a valley, the river valley. You see rolling pastoral hills stretching as far as the eye can see, fields and cattle, watch towers along the river."
+        },
+        {
+          "startUid": "u2093",
+          "endUid": "u2097",
+          "quote": "DM: This, you surmise, early on the morning of December fourth, must be the land of the orcs that you're looking for. No sign of Grash's army, at least not yet."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "DM’s two-day flight montage, confirmed by the next morning and the following morning of December fourth."
+      },
+      "timeRange": {
+        "start": {
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 2
+          },
+          "precision": "exact",
+          "basis": "Departure follows the explicitly dated December 2 morning; year from YAML.",
+          "partOfDay": "morning"
+        },
+        "end": {
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 4
+          },
+          "precision": "exact",
+          "basis": "Month/day stated; year inherited from session YAML.",
+          "partOfDay": "early morning"
+        }
+      },
+      "dateBoundaries": 2,
+      "completion": "completed",
+      "note": "Completes the narrated travel interval to the distant approach, not arrival inside the orc kingdom."
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2074",
+        "endUid": "u2082"
+      },
+      "reading": "After the first long day and night of flight, the next morning dawns; the party repeats the travel routine.",
+      "evidence": [
+        {
+          "startUid": "u2074",
+          "endUid": "u2082",
+          "quote": "DM: So after a long day of travel, some repairs on the ship, a brief land in the desert to switch pilots, and then another long night of flying, when some of you sleep and Kenzo drives, the next morning dawns hot and clear again. And you just do it again. Another day of soaring up into the sky, another day of watching the desert landscape below you slowly change."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 3
+        },
+        "precision": "exact",
+        "basis": "Morning after the December 2 departure, within the two-day montage; year from YAML.",
+        "partOfDay": "dawn"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t13"
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2083",
+        "endUid": "u2097"
+      },
+      "reading": "Early on December 4, the party sights the river valley and the land of the peaceful orcs from a distance.",
+      "evidence": [
+        {
+          "startUid": "u2083",
+          "endUid": "u2092",
+          "quote": "DM: Until the morning after another change in another, the rest, driving off a few curious giant vultures who come to see what this other giant ship in the sky is, watching the landscape change before you, you see in the distance a valley, the river valley. You see rolling pastoral hills stretching as far as the eye can see, fields and cattle, watch towers along the river."
+        },
+        {
+          "startUid": "u2093",
+          "endUid": "u2097",
+          "quote": "DM: This, you surmise, early on the morning of December fourth, must be the land of the orcs that you're looking for. No sign of Grash's army, at least not yet."
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2121",
+          "quote": "DM: But you do see, I mean, even when you're approaching from quite a distance, right, like from 50 miles off, you can see the landscape stretching in front of you, this river, the first river that you come to, this river here, right, you can see like the law—this whole river valley. This— you know, clear irrigation, like this— this— you know, lots of cattle, lots of green growing."
+        },
+        {
+          "startUid": "u2125",
+          "endUid": "u2127",
+          "quote": "DM: And you know, just almost of comes out of nowhere, right, like that. I guess you were mostly flying through the night before you encountered it. But you know, this is in the midst of a— of a, you know, desert, right? This is like—this is like Egypt, I guess, like coming across the Nile."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 4
+        },
+        "precision": "exact",
+        "basis": "Month/day stated; year inherited from session YAML.",
+        "partOfDay": "early morning"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t13"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "November 30 (last day of November), December 1, December 2 and December 4 are independently narrated; the year 1748 comes only from YAML. The opening middle-of-night encounter precedes the one-a.m. camp scene and November 30 breakfast.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t05",
+      "t06",
+      "t08",
+      "t10",
+      "t12",
+      "t13",
+      "t14",
+      "t15"
+    ],
+    "explanation": "The source explicitly accounts for four civil-date transitions from November 30 through December 4. YAML starts November 29; that can denote the overnight begun before the opening continuation, but this transcript does not establish the pre-midnight portion as played here. No missing day is supplied from drEnd and no contradiction is established."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "reading": "The opening continues an overnight encounter; its pre-midnight start is outside the established current-session span.",
+      "alternatives": [
+        {
+          "reading": "YAML November 29 labels the night begun before midnight; its continued fight and return at one a.m. fall on November 30.",
+          "date": "1748-11-29"
+        },
+        {
+          "reading": "A civil-date boundary based on the recorded post-midnight events begins November 30, conditional on the subsequent November 30 breakfast anchor.",
+          "date": "1748-11-30"
+        }
+      ]
+    }
+  ]
+}

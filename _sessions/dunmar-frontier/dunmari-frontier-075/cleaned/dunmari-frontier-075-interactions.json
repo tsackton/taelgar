@@ -1,0 +1,1711 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "00b24463ffb6489a5efcba5dbdf9795e45fd81756520bab1e197f2a526179f1c"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-entity-map.json",
+      "sha256": "25c2673f09721f9b3a0549b25743e3f1de68d7227f562ccecfb96b72f24e9ce2"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The hunter tries to carry Kenzo away and is killed",
+      "source": {
+        "startUid": "u0062",
+        "endUid": "u0910"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u0062:0-46 %%",
+        "DM: The the shadow hunters who had been tracking.",
+        "",
+        "%% u0062:46-92 %%",
+        "Kenzo: Oh, yeah, yeah, yeah. Can I see them anywhere?",
+        "",
+        "%% u0063:0-47, u0064:0-5, u0065:0-31, u0066:0-85, u0067:0-26, u0068:0-35, u0069:0-81, u0070:0-141, u0071:0-33, u0072:0-60, u0073:0-93, u0074:0-30, u0075:0-82, u0076:0-21, u0077:0-109, u0078:0-10, u0079:0-79, u0080:0-110, u0081:0-93, u0081:93-119, u0082:0-113, u0083:0-29, u0083:29-119, u0084:0-76, u0085:0-66, u0085:66-95, u0086:0-18, u0087:0-48, u0088:0-19, u0089:0-40, u0090:0-93, u0091:0-2, u0092:0-62, u0093:0-43, u0094:0-137, u0095:0-129, u0096:0-91, u0097:0-48, u0098:0-32, u0099:0-71, u0100:0-87, u0101:0-50, u0102:0-21, u0103:0-11, u0104:0-8, u0105:0-19, u0106:0-23, u0106:23-32, u0107:0-31, u0108:0-5, u0109:0-51, u0110:0-20, u0111:0-42, u0112:0-4, u0113:0-4, u0114:0-8, u0115:0-9, u0116:0-70, u0117:0-57, u0118:0-47, u0119:0-25, u0120:0-4, u0121:0-6, u0122:0-52, u0123:0-17, u0124:0-16, u0125:0-8, u0126:0-44, u0127:0-31, u0128:0-19, u0129:0-1, u0130:0-50, u0131:0-167, u0132:0-24, u0133:0-15, u0134:0-36, u0135:0-8, u0136:0-53, u0137:0-33, u0138:0-10, u0139:0-104, u0140:0-5, u0141:0-14, u0142:0-61, u0143:0-16, u0143:16-25, u0144:0-18, u0145:0-19, u0146:0-26, u0147:0-32, u0148:0-2, u0149:0-29, u0150:0-54, u0151:0-18, u0152:0-14, u0153:0-29, u0154:0-25, u0155:0-8, u0156:0-43, u0157:0-97, u0158:0-43, u0159:0-44, u0160:0-41, u0161:0-97, u0162:0-67, u0163:0-27, u0164:0-47, u0165:0-43, u0166:0-98, u0167:0-172, u0168:0-29, u0169:0-3, u0170:0-6, u0171:0-33, u0172:0-87, u0173:0-85, u0174:0-78, u0175:0-11, u0176:0-27, u0177:0-77, u0178:0-6, u0179:0-41, u0180:0-135, u0181:0-48, u0182:0-79, u0183:0-31, u0184:0-159, u0185:0-5, u0186:0-5, u0187:0-57, u0188:0-28, u0189:0-42, u0190:0-27, u0191:0-102, u0191:102-171, u0192:0-30, u0193:0-108, u0194:0-34, u0195:0-107, u0196:0-28, u0197:0-130, u0198:0-33, u0199:0-12, u0200:0-85, u0201:0-66, u0202:0-137, u0203:0-5, u0204:0-8, u0205:0-34, u0206:0-73, u0207:0-32, u0208:0-15, u0208:15-45, u0209:0-28, u0210:0-35, u0211:0-5, u0212:0-16, u0213:0-5, u0214:0-150, u0215:0-66, u0216:0-57, u0217:0-50, u0218:0-15, u0219:0-28, u0220:0-10, u0221:0-4, u0222:0-41, u0223:0-59, u0223:59-78, u0224:0-11, u0225:0-5, u0226:0-28, u0227:0-1, u0228:0-23, u0229:0-78, u0230:0-9, u0231:0-73, u0232:0-74, u0233:0-22, u0234:0-48, u0235:0-38, u0236:0-33, u0237:0-45, u0238:0-23, u0239:0-19, u0240:0-4, u0241:0-15, u0242:0-8, u0243:0-15, u0244:0-7, u0245:0-78, u0246:0-37, u0247:0-5, u0248:0-37, u0249:0-10, u0250:0-116, u0251:0-36, u0252:0-39, u0253:0-23, u0254:0-10, u0255:0-5, u0256:0-30, u0257:0-4, u0258:0-20, u0259:0-109, u0260:0-6, u0261:0-10, u0262:0-10, u0263:0-57, u0264:0-12, u0265:0-10, u0266:0-4, u0267:0-36, u0268:0-3, u0269:0-22, u0270:0-4, u0271:0-106, u0272:0-11, u0273:0-14, u0274:0-8, u0275:0-40, u0276:0-12, u0277:0-19, u0278:0-71, u0279:0-22, u0280:0-3, u0281:0-5, u0282:0-91, u0283:0-5, u0284:0-9, u0285:0-16, u0286:0-16, u0287:0-97, u0288:0-110, u0289:0-21, u0290:0-78, u0291:0-44, u0292:0-17, u0293:0-103, u0294:0-7, u0295:0-43, u0296:0-44, u0296:44-93, u0296:93-146, u0297:0-17, u0298:0-19, u0299:0-79, u0300:0-37, u0301:0-5, u0302:0-3, u0303:0-3, u0304:0-10, u0305:0-25, u0306:0-27, u0307:0-3, u0308:0-32, u0309:0-26, u0310:0-6, u0311:0-30, u0312:0-4, u0313:0-8, u0314:0-27, u0315:0-18, u0316:0-13, u0317:0-5, u0318:0-83, u0319:0-5, u0320:0-80, u0321:0-22, u0322:0-27, u0323:0-17, u0324:0-12, u0325:0-5, u0326:0-53, u0327:0-47, u0328:0-8, u0329:0-5, u0330:0-95, u0331:0-44, u0332:0-95, u0332:95-126, u0333:0-55, u0334:0-30, u0335:0-59, u0336:0-29, u0337:0-5, u0338:0-4, u0339:0-2, u0340:0-12, u0341:0-20, u0342:0-47, u0343:0-134, u0344:0-44, u0345:0-83, u0346:0-63, u0347:0-36, u0348:0-28, u0349:0-2, u0350:0-4, u0351:0-42, u0352:0-5, u0353:0-2, u0354:0-9, u0355:0-9, u0356:0-89, u0357:0-13, u0358:0-12, u0359:0-91, u0360:0-42, u0361:0-51, u0362:0-118, u0363:0-4, u0364:0-127, u0365:0-8, u0366:0-3, u0367:0-23, u0368:0-68, u0369:0-35, u0370:0-13, u0371:0-14, u0372:0-32, u0373:0-35, u0374:0-30, u0375:0-23, u0376:0-34, u0377:0-3, u0378:0-29, u0379:0-11, u0380:0-15, u0381:0-68, u0382:0-2, u0383:0-82, u0384:0-23, u0385:0-32, u0386:0-14, u0387:0-33, u0388:0-16, u0389:0-3, u0390:0-34, u0391:0-10, u0392:0-3, u0393:0-66, u0393:66-117, u0393:117-181, u0394:0-47, u0395:0-10, u0396:0-5, u0397:0-3, u0398:0-21, u0399:0-7, u0400:0-109, u0401:0-5, u0402:0-110, u0402:110-142, u0403:0-6, u0404:0-62, u0405:0-40, u0406:0-52, u0407:0-14, u0408:0-5, u0409:0-50, u0410:0-142, u0411:0-40, u0411:40-44, u0411:44-135, u0412:0-46, u0413:0-2, u0414:0-62, u0415:0-2, u0416:0-27, u0417:0-14, u0418:0-84, u0419:0-40, u0420:0-30, u0421:0-28, u0422:0-51, u0423:0-20, u0424:0-23, u0425:0-8, u0426:0-5, u0427:0-60, u0428:0-20, u0429:0-59, u0430:0-165, u0431:0-51, u0432:0-10, u0433:0-38, u0434:0-25, u0435:0-7, u0436:0-26, u0437:0-7, u0438:0-48, u0439:0-3, u0440:0-6, u0441:0-22, u0442:0-13, u0443:0-16, u0444:0-5, u0445:0-119, u0446:0-47, u0447:0-151, u0448:0-56, u0449:0-95, u0450:0-98, u0451:0-30, u0452:0-5, u0453:0-27, u0454:0-24, u0455:0-22, u0456:0-78, u0457:0-14, u0458:0-5, u0459:0-17, u0460:0-50, u0461:0-5, u0462:0-20, u0463:0-18, u0464:0-27, u0464:27-35, u0465:0-49, u0466:0-10, u0467:0-7, u0468:0-19, u0469:0-3, u0470:0-45, u0471:0-5, u0472:0-30, u0472:30-79, u0473:0-95, u0474:0-17, u0475:0-58, u0476:0-71, u0477:0-28, u0478:0-39, u0479:0-10, u0480:0-42, u0481:0-19, u0482:0-8, u0483:0-52, u0484:0-9, u0485:0-8, u0486:0-23, u0487:0-36, u0488:0-2, u0489:0-4, u0490:0-19, u0491:0-92, u0492:0-5, u0493:0-36, u0494:0-9, u0495:0-28, u0496:0-12, u0496:12-32, u0497:0-86, u0498:0-4, u0499:0-12, u0500:0-52, u0501:0-5, u0502:0-61, u0503:0-13, u0504:0-2, u0505:0-17, u0506:0-14, u0507:0-30, u0508:0-3, u0509:0-88, u0510:0-29, u0511:0-61, u0512:0-5, u0513:0-63, u0514:0-4, u0515:0-43, u0516:0-110, u0517:0-80, u0518:0-33, u0519:0-21, u0520:0-23, u0521:0-97, u0522:0-64, u0523:0-99, u0524:0-27, u0525:0-38, u0526:0-96, u0527:0-73, u0528:0-20, u0529:0-98, u0529:98-155, u0530:0-76, u0530:76-121, u0531:0-65, u0532:0-26, u0533:0-5, u0534:0-73, u0535:0-12, u0536:0-54, u0537:0-12, u0538:0-109, u0539:0-44, u0540:0-38, u0541:0-6, u0542:0-37, u0543:0-50, u0544:0-9, u0545:0-44, u0546:0-21, u0547:0-88, u0548:0-76, u0549:0-10, u0550:0-4, u0551:0-5, u0552:0-10, u0553:0-49, u0554:0-24, u0555:0-19, u0556:0-58, u0557:0-12, u0558:0-20, u0559:0-3, u0560:0-10, u0561:0-40, u0562:0-52, u0563:0-5, u0564:0-10, u0565:0-3, u0566:0-4, u0567:0-14, u0568:0-6, u0569:0-6, u0570:0-34, u0571:0-28, u0572:0-17, u0573:0-17, u0574:0-12, u0575:0-26, u0576:0-26, u0577:0-7, u0578:0-6, u0579:0-104, u0580:0-25, u0581:0-64, u0582:0-38, u0583:0-45 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u0584:0-12, u0585:0-28, u0586:0-35, u0587:0-12 %%",
+        "DM: ((Combat mechanics)) as he grabs Kenzo's body and begins running away.",
+        "",
+        "%% u0588:0-47, u0588:47-70, u0589:0-28, u0590:0-26, u0591:0-30, u0592:0-8, u0593:0-3, u0594:0-11, u0595:0-25, u0596:0-7, u0597:0-8, u0598:0-5, u0599:0-51, u0600:0-53, u0601:0-14, u0602:0-35, u0603:0-3, u0604:0-9, u0605:0-43, u0606:0-89, u0607:0-23, u0608:0-32, u0609:0-72, u0610:0-111, u0611:0-32, u0612:0-12, u0613:0-23, u0614:0-73, u0615:0-33, u0616:0-76, u0617:0-56, u0617:56-143, u0618:0-123, u0619:0-84, u0620:0-56, u0621:0-61, u0622:0-75, u0623:0-61, u0624:0-13, u0625:0-27, u0626:0-20, u0627:0-18, u0628:0-11, u0629:0-86, u0630:0-23, u0631:0-5, u0632:0-12, u0633:0-29, u0634:0-54, u0635:0-39, u0636:0-15, u0637:0-15, u0638:0-22, u0639:0-14, u0640:0-20, u0641:0-3, u0642:0-36, u0642:36-80, u0643:0-11, u0644:0-31, u0645:0-25, u0646:0-12, u0647:0-14, u0648:0-10, u0649:0-42, u0650:0-7, u0651:0-3, u0652:0-17, u0653:0-5, u0654:0-10, u0655:0-97, u0656:0-8, u0657:0-16, u0658:0-11, u0659:0-59, u0660:0-42, u0661:0-59, u0662:0-112, u0663:0-70, u0664:0-67, u0665:0-69, u0666:0-35, u0667:0-21, u0668:0-18, u0669:0-12, u0670:0-115, u0671:0-79, u0672:0-8, u0673:0-38, u0674:0-65, u0675:0-45, u0676:0-16, u0677:0-11, u0678:0-36, u0678:36-63, u0679:0-6, u0680:0-4, u0681:0-51, u0682:0-8, u0683:0-73, u0684:0-24, u0685:0-8, u0686:0-34, u0687:0-48, u0688:0-70, u0688:70-87, u0688:87-151, u0689:0-29, u0690:0-46, u0691:0-20, u0692:0-5, u0693:0-27, u0694:0-33, u0695:0-8, u0696:0-30, u0697:0-64, u0698:0-21, u0699:0-52, u0700:0-11, u0701:0-23, u0702:0-23, u0703:0-15, u0704:0-28, u0705:0-7, u0706:0-13, u0707:0-5, u0708:0-43, u0709:0-16, u0710:0-8, u0711:0-7, u0712:0-41, u0713:0-3, u0714:0-18, u0715:0-141, u0716:0-28, u0717:0-5, u0718:0-10, u0719:0-3, u0720:0-95, u0721:0-24, u0722:0-38, u0723:0-13, u0724:0-13, u0725:0-46, u0726:0-41, u0727:0-4, u0728:0-85, u0729:0-53, u0730:0-13, u0731:0-34, u0732:0-29, u0733:0-40, u0734:0-46, u0735:0-118, u0736:0-27, u0737:0-4, u0738:0-4, u0739:0-53, u0740:0-94, u0741:0-3, u0742:0-28, u0743:0-7, u0744:0-17, u0745:0-12, u0746:0-36, u0747:0-4, u0748:0-4, u0749:0-40, u0750:0-44, u0751:0-65, u0752:0-55, u0753:0-25, u0754:0-17, u0755:0-53, u0756:0-72, u0757:0-11, u0758:0-64, u0759:0-17, u0760:0-80, u0760:80-102, u0761:0-14, u0762:0-23, u0763:0-54, u0764:0-2, u0765:0-32, u0766:0-20, u0767:0-183, u0767:183-210, u0767:210-246, u0768:0-57, u0769:0-38, u0770:0-75, u0771:0-46, u0772:0-14, u0773:0-45, u0774:0-4, u0775:0-3, u0776:0-74, u0777:0-117, u0778:0-14, u0779:0-7, u0780:0-26, u0781:0-68, u0782:0-21, u0783:0-27, u0784:0-43, u0785:0-16, u0786:0-39, u0787:0-84, u0788:0-4, u0789:0-70, u0790:0-20, u0790:20-48, u0790:48-86, u0791:0-43, u0792:0-23, u0793:0-5, u0794:0-3, u0795:0-22, u0796:0-4, u0797:0-103, u0798:0-107, u0799:0-63, u0800:0-128, u0801:0-7, u0802:0-35, u0803:0-18, u0804:0-5, u0805:0-55, u0806:0-38, u0807:0-12, u0808:0-24, u0809:0-38, u0810:0-6, u0811:0-17, u0812:0-9, u0813:0-55, u0813:55-60, u0813:60-116, u0814:0-7, u0814:7-120, u0815:0-25, u0816:0-8, u0817:0-16, u0818:0-10, u0819:0-40, u0820:0-55, u0821:0-35, u0822:0-138, u0823:0-56, u0824:0-8, u0825:0-9, u0826:0-3, u0827:0-74, u0828:0-16, u0829:0-9, u0830:0-4, u0831:0-89, u0832:0-8, u0833:0-51, u0834:0-3, u0835:0-3, u0836:0-47, u0837:0-87, u0838:0-5, u0839:0-41, u0840:0-39, u0841:0-45, u0842:0-19, u0843:0-26, u0844:0-44, u0845:0-16, u0846:0-20, u0847:0-62, u0848:0-12, u0849:0-4, u0850:0-7, u0851:0-63, u0852:0-24, u0853:0-60, u0854:0-28, u0855:0-11, u0855:11-84, u0856:0-25, u0857:0-2, u0858:0-10, u0859:0-10, u0860:0-121, u0861:0-28, u0862:0-32, u0863:0-55, u0864:0-86, u0865:0-16, u0866:0-45, u0867:0-40, u0868:0-14, u0869:0-28, u0869:28-133, u0869:133-197, u0870:0-28, u0871:0-5, u0872:0-89, u0873:0-14, u0874:0-46, u0875:0-20, u0876:0-10, u0877:0-48, u0878:0-5, u0879:0-25, u0880:0-3, u0881:0-35, u0882:0-6, u0883:0-26, u0884:0-16, u0885:0-5, u0886:0-41, u0887:0-10, u0888:0-39, u0889:0-89, u0890:0-29, u0891:0-32, u0892:0-48, u0893:0-39, u0894:0-15, u0895:0-49, u0896:0-26, u0897:0-41, u0898:0-28, u0899:0-15, u0900:0-10, u0901:0-52, u0902:0-4, u0903:0-48, u0904:0-13 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u0905:0-27, u0906:0-102, u0907:0-7, u0908:0-64, u0909:0-28, u0910:0-27 %%",
+        "DM: So as Wellby stands above, floats above, and draws an arrow and launches it straight into the top of this shadow creature's head. He just collapses, and you can see his face turns from this shadowy form to this pale sort of looking human male as he collapses."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Unless you—unless you stop concentrating on the ship, which means it doesn't—it doesn't mean that it will crash. It just floats kind of listlessly drifting in the air. If there's wind, it won't crash unless you die.",
+          "Seeker: Great.",
+          "DM: Okay, Kenzo, you are— you get the jump on everybody.",
+          "Kenzo: Hold on, so I kind of missed, like, what we're like— Wellby and I flew ahead. And what are we looking at, or what are we fighting?",
+          "Seeker: Some howling creatures."
+        ],
+        "after": [
+          "DM: And the remaining— now that the light is gone, the big dog appears.",
+          "Unknown: So—",
+          "DM: Next to the yeti.",
+          "Seeker: What then?",
+          "DM: It's—nowhere it could show without light, and then the 2 other remaining dogs are going to attack the Yeti. That one hits, that one misses. So you take another 10 points of damage, and another Constitution saving throw."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Ladder receives the name Laddie",
+      "source": {
+        "startUid": "u0430",
+        "endUid": "u0437"
+      },
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u0430:0-165, u0431:0-51 %%",
+        "Seeker: ((Garden discussion)) Does the ladder have a name? By the way. That's an important question that we should resolve.",
+        "",
+        "%% u0432:0-10 %%",
+        "Kenzo: All right.",
+        "",
+        "%% u0433:0-38 %%",
+        "DM: This is heroic ladder V: 2 right now.",
+        "",
+        "%% u0434:0-25 %%",
+        "Seeker: Right it. It just hit me.",
+        "",
+        "%% u0435:0-7 %%",
+        "Kenzo: Laddie.",
+        "",
+        "%% u0436:0-26 %%",
+        "Seeker: Laddie, a little, too. But—",
+        "",
+        "%% u0437:0-7 %%",
+        "Kenzo: Anyway."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: So I can. I can walk forward on deck to like up here.",
+          "DM: Yeah.",
+          "Seeker: Or so. We don't actually have a tree on the ship yet, do we?",
+          "Kenzo: No, a little garden?",
+          "Seeker: It's a little—it's—it's just a—it's just a—it's just earth."
+        ],
+        "after": [
+          "Seeker: Okay, Laddie. And so I will cast a Psychic Lance at— or the— the Demon. Yeah. Okay.",
+          "DM: Intelligence. Nope, that fails.",
+          "Seeker: Nice.",
+          "DM: So the demon looks around, confused, as it staggers back. It—doesn't it have some additional effect, and it fails its save?",
+          "Seeker: Incapacitated until the start of the next turn."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Vola’s earlier transformation recalled",
+      "source": {
+        "startUid": "u1023",
+        "endUid": "u1025"
+      },
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1023:0-56 %%",
+        "((Unrelated recollection))",
+        "",
+        "%% u1023:56-131 %%",
+        "Wellby: Yes, but also when you guys are fighting the dragon on the Cape, you turned.",
+        "",
+        "%% u1024:0-4 %%",
+        "DM: That—",
+        "",
+        "%% u1025:0-114 %%",
+        "Seeker: Vola the ranger into a giant crab, a huge giant crab, ((Unclear unrelated recollection))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: All 6. Oh, on somebody else. I've used polymorph actually a bunch of times. It's one of my most used spells.",
+          "DM: Yeah, no. But you can use it on somebody else you can make you can.",
+          "Seeker: That's normally what I do. Yeah.",
+          "Wellby: Isn't that—is that what you did in the dragon attack? Okay.",
+          "Seeker: But wait, where—"
+        ],
+        "after": [
+          "DM: Yeah, but the other thing that's useful about Polymorph is like, if, for example, Kenzo is in the front line and has only 10 hit points left, turning them into a giant ape gives them a whole nother—",
+          "Seeker: 150 hit points. Right? That's worth considering.",
+          "Kenzo: This is a Polymorph?",
+          "Seeker: The range? Well, I now have the ability to modify a certain aspects, and so effectively unlimited, if you're willing to risk randomly polymorphing somebody into something else. That would be hilarious. I should definitely try that.",
+          "Seeker: The range is normally 60 feet. But yeah, I can double it, or it—quadruple it, and it's fairly safe. Quadrupling it gets pretty risky."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The dead hunter’s human-looking host",
+      "source": {
+        "startUid": "u1054",
+        "endUid": "u1074"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "lines": [
+        "%% u1054:0-29, u1055:0-53, u1056:0-78, u1057:0-108, u1058:0-70, u1059:0-75 %%",
+        "DM: So you're left now with this— all of the creatures other than this—this hunter guy vanished into shadows, but he seems to be real and solid, and now lying pale, looking, you know, bloodshot eyes, the sort of purplish webbing along his fingers and under his fingernails, looking nothing like he looked a minute ago when you were fighting him. Tattered, tattered cloak. The spear has vanished that he was fighting with.",
+        "",
+        "%% u1060:0-40, u1061:0-10, u1062:0-42 %%",
+        "Wellby: And we—we knew that they were using like— they like controlled people as host for this thing?",
+        "",
+        "%% u1063:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1064:0-69 %%",
+        "Seeker: Well, what's the purple webbing? Is that something we've seen before?",
+        "",
+        "%% u1065:0-4 %%",
+        "Riswynn: Like—",
+        "",
+        "%% u1066:0-37 %%",
+        "DM: It's probably just like chalyte, like—",
+        "",
+        "%% u1067:0-3 %%",
+        "Seeker: And—",
+        "",
+        "%% u1068:0-32 %%",
+        "Kenzo: Are my scars—they—they the same?",
+        "",
+        "%% u1069:0-14 %%",
+        "DM: Similar. Yeah.",
+        "",
+        "%% u1070:0-28 %%",
+        "Seeker: All right. That makes sense.",
+        "",
+        "%% u1071:0-23, u1072:0-25, u1073:0-21 %%",
+        "Riswynn: I got anything for him? Cure Wounds, Dispel Magic, Greater Restoration.",
+        "",
+        "%% u1073:21-44 %%",
+        "DM: I mean, he's he's dead.",
+        "",
+        "%% u1073:44-48, u1074:0-81 %%",
+        "Riswynn: Oh. Well, I thought he was dead, but then you started saying he was just lying there."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: 15. Yeah, that's a that's not a great roll for us.",
+          "Riswynn: I keep getting all these ones in my Fourth Level casts.",
+          "DM: But you can sleep, so—",
+          "Seeker: Right it's gonna be fine.",
+          "Unknown: Yeah."
+        ],
+        "after": [
+          "Kenzo: No, just the corpse looks very different in death than—wait, you talk to dead people.",
+          "Seeker: Can you?",
+          "Wellby: We have a—we can talk to one dead person, right?",
+          "Kenzo: Is it worth my spending on this guy?",
+          "Seeker: You?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Hralgar’s limits on knowledge of the world",
+      "source": {
+        "startUid": "u1122",
+        "endUid": "u1125"
+      },
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1122:0-16, u1123:0-7, u1124:0-63, u1125:0-12 %%",
+        "Wellby: The storm giant, Hralgar didn't know what was on the far side of the Green Sea, like it's— there may be—"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: So it's curved.",
+          "DM: It's curved, but that doesn't mean it's a globe.",
+          "Seeker: Can be cylindrical, or—",
+          "Kenzo: Don't we like to use math if it like—when the dwarves or somebody fucking smart to figure that out by now?",
+          "Seeker: There are hypotheses about this. There's actually—every 100 years there's a conference about this topic."
+        ],
+        "after": [
+          "DM: It—it's—it's—look, everybody agrees that Taelgar is locally spherical.",
+          "Kenzo: What does that mean? Locally spherical?",
+          "DM: Well, who knows what happens if you sail on the other on the ocean? Maybe it's like, maybe Taelgar is like a bubble coming out of something else.",
+          "Seeker: Oh, I like that, and you know— course Tim knows.",
+          "DM: I do, but it's not canonical yet, because it hasn't been introduced in play."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Fausto suspected behind the attempted abductions",
+      "source": {
+        "startUid": "u1152",
+        "endUid": "u1160"
+      },
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1152:0-53 %%",
+        "Seeker: The shadow hunters. Where were we when that happened?",
+        "",
+        "%% u1153:0-20 %%",
+        "DM: Fleeing from Chardon.",
+        "",
+        "%% u1154:0-6, u1155:0-50 %%",
+        "Seeker: Right. Well, of course it's the pattern they're trying to—",
+        "",
+        "%% u1156:0-49 %%",
+        "Kenzo: Fucking take our lifeless bodies back to Fausto.",
+        "",
+        "%% u1157:0-10 %%",
+        "Wellby: Yeah, here.",
+        "",
+        "%% u1158:0-59 %%",
+        "Kenzo: To likely animate us into even more powerful demon hunters.",
+        "",
+        "%% u1159:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1160:0-39 %%",
+        "Kenzo: So [garbled] recycled."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Well, that's what she love, like—you're directly responsible for me dying twice.",
+          "Wellby: And so I'm only going to count this as what it's directly, because it was so close back to back. I feel like it should only come.",
+          "Kenzo: No; but if you had the opportunity to save me to prevent me from dying a second time, and you neglected not to help, so both times. It is your great direct causal— causal, not correlative, causal.",
+          "Seeker: I'm—I'm—Kenzo, let's think about this too. I mean, I'm carving it into my staff, the tale of today. This is for posterity. So you do remember that the last time you fought one of these, they tried to drag Seeker off.",
+          "DM: Seems to be a pattern."
+        ],
+        "after": [
+          "Seeker: We should probably have the ship brightly illuminated at all times.",
+          "DM: Might make it hard to sleep. But sure, we're—so you—you have 2 driftglobes that cast a fair bit of light.",
+          "Seeker: Right?",
+          "Kenzo: No, it's—seriously, Wellby.",
+          "Seeker: It's all your fault, according to Kenzo."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Wellby practices mounted archery with Baxter",
+      "source": {
+        "startUid": "u1202",
+        "endUid": "u1203"
+      },
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u1202:0-5, u1203:0-96 %%",
+        "Wellby: Well, so Wellby spends the day working with Baxter and working on—on shooting from—from riding Baxter."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Hmm.",
+          "Wellby: Hmm.",
+          "Kenzo: Kenzo spends the day quietly tending to the garden.",
+          "Wellby: Wellby spends the day. Oh, sorry!",
+          "Kenzo: Oh, no, no, just—just a—you know, you see him like quietly tending to the garden, and he'll—he'll glance at Wellby, and then and then you—you can sense that every time he does, it's like very triggering for him, and he goes and like sits down calmly and meditate. It's intense again, and then, like, he'll like look and like just test Wellby out at the point, and then he starts getting flustered. But then he calms himself down, and yeah, so it's just this kind of patterns throughout the day. But— you probably don't notice that. Maybe Wellby does, but—"
+        ],
+        "after": [
+          "Wellby: But at a certain point he comes over to Kenzo, says, \"Kenzo, it's— it's really important, you know, for us as a team, it's important for us to take responsibility when things go badly. And so I think it's important for you to take responsibility for dying to that thing.\"",
+          "Seeker: Hmm.",
+          "Wellby: So, you know, think about it.",
+          "DM: It's roll initiative.",
+          "Kenzo: 23. I mean, I mean."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Sura debates securing Tokra before the eastern war",
+      "source": {
+        "startUid": "u1292",
+        "endUid": "u1627"
+      },
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1292:0-37, u1293:0-14, u1294:0-6 %%",
+        "DM: You hear a voice, Sura's voice, on the sending stone. Hello.",
+        "",
+        "%% u1295:0-15 %%",
+        "Kenzo: Yes, all right.",
+        "",
+        "%% u1296:0-43 %%",
+        "DM: This thing would be—it's very interesting.",
+        "",
+        "%% u1297:0-39 %%",
+        "Kenzo: Glad you—I'm glad—there's Alesh, right?",
+        "",
+        "%% u1298:0-12 %%",
+        "DM: Alesh, yeah.",
+        "",
+        "%% u1299:0-55 %%",
+        "Kenzo: I'm glad you were able to—oh—receive this from Alesh.",
+        "",
+        "%% u1300:0-18, u1301:0-32 %%",
+        "DM: I read your letter and the news that Alesh brought.",
+        "",
+        "%% u1302:0-4 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u1303:0-22 %%",
+        "DM: Here is the situation.",
+        "",
+        "%% u1304:0-49 %%",
+        "Kenzo: I've got it on Speaker phone, so we can all hear.",
+        "",
+        "%% u1305:0-45, u1306:0-67 %%",
+        "DM: I mean, that's how it works, right? It's not— It's not telepathy. It's actual like noise coming out of the stone.",
+        "",
+        "%% u1307:0-8, u1308:0-78, u1309:0-24 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1310:0-12, u1311:0-16, u1312:0-20, u1313:0-19, u1314:0-49, u1315:0-52, u1316:0-6, u1317:0-7, u1318:0-13, u1319:0-7, u1320:0-30 %%",
+        "DM: And she says, I appreciate the dangers to the East. And I trust Cintra, and the message she brings, the Shakun's warnings. Shakun has watched our borders for many generations. And if she now is concerned, I would— I would not take that lightly.",
+        "",
+        "%% u1321:0-44, u1322:0-16, u1323:0-23, u1324:0-56, u1325:0-122, u1326:0-45, u1327:0-23 %%",
+        "DM: Nonetheless, I cannot leave Tokra unwatched. I do not know if the rumors that Karnas or was in league with Agata Dustmother are true or not. Nonetheless, I do not trust the Chardonians who have been camped outside Tokra for months supposedly in support of Karnas. And I will not march the bulk of my army East until Tokra is secured.",
+        "",
+        "%% u1328:0-22, u1329:0-4, u1330:0-21, u1331:0-18, u1332:0-76 %%",
+        "DM: We had planned to ride this— in the next few days. Today or tomorrow. Our riding was delayed by Alesh's news, but I will not delay it much longer.",
+        "",
+        "%% u1333:0-13 %%",
+        "Kenzo: Ride to where?",
+        "",
+        "%% u1334:0-14 %%",
+        "DM: To take Tokra.",
+        "",
+        "%% u1335:0-62 %%",
+        "Kenzo: Are you going to lead any forces to defend the eastern border?",
+        "",
+        "%% u1336:0-31, u1337:0-44, u1338:0-24, u1339:0-35, u1340:0-25, u1341:0-29 %%",
+        "DM: I could send a small force now. We cannot commit the bulk of my forces until—but—well, I am sure that we will not be attacked from behind by the wizards of Chardon in league or not, with Karnas.",
+        "",
+        "%% u1342:0-6, u1343:0-75, u1344:0-8, u1345:0-30, u1346:0-36, u1347:0-93, u1348:0-24, u1349:0-10, u1350:0-66 %%",
+        "Kenzo: Alesh. I believe you are wise to be wary of the Chardonian mages. This is prudent. However, and this is a critical moment, we ride east right now. We head east to try to prevent what maybe the unleashing of a horrible, terrible army that will head west. And if Shakun's power is disbanded, as is the goal of our—of—of—we told—have we told her about Grash?",
+        "",
+        "%% u1351:0-30, u1352:0-86, u1353:0-47, u1354:0-61, u1355:0-23, u1356:0-31, u1357:0-5, u1358:0-55 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1359:0-25, u1360:0-9, u1361:0-49, u1362:0-51, u1363:0-63, u1364:0-84, u1365:0-26 %%",
+        "Kenzo: We fear that—we fear that with only a few moves terrible powers, terrible evil powers will be unleashed, and without Shakun's protection, a wave of terror, unlike what you can imagine, undead orcs that cannot be destroyed, repeatedly risen from the dead—risen from the dead. We'll be at the doorsteps of the East.",
+        "",
+        "%% u1366:0-17, u1367:0-21, u1368:0-80 %%",
+        "Kenzo: Is there a way to preserve your forces? Stay wary of Chardon, but also not leave the eastern border totally defenseless.",
+        "",
+        "%% u1369:0-20 %%",
+        "DM: What are your plans?",
+        "",
+        "%% u1370:0-39, u1371:0-46, u1372:0-102, u1373:0-29 %%",
+        "Kenzo: We head east with the goal of stopping— We believe that there is a powerful magic that if Grash is able to find it, retrieve it, will end Shakun's protections. Our goal is to stop Grash from seizing control of that item.",
+        "",
+        "%% u1374:0-38, u1375:0-55 %%",
+        "Kenzo: There's no guarantee we will succeed. I would say the chances are low, even, that will succeed.",
+        "",
+        "%% u1376:0-45 %%",
+        "Kenzo: Inside, though, I think the chances are fine.",
+        "",
+        "%% u1377:0-8 %%",
+        "DM: It says.",
+        "",
+        "%% u1378:0-68, u1379:0-8 %%",
+        "Kenzo: Also, telepathy: any other arguments here? Anything else I'm missing, friends?",
+        "",
+        "%% u1380:0-56, u1381:0-80, u1382:0-51, u1383:0-197 %%",
+        "Wellby: I feel like it's such a tough thing to convince, because you know, I get she doesn't want to leave a Chardonian army and mages behind her like that—that does seem unwise. On the other hand, attacking Tokra, attacking that Chardonian army also seems unwise, because it's not just about taking Tokra. I mean, it's essentially a declaration of war against Chardon, and it gives them a pretext—",
+        "",
+        "%% u1384:0-93, u1385:0-19, u1386:0-14, u1387:0-103, u1388:0-56, u1389:0-11, u1390:0-31, u1391:0-94, u1392:0-21, u1393:0-82, u1394:0-58, u1395:0-107, u1396:0-40 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1397:0-62, u1398:0-150, u1399:0-4 %%",
+        "DM: There is an army that's been camped. So so Karnas sent an army to Tokra with Chardonian reinforcements. There's the people you attempt to scry on, and who—or Clairvoyance—and who caught you and were mad at you. They—",
+        "",
+        "%% u1400:0-68, u1401:0-240 %%",
+        "DM: That army has been getting smaller and smaller over time, as people— you know, it was originally like the defense against the gnolls, but people have drifted off. You know, it's the harvest, right? People have to go back and tend to their herds and things like that, so the army can't stay in the field forever.",
+        "",
+        "%% u1402:0-172, u1403:0-18, u1404:0-82 %%",
+        "DM: But Chardonians have—have remained. Nobody is entirely sure. So now the army is—you know, it used to be the Chardonians were a small reinforcement for a large Dunmari army. At this point that Dunmari army is fairly small, and the Chardonians are a substantial fraction. That—",
+        "",
+        "%% u1405:0-99 %%",
+        "Kenzo: How are they staying alive? Do they have like a supply chain, or the Dunmari are like feeding them?",
+        "",
+        "%% u1406:0-20 %%",
+        "DM: They're feeding them.",
+        "",
+        "%% u1407:0-7 %%",
+        "Kenzo: The—but—",
+        "",
+        "%% u1408:0-51 %%",
+        "DM: I mean, they out—they have gold, right? They're not—",
+        "",
+        "%% u1409:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1410:0-9 %%",
+        "DM: You know.",
+        "",
+        "%% u1411:0-6 %%",
+        "Kenzo: Still.",
+        "",
+        "%% u1412:0-77 %%",
+        "DM: They're not—they're not stealing food or anything. They're paying for stuff.",
+        "",
+        "%% u1413:0-41, u1414:0-9, u1415:0-39, u1416:0-19, u1417:0-34, u1418:0-27 %%",
+        "DM: But the whole situation seems sort of on— you know, very uncertain at the moment, right? So, you know, Tokra is— It's hard to say what would happen if Sura marched into Tokra.",
+        "",
+        "%% u1419:0-46, u1420:0-7, u1421:0-29, u1422:0-52, u1423:0-32, u1424:0-11, u1425:0-4 %%",
+        "Wellby: Just can't imagine it going well, because even— even if she manages to push them out, she will have declared war both against her brother, openly, right, and against Chardon. Like what's— what—",
+        "",
+        "%% u1426:0-57, u1427:0-39, u1428:0-37 %%",
+        "Wellby: I just—I don't know how to get this message to her. Maybe Kenzo, maybe for you to say somehow. But I think she's thinking too short-term.",
+        "",
+        "%% u1429:0-25, u1430:0-119, u1431:0-29, u1432:0-21 %%",
+        "Wellby: Take Tokra, and then what? You know, then what? 6 months from now Chardon will roll over all of the space between the Myraeni Gap and the river, like, you can't stand against that. There's not no way to—",
+        "",
+        "%% u1433:0-101 %%",
+        "Kenzo: Sura, does this move against Chardon need to happen? Does this move against Tokra need to happen now?",
+        "",
+        "%% u1434:0-39, u1435:0-28, u1436:0-7 %%",
+        "DM: It must happen soon or not for a while. Sonkar's Day of Atonement is 20 days.",
+        "",
+        "%% u1437:0-42, u1438:0-98, u1439:0-39 %%",
+        "Kenzo: Is there to be no fighting for that month? Is there any way to send your forces to bolster the army there, but not engage, just to strengthen— just strengthen defenses on both sides?",
+        "",
+        "%% u1440:0-131, u1441:0-22, u1442:0-32, u1443:0-48, u1444:0-36 %%",
+        "Kenzo: Muster more troops, prepare. Again, I think it would be prudent to prepare the East for an assault in the event we are unsuccessful. A horde of undead orcs again will descend upon the land. Any—any—any efforts that can be made to fortify, to prepare, I would—I would recommend.",
+        "",
+        "%% u1445:0-27, u1446:0-5 %%",
+        "Kenzo: Right, everybody? Telepathy. Yeah.",
+        "",
+        "%% u1447:0-26, u1448:0-14, u1449:0-83, u1450:0-63 %%",
+        "DM: I believe, indeed, this is my destiny. My dreams have been afire, of riding at the head of an army of horses drawn of flames, my spear shining with Aagir's light, enemies burning before me.",
+        "",
+        "%% u1451:0-24, u1452:0-10 %%",
+        "DM: How dead are these orcs? They burn?",
+        "",
+        "%% u1453:0-18, u1454:0-14, u1455:0-12 %%",
+        "Kenzo: Yes, they do burn! Your vision is appreciated.",
+        "",
+        "%% u1456:0-28, u1457:0-42 %%",
+        "DM: This is an army of the East. This cannot happen if Tokra is not secure.",
+        "",
+        "%% u1458:0-22, u1459:0-10 %%",
+        "Kenzo: Really good. I believe that type.",
+        "",
+        "%% u1460:0-17, u1461:0-52 %%",
+        "DM: I believe Songara is ready to declare for me the moment I make a move.",
+        "",
+        "%% u1462:0-23 %%",
+        "Wellby: Why do you believe that?",
+        "",
+        "%% u1463:0-54 %%",
+        "DM: My emissaries have spoken to the Temple priests there.",
+        "",
+        "%% u1464:0-3, u1465:0-25, u1466:0-6, u1467:0-5, u1468:0-13, u1469:0-35, u1470:0-34, u1471:0-35 %%",
+        "DM: And Karnas, for all his flaws, pride, doubt and weakness. He has always been close to Sonkar. He will not fight on her holy day, the month of atonement and renewal.",
+        "",
+        "%% u1472:0-29, u1473:0-21, u1474:0-8, u1475:0-33, u1476:0-39, u1477:0-14, u1478:0-30, u1479:0-19 %%",
+        "DM: And so I aim to move quickly, make my possession of the East unassailable in the next 2 weeks, camp a small force in the Copper Hills, easy to defend, and send the bulk of my forces east to the borders.",
+        "",
+        "%% u1480:0-20 %%",
+        "Kenzo: East to the borders.",
+        "",
+        "%% u1481:0-44 %%",
+        "DM: But not until Tokra and Songara are secured.",
+        "",
+        "%% u1482:0-24 %%",
+        "Kenzo: How long will that take?",
+        "",
+        "%% u1483:0-24 %%",
+        "DM: I hope, 2 weeks or less.",
+        "",
+        "%% u1484:0-33, u1485:0-28, u1486:0-45 %%",
+        "DM: As I said, the fighting will stop, if there is even fighting. I— do not think the people much love my brother.",
+        "",
+        "%% u1487:0-52, u1488:0-104, u1488:104-290, u1488:290-343, u1489:0-140 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1490:0-143, u1491:0-155 %%",
+        "Kenzo: So what do you guys think? Should we let her go and—and, you know, try to unify? Or is she just going to get mired in a civil war to the West? Or is this the whole fucking goal of the Chardonian army, to lure her over there to like keep him in a fight, so that then she can't come back to the East?",
+        "",
+        "%% u1492:0-35, u1493:0-4, u1494:0-51, u1495:0-7, u1496:0-156, u1497:0-31, u1498:0-83 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1499:0-30, u1500:0-44, u1501:0-20, u1502:0-205, u1503:0-44 %%",
+        "Wellby: Her brother's already given up on that, like on the land east of the river. Like I think his new Dunmar is south of the mountains. I don't know, it just—it—it seems like it plays into place into the imperial Chardonians, whether or not that's real, right? But whether or not that's actually their design, her striking West certainly plays into that.",
+        "",
+        "%% u1504:0-76 %%",
+        "Kenzo: So I don't know what that means we should do, though. Yeah, sorry for sure.",
+        "",
+        "%% u1505:0-51, u1506:0-78, u1507:0-32, u1508:0-65, u1509:0-25, u1510:0-37, u1511:0-39 %%",
+        "Kenzo: If you're a—if you're mired in conflict in the west, and Chardon strikes and you bring all of Chardon in league with your brother, this is exactly what we believe the forces in the east, and also the corruption in Chardon wants. And then we will be lost. You lost in conflict to the west. Us, unable to stop the carnage in the East.",
+        "",
+        "%% u1512:0-4, u1513:0-16 %%",
+        "Kenzo: Wait, if you can wait.",
+        "",
+        "%% u1514:0-38 %%",
+        "DM: Chardon will not risk war with Dunmar.",
+        "",
+        "%% u1515:0-55 %%",
+        "Wellby: Well, what's your strength in the field, but right now?",
+        "",
+        "%% u1516:0-17, u1517:0-35, u1518:0-11, u1519:0-17 %%",
+        "DM: Right now in camp, 3,000 on horse, same again on foot. But at need, could triple that.",
+        "",
+        "%% u1520:0-3 %%",
+        "Unknown: Me.",
+        "",
+        "%% u1521:0-66, u1522:0-20 %%",
+        "DM: And with Songara, the vast plains across the Central—Central Dunmar, 5 times that number.",
+        "",
+        "%% u1523:0-21 %%",
+        "Kenzo: Tim. How long is the—",
+        "",
+        "%% u1523:21-38 %%",
+        "DM: All on horseback?",
+        "",
+        "%% u1524:0-15 %%",
+        "Kenzo: How long is it?",
+        "",
+        "%% u1525:0-63, u1526:0-13 %%",
+        "DM: It's a month. It's—so it's like from the winter solstice to the to the end of—",
+        "",
+        "%% u1527:0-5 %%",
+        "Kenzo: Good.",
+        "",
+        "%% u1528:0-42 %%",
+        "DM: The following month is like Sonkar's, like—",
+        "",
+        "%% u1529:0-70 %%",
+        "Kenzo: Yeah, the Day of Atonement, and then it ends with the with Laka's day.",
+        "",
+        "%% u1530:0-72 %%",
+        "DM: That's like a big celebration, when the sun—sun begins to go back north.",
+        "",
+        "%% u1531:0-5, u1532:0-69 %%",
+        "Kenzo: Sura, give us these 2 weeks, and the—what's the name of the holiday? Sonkar.",
+        "",
+        "%% u1533:0-52 %%",
+        "DM: The day of Sonkar, Sonkar's Day, or Day of Atonement.",
+        "",
+        "%% u1534:0-58, u1535:0-51, u1536:0-15, u1537:0-75, u1538:0-121 %%",
+        "Kenzo: Give us these 2 weeks in the Day of Atonement, that period. That'll be enough time for us to see if we can stop Grash from from from achieving the—the item that he needs. If we're able to stop them, then Shakun's protection remains. If we're unable to, then you'll know, and the only thing to do would be to fight to survive.",
+        "",
+        "%% u1539:0-41, u1540:0-9, u1541:0-13, u1542:0-27, u1543:0-17, u1544:0-16, u1545:0-36, u1546:0-25, u1547:0-2, u1548:0-73, u1549:0-157 %%",
+        "DM: If you are fleeing west on the heels of a Orc army, and there are 50 trained Chardonian mages waiting in Tokra, they will either step up to attack the Orcs and claim overlordship of our land, or our theories about the corruption in the heart of the Empire are correct. They will fight for the orcs. I do not think you want Chardonian Mages lingering in Tokra? If there is an orc army charging from the West, I certainly don't.",
+        "",
+        "%% u1550:0-30 %%",
+        "Kenzo: How are you going to move them?",
+        "",
+        "%% u1551:0-32, u1552:0-33 %%",
+        "DM: 3,000 cavalry can stop 50 mages. And we have the gods on our side.",
+        "",
+        "%% u1553:0-102, u1554:0-5, u1555:0-24, u1556:0-49 %%",
+        "Wellby: I mean, there's an argument to be made that if the eastern defenses fall, be better to have an army of— what? 30,000, than have 6,000? No, no, it seemed clear, and it seems less clear.",
+        "",
+        "%% u1557:0-19 %%",
+        "Kenzo: Why can't you wait?",
+        "",
+        "%% u1558:0-14 %%",
+        "DM: Wait for what?",
+        "",
+        "%% u1559:0-128 %%",
+        "Kenzo: Wait for us to try. Wait for us to try and stop Grash. If we can stop him, then—then—then attack away. Shakun's protection will—",
+        "",
+        "%% u1560:0-29, u1561:0-2, u1562:0-72 %%",
+        "DM: If you fail, is it not better to have secured our position and be able to defend from a place of strength?",
+        "",
+        "%% u1563:0-6 %%",
+        "Kenzo: That's—",
+        "",
+        "%% u1564:0-26, u1565:0-1, u1566:0-47, u1567:0-10, u1568:0-12, u1569:0-46 %%",
+        "Wellby: I'm increasingly persuaded. I— a—I don't know if she can really call that many to an army, seems solid, whether it's against Chardonians or the undead.",
+        "",
+        "%% u1570:0-40, u1571:0-32, u1572:0-25, u1573:0-40 %%",
+        "Kenzo: Sura, in the end, the decision is yours. Our path is clear. We head east. We'll do our best to stop Grash from undoing the powers of Shakun.",
+        "",
+        "%% u1574:0-26, u1575:0-20 %%",
+        "Kenzo: You know the consequences. The choice is yours.",
+        "",
+        "%% u1576:0-22, u1577:0-17 %%",
+        "DM: I fear I stand now on uncertain ground.",
+        "",
+        "%% u1578:0-16, u1579:0-30 %%",
+        "Kenzo: Pray to the gods that they offer you guidance.",
+        "",
+        "%% u1579:30-58, u1580:0-16, u1581:0-24 %%",
+        "DM: The gods, give me visions of glory and battle, Aagir riding at my side.",
+        "",
+        "%% u1582:0-31, u1583:0-9, u1584:0-25, u1585:0-16, u1586:0-50, u1587:0-91, u1588:0-31, u1589:0-28, u1590:0-16, u1591:0-104, u1592:0-30, u1593:0-119, u1594:0-42, u1595:0-36, u1596:0-108, u1597:0-29, u1598:0-133, u1599:0-47, u1600:0-24, u1601:0-5, u1602:0-12, u1603:0-22, u1604:0-51, u1605:0-129, u1606:0-19, u1607:0-21, u1608:0-110 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1609:0-43 %%",
+        "DM: Divination is the spell you're looking for.",
+        "",
+        "%% u1610:0-3 %%",
+        "Riswynn: Oh.",
+        "",
+        "%% u1611:0-66 %%",
+        "DM: You don't have it prepared so you couldn't cast it until tomorrow.",
+        "",
+        "%% u1612:0-82, u1613:0-19, u1613:19-47, u1613:47-70, u1614:0-116, u1615:0-7, u1616:0-83, u1617:0-91, u1617:91-168, u1618:0-26, u1619:0-13, u1620:0-69 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1621:0-204, u1622:0-102, u1623:0-79 %%",
+        "Kenzo: Perfect, it's not lost time. Right, Sura, we also have means to consult the gods. This is an important moment. The answer is not clear, but give us a day. Let us communicate again on these stones tomorrow and see if something is clear. You pray to your gods as well, pray to the Dunmari gods. I will as well. The gods can be—give us guidance in this moment. This decision is a heavy one.",
+        "",
+        "%% u1624:0-65 %%",
+        "DM: We do not plan to march till the day after tomorrow, in any case.",
+        "",
+        "%% u1625:0-22, u1626:0-18 %%",
+        "Kenzo: Then pray, then pray. Shakun be with you—",
+        "",
+        "%% u1627:0-8 %%",
+        "DM: And you."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So that's another point. If you are—so, if you are attuned to the— if you're attuned to the phasing stone, you have to unattune from either the ring of jumping, or the ring, or—",
+          "Kenzo: For the ring of what?",
+          "DM: Jumping or your ring of fire Resistance!",
+          "Kenzo: I'll I'll I'll detune from fire resistance.",
+          "DM: Okay."
+        ],
+        "after": [
+          "Kenzo: All right. Let's fucking do some divination.",
+          "DM: Okay. So you spend the rest of the day working on the ship. Kenzo practicing.",
+          "DM: The next morning, what are you going to ask when you wake up? You're prepared. You're ready to go at this point, so first thing in the morning before you take off, and whichever direction you're going to take off, what do you want to ask?",
+          "Kenzo: So what are we allowed to ask again?",
+          "Riswynn: It said, quest—go ahead—a single question concerning a specific goal, event or activity occur within 7 days, and the reply might be a short phrase, a cryptic rhyme, or an omen."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Who rules Tokra",
+      "source": {
+        "startUid": "u1384",
+        "endUid": "u1396"
+      },
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1384:0-93 %%",
+        "Kenzo: To seize that territory legitimately. Quickly, who is in control of Tokra right now? It is it—",
+        "",
+        "%% u1385:0-19, u1386:0-14, u1387:0-103 %%",
+        "DM: So, your sense from Govir and from from the scrying that Delwath's done, and just the various bits of rumor mongering, and what Gyles said.",
+        "",
+        "%% u1388:0-56, u1389:0-11, u1390:0-31 %%",
+        "DM: Right? So—so Tokra is still, you know, in control under the rule of the high priestess who you met.",
+        "",
+        "%% u1391:0-94, u1392:0-21, u1393:0-82, u1394:0-58, u1395:0-107, u1396:0-40 %%",
+        "DM: This is all—the Dunmari cities are all ruled by the temple administrators, by the head priests, sort of like a mayor. Her—her—nobody has like really pushed her on her loyalty, right? Like nobody said— it's sort of everybody's kind of avoided the question. But you know, technically speaking, her loyalty is to the gods. The whole issue here is the gods haven't really clearly supported one person or another."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: There's no guarantee we will succeed. I would say the chances are low, even, that will succeed.",
+          "Kenzo: Inside, though, I think the chances are fine.",
+          "DM: It says.",
+          "Kenzo: Also, telepathy: any other arguments here? Anything else I'm missing, friends?",
+          "Wellby: I feel like it's such a tough thing to convince, because you know, I get she doesn't want to leave a Chardonian army and mages behind her like that—that does seem unwise. On the other hand, attacking Tokra, attacking that Chardonian army also seems unwise, because it's not just about taking Tokra. I mean, it's essentially a declaration of war against Chardon, and it gives them a pretext—"
+        ],
+        "after": [
+          "DM: There is an army that's been camped. So so Karnas sent an army to Tokra with Chardonian reinforcements. There's the people you attempt to scry on, and who—or Clairvoyance—and who caught you and were mad at you. They—",
+          "DM: That army has been getting smaller and smaller over time, as people— you know, it was originally like the defense against the gnolls, but people have drifted off. You know, it's the harvest, right? People have to go back and tend to their herds and things like that, so the army can't stay in the field forever.",
+          "DM: But Chardonians have—have remained. Nobody is entirely sure. So now the army is—you know, it used to be the Chardonians were a small reinforcement for a large Dunmari army. At this point that Dunmari army is fairly small, and the Chardonians are a substantial fraction. That—",
+          "Kenzo: How are they staying alive? Do they have like a supply chain, or the Dunmari are like feeding them?",
+          "DM: They're feeding them."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The passage identifies a previously met high priestess but leaves her personal identity unresolved in the bound entity map."
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The dwarven gods answer, and the party disagrees about the omen",
+      "source": {
+        "startUid": "u1642",
+        "endUid": "u1734"
+      },
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1642:0-20, u1643:0-18, u1644:0-37 %%",
+        "Kenzo: All right, we asked. Should—should Sura march east and try to take back Tokra?",
+        "",
+        "%% u1645:0-6, u1646:0-12, u1647:0-25, u1648:0-7, u1649:0-55, u1650:0-32, u1651:0-26 %%",
+        "DM: So you— you sit down and and Riswynn prays for 10 min, working with some metal as a—as a sacrifice to the gods. ((Spell cost))",
+        "",
+        "%% u1652:0-6 %%",
+        "Unknown: So so.",
+        "",
+        "%% u1653:0-27, u1654:0-24, u1655:0-118, u1656:0-72, u1657:0-30, u1658:0-24 %%",
+        "DM: And you, as you go into your— as you go into your—your your prayers, Riswynn, you can hear the ringing of the hammers of the forge. I mean, now you hear a chant in Dwarvish, a sort of an echo of like a mining song that you know from your childhood. And the lyrics begin to shift. And in Dwarven you hear:",
+        "",
+        "%% u1659:0-22, u1660:0-8, u1661:0-21, u1662:0-69 %%",
+        "DM: \"Well, none can predict how long a building may stand. Those with strong foundations last longer than those with weak roots.\"",
+        "",
+        "%% u1663:0-18 %%",
+        "Kenzo: Say one more time.",
+        "",
+        "%% u1664:0-122 %%",
+        "Riswynn: \"Well, none can predict how long a building may stand. Those with strong foundations last longer than those with weak roots.\"",
+        "",
+        "%% u1665:0-19 %%",
+        "Kenzo: Just fucking stay!",
+        "",
+        "%% u1666:0-36, u1667:0-21, u1668:0-3, u1669:0-48, u1670:0-37, u1671:0-46, u1672:0-9, u1673:0-44, u1674:0-18, u1675:0-22, u1676:0-13 %%",
+        "Wellby: Well, I hear that—I hear that as go. Why, I—I hear that as— and Sura is the building with the strong foundation. The one with the claim to the throne, whose strength is the people of Dunmar. And so you can't know whether that will stand forever or not, but that she's got the strength to stand. I don't know.",
+        "",
+        "%% u1677:0-34 %%",
+        "Wellby: What—what do you all hear that as?",
+        "",
+        "%% u1678:0-8, u1679:0-39, u1680:0-23 %%",
+        "Kenzo: Fortify? Stay solid. Don't disperse your forces. Pretty straightforward.",
+        "",
+        "%% u1681:0-113 %%",
+        "Riswynn: It seems like fortifying to me, but I wasn't really sure whether we were fortifying Tokra or fortifying the East.",
+        "",
+        "%% u1682:0-20 %%",
+        "Kenzo: Fortifying the East.",
+        "",
+        "%% u1683:0-13 %%",
+        "Unknown: No doubt that—",
+        "",
+        "%% u1684:0-8 %%",
+        "Wellby: Is done.",
+        "",
+        "%% u1685:0-34, u1686:0-147 %%",
+        "Wellby: Dunmar's strength is on horseback. You know, perhaps this raising a larger army on horse is what fortification is here. I—I don't know. I don't know enough about Dunmar enough that, so—",
+        "",
+        "%% u1687:0-7 %%",
+        "Kenzo: Seeker.",
+        "",
+        "%% u1688:0-48, u1689:0-6 %%",
+        "Seeker: Are there any literal buildings involved in this story?",
+        "",
+        "%% u1690:0-42, u1691:0-84 %%",
+        "DM: So yeah, I mean, the—the—the implication of— we literal buildings in the—in the message from the gods, or in the like Tokra story?",
+        "",
+        "%% u1692:0-16 %%",
+        "Seeker: I mean in Tokra.",
+        "",
+        "%% u1693:0-43 %%",
+        "DM: Yeah, there's plenty of buildings in Tokra.",
+        "",
+        "%% u1694:0-6, u1695:0-41 %%",
+        "Seeker: Right? But like a single iconic structure, again.",
+        "",
+        "%% u1696:0-65, u1697:0-67 %%",
+        "DM: Yeah, there's like—there's the—there's the plaza that has those 3 ancient Dunmari buildings, the palace, the archives, and the temple.",
+        "",
+        "%% u1698:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1699:0-34, u1700:0-26 %%",
+        "Kenzo: Well, there's also the iconic mesa in the East, that is, when—",
+        "",
+        "%% u1701:0-6 %%",
+        "DM: Right.",
+        "",
+        "%% u1702:0-59, u1703:0-16, u1704:0-73, u1705:0-30 %%",
+        "Seeker: It is slightly weird to talk about the roots of a building. Because that was in the message, wasn't it, as opposed to foundations? Buildings don't have— the gods had a mixed metaphor.",
+        "",
+        "%% u1706:0-102 %%",
+        "Wellby: Yeah, simultaneously foundations and roots. Yeah, I mean, they're the gods. Who—who are we to question?",
+        "",
+        "%% u1707:0-6 %%",
+        "Seeker: Right?",
+        "",
+        "%% u1708:0-52 %%",
+        "DM: It's—it's just a poor translation from the Dwarfish.",
+        "",
+        "%% u1709:0-59 %%",
+        "Seeker: Because mountains have roots also. They are literally roots.",
+        "",
+        "%% u1710:0-44 %%",
+        "Wellby: In a mountain. Its roots are its foundation.",
+        "",
+        "%% u1711:0-112, u1712:0-60, u1713:0-39 %%",
+        "DM: But the implication from the—I mean the Dwarfish, you know, in the original Dwarfish the sense would be sort of— and in the sense of like building, right, it would be sort of— at—you can't build on a weak platform.",
+        "",
+        "%% u1714:0-41, u1715:0-41, u1716:0-39, u1717:0-18, u1718:0-24 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1719:0-78, u1720:0-59 %%",
+        "Wellby: Well, Wellby will say—well, Wellby will confess to being flummoxed, and I'm— I can convince myself either way, and both of them at once.",
+        "",
+        "%% u1721:0-8, u1722:0-8 %%",
+        "Kenzo: Riswynn? Riswynn?",
+        "",
+        "%% u1723:0-7 %%",
+        "Riswynn: I mean.",
+        "",
+        "%% u1724:0-53, u1725:0-110 %%",
+        "Riswynn: Here we are five adventurers who know a lot about the— and the evil powers amassing around our world. But I don't necessarily think that makes us political experts.",
+        "",
+        "%% u1725:110-130 %%",
+        "Kenzo: What your intuition?",
+        "",
+        "%% u1726:0-7, u1727:0-25, u1728:0-66, u1729:0-8 %%",
+        "Riswynn: I guess I would say the gods were saying to stay rather than go, because the foundation is sort of a staying.",
+        "",
+        "%% u1730:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1731:0-74 %%",
+        "Riswynn: What you need to make a military campaign is sort of uprooting yourself, so—",
+        "",
+        "%% u1732:0-27 %%",
+        "Seeker: Classic blunder, overreach.",
+        "",
+        "%% u1733:0-18 %%",
+        "Kenzo: You agree, fortify.",
+        "",
+        "%% u1734:0-37 %%",
+        "Seeker: I'm—I'm a fortifying type of person."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: So what are we allowed to ask again?",
+          "Riswynn: It said, quest—go ahead—a single question concerning a specific goal, event or activity occur within 7 days, and the reply might be a short phrase, a cryptic rhyme, or an omen.",
+          "Kenzo: Great. So we should ask, should Sura, what, ride west to fortify Tokra, right, or whatever, to take Tokra? Right, everybody?",
+          "Wellby: You—yes, and I don't know, a cryptic phrase—this—this may be less valuable than hope for. But I think it's the right thing to do.",
+          "Seeker: Yeah."
+        ],
+        "after": [
+          "Kenzo: Well, Sura has to decide. All right, contact her on the—on the stone.",
+          "DM: Good morning, Kenzo.",
+          "Kenzo: Sura— actually, Tim, before I do that, too. I also, while Riswynn's doing that, I was fucking, praying to all my fucking gods because I'm linked in with all them any any like. I spend the whole day just like doing rituals, do fucking like whatever you know. All my stayed up all night.",
+          "DM: Well, you were spending the day learning to fly the ship. This is first thing in the morning. You can stay and meditate an hour.",
+          "Kenzo: You stay up all night—yes, yes, for this. I stay up. Okay, stay up all night, star night rituals, fuckin, you know, just everything I can think of. Commune with nature, commun with plants, fucking talk to all the gods, tattoos, the whole fucking thing, and anything I can do to get a sign right now."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Kenzo’s night prayers and Shakun’s fragile protection",
+      "source": {
+        "startUid": "u1737",
+        "endUid": "u1775"
+      },
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e025",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1737:0-4, u1738:0-280 %%",
+        "Kenzo: Sura— actually, Tim, before I do that, too. I also, while Riswynn's doing that, I was fucking, praying to all my fucking gods because I'm linked in with all them any any like. I spend the whole day just like doing rituals, do fucking like whatever you know. All my stayed up all night.",
+        "",
+        "%% u1738:280-337, u1739:0-70 %%",
+        "DM: Well, you were spending the day learning to fly the ship. This is first thing in the morning. You can stay and meditate an hour.",
+        "",
+        "%% u1740:0-186, u1741:0-111 %%",
+        "Kenzo: You stay up all night—yes, yes, for this. I stay up. Okay, stay up all night, star night rituals, fuckin, you know, just everything I can think of. Commune with nature, commun with plants, fucking talk to all the gods, tattoos, the whole fucking thing, and anything I can do to get a sign right now.",
+        "",
+        "%% u1742:0-2, u1743:0-23, u1744:0-40, u1745:0-11, u1746:0-11, u1747:0-31, u1748:0-86, u1749:0-28, u1750:0-48, u1751:0-30 %%",
+        "DM: So the thing that you feel the most in these prayers is the pull of Shakun, the— this web of mystai that you're connected to, this energy that—that all that flows through you and all of the—the other mystai that protect the—the—the borders. And you can feel both how strong it is, but also but also how fragile it is, how—",
+        "",
+        "%% u1752:0-24 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1753:0-10, u1754:0-82, u1755:0-31, u1756:0-54, u1757:0-26, u1758:0-49, u1759:0-52, u1760:0-16, u1761:0-17, u1762:0-3 %%",
+        "DM: You don't— you know, your—your feeling is not the—the—that you have, or you're sort of the—the message from Shakun is not that— it's not that this protection will fail at any moment. Right? It's that—it's that part of what keeps this protection strong is the belief of the Dunmari in Shakun, and in the power of this border, and— you know, whether— and—",
+        "",
+        "%% u1763:0-70, u1764:0-76, u1765:0-31, u1766:0-107, u1767:0-24, u1768:0-26 %%",
+        "DM: Obviously it's hard to know the future, right? But the—you know, the—the— it—it feels to you just as risky for a large army to march east and for the center of of Dunmar to collapse as it does for the army to—so you know, it's not—it's not clear that Shakun to you is supporting the like charge East perspective, given that the strength of—",
+        "",
+        "%% u1769:0-104, u1770:0-68, u1771:0-55, u1772:0-33, u1773:0-54 %%",
+        "DM: Now, of course, if Sura gets bogged down in a huge war and, you know, can't extract her forces, and it's 2, 3, 4 months before she can march, you—that might be a lot worse. But you're feeling from the gods is just the sense of this. You know, the—the sort of power of the Dunmari people believing in the power of the gods.",
+        "",
+        "%% u1774:0-10, u1775:0-163 %%",
+        "DM: But again, it's not—it's not—one thing that you, as you meditate through the night, right? One thing you feel is like, it's not obvious that there is a right course of action."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Classic blunder, overreach.",
+          "Kenzo: You agree, fortify.",
+          "Seeker: I'm—I'm a fortifying type of person.",
+          "Kenzo: Well, Sura has to decide. All right, contact her on the—on the stone.",
+          "DM: Good morning, Kenzo."
+        ],
+        "after": [
+          "Kenzo: All right. There's just different downsides. All right. Let's get on the phone, Sura. I hit my favorites on the sending stone.",
+          "DM: Yeah. Good morning, Kenzo.",
+          "Kenzo: Indeed, it's been a long night. I—I have not slept myself, unlike our companions. We have been doing our best to consult the gods in your favor. Have the gods spoken to you?",
+          "DM: I have had the same dream, riding at the head of an army of flaming horses, the fire and might of the people behind me, and Aagir's blessing shining from my spear and scorching the plains before me and my enemies.",
+          "DM: Do not think that gods intend this as a vision riding against my brother."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Sura hears the advice and requests a letter to the Lakan monks",
+      "source": {
+        "startUid": "u1776",
+        "endUid": "u1847"
+      },
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1776:0-85, u1777:0-40 %%",
+        "Kenzo: All right. There's just different downsides. All right. Let's get on the phone, Sura. I hit my favorites on the sending stone.",
+        "",
+        "%% u1778:0-5, u1779:0-20 %%",
+        "DM: Yeah. Good morning, Kenzo.",
+        "",
+        "%% u1780:0-94, u1781:0-49, u1782:0-28 %%",
+        "Kenzo: Indeed, it's been a long night. I—I have not slept myself, unlike our companions. We have been doing our best to consult the gods in your favor. Have the gods spoken to you?",
+        "",
+        "%% u1783:0-25, u1784:0-48, u1785:0-55, u1786:0-34, u1787:0-45 %%",
+        "DM: I have had the same dream, riding at the head of an army of flaming horses, the fire and might of the people behind me, and Aagir's blessing shining from my spear and scorching the plains before me and my enemies.",
+        "",
+        "%% u1788:0-46, u1789:0-26 %%",
+        "DM: Do not think that gods intend this as a vision riding against my brother.",
+        "",
+        "%% u1790:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1791:0-12, u1792:0-34, u1793:0-16, u1794:0-56, u1795:0-19, u1796:0-50 %%",
+        "DM: For all his— for all the trouble he has caused, even, indeed, if, as many believe, he was in league with this desert witch, he is still Dunmari, and the gods not burn him on the plains of battle.",
+        "",
+        "%% u1797:0-26 %%",
+        "Kenzo: And have you made him so?",
+        "",
+        "%% u1797:26-48, u1798:0-54, u1799:0-69, u1800:0-91 %%",
+        "DM: I believe this must be a vision of riding against this orc army you speak of. I mean, I still see not how I can do that without the united might of Tokra and Songara behind me. Is not 30,000 troops in a month better than 5,000 troops now?",
+        "",
+        "%% u1801:0-5, u1802:0-46, u1803:0-107, u1804:0-44 %%",
+        "Kenzo: Yeah. Sura, we've consulted with the gods ourselves. We only have a cryptic message from the dwarven gods. I say that—I say the thing, whatever it was, I forget. And in my own consult with the Dunmari gods.",
+        "",
+        "%% u1805:0-4 %%",
+        "Unknown: See.",
+        "",
+        "%% u1806:0-46, u1807:0-43, u1808:0-56 %%",
+        "Kenzo: I believed the most important decision is that the Dunmari people are galvanized together. That is most important. The strength of the people comes.",
+        "",
+        "%% u1809:0-2 %%",
+        "Unknown: So—",
+        "",
+        "%% u1810:0-47 %%",
+        "Kenzo: In our united beliefs, in our collective energy.",
+        "",
+        "%% u1811:0-23, u1812:0-76 %%",
+        "Kenzo: And if you believe that heading west will strengthen Dunmar as a whole, and that's what you must do.",
+        "",
+        "%% u1813:0-61, u1814:0-80 %%",
+        "DM: I believe, should this army appear to the east, we will rally to fight it, as we always have when armies have appeared on our Eastern borders.",
+        "",
+        "%% u1815:0-11, u1816:0-29, u1817:0-140, u1818:0-31, u1819:0-103 %%",
+        "DM: But I think— think my brother is too slow. And well he may eventually ride against his army, should it appear, he would spend months planning and months gathering forces in the cities to the West, Nayahar and Darba, and months sending letters to allies, asking for aid in exchange for future promises of dubious nature.",
+        "",
+        "%% u1820:0-45, u1821:0-36, u1822:0-51, u1823:0-29 %%",
+        "DM: And so, if this army does appear in the East, believe the only way Dunmar survives is if I am at the head of the army that meets that. To do that I must take Tokra.",
+        "",
+        "%% u1824:0-127 %%",
+        "Kenzo: If you feel the conviction, if you feel that this is truly what will solidify and fortify Dunmar, then that's all that matters.",
+        "",
+        "%% u1825:0-12, u1826:0-50, u1827:0-16, u1828:0-17, u1829:0-12, u1830:0-25, u1831:0-34 %%",
+        "DM: If you would aid me and this—a letter, a message, if you can, to the Lakan monks. You know Laka has been silent, provided little guidance. Yet if the monks speak against me—",
+        "",
+        "%% u1832:0-64, u1833:0-66, u1834:0-58 %%",
+        "Kenzo: I will not convince the monks one way or the other. I'll merely— I'll merely pass on the insights that I've received from the gods, both from the Dunmari and the dwarfs, and they can decide.",
+        "",
+        "%% u1835:0-3, u1836:0-45 %%",
+        "Kenzo: But I believe in Dunmar, and I do believe in you.",
+        "",
+        "%% u1837:0-76 %%",
+        "DM: I would not be here without you. I will not press you further on this point.",
+        "",
+        "%% u1838:0-75 %%",
+        "Kenzo: I'll share what the gods said, glad—gladly. It's important for them to know.",
+        "",
+        "%% u1839:0-10 %%",
+        "DM: Thank you.",
+        "",
+        "%% u1840:0-58 %%",
+        "Kenzo: How the fuck are you gonna [garbled] that letter?",
+        "",
+        "%% u1841:0-88 %%",
+        "DM: You can. You can send a letter on Delwath's... Delwath can use his magic letter sending.",
+        "",
+        "%% u1842:0-76 %%",
+        "Kenzo: I don't know that is, but all right. Would be that. Well, well, that happens.",
+        "",
+        "%% u1843:0-24, u1844:0-16, u1845:0-108 %%",
+        "DM: So Kenzo writes a letter speaking of his— It's his visions and his feelings, and reporting everything that's happened in all of the words of the gods.",
+        "",
+        "%% u1846:0-89, u1847:0-72 %%",
+        "DM: The—the lynx steps out of Delwath's shield, grabs the letter in its mouth, and it sort of fades, and then it takes off across the plains, racing at speed close to—"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: And yet at the same time—",
+          "DM: You don't— you know, your—your feeling is not the—the—that you have, or you're sort of the—the message from Shakun is not that— it's not that this protection will fail at any moment. Right? It's that—it's that part of what keeps this protection strong is the belief of the Dunmari in Shakun, and in the power of this border, and— you know, whether— and—",
+          "DM: Obviously it's hard to know the future, right? But the—you know, the—the— it—it feels to you just as risky for a large army to march east and for the center of of Dunmar to collapse as it does for the army to—so you know, it's not—it's not clear that Shakun to you is supporting the like charge East perspective, given that the strength of—",
+          "DM: Now, of course, if Sura gets bogged down in a huge war and, you know, can't extract her forces, and it's 2, 3, 4 months before she can march, you—that might be a lot worse. But you're feeling from the gods is just the sense of this. You know, the—the sort of power of the Dunmari people believing in the power of the gods.",
+          "DM: But again, it's not—it's not—one thing that you, as you meditate through the night, right? One thing you feel is like, it's not obvious that there is a right course of action."
+        ],
+        "after": [
+          "Kenzo: Impressive.",
+          "DM: And then you prepared to take flight.",
+          "DM: So in Roll20, on the map, you are here. Your destination is here. Are you going just in a straight line? What's your—",
+          "Seeker: Again? How is our destination again?",
+          "DM: No, you should be able to see the map."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Whether to protect or destroy the peaceful orcs’ cloak",
+      "source": {
+        "startUid": "u1874",
+        "endUid": "u1922"
+      },
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u1874:0-10 %%",
+        "Riswynn: The cloak.",
+        "",
+        "%% u1875:0-32, u1876:0-79, u1877:0-23 %%",
+        "Seeker: Yeah, that's where the cloak is. So we're trying to beat Grash to this city where the cloak is being held, right? There is nothing I do.",
+        "",
+        "%% u1877:23-59 %%",
+        "DM: I think that was what your plan was.",
+        "",
+        "%% u1877:59-136 %%",
+        "Seeker: Yeah, do we know what's our intelligence on? Where the cloak is? Who has it?",
+        "",
+        "%% u1878:0-21 %%",
+        "Kenzo: How do we find it? So—",
+        "",
+        "%% u1879:0-18 %%",
+        "DM: These orcs have it.",
+        "",
+        "%% u1880:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u1881:0-46, u1882:0-3, u1883:0-81 %%",
+        "DM: The peaceful orcs that live out in the desert. And you've seen the—you've seen there, like, King or something or somebody wearing it.",
+        "",
+        "%% u1884:0-35, u1885:0-86 %%",
+        "Seeker: Good, and then are we kind of like, smash everything and take it, and then destroy it, or we try to take it for ourselves?",
+        "",
+        "%% u1886:0-60 %%",
+        "DM: Well, that you don't need to, I think, for you. What's that?",
+        "",
+        "%% u1887:0-69 %%",
+        "Riswynn: We're not taking it for ourselves. We don't want to silence the gods.",
+        "",
+        "%% u1888:0-36 %%",
+        "Seeker: But it—it obviously would fit me, so—",
+        "",
+        "%% u1889:0-37 %%",
+        "Kenzo: I think we just want to protect them.",
+        "",
+        "%% u1890:0-20, u1890:20-64 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1891:0-8 %%",
+        "Seeker: Amazing.",
+        "",
+        "%% u1892:0-37 %%",
+        "Wellby: I think we want to destroy the cloak.",
+        "",
+        "%% u1893:0-90 %%",
+        "Kenzo: But then the—the—the Orcs become like bad orcs. Like, why don't we just let them keep it?",
+        "",
+        "%% u1894:0-129, u1895:0-84 %%",
+        "Riswynn: We either need to just—well, this is why I've been asking about where volcanoes are, and saying we should destroy the scepter. We— of all the things, the cloak actually has been repurposed for something, a—you know—",
+        "",
+        "%% u1896:0-99 %%",
+        "Seeker: In some framework, good. So you see—you're saying we should give the good—or good orcs the scepter.",
+        "",
+        "%% u1897:0-1, u1898:0-73, u1899:0-30, u1900:0-13, u1901:0-123 %%",
+        "Wellby: I— Wellby's feelings on that are more complicated, because on the one hand, take the cloak from those Orcs would be both to send them back to being violent orcs again, and perhaps to unleash a giant Orc threat, on like that region of the world.",
+        "",
+        "%% u1902:0-23, u1903:0-74, u1904:0-19, u1905:0-56 %%",
+        "Wellby: And on the other hand, to restore them to their true nature, exactly, to let them go back to being what they are like. Like the races of Taelgar—created races. They're—they're—",
+        "",
+        "%% u1906:0-4, u1907:0-82, u1908:0-12, u1909:0-9 %%",
+        "Seeker: Hmm. So you're saying they're supposed to be that way. This cloak kind of perverts them into farmers with like—",
+        "",
+        "%% u1910:0-15 %%",
+        "((Omitted discussion))",
+        "",
+        "%% u1911:0-64, u1912:0-37, u1913:0-12 %%",
+        "Seeker: Are—are they experiencing a cultural flourishing? Are they like— it's now great theater and poetry and visual arts?",
+        "",
+        "%% u1914:0-14 %%",
+        "DM: You don't know.",
+        "",
+        "%% u1915:0-52 %%",
+        "Seeker: We should go. We'll find out what's happening there.",
+        "",
+        "%% u1916:0-64, u1917:0-59 %%",
+        "Riswynn: I mean it could just be a depressed, depressed city of orcs like crying in the streets as they wonder what their lives mean.",
+        "",
+        "%% u1918:0-26, u1919:0-125, u1920:0-38 %%",
+        "Seeker: Now you'd have a a complex as an orc in that situation because, you know, you have these impulses, but you know that you can't follow them, or would you— would you just know about the history?",
+        "",
+        "%% u1921:0-45 %%",
+        "DM: You'll have to talk to the orcs and find out.",
+        "",
+        "%% u1922:0-104 %%",
+        "Seeker: It's a bunch of different ways that that could go. And then do we see if they like being godless or not?"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: I'm just thinking like we might want to just spend a little time as Seeker's able to like and—and—and—and able to work on the ship, like I really think it'd be sweet to have like, you know, a fucking air—air attack where, like, at a minimum, like a door we can swing open to have all the rubble that fall out. You know what I mean? Stuff like that. I was thinking about that in the encounter with the shadow dogs. It's like, oh, I imagine the belly of the ship swinging open and—let's see, what? Exactly. I think—I think at a minimum that, because we've got rubble on the ship, we just need to like fashion some kind of a door, you know.",
+          "DM: Some kind of like drop the bottom out thing. Yeah, I—I mean, I think Riswynn certainly can work on this because she's not piloting. I think Seeker and Kenzo are gonna be pretty exhausted after flying the ship 12 h a day.",
+          "Seeker: It's worth considering, making more of a plan for what we're trying to do and how we're going to try to do it.",
+          "DM: Yeah. So so that's what I'm asking is like, okay, so you can just fly straight. You can fly like 240 miles, so by tomorrow morning you can be somewhere here.",
+          "Kenzo: Right, why are we flying all the way to that? Why are we flying to that far X? What's over there?"
+        ],
+        "after": [
+          "Seeker: Are we gonna? I guess we have to park the ship pretty far away. We don't—or versus arriving in, you know, our glory in a flying stone ship at the gate. Is this like a C-3PO, Endor moment? Or is this like a, you know?",
+          "DM: Okay, but what I really know—need to know is, are you just flying? Are you just flying in a—as straight a line as you can manage, navigating, you know, in the dark? I guess by stars it's probably easier to do. I think so.",
+          "Riswynn: As quickly as possible.",
+          "Kenzo: Just give it that—",
+          "Riswynn: Sorry, who? Sorry, go ahead, Kenzo, the guy I can— unless we can squash our least favorite party of wizards on the way before they can ally with Grash."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Scrying the wizards beside Grash’s army",
+      "source": {
+        "startUid": "u1930",
+        "endUid": "u1940"
+      },
+      "entities": [
+        {
+          "id": "e033",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u1930:0-48, u1931:0-67, u1932:0-33 %%",
+        "Riswynn: Sorry, who? Sorry, go ahead, Kenzo, the guy I can— unless we can squash our least favorite party of wizards on the way before they can ally with Grash.",
+        "",
+        "%% u1933:0-75 %%",
+        "Wellby: I would love that. I mean Wellby has had a a growing thirst for vengeance.",
+        "",
+        "%% u1933:75-168 %%",
+        "Seeker: So you're saying there's a quest. But then, on the side of it, there's this other quest. Wow!",
+        "",
+        "%% u1934:0-27 %%",
+        "Kenzo: Okay. Now let's scry them.",
+        "",
+        "%% u1934:27-107, u1935:0-29, u1936:0-106 %%",
+        "DM: And on December this morning, as you're discussing this Delwath goes and scries. And in fact they are within sight of Grash's army, and seemed to be meeting with him or meeting up with him this day, December second.",
+        "",
+        "%% u1937:0-53 %%",
+        "Riswynn: So we've missed our window. Where? Where is the army?",
+        "",
+        "%% u1938:0-29 %%",
+        "DM: It's in the desert somewhere.",
+        "",
+        "%% u1939:0-24 %%",
+        "Seeker: Right hard to localize.",
+        "",
+        "%% u1939:24-96, u1940:0-85 %%",
+        "DM: It's hard to localize. It's heading—it's heading east. It's some—it left 4 or 5 days ago, and it's moving fast. It's clearly not at the other orc kingdom yet."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: It's a bunch of different ways that that could go. And then do we see if they like being godless or not?",
+          "Seeker: Are we gonna? I guess we have to park the ship pretty far away. We don't—or versus arriving in, you know, our glory in a flying stone ship at the gate. Is this like a C-3PO, Endor moment? Or is this like a, you know?",
+          "DM: Okay, but what I really know—need to know is, are you just flying? Are you just flying in a—as straight a line as you can manage, navigating, you know, in the dark? I guess by stars it's probably easier to do. I think so.",
+          "Riswynn: As quickly as possible.",
+          "Kenzo: Just give it that—"
+        ],
+        "after": [
+          "Kenzo: Yeah, and it's [garbled] an ecosystem.",
+          "Kenzo: Well, so we should basically go as fast as we can and get to the Orcs as fast as we can. We should do the 2 day thing, straight line, 2 days, get there. And what does this straight line take us over again?",
+          "Riswynn: A lot of desert. That's why I was in that particular desert.",
+          "Seeker: And—",
+          "DM: I'm just measuring to to the river, basically because you don't quite know exactly how big and where these orcs are."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The remotely seen company is referred to collectively; individual membership is not established by the retained source."
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Kadmos and Casian’s earlier abilities recalled",
+      "source": {
+        "startUid": "u2007",
+        "endUid": "u2015"
+      },
+      "entities": [
+        {
+          "id": "e030",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2007:0-64, u2008:0-64, u2009:0-9 %%",
+        "Seeker: ((Ship defenses)) Well, we should try to use what we know about Kadmos and what he— Oh, yeah.",
+        "",
+        "%% u2010:0-84, u2011:0-39, u2012:0-80 %%",
+        "Kenzo: What were Kadmos's abilities against him? He cast Fireball, and I was really fucking— Casian, what—what—what could they do? What did they do against us in that battle? I was like summoned a demon, and then—",
+        "",
+        "%% u2013:0-28 %%",
+        "DM: Had a bunch of fear effects.",
+        "",
+        "%% u2014:0-31 %%",
+        "Seeker: The same spell that got Riswynn.",
+        "",
+        "%% u2015:0-41 %%",
+        "DM: In the Shadow Hunter fight, [garbled]."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Yeah.",
+          "Seeker: And then wouldn't be able to see so good. Look out of the ship. You see it through the ship. I—I could see fine. And yeah, or Kenzo if it's flying— me.",
+          "DM: So let's see here.",
+          "Riswynn: Can't like wizards teleport to the other side of a flaming wall or something like that?",
+          "DM: It's not perfect. Dimension Door can get you past. There's ways to get you—you can just eat the damage and walk through it."
+        ],
+        "after": [
+          "Kenzo: Is Kenzo immune to fear?",
+          "DM: You can use it— mostly. Not—not—not technically, but you can spend your action to end any fear effect on yourself for 2 ki.",
+          "Seeker: I have a similar ability, don't I?",
+          "DM: You are effectively—you—you are sort of immune to fear. It just cost you your action.",
+          "Seeker: That I had some fear related."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Destroying the scepter as the backup plan",
+      "source": {
+        "startUid": "u2062",
+        "endUid": "u2073"
+      },
+      "entities": [
+        {
+          "id": "e029",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2062:0-33 %%",
+        "Kenzo: Where is the scepter, by the way?",
+        "",
+        "%% u2063:0-18, u2064:0-40 %%",
+        "DM: It's in one of his lock at—like, always in the portable hole.",
+        "",
+        "%% u2065:0-54 %%",
+        "Kenzo: {{which we are signed}}. Does he come closer to Grash?",
+        "",
+        "%% u2066:0-69, u2067:0-37 %%",
+        "Riswynn: Well, because nobody didn't have time to sail to the nearest volcano? I mean, like God's inhabited volcano.",
+        "",
+        "%% u2068:0-64, u2069:0-101, u2070:0-69 %%",
+        "Kenzo: You know what? Okay, this is our backup plan in all seriousness. If we are unable to get the cloak, destroy the cloak, whatever the cloak, and if Grash gets the cloak, we should go and destroy the scepter before we do anything else. Yes.",
+        "",
+        "%% u2071:0-4 %%",
+        "Riswynn: Yes.",
+        "",
+        "%% u2072:0-6 %%",
+        "Kenzo: Right.",
+        "",
+        "%% u2073:0-4 %%",
+        "Riswynn: Yes."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Is he like secretly like eating the power of the scepter of power, and you like sucking on it or sleeping with it or something?",
+          "Riswynn: He had that like thing for the snow, the magic ice.",
+          "Seeker: What they—",
+          "Riswynn: The addiction?",
+          "Seeker: There's no addiction."
+        ],
+        "after": [
+          "DM: So after a long day of travel, some repairs on the ship, a brief land in the desert to switch pilots, and then another long night of flying, when some of you sleep and Kenzo drives, the next morning dawns hot and clear again. And you just do it again. Another day of soaring up into the sky, another day of watching the desert landscape below you slowly change.",
+          "DM: Until the morning after another change in another, the rest, driving off a few curious giant vultures who come to see what this other giant ship in the sky is, watching the landscape change before you, you see in the distance a valley, the river valley. You see rolling pastoral hills stretching as far as the eye can see, fields and cattle, watch towers along the river.",
+          "DM: This, you surmise, early on the morning of December fourth, must be the land of the orcs that you're looking for. No sign of Grash's army, at least not yet.",
+          "DM: And this is where we'll stop, because I don't want to do the orcs without Mike.",
+          "Kenzo: Wow. Did you? Is this Midjourney?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The cloak’s history and the age of the orc kingdom",
+      "source": {
+        "startUid": "u2131",
+        "endUid": "u2146"
+      },
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2131:0-33, u2132:0-15, u2133:0-60 %%",
+        "DM: Who knows? You don't know. I mean Apollyon? Well, you know it could have been 120 years, or 150 years, or 200.",
+        "",
+        "%% u2134:0-10 %%",
+        "Unknown: It's like.",
+        "",
+        "%% u2135:0-63, u2136:0-50, u2137:0-16, u2138:0-90, u2139:0-12, u2140:0-19, u2141:0-62, u2142:0-54, u2143:0-92 %%",
+        "DM: As far as you know, the history of the cloak was that Apollyon had it. It was found at some point by the Dunmari. The Dunmari were guarding it at a—there was a letter that I have somewhere—they were guarding it at a fort in the East. That fort was taken in the war, in the Great War, and the cloak was never recovered after that. So it's, you know, what happened to it since— that—that was like—the Great War was 200 years ago, little more than 200 years ago from now.",
+        "",
+        "%% u2144:0-66, u2145:0-197, u2146:0-103 %%",
+        "DM: Presumably this wasn't habitable. It's, you know, it's too close to the Plaguelands. It's sort of within the Plaguelands, so it wouldn't have been habitable until 20 or 30 years after the Great War. But like, this could—this could be a 100 and 60 year old kingdom. Or it could be 10 years. I mean, it's obviously—yeah, it's obviously been here for more than 10 years."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Agricultural—yeah, like this is not like, you know, a fly by night camp, right? Like you can see this is like a well settled kingdom.",
+          "Kenzo: This is great.",
+          "DM: And you know, just almost of comes out of nowhere, right, like that. I guess you were mostly flying through the night before you encountered it. But you know, this is in the midst of a— of a, you know, desert, right? This is like—this is like Egypt, I guess, like coming across the Nile.",
+          "DM: You see this. You're hiking through sands and you're flying above sands and rolling dunes, and then there's just this green ribbon of the rolling farmlands.",
+          "Kenzo: How long have they had to do this? Have they been doing this?"
+        ],
+        "after": [
+          "Kenzo: Hey, is Kate for everybody like lying in front of the tower?",
+          "DM: Yeah.",
+          "Kenzo: This is like so awesome. It looks like there's this giant woman like in the landscape, like, you know, like you could just—you know— Oh, why did you move her?",
+          "DM: I like the tower.",
+          "Kenzo: Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

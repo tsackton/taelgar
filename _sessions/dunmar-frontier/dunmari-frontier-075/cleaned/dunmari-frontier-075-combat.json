@@ -1,0 +1,554 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-075",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-session.yaml",
+    "sessionYamlSha256": "a47486f4a7be8a983d6b5fd78d2de412e26634a04eb5645335711c6210c70ab7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-transcript.md",
+    "transcriptSha256": "00b24463ffb6489a5efcba5dbdf9795e45fd81756520bab1e197f2a526179f1c",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-segments.json",
+      "sha256": "59adefcf0a4e84a02de6a159b412a334eb066c7b9349a4014260700b7eb2b419",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Shadow Hunter and shadow dogs at Vindristjarna",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Flies toward the howls without dashing and drops his driftglobe to illuminate a large wolf-like creature and smaller dogs while remaining airborne above them.",
+              "evidence": [
+                {
+                  "startUid": "u0056",
+                  "endUid": "u0110"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow demon",
+              "kind": "turn",
+              "summary": "Unfurls wings, rises about 30 feet out of the light and dashes toward Kenzo, remaining roughly 30 feet below him.",
+              "evidence": [
+                {
+                  "startUid": "u0112",
+                  "endUid": "u0122"
+                }
+              ]
+            },
+            {
+              "actor": "Large shadow dog",
+              "kind": "turn",
+              "summary": "Runs out of the light and vanishes from sight.",
+              "evidence": [
+                {
+                  "startUid": "u0123",
+                  "endUid": "u0127"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Levels and turns Vindristjarna with an Intelligence check of 25 (natural 20), raising it to about 80–100 feet. Animates the ladder and places it on deck beside him; Psychic Lance is considered but the enemies are out of range.",
+              "evidence": [
+                {
+                  "startUid": "u0128",
+                  "endUid": "u0202"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Flies 60 feet toward the enemies and casts Sunbeam at the winged demon. Its save fails and the beam strikes its chest; the damage total is not spoken. Concentrates on Sunbeam and sheds 30 feet of bright light plus 30 feet of dim light.",
+              "evidence": [
+                {
+                  "startUid": "u0203",
+                  "endUid": "u0238"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves about 80 feet using Cunning Action, activates his driftglobe and hits with an arrow. No Sneak Attack: he lacks advantage and no ally is within 5 feet of the target.",
+              "evidence": [
+                {
+                  "startUid": "u0242",
+                  "endUid": "u0259"
+                }
+              ],
+              "note": "The arrow’s target and damage total are not explicitly identified in the spoken resolution."
+            },
+            {
+              "actor": "Shadow mastiffs",
+              "kind": "turn",
+              "summary": "Scatter away from the lights and become invisible.",
+              "evidence": [
+                {
+                  "startUid": "u0260",
+                  "endUid": "u0263"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow Hunter",
+              "kind": "turn",
+              "summary": "Casts a protective shell of creeping ice, moves beneath Kenzo and throws two spears: Kenzo dodges one; the other would deal 28 damage before his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u0267",
+                  "endUid": "u0282"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Uses Deflect Missiles to reduce the spear damage to zero, spends ki to return it and hits with a 17 for a stated 13 damage. It cracks the hunter’s ice but deals no actual damage to him.",
+              "evidence": [
+                {
+                  "startUid": "u0282",
+                  "endUid": "u0313"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Dives toward the hunter and uses Soul Sight: Charisma is highest, Strength and Wisdom lowest. His first staff attack initially misses on 15 but hits with runic inspiration, for a stated 11 damage absorbed by the ice. Contact inflicts 25 cold damage on Kenzo; the rune’s thunder blast removes the remaining ice. A second staff hit deals 13 damage. Frightening Strike fails because the hunter is immune to fear. One fist attack misses; the additional Flurry of Blows strike hits on 20 for 9 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0318",
+                  "endUid": "u0372"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Supplies runic inspiration during Kenzo’s first staff attack; the added 8 turns the miss into a hit and the rune’s thunder burst chips away the remaining ice.",
+              "evidence": [
+                {
+                  "startUid": "u0334",
+                  "endUid": "u0345"
+                }
+              ],
+              "note": "The source grants inspiration during the attack without naming its action type."
+            },
+            {
+              "actor": "Shadow demon",
+              "kind": "turn",
+              "summary": "Dives toward Kenzo and claws twice: 17 misses AC 18; 21 hits for 12 psychic damage.",
+              "evidence": [
+                {
+                  "startUid": "u0373",
+                  "endUid": "u0384"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Orders the ladder to orbit and guard him, releases concentration on piloting, walks forward on deck and casts Psychic Lance at the demon. The demon fails its Intelligence save and is incapacitated until the start of Seeker’s next turn; the damage total is not spoken. Keeps the higher-level casting after discussion.",
+              "evidence": [
+                {
+                  "startUid": "u0387",
+                  "endUid": "u0452"
+                }
+              ]
+            },
+            {
+              "actor": "Laddie",
+              "kind": "turn",
+              "summary": "Readies an attack against anything coming near Seeker while guarding beside him.",
+              "evidence": [
+                {
+                  "startUid": "u0389",
+                  "endUid": "u0398"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves closer and directs Sunbeam through both enemies (DC 17 Constitution saves). The demon fails and takes 27 damage, bursting into smoke. The hunter succeeds and takes 13 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0453",
+                  "endUid": "u0479"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses his clockwork amulet to hit the hunter with an 18, dealing 33 damage while Kenzo is in melee. Moves with his driftglobe to look for the invisible dogs.",
+              "evidence": [
+                {
+                  "startUid": "u0480",
+                  "endUid": "u0493"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow mastiffs",
+              "kind": "turn",
+              "summary": "Four dogs burst through the ship’s floor and attack Seeker. One misses and three hit, dealing a stated 25 piercing damage. Seeker makes the three required Strength saves and remains standing.",
+              "evidence": [
+                {
+                  "startUid": "u0494",
+                  "endUid": "u0524"
+                }
+              ]
+            },
+            {
+              "actor": "Laddie",
+              "kind": "reaction",
+              "summary": "Retaliates with its readied Force-Empowered Slam after the dogs attack Seeker, hitting and wounding one dog. The damage total is not audible.",
+              "evidence": [
+                {
+                  "startUid": "u0525",
+                  "endUid": "u0555"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow Hunter",
+              "kind": "turn",
+              "summary": "Hits Kenzo twice with his spear (18 and 26), for the table’s final total of 70 damage, knocking him unconscious. Casts a necrotic spell at Wellby, requiring a Constitution save and dealing 43 necrotic damage, then grabs Kenzo and begins carrying him away.",
+              "evidence": [
+                {
+                  "startUid": "u0556",
+                  "endUid": "u0588"
+                }
+              ],
+              "note": "The Constitution save is requested, but its success or failure is not stated. The final spoken 70 damage supersedes the preceding arithmetic."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Unconscious; succeeds on his death saving throw.",
+              "evidence": [
+                {
+                  "startUid": "u0589",
+                  "endUid": "u0597"
+                }
+              ]
+            },
+            {
+              "actor": "Large shadow dog",
+              "kind": "turn",
+              "summary": "Its proposed appearance beside Riswynn is withdrawn because she sheds light. Remains invisible in the darkness, unable to reach a safe position near the light-bearing characters.",
+              "evidence": [
+                {
+                  "startUid": "u0605",
+                  "endUid": "u0610"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Replaces the proposed Slow with Polymorph, becoming a gigantic yeti using giant ape statistics (157 hit points, AC 12). The transformation uses his action, so he does not attack this turn.",
+              "evidence": [
+                {
+                  "startUid": "u0612",
+                  "endUid": "u0642"
+                }
+              ]
+            },
+            {
+              "actor": "Laddie",
+              "kind": "turn",
+              "summary": "Hits the same wounded mastiff on a 12, leaving it almost dead; damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0643",
+                  "endUid": "u0655"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Flies toward the abducted Kenzo; the proposed dash is unnecessary once Healing Word’s 60-foot range is checked. Casts fourth-level Healing Word for 15 hit points, reviving Kenzo, and uses Sunbeam on the hunter. It succeeds on its save but takes 11 damage and keeps hold of Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u0659",
+                  "endUid": "u0712"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Flies back toward Seeker with his driftglobe and shoots at disadvantage because of distance/height. Hits for 10 piercing damage with no Sneak Attack, as later clarified during the same cycle.",
+              "evidence": [
+                {
+                  "startUid": "u0715",
+                  "endUid": "u0780"
+                },
+                {
+                  "startUid": "u0797",
+                  "endUid": "u0801"
+                }
+              ],
+              "note": "The spoken exchange considers both targets but does not unambiguously name the final target."
+            },
+            {
+              "actor": "Shadow mastiffs",
+              "kind": "turn",
+              "summary": "Attack yeti-form Seeker four times: two miss and two hit for 20 damage total. He succeeds on both DC 10 Constitution saves and maintains Polymorph.",
+              "evidence": [
+                {
+                  "startUid": "u0781",
+                  "endUid": "u0796"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow Hunter",
+              "kind": "turn",
+              "summary": "Claims Kenzo, casts Fear on Riswynn, who fails her Wisdom save, then attacks Kenzo twice: 11 misses; 24 hits for 38 damage and knocks him unconscious again. Continues moving with him. Seeker cannot provide inspiration while polymorphed and out of range. In yeti form Seeker also lacks his class abilities and ship-wide perception.",
+              "evidence": [
+                {
+                  "startUid": "u0802",
+                  "endUid": "u0831"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Unconscious; fails a death saving throw despite his advantage on death saves.",
+              "evidence": [
+                {
+                  "startUid": "u0831",
+                  "endUid": "u0842"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "As a yeti, hits twice with fists: kills the mastiff already wounded by the ladder and badly wounds a second. The stated 22 accompanies the damage resolution without separately enumerating both damage rolls.",
+              "evidence": [
+                {
+                  "startUid": "u0844",
+                  "endUid": "u0857"
+                }
+              ]
+            },
+            {
+              "actor": "Laddie",
+              "kind": "turn",
+              "summary": "Hits the second wounded dog on 22 for 12 damage, killing it.",
+              "evidence": [
+                {
+                  "startUid": "u0853",
+                  "endUid": "u0861"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Frightened, dashes 120 feet away. Ends out of sight of the hunter, succeeds on a Wisdom save and ends Fear.",
+              "evidence": [
+                {
+                  "startUid": "u0862",
+                  "endUid": "u0879"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and uses Cunning Action to close above the hunter, about 20 feet up, bringing his driftglobe. Hits with an arrow; Sneak Attack is disallowed because Kenzo is unconscious. The hunter has only 8 hit points remaining and dies, reverting to a pale human-looking man.",
+              "evidence": [
+                {
+                  "startUid": "u0884",
+                  "endUid": "u0910"
+                }
+              ],
+              "note": "The player announces 29 before Sneak Attack is removed; the corrected damage total is not spoken."
+            },
+            {
+              "actor": "Large shadow dog",
+              "kind": "event",
+              "summary": "Appears beside the yeti when light no longer prevents it.",
+              "evidence": [
+                {
+                  "startUid": "u0911",
+                  "endUid": "u0918"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow mastiffs",
+              "kind": "turn",
+              "summary": "The two remaining small dogs attack the yeti: one hits, one misses, for 10 damage. Seeker rolls 14 on the Constitution save and maintains Polymorph.",
+              "evidence": [
+                {
+                  "startUid": "u0919",
+                  "endUid": "u0923"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Makes another death saving throw with advantage; reports one success and one failure in the current unconscious spell.",
+              "evidence": [
+                {
+                  "startUid": "u0924",
+                  "endUid": "u0929"
+                }
+              ]
+            },
+            {
+              "actor": "Large shadow dog",
+              "kind": "turn",
+              "summary": "Pounces on yeti-form Seeker for 11 damage. He makes the required Constitution save and remains polymorphed.",
+              "evidence": [
+                {
+                  "startUid": "u0930",
+                  "endUid": "u0936"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Hits a small dog with both fist attacks, first dealing 18 damage and badly wounding it, then killing it with the second hit.",
+              "evidence": [
+                {
+                  "startUid": "u0934",
+                  "endUid": "u0954"
+                }
+              ]
+            },
+            {
+              "actor": "Laddie",
+              "kind": "turn",
+              "summary": "Moves to the last small dog and hits its AC 12, wounding it; the damage total is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0955",
+                  "endUid": "u0962"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Flies back into position and directs Sunbeam at the large shadow dog. It fails its Constitution save; vulnerability to radiant damage doubles 22 to 44, killing it in a puff of smoke.",
+              "evidence": [
+                {
+                  "startUid": "u0972",
+                  "endUid": "u0988"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Lands beside Kenzo and stabilizes him with a Medicine check rather than spending a healing resource. Kenzo remains unconscious but is no longer dying.",
+              "evidence": [
+                {
+                  "startUid": "u0986",
+                  "endUid": "u1000"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn and Seeker",
+              "kind": "event",
+              "summary": "Dispatch the final shadow dog on the ship’s deck in the accepted compressed resolution, using Sunbeam and the yeti.",
+              "evidence": [
+                {
+                  "startUid": "u0990",
+                  "endUid": "u1000"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The demon, hunter and all shadow dogs are defeated. The hunter leaves a pale human-looking corpse; Wellby stabilizes the still-unconscious Kenzo. Delwath’s separate fight is not narrated turn by turn.",
+        "evidence": [
+          {
+            "startUid": "u0905",
+            "endUid": "u0910"
+          },
+          {
+            "startUid": "u0986",
+            "endUid": "u1000"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s004",
+      "encounter": "Kenzo strikes Wellby after the responsibility argument",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Acts first after initiative is rolled (23 versus 9). His first unarmed attack misses; the second hits on 28 for 11 damage. Returns to tending the garden.",
+              "evidence": [
+                {
+                  "startUid": "u1210",
+                  "endUid": "u1222"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Kenzo returns to the garden. Wellby acknowledges the message and threatens to leave him lying next time; no retaliatory attack is resolved.",
+        "evidence": [
+          {
+            "startUid": "u1220",
+            "endUid": "u1224"
+          }
+        ]
+      }
+    }
+  ]
+}
