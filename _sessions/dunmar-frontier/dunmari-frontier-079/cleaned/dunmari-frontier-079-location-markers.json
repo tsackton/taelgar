@@ -1,0 +1,843 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-079",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-session.yaml",
+    "sessionYamlSha256": "e6bc748551f891902d6aca8bcb664acdd40b4df3864043f629ba8f3008ce8ba0",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-transcript.md",
+    "transcriptSha256": "7b1f548412bac3013c26cdc9f8dca192e972e69cb5f26f2a55d2ef497a99ed65"
+  },
+  "places": {
+    "p01": {
+      "label": "Lower palace hall",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "DM: The battle was chaotic and scattered around the large hall you are in, you can see the signs of that chaos."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0009",
+              "quote": "DM: Okay. So, we begin in the lower floor of the palace: Chief Lubash's palace in the orcish city of Uzgukhar in the land of the peaceful sun, the kingdom of Xurkhaz, the land of the free orcs, hidden in the desert for several generations."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Lubash's palace",
+      "kind": "palace",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0009",
+          "quote": "DM: Okay. So, we begin in the lower floor of the palace: Chief Lubash's palace in the orcish city of Uzgukhar in the land of the peaceful sun, the kingdom of Xurkhaz, the land of the free orcs, hidden in the desert for several generations."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0009",
+              "quote": "DM: Okay. So, we begin in the lower floor of the palace: Chief Lubash's palace in the orcish city of Uzgukhar in the land of the peaceful sun, the kingdom of Xurkhaz, the land of the free orcs, hidden in the desert for several generations."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Uzgukhar",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0009",
+          "quote": "DM: Okay. So, we begin in the lower floor of the palace: Chief Lubash's palace in the orcish city of Uzgukhar in the land of the peaceful sun, the kingdom of Xurkhaz, the land of the free orcs, hidden in the desert for several generations."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0009",
+              "quote": "DM: Okay. So, we begin in the lower floor of the palace: Chief Lubash's palace in the orcish city of Uzgukhar in the land of the peaceful sun, the kingdom of Xurkhaz, the land of the free orcs, hidden in the desert for several generations."
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md"
+    },
+    "p04": {
+      "label": "Xurkhaz, land of the peaceful sun",
+      "kind": "kingdom",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0009",
+          "quote": "DM: Okay. So, we begin in the lower floor of the palace: Chief Lubash's palace in the orcish city of Uzgukhar in the land of the peaceful sun, the kingdom of Xurkhaz, the land of the free orcs, hidden in the desert for several generations."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Xurkhaz.md"
+    },
+    "p05": {
+      "label": "Skyship",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0432",
+          "endUid": "u0433",
+          "quote": "Seeker: We join them in the— to tumble up. We'll come down to the palace in the morning. Yes, I think so too. I agree. It's pleasantly cooler up there."
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "note": "The verified vault identity is the Fellowship’s stone skyship Vindristjarna; this session uses skyship, flying castle and stone ship. Later refit details in the note are not imported.",
+      "mobile": true
+    },
+    "p06": {
+      "label": "Throne room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0536",
+          "endUid": "u0539",
+          "quote": "DM: You find Lubash sitting with his, with his counselors, in the throne room where you've met before, but he's not seated on the throne. There's a wooden table that's been drawn up into the center, and there's some food laid out, some melon and tea, and little sort of flat wheat bread, kind of like pitas, but rolled out thin. Some some yogurt, some cheese, just like a breakfast spread laid out, and he invites you to just come join him and talk."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0531",
+              "endUid": "u0534",
+              "quote": "DM: Murook is still on edge, healed up from a good night's sleep, but still wearing her chain mail, her sword drawn at her side. And as you as you approach you can sense as you land in the palace, the oppressive aura of the cloak. Well, oppressive primarily for Riswynn and and Delwath, this aura that just mutes your senses, and you know, mutes your connection to the divine, is active."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Hallowed sanctuary room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2288",
+          "endUid": "u2291",
+          "quote": "Riswynn: Oh, fuck you, you haven't fixed that yet."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1989",
+              "endUid": "u1992",
+              "quote": "DM: You are casting hallow on one room in the palace and doing the forbiddance thing. You have, you don't need the ruby dust until 30 days are up, right—"
+            }
+          ]
+        }
+      ],
+      "note": "The party selects one palace room for Hallow. No statement identifies it as the throne room; they remain distinct dictionary entries."
+    },
+    "p08": {
+      "label": "Sunset-lit clouds in the cloak vision",
+      "kind": "vision setting",
+      "evidence": [
+        {
+          "startUid": "u2424",
+          "endUid": "u2429",
+          "quote": "DM: The first thing you see is a field of clouds, glowing bright, and many colored, lit as if by the setting sun."
+        }
+      ],
+      "note": "The sunset comparison describes historical imagery; it does not date the observers or identify Amberglow."
+    },
+    "p09": {
+      "label": "Battlefield in the cloak vision",
+      "kind": "battlefield",
+      "evidence": [
+        {
+          "startUid": "u2443",
+          "endUid": "u2454",
+          "quote": "DM: And the sparkling light, the bright, shimmering image remains flickering on the mirror, as you see as you see a war. You see a soldier. An orc, wearing the cloak armed, armored in heavy plate mail, carrying this giant sword, fighting desperately as twisting tendrils of black energy wrap around his hands and pull him back, and he staggers to his knees. And then—"
+        }
+      ]
+    },
+    "p10": {
+      "label": "High tower room in the cloak vision",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2455",
+          "endUid": "u2467",
+          "quote": "DM: You see Apollyon for in full power, wearing not the cloak, but flowing robes, wearing the dark iron crown on his head, step forward, and it looks like he speaks just a single word, and the Orc dies instantly. And he steps forward and picks up the cloak, casts it on his shoulders, and begins to walk the shimmering light around the mirror, staying here, until you see him sitting brooding, Apollyon wearing the cloak in a room high in a tower. You can see the sky out the window. And he's arguing."
+        }
+      ],
+      "note": "Apollyon is seen arguing high in a tower; this passage does not name the tower or its enclosing location."
+    },
+    "p11": {
+      "label": "Crowd before Apollyon’s statue",
+      "kind": "assembly place",
+      "evidence": [
+        {
+          "startUid": "u2511",
+          "endUid": "u2520",
+          "quote": "DM: He is standing now in front, you can see, of a very large, much larger than life-size, like 20, 30 feet tall statue of himself, and the people in front of him. He is holding up the scepter, and he's pulled the cloak around himself. And the people in front of him are bowed below him, as if in prayer or genuflection or awe, as he seems to be commanding or orchestrating them with the scepter and the statue behind him. This enormous statue of Apollyon seems to glow and pulse and collect sparkling tendrils of the cloak as he's, as Apollyon speaks to the adoring crowds before him."
+        }
+      ],
+      "note": "The source never audibly answers the question at u2526–u2528 about whether this is Drankor; no vault-only geography is asserted."
+    },
+    "p12": {
+      "label": "Tollen",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u2588",
+          "endUid": "u2590",
+          "quote": "DM: I don't need a—there’s no—don’t need a plan. But okay, I'll, I'll do this, I'll give you 3 choices. Go ahead, what are you gonna say?"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p13": {
+      "label": "Mirror prison cells",
+      "kind": "extradimensional prison",
+      "evidence": [
+        {
+          "startUid": "u0806",
+          "endUid": "u0813",
+          "quote": "DM: So as you speak his name and and cell number, you see appearing in the surface of the mirror this confused looking man, probably in his thirties, scruffy well traveled, wearing just now the the like undershirt and underclothes that were beneath his breastplate in the battle, is looking a little bit dazed. Looks out at you, kind of blinks his eyes."
+        }
+      ],
+      "note": "Prisoners summoned to the surface appear through the mirror, without physical party travel into their cells; the twins’ cells are joined at u1074–u1081."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0042"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "The party is in the lower hall of Lubash’s palace at Uzgukhar after the battle.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0009",
+          "quote": "DM: Okay. So, we begin in the lower floor of the palace: Chief Lubash's palace in the orcish city of Uzgukhar in the land of the peaceful sun, the kingdom of Xurkhaz, the land of the free orcs, hidden in the desert for several generations."
+        },
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "DM: The battle was chaotic and scattered around the large hall you are in, you can see the signs of that chaos."
+        },
+        {
+          "startUid": "u0037",
+          "endUid": "u0042",
+          "quote": "DM: And you look around in the chaos and aftermath of this fight at each other. I forget who was actually badly dinged in the fight. Probably Kenzo, right?"
+        },
+        {
+          "startUid": "u0252",
+          "endUid": "u0253",
+          "quote": "Riswynn: Kenzo was enthusiastic about this. He was, he was ready there, you know. Where is Kenzo, by the way?"
+        },
+        {
+          "startUid": "u0254",
+          "endUid": "u0254",
+          "quote": "DM: He's just hanging around quietly in the background."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0078",
+        "endUid": "u0087"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker moves to a skylight on the same palace level, then returns to the item sorting.",
+      "evidence": [
+        {
+          "startUid": "u0078",
+          "endUid": "u0083",
+          "quote": "Seeker: He also went off to find the false cloak, and has carefully folded that up the simulacrum of the cloak, and placed it atop the Ladder. But now he's gone off to find a skylight somewhere penetrating through the palace to the level that we're on."
+        },
+        {
+          "startUid": "u0084",
+          "endUid": "u0087",
+          "quote": "Seeker: Staring up almost listlessly at the stars, and then he, in a posture that you don't usually see him in, he's just flat on his back, sweeping his arms and legs, drinking in the starlight, staring up."
+        },
+        {
+          "startUid": "u0229",
+          "endUid": "u0231",
+          "quote": "Seeker: Seeker just kind of, starting to listen and notice that things are happening with respect to weird items. And at some point gets up to stumble over. Maybe when he starts to hear the boat unfolding."
+        }
+      ],
+      "from": "p01",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pauses beneath a palace skylight to look at the stars."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0430",
+        "endUid": "u0493"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "The party returns to the skyship for its long rest and wakes close to noon.",
+      "evidence": [
+        {
+          "startUid": "u0430",
+          "endUid": "u0431",
+          "quote": "Riswynn: A question— go up to our ship. Yeah?"
+        },
+        {
+          "startUid": "u0432",
+          "endUid": "u0433",
+          "quote": "Seeker: We join them in the— to tumble up. We'll come down to the palace in the morning. Yes, I think so too. I agree. It's pleasantly cooler up there."
+        },
+        {
+          "startUid": "u0488",
+          "endUid": "u0488",
+          "quote": "Delwath: Okay? So we're taking a long rest. Yes."
+        },
+        {
+          "startUid": "u0491",
+          "endUid": "u0493",
+          "quote": "DM: So as you wake in the morning, late morning, close to noon. What are your— what do you? What are your plans for the day?"
+        },
+        {
+          "startUid": "u0521",
+          "endUid": "u0526",
+          "quote": "DM: So you regroup in the morning after waking up having some breakfast. Leaving Kenzo to guard the skieship for simplicity. And you bring the mirror. You leave the loot. Is that correct? Okay, but you bring the mirror down and find Lubash."
+        }
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived",
+      "note": "The accepted compressed transition and subsequent departure from the guarded skyship establish the return; no intermediate route is reconstructed."
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0521",
+        "endUid": "u0539"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Leaving Kenzo guarding the skyship, the other four bring the prison mirror down to Lubash’s throne room for the council and interrogations.",
+      "evidence": [
+        {
+          "startUid": "u0521",
+          "endUid": "u0526",
+          "quote": "DM: So you regroup in the morning after waking up having some breakfast. Leaving Kenzo to guard the skieship for simplicity. And you bring the mirror. You leave the loot. Is that correct? Okay, but you bring the mirror down and find Lubash."
+        },
+        {
+          "startUid": "u0531",
+          "endUid": "u0534",
+          "quote": "DM: Murook is still on edge, healed up from a good night's sleep, but still wearing her chain mail, her sword drawn at her side. And as you as you approach you can sense as you land in the palace, the oppressive aura of the cloak. Well, oppressive primarily for Riswynn and and Delwath, this aura that just mutes your senses, and you know, mutes your connection to the divine, is active."
+        },
+        {
+          "startUid": "u0536",
+          "endUid": "u0539",
+          "quote": "DM: You find Lubash sitting with his, with his counselors, in the throne room where you've met before, but he's not seated on the throne. There's a wooden table that's been drawn up into the center, and there's some food laid out, some melon and tea, and little sort of flat wheat bread, kind of like pitas, but rolled out thin. Some some yogurt, some cheese, just like a breakfast spread laid out, and he invites you to just come join him and talk."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0521",
+        "endUid": "u0526"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo remains aboard guarding the skyship while the others go to the council.",
+      "evidence": [
+        {
+          "startUid": "u0521",
+          "endUid": "u0526",
+          "quote": "DM: So you regroup in the morning after waking up having some breakfast. Leaving Kenzo to guard the skieship for simplicity. And you bring the mirror. You leave the loot. Is that correct? Okay, but you bring the mirror down and find Lubash."
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0803",
+        "endUid": "u0830"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "The party addresses Valius through the mirror and shows him his imprisoned brother.",
+      "evidence": [
+        {
+          "startUid": "u0803",
+          "endUid": "u0804",
+          "quote": "DM: So— you take out the mirror. And who are you summoning?"
+        },
+        {
+          "startUid": "u0806",
+          "endUid": "u0813",
+          "quote": "DM: So as you speak his name and and cell number, you see appearing in the surface of the mirror this confused looking man, probably in his thirties, scruffy well traveled, wearing just now the the like undershirt and underclothes that were beneath his breastplate in the battle, is looking a little bit dazed. Looks out at you, kind of blinks his eyes."
+        },
+        {
+          "startUid": "u0824",
+          "endUid": "u0825",
+          "quote": "Delwath: Right now. You're imprisoned in a safe place. Your brother is in a similar place. Wait, there's a thing that lets them speak to each other right? Yep?"
+        },
+        {
+          "startUid": "u0827",
+          "endUid": "u0827",
+          "quote": "Delwath: Yeah, I'll do the thing where they can see each other."
+        },
+        {
+          "startUid": "u0828",
+          "endUid": "u0830",
+          "quote": "DM: You see, like his whole face relax. Is he— He still cursed?"
+        }
+      ],
+      "place": "p13",
+      "mode": "remote",
+      "observerPlace": "p06",
+      "observedActors": [
+        "Valius",
+        "Vargus"
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1161",
+        "endUid": "u1179"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Antonia appears at the mirror surface; Lubash and Murook step out of her line of sight for the conversation.",
+      "evidence": [
+        {
+          "startUid": "u1161",
+          "endUid": "u1165",
+          "quote": "DM: So Antonia surfaces in the mirror and she's, I mean, she was pretty, she was reasonably beat up in the fight. Her armor is still you know, looking pristine and and clean, and, she kind of slowly begins to look at you. And she says. Kind of looks up, and she says."
+        },
+        {
+          "startUid": "u1175",
+          "endUid": "u1178",
+          "quote": "DM: She looks around. She says she sees— what do you want from me? Do they need to be here? She looks back at Lubash and Murook in the distance."
+        },
+        {
+          "startUid": "u1179",
+          "endUid": "u1179",
+          "quote": "Delwath: They do not. I'll sort of motion for them to just take a few steps to the side so that they're not visible. He switches to Chardonian."
+        }
+      ],
+      "place": "p13",
+      "mode": "remote",
+      "observerPlace": "p06",
+      "observedActors": [
+        "Antonia"
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1796",
+        "endUid": "u1822"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "The party questions the still-bound Casian through the mirror.",
+      "evidence": [
+        {
+          "startUid": "u1796",
+          "endUid": "u1796",
+          "quote": "Delwath: Let's, let's bring Casian to the fore."
+        },
+        {
+          "startUid": "u1798",
+          "endUid": "u1799",
+          "quote": "Delwath: Let's see— you open. I just look at him. I'm not even going to say anything."
+        },
+        {
+          "startUid": "u1800",
+          "endUid": "u1800",
+          "quote": "DM: He's still bound, you know."
+        },
+        {
+          "startUid": "u1808",
+          "endUid": "u1809",
+          "quote": "DM: I will not tell you Grash's plans, but he is aware of your tricks and traps, not fall for that again."
+        }
+      ],
+      "place": "p13",
+      "mode": "remote",
+      "observerPlace": "p06",
+      "observedActors": [
+        "Casian"
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u2288",
+        "endUid": "u2313"
+      },
+      "actors": [
+        "Riswynn",
+        "Seeker"
+      ],
+      "reading": "Riswynn completes Hallow in one palace room; Seeker is brought inside and the attached ice creature dissolves.",
+      "evidence": [
+        {
+          "startUid": "u1989",
+          "endUid": "u1992",
+          "quote": "DM: You are casting hallow on one room in the palace and doing the forbiddance thing. You have, you don't need the ruby dust until 30 days are up, right—"
+        },
+        {
+          "startUid": "u2288",
+          "endUid": "u2291",
+          "quote": "Riswynn: Oh, fuck you, you haven't fixed that yet."
+        },
+        {
+          "startUid": "u2292",
+          "endUid": "u2297",
+          "quote": "DM: Seeker is reluctantly dragged into the room, and you see, all of you, now see this this like sort of like little curled up kind of gargoyle of ice with its claws stuck in Seeker's back just start to screech as it begins to melt away as Seeker's pulled into the hallow spell, and suddenly there is this burst of snow— to that sorry? I'll close the windows. Too loud. I'm going to talk. Who who can hear you, Laura. Because all my windows—"
+        },
+        {
+          "startUid": "u2298",
+          "endUid": "u2303",
+          "quote": "DM: Suddenly there is this burst of of icy snow that puffs out from behind Seeker, and you look up, Seeker, and, the cold that has been running through you is washed out. The heat doesn't bother you anymore."
+        }
+      ],
+      "place": "p07",
+      "note": "The watching party is addressed collectively. The source does not individually place Kenzo in this room merely because his player has connected."
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u2324",
+        "endUid": "u2335"
+      },
+      "actors": [
+        "Riswynn",
+        "Delwath"
+      ],
+      "reading": "Vargus is released into the hallowed room, remains blank, and is led back into the mirror.",
+      "evidence": [
+        {
+          "startUid": "u2324",
+          "endUid": "u2324",
+          "quote": "Delwath: I want to see if the hallow frees the cleansed."
+        },
+        {
+          "startUid": "u2325",
+          "endUid": "u2325",
+          "quote": "Riswynn: Yeah, that's what I meant. Let's let out the brother."
+        },
+        {
+          "startUid": "u2326",
+          "endUid": "u2327",
+          "quote": "DM: So you let out Vargus, who is, the brother of Valius."
+        },
+        {
+          "startUid": "u2328",
+          "endUid": "u2331",
+          "quote": "DM: And he he steps out, and he kind of blinks his eyes and shakes his head briefly, and he looks up at you and just kind of his face goes blank."
+        },
+        {
+          "startUid": "u2335",
+          "endUid": "u2335",
+          "quote": "DM: Is quietly led back into the mirror."
+        }
+      ],
+      "place": "p07",
+      "mode": "local",
+      "observerPlace": "p07",
+      "observedActors": [
+        "Vargus"
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u2419",
+        "endUid": "u2442"
+      },
+      "actors": [
+        "party viewing the cloak"
+      ],
+      "reading": "The cloak’s mirror vision shows fey hands weaving sunset-lit clouds into cloth.",
+      "evidence": [
+        {
+          "startUid": "u2419",
+          "endUid": "u2422",
+          "quote": "DM: You hold up— You ask Lubash to pull the cloak to the mirror, and he holds it up, and the scene fades, and you see."
+        },
+        {
+          "startUid": "u2424",
+          "endUid": "u2429",
+          "quote": "DM: The first thing you see is a field of clouds, glowing bright, and many colored, lit as if by the setting sun."
+        },
+        {
+          "startUid": "u2430",
+          "endUid": "u2436",
+          "quote": "DM: And you see hands, delicate fey hands pulling on these clouds, weaving threads out of the sky and binding them together, a cloak coming into being from these threads as the clouds themselves are distilled, the light of the sunset is distilled into this magic."
+        }
+      ],
+      "place": "p08",
+      "mode": "vision",
+      "context": "vision",
+      "note": "The observers’ current room is not re-established after the Hallow scene."
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u2443",
+        "endUid": "u2467"
+      },
+      "actors": [
+        "party viewing the cloak"
+      ],
+      "reading": "The vision shows an armored orc losing the cloak to Apollyon on a battlefield.",
+      "evidence": [
+        {
+          "startUid": "u2443",
+          "endUid": "u2454",
+          "quote": "DM: And the sparkling light, the bright, shimmering image remains flickering on the mirror, as you see as you see a war. You see a soldier. An orc, wearing the cloak armed, armored in heavy plate mail, carrying this giant sword, fighting desperately as twisting tendrils of black energy wrap around his hands and pull him back, and he staggers to his knees. And then—"
+        },
+        {
+          "startUid": "u2455",
+          "endUid": "u2467",
+          "quote": "DM: You see Apollyon for in full power, wearing not the cloak, but flowing robes, wearing the dark iron crown on his head, step forward, and it looks like he speaks just a single word, and the Orc dies instantly. And he steps forward and picks up the cloak, casts it on his shoulders, and begins to walk the shimmering light around the mirror, staying here, until you see him sitting brooding, Apollyon wearing the cloak in a room high in a tower. You can see the sky out the window. And he's arguing."
+        }
+      ],
+      "place": "p09",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Orc wearing the cloak",
+        "Apollyon"
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2455",
+        "endUid": "u2499"
+      },
+      "actors": [
+        "party viewing the cloak"
+      ],
+      "reading": "The imagery shifts to a high tower room where Apollyon and a silver-scaled man argue.",
+      "evidence": [
+        {
+          "startUid": "u2455",
+          "endUid": "u2467",
+          "quote": "DM: You see Apollyon for in full power, wearing not the cloak, but flowing robes, wearing the dark iron crown on his head, step forward, and it looks like he speaks just a single word, and the Orc dies instantly. And he steps forward and picks up the cloak, casts it on his shoulders, and begins to walk the shimmering light around the mirror, staying here, until you see him sitting brooding, Apollyon wearing the cloak in a room high in a tower. You can see the sky out the window. And he's arguing."
+        },
+        {
+          "startUid": "u2468",
+          "endUid": "u2471",
+          "quote": "DM: Arguing with a man wearing wearing bright robes, with an elegant face, flecks of silver scales in his skin and red eyes."
+        },
+        {
+          "startUid": "u2478",
+          "endUid": "u2482",
+          "quote": "DM: They— they seem to be having a heated argument, and the man with the silvery scales and the red eyes, pounding on the table, seemingly yelling at Apollyon."
+        },
+        {
+          "startUid": "u2492",
+          "endUid": "u2495",
+          "quote": "DM: It is almost as if he is speaking. It's it's a weird sensation like you can almost feel the echoes of these words through the mirror. And it sounds like he's saying something like: you will pay for this betrayal."
+        }
+      ],
+      "place": "p10",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Apollyon",
+        "Silver-scaled man"
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u2506",
+        "endUid": "u2522"
+      },
+      "actors": [
+        "party viewing the cloak"
+      ],
+      "reading": "The vision shows Apollyon before a crowd and a giant statue, then goes black.",
+      "evidence": [
+        {
+          "startUid": "u2506",
+          "endUid": "u2510",
+          "quote": "DM: And you see now a scene not too dissimilar to one you had seen before. You see Apollyon wearing the cloak, carrying the scepter and the crown, standing before a large crowd."
+        },
+        {
+          "startUid": "u2511",
+          "endUid": "u2520",
+          "quote": "DM: He is standing now in front, you can see, of a very large, much larger than life-size, like 20, 30 feet tall statue of himself, and the people in front of him. He is holding up the scepter, and he's pulled the cloak around himself. And the people in front of him are bowed below him, as if in prayer or genuflection or awe, as he seems to be commanding or orchestrating them with the scepter and the statue behind him. This enormous statue of Apollyon seems to glow and pulse and collect sparkling tendrils of the cloak as he's, as Apollyon speaks to the adoring crowds before him."
+        },
+        {
+          "startUid": "u2521",
+          "endUid": "u2522",
+          "quote": "DM: And then the scene. The mirror goes black, the scene ends."
+        }
+      ],
+      "place": "p11",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Apollyon"
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u2561",
+        "endUid": "u2567"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn remains in Uzgukhar, settling into the routine of protective prayer around the city.",
+      "evidence": [
+        {
+          "startUid": "u2561",
+          "endUid": "u2567",
+          "quote": "DM: That was my next question. So as we end the session now a few days after the battle with Riswynn having created her hallow, hallowed sanctuary, and now settling into the routine of prayer and sprinkling of ruby dust around the city to protect it from from undead while you, the rest of you fly, I'm guessing at night so that it's dark and nobody can see where you go, heading off in the skyship to where? Exactly?"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2561",
+        "endUid": "u2598"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "The other four depart Uzgukhar in the skyship, heading north; Tollen is selected as part of the onward volcano-search framework.",
+      "evidence": [
+        {
+          "startUid": "u2561",
+          "endUid": "u2567",
+          "quote": "DM: That was my next question. So as we end the session now a few days after the battle with Riswynn having created her hallow, hallowed sanctuary, and now settling into the routine of prayer and sprinkling of ruby dust around the city to protect it from from undead while you, the rest of you fly, I'm guessing at night so that it's dark and nobody can see where you go, heading off in the skyship to where? Exactly?"
+        },
+        {
+          "startUid": "u2574",
+          "endUid": "u2577",
+          "quote": "Delwath: I think we should head towards the northern volcanoes north of the Green sea. But I think we might want to— I mean, do we have to know exactly where we're going?"
+        },
+        {
+          "startUid": "u2582",
+          "endUid": "u2582",
+          "quote": "Delwath: I mean, we're trying to find a volcano in the North. I don't think we know exactly."
+        },
+        {
+          "startUid": "u2588",
+          "endUid": "u2590",
+          "quote": "DM: I don't need a—there’s no—don’t need a plan. But okay, I'll, I'll do this, I'll give you 3 choices. Go ahead, what are you gonna say?"
+        },
+        {
+          "startUid": "u2596",
+          "endUid": "u2597",
+          "quote": "DM: So so this is all I need. Basic framework: volcano, Tollen plus volcanism."
+        },
+        {
+          "startUid": "u2598",
+          "endUid": "u2598",
+          "quote": "Delwath: Yes."
+        }
+      ],
+      "from": "p03",
+      "to": "p12",
+      "completion": "underway",
+      "mode": "fly",
+      "vehicle": "p05",
+      "note": "No arrival at Tollen or any volcano is narrated; the precise volcano remains undecided."
+    }
+  ]
+}

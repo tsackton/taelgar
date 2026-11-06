@@ -1,0 +1,400 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-079",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-session.yaml",
+    "sessionYamlSha256": "e6bc748551f891902d6aca8bcb664acdd40b4df3864043f629ba8f3008ce8ba0",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-transcript.md",
+    "transcriptSha256": "7b1f548412bac3013c26cdc9f8dca192e972e69cb5f26f2a55d2ef497a99ed65",
+    "yamlDates": {
+      "start": "1748-12-08",
+      "end": "1748-12-10"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0070",
+        "endUid": "u0071"
+      },
+      "reading": "The immediate battle aftermath is about 3 a.m.; no date is spoken.",
+      "evidence": [
+        {
+          "startUid": "u0070",
+          "endUid": "u0070",
+          "quote": "Seeker: What hour is it again?"
+        },
+        {
+          "startUid": "u0071",
+          "endUid": "u0071",
+          "quote": "DM: It's like 3 in the morning."
+        }
+      ],
+      "time": {
+        "clock": "03:00",
+        "partOfDay": "early morning",
+        "precision": "approximate",
+        "basis": "DM answers the current-hour question."
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0072",
+        "endUid": "u0077"
+      },
+      "reading": "Seeker’s tending of the fallen Ladder occurred within the few minutes before the opening description.",
+      "evidence": [
+        {
+          "startUid": "u0072",
+          "endUid": "u0077",
+          "quote": "Seeker: The so until a few minutes ago you saw Seeker crouched down reverently, rolling the now lifeless, heroic Ladder into a tight coil, plucking the occasional thorn from it, where it was pricked in the act of removing the brambles from Wellby's legs."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t01",
+          "offset": {
+            "text": "a few minutes",
+            "unit": "minute",
+            "precision": "vague",
+            "basis": "Seeker explicitly places the memorial action a few minutes earlier."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Retrospective timing of a current-session aftermath action."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0428",
+        "endUid": "u0429"
+      },
+      "reading": "Lubash speaks quietly to Murook for a minute before retiring.",
+      "evidence": [
+        {
+          "startUid": "u0428",
+          "endUid": "u0429",
+          "quote": "DM: Then speaks quietly to Murook for a minute, who then says she's gonna make sure he makes it safely to the bed and is guarded, and we'll return. If there's anything that you need."
+        }
+      ],
+      "actors": [
+        "Lubash",
+        "Murook"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated duration of the private exchange."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0438",
+        "endUid": "u0445"
+      },
+      "reading": "Before retiring, the table places the current hour at about 4 a.m.",
+      "evidence": [
+        {
+          "startUid": "u0438",
+          "endUid": "u0438",
+          "quote": "Unknown: It's, what, 4 in the morning?"
+        },
+        {
+          "startUid": "u0439",
+          "endUid": "u0439",
+          "quote": "Delwath: Yeah. So my—"
+        },
+        {
+          "startUid": "u0440",
+          "endUid": "u0445",
+          "quote": "Delwath: So my sword charge resets at dawn. So it's going to be resets in 2 h, anyway, as may as well try it. So Delwath will take out his sword, Narsil, right? Narsil? That sounds like a Tolkien. That's a Tolkien, that's not—Narsil's a Tolkien sword. What? What's this called? And he'll— holding the sword in one hand, he'll mutter a short command word, and the— and then—"
+        }
+      ],
+      "time": {
+        "clock": "04:00",
+        "precision": "approximate",
+        "basis": "Player asks whether it is four in the morning; Delwath assents and says dawn is two hours away."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0488",
+        "endUid": "u0493"
+      },
+      "reading": "The party completes a long rest and wakes late morning, close to noon.",
+      "evidence": [
+        {
+          "startUid": "u0488",
+          "endUid": "u0488",
+          "quote": "Delwath: Okay? So we're taking a long rest. Yes."
+        },
+        {
+          "startUid": "u0490",
+          "endUid": "u0490",
+          "quote": "Seeker: Long rest."
+        },
+        {
+          "startUid": "u0491",
+          "endUid": "u0493",
+          "quote": "DM: So as you wake in the morning, late morning, close to noon. What are your— what do you? What are your plans for the day?"
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention"
+      },
+      "time": {
+        "partOfDay": "late morning, close to noon",
+        "precision": "approximate",
+        "basis": "DM explicitly narrates waking."
+      },
+      "completion": "completed",
+      "note": "The previous anchor was already after midnight; waking does not itself establish another civil-date boundary."
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u0839",
+        "endUid": "u0842"
+      },
+      "reading": "Valius takes about a minute to gather his thoughts before telling his story.",
+      "evidence": [
+        {
+          "startUid": "u0839",
+          "endUid": "u0842",
+          "quote": "DM: Nice. He he looks, and he he sort of glances. So he is looking at you, but he can also sort of glance over to the side and see his brother, and in this other cell, who's just kind of sitting staring blankly. He sort of takes a minute to gather his thoughts. Looks at you— I'm sorry it came to this. He looks back at Lubash, and he looks to him, and he says."
+        }
+      ],
+      "actors": [
+        "Valius"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates that he sort of takes a minute to gather his thoughts."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1181",
+        "endUid": "u1187"
+      },
+      "reading": "Lowering the cloak’s inhibition so Delwath can cast Tongues takes a couple of minutes.",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1182",
+          "quote": "Delwath: I don't actually speak Chardonian. I don't speak too uncivilized. Well, okay, so I'll have tongues. I will cast. Oh, I can't. You can get Wellby—"
+        },
+        {
+          "startUid": "u1184",
+          "endUid": "u1184",
+          "quote": "DM: Takes a couple of minutes."
+        },
+        {
+          "startUid": "u1186",
+          "endUid": "u1186",
+          "quote": "DM: What if you like? Tell him he can turn it off. Yeah."
+        },
+        {
+          "startUid": "u1187",
+          "endUid": "u1187",
+          "quote": "Delwath: I will cast tongues."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Lubash"
+      ],
+      "duration": {
+        "text": "a couple of minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM supplies elapsed time while resolving the cloak interruption."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2119",
+        "endUid": "u2124"
+      },
+      "reading": "Riswynn casts Hallow while the others prepare for departure over the next 24 hours.",
+      "evidence": [
+        {
+          "startUid": "u2119",
+          "endUid": "u2120",
+          "quote": "DM: Okay, so Riswynn is casting hallow."
+        },
+        {
+          "startUid": "u2121",
+          "endUid": "u2124",
+          "quote": "DM: Yeah. So over the next 24 h you get prepared. You get packed, at—you like get prepared for the journey. You say your goodbyes to the Orcs. You give them what advice and comfort you can, you—"
+        },
+        {
+          "startUid": "u2288",
+          "endUid": "u2291",
+          "quote": "Riswynn: Oh, fuck you, you haven't fixed that yet."
+        }
+      ],
+      "actors": [
+        "Riswynn",
+        "party preparing for departure"
+      ],
+      "duration": {
+        "value": 24,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM narrates the next 24 hours and later resolves the completed Hallow."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2419",
+        "endUid": "u2429"
+      },
+      "reading": "The cloak examination opens a separate historical vision, beginning with sunset-lit clouds.",
+      "evidence": [
+        {
+          "startUid": "u2419",
+          "endUid": "u2422",
+          "quote": "DM: You hold up— You ask Lubash to pull the cloak to the mirror, and he holds it up, and the scene fades, and you see."
+        },
+        {
+          "startUid": "u2424",
+          "endUid": "u2429",
+          "quote": "DM: The first thing you see is a field of clouds, glowing bright, and many colored, lit as if by the setting sun."
+        }
+      ],
+      "context": "vision",
+      "note": "Sunset-like lighting belongs to the imagery and supplies no civil watch or elapsed adventure time."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2500",
+        "endUid": "u2505"
+      },
+      "reading": "The vision shifts to Apollyon sometime after the argument, then to another scene.",
+      "evidence": [
+        {
+          "startUid": "u2500",
+          "endUid": "u2505",
+          "quote": "DM: And you see Apollyon now sitting sometime later, lost in thought. Presumably this is like, you know, thinking after this occurred. And the bright shimmering of the scene remains—the bright shimmering around the around the mirror as the scene shifts once more."
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "the silver-scaled man’s argument with Apollyon"
+        },
+        "precision": "approximate",
+        "basis": "DM explicitly says sometime later; no duration is established."
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2521",
+        "endUid": "u2525"
+      },
+      "reading": "The mirror goes black and play returns to the party after the cloak vision.",
+      "evidence": [
+        {
+          "startUid": "u2521",
+          "endUid": "u2522",
+          "quote": "DM: And then the scene. The mirror goes black, the scene ends."
+        },
+        {
+          "startUid": "u2523",
+          "endUid": "u2523",
+          "quote": "Kenzo: Did we see a scene of him using it before he got betrayed?"
+        },
+        {
+          "startUid": "u2524",
+          "endUid": "u2525",
+          "quote": "DM: No. Just fighting for it."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2561",
+        "endUid": "u2567"
+      },
+      "reading": "A few days after the battle, Riswynn settles into protecting the city and the others depart by skyship, apparently at night.",
+      "evidence": [
+        {
+          "startUid": "u2561",
+          "endUid": "u2567",
+          "quote": "DM: That was my next question. So as we end the session now a few days after the battle with Riswynn having created her hallow, hallowed sanctuary, and now settling into the routine of prayer and sprinkling of ruby dust around the city to protect it from from undead while you, the rest of you fly, I'm guessing at night so that it's dark and nobody can see where you go, heading off in the skyship to where? Exactly?"
+        }
+      ],
+      "actors": [
+        "Riswynn",
+        "Delwath",
+        "Wellby",
+        "Seeker",
+        "Kenzo"
+      ],
+      "time": {
+        "partOfDay": "night",
+        "relative": {
+          "relation": "after",
+          "anchor": "the battle immediately before the opening aftermath",
+          "offset": {
+            "text": "a few days",
+            "unit": "day",
+            "precision": "vague",
+            "basis": "DM’s final current-play anchor."
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM says now a few days after the battle and suggests night departure; no exact clock or date is spoken."
+      },
+      "note": "This overall anchor encompasses the earlier rest and Hallow preparation; it is not an additional few days to add to those intervals."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No adventure date is independently spoken. The working year, month and days come from YAML (1748-12-08 through 1748-12-10).",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t05",
+      "t09"
+    ],
+    "explanation": "The opening is already about 03:00. A completed eight-hour rest reaches close to noon without establishing a new date; the 24-hour Hallow accounts for one transition. The final few-days-after-battle anchor can fit the YAML span but does not fix an exact total. Mirror history and real-world scheduling do not extend the adventure span."
+  }
+}

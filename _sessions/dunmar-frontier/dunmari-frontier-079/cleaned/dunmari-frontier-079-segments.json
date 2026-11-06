@@ -1,0 +1,182 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-079",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-session.yaml",
+    "sessionYamlSha256": "e6bc748551f891902d6aca8bcb664acdd40b4df3864043f629ba8f3008ce8ba0",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-transcript.md",
+    "transcriptSha256": "7b1f548412bac3013c26cdc9f8dca192e972e69cb5f26f2a55d2ef497a99ed65"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0461"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0462",
+        "endUid": "u0467"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0468",
+        "endUid": "u0574"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0575",
+        "endUid": "u0685"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0686",
+        "endUid": "u1510"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1511",
+        "endUid": "u1638"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1639",
+        "endUid": "u1705"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1706",
+        "endUid": "u1765"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1766",
+        "endUid": "u1939"
+      },
+      "category": "gameplay",
+      "note": "Casian’s execution is resolved by one Dexterity contest and an arrow before a spell; no initiative or repeated ordered turn cycle is established."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1940",
+        "endUid": "u1987"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1988",
+        "endUid": "u2006"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2007",
+        "endUid": "u2055"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2056",
+        "endUid": "u2216"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2217",
+        "endUid": "u2250"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2251",
+        "endUid": "u2287"
+      },
+      "category": "session_framing",
+      "note": "Recap and level-up framing for the arriving player; active Hallow completion resumes at u2288."
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2288",
+        "endUid": "u2528"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2529",
+        "endUid": "u2560"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u2561",
+        "endUid": "u2567"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u2568",
+        "endUid": "u2612"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u2613",
+        "endUid": "u2628"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
