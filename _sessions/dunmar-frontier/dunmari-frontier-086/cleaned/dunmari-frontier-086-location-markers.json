@@ -1,0 +1,1368 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-086",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-session.yaml",
+    "sessionYamlSha256": "123f84619dc116cadf26ba5f473ff028cd05a475e1a9112b08b37b95ce335ec5",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-transcript.md",
+    "transcriptSha256": "137dbd02088717b3348d341b3d1b230651072ce33ec6d692c06d664d576de123"
+  },
+  "places": {
+    "p00": {
+      "label": "Edge of Echoes",
+      "kind": "cave complex",
+      "evidence": [
+        {
+          "startUid": "u2088",
+          "endUid": "u2090",
+          "quote": "this place, the Edge of Echoes"
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Edge of Echoes.md"
+    },
+    "p01": {
+      "label": "ancient elemental forge complex",
+      "kind": "workshop complex",
+      "evidence": [
+        {
+          "startUid": "u0037",
+          "endUid": "u0039",
+          "quote": "The ancient forge, some elemental forge, Tim."
+        },
+        {
+          "startUid": "u2088",
+          "endUid": "u2090",
+          "quote": "this place, the Edge of Echoes"
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Elemental Forge.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p00",
+          "evidence": [
+            {
+              "startUid": "u2088",
+              "endUid": "u2090",
+              "quote": "this place, the Edge of Echoes"
+            },
+            {
+              "startUid": "u0905",
+              "endUid": "u0907",
+              "quote": "the waterfall that you entered this cave from"
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "three-door antechamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0013",
+          "endUid": "u0020",
+          "quote": "a small room. A dusty, ancient chamber"
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0035",
+          "quote": "Faldrak, behind you"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0013",
+              "endUid": "u0020",
+              "quote": "3 doors that exit from this small chamber"
+            },
+            {
+              "startUid": "u0040",
+              "endUid": "u0044",
+              "quote": "living quarters in a store room"
+            },
+            {
+              "startUid": "u0051",
+              "endUid": "u0055",
+              "quote": "on the other side of the stone door"
+            },
+            {
+              "startUid": "u0056",
+              "endUid": "u0063",
+              "quote": "Through the through the bronze door"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "living-quarter hallway",
+      "kind": "hallway",
+      "evidence": [
+        {
+          "startUid": "u0089",
+          "endUid": "u0094",
+          "quote": "you all move together towards the living quarters"
+        },
+        {
+          "startUid": "u0112",
+          "endUid": "u0113",
+          "quote": "You're just all so far just standing in this hallway."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0089",
+              "endUid": "u0102",
+              "quote": "3 rooms that branch off from the hallway"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "bedchamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0224",
+          "endUid": "u0224",
+          "quote": "Kenzo and Wellby make investigation checks in the bed chamber."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0089",
+              "endUid": "u0094",
+              "quote": "To your left"
+            },
+            {
+              "startUid": "u0089",
+              "endUid": "u0094",
+              "quote": "what looks like possibly a bed chamber."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "kitchen and dining hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0318",
+          "endUid": "u0322",
+          "quote": "move on to the like kitchen hall."
+        },
+        {
+          "startUid": "u0366",
+          "endUid": "u0370",
+          "quote": "the dining hall"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0095",
+              "endUid": "u0102",
+              "quote": "Straight ahead is the small hall."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "bathroom",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0460",
+          "endUid": "u0469",
+          "quote": "The bathroom is"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0095",
+              "endUid": "u0102",
+              "quote": "small bathroom"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "storeroom / pantry",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0190",
+          "endUid": "u0192",
+          "quote": "Seeker and Faldrak are entering the storeroom and investigating the crack."
+        },
+        {
+          "startUid": "u0242",
+          "endUid": "u0247",
+          "quote": "Seeker and Faldrak enter the pantry."
+        }
+      ],
+      "aliases": [
+        "storeroom",
+        "pantry"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0095",
+              "endUid": "u0102",
+              "quote": "The other which leads to store room."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "tunnel behind the storeroom crack",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u0103",
+          "endUid": "u0106",
+          "quote": "in the back of the storeroom, it looks like there's a crack in the wall."
+        },
+        {
+          "startUid": "u0258",
+          "endUid": "u0262",
+          "quote": "without entering it"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p00",
+          "evidence": [
+            {
+              "startUid": "u0103",
+              "endUid": "u0106",
+              "quote": "a tunnel goes some distance down"
+            },
+            {
+              "startUid": "u2368",
+              "endUid": "u2369",
+              "quote": "This crack actually leads back to those corridors that Wellby was exploring"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "jeweler’s workshop",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0516",
+          "endUid": "u0523",
+          "quote": "you push open the door that leads into the workshop. And Faldrak's eyes just light up. This is clearly like a jeweler's workshop"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1109",
+              "endUid": "u1112",
+              "quote": "right here in this workshop"
+            },
+            {
+              "startUid": "u1123",
+              "endUid": "u1126",
+              "quote": "bring it into the other room"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "circular forge chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0056",
+          "endUid": "u0063",
+          "quote": "a large circular open space"
+        },
+        {
+          "startUid": "u1245",
+          "endUid": "u1250",
+          "quote": "a large anvil in the center."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1123",
+              "endUid": "u1126",
+              "quote": "bring it into the other room"
+            },
+            {
+              "startUid": "u1235",
+              "endUid": "u1242",
+              "quote": "And then you push open the door."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "cave-entry waterfall",
+      "kind": "waterfall",
+      "evidence": [
+        {
+          "startUid": "u0905",
+          "endUid": "u0907",
+          "quote": "the waterfall that you entered this cave from"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "at_entrance_to",
+          "target": "p00",
+          "evidence": [
+            {
+              "startUid": "u0905",
+              "endUid": "u0907",
+              "quote": "the waterfall that you entered this cave from"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "mission briefing tent",
+      "kind": "tent",
+      "evidence": [
+        {
+          "startUid": "u0908",
+          "endUid": "u0918",
+          "quote": "the leader of some groups' tent"
+        }
+      ],
+      "note": "Historical mirror scene; its geographic location is not established."
+    },
+    "p13": {
+      "label": "portable hole interior",
+      "kind": "mobile extradimensional space",
+      "evidence": [
+        {
+          "startUid": "u0883",
+          "endUid": "u0888",
+          "quote": "Climb down, take out the mirror, set it up."
+        }
+      ],
+      "mobile": true
+    },
+    "p14": {
+      "label": "cloud staircase",
+      "kind": "vision setting",
+      "evidence": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2253",
+          "quote": "staircase of clouds stretching up to infinity"
+        }
+      ]
+    },
+    "p15": {
+      "label": "palace of lightning",
+      "kind": "vision setting",
+      "evidence": [
+        {
+          "startUid": "u2254",
+          "endUid": "u2258",
+          "quote": "a big open hall, with this large archway and 4 spiraling pillars"
+        }
+      ]
+    },
+    "p16": {
+      "label": "airborne council gathering",
+      "kind": "vision setting",
+      "evidence": [
+        {
+          "startUid": "u2266",
+          "endUid": "u2271",
+          "quote": "a society of these creatures. This is a a city of sorts, you guess."
+        }
+      ]
+    },
+    "p17": {
+      "label": "dark misty land",
+      "kind": "vision setting",
+      "evidence": [
+        {
+          "startUid": "u2275",
+          "endUid": "u2281",
+          "quote": "this dark, misty land"
+        }
+      ]
+    },
+    "p18": {
+      "label": "floating shard of solid ground",
+      "kind": "vision setting",
+      "evidence": [
+        {
+          "startUid": "u2282",
+          "endUid": "u2288",
+          "quote": "standing on a shard of solid ground floating in the sky."
+        }
+      ]
+    },
+    "p19": {
+      "label": "airship",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u2373",
+          "endUid": "u2374",
+          "quote": "return to it on a sunny, chilly morning"
+        }
+      ],
+      "mobile": true,
+      "note": "Identified as Vindristjarna from the canonical ship account; the current transcript calls it the airship.",
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p20": {
+      "label": "Orenlas",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u2376",
+          "endUid": "u2376",
+          "quote": "the less than a day's journey to Orenlas."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Orenlas/Orenlas.md"
+    },
+    "p21": {
+      "label": "downriver return route",
+      "kind": "waterway",
+      "evidence": [
+        {
+          "startUid": "u2373",
+          "endUid": "u2374",
+          "quote": "Sail downriver. Emerge out from the cavern."
+        }
+      ],
+      "note": "The Freccilia identity is supplied by the canonical Edge of Echoes and Freccilia notes. The transcript establishes sailing downriver but does not speak the river’s name.",
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Freccilia.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u0035"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "The four PCs and Faldrak begin in the three-door antechamber.",
+      "evidence": [
+        {
+          "startUid": "u0013",
+          "endUid": "u0020",
+          "quote": "we begin tonight in a small room."
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0035",
+          "quote": "Faldrak, behind you"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0051",
+        "endUid": "u0055"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath looks through the closed stone door into the workshop without entering.",
+      "evidence": [
+        {
+          "startUid": "u0046",
+          "endUid": "u0046",
+          "quote": "I will just look through the doors."
+        },
+        {
+          "startUid": "u0051",
+          "endUid": "u0055",
+          "quote": "on the other side of the stone door"
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0056",
+        "endUid": "u0069"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath sees the circular forge chamber and shackled skeleton through the bronze door.",
+      "evidence": [
+        {
+          "startUid": "u0056",
+          "endUid": "u0063",
+          "quote": "Through the through the bronze door you can see a large circular open space"
+        },
+        {
+          "startUid": "u0064",
+          "endUid": "u0069",
+          "quote": "a human skeleton"
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0089",
+        "endUid": "u0113"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "The group moves together from the antechamber into the hallway serving the living quarters.",
+      "evidence": [
+        {
+          "startUid": "u0089",
+          "endUid": "u0094",
+          "quote": "you all move together towards the living quarters."
+        },
+        {
+          "startUid": "u0112",
+          "endUid": "u0113",
+          "quote": "You're just all so far just standing in this hallway."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0190",
+        "endUid": "u0192"
+      },
+      "actors": [
+        "Seeker",
+        "Faldrak"
+      ],
+      "reading": "Seeker and Faldrak enter the storeroom and examine its crack.",
+      "evidence": [
+        {
+          "startUid": "u0190",
+          "endUid": "u0192",
+          "quote": "Seeker and Faldrak are entering the storeroom and investigating the crack."
+        },
+        {
+          "startUid": "u0242",
+          "endUid": "u0247",
+          "quote": "Seeker and Faldrak enter the pantry."
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0224",
+        "endUid": "u0236"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo and Wellby search the bedchamber; Delwath keeps guard rather than being assigned to their room.",
+      "evidence": [
+        {
+          "startUid": "u0224",
+          "endUid": "u0224",
+          "quote": "Kenzo and Wellby make investigation checks in the bed chamber."
+        },
+        {
+          "startUid": "u0226",
+          "endUid": "u0231",
+          "quote": "you begin poking around the bedchamber."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0258",
+        "endUid": "u0288"
+      },
+      "actors": [
+        "Seeker",
+        "Faldrak"
+      ],
+      "reading": "From the pantry they inspect the dark tunnel and glinting boulder-like lumps without entering.",
+      "evidence": [
+        {
+          "startUid": "u0258",
+          "endUid": "u0262",
+          "quote": "without entering it"
+        },
+        {
+          "startUid": "u0282",
+          "endUid": "u0288",
+          "quote": "there's like 2 or 3 kind of like boulder shaped lumps"
+        }
+      ],
+      "place": "p08",
+      "mode": "local",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0318",
+        "endUid": "u0354"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The bedchamber investigators move into the kitchen hall and search it.",
+      "evidence": [
+        {
+          "startUid": "u0318",
+          "endUid": "u0322",
+          "quote": "you've finished searching the bedchamber. And and move on to the like kitchen hall."
+        },
+        {
+          "startUid": "u0342",
+          "endUid": "u0346",
+          "quote": "you move on into the into the sort of chamber—the hall."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0372",
+        "endUid": "u0396"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker’s Clairvoyance sensor inspects the embedded granite boulders in the tunnel; Seeker remains in the pantry.",
+      "evidence": [
+        {
+          "startUid": "u0372",
+          "endUid": "u0376",
+          "quote": "send your clairvoyance sensor out"
+        },
+        {
+          "startUid": "u0394",
+          "endUid": "u0396",
+          "quote": "This is not limestone. This is like granite."
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0372",
+        "endUid": "u0376"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo and Wellby move from the hall to the bathroom and complete their search.",
+      "evidence": [
+        {
+          "startUid": "u0372",
+          "endUid": "u0376",
+          "quote": "So move on to the bathroom as Seeker's spell finishes"
+        },
+        {
+          "startUid": "u0460",
+          "endUid": "u0474",
+          "quote": "Nothing seems to be magical here."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0410",
+        "endUid": "u0411"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath enters the pantry and notices the chest’s magic.",
+      "evidence": [
+        {
+          "startUid": "u0410",
+          "endUid": "u0411",
+          "quote": "wander into the room."
+        },
+        {
+          "startUid": "u0410",
+          "endUid": "u0411",
+          "quote": "The stone chest is magical."
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived",
+      "note": "His preceding guard position was mobile in the living quarters, not a fixed bedchamber location."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0475",
+        "endUid": "u0480"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The two investigators rejoin the others to lift the pantry chest into the portable hole.",
+      "evidence": [
+        {
+          "startUid": "u0475",
+          "endUid": "u0480",
+          "quote": "Requires all 4 of you to lift it. But you manage."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u0514",
+        "endUid": "u0523"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "The reunited group enters the jeweler’s workshop, where it investigates and rests.",
+      "evidence": [
+        {
+          "startUid": "u0514",
+          "endUid": "u0514",
+          "quote": "Into the workshop we go."
+        },
+        {
+          "startUid": "u0516",
+          "endUid": "u0523",
+          "quote": "you push open the door that leads into the workshop."
+        },
+        {
+          "startUid": "u0516",
+          "endUid": "u0523",
+          "quote": "Faldrak's eyes just light up."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Return through the adjoining hallway and antechamber to the stone workshop door."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u0883",
+        "endUid": "u0888"
+      },
+      "actors": [
+        "Mirror handlers (not individually specified)"
+      ],
+      "reading": "The portable hole is opened in the workshop and handlers descend to set up the mirror.",
+      "evidence": [
+        {
+          "startUid": "u0883",
+          "endUid": "u0888",
+          "quote": "stretch out the portable hole. Climb down, take out the mirror, set it up."
+        }
+      ],
+      "from": "p09",
+      "to": "p13",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p13",
+          "relation": "opened_at",
+          "target": "p09"
+        }
+      ],
+      "note": "The narration does not identify exactly which characters descend; viewing the mirror does not place every companion inside the hole."
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u0899",
+        "endUid": "u0907"
+      },
+      "actors": [
+        "Mirror viewers (not individually specified)"
+      ],
+      "reading": "The mirror shows the unnamed woman hiding by the waterfall and vanishing.",
+      "evidence": [
+        {
+          "startUid": "u0899",
+          "endUid": "u0904",
+          "quote": "The mirror goes black, and then the an image appears"
+        },
+        {
+          "startUid": "u0905",
+          "endUid": "u0907",
+          "quote": "the waterfall that you entered this cave from"
+        }
+      ],
+      "place": "p11",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Unnamed Fides Lucaris woman"
+      ],
+      "note": "The mirror is set up from the portable hole at the workshop; individual viewers’ positions within that setup are not specified."
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u0908",
+        "endUid": "u0938"
+      },
+      "actors": [
+        "Mirror viewers (not individually specified)"
+      ],
+      "reading": "An earlier vision shows the woman and elf at the mission briefing tent.",
+      "evidence": [
+        {
+          "startUid": "u0908",
+          "endUid": "u0918",
+          "quote": "And then the image jumps back."
+        },
+        {
+          "startUid": "u0919",
+          "endUid": "u0923",
+          "quote": "5 people sitting around a table in this like fancy tent"
+        }
+      ],
+      "place": "p12",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Unnamed Fides Lucaris woman",
+        "Elf / Elandrial"
+      ],
+      "note": "The mirror is set up from the portable hole at the workshop; individual viewers’ positions within that setup are not specified."
+    },
+    {
+      "id": "l17",
+      "type": "presence",
+      "source": {
+        "startUid": "u1150",
+        "endUid": "u1167"
+      },
+      "actors": [
+        "Faldrak"
+      ],
+      "reading": "Faldrak stays in the workshop preparing crafting options and bars its door while the PCs go onward.",
+      "evidence": [
+        {
+          "startUid": "u1150",
+          "endUid": "u1151",
+          "quote": "Hanging back."
+        },
+        {
+          "startUid": "u1150",
+          "endUid": "u1151",
+          "quote": "inventory and prep work here"
+        },
+        {
+          "startUid": "u1162",
+          "endUid": "u1167",
+          "quote": "push a few things against the door."
+        }
+      ],
+      "place": "p09"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1235",
+        "endUid": "u1277"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "The four PCs enter the circular forge chamber and cross around the anvil to the shackled skeleton.",
+      "evidence": [
+        {
+          "startUid": "u1235",
+          "endUid": "u1242",
+          "quote": "And then you push open the door."
+        },
+        {
+          "startUid": "u1262",
+          "endUid": "u1264",
+          "quote": "as you step into this chamber"
+        },
+        {
+          "startUid": "u1275",
+          "endUid": "u1277",
+          "quote": "we're all going to get across the room."
+        },
+        {
+          "startUid": "u1324",
+          "endUid": "u1330",
+          "quote": "looks across at the 4 of you"
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1961",
+        "endUid": "u1971"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker disengages from the fight, exits to the adjoining antechamber and closes the forge door.",
+      "evidence": [
+        {
+          "startUid": "u1961",
+          "endUid": "u1964",
+          "quote": "disengage, exit and close the door."
+        },
+        {
+          "startUid": "u1969",
+          "endUid": "u1971",
+          "quote": "that's what I'm doing."
+        },
+        {
+          "startUid": "u1970",
+          "endUid": "u1971",
+          "quote": "As you shut the door"
+        }
+      ],
+      "from": "p10",
+      "to": "p02",
+      "completion": "arrived",
+      "note": "The antechamber endpoint follows the established bronze-door connection; Faldrak remains separately in the workshop."
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u2157",
+        "endUid": "u2164"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker pokes his head through the forge doorway and sees its colored stone; full bodily reentry is not yet established.",
+      "evidence": [
+        {
+          "startUid": "u2157",
+          "endUid": "u2159",
+          "quote": "Seeker's gonna bravely poke his head back in the door."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2174",
+        "endUid": "u2178"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath returns to the workshop and passes Faldrak’s door check.",
+      "evidence": [
+        {
+          "startUid": "u2174",
+          "endUid": "u2175",
+          "quote": "I'll go. I'll go do the Ghostly Eye thing."
+        },
+        {
+          "startUid": "u2177",
+          "endUid": "u2178",
+          "quote": "Faldrak, as he lets you in"
+        }
+      ],
+      "from": "p10",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2210",
+        "endUid": "u2216"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "Seeker, Delwath and Faldrak enter the forge chamber and see the energized anvil; Kenzo has remained there.",
+      "evidence": [
+        {
+          "startUid": "u2210",
+          "endUid": "u2210",
+          "quote": "the rest of you walk in on the scene."
+        },
+        {
+          "startUid": "u2212",
+          "endUid": "u2214",
+          "quote": "to Seeker and to to Delwath as you walk in"
+        },
+        {
+          "startUid": "u2212",
+          "endUid": "u2214",
+          "quote": "Faldrak like looks super confused by the whole scene"
+        }
+      ],
+      "from": null,
+      "to": "p10",
+      "completion": "arrived",
+      "note": "Only named arrivals are assigned; Wellby’s continuing presence in the chamber is not converted into a new excursion."
+    },
+    {
+      "id": "l23",
+      "type": "observation",
+      "source": {
+        "startUid": "u2247",
+        "endUid": "u2253"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo sees a setting in Sh’shethis’s memory; the others can receive his descriptions, not the vision itself.",
+      "evidence": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2253",
+          "quote": "staircase of clouds stretching up to infinity"
+        },
+        {
+          "startUid": "u2309",
+          "endUid": "u2312",
+          "quote": "it's not like they're actually in the vision."
+        }
+      ],
+      "place": "p14",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p10"
+    },
+    {
+      "id": "l24",
+      "type": "observation",
+      "source": {
+        "startUid": "u2254",
+        "endUid": "u2265"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo sees a setting in Sh’shethis’s memory; the others can receive his descriptions, not the vision itself.",
+      "evidence": [
+        {
+          "startUid": "u2254",
+          "endUid": "u2265",
+          "quote": "palace"
+        },
+        {
+          "startUid": "u2309",
+          "endUid": "u2312",
+          "quote": "it's not like they're actually in the vision."
+        }
+      ],
+      "place": "p15",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p10"
+    },
+    {
+      "id": "l25",
+      "type": "observation",
+      "source": {
+        "startUid": "u2266",
+        "endUid": "u2271"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo sees a setting in Sh’shethis’s memory; the others can receive his descriptions, not the vision itself.",
+      "evidence": [
+        {
+          "startUid": "u2266",
+          "endUid": "u2271",
+          "quote": "some sort of council or political gathering."
+        },
+        {
+          "startUid": "u2309",
+          "endUid": "u2312",
+          "quote": "it's not like they're actually in the vision."
+        }
+      ],
+      "place": "p16",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p10"
+    },
+    {
+      "id": "l26",
+      "type": "observation",
+      "source": {
+        "startUid": "u2275",
+        "endUid": "u2281"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo sees a setting in Sh’shethis’s memory; the others can receive his descriptions, not the vision itself.",
+      "evidence": [
+        {
+          "startUid": "u2275",
+          "endUid": "u2281",
+          "quote": "this dark, misty land"
+        },
+        {
+          "startUid": "u2309",
+          "endUid": "u2312",
+          "quote": "it's not like they're actually in the vision."
+        }
+      ],
+      "place": "p17",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p10"
+    },
+    {
+      "id": "l27",
+      "type": "observation",
+      "source": {
+        "startUid": "u2282",
+        "endUid": "u2291"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo sees a setting in Sh’shethis’s memory; the others can receive his descriptions, not the vision itself.",
+      "evidence": [
+        {
+          "startUid": "u2282",
+          "endUid": "u2291",
+          "quote": "standing on a shard of solid ground floating in the sky."
+        },
+        {
+          "startUid": "u2309",
+          "endUid": "u2312",
+          "quote": "it's not like they're actually in the vision."
+        }
+      ],
+      "place": "p18",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p10"
+    },
+    {
+      "id": "l28",
+      "type": "movement",
+      "source": {
+        "startUid": "u2368",
+        "endUid": "u2374"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "After crafting, the group finds the tunnel connection to earlier corridors, sails downriver out of the cavern, and returns to the airship.",
+      "evidence": [
+        {
+          "startUid": "u2368",
+          "endUid": "u2369",
+          "quote": "This crack actually leads back to those corridors that Wellby was exploring"
+        },
+        {
+          "startUid": "u2371",
+          "endUid": "u2371",
+          "quote": "sailing downriver"
+        },
+        {
+          "startUid": "u2373",
+          "endUid": "u2374",
+          "quote": "Sail downriver. Emerge out from the cavern."
+        },
+        {
+          "startUid": "u2373",
+          "endUid": "u2374",
+          "quote": "return to it on a sunny, chilly morning"
+        }
+      ],
+      "from": "p01",
+      "to": "p19",
+      "completion": "arrived",
+      "mode": "sail",
+      "route": [
+        {
+          "reading": "Find the connection from the storeroom crack to previously explored corridors.",
+          "place": "p08"
+        },
+        {
+          "reading": "Sail downriver and emerge from the cavern.",
+          "place": "p21"
+        }
+      ],
+      "note": "The montage addresses the returning group; it does not establish a new stop at every corridor or time the sailing itself."
+    },
+    {
+      "id": "l29",
+      "type": "movement",
+      "source": {
+        "startUid": "u2376",
+        "endUid": "u2377"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "The reunited group sets off toward Orenlas; the destination arrival belongs to the next session.",
+      "evidence": [
+        {
+          "startUid": "u2376",
+          "endUid": "u2377",
+          "quote": "Set off for the less than a day's journey to Orenlas."
+        },
+        {
+          "startUid": "u2376",
+          "endUid": "u2377",
+          "quote": "that is what we'll do next session"
+        }
+      ],
+      "from": "p19",
+      "to": "p20",
+      "completion": "underway",
+      "vehicle": "p19",
+      "mode": "airship",
+      "note": "Less than a day is a journey forecast, not completed elapsed travel."
+    }
+  ]
+}

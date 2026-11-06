@@ -1,0 +1,435 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-086",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-session.yaml",
+    "sessionYamlSha256": "123f84619dc116cadf26ba5f473ff028cd05a475e1a9112b08b37b95ce335ec5",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-transcript.md",
+    "transcriptSha256": "137dbd02088717b3348d341b3d1b230651072ce33ec6d692c06d664d576de123",
+    "yamlDates": {
+      "start": "1749-01-08",
+      "end": "1749-01-08"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0318",
+        "endUid": "u0324"
+      },
+      "reading": "Seeker completes the ten-minute Clairvoyance casting while the other investigators search the living quarters.",
+      "evidence": [
+        {
+          "startUid": "u0318",
+          "endUid": "u0324",
+          "quote": "the casting time of clairvoyance is like 10 min, right?"
+        },
+        {
+          "startUid": "u0372",
+          "endUid": "u0376",
+          "quote": "as Seeker's spell finishes"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Casting time is stated and the spell explicitly finishes at u0372–u0376."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0356",
+        "endUid": "u0365"
+      },
+      "reading": "Delwath casts Detect Magic during Seeker’s Clairvoyance casting; the ritual is active when he recognizes the magic chest.",
+      "evidence": [
+        {
+          "startUid": "u0356",
+          "endUid": "u0356",
+          "quote": "While Seeker is doing his thing, I'll do detect magic. Do detect magic while he's casting Clairvoyance."
+        },
+        {
+          "startUid": "u0365",
+          "endUid": "u0365",
+          "quote": "It takes me 10 min to cast Detect Magic right?"
+        },
+        {
+          "startUid": "u0410",
+          "endUid": "u0411",
+          "quote": "The stone chest is magical."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Ten-minute casting is stated; subsequent detection establishes completion."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0775",
+        "endUid": "u0780"
+      },
+      "reading": "The group takes a short rest and late lunch in the workshop, starting about 2 p.m.; Faldrak identifies recovered items during the rest.",
+      "evidence": [
+        {
+          "startUid": "u0775",
+          "endUid": "u0780",
+          "quote": "Can we short rest?"
+        },
+        {
+          "startUid": "u0775",
+          "endUid": "u0780",
+          "quote": "Yeah, you can short rest."
+        },
+        {
+          "startUid": "u0812",
+          "endUid": "u0813",
+          "quote": "it's about 2 in the afternoon as you begin this rest."
+        },
+        {
+          "startUid": "u0817",
+          "endUid": "u0819",
+          "quote": "As you finish your meal, Faldrak goes through each one of the items. He's he's been in the short rest. He can identify all 6 of the items, including the brick oven."
+        }
+      ],
+      "time": {
+        "clock": "14:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM explicitly dates the beginning of the rest; no calendar date is spoken."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0892",
+        "endUid": "u0904"
+      },
+      "reading": "The sending stone is shown to the Mirror of the Past, opening a historical view of a woman using it by the cave-entry waterfall.",
+      "evidence": [
+        {
+          "startUid": "u0892",
+          "endUid": "u0893",
+          "quote": "you hold up the the stone into the mirror and you ask for a vision."
+        },
+        {
+          "startUid": "u0899",
+          "endUid": "u0904",
+          "quote": "The mirror goes black, and then the an image appears"
+        },
+        {
+          "startUid": "u0905",
+          "endUid": "u0907",
+          "quote": "She is not the same person that you saw in the image."
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "The current workshop examination of the sending stone; the historical date is unknown."
+        },
+        "precision": "approximate",
+        "basis": "Mirror of the Past framing establishes earlier scenes rather than elapsed adventure time."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0908",
+        "endUid": "u0918"
+      },
+      "reading": "The mirror jumps farther back to the woman’s mission briefing in a tent.",
+      "evidence": [
+        {
+          "startUid": "u0908",
+          "endUid": "u0918",
+          "quote": "And then the image jumps back."
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t04"
+        },
+        "precision": "approximate",
+        "basis": "Explicit backward jump within the mirror vision; no interval is given."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0942",
+        "endUid": "u0946"
+      },
+      "reading": "Returning to the present after the vision, Delwath activates the recovered stone; about a minute passes before Lucius answers.",
+      "evidence": [
+        {
+          "startUid": "u0942",
+          "endUid": "u0943",
+          "quote": "I'll pick it up and say some sort of greeting in Elvish"
+        },
+        {
+          "startUid": "u0944",
+          "endUid": "u0946",
+          "quote": "Nothing happens for about a minute, and then you hear this small voice"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit delay before the reply."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1397",
+        "endUid": "u1397"
+      },
+      "reading": "Three or four minutes have elapsed in the Speak with Dead conversation in the forge room.",
+      "evidence": [
+        {
+          "startUid": "u1397",
+          "endUid": "u1397",
+          "quote": "You've been talking to her for, like you know, 3, 4 min."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby"
+      ],
+      "duration": {
+        "min": 3,
+        "max": 4,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly measures the already-played interrogation."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2053",
+        "endUid": "u2055"
+      },
+      "reading": "After the fighting and calming, another thirty seconds pass while Banishment is sustained, permanently removing both larger elementals.",
+      "evidence": [
+        {
+          "startUid": "u2053",
+          "endUid": "u2055",
+          "quote": "another 30 s passes, the elementals not being native to this plane are permanently banished."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit thirty-second advance after the immediate danger."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2235",
+        "endUid": "u2238"
+      },
+      "reading": "The group watches for the next half hour as the freed elemental sheds its accumulated essences.",
+      "evidence": [
+        {
+          "startUid": "u2235",
+          "endUid": "u2238",
+          "quote": "you all kind of watch over the next half hour"
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit half-hour advance."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2247",
+        "endUid": "u2253"
+      },
+      "reading": "Kenzo receives images from Sh’shethis’s earlier life on the Plane of Air and eventual capture.",
+      "evidence": [
+        {
+          "startUid": "u2244",
+          "endUid": "u2246",
+          "quote": "it's filled with these images that you can't explain."
+        },
+        {
+          "startUid": "u2247",
+          "endUid": "u2253",
+          "quote": "You see a like impossible spiral ladder—staircase of clouds stretching up to infinity"
+        },
+        {
+          "startUid": "u2295",
+          "endUid": "u2296",
+          "quote": "hundreds of years before Drusilia, Drankor took over."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "Sh’shethis’s centuries-long captivity; these are memories, not current travel."
+        },
+        "precision": "approximate",
+        "basis": "The memory account is explicitly placed hundreds of years before Drusilia."
+      },
+      "note": "u2309–u2312 establish that only Kenzo sees the images; he can relay descriptions to the others."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2289",
+        "endUid": "u2291"
+      },
+      "reading": "The memory sequence ends with the binding wish; play resumes Kenzo’s present communion and farewell.",
+      "evidence": [
+        {
+          "startUid": "u2289",
+          "endUid": "u2291",
+          "quote": "and the images end."
+        },
+        {
+          "startUid": "u2299",
+          "endUid": "u2304",
+          "quote": "thank it gratefully for for sharing and wish it—wish it well"
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t09"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2357",
+        "endUid": "u2361"
+      },
+      "reading": "After Sh’shethis departs, Faldrak completes three days of crafting, making his bird fly, modifying Seeker’s glove and making one or two unspecified items.",
+      "evidence": [
+        {
+          "startUid": "u2357",
+          "endUid": "u2361",
+          "quote": "over the next 3 days he makes his magic bird. He tinkers with Seeker's glove, and he does the one to 2 other items that we will retcon in the future."
+        }
+      ],
+      "actors": [
+        "Faldrak"
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated three-day crafting montage; no exact start/end clocks."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2373",
+        "endUid": "u2374"
+      },
+      "reading": "The party returns to its airship on a sunny, chilly morning, about four days after its earlier departure from the ship.",
+      "evidence": [
+        {
+          "startUid": "u2373",
+          "endUid": "u2374",
+          "quote": "just about exactly 4 days after you left your airship, return to it on a sunny, chilly morning"
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "anchor": "The earlier departure from the airship, which precedes this session’s opening.",
+          "offset": {
+            "value": 4,
+            "unit": "day",
+            "precision": "approximate",
+            "basis": "DM dates the reunion relative to that departure, not to the start of this transcript."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Morning is explicitly narrated; the calendar date of the earlier departure is not established here."
+      },
+      "completion": "completed",
+      "note": "The four days measure total absence from the ship, not the downriver return journey or the length of this session alone."
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "No calendar date is spoken. January 8, 1749 comes only from YAML; the stated 14:00 rest, three-day montage and final morning are transcript anchors.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t03",
+      "t12",
+      "t13"
+    ],
+    "explanation": "A completed three-day crafting montage after the opening adventure cannot fit a zero-day YAML span. The final morning is after that montage, but its exact date is not established. The four-day total absence began before the current opening and does not independently fix this session’s start or end. Conditional on the YAML start, the closing morning is several days after January 8; do not manufacture a single corrected end date."
+  }
+}
