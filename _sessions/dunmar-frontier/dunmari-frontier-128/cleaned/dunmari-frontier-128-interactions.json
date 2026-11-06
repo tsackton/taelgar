@@ -1,0 +1,1194 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "7b3b2ff23fb6697a782fdff68972ebba6905713d294e575fc77fda8259200833"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-entity-map.json",
+      "sha256": "9cc8ecd04229cf8a2e23d883c487e474be1130756af7cdecae5fb3377c86f16f"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Brunnar’s account of Dhrukmir",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0011",
+        "endUid": "u0020"
+      },
+      "lines": [
+        "%% u0011:0-90, u0012:0-39, u0013:0-50, u0014:0-51, u0015:0-64 %%",
+        "DM: You learned from talking to Brunnar, the stone giant, that Dhrukmir, Dhrukmir, Skybreaker, king of the Giants in this region, is a Chalyte-obsessed creature who has modified himself and the land around him, powered by the Chalyte he— his ogre servants mine from a giant pit mine beneath the tower.",
+        "",
+        "%% u0016:0-6 %%",
+        "Kenzo: Right.",
+        "",
+        "%% u0017:0-73, u0018:0-51, u0019:0-81 %%",
+        "DM: Now it is said he can grow to be 70 feet tall and destroy people with his club of crystalline Chalyte, and you are gonna go kill him, neutralize him, convince him not to be quite so evil and authoritarian.",
+        "",
+        "%% u0020:0-36 %%",
+        "Delwath: Now I think we're going to kill him.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So.",
+          "Kenzo: And begin.",
+          "DM: On Vindristjarna, as the sun rises after you returned late last night via Teleport, following a long— a medium, enlightening conversation with an ogre who believed that Kenzo was a magic rock and a shorter but more informative conversation with disaffected stone giant.",
+          "DM: You now find yourself preparing on the deck of Vindristjarna, about 30 miles away from the Thundercrown, the Riftstone Gorge and the Hanging Tower, anchored by bridges of lightning to 2 mountains from which the massive, Chalyte-powered death ray vaporizes anybody who comes close.",
+          "Kenzo: Fuck. I forgot about all this shit."
+        ],
+        "after": [
+          "DM: You have arrived here with 2 of the servants of the magistrate: Octavia Antussus, a middle-aged woman in her early fifties. From speaking to her on the journey, you hear she served as a bodyguard and military tutor for the magistrate when he was growing up, and she has come, because should you succeed in somehow dislodging the 70 foot tall giant and his massive death ray, she is prepared to go to the nearby city of Argento, take control of the legions there and march them to claim the Chalyte mine for the magistrate, which is, after all, the reason you're here in the first place.",
+          "DM: You've also traveled with Tristan Brighteyes, a young windcaller who reports to Tiberius, excited about the idea of being part of this mission, and your craziness, ability to tackle things that seem like they would kill ordinary folk. However, you'd like to put it, he is impressed with you.",
+          "DM: But he is here also, because he has spells to magically communicate back with the magistrate, report the events as they happen. And so, as you gather on the deck of Vindristjarna, looking out across the dry, windswept foothills of the Chataan mountains, preparing with Seeker and simulacrum Seeker 3 standing together, ready to teleport, arguing over who is gonna cast Teleport. Seeker, of course, never having failed to teleport anybody anywhere except in the Feywild. But that doesn't count.",
+          "Delwath: Fair enough, we're going to the top of the—to the entrance.",
+          "DM: Plan at the end of last session was to tele—you scryed the entrance to the tower, [garbled], where there were 2 giants, 2 sort of bald-looking giants watching, keeping guard, and a giant pillar of lightning running through the middle of the tower, and then steps down."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Octavia’s role and contingent mission",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "present"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0028"
+      },
+      "lines": [
+        "%% u0021:0-83, u0022:0-39, u0023:0-61, u0024:0-71, u0025:0-70, u0026:0-64, u0027:0-68, u0028:0-125 %%",
+        "DM: You have arrived here with 2 of the servants of the magistrate: Octavia Antussus, a middle-aged woman in her early fifties. From speaking to her on the journey, you hear she served as a bodyguard and military tutor for the magistrate when he was growing up, and she has come, because should you succeed in somehow dislodging the 70 foot tall giant and his massive death ray, she is prepared to go to the nearby city of Argento, take control of the legions there and march them to claim the Chalyte mine for the magistrate, which is, after all, the reason you're here in the first place.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Fuck. I forgot about all this shit.",
+          "DM: You learned from talking to Brunnar, the stone giant, that Dhrukmir, Dhrukmir, Skybreaker, king of the Giants in this region, is a Chalyte-obsessed creature who has modified himself and the land around him, powered by the Chalyte he— his ogre servants mine from a giant pit mine beneath the tower.",
+          "Kenzo: Right.",
+          "DM: Now it is said he can grow to be 70 feet tall and destroy people with his club of crystalline Chalyte, and you are gonna go kill him, neutralize him, convince him not to be quite so evil and authoritarian.",
+          "Delwath: Now I think we're going to kill him."
+        ],
+        "after": [
+          "DM: You've also traveled with Tristan Brighteyes, a young windcaller who reports to Tiberius, excited about the idea of being part of this mission, and your craziness, ability to tackle things that seem like they would kill ordinary folk. However, you'd like to put it, he is impressed with you.",
+          "DM: But he is here also, because he has spells to magically communicate back with the magistrate, report the events as they happen. And so, as you gather on the deck of Vindristjarna, looking out across the dry, windswept foothills of the Chataan mountains, preparing with Seeker and simulacrum Seeker 3 standing together, ready to teleport, arguing over who is gonna cast Teleport. Seeker, of course, never having failed to teleport anybody anywhere except in the Feywild. But that doesn't count.",
+          "Delwath: Fair enough, we're going to the top of the—to the entrance.",
+          "DM: Plan at the end of last session was to tele—you scryed the entrance to the tower, [garbled], where there were 2 giants, 2 sort of bald-looking giants watching, keeping guard, and a giant pillar of lightning running through the middle of the tower, and then steps down.",
+          "DM: So, your plan having scryed that was to teleport there and then figure it out."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Tristan and his reporting role",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "present"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0039"
+      },
+      "lines": [
+        "%% u0029:0-89, u0030:0-62, u0031:0-81, u0032:0-56 %%",
+        "DM: You've also traveled with Tristan Brighteyes, a young windcaller who reports to Tiberius, excited about the idea of being part of this mission, and your craziness, ability to tackle things that seem like they would kill ordinary folk. However, you'd like to put it, he is impressed with you.",
+        "",
+        "%% u0033:0-35, u0034:0-68, u0035:0-97, u0036:0-113, u0037:0-77, u0038:0-48, u0039:0-46 %%",
+        "DM: But he is here also, because he has spells to magically communicate back with the magistrate, report the events as they happen. ((Teleport preparations))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You learned from talking to Brunnar, the stone giant, that Dhrukmir, Dhrukmir, Skybreaker, king of the Giants in this region, is a Chalyte-obsessed creature who has modified himself and the land around him, powered by the Chalyte he— his ogre servants mine from a giant pit mine beneath the tower.",
+          "Kenzo: Right.",
+          "DM: Now it is said he can grow to be 70 feet tall and destroy people with his club of crystalline Chalyte, and you are gonna go kill him, neutralize him, convince him not to be quite so evil and authoritarian.",
+          "Delwath: Now I think we're going to kill him.",
+          "DM: You have arrived here with 2 of the servants of the magistrate: Octavia Antussus, a middle-aged woman in her early fifties. From speaking to her on the journey, you hear she served as a bodyguard and military tutor for the magistrate when he was growing up, and she has come, because should you succeed in somehow dislodging the 70 foot tall giant and his massive death ray, she is prepared to go to the nearby city of Argento, take control of the legions there and march them to claim the Chalyte mine for the magistrate, which is, after all, the reason you're here in the first place."
+        ],
+        "after": [
+          "Delwath: Fair enough, we're going to the top of the—to the entrance.",
+          "DM: Plan at the end of last session was to tele—you scryed the entrance to the tower, [garbled], where there were 2 giants, 2 sort of bald-looking giants watching, keeping guard, and a giant pillar of lightning running through the middle of the tower, and then steps down.",
+          "DM: So, your plan having scryed that was to teleport there and then figure it out.",
+          "Kenzo: Wait. So okay, so there's the tower with lightning death ray thing, and we're gonna destroy that first and then draw the giant out of—where do we ideally want to fight the giant? Hey? Thank you. Not in its underground lair, right? It's gonna get all lair bonuses and shit. You know, we want to, like, draw it out, right?",
+          "Wellby: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "How the death ray is powered",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0074",
+        "endUid": "u0084"
+      },
+      "lines": [
+        "%% u0074:0-53, u0075:0-69 %%",
+        "DM: The giants said, well, you know that it's powered by— It's partly powered by imprisoned giants, and it drains their energy.",
+        "",
+        "%% u0076:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u0077:0-24, u0078:0-31 %%",
+        "DM: The the giant also said. I'm sure you can fit. You know.",
+        "",
+        "%% u0079:0-68 %%",
+        "DM: Anybody with some basic Arcane knowledge can probably figure it out.",
+        "",
+        "%% u0080:0-78, u0081:0-22, u0082:0-138 %%",
+        "((Joke about Seeker disabling the weapon))",
+        "",
+        "%% u0083:0-154 %%",
+        "Wellby: And session notes say, he suggested disabling the tower's energy flow to neutralize its weaponry. So it looks like if there's some way to just unplug it.",
+        "",
+        "%% u0084:0-50 %%",
+        "DM: Could destroy the lightning, the tower might fall.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Told us.",
+          "Wellby: There's going to be like a self—",
+          "Delwath: No.",
+          "Wellby: Switch. Don't use like a lever like only flip in case of emergency.",
+          "Delwath: Didn't the giant tell us something about."
+        ],
+        "after": [
+          "Wellby: Be perfect. It's right over the pit right.",
+          "DM: Not sure how much falling—nobody really cares about things falling at this. Kenzo can just jump out whatever.",
+          "Kenzo: Yeah, yeah, well, we're gonna we're gonna fly and stuff. So that'll be fine. Okay, great. So alright. So I guess we'll kind of figure out how to destroy the death ray. Once we're there.",
+          "Delwath: Yeah.",
+          "Wellby: That's a Seeker problem."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Considering the trapping mirror",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0155",
+        "endUid": "u0167"
+      },
+      "lines": [
+        "%% u0155:0-135 %%",
+        "Kenzo: ((Other proposed tactics)) What if we could, like—oh, what if we could put him in the mirror?",
+        "",
+        "%% u0156:0-22, u0157:0-9, u0158:0-51 %%",
+        "((Brief reactions and a joke))",
+        "",
+        "%% u0159:0-77 %%",
+        "Delwath: It's not really that risky. It's just not that likely he's gonna fail a save.",
+        "",
+        "%% u0160:0-4 %%",
+        "((Brief reactions and a joke))",
+        "",
+        "%% u0161:0-85 %%",
+        "DM: No, but there's no chance he couldn't smash the mirror with, like, one of his pinkies.",
+        "",
+        "%% u0162:0-80, u0163:0-37 %%",
+        "((Brief reactions and a joke))",
+        "",
+        "%% u0164:0-89 %%",
+        "Delwath: You're like, does he even, like—can he even see his reflection? Does it even work on him?",
+        "",
+        "%% u0165:0-23 %%",
+        "((Brief reactions and a joke))",
+        "",
+        "%% u0166:0-93 %%",
+        "DM: Someone have to fly it up right towards his eye, and it would be like a fly. He just swat it.",
+        "",
+        "%% u0167:0-131 %%",
+        "Kenzo: Just thinking about the elaborate trap we could set up. But all right, fine. Let's just punch and stab. Let's go. We punch we stab.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: It just worked for the last 17 levels.",
+          "Delwath: I've seen.",
+          "DM: Might be overthinking this, a Tad.",
+          "Kenzo: All right, all right. Let's just punch and stab it.",
+          "Wellby: Let's rush into danger without a plan, like we do."
+        ],
+        "after": [
+          "DM: Okay, so first question:",
+          "DM: Are you doing anything before? Are you casting any spells, doing any preparation before you attempt to teleport?",
+          "Wellby: Can we get inspiration ahead of time? Or is that something that has to be a reaction in the moment.",
+          "DM: No, it can be passed around. It lasts an hour. Oh, Seeker, Seeker 3 is gonna use up his inspiration first because he can also give it to Seeker. So he's got 5. So he's gonna use 1, 2, 3, 4 of his inspiration.",
+          "Delwath: Also, everybody has heroic inspiration. Don't forget."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The guards’ boss is defeated",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0685",
+        "endUid": "u1376"
+      },
+      "lines": [
+        "%% u0685:0-34 %%",
+        "DM: Yes, the boss, hey, boss, there's.",
+        "",
+        "%% u0686:0-64 %%",
+        "Seeker: Oh, right, but he's not the boss. He's like a he's not that big.",
+        "",
+        "%% u0687:0-18, u0688:0-51, u0689:0-86, u0690:0-42, u0691:0-9 %%",
+        "DM: Looks around, sees the 2 giant guards dead and runs into the lightning and grabs—reaches in and grabs something out of the lightning, some hunk of bubbling, moving lightning, and then he's gonna dash to there.",
+        "",
+        "%% u0692:0-12, u0693:0-42, u0694:0-14, u0695:0-73, u0696:0-37, u0697:0-44, u0698:0-38, u0699:0-44, u0700:0-23, u0701:0-15, u0702:0-28, u0703:0-75, u0704:0-66, u0705:0-5, u0706:0-125, u0707:0-18, u0708:0-40, u0709:0-7, u0710:0-94, u0711:0-51, u0712:0-5, u0713:0-67, u0714:0-23, u0715:0-70, u0716:0-5, u0717:0-6, u0718:0-39, u0719:0-37, u0720:0-30, u0721:0-29, u0722:0-54, u0723:0-5, u0724:0-9, u0725:0-5, u0726:0-49, u0727:0-75, u0728:0-14, u0729:0-5, u0730:0-8, u0731:0-14, u0732:0-34, u0733:0-56, u0734:0-14, u0735:0-24, u0736:0-74, u0737:0-13, u0738:0-5, u0739:0-34, u0740:0-16, u0741:0-14, u0742:0-35, u0743:0-4, u0744:0-22, u0745:0-6, u0746:0-22, u0747:0-2, u0748:0-40, u0749:0-32, u0750:0-70, u0751:0-19, u0752:0-42, u0753:0-12, u0754:0-26, u0755:0-8, u0756:0-43, u0757:0-9, u0758:0-13, u0759:0-3, u0760:0-13, u0761:0-59, u0762:0-5, u0763:0-3, u0764:0-4, u0765:0-14, u0766:0-36, u0767:0-123, u0768:0-12, u0769:0-18, u0770:0-59, u0771:0-53, u0772:0-23, u0773:0-25, u0774:0-45, u0775:0-36, u0776:0-8, u0777:0-104, u0778:0-68, u0779:0-22, u0780:0-18, u0781:0-12, u0782:0-27, u0783:0-19, u0784:0-66, u0785:0-5, u0786:0-29, u0787:0-17, u0788:0-43, u0789:0-65, u0790:0-3, u0791:0-3, u0792:0-37, u0793:0-78, u0794:0-32, u0795:0-28, u0796:0-3, u0797:0-30, u0798:0-41, u0799:0-27, u0800:0-63, u0801:0-26, u0802:0-5, u0803:0-59, u0804:0-100, u0805:0-26, u0806:0-21, u0807:0-21, u0808:0-11, u0809:0-30, u0810:0-61, u0811:0-17, u0812:0-26, u0813:0-45, u0814:0-35, u0815:0-57, u0816:0-48, u0817:0-25, u0818:0-24, u0819:0-5, u0820:0-55, u0821:0-53, u0822:0-38, u0823:0-40, u0824:0-93, u0825:0-26, u0826:0-107, u0827:0-37, u0828:0-83, u0829:0-44, u0830:0-13, u0831:0-65, u0832:0-35, u0833:0-18, u0834:0-61, u0835:0-32, u0836:0-56, u0837:0-28, u0838:0-22, u0839:0-94, u0840:0-6, u0841:0-48, u0842:0-33, u0843:0-61, u0844:0-42, u0845:0-53, u0846:0-114, u0847:0-56, u0848:0-21, u0849:0-93, u0850:0-13, u0851:0-62, u0852:0-16, u0853:0-33, u0854:0-28, u0855:0-128, u0856:0-8, u0857:0-5, u0858:0-8, u0859:0-97, u0860:0-92, u0861:0-13, u0862:0-40, u0863:0-7, u0864:0-24, u0865:0-10, u0866:0-46, u0867:0-12, u0868:0-27, u0869:0-30, u0870:0-54, u0871:0-38, u0872:0-14, u0873:0-4, u0874:0-4, u0875:0-31, u0876:0-17, u0877:0-68, u0878:0-24, u0879:0-34, u0880:0-59, u0881:0-43, u0882:0-31, u0883:0-11, u0884:0-32, u0885:0-62, u0886:0-57, u0887:0-12, u0888:0-55, u0889:0-5, u0890:0-49, u0891:0-25, u0892:0-8, u0893:0-10, u0894:0-9, u0895:0-86, u0896:0-7, u0897:0-11, u0898:0-94, u0899:0-32, u0900:0-11, u0901:0-4, u0902:0-24, u0903:0-5, u0904:0-11, u0905:0-15, u0906:0-13, u0907:0-62, u0908:0-5, u0909:0-19, u0910:0-36, u0911:0-47, u0912:0-29, u0913:0-56, u0914:0-10, u0915:0-24, u0916:0-9, u0917:0-11, u0918:0-52, u0919:0-19, u0920:0-98, u0921:0-103, u0922:0-16, u0923:0-115, u0924:0-16, u0925:0-4, u0926:0-50, u0927:0-10, u0928:0-5, u0929:0-10, u0930:0-37, u0931:0-34, u0932:0-18, u0933:0-5, u0934:0-18, u0935:0-36, u0936:0-53, u0937:0-76, u0938:0-15, u0939:0-5, u0940:0-84, u0941:0-33, u0942:0-14, u0943:0-33, u0944:0-65, u0945:0-53, u0946:0-5, u0947:0-44, u0948:0-5, u0949:0-5, u0950:0-17, u0951:0-33, u0952:0-5, u0953:0-4, u0954:0-53, u0955:0-12, u0956:0-5, u0957:0-71, u0958:0-12, u0959:0-32, u0960:0-45, u0961:0-42, u0962:0-74, u0963:0-50, u0964:0-8, u0965:0-9, u0966:0-51, u0967:0-17, u0968:0-20, u0969:0-33, u0970:0-21, u0971:0-39, u0972:0-21, u0973:0-76, u0974:0-29, u0975:0-55, u0976:0-113, u0977:0-4, u0978:0-16, u0979:0-15, u0980:0-27, u0981:0-81, u0982:0-40, u0983:0-3, u0984:0-36, u0985:0-44, u0986:0-62, u0987:0-68, u0988:0-22, u0989:0-28, u0990:0-38, u0991:0-37, u0992:0-23, u0993:0-57, u0994:0-52, u0995:0-22, u0996:0-25, u0997:0-24, u0998:0-30, u0999:0-114, u1000:0-10, u1001:0-22, u1002:0-18, u1003:0-23, u1004:0-38, u1005:0-52, u1006:0-50, u1007:0-13, u1008:0-144, u1009:0-30, u1010:0-36, u1011:0-22, u1012:0-21, u1013:0-73, u1014:0-47, u1015:0-45, u1016:0-23, u1017:0-96, u1018:0-29, u1019:0-27, u1020:0-32, u1021:0-18, u1022:0-5, u1023:0-13, u1024:0-8, u1025:0-13, u1026:0-11, u1027:0-5, u1028:0-84, u1029:0-33, u1030:0-61, u1031:0-22, u1032:0-4, u1033:0-30, u1034:0-41, u1035:0-86, u1036:0-28, u1037:0-41, u1038:0-5, u1039:0-78, u1040:0-69, u1041:0-3, u1042:0-6, u1043:0-24, u1044:0-54, u1045:0-75, u1046:0-79, u1047:0-45, u1048:0-4, u1049:0-67, u1050:0-76, u1051:0-79, u1052:0-54, u1053:0-42, u1054:0-130, u1055:0-32, u1056:0-17, u1057:0-40, u1058:0-5, u1059:0-26, u1060:0-5, u1061:0-25, u1062:0-28, u1063:0-26, u1064:0-13, u1065:0-27, u1066:0-33, u1067:0-31, u1068:0-58, u1069:0-61, u1070:0-49, u1071:0-68, u1072:0-20, u1073:0-54, u1074:0-13, u1075:0-5, u1076:0-33, u1077:0-39, u1078:0-5, u1079:0-15, u1080:0-15, u1081:0-35, u1082:0-46, u1083:0-5, u1084:0-66, u1085:0-26, u1086:0-10, u1087:0-12, u1088:0-19, u1089:0-18, u1090:0-43, u1091:0-24, u1092:0-34, u1093:0-23, u1094:0-73, u1095:0-32, u1096:0-2, u1097:0-67, u1098:0-25, u1099:0-26, u1100:0-13, u1101:0-59, u1102:0-46, u1103:0-70, u1104:0-16, u1105:0-59, u1106:0-25, u1107:0-26, u1108:0-25, u1109:0-75, u1110:0-90, u1111:0-37, u1112:0-34, u1113:0-41, u1114:0-32, u1115:0-27, u1116:0-66, u1117:0-31, u1118:0-40, u1119:0-24, u1120:0-60, u1121:0-51, u1122:0-55, u1123:0-43, u1124:0-95, u1125:0-83, u1126:0-36, u1127:0-60, u1128:0-22, u1129:0-54, u1130:0-43, u1131:0-20, u1132:0-74, u1133:0-33, u1134:0-26, u1135:0-5, u1136:0-32, u1137:0-5, u1138:0-18, u1139:0-12, u1140:0-12, u1141:0-61, u1142:0-17, u1143:0-2, u1144:0-12, u1145:0-40, u1146:0-30, u1147:0-22, u1148:0-31, u1149:0-18, u1150:0-28, u1151:0-12, u1152:0-88, u1153:0-49, u1154:0-19, u1155:0-27, u1156:0-136, u1157:0-59, u1158:0-103, u1159:0-23, u1160:0-15, u1161:0-19, u1162:0-20, u1163:0-20, u1164:0-8, u1165:0-15, u1166:0-3, u1167:0-4, u1168:0-6, u1169:0-51, u1170:0-5, u1171:0-5, u1172:0-8, u1173:0-7, u1174:0-11, u1175:0-74, u1176:0-11, u1177:0-15, u1178:0-57, u1179:0-4, u1180:0-4, u1181:0-11, u1182:0-46, u1183:0-31, u1184:0-31, u1185:0-18, u1186:0-49, u1187:0-76, u1188:0-24, u1189:0-7, u1190:0-3, u1191:0-27, u1192:0-16, u1193:0-36, u1194:0-50, u1195:0-13, u1196:0-15, u1197:0-27, u1198:0-68, u1199:0-39, u1200:0-42, u1201:0-14, u1202:0-53, u1203:0-8, u1204:0-18, u1205:0-76, u1206:0-57, u1207:0-122, u1208:0-8, u1209:0-68, u1210:0-48, u1211:0-8, u1212:0-46, u1213:0-87, u1214:0-54, u1215:0-47, u1216:0-28, u1217:0-12, u1218:0-38, u1219:0-44, u1220:0-16, u1221:0-47, u1222:0-38, u1223:0-19, u1224:0-25, u1225:0-52, u1226:0-32, u1227:0-62, u1228:0-120, u1229:0-14, u1230:0-23, u1231:0-29, u1232:0-3, u1233:0-31, u1234:0-29, u1235:0-36, u1236:0-18, u1237:0-3, u1238:0-13, u1239:0-14, u1240:0-53, u1241:0-20, u1242:0-39, u1243:0-55, u1244:0-4, u1245:0-40, u1246:0-50, u1247:0-67, u1248:0-29, u1249:0-93, u1250:0-47, u1251:0-68, u1252:0-47, u1253:0-33, u1254:0-58, u1255:0-54, u1256:0-11, u1257:0-37, u1258:0-44, u1259:0-5, u1260:0-11, u1261:0-10, u1262:0-26, u1263:0-30, u1264:0-19, u1265:0-5, u1266:0-23, u1267:0-4, u1268:0-57, u1269:0-15, u1270:0-31, u1271:0-39, u1272:0-33, u1273:0-27, u1274:0-37, u1275:0-100, u1276:0-28, u1277:0-34, u1278:0-89, u1279:0-35, u1280:0-80, u1281:0-8, u1282:0-78, u1283:0-66, u1284:0-10, u1285:0-49, u1286:0-57, u1287:0-83, u1288:0-18, u1289:0-16, u1290:0-58, u1291:0-30, u1292:0-15, u1293:0-57, u1294:0-48, u1295:0-164, u1296:0-18, u1297:0-52, u1298:0-9, u1299:0-11, u1300:0-24, u1301:0-21, u1302:0-15, u1303:0-67, u1304:0-108, u1305:0-16, u1306:0-30, u1307:0-11, u1308:0-34, u1309:0-24, u1310:0-117, u1311:0-20, u1312:0-18, u1313:0-86, u1314:0-57, u1315:0-34, u1316:0-40, u1317:0-26, u1318:0-83, u1319:0-8, u1320:0-114, u1321:0-74, u1322:0-32, u1323:0-90, u1324:0-79, u1325:0-16, u1326:0-5, u1327:0-91, u1328:0-29, u1329:0-94, u1330:0-35, u1331:0-46, u1332:0-47, u1333:0-108, u1334:0-18, u1335:0-4, u1336:0-4, u1337:0-15, u1338:0-10, u1339:0-79, u1340:0-20, u1341:0-5, u1342:0-38, u1343:0-62, u1344:0-13, u1345:0-5, u1346:0-55, u1347:0-12, u1348:0-43, u1349:0-51, u1350:0-76, u1351:0-30, u1352:0-11, u1353:0-61, u1354:0-23, u1355:0-80, u1356:0-36, u1357:0-21, u1358:0-87, u1359:0-87, u1360:0-64, u1361:0-66, u1362:0-33, u1363:0-41, u1364:0-14, u1365:0-14, u1366:0-32, u1367:0-81, u1368:0-4, u1369:0-39, u1370:0-49 %%",
+        "((Intervening combat, rules and tactics))",
+        "",
+        "%% u1371:0-36, u1372:0-95, u1373:0-23, u1374:0-43 %%",
+        "DM: ((Final attack)) staggers, and then it falls down the steps.",
+        "",
+        "%% u1375:0-5 %%",
+        "Seeker: Nice.",
+        "",
+        "%% u1376:0-15 %%",
+        "DM: Ends in a pile.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: It's a bonus action to take your second attack.",
+          "DM: Yeah, so you can't Steady Aim and— you can't Steady Aim and— I just saw that it's not. You don't get 2 actions with the attack action. You have to spend a bonus action.",
+          "Wellby: Got it.",
+          "DM: But that's okay. Oh, you need steady aim to cancel disadvantage. So you get sneak attack. Sure. Running.",
+          "Seeker: This guy."
+        ],
+        "after": [
+          "DM: Would say that the quiet of the after battle descends as you see—look around and see Delwath in a tough spot.",
+          "Seeker: Fully petrified.",
+          "DM: Fully petrified.",
+          "Seeker: But it's not that quiet cause. It's still like, really loud. Right? Yeah.",
+          "DM: From the banging thunder of the lightning column."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Taking the obsidian hawk",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1512",
+        "endUid": "u1527"
+      },
+      "lines": [
+        "%% u1512:0-20 %%",
+        "Kenzo: How big is the hawk?",
+        "",
+        "%% u1513:0-17 %%",
+        "DM: It's like 5 feet.",
+        "",
+        "%% u1514:0-35, u1515:0-16, u1516:0-5 %%",
+        "Kenzo: Should we put in the portable hole?((Banter)) Yeah.",
+        "",
+        "%% u1517:0-20 %%",
+        "DM: Sure if you want to.",
+        "",
+        "%% u1518:0-27, u1519:0-5, u1520:0-97, u1521:0-22 %%",
+        "Kenzo: Why not? Let's take a hawk. ((Room search))",
+        "",
+        "%% u1522:0-5, u1523:0-57, u1524:0-79, u1525:0-2 %%",
+        "((Further room search))",
+        "",
+        "%% u1526:0-52, u1527:0-80 %%",
+        "Kenzo: Except that we just found an obsidian hawk and, like we found a 5 foot tall obsidian hawk, and we're putting it in the portable hole.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Well, while you're investigating Kenzo and and Wellby sneak down the steps. You're being stealthy, but as you get down one level there doesn't seem to be much need to be because, well, first of all, nobody can hear anything over the sound of the thunder. I mean, even Riswynn could be stealthy in these conditions.",
+          "DM: Second of all, there's nobody in the level below. There seems to be some sort of living quarters. There's 2 giant-sized beds, a table. It takes you a while to get down because the steps are the same size as Wellby, so, you know. Well, in order to get down, Wellby's like dropping down off the side. It's about 3 and a half feet down the step, walk 3, 4 feet to the next step, jumps down. Not the easiest to be stealthy. But again, it doesn't really matter because there's nobody here. There's no windows. It's dark here, except for the light of the the blue, purple glow cast by the lightning. There are stairs that go one level down. You could see from the outside that this tower has 3 levels.",
+          "DM: And the entire interior walls of this room down below are etched with runes and—and giant-sized engravings, just like incredibly detailed, all the way around the, like, 40 foot tall walls.",
+          "DM: There's a chair, there's a table with a few chairs. There's a couple— on the table. There's a couple 3 giant fist size pieces of obsidian. That would be, you know. Wellby-ish size, maybe 5 or even bigger than Wellby, like 5, 6 feet across, in various states of being carved into birds. And there's 1 finished obsidian hawk that's been carved, and then there's stairs down and still constantly booming echo of thunder.",
+          "DM: And again this, like incredibly detailed mural on the walls."
+        ],
+        "after": [
+          "Wellby: Awesome. Is there any.",
+          "DM: You make a.",
+          "Wellby: When we look at the mural, is there anything looking at the mural that offers clues to the present situation?",
+          "Kenzo: It was great. Yeah. Is there instructions to kill the giant written in the mural?",
+          "DM: It's all—it's all written in Giant. And there's—but yeah, there's like, what—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The mural’s account of Death Lightning",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1530",
+        "endUid": "u1592"
+      },
+      "lines": [
+        "%% u1530:0-109 %%",
+        "Wellby: When we look at the mural, is there anything looking at the mural that offers clues to the present situation?",
+        "",
+        "%% u1531:0-81 %%",
+        "Kenzo: It was great. Yeah. Is there instructions to kill the giant written in the mural?",
+        "",
+        "%% u1532:0-77 %%",
+        "DM: It's all—it's all written in Giant. And there's—but yeah, there's like, what—",
+        "",
+        "%% u1533:0-24 %%",
+        "Kenzo: Which which we can read.",
+        "",
+        "%% u1534:0-18 %%",
+        "DM: Delwath, can read.",
+        "",
+        "%% u1535:0-8, u1536:0-36 %%",
+        "Wellby: Delwath. Down here and read this giant mural.",
+        "",
+        "%% u1537:0-5 %%",
+        "Delwath: Sure.",
+        "",
+        "%% u1538:0-32 %%",
+        "Wellby: Possibly the Instruction Manual.",
+        "",
+        "%% u1539:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1540:0-15 %%",
+        "Delwath: What's it? Say?",
+        "",
+        "%% u1541:0-21 %%",
+        "DM: So it's a history of.",
+        "",
+        "%% u1542:0-39 %%",
+        "((Video-game joke))",
+        "",
+        "%% u1543:0-49, u1544:0-74, u1545:0-47, u1546:0-66, u1547:0-38, u1548:0-74, u1549:0-51, u1550:0-27 %%",
+        "DM: What seems to be something called the Dauðleiptr, which translates literally from Giant as the Death Lightning. It describes— it's—it's written, it's very, you know, sort of— a hagiography of Dhrukmir and his conquest of the Death lightning. It's—it's written in this sort of very elaborate, flowery, for a giant, kind of, you know. There's all these kinds of— the great Dhrukmir discovered the power of Chalyte, and it shows—it shows them—",
+        "",
+        "%% u1551:0-64 %%",
+        "Delwath: It's talking about the giant, the 70 foot tall guy. That's true.",
+        "",
+        "%% u1552:0-97, u1553:0-9, u1554:0-156, u1555:0-75 %%",
+        "DM: Yeah, yeah, yeah, that's Dhrukmir. The 70 foot tall giant is Dhrukmir, and it shows how they, like, built the— constructed the—the tower. It shows, like, installing, like, this giant Chalyte mirror at the base of the tower and the lightning shooting up from the mirror. It shows runes carved, being etched in the stones in this very complex way.",
+        "",
+        "%% u1556:0-57, u1557:0-122, u1558:0-4, u1559:0-115, u1560:0-72 %%",
+        "DM: And then it shows, like, the laser firing. It shows a giant sort of a stylized giant standing against a wall where the wall is, like, just polished black obsidian stone, but that turns to a a window almost as the giant sort of puts their hand on these etched gold and purple gemstone controls in the wall. It goes. And it's just very, you know. It goes on like this for a while.",
+        "",
+        "%% u1561:0-135 %%",
+        "Delwath: Do these match anything we can, like—gemstone controls on the wall match anything around here? Or is this, like, clearly somewhere else?",
+        "",
+        "%% u1562:0-39 %%",
+        "DM: It's it's probably the next floor down.",
+        "",
+        "%% u1563:0-65, u1564:0-66, u1565:0-18 %%",
+        "((Confirmation of the party’s descent))",
+        "",
+        "%% u1566:0-36, u1567:0-33, u1568:0-77 %%",
+        "DM: Seeker 3 [garbled] pointing at Seeker one. and, like, you know, pointing at things like, oh, yeah, I recognize that rune. Like, hmm.",
+        "",
+        "%% u1569:0-13 %%",
+        "Seeker: Taking notes.",
+        "",
+        "%% u1570:0-46 %%",
+        "DM: I bet we could make something like this right?",
+        "",
+        "%% u1571:0-128 %%",
+        "Kenzo: Vindristjarna definitely needs a death ray, so they should take. They should take some pictures of these instructions, for sure.",
+        "",
+        "%% u1572:0-23 %%",
+        "Seeker: Yeah. It's a good idea.",
+        "",
+        "%% u1573:0-26 %%",
+        "DM: It down. The only problem.",
+        "",
+        "%% u1574:0-52 %%",
+        "Delwath: Is that your magic flying Castle, or whatever? Yeah.",
+        "",
+        "%% u1575:0-49, u1576:0-48 %%",
+        "DM: Yes, the only problem, it—it seems like it needs to be powered by consuming the soul of somebody.",
+        "",
+        "%% u1577:0-18 %%",
+        "Seeker: Bye, bye, Delwath.",
+        "",
+        "%% u1578:0-85 %%",
+        "Wellby: As valuable as this is to know. I think we're even more interested in the off switch.",
+        "",
+        "%% u1579:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u1580:0-22 %%",
+        "Seeker: It sounds like that's.",
+        "",
+        "%% u1581:0-3 %%",
+        "DM: Oh!",
+        "",
+        "%% u1582:0-11 %%",
+        "Seeker: Downstairs.",
+        "",
+        "%% u1583:0-10 %%",
+        "Kenzo: And we're.",
+        "",
+        "%% u1584:0-4 %%",
+        "DM: Wow!",
+        "",
+        "%% u1585:0-11 %%",
+        "Kenzo: The mirror.",
+        "",
+        "%% u1586:0-11 %%",
+        "DM: Let's look!",
+        "",
+        "%% u1587:0-62 %%",
+        "Seeker: I bet the isn't the mirror downstairs, or did I misunderstand.",
+        "",
+        "%% u1588:0-16 %%",
+        "Kenzo: Sounds, strange.",
+        "",
+        "%% u1589:0-33 %%",
+        "DM: No, no! The mirror is downstairs.",
+        "",
+        "%% u1590:0-33 %%",
+        "Seeker: So we should go downstairs. Yeah.",
+        "",
+        "%% u1591:0-55, u1592:0-47 %%",
+        "DM: Seem like destroying the mirror could be one off switch. Seeker 3 is like poking around a little. Maybe.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Keep going down? There's nothing else in the room after a more careful search?",
+          "DM: So",
+          "Kenzo: Except that we just found an obsidian hawk and, like we found a 5 foot tall obsidian hawk, and we're putting it in the portable hole.",
+          "Wellby: Awesome. Is there any.",
+          "DM: You make a."
+        ],
+        "after": [
+          "Delwath: Shouldn't we like? See if there's anything down there before we just run down there?",
+          "Seeker: Well, there probably is something down there.",
+          "Delwath: Is there stairs.",
+          "Seeker: Fight it.",
+          "Kenzo: Wellby. Wellby and Kenzo stealth down. Here we go."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The mirror at the tower’s base",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1616",
+        "endUid": "u1622"
+      },
+      "lines": [
+        "%% u1616:0-40, u1617:0-19, u1618:0-40, u1619:0-167, u1620:0-64, u1621:0-52, u1622:0-36 %%",
+        "DM: So you sneak down the stairs and you see—you can see the—the— the lightning pillar continues down, and it's almost like bubbling up around what looks like some sort of reflective gemstone or mirror set into the floor that serves as a focus of which the lightning is, like, forming, like, this roiling cloud of red and—and purple light, and then reflecting back up in a sort of continual loop, powered in large part by this mirror.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Hmm.",
+          "Kenzo: 27.",
+          "Wellby: 27, hey, 27 bros.",
+          "DM: Well, that's the lowest you could roll, Schwartz, even with disadvantage. But.",
+          "Seeker: Great."
+        ],
+        "after": [
+          "DM: You see, standing against a blank obsidian wall, there's a giant wearing, like, a helm, with Chalyte gemstones mounted into the helm. And there's gold and—and purple runes carved into the floor of this— of this that run from the mirror to this wall and then up the wall. And as he—as the giant, like, places his hand on a rune, you can see that the wall, this black obsidian wall, turns almost like a scrying portal. And now you're looking out into the pit mine down below. It's almost like manipulating his hand somehow, and the image shifts again, and you're looking at the the perimeter of the—of the—of the settlement around the pit mine. It shifts again, and you're looking deep underground at ogres mining Chalyte ore. Just keeps going, keeps moving his hands around and shifting.",
+          "DM: Standing next to him is a slightly smaller, maybe younger giant, who is kind of looking, observing. Looks a little bit like they're not paying much attention and just kind of daydreaming, or something.",
+          "DM: That's on the south—south wall. On the north wall, more silver—sorry, gold runes are etched into the floor that connect to a giant who's clearly imprisoned. His wrists are in 2 manacles that grow of stone into the wall, dotted with purple Chalyte gemstones, and standing next to him again, half merged into the wall, are 2 Chalyte giant statues.",
+          "Kenzo: So many Chalyte giants.",
+          "Delwath: That's all. So, wait, a kid giant, a big giant, 2 statues, and an imprisoned giant. Is that right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The operator, apprentice and captive",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1623",
+        "endUid": "u1643"
+      },
+      "lines": [
+        "%% u1623:0-78, u1624:0-51, u1625:0-67, u1626:0-32, u1627:0-150, u1628:0-86, u1629:0-101, u1630:0-102, u1631:0-45, u1632:0-60 %%",
+        "DM: You see, standing against a blank obsidian wall, there's a giant wearing, like, a helm, with Chalyte gemstones mounted into the helm. And there's gold and—and purple runes carved into the floor of this— of this that run from the mirror to this wall and then up the wall. And as he—as the giant, like, places his hand on a rune, you can see that the wall, this black obsidian wall, turns almost like a scrying portal. And now you're looking out into the pit mine down below. It's almost like manipulating his hand somehow, and the image shifts again, and you're looking at the the perimeter of the—of the—of the settlement around the pit mine. It shifts again, and you're looking deep underground at ogres mining Chalyte ore. Just keeps going, keeps moving his hands around and shifting.",
+        "",
+        "%% u1633:0-64, u1634:0-34, u1635:0-100 %%",
+        "DM: Standing next to him is a slightly smaller, maybe younger giant, who is kind of looking, observing. Looks a little bit like they're not paying much attention and just kind of daydreaming, or something.",
+        "",
+        "%% u1636:0-155, u1637:0-33, u1638:0-66, u1639:0-87 %%",
+        "DM: That's on the south—south wall. On the north wall, more silver—sorry, gold runes are etched into the floor that connect to a giant who's clearly imprisoned. His wrists are in 2 manacles that grow of stone into the wall, dotted with purple Chalyte gemstones, and standing next to him again, half merged into the wall, are 2 Chalyte giant statues.",
+        "",
+        "%% u1640:0-23 %%",
+        "Kenzo: So many Chalyte giants.",
+        "",
+        "%% u1641:0-81, u1642:0-14 %%",
+        "Delwath: That's all. So, wait, a kid giant, a big giant, 2 statues, and an imprisoned giant. Is that right?",
+        "",
+        "%% u1643:0-67 %%",
+        "DM: Yup, I mean, the statues are statues. They're obviously not active.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: 27.",
+          "Wellby: 27, hey, 27 bros.",
+          "DM: Well, that's the lowest you could roll, Schwartz, even with disadvantage. But.",
+          "Seeker: Great.",
+          "DM: So you sneak down the stairs and you see—you can see the—the— the lightning pillar continues down, and it's almost like bubbling up around what looks like some sort of reflective gemstone or mirror set into the floor that serves as a focus of which the lightning is, like, forming, like, this roiling cloud of red and—and purple light, and then reflecting back up in a sort of continual loop, powered in large part by this mirror."
+        ],
+        "after": [
+          "Seeker: But they will be. But, hey, I'll just roll more dispel magics, you know. It'll be fine.",
+          "Wellby: No more wishes, though right.",
+          "Seeker: No, no more wishes. If you get—if you get petrified again, you're petrified literally forever.",
+          "DM: Well until you long rest.",
+          "Kenzo: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Recollecting the ogre and the magic rock",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1848",
+        "endUid": "u1855"
+      },
+      "lines": [
+        "%% u1848:0-4, u1849:0-144, u1850:0-62 %%",
+        "Delwath: Yes. We—we had a we had an ogre, who, we magically convinced, had to spill its all its secrets to a magic rock, and then Kenzo played the magic rock. Yeah, yeah, like, rock is amazing. I will tell you everything.",
+        "",
+        "%% u1851:0-158 %%",
+        "Kenzo: And then we got it to—we got it to find out who the revolutionary giants were that, like, we're trying to overthrow or, like, unhappy with the current, you know—",
+        "",
+        "%% u1852:0-7 %%",
+        "Delwath: Regime.",
+        "",
+        "%% u1853:0-36 %%",
+        "Kenzo: Situation, and then we had that one.",
+        "",
+        "%% u1854:0-33 %%",
+        "Seeker: Got to split, split the factions.",
+        "",
+        "%% u1855:0-36 %%",
+        "Delwath: Absolutely. Yeah, yeah, that's good.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah, yeah, it's perfect timing we're about. There's gonna be 3 battles tonight. Tonight's like a very battle-heavy night.",
+          "Seeker: I'm the guess.",
+          "Kenzo: Yeah, although you missed the last—the last session was great. We, like, convinced a dumb orc to talk to a smart rock. I played a rock, and then we got that, like, giant to, like, talk to, like, another giant. Like, we managed to get through the whole, like, thing without fighting anything, and, like, got all the information and stuff we need just through, like, like trickery. It was great. Yeah.",
+          "Seeker: Awesome.",
+          "Kenzo: It was—yeah, it was, like, it was like the smartest adventure we've ever played. Like, normally we just, like, you know, punch and poke things, and—and this time it was like all that was all we just—we were really clever. It was great."
+        ],
+        "after": [
+          "Kenzo: Schwartz and I were trying to, like, be clever this time to do something so we didn't have to fight the 70 foot tall Chalyte giant, but then it was just like, no, you guys don't—don't, don't prepare anything. Don't try to be smart. You're wasting time. So now we're just, like, you know—",
+          "Delwath: Yeah, yeah. But we haven't gotten to the 70 foot tall Chalyte giant.",
+          "Kenzo: No, no, we haven't even gotten there yet. We're still like fighting a bunch of minions right now. How do you feel?",
+          "Kenzo: We're destroying a death ray. But Seeker took down all of the instructions because we're going to install—we're going to build our own version of the death ray to add it to Vindristjarna. Just so you know.",
+          "Delwath: It's life. Yeah, life ray. It's just—it's powered by what? Like, the souls of innocents at the moment?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "The mural’s soul-consuming implication",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1862",
+        "endUid": "u1868"
+      },
+      "lines": [
+        "%% u1862:0-208 %%",
+        "Kenzo: We're destroying a death ray. But Seeker took down all of the instructions because we're going to install—we're going to build our own version of the death ray to add it to Vindristjarna. Just so you know.",
+        "",
+        "%% u1863:0-26, u1864:0-75 %%",
+        "Delwath: It's life. Yeah, life ray. It's just—it's powered by what? Like, the souls of innocents at the moment?",
+        "",
+        "%% u1865:0-30 %%",
+        "DM: If you, if you understand the.",
+        "",
+        "%% u1866:0-3 %%",
+        "Delwath: So.",
+        "",
+        "%% u1867:0-47, u1868:0-89 %%",
+        "DM: The murals correctly, it seems like it actually turns people—it turns the people who power it into the Chalyte statues slowly over time.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Got to split, split the factions.",
+          "Delwath: Absolutely. Yeah, yeah, that's good.",
+          "Kenzo: Schwartz and I were trying to, like, be clever this time to do something so we didn't have to fight the 70 foot tall Chalyte giant, but then it was just like, no, you guys don't—don't, don't prepare anything. Don't try to be smart. You're wasting time. So now we're just, like, you know—",
+          "Delwath: Yeah, yeah. But we haven't gotten to the 70 foot tall Chalyte giant.",
+          "Kenzo: No, no, we haven't even gotten there yet. We're still like fighting a bunch of minions right now. How do you feel?"
+        ],
+        "after": [
+          "Kenzo: Oh!",
+          "Seeker: Hmm.",
+          "Kenzo: So we just need to create a religion where people want to become Chalyte statues, and then they sacrifice themselves to be a part of our life ray.",
+          "Wellby: Just.",
+          "Delwath: And and you wonder why we didn't want Seeker to have to crack."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Seeker 3 is lost",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2347",
+        "endUid": "u2352"
+      },
+      "lines": [
+        "%% u2347:0-40, u2348:0-27, u2349:0-39, u2350:0-56, u2351:0-36 %%",
+        "DM: Seeker 3 is gone. Seeker 3. 0, the light— Seeker 3 is just just dead. Seeker 3 collapses into a pile of snow, ((Concentration and construct mechanics))",
+        "",
+        "%% u2352:0-26 %%",
+        "Delwath: Oh, Seeker 3, we miss you!",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Do I also have to roll? Are all these guys getting hit.",
+          "DM: Just the—just the ladder and the stone construct. Not the—oh, yeah, no. All—all 3 of them are getting—",
+          "Seeker: Okay, I'll roll a Dex save for all 3 of those guys.",
+          "DM: So that's 35 damage if you fail to save.",
+          "Seeker: Okay, I have no place to track Seeker 3's hit points. So you gotta do that."
+        ],
+        "after": [
+          "Wellby: But Seeker 4.",
+          "Seeker: Wow!",
+          "Wellby: Eager to meet you.",
+          "DM: Seeker 4.",
+          "Seeker: It's okay, at least Seeker 3 used all of their like a good amount of spell slots."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The sorcerer’s dying threat",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2562",
+        "endUid": "u2564"
+      },
+      "lines": [
+        "%% u2562:0-79 %%",
+        "DM: Dead, and as he dies, he slumps down, and he says, Dhrukmir won't let you escape.",
+        "",
+        "%% u2563:0-43 %%",
+        "Seeker: No, we're not going to let Dhrukmir escape.",
+        "",
+        "%% u2564:0-29 %%",
+        "Delwath: You've gotten that backwards.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Don't bother.",
+          "Kenzo: He's almost dead dude.",
+          "Delwath: He's almost dead fine. I won't smite him.",
+          "DM: 18 is enough to kill him.",
+          "Delwath: Yeah, he's dead."
+        ],
+        "after": [
+          "Kenzo: Zing!",
+          "Seeker: I can still cast my most powerful [garbled] spell.",
+          "DM: Animal shapes is a really useful.",
+          "Delwath: It's a really good spell, but so I.",
+          "DM: Primarily, not in combat."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "The mirror shatters and Ladder is lost",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2636",
+        "endUid": "u2693"
+      },
+      "lines": [
+        "%% u2636:0-83, u2637:0-95 %%",
+        "DM: Kenzo brings his staff down on the crack that the ladder opened up and the catapult split. The—the mirror just buckles, and then, as your staff hits it, shards of Chalyte spray up.",
+        "",
+        "%% u2638:0-34, u2639:0-105 %%",
+        "DM: For a moment everything is silent, and then the lightning just [garbled], the thunder stops, and then the lightning, like, bursts out.",
+        "",
+        "%% u2640:0-30, u2641:0-32, u2642:0-23, u2643:0-95, u2644:0-55, u2645:0-39, u2646:0-26, u2647:0-25, u2648:0-23, u2649:0-70, u2650:0-40, u2651:0-18, u2652:0-29, u2653:0-38, u2654:0-41, u2655:0-3, u2656:0-17, u2657:0-31, u2658:0-32, u2659:0-88, u2660:0-42, u2661:0-15, u2662:0-41, u2663:0-33, u2664:0-46, u2665:0-11, u2666:0-36, u2667:0-8, u2668:0-23, u2669:0-17, u2670:0-8, u2671:0-11, u2672:0-26, u2673:0-12, u2674:0-46, u2675:0-45, u2676:0-4, u2677:0-34, u2678:0-45, u2679:0-9, u2680:0-20, u2681:0-32, u2682:0-47, u2683:0-21, u2684:0-36, u2685:0-6, u2686:0-28, u2687:0-15, u2688:0-5 %%",
+        "((Explosion mechanics and discussion of earlier ladders))",
+        "",
+        "%% u2689:0-69 %%",
+        "DM: The ladder burst apart into heroic pieces that drift through the air.",
+        "",
+        "%% u2690:0-17 %%",
+        "Seeker: Bye, bye, ladder.",
+        "",
+        "%% u2691:0-51, u2692:0-64, u2693:0-30 %%",
+        "DM: Way the lightning and the thunder stop, and they're— like the brief Wile E. Coyote moment when you're floating in air, and then you begin to plummet.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: But the ladder gets one attack. Have you considered that?",
+          "Kenzo: Um, 15.",
+          "DM: 15 just hits.",
+          "Kenzo: All right. That does. 18.",
+          "Seeker: Okay. So now you've done more damage than now. You've done twice as much as the ladder."
+        ],
+        "after": [
+          "Seeker: Did the giant have to make a save or.",
+          "DM: No.",
+          "Seeker: I mean.",
+          "DM: Giants are—all the giants are immune to thunder and lightning.",
+          "Delwath: So wait."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Saving the chained giant",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2752",
+        "endUid": "u2835"
+      },
+      "lines": [
+        "%% u2752:0-92, u2753:0-89, u2754:0-15 %%",
+        "Wellby: I'm going to run over to the chained-up guy, use the Chime of Opening to free him, and then say loudly, somebody else take care of making sure he doesn't squish on the way down, and run up [garbled].",
+        "",
+        "%% u2755:0-19, u2756:0-19, u2757:0-15, u2758:0-2, u2759:0-48, u2760:0-68, u2761:0-106, u2762:0-60, u2763:0-38, u2764:0-71, u2765:0-22, u2766:0-6, u2767:0-42, u2768:0-44, u2769:0-65, u2770:0-52, u2771:0-19, u2772:0-28, u2773:0-46, u2774:0-10, u2775:0-40, u2776:0-31, u2777:0-45, u2778:0-5, u2779:0-71, u2780:0-38, u2781:0-67, u2782:0-39, u2783:0-20, u2784:0-9, u2785:0-62, u2786:0-14, u2787:0-46 %%",
+        "((Escape logistics and brief reactions))",
+        "",
+        "%% u2788:0-34, u2789:0-41, u2790:0-99 %%",
+        "Seeker: Get all 4 of us out pretty easily, but we want to take the prisoner with us. ((Escape action economy))",
+        "",
+        "%% u2791:0-34, u2792:0-61, u2793:0-22, u2794:0-64, u2795:0-50, u2796:0-6, u2797:0-6, u2798:0-36, u2799:0-9, u2800:0-50, u2801:0-41, u2802:0-7, u2803:0-8, u2804:0-18, u2805:0-41 %%",
+        "((Escape logistics and brief reactions))",
+        "",
+        "%% u2806:0-27, u2807:0-95, u2808:0-23 %%",
+        "Delwath: ((Escape movement and spell mechanics)) Dimension door out.",
+        "",
+        "%% u2809:0-27 %%",
+        "Seeker: With the with the prisoner.",
+        "",
+        "%% u2810:0-18 %%",
+        "Delwath: With the prisoner.",
+        "",
+        "%% u2811:0-72 %%",
+        "Seeker: And I will ((Movement measurement)) Dimension door out with Wellby.",
+        "",
+        "%% u2812:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u2813:0-5 %%",
+        "Wellby: Cool.",
+        "",
+        "%% u2814:0-42, u2815:0-72, u2816:0-19, u2817:0-27, u2818:0-107, u2819:0-51, u2820:0-16, u2821:0-6, u2822:0-26, u2823:0-65, u2824:0-46, u2825:0-36, u2826:0-7 %%",
+        "((Escape logistics and brief reactions))",
+        "",
+        "%% u2827:0-56, u2828:0-18 %%",
+        "Delwath: ((Rest proposal)) The tower crashes",
+        "",
+        "%% u2829:0-69, u2830:0-30, u2831:0-27, u2832:0-93, u2833:0-63, u2834:0-71, u2835:0-30 %%",
+        "DM: Through Kenzo and then lands, creating this massive field of rubble in the middle of the pit mine. And you begin to hear this— as you find yourselves tossed in various—dimension doored or peacefully and calmly floating— tossed on the rim, sort of on the side of this—of this pit mine, chaos erupts around you as this very deep, low rumbling begins to boom, shake the ground a little bit.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: No, no more thunder!",
+          "Kenzo: I mean.",
+          "DM: The tower is beginning to tip.",
+          "Kenzo: That's fine. That doesn't mind. 27 hits that does 15 damage. Second unarmed strike, 30 hits. That does 6 damage. Last unarmed strike— 22 hits, and that does 11.",
+          "DM: So, as you begin to fall, what's everybody doing?"
+        ],
+        "after": [
+          "Seeker: So is that the guy.",
+          "Delwath: Yes, yeah. I'm going to cast Prayer of Healing.",
+          "Seeker: What does that do?",
+          "Delwath: Gives you a short rest. Like, like, actually just straight up, straight up a rest.",
+          "Seeker: Great does that reset temporary hit points or no."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The rescued giant urges flight",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2892",
+        "endUid": "u2895"
+      },
+      "lines": [
+        "%% u2892:0-45, u2893:0-161, u2894:0-36 %%",
+        "DM: ((Dhrukmir emerging)) There's the giant that you rescued, the prisoner, like, looks at you kind of in shock. Run, run! What are you doing? Fools!",
+        "",
+        "%% u2895:0-37 %%",
+        "Delwath: Our destiny is a different direction.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah.",
+          "Seeker: I don't know.",
+          "Delwath: Do we have time to—do we have a round before he appears?",
+          "DM: You probably have a round.",
+          "Seeker: Why do we think beating up his feet is not going to be effective."
+        ],
+        "after": [
+          "Wellby: Besides, he's not as big as I expected.",
+          "Delwath: Now.",
+          "Kenzo: In Soul Sight.",
+          "DM: I mean, he's—he's 40 feet across, but he's 70 feet tall.",
+          "Delwath: I assume he's larger than huge."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Dhrukmir’s challenge and fall",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2952",
+        "endUid": "u3920"
+      },
+      "lines": [
+        "%% u2952:0-52, u2953:0-51, u2954:0-81, u2955:0-13, u2956:0-38 %%",
+        "DM: Merging with the earth as he emerges from the rubble, his crown of stone and Chalyte merged into his head as he begins to claw his way forward, looking down at you, tiny compared to him. You will pay. Looking around, beginning to step out—",
+        "",
+        "%% u2957:0-17, u2958:0-84, u2959:0-48, u2960:0-28, u2961:0-17, u2962:0-49, u2963:0-152, u2964:0-4, u2965:0-80, u2966:0-6, u2967:0-31, u2968:0-92, u2969:0-5, u2970:0-22, u2971:0-5, u2972:0-27, u2973:0-79, u2974:0-18, u2975:0-94, u2976:0-50, u2977:0-25, u2978:0-29, u2979:0-59, u2980:0-12, u2981:0-21, u2982:0-46, u2983:0-68, u2984:0-5, u2985:0-25, u2986:0-6, u2987:0-32, u2988:0-42, u2989:0-61, u2990:0-60, u2991:0-9, u2992:0-30, u2993:0-28, u2994:0-78, u2995:0-72, u2996:0-24, u2997:0-64, u2998:0-5, u2999:0-10, u3000:0-5, u3001:0-48, u3002:0-5, u3003:0-27, u3004:0-45, u3005:0-50, u3006:0-21, u3007:0-5, u3008:0-78, u3009:0-16, u3010:0-31, u3011:0-29, u3012:0-9, u3013:0-5, u3014:0-13, u3015:0-16, u3016:0-12, u3017:0-3, u3018:0-3, u3019:0-9, u3020:0-2, u3021:0-120, u3022:0-28, u3023:0-36, u3024:0-3, u3025:0-14, u3026:0-3, u3027:0-59, u3028:0-30, u3029:0-5, u3030:0-4, u3031:0-9, u3032:0-53, u3033:0-4, u3034:0-21, u3035:0-87, u3036:0-40, u3037:0-53, u3038:0-18, u3039:0-33, u3040:0-42, u3041:0-103, u3042:0-5, u3043:0-10, u3044:0-37, u3045:0-5, u3046:0-90, u3047:0-102, u3048:0-152, u3049:0-20, u3050:0-36, u3051:0-8, u3052:0-26, u3053:0-80, u3054:0-61, u3055:0-116, u3056:0-39, u3057:0-40, u3058:0-8, u3059:0-16, u3060:0-33, u3061:0-24, u3062:0-38, u3063:0-33, u3064:0-16, u3065:0-27, u3066:0-15, u3067:0-98, u3068:0-56, u3069:0-37, u3070:0-57, u3071:0-52, u3072:0-48, u3073:0-3, u3074:0-10, u3075:0-19, u3076:0-31, u3077:0-25, u3078:0-37, u3079:0-29, u3080:0-168, u3081:0-47, u3082:0-43, u3083:0-71, u3084:0-8, u3085:0-28, u3086:0-8, u3087:0-17, u3088:0-3, u3089:0-45, u3090:0-36, u3091:0-35, u3092:0-7, u3093:0-26, u3094:0-37, u3095:0-8, u3096:0-26, u3097:0-105, u3098:0-67, u3099:0-8, u3100:0-18, u3101:0-13, u3102:0-5, u3103:0-28, u3104:0-32, u3105:0-9, u3106:0-11, u3107:0-30, u3108:0-8, u3109:0-5, u3110:0-3, u3111:0-6, u3112:0-16, u3113:0-90, u3114:0-36, u3115:0-36, u3116:0-22, u3117:0-25, u3118:0-38, u3119:0-3, u3120:0-8, u3121:0-46, u3122:0-32, u3123:0-50, u3124:0-55, u3125:0-10, u3126:0-12, u3127:0-79, u3128:0-20, u3129:0-13, u3130:0-5, u3131:0-40, u3132:0-68, u3133:0-76, u3134:0-10, u3135:0-8, u3136:0-53, u3137:0-23, u3138:0-24, u3139:0-12, u3140:0-7, u3141:0-3, u3142:0-8, u3143:0-21, u3144:0-8, u3145:0-6, u3146:0-12, u3147:0-27, u3148:0-3, u3149:0-19, u3150:0-40, u3151:0-16, u3152:0-10, u3153:0-53, u3154:0-24, u3155:0-6, u3156:0-38, u3157:0-24, u3158:0-14, u3159:0-45, u3160:0-16, u3161:0-22, u3162:0-22, u3163:0-23, u3164:0-3, u3165:0-9, u3166:0-4, u3167:0-73, u3168:0-28, u3169:0-6, u3170:0-59, u3171:0-9, u3172:0-40, u3173:0-12, u3174:0-17, u3175:0-89, u3176:0-100, u3177:0-22, u3178:0-130, u3179:0-9, u3180:0-17, u3181:0-115, u3182:0-24, u3183:0-5, u3184:0-9, u3185:0-14, u3186:0-11, u3187:0-18, u3188:0-44, u3189:0-39, u3190:0-59, u3191:0-39, u3192:0-20, u3193:0-125, u3194:0-95, u3195:0-52, u3196:0-40, u3197:0-41, u3198:0-5, u3199:0-52, u3200:0-47, u3201:0-15, u3202:0-94, u3203:0-36, u3204:0-64, u3205:0-54, u3206:0-51, u3207:0-75, u3208:0-60, u3209:0-68, u3210:0-35, u3211:0-49, u3212:0-37, u3213:0-123, u3214:0-8, u3215:0-32, u3216:0-16, u3217:0-3, u3218:0-5, u3219:0-30, u3220:0-29, u3221:0-49, u3222:0-10, u3223:0-5, u3224:0-79, u3225:0-40, u3226:0-55, u3227:0-38, u3228:0-3, u3229:0-35, u3230:0-58, u3231:0-5, u3232:0-14, u3233:0-20, u3234:0-47, u3235:0-76, u3236:0-15, u3237:0-127, u3238:0-24, u3239:0-28, u3240:0-74, u3241:0-108, u3242:0-70, u3243:0-33, u3244:0-16, u3245:0-47, u3246:0-5, u3247:0-43, u3248:0-5, u3249:0-23, u3250:0-142, u3251:0-4, u3252:0-4, u3253:0-67, u3254:0-23, u3255:0-33, u3256:0-18, u3257:0-9, u3258:0-14, u3259:0-23, u3260:0-101, u3261:0-57, u3262:0-8, u3263:0-20, u3264:0-10, u3265:0-11, u3266:0-35, u3267:0-29, u3268:0-42, u3269:0-30, u3270:0-44, u3271:0-27, u3272:0-16, u3273:0-13, u3274:0-18, u3275:0-109, u3276:0-5, u3277:0-77, u3278:0-27, u3279:0-104, u3280:0-32, u3281:0-58, u3282:0-49, u3283:0-39, u3284:0-28, u3285:0-5, u3286:0-18, u3287:0-31, u3288:0-23, u3289:0-24, u3290:0-3, u3291:0-47, u3292:0-45, u3293:0-11, u3294:0-92, u3295:0-46, u3296:0-21, u3297:0-26, u3298:0-36, u3299:0-41, u3300:0-22, u3301:0-18, u3302:0-10, u3303:0-4, u3304:0-51, u3305:0-10, u3306:0-5, u3307:0-22, u3308:0-19, u3309:0-10, u3310:0-89, u3311:0-3, u3312:0-60, u3313:0-46, u3314:0-20, u3315:0-5, u3316:0-59, u3317:0-140, u3318:0-18, u3319:0-5, u3320:0-30, u3321:0-21, u3322:0-20, u3323:0-6, u3324:0-16, u3325:0-45, u3326:0-30, u3327:0-4, u3328:0-3, u3329:0-43, u3330:0-27, u3331:0-81, u3332:0-4, u3333:0-14, u3334:0-28, u3335:0-40, u3336:0-18, u3337:0-38, u3338:0-29, u3339:0-20, u3340:0-39, u3341:0-6, u3342:0-60, u3343:0-28, u3344:0-12, u3345:0-100, u3346:0-21, u3347:0-7, u3348:0-5, u3349:0-48, u3350:0-18, u3351:0-4, u3352:0-5, u3353:0-35, u3354:0-20, u3355:0-67, u3356:0-10, u3357:0-60, u3358:0-38, u3359:0-16, u3360:0-18, u3361:0-26, u3362:0-24, u3363:0-28, u3364:0-47, u3365:0-16, u3366:0-15, u3367:0-21, u3368:0-32, u3369:0-32, u3370:0-5, u3371:0-42, u3372:0-14, u3373:0-21, u3374:0-21, u3375:0-40, u3376:0-22, u3377:0-10, u3378:0-29, u3379:0-48, u3380:0-6, u3381:0-14, u3382:0-9, u3383:0-37, u3384:0-17, u3385:0-43, u3386:0-5, u3387:0-7, u3388:0-12, u3389:0-55, u3390:0-24, u3391:0-88, u3392:0-12, u3393:0-8, u3394:0-16, u3395:0-40, u3396:0-19, u3397:0-3, u3398:0-13, u3399:0-21, u3400:0-39, u3401:0-11, u3402:0-26, u3403:0-31, u3404:0-27, u3405:0-26, u3406:0-42, u3407:0-5, u3408:0-26, u3409:0-17, u3410:0-8, u3411:0-15, u3412:0-11, u3413:0-6, u3414:0-70, u3415:0-8, u3416:0-18, u3417:0-24, u3418:0-38, u3419:0-5, u3420:0-46, u3421:0-37, u3422:0-12, u3423:0-22, u3424:0-8, u3425:0-5, u3426:0-62, u3427:0-32, u3428:0-8, u3429:0-4, u3430:0-18, u3431:0-84, u3432:0-53, u3433:0-48, u3434:0-85, u3435:0-95, u3436:0-21, u3437:0-20, u3438:0-20, u3439:0-6, u3440:0-5, u3441:0-14, u3442:0-44, u3443:0-36, u3444:0-25, u3445:0-47, u3446:0-10, u3447:0-41, u3448:0-5, u3449:0-23, u3450:0-13, u3451:0-50, u3452:0-4, u3453:0-41, u3454:0-10, u3455:0-29, u3456:0-77, u3457:0-24, u3458:0-10, u3459:0-35, u3460:0-12, u3461:0-16, u3462:0-38, u3463:0-68, u3464:0-4, u3465:0-32, u3466:0-29, u3467:0-47, u3468:0-23, u3469:0-22, u3470:0-55, u3471:0-30, u3472:0-16, u3473:0-179, u3474:0-18, u3475:0-28, u3476:0-13, u3477:0-19, u3478:0-65, u3479:0-48, u3480:0-26, u3481:0-23, u3482:0-117, u3483:0-91, u3484:0-40, u3485:0-16, u3486:0-60, u3487:0-25, u3488:0-4, u3489:0-33, u3490:0-8, u3491:0-63, u3492:0-34, u3493:0-39, u3494:0-77, u3495:0-36, u3496:0-41, u3497:0-43, u3498:0-29, u3499:0-17, u3500:0-4, u3501:0-49, u3502:0-10, u3503:0-14, u3504:0-75, u3505:0-35, u3506:0-41, u3507:0-84, u3508:0-57, u3509:0-26, u3510:0-44, u3511:0-126, u3512:0-81, u3513:0-28, u3514:0-28, u3515:0-56, u3516:0-72, u3517:0-10, u3518:0-16, u3519:0-12, u3520:0-38, u3521:0-15, u3522:0-79, u3523:0-66, u3524:0-71, u3525:0-16, u3526:0-9, u3527:0-48, u3528:0-105, u3529:0-12, u3530:0-70, u3531:0-37, u3532:0-34, u3533:0-21, u3534:0-35, u3535:0-38, u3536:0-2, u3537:0-14, u3538:0-17, u3539:0-42, u3540:0-4, u3541:0-31, u3542:0-7, u3543:0-84, u3544:0-133, u3545:0-31, u3546:0-12, u3547:0-26, u3548:0-31, u3549:0-48, u3550:0-38, u3551:0-12, u3552:0-8, u3553:0-5, u3554:0-33, u3555:0-16, u3556:0-20, u3557:0-19, u3558:0-54, u3559:0-24, u3560:0-12, u3561:0-36, u3562:0-16, u3563:0-31, u3564:0-14, u3565:0-26, u3566:0-27, u3567:0-9, u3568:0-98, u3569:0-19, u3570:0-9, u3571:0-12, u3572:0-5, u3573:0-12, u3574:0-40, u3575:0-38, u3576:0-5, u3577:0-30, u3578:0-20, u3579:0-13, u3580:0-34, u3581:0-35, u3582:0-85, u3583:0-8, u3584:0-26, u3585:0-30, u3586:0-99, u3587:0-29, u3588:0-30, u3589:0-76, u3590:0-25, u3591:0-57, u3592:0-4, u3593:0-8, u3594:0-4, u3595:0-43, u3596:0-10, u3597:0-56, u3598:0-22, u3599:0-5, u3600:0-33, u3601:0-45, u3602:0-12, u3603:0-46, u3604:0-5, u3605:0-18, u3606:0-10, u3607:0-11, u3608:0-38, u3609:0-4, u3610:0-28, u3611:0-10, u3612:0-34, u3613:0-49, u3614:0-5, u3615:0-31, u3616:0-40, u3617:0-34, u3618:0-38, u3619:0-41, u3620:0-16, u3621:0-63, u3622:0-12, u3623:0-85, u3624:0-21, u3625:0-3, u3626:0-29, u3627:0-62, u3628:0-77, u3629:0-110, u3630:0-104, u3631:0-18, u3632:0-87, u3633:0-28, u3634:0-93, u3635:0-24, u3636:0-39, u3637:0-30, u3638:0-55, u3639:0-57, u3640:0-36, u3641:0-5, u3642:0-25, u3643:0-79, u3644:0-51, u3645:0-60, u3646:0-14, u3647:0-21, u3648:0-89, u3649:0-5, u3650:0-28, u3651:0-15, u3652:0-4, u3653:0-17, u3654:0-4, u3655:0-6, u3656:0-29, u3657:0-14, u3658:0-56, u3659:0-26, u3660:0-21, u3661:0-81, u3662:0-5, u3663:0-26, u3664:0-170, u3665:0-25, u3666:0-125, u3667:0-101, u3668:0-51, u3669:0-74, u3670:0-30, u3671:0-59, u3672:0-19, u3673:0-8, u3674:0-4, u3675:0-8, u3676:0-45, u3677:0-7, u3678:0-41, u3679:0-37, u3680:0-134, u3681:0-41, u3682:0-30, u3683:0-19, u3684:0-66, u3685:0-53, u3686:0-64, u3687:0-54, u3688:0-16, u3689:0-14, u3690:0-8, u3691:0-53, u3692:0-35, u3693:0-13, u3694:0-22, u3695:0-5, u3696:0-33, u3697:0-49, u3698:0-44, u3699:0-14, u3700:0-11, u3701:0-28, u3702:0-19, u3703:0-42, u3704:0-23, u3705:0-30, u3706:0-12, u3707:0-4, u3708:0-10, u3709:0-30, u3710:0-33, u3711:0-52, u3712:0-54, u3713:0-66, u3714:0-22, u3715:0-25, u3716:0-8, u3717:0-8, u3718:0-36, u3719:0-53, u3720:0-39, u3721:0-16, u3722:0-26, u3723:0-20, u3724:0-19, u3725:0-23, u3726:0-67, u3727:0-32, u3728:0-55, u3729:0-45, u3730:0-33, u3731:0-27, u3732:0-143, u3733:0-9, u3734:0-28, u3735:0-5, u3736:0-50, u3737:0-4, u3738:0-56, u3739:0-15, u3740:0-20, u3741:0-26, u3742:0-30, u3743:0-3, u3744:0-75, u3745:0-82, u3746:0-80, u3747:0-12, u3748:0-54, u3749:0-98, u3750:0-10, u3751:0-84, u3752:0-11, u3753:0-14, u3754:0-7, u3755:0-27, u3756:0-71, u3757:0-8, u3758:0-5, u3759:0-65, u3760:0-14, u3761:0-48, u3762:0-10, u3763:0-5, u3764:0-9, u3765:0-33, u3766:0-6, u3767:0-6, u3768:0-33, u3769:0-24, u3770:0-8, u3771:0-36, u3772:0-4, u3773:0-18, u3774:0-120, u3775:0-30, u3776:0-95, u3777:0-13, u3778:0-14, u3779:0-78, u3780:0-5, u3781:0-22, u3782:0-5, u3783:0-24, u3784:0-4, u3785:0-9, u3786:0-20, u3787:0-13, u3788:0-20, u3789:0-74, u3790:0-247, u3791:0-83, u3792:0-43, u3793:0-88, u3794:0-5, u3795:0-29, u3796:0-17, u3797:0-30, u3798:0-17, u3799:0-12, u3800:0-41, u3801:0-55, u3802:0-4, u3803:0-20, u3804:0-5, u3805:0-16, u3806:0-5, u3807:0-21, u3808:0-24, u3809:0-39, u3810:0-22, u3811:0-98, u3812:0-98, u3813:0-3, u3814:0-92, u3815:0-8, u3816:0-28, u3817:0-47, u3818:0-18, u3819:0-20, u3820:0-51, u3821:0-59, u3822:0-71, u3823:0-7, u3824:0-33, u3825:0-18, u3826:0-69, u3827:0-5, u3828:0-50, u3829:0-14, u3830:0-14, u3831:0-88, u3832:0-55, u3833:0-132, u3834:0-30, u3835:0-18, u3836:0-15, u3837:0-83, u3838:0-38, u3839:0-97, u3840:0-5, u3841:0-13, u3842:0-15, u3843:0-57, u3844:0-73, u3845:0-107, u3846:0-29, u3847:0-18, u3848:0-51, u3849:0-33, u3850:0-11, u3851:0-86, u3852:0-30, u3853:0-5, u3854:0-14, u3855:0-83, u3856:0-76, u3857:0-4, u3858:0-14, u3859:0-38, u3860:0-23, u3861:0-8, u3862:0-25, u3863:0-9, u3864:0-58, u3865:0-22, u3866:0-5, u3867:0-16, u3868:0-21, u3869:0-120, u3870:0-61, u3871:0-28, u3872:0-21, u3873:0-41, u3874:0-12, u3875:0-19, u3876:0-45, u3877:0-14, u3878:0-25, u3879:0-17, u3880:0-5, u3881:0-39, u3882:0-23, u3883:0-24 %%",
+        "((Combat attacks, abilities, saves, damage, tactics and healing mechanics))",
+        "",
+        "%% u3884:0-21, u3885:0-39, u3886:0-68 %%",
+        "DM: He begins to crumble. Giant Chalyte rocks begin to fall down. ((Collapse saving throws))",
+        "",
+        "%% u3887:0-4, u3888:0-25, u3889:0-36, u3890:0-66, u3891:0-4, u3892:0-22, u3893:0-16, u3894:0-36, u3895:0-3, u3896:0-66, u3897:0-49, u3898:0-5, u3899:0-97, u3900:0-3 %%",
+        "((Combat attacks, abilities, saves, damage, tactics and healing mechanics))",
+        "",
+        "%% u3901:0-11, u3902:0-47 %%",
+        "Delwath: He's dying. He's dead. ((Healing from the kill))",
+        "",
+        "%% u3903:0-58, u3904:0-76 %%",
+        "DM: ((Terrain and turn mechanics)) Kenzo is half buried in rubble, no longer astral.",
+        "",
+        "%% u3905:0-17, u3906:0-11, u3907:0-25, u3908:0-17, u3909:0-18, u3910:0-77, u3911:0-14, u3912:0-5, u3913:0-73, u3914:0-4, u3915:0-114, u3916:0-8, u3917:0-29 %%",
+        "((Combat attacks, abilities, saves, damage, tactics and healing mechanics))",
+        "",
+        "%% u3918:0-44, u3919:0-44 %%",
+        "DM: So as Kenzo—Kenzo's eyes blink open, you see just this massive pile of rubble around you.",
+        "",
+        "%% u3920:0-92 %%",
+        "Kenzo: From the collapsed giant, I astral plane, an astral being, and get myself out of the rubble.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: With your level 9 invocation, you constantly have advantage on everything.",
+          "Delwath: Oh, yeah, look at that.",
+          "Seeker: That's Sorin Markov.",
+          "DM: Oh! Oh!",
+          "Seeker: You could have target opponents life total—"
+        ],
+        "after": [
+          "DM: Yeah. Well, Delwath struggles. It's going to take you quite a lot of time to find your little Triceratops statue somewhere at the bottom of this pile of rubble.",
+          "Wellby: Yeah, looking for things.",
+          "DM: Yes, as with the—",
+          "Kenzo: Yeah.",
+          "DM: With the statue collapsed—I mean, with the—the tower collapsed, this massive giant turned into rubble, everything! There's just finally actual silence."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "The figurine buried in the rubble",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3921",
+        "endUid": "u3924"
+      },
+      "lines": [
+        "%% u3921:0-5, u3922:0-47, u3923:0-106 %%",
+        "DM: Yeah. Well, Delwath struggles. It's going to take you quite a lot of time to find your little Triceratops statue somewhere at the bottom of this pile of rubble.",
+        "",
+        "%% u3924:0-25 %%",
+        "Wellby: Yeah, looking for things.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I'll cast 5th level Healing Word. No, I'll cast first level Healing Word. I've— so that's some of them. I mean, it's—it's enough hit points that you're not not unconscious necessarily, all that.",
+          "Delwath: But yes.",
+          "Seeker: Oh, Max rolls! 13! Holy, crazy.",
+          "DM: So as Kenzo—Kenzo's eyes blink open, you see just this massive pile of rubble around you.",
+          "Kenzo: From the collapsed giant, I astral plane, an astral being, and get myself out of the rubble."
+        ],
+        "after": [
+          "DM: Yes, as with the—",
+          "Kenzo: Yeah.",
+          "DM: With the statue collapsed—I mean, with the—the tower collapsed, this massive giant turned into rubble, everything! There's just finally actual silence.",
+          "DM: As you look around, still, you know, not past 9 in the morning: a few giants standing around, stunned, ogres trapped, the ramp destroyed, as Brunnar promised, hundreds, dozens, hundreds of ogres milling around in the pit mines, looking terrified and confused, calm comes to the mountains, and you look across at each other. Take a breath.",
+          "DM: And that is where we'll end. We'll pick up with the aftermath next time."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-128",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-session.yaml",
+    "sessionYamlSha256": "7d510df6aa8d718b3a1fa98758f51ba1a2146bab90871854a821d54d3680f7c9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-transcript.md",
+    "transcriptSha256": "7b3b2ff23fb6697a782fdff68972ebba6905713d294e575fc77fda8259200833",
+    "yamlDates": {
+      "start": "1749-07-04",
+      "end": "1749-07-05"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0005"
+      },
+      "reading": "Play opens at sunrise aboard Vindristjarna, after a return late the preceding night.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0005",
+          "quote": "On Vindristjarna, as the sun rises after you returned late last night via Teleport, following a long— a medium, enlightening conversation with an ogre who believed that Kenzo was a magic rock and a shorter but more informative conversation with disaffected stone giant."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunrise",
+        "precision": "approximate",
+        "basis": "DM explicitly opens on the rising sun; no civil date is spoken."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1660",
+        "endUid": "u1665"
+      },
+      "reading": "Delwath takes one minute to regain spell slots before the control-room assault.",
+      "evidence": [
+        {
+          "startUid": "u1660",
+          "endUid": "u1660",
+          "quote": "But the reason I don't want you to just attack right away is I would like to take a few moments to get some spell slots back."
+        },
+        {
+          "startUid": "u1665",
+          "endUid": "u1665",
+          "quote": "Not long, not a proper long rest. 1—1 min."
+        },
+        {
+          "startUid": "u1679",
+          "endUid": "u1683",
+          "quote": "15 d. 6 is a lot of damage. I guess it's not that much damage at this level. Okay, it's like a little bit of damage. Alright! So it sounds like we're done with regaining some spell slots. And then we're going.\n\nDelwath: Yeah."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "One minute requested, accepted, then confirmed complete."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u2823",
+        "endUid": "u2828"
+      },
+      "reading": "After escaping the tower, the party completes the ten-minute Prayer of Healing and receives short-rest benefits before Dhrukmir emerges.",
+      "evidence": [
+        {
+          "startUid": "u0065",
+          "endUid": "u0065",
+          "quote": "Delwath will cast Prayer of Healing to give us a short rest in 10 min, so we can get all of our stuff back on short rest."
+        },
+        {
+          "startUid": "u2823",
+          "endUid": "u2828",
+          "quote": "Think we have a little bit of time before this guy appears, right?\n\nDM: You think you have a little bit of time? Yeah.\n\nSeeker: Like an hour of time, theoretically.\n\nWellby: 10 min.\n\nDelwath: Don't need an hour. Prayer of Healing. Yeah. Short rest. The tower crashes"
+        },
+        {
+          "startUid": "u2837",
+          "endUid": "u2839",
+          "quote": "Yes, yeah. I'm going to cast Prayer of Healing.\n\nSeeker: What does that do?\n\nDelwath: Gives you a short rest. Like, like, actually just straight up, straight up a rest."
+        },
+        {
+          "startUid": "u2845",
+          "endUid": "u2848",
+          "quote": "And I will also use my last spell slot to get back all my sorcery points for the second time today, and then short rest. I have back all my things. I can't really heal you, Kenzo, except you get 2d8 from the Prayer of Healing."
+        },
+        {
+          "startUid": "u2871",
+          "endUid": "u2871",
+          "quote": "Yay back to back. Some hit points."
+        },
+        {
+          "startUid": "u2989",
+          "endUid": "u2998",
+          "quote": "After the prayer of healing you re-upped Bardic to everybody.\n\nSeeker: But it's a bonus action, right? So like we didn't have time. No great.\n\nDM: You can, you can give out one. When were you giving it out?\n\nSeeker: Well, I had 3. We could have given up before the Prayer of Healing, I guess, I—\n\nDM: Give out. You can give out 3 before the prayer of healing and one after. Okay, not for everybody.\n\nSeeker: Yeah, everybody is bardically inspired, and I still have 4 left.\n\nDM: Yeah."
+        },
+        {
+          "startUid": "u3294",
+          "endUid": "u3298",
+          "quote": "Have Heroic Inspiration because of the fake short rest. There's no reason you can't give out my ability on Prayer of Healing, right? It's a—\n\nDM: Let's say short rest.\n\nDelwath: Yeah. It says, short rest.\n\nDM: Yeah, then you can all have regular—"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "The DM specifies Prayer of Healing grants a short rest in ten minutes (u0065); the later cast and restored resources establish completion. No extra one-hour rest is added."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u3930",
+        "endUid": "u3935"
+      },
+      "reading": "After Dhrukmir’s defeat and Kenzo’s recovery, it is still no later than about nine in the morning.",
+      "evidence": [
+        {
+          "startUid": "u3930",
+          "endUid": "u3935",
+          "quote": "As you look around, still, you know, not past 9 in the morning: a few giants standing around, stunned, ogres trapped, the ramp destroyed, as Brunnar promised, hundreds, dozens, hundreds of ogres milling around in the pit mines, looking terrified and confused, calm comes to the mountains, and you look across at each other. Take a breath."
+        }
+      ],
+      "note": "The clock is an upper bound; the source does not establish an exact finishing time.",
+      "timeRange": {
+        "start": null,
+        "end": {
+          "clock": "09:00",
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM says the final scene is “not past 9 in the morning”; this is an upper bound."
+        }
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No civil date is spoken. YAML supplies July 4–5, 1749; the source opens at sunrise after a prior-night return and ends before about 09:00 in that same morning.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04"
+    ],
+    "explanation": "The current played action covers one morning with a one-minute recovery and a roughly ten-minute spell rest. The preceding night is opening recollection, not played downtime or an independently established overnight interval. The YAML may include that earlier context, so its extra boundary is unverified coverage rather than a demonstrated contradiction."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01"
+      ],
+      "reading": "The source begins at sunrise but recalls the return late last night; it does not play out the prior evening.",
+      "alternatives": [
+        {
+          "reading": "Treat the start as the played sunrise; the entire assault remains within one morning."
+        },
+        {
+          "reading": "YAML may include the recapped previous evening; the transcript does not establish its elapsed overnight interval."
+        }
+      ]
+    }
+  ]
+}

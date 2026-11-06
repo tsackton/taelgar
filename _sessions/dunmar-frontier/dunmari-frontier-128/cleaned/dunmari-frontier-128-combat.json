@@ -1,0 +1,1321 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-128",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-session.yaml",
+    "sessionYamlSha256": "7d510df6aa8d718b3a1fa98758f51ba1a2146bab90871854a821d54d3680f7c9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-transcript.md",
+    "transcriptSha256": "7b3b2ff23fb6697a782fdff68972ebba6905713d294e575fc77fda8259200833",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-segments.json",
+      "sha256": "5f3a5cb614a726f8dd12f8839619079c427bfd4e599187233d00731edc191fa3",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s005",
+      "encounter": "Hanging Tower upper-floor guards and their boss",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Rushes the northern guard. With disadvantage, one staff attack misses and one hits for 17; two Flurry blows hit for 12 each and one misses. Disrupting Strike defeats its DC 18 Charisma save (17): no opportunity attacks and −1d4 to attacks until Kenzo’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0396",
+                  "endUid": "u0445"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts 4th-level Rune of Psychic Disruption (Psychic Lance) on the northern guard. Its Intelligence 18 fails DC 19; psychic damage is garbled, and it is incapacitated until Seeker’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0448",
+                  "endUid": "u0464"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 3",
+              "kind": "turn",
+              "summary": "Moves, then casts 3rd-level Catapult on the northern guard for 19 bludgeoning damage. The DM initially treats incapacitation as an automatic Dexterity-save failure, then corrects that rule without reversing the damage.",
+              "evidence": [
+                {
+                  "startUid": "u0465",
+                  "endUid": "u0475"
+                },
+                {
+                  "startUid": "u0511",
+                  "endUid": "u0512"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Approaches to 20 feet and fires Eldritch Blast with disadvantage: three hits for about 16 force damage. Declines a second, quickened casting.",
+              "evidence": [
+                {
+                  "startUid": "u0476",
+                  "endUid": "u0506"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Steady Aims at the southern guard for 11 damage without Sneak Attack; shoots the northern guard with disadvantage for 9, again without Sneak Attack. Grants allies advantage against the southern guard until his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0513",
+                  "endUid": "u0561"
+                }
+              ]
+            },
+            {
+              "actor": "Southern guard",
+              "kind": "turn",
+              "summary": "Moves toward the stairs, shouts for its boss, then dashes toward its ally.",
+              "evidence": [
+                {
+                  "startUid": "u0562",
+                  "endUid": "u0568"
+                }
+              ]
+            },
+            {
+              "actor": "Northern guard",
+              "kind": "turn",
+              "summary": "Loses its turn to incapacitation, confirmed when the table checks the effect’s expiration.",
+              "evidence": [
+                {
+                  "startUid": "u0582",
+                  "endUid": "u0590"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs to the southern guard; advantage cancels thunder disadvantage. Staff blows deal 7 and 17; one unarmed strike misses and two hit for 8 and 17. Its Charisma save of 2 fails Disrupting Strike.",
+              "evidence": [
+                {
+                  "startUid": "u0591",
+                  "endUid": "u0615"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves for a clear line and casts 3rd-level Catapult at the southern guard. Dexterity 12 fails, taking 12 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u0616",
+                  "endUid": "u0628"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 3",
+              "kind": "turn",
+              "summary": "Casts 4th-level Psychic Lance on the northern guard. Intelligence 1 fails; it takes 29 psychic damage and is incapacitated.",
+              "evidence": [
+                {
+                  "startUid": "u0625",
+                  "endUid": "u0636"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Quickens Font of Moonlight, runs to the northern guard and kills it with a 22-damage strike; moves a little toward the other guard.",
+              "evidence": [
+                {
+                  "startUid": "u0637",
+                  "endUid": "u0650"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Steady Aims at the southern guard for 43 Sneak Attack damage, then hits for 11 as Vex cancels disadvantage, killing it. The table acknowledges the bonus-action conflict but accepts the resolved attacks.",
+              "evidence": [
+                {
+                  "startUid": "u0651",
+                  "endUid": "u0683"
+                }
+              ]
+            },
+            {
+              "actor": "Guard boss",
+              "kind": "turn",
+              "summary": "Arrives, sees the dead guards, takes a moving crystal of lightning from the column and dashes behind a wall into total cover.",
+              "evidence": [
+                {
+                  "startUid": "u0684",
+                  "endUid": "u0701"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Works around the fallen guard and bonus-action dashes to the boss, declining Lengau’s Claw. Soul Sight identifies CR 16, strong Strength and weak Charisma; thunder immunity protects it from the room’s distraction. With disadvantage, one staff strike misses and one deals 14; Charisma 11 fails DC 18 Disrupting Strike.",
+              "evidence": [
+                {
+                  "startUid": "u0702",
+                  "endUid": "u0760"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves down but cannot see the boss; summons a 5th-level clay construct.",
+              "evidence": [
+                {
+                  "startUid": "u0793",
+                  "endUid": "u0846"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "turn",
+              "summary": "Moves to the boss and attacks twice with disadvantage; 17 and 16 both miss.",
+              "evidence": [
+                {
+                  "startUid": "u0847",
+                  "endUid": "u0868"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 3",
+              "kind": "turn",
+              "summary": "Moves beside Seeker and summons a 4th-level stone construct.",
+              "evidence": [
+                {
+                  "startUid": "u0869",
+                  "endUid": "u0877"
+                }
+              ]
+            },
+            {
+              "actor": "Stone construct",
+              "kind": "turn",
+              "summary": "Rushes the boss. Both attacks miss with disadvantage; a natural 20 is negated by the second die.",
+              "evidence": [
+                {
+                  "startUid": "u0877",
+                  "endUid": "u0885"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Dimension Doors 80 feet beside the boss and strikes three times with disadvantage: hits for 27 and 28 with a miss between. The boss has no resistance to the mixed damage.",
+              "evidence": [
+                {
+                  "startUid": "u0887",
+                  "endUid": "u0909"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves down and fires twice with disadvantage: 17 misses, 20 hits without Sneak Attack and applies Vex. Damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0911",
+                  "endUid": "u0919"
+                }
+              ]
+            },
+            {
+              "actor": "Guard boss",
+              "kind": "turn",
+              "summary": "Inserts its lightning crystal into a wall statue, animating the Chalyte zombie, then runs away without disengaging.",
+              "evidence": [
+                {
+                  "startUid": "u0920",
+                  "endUid": "u0960"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "reaction",
+              "summary": "Opportunity attack hits for 13 as the boss flees.",
+              "evidence": [
+                {
+                  "startUid": "u0936",
+                  "endUid": "u0952"
+                }
+              ]
+            },
+            {
+              "actor": "Stone construct",
+              "kind": "reaction",
+              "summary": "Opportunity attack misses (13).",
+              "evidence": [
+                {
+                  "startUid": "u0936",
+                  "endUid": "u0943"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Opportunity attack misses (13).",
+              "evidence": [
+                {
+                  "startUid": "u0954",
+                  "endUid": "u0956"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses an opportunity-attack Eldritch Blast: two hits deal 15 force damage; the boss remains above bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u0944",
+                  "endUid": "u0963"
+                }
+              ]
+            },
+            {
+              "actor": "Chalyte zombie",
+              "kind": "turn",
+              "summary": "Faces Delwath, whose Constitution save still fails after a heroic reroll to 8. Deals 27 force damage and restrains him as Chalyte grows through his body; this is not a spell.",
+              "evidence": [
+                {
+                  "startUid": "u0962",
+                  "endUid": "u0986"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Pursues the boss and hits with his staff for 15. Chooses Stunning Strike over disruption/frightening: Constitution 16 fails DC 18. Straight-roll Flurry attacks deal 8, miss, then critically hit for 15.",
+              "evidence": [
+                {
+                  "startUid": "u0987",
+                  "endUid": "u1037"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts 2nd-level Catapult at the Chalyte zombie; Dexterity 15 fails for 18 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u1038",
+                  "endUid": "u1065"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "turn",
+              "summary": "Attacks the zombie twice with disadvantage: one hit for 11 (the other die prevents a critical hit), then 18 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1067",
+                  "endUid": "u1077"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 3",
+              "kind": "turn",
+              "summary": "Casts Slow on the fleeing boss alone after rejecting an area covering both enemies. The boss fails its Wisdom save and is slowed as well as stunned.",
+              "evidence": [
+                {
+                  "startUid": "u1078",
+                  "endUid": "u1112"
+                }
+              ]
+            },
+            {
+              "actor": "Stone construct",
+              "kind": "turn",
+              "summary": "Attacks the zombie: one miss and one hit for 12.",
+              "evidence": [
+                {
+                  "startUid": "u1108",
+                  "endUid": "u1112"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "While restrained, attempts three sword strikes against the zombie; all miss. His next Constitution save reaches only 6 after Bardic Inspiration and he becomes fully petrified.",
+              "evidence": [
+                {
+                  "startUid": "u1113",
+                  "endUid": "u1165"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the stunned boss with straight rolls: Bardic Inspiration turns the first into a hit for 49, then a second arrow deals 11. The proposed extra Bardic damage is withdrawn.",
+              "evidence": [
+                {
+                  "startUid": "u1182",
+                  "endUid": "u1207"
+                }
+              ]
+            },
+            {
+              "actor": "Guard boss",
+              "kind": "turn",
+              "summary": "Despite being stunned and slowed, stumbles 10 feet down the stairs as played.",
+              "evidence": [
+                {
+                  "startUid": "u1206",
+                  "endUid": "u1207"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Hits the departing boss with an opportunity attack for 12. This reaction is resolved retrospectively and belongs beside that stair movement.",
+              "evidence": [
+                {
+                  "startUid": "u1206",
+                  "endUid": "u1207"
+                },
+                {
+                  "startUid": "u1228",
+                  "endUid": "u1242"
+                }
+              ]
+            },
+            {
+              "actor": "Chalyte zombie",
+              "kind": "turn",
+              "summary": "Leaves the constructs and seeks new prey, then hits Seeker 3 twice for 44 bludgeoning damage. Seeker 3 keeps concentration with War Caster advantage when that check is resolved later.",
+              "evidence": [
+                {
+                  "startUid": "u1209",
+                  "endUid": "u1222"
+                },
+                {
+                  "startUid": "u1286",
+                  "endUid": "u1288"
+                }
+              ]
+            },
+            {
+              "actor": "Clay and stone constructs",
+              "kind": "reaction",
+              "summary": "Opportunity attacks on the moving zombie: one hits for 11 and the other misses; the source does not identify which construct hits.",
+              "evidence": [
+                {
+                  "startUid": "u1210",
+                  "endUid": "u1213"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Pursues the boss and attacks with straight rolls: staff hits for 17 and 8, one unarmed strike misses and two hit for 7 and 13. The boss makes the renewed Stunning Strike save.",
+              "evidence": [
+                {
+                  "startUid": "u1243",
+                  "endUid": "u1274"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves away from the zombie, maintaining concentration with an advantaged Constitution 18 against DC 15 after its opportunity attack. Arcana 21 with disadvantage identifies magical animation; 3rd-level Dispel Magic, check 18 with disadvantage against DC 16, removes the lightning and returns it to stone.",
+              "evidence": [
+                {
+                  "startUid": "u1275",
+                  "endUid": "u1343"
+                }
+              ]
+            },
+            {
+              "actor": "Chalyte zombie",
+              "kind": "reaction",
+              "summary": "Hits Seeker with an opportunity attack for 30 bludgeoning damage as he retreats, before he dispels it.",
+              "evidence": [
+                {
+                  "startUid": "u1282",
+                  "endUid": "u1290"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "turn",
+              "summary": "Dashes toward the boss to threaten an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u1349",
+                  "endUid": "u1358"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 3 and stone construct",
+              "kind": "turn",
+              "summary": "Dash toward the top of the stairs, unable to reach the boss for an attack.",
+              "evidence": [
+                {
+                  "startUid": "u1351",
+                  "endUid": "u1359"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots with a straight roll for 80, killing the boss; its body tumbles down the stairs.",
+              "evidence": [
+                {
+                  "startUid": "u1360",
+                  "endUid": "u1376"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": "Thunder imposes disadvantage on attacks and ability checks throughout; advantage cancels it where established. The boss arriving after the guards is distinct from Dhrukmir.",
+      "ending": {
+        "summary": "Both guards and their boss are dead; the animated zombie has been dispelled. Delwath remains fully petrified when battle ends, and the lightning-column thunder continues.",
+        "evidence": [
+          {
+            "startUid": "u1343",
+            "endUid": "u1343"
+          },
+          {
+            "startUid": "u1371",
+            "endUid": "u1382"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s007",
+      "encounter": "Death Lightning control room and collapsing Hanging Tower",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Engages the Chalyte sorcerer with disadvantage. Staff hit deals 10; Constitution 17 fails Stunning Strike, but the first crown crystal breaks to resist it. Second staff attack misses; Flurry deals 6 with one hit and two misses.",
+              "evidence": [
+                {
+                  "startUid": "u1947",
+                  "endUid": "u2002"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Steady Aim cancels disadvantage; shot deals 30 and attempts DC 19 Dexterity blinding. The sorcerer rolls 11 and spends its second crown resistance. Allies gain attack advantage until Wellby’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u2003",
+                  "endUid": "u2023"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 3",
+              "kind": "turn",
+              "summary": "Casts 4th-level Psychic Lance: Intelligence 1 fails, consuming the sorcerer’s last crown resistance; it takes half of 21, adjudicated as 10 psychic damage.",
+              "evidence": [
+                {
+                  "startUid": "u2024",
+                  "endUid": "u2034"
+                }
+              ]
+            },
+            {
+              "actor": "Stone construct",
+              "kind": "turn",
+              "summary": "Moves toward the mirror and stops short of the lightning without attacking.",
+              "evidence": [
+                {
+                  "startUid": "u2036",
+                  "endUid": "u2053"
+                }
+              ]
+            },
+            {
+              "actor": "Chalyte sorcerer",
+              "kind": "turn",
+              "summary": "Uses a bonus-action Chalyte flash stone; everyone except Kenzo rolls Constitution. Delwath and Wellby pass using Bardic help; Seeker 3 passes after a heroic reroll to 16; Seeker’s reroll of 6 fails, blinding him until the end of the sorcerer’s next turn. Swings at Kenzo: 15 and 12 miss, 27 hits; damage is corrected from 25 to 27. Subsequently begins an unnamed spell aimed at Seeker with a Strength save, interrupted by Counterspell.",
+              "evidence": [
+                {
+                  "startUid": "u2054",
+                  "endUid": "u2167"
+                }
+              ],
+              "note": "The spell’s caster is not named in the truncated transition at u2142; this entry follows the immediately preceding sorcerer turn without inventing the spell’s name."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the club hit, reducing its corrected 27 damage by 24 and taking 3.",
+              "evidence": [
+                {
+                  "startUid": "u2119",
+                  "endUid": "u2140"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses a once-per-day foresight option to test whether his DC 20 Constitution Counterspell would work; learns it would fail and does not cast it.",
+              "evidence": [
+                {
+                  "startUid": "u2142",
+                  "endUid": "u2162"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 3",
+              "kind": "reaction",
+              "summary": "Casts Counterspell; the caster fails its save and the spell targeting Seeker has no effect. Uses its final 3rd-level slot.",
+              "evidence": [
+                {
+                  "startUid": "u2164",
+                  "endUid": "u2167"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "While blind, animates the rope ladder he is carrying, correcting the initial proposal to create a new ladder. Gives Delwath Bardic Inspiration and commands the mirror assault.",
+              "evidence": [
+                {
+                  "startUid": "u2170",
+                  "endUid": "u2243"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct and Ladder",
+              "kind": "turn",
+              "summary": "Advance to 10 feet from the mirror, outside its contact lightning; wait to attack next round.",
+              "evidence": [
+                {
+                  "startUid": "u2224",
+                  "endUid": "u2240"
+                }
+              ]
+            },
+            {
+              "actor": "Giant apprentice",
+              "kind": "turn",
+              "summary": "Rushes Kenzo. First runed-blade attack (15) misses; second (27) deals 25 slashing and reduces his movement by 10 without a save.",
+              "evidence": [
+                {
+                  "startUid": "u2244",
+                  "endUid": "u2256"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves 30 feet, quickens Conjure Animals and brings it within 10 feet of both enemies. Against DC 20 Dexterity, the sorcerer fails for 24 damage and the apprentice succeeds with 20. Four Eldritch Blasts hit the sorcerer for a stated 16 total force damage, with advantage canceling thunder.",
+              "evidence": [
+                {
+                  "startUid": "u2257",
+                  "endUid": "u2285"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the sorcerer with straight rolls. First staff hit deals 18 and stuns it on a failed DC 18 Constitution save; second deals 11. Flurry hits deal 6, 6 and 17, leaving it bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u2286",
+                  "endUid": "u2306"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots with straight rolls: first arrow blinds the sorcerer and deals 28; second attack (12) misses.",
+              "evidence": [
+                {
+                  "startUid": "u2307",
+                  "endUid": "u2320"
+                }
+              ]
+            },
+            {
+              "actor": "Lightning column",
+              "kind": "event",
+              "summary": "Fires three bolts. Dexterity saves apply to everyone except Seeker and Kenzo: Delwath 16 fails, Seeker 3 fails, Wellby 28 succeeds with Evasion, and the remaining summons fail (11 and 9). Damage is 35 on failure, 17 on success. Seeker 3 dissolves into snow and its stone construct disappears.",
+              "evidence": [
+                {
+                  "startUid": "u2321",
+                  "endUid": "u2372"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Absorb Elements against the lightning, halving the failed-save damage.",
+              "evidence": [
+                {
+                  "startUid": "u2331",
+                  "endUid": "u2340"
+                }
+              ]
+            },
+            {
+              "actor": "Chalyte sorcerer",
+              "kind": "turn",
+              "summary": "Remains stunned and blinded, taking no attacks, but moves at half speed through Kenzo’s space toward Delwath. Its turn ending also ends Seeker’s blindness.",
+              "evidence": [
+                {
+                  "startUid": "u2371",
+                  "endUid": "u2398"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "turn",
+              "summary": "Charges the mirror through the lightning, takes 55 automatic lightning damage and is destroyed.",
+              "evidence": [
+                {
+                  "startUid": "u2399",
+                  "endUid": "u2416"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Charges into the same lightning for 55 damage, survives with 5 hit points and attacks the mirror. A 15 hits for a corrected 10 damage, opening cracks; the lightning continues.",
+              "evidence": [
+                {
+                  "startUid": "u2404",
+                  "endUid": "u2463"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts 2nd-level Catapult at the mirror, whose object status automatically fails the save. Deals 20 bludgeoning damage and widens the crack, but the mirror still functions.",
+              "evidence": [
+                {
+                  "startUid": "u2464",
+                  "endUid": "u2485"
+                }
+              ]
+            },
+            {
+              "actor": "Giant apprentice",
+              "kind": "turn",
+              "summary": "Runs and dashes toward a wall statue; activation is threatened but not completed in this turn.",
+              "evidence": [
+                {
+                  "startUid": "u2486",
+                  "endUid": "u2488"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "reaction",
+              "summary": "Takes an opportunity attack as the apprentice passes despite the lightning obscuring sight; hits with 21 for 12 damage. Kenzo has no reaction available.",
+              "evidence": [
+                {
+                  "startUid": "u2498",
+                  "endUid": "u2514"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves Conjure Animals onto the sorcerer: Dexterity 17 fails DC 20 for 30 damage. Applies Hunter’s Curse, then a disadvantaged sword hit for 18 kills the sorcerer, so declines a smite. It dies threatening that Dhrukmir will prevent escape. Transfers the curse to the apprentice and moves toward it.",
+              "evidence": [
+                {
+                  "startUid": "u2542",
+                  "endUid": "u2576"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Chooses the mirror instead of the apprentice. Enters its lightning for 55 automatic damage without a save; two disadvantaged staff hits deal 8 and 18 and shatter it, spraying Chalyte fragments.",
+              "evidence": [
+                {
+                  "startUid": "u2577",
+                  "endUid": "u2639"
+                }
+              ]
+            },
+            {
+              "actor": "Shattered mirror",
+              "kind": "event",
+              "summary": "Releases a lightning burst: DC 17 Dexterity, 54 damage on failure. Delwath and Seeker roll 20 and succeed (Seeker takes 27); Wellby fails with 14 but Evasion halves it. Kenzo automatically fails inside the lightning, then Evasion corrects his damage to 27. The earlier 55 contact damage stays unchanged. Ladder is destroyed. Lightning and thunder stop; the tower loses its support and begins falling 150 feet. Giants are immune to thunder and lightning.",
+              "evidence": [
+                {
+                  "startUid": "u2638",
+                  "endUid": "u2724"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Resumes the same turn after the explosion: leaves the former lightning and hits the apprentice three times without thunder disadvantage for 15, 6 and 11. It is still alive as the tower tips.",
+              "evidence": [
+                {
+                  "startUid": "u2726",
+                  "endUid": "u2750"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Runs to the chained prisoner and uses the Chime of Opening to free him. Abandons running up the windowless floors when the escape is coordinated by Dimension Door.",
+              "evidence": [
+                {
+                  "startUid": "u2751",
+                  "endUid": "u2813"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves and dashes to the freed giant, then Quickens Dimension Door to take the prisoner out of the falling tower.",
+              "evidence": [
+                {
+                  "startUid": "u2791",
+                  "endUid": "u2810"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Steps to Wellby and Dimension Doors them both out.",
+              "evidence": [
+                {
+                  "startUid": "u2811",
+                  "endUid": "u2813"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Becomes astral and hovers while the collapsing tower falls through him; reaches the pit-side rim with the others.",
+              "evidence": [
+                {
+                  "startUid": "u2814",
+                  "endUid": "u2835"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": "Thunder disadvantage persists until the mirror shatters. Giant caster attribution at u2142 is incomplete; the surrounding turn points to the sorcerer. The apprentice remains alive when the tower falls; its eventual fate is not resolved.",
+      "ending": {
+        "summary": "The mirror and death ray are destroyed, the sorcerer is dead, Seeker 3 and Ladder are lost, and the tower crashes into the pit mine. All four PCs and the rescued giant escape to the rim. The apprentice’s fate is not established; underground rumbling heralds Dhrukmir.",
+        "evidence": [
+          {
+            "startUid": "u2560",
+            "endUid": "u2564"
+          },
+          {
+            "startUid": "u2689",
+            "endUid": "u2693"
+          },
+          {
+            "startUid": "u2806",
+            "endUid": "u2835"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c003",
+      "segmentId": "s009",
+      "encounter": "Dhrukmir Skybreaker at the pit rim",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Engages Dhrukmir while astral, using Aura Focus and Lengau’s Claw for five straight-roll unarmed strikes: first misses; second hits for 17+6+12, third for a stated 18 total, fourth misses (17), last hits for 13. Disruption is rejected on immunity grounds; Stunning Strike fails against Constitution 19.",
+              "evidence": [
+                {
+                  "startUid": "u3041",
+                  "endUid": "u3080"
+                }
+              ]
+            },
+            {
+              "actor": "Dhrukmir",
+              "kind": "turn",
+              "summary": "Clubs Kenzo with 32 to hit for 35 bludgeoning, then follows with two fist hits for 29 and 31 force. The club’s initially failed Constitution save caused 23 radiant and blindness, but a later focus-point reroll to 25 succeeds: blindness is removed and the DM refunds 22 radiant. Bonus action raises a 20-foot square of damaging Chalyte spikes around Seeker; continues climbing from the pit.",
+              "evidence": [
+                {
+                  "startUid": "u3081",
+                  "endUid": "u3203"
+                }
+              ],
+              "note": "The two fist hits were rolled with advantage from the provisional blindness; the later successful save does not cause the table to reroll them."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the club, reducing its 35 bludgeoning by 31. Uses Bardic Inspiration on the initial Constitution save, gaining 11 temporary hit points, then spends focus to reroll the save successfully with 25; keeps the temporary hit points after the radiant refund.",
+              "evidence": [
+                {
+                  "startUid": "u3090",
+                  "endUid": "u3130"
+                },
+                {
+                  "startUid": "u3175",
+                  "endUid": "u3194"
+                }
+              ]
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Dashes around the cliff edge to block Dhrukmir’s exit; cannot reach to attack.",
+              "evidence": [
+                {
+                  "startUid": "u3195",
+                  "endUid": "u3229"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses an Arrow of Seeking for 36 piercing and a DC 19 Dexterity blinding attempt. Dhrukmir absorbs the spikes around Seeker to resist blindness. A second Skaer-arrow attack initially misses with 18; its forgotten Vex is raised later. Wellby moves higher and closer, about 150 feet above rim ground.",
+              "evidence": [
+                {
+                  "startUid": "u3230",
+                  "endUid": "u3246"
+                },
+                {
+                  "startUid": "u3268",
+                  "endUid": "u3276"
+                },
+                {
+                  "startUid": "u3523",
+                  "endUid": "u3533"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves to melee near the cliff and applies Hexblade’s Curse. With advantage, hits three times: the first damage is spoken as 17+11 then 27, the second 29, and the final smite is corrected by the DM to 65. No reconstructed total replaces that sequence.",
+              "evidence": [
+                {
+                  "startUid": "u3250",
+                  "endUid": "u3283"
+                }
+              ]
+            },
+            {
+              "actor": "Dhrukmir",
+              "kind": "event",
+              "summary": "A radiant flare after the smite forces Constitution saves within 120 feet: Kenzo succeeds with 25; Wellby, Delwath and Seeker fail (Seeker’s 20 fails), taking 19 radiant and blindness. Delwath halves the radiant by resistance. The construct and triceratops are also blinded. The effect is initially said to last until the end of Dhrukmir’s next turn, then adjudicated as each affected creature’s next turn ending.",
+              "evidence": [
+                {
+                  "startUid": "u3279",
+                  "endUid": "u3328"
+                },
+                {
+                  "startUid": "u3403",
+                  "endUid": "u3404"
+                },
+                {
+                  "startUid": "u3491",
+                  "endUid": "u3512"
+                },
+                {
+                  "startUid": "u3617",
+                  "endUid": "u3617"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "event",
+              "summary": "Fails his advantaged concentration save (two fives) and heroic reroll (another five); the 8th-level stone construct vanishes before acting.",
+              "evidence": [
+                {
+                  "startUid": "u3330",
+                  "endUid": "u3338"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Despite blindness, casts 7th-level Psychic Lance using Dhrukmir’s name. Dhrukmir spends another legendary resistance on the Intelligence save, dimming the Chalyte club, and takes 15 psychic after halving. Wellby is too distant for inspiration; gives it to the triceratops instead.",
+              "evidence": [
+                {
+                  "startUid": "u3340",
+                  "endUid": "u3375"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks with advantage from Wellby, remaining unblinded: hits for 21, 19, misses with 17, then hits for 15 and 20. Dhrukmir rolls 4 plus his Constitution bonus and resists DC 18 Stunning Strike. Kenzo’s astral form prevents being knocked off the cliff.",
+              "evidence": [
+                {
+                  "startUid": "u3377",
+                  "endUid": "u3432"
+                }
+              ]
+            },
+            {
+              "actor": "Dhrukmir",
+              "kind": "turn",
+              "summary": "Clubs Kenzo with 25 to hit for 49 bludgeoning; one fist misses on a natural 1 and the other deals 26 force. A glowing grasp forces Dexterity: Kenzo’s 26 plus Evasion avoids it. Repositions about 60 feet away; no opportunity attacks occur because Kenzo spent his reaction and the triceratops is blind.",
+              "evidence": [
+                {
+                  "startUid": "u3434",
+                  "endUid": "u3489"
+                },
+                {
+                  "startUid": "u3623",
+                  "endUid": "u3627"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the 49-damage club by 29, taking 20 bludgeoning.",
+              "evidence": [
+                {
+                  "startUid": "u3443",
+                  "endUid": "u3445"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "While blind, readies an attack for when he can see an ally in melee. His turn ending removes blindness.",
+              "evidence": [
+                {
+                  "startUid": "u3491",
+                  "endUid": "u3512"
+                }
+              ]
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Dashes back into melee, unable to attack, satisfying the ally condition for Wellby’s readied shot.",
+              "evidence": [
+                {
+                  "startUid": "u3513",
+                  "endUid": "u3522"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Resolves an arrow as a natural 20 during a discussion of forgotten Vex on the prior round’s second arrow; no damage total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u3523",
+                  "endUid": "u3542"
+                }
+              ],
+              "note": "The narration follows the readied-shot trigger but explicitly discusses correcting the previous arrow; exact attribution is unresolved, so no second critical or damage total is invented."
+            },
+            {
+              "actor": "Dhrukmir",
+              "kind": "villain_action",
+              "summary": "Uses the explicitly named second villain action after Wellby: boulders fly inward within 60 feet, dealing 30 bludgeoning on failed Dexterity, 15 on success, zero with successful Evasion. Seeker and airborne Wellby are outside. Delwath’s 20 and Bardic 21 fail; his reroll to 25 succeeds and Bardic supplies 11 temporary hit points. The triceratops fails (10), takes damage and falls prone. Dhrukmir heals as rocks accrete, but not to full.",
+              "evidence": [
+                {
+                  "startUid": "u3543",
+                  "endUid": "u3583"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses Lesser Restoration to remove his blindness, moves and casts Eldritch Blast with straight rolls: two hits deal 12 each, two miss.",
+              "evidence": [
+                {
+                  "startUid": "u3584",
+                  "endUid": "u3601"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Summons a 6th-level stone construct next to Dhrukmir and gives Delwath Bardic Inspiration. Blindness ends with his turn.",
+              "evidence": [
+                {
+                  "startUid": "u3602",
+                  "endUid": "u3622"
+                }
+              ]
+            },
+            {
+              "actor": "Stone construct",
+              "kind": "turn",
+              "summary": "Makes three attacks: hits for 17, hits for a corrected 12, misses with a natural 1.",
+              "evidence": [
+                {
+                  "startUid": "u3607",
+                  "endUid": "u3616"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Rejoins Dhrukmir, chooses two attacks plus Patient Defense instead of Flurry: both straight-roll strikes hit for 20 each. Dodges, disengages and gains a rolled 11 temporary hit points.",
+              "evidence": [
+                {
+                  "startUid": "u3623",
+                  "endUid": "u3670"
+                }
+              ]
+            },
+            {
+              "actor": "Dhrukmir",
+              "kind": "turn",
+              "summary": "Succeeds on the stone construct’s start-of-turn Wisdom save with 20. Attacks Kenzo through Dodge disadvantage: first fist hits with 21 for 28, second hits for 23 (a natural 20 is negated by the other die), then a 40-damage blow drops Kenzo unconscious; the associated blinding save is waived once unconscious. Raises more Chalyte spikes, creating damaging difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u3671",
+                  "endUid": "u3749"
+                }
+              ],
+              "note": "The last 40-damage blow is not given a clear attack label; the transcript does not establish its damage type."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Uses Deflect against the first fist, including a heroic reroll. The table corrects his damage taken from 10 to 5; cannot fully deflect or return the attack.",
+              "evidence": [
+                {
+                  "startUid": "u3684",
+                  "endUid": "u3713"
+                }
+              ]
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Finally attacks: gore hits with 22 for 28 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3750",
+                  "endUid": "u3766"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Skaer arrow hits AC 20 for 37, then a second arrow without Sneak Attack deals 8.",
+              "evidence": [
+                {
+                  "startUid": "u3768",
+                  "endUid": "u3784"
+                }
+              ]
+            },
+            {
+              "actor": "Dhrukmir",
+              "kind": "event",
+              "summary": "Before Delwath acts, emits a lightning blast within 150 feet. Dexterity 23 still fails; Wellby dodges clear, while the others take 75 lightning except resistant Delwath, who takes half. Seeker’s construct dies and concentration cannot survive; the triceratops reverts to its figurine. Lightning racks unconscious Kenzo, subsequently counted as one failed death save.",
+              "evidence": [
+                {
+                  "startUid": "u3788",
+                  "endUid": "u3837"
+                },
+                {
+                  "startUid": "u3889",
+                  "endUid": "u3897"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Absorb Elements to resist the lightning burst.",
+              "evidence": [
+                {
+                  "startUid": "u3805",
+                  "endUid": "u3811"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Quickens Dimension Door into melee. First hit deals 25; Bardic Inspiration raises the second into a hit for 21, but its extra thunder is negated by immunity. Third hit deals 37, killing Dhrukmir. Gains 19 hit points on the cursed target’s death.",
+              "evidence": [
+                {
+                  "startUid": "u3838",
+                  "endUid": "u3904"
+                }
+              ]
+            },
+            {
+              "actor": "Dhrukmir",
+              "kind": "event",
+              "summary": "Crumbling death scatters rocks onto Delwath and unconscious Kenzo: Dexterity 17 is rolled by Delwath, Kenzo automatically fails. The DM states 24 bludgeoning; rubble half buries them and creates difficult terrain. Kenzo has not yet taken his next turn for a death-save roll.",
+              "evidence": [
+                {
+                  "startUid": "u3884",
+                  "endUid": "u3904"
+                }
+              ],
+              "note": "No separate successful-save result is stated for Delwath; no individual damage ledger is reconstructed."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves within 60 feet and casts 1st-level Healing Word, correcting a proposed 5th-level casting. Maximum roll heals Kenzo for 13 and he wakes.",
+              "evidence": [
+                {
+                  "startUid": "u3905",
+                  "endUid": "u3919"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "event",
+              "summary": "Becomes astral again and escapes the collapsed giant’s rubble.",
+              "evidence": [
+                {
+                  "startUid": "u3920",
+                  "endUid": "u3920"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": "Preparations before initiative establish Seeker’s 8th-level stone construct, Wellby’s figurine triceratops, Delwath’s Font of Moonlight, Kenzo’s astral form and Lengau’s Claw, and party Bardic Inspiration. They are not additional turns inside this segment. Dhrukmir’s first radiant-blinding effect is reversed by a late successful save; the stated 23 damage versus 22 refunded is retained without reconciling a hit-point ledger.",
+      "ending": {
+        "summary": "Dhrukmir is dead and crumbled into rubble. Kenzo, knocked unconscious and half buried, is healed for 13 and frees himself astrally. Seeker’s construct is lost and the triceratops has reverted to its figurine.",
+        "evidence": [
+          {
+            "startUid": "u3872",
+            "endUid": "u3904"
+          },
+          {
+            "startUid": "u3909",
+            "endUid": "u3920"
+          }
+        ]
+      }
+    }
+  ]
+}
