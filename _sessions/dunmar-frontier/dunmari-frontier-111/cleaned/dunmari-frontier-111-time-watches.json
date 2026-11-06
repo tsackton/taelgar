@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-time-markers.json",
+    "sha256": "38dc21aa2e89347105e0886a32c731857cdd9f23e47fff7bb87ec1a5e25fc45b"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-transcript.md",
+    "sha256": "0995867716861afdee33251ad8334cab79044928b815e552b643040bfa4f183a"
+  },
+  "dateAssessment": "Working dates come from the session YAML: May 21–22, 1749 DR. The transcript establishes one completed overnight, so its relative span matches those dates without independently speaking the calendar date. Session 110 closes with the storm crossing and approach to Vindristjarna (u15236–u15252); session 111 resumes that arrival around 1 p.m. (t01), supporting the same-day handoff. Earlier continuity includes the registered narrative-only session 107: it records the May 18 beach-to-Wanderer journey between session 106’s beach landing and session 108’s statue climb. No clock is carried directly from session 106 to 108 or across the intervening island sessions. Riswynn’s arrival yesterday evening is background; it does not add another played night to this session. The opening’s “mid afternoon” and morning’s “dawn” are loose labels beside numerical clocks. The later approach minute counts remain unresolved in t09.",
+  "watches": [
+    {
+      "day": "May 21, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Reunion around 1 p.m., just after lunch; the “mid afternoon” wording remains qualified.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-21"
+    },
+    {
+      "day": "May 21, 1749",
+      "startWatch": "midday",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "An hour sorting treasure after the approximately 1 p.m. reunion reaches roughly 2 p.m.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-21"
+    },
+    {
+      "day": "May 21, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Faldrak sets course when the clock is corrected to about 3 p.m.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-21"
+    },
+    {
+      "day": "May 21, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Dinner and the ocean-to-land crossing occur after sunset.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-21"
+    },
+    {
+      "day": "Night before the May 22 morning",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Ten-minute scry is placed “last night”; its precise evening or overnight watch remains open.",
+      "markers": [
+        "t06"
+      ],
+      "scope": "Delwath’s retrospective scry"
+    },
+    {
+      "day": "May 21–22, 1749",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Twelve-hour casting runs about 7 p.m.–7 a.m.; the completed overnight rest overlaps it.",
+      "markers": [
+        "t05",
+        "t07"
+      ],
+      "startDate": "1749-05-21",
+      "endDate": "1749-05-22"
+    },
+    {
+      "day": "May 22, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "After the 7 a.m. completion: short rest, approach about 8:30, then roughly twenty minutes circling.",
+      "markers": [
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "startDate": "1749-05-22",
+      "endDate": "1749-05-22"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 106 handoff transcript",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-transcript.md",
+      "sha256": "bf75daf8aa690ac562e272c4215d165be1db7e0ca6750f8ab358353925c82fd5"
+    },
+    {
+      "label": "Session 107 registered narrative",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md",
+      "sha256": "39682711279b31db958790d59901476d5669c1649af079b8c5275be5c19bd9ef"
+    },
+    {
+      "label": "Session 108 handoff transcript",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-transcript.md",
+      "sha256": "103e3505e672498e70879a8e0b49164fef6cdf3edb512d970f3c796b26e8689f"
+    },
+    {
+      "label": "Session 110 closing transcript",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-transcript.md",
+      "sha256": "9bd0eab39c2a482f167eb379e5c5a58ef5d09c4d6934a304061bbeeb2573eb30"
+    },
+    {
+      "label": "Session 110 calendar",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+      "sha256": "dabad7b99b93e59fc3061ec625242ee97a70866e265ee1b474176dd127a7cdb9"
+    }
+  ]
+}

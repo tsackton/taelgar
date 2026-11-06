@@ -1,0 +1,1310 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-111",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-session.yaml",
+    "sessionYamlSha256": "c0aceff7269c4799c0282df5be5e01e6d52410458b922367016954a72328c4e1",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-transcript.md",
+    "transcriptSha256": "0995867716861afdee33251ad8334cab79044928b815e552b643040bfa4f183a"
+  },
+  "places": {
+    "p01": {
+      "label": "Folding boat",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0017",
+          "quote": "Yeah. Okay. So we pick up as the damaged and then repaired folding boat crewed by Milo and Tilly, and their halfling sailors, emerges out of the storm to find Vindristjarna waiting, hovering above the the churning sea."
+        }
+      ],
+      "mobile": true,
+      "kind": "vessel"
+    },
+    "p02": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0017",
+          "quote": "Yeah. Okay. So we pick up as the damaged and then repaired folding boat crewed by Milo and Tilly, and their halfling sailors, emerges out of the storm to find Vindristjarna waiting, hovering above the the churning sea."
+        },
+        {
+          "startUid": "u0018",
+          "endUid": "u0026",
+          "quote": "DM: And you can see as you fly or animate the boat and have it fly, or however you choose to reach the deck of Vindristjarna, the crew, having watched you emerge from the storm has gathered in waiting, looming over the water. You don't see Faldrak. He is presumably at the helm, but as you land you see him emerging quickly."
+        },
+        {
+          "startUid": "u0027",
+          "endUid": "u0039",
+          "quote": "DM: And Riswynn— returned with Kethra standing waiting for you, Riswynn. You see, you haven't been here before, but there is a massive storm that just emerges out of the calm sea, clearly supernatural in origin, which Faldrak explained to you when you arrived yesterday evening. The rest of the party, in his words, daringly and perhaps foolheartedly, sailed straight into it. Dispel—it is impenetrable to magic. So the ship could not fly in. Although he has been scheming for various ways, for when they need rescuing. \"I have to be prepared.\" But fortunately that has not turned out to be necessary."
+        },
+        {
+          "startUid": "u0040",
+          "endUid": "u0044",
+          "quote": "DM: Everybody else the rest of the crew is—(I can close that)—is, is sort of emerges onto the deck slowly in the afternoon sun as the folding boat lands, and Milo and Tilly disembark with the rest of the party."
+        }
+      ],
+      "mobile": true,
+      "kind": "skyship",
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p03": {
+      "label": "Ocean south of Drankor",
+      "evidence": [
+        {
+          "startUid": "u0797",
+          "endUid": "u0810",
+          "quote": "You are currently over the ocean south of Drankor. Which is west, which is east of— like Illoria and Dunmar. It's like the coast forms like, like that that shape. And so like Darba's here and Drankor is like here. There's a map although I don't think it has—yeah, it has Drankor. The map here has, the map there has Drankor. So you're just like in the ocean south of Drankor right now. So sailing west would bring them to like the southern islands of Illoria. Like south of Illoria, part of the island chain that stretches quite some distance into the Nevos Sea, quite far south of Darba."
+        }
+      ],
+      "kind": "sea",
+      "note": "The ship’s current water is not explicitly named. Nevos Sea is named as part of the halflings’ intended western destination, not as a verified name for this position."
+    },
+    "p04": {
+      "label": "Mouth of the Istaros",
+      "evidence": [
+        {
+          "startUid": "u1165",
+          "endUid": "u1174",
+          "quote": "Yeah, it's mostly gold. It's not going to really be affected by rain. So the ship begins to move. You can see. I mean, you can see the coastline right? You're high enough up. It's only 60 miles away. The coast is visible, and you begin to depart the storm and travel across, the still strangely wavy sea, despite the, you know, mostly blue clouds, although passing thunderstorms right now. Heading for the mouth of the Istaros, the river that goes all the way to Isingue and north, on which Drankor sits."
+        }
+      ],
+      "kind": "river mouth",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1165",
+              "endUid": "u1174",
+              "quote": "Heading for the mouth of the Istaros, the river that goes all the way to Isingue and north, on which Drankor sits."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Istaros",
+      "evidence": [
+        {
+          "startUid": "u1165",
+          "endUid": "u1174",
+          "quote": "Yeah, it's mostly gold. It's not going to really be affected by rain. So the ship begins to move. You can see. I mean, you can see the coastline right? You're high enough up. It's only 60 miles away. The coast is visible, and you begin to depart the storm and travel across, the still strangely wavy sea, despite the, you know, mostly blue clouds, although passing thunderstorms right now. Heading for the mouth of the Istaros, the river that goes all the way to Isingue and north, on which Drankor sits."
+        }
+      ],
+      "kind": "river",
+      "vaultPath": "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md"
+    },
+    "p06": {
+      "label": "Drankor",
+      "evidence": [
+        {
+          "startUid": "u2390",
+          "endUid": "u2408",
+          "quote": "From the from the shores of the river, you can—I mean, this is all like a pretty dense jungle, but you can see bits of the ruined city poking out. Now, as you're close enough, you can see what you guess must be the tallest of what the report you saw described as the teeth of Drankor standing 200 feet tall or more—it's hard to judge—but above the trees, with the crystal dome, and on its top tinted in blue and gold, still standing intact. You can see the line of the docks just in the distance, not the full like the river twists, and you can't see the. You can't see the full extent of the docks, but you can see a part of a clearing where the trees don't approach to the river. And there's this long, wide promenade, this marble road that runs along the edge of the river. Still gleaming seeming as new."
+        },
+        {
+          "startUid": "u2409",
+          "endUid": "u2421",
+          "quote": "DM: Turning your gaze inland, you can see it's mostly trees, but you see you know the occasional tower or dome poking out from the trees that is still intact. And one much bigger than any temple you've seen before you know. It's sort of like the the dome of the Duomo, but even bigger than that, standing and stretching still intact. The trees clear around it. This must be the dome of the Temple of the 8 Divines, that where Rai was."
+        },
+        {
+          "startUid": "u2422",
+          "endUid": "u2429",
+          "quote": "DM: And you can see just in a few places through the trees this road that leads from the docks inland to this great plaza. Huge open space that where no trees grow which you can. Still, you can see from your perspective here maybe half a mile inland. It's a fairly compact city."
+        },
+        {
+          "startUid": "u2430",
+          "endUid": "u2448",
+          "quote": "DM: Okay this grand open plaza with you can't really see the details at this distance. Right? You just see this open space. And you see in places you don't. You don't see any, you know, whatever was described as this grand tomb, at least at least not from here. But there is a a. There's the plaza, and then there's a bit of a rise of the land, and then there's more of the city behind this sort of rise of the land, perhaps, and you do. You do see places where there are like, there's mists hanging around the trees, sitting on the water are tinged reddish in places. Some of this is probably just the dawn of the jungle. But clearly there's also lingering patches of this sort of plague echoes that you saw and avoided and heard about from the dragonets on the circular island, but seemed to also spread throughout this ruined city."
+        },
+        {
+          "startUid": "u2449",
+          "endUid": "u2453",
+          "quote": "DM: So you are now as dawn breaks about 15 miles away almost directly due south above the river, probably visible if anybody's watching."
+        }
+      ],
+      "kind": "ruined city",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Drankor.md"
+    },
+    "p07": {
+      "label": "Docks and marble promenade",
+      "evidence": [
+        {
+          "startUid": "u2390",
+          "endUid": "u2408",
+          "quote": "From the from the shores of the river, you can—I mean, this is all like a pretty dense jungle, but you can see bits of the ruined city poking out. Now, as you're close enough, you can see what you guess must be the tallest of what the report you saw described as the teeth of Drankor standing 200 feet tall or more—it's hard to judge—but above the trees, with the crystal dome, and on its top tinted in blue and gold, still standing intact. You can see the line of the docks just in the distance, not the full like the river twists, and you can't see the. You can't see the full extent of the docks, but you can see a part of a clearing where the trees don't approach to the river. And there's this long, wide promenade, this marble road that runs along the edge of the river. Still gleaming seeming as new."
+        }
+      ],
+      "kind": "dock district",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2390",
+              "endUid": "u2408",
+              "quote": "From the from the shores of the river, you can—I mean, this is all like a pretty dense jungle, but you can see bits of the ruined city poking out. Now, as you're close enough, you can see what you guess must be the tallest of what the report you saw described as the teeth of Drankor standing 200 feet tall or more—it's hard to judge—but above the trees, with the crystal dome, and on its top tinted in blue and gold, still standing intact. You can see the line of the docks just in the distance, not the full like the river twists, and you can't see the. You can't see the full extent of the docks, but you can see a part of a clearing where the trees don't approach to the river. And there's this long, wide promenade, this marble road that runs along the edge of the river. Still gleaming seeming as new."
+            },
+            {
+              "startUid": "u2409",
+              "endUid": "u2421",
+              "quote": "DM: Turning your gaze inland, you can see it's mostly trees, but you see you know the occasional tower or dome poking out from the trees that is still intact. And one much bigger than any temple you've seen before you know. It's sort of like the the dome of the Duomo, but even bigger than that, standing and stretching still intact. The trees clear around it. This must be the dome of the Temple of the 8 Divines, that where Rai was."
+            },
+            {
+              "startUid": "u2422",
+              "endUid": "u2429",
+              "quote": "DM: And you can see just in a few places through the trees this road that leads from the docks inland to this great plaza. Huge open space that where no trees grow which you can. Still, you can see from your perspective here maybe half a mile inland. It's a fairly compact city."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Surviving lightning tower / tooth of Drankor",
+      "evidence": [
+        {
+          "startUid": "u2390",
+          "endUid": "u2408",
+          "quote": "From the from the shores of the river, you can—I mean, this is all like a pretty dense jungle, but you can see bits of the ruined city poking out. Now, as you're close enough, you can see what you guess must be the tallest of what the report you saw described as the teeth of Drankor standing 200 feet tall or more—it's hard to judge—but above the trees, with the crystal dome, and on its top tinted in blue and gold, still standing intact. You can see the line of the docks just in the distance, not the full like the river twists, and you can't see the. You can't see the full extent of the docks, but you can see a part of a clearing where the trees don't approach to the river. And there's this long, wide promenade, this marble road that runs along the edge of the river. Still gleaming seeming as new."
+        }
+      ],
+      "kind": "defense tower",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2870",
+              "endUid": "u2870",
+              "quote": "Tower is at the southeast corner of the city."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Chamber beneath the tower’s blue-and-gold glass dome",
+      "evidence": [
+        {
+          "startUid": "u2476",
+          "endUid": "u2483",
+          "quote": "Fails. Delwath is sitting in what looks like an open room. Blue and gold light shining down through a tinted glass ceiling. Looking out at the river."
+        },
+        {
+          "startUid": "u2484",
+          "endUid": "u2484",
+          "quote": "Seeker: He's on the top of one of the teeth."
+        },
+        {
+          "startUid": "u2485",
+          "endUid": "u2494",
+          "quote": "DM: Also just kind of sitting, although there's a a number of like strange arcane there's like 6 circles that all are like sort of Runic. Mad—obviously magic— all around him. And he's sitting in the middle of these 6 circles. Just again, kind of semi shut down, but actually looking sort of vaguely in your direction, like looking south down the river."
+        },
+        {
+          "startUid": "u2495",
+          "endUid": "u2495",
+          "quote": "Delwath: Can I tell what the circles do like? Do they have any meaningful words or?"
+        },
+        {
+          "startUid": "u2496",
+          "endUid": "u2497",
+          "quote": "DM: There's there's nothing getting. These are obviously like some buttons to control buttons or something."
+        },
+        {
+          "startUid": "u2498",
+          "endUid": "u2499",
+          "quote": "Delwath: Wow. Got it."
+        },
+        {
+          "startUid": "u2500",
+          "endUid": "u2500",
+          "quote": "DM: They're like little—he's sitting in the middle. He's like 6 little—"
+        },
+        {
+          "startUid": "u2501",
+          "endUid": "u2501",
+          "quote": "Delwath: How high up is that?"
+        },
+        {
+          "startUid": "u2502",
+          "endUid": "u2502",
+          "quote": "DM: It's about 200 feet."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u2476",
+              "endUid": "u2483",
+              "quote": "Fails. Delwath is sitting in what looks like an open room. Blue and gold light shining down through a tinted glass ceiling. Looking out at the river."
+            },
+            {
+              "startUid": "u2484",
+              "endUid": "u2484",
+              "quote": "Seeker: He's on the top of one of the teeth."
+            },
+            {
+              "startUid": "u2485",
+              "endUid": "u2494",
+              "quote": "DM: Also just kind of sitting, although there's a a number of like strange arcane there's like 6 circles that all are like sort of Runic. Mad—obviously magic— all around him. And he's sitting in the middle of these 6 circles. Just again, kind of semi shut down, but actually looking sort of vaguely in your direction, like looking south down the river."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Ruined warehouses and shops beside the docks",
+      "evidence": [
+        {
+          "startUid": "u2576",
+          "endUid": "u2585",
+          "quote": "Okay. So you know, 4 of them are exactly where you expect like, there's 3 on the docks, one yeah, you know, on the top of this this tower. Wellby is actually nearby to the other 3. There's a series of like where, you know buildings. There's like marble buildings. There's warehouses, there's you know, there's this long promenade. There's like shops and things. Most of these are ruined. Your sense is Wellby is hiding in these ruins in a place where he could jump out and ambush somebody who approaches."
+        }
+      ],
+      "kind": "ruins",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2576",
+              "endUid": "u2585",
+              "quote": "Okay. So you know, 4 of them are exactly where you expect like, there's 3 on the docks, one yeah, you know, on the top of this this tower. Wellby is actually nearby to the other 3. There's a series of like where, you know buildings. There's like marble buildings. There's warehouses, there's you know, there's this long promenade. There's like shops and things. Most of these are ruined. Your sense is Wellby is hiding in these ruins in a place where he could jump out and ambush somebody who approaches."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2576",
+              "endUid": "u2585",
+              "quote": "Okay. So you know, 4 of them are exactly where you expect like, there's 3 on the docks, one yeah, you know, on the top of this this tower. Wellby is actually nearby to the other 3. There's a series of like where, you know buildings. There's like marble buildings. There's warehouses, there's you know, there's this long promenade. There's like shops and things. Most of these are ruined. Your sense is Wellby is hiding in these ruins in a place where he could jump out and ambush somebody who approaches."
+            }
+          ],
+          "note": "The location is the dockside ruins where Kenzo senses Wellby’s double, distinct from a physical party visit."
+        }
+      ]
+    },
+    "p11": {
+      "label": "Temple of the Eight Divines",
+      "evidence": [
+        {
+          "startUid": "u2409",
+          "endUid": "u2421",
+          "quote": "Turning your gaze inland, you can see it's mostly trees, but you see you know the occasional tower or dome poking out from the trees that is still intact. And one much bigger than any temple you've seen before you know. It's sort of like the the dome of the Duomo, but even bigger than that, standing and stretching still intact. The trees clear around it. This must be the dome of the Temple of the 8 Divines, that where Rai was."
+        }
+      ],
+      "kind": "temple",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Temple of the Eight Divines.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2409",
+              "endUid": "u2421",
+              "quote": "Turning your gaze inland, you can see it's mostly trees, but you see you know the occasional tower or dome poking out from the trees that is still intact. And one much bigger than any temple you've seen before you know. It's sort of like the the dome of the Duomo, but even bigger than that, standing and stretching still intact. The trees clear around it. This must be the dome of the Temple of the 8 Divines, that where Rai was."
+            },
+            {
+              "startUid": "u2422",
+              "endUid": "u2429",
+              "quote": "DM: And you can see just in a few places through the trees this road that leads from the docks inland to this great plaza. Huge open space that where no trees grow which you can. Still, you can see from your perspective here maybe half a mile inland. It's a fairly compact city."
+            },
+            {
+              "startUid": "u2430",
+              "endUid": "u2448",
+              "quote": "DM: Okay this grand open plaza with you can't really see the details at this distance. Right? You just see this open space. And you see in places you don't. You don't see any, you know, whatever was described as this grand tomb, at least at least not from here. But there is a a. There's the plaza, and then there's a bit of a rise of the land, and then there's more of the city behind this sort of rise of the land, perhaps, and you do. You do see places where there are like, there's mists hanging around the trees, sitting on the water are tinged reddish in places. Some of this is probably just the dawn of the jungle. But clearly there's also lingering patches of this sort of plague echoes that you saw and avoided and heard about from the dragonets on the circular island, but seemed to also spread throughout this ruined city."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Grand Plaza",
+      "evidence": [
+        {
+          "startUid": "u2422",
+          "endUid": "u2429",
+          "quote": "And you can see just in a few places through the trees this road that leads from the docks inland to this great plaza. Huge open space that where no trees grow which you can. Still, you can see from your perspective here maybe half a mile inland. It's a fairly compact city."
+        },
+        {
+          "startUid": "u2430",
+          "endUid": "u2448",
+          "quote": "DM: Okay this grand open plaza with you can't really see the details at this distance. Right? You just see this open space. And you see in places you don't. You don't see any, you know, whatever was described as this grand tomb, at least at least not from here. But there is a a. There's the plaza, and then there's a bit of a rise of the land, and then there's more of the city behind this sort of rise of the land, perhaps, and you do. You do see places where there are like, there's mists hanging around the trees, sitting on the water are tinged reddish in places. Some of this is probably just the dawn of the jungle. But clearly there's also lingering patches of this sort of plague echoes that you saw and avoided and heard about from the dragonets on the circular island, but seemed to also spread throughout this ruined city."
+        }
+      ],
+      "kind": "plaza",
+      "aliases": [
+        "great plaza"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2422",
+              "endUid": "u2429",
+              "quote": "And you can see just in a few places through the trees this road that leads from the docks inland to this great plaza. Huge open space that where no trees grow which you can. Still, you can see from your perspective here maybe half a mile inland. It's a fairly compact city."
+            },
+            {
+              "startUid": "u2430",
+              "endUid": "u2448",
+              "quote": "DM: Okay this grand open plaza with you can't really see the details at this distance. Right? You just see this open space. And you see in places you don't. You don't see any, you know, whatever was described as this grand tomb, at least at least not from here. But there is a a. There's the plaza, and then there's a bit of a rise of the land, and then there's more of the city behind this sort of rise of the land, perhaps, and you do. You do see places where there are like, there's mists hanging around the trees, sitting on the water are tinged reddish in places. Some of this is probably just the dawn of the jungle. But clearly there's also lingering patches of this sort of plague echoes that you saw and avoided and heard about from the dragonets on the circular island, but seemed to also spread throughout this ruined city."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Valley of the red mists and imperial tombs",
+      "evidence": [
+        {
+          "startUid": "u2882",
+          "endUid": "u2884",
+          "quote": "Passing, seeing the the dome of this temple of the 8 divines below you, and there's this like, rise, and you come around as you come to the northeast. You like go up over this rise, and you can see the other side of this hill. There's sort of a depression that's filled with red mist."
+        },
+        {
+          "startUid": "u2885",
+          "endUid": "u2899",
+          "quote": "DM: Standing in the middle of this depression, you see depicted—you see what was depicted in the illustrations that Nuzkar recovered from the report of the Aagiri. This large—and again, you can really only see the top of it around the mist. The mist seems to cover more ground than it did 370 years ago. But sticking out from these red mists, you can see the top of this dome. Like like the top of the Capitol or something like that. It's that kind of like marble column circle around the top. And it's this seems to be the center of the billowing mists, and where this evil will is coming from."
+        },
+        {
+          "startUid": "u2900",
+          "endUid": "u2909",
+          "quote": "DM: Slightly isolated from the rest of the city by this like rise of hills that that run sort of northeast southwest. Sorry, north—yeah. Northeast, southwest, like from the river. And of course you can see the river around right, like the river runs in a sort of serpentine way like this rise, and then I'm so northwest of this rise is is what seems to be Apollyon's tomb and prison."
+        },
+        {
+          "startUid": "u2910",
+          "endUid": "u2910",
+          "quote": "Seeker: And we're flying accidentally right over."
+        },
+        {
+          "startUid": "u2911",
+          "endUid": "u2911",
+          "quote": "DM: Basically directly towards it. Yes."
+        },
+        {
+          "startUid": "u2912",
+          "endUid": "u2912",
+          "quote": "Seeker: Let's just like try not to be directly above the mist."
+        },
+        {
+          "startUid": "u2913",
+          "endUid": "u2913",
+          "quote": "Delwath: Yeah, that's probably a good idea."
+        },
+        {
+          "startUid": "u2914",
+          "endUid": "u2914",
+          "quote": "Seeker: Further further back."
+        },
+        {
+          "startUid": "u2915",
+          "endUid": "u2916",
+          "quote": "DM: It's it's low lying right? So the visualization here is that you're looking at a sort of valley in the jungle."
+        },
+        {
+          "startUid": "u2917",
+          "endUid": "u2917",
+          "quote": "Seeker: Yeah."
+        },
+        {
+          "startUid": "u2918",
+          "endUid": "u2927",
+          "quote": "DM: And in this valley the bottom of the valley is filled with mist, but you can see the tops of trees swaying slightly in the non-existent breeze sticking out of the mist, and then the top of this building. But you can see sort of shadows. This looks like the sort of the analogy would be like the you know, like the Valley of Kings, or something. It's like there's a bunch of sort of monuments to to emperors. Tombs and things like that running through this valley slightly north west of the city. But the biggest seems to be Apollyon's, and the only one that sticks up above the semi opaqueness of the mists."
+        },
+        {
+          "startUid": "u2928",
+          "endUid": "u2929",
+          "quote": "DM: But you're up, you know, 500 feet or something from the ground. You're well above the mist. If you feel like flying over it. We certainly are not obligated to."
+        },
+        {
+          "startUid": "u2930",
+          "endUid": "u2930",
+          "quote": "Seeker: I think we've learned our lesson about getting the ship too close to things that we don't understand, so we'll stay a little bit."
+        },
+        {
+          "startUid": "u2931",
+          "endUid": "u2931",
+          "quote": "DM: So this is the far northwest corner of the city. This is the farthest point from the towers."
+        }
+      ],
+      "kind": "valley",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2918",
+              "endUid": "u2927",
+              "quote": "And in this valley the bottom of the valley is filled with mist, but you can see the tops of trees swaying slightly in the non-existent breeze sticking out of the mist, and then the top of this building. But you can see sort of shadows. This looks like the sort of the analogy would be like the you know, like the Valley of Kings, or something. It's like there's a bunch of sort of monuments to to emperors. Tombs and things like that running through this valley slightly north west of the city. But the biggest seems to be Apollyon's, and the only one that sticks up above the semi opaqueness of the mists."
+            },
+            {
+              "startUid": "u2928",
+              "endUid": "u2929",
+              "quote": "DM: But you're up, you know, 500 feet or something from the ground. You're well above the mist. If you feel like flying over it. We certainly are not obligated to."
+            },
+            {
+              "startUid": "u2930",
+              "endUid": "u2930",
+              "quote": "Seeker: I think we've learned our lesson about getting the ship too close to things that we don't understand, so we'll stay a little bit."
+            },
+            {
+              "startUid": "u2931",
+              "endUid": "u2931",
+              "quote": "DM: So this is the far northwest corner of the city. This is the farthest point from the towers."
+            }
+          ],
+          "note": "The tomb valley is described slightly northwest of the city and also at its far northwest corner; the precise urban boundary remains open."
+        }
+      ]
+    },
+    "p14": {
+      "label": "Apollyon’s tomb and prison",
+      "evidence": [
+        {
+          "startUid": "u2885",
+          "endUid": "u2899",
+          "quote": "Standing in the middle of this depression, you see depicted—you see what was depicted in the illustrations that Nuzkar recovered from the report of the Aagiri. This large—and again, you can really only see the top of it around the mist. The mist seems to cover more ground than it did 370 years ago. But sticking out from these red mists, you can see the top of this dome. Like like the top of the Capitol or something like that. It's that kind of like marble column circle around the top. And it's this seems to be the center of the billowing mists, and where this evil will is coming from."
+        },
+        {
+          "startUid": "u2900",
+          "endUid": "u2909",
+          "quote": "DM: Slightly isolated from the rest of the city by this like rise of hills that that run sort of northeast southwest. Sorry, north—yeah. Northeast, southwest, like from the river. And of course you can see the river around right, like the river runs in a sort of serpentine way like this rise, and then I'm so northwest of this rise is is what seems to be Apollyon's tomb and prison."
+        }
+      ],
+      "kind": "temple/prison",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Apollyon's Temple.md",
+      "note": "The transcript calls this a tomb/prison; the verified vault page calls it Apollyon’s Temple. The party sees its dome above the mists and does not enter.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2918",
+              "endUid": "u2927",
+              "quote": "And in this valley the bottom of the valley is filled with mist, but you can see the tops of trees swaying slightly in the non-existent breeze sticking out of the mist, and then the top of this building. But you can see sort of shadows. This looks like the sort of the analogy would be like the you know, like the Valley of Kings, or something. It's like there's a bunch of sort of monuments to to emperors. Tombs and things like that running through this valley slightly north west of the city. But the biggest seems to be Apollyon's, and the only one that sticks up above the semi opaqueness of the mists."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Air above the western edge of Drankor",
+      "evidence": [
+        {
+          "startUid": "u2978",
+          "endUid": "u2988",
+          "quote": "As you find yourself now on the western edge of the city, the red mists in Apollyon's tomb to the northeast; the Grand Plaza and the temple of the divine—the 8 divines to the sort of southeast, and then the expanse of the jungle, broken by these kind of occasional towers and and domes that stick up from the canopies of the trees and small glimpses of the forest. You're about a mile and a half from the tower and the docks. It's up to you where you want to land and what your approach is going to be. Anybody."
+        }
+      ],
+      "kind": "aerial position",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2978",
+              "endUid": "u2988",
+              "quote": "As you find yourself now on the western edge of the city, the red mists in Apollyon's tomb to the northeast; the Grand Plaza and the temple of the divine—the 8 divines to the sort of southeast, and then the expanse of the jungle, broken by these kind of occasional towers and and domes that stick up from the canopies of the trees and small glimpses of the forest. You're about a mile and a half from the tower and the docks. It's up to you where you want to land and what your approach is going to be. Anybody."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Air above the river, about fifteen miles south of Drankor",
+      "evidence": [
+        {
+          "startUid": "u2379",
+          "endUid": "u2389",
+          "quote": "And over the course of 12 h, ending around 7 in the morning, as you wake up and look across the jungle, now about 15 miles from the city of Drankor, a second copy of Delwath leaps up from where pile of ice and snow once was. And you look across the jungle. And you can see the the line of the river now, winding below you and stretching off to the west."
+        },
+        {
+          "startUid": "u2390",
+          "endUid": "u2408",
+          "quote": "DM: From the from the shores of the river, you can—I mean, this is all like a pretty dense jungle, but you can see bits of the ruined city poking out. Now, as you're close enough, you can see what you guess must be the tallest of what the report you saw described as the teeth of Drankor standing 200 feet tall or more—it's hard to judge—but above the trees, with the crystal dome, and on its top tinted in blue and gold, still standing intact. You can see the line of the docks just in the distance, not the full like the river twists, and you can't see the. You can't see the full extent of the docks, but you can see a part of a clearing where the trees don't approach to the river. And there's this long, wide promenade, this marble road that runs along the edge of the river. Still gleaming seeming as new."
+        },
+        {
+          "startUid": "u2409",
+          "endUid": "u2421",
+          "quote": "DM: Turning your gaze inland, you can see it's mostly trees, but you see you know the occasional tower or dome poking out from the trees that is still intact. And one much bigger than any temple you've seen before you know. It's sort of like the the dome of the Duomo, but even bigger than that, standing and stretching still intact. The trees clear around it. This must be the dome of the Temple of the 8 Divines, that where Rai was."
+        },
+        {
+          "startUid": "u2422",
+          "endUid": "u2429",
+          "quote": "DM: And you can see just in a few places through the trees this road that leads from the docks inland to this great plaza. Huge open space that where no trees grow which you can. Still, you can see from your perspective here maybe half a mile inland. It's a fairly compact city."
+        },
+        {
+          "startUid": "u2430",
+          "endUid": "u2448",
+          "quote": "DM: Okay this grand open plaza with you can't really see the details at this distance. Right? You just see this open space. And you see in places you don't. You don't see any, you know, whatever was described as this grand tomb, at least at least not from here. But there is a a. There's the plaza, and then there's a bit of a rise of the land, and then there's more of the city behind this sort of rise of the land, perhaps, and you do. You do see places where there are like, there's mists hanging around the trees, sitting on the water are tinged reddish in places. Some of this is probably just the dawn of the jungle. But clearly there's also lingering patches of this sort of plague echoes that you saw and avoided and heard about from the dragonets on the circular island, but seemed to also spread throughout this ruined city."
+        },
+        {
+          "startUid": "u2449",
+          "endUid": "u2453",
+          "quote": "DM: So you are now as dawn breaks about 15 miles away almost directly due south above the river, probably visible if anybody's watching."
+        }
+      ],
+      "kind": "aerial position",
+      "relations": [
+        {
+          "relation": "south_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2449",
+              "endUid": "u2453",
+              "quote": "So you are now as dawn breaks about 15 miles away almost directly due south above the river, probably visible if anybody's watching."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Hovering position a little over a mile from Drankor",
+      "evidence": [
+        {
+          "startUid": "u2768",
+          "endUid": "u2769",
+          "quote": "Puts the ship in reverse, and like waits hovering a little more than a mile from the city."
+        }
+      ],
+      "kind": "aerial position",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2768",
+              "endUid": "u2769",
+              "quote": "Puts the ship in reverse, and like waits hovering a little more than a mile from the city."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0044"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Wellby",
+        "Milo",
+        "Tilly",
+        "returning halfling sailors"
+      ],
+      "reading": "Seeker, Delwath, Kenzo, Wellby, Milo, Tilly and the returning sailors leave the storm and reach Vindristjarna’s deck.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0017",
+          "quote": "Yeah. Okay. So we pick up as the damaged and then repaired folding boat crewed by Milo and Tilly, and their halfling sailors, emerges out of the storm to find Vindristjarna waiting, hovering above the the churning sea."
+        },
+        {
+          "startUid": "u0018",
+          "endUid": "u0026",
+          "quote": "And you can see as you fly or animate the boat and have it fly, or however you choose to reach the deck of Vindristjarna, the crew, having watched you emerge from the storm has gathered in waiting, looming over the water. You don't see Faldrak. He is presumably at the helm, but as you land you see him emerging quickly."
+        },
+        {
+          "startUid": "u0040",
+          "endUid": "u0044",
+          "quote": "Everybody else the rest of the crew is—(I can close that)—is, is sort of emerges onto the deck slowly in the afternoon sun as the folding boat lands, and Milo and Tilly disembark with the rest of the party."
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "note": "The means of lifting the folding boat is left as alternative narration; no particular animation or flight spell is asserted."
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0027",
+        "endUid": "u0039"
+      },
+      "actors": [
+        "Riswynn",
+        "Kethra"
+      ],
+      "reading": "Riswynn and Kethra are already waiting aboard Vindristjarna when the others return.",
+      "evidence": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0039",
+          "quote": "And Riswynn— returned with Kethra standing waiting for you, Riswynn. You see, you haven't been here before, but there is a massive storm that just emerges out of the calm sea, clearly supernatural in origin, which Faldrak explained to you when you arrived yesterday evening. The rest of the party, in his words, daringly and perhaps foolheartedly, sailed straight into it. Dispel—it is impenetrable to magic. So the ship could not fly in. Although he has been scheming for various ways, for when they need rescuing. \"I have to be prepared.\" But fortunately that has not turned out to be necessary."
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "above",
+          "target": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0045",
+        "endUid": "u0058"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the ship the reunited party sees the coast and a river mouth roughly fifty to sixty miles away.",
+      "evidence": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0058",
+          "quote": "So and this is now this is, let's say it's around one p.m. or so late, after just after lunch, mid afternoon in the tropics other than the strange magical storm. A warm, humid day, thunderclouds forming on the horizon for the frequent afternoon rainstorms that often pass through around, 2 or 3 heading for land. The rest of the—the rest of the ocean stretching so you can see the coast maybe 60 miles off, 50 miles off, not not super far. It's not an incredibly long journey to reach the coast. And it's this line of trees and jungle, and you can see the mouth of a river. That is presumably the river on which Drankor sits further inland."
+        },
+        {
+          "startUid": "u1165",
+          "endUid": "u1174",
+          "quote": "Yeah, it's mostly gold. It's not going to really be affected by rain. So the ship begins to move. You can see. I mean, you can see the coastline right? You're high enough up. It's only 60 miles away. The coast is visible, and you begin to depart the storm and travel across, the still strangely wavy sea, despite the, you know, mostly blue clouds, although passing thunderstorms right now. Heading for the mouth of the Istaros, the river that goes all the way to Isingue and north, on which Drankor sits."
+        }
+      ],
+      "place": "p04",
+      "mode": "local",
+      "observerPlace": "p02",
+      "note": "The opening presumes this is Drankor’s river; the departure narration later names it Istaros."
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0811",
+        "endUid": "u0850"
+      },
+      "actors": [
+        "Willow",
+        "Mica"
+      ],
+      "reading": "Willow and Mica ask to stay aboard, and the party accepts them.",
+      "evidence": [
+        {
+          "startUid": "u0811",
+          "endUid": "u0824",
+          "quote": "However— as they're preparing to leave, and getting ready to go, 2 of the crew come up to you and and ask if they could stay for at least a short time with you, they're— you know— on the older 2 halflings, obviously on the older side of middle aged, a married couple. Man and a woman, the woman introduces herself as Willow Copperharp. Her husband is Mica. She's— a storyteller and a poet, and a sailor too obviously."
+        },
+        {
+          "startUid": "u0825",
+          "endUid": "u0837",
+          "quote": "DM: And and she— she speaks. She talks to you about you know this is a— this is a moment— that somebody must be there to witness the tale and share your story. She's afraid for Wellby and for herself, you, and for you the rest of you. Okay. And she sometimes sees things in the past, the death that rained down from Drankor. She's fairly religious as halflings go. She talks about the 1st ones a lot, but— You know she wants to be there at least for a few weeks, and then see what happens."
+        },
+        {
+          "startUid": "u0838",
+          "endUid": "u0847",
+          "quote": "DM: Her husband, Mica, is like her complete opposite. He is sort of a joker. Good with his hands, a drummer. A brewer. Not particularly— you know. He's certainly not a poet or a storyteller right? And he's actually bonded a bit with Faldrak of all people, and really just wants to see. See what's out there, you know, not is not planning on going in to Drankor but getting close to Drankor you know, nobody has done that. So if you'll have them, they'd like to stay for a couple weeks and then see where fate takes them."
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0848",
+          "quote": "Seeker: It's a big ship. I think we could use the hands."
+        },
+        {
+          "startUid": "u0849",
+          "endUid": "u0849",
+          "quote": "It's a big ship were the exact words. Going into my head."
+        },
+        {
+          "startUid": "u0850",
+          "endUid": "u0850",
+          "quote": "Delwath: Yep."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0851",
+        "endUid": "u0860"
+      },
+      "actors": [
+        "Milo",
+        "Tilly",
+        "departing halfling sailors"
+      ],
+      "reading": "Milo and Tilly leave Vindristjarna aboard the folding boat, intending to sail west to find their former crew.",
+      "evidence": [
+        {
+          "startUid": "u0777",
+          "endUid": "u0793",
+          "quote": "They— Milo's, you know, says, \"Well, you know what? We're going to head west 1st and hopefully get some news, maybe get a message at least, or track down the crew that they left behind on the Storm Dancer when they dived underwater to investigate the city of Omi, you know the crew they left behind. It was like a month that they were trapped, at least, if not longer. So, you know they've probably scattered, but at least get word that they're alive. But he says we don't intend to spend long there. Outfit a new ship as quickly as possible, and then sail who knows where. Unless he says, everything goes south on your mission in Drankor, in which case we'll flee south and raise an army and see what we can do.\""
+        },
+        {
+          "startUid": "u0851",
+          "endUid": "u0860",
+          "quote": "So you get settled. You say your goodbyes. Milo and Tilly sail off on the ship on the folding boat. Quiet settles over the group as you begin to contemplate your next move which must presumably be heading for Drankor, but exactly how and what you intend is part of the sort of role-playing objective for the evening."
+        }
+      ],
+      "from": "p02",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p01",
+      "note": "Arrival is aboard the departing boat, not at the intended western islands; no later destination arrival is recorded."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1141",
+        "endUid": "u1174"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party flies aboard Vindristjarna from the southern ocean across the coast and inland above the Istaros/jungle, reaching a position fifteen miles south of Drankor by the next morning.",
+      "evidence": [
+        {
+          "startUid": "u1141",
+          "endUid": "u1141",
+          "quote": "Faldrak goes and sets a course."
+        },
+        {
+          "startUid": "u1157",
+          "endUid": "u1163",
+          "quote": "So the ship begins to move as the rain clouds finally break and a brief afternoon thunderstorm breaks out. Everybody retreats inside, the giant pile of treasure still, partially sitting on the deck as the rain falls."
+        },
+        {
+          "startUid": "u1165",
+          "endUid": "u1174",
+          "quote": "Yeah, it's mostly gold. It's not going to really be affected by rain. So the ship begins to move. You can see. I mean, you can see the coastline right? You're high enough up. It's only 60 miles away. The coast is visible, and you begin to depart the storm and travel across, the still strangely wavy sea, despite the, you know, mostly blue clouds, although passing thunderstorms right now. Heading for the mouth of the Istaros, the river that goes all the way to Isingue and north, on which Drankor sits."
+        },
+        {
+          "startUid": "u1564",
+          "endUid": "u1577",
+          "quote": "You're sitting around talking at dinner, as the ship now crosses, after sunset, from the ocean to the land near the mouth of this giant river, as you begin to travel, following the river, for now. Inland towards Drankor, probably 12 h away. So you'd if you just kept going, you'd reach there a couple hours after dawn. Maybe 8 in the morning. That you still have some time to decide what to do. You'll be 20 miles away at dawn. Sun rises. Yeah."
+        },
+        {
+          "startUid": "u1585",
+          "endUid": "u1590",
+          "quote": "Yeah, that would. That would take 16 would take an extra 24 min. That's not that long. So you rest for the night, as the ship continues to travel, in a straight path over the jungles, towards the city of Drankor."
+        },
+        {
+          "startUid": "u2379",
+          "endUid": "u2389",
+          "quote": "And over the course of 12 h, ending around 7 in the morning, as you wake up and look across the jungle, now about 15 miles from the city of Drankor, a second copy of Delwath leaps up from where pile of ice and snow once was. And you look across the jungle. And you can see the the line of the river now, winding below you and stretching off to the west."
+        },
+        {
+          "startUid": "u2449",
+          "endUid": "u2453",
+          "quote": "So you are now as dawn breaks about 15 miles away almost directly due south above the river, probably visible if anybody's watching."
+        }
+      ],
+      "from": "p03",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p02",
+      "route": [
+        {
+          "reading": "Cross the coastline after sunset and follow the river inland.",
+          "place": "p04"
+        },
+        {
+          "reading": "Continue over jungle and the Istaros toward Drankor.",
+          "place": "p05"
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "at",
+          "target": "p16"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1795",
+        "endUid": "u1818"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath’s earlier scry shows the Seeker, Riswynn and Kenzo doubles standing on the docks, with neither Wellby nor Delwath visible.",
+      "evidence": [
+        {
+          "startUid": "u1795",
+          "endUid": "u1795",
+          "quote": "Wait. What happened to my scry of Seeker?"
+        },
+        {
+          "startUid": "u1796",
+          "endUid": "u1796",
+          "quote": "DM: When are you scrying? Yeah, that it Seeker failed."
+        },
+        {
+          "startUid": "u1797",
+          "endUid": "u1797",
+          "quote": "Delwath: That was last night. That was before we even did anything."
+        },
+        {
+          "startUid": "u1798",
+          "endUid": "u1805",
+          "quote": "DM: Okay, Seeker and Riswynn and Kenzo are standing on the docks. Looking sort of glassy eyed a little bit, staring out at the river. You do not see Wellby or Delwath."
+        },
+        {
+          "startUid": "u1809",
+          "endUid": "u1811",
+          "quote": "They're just standing there, I mean, I'll watch for 10 min. Is there anything interesting? Is there any other things moving around that I can see like there's no like zombies crawling up out of the river, or anything. Are there?"
+        },
+        {
+          "startUid": "u1812",
+          "endUid": "u1814",
+          "quote": "DM: Not not at the docks. No. Yeah, they don't. They don't. I mean, they don't seem to be doing much like they're just kind of standing there like they're not even really talking."
+        },
+        {
+          "startUid": "u1815",
+          "endUid": "u1816",
+          "quote": "Delwath: The right— half deactivated."
+        },
+        {
+          "startUid": "u1817",
+          "endUid": "u1818",
+          "quote": "DM: They're like, yeah, they're like, half deactivated. Standby mode."
+        }
+      ],
+      "place": "p07",
+      "mode": "remote",
+      "observerPlace": "p02",
+      "observedActors": [
+        "Seeker’s doppelganger",
+        "Riswynn’s doppelganger",
+        "Kenzo’s doppelganger"
+      ],
+      "note": "The table places this resolved scry on the previous evening/night during the voyage."
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u2390",
+        "endUid": "u2453"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From fifteen miles south the party sees the ruined city, a surviving tower, the docks, the temple dome and the open plaza through the jungle.",
+      "evidence": [
+        {
+          "startUid": "u2390",
+          "endUid": "u2408",
+          "quote": "From the from the shores of the river, you can—I mean, this is all like a pretty dense jungle, but you can see bits of the ruined city poking out. Now, as you're close enough, you can see what you guess must be the tallest of what the report you saw described as the teeth of Drankor standing 200 feet tall or more—it's hard to judge—but above the trees, with the crystal dome, and on its top tinted in blue and gold, still standing intact. You can see the line of the docks just in the distance, not the full like the river twists, and you can't see the. You can't see the full extent of the docks, but you can see a part of a clearing where the trees don't approach to the river. And there's this long, wide promenade, this marble road that runs along the edge of the river. Still gleaming seeming as new."
+        },
+        {
+          "startUid": "u2409",
+          "endUid": "u2421",
+          "quote": "DM: Turning your gaze inland, you can see it's mostly trees, but you see you know the occasional tower or dome poking out from the trees that is still intact. And one much bigger than any temple you've seen before you know. It's sort of like the the dome of the Duomo, but even bigger than that, standing and stretching still intact. The trees clear around it. This must be the dome of the Temple of the 8 Divines, that where Rai was."
+        },
+        {
+          "startUid": "u2422",
+          "endUid": "u2429",
+          "quote": "DM: And you can see just in a few places through the trees this road that leads from the docks inland to this great plaza. Huge open space that where no trees grow which you can. Still, you can see from your perspective here maybe half a mile inland. It's a fairly compact city."
+        },
+        {
+          "startUid": "u2430",
+          "endUid": "u2448",
+          "quote": "DM: Okay this grand open plaza with you can't really see the details at this distance. Right? You just see this open space. And you see in places you don't. You don't see any, you know, whatever was described as this grand tomb, at least at least not from here. But there is a a. There's the plaza, and then there's a bit of a rise of the land, and then there's more of the city behind this sort of rise of the land, perhaps, and you do. You do see places where there are like, there's mists hanging around the trees, sitting on the water are tinged reddish in places. Some of this is probably just the dawn of the jungle. But clearly there's also lingering patches of this sort of plague echoes that you saw and avoided and heard about from the dragonets on the circular island, but seemed to also spread throughout this ruined city."
+        },
+        {
+          "startUid": "u2449",
+          "endUid": "u2453",
+          "quote": "DM: So you are now as dawn breaks about 15 miles away almost directly due south above the river, probably visible if anybody's watching."
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "at",
+          "target": "p16"
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u2465",
+        "endUid": "u2502"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath scries his double in the glass-domed chamber at the top of the surviving tower, amid six runic controls.",
+      "evidence": [
+        {
+          "startUid": "u2465",
+          "endUid": "u2466",
+          "quote": "Yeah, I mean, I was gonna scry. Wait, did you? I was gonna scry Wellby, or Delwath. Wellby and Delwath are the ones we couldn't see right. I'm gonna scry Delwath."
+        },
+        {
+          "startUid": "u2476",
+          "endUid": "u2483",
+          "quote": "Fails. Delwath is sitting in what looks like an open room. Blue and gold light shining down through a tinted glass ceiling. Looking out at the river."
+        },
+        {
+          "startUid": "u2484",
+          "endUid": "u2484",
+          "quote": "Seeker: He's on the top of one of the teeth."
+        },
+        {
+          "startUid": "u2485",
+          "endUid": "u2494",
+          "quote": "DM: Also just kind of sitting, although there's a a number of like strange arcane there's like 6 circles that all are like sort of Runic. Mad—obviously magic— all around him. And he's sitting in the middle of these 6 circles. Just again, kind of semi shut down, but actually looking sort of vaguely in your direction, like looking south down the river."
+        },
+        {
+          "startUid": "u2495",
+          "endUid": "u2495",
+          "quote": "Delwath: Can I tell what the circles do like? Do they have any meaningful words or?"
+        },
+        {
+          "startUid": "u2496",
+          "endUid": "u2497",
+          "quote": "DM: There's there's nothing getting. These are obviously like some buttons to control buttons or something."
+        },
+        {
+          "startUid": "u2498",
+          "endUid": "u2499",
+          "quote": "Delwath: Wow. Got it."
+        },
+        {
+          "startUid": "u2500",
+          "endUid": "u2500",
+          "quote": "DM: They're like little—he's sitting in the middle. He's like 6 little—"
+        },
+        {
+          "startUid": "u2501",
+          "endUid": "u2501",
+          "quote": "Delwath: How high up is that?"
+        },
+        {
+          "startUid": "u2502",
+          "endUid": "u2502",
+          "quote": "DM: It's about 200 feet."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p02",
+      "observedActors": [
+        "Delwath’s doppelganger"
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u2575",
+        "endUid": "u2585"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo senses Wellby’s double hiding among the ruined warehouses/shops near the other three on the docks; Delwath’s double remains atop the tower.",
+      "evidence": [
+        {
+          "startUid": "u2575",
+          "endUid": "u2575",
+          "quote": "I will. I will focus then as well, just to try to get more resolution if I can."
+        },
+        {
+          "startUid": "u2576",
+          "endUid": "u2585",
+          "quote": "DM: Okay. So you know, 4 of them are exactly where you expect like, there's 3 on the docks, one yeah, you know, on the top of this this tower. Wellby is actually nearby to the other 3. There's a series of like where, you know buildings. There's like marble buildings. There's warehouses, there's you know, there's this long promenade. There's like shops and things. Most of these are ruined. Your sense is Wellby is hiding in these ruins in a place where he could jump out and ambush somebody who approaches."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p02",
+      "observedActors": [
+        "Wellby’s doppelganger"
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2695",
+        "endUid": "u2769"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party approaches to about a mile from Drankor, pauses as the tower charges, then reverses to hover a little farther out.",
+      "evidence": [
+        {
+          "startUid": "u2695",
+          "endUid": "u2696",
+          "quote": "Delwath short rests as the Vindristjarna creeps closer, traveling up the river."
+        },
+        {
+          "startUid": "u2697",
+          "endUid": "u2704",
+          "quote": "DM: The sky seems to grow a little dim as you approach. When you get about 5 miles out, you begin to feel this presence, this darkness pressing against you, only the light of the Bahrâzel keeping you from descending into fear and terror."
+        },
+        {
+          "startUid": "u2705",
+          "endUid": "u2711",
+          "quote": "DM: The 2 halflings who are not—the Copperharps—are like huddled in a corner, like sort of just holding each other, and, you know telling each other stories as they shiver in fear, while the rest of your crew is at least outwardly unaffected by this sense as you feel like you're pressing forward. I need some darker music here. As you feel like you're pressing forward into against some will that sets itself against your own."
+        },
+        {
+          "startUid": "u2712",
+          "endUid": "u2718",
+          "quote": "DM: You press forward for the next 20 min, 2 miles closer, 30 min. It's now maybe 8 30 in the morning. 40, 50 min pass. You're about a mile away from the city when the sky begins to darken again, and you hear a peal of thunder."
+        },
+        {
+          "startUid": "u2719",
+          "endUid": "u2720",
+          "quote": "DM: And there's a bright spot glowing where the tower sits."
+        },
+        {
+          "startUid": "u2734",
+          "endUid": "u2735",
+          "quote": "Faldrak looks over at Seeker like, \"Do we keep going, boss?\""
+        },
+        {
+          "startUid": "u2736",
+          "endUid": "u2737",
+          "quote": "Seeker: I'll say, \"Hold up! We're gonna pause here.\""
+        },
+        {
+          "startUid": "u2738",
+          "endUid": "u2738",
+          "quote": "DM: The ship stops."
+        },
+        {
+          "startUid": "u2765",
+          "endUid": "u2766",
+          "quote": "You're about to get hit by lightning. Yeah, that's what I was. Faldrak's asking what you want to do."
+        },
+        {
+          "startUid": "u2767",
+          "endUid": "u2767",
+          "quote": "Seeker: Back, back it up a little bit."
+        },
+        {
+          "startUid": "u2768",
+          "endUid": "u2769",
+          "quote": "DM: Puts the ship in reverse, and like waits hovering a little more than a mile from the city."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p02",
+      "note": "The lightning is threatened, not resolved as a strike. The party never reaches the tower or docks.",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "at",
+          "target": "p17"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2848",
+        "endUid": "u2988"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Vindristjarna turns west, circles the city for about twenty minutes, and reaches its western edge, away from the southeast tower.",
+      "evidence": [
+        {
+          "startUid": "u2848",
+          "endUid": "u2848",
+          "quote": "Okay. So the ship turns west."
+        },
+        {
+          "startUid": "u2849",
+          "endUid": "u2849",
+          "quote": "Riswynn: And circles the city."
+        },
+        {
+          "startUid": "u2870",
+          "endUid": "u2870",
+          "quote": "Tower is at the southeast corner of the city."
+        },
+        {
+          "startUid": "u2871",
+          "endUid": "u2871",
+          "quote": "Delwath: So let's go to the northwest corner."
+        },
+        {
+          "startUid": "u2872",
+          "endUid": "u2877",
+          "quote": "DM: Okay? So you fly around. You travel for, you know, 20 min or something like that. Flying through the jungle you can see below you. Now you're close enough. You can see this grand plaza, I mean, there's still some roads that cut through. The trees haven't overgrown the roads. It seems like there was once, I mean there's a grid. And there was all of these big like manors and villas, with courtyards that are all just wracked with trees growing through them."
+        },
+        {
+          "startUid": "u2978",
+          "endUid": "u2988",
+          "quote": "As you find yourself now on the western edge of the city, the red mists in Apollyon's tomb to the northeast; the Grand Plaza and the temple of the divine—the 8 divines to the sort of southeast, and then the expanse of the jungle, broken by these kind of occasional towers and and domes that stick up from the canopies of the trees and small glimpses of the forest. You're about a mile and a half from the tower and the docks. It's up to you where you want to land and what your approach is going to be. Anybody."
+        }
+      ],
+      "from": "p17",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p02",
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM describes the circling flight as twenty minutes or something like that."
+      },
+      "note": "The party sees the plaza, temple and tomb valley from above; the route does not establish landings or entry at any of them.",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "at",
+          "target": "p15"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2882",
+        "endUid": "u2931"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the skyship the party sees the mist-filled tomb valley and the dome of Apollyon’s prison, keeping clear of the mists.",
+      "evidence": [
+        {
+          "startUid": "u2882",
+          "endUid": "u2884",
+          "quote": "Passing, seeing the the dome of this temple of the 8 divines below you, and there's this like, rise, and you come around as you come to the northeast. You like go up over this rise, and you can see the other side of this hill. There's sort of a depression that's filled with red mist."
+        },
+        {
+          "startUid": "u2885",
+          "endUid": "u2899",
+          "quote": "DM: Standing in the middle of this depression, you see depicted—you see what was depicted in the illustrations that Nuzkar recovered from the report of the Aagiri. This large—and again, you can really only see the top of it around the mist. The mist seems to cover more ground than it did 370 years ago. But sticking out from these red mists, you can see the top of this dome. Like like the top of the Capitol or something like that. It's that kind of like marble column circle around the top. And it's this seems to be the center of the billowing mists, and where this evil will is coming from."
+        },
+        {
+          "startUid": "u2900",
+          "endUid": "u2909",
+          "quote": "DM: Slightly isolated from the rest of the city by this like rise of hills that that run sort of northeast southwest. Sorry, north—yeah. Northeast, southwest, like from the river. And of course you can see the river around right, like the river runs in a sort of serpentine way like this rise, and then I'm so northwest of this rise is is what seems to be Apollyon's tomb and prison."
+        },
+        {
+          "startUid": "u2915",
+          "endUid": "u2916",
+          "quote": "It's it's low lying right? So the visualization here is that you're looking at a sort of valley in the jungle."
+        },
+        {
+          "startUid": "u2917",
+          "endUid": "u2917",
+          "quote": "Seeker: Yeah."
+        },
+        {
+          "startUid": "u2918",
+          "endUid": "u2927",
+          "quote": "DM: And in this valley the bottom of the valley is filled with mist, but you can see the tops of trees swaying slightly in the non-existent breeze sticking out of the mist, and then the top of this building. But you can see sort of shadows. This looks like the sort of the analogy would be like the you know, like the Valley of Kings, or something. It's like there's a bunch of sort of monuments to to emperors. Tombs and things like that running through this valley slightly north west of the city. But the biggest seems to be Apollyon's, and the only one that sticks up above the semi opaqueness of the mists."
+        },
+        {
+          "startUid": "u2928",
+          "endUid": "u2929",
+          "quote": "DM: But you're up, you know, 500 feet or something from the ground. You're well above the mist. If you feel like flying over it. We certainly are not obligated to."
+        },
+        {
+          "startUid": "u2930",
+          "endUid": "u2930",
+          "quote": "Seeker: I think we've learned our lesson about getting the ship too close to things that we don't understand, so we'll stay a little bit."
+        },
+        {
+          "startUid": "u2931",
+          "endUid": "u2931",
+          "quote": "DM: So this is the far northwest corner of the city. This is the farthest point from the towers."
+        }
+      ],
+      "place": "p13",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u3369",
+        "endUid": "u3392"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Seeker prepares a teleport to the tower’s upper chamber for the party and proposed additional companions; the session ends before casting.",
+      "evidence": [
+        {
+          "startUid": "u3369",
+          "endUid": "u3373",
+          "quote": "Yeah, as you prepare Seeker gets out his one remaining die, prepares to teleport to the chamber at the top of the tower, but just—"
+        },
+        {
+          "startUid": "u3388",
+          "endUid": "u3388",
+          "quote": "Well, you could. Why don't we just do prep spells next?"
+        },
+        {
+          "startUid": "u3389",
+          "endUid": "u3389",
+          "quote": "Delwath: Yeah, yeah, I'll do it. Yeah, yeah, that makes sense."
+        },
+        {
+          "startUid": "u3390",
+          "endUid": "u3392",
+          "quote": "DM: Let's end there hanging over the city of Drankor, about to teleport into the lightning tower that defends the city from all attacks."
+        }
+      ],
+      "from": "p02",
+      "to": "p09",
+      "completion": "planned",
+      "context": "planned",
+      "mode": "teleport",
+      "note": "Prep spells are deferred. Ladder, the new Delwath simulacrum and a proposed construct are discussed as passengers; their teleportation is not established."
+    }
+  ]
+}
