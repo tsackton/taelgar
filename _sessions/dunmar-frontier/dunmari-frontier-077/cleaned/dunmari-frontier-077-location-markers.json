@@ -1,0 +1,658 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-077",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-session.yaml",
+    "sessionYamlSha256": "d2ee67dccacf80b5f06b60df0a344384976b0bd4350d2c082f5b53029429420c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-transcript.md",
+    "transcriptSha256": "dc94ed0070fc4aa7009b8297803c7524c66186b799e973b3c5c55d76a995290f"
+  },
+  "places": {
+    "p01": {
+      "label": "airship",
+      "kind": "vessel",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0008",
+          "quote": "we begin as you've returned to the airship."
+        },
+        {
+          "startUid": "u0233",
+          "endUid": "u0245",
+          "quote": "a little bit outside the city gates"
+        }
+      ]
+    },
+    "p02": {
+      "label": "Uzgukhar",
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md",
+      "evidence": [
+        {
+          "startUid": "u0009",
+          "endUid": "u0011",
+          "quote": "the city of Uzgukhar stretches"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u0451",
+              "endUid": "u0466",
+              "quote": "the villages across Xurkhaz"
+            },
+            {
+              "startUid": "u1096",
+              "endUid": "u1100",
+              "quote": "as they cross into our kingdom"
+            }
+          ],
+          "note": "Realm inferred from Azogar’s named homeland and the current court’s references to its kingdom; verified vault identities corroborate that setting."
+        }
+      ]
+    },
+    "p03": {
+      "label": "palace",
+      "kind": "building",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0948",
+              "endUid": "u0952",
+              "quote": "You pass through the city."
+            },
+            {
+              "startUid": "u0948",
+              "endUid": "u0952",
+              "quote": "this plaza in front, which is like the big, open central part of the city that you walk through."
+            }
+          ]
+        }
+      ],
+      "note": "This session places the garden below the throne room; Uzgukhar’s modern reference note instead describes a roof garden and underground apartments.",
+      "evidence": [
+        {
+          "startUid": "u0012",
+          "endUid": "u0022",
+          "quote": "Uzgukhar from the air is dominated by the palace, where you were."
+        },
+        {
+          "startUid": "u0948",
+          "endUid": "u0952",
+          "quote": "So you arrive at the palace."
+        }
+      ]
+    },
+    "p04": {
+      "label": "throne room / dinner hall",
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0953",
+              "endUid": "u0957",
+              "quote": "The first, the ground floor of the palace"
+            },
+            {
+              "startUid": "u0953",
+              "endUid": "u0957",
+              "quote": "are taken up one floor"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0953",
+          "endUid": "u0957",
+          "quote": "the same hall that you met the chief in before, but now it's set with a relatively small table for dinner."
+        },
+        {
+          "startUid": "u1589",
+          "endUid": "u1593",
+          "quote": "You're in the throne room"
+        }
+      ]
+    },
+    "p05": {
+      "label": "upper palace rooms and corridors",
+      "kind": "rooms",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1619",
+              "endUid": "u1621",
+              "quote": "you take a tour of the palace."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1619",
+          "endUid": "u1621",
+          "quote": "you take a tour of the palace."
+        },
+        {
+          "startUid": "u1628",
+          "endUid": "u1632",
+          "quote": "there's also a whole garden level below this"
+        }
+      ]
+    },
+    "p06": {
+      "label": "desert camp seen through Hektor",
+      "kind": "camp",
+      "note": "The scry establishes no identifiable location or distance from Uzgukhar.",
+      "evidence": [
+        {
+          "startUid": "u1002",
+          "endUid": "u1007",
+          "quote": "A a campfire. It's it's night at this point, at the- you know, in the desert."
+        },
+        {
+          "startUid": "u1037",
+          "endUid": "u1040",
+          "quote": "you're just getting the camp fire."
+        }
+      ]
+    },
+    "p07": {
+      "label": "dark room used to retrieve the mirror",
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2148",
+              "endUid": "u2154",
+              "quote": "in the palace before turning in, you return to the— Return again to the throne room"
+            },
+            {
+              "startUid": "u2152",
+              "endUid": "u2154",
+              "quote": "Wellby sneaks off to take out the mirror"
+            }
+          ]
+        }
+      ],
+      "note": "The dark retrieval room is not identified with a particular bedroom on the tactical map.",
+      "evidence": [
+        {
+          "startUid": "u1939",
+          "endUid": "u1941",
+          "quote": "Wellby goes into a dark room or something. Yes, yes."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Lubash’s bedroom",
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2365",
+              "endUid": "u2369",
+              "quote": "He does live in a guarded palace."
+            },
+            {
+              "startUid": "u2365",
+              "endUid": "u2369",
+              "quote": "2 guards stationed in front of his door"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1810",
+          "endUid": "u1810",
+          "quote": "This is Lubash's bed chamber here."
+        },
+        {
+          "startUid": "u2328",
+          "endUid": "u2329",
+          "quote": "The bedroom is on the second floor."
+        }
+      ]
+    },
+    "p09": {
+      "label": "ground-floor garden / indoor courtyard",
+      "kind": "courtyard",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0953",
+              "endUid": "u0957",
+              "quote": "The first, the ground floor of the palace is like gardens and stuff"
+            }
+          ]
+        }
+      ],
+      "note": "Initially called gardens; later clarified as an indoor courtyard with a fountain, arches and plants (u2441–u2445).",
+      "evidence": [
+        {
+          "startUid": "u0953",
+          "endUid": "u0957",
+          "quote": "The first, the ground floor of the palace is like gardens and stuff"
+        },
+        {
+          "startUid": "u2441",
+          "endUid": "u2445",
+          "quote": "So the way I imagine this palace is like, there's there's like domes and arches everywhere."
+        },
+        {
+          "startUid": "u2441",
+          "endUid": "u2445",
+          "quote": "There aren't really gardens probably, it's more like, you know, indoor plants."
+        }
+      ]
+    },
+    "p10": {
+      "label": "palace escape tunnel",
+      "kind": "tunnel",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2323",
+              "endUid": "u2324",
+              "quote": "through the hallway, and then through the garden into the stair."
+            }
+          ]
+        }
+      ],
+      "note": "Exit is corrected from outside to just inside the city walls by a door. A new bedroom trapdoor and Lubash’s hiding position remain plans.",
+      "evidence": [
+        {
+          "startUid": "u2310",
+          "endUid": "u2311",
+          "quote": "they do have an escape route from the from the palace."
+        },
+        {
+          "startUid": "u2485",
+          "endUid": "u2489",
+          "quote": "it exits from the palace and comes out just outside the city walls."
+        },
+        {
+          "startUid": "u2489",
+          "endUid": "u2489",
+          "quote": "I think this one would exit just inside the city walls."
+        }
+      ]
+    },
+    "p11": {
+      "label": "Xurkhaz",
+      "kind": "realm",
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Xurkhaz.md",
+      "evidence": [
+        {
+          "startUid": "u0459",
+          "endUid": "u0466",
+          "quote": "the villages across Xurkhaz"
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0022"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party has returned to the airship, hovering just outside Uzgukhar’s gates.",
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "outside",
+          "target": "p02"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0008",
+          "quote": "we begin as you've returned to the airship."
+        },
+        {
+          "startUid": "u0233",
+          "endUid": "u0245",
+          "quote": "you are parked, hovering, not, I assumed, super high in the air, a little bit outside the city gates"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0258",
+        "endUid": "u0263"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Murook greets the party aboard; Kenzo is off meditating and is not established in the initial exchange.",
+      "place": "p01",
+      "evidence": [
+        {
+          "startUid": "u0258",
+          "endUid": "u0263",
+          "quote": "greets you all acknowledging the previous meeting with Delwath, Riswynn, Wellby and Kenzo, who's like off doing some meditating, or something"
+        },
+        {
+          "startUid": "u0314",
+          "endUid": "u0318",
+          "quote": "Kenzo canonically not in the scene? I think he is not in the scene."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0911",
+        "endUid": "u0962"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All five walk through Uzgukhar’s central plaza and the palace’s ground-floor garden to the upstairs dinner hall.",
+      "from": "p01",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass through the city and central plaza.",
+          "place": "p02"
+        },
+        {
+          "reading": "Pass through the ground-floor garden.",
+          "place": "p09"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0911",
+          "endUid": "u0911",
+          "quote": "we're on our way to dinner."
+        },
+        {
+          "startUid": "u0948",
+          "endUid": "u0952",
+          "quote": "So you arrive at the palace."
+        },
+        {
+          "startUid": "u0953",
+          "endUid": "u0957",
+          "quote": "are taken up one floor"
+        },
+        {
+          "startUid": "u0960",
+          "endUid": "u0962",
+          "quote": "plus the 5 of you."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u1002",
+        "endUid": "u1040"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath scries Hektor at a dark desert camp, where Kadmos, Casian and an older wizard woman appear to plan together; the camp’s location is unknown.",
+      "place": "p06",
+      "mode": "remote",
+      "observerPlace": "p04",
+      "observedActors": [
+        "Hektor",
+        "Kadmos",
+        "Casian",
+        "older wizard woman"
+      ],
+      "note": "Others can see only a vague watery image (u1031–u1032), so the detailed observation is scoped to Delwath.",
+      "evidence": [
+        {
+          "startUid": "u1002",
+          "endUid": "u1007",
+          "quote": "Hektor is sitting just slowly staring off into space as he aimlessly chews some jerky"
+        },
+        {
+          "startUid": "u1008",
+          "endUid": "u1010",
+          "quote": "Kadmos and Casian are engaged in conversation with the older woman"
+        },
+        {
+          "startUid": "u1037",
+          "endUid": "u1040",
+          "quote": "you're just getting the camp fire."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1619",
+        "endUid": "u1632"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party tours the palace’s upper rooms and corridors with Murook and two trusted guards.",
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u1619",
+          "endUid": "u1621",
+          "quote": "you take a tour of the palace."
+        },
+        {
+          "startUid": "u1628",
+          "endUid": "u1632",
+          "quote": "They're showing you stuff."
+        },
+        {
+          "startUid": "u1700",
+          "endUid": "u1704",
+          "quote": "Murook is touring with 2 of her trusted guards"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1840",
+        "endUid": "u1842"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the throne room, where Lubash and Azogar are at a fire.",
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1840",
+          "endUid": "u1842",
+          "quote": "as we return back to the— Back to the throne room"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2148",
+        "endUid": "u2154"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby retrieves the mirror away from the throne room, then presents it to the assembled group.",
+      "from": "p04",
+      "to": "p04",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Retrieve the mirror in a dark room away from the assembled group.",
+          "place": "p07"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1939",
+          "endUid": "u1941",
+          "quote": "Wellby goes into a dark room or something. Yes, yes."
+        },
+        {
+          "startUid": "u2152",
+          "endUid": "u2154",
+          "quote": "Wellby sneaks off to take out the mirror and you summon the orc"
+        },
+        {
+          "startUid": "u2158",
+          "endUid": "u2160",
+          "quote": "sees you all and Lubash"
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2194",
+        "endUid": "u2197"
+      },
+      "actors": [
+        "rescued orc woman"
+      ],
+      "reading": "The woman is released from the mirror into Lubash’s presence in the throne room.",
+      "from": null,
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "magical release",
+      "evidence": [
+        {
+          "startUid": "u2194",
+          "endUid": "u2194",
+          "quote": "Released."
+        },
+        {
+          "startUid": "u2195",
+          "endUid": "u2197",
+          "quote": "She she sort of falls out of the mirror"
+        },
+        {
+          "startUid": "u2195",
+          "endUid": "u2197",
+          "quote": "kneels down in front of Lubash"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2463",
+        "endUid": "u2494"
+      },
+      "actors": [
+        "Lubash"
+      ],
+      "reading": "Plan to hide Lubash with the real cloak in the tunnel, with a decoy in his bedroom and the airship at the escape exit.",
+      "context": "planned",
+      "from": "p04",
+      "to": "p10",
+      "completion": "planned",
+      "note": "The secret bedroom connection and defensive placement have not been constructed or occupied in the recorded play.",
+      "evidence": [
+        {
+          "startUid": "u2474",
+          "endUid": "u2476",
+          "quote": "That he's carrying in the tunnel."
+        },
+        {
+          "startUid": "u2482",
+          "endUid": "u2483",
+          "quote": "we have the airship as our getaway vehicle at the other end of the tunnel."
+        },
+        {
+          "startUid": "u2489",
+          "endUid": "u2492",
+          "quote": "I think this one would exit just inside the city walls."
+        },
+        {
+          "startUid": "u2494",
+          "endUid": "u2494",
+          "quote": "We have a plan."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2495",
+        "endUid": "u2496"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the airship to rest.",
+      "from": "p03",
+      "to": "p01",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u2495",
+          "endUid": "u2496",
+          "quote": "as you all return to the airship to rest"
+        }
+      ]
+    }
+  ]
+}

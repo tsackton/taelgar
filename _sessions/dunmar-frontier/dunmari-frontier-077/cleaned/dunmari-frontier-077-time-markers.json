@@ -1,0 +1,235 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-077",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-session.yaml",
+    "sessionYamlSha256": "d2ee67dccacf80b5f06b60df0a344384976b0bd4350d2c082f5b53029429420c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-transcript.md",
+    "transcriptSha256": "dc94ed0070fc4aa7009b8297803c7524c66186b799e973b3c5c55d76a995290f",
+    "yamlDates": {
+      "start": "1748-12-05",
+      "end": "1748-12-06"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0230",
+        "endUid": "u0230"
+      },
+      "reading": "Half an hour has passed since the party returned to the airship.",
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM states elapsed time since arrival"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0230",
+          "endUid": "u0230",
+          "quote": "About half an hour has passed since you arrived."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0674",
+        "endUid": "u0676"
+      },
+      "reading": "After the advisors leave, dinner is about half an hour away.",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "expected palace dinner",
+          "offset": {
+            "value": 30,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM dates current plotting relative to dinner"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM countdown dates the current interval; it is not a completed half-hour"
+      },
+      "evidence": [
+        {
+          "startUid": "u0674",
+          "endUid": "u0676",
+          "quote": "you have, like another, like, half an hour before you're expected at the palace for dinner."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0809",
+        "endUid": "u0811"
+      },
+      "reading": "Ten minutes remain before the party must leave for dinner.",
+      "evidence": [
+        {
+          "startUid": "u0674",
+          "endUid": "u0676",
+          "quote": "half an hour before"
+        },
+        {
+          "startUid": "u0809",
+          "endUid": "u0811",
+          "quote": "You have about 10 min until you have to leave for dinner."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "departure for dinner",
+          "offset": {
+            "value": 10,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM countdown"
+          }
+        },
+        "precision": "approximate",
+        "basis": "Current plotting interval dated relative to departure; the two countdowns use different endpoints"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0967",
+        "endUid": "u0970"
+      },
+      "reading": "Palace dinner occurs in the evening of December 5, 1748; the concurrent desert camp is dark.",
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 5
+        },
+        "partOfDay": "evening",
+        "precision": "exact",
+        "basis": "Dinner explicitly evening; later table discussion supplies complete current date"
+      },
+      "note": "The afternoon reference dates the earlier palace audience, not a new day. The remote camp has no independently stated clock.",
+      "evidence": [
+        {
+          "startUid": "u0967",
+          "endUid": "u0970",
+          "quote": "I hope we may plan and discuss productively this evening."
+        },
+        {
+          "startUid": "u0974",
+          "endUid": "u0975",
+          "quote": "I mean, that was this afternoon."
+        },
+        {
+          "startUid": "u1002",
+          "endUid": "u1007",
+          "quote": "It's it's night at this point"
+        },
+        {
+          "startUid": "u1761",
+          "endUid": "u1764",
+          "quote": "today is the evening of December."
+        },
+        {
+          "startUid": "u1954",
+          "endUid": "u1955",
+          "quote": "And it's now December 5th, 1748."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2148",
+        "endUid": "u2149"
+      },
+      "reading": "The party has spent a couple of hours pacing and plotting in the palace before returning to the throne room.",
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM retrospective elapsed plotting interval"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2148",
+          "endUid": "u2149",
+          "quote": "as you've been pacing and plotting for the past couple of hours in the palace before turning in"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2495",
+        "endUid": "u2496"
+      },
+      "reading": "The party returns to the airship to rest; waking and next-day events are deferred.",
+      "completion": "begun",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t05"
+        },
+        "precision": "approximate",
+        "basis": "Return to rest follows palace plotting; no completed rest or waking is narrated"
+      },
+      "evidence": [
+        {
+          "startUid": "u2495",
+          "endUid": "u2496",
+          "quote": "as you all return to the airship to rest, we will pick up in the morning."
+        },
+        {
+          "startUid": "u2524",
+          "endUid": "u2525",
+          "quote": "I'll roll into my intro the events of the next day."
+        },
+        {
+          "startUid": "u2546",
+          "endUid": "u2551",
+          "quote": "fold all of the next day into"
+        }
+      ],
+      "note": "The return is narrated; sleep completion and a measured resting interval are not."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "December 5, 1748 is explicitly spoken at u1954–u1955; YAML independently records December 5–6.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t04",
+      "t05",
+      "t06"
+    ],
+    "explanation": "The played evening is dated December 5. Rest begins at the cutoff, while waking and the next day are explicitly reserved for the next session. No completed overnight establishes the YAML endpoint; missing coverage is not a contradiction."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t06"
+      ],
+      "reading": "The recorded session closes at the start of rest, before a narrated waking.",
+      "alternatives": [
+        {
+          "reading": "Use the last played evening as the boundary.",
+          "date": "1748-12-05"
+        },
+        {
+          "reading": "December 6 fits a metadata convention including the intended overnight, but completion is not established here.",
+          "date": "1748-12-06"
+        }
+      ]
+    }
+  ]
+}

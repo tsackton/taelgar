@@ -1,0 +1,2441 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "dc94ed0070fc4aa7009b8297803c7524c66186b799e973b3c5c55d76a995290f"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-entity-map.json",
+      "sha256": "8c003451588ee2e24808cec3faca461cbf77d065ffd51e6a2c6ec947893a69a3"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Different recollections of unchaining Murook",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0124",
+        "endUid": "u0159"
+      },
+      "lines": [
+        "%% u0124:0-56, u0125:0-19, u0126:0-10, u0127:0-55 %%",
+        "Delwath: They use the cloak to perform a ceremony that that frees the orcs from their from their bindings, their ch- the chains, they call it, of Thark.",
+        "",
+        "%% u0128:0-35 %%",
+        "Seeker: And some some vulnerability. Still.",
+        "",
+        "%% u0129:0-66, u0130:0-119 %%",
+        "Riswynn: I think, but I think that anyone in the community of the unchained is protected from the eyes of their God. Even out in the fields, miles away, because of the kings pacing the boundaries.",
+        "",
+        "%% u0131:0-133 %%",
+        "Riswynn: Sort of extension of the magic thing. There, there are 2 problems. There's the how do you make more un- how do you free chained orcs?",
+        "",
+        "%% u0132:0-24, u0133:0-91, u0134:0-7 %%",
+        "Delwath: And there's the— they are that their God does not like the existence of of of of unchained orcs, and is hunting them. And so—",
+        "",
+        "%% u0135:0-76, u0136:0-27, u0137:0-157, u0138:0-8 %%",
+        "Delwath: On the one hand, they need the cloak. Orcs who are born in this land are are never chained. They're fine. Who are born elsewhere, needs the cloak to be freed, need a ceremony involved, and they have to be young, right? They have to be found as infants, basically. And then—",
+        "",
+        "%% u0139:0-29 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0140:0-17 %%",
+        "Delwath: Wasn't she young?",
+        "",
+        "%% u0141:0-85, u0142:0-46, u0143:0-110 %%",
+        "Riswynn: No, I think the point was that she was young when the ceremony was done to chain her. But you get tortured as infants for their God. And so, yeah, but I didn't think they could unchain anybody. I thought, that's why they were— they grew slowly.",
+        "",
+        "%% u0144:0-32 %%",
+        "Wellby: Tim. Did we have clarity on that?",
+        "",
+        "%% u0145:0-11, u0146:0-80 %%",
+        "DM: No. I mean. Her story is in the session notes. But it's not— she was not— and she remembered—",
+        "",
+        "%% u0147:0-12 %%",
+        "Delwath: Right. Okay.",
+        "",
+        "%% u0148:0-160, u0149:0-3, u0150:0-30, u0151:0-43, u0152:0-59, u0153:0-21, u0154:0-83 %%",
+        "Delwath: So she was— she was young young. Who was she they were referring to? So, General Murook, the- there's 2 sort of the chief's 2 right-hand people, General Murook. And Murook is the general, and she was chained. She she came from the outside, and her story implies that she was young. But it's unclear. It's unclear exactly. There's not a lot of clarity as to what- how important youth is to being unchained.",
+        "",
+        "%% u0155:0-86, u0156:0-63 %%",
+        "Delwath: Delwath got the impression youth was important, and that you could just wander through a horde of orcs with the cloak and have them all just be freed.",
+        "",
+        "%% u0157:0-5 %%",
+        "((Brief joke))",
+        "",
+        "%% u0158:0-172, u0159:0-38 %%",
+        "Riswynn: Riswynn got the impression that it was just sort of the state of that person's sort of internal unrest with their God to begin with, or something that some of them would be favorable to the unchaining of someone."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: And and the cloak is protecting a space of a few miles or a hundred miles, or—",
+          "Delwath: The actual— no, power of the cloak to silence the gods is few 100 feet.",
+          "Seeker: 200 feet.",
+          "Delwath: Yeah.",
+          "Riswynn: But it—"
+        ],
+        "after": [
+          "Wellby: I have something unrelated. But I don't want to end this thread.",
+          "Unknown: So I—",
+          "Delwath: At least this is not— they, they're the general, the chief— w- what's his name? Lubash. Lubash does not wish to flee, can't really flee because it would end his civilization and can't give up the cloak because it would— It's their only hope of bringing their brethren— Their only hope of growing their—",
+          "Delwath: They wish at some level, at some dream, to see all orcs unchained, and the cloak is their only hope of doing so. So they will not, I think, wish to see it destroyed or taken.",
+          "Seeker: To— So they have their own expansionist tendency. It's just less hyperbound than the other orcs."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Azogar and Murook board and inspect the airship",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0258",
+        "endUid": "u0354"
+      },
+      "lines": [
+        "%% u0258:0-50, u0259:0-52, u0260:0-18, u0261:0-13, u0262:0-113, u0263:0-71 %%",
+        "DM: She kind of looks at Azogar walking with his cane, and scrambles. She quickly climbs up the rope ladder and greets you all acknowledging the previous meeting with Delwath, Riswynn, Wellby and Kenzo, who's like off doing some meditating, or something, and sort of gives a nod to Seeker, and says, “You must be the other dwarf.”",
+        "",
+        "%% u0264:0-7 %%",
+        "Seeker: Indeed.",
+        "",
+        "%% u0265:0-72, u0266:0-48 %%",
+        "DM: Do you have an easier way to ascend the ship? I am afraid the Loremaster no longer has the strength to climb this ladder.",
+        "",
+        "%% u0267:0-42, u0268:0-106 %%",
+        "Seeker: So I see. I think we can arrange something: perhaps I could lower the ship a bit and create a simple stone gangplank, a kind of stone ramp temporarily.",
+        "",
+        "%% u0269:0-31 %%",
+        "DM: That would be much appreciated.",
+        "",
+        "%% u0270:0-46, u0271:0-69, u0272:0-95, u0273:0-10, u0274:0-27, u0275:0-44, u0276:0-21, u0277:0-22, u0278:0-78, u0279:0-7, u0280:0-70, u0281:0-94, u0282:0-81 %%",
+        "((Considering ways to bring Azogar aboard))",
+        "",
+        "%% u0283:0-156 %%",
+        "Delwath: Impending disastrous battle that I, yeah, gotta imagine is happening. I'll be down to help you in a moment. Delwath will just step off the side of the ship.",
+        "",
+        "%% u0284:0-19 %%",
+        "((Acknowledgment))",
+        "",
+        "%% u0285:0-87, u0286:0-68, u0287:0-57 %%",
+        "Delwath: Let's see. I guess I'm going to use 2 spell slots. Why not? I'll short- full short rest— We're gonna have. We're about to eat dinner, right? Yeah. Yeah. Fine. So I'll cast Fly, down, touch him, cast Fly, fly back up.",
+        "",
+        "%% u0288:0-29, u0289:0-32 %%",
+        "((Brief aside))",
+        "",
+        "%% u0290:0-25, u0291:0-31, u0292:0-31, u0293:0-56 %%",
+        "DM: Right? Amazing! That is a quite the trick you have there. Fascinating. As as he lands, and kind of looks around [garbled]! And he looks. And this—",
+        "",
+        "%% u0294:0-43, u0295:0-21, u0296:0-13 %%",
+        "DM: How exactly does this ship stay in the air? I am surprised to see so much boat.",
+        "",
+        "%% u0297:0-66, u0298:0-23, u0299:0-12, u0300:0-32 %%",
+        "Seeker: Indeed, we are still unraveling the magical mysteries at its core. But we possess a device that through careful training we can control.",
+        "",
+        "%% u0301:0-34, u0302:0-22, u0303:0-6 %%",
+        "DM: Fascinating, and I— fascinating, up— And that lets the ship float?",
+        "",
+        "%% u0304:0-34 %%",
+        "Seeker: Float and do other things as well.",
+        "",
+        "%% u0305:0-37 %%",
+        "DM: Can I? Can I see this magical device?",
+        "",
+        "%% u0306:0-27, u0307:0-11, u0308:0-4, u0309:0-35, u0310:0-48, u0311:0-28, u0312:0-5, u0313:0-7 %%",
+        "((Checking whether Kenzo can inspect the visitors))",
+        "",
+        "%% u0314:0-191, u0315:0-126, u0316:0-5, u0317:0-130, u0318:0-48 %%",
+        "Seeker: Well, I mean these- I I look around and make eye contact meaningfully like these Rainbow orcs. I haven't spent time with them, but you have. They're our friends, right? I'm saying implicitly. ((Kenzo is elsewhere))Well, Seeker just sort of nods to himself like, I'll just. I'll just be a little careful about it. I won't. I won't spill all the beans. But also won't be able to resist showing off. So.",
+        "",
+        "%% u0319:0-75, u0320:0-35, u0321:0-108, u0322:0-65, u0323:0-65, u0324:0-115 %%",
+        "Seeker: We walk over to the not hidden or anything portion of the ship that has the the whole apparatus, which is, yeah, the phasing stone, an egg-shaped crystal stone surrounded by a- I'm trying to remember. There's like a metal gold and silver lattice work around it, and it's on stone pillars with that. So I think here's the heart of the operation. It's the the the stone that bears the magical power, and I'm as we refer to it attuned to it. So it is connected to my mind.",
+        "",
+        "%% u0325:0-173, u0326:0-33 %%",
+        "Seeker: And if you'll just hold on to the side rail, if you would. He like braces himself slightly. I can, for example, make the ship rise briefly, and I just- we just ascend a few. Give him a sense of acceleration.",
+        "",
+        "%% u0327:0-33, u0328:0-26 %%",
+        "DM: And all this just with your mind? You didn't touch anything.",
+        "",
+        "%% u0329:0-82, u0330:0-28 %%",
+        "Seeker: I I suppose that's that's true. It is a magical effect. Yes, many of which involve the mind controlling matter.",
+        "",
+        "%% u0331:0-61 %%",
+        "DM: I am quite fascinated by this, and and you made this yourself?",
+        "",
+        "%% u0332:0-18, u0333:0-2, u0334:0-49, u0335:0-106, u0336:0-27 %%",
+        "Seeker: A powerful wizard. We— Thank you. We do have a great deal of assistance. We work together in these matters, many contributions from within our group here, and from others as well. We we have powerful allies.",
+        "",
+        "%% u0337:0-25 %%",
+        "DM: Powerful, powerful allies—",
+        "",
+        "%% u0338:0-9 %%",
+        "Seeker: Like that.",
+        "",
+        "%% u0339:0-13 %%",
+        "DM: Help you? I'm—",
+        "",
+        "%% u0340:0-66, u0341:0-21, u0342:0-24 %%",
+        "DM: Murook kind of steps over and says I, I think what my companion is trying to ask, and so: could you do this again?",
+        "",
+        "%% u0343:0-137, u0344:0-26, u0345:0-43, u0346:0-39, u0347:0-53 %%",
+        "Riswynn: We made an effort to help people in need, and in return for some of the efforts we've made, we were able to collaborate on creating this. But that debt is paid, and— Well, it wasn't really a debt, but that that exchange has occurred already. It's not— It's not that there is a place where these come from.",
+        "",
+        "%% u0348:0-133, u0349:0-24, u0350:0-51, u0351:0-68 %%",
+        "Seeker: In a way this ship was bestowed upon us, as Riswynn is saying, and it is an ancient ship. We are not its creators or its first owners, merely caretakers of it. The act of of creating a new ship is something that might be beyond our own powers. If that's what you're interested in.",
+        "",
+        "%% u0352:0-35, u0353:0-20, u0354:0-38 %%",
+        "DM: Murook says, this would indeed be a great tactical boon. In truth. We could control such things—"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So you are parked, hovering, not, I assumed, super high in the air, a little bit outside the city gates, and you see approaching a group of maybe 8 or 10 Orcs, mostly guards. But you recognize among among these orcs the 2 that that some of you had seen, but most of you, except for Seeker, had seen before. One, General Murook, a woman in her prime, wearing chain mail, carrying a sheathed sword at her side. At— Greenish brown skin with her black hair tied back in a ponytail, large, that— Well cared for teeth and pointy ears.",
+          "Seeker: Tusks, right?",
+          "DM: Tusks. Yeah. And beside her, Loremaster Azogar, a much older orc, a man maybe in his 70s, although who knows? Because how do you tell how old an orc is? A sort of supple dark green skin, long but thinning white hair, walking slowly with a cane, that— Wearing just simple robes, colorful, but nothing elaborate, basically just a rainbow design around the hem and then fading to white up towards the torso.",
+          "DM: And they- Murook motions to the guards to to stay back and looks up and signals up to you, and presuming you drop a ladder or something.",
+          "Seeker: Yeah."
+        ],
+        "after": [
+          "Seeker: We have—",
+          "Riswynn: We have thought of ways to make it tactically beneficial in combat situations.",
+          "Seeker: Kenzo. Are you on the— he looks he looks like he's on a plane.",
+          "Kenzo: You know, just landed.",
+          "Delwath: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Azogar shares uncertain lore of crystallized planar magic",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u0391",
+        "endUid": "u0489"
+      },
+      "lines": [
+        "%% u0391:0-67 %%",
+        "DM: Fascinating, fascinating, and and what is that magical stone called?",
+        "",
+        "%% u0392:0-4, u0393:0-25, u0394:0-23, u0395:0-9 %%",
+        "((Word-finding interruption))",
+        "",
+        "%% u0396:0-16, u0397:0-29, u0398:0-10, u0399:0-29, u0400:0-125 %%",
+        "DM: I have not heard more of such things. There are sometimes tales that have come to us of phase stones that are associated with the Feywild, crystallized magic they're called. Is that what you're talking about here?",
+        "",
+        "%% u0401:0-125, u0402:0-18 %%",
+        "Riswynn: Well, we'd heard that your cloak was associated with the Feywild. I think a lot of tales bring Feywild into any sort of magic or wondrous object.",
+        "",
+        "%% u0403:0-33, u0404:0-21, u0405:0-30 %%",
+        "DM: He kind of glances over at Murook at when you say that. Where did you hear such a tale?",
+        "",
+        "%% u0406:0-6, u0407:0-6, u0408:0-9, u0409:0-23 %%",
+        "((Interrupted speech))",
+        "",
+        "%% u0410:0-75 %%",
+        "Delwath: Where did we hear the tale about the rainbow cloak coming from the Feywild?",
+        "",
+        "%% u0411:0-50 %%",
+        "Seeker: Oh, this is from my- my mentor, a dwarven scholar.",
+        "",
+        "%% u0412:0-15 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0413:0-60 %%",
+        "DM: A dwarven scholar's discussing the lore of the Feywild, and—",
+        "",
+        "%% u0414:0-12 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0415:0-25, u0416:0-18, u0417:0-64 %%",
+        "DM: And our cloak. Interesting. The the history of— Hmm. I did not think that history of the cloak was widely known.",
+        "",
+        "%% u0418:0-52 %%",
+        "Seeker: It it may or may not, I shall not say more just yet.",
+        "",
+        "%% u0419:0-38 %%",
+        "DM: Sometimes we Loremasters are prone to—",
+        "",
+        "%% u0420:0-48, u0421:0-166 %%",
+        "Seeker: I consider myself a bit of a loremaster as well. Seeker's demeanor has sort of slightly changed as we start talking about history of things, and he's been shuffling around and pulling out my books, thumbing through.",
+        "",
+        "%% u0422:0-30, u0423:0-10 %%",
+        "Seeker: But actually, this idea of the the phase—",
+        "",
+        "%% u0424:0-18 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0425:0-139 %%",
+        "Seeker: And that is an intriguing notion. I had wondered myself what the name that we'd heard of the stone might refer to, with respect to phasing.",
+        "",
+        "%% u0426:0-42, u0427:0-77, u0428:0-12 %%",
+        "((Interrupted speech))",
+        "",
+        "%% u0429:0-50, u0430:0-159 %%",
+        "Riswynn: Lore and understanding are valuable things, and we encourage these matters of discourse. But there is an army bearing down on us. Perhaps we should talk more about catapults and boiling oil and dropping stones.",
+        "",
+        "%% u0431:0-68, u0432:0-65, u0433:0-87 %%",
+        "Seeker: There's time time enough for that, of course, of course, but but the— I I would be interested to know from this unique individual what— Stories of these stones of the fey he he might have, and and yours you might exchange.",
+        "",
+        "%% u0433:87-171 %%",
+        "DM: Yes, I would I would be happy to tell you the lore of our people about these stones.",
+        "",
+        "%% u0434:0-11, u0435:0-227, u0436:0-43, u0437:0-148, u0438:0-44, u0439:0-48 %%",
+        "DM: It is said— Well, there are many tales, and sorting the truth of these tales from the rumors that spread, especially among people who have been so scattered for as long as ours, is not always straightforward, and it has taken me many years to try to corroborate tales and rumors from story to story. But certainly, I think you are right, Seeker, and I would be fascinated to discuss this further with you, because it seems that each shard of crystal magic has its own resonance with some other place that is not of this world.",
+        "",
+        "%% u0440:0-98, u0441:0-53, u0442:0-83 %%",
+        "Seeker: Seeker's fiercely scribbling and cross-referencing: resonance with a particular place. That matches some intuitions I've had for for a while, but it is a a more precise articulation of the concept. And what evidence do you have from your—",
+        "",
+        "%% u0443:0-35, u0444:0-119, u0445:0-9, u0446:0-3 %%",
+        "DM: I have. I have no magic myself, and I've never been able to test any of these hypotheses. I am sadly reduced to being in this matter, and my duties keep me far more— And—",
+        "",
+        "%% u0447:0-7 %%",
+        "((Audio interruption))",
+        "",
+        "%% u0448:0-20, u0449:0-114, u0450:0-63 %%",
+        "DM: ((Audio interruption))so I so I have never— it has been simply a a hobby of mine, I must say, to try and understand these tales.",
+        "",
+        "%% u0451:0-104, u0452:0-49, u0453:0-26, u0454:0-13, u0455:0-45, u0456:0-43, u0457:0-38 %%",
+        "DM: As you know, or or maybe you have not heard those stories yet, for many, many years our people wandered, separated and lost across the world, and traveled quite widely in that time. Always hiding and never staying in one place for very long. Because, of course, the ever-present danger of being hunted kept us from settling.",
+        "",
+        "%% u0458:0-67 %%",
+        "Seeker: These are the people of the cloak of the rainbow or Orcs generally?",
+        "",
+        "%% u0458:67-123 %%",
+        "DM: These are these are us. These are my people, our people.",
+        "",
+        "%% u0459:0-8, u0460:0-38, u0461:0-17, u0462:0-52, u0463:0-18, u0464:0-34, u0465:0-57, u0466:0-35 %%",
+        "DM: But many histories were collected in that time, and rumors passed in story, and very little is written. So I've had to spend years asking the elders and the villages across Xurkhaz, what their grandparents told them and what their grandparents' grandparents told us.",
+        "",
+        "%% u0467:0-17 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0468:0-13, u0469:0-46, u0470:0-50, u0471:0-46, u0472:0-77 %%",
+        "DM: It seems that there are tales of in wild places in the world far from civilization, finding crystallized magic, the matter that captured the elemental essence of these extraplanar regions that are associated with fire and water and air.",
+        "",
+        "%% u0473:0-10, u0474:0-55, u0475:0-30, u0476:0-20, u0477:0-60, u0478:0-39 %%",
+        "DM: It is said a tale has come down to us of a hero of our people from dozens of generations ago, who supposedly used this crystallized water essence to create fog and hide his people for years and years and years and years.",
+        "",
+        "%% u0479:0-31 %%",
+        "Seeker: The essence of water or of ice?",
+        "",
+        "%% u0480:0-53 %%",
+        "DM: Oh, I I don't know about ice. I think this was water.",
+        "",
+        "%% u0481:0-3 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0482:0-22, u0483:0-86, u0484:0-42, u0485:0-43 %%",
+        "DM: But the story was that all sorts of planar energy could be captured and and resonate with these phase stones. And so I am fascinated to know what plane, what energy your phase stone resonates with.",
+        "",
+        "%% u0486:0-13, u0487:0-46, u0488:0-75, u0489:0-60 %%",
+        "Seeker: To be honest, we are still getting to know its capabilities. And I have been actively studying it, as we learn how to maneuver the ship. But practical concerns have overridden, as they do sometimes."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yes, we may not be able to provide another magical ship, but we're willing to see how we can use ours to help you.",
+          "Kenzo: Okay.",
+          "Seeker: Seeker's started to look a little— A little possessive. Sort of steps around in front of the phasing stone.",
+          "Kenzo: Oh, yeah.",
+          "Seeker: The the magical stone at the at the heart of the operation here. Scarce resource. You'll be interesting to us to find out where we're doing."
+        ],
+        "after": [
+          "DM: Fascinating, fascinating. And at this Murook kind of puts his- her hand on his shoulder and says, “We have not much time until dinner, and we must discuss the tactical uses of this ship and why these and and what these travelers may offer.” So as fascinated as this dwarf Seeker is, I'm sure, by your tales, and you by his, may I ask you to put such talk aside for the moment? For I would like to know—",
+          "DM: This ship is large, larger than the palace.",
+          "Seeker: Indeed, and yet—",
+          "DM: Crude. Little in the way of armaments or defenses. How would you— Know a little about what it can do, or how you imagine such a thing might be an aid in battle.",
+          "Seeker: As I mentioned, we have inherited this ship. Its its creators and previous owners were giants. And it was destroyed. It was smashed, crashed into the landscape. We raised it, but it's not the elegant, shapely beauty that perhaps it once was."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Murook weighs airship support and learns the zombie threat",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e046",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0490",
+        "endUid": "u0658"
+      },
+      "lines": [
+        "%% u0490:0-52, u0491:0-132, u0492:0-46, u0493:0-6, u0494:0-24, u0495:0-57, u0496:0-16, u0497:0-35, u0498:0-25 %%",
+        "DM: Fascinating, fascinating. And at this Murook kind of puts his- her hand on his shoulder and says, “We have not much time until dinner, and we must discuss the tactical uses of this ship and why these and and what these travelers may offer.” So as fascinated as this dwarf Seeker is, I'm sure, by your tales, and you by his, may I ask you to put such talk aside for the moment? For I would like to know—",
+        "",
+        "%% u0499:0-19, u0500:0-22 %%",
+        "DM: This ship is large, larger than the palace.",
+        "",
+        "%% u0501:0-15 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0502:0-6, u0503:0-57, u0504:0-94 %%",
+        "DM: Crude. Little in the way of armaments or defenses. How would you— Know a little about what it can do, or how you imagine such a thing might be an aid in battle.",
+        "",
+        "%% u0505:0-86, u0506:0-7, u0507:0-28, u0508:0-54, u0509:0-62 %%",
+        "Seeker: As I mentioned, we have inherited this ship. Its its creators and previous owners were giants. And it was destroyed. It was smashed, crashed into the landscape. We raised it, but it's not the elegant, shapely beauty that perhaps it once was.",
+        "",
+        "%% u0510:0-5 %%",
+        "DM: I see.",
+        "",
+        "%% u0511:0-73 %%",
+        "Seeker: We. We plan to restore it, of course, but that will take years, probably.",
+        "",
+        "%% u0512:0-2 %%",
+        "DM: So—",
+        "",
+        "%% u0513:0-29 %%",
+        "Riswynn: We can drop things off of it.",
+        "",
+        "%% u0514:0-95 %%",
+        "Wellby: We can take people from one place to another. We can go 10 or 20 miles per hour at the maximum.",
+        "",
+        "%% u0515:0-7, u0516:0-32 %%",
+        "DM: What is— That is certainly not nothing.",
+        "",
+        "%% u0517:0-27 %%",
+        "Seeker: And indeed, if you can fly—",
+        "",
+        "%% u0518:0-96 %%",
+        "DM: How many hours can you fly at a time? Does it just keep going once you point it in a direction?",
+        "",
+        "%% u0519:0-125, u0520:0-13, u0521:0-41 %%",
+        "Seeker: You know, it requires the active control of someone attuned to it and skilled in its motoring. We found that by switching off we can travel what, we could end up with 20 hours a go?",
+        "",
+        "%% u0522:0-23 %%",
+        "DM: 22 h a day. Pretty much.",
+        "",
+        "%% u0523:0-58 %%",
+        "Seeker: So you can go hundreds of miles in one day without tiring—",
+        "",
+        "%% u0524:0-15, u0525:0-34, u0526:0-26 %%",
+        "DM: Those you carry without requiring large numbers of beasts of burden to carry—",
+        "",
+        "%% u0527:0-5 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0528:0-14, u0529:0-15 %%",
+        "DM: That is indeed quite valuable.",
+        "",
+        "%% u0530:0-70, u0531:0-28, u0532:0-33 %%",
+        "Riswynn: Would you seek to close the gap between your attackers and your forces at some site other than your fortress, or think tactically, and—",
+        "",
+        "%% u0533:0-62, u0534:0-32, u0535:0-77 %%",
+        "Seeker: We can- well, you can float quite high up into the atmosphere. We can drop things from the ship. We haven't attempted any kind of ramming maneuver, but maybe that's possible.",
+        "",
+        "%% u0536:0-3 %%",
+        "DM: My—",
+        "",
+        "%% u0537:0-23, u0538:0-47 %%",
+        "Riswynn: I think we should avoid bringing it into proximity. I mean, in a pinch.",
+        "",
+        "%% u0539:0-6, u0540:0-32, u0541:0-31, u0542:0-34, u0543:0-21, u0544:0-100 %%",
+        "DM: I must speak with Chief Lubash before I reveal too many of our secrets. I am concerned for the worst case. Do not know how much— I do not know whether you can turn the tide of battle to the west, which must surely be coming soon.",
+        "",
+        "%% u0545:0-13, u0546:0-97, u0547:0-21, u0548:0-20, u0549:0-22, u0550:0-17, u0551:0-32, u0552:0-47, u0553:0-23 %%",
+        "DM: But there are few warriors left in our kingdom who are not already prepared to defend us against the incursion. But should they fail, there may be need of ways to delay the army, ways to evacuate. And perhaps there are ways that dropping a few boulders from a great height may keep them from failing.",
+        "",
+        "%% u0554:0-23, u0555:0-12, u0556:0-86 %%",
+        "Seeker: Now what really deters? Oh, are they— Sorry I'm missing some context. The army that's marching from the West is an orc army?",
+        "",
+        "%% u0557:0-42 %%",
+        "DM: It's Grash's army. It's orcs, it's undead.",
+        "",
+        "%% u0558:0-34, u0559:0-55, u0560:0-66, u0561:0-17 %%",
+        "Seeker: What really deters those creatures in your experience? If we had fire or ice or water, and— It's not just that we could create enough of that, to matter, what— Or some illusion.",
+        "",
+        "%% u0562:0-61, u0563:0-17, u0564:0-41, u0565:0-5 %%",
+        "DM: I have little concern for the Orcs. It is the undead, I fear. What deters them? You would know better than I, I'm afraid. Fire!",
+        "",
+        "%% u0566:0-46, u0567:0-23, u0568:0-20, u0569:0-31, u0570:0-44, u0571:0-145, u0572:0-57, u0573:0-13 %%",
+        "((Recollection of earlier enemies))",
+        "",
+        "%% u0574:0-26, u0575:0-3, u0576:0-15, u0577:0-47 %%",
+        "Delwath: If it was me, I would fear the reanimated dead even more than the undead who are marching now.",
+        "",
+        "%% u0578:0-17 %%",
+        "Seeker: You? Why is that?",
+        "",
+        "%% u0579:0-49, u0580:0-74 %%",
+        "Delwath: Because every soldier you kill turns back into an— Grash will will raise an army. Grash could be defeated on the battlefield—",
+        "",
+        "%% u0581:0-136, u0582:0-64 %%",
+        "Seeker: And he'll just raise a new army of the the defeated Orcs, including the ones who died for the next day, the most important role would be for a strike deep in the heart of the forces onto their head. It—",
+        "",
+        "%% u0583:0-25, u0584:0-5, u0585:0-123 %%",
+        "Delwath: And I have heard nothing— Seems as though that does not worry you, but I can't tell if that's because no one believes it, or you have a way of stopping it.",
+        "",
+        "%% u0586:0-114, u0587:0-91, u0588:0-15, u0589:0-32, u0590:0-53, u0591:0-16 %%",
+        "DM: Our scouts have had a difficult time discerning what fraction of Grash's army is orcs and what fraction is undead. The Orcs do not scare me, even reanimated undead Orcs, unless he can somehow turn them into something else. Do you mean the orcs do not die? Or do you mean the slaughtered Orcs rise as something other than orcs?",
+        "",
+        "%% u0592:0-39, u0593:0-11, u0594:0-39 %%",
+        "Riswynn: The slaughtered orcs rise as orcs again, repeatedly. Right? What did we see actually happen?",
+        "",
+        "%% u0595:0-30 %%",
+        "Delwath: Were they orcs or zombie orcs?",
+        "",
+        "%% u0596:0-32 %%",
+        "Seeker: Probably some kind of zombie, or—",
+        "",
+        "%% u0597:0-76, u0598:0-40, u0599:0-118 %%",
+        "DM: They they were zombies when- I mean, they were definitely zombies when they— It wasn't that they did that. They, like— You know, because it was like 6 h later, or something like that, that they rose. They, like crawled out of the ground.",
+        "",
+        "%% u0600:0-64, u0601:0-14, u0602:0-38, u0603:0-35 %%",
+        "Seeker: So, supposing we could support this battle effort by flying over the full force to find Grash individually and somehow stop him from reanimating his army.",
+        "",
+        "%% u0604:0-59 %%",
+        "DM: He is at the center of an army of 3,000 troops, maybe more.",
+        "",
+        "%% u0605:0-29 %%",
+        "Seeker: And we can fly right over it.",
+        "",
+        "%% u0606:0-14 %%",
+        "DM: And then what?",
+        "",
+        "%% u0607:0-45, u0608:0-69, u0609:0-7 %%",
+        "Seeker: What? So this this cloak? I haven't been down just to see it in person. But this, this cloak has an area of effect. Is this—",
+        "",
+        "%% u0610:0-35 %%",
+        "DM: For Lubash to speak of, and not me.",
+        "",
+        "%% u0611:0-103, u0612:0-44 %%",
+        "Seeker: Do- do we think that Grash might be affected by the presence of the cloak in a way that would harm him? Is he receiving power from some god as well?",
+        "",
+        "%% u0613:0-14 %%",
+        "Delwath: You don't know.",
+        "",
+        "%% u0614:0-65 %%",
+        "DM: What Kenzo saw was that he stole power from the land of the dead.",
+        "",
+        "%% u0615:0-38 %%",
+        "Seeker: Oh, but that's probably not blocked by—",
+        "",
+        "%% u0616:0-34 %%",
+        "Delwath: Well, I don't know. We don't know.",
+        "",
+        "%% u0617:0-43 %%",
+        "Seeker: Isn't there a God involved in that, though?",
+        "",
+        "%% u0618:0-3 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0619:0-217, u0620:0-103, u0621:0-11 %%",
+        "DM: Again, Kenzo, on Kenzo's spirit journey, his understanding of- I'll chime in since, Kong, you probably can only listen. The the the like understanding of planar cosmology is that the land of the dead is like the veil. The gods are beyond the land of the dead, and everything from the land of the dead closer to Taelgar is not divine.",
+        "",
+        "%% u0622:0-65 %%",
+        "Seeker: I see, the— that is the transition point. It's where it's where you—",
+        "",
+        "%% u0623:0-123 %%",
+        "DM: Cross over into the land of the gods, but it is not itself divine, so Grash's power may not be affected by the cloak. Yeah.",
+        "",
+        "%% u0624:0-12, u0625:0-27 %%",
+        "Riswynn: Probably not. Just to to defend the cloak—",
+        "",
+        "%% u0626:0-105 %%",
+        "Delwath: To answer the question, what we saw was orcs we had defeated in battle rise up again 6 h later as zombies.",
+        "",
+        "%% u0627:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u0628:0-42 %%",
+        "DM: {{How kind of time! Out}} slightly at that.",
+        "",
+        "%% u0629:0-74, u0630:0-52, u0631:0-49, u0632:0-67 %%",
+        "Delwath: That can be done we do not know, but your own troops will rise against you. Every Orc who falls in battle will fight against you a second time, whether it's Grash's or unchained. Unless you have some way of stopping this that you have not shared.",
+        "",
+        "%% u0633:0-29, u0634:0-29, u0635:0-24, u0636:0-46, u0637:0-6 %%",
+        "DM: It matters quite a great deal whether these risen creatures are still tied to Thark— And she says that with a grit in her teeth— and or not.",
+        "",
+        "%% u0638:0-55, u0639:0-108, u0640:0-52 %%",
+        "DM: For the impression we had from what you told us before was orcs rising as orcs again. That does not scare me, but if they are severed and rise as mindless zombies, that is a different and much more terrifying matter.",
+        "",
+        "%% u0641:0-23 %%",
+        "Seeker: Okay, how would we know?",
+        "",
+        "%% u0642:0-33 %%",
+        "Riswynn: Whatever they are, I do not think—",
+        "",
+        "%% u0643:0-5, u0644:0-55, u0645:0-55, u0646:0-23 %%",
+        "Delwath: Grash would- Grash seems to have control of them in some way. I do not think they had free will when they rose again. But why more terrifying?",
+        "",
+        "%% u0647:0-3, u0648:0-106 %%",
+        "((Table clarification))",
+        "",
+        "%% u0649:0-31, u0650:0-133 %%",
+        "DM: This matter concerns the cloak. You may ask Lubash at dinner. Perhaps he will be more forthcoming after your openness in sharing the lore of your ship with us today.",
+        "",
+        "%% u0651:0-52, u0652:0-6 %%",
+        "((Brief aside))",
+        "",
+        "%% u0653:0-22, u0654:0-11, u0655:0-123, u0656:0-22 %%",
+        "Delwath: I am sure that Lubash and you are aware that secrets amongst allies will only help Grash. But I will wait to- I I can see it is not your place to share them. I I will not press you.",
+        "",
+        "%% u0657:0-47, u0658:0-38 %%",
+        "DM: For that, and for sharing your secrets as well, and I hope dinner will be enlightening."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: The essence of water or of ice?",
+          "DM: Oh, I I don't know about ice. I think this was water.",
+          "Seeker: The—",
+          "DM: But the story was that all sorts of planar energy could be captured and and resonate with these phase stones. And so I am fascinated to know what plane, what energy your phase stone resonates with.",
+          "Seeker: To be honest, we are still getting to know its capabilities. And I have been actively studying it, as we learn how to maneuver the ship. But practical concerns have overridden, as they do sometimes."
+        ],
+        "after": [
+          "Delwath: Should probably go make dinner. Well, we're invited to dinner. We're going. I thought they were coming here. No, no, that you're going— hosting you for dinner, but somebody's got to stay on the ship, though.",
+          "DM: How do we handle this?",
+          "Riswynn: We kind of didn't want to put all our eggs in one basket. You could have been a rescue force if we had ended up like locked up in the castle or something, but now that some trust has been built, I think all of us can go to dinner.",
+          "Wellby: So so before dinner, the— you still have an orc trapped in the mirror. The video. Is it worth showing them to these guys? I mean, trying to figure out who this person is? If they happen to know.",
+          "Seeker: I mean Agata was torturing them. Maybe it was a good orc, just like these. I mean, all orcs know each other."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Considering capturing Vola alive",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0931",
+        "endUid": "u0933"
+      },
+      "lines": [
+        "%% u0931:0-103 %%",
+        "Delwath: The other complexity with Kadmos and his group's, of course, the whole like, are we going to kill Vola?",
+        "",
+        "%% u0932:0-65 %%",
+        "Seeker: Feel sort of bad about that. Maybe we can trap her in the mirror.",
+        "",
+        "%% u0933:0-53 %%",
+        "Delwath: That's something we could consider as part of a trap."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yes.",
+          "Kenzo: Okay.",
+          "Delwath: Kadmos and his group are too powerful to turn down any strength and arms before we tempt him in, right?",
+          "Kenzo: Like—",
+          "Riswynn: Let's just stay together and try to get rid of the spellcasters, and then stay together and fight the rest of the army. Yep."
+        ],
+        "after": [
+          "Seeker: Now you're talking just the way the— and almost like this, or did you? Oh, fucking! Yes, Jesus, right to see the mirror, like all up in those visages.",
+          "Kenzo: So wait. Let's- oh my God! We set up a room where they think the fucking- like we do- what we do is what Agata does. Yeah, you know, we get them all to go into a fucking room, and they just go in one after one, and they all just get fucking trapped. Just remember, if they break the mirror—",
+          "Seeker: Everything comes out, which is also a great trap, which is also a great trap.",
+          "Delwath: At some level, chaos.",
+          "Kenzo: Like a fucking poison troll, for example."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Scrying Hektor’s camp during dinner",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0995",
+        "endUid": "u1040"
+      },
+      "lines": [
+        "%% u0995:0-37, u0996:0-72 %%",
+        "DM: Who are you scrying on at this point? I don't know what- you do Hektor because you have the sense that he is—",
+        "",
+        "%% u0996:72-87 %%",
+        "Delwath: I'll do Hektor.",
+        "",
+        "%% u0997:0-90 %%",
+        "Riswynn: But then, if he's not with Kadmos, you don't know if Kadmos is scrying. But we'll find out.",
+        "",
+        "%% u0998:0-2 %%",
+        "((Brief interjection))",
+        "",
+        "%% u0999:0-148, u1000:0-15, u1001:0-141 %%",
+        "Delwath: You see. Well, okay. So you gotta take out your language. Yeah, yeah, yeah, no. I’ll— all right, when he says I, when he says, “Can you check?” I’ll say: “While I cannot— I cannot see the sensor. But let me let me let me look at them and see if they are casting any spells,” and I’ll take out my bowl and start to—",
+        "",
+        "%% u1002:0-5, u1003:0-5, u1004:0-118, u1005:0-12, u1006:0-150, u1007:0-24 %%",
+        "DM: Back. Okay, that, you see. So he first of all deactivates the cloak, and then looks at you, and you see in your scrying sensor the— A a campfire. It's it's night at this point, at the- you know, in the desert. Hektor is sitting just slowly staring off into space as he aimlessly chews some jerky, dried meat of some kind.",
+        "",
+        "%% u1008:0-38, u1009:0-123, u1010:0-71 %%",
+        "DM: You can see across the campfire in the sort of in the flickering light Kadmos and Casian are engaged in conversation with the older woman who you saw joined them, the the like wizard-looking person in robes carrying a staff. But I— it!",
+        "",
+        "%% u1011:0-69, u1012:0-28, u1013:0-9 %%",
+        "DM: They're murmuring quietly under their breath. Hektor can't hear them. And they— but they seem to be— I can. I?",
+        "",
+        "%% u1014:0-49 %%",
+        "Delwath: You don't use Hektor's senses, you use my senses.",
+        "",
+        "%% u1015:0-24, u1016:0-31, u1017:0-35 %%",
+        "((Perception roll))",
+        "",
+        "%% u1018:0-56, u1019:0-51, u1020:0-58, u1021:0-39 %%",
+        "DM: Yeah, you can't make out. Yeah. Can't make out the words but they do seem to be crouched around some sort of like a couple of papers, or a or a parchment or something. It seems like they're planning. They're—",
+        "",
+        "%% u1022:0-35, u1023:0-18, u1024:0-59 %%",
+        "Delwath: No scrying sensors. Nobody has any. Who is it? Kadmos, Casian and the new person. But I don't know that person. So—",
+        "",
+        "%% u1025:0-39, u1026:0-114 %%",
+        "((Earlier scrying attempts))",
+        "",
+        "%% u1027:0-135 %%",
+        "DM: Spend most of their time together. It seems like they're like- they're sort of apart from the rest of the group a fair bit of the time.",
+        "",
+        "%% u1028:0-35, u1029:0-6, u1030:0-92 %%",
+        "Delwath: Well, I will turn back in to say to Lubash: they are plotting. Can other people see? It was not clear to me. Can other people see in the—",
+        "",
+        "%% u1031:0-159, u1032:0-45 %%",
+        "DM: I've always figured other people can sort of see a kind of watery, right vague image, but not clear details, and can't hear anything, so so they would see like broad strokes like a little bit of the scene.",
+        "",
+        "%% u1033:0-69 %%",
+        "Delwath: They are plotting, but it seems not watching us. We are safe for now.",
+        "",
+        "%% u1034:0-13, u1035:0-23 %%",
+        "DM: Good to hear. Please sit, let us eat.",
+        "",
+        "%% u1036:0-3 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1037:0-29, u1038:0-33 %%",
+        "DM: I know you have had questions that may not have been answered.",
+        "",
+        "%% u1038:33-98, u1039:0-127 %%",
+        "Delwath: I guess it's dark, so it's too. There's nothing much to describe. There's no way we could tell how close they were to the— like, was no— cause it was dark. It's— you're just getting the camp fire.",
+        "",
+        "%% u1040:0-44 %%",
+        "DM: And like a little circle of light around it."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: The other thing I could do is I could scry to see if they're currently scrying.",
+          "Wellby: I love this idea. It could also give us a sense of where they are.",
+          "Delwath: Why not? Right? Okay.",
+          "Seeker: How's the effort? I mean.",
+          "Delwath: Who knows if it'll work? I don't know who I'm normally casting on."
+        ],
+        "after": [
+          "Riswynn: Hmm. Very distinct desert plants that only grow a certain distance from the river.",
+          "Delwath: Man. We have some thoughts on how we may be of assistance.",
+          "Delwath: But before discussing them, I wish to ask if you would share some of your knowledge to help us plan and strategize.",
+          "Riswynn: Student.",
+          "DM: What would you like to know?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Lubash explains the barrier and his brother’s death",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1054",
+        "endUid": "u1123"
+      },
+      "lines": [
+        "%% u1054:0-27 %%",
+        "DM: What would you like to know?",
+        "",
+        "%% u1055:0-4 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1056:0-80, u1057:0-15, u1058:0-8, u1059:0-24, u1060:0-27, u1061:0-38, u1062:0-19 %%",
+        "Delwath: I forget. What's her name? Murdoch, or Maruk? Murook? Your General Murook seemed uncertain as to what the dangers would be to your troops and your armies from Grash's ring, and his ability to raise orcs from the dead.",
+        "",
+        "%% u1063:0-37, u1064:0-18 %%",
+        "DM: Yes, we have talked, and I have heard what you told her.",
+        "",
+        "%% u1065:0-51, u1066:0-39 %%",
+        "DM: You must understand the nature of the power I bear and the nature of our chained brethren.",
+        "",
+        "%% u1067:0-22, u1068:0-20, u1069:0-52, u1070:0-7, u1071:0-26, u1072:0-14, u1073:0-60 %%",
+        "DM: The chains, the fires, if severed suddenly, without proper care, without a ritual of support and without the right attitude in the— In the severed chained one. It will drive most of our chained brethren mad.",
+        "",
+        "%% u1074:0-110, u1075:0-22, u1076:0-32, u1077:0-29, u1078:0-24 %%",
+        "DM: There is little of them, for there is little independent thought in their minds that is not the will of Thark, and without that will, they are not fearsome in battle. And when they cross the river Thark's voice will fail.",
+        "",
+        "%% u1079:0-26, u1080:0-43, u1081:0-63 %%",
+        "DM: But if this Grash creature can raise them unchained under his control, well, that is a different story, and one that indeed scares me.",
+        "",
+        "%% u1082:0-76, u1083:0-32 %%",
+        "DM: If they are still driven by the will of Thark, they are of no concern to me. They will not defeat our armies.",
+        "",
+        "%% u1084:0-84 %%",
+        "Delwath: The will of Thark, unlike other gods, fades over the river, as the river is crossed.",
+        "",
+        "%% u1085:0-67, u1086:0-45, u1087:0-54 %%",
+        "DM: That is what my brother spent years and years of his life ensuring, pacing the borders of this country tirelessly before he was taken too young, and I took this mantle.",
+        "",
+        "%% u1088:0-40 %%",
+        "DM: And I have carried on his wishes, pacing—",
+        "",
+        "%% u1089:0-16 %%",
+        "Seeker: How was he lost?",
+        "",
+        "%% u1090:0-15, u1091:0-74, u1092:0-9, u1093:0-22, u1094:0-64 %%",
+        "DM: Fell in battle. Hill giants came across the borders, raiding or seeking food. While he was traveling on one of his tours to maintain the barriers that keep Thark silent within our borders.",
+        "",
+        "%% u1095:0-6 %%",
+        "Seeker: Sorry.",
+        "",
+        "%% u1096:0-147, u1097:0-43, u1098:0-17, u1099:0-16, u1100:0-51 %%",
+        "DM: But this is why I was not concerned, but I am concerned now, for it seems none of us really know whether the undead armies of Grash will be able to maintain their warrior spirit as they cross into our kingdom. And if they can, well, the situation is more dire than I understood.",
+        "",
+        "%% u1101:0-4 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1102:0-13, u1103:0-117 %%",
+        "Delwath: We we saw him raise 2 dead orcs. What we saw is he cut their heads off, a few minutes later, them marching out almost like puppets.",
+        "",
+        "%% u1104:0-163 %%",
+        "Riswynn: But whether their connection to Thark exists in that form or not, how would we know until- we we would not. But the only hope would be that Grash does not have the—",
+        "",
+        "%% u1105:0-4 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1106:0-86, u1107:0-101 %%",
+        "Delwath: But perhaps he does not have the ability to direct his will in so many places at once and if he is not controlling them, and they lack the connection to Thark, they will wander aimlessly.",
+        "",
+        "%% u1108:0-3 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1109:0-58, u1110:0-9, u1111:0-20 %%",
+        "Delwath: But I would not bet on them, being outside of his control. I I would expect that they are—",
+        "",
+        "%% u1112:0-3 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1113:0-44, u1114:0-25 %%",
+        "Delwath: Dead brought back to life through his magic, their souls severed. Gone.",
+        "",
+        "%% u1115:0-3, u1116:0-3 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1117:0-4, u1118:0-23 %%",
+        "DM: That may pose a grave danger.",
+        "",
+        "%% u1119:0-45, u1120:0-55, u1121:0-60, u1122:0-67 %%",
+        "Delwath: In fact I expect you'll know quickly, because his army loses their fighting spirit as they cross into your lands and the undead start cutting down his own troops. That's what I think I would do if I was Grash, and raise them back.",
+        "",
+        "%% u1123:0-42 %%",
+        "Delwath: But we know little of how his magic works."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And like a little circle of light around it.",
+          "Riswynn: Hmm. Very distinct desert plants that only grow a certain distance from the river.",
+          "Delwath: Man. We have some thoughts on how we may be of assistance.",
+          "Delwath: But before discussing them, I wish to ask if you would share some of your knowledge to help us plan and strategize.",
+          "Riswynn: Student."
+        ],
+        "after": [
+          "Riswynn: But the spellcasters who are allied with him, though they we do understand and know how to address that threat.",
+          "DM: So what would you propose then?",
+          "Delwath: I fear— We fear most an attack on your rear. Kadmos, this mage, who has dogged us for some time now, and his Chardonian allies can move swiftly, and may well be aiming to come and take the cloak, especially perhaps as the first word of battle comes to you.",
+          "Delwath: We propose trying to set a trap for them, entice them to attack us instead of you, then defeat them. Take one player off the board.",
+          "DM: If they were to take the cloak, everything that stops our chained brethren from crossing and fighting would fade."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Two proposed deceptions to protect Lubash",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e045",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1127",
+        "endUid": "u1222"
+      },
+      "lines": [
+        "%% u1127:0-2, u1128:0-28 %%",
+        "DM: So what would you propose then?",
+        "",
+        "%% u1129:0-6, u1130:0-12, u1131:0-31, u1132:0-10, u1133:0-21, u1134:0-14, u1135:0-18, u1136:0-37, u1137:0-57, u1138:0-20, u1139:0-20 %%",
+        "Delwath: I fear— We fear most an attack on your rear. Kadmos, this mage, who has dogged us for some time now, and his Chardonian allies can move swiftly, and may well be aiming to come and take the cloak, especially perhaps as the first word of battle comes to you.",
+        "",
+        "%% u1140:0-41, u1141:0-40, u1142:0-48 %%",
+        "Delwath: We propose trying to set a trap for them, entice them to attack us instead of you, then defeat them. Take one player off the board.",
+        "",
+        "%% u1143:0-31, u1144:0-21, u1145:0-59 %%",
+        "DM: If they were to take the cloak, everything that stops our chained brethren from crossing and fighting would fade.",
+        "",
+        "%% u1146:0-46, u1147:0-9, u1148:0-107 %%",
+        "DM: And I must assume, whatever this Grash can do, it is not a simple task for him to slaughter and raise an entire army, for if it were, why would he have not done it?",
+        "",
+        "%% u1149:0-4 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1150:0-32 %%",
+        "Delwath: No, I I assume it is not simple.",
+        "",
+        "%% u1151:0-53, u1152:0-22, u1153:0-48, u1154:0-62, u1155:0-39, u1156:0-84, u1157:0-33, u1158:0-29, u1159:0-31, u1160:0-75, u1161:0-111, u1162:0-38, u1163:0-18 %%",
+        "((Reviewing the two previously witnessed reanimation methods; Brief interjection))",
+        "",
+        "%% u1164:0-42, u1165:0-23, u1166:0-83, u1167:0-67 %%",
+        "Delwath: We propose taking advantage of their known desires of scrying, and— I do not believe they know that taking the cloak would cause your defenses to fall. I think they— wow! I guess, what do we know? Maybe they do know that.",
+        "",
+        "%% u1168:0-11 %%",
+        "Delwath: Our plan, or—",
+        "",
+        "%% u1169:0-9 %%",
+        "DM: Go ahead.",
+        "",
+        "%% u1170:0-46, u1171:0-27, u1172:0-56, u1173:0-90 %%",
+        "Delwath: Our plan was to spend tomorrow convincing you, pretending to convince you, that the only safe thing to do was to give us the cloak, to flee and hide it somewhere where you feared that otherwise they would come and take it.",
+        "",
+        "%% u1174:0-32, u1175:0-19, u1176:0-77 %%",
+        "Delwath: But we would not take the cloak. We would just flee perhaps, with an illusionary duplicate of the cloak, if we felt it necessary.",
+        "",
+        "%% u1177:0-38, u1178:0-42, u1179:0-83 %%",
+        "Delwath: And then try to entice them somewhere near, but not too near, and set an ambush. I think there's enough bad blood between us that they will leap at the opportunity.",
+        "",
+        "%% u1180:0-16 %%",
+        "DM: But it is a risk.",
+        "",
+        "%% u1181:0-5, u1182:0-52, u1183:0-5 %%",
+        "Delwath: It is. They could still come directly to the palace instead. Them.",
+        "",
+        "%% u1184:0-67, u1185:0-29 %%",
+        "Delwath: They are clearly planning something, a sort of gesture to the scry. What exactly, you cannot see.",
+        "",
+        "%% u1186:0-14, u1187:0-8, u1188:0-13, u1189:0-22, u1190:0-35, u1191:0-84, u1192:0-27 %%",
+        "Delwath: An alternative could be that we fight tomorrow, and you send— Pretend to send us off in disgrace, and instead we stay hidden in the palace somewhere to assist when they come for you. Way. That's a risk as well.",
+        "",
+        "%% u1193:0-11, u1194:0-23, u1195:0-12 %%",
+        "Delwath: I hear your— You have fewer warriors left behind.",
+        "",
+        "%% u1196:0-11 %%",
+        "DM: Hardly any.",
+        "",
+        "%% u1197:0-26, u1198:0-24, u1199:0-25 %%",
+        "Delwath: Do you have any wizards or spellcasters of any kind behind the walls with you?",
+        "",
+        "%% u1200:0-5, u1201:0-32, u1202:0-38 %%",
+        "DM: A few, not as strong as you, I believe. Cannot see from a distance as you can.",
+        "",
+        "%% u1203:0-43, u1204:0-15, u1205:0-13, u1206:0-119, u1207:0-79, u1208:0-42, u1209:0-46, u1210:0-85, u1211:0-104, u1212:0-22, u1213:0-155, u1214:0-13, u1215:0-16, u1216:0-24, u1217:0-21 %%",
+        "((Reviewing the opposing spellcasters))",
+        "",
+        "%% u1218:0-55 %%",
+        "DM: Why do you ask if there are spellcasters in the palace?",
+        "",
+        "%% u1219:0-53 %%",
+        "Delwath: Their strength is in their magic. There’s at least 3.",
+        "",
+        "%% u1220:0-76, u1221:0-59 %%",
+        "Delwath: This group, Kadmos and his associates, have at least 3 powerful spellcasters which can be hard to counter without your— that's why I ask.",
+        "",
+        "%% u1222:0-49 %%",
+        "DM: Our strongest magic users are on the front lines."
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: You the.",
+          "DM: That may pose a grave danger.",
+          "Delwath: In fact I expect you'll know quickly, because his army loses their fighting spirit as they cross into your lands and the undead start cutting down his own troops. That's what I think I would do if I was Grash, and raise them back.",
+          "Delwath: But we know little of how his magic works.",
+          "Riswynn: But the spellcasters who are allied with him, though they we do understand and know how to address that threat."
+        ],
+        "after": [
+          "Delwath: I think they are planning something. Do you— How we respond is— You have a suggestion?",
+          "DM: He looks over at Loremaster Azogar and and Murook, and Azogar kind of looks around kind of uncertain. He says, hmm!",
+          "Unknown: If only.",
+          "DM: The Queen of Sunset were not lost.",
+          "Delwath: Queen of Sunset?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The cloak’s irreplaceable threads and the Queen of Sunset",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e025",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1227",
+        "endUid": "u1318"
+      },
+      "lines": [
+        "%% u1227:0-16, u1228:0-33, u1229:0-18, u1230:0-31, u1231:0-13 %%",
+        "DM: He looks over at Loremaster Azogar and and Murook, and Azogar kind of looks around kind of uncertain. He says, hmm!",
+        "",
+        "%% u1232:0-7 %%",
+        "Unknown: If only.",
+        "",
+        "%% u1233:0-34 %%",
+        "DM: The Queen of Sunset were not lost.",
+        "",
+        "%% u1234:0-16 %%",
+        "Delwath: Queen of Sunset?",
+        "",
+        "%% u1235:0-73 %%",
+        "DM: Maybe another cloak could be made, and this one would not be so precious.",
+        "",
+        "%% u1236:0-13, u1237:0-21 %%",
+        "((Interrupted response))",
+        "",
+        "%% u1238:0-33 %%",
+        "DM: The cloak comes from the Feywild.",
+        "",
+        "%% u1239:0-18, u1240:0-17, u1241:0-5 %%",
+        "Seeker: Lady Eventide? No. It's a fey queen. Okay.",
+        "",
+        "%% u1242:0-10, u1243:0-15, u1244:0-29, u1245:0-6, u1246:0-28 %%",
+        "DM: Wove magic into threads of all the colors of the rainbow, gifted this to our people ages ago.",
+        "",
+        "%% u1247:0-16 %%",
+        "Seeker: But she was lost?",
+        "",
+        "%% u1248:0-23, u1249:0-28, u1250:0-28 %%",
+        "DM: But none know to where. Some say Apollyon killed her when she would not help him.",
+        "",
+        "%% u1251:0-19, u1252:0-15 %%",
+        "DM: Others say it was a different evil.",
+        "",
+        "%% u1253:0-13, u1254:0-6, u1255:0-19 %%",
+        "DM: Some even say it was the Lord Cha'mutte.",
+        "",
+        "%% u1256:0-41 %%",
+        "DM: There are many tales. Few know the truth.",
+        "",
+        "%% u1257:0-89, u1258:0-53 %%",
+        "DM: But without her magic this cloak can never be replaced. It has made us cautious and slow, for one cannot take a risk when one is irreplaceable.",
+        "",
+        "%% u1259:0-57, u1260:0-37, u1261:0-62, u1262:0-113, u1263:0-6, u1264:0-126, u1265:0-41, u1266:0-87, u1267:0-48, u1268:0-39 %%",
+        "((Recollection of an earlier Feywild adventure))",
+        "",
+        "%% u1269:0-53, u1270:0-33, u1271:0-23 %%",
+        "Seeker: And Seeker also possesses, strangely, a single thread that may have been created by her that reveals the sunset.",
+        "",
+        "%% u1272:0-28, u1273:0-8, u1274:0-34, u1275:0-22, u1276:0-16 %%",
+        "Seeker: Seeker brings— that is true, and says, we've traveled in the fey- in the— And I was gifted this, a single thread.",
+        "",
+        "%% u1277:0-8, u1278:0-25 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1279:0-130 %%",
+        "DM: As you hold it up, it begins to turn reddish gold and then blue and green all along the thread, as if it's reflecting the rainbow.",
+        "",
+        "%% u1280:0-36 %%",
+        "Seeker: Like it's interacting with the cloak?",
+        "",
+        "%% u1281:0-81, u1282:0-56 %%",
+        "DM: Like it's like it's sort of reflecting the light of the cloak in a way that isn't obvious to like the— there's— it's like it's like sort of—",
+        "",
+        "%% u1283:0-111 %%",
+        "DM: It's almost as if there's some like UV light, or something coming off the cloak that is lighting up this thread.",
+        "",
+        "%% u1284:0-128, u1285:0-32 %%",
+        "Seeker: Seeker starts to experiment a little bit with it, stretching it, twisting it, listening. Such a beautiful- this Queen of Sunset! Would she were one day restored.",
+        "",
+        "%% u1286:0-32, u1287:0-4 %%",
+        "DM: Indeed, for— Lubash speaking now— Are—",
+        "",
+        "%% u1288:0-101, u1289:0-110, u1290:0-4 %%",
+        "DM: It has been painfully slow to free our people. Only these threads— and he pulls the cloak around him— And the memories of our time in the desert when- and wandering in the wilderness when this cloak was lost has— Wow!",
+        "",
+        "%% u1291:0-17, u1292:0-35 %%",
+        "DM: I am reluctant to use something such as this as bait.",
+        "",
+        "%% u1293:0-76 %%",
+        "DM: I am certainly now reluctant to send you away after everything you spoke of.",
+        "",
+        "%% u1294:0-14, u1295:0-43, u1296:0-35, u1297:0-79 %%",
+        "Delwath: I do not think you have a choice about using this as bait. You're already being hunted for it. It's too late to keep its existence hidden, or to keep anybody from hunting it.",
+        "",
+        "%% u1298:0-24, u1299:0-36, u1300:0-7, u1301:0-26, u1302:0-45, u1303:0-59, u1304:0-12 %%",
+        "Delwath: The question is, do you— I think the real question is, do you attempt trickery and misdirection, and hope the enemies seek it where it is not, or do you not? Do you gather your forces and make a defense where it is?",
+        "",
+        "%% u1305:0-68, u1306:0-97, u1307:0-22 %%",
+        "Delwath: They will come after you. Question is, will they come after you here or somewhere else? Or will they come after you not at all, because they’ve bought the story that we've taken the cloak?",
+        "",
+        "%% u1308:0-45, u1309:0-51 %%",
+        "Delwath: I don't know which is— there's no safety here unless you have some impenetrable place to flee to.",
+        "",
+        "%% u1310:0-25, u1311:0-39, u1312:0-15, u1313:0-43, u1314:0-67, u1315:0-42 %%",
+        "Delwath: If you prefer it, we will stay here as guards, for sure, although I would suggest any misdirection that can be done be done. If Kadmos doesn't believe that we are here, perhaps it weakens his— Any trap we can set is preferable to none.",
+        "",
+        "%% u1316:0-34, u1317:0-36, u1318:0-28 %%",
+        "DM: The stories you have told of these Chardonian hunters have unnerved me, and I will take your advice."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Why do you ask if there are spellcasters in the palace?",
+          "Delwath: Their strength is in their magic. There’s at least 3.",
+          "Delwath: This group, Kadmos and his associates, have at least 3 powerful spellcasters which can be hard to counter without your— that's why I ask.",
+          "DM: Our strongest magic users are on the front lines.",
+          "Delwath: I think they are planning something. Do you— How we respond is— You have a suggestion?"
+        ],
+        "after": [
+          "Delwath: Waiting for Tim to tell us which way to go, whether you suggest—",
+          "DM: A trap here or a trap elsewhere? Or perhaps, should you—",
+          "DM: Perhaps it is time to consider flight. We do have the mountains to the east of here.",
+          "DM: On the other side of the— At— On the other side of the series of jagged, broken hills, as the river rushes through waterfalls and gorges.",
+          "DM: There are caves there, twisting passages that we have fortified over generations."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Lubash considers flight and Murook requests protection",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1320",
+        "endUid": "u1378"
+      },
+      "lines": [
+        "%% u1320:0-32, u1321:0-23 %%",
+        "DM: A trap here or a trap elsewhere? Or perhaps, should you—",
+        "",
+        "%% u1322:0-38, u1323:0-10, u1324:0-34 %%",
+        "DM: Perhaps it is time to consider flight. We do have the mountains to the east of here.",
+        "",
+        "%% u1325:0-24, u1326:0-3, u1327:0-24, u1328:0-82 %%",
+        "DM: On the other side of the— At— On the other side of the series of jagged, broken hills, as the river rushes through waterfalls and gorges.",
+        "",
+        "%% u1329:0-53, u1330:0-27 %%",
+        "DM: There are caves there, twisting passages that we have fortified over generations.",
+        "",
+        "%% u1331:0-3 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1332:0-18, u1333:0-8 %%",
+        "Delwath: But would that not abandon—",
+        "",
+        "%% u1334:0-43 %%",
+        "Delwath: Sorry! I I fear that delays the inevitable.",
+        "",
+        "%% u1335:0-13, u1336:0-47, u1337:0-17, u1338:0-22 %%",
+        "DM: And it would. It would mean abandoning our land to be overrun, for once I leave, once the cloak leaves—",
+        "",
+        "%% u1339:0-63, u1340:0-85 %%",
+        "Delwath: I think it is not wisdom to abandon your advantage immediately. If Grash preferred an army of undead, he would have just killed all the orcs himself.",
+        "",
+        "%% u1341:0-34, u1342:0-32 %%",
+        "Delwath: It must take something out of him. There's value in defeating them.",
+        "",
+        "%% u1343:0-5, u1344:0-24 %%",
+        "((Interrupted speech))",
+        "",
+        "%% u1345:0-45, u1346:0-38 %%",
+        "DM: Then, that you and your skyship remain close should flight be necessary at the end.",
+        "",
+        "%% u1347:0-45 %%",
+        "Riswynn: We would definitely seek to provide that aid.",
+        "",
+        "%% u1348:0-25, u1349:0-46, u1350:0-7, u1351:0-6, u1352:0-30, u1353:0-74, u1354:0-23 %%",
+        "DM: Which of your subterfuges is most likely to work I do not know, although if you— If you pretended to flee in disgrace, perhaps these enemies would believe that I had taken the skyship from you, and so it could remain.",
+        "",
+        "%% u1355:0-4 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1356:0-47, u1357:0-23, u1358:0-49 %%",
+        "DM: Or perhaps it is better for you to travel west but not so far as to be beyond a return should his armies break through.",
+        "",
+        "%% u1359:0-89, u1360:0-80, u1361:0-22, u1362:0-16 %%",
+        "DM: He looks around the table like, anybody else want to chime in? Murook looks over and says, unless we unless we recall some forces, there is little we can do to protect you in this palace without these travelers.",
+        "",
+        "%% u1363:0-33, u1364:0-58, u1365:0-41 %%",
+        "DM: We did not anticipate or plan for this aim of- we thought we had driven the Chardonians out. We thought they were fleeing in disgrace.",
+        "",
+        "%% u1366:0-3, u1367:0-15, u1368:0-66, u1369:0-20, u1370:0-24, u1371:0-37 %%",
+        "DM: So, unless it would tip the hand of some subterfuge, I would feel far more comfortable if you were defended by recalling some of our more capable fighters from the front.",
+        "",
+        "%% u1372:0-55 %%",
+        "DM: If you are to leave the palace— gestures to all of you.",
+        "",
+        "%% u1373:0-50 %%",
+        "Delwath: How long would it take for them to retreat— return?",
+        "",
+        "%% u1374:0-6, u1375:0-26 %%",
+        "DM: A day? We probably somewhat— well—",
+        "",
+        "%% u1376:0-22, u1377:0-57, u1378:0-30 %%",
+        "DM: Possibly as quickly as a full day. 24 h. They could go by river, come downstream, but it is not a short journey."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: They will come after you. Question is, will they come after you here or somewhere else? Or will they come after you not at all, because they’ve bought the story that we've taken the cloak?",
+          "Delwath: I don't know which is— there's no safety here unless you have some impenetrable place to flee to.",
+          "Delwath: If you prefer it, we will stay here as guards, for sure, although I would suggest any misdirection that can be done be done. If Kadmos doesn't believe that we are here, perhaps it weakens his— Any trap we can set is preferable to none.",
+          "DM: The stories you have told of these Chardonian hunters have unnerved me, and I will take your advice.",
+          "Delwath: Waiting for Tim to tell us which way to go, whether you suggest—"
+        ],
+        "after": [
+          "Delwath: It will take some time, I think. I mean, how quickly—",
+          "Delwath: Kadmos is still with the army there. How far away? How far away is the front? Just in my, it's like 100, something miles right?",
+          "DM: Yeah. The front is. The front is like a hundred 10 miles away, roughly.",
+          "Delwath: So Kadmos can't cross that faster than a day unless they have some teleport scroll. Some—",
+          "Riswynn: If I use my magic to try to thwart any sort of rapid magical arrival from from them, so that we know that the King's protectors could arrive before the magic wielders, or so that we favor the King's protectors arriving before the magic wielders. That would be a strategy."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Lubash permits reversible palace defenses",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u1700",
+        "endUid": "u1713"
+      },
+      "lines": [
+        "%% u1700:0-298, u1701:0-103, u1702:0-115, u1703:0-20, u1704:0-33 %%",
+        "DM: ((Spell-slot discussion))So now that you're- so so Lubash has- as dinner wraps up Lubash and the Loremaster have remained, and Murook is touring with 2 of her trusted guards, sort of, you know, trying to help you figure out like, where does— You know, station things and like Lubash is basically fine with this, like, whatever you want to do, as long as it's— As long as it can be fixed once the danger has passed.",
+        "",
+        "%% u1705:0-43 %%",
+        "Delwath: Does he actually care about it being fixed?",
+        "",
+        "%% u1706:0-166 %%",
+        "DM: I mean, he doesn't want you to blow up the palace unless it's necessary. But putting up an extra Wall of Stone, sure. Yeah, because you can always just chisel it out.",
+        "",
+        "%% u1707:0-85, u1708:0-19, u1709:0-49 %%",
+        "DM: He would prefer you add things that can be removed than you destroy a bunch of stuff, unless you have to. And you can't totally block off their ability to—",
+        "",
+        "%% u1710:0-86 %%",
+        "Delwath: You know, people still need to be able to come and go through the palace right? Right?",
+        "",
+        "%% u1711:0-46, u1712:0-18 %%",
+        "DM: So, for example, he wants to make sure that if they need to flee—",
+        "",
+        "%% u1713:0-30 %%",
+        "Delwath: They have a way to flee right?"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Enter. And what if the trap then is is less primarily about keeping them out and more about keeping them in once they've gotten in? So we cast Forbiddance so they can't get in.",
+          "Wellby: We offer them, you know. Either we we open that one corner or some corner that they can get in, but we block off their exits like we could block off from the inside with walls of stone, the stairs to the lower levels for the upper levels?",
+          "Kenzo: Right? And what if what if we? What if we fucking red wedding style have like a bunch of archers, or something like that that just like, you know, rain down fiery hell on them.",
+          "Seeker: I mean, we can make permanent walls, right? Like, how many Fifth Level spells can you cast, Seeker, but—",
+          "DM: 2 plus you could use your sixth-level slot, so you could do 3."
+        ],
+        "after": [
+          "Seeker: We got it. We got to think like our enemies here. How are they going to try to— so you can. Just as a reminder—",
+          "DM: You did use the mirror trap on them the last time they tried to steal it.",
+          "Seeker: Oh, crap!",
+          "Wellby: Mechanically, it turns out not to have a super high DC.",
+          "DM: Also, it doesn't work on somebody who is invisible."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Speaker Lara’s letter and Rishii’s encouragement",
+      "entities": [
+        {
+          "id": "e029",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e035",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1731",
+        "endUid": "u1775"
+      },
+      "lines": [
+        "%% u1731:0-60, u1732:0-32 %%",
+        "DM: Oh, yes, now that you're wandering around, the lynx shows up and drops a letter at your feet.",
+        "",
+        "%% u1733:0-48 %%",
+        "DM: The letter reads- well, it's addressed to Kenzo.",
+        "",
+        "%% u1734:0-37 %%",
+        "Delwath: So I guess you hand it to Kenzo. Yes.",
+        "",
+        "%% u1735:0-30 %%",
+        "Kenzo: Kenzo opens it. What's it say?",
+        "",
+        "%% u1736:0-80, u1737:0-48, u1738:0-18, u1738:18-74, u1739:0-107 %%",
+        "((Arranging to read the letter))",
+        "",
+        "%% u1740:0-232 %%",
+        "Kenzo: Okay, Kenzo. The blessings of Laka be with you, and may his divine grace guide my words to you as the season of blessing approaches. May your deeds earn the divine grace of Sonkar, and may her judgment look favorably upon your year.",
+        "",
+        "%% u1741:0-285, u1742:0-6 %%",
+        "Kenzo: Your news brings little clarity to my troubled thoughts, for it seems the time is coming soon when I must take up the ancient role of our order and declare before all who the gods wish to rule over Dunmar. Oh, fuck! And yet I cannot see what course of action Laka would have me choose. But it—",
+        "",
+        "%% u1743:0-218 %%",
+        "Kenzo: How the gods must wail and gnash at the frailties of us feeble humans that must, I must trust, discern their will and be their divine hand on earth. Never have I felt more unworthy of the power entrusted to me by Laka.",
+        "",
+        "%% u1744:0-416 %%",
+        "Kenzo: My dream- my dreams remain filled with the corpses of my people, with rotting bodies of the Dunmari across the plains in nightmares of war I wrote about in my last letter. And yet now I wonder that I missed the message of the gods in my haste and fear, for when I force myself to look, to see the nightmare, to stare in the darkness, I see the corpses on the field of battle shake and sway and begin to rise. Oh, no!",
+        "",
+        "%% u1745:0-77 %%",
+        "Kenzo: Perhaps my dreams have been a warning of this creature to the east all along.",
+        "",
+        "%% u1746:0-593 %%",
+        "Kenzo: And if that is the fear the gods would warn me of, were I to throw the legitimacy of Laka behind Sura, as the fire of Aagir so obviously burns in her, despite my misgivings that the fires of Aagir do not make one a just ruler. And yet when I pray on Karnas, I hear nothing. Silence! No god will speak for him. Shall I- I will not burden you more with my troubles, for you must face dangers of your own. Before I close and deliver my words to this foreign god that carry them to you, Rishii has a message for you, Kenzo. In these uncertain times, when all paths seem fraught, trust in yourself.",
+        "",
+        "%% u1747:0-200 %%",
+        "Kenzo: You've grown into great power, no longer the fleeing boy we took in half a decade ago! And I could not be more proud of you. May the wisdom of Laka guide your paths. Yours in fellowship, Speaker Lara.",
+        "",
+        "%% u1748:0-24 %%",
+        "Kenzo: Well, that's terrifying.",
+        "",
+        "%% u1749:0-4, u1750:0-40 %%",
+        "((Brief interjection and the messenger’s departure))",
+        "",
+        "%% u1751:0-2, u1752:0-44 %%",
+        "Kenzo: So wow! They don't know who to back in the war.",
+        "",
+        "%% u1753:0-22 %%",
+        "Seeker: And so trust yourself.",
+        "",
+        "%% u1754:0-22, u1755:0-10 %%",
+        "((Brief joke))",
+        "",
+        "%% u1756:0-42 %%",
+        "Kenzo: We have so much to sort out. This is a lot.",
+        "",
+        "%% u1757:0-84, u1758:0-62 %%",
+        "Riswynn: It does sound like, maybe she thinks that the threat in the East with the zombies is actually something she's been divinely inspired to worry about.",
+        "",
+        "%% u1759:0-3 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1760:0-35 %%",
+        "Delwath: This letter is now, what, 3 days old?",
+        "",
+        "%% u1761:0-15, u1762:0-4, u1763:0-43, u1764:0-46 %%",
+        "DM: More than that. It’s— It's now— today is the evening of December. So I guess it's yeah. I guess it's 4 days old.",
+        "",
+        "%% u1765:0-70, u1766:0-30, u1767:0-52 %%",
+        "Delwath: Whatever is going to happen in the West is going to happen. I think we can just do our best here, and there's nothing we can do for the Dunmari right now.",
+        "",
+        "%% u1768:0-38 %%",
+        "Kenzo: Yeah, let's focus on the task at hand.",
+        "",
+        "%% u1769:0-107, u1770:0-44, u1771:0-33, u1772:0-28, u1773:0-66 %%",
+        "Kenzo: Although, I see the corpses on the field of battle shake and sway and begin to rise. That seems to be like a— You know, Grash has abilities in the East to do terrible things to the Dunmari going back West, which again goes to the how can we unify Dunmar, or how can Dunmar be unified?",
+        "",
+        "%% u1774:0-9 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1775:0-39 %%",
+        "Kenzo: Laka, where the fuck are you right now?"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: It's classic Enter the Dragon, guys.",
+          "Riswynn: I love it. It’s gonna be like, wait, your spellcasters are afraid of mirrors? He! You wonder what?",
+          "Delwath: Wow! You know—",
+          "Riswynn: This.",
+          "Delwath: Does the does the lynx show up now that we're wandering around?"
+        ],
+        "after": [
+          "Delwath: I'll ask Mu- Mu- what's her name? Sorry, I can't- Murook. Murook, if she wishes to send a letter to her warriors.",
+          "Unknown: That.",
+          "DM: I do not know, for if you will stay here, are they not better used on the front lines?",
+          "Kenzo: What support would be most valuable to you in your—",
+          "DM: Fight."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Murook sends a disguised reinforcement request",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e044",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e038",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e046",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1776",
+        "endUid": "u1837"
+      },
+      "lines": [
+        "%% u1776:0-8, u1777:0-104 %%",
+        "Delwath: I'll ask Mu- Mu- what's her name? Sorry, I can't- Murook. Murook, if she wishes to send a letter to her warriors.",
+        "",
+        "%% u1778:0-4 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1779:0-14, u1780:0-71 %%",
+        "DM: I do not know, for if you will stay here, are they not better used on the front lines?",
+        "",
+        "%% u1781:0-50 %%",
+        "Kenzo: What support would be most valuable to you in your—",
+        "",
+        "%% u1782:0-5 %%",
+        "DM: Fight.",
+        "",
+        "%% u1783:0-6, u1784:0-20 %%",
+        "Delwath: We are strong in magic, but—",
+        "",
+        "%% u1785:0-5 %%",
+        "Kenzo: A few—",
+        "",
+        "%% u1786:0-37, u1787:0-23 %%",
+        "Delwath: Skilled swordsmen would not go amiss, if any could be spared.",
+        "",
+        "%% u1788:0-30, u1789:0-9, u1790:0-57, u1791:0-53, u1792:0-29, u1793:0-18, u1794:0-197, u1795:0-24, u1796:0-33, u1797:0-31, u1798:0-51, u1799:0-5, u1800:0-53, u1801:0-67, u1802:0-8, u1803:0-37, u1804:0-105, u1805:0-49, u1806:0-37, u1807:0-51, u1808:0-118, u1809:0-42, u1810:0-88, u1811:0-39, u1812:0-161, u1813:0-44 %%",
+        "((Tactical discussion of which warriors and rooms would help))",
+        "",
+        "%% u1814:0-43, u1815:0-43 %%",
+        "DM: Wrapping up the Murook plot line, she says, writes a letter asking for volunteers among—",
+        "",
+        "%% u1816:0-72, u1817:0-69, u1818:0-83 %%",
+        "DM: Asking for 2. So, asking Commander Vorgaz to pick 2 of his best warriors and send them back as quickly as possible to bolster the King's guard. As they— you know, she writes, she asks, how secure is this method of communication?",
+        "",
+        "%% u1819:0-85 %%",
+        "Delwath: It's a good question, but my assumption is that there's no mechanism to intercept it.",
+        "",
+        "%% u1820:0-48, u1821:0-60 %%",
+        "DM: It's except unless somebody was waiting, I mean— It can't be intercepted until it arrives at its destination.",
+        "",
+        "%% u1822:0-106 %%",
+        "Delwath: There— while it is in transit, it— is it as secure as can be? Of course, once it arrives, it's just a letter.",
+        "",
+        "%% u1823:0-69, u1824:0-20, u1825:0-58 %%",
+        "Delwath: This companion of mine will not give it to anybody save who is named, but of course cannot stop a spy from reading over their shoulder, or otherwise.",
+        "",
+        "%% u1826:0-33, u1827:0-21, u1828:0-37, u1829:0-14, u1830:0-39 %%",
+        "DM: I will be cautious then, and say, because the travelers, who we thought would defend the king, have attempted to take what is ours and been expelled.",
+        "",
+        "%% u1831:0-22, u1832:0-56 %%",
+        "DM: Ask him to please send 2 of his strongest warriors to bolster the King's guard.",
+        "",
+        "%% u1833:0-4 %%",
+        "Seeker: Nice.",
+        "",
+        "%% u1834:0-27, u1835:0-72 %%",
+        "DM: In case the fort has fallen in the night, and somehow Grash's army is there to receive this message.",
+        "",
+        "%% u1836:0-42 %%",
+        "DM: She writes the letter and hands it to you.",
+        "",
+        "%% u1837:0-41 %%",
+        "Delwath: I'll hand it to the lynx and send it off."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Whatever is going to happen in the West is going to happen. I think we can just do our best here, and there's nothing we can do for the Dunmari right now.",
+          "Kenzo: Yeah, let's focus on the task at hand.",
+          "Kenzo: Although, I see the corpses on the field of battle shake and sway and begin to rise. That seems to be like a— You know, Grash has abilities in the East to do terrible things to the Dunmari going back West, which again goes to the how can we unify Dunmar, or how can Dunmar be unified?",
+          "Unknown: Question.",
+          "Kenzo: Laka, where the fuck are you right now?"
+        ],
+        "after": [
+          "DM: So you then go talk to Lubash and ask him, what did you want to ask him?",
+          "Delwath: Did the guys- did the Chardonians get any sense of the palace?",
+          "DM: He’s- Lubash and the Loremaster are sitting and talking quietly as we return back to the— Back to the throne room, and it seems like they're, you know, everybody else has left, and it's just the 2 of them at a fire, and there's a—",
+          "Riswynn: Wind, a border, or whatever. Like, did we do the whole Seeker, when we were sure we weren't being watched, did we do the whole Seeker expands the telepathy web thing?",
+          "Riswynn: I kind of feel like we should do that, because time is passing when they could no longer be poring over maps. They could like- this was just scrying like 10 minutes later, so I thought we should. I mean—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Chiefling Uzgul is introduced",
+      "entities": [
+        {
+          "id": "e039",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u1851",
+        "endUid": "u1862"
+      },
+      "lines": [
+        "%% u1851:0-54, u1852:0-20, u1853:0-138 %%",
+        "DM: So there's a there's a another person. There's a young man, teen, maybe 13, who is sitting and listening to the Loremaster tell a story. The family resemblance to Lubash is apparent, probably a nephew or something.",
+        "",
+        "%% u1854:0-13, u1855:0-125 %%",
+        "DM: But this this guy has like a mohawk of wiry black hair and a silver earring, and is like vibrant green, sort of nervous excitement, energy!",
+        "",
+        "%% u1856:0-120, u1857:0-16, u1858:0-88 %%",
+        "DM: As you, as you approach, Lubash stands up and and says out loud, not telepathically, let me introduce my nephew and heir, Chiefling Uzgul. Back! And then he says telepathically, give us a moment, and and we will speak with you.",
+        "",
+        "%% u1859:0-42, u1860:0-92, u1861:0-39, u1862:0-177 %%",
+        "DM: They say good night and stuff any. The the— Uzgul is like- looks up at all of you like, since obviously never met an elf or a dwarf, or— Really, before— he's seen humans before. So he's like- or a halfling. So he's like fascinated by all of you, and he's just like kind of staring a little bit, and then goes off. And then Lubash continues telepathically."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Okay, I just wanted to make sure that we did.",
+          "DM: The spell will be- you'll be- I mean, it's only an hour duration. So you're going to have to cast it again if you want to keep it going, and that's taking a fifth-level spell slot. So that's going to limit the number of Walls of Stone you can make.",
+          "Seeker: But you can rit one, right?",
+          "DM: You can ritual it if they're watching. It's a little obvious, but you could ritual it now to restart it.",
+          "Seeker: Yeah, it's just like it's, you know, your cat- they probably couldn't identify a ritual by scry."
+        ],
+        "after": [
+          "DM: You ask him about the Chardonians, and and he says, unfortunately they were here for several months.",
+          "DM: A woman, Evelina, and 3 men, Valius and Vargus, twins, and then Roman. He was the one who is dead now.",
+          "DM: And— My headphones just died. You guys still hear me? Yeah, okay.",
+          "DM: They came, maybe in July, late June, many months ago.",
+          "DM: For a while we would not let them in. They pretended to be traders. There were 3 of them that— One of them came later, disguised as an orc."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Lubash recounts the Chardonian infiltration",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e040",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e041",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e042",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1863",
+        "endUid": "u1920"
+      },
+      "lines": [
+        "%% u1863:0-84, u1864:0-15 %%",
+        "DM: You ask him about the Chardonians, and and he says, unfortunately they were here for several months.",
+        "",
+        "%% u1865:0-17, u1866:0-29, u1867:0-54 %%",
+        "DM: A woman, Evelina, and 3 men, Valius and Vargus, twins, and then Roman. He was the one who is dead now.",
+        "",
+        "%% u1868:0-3, u1869:0-60 %%",
+        "((Headphone interruption))",
+        "",
+        "%% u1870:0-10, u1871:0-14, u1872:0-27 %%",
+        "DM: They came, maybe in July, late June, many months ago.",
+        "",
+        "%% u1873:0-42, u1874:0-50, u1875:0-11, u1876:0-32 %%",
+        "DM: For a while we would not let them in. They pretended to be traders. There were 3 of them that— One of them came later, disguised as an orc.",
+        "",
+        "%% u1877:0-52, u1878:0-39, u1879:0-40 %%",
+        "DM: That's how we found out. Apparently they slipped up and one of my guards saw Roman shifting his looks from orcish to human, and the—",
+        "",
+        "%% u1880:0-63, u1881:0-5, u1882:0-13 %%",
+        "DM: That the 3 of them, Evelina, Valius and Vargus, they showed up, maybe 5 months ago.",
+        "",
+        "%% u1883:0-25, u1884:0-85, u1885:0-21, u1886:0-69 %%",
+        "DM: Claimed to be traders and scholars seeking to make contact with us and exchange goods and information. Chardon. It took— they were not so forthcoming when— did not come in a time of nearly so much trouble.",
+        "",
+        "%% u1887:0-60, u1888:0-5, u1889:0-83 %%",
+        "DM: And at first they didn't even ask for an audience. They just there— Came to the markets and traded, and we let them in the gate, but not in the palace.",
+        "",
+        "%% u1890:0-24, u1891:0-20, u1892:0-40, u1893:0-24 %%",
+        "DM: Spent money freely, right, [garbled] and sold many things that we have little of, made themselves popular.",
+        "",
+        "%% u1894:0-26 %%",
+        "Seeker: So familiar faces, places.",
+        "",
+        "%% u1895:0-79, u1896:0-97, u1897:0-51 %%",
+        "DM: And after about a month they asked for an audience. We spoke with them briefly. It's about this time that the one disguised in as an Orc showed up and pretended to be one of the lost people of the Rainbow, coming, seeking refuge.",
+        "",
+        "%% u1898:0-28, u1899:0-43, u1900:0-151 %%",
+        "DM: And after— over the course of a month they spent many days in the palace. Walking around, hearing our stories, hearing our lore, sharing their own lore, even hearing of the cloak. Yes, I mean they saw it. They saw me wear it.",
+        "",
+        "%% u1901:0-41, u1902:0-16, u1903:0-23, u1904:0-37, u1905:0-15, u1906:0-66, u1907:0-8 %%",
+        "DM: And it wasn't until in the end of August, maybe September, about a few months ago, we saw the orc shifting into a human, questioned him, gave up his friends quite quickly, thought it would save his life. Did not.",
+        "",
+        "%% u1908:0-54, u1909:0-50 %%",
+        "DM: But he managed to warn them somehow, maybe with magic, and they ran before we could pin down the other 3.",
+        "",
+        "%% u1910:0-142 %%",
+        "DM: They must have spent some time sneaking around our borders because they ran east, not west, and you say you saw them join the army to the west.",
+        "",
+        "%% u1911:0-45 %%",
+        "Seeker: Strange, if they ran east. Perhaps they even—",
+        "",
+        "%% u1912:0-87 %%",
+        "DM: Spent some of the few unaccounted for months learning of our refuge in that direction.",
+        "",
+        "%% u1913:0-77 %%",
+        "DM: We tried to hunt them, but few of my people will willingly leave our borders.",
+        "",
+        "%% u1914:0-80 %%",
+        "Seeker: And where else would they have gone to the east? What else is there to the east?",
+        "",
+        "%% u1915:0-37, u1916:0-70, u1917:0-74 %%",
+        "DM: Do not know what is beyond the hills. It's tough traveling. There's canyons and deep gorges and rocky peaks, rivers that flow and cascade down from the mountains, caves and sinkholes.",
+        "",
+        "%% u1918:0-99, u1919:0-126 %%",
+        "DM: Would have been very slow going. I doubt they traveled particularly far through those hills if they made their way around our kingdom, for they did not cross the border again that we were aware of, unless invisibly with magic.",
+        "",
+        "%% u1920:0-76 %%",
+        "DM: But I'm afraid you cannot assume that our palace layout is unknown to these."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah, it's just like it's, you know, your cat- they probably couldn't identify a ritual by scry.",
+          "DM: So there's a there's a another person. There's a young man, teen, maybe 13, who is sitting and listening to the Loremaster tell a story. The family resemblance to Lubash is apparent, probably a nephew or something.",
+          "DM: But this this guy has like a mohawk of wiry black hair and a silver earring, and is like vibrant green, sort of nervous excitement, energy!",
+          "DM: As you, as you approach, Lubash stands up and and says out loud, not telepathically, let me introduce my nephew and heir, Chiefling Uzgul. Back! And then he says telepathically, give us a moment, and and we will speak with you.",
+          "DM: They say good night and stuff any. The the— Uzgul is like- looks up at all of you like, since obviously never met an elf or a dwarf, or— Really, before— he's seen humans before. So he's like- or a halfling. So he's like fascinated by all of you, and he's just like kind of staring a little bit, and then goes off. And then Lubash continues telepathically."
+        ],
+        "after": [
+          "Delwath: That may be to our advantage, though; it's much easier to set a trap if we know where they might be. But it's good to know.",
+          "Seeker: What is the greatest vulnerability of this building to someone attempting to—",
+          "DM: What is the what?",
+          "Seeker: What's the greatest vulnerability of this building to someone wants to get in?",
+          "DM: Palace is not built for defense, precisely."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The imprisoned orc is freed into Lubash’s care",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2257"
+      },
+      "lines": [
+        "%% u2152:0-73, u2153:0-58, u2154:0-71 %%",
+        "DM: And you- Wellby sneaks off to take out the mirror and you summon the orc, who appears in the mirror looking— she is. She is sort of a middle-aged Orc, probably 30, 40, 50, something like that hard to tell.",
+        "",
+        "%% u2155:0-5, u2156:0-15, u2157:0-133 %%",
+        "DM: Looks— Not in, I mean— Like she's not like super badly damaged, but she's like- her clothes are tattered. She doesn't really have any equipment or anything.",
+        "",
+        "%% u2158:0-18, u2159:0-81, u2160:0-29 %%",
+        "DM: She's just kind of like looking around, and then looks up and sort of sees- sees you all and Lubash, and says something in Orcish.",
+        "",
+        "%% u2161:0-26 %%",
+        "Kenzo: Which Delwath understands.",
+        "",
+        "%% u2162:0-48, u2163:0-61 %%",
+        "DM: If Delwath wants to cast Tongues. He does. Okay? So you can telepathically tell us what is going on. And then—",
+        "",
+        "%% u2164:0-42, u2165:0-77 %%",
+        "((Magic-item joke))",
+        "",
+        "%% u2166:0-8, u2167:0-4, u2168:0-83, u2169:0-12 %%",
+        "DM: The orc— That— Then so while Delwath is is casting Tongues, Lubash says to you all telepathically, who’s Agata?",
+        "",
+        "%% u2170:0-4 %%",
+        "((Brief interjection))",
+        "",
+        "%% u2171:0-3, u2172:0-12, u2173:0-62 %%",
+        "Wellby: But— An evil fey, witch who liked to make bargains that were awful for everyone.",
+        "",
+        "%% u2174:0-70 %%",
+        "DM: He's sort of listening, as as you know, this orc is is babbling on and—",
+        "",
+        "%% u2175:0-142 %%",
+        "Kenzo: Wait, do we- and do we understand it? Because, because, yeah. So Delwath picks up midstream? She, you know, the orc is sort of babbling about—",
+        "",
+        "%% u2176:0-8, u2177:0-3 %%",
+        "DM: Agata’s— At—",
+        "",
+        "%% u2178:0-30, u2179:0-33, u2180:0-21, u2181:0-5, u2182:0-18 %%",
+        "DM: I won't. I won't tell her. But— I I I I didn't tell her anything. She threw me in here. What? Where? Where am I?",
+        "",
+        "%% u2183:0-10 %%",
+        "((Brief interjection))",
+        "",
+        "%% u2184:0-13, u2185:0-20 %%",
+        "DM: Where is she? Can you get her out?",
+        "",
+        "%% u2186:0-78 %%",
+        "Wellby: Yeah. But where is she from? I mean, what's she going to do when she gets out?",
+        "",
+        "%% u2187:0-22 %%",
+        "Kenzo: Will she fight for us?",
+        "",
+        "%% u2188:0-75 %%",
+        "DM: I don't think she's in any condition to fight, but she is one of my people.",
+        "",
+        "%% u2189:0-62 %%",
+        "Wellby: Oh. oh, yeah, we can definitely get her out. Yeah, absolutely.",
+        "",
+        "%% u2190:0-30, u2191:0-177, u2192:0-19, u2193:0-47 %%",
+        "((Out-of-character discussion of the old clue))",
+        "",
+        "%% u2194:0-9 %%",
+        "Delwath: Released.",
+        "",
+        "%% u2195:0-49, u2196:0-67, u2197:0-140 %%",
+        "DM: She she sort of falls out of the mirror and, like, you know, like kneels down in front of Lubash, and is like kind of, just just kind of swaying back and forth a little bit, and then and then collapses and and looks up, and also still speaking in Orcish, and—",
+        "",
+        "%% u2198:0-24, u2199:0-78, u2200:0-61 %%",
+        "DM: Lubash is is translating. I mean, well, Delwath can be translating too. Lubash says, you know, she says— He’s like- says to her in Orcish, like, “Slow down, slow down.”",
+        "",
+        "%% u2201:0-34, u2202:0-8, u2203:0-9, u2204:0-9 %%",
+        "DM: She wants to know what year it is. Tell her it's been 60 years.",
+        "",
+        "%% u2205:0-22, u2206:0-39 %%",
+        "DM: This is strange magic. She said it was as if it was yesterday.",
+        "",
+        "%% u2207:0-50 %%",
+        "Delwath: Yes, it does strange things to your sense of time.",
+        "",
+        "%% u2208:0-35, u2209:0-8, u2210:0-8 %%",
+        "DM: It was in my father's mother's time as chief she was—",
+        "",
+        "%% u2211:0-38, u2212:0-12 %%",
+        "DM: So that—“You’re okay,” he says to her. You're safe.",
+        "",
+        "%% u2213:0-12, u2214:0-19, u2215:0-8, u2216:0-32 %%",
+        "DM: Says she was captured, kidnapped by orcs, the chained ones on our borders.",
+        "",
+        "%% u2217:0-7, u2218:0-22 %%",
+        "DM: She had ventured out to scout.",
+        "",
+        "%% u2219:0-109, u2220:0-16 %%",
+        "DM: She had been a scout riding from our borders, trying to keep us aware of any disturbances that might threaten the western end.",
+        "",
+        "%% u2221:0-23, u2222:0-90, u2223:0-27, u2224:0-23 %%",
+        "DM: They were cruel to her, but she was not killed, because the orcs said there was some witch, Agata, who would trade powerful favors in exchange for Orcs from this land.",
+        "",
+        "%% u2225:0-34, u2226:0-40, u2227:0-35 %%",
+        "DM: From between the rivers. They said— She said Agata knew all about the cloak, didn't know that it had been found.",
+        "",
+        "%% u2228:0-39 %%",
+        "Delwath: Agata's from the Cloudspinner's domain.",
+        "",
+        "%% u2229:0-30 %%",
+        "DM: And you say she is gone, dead?",
+        "",
+        "%% u2230:0-9, u2231:0-11 %%",
+        "Kenzo: Captured. Imprisoned.",
+        "",
+        "%% u2232:0-26, u2233:0-23 %%",
+        "Delwath: She has been imprisoned by the fey for her crimes.",
+        "",
+        "%% u2234:0-71, u2235:0-47 %%",
+        "DM: This orc would only tell her legends and stories that she already knew, and so she was beaten and tossed in the mirror.",
+        "",
+        "%% u2236:0-8, u2237:0-38, u2238:0-38, u2239:0-110, u2240:0-35, u2241:0-21 %%",
+        "DM: She said every now and again she would wake up, felt like it was just moments passing, and then Agata would question her more, and Agata's hut never seemed to change, and so she thought it was just minutes between. Each interrogation must have been years.",
+        "",
+        "%% u2242:0-6, u2243:0-27, u2244:0-33 %%",
+        "DM: She is understandably shaken that everyone she knew is likely gone.",
+        "",
+        "%% u2245:0-50, u2246:0-38, u2247:0-29, u2248:0-13, u2249:0-41 %%",
+        "DM: But she seems to not have given away our location, or the secret that the cloak was still— Had been found and recovered, or any of the more hidden tales of our people to Agata.",
+        "",
+        "%% u2250:0-32, u2251:0-36 %%",
+        "DM: Thank you for bringing her back. We'll find somebody to care for her.",
+        "",
+        "%% u2252:0-100 %%",
+        "DM: She had no children, but she had a sister, so perhaps she has nieces or nephews still in this world.",
+        "",
+        "%% u2253:0-30, u2254:0-39, u2255:0-19 %%",
+        "Delwath: I'm glad we could reunite her. Thank you, Wellby, for thinking of her. Had not occurred to—",
+        "",
+        "%% u2256:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u2257:0-10 %%",
+        "Delwath: Any of us."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: That's fucking perfect. Then then we get the jump on them. So then we know when they're near, and then you can cast the Sickening Radiance so that we can see invisible, and then we fuck them up in the bedroom. Right, Mike.",
+          "Delwath: I mean. I think so.",
+          "Kenzo: Let's lock that in.",
+          "DM: So, as you've been pacing and plotting for the past couple of hours in the palace before turning in, you return to the— Return again to the throne room, where now Lubash is just sitting contemplating.",
+          "DM: Lubash and the Loremaster are still there. The the young one has gone to bed."
+        ],
+        "after": [
+          "Wellby: Let's remember all of this when we run into a bunch of peaceful hobgoblins. We've got one of those in there too.",
+          "Seeker: Oh, but we spoke to her. You know, we spoke to her. She is not peaceful.",
+          "DM: She tried to convince you to let her set up her little slave empire off somewhere where she wouldn't bother anybody.",
+          "Delwath: She could probably take Grash.",
+          "DM: And— Maybe you could try—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Remembering the imprisoned hobgoblin’s demands",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2258",
+        "endUid": "u2265"
+      },
+      "lines": [
+        "%% u2258:0-112 %%",
+        "Wellby: Let's remember all of this when we run into a bunch of peaceful hobgoblins. We've got one of those in there too.",
+        "",
+        "%% u2259:0-72 %%",
+        "Seeker: Oh, but we spoke to her. You know, we spoke to her. She is not peaceful.",
+        "",
+        "%% u2260:0-116 %%",
+        "DM: She tried to convince you to let her set up her little slave empire off somewhere where she wouldn't bother anybody.",
+        "",
+        "%% u2261:0-30 %%",
+        "Delwath: She could probably take Grash.",
+        "",
+        "%% u2262:0-3, u2263:0-19 %%",
+        "((Interrupted speech))",
+        "",
+        "%% u2264:0-60 %%",
+        "Delwath: Try giving her a slave empire in exchange for killing Grash.",
+        "",
+        "%% u2265:0-52 %%",
+        "Wellby: Think she'd take the ring of undying in exchange for—"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Thank you for bringing her back. We'll find somebody to care for her.",
+          "DM: She had no children, but she had a sister, so perhaps she has nieces or nephews still in this world.",
+          "Delwath: I'm glad we could reunite her. Thank you, Wellby, for thinking of her. Had not occurred to—",
+          "Seeker: Yeah.",
+          "Delwath: Any of us."
+        ],
+        "after": [
+          "Riswynn: Now—",
+          "DM: You—",
+          "DM: I was just gonna do a mini time skip to wrap up, just so that we can start.",
+          "Kenzo: Wait. Do we complete our plans for the yeah. I think you know your plans right? We're doing the invisibility thing. Where are we going to be, so? Who's going to be in the bedroom?",
+          "Delwath: I mean, all of us could be in the—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Plan to hide Lubash and the cloak below the ambush",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2452",
+        "endUid": "u2494"
+      },
+      "lines": [
+        "%% u2452:0-74 %%",
+        "Kenzo: How how far away does he have to be from it for it to still be still work?",
+        "",
+        "%% u2453:0-43 %%",
+        "DM: I'm not sure he's ever really experimented.",
+        "",
+        "%% u2454:0-15 %%",
+        "Riswynn: Not willing to.",
+        "",
+        "%% u2455:0-25, u2456:0-17 %%",
+        "Kenzo: I mean, I think, probably in the same room.",
+        "",
+        "%% u2457:0-9, u2458:0-3, u2459:0-137 %%",
+        "DM: You know, not hundreds of feet. You know that the range of the- well, there's a whole nother problem here, which is that if he's not wearing the cloak—",
+        "",
+        "%% u2460:0-67 %%",
+        "Kenzo: You're all and turning it off, you're all basically useless, right.",
+        "",
+        "%% u2461:0-179, u2462:0-41 %%",
+        "Delwath: Unless he's just not in the area. This is why I think he has to be a hundred feet away. He can't be in the same- it doesn't make sense for him to be in the same room as us, right? But ideally, that's why, I see that's why—",
+        "",
+        "%% u2463:0-321 %%",
+        "Kenzo: We really want him to be somewhere where he can escape from totally the the the underground fucking tunnel thing. I think he needs to be like. We need to make a little tunnel that connects to the existing underground tunnel, and then he can be in there like below us. I mean, you can make a trap door that drops into this—",
+        "",
+        "%% u2464:0-5 %%",
+        "((Brief interjection))",
+        "",
+        "%% u2465:0-86, u2466:0-45 %%",
+        "Delwath: Yeah, we're calling that. Yeah, that's what I was thinking, right? And then, if he can— If he can be beneath us right in the tunnel.",
+        "",
+        "%% u2467:0-41, u2468:0-73, u2469:0-10 %%",
+        "Kenzo: Perfect, with some of his guards. Exactly. And then and then they get the fuck out of there once the attack happens. Brilliant.",
+        "",
+        "%% u2470:0-56 %%",
+        "DM: Oh, I can. He's wearing the cloak, or where's the cloak?",
+        "",
+        "%% u2471:0-75 %%",
+        "Delwath: The cloak is in a lead-lined- does he have to be wearing it to turn it off?",
+        "",
+        "%% u2472:0-97 %%",
+        "DM: I mean he turn it off and then take it off. No, he has to actively suppress the shielding effect.",
+        "",
+        "%% u2473:0-108 %%",
+        "Delwath: But if it's a hundred feet away from us, who cares? If it's a hundred feet away from you, it doesn't matter.",
+        "",
+        "%% u2474:0-20, u2475:0-56 %%",
+        "Kenzo: Okay, then then then that’s what we do. We- I think it’s in a lead-lined box—",
+        "",
+        "%% u2476:0-146 %%",
+        "Delwath: That he's carrying in the tunnel. And if things start going badly we have a trap door to drop down and catch up to him in the tunnel very quickly.",
+        "",
+        "%% u2477:0-39, u2478:0-45 %%",
+        "Seeker: And then I can make a realistic looking decoy cloak. But what do we do with that one?",
+        "",
+        "%% u2479:0-24 %%",
+        "Kenzo: Leave it in the bedroom.",
+        "",
+        "%% u2480:0-28 %%",
+        "Delwath: The decoy is in the bedroom.",
+        "",
+        "%% u2481:0-52 %%",
+        "Kenzo: Just where the cloak would normally have been. Yeah.",
+        "",
+        "%% u2482:0-56, u2483:0-31 %%",
+        "Kenzo: Yes, and also we have the airship as our getaway vehicle at the other end of the tunnel.",
+        "",
+        "%% u2484:0-27 %%",
+        "Seeker: Is that a thing on the map?",
+        "",
+        "%% u2485:0-51, u2486:0-105, u2487:0-28 %%",
+        "DM: The there's a there's an underground tunnel that is basically right by the walls, and you can— the city walls, right? So it exits from the palace and comes out just outside the city walls.",
+        "",
+        "%% u2488:0-40 %%",
+        "Seeker: Just like in our- where we were through.",
+        "",
+        "%% u2489:0-111 %%",
+        "DM: Yeah, although actually, I think this one would exit just inside the city walls. But at a place where there's a—",
+        "",
+        "%% u2490:0-17, u2491:0-24, u2492:0-24 %%",
+        "Seeker: Door in the wall. Then we'll sit the ship at the edge of the city.",
+        "",
+        "%% u2493:0-5 %%",
+        "Riswynn: Okay.",
+        "",
+        "%% u2494:0-15 %%",
+        "Kenzo: We have a plan."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I don't- I would just pretend that this- actually killing suspension of disbelief moving around. There aren't really gardens probably, it's more like, you know, indoor plants. It's fine. They're they're undead plants.",
+          "Riswynn: Let's go back to our conversation that we got to finish this and go to bed. Yeah, we gotta go to bed.",
+          "Kenzo: So where the fuck are we? The thing is, if we disappear— We need them to go. We need to lure them to like where we, where you know what would be their reason for for for going to the bedroom if they don't. If it's now off the map. No, that's true. No, yeah, because they know he keeps it with him at all times.",
+          "Riswynn: They'll just assume it's in his bedroom in a lead box is my point. Yeah.",
+          "Wellby: Stealth in at night. Kill him, take it real quick."
+        ],
+        "after": [
+          "DM: So as you all return to the airship to rest, we will pick up in the morning.",
+          "DM: Well, let me let me let me suggest 2 possibilities. If you want to like, if if we want to role play the, you know, spending the day convincing him, and stuff, that's fine too, if if you want to. I could also just make that part of my intro, if you just, you know- that's great. That's just that. Let's get a couple of d20 rolls right now so I know how well it goes.",
+          "Kenzo: With advantage.",
+          "DM: So I I would say, what are we rolling? That's what I'm just thinking about. Just how I— you just roll a d. 20, and I can. Well, no, this would be, I mean, this is where we're acting, right? It's basically charisma. It's gonna be—",
+          "Kenzo: Delwath, Deception, probably."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
