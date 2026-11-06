@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-090",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-session.yaml",
+    "sessionYamlSha256": "3e0477a57734bf11378d99e7aa7a365e86f7804d18ebdbbf02be03e4c1a89802",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-transcript.md",
+    "transcriptSha256": "bf9f4db2862a38c988efa7dbc4889a64290f2edf33a023594a3e101ba51efe41"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "category": "gameplay",
+      "note": "The opening establishes what the party experiences; the following regional overview is framing."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0006",
+        "endUid": "u0008"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0009",
+        "endUid": "u0009"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0040"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u1641"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1642",
+        "endUid": "u1665"
+      },
+      "category": "meta_discussion",
+      "note": "The table explicitly steps up a level to debate how to handle the paranoid king."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1666",
+        "endUid": "u1783"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1784",
+        "endUid": "u1786"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1787",
+        "endUid": "u2085"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2086",
+        "endUid": "u2094"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2095",
+        "endUid": "u2115"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2116",
+        "endUid": "u2123"
+      },
+      "category": "meta_discussion",
+      "note": "Post-cutoff discussion leaves the proposed Fausto nightmare unresolved."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2124",
+        "endUid": "u2125"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

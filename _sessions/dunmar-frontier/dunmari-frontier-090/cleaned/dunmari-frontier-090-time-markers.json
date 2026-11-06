@@ -1,0 +1,795 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-090",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-session.yaml",
+    "sessionYamlSha256": "3e0477a57734bf11378d99e7aa7a365e86f7804d18ebdbbf02be03e4c1a89802",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-transcript.md",
+    "transcriptSha256": "bf9f4db2862a38c988efa7dbc4889a64290f2edf33a023594a3e101ba51efe41",
+    "yamlDates": {
+      "start": "1749-01-30",
+      "end": "1749-03-09"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "reading": "Opening morning in January at Pava and Avaras’s house; the spoken day is incomplete.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "So, we start at Pava and Avaras's house on the morning of January."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Spoken January and morning; no complete spoken calendar date.",
+        "partOfDay": "morning"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0075"
+      },
+      "reading": "The westward flight continues from day into night and reaches the next morning.",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0075",
+          "quote": "Traveling in a direct path across the edge of the desert, flying over the ruins of Agata's lair, passing just south of the of the Red Mesa, seeing it off in the distance, passing southwest of Karawa as day turns to night, and you continue traveling through the night. The next morning,"
+        }
+      ],
+      "completion": "completed",
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0076",
+        "endUid": "u0080"
+      },
+      "reading": "At sunrise the ship approaches the southern Hara valley.",
+      "evidence": [
+        {
+          "startUid": "u0076",
+          "endUid": "u0080",
+          "quote": "As the sun rises, you find yourself approaching the Southern Hara River valley, a dry expanse. The river now beginning as— as we move from January into February, the monsoons long past, the river still flowing, but beginning to become sluggish."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "sunrise"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0081",
+        "endUid": "u0083"
+      },
+      "reading": "The ship crosses the Hara around dusk and continues through another night.",
+      "evidence": [
+        {
+          "startUid": "u0081",
+          "endUid": "u0083",
+          "quote": "Crossing the the Hara around dusk and continuing through the night. West, northwest, roughly."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "dusk"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0084",
+        "endUid": "u0092"
+      },
+      "reading": "Arrival above the rival camps is in pre-dawn light after the second night of flight.",
+      "evidence": [
+        {
+          "startUid": "u0069",
+          "endUid": "u0075",
+          "quote": "Traveling in a direct path across the edge of the desert, flying over the ruins of Agata's lair, passing just south of the of the Red Mesa, seeing it off in the distance, passing southwest of Karawa as day turns to night, and you continue traveling through the night. The next morning,"
+        },
+        {
+          "startUid": "u0081",
+          "endUid": "u0083",
+          "quote": "Crossing the the Hara around dusk and continuing through the night. West, northwest, roughly."
+        },
+        {
+          "startUid": "u0084",
+          "endUid": "u0092",
+          "quote": "Arriving— you're— in the pre-dawn light, you can see there below you, in the distance, the camp of Sura's army spread out along the road the Tokra-Darba Road, through the Copper Hills, not far, actually from the place where you fought and killed 2 wyverns 7 months ago now, and then first encountered Kadmos and his crew."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "pre-dawn"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0145",
+        "endUid": "u0147"
+      },
+      "reading": "Sura replies about a minute after Kenzo’s message.",
+      "evidence": [
+        {
+          "startUid": "u0145",
+          "endUid": "u0147",
+          "quote": "A minute later you get a a reply that, \"Thank the gods that ship is yours.\""
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated wait for Sura’s reply"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0180",
+        "endUid": "u0184"
+      },
+      "reading": "Sura boards thirty minutes after agreeing to visit.",
+      "evidence": [
+        {
+          "startUid": "u0165",
+          "endUid": "u0165",
+          "quote": "I'll be ready in 30 min."
+        },
+        {
+          "startUid": "u0180",
+          "endUid": "u0184",
+          "quote": "So, 30 min later, Sura steps onto the bridge along with 6 guards. And they are instantly teleported onto the ship."
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM narrates thirty minutes later"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0651",
+        "endUid": "u0652"
+      },
+      "reading": "The party tells Sura the long version of the eastern news, about forty-five minutes.",
+      "evidence": [
+        {
+          "startUid": "u0651",
+          "endUid": "u0652",
+          "quote": "So, Sura, I'm sure you have many things to do. We'll tell her this story. I mean, abbreviate 45 min version. We could talk more about this tonight. It goes on for a while. You tell the story. Your telepathy is ends at this point."
+        }
+      ],
+      "duration": {
+        "value": 45,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Accepted abbreviated forty-five-minute telling; Telepathy ends during it"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0665",
+        "endUid": "u0670"
+      },
+      "reading": "Johar arrives twenty minutes after Sura leaves the ship.",
+      "evidence": [
+        {
+          "startUid": "u0663",
+          "endUid": "u0664",
+          "quote": "[garbled] Johar here. Right? So she goes. She takes her guards. She is planning on coming back this evening like after dinner, to like, meditate with Kenzo and and Amil"
+        },
+        {
+          "startUid": "u0665",
+          "endUid": "u0670",
+          "quote": "A few—20 min later, Johar was already heading in this direction, thinking basically, crazy flying ship with a rainbow bridge. I wonder if Kenzo's around? And he shoots up the bridge and appears. He definitely looks like he's aged like 10 years, like he was like the sort of fitter and you know, happier version of Kenzo. But you know, he's definitely—he's still wearing, it's like white robes, blue trim. Super happy to see Kenzo. He comes and gives him a big hug,"
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM revises a few minutes to twenty"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0982",
+        "endUid": "u0982"
+      },
+      "reading": "Abha’s reply is received that evening; the DM confirms that a two-hour messenger round trip is possible.",
+      "evidence": [
+        {
+          "startUid": "u0982",
+          "endUid": "u0982",
+          "quote": "You get a letter back that evening—50 M, 50 miles an hour, but only for 2 h per day."
+        },
+        {
+          "startUid": "u0983",
+          "endUid": "u0988",
+          "quote": "Well, that's enough to get there back in 2 h. You get a letter back. She says that if you travel to Karnas's camp without making a scene, she will— she will meet you, and she, she like describes a location that actually you know cause you've passed through this area before. That's about 5 miles outside of Karnas, outside of, like the the fortified inn that is apparently Karnas's main base."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Player dates the received reply that evening; DM confirms its receipt.",
+        "partOfDay": "evening"
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0990",
+        "endUid": "u0997"
+      },
+      "reading": "Sura’s arranged evening meditation with Kenzo and Amil is played through.",
+      "evidence": [
+        {
+          "startUid": "u0659",
+          "endUid": "u0660",
+          "quote": "Yeah, she's coming. She's coming back this evening. She's going to like deal with administrative stuff and send a messenger to find Johar and and tell him that Kenzo's in town, and"
+        },
+        {
+          "startUid": "u0663",
+          "endUid": "u0664",
+          "quote": "[garbled] Johar here. Right? So she goes. She takes her guards. She is planning on coming back this evening like after dinner, to like, meditate with Kenzo and and Amil"
+        },
+        {
+          "startUid": "u0990",
+          "endUid": "u0997",
+          "quote": "Kenzo: I'm also just very briefly— when Sura comes back to the camp, appropriate now, yeah, basically, Kenzo and Amil, we take—we, we take her through like a tour of the hall, like our the wall stories, so she can see, you know, kind of in greater detail, like, you know, what's ha—what's unfolded. All the various entities and beings that we've met and all their stories, and then we take her to to the tree, and we spend some time, spent a lot of time there actually, just in silent meditation, calling, speaking to the gods. And Tim, in particular, when we're when we're kind of going through this, this, these moments, like Kenzo's really gonna like lock into the vibe of of her essence and her kind of, you know, her energy. And again, like Kenzo is really really trying to just send her soothing send her calm, send her peace, and you know, try to try to try to calm this larger kind of angry energy that she's got going on you."
+        },
+        {
+          "startUid": "u0990",
+          "endUid": "u0997",
+          "quote": "DM: So you spend a while meditating with her, and you you sort of have the feeling that peace isn't what she needs."
+        },
+        {
+          "startUid": "u0990",
+          "endUid": "u0997",
+          "quote": "Kenzo: What does she need?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "The evening return is explicitly arranged, then the meditation occurs.",
+        "partOfDay": "evening"
+      },
+      "actors": [
+        "Kenzo",
+        "Amil",
+        "Sura"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1058",
+        "endUid": "u1058"
+      },
+      "reading": "The next day’s meeting with Abha is at the arranged lunchtime, on February 2.",
+      "evidence": [
+        {
+          "startUid": "u0989",
+          "endUid": "u0989",
+          "quote": "Kenzo: Perfect"
+        },
+        {
+          "startUid": "u0989",
+          "endUid": "u0989",
+          "quote": "DM: Is, I shall meet you there tomorrow lunchtime if you can make it."
+        },
+        {
+          "startUid": "u1058",
+          "endUid": "u1058",
+          "quote": "So the next day. So how are you getting to the meeting spot?"
+        },
+        {
+          "startUid": "u1087",
+          "endUid": "u1089",
+          "quote": "DM: Okay, so you—and appear, and you see this woman waiting for you. She's, I don't know, mid forties, has"
+        },
+        {
+          "startUid": "u1090",
+          "endUid": "u1090",
+          "quote": "Delwath: Us"
+        },
+        {
+          "startUid": "u1091",
+          "endUid": "u1098",
+          "quote": "DM: Like very piercing blue eyes, like almost unnaturally blue, like the whole iris, like, you know, like spice eyes from Dune, that sort of thing. And she's sitting in meditation, her eyes closed, but looks up, or clearly aware of your of your arrival, and looks at you and opens her eyes as you're like as you're in the process of teleporting down. She's staring it right at the spot where you're gonna land."
+        },
+        {
+          "startUid": "u1189",
+          "endUid": "u1190",
+          "quote": "Delwath: When was—wait, I thought the Dunmari New Year was January 23rd or something like that. Hasn't happened to—what date is it?"
+        },
+        {
+          "startUid": "u1191",
+          "endUid": "u1191",
+          "quote": "DM: February second."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Spoken February second and arranged lunchtime; year from YAML.",
+        "partOfDay": "lunchtime",
+        "date": {
+          "year": 1749,
+          "month": 2,
+          "day": 2
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1146",
+        "endUid": "u1147"
+      },
+      "reading": "Delwath spends a few minutes describing the feeling of the cloak’s divine silence.",
+      "evidence": [
+        {
+          "startUid": "u1146",
+          "endUid": "u1147",
+          "quote": "Oh, hold on! Delwath will also sort of describe for a few minutes how it feels to be cut off from the gods when the cloak is nearby."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Delwath describes for a few minutes in play"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1339",
+        "endUid": "u1346"
+      },
+      "reading": "The party walks with Abha for a couple of hours, arriving at Karnas’s fortified inn in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1336",
+          "endUid": "u1336",
+          "quote": "DM: Come with me. I will bring you to his camp."
+        },
+        {
+          "startUid": "u1337",
+          "endUid": "u1337",
+          "quote": "Riswynn: No time like the present. Thank you. Let's go."
+        },
+        {
+          "startUid": "u1338",
+          "endUid": "u1338",
+          "quote": "Delwath: Meeting's been a long time."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1346",
+          "quote": "DM: You walk couple of hours into the afternoon to this fortified inn that you've been at before, actually. You— you know, with with Abha leading the way, the the outriders and the guards just wave you past, and she says, I'm you know I'm taking them to see Samraat Karnas. You can see that the that the like main hall of of the inn, the sort of common room, has been turned into a audience chamber, throne room. That troops don't seem—I mean, Sura's camp very much had this feel of like, you know, everybody in Sura's camp is like, you know, they are dedicated to Sura right like she is a, you know. For whatever her faults might be. She is a charismatic leader of a army. Karnas is very much not like the army itself isn't sort of like, it's not sort of, you know, Delwath has been a quartermaster in an army, and this is not a well tended camp, right like the lines are in disarray. The like, you know."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated couple of hours"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "afternoon"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1696",
+        "endUid": "u1701"
+      },
+      "reading": "Watching the letter-writing vision lasts roughly five minutes; the historical scene has no established date.",
+      "evidence": [
+        {
+          "startUid": "u1683",
+          "endUid": "u1686",
+          "quote": "DM: So the mirror goes blank, and then you see the image looking up in Agata's hut. Piece of paper is rolled out on a desk. There is—and you see Agata standing there."
+        },
+        {
+          "startUid": "u1687",
+          "endUid": "u1695",
+          "quote": "DM: And she goes into her pouch, and she takes out a hand, the severed hand. It's wearing a ring. And she takes out some wood, and she begins to shape slowly, like a bit of an arm. And then she muttered some words, and the hand begins to crawl towards the paper, and it picks up a pen, and as she speaks, it starts writing. And the words that she is speaking, which Wellby can lip read, she's speaking in Dunmari, and the words are exactly the words of the letter. While she speaks them, handwrites. The hand picks up and begins to roll the scroll up, and it takes its ring and it presses it against the scroll to make a seal. And then she picks up—Agata picks up the wooden piece, tosses that."
+        },
+        {
+          "startUid": "u1696",
+          "endUid": "u1701",
+          "quote": "DM: And you can see Karnas watching this. Like this goes on for like 5 min, roughly, as the hand is writing out this letter that Agata is speaking. Karnas is watching it. When he first sees Agata in the hut, he draws his sword, and as it begins to write, he takes his sword and he like—"
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM describes Karnas watching for roughly five minutes"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1720",
+        "endUid": "u1720"
+      },
+      "reading": "The party waits forty-five minutes outside before Abha emerges.",
+      "evidence": [
+        {
+          "startUid": "u1718",
+          "endUid": "u1718",
+          "quote": "Kenzo: Just hang out for a few minutes. Yeah. Just hang out outside the tent. Wait for Abha to come out, because, Abha, now clearly, I think, on our side of this whole situation, which is great."
+        },
+        {
+          "startUid": "u1719",
+          "endUid": "u1719",
+          "quote": "Seeker: Probably too suspicious to scry what's going on. Right. Let's not do that. Well, we just don't know if what kind of magical perimeter they have, if any. Well, let's let's not. Let's just let's just chill. That would be very risky. After about"
+        },
+        {
+          "startUid": "u1720",
+          "endUid": "u1720",
+          "quote": "DM: 45 min."
+        },
+        {
+          "startUid": "u1721",
+          "endUid": "u1721",
+          "quote": "Riswynn: We play some cards."
+        },
+        {
+          "startUid": "u1722",
+          "endUid": "u1722",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u1723",
+          "endUid": "u1724",
+          "quote": "DM: Abha, Abha comes out. Shh! And she says: That was a more effective demonstration than I could have hoped for."
+        }
+      ],
+      "duration": {
+        "value": 45,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM narrates the wait"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1818",
+        "endUid": "u1822"
+      },
+      "reading": "After returning to the ship, the party spends the rest of that afternoon laying groundwork for talks.",
+      "evidence": [
+        {
+          "startUid": "u1808",
+          "endUid": "u1811",
+          "quote": "DM: But things are more settled now. So as you take the letter to Sura and tell her about what happened, and spend some more time meditating, like this is this is a— I mean, this is a relationship that's gonna be slow to heal. Sura was clearly"
+        },
+        {
+          "startUid": "u1812",
+          "endUid": "u1812",
+          "quote": "Delwath: Seriously wounded by him."
+        },
+        {
+          "startUid": "u1813",
+          "endUid": "u1817",
+          "quote": "Kenzo: Kenzo also is gonna carve, like, you know, the little figurines that he carves for the people that yeah, he's gonna carve a set like a unified brother and sister set and give them to both— to Abha to give to Karnas, and then also set to give to to Sura, which he delivers by— to remind them."
+        },
+        {
+          "startUid": "u1818",
+          "endUid": "u1822",
+          "quote": "DM: So you you lay the groundwork over, you know, over the rest of that afternoon, after returning to the ship with Abha's letter, and Sura agrees to meet with her. Sur Sura Sura now also, I mean Sura spent some time at the Lakan Monastery when she was young. She spent a couple of years there before Kenzo showed up, and she knows several of the monks there."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "afternoon"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1828",
+        "endUid": "u1834"
+      },
+      "reading": "The party stays another day to settle matters and say goodbye, before the February 4 departure.",
+      "evidence": [
+        {
+          "startUid": "u1828",
+          "endUid": "u1834",
+          "quote": "And you stay another day to sort of get things, get things settled, you know, say goodbye to Sura, and you leave not with Dunmar settled. There's a lot of negotiations still to happen, messages are going out, but with a clear sense that whatever the outcome, they aren't going to be fighting each other."
+        },
+        {
+          "startUid": "u1843",
+          "endUid": "u1845",
+          "quote": "So February fourth. Leave for Tokra via Orenlas— add— sorry, Tollen via Orenlas."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Narrated another day"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u1843",
+        "endUid": "u1845"
+      },
+      "reading": "Departure for Tollen via Orenlas is February 4; Tokra is corrected to Tollen.",
+      "evidence": [
+        {
+          "startUid": "u1843",
+          "endUid": "u1845",
+          "quote": "So February fourth. Leave for Tokra via Orenlas— add— sorry, Tollen via Orenlas."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "DM explicitly says February fourth; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 2,
+          "day": 4
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u1850",
+        "endUid": "u1855"
+      },
+      "reading": "The flight to Orenlas and onward to Tollen covers two thousand miles in eight and a half days of travel.",
+      "evidence": [
+        {
+          "startUid": "u1846",
+          "endUid": "u1849",
+          "quote": "DM: It is from where you are— how long does that take? So— why does this scroll wheel not work? Okay, scroll. So it's what like 13 ish, I gotta zoom out 1,400 miles to Orenlas"
+        },
+        {
+          "startUid": "u1850",
+          "endUid": "u1855",
+          "quote": "DM: Where you pick up—I'm gonna— It's 1,400 miles to Orenlas. I'm not gonna—I'm gonna come back to the introducing the elf gardener at a later date. We'll do that in a flashback at the beginning of some other session. And then from there it's 600 miles to Tollen. So 14. But— so that's 2,000 miles that you cover in the grand total of 8 and a half days."
+        }
+      ],
+      "duration": {
+        "value": 8.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s compressed flight duration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u1862",
+        "endUid": "u1862"
+      },
+      "reading": "The journey includes a day and a half in Orenlas, and arrival in Tollen is around February 14.",
+      "evidence": [
+        {
+          "startUid": "u1850",
+          "endUid": "u1855",
+          "quote": "Where you pick up—I'm gonna— It's 1,400 miles to Orenlas. I'm not gonna—I'm gonna come back to the introducing the elf gardener at a later date. We'll do that in a flashback at the beginning of some other session. And then from there it's 600 miles to Tollen. So 14. But— so that's 2,000 miles that you cover in the grand total of 8 and a half days."
+        },
+        {
+          "startUid": "u1862",
+          "endUid": "u1862",
+          "quote": "So around February fourteenth, giving a day and a half in Orenlas, you arrive in Tollen."
+        }
+      ],
+      "duration": {
+        "value": 1.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM adds time spent at Orenlas"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM says around February fourteenth; year from YAML.",
+        "date": {
+          "year": 1749,
+          "month": 2,
+          "day": 14
+        }
+      },
+      "completion": "completed",
+      "note": "The Orenlas stop is additional to the eight-and-a-half-day flight, not a second account of flight time."
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u1897",
+        "endUid": "u1903"
+      },
+      "reading": "After about three weeks of Tollen downtime, the played scene is late afternoon on March 8.",
+      "evidence": [
+        {
+          "startUid": "u1888",
+          "endUid": "u1895",
+          "quote": "DM: So, well, we'll do, we'll do—I'll I'll do the flash—various flashbacks to introduce hirelings during the next few sessions, and then we can also do whatever you've got, like 4 weeks of downtime actions. So like, whatever you want to do, we can. We can come up with that, like you don't have. We don't. I don't wanna roll. I wanna do the downtime. Now it's like we don't need to we don't need a role play. What I wanna do is is that kenku."
+        },
+        {
+          "startUid": "u1896",
+          "endUid": "u1896",
+          "quote": "Seeker: Okay."
+        },
+        {
+          "startUid": "u1897",
+          "endUid": "u1903",
+          "quote": "DM: So this is, this is probably about a week before you're ready. You been in Tollen for for 3 weeks now. The ship, the repairs on the ship are like 3 quarters done. You know, you've gotten your your stuff from Umli. Kenzo's reconnected with Iskra. You've like— you could have done some Philosophers' Guild stuff. You could have done other sorts of Tollen downtime stuff."
+        },
+        {
+          "startUid": "u1909",
+          "endUid": "u1910",
+          "quote": "DM: But Seeker totally can, I mean not now, obviously, but at some point we could do a 5 year time skip before you go fight the ooze? So about a week before you're ready to leave. So let's say like early March, like March—March 8, something like that,"
+        },
+        {
+          "startUid": "u1911",
+          "endUid": "u1911",
+          "quote": "Unknown: All"
+        },
+        {
+          "startUid": "u1912",
+          "endUid": "u1913",
+          "quote": "DM: Assuming you arrive in Tollen around February fourteenth, and then, you know, there's a lot of bustle and repair on the ship is, you know, all this stuff starts getting constructed. Your various hirelings, except the 2 Orcs, are basically just hiding out in the ship."
+        },
+        {
+          "startUid": "u1916",
+          "endUid": "u1917",
+          "quote": "The one afternoon, March eighth, late afternoon, after the workmen have left for the day, like the the ship is sort of relatively clear and calm."
+        }
+      ],
+      "duration": {
+        "value": 21,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Three weeks of downtime narrated; approximate relative to February 14 arrival"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM explicitly names March eighth, late afternoon; year from YAML.",
+        "partOfDay": "late afternoon",
+        "date": {
+          "year": 1749,
+          "month": 3,
+          "day": 8
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u2101",
+        "endUid": "u2107"
+      },
+      "reading": "That night the party goes to bed aboard ship and is awakened by screams; the elapsed sleep and midnight boundary are unstated.",
+      "evidence": [
+        {
+          "startUid": "u1916",
+          "endUid": "u1917",
+          "quote": "The one afternoon, March eighth, late afternoon, after the workmen have left for the day, like the the ship is sort of relatively clear and calm."
+        },
+        {
+          "startUid": "u2101",
+          "endUid": "u2107",
+          "quote": "DM: So, Kecha is gonna stay for the week while you get the ship ready to fly, and as you all go to bed that night, sleeping in your sleeping quarters on the ship, you are awakened by screams,"
+        },
+        {
+          "startUid": "u2108",
+          "endUid": "u2108",
+          "quote": "Kenzo: Yeah, we can still"
+        },
+        {
+          "startUid": "u2109",
+          "endUid": "u2114",
+          "quote": "DM: And the sound of like people on the water, people on at the dock shouting, and several shadow hunters who've been waiting for you to be in one place for longer than like 3 days have finally tracked you down. And we will start there next time."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "That night follows the March 8 afternoon; waking before or after midnight is not established.",
+        "partOfDay": "night"
+      },
+      "completion": "interrupted"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "February 2, February 4, approximately February 14, and March 8 are spoken. January and morning are spoken at opening; January 30 and all years come from YAML.",
+    "expectedDateBoundaries": 38,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t12",
+      "t18",
+      "t19",
+      "t20",
+      "t21",
+      "t22",
+      "t23"
+    ],
+    "explanation": "Two nights of opening flight followed by the next-day February 2 meeting fit a January 30 opening. A further day and February 4 departure are narrated, followed by 8.5 days flying plus 1.5 days at Orenlas and approximate February 14 arrival. Downtime reaches spoken March 8. Sleep is interrupted that night without an established midnight crossing, so March 9 is possible but unverified; the metadata end supplies no elapsed day."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t22",
+        "t23"
+      ],
+      "reading": "The closing awakening is on the night following March 8 afternoon; its civil date is open.",
+      "alternatives": [
+        {
+          "reading": "Waking occurs before midnight on March 8.",
+          "date": "1749-03-08"
+        },
+        {
+          "reading": "Waking occurs after midnight on March 9, compatible with YAML.",
+          "date": "1749-03-09"
+        }
+      ]
+    }
+  ]
+}
