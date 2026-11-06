@@ -1,0 +1,656 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-007",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
+    "sessionYamlSha256": "ace309c607cfb53806eac6e460db23c74a166cb781203a299f9a3154510941b7",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-transcript.md",
+    "transcriptSha256": "48f9ccd108c67b7a38ca1051bf4e2088f5d8adb113ccce64330c21819909e4d1"
+  },
+  "places": {
+    "p01": {
+      "label": "Central prison room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0049",
+          "endUid": "u0062",
+          "quote": "The five of you are, in this moment, standing in… something that's darker than blackness, having just passed through the door into the prison."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0075",
+              "endUid": "u0080",
+              "quote": "Surrounding a central prison chamber, the Order built the house as a magical and mechanical device to untether the central prison room from the world around it and to keep the physical and the temporal location of that central room constantly changing. If it stopped moving somehow, the prisoner would quickly escape."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "House of 27 Rooms",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0075",
+          "endUid": "u0080",
+          "quote": "DM: Joined by Menestheus, a member of Thalestria's party who she left behind when she made the bargain, the group enters the house of 27 rooms."
+        }
+      ],
+      "aliases": [
+        "27th House",
+        "27th room"
+      ],
+      "note": "The enclosing complex is the 27th House. The central prison chamber remains a distinct place; the transcript sometimes uses “27th room” for the whole powered complex.",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1581",
+              "endUid": "u1594",
+              "quote": "Oh, it's so funny. This is in my notes that I read over before every session, but I never actually said, like, so the Twilight Kingdoms… where you were, are one of the interstitial spaces where, rather than, like, a big lord ruling all of it…"
+            }
+          ],
+          "note": "The debrief identifies the realm in which this adventure’s houses stand; it does not give the moving chamber a fixed physical or temporal coordinate."
+        }
+      ]
+    },
+    "p03": {
+      "label": "Twilight Kingdom",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u1581",
+          "endUid": "u1594",
+          "quote": "Oh, it's so funny. This is in my notes that I read over before every session, but I never actually said, like, so the Twilight Kingdoms… where you were, are one of the interstitial spaces where, rather than, like, a big lord ruling all of it…"
+        }
+      ],
+      "aliases": [
+        "Twilight Kingdoms"
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Kingdom.md"
+    },
+    "p04": {
+      "label": "Root opening inside the prison",
+      "kind": "passage",
+      "evidence": [
+        {
+          "startUid": "u0458",
+          "endUid": "u0460",
+          "quote": "DM: Yes. In the corner off… sort of to your right, as you're still sort of standing by the entrance. There is… you know, you go a foot or two in, and then realizing where you are back, back out again."
+        },
+        {
+          "startUid": "u0461",
+          "endUid": "u0464",
+          "quote": "DM: A hollow, root-like structure that seems to you almost identical to the one which you crawled from the, from Taelgar to the Feywild through. A room that's… at least by its, sort of, dimensions and size and shape, suggests that it's grown out of the prison."
+        }
+      ],
+      "note": "Txarro briefly probes the opening and backs out. Its resemblance to the original portal and the discussion of its 1351 exit do not establish the party’s arrival beyond it.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0458",
+              "endUid": "u0460",
+              "quote": "DM: Yes. In the corner off… sort of to your right, as you're still sort of standing by the entrance. There is… you know, you go a foot or two in, and then realizing where you are back, back out again."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Hillside above the ravine",
+      "kind": "promontory",
+      "evidence": [
+        {
+          "startUid": "u1233",
+          "endUid": "u1245",
+          "quote": "And the ruins and remains of the prison and of the house, now shaken apart around you as you were sheltered under one of these horror leaves, are sliding down the sides of the cliff, and into the ravine, and into the darkness."
+        },
+        {
+          "startUid": "u1243",
+          "endUid": "u1245",
+          "quote": "DM: And the five of you are left on an empty hillside, in the gathering twilight just as the first stars of evening are beginning to come out."
+        }
+      ],
+      "note": "The promontory, former doorframe, ravine, and surviving well identify Twilight Promontory; the name itself is verified in the vault note, while this session calls it a hillside or promontory (u2526–u2527).",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Promontory.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1581",
+              "endUid": "u1594",
+              "quote": "Oh, it's so funny. This is in my notes that I read over before every session, but I never actually said, like, so the Twilight Kingdoms… where you were, are one of the interstitial spaces where, rather than, like, a big lord ruling all of it…"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Low stone well",
+      "kind": "well",
+      "evidence": [
+        {
+          "startUid": "u1236",
+          "endUid": "u1242",
+          "quote": "The child is sitting at the edge of a low stone well, maybe a foot high above the cliffside where a doorframe used to be leading into the house."
+        }
+      ],
+      "note": "The child descends; the travelers do not. Earlier stories describe its home at the bottom of the bottomless well.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1236",
+              "endUid": "u1245",
+              "quote": "The child is sitting at the edge of a low stone well, maybe a foot high above the cliffside where a doorframe used to be leading into the house."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Old house at the edge of Tellim",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1257",
+          "endUid": "u1259",
+          "quote": "DM: And it's the last of the sunset shining through a high window of an old house onto the bloody and exhausted form of Lord Hulda. Surrounded by the butchered corpse of the half-dozen mushroom men Aldens, who were his servants. And he drinks a potion, but his wounds don't fully close, and he coughs, and then he coughs again, and he doesn't stop coughing until he does, all at once."
+        }
+      ],
+      "note": "Hulda and his fungal servants identify the Material Plane Dandelion House, distinct from the Feywild 27th House. The debrief separately confirms Dandelion House’s destruction at u2521–u2522.",
+      "vaultPath": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md"
+    },
+    "p08": {
+      "label": "Woods at the wild edges of Tellim",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u1260",
+          "endUid": "u1262",
+          "quote": "DM: Below the old trees, on the wild edges of the Duchy of Tellim, it's always dusk. And in that twilight, the pale mushroom children of the Thirst walk without sleeping or dreaming or hungering, and they flee from fire and iron, and they make new siblings out of anyone they find. And they search in those woods, always, obsessively, for the hidden door that will bring them back home to their parent again."
+        }
+      ],
+      "note": "The source describes continuing fungal children in these woods. Dandelion House’s vault note identifies Varrow Forest as its modern locality; this source does not speak the forest name or define its boundaries."
+    },
+    "p09": {
+      "label": "Kallipseis’s fungal laboratory",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1263",
+          "endUid": "u1267",
+          "quote": "In a room filled with glass tanks of fungus growing on severed limbs, just as you feel the first rumbles start to vibrate through it, just as you can see the glass tanks shaking and the house is destroyed, a body in the shape of a dwarven woman, but made from fungi and lichens of every possible description, sits up and looks, for a long moment, at the lifeless corpse which once held the soul now encased in its own fungal golem flesh."
+        },
+        {
+          "startUid": "u1267",
+          "endUid": "u1267",
+          "quote": "DM: And as the room around her shakes, as pieces of the ceiling begin to fall to the floor, Kallipseis, now wizard head of Arithrimos Lamperum in a golem body, consults a book filled with long lists of six-digit numbers and blinks out of sight."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1263",
+              "endUid": "u1267",
+              "quote": "In a room filled with glass tanks of fungus growing on severed limbs, just as you feel the first rumbles start to vibrate through it, just as you can see the glass tanks shaking and the house is destroyed, a body in the shape of a dwarven woman, but made from fungi and lichens of every possible description, sits up and looks, for a long moment, at the lifeless corpse which once held the soul now encased in its own fungal golem flesh."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Thatched cottage beside the sunset road",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1268",
+          "endUid": "u1272",
+          "quote": "DM: Camera pulls back, and it's a quiet, thatched cottage by the side of a road which runs parallel exactly to the sunset, and a tigerman is stowing in his bag the polished sphere of crystal through which he watched a golem plane shift out of the Feywild."
+        }
+      ],
+      "note": "Rakshasa’s epilogue location, distinct from the party’s physical position. Its exact larger locality is not supplied by this passage."
+    },
+    "p11": {
+      "label": "Black nothingness beyond the universe",
+      "kind": "extraplanar home",
+      "evidence": [
+        {
+          "startUid": "u1273",
+          "endUid": "u1277",
+          "quote": "DM: It is no time. It is not time, it is outside of time, in the black nothingness beyond the universe, where the black stars do not shine, and an un-thing that is sometimes a child, and sometimes a monster can once again see the complete and unambiguous shape of all of its own possibilities. Its past, its present, its future, all at once, unhidden, always moving, never changing."
+        }
+      ],
+      "note": "The destination is explicitly outside time and the universe. The source does not identify one named Far Realm or provide ordinary spatial coordinates."
+    },
+    "p12": {
+      "label": "Lord of the Ended Revel’s manor",
+      "kind": "manor",
+      "evidence": [
+        {
+          "startUid": "u1279",
+          "endUid": "u1285",
+          "quote": "DM: Under a twilight sky, wide green lawns rise from the river to a beautiful manor house where a party has finished. The paper lanterns hanging on long lines are all extinguished, and the grounds are silent, and the partygoers have departed."
+        },
+        {
+          "startUid": "u1282",
+          "endUid": "u1285",
+          "quote": "DM: And in the upper room of the dark house, the Lord of the Ended Revel looks out a high window toward the place where the sun has set, thinking of the child he befriended just before his party began."
+        }
+      ],
+      "aliases": [
+        "Lord Endless Ending's Manor"
+      ],
+      "note": "The same estate remains after the party ends; its new session-era name is confirmed at u2523–u2524.",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Lord Endless Ending's Manor.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1591",
+              "endUid": "u1594",
+              "quote": "Txarro: Which is located in Twilight Kingdom, but Twilight Kingdom does not, in fact, have a lord. Which I didn't actually discuss with Schwartz, I just… like…"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Upper room of the dark manor",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1282",
+          "endUid": "u1285",
+          "quote": "DM: And in the upper room of the dark house, the Lord of the Ended Revel looks out a high window toward the place where the sun has set, thinking of the child he befriended just before his party began."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1279",
+              "endUid": "u1285",
+              "quote": "And in the upper room of the dark house, the Lord of the Ended Revel looks out a high window toward the place where the sun has set, thinking of the child he befriended just before his party began."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0049",
+        "endUid": "u0062"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five travelers begin inside the pitch-black central prison, with the doorway closed behind them.",
+      "evidence": [
+        {
+          "startUid": "u0049",
+          "endUid": "u0050",
+          "quote": "DM: The five of you are, in this moment, standing in… something that's darker than blackness, having just passed through the door into the prison."
+        },
+        {
+          "startUid": "u0060",
+          "endUid": "u0062",
+          "quote": "DM: So you've stepped through… into the prison, with the door closing behind, dodging out of the way, cleverly, quickly, from the grasping hands of Menestheus, now fully transformed into a mushroom man. Here's how you got here."
+        },
+        {
+          "startUid": "u0235",
+          "endUid": "u0237",
+          "quote": "DM: Yeah, you can feel each other. When you reach back to touch the door that you came through, it does not exist on this side of the wall. It's a smooth wall behind you."
+        },
+        {
+          "startUid": "u0420",
+          "endUid": "u0424",
+          "quote": "DM: It is speaking psychically, but you do have a sense that it is a thing that it… nonetheless, that there is a location sort of toward the back, towards the top of the room."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0178",
+        "endUid": "u0183"
+      },
+      "actors": [
+        "Aurae"
+      ],
+      "reading": "Aurae is carried on one of the travelers’ backs inside the prison; no independent movement is implied.",
+      "evidence": [
+        {
+          "startUid": "u0178",
+          "endUid": "u0181",
+          "quote": "DM: Tied to one of your backs is Aurae, the sort of a bust of a human, made from… porcelain and wire… and paint and steel. But if Aurae has opinions on what's going on, they don't share them at this moment."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0245",
+        "endUid": "u0254"
+      },
+      "actors": [
+        "Txarro"
+      ],
+      "reading": "In lizard form, Txarro climbs from the entrance wall onto the inward-angling mass of roots; the ceiling is not reached.",
+      "evidence": [
+        {
+          "startUid": "u0246",
+          "endUid": "u0247",
+          "quote": "DM: There is. You, oh, actually, as you get maybe 10 feet out, the stone wall starts to give way to these roots and branches and blobby coral structures."
+        },
+        {
+          "startUid": "u0249",
+          "endUid": "u0249",
+          "quote": "DM: But it starts to angle out, so you can keep proceeding up, but you're… you're moving more at, like, a 30 or 40 degree angle towards the center of the room than straight up towards the ceiling."
+        },
+        {
+          "startUid": "u0253",
+          "endUid": "u0254",
+          "quote": "DM: Yeah, an eave, that's not the substance of the wall itself, but the substance of that stuff—root stuff."
+        }
+      ],
+      "from": "p01",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "climb",
+      "route": [
+        {
+          "reading": "Climbs about ten feet until the stone gives way to inward-sloping roots; remains in the same prison room."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0457",
+        "endUid": "u0464"
+      },
+      "actors": [
+        "Txarro"
+      ],
+      "reading": "Txarro probes a foot or two into the hollow root opening and backs out to the prison, without taking the proposed exit.",
+      "evidence": [
+        {
+          "startUid": "u0458",
+          "endUid": "u0460",
+          "quote": "DM: Yes. In the corner off… sort of to your right, as you're still sort of standing by the entrance. There is… you know, you go a foot or two in, and then realizing where you are back, back out again."
+        },
+        {
+          "startUid": "u0461",
+          "endUid": "u0464",
+          "quote": "DM: A hollow, root-like structure that seems to you almost identical to the one which you crawled from the, from Taelgar to the Feywild through. A room that's… at least by its, sort of, dimensions and size and shape, suggests that it's grown out of the prison."
+        }
+      ],
+      "from": "p01",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "crawl",
+      "route": [
+        {
+          "reading": "Briefly enters the root-like opening, then backs out.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1233",
+        "endUid": "u1245"
+      },
+      "actors": [
+        "party",
+        "Aurae"
+      ],
+      "reading": "Sheltered by the prisoner as the house bursts apart, the party emerges onto the hillside above the ravine; Aurae has become inert.",
+      "evidence": [
+        {
+          "startUid": "u1213",
+          "endUid": "u1215",
+          "quote": "DM: Hanging in a makeshift backpack, Aurae opens its mouth and its eyes, and says, “What? Wha… wha-wh—” And then its voice slows."
+        },
+        {
+          "startUid": "u1216",
+          "endUid": "u1218",
+          "quote": "DM: And it goes still and inert, and you know that whatever powered it is gone, and in fact, whatever powered the whole of the 27th room is… gone."
+        },
+        {
+          "startUid": "u1233",
+          "endUid": "u1235",
+          "quote": "DM: And the ruins and remains of the prison and of the house, now shaken apart around you as you were sheltered under one of these horror leaves, are sliding down the sides of the cliff, and into the ravine, and into the darkness."
+        },
+        {
+          "startUid": "u1243",
+          "endUid": "u1245",
+          "quote": "DM: And the five of you are left on an empty hillside, in the gathering twilight just as the first stars of evening are beginning to come out."
+        },
+        {
+          "startUid": "u1286",
+          "endUid": "u1289",
+          "quote": "DM: And 5 travelers standing above a ravine look to each other and began to think on the way back home again. That's where we'll leave it."
+        }
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1236",
+        "endUid": "u1242"
+      },
+      "actors": [
+        "Prisoner in the 27th room"
+      ],
+      "reading": "Appearing as a child, the freed prisoner sits at the low well and disappears down it. The travelers stay on the hillside.",
+      "evidence": [
+        {
+          "startUid": "u1236",
+          "endUid": "u1237",
+          "quote": "DM: The child is sitting at the edge of a low stone well, maybe a foot high above the cliffside where a doorframe used to be leading into the house."
+        },
+        {
+          "startUid": "u1240",
+          "endUid": "u1242",
+          "quote": "DM: And you see in it a child, and an adult, and a madman, and a monster, all at once. And it puts a single finger in front of its lips. And disappears down the well."
+        },
+        {
+          "startUid": "u1243",
+          "endUid": "u1245",
+          "quote": "DM: And the five of you are left on an empty hillside, in the gathering twilight just as the first stars of evening are beginning to come out."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Descends through the well; the later epilogue supplies the destination beyond the universe."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u1257",
+        "endUid": "u1259"
+      },
+      "actors": [
+        "Lord Hulda"
+      ],
+      "reading": "The epilogue shows the wounded Hulda in the old house among the butchered fungal servants; he dies after drinking a potion.",
+      "evidence": [
+        {
+          "startUid": "u1257",
+          "endUid": "u1259",
+          "quote": "DM: And it's the last of the sunset shining through a high window of an old house onto the bloody and exhausted form of Lord Hulda. Surrounded by the butchered corpse of the half-dozen mushroom men Aldens, who were his servants. And he drinks a potion, but his wounds don't fully close, and he coughs, and then he coughs again, and he doesn't stop coughing until he does, all at once."
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u1260",
+        "endUid": "u1262"
+      },
+      "actors": [
+        "Mushroom children"
+      ],
+      "reading": "In the epilogue’s continuing aftermath, fungal children haunt the woods and seek the hidden door home.",
+      "evidence": [
+        {
+          "startUid": "u1260",
+          "endUid": "u1262",
+          "quote": "DM: Below the old trees, on the wild edges of the Duchy of Tellim, it's always dusk. And in that twilight, the pale mushroom children of the Thirst walk without sleeping or dreaming or hungering, and they flee from fire and iron, and they make new siblings out of anyone they find. And they search in those woods, always, obsessively, for the hidden door that will bring them back home to their parent again."
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1263",
+        "endUid": "u1267"
+      },
+      "actors": [
+        "Kallipseis"
+      ],
+      "reading": "The montage returns to the laboratory at the first rumbles: Kallipseis awakens in the fungal body and blinks away to an unspecified destination.",
+      "evidence": [
+        {
+          "startUid": "u1263",
+          "endUid": "u1266",
+          "quote": "DM: In a room filled with glass tanks of fungus growing on severed limbs, just as you feel the first rumbles start to vibrate through it, just as you can see the glass tanks shaking and the house is destroyed, a body in the shape of a dwarven woman, but made from fungi and lichens of every possible description, sits up and looks, for a long moment, at the lifeless corpse which once held the soul now encased in its own fungal golem flesh."
+        },
+        {
+          "startUid": "u1267",
+          "endUid": "u1267",
+          "quote": "DM: And as the room around her shakes, as pieces of the ceiling begin to fall to the floor, Kallipseis, now wizard head of Arithrimos Lamperum in a golem body, consults a book filled with long lists of six-digit numbers and blinks out of sight."
+        }
+      ],
+      "place": "p09",
+      "context": "flashback"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1268",
+        "endUid": "u1272"
+      },
+      "actors": [
+        "Rakshasa"
+      ],
+      "reading": "The tigerman is in a roadside cottage, putting away the sphere through which he watched Kallipseis leave the Feywild.",
+      "evidence": [
+        {
+          "startUid": "u1268",
+          "endUid": "u1272",
+          "quote": "DM: Camera pulls back, and it's a quiet, thatched cottage by the side of a road which runs parallel exactly to the sunset, and a tigerman is stowing in his bag the polished sphere of crystal through which he watched a golem plane shift out of the Feywild."
+        }
+      ],
+      "place": "p10"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1273",
+        "endUid": "u1277"
+      },
+      "actors": [
+        "Prisoner in the 27th room"
+      ],
+      "reading": "The prisoner is now at home in the timeless blackness beyond the universe, following its descent through the well.",
+      "evidence": [
+        {
+          "startUid": "u1240",
+          "endUid": "u1242",
+          "quote": "DM: And you see in it a child, and an adult, and a madman, and a monster, all at once. And it puts a single finger in front of its lips. And disappears down the well."
+        },
+        {
+          "startUid": "u1273",
+          "endUid": "u1274",
+          "quote": "DM: It is no time. It is not time, it is outside of time, in the black nothingness beyond the universe, where the black stars do not shine, and an un-thing that is sometimes a child, and sometimes a monster can once again see the complete and unambiguous shape of all of its own possibilities. Its past, its present, its future, all at once, unhidden, always moving, never changing."
+        },
+        {
+          "startUid": "u1275",
+          "endUid": "u1277",
+          "quote": "DM: And in that place, which is not a place, it doesn't think of the soul hoard it kept, but of the teacher who found it as a lost child and loved it into speech."
+        }
+      ],
+      "from": "p06",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u1279",
+        "endUid": "u1285"
+      },
+      "actors": [
+        "Lord Endless Ending"
+      ],
+      "reading": "The Lord of the Ended Revel is alone in an upper room of the dark manor after the guests depart.",
+      "evidence": [
+        {
+          "startUid": "u1279",
+          "endUid": "u1281",
+          "quote": "DM: Under a twilight sky, wide green lawns rise from the river to a beautiful manor house where a party has finished. The paper lanterns hanging on long lines are all extinguished, and the grounds are silent, and the partygoers have departed."
+        },
+        {
+          "startUid": "u1282",
+          "endUid": "u1285",
+          "quote": "DM: And in the upper room of the dark house, the Lord of the Ended Revel looks out a high window toward the place where the sun has set, thinking of the child he befriended just before his party began."
+        }
+      ],
+      "place": "p13"
+    }
+  ]
+}

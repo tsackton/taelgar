@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-007",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
+    "sessionYamlSha256": "ace309c607cfb53806eac6e460db23c74a166cb781203a299f9a3154510941b7",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-transcript.md",
+    "transcriptSha256": "48f9ccd108c67b7a38ca1051bf4e2088f5d8adb113ccce64330c21819909e4d1"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0048"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0049",
+        "endUid": "u0062"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0063",
+        "endUid": "u0101"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0102",
+        "endUid": "u1289"
+      },
+      "category": "gameplay",
+      "note": "The storytelling contest has no initiative or repeated ordered turn cycle. Its resolved epilogue advances events, including the other characters’ fates."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1290",
+        "endUid": "u1743"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1744",
+        "endUid": "u2508"
+      },
+      "category": "table_talk",
+      "note": "Sustained discussion of writing, game design, tools, and other campaigns; brief examples about this adventure remain inside that conversation."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2509",
+        "endUid": "u2548"
+      },
+      "category": "meta_discussion",
+      "note": "Final lore and fate audit; proposed expansions remain proposals."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2549",
+        "endUid": "u2557"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

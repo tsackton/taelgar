@@ -1,0 +1,1274 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "9cf891e766cfc791a1d127592cedb1108fcb8c46ea2588b9afd1de17d0511484",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "48f9ccd108c67b7a38ca1051bf4e2088f5d8adb113ccce64330c21819909e4d1",
+        "transcriptProcessing.artifacts.cleaned": "d3b6d0a8b698ff59ac21a6935d710d5687883eff673b560c7b1f6e50895a0ca7"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Prisoner in the 27th room",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0299",
+            "endUid": "u0340"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0475",
+            "endUid": "u0523"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0576",
+            "endUid": "u0600"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0617",
+            "endUid": "u0636"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1192",
+            "endUid": "u1245"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1273",
+            "endUid": "u1277"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2545",
+            "endUid": "u2548"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Prisoner in the 27th Room.md",
+      "names": [
+        "Child",
+        "Thirst",
+        "prisoner",
+        "entity"
+      ]
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Aurae",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0088",
+            "endUid": "u0096"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0178",
+            "endUid": "u0186"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1213",
+            "endUid": "u1218"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2529",
+            "endUid": "u2531"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Aurae.md",
+      "names": [
+        "Arrae"
+      ],
+      "confidenceExplanation": "Its deactivation is a consequential companion loss; its otherwise quiet presence makes supporting rather than cameo a close judgment."
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Lord Endless Ending",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0067",
+            "endUid": "u0080"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0490",
+            "endUid": "u0523"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1279",
+            "endUid": "u1285"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1581",
+            "endUid": "u1598"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1691",
+            "endUid": "u1709"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Lord Endless Ending.md",
+      "names": [
+        "teacher",
+        "Lord of the Ended Revel"
+      ],
+      "confidenceExplanation": "His teaching and release structure the prisoner’s choices and closing vignette, though much of his involvement is recalled rather than direct."
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Lord Hulda",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0063",
+            "endUid": "u0066"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0605",
+            "endUid": "u0659"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1257",
+            "endUid": "u1259"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1473",
+            "endUid": "u1510"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Sembarans/Lord Hulda.md",
+      "names": [
+        "Old Hulda",
+        "Old Man Hulda"
+      ],
+      "confidenceExplanation": "The deed’s causal loop and his narrated death give him meaningful indirect involvement; the older and younger histories remain distinct readings of one person."
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Menestheus",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0060",
+            "endUid": "u0062"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0075",
+            "endUid": "u0085"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0102",
+            "endUid": "u0104"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0158",
+            "endUid": "u0161"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1630",
+            "endUid": "u1631"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2033",
+            "endUid": "u2035"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Menestheus.md",
+      "names": [
+        "mushroom man"
+      ]
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Kallipseis",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0084",
+            "endUid": "u0085"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1263",
+            "endUid": "u1267"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2515",
+            "endUid": "u2517"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Kallipseis.md",
+      "confidenceExplanation": "Her completed soul transfer and escape are consequential played epilogue actions, but her brief appearance could instead be judged cameo."
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Thalestria",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0067",
+            "endUid": "u0080"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0711",
+            "endUid": "u0715"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1630",
+            "endUid": "u1631"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Thalestria.md"
+    },
+    {
+      "id": "e008",
+      "kind": "organization",
+      "label": "Arithrimos Lamperum",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0067",
+            "endUid": "u0080"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1263",
+            "endUid": "u1267"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1417",
+            "endUid": "u1435"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1539",
+            "endUid": "u1553"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2536",
+            "endUid": "u2543"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Drankorian Societies/Arithrimos Lamperum.md",
+      "names": [
+        "the Order"
+      ]
+    },
+    {
+      "id": "e009",
+      "kind": "divine",
+      "label": "The Night Queen",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0200",
+            "endUid": "u0202"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0508",
+            "endUid": "u0514"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0750",
+            "endUid": "u0772"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Night Queen.md",
+      "names": [
+        "godmother"
+      ]
+    },
+    {
+      "id": "e010",
+      "kind": "divine",
+      "label": "Txarro’s ancestors",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1127",
+            "endUid": "u1181"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The ancestral voice tells the consequential story through Txarro, but the player explicitly presents this as ability flavor rather than independently confirmed manifestation."
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Rakshasa",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0071",
+            "endUid": "u0071"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1268",
+            "endUid": "u1272"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2514",
+            "endUid": "u2514"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Rakshasa.md",
+      "names": [
+        "tigerman"
+      ]
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Alden",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1257",
+            "endUid": "u1259"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2509",
+            "endUid": "u2513"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Sembarans/Alden.md",
+      "confidenceExplanation": "The audit confirms Alden as a mushroom man, while the vignette calls several servants “Aldens”; it does not distinguish that individual among the corpses."
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "Pandel",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2514",
+            "endUid": "u2514"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Pandel.md"
+    },
+    {
+      "id": "e014",
+      "kind": "npc",
+      "label": "Endless Ending’s butler",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2532",
+            "endUid": "u2533"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Endless Ending's Butler.md"
+    },
+    {
+      "id": "e015",
+      "kind": "npc",
+      "label": "First singing dreamer",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0375",
+            "endUid": "u0393"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The first captured singing soul is a specific mystery figure, but the account supplies no name or secure match to another referenced scholar."
+    },
+    {
+      "id": "e016",
+      "kind": "npc",
+      "label": "Nicole Ardouin",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1387",
+            "endUid": "u1387"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1403",
+            "endUid": "u1413"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Tollenders/Nicole Ardouin.md"
+    },
+    {
+      "id": "e017",
+      "kind": "npc",
+      "label": "Thardrum Deepseeker",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1416",
+            "endUid": "u1420"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Thardrum Deepseeker.md"
+    },
+    {
+      "id": "e018",
+      "kind": "npc",
+      "label": "Apollyon",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1433",
+            "endUid": "u1434"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md"
+    },
+    {
+      "id": "e019",
+      "kind": "organization",
+      "label": "Philosopher’s Guild",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1514",
+            "endUid": "u1526"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Tollen Guilds/Ancient and Honorable Guild of Philosophers.md"
+    },
+    {
+      "id": "e020",
+      "kind": "item",
+      "label": "Tarek’s portable space-time clock",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0086",
+            "endUid": "u0087"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0207",
+            "endUid": "u0222"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0264",
+            "endUid": "u0281"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0600",
+            "endUid": "u0604"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1656",
+            "endUid": "u1660"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e021",
+      "kind": "item",
+      "label": "Hulda’s deed of inheritance",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0063",
+            "endUid": "u0066"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0623",
+            "endUid": "u0633"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1473",
+            "endUid": "u1517"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e022",
+      "kind": "item",
+      "label": "Cup stolen from the Feylord",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0665",
+            "endUid": "u0698"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0725",
+            "endUid": "u0727"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e023",
+      "kind": "item",
+      "label": "Fire-protecting ring in Tarek’s story",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0946",
+            "endUid": "u0999"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e024",
+      "kind": "item",
+      "label": "Allegories for the Initiated",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0091",
+            "endUid": "u0096"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0427",
+            "endUid": "u0442"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Books/Allegories for the Initiated.md"
+    },
+    {
+      "id": "e025",
+      "kind": "item",
+      "label": "Kallipseis’s book of six-digit numbers",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1267",
+            "endUid": "u1267"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The numerical index fits Brilliant Numbers, but the title and identity of this physical copy are not given.",
+      "candidates": [
+        "Things/Books/Brilliant Numbers.md"
+      ]
+    },
+    {
+      "id": "e026",
+      "kind": "item",
+      "label": "Rakshasa’s polished crystal sphere",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1268",
+            "endUid": "u1272"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e027",
+      "kind": "item",
+      "label": "The Exposition of the Alien Mind",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1387",
+            "endUid": "u1387"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Books/The Exposition of the Alien Mind.md"
+    },
+    {
+      "id": "e028",
+      "kind": "item",
+      "label": "Key to the central prison",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0072",
+            "endUid": "u0074"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1691",
+            "endUid": "u1709"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "the key"
+      ],
+      "confidenceExplanation": "The key’s proposed destruction is substantive plot discussion, but no new physical handling or breaking is played in this session."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Generic mushroom children, guards and undifferentiated souls",
+      "reason": "Collective attackers, offspring and released souls lack distinct individual identities; the named Menestheus, Alden and first singing dreamer are retained separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0081",
+            "endUid": "u0083"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0576",
+            "endUid": "u0596"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1207",
+            "endUid": "u1211"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1260",
+            "endUid": "u1262"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Kallipseis’s fungal body as a separate entity",
+      "reason": "The completed vessel houses Kallipseis’s own consciousness; her transfer is retained with the same NPC rather than creating a duplicate person or item for her body.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0084",
+            "endUid": "u0085"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1263",
+            "endUid": "u1267"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Unspecified artifacts, foster family, father and child in Tarek’s stories",
+      "reason": "These biographical roles and unspecified objects lack independent identities in this session; the particular ring and its original history are retained.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0396",
+            "endUid": "u0418"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0946",
+            "endUid": "u0999"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Lord Endless Ending’s clock versus the portable clock",
+      "reason": "The grandfather clock in the recap supplies the existing sending trigger, without a fresh discovery or separate item interaction. It is not merged with the clock Tarek carries.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0067",
+            "endUid": "u0071"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0213",
+            "endUid": "u0214"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1656",
+            "endUid": "u1660"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Hand drum and routine spell abilities",
+      "reason": "The hand drum accompanies Ayveen’s story without separate item history or acquisition. Light and Ancestral Aid are abilities; their religious referents are retained separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0195",
+            "endUid": "u0206"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1034",
+            "endUid": "u1047"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1117",
+            "endUid": "u1140"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Soul-holding seed pod and black painting",
+      "reason": "The seed-pod image is part of the prisoner’s own manifested release; the painting is only a comparison, without fresh examination or an independent physical item identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1198",
+            "endUid": "u1211"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Unnamed magical society carrying Hulda’s deed",
+      "reason": "The debrief only floats a replacement for the rejected Philosopher’s Guild explanation; it does not settle a specific organization’s identity or involvement.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1514",
+            "endUid": "u1526"
+          }
+        }
+      ]
+    },
+    {
+      "label": "University of Tollen and The Riven Veil",
+      "reason": "The university is a passing author affiliation; The Riven Veil is briefly named as a clue without a new item interaction. Neither is developed independently in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1335",
+            "endUid": "u1341"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1387",
+            "endUid": "u1387"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Other-campaign characters, soul-trapping mirror, elemental forge, and dragonet examples",
+      "reason": "These are out-of-character comparisons and future game design, not Feywild-session entities or events; the named historical Apollyon has a separate current lore reference.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1556",
+            "endUid": "u1571"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2156",
+            "endUid": "u2186"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2303",
+            "endUid": "u2333"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2361",
+            "endUid": "u2418"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Potions, pipe and velvet bag",
+      "reason": "Incidental gear, including the potion Hulda drinks, without distinctive histories or separate significant item identities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0680",
+            "endUid": "u0691"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1257",
+            "endUid": "u1259"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1268",
+            "endUid": "u1272"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Current party as a separate organization",
+      "reason": "The five travelers are the YAML-owned PCs; the session does not develop a separate group identity beyond their shared adventure.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0049",
+            "endUid": "u0062"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1286",
+            "endUid": "u1289"
+          }
+        }
+      ]
+    }
+  ]
+}

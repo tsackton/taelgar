@@ -1,0 +1,265 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-007",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
+    "sessionYamlSha256": "ace309c607cfb53806eac6e460db23c74a166cb781203a299f9a3154510941b7",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-transcript.md",
+    "transcriptSha256": "48f9ccd108c67b7a38ca1051bf4e2088f5d8adb113ccce64330c21819909e4d1",
+    "yamlDates": {
+      "start": "1740-10-06",
+      "end": "1740-10-06"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0215",
+        "endUid": "u0222"
+      },
+      "reading": "Tarek spends about a minute reading the embossed clock numbers by touch; the later answer completes that study.",
+      "evidence": [
+        {
+          "startUid": "u0215",
+          "endUid": "u0219",
+          "quote": "DM: With a 13, you can also tell that the, you know, the numbers that change on the clock are printed onto these little wheels, or little dials, and they are just slightly embossed in the printing. So with a couple of minutes of study, you could probably figure out what the numbers and what the year was right now. And if you want to work on that, we'll follow up on that in a minute."
+        },
+        {
+          "startUid": "u0222",
+          "endUid": "u0222",
+          "quote": "DM: Perfect. So you succeed, it'll just take a minute to figure it out."
+        },
+        {
+          "startUid": "u0264",
+          "endUid": "u0264",
+          "quote": "DM: A thinking creature is present that can use language and is telepathic. The year is 1351. That's a little bit more than 400 years ago."
+        }
+      ],
+      "actors": [
+        "Tarek"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM accepts the study and says it will take a minute; u0264 supplies the result."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0264",
+        "endUid": "u0264"
+      },
+      "reading": "The clock places the prison’s interior in local year 1351; this is a temporal coordinate, not the party’s present campaign year.",
+      "evidence": [
+        {
+          "startUid": "u0264",
+          "endUid": "u0264",
+          "quote": "DM: A thinking creature is present that can use language and is telepathic. The year is 1351. That's a little bit more than 400 years ago."
+        },
+        {
+          "startUid": "u0275",
+          "endUid": "u0275",
+          "quote": "DM: Zero, which is now, I suppose. Or was now."
+        },
+        {
+          "startUid": "u0279",
+          "endUid": "u0281",
+          "quote": "DM: 1352 was the deed's origination date."
+        },
+        {
+          "startUid": "u0600",
+          "endUid": "u0604",
+          "quote": "DM: Where and when it is inside the room is where and when it is on the far side of the root. That is the nature of the thing."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "time": {
+        "date": {
+          "year": 1351
+        },
+        "precision": "exact",
+        "basis": "Spoken year on the clock, confirmed as the year beyond the root; month and day are unstated."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1243",
+        "endUid": "u1245"
+      },
+      "reading": "After the release and collapse, the party stands on an empty hillside in gathering twilight with the first evening stars appearing.",
+      "evidence": [
+        {
+          "startUid": "u1233",
+          "endUid": "u1245",
+          "quote": "And the five of you are left on an empty hillside, in the gathering twilight just as the first stars of evening are beginning to come out."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "note": "This describes the Feywild’s local twilight. Stationary light does not establish a civil watch, elapsed day, or calendar boundary."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1253",
+        "endUid": "u1259"
+      },
+      "reading": "The epilogue cuts to Hulda’s death in the Material Plane house at the last of sunset; synchronization with the party’s clock is not established.",
+      "evidence": [
+        {
+          "startUid": "u1253",
+          "endUid": "u1256",
+          "quote": "DM: I think from there… the camera pans up and away from you and out towards the horizon where the sun has set. And then pans back again."
+        },
+        {
+          "startUid": "u1257",
+          "endUid": "u1259",
+          "quote": "DM: And it's the last of the sunset shining through a high window of an old house onto the bloody and exhausted form of Lord Hulda. Surrounded by the butchered corpse of the half-dozen mushroom men Aldens, who were his servants. And he drinks a potion, but his wounds don't fully close, and he coughs, and then he coughs again, and he doesn't stop coughing until he does, all at once."
+        }
+      ],
+      "actors": [
+        "Lord Hulda"
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Direct sunset description of Hulda’s epilogue, separate from the Feywild frame."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1263",
+        "endUid": "u1267"
+      },
+      "reading": "The montage revisits the first rumbling of the collapse: Kallipseis transfers into her fungal body and escapes, rather than waiting until after the party’s emergence.",
+      "evidence": [
+        {
+          "startUid": "u1263",
+          "endUid": "u1266",
+          "quote": "DM: In a room filled with glass tanks of fungus growing on severed limbs, just as you feel the first rumbles start to vibrate through it, just as you can see the glass tanks shaking and the house is destroyed, a body in the shape of a dwarven woman, but made from fungi and lichens of every possible description, sits up and looks, for a long moment, at the lifeless corpse which once held the soul now encased in its own fungal golem flesh."
+        },
+        {
+          "startUid": "u1267",
+          "endUid": "u1267",
+          "quote": "DM: And as the room around her shakes, as pieces of the ceiling begin to fall to the floor, Kallipseis, now wizard head of Arithrimos Lamperum in a golem body, consults a book filled with long lists of six-digit numbers and blinks out of sight."
+        },
+        {
+          "startUid": "u1192",
+          "endUid": "u1196",
+          "quote": "DM: You feel it in your body, each of you, before you can consciously perceive the rumbling vibration, the sound that's moving through you, not just your ears, but your whole body, the sound that you can feel in your lungs of something… like the sound of an earthquake."
+        }
+      ],
+      "actors": [
+        "Kallipseis"
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t03",
+          "anchor": "The collapse’s first rumbling, before the party stands on the exposed hillside."
+        },
+        "precision": "approximate",
+        "basis": "The epilogue explicitly returns to the first rumbles narrated at u1192–u1196."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1273",
+        "endUid": "u1277"
+      },
+      "reading": "The epilogue follows the freed prisoner to its home outside time and the universe; no elapsed adventure duration is established.",
+      "evidence": [
+        {
+          "startUid": "u1273",
+          "endUid": "u1274",
+          "quote": "DM: It is no time. It is not time, it is outside of time, in the black nothingness beyond the universe, where the black stars do not shine, and an un-thing that is sometimes a child, and sometimes a monster can once again see the complete and unambiguous shape of all of its own possibilities. Its past, its present, its future, all at once, unhidden, always moving, never changing."
+        },
+        {
+          "startUid": "u1275",
+          "endUid": "u1277",
+          "quote": "DM: And in that place, which is not a place, it doesn't think of the soul hoard it kept, but of the teacher who found it as a lost child and loved it into speech."
+        }
+      ],
+      "actors": [
+        "Prisoner in the 27th room"
+      ],
+      "note": "This is a change of narrative frame, not a measurable interval or an assertion of ordinary before/after beyond the universe."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1279",
+        "endUid": "u1285"
+      },
+      "reading": "The revel has finished under a twilight sky; the Lord of the Ended Revel is alone in the dark manor.",
+      "evidence": [
+        {
+          "startUid": "u1279",
+          "endUid": "u1281",
+          "quote": "DM: Under a twilight sky, wide green lawns rise from the river to a beautiful manor house where a party has finished. The paper lanterns hanging on long lines are all extinguished, and the grounds are silent, and the partygoers have departed."
+        },
+        {
+          "startUid": "u1282",
+          "endUid": "u1285",
+          "quote": "DM: And in the upper room of the dark house, the Lord of the Ended Revel looks out a high window toward the place where the sun has set, thinking of the child he befriended just before his party began."
+        }
+      ],
+      "actors": [
+        "Lord Endless Ending"
+      ],
+      "note": "The ended party is a local social change; twilight itself provides no elapsed time or synchronized civil watch."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1286",
+        "endUid": "u1289"
+      },
+      "reading": "Narration returns from the epilogue to the five travelers above the ravine, still considering their way home.",
+      "evidence": [
+        {
+          "startUid": "u1286",
+          "endUid": "u1289",
+          "quote": "DM: And 5 travelers standing above a ravine look to each other and began to think on the way back home again. That's where we'll leave it."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "YAML alone supplies October 6, DR 1740. The debrief uses 1740 for the modern era (u1498–u1500), but no current month/day is spoken. Year 1351 is explicitly the prison/root’s local coordinate, not a correction to that calendar.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08"
+    ],
+    "explanation": "The session resolves the prison encounter and an epilogue without an established overnight, completed rest, or civil date transition. The minute of clock study is elapsed play. Temple-rest recollections, childhood stories, predicted futures, the older Hulda’s history, and unplayed time-travel alternatives do not extend the session’s adventure span. Stationary Feywild twilight and an unsynchronized Material Plane vignette cannot prove an exact boundary total; the single-day YAML span remains possible."
+  }
+}
