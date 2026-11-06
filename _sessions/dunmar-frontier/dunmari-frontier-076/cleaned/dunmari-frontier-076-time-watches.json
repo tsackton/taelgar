@@ -1,0 +1,210 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-time-markers.json",
+    "sha256": "f6146db42bd25f2be6ccdb2189a9c8e0da99fe7050d6be9722e4efe4b748f8e9"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-transcript.md",
+    "sha256": "2ddcbe080083e6bccf89f6f9dc80d225556338e393fd1bda6ac199eff18da831"
+  },
+  "dateAssessment": "Working dates follow the session YAML and the dated Session 76 record: December 4, 1748 for the predawn opening, and December 5 for the audience. No calendar date is independently spoken. The opening recalls the preceding 48-hour flight, placed approximately December 2–4 by the Session 75 timeline; it does not advance play by two more days after the handoff. The time extraction remains compatible, with its opening coverage boundary unresolved. The pre-fort lunchtime flyover and later 9 a.m. border clock remain qualified alternatives. Midnight at u2301 is the real-world stopping time; the invited dinner is still future.",
+  "watches": [
+    {
+      "day": "December 2–4, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Recalled 48-hour flight ends at the predawn opening; departure shares that watch two days earlier.",
+      "markers": [
+        "t02"
+      ],
+      "scope": "Prior travel recalled at opening",
+      "startDate": "1748-12-02",
+      "endDate": "1748-12-04"
+    },
+    {
+      "day": "December 4, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Rapidly brightening predawn opening; morning scrying and breakfast resume the same shipboard context.",
+      "markers": [
+        "t01",
+        "t03"
+      ],
+      "startDate": "1748-12-04",
+      "endDate": "1748-12-04"
+    },
+    {
+      "day": "December 4, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Three or four hours of flight; the reopened border decision is placed at about 9 a.m.",
+      "markers": [
+        "t04",
+        "t06"
+      ],
+      "startDate": "1748-12-04",
+      "endDate": "1748-12-04"
+    },
+    {
+      "day": "December 4, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Provisional lunchtime flyover precedes a return to the 9 a.m. border decision; rewind or revision remains unresolved.",
+      "markers": [
+        "t05"
+      ],
+      "scope": "Competing pre-fort reading",
+      "startDate": "1748-12-04",
+      "endDate": "1748-12-04"
+    },
+    {
+      "day": "December 4, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Half-hour forge visit precedes departure about 2:30 p.m.; the letter errand took a few minutes earlier.",
+      "markers": [
+        "t07",
+        "t08",
+        "t09"
+      ],
+      "sourceRanges": [
+        [
+          "u1127",
+          "u1142"
+        ]
+      ],
+      "startDate": "1748-12-04",
+      "endDate": "1748-12-04"
+    },
+    {
+      "day": "December 4, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Research scrying is explicitly during the evening flight.",
+      "markers": [
+        "t10"
+      ],
+      "scope": "Delwath",
+      "startDate": "1748-12-04",
+      "endDate": "1748-12-04"
+    },
+    {
+      "day": "December 4–5, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Completed eight-hour long rest overlaps flight; four rest while Seeker keeps the ship going.",
+      "markers": [
+        "t12"
+      ],
+      "scope": "Kenzo, Delwath, Wellby, Riswynn",
+      "startDate": "1748-12-04",
+      "endDate": "1748-12-05"
+    },
+    {
+      "day": "December 5, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Night flight reaches Uzgukhar by sunrise; Seeker keeps the ship moving.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-12-05",
+      "endDate": "1748-12-05"
+    },
+    {
+      "day": "December 5, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "An hour waiting for the messenger ends by about 8 a.m., before descent.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-12-05",
+      "endDate": "1748-12-05"
+    },
+    {
+      "day": "December 5, 1748",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Three-hour room wait and fifteen-minute food errand precede another hour ending near 1:30 p.m.",
+      "markers": [
+        "t14",
+        "t15"
+      ],
+      "scope": "Four visitors",
+      "sourceRanges": [
+        [
+          "u1630",
+          "u1633"
+        ]
+      ],
+      "startDate": "1748-12-05",
+      "endDate": "1748-12-05"
+    },
+    {
+      "day": "December 5, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Another hour or so passes; the audience is ready at about 1:30 p.m.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1748-12-05",
+      "endDate": "1748-12-05"
+    },
+    {
+      "day": "December 5, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "An hour or more of testimony follows the 1:30 audience; the later cloak opening lasts about a minute.",
+      "markers": [
+        "t17",
+        "t18"
+      ],
+      "scope": "Four visitors",
+      "startDate": "1748-12-05",
+      "endDate": "1748-12-05"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 75 dated handoff",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 75 (DuFr).md",
+      "sha256": "a44e9510a8c0bfa0b4681bedeba9b043be9e607d8b8c915bd4935fefe8090e91"
+    },
+    {
+      "label": "Session 76 dated record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 76 (DuFr).md",
+      "sha256": "cde0e393e4b6d03397be2832d0a047a715c727365f398dd0fc0d455cfafc2b46"
+    },
+    {
+      "label": "Lubash meeting-date discrepancy",
+      "path": "People/Orcs/Lubash.md",
+      "sha256": "d7d8c8ab9648ec108284edeb8299d39f27c02cad41f0a35c2be97d3b9c04d912"
+    },
+    {
+      "label": "Murook meeting-date discrepancy",
+      "path": "People/Orcs/Murook.md",
+      "sha256": "cbe4b753d2d4e3621b4343d89349ddf0a56c2d1e389c8e8fc48c6f566c70fb59"
+    },
+    {
+      "label": "Azogar meeting-date discrepancy",
+      "path": "People/Orcs/Azogar.md",
+      "sha256": "3cac246ac5f65e7c3bd88b0123efa841e5e13ea952b4ea2e8250e31d96ad0a05"
+    }
+  ]
+}

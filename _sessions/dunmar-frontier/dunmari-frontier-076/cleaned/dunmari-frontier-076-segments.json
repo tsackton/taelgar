@@ -1,0 +1,154 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-076",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-session.yaml",
+    "sessionYamlSha256": "7fe02afdc876da49363828190a78b8cd833c15154fac01faf652271f8538bc7b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-transcript.md",
+    "transcriptSha256": "2ddcbe080083e6bccf89f6f9dc80d225556338e393fd1bda6ac199eff18da831"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk",
+      "note": "Unattributed opening fragment; no recoverable game action."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0006"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0009"
+      },
+      "category": "session_framing",
+      "note": "Retrospective summary of the preceding journey; it does not advance beyond the opening predawn scene."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0050"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0051",
+        "endUid": "u0129"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0130",
+        "endUid": "u0765"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0766",
+        "endUid": "u0790"
+      },
+      "category": "meta_discussion",
+      "note": "Explicit metagame discussion about what aid and cloak-related information to offer; the inseparable final turn also resumes telling Vorgaz."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0791",
+        "endUid": "u1970"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1971",
+        "endUid": "u2002"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2003",
+        "endUid": "u2092"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2093",
+        "endUid": "u2164"
+      },
+      "category": "meta_discussion",
+      "note": "The players interpret the cloak and debate options before explicitly resuming speech to Lubash."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2165",
+        "endUid": "u2240"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2241",
+        "endUid": "u2304"
+      },
+      "category": "meta_discussion",
+      "note": "Out-of-character defensive and spell-mechanics planning, ending with the real-world midnight wrap-up."
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2305",
+        "endUid": "u2311"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2312",
+        "endUid": "u2312"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u2313",
+        "endUid": "u2322"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2323",
+        "endUid": "u2326"
+      },
+      "category": "table_talk",
+      "note": "Final mixed strategy/goodnight turn belongs to closing housekeeping; keep its shared UIDs intact."
+    }
+  ]
+}
