@@ -1,0 +1,818 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-055",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-session.yaml",
+    "sessionYamlSha256": "c22d861897317ed8643eb3065ee7800bdf0612d061e5dca5cd6e13e628cf6bbd",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-transcript.md",
+    "transcriptSha256": "4d26f8342de30b0968efdadbba3f1dc837d0451ccd58e2666fb5ee026df0994b",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-segments.json",
+      "sha256": "07f8dabeb3491ce2af023b02234a6210c79384c3ba8d146f6c8d9abb7bd6a6ae",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Hobgoblin portal company and one-armed wizard",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Casts a 20-foot-diameter Wall of Fire, damaging inward. The captain and one soldier fail Dexterity saves and take 29 fire damage; the soldier dies. Iascaire then moves.",
+              "evidence": [
+                {
+                  "startUid": "u0496",
+                  "endUid": "u0587"
+                }
+              ]
+            },
+            {
+              "actor": "One-armed hobgoblin wizard",
+              "kind": "reaction",
+              "summary": "Attempts Counterspell against the fourth-level Wall of Fire, fails the DC 14 ability check, and the wall appears.",
+              "evidence": [
+                {
+                  "startUid": "u0537",
+                  "endUid": "u0561"
+                }
+              ]
+            },
+            {
+              "actor": "One-armed hobgoblin wizard",
+              "kind": "turn",
+              "summary": "Casts Fly and rises 60 feet straight up.",
+              "evidence": [
+                {
+                  "startUid": "u0588",
+                  "endUid": "u0593"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin soldiers and lieutenant",
+              "kind": "turn",
+              "summary": "One soldier runs through the fire and dies. Two others remain inside and burn up at the end of their turns. The lieutenant exits and survives; another soldier was outside the circle.",
+              "evidence": [
+                {
+                  "startUid": "u0594",
+                  "endUid": "u0622"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Moves toward melee and dashes to reach the indicated position.",
+              "evidence": [
+                {
+                  "startUid": "u0627",
+                  "endUid": "u0633"
+                }
+              ]
+            },
+            {
+              "actor": "Greatsword officer",
+              "kind": "turn",
+              "summary": "Runs through the wall, takes fire damage, and moves near the wizard; the damage total is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u0634",
+                  "endUid": "u0638"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Cannot get directly beneath the wizard for Banishment. Casts Fly instead and flies diagonally toward him, ending about 40 feet up. Eldritch Blast is withdrawn because Fly used the action; Hexblade’s Curse is out of range.",
+              "evidence": [
+                {
+                  "startUid": "u0639",
+                  "endUid": "u0713"
+                }
+              ]
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "event",
+              "summary": "Drops concentration on Wall of Fire while Delwath moves, preventing him from being burned.",
+              "evidence": [
+                {
+                  "startUid": "u0703",
+                  "endUid": "u0705"
+                }
+              ]
+            },
+            {
+              "actor": "Longsword warlord",
+              "kind": "turn",
+              "summary": "Closes beside an ally and attacks Aristaea three times: 16 misses, 25 hits for a stated 17 damage, and 15 misses; the hit is explicitly not critical.",
+              "evidence": [
+                {
+                  "startUid": "u0714",
+                  "endUid": "u0727"
+                }
+              ],
+              "note": "The closing words “25 total” are ambiguous after the earlier explicit 17 damage; no replacement damage total is inferred."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Moves and directs the wildfire spirit toward a reachable enemy. No other completed personal spell is recorded in this turn.",
+              "evidence": [
+                {
+                  "startUid": "u0732",
+                  "endUid": "u0760"
+                },
+                {
+                  "startUid": "u0778",
+                  "endUid": "u0783"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Moves and hits the map-indicated hobgoblin with Flame Seed for a corrected 9 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u0740",
+                  "endUid": "u0760"
+                }
+              ],
+              "note": "The pointed-at enemy is not verbally identified; the wizard is still 60 feet up."
+            },
+            {
+              "actor": "One-armed hobgoblin wizard",
+              "kind": "turn",
+              "summary": "Casts Fireball between Delwath and Aristaea: both fail Dexterity saves. Delwath takes 30 fire damage; Aristaea takes 15 with fire resistance. The wizard flies 20 feet across and 40 feet higher. Delwath maintains Fly.",
+              "evidence": [
+                {
+                  "startUid": "u0761",
+                  "endUid": "u0788"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin soldier",
+              "kind": "turn",
+              "summary": "Swings at Aristaea and misses.",
+              "evidence": [
+                {
+                  "startUid": "u0784",
+                  "endUid": "u0792"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "First attack misses the warlord/captain. Her second pike attack hits and she adds a smite for a stated 8 damage; weapon damage is not voiced.",
+              "evidence": [
+                {
+                  "startUid": "u0793",
+                  "endUid": "u0808"
+                }
+              ]
+            },
+            {
+              "actor": "Greatsword officer",
+              "kind": "turn",
+              "summary": "Moves up and attacks Aristaea twice with a greatsword. Both hit, at 21 and 20, for 23 and 13 damage respectively.",
+              "evidence": [
+                {
+                  "startUid": "u0809",
+                  "endUid": "u0824"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Flies 60 feet toward the wizard, reaching about 100 feet high and 20 feet from him. Applies Hexblade’s Curse; Eldritch Blast misses at 14, then hits at 23 for 11 damage including the curse bonus. A wizard concentration check is requested without a spoken result; his continued flight confirms it holds.",
+              "evidence": [
+                {
+                  "startUid": "u0825",
+                  "endUid": "u0856"
+                },
+                {
+                  "startUid": "u0947",
+                  "endUid": "u0983"
+                }
+              ]
+            },
+            {
+              "actor": "Longsword warlord",
+              "kind": "turn",
+              "summary": "Attacks Aristaea three times: a natural 1 misses, the second misses, and the third hits for 21 damage, knocking her unconscious.",
+              "evidence": [
+                {
+                  "startUid": "u0857",
+                  "endUid": "u0882"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Changes the proposed Healing Word to fifth-level Cure Wounds originating from the wildfire spirit. Aristaea regains 38 hit points and wakes; Iascaire also moves.",
+              "evidence": [
+                {
+                  "startUid": "u0883",
+                  "endUid": "u0923"
+                },
+                {
+                  "startUid": "u0946",
+                  "endUid": "u0946"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Moves beside Aristaea and teleports her 15 feet toward the portal. Of three hobgoblins, the middle one succeeds on its Dexterity save; the other two fail and take 9 fire damage. The sergeant dies and a soldier is wounded; the captain rallies the survivor.",
+              "evidence": [
+                {
+                  "startUid": "u0924",
+                  "endUid": "u0945"
+                }
+              ]
+            },
+            {
+              "actor": "One-armed hobgoblin wizard",
+              "kind": "turn",
+              "summary": "Circles back toward his allies and climbs to 130 feet, then casts Lightning Bolt at Delwath. Delwath succeeds on the Dexterity save, taking 16 lightning damage from 33. A concentration check is rolled; continued flight confirms Fly remains active.",
+              "evidence": [
+                {
+                  "startUid": "u0947",
+                  "endUid": "u0996"
+                },
+                {
+                  "startUid": "u1237",
+                  "endUid": "u1238"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin soldier",
+              "kind": "turn",
+              "summary": "Charges Aristaea and rolls a natural 20; adamantine armor prevents doubled critical damage, leaving 5 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0998",
+                  "endUid": "u1006"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Closes into melee at altitude, hits the wizard for 14 damage, and misses the second attack. The wizard succeeds on his concentration save. Delwath casts Sanctuary as a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u1026",
+                  "endUid": "u1081"
+                }
+              ],
+              "note": "Aristaea’s intervening turn discusses Lay on Hands, but the source supplies no completed action or healing value for her."
+            },
+            {
+              "actor": "Longsword warlord",
+              "kind": "turn",
+              "summary": "Closes on Aristaea and makes three attacks: 18 misses, then two hits deal 23 and 6 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1082",
+                  "endUid": "u1099"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Casts third-level Heat Metal on the large plate-armored warlord, imposing disadvantage on all attacks. No damage total is spoken. Moves again after arranging Aristaea’s withdrawal.",
+              "evidence": [
+                {
+                  "startUid": "u1111",
+                  "endUid": "u1125"
+                },
+                {
+                  "startUid": "u1138",
+                  "endUid": "u1147"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Teleports Aristaea 15 feet back, placing the spirit between her and the enemies. Both pursuing hobgoblins fail Dexterity saves and take 7 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u1126",
+                  "endUid": "u1139"
+                }
+              ]
+            },
+            {
+              "actor": "One-armed hobgoblin wizard",
+              "kind": "turn",
+              "summary": "Casts Thunderwave. An initial Sanctuary objection is reversed because the spell targets Self; Delwath succeeds on the Constitution save with advantage and takes 9 damage, without the intended push. The wizard starts moving away, then continues to a final position about 30 feet across and 50 feet down, 80 feet above the ground.",
+              "evidence": [
+                {
+                  "startUid": "u1148",
+                  "endUid": "u1182"
+                },
+                {
+                  "startUid": "u1186",
+                  "endUid": "u1197"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Takes an opportunity attack during the wizard’s retreat, rolls 12, and misses; the wizard continues his descent.",
+              "evidence": [
+                {
+                  "startUid": "u1183",
+                  "endUid": "u1197"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin soldier",
+              "kind": "turn",
+              "summary": "Closes and hits Aristaea with another natural 20. Adamantine armor again negates critical doubling; she takes 3 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1199",
+                  "endUid": "u1207"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Kills the wounded soldier with her first pike hit, withdrawing the unnecessary smite. Moves to the heated warlord and kills him with the second attack.",
+              "evidence": [
+                {
+                  "startUid": "u1209",
+                  "endUid": "u1236"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Pursues the wizard to 80 feet and hits for a corrected 24 damage, replacing 13 after adding the forgotten extra d8. The wizard rolls a natural 1 on his concentration save, loses Fly, falls 80 feet for 32 damage, and dies before Delwath’s second attack.",
+              "evidence": [
+                {
+                  "startUid": "u1237",
+                  "endUid": "u1260"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The ground troops and officers are dead; the wizard loses Fly and dies on hitting the shadow plane’s ground.",
+        "evidence": [
+          {
+            "startUid": "u1213",
+            "endUid": "u1260"
+          }
+        ]
+      },
+      "note": "Officer titles shift between lieutenant, captain, sergeant and warlord. Greatsword officer and longsword warlord distinguish the two resolved combat roles without inventing personal names."
+    },
+    {
+      "id": "c002",
+      "segmentId": "s008",
+      "encounter": "Cocoon-bound skeletal warlock at Yemo’te",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Already flying, dashes 120 feet just above the ground and across difficult terrain toward the warlock.",
+              "evidence": [
+                {
+                  "startUid": "u2056",
+                  "endUid": "u2098"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal minions",
+              "kind": "turn",
+              "summary": "Draw their swords and wait.",
+              "evidence": [
+                {
+                  "startUid": "u2099",
+                  "endUid": "u2101"
+                }
+              ]
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Dashes forward through the air.",
+              "evidence": [
+                {
+                  "startUid": "u2102",
+                  "endUid": "u2107"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Likewise dashes forward through the air.",
+              "evidence": [
+                {
+                  "startUid": "u2108",
+                  "endUid": "u2111"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal hobgoblin warlock",
+              "kind": "turn",
+              "summary": "Casts a poisonous mist, later identified as Cloudkill. Its damage applies when targets start their turns inside it.",
+              "evidence": [
+                {
+                  "startUid": "u2113",
+                  "endUid": "u2127"
+                },
+                {
+                  "startUid": "u2168",
+                  "endUid": "u2173"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal archers",
+              "kind": "turn",
+              "summary": "Five arrows hit Aristaea for a corrected 5 piercing damage. Five more target Delwath but miss at 18 against AC 20.",
+              "evidence": [
+                {
+                  "startUid": "u2128",
+                  "endUid": "u2145"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal hobgoblin warlock",
+              "kind": "legendary_action",
+              "summary": "Makes a ranged spell attack against Iascaire, initially a natural 20. Aristaea invokes a blessing to cancel the critical; Iascaire takes 15 necrotic damage and a skeletal hand prevents him from regaining hit points.",
+              "evidence": [
+                {
+                  "startUid": "u2128",
+                  "endUid": "u2154"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Battlefield",
+              "kind": "lair_action",
+              "summary": "At initiative count 20, six more skeletons emerge; the DM supplies this missed occurrence retrospectively before combining them into a bone swarm.",
+              "evidence": [
+                {
+                  "startUid": "u2158",
+                  "endUid": "u2159"
+                },
+                {
+                  "startUid": "u2415",
+                  "endUid": "u2428"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Succeeds on a Constitution save against Cloudkill, taking 10 poison damage rather than 5 because he began outside Aristaea’s aura; maintains Fly. Flies 60 feet to the warlock and lands, applies Hexblade’s Curse, and hits twice for 15 and 24 damage. The warlock succeeds on both concentration checks.",
+              "evidence": [
+                {
+                  "startUid": "u2160",
+                  "endUid": "u2204"
+                },
+                {
+                  "startUid": "u2214",
+                  "endUid": "u2218"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal hobgoblin warlock",
+              "kind": "legendary_action",
+              "summary": "Targets Delwath with green miasma; 17 misses and has no effect.",
+              "evidence": [
+                {
+                  "startUid": "u2205",
+                  "endUid": "u2212"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal minions",
+              "kind": "turn",
+              "summary": "Attack Delwath collectively; 27 hits for 7 piercing plus 5 necrotic damage. Two others remain stationary.",
+              "evidence": [
+                {
+                  "startUid": "u2213",
+                  "endUid": "u2224"
+                }
+              ]
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Makes a Constitution save against Cloudkill and takes 16 poison damage; the initially stated poisoned condition is explicitly withdrawn. Moves before casting as permitted, then raises an outward-damaging Wall of Fire, destroying the intersected minions. Remains airborne outside the wall.",
+              "evidence": [
+                {
+                  "startUid": "u2225",
+                  "endUid": "u2312"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Moves and teleports to the indicated side rather than making the contemplated ranged attack.",
+              "evidence": [
+                {
+                  "startUid": "u2314",
+                  "endUid": "u2324"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Succeeds on her Constitution save against Cloudkill and takes 5 poison damage. Flies to hover 20 feet up above the wall and casts Moonbeam on the immobile warlock.",
+              "evidence": [
+                {
+                  "startUid": "u2325",
+                  "endUid": "u2370"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal hobgoblin warlock",
+              "kind": "turn",
+              "summary": "Succeeds on the Constitution save against Moonbeam, taking half radiant damage without apparent vulnerability, and maintains concentration. The cloud drifts 10 feet. Casts Fear: Aristaea is immune and Delwath succeeds on the Wisdom save, so it has no effect.",
+              "evidence": [
+                {
+                  "startUid": "u2371",
+                  "endUid": "u2406"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal archers",
+              "kind": "turn",
+              "summary": "One half misses Iascaire with a natural 1; the other half hits Aristaea at 28 for 5 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u2407",
+                  "endUid": "u2424"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal hobgoblin warlock",
+              "kind": "event",
+              "summary": "At the end of the archers’ turn, the newly raised skeletons merge into a giant bone swarm, which is no longer a minion.",
+              "evidence": [
+                {
+                  "startUid": "u2415",
+                  "endUid": "u2428"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the warlock for 20 damage and misses the second attack at 15. The cocoon holds the warlock in place but does not impose restrained or grant advantage.",
+              "evidence": [
+                {
+                  "startUid": "u2429",
+                  "endUid": "u2449"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal hobgoblin warlock",
+              "kind": "legendary_action",
+              "summary": "Explodes a nearby skeleton. Delwath makes a Dexterity save and takes no damage; its shards reform the warlock’s bones, healing him by an unstated amount.",
+              "evidence": [
+                {
+                  "startUid": "u2450",
+                  "endUid": "u2467"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal minions",
+              "kind": "turn",
+              "summary": "Close on Delwath and hit at 22 for 2 piercing or slashing damage plus 6 necrotic damage.",
+              "evidence": [
+                {
+                  "startUid": "u2463",
+                  "endUid": "u2469"
+                }
+              ]
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Flies to the archers and descends to an adjudicated 15 feet. Burning Hands catches four of five; all fail Dexterity saves and die. Their bones create difficult terrain below, irrelevant to those still flying.",
+              "evidence": [
+                {
+                  "startUid": "u2470",
+                  "endUid": "u2504"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Moves and uses Fiery Teleportation near the bone swarm. Its Dexterity roll is 10 and it takes a final stated 8 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u2505",
+                  "endUid": "u2516"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Descends to hover about 5–10 feet up and attacks downward. Her first pike attack kills two skeletons; the second hits the warlock at 19 and adds smite, with voiced rolls 7 and an extra 3 against undead. Weapon damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u2517",
+                  "endUid": "u2565"
+                }
+              ],
+              "note": "The proposed additional exploding-skeleton legendary action at u2519–u2522 is withdrawn because the warlock has spent his legendary actions."
+            },
+            {
+              "actor": "Skeletal hobgoblin warlock",
+              "kind": "turn",
+              "summary": "Fails his Constitution save against Moonbeam; the radiant damage total is not spoken. Is no longer concentrating on a spell after ineffective Fear. Casts an acid burst behind Delwath and Aristaea, calling for Dexterity saves: Aristaea takes 8 acid damage with her aura’s spell resistance; Delwath takes 17 acid plus 2 necrotic damage and is coated in acid for his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u2566",
+                  "endUid": "u2585"
+                }
+              ]
+            },
+            {
+              "actor": "Bone swarm",
+              "kind": "turn",
+              "summary": "Moves to the wildfire spirit and hits AC 13 with a slam for 12 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u2586",
+                  "endUid": "u2596"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal archers",
+              "kind": "turn",
+              "summary": "Move away from the wall and spirit. The spirit has no melee attack and makes no opportunity attack. Five archers roll a natural 20 against the spirit for 10 piercing damage; another six roll 8 and miss the party target indicated on the map.",
+              "evidence": [
+                {
+                  "startUid": "u2597",
+                  "endUid": "u2613"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Battlefield",
+              "kind": "lair_action",
+              "summary": "More skeletons emerge before Delwath’s turn; their number is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u2614",
+                  "endUid": "u2617"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Takes 12 acid damage at turn start, after which the coating ends. Confirms successful Fly concentration rolls of 13 and 15; he has advantage but need not reroll successful first dice. Hovers a few feet up within reach, retains Fly instead of Banishing Smite, hits for 22 damage, misses at 14, and casts Sanctuary as a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u2618",
+                  "endUid": "u2652"
+                }
+              ]
+            },
+            {
+              "actor": "Skeletal hobgoblin warlock",
+              "kind": "event",
+              "summary": "After Delwath’s turn, releases a 30-foot-radius blast of thunder and necrotic energy. All three PCs fail Constitution saves. Iascaire takes 28 damage outside the aura; Delwath and Aristaea take 14 each through its spell resistance. Nearby minions are destroyed. Iascaire maintains Wall of Fire.",
+              "evidence": [
+                {
+                  "startUid": "u2653",
+                  "endUid": "u2698"
+                }
+              ],
+              "note": "The spirit’s exposure is left uncertain after the DM questions its range; it continues acting. The special action is not explicitly named legendary, lair or villain."
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Moves down toward the ground and casts upcast Cure Wounds on Delwath for 26 healing, later adding 3 from the spirit, for 29 total. Iascaire’s own inability to heal remains in effect.",
+              "evidence": [
+                {
+                  "startUid": "u2693",
+                  "endUid": "u2718"
+                },
+                {
+                  "startUid": "u2723",
+                  "endUid": "u2725"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Moves into contact with the warlock and teleports 15 feet, using its fire immunity to occupy the wall. All indicated targets fail Dexterity saves: three minions die and the larger target takes 9 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u2719",
+                  "endUid": "u2722"
+                }
+              ],
+              "note": "The larger target is indicated on the map rather than named; contact with the warlock is stated immediately before the teleport."
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "First pike attack misses. The second hits and adds a third-level smite with the extra undead die. The DM ends the fight by declaring the warlock destroyed in radiant fire despite mentioning 68 hit points remaining; all other undead collapse. No invented damage total is assigned.",
+              "evidence": [
+                {
+                  "startUid": "u2726",
+                  "endUid": "u2755"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The DM declares Aristaea’s radiant pike strike destroys the warlock; every other undead collapses. The armband is destroyed after initiative and is not an extra combat turn.",
+        "evidence": [
+          {
+            "startUid": "u2749",
+            "endUid": "u2755"
+          }
+        ]
+      }
+    }
+  ]
+}

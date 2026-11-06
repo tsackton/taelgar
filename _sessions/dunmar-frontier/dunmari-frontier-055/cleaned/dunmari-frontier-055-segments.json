@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-055",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-session.yaml",
+    "sessionYamlSha256": "c22d861897317ed8643eb3065ee7800bdf0612d061e5dca5cd6e13e628cf6bbd",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-transcript.md",
+    "transcriptSha256": "4d26f8342de30b0968efdadbba3f1dc837d0451ccd58e2666fb5ee026df0994b"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0082"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0083",
+        "endUid": "u0109"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0110",
+        "endUid": "u0488"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0489",
+        "endUid": "u1260"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1261",
+        "endUid": "u1905"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1906",
+        "endUid": "u1920"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1921",
+        "endUid": "u2055"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2056",
+        "endUid": "u2755"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2756",
+        "endUid": "u2837"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2838",
+        "endUid": "u2838"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-time-markers.json",
+    "sha256": "cb2aebf3cf9ef0e4f8800cf485abd459405be593fb5080595724466be8802594"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-transcript.md",
+    "sha256": "4d26f8342de30b0968efdadbba3f1dc837d0451ccd58e2666fb5ee026df0994b"
+  },
+  "dateAssessment": "Working calendar: the registered YAML gives 9–14 October 1748; no absolute date is spoken. The opening rest may end on the opening date or the following morning, placing the day-and-night walk’s midday arrival on 10–11 October if the YAML start is used. Later dates remain windows within that compatible span, not independently dated events. The 40-mile leg has no established elapsed duration. The return lasts about 1.5 days with its long rest included. The dated Session 55 campaign record repeats 6 October after an opening 9 October entry, contradicting its own header and the YAML; that discrepancy remains for human review.",
+  "watches": [
+    {
+      "day": "During October 9–10, 1748",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Eight-hour rest precedes the morning departure; the opening night’s calendar boundary remains unresolved.",
+      "markers": [
+        "t01"
+      ],
+      "dateWindow": [
+        "1748-10-09",
+        "1748-10-10"
+      ]
+    },
+    {
+      "day": "During October 9–11, 1748",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Walk through day and night; arrive about 11 a.m., described as midday, with pauses.",
+      "markers": [
+        "t02"
+      ],
+      "dateWindow": [
+        "1748-10-09",
+        "1748-10-11"
+      ]
+    },
+    {
+      "day": "During October 10–11, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Arrival near 11 anchors rests and digging; the already-spent hour can overlap the first rest.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05",
+        "t06"
+      ],
+      "dateWindow": [
+        "1748-10-10",
+        "1748-10-11"
+      ]
+    },
+    {
+      "day": "Shadow-plane rescue, after attunement",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Delwath watches for minutes, then traverses the shadow plane in indeterminate time.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "clock": "local",
+      "scope": "Delwath inside the shadow plane"
+    },
+    {
+      "day": "During October 10–13, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "One short rest is accepted during the 40-mile journey; the departure clock is unspoken.",
+      "markers": [
+        "t09"
+      ],
+      "dateWindow": [
+        "1748-10-10",
+        "1748-10-13"
+      ]
+    },
+    {
+      "day": "During October 11–14, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Return takes about a day and a half, including an eight-hour rest outside the forest.",
+      "markers": [
+        "t10",
+        "t11"
+      ],
+      "dateWindow": [
+        "1748-10-11",
+        "1748-10-14"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated campaign record for Session 55",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 55 (DuFr).md",
+      "sha256": "75f9a09b5d47f6fa25d8680ec28080ea0a23630199fb8396722acfbac601f871"
+    }
+  ]
+}
