@@ -1,0 +1,1217 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "b530fc3b627fe2aeb65e4e8898b1b972cfa2a8508468b713859c1b6db09c1d69"
+    },
+    "entityMap": {
+      "path": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-entity-map.json",
+      "sha256": "2044d756147edbe4f5bace996cb953fd55af7edbdf09269d66a20b798e5d8313"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The guards complain about Ulgna and Grimstone",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0182",
+        "endUid": "u0196"
+      },
+      "lines": [
+        "%% u0182:0-45, u0183:0-61, u0184:0-61, u0185:0-37, u0186:0-40, u0187:0-81, u0188:0-49, u0189:0-169, u0190:0-113, u0191:0-65, u0192:0-68, u0193:0-43, u0194:0-6, u0195:0-15, u0196:0-17 %%",
+        "DM: They seem to—they seem to have just finished a round of cards or something, and, and one of them is yelling to the other. There's like a sort of loud, a loud, bossy one. There's a sort of quiet, squeaky one, and there's a sort of angry, grumpy one. And the angry, grumpy one is, is sort of yelling for, for more, more brandy, saying, \"Stuck here for a stinking week. Damn that Ulgna! Why does Folcan listen to her in the first place? She doesn't even like working for Grimstone.\" And the bossy one is like, \"Ha, yeah, it's the easiest raiding in a while. One prisoner a week, and all the brandy we can drink. Glad we've got her and her buddies to draw Grimstone's ire.\"",
+        "",
+        "And then there's like a sound of like dice rolling and clattering, and they're quiet for a minute, and it sounds like they're drinking. And then there's like a yell. Somebody loses—slide. \"God damn! Morky must be cheating.\"",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Gaudin: Hmm, hmm!",
+          "Dilion: You—",
+          "Loria: Can I hear what they're saying? Or is it just that I can pick out that the intonation and grunting is goblin?",
+          "DM: No, you can. You can hear them. You want to listen for a bit?",
+          "Loria: Yes, please."
+        ],
+        "after": [
+          "Loria: So I turn around to Gaudin at the fireplace, I'm assuming, and say, \"I think, I think there's three, maybe more.\"",
+          "Gaudin: What language? And there's—what language are they speaking?",
+          "Loria: It's goblin.",
+          "Unknown: Hmm!",
+          "Dilion: Can, can I assume that by finding Smith's tools we like us us artificers, if we will, we can use the tools that we've found as our arcane focus? Okay. Perfect. Now we're talking. I guess they have, like a small hammer or something. I like to think it's just pliers. Are we wanting—? So I guess I'll whisper to the rest of the party and be like, \"Alright, like, which direction are we wanting to go? Also, did someone look at the other crate?\""
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The stolen grain ledger",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0222",
+        "endUid": "u0247"
+      },
+      "lines": [
+        "%% u0222:0-67, u0223:0-21, u0224:0-87, u0225:0-8, u0226:0-25 %%",
+        "DM: ((Other inventory)) There's a ledger book like a recent ledger book like looks like a sort of what a merchant would sort of track sales in. ((Other inventory))",
+        "",
+        "%% u0227:0-8, u0228:0-14 %%",
+        "((Unrelated discussion))",
+        "",
+        "%% u0229:0-31 %%",
+        "Gaudin: I'd like to look at the ledger.",
+        "",
+        "%% u0230:0-5, u0231:0-9, u0232:0-172, u0233:0-19, u0234:0-152, u0235:0-78, u0236:0-58 %%",
+        "DM: Okay. So it's a, you know, it's a series of, of—it's like an accounting ledger, right? Like it's a series of, you know, so and so owes x, so and so owes y. It looks like it's the records of a, of a grain merchant, probably somebody who's been—who is sort of trading in this area, buying from small farms and keeping track of what they owed, and then bringing the, the, the goods downriver to the sort of main port and selling it out, exporting it from this area to, you know, other places in the Green Sea.",
+        "",
+        "%% u0237:0-46 %%",
+        "Gaudin: Has double entry bookkeeping been invented yet?",
+        "",
+        "%% u0238:0-112, u0239:0-169, u0240:0-45, u0241:0-55, u0242:0-127, u0243:0-27, u0244:0-131, u0245:0-120, u0246:0-106, u0247:0-19 %%",
+        "DM: Probably not. It's just like, it's like a narrative, right? It's like, \"January twelfth, 1,748. So and so,\" you know. It's definitely not like a double entry anything. ((Guard conversation))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Dilion: For anybody wants to take rope, is a—",
+          "DM: I would treat that as like, as just a simple club, club, or whatever kind of simple weapon you want to treat it as.",
+          "Dilion: Perfect. I, I'll grab that.",
+          "DM: Some torches could be had if somebody wants it. There's, you know, a bunch of torches. There's you know, basically, if there's you know, if you wanna mess kit or—",
+          "Dilion: Almost anything could be a club in this room. I mean, a torch could be a club. The arts!"
+        ],
+        "after": [
+          "Loria: Silently heaves a little bit when they say rotten meat for the halfling. But then turns around to Acescale and says, whispers, \"They have your cards.\" And then slowly, sort of like goes over to the crates and starts to just wind rope around her arms and maybe pockets or belts one of the hand axes.",
+          "Acescale: I need that. We could wait a bit until at least they finish the brandy. They may be easier targets then.",
+          "Loria: There is—they keep saying, Greg, Greg, Grimstone, Grimstone, something that—he's, he's coming soon, but, but 2 days, so maybe they're just gonna leave us until then. They, they might not even check on us. We might have some time to, to get sorted.",
+          "Dilion: It's down the other hallway, the dark one?",
+          "DM: There's another door there, but there's no there's no light coming from it, and there's no sound that, at least, is obvious from behind the door."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Grimstone’s next prisoner",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0238",
+        "endUid": "u0259"
+      },
+      "lines": [
+        "%% u0238:0-112, u0239:0-169, u0240:0-45, u0241:0-55, u0242:0-127, u0243:0-27, u0244:0-131, u0245:0-120, u0246:0-106, u0247:0-19 %%",
+        "DM: ((Other conversation)) While everybody is, you know, digging around a little bit, Loria, you hear a bit more conversation at the, at the door.((Other conversation)) \"Spa! Good thing that fool lizard folk had cards on him. Gives us something to do. Which one should we give to Grimstone when he comes down in 2 days? I vote for that lizard folk dude. He's eats the most, anyway. I don't like the look of him.\"",
+        "",
+        "The bossy one says, \"Haha, yeah, I bet we can keep that scrawny halfling alive for weeks on stale bread and rotting meat.\" They seem to be talking a bit, and the, the whiny one is like, \"It—you're stalling. Place your bets already. Pass me that brandy.\"",
+        "",
+        "%% u0248:0-81, u0249:0-15, u0250:0-27, u0251:0-21, u0252:0-147, u0253:0-11, u0254:0-91 %%",
+        "((Unrelated discussion))",
+        "",
+        "%% u0255:0-8, u0256:0-64, u0257:0-16, u0258:0-24, u0259:0-125 %%",
+        "Loria: There is—they keep saying, Greg, Greg, Grimstone, Grimstone, something that—he's, he's coming soon, but, but 2 days, so maybe they're just gonna leave us until then. They, they might not even check on us. We might have some time to, to get sorted.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Gaudin: I would.",
+          "DM: Thieves picks.",
+          "Gaudin: I'd like to look at the ledger.",
+          "DM: Okay. So it's a, you know, it's a series of, of—it's like an accounting ledger, right? Like it's a series of, you know, so and so owes x, so and so owes y. It looks like it's the records of a, of a grain merchant, probably somebody who's been—who is sort of trading in this area, buying from small farms and keeping track of what they owed, and then bringing the, the, the goods downriver to the sort of main port and selling it out, exporting it from this area to, you know, other places in the Green Sea.",
+          "Gaudin: Has double entry bookkeeping been invented yet?"
+        ],
+        "after": [
+          "Dilion: It's down the other hallway, the dark one?",
+          "DM: There's another door there, but there's no there's no light coming from it, and there's no sound that, at least, is obvious from behind the door.",
+          "Dilion: Think I'd like to give a—like, is there a handle, or is it like a push, pull?",
+          "DM: Yeah, there's a handle.",
+          "Dilion: Just give it a light tug."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The source’s bossy and whiny voice labels are inconsistent across passages; local roles retain the likely boss/Morky attribution without assigning additional names."
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Acescale discovers an old magical outfit",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0352",
+        "endUid": "u0375"
+      },
+      "lines": [
+        "%% u0352:0-101 %%",
+        "DM: You felt this. There are 2 sources of magic here: Gaudin, and one of the pieces at one of the clothes.",
+        "",
+        "%% u0353:0-34 %%",
+        "((Spell and history checks))",
+        "",
+        "%% u0354:0-68, u0355:0-29, u0356:0-12, u0357:0-91, u0358:0-57, u0359:0-7, u0360:0-47, u0361:0-145 %%",
+        "DM: ((History proficiency)) the one of the folded pieces of like outfits on the shelf. And when you look at it, it's surprisingly like in good shape, right? This, this particular set of clothes that is magical seems to be sort of a very archaic sort of out of style, like elegant sort of like dinner jacket and pants like for a sort of fancy dinner that a rich gentleman might wear. ((History proficiency))",
+        "",
+        "%% u0362:0-48, u0363:0-17 %%",
+        "((Spell and history checks))",
+        "",
+        "%% u0364:0-68, u0365:0-8, u0366:0-40 %%",
+        "DM: It looks old to you. Exactly how old you don't really have any sense. But like incredibly good repair, despite its age.",
+        "",
+        "%% u0367:0-8, u0368:0-56 %%",
+        "Acescale: Alright! Do I learn this? It says, I learned the school of magic.",
+        "",
+        "%% u0369:0-13, u0370:0-16, u0371:0-14 %%",
+        "DM: Yeah. So it's a—I'm gonna say transmutation.",
+        "",
+        "%% u0372:0-5, u0373:0-53, u0374:0-135, u0375:0-59 %%",
+        "Acescale: ((Proposed further identification)) Well, I, I like this jacket. And I pick it up ((Proposed further identification))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Loria: You're going through pouches and feeling a little chastened because someone was like, \"Maybe we should do a ritual first.\" Okay, fair, fair, fair, fair, fair. Fair. Instead, putting my hands in between all the nice like silk shirts. Always rummaging.",
+          "Dilion: Over his—",
+          "DM: So as you—as you finish your spell, you do sense the presence of magic.",
+          "Acescale: Where at?",
+          "Dilion: Basic magic."
+        ],
+        "after": [
+          "Dilion: I, I think— Dylan, the character is more— I'm not skittish, but more anxious to get going. I guess not. I'm not trying to like actually, like, Dylan the person isn't trying to push the, the party too much. But, Dylan, the character's like, \"Okay, cool. Let's like, let's just get going like I, I, I'm not wanting to stick around if, if we don't have to.\"",
+          "Loria: The minute that Acescale said that there was nothing on the pouches, Loria just start shoving her hands, and all of them—any of the she can reach.",
+          "DM: It's about a third of them that you can reach.",
+          "Loria: Is there a stool?",
+          "DM: You could try climbing up the shelves?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The drunken jailers are defeated",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0543",
+        "endUid": "u0846"
+      },
+      "lines": [
+        "%% u0543:0-10, u0544:0-9, u0545:0-17, u0546:0-93, u0547:0-84, u0548:0-124, u0549:0-105, u0550:0-22, u0551:0-61, u0552:0-1, u0553:0-97, u0554:0-287, u0555:0-50, u0556:0-38, u0557:0-111, u0558:0-180, u0559:0-22 %%",
+        "DM: ((Other encounter details)) So as you burst through the door, you see on the other side of this door 2 goblins. They've clearly been drinking.((Other encounter details)) One of the goblins has what looks like a nicely made halfling short sword. The other goblin has—was like drawing a handful of daggers, stumbling around as you rush through the door. ((Other encounter details))",
+        "",
+        "%% u0560:0-49, u0561:0-110, u0562:0-42, u0563:0-59, u0563:59-155, u0563:155-235, u0563:235-352, u0564:0-20, u0565:0-102, u0565:102-202, u0565:202-218, u0566:0-15, u0567:0-69, u0568:0-17, u0569:0-71, u0570:0-8, u0571:0-65, u0572:0-46, u0573:0-3, u0574:0-98, u0575:0-106, u0576:0-92, u0577:0-13, u0578:0-6, u0579:0-34, u0580:0-17, u0581:0-10, u0582:0-45, u0583:0-91, u0583:91-140, u0584:0-42, u0585:0-136, u0585:136-141, u0586:0-18, u0587:0-17, u0587:17-64, u0588:0-35, u0588:35-83, u0589:0-71, u0590:0-78, u0591:0-40, u0592:0-21, u0593:0-35, u0593:35-81, u0593:81-123, u0594:0-5, u0595:0-83, u0595:83-141, u0595:141-171, u0596:0-83, u0597:0-19, u0598:0-51, u0599:0-11, u0600:0-2, u0601:0-95, u0602:0-19, u0603:0-154, u0604:0-74, u0605:0-24, u0606:0-140, u0607:0-63, u0608:0-117, u0609:0-39, u0610:0-25, u0611:0-83, u0611:83-208, u0611:208-272, u0612:0-69, u0613:0-42, u0614:0-60, u0615:0-40, u0615:40-70, u0615:70-81, u0616:0-94, u0617:0-49, u0618:0-73, u0618:73-94, u0618:94-99, u0619:0-35, u0620:0-123, u0621:0-3, u0622:0-120, u0622:120-248, u0622:248-301, u0623:0-14, u0624:0-25, u0625:0-3, u0626:0-16, u0627:0-4, u0628:0-21, u0629:0-4, u0630:0-6, u0631:0-26, u0632:0-40, u0633:0-9, u0634:0-19, u0635:0-30, u0636:0-40, u0637:0-36, u0638:0-3, u0639:0-13, u0640:0-16, u0641:0-8, u0642:0-30, u0643:0-109, u0644:0-57, u0645:0-136, u0646:0-5, u0647:0-68, u0648:0-60, u0649:0-27, u0650:0-63, u0651:0-66, u0652:0-5, u0653:0-30, u0654:0-7, u0655:0-69, u0656:0-4, u0657:0-94, u0658:0-96, u0659:0-31, u0660:0-12, u0661:0-9, u0662:0-38, u0663:0-5, u0664:0-45, u0664:45-108, u0665:0-149, u0666:0-5, u0667:0-24, u0668:0-3, u0669:0-39, u0670:0-22, u0671:0-36, u0672:0-49, u0673:0-47, u0674:0-23, u0674:23-54, u0674:54-71, u0675:0-3, u0676:0-38, u0677:0-18, u0678:0-9, u0679:0-77, u0680:0-20, u0681:0-5, u0682:0-78, u0683:0-31, u0684:0-5, u0685:0-46, u0686:0-6, u0687:0-17, u0688:0-5, u0688:5-23, u0689:0-24, u0690:0-11, u0691:0-23, u0692:0-14, u0693:0-17, u0694:0-32, u0695:0-27, u0696:0-69, u0697:0-15, u0698:0-35, u0699:0-23, u0700:0-32, u0701:0-23, u0701:23-39, u0701:39-93, u0702:0-7, u0703:0-12, u0704:0-50, u0704:50-77, u0705:0-52, u0706:0-35, u0707:0-5, u0708:0-3, u0709:0-12, u0710:0-125, u0711:0-27, u0712:0-4, u0713:0-10, u0714:0-17, u0714:17-72, u0715:0-95, u0716:0-19, u0717:0-12, u0718:0-6, u0719:0-117, u0720:0-118, u0721:0-5, u0722:0-15, u0723:0-51, u0724:0-40, u0725:0-3, u0726:0-8, u0727:0-57, u0728:0-22, u0729:0-9, u0730:0-4, u0731:0-98, u0732:0-35, u0733:0-16, u0734:0-17, u0735:0-49, u0736:0-104, u0737:0-68, u0738:0-19, u0739:0-16, u0740:0-31, u0741:0-34, u0742:0-99, u0743:0-34, u0744:0-117, u0745:0-38, u0746:0-31, u0747:0-46, u0747:46-127, u0747:127-143, u0748:0-84, u0749:0-23, u0750:0-17, u0750:17-64, u0750:64-165, u0751:0-21, u0752:0-6, u0753:0-58, u0754:0-16, u0755:0-124 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u0756:0-230, u0757:0-25, u0758:0-18, u0759:0-22, u0760:0-9, u0761:0-31, u0762:0-79, u0763:0-48 %%",
+        "DM: ((Combat)) Assassin now screams((Combat)) and yells, \"Get out of here! Somebody warn Folcan! Prisoners are on the loose!\" ((Combat))",
+        "",
+        "%% u0764:0-61, u0764:61-152, u0765:0-4, u0766:0-14, u0767:0-5, u0768:0-47, u0768:47-70, u0768:70-93, u0769:0-36, u0770:0-52, u0771:0-2, u0772:0-22, u0773:0-17, u0774:0-96, u0775:0-53, u0776:0-4, u0777:0-108, u0778:0-16, u0778:16-57, u0778:57-66, u0779:0-28, u0780:0-12, u0781:0-92, u0782:0-10, u0783:0-30, u0783:30-137, u0783:137-157, u0783:157-228, u0784:0-5, u0785:0-24, u0786:0-10, u0787:0-102, u0788:0-14, u0789:0-6, u0789:6-66, u0790:0-2, u0791:0-101, u0792:0-5, u0793:0-8, u0794:0-2, u0795:0-21, u0796:0-62, u0797:0-9, u0798:0-18, u0799:0-13, u0800:0-17, u0801:0-25, u0801:25-67, u0802:0-134, u0803:0-65, u0804:0-78, u0805:0-42, u0806:0-21, u0807:0-5, u0808:0-10, u0809:0-107, u0810:0-8, u0811:0-112, u0812:0-76, u0813:0-10, u0814:0-3, u0815:0-69, u0815:69-83, u0816:0-22, u0817:0-58, u0818:0-38, u0818:38-54, u0818:54-129, u0819:0-55, u0820:0-4, u0821:0-24, u0822:0-53, u0823:0-26, u0824:0-56, u0825:0-119, u0826:0-134 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u0827:0-155, u0828:0-23, u0829:0-179, u0830:0-29, u0831:0-72, u0832:0-29, u0833:0-11, u0834:0-87, u0835:0-46, u0836:0-321, u0837:0-86, u0838:0-88, u0839:0-187, u0840:0-174, u0841:0-47, u0842:0-134, u0843:0-35, u0844:0-123, u0845:0-3, u0846:0-42 %%",
+        "DM: So, as the 3 goblins are now dead, ((Estate survey))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Well, the other 2 weren't so great. Okay, let me sort this.",
+          "Loria: Okay, so—",
+          "Dilion: Here—",
+          "DM: Gaudin, you see this goblin warrior stepping forward, like pushing through the door and like looking around, clearly drunk and confused, looking at the prison and then shouting, \"Hey! They're all gone!\" Just as—and then—sorry, wait. Then seeing—I'm turning to you, drawing his short sword and then charging, and taking a wild swing at you.",
+          "Dilion: Oh, well."
+        ],
+        "after": [
+          "Acescale: Which door that they went out is it? Is it outside?",
+          "DM: Yeah, that's where you're standing now is outside. It's like mid-afternoon, maybe 2 or 3.",
+          "Acescale: Well, we're busy.",
+          "Dilion: Is anyone feeling real damaged?",
+          "Gaudin: I could use a little bit, somebody has some healing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Gaudin reclaims his pearl ring",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0864",
+        "endUid": "u0877"
+      },
+      "lines": [
+        "%% u0864:0-110, u0865:0-9, u0866:0-123, u0867:0-66, u0868:0-82, u0869:0-45, u0870:0-52, u0871:0-23, u0872:0-93, u0873:0-35, u0874:0-20, u0875:0-113 %%",
+        "DM: ((Other recovered loot)) there is a ring, a sort of silver ring that has a weathered pearl that was glowing faintly, but now seems to have stopped glowing.",
+        "",
+        "%% u0876:0-44 %%",
+        "Loria: Does Loria recognize that as her ring or no?",
+        "",
+        "%% u0877:0-43 %%",
+        "DM: That is not your ring. You recognize this.",
+        "",
+        "%% u0877:43-104 %%",
+        "Gaudin: That's my ring. So I—I look at her, and then I grab the ring.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Gaudin: Short rest and then—",
+          "Dilion: Gap it, I guess.",
+          "Gaudin: I—I go off into the back room where the blacksmith thing is to kind of hang out by myself during the short rest. Pull away from other folks.",
+          "DM: Okay, before you short rest, I assume you want to search the room and see what you find.",
+          "Unknown: Yes, and the corpses as well, I suppose."
+        ],
+        "after": [
+          "DM: And there's also about 2 thirds of a cask of some sort of cheap apple brandy.",
+          "Gaudin: Is there any salt on the table?",
+          "DM: Yes, there are. There is—there are actually like they've clearly been pulling through like rations of of people they've captured. There's like a random mishmash of food. There's, you know, some like fairly mundane trail food like hardtack and things like that, but there's also much nicer salted fish. There's a little—there's a small little like spice kit with salt, and like a very small quantity of very precious pepper that probably came from the merchant who had the ledger book, who seemed—maybe, who wore the fancy clothes, too. And—but you know, most of this is not what you would necessarily call edible, right? It's been picked over pretty intently by the by the goblins, and there is a barrel that's like partially full of bits of discarded food that seems to be the rotting meat and stale bread that they were planning on feeding their prisoners. Oh, and there—",
+          "Unknown: Are we hungry?",
+          "Dilion: Are we? Are we in need of of food right now for the short rest, or—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The dinner clothes mend themselves",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1070",
+        "endUid": "u1077"
+      },
+      "lines": [
+        "%% u1070:0-70, u1071:0-21, u1072:0-88, u1073:0-146, u1074:0-159 %%",
+        "Acescale: ((Crossbow infusion)) I would also have taken some time, if available, to do the the identify ritual on the robe from the first—or the dinner jacket.",
+        "",
+        "%% u1074:159-182 %%",
+        "DM: I—I sent you a message.",
+        "",
+        "%% u1075:0-5 %%",
+        "Acescale: Okay.",
+        "",
+        "%% u1076:0-23 %%",
+        "DM: I assumed you did that.",
+        "",
+        "%% u1077:0-68 %%",
+        "Acescale: Oh, yes, I see it now. Thank you. They—I've put them on. They look—",
+        "",
+        "%% u1077:68-91 %%",
+        "Unknown: You do look very nice.",
+        "",
+        "%% u1077:91-188 %%",
+        "Acescale: And I—I say, “I—watch this,” and I take a dagger, and I scratch through them, and they zip back up.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay. So as you finish your meal, I'm gonna say, this is like a slightly longer than normal short rest. It's been like an hour and a half, 2 h. So, you know, it's maybe 3 o’clock in the afternoon now. Got 3 more hours of daylight. It's, you know, middle of autumn. Yeah.",
+          "You've been holed up in this workshop, forge, prison, gambling den for the past couple of hours, catching your breath and realizing that you've got more in you than you expected, banded together with these strangers to hack your way out of a cell. Okay, so as the rest ends, maybe Loria has been—",
+          "Loria: Yeah. So Loria was spending a lot of her short rest back in the gear room, mostly resting, but also every once in a while trying to get into the pouches that she wasn't able to explore before, and in one of the pouches—she just—she walks out of that room again, and around her is just this swarm, intangible kind of presence of fluttering birds that seem to be sort of alighting on her arms and following her, and being just generally sort of encompassing and like moving around. And she goes, “You guys should look at those pouches back there, cause there's some crazy stuff in there.” And then just kind of sits down with her with her birds at the end of the meal. Did you want like new spell stuff as well? Or just—",
+          "DM: That's good.",
+          "Loria: Okay."
+        ],
+        "after": [
+          "Gaudin: So I've—I've been kind of off out of sight during most of the rest for my my time. I walk out my ring on, that's not glowing, feeling a little more confident. I'm looking more or less the same as I was before. I also have been doing a ritual. Sorry. How do I use ritual of Elmerca's protection? Like, how do I make that work in D and D?",
+          "DM: Oh.",
+          "Gaudin: I can get my armor.",
+          "DM: And just go to customize your armor class and put—",
+          "Gaudin: Just add one more to it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Gaudin invokes Elmerca’s protection",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1078",
+        "endUid": "u1083"
+      },
+      "lines": [
+        "%% u1078:0-7, u1079:0-85, u1080:0-31, u1081:0-83, u1082:0-83, u1083:0-41 %%",
+        "Gaudin: ((Rest and ring description)) I also have been doing a ritual. Sorry. How do I use ritual of Elmerca's protection? Like, how do I make that work in D and D?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: Okay.",
+          "DM: I assumed you did that.",
+          "Acescale: Oh, yes, I see it now. Thank you. They—I've put them on. They look—",
+          "Unknown: You do look very nice.",
+          "Acescale: And I—I say, “I—watch this,” and I take a dagger, and I scratch through them, and they zip back up."
+        ],
+        "after": [
+          "DM: Oh.",
+          "Gaudin: I can get my armor.",
+          "DM: And just go to customize your armor class and put—",
+          "Gaudin: Just add one more to it.",
+          "DM: Yeah, they would just add one more to it. Just give it an additional magic bonus and plus one. Okay. So tell him."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Dilion introduces Keiko",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1092",
+        "endUid": "u1099"
+      },
+      "lines": [
+        "%% u1092:0-20, u1093:0-187, u1094:0-86, u1095:0-29, u1096:0-9, u1097:0-34, u1098:0-136, u1099:0-30 %%",
+        "Dilion: ((Infused weapon)) but also I guess I also come from the the Smith area with a—it says it's called a steel defender, but I guess it's just easy to describe it like a Meg—no, a magical steel dog, blue eyes and kind of white and gray sort of material on top, I guess with my magical appearance, is friendly to everyone in the party. There's no hostility towards it, anyone else. Lovable companion, to join us.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Oh.",
+          "Gaudin: I can get my armor.",
+          "DM: And just go to customize your armor class and put—",
+          "Gaudin: Just add one more to it.",
+          "DM: Yeah, they would just add one more to it. Just give it an additional magic bonus and plus one. Okay. So tell him."
+        ],
+        "after": [
+          "Acescale: I am—as I finish putting the robes on, I—I go, and I collect all my playing cards and shuffle them up and pop them in an inside pocket.",
+          "DM: So as you look out across the landscape before you decide what to do, just to set the scene a little bit. So you're looking—you're looking sort of southwest across this—this hilltop into the river valley. [garbled]—you're—you're on sort of the outskirts of the—of this large estate. The area you are looks like maybe it once was vineyards, or something like that, like slightly rolling hills. But clearly this has been like completely overgrown.",
+          "There's a small cluster of buildings sort of due south to you, partially hidden behind an overgrown hedge. At one of those buildings due south, maybe 200 feet to the south, looks like it's intact. The other building completely—just a few walls, not—no roof or anything like that.",
+          "Looking due west from where you are, you're looking into this—this, you know, decrepit, overgrown, formal garden at the back of the villa. That goes on—that starts maybe, you know, a third of a mile through the—the vineyards and goes on for 100 yards, something like that. Southwest from where you are, some distance away, maybe a third of a mile, kind of near, like set within the formal gardens, is this ruined villa. Even from this distance you can tell that not all of it is intact, although some of the walls and part of the roof still stands, seems to be standing.",
+          "There's also a low wall around the side closest to you of the villa that seems to enclose, I guess, more gardens. It's hard to tell from here. There's maybe another ruins beyond the villa; it's hard to see. And then, directly south of the villa, there's all that remains of what used to be, perhaps, a wall enclosing this entire estate, and there is a gate, empty, there."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Loria needs her missing ring",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1204",
+        "endUid": "u1207"
+      },
+      "lines": [
+        "%% u1204:0-209, u1205:0-70, u1206:0-40, u1207:0-59 %%",
+        "Loria: ((Other possessions)) But I—I need my ring, really important to me, and I just don’t think they're gonna serve that up with dinner.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Acescale: Emphasis on the burn. Yeah. We could. We could wait and see if someone shows up to bring dinner.",
+          "Gaudin: Is this a good ambush spot?",
+          "DM: I—I mean, it could be like, you know what would be the what would be the ambush locate—? I mean the inside of the the inside of the forge. I mean, there's only one door in or out of the forge, so that makes it somewhat useful. It's not obvious if you know, you don't know. You don't know what else is around right? So you don't know if 20 goblins are gonna show up, or if, like one person, bring dinner or nobody at all, because, you know this was a punishment, and they're being made to eat rotten food. But certainly it's not a—it's not a bad ambush spot in the sense that controlled ingress and egress, relatively dark. Certainly you could hide out in the, you know, there's places you could hide.",
+          "Loria: So I mean, Loria is just being turning bricks over and kinda like kicking around some of the like rubble outside, and sort of like it's over here as well. Even if somebody comes for dinner, they're not gonna have my ring, and I know that this isn't maybe the best situation for everyone. But—",
+          "Dilion: Yes."
+        ],
+        "after": [
+          "Acescale: I'm with you, Loria, and I need your ability to speak goblin, to interrogate them, because this was a once-in-a-lifetime haul for me: 40 gold in a single night. That's a serious Taelgar hold ’em winnings right there, and it's not something you can just, you know, wave your hands. I—I'll wait here.",
+          "Loria: I mean, if you wanna talk like translation fees, I got I got some contracts we could, we could, you know—let me know how you—",
+          "Acescale: Well, if—I mean I'm more than happy to throw acid on whoever you need, I suppose.",
+          "Loria: Yeah, that's really where I need some help.",
+          "Dilion: So so so are we gonna use whoever was gonna bring us dinner as a way to figure out where our stuff was taken?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The barracks guard detects the disguise",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1380",
+        "endUid": "u1455"
+      },
+      "lines": [
+        "%% u1380:0-12, u1381:0-101, u1382:0-27, u1383:0-48, u1384:0-50, u1385:0-46, u1386:0-142, u1387:0-19, u1388:0-97, u1389:0-25 %%",
+        "DM: ((Check and messenger movement)) one of them stands up and kind of looks at you, and is like—yells something incomprehensible that Loria quickly translates as, “What the hell is going on, Morky? Are you drunk? Folcan said you weren't to leave for 3 whole days.” And he, like, turns over to his friend and says, “You better go get Folcan. Don't understand what he's trying to say.”((Check and messenger movement)) The other one is just looking, staring up at you, confused, and shouts out again. Loria translates: “Folcan's gonna be pissed!”",
+        "",
+        "%% u1390:0-38 %%",
+        "Gaudin: I—I—I burp and like stumble drunkenly.",
+        "",
+        "%% u1391:0-15 %%",
+        "((Phonetic coaching and table discussion))",
+        "",
+        "%% u1392:0-142, u1393:0-22, u1394:0-118 %%",
+        "DM: Still sort of picks up his his sword and his shield, and and begins to kind of walk towards you slowly, like sort of looking, looking puzzled. Yells again in Goblin, “It's gonna be no more brandy for you, I'm sure of that. What the hell are you doing with the prisoner out of the cage?”",
+        "",
+        "%% u1395:0-38, u1396:0-20, u1397:0-49, u1398:0-52, u1399:0-5, u1400:0-18, u1401:0-18, u1402:0-66, u1403:0-21 %%",
+        "((Phonetic coaching and table discussion))",
+        "",
+        "%% u1403:21-96, u1404:0-47 %%",
+        "DM: You're just standing there confused. And and this goblin's now like walking closer. He's now probably 50 feet away from me.",
+        "",
+        "%% u1404:47-95, u1405:0-8, u1406:0-20, u1407:0-89 %%",
+        "((Phonetic coaching and table discussion))",
+        "",
+        "%% u1408:0-14, u1409:0-23, u1410:0-28, u1411:0-33 %%",
+        "DM: He yells back, “Folcan! Are you coming? Morky is drunk and confused. I think he let the prisoners out.”",
+        "",
+        "%% u1412:0-33 %%",
+        "Gaudin: You know, prisoners have escaped.",
+        "",
+        "%% u1413:0-20, u1414:0-6 %%",
+        "((Phonetic coaching and table discussion))",
+        "",
+        "%% u1415:0-119 %%",
+        "Gaudin: I like almost like vomit, and then, like pretend I hold it back, and then I phonetically say the words as best I can.",
+        "",
+        "%% u1415:119-190, u1416:0-17, u1417:0-58, u1418:0-51 %%",
+        "DM: The goblins now gotten up to you, and he's got his sword in his shield, and he like prods—standing like right next to you starts like prodding Loria like looks over. “You're carrying your swords, right?”",
+        "",
+        "%% u1419:0-29 %%",
+        "Loria: Yeah. But they're like tucked—",
+        "",
+        "%% u1420:0-55, u1421:0-35, u1422:0-1 %%",
+        "((Phonetic coaching and table discussion))",
+        "",
+        "%% u1423:0-39, u1424:0-46, u1425:0-51 %%",
+        "DM: Catches a glimpse of one of your swords like, “What the hell?” Takes a swing it at Gaudin. ((Initiative invitation))",
+        "",
+        "%% u1426:0-52 %%",
+        "Gaudin: I would just take the hit like I'm like, I'm stupid.",
+        "",
+        "%% u1427:0-43, u1428:0-39, u1429:0-4, u1430:0-3, u1431:0-15, u1432:0-29, u1433:0-175, u1434:0-22, u1435:0-29, u1436:0-27, u1437:0-28, u1438:0-9 %%",
+        "DM: ((Brief acknowledgement)) He's not swinging pretty hard, but he bashes you on the side of the head with with his sword and looks shocked for a second, because Disguise Self does not change your actual physical size, it just changes your appearance. So what he thought should be striking on the side of the head is actually hitting you like smack on your arm like it's like, “What the hell!” And at this point, you see three more goblins coming up the path.",
+        "",
+        "%% u1439:0-75 %%",
+        "Loria: Can I—can I silent speech to the goblin that just took a swing at Gaudin?",
+        "",
+        "%% u1439:75-81 %%",
+        "((Phonetic coaching and table discussion))",
+        "",
+        "%% u1439:81-101, u1440:0-4, u1441:0-71, u1442:0-8, u1443:0-10, u1444:0-23 %%",
+        "Loria: Can I tell him that—hmm. I want to tell him that the the dogs are attacking from the other side, and that Bob's name Morky is just an idiot.",
+        "",
+        "%% u1445:0-35, u1446:0-31, u1447:0-144, u1448:0-142, u1449:0-25, u1450:0-127, u1451:0-73, u1452:0-6, u1453:0-79, u1454:0-134, u1455:0-25 %%",
+        "DM: He looks—he just, like, turns around completely, no idea what to do.((Deception check)) The other 3 goblins—so 2 of them are also like warriors, like—like this guy. The third is clearly more of a—a leader type. He's—he's got, like, he's carrying a staff that's got a little skull on the top. That's—and he's—he's, like, walking. He's got sort of, like, faint, crackling green light coming off of—of—off of the staff as he strides purposefully in your direction, his eyes flashing with anger as he begins to approach. ((Deception check))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Is everybody in position? Tell me what this looks like again as you begin to proceed down the path.",
+          "Gaudin: Loria is fake tied up as if she is captured. I am going to motion and get the goblin's attention's attention and wave them over here, using the noises that Loria will be giving me. I will phonetically communicate that 2 prisoners have escaped is help arriving, and then we will carry on the conversation. If the conversation fails we will try to knock them out.",
+          "DM: Okay, so you walk—you walk to, maybe, like, I don't know, you—you come down the—the path a little bit and come to this point around the—around the bend where you can see—you can see. So you're looking at now like a slightly bigger building, the smithy that you were in, maybe about twice as long, but about the same width again, which seems to only have one door which seems to be intact.",
+          "And there's these 2 goblins that are sitting at this point, you know, it's probably the late afternoon sun. They're sitting. They just seem to be, like, bored, like chatting quietly. They've got swords and shields, but they're not holding their swords and shields at the moment. And you come—you come to about a hundred feet and begin yelling something in—in Goblin. Make a deception check with disadvantage.",
+          "Gaudin: Woof!"
+        ],
+        "after": [
+          "Gaudin: I'm like—",
+          "Acescale: Can you remind me where the the 3 of us, the 2 artificers and the dog are at this point? So—",
+          "DM: I think, am I correct that Acescale is invisible?",
+          "Gaudin: No, we didn't cast invisible spells. We didn't cast invisibility, so kind of like motion towards him to come a little bit closer to us.",
+          "DM: 2 artificers and the dog are. So there's a hedgerow."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Folcan confronts the prisoners and is captured",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1480",
+        "endUid": "u1796"
+      },
+      "lines": [
+        "%% u1480:0-37, u1481:0-23, u1482:0-56, u1483:0-149, u1484:0-41, u1485:0-107, u1486:0-157, u1487:0-69 %%",
+        "DM: ((Position and table question)) you can hear this—this—this goblin boss type say to one of the 2 warriors((Position and table question)) “Go”—and you can hear this, Loria—“Tell Ulgna Morky's had too much to drink. I'm dealing with him. If I'm not back in an hour, send troops to the smithy.” And then he turns and he approaches, and he he listens to you, and he like completely ignores everything you're saying, and just goes up and takes his staff. ((Position and table question))",
+        "",
+        "%% u1488:0-95, u1489:0-54 %%",
+        "Gaudin: I like pretend like I stumbled, and I'm on the ground, so like if he hits me, it feels more even like I'm trying to get a little smaller, my real self.",
+        "",
+        "%% u1490:0-63, u1491:0-119, u1492:0-12, u1493:0-76, u1494:0-28, u1495:0-88 %%",
+        "DM: So he he stops when he is about 10 feet away, and he takes this this this like staff he's got. He points at you, and this, like flash of green energy, shoots out. “Down, dog!” he yells. ((Damage and saving throw))",
+        "",
+        "%% u1496:0-23 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u1496:23-45 %%",
+        "DM: Back to your cage now.",
+        "",
+        "%% u1497:0-43, u1498:0-59 %%",
+        "Loria: Okay, Loria, telepathically to Gaudin, says, “Blink once, if you want me to take him out of the kneecaps.”",
+        "",
+        "%% u1499:0-6 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u1500:0-54 %%",
+        "Gaudin: He's really trying really hard not to blink right now.",
+        "",
+        "%% u1501:0-3 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u1502:0-81 %%",
+        "DM: Kicks you while you're down this goblin. “Get up, crawl, you miserable cur! Look!”",
+        "",
+        "%% u1502:81-136 %%",
+        "Gaudin: I start crawling back towards where where we came from.",
+        "",
+        "%% u1503:0-9 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u1504:0-175, u1505:0-40, u1506:0-26 %%",
+        "DM: Yeah, towards the hedge, just as one of the go—one of the 2 goblins is like trying to say like, “Something's wrong here.” But it's just completely ignoring the other 2 goblins. “Grab that damn halfling. Drag her along. We're gonna deal with this.”",
+        "",
+        "%% u1507:0-11, u1508:0-60, u1509:0-59, u1510:0-15, u1511:0-27 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u1512:0-31, u1513:0-112, u1514:0-68 %%",
+        "DM: ((Table question)) And he just—Folcan, the guy with the staff—just goes to kick you. ((Table question))",
+        "",
+        "%% u1515:0-18, u1516:0-22, u1517:0-22, u1518:0-65 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u1519:0-71, u1520:0-17, u1521:0-5 %%",
+        "Loria: ((Target clarification)) I cast fog cloud. Okay.",
+        "",
+        "%% u1522:0-59 %%",
+        "Gaudin: What the fuck? I've been taking hits to keep the illusion up.",
+        "",
+        "%% u1523:0-66, u1524:0-70 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u1525:0-37, u1526:0-13, u1527:0-39, u1528:0-18, u1529:0-15 %%",
+        "DM: And he's suddenly like, “What the hell?” Turns and and says in Goblin to one of the 2 goblins, “Something's wrong. Go get back up!”",
+        "",
+        "%% u1530:0-3, u1531:0-15, u1532:0-95, u1533:0-24, u1534:0-73, u1535:0-26, u1535:26-48, u1536:0-38, u1537:0-20, u1538:0-9, u1539:0-10, u1540:0-8, u1541:0-4, u1542:0-9, u1543:0-34, u1544:0-35, u1545:0-24, u1546:0-50, u1547:0-38, u1548:0-33, u1549:0-21, u1550:0-27, u1551:0-10, u1552:0-27, u1553:0-44, u1553:44-123, u1554:0-49, u1555:0-8, u1556:0-40, u1557:0-42, u1558:0-42, u1558:42-83, u1559:0-35, u1559:35-67, u1560:0-41, u1561:0-13, u1562:0-34, u1563:0-41, u1564:0-7, u1565:0-6, u1565:6-42, u1566:0-38, u1567:0-18, u1568:0-24, u1569:0-65, u1570:0-33, u1571:0-52, u1572:0-35, u1572:35-83, u1573:0-125, u1574:0-27, u1575:0-34, u1576:0-27, u1577:0-38, u1578:0-34, u1578:34-116, u1579:0-37, u1580:0-4, u1581:0-44, u1582:0-81, u1583:0-204, u1583:204-277, u1583:277-313, u1584:0-34, u1585:0-46, u1585:46-58, u1586:0-24, u1587:0-65, u1588:0-24, u1589:0-5, u1590:0-31, u1590:31-57, u1591:0-45, u1592:0-29, u1593:0-15, u1594:0-51, u1595:0-33, u1595:33-114, u1596:0-111, u1597:0-48, u1598:0-29, u1599:0-6, u1600:0-42, u1601:0-177, u1602:0-47, u1602:47-135, u1602:135-162, u1603:0-9, u1604:0-9, u1605:0-151, u1606:0-11, u1607:0-70, u1608:0-86, u1609:0-41, u1609:41-72, u1610:0-75, u1611:0-119, u1612:0-159, u1612:159-193, u1612:193-213, u1613:0-18, u1614:0-23, u1615:0-111, u1616:0-13, u1617:0-48, u1618:0-25, u1619:0-41, u1620:0-50, u1621:0-62, u1622:0-33, u1623:0-13, u1624:0-57, u1625:0-17, u1626:0-76, u1627:0-1, u1628:0-39, u1629:0-31, u1630:0-7, u1631:0-26, u1632:0-16, u1633:0-5, u1634:0-16, u1635:0-43, u1636:0-34, u1637:0-14, u1638:0-66, u1638:66-99, u1638:99-178, u1639:0-42, u1640:0-5, u1641:0-44, u1642:0-75, u1643:0-105, u1643:105-131, u1644:0-33, u1645:0-22, u1646:0-9, u1647:0-9, u1648:0-13, u1649:0-25, u1650:0-30, u1651:0-51, u1652:0-23, u1653:0-28, u1654:0-12, u1655:0-18, u1656:0-17, u1657:0-18, u1658:0-65, u1659:0-49, u1660:0-15, u1661:0-6, u1662:0-126, u1663:0-74, u1664:0-49, u1665:0-114, u1666:0-5, u1667:0-34, u1668:0-19, u1669:0-38, u1670:0-27, u1670:27-39, u1671:0-60, u1672:0-20, u1673:0-90, u1673:90-131, u1673:131-158, u1674:0-39, u1675:0-89, u1676:0-19, u1676:19-93, u1676:93-106, u1677:0-3, u1678:0-46, u1679:0-4, u1680:0-70, u1681:0-147, u1682:0-5, u1683:0-63, u1684:0-163, u1685:0-112, u1686:0-70, u1687:0-42, u1688:0-68, u1688:68-80, u1688:80-84, u1689:0-35, u1690:0-27, u1691:0-116, u1692:0-16, u1693:0-15, u1693:15-51, u1694:0-49, u1694:49-407, u1695:0-111, u1696:0-47, u1697:0-13, u1698:0-46, u1699:0-53, u1700:0-27, u1701:0-47, u1702:0-54, u1703:0-37, u1704:0-5, u1705:0-21, u1706:0-47, u1707:0-14, u1708:0-35, u1708:35-59, u1709:0-3, u1710:0-63, u1711:0-123, u1711:123-144, u1711:144-175, u1712:0-51, u1713:0-5, u1714:0-42, u1715:0-57, u1715:57-115, u1716:0-75, u1717:0-4, u1718:0-5, u1719:0-43, u1720:0-19, u1720:19-24, u1721:0-34, u1722:0-11, u1723:0-70, u1724:0-39, u1725:0-73, u1726:0-2, u1727:0-61, u1728:0-135, u1729:0-92, u1730:0-31, u1731:0-30, u1732:0-146, u1733:0-22, u1733:22-53, u1734:0-32, u1735:0-63, u1736:0-18, u1737:0-80, u1738:0-18, u1739:0-8, u1740:0-25, u1741:0-12, u1742:0-39, u1743:0-41, u1744:0-41, u1745:0-63, u1746:0-47, u1747:0-42, u1747:42-103, u1748:0-11, u1749:0-4, u1750:0-17, u1751:0-4, u1752:0-52, u1753:0-51, u1754:0-73, u1755:0-32, u1756:0-11, u1757:0-17, u1758:0-78, u1759:0-16, u1760:0-177, u1761:0-15, u1762:0-40, u1763:0-16, u1764:0-36, u1765:0-20, u1766:0-5, u1767:0-28, u1768:0-88, u1769:0-40, u1770:0-4, u1770:4-26, u1771:0-11, u1772:0-55, u1773:0-16, u1774:0-90, u1775:0-23, u1776:0-19, u1777:0-8, u1778:0-51, u1778:51-97, u1779:0-3, u1780:0-49, u1781:0-37, u1781:37-144, u1782:0-45, u1783:0-5, u1784:0-8, u1784:8-17, u1785:0-17, u1786:0-27 %%",
+        "((Combat and tactical discussion))",
+        "",
+        "%% u1787:0-3, u1788:0-10, u1789:0-93, u1790:0-152, u1791:0-43 %%",
+        "DM: The the goblin falls unconscious as you whack it upside the head, returning the blow it tried to give to you just moments ago. And everybody is suddenly quiet. You look back towards the barracks. Nobody seems to have noticed. Last you heard this guy was yelling, “I'm gonna deal with Morky. Give me an hour.”",
+        "",
+        "%% u1792:0-23, u1793:0-32 %%",
+        "Loria: So I need to apologize. I'm a little skittish sometimes.",
+        "",
+        "%% u1794:0-52, u1795:0-100, u1796:0-82 %%",
+        "Gaudin: Maybe should have mentioned that before we did that. And I'm like slowly getting off the ground after getting and punch—what acid was sprayed at me like—like Loria has the threat of someone hitting her, and she was like, “No, thank you.”",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But your read on this situation right now is the goblin that just tried to smack fake Morky is sure that something is totally wrong with this scene. He's spotted a short sword, and he's seen, and he's like realized, this must be an illusion. But the 3 goblins who are approaching, to them it looks like, you know, Gaudin's body language is much better than his speaking language in Goblin, and he's got the act of like a tottering drunk goblin down like to a T, right? Like, all of you looking at this are like, “Yeah, that's definitely a drunk goblin.” So—",
+          "Gaudin: I telepathically talk to Loria, I want to tell them the prisoners have escaped. We have to—I want to get them to run up to where we were at, and they should all be away from us. So tell me what to do, and I'll yell at like—",
+          "Loria: Yeah. One had gathered.",
+          "Dilion: Rad.",
+          "Gaudin: Brian can read. And then I'm like—"
+        ],
+        "after": [
+          "Dilion: So is Gaudin really hurt?",
+          "Gaudin: I'm like I lost 8 hit points so I could probably use some, if somebody has some healing.",
+          "Dilion: I mean, if you come back I'll I'll give you a Cure Wounds.",
+          "Gaudin: I appreciatively take that Cure Wounds. How much healing do I get?",
+          "Dilion: Just checking my plus. So it's plus 3. We'll go ahead. 8. There you go!"
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "Folcan’s identity and capture are clear, but the retained warning from one of the two warriors is only provisionally attributed to the suspicious guard."
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Folcan explains Grimstone and the tunnels",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1847",
+        "endUid": "u2041"
+      },
+      "lines": [
+        "%% u1847:0-18, u1848:0-53, u1849:0-55, u1850:0-30, u1851:0-3, u1852:0-24, u1853:0-52, u1854:0-172, u1855:0-44, u1856:0-25, u1857:0-31 %%",
+        "DM: You bring em back.((Waking the captive)) obviously tie him up, I presume. Take his, like, bone staff away.((Waking the captive)) Shakes his head, looks around, kinda snarls, “Who do you think you are? Grimstone won't stand for this.”",
+        "",
+        "%% u1858:0-20 %%",
+        "Gaudin: Who is this Grimes?",
+        "",
+        "%% u1858:20-84, u1859:0-61 %%",
+        "Loria: I—can we just canonically say that I'm translating whatever the—who is Greg? Who is this? We've heard so much about Grimstone.",
+        "",
+        "%% u1860:0-24, u1861:0-36, u1862:0-42, u1863:0-30, u1864:0-39 %%",
+        "DM: You'll know soon enough. I think the lizard's gonna be first. You've never met him. We're in for a treat. Permanent stay, one might say. Oh, I'm looking forward to this Sunday.",
+        "",
+        "%% u1865:0-31, u1866:0-91 %%",
+        "Loria: What? What does Grimstone? Wha? What does wha? What do they want with us? Why, why, the lizard folk first? What's happened?",
+        "",
+        "%% u1867:0-37 %%",
+        "DM: Go into the Manor and never come out.",
+        "",
+        "%% u1868:0-20, u1869:0-36, u1870:0-41, u1871:0-28, u1872:0-38, u1873:0-5 %%",
+        "((Table discussion and checks))",
+        "",
+        "%% u1874:0-92, u1875:0-30, u1876:0-64 %%",
+        "Gaudin: Okay, can I—have a cantrip. I want to acid splash him back as part of my intimidation. Okay. So I do. I cantrip acid splash ((Intimidation mechanics))",
+        "",
+        "%% u1877:0-37, u1878:0-45, u1879:0-61 %%",
+        "DM: ((Intimidation check)) He looks startled as you kind of turn on him, acid spraying out of your your face. What are you asking him?",
+        "",
+        "%% u1880:0-17, u1881:0-30 %%",
+        "Gaudin: Who is Grimstone? What is he? What does he want?",
+        "",
+        "%% u1882:0-77, u1883:0-5, u1884:0-14, u1885:0-103, u1886:0-74, u1887:0-61 %%",
+        "DM: He looks—his—his demeanor changes a little bit as the acid splashes against. “Stop! I've only ever seen him. I've never even spoken to him. He comes out in his black robes and his pure white marble mask, takes the prisoners away and showers us with gifts. Don't know. I—stop it! Don't know who he is. He's just the best boss I've worked for.”",
+        "",
+        "%% u1888:0-15 %%",
+        "Gaudin: Is he a goblin?",
+        "",
+        "%% u1889:0-26, u1890:0-37 %%",
+        "DM: Be a very big goblin or—so, like, points up at Acescale. “His size.”",
+        "",
+        "%% u1891:0-14 %%",
+        "Loria: What work does—",
+        "",
+        "%% u1892:0-28, u1893:0-23, u1894:0-29, u1895:0-40 %%",
+        "DM: He like points at all of you. “Catch people, obviously. He only wants one every week. We're set for the next month with you 4.”",
+        "",
+        "%% u1896:0-25, u1897:0-30, u1898:0-47 %%",
+        "Dilion: Does it have to be people? And ask, or I get to Loria, to translate unless someone else is also speaking.",
+        "",
+        "%% u1899:0-110 %%",
+        "DM: We sent a dwarf up there once. Certainly happy with halflings. Makes us dress em nice before we send them off.",
+        "",
+        "%% u1900:0-34 %%",
+        "Unknown: Just the halflings, or everybody?",
+        "",
+        "%% u1900:34-93, u1901:0-87 %%",
+        "DM: Oh, everybody, some of them in armor, some in nice clothes. There was a merchant a few weeks back he wanted bound in a white robe, for some reason.",
+        "",
+        "%% u1902:0-4, u1903:0-30 %%",
+        "Dilion: Hey? They don't come back out. Yes.",
+        "",
+        "%% u1904:0-23, u1905:0-45, u1906:0-33, u1907:0-4 %%",
+        "DM: Nobody's ever come out. All the gold and treasure and all the people. But he lets us keep silver copper, good—",
+        "",
+        "%% u1908:0-45 %%",
+        "((Table discussion and checks))",
+        "",
+        "%% u1909:0-24, u1910:0-26, u1911:0-13 %%",
+        "Loria: Where? Where do you take the prisoners dress nicely to seek where?",
+        "",
+        "%% u1912:0-19, u1913:0-15 %%",
+        "DM: The manor obviously. This is stupid.",
+        "",
+        "%% u1914:0-27 %%",
+        "Loria: Yes, yes, not bit panicked.",
+        "",
+        "%% u1915:0-10 %%",
+        "DM: Should be.",
+        "",
+        "%% u1916:0-23 %%",
+        "Loria: Can you point to where?",
+        "",
+        "%% u1917:0-58 %%",
+        "DM: Check your eyes. Look out there. The Manor, the big villa!",
+        "",
+        "%% u1918:0-16 %%",
+        "Acescale: Is he there now?",
+        "",
+        "%% u1919:0-9 %%",
+        "DM: Obviously.",
+        "",
+        "%% u1920:0-13 %%",
+        "Loria: Always there?",
+        "",
+        "%% u1921:0-34, u1922:0-21 %%",
+        "DM: Never seen him leave. Why would he? Been here for months.",
+        "",
+        "%% u1923:0-62 %%",
+        "Acescale: Well, I guess we've really got all that we need from this guy.",
+        "",
+        "%% u1924:0-51, u1925:0-13 %%",
+        "DM: Fools, haven’t got all you need. I'm gonna show you. Just you wait.",
+        "",
+        "%% u1926:0-14 %%",
+        "Loria: Wait for what?",
+        "",
+        "%% u1927:0-18, u1928:0-23 %%",
+        "DM: My army to come up. 10 goblins loyal to me.",
+        "",
+        "%% u1929:0-3 %%",
+        "Loria: You—",
+        "",
+        "%% u1930:0-21 %%",
+        "Dilion: I don't—I—I'm doubt—",
+        "",
+        "%% u1930:21-35 %%",
+        "DM: You doubt me?",
+        "",
+        "%% u1930:35-39 %%",
+        "Dilion: Yes.",
+        "",
+        "%% u1931:0-14 %%",
+        "DM: Just you wait.",
+        "",
+        "%% u1932:0-58 %%",
+        "Dilion: But it's only 5. There's like 5, 3 had. Drop it. If you're—",
+        "",
+        "%% u1933:0-38 %%",
+        "Acescale: If you're dead, who are they loyal to?",
+        "",
+        "%% u1934:0-118 %%",
+        "DM: If I'm dead, they'll attack with such a vicious vengeance to get revenge for my death that you won't know what hit you.",
+        "",
+        "%% u1935:0-56 %%",
+        "Dilion: Attack us, anyway, so your life is kind of forfeit now.",
+        "",
+        "%% u1935:56-81 %%",
+        "Acescale: Still, a lot of gambling.",
+        "",
+        "%% u1936:0-52 %%",
+        "DM: Well, you'll never get past the gate guards, anyway.",
+        "",
+        "%% u1937:0-133, u1938:0-39, u1939:0-53 %%",
+        "Dilion: Are they really tricky work? Huh! These gate guards! What are they? What are they like? Am I right? Like, “Oh, be ashamed to know what details they you could give about them.” They got more than one man. That's what I'm guessing.",
+        "",
+        "%% u1940:0-20, u1941:0-20, u1942:0-39, u1943:0-37, u1944:0-20 %%",
+        "DM: Spits on the ground. “Those filthy krekka. Grimstone trusts them more than anyone.” Loria, you recognize this as a goblin slur for hobgoblins.",
+        "",
+        "%% u1945:0-4 %%",
+        "Gaudin: Hmm!",
+        "",
+        "%% u1946:0-33 %%",
+        "Loria: Where is where is Ulgna right now?",
+        "",
+        "%% u1947:0-73 %%",
+        "DM: She's probably running away. That pathetic coward. Nobody's loyal to her.",
+        "",
+        "%% u1948:0-24 %%",
+        "Loria: Don't you work for Ulgna?",
+        "",
+        "%% u1949:0-23, u1950:0-54 %%",
+        "DM: “Fool! Who told you that?” He like strains against his ropes to try and bite you.",
+        "",
+        "%% u1951:0-16 %%",
+        "Loria: Morky. Obviously.",
+        "",
+        "%% u1952:0-23 %%",
+        "DM: Morky is a drunk idiot.",
+        "",
+        "%% u1953:0-24 %%",
+        "Loria: Doesn't mean it's wrong.",
+        "",
+        "%% u1954:0-10 %%",
+        "Acescale: Morky was—",
+        "",
+        "%% u1954:10-30, u1955:0-43, u1956:0-141 %%",
+        "DM: Grimstone trusts me. Ulgna never liked him. Spits on the ground. I'm the one who has the loyalty. I'm the one he picks. Damn Ulgna! She'd probably run away in the tunnels if she was left to her own devices.",
+        "",
+        "%% u1957:0-15 %%",
+        "Loria: Who do you pay?",
+        "",
+        "%% u1958:0-42, u1959:0-23, u1960:0-64 %%",
+        "DM: I don't pay anybody—for Grimstone pays me. I pay my loyal lackeys. That's why they'll fight to the death to save me, I promise you.",
+        "",
+        "%% u1961:0-11, u1962:0-120, u1963:0-123 %%",
+        "Acescale: Okay. Well, the way that you're talking to us, I think there's like a 95% chance you might not make it through another sentence. So have you got an entrance into these tunnels we can use to get in past the hob goblins, or are you like done breathing now?",
+        "",
+        "%% u1964:0-27, u1965:0-8, u1966:0-87, u1967:0-31, u1968:0-15, u1969:0-26, u1970:0-51 %%",
+        "((Table discussion and checks))",
+        "",
+        "%% u1971:0-54 %%",
+        "DM: He he kind of laughed at you. “You don't scare me. It's—”",
+        "",
+        "%% u1972:0-22, u1973:0-22, u1974:0-42 %%",
+        "((Table discussion and checks))",
+        "",
+        "%% u1975:0-85 %%",
+        "Gaudin: No, not nothing tech. We're gonna just, are we just gonna end this guy here? We could.",
+        "",
+        "%% u1976:0-132 %%",
+        "Dilion: We've got. I think he's just gonna insult us more. And I don’t think he's gonna give us anything more useful than we've already got.",
+        "",
+        "%% u1977:0-99 %%",
+        "Gaudin: It is still pissed off about being kicked. So, oh, I'm gonna Eldritch Blast him at point blank range.",
+        "",
+        "%% u1978:0-14 %%",
+        "((Table discussion and checks))",
+        "",
+        "%% u1979:0-6 %%",
+        "Gaudin: Range.",
+        "",
+        "%% u1980:0-142, u1981:0-56, u1982:0-32, u1983:0-55 %%",
+        "DM: Not expecting the—are you still? Do you still? Are you still disguised right? Just like totally had tuned you out, thinking you were just like a goblin in the background, totally, not expecting, like laughing at this lizard folk who didn't really scare him, and then blam, just keels over.",
+        "",
+        "%% u1984:0-27, u1985:0-61 %%",
+        "Acescale: I—I cure wounds on him. And and I say, I say, in in common, I say, “We can do this all day.”",
+        "",
+        "%% u1986:0-81 %%",
+        "Gaudin: I let the the crackling of the blast be right by his ear, just letting him know.",
+        "",
+        "%% u1986:81-108, u1987:0-57, u1988:0-24, u1989:0-45, u1990:0-35, u1991:0-34, u1992:0-34 %%",
+        "DM: ((Intimidation mechanics)) He just—he like his face drains of color. And he like looks up at you like scared like demeanor shifts entirely like, “No! What do you? What do you want?”",
+        "",
+        "%% u1993:0-37, u1994:0-39, u1995:0-19 %%",
+        "Acescale: That's a tunnel sounded kind of cool. A map of the manor that you know. Like, what have you got?",
+        "",
+        "%% u1995:19-81, u1996:0-19, u1997:0-4, u1998:0-65, u1999:0-42, u2000:0-11, u2001:0-22, u2002:0-58, u2003:0-29, u2004:0-24, u2005:0-44, u2006:0-56, u2007:0-39, u2008:0-13, u2009:0-15, u2010:0-20, u2011:0-8, u2012:0-19, u2013:0-107 %%",
+        "DM: I've never been in the manor. The tunnels, they lead in what—the—the wine cellar, but does 2—2 entrances that I know. There's—there's one in—in the barracks. I don't think the goblins will let you in. There's one from—from the kitchen, think, in the old gardens near the manor, the walled garden. There's a—there's a—there's a—there's a kitchen there.",
+        "",
+        "And someone said—someone said—someone said there's—there's a chapel on the other side of the manor, and that the—the tunnel might go there. But—but—but I—I haven't been. That's where I look. But that—the hobgoblins just keep us from—from—from—from running. They don't patrol the grounds. Just—just—just stay away from the gates.",
+        "",
+        "%% u2014:0-109 %%",
+        "Unknown: So the hobgoblins watch the the gates like the the exit from this whole complex, not the gates to the manor?",
+        "",
+        "%% u2014:109-183, u2015:0-3, u2016:0-9, u2017:0-118, u2018:0-91, u2019:0-44, u2020:0-162, u2021:0-76 %%",
+        "DM: “There are additional guards that guard the main door to the manor,” he says, but it sounds from him, from the way he says that, there's like only light patrols. Like, one of the hobgoblins will come do a check, like, you know, once a night or something, but it's really—they trust that they're keeping—the goblins are the ones who are supposed to down—stay on guard, and the hobgoblins never go into the tunnels. They're too narrow and uncomfortable.",
+        "",
+        "The implication being, if you wanted to lie low, then you trust this guy not to try and betray you, that tunnels would be pretty safe.",
+        "",
+        "%% u2022:0-44 %%",
+        "Loria: How many goblins are in the barracks still?",
+        "",
+        "%% u2023:0-15, u2024:0-22 %%",
+        "DM: I wasn't lying. There's 10 plus Ulgna.",
+        "",
+        "%% u2025:0-5, u2026:0-36 %%",
+        "((Table discussion and checks))",
+        "",
+        "%% u2027:0-6, u2028:0-8, u2029:0-98 %%",
+        "Acescale: It was kitchen, chapel, or tunnels to the wine cellar? Or are there tunnels to the kitchen in the chapel as well?",
+        "",
+        "%% u2029:98-179, u2030:0-30 %%",
+        "DM: The tunnels, the tunnels lead to the wine cellar. The entrances that he knows of. There's a whole tunnel system.",
+        "",
+        "%% u2031:0-13 %%",
+        "Acescale: Yeah, there's—",
+        "",
+        "%% u2032:0-153 %%",
+        "DM: An entrance from the Goblin's barracks. There's an entrance from the kitchen, and there is a rumored entrance from the chapel, but he's never been there.",
+        "",
+        "%% u2033:0-53 %%",
+        "Acescale: The kitchen you have to be inside to get the tunnels?",
+        "",
+        "%% u2034:0-169, u2035:0-74 %%",
+        "DM: No, the kitchens—the kitchen is like, so there's that walled garden that you couldn't see into. That's where the kitchen is. It's it's, you know, a few 100 feet from the manor itself. Presumably from the wine cellar you can get into the manor.",
+        "",
+        "%% u2036:0-5 %%",
+        "Acescale: Yeah.",
+        "",
+        "%% u2037:0-40 %%",
+        "DM: But the goblins never go into the manor.",
+        "",
+        "%% u2038:0-6 %%",
+        "Acescale: Okay.",
+        "",
+        "%% u2038:6-61, u2039:0-78, u2040:0-34, u2041:0-145 %%",
+        "DM: They can tell you that there's the hobgoblins guard the gates to leave this complex and hobgoblins guard the front door to the manor. And then there's one—there's, yeah, one hobgoblin that does a round every night, just to check and make sure the goblins aren't stirring up trouble. But there are not heavy patrols.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Loria: Took care of Morky. Watch alone today.",
+          "Acescale: Love. And then just his handprint and blood. Interrogate the guy first and decide what the best course of action is.",
+          "DM: Let's interrogate the guy and then wrap up the session. And you can worry about the long run. How about that?",
+          "Acescale: That's a lot. Listen to the DM.",
+          "Dilion: Campaign is now an eight-shot minimum. Let's actually bring it back to the smithy, the one we're gonna—that's still alive. Okay, let's—as silly as the other option is, we should probably just do that before the silly option. That's not the very smart option."
+        ],
+        "after": [
+          "Unknown: Okay.",
+          "Gaudin: We've done pretty well.",
+          "Acescale: Very beautiful blast.",
+          "Dilion: Last.",
+          "Acescale: You might be able to let us in the the barracks ones, like, “You never saw us. Goodbye.” Or we try and long rest, and then they ambush us. Depends on what we think."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "A tentative cover story for next session",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2087",
+        "endUid": "u2113"
+      },
+      "lines": [
+        "%% u2087:0-41, u2088:0-249 %%",
+        "Loria: But we have to figure out what to do with—sorry Tim. What's his name again? We have to figure out what to do with Folcan, because he doesn't come back, then we only have an hour until someone goes and looks for him and finds us gone, raises the alarm with the hobgoblins that are guarding.",
+        "",
+        "%% u2088:249-310, u2089:0-30 %%",
+        "Gaudin: Make him deal with it. Be like, “Hey, just look the other way. We're gonna go to the tunnels.”",
+        "",
+        "%% u2090:0-18, u2091:0-50 %%",
+        "Acescale: Prisoners escaped. We'll bring you back. We'll bring you back a gold.",
+        "",
+        "%% u2092:0-73 %%",
+        "Loria: Yeah. How much is Grimstone? How much is Grimstone paid him per prisoner?",
+        "",
+        "%% u2093:0-59 %%",
+        "Acescale: Sounds like they get to keep the silver and copper from the—",
+        "",
+        "%% u2094:0-84, u2095:0-12, u2096:0-138 %%",
+        "DM: The deal was they get to keep the silver and copper, plus whatever they can smuggle, but gold and most magic gets sent into—sent to the Manor. So it's not a bad living, right, like most of the merchants here travel primarily with silver.",
+        "",
+        "%% u2097:0-143, u2098:0-76 %%",
+        "((Bribe speculation))",
+        "",
+        "%% u2098:76-200, u2099:0-192, u2100:0-200, u2101:0-32 %%",
+        "Acescale: Well, I don't—I don't have any gold, right? It's all—it's all in the manor with—with, you know, like I do kind of feel like we don't necessarily need to bribe him. We just need to let him walk away. That's already a pretty big win. Yeah, we can just have him just be like, “Go back and say, everything's okay and just forget.” And then that gives us time to do what we need to do. ((Further conjecture))",
+        "",
+        "%% u2102:0-202 %%",
+        "Loria: You picked on the wrong people this week, and they gone. Can we get him to say that everything at the smithy is fine, and that he brought enough food that they don't have to be bothered for like 2 days?",
+        "",
+        "%% u2103:0-30 %%",
+        "Gaudin: No, no need for dinner goblin.",
+        "",
+        "%% u2104:0-134, u2105:0-4 %%",
+        "Loria: Goblin, for, like at least 2 days. They got, they have so much food, and the 2 that are dead are just drinking with with everyone else. Yep.",
+        "",
+        "%% u2106:0-48 %%",
+        "Gaudin: I like it. Yeah, sounds like our tentative plan.",
+        "",
+        "%% u2107:0-31 %%",
+        "DM: Yeah, someone write that down.",
+        "",
+        "%% u2107:31-41 %%",
+        "Unknown: I got it.",
+        "",
+        "%% u2107:41-78, u2108:0-3, u2109:0-48, u2110:0-18, u2111:0-56, u2112:0-61, u2113:0-117 %%",
+        "DM: So that's where we'll start tomorrow—the—or, not tomorrow, in 2 weeks. So next session, the sending him off to convince the rest of the goblins that everything's fine. They don't need to bother. He's punishing Morky and them with solitary confinement with the prisoners for the next 3 days, and we'll pick up with where you want to go from there.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Could work.",
+          "Gaudin: We could do it like it was like a murder suicide thing. We leave Morky and the guy there in between the building, like—",
+          "Dilion: Oh, my goodness. I mean, I actually—",
+          "DM: Yeah, go ahead.",
+          "Dilion: No, I—I like the tunnels. Yeah. But I also like just doing the same thing to get more out. But I think we got lucky. So I don't know the tunnels is nice, cause at least we can—it's it's like bottlenecking, right? So if so, if he's correct, the the tunnel has what, one hob goblin near it, or something, if we go by the the garden, or or something, if I, if I was mistaken—go by the garden, it's one hobgoblin, get into tunnel. Start going the tunnels, and hmm!"
+        ],
+        "after": []
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

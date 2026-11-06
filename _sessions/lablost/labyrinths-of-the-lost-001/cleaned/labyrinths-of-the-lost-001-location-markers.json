@@ -1,0 +1,1159 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "labyrinths-of-the-lost-001",
+    "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml",
+    "sessionYamlSha256": "93f67f61f03927278fb9abdd8f3454fb229d3faa8d85bce873ce2a3910ed259e",
+    "transcriptPath": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-transcript.md",
+    "transcriptSha256": "b530fc3b627fe2aeb65e4e8898b1b972cfa2a8508468b713859c1b6db09c1d69"
+  },
+  "places": {
+    "p01": {
+      "label": "Makeshift prison cell",
+      "kind": "cell",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "what looks like a crudely made prison with 3 other people"
+        },
+        {
+          "startUid": "u0044",
+          "endUid": "u0050",
+          "quote": "it was a corner of this workshop, this forge where a prison was recently, or not super recently, but constructed on top of the, the room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0044",
+              "endUid": "u0050",
+              "quote": "it was a corner of this workshop, this forge where a prison was recently, or not super recently, but constructed on top of the, the room."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Abandoned forge/workshop room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0112",
+          "endUid": "u0119",
+          "quote": "you find yourself in this clearly abandoned blacksmith's workshop."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u0384",
+              "endUid": "u0393",
+              "quote": "one goes back to the forge where you're trapped, the other goes into the room where the goblins, and the forge has a door into the goblins as well."
+            },
+            {
+              "startUid": "u1053",
+              "endUid": "u1062",
+              "quote": "You've been holed up in this workshop, forge, prison, gambling den for the past couple of hours"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Gear and clothing room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0284",
+          "endUid": "u0287",
+          "quote": "There's a shelf, a relatively new shelf, or at least not a rotting shelf on which there's, you know, maybe a dozen sets of clothes neatly folded."
+        },
+        {
+          "startUid": "u0320",
+          "endUid": "u0325",
+          "quote": "It, it looks like a dressing room or something like that, right?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u0384",
+              "endUid": "u0393",
+              "quote": "one goes back to the forge where you're trapped, the other goes into the room where the goblins, and the forge has a door into the goblins as well."
+            },
+            {
+              "startUid": "u1053",
+              "endUid": "u1062",
+              "quote": "You've been holed up in this workshop, forge, prison, gambling den for the past couple of hours"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Goblin gambling room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0384",
+          "endUid": "u0393",
+          "quote": "one goes back to the forge where you're trapped, the other goes into the room where the goblins, and the forge has a door into the goblins as well."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u0384",
+              "endUid": "u0393",
+              "quote": "one goes back to the forge where you're trapped, the other goes into the room where the goblins, and the forge has a door into the goblins as well."
+            },
+            {
+              "startUid": "u1053",
+              "endUid": "u1062",
+              "quote": "You've been holed up in this workshop, forge, prison, gambling den for the past couple of hours"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Smithy exterior on the estate outskirts",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u0827",
+          "endUid": "u0846",
+          "quote": "you seem to be on the edge of a large, abandoned, overrun estate of some merchant, prince or rich family"
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0848",
+          "quote": "Yeah, that's where you're standing now is outside."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0827",
+              "endUid": "u0846",
+              "quote": "you seem to be on the edge of a large, abandoned, overrun estate of some merchant, prince or rich family"
+            },
+            {
+              "startUid": "u1101",
+              "endUid": "u1124",
+              "quote": "you're on sort of the outskirts of the—of this large estate."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Ruined merchant estate",
+      "kind": "estate",
+      "evidence": [
+        {
+          "startUid": "u0827",
+          "endUid": "u0846",
+          "quote": "you seem to be on the edge of a large, abandoned, overrun estate of some merchant, prince or rich family"
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Perdoli Manor.md",
+      "note": "Unnamed in the transcript; the dated Session 1 record and Perdoli Manor vault page identify the same smithy and captors.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1141",
+              "endUid": "u1150",
+              "quote": "you're set in the foothills of this kind of hilly hilly region known as the Plataca Hills"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Ruined manor / villa",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1101",
+          "endUid": "u1124",
+          "quote": "Southwest from where you are, some distance away, maybe a third of a mile, kind of near, like set within the formal gardens, is this ruined villa."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1101",
+              "endUid": "u1124",
+              "quote": "kind of near, like set within the formal gardens, is this ruined villa."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Intact barracks / quarters",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1101",
+          "endUid": "u1124",
+          "quote": "At one of those buildings due south, maybe 200 feet to the south, looks like it's intact."
+        },
+        {
+          "startUid": "u1445",
+          "endUid": "u1455",
+          "quote": "the 3 goblins that have just emerged from the barracks."
+        }
+      ],
+      "aliases": [
+        "barracks",
+        "quarters"
+      ],
+      "note": "Initially called barracks or servants’ quarters; later consistently called barracks. Distance from the smithy is roughly 100–200 feet in successive descriptions.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0827",
+              "endUid": "u0846",
+              "quote": "you seem to be on the edge of a large, abandoned, overrun estate of some merchant, prince or rich family"
+            },
+            {
+              "startUid": "u1101",
+              "endUid": "u1124",
+              "quote": "you're on sort of the outskirts of the—of this large estate."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Overgrown formal gardens",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u0827",
+          "endUid": "u0846",
+          "quote": "there's what looks like it were once formal gardens, but now are just overrun hedges."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0827",
+              "endUid": "u0846",
+              "quote": "you seem to be on the edge of a large, abandoned, overrun estate of some merchant, prince or rich family"
+            },
+            {
+              "startUid": "u1101",
+              "endUid": "u1124",
+              "quote": "you're on sort of the outskirts of the—of this large estate."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Plataca Hills",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u1141",
+          "endUid": "u1150",
+          "quote": "you're set in the foothills of this kind of hilly hilly region known as the Plataca Hills"
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Plataca Hills.md"
+    },
+    "p11": {
+      "label": "Path between smithy and barracks",
+      "kind": "path",
+      "evidence": [
+        {
+          "startUid": "u1290",
+          "endUid": "u1296",
+          "quote": "The the path leads sort of down from this little sort of area, and seems to be curving towards the towards the the one intact building"
+        },
+        {
+          "startUid": "u1536",
+          "endUid": "u1551",
+          "quote": "The path runs like this with the smithy in that direction, and the barracks in this direction"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1290",
+              "endUid": "u1296",
+              "quote": "The the path leads sort of down from this little sort of area, and seems to be curving towards the towards the the one intact building"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Cover behind the hedgerow",
+      "kind": "cover",
+      "evidence": [
+        {
+          "startUid": "u1461",
+          "endUid": "u1462",
+          "quote": "You're in the hedge. The hedge cuts off the visibility of the smithy from the barracks. It's total cover."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1461",
+              "endUid": "u1462",
+              "quote": "It's maybe 30 40 feet from where they're all speaking on the path."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1461",
+              "endUid": "u1462",
+              "quote": "The hedge cuts off the visibility of the smithy from the barracks."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Walled garden near the manor",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u1101",
+          "endUid": "u1124",
+          "quote": "There's also a low wall around the side closest to you of the villa that seems to enclose, I guess, more gardens."
+        },
+        {
+          "startUid": "u2034",
+          "endUid": "u2035",
+          "quote": "there's that walled garden that you couldn't see into."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0827",
+              "endUid": "u0846",
+              "quote": "you seem to be on the edge of a large, abandoned, overrun estate of some merchant, prince or rich family"
+            },
+            {
+              "startUid": "u1101",
+              "endUid": "u1124",
+              "quote": "you're on sort of the outskirts of the—of this large estate."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Kitchen in the walled garden",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u2034",
+          "endUid": "u2035",
+          "quote": "That's where the kitchen is. It's it's, you know, a few 100 feet from the manor itself."
+        }
+      ],
+      "note": "Location is supplied during Folcan’s interrogation; no party visit is played.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2034",
+              "endUid": "u2035",
+              "quote": "there's that walled garden that you couldn't see into. That's where the kitchen is."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Reported tunnel system",
+      "kind": "tunnels",
+      "evidence": [
+        {
+          "startUid": "u2027",
+          "endUid": "u2032",
+          "quote": "The tunnels, the tunnels lead to the wine cellar. The entrances that he knows of. There's a whole tunnel system."
+        }
+      ],
+      "note": "Folcan reports entrances from the barracks and kitchen and a rumored chapel entrance. The source does not establish that these reports are accurate or that the party enters."
+    },
+    "p16": {
+      "label": "Reported wine cellar",
+      "kind": "cellar",
+      "evidence": [
+        {
+          "startUid": "u2027",
+          "endUid": "u2030",
+          "quote": "The tunnels, the tunnels lead to the wine cellar."
+        }
+      ],
+      "note": "A reported tunnel destination. Connection into the manor is described as presumptive; exact containment is not independently established in this session."
+    },
+    "p17": {
+      "label": "Rumored chapel beyond the manor",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1993",
+          "endUid": "u2013",
+          "quote": "someone said there's—there's a chapel on the other side of the manor, and that the—the tunnel might go there."
+        }
+      ],
+      "note": "Folcan has not been to this chapel; neither its tunnel entrance nor a party visit is confirmed."
+    },
+    "p18": {
+      "label": "Smithy building",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1053",
+          "endUid": "u1062",
+          "quote": "You've been holed up in this workshop, forge, prison, gambling den for the past couple of hours"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0827",
+              "endUid": "u0846",
+              "quote": "you seem to be on the edge of a large, abandoned, overrun estate of some merchant, prince or rich family"
+            },
+            {
+              "startUid": "u1101",
+              "endUid": "u1124",
+              "quote": "you're on sort of the outskirts of the—of this large estate."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The four prisoners awaken in the cell.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "You are lying in a—what looks like a crudely made prison with 3 other people"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0022"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The prisoners see the abandoned forge through their bars.",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0022",
+          "quote": "Looking through the bars, you can see what looks like a—just a long-disused workshop, like of a blacksmith or a forge."
+        }
+      ],
+      "place": "p02",
+      "observerPlace": "p01",
+      "mode": "local"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0111",
+        "endUid": "u0121"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All four crawl through the broken wooden wall into the forge.",
+      "evidence": [
+        {
+          "startUid": "u0112",
+          "endUid": "u0119",
+          "quote": "you find yourself in this clearly abandoned blacksmith's workshop. You see, the rest of you crawl out."
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "crawl"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0267",
+        "endUid": "u0287"
+      },
+      "actors": [
+        "Dilion",
+        "Gaudin"
+      ],
+      "reading": "The two characters inspect the dark gear room from its doorway before the party equips itself.",
+      "evidence": [
+        {
+          "startUid": "u0267",
+          "endUid": "u0270",
+          "quote": "from your like little push, listen, peek your head in, it seems to be empty."
+        },
+        {
+          "startUid": "u0272",
+          "endUid": "u0273",
+          "quote": "I walk over and peek in."
+        }
+      ],
+      "place": "p03",
+      "observerPlace": "p02",
+      "mode": "local"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0295",
+        "endUid": "u0316"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The prisoners enter the gear room to recover armor and equip themselves.",
+      "evidence": [
+        {
+          "startUid": "u0295",
+          "endUid": "u0296",
+          "quote": "Here, We should gear up a bit more."
+        },
+        {
+          "startUid": "u0314",
+          "endUid": "u0316",
+          "quote": "I'll take the studded leather"
+        },
+        {
+          "startUid": "u0442",
+          "endUid": "u0442",
+          "quote": "Right now you're at a smaller room. Yeah."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0451",
+        "endUid": "u0459"
+      },
+      "actors": [
+        "Loria",
+        "Acescale"
+      ],
+      "reading": "Loria and Acescale begin positioning toward the other, forge-side door for the proposed pincer ambush.",
+      "evidence": [
+        {
+          "startUid": "u0451",
+          "endUid": "u0452",
+          "quote": "Gaudin, be with me. The other 2 go to the other door."
+        },
+        {
+          "startUid": "u0459",
+          "endUid": "u0459",
+          "quote": "Loria starts stamping out to the other door."
+        },
+        {
+          "startUid": "u0473",
+          "endUid": "u0473",
+          "quote": "I've got like a dagger in one hand and a like a lock pick in the other, ready to go."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "underway",
+      "note": "Loria starts toward the door, but the spoken map references do not independently establish both actors’ arrival in the forge before the barred-door discovery changes the plan."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0543",
+        "endUid": "u0611"
+      },
+      "actors": [
+        "Acescale",
+        "Loria",
+        "Dilion"
+      ],
+      "reading": "The attackers enter the goblin gambling room as combat unfolds; Gaudin remains on the forge side initially.",
+      "evidence": [
+        {
+          "startUid": "u0543",
+          "endUid": "u0559",
+          "quote": "as Acescale burst through the door. So as you burst through the door, you see on the other side of this door 2 goblins."
+        },
+        {
+          "startUid": "u0590",
+          "endUid": "u0593",
+          "quote": "runs between Dylan's legs to get into the room."
+        },
+        {
+          "startUid": "u0630",
+          "endUid": "u0645",
+          "quote": "Covers Dylan, itself and the boss."
+        }
+      ],
+      "from": null,
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0586",
+        "endUid": "u0589"
+      },
+      "actors": [
+        "Acescale"
+      ],
+      "reading": "Acescale withdraws through the door into an adjacent room of the smithy after casting his acid spell.",
+      "evidence": [
+        {
+          "startUid": "u0589",
+          "endUid": "u0589",
+          "quote": "All right. I'm back through the door."
+        }
+      ],
+      "from": "p04",
+      "to": "p18",
+      "completion": "arrived",
+      "note": "The withdrawal is confirmed, but the spoken map references do not distinguish the receiving forge or gear room; only the enclosing smithy is asserted."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0807",
+        "endUid": "u0848"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The chase ends outside the smithy; the party surveys the estate outskirts.",
+      "evidence": [
+        {
+          "startUid": "u0807",
+          "endUid": "u0811",
+          "quote": "I run after the goblin"
+        },
+        {
+          "startUid": "u0818",
+          "endUid": "u0819",
+          "quote": "grab your short sword victoriously from its dead hands."
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0848",
+          "quote": "Yeah, that's where you're standing now is outside."
+        }
+      ],
+      "from": "p18",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0827",
+        "endUid": "u0846"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the smithy exterior the party sees the ruined villa roughly a third to half a mile away.",
+      "evidence": [
+        {
+          "startUid": "u0827",
+          "endUid": "u0846",
+          "quote": "maybe half a mile away, what looks like a ruined palace."
+        },
+        {
+          "startUid": "u1101",
+          "endUid": "u1124",
+          "quote": "Southwest from where you are, some distance away, maybe a third of a mile"
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p05",
+      "mode": "local"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u0827",
+        "endUid": "u0846"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The nearer barracks or quarters are visible beyond the hedge; the party has not entered.",
+      "evidence": [
+        {
+          "startUid": "u0827",
+          "endUid": "u0846",
+          "quote": "maybe a hundred feet away, there's what looks like a barracks"
+        },
+        {
+          "startUid": "u1101",
+          "endUid": "u1124",
+          "quote": "At one of those buildings due south, maybe 200 feet to the south, looks like it's intact."
+        }
+      ],
+      "place": "p08",
+      "observerPlace": "p05",
+      "mode": "local"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u0827",
+        "endUid": "u0846"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees the estate’s overgrown formal gardens and distant statues and fountain.",
+      "evidence": [
+        {
+          "startUid": "u0827",
+          "endUid": "u0846",
+          "quote": "there's what looks like it were once formal gardens, but now are just overrun hedges."
+        }
+      ],
+      "place": "p09",
+      "observerPlace": "p05",
+      "mode": "local"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u0862",
+        "endUid": "u0863"
+      },
+      "actors": [
+        "Gaudin"
+      ],
+      "reading": "Gaudin withdraws alone to the forge for the rest.",
+      "evidence": [
+        {
+          "startUid": "u0862",
+          "endUid": "u0863",
+          "quote": "I go off into the back room where the blacksmith thing is to kind of hang out by myself during the short rest."
+        }
+      ],
+      "from": "p05",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1053",
+        "endUid": "u1062"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group has spent the extended meal and rest in the smithy building.",
+      "evidence": [
+        {
+          "startUid": "u1053",
+          "endUid": "u1062",
+          "quote": "You've been holed up in this workshop, forge, prison, gambling den for the past couple of hours"
+        }
+      ],
+      "place": "p18"
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u1063",
+        "endUid": "u1069"
+      },
+      "actors": [
+        "Loria"
+      ],
+      "reading": "Loria spent much of the rest in the gear room before rejoining the meal.",
+      "evidence": [
+        {
+          "startUid": "u1063",
+          "endUid": "u1069",
+          "quote": "Loria was spending a lot of her short rest back in the gear room"
+        },
+        {
+          "startUid": "u1063",
+          "endUid": "u1069",
+          "quote": "she walks out of that room again"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1286",
+        "endUid": "u1297"
+      },
+      "actors": [
+        "Dilion"
+      ],
+      "reading": "Dilion scouts around a hedge bend, sees barracks guards, and immediately returns to the others.",
+      "evidence": [
+        {
+          "startUid": "u1290",
+          "endUid": "u1296",
+          "quote": "you sort of go down a little bit and you can see you kinda come around a corner a a little bit to past a hedge"
+        },
+        {
+          "startUid": "u1297",
+          "endUid": "u1297",
+          "quote": "I'll take an immediate 180 back"
+        },
+        {
+          "startUid": "u1297",
+          "endUid": "u1297",
+          "quote": "I'll communicate like down the road this 2 other goblins"
+        }
+      ],
+      "from": "p18",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p11",
+          "reading": "Rounds a hedge bend on the path, then immediately turns back."
+        }
+      ],
+      "note": "Alarm was proposed but no casting is established before the scout returns."
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u1290",
+        "endUid": "u1296"
+      },
+      "actors": [
+        "Dilion"
+      ],
+      "reading": "Dilion sees two goblins on guard at the barracks door from the path.",
+      "evidence": [
+        {
+          "startUid": "u1290",
+          "endUid": "u1296",
+          "quote": "you can see like plain as day, 150 feet away from you 2 goblins sitting at the door to this other building"
+        }
+      ],
+      "place": "p08",
+      "observerPlace": "p11",
+      "mode": "local"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1365",
+        "endUid": "u1378"
+      },
+      "actors": [
+        "Gaudin",
+        "Loria"
+      ],
+      "reading": "Disguised Gaudin and apparently bound Loria move down the path and call to the guards from about 100 feet away.",
+      "evidence": [
+        {
+          "startUid": "u1365",
+          "endUid": "u1368",
+          "quote": "Loria is fake tied up as if she is captured."
+        },
+        {
+          "startUid": "u1369",
+          "endUid": "u1378",
+          "quote": "you come down the—the path a little bit"
+        },
+        {
+          "startUid": "u1369",
+          "endUid": "u1378",
+          "quote": "you come to about a hundred feet and begin yelling something in—in Goblin."
+        }
+      ],
+      "from": "p18",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l19",
+      "type": "presence",
+      "source": {
+        "startUid": "u1457",
+        "endUid": "u1462"
+      },
+      "actors": [
+        "Acescale",
+        "Dilion",
+        "Keiko"
+      ],
+      "reading": "The artificers and dog wait behind the hedgerow while Gaudin and Loria face the goblins on the path.",
+      "evidence": [
+        {
+          "startUid": "u1457",
+          "endUid": "u1457",
+          "quote": "the 3 of us, the 2 artificers and the dog"
+        },
+        {
+          "startUid": "u1461",
+          "endUid": "u1462",
+          "quote": "You're in the hedge. The hedge cuts off the visibility of the smithy from the barracks. It's total cover."
+        }
+      ],
+      "place": "p12",
+      "note": "The table explicitly confirms that invisibility was not cast."
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u1643",
+        "endUid": "u1646"
+      },
+      "actors": [
+        "Gaudin"
+      ],
+      "reading": "Gaudin walks clear of the fog and teleports around the hedgerow.",
+      "evidence": [
+        {
+          "startUid": "u1643",
+          "endUid": "u1644",
+          "quote": "I take my 3 steps and then I Misty Step over there."
+        },
+        {
+          "startUid": "u1645",
+          "endUid": "u1646",
+          "quote": "That's just around the hedgerow."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk and Misty Step"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u1683",
+        "endUid": "u1693"
+      },
+      "actors": [
+        "Dilion",
+        "Keiko"
+      ],
+      "reading": "Dilion advances from cover and shoots while Keiko dashes up to a warrior on the path.",
+      "evidence": [
+        {
+          "startUid": "u1683",
+          "endUid": "u1691",
+          "quote": "I'll use all 30 movement"
+        },
+        {
+          "startUid": "u1683",
+          "endUid": "u1693",
+          "quote": "he can get right within melee of that—"
+        },
+        {
+          "startUid": "u1692",
+          "endUid": "u1692",
+          "quote": "Of that warrior."
+        }
+      ],
+      "from": "p12",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u1807",
+        "endUid": "u1857"
+      },
+      "actors": [
+        "party",
+        "Folcan"
+      ],
+      "reading": "The group takes the unconscious Folcan back up the path to the smithy, ties him up and wakes him for interrogation.",
+      "evidence": [
+        {
+          "startUid": "u1811",
+          "endUid": "u1811",
+          "quote": "it's like 200 feet up the road."
+        },
+        {
+          "startUid": "u1842",
+          "endUid": "u1846",
+          "quote": "Let's actually bring it back to the smithy"
+        },
+        {
+          "startUid": "u1847",
+          "endUid": "u1857",
+          "quote": "You bring em back."
+        },
+        {
+          "startUid": "u1847",
+          "endUid": "u1857",
+          "quote": "obviously tie him up, I presume."
+        }
+      ],
+      "from": null,
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "carry or drag",
+      "distance": {
+        "value": 200,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM corrects the travel description to about 200 feet."
+      }
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u1993",
+        "endUid": "u2067"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party considers reaching the manor through reported tunnels, with kitchen and barracks entrances and a rumored chapel route; no option is executed.",
+      "evidence": [
+        {
+          "startUid": "u1993",
+          "endUid": "u2013",
+          "quote": "There's one from—from the kitchen, think, in the old gardens near the manor, the walled garden."
+        },
+        {
+          "startUid": "u2032",
+          "endUid": "u2032",
+          "quote": "An entrance from the Goblin's barracks. There's an entrance from the kitchen, and there is a rumored entrance from the chapel, but he's never been there."
+        },
+        {
+          "startUid": "u2070",
+          "endUid": "u2074",
+          "quote": "We definitely stop it before you actually execute anyone's plans."
+        }
+      ],
+      "from": "p18",
+      "to": "p15",
+      "completion": "planned",
+      "context": "planned",
+      "route": [
+        {
+          "place": "p08",
+          "reading": "Alternative entrance inside the occupied barracks."
+        },
+        {
+          "place": "p14",
+          "reading": "Alternative entrance from the kitchen in the walled garden."
+        },
+        {
+          "place": "p17",
+          "reading": "Unconfirmed alternative chapel entrance, reported secondhand."
+        },
+        {
+          "place": "p16",
+          "reading": "Reported tunnel destination, with presumed access onward into the manor."
+        }
+      ]
+    }
+  ]
+}
