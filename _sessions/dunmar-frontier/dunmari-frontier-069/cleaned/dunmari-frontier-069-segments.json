@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-069",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-session.yaml",
+    "sessionYamlSha256": "4c6e2f597281ca0748cc57ce5eb0bddc0cb7a1661eb57b8a7e2208d66b9d078d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-transcript.md",
+    "transcriptSha256": "843478f8bb9a2ff8ba23528b874c1672d2ab7492a6ed7086f3755f4cadcd4976"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0795"
+      },
+      "category": "gameplay",
+      "note": "The opening immediately plays earlier mirror examinations; the brief introductory turn remains with that activity."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0796",
+        "endUid": "u0812"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0813",
+        "endUid": "u1317"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1318",
+        "endUid": "u1327"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1328",
+        "endUid": "u1374"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1375",
+        "endUid": "u1775"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1776",
+        "endUid": "u1813"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1814",
+        "endUid": "u1888"
+      },
+      "category": "gameplay",
+      "note": "Earlier travel Communes are resolved retrospectively before returning to the storm camp."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1889",
+        "endUid": "u2016"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2017",
+        "endUid": "u2421"
+      },
+      "category": "gameplay",
+      "note": "Character decisions and planning remain active play around the storm observations."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2422",
+        "endUid": "u2426"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2427",
+        "endUid": "u2543"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2544",
+        "endUid": "u2554"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2555",
+        "endUid": "u2559"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2560",
+        "endUid": "u2562"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

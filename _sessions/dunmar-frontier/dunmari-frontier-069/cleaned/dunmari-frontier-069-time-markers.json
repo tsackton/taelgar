@@ -1,0 +1,663 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-069",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-session.yaml",
+    "sessionYamlSha256": "4c6e2f597281ca0748cc57ce5eb0bddc0cb7a1661eb57b8a7e2208d66b9d078d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-transcript.md",
+    "transcriptSha256": "843478f8bb9a2ff8ba23528b874c1672d2ab7492a6ed7086f3755f4cadcd4976",
+    "yamlDates": {
+      "start": "1748-11-15",
+      "end": "1748-11-23"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "reading": "Play first resolves the two earlier forest mirror examinations before returning to the reunion night.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "DM: And then we'll come back to—oh, I, I never wrote my intro. That's okay. [garbled] with the recorded mirror visions from the from the forest, and then we'll come back to the current day as we approach late evening, and you pull out the Shadow Armband to show it to the mirror."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "context": "flashback",
+      "note": "Riswynn contributes at the table, but her presence at these earlier examinations is not established by her speech; their adventure dates are not spoken here."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0333",
+        "endUid": "u0355"
+      },
+      "reading": "Return to the reunited party at the campfire after two or three hours catching up; it is late at night.",
+      "evidence": [
+        {
+          "startUid": "u0333",
+          "endUid": "u0355",
+          "quote": "DM: We now return to the current day. Where you now jumping ahead to our intro—let's get some—where is my—Oh, my God! I've got way too many queued here. Okay, this this should work. Jumping ahead to the plains of Dunmar, where you have reunited only hours ago, and spent the past 2 or 3 h over the campfire catching up listening to the stories of your adventures in—the islands and jungles of the East. The dwarven planes and Shadowfell domains of Morkalan, the Feywilds, and the—forests and battlefields of the Great War far to the north. And also hearing from Delwath news about what's happening in the world as you've been scattered to the 4 corners."
+        },
+        {
+          "startUid": "u0387",
+          "endUid": "u0403",
+          "quote": "DM: But as you realize belatedly to shift your conversation to telepathy, using Seeker's newly acquired magic. We start late at night at the campfire, as you prepare to show the Shadow Armband of Cha'mutte that Delwath acquired on one of the lost battlefields of the Great War to the mirror before resting and preparing to hopefully cure some curses by divine magic in the morning before—\n\nRiswynn: And I also gonna Sending talk to—\n\nDM: Johar.\n\nUnknown: Yeah.\n\nDM: Yes. I think he would probably do that in the morning because it's fairly late at night at this point."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "late night"
+      },
+      "duration": {
+        "min": 2,
+        "minInclusive": true,
+        "max": 3,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM states the elapsed reunion conversation"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0634",
+        "endUid": "u0650"
+      },
+      "reading": "The reunited party sleeps at Lastlight Falls and wakes the following morning.",
+      "evidence": [
+        {
+          "startUid": "u0634",
+          "endUid": "u0639",
+          "quote": "DM: So with pleasant dreams of vast armies and enslaved kenku and—shadow realms! We go to sleep."
+        },
+        {
+          "startUid": "u0640",
+          "endUid": "u0650",
+          "quote": "DM: Waking in the morning to a—even so, this far East it's still fairly deserty. But what rains come have fallen in the past few months. And so there's, you know, flowers in bloom across the landscape. The waters of the—of the Lastlight Falls, you know, support like a little oasis almost in the desert here. The camp that Delwath and Riswynn have made is homey. But it's 230 miles basically due west to Eudomes, to Eudomes's tower. It's also known as Stormcaller Tower."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Narrated part of day",
+          "partOfDay": "late night"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Narrated part of day",
+          "partOfDay": "morning"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0684",
+        "endUid": "u0694"
+      },
+      "reading": "Kenzo and Riswynn begin the curse-breaking ceremony at dawn on the morning after the reunion.",
+      "evidence": [
+        {
+          "startUid": "u0684",
+          "endUid": "u0694",
+          "quote": "Kenzo: So at dawn, Riswynn and I set off to a beautiful outcropping overlooking the plains. Kenzo brings forth the first item, one of the first items from our travel that has been significant to him from this chapter of his life. So much has changed since when I, when this this horn was first acquired, and he gives it to Riswynn, and sits prayerfully and closes his eyes."
+        },
+        {
+          "startUid": "u0743",
+          "endUid": "u0759",
+          "quote": "DM: So, as you begin to cast the spell on this, the Horn of Silent Alarm begins to flicker. You can see, all of you actually who are there can see now, like, become visible, this like, this like black chain that's wrapped around Kenzo, and as Riswynn offers her prayer, it begins. It begins to disintegrate, and it's, it's sort of flickering in and out, and Seeker, and then—all the all the prayers to all the gods, the dwarven gods, the tanshi, the Dunmari God, everybody isn't doing quite enough.\n\nDM: Seeker just kind of reaches out, and with your rune as this dwarven rune just kind of floats over and touches the chain. The 2 links where the rune, this rune touches, it just snaps, and then the entire thing just disintegrates quickly all around Kenzo, and the horn vanishes in a flash. Then you are uncursed."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "dawn"
+      },
+      "actors": [
+        "Kenzo",
+        "Riswynn",
+        "Delwath",
+        "Seeker"
+      ],
+      "note": "The later ceremony narration establishes the other helpers; no exact ritual duration is supplied."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0925",
+        "endUid": "u0933"
+      },
+      "reading": "The first travel camp is established about thirty miles west, with dinner and Sending to Johar.",
+      "evidence": [
+        {
+          "startUid": "u0925",
+          "endUid": "u0933",
+          "quote": "DM: The first—the first couple of days passed relatively uneventfully. You get into a routine of standing and Sending in the morning and night. So you, you come to camp about 30 miles west, and cast again, talking to to Johar as Delwath is cooking dinner. Getting across the message that he's got to be brief, and so he says."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "evening"
+      },
+      "note": "The introductory “first couple of days” is a montage; the thirty-mile camp and subsequent next morning identify this as the first evening."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0965",
+        "endUid": "u0974"
+      },
+      "reading": "The party continues its prayer and Sending routine the next morning.",
+      "evidence": [
+        {
+          "startUid": "u0965",
+          "endUid": "u0974",
+          "quote": "DM: So the next morning you continue in your routine, riding across the plains. Praying to the gods. Go ahead and roll your d100.\n\nRiswynn: Wrong windows. So close.\n\nDM: Very less. And casting, casting, sending again to speak with—speak with Johar."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "morning"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1054",
+        "endUid": "u1065"
+      },
+      "reading": "Retrospectively, the first day’s scrying places Hektor and Vola scouting in late afternoon, at the same local time as the party.",
+      "evidence": [
+        {
+          "startUid": "u1034",
+          "endUid": "u1039",
+          "quote": "DM: Something that might have—something that might happen. So, but you're still gonna over the course of the past 2 days you've been traveling, You're still going to make an attempt to.\n\nDelwath: Yes, I will. I will scry just a couple of times. You know, once before, once, and once after dinner. Vola! Actually, what I count is—Vola, I'm probably more familiar with, right?"
+        },
+        {
+          "startUid": "u1054",
+          "endUid": "u1055",
+          "quote": "DM: So first attempt, first day, your scrying attempt on Vola fails. Can try—you can't try it again."
+        },
+        {
+          "startUid": "u1062",
+          "endUid": "u1065",
+          "quote": "DM: You see, you do see Hektor in the sort of late afternoon before you may, you know, while you're making camp. They are traveling same time as it is for you. So not too far east or west of you."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "late afternoon"
+      },
+      "actors": [
+        "Delwath",
+        "Hektor",
+        "Vola"
+      ],
+      "note": "“First day” follows the retrospective two-day setup; the dated session note instead lists Hektor’s scry on November 17. The transcript reading is retained."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1115",
+        "endUid": "u1129"
+      },
+      "reading": "Another next morning begins with prayer and Johar’s report that he is summoned to Karnas that day.",
+      "evidence": [
+        {
+          "startUid": "u1115",
+          "endUid": "u1129",
+          "quote": "DM: So the next day continues much the same. Falling into the routine, Riswynn wakes up and prays to the, the gods to ask them to remove the curse on Havdar. And not this morning. No answer. And you speak with Johar again. Who says, \"I, I will—\" \"I’m summoned to speak with Karnas today.\n\nUnknown: I.\n\nDM: I can say more later. That wizard came and a Mystai guard visited me.\""
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "morning"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1181",
+        "endUid": "u1188"
+      },
+      "reading": "After the third day’s travel and ninety miles total, Johar reports Karnas’s accusation that evening.",
+      "evidence": [
+        {
+          "startUid": "u1165",
+          "endUid": "u1180",
+          "quote": "DM: You take a detour around them quite easy, given, you know, Wellby's skill, and you know, just scouting and everything, and you know they don't—they don't spot you at all. You go back to the party. You lead them a little way south past the rise of the land. A, you know, a good—you know, a good few miles south of them. Easy to avoid and cover now another 30 miles. So having gone about 90 miles total, you are now approaching Raven's Hold. You're—you're maybe a little bit—a day and a half travel from Raven's Hold."
+        },
+        {
+          "startUid": "u1181",
+          "endUid": "u1188",
+          "quote": "DM: And that evening, speaking with Johar, he says, \"Nayan Karnas paranoid. Says Sura, brought by foreigners from the lair of an evil witch, evidence that Agata planned to replace me with a puppet.\""
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "evening"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1230",
+        "endUid": "u1232"
+      },
+      "reading": "Travel continues to a scouting camp south of Raven’s Hold, reached mid-afternoon on the fourth day; “midday” is immediately corrected.",
+      "evidence": [
+        {
+          "startUid": "u1230",
+          "endUid": "u1232",
+          "quote": "DM: So over the course of the next couple of days—next day and a half, if you want to make another divine intervention roll."
+        },
+        {
+          "startUid": "u1303",
+          "endUid": "u1317",
+          "quote": "DM: So over the next day again you continue riding. Aiming for a point like you know, 10 miles south of Raven's Hold, something like that, somewhere not obviously recognizable. But where you can do a little bit of scouting, and you know by midday on your—by, say, mid afternoon on your fourth day of travel, you sort of come to a point where, if you made camp here, you could spend a little time scouting, exploring a little bit, and then still have, like 4 days of travel to get to—get to the Tower."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "mid afternoon"
+      },
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "The later narration says over the next day and fixes arrival on the fourth day; the earlier day-and-a-half wording is approximate."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "The later fourth-day anchor controls the working day; the earlier approximate day-and-a-half does not add an extra calendar day."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1517",
+        "endUid": "u1543"
+      },
+      "reading": "The next four travel days after scouting Raven’s Hold are resolved as a montage, ending at the enlarged storm.",
+      "evidence": [
+        {
+          "startUid": "u1517",
+          "endUid": "u1543",
+          "quote": "DM: Okay. So over the next 4 days, vigorous grasses—over the next 4 days, you, you sort of get, after a scouting Raven’s Hold, you sort of get into this routine of prayer, sending, prayer, scrying, prayer, sending, like, you, you do have to like, dodge out of the way of—there's more people now that you've passed Raven's Hold, so you do spend, you know some, but you know Wellby is pretty much on top of it, and nobody sneaks up when you know nobody is catching you unawares. You have to make a couple of detours to avoid encountering people. You don't necessarily want to get into conversations with.\n\nDM: And the travel, you know, passes peacefully, really, until you start to see from, you know, 30 miles off, the growing thundercloud in the on the horizon that is much bigger than it was before. Yes, and as you approach—yeah, Riswynn, roll four more divine interventions. And then we can do a few communes and scries and sendings and stuff."
+        },
+        {
+          "startUid": "u1734",
+          "endUid": "u1737",
+          "quote": "DM: So let's just refocus a little bit, so it's mid afternoon when you arrive here a few days later. If there's any other like scrying or information you want to get from the travel, and you certainly can get more information. We don't have to play it all out. But like if this stuff you want to know or are you happy with the state of your knowledge?"
+        },
+        {
+          "startUid": "u1758",
+          "endUid": "u1770",
+          "quote": "DM: Okay. So you arrive. You arrive at the storm. It is before you reach out or anything like it is a good, probably a few extra miles across than it was before, and much more like intense and lightning-y than you—than you remember. Like this storm has clearly grown, and it's, it's been raining. And so there's like mud everywhere. There's like little pools forming. There's rivulets of of just like mud, and it's, it's not a—it's not really the like—outskirts of this storm are not really a particularly pleasant place to set up camp, but like you can, you know, you find a sort of dry area, so you can—you can a poker, you know, you can—plan your attack, and you know, make some—"
+        }
+      ],
+      "duration": {
+        "value": 4,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "DM’s completed four-day travel montage"
+      },
+      "dateBoundaries": 4,
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1546",
+        "endUid": "u1560"
+      },
+      "reading": "Play returns inside the travel montage to the morning after Raven’s Hold, when Havdar is freed; the DM dates it November 20.",
+      "evidence": [
+        {
+          "startUid": "u1546",
+          "endUid": "u1560",
+          "quote": "DM: The day after Raven's Hold as you're as you're breaking camp before leaving Raven's, Riswynn is praying in the vigorous grass. Yes. Riswynn is praying for—for Havdar to be—Havdar to be freed of his curse, give you a release from whatever, whatever spell or whatever magic of this sword is is binding him. And everybody's—you've gotten sort of used to Riswynn praying every morning and nothing happening. So everybody's kind of going about their business, making breakfast, packing camp."
+        },
+        {
+          "startUid": "u1597",
+          "endUid": "u1603",
+          "quote": "DM: So after the dramatic events of the morning of November twentieth, when Havdar was uncursed, you spend the rest of the journey still dodging people and riding across the plains, scrying, sending, communing. What do you want? What questions do you want to ask?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "November twentieth and morning are spoken; the year is not spoken",
+        "partOfDay": "morning",
+        "date": {
+          "month": 11,
+          "day": 20
+        }
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t11"
+        }
+      ],
+      "actors": [
+        "party",
+        "Havdar"
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1636",
+        "endUid": "u1659"
+      },
+      "reading": "During the lunch break that same day, Delwath’s first scry after the cure finds Havdar praying in his tent.",
+      "evidence": [
+        {
+          "startUid": "u1636",
+          "endUid": "u1659",
+          "quote": "DM: So, so you see late the, the first first attempt after he is uncursed when you break for lunch that day, you see him just—he's got—he's sitting in his tent. He's no nobody in or out. There's nobody else in the tent, and he has about like 20 of these like little sculpted figures of Dunmari gods. So like not just—so often many Dunmari—you, you've seen this in a few places will carry around these little wooden sculpted figures, or painted or clay figures of of the gods they set up as like little traveling altars. And he's got not just his, but like he's obviously asked other people, or he has gotten him from his troop or something. There was like this just big forest of god statues in front of him, and he's just praying, both thanks, and also wondering why, like what did the dwarves—what do the dwarfs want with him? And what does it all mean? He seems confused or unsettled but not necessarily in a bad way."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "midday"
+      },
+      "actors": [
+        "Delwath",
+        "Havdar"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1660",
+        "endUid": "u1680"
+      },
+      "reading": "Later that day the party sets up camp while Havdar has dinner with Sura and trusted followers.",
+      "evidence": [
+        {
+          "startUid": "u1660",
+          "endUid": "u1680",
+          "quote": "DM: Later, you, you see him. You scry him when he’s having dinner with, as you’re setting up camp, when he’s having dinner with Sura and a few other of his most trusted followers are Faram, who you met, a couple of others and they seem to be talking about the sword. You seem to have come in in the middle of a conversation, and, and Havdar is saying, \"Clearly it was cursed. That must have been the Chardonians. Who else would it have been? I would trust the whatever you guys are called, Delwath and Seeker and Wellby and all them with my life. They saved me several times. Kind of—they wouldn’t have done this. It must have been—\""
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "evening"
+      },
+      "actors": [
+        "party",
+        "Havdar",
+        "Sura"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1734",
+        "endUid": "u1737"
+      },
+      "reading": "Narration resumes the storm arrival a few days after Havdar’s cure, in mid-afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1734",
+          "endUid": "u1737",
+          "quote": "DM: So let's just refocus a little bit, so it's mid afternoon when you arrive here a few days later. If there's any other like scrying or information you want to get from the travel, and you certainly can get more information. We don't have to play it all out. But like if this stuff you want to know or are you happy with the state of your knowledge?"
+        },
+        {
+          "startUid": "u1758",
+          "endUid": "u1770",
+          "quote": "DM: Okay. So you arrive. You arrive at the storm. It is before you reach out or anything like it is a good, probably a few extra miles across than it was before, and much more like intense and lightning-y than you—than you remember. Like this storm has clearly grown, and it's, it's been raining. And so there's like mud everywhere. There's like little pools forming. There's rivulets of of just like mud, and it's, it's not a—it's not really the like—outskirts of this storm are not really a particularly pleasant place to set up camp, but like you can, you know, you find a sort of dry area, so you can—you can a poker, you know, you can—plan your attack, and you know, make some—"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "mid afternoon"
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1834",
+        "endUid": "u1836"
+      },
+      "reading": "The question about reversing Cleansing is assigned retrospectively to yesterday’s travel Communes; today’s questions remain available.",
+      "evidence": [
+        {
+          "startUid": "u1834",
+          "endUid": "u1836",
+          "quote": "Riswynn: Oh, so about the uncleansing, is uncleansing possible?\n\nDM: Okay. So this will be yesterday's questions. And then today you'll still have today's question. Unclear."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM explicitly assigns this question to yesterday",
+        "relative": {
+          "relation": "before",
+          "reference": "t15",
+          "anchor": "The day before storm arrival"
+        }
+      },
+      "context": "flashback",
+      "actors": [
+        "Riswynn"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1889",
+        "endUid": "u1890"
+      },
+      "reading": "After the travel Communes, narration explicitly returns to the present storm-camp problem.",
+      "evidence": [
+        {
+          "startUid": "u1889",
+          "endUid": "u1890",
+          "quote": "DM: So switching from the dwarven gods, we've got an augury thing to ask about, like, but now we're back to the—what are you going to do about this storm?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Explicit return to the storm after retrospective travel questions",
+        "relative": {
+          "relation": "after",
+          "reference": "t15",
+          "anchor": "The same storm-camp planning scene"
+        }
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t15"
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2174",
+        "endUid": "u2184"
+      },
+      "reading": "Wellby watches the storm for about half an hour without finding a predictable pattern.",
+      "evidence": [
+        {
+          "startUid": "u2174",
+          "endUid": "u2184",
+          "quote": "DM: Like it'll grow stronger, and there will be a few minutes where you're watching, and there's this.\n\nUnknown: You know.\n\nDM: Blasts of thunder and lightning striking, you know, 10 times within a minute, and then it’ll be not calm, but the lightning will stop, and the winds will settle for a bit, and you'll hear the rain for 10 min, and then it sort of ebbs and flows in this way. But like even watching it for like half an hour, you can't pick up any distinguishing feature that determines when it's going to go intense or or a—"
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM describes the completed observation"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u2264",
+        "endUid": "u2276"
+      },
+      "reading": "About four minutes into Seeker’s Clairvoyance, the view shifts from the tower room into Hralgar’s dream; the spell later ends.",
+      "evidence": [
+        {
+          "startUid": "u2264",
+          "endUid": "u2276",
+          "quote": "DM: And then the—what you're seeing through the clairvoyance sensor shifts like about 4 min in or something, maybe halfway through the spell, and you see—you see a clear mountain range. You see mountains stretching in the distance to the north and the south, a huge stone staircase leading up to a open like temple-like platform."
+        },
+        {
+          "startUid": "u2298",
+          "endUid": "u2309",
+          "quote": "DM: Holding this, this like staff, cane, which is like 4 times taller than Seeker is, and like stopping and sort of looking, looking almost confused like, \"Why is it, you know, why can’t I see?\" As he sort of feels his way down the steps. And then just sits and like, puts his, his head in his hand, sitting on these steps, and the spell ends.\n\nWellby: How does that map to what the storm is doing?\n\nDM: Good question. It's definitely calmer for the second half of the vision. I mean calmer here is a relative term, though."
+        }
+      ],
+      "duration": {
+        "value": 4,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM gives about four minutes to the change, approximately halfway through the spell"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "note": "The total spell time is not independently fixed; no rules-derived ten minutes are added."
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2441",
+        "endUid": "u2449"
+      },
+      "reading": "Kenzo completes a few minutes of Augury meditation and senses both good and bad potential.",
+      "evidence": [
+        {
+          "startUid": "u2441",
+          "endUid": "u2449",
+          "quote": "DM: Meditate and—so you meditate on this, trying to sense whether reaching to—reaching to Hralgar through the dream world would be good or bad, and, and you feel—you feel certain, after a few minutes of meditating, that this has the potential for both good and bad."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Completed meditation is explicitly described"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u2555",
+        "endUid": "u2559"
+      },
+      "reading": "The party remains camped before the storm as the sun sinks toward evening.",
+      "evidence": [
+        {
+          "startUid": "u2555",
+          "endUid": "u2559",
+          "quote": "DM: All right. So we will end there as you camp before the storm, preparing, as it—as the sun sinks towards evening. And we will pick up again. Oh, we didn't—do we have another session scheduled, right?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated part of day",
+        "partOfDay": "toward evening"
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "November 20 is independently spoken for Havdar’s cure. The year and current reunion date come from YAML; fourth-day and four-day travel anchors fit November 15–23. The opening forest examinations are explicitly earlier but have no spoken adventure dates.",
+    "expectedDateBoundaries": 8,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t06",
+      "t08",
+      "t10",
+      "t11",
+      "t12",
+      "t15",
+      "t21"
+    ],
+    "explanation": "The current reunited-party track supports eight calendar transitions conditional on YAML’s start. The earlier played forest examinations leave the overall start boundary open; historical events shown within their visions do not extend adventure time. Retrospective scries, the November 20 scenes and yesterday’s Commune are nested, not added days."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02"
+      ],
+      "reading": "Whether the metadata span describes only the resumed reunion journey or all played retrospective examinations remains unresolved.",
+      "alternatives": [
+        {
+          "reading": "Current reunited-party journey starts on the YAML date.",
+          "date": "1748-11-15"
+        },
+        {
+          "reading": "Including the earlier forest examinations moves the covered beginning earlier; the current transcript supplies no exact date."
+        }
+      ]
+    }
+  ]
+}
