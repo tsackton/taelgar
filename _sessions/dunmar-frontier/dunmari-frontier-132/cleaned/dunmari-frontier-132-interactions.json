@@ -1,0 +1,964 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "47c33f632686e0e0e55bc5edcad47aa506f7427cd4a4dc680aaf3803f5da6f19"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-entity-map.json",
+      "sha256": "7c79b7e2da2cf915b11bdd42f4c539677a25589e5da434135c2c23bea88ab7d3"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Whether to release the hobgoblin wizard",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0468",
+        "endUid": "u0478"
+      },
+      "lines": [
+        "%% u0468:0-21, u0469:0-18, u0470:0-54, u0471:0-14 %%",
+        "Delwath: ((Diplomacy aside)) The other question is, are we releasing our Hobgoblin… Wizard person.",
+        "",
+        "%% u0472:0-5 %%",
+        "Wellby: Yeah!",
+        "",
+        "%% u0473:0-33 %%",
+        "Kenzo: Feels like… maybe not, right now.",
+        "",
+        "%% u0474:0-20 %%",
+        "Seeker: Definitely, yes. Oh.",
+        "",
+        "%% u0475:0-23 %%",
+        "Delwath: I-I was gonna say… yes.",
+        "",
+        "%% u0476:0-138 %%",
+        "Wellby: It's like, well, we're gonna release her, and she's just gonna immediately teleport away into the world, and that will be the end of that.",
+        "",
+        "%% u0477:0-23, u0478:0-74 %%",
+        "Kenzo: Yeah… or… I just… yeah. Feels like we do that when we have a little more control of the situation."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: This is a Seeker, we're up to Seeker 5, yes.",
+          "Delwath: Right, and this Seeker will come into being without a 7th level spell, but with an 8th level spell. So if we wanted… This Seeker could…",
+          "DM: Animal Shapes with his dummy.",
+          "Delwath: You could do two animal shapes to get twice as many people, and you could have a beast army of, like, 500.",
+          "Seeker: So we're not trying diplomacy, is what you're saying."
+        ],
+        "after": [
+          "DM: Okay, so…",
+          "Delwath: Anyway.",
+          "DM: Let's move, let's move forward.",
+          "Kenzo: That's actually a good point.",
+          "Delwath: At the moment, we're just going to bed. Seeker's waking up. I'm dreaming to…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Martin’s dream counsel and army morale",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0484",
+        "endUid": "u0495"
+      },
+      "lines": [
+        "%% u0484:0-58, u0485:0-206, u0486:0-108, u0487:0-151 %%",
+        "DM: ((Rest bookkeeping)) Over the… over the evening, over the night, Delwath talks to Martin Strongbow, the captain, have a long conversation about battle strategy and how to use both… beasts and the Mirage Arcane defensively, and he makes a bunch of suggestions and says he'll think about it. Discuss with a few of his advisors, and we'll have a plan ready for you by the time you arrive tomorrow night. He says the morale of the army is high.",
+        "",
+        "%% u0488:0-103, u0489:0-142, u0490:0-49, u0491:0-34 %%",
+        "DM: Everybody's… they've… Rangers have… I mean, historically, they have protected the Heartroot in part by… secrecy, but now they've basically just told everybody to give the army something to fight for. So everybody is extremely motivated to prevent the Empress of Chaos from reaching the Heartroot. Still a few more troops expected…",
+        "",
+        "%% u0492:0-198, u0493:0-12, u0494:0-79, u0495:0-47 %%",
+        "DM: Over the course of the day tomorrow, but at that point, it'll probably be too late for any more troops to move across the plateau. ((Waking and spell preparation))"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, so…",
+          "Delwath: Anyway.",
+          "DM: Let's move, let's move forward.",
+          "Kenzo: That's actually a good point.",
+          "Delwath: At the moment, we're just going to bed. Seeker's waking up. I'm dreaming to…"
+        ],
+        "after": [
+          "Seeker: I can always, use the glove, actually.",
+          "DM: Yeah, you can use the glove to… turn whatever you want, whatever spell you might otherwise cast into ice. Just, you know…",
+          "Delwath: Delwath can also make ice.",
+          "DM: Right. And shapes Seeker 5 out of ice, and sits down to begin casting. Which does require one of your… ruby components. Of which you have 6, so now you have 5. I'll update that on your character sheet.",
+          "DM: Meanwhile, the three… the rest of you watch as the… the last few people at camp pack up. Marcella comes by and, you know, prepares to set out for the Heartroot Fortress. So she'll see you there, hopes to get a chance to say hi to Hektor before the battle. Cateline Malras, the… priestess of the Fox and Hunter, the sort of older woman, spiritual leader, is also leaving with Marcella. Gives you a… grateful acknowledgement and a sort of… nod of thanks. Grasps Kenzo's hand in particular, after your experiences with the probing the Heartroot, and… Also says, you know, she will be happy to… to speak more after this… moment of danger has passed, particularly to Kenzo, because you had said earlier that you wanted to talk to some of the rangers about the Heartroot."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Marcella and Cateline leave Three Wells",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0506",
+        "endUid": "u0520"
+      },
+      "lines": [
+        "%% u0506:0-53, u0507:0-36, u0508:0-81, u0509:0-24, u0510:0-60, u0511:0-21, u0512:0-106, u0513:0-67, u0514:0-94, u0515:0-68, u0516:0-28, u0517:0-119 %%",
+        "DM: Meanwhile, the three… the rest of you watch as the… the last few people at camp pack up. Marcella comes by and, you know, prepares to set out for the Heartroot Fortress. So she'll see you there, hopes to get a chance to say hi to Hektor before the battle. Cateline Malras, the… priestess of the Fox and Hunter, the sort of older woman, spiritual leader, is also leaving with Marcella. Gives you a… grateful acknowledgement and a sort of… nod of thanks. Grasps Kenzo's hand in particular, after your experiences with the probing the Heartroot, and… Also says, you know, she will be happy to… to speak more after this… moment of danger has passed, particularly to Kenzo, because you had said earlier that you wanted to talk to some of the rangers about the Heartroot.",
+        "",
+        "%% u0518:0-9 %%",
+        "Kenzo: Oh, yeah.",
+        "",
+        "%% u0519:0-129, u0520:0-17 %%",
+        "DM: Now, at this moment of danger, she says is not the time to sit around the fire and tell stories, but she's looking forward to it after the battle."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Over the course of the day tomorrow, but at that point, it'll probably be too late for any more troops to move across the plateau. And as you all wake up in the morning, Seeker at the crack of dawn… goes to his… pulls out all the tricks you used to produce ice when you were an ice addict, using… I don't know, whatever cantrip you have.",
+          "Seeker: I can always, use the glove, actually.",
+          "DM: Yeah, you can use the glove to… turn whatever you want, whatever spell you might otherwise cast into ice. Just, you know…",
+          "Delwath: Delwath can also make ice.",
+          "DM: Right. And shapes Seeker 5 out of ice, and sits down to begin casting. Which does require one of your… ruby components. Of which you have 6, so now you have 5. I'll update that on your character sheet."
+        ],
+        "after": [
+          "DM: And you wait… By noon, the camp has pretty much emptied. You can see, and you see on the horizon, the… hull of Vindristjarna cresting over… cresting through some clouds and beginning to descend towards you as Seeker sits, chanting next to this pile of ice that's slowly forming into a construct. By 4pm, as the spell finishes, Vindristjarna has arrived, everybody's… happy to see you again, Faldrak jumps down, ready to charge into battle. Quite interested and a little bit jealous of your stories of tsunamis and earthquakes and… Chaos Metal. Gives… gives Seeker a little knowing glance when you mention Chaos Metal. You have a… you have a sample, right?",
+          "Seeker: We'll make some things.",
+          "DM: Dope. Yeah, they don't… the rest of them don't need to know. It's fine.",
+          "DM: And as Seeker 5 materializes just after 4pm, you… all climb onto Vindristjarna and begin heading for the escarpment. From this camp, you're talking maybe… maybe 4… 3… maybe 4 hours. So about 8PM, a little after 8pm, you would reach the sort of closest point as the… skyship flies. Right, which would be… Which would be something like… Like, here. Roughly, if you can… well, Schwartz is the only one in Roll20, so… But that's a likely…",
+          "Delwath: Logical gap."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Faldrak welcomes the party’s stories",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0521",
+        "endUid": "u0533"
+      },
+      "lines": [
+        "%% u0521:0-56, u0522:0-45, u0523:0-91, u0524:0-101, u0525:0-70, u0526:0-72, u0527:0-104, u0528:0-73, u0529:0-37 %%",
+        "DM: ((Camp disperses and Vindristjarna arrives)) Faldrak jumps down, ready to charge into battle. Quite interested and a little bit jealous of your stories of tsunamis and earthquakes and… Chaos Metal. Gives… gives Seeker a little knowing glance when you mention Chaos Metal. You have a… you have a sample, right?",
+        "",
+        "%% u0530:0-23 %%",
+        "Seeker: We'll make some things.",
+        "",
+        "%% u0531:0-5, u0532:0-54, u0533:0-10 %%",
+        "DM: Dope. Yeah, they don't… the rest of them don't need to know. It's fine."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Delwath can also make ice.",
+          "DM: Right. And shapes Seeker 5 out of ice, and sits down to begin casting. Which does require one of your… ruby components. Of which you have 6, so now you have 5. I'll update that on your character sheet.",
+          "DM: Meanwhile, the three… the rest of you watch as the… the last few people at camp pack up. Marcella comes by and, you know, prepares to set out for the Heartroot Fortress. So she'll see you there, hopes to get a chance to say hi to Hektor before the battle. Cateline Malras, the… priestess of the Fox and Hunter, the sort of older woman, spiritual leader, is also leaving with Marcella. Gives you a… grateful acknowledgement and a sort of… nod of thanks. Grasps Kenzo's hand in particular, after your experiences with the probing the Heartroot, and… Also says, you know, she will be happy to… to speak more after this… moment of danger has passed, particularly to Kenzo, because you had said earlier that you wanted to talk to some of the rangers about the Heartroot.",
+          "Kenzo: Oh, yeah.",
+          "DM: Now, at this moment of danger, she says is not the time to sit around the fire and tell stories, but she's looking forward to it after the battle."
+        ],
+        "after": [
+          "DM: And as Seeker 5 materializes just after 4pm, you… all climb onto Vindristjarna and begin heading for the escarpment. From this camp, you're talking maybe… maybe 4… 3… maybe 4 hours. So about 8PM, a little after 8pm, you would reach the sort of closest point as the… skyship flies. Right, which would be… Which would be something like… Like, here. Roughly, if you can… well, Schwartz is the only one in Roll20, so… But that's a likely…",
+          "Delwath: Logical gap.",
+          "DM: there's a map involved.",
+          "Delwath: Yeah, yeah, yeah.",
+          "DM: So, of course, it's hard to predict where… Where they will… appear? You know, from Vindristjarna, you've got pretty good sight lines, although, of course it's dark. So you begin to set out, heading, so you're currently here. And it's about 40 miles."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "A captured worm and withdrawal",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1287",
+        "endUid": "u1293"
+      },
+      "lines": [
+        "%% u1287:0-58, u1288:0-116, u1289:0-51, u1290:0-22 %%",
+        "DM: The… squiggling worm drops onto the deck of Vindristjarna. ((Combat resolution)) Are you just running at this point? ((Combat resolution))",
+        "",
+        "%% u1291:0-11 %%",
+        "Seeker: Yeah, yeah.",
+        "",
+        "%% u1292:0-60 %%",
+        "DM: ((Combat aftermath)) We're turning at this point?",
+        "",
+        "%% u1293:0-17 %%",
+        "Seeker: Gone up and away."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: 27.",
+          "DM: Okay, so Kenzo and Wellby continue to take no damage. Delwath takes 12 points of fire damage, and… 9 points of piercing damage, Seeker takes 24 points of fire damage, and 19 points of piercing damage.",
+          "Seeker: Ouch. My 24 plus 19 is 43.",
+          "DM: Yep.",
+          "Seeker: Whoa."
+        ],
+        "after": [
+          "Delwath: Wait, can we see through the ice shield?",
+          "DM: Seeker can, the rest of you can't. Or Faldrak can. Seeker and Faldrak can.",
+          "Delwath: Okay.",
+          "DM: Because they can do their project consciousness. I mean… I mean, it's a wall.",
+          "Delwath: Yeah, yeah, yeah, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Examining and containing Chaos Metal",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1342",
+        "endUid": "u1529"
+      },
+      "lines": [
+        "%% u1342:0-29, u1343:0-81, u1344:0-24, u1345:0-55, u1346:0-9, u1347:0-114, u1348:0-13, u1349:0-54 %%",
+        "DM: Okay, so as you begin to run… so, it's… like, it… what it looks like when it… when you first get it, it's like… a long… metallic shell that has, like, spikes and handholds growing out of it. It looks… you know, it looks… it almost looks like a miniature version of the centipede once you get it up close. It's like… Much smaller. Segmented, sort of squirming around a little bit, but…",
+        "",
+        "%% u1350:0-72, u1351:0-22, u1352:0-39, u1353:0-76, u1354:0-82, u1355:0-28, u1356:0-94, u1357:0-39, u1358:0-51 %%",
+        "DM: As you get… as you begin to flee and you get further away, it starts to… decohere a little bit. Like… it almost looks like there'll be… like, bubbles that, like a… just a… like, a bubble pops out of… weird, like… a bubble of… it looks like mercury or something like that. There'll just be, like… bubbles sticking out of its… of its back, and then it'll collapse back in, and 3 more will spring out. It just… it's kinda… like, almost, like, pulsating and… and… hissing. You begin to hear a sort of hissing noise.",
+        "",
+        "%% u1359:0-68, u1360:0-116, u1361:0-28 %%",
+        "DM: As Vindristjarna begins to move further away, suddenly stops moving. And it, like, begins almost dripping. It's like the clock in Dalí, in the Dalí painting that just sort of starts to… drip almost across the deck.",
+        "",
+        "%% u1362:0-90, u1363:0-74 %%",
+        "DM: This is after maybe 5 minutes. There doesn't seem to be any… like, it's not… you can… use… I don't know what you use, but you can poke, you know, pokers or whatever.",
+        "",
+        "%% u1364:0-25 %%",
+        "Delwath: Mage Hand, can I pick up?",
+        "",
+        "%% u1365:0-25, u1366:0-15, u1367:0-103 %%",
+        "DM: A mage hand just… [garbled]. Well, it's not. It's almost rubbery when you try and pick it up with mage hand. Like, it stretches, then it snaps back.",
+        "",
+        "%% u1368:0-39 %%",
+        "Seeker: Let's try to store some in a container.",
+        "",
+        "%% u1369:0-49, u1370:0-22 %%",
+        "DM: It's like… it's like mercury mixed with Play-Doh. Or oobleck, it's like…",
+        "",
+        "%% u1371:0-8 %%",
+        "((Banter and mechanics))",
+        "",
+        "%% u1372:0-24 %%",
+        "DM: Oobleck made of mercury.",
+        "",
+        "%% u1373:0-12 %%",
+        "Delwath: Is it magic?",
+        "",
+        "%% u1374:0-11, u1375:0-14 %%",
+        "((Banter and mechanics))",
+        "",
+        "%% u1376:0-62 %%",
+        "DM: It is… It is ex- it is not from this plane. It is extraplanar.",
+        "",
+        "%% u1377:0-4 %%",
+        "((Banter and mechanics))",
+        "",
+        "%% u1378:0-26 %%",
+        "Delwath: It's from Limbo, isn't it?",
+        "",
+        "%% u1379:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1380:0-38, u1381:0-85 %%",
+        "Delwath: Can we Plane Shift to Limbo with this? I mean, that seems like a horrible idea, and why would we want to? But… can we plane…",
+        "",
+        "%% u1382:0-22 %%",
+        "Seeker: To reserve the option.",
+        "",
+        "%% u1383:0-64 %%",
+        "DM: Very likely could use this as a… to make a focus for Limbo, yes.",
+        "",
+        "%% u1384:0-18 %%",
+        "Delwath: We should do that.",
+        "",
+        "%% u1385:0-44 %%",
+        "Seeker: We… we'll bottle a little bit of this thing.",
+        "",
+        "%% u1386:0-53 %%",
+        "Delwath: Does it sever with, like, if you cut it with a sword?",
+        "",
+        "%% u1387:0-35 %%",
+        "DM: Do you try cutting it with a sword?",
+        "",
+        "%% u1388:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u1389:0-37 %%",
+        "DM: Who's… who's cutting it with a sword?",
+        "",
+        "%% u1390:0-106 %%",
+        "Wellby: Pull a spare sword from the armory? I feel like I'm… I'm quick. Yeah, I'll run over and chop a corner off.",
+        "",
+        "%% u1391:0-22, u1392:0-67, u1393:0-17, u1394:0-16, u1395:0-7, u1396:0-14, u1397:0-22, u1398:0-32, u1399:0-10, u1400:0-50, u1401:0-61, u1402:0-20, u1403:0-39, u1404:0-21 %%",
+        "((Banter and mechanics))",
+        "",
+        "%% u1405:0-96, u1406:0-22, u1407:0-95, u1408:0-17, u1409:0-111, u1410:0-84 %%",
+        "DM: ((Reroll mechanics)) You dodge out of the way just in time as, like, a… burst of some kind of… vapor shoots out of the place where you cut it, and then you see this, like, little dribble of… of, like, liquid… sort of bubbling out, and then dribbling out, and it then kind of forms, and it, like, solidifies very quickly. But you dodge out of the way of the burst of vapor, it does not hit you in the face.",
+        "",
+        "%% u1411:0-68, u1412:0-61 %%",
+        "Seeker: Think what we could get from the Philosopher's Guild for this thing. I mean, is it a creature or an object? Like, what even is it?",
+        "",
+        "%% u1413:0-92, u1414:0-90, u1415:0-82 %%",
+        "DM: It's now stopped moving after about 10… it has no… Kenzo tried Soul Sighting, and it has no… consciousness or soul of any kind. It's… it seems like it's… A construct. A construct, or… like, a vehicle, or… it's hard to say exactly what it is, but it's not a creature.",
+        "",
+        "%% u1416:0-65 %%",
+        "Seeker: Now that I'm wearing my goggles, I suppose I could cast Identify.",
+        "",
+        "%% u1417:0-31 %%",
+        "DM: You… yes, you have to touch it.",
+        "",
+        "%% u1418:0-11 %%",
+        "Seeker: I touch it.",
+        "",
+        "%% u1419:0-39, u1420:0-8, u1421:0-53 %%",
+        "((Banter and mechanics))",
+        "",
+        "%% u1422:0-18, u1423:0-92, u1424:0-53, u1425:0-72 %%",
+        "DM: ((Saving throw)) You feel… your hand feels weird as you touch it to identify it. Like, it starts to get… cold, and a little bit… numb? But you just kind of… shake off the effect. For a minute. Kinda like it.",
+        "",
+        "%% u1426:0-4 %%",
+        "Seeker: Yep.",
+        "",
+        "%% u1427:0-82, u1428:0-109 %%",
+        "DM: Like, for a minute, it almost looks like your hand is beginning to… change… shape? Like, shift into who knows what, but then you, like, concentrate, and you hold on, and nothing happens to it.",
+        "",
+        "%% u1429:0-49, u1430:0-18, u1431:0-62, u1432:0-28 %%",
+        "DM: Your Identify spell reveals this is… Chaos Metal. It is… from Limbo. What it… I mean, it's not a magic item, it doesn't have, like… Uses or anything, but it is…",
+        "",
+        "%% u1433:0-61, u1434:0-28, u1435:0-24, u1436:0-26, u1437:0-30, u1438:0-31, u1439:0-40, u1440:0-95 %%",
+        "DM: So you do learn a few crucial things. It is… Quite dangerous. It is, it is a sort of… wow… disruptor of permanence. It is not… it just causes… You might say chaos to spread. It can shift form, it can shift phase, from vapor to liquid to solid to… plasma to the three other phases of matter that only exist in Limbo, that are hard to describe.",
+        "",
+        "%% u1441:0-18 %%",
+        "Seeker: Whoa, I like that.",
+        "",
+        "%% u1442:0-47, u1443:0-62, u1444:0-61 %%",
+        "DM: But it is very dangerous to work with, because… Unless you are… unless it is properly controlled, it can also… change and disrupt organic matter it comes into contact with.",
+        "",
+        "%% u1445:0-12 %%",
+        "Seeker: In what way?",
+        "",
+        "%% u1446:0-35 %%",
+        "DM: It's chaotic, it's hard to predict.",
+        "",
+        "%% u1447:0-17 %%",
+        "Seeker: Oh, that's great.",
+        "",
+        "%% u1448:0-83, u1449:0-28 %%",
+        "DM: And you also get the sense that the further away you get from the Empress of Chaos, the less controlled this is.",
+        "",
+        "%% u1450:0-87, u1451:0-22 %%",
+        "DM: Like, you can tell this from your Identify spell, she is exerting some kind of control over this Chaos Metal.",
+        "",
+        "%% u1452:0-93 %%",
+        "Delwath: When we kill her, is it gonna be really bad, and all the Chaos Metal is gonna go crazy chaos?",
+        "",
+        "%% u1453:0-43 %%",
+        "Seeker: Well, this thing sort of shut down, though.",
+        "",
+        "%% u1454:0-104, u1455:0-62 %%",
+        "DM: It is all… yeah, I mean, it's shutting down. It is also shutting down the further away from her you get. Right, okay. You just want to be careful with it, like, don't…",
+        "",
+        "%% u1456:0-43 %%",
+        "Seeker: It's not gonna, like, explode or something.",
+        "",
+        "%% u1457:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u1458:0-19 %%",
+        "DM: No, no, it doesn't.",
+        "",
+        "%% u1459:0-13 %%",
+        "Seeker: Or fly apart.",
+        "",
+        "%% u1460:0-8 %%",
+        "DM: Explode.",
+        "",
+        "%% u1461:0-42 %%",
+        "Delwath: You know, it becomes inert, but dangerous.",
+        "",
+        "%% u1462:0-53 %%",
+        "DM: Yeah, yeah, yeah, if somebody, you know, if somebody…",
+        "",
+        "%% u1463:0-38 %%",
+        "Delwath: Don't try and forge a sword out of it.",
+        "",
+        "%% u1464:0-6 %%",
+        "DM: Right.",
+        "",
+        "%% u1465:0-19 %%",
+        "Delwath: Yes, don't lick it.",
+        "",
+        "%% u1466:0-4 %%",
+        "Kenzo: Aww.",
+        "",
+        "%% u1467:0-74, u1468:0-67 %%",
+        "((Banter and mechanics))",
+        "",
+        "%% u1469:0-56, u1470:0-92 %%",
+        "Kenzo: Right. And so, the whole, like, coming from limbo thing. Limbo? Is that the ca- like, you know, is that from when we, like, gave, Fausto the scrolls?",
+        "",
+        "%% u1471:0-23 %%",
+        "Delwath: No, that's pandemonium.",
+        "",
+        "%% u1472:0-54 %%",
+        "DM: Pandemonium? Limbo was, like, Cha'mutte's home domain.",
+        "",
+        "%% u1473:0-22 %%",
+        "Delwath: What's the difference?",
+        "",
+        "%% u1474:0-25 %%",
+        "Seeker: Difference between Limbo.",
+        "",
+        "%% u1475:0-22 %%",
+        "Delwath: And Pandemonium again?",
+        "",
+        "%% u1476:0-48, u1477:0-42, u1478:0-104, u1479:0-50 %%",
+        "DM: Limbo is just, like, pure chaos. It's like… the… the plane of disorder. It's the… it's the… But it also tends to have, like, a little bit of an elemental… it's like… has… it's not associated with… like, madness, or the mind, or anything like that.",
+        "",
+        "%% u1480:0-113, u1481:0-74, u1482:0-88 %%",
+        "DM: Pandemonium is not so much chaos, it's… it's madness. It's associated with, like… lycanthropy and werewolves and… insanity. It's known for… Pandemonium is known for the howling winds that… make it almost impossible to think on the plane. Limbo is just… complete chaos and just…",
+        "",
+        "%% u1483:0-76 %%",
+        "Delwath: It's more like elemental chaos, and Pandemonium is more like directed chaos.",
+        "",
+        "%% u1484:0-11, u1485:0-16 %%",
+        "DM: Yeah, yeah. I mean, they're…",
+        "",
+        "%% u1486:0-17 %%",
+        "Delwath: Malicious, right?",
+        "",
+        "%% u1487:0-57 %%",
+        "Seeker: Pandemonium's more malicious than limbo. More evil, yeah.",
+        "",
+        "%% u1488:0-82, u1489:0-49, u1490:0-125, u1491:0-58 %%",
+        "DM: Yeah, pandemonium is, like, you know, directed at… at… Yeah, it's like… it's like… Pandemonium is psychological, Limbo is, you know… states of matter that shouldn't exist, or just things changing willy-nilly at will without any predictable way, but it's not… psychological or malicious in the way that Pandemonium is.",
+        "",
+        "%% u1492:0-42, u1493:0-44 %%",
+        "Delwath: Is there an anti… Limbo plane? Do we know? Like, a point of order, and regularity, and…",
+        "",
+        "%% u1494:0-18, u1495:0-17 %%",
+        "Seeker: Like, crystalline. Structure plane.",
+        "",
+        "%% u1496:0-34, u1497:0-12 %%",
+        "DM: Yeah, there's an anti-limbo plane. That's cool.",
+        "",
+        "%% u1498:0-69, u1499:0-165 %%",
+        "Delwath: Can we find an antidote to the… I mean, not that… could we… could we… We probably don't have enough time. We need 7 days to research something, right? I was wondering, could Vindristjarna find out if there's an antidote to Chaos Metal?",
+        "",
+        "%% u1500:0-22 %%",
+        "DM: Not before the battle.",
+        "",
+        "%% u1501:0-32 %%",
+        "Delwath: Yeah, no, I know, 7 days. Right.",
+        "",
+        "%% u1502:0-32, u1503:0-58 %%",
+        "Seeker: Well, it obviously dislikes ice. That's interesting. There's a kind of vulnerability there.",
+        "",
+        "%% u1504:0-97 %%",
+        "DM: Or, it's chaos, so it's vulnerable to one random thing that changes every hour, you have no idea.",
+        "",
+        "%% u1505:0-38, u1506:0-12 %%",
+        "Kenzo: Well, it's also only resistant to ice. When I Soul…",
+        "",
+        "%% u1507:0-37 %%",
+        "DM: Empress of Chaos is resistant to ice.",
+        "",
+        "%% u1508:0-29 %%",
+        "Delwath: Yeah, the Chaos Metal itself.",
+        "",
+        "%% u1509:0-157 %%",
+        "DM: The Chaos Metal is chaos, right? It's probably immune to one random thing, and vulnerable to one random thing, and they change every 20 minutes or something.",
+        "",
+        "%% u1510:0-4, u1511:0-3, u1512:0-8 %%",
+        "((Banter and mechanics))",
+        "",
+        "%% u1513:0-23 %%",
+        "Seeker: How should we store it?",
+        "",
+        "%% u1514:0-11 %%",
+        "Delwath: Yeah, fair.",
+        "",
+        "%% u1515:0-45, u1516:0-46, u1517:0-63, u1518:0-44, u1519:0-52 %%",
+        "DM: The further away you get, it eventually just… Once you're about 2 miles away, it just stops. It seems complete… I mean, you still probably wouldn't want to… touch it, and it's taking up a lot of space. But… so it is actually a bit tricky how to store it.",
+        "",
+        "%% u1520:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u1521:0-99 %%",
+        "DM: I guess you could just build a box over it to keep people from accidentally transmuting themselves.",
+        "",
+        "%% u1522:0-42, u1523:0-17, u1524:0-10, u1525:0-13, u1526:0-13 %%",
+        "((Banter and mechanics))",
+        "",
+        "%% u1527:0-20, u1528:0-52 %%",
+        "Seeker: Kind of typical for… what you see wandering around the deck of our ship.",
+        "",
+        "%% u1528:52-93, u1529:0-115 %%",
+        "DM: Yeah, I mean, Faldrak will find a way to… transport it to the workshop over the, you know, once the battle's over and you've got a few days to figure it out."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Right.",
+          "DM: Right, all you can see is what's within them. That's a scary…",
+          "Delwath: Let's hand it over to the scientists.",
+          "DM: So.",
+          "Delwath: What's going on at this point?"
+        ],
+        "after": [
+          "Seeker: Yeah.",
+          "Delwath: But it's not… there's nothing more… I mean… Okay. There's nothing obvious that we can do with it before the battle.",
+          "Seeker: Well, the interesting thing about it being chaotic is that there's a kind of inherent neutrality to it. Right. It might have some property that we could make use of.",
+          "Delwath: But we're probably not gonna be able to learn enough to control it.",
+          "DM: I mean, you don't really have a lot of time, you expect, and…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Martin’s ambush plan at the Heartroot",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1679",
+        "endUid": "u1721"
+      },
+      "lines": [
+        "%% u1679:0-68, u1680:0-110, u1681:0-30, u1682:0-33, u1683:0-88 %%",
+        "DM: Okay, so… Martin proposes that, you know, the best thing to do is to… So the… the army can set up almost like… like, there's a… there's a path that winds up along the river to the… Along a… it's really a stream… into the entrance of this valley. The army can set up, like, an ambush, basically, and if you use Mirage Arcane to make a…",
+        "",
+        "%% u1684:0-6 %%",
+        "Delwath: Epics.",
+        "",
+        "%% u1685:0-51, u1686:0-35, u1687:0-133, u1688:0-12 %%",
+        "DM: A mountain rang… basically a mountain range at the… beginning at the top of the valley, then they'll come up the clear path, but they won't be able to get… they'll have to go around into the hills in order to get to the… root itself.",
+        "",
+        "%% u1689:0-107, u1690:0-75, u1691:0-162, u1692:0-59 %%",
+        "DM: So it'll block the passage of the army pretty effectively, and allow the Rangers, who will likely do better with guerrilla tactics, where they're, you know, not ex… they're not gonna… They're definitely not gonna win if they have to line up in, you know, infantry rows and face off against the Hobgoblins. So the more that the Hobgoblins have to… wander their way through the woods and, you know, navigate…",
+        "",
+        "%% u1693:0-26 %%",
+        "Delwath: Oh, hey, there's a stream?",
+        "",
+        "%% u1694:0-23 %%",
+        "DM: Yeah, there's a stream.",
+        "",
+        "%% u1695:0-64, u1696:0-42, u1697:0-52, u1698:0-53, u1699:0-154, u1700:0-49, u1701:0-24 %%",
+        "Delwath: Can we use Mirage Arcane to make the stream a little bit bigger? Yeah, so it looks large, and then we have… Hippopotamus was our target creature. ((Beast statistics)) So they can all be in the water. Along the stream. Fill the stream up with hippos. I think that's our best.",
+        "",
+        "%% u1702:0-46, u1703:0-4, u1704:0-42, u1705:0-5, u1706:0-36 %%",
+        "((Rest transition and alternative beasts))",
+        "",
+        "%% u1707:0-29, u1708:0-35 %%",
+        "DM: Making the river into a lake? And then putting a bunch of hippos…",
+        "",
+        "%% u1709:0-25 %%",
+        "Delwath: Yeah, I like that better.",
+        "",
+        "%% u1710:0-12, u1711:0-150, u1712:0-146 %%",
+        "DM: In the lake. Sandwiched with archers in the woods alongside, like, make it so that there's a hill, a waterfall coming down off the hill, and a big pool beneath it… with no obvious way where to go… I mean, you can go through the woods around the hill, right? But hippos come out of the water, archers come down.",
+        "",
+        "%% u1713:0-17 %%",
+        "Delwath: That's the point.",
+        "",
+        "%% u1714:0-8 %%",
+        "Wellby: Love it.",
+        "",
+        "%% u1715:0-17, u1716:0-37, u1717:0-30, u1718:0-46, u1719:0-17 %%",
+        "Delwath: That's the point. So we'll have, we'll have 400 hippos. And as they die in hippo form… that's all temp hit points, so then they just… fight as rangers.",
+        "",
+        "%% u1720:0-49, u1721:0-45 %%",
+        "DM: Well, these are mostly… it's a mix of lizardfolk… Rangers, militia, folk, it's a mix of people."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Smaller.",
+          "DM: Join us.",
+          "Delwath: Elephants are huge. We wanted something with a fair bit of hit points.",
+          "DM: Yeah, I think… I don't know, rhinos are only… Well, we can figure that out.",
+          "Delwath: Yeah, yeah, I'll, I'll work out how to make you figure that out."
+        ],
+        "after": [
+          "Delwath: So they have those pretty good. AC14. They're pretty… they're actually pretty tough. 14AC, yeah. There's a reason hippos are the most dangerous creatures in the…",
+          "DM: So, the… you… you rest.",
+          "DM: There's watches set along the entrance to the… to the valley, where the… Where the… the sort of obvious path… the clearest path through the woods would be. This is outside the range of your… Mirage Arcane, and by… So the one disadvantage of this is you won't get your massive amount of temporary hit points, because you're not resting in the…",
+          "Delwath: That's true.",
+          "DM: But you wake in the pre-dawn light, just as the sun is beginning to… crest over the mountains to the… sound of the scouts coming back to report that the… Hobgoblins have been sighted… about… at the… at the base of this… of this stream that flows out of the valley, so maybe… 5 miles of that… 8 miles apart or something."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The Heartroot’s physical form",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1865",
+        "endUid": "u1868"
+      },
+      "lines": [
+        "%% u1865:0-126, u1866:0-37, u1867:0-59 %%",
+        "DM: Oh, yeah, yeah, so the Heartroot, it's not very big. It's like a… it's like, basically a mound of dirt in this… or a mound of… It's not just dirt, right? It's like… just living, rich, like, growing vines and twisting things.",
+        "",
+        "%% u1868:0-40 %%",
+        "Kenzo: Cubed? Like, what, what, how big is it?",
+        "",
+        "%% u1868:40-65 %%",
+        "DM: Maybe 10 feet by 10 feet."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: No, I mean, I don't need you to make… I'm just saying, what we're trying to achieve is to position Vindristjarna somewhere so that we can see what's going on, so that we can start to move in towards the Empress or something, but also where… At least when the battle… when the engagement starts, she can't easily dart past us towards the Heartroot. We want to be… we want to be on the Heartroot side of the battle. So that if we see her just start flying towards us or something, we can just cut her off. I mean, if she goes way around or something like that, I don't know",
+          "Kenzo: Tim, question about the Heartroot. Like, again, you know, I've been communing with it, all this stuff. Is it, like… how large is this?",
+          "DM: So, I mean, technically the Heartroot itself is…",
+          "DM: I mean, Kenzo could have visited it last night, right? Like, so there's this… there's a valley that's… That's lightly wooded, but becomes sort of densely wooded… sort of… closer in, right? So there's a valley with hills around the side, wooded valley, a little stream runs through it. The valley itself is maybe only a… 1,500 feet from one end to the next, right? It's definitely… or 1,000 feet, it's not a huge… valley lengthwise. The stream runs out, and then maybe a quarter or half a mile… below the sort of… beginning of the valley is where the… illusory mountain now stands, so from the battlefield, you can't even see… where the valley is, and you can't really get to it. I mean, you can if you could fly over the mountain range, but the army will have a… has to go around and then descend the hills.",
+          "Kenzo: My question, though, because, you know, the whole… the… her whole goal is to, like, stab."
+        ],
+        "after": [
+          "Kenzo: Yeah, I mean, if this is sort of like a football, like, kind of strategy, like, thing, like, I think we do want to be, like, we need to be able to get close to that thing. If she's got some crazy strategy to, like… you know… like, if the whole army is there just to distract and whatever, and her whole thing is to get to that specific spot as close as possible, we definitely need to be… closer to it. Like, if she darts past us somehow, then, you know, the whole thing is fucked. What goes around behind? I mean, I guess we could… we could…",
+          "Delwath: But if we… if we position ourselves by the Heartroot, we're basically… last line of defense. We can't do much until somebody comes towards us, right?",
+          "Kenzo: I mean, or do we have a way to get to the… can we dimension door, or whatever? Can we, like… is there a way to be a little bit farther, and instantly get there if we need to?",
+          "Delwath: How far away is the Heartroot?",
+          "DM: So, the Heartroot's… the Heartroot's at the middle of this… of this valley. The valley is a thousand feet from one end to the other. Then the battlefield is about 3 quarters of a mile… like, below the… entrance to the valley. So it's like…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The main battle is joined",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1977",
+        "endUid": "u2080"
+      },
+      "lines": [
+        "%% u1977:0-59, u1978:0-48, u1979:0-83, u1980:0-38, u1981:0-129, u1982:0-44, u1983:0-75, u1984:0-55, u1985:0-19 %%",
+        "DM: Dragon appears, suddenly, chaos breaks out among the ranks. ((Ambush attacks))",
+        "",
+        "%% u1986:0-28, u1987:0-81, u1988:0-13, u1989:0-12, u1990:0-106, u1991:0-14, u1992:0-9, u1993:0-37, u1994:0-26, u1995:0-39, u1996:0-56, u1997:0-66, u1998:0-10, u1999:0-54, u2000:0-193, u2001:0-71, u2002:0-28, u2003:0-5, u2004:0-45, u2005:0-93, u2006:0-52, u2007:0-34, u2008:0-16, u2009:0-73, u2010:0-89, u2011:0-37, u2012:0-40, u2013:0-69, u2014:0-88, u2015:0-60, u2016:0-49, u2017:0-81, u2018:0-25, u2019:0-60, u2020:0-52, u2021:0-44, u2022:0-5, u2023:0-43, u2024:0-74, u2025:0-30, u2026:0-23, u2027:0-41, u2028:0-135, u2029:0-7, u2030:0-55, u2031:0-191, u2032:0-59, u2033:0-62, u2034:0-37, u2035:0-89, u2036:0-14, u2037:0-69, u2038:0-29, u2039:0-59, u2040:0-65, u2041:0-51, u2042:0-70, u2043:0-31, u2044:0-6, u2045:0-118, u2046:0-6, u2047:0-17, u2048:0-22, u2049:0-104, u2050:0-6, u2051:0-64, u2052:0-30, u2053:0-15, u2054:0-61, u2055:0-95, u2056:0-75, u2057:0-37, u2058:0-42, u2059:0-8, u2060:0-14, u2061:0-55, u2062:0-20, u2063:0-79, u2064:0-34, u2065:0-55, u2066:0-12, u2067:0-4, u2068:0-24, u2069:0-109, u2070:0-23, u2071:0-11, u2072:0-19, u2073:0-23, u2074:0-93, u2075:0-73 %%",
+        "((Battle actions and tactical discussion))",
+        "",
+        "%% u2076:0-69, u2077:0-14, u2078:0-114, u2079:0-9, u2080:0-59 %%",
+        "DM: So as the battle… As the initial clash begins to wear down and lines… begin to form. Hobgoblin discipline… And sort of resilience showing as they begin to recover a little bit from the initial Blast. ((Bird casualties))"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Whose… whose 9th level slot is being used for that?",
+          "Seeker: Oh, see?",
+          "DM: Seeker 5 or Seeker? Seeker 5.",
+          "Delwath: I'd use Seeker Five's, yeah.",
+          "DM: Okay, Seeker 5. And Seeker 5 also used… did Seeker 5 use his 8th level slot? Nope. Okay, so Seeker just used the 8th level slot. Yep."
+        ],
+        "after": [
+          "DM: You see the remaining 6 duck back, and then swoop along the… the west side of the lake, where there's no troops engaged, now, each with a hobgoblin mounted on its back. Too far away to see any details.",
+          "Delwath: Let's go after…",
+          "DM: Go after them.",
+          "Delwath: I… I… Think so, right? I mean, is it worth, before we do, is it worth turning our… Are… half of our creatures into… nuh… Hold on one second. Why don't you turn… Why don't you turn… Like, half of our… You could turn half of our troops into giant eagles. So, a quarter. Take a hundred of the people. Right? And turn them into giant eagles. And have them… have the 100 giant eagles go swarm the attackers.",
+          "Seeker: Seems good."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The feint revealed and escape to the Heartroot",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2577",
+        "endUid": "u2787"
+      },
+      "lines": [
+        "%% u2577:0-59, u2578:0-21 %%",
+        "Wellby: Wellby pauses to glance to the far side of the battlefield as he nocks an arrow.",
+        "",
+        "%% u2579:0-30 %%",
+        "Delwath: Is there something over there?",
+        "",
+        "%% u2580:0-11, u2581:0-16 %%",
+        "Wellby: Yeah, I'll… shout and point.",
+        "",
+        "%% u2582:0-40, u2583:0-16, u2584:0-17, u2585:0-28, u2586:0-28 %%",
+        "DM: She's moving fast, the Empress of Chaos. It's going fast… above the forest… far side of the battlefield, away from the obvious feint.",
+        "",
+        "%% u2587:0-31, u2588:0-35, u2589:0-20 %%",
+        "DM: The Empress of Chaos is flying incredibly fast, straight into the… heart of the valley.",
+        "",
+        "%% u2590:0-40, u2591:0-28, u2592:0-19, u2593:0-81, u2594:0-9, u2595:0-5, u2596:0-76, u2597:0-46, u2598:0-67 %%",
+        "((Combat mechanics and remaining attacks))",
+        "",
+        "%% u2599:0-29, u2600:0-41 %%",
+        "Kenzo: Didn't we position ourselves? Wasn't the whole thing? We're positioned…",
+        "",
+        "%% u2601:0-37 %%",
+        "Delwath: Well, we… we went after these people.",
+        "",
+        "%% u2602:0-71 %%",
+        "Kenzo: No, what the hell? I thought the whole point was we're staying next to…",
+        "",
+        "%% u2603:0-40 %%",
+        "DM: I did too, but you went after the feint.",
+        "",
+        "%% u2604:0-93 %%",
+        "Kenzo: Oh, I totally was not paying attention. That was my bad. I thought the whole point was we're…",
+        "",
+        "%% u2605:0-50 %%",
+        "Delwath: That's okay, though, this is fine. Okay, how fast…",
+        "",
+        "%% u2606:0-76 %%",
+        "DM: I mean, I explicitly described the Empress of Chaos not present among these.",
+        "",
+        "%% u2607:0-9, u2608:0-10, u2609:0-4, u2610:0-50, u2611:0-28, u2612:0-122, u2613:0-57, u2614:0-45, u2615:0-5, u2616:0-11, u2617:0-43, u2618:0-31, u2619:0-14 %%",
+        "((Combat mechanics and remaining attacks))",
+        "",
+        "%% u2620:0-60 %%",
+        "Kenzo: Yeah, we teleport! How the fuck else are we gonna get there?",
+        "",
+        "%% u2621:0-29, u2622:0-238, u2623:0-52, u2624:0-42, u2625:0-32, u2626:0-36, u2627:0-14, u2628:0-61, u2629:0-37, u2630:0-68, u2631:0-38 %%",
+        "((Combat mechanics and remaining attacks))",
+        "",
+        "%% u2632:0-129, u2633:0-50, u2634:0-97 %%",
+        "Kenzo: She's gonna fly right past us. She is… her goal is to get to the- the heart, the heart thing. She's not gonna, like, hang around. Like, crazy shit happens when she stabs the thing. Capture the flag, the whole, the whole thing was gotta be, we gotta be close, close to the thing.",
+        "",
+        "%% u2635:0-13, u2636:0-10, u2637:0-9, u2638:0-6, u2639:0-11, u2640:0-9, u2641:0-4, u2642:0-35, u2643:0-5, u2644:0-30, u2644:30-64, u2644:64-80, u2645:0-56, u2646:0-16, u2647:0-37, u2648:0-28, u2649:0-65, u2650:0-5, u2651:0-77, u2652:0-10, u2653:0-8, u2654:0-24, u2655:0-25, u2656:0-12, u2657:0-103, u2658:0-25, u2659:0-76, u2660:0-35, u2661:0-30, u2662:0-17, u2663:0-4, u2664:0-22, u2665:0-38, u2666:0-8, u2667:0-28, u2668:0-5, u2669:0-13, u2670:0-3, u2671:0-20, u2672:0-3, u2673:0-35, u2674:0-3, u2675:0-12, u2676:0-10, u2677:0-61, u2678:0-10, u2679:0-22, u2680:0-31, u2681:0-39, u2682:0-40, u2683:0-31, u2684:0-8, u2685:0-43, u2686:0-46, u2687:0-16, u2688:0-10, u2689:0-23, u2690:0-34, u2691:0-75, u2692:0-73, u2693:0-58, u2694:0-5, u2695:0-36, u2696:0-54, u2697:0-17, u2698:0-15, u2699:0-7, u2700:0-16, u2701:0-49, u2702:0-59, u2703:0-48, u2704:0-27, u2705:0-26, u2706:0-3, u2707:0-7, u2708:0-22, u2709:0-12, u2710:0-50, u2710:50-163, u2711:0-74, u2712:0-10, u2713:0-80, u2714:0-118, u2715:0-5, u2716:0-19, u2717:0-44, u2718:0-9, u2719:0-27, u2720:0-5, u2721:0-11, u2722:0-21, u2723:0-78, u2724:0-26, u2725:0-18, u2726:0-10, u2727:0-10, u2728:0-37, u2729:0-20, u2730:0-46, u2731:0-96, u2732:0-77, u2733:0-5, u2734:0-23, u2735:0-72, u2736:0-65, u2737:0-35 %%",
+        "((Combat mechanics and remaining attacks))",
+        "",
+        "%% u2738:0-44 %%",
+        "Delwath: Wait, why isn't Seeker 5 doing the teleport?",
+        "",
+        "%% u2739:0-17, u2740:0-111 %%",
+        "((Combat mechanics and remaining attacks))",
+        "",
+        "%% u2741:0-32 %%",
+        "Delwath: I have Seeker 5 do the teleport.",
+        "",
+        "%% u2742:0-36 %%",
+        "DM: I mean, do you trust Seeker 5? Yeah.",
+        "",
+        "%% u2743:0-3 %%",
+        "Delwath: No.",
+        "",
+        "%% u2744:0-45 %%",
+        "Kenzo: Well, Seeker 5 doesn't have the track record?",
+        "",
+        "%% u2745:0-4 %%",
+        "Seeker: But…",
+        "",
+        "%% u2746:0-24 %%",
+        "Delwath: No, no, no, Seeker [garbled].",
+        "",
+        "%% u2747:0-26, u2748:0-27 %%",
+        "Seeker: It's a guaranteed success. I think Seeker 5 can do it.",
+        "",
+        "%% u2749:0-5, u2750:0-59, u2751:0-25, u2752:0-78, u2753:0-74, u2754:0-12, u2755:0-42, u2756:0-31, u2757:0-21, u2758:0-4, u2759:0-22, u2760:0-9, u2761:0-53, u2762:0-14, u2763:0-11, u2764:0-38, u2765:0-34, u2766:0-12, u2767:0-21, u2768:0-35, u2769:0-123, u2770:0-28, u2771:0-4, u2772:0-10, u2773:0-79, u2774:0-8 %%",
+        "((Combat mechanics and remaining attacks))",
+        "",
+        "%% u2775:0-49, u2776:0-17, u2777:0-36, u2778:0-38, u2779:0-64, u2780:0-6, u2781:0-42 %%",
+        "DM: So… perfect track record maintained. You vanish… and reappear… in… the middle of… a gro- an open grove, where the Heartroot, you can… you can… see, and you can sense it, you can… you can smell it. It's… yes… dense… like, almost bready, sweet, fruity… smell.",
+        "",
+        "%% u2782:0-40, u2783:0-110, u2784:0-13, u2785:0-86, u2786:0-48, u2787:0-44 %%",
+        "DM: A still air, like… held breath, the sun… diffuse and… I mean, it's pre-dawn, right? So it's, like, just a little bit of the dawn light shining through… golden light, just beginning to light up the trees around the edge of this sort of almost root-like… amphitheater kind of thing formed in the center. Smells of rain… warmth, out-of-season fruit."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: 23 hits… sorry, 8 damage. Last attack, and only one hit point left, so your last attack kills the archer.",
+          "Kenzo: Okay. Alright.",
+          "DM: Trust me. Message.",
+          "Delwath: Wellby's next.",
+          "DM: Yep, Wellby's next, one sec."
+        ],
+        "after": [
+          "DM: And… I think probably we should stop there, because it's midnight. And the… You likely have anywhere between 1 and 10 rounds, it's hard for you to guess exactly how many.",
+          "Delwath: It's gotta be… it's gotta be more than…",
+          "DM: More than one. She's going 300.",
+          "Delwath: If she's going 300 feet a turn, and it was 3 quarters of a mile, it should be, like, between 10 and 12 rounds.",
+          "DM: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

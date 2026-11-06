@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-132",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-session.yaml",
+    "sessionYamlSha256": "5cd1d5500de7e2ba6225c9567cdd09c435c5d47e2bba7fc66d028e846adfeabc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-transcript.md",
+    "transcriptSha256": "47c33f632686e0e0e55bc5edcad47aa506f7427cd4a4dc680aaf3803f5da6f19"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0015"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0016",
+        "endUid": "u0019"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0020",
+        "endUid": "u0022"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0023",
+        "endUid": "u0158"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0159",
+        "endUid": "u0176"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0177",
+        "endUid": "u0482"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0483",
+        "endUid": "u0736"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0737",
+        "endUid": "u1338"
+      },
+      "category": "combat",
+      "note": "No initiative roll: actions are resolved in repeated ordered cycles through the capture and withdrawal."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1339",
+        "endUid": "u2152"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2153",
+        "endUid": "u2787"
+      },
+      "category": "combat",
+      "note": "The aerial feint ends when the party teleports away; the Empress encounter is deferred to next session."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2788",
+        "endUid": "u2867"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2868",
+        "endUid": "u2895"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2896",
+        "endUid": "u2908"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2909",
+        "endUid": "u2921"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

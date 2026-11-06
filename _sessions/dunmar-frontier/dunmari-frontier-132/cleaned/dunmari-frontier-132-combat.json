@@ -1,0 +1,629 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-132",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-session.yaml",
+    "sessionYamlSha256": "5cd1d5500de7e2ba6225c9567cdd09c435c5d47e2bba7fc66d028e846adfeabc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-transcript.md",
+    "transcriptSha256": "47c33f632686e0e0e55bc5edcad47aa506f7427cd4a4dc680aaf3803f5da6f19",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-segments.json",
+      "sha256": "e30921e452719dfb0cc5e3a652d0bb9b0c8c6516f357cb8f3729ed3f045f236f",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s008",
+      "encounter": "Chaos Metal worm capture at the escarpment",
+      "note": "No initiative is rolled; the table resolves repeated action cycles. The captured worm is a vehicle-like object, not a souled creature.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Faldrak",
+              "kind": "turn",
+              "summary": "Activates Vindristjarna’s ice turret and fires eight cold attacks at one direhawk; four hit for 33 total damage, bloodying it.",
+              "evidence": [
+                {
+                  "startUid": "u0737",
+                  "endUid": "u0755"
+                },
+                {
+                  "startUid": "u0816",
+                  "endUid": "u0830"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Activates his hour-long astral form and flies about 50 feet from the ship to meet the approaching birds; the proposed 210-foot dash is withdrawn.",
+              "evidence": [
+                {
+                  "startUid": "u0757",
+                  "endUid": "u0808"
+                },
+                {
+                  "startUid": "u0816",
+                  "endUid": "u0822"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin infantry",
+              "kind": "turn",
+              "summary": "Two units dismount from worms and form archery ranks while other units continue ascending the cliff.",
+              "evidence": [
+                {
+                  "startUid": "u0831",
+                  "endUid": "u0841"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Ice Storm at a worm still climbing the cliff: 23 damage, using a DC20 Dexterity save for half and bludgeoning/cold damage. The worm dissolves, and all twenty mounted hobgoblins fall to their deaths after the target’s position is corrected.",
+              "evidence": [
+                {
+                  "startUid": "u0811",
+                  "endUid": "u0815"
+                },
+                {
+                  "startUid": "u0842",
+                  "endUid": "u0869"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Abandons Telekinesis because the worm is adjudicated Gargantuan. Uses a charge of the Glove of Crystalized Magic to turn Wall of Stone into ice panels, boxing another worm against the cliff and stopping it; maintains concentration.",
+              "evidence": [
+                {
+                  "startUid": "u0872",
+                  "endUid": "u0919"
+                },
+                {
+                  "startUid": "u0930",
+                  "endUid": "u0949"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin archers",
+              "kind": "turn",
+              "summary": "Fire flaming arrows onto the ship. Dexterity saves receive +5 for three-quarters cover: Delwath’s 16 takes 24 fire and 10 piercing; Seeker’s 24 takes half, 12 fire and 5 piercing; Wellby and Kenzo take none.",
+              "evidence": [
+                {
+                  "startUid": "u0948",
+                  "endUid": "u0974"
+                }
+              ]
+            },
+            {
+              "actor": "Direhawks",
+              "kind": "turn",
+              "summary": "All twelve dash to surround Kenzo, about 50 feet from Vindristjarna. They are metallic-looking but do not dissolve when struck by ice.",
+              "evidence": [
+                {
+                  "startUid": "u0975",
+                  "endUid": "u0985"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sight identifies CR3 direhawks, strongest in Strength, weakest in Intelligence/Charisma, with no resistances or immunities. Activates Lengau’s Claw and attacks one five times: 12 after the extra die correction, 19, 15, 19 after d12 Bardic Inspiration turns a miss into a hit, and a killing final hit (17 stated before the extra die). Superior Defense is unavailable after spending the bonus action on attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1017",
+                  "endUid": "u1088"
+                },
+                {
+                  "startUid": "u1138",
+                  "endUid": "u1145"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Lightning Arrow hits a line of four birds. The main target takes 54 total damage and survives; of the three splash targets, two succeed on DC15 Dexterity for half of 4d6 lightning and one fails. A bonus-action arrow hits the turret-wounded bird for 41, killing it.",
+              "evidence": [
+                {
+                  "startUid": "u1089",
+                  "endUid": "u1120"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Quickens Conjure Animals, placing spectral birds around Kenzo: enemies entering within 10 feet face DC20 Dexterity for 20 damage on failure or 10 on success. Four Eldritch Blasts hit, dealing a stated 24 total to a wounded bird and killing it. He declines to move below decks.",
+              "evidence": [
+                {
+                  "startUid": "u1125",
+                  "endUid": "u1137"
+                },
+                {
+                  "startUid": "u1146",
+                  "endUid": "u1191"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker and Faldrak",
+              "kind": "turn",
+              "summary": "Coordinate Vindristjarna’s descent beneath the trapped worm. Seeker drops the ice walls to release it; the lower ship position reduces protection from the archers to half cover (+2).",
+              "evidence": [
+                {
+                  "startUid": "u1192",
+                  "endUid": "u1239"
+                }
+              ]
+            },
+            {
+              "actor": "Direhawks",
+              "kind": "turn",
+              "summary": "Nine birds dive at Kenzo through the conjured flock, whose 20 damage is insufficient to kill any. The corrected attack resolution is four ordinary hits and three critical hits before Deflect; after that reaction Kenzo takes 64 damage, corrected from 70.",
+              "evidence": [
+                {
+                  "startUid": "u1238",
+                  "endUid": "u1253"
+                },
+                {
+                  "startUid": "u1259",
+                  "endUid": "u1265"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the first critical hit completely. He then darts back down toward the ship for the withdrawal.",
+              "evidence": [
+                {
+                  "startUid": "u1254",
+                  "endUid": "u1265"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin archers",
+              "kind": "turn",
+              "summary": "Another flaming volley requires DC17 Dexterity saves with +2 half cover. Delwath uses an ability adding 2d4 to pass and takes 12 fire plus 9 piercing; Seeker fails and takes 24 fire plus 19 piercing; Kenzo (27) and Wellby take none.",
+              "evidence": [
+                {
+                  "startUid": "u1259",
+                  "endUid": "u1285"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Faldrak",
+              "kind": "turn",
+              "summary": "The worm lands thrashing on the deck; Vindristjarna’s ice shield rises. Faldrak’s further ice bolts kill another bird as the ship turns up and away. Seeker/Faldrak can see through the shield with projected consciousness, and astral Kenzo can pass through it.",
+              "evidence": [
+                {
+                  "startUid": "u1287",
+                  "endUid": "u1302"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Activates Ghostly Gaze to see through the shield and direct the still-active Conjure Animals. The flock cannot catch the faster birds, but catches about six archers before the survivors dash away and reform; no further worms are visible within range.",
+              "evidence": [
+                {
+                  "startUid": "u1304",
+                  "endUid": "u1338"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Vindristjarna escapes with one Chaos Metal worm aboard. Four birds have been killed by the party’s recorded attacks; the wider hobgoblin force continues, and the captured object is examined after withdrawal.",
+        "evidence": [
+          {
+            "startUid": "u1287",
+            "endUid": "u1293"
+          },
+          {
+            "startUid": "u1320",
+            "endUid": "u1338"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s010",
+      "encounter": "Hobgoblin riders’ aerial feint against Vindristjarna",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Takes no ranged action while the six mounted hobgoblins are 300 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u2153",
+                  "endUid": "u2175"
+                },
+                {
+                  "startUid": "u2208",
+                  "endUid": "u2210"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots both spellcasters to establish Vex for the next round, declining Steady Aim and Sneak Attack. Both hit for 8 and 11 piercing; the second is a critical hit, without retroactive Sneak Attack.",
+              "evidence": [
+                {
+                  "startUid": "u2221",
+                  "endUid": "u2238"
+                }
+              ]
+            },
+            {
+              "actor": "Faldrak",
+              "kind": "turn",
+              "summary": "Fires all eight icicle turret attacks at the sorcerer. Four hit for 39 cold damage.",
+              "evidence": [
+                {
+                  "startUid": "u2212",
+                  "endUid": "u2220"
+                },
+                {
+                  "startUid": "u2239",
+                  "endUid": "u2256"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin crossbowmen",
+              "kind": "turn",
+              "summary": "Fire three crossbow bolts at long range with disadvantage; all miss.",
+              "evidence": [
+                {
+                  "startUid": "u2258",
+                  "endUid": "u2266"
+                }
+              ]
+            },
+            {
+              "actor": "Direhawks",
+              "kind": "turn",
+              "summary": "Dash 180 feet, closing from 300 to 120 feet.",
+              "evidence": [
+                {
+                  "startUid": "u2262",
+                  "endUid": "u2266"
+                },
+                {
+                  "startUid": "u2331",
+                  "endUid": "u2338"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Font of Moonlight, lasting ten minutes, as retrospectively accepted for the previous turn. No Eldritch Blast damage is resolved despite the discussion of shooting at 120 feet. The spell is confirmed still active after escape.",
+              "evidence": [
+                {
+                  "startUid": "u2257",
+                  "endUid": "u2257"
+                },
+                {
+                  "startUid": "u2268",
+                  "endUid": "u2275"
+                },
+                {
+                  "startUid": "u2316",
+                  "endUid": "u2353"
+                },
+                {
+                  "startUid": "u2891",
+                  "endUid": "u2892"
+                }
+              ],
+              "note": "The initial turn was declined and later revised; the postcombat confirmation establishes Font of Moonlight, while the contemplated blasts have no resolved attacks."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Takes no ranged action at 120 feet before the birds’ next movement.",
+              "evidence": [
+                {
+                  "startUid": "u2274",
+                  "endUid": "u2277"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits both spellcasters again using the prior Vex setup, with Sneak Attack discussed; 37 damage is accepted on each.",
+              "evidence": [
+                {
+                  "startUid": "u2278",
+                  "endUid": "u2283"
+                }
+              ]
+            },
+            {
+              "actor": "Direhawks",
+              "kind": "turn",
+              "summary": "Dash another 180 feet before Delwath acts, reaching the ship and circling about 20 feet above its deck. The DM corrects “round 3” to round 2.",
+              "evidence": [
+                {
+                  "startUid": "u2284",
+                  "endUid": "u2292"
+                },
+                {
+                  "startUid": "u2321",
+                  "endUid": "u2338"
+                },
+                {
+                  "startUid": "u2358",
+                  "endUid": "u2359"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin mage",
+              "kind": "turn",
+              "summary": "Rains fire onto a roughly 40-foot area of the deck. Dexterity saves: Wellby takes none, Kenzo rerolls with ki and takes none, and Delwath takes 12 fire. The glowing deck makes creatures in that area vulnerable to fire while they remain there.",
+              "evidence": [
+                {
+                  "startUid": "u2284",
+                  "endUid": "u2315"
+                }
+              ],
+              "note": "The DM first excludes hiding Seeker, then names Seeker among those taking no damage from evasion; no additional Seeker damage or save outcome is invented."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Flies up with the Raven’s Whistle, which prevents verbal-component spells while used, and makes three blade attacks on the sorcerer: a critical hit for 37 mixed radiant/slashing, another hit for 24, and a killing hit whose damage is not stated. The sorcerer falls from its bird.",
+              "evidence": [
+                {
+                  "startUid": "u2354",
+                  "endUid": "u2407"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin warlord",
+              "kind": "turn",
+              "summary": "Jumps from its bird onto the deck and makes three longsword attacks on Kenzo: two hit for 14 each and one misses. Kenzo deflects the first hit; the second deals 14. The stated speed reduction is withdrawn as a javelin-only effect.",
+              "evidence": [
+                {
+                  "startUid": "u2396",
+                  "endUid": "u2417"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the warlord’s first 14-damage hit and redirects the attack for 21 damage to the warlord.",
+              "evidence": [
+                {
+                  "startUid": "u2411",
+                  "endUid": "u2422"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin crossbowmen",
+              "kind": "turn",
+              "summary": "Fire explosive motes at the deck: DC17 Dexterity saves. Delwath is out of range 20 feet up; Kenzo and Wellby take none, and Seeker takes half damage, 18 fire.",
+              "evidence": [
+                {
+                  "startUid": "u2423",
+                  "endUid": "u2440"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 5",
+              "kind": "turn",
+              "summary": "Casts Slow with DC19 Wisdom. Final targets are three birds, the warlord, and two archers: the warlord succeeds; all three birds and both archers fail. The mage is replaced in the target list, and its apparent failed save is corrected to an archer.",
+              "evidence": [
+                {
+                  "startUid": "u2441",
+                  "endUid": "u2479"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Summons a seventh-level clay construct for the hour-long fight preparation. It cannot fly and appears next to the warlord.",
+              "evidence": [
+                {
+                  "startUid": "u2481",
+                  "endUid": "u2506"
+                },
+                {
+                  "startUid": "u2874",
+                  "endUid": "u2875"
+                },
+                {
+                  "startUid": "u2885",
+                  "endUid": "u2890"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "turn",
+              "summary": "Immediately attacks the warlord three times: one critical hit and one normal hit land, while the third is parried. Accepted damage for the two hits is 3d8+22; the rolled total is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2495",
+                  "endUid": "u2517"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin warlord",
+              "kind": "reaction",
+              "summary": "Parries the clay construct’s third attack.",
+              "evidence": [
+                {
+                  "startUid": "u2510",
+                  "endUid": "u2511"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the remaining mage for 16 and 13, killing it; saves Lengau’s Claw rather than activating it. Uses astral flight to reach an archer about 40 feet up and kills that archer with the remaining three strikes: 8, 8, and a final killing hit. The DM accepts astral form as activated before combat.",
+              "evidence": [
+                {
+                  "startUid": "u2520",
+                  "endUid": "u2572"
+                },
+                {
+                  "startUid": "u2893",
+                  "endUid": "u2895"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "event",
+              "summary": "Spots and points out the Empress racing above the far forest toward the Heartroot, away from the feint: 600 feet from the party and moving 300 feet per round. Vindristjarna cannot win that race.",
+              "evidence": [
+                {
+                  "startUid": "u2577",
+                  "endUid": "u2612"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the warlord for 35 damage after the correction from 45 minus 10. The warlord succeeds on DC19 Dexterity against Obscure and is not blinded. A second arrow hits a bird in melee with Kenzo for 32, bloodying it; Wellby moves within ten feet of Seeker for teleportation.",
+              "evidence": [
+                {
+                  "startUid": "u2662",
+                  "endUid": "u2693"
+                }
+              ]
+            },
+            {
+              "actor": "Direhawks",
+              "kind": "turn",
+              "summary": "The three slowed birds each make only one attack and all miss. The other three attack twice each: critical hits deal 12 to Seeker and 7 to Seeker 5; two attacks rolling 23 against Delwath are blocked by Shield. A Constitution save for Slow is requested, but no clear result or concentration loss is recorded.",
+              "evidence": [
+                {
+                  "startUid": "u2691",
+                  "endUid": "u2715"
+                }
+              ],
+              "note": "Five hits are initially reported before Shield, but only the two critical-hit damage awards are assigned after the blocks; the remaining hit is not given a target or result."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield as a reaction, blocking both 23-result bird attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2702",
+                  "endUid": "u2711"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Returns to deck level to attack the warlord; two poor attack rolls miss and the last is accepted for 17 damage, leaving it alive. Runs toward hiding Seeker to join the teleport; Shield has expired by this turn.",
+              "evidence": [
+                {
+                  "startUid": "u2719",
+                  "endUid": "u2736"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin warlord",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack as Delwath moves away; it misses.",
+              "evidence": [
+                {
+                  "startUid": "u2728",
+                  "endUid": "u2736"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 5",
+              "kind": "turn",
+              "summary": "Uses an eighth-level slot to teleport the party before the remaining archers act. The visible destination counts as very familiar; the 42 roll succeeds after the initial mishap suggestion is withdrawn. They appear at the open Heartroot grove with the clay construct.",
+              "evidence": [
+                {
+                  "startUid": "u2737",
+                  "endUid": "u2787"
+                },
+                {
+                  "startUid": "u2874",
+                  "endUid": "u2875"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The party escapes to the Heartroot grove before the archers’ next attacks. The sorcerer, mage, and one archer are dead; the warlord remains alive. The larger battle continues, and the Empress is still approaching; her fight has not begun.",
+        "evidence": [
+          {
+            "startUid": "u2737",
+            "endUid": "u2751"
+          },
+          {
+            "startUid": "u2761",
+            "endUid": "u2787"
+          }
+        ]
+      }
+    }
+  ]
+}

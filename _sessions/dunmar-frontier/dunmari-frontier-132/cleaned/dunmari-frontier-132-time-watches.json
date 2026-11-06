@@ -1,0 +1,124 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-time-markers.json",
+    "sha256": "5d4c5a5834ca9ed5cef14740aa057095f512e68ff3dbded3f19fca75e9d2ecd1"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-transcript.md",
+    "sha256": "47c33f632686e0e0e55bc5edcad47aa506f7427cd4a4dc680aaf3803f5da6f19"
+  },
+  "dateAssessment": "The working calendar uses YAML’s year 1749 and the spoken August 10 opening. Two completed overnight rests independently support August 11 and 12; the time extraction therefore matches the August 10–12 YAML span. Watch labels are approximate. The final dawn sequence is called both “morning” and “pre-dawn”; the explicit pre-dawn arrival and the ship’s connection to the scouts’ return keep that sequence together. The next-session eight-round preparation window is a granted opportunity, not an additional elapsed interval here.",
+  "watches": [
+    {
+      "day": "August 10, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Three Wells return explicitly dated August 10, about 6 p.m.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1749-08-10",
+      "endDate": "1749-08-10"
+    },
+    {
+      "day": "August 10–11, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Completed overnight ends at dawn; eight-hour rest convention places its start in the preceding dusk.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1749-08-10",
+      "endDate": "1749-08-11"
+    },
+    {
+      "day": "August 11, 1749",
+      "startWatch": "dawn",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Seeker’s twelve-hour casting starts at dawn and finishes just after 4 p.m.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1749-08-11",
+      "endDate": "1749-08-11",
+      "scope": "Seeker"
+    },
+    {
+      "day": "August 11, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "By noon the camp has emptied and Vindristjarna is visible on the horizon.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1749-08-11",
+      "endDate": "1749-08-11"
+    },
+    {
+      "day": "August 11, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "The party boards Vindristjarna and departs just after 4 p.m.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1749-08-11",
+      "endDate": "1749-08-11"
+    },
+    {
+      "day": "August 11, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sunset during flight; escarpment about 9 p.m.; camp about 9:15 p.m.; worm slows within roughly ten minutes.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08",
+        "t09"
+      ],
+      "startDate": "1749-08-11",
+      "endDate": "1749-08-11"
+    },
+    {
+      "day": "August 11–12, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "After camp planning, another completed eight-hour overnight ends in pre-dawn light.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1749-08-11",
+      "endDate": "1749-08-12"
+    },
+    {
+      "day": "August 12, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Scouts return pre-dawn; ship arrives around then. A minute’s Sight and further waiting precede the still-pre-dawn grove arrival.",
+      "markers": [
+        "t11",
+        "t12",
+        "t13",
+        "t15"
+      ],
+      "startDate": "1749-08-12",
+      "endDate": "1749-08-12",
+      "sourceRanges": [
+        [
+          "u1734",
+          "u1739"
+        ]
+      ]
+    }
+  ]
+}

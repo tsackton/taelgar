@@ -1,0 +1,622 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-132",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-session.yaml",
+    "sessionYamlSha256": "5cd1d5500de7e2ba6225c9567cdd09c435c5d47e2bba7fc66d028e846adfeabc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-transcript.md",
+    "transcriptSha256": "47c33f632686e0e0e55bc5edcad47aa506f7427cd4a4dc680aaf3803f5da6f19"
+  },
+  "places": {
+    "p01": {
+      "label": "Three Wells camp",
+      "kind": "fortified camp",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0015",
+          "quote": "as you return to the camp at Three Wells, now emptied of many of the people and tents"
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Three Wells.md",
+      "note": "The modern Three Wells note places this fortified meeting camp on the Aurbez Plateau; that regional orientation comes from the vault rather than an explicit containment statement here."
+    },
+    "p02": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "evidence": [
+        {
+          "startUid": "u0534",
+          "endUid": "u0540",
+          "quote": "you… all climb onto Vindristjarna and begin heading for the escarpment."
+        },
+        {
+          "startUid": "u1205",
+          "endUid": "u1213",
+          "quote": "DM: There's a tree."
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true
+    },
+    "p03": {
+      "label": "Escarpment north of the waterfall",
+      "kind": "cliff",
+      "evidence": [
+        {
+          "startUid": "u0556",
+          "endUid": "u0565",
+          "quote": "you turn and you turn Vindristjarna north and begin flying along the, sort of, diagonal to meet the cliff edge just north of this waterfall here that cascades down."
+        },
+        {
+          "startUid": "u0416",
+          "endUid": "u0424",
+          "quote": "the… Chaos Metal Centipede is expected to reach the cliff that goes up to the plateau tomorrow night."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "edge_of",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0416",
+              "endUid": "u0424",
+              "quote": "the… Chaos Metal Centipede is expected to reach the cliff that goes up to the plateau tomorrow night."
+            }
+          ]
+        }
+      ],
+      "note": "The interception is in the air above the cliff, without a landing. The source does not name the waterfall."
+    },
+    "p04": {
+      "label": "Army camp outside the Heartroot",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1626",
+          "endUid": "u1631",
+          "quote": "DM: Now, you appear… 9pm at night. A little after 9, 9.15 at night, at the… army camp outside of the Heartroot. It is… you know… tense."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1626",
+              "endUid": "u1631",
+              "quote": "at the… army camp outside of the Heartroot."
+            },
+            {
+              "startUid": "u1679",
+              "endUid": "u1683",
+              "quote": "there's a path that winds up along the river to the… Along a… it's really a stream… into the entrance of this valley."
+            }
+          ]
+        }
+      ],
+      "note": "“Outside of the Heartroot” locates the camp generally; it does not put the camp at the relic or establish its identity with the later lakeside battlefield."
+    },
+    "p05": {
+      "label": "Heartroot Valley",
+      "kind": "valley",
+      "evidence": [
+        {
+          "startUid": "u0023",
+          "endUid": "u0027",
+          "quote": "the entrance to the Heartroot Valley."
+        },
+        {
+          "startUid": "u1852",
+          "endUid": "u1864",
+          "quote": "there's a valley that's… That's lightly wooded, but becomes sort of densely wooded… sort of… closer in, right?"
+        }
+      ],
+      "aliases": [
+        "Heartroot Vale"
+      ],
+      "note": "The Heartroot reference note describes the guarded valley, but identifies the relic rather than a separately named valley page."
+    },
+    "p06": {
+      "label": "Battlefield beside the illusory lake",
+      "kind": "battlefield",
+      "evidence": [
+        {
+          "startUid": "u1811",
+          "endUid": "u1817",
+          "quote": "DM: Quiet descends over… the valley, as the hippos retreat to the illusory lake… behind the illusory hill. Archers and soldiers begin to drift into the woods, lining up shots… and guerrilla attacks for when the hippos burst out of the illusory water and attack the Hobgoblins."
+        },
+        {
+          "startUid": "u2031",
+          "endUid": "u2032",
+          "quote": "DM: So you have the lake, you've got the forest, the battle is in between the lake and the forest, with the Hobgoblins essentially forming two lines facing out, archers coming down from one side. Lizardfolk mounted on hippos coming up from the other side."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1880",
+              "endUid": "u1885",
+              "quote": "the battlefield is about 3 quarters of a mile… like, below the… entrance to the valley."
+            }
+          ]
+        }
+      ],
+      "note": "The lake and mountain are tactically tangible Mirage Arcane terrain. The transcript places this battlefield below the valley entrance, rather than inside the Heartroot grove."
+    },
+    "p07": {
+      "label": "Heartroot grove",
+      "kind": "grove",
+      "evidence": [
+        {
+          "startUid": "u2775",
+          "endUid": "u2787",
+          "quote": "DM: So… perfect track record maintained. You vanish… and reappear… in… the middle of… a gro- an open grove, where the Heartroot, you can… you can… see, and you can sense it, you can… you can smell it. It's… yes… dense… like, almost bready, sweet, fruity… smell.\n\nDM: A still air, like… held breath, the sun… diffuse and… I mean, it's pre-dawn, right? So it's, like, just a little bit of the dawn light shining through… golden light, just beginning to light up the trees around the edge of this sort of almost root-like… amphitheater kind of thing formed in the center. Smells of rain… warmth, out-of-season fruit."
+        }
+      ],
+      "vaultPath": "Worldbuilding/Staging/Dunmar/Heartroot.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1880",
+              "endUid": "u1885",
+              "quote": "the Heartroot's at the middle of this… of this valley."
+            },
+            {
+              "startUid": "u2775",
+              "endUid": "u2781",
+              "quote": "You vanish… and reappear… in… the middle of… a gro- an open grove, where the Heartroot"
+            }
+          ]
+        }
+      ],
+      "note": "The linked note identifies the Heartroot relic at this grove, not the entire valley. The transcript also calls the grove a root-like amphitheater."
+    },
+    "p08": {
+      "label": "The plateau",
+      "kind": "plateau",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0015",
+          "quote": "a planning headquarters a little bit for the plateau."
+        },
+        {
+          "startUid": "u0416",
+          "endUid": "u0424",
+          "quote": "the cliff that goes up to the plateau"
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Aurbez Plateau.md",
+      "note": "Identified as the Aurbez Plateau through the modern Three Wells and Aurbez Plateau notes."
+    },
+    "p09": {
+      "label": "Airspace beside Vindristjarna",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u0975",
+          "endUid": "u0977",
+          "quote": "DM: However, 9… sorry, a dozen flying birds now dash to close in on Kenzo, so you're now surrounded 50 feet from the from the deck of Vindristjarna by a dozen of these large flying birds."
+        }
+      ],
+      "note": "Kenzo’s temporary position about fifty feet from the deck during the escarpment fight."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0015"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is back at the Three Wells camp for the evening.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0015",
+          "quote": "as you return to the camp at Three Wells, now emptied of many of the people and tents"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0534",
+        "endUid": "u0603"
+      },
+      "actors": [
+        "party",
+        "Seeker 5"
+      ],
+      "reading": "Fly aboard Vindristjarna from Three Wells to the air over the escarpment, turning north to intercept above the cliff north of the waterfall.",
+      "evidence": [
+        {
+          "startUid": "u0534",
+          "endUid": "u0540",
+          "quote": "you… all climb onto Vindristjarna and begin heading for the escarpment."
+        },
+        {
+          "startUid": "u0552",
+          "endUid": "u0555",
+          "quote": "DM: So… you fly for a couple hours as the sun begins to set, once you get… Once you sort of cross over this… this path here, and you can see the escarpment edge. I'll change the…"
+        },
+        {
+          "startUid": "u0556",
+          "endUid": "u0565",
+          "quote": "you turn and you turn Vindristjarna north and begin flying along the, sort of, diagonal to meet the cliff edge just north of this waterfall here that cascades down."
+        },
+        {
+          "startUid": "u0583",
+          "endUid": "u0588",
+          "quote": "DM: It's dark, you can just see the sort of shadowy shape of the cliff below you. And you can make out more… You know, it's dark, and it's out of the range of any of your dark vision, so this is not, like, a… a clear vision you see, but it almost looks like there's something… The shadows along a long stretch of the cliff face may be extending. 500 yards along a stretch of the cliff base. Almost seem like their shadows are sort of squiggling along the wall."
+        },
+        {
+          "startUid": "u0599",
+          "endUid": "u0603",
+          "quote": "DM: You can't see them. It's, like, 200 feet away. There's just, like, shadowy shapes, kind of. Shimmering on the walls. No, and it's dark. It's about 9 o'clock at night, the sun set, like, two and a half hours ago."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p02",
+      "route": [
+        {
+          "reading": "Fly toward the escarpment, then turn north on a diagonal toward the cliff edge north of a waterfall.",
+          "place": "p03"
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Inferred from departure just after 4 p.m. and the roughly 9 p.m. interception; the earlier 8 p.m. projection is not the confirmed arrival."
+      },
+      "note": "Arrival is to the cliff’s airspace aboard the ship; no party landing is established."
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0767",
+        "endUid": "u0977"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo leaves the ship in astral form and takes up a position about fifty feet from the deck to face the direhawks.",
+      "evidence": [
+        {
+          "startUid": "u0778",
+          "endUid": "u0781",
+          "quote": "Kenzo: Yeah, I would have done this.\n\nDM: So, probably while the ice storm… while the…\n\nKenzo: Yeah.\n\nDM: Was being thrown, Kenzo's gonna activate his astral form."
+        },
+        {
+          "startUid": "u0804",
+          "endUid": "u0808",
+          "quote": "Delwath: Last time, they probably can go 100 feet. Stay within… stay within 50… I mean, don't go too far, just go 50 feet away.\n\nWellby: Yeah, yeah, yeah.\n\nDelwath: And just… pause.\n\nKenzo: Alright, I'll do that."
+        },
+        {
+          "startUid": "u0816",
+          "endUid": "u0822",
+          "quote": "Kenzo… flies out from Vindristjarna"
+        },
+        {
+          "startUid": "u0975",
+          "endUid": "u0977",
+          "quote": "DM: However, 9… sorry, a dozen flying birds now dash to close in on Kenzo, so you're now surrounded 50 feet from the from the deck of Vindristjarna by a dozen of these large flying birds."
+        },
+        {
+          "startUid": "u0695",
+          "endUid": "u0695",
+          "quote": "The cliff is… the cliff is, like, 120 feet below you."
+        }
+      ],
+      "from": "p02",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "astral flight",
+      "locationContext": [
+        {
+          "subject": "p09",
+          "relation": "above",
+          "target": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1232",
+        "endUid": "u1301"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo returns toward Vindristjarna during the withdrawal; his astral form can pass the ice shield.",
+      "evidence": [
+        {
+          "startUid": "u1232",
+          "endUid": "u1235",
+          "quote": "Kenzo: Yeah. Should I just come back to the ship?\n\nSeeker: Oh, yeah.\n\nDelwath: You should. As soon as the ice shield comes up, you should flee back to the ship, yes."
+        },
+        {
+          "startUid": "u1259",
+          "endUid": "u1265",
+          "quote": "Kenzo… darts out of the way, racing down as arrow volleys come."
+        },
+        {
+          "startUid": "u1287",
+          "endUid": "u1293",
+          "quote": "DM: The… squiggling worm drops onto the deck of Vindristjarna. 20 feet long, it begins thrashing around. The ice shield springs into existence. Are you just running at this point? Faldrak fires a few more ice bolts at a… at a bird. That's gonna kill one.\n\nSeeker: Yeah, yeah.\n\nDM: Because a lot of them are dead. We're turning at this point?\n\nSeeker: Gone up and away."
+        },
+        {
+          "startUid": "u1301",
+          "endUid": "u1301",
+          "quote": "DM: Kenzo can move in and out of it at will."
+        },
+        {
+          "startUid": "u1555",
+          "endUid": "u1566",
+          "quote": "Delwath: Seeker is gonna teleport.\n\nDM: Okay.\n\nDelwath: The Seeker is gonna teleport ahead. Actually, we could all teleport.\n\nSeeker: Yeah. Yeah, we should do that.\n\nWellby: We can all just teleport, and then Seeker can cast Mirage Arcane.\n\nDelwath: And then we can rest there, and Vindristjarna can fly through the night. Let's do that.\n\nSeeker: What about Seeker 5?\n\nDelwath: So you can come with us on the teleport, it carries 8 people.\n\nSeeker: Is he ready yet?\n\nDM: Seeker 5's done.\n\nSeeker: Oh, great. Okay. Yes. It."
+        }
+      ],
+      "from": "p09",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "astral flight",
+      "note": "The return is compressed into his downward flight and the accepted collective departure, rather than a separate narration of stepping onto the deck."
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1287",
+        "endUid": "u1363"
+      },
+      "actors": [
+        "party",
+        "Seeker 5"
+      ],
+      "reading": "Vindristjarna withdraws from the escarpment with the captured worm aboard, moving out of the Empress’s control range.",
+      "evidence": [
+        {
+          "startUid": "u1287",
+          "endUid": "u1290",
+          "quote": "The… squiggling worm drops onto the deck of Vindristjarna. 20 feet long, it begins thrashing around. The ice shield springs into existence."
+        },
+        {
+          "startUid": "u1293",
+          "endUid": "u1293",
+          "quote": "Seeker: Gone up and away."
+        },
+        {
+          "startUid": "u1350",
+          "endUid": "u1363",
+          "quote": "DM: As you get… as you begin to flee and you get further away, it starts to… decohere a little bit. Like… it almost looks like there'll be… like, bubbles that, like a… just a… like, a bubble pops out of… weird, like… a bubble of… it looks like mercury or something like that. There'll just be, like… bubbles sticking out of its… of its back, and then it'll collapse back in, and 3 more will spring out. It just… it's kinda… like, almost, like, pulsating and… and… hissing. You begin to hear a sort of hissing noise.\n\nDM: As Vindristjarna begins to move further away, suddenly stops moving. And it, like, begins almost dripping. It's like the clock in Dalí, in the Dalí painting that just sort of starts to… drip almost across the deck.\n\nDM: This is after maybe 5 minutes. There doesn't seem to be any… like, it's not… you can… use… I don't know what you use, but you can poke, you know, pokers or whatever."
+        },
+        {
+          "startUid": "u1515",
+          "endUid": "u1519",
+          "quote": "DM: The further away you get, it eventually just… Once you're about 2 miles away, it just stops. It seems complete… I mean, you still probably wouldn't want to… touch it, and it's taking up a lot of space. But… so it is actually a bit tricky how to store it."
+        }
+      ],
+      "from": "p03",
+      "to": null,
+      "completion": "underway",
+      "mode": "fly",
+      "vehicle": "p02",
+      "note": "No destination or landing is established before the party teleports away. The specimen’s shutdown around two miles from the Empress is not a new party stop.",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "away_from",
+          "target": "p03",
+          "note": "Retreating from the interception; the party examines the captured worm while aboard."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1555",
+        "endUid": "u1631"
+      },
+      "actors": [
+        "party",
+        "Seeker 5"
+      ],
+      "reading": "The party and Seeker 5 teleport from Vindristjarna to the army camp outside the Heartroot; Faldrak continues with the ship.",
+      "evidence": [
+        {
+          "startUid": "u1555",
+          "endUid": "u1566",
+          "quote": "Delwath: Seeker is gonna teleport.\n\nDM: Okay.\n\nDelwath: The Seeker is gonna teleport ahead. Actually, we could all teleport.\n\nSeeker: Yeah. Yeah, we should do that.\n\nWellby: We can all just teleport, and then Seeker can cast Mirage Arcane.\n\nDelwath: And then we can rest there, and Vindristjarna can fly through the night. Let's do that.\n\nSeeker: What about Seeker 5?\n\nDelwath: So you can come with us on the teleport, it carries 8 people.\n\nSeeker: Is he ready yet?\n\nDM: Seeker 5's done.\n\nSeeker: Oh, great. Okay. Yes. It."
+        },
+        {
+          "startUid": "u1599",
+          "endUid": "u1599",
+          "quote": "Seeker: 90."
+        },
+        {
+          "startUid": "u1626",
+          "endUid": "u1631",
+          "quote": "DM: Now, you appear… 9pm at night. A little after 9, 9.15 at night, at the… army camp outside of the Heartroot. It is… you know… tense."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u1913",
+        "endUid": "u1922"
+      },
+      "actors": [
+        "party",
+        "Seeker 5",
+        "Faldrak"
+      ],
+      "reading": "After Vindristjarna’s arrival, the party is aboard at the far end of the illusory lake, between the battle and the Heartroot.",
+      "evidence": [
+        {
+          "startUid": "u1768",
+          "endUid": "u1775",
+          "quote": "Vindristjarna arrives in the morning."
+        },
+        {
+          "startUid": "u1913",
+          "endUid": "u1922",
+          "quote": "DM: The Hobgoblins… the battle begins… well, the battle doesn't begin, but the waiting begins. Vindristjarna is positioned, sort of… You know, at the far end of the lake, basically, so that you're sort of in between where the initial encounter will… will occur… and the Heartroot, but not, like, right on top of the Heartroot. You can see from Vindristjarna, the Hobgoblins marching up through the forest in… ranks, mixed archers, sorcerers. They are burning the forest as they go, chopping down trees and just, like, light, you know, lighting fires, just making chaos, basically, as they go. Things are…"
+        },
+        {
+          "startUid": "u1949",
+          "endUid": "u1955",
+          "quote": "You're waiting on Vindristjarna with… Faldrak and a few others, ready to launch the ice turrets on your command."
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "above",
+          "target": "p06",
+          "note": "At the far end of the lake, on the Heartroot side of the initial engagement."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u2131",
+        "endUid": "u2144"
+      },
+      "actors": [
+        "party",
+        "Seeker 5",
+        "Faldrak"
+      ],
+      "reading": "Vindristjarna moves to intercept the six riders along the lake’s west side; the party remains aboard and leaves its original defensive position.",
+      "evidence": [
+        {
+          "startUid": "u2081",
+          "endUid": "u2083",
+          "quote": "DM: You see the remaining 6 duck back, and then swoop along the… the west side of the lake, where there's no troops engaged, now, each with a hobgoblin mounted on its back. Too far away to see any details."
+        },
+        {
+          "startUid": "u2123",
+          "endUid": "u2129",
+          "quote": "DM: Yeah, I mean, they're okay, right? Okay, so, they… So you… so these things are maybe… a hundred feet away from you right now? More than that, because Vindristjarna is a little bit back from the battle, right? So… You're looking maybe 5… you're, you're, like, maybe 3, 400 feet, away from the battle, and these are coming along the… the 6 of them are coming along the side of the lake, so maybe, like, 200 feet… west of the battle."
+        },
+        {
+          "startUid": "u2131",
+          "endUid": "u2144",
+          "quote": "DM: Yeah, you can definitely intercept them. You'll inter… you move to intercept these 6 flying… So, everybody's flying? Or Vindristjarna's moving?\n\nDelwath: Vindristjarna's moving.\n\nDM: Okay. Vindristjarna moves over to intercept, and now you have… basically, coming straight towards the deck of Vindristjarna will… start… When they are about 150 feet away or so, roughly, is when you sort of come into range of them. You can now see them, 6 of them, clearly. There… there are all Hobgoblins, 3 have… flaming crossbows… that are aimed ahead, being prepared to shoot. Two seem to be wizards of some kind, and one is a… a warlord, just somebody with… you know, drawing a big sword as he points it and charges towards you. The sorcerer is prepared to cast a spell.\n\nDelwath: Hold on, but you said there's 6? And none of these are the Empress of Chaos, right?\n\nDM: None of them are the Empress of Chaos."
+        },
+        {
+          "startUid": "u2601",
+          "endUid": "u2606",
+          "quote": "Delwath: Well, we… we went after these people.\n\nKenzo: No, what the hell? I thought the whole point was we're staying next to…\n\nDM: I did too, but you went after the feint.\n\nKenzo: Oh, I totally was not paying attention. That was my bad. I thought the whole point was we're…\n\nDelwath: That's okay, though, this is fine. Okay, how fast…\n\nDM: I mean, I explicitly described the Empress of Chaos not present among these."
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "west_of",
+          "target": "p06",
+          "note": "Intercepting riders flanking the fighting beside the lake; the Empress is not among them."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u2577",
+        "endUid": "u2589"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby spots the Empress flying above the forest on the far side of the battle toward the Heartroot, and points her out.",
+      "evidence": [
+        {
+          "startUid": "u2577",
+          "endUid": "u2589",
+          "quote": "Wellby: Wellby pauses to glance to the far side of the battlefield as he nocks an arrow.\n\nDelwath: Is there something over there?\n\nWellby: Yeah, I'll… shout and point.\n\nDM: She's moving fast, the Empress of Chaos. It's going fast… above the forest… far side of the battlefield, away from the obvious feint.\n\nDM: The Empress of Chaos is flying incredibly fast, straight into the… heart of the valley."
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p02",
+      "observedActors": [
+        "Empress of Chaos"
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2737",
+        "endUid": "u2787"
+      },
+      "actors": [
+        "party",
+        "Seeker 5",
+        "Clay construct"
+      ],
+      "reading": "Seeker 5 teleports the party and clay construct from the ship to the open grove containing the Heartroot.",
+      "evidence": [
+        {
+          "startUid": "u2737",
+          "endUid": "u2751",
+          "quote": "DM: That ends Delwath's turn, Seeker 5.\n\nDelwath: Wait, why isn't Seeker 5 doing the teleport?\n\nDM: Oh. Have to use… use 8th level spells. But that's fine. Seeker 5 can use… I mean, Seeker doesn't have a lot of 8th level spells.\n\nDelwath: I have Seeker 5 do the teleport.\n\nDM: I mean, do you trust Seeker 5? Yeah.\n\nDelwath: No.\n\nKenzo: Well, Seeker 5 doesn't have the track record?\n\nSeeker: But…\n\nDelwath: No, no, no, Seeker [garbled].\n\nSeeker: It's a guaranteed success. I think Seeker 5 can do it.\n\nDM: Okay. If Seeker 5 does it, the… the… archers won't get an attack… before you teleport away."
+        },
+        {
+          "startUid": "u2761",
+          "endUid": "u2766",
+          "quote": "DM: 42. Hold on, that might be a… that might be a mishap.\n\nDelwath: Very familiar.\n\nSeeker: 42 is done.\n\nDelwath: Oh, you said very familiar? It's fine.\n\nDM: Yeah, okay, so that's pretty good. You're fine."
+        },
+        {
+          "startUid": "u2775",
+          "endUid": "u2787",
+          "quote": "DM: So… perfect track record maintained. You vanish… and reappear… in… the middle of… a gro- an open grove, where the Heartroot, you can… you can… see, and you can sense it, you can… you can smell it. It's… yes… dense… like, almost bready, sweet, fruity… smell.\n\nDM: A still air, like… held breath, the sun… diffuse and… I mean, it's pre-dawn, right? So it's, like, just a little bit of the dawn light shining through… golden light, just beginning to light up the trees around the edge of this sort of almost root-like… amphitheater kind of thing formed in the center. Smells of rain… warmth, out-of-season fruit."
+        },
+        {
+          "startUid": "u2874",
+          "endUid": "u2875",
+          "quote": "Seeker: The construct came with us, presumably.\n\nDM: Construct came with you, yup."
+        }
+      ],
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "teleport",
+      "note": "Faldrak and Vindristjarna are not established as accompanying this teleport. Kenzo’s possible visit the preceding night was only suggested, not confirmed."
+    }
+  ]
+}
