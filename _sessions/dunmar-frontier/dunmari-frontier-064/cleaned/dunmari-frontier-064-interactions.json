@@ -1,0 +1,1873 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "ec151cf1f650aec55dc7f148ee0d0a560003aa922e0646c635293ae8148929bb"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-entity-map.json",
+      "sha256": "2ccff3dc39233b5c3ac1fe49fff8cdaf9322a9e397b2e99fc528d78389fb4bd5"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Somi-nai’s mark on the staff",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0062",
+        "endUid": "u0071"
+      },
+      "lines": [
+        "%% u0062:0-46, u0063:0-145, u0064:0-229, u0065:0-3, u0066:0-90, u0067:0-55 %%",
+        "DM: And remember I I forgot this at the end of the at the end of last session. The Fire Spirit, as he left like burned a symbol into your staff, right? The Ohana symbol of the of the Ohana ki, which you'll need to... You'll need to like, Deal with all the problems before it can. It can like, charge up and give you like a power, but it has a minor effect, which is, if you score a critical hit against a creature with your staff, um, it takes an extra 1d6 necrotic damage, and has to make a Wisdom saving throw. If it fails, it's under the effects of the slow spell. So it's like...",
+        "",
+        "%% u0067:55-155 %%",
+        "Kenzo: Wow! Slow down. That's them. I get a... I roll a natural twenty. I'll try and stop that with the staff.",
+        "",
+        "%% u0067:155-161 %%",
+        "DM: Yeah.",
+        "",
+        "%% u0068:0-4, u0069:0-13 %%",
+        "((Table discussion and mechanics))",
+        "",
+        "%% u0070:0-16, u0071:0-30 %%",
+        "Kenzo: That's my staff. It's Staff of the Forest Soul.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Izzarak: Cool.",
+          "DM: You guys want to describe your characters? I remember the names of the two little ones. Oh, right!",
+          "Kenzo: Kenzo is kneeling and catching his breath after the fire elemental leaves.",
+          "DM: Yes, okay.",
+          "Kenzo: Catching his breath, his robe is slashed and torn from battle. I only have thirty four hit points. I'm like half hit points right there. Slashed and torn from battle wounds like the scarred marks. Fire fire marks on his, on his, you know, on his face, and his his robes are are ah torn and slashed, he's wearing the ah um, ah, Still clothing from the ah, the lizardfolk from his his time training and working with them and still holding his staff, which is, adorned with ah, Again the two jade pieces, and ah, uh, you know, has a beautiful runic markings, like up towards the bottom, as he's been carving and working his staff. He looks calm, but kind of staring at the lava and his long... His hair now is is ah, you know, before normal... It's normally like tied back, but is is undone, so it's kind of long hair down to his. You know. Kind of around here right now, but it's sort of waving, and he's um getting himself cleaned up a little bit after battle, and trying to assess, looking at the lava, how to get across."
+        ],
+        "after": [
+          "Izzarak: Izzarak is a contemplative lizardfolk, of all green and blue scales, and a this dark cloak, covered with a sprinkling of twinkling stars. He carries a staff, and also a um branch covered with bells. Oh, to carry!",
+          "Izzarak: Oh! And in his elaborate frame pack two tiny complaining, infants.",
+          "Kenzo: Ooh, metagame, they're also like they're not your kids. They're powerful, somehow, because I remember I was like soul-sighting them, and they had like weird abilities.",
+          "Izzarak: There's something going on with them that was unexpected. Yes, okay, yes. I was given them to take back to this place to the footprint of the gods. But exactly what that means, or who I am to give them to is unclear, and they were given to me by that lizardfolk elder.",
+          "DM: They were given to you by by a jaguar."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The two infants and their unexpected origin",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0083",
+        "endUid": "u0096"
+      },
+      "lines": [
+        "%% u0083:0-35, u0084:0-21, u0085:0-8 %%",
+        "Izzarak: Oh! And in his elaborate frame pack two tiny complaining, infants.",
+        "",
+        "%% u0086:0-55, u0087:0-111 %%",
+        "Kenzo: Ooh, metagame, they're also like they're not your kids. They're powerful, somehow, because I remember I was like soul-sighting them, and they had like weird abilities.",
+        "",
+        "%% u0088:0-36, u0089:0-25, u0090:0-35, u0091:0-48, u0092:0-68, u0093:0-51 %%",
+        "Izzarak: There's something going on with them that was unexpected. Yes, okay, yes. I was given them to take back to this place to the footprint of the gods. But exactly what that means, or who I am to give them to is unclear, and they were given to me by that lizardfolk elder.",
+        "",
+        "%% u0094:0-25, u0095:0-12 %%",
+        "DM: They were given to you by by a jaguar.",
+        "",
+        "%% u0096:0-49 %%",
+        "Izzarak: Was it? How I forget about the jaguar? Thank you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Wow! Slow down. That's them. I get a... I roll a natural twenty. I'll try and stop that with the staff.",
+          "DM: Yeah.",
+          "Izzarak: Nice. Kenzo powers.",
+          "Kenzo: That's my staff. It's Staff of the Forest Soul.",
+          "Izzarak: Izzarak is a contemplative lizardfolk, of all green and blue scales, and a this dark cloak, covered with a sprinkling of twinkling stars. He carries a staff, and also a um branch covered with bells. Oh, to carry!"
+        ],
+        "after": [
+          "Izzarak: That's so cool. It's it's tricky enough to play in each of these one-shots. Tim has to actually, like, create everything. And then, like like running many campaigns, I guess it helps that you write stuff down.",
+          "DM: I do have quite a lot of notes um.",
+          "DM: As you are, as you're sort of looking at the jungle, Enari comes over to you Kenzo you um, Because, Izzarak, were you? Were you? Were you wounded in the last fight, or was it just Kenzo?",
+          "Izzarak: I do not have any hit points knocked off.",
+          "DM: Okay, I think it was just Kenzo, and you know, all right, because you were staying back. He comes over to Kenzo, and he takes like out of a a pouch at the side of his um from the side of his. Ah, Like on his leather strap of this, like like herb, poultice, and sort of rubs it in his hand, and presses it up against you, and it glows with magical energy. And you heal twenty three hit points. I hope that helps."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Wellby answers from the coast",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0218",
+        "endUid": "u0218"
+      },
+      "lines": [
+        "%% u0218:0-218 %%",
+        "DM: So while you're resting, you hear in your mind, Kenzo, I'm having the time of my life on the edge of the endless sea. There's islands that move and kenku are rad as hell and evil sharks. I miss you, man, How are things?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: How do I know how many hit dice I have?",
+          "DM: Uh, if you just click on short rest, it shows you it shows you the hit dice, and there's a on D&D Beyond, and there's a little button that says roll hit dice. Check off the number of ones you want to roll and click, roll, hit dice.",
+          "Kenzo: Alright, boom! I'll do another one.",
+          "Izzarak: So while this is happening, the pteranodon, technically I will circle up above the I will leave in the care of the others temporarily, and circle up above the trees briefly.",
+          "DM: Ah, so you see. Uh uh, um, you see that."
+        ],
+        "after": [
+          "Kenzo: Meanwhile.",
+          "DM: Uh.",
+          "DM: Izzarak, you see from the top, so you can see this volcano in the distance. Um, that's sort of smoking behind you. Now, where the river of lava is coming from ahead you can see what looks like, ah, you know, maybe a couple of miles of just jungle, and then there's just this expanse of water, just like the jungle, is just completely flooded for two, three, four, five miles to a bank of mists and fog in the center, that the other side of the flooded jungle is where you seem to be heading.",
+          "Izzarak: The flooding looks like like it was always that way. Or is that like new?",
+          "DM: Oh, no, it's new."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Tree describes the flooded jungle and his daughter",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0499",
+        "endUid": "u0629"
+      },
+      "lines": [
+        "%% u0499:0-6 %%",
+        "DM: Hello!",
+        "",
+        "%% u0500:0-23 %%",
+        "Kenzo: Greetings, ancient one!",
+        "",
+        "%% u0501:0-15, u0502:0-12 %%",
+        "DM: I have a voice. Who are you?",
+        "",
+        "%% u0503:0-11, u0504:0-26, u0505:0-8, u0506:0-7, u0507:0-31 %%",
+        "Kenzo: I am Kenzo, monk of the Awakened Soul, and also servant to peace and harmony in nature.",
+        "",
+        "%% u0508:0-9 %%",
+        "DM: I am Tree.",
+        "",
+        "%% u0509:0-5, u0510:0-27 %%",
+        "Kenzo: Tree, an honor to speak with you.",
+        "",
+        "%% u0511:0-13, u0512:0-17 %%",
+        "DM: It is strange to speak with you.",
+        "",
+        "%% u0513:0-5, u0514:0-18, u0515:0-28, u0516:0-22, u0517:0-30, u0518:0-10 %%",
+        "Kenzo: Tree. You are most wise. I know that you see and feel everything around you. What can you tell me of Motua, the snake?",
+        "",
+        "%% u0519:0-11, u0520:0-15, u0521:0-25, u0522:0-17, u0523:0-8, u0524:0-5, u0525:0-17, u0526:0-12, u0527:0-21, u0528:0-12, u0529:0-40, u0530:0-29, u0531:0-25 %%",
+        "DM: The snakes! They have gone. Nothing eats my fruit now. My roots are wet. Even the birds and the dinosaurs seem to have flown out of my hair. It is quiet. There is something in the water, though. Can you feel that the current grows stronger every day?",
+        "",
+        "%% u0532:0-34, u0533:0-12, u0534:0-16, u0535:0-58 %%",
+        "Kenzo: Do you know the great snake Motua, who is here? He's the reason. It is the reason for this disharmony for this disturbance.",
+        "",
+        "%% u0536:0-5, u0537:0-60 %%",
+        "DM: Okay, I do not know that name. What manner of creature is a Motua?",
+        "",
+        "%% u0538:0-14, u0539:0-14 %%",
+        "Kenzo: A great snake, a giant snake.",
+        "",
+        "%% u0540:0-223, u0541:0-37 %%",
+        "Kenzo: And I send it just images of of I. I send it like kind of visual images of like the D, the fly over like what we perceive and know of the area, and I send it also like images of what we have seen with the lava and the fire, and I send it images of of the snake.",
+        "",
+        "%% u0542:0-13, u0543:0-14, u0544:0-22 %%",
+        "DM: These are not natural things. The jungle is hurting.",
+        "",
+        "%% u0545:0-5 %%",
+        "Kenzo: It is.",
+        "",
+        "%% u0546:0-10, u0547:0-14, u0548:0-16, u0549:0-22, u0550:0-12, u0551:0-32, u0552:0-34 %%",
+        "Kenzo: Motua must be removed, or it must go home. I hope not to kill it, to fight it. Perhaps he can be reasoned with, but I need to learn more about it.",
+        "",
+        "%% u0553:0-34 %%",
+        "DM: You should speak with my children.",
+        "",
+        "%% u0554:0-24 %%",
+        "Kenzo: Where are your children?",
+        "",
+        "%% u0555:0-33, u0556:0-53, u0557:0-9, u0558:0-25, u0559:0-7, u0560:0-37, u0561:0-23, u0562:0-12 %%",
+        "DM: My daughter lived near here once. I do not know what has happened to her in this water. She was a she was home to a spirit. Eleuha. I don't know if Eleuha could survive. She was not a tall tree not like me.",
+        "",
+        "%% u0563:0-54, u0564:0-10, u0565:0-26, u0566:0-7, u0567:0-14, u0568:0-41, u0569:0-25 %%",
+        "DM: I have not seen her floating past. I have not felt her death, but if this water comes higher it will rot our roots, and if the current grows stronger it will tip us over and drown us.",
+        "",
+        "%% u0570:0-53, u0571:0-44, u0572:0-12 %%",
+        "Kenzo: Can you show me your children just as I've shown you? I'm asking them to send me a picture of them visual image.",
+        "",
+        "%% u0573:0-5, u0574:0-37, u0575:0-2, u0576:0-10, u0577:0-18, u0578:0-58, u0579:0-7, u0580:0-5, u0581:0-14, u0582:0-32, u0583:0-52 %%",
+        "DM: He uh reaches into your mind, and you feel, uh strong and ah, and stiff, and taste floods in your mouth of an earthiness, but also this bright, sweet sort of clear, almost like sparkling water, but swirling with flavors, fruits, and honey and nectar.",
+        "",
+        "%% u0584:0-21, u0585:0-38 %%",
+        "DM: She did love the sun. You've not seen much of it these days.",
+        "",
+        "%% u0586:0-35 %%",
+        "Kenzo: All right. You have other children?",
+        "",
+        "%% u0587:0-10, u0588:0-69 %%",
+        "DM: Only those only those that give homes to the spirits of the jungle do I remember.",
+        "",
+        "%% u0589:0-16, u0590:0-24 %%",
+        "Kenzo: How many others, and how can I find them?",
+        "",
+        "%% u0591:0-27, u0592:0-36, u0593:0-5 %%",
+        "DM: There are no others who are inhabited. So as to how to find them. Okay.",
+        "",
+        "%% u0594:0-30, u0595:0-30, u0596:0-71, u0597:0-193 %%",
+        "DM: He sort of stops for a minute, and you can feel this. This uh it's almost like there's a sort of warmth in your toes, and you feel uh it's a sensation that you would have a hard time putting words to. It's like you. Almost. It almost is like a a like an umami taste, but sort of working its way up from your feet into your legs.",
+        "",
+        "%% u0598:0-8 %%",
+        "Kenzo: Love it.",
+        "",
+        "%% u0599:0-6, u0600:0-5, u0601:0-16 %%",
+        "DM: Follow here. Follow her trail.",
+        "",
+        "%% u0602:0-5, u0603:0-32, u0604:0-60, u0605:0-13, u0606:0-3, u0607:0-20, u0608:0-7, u0609:0-40, u0610:0-7, u0611:0-30, u0612:0-45, u0613:0-17 %%",
+        "Kenzo: Tree. It's an honor to speak with you. Know that myself and my companions we work to bring harmony, to this basin and blessings gratitude, and may the snakes return! May the birds return, and may harmony and order be restored, so that you may continue to flourish and grow with your family.",
+        "",
+        "%% u0614:0-32 %%",
+        "DM: I hope such things come to pass.",
+        "",
+        "%% u0615:0-18, u0616:0-2 %%",
+        "Kenzo: Kenzo bows deeply. Um.",
+        "",
+        "%% u0617:0-274, u0618:0-19, u0619:0-38, u0620:0-100, u0621:0-231, u0622:0-200, u0623:0-2, u0624:0-22 %%",
+        "Kenzo: ((Table phrasing of the ritual)) Kenzo um takes takes a uh uh, you know his his knife from the um, from his pouch, and starts to carve like a small symbol like a small little little etch of the tree, and then grabs uh, you know, takes a little bit of like the moss, or some of the green that's just lying around, and then, like kind of takes it and presses it against the the staff, and just holds it there, and just makes a prayer like while still connected to the tree. And you know, kind of putting his blood... Like as he was sharing his blessing he was, he was holding that one spot, and just, you know, an honor and an honor and uh gratitude to the tree.",
+        "",
+        "%% u0625:0-39, u0626:0-33 %%",
+        "Izzarak: If you find an interesting enough tree, you might collect a story from it.",
+        "",
+        "%% u0627:0-226, u0628:0-58, u0629:0-9 %%",
+        "Kenzo: That's that's what I he's doing. He's, c. That that's the That's why he's carving a little a little uh every person that he carves a little thing, for he'll carve a little a little. And actually, you know, even for this to um. Yeah, anyways, I'm not going to carve the tree, of course. But yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: And you see, Kenzo, you know again, like inside this I'm imagining this, you know. There, there's the basin, and then this massive tree, with these large, you know, rooted vines and stuff you know kind of from the bottom of the water like rolling up and Kenzo kind of hops onto one of these big like giant root structures. That's kind of coming up from the bottom of this this huge tree, you know, kind of pauses and looks up at the tree, and he gives a deep, deep bow to the tree.",
+          "Kenzo: And you know for a moment just puts his hand on the tree. Not not, you know, doing anything yet, but just just to slow himself down and get down to the pace of the tree, feeling the rhythm of the tree the way the tree breathes, the way the tree moves, getting himself down to that pace, and if you could feel Kenzo's heartbeat, you could feel his heartbeat slowly getting slower and slower and slower as he stands slowly, slowly tuning into the frequency and the the slowness of this tree.",
+          "Kenzo: And then, once he feels that he's gotten himself into kind of a syncopation with the tree, he takes his staff, and without even... Just knows exactly where to place it, and like slowly, like inserts the staff.",
+          "Kenzo: And it almost disappears, the bottom of the staff into kind of a rooted little little little kind of dark area, and then it sticks in, and then all of a sudden, the runes that are present on the bottom of the staff start to light up and shoot up the staff all the way to Kenzo's hand. It starts pulsing this blue light, and Kenzo's eyes start to kind of pulse in this blue light as he sits and is ready to speak with the tree.",
+          "Kenzo: We hear this slow."
+        ],
+        "after": [
+          "Kenzo: Do you have? By the way, does the Seeker have like speak with Earth?",
+          "Izzarak: Uh, uh? Nothing quite like that exist that I know.",
+          "Kenzo: You should get that as an ability before you leave the Feywild, because like this, just what what's happening right now like like speak with random shit is like such a cool like. It's like this opens up these like like creative dimensions for the role playing that, like you know, it's like, speak with mountain. You know what I mean, and then you can talk to it, and then it can tell you cool, shit, and like you know.",
+          "Izzarak: I I love that we may have to homebrew it.",
+          "Kenzo: You should homebrew the fuck out of that. That's like a perfect thing to homebrew in Feywild, in the Feywild, too, you know."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Eleuha explains the children, Lengau and Motua",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0725",
+        "endUid": "u1069"
+      },
+      "lines": [
+        "%% u0725:0-22, u0726:0-8, u0727:0-6, u0728:0-6, u0729:0-16 %%",
+        "DM: Ah, and the voice says quietly, Crushu, Kaisa, you've returned.",
+        "",
+        "%% u0730:0-62, u0731:0-8, u0732:0-9, u0733:0-24 %%",
+        "DM: And you see kind of climbing out of the top of the branches. A a woman, a sort of vaguely tree-like woman.",
+        "",
+        "%% u0734:0-77, u0735:0-49, u0736:0-86, u0737:0-3, u0738:0-4 %%",
+        "DM: Um, Her skin looks kind of bark like you can see the sort of, and her hair is like flowing down like this, but it's all leaves. Her clothes are... She's wearing like a gown, a waterlogged gown made entirely of leaves. Um, Her!",
+        "",
+        "%% u0739:0-122, u0740:0-86, u0741:0-55, u0742:0-24, u0743:0-22 %%",
+        "DM: Ah, Her face is greenish, her entire, all of the skin you can see is sort of a faint, pale green. Her eyes are deep brown, and she is dripping as she climbs to the top of this tree and looks at the two babies. It's too dangerous. It's too soon for you to come back. What are you doing here? Addressing the babies?",
+        "",
+        "%% u0744:0-68 %%",
+        "Kenzo: They didn't say anything. Did the tree say the name of the daughter?",
+        "",
+        "%% u0745:0-6 %%",
+        "DM: Eleuha.",
+        "",
+        "%% u0746:0-18 %%",
+        "Kenzo: Kenzo says Eleuha.",
+        "",
+        "%% u0747:0-11 %%",
+        "DM: Who are you?",
+        "",
+        "%% u0748:0-30 %%",
+        "Kenzo: Can I soul-sight a little bit?",
+        "",
+        "%% u0749:0-3, u0750:0-6, u0751:0-13, u0752:0-9, u0753:0-3 %%",
+        "DM: Ah, She is surprised and cautious. Uh.",
+        "",
+        "%% u0754:0-69, u0755:0-2, u0756:0-130, u0757:0-36, u0758:0-22 %%",
+        "DM: She's... She's clearly connected to this tree in some sort of deep way. Um like this tree is part of her, and she is part of the tree, and you can feel the sort of spiritual links between the tree and her. She looks at you again. Who are you? You are not from here.",
+        "",
+        "%% u0759:0-8, u0760:0-37, u0761:0-8, u0762:0-14, u0763:0-27, u0764:0-97 %%",
+        "Kenzo: I am not I'm Kenzo, monk of the Awakened Soul, but I've communed with. I believe, your parent, and Kenzo like points that like takes his staff out and points out the etching, where he drew a tree.",
+        "",
+        "%% u0765:0-5, u0766:0-11, u0767:0-13, u0768:0-24 %%",
+        "DM: Wait! How did you speak to him? You are a strange human.",
+        "",
+        "%% u0769:0-32, u0770:0-10, u0771:0-3 %%",
+        "Kenzo: Kenzo, as he's walking on water, I'm aware. But.",
+        "",
+        "%% u0772:0-35, u0773:0-22, u0774:0-18, u0775:0-17, u0776:0-55, u0777:0-14, u0778:0-27, u0779:0-15 %%",
+        "Kenzo: Let me explain, my companions and I along with the babies. We're here because we know of Motua. We know of the great disturbance that Motua has caused, and we're here to seek peace to seek order to bring order.",
+        "",
+        "%% u0780:0-32, u0781:0-83 %%",
+        "DM: And you brought two babies here. Lengau took them away specifically to keep them safe till this could be dealt with.",
+        "",
+        "%% u0782:0-18 %%",
+        "Kenzo: I will defer to um.",
+        "",
+        "%% u0783:0-25, u0784:0-30 %%",
+        "DM: Izzarak who is underwater scouting the base of the tree.",
+        "",
+        "%% u0785:0-164, u0786:0-54, u0786:54-95, u0787:0-49, u0788:0-10, u0789:0-16, u0790:0-41, u0791:0-29, u0792:0-110, u0792:110-190, u0792:190-226, u0793:0-170, u0793:170-307, u0794:0-102, u0794:102-173, u0795:0-9 %%",
+        "((Repeated table clarification and unrelated discussion))",
+        "",
+        "%% u0796:0-140, u0797:0-102, u0798:0-123, u0799:0-30, u0800:0-6, u0801:0-9, u0802:0-51, u0803:0-23, u0804:0-19, u0805:0-77, u0806:0-62 %%",
+        "DM: ((Underwater scouting)) And as you're searching around the uh that, the tree spirit um Eleuha looks back at Kenzo and says, I don't know about you. You're coming from... You say you want peace and to help us, and yet you disavow responsibility for these two beautiful babies sitting right here in front of you.",
+        "",
+        "%% u0806:62-155, u0807:0-44, u0808:0-209 %%",
+        "Kenzo: My friends Izzarak and God, what the fuck are their names? I keep looking at the Izzarak and Izzarak and Enari are my two... The lizardfolk companions will be back any moment. Izzarak. Do you know Izzarak is the one who was given the babies? That's all I know. I come from the far Far West, and do not know the babies until two days... Until yesterday.",
+        "",
+        "%% u0809:0-20, u0810:0-56, u0811:0-15, u0812:0-50 %%",
+        "DM: Well, you seem to be really a charming babysitter, and I am glad that you are here to protect the children of Lengau, the guardian of the forest.",
+        "",
+        "%% u0813:0-5 %%",
+        "Unknown: Here.",
+        "",
+        "%% u0814:0-64 %%",
+        "Kenzo: I did not know that they were the children of Lengau, but I have.",
+        "",
+        "%% u0814:64-188 %%",
+        "DM: So only because they're important babies they're worth protecting. If they were unimportant babies you just let them drown.",
+        "",
+        "%% u0815:0-129 %%",
+        "Kenzo: I'm protecting them, no matter what we just like. Do you see how damaged I am right now? This is all from protecting them earlier.",
+        "",
+        "%% u0816:0-44 %%",
+        "Kenzo: Is fucking Izzarak back yet? What the fuck.",
+        "",
+        "%% u0816:44-128 %%",
+        "DM: What, Izzarak's? Back? Izzarak pops his head up. In the middle of this conversation.",
+        "",
+        "%% u0816:128-265 %%",
+        "Kenzo: Izzarak, guardian of the babies, will you please please meet my new friend Eleuha, and please explain the baby situation to her. Please.",
+        "",
+        "%% u0817:0-87, u0818:0-6, u0819:0-31, u0820:0-3, u0821:0-53 %%",
+        "Izzarak: Wonderful to meet you Eleuha. If you'll. If you'll forgive me, they might need a snack. I just put them on my back once again, and I dig out something from my pouch here just a moment.",
+        "",
+        "%% u0822:0-28, u0823:0-27 %%",
+        "DM: Well, they seem to like him, she says, directed at Kenzo.",
+        "",
+        "%% u0824:0-35, u0825:0-8, u0826:0-23 %%",
+        "((Repeated table clarification and unrelated discussion))",
+        "",
+        "%% u0827:0-17 %%",
+        "DM: Crushu and Kaisa.",
+        "",
+        "%% u0828:0-3 %%",
+        "Izzarak: Uh.",
+        "",
+        "%% u0829:0-23, u0830:0-28, u0831:0-18 %%",
+        "Izzarak: I tell the story of the talking jaguar who gave them to me as a mission.",
+        "",
+        "%% u0832:0-3, u0833:0-36 %%",
+        "DM: He, Lengau, told you to bring them here?",
+        "",
+        "%% u0834:0-4, u0835:0-30 %%",
+        "Izzarak: So I did. I know the jaguars name?",
+        "",
+        "%% u0835:30-37 %%",
+        "DM: No, no.",
+        "",
+        "%% u0836:0-16, u0837:0-21 %%",
+        "Izzarak: So I didn't know that's what that was.",
+        "",
+        "%% u0838:0-18 %%",
+        "Izzarak: Who is this Lengau?",
+        "",
+        "%% u0839:0-14, u0840:0-16 %%",
+        "DM: You don't know? Foolish mortals.",
+        "",
+        "%% u0841:0-48, u0842:0-15, u0843:0-2, u0844:0-11, u0845:0-4, u0846:0-33, u0847:0-70, u0848:0-10 %%",
+        "DM: The guardian of the jungle Lengau, a shapeshifter he watches over as Azta Lekua, here protects this place. He keeps the strange influences that may creep across the boundaries between realms contained.",
+        "",
+        "%% u0849:0-25, u0850:0-77, u0851:0-12 %%",
+        "DM: But he has fallen silent. He has not been seen. I have not heard of him. None of us have heard from him a long time.",
+        "",
+        "%% u0852:0-17, u0853:0-13, u0854:0-20, u0855:0-22, u0856:0-22, u0857:0-40 %%",
+        "Izzarak: Well, it seems he more recently asked me this favor. Take these two littles here to the footprint. What then to do with them I didn't know.",
+        "",
+        "%% u0858:0-21 %%",
+        "DM: Maybe you are needed.",
+        "",
+        "%% u0859:0-43 %%",
+        "Kenzo: What does all of this have to do with Motua?",
+        "",
+        "%% u0860:0-5, u0861:0-29 %%",
+        "DM: Motua? Creature destroying the land.",
+        "",
+        "%% u0862:0-4 %%",
+        "Unknown: Yes.",
+        "",
+        "%% u0863:0-21, u0864:0-3, u0865:0-55, u0866:0-70, u0867:0-18 %%",
+        "DM: I have not seen them, but follow the current. You will be sucked into the vortex, and if you can get to the other side you will be face to face with the great worm, Motua.",
+        "",
+        "%% u0868:0-35 %%",
+        "Izzarak: What do you mean by the other side?",
+        "",
+        "%% u0869:0-24 %%",
+        "DM: Do you feel the current?",
+        "",
+        "%% u0870:0-14 %%",
+        "Izzarak: It's stronger.",
+        "",
+        "%% u0871:0-9, u0872:0-6, u0873:0-2, u0874:0-9, u0875:0-24, u0876:0-58 %%",
+        "DM: The water drains to elsewhere. Do not know quite where, and as it pours out of this realm there is a great vortex.",
+        "",
+        "%% u0877:0-23 %%",
+        "Kenzo: Can we stop the vortex?",
+        "",
+        "%% u0878:0-7, u0879:0-27 %%",
+        "DM: Can you close gates between planes?",
+        "",
+        "%% u0880:0-38 %%",
+        "Kenzo: I don't see. Why not? How do we do it?",
+        "",
+        "%% u0881:0-31, u0882:0-19, u0883:0-11, u0884:0-14 %%",
+        "DM: I don't know. How do you do it? I've never done it. That's what Lengau is for?",
+        "",
+        "%% u0885:0-15 %%",
+        "Kenzo: Where's Lengau?",
+        "",
+        "%% u0886:0-29 %%",
+        "DM: Driven off by Motua, I think.",
+        "",
+        "%% u0887:0-57, u0888:0-40 %%",
+        "Izzarak: But why would he send me here with these two little ones? Did you say that they were his children?",
+        "",
+        "%% u0889:0-15 %%",
+        "DM: They are the...",
+        "",
+        "%% u0890:0-4 %%",
+        "Unknown: Hmm.",
+        "",
+        "%% u0891:0-24, u0892:0-8 %%",
+        "DM: The wards of this place. They are.",
+        "",
+        "%% u0893:0-5, u0894:0-5, u0895:0-13, u0896:0-32, u0897:0-3, u0898:0-56, u0899:0-88, u0900:0-20, u0901:0-12, u0902:0-22, u0903:0-17, u0904:0-54, u0905:0-54 %%",
+        "DM: Every every season. Every... as time passes, every generation, new guardians are born, and as when they are young, they are blessed with the spirits of all of us who dwell in this land, and their form is unfixed, and many of them are cared for by dryads or Somi-nai, or the birds and the monkeys and the snakes, and even the spiders and worms of this land, and take on the form of those they love.",
+        "",
+        "%% u0906:0-59, u0907:0-44, u0908:0-23, u0909:0-9, u0910:0-25, u0911:0-31, u0912:0-48 %%",
+        "DM: And every once in a while, when Lengau grows old and tired, one of these spirits will become him reborn. They must have taken on this form because they care for you. Whether they will stay this way or choose something else, I guess, is up to you.",
+        "",
+        "%% u0913:0-51 %%",
+        "Izzarak: You're saying they're not lizardfolk babies at all?",
+        "",
+        "%% u0914:0-11 %%",
+        "Kenzo: You're also.",
+        "",
+        "%% u0915:0-49 %%",
+        "DM: They could become such if you, and they so choose.",
+        "",
+        "%% u0916:0-35 %%",
+        "Kenzo: Um. They also can close the portal.",
+        "",
+        "%% u0917:0-13 %%",
+        "Izzarak: You think so?",
+        "",
+        "%% u0918:0-18 %%",
+        "Kenzo: If they are Lengau.",
+        "",
+        "%% u0919:0-37, u0920:0-10 %%",
+        "Izzarak: It sounds like they might become him. He passes.",
+        "",
+        "%% u0921:0-24 %%",
+        "DM: They are not Lengau yet.",
+        "",
+        "%% u0922:0-5 %%",
+        "Unknown: Right.",
+        "",
+        "%% u0923:0-29 %%",
+        "Kenzo: When will they become Lengau?",
+        "",
+        "%% u0924:0-22, u0925:0-10, u0926:0-37, u0927:0-12, u0928:0-17, u0929:0-33 %%",
+        "DM: I don't know this is a I am not a I live in a tree, and I protect them... Protect this place. I am not a scholar of the metaphysical arts.",
+        "",
+        "%% u0930:0-40, u0931:0-6, u0932:0-26, u0933:0-48, u0934:0-5, u0935:0-63, u0936:0-15, u0937:0-37, u0938:0-88, u0939:0-67, u0940:0-15, u0941:0-59 %%",
+        "((Repeated table clarification and unrelated discussion))",
+        "",
+        "%% u0942:0-52, u0943:0-28, u0944:0-27 %%",
+        "Izzarak: I noticed that your roots are pulling up and they're being pulled by the current, they may be in some danger.",
+        "",
+        "%% u0945:0-16, u0946:0-47, u0947:0-22 %%",
+        "DM: I'm sure. Yeah, the current is bad, but what can I do about it? I can't leave my home.",
+        "",
+        "%% u0948:0-193, u0949:0-33, u0950:0-2, u0951:0-15, u0952:0-6 %%",
+        "Kenzo: Let's stay focused here, for we're. I think we're on the right thread here, because we all want this vortex closed. We all want the balance restored, and it seems as though these younglings are somehow connected to this puzzle. So how can we find Lengau?",
+        "",
+        "%% u0953:0-46, u0954:0-56, u0955:0-42 %%",
+        "Kenzo: Kenzo, just like looks at the babies like like with this newfound, just understanding of what they are. And Kenzo just goes totally like into like.",
+        "",
+        "%% u0956:0-122, u0957:0-54, u0958:0-139 %%",
+        "((Repeated table clarification and unrelated discussion))",
+        "",
+        "%% u0959:0-127, u0960:0-200 %%",
+        "Kenzo: ((Approach to meditation)) and just communes with these two lizard babies, and is just sitting there, and I'll. I'll spend some ki doing this, too, and just just just is really trying to understand and be and listen to these babies like really like. Listen with like every like, you know, soul particle.",
+        "",
+        "%% u0961:0-104, u0962:0-107, u0963:0-51, u0964:0-11, u0965:0-136, u0966:0-19, u0967:0-89, u0968:0-80, u0969:0-11, u0970:0-96, u0971:0-64, u0972:0-82, u0972:82-97, u0972:97-144, u0973:0-26, u0974:0-15 %%",
+        "((Repeated table clarification and unrelated discussion))",
+        "",
+        "%% u0975:0-41, u0976:0-149, u0977:0-31, u0978:0-3 %%",
+        "DM: Okay. So as you as you focus on these two these two babies, they they look, they go quiet for a minute, like peek out from Izzarak's shoulder, where they've been. Sort of having their snacks. They sort of look at you shyly, and.",
+        "",
+        "%% u0979:0-96, u0980:0-16, u0981:0-36, u0982:0-62, u0983:0-83, u0984:0-9 %%",
+        "DM: You you have this feeling that so as you, as you're sort of concentrating on them like trying to understand them, you have this feeling that they are. They are, they are everything they have, like their souls, are just constantly kind of expanding and and shifting and sort of reaching a, you know changing.",
+        "",
+        "%% u0985:0-10, u0986:0-69, u0987:0-89, u0988:0-3, u0989:0-46, u0990:0-140, u0991:0-19 %%",
+        "DM: But there, you know, you can see there's this connection that's starting to grow between them and Izzarak, and that's that sort of holds their form right is like as they um. But there's clearly more power in them than is they're not just lizard. They're not just baby lizardfolk, right. There is some power in them, some connection to this Lengau creature, some untapped potential.",
+        "",
+        "%% u0992:0-4, u0993:0-23, u0994:0-8, u0995:0-36, u0996:0-38, u0997:0-17, u0998:0-8 %%",
+        "Kenzo: They is that infinite power, Izzarak. I don't know the answer. But somehow the destiny of these two younglings is beyond any of us. And yet...",
+        "",
+        "%% u0999:0-97, u1000:0-57, u1001:0-27 %%",
+        "Kenzo: Tim, did I get a sense that if they lost the connection with Izzarak that they would like die, or what? Or is it losing that connection would allow them to to be even more powerful or?",
+        "",
+        "%% u1001:27-100, u1002:0-201, u1003:0-92, u1004:0-75 %%",
+        "DM: No. No, no, they're not powerful. They are linked to something powerful. Losing the connection to Izzarak wouldn't... Would just let them change into something else. It it's not the sense that there is not like they're being constrained by this connection. It's that... Okay. Um, it's that there's some depth that there's something else that leads away from them like some deepness that extends like many, many echoes. But it's not being held back.",
+        "",
+        "%% u1005:0-8, u1006:0-131, u1007:0-34, u1008:0-3, u1009:0-123 %%",
+        "((Repeated table clarification and unrelated discussion))",
+        "",
+        "%% u1010:0-27 %%",
+        "Kenzo: Kenzo looks at um, Eleuha.",
+        "",
+        "%% u1011:0-9, u1012:0-14 %%",
+        "DM: Um, Yeah, the the dryad.",
+        "",
+        "%% u1013:0-16, u1014:0-38 %%",
+        "Kenzo: The dryad. Yeah. Can you take us to the plane of souls?",
+        "",
+        "%% u1015:0-11, u1016:0-39 %%",
+        "DM: Ha! No, um, Can you keep my tree from falling down?",
+        "",
+        "%% u1017:0-103, u1018:0-31, u1019:0-16, u1020:0-36, u1021:0-29 %%",
+        "DM: But if this Motua creature would go away, I'm sure Lengau would come back, and all this could be fixed. Can't you just get rid of Motua or do something? They've been thrashing around like a chained beast for a year now.",
+        "",
+        "%% u1022:0-72, u1023:0-33, u1024:0-25 %%",
+        "Kenzo: I understand. But I think if you could help us get to the Plane of Souls there may be a non-violent way of dealing with this problem.",
+        "",
+        "%% u1025:0-20 %%",
+        "Izzarak: Is Motua chained up?",
+        "",
+        "%% u1026:0-3, u1027:0-26, u1028:0-18, u1029:0-33, u1030:0-18, u1031:0-27, u1032:0-16 %%",
+        "DM: Ah, I don't know they seem to be in pain, though you can feel it occasionally. The almost sounds like chains rattling and screams very unsettling.",
+        "",
+        "%% u1033:0-28 %%",
+        "Izzarak: So you can take a this tree.",
+        "",
+        "%% u1034:0-10 %%",
+        "Unknown: That's it.",
+        "",
+        "%% u1035:0-113, u1036:0-58 %%",
+        "DM: No, I I I can't take you to the plane of souls. I I wouldn't even know the first thing about getting there. I I I I'm a spirit who lives in a tree. What do you take me for?",
+        "",
+        "%% u1037:0-51 %%",
+        "Kenzo: Just curious, you're magical, more magical than us.",
+        "",
+        "%% u1038:0-41 %%",
+        "DM: And you can walk on water and speak to my.",
+        "",
+        "%% u1039:0-3 %%",
+        "Unknown: No.",
+        "",
+        "%% u1040:0-33, u1041:0-53 %%",
+        "DM: The tree from which my home came. I guess I can do the second one I can't walk on water.",
+        "",
+        "%% u1042:0-32 %%",
+        "Kenzo: Izzarak, what was your question?",
+        "",
+        "%% u1043:0-30, u1044:0-25, u1045:0-38, u1046:0-40 %%",
+        "Izzarak: Oh, do you travel from here to to this other part of the... You've been able to visit it yourself? How do you know these things about them?",
+        "",
+        "%% u1047:0-12, u1048:0-29, u1049:0-10, u1050:0-14, u1051:0-36, u1052:0-13 %%",
+        "DM: Just listen. You can feel it in the water, the echoes of their pain. It's becoming harder, though, as the vortex grows.",
+        "",
+        "%% u1053:0-75 %%",
+        "DM: Just don't get sucked into the plane of water if you go to confront Motua.",
+        "",
+        "%% u1054:0-20, u1055:0-38, u1056:0-19, u1057:0-39 %%",
+        "Izzarak: I wonder if we might deposit the little ones here with you, for safekeeping too. It will be dangerous where we're going.",
+        "",
+        "%% u1058:0-22, u1059:0-2, u1060:0-49, u1061:0-20, u1062:0-10 %%",
+        "DM: I I would be happy to. If Lengau told you to take them with you, I wouldn't not do that, though. Be careful.",
+        "",
+        "%% u1063:0-8 %%",
+        "Unknown: Exactly.",
+        "",
+        "%% u1064:0-50 %%",
+        "Izzarak: We'll have to do our best to protect them. Anyway.",
+        "",
+        "%% u1065:0-40, u1066:0-29, u1067:0-38, u1068:0-101, u1069:0-104 %%",
+        "Kenzo: All right. Kenzo gives thanks to Eleuha, Kenzo gives thanks to Eleuha. Looks at the lizardfolk, and it's like I'm trying to fact... figure out a peaceful way to do this. But clearly we gotta go kill a snake and or pull out like a giant thorn that's in the snake side or something. But we need to go through the vortex.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Izzarak: I will perch the babies on a branch of the tree and dive down. What were the babies' names again? Do you remember I made them up last time. I don't know that I wrote it down.",
+          "DM: Ah.",
+          "Izzarak: Zan and Zach something like that.",
+          "DM: Okay, um. So you dive down, Kenzo, you're kind of waiting um Enari is just kind of keeping an eye around.",
+          "DM: And you hear this this voice. Um a sort of hold on one Sec. Um, ah, Where is this... Sorry, guys. Give me a second here. Um, ah."
+        ],
+        "after": [
+          "Izzarak: I I get the sense that the snake is trapped somewhere.",
+          "Unknown: Chapter two.",
+          "Kenzo: Has a wound, maybe that we need to fix. Stuck.",
+          "DM: I mean, you saw you saw that that that Motua was wounded in the dream world.",
+          "Kenzo: Can you describe to me again with what what I what K. I saw in the dream world? Sorry."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The remembered wound in Motua",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1073",
+        "endUid": "u1082"
+      },
+      "lines": [
+        "%% u1073:0-76 %%",
+        "DM: I mean, you saw you saw that that that Motua was wounded in the dream world.",
+        "",
+        "%% u1074:0-86 %%",
+        "Kenzo: Can you describe to me again with what what I what K. I saw in the dream world? Sorry.",
+        "",
+        "%% u1075:0-17, u1076:0-54, u1077:0-87 %%",
+        "DM: All you saw was a you saw this like giant sort of serpent-like creature, with like a gap like a a wound that was like sort of leaking this sort of black shadow.",
+        "",
+        "%% u1078:0-29 %%",
+        "Kenzo: What did the wound look like?",
+        "",
+        "%% u1079:0-13, u1080:0-41, u1081:0-35, u1082:0-17 %%",
+        "DM: Just like a a like a long, jagged cut like somebody had sliced this thing with a sword or a axe or something.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Izzarak: We'll have to do our best to protect them. Anyway.",
+          "Kenzo: All right. Kenzo gives thanks to Eleuha, Kenzo gives thanks to Eleuha. Looks at the lizardfolk, and it's like I'm trying to fact... figure out a peaceful way to do this. But clearly we gotta go kill a snake and or pull out like a giant thorn that's in the snake side or something. But we need to go through the vortex.",
+          "Izzarak: I I get the sense that the snake is trapped somewhere.",
+          "Unknown: Chapter two.",
+          "Kenzo: Has a wound, maybe that we need to fix. Stuck."
+        ],
+        "after": [
+          "Kenzo: Okay.",
+          "Kenzo: Let's go to the vortex.",
+          "Izzarak: So we follow the current.",
+          "DM: Yeah, it's easy to follow the current. Yeah, um, and Enari is like, it's like, I'm a strong swimmer. I'm going to go in front like the only one who has the strength higher than eight, I think. Ah.",
+          "DM: And it's it's now like you're trying to slow yourself down as you approach um, and you can start to see now the the um, so you can see like in the distance. There's like uh you know those um like a giant whirlpool, but basically um, but it's like if you've ever seen these those pictures of like ah lakes behind dams where there's a drain from the dam under the water, and it's just this like clear surface. Then there's just this, like. Ah, massive, whirl sort of like."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Reaching Motua and freeing their wounds",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1326",
+        "endUid": "u2015"
+      },
+      "lines": [
+        "%% u1326:0-47, u1327:0-33, u1328:0-6, u1329:0-11, u1330:0-17, u1331:0-19 %%",
+        "Kenzo: Kenzo will stop wherever we are at that moment, and yell at the top of his lungs. Motua! We are here to end your pain. We are here to help.",
+        "",
+        "%% u1332:0-32, u1333:0-3, u1334:0-47, u1335:0-83, u1336:0-78, u1337:0-2, u1338:0-31 %%",
+        "DM: As you as you yell out suddenly, um, Appearing in front of you is this massive maybe thirty foot forty foot long, feathered serpent with a head that is almost cat-like, like with cat ears and sort of a a jaw like this that then fades back into the um ah into a long serpentine body.",
+        "",
+        "%% u1339:0-58, u1340:0-38, u1341:0-25, u1342:0-262, u1343:0-34 %%",
+        "DM: And as you and as you yell out as it appears, it's sort of just kind of emerges out of the mists, and you can see there are three wounds that like cut through its body, and from each of these three wounds there's writhing black... There's three, like, writhing black chains that grow out of the wounds and wrap around this thing's body there's nine chains in total, three from each wound, and it turns, and it looks at you.",
+        "",
+        "%% u1344:0-61, u1345:0-18 %%",
+        "Kenzo: How can we heal you? How can we release you from your chains? We're here to help.",
+        "",
+        "%% u1346:0-31, u1347:0-19, u1348:0-19, u1349:0-6, u1350:0-3, u1351:0-67, u1352:0-10, u1353:0-5, u1354:0-19, u1355:0-14, u1356:0-3, u1357:0-3, u1358:0-22, u1359:0-40, u1360:0-4, u1361:0-16, u1362:0-11, u1363:0-7, u1364:0-5, u1365:0-40, u1366:0-24, u1367:0-28, u1368:0-30, u1369:0-57, u1370:0-19, u1371:0-56, u1372:0-15 %%",
+        "((Dream-wound exchanges and the chain battle))",
+        "",
+        "%% u1373:0-51, u1374:0-24, u1375:0-29, u1376:0-16, u1377:0-39 %%",
+        "DM: ((Motua lashes out)) You can see the wounds themselves are not physical wounds, and the chains are not physical chains.",
+        "",
+        "%% u1378:0-15, u1379:0-23, u1380:0-7, u1381:0-27 %%",
+        "DM: The wounds are. There are wounds in the somehow in the spirit realm itself.",
+        "",
+        "%% u1382:0-41, u1383:0-4, u1384:0-33, u1385:0-7, u1386:0-50, u1387:0-11, u1388:0-9, u1389:0-21 %%",
+        "DM: And as the blood from the closest wounds, like splashes against you, you can see a dream buried in the wound, and you feel like if you just reached out you could be part of the wound.",
+        "",
+        "%% u1390:0-32 %%",
+        "Kenzo: I do it. I merge with the wound.",
+        "",
+        "%% u1391:0-3, u1392:0-39, u1393:0-16, u1394:0-21, u1395:0-19, u1396:0-5, u1397:0-24, u1398:0-91, u1399:0-36, u1400:0-30, u1401:0-3, u1402:0-3, u1403:0-94, u1404:0-11, u1405:0-16, u1406:0-37, u1407:0-10, u1408:0-41, u1409:0-58, u1410:0-38, u1411:0-9, u1412:0-15, u1413:0-9, u1414:0-16, u1415:0-77, u1416:0-6, u1417:0-48, u1418:0-69, u1419:0-34, u1420:0-59, u1421:0-12, u1422:0-23, u1423:0-20, u1424:0-21, u1425:0-22, u1426:0-6, u1427:0-28, u1428:0-10, u1429:0-11, u1430:0-3, u1431:0-9, u1432:0-20, u1433:0-11, u1434:0-17, u1435:0-7, u1436:0-25, u1437:0-26, u1438:0-28, u1439:0-4, u1440:0-11, u1441:0-43, u1442:0-11, u1443:0-6, u1444:0-8, u1445:0-14, u1446:0-24, u1447:0-15, u1448:0-15, u1449:0-12, u1450:0-10, u1451:0-33, u1452:0-53, u1453:0-22, u1454:0-40, u1455:0-10, u1456:0-101, u1457:0-49, u1458:0-38, u1459:0-18, u1460:0-8, u1461:0-10, u1462:0-21, u1463:0-28, u1464:0-22, u1465:0-12, u1466:0-6, u1467:0-9, u1468:0-29, u1469:0-11, u1470:0-18, u1471:0-33, u1472:0-31, u1473:0-13, u1474:0-14, u1475:0-45, u1476:0-25, u1477:0-27, u1478:0-2, u1479:0-14, u1480:0-35, u1481:0-18, u1482:0-11, u1483:0-42, u1484:0-23, u1485:0-87, u1486:0-9, u1487:0-29, u1488:0-3, u1489:0-21, u1490:0-13, u1491:0-27, u1492:0-16, u1493:0-38, u1494:0-49, u1495:0-21, u1496:0-24, u1497:0-52, u1498:0-43, u1499:0-3, u1500:0-50, u1501:0-50, u1502:0-85, u1503:0-13, u1504:0-22, u1505:0-19, u1506:0-9, u1507:0-38, u1508:0-81, u1509:0-6, u1510:0-2, u1511:0-13, u1512:0-63, u1513:0-9, u1514:0-16, u1515:0-119, u1516:0-479, u1517:0-40, u1518:0-405, u1519:0-28, u1520:0-172, u1521:0-5, u1522:0-39, u1523:0-7, u1524:0-22, u1525:0-164, u1526:0-160, u1527:0-20, u1528:0-69, u1529:0-99, u1530:0-42, u1531:0-56, u1532:0-33, u1533:0-40, u1534:0-5, u1535:0-17, u1536:0-16, u1537:0-50, u1538:0-119, u1538:119-174, u1539:0-22, u1540:0-76, u1541:0-27, u1542:0-41, u1543:0-13, u1544:0-70, u1545:0-6, u1546:0-48, u1547:0-71, u1548:0-40, u1549:0-7, u1550:0-10, u1551:0-22, u1552:0-31, u1553:0-21, u1554:0-40, u1555:0-73, u1556:0-20, u1557:0-59, u1558:0-20, u1559:0-3, u1560:0-43, u1561:0-141, u1562:0-18, u1563:0-25, u1564:0-28, u1565:0-45, u1566:0-21, u1567:0-48, u1568:0-29, u1569:0-17, u1570:0-3, u1571:0-38, u1572:0-38, u1573:0-45, u1574:0-51, u1575:0-11, u1576:0-66, u1577:0-192, u1578:0-106, u1579:0-57, u1580:0-14, u1581:0-40, u1582:0-7, u1583:0-20, u1584:0-43, u1585:0-28, u1586:0-23, u1587:0-15, u1588:0-45, u1589:0-90, u1590:0-55, u1591:0-77, u1592:0-57, u1593:0-3, u1594:0-68, u1595:0-15, u1596:0-50, u1597:0-3, u1598:0-47, u1599:0-9, u1600:0-41, u1601:0-52, u1602:0-71, u1603:0-3, u1604:0-42, u1605:0-26, u1606:0-5, u1607:0-34, u1608:0-34, u1609:0-78, u1610:0-4, u1611:0-2, u1612:0-30, u1613:0-24, u1614:0-5, u1615:0-18, u1616:0-122, u1617:0-3, u1618:0-28, u1619:0-27, u1620:0-27, u1621:0-148, u1622:0-22, u1623:0-5, u1624:0-12, u1625:0-13, u1626:0-52, u1627:0-31, u1628:0-33, u1629:0-63, u1629:63-96, u1630:0-13, u1631:0-3, u1632:0-11, u1633:0-76, u1634:0-11, u1635:0-2, u1636:0-1, u1637:0-45, u1638:0-5, u1639:0-4, u1640:0-3, u1641:0-47, u1642:0-53, u1643:0-76, u1644:0-2, u1645:0-13, u1646:0-41, u1647:0-29, u1648:0-10, u1649:0-41, u1650:0-11, u1651:0-6, u1652:0-23, u1653:0-21, u1654:0-7, u1655:0-237, u1656:0-13, u1657:0-21, u1658:0-26, u1659:0-29, u1660:0-34, u1661:0-1, u1662:0-9, u1663:0-22, u1664:0-8, u1665:0-27, u1666:0-25, u1667:0-24, u1668:0-57, u1669:0-15, u1670:0-9, u1671:0-27, u1672:0-27, u1673:0-19, u1674:0-20, u1675:0-21, u1676:0-55, u1677:0-22, u1678:0-18, u1679:0-44, u1680:0-8, u1681:0-26, u1682:0-20, u1683:0-9, u1684:0-123, u1685:0-63, u1686:0-31, u1687:0-13, u1688:0-23, u1689:0-37, u1690:0-47, u1691:0-35, u1692:0-70, u1693:0-68, u1694:0-16, u1695:0-83, u1696:0-10, u1697:0-23, u1698:0-33, u1699:0-31, u1700:0-89, u1701:0-8, u1702:0-45, u1703:0-26, u1704:0-55, u1705:0-19, u1706:0-4, u1707:0-12, u1708:0-2, u1709:0-26, u1710:0-9, u1711:0-18, u1712:0-20, u1713:0-13, u1714:0-25, u1715:0-71, u1716:0-39, u1717:0-23, u1718:0-14, u1719:0-32, u1720:0-5, u1721:0-65, u1722:0-23, u1723:0-25, u1724:0-18, u1725:0-11, u1726:0-6, u1727:0-6, u1728:0-67, u1729:0-11, u1730:0-10, u1731:0-29, u1732:0-3, u1733:0-36, u1734:0-95, u1735:0-15, u1736:0-50, u1737:0-22, u1738:0-6, u1739:0-53, u1739:53-105, u1739:105-184, u1740:0-11, u1741:0-64, u1742:0-9, u1743:0-52, u1744:0-82, u1745:0-40, u1746:0-12, u1747:0-93, u1748:0-3, u1749:0-14, u1750:0-28, u1751:0-16, u1752:0-10, u1753:0-9, u1754:0-21, u1755:0-11, u1756:0-9, u1757:0-46, u1758:0-5, u1759:0-3, u1760:0-24, u1761:0-59, u1762:0-16, u1763:0-8, u1764:0-28, u1765:0-51, u1766:0-53, u1767:0-40, u1768:0-27, u1769:0-43, u1770:0-22, u1771:0-12, u1772:0-45, u1773:0-40, u1774:0-6, u1775:0-9, u1776:0-67, u1777:0-132, u1778:0-324, u1779:0-16, u1779:16-56, u1780:0-26, u1781:0-10, u1782:0-22, u1783:0-63, u1783:63-91, u1783:91-133, u1784:0-29, u1785:0-19, u1786:0-5, u1787:0-24, u1788:0-89, u1789:0-3, u1790:0-3, u1791:0-62, u1792:0-26, u1793:0-73, u1794:0-18, u1795:0-43, u1796:0-59, u1797:0-88, u1798:0-3, u1799:0-25, u1800:0-38, u1801:0-32, u1802:0-12, u1803:0-3, u1804:0-31, u1805:0-6, u1806:0-3, u1807:0-37, u1808:0-99, u1809:0-13, u1810:0-54, u1811:0-40, u1812:0-94, u1813:0-51, u1814:0-77, u1815:0-24, u1816:0-175, u1817:0-43, u1818:0-12, u1819:0-3, u1820:0-12, u1821:0-89, u1822:0-53, u1823:0-3, u1824:0-57, u1825:0-68, u1826:0-2, u1827:0-36, u1828:0-7, u1829:0-46, u1830:0-14, u1831:0-28, u1832:0-14, u1833:0-30, u1834:0-21, u1835:0-27, u1836:0-16, u1837:0-25, u1838:0-5, u1839:0-15, u1840:0-209, u1841:0-6, u1842:0-19, u1843:0-15, u1844:0-13, u1845:0-19, u1846:0-19, u1847:0-30, u1848:0-3, u1849:0-8, u1850:0-17, u1851:0-3, u1852:0-8, u1853:0-13, u1854:0-16, u1855:0-30, u1856:0-240, u1857:0-43, u1858:0-11, u1859:0-57, u1860:0-14, u1861:0-40, u1861:40-180, u1862:0-64, u1863:0-2, u1864:0-21, u1865:0-70, u1866:0-29, u1867:0-34, u1868:0-2, u1869:0-30, u1870:0-21, u1871:0-48, u1872:0-136, u1873:0-48, u1874:0-3, u1875:0-62, u1876:0-8, u1877:0-20, u1878:0-23, u1879:0-20, u1880:0-8, u1881:0-2, u1882:0-43, u1883:0-66, u1884:0-10, u1885:0-14, u1886:0-24, u1887:0-16, u1888:0-10, u1889:0-68, u1890:0-49, u1891:0-21, u1892:0-22, u1893:0-25, u1894:0-19, u1895:0-35, u1896:0-4, u1897:0-9, u1898:0-9, u1899:0-22, u1900:0-21, u1901:0-35, u1902:0-32, u1903:0-37, u1904:0-42, u1905:0-37, u1906:0-5, u1907:0-33, u1908:0-24, u1909:0-155, u1910:0-5, u1911:0-21, u1912:0-31, u1913:0-2, u1914:0-46, u1915:0-12, u1916:0-2, u1917:0-38, u1918:0-16, u1919:0-165, u1920:0-38, u1921:0-118, u1922:0-56, u1923:0-85, u1924:0-19, u1925:0-21, u1926:0-34, u1927:0-47, u1928:0-5, u1929:0-25, u1930:0-18, u1931:0-20, u1932:0-28, u1933:0-25, u1934:0-30, u1935:0-91, u1936:0-13, u1937:0-3, u1938:0-19, u1939:0-7, u1940:0-7, u1941:0-30, u1942:0-15, u1943:0-26, u1944:0-16, u1945:0-77, u1946:0-23, u1947:0-34, u1948:0-3, u1949:0-44, u1950:0-13, u1951:0-32, u1952:0-73, u1953:0-2 %%",
+        "((Dream-wound exchanges and the chain battle))",
+        "",
+        "%% u1954:0-17 %%",
+        "DM: The wound closes.",
+        "",
+        "%% u1955:0-96, u1956:0-2, u1957:0-104, u1957:104-223, u1958:0-13, u1959:0-18, u1960:0-73, u1961:0-14, u1962:0-13, u1963:0-37, u1964:0-36, u1965:0-13, u1966:0-131, u1967:0-24, u1968:0-147, u1969:0-2, u1970:0-6, u1971:0-7, u1972:0-4, u1973:0-18, u1974:0-8, u1975:0-219, u1976:0-18, u1977:0-60, u1978:0-143, u1979:0-18, u1980:0-9, u1981:0-39, u1982:0-21, u1983:0-23, u1984:0-5, u1985:0-55, u1986:0-48, u1987:0-23, u1988:0-35, u1989:0-6, u1990:0-3, u1991:0-22, u1992:0-12, u1993:0-3, u1994:0-3, u1995:0-17, u1996:0-35, u1997:0-87, u1998:0-30, u1999:0-82, u2000:0-43, u2001:0-34, u2002:0-5, u2003:0-17, u2003:17-78, u2004:0-2, u2005:0-19, u2006:0-6 %%",
+        "((Dream-wound exchanges and the chain battle))",
+        "",
+        "%% u2007:0-29, u2008:0-19, u2009:0-26, u2010:0-28, u2011:0-8, u2012:0-5, u2013:0-11, u2014:0-24, u2015:0-10 %%",
+        "DM: Motua then turns and slithers and bows their head and looks at you. Calm now spreading across this realm, and they blink and look up and turn to you and say, Thank you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Ah, the visibility is still about ten or fifteen feet.",
+          "Kenzo: All right. Let's just keep walking.",
+          "Kenzo: My, My my feelers are on super high, though, Tim, I'm just like just like feeling for for anything. I'm feeling for Motua actually like the I know the feathery like little thing in the corner of my eyes... Him? Yeah, where is it? So Kenzo is like sensing is like on full radar right now.",
+          "DM: Okay, keep walking just slowly moving forward in this strange place, keeping your perceptions open for anything that might uh anything that might be here, anything that might disturb your your feelings, your sensing, and you.",
+          "DM: As you walk like you occasionally get this. You hear a sort of kind of distant, soft, and close. It's hard to say which. Um uh, Not exactly a scream, but more like a hiss of pain, like there's something wounded here, and it seems to be avoiding you."
+        ],
+        "after": [
+          "Kenzo: This chain still binds me. Can you help?",
+          "DM: It needs powerful magic, a spell of restoration and the sacrifice.",
+          "Unknown: You.",
+          "DM: Something that is part of your past. It has meaning to you which you can part with as a medium through which this curse can depart.",
+          "Izzarak: Cast Lesser Restoration?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The forgotten warrior’s story and Motua’s memory",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1403",
+        "endUid": "u1497"
+      },
+      "lines": [
+        "%% u1403:0-94, u1404:0-11, u1405:0-16, u1406:0-37, u1407:0-10, u1408:0-41, u1409:0-58, u1410:0-38, u1411:0-9, u1412:0-15, u1413:0-9, u1414:0-16 %%",
+        "DM: ((Wound-entry mechanics)) and you see a lonely warrior nondescript at the end of their life, forgotten, afraid of dying alone, and nobody caring, spitting old, their sword hanging uselessly by their side. And they, this warrior looks up at you and says, I am forgotten, aren't I? No one remembers.",
+        "",
+        "%% u1415:0-77 %%",
+        "Kenzo: Kenzo looks at the warrior. What are they? Are they human, elf? What are they?",
+        "",
+        "%% u1416:0-6, u1417:0-48, u1418:0-69, u1419:0-34, u1420:0-59, u1421:0-12 %%",
+        "DM: Human. A man wearing like chainmail armor and a shield, a sword. But the gear is rusting and and not very well taken care of. Um, All insignia have been removed uh their faces. His face is kind of almost a little blurred nondescript.",
+        "",
+        "%% u1422:0-23, u1423:0-20, u1424:0-21, u1425:0-22 %%",
+        "Kenzo: Kenzo stares at the man the monk of Bhishma. I can tell your story so they will remember.",
+        "",
+        "%% u1426:0-6, u1427:0-28, u1428:0-10, u1429:0-11 %%",
+        "((Table discussion and mechanics))",
+        "",
+        "%% u1430:0-3, u1431:0-9, u1432:0-20, u1433:0-11, u1434:0-17, u1435:0-7, u1436:0-25, u1437:0-26, u1438:0-28, u1439:0-4 %%",
+        "DM: The he turns, and he looks at you, and he says you would do that? Even I, born to a nothing family, undistinguished in battle, I tried to live a good life. But.",
+        "",
+        "%% u1440:0-11, u1441:0-43, u1442:0-11, u1443:0-6, u1444:0-8, u1445:0-14, u1446:0-24, u1447:0-15, u1448:0-15, u1449:0-12, u1450:0-10, u1451:0-33 %%",
+        "DM: My captain! He killed the hobgoblins and got the glory. My brother. He was rich and well traveled. He had a beautiful wife. My nephews were great children. I was simply forgotten, and you would tell even my story?",
+        "",
+        "%% u1452:0-53, u1453:0-22, u1454:0-40 %%",
+        "Kenzo: Kenzo smiles beaming just full of so much compassion, looks at him, and says it would be an honor to tell your story.",
+        "",
+        "%% u1455:0-10 %%",
+        "DM: He blinks.",
+        "",
+        "%% u1456:0-101, u1457:0-49, u1458:0-38, u1459:0-18 %%",
+        "Kenzo: Kenzo takes the staff and points at like all of the runes, like kind of winding the bottom, going up. Then he takes out his his carving knife, and says we'll write your story together. Here. He starts carving.",
+        "",
+        "%% u1460:0-8, u1461:0-10, u1462:0-21, u1463:0-28, u1464:0-22, u1465:0-12, u1466:0-6, u1467:0-9, u1468:0-29, u1469:0-11, u1470:0-18, u1471:0-33, u1472:0-31, u1473:0-13 %%",
+        "DM: He says, I was born, small farming village outside the city of Chardon. There was a great war. Horrible war there. Those who were braver, stronger, fought dragons and allied with elves. I stayed, and I guarded the city, and we fought hobgoblins, but I I did nothing.",
+        "",
+        "%% u1474:0-14, u1475:0-45, u1476:0-25, u1477:0-27, u1478:0-2, u1479:0-14, u1480:0-35, u1481:0-18, u1482:0-11, u1483:0-42, u1484:0-23, u1485:0-87, u1486:0-9, u1487:0-29, u1488:0-3, u1489:0-21, u1490:0-13, u1491:0-27 %%",
+        "DM: After the war, there's so much loss, death, and destruction. I didn't know what to do. I tried to help my brother. He he had an inn. I tried to keep the farm going, but the land was sick, even though Chardonian mages didn't seem to be able to bother to care about me till I died, and then for a moment the image shifts, and you see this cat snake's face, and it is um writhing angrily. He says, No, that is not my story. I am eternal. I protected souls like him.",
+        "",
+        "%% u1492:0-16, u1493:0-38, u1494:0-49, u1495:0-21, u1496:0-24, u1497:0-52 %%",
+        "DM: Until a year ago a creature came to the River of Souls, a shadowy, skeletal figure in a long black cloak, substantial, carrying a wicked looking glaive, and wearing a burning ring of dark fire on its hand.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: The dream world. Izzarak! Do you want to do this as well?",
+          "DM: Are you joining Kenzo in the dream wound?",
+          "Izzarak: I am. Make sure I've got this. The two babies that I can hold them close and keep them safe from this dangerous situation.",
+          "Kenzo: Oh, they're coming with us for sure.",
+          "DM: So as you dive into the wound. Ah, um."
+        ],
+        "after": [
+          "DM: And then you feel the wound begin to close. Ah.",
+          "DM: Izzarak, are you? You're like standing outside the outside of Motua's body just kind of watching this chains. The three chains that were out of this wound um explode and rush towards you, attacking you right where it is. Ah, um, What's your AC?",
+          "Izzarak: Eighteen?",
+          "DM: Oh, but none of them hit. Three chains writhing, crashing against you, severed from this wound that's now healed itself. Kenzo, um emerging like I guess you were just sort of meditating focused on this wound. Step out, Come back! Motua.",
+          "Kenzo: It's just to go back really quick. When Motua started speaking and telling me his story like it. First, I was recording like I start like when I when I do stories on the staff. It's like there's like each. Each story is like I I... The story to like, use me, and like the the essence of like whoever's telling the story to like shape, so it's like it's like the runes are all different. You know what I mean, because depending on who's telling the story like the the the story writes itself differently. You know I'm just a vessel for the story to like, manifest itself and carve itself into the thing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "A dying traveler’s last message",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1632",
+        "endUid": "u1699"
+      },
+      "lines": [
+        "%% u1632:0-11, u1633:0-76, u1634:0-11, u1635:0-2, u1636:0-1, u1637:0-45, u1638:0-5, u1639:0-4, u1640:0-3, u1641:0-47, u1642:0-53, u1643:0-76, u1644:0-2, u1645:0-13, u1646:0-41, u1647:0-29, u1648:0-10 %%",
+        "DM: ((Wound-entry mechanics)) and you see um a nondescript traveler in a vast, empty desert, lying lost um, clearly clearly dying of thirst, and seem to be trying to like, scratch out a like a letter or a note on a stone or on in the sand, or they're sort of obsessively trying to write um Traveler, she looks up as you as you turn and says in a croaking voice when you come towards me.",
+        "",
+        "%% u1649:0-41 %%",
+        "Kenzo: I've come to help you complete your work.",
+        "",
+        "%% u1650:0-11, u1651:0-6, u1652:0-23 %%",
+        "DM: I am dying. I have no paper to write with.",
+        "",
+        "%% u1653:0-21, u1654:0-7 %%",
+        "Kenzo: I can tell your story the way.",
+        "",
+        "%% u1655:0-237, u1656:0-13, u1657:0-21, u1658:0-26, u1659:0-29 %%",
+        "Kenzo: Kenzo Kenzo shows shows him uh, polls, pulls the staff forward directly into her eyes, and then starts wrapping his hand around the staff. So all of the runes and all of the stories starts spinning and spinning and spinning at her vision. Then he stops at a point, and says, now we may write together. Tell me what must be written.",
+        "",
+        "%% u1660:0-34, u1661:0-1, u1662:0-9, u1663:0-22, u1664:0-8, u1665:0-27, u1666:0-25, u1667:0-24 %%",
+        "DM: She kind of like pulls herself up. I just what... I just wanted to write a letter to my family one last time. Tell them they are loved. Will your staff do that?",
+        "",
+        "%% u1668:0-57 %%",
+        "Kenzo: Tell me the words you might... You wish your family to get.",
+        "",
+        "%% u1669:0-15, u1670:0-9, u1671:0-27, u1672:0-27, u1673:0-19, u1674:0-20, u1675:0-21, u1676:0-55, u1677:0-22, u1678:0-18 %%",
+        "DM: Tell them this, tell them they will be taken care of. Tell them that I love them. I'll miss them, but I lived a good life, and I knew the risks, and do not refuse to live their life because I am gone, and we will meet again on the other side.",
+        "",
+        "%% u1679:0-44 %%",
+        "Kenzo: Kenzo carves all of this. What is your name?",
+        "",
+        "%% u1680:0-8, u1681:0-26, u1682:0-20, u1683:0-9 %%",
+        "((Table discussion and mechanics))",
+        "",
+        "%% u1684:0-123, u1685:0-63, u1686:0-31 %%",
+        "DM: Emerging out of her out of her mouth as she is beginning to speak. You see a snake, this like a miniature version of Motua. It crawls out, and it opens. It grows and opens up, and it says they do not have names anymore.",
+        "",
+        "%% u1687:0-13, u1688:0-23, u1689:0-37, u1690:0-47 %%",
+        "DM: The creature, the thing, the skeleton in the black cloak carrying a glaive, he carried with him a scroll, an ancient thing.",
+        "",
+        "%% u1691:0-35, u1692:0-70, u1693:0-68, u1694:0-16, u1695:0-83, u1696:0-10, u1697:0-23, u1698:0-33, u1699:0-31 %%",
+        "DM: As he spoke the words on the scroll it burst into dark fire and turned to ash, and the ring grew brighter. Wrapping around his glaive encasing it in the dark fire of the ring. And as he walked he burned marks with this flaming glaive in the very fabric of the land of the dead marks that pulsed with a heartbeat with life in this lifeless place, and I could not let that stand.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Izzarak: The dragon form is pretty good.",
+          "Kenzo: So Izzarak turning into a dragon.",
+          "DM: Next turn it's your turn now. Are you going into another wound?",
+          "Kenzo: Oh, hell, yeah, wound number two right back in.",
+          "DM: Um."
+        ],
+        "after": [
+          "DM: And three more chains burst out of the wound. There are now five chains swarming towards, Izzarak. Ah, oh, man, and what is your ac is eighteen? Yeah, none of them hit you.",
+          "Kenzo: Excellent! So we like to see. These are terrible chains.",
+          "DM: What are you doing? It's you're muted.",
+          "Unknown: Is.",
+          "Izzarak: Starry form of the dragon. So that's the concentration, and saving throw the also. It's my and that's a bonus action to to go for wild shape. So that's my last one. How long does that last?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Redemption for the holy warrior and Grash’s attack",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1740",
+        "endUid": "u1978"
+      },
+      "lines": [
+        "%% u1740:0-11, u1741:0-64, u1742:0-9, u1743:0-52, u1744:0-82, u1745:0-40, u1746:0-12, u1747:0-93, u1748:0-3 %%",
+        "DM: And you see a holy warrior, a paladin, in a hopeless battle fighting against dozens of of monsters, of forms shifting. It's not clear. But, uh, you can. You can see behind them like they're like guarding a door. There's uh people fleeing people trying to get out, and they are standing and fighting, heavy armor like plate mail sword, and shield, like holy Avenger style. Um.",
+        "",
+        "%% u1749:0-14, u1750:0-28, u1751:0-16, u1752:0-10, u1753:0-9 %%",
+        "DM: And they turn. They look and and speak in a in a nondescript voice. Um, Have you?",
+        "",
+        "%% u1754:0-21, u1755:0-11, u1756:0-9, u1757:0-46, u1758:0-5, u1759:0-3, u1760:0-24 %%",
+        "DM: I don't know how long I can last. My spirit may not be strong enough for everybody to flee. Dying now... I'm afraid it will hurt.",
+        "",
+        "%% u1761:0-59, u1762:0-16, u1763:0-8, u1764:0-28, u1765:0-51 %%",
+        "DM: Will I be taken by the gods and blessed for my deeds? Or is that not enough? Is this? Does this make things right? Are you here to tell me? I'm damned, no matter what?",
+        "",
+        "%% u1766:0-53 %%",
+        "Kenzo: I'm here to ensure that your story will live forever.",
+        "",
+        "%% u1767:0-40, u1768:0-27, u1769:0-43 %%",
+        "DM: I am not sure my story deserves to live, my soul will be consumed by the nine hells when I pass on. I am afraid.",
+        "",
+        "%% u1770:0-22, u1771:0-12, u1772:0-45 %%",
+        "Kenzo: That's up to the gods. I'm no God, but I can ensure your story lives on forever.",
+        "",
+        "%% u1773:0-40, u1774:0-6, u1775:0-9, u1776:0-67, u1777:0-132, u1778:0-324 %%",
+        "DM: I do not fear for the death of my story. I fear I want to do the right thing in the end, and he turns and he looks behind the at the people running, when he looks at the swarm of shadowy, shifting monsters. ((Battle actions))",
+        "",
+        "%% u1779:0-16 %%",
+        "Kenzo: Let me use your...",
+        "",
+        "%% u1779:16-56 %%",
+        "DM: But it would be so easy to turn and run.",
+        "",
+        "%% u1780:0-26, u1781:0-10 %%",
+        "Kenzo: Don't, turn and run. Stay, I'll help.",
+        "",
+        "%% u1782:0-22 %%",
+        "DM: Why would you do that?",
+        "",
+        "%% u1783:0-63 %%",
+        "Kenzo: Tim, Is he like just holding a shield back to like prevent the.",
+        "",
+        "%% u1783:63-91 %%",
+        "DM: No. He's like fighting this.",
+        "",
+        "%% u1783:91-133 %%",
+        "Kenzo: All right. I'll come and fight with them.",
+        "",
+        "%% u1784:0-29, u1785:0-19, u1786:0-5, u1787:0-24, u1788:0-89, u1789:0-3, u1790:0-3, u1791:0-62, u1792:0-26, u1793:0-73, u1794:0-18, u1795:0-43, u1796:0-59, u1797:0-88, u1798:0-3, u1799:0-25, u1800:0-38, u1801:0-32, u1802:0-12, u1803:0-3, u1804:0-31, u1805:0-6, u1806:0-3, u1807:0-37, u1808:0-99, u1809:0-13, u1810:0-54, u1811:0-40, u1812:0-94, u1813:0-51, u1814:0-77, u1815:0-24, u1816:0-175, u1817:0-43, u1818:0-12, u1819:0-3, u1820:0-12, u1821:0-89, u1822:0-53, u1823:0-3, u1824:0-57, u1825:0-68, u1826:0-2, u1827:0-36, u1828:0-7, u1829:0-46, u1830:0-14, u1831:0-28, u1832:0-14, u1833:0-30, u1834:0-21, u1835:0-27, u1836:0-16, u1837:0-25, u1838:0-5 %%",
+        "((Checks, damage and the outside chain battle))",
+        "",
+        "%% u1839:0-15, u1840:0-209 %%",
+        "Kenzo: Closes his eyes and just gives the warrior all of his strength, just like, takes all of his spirit, all of his energy, and just shifts it completely into the warrior, merges with his spirit, and gives him all of his strength.",
+        "",
+        "%% u1841:0-6, u1842:0-19, u1843:0-15, u1844:0-13, u1845:0-19, u1846:0-19, u1847:0-30, u1848:0-3, u1849:0-8, u1850:0-17, u1851:0-3, u1852:0-8, u1853:0-13, u1854:0-16, u1855:0-30 %%",
+        "((Checks, damage and the outside chain battle))",
+        "",
+        "%% u1856:0-240, u1857:0-43, u1858:0-11, u1859:0-57, u1860:0-14, u1861:0-40 %%",
+        "DM: ((Table commentary)) The warrior looks, but the warrior looks bolstered. He looks strong and and turns then, and like holds up his shield and starts pushing back the monsters away from you as you feel yourself um as you merge with him. You feel you. You see the the the sweep of the past of this warrior's life. You see the ah you see the um yeah time he spent as a youth as a as.",
+        "",
+        "%% u1861:40-180 %%",
+        "Kenzo: I see, is like all of my strength, is in the warrior. The only like strength that I have remaining is just to draw what I see on the staff.",
+        "",
+        "%% u1862:0-64, u1863:0-2, u1864:0-21, u1865:0-70, u1866:0-29, u1867:0-34, u1868:0-2, u1869:0-30, u1870:0-21, u1871:0-48 %%",
+        "DM: Okay, you see, you see his time as a youth a bandit, horse thief um falling in, you know. Never, never a murderer but robbing caravans. Um, you know, growing up a, on the streets. No parents, you know, never finding anybody to uh give them a hand up, or a or a a way out, turning to theft because he felt he had nothing else to do.",
+        "",
+        "%% u1872:0-136, u1873:0-48, u1874:0-3, u1875:0-62, u1876:0-8 %%",
+        "DM: First stealing little things, then working his way up to stealing bigger things and growing up in a city not one that you recognize, but in many ways a childhood very similar to Kenzo's um, except if you had in Kenzo's life, if he had never found Kaeso, and then.",
+        "",
+        "%% u1877:0-20, u1878:0-23, u1879:0-20, u1880:0-8, u1881:0-2, u1882:0-43, u1883:0-66, u1884:0-10, u1885:0-14, u1886:0-24 %%",
+        "DM: Much later, like uh, you know, middle age um a price on his head, and then um finding his way to a temple of the Wildling one of the eight Divines that's worshipped in Chardon and Sembara, and saying to the priest, I can't go on like this.",
+        "",
+        "%% u1887:0-16, u1888:0-10, u1889:0-68, u1890:0-49, u1891:0-21 %%",
+        "DM: And then hearing rumors, um monster attacks, trolls, raiding villages, and saying to the priest, I could repay them for what I've taken from them. Would that be enough?",
+        "",
+        "%% u1892:0-22, u1893:0-25, u1894:0-19, u1895:0-35, u1896:0-4, u1897:0-9, u1898:0-9, u1899:0-22, u1900:0-21, u1901:0-35, u1902:0-32 %%",
+        "DM: And the priest saying, the Wildling takes in all. The Wildling is the protector of orphans, and those who have struggles. They will see your true self. If you have, if you have come seeking an honest forgiveness, and they will not turn you away.",
+        "",
+        "%% u1903:0-37, u1904:0-42, u1905:0-37, u1906:0-5, u1907:0-33, u1908:0-24, u1909:0-155, u1910:0-5, u1911:0-21, u1912:0-31, u1913:0-2, u1914:0-46, u1915:0-12, u1916:0-2, u1917:0-38, u1918:0-16, u1919:0-165, u1920:0-38, u1921:0-118, u1922:0-56, u1923:0-85, u1924:0-19, u1925:0-21, u1926:0-34, u1927:0-47, u1928:0-5 %%",
+        "((Checks, damage and the outside chain battle))",
+        "",
+        "%% u1929:0-25, u1930:0-18, u1931:0-20, u1932:0-28, u1933:0-25 %%",
+        "Kenzo: I look to him. And I say, I know your story. I know your journey. I've walked the path myself. Redemption is before you.",
+        "",
+        "%% u1934:0-30, u1935:0-91, u1936:0-13, u1937:0-3, u1938:0-19, u1939:0-7, u1940:0-7 %%",
+        "DM: It turns. It looks back at you all you're like now, actually like super weak, and but he now has a sense of your strength. You've walked you with all that Power started like me?",
+        "",
+        "%% u1941:0-30, u1942:0-15 %%",
+        "Kenzo: And then shows him the wounds. In the daylight...",
+        "",
+        "%% u1943:0-26, u1944:0-16, u1945:0-77, u1946:0-23 %%",
+        "Kenzo: I grew up with no parents. I grew up alone. It was only by sheer luck that I was taken in by somebody who could teach me. I was abused, poisoned.",
+        "",
+        "%% u1947:0-34, u1948:0-3, u1949:0-44, u1950:0-13, u1951:0-32 %%",
+        "DM: He turns, and he looks back at the um, at the monsters, and he looks at you, and he there is hope turns and runs back into battle.",
+        "",
+        "%% u1952:0-73, u1953:0-2 %%",
+        "((Checks, damage and the outside chain battle))",
+        "",
+        "%% u1954:0-17 %%",
+        "DM: The wound closes.",
+        "",
+        "%% u1955:0-96, u1956:0-2, u1957:0-104 %%",
+        "DM: And as he runs into battle. Um, you can see now it's not him fighting. It's Motua fighting this. Ah skeleton creature, this skeleton with dark robes and a smoking glaive, and a ring of burning black fire.",
+        "",
+        "%% u1957:104-223 %%",
+        "Kenzo: Is that is it? Is it? Is it the the the, the, the, the, the the the Drankorian guy? I spoke to in dream world. Is it in.",
+        "",
+        "%% u1958:0-13 %%",
+        "DM: Apollyon? No.",
+        "",
+        "%% u1959:0-18 %%",
+        "Kenzo: Is it? Is it Grash?",
+        "",
+        "%% u1960:0-73 %%",
+        "DM: Seeker would know for sure. So because he's the only one who's seen Grash.",
+        "",
+        "%% u1961:0-14 %%",
+        "Kenzo: But the glaive.",
+        "",
+        "%% u1962:0-13, u1963:0-37, u1964:0-36, u1965:0-13 %%",
+        "DM: Cutting these deep wounds into Motua, and from each from each blow that Grash strikes at at Motua. Um.",
+        "",
+        "%% u1966:0-131, u1967:0-24, u1968:0-147, u1969:0-2, u1970:0-6, u1971:0-7, u1972:0-4, u1973:0-18, u1974:0-8 %%",
+        "DM: This, like black fire created by this scroll that Grash read um pouring off the glaive. You see these chains start to emerge as um as each wound is, is ah, is created by the swing of this glaive, and as each each wound, as three chains emerge from each wound, begins to pull Motua down slower and slower um moving weakly, then almost not at all, and then.",
+        "",
+        "%% u1975:0-219, u1976:0-18, u1977:0-60, u1978:0-143 %%",
+        "DM: Beginning to fall, you see this serpent creature, this feathered serpent, begin to tumble from the land of the dead, and the shadowy skeleton staggering back as if exhausted, but holding up a hand in triumph. This ring, their hand glowing tendrils of blue energy reaching out from the ring, grasping souls from the land of the dead, and pulling them through these marks that he had carved into the fabric of the plane itself again, using this.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I mean Wrath of Nature is also pretty good. So the trees reanimate. Ah, and you attempt to ah restrain everything again. Ah, One of them avoids being restrained. The rest are restrained by the like vines and roots that grow up again, having been temporarily disentangled by uh by the psychic damage, as you killed one chain, that is your turn. Ah.",
+          "DM: Kenzo.",
+          "Kenzo: Back to healing again! Let's go into the last wound.",
+          "DM: You take another thirteen points of necrotic damage.",
+          "Kenzo: This is going to kill me. It's all just fucking necrotic damage. Jesus Christ!"
+        ],
+        "after": [
+          "Kenzo: What's the [garbled]?",
+          "Unknown: His power.",
+          "Kenzo: Explains Grash's power of resurrection. A resurrection. Yeah.",
+          "DM: And then you fall back. Three writhing chains now surrounding both Kenzo and Izzarak. I guess I shouldn't skip to have happy music yet.",
+          "Kenzo: Only has two hit points."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The chain requires restoration and a meaningful sacrifice",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2016",
+        "endUid": "u2037"
+      },
+      "lines": [
+        "%% u2016:0-26, u2017:0-13 %%",
+        "Kenzo: This chain still binds me. Can you help?",
+        "",
+        "%% u2018:0-8, u2019:0-15, u2020:0-22, u2021:0-3, u2022:0-13 %%",
+        "DM: It needs powerful magic, a spell of restoration and the sacrifice.",
+        "",
+        "%% u2023:0-3 %%",
+        "Unknown: You.",
+        "",
+        "%% u2024:0-9, u2025:0-26, u2026:0-21, u2027:0-23, u2028:0-11, u2029:0-36 %%",
+        "DM: Something that is part of your past. It has meaning to you which you can part with as a medium through which this curse can depart.",
+        "",
+        "%% u2030:0-24 %%",
+        "Izzarak: Cast Lesser Restoration?",
+        "",
+        "%% u2031:0-28 %%",
+        "DM: We need greater restoration.",
+        "",
+        "%% u2032:0-9, u2033:0-30 %%",
+        "Izzarak: I was not... I don't think I can cast that.",
+        "",
+        "%% u2034:0-33 %%",
+        "DM: Yeah, Once you get back together.",
+        "",
+        "%% u2035:0-6 %%",
+        "Izzarak: I see.",
+        "",
+        "%% u2036:0-59, u2037:0-10 %%",
+        "DM: But you may just have to deal with the disadvantage of that some time.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Izzarak: I have a spell. You don't need [garbled].",
+          "Kenzo: What, we have a spell called what?",
+          "Izzarak: I can wake up the dead.",
+          "DM: And the other two chains are then promptly killed by bashing uh trees from Izzarak, and as.",
+          "DM: Motua then turns and slithers and bows their head and looks at you. Calm now spreading across this realm, and they blink and look up and turn to you and say, Thank you."
+        ],
+        "after": [
+          "Kenzo: Kenzo pulls um Dunmari horn from his back says.",
+          "Kenzo: My life has changed in so many ways. When I crossed the desert met new companions.",
+          "Kenzo: This is something I've carried with me in this chapter of my life through all of the changes that I've gone through, something that represents the man I've become.",
+          "Unknown: You, you.",
+          "Kenzo: This is worthy sacrifice. I give it gladly."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Kenzo offers his Dunmari horn",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2038",
+        "endUid": "u2069"
+      },
+      "lines": [
+        "%% u2038:0-11, u2039:0-2, u2040:0-26, u2041:0-4 %%",
+        "Kenzo: Kenzo pulls um Dunmari horn from his back says.",
+        "",
+        "%% u2042:0-19, u2043:0-16, u2044:0-6, u2045:0-18, u2046:0-19 %%",
+        "Kenzo: My life has changed in so many ways. When I crossed the desert met new companions.",
+        "",
+        "%% u2047:0-116, u2048:0-25, u2049:0-19 %%",
+        "Kenzo: This is something I've carried with me in this chapter of my life through all of the changes that I've gone through, something that represents the man I've become.",
+        "",
+        "%% u2050:0-4, u2051:0-4 %%",
+        "((Table discussion and mechanics))",
+        "",
+        "%% u2052:0-25, u2053:0-17 %%",
+        "Kenzo: This is worthy sacrifice. I give it gladly.",
+        "",
+        "%% u2054:0-4 %%",
+        "((Table discussion and mechanics))",
+        "",
+        "%% u2055:0-16, u2056:0-15, u2057:0-54, u2058:0-46, u2059:0-17, u2060:0-32 %%",
+        "DM: I do not possess magic you need. You must find somebody with this magic of restoration. Give this to them to be consumed by the spell. Be freed of this. It's not a boon I can grant you.",
+        "",
+        "%% u2061:0-18, u2062:0-5, u2063:0-31, u2064:0-17, u2065:0-15, u2066:0-67 %%",
+        "Kenzo: I understand, Motua. Motua, I'm so happy that you are free. I'm so happy that you are healed, and that balance may be restored to this beautiful, beautiful land.",
+        "",
+        "%% u2067:0-29, u2068:0-23, u2069:0-6 %%",
+        "Kenzo: I paid a price, but it's one, that I'm willing to pay. Motua.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: We need greater restoration.",
+          "Izzarak: I was not... I don't think I can cast that.",
+          "DM: Yeah, Once you get back together.",
+          "Izzarak: I see.",
+          "DM: But you may just have to deal with the disadvantage of that some time."
+        ],
+        "after": [
+          "DM: Yes.",
+          "Kenzo: Kenzo, yeah. Can I commune with you?",
+          "DM: May.",
+          "Kenzo: Kenzo closes his eyes. Yes, as close to Motua as as Motua well. Motua, is willing. Kenzo will like lean. Sort of lean his head forward so that they touch, and Kenzo closes his eyes, and then just completely surrenders allows his spirit to just flow and merge with Motua's.",
+          "DM: You you feel this sensation of thousands, hundreds of thousands of droplets of it's almost like it's almost like standing under a waterfall."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Communion with Motua and the Hutsu blessing",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2071",
+        "endUid": "u2122"
+      },
+      "lines": [
+        "%% u2071:0-36 %%",
+        "Kenzo: Kenzo, yeah. Can I commune with you?",
+        "",
+        "%% u2072:0-4 %%",
+        "DM: May.",
+        "",
+        "%% u2073:0-22, u2074:0-34, u2075:0-96, u2076:0-26, u2077:0-35, u2078:0-25, u2079:0-28 %%",
+        "Kenzo: Kenzo closes his eyes. Yes, as close to Motua as as Motua well. Motua, is willing. Kenzo will like lean. Sort of lean his head forward so that they touch, and Kenzo closes his eyes, and then just completely surrenders allows his spirit to just flow and merge with Motua's.",
+        "",
+        "%% u2080:0-17, u2081:0-12, u2082:0-35, u2083:0-11, u2084:0-61 %%",
+        "DM: You you feel this sensation of thousands, hundreds of thousands of droplets of it's almost like it's almost like standing under a waterfall.",
+        "",
+        "%% u2085:0-72, u2086:0-10, u2087:0-8, u2088:0-35, u2089:0-20, u2090:0-45, u2091:0-5 %%",
+        "DM: And yet you somehow know that each one of these is a soul that Motua has protected, crossing the land of the dead to reach their gods who claim them, and it blends together into this waterfall of life.",
+        "",
+        "%% u2092:0-18, u2093:0-15, u2094:0-14, u2095:0-7, u2096:0-23, u2097:0-13, u2098:0-30, u2099:0-39, u2100:0-14, u2101:0-29, u2102:0-21, u2103:0-30 %%",
+        "DM: And after a moment looks up at you and thank you. I mean, I need time to recover, and I do not know if I can heal this place, I know one who can if he can, reach us, and you hear a low purring growl behind you. And there is a jaguar pacing in the jungle, watching.",
+        "",
+        "%% u2104:0-46, u2105:0-34 %%",
+        "((Table discussion and mechanics))",
+        "",
+        "%% u2106:0-98, u2107:0-39, u2108:0-142, u2109:0-9, u2110:0-8, u2111:0-128, u2112:0-4 %%",
+        "Kenzo: I imagine I was imagining I was holding holding my staff like as where our foreheads are touching, and as he was describing the waterfall, I was imagining kind of like a swirl of like blue light, like kind of spinning around the staff, like from our foreheads down into the ground, not like, but like like like um, yeah, like water droplets like kind of swirling, in a helix around the staff, and then going down to to the ground that.",
+        "",
+        "%% u2113:0-56, u2114:0-91, u2115:0-12, u2116:0-152, u2117:0-15 %%",
+        "DM: That's perfect. And as as you actually I realize now, as this is perfect, too, as the as you part from Motua, this swirling energy leaves a trail of the Hutsu ki which gives you... Will also give you it. There will be more items, but gives you advantage on death saving throws, canceling out the disadvantage from the from the chain.",
+        "",
+        "%% u2118:0-61, u2119:0-48, u2120:0-45, u2121:0-12, u2122:0-40 %%",
+        "DM: Um, and you also feel your staff filling up with ki. Not just not just your own sort of energy, but the unique spiritual ki of this place. And as the jaguar um turns and uh looks at you, you can see your staff.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: You.",
+          "DM: I do not possess magic you need. You must find somebody with this magic of restoration. Give this to them to be consumed by the spell. Be freed of this. It's not a boon I can grant you.",
+          "Kenzo: I understand, Motua. Motua, I'm so happy that you are free. I'm so happy that you are healed, and that balance may be restored to this beautiful, beautiful land.",
+          "Kenzo: I paid a price, but it's one, that I'm willing to pay. Motua.",
+          "DM: Yes."
+        ],
+        "after": [
+          "DM: So this um, this sort of Hutsu mark from Motua the the jaguar growls, and actually well, first, the jaguar turns to to Izzarak and says, you have done well to keep open the door to this place that I could travel through. Thank you.",
+          "DM: I will restore what I can with Motua's help, I ask you, though, Izzarak, do you wish to continue to guard these children? They will gladly come with me if asked, but they seem to have a fondness for you, and should you wish it, they will stay, I am sure.",
+          "Izzarak: Perhaps it is my destiny to.",
+          "DM: We would welcome you to this land. There is much good you could do here.",
+          "Izzarak: Good work to do."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Lengau returns and offers guardianship and gifts",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2123",
+        "endUid": "u2189"
+      },
+      "lines": [
+        "%% u2123:0-46, u2124:0-89, u2125:0-83, u2126:0-10 %%",
+        "DM: So this um, this sort of Hutsu mark from Motua the the jaguar growls, and actually well, first, the jaguar turns to to Izzarak and says, you have done well to keep open the door to this place that I could travel through. Thank you.",
+        "",
+        "%% u2127:0-6, u2128:0-37, u2129:0-26, u2130:0-48, u2131:0-9, u2132:0-29, u2133:0-23, u2134:0-17, u2135:0-23, u2136:0-26 %%",
+        "DM: I will restore what I can with Motua's help, I ask you, though, Izzarak, do you wish to continue to guard these children? They will gladly come with me if asked, but they seem to have a fondness for you, and should you wish it, they will stay, I am sure.",
+        "",
+        "%% u2137:0-28 %%",
+        "Izzarak: Perhaps it is my destiny to.",
+        "",
+        "%% u2138:0-34, u2139:0-37 %%",
+        "DM: We would welcome you to this land. There is much good you could do here.",
+        "",
+        "%% u2140:0-16 %%",
+        "Izzarak: Good work to do.",
+        "",
+        "%% u2141:0-7 %%",
+        "DM: Indeed.",
+        "",
+        "%% u2142:0-46, u2143:0-3, u2144:0-2, u2145:0-5, u2146:0-224, u2147:0-114, u2148:0-10, u2149:0-2, u2150:0-45, u2151:0-250, u2152:0-3, u2153:0-2 %%",
+        "DM: And turns the jaguar turns and paces to Kenzo, and uh grabs, grabs your staff again, and you can see these, like the plants, begin to like images of plants begin to grow, and you can see so um this Amezza, the dream... This dreamberry uh begins to grow out of your staff, and then sort of it grows like a real thing. But then it kind of fades into the wood like it's a woodprint in the top of the staff. Um and the ah Urtaro, the the um, the vine that grows where that grows in the lizardfolk, or the sorry, the lily pad that grows in the lizardfolk ponds um from the bottom of your staff, the the like colors of the flower of that the lily pad swirl up, forming kind of an abstract design going around the bottom, and um.",
+        "",
+        "%% u2154:0-11, u2155:0-13, u2156:0-21, u2157:0-6, u2158:0-12 %%",
+        "DM: Lengau says it will carry this forest with you, and so I would ask.",
+        "",
+        "%% u2159:0-104 %%",
+        "DM: Is there any other boon I can grant you? Is there anywhere I can send you to anywhere you wish to travel?",
+        "",
+        "%% u2160:0-4 %%",
+        "Izzarak: Nice.",
+        "",
+        "%% u2161:0-25, u2162:0-17, u2163:0-28, u2164:0-12 %%",
+        "Kenzo: Before I go, and there is... Through my staff. Maintain my connection here? Commune here?",
+        "",
+        "%% u2165:0-50, u2166:0-5, u2167:0-36 %%",
+        "Kenzo: I seek always to learn from you my great teachers, Motua... What's the name of the jaguar again?",
+        "",
+        "%% u2168:0-50, u2169:0-88, u2170:0-3 %%",
+        "((Table discussion and mechanics))",
+        "",
+        "%% u2171:0-18, u2172:0-6, u2173:0-16, u2174:0-15, u2175:0-46, u2176:0-18, u2177:0-18 %%",
+        "Kenzo: My great teachers, Lengau before I depart, I ask one favor to spend as much time as I can before I let go and learn from you my great teachers.",
+        "",
+        "%% u2178:0-7, u2179:0-51, u2180:0-68 %%",
+        "DM: You may may dwell in this forest for as long as pleases you and I can send you to where you are going when you need to be there.",
+        "",
+        "%% u2181:0-33, u2182:0-52, u2183:0-17, u2184:0-19, u2185:0-54, u2186:0-7 %%",
+        "Kenzo: Kenzo starts to cry in gratitude. He gets down on his knees and so gratefully prays to the great jaguar, to the great Snake, and also looks in deep gratitude to his two lizardfolk friends.",
+        "",
+        "%% u2187:0-17 %%",
+        "Izzarak: Four, technically.",
+        "",
+        "%% u2188:0-31, u2189:0-3 %%",
+        "Kenzo: All four, Wow! And the spirits. And.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And after a moment looks up at you and thank you. I mean, I need time to recover, and I do not know if I can heal this place, I know one who can if he can, reach us, and you hear a low purring growl behind you. And there is a jaguar pacing in the jungle, watching.",
+          "Kenzo: And the babies. By the way, Tim, if it's okay. When Motua and I are in communion.",
+          "Kenzo: I imagine I was imagining I was holding holding my staff like as where our foreheads are touching, and as he was describing the waterfall, I was imagining kind of like a swirl of like blue light, like kind of spinning around the staff, like from our foreheads down into the ground, not like, but like like like um, yeah, like water droplets like kind of swirling, in a helix around the staff, and then going down to to the ground that.",
+          "DM: That's perfect. And as as you actually I realize now, as this is perfect, too, as the as you part from Motua, this swirling energy leaves a trail of the Hutsu ki which gives you... Will also give you it. There will be more items, but gives you advantage on death saving throws, canceling out the disadvantage from the from the chain.",
+          "DM: Um, and you also feel your staff filling up with ki. Not just not just your own sort of energy, but the unique spiritual ki of this place. And as the jaguar um turns and uh looks at you, you can see your staff."
+        ],
+        "after": [
+          "DM: Yeah, go ahead.",
+          "Kenzo: Yeah, yeah, that's it.",
+          "DM: Ah, during during the time that he spends uh, you learn about these new properties of your staff. So each basically you have the Amezza, Hutsu, Urtaro and Ohana ki um, and they each.",
+          "DM: They don't the ki doesn't regenerate, but you can spend them each to do one so if you spend the Amezza ki, it lets you enter a trance that allows you to visit the dream world.",
+          "Kenzo: Look. Yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Four forest ki gifts and continued communion",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2192",
+        "endUid": "u2218"
+      },
+      "lines": [
+        "%% u2192:0-41, u2193:0-121, u2194:0-3, u2195:0-14 %%",
+        "DM: Ah, during during the time that he spends uh, you learn about these new properties of your staff. So each basically you have the Amezza, Hutsu, Urtaro and Ohana ki um, and they each.",
+        "",
+        "%% u2196:0-95, u2197:0-22, u2198:0-57 %%",
+        "DM: They don't the ki doesn't regenerate, but you can spend them each to do one so if you spend the Amezza ki, it lets you enter a trance that allows you to visit the dream world.",
+        "",
+        "%% u2198:57-67 %%",
+        "Kenzo: Look. Yes.",
+        "",
+        "%% u2198:67-97, u2199:0-101, u2200:0-66, u2201:0-50, u2202:0-3, u2203:0-248 %%",
+        "DM: But you can only do that once. You can use your Hutsu ki to grasp one departing spirit, and if they are willing return them to life. but if the creature has been dead for more than twenty four hours, um, or if the body is not intact, it doesn't work. The lets you remove all reductions, cleanse one creature's spirit at... Lets you remove all conditions, reductions to ability, scores, reductions to hit point maximums, curses. You could just use that up right now to get rid of your chain if you want to.",
+        "",
+        "%% u2203:248-276 %%",
+        "Kenzo: I'm gonna wait. I'm a way to.",
+        "",
+        "%% u2204:0-16, u2205:0-95 %%",
+        "DM: Um, and then the uh enhances your speed and reflexes, giving you the benefits of the haste spell for one minute.",
+        "",
+        "%% u2206:0-53, u2207:0-229, u2208:0-56 %%",
+        "DM: So those are all one off effects. You can do each one but the the the dreamberry one. So you you also get minor extra bonuses: is the critical hit thing. There's the advantage on death saving throws, and then the the dreamberry lets you cast... Use three ki to cast augury once per day. Augury is basically a like, hey, DM, is this a good idea?",
+        "",
+        "%% u2209:0-3, u2210:0-373, u2211:0-388, u2212:0-99, u2213:0-247, u2214:0-146, u2215:0-244, u2215:244-308, u2216:0-28, u2217:0-6, u2217:6-35, u2218:0-86 %%",
+        "((Future character-ability proposals))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Kenzo starts to cry in gratitude. He gets down on his knees and so gratefully prays to the great jaguar, to the great Snake, and also looks in deep gratitude to his two lizardfolk friends.",
+          "Izzarak: Four, technically.",
+          "Kenzo: All four, Wow! And the spirits. And.",
+          "DM: Yeah, go ahead.",
+          "Kenzo: Yeah, yeah, that's it."
+        ],
+        "after": [
+          "Kenzo: So.",
+          "Kenzo: I think that's good. We can work with that. I I guess what I'm trying to get at with this is like um. It's like a like If Kenzo becomes really like so connected with anything like some being that he just spends a lot of time with and communing like even like you know, his companions.",
+          "Kenzo: It's like part of what I'm imagining is it literally is sort of a power like the force where it's like, you know, if they die like Kenzo can sense that they or like they're in pain, you know. So and so at like a low level of this connection. It's just like awareness that they're that they're you know. But at higher levels of this connection it can be sort of like a messenger stone where you can just like talk to them, or or even at like. Even crazier like this is like Jedi master type shit. It's like, you know. I could like Channel my ki into them, and like have some ability from my staff. And like, even though they're super far away, like you know, this is not. This is not for a long time, but it's like it's like a it's like a soul bridge. You know what I mean like that with with any being that he like, you know it's so. That's how you like the with the Storm giant.",
+          "Kenzo: Now this is first time, really that a little bit, just to be like. I've got like a connection with him somehow. It's like very loose, and coarse, but he really wants to tune this thing, and I love that with Lengau he's tuned it enough, and has like the the you know he they've done like training with this shit where, like yeah, he's like teleported Kenzo to some like weird fucking places, and, like Kenzo, like still trying to track him and lock him in to like, you know, to communicate back. So I like the augury thing. But that's just like I'm not... Just... Yeah, Okay, that's cool.",
+          "DM: So as as as the this adventure ends and you um have spent some time in this seeming somewhat timeless place. So days go by, and it, and time seems not to pass for you. Um."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Wellby gives the reunion destination",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2254",
+        "endUid": "u2260"
+      },
+      "lines": [
+        "%% u2254:0-77, u2255:0-46 %%",
+        "Kenzo: Um, Well, I get back on the messenger stone with the with the um with uh, uh, Wellby, Wellby, and ask him where I should go.",
+        "",
+        "%% u2256:0-15, u2257:0-61, u2258:0-77, u2259:0-24 %%",
+        "DM: Okay, he's like didn't we agree to meet at the Feywild, the fey crossing here in northern Dunmar, near the mountains and Raven's Hold, and Nimessa's tower. Why don't you go there?",
+        "",
+        "%% u2260:0-22 %%",
+        "Kenzo: All right. I go there.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: That's what.",
+          "Unknown: You?",
+          "DM: Yeah. Um, it's actually Midjourney. And then outpainted in DALL-E.",
+          "Kenzo: That's amazing sick.",
+          "DM: Um, so where are you telling, uh, Lengau, that you want to go?"
+        ],
+        "after": [
+          "DM: Uh okay. So when you... This is a little uh a little foreshadowing of Friday's adventure. So I have to do this. So when you go there, you you tell that's where you're going, and and he says, Are you sure that is.",
+          "DM: I know the crossing you speak of. That is Lastlight Falls. Cliff, a spring at the top, falling in rainbow colors. The Feywild.",
+          "DM: When the last light of day touches the water on this plane you will see it glow a brilliant golden hue, and the portal can be crossed. But it is in the realm of Amberglow, a ruined, deserted fey realm, once ruled by the Cloudspinner, the Queen of Sunset, who spun magical thread from the colors of the sky, from the clouds, from the sun, until she vanished. Her realm fell into decay.",
+          "DM: Do you know what you're doing going here?",
+          "Kenzo: I don't."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Cloudspinner’s vanished realm",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2267",
+        "endUid": "u2273"
+      },
+      "lines": [
+        "%% u2267:0-58, u2268:0-75, u2269:0-16, u2270:0-19, u2271:0-165, u2272:0-19, u2273:0-26 %%",
+        "DM: ((Portal operating conditions)) But it is in the realm of Amberglow, a ruined, deserted fey realm, once ruled by the Cloudspinner, the Queen of Sunset, who spun magical thread from the colors of the sky, from the clouds, from the sun, until she vanished. Her realm fell into decay.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Um, Well, I get back on the messenger stone with the with the um with uh, uh, Wellby, Wellby, and ask him where I should go.",
+          "DM: Okay, he's like didn't we agree to meet at the Feywild, the fey crossing here in northern Dunmar, near the mountains and Raven's Hold, and Nimessa's tower. Why don't you go there?",
+          "Kenzo: All right. I go there.",
+          "DM: Uh okay. So when you... This is a little uh a little foreshadowing of Friday's adventure. So I have to do this. So when you go there, you you tell that's where you're going, and and he says, Are you sure that is.",
+          "DM: I know the crossing you speak of. That is Lastlight Falls. Cliff, a spring at the top, falling in rainbow colors. The Feywild."
+        ],
+        "after": [
+          "DM: Do you know what you're doing going here?",
+          "Kenzo: I don't.",
+          "DM: Actually, I will send you, Anyway, and he touches you and Kenzo vanishes and appears on the top of a cliff in the Feywild, looking out across this vast, deserted, decaying feyscape.",
+          "Kenzo: Aren't we supposed to be. I was supposed to be in the portal. I was for the outside. I thought I was in the material world on the other side of the portal.",
+          "Izzarak: You're meeting in the Feywild."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "What Grash did to the guardian",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2286",
+        "endUid": "u2300"
+      },
+      "lines": [
+        "%% u2286:0-151 %%",
+        "Kenzo: So wait. What did we learn about Grash? What was the thing that you learned about Grash? I'm not sure I totally learned it. Eric, Grash had this ability.",
+        "",
+        "%% u2287:0-38 %%",
+        "Izzarak: To resurrect dead orc soldiers, right?",
+        "",
+        "%% u2288:0-10 %%",
+        "Kenzo: Yes, yeah.",
+        "",
+        "%% u2289:0-2, u2290:0-14, u2291:0-12, u2292:0-38 %%",
+        "Izzarak: By chopping holes—walls of the—the River of Souls world, whatever, like.",
+        "",
+        "%% u2293:0-10, u2294:0-19 %%",
+        "Unknown: Them back, something like that.",
+        "",
+        "%% u2295:0-24 %%",
+        "Izzarak: Stealing the souls back.",
+        "",
+        "%% u2296:0-105 %%",
+        "Kenzo: Um, so he's like a he's like a Motua. He's like one of those like a a Gidari. Is that what was it called?",
+        "",
+        "%% u2297:0-53, u2298:0-99 %%",
+        "DM: He's teleported in and killed the Guardian, and like. And this all happened a year ago. I hear in the vision. But that's clear, as you commune with Motua.",
+        "",
+        "%% u2299:0-42 %%",
+        "Kenzo: Right? Right? Yeah. But now Motua is back.",
+        "",
+        "%% u2300:0-67 %%",
+        "DM: But it'll take Motua some time to recover and make it back into the.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: That's okay. Mikasa has a home to get back to.",
+          "Izzarak: So that's true that she does. She has.",
+          "DM: She probably doesn't want to journey through the deserted? She's better than that.",
+          "Kenzo: Um, Tim. That was awesome. That was like super super great, really satisfying. I love that the the mechanic was not just like killing something else again. But it was like that was awesome. It was really really fun. That was really cool.",
+          "Izzarak: Yeah, you know it's a me. I've brushed it."
+        ],
+        "after": [
+          "Kenzo: Yeah. Um yeah, that's fucking awesome. I love that Kenzo has a fucking like jaguar jaguar snake like mentor now like sick so cool. Uh and look Yeah, it's just the diagram. It's just a jaguar Motua, as a cat snake. Right? Yeah, um. And like, maybe democracy is not over.",
+          "Kenzo: Are you looking at election results? It's going well, Hassan won in New Hampshire, Bennett, won in Colorado. Kelly is crushing it in Arizona. Herschel Walker's up like very slightly. Fetterman's up one and a half points.",
+          "DM: That's the main one I care about.",
+          "Kenzo: Yeah, but it looks like it looks like we're we're gonna I mean Nevada Hasn't even been counted yet. But the way it's looking. But I'm a pessimist by nature. So um, the the the Democrats are going to get crushed narrative is like not happening like that's happening in the house, too. Apparently it's like we're we're like actually not getting crushed.",
+          "Kenzo: Yeah, but Republicans are still going to control the House. They'll definitely control the house, but it's not going to be. It might be like by seven, instead of by fifty. Fetterman on track to win in in Pennsylvania with a greater than ninety-five percent chance to win according to our estimates."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

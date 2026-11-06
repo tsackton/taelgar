@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-064",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
+    "sessionYamlSha256": "c9984e81f354ffc4c8201415cebcd4960327c07bbc6887bcd706a61707fff621",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-transcript.md",
+    "transcriptSha256": "ec151cf1f650aec55dc7f148ee0d0a560003aa922e0646c635293ae8148929bb"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0050"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0051",
+        "endUid": "u0629"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0630",
+        "endUid": "u0640"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0641",
+        "endUid": "u0960"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0961",
+        "endUid": "u0974"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0975",
+        "endUid": "u1120"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1121",
+        "endUid": "u1231"
+      },
+      "category": "combat",
+      "note": "No initiative roll: the vortex confrontation repeats an ordered Kenzo, Enari, Izzarak turn cycle."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1232",
+        "endUid": "u1499"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1500",
+        "endUid": "u2015"
+      },
+      "category": "combat",
+      "note": "Ordered chain attacks, Izzarak’s defenses and Kenzo’s dream-wound actions form one continuous encounter; the visions do not interrupt combat."
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2016",
+        "endUid": "u2280"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2281",
+        "endUid": "u2285"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2286",
+        "endUid": "u2304"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2305",
+        "endUid": "u2390"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
