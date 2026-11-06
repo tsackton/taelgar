@@ -1,0 +1,295 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-072",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-session.yaml",
+    "sessionYamlSha256": "e8a77e36f8d7db1105a305a206e96fce87051c101a1e35eff4efb59e736baad3",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-transcript.md",
+    "transcriptSha256": "fa4df14551f7e7bc047d306c7ee5409d2399d5bddca7203af8164f0402c440e4",
+    "yamlDates": {
+      "start": "1748-11-23",
+      "end": "1748-11-24"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "reading": "Sunset at the camp beside the grounded skyship in northern Dunmar.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "DM: So as the sun sets across the plains of Dunmar, and the storm that has lingered in this— this part of the north of the country disperses, the light of the setting sun illuminating the pools of mud and rivulets of water running across the land, caused by months and months of rainfall."
+        },
+        {
+          "startUid": "u0055",
+          "endUid": "u0065",
+          "quote": "Riswynn: Riswynn is grounded in her dwarven practicality. She's she's got her gear to tend, checking her armor to make sure that it doesn't need any tinkering or metal work repairs. Taking care of her horse, who has returned after being well taken care of, and generally, you know, Shatterstorm's in good repair. Her gauntlets are in good repair. She's checking all her armor and her— and her weaponry, and saying her—what time of day is it?—prayers.\n\nDM: Sunset.\n\nRiswynn: Evening prayers."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "exact",
+        "basis": "Opening narration and direct answer to Riswynn’s time question."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0526",
+        "endUid": "u0529"
+      },
+      "reading": "It is now well dark while the camp conversation with Hralgar continues.",
+      "evidence": [
+        {
+          "startUid": "u0526",
+          "endUid": "u0529",
+          "quote": "DM: It's now well dark, and he looks up at the sky, and he says, \"I will happily talk into my into the night, my friends, but I would not mind one last night of sleep as well.\" You, then—"
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Hralgar looks up at the dark sky; no numerical clock is supplied."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0777",
+        "endUid": "u0791"
+      },
+      "reading": "The party completes an overnight long rest and wakes at sunrise; Kenzo spends much of the night carving Hralgar’s story.",
+      "evidence": [
+        {
+          "startUid": "u0777",
+          "endUid": "u0787",
+          "quote": "DM: He leans back, and he says, \"My eyes grow heavy. I will see you in the morning one last time before I go, but now I will sleep.\"\n\nDM: And he leans back, lying his full 30 feet, just looking up at the sky. He begins to drift off into sleep.\n\nKenzo: Tim, Kenzo spends much of the rest of the night carving Hralgar's story onto his staff. But also— But Kenzo is getting some storm giant ki. How are we [garbled]?"
+        },
+        {
+          "startUid": "u0791",
+          "endUid": "u0791",
+          "quote": "DM: So don't forget to click the long rest button and reset charges on your magic items, all of those things."
+        },
+        {
+          "startUid": "u0796",
+          "endUid": "u0800",
+          "quote": "DM: So as you wake up in the morning, the sun rising, Hralgar stands, and he looks at you all, and he turns to each of you in turn, and and to Seeker, and Riswynn, and he says,"
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; the narration establishes sleep and waking, not a measured eight-hour clock."
+      },
+      "timeRange": {
+        "start": null,
+        "end": {
+          "partOfDay": "sunrise",
+          "precision": "exact",
+          "basis": "Explicit waking in the morning as the sun rises."
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1100",
+        "endUid": "u1125"
+      },
+      "reading": "The table retrospectively resolves Kenzo’s one-hour enemy-sensing ritual at the skyship on the preceding night, after his staff carving.",
+      "evidence": [
+        {
+          "startUid": "u1100",
+          "endUid": "u1102",
+          "quote": "Kenzo: Well, Tim, before before we do the long rest, Kenzo—I want to—I want to use my my ritual to go and look for our enemies, see if they're within—I guess it's only 6 mile radius, right?"
+        },
+        {
+          "startUid": "u1108",
+          "endUid": "u1122",
+          "quote": "Kenzo: Actually, dude, fuck it. I will do that. I will do that after after after a Kenzo etches out the—etches the stuff on the staff like you. You see, you see, Kenzo. Just like he was earlier practicing, but engaging in some type of a ritual signing, and so on. Yeah, Tim, I'm—I'm looking for our enemies.\n\nDM: For for which enemies?\n\nKenzo: Anyone, any, any, any any with—anyone with malicious intent towards our party.\n\nDM: Okay.\n\nDM: So within 6 miles of the airship you don't— you—the land is pretty empty. This is mostly within the—I mean, this is largely within the terrain that was storm up until a few hours ago, or until last night.\n\nDM: And it it feels mostly empty. It's not just that you don't sense enemies. You don't sense really much of anyone or anything. There's like a few cautious animals beginning to creep into the land. There's no people, nobody with malicious intent. The most malicious intent you can—you can sense is a hawk—or you're doing this at night, right? An owl soaring in the sky looking for mice."
+        },
+        {
+          "startUid": "u1125",
+          "endUid": "u1125",
+          "quote": "Kenzo: That again—Kenzo is now able to spend a bunch of ki and spend an hour and like search for things, search for auras within a 6 mile radius, including enemies, so—"
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "flashback",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Kenzo explains the hour-long ritual immediately after its accepted resolution."
+      },
+      "time": {
+        "partOfDay": "night",
+        "relative": {
+          "relation": "before",
+          "reference": "t03",
+          "anchor": "Before the sunrise endpoint of the overnight rest"
+        },
+        "precision": "approximate",
+        "basis": "Kenzo specifies before the long rest; the DM confirms the ritual is at night."
+      },
+      "completion": "completed",
+      "note": "This resolves earlier business during the same overnight frame; it does not add another night to the party chronology."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1131",
+        "endUid": "u1138"
+      },
+      "reading": "Return to the morning departure: the party spends a minute transforming into clouds and begins flying north.",
+      "evidence": [
+        {
+          "startUid": "u1131",
+          "endUid": "u1138",
+          "quote": "Seeker: Yeah. All right. Let's be clouds.\n\nWellby: Yes, that's too bad. Here we go. Okay. So.\n\nDM: You spend a minute and you feel yourself slowly becoming wispy and insubstantial and floating up into the sky, and you you find that even with just a just a slight thought, you can change the way you blow across the landscape as you drift higher and higher and higher, a few 100 feet, 1,000 feet, 2,000 feet up in the sky, and you begin just kind of blowing across the land, heading north into the mountains, following the directions that Hralgar gave you to get to his palace. And it takes you—unless you're like pushing real hard to like run, in which case you need to make saves to avoid becoming tired, but assuming you're going at a comfortably fast pace, but not exhausting yourself—"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM narrates the minute actually spent transforming."
+      },
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t03",
+          "anchor": "After the sunrise waking and farewell"
+        },
+        "precision": "approximate",
+        "basis": "Resumes the cloud departure after the retrospective night ritual."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1139",
+        "endUid": "u1159"
+      },
+      "reading": "The cloud journey from the skyship to Hralgar’s mountain palace takes a couple of hours, reaching the palace approach during the second hour.",
+      "evidence": [
+        {
+          "startUid": "u1139",
+          "endUid": "u1159",
+          "quote": "DM: Takes you a couple hours. Over the course of the first hour, you sort of see yourself drifting—what you see below, the the landscape becoming hillier. And you become—you start to come to the foothills of the mountains. You begin to blow up into the higher elevations, drifting, or really not so much drifting as as blowing on the wind, the wind that you find you can control. Okay.\n\nDM: You blow higher and higher and it becomes snowy and cold. You can see—you're—you're passing now into the like high peaks, the the inhospitable mountains where even in—where late November is the depths of winter, as you drift higher and higher into these sharp, jagged peaks.\n\nDM: As the second hour approaches, you see— you can see ahead of you in in the distance a a familiar looking scene, the palace that you saw in the dream world, although in a somewhat ruined state, the roof gone, elaborate sculptures of ice dotting the landscape leading up the stairs, coated with what look like just sort of jagged spikes of ice, like like ice stalagmites, like reaching up from the stairs, of these pillars."
+        },
+        {
+          "startUid": "u1269",
+          "endUid": "u1275",
+          "quote": "DM: So you slowly condense into 5 shivering humanoids in the freezing cold, about a 100 feet from the— from the entrance, from the like main entrance to the main floor. That's what you mean?\n\nSeeker: Sure, yeah.\n\nRiswynn: From the main entrance.\n\nDM: Okay."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates a couple of hours of travel, with first- and second-hour landmarks; landing is subsequently accepted."
+      },
+      "completion": "completed",
+      "note": "Late November is independently spoken during the flight; no day number or year is spoken."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1280",
+        "endUid": "u1282"
+      },
+      "reading": "The party spends about ten minutes on parallel scouting, Detect Magic, Commune with Nature and preparations outside the palace.",
+      "evidence": [
+        {
+          "startUid": "u1280",
+          "endUid": "u1282",
+          "quote": "DM: Okay. So what's—what are—this is all gonna each, all these things are going to take about 10 min. So Riswynn and Seeker, what are you doing for 10 min?\n\nRiswynn: All the warm stuff out of my pack.\n\nSeeker: Studying the ice formations."
+        },
+        {
+          "startUid": "u1535",
+          "endUid": "u1536",
+          "quote": "DM: Who communicates this telepathically to everybody, I'm guessing? Yeah, we'll presume that Seeker spent 10 min to ritual cast his telepathy spell before this started, so you can all communicate telepathically, telepathically, with each other.\n\nSeeker: Oh, I figured we were doing that since the beginning of the whole cloud thing so that we could talk it—\n\nDM: But it only lasts an hour, so you'd have to redo it when you land. But yeah, let's say you took the 10 min to redo it when you didn't."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM assigns ten minutes to the simultaneous activities and retrospectively includes Seeker’s telepathy ritual at landing."
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn",
+        "Seeker"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2334",
+        "endUid": "u2338"
+      },
+      "reading": "After defeating the ice-crowned woman, the party takes a short rest in the cold palace before any descent into the darkness.",
+      "evidence": [
+        {
+          "startUid": "u2334",
+          "endUid": "u2338",
+          "quote": "DM: So as she cracks in half, and silence falls over the— over this ice palace, we will end there, before descending into the step down into the darkness next session, and I'll just assume that you can all take a short rest, so we can roll that now, so you don't forget about it."
+        },
+        {
+          "startUid": "u2348",
+          "endUid": "u2362",
+          "quote": "Delwath: Got it, and everybody gets 2 additional hit points per die you expend because I'm going to make a snack.\n\nDM: Oh, and Seeker, don't forget about your thing.\n\nSeeker: Oh, yeah, Song of Rest! What does that do again?\n\nDM: On top of anything, not per hit dice, just a total, or sorry, 1d10, an extra one, or is it 1d8? I can't remember.\n\nDelwath: So to Delwath will just like— it's cold. There's not a lot of—there's not a lot of—\n\nDM: So I—I'm actually gonna say the— right, it is—it is freezing cold.\n\nDM: Normally it would be quite difficult to rest. I'm gonna say that instead of the the plus 2 to— instead of getting plus 2 per hit die that you would normally get from from Delwath, right? Okay, meal, it instead cancels out the disadvantages of trying to rest in the cold.\n\nKenzo: Okay, so I just rolled 530, for example. And now I get an extra hit dice because of—from Eric, an extra 1d8 because of Eric. Yeah."
+        },
+        {
+          "startUid": "u2369",
+          "endUid": "u2370",
+          "quote": "Delwath: I feel like it didn't actually tick off my oh, because I didn't actually click Take short rest.\n\nDM: That'll also reset your spells, and yeah, you, Kenzo, you gotta click to take short rest thing, so that you—"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; the DM grants the rest and the table applies its benefits."
+      },
+      "completion": "completed",
+      "note": "Delwath’s food cancels cold-rest disadvantages instead of granting the usual extra two hit points per hit die; Seeker’s Song of Rest is separately applied."
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "The absolute November 23–24 dates and year come from YAML. Only late November, sunset, night, sunrise and elapsed activities are independently spoken.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t03",
+      "t04",
+      "t06",
+      "t08"
+    ],
+    "explanation": "The played interval runs from sunset at the skyship through a completed overnight, sunrise departure, roughly two hours of travel and a post-combat short rest. Kenzo’s retrospective night ritual belongs before that same sunrise. No additional day transition is established. The one-night span matches conditionally on the YAML start date."
+  }
+}

@@ -1,0 +1,1882 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "fa4df14551f7e7bc047d306c7ee5409d2399d5bddca7203af8164f0402c440e4"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-entity-map.json",
+      "sha256": "0d622375d01cd38dc88e8db413996ecb5120eddbec34c19ef689480e3a956710"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Hralgar recalls Apollyon and the Omnis Pura",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0143",
+        "endUid": "u0302"
+      },
+      "lines": [
+        "%% u0143:0-6, u0144:0-97, u0145:0-7, u0146:0-83 %%",
+        "DM: \"I will enjoy your company for the evening before I depart. Should there be anything you wish to discuss, please. I would enjoy the company, or companionable silence if that's what you would prefer.\"",
+        "",
+        "%% u0147:0-38, u0148:0-121 %%",
+        "DM: He looks over towards Delwath cooking. He takes a deep breath and sort of leans back, sort of in anticipation, just waiting patiently for whatever happens next.",
+        "",
+        "%% u0149:0-66, u0150:0-19, u0151:0-32, u0152:0-21 %%",
+        "Kenzo: By this point Kenzo's broken his meditation, and has has taken his staff, and has been carving into into his staff. And then says to Hralgar,",
+        "",
+        "%% u0153:0-8, u0154:0-27, u0155:0-48, u0156:0-42, u0157:0-63, u0158:0-24, u0159:0-35, u0160:0-25, u0161:0-49, u0162:0-18, u0163:0-53, u0164:0-33, u0165:0-3, u0166:0-43, u0167:0-53, u0168:0-33 %%",
+        "Kenzo: \"Hralgar, it would be an honor before the break—before the dawn breaks, and you depart— to continue to learn more of your story. I— I've written what I remember, and look forward to writing more. So I hope to continue to hear more of your journeys and your your adventures. I think, for all of us, we're concerned about Apollyon and the Drankorian era that you were in. That seems still to be connected to what's unfolding in today's time. And it might benefit all of us to learn more of what you've seen and understood of that time, because those insights seem relevant now.\"",
+        "",
+        "%% u0169:0-127, u0170:0-53, u0171:0-11, u0172:0-115, u0173:0-103, u0174:0-40 %%",
+        "((Table discussion about the question list))",
+        "",
+        "%% u0175:0-36 %%",
+        "DM: So he he turns to Kenzo and he says,",
+        "",
+        "%% u0176:0-1, u0177:0-47, u0178:0-6, u0179:0-78 %%",
+        "DM: \"I— I spent much of my younger days not caring for humans, uninterested in their presence across the land. It is easy not to notice them.",
+        "",
+        "%% u0180:0-29, u0181:0-33, u0182:0-10, u0183:0-23, u0184:0-59 %%",
+        "DM: And in those days Drankor was— the Empire was a force for peace. It was the the Golden Age. I guess it's always hard to see the best times when you're in them.\"",
+        "",
+        "%% u0185:0-5, u0186:0-55, u0187:0-20 %%",
+        "DM: I did have visitors sometimes who came up to the mountains to share their stories.",
+        "",
+        "%% u0188:0-23, u0189:0-38, u0190:0-70, u0191:0-34, u0192:0-47 %%",
+        "DM: But after the Civil War, sort of stopped caring for the humans. The chaos down on the plains below, Drankorian fighting Drankorian, and— what difference did it make to me? High in the sky above them, up in the mountains?",
+        "",
+        "%% u0193:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u0194:0-30, u0195:0-30, u0196:0-39, u0197:0-21 %%",
+        "DM: Still gathered news sometimes, and the Stoneborn, the dwarves— in those days the kingdom of Ardith was powerful and learned.",
+        "",
+        "%% u0198:0-32, u0199:0-61, u0200:0-16 %%",
+        "DM: Many dwarfs would come visit me. We would talk of magic in the past, and the sky above and the deep dark below.",
+        "",
+        "%% u0201:0-63, u0202:0-21, u0203:0-52, u0204:0-62, u0205:0-41 %%",
+        "DM: Those were also good days, but maybe not for the humans, and it was only later, maybe a 100 years or more after the end of the Civil War, after many Drankorian emperors had died in battle to the east— began to venture again across the plains.",
+        "",
+        "%% u0206:0-23, u0207:0-28 %%",
+        "DM: It was then that I was— and he looks sort of around.",
+        "",
+        "%% u0208:0-25, u0209:0-58, u0210:0-27, u0211:0-22 %%",
+        "DM: This tower happened to me during Apollyon's reign. I I know little of him other than not all, not all in Drankor agreed with his reign.",
+        "",
+        "%% u0212:0-12, u0213:0-32, u0214:0-14, u0215:0-31, u0216:0-51, u0217:0-36 %%",
+        "DM: But he had a— he had a way with words. He had a— the magic too, and he pulled many to his side. And he was the most successful emperor in battle in 50 years, and that pulled many more.",
+        "",
+        "%% u0218:0-19, u0219:0-40, u0220:0-48, u0221:0-82 %%",
+        "Kenzo: Can you say more of how he was so successful in battle? Why— what what strategies? Was he using special magic? How was he able to achieve such such great victory over such a long period of time?",
+        "",
+        "%% u0222:0-46 %%",
+        "DM: He was skilled in magic beyond any I had seen.",
+        "",
+        "%% u0223:0-8, u0224:0-22, u0225:0-5, u0226:0-13, u0227:0-30, u0228:0-89 %%",
+        "DM: He had a tower, a laboratory, a place in the ocean, south and west of Drankor that even the winds and the storms could not penetrate. No news ever came to me of that place.",
+        "",
+        "%% u0229:0-47 %%",
+        "Kenzo: Was this a perfectly circular island by chance?",
+        "",
+        "%% u0230:0-40 %%",
+        "DM: I think it was something like that. Yes.",
+        "",
+        "%% u0231:0-28 %%",
+        "Kenzo: And you never went yourself?",
+        "",
+        "%% u0232:0-12 %%",
+        "DM: I could not.",
+        "",
+        "%% u0233:0-8 %%",
+        "Kenzo: Why not?",
+        "",
+        "%% u0234:0-65 %%",
+        "DM: Something of his magic kept the winds away, kept the storms away.",
+        "",
+        "%% u0235:0-43, u0236:0-57, u0237:0-44 %%",
+        "Kenzo: If we were to try to go there, do you know, or have any advice or thoughts on how we might be able to— have you heard of anybody that's gone there?",
+        "",
+        "%% u0238:0-27, u0239:0-48, u0240:0-40, u0241:0-19, u0242:0-80 %%",
+        "DM: He sort of closes his eyes. I know not who may have traveled there long ago. People came and went. Ships sailed there. The humans, the the Drankorians of these plains, they were—they were never really my chief interest.",
+        "",
+        "%% u0243:0-6 %%",
+        "Wellby: If you—",
+        "",
+        "%% u0244:0-15, u0245:0-88, u0246:0-45 %%",
+        "DM: I only saw what news the winds brought, and what passed across these plains and blew into the mountains, or what I saw as a passing storm on the wind.",
+        "",
+        "%% u0247:0-22, u0248:0-22, u0249:0-36, u0250:0-8, u0251:0-69, u0252:0-35 %%",
+        "DM: Did not care for their politics and conflicts. Wasn't like it was in the early days when the scholars of Drankor would humbly approach to ask my favor and advice. So they turned away. I turned away.",
+        "",
+        "%% u0253:0-4 %%",
+        "Seeker: Who.",
+        "",
+        "%% u0254:0-58, u0255:0-36, u0256:0-107 %%",
+        "Kenzo: You know, of Apollyon's strength, you mentioned his magic. Was he—was it a a magic that he had acquired himself, or was he using powerful items? Is there—do you know more about the source of his power?",
+        "",
+        "%% u0257:0-16, u0258:0-21, u0259:0-18 %%",
+        "DM: I know little of— know little of how he became emperor, or—",
+        "",
+        "%% u0260:0-11, u0261:0-22, u0262:0-48, u0263:0-14, u0264:0-16, u0265:0-18 %%",
+        "DM: There was a— the Drankorians loved societies of all kinds, clubs and organizations, secret and not, civic groups and magical societies.",
+        "",
+        "%% u0266:0-18, u0267:0-17, u0268:0-17, u0269:0-13, u0270:0-32, u0271:0-41, u0272:0-8, u0273:0-4, u0274:0-10, u0275:0-7, u0276:0-29 %%",
+        "DM: There was one that that Apollyon was important, and—or the leader of, called the Omnis Pura. They were— know not really where they came from, but they had f—or discovered, somehow acquired some powerful magic.",
+        "",
+        "%% u0277:0-17, u0278:0-39, u0279:0-68, u0280:0-7, u0281:0-23 %%",
+        "DM: And believed that they were the pinnacle of all creation, putting themselves above the elder races, even the first children of Aldanor, giants and the dragons.",
+        "",
+        "%% u0282:0-17 %%",
+        "Kenzo: They were humans?",
+        "",
+        "%% u0283:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u0284:0-61 %%",
+        "Seeker: What form did this powerful magic that they discovered take?",
+        "",
+        "%% u0285:0-16, u0286:0-50 %%",
+        "DM: I think this was part of Apollyon's skill in battle, his war mages.",
+        "",
+        "%% u0287:0-9, u0288:0-38, u0289:0-71, u0290:0-44 %%",
+        "DM: You know, do not know if this was new magic, but young races are always rediscovering things that we have known forever. You know this as a dwarf, I am sure. Of them.",
+        "",
+        "%% u0291:0-47, u0292:0-41, u0293:0-19, u0294:0-67 %%",
+        "DM: Those—and and you, Delwath, must know this. The humans come and go so quickly they forget and find something, find something again and again and again, thinking it new each time.",
+        "",
+        "%% u0295:0-39 %%",
+        "Seeker: They delight in learning like children.",
+        "",
+        "%% u0296:0-32, u0297:0-23 %%",
+        "DM: They have no memory of the past, no sense of the future.",
+        "",
+        "%% u0298:0-12, u0299:0-8, u0300:0-79 %%",
+        "Seeker: And yet this club and Apollyon's power persist, so perhaps they did discover something big this time.",
+        "",
+        "%% u0301:0-29, u0302:0-36 %%",
+        "DM: Perhaps. Was never my concern. Even they cannot change the weather.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So as as you are all scattered across camp, Hralgar walks forward, and you can feel, Kenzo, in your meditation, Seeker in your fiddling with your books, Wellby with his eyes closed, Delwath cooking, Riswynn praying—you can feel the earth shake every time Hralgar steps. And at his full height is about 25–30 feet tall. Like nearly that. This—",
+          "DM: The the ship itself, having been excavated and dragged out of the earth by Hralgar, is, is maybe 50 feet off the ground, but reaching over his hand, Hralgar can reach the top of this ship. And for you, it's this massive cliff.",
+          "DM: And you know, in there is something about his physical presence. Most of the time you've interacted with him and been in the dreamscape, and somehow he didn't, he didn't seem quite so looming and towering over everything when you were in his dreaming. Just the very fact when he sits down near you to listen, you're still looking 15 feet up to his worn, tired face.",
+          "DM: You can see he has—he has long, scraggly white hair that's disheveled. Water still drips off the back of his head from the rainstorm which hasn't seemed to, despite it clearing up, the rain hasn't seemed to quite pass over him. There's still some thing of the storm lingering on him. His eyes are blue white. He's got a sort of unshaven, unkempt beard.",
+          "DM: And as he leans forward, bringing his head closer to you—his head substantially bigger than most of you, only Kenzo, and maybe Delwath at would even, you know, match the size of his head— as he leans in listening, and says quietly for him, but in a booming voice that echoes with a hint of thunder:"
+        ],
+        "after": [
+          "Seeker: Who.",
+          "Seeker: Hralgar, I've been studying some of these books that we rescued from the tower before you rightly returned it to dust.",
+          "Seeker: One of them is written in your tongue, as far as I can tell. Tales Before the Fall, it's called.",
+          "Seeker: And I pull out from behind me a book that is, I think, twice as tall as I am. Actually, it's it's some effort that I lever it up so that you can look at the cover, and then stand up, ask for Wellby's help, holding up the other end and wrench open the cover to lift it around so that we can see the frontispiece.",
+          "Seeker: None of us can read Giant, I'm afraid. You think there's anything of interest in here? Would you be willing—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Tales before the separation of the planes",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0304",
+        "endUid": "u0377"
+      },
+      "lines": [
+        "%% u0304:0-18, u0305:0-59, u0306:0-39 %%",
+        "Seeker: Hralgar, I've been studying some of these books that we rescued from the tower before you rightly returned it to dust.",
+        "",
+        "%% u0307:0-25, u0308:0-69 %%",
+        "Seeker: One of them is written in your tongue, as far as I can tell. Tales Before the Fall, it's called.",
+        "",
+        "%% u0309:0-45, u0310:0-40, u0311:0-74, u0312:0-26, u0313:0-65, u0314:0-54 %%",
+        "Seeker: And I pull out from behind me a book that is, I think, twice as tall as I am. Actually, it's it's some effort that I lever it up so that you can look at the cover, and then stand up, ask for Wellby's help, holding up the other end and wrench open the cover to lift it around so that we can see the frontispiece.",
+        "",
+        "%% u0315:0-37, u0316:0-70 %%",
+        "Seeker: None of us can read Giant, I'm afraid. You think there's anything of interest in here? Would you be willing—",
+        "",
+        "%% u0316:70-90 %%",
+        "Delwath: Oh, I can read Giant.",
+        "",
+        "%% u0317:0-20 %%",
+        "Seeker: To read everything?",
+        "",
+        "%% u0317:20-53 %%",
+        "DM: He looks at it, and he says, 'Hmm!'",
+        "",
+        "%% u0318:0-46, u0319:0-5, u0320:0-80, u0321:0-7, u0322:0-79 %%",
+        "DM: I do wonder where Eudomes came by such a book. It is not uncommon among the amongst the giants, although few of our works are written, because it is a tale of the legendary histories of our people from the age of creation.",
+        "",
+        "%% u0323:0-31, u0324:0-47, u0325:0-70, u0326:0-46 %%",
+        "DM: A story of the elder Titans and the empires of our times that stretched across— he looks around—all this land that you can see, and far beyond as well, before any of your kind set foot on this land.",
+        "",
+        "%% u0327:0-45 %%",
+        "Seeker: And what is the fall referred to in the title?",
+        "",
+        "%% u0328:0-1, u0329:0-50, u0330:0-11 %%",
+        "DM: A— fall is maybe not how I would translate that word. Separation.",
+        "",
+        "%% u0331:0-5, u0332:0-9, u0333:0-25, u0334:0-69, u0335:0-24 %%",
+        "DM: Once, long ago, when the world was young, the planes that we know now—elemental planes, the Feywild—were not separate from the world.",
+        "",
+        "%% u0336:0-6 %%",
+        "Seeker: Really?",
+        "",
+        "%% u0337:0-4 %%",
+        "Unknown: You.",
+        "",
+        "%% u0338:0-3, u0339:0-8, u0340:0-9, u0341:0-38, u0342:0-21 %%",
+        "DM: But Aldanor, when they made the firstborn of the elder races, separated the worlds.",
+        "",
+        "%% u0343:0-25, u0344:0-26, u0345:0-16, u0346:0-20 %%",
+        "DM: And much of the magic and power that was in the land was pulled apart to the other planes.",
+        "",
+        "%% u0347:0-36, u0348:0-44 %%",
+        "DM: So these are tales from before then. Before humans, before elves, before dwarves.",
+        "",
+        "%% u0349:0-13 %%",
+        "Seeker: Or halflings.",
+        "",
+        "%% u0350:0-51 %%",
+        "DM: Before even the gods of your kind walked the earth.",
+        "",
+        "%% u0351:0-57, u0352:0-74 %%",
+        "Seeker: And in the time of this rift what happened to the giants? Did they disperse to the among the planes, or are they all here on Taelgar?",
+        "",
+        "%% u0353:0-10, u0354:0-48, u0355:0-34, u0356:0-43 %%",
+        "DM: Most left, like the dragons and the fey and the elementals. Some stayed, but our empires fell, crumbled without the magic to sustain them.",
+        "",
+        "%% u0357:0-4, u0358:0-46 %%",
+        "Seeker: Hmm! Are you personally of an age to remember this?",
+        "",
+        "%% u0359:0-5 %%",
+        "DM: I am.",
+        "",
+        "%% u0360:0-10, u0361:0-70, u0362:0-34, u0363:0-15, u0364:0-14 %%",
+        "DM: I was only 500 when I was trapped. I guess I would be over a 1,000 years now. But few of our kind now live more than four millennia, and most less.",
+        "",
+        "%% u0365:0-44 %%",
+        "Seeker: So you are in your old age now, you're saying?",
+        "",
+        "%% u0366:0-23 %%",
+        "DM: Few of my kind, anyway.",
+        "",
+        "%% u0367:0-22, u0368:0-59, u0369:0-106, u0370:0-67 %%",
+        "DM: It is hard to explain. If a hurricane—if you see a hurricane crash into land from the mount—powered by the monsoons of the Green Sea, there is the good chance that is not just a hurricane, but an ancient storm giant who has passed on from the mortal realm.",
+        "",
+        "%% u0371:0-9 %%",
+        "Seeker: Hmm. You!",
+        "",
+        "%% u0372:0-35, u0373:0-5, u0374:0-35, u0375:0-30 %%",
+        "DM: This is where I plan to go as well. It is not death as you would describe it, but it is something different.",
+        "",
+        "%% u0376:0-17, u0377:0-96 %%",
+        "Seeker: It's good to know and comfort, and a comfort to know that you, our friend, will persist in this world in that way.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: They delight in learning like children.",
+          "DM: They have no memory of the past, no sense of the future.",
+          "Seeker: And yet this club and Apollyon's power persist, so perhaps they did discover something big this time.",
+          "DM: Perhaps. Was never my concern. Even they cannot change the weather.",
+          "Seeker: Who."
+        ],
+        "after": [
+          "Seeker: There's another book On the Ordering of Giants. It's written in a language that at least I can't identify. Perhaps Delwath might at a glance, but it certainly appears to be about giants. Do you recognize it?",
+          "Delwath: Can I identify languages, or just read them?",
+          "DM: You can just make a— an Intelligence check. Mostly you can just read them. But this one is not—would not be easy to identify. Yeah, now, you don't know what it is.",
+          "Delwath: What what does it say? I mean, could I tell what way?",
+          "DM: Yeah, you can. You can flip through it. I mean, you can see, you know, it's—it seems to be kind of a natural history of sorts of giants. It's clearly a written from a human perspective."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Skimming On the Ordering of Giants",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0378",
+        "endUid": "u0429"
+      },
+      "lines": [
+        "%% u0378:0-20, u0379:0-26, u0380:0-93, u0381:0-51, u0382:0-13 %%",
+        "Seeker: There's another book On the Ordering of Giants. It's written in a language that at least I can't identify. Perhaps Delwath might at a glance, but it certainly appears to be about giants. Do you recognize it?",
+        "",
+        "%% u0383:0-44, u0384:0-19, u0385:0-22, u0386:0-34, u0387:0-84 %%",
+        "((Language adjudication or aside about copying books))",
+        "",
+        "%% u0388:0-38, u0389:0-15 %%",
+        "Delwath: What what does it say? I mean, could I tell what way?",
+        "",
+        "%% u0389:15-29, u0390:0-45, u0391:0-124 %%",
+        "DM: Yeah, you can. You can flip through it. I mean, you can see, you know, it's—it seems to be kind of a natural history of sorts of giants. It's clearly a written from a human perspective.",
+        "",
+        "%% u0392:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0393:0-33, u0394:0-102 %%",
+        "DM: Sort of, you know, describing the different kinds of giants and their habits, and like, I mean, you're just kind of skimming through it.",
+        "",
+        "%% u0395:0-90, u0396:0-82 %%",
+        "DM: It's very old. It requires a lot of care to even turn the pages without damaging them, and probably like using Mage Hand to like carefully, like turn each page or something.",
+        "",
+        "%% u0397:0-60 %%",
+        "Delwath: Is there a—are these printed books? Are they all handwritten?",
+        "",
+        "%% u0398:0-12 %%",
+        "DM: Handwritten.",
+        "",
+        "%% u0399:0-47, u0400:0-199, u0401:0-25, u0402:0-175, u0403:0-50, u0404:0-64, u0405:0-74, u0406:0-31, u0407:0-66, u0408:0-63, u0409:0-7, u0410:0-255, u0411:0-17, u0412:0-31, u0413:0-14 %%",
+        "((Language adjudication or aside about copying books))",
+        "",
+        "%% u0414:0-133 %%",
+        "Seeker: That's interesting, Delwath. Is there a section on the storm giants in there? We could find out, at least, if its claims are accurate.",
+        "",
+        "%% u0415:0-15 %%",
+        "Delwath: Yeah, is there?",
+        "",
+        "%% u0416:0-22, u0417:0-151 %%",
+        "DM: Yeah, I mean, it's not— It's not like an encyclopedia, right? There's a lot of narrative. There's a lot of sort of collected legends and things along with the natural history.",
+        "",
+        "%% u0418:0-74 %%",
+        "Delwath: Of course not. I mean, it's gonna—it would take some time to kind of share.",
+        "",
+        "%% u0419:0-87, u0420:0-44, u0421:0-42 %%",
+        "DM: You know, read through it, and sort of try and summarize what it, what it's saying, and you know, that that probably take a few hours given the age of the book, and the sort of—",
+        "",
+        "%% u0422:0-5 %%",
+        "Delwath: Right.",
+        "",
+        "%% u0423:0-91, u0424:0-22, u0425:0-64 %%",
+        "DM: Just from flipping through you can see there is like a section on fire giants, storm giants, you know, hill giants, frost giants, cloud giants, stone giants, like a bunch of different—",
+        "",
+        "%% u0426:0-6 %%",
+        "Delwath: Right?",
+        "",
+        "%% u0427:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u0428:0-53, u0429:0-62 %%",
+        "Seeker: Well, I have some further study to do on these books. And I think even this very large one was worth taking with us.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Few of my kind, anyway.",
+          "DM: It is hard to explain. If a hurricane—if you see a hurricane crash into land from the mount—powered by the monsoons of the Green Sea, there is the good chance that is not just a hurricane, but an ancient storm giant who has passed on from the mortal realm.",
+          "Seeker: Hmm. You!",
+          "DM: This is where I plan to go as well. It is not death as you would describe it, but it is something different.",
+          "Seeker: It's good to know and comfort, and a comfort to know that you, our friend, will persist in this world in that way."
+        ],
+        "after": [
+          "Seeker: We'd like to find this phasing stone he mentioned up the mountains. There any further clues as to how we might find it, and also, how big? That is, this gonna be hard to carry with us? Speaking of carrying things around.",
+          "DM: He sort of laughs, chuckles lightly. Still don't really understand the phasing stones, do you?",
+          "Seeker: Oh, no, we'd love your help on that.",
+          "DM: It lets you reshape physics. If it's too big for you to carry, you'll just imagine it smaller.",
+          "Seeker: Right. Helpful."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Hralgar explains his phasing stone and hidden instructions",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0430",
+        "endUid": "u0490"
+      },
+      "lines": [
+        "%% u0430:0-22, u0431:0-44, u0432:0-55, u0433:0-70, u0434:0-23 %%",
+        "Seeker: We'd like to find this phasing stone he mentioned up the mountains. There any further clues as to how we might find it, and also, how big? That is, this gonna be hard to carry with us? Speaking of carrying things around.",
+        "",
+        "%% u0435:0-36, u0436:0-58 %%",
+        "DM: He sort of laughs, chuckles lightly. Still don't really understand the phasing stones, do you?",
+        "",
+        "%% u0437:0-36 %%",
+        "Seeker: Oh, no, we'd love your help on that.",
+        "",
+        "%% u0438:0-11, u0439:0-80 %%",
+        "DM: It lets you reshape physics. If it's too big for you to carry, you'll just imagine it smaller.",
+        "",
+        "%% u0440:0-5, u0441:0-7 %%",
+        "Seeker: Right. Helpful.",
+        "",
+        "%% u0442:0-42, u0443:0-37 %%",
+        "Wellby: What were phasing stones used for, besides piloting or powering ships like this?",
+        "",
+        "%% u0444:0-43, u0445:0-7, u0446:0-5, u0447:0-15 %%",
+        "DM: I guess it would depend on who possessed it. Much of— Okay. I mean, the lore.",
+        "",
+        "%% u0448:0-76, u0449:0-67, u0450:0-23 %%",
+        "DM: From long ago. He points at the giant book. If you read that book you'll see long ago, before magic was diluted and all the planes pulled apart, they could do anything.",
+        "",
+        "%% u0451:0-43, u0452:0-149 %%",
+        "DM: If you wanted a feast, you can make a feast. If you wanted to be—be 30 feet tall, you could be 30 feet tall. If you wanted instead to be a sparrow flying through the sky, you could be a sparrow.",
+        "",
+        "%% u0453:0-38 %%",
+        "Kenzo: But not in a vision, like an actuality?",
+        "",
+        "%% u0454:0-54 %%",
+        "DM: Now, of course, their power is much constrained. Yeah.",
+        "",
+        "%% u0455:0-22, u0456:0-5, u0457:0-65, u0458:0-65, u0459:0-58, u0460:0-41 %%",
+        "DM: Flow of energy through that— he says like a long word in a language you don't understand—that— pipes, I guess, through which magic flows are narrow, restricted, so those that are left, or in my day those that were left, were always attuned to specific purposes.",
+        "",
+        "%% u0461:0-16, u0462:0-42, u0463:0-26, u0464:0-40, u0465:0-59 %%",
+        "DM: So the one I had—the one that I hope for your sake is still in my ancient home—I used to provide food and drink for my guests. But with some effort it can be retuned to fly the airship.",
+        "",
+        "%% u0466:0-44 %%",
+        "Seeker: And what process does this retuning involve?",
+        "",
+        "%% u0467:0-5, u0468:0-7 %%",
+        "DM: Well, if you—",
+        "",
+        "%% u0469:0-39, u0470:0-3, u0471:0-63, u0472:0-3, u0473:0-38, u0474:0-68, u0475:0-22 %%",
+        "DM: If you reach my palace, my former home, the— the lower floor of that building was once my library, and study. The light that shone through the skylights illuminating—it's quite pretty in the—when the morning snow fell in, twinkled in the light.",
+        "",
+        "%% u0476:0-149 %%",
+        "DM: If you can find that place in the center of the library, there's a vast stone pillar stretching maybe 80 feet, going from top to bottom of the floor.",
+        "",
+        "%% u0477:0-5 %%",
+        "Seeker: Well.",
+        "",
+        "%% u0478:0-10, u0479:0-72, u0480:0-4, u0481:0-25, u0482:0-62 %%",
+        "DM: And if you channel lightning magic into this pillar, runes will appear, runes that well, describe how to construct the controls of a sky ship and embed the phasing stone in them.",
+        "",
+        "%% u0483:0-18 %%",
+        "Seeker: That's convenient.",
+        "",
+        "%% u0484:0-2 %%",
+        "DM: So.",
+        "",
+        "%% u0485:0-58 %%",
+        "DM: I do not recall now the details, and so I wrote them down.",
+        "",
+        "%% u0486:0-3 %%",
+        "Seeker: But.",
+        "",
+        "%% u0487:0-80, u0488:0-64, u0489:0-117 %%",
+        "DM: He looks at Seeker and Riswynn. Between the 2 of you, I have full faith you can follow my instructions, if if any of you can read Giant, I guess. Did not think to carve my instructions in Dwarvish, unfortunately. I hope that will not be an insurmountable barrier.",
+        "",
+        "%% u0490:0-38 %%",
+        "Seeker: It seems our elf is literate in Giant.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Right.",
+          "DM: Just from flipping through you can see there is like a section on fire giants, storm giants, you know, hill giants, frost giants, cloud giants, stone giants, like a bunch of different—",
+          "Delwath: Right?",
+          "Seeker: Yeah.",
+          "Seeker: Well, I have some further study to do on these books. And I think even this very large one was worth taking with us."
+        ],
+        "after": [
+          "DM: Well, then, between the 3 of you I have full faith you will figure it out. You might also look while you're there. There's a little book, only four or five feet tall, half again as wide. Might be missing. If you can find it, it tells the story of Vindristjarna, the Star of the Wind, this ship that's crashed.",
+          "DM: It is my notes and collections of stories that people told me, as I sought to understand the history of my people in these lands. That may be of interest to you as well, although again, I— I know not what has survived these past 1,000 years. Although I would be surprised if my stone has fallen.",
+          "Seeker: The— among my people, we say it is always advisable on purchasing a new skyship, be sure to buy [garbled], a record of any previous ownerships, and especially accident.",
+          "DM: He chuckles slightly and says, 'Well,'—who looks? He looks to his right. There's some significant accidents in the history of this particular airship.",
+          "Seeker: I look forward to learning all of its quirks."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Vindristjarna’s history book and surviving stone shard",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0491",
+        "endUid": "u0522"
+      },
+      "lines": [
+        "%% u0491:0-32, u0492:0-6, u0493:0-75, u0494:0-27, u0495:0-164 %%",
+        "DM: Well, then, between the 3 of you I have full faith you will figure it out. You might also look while you're there. There's a little book, only four or five feet tall, half again as wide. Might be missing. If you can find it, it tells the story of Vindristjarna, the Star of the Wind, this ship that's crashed.",
+        "",
+        "%% u0496:0-18, u0497:0-48, u0498:0-61, u0499:0-57, u0500:0-52, u0501:0-35, u0502:0-16 %%",
+        "DM: It is my notes and collections of stories that people told me, as I sought to understand the history of my people in these lands. That may be of interest to you as well, although again, I— I know not what has survived these past 1,000 years. Although I would be surprised if my stone has fallen.",
+        "",
+        "%% u0503:0-3, u0504:0-46, u0505:0-13, u0506:0-14, u0507:0-86 %%",
+        "Seeker: The— among my people, we say it is always advisable on purchasing a new skyship, be sure to buy [garbled], a record of any previous ownerships, and especially accident.",
+        "",
+        "%% u0508:0-72, u0509:0-77 %%",
+        "DM: He chuckles slightly and says, 'Well,'—who looks? He looks to his right. There's some significant accidents in the history of this particular airship.",
+        "",
+        "%% u0510:0-45 %%",
+        "Seeker: I look forward to learning all of its quirks.",
+        "",
+        "%% u0511:0-16, u0512:0-30 %%",
+        "DM: I never did find out how it crashed in the end.",
+        "",
+        "%% u0513:0-3, u0514:0-4, u0515:0-128 %%",
+        "Seeker: No. Hmm! And it must have had it—sorry if we discussed this last time, I forgot—it must have had a phasing stone that's now been removed.",
+        "",
+        "%% u0516:0-46 %%",
+        "DM: Not removed, destroyed in the crash, I gather.",
+        "",
+        "%% u0517:0-8 %%",
+        "Seeker: You see.",
+        "",
+        "%% u0518:0-142 %%",
+        "DM: There is a shard of it still, I can sense. You might be able to find, useless for piloting, but perhaps you can find some other use for them.",
+        "",
+        "%% u0519:0-30 %%",
+        "Seeker: Perhaps shards you can sense?",
+        "",
+        "%% u0520:0-34 %%",
+        "DM: It is there in the ship somewhere.",
+        "",
+        "%% u0521:0-6 %%",
+        "Seeker: Really.",
+        "",
+        "%% u0522:0-15 %%",
+        "DM: Just one piece.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So.",
+          "DM: I do not recall now the details, and so I wrote them down.",
+          "Seeker: But.",
+          "DM: He looks at Seeker and Riswynn. Between the 2 of you, I have full faith you can follow my instructions, if if any of you can read Giant, I guess. Did not think to carve my instructions in Dwarvish, unfortunately. I hope that will not be an insurmountable barrier.",
+          "Seeker: It seems our elf is literate in Giant."
+        ],
+        "after": [
+          "Seeker: Just one. Hmm. I'll I'll have a look. It's now—",
+          "DM: It's now well dark, and he looks up at the sky, and he says, \"I will happily talk into my into the night, my friends, but I would not mind one last night of sleep as well.\" You, then—",
+          "Kenzo: We just have a few more questions for you, Hralgar. That's all right?",
+          "DM: Please.",
+          "Kenzo: We're curious again, just to share with you these. Do you know of ways in which powerful artifacts could, in fact, be destroyed? We believe that Apollyon is gathering artifacts now, or employing his his minions to do so, and we're concerned about them falling into the wrong hands. Do you know of ways to destroy powerful magic?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Destroying artifacts with elemental fire",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0532",
+        "endUid": "u0599"
+      },
+      "lines": [
+        "%% u0532:0-50, u0533:0-76, u0534:0-15, u0535:0-53, u0536:0-130 %%",
+        "Kenzo: We're curious again, just to share with you these. Do you know of ways in which powerful artifacts could, in fact, be destroyed? We believe that Apollyon is gathering artifacts now, or employing his his minions to do so, and we're concerned about them falling into the wrong hands. Do you know of ways to destroy powerful magic?",
+        "",
+        "%% u0537:0-56 %%",
+        "DM: Powerful magic can be destroyed by other powerful magic.",
+        "",
+        "%% u0538:0-40 %%",
+        "Kenzo: He was going to say something like that.",
+        "",
+        "%% u0539:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u0540:0-30 %%",
+        "DM: What you would like to destroy?",
+        "",
+        "%% u0541:0-44, u0542:0-21, u0543:0-28 %%",
+        "Riswynn: Some advice came to us that a volcano's heat perhaps would suffice to destroy magical objects.",
+        "",
+        "%% u0543:28-46, u0544:0-61, u0545:0-80 %%",
+        "DM: Some volcanoes are echoes of when the plane of fire was connected to this world. The magic of the plane of fire would suffice to destroy many artifacts, indeed.",
+        "",
+        "%% u0546:0-91 %%",
+        "Wellby: We're seeking to destroy the artifacts that belonged to Apollyon, and survived his passing.",
+        "",
+        "%% u0547:0-49, u0548:0-27 %%",
+        "DM: That sounds like a great quest. But not my quest. What would you like to know?",
+        "",
+        "%% u0549:0-3 %%",
+        "Riswynn: To—",
+        "",
+        "%% u0550:0-81, u0551:0-27 %%",
+        "Riswynn: Can we describe where we think the one volcano we know of is, and ask if that's a— he knows that that's that?",
+        "",
+        "%% u0552:0-189 %%",
+        "DM: Well, you know the volcano way to the East that Kenzo saw is definitely connected to the plane of fire, because Kenzo talked to somebody from the plane of fire, he said, this is my volcano.",
+        "",
+        "%% u0553:0-91 %%",
+        "Riswynn: Okay, so are there—why don't we start with that one, like there's one very far in the East.",
+        "",
+        "%% u0554:0-52, u0555:0-51, u0556:0-89 %%",
+        "Riswynn: There is a volcano very far to the East that we know is connected to the Plane of Fire, as you describe. We wonder if there are other similar locations that we have not yet learned of, that you—",
+        "",
+        "%% u0557:0-20, u0558:0-240, u0559:0-34 %%",
+        "DM: The solid and static heat and flame of a volcano is not so much my domain. My cousins, the Fire Giants, would know better. Some once lived east of here long ago, but I have no idea if they are still there or not, or if they would even deign to speak with humans or any of the other younger races.",
+        "",
+        "%% u0560:0-42 %%",
+        "Kenzo: Might you be able to make an introduction?",
+        "",
+        "%% u0561:0-56, u0562:0-23 %%",
+        "DM: Not tonight, and I won't be here tomorrow, but I do know something of volcanoes.",
+        "",
+        "%% u0563:0-33, u0564:0-31, u0565:0-72, u0566:0-5, u0567:0-46, u0568:0-17, u0569:0-27, u0570:0-59, u0571:0-33, u0572:0-56, u0573:0-64 %%",
+        "DM: The north coast of the Green Sea, where I grew up in my childhood— many of the islands that the sea people there lived on are volcanic, and there— chain of volcanoes runs all the way across the north, across the the mountains that were the the home of a loose collection of tribes and small kingdoms on the northern border of Drankor stretching all the way across the central mountain range to land of fire and ice, a mountain chain running east and west.",
+        "",
+        "%% u0574:0-83, u0575:0-11, u0576:0-117 %%",
+        "DM: And that same ring of volcanoes continued across the Green Sea, then cutting across the island. It was called Erelion in my day. I know not if it is still called such, a large island in the middle of the Green Sea.",
+        "",
+        "%% u0577:0-26, u0578:0-50, u0579:0-50, u0580:0-54, u0581:0-68 %%",
+        "DM: And south and west of here, many of the islands in the Nevos Sea are volcanic. Could not tell you which of these volcanoes may be a remnant of this connection to the Plane of Fire; but should you wish to search for volcanoes, that is where I would start.",
+        "",
+        "%% u0582:0-29 %%",
+        "Riswynn: The islands and the seas, and—",
+        "",
+        "%% u0583:0-103 %%",
+        "Wellby: The question of seas makes me wonder: if you travel due east across the Green Sea, is there a far shore?",
+        "",
+        "%% u0584:0-42 %%",
+        "DM: Not even my people know the answer to that.",
+        "",
+        "%% u0585:0-3 %%",
+        "Kenzo: Was.",
+        "",
+        "%% u0586:0-5 %%",
+        "Seeker: Nice.",
+        "",
+        "%% u0587:0-4 %%",
+        "Wellby: Wow!",
+        "",
+        "%% u0588:0-4 %%",
+        "Kenzo: What.",
+        "",
+        "%% u0589:0-108 %%",
+        "DM: Should you really wish to know what is far beyond the horizon in the ocean, have to speak with the merfolk.",
+        "",
+        "%% u0590:0-37 %%",
+        "Wellby: I'm adding it to the side quest list.",
+        "",
+        "%% u0591:0-21 %%",
+        "Seeker: Nice. Seems important.",
+        "",
+        "%% u0592:0-13, u0593:0-42, u0594:0-57 %%",
+        "Delwath: It's totally. You say you will not be here tomorrow, but as the wind, could you not send an omen to the Fire Giant?",
+        "",
+        "%% u0595:0-56, u0596:0-19, u0597:0-15, u0598:0-35, u0599:0-21 %%",
+        "DM: I know not even if these giants still live east of here. If I pass that way, and I see them, perhaps the omen of my passing will echo in their dreams.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Just one piece.",
+          "Seeker: Just one. Hmm. I'll I'll have a look. It's now—",
+          "DM: It's now well dark, and he looks up at the sky, and he says, \"I will happily talk into my into the night, my friends, but I would not mind one last night of sleep as well.\" You, then—",
+          "Kenzo: We just have a few more questions for you, Hralgar. That's all right?",
+          "DM: Please."
+        ],
+        "after": [
+          "Kenzo: Hralgar! A final question for me. You mentioned again much about Omnis Pura, and Apollyon's leading leadership of them, and you also talked about a powerful magic that they had come across. Can you say more about the magic and their powers and their ambitions?",
+          "DM: Well, their ambition was clear: to put themselves above all others, to purify the land under their control.",
+          "Kenzo: And magic? Yeah.",
+          "DM: I don't know. I assume that there must be answers in Apollyon's lair on this island. But again, that was never my— that was never my concern.",
+          "DM: When they put themselves above others, they stopped coming. They stopped seeking the advice of— and I stopped caring."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The Omnis Pura’s ambition",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0600",
+        "endUid": "u0616"
+      },
+      "lines": [
+        "%% u0600:0-64, u0601:0-15, u0602:0-64, u0603:0-30, u0604:0-83 %%",
+        "Kenzo: Hralgar! A final question for me. You mentioned again much about Omnis Pura, and Apollyon's leading leadership of them, and you also talked about a powerful magic that they had come across. Can you say more about the magic and their powers and their ambitions?",
+        "",
+        "%% u0605:0-65, u0606:0-38 %%",
+        "DM: Well, their ambition was clear: to put themselves above all others, to purify the land under their control.",
+        "",
+        "%% u0607:0-10, u0608:0-5 %%",
+        "Kenzo: And magic? Yeah.",
+        "",
+        "%% u0609:0-84, u0610:0-28, u0611:0-26 %%",
+        "DM: I don't know. I assume that there must be answers in Apollyon's lair on this island. But again, that was never my— that was never my concern.",
+        "",
+        "%% u0612:0-30, u0613:0-7, u0614:0-33, u0615:0-21, u0616:0-20 %%",
+        "DM: When they put themselves above others, they stopped coming. They stopped seeking the advice of— and I stopped caring.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Should you really wish to know what is far beyond the horizon in the ocean, have to speak with the merfolk.",
+          "Wellby: I'm adding it to the side quest list.",
+          "Seeker: Nice. Seems important.",
+          "Delwath: It's totally. You say you will not be here tomorrow, but as the wind, could you not send an omen to the Fire Giant?",
+          "DM: I know not even if these giants still live east of here. If I pass that way, and I see them, perhaps the omen of my passing will echo in their dreams."
+        ],
+        "after": [
+          "Delwath: It—",
+          "Delwath: Hralgar, when we came here before, when you were lost in your dreams and trapped, you, you nonetheless were able to somehow tell us something, a true statement about the world, about a creature called Agata. Do you recall this at all? Do you know anything of this creature?",
+          "DM: I do not recall much of my entrapment.",
+          "DM: Closing his eyes, and the wind picks up a little bit. The winds always bring news, omens, portents.",
+          "Delwath: I ask not because we are interested in portents of Agata, a fey who is now where she deserves to be. It—but there's another creature, Grash, who is gathering forces to the east of here. Undead of some sort, perhaps of many ancient—perhaps a creature of many years ago, or perhaps recently made undead. We don't know, but omens or rumors or stories the wind could bring of Grash would be valuable to us."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Asking Hralgar about Agata",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0618",
+        "endUid": "u0629"
+      },
+      "lines": [
+        "%% u0618:0-56, u0619:0-23, u0620:0-33, u0621:0-7, u0622:0-50, u0623:0-30, u0624:0-65 %%",
+        "Delwath: Hralgar, when we came here before, when you were lost in your dreams and trapped, you, you nonetheless were able to somehow tell us something, a true statement about the world, about a creature called Agata. Do you recall this at all? Do you know anything of this creature?",
+        "",
+        "%% u0625:0-15, u0626:0-22 %%",
+        "DM: I do not recall much of my entrapment.",
+        "",
+        "%% u0627:0-17, u0628:0-35, u0629:0-43 %%",
+        "DM: Closing his eyes, and the wind picks up a little bit. The winds always bring news, omens, portents.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Well, their ambition was clear: to put themselves above all others, to purify the land under their control.",
+          "Kenzo: And magic? Yeah.",
+          "DM: I don't know. I assume that there must be answers in Apollyon's lair on this island. But again, that was never my— that was never my concern.",
+          "DM: When they put themselves above others, they stopped coming. They stopped seeking the advice of— and I stopped caring.",
+          "Delwath: It—"
+        ],
+        "after": [
+          "Delwath: I ask not because we are interested in portents of Agata, a fey who is now where she deserves to be. It—but there's another creature, Grash, who is gathering forces to the east of here. Undead of some sort, perhaps of many ancient—perhaps a creature of many years ago, or perhaps recently made undead. We don't know, but omens or rumors or stories the wind could bring of Grash would be valuable to us.",
+          "DM: I can listen, but even the wind does not travel instantaneously.",
+          "DM: He looks up at the sky as the stars are coming out. The portents are unsettled. There is violence coming, or— sort of looks puzzled for a minute—",
+          "DM: But strangely little death.",
+          "Kenzo: Strangely a little what?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Grash’s undying forces and the journey of souls",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0630",
+        "endUid": "u0677"
+      },
+      "lines": [
+        "%% u0630:0-100, u0631:0-38, u0632:0-6, u0633:0-37, u0634:0-28, u0635:0-24, u0636:0-80, u0637:0-65, u0638:0-15 %%",
+        "Delwath: I ask not because we are interested in portents of Agata, a fey who is now where she deserves to be. It—but there's another creature, Grash, who is gathering forces to the east of here. Undead of some sort, perhaps of many ancient—perhaps a creature of many years ago, or perhaps recently made undead. We don't know, but omens or rumors or stories the wind could bring of Grash would be valuable to us.",
+        "",
+        "%% u0639:0-5, u0640:0-58 %%",
+        "DM: I can listen, but even the wind does not travel instantaneously.",
+        "",
+        "%% u0641:0-51, u0642:0-27, u0643:0-8, u0644:0-16, u0645:0-2, u0646:0-35 %%",
+        "DM: He looks up at the sky as the stars are coming out. The portents are unsettled. There is violence coming, or— sort of looks puzzled for a minute—",
+        "",
+        "%% u0647:0-27 %%",
+        "DM: But strangely little death.",
+        "",
+        "%% u0648:0-23 %%",
+        "Kenzo: Strangely a little what?",
+        "",
+        "%% u0649:0-118 %%",
+        "Delwath: Nobody dies who Grash kills. He raises them back as zombies. Yeah, and none of his army ever dies permanently, either.",
+        "",
+        "%% u0650:0-28 %%",
+        "Wellby: That's going to be a problem.",
+        "",
+        "%% u0651:0-21 %%",
+        "Delwath: That is going to be a—",
+        "",
+        "%% u0652:0-20 %%",
+        "Seeker: Another nasty [garbled].",
+        "",
+        "%% u0653:0-47, u0654:0-99 %%",
+        "Riswynn: Maybe we can intentionally [garbled], but— like, I don't know, find a portal and stick them in. I mean, we just have to put them in the mirror.",
+        "",
+        "%% u0655:0-174 %%",
+        "Delwath: We put him in the mirror, and then we put the mirror in the Bag of Holding and let it all explode. What would happen? I guess he'd just be violently ejected. He wouldn't die.",
+        "",
+        "%% u0656:0-3 %%",
+        "Wellby: No.",
+        "",
+        "%% u0657:0-36, u0658:0-50, u0659:0-11, u0660:0-25, u0661:0-39, u0662:0-27 %%",
+        "Kenzo: When I was in the the Plane of Souls I saw what Grash was doing. He was somehow able to prevent the— he was able to manipulate a dying soul's journey to the afterlife, to the to the realms beyond.",
+        "",
+        "%% u0663:0-18 %%",
+        "DM: Eudomes had a book.",
+        "",
+        "%% u0664:0-54, u0665:0-34, u0666:0-36 %%",
+        "DM: Had a book from Hkar the land where humans are created about the journey that souls take. Perhaps there is some clue in there.",
+        "",
+        "%% u0667:0-6 %%",
+        "Seeker: I yes.",
+        "",
+        "%% u0668:0-54, u0669:0-34, u0670:0-18, u0671:0-66, u0672:0-41 %%",
+        "Seeker: Seeker rummages through his pile of interesting books. The Journey of the Souls, this one. It's all survived. It's it's another delicate one, Delwath. Perhaps you could help us. It's another one in the strange language.",
+        "",
+        "%% u0673:0-32 %%",
+        "Delwath: Is it the same strange language?",
+        "",
+        "%% u0674:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u0675:0-3 %%",
+        "Seeker: Who.",
+        "",
+        "%% u0676:0-52 %%",
+        "Delwath: So? It's got to be the language of the first humans?",
+        "",
+        "%% u0677:0-4 %%",
+        "DM: Yep.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: When they put themselves above others, they stopped coming. They stopped seeking the advice of— and I stopped caring.",
+          "Delwath: It—",
+          "Delwath: Hralgar, when we came here before, when you were lost in your dreams and trapped, you, you nonetheless were able to somehow tell us something, a true statement about the world, about a creature called Agata. Do you recall this at all? Do you know anything of this creature?",
+          "DM: I do not recall much of my entrapment.",
+          "DM: Closing his eyes, and the wind picks up a little bit. The winds always bring news, omens, portents."
+        ],
+        "after": [
+          "Wellby: One.",
+          "Delwath: Man, I wonder if something's written here about the very first humans? Wouldn't that be interesting?",
+          "Seeker: What do you mean?",
+          "Delwath: The ones who had no parents?",
+          "Seeker: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The small blank handbook and its society",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0705",
+        "endUid": "u0729"
+      },
+      "lines": [
+        "%% u0705:0-32, u0706:0-66, u0707:0-82, u0708:0-34, u0709:0-12, u0710:0-56, u0711:0-136, u0712:0-11 %%",
+        "Seeker: That's fascinating before we do. And while we're talking about this stack of books, I pull off one. The—compared to the other ones, actually seems like a postage stamp in size. It's a more like a small normal size book in this one, I think that term is usually referred—used to refer to a a handbook, just a practical guide of some kind. It's written in Drankorian, though, which I don't really—do you read it right now with my current?",
+        "",
+        "%% u0713:0-24 %%",
+        "Delwath: Yes, yes, I read it too.",
+        "",
+        "%% u0714:0-46, u0715:0-42, u0716:0-18 %%",
+        "Seeker: It's a—and that fact is is less useful because Seeker opens it, or Delwath. The pages are known to be empty.",
+        "",
+        "%% u0717:0-103, u0718:0-3, u0719:0-44 %%",
+        "Seeker: I haven't quite figured out how to reveal the the contents just yet. Does seem to be a magical book now. And do you know anything about this one, Hralgar?",
+        "",
+        "%% u0720:0-7 %%",
+        "DM: Nothing.",
+        "",
+        "%% u0721:0-3 %%",
+        "Seeker: You.",
+        "",
+        "%% u0722:0-23 %%",
+        "Riswynn: Maybe our mirror would—",
+        "",
+        "%% u0723:0-12, u0724:0-31, u0725:0-39 %%",
+        "Seeker: Yeah. It's a— connected to the Occulta Ludum. Another one of these Drankorian groups.",
+        "",
+        "%% u0726:0-44, u0727:0-109 %%",
+        "Delwath: Do we know anything about the Occulta Ludum? Eudomes is a member of the—right, right, right? Right, right, right, right. I I know I heard the name somewhere.",
+        "",
+        "%% u0728:0-57, u0729:0-7 %%",
+        "Seeker: What their connection is to the Omnis Pura, we don't know, if any.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I mean, you have a mirror that shows the history of things.",
+          "Seeker: Interesting plan.",
+          "Delwath: That's a brilliant idea.",
+          "Seeker: And.",
+          "Delwath: Yeah, unmute, Kate. We prefer to pester a storm giant about stuff he doesn't, either. Wow, we can't use it. Yeah, it's recharged. Oh. Should we look at this ancient book in the mirror?"
+        ],
+        "after": [
+          "Kenzo: Hralgar, I know the night grows long. We were, as we as we mentioned, we— I believe it's of great importance to destroy these items of of—",
+          "Kenzo: We're aware of a a scepter and a cloak and a ring. Have you heard of such items? You know of any others?",
+          "DM: The scepter? Yes, I did hear of that. The power to command armies, as it is said.",
+          "DM: I was entrapped before the heart of Apollyon's reign. But there must be stories of him, and the histories of your people, are there not?",
+          "Kenzo: Who's researching a lot, all of that for us right now? There's somebody researching for us. Right? Govir. Yeah, we sent a note. Nobody but."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The scepter, cloak and ring",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0730",
+        "endUid": "u0742"
+      },
+      "lines": [
+        "%% u0730:0-36, u0731:0-35, u0732:0-63 %%",
+        "Kenzo: Hralgar, I know the night grows long. We were, as we as we mentioned, we— I believe it's of great importance to destroy these items of of—",
+        "",
+        "%% u0733:0-38, u0734:0-11, u0735:0-53 %%",
+        "Kenzo: We're aware of a a scepter and a cloak and a ring. Have you heard of such items? You know of any others?",
+        "",
+        "%% u0736:0-12, u0737:0-24, u0738:0-42 %%",
+        "DM: The scepter? Yes, I did hear of that. The power to command armies, as it is said.",
+        "",
+        "%% u0739:0-26, u0740:0-26, u0741:0-37, u0742:0-44 %%",
+        "DM: I was entrapped before the heart of Apollyon's reign. But there must be stories of him, and the histories of your people, are there not?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: You.",
+          "Riswynn: Maybe our mirror would—",
+          "Seeker: Yeah. It's a— connected to the Occulta Ludum. Another one of these Drankorian groups.",
+          "Delwath: Do we know anything about the Occulta Ludum? Eudomes is a member of the—right, right, right? Right, right, right, right. I I know I heard the name somewhere.",
+          "Seeker: What their connection is to the Omnis Pura, we don't know, if any."
+        ],
+        "after": [
+          "Kenzo: Who's researching a lot, all of that for us right now? There's somebody researching for us. Right? Govir. Yeah, we sent a note. Nobody but.",
+          "Delwath: We should probably get Govir to research that for us. I think that's a bit of a hint there.",
+          "Wellby: Yeah. Solution here.",
+          "Riswynn: We got hung up on who to ask, what do we want to ask somebody in what we want to wait—didn't we ask Govir to like get a list of the Emperors of Drankor for us?",
+          "DM: No, I."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Unsettled plans for historical research",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0743",
+        "endUid": "u0754"
+      },
+      "lines": [
+        "%% u0743:0-54, u0744:0-72, u0745:0-10 %%",
+        "Kenzo: Who's researching a lot, all of that for us right now? There's somebody researching for us. Right? Govir. Yeah, we sent a note. Nobody but.",
+        "",
+        "%% u0746:0-53, u0747:0-37 %%",
+        "Delwath: We should probably get Govir to research that for us. I think that's a bit of a hint there.",
+        "",
+        "%% u0748:0-19 %%",
+        "Wellby: Yeah. Solution here.",
+        "",
+        "%% u0749:0-162 %%",
+        "Riswynn: We got hung up on who to ask, what do we want to ask somebody in what we want to wait—didn't we ask Govir to like get a list of the Emperors of Drankor for us?",
+        "",
+        "%% u0750:0-5 %%",
+        "DM: No, I.",
+        "",
+        "%% u0751:0-55 %%",
+        "Delwath: Oh, nice, nice. He's the Chardonian scholar dude, right?",
+        "",
+        "%% u0752:0-109 %%",
+        "Riswynn: Right? So this is what happened as we were gonna—we thought that Chardonian might know better than the—right.",
+        "",
+        "%% u0753:0-39 %%",
+        "Delwath: Why, why didn't we do—we just forget?",
+        "",
+        "%% u0754:0-162 %%",
+        "DM: I think you could never really decide who the right person to ask was. We'll ask them both. So you got stuck in the indecision loop, which is a very common issue.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: What their connection is to the Omnis Pura, we don't know, if any.",
+          "Kenzo: Hralgar, I know the night grows long. We were, as we as we mentioned, we— I believe it's of great importance to destroy these items of of—",
+          "Kenzo: We're aware of a a scepter and a cloak and a ring. Have you heard of such items? You know of any others?",
+          "DM: The scepter? Yes, I did hear of that. The power to command armies, as it is said.",
+          "DM: I was entrapped before the heart of Apollyon's reign. But there must be stories of him, and the histories of your people, are there not?"
+        ],
+        "after": [
+          "Delwath: Also, what happens is we get tired. We forget what the hell we're doing.",
+          "Kenzo: And Hralgar, we—I appreciate greatly the potential ability to meet and seek you again. Are there others of your kind that we might be able to speak with or learn from?",
+          "DM: A 1,000 years ago, yes. Who is still alive, even as a storm, I look forward to finding out.",
+          "DM: I am sure there are others, but few, if any, that I know.",
+          "DM: I am— I am displaced out of time by Eudomes's evil, for better or worse."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The exchange names Govir but conflates him with a Chardonian researcher; the identity qualification remains open in the bound map."
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Hralgar prepares to leave the mortal world",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0756",
+        "endUid": "u0783"
+      },
+      "lines": [
+        "%% u0756:0-11, u0757:0-49, u0758:0-24, u0759:0-79 %%",
+        "Kenzo: And Hralgar, we—I appreciate greatly the potential ability to meet and seek you again. Are there others of your kind that we might be able to speak with or learn from?",
+        "",
+        "%% u0760:0-23, u0761:0-36, u0762:0-30 %%",
+        "DM: A 1,000 years ago, yes. Who is still alive, even as a storm, I look forward to finding out.",
+        "",
+        "%% u0763:0-31, u0764:0-24 %%",
+        "DM: I am sure there are others, but few, if any, that I know.",
+        "",
+        "%% u0765:0-5, u0766:0-26, u0767:0-17, u0768:0-20 %%",
+        "DM: I am— I am displaced out of time by Eudomes's evil, for better or worse.",
+        "",
+        "%% u0769:0-35, u0770:0-22 %%",
+        "DM: If it was a millennium ago, I could introduce you to many.",
+        "",
+        "%% u0771:0-28, u0772:0-122, u0773:0-35 %%",
+        "Kenzo: All right, we look forward to when our paths cross again and hopefully you're able to find and meet many more of your your kind. I'm sure they're there. And that blessed reunions await you.",
+        "",
+        "%% u0774:0-10 %%",
+        "DM: I hope so.",
+        "",
+        "%% u0775:0-35 %%",
+        "Kenzo: I think we asked all our questions.",
+        "",
+        "%% u0776:0-4 %%",
+        "Delwath: Yep.",
+        "",
+        "%% u0777:0-26, u0778:0-19, u0779:0-56, u0780:0-21 %%",
+        "DM: He leans back, and he says, \"My eyes grow heavy. I will see you in the morning one last time before I go, but now I will sleep.\"",
+        "",
+        "%% u0781:0-17, u0782:0-51, u0783:0-34 %%",
+        "DM: And he leans back, lying his full 30 feet, just looking up at the sky. He begins to drift off into sleep.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Oh, nice, nice. He's the Chardonian scholar dude, right?",
+          "Riswynn: Right? So this is what happened as we were gonna—we thought that Chardonian might know better than the—right.",
+          "Delwath: Why, why didn't we do—we just forget?",
+          "DM: I think you could never really decide who the right person to ask was. We'll ask them both. So you got stuck in the indecision loop, which is a very common issue.",
+          "Delwath: Also, what happens is we get tired. We forget what the hell we're doing."
+        ],
+        "after": [
+          "Kenzo: Tim, Kenzo spends much of the rest of the night carving Hralgar's story onto his staff. But also— But Kenzo is getting some storm giant ki. How are we [garbled]?",
+          "Unknown: Right?",
+          "DM: You'll see.",
+          "Seeker: All right.",
+          "DM: So don't forget to click the long rest button and reset charges on your magic items, all of those things."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Farewell and the blessing of the wind",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0796",
+        "endUid": "u0867"
+      },
+      "lines": [
+        "%% u0796:0-33, u0797:0-15, u0798:0-47, u0799:0-40, u0800:0-33 %%",
+        "DM: So as you wake up in the morning, the sun rising, Hralgar stands, and he looks at you all, and he turns to each of you in turn, and and to Seeker, and Riswynn, and he says,",
+        "",
+        "%% u0801:0-42, u0802:0-27, u0803:0-56, u0804:0-62 %%",
+        "DM: \"I wish you luck finding the phasing stone, and I give you my blessing. Repair this ship. It would be a joy to see it fly again, and perhaps some day I will be a passing storm across your bow.\"",
+        "",
+        "%% u0805:0-30, u0806:0-23, u0807:0-13, u0808:0-33, u0809:0-110 %%",
+        "DM: Turns to Delwath, and he says, \"Thank you again for the— for the meal. I'll think fondly of your cooking when I'm tasting the fresh cold air above the glaciers of the north, or the salty sea breeze on the Green Sea.\"",
+        "",
+        "%% u0810:0-36, u0811:0-34, u0812:0-42 %%",
+        "DM: And he turns to Wellby, and he says, \"I know you know the joy of travel. Keep me in your thoughts and your stories.\"",
+        "",
+        "%% u0813:0-68, u0814:0-83, u0815:0-112, u0816:0-5, u0817:0-99, u0818:0-11 %%",
+        "DM: And then he turns to Kenzo, and he sort of kneels down so that he is close to you, and he holds out his hand, which is, you know, nearly the size of you like—he just holds it up like this, and you can see this sort of lightning crackling between his fingers as he— as he stretches his his like finger out. There's like lightning that's kind of sparking towards your hand, and he says,",
+        "",
+        "%% u0819:0-33, u0820:0-19, u0821:0-178, u0822:0-33, u0823:0-100 %%",
+        "DM: \"We have been connected, as I have to no human before. The storm will always be a part of you now.\" And the lightning begins to like flash through your hands, like sort of almost weaving its way down your arm, and like forming a tattoo on your on your arm, and he says, \"Reach out, you can feel it, ground yourself in it, and if you need to reach me, let the storm loose.\"",
+        "",
+        "%% u0824:0-52, u0825:0-30, u0826:0-29, u0827:0-84, u0828:0-26, u0829:0-16 %%",
+        "Kenzo: Kenzo bows deeply and reverently to the storm giant, energy crackling in his hands, merging with the blue aura of his own. So that's now kind of a bluish lightning crackling through his body, and he looks up and says, \"Hralgar, I feel the storm.\"",
+        "",
+        "%% u0830:0-25 %%",
+        "Kenzo: Kind of smiles and laughs.",
+        "",
+        "%% u0831:0-2 %%",
+        "DM: To.",
+        "",
+        "%% u0832:0-15, u0833:0-30, u0834:0-10 %%",
+        "Kenzo: The freedom you— it's truly, it's truly amazing. Thank you.",
+        "",
+        "%% u0835:0-100, u0836:0-8, u0837:0-79, u0838:0-61 %%",
+        "DM: And then he looks at you all as you're sort of packing up your camp and and getting ready to travel, he says— as he as he looks in the sky you can see the sky begins to become cloudy again. Almost like a rain cloud is condensing over him, and he says—",
+        "",
+        "%% u0839:0-29, u0840:0-47 %%",
+        "DM: Sort of leans into the cloud, and he smiles, first time you've seen him smile.",
+        "",
+        "%% u0841:0-45, u0842:0-135, u0843:0-7, u0844:0-52, u0845:0-21, u0846:0-13 %%",
+        "DM: And he reaches out, and he says, \"Before I go, grant you the blessing of the wind.\" And he reaches out in light, and like this cloud begins to condense around him, and you can feel it sort of you can you can feel it tugging at you, almost as if you want to transform into a cloud.",
+        "",
+        "%% u0847:0-31, u0848:0-34 %%",
+        "DM: And as he vanishes into the sky you can feel some lingering magic.",
+        "",
+        "%% u0849:0-27, u0850:0-48, u0851:0-48 %%",
+        "DM: So until the sun sets today, you can spend a minute to transform into a cloud. In cloud form, you can travel 50 miles per hour.",
+        "",
+        "%% u0852:0-5 %%",
+        "Seeker: Whoa!",
+        "",
+        "%% u0853:0-86, u0854:0-54 %%",
+        "DM: Or if you wanted to like go and push yourself, you can travel 100 miles per hour, but that might tire you out, which will have consequences.",
+        "",
+        "%% u0855:0-19 %%",
+        "Seeker: Sorry, for how long?",
+        "",
+        "%% u0856:0-17, u0857:0-36 %%",
+        "DM: Till the sun sets. So, you know, 9 h, something like that.",
+        "",
+        "%% u0858:0-23 %%",
+        "Seeker: Oh, right it's morning.",
+        "",
+        "%% u0859:0-43 %%",
+        "Kenzo: And how far away is the phasing stone again?",
+        "",
+        "%% u0860:0-40 %%",
+        "Seeker: We can—about a 100 miles. We can make it.",
+        "",
+        "%% u0861:0-96 %%",
+        "Unknown: And we can do this multiple? It's not a one time? We can turn back and forth, or just once each?",
+        "",
+        "%% u0861:96-168, u0862:0-66 %%",
+        "DM: Yeah, back and forth. It takes a minute each time you want to transform. So it's not like an escape from combat sort of thing, but anytime.",
+        "",
+        "%% u0863:0-40, u0864:0-50 %%",
+        "Delwath: But yeah, we can go to the phasing stone in 2 h, do our adventure there, and then come back.",
+        "",
+        "%% u0865:0-41 %%",
+        "Seeker: Exactly, while carrying the phasing stone.",
+        "",
+        "%% u0866:0-132 %%",
+        "Riswynn: It's—we can imagine to be tiny, correct, but also again, presumably our possessions disappear into the cloud with you? Yes, perfect.",
+        "",
+        "%% u0867:0-40 %%",
+        "Seeker: Seeker is very excited by this prospect.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So don't forget to click the long rest button and reset charges on your magic items, all of those things.",
+          "Seeker: The rest I sent a drawing.",
+          "Kenzo: That's awesome, Eric.",
+          "Delwath: So that one text.",
+          "Kenzo: Right?"
+        ],
+        "after": [
+          "Kenzo: Very glad we had that conversation now, as opposed to being like, totally, not like dead tired last time, you know it's much more productive. Yeah, definitely, very important things. We now know what the main quest is.",
+          "Seeker: Oh, my God! So exciting!",
+          "Delwath: Yeah.",
+          "Unknown: To.",
+          "Seeker: Wait! Was it again the Green Sea? That's what I got out of this, and it's the special Islands."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "The handbook’s two mirror scenes",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0932",
+        "endUid": "u1057"
+      },
+      "lines": [
+        "%% u0932:0-22, u0933:0-33 %%",
+        "DM: So take out the mirror before you transform into clouds.",
+        "",
+        "%% u0934:0-30 %%",
+        "Seeker: Yeah, and hauled out the book.",
+        "",
+        "%% u0935:0-10, u0936:0-62 %%",
+        "DM: Wondering, \"How is the how are the words of this book hidden and revealed?\"",
+        "",
+        "%% u0937:0-32, u0938:0-22, u0939:0-24, u0940:0-23, u0941:0-20, u0942:0-44, u0943:0-24, u0944:0-27, u0945:0-13, u0946:0-15, u0947:0-23, u0948:0-26, u0949:0-72, u0950:0-48, u0951:0-25, u0952:0-52, u0953:0-10, u0954:0-51, u0955:0-12 %%",
+        "((Wisdom check and assistance))",
+        "",
+        "%% u0956:0-46, u0957:0-18, u0958:0-43, u0959:0-39, u0960:0-3, u0961:0-28, u0962:0-5, u0963:0-22, u0964:0-7, u0965:0-22, u0966:0-65 %%",
+        "DM: Okay. So you you hold up, you hold up the book to the mirror, and for for a moment the mirror fades to black, and then you see, appearing in an image, the face of a young woman, maybe 17–18, blonde hair tied back, sort of gray, gray brown eyes, sort of tan skin, wearing what look like pretty elegant clothes.",
+        "",
+        "%% u0967:0-55, u0968:0-83, u0969:0-106, u0970:0-121, u0971:0-6, u0972:0-53 %%",
+        "DM: She seems to be looking—sitting at a desk, looking down. But you, like your perspective, is looking up at her face as if you're on the desk, and she seems—she seems almost maybe to be a student, like the this—this looks like a like a pretty spare, you know, it has that sort of dorm room vibe a little bit, right? Like, there's a desk. There's a bed. There's not a lot of other— you know. This is a this is a temporary living space.",
+        "",
+        "%% u0973:0-77 %%",
+        "Kenzo: Any any any indication of like period of history, based on clothing, furniture?",
+        "",
+        "%% u0974:0-16, u0975:0-39, u0976:0-97, u0977:0-49 %%",
+        "DM: Hard to tell at— None of you are really fashion experts. It it it seems it's like not—it's foreign. It's either archaic or far away, right? It's not like you know the current Chardonian garb or anything.",
+        "",
+        "%% u0978:0-36 %%",
+        "Kenzo: Got it. It was hard to know, really.",
+        "",
+        "%% u0979:0-93, u0980:0-3, u0981:0-24, u0982:0-185 %%",
+        "DM: And and she has like a a quill, and you know it looks like there's sort of papers spread out, and she turns, turns a page. And then begins chanting some sort of incantation, and then her hand reaches down and makes a streak across—like it looks like it's a streak, like right across the surface of the mirror.",
+        "",
+        "%% u0983:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u0984:0-48, u0985:0-62, u0986:0-124, u0987:0-51, u0988:0-8 %%",
+        "DM: After whatever incantation that she chanted was. And that is just as if you're watching somebody studying, like, you know, the the quill comes out. It's like, you know, just taking notes or something. She's sort of flipping, turning pages. As the pages turn, you can see those words on them. And then.",
+        "",
+        "%% u0989:0-57, u0990:0-5, u0991:0-30, u0992:0-86, u0993:0-7 %%",
+        "DM: This time seems to pass in this sort of indeterminate way until she glances up, and like looks like there was a knock at the door. There was some noise in the distance or something, and she—",
+        "",
+        "%% u0994:0-19, u0995:0-89, u0996:0-81, u0997:0-31, u0998:0-13, u0999:0-11, u1000:0-64, u1001:0-136, u1002:0-48 %%",
+        "DM: So she says another incantation, some other magic, like you don't quite know what it is, but something magic, and makes another sort of symbol, like almost like this in front of the book, and then quickly it's as if you're— you know, your— you're like jumbled with a whole bunch of stuff tossed into a bag, right? Like the perspective, as if you're the book. It's like you're picked up with notes and quills and everything just sort of quickly shoved into shoved into a pouch, and then everything's dark.",
+        "",
+        "%% u1003:0-8, u1004:0-18 %%",
+        "DM: And then the scene flashes.",
+        "",
+        "%% u1005:0-11, u1006:0-29, u1007:0-132, u1008:0-66, u1009:0-78, u1010:0-131, u1011:0-20, u1012:0-151, u1013:0-24 %%",
+        "DM: And you are in a much more elegant room, a— still, still, you know, just like a stone chamber, but there's a stained glass window that's casting a multicolored, multihued light across the room. There's a tapestry hanging up that spans, you know, a large section of one wall next to the stained glass window, that seems to be depicting a scene of ships sailing across a stormy sea, like lightning and and fire shooting off out from the ships as if by magic. And some great black armada, like dark sails chasing after them, with like lightning in the background, and storms and waves. And just this sort of chaotic battle scene, that like naval battle scene.",
+        "",
+        "%% u1014:0-126, u1015:0-87 %%",
+        "DM: And there is, you know, like a candelabra of gold, with with candles in it, casting—not lit because you have the sunlight, but everything about this room seems seems elegant, although it's not a room you recognize.",
+        "",
+        "%% u1016:0-89, u1017:0-75, u1018:0-117, u1019:0-143, u1020:0-67 %%",
+        "DM: And somebody is writing in the book with a quill. But the quill itself almost seems to be it—it looks so—it's not like just a bird feather, right? It it looks like you don't quite. You can't quite tell what it is, but like it's the quill of some strange creature, or something like a hippogriff feather or something or something. This is not like just the feather of a goose, or something like that. It's got like almost like threads of like actual silver running through some of the feathers.",
+        "",
+        "%% u1021:0-19, u1022:0-26, u1023:0-31, u1024:0-13, u1025:0-153 %%",
+        "DM: And as this as this— as this quill gets written— as this quill is writing, it's— you know that person will go dip in this this well of like silvery ink, and everything that's written vanishes immediately in the book. And then the mirror goes black.",
+        "",
+        "%% u1026:0-4, u1027:0-41 %%",
+        "Seeker: Hmm. The second part was its creation, perhaps?",
+        "",
+        "%% u1028:0-8 %%",
+        "DM: Probably.",
+        "",
+        "%% u1029:0-36, u1030:0-19 %%",
+        "Seeker: Episodes in the mirror go generally backwards in time?",
+        "",
+        "%% u1030:19-149 %%",
+        "DM: Historically gone backwards, right? Almost always go backwards. When you see more than one scene, it almost always goes backwards.",
+        "",
+        "%% u1031:0-67, u1032:0-48 %%",
+        "Seeker: And so the student was revealing the contents with a combination of a spell or incantation, and writing in the book.",
+        "",
+        "%% u1033:0-136 %%",
+        "DM: The student wasn't, writing in the book, was writing notes next to the book. Revealing the contents of the book with some kind of spell.",
+        "",
+        "%% u1034:0-36 %%",
+        "Seeker: But I couldn't lip read well enough.",
+        "",
+        "%% u1035:0-63, u1036:0-52 %%",
+        "DM: It's hard to tell what spell is being cast when you're looking at a reflection in a mirror from some long time ago.",
+        "",
+        "%% u1037:0-63 %%",
+        "Wellby: Though I'll mention that I can lip read any languages I speak.",
+        "",
+        "%% u1038:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1039:0-38 %%",
+        "DM: Yeah. But you're not a spellcaster. So.",
+        "",
+        "%% u1040:0-17, u1041:0-14 %%",
+        "Wellby: No, true, true, but— but for other—",
+        "",
+        "%% u1042:0-65 %%",
+        "Seeker: Is there a likely spell that it could be among ones that I know?",
+        "",
+        "%% u1042:65-85 %%",
+        "DM: Make an Arcana check.",
+        "",
+        "%% u1043:0-22, u1044:0-43, u1045:0-45, u1046:0-97, u1047:0-5, u1048:0-55, u1049:0-4, u1050:0-53, u1051:0-5 %%",
+        "((Arcana roll; Seeker cannot identify the spell))",
+        "",
+        "%% u1052:0-33, u1053:0-74, u1054:0-33 %%",
+        "DM: There, there probably are spells. But yeah, with what they are, and nothing is coming to mind at the moment. Another thing you could research.",
+        "",
+        "%% u1055:0-21 %%",
+        "Seeker: Oh, how do I do that?",
+        "",
+        "%% u1056:0-64 %%",
+        "DM: Ask a wizard to poke around in a library and report back to you.",
+        "",
+        "%% u1057:0-11 %%",
+        "Delwath: Yeah, what—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Looking at it in the mirror would be a good way to get a clue as to how to reveal what's written on the page, don't you think?",
+          "Seeker: Sure.",
+          "Delwath: That'd be—but I mean, that would be my, that would be my, like, what? Why are we looking at in the mirror? Like, the question we ask is like, 'Show us how you are hidden and revealed.'",
+          "Seeker: Yeah, yeah, yeah, okay, let's do it.",
+          "DM: Are you?"
+        ],
+        "after": [
+          "Delwath: Let's send some requests for research. Yeah, you may as well now. We should have done that last night before you—you long rested, so your slots back.",
+          "DM: Oh, wow!",
+          "Kenzo: We can retcon that. That would make sense to me. We do that.",
+          "DM: Riswynn didn't have any third level slots left last night.",
+          "Kenzo: We probably don't want to burn a lot of third-level slots on sending spells right before we go do our quest to find the phase. We do that when we get back. Yeah, Mike, Seeker's Journal. That's where we're putting down the research questions. Everything is in Seeker's Journal, right? Okay, sorry. Yeah, let's add it to Seeker's Journal."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Enemies Kenzo is watching for",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1128",
+        "endUid": "u1128"
+      },
+      "lines": [
+        "%% u1128:0-75 %%",
+        "Delwath: Keep an eye out for a Shadow Demon hunter thing that Fausto sent after us.",
+        "",
+        "%% u1128:75-248 %%",
+        "Kenzo: Oh, that's what I'm—exactly what I'm looking for. I'm looking for shadow hunters. I'm looking for Kadmos. I'm looking for anything that's trying to like kill us right now.",
+        "",
+        "%% u1128:248-348 %%",
+        "Delwath: I really want to fly up to Kadmos in their flying castle, and just like, drop something on his head.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And it it feels mostly empty. It's not just that you don't sense enemies. You don't sense really much of anyone or anything. There's like a few cautious animals beginning to creep into the land. There's no people, nobody with malicious intent. The most malicious intent you can—you can sense is a hawk—or you're doing this at night, right? An owl soaring in the sky looking for mice.",
+          "Kenzo: But even that's not really malicious. Okay. That's enough.",
+          "Kenzo: That again—Kenzo is now able to spend a bunch of ki and spend an hour and like search for things, search for auras within a 6 mile radius, including enemies, so—",
+          "Seeker: Cool.",
+          "Wellby: That's awesome. You should."
+        ],
+        "after": [
+          "Wellby: The castle drop the castle right on him.",
+          "Kenzo: Totally. This is like a wizard of Oz type thing.",
+          "Seeker: Yeah. All right. Let's be clouds.",
+          "Wellby: Yes, that's too bad. Here we go. Okay. So.",
+          "DM: You spend a minute and you feel yourself slowly becoming wispy and insubstantial and floating up into the sky, and you you find that even with just a just a slight thought, you can change the way you blow across the landscape as you drift higher and higher and higher, a few 100 feet, 1,000 feet, 2,000 feet up in the sky, and you begin just kind of blowing across the land, heading north into the mountains, following the directions that Hralgar gave you to get to his palace. And it takes you—unless you're like pushing real hard to like run, in which case you need to make saves to avoid becoming tired, but assuming you're going at a comfortably fast pace, but not exhausting yourself—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Parley with the ice-crowned woman, and its outcome",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e028",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1337",
+        "endUid": "u2324"
+      },
+      "lines": [
+        "%% u1337:0-72, u1338:0-38, u1339:0-8, u1340:0-22 %%",
+        "DM: You can see now underneath where this sheet of ice was, into this sort of ice structure in the back. And there's some one pacing back and forth.",
+        "",
+        "%% u1341:0-13, u1342:0-7, u1343:0-20, u1344:0-89 %%",
+        "DM: A woman maybe, wearing— like it, almost like coming off of her body, are all of these like icicles, basically like long spikes of ice.",
+        "",
+        "%% u1345:0-101, u1346:0-54, u1347:0-4, u1348:0-60, u1349:0-2, u1350:0-10 %%",
+        "DM: She's wearing like a a crown almost. But it's made of ice, and it seems to be fused in with her head. And there's like a whole like complicated sort of ice, like— icicle formation sort of coming out of her head. Her skin is is— pale blue.",
+        "",
+        "%% u1351:0-25, u1352:0-71, u1353:0-17, u1354:0-115, u1355:0-7, u1356:0-94, u1357:0-26 %%",
+        "DM: She's maybe 10 feet tall, and she's she's pacing back and forth, and and and everywhere she steps you can see, like you can almost see the intense cold that's radiating off of her footsteps. And and every now and then she's looking looking sort of off in the distance, not seeing you, but just kind of staring out, and she seems to be concentrating on something.",
+        "",
+        "%% u1358:0-19 %%",
+        "Kenzo: Evil magic spells.",
+        "",
+        "%% u1359:0-101, u1360:0-160 %%",
+        "DM: What exactly is not entirely clear, but she'll [garbled]. She'll gaze off in the distance occasionally, and then, and then resume pacing, and and every now and then it's just pacing. You'll see sort of almost a little bit of sort of snow flurries around her head.",
+        "",
+        "%% u1361:0-134 %%",
+        "Wellby: I'll relay this back to everyone telepathically. What what do we know about—is this an ice giant? Do we know? Do I know what this is?",
+        "",
+        "%% u1362:0-39, u1363:0-35, u1364:0-67 %%",
+        "DM: It's too small to be any kind of giant. You don't really know what this is. Nothing. It's not like a common sort of creature that you recognize.",
+        "",
+        "%% u1365:0-227, u1366:0-21, u1367:0-35 %%",
+        "((Protection spell discussion))",
+        "",
+        "%% u1368:0-5, u1369:0-120 %%",
+        "Wellby: Yeah. Also to to the—sorry, logistics questions. So is this is the structure like a home, or this is a structure like a prison?",
+        "",
+        "%% u1370:0-204, u1371:0-21, u1372:0-63 %%",
+        "DM: Definitely not a prison. I mean, it doesn't look very hospit—it doesn't look very homely to you, but like there's a there's an entry way that this woman could walk out of. It's not like she's trapped here, right? It seems to be— I I mean, it looks to you like a structure of her own creation.",
+        "",
+        "%% u1372:63-156 %%",
+        "Wellby: And then how far away is she for me right now? How far is—how far into the structure is she?",
+        "",
+        "%% u1373:0-8 %%",
+        "DM: 80 feet.",
+        "",
+        "%% u1374:0-62 %%",
+        "Wellby: And how how far am I from the rest of the party at this point?",
+        "",
+        "%% u1375:0-20, u1376:0-57, u1377:0-90, u1378:0-18, u1379:0-138 %%",
+        "DM: Maybe 60 or 80 feet. They're down—they're down these steps, maybe a 100 feet. They're down these steps that are tricky to climb because they're both slippery and giant, and you're sort of peeking up from the top top step just looking over into this. So everybody else is substantially below the level of this woman's eyesight.",
+        "",
+        "%% u1380:0-56 %%",
+        "Delwath: She's in the icy part. Not the dark cloudy part. Right?",
+        "",
+        "%% u1380:56-71 %%",
+        "DM: Exactly. Yeah.",
+        "",
+        "%% u1380:71-76 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u1381:0-98, u1382:0-2, u1383:0-50, u1384:0-101, u1385:0-30, u1386:0-88, u1387:0-53, u1388:0-74, u1389:0-20, u1390:0-46, u1391:0-21, u1392:0-3, u1393:0-6, u1394:0-62, u1395:0-41, u1396:0-38, u1397:0-125, u1398:0-25, u1399:0-20, u1400:0-46, u1401:0-52, u1402:0-32, u1403:0-42, u1404:0-182, u1405:0-1, u1406:0-114, u1407:0-108, u1408:0-24, u1409:0-35, u1410:0-5, u1411:0-16, u1412:0-116, u1413:0-37, u1414:0-75, u1415:0-13, u1416:0-30, u1417:0-5, u1418:0-27, u1419:0-89, u1420:0-113, u1421:0-4, u1422:0-174, u1423:0-244, u1424:0-97, u1425:0-104, u1426:0-143, u1427:0-23, u1428:0-10, u1429:0-120, u1430:0-24, u1431:0-46, u1432:0-43, u1433:0-45, u1434:0-64, u1435:0-27, u1436:0-77, u1437:0-56, u1438:0-148, u1439:0-59, u1440:0-18, u1441:0-78, u1442:0-53, u1443:0-21, u1444:0-29, u1445:0-24, u1446:0-5, u1447:0-16, u1448:0-58, u1449:0-51, u1450:0-42, u1451:0-20, u1452:0-15, u1453:0-5, u1454:0-22, u1455:0-39, u1456:0-22, u1457:0-40, u1458:0-65, u1459:0-45, u1460:0-8, u1461:0-27, u1462:0-49, u1462:49-75, u1463:0-11, u1464:0-55, u1465:0-18, u1466:0-7, u1467:0-27, u1468:0-31, u1469:0-4, u1470:0-52, u1471:0-51, u1472:0-3, u1473:0-198, u1474:0-3, u1475:0-3, u1476:0-74, u1477:0-54, u1478:0-40, u1479:0-135, u1480:0-91, u1481:0-33, u1482:0-28, u1483:0-38, u1484:0-33, u1485:0-15, u1486:0-15, u1487:0-33, u1488:0-195, u1489:0-24, u1490:0-4, u1491:0-59, u1492:0-37, u1493:0-84, u1494:0-22, u1495:0-32, u1496:0-22, u1497:0-13, u1498:0-55, u1499:0-30, u1500:0-105, u1501:0-9, u1502:0-198, u1503:0-20, u1504:0-100, u1505:0-20, u1505:20-56, u1506:0-20, u1507:0-12, u1508:0-52, u1509:0-18, u1510:0-22, u1511:0-49, u1512:0-49, u1513:0-12, u1514:0-13, u1515:0-133, u1516:0-12, u1517:0-39, u1518:0-24, u1519:0-90, u1520:0-39, u1521:0-12, u1522:0-35, u1523:0-31, u1524:0-64, u1525:0-80, u1526:0-41, u1526:41-74, u1527:0-87, u1528:0-25, u1529:0-10, u1530:0-27, u1531:0-143, u1532:0-69, u1533:0-24, u1534:0-49, u1535:0-152, u1536:0-90, u1536:90-194, u1536:194-328, u1537:0-67, u1538:0-6, u1539:0-9, u1540:0-63, u1541:0-17, u1542:0-21, u1543:0-52, u1544:0-20, u1544:20-86, u1545:0-5, u1546:0-24, u1547:0-51, u1548:0-4, u1549:0-70, u1550:0-13, u1551:0-32, u1552:0-52, u1553:0-42, u1554:0-7, u1555:0-62, u1556:0-4, u1557:0-111, u1558:0-26, u1559:0-50, u1560:0-9, u1561:0-36, u1562:0-37, u1563:0-14, u1564:0-7, u1565:0-5, u1566:0-118, u1567:0-6, u1568:0-19, u1569:0-48, u1570:0-28, u1571:0-6, u1572:0-32, u1573:0-30, u1574:0-15, u1575:0-26, u1576:0-1, u1577:0-47, u1578:0-15, u1579:0-11, u1580:0-87, u1581:0-9, u1582:0-28, u1583:0-55, u1584:0-47, u1585:0-96, u1586:0-51, u1587:0-3, u1588:0-32, u1589:0-3, u1590:0-2, u1591:0-116, u1592:0-9, u1593:0-71, u1594:0-19, u1595:0-7, u1596:0-26, u1597:0-22, u1598:0-49, u1599:0-125, u1600:0-6, u1601:0-133, u1602:0-52, u1603:0-106, u1604:0-32, u1605:0-19, u1606:0-32, u1607:0-66, u1608:0-73, u1609:0-5, u1610:0-50, u1611:0-38, u1612:0-141, u1613:0-106, u1614:0-29, u1615:0-142, u1616:0-63, u1617:0-33, u1618:0-44, u1619:0-73, u1620:0-110, u1621:0-2, u1622:0-40, u1623:0-31, u1624:0-3, u1625:0-34, u1626:0-6, u1627:0-51, u1628:0-4, u1629:0-39, u1630:0-14, u1631:0-27, u1632:0-37, u1633:0-39, u1634:0-259, u1635:0-65, u1636:0-10, u1637:0-10, u1638:0-115, u1639:0-3, u1640:0-16 %%",
+        "((Scouting, spell preparation and tactical discussion))",
+        "",
+        "%% u1641:0-79, u1642:0-41, u1643:0-32, u1644:0-82 %%",
+        "Delwath: And I will say that we've been sent by the wind. We've traveled here in a cloud at the behest of the owner of this place. Hralgar, to recover a lost item, and I'll ask if she'll grant us passage to search, and we will leave her in peace.",
+        "",
+        "%% u1645:0-34, u1646:0-130, u1647:0-28, u1648:0-16, u1649:0-28 %%",
+        "Delwath: But I'll try and play up the like— we were sent by it, like I try and be mysterious, and play it up a bit, moving around, like every time you say a sentence, I'll move sort of around in a pattern, but it's hard to pinpoint exactly where I am.",
+        "",
+        "%% u1650:0-46, u1651:0-7, u1652:0-65, u1653:0-27, u1654:0-57, u1655:0-3, u1656:0-81, u1657:0-26, u1658:0-52 %%",
+        "((Readied-action and persuasion adjudication))",
+        "",
+        "%% u1659:0-49 %%",
+        "DM: She seems to be sort of considering for a moment.",
+        "",
+        "%% u1660:0-14, u1661:0-21, u1662:0-9, u1663:0-32, u1664:0-3, u1665:0-45, u1666:0-12, u1667:0-39, u1668:0-27, u1669:0-15 %%",
+        "DM: \"I care nothing for this creature you claim to— you claim to be a messenger for. But should you wish to venture into the darkness, what care I? There's no treasure there worth taking, none that has the purity of the clean cold.\"",
+        "",
+        "%% u1670:0-12, u1671:0-11 %%",
+        "Wellby: Ask her what that means.",
+        "",
+        "%% u1672:0-15 %%",
+        "Delwath: But I will say—",
+        "",
+        "%% u1673:0-70 %%",
+        "Riswynn: Compliment her cold, and ask her if she doesn't also control the dark.",
+        "",
+        "%% u1674:0-30, u1675:0-9, u1676:0-66, u1677:0-46, u1678:0-2 %%",
+        "Delwath: I will ask her again, and like— actually, you know what? I'm talking to her in Sylvan. I'll try Sylvan first. Does she speak Sylvan if I greet her in Sylvan? Or.",
+        "",
+        "%% u1679:0-27 %%",
+        "DM: She she speaks Sylvan, yes.",
+        "",
+        "%% u1679:27-160 %%",
+        "Delwath: I'm actually gonna also talk to her—I'm gonna try and play up the mystery here. I'll occasionally switch. Does she speak Shadowkar?",
+        "",
+        "%% u1680:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u1681:0-5 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u1682:0-41, u1683:0-17 %%",
+        "DM: She seems to understand some words in it. But not fluently.",
+        "",
+        "%% u1684:0-19 %%",
+        "Delwath: How about infernal?",
+        "",
+        "%% u1685:0-12 %%",
+        "DM: Not at all.",
+        "",
+        "%% u1685:12-17, u1686:0-174 %%",
+        "Delwath: Okay. Nonetheless, I'll play with the mystery a bit of speaking 3 different strange languages. But I'll stick to Sylvan if that's the only one she seems to really understand well.",
+        "",
+        "%% u1687:0-51, u1688:0-85, u1689:0-96, u1690:0-88, u1691:0-39, u1692:0-24, u1693:0-65 %%",
+        "Delwath: And I'll ask her—I'll I'll tell her, you know, I'll— try and think of a poem about the ice or something, and and tell her about, you know. Quote a few lines of how impressive her cold is, and that we certainly don't wish to disturb it. But does she know what's in the darkness? And could some such a creature as her tell us, tell me, not—I won't say us—me, right, anything about what is a— what is beneath there? Does she control it, or just hide from it?",
+        "",
+        "%% u1694:0-49 %%",
+        "((Brief table aside))",
+        "",
+        "%% u1695:0-45, u1696:0-39, u1697:0-45 %%",
+        "DM: She she kind of smiles for a minute, and then closes her eyes, and she says, \"A moment.\" and she just a a smile comes across her face.",
+        "",
+        "%% u1698:0-75, u1699:0-80, u1700:0-37 %%",
+        "DM: And she sighs, and then she turns, and she looks back at you, and she says, \"Should you wish to journey into Kurome's nightmares, that is no concern of mine. His domain and my domain do not cross.\"",
+        "",
+        "%% u1701:0-31, u1702:0-71, u1703:0-70, u1704:0-109, u1705:0-26 %%",
+        "Delwath: My last question: in her domain, has she ever seen such a thing as the phasing—I'll describe the stone, and I'll tell her we are seeking it, and we would trade much for it if if she knows where it is, or if she has it in her domain. I don't want to trade for her, knowing where it is. If she has it in her inner—",
+        "",
+        "%% u1706:0-9, u1707:0-41, u1708:0-23 %%",
+        "DM: She seems— so so she's looking at you, and she says, \"My patience grows thin.\"",
+        "",
+        "%% u1709:0-24, u1710:0-60, u1711:0-48, u1712:0-63, u1713:0-7 %%",
+        "((Invisibility clarification))",
+        "",
+        "%% u1714:0-3, u1715:0-8, u1716:0-52, u1717:0-17, u1718:0-27 %%",
+        "DM: She— she says, \"There are foolish travelers to freeze in the wastes, but what you seek, that is in Kurome's domain.\"",
+        "",
+        "%% u1719:0-72, u1720:0-13 %%",
+        "Wellby: The implication is, she's freezing travelers in the waste—in the wastes. Wellby shoots.",
+        "",
+        "%% u1721:0-18 %%",
+        "Seeker: Come on, seriously?",
+        "",
+        "%% u1722:0-44 %%",
+        "Wellby: Wellby has been a traveler in the waste like.",
+        "",
+        "%% u1723:0-77 %%",
+        "Seeker: You were about to just be able to like just succeeded at not having a combat.",
+        "",
+        "%% u1724:0-20 %%",
+        "Wellby: This does not stand.",
+        "",
+        "%% u1725:0-155, u1725:155-173, u1726:0-4, u1727:0-5, u1728:0-15, u1729:0-22, u1730:0-4, u1731:0-7, u1732:0-25, u1733:0-3, u1734:0-134, u1735:0-58, u1736:0-5, u1737:0-62, u1738:0-16, u1739:0-10, u1740:0-66, u1741:0-72, u1742:0-31, u1743:0-38, u1744:0-5, u1745:0-66, u1746:0-2, u1747:0-9, u1748:0-34, u1749:0-5, u1750:0-5, u1751:0-35, u1752:0-13, u1753:0-7, u1754:0-41, u1755:0-129, u1756:0-26, u1757:0-5, u1758:0-81, u1759:0-4, u1760:0-59, u1760:59-74, u1761:0-27, u1762:0-99, u1763:0-6, u1764:0-37, u1765:0-86, u1766:0-32, u1767:0-34, u1768:0-124, u1769:0-78, u1770:0-64, u1771:0-14, u1772:0-2, u1773:0-46, u1774:0-89, u1775:0-25, u1776:0-9, u1777:0-64, u1777:64-166, u1778:0-25, u1779:0-83, u1780:0-5, u1781:0-34, u1782:0-6, u1783:0-14, u1784:0-27, u1785:0-42, u1786:0-18, u1787:0-41, u1788:0-24, u1789:0-78, u1790:0-22, u1791:0-17, u1792:0-38, u1793:0-5, u1794:0-97, u1795:0-42, u1796:0-31, u1797:0-27, u1798:0-59, u1799:0-81, u1800:0-1, u1801:0-34, u1802:0-30, u1803:0-109, u1804:0-50, u1805:0-72, u1806:0-177, u1807:0-16, u1808:0-105, u1809:0-9, u1810:0-56, u1811:0-42, u1812:0-106, u1813:0-111, u1814:0-23, u1815:0-16, u1816:0-59, u1817:0-39, u1818:0-35, u1819:0-41, u1820:0-43, u1821:0-88, u1822:0-186, u1823:0-119, u1824:0-9, u1825:0-33, u1826:0-111, u1827:0-19, u1828:0-43, u1829:0-75, u1830:0-67, u1831:0-2, u1832:0-31, u1832:31-98, u1833:0-11, u1834:0-16, u1835:0-5, u1836:0-11, u1837:0-18, u1837:18-64, u1838:0-71, u1839:0-4, u1840:0-46, u1841:0-42, u1842:0-41, u1843:0-15, u1844:0-33, u1845:0-6, u1846:0-27, u1847:0-27, u1848:0-38, u1849:0-5, u1850:0-29, u1851:0-75, u1852:0-389, u1853:0-5, u1854:0-46, u1855:0-10, u1856:0-2, u1857:0-9, u1858:0-38, u1859:0-45, u1860:0-9, u1861:0-32, u1862:0-5, u1863:0-128, u1864:0-21, u1865:0-5, u1866:0-56, u1867:0-11, u1868:0-16, u1869:0-13, u1870:0-32, u1871:0-116, u1872:0-6, u1873:0-18, u1873:18-23, u1874:0-26, u1875:0-7, u1876:0-18, u1876:18-110, u1877:0-25, u1877:25-59, u1878:0-42, u1879:0-5, u1880:0-24, u1881:0-87, u1882:0-3, u1883:0-4, u1884:0-14, u1885:0-2, u1886:0-4, u1887:0-24, u1888:0-38, u1889:0-39, u1890:0-20, u1891:0-24, u1891:24-43, u1891:43-100, u1892:0-12, u1893:0-2, u1894:0-12, u1895:0-107, u1896:0-44, u1897:0-20, u1898:0-23, u1899:0-18, u1900:0-5, u1901:0-30, u1902:0-26, u1903:0-40, u1904:0-183, u1905:0-51, u1906:0-51, u1907:0-19, u1908:0-5, u1909:0-166, u1910:0-38, u1911:0-41, u1912:0-41, u1913:0-80, u1914:0-4, u1915:0-128, u1916:0-37, u1917:0-32, u1918:0-34, u1919:0-14, u1920:0-12, u1921:0-29, u1922:0-92, u1923:0-74, u1924:0-143, u1925:0-104, u1926:0-12, u1927:0-19, u1928:0-29, u1929:0-71, u1930:0-26, u1931:0-126, u1932:0-2, u1933:0-31, u1934:0-4, u1934:4-36, u1934:36-109, u1935:0-50, u1936:0-9, u1937:0-23, u1938:0-56, u1939:0-7, u1940:0-3, u1941:0-47, u1942:0-16, u1943:0-15, u1944:0-9, u1945:0-35, u1946:0-52, u1947:0-16, u1948:0-7, u1949:0-3, u1950:0-17, u1951:0-5, u1952:0-73, u1953:0-52, u1954:0-5, u1955:0-10, u1956:0-65, u1957:0-32, u1958:0-106, u1959:0-22, u1960:0-33, u1961:0-23, u1962:0-9, u1963:0-13, u1964:0-42, u1965:0-23, u1966:0-22, u1967:0-46, u1968:0-63, u1969:0-23, u1970:0-58, u1971:0-100, u1972:0-84, u1973:0-5, u1974:0-37, u1975:0-40, u1976:0-65, u1977:0-5, u1978:0-32, u1979:0-28, u1980:0-113, u1981:0-116, u1982:0-103, u1983:0-13, u1984:0-35, u1985:0-8, u1986:0-9, u1987:0-6, u1988:0-32, u1989:0-77, u1990:0-89, u1991:0-120, u1992:0-75, u1992:75-113, u1993:0-16, u1994:0-21, u1995:0-37, u1996:0-7, u1997:0-48, u1998:0-47, u1999:0-36, u2000:0-5, u2001:0-11, u2002:0-48, u2003:0-58, u2004:0-5, u2005:0-29, u2006:0-50, u2007:0-72, u2008:0-45, u2009:0-26, u2010:0-18, u2011:0-5, u2012:0-20, u2013:0-66, u2014:0-34, u2015:0-30, u2016:0-18, u2017:0-19, u2018:0-13, u2019:0-42, u2020:0-37, u2021:0-7, u2022:0-5, u2023:0-9, u2024:0-51, u2025:0-16, u2026:0-23, u2027:0-106, u2028:0-49, u2029:0-28, u2030:0-23, u2030:23-58, u2031:0-13, u2032:0-58, u2033:0-3, u2034:0-5, u2035:0-9, u2036:0-37, u2037:0-84, u2038:0-5, u2039:0-8, u2040:0-15, u2041:0-99, u2042:0-97, u2043:0-4, u2044:0-43, u2045:0-77, u2046:0-43, u2047:0-7, u2048:0-24, u2049:0-7, u2050:0-34, u2051:0-65, u2052:0-42, u2053:0-34, u2054:0-54, u2055:0-8, u2056:0-10, u2057:0-26, u2058:0-2, u2059:0-17, u2060:0-10, u2061:0-15, u2062:0-61, u2063:0-58, u2064:0-30, u2065:0-9, u2066:0-96, u2067:0-49, u2068:0-38, u2069:0-30, u2070:0-43, u2071:0-16, u2072:0-46, u2073:0-12, u2074:0-79, u2075:0-2, u2076:0-9, u2077:0-1, u2078:0-5, u2079:0-46, u2080:0-14, u2081:0-26, u2081:26-81, u2081:81-100, u2082:0-5, u2083:0-36, u2084:0-56, u2085:0-103, u2086:0-101, u2087:0-71, u2088:0-6, u2089:0-4, u2090:0-41, u2091:0-93, u2092:0-37, u2093:0-41, u2094:0-27, u2094:27-70, u2095:0-21, u2096:0-111, u2097:0-23, u2098:0-12, u2099:0-14, u2100:0-162, u2101:0-62, u2102:0-95, u2103:0-16, u2104:0-30, u2105:0-20, u2106:0-50, u2107:0-7, u2108:0-49, u2109:0-22, u2110:0-45, u2111:0-137, u2112:0-39, u2113:0-44, u2114:0-57, u2115:0-47, u2116:0-6, u2117:0-19, u2118:0-7, u2119:0-43, u2120:0-40, u2121:0-95, u2122:0-6, u2123:0-64, u2124:0-10, u2125:0-4, u2126:0-22, u2127:0-29, u2128:0-53, u2129:0-19, u2130:0-10, u2131:0-31, u2132:0-2, u2133:0-51, u2134:0-56, u2135:0-67, u2136:0-14, u2137:0-75, u2138:0-13, u2138:13-31, u2139:0-6, u2140:0-13, u2141:0-25, u2142:0-8, u2143:0-8, u2144:0-42, u2145:0-64, u2146:0-16, u2147:0-55, u2148:0-11, u2149:0-8, u2150:0-57, u2151:0-61, u2152:0-89, u2153:0-56, u2154:0-49, u2155:0-124, u2156:0-37, u2157:0-33, u2158:0-5, u2159:0-23, u2160:0-13, u2161:0-64, u2162:0-51, u2163:0-3, u2164:0-59, u2165:0-25, u2166:0-5, u2167:0-46, u2168:0-93, u2169:0-22, u2170:0-3, u2171:0-5, u2172:0-83, u2173:0-53, u2174:0-60, u2175:0-3, u2176:0-70, u2177:0-14, u2178:0-66, u2179:0-14, u2180:0-83, u2181:0-37, u2182:0-23, u2183:0-17, u2184:0-39, u2185:0-130, u2186:0-63, u2187:0-93, u2188:0-5, u2189:0-43, u2189:43-134, u2190:0-7, u2191:0-5, u2192:0-14, u2193:0-19, u2194:0-30, u2195:0-64, u2196:0-17, u2197:0-14, u2198:0-23, u2199:0-35, u2200:0-7, u2201:0-4, u2202:0-118, u2203:0-69, u2204:0-58, u2205:0-6, u2206:0-90, u2207:0-8, u2208:0-23, u2209:0-28, u2210:0-19, u2211:0-9, u2212:0-8, u2213:0-69, u2214:0-5, u2215:0-48, u2216:0-40, u2217:0-7, u2218:0-33, u2219:0-7, u2220:0-23, u2221:0-26, u2222:0-73, u2223:0-19, u2224:0-63, u2225:0-95, u2226:0-20, u2227:0-22, u2228:0-62, u2229:0-73, u2230:0-72, u2231:0-82, u2232:0-48, u2233:0-39, u2234:0-8, u2235:0-55, u2236:0-41, u2237:0-60, u2238:0-24, u2239:0-69, u2240:0-10, u2241:0-15, u2242:0-119, u2243:0-59, u2244:0-16, u2245:0-19, u2246:0-47, u2247:0-2, u2248:0-10, u2249:0-40, u2249:40-112, u2250:0-86, u2251:0-11, u2252:0-28, u2253:0-65, u2254:0-6, u2255:0-2, u2256:0-12, u2257:0-50, u2258:0-3, u2259:0-104, u2260:0-28, u2261:0-16, u2262:0-132, u2263:0-34, u2263:34-53, u2264:0-3, u2265:0-14, u2266:0-5, u2267:0-45, u2268:0-101, u2269:0-10, u2270:0-32, u2271:0-25, u2272:0-5, u2273:0-58, u2274:0-24, u2275:0-5, u2276:0-206, u2277:0-2, u2278:0-44, u2279:0-13, u2279:13-48, u2280:0-9, u2281:0-12, u2282:0-62, u2283:0-3, u2284:0-60, u2285:0-69, u2285:69-102, u2286:0-12, u2287:0-9, u2288:0-50, u2289:0-12, u2290:0-2, u2291:0-20, u2292:0-39, u2293:0-37, u2294:0-23, u2295:0-26, u2295:26-88, u2296:0-49, u2297:0-58, u2298:0-96, u2299:0-210, u2300:0-85, u2301:0-5, u2302:0-45, u2303:0-36, u2304:0-22, u2305:0-25, u2306:0-9, u2307:0-3, u2308:0-5, u2309:0-30, u2310:0-10, u2311:0-73, u2312:0-25, u2313:0-4, u2314:0-49, u2315:0-79, u2316:0-12, u2317:0-2, u2318:0-19 %%",
+        "((Initiative and combat; the woman transforms into a crystalline heart))",
+        "",
+        "%% u2319:0-70, u2320:0-68, u2321:0-21, u2322:0-78, u2323:0-53, u2324:0-103 %%",
+        "DM: The ice right through the center cracks, and the this like shard falls, splits in half, and the 2 sides fall to the ground, and as they land, falling to the ground, they begin to melt as well, and in this like intense cold that is near Kenzo fades. It's still winter, right? It's still quite cold as she—as this like icy heart just cracks in 2 and begins to just scatter as shards across the ground.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah.",
+          "Delwath: Does anybody have any spells for like protection from elements or anything like that? We're not super well prepared for like freezing cold, are we?",
+          "Seeker: Yeah, no. No.",
+          "DM: Delwath, there is no magic within—no magic beyond all of the magic that you all carry with you within 30 feet.",
+          "DM: Wellby, as you creep up the stairs and come to the sort of top entrance to this— to this first sort of main place, and you can see about 50 feet across the the icy stone."
+        ],
+        "after": [
+          "Delwath: So she died. I get my hit points back. Okay, I gain hit points.",
+          "Riswynn: To the— freezing cold thing that then somebody said didn't do damage, like— Did I lose 27 hit points or not?",
+          "DM: Yes, you lost 27 hit points. Kenzo and and Wellby have an ability where, if they succeed on a Dexterity saving throw, they take 0 damage instead of half. Since they both rolled very well, they took no damage, but the 2 of you who failed—",
+          "Delwath: I took.",
+          "Riswynn: 27. Gotcha, got it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
