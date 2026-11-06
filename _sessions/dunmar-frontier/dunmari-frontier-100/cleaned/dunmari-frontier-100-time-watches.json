@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-time-markers.json",
+    "sha256": "72e4cde068ebaa4a2c9cec96cb8e6baf7040e81f652cb1900dbddf494ff490c0"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-transcript.md",
+    "sha256": "49d5508d60559b49adabe5c7ff811ac01a44b0eca38c533547327d1e36c2543f"
+  },
+  "dateAssessment": "Working calendar: May 11, 1749 from the session YAML and dated Session 100 record; the morning watch is inferred from that record’s timeline. Session 99 narrates a dawn approach (u2956–u3002) followed by the underwater descent that hands directly into this session (u3290–u3310 → current u0001–u0048). The current transcript supplies elapsed intervals but no independent date or watch, so its YAML assessment remains compatible, not independently matched. The ten-minute casting interval precedes infiltration; the brief roof test and Clairvoyance expiry overlap the later Invisibility interval and are not additional blocks to sum. Deep-past visions and PC recollections do not extend this session’s adventure span.",
+  "watches": [
+    {
+      "day": "May 11, 1749",
+      "startDate": "1749-05-11",
+      "endDate": "1749-05-11",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Ten-minute reconnaissance; Invisibility has lasted 15–20 minutes by entry. The roof test and Clairvoyance expiry overlap infiltration.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04"
+      ],
+      "sourceRanges": [
+        [
+          "u0001",
+          "u0048"
+        ],
+        [
+          "u2701",
+          "u2704"
+        ],
+        [
+          "u2949",
+          "u2957"
+        ]
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Morning watch in dated Session 100 timeline",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 100 (DuFr).md",
+      "sha256": "9b139716d6ba7cff54d2ed2646772218850d8ca5d10dee8f4657d89cf694514c"
+    },
+    {
+      "label": "Session 99 dawn approach and continuing underwater handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-transcript.md",
+      "sha256": "b4ec24952c03817267fe4a1293c561926e21753af9256b130b64ea86d7a84a5b"
+    }
+  ]
+}
