@@ -1,0 +1,992 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-134",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
+    "sessionYamlSha256": "65cadd664715ad0bba63fd600ad44fad56e62278990597aa756a8fd7138823c7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-transcript.md",
+    "transcriptSha256": "8c9fa7aaa39df37312e662a2ded109f8c80602e61ee4449a1b53e1b98da347b6"
+  },
+  "places": {
+    "p01": {
+      "label": "Postbattle camp",
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "south_of",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0041",
+              "endUid": "u0046",
+              "quote": "DM: And so we gather, we begin, as a few… folks, rangers, and others, gather… in the late afternoon sun, as the… sun begins to sink into the sky, and campfires spring up in the… protected, sheltered valleys just south of the battlefield itself, the sort of… a place where this stream that flows through the valley of the Heartroot, meets, meets the river that… that goes on to…"
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0041",
+              "endUid": "u0046",
+              "quote": "DM: And so we gather, we begin, as a few… folks, rangers, and others, gather… in the late afternoon sun, as the… sun begins to sink into the sky, and campfires spring up in the… protected, sheltered valleys just south of the battlefield itself, the sort of… a place where this stream that flows through the valley of the Heartroot, meets, meets the river that… that goes on to…"
+            },
+            {
+              "startUid": "u0140",
+              "endUid": "u0142",
+              "quote": "DM: [garbled], you know, so there's ash storms that blow from the Plaguelands, often in the late summers. And… you know, make agriculture difficult, especially below the plateau. The ash storms tend to not spread super far up on the escarpment, up on this higher altitude ledge."
+            },
+            {
+              "startUid": "u0143",
+              "endUid": "u0147",
+              "quote": "DM: And… during the War of the Ashen Horde, the… particularly strong ash storms spawned a bunch of… armies of some kind of ash elemental that nobody really understood how to fight or kill. And they swept through these isolated villages, and that was the sort of… what many people consider the sort of founding point of the re-founded alliance of Aurbez."
+            },
+            {
+              "startUid": "u0148",
+              "endUid": "u0150",
+              "quote": "DM: And… since then, it's been… you know, pretty peaceful until now, so people have thrived, like, it's a… It's a marginal land, there's not, you know, it's hard to grow stuff, it's… hot in the summer, it's dry, there's not that much water."
+            },
+            {
+              "startUid": "u0151",
+              "endUid": "u0156",
+              "quote": "DM: But… up in the mountains, it's nice. And there's… snowmelt, there's, you know. It's sort of like the Colorado Front Range in some ways. You know, lots of little streams fed by snowmelt from the… from the Sentinels, which are not, you know, just to the west of here. Pretty safe, because not much can climb… not much comes up from the… valley below."
+            },
+            {
+              "startUid": "u0168",
+              "endUid": "u0174",
+              "quote": "DM: And the people who live in Aurbez are sort of… you know, there's people who live down along the road, right? But they're… and they're part of the alliance, right? I mean, Aursenbourg is the one city that there was the, you know, the burgher of Aursenbourg who was arguing to defend the town, but… culturally, there's… culturally, there's a lot of… you know, a much bigger Ranger presence up here. People are independent, self-sufficient. You know, kind of frontier-ish vibe."
+            }
+          ],
+          "note": "The camp is in sheltered valleys by the Heartroot stream; the precise camp boundary on the plateau is not named."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0046",
+          "quote": "DM: And so we gather, we begin, as a few… folks, rangers, and others, gather… in the late afternoon sun, as the… sun begins to sink into the sky, and campfires spring up in the… protected, sheltered valleys just south of the battlefield itself, the sort of… a place where this stream that flows through the valley of the Heartroot, meets, meets the river that… that goes on to…"
+        },
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "DM: And… you find yourself… sitting around a campfire, the four of you. As, you know, a constant stream of visitors comes by to… congratulate and thank you to… bring you well wishes, and… a stream of food and… drink, and… thanks and gratitude."
+        }
+      ]
+    },
+    "p02": {
+      "label": "Heartroot Vale",
+      "kind": "valley",
+      "aliases": [
+        "Heartroot Valley"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0140",
+              "endUid": "u0142",
+              "quote": "DM: [garbled], you know, so there's ash storms that blow from the Plaguelands, often in the late summers. And… you know, make agriculture difficult, especially below the plateau. The ash storms tend to not spread super far up on the escarpment, up on this higher altitude ledge."
+            },
+            {
+              "startUid": "u0143",
+              "endUid": "u0147",
+              "quote": "DM: And… during the War of the Ashen Horde, the… particularly strong ash storms spawned a bunch of… armies of some kind of ash elemental that nobody really understood how to fight or kill. And they swept through these isolated villages, and that was the sort of… what many people consider the sort of founding point of the re-founded alliance of Aurbez."
+            },
+            {
+              "startUid": "u0148",
+              "endUid": "u0150",
+              "quote": "DM: And… since then, it's been… you know, pretty peaceful until now, so people have thrived, like, it's a… It's a marginal land, there's not, you know, it's hard to grow stuff, it's… hot in the summer, it's dry, there's not that much water."
+            },
+            {
+              "startUid": "u0151",
+              "endUid": "u0156",
+              "quote": "DM: But… up in the mountains, it's nice. And there's… snowmelt, there's, you know. It's sort of like the Colorado Front Range in some ways. You know, lots of little streams fed by snowmelt from the… from the Sentinels, which are not, you know, just to the west of here. Pretty safe, because not much can climb… not much comes up from the… valley below."
+            },
+            {
+              "startUid": "u0162",
+              "endUid": "u0167",
+              "quote": "DM: So, I mean, that's kind of the vibe, it's… it's… It's never been densely settled, so very lightly populated, there's no cities. The biggest city is down off the… plateau. There's a road that goes between… I mean, you would have traveled… Wellby would have traveled on the… the road that goes between Dunmar, and… and Sembara. And that road… but that road runs along the bottom of the… escarpment, for the most part, and it then cuts up to cross the passes."
+            },
+            {
+              "startUid": "u0168",
+              "endUid": "u0174",
+              "quote": "DM: And the people who live in Aurbez are sort of… you know, there's people who live down along the road, right? But they're… and they're part of the alliance, right? I mean, Aursenbourg is the one city that there was the, you know, the burgher of Aursenbourg who was arguing to defend the town, but… culturally, there's… culturally, there's a lot of… you know, a much bigger Ranger presence up here. People are independent, self-sufficient. You know, kind of frontier-ish vibe."
+            },
+            {
+              "startUid": "u0191",
+              "endUid": "u0194",
+              "quote": "DM: So… You find yourself walking through the battlefield. And then passing into the, sort of, Heartroot Valley with the… with the stars above. Still relatively thin… moon, crescent moon… dark and peaceful and calm. As you begin to walk towards the Heartroot."
+            }
+          ],
+          "note": "Inferred from the DM’s description of this setting as the high Aurbez locality above the escarpment."
+        }
+      ],
+      "note": "This is the refuge valley, distinct from the Heartroot relic and its original home near Isingue. No separate valley note was verified.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0010",
+          "quote": "DM: Okay, so we pick up… the… afternoon, evening… after the battle. The Battle of the Heartroot Vale. Starring Kenzo the Silver Dragon. Among others."
+        },
+        {
+          "startUid": "u0191",
+          "endUid": "u0194",
+          "quote": "DM: So… You find yourself walking through the battlefield. And then passing into the, sort of, Heartroot Valley with the… with the stars above. Still relatively thin… moon, crescent moon… dark and peaceful and calm. As you begin to walk towards the Heartroot."
+        },
+        {
+          "startUid": "u0195",
+          "endUid": "u0196",
+          "quote": "DM: You can feel its… all of you can feel its presence. I mean, Kenzo especially. There's a vitality about the… about the valley."
+        },
+        {
+          "startUid": "u0197",
+          "endUid": "u0197",
+          "quote": "Seeker: Did it relax and unfold after the combat? Yes. Because it contracted, didn't it?"
+        },
+        {
+          "startUid": "u0198",
+          "endUid": "u0200",
+          "quote": "DM: Yes, it's spread out, you can see it's, you know, the… it's almost like it's… when you look at it, it's sort of a mass… of roots, actually, and it's begun to… it's almost like it's beginning to stretch. Like, “ugh.”"
+        },
+        {
+          "startUid": "u0201",
+          "endUid": "u0201",
+          "quote": "Seeker: Long."
+        },
+        {
+          "startUid": "u0202",
+          "endUid": "u0203",
+          "quote": "DM: Like that, like… roots begin to spread out. You can see little, like, tendrils of vines growing, almost growing as you watch across the valley floor."
+        },
+        {
+          "startUid": "u0204",
+          "endUid": "u0205",
+          "quote": "DM: There's still this sort of smell of… yeast and bread and… the air after a rain… The… the sort of…"
+        },
+        {
+          "startUid": "u0206",
+          "endUid": "u0208",
+          "quote": "DM: Now, actually, coming here when it's dark, you can see, actually, there's a faint, sort of, bioluminescent pulse that seems to be, like, little… little filamentous lines of… of blue-white bioluminescence that run out from this sort of mound, stretching into the soil, and light kind of running along them, and these slow pulses, almost like a very slow heartbeat."
+        }
+      ]
+    },
+    "p03": {
+      "label": "Battlefield of the Heartroot Vale",
+      "kind": "battlefield",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0031",
+              "endUid": "u0040",
+              "quote": "DM: And over the course of the afternoon, the hobgoblin lines break. The Rangers… harry and chase them, driving the few survivors from the valley, towards the cliff edge, only to be met by the marching Stoneborn army coming from the south, who provides the definitive final victory against the hobgoblin troops. Now, many stand and fight to the end, but many realizing their fate scatter in various directions, flee up into the mountains, flee to the north. It is… not possible to… well, not straightforward to hunt down every loose end. But… for now, anyway, for the foreseeable future, Aurbez and the Heartroot are safe."
+            },
+            {
+              "startUid": "u0041",
+              "endUid": "u0046",
+              "quote": "DM: And so we gather, we begin, as a few… folks, rangers, and others, gather… in the late afternoon sun, as the… sun begins to sink into the sky, and campfires spring up in the… protected, sheltered valleys just south of the battlefield itself, the sort of… a place where this stream that flows through the valley of the Heartroot, meets, meets the river that… that goes on to…"
+            },
+            {
+              "startUid": "u0168",
+              "endUid": "u0174",
+              "quote": "DM: And the people who live in Aurbez are sort of… you know, there's people who live down along the road, right? But they're… and they're part of the alliance, right? I mean, Aursenbourg is the one city that there was the, you know, the burgher of Aursenbourg who was arguing to defend the town, but… culturally, there's… culturally, there's a lot of… you know, a much bigger Ranger presence up here. People are independent, self-sufficient. You know, kind of frontier-ish vibe."
+            }
+          ]
+        }
+      ],
+      "note": "The approach crosses the battlefield before entering the Heartroot valley; the whole battlefield is not equated with the small refuge valley.",
+      "evidence": [
+        {
+          "startUid": "u0031",
+          "endUid": "u0040",
+          "quote": "DM: And over the course of the afternoon, the hobgoblin lines break. The Rangers… harry and chase them, driving the few survivors from the valley, towards the cliff edge, only to be met by the marching Stoneborn army coming from the south, who provides the definitive final victory against the hobgoblin troops. Now, many stand and fight to the end, but many realizing their fate scatter in various directions, flee up into the mountains, flee to the north. It is… not possible to… well, not straightforward to hunt down every loose end. But… for now, anyway, for the foreseeable future, Aurbez and the Heartroot are safe."
+        },
+        {
+          "startUid": "u0041",
+          "endUid": "u0046",
+          "quote": "DM: And so we gather, we begin, as a few… folks, rangers, and others, gather… in the late afternoon sun, as the… sun begins to sink into the sky, and campfires spring up in the… protected, sheltered valleys just south of the battlefield itself, the sort of… a place where this stream that flows through the valley of the Heartroot, meets, meets the river that… that goes on to…"
+        },
+        {
+          "startUid": "u0191",
+          "endUid": "u0194",
+          "quote": "DM: So… You find yourself walking through the battlefield. And then passing into the, sort of, Heartroot Valley with the… with the stars above. Still relatively thin… moon, crescent moon… dark and peaceful and calm. As you begin to walk towards the Heartroot."
+        }
+      ]
+    },
+    "p04": {
+      "label": "Aurbez Plateau",
+      "kind": "region",
+      "vaultPath": "Gazetteer/Upper Istaros/Aurbez Plateau.md",
+      "evidence": [
+        {
+          "startUid": "u0140",
+          "endUid": "u0142",
+          "quote": "DM: [garbled], you know, so there's ash storms that blow from the Plaguelands, often in the late summers. And… you know, make agriculture difficult, especially below the plateau. The ash storms tend to not spread super far up on the escarpment, up on this higher altitude ledge."
+        },
+        {
+          "startUid": "u0143",
+          "endUid": "u0147",
+          "quote": "DM: And… during the War of the Ashen Horde, the… particularly strong ash storms spawned a bunch of… armies of some kind of ash elemental that nobody really understood how to fight or kill. And they swept through these isolated villages, and that was the sort of… what many people consider the sort of founding point of the re-founded alliance of Aurbez."
+        },
+        {
+          "startUid": "u0148",
+          "endUid": "u0150",
+          "quote": "DM: And… since then, it's been… you know, pretty peaceful until now, so people have thrived, like, it's a… It's a marginal land, there's not, you know, it's hard to grow stuff, it's… hot in the summer, it's dry, there's not that much water."
+        },
+        {
+          "startUid": "u0151",
+          "endUid": "u0156",
+          "quote": "DM: But… up in the mountains, it's nice. And there's… snowmelt, there's, you know. It's sort of like the Colorado Front Range in some ways. You know, lots of little streams fed by snowmelt from the… from the Sentinels, which are not, you know, just to the west of here. Pretty safe, because not much can climb… not much comes up from the… valley below."
+        },
+        {
+          "startUid": "u0162",
+          "endUid": "u0167",
+          "quote": "DM: So, I mean, that's kind of the vibe, it's… it's… It's never been densely settled, so very lightly populated, there's no cities. The biggest city is down off the… plateau. There's a road that goes between… I mean, you would have traveled… Wellby would have traveled on the… the road that goes between Dunmar, and… and Sembara. And that road… but that road runs along the bottom of the… escarpment, for the most part, and it then cuts up to cross the passes."
+        },
+        {
+          "startUid": "u0168",
+          "endUid": "u0174",
+          "quote": "DM: And the people who live in Aurbez are sort of… you know, there's people who live down along the road, right? But they're… and they're part of the alliance, right? I mean, Aursenbourg is the one city that there was the, you know, the burgher of Aursenbourg who was arguing to defend the town, but… culturally, there's… culturally, there's a lot of… you know, a much bigger Ranger presence up here. People are independent, self-sufficient. You know, kind of frontier-ish vibe."
+        }
+      ]
+    },
+    "p05": {
+      "label": "Outside Cateline Malras’s tent",
+      "kind": "camp site",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0780",
+              "endUid": "u0782",
+              "quote": "DM: Okay, so… you make your way back to camp, which is not far from here, just a couple miles, and find the… it's still not super late, right? Find the… the tent of… Cateline… Malras."
+            },
+            {
+              "startUid": "u0783",
+              "endUid": "u0789",
+              "quote": "DM: The… elderly woman, member of the Rangers, devotee of the Fox and Hunter, and… who had sort of… well, not that old, she's, like, mid-50s, something like that. Who had… spoken in the, in the War Council before the battle, as a sort of… She was the one who, like, blessed the water of the three wells that you—that you spoke to. And… and as you… you've… you know, walk through camp and find her. You actually find her, sitting outside, just having finished a prayer of thanksgiving to the stars, to Beryl."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0780",
+          "endUid": "u0782",
+          "quote": "DM: Okay, so… you make your way back to camp, which is not far from here, just a couple miles, and find the… it's still not super late, right? Find the… the tent of… Cateline… Malras."
+        },
+        {
+          "startUid": "u0783",
+          "endUid": "u0789",
+          "quote": "DM: The… elderly woman, member of the Rangers, devotee of the Fox and Hunter, and… who had sort of… well, not that old, she's, like, mid-50s, something like that. Who had… spoken in the, in the War Council before the battle, as a sort of… She was the one who, like, blessed the water of the three wells that you—that you spoke to. And… and as you… you've… you know, walk through camp and find her. You actually find her, sitting outside, just having finished a prayer of thanksgiving to the stars, to Beryl."
+        },
+        {
+          "startUid": "u0790",
+          "endUid": "u0792",
+          "quote": "DM: She looks up as you approach, standing, leaning on her staff, and… just… gives, you know, bows in gratitude to you. And… kind of takes a moment to just, like, whisper a prayer of blessing and of thanksgiving."
+        }
+      ]
+    },
+    "p06": {
+      "label": "Istaros",
+      "kind": "river",
+      "vaultPath": "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
+      "evidence": [
+        {
+          "startUid": "u0357",
+          "endUid": "u0365",
+          "quote": "DM: Okay, so, resuming the vision. The land splits apart, and you see this line of light shooting up. And even though you are… far away, you are also somehow close, and you see growing out of this… the sort of middle of this line that's split apart in the land, like, the same little bioluminescent, filamentous, white, multicolored lines, sort of almost crawling up out of this. And, Wellby, after you stare at this a minute, you actually… I mean, the line… this line that's being pulled apart, that's light shooting up a bit, that's somehow being formed by… reshaping of the actual physical Earth. You recognize it from maps that you've looked at, it's… exactly the pattern of the Istaros."
+        },
+        {
+          "startUid": "u0366",
+          "endUid": "u0366",
+          "quote": "Kenzo: Path of the what?"
+        },
+        {
+          "startUid": "u0367",
+          "endUid": "u0367",
+          "quote": "Seeker: Is that a river?"
+        },
+        {
+          "startUid": "u0368",
+          "endUid": "u0368",
+          "quote": "DM: Istaros is the river that runs past Isingue."
+        },
+        {
+          "startUid": "u0405",
+          "endUid": "u0408",
+          "quote": "Seeker: I'm just looking at the river Istaros. We've… we've been there before. Haven't we? Isn't… is the city… The rainbow orcs on their river?"
+        },
+        {
+          "startUid": "u0409",
+          "endUid": "u0410",
+          "quote": "DM: It flows right past. It also is the same river that flows past Drankor."
+        }
+      ]
+    },
+    "p07": {
+      "label": "Isingue",
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Upper Istaros/Isingue.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0441",
+              "endUid": "u0444",
+              "quote": "DM: So you keep watching in the mirror as Seeker wonders. And you see, again, this sort of… passing of the years and the seasons. Long time passing, and again, always, you know, growing and shrinking, right? But always this sort of fertile ribbon along the upper Istaros, where Isingue is, or was, still is, in ruins."
+            },
+            {
+              "startUid": "u0575",
+              "endUid": "u0575",
+              "quote": "DM: Except in the place it was created, which is the center of the upper Istaros Valley."
+            },
+            {
+              "startUid": "u0576",
+              "endUid": "u0576",
+              "quote": "Kenzo: Right. But, like, even there, you know, is there, like, a… is it even more specific? Is there, like, an image of, like, a specific place? Or is it just kind of, like, throw it in the water and then everything's gonna be cool? Like, you know what I mean? Like, do we… is there any sense?"
+            },
+            {
+              "startUid": "u0577",
+              "endUid": "u0577",
+              "quote": "DM: No, no, no, there's not any specific… I mean, Isingue would be the specific place. That's the center of its sort of home, but… but there's nothing… you're…"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0441",
+          "endUid": "u0444",
+          "quote": "DM: So you keep watching in the mirror as Seeker wonders. And you see, again, this sort of… passing of the years and the seasons. Long time passing, and again, always, you know, growing and shrinking, right? But always this sort of fertile ribbon along the upper Istaros, where Isingue is, or was, still is, in ruins."
+        },
+        {
+          "startUid": "u0445",
+          "endUid": "u0452",
+          "quote": "DM: And the… the image begins to drift down, closer and closer to the river itself. And you can see, as you, as you sort of drift down, as your perspective kind of zooms in, just these, these sort of… everywhere you look, right? Everywhere you look along the soil and in the dirt, there's just this richness, right? This… this thing that is now tightly constrained to, you know, really a… you know, one valley, but even less than that, right? Like, a 10 foot by 10 foot cube, and now that it's, you know, free a little bit, it's stretching out a bit. It's spreading along dozens of miles of the river and growing up from the riverbanks, and you can—you can see in the mirror the sort of vibrancy."
+        },
+        {
+          "startUid": "u0453",
+          "endUid": "u0458",
+          "quote": "DM: Until… the image shifts again. You see hobgoblin, you see the city of Isingue, which is not a big city, it's… it's really mostly a town. Richly settled agricultural valleys, you know, at best. You know, think, you know, this is like, this is like, you know, Provence, or somewhere, like, fertile, I don't know what the most fertile… agricultural region of France is, but, like, that's the vibe, right? It's, like, very small… small villages, but lots of them, and… vineyards and orchards and fields of wheat, just everything rich and lush."
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0872",
+          "quote": "DM: Of… you see now a vision of… Rai, standing… in a dusty plain. You can see now the glitter of… the Istaros River in front of him, the city of Isingue behind. Mike, Beryl said in a vision, they… they failed. It wasn't a portal after all. It was the… plane spilling into the material world."
+        },
+        {
+          "startUid": "u0873",
+          "endUid": "u0876",
+          "quote": "DM: And then, a vision of Rai standing on the Istaros. The monks of the… awakened… Order of the Awakened Soul behind him, chanting, feeding energy into him. Reaching out, you can see him now reaching out with his hand, almost trying to manipulate something, like, feeling for threads of magic and trying to close something."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Upper Istaros Valley",
+      "kind": "region",
+      "note": "Used at the valley scale stated in the transcript; not equated with the much larger modern Upper Istaros region.",
+      "evidence": [
+        {
+          "startUid": "u0441",
+          "endUid": "u0444",
+          "quote": "DM: So you keep watching in the mirror as Seeker wonders. And you see, again, this sort of… passing of the years and the seasons. Long time passing, and again, always, you know, growing and shrinking, right? But always this sort of fertile ribbon along the upper Istaros, where Isingue is, or was, still is, in ruins."
+        },
+        {
+          "startUid": "u0445",
+          "endUid": "u0452",
+          "quote": "DM: And the… the image begins to drift down, closer and closer to the river itself. And you can see, as you, as you sort of drift down, as your perspective kind of zooms in, just these, these sort of… everywhere you look, right? Everywhere you look along the soil and in the dirt, there's just this richness, right? This… this thing that is now tightly constrained to, you know, really a… you know, one valley, but even less than that, right? Like, a 10 foot by 10 foot cube, and now that it's, you know, free a little bit, it's stretching out a bit. It's spreading along dozens of miles of the river and growing up from the riverbanks, and you can—you can see in the mirror the sort of vibrancy."
+        },
+        {
+          "startUid": "u0453",
+          "endUid": "u0458",
+          "quote": "DM: Until… the image shifts again. You see hobgoblin, you see the city of Isingue, which is not a big city, it's… it's really mostly a town. Richly settled agricultural valleys, you know, at best. You know, think, you know, this is like, this is like, you know, Provence, or somewhere, like, fertile, I don't know what the most fertile… agricultural region of France is, but, like, that's the vibe, right? It's, like, very small… small villages, but lots of them, and… vineyards and orchards and fields of wheat, just everything rich and lush."
+        },
+        {
+          "startUid": "u0575",
+          "endUid": "u0575",
+          "quote": "DM: Except in the place it was created, which is the center of the upper Istaros Valley."
+        },
+        {
+          "startUid": "u0576",
+          "endUid": "u0576",
+          "quote": "Kenzo: Right. But, like, even there, you know, is there, like, a… is it even more specific? Is there, like, an image of, like, a specific place? Or is it just kind of, like, throw it in the water and then everything's gonna be cool? Like, you know what I mean? Like, do we… is there any sense?"
+        },
+        {
+          "startUid": "u0577",
+          "endUid": "u0577",
+          "quote": "DM: No, no, no, there's not any specific… I mean, Isingue would be the specific place. That's the center of its sort of home, but… but there's nothing… you're…"
+        }
+      ]
+    },
+    "p09": {
+      "label": "Dusty plain on the Istaros near Isingue",
+      "kind": "riverbank",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0866",
+              "endUid": "u0872",
+              "quote": "DM: Of… you see now a vision of… Rai, standing… in a dusty plain. You can see now the glitter of… the Istaros River in front of him, the city of Isingue behind. Mike, Beryl said in a vision, they… they failed. It wasn't a portal after all. It was the… plane spilling into the material world."
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0866",
+              "endUid": "u0872",
+              "quote": "DM: Of… you see now a vision of… Rai, standing… in a dusty plain. You can see now the glitter of… the Istaros River in front of him, the city of Isingue behind. Mike, Beryl said in a vision, they… they failed. It wasn't a portal after all. It was the… plane spilling into the material world."
+            },
+            {
+              "startUid": "u0873",
+              "endUid": "u0876",
+              "quote": "DM: And then, a vision of Rai standing on the Istaros. The monks of the… awakened… Order of the Awakened Soul behind him, chanting, feeding energy into him. Reaching out, you can see him now reaching out with his hand, almost trying to manipulate something, like, feeling for threads of magic and trying to close something."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0866",
+          "endUid": "u0872",
+          "quote": "DM: Of… you see now a vision of… Rai, standing… in a dusty plain. You can see now the glitter of… the Istaros River in front of him, the city of Isingue behind. Mike, Beryl said in a vision, they… they failed. It wasn't a portal after all. It was the… plane spilling into the material world."
+        },
+        {
+          "startUid": "u0873",
+          "endUid": "u0876",
+          "quote": "DM: And then, a vision of Rai standing on the Istaros. The monks of the… awakened… Order of the Awakened Soul behind him, chanting, feeding energy into him. Reaching out, you can see him now reaching out with his hand, almost trying to manipulate something, like, feeling for threads of magic and trying to close something."
+        },
+        {
+          "startUid": "u0877",
+          "endUid": "u0878",
+          "quote": "DM: And pulling… with his hand, and something snaps, and you see Rai and the monks vanish. And his hand fragments into 5 pieces and fly away."
+        }
+      ]
+    },
+    "p10": {
+      "label": "Tollen",
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md",
+      "evidence": [
+        {
+          "startUid": "u1337",
+          "endUid": "u1337",
+          "quote": "DM: So… over the course of a few weeks, you spend time in Tollen."
+        },
+        {
+          "startUid": "u1338",
+          "endUid": "u1338",
+          "quote": "DM: Trade some info… trade some items to the Philosopher's Guild."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1340",
+          "quote": "DM: Use the libraries of your Bastion, and also the University at Tollen, and all of the resources there to… try to figure out as much as you can about how to survive and thrive in Limbo."
+        },
+        {
+          "startUid": "u1341",
+          "endUid": "u1342",
+          "quote": "DM: How to heal a Limbo wound. And… how to… decontaminate the material plane."
+        },
+        {
+          "startUid": "u1343",
+          "endUid": "u1344",
+          "quote": "DM: And over the course of… a few weeks… maybe up to a month, you spend time in Tollen, learning this information."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0051"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The four PCs receive thanks around a campfire in sheltered valleys just south of the battlefield.",
+      "place": "p01",
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0046",
+          "quote": "DM: And so we gather, we begin, as a few… folks, rangers, and others, gather… in the late afternoon sun, as the… sun begins to sink into the sky, and campfires spring up in the… protected, sheltered valleys just south of the battlefield itself, the sort of… a place where this stream that flows through the valley of the Heartroot, meets, meets the river that… that goes on to…"
+        },
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "DM: And… you find yourself… sitting around a campfire, the four of you. As, you know, a constant stream of visitors comes by to… congratulate and thank you to… bring you well wishes, and… a stream of food and… drink, and… thanks and gratitude."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0191",
+        "endUid": "u0194"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Walk from the postbattle camp through the battlefield into the Heartroot valley and up to the relic.",
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Cross the battlefield on the way to the refuge valley.",
+          "place": "p03"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0175",
+          "endUid": "u0184",
+          "quote": "DM: So, as… people begin to drift off from… you know, the camp, from their meal, to drop off to sleep after an exhausting day. As the stars begin to rise, you can… you can feel the pull of the… Heartroot. I mean, Kenzo explicitly can feel like it's… It's… it's… you know, it's calling for you, it's… pulling at you. Not precisely that it's, you know. It kind of feels like it's… like, you can feel… you can feel it in the back of your mind, and it's… it's there, and it's almost… just hovering at the edge of your consciousness, just… kinda waiting for you, almost."
+        },
+        {
+          "startUid": "u0185",
+          "endUid": "u0185",
+          "quote": "Kenzo: Go over."
+        },
+        {
+          "startUid": "u0186",
+          "endUid": "u0186",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u0191",
+          "endUid": "u0194",
+          "quote": "DM: So… You find yourself walking through the battlefield. And then passing into the, sort of, Heartroot Valley with the… with the stars above. Still relatively thin… moon, crescent moon… dark and peaceful and calm. As you begin to walk towards the Heartroot."
+        },
+        {
+          "startUid": "u0195",
+          "endUid": "u0196",
+          "quote": "DM: You can feel its… all of you can feel its presence. I mean, Kenzo especially. There's a vitality about the… about the valley."
+        },
+        {
+          "startUid": "u0197",
+          "endUid": "u0197",
+          "quote": "Seeker: Did it relax and unfold after the combat? Yes. Because it contracted, didn't it?"
+        },
+        {
+          "startUid": "u0198",
+          "endUid": "u0200",
+          "quote": "DM: Yes, it's spread out, you can see it's, you know, the… it's almost like it's… when you look at it, it's sort of a mass… of roots, actually, and it's begun to… it's almost like it's beginning to stretch. Like, “ugh.”"
+        },
+        {
+          "startUid": "u0201",
+          "endUid": "u0201",
+          "quote": "Seeker: Long."
+        },
+        {
+          "startUid": "u0202",
+          "endUid": "u0203",
+          "quote": "DM: Like that, like… roots begin to spread out. You can see little, like, tendrils of vines growing, almost growing as you watch across the valley floor."
+        },
+        {
+          "startUid": "u0204",
+          "endUid": "u0205",
+          "quote": "DM: There's still this sort of smell of… yeast and bread and… the air after a rain… The… the sort of…"
+        },
+        {
+          "startUid": "u0206",
+          "endUid": "u0208",
+          "quote": "DM: Now, actually, coming here when it's dark, you can see, actually, there's a faint, sort of, bioluminescent pulse that seems to be, like, little… little filamentous lines of… of blue-white bioluminescence that run out from this sort of mound, stretching into the soil, and light kind of running along them, and these slow pulses, almost like a very slow heartbeat."
+        },
+        {
+          "startUid": "u0264",
+          "endUid": "u0267",
+          "quote": "DM: You take out the portable hole and slowly pull the… Mirror of the Past out. Hold it up so that the reflection of the moonlight shines onto the sort of central mound of the Heartroot. Kenzo… turns, and what is… what do you… what is the sort of question that you're using to guide your mirror visions?"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0357",
+        "endUid": "u0365"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Through the mirror, view the forming Istaros and the fertile landscape around Isingue across the Heartroot’s history.",
+      "place": "p07",
+      "observerPlace": "p02",
+      "mode": "vision",
+      "context": "vision",
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0288",
+          "quote": "DM: So… So you hold up the mirror. And the vision begins to shift. And it… the image flickers. And eventually settles on… just, starlit, like, you're looking from above at a starlit landscape that seems to be almost undulating like a wave, but it looks like land."
+        },
+        {
+          "startUid": "u0289",
+          "endUid": "u0293",
+          "quote": "DM: And then there's this… flash of light of some kind, but it's… it registers in your eyes as almost the absence of darkness instead of bright light itself. It's… it's something like you've never experienced before. And… light begins to… shoot up, this shoot up from the center of the… of the image that you're looking at, and the land pulls apart, and then… begins to settle slowly into form."
+        },
+        {
+          "startUid": "u0357",
+          "endUid": "u0365",
+          "quote": "DM: Okay, so, resuming the vision. The land splits apart, and you see this line of light shooting up. And even though you are… far away, you are also somehow close, and you see growing out of this… the sort of middle of this line that's split apart in the land, like, the same little bioluminescent, filamentous, white, multicolored lines, sort of almost crawling up out of this. And, Wellby, after you stare at this a minute, you actually… I mean, the line… this line that's being pulled apart, that's light shooting up a bit, that's somehow being formed by… reshaping of the actual physical Earth. You recognize it from maps that you've looked at, it's… exactly the pattern of the Istaros."
+        },
+        {
+          "startUid": "u0366",
+          "endUid": "u0366",
+          "quote": "Kenzo: Path of the what?"
+        },
+        {
+          "startUid": "u0367",
+          "endUid": "u0367",
+          "quote": "Seeker: Is that a river?"
+        },
+        {
+          "startUid": "u0368",
+          "endUid": "u0368",
+          "quote": "DM: Istaros is the river that runs past Isingue."
+        },
+        {
+          "startUid": "u0441",
+          "endUid": "u0444",
+          "quote": "DM: So you keep watching in the mirror as Seeker wonders. And you see, again, this sort of… passing of the years and the seasons. Long time passing, and again, always, you know, growing and shrinking, right? But always this sort of fertile ribbon along the upper Istaros, where Isingue is, or was, still is, in ruins."
+        },
+        {
+          "startUid": "u0445",
+          "endUid": "u0452",
+          "quote": "DM: And the… the image begins to drift down, closer and closer to the river itself. And you can see, as you, as you sort of drift down, as your perspective kind of zooms in, just these, these sort of… everywhere you look, right? Everywhere you look along the soil and in the dirt, there's just this richness, right? This… this thing that is now tightly constrained to, you know, really a… you know, one valley, but even less than that, right? Like, a 10 foot by 10 foot cube, and now that it's, you know, free a little bit, it's stretching out a bit. It's spreading along dozens of miles of the river and growing up from the riverbanks, and you can—you can see in the mirror the sort of vibrancy."
+        },
+        {
+          "startUid": "u0453",
+          "endUid": "u0458",
+          "quote": "DM: Until… the image shifts again. You see hobgoblin, you see the city of Isingue, which is not a big city, it's… it's really mostly a town. Richly settled agricultural valleys, you know, at best. You know, think, you know, this is like, this is like, you know, Provence, or somewhere, like, fertile, I don't know what the most fertile… agricultural region of France is, but, like, that's the vibe, right? It's, like, very small… small villages, but lots of them, and… vineyards and orchards and fields of wheat, just everything rich and lush."
+        },
+        {
+          "startUid": "u0459",
+          "endUid": "u0463",
+          "quote": "DM: And hobgoblins marching, large hobgoblin armies converging on the city. Fighting. The city under siege. This is like a sort of sped-up animation, and then red mist beginning to spread along the river. People dying, hundreds, thousands, tens of thousands of people dying. Fleeing in all directions."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0478",
+        "endUid": "u0479"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The mirror shows Rai in this same refuge valley, talking to a friend in the night sky.",
+      "place": "p02",
+      "observerPlace": "p02",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Rai"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0478",
+          "endUid": "u0479",
+          "quote": "DM: Until… you see this image stops. And you see a jade figure standing in this valley, a wizard."
+        },
+        {
+          "startUid": "u0480",
+          "endUid": "u0480",
+          "quote": "Seeker: Whoa."
+        },
+        {
+          "startUid": "u0481",
+          "endUid": "u0481",
+          "quote": "Delwath: Like, Rai or somebody else?"
+        },
+        {
+          "startUid": "u0482",
+          "endUid": "u0482",
+          "quote": "DM: Like, Rai."
+        },
+        {
+          "startUid": "u0483",
+          "endUid": "u0483",
+          "quote": "Delwath: Okay."
+        },
+        {
+          "startUid": "u0484",
+          "endUid": "u0484",
+          "quote": "DM: What other jade wizards?"
+        },
+        {
+          "startUid": "u0485",
+          "endUid": "u0485",
+          "quote": "Kenzo: Are you confused about the Jade Wizard?"
+        },
+        {
+          "startUid": "u0486",
+          "endUid": "u0486",
+          "quote": "Delwath: I mean, fair enough."
+        },
+        {
+          "startUid": "u0487",
+          "endUid": "u0489",
+          "quote": "DM: Looking up at the sky. And he seems to be talking… to the night sky. Well, this is presumably…"
+        },
+        {
+          "startUid": "u0490",
+          "endUid": "u0490",
+          "quote": "Delwath: When the… the whole thing happened, right?"
+        },
+        {
+          "startUid": "u0491",
+          "endUid": "u0491",
+          "quote": "DM: When what whole thing happened?"
+        },
+        {
+          "startUid": "u0492",
+          "endUid": "u0492",
+          "quote": "Delwath: Rai tried to clean everything up. Sorry, keep going. Sorry, sorry, sorry. Just keep going."
+        },
+        {
+          "startUid": "u0493",
+          "endUid": "u0494",
+          "quote": "DM: You'll be reading his lips. Seems to have a… be having a conversation with… a friend in the sky."
+        },
+        {
+          "startUid": "u0496",
+          "endUid": "u0501",
+          "quote": "DM: Talking on and on, like, you know. Rai is saying about how these, you know, he's met these monks who have also seen the… dangers of… the plague… relics, like… he thinks they'll help. Worried about trying to reach Isingue by himself, but… with their support, can be done. You know, the prison is stable, Dimitaur is watching it. We have a moment."
+        },
+        {
+          "startUid": "u0502",
+          "endUid": "u0505",
+          "quote": "DM: And the voice from the sky is saying something, but there's no lips to read, so you can't hear it, but you can infer from the other half of the conversation. Worry that… the hobgoblins… might learn… too much too soon. And we better… do something, because if they uncover the secrets of Isingue, they might learn about the last… relic of the Heartroot."
+        },
+        {
+          "startUid": "u0506",
+          "endUid": "u0511",
+          "quote": "DM: And then… planning for an expedition. Close the portal. A lot of discussion about a portal to Limbo, opened by Cha'mutte's death. And if there was a way to close the portal, that might help."
+        },
+        {
+          "startUid": "u0512",
+          "endUid": "u0513",
+          "quote": "DM: And then the image fades. And the vision ends."
+        },
+        {
+          "startUid": "u0522",
+          "endUid": "u0522",
+          "quote": "Delwath: But wait, was the conversation with Rai taking place here?"
+        },
+        {
+          "startUid": "u0523",
+          "endUid": "u0523",
+          "quote": "DM: Here."
+        },
+        {
+          "startUid": "u0524",
+          "endUid": "u0524",
+          "quote": "Kenzo: Oh, in this example."
+        },
+        {
+          "startUid": "u0525",
+          "endUid": "u0525",
+          "quote": "Seeker: That's not."
+        },
+        {
+          "startUid": "u0526",
+          "endUid": "u0526",
+          "quote": "DM: In this exact spot."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0780",
+        "endUid": "u0782"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to camp, a couple of miles away, and find Cateline outside her tent.",
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 2,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM says camp is just a couple miles from here."
+      },
+      "evidence": [
+        {
+          "startUid": "u0780",
+          "endUid": "u0782",
+          "quote": "DM: Okay, so… you make your way back to camp, which is not far from here, just a couple miles, and find the… it's still not super late, right? Find the… the tent of… Cateline… Malras."
+        },
+        {
+          "startUid": "u0783",
+          "endUid": "u0789",
+          "quote": "DM: The… elderly woman, member of the Rangers, devotee of the Fox and Hunter, and… who had sort of… well, not that old, she's, like, mid-50s, something like that. Who had… spoken in the, in the War Council before the battle, as a sort of… She was the one who, like, blessed the water of the three wells that you—that you spoke to. And… and as you… you've… you know, walk through camp and find her. You actually find her, sitting outside, just having finished a prayer of thanksgiving to the stars, to Beryl."
+        },
+        {
+          "startUid": "u0790",
+          "endUid": "u0792",
+          "quote": "DM: She looks up as you approach, standing, leaning on her staff, and… just… gives, you know, bows in gratitude to you. And… kind of takes a moment to just, like, whisper a prayer of blessing and of thanksgiving."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0866",
+        "endUid": "u0872"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Beryl’s trance shows Rai and the monks attempting their failed ritual on the Istaros, with Isingue behind them.",
+      "place": "p09",
+      "observerPlace": "p05",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Rai",
+        "Order of the Awakened Soul monks"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0849",
+          "endUid": "u0852",
+          "quote": "DM: And for a moment, you all seemed to… you're sort of… There's the smoke from the incense, the aroma, the… sound, she begins to sort of tap her fingers on… on some stones, with her ring sort of clicking, making a rhythmic pattern. You fall a little bit into a trance, and you… begin to see…"
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0854",
+          "quote": "DM: It's not exactly a vision, it's more… you know, flashes of images."
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0872",
+          "quote": "DM: Of… you see now a vision of… Rai, standing… in a dusty plain. You can see now the glitter of… the Istaros River in front of him, the city of Isingue behind. Mike, Beryl said in a vision, they… they failed. It wasn't a portal after all. It was the… plane spilling into the material world."
+        },
+        {
+          "startUid": "u0873",
+          "endUid": "u0876",
+          "quote": "DM: And then, a vision of Rai standing on the Istaros. The monks of the… awakened… Order of the Awakened Soul behind him, chanting, feeding energy into him. Reaching out, you can see him now reaching out with his hand, almost trying to manipulate something, like, feeling for threads of magic and trying to close something."
+        },
+        {
+          "startUid": "u0877",
+          "endUid": "u0878",
+          "quote": "DM: And pulling… with his hand, and something snaps, and you see Rai and the monks vanish. And his hand fragments into 5 pieces and fly away."
+        },
+        {
+          "startUid": "u0879",
+          "endUid": "u0882",
+          "quote": "DM: And you recall that the… Empress of Chaos, the hobgoblin you interrogated, called… it's not a portal to Limbo, but, vertex, or vortex."
+        },
+        {
+          "startUid": "u0883",
+          "endUid": "u0888",
+          "quote": "DM: And… as the vision begins to fade, you get a sense from… Beryl from the constellation that… more and more of Limbo has poured out into… Isingue into the Plaguelands over the past couple of months. There are… some… barrier that tied… energy together, something that… held in place a massive… quantity of… energy from Limbo was cracked. And more and more of the plane itself has been… growing in the Plaguelands. Cha'mutte's plane. Cha'mutte's… home dimension."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1337",
+        "endUid": "u1344"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After discussing flight, reach Tollen and spend the narrated research stay there; the journey itself is compressed.",
+      "from": "p01",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "The montage establishes Tollen arrival, but supplies no departure date, route waypoints, or flight duration.",
+      "evidence": [
+        {
+          "startUid": "u1179",
+          "endUid": "u1180",
+          "quote": "Delwath: And ask the… I think we should send two… we should fly to Tollen, right, when we leave here. And that'll take us about… that'll be a good length of time. We can do our… all of our Bastion things, right?"
+        },
+        {
+          "startUid": "u1181",
+          "endUid": "u1181",
+          "quote": "DM: Yep."
+        },
+        {
+          "startUid": "u1305",
+          "endUid": "u1305",
+          "quote": "DM: What's your other, like, res… so you've… you… over the course of…"
+        },
+        {
+          "startUid": "u1306",
+          "endUid": "u1306",
+          "quote": "Kenzo: Okay."
+        },
+        {
+          "startUid": "u1307",
+          "endUid": "u1307",
+          "quote": "DM: Fly to Tollen."
+        },
+        {
+          "startUid": "u1337",
+          "endUid": "u1337",
+          "quote": "DM: So… over the course of a few weeks, you spend time in Tollen."
+        },
+        {
+          "startUid": "u1338",
+          "endUid": "u1338",
+          "quote": "DM: Trade some info… trade some items to the Philosopher's Guild."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1340",
+          "quote": "DM: Use the libraries of your Bastion, and also the University at Tollen, and all of the resources there to… try to figure out as much as you can about how to survive and thrive in Limbo."
+        },
+        {
+          "startUid": "u1341",
+          "endUid": "u1342",
+          "quote": "DM: How to heal a Limbo wound. And… how to… decontaminate the material plane."
+        },
+        {
+          "startUid": "u1343",
+          "endUid": "u1344",
+          "quote": "DM: And over the course of… a few weeks… maybe up to a month, you spend time in Tollen, learning this information."
+        }
+      ]
+    }
+  ]
+}
