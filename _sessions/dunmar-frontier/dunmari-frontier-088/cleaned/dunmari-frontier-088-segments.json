@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-088",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-session.yaml",
+    "sessionYamlSha256": "e334ef76ca8d0786e9fa6e44f410bde137d7e20131535a8cb09dc2dd3e7ce50d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-transcript.md",
+    "transcriptSha256": "9b671c652a0585987eff00d506085fa05fc8b2db340104f068dea036100bed29"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0498"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0499",
+        "endUid": "u0743"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0744",
+        "endUid": "u0950"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0951",
+        "endUid": "u1937"
+      },
+      "category": "combat",
+      "note": "Includes initiative setup and the accepted pre-initiative ice volley before the regular cycle."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1938",
+        "endUid": "u2158"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2159",
+        "endUid": "u2316"
+      },
+      "category": "meta_discussion",
+      "note": "The next-morning cue leads into sustained discussion of future campaign priorities; no travel to the proposed destinations is resolved."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2317",
+        "endUid": "u2324"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
