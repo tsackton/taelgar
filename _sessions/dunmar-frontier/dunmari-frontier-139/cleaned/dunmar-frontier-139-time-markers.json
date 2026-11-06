@@ -1,0 +1,215 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-139",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml",
+    "sessionYamlSha256": "3f1397889b24877dfd7564655df47d08af2bd6ed3b8f3d27b03c1d9164114c57",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-transcript.md",
+    "transcriptSha256": "2655d35a2e2f715c00ab54d4767eb4b9557dc8d6cda4f1395d0ec3f908be3a82",
+    "yamlDates": {
+      "start": "1749-10-06",
+      "end": "1749-11-03"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0055",
+        "endUid": "u0059"
+      },
+      "reading": "One evening during the Ranger perimeter work at Isingue, the party examines the recovered ash aboard Vindristjarna.",
+      "evidence": [
+        {
+          "startUid": "u0055",
+          "endUid": "u0059",
+          "quote": "while you're helping the rangers get the perimeter established around Isingue as the ash has stopped falling, one evening you take a moment to pull the Mirror of the Past out of your portable hole"
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM explicitly places this mirror examination on one evening during the Isingue guard interval."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0266"
+      },
+      "reading": "The cistern mirror examination is resolved before the party leaves Isingue.",
+      "evidence": [
+        {
+          "startUid": "u0265",
+          "endUid": "u0266",
+          "quote": "before you leave Isingue, you take the, the mirror down to the cistern below the city."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "Departure from Isingue for the later Karawa farewell"
+        },
+        "precision": "approximate",
+        "basis": "Explicit before-departure scope; no day or clock is stated."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0492",
+        "endUid": "u0501"
+      },
+      "reading": "The farewell after delivering Bhishma’s monks to Karawa takes place by November 1749.",
+      "evidence": [
+        {
+          "startUid": "u0492",
+          "endUid": "u0492",
+          "quote": "DM: Karawa after having left the monks of Bhishma there."
+        },
+        {
+          "startUid": "u0496",
+          "endUid": "u0497",
+          "quote": "DM: So it's... By this point, it's gonna be, like, November 1749, and we started in March 1747."
+        },
+        {
+          "startUid": "u0500",
+          "endUid": "u0501",
+          "quote": "DM: No, March 1748. So it's been- 18 months ... 18 months."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 11
+        },
+        "precision": "approximate",
+        "basis": "DM says November 1749; the later correction changes the campaign’s starting year, not this month."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1312",
+        "endUid": "u1318"
+      },
+      "reading": "The epilogue shifts to the Salty Squid in Chardon about a year before the Karawa farewell.",
+      "evidence": [
+        {
+          "startUid": "u1312",
+          "endUid": "u1313",
+          "quote": "DM: Yeah. Okay. So we start, uh, about a year ago."
+        },
+        {
+          "startUid": "u1315",
+          "endUid": "u1318",
+          "quote": "DM: In a bar in Chardon, the Salty Squid. The bartender, uh, unusually good of hearing."
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t03",
+          "anchor": "Approximately a year before the farewell"
+        },
+        "precision": "approximate",
+        "basis": "Explicit retrospective framing, about a year ago; no exact earlier date is established."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1337",
+        "endUid": "u1345"
+      },
+      "reading": "On the next day within Kecha’s retrospective story, the bartender leaves his work and flies east.",
+      "evidence": [
+        {
+          "startUid": "u1337",
+          "endUid": "u1345",
+          "quote": "DM: The next day the bartender doesn't show up for work. Instead, he sprouts wings and leaps into the sky and begins to fly east as a kenku, slightly curious what these people mentioning Rai might be doing, but also continuing to, you know, walk the world as one does when you are a secret god of a secretive race."
+        }
+      ],
+      "context": "flashback",
+      "dateBoundaries": 1,
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t04",
+          "anchor": "Day after the Salty Squid scene"
+        },
+        "precision": "exact",
+        "basis": "DM explicitly says the next day within this separate earlier frame."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1348",
+        "endUid": "u1358"
+      },
+      "reading": "A few months later within Kecha’s backstory, the party’s flying castle arrives in Tollen.",
+      "evidence": [
+        {
+          "startUid": "u1348",
+          "endUid": "u1358",
+          "quote": "DM: However, rumors come to him, and a few months later, uh, I forget exactly what it was, um, a flying castle arrives in Tollen. And on the flying castle are these same people who are talking about Rai, uh, looking for scouts to help them explore the northern wilderness."
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t05",
+          "anchor": "A few months later in Kecha’s story"
+        },
+        "precision": "approximate",
+        "basis": "Narrated elapsed months in the retrospective frame; no invented day conversion."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1380",
+        "endUid": "u1403"
+      },
+      "reading": "Narration returns from Kecha’s earlier story to the epilogue’s present political settlement.",
+      "evidence": [
+        {
+          "startUid": "u1380",
+          "endUid": "u1382",
+          "quote": "DM: Uh, you already sort of, I mean, the Dunmar Civil War, you already, didn't you al- when you were in Chardon, you heard the whole resolution of-"
+        },
+        {
+          "startUid": "u1389",
+          "endUid": "u1400",
+          "quote": "The part of Dunmar north and east of Darba, so Tokra, the central plains, Songara, Karawa, is remains the kingdom of Dunmar or Eastern Dunmar."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "November 1749 is independently spoken for Karawa. October 6 and November 3 are YAML dates; neither exact day is spoken. The Isingue mirrors precede departure and Kecha’s year-earlier account is background in a separate frame.",
+    "expectedDateBoundaries": 28,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07"
+    ],
+    "explanation": "No established contradiction, but neither the Isingue-to-Karawa journey duration nor enough day transitions are supplied to confirm the 28-day YAML span. Kecha’s retrospective days and months do not extend that adventure interval."
+  }
+}
