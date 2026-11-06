@@ -1,0 +1,644 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-063",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-session.yaml",
+    "sessionYamlSha256": "1c76b763423a39740db9605f09b399ee514d599c74c6f846b6458c8d9f9ee250",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-transcript.md",
+    "transcriptSha256": "7641b7dae355886a7e85a649322867b167b5ee98625bafcbd28dbc1dee5f4637",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-segments.json",
+      "sha256": "b601012a26712853e6b674573d892f24d41943fbd1a008409fb4046015ac5205",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Crystal swarms inside the mountain",
+      "note": "Mikasa resolves before Spirala in the first cycle at the DM’s invitation; the later order is expressly confirmed as Spirala, Mikasa, then Raven. The ending compresses the remaining melee rather than supplying unrecorded attacks.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Raven",
+              "kind": "turn",
+              "summary": "Bonus-action dashes 100 feet down the wall, arcs past the previously injured swarm, and attacks twice: 13 misses, 25 hits for 12 damage, leaving the swarm mostly gone. Jumps the remaining 100 feet to the cavern floor.",
+              "evidence": [
+                {
+                  "startUid": "u0907",
+                  "endUid": "u0933"
+                }
+              ]
+            },
+            {
+              "actor": "Raven",
+              "kind": "reaction",
+              "summary": "Prevents the rolled 38 falling damage with the stated 50-point reduction and lands safely.",
+              "evidence": [
+                {
+                  "startUid": "u0931",
+                  "endUid": "u0936"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "In giant-dragonfly form, flies 60 feet downward and takes the Dodge action rather than dashing.",
+              "evidence": [
+                {
+                  "startUid": "u0934",
+                  "endUid": "u0944"
+                }
+              ]
+            },
+            {
+              "actor": "Crystal swarms around Seeker",
+              "kind": "turn",
+              "summary": "Two swarms attack the dodging dragonfly; Seeker evades both.",
+              "evidence": [
+                {
+                  "startUid": "u0945",
+                  "endUid": "u0952"
+                }
+              ]
+            },
+            {
+              "actor": "Mikasa",
+              "kind": "turn",
+              "summary": "Runs down the wall and attacks Raven’s nearly destroyed swarm. A natural 1 misses; the second attack hits on 15 for 12 damage, shattering the swarm into dust.",
+              "evidence": [
+                {
+                  "startUid": "u0953",
+                  "endUid": "u0973"
+                }
+              ]
+            },
+            {
+              "actor": "Spirala",
+              "kind": "turn",
+              "summary": "Flies downward and prepares Burning Hands against an approaching swarm.",
+              "evidence": [
+                {
+                  "startUid": "u0974",
+                  "endUid": "u0986"
+                }
+              ]
+            },
+            {
+              "actor": "Spirala",
+              "kind": "reaction",
+              "summary": "Casts Burning Hands as the upper swarm approaches. It fails its save; the DM calls for 3d6 damage, with no rolled total spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0987",
+                  "endUid": "u0995"
+                }
+              ]
+            },
+            {
+              "actor": "Wild magic",
+              "kind": "event",
+              "summary": "Flares of multicolored energy build around the cavern during the spellcasting.",
+              "evidence": [
+                {
+                  "startUid": "u0996",
+                  "endUid": "u1007"
+                }
+              ]
+            },
+            {
+              "actor": "Crystal swarm near Spirala",
+              "kind": "turn",
+              "summary": "Swarm hits Spirala on 19 for 18 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0996",
+                  "endUid": "u1012"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Raven",
+              "kind": "turn",
+              "summary": "Runs 50 feet up the wall and teleports another 30 feet into the swarm 80 feet above the floor. The first sword attack is a natural 1; the second hits on 15 for 15 damage. Falls back down and lands safely.",
+              "evidence": [
+                {
+                  "startUid": "u1013",
+                  "endUid": "u1054"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Dashes straight down in dragonfly form, ending about 20 feet above the floor. Maintains Polymorph after the two required Constitution saves from the opportunity attacks; one spoken roll is 16 and the DM confirms he remains a dragonfly.",
+              "evidence": [
+                {
+                  "startUid": "u1055",
+                  "endUid": "u1089"
+                }
+              ]
+            },
+            {
+              "actor": "Two crystal swarms",
+              "kind": "reaction",
+              "summary": "Both hit Seeker as he leaves their reach, dealing 16 and 14 damage and prompting two Constitution saving throws.",
+              "evidence": [
+                {
+                  "startUid": "u1067",
+                  "endUid": "u1085"
+                }
+              ]
+            },
+            {
+              "actor": "Crystal swarms",
+              "kind": "turn",
+              "summary": "The two pursuing Seeker descend but cannot reach him to attack. The swarm around Spirala attacks her; Raven calls it a miss, without a further explicit DM result. Another swarm descends and hits Raven on 24 for 20 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u1086",
+                  "endUid": "u1101"
+                }
+              ]
+            },
+            {
+              "actor": "Wild magic",
+              "kind": "event",
+              "summary": "A burst of light coalesces on a crystal swarm and explodes in lightning, dealing it 6 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1116",
+                  "endUid": "u1125"
+                }
+              ]
+            },
+            {
+              "actor": "Spirala",
+              "kind": "turn",
+              "summary": "Uses Sacred Flame instead of the proposed mace attack. The adjacent swarm fails its save and is reduced to roughly a third or quarter of its shards. Continues flying downward.",
+              "evidence": [
+                {
+                  "startUid": "u1126",
+                  "endUid": "u1147"
+                }
+              ]
+            },
+            {
+              "actor": "Crystal swarm near Spirala",
+              "kind": "reaction",
+              "summary": "Hits Spirala for 7 damage as she moves away.",
+              "evidence": [
+                {
+                  "startUid": "u1148",
+                  "endUid": "u1152"
+                }
+              ]
+            },
+            {
+              "actor": "Mikasa",
+              "kind": "turn",
+              "summary": "Attacks the swarm beside Raven. The first attack is a natural-20 critical; the table clarifies doubling the dice rather than all damage and mentions 18. Uses inspiration for the second attack; the DM accepts the 12-damage result as enough to finish it without a further advantage roll. The swarm shatters.",
+              "evidence": [
+                {
+                  "startUid": "u1156",
+                  "endUid": "u1177"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Raven",
+              "kind": "turn",
+              "summary": "Uses Hand of Healing on themself and readies an attack because no enemy is presently in reach. No healing total or separately triggered readied attack is recorded.",
+              "evidence": [
+                {
+                  "startUid": "u1178",
+                  "endUid": "u1202"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Reaches the floor, ends dragonfly form, and casts second-level Catapult through the descending swarms. The first swarm succeeds on its Dexterity save; the projectile continues and the second fails, taking an unstated amount of damage. Wild magic reveals the web animating the crystals and a vortex below; after Seeker thinks “I got to go deeper,” he is displaced into the smaller room below, as the subsequent narration confirms.",
+              "evidence": [
+                {
+                  "startUid": "u1187",
+                  "endUid": "u1192"
+                },
+                {
+                  "startUid": "u1203",
+                  "endUid": "u1244"
+                },
+                {
+                  "startUid": "u1269",
+                  "endUid": "u1290"
+                }
+              ]
+            },
+            {
+              "actor": "Crystal swarms",
+              "kind": "turn",
+              "summary": "The swarm still near Spirala attacks and misses. The other two dash down into melee reach of Raven and Mikasa; the DM accelerates their movement to avoid an idle cycle.",
+              "evidence": [
+                {
+                  "startUid": "u1245",
+                  "endUid": "u1256"
+                }
+              ]
+            },
+            {
+              "actor": "Spirala",
+              "kind": "turn",
+              "summary": "Casts Sacred Flame again at the few remaining nearby shards. The swarm fails its save and turns to sparkling dust.",
+              "evidence": [
+                {
+                  "startUid": "u1257",
+                  "endUid": "u1266"
+                }
+              ]
+            },
+            {
+              "actor": "Raven and Mikasa",
+              "kind": "event",
+              "summary": "Once the remaining two swarms are in melee reach, the DM resolves their destruction collectively by Raven’s crystal sword and Mikasa’s long blade.",
+              "evidence": [
+                {
+                  "startUid": "u1267",
+                  "endUid": "u1268"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All five crystal swarms are destroyed. The DM resolves the final two collectively once Raven and Mikasa can reach them.",
+        "evidence": [
+          {
+            "startUid": "u1263",
+            "endUid": "u1268"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s009",
+      "encounter": "Living spells and the petrified earth creature",
+      "note": "Seeker’s first turn is delayed by connection trouble and resolved after Mikasa; later cycles resume Seeker before Mikasa. The garbled additional benefit at u2383–u2384 is not assigned an invented recipient or effect.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "Steps through the mirror into the cavern containing the petrified earth creature, force hand, rolling boulder, burning hand, lightning bolt, giant dragonfly and three chaotic-energy bolts.",
+              "evidence": [
+                {
+                  "startUid": "u1765",
+                  "endUid": "u1775"
+                }
+              ]
+            },
+            {
+              "actor": "Spirala",
+              "kind": "turn",
+              "summary": "Casts Dispel Magic on the distant living lightning bolt, correcting the DM’s proposed hand target. It remains present but temporarily stunned. The statue’s center pulses as though absorbing the spell’s energy. Wild magic gives Spirala resistance to force damage and reduces her speed by 10 feet for 24 hours.",
+              "evidence": [
+                {
+                  "startUid": "u1784",
+                  "endUid": "u1859"
+                }
+              ]
+            },
+            {
+              "actor": "Raven",
+              "kind": "turn",
+              "summary": "Runs to the statue and misses it with both sword attacks. Moves to the force hand and uses Flurry of Blows: the first hit deals 18 including 8 from Hand of Harm; the second hits on 25 for 9 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1856",
+                  "endUid": "u1892"
+                }
+              ]
+            },
+            {
+              "actor": "Living boulder / Catapult",
+              "kind": "turn",
+              "summary": "Rolls into Seeker and Spirala, requiring Dexterity saves. Seeker fails, takes 15 bludgeoning damage and is pushed 5 feet; Spirala takes half damage on her save.",
+              "evidence": [
+                {
+                  "startUid": "u1893",
+                  "endUid": "u1900"
+                }
+              ]
+            },
+            {
+              "actor": "Living lightning bolt",
+              "kind": "turn",
+              "summary": "Quivers in place and does nothing while temporarily stunned.",
+              "evidence": [
+                {
+                  "startUid": "u1901",
+                  "endUid": "u1902"
+                }
+              ]
+            },
+            {
+              "actor": "Living giant dragonfly",
+              "kind": "turn",
+              "summary": "Flies up and lunges at Mikasa; the bite hits on 20 for 8 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u1903",
+                  "endUid": "u1911"
+                }
+              ]
+            },
+            {
+              "actor": "Living force hand",
+              "kind": "turn",
+              "summary": "Punches Raven on 22 for 28 force damage, pushes Raven 5 feet away, then moves away.",
+              "evidence": [
+                {
+                  "startUid": "u1912",
+                  "endUid": "u1929"
+                }
+              ]
+            },
+            {
+              "actor": "Three living chaos bolts",
+              "kind": "turn",
+              "summary": "Move and fire at Raven. One misses; two hit, dealing 14 acid damage and 17 lightning damage. Raven reports only 4 hit points remaining.",
+              "evidence": [
+                {
+                  "startUid": "u1930",
+                  "endUid": "u1955"
+                }
+              ]
+            },
+            {
+              "actor": "Living burning hand",
+              "kind": "turn",
+              "summary": "Dashes 50 feet; takes no attack action.",
+              "evidence": [
+                {
+                  "startUid": "u1959",
+                  "endUid": "u1960"
+                }
+              ]
+            },
+            {
+              "actor": "Mikasa",
+              "kind": "turn",
+              "summary": "Runs to the statue and makes four attacks with advantage and the accepted −5 to hit / +10 damage option. Three hit for the stated 62 damage. The fourth still misses after the added ability bonus and Fortune’s Blade d4; Seeker’s inspiration adds a separate 2 thunder damage. The statue is more than half broken. Each of the three hits throws back shards, dealing Mikasa 12 damage in all.",
+              "evidence": [
+                {
+                  "startUid": "u1979",
+                  "endUid": "u2057"
+                }
+              ]
+            },
+            {
+              "actor": "Living giant dragonfly",
+              "kind": "reaction",
+              "summary": "Takes an opportunity attack as Mikasa moves out of reach; 16 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1986",
+                  "endUid": "u1992"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Grants Mikasa inspiration on the missed fourth attack. The rolled 2 does not convert it into a hit; the DM awards 2 thunder damage.",
+              "evidence": [
+                {
+                  "startUid": "u2018",
+                  "endUid": "u2029"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fifth-level Erupting Earth on the statue and living burning hand. The burning hand is destroyed; the statue cannot dodge the Dexterity-save effect and survives with a cracked leg. No damage total is stated for this casting.",
+              "evidence": [
+                {
+                  "startUid": "u2055",
+                  "endUid": "u2101"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Spirala",
+              "kind": "turn",
+              "summary": "Moves to see the lightning bolt and deliberately draws the boulder’s opportunity attack so Raven can move safely. Casts Dispel Magic on the bolt again; this time it resists the stun.",
+              "evidence": [
+                {
+                  "startUid": "u2110",
+                  "endUid": "u2149"
+                }
+              ]
+            },
+            {
+              "actor": "Living boulder / Catapult",
+              "kind": "reaction",
+              "summary": "Hits Spirala for 11 bludgeoning damage as she moves past.",
+              "evidence": [
+                {
+                  "startUid": "u2141",
+                  "endUid": "u2148"
+                }
+              ]
+            },
+            {
+              "actor": "Raven",
+              "kind": "turn",
+              "summary": "Attempts to cross the liquid-metal area, falls prone, and spends movement standing and reaching the force hand. A sword attack of 19 initially misses, but Seeker’s inspiration converts it to a hit: 8 sword damage plus the separate 9 damage from the inspiration. The second sword attack misses. Uses Focused Aim to make a Flurry hit, adding Hand of Harm for 11 plus 8 damage and poison; this kills the hand. Uses the last Flurry attack to heal themself for 5.",
+              "evidence": [
+                {
+                  "startUid": "u2150",
+                  "endUid": "u2208"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Gives Raven inspiration, adding 9 to the attack and dealing the separately stated 9 damage to the force hand.",
+              "evidence": [
+                {
+                  "startUid": "u2166",
+                  "endUid": "u2169"
+                }
+              ]
+            },
+            {
+              "actor": "Living boulder / Catapult",
+              "kind": "turn",
+              "summary": "Smashes into Spirala and Seeker again with less momentum. Both make Dexterity saves; Spirala takes 8 damage and Seeker takes 4.",
+              "evidence": [
+                {
+                  "startUid": "u2203",
+                  "endUid": "u2208"
+                }
+              ]
+            },
+            {
+              "actor": "Living lightning bolt",
+              "kind": "turn",
+              "summary": "Blasts Seeker and Spirala, requiring Dexterity saves. Seeker takes 28 damage; Spirala takes the stated half, 14.",
+              "evidence": [
+                {
+                  "startUid": "u2210",
+                  "endUid": "u2215"
+                }
+              ]
+            },
+            {
+              "actor": "Living giant dragonfly",
+              "kind": "turn",
+              "summary": "Bites at Mikasa and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2216",
+                  "endUid": "u2218"
+                }
+              ]
+            },
+            {
+              "actor": "Living chaos bolts",
+              "kind": "turn",
+              "summary": "Have not recharged their spells, so they move without firing.",
+              "evidence": [
+                {
+                  "startUid": "u2219",
+                  "endUid": "u2226"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "After considering other spells, casts Erupting Earth again on the statue and two smaller chaotic-energy spells. Both smaller spells are destroyed; the statue takes 45 more damage and teeters on one leg. Seeker then moves.",
+              "evidence": [
+                {
+                  "startUid": "u2227",
+                  "endUid": "u2278"
+                }
+              ],
+              "note": "The targets are identified from the two smaller bolts discussed at u2263–u2267; map pointers do not identify individual bolt numbers."
+            },
+            {
+              "actor": "Wild magic",
+              "kind": "event",
+              "summary": "Raven succeeds on a Dexterity save with 17 and dodges out before a glass sphere of force encloses them. Everyone learns one wizard cantrip of their choice for three days.",
+              "evidence": [
+                {
+                  "startUid": "u2283",
+                  "endUid": "u2287"
+                }
+              ]
+            },
+            {
+              "actor": "Mikasa",
+              "kind": "turn",
+              "summary": "Makes two further attacks with advantage and the same −5/+10 option. One hits on 26 for 22 damage, knocking the statue over and cracking it open. Flying shards deal 1 damage each to Mikasa, Raven and the dragonfly. The bluish-green crystal ball containing the writhing magical core is exposed.",
+              "evidence": [
+                {
+                  "startUid": "u2279",
+                  "endUid": "u2281"
+                },
+                {
+                  "startUid": "u2290",
+                  "endUid": "u2314"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Spirala",
+              "kind": "turn",
+              "summary": "Uses Sacred Flame on the exposed core instead of the proposed mace attack. The core automatically fails its Dexterity save and begins cracking, but is not yet broken; a line of magic shoots from it. No damage total is stated.",
+              "evidence": [
+                {
+                  "startUid": "u2313",
+                  "endUid": "u2352"
+                }
+              ]
+            },
+            {
+              "actor": "Raven",
+              "kind": "turn",
+              "summary": "Spends ki to disengage as a bonus action, walks to the core and hits on 27, cracking it in half. The room vibrates and fireworks erupt.",
+              "evidence": [
+                {
+                  "startUid": "u2353",
+                  "endUid": "u2367"
+                }
+              ]
+            },
+            {
+              "actor": "Wild magic",
+              "kind": "event",
+              "summary": "Raven’s skin turns vibrant blue and eight small snakes shoot from their fingertips like fireworks. Seeker’s hands temporarily fuse into digging spikes that cannot manipulate objects, and Seeker becomes Tiny for one minute. Mikasa gains spectral wings for one minute. A further benefit is spoken unclearly as {{gain of you know your lowest}}; its recipient and content remain unresolved.",
+              "evidence": [
+                {
+                  "startUid": "u2364",
+                  "endUid": "u2385"
+                }
+              ]
+            },
+            {
+              "actor": "Living spells",
+              "kind": "event",
+              "summary": "All remaining spells vanish as the magical flow starts to rebalance.",
+              "evidence": [
+                {
+                  "startUid": "u2386",
+                  "endUid": "u2391"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The statue collapses, its exposed magical core is destroyed, and all remaining living spells vanish. The party feels the magic rebalancing.",
+        "evidence": [
+          {
+            "startUid": "u2343",
+            "endUid": "u2391"
+          }
+        ]
+      }
+    }
+  ]
+}
