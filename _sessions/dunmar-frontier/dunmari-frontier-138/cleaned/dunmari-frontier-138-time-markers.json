@@ -13,6 +13,34 @@
   },
   "markers": [
     {
+      "id": "t04",
+      "source": {
+        "startUid": "u0535",
+        "endUid": "u0537"
+      },
+      "reading": "The opening ooze encounter follows straight from the preceding confrontation without an intervening rest.",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "The preceding ooze confrontation."
+        },
+        "precision": "approximate",
+        "basis": "Kenzo says they went straight into this encounter and the DM confirms no short rest; this transcript supplies no watch or clock."
+      },
+      "evidence": [
+        {
+          "startUid": "u0535",
+          "endUid": "u0536",
+          "quote": "Kenzo: We just went straight into this, huh? So we're, we didn't short rest. We didn't do anything. We're just like-"
+        },
+        {
+          "startUid": "u0537",
+          "endUid": "u0537",
+          "quote": "DM: No. Yeah, but you, you can regain your ki with initiative."
+        }
+      ]
+    },
+    {
       "id": "t01",
       "source": {
         "startUid": "u4209",
