@@ -1,0 +1,1549 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-052",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-session.yaml",
+    "sessionYamlSha256": "ddec65bca4151bda6c4d341d4e8da005f4375adb38b70bce926e3b446d0e33be",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-transcript.md",
+    "transcriptSha256": "b6d25e9a2cb73961cea8b381ab1d3384634960174aa2cb41e7a1f81237b97253"
+  },
+  "places": {
+    "p01": {
+      "label": "The God-tree clearing",
+      "evidence": [
+        {
+          "startUid": "u0326",
+          "endUid": "u0333",
+          "quote": "Uh, Delwath and Seeker are standing at the base of the tree just waiting.\n\nSeeker: Can you refer to me as Golden Egg, please, for the purpose of this operation?\n\nDM: Golden Egg.\n\nUnknown: [laughs]\n\nDM: Golden Egg.\n\nSeeker: Code name Golden Egg.\n\nDelwath: Golden Egg and Delwath are at the base of the tree. Well, I don't know who's the m- I don't know who's the fox."
+        },
+        {
+          "startUid": "u0554",
+          "endUid": "u0561",
+          "quote": "So you wait, you've waited about three hours already. Um, as you've looked in the mirror, you've iden- you know, you identified, you talked about your plan, you sort of decided what to do. Um, about four hours after you arrive in the clearing, so shortly after noon, we'll say, we'll say around 1:00, after lunch. Um-"
+        }
+      ],
+      "kind": "clearing",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0569",
+              "endUid": "u0578",
+              "quote": "Yeah. Um, you see, uh, exiting the edge of the forest, um, Zevi, the, the sort of warrior captain, um, with a group of about, of five Deno'qai.\n\nKenzo: Perfect.\n\nDM: And striding next to Zevi is an elf, presumably Mezzar.\n\nKenzo: I relay this information from the message to the down to the, the group on the ground.\n\nDM: I mean they, you can all see, it's 400 feet away. You can all see them."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "The forest",
+      "evidence": [
+        {
+          "startUid": "u3330",
+          "endUid": "u3335",
+          "quote": "Okay. So that's 30 miles away. If you... It's already 1:00. You could get there like after midnight if you just run through the forest as hard as you can."
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Central Highlands/Elderwood.md",
+      "note": "The public Session 52 campaign note identifies the transcript’s forest as the Elderwood."
+    },
+    "p03": {
+      "label": "Wellby’s suspended platform",
+      "evidence": [
+        {
+          "startUid": "u0501",
+          "endUid": "u0515",
+          "quote": "... and hiding him.\n\nOkay, this is my understanding of the plan, of this aspect of the plan. The lowest branch is at 100 feet above the ground. From that branch, we hang a 50-foot mundane rope ladder. Uh, below that, there's some ropes in the length of 20 feet. Attached at the bottom to those ropes, I will Performance of Creation lasting four hours a custom-made stealthy fire arrow platform- ... with like imprints of Wellby's like body to crouch carefully and for shooting, hanging there 30 feet above the ground. And then hanging from that is the-\n\nDM: Ladder ladder.\n\nSeeker: ... the hero ladder to, to, to just five feet.\n\nDM: Yeah.\n\nSeeker: On the platform there is an illusory giant coil of rope completely making Wellby invisible from the ground."
+        }
+      ],
+      "kind": "platform",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0501",
+              "endUid": "u0515",
+              "quote": "... and hiding him.\n\nOkay, this is my understanding of the plan, of this aspect of the plan. The lowest branch is at 100 feet above the ground. From that branch, we hang a 50-foot mundane rope ladder. Uh, below that, there's some ropes in the length of 20 feet. Attached at the bottom to those ropes, I will Performance of Creation lasting four hours a custom-made stealthy fire arrow platform- ... with like imprints of Wellby's like body to crouch carefully and for shooting, hanging there 30 feet above the ground. And then hanging from that is the-\n\nDM: Ladder ladder.\n\nSeeker: ... the hero ladder to, to, to just five feet.\n\nDM: Yeah.\n\nSeeker: On the platform there is an illusory giant coil of rope completely making Wellby invisible from the ground."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "The God tree’s lower branches",
+      "evidence": [
+        {
+          "startUid": "u0346",
+          "endUid": "u0349",
+          "quote": "'Cause I'm up in the c- I'm up 100 feet up, so as soon as I see him-\n\nDM: So you're gonna like radio down.\n\nKenzo: Yeah, I'm radio down to Messenger Stone, let them know they're coming, and then you activate the rope ladder, and then Wellby climbs up it.\n\nDM: We didn't quite solve the-"
+        }
+      ],
+      "kind": "tree branches",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0346",
+              "endUid": "u0349",
+              "quote": "'Cause I'm up in the c- I'm up 100 feet up, so as soon as I see him-\n\nDM: So you're gonna like radio down.\n\nKenzo: Yeah, I'm radio down to Messenger Stone, let them know they're coming, and then you activate the rope ladder, and then Wellby climbs up it.\n\nDM: We didn't quite solve the-"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "The forest refuge five hundred feet from the clearing",
+      "evidence": [
+        {
+          "startUid": "u2576",
+          "endUid": "u2598",
+          "quote": "I, um, sprint over to Delwath-\n\nDM: Man, you're just gonna make it.\n\nSeeker: ... and grab his foot and cast-\n\nDM: His turn's next. It's a good thing he can't use his breath weapon. That's a legendary action.\n\nSeeker: ... cast Dimension Door with my last fourth level spell slot.\n\nDM: Where, which direction? 500 feet in what direction?\n\nSeeker: Um, I mean, I just saw Kenzo run this way.\n\nDM: Yep, and Wellby flew behind the tree this way.\n\nSeeker: Oh, behind the tree actually seems good because then we can at least potentially be out of sight for a few seconds.\n\nDM: You would... You could get all the way to the woods on the other side of the clearing.\n\nSeeker: That's what I'm doing.\n\nKenzo: Oh, wait. I, like I should run the, the, also behind the tree.\n\nSeeker: You used your gut feeling. You used your gut feeling.\n\nUnknown: [laughs]\n\nDM: I understand. Wellby is 240 feet, so you are out in the open. Kenzo, you are out in the open. You two vanish into the woods. That ends-\n\nWellby: Out in the open, but out of line of sight at least immediately.\n\nDM: Out of immediate line of sight."
+        }
+      ],
+      "kind": "forest refuge",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2576",
+              "endUid": "u2598",
+              "quote": "I, um, sprint over to Delwath-\n\nDM: Man, you're just gonna make it.\n\nSeeker: ... and grab his foot and cast-\n\nDM: His turn's next. It's a good thing he can't use his breath weapon. That's a legendary action.\n\nSeeker: ... cast Dimension Door with my last fourth level spell slot.\n\nDM: Where, which direction? 500 feet in what direction?\n\nSeeker: Um, I mean, I just saw Kenzo run this way.\n\nDM: Yep, and Wellby flew behind the tree this way.\n\nSeeker: Oh, behind the tree actually seems good because then we can at least potentially be out of sight for a few seconds.\n\nDM: You would... You could get all the way to the woods on the other side of the clearing.\n\nSeeker: That's what I'm doing.\n\nKenzo: Oh, wait. I, like I should run the, the, also behind the tree.\n\nSeeker: You used your gut feeling. You used your gut feeling.\n\nUnknown: [laughs]\n\nDM: I understand. Wellby is 240 feet, so you are out in the open. Kenzo, you are out in the open. You two vanish into the woods. That ends-\n\nWellby: Out in the open, but out of line of sight at least immediately.\n\nDM: Out of immediate line of sight."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "The edge of the forest",
+      "evidence": [
+        {
+          "startUid": "u2687",
+          "endUid": "u2707",
+          "quote": "I'm gonna try and distract it. I'm gonna shoot at it, and then I'm gonna move and use my cunning action to keep moving.\n\nDM: Okay.\n\nWellby: And I think I can shoot at it and outrun it.\n\nDelwath: I think... So you're 160 feet.\n\nDM: You can get to the forest edge.\n\nWellby: Yeah. So I'm gonna shoot and then move, um, uh, uh... What am I moving? Yeah, 160.\n\nDM: Okay.\n\nWellby: Okay? And I'll shout at it and distract it-\n\nDelwath: Okay. Can you healing word me?\n\nWellby: ... and insult it and-\n\nSeeker: That's, that's my next action clearly.\n\nWellby: ... that's a miss, but...\n\nDM: Yeah, that misses. It looks in your direction. Um, can't use its legendary actions because, uh-\n\nWellby: I'm gonna taunt it.\n\nDM: Okay.\n\nWellby: Be like, \"Hey, slow asshole.\"\n\nDM: Uh, so Wellby then flies off into the forest. Kenzo, you're up. You spend another-"
+        }
+      ],
+      "kind": "forest edge",
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2687",
+              "endUid": "u2707",
+              "quote": "I'm gonna try and distract it. I'm gonna shoot at it, and then I'm gonna move and use my cunning action to keep moving.\n\nDM: Okay.\n\nWellby: And I think I can shoot at it and outrun it.\n\nDelwath: I think... So you're 160 feet.\n\nDM: You can get to the forest edge.\n\nWellby: Yeah. So I'm gonna shoot and then move, um, uh, uh... What am I moving? Yeah, 160.\n\nDM: Okay.\n\nWellby: Okay? And I'll shout at it and distract it-\n\nDelwath: Okay. Can you healing word me?\n\nWellby: ... and insult it and-\n\nSeeker: That's, that's my next action clearly.\n\nWellby: ... that's a miss, but...\n\nDM: Yeah, that misses. It looks in your direction. Um, can't use its legendary actions because, uh-\n\nWellby: I'm gonna taunt it.\n\nDM: Okay.\n\nWellby: Be like, \"Hey, slow asshole.\"\n\nDM: Uh, so Wellby then flies off into the forest. Kenzo, you're up. You spend another-"
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2687",
+              "endUid": "u2707",
+              "quote": "I'm gonna try and distract it. I'm gonna shoot at it, and then I'm gonna move and use my cunning action to keep moving.\n\nDM: Okay.\n\nWellby: And I think I can shoot at it and outrun it.\n\nDelwath: I think... So you're 160 feet.\n\nDM: You can get to the forest edge.\n\nWellby: Yeah. So I'm gonna shoot and then move, um, uh, uh... What am I moving? Yeah, 160.\n\nDM: Okay.\n\nWellby: Okay? And I'll shout at it and distract it-\n\nDelwath: Okay. Can you healing word me?\n\nWellby: ... and insult it and-\n\nSeeker: That's, that's my next action clearly.\n\nWellby: ... that's a miss, but...\n\nDM: Yeah, that misses. It looks in your direction. Um, can't use its legendary actions because, uh-\n\nWellby: I'm gonna taunt it.\n\nDM: Okay.\n\nWellby: Be like, \"Hey, slow asshole.\"\n\nDM: Uh, so Wellby then flies off into the forest. Kenzo, you're up. You spend another-"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "The woods beyond the clearing",
+      "evidence": [
+        {
+          "startUid": "u2708",
+          "endUid": "u2717",
+          "quote": "I spend another-\n\nDM: How many ki do you have left?\n\nKenzo: I've only used, uh... I only used, uh-\n\nDM: Three, four, five. So you still have four. This...\n\nKenzo: Yeah.\n\nDM: You'll have four left after this.\n\nKenzo: Yeah. I use another ki and fucking run into the forest.\n\nDM: Okay. Kenzo runs under the eaves of the forest. Seeker, you're up."
+        }
+      ],
+      "kind": "woods",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2708",
+              "endUid": "u2717",
+              "quote": "I spend another-\n\nDM: How many ki do you have left?\n\nKenzo: I've only used, uh... I only used, uh-\n\nDM: Three, four, five. So you still have four. This...\n\nKenzo: Yeah.\n\nDM: You'll have four left after this.\n\nKenzo: Yeah. I use another ki and fucking run into the forest.\n\nDM: Okay. Kenzo runs under the eaves of the forest. Seeker, you're up."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Theba’s rendezvous clearing",
+      "evidence": [
+        {
+          "startUid": "u3351",
+          "endUid": "u3370",
+          "quote": "This clearing is obvious when you f- when you find it."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u3351",
+              "endUid": "u3370",
+              "quote": "travel the 30 miles by, in about 12 hours. So, or even 10 hours, right?"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Inside the Mirror of Soul Trapping",
+      "evidence": [
+        {
+          "startUid": "u3337",
+          "endUid": "u3342",
+          "quote": "Why don't we just all go in the mirror and you move at top speed?\n\nWellby: Let's do that.\n\nSeeker: This is how we do it.\n\nDelwath: Okay. Totally. This is our new way of travel. I love it. Wellby, sorry you get to do all the riding."
+        }
+      ],
+      "kind": "extradimensional cell",
+      "mobile": true,
+      "vaultPath": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md"
+    },
+    "p10": {
+      "label": "The Bek’eni village",
+      "evidence": [
+        {
+          "startUid": "u3604",
+          "endUid": "u3621",
+          "quote": "I think the village. Dawn, like wherever, like the more s- most central... I mean, it's dawn now, so-\n\nDM: Right.\n\nDelwath: ... I can see better. The m- whatever the most like central gathering point in the village is.\n\nDM: Okay. Um, there's people moving about. It seems, uh, like fewer than you are, you would be used to, right? Um, many of the warriors seem gone. There's more offerings added to the tree. Um, it, it's, you know, still the sort of normal early morning in the village, you know, a few people crossing. There's a well in the center of the green, right? So there are people getting- ... water in the morning and things like that. Uh, the main impression you get is just that it's-\n\nDelwath: It's emptier.\n\nDM: ... emptier."
+        }
+      ],
+      "kind": "village",
+      "vaultPath": "Gazetteer/Central Highlands/Talem.md",
+      "note": "Talem is the verified village identity. These are remote views."
+    },
+    "p11": {
+      "label": "Mezzar’s house",
+      "evidence": [
+        {
+          "startUid": "u3463",
+          "endUid": "u3470",
+          "quote": "There are four poison clouds patrolling the basement.\n\nSeeker: He's beefed up the security.\n\nDM: Beefed up the security. But otherwise not much has changed.\n\nDelwath: Is there anything in any of the other rooms? No.\n\nDM: Okay, his house is empty."
+        }
+      ],
+      "kind": "house",
+      "note": "Public Mezzar and Talem notes place his residence at Talem; this source separately confirms the house and rooms."
+    },
+    "p12": {
+      "label": "Mezzar’s bedroom",
+      "evidence": [
+        {
+          "startUid": "u3426",
+          "endUid": "u3428",
+          "quote": "No. The first thing I'm gonna do is scry Mezzar's bedroom.\n\nDM: What time? This is at 2:00 AM.\n\nDelwath: I wanna see if he's back there or not."
+        }
+      ],
+      "kind": "bedroom",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u3468",
+              "endUid": "u3470",
+              "quote": "Is there anything in any of the other rooms? No.\n\nDM: Okay, his house is empty."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Mezzar’s basement",
+      "evidence": [
+        {
+          "startUid": "u3463",
+          "endUid": "u3467",
+          "quote": "There are four poison clouds patrolling the basement.\n\nSeeker: He's beefed up the security.\n\nDM: Beefed up the security. But otherwise not much has changed."
+        }
+      ],
+      "kind": "basement",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u3463",
+              "endUid": "u3470",
+              "quote": "There are four poison clouds patrolling the basement.\n\nSeeker: He's beefed up the security.\n\nDM: Beefed up the security. But otherwise not much has changed.\n\nDelwath: Is there anything in any of the other rooms? No.\n\nDM: Okay, his house is empty."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "The Deno’qai hunters’ forest camp",
+      "evidence": [
+        {
+          "startUid": "u3513",
+          "endUid": "u3523",
+          "quote": "So who was like another soldier? There must've been another soldier who I at least knew well enough to-\n\nDM: Yes. Yeah, definitely. Ah. Random soldier dude is camped in the forest somewhere sleeping in a tent.\n\nDelwath: All right. They're after us.\n\nSeeker: Or Theba.\n\nDM: Both.\n\nDelwath: Can you-"
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u3513",
+              "endUid": "u3523",
+              "quote": "So who was like another soldier? There must've been another soldier who I at least knew well enough to-\n\nDM: Yes. Yeah, definitely. Ah. Random soldier dude is camped in the forest somewhere sleeping in a tent.\n\nDelwath: All right. They're after us.\n\nSeeker: Or Theba.\n\nDM: Both.\n\nDelwath: Can you-"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "The final twisting forest path",
+      "evidence": [
+        {
+          "startUid": "u3848",
+          "endUid": "u3869",
+          "quote": "We are passing through the final path now. I will lead the way."
+        }
+      ],
+      "kind": "boundary path",
+      "relations": [
+        {
+          "relation": "at_edge_of",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u4805",
+              "endUid": "u4811",
+              "quote": "Well, you must have come through a twisted forest path.\n\nSeeker: We did.\n\nDM: You saw echoes of hopes or fears perhaps.\n\nSeeker: Indeed.\n\nDM: That is the edge. I think it is maintained somehow by this god, Aasimti, and somehow through the jade as a focus."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "The protected Te’kula forest",
+      "evidence": [
+        {
+          "startUid": "u4777",
+          "endUid": "u4785",
+          "quote": "The dream world is a place of illusion, a, a deep echo, a place even more strange and impermeable and unsettled than the Feywild itself. This is a, a demiplane of some kind.\n\nSeeker: Where we are now?\n\nDM: Where we are now."
+        },
+        {
+          "startUid": "u4801",
+          "endUid": "u4818",
+          "quote": "This where we are, although large for a demiplane, only extends about 20 miles in every direction.\n\nSeeker: What, uh, what's at the edges?\n\nDM: Well, you must have come through a twisted forest path.\n\nSeeker: We did.\n\nDM: You saw echoes of hopes or fears perhaps.\n\nSeeker: Indeed.\n\nDM: That is the edge. I think it is maintained somehow by this god, Aasimti, and somehow through the jade as a focus.\n\nSeeker: The jade as a focus? Does that mean removing that piece of jade from inside this plane would destabilize it?\n\nDM: I believe it would return. The boundaries would fade, and we would be back in the material world of Taelgar.\n\nWellby: Which would be a problem if there was still a dragon there.\n\nDM: That would be a problem for this village and for me if there was still a dragon there."
+        }
+      ],
+      "kind": "demiplane",
+      "note": "A bounded demiplane reached through the dreamlike forest border."
+    },
+    "p17": {
+      "label": "The Te’kula village",
+      "evidence": [
+        {
+          "startUid": "u3970",
+          "endUid": "u3999",
+          "quote": "when you step through this tree, you see ahead of you a clearing and a village."
+        }
+      ],
+      "kind": "village",
+      "vaultPath": "Gazetteer/Central Highlands/Neshet.md",
+      "note": "Neshet’s protected demiplane setting applies here; its modern Material Plane whereabouts postdate the recorded scenes.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u4777",
+              "endUid": "u4785",
+              "quote": "The dream world is a place of illusion, a, a deep echo, a place even more strange and impermeable and unsettled than the Feywild itself. This is a, a demiplane of some kind.\n\nSeeker: Where we are now?\n\nDM: Where we are now."
+            },
+            {
+              "startUid": "u4818",
+              "endUid": "u4818",
+              "quote": "That would be a problem for this village and for me if there was still a dragon there."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "The stream near the village",
+      "evidence": [
+        {
+          "startUid": "u4838",
+          "endUid": "u4846",
+          "quote": "He's taking a long walk in the forest. He's looking for more berries.\n\nDM: Mm-hmm.\n\nDelwath: Or other things that he could cook that would be reminiscent of home.\n\nDM: Mm-hmm.\n\nDelwath: Then he's... Is there any running water?\n\nDM: Uh, yeah. Some, like, I don't know, a quarter mile from the village, there's a stream.\n\nDelwath: Um, he's gonna spend a while trying to talk to Aaviskar."
+        }
+      ],
+      "kind": "streamside",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u4845",
+              "endUid": "u4846",
+              "quote": "Uh, yeah. Some, like, I don't know, a quarter mile from the village, there's a stream.\n\nDelwath: Um, he's gonna spend a while trying to talk to Aaviskar."
+            }
+          ],
+          "note": "The stream is described as about a quarter mile from the village."
+        },
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u4838",
+              "endUid": "u4846",
+              "quote": "He's taking a long walk in the forest. He's looking for more berries.\n\nDM: Mm-hmm.\n\nDelwath: Or other things that he could cook that would be reminiscent of home.\n\nDM: Mm-hmm.\n\nDelwath: Then he's... Is there any running water?\n\nDM: Uh, yeah. Some, like, I don't know, a quarter mile from the village, there's a stream.\n\nDelwath: Um, he's gonna spend a while trying to talk to Aaviskar."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "The village sleeping quarters",
+      "evidence": [
+        {
+          "startUid": "u5035",
+          "endUid": "u5038",
+          "quote": "So we go to, um, wherever the s- the appropriate sleeping quarters are. And yeah, lay down. Lay down beside her, take our necklaces and, and join them together."
+        }
+      ],
+      "kind": "sleeping quarters",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u5014",
+              "endUid": "u5038",
+              "quote": "So A- Alayah has been kind of, um, sitting around just kind of thinking to herself and as the night gets later and she yawns a few times, she looks over at Kenzo.\n\nDelwath: Sh- should we watch the dream bowl?\n\nDM: How, how does this work?\n\nKenzo: It's an experiment. We'll have to see.\n\nDM: I'm nervous.\n\nWellby: Kenzo, can we watch?\n\nKenzo: How does the dream bowl work again?\n\nDM: You take a drop of your blood and they can see your dreams.\n\nKenzo: Um, if you don't mind, I think for this, for this experiment, I think, um, Alayah and I have carried these dreams for a long time. I'm not sure exactly what the effect of watching it will be.\n\nDM: Mm-hmm. But I'm j- I'm just gonna assume you're gonna relay it so I don't have, we don't have to go off somewhere.\n\nKenzo: Yeah, probably. Um, but let's just use our intuition and see what happens.\n\nWellby: Mm-hmm.\n\nDM: Okay.\n\nKenzo: So we go to, um, wherever the s- the appropriate sleeping quarters are. And yeah, lay down. Lay down beside her, take our necklaces and, and join them together."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "The fallen God tree",
+      "evidence": [
+        {
+          "startUid": "u7082",
+          "endUid": "u7088",
+          "quote": "... Alayah's jade, and you can feel the sort of energy of the forest here. A- and you can... Um, i- it's not even so... As you're standing here at the fallen god tree, it's not even so much the jade. It's your own ki-\n\nKenzo: Hmm.\n\nDM: ... that is connecting you to this forest."
+        }
+      ],
+      "kind": "fallen tree",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u7073",
+              "endUid": "u7088",
+              "quote": "Nice.\n\nAnd he's also gonna do the, uh, um... He's gonna do this here, but at, at, we'll go back to the other god tree too, but even to the fallen god tree, he's gonna do the thing where he takes the jade and he, uh, you know, puts it on the end of his staff.\n\nDM: Yeah.\n\nKenzo: And, and, um, tries to-\n\nDM: I mean, you can feel, like this is where the jade came from. Yeah. Um-\n\nKenzo: Yeah.\n\nDM: ... Alayah's jade, and you can feel the sort of energy of the forest here. A- and you can... Um, i- it's not even so... As you're standing here at the fallen god tree, it's not even so much the jade. It's your own ki-\n\nKenzo: Hmm.\n\nDM: ... that is connecting you to this forest."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "The dream’s ash-covered plain",
+      "evidence": [
+        {
+          "startUid": "u5039",
+          "endUid": "u5049",
+          "quote": "As you drift off to sleep, um, you can feel your necklace getting, the jade getting slightly warm. Like not a, not a burning, like a comforting sensation, like, like the nice warm rock of the fire or something.\n\nAnd you see, um, as you, as you fall asleep and immediately start to dream, um, you can see, uh, a flat, dry, dusty plain in front of you. As far as you can see, there's just ash and dust."
+        }
+      ],
+      "kind": "vision landscape"
+    },
+    "p22": {
+      "label": "The jungle approach and scouting position near the lair",
+      "evidence": [
+        {
+          "startUid": "u7394",
+          "endUid": "u7433",
+          "quote": "like 300 yards, something like that."
+        },
+        {
+          "startUid": "u7491",
+          "endUid": "u7494",
+          "quote": "How far away is that? The banyan tree?\n\nDM: Like 300 feet.\n\nSeeker: Yeah.\n\nDM: Or 300 yards."
+        }
+      ],
+      "kind": "scouting position",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p23",
+          "evidence": [
+            {
+              "startUid": "u7394",
+              "endUid": "u7433",
+              "quote": "like 300 yards, something like that."
+            },
+            {
+              "startUid": "u7491",
+              "endUid": "u7494",
+              "quote": "How far away is that? The banyan tree?\n\nDM: Like 300 feet.\n\nSeeker: Yeah.\n\nDM: Or 300 yards."
+            }
+          ],
+          "note": "The first glimpse is about three hundred yards away; the later approach is described as about three hundred feet. The source does not settle progression versus a revised estimate."
+        },
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u7364",
+              "endUid": "u7373",
+              "quote": "And as you continue, like this is slow going here. It takes you most of the day, and you end up having to camp in this sort of dense jungle. And the next day, um, you, uh, Wellby, you would notice this as you continue to travel. It is, given the, the like seeming lushness of the forest, there is no animal life."
+            }
+          ]
+        }
+      ],
+      "note": "The tree is first glimpsed about three hundred yards away, later described as about three hundred feet away; progression versus revision remains uncertain."
+    },
+    "p23": {
+      "label": "Grimbaskal’s lair beneath the banyan tree",
+      "evidence": [
+        {
+          "startUid": "u7495",
+          "endUid": "u7506",
+          "quote": "Uh, okay. The banyan tree is the lair?\n\nKenzo: Inside the tree.\n\nSeeker: Does it look like it might be hollow?\n\nDM: Yeah, I mean, so banyan trees usually grow around other trees, right? The rot is coming from the giant dead tree it grew around and killed.\n\nWellby: Whoa, like it colonized a god tree?\n\nDM: Um-\n\nWellby: Perhaps.\n\nDM: ... perhaps, yeah. I mean, the- But the God Tree is dead and rotted, and so it only goes up as high as the banyan tree."
+        }
+      ],
+      "kind": "lair complex",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u7364",
+              "endUid": "u7373",
+              "quote": "And as you continue, like this is slow going here. It takes you most of the day, and you end up having to camp in this sort of dense jungle. And the next day, um, you, uh, Wellby, you would notice this as you continue to travel. It is, given the, the like seeming lushness of the forest, there is no animal life."
+            },
+            {
+              "startUid": "u7394",
+              "endUid": "u7433",
+              "quote": "This is a massively thick like banyan tree with like 20 trunks grown together."
+            }
+          ]
+        }
+      ]
+    },
+    "p24": {
+      "label": "The lair’s entrance and ventilation shafts",
+      "evidence": [
+        {
+          "startUid": "u7588",
+          "endUid": "u7600",
+          "quote": "You see in the tree, there's a shaft that goes down maybe 50, 60 feet, or maybe, no, more than that, probably, probably 100 feet. It's like the root complex of the God Tree down underground.\n\nSeeker: Whoa.\n\nDM: And you can see, and, but it's all rotted out. Like, the w- this massive tree that must have had hugely enormous roots has all just rotted away and is dead, surrounded by this banyan tree.\n\nAnd you can see down the bottom of the sh- like looking down from the shaft, there's an opening, a large o- like the shaft itself is 40 feet across, basically. And, you know, down maybe 60 feet, um, below, um, the light shining down from above, there's a big opening, like a 40, 50 foot opening that goes deeper underground, like into a cave, basically. Or not really a cave, like the, the, like rotted remains of the taproot of the God Tree.\n\nSeeker: And is anything in there? I guess I'm looking down, so I can't see.\n\nDM: You're looking down, so you can't see in the cave."
+        }
+      ],
+      "kind": "entrance shafts",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p23",
+          "evidence": [
+            {
+              "startUid": "u7588",
+              "endUid": "u7600",
+              "quote": "You see in the tree, there's a shaft that goes down maybe 50, 60 feet, or maybe, no, more than that, probably, probably 100 feet. It's like the root complex of the God Tree down underground.\n\nSeeker: Whoa.\n\nDM: And you can see, and, but it's all rotted out. Like, the w- this massive tree that must have had hugely enormous roots has all just rotted away and is dead, surrounded by this banyan tree.\n\nAnd you can see down the bottom of the sh- like looking down from the shaft, there's an opening, a large o- like the shaft itself is 40 feet across, basically. And, you know, down maybe 60 feet, um, below, um, the light shining down from above, there's a big opening, like a 40, 50 foot opening that goes deeper underground, like into a cave, basically. Or not really a cave, like the, the, like rotted remains of the taproot of the God Tree.\n\nSeeker: And is anything in there? I guess I'm looking down, so I can't see.\n\nDM: You're looking down, so you can't see in the cave."
+            }
+          ]
+        }
+      ]
+    },
+    "p25": {
+      "label": "The lair’s underground chamber",
+      "evidence": [
+        {
+          "startUid": "u7687",
+          "endUid": "u7704",
+          "quote": "Okay. Um, you are looking, um, at a, uh... Let's see. A huge chamber that's about 110 feet this way and about, about 100 feet that way. About 100 foot by 110 foot.\n\nUm, this is, uh, you're about 10 feet into the cave. It looks like there's like a, a, the entryway is like a 40 foot by 40 foot by 40 foot cube effectively that branches-\n\nSeeker: There's the entrance room and then the bigger chamber.\n\nDM: Yeah, and then the big chamber. Um, it is lit by sickly green light filtering down from a whole bunch of like sha- like holes far too small for the dragon to get out of, but big enough for like maybe snakes to slither through.\n\nSeeker: Oh, that shaft's fucked.\n\nDM: Um, uh, at the top that's casting light down through the filter to the leaves of the banyan tree, so it's all sort of faintly green light. You see the largest pile of coins you have ever seen in your life."
+        }
+      ],
+      "kind": "cavern",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p23",
+          "evidence": [
+            {
+              "startUid": "u7661",
+              "endUid": "u7668",
+              "quote": "The cave's going this way.\n\nSeeker: Right.\n\nDM: Sideways into the earth.\n\nSeeker: So wait,\n\nDelwath: How-\n\nDM: So the shaft goes down.\n\nDelwath: Mm-hmm, and then it turns a corner.\n\nDM: And then it turns a corner."
+            },
+            {
+              "startUid": "u7687",
+              "endUid": "u7704",
+              "quote": "Okay. Um, you are looking, um, at a, uh... Let's see. A huge chamber that's about 110 feet this way and about, about 100 feet that way. About 100 foot by 110 foot.\n\nUm, this is, uh, you're about 10 feet into the cave. It looks like there's like a, a, the entryway is like a 40 foot by 40 foot by 40 foot cube effectively that branches-\n\nSeeker: There's the entrance room and then the bigger chamber.\n\nDM: Yeah, and then the big chamber. Um, it is lit by sickly green light filtering down from a whole bunch of like sha- like holes far too small for the dragon to get out of, but big enough for like maybe snakes to slither through.\n\nSeeker: Oh, that shaft's fucked.\n\nDM: Um, uh, at the top that's casting light down through the filter to the leaves of the banyan tree, so it's all sort of faintly green light. You see the largest pile of coins you have ever seen in your life."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "observation",
+      "source": {
+        "startUid": "u0137",
+        "endUid": "u0140"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The mirror shows the God tree’s former nursery and its destruction; the party remains at the present tree.",
+      "evidence": [
+        {
+          "startUid": "u0137",
+          "endUid": "u0140",
+          "quote": "Okay, so as you're waiting for Mezzar and possibly anybody else, you, um, you look at the mirror. I mean, you look at the tree. You hold the tree up to the mirror."
+        },
+        {
+          "startUid": "u0194",
+          "endUid": "u0203",
+          "quote": "Y- so you look. You look and the mirror, um, turns, uh... So for a moment, like, you're sort of trying to angle the mirror right so you can see as much of the tree as possible, and you're kind of looking up. And, um, for a moment, the mirror turns sort of misty, foggy. Um, and the fog clears, and you see, uh, an image, Kenzo, which looks familiar to you. It's an elven nursery. You see the-\n\nKenzo: Hmm."
+        }
+      ],
+      "place": "p01",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "context": "vision"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0326",
+        "endUid": "u0333"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Delwath and Seeker wait at the base of the God tree.",
+      "evidence": [
+        {
+          "startUid": "u0326",
+          "endUid": "u0333",
+          "quote": "Uh, Delwath and Seeker are standing at the base of the tree just waiting.\n\nSeeker: Can you refer to me as Golden Egg, please, for the purpose of this operation?\n\nDM: Golden Egg.\n\nUnknown: [laughs]\n\nDM: Golden Egg.\n\nSeeker: Code name Golden Egg.\n\nDelwath: Golden Egg and Delwath are at the base of the tree. Well, I don't know who's the m- I don't know who's the fox."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0346",
+        "endUid": "u0349"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo waits roughly a hundred feet up in the lower tree branches.",
+      "evidence": [
+        {
+          "startUid": "u0346",
+          "endUid": "u0349",
+          "quote": "'Cause I'm up in the c- I'm up 100 feet up, so as soon as I see him-\n\nDM: So you're gonna like radio down.\n\nKenzo: Yeah, I'm radio down to Messenger Stone, let them know they're coming, and then you activate the rope ladder, and then Wellby climbs up it.\n\nDM: We didn't quite solve the-"
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0501",
+        "endUid": "u0515"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby hides on the suspended platform thirty feet above the clearing.",
+      "evidence": [
+        {
+          "startUid": "u0501",
+          "endUid": "u0515",
+          "quote": "... and hiding him.\n\nOkay, this is my understanding of the plan, of this aspect of the plan. The lowest branch is at 100 feet above the ground. From that branch, we hang a 50-foot mundane rope ladder. Uh, below that, there's some ropes in the length of 20 feet. Attached at the bottom to those ropes, I will Performance of Creation lasting four hours a custom-made stealthy fire arrow platform- ... with like imprints of Wellby's like body to crouch carefully and for shooting, hanging there 30 feet above the ground. And then hanging from that is the-\n\nDM: Ladder ladder.\n\nSeeker: ... the hero ladder to, to, to just five feet.\n\nDM: Yeah.\n\nSeeker: On the platform there is an illusory giant coil of rope completely making Wellby invisible from the ground."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u2576",
+        "endUid": "u2598"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "Seeker Dimension Doors the unconscious Delwath five hundred feet into the forest.",
+      "evidence": [
+        {
+          "startUid": "u2576",
+          "endUid": "u2598",
+          "quote": "I, um, sprint over to Delwath-\n\nDM: Man, you're just gonna make it.\n\nSeeker: ... and grab his foot and cast-\n\nDM: His turn's next. It's a good thing he can't use his breath weapon. That's a legendary action.\n\nSeeker: ... cast Dimension Door with my last fourth level spell slot.\n\nDM: Where, which direction? 500 feet in what direction?\n\nSeeker: Um, I mean, I just saw Kenzo run this way.\n\nDM: Yep, and Wellby flew behind the tree this way.\n\nSeeker: Oh, behind the tree actually seems good because then we can at least potentially be out of sight for a few seconds.\n\nDM: You would... You could get all the way to the woods on the other side of the clearing.\n\nSeeker: That's what I'm doing.\n\nKenzo: Oh, wait. I, like I should run the, the, also behind the tree.\n\nSeeker: You used your gut feeling. You used your gut feeling.\n\nUnknown: [laughs]\n\nDM: I understand. Wellby is 240 feet, so you are out in the open. Kenzo, you are out in the open. You two vanish into the woods. That ends-\n\nWellby: Out in the open, but out of line of sight at least immediately.\n\nDM: Out of immediate line of sight."
+        }
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "Dimension Door",
+      "distance": {
+        "value": 500,
+        "unit": "foot",
+        "precision": "exact",
+        "basis": "explicit teleport distance"
+      }
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u2687",
+        "endUid": "u2707"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies into the edge of the forest during the retreat.",
+      "evidence": [
+        {
+          "startUid": "u2687",
+          "endUid": "u2707",
+          "quote": "I'm gonna try and distract it. I'm gonna shoot at it, and then I'm gonna move and use my cunning action to keep moving.\n\nDM: Okay.\n\nWellby: And I think I can shoot at it and outrun it.\n\nDelwath: I think... So you're 160 feet.\n\nDM: You can get to the forest edge.\n\nWellby: Yeah. So I'm gonna shoot and then move, um, uh, uh... What am I moving? Yeah, 160.\n\nDM: Okay.\n\nWellby: Okay? And I'll shout at it and distract it-\n\nDelwath: Okay. Can you healing word me?\n\nWellby: ... and insult it and-\n\nSeeker: That's, that's my next action clearly.\n\nWellby: ... that's a miss, but...\n\nDM: Yeah, that misses. It looks in your direction. Um, can't use its legendary actions because, uh-\n\nWellby: I'm gonna taunt it.\n\nDM: Okay.\n\nWellby: Be like, \"Hey, slow asshole.\"\n\nDM: Uh, so Wellby then flies off into the forest. Kenzo, you're up. You spend another-"
+        }
+      ],
+      "from": "p01",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u2708",
+        "endUid": "u2717"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo sprints into the woods in a different direction.",
+      "evidence": [
+        {
+          "startUid": "u2708",
+          "endUid": "u2717",
+          "quote": "I spend another-\n\nDM: How many ki do you have left?\n\nKenzo: I've only used, uh... I only used, uh-\n\nDM: Three, four, five. So you still have four. This...\n\nKenzo: Yeah.\n\nDM: You'll have four left after this.\n\nKenzo: Yeah. I use another ki and fucking run into the forest.\n\nDM: Okay. Kenzo runs under the eaves of the forest. Seeker, you're up."
+        }
+      ],
+      "from": "p01",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2923",
+        "endUid": "u2940"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the dragon leaves, the party returns to the God tree and gathers the dead.",
+      "evidence": [
+        {
+          "startUid": "u2923",
+          "endUid": "u2940",
+          "quote": "All right. Well, let's coordinate. The four of us will meet back up again.\n\nDelwath: Let's sit down. Let's- Okay. But let's like meet back up at the tree. Seriously, take Zevi's dead body. Speak with dead.\n\nWellby: Yeah. He needs a bathroom or whatever.\n\nDM: He's moving fast. He's moving- We're not gonna beat him back.\n\nDelwath: ... 100 feet in 60.\n\nDM: He, he's got a watch. He's moving like 500 feet.\n\nDelwath: But, uh, you don't think if we... I mean, I don't know if we can safely go back to the village 'cause he's just gonna try to kill us.\n\nSeeker: Yeah.\n\nUnknown: [coughs]"
+        },
+        {
+          "startUid": "u3027",
+          "endUid": "u3059",
+          "quote": "Look, the, it, it, it does us no harm to put the body in the hole, the, just to keep the body in the, in the-\n\nWellby: Yeah. You.\n\nKenzo: And then if we want, if we find that we need to animate him later and there's a, there's an opportune time, great. But I agree, going back to the village is like- Yeah, I don't think we should go back to the village right now.\n\nSeeker: ... because.\n\nKenzo: Or, or anytime soon. I mean, it's just like we gotta get the fuck out of here.\n\nWellby: So our plan is to put a dead body in the portable hole.\n\nKenzo: Yeah. If we want to animate him later.\n\nSeeker: It might smell.\n\nKenzo: Smell.\n\nWellby: Smell bad.\n\nKenzo: Can we, uh, preserve him somehow or do some stuff to him?\n\nWellby: I mean... It doesn't matter. We, we put him in the hole. We'll figure it out tomorrow.\n\nDM: You can make, um-\n\nSeeker: I already used Performance of Creation.\n\nDM: Oh, you already used Performance of Creation.\n\nSeeker: I can't make a giant barrel of salt or something. I do have a bag of salt though, like just an actual bag of salt I think.\n\nDM: You could use up your cooking salt to salt the body.\n\nDelwath: Yeah.\n\nDM: Maybe a little.\n\nDelwath: I mean, we did buy a bunch of trade goods, plausible... I, we even said- You even said you were buying salt ... salt was one of the trades.\n\nDM: ... that's fair.\n\nSeeker: It is actually. I just made it up that that's a way to preserve a body, but could try it. No, I have a bag of salt in my inventory already anyway.\n\nDM: Well, that's, that's not gonna be enough, but the 20 pounds of salt you bought as a trade good.\n\nKenzo: All right. Let's salt preserve the body."
+        }
+      ],
+      "from": null,
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "regroup"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u3337",
+        "endUid": "u3342"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "Seeker, Delwath and Kenzo enter the soul-trapping mirror for transport.",
+      "evidence": [
+        {
+          "startUid": "u3337",
+          "endUid": "u3342",
+          "quote": "Why don't we just all go in the mirror and you move at top speed?\n\nWellby: Let's do that.\n\nSeeker: This is how we do it.\n\nDelwath: Okay. Totally. This is our new way of travel. I love it. Wellby, sorry you get to do all the riding."
+        },
+        {
+          "startUid": "u3402",
+          "endUid": "u3403",
+          "quote": "... they know how to track as well.\n\nAll right. So you guys are out of the mirror."
+        }
+      ],
+      "from": "p01",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "Mirror of Soul Trapping"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u3351",
+        "endUid": "u3370"
+      },
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "Wellby rides Baxter thirty miles through the forest and reaches Theba’s rendezvous clearing, carrying the mirror.",
+      "evidence": [
+        {
+          "startUid": "u3351",
+          "endUid": "u3370",
+          "quote": "But by keeping him on track, you manage to travel the 30 miles by, in about 12 hours. So, or even 10 hours, right?"
+        },
+        {
+          "startUid": "u3372",
+          "endUid": "u3376",
+          "quote": "... so you can find where the clearing is. Um, you seem to have actually beat Theba.\n\nSeeker: Yeah.\n\nDM: She said she'd meet you in two days time, which would be tomorrow morning."
+        }
+      ],
+      "from": "p01",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "ride",
+      "distance": {
+        "value": 30,
+        "unit": "mile",
+        "precision": "exact",
+        "basis": "DM’s stated completed journey"
+      },
+      "duration": {
+        "value": 10,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM revises twelve hours to about ten"
+      }
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u3402",
+        "endUid": "u3403"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "The three transported PCs emerge from the mirror at the rendezvous camp.",
+      "evidence": [
+        {
+          "startUid": "u3402",
+          "endUid": "u3403",
+          "quote": "... they know how to track as well.\n\nAll right. So you guys are out of the mirror."
+        }
+      ],
+      "from": "p09",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "released from mirror",
+      "locationContext": [
+        {
+          "subject": "p09",
+          "relation": "at",
+          "target": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u3424",
+        "endUid": "u3428"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath scries Mezzar’s empty bedroom from camp.",
+      "evidence": [
+        {
+          "startUid": "u3424",
+          "endUid": "u3428",
+          "quote": "The first thing I'm gonna do is scry the middle of the village.\n\nDM: At?\n\nDelwath: No. The first thing I'm gonna do is scry Mezzar's bedroom.\n\nDM: What time? This is at 2:00 AM.\n\nDelwath: I wanna see if he's back there or not."
+        },
+        {
+          "startUid": "u3440",
+          "endUid": "u3441",
+          "quote": "Bedroom is empty. Okay."
+        }
+      ],
+      "place": "p12",
+      "mode": "remote",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u3455",
+        "endUid": "u3459"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Ghostly Gaze through the scry reveals four poison clouds in the basement and an otherwise empty house.",
+      "evidence": [
+        {
+          "startUid": "u3455",
+          "endUid": "u3459",
+          "quote": "Oh, that's true. Yeah, I can ghostly, ghostly gaze while I scry. So I can look down to the floor.\n\nSeeker: Whoa. It just got more powerful.\n\nDM: Um. You can see through walls while scrying."
+        },
+        {
+          "startUid": "u3463",
+          "endUid": "u3470",
+          "quote": "There are four poison clouds patrolling the basement.\n\nSeeker: He's beefed up the security.\n\nDM: Beefed up the security. But otherwise not much has changed.\n\nDelwath: Is there anything in any of the other rooms? No.\n\nDM: Okay, his house is empty."
+        }
+      ],
+      "place": "p13",
+      "mode": "remote",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u3500",
+        "endUid": "u3508"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath remotely sees the Bek’eni village chief asleep.",
+      "evidence": [
+        {
+          "startUid": "u3500",
+          "endUid": "u3508",
+          "quote": "I'll scry the leader dude.\n\nDM: Uh, so this now is dawn. Nah, it's 4:00 AM. 4:00 AM, okay. I mean, he's probably sleeping, but. The leader, um, is sleeping in his, in his, um, he's-\n\nKenzo: Oh, he's not chasing after us.\n\nDM: Well, the chief of the village is not chasing after you. He is asleep."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p08",
+      "observedActors": [
+        "the Bek’eni chief"
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u3513",
+        "endUid": "u3523"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath scries an armed Deno’qai camp in the forest, with roughly ten tents and twenty people.",
+      "evidence": [
+        {
+          "startUid": "u3513",
+          "endUid": "u3523",
+          "quote": "So who was like another soldier? There must've been another soldier who I at least knew well enough to-\n\nDM: Yes. Yeah, definitely. Ah. Random soldier dude is camped in the forest somewhere sleeping in a tent.\n\nDelwath: All right. They're after us.\n\nSeeker: Or Theba.\n\nDM: Both.\n\nDelwath: Can you-"
+        },
+        {
+          "startUid": "u3541",
+          "endUid": "u3552",
+          "quote": "How many people are there? 10 tents, 50 tents, 3 tents?\n\nDM: You can see 10 tents within range of your darkvision. It's quite dark underneath the forest.\n\nDelwath: Yeah, okay.\n\nDM: There's-\n\nDelwath: So it's not a small... I mean, does it look like the edge of the encampment? Does it look like it keeps going?\n\nDM: It's hard to tell. But it's at least 10, potentially somewhat more than that. There's one other person sleeping in this tent with this guy, so probably at least 20."
+        }
+      ],
+      "place": "p14",
+      "mode": "remote",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u3553",
+        "endUid": "u3558"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "At dawn Delwath sees the grave offerings disturbed and the letter torn up.",
+      "evidence": [
+        {
+          "startUid": "u3553",
+          "endUid": "u3558",
+          "quote": "That's a pretty big mobilization. I'm gonna scry with my two dawn scrys. The first one is I'm gonna scry the tree. Has anybody been there? Is it disturbed at all? Has anybody taken the letter? Has, like, anything changed?"
+        },
+        {
+          "startUid": "u3585",
+          "endUid": "u3594",
+          "quote": "Make a survival check with disadvantage.\n\nDelwath: Uh, a, uh, nine or something like that. Hold on, let me check. Not very good.\n\nDM: Uh, you can't tell.\n\nDelwath: Survival, no, 11.\n\nDM: Yeah, you can't really tell. I mean, definitely, clearly somebody's been here.\n\nDelwath: Right.\n\nDM: But it's really hard to gauge the numbers."
+        }
+      ],
+      "place": "p01",
+      "mode": "remote",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u3604",
+        "endUid": "u3608"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath remotely views a quieter, emptier Bek’eni village with a green well.",
+      "evidence": [
+        {
+          "startUid": "u3604",
+          "endUid": "u3621",
+          "quote": "I think the village. Dawn, like wherever, like the more s- most central... I mean, it's dawn now, so-\n\nDM: Right.\n\nDelwath: ... I can see better. The m- whatever the most like central gathering point in the village is.\n\nDM: Okay. Um, there's people moving about. It seems, uh, like fewer than you are, you would be used to, right? Um, many of the warriors seem gone. There's more offerings added to the tree. Um, it, it's, you know, still the sort of normal early morning in the village, you know, a few people crossing. There's a well in the center of the green, right? So there are people getting- ... water in the morning and things like that. Uh, the main impression you get is just that it's-\n\nDelwath: It's emptier.\n\nDM: ... emptier."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u3779",
+        "endUid": "u3783"
+      },
+      "actors": [
+        "party",
+        "Theba",
+        "Baxter"
+      ],
+      "reading": "Theba guides the party through three days of forest travel to the final twisting boundary path.",
+      "evidence": [
+        {
+          "startUid": "u3779",
+          "endUid": "u3783",
+          "quote": "\"Okay, let us go.\"\n\n Um, so over the next three days, you run, you basically are running through the forest. Um... Um, Tim?"
+        },
+        {
+          "startUid": "u3840",
+          "endUid": "u3842",
+          "quote": "They're unchanged. And after a f- three days passing through this forest, the forest getting, um, Theba l- leading you into sort of a deeper, stiller part of the woods."
+        },
+        {
+          "startUid": "u3848",
+          "endUid": "u3869",
+          "quote": "We are passing through the final path now. I will lead the way."
+        }
+      ],
+      "from": "p08",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk / run",
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "DM’s montage and later confirmation"
+      }
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u3878",
+        "endUid": "u3888"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees tempting or frightening scenes beside the path without leaving it: Kaeso, Frankar, a unicorn, jade in a tree and an elven ambush.",
+      "evidence": [
+        {
+          "startUid": "u3878",
+          "endUid": "u3888",
+          "quote": "And the, the path like twists, the only way forward twists and turns in unexpected ways. Um, sometimes passing through like the hollow of a massive trunk with the trees stretching up above you. Sometimes going over or even under massive roots. And as you're twisting and turning you see, um, every now and then you'll catch a glimpse of a, like a clearing.\n\nAnd after a few that are empty you see, um, you see one and in the clearing you see Kaeso running, and he stops in the middle of the clearing looking frantically around, and a giant lightning elemental is chasing him. And then a bolt of lightning shoots out from this creature looking very similar to the one that you fought in Fausto's tower. Oh, fuck. And it strikes him and the bolt of lightning hits him in the back and he stumbles and begins to fall."
+        },
+        {
+          "startUid": "u3942",
+          "endUid": "u3943",
+          "quote": "I, I take a deep breath and say, \"Not today, unicorn,\" and turn back to the path."
+        },
+        {
+          "startUid": "u3960",
+          "endUid": "u3969",
+          "quote": "It's, yeah. And you continue and you see a company of elves fighting hobgoblins at the edge of the woods, oblivious to archers sneaking through the meadow behind them. And as you watch, the archers stand and loose a volley of arrows that explode on impact, one elf dying and the rest turning, caught between fire and swords, outnumbered, slowly being hacked to pieces in this ambush.\n\nKenzo: Any sense of when this is?\n\nDM: Something quickly.\n\nKenzo: Says.\n\nWellby: On the path."
+        }
+      ],
+      "place": "p15",
+      "mode": "vision",
+      "observerPlace": "p15",
+      "context": "vision"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u3970",
+        "endUid": "u3999"
+      },
+      "actors": [
+        "party",
+        "Theba",
+        "Baxter"
+      ],
+      "reading": "Following Theba through a hollow tree, the party and Baxter reach the village; the resumed source places them inside at the feast.",
+      "evidence": [
+        {
+          "startUid": "u3970",
+          "endUid": "u3999",
+          "quote": "Theba. And you keep watching, and suddenly you come to a different forest. Like you step underneath a root and pass through a, the largest tree you've seen that's not one of these God trees. It's, it's like 20 feet in diameter maybe, and it almost looks like there's a door through its trunk. And you pass through this narrow tunnel, so maybe five feet tall, so only Wellby and Seeker can go standing. Baxter's like squirming his way through. Theba has to duck. You two have to duck.\n\nAnd when you, when you step through this tree, you see ahead of you a clearing and a village. It looks very much like the Bek'eni village. It's set up in the same way. There's a long hall, um, little, uh, houses in the woods, a, um, a, a meadow, a clearing with a well, and a tree, uh, growing in the center of the, of the meadow.\n\nUm, similar, similar style, right? So, coppice has many trunks. There's a small wooden altar in front of it. There are very few o- there are no offerings hanging from this tree."
+        },
+        {
+          "startUid": "u4032",
+          "endUid": "u4049",
+          "quote": "[gentle music] I'm just gonna get a little bit of this. Okay. I'll put that there. [coughs]\n\nSo in the village as the sun sets, um, there is a feast prepared. The-\n\nSeeker: That was.\n\nDM: ... the Te'kula almost never have visitors, and so many at once is an occasion for celebration, even despite the, the sort of thread of uncertainty and, and doubt that, that hangs over this revelation from the two pieces of jade meeting, and, um, Alayah's, uh, uncertainty about what this all means. During dinner, dinner is the four of you, Alayah, the chief Yota, three or four other Deno'qai, um, and the elf Belegor. Theba is not there."
+        }
+      ],
+      "from": "p15",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "walk through hollow-tree passage",
+      "route": [
+        {
+          "reading": "Remain on the twisting path despite the apparitions, then cross through the hollow trunk into the protected forest."
+        }
+      ],
+      "note": "The entry exchange and initial meeting of the jade pieces are missing between the approach and resumed feast."
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u4838",
+        "endUid": "u4846"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath leaves the village for the nearby forest stream to gather food and pray.",
+      "evidence": [
+        {
+          "startUid": "u4838",
+          "endUid": "u4846",
+          "quote": "He's taking a long walk in the forest. He's looking for more berries.\n\nDM: Mm-hmm.\n\nDelwath: Or other things that he could cook that would be reminiscent of home.\n\nDM: Mm-hmm.\n\nDelwath: Then he's... Is there any running water?\n\nDM: Uh, yeah. Some, like, I don't know, a quarter mile from the village, there's a stream.\n\nDelwath: Um, he's gonna spend a while trying to talk to Aaviskar."
+        }
+      ],
+      "from": "p17",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u5035",
+        "endUid": "u5038"
+      },
+      "actors": [
+        "Kenzo",
+        "Alayah"
+      ],
+      "reading": "Kenzo and Alayah go to sleeping quarters, lie beside one another and join the jade necklaces.",
+      "evidence": [
+        {
+          "startUid": "u5035",
+          "endUid": "u5038",
+          "quote": "So we go to, um, wherever the s- the appropriate sleeping quarters are. And yeah, lay down. Lay down beside her, take our necklaces and, and join them together."
+        }
+      ],
+      "from": "p17",
+      "to": "p19",
+      "completion": "arrived"
+    },
+    {
+      "id": "l23",
+      "type": "observation",
+      "source": {
+        "startUid": "u5039",
+        "endUid": "u5049"
+      },
+      "actors": [
+        "Kenzo",
+        "Alayah"
+      ],
+      "reading": "Kenzo and Alayah dream of the ash plain and Rai’s broken hand; the vision shows fragments falling elsewhere, without physical travel.",
+      "evidence": [
+        {
+          "startUid": "u5039",
+          "endUid": "u5049",
+          "quote": "As you drift off to sleep, um, you can feel your necklace getting, the jade getting slightly warm. Like not a, not a burning, like a comforting sensation, like, like the nice warm rock of the fire or something.\n\nAnd you see, um, as you, as you fall asleep and immediately start to dream, um, you can see, uh, a flat, dry, dusty plain in front of you. As far as you can see, there's just ash and dust."
+        },
+        {
+          "startUid": "u5109",
+          "endUid": "u5126",
+          "quote": "Jumbled images flash before you."
+        }
+      ],
+      "place": "p21",
+      "mode": "vision",
+      "observerPlace": "p19",
+      "context": "vision"
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u7073",
+        "endUid": "u7075"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo visits the fallen God tree where Alayah’s jade was found and connects his ki to the forest.",
+      "evidence": [
+        {
+          "startUid": "u7073",
+          "endUid": "u7075",
+          "quote": "Nice.\n\nAnd he's also gonna do the, uh, um... He's gonna do this here, but at, at, we'll go back to the other god tree too, but even to the fallen god tree, he's gonna do the thing where he takes the jade and he, uh, you know, puts it on the end of his staff."
+        },
+        {
+          "startUid": "u7082",
+          "endUid": "u7091",
+          "quote": "... Alayah's jade, and you can feel the sort of energy of the forest here. A- and you can... Um, i- it's not even so... As you're standing here at the fallen god tree, it's not even so much the jade. It's your own ki-\n\nKenzo: Hmm.\n\nDM: ... that is connecting you to this forest.\n\nKenzo: Beautiful. Even better.\n\nDM: So in mechanical terms, you can s- you can now spend ki to cast Commune With Nature anywhere once a day."
+        }
+      ],
+      "from": "p17",
+      "to": "p20",
+      "completion": "arrived"
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u7285",
+        "endUid": "u7289"
+      },
+      "actors": [
+        "party",
+        "Theba",
+        "Obel"
+      ],
+      "reading": "The party sets out east with Theba and Obel and reaches the jungle approach to the lair, first glimpsed about three hundred yards away and later described as about three hundred feet away.",
+      "evidence": [
+        {
+          "startUid": "u7285",
+          "endUid": "u7289",
+          "quote": "So you set out-\n\nKenzo: Actual dragon attacks are much more powerful.\n\nDM: ... over the course of the next-\n\nSeeker: Definitely.\n\nDM: ... over the course of the next three days—Theba guides you slowly to the east."
+        },
+        {
+          "startUid": "u7364",
+          "endUid": "u7373",
+          "quote": "And as you continue, like this is slow going here. It takes you most of the day, and you end up having to camp in this sort of dense jungle. And the next day, um, you, uh, Wellby, you would notice this as you continue to travel. It is, given the, the like seeming lushness of the forest, there is no animal life."
+        },
+        {
+          "startUid": "u7394",
+          "endUid": "u7433",
+          "quote": "like 300 yards, something like that."
+        },
+        {
+          "startUid": "u7491",
+          "endUid": "u7494",
+          "quote": "How far away is that? The banyan tree?\n\nDM: Like 300 feet.\n\nSeeker: Yeah.\n\nDM: Or 300 yards."
+        }
+      ],
+      "from": "p17",
+      "to": "p22",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s repeated approximate overall journey; later third-day / next-day narration is retained as a qualification"
+      },
+      "route": [
+        {
+          "reading": "Travel slowly east through forest that becomes hotter and denser; camp in the jungle before approaching the banyan tree the next afternoon."
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "type": "observation",
+      "source": {
+        "startUid": "u7588",
+        "endUid": "u7600"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker uses Clairvoyance to inspect the entrance shaft from the jungle scouting position.",
+      "evidence": [
+        {
+          "startUid": "u7588",
+          "endUid": "u7600",
+          "quote": "You see in the tree, there's a shaft that goes down maybe 50, 60 feet, or maybe, no, more than that, probably, probably 100 feet. It's like the root complex of the God Tree down underground.\n\nSeeker: Whoa.\n\nDM: And you can see, and, but it's all rotted out. Like, the w- this massive tree that must have had hugely enormous roots has all just rotted away and is dead, surrounded by this banyan tree.\n\nAnd you can see down the bottom of the sh- like looking down from the shaft, there's an opening, a large o- like the shaft itself is 40 feet across, basically. And, you know, down maybe 60 feet, um, below, um, the light shining down from above, there's a big opening, like a 40, 50 foot opening that goes deeper underground, like into a cave, basically. Or not really a cave, like the, the, like rotted remains of the taproot of the God Tree.\n\nSeeker: And is anything in there? I guess I'm looking down, so I can't see.\n\nDM: You're looking down, so you can't see in the cave."
+        }
+      ],
+      "place": "p24",
+      "mode": "remote",
+      "observerPlace": "p22"
+    },
+    {
+      "id": "l27",
+      "type": "observation",
+      "source": {
+        "startUid": "u7627",
+        "endUid": "u7643"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker’s second Clairvoyance reveals the underground cavern, arranged hoard, dragon and four snake people.",
+      "evidence": [
+        {
+          "startUid": "u7627",
+          "endUid": "u7643",
+          "quote": "Um, all right. I'll cast clairvoyance a second time to look into the cave.\n\nDM: So you aim, how far in the cave are you aiming it?\n\nSeeker: How big is the dragon?\n\nDM: Like- Like nose to tail ... 30, 30 feet nose to tail, tw- 40 foot w- like 20 f- 20 feet with its wings sort of clumped. Fully extended, like 30 foot wingspan maybe.\n\nSeeker: Oh, so kinda short.\n\nKenzo: How big is he relative to the house?\n\nDM: He's what?\n\nKenzo: How big is he relative to the house?\n\nDelwath: You said 30 foot wingspan, so 30 feet of each wing?"
+        },
+        {
+          "startUid": "u7757",
+          "endUid": "u7780",
+          "quote": "Perched on the top of this pile of coins. Um, kind of almost hissing, purring gently. Um, and standing in front of it are four snake people that seem to be like bowing and worshiping it. They are, they're humanoid top. In fact, they look kind of like Deno'qai from the head to about here.\n\nKenzo: Oh.\n\nDM: And then have snake tails.\n\nSeeker: I see.\n\nDM: And it seems to be speaking to them. You can't hear because you have to pick sound or hearing. Uh, but it's opening its mouth and every time it sort of gently beats its wings, the chimes.\n\nSeeker: Oh, so I listen a little bit. Yeah, switch.\n\nDM: Um, it's speaking Draconic. Do you speak Draconic?\n\nSeeker: I don't think so. I mean, that's like basically dragon.\n\nDM: Yeah.\n\nDelwath: Yeah.\n\nSeeker: Um, can't, wouldn't have a reason to speak Draconic.\n\nDM: Yeah, I don't think you do."
+        },
+        {
+          "startUid": "u7687",
+          "endUid": "u7704",
+          "quote": "Okay. Um, you are looking, um, at a, uh... Let's see. A huge chamber that's about 110 feet this way and about, about 100 feet that way. About 100 foot by 110 foot.\n\nUm, this is, uh, you're about 10 feet into the cave. It looks like there's like a, a, the entryway is like a 40 foot by 40 foot by 40 foot cube effectively that branches-\n\nSeeker: There's the entrance room and then the bigger chamber.\n\nDM: Yeah, and then the big chamber. Um, it is lit by sickly green light filtering down from a whole bunch of like sha- like holes far too small for the dragon to get out of, but big enough for like maybe snakes to slither through.\n\nSeeker: Oh, that shaft's fucked.\n\nDM: Um, uh, at the top that's casting light down through the filter to the leaves of the banyan tree, so it's all sort of faintly green light. You see the largest pile of coins you have ever seen in your life."
+        }
+      ],
+      "place": "p25",
+      "mode": "remote",
+      "observerPlace": "p22",
+      "observedActors": [
+        "Mezzar",
+        "four snake people"
+      ]
+    },
+    {
+      "id": "l28",
+      "type": "movement",
+      "source": {
+        "startUid": "u8481",
+        "endUid": "u8483"
+      },
+      "actors": [
+        "party",
+        "Theba",
+        "Obel"
+      ],
+      "reading": "The assault groups sprint to the main entrance and ventilation shafts before initiative.",
+      "evidence": [
+        {
+          "startUid": "u8261",
+          "endUid": "u8269",
+          "quote": "And so-\n\nSeeker: ... front entrance team, the main entrance team.\n\nWellby: ... I mean, the main entrance team, through the dirt team.\n\nUnknown: ...\n\nSeeker: Stone team. Who's the, who's the vent shaft team? That's-\n\nDM: Theba, Kenzo- Yeah, and Delwath ... and Delwath. That's flyers."
+        },
+        {
+          "startUid": "u8481",
+          "endUid": "u8483",
+          "quote": "... I would say it takes you about 40 seconds to get in position, like sprinting flat out, which means you get three rounds of advantage against fright. First three rounds of combat."
+        }
+      ],
+      "from": "p22",
+      "to": "p24",
+      "completion": "arrived",
+      "mode": "run / fly",
+      "duration": {
+        "value": 0.6666666666666666,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s about-forty-second positioning sprint"
+      },
+      "note": "Theba, Kenzo and Delwath use the vent shafts; Seeker, Wellby and Obel use the main entrance. This marker reaches the entrances, not the central cavern."
+    },
+    {
+      "id": "l29",
+      "type": "movement",
+      "source": {
+        "startUid": "u8586",
+        "endUid": "u8589"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo drops from the ceiling into the cavern to attack the dragon.",
+      "evidence": [
+        {
+          "startUid": "u8586",
+          "endUid": "u8589",
+          "quote": "So you're just gonna charge him.\n\nKenzo: [exhales] Yep. Yep. Yep. Kenzo falls from the ceiling- Yep ... screaming, fucking pulls his staff out and..."
+        }
+      ],
+      "from": "p24",
+      "to": "p25",
+      "completion": "arrived",
+      "mode": "fly / fall"
+    },
+    {
+      "id": "l30",
+      "type": "presence",
+      "source": {
+        "startUid": "u8707",
+        "endUid": "u8718"
+      },
+      "actors": [
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Wellby is fighting from the cavern’s vines; Seeker’s subsequent Wall of Stone encloses the snake people there.",
+      "evidence": [
+        {
+          "startUid": "u8707",
+          "endUid": "u8718",
+          "quote": "Tim, what I wanna know is, um, I need to move in order to shoot.\n\nDM: Yep.\n\nWellby: So, but I s- really want advantage even though he's there. Um, so my question is, if I moved, like, here, would I be able to hide somewhere along this? It's dim light. It's unfamiliar terrain, like, is that plausible?\n\nDM: There's a bunch of vines here that you can hide behind.\n\nWellby: Vines that will come to life and attack us shortly?\n\nDM: Possibly- Sure, definitely ... but they're good to hide behind."
+        },
+        {
+          "startUid": "u9101",
+          "endUid": "u9113",
+          "quote": "Okay. Okay. So I cast-\n\nKenzo: They can't get out of that.\n\nSeeker: ... hopefully not uselessly, wall of stone.\n\nUnknown: [die rolling]\n\nKenzo: This feels not... This feels useful.\n\nSeeker: I hope so. So that's a 20-foot wall trapping all f- all four of them in there.\n\nKenzo: This feels really useful.\n\nDM: Yeah.\n\nSeeker: My next question is-\n\nDM: That just, that removes four enemies.\n\nKenzo: Yeah.\n\nDM: So that's great."
+        }
+      ],
+      "place": "p25"
+    },
+    {
+      "id": "l31",
+      "type": "movement",
+      "source": {
+        "startUid": "u9163",
+        "endUid": "u9167"
+      },
+      "actors": [
+        "Theba"
+      ],
+      "reading": "Theba descends the shaft and dashes through the cavern near its ceiling.",
+      "evidence": [
+        {
+          "startUid": "u9163",
+          "endUid": "u9167",
+          "quote": "And she's gotta come down 50 feet before she can get down, so that's up at the top here is 50 feet, 60 feet. Uh, who's, who's close to her? She is just gonna dash to get another 60 feet of movement to be here."
+        }
+      ],
+      "from": "p24",
+      "to": "p25",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l32",
+      "type": "movement",
+      "source": {
+        "startUid": "u9336",
+        "endUid": "u9363"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath flies down into the cavern and moves to the opposite side of the dragon.",
+      "evidence": [
+        {
+          "startUid": "u9336",
+          "endUid": "u9363",
+          "quote": "[sighs] I'm...\n\nDelwath's just gonna dash. [dice rolling] Nine. That's nine, and then he'll get in combat range.\n\nDM: Are you flying also?\n\nDelwath: Uh, okay.\n\nDM: Right. Like- No, he won't be able to quite get in combat.\n\nDelwath: Well... Nine move-\n\nDM: You get 12 squares.\n\nDelwath: ... at the same speed as the bird, so with two moves.\n\nDM: But the bird was at the bottom. Oh, with dash. Dash. Yeah, yeah. Yeah, yeah. So you're doing the same thing Theba, Theba did.\n\nDelwath: Yeah.\n\nDM: Get in combat range, but not-\n\nDelwath: Yeah, and on this side here.\n\nDM: ... be able to do anything.\n\nDelwath: Yeah.\n\nDM: Right.\n\nKenzo: So he's all engaged. So even if he flies away, he's getting a bunch of attacks of opportunity.\n\nDelwath: Yes, and then I will bonus action Hexblade Curse him.\n\nDM: Okay. That ends Delwath's turn. [die rolling] Kenzo, you are up.\n\nSeeker: How much damage have we done to this thing so far?"
+        }
+      ],
+      "from": "p24",
+      "to": "p25",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l33",
+      "type": "presence",
+      "source": {
+        "startUid": "u11221",
+        "endUid": "u11231"
+      },
+      "actors": [
+        "party",
+        "Theba",
+        "Obel"
+      ],
+      "reading": "Obel’s crab form finishes the snake people in the lair before the party reviews the hoard.",
+      "evidence": [
+        {
+          "startUid": "u11221",
+          "endUid": "u11231",
+          "quote": "Rolls down the pile. Just because it's no fun to play it out after the dragon dies, the crabs and the snakes battle it out [die rolling] for 10 minutes. [upbeat music]\n\nWellby: [laughs] We all just kinda stand there like...\n\nKenzo: We all just like stand-\n\nDM: [laughs]\n\nDelwath: Whoa.\n\nUnknown: [laughs]\n\nDM: And then, like, after all the snakes are, like, dead in this, like, bloody pile around the crab, the... You drop concentration and this, like, confused ranger who looks around like, \"Did I do that?\" [laughs]"
+        },
+        {
+          "startUid": "u11254",
+          "endUid": "u11255",
+          "quote": "15, including potions and scrolls. 15 magic items."
+        }
+      ],
+      "place": "p25"
+    }
+  ],
+  "limitations": "The source jumps from the village approach at u4011 to a sunset feast referring to an already-completed jade meeting at u4032–u4049. It ends at u11543 after loot and table closing; the denouement proposed at u11361–u11367 is not present."
+}

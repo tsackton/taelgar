@@ -1,0 +1,252 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-time-markers.json",
+    "sha256": "9959ec20d48c7793c13c055e256a1a9f4696830192a5223244b2b5cbb4295aa8"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-transcript.md",
+    "sha256": "b6d25e9a2cb73961cea8b381ab1d3384634960174aa2cb41e7a1f81237b97253"
+  },
+  "dateAssessment": "The working anchor is the explicitly spoken August 6th (t11), with DR 1748 supplied only by YAML. The first ambush day is therefore provisionally August 5th. YAML instead records September 6–30 and 24 date boundaries. The first three-day montage permits roughly August 8–9 for the feast and August 9–10 for the following morning, depending on inclusive travel-day counting. Later rows use relative lair-journey days because its departure date is not spoken. The repeated three-day journey summary and the described third-day camp followed by next-day arrival are retained together. The separate campaign Session 52 note dates arrival September 10, departure September 12, battle September 15, and additional events through September 30; those are context, not replacements for missing transcript coverage. Prayer and sleep tracks overlap the same feast night. The source-timeline sidecar uses cumulative recorded-audio offsets across two parts and inserts no real-world break; the recording measures below are timestamp extent and interval unions, not wall-clock session length or speaker-stat sums.",
+  "watches": [
+    {
+      "day": "Earlier history — God-tree vision",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The nursery’s generations culminate in a post-Great-War battle; no adventure-time duration is established.",
+      "markers": [
+        "t01"
+      ],
+      "clock": "local",
+      "scope": "historical mirror vision"
+    },
+    {
+      "day": "August 5, 1748",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Four hours of waiting place arrival near 9 a.m. and Mezzar’s approach near 1 p.m.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1748-08-05",
+      "endDate": "1748-08-05"
+    },
+    {
+      "day": "August 5, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "One-minute approach; fifteen-minute memorial includes Baxter’s ten-minute reunion. Departure is still placed around 1 p.m.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-08-05",
+      "endDate": "1748-08-05"
+    },
+    {
+      "day": "August 5, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "The revised ten-hour ride reaches the rendezvous around 10–11 p.m.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-08-05",
+      "endDate": "1748-08-05"
+    },
+    {
+      "day": "August 5–6, 1748",
+      "startWatch": "midnight",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Delwath’s four-hour elven rest runs from roughly 10 p.m. until 2 a.m.",
+      "markers": [
+        "t09"
+      ],
+      "scope": "Delwath",
+      "startDate": "1748-08-05",
+      "endDate": "1748-08-06"
+    },
+    {
+      "day": "August 6, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Scries resolve at 2 a.m., 4 a.m. and daybreak; the DM explicitly says August 6th.",
+      "markers": [
+        "t10",
+        "t11",
+        "t12",
+        "t13"
+      ],
+      "scope": "Delwath",
+      "startDate": "1748-08-06",
+      "endDate": "1748-08-06"
+    },
+    {
+      "day": "August 6, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Everyone wakes rested around 8 a.m.; Theba arrives and the forest trek follows.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1748-08-06",
+      "endDate": "1748-08-06"
+    },
+    {
+      "day": "During August 8–9, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Three-day trek ends at the final path; watching Frankar’s apparition adds five minutes.",
+      "markers": [
+        "t15",
+        "t16"
+      ],
+      "dateWindow": [
+        "1748-08-08",
+        "1748-08-09"
+      ]
+    },
+    {
+      "day": "During August 8–9, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The resumed recording explicitly places the village feast at sunset.",
+      "markers": [
+        "t17"
+      ],
+      "dateWindow": [
+        "1748-08-08",
+        "1748-08-09"
+      ]
+    },
+    {
+      "day": "Feast night — Delwath",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Delwath retrospectively spends the feast night interpreting the streamside communion’s images.",
+      "markers": [
+        "t29"
+      ],
+      "scope": "Delwath’s prayer"
+    },
+    {
+      "day": "Feast night → following morning",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Kenzo and Alayah sleep with joined jade necklaces and wake together the next morning.",
+      "markers": [
+        "t18",
+        "t20"
+      ],
+      "scope": "Kenzo and Alayah"
+    },
+    {
+      "day": "Inside the shared dream",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The dream’s sun approaches noon while the two sleepers remain in their nighttime quarters.",
+      "markers": [
+        "t19"
+      ],
+      "clock": "local",
+      "scope": "shared dream of Rai"
+    },
+    {
+      "day": "During August 9–10, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Theba reports all-night prayer; Kenzo gathers stories and gives blue-linked figurines before the hunt.",
+      "markers": [
+        "t30",
+        "t25"
+      ],
+      "dateWindow": [
+        "1748-08-09",
+        "1748-08-10"
+      ],
+      "sourceRanges": [
+        [
+          "u6906",
+          "u6912"
+        ],
+        [
+          "u7038",
+          "u7046"
+        ]
+      ]
+    },
+    {
+      "day": "Third lair-travel day",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The third travel morning begins with hotter, denser, unusually silent forest.",
+      "markers": [
+        "t22"
+      ]
+    },
+    {
+      "day": "Third lair-travel day → following day",
+      "startWatch": "morning",
+      "endWatch": null,
+      "basis": "mixed",
+      "summary": "Dense jungle takes most of the day; they camp before continuing on the following day.",
+      "markers": [
+        "t23"
+      ]
+    },
+    {
+      "day": "Lair-arrival day",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Mid-afternoon arrival follows another camp; the overall journey is narrated as three days.",
+      "markers": [
+        "t21",
+        "t24"
+      ]
+    },
+    {
+      "day": "Lair day, after arrival",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Forty seconds to sprint into position; the post-dragon crab fight lasts about ten minutes.",
+      "markers": [
+        "t26",
+        "t27",
+        "t28"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Supplemental two-part source timeline",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-052/sources/supplemental/01-dunmar-frontier-052-source-timeline.json",
+      "sha256": "138d88032c7c2f1713f38feee023c250954f662fbe045ca8baa7de758ccbbab3"
+    },
+    {
+      "label": "Dated campaign Session 52 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 52 (DuFr).md",
+      "sha256": "6641e51b6efa1c14ac3db01593ec8da3676d565b4941b255494fb99ec5715dfd"
+    }
+  ]
+}

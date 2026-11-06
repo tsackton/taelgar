@@ -1,0 +1,142 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-052",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-session.yaml",
+    "sessionYamlSha256": "ddec65bca4151bda6c4d341d4e8da005f4375adb38b70bce926e3b446d0e33be",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-transcript.md",
+    "transcriptSha256": "b6d25e9a2cb73961cea8b381ab1d3384634960174aa2cb41e7a1f81237b97253"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0895"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0896",
+        "endUid": "u2915"
+      },
+      "category": "combat",
+      "note": "Initiative begins with Wellby’s attack declaration; the encounter includes the continuing ordered escape until combat is explicitly stopped."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u2916",
+        "endUid": "u4011"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u4012",
+        "endUid": "u4031"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u4032",
+        "endUid": "u5164"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u5165",
+        "endUid": "u5223"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u5224",
+        "endUid": "u5253"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u5254",
+        "endUid": "u5298"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u5299",
+        "endUid": "u5533"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u5534",
+        "endUid": "u5763"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u5764",
+        "endUid": "u8335"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u8336",
+        "endUid": "u8349"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u8350",
+        "endUid": "u8487"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u8488",
+        "endUid": "u11231"
+      },
+      "category": "combat",
+      "note": "The continuous encounter includes the ten-minute compressed crab-versus-snakes resolution after the dragon falls."
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u11232",
+        "endUid": "u11519"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u11520",
+        "endUid": "u11543"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

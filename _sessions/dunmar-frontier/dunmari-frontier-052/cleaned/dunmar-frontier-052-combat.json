@@ -1,0 +1,1122 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-052",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-session.yaml",
+    "sessionYamlSha256": "ddec65bca4151bda6c4d341d4e8da005f4375adb38b70bce926e3b446d0e33be",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-transcript.md",
+    "transcriptSha256": "b6d25e9a2cb73961cea8b381ab1d3384634960174aa2cb41e7a1f81237b97253",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-052/cleaned/dunmar-frontier-052-segments.json",
+      "sha256": "a6a95c7f30e6b28d3c0f47cdbfae80a336061d661a14976cbb91e5660b8a9d8c",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Mezzar at the god tree",
+      "note": "After discussion, the accepted order is Wellby, Kenzo, Seeker, Mezzar, the Deno’qai, and Delwath. Only the Deno’qai are surprised. Mezzar already knows Wellby is concealed above the ground.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Aims from the suspended platform and hits Mezzar with a flaming arrow for 24 ordinary damage and 10 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u1280",
+                  "endUid": "u1300"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs 45 feet down the tree and jumps to Mezzar. Uses Soul Sight Study, then hits twice with unarmed Stunning Strikes; Mezzar succeeds on both saves. Inspiration turns the second attack from an 18 miss into a 23 hit. The first hit deals 6 damage; the second is initially 10, with an inspiration damage addition.",
+              "evidence": [
+                {
+                  "startUid": "u1310",
+                  "endUid": "u1459"
+                },
+                {
+                  "startUid": "u1652",
+                  "endUid": "u1657"
+                },
+                {
+                  "startUid": "u2514",
+                  "endUid": "u2520"
+                }
+              ],
+              "note": "The damage discussion alternates between a +5 inspiration addition and a final 13; no single corrected second-hit total is securely established. Soul Sight reports level 12, strongest Charisma, weakest Dexterity, no active spells or resistances; later narration confirms that the apparent level was false."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Polymorph on himself, becoming a huge giant crab, and commands the animated ladder to attack.",
+              "evidence": [
+                {
+                  "startUid": "u1480",
+                  "endUid": "u1493"
+                }
+              ]
+            },
+            {
+              "actor": "Rope ladder",
+              "kind": "turn",
+              "summary": "Hits Mezzar with a force-empowered slam for 11 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u1495",
+                  "endUid": "u1526"
+                }
+              ]
+            },
+            {
+              "actor": "Mezzar",
+              "kind": "turn",
+              "summary": "Succeeds on the fire-effect save with 13. Attempts to dominate crab-form Seeker: Seeker rolls 11 on Wisdom, but the crab’s charm immunity prevents domination. Reveals his green-dragon form and uses frightful presence; Kenzo becomes frightened, the other two humanoid PCs report 18s, and crab-form Seeker is immune.",
+              "evidence": [
+                {
+                  "startUid": "u1531",
+                  "endUid": "u1630"
+                }
+              ]
+            },
+            {
+              "actor": "Zevi and the Deno’qai",
+              "kind": "turn",
+              "summary": "Lose their first turn to surprise.",
+              "evidence": [
+                {
+                  "startUid": "u1149",
+                  "endUid": "u1167"
+                },
+                {
+                  "startUid": "u1628",
+                  "endUid": "u1630"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses Hexblade’s Curse, replacing the proposed Banishing Smite. His first attack misses; the second critically hits, with damage corrected from 14 to 18 for the curse. Appeals to the Deno’qai to help, rolling 18 on Persuasion with disadvantage; no allegiance change resolves.",
+              "evidence": [
+                {
+                  "startUid": "u1761",
+                  "endUid": "u1814"
+                },
+                {
+                  "startUid": "u1821",
+                  "endUid": "u1854"
+                }
+              ]
+            },
+            {
+              "actor": "Mezzar",
+              "kind": "legendary_action",
+              "summary": "Buffets his wings. The ground-level PCs and flying ladder fail the Dexterity resolution, take 15 bludgeoning damage, and fall prone; the ladder falls to the ground. Wellby’s platform is outside the effect. The dragon rises to 40 feet; the initially offered opportunity attacks are withdrawn because this movement does not provoke.",
+              "evidence": [
+                {
+                  "startUid": "u1815",
+                  "endUid": "u1910"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "event",
+              "summary": "Fails the retrospectively requested Constitution concentration save with 9 for the wing damage; Polymorph ends, leaving him prone in his own form.",
+              "evidence": [
+                {
+                  "startUid": "u2024",
+                  "endUid": "u2031"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and hits for 28 damage, spending the remaining two pyrotechnic charges on fireworks. Mezzar’s Constitution result of 19 beats DC 13, so he is not blinded.",
+              "evidence": [
+                {
+                  "startUid": "u1928",
+                  "endUid": "u1956"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends his action ending fright, stands using half his movement, and starts running up the tree with 20 feet remaining. Rechecks Mezzar with bonus-action Soul Sight; the same misleading reading remains.",
+              "evidence": [
+                {
+                  "startUid": "u1957",
+                  "endUid": "u1984"
+                },
+                {
+                  "startUid": "u2091",
+                  "endUid": "u2101"
+                }
+              ]
+            },
+            {
+              "actor": "Mezzar",
+              "kind": "legendary_action",
+              "summary": "Strikes Kenzo on the tree trunk with his tail: 23 hits for 11 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u1990",
+                  "endUid": "u2008"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Stands, backs away, and attempts to Polymorph the dragon into an earthworm. Mezzar succeeds on the Wisdom save with 23. Commands the ladder toward a grapple.",
+              "evidence": [
+                {
+                  "startUid": "u2137",
+                  "endUid": "u2147"
+                },
+                {
+                  "startUid": "u2164",
+                  "endUid": "u2168"
+                }
+              ]
+            },
+            {
+              "actor": "Rope ladder",
+              "kind": "turn",
+              "summary": "Uses 15 feet to stand and dashes upward to about 45 feet, beside the dragon; cannot also grapple this turn.",
+              "evidence": [
+                {
+                  "startUid": "u2149",
+                  "endUid": "u2163"
+                }
+              ]
+            },
+            {
+              "actor": "Mezzar",
+              "kind": "turn",
+              "summary": "Rises to 60 feet and breathes a 60-foot poison cone over the party and Deno’qai. DC 18 Constitution: failure takes 51 poison, success 25. Wellby succeeds and cannot use Evasion against Constitution. Kenzo fails; Delwath falls unconscious. All six Deno’qai, including Zevi, die. The ladder’s provisional damage is corrected to zero because it is immune to poison.",
+              "evidence": [
+                {
+                  "startUid": "u2169",
+                  "endUid": "u2327"
+                }
+              ],
+              "note": "Speech overlaps obscure Seeker’s final save/damage. The 17 and provisional 51 damage at u2310–u2317 are explicitly reassigned to the ladder; they do not establish Seeker’s final damage."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Succeeds on his first death saving throw.",
+              "evidence": [
+                {
+                  "startUid": "u2329",
+                  "endUid": "u2330"
+                }
+              ]
+            },
+            {
+              "actor": "Mezzar",
+              "kind": "legendary_action",
+              "summary": "Tail attack hits Wellby for 15 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u2339",
+                  "endUid": "u2369"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses his damage-halving reaction to reduce the tail hit from 15 to 7. His rejected Evasion attempt against the breath did not consume it.",
+              "evidence": [
+                {
+                  "startUid": "u2347",
+                  "endUid": "u2369"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Activates the Raven’s Whistle and flies 240 feet behind the tree toward the forest; he remains in the open but is initially out of the dragon’s sight.",
+              "evidence": [
+                {
+                  "startUid": "u2411",
+                  "endUid": "u2487"
+                },
+                {
+                  "startUid": "u2592",
+                  "endUid": "u2598"
+                }
+              ]
+            },
+            {
+              "actor": "Mezzar",
+              "kind": "legendary_action",
+              "summary": "Hits the ladder with his tail for 18 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2491",
+                  "endUid": "u2510"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends ki to sprint 135 feet away, choosing a different direction from Wellby. The airborne dragon cannot make an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u2531",
+                  "endUid": "u2565"
+                }
+              ]
+            },
+            {
+              "actor": "Mezzar",
+              "kind": "legendary_action",
+              "summary": "Hits the ladder again with his tail for 12 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2567",
+                  "endUid": "u2575"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Runs to unconscious Delwath, grabs his foot, and uses his last fourth-level slot for Dimension Door, taking both 500 feet into the woods behind the tree.",
+              "evidence": [
+                {
+                  "startUid": "u2576",
+                  "endUid": "u2598"
+                }
+              ]
+            },
+            {
+              "actor": "Mezzar",
+              "kind": "turn",
+              "summary": "Bites the remaining ladder for 24 and hits with both claws for a further stated 24. The second claw tears the ladder apart. Flies 80 feet after Kenzo, who is still ahead in the clearing.",
+              "evidence": [
+                {
+                  "startUid": "u2616",
+                  "endUid": "u2663"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Succeeds on his second death saving throw.",
+              "evidence": [
+                {
+                  "startUid": "u2664",
+                  "endUid": "u2667"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fires a distracting shot that misses, taunts the dragon, and uses movement plus Cunning Action to fly 160 feet into the forest.",
+              "evidence": [
+                {
+                  "startUid": "u2687",
+                  "endUid": "u2707"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends another ki and runs beneath the forest canopy.",
+              "evidence": [
+                {
+                  "startUid": "u2708",
+                  "endUid": "u2717"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts third-level Healing Word, restoring 10 hit points to Delwath, then continues moving through the woods with him.",
+              "evidence": [
+                {
+                  "startUid": "u2718",
+                  "endUid": "u2757"
+                }
+              ]
+            },
+            {
+              "actor": "Mezzar",
+              "kind": "turn",
+              "summary": "Flies over the forest and perches about 100 feet up to search for Kenzo. Kenzo’s running Stealth check has disadvantage and totals 12; Mezzar sees him, but is out of spell range. Threatens that Kenzo will not escape forever and that the Deno’qai will come for him.",
+              "evidence": [
+                {
+                  "startUid": "u2786",
+                  "endUid": "u2824"
+                },
+                {
+                  "startUid": "u2871",
+                  "endUid": "u2894"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Invisibility on himself and Seeker after recovering, and continues their escape. The narration later returns to his initiative position and confirms Invisibility; this is one casting.",
+              "evidence": [
+                {
+                  "startUid": "u2721",
+                  "endUid": "u2757"
+                },
+                {
+                  "startUid": "u2897",
+                  "endUid": "u2900"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All four PCs escape alive into the forest; Delwath has been revived. The rope ladder and all six Deno’qai are dead. Mezzar flies toward the village and combat is explicitly stopped.",
+        "evidence": [
+          {
+            "startUid": "u2907",
+            "endUid": "u2915"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s014",
+      "encounter": "Grimbaskal’s banyan-tree lair",
+      "note": "The regular cycle is Kenzo, Wellby, the lair, Grimbaskal, Seeker, Theba, Obel, the snake people, and Delwath. Lair effects occur just before the dragon’s initiative-19 turn. Prearranged blessings and poison protection are already in effect; the opening fright saves retain the spear’s advantage.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Descends through a ceiling shaft and charges the dragon while hasted. His staff attack sequence includes two misses and an 8-damage hit; a Flurry of Blows critically hits for 10, while the other declared attacks miss. Grimbaskal succeeds on the Stunning Strike saves, including a 22 against DC 15. A provisional fright save succeeds; later clarification says the fright rider requires Soul Sight, which Kenzo did not activate. The successful flurry prevents reactions until Kenzo’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u8548",
+                  "endUid": "u8694"
+                },
+                {
+                  "startUid": "u8786",
+                  "endUid": "u8807"
+                }
+              ],
+              "note": "The table revisits the “fifth” attack after already describing the flurry. The resolved damage is 8 plus 10; the repeated counting does not establish another damaging hit."
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "legendary_action",
+              "summary": "Tail attack hits Kenzo with 27 for 15 damage despite his hasted AC 20.",
+              "evidence": [
+                {
+                  "startUid": "u8695",
+                  "endUid": "u8705"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves with doubled speed and tries hiding behind vines; Stealth 19 does not hide him. His first arrow still gains Sneak Attack from an adjacent ally and deals 21. His hasted caustic arrow misses but one charge still deals 6 acid damage, half its normal miss-adjusted effect: 27 total this turn.",
+              "evidence": [
+                {
+                  "startUid": "u8707",
+                  "endUid": "u8780"
+                }
+              ]
+            },
+            {
+              "actor": "Lair",
+              "kind": "lair_action",
+              "summary": "Rotting roots grasp a 20-foot area around Wellby. He fails a Strength save with 12 and is restrained without damage; the area becomes difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u8805",
+                  "endUid": "u8838"
+                },
+                {
+                  "startUid": "u9725",
+                  "endUid": "u9728"
+                }
+              ]
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "turn",
+              "summary": "Uses frightful presence, DC 16 Wisdom with spear-granted advantage: Delwath 17, Wellby 20, and Theba 18 succeed; Kenzo, Seeker, and Obel are frightened. The chain ladder is immune. Bites Kenzo and misses with 13, then flies away toward restrained Wellby and lands two claw hits with advantage for 10 and 9 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u8844",
+                  "endUid": "u9002"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Makes a frightened opportunity attack with disadvantage as the dragon leaves him; 18 misses.",
+              "evidence": [
+                {
+                  "startUid": "u8967",
+                  "endUid": "u8977"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the first claw, reducing 10 to 5; takes 14 total from the two claws.",
+              "evidence": [
+                {
+                  "startUid": "u8992",
+                  "endUid": "u9000"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Wall of Stone, enclosing all four snake people behind a 20-foot wall, and keeps concentration on it. Commands the chain ladder forward. Fails his end-of-turn save against fright and remains frightened.",
+              "evidence": [
+                {
+                  "startUid": "u9101",
+                  "endUid": "u9156"
+                }
+              ]
+            },
+            {
+              "actor": "Chain ladder",
+              "kind": "turn",
+              "summary": "Dashes 60 feet to the dragon beside Wellby, supplying an adjacent ally for Sneak Attack. Makes no attack because it dashed.",
+              "evidence": [
+                {
+                  "startUid": "u9115",
+                  "endUid": "u9147"
+                }
+              ]
+            },
+            {
+              "actor": "Theba",
+              "kind": "turn",
+              "summary": "Flies down the shaft and dashes toward the dragon. Cannot cast the proposed Sanctuary on Wellby because she is too far away.",
+              "evidence": [
+                {
+                  "startUid": "u9160",
+                  "endUid": "u9185"
+                }
+              ]
+            },
+            {
+              "actor": "Obel",
+              "kind": "turn",
+              "summary": "Cannot advance while frightened. Fires his longbow and misses with 15; a second attack is mentioned but not separately resolved. Fails his fright save with 5.",
+              "evidence": [
+                {
+                  "startUid": "u9189",
+                  "endUid": "u9211"
+                }
+              ]
+            },
+            {
+              "actor": "Snake people",
+              "kind": "turn",
+              "summary": "Attack one 90-hit-point stone panel with scimitars; about two thirds hit, dealing 30 damage collectively.",
+              "evidence": [
+                {
+                  "startUid": "u9213",
+                  "endUid": "u9259"
+                }
+              ]
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "legendary_action",
+              "summary": "Tail attack against restrained Wellby has advantage; 29 hits for 13 damage.",
+              "evidence": [
+                {
+                  "startUid": "u9261",
+                  "endUid": "u9275"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow beast",
+              "kind": "turn",
+              "summary": "Flies from the bottom of the shaft into range, fails to hide, and misses the dragon with a 17. The table permits it to act before Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u9279",
+                  "endUid": "u9306"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Flies down the shaft and dashes into melee on the opposite side of the dragon. Uses bonus-action Hexblade’s Curse; has no attack left after dashing.",
+              "evidence": [
+                {
+                  "startUid": "u9311",
+                  "endUid": "u9362"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses his action to end fright before moving above the dragon. Hits with his hasted staff attack for 11; the dragon fails the Stunning Strike save and spends one legendary resistance. Chooses Flurry of Blows instead of Soul Sight; both unarmed attacks miss. The attack-count dispute resolves to three attacks this turn.",
+              "evidence": [
+                {
+                  "startUid": "u9373",
+                  "endUid": "u9505"
+                }
+              ]
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "legendary_action",
+              "summary": "Wing buffet targets creatures within 10 feet; Theba is outside it. Kenzo succeeds on Dexterity and takes zero with Evasion. Wellby fails, takes 5 with Evasion, and is prone as well as restrained. The chain ladder fails with 8, takes 11, and falls prone. The shadow beast fails and falls; magically flying creatures are ruled able to remain aloft. Delwath uses a Mote of Fate and succeeds, taking 5. The dragon moves half speed without provoking opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u9507",
+                  "endUid": "u9626"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Stands, then escapes the roots with an action and an advantaged Acrobatics 22. Cannot use Steady Aim after standing; moves with his remaining 40 feet and fires his hasted shot, missing with 17 and gaining no Sneak Attack.",
+              "evidence": [
+                {
+                  "startUid": "u9637",
+                  "endUid": "u9697"
+                }
+              ]
+            },
+            {
+              "actor": "Lair",
+              "kind": "lair_action",
+              "summary": "The restraining vines vanish and a five-foot-thick wall of thorns rises, 10 feet tall and 60 feet long, blocking the ground party’s sight of the dragon.",
+              "evidence": [
+                {
+                  "startUid": "u9698",
+                  "endUid": "u9728"
+                },
+                {
+                  "startUid": "u9823",
+                  "endUid": "u9829"
+                }
+              ]
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "turn",
+              "summary": "Lands and breathes poison upward at Kenzo, Delwath, and Theba. Theba’s nearby aura adds +4 to saves and all have poison resistance. Kenzo’s Constitution 18 succeeds for 12 poison damage; Delwath’s 15 and Theba’s natural 1 fail for 25 each. Delwath’s temporary Armor of Agathys protection absorbs the hit and is exhausted.",
+              "evidence": [
+                {
+                  "startUid": "u9723",
+                  "endUid": "u9818"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fourth-level Erupting Earth at a visible point beside the thorns, catching the dragon. Its Dexterity 20 succeeds against DC 17, reducing 17 rolled damage to 8. The blast destroys sections of the thorn wall and makes difficult terrain. Maintains Wall of Stone rather than casting Heat Metal; fails another fright save.",
+              "evidence": [
+                {
+                  "startUid": "u9840",
+                  "endUid": "u9907"
+                },
+                {
+                  "startUid": "u9998",
+                  "endUid": "u10022"
+                }
+              ]
+            },
+            {
+              "actor": "Chain ladder",
+              "kind": "turn",
+              "summary": "Stands and grapples the dragon. The proposed force slam is replaced by a Strength contest; the ladder’s corrected 24 beats the dragon’s 20. Its chains bind the wings and set the dragon’s speed to zero, without imposing restrained. Also selects Irrepressible Dance to reduce the dragon’s walking speed by 10 at the relevant turn start; this does not reduce flying speed.",
+              "evidence": [
+                {
+                  "startUid": "u9910",
+                  "endUid": "u9996"
+                }
+              ]
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "legendary_action",
+              "summary": "Tail attack hits the grappling chain ladder with 17 for 9 damage.",
+              "evidence": [
+                {
+                  "startUid": "u10023",
+                  "endUid": "u10038"
+                }
+              ]
+            },
+            {
+              "actor": "Theba",
+              "kind": "turn",
+              "summary": "Flies over the thorns to Wellby and uses Lay on Hands to restore 30 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u10042",
+                  "endUid": "u10089"
+                }
+              ]
+            },
+            {
+              "actor": "Obel",
+              "kind": "turn",
+              "summary": "Fires two longbow shots: the first misses and the second hits for 15. His continuing fright imposes disadvantage on these attacks.",
+              "evidence": [
+                {
+                  "startUid": "u10088",
+                  "endUid": "u10099"
+                },
+                {
+                  "startUid": "u10536",
+                  "endUid": "u10545"
+                }
+              ]
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "legendary_action",
+              "summary": "Hits the chain ladder with another tail attack for 20 damage.",
+              "evidence": [
+                {
+                  "startUid": "u10110",
+                  "endUid": "u10123"
+                }
+              ]
+            },
+            {
+              "actor": "Snake people",
+              "kind": "turn",
+              "summary": "Deal another 30 damage to the same wall panel, bringing its damage to 60.",
+              "evidence": [
+                {
+                  "startUid": "u10132",
+                  "endUid": "u10139"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves and attacks twice: first misses, second deals 13. Activates his ring to impose disadvantage on attacks against him.",
+              "evidence": [
+                {
+                  "startUid": "u10142",
+                  "endUid": "u10148"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow beast",
+              "kind": "turn",
+              "summary": "Flies in, hits with 20 for 6 damage, and moves away to spread out from allies.",
+              "evidence": [
+                {
+                  "startUid": "u10149",
+                  "endUid": "u10171"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves around the dragon and makes his hasted attack sequence. Staff hits deal 11 and 9; the two Stunning Strike Constitution saves succeed with 22 and 16 against his confirmed DC 15. An unarmed flurry hit deals 15; the remaining flurry and hasted attacks miss.",
+              "evidence": [
+                {
+                  "startUid": "u10173",
+                  "endUid": "u10251"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and shoots without advantage. His first shot misses; his hasted shot hits for 27 regular plus 9 fire damage. The dragon is now visibly bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u10252",
+                  "endUid": "u10281"
+                }
+              ]
+            },
+            {
+              "actor": "Lair",
+              "kind": "lair_action",
+              "summary": "The thorn wall vanishes. A departing vine branch strikes at Theba, but she blocks it with her shield.",
+              "evidence": [
+                {
+                  "startUid": "u10283",
+                  "endUid": "u10295"
+                }
+              ]
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "turn",
+              "summary": "Succeeds on the lingering fire Constitution save with 28 against DC 13. Bites Kenzo for 18 piercing and 7 poison, recorded as 25 total, leaving him at 5 hit points. Hits the chain ladder with a claw for 11, then critically hits it for 25 and bursts it apart, ending the grapple. Flies away to about 50 feet up and visibly draws breath for another poison attack.",
+              "evidence": [
+                {
+                  "startUid": "u10296",
+                  "endUid": "u10410"
+                }
+              ],
+              "note": "The bite’s full 7 poison damage is applied in the spoken total despite earlier poison protection; this preserves the table’s recorded result."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Hits the departing dragon with an opportunity attack for 13 damage. The suggested smite was a joke and was not cast here.",
+              "evidence": [
+                {
+                  "startUid": "u10373",
+                  "endUid": "u10412"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Rolls his permitted opportunity attack as the dragon flies away; no unambiguous numerical result or final damage is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u10413",
+                  "endUid": "u10418"
+                }
+              ],
+              "note": "Nearby commentary suggests doubled dice, but does not securely establish the roll or damage."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Restores 10 hit points to Kenzo with Healing Word. Repeats his frightened save, remembering Bless, but still fails.",
+              "evidence": [
+                {
+                  "startUid": "u10433",
+                  "endUid": "u10468"
+                }
+              ]
+            },
+            {
+              "actor": "Theba",
+              "kind": "turn",
+              "summary": "Flies beside Kenzo and casts second-level Cure Wounds for 9 healing, then hangs back rather than making an attack.",
+              "evidence": [
+                {
+                  "startUid": "u10472",
+                  "endUid": "u10530"
+                }
+              ]
+            },
+            {
+              "actor": "Obel",
+              "kind": "turn",
+              "summary": "Still frightened and unable to approach; both long-range longbow attacks with disadvantage miss.",
+              "evidence": [
+                {
+                  "startUid": "u10536",
+                  "endUid": "u10545"
+                }
+              ]
+            },
+            {
+              "actor": "Snake people",
+              "kind": "turn",
+              "summary": "Break the targeted stone panel after dealing 90 damage to it in total.",
+              "evidence": [
+                {
+                  "startUid": "u10536",
+                  "endUid": "u10547"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Flies diagonally into attack range. His first attack misses with 16 and the second hits with 20. Retrospectively declares bonus-action Banishing Smite, accepted by the DM; the resolved damage is stated as 53, without banishing the dragon.",
+              "evidence": [
+                {
+                  "startUid": "u10552",
+                  "endUid": "u10607"
+                }
+              ],
+              "note": "The base-hit and added-dice arithmetic is unclear (11 and later 37 are spoken); 53 is the accepted final total rather than a reconstructed sum."
+            },
+            {
+              "actor": "Shadow beast",
+              "kind": "event",
+              "summary": "Ends when Delwath changes concentration to Banishing Smite. A further hit for 7 is initially narrated, but the later explicit concentration correction removes the creature; no continuing beast turn is asserted.",
+              "evidence": [
+                {
+                  "startUid": "u10609",
+                  "endUid": "u10617"
+                },
+                {
+                  "startUid": "u10713",
+                  "endUid": "u10718"
+                }
+              ],
+              "note": "The transcript does not explicitly revise the dragon’s accumulated damage after this correction."
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "legendary_action",
+              "summary": "Uses a tail attack against Delwath, replacing a contemplated wing buffet, and deals 15 damage.",
+              "evidence": [
+                {
+                  "startUid": "u10619",
+                  "endUid": "u10635"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Shadow Rebuke in response to the tail hit, dealing 9 damage; DC 17 is stated, but the saving-throw ability and result are not audible.",
+              "evidence": [
+                {
+                  "startUid": "u10630",
+                  "endUid": "u10644"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks from above: first staff attack misses, second hits for 6, and the hasted staff attack hits for 8. Saves ki instead of attempting another stun, then misses in the declared two-strike flurry.",
+              "evidence": [
+                {
+                  "startUid": "u10652",
+                  "endUid": "u10700"
+                }
+              ],
+              "note": "Only one flurry roll receives a clear spoken resolution; no additional hit is inferred."
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "legendary_action",
+              "summary": "Uses wing buffet. Kenzo’s Dexterity 22/23 succeeds for zero with Evasion; Delwath fails and takes 13. The shadow beast is confirmed already gone because its concentration ended.",
+              "evidence": [
+                {
+                  "startUid": "u10702",
+                  "endUid": "u10718"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim. Inspiration turns an 18 miss into a hit with maximized damage, resolving to 38. His second attack, a caustic-arrow charge, critically hits for 26 acid damage on 8d4: 64 total. Three caustic charges remain.",
+              "evidence": [
+                {
+                  "startUid": "u10745",
+                  "endUid": "u10819"
+                }
+              ]
+            },
+            {
+              "actor": "Lair",
+              "kind": "lair_action",
+              "summary": "Healing mists swarm around the dragon and wash away acid wounds, restoring an unstated number of hit points.",
+              "evidence": [
+                {
+                  "startUid": "u10839",
+                  "endUid": "u10858"
+                }
+              ]
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "turn",
+              "summary": "Flies into position for another poison breath, provoking Kenzo. Breath catches the ground group: Wellby fails Constitution with 15 and takes 28 after resistance; Seeker succeeds with Bless and Theba’s +4 aura and takes 13; Theba and Obel fail and take 26 each after resistance. All remain standing, Theba badly hurt. Takes 6 lingering acid damage, not doubled for the critical, then uses remaining movement behind the stone wall near the snake people, still about 10 feet up.",
+              "evidence": [
+                {
+                  "startUid": "u10862",
+                  "endUid": "u10994"
+                }
+              ],
+              "note": "The breath initially announces 56 damage but later uses 26 as the resisted failed-save amount. Named damage recipients include Wellby, while u10947 names Delwath in a four-person list; the target list is inconsistent and remains open."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Opportunity attack hits the moving dragon for 9; the DM says that would have killed it without the lair healing. Does not add Stunning Strike.",
+              "evidence": [
+                {
+                  "startUid": "u10880",
+                  "endUid": "u10903"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Polymorphs Obel into a huge giant crab, ending concentration on Wall of Stone so the remaining walls vanish. Still fails his frightened save.",
+              "evidence": [
+                {
+                  "startUid": "u10995",
+                  "endUid": "u11028"
+                }
+              ]
+            },
+            {
+              "actor": "Theba",
+              "kind": "turn",
+              "summary": "Flies in and hits with her magical spear and a smite, its head manifesting a biting bear. Damage is not stated. Her second attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u11040",
+                  "endUid": "u11065"
+                }
+              ]
+            },
+            {
+              "actor": "Obel",
+              "kind": "turn",
+              "summary": "As a giant crab, dashes toward the snake people; cannot also attack after dashing.",
+              "evidence": [
+                {
+                  "startUid": "u11066",
+                  "endUid": "u11076"
+                }
+              ]
+            },
+            {
+              "actor": "Snake people",
+              "kind": "turn",
+              "summary": "Cannot reach airborne Theba, so surround crab-form Obel. Their collective attacks include misses, hits, and a natural 20, resolving to about 40 damage to the crab. This does not require Obel to maintain Seeker’s concentration.",
+              "evidence": [
+                {
+                  "startUid": "u11077",
+                  "endUid": "u11126"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Flies above the dragon and uses his potion of advantage on the first attack, hitting for 13. His second attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u11130",
+                  "endUid": "u11160"
+                }
+              ]
+            },
+            {
+              "actor": "Grimbaskal",
+              "kind": "legendary_action",
+              "summary": "Wing attack catches Delwath and Theba. Both fail Dexterity and take 14; Theba is left with 3 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u11161",
+                  "endUid": "u11174"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Flies over with his staff runes glowing blue. First staff attack misses with 16; second critically hits, reducing the dragon from 12 to 4 hit points. Follows with a glowing unarmed punch for 11, killing the dragon, which falls and rolls down the hoard.",
+              "evidence": [
+                {
+                  "startUid": "u11176",
+                  "endUid": "u11223"
+                }
+              ]
+            },
+            {
+              "actor": "Obel and the snake people",
+              "kind": "event",
+              "summary": "The remaining combat is compressed into ten minutes: crab-form Obel kills all four snake people. Seeker drops Polymorph afterward; Obel returns alive to his own form and looks around in disbelief.",
+              "evidence": [
+                {
+                  "startUid": "u11221",
+                  "endUid": "u11231"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Grimbaskal and all four snake people are dead. All four PCs, Theba, and Obel survive; Theba was last recorded at 3 hit points. The chain ladder was destroyed. Obel finishes the snake people during a narrated ten-minute continuation, then returns from crab form.",
+        "evidence": [
+          {
+            "startUid": "u11161",
+            "endUid": "u11231"
+          }
+        ]
+      }
+    }
+  ]
+}
