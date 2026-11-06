@@ -1,0 +1,381 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-005",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml",
+    "sessionYamlSha256": "1a824854694ef5bce2cf70bf0bd081f73caef7c1753e8e66b5d9c9a26bed6ec3",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-transcript.md",
+    "transcriptSha256": "a83dfba01c720887eae3320ccaeacb5db030db3efffbbff9b502e70e1c3f5430",
+    "yamlDates": {
+      "start": null,
+      "end": null
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0050",
+        "endUid": "u0057"
+      },
+      "reading": "The narrated Mawar downtime runs from the winter of 1747–48 through spring 1749, before the new adventure.",
+      "evidence": [
+        {
+          "startUid": "u0033",
+          "endUid": "u0040",
+          "quote": "it was November of 1747."
+        },
+        {
+          "startUid": "u0050",
+          "endUid": "u0057",
+          "quote": "the winter is bitterly cold and storm-lashed"
+        },
+        {
+          "startUid": "u0058",
+          "endUid": "u0060",
+          "quote": "It's not till May of that year that the winter… that the weather finally breaks."
+        },
+        {
+          "startUid": "u0074",
+          "endUid": "u0082",
+          "quote": "The fall of 1748 lingers"
+        },
+        {
+          "startUid": "u0086",
+          "endUid": "u0089",
+          "quote": "Spring arrived—of 1749"
+        },
+        {
+          "startUid": "u0090",
+          "endUid": "u0095",
+          "quote": "It is now May 26, 1749."
+        },
+        {
+          "startUid": "u0096",
+          "endUid": "u0103",
+          "quote": "past 18 months"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "date": {
+            "year": 1747,
+            "month": 11
+          },
+          "precision": "approximate",
+          "basis": "Narrated in the polished transcript"
+        },
+        "end": {
+          "date": {
+            "year": 1749,
+            "month": 5,
+            "day": 26
+          },
+          "precision": "approximate",
+          "basis": "Narrated in the polished transcript"
+        }
+      },
+      "completion": "completed",
+      "note": "The start is month-level, not an invented November day; distant historical news does not extend the interval."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0090",
+        "endUid": "u0095"
+      },
+      "reading": "The new Hamri adventure opens on May 26, 1749; the meeting is first called evening and later corrected to late afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0090",
+          "endUid": "u0095",
+          "quote": "It is now May 26, 1749."
+        },
+        {
+          "startUid": "u0096",
+          "endUid": "u0103",
+          "quote": "in the evening of a pleasantly warm spring day"
+        },
+        {
+          "startUid": "u0118",
+          "endUid": "u0121",
+          "quote": "On a pleasant evening"
+        },
+        {
+          "startUid": "u0445",
+          "endUid": "u0447",
+          "quote": "it's dinner time, but you send a… or late afternoon, I guess"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 26
+        },
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "Explicit spoken date; later DM correction of the same continuing meeting from evening/dinner time to late afternoon."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0448",
+        "endUid": "u0449"
+      },
+      "reading": "Yazran arrives about half an hour after the messenger is sent.",
+      "evidence": [
+        {
+          "startUid": "u0448",
+          "endUid": "u0449",
+          "quote": "And about half an hour later, he shows up, his name is Yazran."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Explicit elapsed wait for the priest"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0537",
+        "endUid": "u0539"
+      },
+      "reading": "A further few minutes pass waiting for Ovina, approaching dinner time.",
+      "evidence": [
+        {
+          "startUid": "u0537",
+          "endUid": "u0539",
+          "quote": "A few more minutes pass. Another few minutes, another few minutes. Approaching dinner time now."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicit elapsed wait, without a numerical total"
+      },
+      "time": {
+        "partOfDay": "dinner time",
+        "precision": "approximate",
+        "basis": "Narrated in the polished transcript"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0589",
+        "endUid": "u0589"
+      },
+      "reading": "It is now night as the party settles on departing in the morning.",
+      "evidence": [
+        {
+          "startUid": "u0589",
+          "endUid": "u0589",
+          "quote": "it's now night, so probably best to just go in the morning"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 26
+        },
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Narrated in the polished transcript"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0625",
+        "endUid": "u0628"
+      },
+      "reading": "The next morning dawns after the night in Hamri: May 27 by the spoken opening date and explicit next-morning transition.",
+      "evidence": [
+        {
+          "startUid": "u0625",
+          "endUid": "u0628",
+          "quote": "So the next morning dawns… bright and warm."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 27
+        },
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "Next morning after the independently spoken May 26 date, not YAML-derived"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0649",
+        "endUid": "u0653"
+      },
+      "reading": "The boat leaves around 07:38 and reaches the North Cliffs area after about an hour, on the dropping tide.",
+      "evidence": [
+        {
+          "startUid": "u0649",
+          "endUid": "u0653",
+          "quote": "you leave at, you know, 7.38 in the morning"
+        },
+        {
+          "startUid": "u0654",
+          "endUid": "u0663",
+          "quote": "It takes you an hour or so to get out to this area of the cliff"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "date": {
+            "year": 1749,
+            "month": 5,
+            "day": 27
+          },
+          "clock": "07:38",
+          "precision": "approximate",
+          "basis": "DM says 7.38 in the morning with conversational qualification"
+        },
+        "end": {
+          "date": {
+            "year": 1749,
+            "month": 5,
+            "day": 27
+          },
+          "clock": "08:38",
+          "precision": "approximate",
+          "basis": "Inferred from the stated approximate departure and hour of actual sailing"
+        }
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Repeated actual sailing duration; earlier one-to-two-hour forecast is not separately counted"
+      },
+      "completion": "completed",
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Wazir",
+        "Nerissa",
+        "Ander",
+        "Rayna"
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0764",
+        "endUid": "u0765"
+      },
+      "reading": "Ryu takes the offered ten-minute Beast Sense ritual before scouting through Turk’s senses.",
+      "evidence": [
+        {
+          "startUid": "u0764",
+          "endUid": "u0765",
+          "quote": "you can cast it as a ritual by just taking 10 minutes to prepare"
+        },
+        {
+          "startUid": "u0766",
+          "endUid": "u0766",
+          "quote": "Let's do it."
+        },
+        {
+          "startUid": "u0767",
+          "endUid": "u0771",
+          "quote": "Turk, carrying Ryu's… senses… dives underwater"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Accepted ritual followed by its resolved sensory scouting"
+      },
+      "completion": "completed",
+      "actors": [
+        "Ryu"
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2690",
+        "endUid": "u2691"
+      },
+      "reading": "Over the next few minutes the party finishes the last two water creatures.",
+      "evidence": [
+        {
+          "startUid": "u2690",
+          "endUid": "u2691",
+          "quote": "In the next few minutes, you manage to… kill all these last two creatures"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicit compressed cleanup after the marid falls"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2739",
+        "endUid": "u2747"
+      },
+      "reading": "The party returns to the Leviathan Inn that afternoon, May 27; Rayna’s extra night and next-morning departure remain future plans.",
+      "evidence": [
+        {
+          "startUid": "u2739",
+          "endUid": "u2747",
+          "quote": "That afternoon, you return to the Leviathan Inn"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 27
+        },
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Same day as the explicitly narrated next morning after May 26"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "YAML drStart/drEnd are null. The transcript independently says May 26, 1749, followed by the next morning and that afternoon (May 27). Earlier narrated downtime starts in winter 1747–48 with only a month-level November reference.",
+    "expectedDateBoundaries": null,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10"
+    ],
+    "explanation": "No YAML dates exist to match or contradict. One explicit overnight is established in the focused adventure; the approximately 18-month downtime has no exact opening day, so a total span cannot be counted. Rayna’s planned additional night and departure are not completed play."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-005",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml",
+    "sessionYamlSha256": "1a824854694ef5bce2cf70bf0bd081f73caef7c1753e8e66b5d9c9a26bed6ec3",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-transcript.md",
+    "transcriptSha256": "a83dfba01c720887eae3320ccaeacb5db030db3efffbbff9b502e70e1c3f5430"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0002"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0049"
+      },
+      "category": "session_framing",
+      "note": "Geographic introduction and comparisons with other characters precede the narrated Mawar downtime."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0050",
+        "endUid": "u0103"
+      },
+      "category": "gameplay",
+      "note": "The winter-to-spring montage advances Mawar downtime; the opening meeting follows it."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0104",
+        "endUid": "u0117"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0118",
+        "endUid": "u0287"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0288",
+        "endUid": "u0297"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0298",
+        "endUid": "u0665"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0666",
+        "endUid": "u0704"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0705",
+        "endUid": "u1462"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1463",
+        "endUid": "u1562"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1563",
+        "endUid": "u1612"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1613",
+        "endUid": "u2691"
+      },
+      "category": "combat",
+      "note": "One continuous initiative encounter, including the marid’s mist escape, return and compressed defeat of the remaining creatures."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2692",
+        "endUid": "u2750"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2751",
+        "endUid": "u2755"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

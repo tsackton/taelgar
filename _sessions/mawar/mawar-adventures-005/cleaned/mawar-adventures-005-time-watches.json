@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml",
+  "source": {
+    "path": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-time-markers.json",
+    "sha256": "ebd77ba55c1859e18e6679b04d81d9fe0d4afa149bf3f34b47be8959a9db7724"
+  },
+  "transcript": {
+    "path": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-transcript.md",
+    "sha256": "a83dfba01c720887eae3320ccaeacb5db030db3efffbbff9b502e70e1c3f5430"
+  },
+  "dateAssessment": "Campaign dates come from the polished transcript, not the null YAML dates. The new adventure opens on **May 26, 1749** (t02); the explicit next morning and afternoon return establish **May 27** (t06, t10). The opening also narrates roughly eighteen months of Mawar downtime from winter 1747–48 through spring 1749 (t01), with no exact opening day. The YAML assessment is **compatible**, because there are no supplied dates to compare and no exact total for that montage. The late-afternoon correction supersedes the initial evening description of the meeting. Dusk and the continuing cave morning below are watch estimates. Rayna’s further night and voyage remain plans beyond the played ending.",
+  "watches": [
+    {
+      "day": "Winter 1747–spring 1749 (downtime)",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Mawar’s winter-to-spring montage precedes the May 26 opening; its first day and watches remain unspecified.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "May 26, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Meeting corrected to late afternoon; Yazran arrives about half an hour after the messenger.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "startDate": "1749-05-26",
+      "endDate": "1749-05-26"
+    },
+    {
+      "day": "May 26, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Ovina arrives after further minutes near dinner; night is established before the morning-departure plan.",
+      "markers": [
+        "t04",
+        "t05"
+      ],
+      "startDate": "1749-05-26",
+      "endDate": "1749-05-26"
+    },
+    {
+      "day": "May 27, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The next morning dawns bright and warm after the night in Hamri.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-05-27",
+      "endDate": "1749-05-27"
+    },
+    {
+      "day": "May 27, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Sail around 07:38 for an hour; Ryu’s ten-minute ritual precedes cave exploration and a few minutes of final combat cleanup.",
+      "markers": [
+        "t07",
+        "t08",
+        "t09"
+      ],
+      "startDate": "1749-05-27",
+      "endDate": "1749-05-27",
+      "sourceRanges": [
+        [
+          "u0649",
+          "u0663"
+        ],
+        [
+          "u0764",
+          "u0771"
+        ],
+        [
+          "u2690",
+          "u2691"
+        ]
+      ]
+    },
+    {
+      "day": "May 27, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "The party returns to the Leviathan Inn that afternoon; Rayna’s onward voyage remains prospective.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1749-05-27",
+      "endDate": "1749-05-27"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Mawar 003 competing entity classification",
+      "path": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-entity-map.json",
+      "sha256": "268c432252b82ed074c9b04e94da05cb4a65c134735edad1f4b6ec1ca98edc5a"
+    },
+    {
+      "label": "Mawar 004 competing entity classification",
+      "path": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-entity-map.json",
+      "sha256": "eec6418c3d2597b2dd7ee933d4b405def9607d6a26c61f447fdbd6dc0be517cd"
+    }
+  ]
+}
